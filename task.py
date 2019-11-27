@@ -1,0 +1,31 @@
+import subprocess
+import time
+import os
+
+from datetime import datetime
+from git import Repo
+
+
+def push2github():
+    repo = Repo(os.path.split(os.path.realpath(__file__))[0])
+    remote = repo.remote()
+    remote.pull()
+    mod_count = 0
+    for item in repo.index.diff(None):
+        if item.a_path.startswith("archive/"):
+            repo.index.add(item.a_path)
+            mod_count += 1
+    if mod_count > 0:
+        repo.index.commit("crawler auto commit")
+        remote.push()
+
+
+while True:
+    # Run every hour
+    now = datetime.now()
+    if now.minute == 0:
+        subprocess.call(["scrapy", "crawl", "trending"])
+        push2github()
+        time.sleep(60 * 50)
+    else:
+        time.sleep(1)
