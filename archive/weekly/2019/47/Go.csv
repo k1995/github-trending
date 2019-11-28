@@ -1,8 +1,8 @@
 name,lang,new stars
 avelino/awesome-go,Go,234
-gin-gonic/gin,Go,284
-fatedier/frp,Go,327
-v2ray/v2ray-core,Go,455
+gin-gonic/gin,Go,286
+fatedier/frp,Go,328
+v2ray/v2ray-core,Go,456
 labstack/echo,Go,229
 hashicorp/vault,Go,66
 yudai/gotty,Go,90
@@ -10,7 +10,7 @@ rancher/rancher,Go,63
 chai2010/advanced-go-programming-book,Go,660
 helm/charts,Go,128
 rancher/k3s,Go,534
-grafana/loki,Go,243
+grafana/loki,Go,245
 therecipe/qt,Go,167
 Shopify/sarama,Go,41
 ginuerzh/gost,Go,222

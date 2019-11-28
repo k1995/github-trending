@@ -1,5 +1,5 @@
 name,lang,new stars
-tensorflow/tensorflow,C++,628
+tensorflow/tensorflow,C++,629
 opencv/opencv,C++,213
 pytorch/pytorch,C++,261
 tesseract-ocr/tesseract,C++,165
@@ -10,11 +10,11 @@ ClickHouse/ClickHouse,C++,68
 pybind/pybind11,C++,44
 dolphin-emu/dolphin,C++,77
 citra-emu/citra,C++,21
-CoatiSoftware/Sourcetrail,C++,2120
+CoatiSoftware/Sourcetrail,C++,1558
 google/mediapipe,C++,73
 JoeyDeVries/LearnOpenGL,C++,134
 halide/Halide,C++,22
-fireice-uk/xmr-stak,C++,16
+fireice-uk/xmr-stak,C++,17
 trojan-gfw/trojan,C++,160
 xmrig/xmrig,C++,37
 interpretml/interpret,C++,49

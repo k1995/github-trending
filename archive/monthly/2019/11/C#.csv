@@ -1,10 +1,10 @@
 name,lang,new stars
 shadowsocks/shadowsocks-windows,C#,1236
 aspnet/AspNetCore,C#,575
-dotnet-architecture/eShopOnContainers,C#,368
-MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,215
+dotnet-architecture/eShopOnContainers,C#,369
+MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,216
 cefsharp/CefSharp,C#,140
-GoogleCloudPlatform/microservices-demo,C#,289
+GoogleCloudPlatform/microservices-demo,C#,290
 MahApps/MahApps.Metro,C#,121
 dotnet/orleans,C#,455
 JeffreySu/WeiXinMPSDK,C#,134
@@ -15,7 +15,7 @@ StackExchange/StackExchange.Redis,C#,73
 egametang/ET,C#,115
 microsoft/BotBuilder-Samples,C#,76
 davidfowl/AspNetCoreDiagnosticScenarios,C#,203
-huiyadanli/RevokeMsgPatcher,C#,1098
+huiyadanli/RevokeMsgPatcher,C#,1099
 microsoft/microsoft-ui-xaml,C#,203
 danielgerlag/workflow-core,C#,182
 dockersamples/example-voting-app,C#,60

@@ -1,12 +1,12 @@
 name,lang,new stars
-torvalds/linux,C,1650
-antirez/redis,C,622
+torvalds/linux,C,1655
+antirez/redis,C,623
 FFmpeg/FFmpeg,C,435
-pjreddie/darknet,C,395
+pjreddie/darknet,C,396
 openssl/openssl,C,259
-robertdavidgraham/masscan,C,563
-nothings/stb,C,285
-facebook/zstd,C,249
+robertdavidgraham/masscan,C,566
+nothings/stb,C,286
+facebook/zstd,C,251
 raspberrypi/linux,C,183
 bingoogolapple/BGAQRCode-Android,C,149
 happyfish100/fastdfs,C,252
