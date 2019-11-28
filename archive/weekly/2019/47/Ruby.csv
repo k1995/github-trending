@@ -1,10 +1,10 @@
 name,lang,new stars
 jekyll/jekyll,Ruby,62
-fastlane/fastlane,Ruby,86
-huginn/huginn,Ruby,90
+fastlane/fastlane,Ruby,88
+huginn/huginn,Ruby,91
 plataformatec/devise,Ruby,22
 Homebrew/brew,Ruby,79
-hashicorp/vagrant,Ruby,50
+hashicorp/vagrant,Ruby,51
 rapid7/metasploit-framework,Ruby,123
 ruby/ruby,Ruby,24
 twbs/bootstrap-sass,Ruby,4
@@ -12,7 +12,7 @@ sinatra/sinatra,Ruby,13
 mperham/sidekiq,Ruby,21
 activeadmin/activeadmin,Ruby,10
 fluent/fluentd,Ruby,32
-github/linguist,Ruby,20
+github/linguist,Ruby,21
 thoughtbot/factory_bot,Ruby,11
 ruby-concurrency/concurrent-ruby,Ruby,11
 github/markup,Ruby,7
