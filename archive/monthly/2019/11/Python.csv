@@ -1,7 +1,7 @@
 name,lang,new stars
-ansible/ansible,Python,745
+ansible/ansible,Python,746
 scikit-learn/scikit-learn,Python,651
-home-assistant/home-assistant,Python,1064
+home-assistant/home-assistant,Python,1066
 getsentry/sentry,Python,559
 localstack/localstack,Python,1943
 google-research/bert,Python,923
@@ -15,12 +15,12 @@ pytorch/examples,Python,490
 swisskyrepo/PayloadsAllTheThings,Python,756
 openai/gpt-2,Python,1654
 sherlock-project/sherlock,Python,649
-ddbourgin/numpy-ml,Python,474
-facebookresearch/detectron2,Python,1369
-streamlit/streamlit,Python,2078
-eriklindernoren/PyTorch-GAN,Python,349
+ddbourgin/numpy-ml,Python,476
+facebookresearch/detectron2,Python,1375
+streamlit/streamlit,Python,2080
+eriklindernoren/PyTorch-GAN,Python,350
 iGhibli/iOS-DeviceSupport,Python,646
-shenweichen/DeepCTR,Python,314
+shenweichen/DeepCTR,Python,315
 dbolya/yolact,Python,290
 sundowndev/PhoneInfoga,Python,142
-harismuneer/Ultimate-Facebook-Scraper,Python,501
+harismuneer/Ultimate-Facebook-Scraper,Python,508
