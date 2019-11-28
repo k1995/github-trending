@@ -1,15 +1,15 @@
 name,lang,new stars
 PowerShell/PowerShell,C#,89
-aspnet/AspNetCore,C#,174
-0xd4d/dnSpy,C#,106
-dotnet-architecture/eShopOnContainers,C#,113
+aspnet/AspNetCore,C#,176
+0xd4d/dnSpy,C#,108
+dotnet-architecture/eShopOnContainers,C#,112
 MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,57
 GoogleCloudPlatform/microservices-demo,C#,69
 aspnet/AspNetCore.Docs,C#,55
 MonoGame/MonoGame,C#,32
 xamarin/Xamarin.Forms,C#,27
 StackExchange/StackExchange.Redis,C#,23
-2dust/v2rayN,C#,327
+2dust/v2rayN,C#,328
 PrismLibrary/Prism,C#,24
 QuantConnect/Lean,C#,34
 JasonGT/NorthwindTraders,C#,39
@@ -21,6 +21,6 @@ davidfowl/AspNetCoreDiagnosticScenarios,C#,83
 TGSAN/CMWTAT_Digital_Edition,C#,44
 HMBSbige/ShadowsocksR-Windows,C#,87
 kwsch/PKHeX,C#,40
-Coldairarrow/Colder.Admin.AntdVue,C#,75
+Coldairarrow/Colder.Admin.AntdVue,C#,76
 Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,7
 Azure/azure-cosmos-dotnet-v3,C#,7
