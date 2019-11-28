@@ -67,7 +67,7 @@ class TrendingSpider(scrapy.Spider):
         else:
             lang_encoded = urllib.parse.quote_plus(lang_filter)
             url = "https://github.com/trending/{}?since={}".format(lang_encoded, date_range)
-        return scrapy.Request(url, meta={'since': date_range, 'lang': lang_filter, 'proxy': "http://127.0.0.1:1080"})
+        return scrapy.Request(url, meta={'since': date_range, 'lang': lang_filter})
 
     def parse(self, response):
         """
@@ -102,7 +102,6 @@ class TrendingSpider(scrapy.Spider):
         req.meta['lang'] = response.meta.get('lang')
         req.meta['stars_list'] = stars_list
         req.headers.setdefault('Authorization', "bearer {}".format(settings.token))
-        req.meta['proxy'] = "http://127.0.0.1:1080"
         return req
 
     def parse_api_response(self, response):
