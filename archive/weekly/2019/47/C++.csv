@@ -1,10 +1,10 @@
 name,lang,new stars
-tensorflow/tensorflow,C++,623
-opencv/opencv,C++,212
-pytorch/pytorch,C++,258
-tesseract-ocr/tesseract,C++,164
+tensorflow/tensorflow,C++,626
+opencv/opencv,C++,213
+pytorch/pytorch,C++,259
+tesseract-ocr/tesseract,C++,165
 haoel/leetcode,C++,107
-envoyproxy/envoy,C++,73
+envoyproxy/envoy,C++,74
 vnpy/vnpy,C++,73
 ClickHouse/ClickHouse,C++,68
 pybind/pybind11,C++,44
@@ -15,7 +15,7 @@ google/mediapipe,C++,73
 JoeyDeVries/LearnOpenGL,C++,134
 halide/Halide,C++,22
 fireice-uk/xmr-stak,C++,15
-trojan-gfw/trojan,C++,158
+trojan-gfw/trojan,C++,160
 xmrig/xmrig,C++,37
 interpretml/interpret,C++,49
 diasurgical/devilutionX,C++,47

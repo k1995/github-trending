@@ -1,6 +1,6 @@
 name,lang,new stars
-torvalds/linux,C,425
-Genymobile/scrcpy,C,489
+torvalds/linux,C,426
+Genymobile/scrcpy,C,493
 FFmpeg/FFmpeg,C,108
 tmux/tmux,C,105
 pjreddie/darknet,C,106
@@ -14,7 +14,7 @@ SoftEtherVPN/SoftEtherVPN,C,32
 happyfish100/fastdfs,C,92
 coolsnowwolf/lede,C,106
 jemalloc/jemalloc,C,24
-RT-Thread/rt-thread,C,76
+RT-Thread/rt-thread,C,77
 Cyan4973/xxHash,C,40
 mit-pdos/xv6-public,C,26
 RIOT-OS/RIOT,C,43
