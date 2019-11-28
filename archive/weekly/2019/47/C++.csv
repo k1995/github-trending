@@ -1,7 +1,7 @@
 name,lang,new stars
 tensorflow/tensorflow,C++,632
 opencv/opencv,C++,216
-pytorch/pytorch,C++,262
+pytorch/pytorch,C++,263
 tesseract-ocr/tesseract,C++,165
 haoel/leetcode,C++,109
 envoyproxy/envoy,C++,76
@@ -18,7 +18,7 @@ fireice-uk/xmr-stak,C++,17
 trojan-gfw/trojan,C++,160
 xmrig/xmrig,C++,37
 interpretml/interpret,C++,49
-diasurgical/devilutionX,C++,47
+diasurgical/devilutionX,C++,48
 intel/mkl-dnn,C++,9
 NVIDIAGameWorks/kaolin,C++,220
 rapidsai/cuml,C++,148

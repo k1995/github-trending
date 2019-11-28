@@ -1,5 +1,5 @@
 name,lang,new stars
-avelino/awesome-go,Go,234
+avelino/awesome-go,Go,235
 gin-gonic/gin,Go,288
 fatedier/frp,Go,328
 v2ray/v2ray-core,Go,456
@@ -9,12 +9,12 @@ yudai/gotty,Go,90
 rancher/rancher,Go,63
 chai2010/advanced-go-programming-book,Go,660
 helm/charts,Go,128
-rancher/k3s,Go,535
-grafana/loki,Go,245
-therecipe/qt,Go,168
+rancher/k3s,Go,538
+grafana/loki,Go,246
+therecipe/qt,Go,169
 Shopify/sarama,Go,41
 ginuerzh/gost,Go,222
-kubernetes-sigs/kustomize,Go,71
+kubernetes-sigs/kustomize,Go,73
 OpenDiablo2/OpenDiablo2,Go,372
 lucas-clemente/quic-go,Go,121
 allegro/bigcache,Go,148
