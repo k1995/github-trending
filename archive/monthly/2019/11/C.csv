@@ -1,18 +1,18 @@
 name,lang,new stars
-torvalds/linux,C,1646
-antirez/redis,C,631
+torvalds/linux,C,1649
+antirez/redis,C,632
 git/git,C,622
-FFmpeg/FFmpeg,C,434
-pjreddie/darknet,C,398
+FFmpeg/FFmpeg,C,435
+pjreddie/darknet,C,400
 openssl/openssl,C,262
 robertdavidgraham/masscan,C,561
-cloudwu/skynet,C,134
-timescale/timescaledb,C,149
+cloudwu/skynet,C,138
+timescale/timescaledb,C,150
 raspberrypi/linux,C,185
-bingoogolapple/BGAQRCode-Android,C,149
+bingoogolapple/BGAQRCode-Android,C,150
 coolsnowwolf/lede,C,490
 aquynh/capstone,C,70
-RT-Thread/rt-thread,C,280
+RT-Thread/rt-thread,C,283
 darktable-org/darktable,C,142
 qemu/qemu,C,198
 esnet/iperf,C,80
@@ -22,5 +22,5 @@ guanzhi/GmSSL,C,77
 OISF/suricata,C,59
 openssh/openssh-portable,C,98
 acidanthera/OpenCorePkg,C,208
-CloverHackyColor/CloverBootloader,C,295
+CloverHackyColor/CloverBootloader,C,296
 signalwire/freeswitch,C,96

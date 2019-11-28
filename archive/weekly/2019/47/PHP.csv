@@ -1,11 +1,11 @@
 name,lang,new stars
-fzaninotto/Faker,PHP,93
-symfony/symfony,PHP,121
-laravel/framework,PHP,70
-guzzle/guzzle,PHP,76
-Seldaek/monolog,PHP,85
-sebastianbergmann/phpunit,PHP,70
-PHPMailer/PHPMailer,PHP,52
+fzaninotto/Faker,PHP,95
+symfony/symfony,PHP,120
+laravel/framework,PHP,71
+guzzle/guzzle,PHP,77
+Seldaek/monolog,PHP,86
+sebastianbergmann/phpunit,PHP,71
+PHPMailer/PHPMailer,PHP,55
 FriendsOfPHP/PHP-CS-Fixer,PHP,31
 symfony/console,PHP,54
 doctrine/orm,PHP,50
@@ -20,6 +20,6 @@ akaunting/akaunting,PHP,19
 sensiolabs/SensioFrameworkExtraBundle,PHP,33
 symfony/framework-bundle,PHP,35
 symfony/monolog-bundle,PHP,26
-bagisto/bagisto,PHP,22
+bagisto/bagisto,PHP,23
 Tuhinshubhra/RED_HAWK,PHP,19
 sprintcube/docker-compose-lamp,PHP,64
