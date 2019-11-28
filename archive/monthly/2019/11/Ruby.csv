@@ -1,13 +1,13 @@
 name,lang,new stars
-rails/rails,Ruby,272
-fastlane/fastlane,Ruby,311
+rails/rails,Ruby,274
+fastlane/fastlane,Ruby,313
 huginn/huginn,Ruby,287
 plataformatec/devise,Ruby,93
-tootsuite/mastodon,Ruby,497
+tootsuite/mastodon,Ruby,498
 Homebrew/homebrew-cask,Ruby,155
 elastic/logstash,Ruby,143
 faker-ruby/faker,Ruby,77
-github/linguist,Ruby,99
+github/linguist,Ruby,100
 Homebrew/homebrew-core,Ruby,147
 chef/chef,Ruby,59
 greatghoul/remote-working,Ruby,453
@@ -16,7 +16,7 @@ github/scientist,Ruby,203
 rmosolgo/graphql-ruby,Ruby,61
 jruby/jruby,Ruby,22
 billie66/TLCL,Ruby,136
-chatwoot/chatwoot,Ruby,1910
+chatwoot/chatwoot,Ruby,1911
 zammad/zammad,Ruby,66
 github/choosealicense.com,Ruby,42
 projectcalico/calico,Ruby,77
