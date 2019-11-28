@@ -1,5 +1,5 @@
 name,lang,new stars
-getsentry/sentry,Python,43
+getsentry/sentry,Python,102
 celery/celery,Python,8
 bokeh/bokeh,Python,24
 sherlock-project/sherlock,Python,92
@@ -21,6 +21,6 @@ harismuneer/Ultimate-Facebook-Scraper,Python,68
 aws/sagemaker-python-sdk,Python,1
 anchore/anchore-engine,Python,2
 aivivn/Machine-Learning-Yearning-Vietnamese-Translation,Python,5
-vmware/vsphere-automation-sdk-python,Python,2
 s0md3v/Corsy,Python,37
+vmware/vsphere-automation-sdk-python,Python,2
 koursaros-ai/nboost,Python,21

@@ -1,15 +1,15 @@
 name,lang,new stars
 PowerShell/PowerShell,C#,89
-aspnet/AspNetCore,C#,176
+aspnet/AspNetCore,C#,178
 0xd4d/dnSpy,C#,108
-dotnet-architecture/eShopOnContainers,C#,112
+dotnet-architecture/eShopOnContainers,C#,113
 MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,57
 GoogleCloudPlatform/microservices-demo,C#,69
 aspnet/AspNetCore.Docs,C#,55
 MonoGame/MonoGame,C#,32
 xamarin/Xamarin.Forms,C#,27
 StackExchange/StackExchange.Redis,C#,23
-2dust/v2rayN,C#,328
+2dust/v2rayN,C#,329
 PrismLibrary/Prism,C#,24
 QuantConnect/Lean,C#,34
 JasonGT/NorthwindTraders,C#,39
@@ -17,7 +17,7 @@ egametang/ET,C#,34
 dotnetcore/surging,C#,24
 Unity-Technologies/ScriptableRenderPipeline,C#,27
 microsoft/BotBuilder-Samples,C#,21
-davidfowl/AspNetCoreDiagnosticScenarios,C#,83
+davidfowl/AspNetCoreDiagnosticScenarios,C#,85
 TGSAN/CMWTAT_Digital_Edition,C#,44
 HMBSbige/ShadowsocksR-Windows,C#,87
 kwsch/PKHeX,C#,40

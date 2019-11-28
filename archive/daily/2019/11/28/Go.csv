@@ -21,6 +21,6 @@ golang-migrate/migrate,Go,8
 go-gorp/gorp,Go,0
 open-policy-agent/opa,Go,4
 mailru/easyjson,Go,4
-gardener/gardener,Go,5
+gardener/gardener,Go,7
 GoogleCloudPlatform/spark-on-k8s-operator,Go,1
 prometheus/statsd_exporter,Go,0

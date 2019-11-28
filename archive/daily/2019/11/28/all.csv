@@ -1,14 +1,14 @@
 name,lang,new stars
 protocolbuffers/protobuf,C++,33
 JuliaLang/julia,Julia,35
-getsentry/sentry,Python,43
+getsentry/sentry,Python,102
 airbnb/lottie-ios,Swift,10
 jinzhu/gorm,Go,25
 golang/dep,Go,10
 jumpserver/jumpserver,JavaScript,30
 grpc/grpc-go,Go,9
 SortableJS/Vue.Draggable,JavaScript,25
-mockito/mockito,Java,16
+mockito/mockito,Java,46
 sherlock-project/sherlock,Python,92
 golang/protobuf,Go,48
 lucas-clemente/quic-go,Go,12
