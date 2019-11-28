@@ -1,25 +1,25 @@
 name,lang,new stars
-protocolbuffers/protobuf,C++,33
-JuliaLang/julia,Julia,35
-getsentry/sentry,Python,43
-airbnb/lottie-ios,Swift,10
+protocolbuffers/protobuf,C++,43
+JuliaLang/julia,Julia,41
+getsentry/sentry,Python,44
+airbnb/lottie-ios,Swift,15
 jinzhu/gorm,Go,25
-golang/dep,Go,10
-jumpserver/jumpserver,JavaScript,30
-grpc/grpc-go,Go,9
-SortableJS/Vue.Draggable,JavaScript,25
-mockito/mockito,Java,16
-sherlock-project/sherlock,Python,92
-golang/protobuf,Go,48
-lucas-clemente/quic-go,Go,12
-ultralytics/yolov3,Jupyter Notebook,23
-qingshuisiyuan/electron-ssr-backup,,20
-Anuken/Mindustry,Java,43
-chiphuyen/machine-learning-systems-design,HTML,352
-hecrj/iced,Rust,275
-harismuneer/Ultimate-Facebook-Scraper,Python,68
+golang/dep,Go,11
+jumpserver/jumpserver,JavaScript,35
+grpc/grpc-go,Go,11
+SortableJS/Vue.Draggable,JavaScript,27
+mockito/mockito,Java,17
+sherlock-project/sherlock,Python,90
+golang/protobuf,Go,47
+lucas-clemente/quic-go,Go,13
+ultralytics/yolov3,Jupyter Notebook,29
+qingshuisiyuan/electron-ssr-backup,,18
+Anuken/Mindustry,Java,34
+chiphuyen/machine-learning-systems-design,HTML,366
+hecrj/iced,Rust,298
+harismuneer/Ultimate-Facebook-Scraper,Python,54
 aws/sagemaker-python-sdk,Python,1
-joeferraro/react-native-cookies,Objective-C,0
-deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,24
-s0md3v/Corsy,Python,37
-Thomvaill/tads-boilerplate,Shell,28
+joeferraro/react-native-cookies,Objective-C,7
+deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,28
+s0md3v/Corsy,Python,36
+Thomvaill/tads-boilerplate,Shell,29
