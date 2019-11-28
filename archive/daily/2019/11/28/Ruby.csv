@@ -1,16 +1,16 @@
 name,lang,new stars
 CocoaPods/CocoaPods,Ruby,6
 mperham/sidekiq,Ruby,1
-thoughtbot/paperclip,Ruby,0
+thoughtbot/paperclip,Ruby,1
 ruby-grape/grape,Ruby,0
 fluent/fluentd,Ruby,6
 faker-ruby/faker,Ruby,4
-github/linguist,Ruby,4
+github/linguist,Ruby,5
 thoughtbot/factory_bot,Ruby,2
 paper-trail-gem/paper_trail,Ruby,4
 ankane/searchkick,Ruby,1
 rails-api/active_model_serializers,Ruby,1
-github/markup,Ruby,1
+github/markup,Ruby,2
 vcr/vcr,Ruby,1
 activemerchant/active_merchant,Ruby,2
 haml/haml,Ruby,1
