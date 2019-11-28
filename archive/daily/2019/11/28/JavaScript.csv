@@ -1,20 +1,20 @@
 name,lang,new stars
 moment/moment,JavaScript,14
 immutable-js/immutable-js,JavaScript,17
-apache/incubator-superset,JavaScript,15
-styled-components/styled-components,JavaScript,25
+apache/incubator-superset,JavaScript,14
+styled-components/styled-components,JavaScript,24
 jondot/awesome-react-native,JavaScript,17
-kenwheeler/slick,JavaScript,12
+kenwheeler/slick,JavaScript,11
 quilljs/quill,JavaScript,13
 nuxt/nuxt.js,JavaScript,25
 ramda/ramda,JavaScript,21
 facebook/draft-js,JavaScript,6
-cypress-io/cypress,CoffeeScript,173
+cypress-io/cypress,CoffeeScript,172
 statsd/statsd,JavaScript,4
 eligrey/FileSaver.js,JavaScript,13
-jumpserver/jumpserver,JavaScript,35
-SortableJS/Vue.Draggable,JavaScript,27
-bpampuch/pdfmake,JavaScript,27
+jumpserver/jumpserver,JavaScript,30
+SortableJS/Vue.Draggable,JavaScript,25
+bpampuch/pdfmake,JavaScript,26
 openlayers/openlayers,JavaScript,6
 foliojs/pdfkit,JavaScript,9
 mapbox/mapbox-gl-js,JavaScript,8
