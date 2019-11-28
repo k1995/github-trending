@@ -1,10 +1,10 @@
 name,lang,new stars
-kubernetes/kubernetes,Go,1301
+kubernetes/kubernetes,Go,1302
 moby/moby,Go,416
-gin-gonic/gin,Go,1015
-fatedier/frp,Go,1381
+gin-gonic/gin,Go,1016
+fatedier/frp,Go,1385
 ethereum/go-ethereum,Go,485
-pingcap/tidb,Go,576
+pingcap/tidb,Go,577
 unknwon/the-way-to-go_ZH_CN,Go,1013
 influxdata/influxdb,Go,247
 helm/helm,Go,655
@@ -13,14 +13,14 @@ hyperledger/fabric,Go,353
 vitessio/vitess,Go,356
 ipfs/go-ipfs,Go,164
 restic/restic,Go,876
-GoogleContainerTools/skaffold,Go,761
+GoogleContainerTools/skaffold,Go,762
 uber-go/zap,Go,362
 hoanhan101/ultimate-go,Go,2055
 developer-learning/night-reading-go,Go,581
-go-playground/validator,Go,430
+go-playground/validator,Go,433
 derailed/k9s,Go,551
 lxn/walk,Go,102
 btcsuite/btcd,Go,78
-GoAdminGroup/go-admin,Go,845
+GoAdminGroup/go-admin,Go,847
 roboll/helmfile,Go,133
 VictoriaMetrics/VictoriaMetrics,Go,153

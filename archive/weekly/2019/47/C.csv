@@ -1,13 +1,13 @@
 name,lang,new stars
-torvalds/linux,C,426
-Genymobile/scrcpy,C,483
-pjreddie/darknet,C,109
-Awesome-HarmonyOS/HarmonyOS,C,51
-robertdavidgraham/masscan,C,111
-nothings/stb,C,90
+torvalds/linux,C,427
+Genymobile/scrcpy,C,486
+pjreddie/darknet,C,111
+Awesome-HarmonyOS/HarmonyOS,C,52
+robertdavidgraham/masscan,C,113
+nothings/stb,C,91
 taosdata/TDengine,C,61
 esp8266/Arduino,C,36
-gentilkiwi/mimikatz,C,59
+gentilkiwi/mimikatz,C,62
 openresty/lua-nginx-module,C,34
 swaywm/sway,C,40
 raspberrypi/linux,C,110
@@ -21,6 +21,6 @@ Cyan4973/xxHash,C,43
 mit-pdos/xv6-public,C,27
 zephyrproject-rtos/zephyr,C,33
 F-Stack/f-stack,C,25
-zlgopen/awtk,C,125
-ShadowsocksR-Live/shadowsocksr-native,C,64
+zlgopen/awtk,C,126
+ShadowsocksR-Live/shadowsocksr-native,C,65
 signalwire/freeswitch,C,20

@@ -1,7 +1,7 @@
 name,lang,new stars
 fzaninotto/Faker,PHP,349
 symfony/symfony,PHP,379
-danielmiessler/SecLists,PHP,804
+danielmiessler/SecLists,PHP,805
 yiisoft/yii2,PHP,85
 WordPress/WordPress,PHP,191
 nextcloud/server,PHP,281
@@ -21,6 +21,6 @@ hyperf/hyperf,PHP,266
 wikimedia/mediawiki,PHP,61
 librenms/librenms,PHP,40
 maicong/music,PHP,68
-pmmp/PocketMine-MP,PHP,51
+pmmp/PocketMine-MP,PHP,52
 Dolibarr/dolibarr,PHP,56
 onlychain/OCSystem,PHP,529

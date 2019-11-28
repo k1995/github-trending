@@ -1,10 +1,10 @@
 name,lang,new stars
-tensorflow/tensorflow,C++,2011
-apple/swift,C++,496
+tensorflow/tensorflow,C++,2012
+apple/swift,C++,498
 bitcoin/bitcoin,C++,843
-opencv/opencv,C++,990
+opencv/opencv,C++,991
 godotengine/godot,C++,973
-nlohmann/json,C++,528
+nlohmann/json,C++,529
 facebook/rocksdb,C++,288
 CMU-Perceptual-Computing-Lab/openpose,C++,430
 haoel/leetcode,C++,473
@@ -19,7 +19,7 @@ fmtlib/fmt,C++,364
 abseil/abseil-cpp,C++,163
 dolphin-emu/dolphin,C++,140
 PointCloudLibrary/pcl,C++,143
-JoeyDeVries/LearnOpenGL,C++,222
+JoeyDeVries/LearnOpenGL,C++,223
 llvm/llvm-project,C++,495
 tdlib/td,C++,84
 diasurgical/devilutionX,C++,138

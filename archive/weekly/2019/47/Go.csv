@@ -1,20 +1,20 @@
 name,lang,new stars
 avelino/awesome-go,Go,247
-gin-gonic/gin,Go,288
-fatedier/frp,Go,334
-v2ray/v2ray-core,Go,475
-labstack/echo,Go,225
+gin-gonic/gin,Go,289
+fatedier/frp,Go,338
+v2ray/v2ray-core,Go,478
+labstack/echo,Go,226
 hashicorp/vault,Go,62
 yudai/gotty,Go,78
 rancher/rancher,Go,59
 chai2010/advanced-go-programming-book,Go,746
 helm/charts,Go,128
-rancher/k3s,Go,581
-grafana/loki,Go,271
-therecipe/qt,Go,155
+rancher/k3s,Go,584
+grafana/loki,Go,272
+therecipe/qt,Go,156
 Shopify/sarama,Go,45
 ginuerzh/gost,Go,222
-kubernetes-sigs/kustomize,Go,75
+kubernetes-sigs/kustomize,Go,76
 OpenDiablo2/OpenDiablo2,Go,600
 lucas-clemente/quic-go,Go,62
 allegro/bigcache,Go,151
@@ -22,5 +22,5 @@ baidu/bfe,Go,777
 tinode/chat,Go,70
 slackhq/nebula,Go,1299
 kubeedge/kubeedge,Go,47
-kubesphere/kubesphere,Go,84
+kubesphere/kubesphere,Go,85
 kedacore/keda,Go,54
