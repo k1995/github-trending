@@ -1,18 +1,18 @@
 name,lang,new stars
-jekyll/jekyll,Ruby,66
-fastlane/fastlane,Ruby,97
+jekyll/jekyll,Ruby,67
+fastlane/fastlane,Ruby,96
 huginn/huginn,Ruby,94
 plataformatec/devise,Ruby,22
-Homebrew/brew,Ruby,90
+Homebrew/brew,Ruby,91
 hashicorp/vagrant,Ruby,54
-rapid7/metasploit-framework,Ruby,129
+rapid7/metasploit-framework,Ruby,132
 ruby/ruby,Ruby,24
 twbs/bootstrap-sass,Ruby,4
 sinatra/sinatra,Ruby,14
 mperham/sidekiq,Ruby,24
 activeadmin/activeadmin,Ruby,11
 fluent/fluentd,Ruby,33
-github/linguist,Ruby,25
+github/linguist,Ruby,26
 thoughtbot/factory_bot,Ruby,11
 ruby-concurrency/concurrent-ruby,Ruby,11
 github/markup,Ruby,9
@@ -23,4 +23,4 @@ chatwoot/chatwoot,Ruby,412
 sorbet/sorbet,Ruby,25
 citation-style-language/styles,Ruby,8
 elastic/ansible-elasticsearch,Ruby,8
-dependabot/dependabot-core,Ruby,20
+dependabot/dependabot-core,Ruby,21

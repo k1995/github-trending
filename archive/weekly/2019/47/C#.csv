@@ -1,18 +1,18 @@
 name,lang,new stars
-PowerShell/PowerShell,C#,91
-aspnet/AspNetCore,C#,179
+PowerShell/PowerShell,C#,92
+aspnet/AspNetCore,C#,180
 0xd4d/dnSpy,C#,108
-dotnet-architecture/eShopOnContainers,C#,113
+dotnet-architecture/eShopOnContainers,C#,114
 MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,57
 GoogleCloudPlatform/microservices-demo,C#,70
 aspnet/AspNetCore.Docs,C#,56
 MonoGame/MonoGame,C#,32
 xamarin/Xamarin.Forms,C#,28
-StackExchange/StackExchange.Redis,C#,23
-2dust/v2rayN,C#,334
+StackExchange/StackExchange.Redis,C#,24
+2dust/v2rayN,C#,335
 PrismLibrary/Prism,C#,24
 QuantConnect/Lean,C#,35
-JasonGT/NorthwindTraders,C#,40
+JasonGT/NorthwindTraders,C#,41
 egametang/ET,C#,34
 dotnetcore/surging,C#,24
 Unity-Technologies/ScriptableRenderPipeline,C#,27
@@ -20,7 +20,7 @@ microsoft/BotBuilder-Samples,C#,21
 davidfowl/AspNetCoreDiagnosticScenarios,C#,86
 TGSAN/CMWTAT_Digital_Edition,C#,44
 HMBSbige/ShadowsocksR-Windows,C#,87
-kwsch/PKHeX,C#,40
+kwsch/PKHeX,C#,41
 Coldairarrow/Colder.Admin.AntdVue,C#,77
 Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,8
 Azure/azure-cosmos-dotnet-v3,C#,7

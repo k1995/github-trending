@@ -1,6 +1,6 @@
 name,lang,new stars
-torvalds/linux,C,1665
-antirez/redis,C,636
+torvalds/linux,C,1669
+antirez/redis,C,637
 git/git,C,625
 FFmpeg/FFmpeg,C,446
 pjreddie/darknet,C,402
@@ -10,7 +10,7 @@ cloudwu/skynet,C,140
 timescale/timescaledb,C,151
 raspberrypi/linux,C,186
 bingoogolapple/BGAQRCode-Android,C,152
-coolsnowwolf/lede,C,494
+coolsnowwolf/lede,C,496
 aquynh/capstone,C,70
 RT-Thread/rt-thread,C,284
 darktable-org/darktable,C,142

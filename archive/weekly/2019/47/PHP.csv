@@ -1,16 +1,16 @@
 name,lang,new stars
-fzaninotto/Faker,PHP,100
+fzaninotto/Faker,PHP,101
 symfony/symfony,PHP,120
 laravel/framework,PHP,72
 guzzle/guzzle,PHP,79
 Seldaek/monolog,PHP,89
-sebastianbergmann/phpunit,PHP,74
-PHPMailer/PHPMailer,PHP,56
-FriendsOfPHP/PHP-CS-Fixer,PHP,31
+sebastianbergmann/phpunit,PHP,75
+PHPMailer/PHPMailer,PHP,57
+FriendsOfPHP/PHP-CS-Fixer,PHP,33
 symfony/console,PHP,57
 doctrine/orm,PHP,53
 twigphp/Twig,PHP,50
-directus/directus,PHP,44
+directus/directus,PHP,45
 swoft-cloud/swoft,PHP,65
 PrestaShop/PrestaShop,PHP,80
 doctrine/DoctrineBundle,PHP,47
