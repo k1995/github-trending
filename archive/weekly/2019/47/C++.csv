@@ -1,16 +1,16 @@
 name,lang,new stars
-tensorflow/tensorflow,C++,629
-opencv/opencv,C++,213
-pytorch/pytorch,C++,261
+tensorflow/tensorflow,C++,631
+opencv/opencv,C++,216
+pytorch/pytorch,C++,262
 tesseract-ocr/tesseract,C++,165
-haoel/leetcode,C++,107
-envoyproxy/envoy,C++,74
-vnpy/vnpy,C++,73
+haoel/leetcode,C++,109
+envoyproxy/envoy,C++,76
+vnpy/vnpy,C++,74
 ClickHouse/ClickHouse,C++,68
-pybind/pybind11,C++,44
+pybind/pybind11,C++,45
 dolphin-emu/dolphin,C++,77
 citra-emu/citra,C++,21
-CoatiSoftware/Sourcetrail,C++,1558
+CoatiSoftware/Sourcetrail,C++,1564
 google/mediapipe,C++,73
 JoeyDeVries/LearnOpenGL,C++,134
 halide/Halide,C++,22
@@ -20,7 +20,7 @@ xmrig/xmrig,C++,37
 interpretml/interpret,C++,49
 diasurgical/devilutionX,C++,47
 intel/mkl-dnn,C++,9
-NVIDIAGameWorks/kaolin,C++,219
+NVIDIAGameWorks/kaolin,C++,220
 rapidsai/cuml,C++,148
-Aircoookie/WLED,C++,58
+Aircoookie/WLED,C++,51
 danielkrupinski/Osiris,C++,25
