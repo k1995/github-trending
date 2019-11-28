@@ -1,7 +1,7 @@
 name,lang,new stars
 CocoaPods/CocoaPods,Ruby,6
 mperham/sidekiq,Ruby,1
-thoughtbot/paperclip,Ruby,0
+thoughtbot/paperclip,Ruby,1
 ruby-grape/grape,Ruby,0
 fluent/fluentd,Ruby,7
 faker-ruby/faker,Ruby,4
@@ -17,7 +17,7 @@ haml/haml,Ruby,1
 thoughtbot/shoulda-matchers,Ruby,3
 rubysherpas/paranoia,Ruby,1
 randym/axlsx,Ruby,0
-googleapis/google-api-ruby-client,Ruby,0
+googleapis/google-api-ruby-client,Ruby,1
 globalize/globalize,Ruby,1
 zendesk/ruby-kafka,Ruby,0
 rails/sass-rails,Ruby,0
