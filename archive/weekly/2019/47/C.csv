@@ -1,6 +1,6 @@
 name,lang,new stars
-torvalds/linux,C,426
-Genymobile/scrcpy,C,493
+torvalds/linux,C,430
+Genymobile/scrcpy,C,495
 FFmpeg/FFmpeg,C,108
 tmux/tmux,C,105
 pjreddie/darknet,C,106
@@ -9,7 +9,7 @@ nothings/stb,C,88
 taosdata/TDengine,C,57
 gentilkiwi/mimikatz,C,62
 raspberrypi/linux,C,105
-MarlinFirmware/Marlin,C,43
+MarlinFirmware/Marlin,C,44
 SoftEtherVPN/SoftEtherVPN,C,32
 happyfish100/fastdfs,C,92
 coolsnowwolf/lede,C,106

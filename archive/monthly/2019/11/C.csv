@@ -1,6 +1,6 @@
 name,lang,new stars
-torvalds/linux,C,1646
-antirez/redis,C,621
+torvalds/linux,C,1650
+antirez/redis,C,622
 FFmpeg/FFmpeg,C,435
 pjreddie/darknet,C,395
 openssl/openssl,C,259
@@ -21,6 +21,6 @@ olikraus/u8g2,C,64
 guanzhi/GmSSL,C,72
 OISF/suricata,C,61
 openssh/openssh-portable,C,99
-acidanthera/OpenCorePkg,C,207
+acidanthera/OpenCorePkg,C,208
 CloverHackyColor/CloverBootloader,C,294
 signalwire/freeswitch,C,96
