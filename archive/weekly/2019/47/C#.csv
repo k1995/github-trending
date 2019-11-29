@@ -1,9 +1,9 @@
 name,lang,new stars
-PowerShell/PowerShell,C#,94
-aspnet/AspNetCore,C#,174
-0xd4d/dnSpy,C#,108
+PowerShell/PowerShell,C#,95
+aspnet/AspNetCore,C#,175
+0xd4d/dnSpy,C#,109
 dotnet/coreclr,C#,34
-dotnet-architecture/eShopOnContainers,C#,93
+dotnet-architecture/eShopOnContainers,C#,94
 MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,59
 aspnet/AspNetCore.Docs,C#,54
 MonoGame/MonoGame,C#,30
@@ -12,11 +12,11 @@ JeremySkinner/FluentValidation,C#,31
 lambci/docker-lambda,C#,44
 nopSolutions/nopCommerce,C#,33
 xamarin/Xamarin.Forms,C#,27
-2dust/v2rayN,C#,313
+2dust/v2rayN,C#,317
 PrismLibrary/Prism,C#,26
-microsoft/MixedRealityToolkit-Unity,C#,21
+microsoft/MixedRealityToolkit-Unity,C#,22
 QuantConnect/Lean,C#,33
-JasonGT/NorthwindTraders,C#,45
+JasonGT/NorthwindTraders,C#,47
 microsoft/BotBuilder-Samples,C#,20
 davidfowl/AspNetCoreDiagnosticScenarios,C#,84
 mob-sakai/UIEffect,C#,42

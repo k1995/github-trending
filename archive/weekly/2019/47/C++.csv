@@ -1,20 +1,20 @@
 name,lang,new stars
-tensorflow/tensorflow,C++,674
-microsoft/terminal,C++,414
+tensorflow/tensorflow,C++,678
+microsoft/terminal,C++,418
 pytorch/pytorch,C++,280
 tesseract-ocr/tesseract,C++,177
-ocornut/imgui,C++,123
+ocornut/imgui,C++,124
 facebook/rocksdb,C++,70
 google/googletest,C++,120
 vnpy/vnpy,C++,80
 ClickHouse/ClickHouse,C++,71
-facebookresearch/faiss,C++,92
+facebookresearch/faiss,C++,93
 pybind/pybind11,C++,48
 abseil/abseil-cpp,C++,65
 dolphin-emu/dolphin,C++,78
 bulletphysics/bullet3,C++,37
 CoatiSoftware/Sourcetrail,C++,1640
-google/mediapipe,C++,81
+google/mediapipe,C++,82
 JoeyDeVries/LearnOpenGL,C++,140
 PX4/Firmware,C++,34
 trojan-gfw/trojan,C++,170
