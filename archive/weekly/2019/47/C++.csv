@@ -1,6 +1,6 @@
 name,lang,new stars
-tensorflow/tensorflow,C++,535
-microsoft/terminal,C++,391
+tensorflow/tensorflow,C++,538
+microsoft/terminal,C++,397
 pytorch/pytorch,C++,236
 tesseract-ocr/tesseract,C++,153
 ocornut/imgui,C++,106
@@ -14,13 +14,13 @@ abseil/abseil-cpp,C++,51
 dolphin-emu/dolphin,C++,77
 bulletphysics/bullet3,C++,32
 CoatiSoftware/Sourcetrail,C++,1019
-google/mediapipe,C++,67
+google/mediapipe,C++,68
 JoeyDeVries/LearnOpenGL,C++,136
 PX4/Firmware,C++,31
-trojan-gfw/trojan,C++,152
+trojan-gfw/trojan,C++,153
 xmrig/xmrig,C++,39
 interpretml/interpret,C++,53
 HowardHinnant/date,C++,17
 NVIDIAGameWorks/kaolin,C++,194
-rapidsai/cuml,C++,149
+rapidsai/cuml,C++,150
 Aircoookie/WLED,C++,58

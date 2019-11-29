@@ -1,20 +1,20 @@
 name,lang,new stars
-avelino/awesome-go,Go,233
-gin-gonic/gin,Go,337
-fatedier/frp,Go,310
+avelino/awesome-go,Go,234
+gin-gonic/gin,Go,338
+fatedier/frp,Go,316
 containous/traefik,Go,149
 v2ray/v2ray-core,Go,401
 jinzhu/gorm,Go,259
-labstack/echo,Go,155
-yudai/gotty,Go,96
-rancher/rancher,Go,75
+labstack/echo,Go,156
+yudai/gotty,Go,94
+rancher/rancher,Go,67
 chai2010/advanced-go-programming-book,Go,474
 helm/charts,Go,146
-rancher/k3s,Go,384
+rancher/k3s,Go,386
 gocolly/colly,Go,82
 grafana/loki,Go,178
 therecipe/qt,Go,179
-Dreamacro/clash,Go,127
+Dreamacro/clash,Go,128
 thanos-io/thanos,Go,53
 ginuerzh/gost,Go,228
 argoproj/argo,Go,57
@@ -23,4 +23,4 @@ golang-migrate/migrate,Go,57
 allegro/bigcache,Go,114
 baidu/bfe,Go,487
 tinode/chat,Go,80
-slackhq/nebula,Go,487
+slackhq/nebula,Go,489

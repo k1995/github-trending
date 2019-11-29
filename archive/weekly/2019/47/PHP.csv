@@ -1,6 +1,6 @@
 name,lang,new stars
 fzaninotto/Faker,PHP,93
-symfony/symfony,PHP,100
+symfony/symfony,PHP,101
 laravel/framework,PHP,60
 guzzle/guzzle,PHP,70
 Seldaek/monolog,PHP,74
@@ -10,14 +10,14 @@ FriendsOfPHP/PHP-CS-Fixer,PHP,27
 magento/magento2,PHP,53
 symfony/console,PHP,47
 doctrine/orm,PHP,44
-twigphp/Twig,PHP,42
+twigphp/Twig,PHP,43
 woocommerce/woocommerce,PHP,20
 directus/directus,PHP,37
 swoft-cloud/swoft,PHP,61
 PrestaShop/PrestaShop,PHP,32
 doctrine/DoctrineBundle,PHP,40
 beyondcode/laravel-websockets,PHP,20
-sensiolabs/SensioFrameworkExtraBundle,PHP,27
+sensiolabs/SensioFrameworkExtraBundle,PHP,28
 symfony/framework-bundle,PHP,38
 hyperf/hyperf,PHP,58
 bagisto/bagisto,PHP,27

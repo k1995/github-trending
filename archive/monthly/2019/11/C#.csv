@@ -2,12 +2,12 @@ name,lang,new stars
 shadowsocks/shadowsocks-windows,C#,1251
 aspnet/AspNetCore,C#,581
 dotnet-architecture/eShopOnContainers,C#,367
-MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,216
+MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,217
 cefsharp/CefSharp,C#,140
 GoogleCloudPlatform/microservices-demo,C#,292
 MahApps/MahApps.Metro,C#,123
 dotnet/orleans,C#,453
-JeffreySu/WeiXinMPSDK,C#,131
+JeffreySu/WeiXinMPSDK,C#,132
 jellyfin/jellyfin,C#,322
 microsoft/msbuild,C#,33
 StackExchange/StackExchange.Redis,C#,75
@@ -19,7 +19,7 @@ huiyadanli/RevokeMsgPatcher,C#,1108
 microsoft/microsoft-ui-xaml,C#,202
 danielgerlag/workflow-core,C#,176
 dockersamples/example-voting-app,C#,60
-dotnet/try,C#,105
+dotnet/try,C#,106
 microsoft/WinAppDriver,C#,70
 Azure/iotedge,C#,42
 Semmle/ql,C#,116

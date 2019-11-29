@@ -1,21 +1,21 @@
 name,lang,new stars
-tensorflow/tensorflow,C++,2027
-electron/electron,C++,1022
+tensorflow/tensorflow,C++,2030
+electron/electron,C++,1023
 apple/swift,C++,487
 bitcoin/bitcoin,C++,744
 opencv/opencv,C++,978
-godotengine/godot,C++,827
-nlohmann/json,C++,529
+godotengine/godot,C++,829
+nlohmann/json,C++,530
 facebook/rocksdb,C++,290
 haoel/leetcode,C++,471
 microsoft/react-native-windows,C++,342
 microsoft/LightGBM,C++,254
-notepad-plus-plus/notepad-plus-plus,C++,1947
+notepad-plus-plus/notepad-plus-plus,C++,1948
 yuzu-emu/yuzu,C++,402
 arendst/Tasmota,C++,404
 topjohnwu/Magisk,C++,525
 Tencent/ncnn,C++,241
-acaudwell/Gource,C++,319
+acaudwell/Gource,C++,320
 fmtlib/fmt,C++,374
 abseil/abseil-cpp,C++,166
 dolphin-emu/dolphin,C++,139
@@ -23,4 +23,4 @@ PointCloudLibrary/pcl,C++,143
 JoeyDeVries/LearnOpenGL,C++,218
 llvm/llvm-project,C++,489
 diasurgical/devilutionX,C++,139
-Aircoookie/WLED,C++,220
+Aircoookie/WLED,C++,222
