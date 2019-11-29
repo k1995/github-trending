@@ -1,6 +1,6 @@
 name,lang,new stars
 PowerShell/PowerShell,C#,91
-aspnet/AspNetCore,C#,167
+aspnet/AspNetCore,C#,170
 0xd4d/dnSpy,C#,100
 dotnet/coreclr,C#,33
 dotnet-architecture/eShopOnContainers,C#,87
@@ -12,14 +12,14 @@ JeremySkinner/FluentValidation,C#,31
 lambci/docker-lambda,C#,42
 nopSolutions/nopCommerce,C#,32
 xamarin/Xamarin.Forms,C#,26
-2dust/v2rayN,C#,301
+2dust/v2rayN,C#,302
 PrismLibrary/Prism,C#,23
 microsoft/MixedRealityToolkit-Unity,C#,18
 QuantConnect/Lean,C#,33
 JasonGT/NorthwindTraders,C#,43
 microsoft/BotBuilder-Samples,C#,20
 davidfowl/AspNetCoreDiagnosticScenarios,C#,83
-mob-sakai/UIEffect,C#,39
+mob-sakai/UIEffect,C#,40
 Azure/azure-sdk-for-net,C#,9
 confluentinc/confluent-kafka-dotnet,C#,13
 kwsch/PKHeX,C#,37

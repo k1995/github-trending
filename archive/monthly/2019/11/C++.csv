@@ -1,10 +1,10 @@
 name,lang,new stars
-tensorflow/tensorflow,C++,2043
+tensorflow/tensorflow,C++,2045
 electron/electron,C++,1037
 apple/swift,C++,504
-bitcoin/bitcoin,C++,795
+bitcoin/bitcoin,C++,796
 opencv/opencv,C++,989
-godotengine/godot,C++,871
+godotengine/godot,C++,872
 nlohmann/json,C++,537
 facebook/rocksdb,C++,296
 haoel/leetcode,C++,471
@@ -14,10 +14,10 @@ notepad-plus-plus/notepad-plus-plus,C++,1947
 yuzu-emu/yuzu,C++,407
 arendst/Tasmota,C++,416
 topjohnwu/Magisk,C++,524
-Tencent/ncnn,C++,232
+Tencent/ncnn,C++,233
 acaudwell/Gource,C++,316
 fmtlib/fmt,C++,373
-abseil/abseil-cpp,C++,170
+abseil/abseil-cpp,C++,171
 dolphin-emu/dolphin,C++,140
 PointCloudLibrary/pcl,C++,144
 JoeyDeVries/LearnOpenGL,C++,221

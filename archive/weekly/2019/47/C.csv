@@ -1,9 +1,9 @@
 name,lang,new stars
-torvalds/linux,C,458
-Genymobile/scrcpy,C,522
+torvalds/linux,C,459
+Genymobile/scrcpy,C,525
 FFmpeg/FFmpeg,C,110
 tmux/tmux,C,110
-pjreddie/darknet,C,113
+pjreddie/darknet,C,114
 Awesome-HarmonyOS/HarmonyOS,C,50
 nothings/stb,C,90
 taosdata/TDengine,C,58
@@ -12,7 +12,7 @@ raspberrypi/linux,C,105
 MarlinFirmware/Marlin,C,44
 SoftEtherVPN/SoftEtherVPN,C,33
 happyfish100/fastdfs,C,92
-coolsnowwolf/lede,C,115
+coolsnowwolf/lede,C,117
 jemalloc/jemalloc,C,24
 RT-Thread/rt-thread,C,77
 Cyan4973/xxHash,C,40
