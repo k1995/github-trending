@@ -1,5 +1,5 @@
 name,lang,new stars
-torvalds/linux,C,395
+torvalds/linux,C,396
 Genymobile/scrcpy,C,511
 FFmpeg/FFmpeg,C,120
 tmux/tmux,C,126
@@ -13,13 +13,13 @@ MarlinFirmware/Marlin,C,44
 SoftEtherVPN/SoftEtherVPN,C,35
 happyfish100/fastdfs,C,55
 coolsnowwolf/lede,C,141
-jemalloc/jemalloc,C,25
+jemalloc/jemalloc,C,26
 RT-Thread/rt-thread,C,87
 Cyan4973/xxHash,C,38
 mit-pdos/xv6-public,C,24
 RIOT-OS/RIOT,C,47
 ARMmbed/mbed-os,C,12
-zephyrproject-rtos/zephyr,C,36
+zephyrproject-rtos/zephyr,C,40
 zlgopen/awtk,C,124
 ShadowsocksR-Live/shadowsocksr-native,C,66
 hanwckf/rt-n56u,C,39

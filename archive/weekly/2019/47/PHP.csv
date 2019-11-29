@@ -1,13 +1,13 @@
 name,lang,new stars
 fzaninotto/Faker,PHP,93
-symfony/symfony,PHP,122
+symfony/symfony,PHP,102
 laravel/framework,PHP,61
 guzzle/guzzle,PHP,71
 Seldaek/monolog,PHP,74
 sebastianbergmann/phpunit,PHP,67
 PHPMailer/PHPMailer,PHP,50
 FriendsOfPHP/PHP-CS-Fixer,PHP,27
-magento/magento2,PHP,54
+magento/magento2,PHP,53
 symfony/console,PHP,47
 doctrine/orm,PHP,44
 twigphp/Twig,PHP,43

@@ -1,15 +1,15 @@
 name,lang,new stars
 rails/rails,Ruby,262
-fastlane/fastlane,Ruby,342
-huginn/huginn,Ruby,281
+fastlane/fastlane,Ruby,343
+huginn/huginn,Ruby,283
 plataformatec/devise,Ruby,95
 tootsuite/mastodon,Ruby,496
 elastic/logstash,Ruby,139
 rubocop-hq/rubocop,Ruby,83
-fluent/fluentd,Ruby,130
+fluent/fluentd,Ruby,132
 faker-ruby/faker,Ruby,68
-github/linguist,Ruby,94
-Homebrew/homebrew-core,Ruby,149
+github/linguist,Ruby,95
+Homebrew/homebrew-core,Ruby,150
 chef/chef,Ruby,60
 greatghoul/remote-working,Ruby,441
 ankane/chartkick,Ruby,49
@@ -22,5 +22,5 @@ billie66/TLCL,Ruby,136
 zammad/zammad,Ruby,67
 projectcalico/calico,Ruby,77
 dev-sec/ansible-os-hardening,Ruby,52
-dependabot/dependabot-core,Ruby,70
+dependabot/dependabot-core,Ruby,72
 Hackplayers/evil-winrm,Ruby,104
