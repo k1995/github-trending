@@ -1,20 +1,20 @@
 name,lang,new stars
 fzaninotto/Faker,PHP,359
-symfony/symfony,PHP,372
+symfony/symfony,PHP,373
 danielmiessler/SecLists,PHP,777
-guzzle/guzzle,PHP,278
+guzzle/guzzle,PHP,280
 WordPress/WordPress,PHP,187
 nextcloud/server,PHP,282
 doctrine/orm,PHP,169
-twigphp/Twig,PHP,128
+twigphp/Twig,PHP,129
 googleapis/google-api-php-client,PHP,80
 typecho/typecho,PHP,132
-doctrine/dbal,PHP,237
+doctrine/dbal,PHP,240
 nrk/predis,PHP,111
 PrestaShop/PrestaShop,PHP,180
-snipe/snipe-it,PHP,92
+snipe/snipe-it,PHP,93
 doctrine/DoctrineBundle,PHP,136
-symfony/flex,PHP,110
+symfony/flex,PHP,111
 mpdf/mpdf,PHP,81
 symfony/monolog-bundle,PHP,80
 xdebug/xdebug,PHP,52
@@ -23,4 +23,4 @@ wikimedia/mediawiki,PHP,60
 librenms/librenms,PHP,40
 pmmp/PocketMine-MP,PHP,55
 onlychain/OCSystem,PHP,456
-sprintcube/docker-compose-lamp,PHP,111
+sprintcube/docker-compose-lamp,PHP,113

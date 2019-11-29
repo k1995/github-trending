@@ -2,11 +2,11 @@ name,lang,new stars
 rails/rails,Ruby,59
 jekyll/jekyll,Ruby,62
 fastlane/fastlane,Ruby,119
-huginn/huginn,Ruby,96
+huginn/huginn,Ruby,97
 plataformatec/devise,Ruby,25
 hashicorp/vagrant,Ruby,54
 rapid7/metasploit-framework,Ruby,119
-ruby/ruby,Ruby,23
+ruby/ruby,Ruby,21
 twbs/bootstrap-sass,Ruby,2
 rubocop-hq/rubocop,Ruby,21
 mperham/sidekiq,Ruby,19
@@ -17,10 +17,10 @@ rails-api/active_model_serializers,Ruby,5
 ruby-concurrency/concurrent-ruby,Ruby,10
 activerecord-hackery/ransack,Ruby,5
 rmosolgo/graphql-ruby,Ruby,11
-mikel/mail,Ruby,32
+mikel/mail,Ruby,33
 shrinerb/shrine,Ruby,11
 oracle/truffleruby,Ruby,12
 chatwoot/chatwoot,Ruby,308
-citation-style-language/styles,Ruby,5
+citation-style-language/styles,Ruby,4
 elastic/ansible-elasticsearch,Ruby,7
 github/actionview-component,Ruby,12
