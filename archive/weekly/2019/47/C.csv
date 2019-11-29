@@ -1,9 +1,9 @@
 name,lang,new stars
-torvalds/linux,C,397
+torvalds/linux,C,399
 Genymobile/scrcpy,C,512
 FFmpeg/FFmpeg,C,121
-tmux/tmux,C,126
-pjreddie/darknet,C,103
+tmux/tmux,C,127
+pjreddie/darknet,C,104
 Awesome-HarmonyOS/HarmonyOS,C,42
 nothings/stb,C,93
 taosdata/TDengine,C,53
@@ -19,7 +19,7 @@ Cyan4973/xxHash,C,38
 mit-pdos/xv6-public,C,25
 RIOT-OS/RIOT,C,48
 ARMmbed/mbed-os,C,12
-zephyrproject-rtos/zephyr,C,45
+zephyrproject-rtos/zephyr,C,40
 zlgopen/awtk,C,124
 ShadowsocksR-Live/shadowsocksr-native,C,66
 hanwckf/rt-n56u,C,39

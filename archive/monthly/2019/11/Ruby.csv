@@ -1,7 +1,7 @@
 name,lang,new stars
 rails/rails,Ruby,263
 fastlane/fastlane,Ruby,346
-huginn/huginn,Ruby,283
+huginn/huginn,Ruby,284
 plataformatec/devise,Ruby,96
 tootsuite/mastodon,Ruby,496
 elastic/logstash,Ruby,139
@@ -22,5 +22,5 @@ billie66/TLCL,Ruby,136
 zammad/zammad,Ruby,67
 projectcalico/calico,Ruby,77
 dev-sec/ansible-os-hardening,Ruby,52
-dependabot/dependabot-core,Ruby,70
+dependabot/dependabot-core,Ruby,72
 Hackplayers/evil-winrm,Ruby,104
