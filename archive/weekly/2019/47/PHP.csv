@@ -1,6 +1,6 @@
 name,lang,new stars
-fzaninotto/Faker,PHP,94
-symfony/symfony,PHP,118
+fzaninotto/Faker,PHP,93
+symfony/symfony,PHP,121
 laravel/framework,PHP,64
 guzzle/guzzle,PHP,71
 Seldaek/monolog,PHP,80
@@ -19,7 +19,7 @@ doctrine/DoctrineBundle,PHP,44
 beyondcode/laravel-websockets,PHP,27
 sensiolabs/SensioFrameworkExtraBundle,PHP,33
 symfony/framework-bundle,PHP,37
-hyperf/hyperf,PHP,63
+hyperf/hyperf,PHP,64
 bagisto/bagisto,PHP,25
 pmmp/PocketMine-MP,PHP,15
 sprintcube/docker-compose-lamp,PHP,65
