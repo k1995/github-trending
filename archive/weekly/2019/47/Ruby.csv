@@ -12,10 +12,10 @@ rubocop-hq/rubocop,Ruby,21
 mperham/sidekiq,Ruby,19
 activeadmin/activeadmin,Ruby,9
 fluent/fluentd,Ruby,28
-thoughtbot/factory_bot,Ruby,7
+thoughtbot/factory_bot,Ruby,8
 rails-api/active_model_serializers,Ruby,5
 ruby-concurrency/concurrent-ruby,Ruby,10
-activerecord-hackery/ransack,Ruby,5
+activerecord-hackery/ransack,Ruby,6
 rmosolgo/graphql-ruby,Ruby,11
 mikel/mail,Ruby,33
 shrinerb/shrine,Ruby,11
