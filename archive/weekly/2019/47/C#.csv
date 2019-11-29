@@ -1,14 +1,14 @@
 name,lang,new stars
-PowerShell/PowerShell,C#,91
+PowerShell/PowerShell,C#,92
 aspnet/AspNetCore,C#,172
-0xd4d/dnSpy,C#,103
-dotnet/coreclr,C#,34
+0xd4d/dnSpy,C#,106
+dotnet/coreclr,C#,33
 dotnet-architecture/eShopOnContainers,C#,88
 MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,59
 aspnet/AspNetCore.Docs,C#,54
 MonoGame/MonoGame,C#,30
 dotnet/csharplang,C#,32
-JeremySkinner/FluentValidation,C#,32
+JeremySkinner/FluentValidation,C#,31
 lambci/docker-lambda,C#,43
 nopSolutions/nopCommerce,C#,32
 xamarin/Xamarin.Forms,C#,26
@@ -19,7 +19,7 @@ QuantConnect/Lean,C#,33
 JasonGT/NorthwindTraders,C#,43
 microsoft/BotBuilder-Samples,C#,20
 davidfowl/AspNetCoreDiagnosticScenarios,C#,83
-mob-sakai/UIEffect,C#,40
+mob-sakai/UIEffect,C#,41
 Azure/azure-sdk-for-net,C#,9
 confluentinc/confluent-kafka-dotnet,C#,13
 kwsch/PKHeX,C#,37

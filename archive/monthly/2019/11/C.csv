@@ -1,17 +1,17 @@
 name,lang,new stars
-torvalds/linux,C,1680
-antirez/redis,C,631
+torvalds/linux,C,1681
+antirez/redis,C,632
 FFmpeg/FFmpeg,C,442
-pjreddie/darknet,C,403
+pjreddie/darknet,C,404
 openssl/openssl,C,260
-robertdavidgraham/masscan,C,571
+robertdavidgraham/masscan,C,572
 nothings/stb,C,290
 facebook/zstd,C,255
 raspberrypi/linux,C,183
 bingoogolapple/BGAQRCode-Android,C,150
 happyfish100/fastdfs,C,252
-coolsnowwolf/lede,C,501
-RT-Thread/rt-thread,C,286
+coolsnowwolf/lede,C,504
+RT-Thread/rt-thread,C,289
 darktable-org/darktable,C,140
 microsoft/Windows-driver-samples,C,90
 qemu/qemu,C,200
@@ -23,4 +23,4 @@ OISF/suricata,C,61
 openssh/openssh-portable,C,99
 acidanthera/OpenCorePkg,C,209
 CloverHackyColor/CloverBootloader,C,294
-signalwire/freeswitch,C,96
+signalwire/freeswitch,C,97

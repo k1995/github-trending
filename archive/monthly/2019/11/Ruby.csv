@@ -1,6 +1,6 @@
 name,lang,new stars
-rails/rails,Ruby,271
-fastlane/fastlane,Ruby,326
+rails/rails,Ruby,272
+fastlane/fastlane,Ruby,330
 huginn/huginn,Ruby,287
 plataformatec/devise,Ruby,93
 tootsuite/mastodon,Ruby,496
@@ -18,7 +18,7 @@ rmosolgo/graphql-ruby,Ruby,60
 colszowka/simplecov,Ruby,37
 jruby/jruby,Ruby,21
 chatwoot/chatwoot,Ruby,1926
-billie66/TLCL,Ruby,135
+billie66/TLCL,Ruby,136
 zammad/zammad,Ruby,67
 projectcalico/calico,Ruby,78
 dev-sec/ansible-os-hardening,Ruby,53
