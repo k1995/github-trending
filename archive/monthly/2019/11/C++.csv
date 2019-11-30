@@ -1,10 +1,10 @@
 name,lang,new stars
-tensorflow/tensorflow,C++,2052
+tensorflow/tensorflow,C++,2055
 electron/electron,C++,1028
 apple/swift,C++,490
-bitcoin/bitcoin,C++,750
+bitcoin/bitcoin,C++,749
 opencv/opencv,C++,982
-godotengine/godot,C++,832
+godotengine/godot,C++,834
 facebook/rocksdb,C++,294
 haoel/leetcode,C++,478
 microsoft/react-native-windows,C++,343
@@ -21,6 +21,6 @@ PointCloudLibrary/pcl,C++,143
 JoeyDeVries/LearnOpenGL,C++,219
 fireice-uk/xmr-stak,C++,46
 llvm/llvm-project,C++,462
-microsoft/DirectX-Graphics-Samples,C++,76
+microsoft/DirectX-Graphics-Samples,C++,77
 diasurgical/devilutionX,C++,138
 bigtreetech/BIGTREETECH-SKR-mini-E3,C++,73
