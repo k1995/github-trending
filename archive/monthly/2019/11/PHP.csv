@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,363
-458058,symfony/symfony,PHP,377
+2579314,fzaninotto/Faker,PHP,366
+458058,symfony/symfony,PHP,378
 3482588,danielmiessler/SecLists,PHP,786
-1420053,guzzle/guzzle,PHP,281
+1420053,guzzle/guzzle,PHP,282
 2889328,WordPress/WordPress,PHP,191
 2884111,magento/magento2,PHP,174
 597887,doctrine/orm,PHP,170
 330275,twigphp/Twig,PHP,129
-11467667,typecho/typecho,PHP,135
+11467667,typecho/typecho,PHP,136
 677464,doctrine/dbal,PHP,241
 364315,nrk/predis,PHP,112
 7122594,directus/directus,PHP,148
@@ -15,11 +15,11 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,180
 14346979,snipe/snipe-it,PHP,93
 2797951,doctrine/DoctrineBundle,PHP,136
-70288750,symfony/flex,PHP,112
-31595609,mpdf/mpdf,PHP,81
+70288750,symfony/flex,PHP,113
+31595609,mpdf/mpdf,PHP,82
 2641404,symfony/monolog-bundle,PHP,80
 1934695,xdebug/xdebug,PHP,53
-159606650,hyperf/hyperf,PHP,271
+159606650,hyperf/hyperf,PHP,272
 6495081,wikimedia/mediawiki,PHP,60
 69691727,pmmp/PocketMine-MP,PHP,56
 209902912,onlychain/OCSystem,PHP,456

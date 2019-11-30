@@ -1,6 +1,6 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1300
-7691631,moby/moby,Go,430
+20580498,kubernetes/kubernetes,Go,1301
+7691631,moby/moby,Go,432
 20904437,gin-gonic/gin,Go,1115
 16752620,gogs/gogs,Go,559
 48378947,fatedier/frp,Go,1394
@@ -10,17 +10,17 @@ id,name,lang,new stars
 17728164,hashicorp/terraform,Go,496
 8989842,unknwon/the-way-to-go_ZH_CN,Go,997
 13124802,influxdata/influxdb,Go,251
-43723161,helm/helm,Go,674
-11393110,urfave/cli,Go,341
+43723161,helm/helm,Go,675
+11393110,urfave/cli,Go,343
 66573241,hyperledger/fabric,Go,344
-11008207,vitessio/vitess,Go,364
+11008207,vitessio/vitess,Go,365
 118654121,GoogleContainerTools/skaffold,Go,759
 52034309,uber-go/zap,Go,357
 125642885,developer-learning/night-reading-go,Go,584
 57939112,kubernetes/community,Go,204
-30711774,go-playground/validator,Go,451
+30711774,go-playground/validator,Go,452
 100982449,argoproj/argo,Go,231
 914796,lxn/walk,Go,110
-137854081,GoAdminGroup/go-admin,Go,796
+137854081,GoAdminGroup/go-admin,Go,795
 74499101,roboll/helmfile,Go,139
-170411418,kedacore/keda,Go,159
+170411418,kedacore/keda,Go,160

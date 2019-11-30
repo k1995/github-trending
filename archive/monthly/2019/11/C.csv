@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1683
-156018,antirez/redis,C,626
-1903522,php/php-src,C,461
+2325298,torvalds/linux,C,1686
+156018,antirez/redis,C,627
+1903522,php/php-src,C,464
 1614410,FFmpeg/FFmpeg,C,444
 18666758,pjreddie/darknet,C,402
 7634677,openssl/openssl,C,267
 11715753,robertdavidgraham/masscan,C,574
-20159867,nothings/stb,C,288
+20159867,nothings/stb,C,289
 29759715,facebook/zstd,C,262
 3199002,raspberrypi/linux,C,181
 28405578,bingoogolapple/BGAQRCode-Android,C,147
@@ -16,7 +16,7 @@ id,name,lang,new stars
 31791482,microsoft/Windows-driver-samples,C,88
 5383731,qemu/qemu,C,205
 17183871,esnet/iperf,C,80
-68751856,gnea/grbl,C,71
+68751856,gnea/grbl,C,72
 45703884,olikraus/u8g2,C,65
 27359183,guanzhi/GmSSL,C,73
 5410234,OISF/suricata,C,60

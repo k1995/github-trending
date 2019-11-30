@@ -1,9 +1,9 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,413
-10744183,netdata/netdata,C,349
-1903522,php/php-src,C,138
-111583593,Genymobile/scrcpy,C,536
-36836475,tmux/tmux,C,130
+2325298,torvalds/linux,C,415
+10744183,netdata/netdata,C,352
+1903522,php/php-src,C,140
+111583593,Genymobile/scrcpy,C,540
+36836475,tmux/tmux,C,131
 18666758,pjreddie/darknet,C,104
 20159867,nothings/stb,C,94
 196353673,taosdata/TDengine,C,54
@@ -13,7 +13,7 @@ id,name,lang,new stars
 3199002,raspberrypi/linux,C,106
 2200856,MarlinFirmware/Marlin,C,44
 15583310,SoftEtherVPN/SoftEtherVPN,C,35
-11178512,happyfish100/fastdfs,C,56
+11178512,happyfish100/fastdfs,C,57
 102578345,coolsnowwolf/lede,C,141
 7408108,RT-Thread/rt-thread,C,87
 19330466,Cyan4973/xxHash,C,39
@@ -23,4 +23,4 @@ id,name,lang,new stars
 27359183,guanzhi/GmSSL,C,22
 122325570,zlgopen/awtk,C,126
 98651166,ShadowsocksR-Live/shadowsocksr-native,C,66
-108568638,hanwckf/rt-n56u,C,40
+108568638,hanwckf/rt-n56u,C,41
