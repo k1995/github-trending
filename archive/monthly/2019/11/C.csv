@@ -1,16 +1,16 @@
 name,lang,new stars
-torvalds/linux,C,1672
+torvalds/linux,C,1673
 antirez/redis,C,624
 php/php-src,C,454
 FFmpeg/FFmpeg,C,442
-pjreddie/darknet,C,397
+pjreddie/darknet,C,399
 openssl/openssl,C,264
 robertdavidgraham/masscan,C,570
 nothings/stb,C,286
 facebook/zstd,C,259
 raspberrypi/linux,C,180
 bingoogolapple/BGAQRCode-Android,C,147
-coolsnowwolf/lede,C,512
+coolsnowwolf/lede,C,514
 RT-Thread/rt-thread,C,286
 darktable-org/darktable,C,136
 microsoft/Windows-driver-samples,C,87
@@ -18,9 +18,9 @@ qemu/qemu,C,202
 esnet/iperf,C,79
 gnea/grbl,C,71
 olikraus/u8g2,C,65
-guanzhi/GmSSL,C,71
+guanzhi/GmSSL,C,72
 OISF/suricata,C,60
 openssh/openssh-portable,C,100
-acidanthera/OpenCorePkg,C,204
+acidanthera/OpenCorePkg,C,205
 CloverHackyColor/CloverBootloader,C,290
 signalwire/freeswitch,C,95
