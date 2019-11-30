@@ -13,7 +13,7 @@ def push2github():
     mod_count = 0
     for untracked_file in repo.untracked_files:
         if untracked_file.startswith("archive/"):
-            repo.index.add(untracked_file.a_path)
+            repo.index.add(untracked_file)
             mod_count += 1
     for modified in repo.index.diff(None):
         if modified.a_path.startswith("archive/"):
