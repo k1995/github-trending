@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,426
-10744183,netdata/netdata,C,358
-1903522,php/php-src,C,147
-111583593,Genymobile/scrcpy,C,545
+2325298,torvalds/linux,C,429
+10744183,netdata/netdata,C,359
+1903522,php/php-src,C,148
+111583593,Genymobile/scrcpy,C,546
 36836475,tmux/tmux,C,133
 18666758,pjreddie/darknet,C,115
 20159867,nothings/stb,C,100
@@ -15,7 +15,7 @@ id,name,lang,new stars
 15583310,SoftEtherVPN/SoftEtherVPN,C,35
 11178512,happyfish100/fastdfs,C,58
 102578345,coolsnowwolf/lede,C,141
-7408108,RT-Thread/rt-thread,C,87
+7408108,RT-Thread/rt-thread,C,88
 19330466,Cyan4973/xxHash,C,40
 7370241,RIOT-OS/RIOT,C,49
 8270972,ARMmbed/mbed-os,C,12

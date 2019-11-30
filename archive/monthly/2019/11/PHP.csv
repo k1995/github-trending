@@ -1,7 +1,7 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,367
-458058,symfony/symfony,PHP,379
-3482588,danielmiessler/SecLists,PHP,791
+458058,symfony/symfony,PHP,380
+3482588,danielmiessler/SecLists,PHP,792
 1420053,guzzle/guzzle,PHP,284
 2889328,WordPress/WordPress,PHP,190
 2884111,magento/magento2,PHP,177
@@ -13,9 +13,9 @@ id,name,lang,new stars
 7122594,directus/directus,PHP,150
 2141186,opencart/opencart,PHP,70
 6763587,PrestaShop/PrestaShop,PHP,181
-14346979,snipe/snipe-it,PHP,94
-2797951,doctrine/DoctrineBundle,PHP,137
-70288750,symfony/flex,PHP,114
+14346979,snipe/snipe-it,PHP,96
+2797951,doctrine/DoctrineBundle,PHP,138
+70288750,symfony/flex,PHP,115
 31595609,mpdf/mpdf,PHP,82
 2641404,symfony/monolog-bundle,PHP,82
 1934695,xdebug/xdebug,PHP,53
@@ -23,4 +23,4 @@ id,name,lang,new stars
 6495081,wikimedia/mediawiki,PHP,60
 69691727,pmmp/PocketMine-MP,PHP,56
 209902912,onlychain/OCSystem,PHP,456
-85382582,sprintcube/docker-compose-lamp,PHP,114
+85382582,sprintcube/docker-compose-lamp,PHP,115
