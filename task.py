@@ -11,9 +11,13 @@ def push2github():
     remote = repo.remote()
     remote.pull()
     mod_count = 0
-    for item in repo.index.diff(None):
-        if item.a_path.startswith("archive/"):
-            repo.index.add(item.a_path)
+    for untracked_file in repo.untracked_files:
+        if untracked_file.startswith("archive/"):
+            repo.index.add(untracked_file.a_path)
+            mod_count += 1
+    for modified in repo.index.diff(None):
+        if modified.a_path.startswith("archive/"):
+            repo.index.add(modified.a_path)
             mod_count += 1
     if mod_count > 0:
         repo.index.commit("crawler auto commit")
