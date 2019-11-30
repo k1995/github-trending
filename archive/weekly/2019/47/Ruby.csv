@@ -1,8 +1,8 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,68
 7569578,discourse/discourse,Ruby,49
-27442967,fastlane/fastlane,Ruby,143
-8681349,huginn/huginn,Ruby,100
+27442967,fastlane/fastlane,Ruby,146
+8681349,huginn/huginn,Ruby,101
 2500088,gitlabhq/gitlabhq,Ruby,19
 308770,plataformatec/devise,Ruby,27
 481872,hashicorp/vagrant,Ruby,57
@@ -12,7 +12,7 @@ id,name,lang,new stars
 88740103,postalhq/postal,Ruby,16
 611921,activeadmin/activeadmin,Ruby,9
 1918677,fluent/fluentd,Ruby,32
-52855516,Homebrew/homebrew-core,Ruby,36
+52855516,Homebrew/homebrew-core,Ruby,39
 21829,thoughtbot/factory_bot,Ruby,8
 72754314,chyingp/nodejs-learning-guide,Ruby,29
 2889230,rails-api/active_model_serializers,Ruby,5
