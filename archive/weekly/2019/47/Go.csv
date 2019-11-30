@@ -6,7 +6,7 @@ id,name,lang,new stars
 13855476,jinzhu/gorm,Go,276
 31504491,labstack/echo,Go,132
 26337322,rancher/rancher,Go,68
-115857954,chai2010/advanced-go-programming-book,Go,476
+115857954,chai2010/advanced-go-programming-book,Go,396
 46806184,helm/charts,Go,108
 135516270,rancher/k3s,Go,248
 105279544,gocolly/colly,Go,84
@@ -18,9 +18,9 @@ id,name,lang,new stars
 32575637,ginuerzh/gost,Go,224
 133067498,kubernetes-sigs/kustomize,Go,59
 55637575,lucas-clemente/quic-go,Go,131
-118105436,golang-migrate/migrate,Go,50
+118105436,golang-migrate/migrate,Go,51
 54539060,allegro/bigcache,Go,115
-199763479,baidu/bfe,Go,490
+199763479,baidu/bfe,Go,463
 26661222,tinode/chat,Go,80
 222172014,slackhq/nebula,Go,313
 140457254,OWASP/Amass,Go,53

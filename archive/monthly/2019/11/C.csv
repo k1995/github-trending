@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1645
+2325298,torvalds/linux,C,1646
 156018,antirez/redis,C,606
 1903522,php/php-src,C,461
 1614410,FFmpeg/FFmpeg,C,444
-18666758,pjreddie/darknet,C,395
+18666758,pjreddie/darknet,C,396
 7634677,openssl/openssl,C,261
-11715753,robertdavidgraham/masscan,C,573
+11715753,robertdavidgraham/masscan,C,575
 20159867,nothings/stb,C,284
-29759715,facebook/zstd,C,253
+29759715,facebook/zstd,C,254
 3199002,raspberrypi/linux,C,178
 28405578,bingoogolapple/BGAQRCode-Android,C,146
 102578345,coolsnowwolf/lede,C,516
@@ -20,7 +20,7 @@ id,name,lang,new stars
 45703884,olikraus/u8g2,C,65
 27359183,guanzhi/GmSSL,C,69
 5410234,OISF/suricata,C,57
-15991457,openssh/openssh-portable,C,101
+15991457,openssh/openssh-portable,C,102
 179354282,acidanthera/OpenCorePkg,C,195
 205810121,CloverHackyColor/CloverBootloader,C,270
 154525111,signalwire/freeswitch,C,90

@@ -1,15 +1,15 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1262
+20580498,kubernetes/kubernetes,Go,1264
 7691631,moby/moby,Go,418
-20904437,gin-gonic/gin,Go,1057
-16752620,gogs/gogs,Go,550
+20904437,gin-gonic/gin,Go,1058
+16752620,gogs/gogs,Go,551
 48378947,fatedier/frp,Go,1394
 15452919,ethereum/go-ethereum,Go,409
 41986369,pingcap/tidb,Go,572
-138547797,FiloSottile/mkcert,Go,784
+138547797,FiloSottile/mkcert,Go,785
 17728164,hashicorp/terraform,Go,484
 8989842,unknwon/the-way-to-go_ZH_CN,Go,977
-13124802,influxdata/influxdb,Go,240
+13124802,influxdata/influxdb,Go,241
 43723161,helm/helm,Go,656
 11393110,urfave/cli,Go,337
 66573241,hyperledger/fabric,Go,333

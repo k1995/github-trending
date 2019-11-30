@@ -1,6 +1,6 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,378
-10744183,netdata/netdata,C,337
+2325298,torvalds/linux,C,379
+10744183,netdata/netdata,C,338
 1903522,php/php-src,C,141
 111583593,Genymobile/scrcpy,C,453
 36836475,tmux/tmux,C,129
@@ -11,7 +11,7 @@ id,name,lang,new stars
 18496166,gentilkiwi/mimikatz,C,59
 40217904,swaywm/sway,C,44
 3199002,raspberrypi/linux,C,104
-2200856,MarlinFirmware/Marlin,C,43
+2200856,MarlinFirmware/Marlin,C,44
 15583310,SoftEtherVPN/SoftEtherVPN,C,28
 11178512,happyfish100/fastdfs,C,46
 102578345,coolsnowwolf/lede,C,141
@@ -19,7 +19,7 @@ id,name,lang,new stars
 19330466,Cyan4973/xxHash,C,28
 7370241,RIOT-OS/RIOT,C,48
 8270972,ARMmbed/mbed-os,C,11
-59771425,zephyrproject-rtos/zephyr,C,51
+59771425,zephyrproject-rtos/zephyr,C,61
 27359183,guanzhi/GmSSL,C,23
 122325570,zlgopen/awtk,C,115
 98651166,ShadowsocksR-Live/shadowsocksr-native,C,58
