@@ -1,8 +1,8 @@
 name,lang,new stars
-torvalds/linux,C,404
+torvalds/linux,C,407
 netdata/netdata,C,337
 php/php-src,C,130
-Genymobile/scrcpy,C,520
+Genymobile/scrcpy,C,523
 tmux/tmux,C,129
 pjreddie/darknet,C,104
 nothings/stb,C,94
@@ -13,7 +13,7 @@ swaywm/sway,C,44
 raspberrypi/linux,C,106
 MarlinFirmware/Marlin,C,44
 SoftEtherVPN/SoftEtherVPN,C,35
-happyfish100/fastdfs,C,55
+happyfish100/fastdfs,C,56
 coolsnowwolf/lede,C,141
 RT-Thread/rt-thread,C,87
 Cyan4973/xxHash,C,38
@@ -21,6 +21,6 @@ RIOT-OS/RIOT,C,48
 ARMmbed/mbed-os,C,12
 zephyrproject-rtos/zephyr,C,51
 guanzhi/GmSSL,C,20
-zlgopen/awtk,C,124
+zlgopen/awtk,C,125
 ShadowsocksR-Live/shadowsocksr-native,C,66
 hanwckf/rt-n56u,C,39

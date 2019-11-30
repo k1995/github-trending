@@ -1,8 +1,8 @@
 name,lang,new stars
-tensorflow/tensorflow,C++,556
+tensorflow/tensorflow,C++,559
 electron/electron,C++,253
-microsoft/terminal,C++,410
-pytorch/pytorch,C++,243
+microsoft/terminal,C++,412
+pytorch/pytorch,C++,244
 tesseract-ocr/tesseract,C++,155
 ocornut/imgui,C++,123
 aria2/aria2,C++,113
@@ -16,7 +16,7 @@ CoatiSoftware/Sourcetrail,C++,1031
 JoeyDeVries/LearnOpenGL,C++,137
 fireice-uk/xmr-stak,C++,16
 PX4/Firmware,C++,31
-trojan-gfw/trojan,C++,157
+trojan-gfw/trojan,C++,159
 xmrig/xmrig,C++,39
 mmp/pbrt-v3,C++,23
 interpretml/interpret,C++,43

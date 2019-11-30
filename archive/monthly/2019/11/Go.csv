@@ -1,7 +1,7 @@
 name,lang,new stars
-kubernetes/kubernetes,Go,1295
-moby/moby,Go,427
-gin-gonic/gin,Go,1093
+kubernetes/kubernetes,Go,1296
+moby/moby,Go,428
+gin-gonic/gin,Go,1097
 gogs/gogs,Go,558
 fatedier/frp,Go,1394
 ethereum/go-ethereum,Go,409
@@ -9,11 +9,11 @@ pingcap/tidb,Go,585
 FiloSottile/mkcert,Go,793
 hashicorp/terraform,Go,494
 unknwon/the-way-to-go_ZH_CN,Go,990
-influxdata/influxdb,Go,249
-helm/helm,Go,670
+influxdata/influxdb,Go,250
+helm/helm,Go,673
 urfave/cli,Go,338
 hyperledger/fabric,Go,342
-vitessio/vitess,Go,360
+vitessio/vitess,Go,361
 GoogleContainerTools/skaffold,Go,757
 uber-go/zap,Go,357
 developer-learning/night-reading-go,Go,584
@@ -21,6 +21,6 @@ kubernetes/community,Go,204
 go-playground/validator,Go,447
 argoproj/argo,Go,229
 lxn/walk,Go,110
-GoAdminGroup/go-admin,Go,792
+GoAdminGroup/go-admin,Go,793
 roboll/helmfile,Go,137
 kedacore/keda,Go,158
