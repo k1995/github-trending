@@ -54,7 +54,7 @@ class TrendsCsvPipeline(object):
     def write_csv(path, items):
         with open(path, "w", newline='') as fp:
             writer = csv.writer(fp, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-            writer.writerow(["name", "lang", "new stars"])
+            writer.writerow(["id", "name", "lang", "new stars"])
             for item in items:
                 primary_lang = item['primaryLanguage']['name'] if item['primaryLanguage'] else ""
-                writer.writerow([item['nameWithOwner'], primary_lang, item['stars_inc']])
+                writer.writerow([item['databaseId'], item['nameWithOwner'], primary_lang, item['stars_inc']])
