@@ -1,10 +1,10 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,367
 458058,symfony/symfony,PHP,379
-3482588,danielmiessler/SecLists,PHP,789
+3482588,danielmiessler/SecLists,PHP,790
 1420053,guzzle/guzzle,PHP,282
 2889328,WordPress/WordPress,PHP,190
-2884111,magento/magento2,PHP,176
+2884111,magento/magento2,PHP,177
 597887,doctrine/orm,PHP,171
 330275,twigphp/Twig,PHP,133
 11467667,typecho/typecho,PHP,137
@@ -13,7 +13,7 @@ id,name,lang,new stars
 7122594,directus/directus,PHP,150
 2141186,opencart/opencart,PHP,70
 6763587,PrestaShop/PrestaShop,PHP,181
-14346979,snipe/snipe-it,PHP,93
+14346979,snipe/snipe-it,PHP,94
 2797951,doctrine/DoctrineBundle,PHP,137
 70288750,symfony/flex,PHP,114
 31595609,mpdf/mpdf,PHP,82
