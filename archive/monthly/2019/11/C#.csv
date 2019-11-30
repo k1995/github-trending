@@ -1,5 +1,4 @@
 name,lang,new stars
-shadowsocks/shadowsocks-windows,C#,1251
 aspnet/AspNetCore,C#,582
 dotnet-architecture/eShopOnContainers,C#,367
 MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,217
@@ -8,19 +7,20 @@ GoogleCloudPlatform/microservices-demo,C#,292
 MahApps/MahApps.Metro,C#,123
 dotnet/orleans,C#,454
 JeffreySu/WeiXinMPSDK,C#,132
-jellyfin/jellyfin,C#,324
+jellyfin/jellyfin,C#,325
 microsoft/msbuild,C#,33
 StackExchange/StackExchange.Redis,C#,75
-2dust/v2rayN,C#,1130
+Jackett/Jackett,C#,141
 egametang/ET,C#,119
-microsoft/BotBuilder-Samples,C#,77
-davidfowl/AspNetCoreDiagnosticScenarios,C#,202
+microsoft/BotBuilder-Samples,C#,74
+davidfowl/AspNetCoreDiagnosticScenarios,C#,203
 huiyadanli/RevokeMsgPatcher,C#,1108
 microsoft/microsoft-ui-xaml,C#,202
+tidusjar/Ombi,C#,87
 danielgerlag/workflow-core,C#,176
 dockersamples/example-voting-app,C#,60
+Azure/azure-sdk-for-net,C#,37
 dotnet/try,C#,107
 microsoft/WinAppDriver,C#,70
 Azure/iotedge,C#,42
 Semmle/ql,C#,118
-Azure-Samples/cognitive-services-speech-sdk,C#,33
