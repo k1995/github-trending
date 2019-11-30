@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1703
+2325298,torvalds/linux,C,1707
 156018,antirez/redis,C,633
 1903522,php/php-src,C,474
 1614410,FFmpeg/FFmpeg,C,444
@@ -17,8 +17,8 @@ id,name,lang,new stars
 5383731,qemu/qemu,C,205
 17183871,esnet/iperf,C,82
 68751856,gnea/grbl,C,72
-45703884,olikraus/u8g2,C,65
-27359183,guanzhi/GmSSL,C,74
+45703884,olikraus/u8g2,C,66
+27359183,guanzhi/GmSSL,C,75
 5410234,OISF/suricata,C,61
 15991457,openssh/openssh-portable,C,102
 179354282,acidanthera/OpenCorePkg,C,209

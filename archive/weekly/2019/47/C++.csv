@@ -1,20 +1,20 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,589
-9384267,electron/electron,C++,268
-100060912,microsoft/terminal,C++,448
+45717250,tensorflow/tensorflow,C++,592
+9384267,electron/electron,C++,270
+100060912,microsoft/terminal,C++,449
 65600975,pytorch/pytorch,C++,256
-22887094,tesseract-ocr/tesseract,C++,161
+22887094,tesseract-ocr/tesseract,C++,162
 22067521,ocornut/imgui,C++,123
-1116542,aria2/aria2,C++,121
-39840932,google/googletest,C++,124
+1116542,aria2/aria2,C++,125
+39840932,google/googletest,C++,125
 31522041,vnpy/vnpy,C++,73
-81887991,microsoft/AirSim,C++,46
-26038648,gabime/spdlog,C++,69
+81887991,microsoft/AirSim,C++,49
+26038648,gabime/spdlog,C++,70
 11577304,dolphin-emu/dolphin,C++,80
 23202799,microsoft/cpprestsdk,C++,43
-47690142,CoatiSoftware/Sourcetrail,C++,1064
+47690142,CoatiSoftware/Sourcetrail,C++,1065
 32736639,JoeyDeVries/LearnOpenGL,C++,138
-105697152,fireice-uk/xmr-stak,C++,16
+105697152,fireice-uk/xmr-stak,C++,17
 5298790,PX4/Firmware,C++,31
 107794782,trojan-gfw/trojan,C++,176
 88327406,xmrig/xmrig,C++,39
@@ -22,5 +22,5 @@ id,name,lang,new stars
 184704903,interpretml/interpret,C++,45
 58414589,intel/mkl-dnn,C++,9
 39283837,HowardHinnant/date,C++,18
-76990209,Aircoookie/WLED,C++,58
+76990209,Aircoookie/WLED,C++,59
 173272321,bigtreetech/BIGTREETECH-SKR-V1.3,C++,7
