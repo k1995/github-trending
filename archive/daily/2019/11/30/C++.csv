@@ -2,12 +2,12 @@ id,name,lang,new stars
 9384267,electron/electron,C++,44
 100060912,microsoft/terminal,C++,74
 5108051,opencv/opencv,C++,46
-23357588,protocolbuffers/protobuf,C++,43
+23357588,protocolbuffers/protobuf,C++,41
 12791642,BVLC/caffe,C++,11
 15634981,godotengine/godot,C++,26
 1357796,emscripten-core/emscripten,C++,16
 5133949,swoole/swoole-src,C++,13
-184456251,microsoft/PowerToys,C++,110
+184456251,microsoft/PowerToys,C++,108
 65711522,PaddlePaddle/Paddle,C++,13
 17391973,Tencent/rapidjson,C++,7
 26038648,gabime/spdlog,C++,11
@@ -23,4 +23,4 @@ id,name,lang,new stars
 52804750,google/breakpad,C++,1
 220810918,idealvin/co,C++,130
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,5
-224392208,MailRuChamps/raic-2019,C++,4
+224392208,MailRuChamps/raic-2019,C++,3
