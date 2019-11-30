@@ -1,0 +1,26 @@
+name,lang,new stars
+electron/electron,C++,45
+microsoft/terminal,C++,108
+protocolbuffers/protobuf,C++,56
+godotengine/godot,C++,25
+grpc/grpc,C++,18
+facebook/rocksdb,C++,13
+CMU-Perceptual-Computing-Lab/openpose,C++,14
+google/googletest,C++,11
+catchorg/Catch2,C++,11
+apache/incubator-brpc,C++,5
+facebookresearch/faiss,C++,12
+TranslucentTB/TranslucentTB,C++,7
+IntelRealSense/librealsense,C++,3
+PX4/Firmware,C++,4
+plaidml/plaidml,C++,10
+danmar/cppcheck,C++,5
+gflags/gflags,C++,3
+HowardHinnant/date,C++,5
+tensorflow/mlir,C++,1
+eigenteam/eigen-git-mirror,C++,5
+MisterTea/EternalTerminal,C++,55
+rapidsai/cuml,C++,12
+onnx/onnx-tensorrt,C++,4
+ros-perception/vision_opencv,C++,0
+bigtreetech/BIGTREETECH-SKR-mini-E3,C++,5

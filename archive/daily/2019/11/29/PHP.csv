@@ -1,0 +1,26 @@
+name,lang,new stars
+symfony/symfony,PHP,23
+danielmiessler/SecLists,PHP,25
+composer/composer,PHP,21
+sebastianbergmann/phpunit,PHP,24
+PHPMailer/PHPMailer,PHP,13
+serbanghita/Mobile-Detect,PHP,5
+dingo/api,PHP,6
+magento/magento2,PHP,20
+squizlabs/PHP_CodeSniffer,PHP,8
+woocommerce/woocommerce,PHP,6
+Sylius/Sylius,PHP,4
+thephpleague/oauth2-server,PHP,2
+barryvdh/laravel-cors,PHP,6
+aws/aws-sdk-php,PHP,3
+elastic/elasticsearch-php,PHP,2
+barryvdh/laravel-dompdf,PHP,4
+roundcube/roundcubemail,PHP,3
+moneyphp/money,PHP,6
+moodle/moodle,PHP,1
+vimeo/psalm,PHP,5
+rectorphp/rector,PHP,9
+nelmio/alice,PHP,1
+getsentry/sentry-php,PHP,2
+FriendsOfSymfony/FOSElasticaBundle,PHP,1
+codeigniter4projects/playground,PHP,5

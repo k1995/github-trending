@@ -1,0 +1,26 @@
+name,lang,new stars
+gohugoio/hugo,Go,30
+gin-gonic/gin,Go,41
+etcd-io/etcd,Go,22
+containous/traefik,Go,29
+pingcap/tidb,Go,22
+influxdata/influxdb,Go,6
+jinzhu/gorm,Go,56
+spf13/cobra,Go,20
+golang/dep,Go,49
+gorilla/websocket,Go,17
+grpc/grpc-go,Go,40
+stretchr/testify,Go,13
+go-redis/redis,Go,17
+emirpasic/gods,Go,21
+openshift/origin,Go,5
+hoanhan101/ultimate-go,Go,40
+golang/protobuf,Go,39
+hashicorp/nomad,Go,9
+go-swagger/go-swagger,Go,10
+lucas-clemente/quic-go,Go,87
+mailru/easyjson,Go,9
+argoproj/argo-cd,Go,5
+weaveworks/eksctl,Go,1
+terraform-providers/terraform-provider-google,Go,1
+zhenghaoz/gorse,Go,84
