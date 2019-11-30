@@ -30,22 +30,28 @@ class TrendsCsvPipeline(object):
         """
         Before spider closed, we write data to CSV files
         """
-        utc_now = datetime.utcnow().replace(tzinfo=timezone.utc)
         for date_range in self.trends:
             for lang in self.trends[date_range]:
                 filename = "{}.csv".format(lang)
-                # Make dirs
-                if date_range == "weekly":
-                    path = utc_now.strftime("%Y/%W")
-                elif date_range == "monthly":
-                    path = utc_now.strftime("%Y/%m")
-                else:
-                    path = utc_now.strftime("%Y/%m/%d")
-                path = os.path.join("archive", date_range, path)
-                os.makedirs(path, exist_ok=True)
+                path = self.build_path(date_range)
                 self.write_csv(os.path.join(path, filename), self.trends[date_range][lang])
 
-    def write_csv(self, path, items):
+    @staticmethod
+    def build_path(date_range):
+        # Make dirs
+        utc_now = datetime.utcnow().replace(tzinfo=timezone.utc)
+        if date_range == "weekly":
+            path = utc_now.strftime("%Y/%W")
+        elif date_range == "monthly":
+            path = utc_now.strftime("%Y/%m")
+        else:
+            path = utc_now.strftime("%Y/%m/%d")
+        path = os.path.join("archive", date_range, path)
+        os.makedirs(path, exist_ok=True)
+        return path
+
+    @staticmethod
+    def write_csv(path, items):
         with open(path, "w", newline='') as fp:
             writer = csv.writer(fp, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
             writer.writerow(["name", "lang", "new stars"])
