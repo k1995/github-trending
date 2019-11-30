@@ -1,14 +1,14 @@
 name,lang,new stars
 laravel/laravel,PHP,150
 fzaninotto/Faker,PHP,95
-symfony/symfony,PHP,102
+symfony/symfony,PHP,103
 laravel/framework,PHP,62
 guzzle/guzzle,PHP,72
 sebastianbergmann/phpunit,PHP,68
 PHPMailer/PHPMailer,PHP,51
 yiisoft/yii2,PHP,26
 FriendsOfPHP/PHP-CS-Fixer,PHP,27
-magento/magento2,PHP,56
+magento/magento2,PHP,57
 doctrine/orm,PHP,45
 owncloud/core,PHP,15
 twigphp/Twig,PHP,43
