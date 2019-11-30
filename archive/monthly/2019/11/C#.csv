@@ -1,13 +1,13 @@
 id,name,lang,new stars
-17620347,aspnet/AspNetCore,C#,587
-70104825,dotnet-architecture/eShopOnContainers,C#,372
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,221
+17620347,aspnet/AspNetCore,C#,588
+70104825,dotnet-architecture/eShopOnContainers,C#,373
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,222
 1135454,cefsharp/CefSharp,C#,143
 143460965,GoogleCloudPlatform/microservices-demo,C#,294
 2584777,MahApps/MahApps.Metro,C#,125
 28232663,dotnet/orleans,C#,463
 7560589,JeffreySu/WeiXinMPSDK,C#,132
-161012019,jellyfin/jellyfin,C#,329
+161012019,jellyfin/jellyfin,C#,330
 32051890,microsoft/msbuild,C#,35
 17748183,StackExchange/StackExchange.Redis,C#,75
 45195614,Jackett/Jackett,C#,143
@@ -21,6 +21,6 @@ id,name,lang,new stars
 46233451,dockersamples/example-voting-app,C#,60
 2928944,Azure/azure-sdk-for-net,C#,37
 104407534,dotnet/try,C#,108
-54308403,microsoft/WinAppDriver,C#,72
+54308403,microsoft/WinAppDriver,C#,73
 138646782,Azure/iotedge,C#,42
 143040428,Semmle/ql,C#,118

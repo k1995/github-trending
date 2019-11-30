@@ -1,10 +1,10 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,258
-20904437,gin-gonic/gin,Go,392
-42408804,containous/traefik,Go,167
+21540759,avelino/awesome-go,Go,259
+20904437,gin-gonic/gin,Go,394
+42408804,containous/traefik,Go,168
 41912791,v2ray/v2ray-core,Go,418
 13855476,jinzhu/gorm,Go,276
-31504491,labstack/echo,Go,171
+31504491,labstack/echo,Go,172
 26337322,rancher/rancher,Go,68
 115857954,chai2010/advanced-go-programming-book,Go,476
 46806184,helm/charts,Go,138
@@ -22,5 +22,5 @@ id,name,lang,new stars
 54539060,allegro/bigcache,Go,115
 199763479,baidu/bfe,Go,490
 26661222,tinode/chat,Go,80
-222172014,slackhq/nebula,Go,513
+222172014,slackhq/nebula,Go,514
 140457254,OWASP/Amass,Go,53
