@@ -1,10 +1,10 @@
 id,name,lang,new stars
 121395510,CyC2018/CS-Notes,Java,716
-132464395,Snailclimb/JavaGuide,Java,1217
+132464395,Snailclimb/JavaGuide,Java,1118
 22790488,iluwatar/java-design-patterns,Java,313
 507775,elastic/elasticsearch,Java,176
 7508411,ReactiveX/RxJava,Java,102
-151834062,doocs/advanced-java,Java,502
+151834062,doocs/advanced-java,Java,473
 64558143,Blankj/AndroidUtilCode,Java,217
 146633589,alibaba/arthas,Java,256
 45721011,apache/skywalking,Java,149
@@ -12,9 +12,9 @@ id,name,lang,new stars
 131789494,wuyouzhuguli/SpringAll,Java,266
 126178683,halo-dev/halo,Java,297
 75164823,apache/rocketmq,Java,84
-137451403,alibaba/nacos,Java,143
+137451403,alibaba/nacos,Java,138
 159152904,zhangdaiscott/jeecg-boot,Java,447
-46844958,DuGuQiuBai/Java,Java,160
+46844958,DuGuQiuBai/Java,Java,158
 163721192,zhisheng17/flink-learning,Java,287
 181012406,macrozheng/mall-learning,Java,113
 69400326,confluentinc/ksql,Java,111
@@ -23,4 +23,4 @@ id,name,lang,new stars
 98103322,zhoutaoo/SpringCloud,Java,171
 89822531,Anuken/Mindustry,Java,312
 218689982,KunMinX/Jetpack-MVVM-Best-Practice,Java,427
-221881722,uniVocity/univocity-trader,Java,70
+221881722,uniVocity/univocity-trader,Java,34

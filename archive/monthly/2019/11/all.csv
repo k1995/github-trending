@@ -1,26 +1,26 @@
 id,name,lang,new stars
-41881900,microsoft/vscode,TypeScript,2655
-27193779,nodejs/node,JavaScript,929
+41881900,microsoft/vscode,TypeScript,2628
+27193779,nodejs/node,JavaScript,916
 132464395,Snailclimb/JavaGuide,Java,4277
-24195339,angular/angular,TypeScript,1511
-5108051,opencv/opencv,C++,994
+24195339,angular/angular,TypeScript,1468
+5108051,opencv/opencv,C++,970
 48378947,fatedier/frp,Go,1394
-58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1734
+58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1737
 172953845,cdr/code-server,TypeScript,1568
 15452919,ethereum/go-ethereum,Go,409
-41986369,pingcap/tidb,Go,585
+41986369,pingcap/tidb,Go,572
 63477660,TheAlgorithms/Java,Java,1807
 95189138,alibaba/p3c,Java,655
 24976755,hankcs/HanLP,Java,1346
-188660663,CorentinJ/Real-Time-Voice-Cloning,Python,4151
-150058902,wangzheng0822/algo,Python,1020
-47023603,xuxueli/xxl-job,Java,575
-71220757,swisskyrepo/PayloadsAllTheThings,Python,777
-170067246,openai/gpt-2,Python,1673
-159194100,fengdu78/lihang-code,Jupyter Notebook,1244
-67702184,topjohnwu/Magisk,C++,534
+188660663,CorentinJ/Real-Time-Voice-Cloning,Python,4154
+150058902,wangzheng0822/algo,Python,997
+47023603,xuxueli/xxl-job,Java,559
+71220757,swisskyrepo/PayloadsAllTheThings,Python,733
+170067246,openai/gpt-2,Python,1661
+159194100,fengdu78/lihang-code,Jupyter Notebook,1240
+67702184,topjohnwu/Magisk,C++,510
 159152904,zhangdaiscott/jeecg-boot,Java,1068
-218115303,zeit/swr,TypeScript,3789
-163721192,zhisheng17/flink-learning,Java,783
+218115303,zeit/swr,TypeScript,3090
+163721192,zhisheng17/flink-learning,Java,791
 75821432,llvm/llvm-project,C++,467
-175355312,gzc426/Java-Interview,,1061
+175355312,gzc426/Java-Interview,,1041
