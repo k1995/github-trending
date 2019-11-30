@@ -1,14 +1,14 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1306
+20580498,kubernetes/kubernetes,Go,1309
 7691631,moby/moby,Go,434
-20904437,gin-gonic/gin,Go,1121
-16752620,gogs/gogs,Go,560
-48378947,fatedier/frp,Go,1417
-15452919,ethereum/go-ethereum,Go,414
-41986369,pingcap/tidb,Go,590
-138547797,FiloSottile/mkcert,Go,801
+20904437,gin-gonic/gin,Go,1125
+16752620,gogs/gogs,Go,561
+48378947,fatedier/frp,Go,1394
+15452919,ethereum/go-ethereum,Go,409
+41986369,pingcap/tidb,Go,585
+138547797,FiloSottile/mkcert,Go,802
 17728164,hashicorp/terraform,Go,496
-8989842,unknwon/the-way-to-go_ZH_CN,Go,1000
+8989842,unknwon/the-way-to-go_ZH_CN,Go,1002
 13124802,influxdata/influxdb,Go,251
 43723161,helm/helm,Go,676
 11393110,urfave/cli,Go,343
@@ -20,7 +20,7 @@ id,name,lang,new stars
 57939112,kubernetes/community,Go,206
 30711774,go-playground/validator,Go,452
 100982449,argoproj/argo,Go,231
-914796,lxn/walk,Go,113
-137854081,GoAdminGroup/go-admin,Go,796
+914796,lxn/walk,Go,110
+137854081,GoAdminGroup/go-admin,Go,798
 74499101,roboll/helmfile,Go,139
 170411418,kedacore/keda,Go,162

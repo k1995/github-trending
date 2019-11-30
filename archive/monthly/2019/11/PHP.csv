@@ -1,7 +1,7 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,366
+2579314,fzaninotto/Faker,PHP,367
 458058,symfony/symfony,PHP,379
-3482588,danielmiessler/SecLists,PHP,786
+3482588,danielmiessler/SecLists,PHP,789
 1420053,guzzle/guzzle,PHP,282
 2889328,WordPress/WordPress,PHP,190
 2884111,magento/magento2,PHP,176
@@ -9,12 +9,12 @@ id,name,lang,new stars
 330275,twigphp/Twig,PHP,133
 11467667,typecho/typecho,PHP,137
 677464,doctrine/dbal,PHP,243
-364315,nrk/predis,PHP,114
-7122594,directus/directus,PHP,149
+364315,nrk/predis,PHP,112
+7122594,directus/directus,PHP,150
 2141186,opencart/opencart,PHP,70
-6763587,PrestaShop/PrestaShop,PHP,180
+6763587,PrestaShop/PrestaShop,PHP,181
 14346979,snipe/snipe-it,PHP,93
-2797951,doctrine/DoctrineBundle,PHP,136
+2797951,doctrine/DoctrineBundle,PHP,137
 70288750,symfony/flex,PHP,114
 31595609,mpdf/mpdf,PHP,82
 2641404,symfony/monolog-bundle,PHP,82

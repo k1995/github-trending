@@ -1,7 +1,7 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,69
 7569578,discourse/discourse,Ruby,49
-27442967,fastlane/fastlane,Ruby,150
+27442967,fastlane/fastlane,Ruby,151
 8681349,huginn/huginn,Ruby,102
 2500088,gitlabhq/gitlabhq,Ruby,19
 308770,plataformatec/devise,Ruby,28
@@ -10,9 +10,9 @@ id,name,lang,new stars
 538746,ruby/ruby,Ruby,21
 4095287,rubocop-hq/rubocop,Ruby,23
 88740103,postalhq/postal,Ruby,16
-611921,activeadmin/activeadmin,Ruby,10
+611921,activeadmin/activeadmin,Ruby,9
 1918677,fluent/fluentd,Ruby,32
-52855516,Homebrew/homebrew-core,Ruby,40
+52855516,Homebrew/homebrew-core,Ruby,42
 21829,thoughtbot/factory_bot,Ruby,8
 72754314,chyingp/nodejs-learning-guide,Ruby,30
 2889230,rails-api/active_model_serializers,Ruby,5
