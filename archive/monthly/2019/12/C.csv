@@ -1,18 +1,18 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,1650
 156018,antirez/redis,C,621
-1903522,php/php-src,C,466
-111583593,Genymobile/scrcpy,C,1519
+1903522,php/php-src,C,439
+111583593,Genymobile/scrcpy,C,1404
 1614410,FFmpeg/FFmpeg,C,447
-18666758,pjreddie/darknet,C,402
-7634677,openssl/openssl,C,264
-11715753,robertdavidgraham/masscan,C,578
-20159867,nothings/stb,C,287
+18666758,pjreddie/darknet,C,379
+7634677,openssl/openssl,C,244
+11715753,robertdavidgraham/masscan,C,567
+20159867,nothings/stb,C,268
 29759715,facebook/zstd,C,253
 1482997,phpredis/phpredis,C,115
 3199002,raspberrypi/linux,C,182
 28405578,bingoogolapple/BGAQRCode-Android,C,147
-102578345,coolsnowwolf/lede,C,554
+102578345,coolsnowwolf/lede,C,519
 7408108,RT-Thread/rt-thread,C,278
 31791482,microsoft/Windows-driver-samples,C,88
 5383731,qemu/qemu,C,205
