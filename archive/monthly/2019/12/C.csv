@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1650
-156018,antirez/redis,C,621
+2325298,torvalds/linux,C,1574
+156018,antirez/redis,C,584
 1903522,php/php-src,C,439
 111583593,Genymobile/scrcpy,C,1404
-1614410,FFmpeg/FFmpeg,C,447
+1614410,FFmpeg/FFmpeg,C,409
 18666758,pjreddie/darknet,C,379
 7634677,openssl/openssl,C,244
-11715753,robertdavidgraham/masscan,C,567
+11715753,robertdavidgraham/masscan,C,568
 20159867,nothings/stb,C,268
 29759715,facebook/zstd,C,253
 1482997,phpredis/phpredis,C,115
@@ -22,5 +22,5 @@ id,name,lang,new stars
 14360940,openmv/openmv,C,41
 15991457,openssh/openssh-portable,C,102
 179354282,acidanthera/OpenCorePkg,C,195
-205810121,CloverHackyColor/CloverBootloader,C,276
+205810121,CloverHackyColor/CloverBootloader,C,254
 154525111,signalwire/freeswitch,C,95
