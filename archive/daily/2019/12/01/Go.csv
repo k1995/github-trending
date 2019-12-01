@@ -1,16 +1,16 @@
 id,name,lang,new stars
-23096959,golang/go,Go,81
+23096959,golang/go,Go,80
 20580498,kubernetes/kubernetes,Go,75
 21540759,avelino/awesome-go,Go,65
 11180687,gohugoio/hugo,Go,64
-20904437,gin-gonic/gin,Go,149
-42408804,containous/traefik,Go,51
+20904437,gin-gonic/gin,Go,148
+42408804,containous/traefik,Go,50
 17728164,hashicorp/terraform,Go,21
 37448451,mattermost/mattermost-server,Go,15
-13855476,jinzhu/gorm,Go,149
+13855476,jinzhu/gorm,Go,33
 43723161,helm/helm,Go,28
 13624859,gorilla/websocket,Go,24
-27729907,grpc/grpc-go,Go,18
+27729907,grpc/grpc-go,Go,19
 33258973,influxdata/telegraf,Go,13
 22442668,openshift/origin,Go,8
 75135036,json-iterator/go,Go,67
@@ -21,6 +21,6 @@ id,name,lang,new stars
 62712899,AdguardTeam/AdGuardHome,Go,24
 36699285,linkedin/Burrow,Go,9
 121746465,eddycjy/go-gin-example,Go,15
-140654872,sofastack/sofa-mosn,Go,23
+140654872,sofastack/sofa-mosn,Go,8
 72056048,uber-go/fx,Go,16
 183616214,yuin/goldmark,Go,21
