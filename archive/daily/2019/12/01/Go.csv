@@ -7,7 +7,7 @@ id,name,lang,new stars
 42408804,containous/traefik,Go,50
 17728164,hashicorp/terraform,Go,21
 37448451,mattermost/mattermost-server,Go,15
-13855476,jinzhu/gorm,Go,145
+13855476,jinzhu/gorm,Go,23
 43723161,helm/helm,Go,28
 13624859,gorilla/websocket,Go,24
 27729907,grpc/grpc-go,Go,19
@@ -21,6 +21,6 @@ id,name,lang,new stars
 62712899,AdguardTeam/AdGuardHome,Go,24
 36699285,linkedin/Burrow,Go,9
 121746465,eddycjy/go-gin-example,Go,15
-140654872,sofastack/sofa-mosn,Go,23
+140654872,sofastack/sofa-mosn,Go,8
 72056048,uber-go/fx,Go,16
 183616214,yuin/goldmark,Go,21
