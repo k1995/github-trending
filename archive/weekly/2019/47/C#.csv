@@ -4,7 +4,7 @@ id,name,lang,new stars
 16157746,aspnet/EntityFrameworkCore,C#,30
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,57
 28239455,aspnet/AspNetCore.Docs,C#,46
-1579990,MonoGame/MonoGame,C#,24
+1579990,MonoGame/MonoGame,C#,23
 7560589,JeffreySu/WeiXinMPSDK,C#,39
 75990888,dotnet/csharplang,C#,32
 443962,JeremySkinner/FluentValidation,C#,26
@@ -12,7 +12,7 @@ id,name,lang,new stars
 161012019,jellyfin/jellyfin,C#,68
 18586705,nopSolutions/nopCommerce,C#,29
 54213490,xamarin/Xamarin.Forms,C#,28
-199570071,2dust/v2rayN,C#,275
+199570071,2dust/v2rayN,C#,288
 77323220,Radarr/Radarr,C#,29
 27251463,QuantConnect/Lean,C#,28
 70584079,JasonGT/NorthwindTraders,C#,40
@@ -23,4 +23,4 @@ id,name,lang,new stars
 83315270,mob-sakai/UIEffect,C#,35
 2928944,Azure/azure-sdk-for-net,C#,9
 72554578,confluentinc/confluent-kafka-dotnet,C#,13
-115516512,ivanpaulovich/clean-architecture-manga,C#,24
+115516512,ivanpaulovich/clean-architecture-manga,C#,25
