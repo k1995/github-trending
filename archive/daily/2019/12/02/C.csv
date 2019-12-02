@@ -1,10 +1,10 @@
 id,name,lang,new stars
 36502,git/git,C,21
 1903522,php/php-src,C,10
-111583593,Genymobile/scrcpy,C,47
+111583593,Genymobile/scrcpy,C,46
 13233158,obsproject/obs-studio,C,14
 74627617,commaai/openpilot,C,6
-32969220,esp8266/Arduino,C,8
+32969220,esp8266/Arduino,C,10
 37912398,nginx/nginx,C,7
 9330072,fogleman/Craft,C,3
 2200856,MarlinFirmware/Marlin,C++,12
@@ -22,5 +22,5 @@ id,name,lang,new stars
 98651166,ShadowsocksR-Live/shadowsocksr-native,C,50
 195445651,thestr4ng3r/chiaki,C,5
 179354282,acidanthera/OpenCorePkg,C,9
-108568638,hanwckf/rt-n56u,C,9
+108568638,hanwckf/rt-n56u,C,8
 224151065,Immediate-Mode-UI/Nuklear,C,10

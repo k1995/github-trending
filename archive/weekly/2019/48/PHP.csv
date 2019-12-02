@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,151
-2579314,fzaninotto/Faker,PHP,98
+1863329,laravel/laravel,PHP,152
+2579314,fzaninotto/Faker,PHP,99
 458058,symfony/symfony,PHP,91
 7548986,laravel/framework,PHP,71
 1420053,guzzle/guzzle,PHP,68
 448045,sebastianbergmann/phpunit,PHP,66
 2253830,PHPMailer/PHPMailer,PHP,52
-2884111,magento/magento2,PHP,64
+2884111,magento/magento2,PHP,62
 49014795,phpstan/phpstan,PHP,44
 61490598,PHPOffice/PhpSpreadsheet,PHP,60
 597887,doctrine/orm,PHP,41
@@ -19,7 +19,7 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,35
 1095228,sonata-project/SonataAdminBundle,PHP,6
 69691727,pmmp/PocketMine-MP,PHP,14
-1066321,stof/StofDoctrineExtensionsBundle,PHP,10
+1066321,stof/StofDoctrineExtensionsBundle,PHP,11
 85382582,sprintcube/docker-compose-lamp,PHP,68
 100302581,mad-web/laravel-initializer,PHP,83
 222873550,bytefury/crater,PHP,166
