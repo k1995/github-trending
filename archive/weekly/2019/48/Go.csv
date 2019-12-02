@@ -1,7 +1,7 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,235
 11180687,gohugoio/hugo,Go,208
-20904437,gin-gonic/gin,Go,425
+20904437,gin-gonic/gin,Go,404
 48378947,fatedier/frp,Go,326
 42408804,containous/traefik,Go,154
 41912791,v2ray/v2ray-core,Go,370
@@ -16,10 +16,10 @@ id,name,lang,new stars
 44350607,kubernetes/dashboard,Go,72
 136815833,Dreamacro/clash,Go,121
 32575637,ginuerzh/gost,Go,214
-133067498,kubernetes-sigs/kustomize,Go,56
+133067498,kubernetes-sigs/kustomize,Go,58
 55637575,lucas-clemente/quic-go,Go,132
 54539060,allegro/bigcache,Go,76
-199763479,baidu/bfe,Go,450
+199763479,baidu/bfe,Go,326
 48714685,open-policy-agent/opa,Go,42
 26661222,tinode/chat,Go,82
 62712899,AdguardTeam/AdGuardHome,Go,51
