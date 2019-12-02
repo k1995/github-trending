@@ -1,5 +1,6 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,1570
+10744183,netdata/netdata,C,975
 156018,antirez/redis,C,596
 1903522,php/php-src,C,448
 111583593,Genymobile/scrcpy,C,1448
@@ -7,18 +8,17 @@ id,name,lang,new stars
 18666758,pjreddie/darknet,C,393
 7634677,openssl/openssl,C,244
 11715753,robertdavidgraham/masscan,C,576
-20159867,nothings/stb,C,270
-29759715,facebook/zstd,C,252
+15337142,micropython/micropython,C,250
 1482997,phpredis/phpredis,C,110
 3199002,raspberrypi/linux,C,179
-28405578,bingoogolapple/BGAQRCode-Android,C,147
 102578345,coolsnowwolf/lede,C,531
+13310527,jemalloc/jemalloc,C,99
 7408108,RT-Thread/rt-thread,C,254
 31791482,microsoft/Windows-driver-samples,C,87
 5383731,qemu/qemu,C,206
 17183871,esnet/iperf,C,80
+39760454,libjpeg-turbo/libjpeg-turbo,C,57
 68751856,gnea/grbl,C,73
-45703884,olikraus/u8g2,C,65
 27359183,guanzhi/GmSSL,C,68
 15991457,openssh/openssh-portable,C,102
 179354282,acidanthera/OpenCorePkg,C,193
