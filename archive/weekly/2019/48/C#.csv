@@ -1,12 +1,12 @@
 id,name,lang,new stars
 38380854,0xd4d/dnSpy,C#,88
-70104825,dotnet-architecture/eShopOnContainers,C#,71
+70104825,dotnet-architecture/eShopOnContainers,C#,70
 16157746,aspnet/EntityFrameworkCore,C#,33
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,68
-28239455,aspnet/AspNetCore.Docs,C#,47
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,115
+28239455,aspnet/AspNetCore.Docs,C#,49
 1579990,MonoGame/MonoGame,C#,23
 75990888,dotnet/csharplang,C#,36
-443962,JeremySkinner/FluentValidation,C#,27
+443962,JeremySkinner/FluentValidation,C#,28
 2465723,Sonarr/Sonarr,C#,34
 161012019,jellyfin/jellyfin,C#,64
 18586705,nopSolutions/nopCommerce,C#,27
@@ -21,6 +21,6 @@ id,name,lang,new stars
 23891194,Azure/azure-powershell,C#,8
 83315270,mob-sakai/UIEffect,C#,37
 2928944,Azure/azure-sdk-for-net,C#,8
-72554578,confluentinc/confluent-kafka-dotnet,C#,13
+72554578,confluentinc/confluent-kafka-dotnet,C#,14
 153988618,Unity-Technologies/multiplayer,C#,17
 213460285,JasonGT/CleanArchitecture,C#,65
