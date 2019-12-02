@@ -3,11 +3,11 @@ id,name,lang,new stars
 7691631,moby/moby,Go,399
 20904437,gin-gonic/gin,Go,1084
 16752620,gogs/gogs,Go,531
-48378947,fatedier/frp,Go,1349
+48378947,fatedier/frp,Go,1376
 15452919,ethereum/go-ethereum,Go,395
 138547797,FiloSottile/mkcert,Go,766
 41986369,pingcap/tidb,Go,565
-8989842,unknwon/the-way-to-go_ZH_CN,Go,940
+8989842,unknwon/the-way-to-go_ZH_CN,Go,945
 13855476,jinzhu/gorm,Go,564
 43723161,helm/helm,Go,641
 11393110,urfave/cli,Go,333
@@ -19,7 +19,7 @@ id,name,lang,new stars
 5179099,go-redis/redis,Go,281
 125642885,developer-learning/night-reading-go,Go,558
 57939112,kubernetes/community,Go,205
-30711774,go-playground/validator,Go,443
+30711774,go-playground/validator,Go,444
 914796,lxn/walk,Go,112
 74499101,roboll/helmfile,Go,140
 170411418,kedacore/keda,Go,167
