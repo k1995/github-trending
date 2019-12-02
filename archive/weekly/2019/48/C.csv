@@ -1,18 +1,18 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,380
-10744183,netdata/netdata,C,455
+2325298,torvalds/linux,C,362
+10744183,netdata/netdata,C,462
 156018,antirez/redis,C,150
 1903522,php/php-src,C,144
-111583593,Genymobile/scrcpy,C,468
-1614410,FFmpeg/FFmpeg,C,122
-36836475,tmux/tmux,C,142
-18666758,pjreddie/darknet,C,104
+111583593,Genymobile/scrcpy,C,484
+1614410,FFmpeg/FFmpeg,C,120
+36836475,tmux/tmux,C,140
+18666758,pjreddie/darknet,C,102
 74627617,commaai/openpilot,C,64
-20159867,nothings/stb,C,95
+20159867,nothings/stb,C,94
 15337142,micropython/micropython,C,103
 18496166,gentilkiwi/mimikatz,C,56
 40217904,swaywm/sway,C,50
-3199002,raspberrypi/linux,C,99
+3199002,raspberrypi/linux,C,100
 2200856,MarlinFirmware/Marlin,C++,49
 102578345,coolsnowwolf/lede,C,179
 45821540,openwrt/openwrt,C,50
@@ -22,5 +22,5 @@ id,name,lang,new stars
 60667730,littlevgl/lvgl,C,36
 40759227,domoticz/domoticz,C,26
 122325570,zlgopen/awtk,C,91
-98651166,ShadowsocksR-Live/shadowsocksr-native,C,105
+98651166,ShadowsocksR-Live/shadowsocksr-native,C,103
 108568638,hanwckf/rt-n56u,C,43
