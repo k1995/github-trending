@@ -1,9 +1,9 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,347
+2579314,fzaninotto/Faker,PHP,349
 458058,symfony/symfony,PHP,328
-3482588,danielmiessler/SecLists,PHP,724
-1420053,guzzle/guzzle,PHP,263
-1376664,Seldaek/monolog,PHP,294
+3482588,danielmiessler/SecLists,PHP,719
+1420053,guzzle/guzzle,PHP,264
+1376664,Seldaek/monolog,PHP,295
 2889328,WordPress/WordPress,PHP,166
 2884111,magento/magento2,PHP,147
 597887,doctrine/orm,PHP,153
@@ -18,9 +18,9 @@ id,name,lang,new stars
 70288750,symfony/flex,PHP,111
 31595609,mpdf/mpdf,PHP,77
 97311017,rectorphp/rector,PHP,141
-2641404,symfony/monolog-bundle,PHP,77
+2641404,symfony/monolog-bundle,PHP,78
 1934695,xdebug/xdebug,PHP,49
 159606650,hyperf/hyperf,PHP,238
 69691727,pmmp/PocketMine-MP,PHP,49
 1957456,Dolibarr/dolibarr,PHP,52
-85382582,sprintcube/docker-compose-lamp,PHP,110
+85382582,sprintcube/docker-compose-lamp,PHP,109

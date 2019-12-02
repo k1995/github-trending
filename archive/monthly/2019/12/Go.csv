@@ -1,16 +1,16 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1214
+20580498,kubernetes/kubernetes,Go,1243
 7691631,moby/moby,Go,399
 20904437,gin-gonic/gin,Go,1084
-16752620,gogs/gogs,Go,539
-48378947,fatedier/frp,Go,1381
+16752620,gogs/gogs,Go,540
+48378947,fatedier/frp,Go,1384
 15452919,ethereum/go-ethereum,Go,395
 138547797,FiloSottile/mkcert,Go,784
 41986369,pingcap/tidb,Go,565
-8989842,unknwon/the-way-to-go_ZH_CN,Go,937
+8989842,unknwon/the-way-to-go_ZH_CN,Go,939
 13855476,jinzhu/gorm,Go,571
-43723161,helm/helm,Go,647
-11393110,urfave/cli,Go,333
+43723161,helm/helm,Go,649
+11393110,urfave/cli,Go,335
 115857954,chai2010/advanced-go-programming-book,Go,1899
 66573241,hyperledger/fabric,Go,329
 11008207,vitessio/vitess,Go,359
@@ -19,7 +19,7 @@ id,name,lang,new stars
 5179099,go-redis/redis,Go,283
 125642885,developer-learning/night-reading-go,Go,560
 57939112,kubernetes/community,Go,198
-30711774,go-playground/validator,Go,441
+30711774,go-playground/validator,Go,442
 914796,lxn/walk,Go,112
 74499101,roboll/helmfile,Go,140
 170411418,kedacore/keda,Go,167
