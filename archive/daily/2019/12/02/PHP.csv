@@ -1,18 +1,18 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,24
-1864363,composer/composer,PHP,9
+3482588,danielmiessler/SecLists,PHP,15
+1864363,composer/composer,PHP,8
 2234102,bcit-ci/CodeIgniter,PHP,2
 2253830,PHPMailer/PHPMailer,PHP,5
-60243197,nextcloud/server,PHP,14
-4549925,bobthecow/psysh,PHP,0
+60243197,nextcloud/server,PHP,12
+4549925,bobthecow/psysh,PHP,1
 14259390,Maatwebsite/Laravel-Excel,PHP,2
-42480275,spatie/laravel-permission,PHP,8
-46277353,mgp25/Instagram-API,PHP,1
+42480275,spatie/laravel-permission,PHP,9
+46277353,mgp25/Instagram-API,PHP,4
 12594863,kalcaddle/KodExplorer,PHP,3
 126950582,donwa/oneindex,PHP,1
 74386167,vimeo/psalm,PHP,1
 77574863,causefx/Organizr,PHP,2
-97311017,rectorphp/rector,PHP,2
+97311017,rectorphp/rector,PHP,4
 148129143,bagisto/bagisto,PHP,3
 31425145,billz/raspap-webgui,PHP,6
 1307238,phpmd/phpmd,PHP,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 166677839,hui-ho/WebStack-Laravel,PHP,5
 93982796,Tuhinshubhra/RED_HAWK,PHP,0
 119862657,eerotal/LibreSignage,PHP,2
+193104152,anonaddy/anonaddy,PHP,16
 12865009,cakephp/app,PHP,0
-193104152,anonaddy/anonaddy,PHP,15
 5299409,pereorga/minimalist-web-notepad,PHP,9
