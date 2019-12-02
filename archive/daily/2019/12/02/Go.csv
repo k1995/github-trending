@@ -1,11 +1,11 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,29
-48378947,fatedier/frp,Go,63
-29207621,caddyserver/caddy,Go,21
-41912791,v2ray/v2ray-core,Go,61
+11180687,gohugoio/hugo,Go,45
+48378947,fatedier/frp,Go,64
+29207621,caddyserver/caddy,Go,30
+41912791,v2ray/v2ray-core,Go,69
 112567264,iikira/BaiduPCS-Go,Go,21
 401025,github/hub,Go,16
-17803236,rclone/rclone,Go,7
+17803236,rclone/rclone,Go,16
 6051812,gorilla/mux,Go,12
 176963109,peterq/pan-light,Go,18
 29099181,keybase/client,Go,7
@@ -14,13 +14,13 @@ id,name,lang,new stars
 36588302,jpillora/cloud-torrent,Go,5
 914796,lxn/walk,Go,4
 146964440,ffhelicopter/Go42,Go,4
-140412864,kgretzky/evilginx2,Go,5
+140412864,kgretzky/evilginx2,Go,4
 93619165,alecthomas/chroma,Go,40
 140654872,sofastack/sofa-mosn,Go,14
 202523140,alexellis/k3sup,Go,21
 180155078,micro-in-cn/tutorials,Go,8
 183616214,yuin/goldmark,Go,27
-224645668,berkay-dincer/kubethanos,Go,32
-193681111,filecoin-project/lotus,Go,1
+224645668,berkay-dincer/kubethanos,Go,119
+193681111,filecoin-project/lotus,Go,6
 216033212,BarryYan/daily-warm,Go,24
-1380117,getlantern/lantern,Go,13
+1380117,getlantern/lantern,Go,16
