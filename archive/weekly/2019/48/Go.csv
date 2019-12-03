@@ -1,21 +1,21 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,241
 11180687,gohugoio/hugo,Go,212
-20904437,gin-gonic/gin,Go,414
-48378947,fatedier/frp,Go,334
+20904437,gin-gonic/gin,Go,415
+48378947,fatedier/frp,Go,336
 42408804,containous/traefik,Go,148
 41912791,v2ray/v2ray-core,Go,364
 13855476,jinzhu/gorm,Go,303
-43723161,helm/helm,Go,150
+43723161,helm/helm,Go,143
 134017286,jesseduffield/lazygit,Go,83
 105279544,gocolly/colly,Go,91
 129717717,grafana/loki,Go,99
 5179099,go-redis/redis,Go,105
-44344606,go-chi/chi,Go,50
+44344606,go-chi/chi,Go,54
 26836182,therecipe/qt,Go,170
 75135036,json-iterator/go,Go,136
 44350607,kubernetes/dashboard,Go,66
-136815833,Dreamacro/clash,Go,112
+136815833,Dreamacro/clash,Go,107
 55637575,lucas-clemente/quic-go,Go,128
 54539060,allegro/bigcache,Go,57
 26661222,tinode/chat,Go,69

@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1579
-10744183,netdata/netdata,C,995
+2325298,torvalds/linux,C,1584
+10744183,netdata/netdata,C,997
 156018,antirez/redis,C,611
 1903522,php/php-src,C,451
-111583593,Genymobile/scrcpy,C,1476
-1614410,FFmpeg/FFmpeg,C,428
+111583593,Genymobile/scrcpy,C,1478
+1614410,FFmpeg/FFmpeg,C,429
 18666758,pjreddie/darknet,C,406
 7634677,openssl/openssl,C,249
 11715753,robertdavidgraham/masscan,C,582
@@ -14,13 +14,13 @@ id,name,lang,new stars
 102578345,coolsnowwolf/lede,C,534
 13310527,jemalloc/jemalloc,C,100
 7408108,RT-Thread/rt-thread,C,259
+19330466,Cyan4973/xxHash,C,106
+3791835,darktable-org/darktable,C,139
 31791482,microsoft/Windows-driver-samples,C,82
 5383731,qemu/qemu,C,199
 17183871,esnet/iperf,C,78
 39760454,libjpeg-turbo/libjpeg-turbo,C,57
 68751856,gnea/grbl,C,72
 27359183,guanzhi/GmSSL,C,69
-15991457,openssh/openssh-portable,C,97
 179354282,acidanthera/OpenCorePkg,C,193
-205810121,CloverHackyColor/CloverBootloader,C,244
 154525111,signalwire/freeswitch,C,91
