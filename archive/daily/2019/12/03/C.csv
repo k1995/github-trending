@@ -5,7 +5,7 @@ id,name,lang,new stars
 13233158,obsproject/obs-studio,C,15
 908607,numpy/numpy,C,17
 6201092,mpv-player/mpv,C,10
-32969220,esp8266/Arduino,C,8
+32969220,esp8266/Arduino,C,6
 66150122,jarun/nnn,C,29
 78281075,spacehuhn/esp8266_deauther,C,17
 27737393,qmk/qmk_firmware,C,8
@@ -14,12 +14,12 @@ id,name,lang,new stars
 689344,libretro/RetroArch,C,3
 3349840,hak5darren/USB-Rubber-Ducky,C,4
 3565909,raspberrypi/firmware,C,4
-37060852,betaflight/betaflight,C,8
+37060852,betaflight/betaflight,C,5
 60667730,littlevgl/lvgl,C,7
 68751856,gnea/grbl,C,1
 11233590,coreutils/coreutils,C,3
 98651166,ShadowsocksR-Live/shadowsocksr-native,C,35
-87620707,ZerBea/hcxtools,C,1
+87620707,ZerBea/hcxtools,C,0
 108568638,hanwckf/rt-n56u,C,4
 121500241,tomaspinho/rtl8821ce,C,2
 154525111,signalwire/freeswitch,C,4

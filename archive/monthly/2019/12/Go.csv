@@ -1,5 +1,5 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1241
+20580498,kubernetes/kubernetes,Go,1258
 7691631,moby/moby,Go,409
 20904437,gin-gonic/gin,Go,1056
 16752620,gogs/gogs,Go,540
@@ -17,7 +17,7 @@ id,name,lang,new stars
 118654121,GoogleContainerTools/skaffold,Go,748
 52034309,uber-go/zap,Go,334
 5179099,go-redis/redis,Go,285
-125642885,developer-learning/night-reading-go,Go,561
+125642885,developer-learning/night-reading-go,Go,572
 57939112,kubernetes/community,Go,199
 30711774,go-playground/validator,Go,446
 914796,lxn/walk,Go,115
