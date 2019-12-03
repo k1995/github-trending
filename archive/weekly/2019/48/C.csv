@@ -1,9 +1,9 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,356
-10744183,netdata/netdata,C,472
+2325298,torvalds/linux,C,359
+10744183,netdata/netdata,C,474
 156018,antirez/redis,C,150
 1903522,php/php-src,C,147
-111583593,Genymobile/scrcpy,C,483
+111583593,Genymobile/scrcpy,C,486
 1614410,FFmpeg/FFmpeg,C,120
 36836475,tmux/tmux,C,140
 569041,curl/curl,C,86
@@ -23,4 +23,4 @@ id,name,lang,new stars
 60667730,littlevgl/lvgl,C,39
 122325570,zlgopen/awtk,C,81
 98651166,ShadowsocksR-Live/shadowsocksr-native,C,117
-108568638,hanwckf/rt-n56u,C,39
+108568638,hanwckf/rt-n56u,C,40

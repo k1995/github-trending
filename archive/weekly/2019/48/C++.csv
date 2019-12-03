@@ -1,8 +1,8 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,439
+45717250,tensorflow/tensorflow,C++,441
 9384267,electron/electron,C++,237
-100060912,microsoft/terminal,C++,433
-27729880,grpc/grpc,C++,102
+100060912,microsoft/terminal,C++,439
+27729880,grpc/grpc,C++,106
 22067521,ocornut/imgui,C++,91
 39840932,google/googletest,C++,98
 81227005,facebookresearch/faiss,C++,87
@@ -21,6 +21,6 @@ id,name,lang,new stars
 36581434,opengl-tutorials/ogl,C++,12
 39283837,HowardHinnant/date,C++,17
 156787357,microsoft/SEAL,C++,29
-152616802,rapidsai/cuml,C++,94
+152616802,rapidsai/cuml,C++,93
 210549660,AnkerLeng/Cpp-0-1-Resource,C++,109
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,13
