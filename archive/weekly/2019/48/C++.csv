@@ -1,7 +1,7 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,445
+45717250,tensorflow/tensorflow,C++,443
 9384267,electron/electron,C++,237
-100060912,microsoft/terminal,C++,436
+100060912,microsoft/terminal,C++,433
 27729880,grpc/grpc,C++,102
 22067521,ocornut/imgui,C++,91
 39840932,google/googletest,C++,98
@@ -22,5 +22,5 @@ id,name,lang,new stars
 39283837,HowardHinnant/date,C++,17
 156787357,microsoft/SEAL,C++,29
 152616802,rapidsai/cuml,C++,94
-210549660,AnkerLeng/Cpp-0-1-Resource,C++,177
+210549660,AnkerLeng/Cpp-0-1-Resource,C++,147
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,13
