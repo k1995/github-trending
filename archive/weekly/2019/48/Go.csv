@@ -1,8 +1,8 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,241
 11180687,gohugoio/hugo,Go,212
-20904437,gin-gonic/gin,Go,397
-48378947,fatedier/frp,Go,307
+20904437,gin-gonic/gin,Go,395
+48378947,fatedier/frp,Go,310
 42408804,containous/traefik,Go,148
 41912791,v2ray/v2ray-core,Go,364
 13855476,jinzhu/gorm,Go,303
@@ -22,5 +22,5 @@ id,name,lang,new stars
 62712899,AdguardTeam/AdGuardHome,Go,99
 140457254,OWASP/Amass,Go,47
 91074692,zalando/postgres-operator,Go,16
-140023635,karlkeefer/pngr,Go,169
+140023635,karlkeefer/pngr,Go,172
 222612062,cilium/hubble,Go,122
