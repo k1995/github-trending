@@ -1,8 +1,8 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,439
+45717250,tensorflow/tensorflow,C++,438
 9384267,electron/electron,C++,237
 100060912,microsoft/terminal,C++,443
-27729880,grpc/grpc,C++,106
+27729880,grpc/grpc,C++,102
 22067521,ocornut/imgui,C++,91
 39840932,google/googletest,C++,98
 81227005,facebookresearch/faiss,C++,87
@@ -10,17 +10,17 @@ id,name,lang,new stars
 26038648,gabime/spdlog,C++,59
 2200856,MarlinFirmware/Marlin,C++,43
 11577304,dolphin-emu/dolphin,C++,22
-66088979,changkun/modern-cpp-tutorial,C++,61
-105697152,fireice-uk/xmr-stak,C++,18
+66088979,changkun/modern-cpp-tutorial,C++,60
+105697152,fireice-uk/xmr-stak,C++,16
 107794782,trojan-gfw/trojan,C++,144
 5298790,PX4/Firmware,C++,33
 88327406,xmrig/xmrig,C++,29
-36831874,microsoft/DirectX-Graphics-Samples,C++,24
+36831874,microsoft/DirectX-Graphics-Samples,C++,23
 37482419,mmp/pbrt-v3,C++,21
 42119846,letscontrolit/ESPEasy,C++,14
-36581434,opengl-tutorials/ogl,C++,13
+36581434,opengl-tutorials/ogl,C++,12
 39283837,HowardHinnant/date,C++,17
 156787357,microsoft/SEAL,C++,29
-152616802,rapidsai/cuml,C++,93
-210549660,AnkerLeng/Cpp-0-1-Resource,C++,109
+152616802,rapidsai/cuml,C++,94
+210549660,AnkerLeng/Cpp-0-1-Resource,C++,177
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,13
