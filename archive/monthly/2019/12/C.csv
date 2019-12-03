@@ -3,7 +3,7 @@ id,name,lang,new stars
 10744183,netdata/netdata,C,976
 156018,antirez/redis,C,595
 1903522,php/php-src,C,444
-111583593,Genymobile/scrcpy,C,1445
+111583593,Genymobile/scrcpy,C,1444
 1614410,FFmpeg/FFmpeg,C,422
 18666758,pjreddie/darknet,C,395
 7634677,openssl/openssl,C,249
@@ -11,7 +11,7 @@ id,name,lang,new stars
 15337142,micropython/micropython,C,250
 1482997,phpredis/phpredis,C,109
 3199002,raspberrypi/linux,C,169
-102578345,coolsnowwolf/lede,C,534
+102578345,coolsnowwolf/lede,C,533
 13310527,jemalloc/jemalloc,C,99
 7408108,RT-Thread/rt-thread,C,253
 31791482,microsoft/Windows-driver-samples,C,80

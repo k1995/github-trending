@@ -1,7 +1,7 @@
 id,name,lang,new stars
 17620347,aspnet/AspNetCore,C#,572
-70104825,dotnet-architecture/eShopOnContainers,C#,332
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,266
+70104825,dotnet-architecture/eShopOnContainers,C#,331
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,270
 1135454,cefsharp/CefSharp,C#,134
 2584777,MahApps/MahApps.Metro,C#,121
 7560589,JeffreySu/WeiXinMPSDK,C#,130
@@ -12,11 +12,11 @@ id,name,lang,new stars
 62172778,Unity-Technologies/ScriptableRenderPipeline,C#,108
 68730444,microsoft/BotBuilder-Samples,C#,73
 152370823,davidfowl/AspNetCoreDiagnosticScenarios,C#,195
-198071756,huiyadanli/RevokeMsgPatcher,C#,1104
+198071756,huiyadanli/RevokeMsgPatcher,C#,1106
 142480903,microsoft/microsoft-ui-xaml,C#,173
 52522046,tidusjar/Ombi,C#,82
 73864802,danielgerlag/workflow-core,C#,162
-46233451,dockersamples/example-voting-app,C#,49
+46233451,dockersamples/example-voting-app,C#,51
 2928944,Azure/azure-sdk-for-net,C#,35
 104407534,dotnet/try,C#,99
 54308403,microsoft/WinAppDriver,C#,71
