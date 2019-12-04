@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1582
-10744183,netdata/netdata,C,1001
-156018,antirez/redis,C,606
+2325298,torvalds/linux,C,1584
+10744183,netdata/netdata,C,1010
+156018,antirez/redis,C,605
 1903522,php/php-src,C,452
-111583593,Genymobile/scrcpy,C,1492
-1614410,FFmpeg/FFmpeg,C,429
-18666758,pjreddie/darknet,C,408
+111583593,Genymobile/scrcpy,C,1505
+1614410,FFmpeg/FFmpeg,C,428
+18666758,pjreddie/darknet,C,407
 7634677,openssl/openssl,C,253
-11715753,robertdavidgraham/masscan,C,586
+11715753,robertdavidgraham/masscan,C,585
 15337142,micropython/micropython,C,249
 1482997,phpredis/phpredis,C,114
 3199002,raspberrypi/linux,C,169
 102578345,coolsnowwolf/lede,C,565
 13310527,jemalloc/jemalloc,C,102
-7408108,RT-Thread/rt-thread,C,261
+7408108,RT-Thread/rt-thread,C,262
 19330466,Cyan4973/xxHash,C,105
 3791835,darktable-org/darktable,C,140
 31791482,microsoft/Windows-driver-samples,C,82

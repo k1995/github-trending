@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,359
-458058,symfony/symfony,PHP,332
-1420053,guzzle/guzzle,PHP,281
-1376664,Seldaek/monolog,PHP,305
+2579314,fzaninotto/Faker,PHP,351
+458058,symfony/symfony,PHP,331
+1420053,guzzle/guzzle,PHP,276
+1376664,Seldaek/monolog,PHP,300
 448045,sebastianbergmann/phpunit,PHP,249
 2884111,magento/magento2,PHP,148
 656494,cakephp/cakephp,PHP,59
@@ -11,8 +11,8 @@ id,name,lang,new stars
 12166778,googleapis/google-api-php-client,PHP,82
 11467667,typecho/typecho,PHP,130
 677464,doctrine/dbal,PHP,235
-364315,nrk/predis,PHP,112
-2179920,woocommerce/woocommerce,PHP,85
+364315,nrk/predis,PHP,113
+2179920,woocommerce/woocommerce,PHP,86
 6763587,PrestaShop/PrestaShop,PHP,179
 14346979,snipe/snipe-it,PHP,90
 2797951,doctrine/DoctrineBundle,PHP,136
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1934695,xdebug/xdebug,PHP,54
 159606650,hyperf/hyperf,PHP,242
 69691727,pmmp/PocketMine-MP,PHP,52
-1957456,Dolibarr/dolibarr,PHP,52
+1957456,Dolibarr/dolibarr,PHP,53
 85382582,sprintcube/docker-compose-lamp,PHP,115

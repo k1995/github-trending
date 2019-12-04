@@ -1,19 +1,19 @@
 id,name,lang,new stars
-63476337,TheAlgorithms/Python,Python,479
-51117837,tensorflow/models,Python,275
+63476337,TheAlgorithms/Python,Python,465
+51117837,tensorflow/models,Python,256
 33015583,keras-team/keras,Python,176
-3544424,jakubroztocil/httpie,Python,889
+3544424,jakubroztocil/httpie,Python,953
 5483330,soimort/you-get,Python,211
 139824423,Avik-Jain/100-Days-Of-ML-Code,Python,107
 873328,getsentry/sentry,Python,201
-58028038,521xueweihan/HelloGitHub,Python,2090
-155220641,huggingface/transformers,Python,436
+58028038,521xueweihan/HelloGitHub,Python,2217
+155220641,huggingface/transformers,Python,417
 91573538,testerSunshine/12306,Python,350
 19745004,odoo/odoo,Python,123
-84533158,yunjey/pytorch-tutorial,Python,160
-138331573,sebastianruder/NLP-progress,Python,299
+84533158,yunjey/pytorch-tutorial,Python,152
+138331573,sebastianruder/NLP-progress,Python,292
 150058902,wangzheng0822/algo,Python,396
-162998479,sherlock-project/sherlock,Python,1211
+162998479,sherlock-project/sherlock,Python,1260
 34921116,iovisor/bcc,Python,93
 178626720,williamFalcon/pytorch-lightning,Python,100
 189350661,lukemelas/EfficientNet-PyTorch,Python,91
@@ -22,5 +22,5 @@ id,name,lang,new stars
 157661691,opendevops-cn/opendevops,Python,124
 145763277,harismuneer/Ultimate-Facebook-Scraper,Python,291
 110621895,aws/sagemaker-python-sdk,Python,66
-196078788,luka1199/geo-heatmap,Python,406
+196078788,luka1199/geo-heatmap,Python,365
 215707732,aivivn/Machine-Learning-Yearning-Vietnamese-Translation,Python,32

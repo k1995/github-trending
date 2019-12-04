@@ -1,15 +1,15 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,251
 11180687,gohugoio/hugo,Go,202
-20904437,gin-gonic/gin,Go,382
-48378947,fatedier/frp,Go,308
+20904437,gin-gonic/gin,Go,370
+48378947,fatedier/frp,Go,300
 42408804,containous/traefik,Go,150
 41912791,v2ray/v2ray-core,Go,345
 13855476,jinzhu/gorm,Go,292
 43723161,helm/helm,Go,134
 134017286,jesseduffield/lazygit,Go,86
-105279544,gocolly/colly,Go,86
-129717717,grafana/loki,Go,91
+105279544,gocolly/colly,Go,84
+129717717,grafana/loki,Go,90
 5179099,go-redis/redis,Go,107
 44344606,go-chi/chi,Go,55
 26836182,therecipe/qt,Go,77
@@ -17,10 +17,10 @@ id,name,lang,new stars
 44350607,kubernetes/dashboard,Go,65
 136815833,Dreamacro/clash,Go,102
 55637575,lucas-clemente/quic-go,Go,123
-54539060,allegro/bigcache,Go,52
+54539060,allegro/bigcache,Go,55
 26661222,tinode/chat,Go,63
 62712899,AdguardTeam/AdGuardHome,Go,147
-140457254,OWASP/Amass,Go,47
+140457254,OWASP/Amass,Go,44
 91074692,zalando/postgres-operator,Go,21
 140023635,karlkeefer/pngr,Go,172
 222612062,cilium/hubble,Go,135
