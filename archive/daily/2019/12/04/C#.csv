@@ -11,7 +11,7 @@ id,name,lang,new stars
 41268252,openhardwaremonitor/openhardwaremonitor,C#,2
 23891194,Azure/azure-powershell,C#,4
 61176492,lostindark/DriverStoreExplorer,C#,0
-203892454,kgrzybek/modular-monolith-with-ddd,C#,5
+203892454,kgrzybek/modular-monolith-with-ddd,C#,4
 54308403,microsoft/WinAppDriver,C#,1
 12399790,GitTools/GitVersion,C#,2
 72554578,confluentinc/confluent-kafka-dotnet,C#,7
@@ -22,5 +22,5 @@ id,name,lang,new stars
 63984307,dotnet/sdk,C#,4
 117021670,microsoft/botbuilder-dotnet,C#,1
 182250891,Panuon/PanuonUI.Silver,C#,147
-213460285,JasonGT/CleanArchitecture,C#,29
+213460285,JasonGT/CleanArchitecture,C#,26
 200403480,vivami/SauronEye,C#,3
