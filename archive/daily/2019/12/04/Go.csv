@@ -1,7 +1,7 @@
 id,name,lang,new stars
 16563587,cockroachdb/cockroach,Go,8
 30215630,go-kit/kit,Go,27
-31288958,hashicorp/vault,Go,11
+31288958,hashicorp/vault,Go,10
 46806184,helm/charts,Go,23
 6051812,gorilla/mux,Go,9
 27729907,grpc/grpc-go,Go,5
@@ -14,7 +14,7 @@ id,name,lang,new stars
 110776471,dragonflyoss/Dragonfly,Go,18
 119160553,photoprism/photoprism,Go,15
 62799996,fluxcd/flux,Go,44
-99143276,vmware-tanzu/velero,Go,6
+99143276,vmware-tanzu/velero,Go,8
 118105436,golang-migrate/migrate,Go,7
 14179252,kelseyhightower/envconfig,Go,12
 134539560,weaveworks/eksctl,Go,9
