@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,363
+2325298,torvalds/linux,C,360
 10744183,netdata/netdata,C,458
 156018,antirez/redis,C,147
 1903522,php/php-src,C,131
-111583593,Genymobile/scrcpy,C,411
-36836475,tmux/tmux,C,115
+111583593,Genymobile/scrcpy,C,406
+36836475,tmux/tmux,C,116
 569041,curl/curl,C,99
 18666758,pjreddie/darknet,C,108
 62156403,QSCTech/zju-icicles,C,102
@@ -23,4 +23,4 @@ id,name,lang,new stars
 11233590,coreutils/coreutils,C,15
 98651166,ShadowsocksR-Live/shadowsocksr-native,C,142
 15333809,open62541/open62541,C,16
-128791889,haproxy/haproxy,C,26
+128791889,haproxy/haproxy,C,27
