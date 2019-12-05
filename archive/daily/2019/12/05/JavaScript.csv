@@ -1,5 +1,5 @@
 id,name,lang,new stars
-10270250,facebook/react,JavaScript,75
+10270250,facebook/react,JavaScript,66
 63537249,facebook/create-react-app,JavaScript,42
 23083156,mui-org/material-ui,JavaScript,38
 70107786,zeit/next.js,JavaScript,44
@@ -10,7 +10,7 @@ id,name,lang,new stars
 39464018,apache/incubator-superset,JavaScript,10
 26066727,mermaid-js/mermaid,JavaScript,33
 117372806,yangshun/front-end-interview-handbook,JavaScript,23
-790359,sequelize/sequelize,JavaScript,14
+790359,sequelize/sequelize,JavaScript,21
 23338716,JedWatson/react-select,JavaScript,14
 106279637,pqina/filepond,JavaScript,31
 80616041,invertase/react-native-firebase,JavaScript,6
@@ -19,7 +19,7 @@ id,name,lang,new stars
 2341302,cuckoosandbox/cuckoo,JavaScript,1
 42009758,MetaMask/metamask-extension,JavaScript,1
 216773481,timqian/chinese-independent-blogs,JavaScript,211
-28964450,ckeditor/ckeditor5,JavaScript,7
+28964450,ckeditor/ckeditor5,JavaScript,8
 74520124,aws-samples/aws-serverless-workshops,JavaScript,6
 15085215,SAP/openui5,JavaScript,1
 202367615,lyswhut/lx-music-desktop,JavaScript,71
