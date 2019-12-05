@@ -1,7 +1,7 @@
 id,name,lang,new stars
 70104825,dotnet-architecture/eShopOnContainers,C#,74
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,189
-102904613,Unity-Technologies/ml-agents,C#,55
+102904613,Unity-Technologies/ml-agents,Python,55
 75990888,dotnet/csharplang,C#,40
 443962,JeremySkinner/FluentValidation,C#,30
 2465723,Sonarr/Sonarr,C#,31
@@ -22,5 +22,5 @@ id,name,lang,new stars
 153988618,Unity-Technologies/multiplayer,C#,27
 39425864,tModLoader/tModLoader,C#,12
 28804670,OData/WebApi,C#,1
-210716005,dotnet/runtime,C#,257
+210716005,dotnet/runtime,C#,248
 213460285,JasonGT/CleanArchitecture,C#,143
