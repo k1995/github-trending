@@ -1,26 +1,26 @@
 id,name,lang,new stars
-41881900,microsoft/vscode,TypeScript,2645
-27193779,nodejs/node,JavaScript,912
-132464395,Snailclimb/JavaGuide,Java,4214
-24195339,angular/angular,TypeScript,1434
-5108051,opencv/opencv,C++,963
-20904437,gin-gonic/gin,Go,1082
-58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1808
-172953845,cdr/code-server,TypeScript,1553
-15452919,ethereum/go-ethereum,Go,375
-41986369,pingcap/tidb,Go,602
-63477660,TheAlgorithms/Java,Java,1702
-24976755,hankcs/HanLP,Java,1086
-188660663,CorentinJ/Real-Time-Voice-Cloning,Python,4234
-150058902,wangzheng0822/algo,Python,1140
-71220757,swisskyrepo/PayloadsAllTheThings,Python,709
-170067246,openai/gpt-2,Python,1689
-128018428,alibaba/Sentinel,Java,574
-159194100,fengdu78/lihang-code,Jupyter Notebook,1257
-211124697,deezer/spleeter,Python,6442
-159152904,zhangdaiscott/jeecg-boot,Java,1134
-121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,551
-102578345,coolsnowwolf/lede,C,565
-218115303,zeit/swr,TypeScript,2001
-163721192,zhisheng17/flink-learning,Java,853
-175355312,gzc426/Java-Interview,,1057
+41881900,microsoft/vscode,TypeScript,2668
+27193779,nodejs/node,JavaScript,923
+132464395,Snailclimb/JavaGuide,Java,4282
+112507086,30-seconds/30-seconds-of-code,JavaScript,1812
+67274736,ElemeFE/element,Vue,746
+20904437,gin-gonic/gin,Go,1085
+47018239,MaximAbramchuck/awesome-interview-questions,,1842
+48378947,fatedier/frp,Go,1374
+58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1873
+15452919,ethereum/go-ethereum,Go,381
+41986369,pingcap/tidb,Go,606
+24976755,hankcs/HanLP,Java,1068
+188660663,CorentinJ/Real-Time-Voice-Cloning,Python,4297
+150058902,wangzheng0822/algo,Python,1236
+47023603,xuxueli/xxl-job,Java,570
+71220757,swisskyrepo/PayloadsAllTheThings,Python,720
+218102162,menzi11/BullshitGenerator,JavaScript,8633
+170067246,openai/gpt-2,Python,1695
+159194100,fengdu78/lihang-code,Jupyter Notebook,1258
+211124697,deezer/spleeter,Python,5496
+159152904,zhangdaiscott/jeecg-boot,Java,1217
+121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,568
+102578345,coolsnowwolf/lede,C,599
+163721192,zhisheng17/flink-learning,Java,914
+175355312,gzc426/Java-Interview,,1084

@@ -8,7 +8,7 @@ id,name,lang,new stars
 1062572,catchorg/Catch2,C++,6
 1217614,xbmc/xbmc,C++,16
 2200856,MarlinFirmware/Marlin,C++,20
-38581626,pybind/pybind11,C++,6
+38581626,pybind/pybind11,C++,3
 23061798,scylladb/seastar,C++,4
 50255244,raulmur/ORB_SLAM2,C++,6
 2436255,Project-OSRM/osrm-backend,C++,6
@@ -19,7 +19,7 @@ id,name,lang,new stars
 198232685,deepmind/open_spiel,C++,6
 156939672,microsoft/onnxruntime,C++,4
 3161336,RainerKuemmerle/g2o,C++,2
-221787282,NVIDIAGameWorks/kaolin,C++,23
+221787282,NVIDIAGameWorks/kaolin,C++,26
 77916864,ondrejbudai/hidviz,C++,11
 212790745,feiyangqingyun/QWidgetDemo,C++,9
 224598590,codeByDog/pcWechat,C++,6
