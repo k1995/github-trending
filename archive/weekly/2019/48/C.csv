@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,352
-10744183,netdata/netdata,C,469
+2325298,torvalds/linux,C,356
+10744183,netdata/netdata,C,472
 1903522,php/php-src,C,130
-111583593,Genymobile/scrcpy,C,443
+111583593,Genymobile/scrcpy,C,444
 1614410,FFmpeg/FFmpeg,C,107
 36836475,tmux/tmux,C,117
 569041,curl/curl,C,99
@@ -20,7 +20,7 @@ id,name,lang,new stars
 7370241,RIOT-OS/RIOT,C,13
 59771425,zephyrproject-rtos/zephyr,C,50
 60667730,littlevgl/lvgl,C,34
-43683082,zserge/jsmn,C,12
+43683082,zserge/jsmn,C,13
 98651166,ShadowsocksR-Live/shadowsocksr-native,C,142
 15333809,open62541/open62541,C,13
 108568638,hanwckf/rt-n56u,C,38

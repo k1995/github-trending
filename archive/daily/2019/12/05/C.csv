@@ -9,7 +9,7 @@ id,name,lang,new stars
 66150122,jarun/nnn,C,40
 32873313,systemd/systemd,C,6
 26917568,nodemcu/nodemcu-firmware,C,4
-102578345,coolsnowwolf/lede,C,66
+102578345,coolsnowwolf/lede,C,57
 65899476,espressif/esp-idf,C,5
 5870069,edenhill/librdkafka,C,5
 21287076,awslabs/s2n,C,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 27275442,dtag-dev-sec/tpotce,C,4
 15333809,open62541/open62541,C,2
 121500241,tomaspinho/rtl8821ce,C,11
-224914117,b4rtik/ATPMiniDump,C,22
+224914117,b4rtik/ATPMiniDump,C,15
