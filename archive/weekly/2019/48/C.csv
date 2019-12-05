@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,351
-10744183,netdata/netdata,C,482
+2325298,torvalds/linux,C,352
+10744183,netdata/netdata,C,481
 1903522,php/php-src,C,130
-111583593,Genymobile/scrcpy,C,460
+111583593,Genymobile/scrcpy,C,461
 1614410,FFmpeg/FFmpeg,C,107
 36836475,tmux/tmux,C,117
 569041,curl/curl,C,97
@@ -15,7 +15,7 @@ id,name,lang,new stars
 15337142,micropython/micropython,C,96
 613829,openresty/lua-nginx-module,C,33
 66150122,jarun/nnn,C,160
-102578345,coolsnowwolf/lede,C,255
+102578345,coolsnowwolf/lede,C,248
 45821540,openwrt/openwrt,C,49
 7370241,RIOT-OS/RIOT,C,13
 59771425,zephyrproject-rtos/zephyr,C,50
