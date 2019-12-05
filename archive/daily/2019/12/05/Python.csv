@@ -1,8 +1,8 @@
 id,name,lang,new stars
 4164482,django/django,Python,45
-843222,scikit-learn/scikit-learn,Python,21
+843222,scikit-learn/scikit-learn,Python,31
 12888993,home-assistant/home-assistant,Python,173
-858127,pandas-dev/pandas,Python,15
+858127,pandas-dev/pandas,Python,18
 32689863,3b1b/manim,Python,58
 33884891,apache/airflow,Python,17
 150058902,wangzheng0822/algo,Python,118
@@ -19,7 +19,7 @@ id,name,lang,new stars
 40687563,oppia/oppia,Python,15
 112461400,axnsan12/drf-yasg,Python,1
 161550823,Qiskit/qiskit,Python,12
-157246127,elastic/helm-charts,Python,1
+157246127,elastic/helm-charts,Python,2
 159918462,Bogdanp/awesome-advent-of-code,Python,19
 222452465,MhLiao/DB,Python,68
 224586081,xuannianz/EfficientDet,Python,23
