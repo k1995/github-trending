@@ -13,7 +13,7 @@ id,name,lang,new stars
 18950460,concourse/concourse,Go,6
 17451182,go-yaml/yaml,Go,6
 93444615,terraform-providers/terraform-provider-aws,Go,7
-10166531,mitchellh/mapstructure,Go,19
+10166531,mitchellh/mapstructure,Go,22
 66509131,kubernetes/client-go,Go,5
 140412864,kgretzky/evilginx2,Go,7
 14179252,kelseyhightower/envconfig,Go,12
