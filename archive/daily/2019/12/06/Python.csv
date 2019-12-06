@@ -1,7 +1,7 @@
 id,name,lang,new stars
 54346799,public-apis/public-apis,Python,230
 51117837,tensorflow/models,Python,49
-3638964,ansible/ansible,Python,23
+3638964,ansible/ansible,Python,19
 191113739,0voice/interview_internal_reference,Python,53
 71948498,localstack/localstack,Python,34
 155220641,huggingface/transformers,Python,101
@@ -22,5 +22,5 @@ id,name,lang,new stars
 183181254,fendouai/PyTorchDocs,Python,22
 198350484,microsoft/unilm,Python,6
 225393289,huawei-noah/Pretrained-Language-Model,Python,123
-225027908,toandaominh1997/EfficientDet.Pytorch,Python,31
 209305461,f0cker/crackq,Python,70
+225027908,toandaominh1997/EfficientDet.Pytorch,Python,31

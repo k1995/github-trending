@@ -4,7 +4,7 @@ id,name,lang,new stars
 6296790,spring-projects/spring-boot,Java,41
 11267509,bumptech/glide,Java,14
 20818126,google/ExoPlayer,Java,8
-7010724,dianping/cat,Java,18
+7010724,dianping/cat,Java,15
 5349565,prestodb/presto,Java,4
 118497841,GoogleContainerTools/jib,Java,9
 2352744,apereo/cas,Java,9
@@ -13,8 +13,8 @@ id,name,lang,new stars
 117965972,alibaba/DataX,Java,18
 2493904,apache/tomcat,Java,6
 133134007,OpenAPITools/openapi-generator,Java,20
-139914932,quarkusio/quarkus,Java,14
-173335706,apache/incubator-dolphinscheduler,Java,14
+139914932,quarkusio/quarkus,Java,9
+173335706,apache/incubator-dolphinscheduler,Java,11
 77385607,JanusGraph/janusgraph,Java,5
 206444,apache/hive,Java,5
 174765647,heibaiying/BigData-Notes,Java,107

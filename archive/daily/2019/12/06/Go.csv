@@ -2,7 +2,7 @@ id,name,lang,new stars
 7691631,moby/moby,Go,22
 17728164,hashicorp/terraform,Go,24
 14125254,hashicorp/consul,Go,13
-13124802,influxdata/influxdb,Go,20
+13124802,influxdata/influxdb,Go,14
 26337322,rancher/rancher,Go,17
 13628513,sirupsen/logrus,Go,23
 6051812,gorilla/mux,Go,13
@@ -16,7 +16,7 @@ id,name,lang,new stars
 115436884,spiral/roadrunner,Go,43
 17451182,go-yaml/yaml,Go,5
 27483832,gogo/protobuf,Go,7
-10166531,mitchellh/mapstructure,Go,23
+10166531,mitchellh/mapstructure,Go,10
 80134675,containers/buildah,Go,5
 16607984,DATA-DOG/go-sqlmock,Go,13
 130430977,kubesphere/kubesphere,Go,22
