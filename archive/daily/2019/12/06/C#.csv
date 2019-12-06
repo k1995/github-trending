@@ -1,11 +1,11 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,20
-17620347,aspnet/AspNetCore,C#,12
+49609581,PowerShell/PowerShell,C#,19
+17620347,aspnet/AspNetCore,C#,10
 29078997,dotnet/roslyn,C#,7
 70104825,dotnet-architecture/eShopOnContainers,C#,10
 64713769,NickeManarin/ScreenToGif,C#,17
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,15
-102904613,Unity-Technologies/ml-agents,Python,8
+102904613,Unity-Technologies/ml-agents,Python,7
 11920542,HangfireIO/Hangfire,C#,2
 161012019,jellyfin/jellyfin,C#,13
 54213490,xamarin/Xamarin.Forms,C#,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 12399790,GitTools/GitVersion,C#,2
 76100575,Cysharp/MagicOnion,C#,1
 30932325,aspnet/Extensions,C#,5
-213460285,JasonGT/CleanArchitecture,C#,32
+213460285,JasonGT/CleanArchitecture,C#,35
