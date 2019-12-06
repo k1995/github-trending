@@ -5,11 +5,11 @@ id,name,lang,new stars
 611921,activeadmin/activeadmin,Ruby,2
 275604,resque/resque,Ruby,1
 96395,faker-ruby/faker,Ruby,6
-15435,Shopify/liquid,Ruby,3
+15435,Shopify/liquid,Ruby,1
 176780,alexreisner/geocoder,Ruby,1
 10865,norman/friendly_id,Ruby,1
 75785147,rails/webpacker,Ruby,4
-1734,aasm/aasm,Ruby,3
+1734,aasm/aasm,Ruby,2
 839336,colszowka/simplecov,Ruby,1
 137805,redis/redis-rb,Ruby,1
 32841259,dtan4/terraforming,Ruby,2
@@ -18,8 +18,8 @@ id,name,lang,new stars
 9108797,krisleech/wisper,Ruby,6
 143489,DatabaseCleaner/database_cleaner,Ruby,0
 5967893,influitive/apartment,Ruby,0
-202291859,chatwoot/chatwoot,Ruby,27
-3898922,zammad/zammad,Ruby,4
+202291859,chatwoot/chatwoot,Ruby,28
+3898922,zammad/zammad,Ruby,3
 138776049,sorbet/sorbet,Ruby,7
 9831101,elastic/elasticsearch-ruby,Ruby,0
 9500075,ytti/oxidized,Ruby,4
