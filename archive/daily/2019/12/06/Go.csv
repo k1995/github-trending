@@ -1,7 +1,7 @@
 id,name,lang,new stars
 7691631,moby/moby,Go,22
 17728164,hashicorp/terraform,Go,24
-14125254,hashicorp/consul,Go,13
+14125254,hashicorp/consul,Go,12
 13124802,influxdata/influxdb,Go,20
 26337322,rancher/rancher,Go,17
 13628513,sirupsen/logrus,Go,22
@@ -13,14 +13,14 @@ id,name,lang,new stars
 6443435,nats-io/nats-server,Go,7
 125642885,developer-learning/night-reading-go,Go,37
 133067498,kubernetes-sigs/kustomize,Go,13
-115436884,spiral/roadrunner,Go,43
+115436884,spiral/roadrunner,Go,44
 17451182,go-yaml/yaml,Go,5
-27483832,gogo/protobuf,Go,7
+27483832,gogo/protobuf,Go,8
 10166531,mitchellh/mapstructure,Go,23
 80134675,containers/buildah,Go,5
-16607984,DATA-DOG/go-sqlmock,Go,13
+16607984,DATA-DOG/go-sqlmock,Go,10
 130430977,kubesphere/kubesphere,Go,22
 134539560,weaveworks/eksctl,Go,6
 49970739,DataDog/datadog-agent,Go,3
-222612062,cilium/hubble,Go,83
+222612062,cilium/hubble,Go,50
 165193530,code-ready/crc,Go,2
