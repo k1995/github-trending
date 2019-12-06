@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,57
+8514,rails/rails,Ruby,54
 27442967,fastlane/fastlane,Ruby,133
 13840241,freeCodeCamp/devdocs,Ruby,69
 53238813,Homebrew/brew,Ruby,83
 2293158,rapid7/metasploit-framework,Ruby,96
-538746,ruby/ruby,Ruby,16
-3623050,Homebrew/homebrew-cask,Ruby,37
+538746,ruby/ruby,Ruby,17
+3623050,Homebrew/homebrew-cask,Ruby,39
 37382858,kilimchoi/engineering-blogs,Ruby,45
 1090311,elastic/logstash,Ruby,16
 4095287,rubocop-hq/rubocop,Ruby,15
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1734,aasm/aasm,Ruby,6
 2813939,randym/axlsx,Ruby,2
 138776049,sorbet/sorbet,Ruby,24
-26094060,logstash-plugins/logstash-patterns-core,Ruby,7
+26094060,logstash-plugins/logstash-patterns-core,Ruby,8
 152987,carmen-ruby/carmen,Ruby,48
 10504669,publiclab/plots2,Ruby,4
