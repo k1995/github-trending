@@ -1,7 +1,7 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,59
 54346799,public-apis/public-apis,Python,230
-858127,pandas-dev/pandas,Python,18
+858127,pandas-dev/pandas,Python,16
 32689863,3b1b/manim,Python,100
 150058902,wangzheng0822/algo,Python,153
 1377867,locustio/locust,Python,16
@@ -13,7 +13,7 @@ id,name,lang,new stars
 28782747,dask/dask,Python,6
 204086862,streamlit/streamlit,Python,18
 179728393,microsoft/nlp-recipes,Python,439
-131722556,chineseocr/chineseocr,Python,2
+131722556,chineseocr/chineseocr,Python,5
 132709824,doccano/doccano,Python,12
 24528468,vaexio/vaex,Python,57
 139199684,PrefectHQ/prefect,Python,9
