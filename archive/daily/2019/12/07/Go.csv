@@ -1,12 +1,12 @@
 id,name,lang,new stars
 23096959,golang/go,Go,51
-20580498,kubernetes/kubernetes,Go,61
+20580498,kubernetes/kubernetes,Go,62
 7691631,moby/moby,Go,16
 14712850,syncthing/syncthing,Go,37
 6838921,prometheus/prometheus,Go,31
 74175805,istio/istio,Go,31
 8989842,unknwon/the-way-to-go_ZH_CN,Go,34
-14125254,hashicorp/consul,Go,21
+14125254,hashicorp/consul,Go,28
 43723161,helm/helm,Go,21
 27729907,grpc/grpc-go,Go,11
 6247705,stretchr/testify,Go,11
@@ -17,10 +17,10 @@ id,name,lang,new stars
 11206255,Shopify/sarama,Go,4
 192632000,dapr/dapr,Go,26
 49765480,lightningnetwork/lnd,Go,5
-121651882,schollz/find3,Go,160
-17451182,go-yaml/yaml,Go,8
+121651882,schollz/find3,Go,159
+17451182,go-yaml/yaml,Go,9
 93444615,terraform-providers/terraform-provider-aws,Go,12
 66509131,kubernetes/client-go,Go,9
-31333618,shopspring/decimal,Go,9
+31333618,shopspring/decimal,Go,7
 127519518,projectdiscovery/subfinder,Go,42
-49970739,DataDog/datadog-agent,Go,5
+49970739,DataDog/datadog-agent,Go,2
