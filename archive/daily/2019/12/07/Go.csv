@@ -1,10 +1,10 @@
 id,name,lang,new stars
-23096959,golang/go,Go,36
+23096959,golang/go,Go,39
 20580498,kubernetes/kubernetes,Go,61
 7691631,moby/moby,Go,16
 14712850,syncthing/syncthing,Go,37
 6838921,prometheus/prometheus,Go,31
-74175805,istio/istio,Go,22
+74175805,istio/istio,Go,23
 8989842,unknwon/the-way-to-go_ZH_CN,Go,34
 14125254,hashicorp/consul,Go,21
 43723161,helm/helm,Go,21
