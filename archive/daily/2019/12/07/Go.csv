@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,16
+17728164,hashicorp/terraform,Go,21
+14125254,hashicorp/consul,Go,21
+13124802,influxdata/influxdb,Go,12
+26337322,rancher/rancher,Go,14
+13628513,sirupsen/logrus,Go,19
+6051812,gorilla/mux,Go,9
+13624859,gorilla/websocket,Go,16
+20653934,google/cadvisor,Go,1
+66573241,hyperledger/fabric,Go,14
+129717717,grafana/loki,Go,21
+6443435,nats-io/nats-server,Go,5
+125642885,developer-learning/night-reading-go,Go,30
+133067498,kubernetes-sigs/kustomize,Go,10
+115436884,spiral/roadrunner,Go,48
+17451182,go-yaml/yaml,Go,8
+27483832,gogo/protobuf,Go,8
+10166531,mitchellh/mapstructure,Go,10
+80134675,containers/buildah,Go,4
+16607984,DATA-DOG/go-sqlmock,Go,12
+130430977,kubesphere/kubesphere,Go,14
+134539560,weaveworks/eksctl,Go,6
+49970739,DataDog/datadog-agent,Go,5
+222612062,cilium/hubble,Go,73
+165193530,code-ready/crc,Go,1
