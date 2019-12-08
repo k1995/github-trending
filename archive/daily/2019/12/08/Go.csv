@@ -1,6 +1,6 @@
 id,name,lang,new stars
 14712850,syncthing/syncthing,Go,27
-112567264,iikira/BaiduPCS-Go,Go,33
+112567264,iikira/BaiduPCS-Go,Go,41
 8900723,inconshreveable/ngrok,Go,18
 72495579,go-gitea/gitea,Go,27
 52595226,xtaci/kcptun,Go,6
@@ -8,7 +8,7 @@ id,name,lang,new stars
 21233191,ipfs/go-ipfs,Go,16
 123572362,quii/learn-go-with-tests,Go,16
 7083242,go-sql-driver/mysql,Go,10
-7398306,gdrive-org/gdrive,Go,7
+7398306,gdrive-org/gdrive,Go,9
 54230994,coredns/coredns,Go,15
 136815833,Dreamacro/clash,Go,23
 26726495,go-swagger/go-swagger,Go,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 124260244,banzaicloud/bank-vaults,Go,3
 178249461,instrumenta/conftest,Go,6
 34498446,brianvoe/gofakeit,Go,82
-222297064,photonlines/Go-Web-Server,Go,196
+222297064,photonlines/Go-Web-Server,Go,199
 118514618,istio/tools,Go,0
 207685110,geph-official/geph2,Go,19
