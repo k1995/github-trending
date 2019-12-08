@@ -1,15 +1,15 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,59
-1181927,bitcoin/bitcoin,C++,24
+45717250,tensorflow/tensorflow,C++,63
+1181927,bitcoin/bitcoin,C++,21
 15634981,godotengine/godot,C++,46
 22067521,ocornut/imgui,C++,13
-39840932,google/googletest,C++,8
-60273704,mozilla/DeepSpeech,C++,144
-80286288,arendst/Tasmota,C++,21
+39840932,google/googletest,C++,10
+60273704,mozilla/DeepSpeech,C++,153
+80286288,arendst/Tasmota,C++,15
 1418150,bjorn/tiled,C++,6
-2200856,MarlinFirmware/Marlin,C++,12
+2200856,MarlinFirmware/Marlin,C++,13
 1524684,SFML/SFML,C++,4
-204593825,microsoft/STL,C++,8
+204593825,microsoft/STL,C++,9
 23086893,google/re2,C++,7
 9647856,zerotier/ZeroTierOne,C++,12
 14303048,mamedev/mame,C++,8
@@ -23,4 +23,4 @@ id,name,lang,new stars
 180282946,Presburger/qmc-decoder,C++,4
 150774287,danielkrupinski/Osiris,C++,7
 155636399,tevador/RandomX,C++,4
-225650140,p-ranav/indicators,C++,75
+225650140,p-ranav/indicators,C++,86

@@ -1,20 +1,20 @@
 id,name,lang,new stars
 7600409,shadowsocks/shadowsocks-windows,C#,55
 38380854,0xd4d/dnSpy,C#,18
-29078997,dotnet/roslyn,C#,3
+29078997,dotnet/roslyn,C#,5
 132021166,dotnet/machinelearning,C#,6
 2465723,Sonarr/Sonarr,C#,11
 161012019,jellyfin/jellyfin,C#,27
-8835057,xupefei/Locale-Emulator,C#,12
-54213490,xamarin/Xamarin.Forms,C#,6
+8835057,xupefei/Locale-Emulator,C#,11
+54213490,xamarin/Xamarin.Forms,C#,7
 199570071,2dust/v2rayN,C#,60
-22456440,ppy/osu,C#,10
+22456440,ppy/osu,C#,13
 76425236,EduardoPires/EquinoxProject,C#,5
 19216825,xamarin/xamarin-forms-samples,C#,4
 27251463,QuantConnect/Lean,C#,6
 75505125,abpframework/abp,C#,10
 15819024,Codeusa/Borderless-Gaming,C#,3
-193681686,NetchX/Netch,C#,30
+193681686,NetchX/Netch,C#,32
 86182490,JosefNemec/Playnite,C#,3
 130160795,HMBSbige/ShadowsocksR-Windows,C#,24
 109916954,gibbed/SteamAchievementManager,C#,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 97034042,Tyrrrz/DiscordChatExporter,C#,6
 102737539,Lombiq/Hastlayer-SDK,C#,69
 223886747,davidfowl/FeatherHttp,C#,34
-165548191,carlospolop/privilege-escalation-awesome-scripts-suite,C#,38
-6983995,XboxChaos/Assembly,C#,3
+165548191,carlospolop/privilege-escalation-awesome-scripts-suite,C#,27
+6983995,XboxChaos/Assembly,C#,6
