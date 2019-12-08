@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,158
-23083156,mui-org/material-ui,JavaScript,31
-133442384,denoland/deno,TypeScript,40
-83999700,sdmg15/Best-websites-a-programmer-should-visit,,168
-1644196,JuliaLang/julia,Julia,73
-36891867,angular/angular-cli,TypeScript,7
-175393768,abhat222/Data-Science--Cheat-Sheet,TeX,75
-60273704,mozilla/DeepSpeech,C++,144
-206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Python,252
-152870372,ruanyf/weekly,,19
-21233191,ipfs/go-ipfs,Go,16
-171795571,ShusenTang/Dive-into-DL-PyTorch,Jupyter Notebook,52
-54213490,xamarin/Xamarin.Forms,C#,6
-179728393,microsoft/nlp-recipes,Python,128
-127519518,projectdiscovery/subfinder,Go,28
-209120637,Netflix/metaflow,Python,380
-156939672,microsoft/onnxruntime,C++,5
-225990209,SwiftLaTeX/SwiftLaTeX,JavaScript,200
-223310098,drop-ice/dear-github-2.0,,365
-223881576,macrozheng/mall-swarm,Java,69
-217436984,facebookresearch/demucs,Python,205
-213460285,JasonGT/CleanArchitecture,C#,34
-190687137,rasbt/python-machine-learning-book-3rd-edition,Jupyter Notebook,32
-225895956,FSecureLABS/awspx,Python,36
-226013931,RedDrip7/APT_Digital_Weapon,,19
+54346799,public-apis/public-apis,Python,194
+132750724,danistefanovic/build-your-own-x,,78
+133442384,denoland/deno,TypeScript,48
+36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,149
+83999700,sdmg15/Best-websites-a-programmer-should-visit,,204
+88011908,tuvtran/project-based-learning,,127
+156157055,practicalAI/practicalAI,Jupyter Notebook,143
+4037197,ycm-core/YouCompleteMe,Python,10
+58028038,521xueweihan/HelloGitHub,Python,438
+175393768,abhat222/Data-Science--Cheat-Sheet,TeX,92
+152870372,ruanyf/weekly,,27
+80286288,arendst/Tasmota,C++,15
+171795571,ShusenTang/Dive-into-DL-PyTorch,Jupyter Notebook,70
+161012019,jellyfin/jellyfin,C#,27
+204593825,microsoft/STL,C++,9
+117948953,Atmosphere-NX/Atmosphere,C,13
+127519518,projectdiscovery/subfinder,Go,41
+226046528,trekhleb/nano-neuron,JavaScript,728
+223881576,macrozheng/mall-swarm,Java,100
+217436984,facebookresearch/demucs,Python,133
+47995932,redox-os/orbtk,Rust,54
+130670507,TrickyGo/Dive-into-DL-TensorFlow2.0,Jupyter Notebook,146
+179196443,nickwalton/AIDungeon,Python,331
+208358969,facebookresearch/ClassyVision,Jupyter Notebook,171
+226336115,Kengxxiao/Punishing_GrayRaven_Tab,,194
