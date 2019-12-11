@@ -1,16 +1,16 @@
 id,name,lang,new stars
-126577260,trekhleb/javascript-algorithms,JavaScript,843
-133442384,denoland/deno,TypeScript,317
+126577260,trekhleb/javascript-algorithms,JavaScript,838
+133442384,denoland/deno,TypeScript,323
 91573538,testerSunshine/12306,Python,270
 26784827,dotnet/core,Shell,113
-60273704,mozilla/DeepSpeech,C++,518
+60273704,mozilla/DeepSpeech,C++,522
 157616880,iptv-org/iptv,JavaScript,669
 126178683,halo-dev/halo,Java,440
-159152904,zhangdaiscott/jeecg-boot,Java,378
+159152904,zhangdaiscott/jeecg-boot,Java,374
 102904613,Unity-Technologies/ml-agents,Python,74
 70530854,awslabs/serverless-application-model,Python,176
 171795571,ShusenTang/Dive-into-DL-PyTorch,Jupyter Notebook,359
-102578345,coolsnowwolf/lede,C,229
+102578345,coolsnowwolf/lede,C,200
 161012019,jellyfin/jellyfin,C#,232
 163721192,zhisheng17/flink-learning,Java,352
 174765647,heibaiying/BigData-Notes,Java,630
@@ -23,4 +23,4 @@ id,name,lang,new stars
 217436984,facebookresearch/demucs,Python,443
 171664300,makepad/makepad,Rust,113
 206905065,macrozheng/springcloud-learning,Java,139
-224392208,MailRuChamps/raic-2019,C++,31
+224392208,MailRuChamps/raic-2019,C++,29
