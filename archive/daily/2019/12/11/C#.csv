@@ -3,10 +3,8 @@ id,name,lang,new stars
 28232663,dotnet/orleans,C#,8
 46652227,IdentityServer/IdentityServer4,C#,14
 62256097,ThreeMammals/Ocelot,C#,5
-5780416,NLog/NLog,C#,6
 32051890,microsoft/msbuild,C#,2
-54213490,xamarin/Xamarin.Forms,C#,7
-22456440,ppy/osu,C#,7
+22456440,ppy/osu,C#,8
 17941520,neuecc/UniRx,C#,4
 83380995,dotnet-architecture/eShopOnWeb,C#,8
 32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,4
@@ -15,12 +13,11 @@ id,name,lang,new stars
 136570231,xenko3d/xenko,C#,4
 23891194,Azure/azure-powershell,C#,1
 203892454,kgrzybek/modular-monolith-with-ddd,C#,9
-72554578,confluentinc/confluent-kafka-dotnet,C#,2
 120231691,Ryujinx/Ryujinx,C#,1
 166270225,dotnet-presentations/blazor-workshop,C#,4
-119571446,dotnet/samples,C#,2
+119571446,dotnet/samples,C#,3
 115516512,ivanpaulovich/clean-architecture-manga,C#,8
 36946704,dotnet/roslyn-analyzers,C#,3
-213460285,JasonGT/CleanArchitecture,C#,25
+213460285,JasonGT/CleanArchitecture,C#,26
 223886747,davidfowl/FeatherHttp,C#,26
 174554657,MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure,C#,1

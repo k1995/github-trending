@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,144
-7548986,laravel/framework,PHP,83
+1863329,laravel/laravel,PHP,143
+7548986,laravel/framework,PHP,82
 1420053,guzzle/guzzle,PHP,71
-2246815,domnikl/DesignPatternsPHP,PHP,47
+2246815,domnikl/DesignPatternsPHP,PHP,48
 448045,sebastianbergmann/phpunit,PHP,63
 7769432,vlucas/phpdotenv,PHP,38
 8678290,barryvdh/laravel-ide-helper,PHP,49
 2699935,squizlabs/PHP_CodeSniffer,PHP,47
-6660366,dompdf/dompdf,PHP,28
+6660366,dompdf/dompdf,PHP,29
 5508585,YOURLS/YOURLS,PHP,31
 7122594,directus/directus,PHP,46
 14716368,invoiceninja/invoiceninja,PHP,23
@@ -15,12 +15,12 @@ id,name,lang,new stars
 41589337,BookStackApp/BookStack,PHP,55
 126950582,donwa/oneindex,PHP,44
 2784293,php-amqplib/php-amqplib,PHP,15
-74386167,vimeo/psalm,PHP,35
-95011974,akaunting/akaunting,PHP,83
+74386167,vimeo/psalm,PHP,36
+95011974,akaunting/akaunting,PHP,84
 76064827,mailcow/mailcow-dockerized,PHP,27
 97311017,rectorphp/rector,PHP,83
-1934695,xdebug/xdebug,PHP,27
+1934695,xdebug/xdebug,PHP,28
 39585488,tenancy/multi-tenant,PHP,15
 1307238,phpmd/phpmd,PHP,14
-222873550,bytefury/crater,PHP,243
+222873550,bytefury/crater,PHP,252
 174021137,inertiajs/pingcrm,PHP,26
