@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,11
 65252,jekyll/jekyll,Ruby,11
-52281283,tootsuite/mastodon,Ruby,9
+52281283,tootsuite/mastodon,Ruby,11
 481872,hashicorp/vagrant,Ruby,5
 538746,ruby/ruby,Ruby,5
 3195124,mperham/sidekiq,Ruby,3
 611921,activeadmin/activeadmin,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,2
-5200099,thoughtbot/guides,Ruby,4
+5200099,thoughtbot/guides,Ruby,3
 108278,chef/chef,Ruby,3
 37997,jnunemaker/httparty,Ruby,1
 535266,vcr/vcr,Ruby,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 9831101,elastic/elasticsearch-ruby,Ruby,0
 103766152,github/explore,Ruby,3
 63882194,projectcalico/calico,Ruby,6
-3833911,RubyMoney/money-rails,Ruby,0
+3833911,RubyMoney/money-rails,Ruby,1
 2376,ActsAsParanoid/acts_as_paranoid,Ruby,0
 65914086,decidim/decidim,Ruby,1
 66497320,DataDog/dd-trace-rb,Ruby,0
