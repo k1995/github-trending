@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,53
-10744183,netdata/netdata,C,35
-7634677,openssl/openssl,C,9
-20159867,nothings/stb,C,11
+2325298,torvalds/linux,C,58
+10744183,netdata/netdata,C,34
+7634677,openssl/openssl,C,8
+20159867,nothings/stb,C,12
 15337142,micropython/micropython,C,16
 27737393,qmk/qmk_firmware,C,6
-673267,redis/hiredis,C,4
-5870069,edenhill/librdkafka,C,3
-105944401,yugabyte/yugabyte-db,C,5
-5213091,baskerville/bspwm,C,12
-60667730,littlevgl/lvgl,C,8
+673267,redis/hiredis,C,2
+5870069,edenhill/librdkafka,C,2
+105944401,yugabyte/yugabyte-db,C,4
+5213091,baskerville/bspwm,C,13
+60667730,littlevgl/lvgl,C,10
 6687936,ARMmbed/mbedtls,C,4
 20597509,Rdatatable/data.table,C,3
 82003080,WireGuard/WireGuard,C,6
@@ -18,7 +18,7 @@ id,name,lang,new stars
 122325570,zlgopen/awtk,C,7
 13352949,civetweb/civetweb,C,2
 15333809,open62541/open62541,C,2
-211381291,ExistentialAudio/BlackHole,C,9
+211381291,ExistentialAudio/BlackHole,C,4
 113214875,spacemeowx2/switch-lan-play,C,6
 43013346,aws/aws-iot-device-sdk-embedded-C,C,2
 226655968,sailay1996/UAC_Bypass_In_The_Wild,C,53
