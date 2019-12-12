@@ -9,7 +9,7 @@ id,name,lang,new stars
 75811015,Tencent/xLua,C,7
 186749,nodejs/http-parser,C,3
 65899476,espressif/esp-idf,C,7
-7408108,RT-Thread/rt-thread,C,9
+7408108,RT-Thread/rt-thread,C,7
 24506947,JoeDog/siege,C,8
 19330466,Cyan4973/xxHash,C,2
 35780977,ImageMagick/ImageMagick,C,7
@@ -18,7 +18,7 @@ id,name,lang,new stars
 15257213,ldcsaa/HP-Socket,C,9
 31564322,shellinabox/shellinabox,C,4
 29933948,fluent/fluent-bit,C,3
-135175513,yandex/odyssey,C,291
+135175513,yandex/odyssey,C,281
 131710328,CTCaer/hekate,C,7
 122325570,zlgopen/awtk,C,7
 40556106,wazuh/wazuh,C,5

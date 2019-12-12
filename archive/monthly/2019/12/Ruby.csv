@@ -1,15 +1,15 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,355
-8681349,huginn/huginn,Ruby,295
-308770,plataformatec/devise,Ruby,81
-481872,hashicorp/vagrant,Ruby,145
-2293158,rapid7/metasploit-framework,Ruby,392
-3623050,Homebrew/homebrew-cask,Ruby,153
+27442967,fastlane/fastlane,Ruby,354
+8681349,huginn/huginn,Ruby,296
+308770,plataformatec/devise,Ruby,82
+481872,hashicorp/vagrant,Ruby,146
+2293158,rapid7/metasploit-framework,Ruby,391
+3623050,Homebrew/homebrew-cask,Ruby,154
 1090311,elastic/logstash,Ruby,120
 611921,activeadmin/activeadmin,Ruby,38
-52855516,Homebrew/homebrew-core,Ruby,138
+52855516,Homebrew/homebrew-core,Ruby,137
 2441517,puma/puma,Ruby,32
-4994614,wpscanteam/wpscan,Ruby,74
+4994614,wpscanteam/wpscan,Ruby,73
 75785147,rails/webpacker,Ruby,38
 30337170,rmosolgo/graphql-ruby,Ruby,59
 6768710,redmine/redmine,Ruby,32
@@ -17,7 +17,7 @@ id,name,lang,new stars
 558790,zdennis/activerecord-import,Ruby,44
 202291859,chatwoot/chatwoot,Ruby,2130
 51164398,oracle/truffleruby,Ruby,63
-3898922,zammad/zammad,Ruby,72
+3898922,zammad/zammad,Ruby,73
 138776049,sorbet/sorbet,Ruby,99
 11426474,github/choosealicense.com,Ruby,33
 63882194,projectcalico/calico,Ruby,77
