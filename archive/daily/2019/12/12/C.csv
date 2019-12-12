@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,57
-10744183,netdata/netdata,C,28
+2325298,torvalds/linux,C,59
+10744183,netdata/netdata,C,29
 1903522,php/php-src,C,11
-111583593,Genymobile/scrcpy,C,73
+111583593,Genymobile/scrcpy,C,74
 7634677,openssl/openssl,C,7
 20159867,nothings/stb,C,12
-15337142,micropython/micropython,C,13
+15337142,micropython/micropython,C,15
 27737393,qmk/qmk_firmware,C,10
 673267,redis/hiredis,C,1
 5870069,edenhill/librdkafka,C,7
@@ -17,10 +17,10 @@ id,name,lang,new stars
 82003080,WireGuard/WireGuard,C,8
 110170439,aws/amazon-freertos,C,0
 45703884,olikraus/u8g2,C,3
-122325570,zlgopen/awtk,C,30
-13352949,civetweb/civetweb,C,3
+122325570,zlgopen/awtk,C,8
+13352949,civetweb/civetweb,C,5
 15333809,open62541/open62541,C,0
-113214875,spacemeowx2/switch-lan-play,C,8
+113214875,spacemeowx2/switch-lan-play,C,6
 43013346,aws/aws-iot-device-sdk-embedded-C,C,0
-226655968,sailay1996/UAC_Bypass_In_The_Wild,C,28
+226655968,sailay1996/UAC_Bypass_In_The_Wild,C,26
 150124830,exelix11/SwitchThemeInjector,C,1
