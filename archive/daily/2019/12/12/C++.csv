@@ -5,7 +5,7 @@ id,name,lang,new stars
 12791642,BVLC/caffe,C++,14
 11171548,nlohmann/json,C++,18
 5133949,swoole/swoole-src,C++,16
-39840932,google/googletest,C++,15
+39840932,google/googletest,C++,13
 99846383,horovod/horovod,C++,15
 40892817,ethereum/solidity,C++,7
 47690142,CoatiSoftware/Sourcetrail,C++,92
@@ -13,14 +13,14 @@ id,name,lang,new stars
 191820100,google/mediapipe,C++,26
 17381605,google/snappy,C++,5
 5298790,PX4/Firmware,C++,6
-143131,danmar/cppcheck,C++,7
+143131,danmar/cppcheck,C++,9
 49986046,falcosecurity/falco,C++,27
 12584062,ReactiveX/RxCpp,C++,5
 146459443,vesoft-inc/nebula,C++,88
 156939672,microsoft/onnxruntime,C++,15
-221787282,NVIDIAGameWorks/kaolin,C++,31
+221787282,NVIDIAGameWorks/kaolin,C++,24
 87443396,Haivision/srt,C++,5
 131630299,onnx/onnx-tensorrt,C++,1
 102456668,sudomesh/disaster-radio,C++,64
-226063093,google/path-auditor,C++,32
+226063093,google/path-auditor,C++,28
 219796516,prabhuomkar/pytorch-cpp,C++,71
