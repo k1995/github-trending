@@ -1,19 +1,19 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,223
-111583593,Genymobile/scrcpy,C,332
-569041,curl/curl,C,89
-18666758,pjreddie/darknet,C,109
-62156403,QSCTech/zju-icicles,C,88
+10744183,netdata/netdata,C,224
+111583593,Genymobile/scrcpy,C,333
+569041,curl/curl,C,91
+18666758,pjreddie/darknet,C,110
+62156403,QSCTech/zju-icicles,C,90
 14812739,libuv/libuv,C,68
 74627617,commaai/openpilot,C,78
-7634677,openssl/openssl,C,47
+7634677,openssl/openssl,C,46
 20159867,nothings/stb,C,116
 32969220,esp8266/Arduino,C,36
 15337142,micropython/micropython,C,48
-184981,memcached/memcached,C,28
-66150122,jarun/nnn,C,86
-102578345,coolsnowwolf/lede,C,193
-45821540,openwrt/openwrt,C,50
+184981,memcached/memcached,C,29
+66150122,jarun/nnn,C,81
+102578345,coolsnowwolf/lede,C,186
+45821540,openwrt/openwrt,C,49
 70127218,espressif/arduino-esp32,C,43
 15257213,ldcsaa/HP-Socket,C,29
 13836499,raysan5/raylib,C,33
@@ -22,5 +22,5 @@ id,name,lang,new stars
 11233590,coreutils/coreutils,C,21
 98651166,ShadowsocksR-Live/shadowsocksr-native,C,46
 90867899,stm32duino/Arduino_Core_STM32,C,15
-211547440,chineseocr/darknet-ocr,C,21
+211547440,chineseocr/darknet-ocr,C,26
 224151065,Immediate-Mode-UI/Nuklear,C,54
