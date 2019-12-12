@@ -7,14 +7,14 @@ id,name,lang,new stars
 133251103,wagoodman/dive,Go,47
 17803236,rclone/rclone,Go,212
 31288958,hashicorp/vault,Go,14
-48003886,tmrts/go-patterns,Go,17
+48003886,tmrts/go-patterns,Go,19
 18369373,spf13/viper,Go,22
 27729907,grpc/grpc-go,Go,8
 120227732,fyne-io/fyne,Go,46
 42194129,docker-slim/docker-slim,Go,1249
 27576132,aws/aws-sdk-go,Go,0
 4925652,robfig/cron,Go,13
-93444615,terraform-providers/terraform-provider-aws,Go,5
+93444615,terraform-providers/terraform-provider-aws,Go,9
 59522149,gruntwork-io/terragrunt,Go,5
 120650407,operator-framework/operator-sdk,Go,6
 118828329,knative/serving,Go,8
