@@ -1,8 +1,8 @@
 id,name,lang,new stars
 17620347,aspnet/AspNetCore,C#,23
-28232663,dotnet/orleans,C#,8
+28232663,dotnet/orleans,C#,9
 46652227,IdentityServer/IdentityServer4,C#,9
-62256097,ThreeMammals/Ocelot,C#,2
+62256097,ThreeMammals/Ocelot,C#,3
 5780416,NLog/NLog,C#,4
 32051890,microsoft/msbuild,C#,1
 54213490,xamarin/Xamarin.Forms,C#,5
@@ -14,7 +14,7 @@ id,name,lang,new stars
 68730444,microsoft/BotBuilder-Samples,C#,2
 136570231,xenko3d/xenko,C#,1
 23891194,Azure/azure-powershell,C#,2
-203892454,kgrzybek/modular-monolith-with-ddd,C#,12
+203892454,kgrzybek/modular-monolith-with-ddd,C#,13
 104407534,dotnet/try,C#,3
 72554578,confluentinc/confluent-kafka-dotnet,C#,2
 120231691,Ryujinx/Ryujinx,C#,1

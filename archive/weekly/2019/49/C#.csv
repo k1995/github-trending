@@ -1,5 +1,5 @@
 id,name,lang,new stars
-17620347,aspnet/AspNetCore,C#,114
+17620347,aspnet/AspNetCore,C#,116
 29078997,dotnet/roslyn,C#,33
 16157746,aspnet/EntityFrameworkCore,C#,37
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,80
@@ -9,12 +9,12 @@ id,name,lang,new stars
 54213490,xamarin/Xamarin.Forms,C#,34
 22456440,ppy/osu,C#,42
 83380995,dotnet-architecture/eShopOnWeb,C#,36
-69673033,ardalis/CleanArchitecture,C#,42
+69673033,ardalis/CleanArchitecture,C#,43
 76425236,EduardoPires/EquinoxProject,C#,28
 125612271,Unity-Technologies/EntityComponentSystemSamples,C#,32
 70584079,JasonGT/NorthwindTraders,C#,53
 27251463,QuantConnect/Lean,C#,27
-75505125,abpframework/abp,C#,45
+75505125,abpframework/abp,C#,43
 193681686,NetchX/Netch,C#,101
 130160795,HMBSbige/ShadowsocksR-Windows,C#,69
 23891194,Azure/azure-powershell,C#,9
@@ -22,5 +22,5 @@ id,name,lang,new stars
 2928944,Azure/azure-sdk-for-net,C#,13
 121049045,skoruba/IdentityServer4.Admin,C#,18
 30932325,aspnet/Extensions,C#,29
-210716005,dotnet/runtime,C#,144
-213460285,JasonGT/CleanArchitecture,C#,204
+210716005,dotnet/runtime,C#,145
+213460285,JasonGT/CleanArchitecture,C#,205
