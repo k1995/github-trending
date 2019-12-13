@@ -1,5 +1,5 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,13
+458058,symfony/symfony,PHP,14
 7548986,laravel/framework,PHP,14
 1420053,guzzle/guzzle,PHP,16
 1376664,Seldaek/monolog,PHP,15
@@ -15,12 +15,12 @@ id,name,lang,new stars
 9826184,elastic/elasticsearch-php,PHP,5
 3817881,zircote/swagger-php,PHP,0
 439861,moodle/moodle,PHP,2
-8077402,MISP/MISP,PHP,1
+8077402,MISP/MISP,PHP,3
 14875475,thephpleague/csv,PHP,4
 72453516,wp-graphql/wp-graphql,PHP,4
 159606650,hyperf/hyperf,PHP,13
 69691727,pmmp/PocketMine-MP,PHP,2
 170355508,livewire/livewire,PHP,6
-222873550,bytefury/crater,PHP,324
+222873550,bytefury/crater,PHP,313
 26456385,thephpleague/flysystem-aws-s3-v3,PHP,4
 174021137,inertiajs/pingcrm,PHP,8
