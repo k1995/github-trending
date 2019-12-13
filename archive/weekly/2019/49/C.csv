@@ -1,14 +1,14 @@
 id,name,lang,new stars
-36502,git/git,C,141
+36502,git/git,C,140
 3774328,wg/wrk,C,113
-111583593,Genymobile/scrcpy,C,360
-569041,curl/curl,C,94
+111583593,Genymobile/scrcpy,C,363
+569041,curl/curl,C,93
 18666758,pjreddie/darknet,C,101
-13233158,obsproject/obs-studio,C,106
+13233158,obsproject/obs-studio,C,107
 14812739,libuv/libuv,C,65
-74627617,commaai/openpilot,C,62
+74627617,commaai/openpilot,C,60
 20159867,nothings/stb,C,120
-32969220,esp8266/Arduino,C,37
+32969220,esp8266/Arduino,C,36
 37912398,nginx/nginx,C,113
 5414488,cesanta/mongoose,C,24
 102578345,coolsnowwolf/lede,C,158
@@ -18,7 +18,7 @@ id,name,lang,new stars
 70127218,espressif/arduino-esp32,C,38
 50824485,processhacker/processhacker,C,33
 15257213,ldcsaa/HP-Socket,C,34
-13836499,raysan5/raylib,C,37
+13836499,raysan5/raylib,C,38
 40306512,LuaJIT/LuaJIT,C,13
 83160811,ARMmbed/littlefs,C,18
 122325570,zlgopen/awtk,C,83

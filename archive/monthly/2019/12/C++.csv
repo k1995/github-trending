@@ -1,7 +1,7 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1919
-100060912,microsoft/terminal,C++,1415
-5108051,opencv/opencv,C++,937
+45717250,tensorflow/tensorflow,C++,1918
+100060912,microsoft/terminal,C++,1420
+5108051,opencv/opencv,C++,938
 23357588,protocolbuffers/protobuf,C++,724
 22067521,ocornut/imgui,C++,448
 60273704,mozilla/DeepSpeech,C++,758
@@ -9,18 +9,18 @@ id,name,lang,new stars
 80286288,arendst/Tasmota,C++,415
 3351871,qbittorrent/qBittorrent,C++,295
 95879426,Tencent/ncnn,C++,236
-303762,acaudwell/Gource,C++,325
+303762,acaudwell/Gource,C++,324
 2200856,MarlinFirmware/Marlin,C++,222
 32736639,JoeyDeVries/LearnOpenGL,C++,221
-108102826,carla-simulator/carla,C++,222
+108102826,carla-simulator/carla,C++,223
 105697152,fireice-uk/xmr-stak,C++,47
 5298790,PX4/Firmware,C++,106
 88327406,xmrig/xmrig,C++,120
 56894212,jvm-profiling-tools/async-profiler,C++,146
-39283837,HowardHinnant/date,C++,53
+39283837,HowardHinnant/date,C++,54
 156939672,microsoft/onnxruntime,C++,151
-156787357,microsoft/SEAL,C++,72
-76990209,Aircoookie/WLED,C++,258
+156787357,microsoft/SEAL,C++,71
+76990209,Aircoookie/WLED,C++,260
 152616802,rapidsai/cuml,C++,201
 145275555,gaoxiang12/slambook2,C++,100
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,59
