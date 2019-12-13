@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
-27442967,fastlane/fastlane,Ruby,12
+8514,rails/rails,Ruby,15
+27442967,fastlane/fastlane,Ruby,10
 8681349,huginn/huginn,Ruby,2136
 2500088,gitlabhq/gitlabhq,Ruby,4
-52281283,tootsuite/mastodon,Ruby,27
+52281283,tootsuite/mastodon,Ruby,21
 481872,hashicorp/vagrant,Ruby,8
-2293158,rapid7/metasploit-framework,Ruby,12
-3623050,Homebrew/homebrew-cask,Ruby,7
-2203645,CocoaPods/CocoaPods,Ruby,3
+2293158,rapid7/metasploit-framework,Ruby,11
+3623050,Homebrew/homebrew-cask,Ruby,6
+2203645,CocoaPods/CocoaPods,Ruby,2
 138312,capistrano/capistrano,Ruby,1
 611921,activeadmin/activeadmin,Ruby,2
 1918677,fluent/fluentd,Ruby,5
@@ -17,10 +17,10 @@ id,name,lang,new stars
 26018608,github-changelog-generator/github-changelog-generator,Ruby,3
 16549503,github/scientist,Ruby,5
 11607598,ruby-concurrency/concurrent-ruby,Ruby,2
-417389,lostisland/faraday,Ruby,0
-7050,prawnpdf/prawn,Ruby,3
-30985840,solidusio/solidus,Ruby,2
-37724576,codeclimate/codeclimate,Ruby,3
+417389,lostisland/faraday,Ruby,1
+7050,prawnpdf/prawn,Ruby,1
+30985840,solidusio/solidus,Ruby,1
+37724576,codeclimate/codeclimate,Ruby,1
 39706711,hartator/wayback-machine-downloader,Ruby,2
 9500075,ytti/oxidized,Ruby,2
 2376,ActsAsParanoid/acts_as_paranoid,Ruby,1
