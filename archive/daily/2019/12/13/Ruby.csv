@@ -1,9 +1,9 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,5
-27442967,fastlane/fastlane,Ruby,13
-8681349,huginn/huginn,Ruby,2472
-2500088,gitlabhq/gitlabhq,Ruby,2
-52281283,tootsuite/mastodon,Ruby,17
+27442967,fastlane/fastlane,Ruby,14
+8681349,huginn/huginn,Ruby,2136
+2500088,gitlabhq/gitlabhq,Ruby,4
+52281283,tootsuite/mastodon,Ruby,18
 481872,hashicorp/vagrant,Ruby,9
 2293158,rapid7/metasploit-framework,Ruby,13
 3623050,Homebrew/homebrew-cask,Ruby,6
@@ -12,9 +12,9 @@ id,name,lang,new stars
 611921,activeadmin/activeadmin,Ruby,1
 1918677,fluent/fluentd,Ruby,5
 96395,faker-ruby/faker,Ruby,4
-451035,plataformatec/simple_form,Ruby,1
-1725199,github/linguist,Ruby,5
-26018608,github-changelog-generator/github-changelog-generator,Ruby,3
+451035,plataformatec/simple_form,Ruby,0
+1725199,github/linguist,Ruby,6
+26018608,github-changelog-generator/github-changelog-generator,Ruby,4
 16549503,github/scientist,Ruby,5
 11607598,ruby-concurrency/concurrent-ruby,Ruby,2
 417389,lostisland/faraday,Ruby,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,2
 37724576,codeclimate/codeclimate,Ruby,3
 39706711,hartator/wayback-machine-downloader,Ruby,2
-9500075,ytti/oxidized,Ruby,2
+9500075,ytti/oxidized,Ruby,0
 2376,ActsAsParanoid/acts_as_paranoid,Ruby,1
