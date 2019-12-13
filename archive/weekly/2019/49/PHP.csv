@@ -1,14 +1,14 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,147
 7548986,laravel/framework,PHP,75
-1420053,guzzle/guzzle,PHP,79
+1420053,guzzle/guzzle,PHP,78
 2246815,domnikl/DesignPatternsPHP,PHP,44
 2234102,bcit-ci/CodeIgniter,PHP,26
-13899674,thephpleague/flysystem,PHP,39
-7769432,vlucas/phpdotenv,PHP,34
+13899674,thephpleague/flysystem,PHP,38
+7769432,vlucas/phpdotenv,PHP,33
 14716368,invoiceninja/invoiceninja,PHP,25
-41589337,BookStackApp/BookStack,PHP,55
-145865941,laravel/telescope,PHP,17
+41589337,BookStackApp/BookStack,PHP,56
+145865941,laravel/telescope,PHP,16
 439861,moodle/moodle,PHP,8
 74386167,vimeo/psalm,PHP,31
 8077402,MISP/MISP,PHP,17
@@ -22,4 +22,4 @@ id,name,lang,new stars
 19469355,drupal-composer/drupal-project,PHP,6
 222873550,bytefury/crater,PHP,655
 131995661,shopware/platform,PHP,22
-174021137,inertiajs/pingcrm,PHP,45
+174021137,inertiajs/pingcrm,PHP,46
