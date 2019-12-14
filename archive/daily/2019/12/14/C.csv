@@ -1,10 +1,10 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,55
 36502,git/git,C,22
-111583593,Genymobile/scrcpy,C,61
+111583593,Genymobile/scrcpy,C,60
 3774328,wg/wrk,C,16
 18666758,pjreddie/darknet,C,11
-37912398,nginx/nginx,C,181
+37912398,nginx/nginx,C,152
 23029617,h2o/h2o,C,43
 5254557,cloudwu/skynet,C,4
 613829,openresty/lua-nginx-module,C,8
@@ -21,6 +21,6 @@ id,name,lang,new stars
 122325570,zlgopen/awtk,C,7
 179354282,acidanthera/OpenCorePkg,C,8
 167469034,OpenVisualCloud/SVT-AV1,C,0
-128412681,antirez/disque-module,C,17
+128412681,antirez/disque-module,C,16
 220449772,open-sdr/openwifi,C,94
 209267248,ITotalJustice/sigpatch-updater,C,2

@@ -1,19 +1,19 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,51
-11180687,gohugoio/hugo,Go,29
-42408804,containous/traefik,Go,63
-29207621,caddyserver/caddy,Go,25
+11180687,gohugoio/hugo,Go,27
+42408804,containous/traefik,Go,72
+29207621,caddyserver/caddy,Go,28
 138547797,FiloSottile/mkcert,Go,31
 31288958,hashicorp/vault,Go,7
 70202506,golang/dep,Go,0
-46806184,helm/charts,Go,13
+46806184,helm/charts,Go,14
 62091339,kubernetes/kops,Go,2
-33258973,influxdata/telegraf,Go,28
-36071697,ory/hydra,Go,24
-165041732,bilibili/kratos,Go,15
+33258973,influxdata/telegraf,Go,21
+36071697,ory/hydra,Go,23
+165041732,bilibili/kratos,Go,14
 42194129,docker-slim/docker-slim,Go,594
 4925652,robfig/cron,Go,57
-11206255,Shopify/sarama,Go,3
+11206255,Shopify/sarama,Go,2
 26726495,go-swagger/go-swagger,Go,7
 93444615,terraform-providers/terraform-provider-aws,Go,5
 66509131,kubernetes/client-go,Go,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 28173298,go-ini/ini,Go,7
 74499101,roboll/helmfile,Go,24
 41964498,prometheus/blackbox_exporter,Go,2
-156681830,ffuf/ffuf,Go,21
+156681830,ffuf/ffuf,Go,22
 179141420,cosmos/gaia,Go,0
