@@ -1,8 +1,8 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,75
-1420053,guzzle/guzzle,PHP,80
+1420053,guzzle/guzzle,PHP,78
 2246815,domnikl/DesignPatternsPHP,PHP,45
-7769432,vlucas/phpdotenv,PHP,36
+7769432,vlucas/phpdotenv,PHP,37
 8678290,barryvdh/laravel-ide-helper,PHP,44
 2884111,magento/magento2,PHP,21
 31295421,guzzle/psr7,PHP,44
@@ -11,14 +11,14 @@ id,name,lang,new stars
 14716368,invoiceninja/invoiceninja,PHP,27
 4242230,PHPOffice/PHPWord,PHP,27
 7577142,doctrine/annotations,PHP,47
-41589337,BookStackApp/BookStack,PHP,57
+41589337,BookStackApp/BookStack,PHP,55
 145865941,laravel/telescope,PHP,15
 33916850,spatie/laravel-medialibrary,PHP,28
 76064827,mailcow/mailcow-dockerized,PHP,26
 97311017,rectorphp/rector,PHP,57
 69124179,ConsoleTVs/Charts,PHP,15
-159606650,hyperf/hyperf,PHP,70
-1934695,xdebug/xdebug,PHP,28
+159606650,hyperf/hyperf,PHP,69
+1934695,xdebug/xdebug,PHP,30
 69691727,pmmp/PocketMine-MP,PHP,9
 222873550,bytefury/crater,PHP,905
 131995661,shopware/platform,PHP,23

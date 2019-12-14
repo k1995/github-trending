@@ -1,13 +1,13 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,337
-11180687,gohugoio/hugo,Go,231
-11225014,etcd-io/etcd,Go,146
+20580498,kubernetes/kubernetes,Go,322
+11180687,gohugoio/hugo,Go,223
+11225014,etcd-io/etcd,Go,140
 6838921,prometheus/prometheus,Go,154
-42408804,containous/traefik,Go,218
-17728164,hashicorp/terraform,Go,162
+42408804,containous/traefik,Go,213
+17728164,hashicorp/terraform,Go,156
 133251103,wagoodman/dive,Go,218
 17803236,rclone/rclone,Go,679
-12574344,spf13/cobra,Go,126
+12574344,spf13/cobra,Go,115
 13628513,sirupsen/logrus,Go,88
 48003886,tmrts/go-patterns,Go,78
 21233191,ipfs/go-ipfs,Go,75
@@ -17,10 +17,10 @@ id,name,lang,new stars
 10270722,google/go-github,Go,33
 136815833,Dreamacro/clash,Go,149
 93444615,terraform-providers/terraform-provider-aws,Go,41
-120650407,operator-framework/operator-sdk,Go,45
-127519518,projectdiscovery/subfinder,Go,227
+120650407,operator-framework/operator-sdk,Go,43
+127519518,projectdiscovery/subfinder,Go,198
 7823926,prometheus/client_golang,Go,41
 74499101,roboll/helmfile,Go,76
 156681830,ffuf/ffuf,Go,191
-124260244,banzaicloud/bank-vaults,Go,72
+124260244,banzaicloud/bank-vaults,Go,71
 193681111,filecoin-project/lotus,Go,31
