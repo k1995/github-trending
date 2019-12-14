@@ -1,6 +1,6 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,354
-8681349,huginn/huginn,Ruby,3116
+8681349,huginn/huginn,Ruby,3138
 308770,plataformatec/devise,Ruby,79
 481872,hashicorp/vagrant,Ruby,154
 2293158,rapid7/metasploit-framework,Ruby,382
@@ -16,10 +16,10 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,40
 6768710,redmine/redmine,Ruby,34
 38867,svenfuchs/rails-i18n,Ruby,18
-202291859,chatwoot/chatwoot,Ruby,2144
+202291859,chatwoot/chatwoot,Ruby,2146
 51164398,oracle/truffleruby,Ruby,65
+138776049,sorbet/sorbet,Ruby,102
 3898922,zammad/zammad,Ruby,72
-138776049,sorbet/sorbet,Ruby,101
 63882194,projectcalico/calico,Ruby,77
 189010173,Hackplayers/evil-winrm,Ruby,104
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,20
