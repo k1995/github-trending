@@ -1,6 +1,6 @@
 id,name,lang,new stars
 17620347,aspnet/AspNetCore,C#,119
-38380854,0xd4d/dnSpy,C#,104
+38380854,0xd4d/dnSpy,C#,103
 29078997,dotnet/roslyn,C#,31
 1613345,StackExchange/Dapper,C#,43
 16157746,aspnet/EntityFrameworkCore,C#,24
@@ -9,12 +9,12 @@ id,name,lang,new stars
 46652227,IdentityServer/IdentityServer4,C#,47
 161012019,jellyfin/jellyfin,C#,215
 54213490,xamarin/Xamarin.Forms,C#,36
-22456440,ppy/osu,C#,43
+22456440,ppy/osu,C#,42
 26884725,OrchardCMS/OrchardCore,C#,24
 76425236,EduardoPires/EquinoxProject,C#,32
 125612271,Unity-Technologies/EntityComponentSystemSamples,C#,35
 27251463,QuantConnect/Lean,C#,25
-75505125,abpframework/abp,C#,48
+75505125,abpframework/abp,C#,47
 942613,elastic/elasticsearch-net,C#,9
 193681686,NetchX/Netch,C#,86
 23891194,Azure/azure-powershell,C#,13
