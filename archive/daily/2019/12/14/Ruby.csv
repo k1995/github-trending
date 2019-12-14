@@ -3,7 +3,7 @@ id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,9
 8681349,huginn/huginn,Ruby,1236
 2500088,gitlabhq/gitlabhq,Ruby,1
-52281283,tootsuite/mastodon,Ruby,9
+52281283,tootsuite/mastodon,Ruby,10
 481872,hashicorp/vagrant,Ruby,5
 2293158,rapid7/metasploit-framework,Ruby,9
 3623050,Homebrew/homebrew-cask,Ruby,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 7050,prawnpdf/prawn,Ruby,1
 30985840,solidusio/solidus,Ruby,3
 37724576,codeclimate/codeclimate,Ruby,1
-39706711,hartator/wayback-machine-downloader,Ruby,1
+39706711,hartator/wayback-machine-downloader,Ruby,2
 9500075,ytti/oxidized,Ruby,0
 2376,ActsAsParanoid/acts_as_paranoid,Ruby,1
