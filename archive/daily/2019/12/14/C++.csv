@@ -1,15 +1,15 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,37
-27729880,grpc/grpc,C++,18
-39840932,google/googletest,C++,7
-65214191,envoyproxy/envoy,C++,20
-1062572,catchorg/Catch2,C++,9
+9384267,electron/electron,C++,44
+27729880,grpc/grpc,C++,19
+39840932,google/googletest,C++,13
+65214191,envoyproxy/envoy,C++,21
+1062572,catchorg/Catch2,C++,10
 60246359,ClickHouse/ClickHouse,C++,9
 2649214,arangodb/arangodb,C++,6
 81227005,facebookresearch/faiss,C++,20
 99846383,horovod/horovod,C++,11
 2310495,ceph/ceph,C++,20
-38581626,pybind/pybind11,C++,10
+38581626,pybind/pybind11,C++,13
 15926180,draios/sysdig,C++,5
 28449431,scylladb/scylla,C++,6
 6667084,ponylang/ponyc,C++,5
@@ -18,9 +18,9 @@ id,name,lang,new stars
 37482419,mmp/pbrt-v3,C++,4
 10726510,boostorg/beast,C++,5
 184657328,NVIDIA/TensorRT,C++,5
-39283837,HowardHinnant/date,C++,3
+39283837,HowardHinnant/date,C++,5
 98471367,acidanthera/WhateverGreen,C++,7
 15667250,ceres-solver/ceres-solver,C++,3
-76990209,Aircoookie/WLED,C++,14
+76990209,Aircoookie/WLED,C++,16
 10599951,emilybache/GildedRose-Refactoring-Kata,C++,1
-222375856,Cocos-BCX/cocos-mainnet,C++,130
+222375856,Cocos-BCX/cocos-mainnet,C++,139
