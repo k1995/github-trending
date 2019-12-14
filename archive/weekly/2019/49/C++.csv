@@ -1,13 +1,13 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,211
-65600975,pytorch/pytorch,C++,256
+9384267,electron/electron,C++,213
+65600975,pytorch/pytorch,C++,261
 27729880,grpc/grpc,C++,107
 22067521,ocornut/imgui,C++,150
-24420506,v8/v8,C++,63
-39840932,google/googletest,C++,82
+24420506,v8/v8,C++,64
+39840932,google/googletest,C++,83
 60273704,mozilla/DeepSpeech,C++,292
-65214191,envoyproxy/envoy,C++,91
-80286288,arendst/Tasmota,C++,127
+65214191,envoyproxy/envoy,C++,92
+80286288,arendst/Tasmota,C++,128
 3351871,qbittorrent/qBittorrent,C++,98
 2310495,ceph/ceph,C++,84
 3925242,bkaradzic/bgfx,C++,49

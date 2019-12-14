@@ -1,16 +1,16 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,40
 29207621,caddyserver/caddy,Go,25
-17728164,hashicorp/terraform,Go,33
+17728164,hashicorp/terraform,Go,36
 133251103,wagoodman/dive,Go,63
 43723161,helm/helm,Go,26
 53632140,zyedidia/micro,Go,11
 18369373,spf13/viper,Go,8
 56342508,jaegertracing/jaeger,Go,20
 33258973,influxdata/telegraf,Go,43
-120227732,fyne-io/fyne,Go,38
+120227732,fyne-io/fyne,Go,39
 21405028,ardanlabs/gotraining,Go,88
-42194129,docker-slim/docker-slim,Go,506
+42194129,docker-slim/docker-slim,Go,519
 27576132,aws/aws-sdk-go,Go,4
 7039626,olivere/elastic,Go,7
 158645957,OpenDiablo2/OpenDiablo2,Go,21
@@ -22,5 +22,5 @@ id,name,lang,new stars
 74499101,roboll/helmfile,Go,19
 51193526,cosmos/cosmos-sdk,Go,3
 93446042,terraform-providers/terraform-provider-azurerm,Go,1
-193160679,kyleconroy/sqlc,Go,198
+193160679,kyleconroy/sqlc,Go,203
 163366084,arp242/uni,Go,219

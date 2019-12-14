@@ -1,6 +1,6 @@
 id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,58
-5101141,stedolan/jq,C,6
+5101141,stedolan/jq,C,7
 37912398,nginx/nginx,C,187
 23029617,h2o/h2o,C,31
 613829,openresty/lua-nginx-module,C,7
@@ -18,7 +18,7 @@ id,name,lang,new stars
 1253879,texane/stlink,C,2
 29933948,fluent/fluent-bit,C,3
 1117185,martinezjavier/ldd3,C,14
-222545982,jeremycw/httpserver.h,C,641
+222545982,jeremycw/httpserver.h,C,645
 198869255,google/AFL,C,6
 40173160,lfittl/pg_query_go,C,7
 220449772,open-sdr/openwifi,C,94
