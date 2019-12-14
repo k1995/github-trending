@@ -1,11 +1,11 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,335
-11180687,gohugoio/hugo,Go,229
+20580498,kubernetes/kubernetes,Go,337
+11180687,gohugoio/hugo,Go,231
 11225014,etcd-io/etcd,Go,146
-6838921,prometheus/prometheus,Go,147
-42408804,containous/traefik,Go,217
+6838921,prometheus/prometheus,Go,154
+42408804,containous/traefik,Go,218
 17728164,hashicorp/terraform,Go,162
-133251103,wagoodman/dive,Go,217
+133251103,wagoodman/dive,Go,218
 17803236,rclone/rclone,Go,679
 12574344,spf13/cobra,Go,126
 13628513,sirupsen/logrus,Go,88
@@ -15,7 +15,7 @@ id,name,lang,new stars
 7877397,jmoiron/sqlx,Go,54
 120227732,fyne-io/fyne,Go,180
 10270722,google/go-github,Go,33
-136815833,Dreamacro/clash,Go,148
+136815833,Dreamacro/clash,Go,149
 93444615,terraform-providers/terraform-provider-aws,Go,41
 120650407,operator-framework/operator-sdk,Go,45
 127519518,projectdiscovery/subfinder,Go,227
