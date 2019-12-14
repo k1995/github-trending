@@ -1,16 +1,16 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,15
-458058,symfony/symfony,PHP,4
-7548986,laravel/framework,PHP,16
+458058,symfony/symfony,PHP,10
+7548986,laravel/framework,PHP,11
 2854337,phalcon/cphalcon,PHP,8
 4916869,ramsey/uuid,PHP,10
 8678290,barryvdh/laravel-ide-helper,PHP,5
-137515,mockery/mockery,PHP,6
-2884111,magento/magento2,PHP,2
+137515,mockery/mockery,PHP,5
+2884111,magento/magento2,PHP,1
 61490598,PHPOffice/PhpSpreadsheet,PHP,8
-597887,doctrine/orm,PHP,10
-677464,doctrine/dbal,PHP,5
-17452080,lcobucci/jwt,PHP,9
+597887,doctrine/orm,PHP,9
+677464,doctrine/dbal,PHP,12
+17452080,lcobucci/jwt,PHP,8
 89130234,swoft-cloud/swoft,PHP,11
 677467,doctrine/common,PHP,8
 30171828,rappasoft/laravel-boilerplate,PHP,7
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1149618,sensiolabs/SensioFrameworkExtraBundle,PHP,7
 97311017,rectorphp/rector,PHP,9
 109984157,symfony/maker-bundle,PHP,4
-72453516,wp-graphql/wp-graphql,PHP,3
+72453516,wp-graphql/wp-graphql,PHP,2
 69691727,pmmp/PocketMine-MP,PHP,2
-222873550,bytefury/crater,PHP,214
+222873550,bytefury/crater,PHP,304
 26456385,thephpleague/flysystem-aws-s3-v3,PHP,4

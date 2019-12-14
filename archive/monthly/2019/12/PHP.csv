@@ -4,12 +4,12 @@ id,name,lang,new stars
 7548986,laravel/framework,PHP,304
 1420053,guzzle/guzzle,PHP,291
 1376664,Seldaek/monolog,PHP,292
-448045,sebastianbergmann/phpunit,PHP,259
-2253830,PHPMailer/PHPMailer,PHP,187
-60243197,nextcloud/server,PHP,252
+448045,sebastianbergmann/phpunit,PHP,260
+2253830,PHPMailer/PHPMailer,PHP,188
+60243197,nextcloud/server,PHP,251
 29843361,overtrue/wechat,PHP,87
 2884111,magento/magento2,PHP,130
-330275,twigphp/Twig,PHP,136
+330275,twigphp/Twig,PHP,134
 677464,doctrine/dbal,PHP,247
 2179920,woocommerce/woocommerce,PHP,81
 7122594,directus/directus,PHP,168
@@ -22,5 +22,5 @@ id,name,lang,new stars
 95011974,akaunting/akaunting,PHP,161
 97311017,rectorphp/rector,PHP,301
 69691727,pmmp/PocketMine-MP,PHP,48
-85382582,sprintcube/docker-compose-lamp,PHP,110
+85382582,sprintcube/docker-compose-lamp,PHP,112
 131995661,shopware/platform,PHP,48
