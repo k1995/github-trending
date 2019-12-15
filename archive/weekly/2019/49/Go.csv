@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,329
 11180687,gohugoio/hugo,Go,229
-11225014,etcd-io/etcd,Go,142
+11225014,etcd-io/etcd,Go,143
 6838921,prometheus/prometheus,Go,145
 42408804,containous/traefik,Go,218
 17728164,hashicorp/terraform,Go,158
@@ -18,7 +18,7 @@ id,name,lang,new stars
 136815833,Dreamacro/clash,Go,145
 93444615,terraform-providers/terraform-provider-aws,Go,37
 120650407,operator-framework/operator-sdk,Go,44
-127519518,projectdiscovery/subfinder,Go,201
+127519518,projectdiscovery/subfinder,Go,202
 7823926,prometheus/client_golang,Go,41
 74499101,roboll/helmfile,Go,81
 156681830,ffuf/ffuf,Go,190
