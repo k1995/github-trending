@@ -1,13 +1,12 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,339
-458058,symfony/symfony,PHP,327
+458058,symfony/symfony,PHP,328
 7548986,laravel/framework,PHP,308
 1420053,guzzle/guzzle,PHP,293
 1376664,Seldaek/monolog,PHP,293
 448045,sebastianbergmann/phpunit,PHP,263
-2253830,PHPMailer/PHPMailer,PHP,190
-60243197,nextcloud/server,PHP,252
-29843361,overtrue/wechat,PHP,87
+2253830,PHPMailer/PHPMailer,PHP,191
+29843361,overtrue/wechat,PHP,88
 2884111,magento/magento2,PHP,131
 330275,twigphp/Twig,PHP,136
 677464,doctrine/dbal,PHP,241
@@ -16,11 +15,12 @@ id,name,lang,new stars
 7577142,doctrine/annotations,PHP,172
 6763587,PrestaShop/PrestaShop,PHP,156
 2797951,doctrine/DoctrineBundle,PHP,143
-70288750,symfony/flex,PHP,116
 74386167,vimeo/psalm,PHP,99
 70239358,cytopia/devilbox,PHP,55
 95011974,akaunting/akaunting,PHP,164
-97311017,rectorphp/rector,PHP,302
+97311017,rectorphp/rector,PHP,303
+2641404,symfony/monolog-bundle,PHP,79
 69691727,pmmp/PocketMine-MP,PHP,48
 85382582,sprintcube/docker-compose-lamp,PHP,112
 131995661,shopware/platform,PHP,48
+116834317,cretueusebiu/laravel-nuxt,PHP,49
