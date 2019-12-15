@@ -1,8 +1,8 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,36
-27729880,grpc/grpc,C++,9
+9384267,electron/electron,C++,32
+27729880,grpc/grpc,C++,8
 39840932,google/googletest,C++,13
-65214191,envoyproxy/envoy,C++,10
+65214191,envoyproxy/envoy,C++,9
 1062572,catchorg/Catch2,C++,9
 60246359,ClickHouse/ClickHouse,C++,2
 2649214,arangodb/arangodb,C++,3
@@ -12,8 +12,8 @@ id,name,lang,new stars
 38581626,pybind/pybind11,C++,8
 15926180,draios/sysdig,C++,2
 28449431,scylladb/scylla,C++,8
-6667084,ponylang/ponyc,C++,9
-181436799,alibaba/MNN,C++,6
+6667084,ponylang/ponyc,C++,7
+181436799,alibaba/MNN,C++,5
 3386088,NixOS/nix,C++,4
 37482419,mmp/pbrt-v3,C++,5
 10726510,boostorg/beast,C++,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 39283837,HowardHinnant/date,C++,4
 98471367,acidanthera/WhateverGreen,C++,4
 15667250,ceres-solver/ceres-solver,C++,3
-76990209,Aircoookie/WLED,C++,22
+76990209,Aircoookie/WLED,C++,20
 10599951,emilybache/GildedRose-Refactoring-Kata,C++,0
-222375856,Cocos-BCX/cocos-mainnet,C++,110
+222375856,Cocos-BCX/cocos-mainnet,C++,103
