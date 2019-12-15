@@ -1,18 +1,18 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,339
 458058,symfony/symfony,PHP,327
-7548986,laravel/framework,PHP,307
+7548986,laravel/framework,PHP,308
 1420053,guzzle/guzzle,PHP,293
-1376664,Seldaek/monolog,PHP,294
-448045,sebastianbergmann/phpunit,PHP,262
+1376664,Seldaek/monolog,PHP,293
+448045,sebastianbergmann/phpunit,PHP,263
 2253830,PHPMailer/PHPMailer,PHP,190
 60243197,nextcloud/server,PHP,252
 29843361,overtrue/wechat,PHP,87
-2884111,magento/magento2,PHP,130
+2884111,magento/magento2,PHP,131
 330275,twigphp/Twig,PHP,136
 677464,doctrine/dbal,PHP,241
 2179920,woocommerce/woocommerce,PHP,76
-7122594,directus/directus,PHP,169
+7122594,directus/directus,PHP,170
 7577142,doctrine/annotations,PHP,172
 6763587,PrestaShop/PrestaShop,PHP,156
 2797951,doctrine/DoctrineBundle,PHP,143
