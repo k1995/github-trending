@@ -1,14 +1,14 @@
 id,name,lang,new stars
 17620347,aspnet/AspNetCore,C#,132
-38380854,0xd4d/dnSpy,C#,111
-1613345,StackExchange/Dapper,C#,43
+38380854,0xd4d/dnSpy,C#,108
+1613345,StackExchange/Dapper,C#,42
 54086969,thangchung/awesome-dotnet-core,C#,73
 28239455,aspnet/AspNetCore.Docs,C#,55
 46652227,IdentityServer/IdentityServer4,C#,50
-161012019,jellyfin/jellyfin,C#,218
-54213490,xamarin/Xamarin.Forms,C#,37
-22456440,ppy/osu,C#,44
-76425236,EduardoPires/EquinoxProject,C#,36
+161012019,jellyfin/jellyfin,C#,224
+54213490,xamarin/Xamarin.Forms,C#,36
+22456440,ppy/osu,C#,45
+76425236,EduardoPires/EquinoxProject,C#,35
 50605426,microsoft/MixedRealityToolkit-Unity,C#,20
 125612271,Unity-Technologies/EntityComponentSystemSamples,C#,34
 75505125,abpframework/abp,C#,50
@@ -21,6 +21,6 @@ id,name,lang,new stars
 72554578,confluentinc/confluent-kafka-dotnet,C#,11
 30932325,aspnet/Extensions,C#,34
 115516512,ivanpaulovich/clean-architecture-manga,C#,39
-139499767,lgsvl/simulator,C#,15
-213460285,JasonGT/CleanArchitecture,C#,140
+139499767,lgsvl/simulator,C#,16
+213460285,JasonGT/CleanArchitecture,C#,142
 223886747,davidfowl/FeatherHttp,C#,101

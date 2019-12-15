@@ -1,20 +1,20 @@
 id,name,lang,new stars
-36502,git/git,C,152
-111583593,Genymobile/scrcpy,C,378
+36502,git/git,C,153
+111583593,Genymobile/scrcpy,C,400
 3774328,wg/wrk,C,115
 18666758,pjreddie/darknet,C,112
-13233158,obsproject/obs-studio,C,109
-14812739,libuv/libuv,C,64
+13233158,obsproject/obs-studio,C,117
+14812739,libuv/libuv,C,65
 7634677,openssl/openssl,C,56
 20159867,nothings/stb,C,124
-37912398,nginx/nginx,C,426
-32969220,esp8266/Arduino,C,39
+37912398,nginx/nginx,C,434
+32969220,esp8266/Arduino,C,41
 5414488,cesanta/mongoose,C,21
 102578345,coolsnowwolf/lede,C,172
-45821540,openwrt/openwrt,C,57
+45821540,openwrt/openwrt,C,59
 70127218,espressif/arduino-esp32,C,41
 117948953,Atmosphere-NX/Atmosphere,C,115
-60667730,littlevgl/lvgl,C,53
+60667730,littlevgl/lvgl,C,55
 50824485,processhacker/processhacker,C,33
 15257213,ldcsaa/HP-Socket,C,35
 13836499,raysan5/raylib,C,37
@@ -22,5 +22,5 @@ id,name,lang,new stars
 29933948,fluent/fluent-bit,C,18
 45703884,olikraus/u8g2,C,18
 122325570,zlgopen/awtk,C,85
-179354282,acidanthera/OpenCorePkg,C,53
+179354282,acidanthera/OpenCorePkg,C,54
 117944122,LukeSmithxyz/st,C,12
