@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,240
-126577260,trekhleb/javascript-algorithms,JavaScript,479
-8681349,huginn/huginn,Ruby,1148
-91573538,testerSunshine/12306,Python,149
-31629751,cypress-io/cypress,JavaScript,59
-163387337,seata/seata,Java,39
-37912398,nginx/nginx,C,272
-123303402,python-poetry/poetry,Python,187
-164471183,pjialin/py12306,Python,50
-149026292,cube-js/cube.js,JavaScript,53
-185535659,zhaoolee/ChineseBQB,CSS,128
-136667574,flutter/samples,Dart,93
-30102273,MobSF/Mobile-Security-Framework-MobSF,Python,53
-222172014,slackhq/nebula,Go,309
+31792824,flutter/flutter,Dart,130
+126577260,trekhleb/javascript-algorithms,JavaScript,242
+8681349,huginn/huginn,Ruby,445
+91573538,testerSunshine/12306,Python,53
+31629751,cypress-io/cypress,JavaScript,62
+163387337,seata/seata,Java,36
+37912398,nginx/nginx,C,145
+123303402,python-poetry/poetry,Python,194
+164471183,pjialin/py12306,Python,24
+149026292,cube-js/cube.js,JavaScript,56
+185535659,zhaoolee/ChineseBQB,CSS,64
+136667574,flutter/samples,Dart,76
+30102273,MobSF/Mobile-Security-Framework-MobSF,Python,31
+222172014,slackhq/nebula,Go,264
 97716052,yonaskolb/XcodeGen,Swift,16
-171490796,lmoroney/dlaicourse,Jupyter Notebook,27
-222873550,bytefury/crater,PHP,255
-221554948,gskinnerTeam/flutter_vignettes,,210
-224284178,NVlabs/stylegan2,Python,245
-222545982,jeremycw/httpserver.h,C,690
-193160679,kyleconroy/sqlc,Go,260
-184695319,ericclemmons/codelift,TypeScript,178
-220449772,open-sdr/openwifi,C,108
-197515838,iambryanshen/kkndme_tianya,,89
-227576632,vim/killersheep,Vim script,43
+171490796,lmoroney/dlaicourse,Jupyter Notebook,39
+222873550,bytefury/crater,PHP,106
+221554948,gskinnerTeam/flutter_vignettes,,220
+224284178,NVlabs/stylegan2,Python,270
+222545982,jeremycw/httpserver.h,C,196
+193160679,kyleconroy/sqlc,Go,164
+184695319,ericclemmons/codelift,TypeScript,76
+220449772,open-sdr/openwifi,C,71
+197515838,iambryanshen/kkndme_tianya,,48
+227576632,vim/killersheep,Vim script,20
