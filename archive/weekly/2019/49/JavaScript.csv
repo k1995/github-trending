@@ -2,9 +2,9 @@ id,name,lang,new stars
 11730342,vuejs/vue,JavaScript,591
 29028775,facebook/react-native,JavaScript,227
 63537249,facebook/create-react-app,JavaScript,310
-126577260,trekhleb/javascript-algorithms,JavaScript,1485
+126577260,trekhleb/javascript-algorithms,JavaScript,1503
 576201,mrdoob/three.js,JavaScript,262
-237159,expressjs/express,JavaScript,137
+237159,expressjs/express,JavaScript,139
 103633984,goldbergyoni/nodebestpractices,JavaScript,605
 34302698,serverless/serverless,JavaScript,340
 39464018,apache/incubator-superset,JavaScript,112
@@ -22,5 +22,5 @@ id,name,lang,new stars
 167368839,jaredpalmer/tsdx,JavaScript,79
 199863498,gxtrobot/bustag,JavaScript,179
 32238354,benmosher/eslint-plugin-import,JavaScript,23
-226046528,trekhleb/nano-neuron,JavaScript,565
+226046528,trekhleb/nano-neuron,JavaScript,569
 203607977,rollup/plugins,JavaScript,40
