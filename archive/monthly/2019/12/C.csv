@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1505
+2325298,torvalds/linux,C,1507
 10744183,netdata/netdata,C,1069
 156018,antirez/redis,C,608
 1903522,php/php-src,C,473
 111583593,Genymobile/scrcpy,C,1594
 1614410,FFmpeg/FFmpeg,C,413
 36836475,tmux/tmux,C,371
-18666758,pjreddie/darknet,C,429
+18666758,pjreddie/darknet,C,430
 11715753,robertdavidgraham/masscan,C,382
-37912398,nginx/nginx,C,556
+37912398,nginx/nginx,C,562
 1482997,phpredis/phpredis,C,119
 66150122,jarun/nnn,C,359
 3199002,raspberrypi/linux,C,180
@@ -21,6 +21,6 @@ id,name,lang,new stars
 27359183,guanzhi/GmSSL,C,78
 122325570,zlgopen/awtk,C,272
 11233590,coreutils/coreutils,C,57
-98651166,ShadowsocksR-Live/shadowsocksr-native,C,267
+98651166,ShadowsocksR-Live/shadowsocksr-native,C,269
 123135691,tanersener/mobile-ffmpeg,C,105
-179354282,acidanthera/OpenCorePkg,C,216
+179354282,acidanthera/OpenCorePkg,C,217
