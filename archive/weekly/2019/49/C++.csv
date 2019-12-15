@@ -1,15 +1,15 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,404
+45717250,tensorflow/tensorflow,C++,409
 9384267,electron/electron,C++,233
-65600975,pytorch/pytorch,C++,270
-27729880,grpc/grpc,C++,111
+65600975,pytorch/pytorch,C++,271
+27729880,grpc/grpc,C++,113
 22067521,ocornut/imgui,C++,164
 24420506,v8/v8,C++,73
 4524181,facebook/folly,C++,43
 39840932,google/googletest,C++,84
-60273704,mozilla/DeepSpeech,C++,280
+60273704,mozilla/DeepSpeech,C++,281
 65214191,envoyproxy/envoy,C++,88
-80286288,arendst/Tasmota,C++,153
+80286288,arendst/Tasmota,C++,156
 3351871,qbittorrent/qBittorrent,C++,108
 2310495,ceph/ceph,C++,82
 9090933,capnproto/capnproto,C++,51

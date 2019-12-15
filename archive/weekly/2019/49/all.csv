@@ -12,8 +12,8 @@ id,name,lang,new stars
 123303402,python-poetry/poetry,Python,667
 102904613,Unity-Technologies/ml-agents,Python,70
 120227732,fyne-io/fyne,Go,195
-102578345,coolsnowwolf/lede,C,172
-136667574,flutter/samples,Dart,223
+102578345,coolsnowwolf/lede,C,182
+136667574,flutter/samples,Dart,245
 30102273,MobSF/Mobile-Security-Framework-MobSF,Python,120
 209120637,Netflix/metaflow,Python,629
 179196443,AIDungeon/AIDungeon,Python,1394
@@ -22,5 +22,5 @@ id,name,lang,new stars
 196078788,luka1199/geo-heatmap,Python,431
 223881576,macrozheng/mall-swarm,Java,466
 156681830,ffuf/ffuf,Go,190
-217436984,facebookresearch/demucs,Python,347
+217436984,facebookresearch/demucs,Python,349
 193681111,filecoin-project/lotus,Go,36
