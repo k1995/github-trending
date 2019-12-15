@@ -1,16 +1,16 @@
 id,name,lang,new stars
 15634981,godotengine/godot,C++,20
-4524181,facebook/folly,C++,6
-39840932,google/googletest,C++,13
+4524181,facebook/folly,C++,8
+39840932,google/googletest,C++,17
 74627617,commaai/openpilot,C++,11
-33014811,notepad-plus-plus/notepad-plus-plus,C++,12
+33014811,notepad-plus-plus/notepad-plus-plus,C++,14
 59480719,CRYTEK/CRYENGINE,C++,2
 80286288,arendst/Tasmota,C++,23
 23129458,aseprite/aseprite,C++,13
 40892817,ethereum/solidity,C++,3
 104732438,radareorg/cutter,C++,8
 7512484,ArduPilot/ardupilot,C++,5
-9647856,zerotier/ZeroTierOne,C++,7
+9647856,zerotier/ZeroTierOne,C++,15
 6667084,ponylang/ponyc,C++,7
 5973855,CleverRaven/Cataclysm-DDA,C++,2
 32736639,JoeyDeVries/LearnOpenGL,C++,7
@@ -21,6 +21,6 @@ id,name,lang,new stars
 76990209,Aircoookie/WLED,C++,20
 150774287,danielkrupinski/Osiris,C++,4
 151263655,tenable/routeros,C++,4
-222375856,Cocos-BCX/cocos-mainnet,C++,103
-219796516,prabhuomkar/pytorch-cpp,C++,20
+222375856,Cocos-BCX/cocos-mainnet,C++,98
+219796516,prabhuomkar/pytorch-cpp,C++,21
 192711060,bigtreetech/BIGTREETECH-SKR-PRO-V1.1,C++,3

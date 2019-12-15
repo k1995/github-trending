@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,64
-8681349,huginn/huginn,Ruby,3175
-21600440,bayandin/awesome-awesomeness,Ruby,55
-308770,plataformatec/devise,Ruby,21
-53238813,Homebrew/brew,Ruby,154
-481872,hashicorp/vagrant,Ruby,33
+8514,rails/rails,Ruby,63
+8681349,huginn/huginn,Ruby,3169
+21600440,bayandin/awesome-awesomeness,Ruby,47
+308770,plataformatec/devise,Ruby,20
+53238813,Homebrew/brew,Ruby,145
+481872,hashicorp/vagrant,Ruby,30
 538746,ruby/ruby,Ruby,21
 3623050,Homebrew/homebrew-cask,Ruby,37
 2203645,CocoaPods/CocoaPods,Ruby,11
-73648678,thepracticaldev/dev.to,Ruby,100
+73648678,thepracticaldev/dev.to,Ruby,97
 4095287,rubocop-hq/rubocop,Ruby,18
 3314,spree/spree,Ruby,18
 3195124,mperham/sidekiq,Ruby,10
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1548802,activerecord-hackery/ransack,Ruby,8
 96071,rack/rack,Ruby,6
 558790,zdennis/activerecord-import,Ruby,16
-1314319,instructure/canvas-lms,Ruby,12
-63882194,projectcalico/calico,Ruby,19
+1314319,instructure/canvas-lms,Ruby,11
+63882194,projectcalico/calico,Ruby,18
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,5
