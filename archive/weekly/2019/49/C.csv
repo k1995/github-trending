@@ -1,17 +1,17 @@
 id,name,lang,new stars
-36502,git/git,C,150
-111583593,Genymobile/scrcpy,C,378
+36502,git/git,C,151
+111583593,Genymobile/scrcpy,C,390
 3774328,wg/wrk,C,115
-569041,curl/curl,C,97
+569041,curl/curl,C,92
 18666758,pjreddie/darknet,C,112
 13233158,obsproject/obs-studio,C,109
 14812739,libuv/libuv,C,64
 7634677,openssl/openssl,C,56
-20159867,nothings/stb,C,123
-37912398,nginx/nginx,C,407
-32969220,esp8266/Arduino,C,39
+20159867,nothings/stb,C,124
+37912398,nginx/nginx,C,392
+32969220,esp8266/Arduino,C,41
 5414488,cesanta/mongoose,C,21
-102578345,coolsnowwolf/lede,C,167
+102578345,coolsnowwolf/lede,C,168
 45821540,openwrt/openwrt,C,57
 70127218,espressif/arduino-esp32,C,41
 117948953,Atmosphere-NX/Atmosphere,C,114
@@ -19,7 +19,7 @@ id,name,lang,new stars
 50824485,processhacker/processhacker,C,33
 15257213,ldcsaa/HP-Socket,C,35
 13836499,raysan5/raylib,C,36
-40306512,LuaJIT/LuaJIT,C,12
+40306512,LuaJIT/LuaJIT,C,11
 83160811,ARMmbed/littlefs,C,20
 45703884,olikraus/u8g2,C,18
 122325570,zlgopen/awtk,C,85

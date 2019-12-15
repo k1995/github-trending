@@ -1,18 +1,18 @@
 id,name,lang,new stars
-7600409,shadowsocks/shadowsocks-windows,C#,33
-11620669,CodeHubApp/CodeHub,C#,10
-17620347,aspnet/AspNetCore,C#,23
+7600409,shadowsocks/shadowsocks-windows,C#,28
+11620669,CodeHubApp/CodeHub,C#,6
+17620347,aspnet/AspNetCore,C#,19
 1613345,StackExchange/Dapper,C#,5
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,4
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,3
 7560589,JeffreySu/WeiXinMPSDK,C#,6
-17369361,jbogard/MediatR,C#,10
-54213490,xamarin/Xamarin.Forms,C#,5
-22456440,ppy/osu,C#,8
+17369361,jbogard/MediatR,C#,7
+54213490,xamarin/Xamarin.Forms,C#,4
+22456440,ppy/osu,C#,6
 50605426,microsoft/MixedRealityToolkit-Unity,C#,5
-14999623,jstedfast/MailKit,C#,5
+14999623,jstedfast/MailKit,C#,4
 32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,5
 25810742,Dotnet-Boxed/Templates,C#,5
-132453438,unoplatform/uno,C#,13
+132453438,unoplatform/uno,C#,10
 23891194,Azure/azure-powershell,C#,2
 105429586,GavinYellow/SharpSCADA,C#,3
 72554578,confluentinc/confluent-kafka-dotnet,C#,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 32881114,prometheus-net/prometheus-net,C#,2
 63984307,dotnet/sdk,C#,2
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,1
-222857961,migomiddle/xms,C#,53
+222857961,migomiddle/xms,C#,48
 220636493,pandolia/easy-service,C#,16
 224060452,Unity-Technologies/ProjectTinySamples,C#,5

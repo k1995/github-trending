@@ -1,19 +1,19 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,7
-8681349,huginn/huginn,Ruby,445
-538746,ruby/ruby,Ruby,2
-1090311,elastic/logstash,Ruby,6
+27442967,fastlane/fastlane,Ruby,5
+8681349,huginn/huginn,Ruby,1148
+538746,ruby/ruby,Ruby,1
+1090311,elastic/logstash,Ruby,2
 106995,sinatra/sinatra,Ruby,2
 3195124,mperham/sidekiq,Ruby,1
 587311,omniauth/omniauth,Ruby,1
 6529205,varvet/pundit,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,1
-108278,chef/chef,Ruby,4
+108278,chef/chef,Ruby,1
 26018608,github-changelog-generator/github-changelog-generator,Ruby,2
 9906653,ankane/chartkick,Ruby,0
 10865,norman/friendly_id,Ruby,0
 1548802,activerecord-hackery/ransack,Ruby,2
-96071,rack/rack,Ruby,1
+96071,rack/rack,Ruby,0
 30985840,solidusio/solidus,Ruby,2
 363,collectiveidea/audited,Ruby,0
 44935124,shrinerb/shrine,Ruby,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,1
 32104924,rails/sprockets,Ruby,0
 29151578,rswag/rswag,Ruby,0
-185592724,automaticmode/active_workflow,Ruby,6
+185592724,automaticmode/active_workflow,Ruby,5
