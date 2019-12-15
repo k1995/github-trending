@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-65252,jekyll/jekyll,Ruby,21
+8514,rails/rails,Ruby,13
+65252,jekyll/jekyll,Ruby,24
 27442967,fastlane/fastlane,Ruby,5
-8681349,huginn/huginn,Ruby,1148
-13840241,freeCodeCamp/devdocs,Ruby,10
+8681349,huginn/huginn,Ruby,1158
+13840241,freeCodeCamp/devdocs,Ruby,11
 53238813,Homebrew/brew,Ruby,18
-2293158,rapid7/metasploit-framework,Ruby,11
-1090311,elastic/logstash,Ruby,2
+2293158,rapid7/metasploit-framework,Ruby,15
+1090311,elastic/logstash,Ruby,8
 106995,sinatra/sinatra,Ruby,2
-275604,resque/resque,Ruby,3
+275604,resque/resque,Ruby,4
 96395,faker-ruby/faker,Ruby,6
 15435,Shopify/liquid,Ruby,1
 52855516,Homebrew/homebrew-core,Ruby,7
@@ -17,7 +17,7 @@ id,name,lang,new stars
 417389,lostisland/faraday,Ruby,3
 4994614,wpscanteam/wpscan,Ruby,3
 16774748,peatio/peatio,Ruby,3
-202291859,chatwoot/chatwoot,Ruby,13
+202291859,chatwoot/chatwoot,Ruby,20
 39706711,hartator/wayback-machine-downloader,Ruby,3
 103766152,github/explore,Ruby,2
 8154497,rubysec/ruby-advisory-db,Ruby,0
