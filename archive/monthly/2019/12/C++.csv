@@ -1,12 +1,12 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1938
-100060912,microsoft/terminal,C++,1440
-5108051,opencv/opencv,C++,926
+45717250,tensorflow/tensorflow,C++,1939
+100060912,microsoft/terminal,C++,1441
+5108051,opencv/opencv,C++,927
 12791642,BVLC/caffe,C++,257
 6934395,facebook/rocksdb,C++,263
 25449064,haoel/leetcode,C++,452
 60273704,mozilla/DeepSpeech,C++,777
-80286288,arendst/Tasmota,C++,442
+80286288,arendst/Tasmota,C++,445
 3351871,qbittorrent/qBittorrent,C++,312
 95879426,Tencent/ncnn,C++,235
 7056202,fmtlib/fmt,C++,281
@@ -16,11 +16,11 @@ id,name,lang,new stars
 108102826,carla-simulator/carla,C++,231
 107794782,trojan-gfw/trojan,C++,920
 105697152,fireice-uk/xmr-stak,C++,49
-5298790,PX4/Firmware,C++,109
+5298790,PX4/Firmware,C++,111
 88327406,xmrig/xmrig,C++,125
 56894212,jvm-profiling-tools/async-profiler,C++,143
 156939672,microsoft/onnxruntime,C++,148
 156787357,microsoft/SEAL,C++,69
-76990209,Aircoookie/WLED,C++,280
+76990209,Aircoookie/WLED,C++,281
 220415098,Tencent/plato,C++,795
 152616802,rapidsai/cuml,C++,206
