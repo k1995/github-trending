@@ -1,14 +1,14 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,1312
 7691631,moby/moby,Go,420
-20904437,gin-gonic/gin,Go,1109
-48378947,fatedier/frp,Go,1330
-14712850,syncthing/syncthing,Go,569
+20904437,gin-gonic/gin,Go,1112
+48378947,fatedier/frp,Go,1331
+14712850,syncthing/syncthing,Go,570
 15452919,ethereum/go-ethereum,Go,358
 41986369,pingcap/tidb,Go,524
 13855476,jinzhu/gorm,Go,641
-11393110,urfave/cli,Go,377
-115857954,chai2010/advanced-go-programming-book,Go,1418
+11393110,urfave/cli,Go,378
+115857954,chai2010/advanced-go-programming-book,Go,1423
 66573241,hyperledger/fabric,Go,295
 72891330,kubernetes/ingress-nginx,Go,293
 29099181,keybase/client,Go,163
@@ -16,7 +16,7 @@ id,name,lang,new stars
 48109239,cilium/cilium,Go,169
 30711774,go-playground/validator,Go,455
 158645957,OpenDiablo2/OpenDiablo2,Go,2858
-100982449,argoproj/argo,Go,242
+100982449,argoproj/argo,Go,243
 914796,lxn/walk,Go,153
 55637575,lucas-clemente/quic-go,Go,225
 199763479,baidu/bfe,Go,2517

@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1534
+2325298,torvalds/linux,C,1536
 10744183,netdata/netdata,C,1081
 156018,antirez/redis,C,618
 1903522,php/php-src,C,481
@@ -9,13 +9,13 @@ id,name,lang,new stars
 18666758,pjreddie/darknet,C,437
 11715753,robertdavidgraham/masscan,C,387
 20159867,nothings/stb,C,337
-37912398,nginx/nginx,C,638
+37912398,nginx/nginx,C,646
 1482997,phpredis/phpredis,C,120
 66150122,jarun/nnn,C,364
 3199002,raspberrypi/linux,C,181
 102578345,coolsnowwolf/lede,C,717
 11178512,happyfish100/fastdfs,C,247
-45821540,openwrt/openwrt,C,198
+45821540,openwrt/openwrt,C,199
 117948953,Atmosphere-NX/Atmosphere,C,182
 59771425,zephyrproject-rtos/zephyr,C,147
 27359183,guanzhi/GmSSL,C,78
