@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,64
-8681349,huginn/huginn,Ruby,3168
+8681349,huginn/huginn,Ruby,3175
 21600440,bayandin/awesome-awesomeness,Ruby,55
 308770,plataformatec/devise,Ruby,21
 53238813,Homebrew/brew,Ruby,154
-481872,hashicorp/vagrant,Ruby,32
+481872,hashicorp/vagrant,Ruby,33
 538746,ruby/ruby,Ruby,21
 3623050,Homebrew/homebrew-cask,Ruby,37
 2203645,CocoaPods/CocoaPods,Ruby,11
-73648678,thepracticaldev/dev.to,Ruby,98
+73648678,thepracticaldev/dev.to,Ruby,100
 4095287,rubocop-hq/rubocop,Ruby,18
 3314,spree/spree,Ruby,18
 3195124,mperham/sidekiq,Ruby,10
@@ -17,7 +17,7 @@ id,name,lang,new stars
 15435,Shopify/liquid,Ruby,21
 2441517,puma/puma,Ruby,10
 4994614,wpscanteam/wpscan,Ruby,17
-75785147,rails/webpacker,Ruby,11
+75785147,rails/webpacker,Ruby,12
 1548802,activerecord-hackery/ransack,Ruby,8
 96071,rack/rack,Ruby,6
 558790,zdennis/activerecord-import,Ruby,16

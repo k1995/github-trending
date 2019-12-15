@@ -1,8 +1,8 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,82
-1420053,guzzle/guzzle,PHP,80
+1420053,guzzle/guzzle,PHP,81
 2246815,domnikl/DesignPatternsPHP,PHP,48
-2234102,bcit-ci/CodeIgniter,PHP,26
+2234102,bcit-ci/CodeIgniter,PHP,28
 2889328,WordPress/WordPress,PHP,45
 7769432,vlucas/phpdotenv,PHP,38
 8678290,barryvdh/laravel-ide-helper,PHP,48
@@ -15,11 +15,11 @@ id,name,lang,new stars
 85067860,easy-swoole/easyswoole,PHP,58
 117649937,hhxsv5/laravel-s,PHP,21
 97311017,rectorphp/rector,PHP,58
-159606650,hyperf/hyperf,PHP,72
+159606650,hyperf/hyperf,PHP,74
 69691727,pmmp/PocketMine-MP,PHP,10
 222873550,bytefury/crater,PHP,985
 159448313,gongfuxiang/shopxo,PHP,37
 131995661,shopware/platform,PHP,23
-174021137,inertiajs/pingcrm,PHP,52
+174021137,inertiajs/pingcrm,PHP,53
 215064619,laravel-shift/blueprint,PHP,52
 195836215,magicblack/maccms10,PHP,22
