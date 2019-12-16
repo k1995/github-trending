@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7600409,shadowsocks/shadowsocks-windows,C#,51
+7600409,shadowsocks/shadowsocks-windows,C#,66
 38380854,0xd4d/dnSpy,C#,24
 132021166,dotnet/machinelearning,C#,5
 88064357,QL-Win/QuickLook,C#,11
@@ -7,9 +7,9 @@ id,name,lang,new stars
 199570071,2dust/v2rayN,C#,40
 22456440,ppy/osu,C#,9
 17748183,StackExchange/StackExchange.Redis,C#,8
-45195614,Jackett/Jackett,C#,11
+45195614,Jackett/Jackett,C#,16
 77323220,Radarr/Radarr,C#,6
-153427475,Unity-Technologies/FPSSample,C#,2
+153427475,Unity-Technologies/FPSSample,C#,3
 64290739,dodyg/practical-aspnetcore,C#,13
 19216825,xamarin/xamarin-forms-samples,C#,1
 42552143,dotnet/corert,C#,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 118641651,brminnick/AsyncAwaitBestPractices,C#,18
 166504281,NYAN-x-CAT/AsyncRAT-C-Sharp,C#,3
 182637681,Assistant/ModAssistant,C#,8
-222857961,migomiddle/xms,C#,56
+222857961,migomiddle/xms,C#,71
 158087990,planetarium/libplanet,C#,2
