@@ -1,6 +1,6 @@
 id,name,lang,new stars
-23096959,golang/go,Go,290
-20580498,kubernetes/kubernetes,Go,321
+23096959,golang/go,Go,291
+20580498,kubernetes/kubernetes,Go,322
 11180687,gohugoio/hugo,Go,230
 11225014,etcd-io/etcd,Go,127
 6838921,prometheus/prometheus,Go,145
@@ -12,15 +12,15 @@ id,name,lang,new stars
 33258973,influxdata/telegraf,Go,76
 7877397,jmoiron/sqlx,Go,53
 120227732,fyne-io/fyne,Go,219
-136815833,Dreamacro/clash,Go,125
+136815833,Dreamacro/clash,Go,126
 133067498,kubernetes-sigs/kustomize,Go,63
 93444615,terraform-providers/terraform-provider-aws,Go,35
-222172014,slackhq/nebula,Go,763
-120650407,operator-framework/operator-sdk,Go,44
+222172014,slackhq/nebula,Go,768
+120650407,operator-framework/operator-sdk,Go,46
 62712899,AdguardTeam/AdGuardHome,Go,77
 7823926,prometheus/client_golang,Go,42
 93446042,terraform-providers/terraform-provider-azurerm,Go,27
-156681830,ffuf/ffuf,Go,184
+156681830,ffuf/ffuf,Go,185
 124260244,banzaicloud/bank-vaults,Go,78
 1380117,getlantern/lantern,Go,95
 193681111,filecoin-project/lotus,Go,39
