@@ -1,9 +1,9 @@
 id,name,lang,new stars
-17620347,aspnet/AspNetCore,C#,141
+17620347,aspnet/AspNetCore,C#,144
 38380854,0xd4d/dnSpy,C#,116
 1613345,StackExchange/Dapper,C#,44
 54086969,thangchung/awesome-dotnet-core,C#,74
-28239455,aspnet/AspNetCore.Docs,C#,58
+28239455,aspnet/AspNetCore.Docs,C#,59
 46652227,IdentityServer/IdentityServer4,C#,51
 161012019,jellyfin/jellyfin,C#,228
 54213490,xamarin/Xamarin.Forms,C#,38
@@ -15,12 +15,12 @@ id,name,lang,new stars
 942613,elastic/elasticsearch-net,C#,10
 62172778,Unity-Technologies/ScriptableRenderPipeline,C#,17
 23891194,Azure/azure-powershell,C#,12
-203892454,kgrzybek/modular-monolith-with-ddd,C#,56
+203892454,kgrzybek/modular-monolith-with-ddd,C#,57
 2928944,Azure/azure-sdk-for-net,C#,14
-105429586,GavinYellow/SharpSCADA,C#,17
-72554578,confluentinc/confluent-kafka-dotnet,C#,13
-30932325,aspnet/Extensions,C#,35
+105429586,GavinYellow/SharpSCADA,C#,18
+30932325,aspnet/Extensions,C#,37
+72554578,confluentinc/confluent-kafka-dotnet,C#,12
 115516512,ivanpaulovich/clean-architecture-manga,C#,43
 139499767,lgsvl/simulator,C#,17
 213460285,JasonGT/CleanArchitecture,C#,148
-223886747,davidfowl/FeatherHttp,C#,104
+223886747,davidfowl/FeatherHttp,C#,105
