@@ -1,12 +1,12 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,43
+3482588,danielmiessler/SecLists,PHP,44
 47495360,phanan/koel,PHP,10
-4549925,bobthecow/psysh,PHP,10
+4549925,bobthecow/psysh,PHP,11
 51325497,php-ai/php-ml,PHP,11
-677464,doctrine/dbal,PHP,8
+677464,doctrine/dbal,PHP,9
 32015820,webmozart/assert,PHP,7
 46277353,mgp25/Instagram-API,PHP,5
-30915528,spatie/laravel-backup,PHP,4
+30915528,spatie/laravel-backup,PHP,5
 12204147,mautic/mautic,PHP,5
 10883164,barryvdh/laravel-dompdf,PHP,6
 117649937,hhxsv5/laravel-s,PHP,8
@@ -17,10 +17,10 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,4
 222873550,bytefury/crater,PHP,219
 111680504,composer/xdebug-handler,PHP,4
-44745081,symfony/polyfill-php56,PHP,3
+44745081,symfony/polyfill-php56,PHP,4
 2515323,liip/LiipImagineBundle,PHP,4
 44745139,symfony/polyfill-util,PHP,3
 57961433,openmediavault/openmediavault,PHP,8
-15231212,Automattic/jetpack,PHP,29
+15231212,Automattic/jetpack,PHP,22
 60457385,Vtrois/Kratos,PHP,9
-215064619,laravel-shift/blueprint,PHP,44
+215064619,laravel-shift/blueprint,PHP,47
