@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,334
+2579314,fzaninotto/Faker,PHP,335
 458058,symfony/symfony,PHP,323
-7548986,laravel/framework,PHP,307
-1420053,guzzle/guzzle,PHP,291
+7548986,laravel/framework,PHP,309
+1420053,guzzle/guzzle,PHP,292
 1376664,Seldaek/monolog,PHP,289
 448045,sebastianbergmann/phpunit,PHP,260
 29843361,overtrue/wechat,PHP,87
@@ -10,12 +10,12 @@ id,name,lang,new stars
 330275,twigphp/Twig,PHP,132
 677464,doctrine/dbal,PHP,232
 2179920,woocommerce/woocommerce,PHP,75
-7122594,directus/directus,PHP,163
+7122594,directus/directus,PHP,162
 7577142,doctrine/annotations,PHP,170
 6269013,aws/aws-sdk-php,PHP,87
 6763587,PrestaShop/PrestaShop,PHP,155
 2797951,doctrine/DoctrineBundle,PHP,137
-74386167,vimeo/psalm,PHP,97
+74386167,vimeo/psalm,PHP,98
 70239358,cytopia/devilbox,PHP,56
 95011974,akaunting/akaunting,PHP,165
 97311017,rectorphp/rector,PHP,305
