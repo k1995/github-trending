@@ -1,5 +1,5 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,359
+45717250,tensorflow/tensorflow,C++,355
 9384267,electron/electron,C++,213
 27729880,grpc/grpc,C++,100
 22067521,ocornut/imgui,C++,125
@@ -7,16 +7,16 @@ id,name,lang,new stars
 4524181,facebook/folly,C++,46
 39840932,google/googletest,C++,72
 74627617,commaai/openpilot,C++,79
-60273704,mozilla/DeepSpeech,C++,183
+60273704,mozilla/DeepSpeech,C++,180
 65214191,envoyproxy/envoy,C++,77
 80286288,arendst/Tasmota,C++,131
 2310495,ceph/ceph,C++,77
 2200856,MarlinFirmware/Marlin,C++,46
 11577304,dolphin-emu/dolphin,C++,30
 154201259,facebook/hermes,C++,36
-204593825,microsoft/STL,C++,75
+204593825,microsoft/STL,C++,74
 37821236,SaschaWillems/Vulkan,C++,30
-191820100,google/mediapipe,C++,112
+191820100,google/mediapipe,C++,111
 46374199,IntelRealSense/librealsense,C++,22
 153866232,TheCherno/Hazel,C++,44
 53357782,acidanthera/AppleALC,C++,25

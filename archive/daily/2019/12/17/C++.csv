@@ -1,6 +1,6 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,46
-44838949,apple/swift,C++,21
+44838949,apple/swift,C++,20
 1181927,bitcoin/bitcoin,C++,10
 15634981,godotengine/godot,C++,27
 22067521,ocornut/imgui,C++,18
@@ -9,7 +9,7 @@ id,name,lang,new stars
 74627617,commaai/openpilot,C++,18
 33014811,notepad-plus-plus/notepad-plus-plus,C++,29
 80286288,arendst/Tasmota,C++,27
-104732438,radareorg/cutter,C++,33
+104732438,radareorg/cutter,C++,31
 5736080,FreeCAD/FreeCAD,C++,6
 7512484,ArduPilot/ardupilot,C++,3
 9647856,zerotier/ZeroTierOne,C++,10
@@ -23,4 +23,4 @@ id,name,lang,new stars
 169567114,Joshua-Ashton/d9vk,C++,3
 34058391,luc-github/ESP3D,C++,2
 150774287,danielkrupinski/Osiris,C++,5
-226715516,ggerganov/imtui,C++,106
+226715516,ggerganov/imtui,C++,121

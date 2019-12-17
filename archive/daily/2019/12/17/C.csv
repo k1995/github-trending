@@ -6,9 +6,9 @@ id,name,lang,new stars
 37912398,nginx/nginx,C,133
 3714900,arut/nginx-rtmp-module,C,4
 47409672,hashcat/hashcat,C,1
-102578345,coolsnowwolf/lede,C,50
+102578345,coolsnowwolf/lede,C,43
 78281075,spacehuhn/esp8266_deauther,C,6
-27737393,qmk/qmk_firmware,C,16
+27737393,qmk/qmk_firmware,C,14
 65899476,espressif/esp-idf,C,6
 3791835,darktable-org/darktable,C,8
 37060852,betaflight/betaflight,C,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 130578889,pymumu/smartdns,C,90
 108568638,hanwckf/rt-n56u,C,6
 117944122,LukeSmithxyz/st,C,2
-220449772,open-sdr/openwifi,C,92
+220449772,open-sdr/openwifi,C,96
