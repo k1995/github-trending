@@ -5,7 +5,7 @@ id,name,lang,new stars
 20904437,gin-gonic/gin,Go,1118
 48378947,fatedier/frp,Go,1325
 14712850,syncthing/syncthing,Go,561
-15452919,ethereum/go-ethereum,Go,342
+15452919,ethereum/go-ethereum,Go,345
 41986369,pingcap/tidb,Go,520
 17803236,rclone/rclone,Go,1045
 13855476,jinzhu/gorm,Go,632
@@ -21,6 +21,6 @@ id,name,lang,new stars
 914796,lxn/walk,Go,146
 55637575,lucas-clemente/quic-go,Go,225
 199763479,baidu/bfe,Go,2158
-170411418,kedacore/keda,Go,189
+170411418,kedacore/keda,Go,188
 156681830,ffuf/ffuf,Go,413
 154894457,open-policy-agent/gatekeeper,Go,73
