@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,628
+1863329,laravel/laravel,PHP,629
 2579314,fzaninotto/Faker,PHP,341
 458058,symfony/symfony,PHP,321
-7548986,laravel/framework,PHP,321
+7548986,laravel/framework,PHP,320
 1420053,guzzle/guzzle,PHP,303
 1376664,Seldaek/monolog,PHP,295
 448045,sebastianbergmann/phpunit,PHP,267
@@ -14,12 +14,12 @@ id,name,lang,new stars
 7122594,directus/directus,PHP,170
 7577142,doctrine/annotations,PHP,174
 3217621,phpmyadmin/phpmyadmin,PHP,84
-6763587,PrestaShop/PrestaShop,PHP,161
+6763587,PrestaShop/PrestaShop,PHP,162
 2797951,doctrine/DoctrineBundle,PHP,139
 70288750,symfony/flex,PHP,119
-74386167,vimeo/psalm,PHP,98
+74386167,vimeo/psalm,PHP,99
 70239358,cytopia/devilbox,PHP,58
-95011974,akaunting/akaunting,PHP,167
+95011974,akaunting/akaunting,PHP,166
 97311017,rectorphp/rector,PHP,314
 2641404,symfony/monolog-bundle,PHP,81
 85382582,sprintcube/docker-compose-lamp,PHP,114

@@ -12,7 +12,7 @@ id,name,lang,new stars
 75505125,abpframework/abp,C#,46
 942613,elastic/elasticsearch-net,C#,8
 23891194,Azure/azure-powershell,C#,14
-203892454,kgrzybek/modular-monolith-with-ddd,C#,44
+203892454,kgrzybek/modular-monolith-with-ddd,C#,43
 2928944,Azure/azure-sdk-for-net,C#,9
 105429586,GavinYellow/SharpSCADA,C#,20
 72554578,confluentinc/confluent-kafka-dotnet,C#,11
@@ -22,5 +22,5 @@ id,name,lang,new stars
 28804670,OData/WebApi,C#,1
 203479493,kwwwvagaa/NetWinformControl,C#,62
 213460285,JasonGT/CleanArchitecture,C#,108
-223886747,davidfowl/FeatherHttp,C#,40
+223886747,davidfowl/FeatherHttp,C#,39
 174554657,MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure,C#,12

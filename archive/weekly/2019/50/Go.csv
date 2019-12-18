@@ -5,9 +5,9 @@ id,name,lang,new stars
 11225014,etcd-io/etcd,Go,124
 6838921,prometheus/prometheus,Go,138
 42408804,containous/traefik,Go,231
-112567264,iikira/BaiduPCS-Go,Go,332
+112567264,iikira/BaiduPCS-Go,Go,333
 14125254,hashicorp/consul,Go,56
-133251103,wagoodman/dive,Go,251
+133251103,wagoodman/dive,Go,247
 17803236,rclone/rclone,Go,374
 48003886,tmrts/go-patterns,Go,71
 7877397,jmoiron/sqlx,Go,52
@@ -15,9 +15,9 @@ id,name,lang,new stars
 131371773,hoanhan101/ultimate-go,Go,148
 136815833,Dreamacro/clash,Go,121
 81355383,mongodb/mongo-go-driver,Go,51
-222172014,slackhq/nebula,Go,908
+222172014,slackhq/nebula,Go,910
 120650407,operator-framework/operator-sdk,Go,48
-118828329,knative/serving,Go,32
+118828329,knative/serving,Go,33
 7823926,prometheus/client_golang,Go,30
 93446042,terraform-providers/terraform-provider-azurerm,Go,36
 156681830,ffuf/ffuf,Go,171
