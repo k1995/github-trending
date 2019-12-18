@@ -1,5 +1,5 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,340
+45717250,tensorflow/tensorflow,C++,343
 9384267,electron/electron,C++,228
 22067521,ocornut/imgui,C++,105
 11171548,nlohmann/json,C++,106
@@ -8,16 +8,16 @@ id,name,lang,new stars
 39840932,google/googletest,C++,65
 74627617,commaai/openpilot,C++,80
 65214191,envoyproxy/envoy,C++,78
-80286288,arendst/Tasmota,C++,135
+80286288,arendst/Tasmota,C++,136
 99846383,horovod/horovod,C++,64
 40892817,ethereum/solidity,C++,29
 2310495,ceph/ceph,C++,72
-104732438,radareorg/cutter,C++,231
-66088979,changkun/modern-cpp-tutorial,C++,190
+104732438,radareorg/cutter,C++,232
+66088979,changkun/modern-cpp-tutorial,C++,192
 4454793,musescore/MuseScore,C++,34
 191820100,google/mediapipe,C++,98
 46374199,IntelRealSense/librealsense,C++,17
-153866232,TheCherno/Hazel,C++,44
+153866232,TheCherno/Hazel,C++,45
 146459443,vesoft-inc/nebula,C++,45
 156939672,microsoft/onnxruntime,C++,49
 14983921,srsLTE/srsLTE,C++,11
