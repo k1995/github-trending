@@ -1,16 +1,16 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,63
-22887094,tesseract-ocr/tesseract,C++,36
+45717250,tensorflow/tensorflow,C++,61
+22887094,tesseract-ocr/tesseract,C++,31
 16587283,dmlc/xgboost,C++,17
 11171548,nlohmann/json,C++,24
 74627617,commaai/openpilot,C++,17
 1062572,catchorg/Catch2,C++,6
-120887835,huihut/interview,C++,23
+120887835,huihut/interview,C++,24
 16331291,davisking/dlib,C++,13
-104732438,radareorg/cutter,C++,111
-7512484,ArduPilot/ardupilot,C++,6
+104732438,radareorg/cutter,C++,112
+7512484,ArduPilot/ardupilot,C++,7
 37821236,SaschaWillems/Vulkan,C++,5
-50461701,tensorflow/serving,C++,10
+50461701,tensorflow/serving,C++,11
 2436255,Project-OSRM/osrm-backend,C++,4
 84183882,google/sentencepiece,C++,6
 75821432,llvm/llvm-project,C++,25
@@ -22,5 +22,5 @@ id,name,lang,new stars
 98252973,NervanaSystems/ngraph,C++,2
 168100164,generalized-intelligence/GAAS,C++,5
 131630299,onnx/onnx-tensorrt,C++,3
-226715516,ggerganov/imtui,C++,77
-215496829,KitMurdock/plundervolt,C++,12
+226715516,ggerganov/imtui,C++,120
+215496829,KitMurdock/plundervolt,C++,11
