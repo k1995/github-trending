@@ -1,10 +1,10 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,1301
-7691631,moby/moby,Go,414
-11180687,gohugoio/hugo,Go,860
+7691631,moby/moby,Go,417
+11180687,gohugoio/hugo,Go,864
 20904437,gin-gonic/gin,Go,1118
 48378947,fatedier/frp,Go,1325
-14712850,syncthing/syncthing,Go,561
+14712850,syncthing/syncthing,Go,560
 15452919,ethereum/go-ethereum,Go,345
 41986369,pingcap/tidb,Go,520
 17803236,rclone/rclone,Go,1045
@@ -17,7 +17,7 @@ id,name,lang,new stars
 72891330,kubernetes/ingress-nginx,Go,297
 125642885,developer-learning/night-reading-go,Go,439
 48109239,cilium/cilium,Go,172
-100982449,argoproj/argo,Go,244
+100982449,argoproj/argo,Go,245
 914796,lxn/walk,Go,146
 55637575,lucas-clemente/quic-go,Go,225
 199763479,baidu/bfe,Go,2158

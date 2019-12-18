@@ -1,11 +1,11 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,1904
-100060912,microsoft/terminal,C++,1399
-5108051,opencv/opencv,C++,920
-65600975,pytorch/pytorch,C++,1049
+100060912,microsoft/terminal,C++,1396
+5108051,opencv/opencv,C++,918
+65600975,pytorch/pytorch,C++,1054
 6934395,facebook/rocksdb,C++,278
-60273704,mozilla/DeepSpeech,C++,801
-80286288,arendst/Tasmota,C++,450
+60273704,mozilla/DeepSpeech,C++,805
+80286288,arendst/Tasmota,C++,452
 3351871,qbittorrent/qBittorrent,C++,318
 95879426,Tencent/ncnn,C++,234
 7056202,fmtlib/fmt,C++,287
@@ -13,14 +13,14 @@ id,name,lang,new stars
 4454793,musescore/MuseScore,C++,105
 32736639,JoeyDeVries/LearnOpenGL,C++,227
 108102826,carla-simulator/carla,C++,245
-107794782,trojan-gfw/trojan,C++,831
+107794782,trojan-gfw/trojan,C++,836
 105697152,fireice-uk/xmr-stak,C++,44
 5298790,PX4/Firmware,C++,107
 88327406,xmrig/xmrig,C++,129
 56894212,jvm-profiling-tools/async-profiler,C++,142
-156939672,microsoft/onnxruntime,C++,153
-156787357,microsoft/SEAL,C++,73
+156939672,microsoft/onnxruntime,C++,155
+156787357,microsoft/SEAL,C++,72
 221787282,NVIDIAGameWorks/kaolin,C++,1004
-76990209,Aircoookie/WLED,C++,288
+76990209,Aircoookie/WLED,C++,289
 152616802,rapidsai/cuml,C++,207
 127023441,NVIDIA/cuda-samples,C++,48
