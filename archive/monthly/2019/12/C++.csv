@@ -1,16 +1,16 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,1907
-100060912,microsoft/terminal,C++,1401
+100060912,microsoft/terminal,C++,1397
 5108051,opencv/opencv,C++,915
 22887094,tesseract-ocr/tesseract,C++,684
-22067521,ocornut/imgui,C++,483
+22067521,ocornut/imgui,C++,481
 6934395,facebook/rocksdb,C++,283
-74627617,commaai/openpilot,C++,279
-60273704,mozilla/DeepSpeech,C++,810
+74627617,commaai/openpilot,C++,277
+60273704,mozilla/DeepSpeech,C++,811
 80286288,arendst/Tasmota,C++,453
-7056202,fmtlib/fmt,C++,287
+7056202,fmtlib/fmt,C++,286
 2200856,MarlinFirmware/Marlin,C++,225
-47690142,CoatiSoftware/Sourcetrail,C++,5259
+47690142,CoatiSoftware/Sourcetrail,C++,5258
 4454793,musescore/MuseScore,C++,105
 108102826,carla-simulator/carla,C++,250
 32736639,JoeyDeVries/LearnOpenGL,C++,228
@@ -21,6 +21,6 @@ id,name,lang,new stars
 156939672,microsoft/onnxruntime,C++,153
 156787357,microsoft/SEAL,C++,71
 221787282,NVIDIAGameWorks/kaolin,C++,932
-76990209,Aircoookie/WLED,C++,289
+76990209,Aircoookie/WLED,C++,288
 152616802,rapidsai/cuml,C++,207
 127023441,NVIDIA/cuda-samples,C++,48

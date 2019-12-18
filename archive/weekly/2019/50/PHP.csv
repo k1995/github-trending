@@ -2,7 +2,7 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,147
 7548986,laravel/framework,PHP,82
 1420053,guzzle/guzzle,PHP,73
-2234102,bcit-ci/CodeIgniter,PHP,30
+2234102,bcit-ci/CodeIgniter,PHP,32
 2889328,WordPress/WordPress,PHP,49
 2854337,phalcon/cphalcon,PHP,24
 14732311,octobercms/october,PHP,27
@@ -20,6 +20,6 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,12
 18628501,lexik/LexikJWTAuthenticationBundle,PHP,11
 131995661,shopware/platform,PHP,26
-174021137,inertiajs/pingcrm,PHP,38
-215064619,laravel-shift/blueprint,PHP,104
+174021137,inertiajs/pingcrm,PHP,35
+215064619,laravel-shift/blueprint,PHP,105
 195836215,magicblack/maccms10,PHP,24
