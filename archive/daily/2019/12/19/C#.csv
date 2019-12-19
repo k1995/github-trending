@@ -1,8 +1,8 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,27
+49609581,PowerShell/PowerShell,C#,26
 70104825,dotnet-architecture/eShopOnContainers,C#,9
 1613345,StackExchange/Dapper,C#,7
-9864166,App-vNext/Polly,C#,4
+9864166,App-vNext/Polly,C#,7
 143460965,GoogleCloudPlatform/microservices-demo,C#,13
 11920542,HangfireIO/Hangfire,C#,6
 75990888,dotnet/csharplang,C#,3
@@ -15,12 +15,12 @@ id,name,lang,new stars
 68730444,microsoft/BotBuilder-Samples,C#,3
 98470332,sebastianstarke/AI4Animation,C#,6
 50244673,inkle/ink,C#,3
-23891194,Azure/azure-powershell,C#,8
+23891194,Azure/azure-powershell,C#,6
 134707912,dotnetcore/WTM,C#,3
 104407534,dotnet/try,C#,5
-66709088,ClosedXML/ClosedXML,C#,3
+66709088,ClosedXML/ClosedXML,C#,2
 76100575,Cysharp/MagicOnion,C#,5
 169597853,cobbr/Covenant,C#,1
 60366923,asadsahi/AspNetCoreSpa,C#,4
 119571446,dotnet/samples,C#,1
-224060452,Unity-Technologies/ProjectTinySamples,C#,2
+224060452,Unity-Technologies/ProjectTinySamples,C#,3
