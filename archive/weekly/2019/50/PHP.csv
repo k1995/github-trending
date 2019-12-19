@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,142
 7548986,laravel/framework,PHP,83
-1420053,guzzle/guzzle,PHP,72
+1420053,guzzle/guzzle,PHP,63
 2234102,bcit-ci/CodeIgniter,PHP,31
 2889328,WordPress/WordPress,PHP,46
 1631570,nikic/PHP-Parser,PHP,64
@@ -18,8 +18,8 @@ id,name,lang,new stars
 3817881,zircote/swagger-php,PHP,15
 85067860,easy-swoole/easyswoole,PHP,55
 159606650,hyperf/hyperf,PHP,63
-222873550,bytefury/crater,PHP,1014
+222873550,bytefury/crater,PHP,826
 69691727,pmmp/PocketMine-MP,PHP,13
 174021137,inertiajs/pingcrm,PHP,32
-215064619,laravel-shift/blueprint,PHP,105
-195836215,magicblack/maccms10,PHP,25
+215064619,laravel-shift/blueprint,PHP,108
+195836215,magicblack/maccms10,PHP,23

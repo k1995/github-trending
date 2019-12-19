@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,318
+2325298,torvalds/linux,C,319
 36502,git/git,C,152
 18666758,pjreddie/darknet,C,87
 4869294,radareorg/radare2,C,54
 6201092,mpv-player/mpv,C,52
-37912398,nginx/nginx,C,683
+37912398,nginx/nginx,C,687
 196353673,taosdata/TDengine,C,54
 23029617,h2o/h2o,C,66
 5254557,cloudwu/skynet,C,26
@@ -16,11 +16,11 @@ id,name,lang,new stars
 65899476,espressif/esp-idf,C,30
 16734696,meetecho/janus-gateway,C,29
 50824485,processhacker/processhacker,C,38
-110170439,aws/amazon-freertos,C,14
+110170439,aws/amazon-freertos,C,13
 59676171,KevinOConnor/klipper,C,17
 29933948,fluent/fluent-bit,C,20
-131710328,CTCaer/hekate,C,31
-122325570,zlgopen/awtk,C,30
-130578889,pymumu/smartdns,C,626
-179354282,acidanthera/OpenCorePkg,C,39
-224151065,Immediate-Mode-UI/Nuklear,C,93
+131710328,CTCaer/hekate,C,29
+122325570,zlgopen/awtk,C,29
+130578889,pymumu/smartdns,C,630
+179354282,acidanthera/OpenCorePkg,C,37
+224151065,Immediate-Mode-UI/Nuklear,C,92
