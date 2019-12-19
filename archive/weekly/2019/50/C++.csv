@@ -1,18 +1,18 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,338
+45717250,tensorflow/tensorflow,C++,337
 9384267,electron/electron,C++,227
 22067521,ocornut/imgui,C++,103
-11171548,nlohmann/json,C++,102
-6934395,facebook/rocksdb,C++,79
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,92
+11171548,nlohmann/json,C++,101
+6934395,facebook/rocksdb,C++,82
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,91
 39840932,google/googletest,C++,66
 74627617,commaai/openpilot,C++,81
-65214191,envoyproxy/envoy,C++,77
+65214191,envoyproxy/envoy,C++,79
 80286288,arendst/Tasmota,C++,135
-99846383,horovod/horovod,C++,60
-40892817,ethereum/solidity,C++,27
+99846383,horovod/horovod,Python,60
+40892817,ethereum/solidity,C++,28
 2310495,ceph/ceph,C++,72
-104732438,radareorg/cutter,C++,233
+104732438,radareorg/cutter,C++,234
 66088979,changkun/modern-cpp-tutorial,C++,193
 4454793,musescore/MuseScore,C++,34
 191820100,google/mediapipe,C++,95
@@ -20,7 +20,7 @@ id,name,lang,new stars
 153866232,TheCherno/Hazel,C++,42
 146459443,vesoft-inc/nebula,C++,43
 156939672,microsoft/onnxruntime,C++,42
-14983921,srsLTE/srsLTE,C++,10
+14983921,srsLTE/srsLTE,C++,11
 98471367,acidanthera/WhateverGreen,C++,35
 76990209,Aircoookie/WLED,C++,77
-226063093,google/path-auditor,C++,64
+226063093,google/path-auditor,C++,62
