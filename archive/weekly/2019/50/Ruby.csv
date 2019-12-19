@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,71
-7569578,discourse/discourse,Ruby,54
-8681349,huginn/huginn,Ruby,3434
+8514,rails/rails,Ruby,73
+7569578,discourse/discourse,Ruby,55
+8681349,huginn/huginn,Ruby,3439
 21600440,bayandin/awesome-awesomeness,Ruby,53
-13840241,freeCodeCamp/devdocs,Ruby,51
+13840241,freeCodeCamp/devdocs,Ruby,50
 53238813,Homebrew/brew,Ruby,101
-52281283,tootsuite/mastodon,Ruby,85
+52281283,tootsuite/mastodon,Ruby,72
 481872,hashicorp/vagrant,Ruby,36
-2293158,rapid7/metasploit-framework,Ruby,56
-3623050,Homebrew/homebrew-cask,Ruby,44
+2293158,rapid7/metasploit-framework,Ruby,57
+3623050,Homebrew/homebrew-cask,Ruby,45
 4095287,rubocop-hq/rubocop,Ruby,11
-3314,spree/spree,Ruby,14
+3314,spree/spree,Ruby,12
 3195124,mperham/sidekiq,Ruby,8
-611921,activeadmin/activeadmin,Ruby,9
+611921,activeadmin/activeadmin,Ruby,8
 275604,resque/resque,Ruby,11
 1333863,kaminari/kaminari,Ruby,7
 1725199,github/linguist,Ruby,17
@@ -20,7 +20,7 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,11
 16994115,CanCanCommunity/cancancan,Ruby,7
 1548802,activerecord-hackery/ransack,Ruby,6
-96071,rack/rack,Ruby,6
-417862,octokit/octokit.rb,Ruby,4
+96071,rack/rack,Ruby,9
+417862,octokit/octokit.rb,Ruby,3
 30985840,solidusio/solidus,Ruby,15
 223915944,lewagon/rails-garden-manager,Ruby,0
