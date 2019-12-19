@@ -1,9 +1,9 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,360
-458058,symfony/symfony,PHP,325
+2579314,fzaninotto/Faker,PHP,356
+458058,symfony/symfony,PHP,322
 7548986,laravel/framework,PHP,329
 1420053,guzzle/guzzle,PHP,307
-1376664,Seldaek/monolog,PHP,309
+1376664,Seldaek/monolog,PHP,308
 448045,sebastianbergmann/phpunit,PHP,278
 8678290,barryvdh/laravel-ide-helper,PHP,165
 2884111,magento/magento2,PHP,125
@@ -13,14 +13,14 @@ id,name,lang,new stars
 677464,doctrine/dbal,PHP,250
 2179920,woocommerce/woocommerce,PHP,75
 7122594,directus/directus,PHP,169
-7577142,doctrine/annotations,PHP,183
+7577142,doctrine/annotations,PHP,184
 3217621,phpmyadmin/phpmyadmin,PHP,84
-2797951,doctrine/DoctrineBundle,PHP,147
-70288750,symfony/flex,PHP,125
-70239358,cytopia/devilbox,PHP,59
-74386167,vimeo/psalm,PHP,97
+2797951,doctrine/DoctrineBundle,PHP,148
+70288750,symfony/flex,PHP,126
+74386167,vimeo/psalm,PHP,98
+70239358,cytopia/devilbox,PHP,60
 95011974,akaunting/akaunting,PHP,167
 97311017,rectorphp/rector,PHP,307
 1095228,sonata-project/SonataAdminBundle,PHP,23
 69691727,pmmp/PocketMine-MP,PHP,47
-85382582,sprintcube/docker-compose-lamp,PHP,116
+85382582,sprintcube/docker-compose-lamp,PHP,117
