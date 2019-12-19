@@ -1,6 +1,6 @@
 id,name,lang,new stars
-23096959,golang/go,Go,289
-11180687,gohugoio/hugo,Go,211
+23096959,golang/go,Go,292
+11180687,gohugoio/hugo,Go,212
 42408804,containous/traefik,Go,236
 15452919,ethereum/go-ethereum,Go,88
 17728164,hashicorp/terraform,Go,137
@@ -8,19 +8,19 @@ id,name,lang,new stars
 133251103,wagoodman/dive,Go,205
 17803236,rclone/rclone,Go,218
 48003886,tmrts/go-patterns,Go,71
-105279544,gocolly/colly,Go,92
+105279544,gocolly/colly,Go,93
 33258973,influxdata/telegraf,Go,80
 120227732,fyne-io/fyne,Go,216
-131371773,hoanhan101/ultimate-go,Go,150
+131371773,hoanhan101/ultimate-go,Go,151
 815644,miekg/dns,Go,32
 81355383,mongodb/mongo-go-driver,Go,47
 222172014,slackhq/nebula,Go,950
-169948217,crawlab-team/crawlab,Go,389
-120650407,operator-framework/operator-sdk,Go,48
-134018330,panjf2000/ants,Go,105
+169948217,crawlab-team/crawlab,Go,391
+120650407,operator-framework/operator-sdk,Go,50
+134018330,panjf2000/ants,Go,106
 74499101,roboll/helmfile,Go,76
 93446042,terraform-providers/terraform-provider-azurerm,Go,40
 156681830,ffuf/ffuf,Go,128
-124260244,banzaicloud/bank-vaults,Go,42
+124260244,banzaicloud/bank-vaults,Go,39
 1380117,getlantern/lantern,Go,101
 193681111,filecoin-project/lotus,Go,31
