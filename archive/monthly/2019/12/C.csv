@@ -1,18 +1,18 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1491
-10744183,netdata/netdata,C,1087
-156018,antirez/redis,C,654
+2325298,torvalds/linux,C,1485
+10744183,netdata/netdata,C,1086
+156018,antirez/redis,C,656
 111583593,Genymobile/scrcpy,C,1651
 1614410,FFmpeg/FFmpeg,C,403
-36836475,tmux/tmux,C,383
-18666758,pjreddie/darknet,C,442
-20159867,nothings/stb,C,337
-37912398,nginx/nginx,C,864
+36836475,tmux/tmux,C,387
+18666758,pjreddie/darknet,C,443
+20159867,nothings/stb,C,336
+37912398,nginx/nginx,C,865
 32969220,esp8266/Arduino,C,166
-66150122,jarun/nnn,C,370
-3199002,raspberrypi/linux,C,180
+66150122,jarun/nnn,C,371
+3199002,raspberrypi/linux,C,181
 102578345,coolsnowwolf/lede,C,763
-11178512,happyfish100/fastdfs,C,249
+11178512,happyfish100/fastdfs,C,250
 45821540,openwrt/openwrt,C,197
 117948953,Atmosphere-NX/Atmosphere,C,182
 3671479,nmap/nmap,C,109
@@ -22,5 +22,5 @@ id,name,lang,new stars
 27359183,guanzhi/GmSSL,C,78
 122325570,zlgopen/awtk,C,276
 11233590,coreutils/coreutils,C,63
-98651166,ShadowsocksR-Live/shadowsocksr-native,C,284
-179354282,acidanthera/OpenCorePkg,C,180
+98651166,ShadowsocksR-Live/shadowsocksr-native,C,286
+179354282,acidanthera/OpenCorePkg,C,183
