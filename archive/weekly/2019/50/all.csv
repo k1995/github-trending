@@ -1,13 +1,12 @@
 id,name,lang,new stars
 21737465,sindresorhus/awesome,,928
 31792824,flutter/flutter,Dart,759
-23088740,axios/axios,JavaScript,282
-126577260,trekhleb/javascript-algorithms,JavaScript,1108
-8514,rails/rails,Ruby,66
 128398636,xingshaocheng/architect-awesome,,1590
 5483330,soimort/you-get,Python,554
+8681349,huginn/huginn,Ruby,1402
+71995937,nuxt/nuxt.js,JavaScript,312
 91573538,testerSunshine/12306,Python,1364
-112567264,iikira/BaiduPCS-Go,Go,389
+112567264,iikira/BaiduPCS-Go,Go,407
 163387337,seata/seata,Java,191
 148736243,qiurunze123/miaosha,Java,675
 37912398,nginx/nginx,C,663
@@ -17,10 +16,11 @@ id,name,lang,new stars
 102578345,coolsnowwolf/lede,C,206
 175366155,shengqiangzhang/examples-of-web-crawlers,Python,420
 136667574,flutter/samples,Dart,291
+209799228,denisidoro/navi,Shell,327
+30102273,MobSF/Mobile-Security-Framework-MobSF,Python,115
+164554832,ageron/handson-ml2,Jupyter Notebook,406
 222172014,slackhq/nebula,Go,948
 183345962,MustangYM/WeChatExtension-ForMac,Objective-C,228
 222873550,bytefury/crater,PHP,738
-196078788,luka1199/geo-heatmap,Python,292
-204939699,marblexu/PythonPlantsVsZombies,Python,116
-225881349,renjie-feng-trash/fengrenjie,,144
-193681111,filecoin-project/lotus,Go,26
+130670507,TrickyGo/Dive-into-DL-TensorFlow2.0,Jupyter Notebook,340
+221554948,gskinnerTeam/flutter_vignettes,,618
