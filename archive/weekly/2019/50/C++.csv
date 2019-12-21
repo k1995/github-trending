@@ -1,12 +1,12 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,248
-44838949,apple/swift,C++,130
-22067521,ocornut/imgui,C++,144
+44838949,apple/swift,C++,131
+22067521,ocornut/imgui,C++,158
 11171548,nlohmann/json,C++,117
 6934395,facebook/rocksdb,C++,84
 4524181,facebook/folly,C++,55
 39840932,google/googletest,C++,81
-74627617,commaai/openpilot,C++,103
+74627617,commaai/openpilot,C++,105
 65711522,PaddlePaddle/Paddle,C++,65
 33014811,notepad-plus-plus/notepad-plus-plus,C++,97
 60246359,ClickHouse/ClickHouse,C++,114
@@ -14,13 +14,13 @@ id,name,lang,new stars
 79316451,TarsCloud/Tars,C++,79
 3351871,qbittorrent/qBittorrent,C++,95
 40892817,ethereum/solidity,C++,27
-34777562,ossrs/srs,C++,68
-104732438,radareorg/cutter,C++,277
-66088979,changkun/modern-cpp-tutorial,C++,204
+34777562,ossrs/srs,C++,69
+104732438,radareorg/cutter,C++,278
+66088979,changkun/modern-cpp-tutorial,C++,205
 104623696,Ewenwan/MVision,C++,71
 14268809,FastLED/FastLED,C++,28
-153866232,TheCherno/Hazel,C++,45
-76990209,Aircoookie/WLED,C++,91
+153866232,TheCherno/Hazel,C++,46
+76990209,Aircoookie/WLED,C++,93
 222375856,Cocos-BCX/cocos-mainnet,C++,310
-168947928,Errichto/youtube,C++,45
+168947928,Errichto/youtube,C++,46
 215496829,KitMurdock/plundervolt,C++,31
