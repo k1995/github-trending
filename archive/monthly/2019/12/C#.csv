@@ -1,7 +1,7 @@
 id,name,lang,new stars
-17620347,aspnet/AspNetCore,C#,546
-29078997,dotnet/roslyn,C#,121
-70104825,dotnet-architecture/eShopOnContainers,C#,368
+17620347,aspnet/AspNetCore,C#,550
+29078997,dotnet/roslyn,C#,122
+70104825,dotnet-architecture/eShopOnContainers,C#,369
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,397
 1579990,MonoGame/MonoGame,C#,98
 7560589,JeffreySu/WeiXinMPSDK,C#,142
@@ -9,18 +9,18 @@ id,name,lang,new stars
 443962,JeremySkinner/FluentValidation,C#,126
 2465723,Sonarr/Sonarr,C#,117
 161012019,jellyfin/jellyfin,C#,481
-199570071,2dust/v2rayN,C#,1003
+199570071,2dust/v2rayN,C#,1004
 42749841,Live-Charts/Live-Charts,C#,102
 77323220,Radarr/Radarr,C#,97
 70584079,JasonGT/NorthwindTraders,C#,221
 27251463,QuantConnect/Lean,C#,109
 32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,97
 75505125,abpframework/abp,C#,175
-38992233,sunkaixuan/SqlSugar,C#,104
-23550423,Jays2Kings/DS4Windows,C#,51
-23891194,Azure/azure-powershell,C#,58
-2928944,Azure/azure-sdk-for-net,C#,38
+38992233,sunkaixuan/SqlSugar,C#,105
+23550423,Jays2Kings/DS4Windows,C#,52
+23891194,Azure/azure-powershell,C#,59
+2928944,Azure/azure-sdk-for-net,C#,39
 76100575,Cysharp/MagicOnion,C#,79
 72554578,confluentinc/confluent-kafka-dotnet,C#,57
-21311240,kwsch/PKHeX,C#,91
+21311240,kwsch/PKHeX,C#,90
 156260788,Azure/azure-cosmos-dotnet-v3,C#,13

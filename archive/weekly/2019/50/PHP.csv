@@ -1,13 +1,13 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,58
+458058,symfony/symfony,PHP,59
 7548986,laravel/framework,PHP,77
 2234102,bcit-ci/CodeIgniter,PHP,28
-448045,sebastianbergmann/phpunit,PHP,76
+448045,sebastianbergmann/phpunit,PHP,77
 2889328,WordPress/WordPress,PHP,40
 12615154,barryvdh/laravel-debugbar,PHP,34
 2854337,phalcon/cphalcon,PHP,26
 14732311,octobercms/october,PHP,29
-8678290,barryvdh/laravel-ide-helper,PHP,42
+8678290,barryvdh/laravel-ide-helper,PHP,43
 82238168,monicahq/monica,PHP,31
 11340559,deployphp/deployer,PHP,23
 6660366,dompdf/dompdf,PHP,29
@@ -16,11 +16,11 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,96
 30171828,rappasoft/laravel-boilerplate,PHP,21
 2464908,joomla/joomla-cms,PHP,14
-85067860,easy-swoole/easyswoole,PHP,58
+85067860,easy-swoole/easyswoole,PHP,60
 158374929,beyondcode/laravel-websockets,PHP,39
-159606650,hyperf/hyperf,PHP,65
+159606650,hyperf/hyperf,PHP,67
 222873550,bytefury/crater,PHP,738
 69691727,pmmp/PocketMine-MP,PHP,13
-215064619,laravel-shift/blueprint,PHP,187
+215064619,laravel-shift/blueprint,PHP,196
 174021137,inertiajs/pingcrm,PHP,28
 195836215,magicblack/maccms10,PHP,22
