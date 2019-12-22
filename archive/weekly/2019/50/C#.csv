@@ -1,15 +1,15 @@
 id,name,lang,new stars
 7600409,shadowsocks/shadowsocks-windows,C#,274
-49609581,PowerShell/PowerShell,C#,107
-70104825,dotnet-architecture/eShopOnContainers,C#,101
-54086969,thangchung/awesome-dotnet-core,C#,78
+49609581,PowerShell/PowerShell,C#,109
+70104825,dotnet-architecture/eShopOnContainers,C#,103
+54086969,thangchung/awesome-dotnet-core,C#,80
 75990888,dotnet/csharplang,C#,67
 44897462,JustArchiNET/ArchiSteamFarm,C#,45
-88064357,QL-Win/QuickLook,C#,72
+88064357,QL-Win/QuickLook,C#,73
 18586705,nopSolutions/nopCommerce,C#,63
 105649273,ElectronNET/Electron.NET,C#,44
-77323220,Radarr/Radarr,C#,32
-26884725,OrchardCMS/OrchardCore,C#,35
+77323220,Radarr/Radarr,C#,33
+26884725,OrchardCMS/OrchardCore,C#,36
 64290739,dodyg/practical-aspnetcore,C#,35
 70584079,JasonGT/NorthwindTraders,C#,53
 27251463,QuantConnect/Lean,C#,30
@@ -18,7 +18,7 @@ id,name,lang,new stars
 203892454,kgrzybek/modular-monolith-with-ddd,C#,44
 76100575,Cysharp/MagicOnion,C#,47
 85242321,chkr1011/MQTTnet,C#,17
-115516512,ivanpaulovich/clean-architecture-manga,C#,47
+115516512,ivanpaulovich/clean-architecture-manga,C#,48
 154637304,FastReports/FastReport,C#,16
 54377519,PiranhaCMS/piranha.core,C#,15
 168957647,kgrzybek/sample-dotnet-core-cqrs-api,C#,30
