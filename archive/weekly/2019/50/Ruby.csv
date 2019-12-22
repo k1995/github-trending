@@ -1,5 +1,5 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,74
+8514,rails/rails,Ruby,75
 65252,jekyll/jekyll,Ruby,80
 7569578,discourse/discourse,Ruby,75
 8681349,huginn/huginn,Ruby,923
@@ -8,7 +8,7 @@ id,name,lang,new stars
 538746,ruby/ruby,Ruby,28
 37382858,kilimchoi/engineering-blogs,Ruby,39
 73648678,thepracticaldev/dev.to,Ruby,80
-4095287,rubocop-hq/rubocop,Ruby,35
+4095287,rubocop-hq/rubocop,Ruby,36
 3314,spree/spree,Ruby,16
 3195124,mperham/sidekiq,Ruby,19
 812393,ruby-grape/grape,Ruby,11
@@ -17,7 +17,7 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,8
 488514,bundler/bundler,Ruby,15
 447184,rspec/rspec-rails,Ruby,3
-30337170,rmosolgo/graphql-ruby,Ruby,18
+30337170,rmosolgo/graphql-ruby,Ruby,19
 96071,rack/rack,Ruby,18
 6768710,redmine/redmine,Ruby,14
 417862,octokit/octokit.rb,Ruby,9
