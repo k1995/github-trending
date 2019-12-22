@@ -1,14 +1,14 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,40
+3482588,danielmiessler/SecLists,PHP,46
 2854337,phalcon/cphalcon,PHP,10
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,5
-82238168,monicahq/monica,PHP,210
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,9
+82238168,monicahq/monica,PHP,235
 11467667,typecho/typecho,PHP,15
 28257573,flarum/core,PHP,4
-10371103,caouecs/Laravel-lang,PHP,11
+10371103,caouecs/Laravel-lang,PHP,12
 41589337,BookStackApp/BookStack,PHP,11
 126950582,donwa/oneindex,PHP,6
-74386167,vimeo/psalm,PHP,17
+74386167,vimeo/psalm,PHP,19
 95011974,akaunting/akaunting,PHP,8
 9395939,ZoneMinder/zoneminder,PHP,0
 3811518,cocur/slugify,PHP,4
@@ -17,10 +17,10 @@ id,name,lang,new stars
 47508644,pterodactyl/panel,PHP,4
 170355508,livewire/livewire,PHP,14
 147208524,thecodingmachine/safe,PHP,38
-66029201,Chevereto/Chevereto-Free,PHP,4
+66029201,Chevereto/Chevereto-Free,PHP,5
 96090745,ambionics/phpggc,PHP,9
-85382582,sprintcube/docker-compose-lamp,PHP,2
-215064619,laravel-shift/blueprint,PHP,127
+85382582,sprintcube/docker-compose-lamp,PHP,3
+215064619,laravel-shift/blueprint,PHP,131
 137591095,staudenmeir/eloquent-has-many-deep,PHP,67
 195836215,magicblack/maccms10,PHP,7
 162578991,atmoner/nodeCrypto,PHP,4

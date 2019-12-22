@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,360
-156018,antirez/redis,C,194
-36502,git/git,C,150
+2325298,torvalds/linux,C,362
+156018,antirez/redis,C,195
+36502,git/git,C,152
 10446890,bilibili/ijkplayer,C,91
-1614410,FFmpeg/FFmpeg,C,95
-18666758,pjreddie/darknet,C,100
-37912398,nginx/nginx,C,515
+1614410,FFmpeg/FFmpeg,C,96
+18666758,pjreddie/darknet,C,98
+37912398,nginx/nginx,C,517
 196353673,taosdata/TDengine,C,69
 5254557,cloudwu/skynet,C,30
 40217904,swaywm/sway,C,40
-102578345,coolsnowwolf/lede,C,232
+102578345,coolsnowwolf/lede,C,233
 27737393,qmk/qmk_firmware,C,81
 3299208,videolan/vlc,C,34
 45821540,openwrt/openwrt,C,50
@@ -17,10 +17,10 @@ id,name,lang,new stars
 65899476,espressif/esp-idf,C,35
 47057247,Wind4/vlmcsd,C,32
 184909163,koekeishiya/yabai,C,76
-68751856,gnea/grbl,C,20
-130578889,pymumu/smartdns,C,676
+68751856,gnea/grbl,C,21
+130578889,pymumu/smartdns,C,674
 15991457,openssh/openssh-portable,C,17
-205810121,CloverHackyColor/CloverBootloader,C,69
+205810121,CloverHackyColor/CloverBootloader,C,70
 220654381,mohuihui/antispy,C,63
 220449772,open-sdr/openwifi,C,284
-224151065,Immediate-Mode-UI/Nuklear,C,117
+224151065,Immediate-Mode-UI/Nuklear,C,112
