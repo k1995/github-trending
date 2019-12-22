@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,154
-7548986,laravel/framework,PHP,77
+1863329,laravel/laravel,PHP,158
+7548986,laravel/framework,PHP,78
 2234102,bcit-ci/CodeIgniter,PHP,32
 448045,sebastianbergmann/phpunit,PHP,73
 2889328,WordPress/WordPress,PHP,49
 1631570,nikic/PHP-Parser,PHP,61
-12615154,barryvdh/laravel-debugbar,PHP,37
+12615154,barryvdh/laravel-debugbar,PHP,38
 8678290,barryvdh/laravel-ide-helper,PHP,45
 23680678,tymondesigns/jwt-auth,PHP,35
-82238168,monicahq/monica,PHP,235
+82238168,monicahq/monica,PHP,237
 51325497,php-ai/php-ml,PHP,32
 42480275,spatie/laravel-permission,PHP,46
 6660366,dompdf/dompdf,PHP,29
@@ -23,4 +23,4 @@ id,name,lang,new stars
 15231212,Automattic/jetpack,PHP,56
 215064619,laravel-shift/blueprint,PHP,273
 174021137,inertiajs/pingcrm,PHP,27
-195836215,magicblack/maccms10,PHP,26
+195836215,magicblack/maccms10,PHP,27
