@@ -1,12 +1,12 @@
 id,name,lang,new stars
 23096959,golang/go,Go,90
-11180687,gohugoio/hugo,Go,56
+11180687,gohugoio/hugo,Go,58
 48378947,fatedier/frp,Go,85
 14712850,syncthing/syncthing,Go,44
-41912791,v2ray/v2ray-core,Go,76
+41912791,v2ray/v2ray-core,Go,75
 29207621,caddyserver/caddy,Go,38
 50709152,kataras/iris,Go,22
-77144337,openfaas/faas,Go,29
+77144337,openfaas/faas,Go,32
 11393110,urfave/cli,Go,21
 29217054,micro/go-micro,Go,40
 123572362,quii/learn-go-with-tests,Go,14
@@ -22,5 +22,5 @@ id,name,lang,new stars
 164596259,shadowsocks/v2ray-plugin,Go,6
 180155078,micro-in-cn/tutorials,Go,7
 171396748,chubaofs/chubaofs,Go,26
-228477259,FastFilter/xorfilter,Go,136
+228477259,FastFilter/xorfilter,Go,144
 224588420,wxbool/video-srt-windows,Go,111
