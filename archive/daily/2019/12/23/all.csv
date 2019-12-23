@@ -1,26 +1,26 @@
 id,name,lang,new stars
-41881900,microsoft/vscode,TypeScript,105
 1039520,ytdl-org/youtube-dl,Python,107
-12888993,home-assistant/home-assistant,Python,63
-15634981,godotengine/godot,C++,40
-67186968,chinese-poetry/chinese-poetry,JavaScript,316
-91573538,testerSunshine/12306,Python,586
-37958358,naptha/tesseract.js,JavaScript,1001
-56969116,ngosang/trackerslist,,75
-49910095,vapor/vapor,Swift,34
-179164257,libra/libra,Rust,34
-82238168,monicahq/monica,PHP,291
-164471183,pjialin/py12306,Python,149
-59398169,dgryski/go-perfbook,,64
-126412363,lemire/simdjson,C++,82
-4190976,ziahamza/webui-aria2,JavaScript,57
-2200856,MarlinFirmware/Marlin,C++,13
-168500397,justauth/JustAuth,Java,231
-43807251,inorichi/tachiyomi,Kotlin,66
-224444129,alyssaxuu/flowy,JavaScript,139
-42845822,eastlakeside/interpy-zh,Python,100
-57165232,gcushen/hugo-academic,HTML,27
-137389229,jonasschmedtmann/complete-javascript-course,JavaScript,21
-196078788,luka1199/geo-heatmap,Python,43
-227010037,A3M4/YouTube-Report,Python,126
-223594022,fastai/fastai2,Jupyter Notebook,13
+55076063,Hack-with-Github/Awesome-Hacking,,87
+15634981,godotengine/godot,C++,39
+111583593,Genymobile/scrcpy,C,43
+91573538,testerSunshine/12306,Python,187
+37958358,naptha/tesseract.js,JavaScript,330
+22067521,ocornut/imgui,C++,91
+49910095,vapor/vapor,Swift,85
+32689863,3b1b/manim,Python,48
+179164257,libra/libra,Rust,37
+1217614,xbmc/xbmc,C++,9
+82238168,monicahq/monica,PHP,296
+164471183,pjialin/py12306,Python,45
+126412363,lemire/simdjson,C++,79
+42489829,rust-lang/rustlings,Rust,22
+168500397,justauth/JustAuth,Java,197
+43807251,inorichi/tachiyomi,Kotlin,29
+40484398,discordjs/discord.js,JavaScript,5
+42845822,eastlakeside/interpy-zh,Python,75
+21763822,hlissner/doom-emacs,Emacs Lisp,25
+22456440,ppy/osu,C#,8
+152646389,fastai/course-v3,Jupyter Notebook,9
+137389229,jonasschmedtmann/complete-javascript-course,JavaScript,20
+224086560,Yuheng-Li/MixNMatch,,79
+228983127,okdalto/VisualizeMNIST,Processing,44
