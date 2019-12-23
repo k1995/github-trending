@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,70
 65252,jekyll/jekyll,Ruby,66
-7569578,discourse/discourse,Ruby,76
+7569578,discourse/discourse,Ruby,75
 8681349,huginn/huginn,Ruby,425
 21600440,bayandin/awesome-awesomeness,Ruby,50
-538746,ruby/ruby,Ruby,27
-37382858,kilimchoi/engineering-blogs,Ruby,36
+538746,ruby/ruby,Ruby,28
+37382858,kilimchoi/engineering-blogs,Ruby,35
 4095287,rubocop-hq/rubocop,Ruby,40
 3314,spree/spree,Ruby,14
-3195124,mperham/sidekiq,Ruby,19
+3195124,mperham/sidekiq,Ruby,20
 812393,ruby-grape/grape,Ruby,11
 1918677,fluent/fluentd,Ruby,28
 611921,activeadmin/activeadmin,Ruby,11
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1314319,instructure/canvas-lms,Ruby,11
 21333814,lynndylanhurley/devise_token_auth,Ruby,7
 30985840,solidusio/solidus,Ruby,12
-115859973,ddnexus/pagy,Ruby,28
+115859973,ddnexus/pagy,Ruby,29
 223915944,lewagon/rails-garden-manager,Ruby,0
