@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1393
-10744183,netdata/netdata,C,1086
-156018,antirez/redis,C,626
-111583593,Genymobile/scrcpy,C,1620
+2325298,torvalds/linux,C,1398
+10744183,netdata/netdata,C,1089
+156018,antirez/redis,C,623
+111583593,Genymobile/scrcpy,C,1631
 1614410,FFmpeg/FFmpeg,C,412
 36836475,tmux/tmux,C,385
-18666758,pjreddie/darknet,C,417
+18666758,pjreddie/darknet,C,422
 14812739,libuv/libuv,C,220
-20159867,nothings/stb,C,345
-37912398,nginx/nginx,C,871
+20159867,nothings/stb,C,347
+37912398,nginx/nginx,C,869
 32969220,esp8266/Arduino,C,179
 66150122,jarun/nnn,C,417
 40217904,swaywm/sway,C,142
@@ -17,10 +17,10 @@ id,name,lang,new stars
 45821540,openwrt/openwrt,C,198
 117948953,Atmosphere-NX/Atmosphere,C,181
 3671479,nmap/nmap,C,103
-59771425,zephyrproject-rtos/zephyr,C,143
+59771425,zephyrproject-rtos/zephyr,C,144
 8046269,warmcat/libwebsockets,C,36
 43683082,zserge/jsmn,C,73
 131710328,CTCaer/hekate,C,112
 122325570,zlgopen/awtk,C,269
 98651166,ShadowsocksR-Live/shadowsocksr-native,C,285
-118572426,xufuji456/FFmpegAndroid,C,82
+118572426,xufuji456/FFmpegAndroid,C,84
