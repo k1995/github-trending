@@ -3,14 +3,14 @@ id,name,lang,new stars
 48378947,fatedier/frp,Go,33
 14712850,syncthing/syncthing,Go,28
 13807606,junegunn/fzf,Go,29
-41912791,v2ray/v2ray-core,Go,33
+41912791,v2ray/v2ray-core,Go,34
 17803236,rclone/rclone,Go,19
 187335810,jesseduffield/lazydocker,Go,19
 41349039,dgraph-io/dgraph,Go,12
 29217054,micro/go-micro,Go,11
 85371712,txthinking/brook,Go,9
-105279544,gocolly/colly,Go,16
-123572362,quii/learn-go-with-tests,Go,21
+105279544,gocolly/colly,Go,17
+123572362,quii/learn-go-with-tests,Go,22
 116576783,bettercap/bettercap,Go,7
 10270722,google/go-github,Go,3
 40453691,GoesToEleven/GolangTraining,Go,11
@@ -20,7 +20,7 @@ id,name,lang,new stars
 52319759,gilbertchen/duplicacy,Go,26
 144036833,arduino/arduino-cli,Go,4
 105569787,gothinkster/golang-gin-realworld-example-app,Go,5
-80510806,tomnomnom/httprobe,Go,5
+80510806,tomnomnom/httprobe,Go,6
 199878047,aquasecurity/kube-query,Go,15
 226965725,tomarrell/lbadd,Go,17
 225895284,gohornet/hornet,Go,0
