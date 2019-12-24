@@ -1,5 +1,5 @@
 id,name,lang,new stars
-156018,antirez/redis,C,185
+156018,antirez/redis,C,187
 36502,git/git,C,140
 10446890,bilibili/ijkplayer,C,84
 1614410,FFmpeg/FFmpeg,C,120
@@ -7,7 +7,7 @@ id,name,lang,new stars
 6201092,mpv-player/mpv,C,56
 196353673,taosdata/TDengine,C,85
 102578345,coolsnowwolf/lede,C,194
-3299208,videolan/vlc,C,32
+3299208,videolan/vlc,C,33
 45821540,openwrt/openwrt,C,53
 437011,zfsonlinux/zfs,C,25
 63809205,google/oss-fuzz,C,26
@@ -16,11 +16,11 @@ id,name,lang,new stars
 45863890,apple/swift-corelibs-foundation,C,17
 203957456,Tencent/TencentOS-tiny,C,68
 37060852,betaflight/betaflight,C,19
-98561896,Hopson97/MineCraft-One-Week-Challenge,C,18
+98561896,Hopson97/MineCraft-One-Week-Challenge,C,19
 43683082,zserge/jsmn,C,39
 68751856,gnea/grbl,C,18
 131710328,CTCaer/hekate,C,25
 130578889,pymumu/smartdns,C,463
 15991457,openssh/openssh-portable,C,14
 205810121,CloverHackyColor/CloverBootloader,C,66
-224151065,Immediate-Mode-UI/Nuklear,C,121
+224151065,Immediate-Mode-UI/Nuklear,C,123
