@@ -1,20 +1,20 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1311
+20580498,kubernetes/kubernetes,Go,1317
 7691631,moby/moby,Go,419
-21540759,avelino/awesome-go,Go,1006
-11180687,gohugoio/hugo,Go,922
+21540759,avelino/awesome-go,Go,1007
+11180687,gohugoio/hugo,Go,925
 20904437,gin-gonic/gin,Go,1135
-48378947,fatedier/frp,Go,1321
+48378947,fatedier/frp,Go,1322
 41986369,pingcap/tidb,Go,553
 112567264,iikira/BaiduPCS-Go,Go,912
 13855476,jinzhu/gorm,Go,674
-30215630,go-kit/kit,Go,479
+30215630,go-kit/kit,Go,480
 105279544,gocolly/colly,Go,336
 66573241,hyperledger/fabric,Go,302
 31660590,emirpasic/gods,Go,342
 120227732,fyne-io/fyne,Go,460
-44350607,kubernetes/dashboard,Go,301
-136815833,Dreamacro/clash,Go,513
+44350607,kubernetes/dashboard,Go,302
+136815833,Dreamacro/clash,Go,514
 29156642,adnanh/webhook,Go,331
 914796,lxn/walk,Go,149
 222172014,slackhq/nebula,Go,1698
@@ -23,4 +23,4 @@ id,name,lang,new stars
 62799996,fluxcd/flux,Go,341
 54539060,allegro/bigcache,Go,535
 130430977,kubesphere/kubesphere,Go,374
-156681830,ffuf/ffuf,Go,390
+156681830,ffuf/ffuf,Go,391

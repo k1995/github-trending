@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1864363,composer/composer,PHP,362
-7548986,laravel/framework,PHP,311
-1420053,guzzle/guzzle,PHP,288
-448045,sebastianbergmann/phpunit,PHP,268
-4916869,ramsey/uuid,PHP,189
+1864363,composer/composer,PHP,363
+7548986,laravel/framework,PHP,312
+1420053,guzzle/guzzle,PHP,289
+448045,sebastianbergmann/phpunit,PHP,269
+4916869,ramsey/uuid,PHP,190
 8678290,barryvdh/laravel-ide-helper,PHP,156
 82238168,monicahq/monica,PHP,840
 29843361,overtrue/wechat,PHP,95
@@ -18,7 +18,7 @@ id,name,lang,new stars
 70239358,cytopia/devilbox,PHP,59
 95011974,akaunting/akaunting,PHP,166
 97311017,rectorphp/rector,PHP,308
-222873550,bytefury/crater,PHP,1699
+222873550,bytefury/crater,PHP,1703
 1095228,sonata-project/SonataAdminBundle,PHP,23
 69691727,pmmp/PocketMine-MP,PHP,49
 1307238,phpmd/phpmd,PHP,40
