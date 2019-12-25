@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1409
+2325298,torvalds/linux,C,1410
 10744183,netdata/netdata,C,1132
-156018,antirez/redis,C,649
+156018,antirez/redis,C,650
 111583593,Genymobile/scrcpy,C,1639
-1614410,FFmpeg/FFmpeg,C,430
-36836475,tmux/tmux,C,397
-18666758,pjreddie/darknet,C,416
+1614410,FFmpeg/FFmpeg,C,431
+36836475,tmux/tmux,C,398
+18666758,pjreddie/darknet,C,417
 14812739,libuv/libuv,C,224
 20159867,nothings/stb,C,341
 37912398,nginx/nginx,C,880
@@ -13,7 +13,7 @@ id,name,lang,new stars
 15337142,micropython/micropython,C,241
 613829,openresty/lua-nginx-module,C,109
 66150122,jarun/nnn,C,429
-102578345,coolsnowwolf/lede,C,821
+102578345,coolsnowwolf/lede,C,830
 3299208,videolan/vlc,C,115
 45821540,openwrt/openwrt,C,197
 117948953,Atmosphere-NX/Atmosphere,C,188

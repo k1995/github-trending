@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,258
+8514,rails/rails,Ruby,259
 65252,jekyll/jekyll,Ruby,285
 27442967,fastlane/fastlane,Ruby,341
-8681349,huginn/huginn,Ruby,3857
+8681349,huginn/huginn,Ruby,3860
 21600440,bayandin/awesome-awesomeness,Ruby,192
 308770,plataformatec/devise,Ruby,78
-481872,hashicorp/vagrant,Ruby,139
-2293158,rapid7/metasploit-framework,Ruby,347
+481872,hashicorp/vagrant,Ruby,142
+2293158,rapid7/metasploit-framework,Ruby,349
 3623050,Homebrew/homebrew-cask,Ruby,158
 37382858,kilimchoi/engineering-blogs,Ruby,158
 4095287,rubocop-hq/rubocop,Ruby,89
@@ -20,7 +20,7 @@ id,name,lang,new stars
 4994614,wpscanteam/wpscan,Ruby,82
 75785147,rails/webpacker,Ruby,40
 1548802,activerecord-hackery/ransack,Ruby,27
-96071,rack/rack,Ruby,30
+96071,rack/rack,Ruby,31
 6768710,redmine/redmine,Ruby,37
 3898922,zammad/zammad,Ruby,55
 63882194,projectcalico/calico,Ruby,68
