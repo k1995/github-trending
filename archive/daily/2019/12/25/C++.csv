@@ -1,16 +1,16 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,36
-5108051,opencv/opencv,C++,47
-23357588,protocolbuffers/protobuf,C++,36
+5108051,opencv/opencv,C++,63
+23357588,protocolbuffers/protobuf,C++,37
 33791743,x64dbg/x64dbg,C++,7
 1116542,aria2/aria2,C++,30
 5133949,swoole/swoole-src,C++,14
 54360307,uNetworking/uWebSockets,C++,11
 80286288,arendst/Tasmota,C++,14
-126412363,lemire/simdjson,C++,133
-3351871,qbittorrent/qBittorrent,C++,19
-2310495,ceph/ceph,C++,4
-9090933,capnproto/capnproto,C++,32
+126412363,lemire/simdjson,C++,130
+3351871,qbittorrent/qBittorrent,C++,20
+2310495,ceph/ceph,C++,5
+9090933,capnproto/capnproto,C++,34
 34777562,ossrs/srs,C++,10
 35718695,android/ndk-samples,C++,6
 2200856,MarlinFirmware/Marlin,C++,11
@@ -22,5 +22,5 @@ id,name,lang,new stars
 221822577,Tencent/Hippy,C++,473
 153097643,opencv/dldt,C++,5
 150774287,danielkrupinski/Osiris,C++,5
-220819663,Hopson97/open-builder,C++,43
+220819663,Hopson97/open-builder,C++,48
 227309670,Admiral-Fish/RaidFinder,C++,12
