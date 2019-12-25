@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,62
-65252,jekyll/jekyll,Ruby,65
-7569578,discourse/discourse,Ruby,65
-21600440,bayandin/awesome-awesomeness,Ruby,53
+65252,jekyll/jekyll,Ruby,67
+7569578,discourse/discourse,Ruby,67
+21600440,bayandin/awesome-awesomeness,Ruby,59
 2500088,gitlabhq/gitlabhq,Ruby,22
 2293158,rapid7/metasploit-framework,Ruby,66
 538746,ruby/ruby,Ruby,28
 37382858,kilimchoi/engineering-blogs,Ruby,39
 4095287,rubocop-hq/rubocop,Ruby,40
 3314,spree/spree,Ruby,14
-3195124,mperham/sidekiq,Ruby,18
+3195124,mperham/sidekiq,Ruby,19
 812393,ruby-grape/grape,Ruby,10
 611921,activeadmin/activeadmin,Ruby,7
 96395,faker-ruby/faker,Ruby,37
@@ -21,6 +21,6 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,18
 6768710,redmine/redmine,Ruby,14
 2981455,github/gemoji,Ruby,8
-6899875,opf/openproject,Ruby,27
+6899875,opf/openproject,Ruby,28
 21333814,lynndylanhurley/devise_token_auth,Ruby,9
 115859973,ddnexus/pagy,Ruby,28
