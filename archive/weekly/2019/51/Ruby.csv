@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,58
-65252,jekyll/jekyll,Ruby,63
+8514,rails/rails,Ruby,60
+65252,jekyll/jekyll,Ruby,64
 7569578,discourse/discourse,Ruby,65
-21600440,bayandin/awesome-awesomeness,Ruby,51
+21600440,bayandin/awesome-awesomeness,Ruby,53
 2500088,gitlabhq/gitlabhq,Ruby,20
 308770,plataformatec/devise,Ruby,18
-538746,ruby/ruby,Ruby,26
-37382858,kilimchoi/engineering-blogs,Ruby,38
+538746,ruby/ruby,Ruby,27
+37382858,kilimchoi/engineering-blogs,Ruby,39
 138312,capistrano/capistrano,Ruby,11
 4095287,rubocop-hq/rubocop,Ruby,39
 3314,spree/spree,Ruby,14
@@ -17,10 +17,10 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,8
 535266,vcr/vcr,Ruby,14
 4994614,wpscanteam/wpscan,Ruby,21
-16994115,CanCanCommunity/cancancan,Ruby,12
-447184,rspec/rspec-rails,Ruby,4
-30337170,rmosolgo/graphql-ruby,Ruby,10
+16994115,CanCanCommunity/cancancan,Ruby,13
+447184,rspec/rspec-rails,Ruby,5
+30337170,rmosolgo/graphql-ruby,Ruby,11
 1734,aasm/aasm,Ruby,10
-96071,rack/rack,Ruby,17
+96071,rack/rack,Ruby,18
 6768710,redmine/redmine,Ruby,14
 115859973,ddnexus/pagy,Ruby,28
