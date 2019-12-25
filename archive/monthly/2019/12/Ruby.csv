@@ -1,14 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,259
-65252,jekyll/jekyll,Ruby,285
-27442967,fastlane/fastlane,Ruby,341
-8681349,huginn/huginn,Ruby,3860
-21600440,bayandin/awesome-awesomeness,Ruby,192
+8514,rails/rails,Ruby,261
+65252,jekyll/jekyll,Ruby,286
+8681349,huginn/huginn,Ruby,3861
+21600440,bayandin/awesome-awesomeness,Ruby,194
 308770,plataformatec/devise,Ruby,78
-481872,hashicorp/vagrant,Ruby,142
-2293158,rapid7/metasploit-framework,Ruby,349
+2293158,rapid7/metasploit-framework,Ruby,351
 3623050,Homebrew/homebrew-cask,Ruby,158
-37382858,kilimchoi/engineering-blogs,Ruby,158
 4095287,rubocop-hq/rubocop,Ruby,89
 812393,ruby-grape/grape,Ruby,40
 611921,activeadmin/activeadmin,Ruby,36
@@ -16,11 +13,14 @@ id,name,lang,new stars
 52855516,Homebrew/homebrew-core,Ruby,142
 2441517,puma/puma,Ruby,36
 72754314,chyingp/nodejs-learning-guide,Ruby,101
-417389,lostisland/faraday,Ruby,40
+5160706,bkeepers/dotenv,Ruby,38
 4994614,wpscanteam/wpscan,Ruby,82
 75785147,rails/webpacker,Ruby,40
 1548802,activerecord-hackery/ransack,Ruby,27
 96071,rack/rack,Ruby,31
 6768710,redmine/redmine,Ruby,37
+417862,octokit/octokit.rb,Ruby,22
+51164398,oracle/truffleruby,Ruby,50
+138776049,sorbet/sorbet,Ruby,94
 3898922,zammad/zammad,Ruby,55
 63882194,projectcalico/calico,Ruby,68
