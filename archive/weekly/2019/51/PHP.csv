@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,165
-3482588,danielmiessler/SecLists,PHP,139
+1863329,laravel/laravel,PHP,168
+3482588,danielmiessler/SecLists,PHP,143
 2234102,bcit-ci/CodeIgniter,PHP,35
 2889328,WordPress/WordPress,PHP,45
 1631570,nikic/PHP-Parser,PHP,59
 2854337,phalcon/cphalcon,PHP,27
 8678290,barryvdh/laravel-ide-helper,PHP,38
-60243197,nextcloud/server,PHP,74
-82238168,monicahq/monica,PHP,769
+60243197,nextcloud/server,PHP,77
+82238168,monicahq/monica,PHP,773
 656494,cakephp/cakephp,PHP,15
 30171828,rappasoft/laravel-boilerplate,PHP,33
 60491949,fecshop/yii2_fecshop,PHP,53
@@ -18,9 +18,9 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,36
 69691727,pmmp/PocketMine-MP,PHP,14
 3690423,PHPGangsta/GoogleAuthenticator,PHP,12
-170355508,livewire/livewire,PHP,61
+170355508,livewire/livewire,PHP,62
 29501260,api-platform/core,PHP,7
-81873619,iluminar/goodwork,PHP,13
+81873619,iluminar/goodwork,PHP,14
 83650803,babenkoivan/scout-elasticsearch-driver,PHP,11
 215064619,laravel-shift/blueprint,PHP,236
 99055702,ssrpanel/SSRPanel,PHP,17
