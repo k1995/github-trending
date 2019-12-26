@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1864363,composer/composer,PHP,363
-7548986,laravel/framework,PHP,314
-1420053,guzzle/guzzle,PHP,290
+7548986,laravel/framework,PHP,316
+1420053,guzzle/guzzle,PHP,292
 448045,sebastianbergmann/phpunit,PHP,269
 4916869,ramsey/uuid,PHP,190
 8678290,barryvdh/laravel-ide-helper,PHP,156
-82238168,monicahq/monica,PHP,842
+82238168,monicahq/monica,PHP,845
 29843361,overtrue/wechat,PHP,96
-49014795,phpstan/phpstan,PHP,190
+49014795,phpstan/phpstan,PHP,191
 330275,twigphp/Twig,PHP,120
 2179920,woocommerce/woocommerce,PHP,69
 14716368,invoiceninja/invoiceninja,PHP,78
@@ -17,10 +17,10 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,118
 70239358,cytopia/devilbox,PHP,59
 95011974,akaunting/akaunting,PHP,166
-97311017,rectorphp/rector,PHP,309
-222873550,bytefury/crater,PHP,1707
+97311017,rectorphp/rector,PHP,310
+222873550,bytefury/crater,PHP,1709
 1095228,sonata-project/SonataAdminBundle,PHP,23
 69691727,pmmp/PocketMine-MP,PHP,49
 1307238,phpmd/phpmd,PHP,40
 174021137,inertiajs/pingcrm,PHP,87
-195836215,magicblack/maccms10,PHP,79
+195836215,magicblack/maccms10,PHP,80
