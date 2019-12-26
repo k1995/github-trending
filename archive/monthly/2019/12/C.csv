@@ -1,13 +1,13 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,1156
+10744183,netdata/netdata,C,1154
 156018,antirez/redis,C,666
 111583593,Genymobile/scrcpy,C,1689
-1614410,FFmpeg/FFmpeg,C,441
-36836475,tmux/tmux,C,405
+1614410,FFmpeg/FFmpeg,C,440
+36836475,tmux/tmux,C,406
 18666758,pjreddie/darknet,C,423
 62156403,QSCTech/zju-icicles,C,392
-14812739,libuv/libuv,C,231
-20159867,nothings/stb,C,349
+14812739,libuv/libuv,C,229
+20159867,nothings/stb,C,348
 37912398,nginx/nginx,C,888
 32969220,esp8266/Arduino,C,187
 15337142,micropython/micropython,C,247
@@ -16,9 +16,9 @@ id,name,lang,new stars
 102578345,coolsnowwolf/lede,C,849
 5414488,cesanta/mongoose,C,85
 3299208,videolan/vlc,C,120
-45821540,openwrt/openwrt,C,201
+45821540,openwrt/openwrt,C,199
 117948953,Atmosphere-NX/Atmosphere,C,190
-3671479,nmap/nmap,C,109
+3671479,nmap/nmap,C,108
 50824485,processhacker/processhacker,C,125
 59771425,zephyrproject-rtos/zephyr,C,148
 40306512,LuaJIT/LuaJIT,C,58

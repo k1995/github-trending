@@ -1,13 +1,13 @@
 id,name,lang,new stars
-23096959,golang/go,Go,356
-21540759,avelino/awesome-go,Go,281
-11180687,gohugoio/hugo,Go,239
+23096959,golang/go,Go,354
+21540759,avelino/awesome-go,Go,280
+11180687,gohugoio/hugo,Go,238
 20904437,gin-gonic/gin,Go,250
 48378947,fatedier/frp,Go,327
 112567264,iikira/BaiduPCS-Go,Go,267
-37448451,mattermost/mattermost-server,Go,142
-30215630,go-kit/kit,Go,183
-29217054,micro/go-micro,Go,238
+37448451,mattermost/mattermost-server,Go,141
+30215630,go-kit/kit,Go,182
+29217054,micro/go-micro,Go,247
 13624859,gorilla/websocket,Go,86
 123572362,quii/learn-go-with-tests,Go,98
 7083242,go-sql-driver/mysql,Go,60
@@ -16,11 +16,11 @@ id,name,lang,new stars
 66841911,360EntSecGroup-Skylar/excelize,Go,64
 169948217,crawlab-team/crawlab,Go,582
 43526066,aelsabbahy/goss,Go,53
-37334619,golang/mock,Go,65
+37334619,golang/mock,Go,63
 54539060,allegro/bigcache,Go,366
-82700090,uber/cadence,Go,55
+82700090,uber/cadence,Go,53
 134539560,weaveworks/eksctl,Go,55
-201954234,xiaoming2028/Free-PAC,Go,252
-209932113,GuoZhaoran/spikeSystem,Go,151
+201954234,xiaoming2028/Free-PAC,Go,248
+209932113,GuoZhaoran/spikeSystem,Go,149
 171396748,chubaofs/chubaofs,Go,276
 1380117,getlantern/lantern,Go,110
