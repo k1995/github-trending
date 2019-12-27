@@ -2,7 +2,7 @@ id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,50
 1181927,bitcoin/bitcoin,C++,15
 5108051,opencv/opencv,C++,35
-65600975,pytorch/pytorch,C++,30
+65600975,pytorch/pytorch,C++,33
 27729880,grpc/grpc,C++,20
 54360307,uNetworking/uWebSockets,C++,8
 80286288,arendst/Tasmota,C++,17
@@ -11,7 +11,7 @@ id,name,lang,new stars
 3925242,bkaradzic/bgfx,C++,2
 9090933,capnproto/capnproto,C++,9
 1605598,bulletphysics/bullet3,C++,2
-24227875,liuruoze/EasyPR,C++,5
+24227875,liuruoze/EasyPR,C++,6
 19614405,Mooophy/Cpp-Primer,C++,8
 7512484,ArduPilot/ardupilot,C++,5
 14303048,mamedev/mame,C++,10
@@ -19,7 +19,7 @@ id,name,lang,new stars
 75821432,llvm/llvm-project,C++,17
 104621881,zeusees/HyperLPR,C++,9
 42895929,intel/hyperscan,C++,35
-221822577,Tencent/Hippy,C++,1549
+221822577,Tencent/Hippy,C++,1553
 61980658,azerothcore/azerothcore-wotlk,C++,0
 210549660,AnkerLeng/Cpp-0-1-Resource,C++,6
 218686763,tindy2013/subconverter,C++,20
