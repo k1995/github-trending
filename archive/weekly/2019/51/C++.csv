@@ -1,9 +1,9 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,194
 44838949,apple/swift,C++,72
-15634981,godotengine/godot,C++,163
+15634981,godotengine/godot,C++,165
 1357796,emscripten-core/emscripten,C++,55
-22067521,ocornut/imgui,C++,250
+22067521,ocornut/imgui,C++,251
 11171548,nlohmann/json,C++,87
 24420506,v8/v8,C++,75
 74627617,commaai/openpilot,C++,83
@@ -15,12 +15,12 @@ id,name,lang,new stars
 29518121,ShiqiYu/libfacedetection,C++,29
 40892817,ethereum/solidity,C++,31
 648343,chenshuo/muduo,C++,39
-104732438,radareorg/cutter,C++,117
+104732438,radareorg/cutter,C++,118
 37821236,SaschaWillems/Vulkan,C++,24
 107794782,trojan-gfw/trojan,C++,187
-75821432,llvm/llvm-project,C++,79
-42895929,intel/hyperscan,C++,207
+75821432,llvm/llvm-project,C++,80
+42895929,intel/hyperscan,C++,208
 184657328,NVIDIA/TensorRT,C++,39
 52882701,prusa3d/PrusaSlicer,C++,24
-76990209,Aircoookie/WLED,C++,80
+76990209,Aircoookie/WLED,C++,81
 131630299,onnx/onnx-tensorrt,C++,21
