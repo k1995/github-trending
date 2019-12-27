@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,135
-3482588,danielmiessler/SecLists,PHP,112
+1863329,laravel/laravel,PHP,141
+3482588,danielmiessler/SecLists,PHP,113
 2234102,bcit-ci/CodeIgniter,PHP,30
 2889328,WordPress/WordPress,PHP,37
-1631570,nikic/PHP-Parser,PHP,41
+1631570,nikic/PHP-Parser,PHP,42
 2854337,phalcon/cphalcon,PHP,24
 8678290,barryvdh/laravel-ide-helper,PHP,27
 60243197,nextcloud/server,PHP,62
-82238168,monicahq/monica,PHP,775
+82238168,monicahq/monica,PHP,777
 656494,cakephp/cakephp,PHP,12
 30171828,rappasoft/laravel-boilerplate,PHP,29
-60491949,fecshop/yii2_fecshop,PHP,44
+60491949,fecshop/yii2_fecshop,PHP,45
 10883164,barryvdh/laravel-dompdf,PHP,13
 2464908,joomla/joomla-cms,PHP,10
 30713379,andersao/l5-repository,PHP,6
@@ -18,9 +18,9 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,30
 69691727,pmmp/PocketMine-MP,PHP,9
 3690423,PHPGangsta/GoogleAuthenticator,PHP,12
-170355508,livewire/livewire,PHP,60
+170355508,livewire/livewire,PHP,62
 29501260,api-platform/core,PHP,2
 81873619,iluminar/goodwork,PHP,12
 83650803,babenkoivan/scout-elasticsearch-driver,PHP,9
-215064619,laravel-shift/blueprint,PHP,197
+215064619,laravel-shift/blueprint,PHP,199
 99055702,ssrpanel/SSRPanel,PHP,15
