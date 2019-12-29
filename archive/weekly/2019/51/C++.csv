@@ -1,14 +1,14 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,297
+5108051,opencv/opencv,C++,301
 15634981,godotengine/godot,C++,211
 22067521,ocornut/imgui,C++,278
 1116542,aria2/aria2,C++,149
 24420506,v8/v8,C++,88
 31522041,vnpy/vnpy,C++,67
 1217614,xbmc/xbmc,C++,97
-125098880,ValveSoftware/Proton,C++,82
-60246359,ClickHouse/ClickHouse,C++,145
-67702184,topjohnwu/Magisk,C++,106
+125098880,ValveSoftware/Proton,C++,83
+60246359,ClickHouse/ClickHouse,C++,149
+67702184,topjohnwu/Magisk,C++,113
 126412363,lemire/simdjson,C++,310
 95879426,Tencent/ncnn,C++,76
 303762,acaudwell/Gource,C++,74
@@ -16,11 +16,11 @@ id,name,lang,new stars
 34777562,ossrs/srs,C++,64
 648343,chenshuo/muduo,C++,55
 2200856,MarlinFirmware/Marlin,C++,57
+47690142,CoatiSoftware/Sourcetrail,C++,942
 104732438,radareorg/cutter,C++,148
-47690142,CoatiSoftware/Sourcetrail,C++,919
-107794782,trojan-gfw/trojan,C++,315
+107794782,trojan-gfw/trojan,C++,328
 75821432,llvm/llvm-project,C++,102
-221822577,Tencent/Hippy,C++,2657
+221822577,Tencent/Hippy,C++,2663
 5909706,yhirose/cpp-httplib,C++,53
-146459443,vesoft-inc/nebula,C++,122
+146459443,vesoft-inc/nebula,C++,127
 114969824,adnanaziz/EPIJudge,C++,26
