@@ -29,7 +29,10 @@ while True:
     now = datetime.now()
     if now.minute == 0:
         subprocess.call(["scrapy", "crawl", "trending"])
-        push2github()
+        try:
+            push2github()
+        except:
+            pass
         time.sleep(60 * 50)
     else:
         time.sleep(1)
