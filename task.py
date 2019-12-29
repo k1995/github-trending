@@ -21,7 +21,10 @@ def push2github():
             mod_count += 1
     if mod_count > 0:
         repo.index.commit("crawler auto commit")
-        remote.push()
+        try:
+            remote.push()
+        except:
+            pass
 
 
 while True:
@@ -29,10 +32,9 @@ while True:
     now = datetime.now()
     if now.minute == 0:
         subprocess.call(["scrapy", "crawl", "trending"])
-        try:
+        # Commit every 3h
+        if now.hour % 3 == 0:
             push2github()
-        except:
-            pass
         time.sleep(60 * 50)
     else:
         time.sleep(1)
