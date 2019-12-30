@@ -1,7 +1,7 @@
 id,name,lang,new stars
 41912791,v2ray/v2ray-core,Go,100
 15452919,ethereum/go-ethereum,Go,33
-138547797,FiloSottile/mkcert,Go,125
+138547797,FiloSottile/mkcert,Go,147
 112567264,iikira/BaiduPCS-Go,Go,92
 17803236,rclone/rclone,Go,59
 13628513,sirupsen/logrus,Go,46
@@ -22,5 +22,5 @@ id,name,lang,new stars
 187403699,FiloSottile/age,Go,1180
 202523140,alexellis/k3sup,Go,16
 85765458,uber-go/dig,Go,28
-207685110,geph-official/geph2,Go,163
+207685110,geph-official/geph2,Go,186
 142159904,zhiqiangxu/qrpc,Go,34
