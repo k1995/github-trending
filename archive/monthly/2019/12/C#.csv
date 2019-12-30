@@ -1,11 +1,11 @@
 id,name,lang,new stars
-17620347,aspnet/AspNetCore,C#,563
+17620347,aspnet/AspNetCore,C#,566
 29078997,dotnet/roslyn,C#,139
-70104825,dotnet-architecture/eShopOnContainers,C#,345
+70104825,dotnet-architecture/eShopOnContainers,C#,348
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,418
 959908,OpenRA/OpenRA,C#,97
 75990888,dotnet/csharplang,C#,185
-161012019,jellyfin/jellyfin,C#,501
+161012019,jellyfin/jellyfin,C#,505
 88064357,QL-Win/QuickLook,C#,236
 18586705,nopSolutions/nopCommerce,C#,144
 22456440,ppy/osu,C#,214
@@ -13,14 +13,14 @@ id,name,lang,new stars
 26884725,OrchardCMS/OrchardCore,C#,115
 64290739,dodyg/practical-aspnetcore,C#,81
 70584079,JasonGT/NorthwindTraders,C#,225
-27251463,QuantConnect/Lean,C#,112
+27251463,QuantConnect/Lean,C#,114
 75505125,abpframework/abp,C#,215
 38992233,sunkaixuan/SqlSugar,C#,130
-23550423,Jays2Kings/DS4Windows,C#,69
+23550423,Jays2Kings/DS4Windows,C#,70
 23891194,Azure/azure-powershell,C#,63
-76100575,Cysharp/MagicOnion,C#,123
+76100575,Cysharp/MagicOnion,C#,125
 145101484,anjoy8/Blog.Core,C#,179
 210716005,dotnet/runtime,C#,724
 115516512,ivanpaulovich/clean-architecture-manga,C#,159
 213460285,JasonGT/CleanArchitecture,C#,505
-168957647,kgrzybek/sample-dotnet-core-cqrs-api,C#,67
+168957647,kgrzybek/sample-dotnet-core-cqrs-api,C#,68

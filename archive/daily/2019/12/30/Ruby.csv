@@ -4,7 +4,7 @@ id,name,lang,new stars
 7569578,discourse/discourse,Ruby,33
 8681349,huginn/huginn,Ruby,73
 52281283,tootsuite/mastodon,Ruby,32
-2293158,rapid7/metasploit-framework,Ruby,64
+2293158,rapid7/metasploit-framework,Ruby,67
 538746,ruby/ruby,Ruby,29
 3623050,Homebrew/homebrew-cask,Ruby,19
 37382858,kilimchoi/engineering-blogs,Ruby,40
@@ -14,7 +14,7 @@ id,name,lang,new stars
 1918677,fluent/fluentd,Ruby,15
 11423758,mame/quine-relay,Ruby,78
 52855516,Homebrew/homebrew-core,Ruby,23
-75785147,rails/webpacker,Ruby,5
+75785147,rails/webpacker,Ruby,6
 447184,rspec/rspec-rails,Ruby,8
 2185269,busyloop/lolcat,Ruby,12
 202291859,chatwoot/chatwoot,Ruby,31

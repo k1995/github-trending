@@ -1,20 +1,20 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1764
-15634981,godotengine/godot,C++,793
-22067521,ocornut/imgui,C++,666
+45717250,tensorflow/tensorflow,C++,1767
+15634981,godotengine/godot,C++,794
+22067521,ocornut/imgui,C++,669
 6934395,facebook/rocksdb,C++,321
 74627617,commaai/openpilot,C++,347
-60273704,mozilla/DeepSpeech,C++,848
+60273704,mozilla/DeepSpeech,C++,849
 80286288,arendst/Tasmota,C++,511
 126412363,lemire/simdjson,C++,469
-3351871,qbittorrent/qBittorrent,C++,366
+3351871,qbittorrent/qBittorrent,C++,367
 2200856,MarlinFirmware/Marlin,C++,245
 104732438,radareorg/cutter,C++,464
 204593825,microsoft/STL,C++,305
-14303048,mamedev/mame,C++,71
-4454793,musescore/MuseScore,C++,123
-107794782,trojan-gfw/trojan,C++,1136
-39211337,flutter/engine,C++,131
+14303048,mamedev/mame,C++,72
+4454793,musescore/MuseScore,C++,124
+107794782,trojan-gfw/trojan,C++,1156
+39211337,flutter/engine,C++,132
 108102826,carla-simulator/carla,C++,260
 1690480,qgis/QGIS,C++,107
 88327406,xmrig/xmrig,C++,126
@@ -23,4 +23,4 @@ id,name,lang,new stars
 156939672,microsoft/onnxruntime,C++,181
 15667250,ceres-solver/ceres-solver,C++,63
 220810918,idealvin/co,C++,1205
-76990209,Aircoookie/WLED,C++,329
+76990209,Aircoookie/WLED,C++,330
