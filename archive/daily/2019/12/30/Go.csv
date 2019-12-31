@@ -1,14 +1,14 @@
 id,name,lang,new stars
 41912791,v2ray/v2ray-core,Go,100
 15452919,ethereum/go-ethereum,Go,33
-138547797,FiloSottile/mkcert,Go,147
-112567264,iikira/BaiduPCS-Go,Go,92
+138547797,FiloSottile/mkcert,Go,157
+112567264,iikira/BaiduPCS-Go,Go,23
 17803236,rclone/rclone,Go,59
 13628513,sirupsen/logrus,Go,46
 11393110,urfave/cli,Go,42
 53632140,zyedidia/micro,Go,23
 21405028,ardanlabs/gotraining,Go,62
-125642885,developer-learning/night-reading-go,Go,42
+125642885,developer-learning/night-reading-go,Go,22
 136815833,Dreamacro/clash,Go,61
 28366058,docker/distribution,Go,16
 30219994,adonovan/gopl.io,Go,15
@@ -22,5 +22,5 @@ id,name,lang,new stars
 187403699,FiloSottile/age,Go,1180
 202523140,alexellis/k3sup,Go,16
 85765458,uber-go/dig,Go,28
-207685110,geph-official/geph2,Go,186
+207685110,geph-official/geph2,Go,28
 142159904,zhiqiangxu/qrpc,Go,34

@@ -5,19 +5,18 @@ id,name,lang,new stars
 52281283,tootsuite/mastodon,Ruby,32
 20619036,pi-hole/pi-hole,Shell,89
 116167731,yuzu-emu/yuzu,C++,42
-171795571,ShusenTang/Dive-into-DL-PyTorch,Jupyter Notebook,129
 78313173,lexfridman/mit-deep-learning,Jupyter Notebook,190
+171795571,ShusenTang/Dive-into-DL-PyTorch,Jupyter Notebook,159
 102578345,coolsnowwolf/lede,C,122
-9524997,glfw/glfw,C,12
+9524997,glfw/glfw,C,26
 135673451,microsoft/nni,Python,424
 107794782,trojan-gfw/trojan,C++,180
 141482866,toniblyx/my-arsenal-of-aws-security-tools,Shell,156
-140943444,benedekrozemberczki/awesome-graph-classification,,57
-91977145,brentsimmons/NetNewsWire,Swift,39
 91222097,kkroening/ffmpeg-python,Python,352
+91977145,brentsimmons/NetNewsWire,Swift,39
 187403699,FiloSottile/age,Go,1180
 229511243,iamshuaidi/CS-Book,,590
-230327376,ErikCH/DevYouTubeList,,274
+230327376,ErikCH/DevYouTubeList,,666
 230595891,launchbadge/sqlx,Rust,361
 229067690,mr-hashemi/mr-hashemi,Java,184
 229937482,neeru1207/AI_Sudoku,Python,66
