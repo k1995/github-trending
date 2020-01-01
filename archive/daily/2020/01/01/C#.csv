@@ -1,10 +1,10 @@
 id,name,lang,new stars
-17620347,aspnet/AspNetCore,C#,27
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,19
+17620347,aspnet/AspNetCore,C#,18
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,15
 143460965,GoogleCloudPlatform/microservices-demo,C#,9
 28232663,dotnet/orleans,C#,3
 46652227,IdentityServer/IdentityServer4,C#,6
-142076747,microsoft/ailab,C#,49
+142076747,microsoft/ailab,C#,32
 17369361,jbogard/MediatR,C#,8
 26884725,OrchardCMS/OrchardCore,C#,5
 743436,egametang/ET,C#,9
@@ -13,9 +13,9 @@ id,name,lang,new stars
 203892454,kgrzybek/modular-monolith-with-ddd,C#,6
 78049091,aelassas/Wexflow,C#,6
 2928944,Azure/azure-sdk-for-net,C#,0
-210716005,dotnet/runtime,C#,38
-169597853,cobbr/Covenant,C#,8
-60366923,asadsahi/AspNetCoreSpa,C#,11
+210716005,dotnet/runtime,C#,45
+169597853,cobbr/Covenant,C#,7
+60366923,asadsahi/AspNetCoreSpa,C#,8
 23918333,paolosalvatori/ServiceBusExplorer,C#,2
 47261966,grandnode/grandnode,C#,1
 151623607,dotnet/iot,C#,2

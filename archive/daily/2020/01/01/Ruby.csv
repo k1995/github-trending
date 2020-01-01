@@ -1,17 +1,17 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,10
 7569578,discourse/discourse,Ruby,14
-52281283,tootsuite/mastodon,Ruby,47
-73648678,thepracticaldev/dev.to,Ruby,32
+52281283,tootsuite/mastodon,Ruby,20
+73648678,thepracticaldev/dev.to,Ruby,20
 138312,capistrano/capistrano,Ruby,3
-106995,sinatra/sinatra,Ruby,5
-3195124,mperham/sidekiq,Ruby,3
+106995,sinatra/sinatra,Ruby,3
+3195124,mperham/sidekiq,Ruby,1
 88740103,postalhq/postal,Ruby,4
 611921,activeadmin/activeadmin,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,2
 108278,chef/chef,Ruby,4
 26018608,github-changelog-generator/github-changelog-generator,Ruby,2
-9906653,ankane/chartkick,Ruby,3
+9906653,ankane/chartkick,Ruby,2
 11412473,ankane/searchkick,Ruby,1
 2889230,rails-api/active_model_serializers,Ruby,1
 507,sferik/twitter,Ruby,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,1
 238986,rspec/rspec-expectations,Ruby,1
 238983,rspec/rspec-mocks,Ruby,0
-230328900,donmelton/other_video_transcoding,Ruby,39
+230328900,donmelton/other_video_transcoding,Ruby,40
