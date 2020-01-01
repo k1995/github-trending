@@ -1,20 +1,20 @@
 id,name,lang,new stars
 7600409,shadowsocks/shadowsocks-windows,C#,242
-17620347,aspnet/AspNetCore,C#,132
+17620347,aspnet/AspNetCore,C#,131
 38380854,0xd4d/dnSpy,C#,74
 959908,OpenRA/OpenRA,C#,27
 1579990,MonoGame/MonoGame,C#,30
-142076747,microsoft/ailab,C#,64
-2465723,Sonarr/Sonarr,C#,24
+142076747,microsoft/ailab,C#,65
+2465723,Sonarr/Sonarr,C#,23
 44897462,JustArchiNET/ArchiSteamFarm,C#,32
-88064357,QL-Win/QuickLook,C#,78
+88064357,QL-Win/QuickLook,C#,79
 199570071,2dust/v2rayN,C#,201
 22456440,ppy/osu,C#,44
 45195614,Jackett/Jackett,C#,54
-77323220,Radarr/Radarr,C#,31
+77323220,Radarr/Radarr,C#,30
 27251463,QuantConnect/Lean,C#,29
 743436,egametang/ET,C#,29
-75505125,abpframework/abp,C#,57
+75505125,abpframework/abp,C#,61
 38992233,sunkaixuan/SqlSugar,C#,32
 198071756,huiyadanli/RevokeMsgPatcher,C#,96
 39787202,nefarius/ScpToolkit,C#,14
@@ -23,4 +23,4 @@ id,name,lang,new stars
 52522046,tidusjar/Ombi,C#,15
 134707912,dotnetcore/WTM,C#,26
 145101484,anjoy8/Blog.Core,C#,52
-60366923,asadsahi/AspNetCoreSpa,C#,24
+60366923,asadsahi/AspNetCoreSpa,C#,23
