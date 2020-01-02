@@ -1,12 +1,11 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,329
+111583593,Genymobile/scrcpy,C,306
 1614410,FFmpeg/FFmpeg,C,99
-13233158,obsproject/obs-studio,C,103
 62156403,QSCTech/zju-icicles,C,102
 20159867,nothings/stb,C,51
 6201092,mpv-player/mpv,C,83
 32969220,esp8266/Arduino,C,47
-5254557,cloudwu/skynet,C,33
 15583310,SoftEtherVPN/SoftEtherVPN,C,36
 102578345,coolsnowwolf/lede,C,323
 78281075,spacehuhn/esp8266_deauther,C,56
@@ -15,12 +14,13 @@ id,name,lang,new stars
 45821540,openwrt/openwrt,C,45
 437011,zfsonlinux/zfs,C,25
 65899476,espressif/esp-idf,C,50
-7408108,RT-Thread/rt-thread,C,41
-203957456,Tencent/TencentOS-tiny,C,66
+7408108,RT-Thread/rt-thread,C,43
 3791835,darktable-org/darktable,C,241
+114102,grbl/grbl,C,18
 3565909,raspberrypi/firmware,C,18
 63477515,TheAlgorithms/C,C,44
 60667730,littlevgl/lvgl,C,42
+15120676,libusb/libusb,C,23
+184909163,koekeishiya/yabai,C,49
 68751856,gnea/grbl,C,18
 162378023,cx9208/bbrplus,C,45
-209464640,momotech/MLN,C,131

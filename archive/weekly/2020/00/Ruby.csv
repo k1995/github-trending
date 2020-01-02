@@ -1,7 +1,6 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,49
 65252,jekyll/jekyll,Ruby,56
-7569578,discourse/discourse,Ruby,53
 13840241,freeCodeCamp/devdocs,Ruby,49
 52281283,tootsuite/mastodon,Ruby,90
 2293158,rapid7/metasploit-framework,Ruby,102
@@ -9,18 +8,19 @@ id,name,lang,new stars
 37382858,kilimchoi/engineering-blogs,Ruby,54
 2203645,CocoaPods/CocoaPods,Ruby,14
 73648678,thepracticaldev/dev.to,Ruby,71
-1090311,elastic/logstash,Ruby,29
 106995,sinatra/sinatra,Ruby,17
+361310,teamcapybara/capybara,Ruby,7
 11423758,mame/quine-relay,Ruby,106
 96395,faker-ruby/faker,Ruby,12
 1333863,kaminari/kaminari,Ruby,10
-451035,plataformatec/simple_form,Ruby,5
-1725199,github/linguist,Ruby,29
+1725199,github/linguist,Ruby,20
+6688319,DeathKing/Learning-SICP,Ruby,52
 1145832,pry/pry,Ruby,13
 488514,bundler/bundler,Ruby,8
-4994614,wpscanteam/wpscan,Ruby,21
-447184,rspec/rspec-rails,Ruby,12
+2185269,busyloop/lolcat,Ruby,17
 1462,ctran/annotate_models,Ruby,7
+5967893,influitive/apartment,Ruby,4
+41571541,inspec/inspec,Ruby,6
+103766152,github/explore,Ruby,11
 85402340,castwide/solargraph,Ruby,9
-154027884,samber/awesome-prometheus-alerts,Ruby,19
-1794012,heroku/heroku-buildpack-ruby,Ruby,0
+154027884,samber/awesome-prometheus-alerts,Ruby,18

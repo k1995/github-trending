@@ -1,11 +1,10 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,250
-65252,jekyll/jekyll,Ruby,276
-8681349,huginn/huginn,Ruby,3871
+65252,jekyll/jekyll,Ruby,278
+8681349,huginn/huginn,Ruby,3872
 21600440,bayandin/awesome-awesomeness,Ruby,198
 13840241,freeCodeCamp/devdocs,Ruby,240
-308770,plataformatec/devise,Ruby,77
-2293158,rapid7/metasploit-framework,Ruby,324
+2293158,rapid7/metasploit-framework,Ruby,326
 538746,ruby/ruby,Ruby,106
 3623050,Homebrew/homebrew-cask,Ruby,164
 4095287,rubocop-hq/rubocop,Ruby,82
@@ -15,12 +14,13 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,88
 6688319,DeathKing/Learning-SICP,Ruby,151
 2441517,puma/puma,Ruby,33
+910744,puppetlabs/puppet,Ruby,47
+72754314,chyingp/nodejs-learning-guide,Ruby,98
+488514,bundler/bundler,Ruby,33
 4994614,wpscanteam/wpscan,Ruby,83
 447184,rspec/rspec-rails,Ruby,34
 2185269,busyloop/lolcat,Ruby,49
 96071,rack/rack,Ruby,32
-1462,ctran/annotate_models,Ruby,27
 417862,octokit/octokit.rb,Ruby,23
 614070,rubygems/rubygems,Ruby,11
 3898922,zammad/zammad,Ruby,61
-63882194,projectcalico/calico,Ruby,69

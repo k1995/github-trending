@@ -1,13 +1,13 @@
 id,name,lang,new stars
-7600409,shadowsocks/shadowsocks-windows,C#,1019
-17620347,aspnet/AspNetCore,C#,518
-38380854,0xd4d/dnSpy,C#,344
+7600409,shadowsocks/shadowsocks-windows,C#,1034
+38380854,0xd4d/dnSpy,C#,345
 29078997,dotnet/roslyn,C#,125
 70104825,dotnet-architecture/eShopOnContainers,C#,321
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,365
-959908,OpenRA/OpenRA,C#,97
-161012019,jellyfin/jellyfin,C#,477
+959908,OpenRA/OpenRA,C#,95
+161012019,jellyfin/jellyfin,C#,480
+44897462,JustArchiNET/ArchiSteamFarm,C#,127
 88064357,QL-Win/QuickLook,C#,246
+199570071,2dust/v2rayN,C#,908
 22456440,ppy/osu,C#,202
 77323220,Radarr/Radarr,C#,110
 26884725,OrchardCMS/OrchardCore,C#,109
@@ -15,12 +15,12 @@ id,name,lang,new stars
 70584079,JasonGT/NorthwindTraders,C#,214
 27251463,QuantConnect/Lean,C#,108
 75505125,abpframework/abp,C#,207
-38992233,sunkaixuan/SqlSugar,C#,116
 23550423,Jays2Kings/DS4Windows,C#,63
 23891194,Azure/azure-powershell,C#,61
 145101484,anjoy8/Blog.Core,C#,182
-98410578,crest-ocean/crest,C#,72
+57452143,bitwarden/mobile,C#,74
 210716005,dotnet/runtime,C#,582
 115516512,ivanpaulovich/clean-architecture-manga,C#,149
-213460285,JasonGT/CleanArchitecture,C#,461
+54377519,PiranhaCMS/piranha.core,C#,45
+213460285,JasonGT/CleanArchitecture,C#,462
 168957647,kgrzybek/sample-dotnet-core-cqrs-api,C#,66
