@@ -1,6 +1,6 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,60
-10744183,netdata/netdata,C,31
+10744183,netdata/netdata,C,37
 908607,numpy/numpy,C,7
 196353673,taosdata/TDengine,C,25
 32969220,esp8266/Arduino,C,4
@@ -9,7 +9,7 @@ id,name,lang,new stars
 102578345,coolsnowwolf/lede,C,105
 78281075,spacehuhn/esp8266_deauther,C,11
 41215835,HandBrake/HandBrake,C,8
-35930805,EZLippi/Tinyhttpd,C,20
+35930805,EZLippi/Tinyhttpd,C,17
 89315980,SecWiki/windows-kernel-exploits,C,4
 19330466,Cyan4973/xxHash,C,4
 3565909,raspberrypi/firmware,C,3
@@ -19,8 +19,8 @@ id,name,lang,new stars
 40596205,tmikolov/word2vec,C,2
 14566872,gnab/rtl8812au,C,2
 108568638,hanwckf/rt-n56u,C,6
-112124421,sobotka/blender,C,5
-230851723,bcoles/kasld,C,36
-155048381,segnolin/Vobfus,C,11
+112124421,sobotka/blender,C,3
+230851723,bcoles/kasld,C,44
 225988954,Xinyuan-LilyGO/LilyGO-T-Wristband,C,9
+155048381,segnolin/Vobfus,C,11
 167136258,socjordi/sauron,C,7

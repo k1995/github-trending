@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,127
+3482588,danielmiessler/SecLists,PHP,119
 7548986,laravel/framework,PHP,76
 2854337,phalcon/cphalcon,PHP,17
 4916869,ramsey/uuid,PHP,47
@@ -16,11 +16,11 @@ id,name,lang,new stars
 63073734,laravel/passport,PHP,13
 38116958,php-telegram-bot/core,PHP,8
 79166184,cretueusebiu/laravel-vue-spa,PHP,16
-139191005,nunomaduro/larastan,PHP,48
-31425145,billz/raspap-webgui,PHP,35
+139191005,nunomaduro/larastan,PHP,61
+31425145,billz/raspap-webgui,PHP,32
 1957456,Dolibarr/dolibarr,PHP,15
 3690423,PHPGangsta/GoogleAuthenticator,PHP,12
 170355508,livewire/livewire,PHP,49
 59965104,nuwave/lighthouse,PHP,22
 96284790,prasathmani/tinyfilemanager,PHP,36
-153069455,collabnix/dockerlabs,PHP,26
+153069455,collabnix/dockerlabs,PHP,55

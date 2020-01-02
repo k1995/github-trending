@@ -1,13 +1,13 @@
 id,name,lang,new stars
-7600409,shadowsocks/shadowsocks-windows,C#,1034
-38380854,0xd4d/dnSpy,C#,345
+7600409,shadowsocks/shadowsocks-windows,C#,1010
+38380854,0xd4d/dnSpy,C#,339
+70104825,dotnet-architecture/eShopOnContainers,C#,313
 29078997,dotnet/roslyn,C#,125
-70104825,dotnet-architecture/eShopOnContainers,C#,321
-959908,OpenRA/OpenRA,C#,95
-161012019,jellyfin/jellyfin,C#,480
+959908,OpenRA/OpenRA,C#,91
+161012019,jellyfin/jellyfin,C#,473
 44897462,JustArchiNET/ArchiSteamFarm,C#,127
 88064357,QL-Win/QuickLook,C#,246
-199570071,2dust/v2rayN,C#,908
+199570071,2dust/v2rayN,C#,888
 22456440,ppy/osu,C#,202
 77323220,Radarr/Radarr,C#,110
 26884725,OrchardCMS/OrchardCore,C#,109
@@ -22,5 +22,5 @@ id,name,lang,new stars
 210716005,dotnet/runtime,C#,582
 115516512,ivanpaulovich/clean-architecture-manga,C#,149
 54377519,PiranhaCMS/piranha.core,C#,45
-213460285,JasonGT/CleanArchitecture,C#,462
+213460285,JasonGT/CleanArchitecture,C#,455
 168957647,kgrzybek/sample-dotnet-core-cqrs-api,C#,66
