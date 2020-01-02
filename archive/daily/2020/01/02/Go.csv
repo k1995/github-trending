@@ -1,9 +1,9 @@
 id,name,lang,new stars
 14125254,hashicorp/consul,Go,18
 43723161,helm/helm,Go,20
-156084530,cnlh/nps,Go,77
+156084530,cnlh/nps,Go,75
 8966356,hashicorp/packer,Go,6
-123572362,quii/learn-go-with-tests,Go,308
+123572362,quii/learn-go-with-tests,Go,76
 129717717,grafana/loki,Go,16
 23247808,rqlite/rqlite,Go,17
 136815833,Dreamacro/clash,Go,35
@@ -23,4 +23,4 @@ id,name,lang,new stars
 171396748,chubaofs/chubaofs,Go,37
 65701121,qiangxue/go-restful-api,Go,10
 204860917,cnbattle/douyin,Go,9
-206213815,pingcap/chaos-mesh,Go,189
+206213815,pingcap/chaos-mesh,Go,198
