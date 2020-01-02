@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,594
-7548986,laravel/framework,PHP,309
-1420053,guzzle/guzzle,PHP,261
+1863329,laravel/laravel,PHP,592
+7548986,laravel/framework,PHP,306
+1420053,guzzle/guzzle,PHP,259
 2234102,bcit-ci/CodeIgniter,PHP,120
 448045,sebastianbergmann/phpunit,PHP,243
 2854337,phalcon/cphalcon,PHP,81
 4916869,ramsey/uuid,PHP,194
-60243197,nextcloud/server,PHP,301
+60243197,nextcloud/server,PHP,303
 8678290,barryvdh/laravel-ide-helper,PHP,166
-82238168,monicahq/monica,PHP,905
+82238168,monicahq/monica,PHP,906
 7122594,directus/directus,PHP,219
 7577142,doctrine/annotations,PHP,149
 14716368,invoiceninja/invoiceninja,PHP,85
@@ -16,8 +16,8 @@ id,name,lang,new stars
 120156076,cloudreve/Cloudreve,PHP,135
 74386167,vimeo/psalm,PHP,119
 95011974,akaunting/akaunting,PHP,165
-97311017,rectorphp/rector,PHP,290
-222873550,bytefury/crater,PHP,1633
+97311017,rectorphp/rector,PHP,273
+222873550,bytefury/crater,PHP,1634
 31425145,billz/raspap-webgui,PHP,125
 1307238,phpmd/phpmd,PHP,39
 96284790,prasathmani/tinyfilemanager,PHP,103
