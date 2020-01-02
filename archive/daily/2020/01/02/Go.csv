@@ -1,17 +1,17 @@
 id,name,lang,new stars
 14125254,hashicorp/consul,Go,18
 43723161,helm/helm,Go,20
-156084530,cnlh/nps,Go,75
+156084530,cnlh/nps,Go,77
 8966356,hashicorp/packer,Go,6
-123572362,quii/learn-go-with-tests,Go,76
+123572362,quii/learn-go-with-tests,Go,308
 129717717,grafana/loki,Go,16
 23247808,rqlite/rqlite,Go,17
 136815833,Dreamacro/clash,Go,35
-167596393,derailed/k9s,Go,17
+167596393,derailed/k9s,Go,3
 146641150,tektoncd/pipeline,Go,9
-81355383,mongodb/mongo-go-driver,Go,6
-30219994,adonovan/gopl.io,Go,17
-7515336,davecgh/go-spew,Go,64
+81355383,mongodb/mongo-go-driver,Go,4
+30219994,adonovan/gopl.io,Go,5
+7515336,davecgh/go-spew,Go,27
 93444615,terraform-providers/terraform-provider-aws,Go,5
 196937459,tophubs/TopList,Go,52
 107417113,cookieY/Yearning,Go,10
@@ -22,5 +22,5 @@ id,name,lang,new stars
 191655189,facebookincubator/ent,Go,13
 171396748,chubaofs/chubaofs,Go,37
 65701121,qiangxue/go-restful-api,Go,10
-204860917,cnbattle/douyin,Go,9
-206213815,pingcap/chaos-mesh,Go,198
+204860917,cnbattle/douyin,Go,6
+206213815,pingcap/chaos-mesh,Go,189
