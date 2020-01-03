@@ -1,11 +1,11 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,245
-65252,jekyll/jekyll,Ruby,279
+65252,jekyll/jekyll,Ruby,277
 8681349,huginn/huginn,Ruby,3885
 21600440,bayandin/awesome-awesomeness,Ruby,197
-13840241,freeCodeCamp/devdocs,Ruby,226
-2293158,rapid7/metasploit-framework,Ruby,318
-538746,ruby/ruby,Ruby,104
+13840241,freeCodeCamp/devdocs,Ruby,227
+2293158,rapid7/metasploit-framework,Ruby,315
+538746,ruby/ruby,Ruby,105
 3623050,Homebrew/homebrew-cask,Ruby,163
 4095287,rubocop-hq/rubocop,Ruby,80
 361310,teamcapybara/capybara,Ruby,32
@@ -22,5 +22,5 @@ id,name,lang,new stars
 2185269,busyloop/lolcat,Ruby,49
 96071,rack/rack,Ruby,33
 417862,octokit/octokit.rb,Ruby,21
-614070,rubygems/rubygems,Ruby,11
+614070,rubygems/rubygems,Ruby,10
 3898922,zammad/zammad,Ruby,60
