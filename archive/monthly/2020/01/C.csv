@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1475
-156018,antirez/redis,C,620
+2325298,torvalds/linux,C,1474
+156018,antirez/redis,C,614
 36502,git/git,C,511
-111583593,Genymobile/scrcpy,C,1486
-1614410,FFmpeg/FFmpeg,C,408
-62156403,QSCTech/zju-icicles,C,380
+111583593,Genymobile/scrcpy,C,1472
+1614410,FFmpeg/FFmpeg,C,405
+62156403,QSCTech/zju-icicles,C,375
 14812739,libuv/libuv,C,234
-20159867,nothings/stb,C,292
-37912398,nginx/nginx,C,880
+20159867,nothings/stb,C,293
+37912398,nginx/nginx,C,881
 196353673,taosdata/TDengine,C,232
 32969220,esp8266/Arduino,C,186
 40217904,swaywm/sway,C,133
@@ -20,7 +20,7 @@ id,name,lang,new stars
 3791835,darktable-org/darktable,C,329
 35129809,transmission/transmission,C,127
 5213091,baskerville/bspwm,C,143
-130578889,pymumu/smartdns,C,930
+130578889,pymumu/smartdns,C,928
 122325570,zlgopen/awtk,C,168
 22711802,wine-mirror/wine,C,39
 117944122,LukeSmithxyz/st,C,41

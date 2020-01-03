@@ -3,13 +3,13 @@ id,name,lang,new stars
 51117837,tensorflow/models,Python,33
 596892,pallets/flask,Python,33
 71948498,localstack/localstack,Python,22
-154747577,google-research/bert,Python,34
+154747577,google-research/bert,Python,29
 155220641,huggingface/transformers,Python,82
 24976755,hankcs/HanLP,Python,62
 33884891,apache/airflow,Python,12
 88612945,junyanz/pytorch-CycleGAN-and-pix2pix,Python,13
 2771544,rq/rq,Python,195
-17689377,pre-commit/pre-commit,Python,10
+17689377,pre-commit/pre-commit,Python,8
 178626720,williamFalcon/pytorch-lightning,Python,15
 179728393,microsoft/nlp-recipes,Python,37
 81275248,amdegroot/ssd.pytorch,Python,5

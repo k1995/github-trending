@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,244
-65252,jekyll/jekyll,Ruby,281
-8681349,huginn/huginn,Ruby,3886
-21600440,bayandin/awesome-awesomeness,Ruby,198
+8514,rails/rails,Ruby,245
+65252,jekyll/jekyll,Ruby,277
+8681349,huginn/huginn,Ruby,3898
+21600440,bayandin/awesome-awesomeness,Ruby,197
 13840241,freeCodeCamp/devdocs,Ruby,227
-2293158,rapid7/metasploit-framework,Ruby,305
-538746,ruby/ruby,Ruby,106
-3623050,Homebrew/homebrew-cask,Ruby,164
+2293158,rapid7/metasploit-framework,Ruby,299
+538746,ruby/ruby,Ruby,105
+3623050,Homebrew/homebrew-cask,Ruby,163
 37382858,kilimchoi/engineering-blogs,Ruby,160
 4095287,rubocop-hq/rubocop,Ruby,80
 361310,teamcapybara/capybara,Ruby,32
-812393,ruby-grape/grape,Ruby,39
+812393,ruby-grape/grape,Ruby,40
 611921,activeadmin/activeadmin,Ruby,33
-96395,faker-ruby/faker,Ruby,100
-6688319,DeathKing/Learning-SICP,Ruby,149
+96395,faker-ruby/faker,Ruby,94
+6688319,DeathKing/Learning-SICP,Ruby,146
 2441517,puma/puma,Ruby,34
 72754314,chyingp/nodejs-learning-guide,Ruby,97
 488514,bundler/bundler,Ruby,34
@@ -23,4 +23,4 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,33
 417862,octokit/octokit.rb,Ruby,21
 614070,rubygems/rubygems,Ruby,10
-3898922,zammad/zammad,Ruby,59
+3898922,zammad/zammad,Ruby,57
