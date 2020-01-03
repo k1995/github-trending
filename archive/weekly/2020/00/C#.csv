@@ -1,6 +1,5 @@
 id,name,lang,new stars
 7600409,shadowsocks/shadowsocks-windows,C#,217
-17620347,aspnet/AspNetCore,C#,115
 15315789,Wox-launcher/Wox,C#,75
 38380854,0xd4d/dnSpy,C#,65
 959908,OpenRA/OpenRA,C#,22
@@ -8,19 +7,20 @@ id,name,lang,new stars
 2465723,Sonarr/Sonarr,C#,25
 88064357,QL-Win/QuickLook,C#,69
 199570071,2dust/v2rayN,C#,206
+8835057,xupefei/Locale-Emulator,C#,37
 22456440,ppy/osu,C#,43
 45195614,Jackett/Jackett,C#,46
 77323220,Radarr/Radarr,C#,34
 27251463,QuantConnect/Lean,C#,25
 743436,egametang/ET,C#,24
 75505125,abpframework/abp,C#,42
-38992233,sunkaixuan/SqlSugar,C#,28
-27703983,StockSharp/StockSharp,C#,101
+27703983,StockSharp/StockSharp,C#,114
 198071756,huiyadanli/RevokeMsgPatcher,C#,81
-5297370,kerryjiang/SuperSocket,C#,16
 23550423,Jays2Kings/DS4Windows,C#,24
+52522046,tidusjar/Ombi,C#,15
 145101484,anjoy8/Blog.Core,C#,74
+162222002,2881099/FreeSql,C#,43
+57452143,bitwarden/mobile,C#,22
 169597853,cobbr/Covenant,C#,32
 60366923,asadsahi/AspNetCoreSpa,C#,39
-39425864,tModLoader/tModLoader,C#,6
-182095352,nilaoda/N_m3u8DL-CLI,C#,26
+128650311,dotnetcore/Magicodes.IE,C#,131
