@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,54
+20580498,kubernetes/kubernetes,Go,49
+7691631,moby/moby,Go,14
+43723161,helm/helm,Go,28
+31288958,hashicorp/vault,Go,6
+46806184,helm/charts,Go,13
+6443435,nats-io/nats-server,Go,18
+44350607,kubernetes/dashboard,Go,14
+36653430,hashicorp/nomad,Go,8
+26726495,go-swagger/go-swagger,Go,7
+133067498,kubernetes-sigs/kustomize,Go,14
+167596393,derailed/k9s,Go,19
+148545807,kubernetes-sigs/kind,Go,10
+81355383,mongodb/mongo-go-driver,Go,9
+121086193,99designs/gqlgen,Go,9
+93444615,terraform-providers/terraform-provider-aws,Go,4
+48714685,open-policy-agent/opa,Go,13
+66509131,kubernetes/client-go,Go,2
+130430977,kubesphere/kubesphere,Go,58
+125275487,kubernetes-sigs/kubebuilder,Go,8
+86367047,elastic/go-elasticsearch,Go,6
+105262714,pusher/oauth2_proxy,Go,7
+93446075,terraform-providers/terraform-provider-google,Go,3
+206213815,pingcap/chaos-mesh,Go,346
+49970739,DataDog/datadog-agent,Go,2

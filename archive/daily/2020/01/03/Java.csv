@@ -1,20 +1,20 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,122
-22790488,iluwatar/java-design-patterns,Java,190
-507775,elastic/elasticsearch,Java,48
+132464395,Snailclimb/JavaGuide,Java,208
+22790488,iluwatar/java-design-patterns,Java,207
+507775,elastic/elasticsearch,Java,59
 20300177,google/guava,Java,66
 72907253,ityouknow/spring-boot-examples,Java,45
-20773773,bazelbuild/bazel,Java,9
-4576305,openzipkin/zipkin,Java,14
+20773773,bazelbuild/bazel,Java,12
+4576305,openzipkin/zipkin,Java,15
 47023603,xuxueli/xxl-job,Java,70
-110211147,xkcoding/spring-boot-demo,Java,128
-118497841,GoogleContainerTools/jib,Java,12
+110211147,xkcoding/spring-boot-demo,Java,129
+118497841,GoogleContainerTools/jib,Java,13
 41539051,hongyangAndroid/FlowLayout,Java,4
 80171078,hyb1996/Auto.js,Java,19
 11125589,keycloak/keycloak,Java,14
-16621659,real-logic/aeron,Java,35
-18993814,bytedeco/javacv,Java,10
-181012406,macrozheng/mall-learning,Java,14
+16621659,real-logic/aeron,Java,36
+18993814,bytedeco/javacv,Java,12
+181012406,macrozheng/mall-learning,Java,33
 26357991,iSoron/uhabits,Java,8
 65206209,PureDark/H-Viewer,Java,6
 58194180,strimzi/strimzi-kafka-operator,Java,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 34685800,diffplug/spotless,Java,3
 163699938,bephrem1/backtobackswe,Java,8
 75834005,vaquarkhan/vaquarkhan,Java,2
-148496687,YunaiV/SpringBoot-Labs,Java,151
+148496687,YunaiV/SpringBoot-Labs,Java,160
 51146080,jhipster/jhipster-registry,Java,2

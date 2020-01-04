@@ -1,13 +1,13 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,9
-481872,hashicorp/vagrant,Ruby,5
+481872,hashicorp/vagrant,Ruby,7
 2336578,twbs/bootstrap-sass,Ruby,1
 1090311,elastic/logstash,Ruby,6
 4095287,rubocop-hq/rubocop,Ruby,0
 3314,spree/spree,Ruby,0
 3195124,mperham/sidekiq,Ruby,3
 8393,thoughtbot/paperclip,Ruby,1
-1918677,fluent/fluentd,Ruby,10
+1918677,fluent/fluentd,Ruby,11
 96395,faker-ruby/faker,Ruby,14
 15435,Shopify/liquid,Ruby,5
 52855516,Homebrew/homebrew-core,Ruby,8
@@ -18,7 +18,7 @@ id,name,lang,new stars
 2802565,doorkeeper-gem/doorkeeper,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,2
 417862,octokit/octokit.rb,Ruby,1
-1172597,thoughtbot/shoulda-matchers,Ruby,0
+1172597,thoughtbot/shoulda-matchers,Ruby,1
 14238949,elastic/elasticsearch-rails,Ruby,0
 1409544,thoughtbot/capybara-webkit,Ruby,0
 1953385,stripe/stripe-ruby,Ruby,0
