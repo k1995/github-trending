@@ -1,6 +1,6 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,47
-22887094,tesseract-ocr/tesseract,C++,25
+5108051,opencv/opencv,C++,46
+22887094,tesseract-ocr/tesseract,C++,23
 15634981,godotengine/godot,C++,38
 22067521,ocornut/imgui,C++,18
 1062572,catchorg/Catch2,C++,6
@@ -13,7 +13,7 @@ id,name,lang,new stars
 16309670,gperftools/gperftools,C++,3
 7232856,AGWA/git-crypt,C++,7
 23086893,google/re2,C++,4
-74660642,yuanming-hu/taichi,C++,21
+74660642,yuanming-hu/taichi,C++,20
 46374199,IntelRealSense/librealsense,C++,2
 84183882,google/sentencepiece,C++,4
 142631191,uNetworking/uWebSockets.js,C++,10

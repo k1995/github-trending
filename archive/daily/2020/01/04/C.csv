@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,102
-10744183,netdata/netdata,C,41
+2325298,torvalds/linux,C,101
+10744183,netdata/netdata,C,36
 5101141,stedolan/jq,C,5
 569041,curl/curl,C,14
-7634677,openssl/openssl,C,8
+7634677,openssl/openssl,C,9
 18496166,gentilkiwi/mimikatz,C,16
 50874442,citusdata/citus,C,3
-5870069,edenhill/librdkafka,C,5
+5870069,edenhill/librdkafka,C,6
 45863890,apple/swift-corelibs-foundation,C,5
-3791835,darktable-org/darktable,C,8
+3791835,darktable-org/darktable,C,9
 16734696,meetecho/janus-gateway,C,4
 60667730,littlevgl/lvgl,C,8
 59771425,zephyrproject-rtos/zephyr,C,7
@@ -21,6 +21,6 @@ id,name,lang,new stars
 197663980,RayTracing/raytracing.github.io,C,8
 88852338,lucyoa/kernel-exploits,C,11
 119086992,RavenSystem/esp-homekit-devices,C,5
-154525111,signalwire/freeswitch,C,5
-222192366,zxystd/IntelBluetoothFirmware,C,24
-225988954,Xinyuan-LilyGO/LilyGO-T-Wristband,C,6
+154525111,signalwire/freeswitch,C,6
+222192366,zxystd/IntelBluetoothFirmware,C,21
+225988954,Xinyuan-LilyGO/LilyGO-T-Wristband,C++,7

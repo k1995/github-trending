@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,592
-7548986,laravel/framework,PHP,309
-1420053,guzzle/guzzle,PHP,253
-448045,sebastianbergmann/phpunit,PHP,236
+1863329,laravel/laravel,PHP,586
+7548986,laravel/framework,PHP,307
+1420053,guzzle/guzzle,PHP,255
+448045,sebastianbergmann/phpunit,PHP,238
 2854337,phalcon/cphalcon,PHP,76
-4916869,ramsey/uuid,PHP,190
-60243197,nextcloud/server,PHP,314
+4916869,ramsey/uuid,PHP,191
+60243197,nextcloud/server,PHP,313
 8678290,barryvdh/laravel-ide-helper,PHP,164
 82238168,monicahq/monica,PHP,918
 7122594,directus/directus,PHP,222
 7577142,doctrine/annotations,PHP,144
-14716368,invoiceninja/invoiceninja,PHP,84
+14716368,invoiceninja/invoiceninja,PHP,85
 6269013,aws/aws-sdk-php,PHP,85
 6763587,PrestaShop/PrestaShop,PHP,154
 12594863,kalcaddle/KodExplorer,PHP,97
