@@ -1,8 +1,8 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,7
-1864363,composer/composer,PHP,10
+458058,symfony/symfony,PHP,8
+1864363,composer/composer,PHP,15
 1420053,guzzle/guzzle,PHP,14
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,10
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,8
 14259390,Maatwebsite/Laravel-Excel,PHP,7
 2699935,squizlabs/PHP_CodeSniffer,PHP,3
 597887,doctrine/orm,PHP,7
@@ -11,16 +11,16 @@ id,name,lang,new stars
 637935,sebastianbergmann/phpunit-mock-objects,PHP,4
 16238673,kanboard/kanboard,PHP,8
 6269013,aws/aws-sdk-php,PHP,4
-9826184,elastic/elasticsearch-php,PHP,4
+9826184,elastic/elasticsearch-php,PHP,6
 30915528,spatie/laravel-backup,PHP,4
 885517,Atlantic18/DoctrineExtensions,PHP,6
 18842338,facebook/php-graph-sdk,PHP,2
 7895524,thephpleague/oauth2-client,PHP,1
 31595609,mpdf/mpdf,PHP,1
-52815899,cnvs/canvas,PHP,74
+52815899,cnvs/canvas,PHP,72
 13044600,salesagility/SuiteCRM,PHP,3
 119047018,linuxserver/Heimdall,PHP,23
-153069455,collabnix/dockerlabs,PHP,70
+153069455,collabnix/dockerlabs,PHP,86
 85382582,sprintcube/docker-compose-lamp,PHP,5
 131995661,shopware/platform,PHP,4
 218387307,ash-jc-allen/laravel-exchange-rates,PHP,26

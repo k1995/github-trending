@@ -1,17 +1,17 @@
 id,name,lang,new stars
 11620669,CodeHubApp/CodeHub,C#,11
-49609581,PowerShell/PowerShell,C#,18
-70104825,dotnet-architecture/eShopOnContainers,C#,13
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,12
+49609581,PowerShell/PowerShell,C#,17
+70104825,dotnet-architecture/eShopOnContainers,C#,14
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,15
 9864166,App-vNext/Polly,C#,7
-132021166,dotnet/machinelearning,C#,1
-46652227,IdentityServer/IdentityServer4,C#,7
+132021166,dotnet/machinelearning,C#,4
+46652227,IdentityServer/IdentityServer4,C#,6
 104670977,dvf/blockchain,C#,4
 17748183,StackExchange/StackExchange.Redis,C#,3
-31335300,PrismLibrary/Prism,C#,4
+31335300,PrismLibrary/Prism,C#,5
 2870911,MvvmCross/MvvmCross,C#,4
-32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,8
 75505125,abpframework/abp,C#,11
+32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,5
 453037,JoshClose/CsvHelper,C#,5
 27703983,StockSharp/StockSharp,C#,80
 94242089,xceedsoftware/wpftoolkit,C#,6
@@ -20,7 +20,7 @@ id,name,lang,new stars
 121049045,skoruba/IdentityServer4.Admin,C#,2
 3251639,aws/aws-sdk-net,C#,3
 72554578,confluentinc/confluent-kafka-dotnet,C#,2
-100407304,natemcmaster/CommandLineUtils,C#,12
-134363073,HandyOrg/HandyControl,C#,27
+100407304,natemcmaster/CommandLineUtils,C#,10
+134363073,HandyOrg/HandyControl,C#,26
 115516512,ivanpaulovich/clean-architecture-manga,C#,5
-128650311,dotnetcore/Magicodes.IE,C#,101
+128650311,dotnetcore/Magicodes.IE,C#,107
