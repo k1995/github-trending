@@ -20,7 +20,7 @@ id,name,lang,new stars
 140747457,kubernetes-sigs/krew,Go,31
 41964498,prometheus/blackbox_exporter,Go,8
 116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,2
-206213815,pingcap/chaos-mesh,Go,324
+206213815,pingcap/chaos-mesh,Go,329
 155368246,elastic/cloud-on-k8s,Go,4
 229827299,ahmetb/kubectl-tree,Go,287
 136494223,kubernetes-sigs/controller-runtime,Go,2
