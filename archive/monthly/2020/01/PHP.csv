@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,603
+1863329,laravel/laravel,PHP,601
 7548986,laravel/framework,PHP,314
-1420053,guzzle/guzzle,PHP,260
+1420053,guzzle/guzzle,PHP,262
 448045,sebastianbergmann/phpunit,PHP,241
 2854337,phalcon/cphalcon,PHP,75
 4916869,ramsey/uuid,PHP,192
-60243197,nextcloud/server,PHP,321
-8678290,barryvdh/laravel-ide-helper,PHP,168
-82238168,monicahq/monica,PHP,929
-7122594,directus/directus,PHP,226
+60243197,nextcloud/server,PHP,326
+8678290,barryvdh/laravel-ide-helper,PHP,167
+82238168,monicahq/monica,PHP,931
+7122594,directus/directus,PHP,228
 7577142,doctrine/annotations,PHP,151
 14716368,invoiceninja/invoiceninja,PHP,85
 6269013,aws/aws-sdk-php,PHP,85
@@ -18,9 +18,9 @@ id,name,lang,new stars
 31425145,billz/raspap-webgui,PHP,120
 69691727,pmmp/PocketMine-MP,PHP,40
 1957456,Dolibarr/dolibarr,PHP,47
-96284790,prasathmani/tinyfilemanager,PHP,117
+96284790,prasathmani/tinyfilemanager,PHP,122
 153069455,collabnix/dockerlabs,PHP,247
 131995661,shopware/platform,PHP,61
 174021137,inertiajs/pingcrm,PHP,86
 195836215,magicblack/maccms10,PHP,84
-99055702,ssrpanel/SSRPanel,PHP,52
+99055702,ssrpanel/SSRPanel,PHP,53

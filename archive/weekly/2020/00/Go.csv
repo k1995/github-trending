@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,287
+23096959,golang/go,Go,313
 21540759,avelino/awesome-go,Go,215
 41912791,v2ray/v2ray-core,Go,217
 41986369,pingcap/tidb,Go,109
@@ -8,10 +8,10 @@ id,name,lang,new stars
 123572362,quii/learn-go-with-tests,Go,563
 122734569,iawia002/annie,Go,104
 21405028,ardanlabs/gotraining,Go,98
-40453691,GoesToEleven/GolangTraining,Go,47
+40453691,GoesToEleven/GolangTraining,Go,49
 136815833,Dreamacro/clash,Go,146
 44739044,src-d/go-git,Go,47
-81355383,mongodb/mongo-go-driver,Go,38
+81355383,mongodb/mongo-go-driver,Go,41
 7767488,syndtr/goleveldb,Go,41
 196937459,tophubs/TopList,Go,136
 187403699,FiloSottile/age,Go,2027
