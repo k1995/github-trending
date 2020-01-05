@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,601
+1863329,laravel/laravel,PHP,603
 7548986,laravel/framework,PHP,314
-1420053,guzzle/guzzle,PHP,259
+1420053,guzzle/guzzle,PHP,260
 448045,sebastianbergmann/phpunit,PHP,241
 2854337,phalcon/cphalcon,PHP,75
 4916869,ramsey/uuid,PHP,192
-60243197,nextcloud/server,PHP,320
-8678290,barryvdh/laravel-ide-helper,PHP,167
-82238168,monicahq/monica,PHP,928
-7122594,directus/directus,PHP,228
+60243197,nextcloud/server,PHP,321
+8678290,barryvdh/laravel-ide-helper,PHP,168
+82238168,monicahq/monica,PHP,929
+7122594,directus/directus,PHP,226
 7577142,doctrine/annotations,PHP,151
 14716368,invoiceninja/invoiceninja,PHP,85
 6269013,aws/aws-sdk-php,PHP,85
