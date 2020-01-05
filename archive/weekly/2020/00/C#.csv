@@ -1,13 +1,11 @@
 id,name,lang,new stars
-7600409,shadowsocks/shadowsocks-windows,C#,222
 15315789,Wox-launcher/Wox,C#,84
 38380854,0xd4d/dnSpy,C#,92
-70104825,dotnet-architecture/eShopOnContainers,C#,69
-959908,OpenRA/OpenRA,C#,23
+132021166,dotnet/machinelearning,C#,20
 142076747,microsoft/ailab,C#,92
 2465723,Sonarr/Sonarr,C#,28
 199570071,2dust/v2rayN,C#,226
-8835057,xupefei/Locale-Emulator,C#,38
+17369361,jbogard/MediatR,C#,38
 22456440,ppy/osu,C#,43
 45195614,Jackett/Jackett,C#,52
 77323220,Radarr/Radarr,C#,37
@@ -17,10 +15,12 @@ id,name,lang,new stars
 75505125,abpframework/abp,C#,45
 27703983,StockSharp/StockSharp,C#,160
 23550423,Jays2Kings/DS4Windows,C#,26
-145101484,anjoy8/Blog.Core,C#,82
+145101484,anjoy8/Blog.Core,C#,87
 57452143,bitwarden/mobile,C#,24
-162222002,2881099/FreeSql,C#,39
+210716005,dotnet/runtime,C#,117
 169597853,cobbr/Covenant,C#,37
 60366923,asadsahi/AspNetCoreSpa,C#,46
+150382880,asc-lab/dotnetcore-microservices-poc,C#,28
 39425864,tModLoader/tModLoader,C#,11
 128650311,dotnetcore/Magicodes.IE,C#,169
+182637681,Assistant/ModAssistant,C#,11
