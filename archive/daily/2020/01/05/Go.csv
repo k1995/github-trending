@@ -1,13 +1,13 @@
 id,name,lang,new stars
 23096959,golang/go,Go,84
 7691631,moby/moby,Go,20
-11180687,gohugoio/hugo,Go,61
+11180687,gohugoio/hugo,Go,62
 41912791,v2ray/v2ray-core,Go,76
 401025,github/hub,Go,23
 17803236,rclone/rclone,Go,42
 129717717,grafana/loki,Go,25
 33258973,influxdata/telegraf,Go,9
-32575637,ginuerzh/gost,Go,10
+32575637,ginuerzh/gost,Go,11
 28986292,anacrolix/torrent,Go,27
 10166531,mitchellh/mapstructure,Go,14
 134012064,pion/webrtc,Go,37
@@ -23,4 +23,4 @@ id,name,lang,new stars
 136494223,kubernetes-sigs/controller-runtime,Go,3
 228192593,hakluke/hakrawler,Go,202
 197447315,MichaelMure/go-term-markdown,Go,9
-199413814,xteve-project/xTeVe,Go,2
+199413814,xteve-project/xTeVe,Go,3

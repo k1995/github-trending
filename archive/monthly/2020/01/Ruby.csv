@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,251
-65252,jekyll/jekyll,Ruby,289
-8681349,huginn/huginn,Ruby,3911
+65252,jekyll/jekyll,Ruby,291
+8681349,huginn/huginn,Ruby,3915
 21600440,bayandin/awesome-awesomeness,Ruby,208
-13840241,freeCodeCamp/devdocs,Ruby,223
-2293158,rapid7/metasploit-framework,Ruby,308
-538746,ruby/ruby,Ruby,111
+13840241,freeCodeCamp/devdocs,Ruby,228
+52281283,tootsuite/mastodon,Ruby,303
+2293158,rapid7/metasploit-framework,Ruby,311
+538746,ruby/ruby,Ruby,112
 3623050,Homebrew/homebrew-cask,Ruby,167
-37382858,kilimchoi/engineering-blogs,Ruby,155
-4095287,rubocop-hq/rubocop,Ruby,80
-361310,teamcapybara/capybara,Ruby,33
+37382858,kilimchoi/engineering-blogs,Ruby,190
+4095287,rubocop-hq/rubocop,Ruby,81
 812393,ruby-grape/grape,Ruby,38
 611921,activeadmin/activeadmin,Ruby,35
 96395,faker-ruby/faker,Ruby,100
@@ -18,9 +18,9 @@ id,name,lang,new stars
 488514,bundler/bundler,Ruby,34
 4994614,wpscanteam/wpscan,Ruby,80
 447184,rspec/rspec-rails,Ruby,38
-2185269,busyloop/lolcat,Ruby,50
+2185269,busyloop/lolcat,Ruby,55
 96071,rack/rack,Ruby,34
 1462,ctran/annotate_models,Ruby,28
-417862,octokit/octokit.rb,Ruby,22
-614070,rubygems/rubygems,Ruby,15
+417862,octokit/octokit.rb,Ruby,23
+4523235,asciidoctor/asciidoctor,Ruby,50
 3898922,zammad/zammad,Ruby,59
