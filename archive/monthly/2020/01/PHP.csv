@@ -1,12 +1,12 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,553
-7548986,laravel/framework,PHP,287
-448045,sebastianbergmann/phpunit,PHP,248
+7548986,laravel/framework,PHP,286
+448045,sebastianbergmann/phpunit,PHP,223
 2854337,phalcon/cphalcon,PHP,78
 4916869,ramsey/uuid,PHP,195
-60243197,nextcloud/server,PHP,313
+60243197,nextcloud/server,PHP,310
 8678290,barryvdh/laravel-ide-helper,PHP,173
-82238168,monicahq/monica,PHP,933
+82238168,monicahq/monica,PHP,931
 7122594,directus/directus,PHP,229
 7577142,doctrine/annotations,PHP,148
 14716368,invoiceninja/invoiceninja,PHP,85
@@ -14,7 +14,7 @@ id,name,lang,new stars
 12594863,kalcaddle/KodExplorer,PHP,103
 30171828,rappasoft/laravel-boilerplate,PHP,92
 95011974,akaunting/akaunting,PHP,118
-222873550,bytefury/crater,PHP,1639
+222873550,bytefury/crater,PHP,1640
 117567334,spatie/laravel-query-builder,PHP,75
 31425145,billz/raspap-webgui,PHP,120
 69691727,pmmp/PocketMine-MP,PHP,43
