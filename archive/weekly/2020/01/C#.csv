@@ -1,14 +1,13 @@
 id,name,lang,new stars
-15315789,Wox-launcher/Wox,C#,101
 38380854,0xd4d/dnSpy,C#,97
+70104825,dotnet-architecture/eShopOnContainers,C#,80
+1327739,icsharpcode/ILSpy,C#,57
 132021166,dotnet/machinelearning,C#,25
 142076747,microsoft/ailab,C#,99
 2465723,Sonarr/Sonarr,C#,31
-199570071,2dust/v2rayN,C#,241
 17369361,jbogard/MediatR,C#,41
-22456440,ppy/osu,C#,44
 45195614,Jackett/Jackett,C#,61
-77323220,Radarr/Radarr,C#,41
+77323220,Radarr/Radarr,C#,44
 26884725,OrchardCMS/OrchardCore,C#,35
 27251463,QuantConnect/Lean,C#,34
 743436,egametang/ET,C#,28
@@ -16,11 +15,12 @@ id,name,lang,new stars
 27703983,StockSharp/StockSharp,C#,167
 23550423,Jays2Kings/DS4Windows,C#,28
 145101484,anjoy8/Blog.Core,C#,87
+3251639,aws/aws-sdk-net,C#,8
 57452143,bitwarden/mobile,C#,29
-210716005,dotnet/runtime,C#,120
 169597853,cobbr/Covenant,C#,46
 60366923,asadsahi/AspNetCoreSpa,C#,46
-150382880,asc-lab/dotnetcore-microservices-poc,C#,28
+47261966,grandnode/grandnode,C#,12
+150382880,asc-lab/dotnetcore-microservices-poc,C#,29
 39425864,tModLoader/tModLoader,C#,16
 128650311,dotnetcore/Magicodes.IE,C#,174
 182637681,Assistant/ModAssistant,C#,11
