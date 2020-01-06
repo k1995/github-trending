@@ -13,8 +13,8 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,24
 1725199,github/linguist,Ruby,19
 488514,bundler/bundler,Ruby,10
-75785147,rails/webpacker,Ruby,13
-447184,rspec/rspec-rails,Ruby,15
+75785147,rails/webpacker,Ruby,11
+447184,rspec/rspec-rails,Ruby,12
 1462,ctran/annotate_models,Ruby,11
 417862,octokit/octokit.rb,Ruby,6
 30985840,solidusio/solidus,Ruby,7
@@ -22,5 +22,5 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,12
 85402340,castwide/solargraph,Ruby,11
 154027884,samber/awesome-prometheus-alerts,Ruby,17
-189010173,Hackplayers/evil-winrm,Ruby,22
+189010173,Hackplayers/evil-winrm,Ruby,18
 65914086,decidim/decidim,Ruby,3

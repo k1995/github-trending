@@ -1,7 +1,7 @@
 id,name,lang,new stars
-23096959,golang/go,Go,327
+23096959,golang/go,Go,265
 21540759,avelino/awesome-go,Go,235
-20904437,gin-gonic/gin,Go,239
+20904437,gin-gonic/gin,Go,206
 41912791,v2ray/v2ray-core,Go,239
 53632140,zyedidia/micro,Go,96
 52595226,xtaci/kcptun,Go,48
@@ -9,10 +9,10 @@ id,name,lang,new stars
 156084530,cnlh/nps,Go,253
 123572362,quii/learn-go-with-tests,Go,588
 122734569,iawia002/annie,Go,116
-6443435,nats-io/nats-server,Go,42
+6443435,nats-io/nats-server,Go,40
 136815833,Dreamacro/clash,Go,154
 40453691,GoesToEleven/GolangTraining,Go,49
-79921099,chromedp/chromedp,Go,70
+79921099,chromedp/chromedp,Go,50
 81355383,mongodb/mongo-go-driver,Go,40
 7515336,davecgh/go-spew,Go,81
 196937459,tophubs/TopList,Go,144
@@ -23,4 +23,4 @@ id,name,lang,new stars
 130430977,kubesphere/kubesphere,Go,208
 140747457,kubernetes-sigs/krew,Go,103
 136770331,hunterlong/statping,Go,82
-219616873,charmbracelet/glow,Go,334
+219616873,charmbracelet/glow,Go,179
