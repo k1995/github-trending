@@ -1,15 +1,15 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,50
-3482588,danielmiessler/SecLists,PHP,192
-7548986,laravel/framework,PHP,75
-60243197,nextcloud/server,PHP,73
+458058,symfony/symfony,PHP,57
+3482588,danielmiessler/SecLists,PHP,164
+7548986,laravel/framework,PHP,76
+60243197,nextcloud/server,PHP,136
 48796179,z-song/laravel-admin,PHP,48
 46277353,mgp25/Instagram-API,PHP,33
-13612575,fruitcake/laravel-cors,PHP,30
-30171828,rappasoft/laravel-boilerplate,PHP,28
-39149031,webonyx/graphql-php,PHP,16
-95011974,akaunting/akaunting,PHP,37
-63073734,laravel/passport,PHP,25
+13612575,fruitcake/laravel-cors,PHP,31
+30171828,rappasoft/laravel-boilerplate,PHP,27
+39149031,webonyx/graphql-php,PHP,15
+95011974,akaunting/akaunting,PHP,36
+63073734,laravel/passport,PHP,24
 30567860,mevdschee/php-crud-api,PHP,21
 11935508,RSS-Bridge/rss-bridge,PHP,19
 52815899,cnvs/canvas,PHP,134
@@ -21,6 +21,6 @@ id,name,lang,new stars
 59965104,nuwave/lighthouse,PHP,21
 96284790,prasathmani/tinyfilemanager,PHP,55
 134953788,mashirozx/Sakura,PHP,26
-153069455,collabnix/dockerlabs,PHP,215
-85382582,sprintcube/docker-compose-lamp,PHP,18
+153069455,collabnix/dockerlabs,PHP,218
+85382582,sprintcube/docker-compose-lamp,PHP,22
 229491383,nikic/PHP-Fuzzer,PHP,100
