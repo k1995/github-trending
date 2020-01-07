@@ -3,12 +3,12 @@ id,name,lang,new stars
 70104825,dotnet-architecture/eShopOnContainers,C#,66
 1327739,icsharpcode/ILSpy,C#,43
 132021166,dotnet/machinelearning,C#,24
-142076747,microsoft/ailab,C#,72
+142076747,microsoft/ailab,C#,75
 2465723,Sonarr/Sonarr,C#,24
 17369361,jbogard/MediatR,C#,37
-45195614,Jackett/Jackett,C#,37
-77323220,Radarr/Radarr,C#,30
-26884725,OrchardCMS/OrchardCore,C#,31
+45195614,Jackett/Jackett,C#,38
+77323220,Radarr/Radarr,C#,29
+26884725,OrchardCMS/OrchardCore,C#,32
 27251463,QuantConnect/Lean,C#,25
 743436,egametang/ET,C#,28
 75505125,abpframework/abp,C#,39
@@ -16,8 +16,8 @@ id,name,lang,new stars
 23550423,Jays2Kings/DS4Windows,C#,20
 145101484,anjoy8/Blog.Core,C#,62
 3251639,aws/aws-sdk-net,C#,6
-57452143,bitwarden/mobile,C#,24
-169597853,cobbr/Covenant,C#,39
+57452143,bitwarden/mobile,C#,23
+169597853,cobbr/Covenant,C#,40
 60366923,asadsahi/AspNetCoreSpa,C#,43
 47261966,grandnode/grandnode,C#,12
 150382880,asc-lab/dotnetcore-microservices-poc,C#,28

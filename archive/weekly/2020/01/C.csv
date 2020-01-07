@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,421
+2325298,torvalds/linux,C,422
 10744183,netdata/netdata,C,200
 1614410,FFmpeg/FFmpeg,C,90
 6201092,mpv-player/mpv,C,60
 196353673,taosdata/TDengine,C,59
 32969220,esp8266/Arduino,C,34
-15337142,micropython/micropython,C,32
+15337142,micropython/micropython,C,35
 2810292,pbatard/rufus,C,70
-18496166,gentilkiwi/mimikatz,C,69
+18496166,gentilkiwi/mimikatz,C,64
 47409672,hashcat/hashcat,C,49
 102578345,coolsnowwolf/lede,C,278
 3199002,raspberrypi/linux,C,27
@@ -21,6 +21,6 @@ id,name,lang,new stars
 3565909,raspberrypi/firmware,C,13
 60667730,littlevgl/lvgl,C,35
 108989209,chiakge/Linux-NetSpeed,C,68
-119086992,RavenSystem/esp-homekit-devices,C,9
-204783139,awslabs/amazon-kinesis-video-streams-webrtc-sdk-c,C,246
+119086992,RavenSystem/esp-homekit-devices,C,8
+204783139,awslabs/amazon-kinesis-video-streams-webrtc-sdk-c,C,251
 230602503,xerub/acorn,C,26
