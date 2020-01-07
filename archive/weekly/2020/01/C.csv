@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,441
+2325298,torvalds/linux,C,418
 10744183,netdata/netdata,C,200
 111583593,Genymobile/scrcpy,C,356
 18666758,pjreddie/darknet,C,79
@@ -10,17 +10,17 @@ id,name,lang,new stars
 5254557,cloudwu/skynet,C,28
 47409672,hashcat/hashcat,C,49
 40217904,swaywm/sway,C,34
-102578345,coolsnowwolf/lede,C,266
+102578345,coolsnowwolf/lede,C,237
 3199002,raspberrypi/linux,C,27
 9524997,glfw/glfw,C,55
 26917568,nodemcu/nodemcu-firmware,C,27
 27737393,qmk/qmk_firmware,C,48
 689344,libretro/RetroArch,C,29
 3791835,darktable-org/darktable,C,49
-114102,grbl/grbl,C,15
+114102,grbl/grbl,C,16
 108989209,chiakge/Linux-NetSpeed,C,68
 154525111,signalwire/freeswitch,C,21
 204783139,awslabs/amazon-kinesis-video-streams-webrtc-sdk-c,C,251
-206373485,rnd-ash/razer-laptop-control,C,60
+206373485,rnd-ash/razer-laptop-control,C,63
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,5
 230602503,xerub/acorn,C,26

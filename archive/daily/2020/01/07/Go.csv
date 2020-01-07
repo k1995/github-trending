@@ -5,8 +5,8 @@ id,name,lang,new stars
 16563587,cockroachdb/cockroach,Go,9
 12080551,tsenart/vegeta,Go,10
 53632140,zyedidia/micro,Go,57
-46806184,helm/charts,Go,19
-6051812,gorilla/mux,Go,9
+46806184,helm/charts,Go,14
+6051812,gorilla/mux,Go,7
 62091339,kubernetes/kops,Go,8
 27729907,grpc/grpc-go,Go,14
 11008207,vitessio/vitess,Go,9
@@ -18,7 +18,7 @@ id,name,lang,new stars
 100982449,argoproj/argo,Go,4
 117710726,twitchtv/twirp,Go,4
 159540440,google/wire,Go,13
-7823926,prometheus/client_golang,Go,4
+7823926,prometheus/client_golang,Go,2
 14605416,Masterminds/sprig,Go,16
 93446042,terraform-providers/terraform-provider-azurerm,Go,2
 229827299,ahmetb/kubectl-tree,Go,169

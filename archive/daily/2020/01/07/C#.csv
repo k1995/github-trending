@@ -1,7 +1,7 @@
 id,name,lang,new stars
 70104825,dotnet-architecture/eShopOnContainers,C#,21
 29078997,dotnet/roslyn,C#,6
-1613345,StackExchange/Dapper,C#,8
+1613345,StackExchange/Dapper,C#,10
 16157746,aspnet/EntityFrameworkCore,C#,6
 14964475,AvaloniaUI/Avalonia,C#,11
 28239455,aspnet/AspNetCore.Docs,C#,7
@@ -11,7 +11,7 @@ id,name,lang,new stars
 17748183,StackExchange/StackExchange.Redis,C#,3
 50605426,microsoft/MixedRealityToolkit-Unity,C#,4
 41822320,RicoSuter/NSwag,C#,6
-62172778,Unity-Technologies/ScriptableRenderPipeline,C#,2
+62172778,Unity-Technologies/ScriptableRenderPipeline,C#,0
 153711830,dotnet/winforms,C#,8
 68730444,microsoft/BotBuilder-Samples,C#,1
 38007053,dotnet/docfx,C#,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 63984307,dotnet/sdk,C#,3
 199126692,davidfowl/BedrockFramework,C#,59
 137821967,microsoft/artifacts-credprovider,C#,0
-222609429,vazgriz/DungeonGenerator,C#,16
+222609429,vazgriz/DungeonGenerator,C#,4

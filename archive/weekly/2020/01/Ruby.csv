@@ -3,11 +3,11 @@ id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,61
 13840241,freeCodeCamp/devdocs,Ruby,52
 308770,plataformatec/devise,Ruby,21
-52281283,tootsuite/mastodon,Ruby,70
+52281283,tootsuite/mastodon,Ruby,68
 2293158,rapid7/metasploit-framework,Ruby,67
 3623050,Homebrew/homebrew-cask,Ruby,38
-37382858,kilimchoi/engineering-blogs,Ruby,99
-2336578,twbs/bootstrap-sass,Ruby,2
+37382858,kilimchoi/engineering-blogs,Ruby,94
+2336578,twbs/bootstrap-sass,Ruby,1
 73648678,thepracticaldev/dev.to,Ruby,82
 106995,sinatra/sinatra,Ruby,8
 4095287,rubocop-hq/rubocop,Ruby,10
@@ -22,5 +22,5 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,7
 950915,urbanadventurer/WhatWeb,Ruby,20
 41571541,inspec/inspec,Ruby,10
-103766152,github/explore,Ruby,8
+103766152,github/explore,Ruby,10
 85402340,castwide/solargraph,Ruby,13
