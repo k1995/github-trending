@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,204
-99598595,parcel-bundler/parcel,JavaScript,116
-63539055,jaywcjlove/awesome-mac,JavaScript,78
+60493101,jwasham/coding-interview-university,,313
+20580498,kubernetes/kubernetes,Go,68
+36040894,gatsbyjs/gatsby,JavaScript,48
+111583593,Genymobile/scrcpy,C,82
+156157055,practicalAI/practicalAI,Jupyter Notebook,96
+31629751,cypress-io/cypress,JavaScript,28
 65083316,luong-komorebi/Awesome-Linux-Software,Python,74
-126178683,halo-dev/halo,Java,102
-121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,82
-104732438,radareorg/cutter,C++,23
+206410838,google/eng-practices,,48
+165041732,bilibili/kratos,Go,88
+74660642,yuanming-hu/taichi,C++,1632
+174231735,hsoft/collapseos,Assembly,16
 169371413,MoienTajik/AspNetCore-Developer-Roadmap,,51
-202367615,lyswhut/lx-music-desktop,JavaScript,57
-18490421,vcmi/vcmi,C++,71
-130670507,TrickyGo/Dive-into-DL-TensorFlow2.0,Jupyter Notebook,135
 181513363,zpoint/CPython-Internals,Python,59
-164347647,0x4447/0x4447_product_s3_email,,227
-229827299,ahmetb/kubectl-tree,Go,169
 231283452,excalidraw/excalidraw,TypeScript,442
+165910840,nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters,,73
+191201679,tycrek/degoogle,,432
 226310377,Snailclimb/awesome-java,,102
-228192593,hakluke/hakrawler,Go,288
 229764465,Asabeneh/30DaysOfJavaScript,JavaScript,214
 101350165,PaulMcInnis/JobFunnel,Python,140
-231425210,vaib25vicky/awesome-mobile-security,,236
-225027908,toandaominh1997/EfficientDet.Pytorch,Python,65
-199126692,davidfowl/BedrockFramework,C#,44
-209895143,faustomorales/keras-ocr,Python,75
-203713308,stuxnet999/MemLabs,Roff,80
-231611344,Ahmadalsofi/SOTabBar,Swift,27
+231425210,vaib25vicky/awesome-mobile-security,,232
+215973962,DoctorWkt/acwj,C,119
+230927366,Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement,Python,95
+203713308,stuxnet999/MemLabs,Roff,109
+174232991,nicolas-gervais/predicting-car-price-from-scraped-data,Jupyter Notebook,72
+201756818,amitness/toolbox,,62
