@@ -1,16 +1,16 @@
 id,name,lang,new stars
 19148949,PhilJay/MPAndroidChart,Java,17
 70198875,airbnb/lottie-android,Java,25
-1064563,netty/netty,Java,23
+1064563,netty/netty,Java,25
 6766558,Netflix/Hystrix,Java,11
-144705602,didi/DoraemonKit,Java,29
+144705602,didi/DoraemonKit,Java,36
 7587038,alibaba/canal,Java,27
 126178683,halo-dev/halo,Java,102
 10981994,OpenFeign/feign,Java,13
 12499251,checkstyle/checkstyle,Java,4
 75277003,thingsboard/thingsboard,Java,12
 163721192,zhisheng17/flink-learning,Java,56
-49820627,react-native-community/react-native-svg,Java,3
+49820627,react-native-community/react-native-svg,Java,4
 133134007,OpenAPITools/openapi-generator,Java,6
 21741891,spring-cloud/spring-cloud-netflix,Java,3
 139914932,quarkusio/quarkus,Java,13
@@ -20,7 +20,7 @@ id,name,lang,new stars
 27911088,apache/nifi,Java,2
 150938406,alibaba/Alink,Java,29
 20811348,spring-cloud/spring-cloud-config,Java,1
-1187608,spring-projects/spring-retry,Java,7
+1187608,spring-projects/spring-retry,Java,8
 100753606,confluentinc/kafka-streams-examples,Java,1
 168183392,seata/seata-samples,Java,4
 231533573,apache/incubator-tubemq,Java,32

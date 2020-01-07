@@ -5,12 +5,12 @@ id,name,lang,new stars
 16157746,aspnet/EntityFrameworkCore,C#,6
 14964475,AvaloniaUI/Avalonia,C#,11
 28239455,aspnet/AspNetCore.Docs,C#,7
-46652227,IdentityServer/IdentityServer4,C#,8
+46652227,IdentityServer/IdentityServer4,C#,9
 715082,reactiveui/ReactiveUI,C#,5
 54213490,xamarin/Xamarin.Forms,C#,7
 17748183,StackExchange/StackExchange.Redis,C#,3
 50605426,microsoft/MixedRealityToolkit-Unity,C#,4
-41822320,RicoSuter/NSwag,C#,5
+41822320,RicoSuter/NSwag,C#,6
 62172778,Unity-Technologies/ScriptableRenderPipeline,C#,2
 153711830,dotnet/winforms,C#,8
 68730444,microsoft/BotBuilder-Samples,C#,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 63984307,dotnet/sdk,C#,3
 199126692,davidfowl/BedrockFramework,C#,59
 137821967,microsoft/artifacts-credprovider,C#,0
-222609429,vazgriz/DungeonGenerator,C#,17
+222609429,vazgriz/DungeonGenerator,C#,16

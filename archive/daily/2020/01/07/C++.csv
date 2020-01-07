@@ -1,6 +1,6 @@
 id,name,lang,new stars
 44838949,apple/swift,C++,11
-23357588,protocolbuffers/protobuf,C++,22
+23357588,protocolbuffers/protobuf,C++,23
 22887094,tesseract-ocr/tesseract,C++,51
 27729880,grpc/grpc,C++,28
 1062572,catchorg/Catch2,C++,9
@@ -8,8 +8,8 @@ id,name,lang,new stars
 81227005,facebookresearch/faiss,C++,14
 38581626,pybind/pybind11,C++,7
 104732438,radareorg/cutter,C++,23
-28449431,scylladb/scylla,C++,8
 74660642,yuanming-hu/taichi,C++,1632
+28449431,scylladb/scylla,C++,8
 648332,assimp/assimp,C++,9
 8162615,PointCloudLibrary/pcl,C++,10
 15122806,google/benchmark,C++,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 184704903,interpretml/interpret,C++,10
 183462315,xdspacelab/openvslam,C++,8
 18490421,vcmi/vcmi,C++,71
-144358602,yuanming-hu/taichi_mpm,C++,236
+144358602,yuanming-hu/taichi_mpm,C++,264
 10978577,pencil2d/pencil,C++,25
 24655143,wpilibsuite/allwpilib,C++,3
 106775167,IdleHandsProject/makennbot,C++,7
