@@ -1,6 +1,7 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,58
-65252,jekyll/jekyll,Ruby,60
+65252,jekyll/jekyll,Ruby,64
+7569578,discourse/discourse,Ruby,54
 13840241,freeCodeCamp/devdocs,Ruby,55
 308770,plataformatec/devise,Ruby,20
 52281283,tootsuite/mastodon,Ruby,62
@@ -8,19 +9,18 @@ id,name,lang,new stars
 3623050,Homebrew/homebrew-cask,Ruby,41
 37382858,kilimchoi/engineering-blogs,Ruby,102
 2336578,twbs/bootstrap-sass,Ruby,2
-73648678,thepracticaldev/dev.to,Ruby,80
-106995,sinatra/sinatra,Ruby,6
+73648678,thepracticaldev/dev.to,Ruby,83
 4095287,rubocop-hq/rubocop,Ruby,12
 1157388,tmuxinator/tmuxinator,Ruby,33
 611921,activeadmin/activeadmin,Ruby,6
 96395,faker-ruby/faker,Ruby,27
-15435,Shopify/liquid,Ruby,14
 1725199,github/linguist,Ruby,16
 75785147,rails/webpacker,Ruby,11
-447184,rspec/rspec-rails,Ruby,10
-1462,ctran/annotate_models,Ruby,7
-30985840,solidusio/solidus,Ruby,8
+96071,rack/rack,Ruby,9
+417862,octokit/octokit.rb,Ruby,7
+30985840,solidusio/solidus,Ruby,9
 950915,urbanadventurer/WhatWeb,Ruby,21
-41571541,inspec/inspec,Ruby,11
+35139417,donmelton/video_transcoding,Ruby,13
 103766152,github/explore,Ruby,8
 85402340,castwide/solargraph,Ruby,11
+230328900,donmelton/other_video_transcoding,Ruby,58
