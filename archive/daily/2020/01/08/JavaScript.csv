@@ -1,14 +1,14 @@
 id,name,lang,new stars
 10270250,facebook/react,JavaScript,76
 943149,d3/d3,JavaScript,26
-29028775,facebook/react-native,JavaScript,122
+29028775,facebook/react-native,JavaScript,103
 23088740,axios/axios,JavaScript,55
 70107786,zeit/next.js,JavaScript,43
 1424470,moment/moment,JavaScript,10
-36040894,gatsbyjs/gatsby,JavaScript,59
-99598595,parcel-bundler/parcel,JavaScript,55
+36040894,gatsbyjs/gatsby,JavaScript,54
+99598595,parcel-bundler/parcel,JavaScript,60
 58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,19
-667561,Marak/faker.js,JavaScript,20
+667561,Marak/faker.js,JavaScript,21
 402046,MrRio/jsPDF,JavaScript,10
 31629751,cypress-io/cypress,JavaScript,41
 2055965,swagger-api/swagger-ui,JavaScript,10
@@ -18,9 +18,9 @@ id,name,lang,new stars
 24063576,semantic-release/semantic-release,JavaScript,17
 31790438,api-platform/api-platform,JavaScript,11
 10413050,jackocnr/intl-tel-input,JavaScript,7
-6621471,Dash-Industry-Forum/dash.js,JavaScript,9
-202367615,lyswhut/lx-music-desktop,JavaScript,74
+6621471,Dash-Industry-Forum/dash.js,JavaScript,8
+202367615,lyswhut/lx-music-desktop,JavaScript,75
 84835535,carbon-design-system/carbon,JavaScript,8
 179377705,system-ui/theme-ui,JavaScript,29
 31633215,IdentityModel/oidc-client-js,JavaScript,3
-229764465,Asabeneh/30DaysOfJavaScript,JavaScript,267
+229764465,Asabeneh/30DaysOfJavaScript,JavaScript,258

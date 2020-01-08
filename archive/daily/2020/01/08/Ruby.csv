@@ -2,7 +2,7 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,8
 27442967,fastlane/fastlane,Ruby,10
 308770,plataformatec/devise,Ruby,2
-481872,hashicorp/vagrant,Ruby,8
+481872,hashicorp/vagrant,Ruby,7
 3623050,Homebrew/homebrew-cask,Ruby,7
 4095287,rubocop-hq/rubocop,Ruby,3
 3195124,mperham/sidekiq,Ruby,3
@@ -11,7 +11,7 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,2
 277089,flyerhzm/bullet,Ruby,3
 18486300,lewagon/setup,Ruby,20
-910744,puppetlabs/puppet,Ruby,3
+910744,puppetlabs/puppet,Ruby,2
 22059578,ankane/pghero,Ruby,5
 417389,lostisland/faraday,Ruby,2
 75785147,rails/webpacker,Ruby,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 202291859,chatwoot/chatwoot,Ruby,12
 1409544,thoughtbot/capybara-webkit,Ruby,0
 9831101,elastic/elasticsearch-ruby,Ruby,1
-115215349,pluosi/app-host,Ruby,29
+115215349,pluosi/app-host,Ruby,30
 29151578,rswag/rswag,Ruby,1
