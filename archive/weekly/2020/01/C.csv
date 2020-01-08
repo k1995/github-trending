@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,439
+2325298,torvalds/linux,C,437
 10744183,netdata/netdata,C,205
 111583593,Genymobile/scrcpy,C,461
 908607,numpy/numpy,C,76
@@ -13,8 +13,8 @@ id,name,lang,new stars
 41215835,HandBrake/HandBrake,C,45
 689344,libretro/RetroArch,C,28
 60667730,littlevgl/lvgl,C,39
-59771425,zephyrproject-rtos/zephyr,C,28
-18513454,cmusphinx/pocketsphinx,C,28
+59771425,zephyrproject-rtos/zephyr,C,29
+18513454,cmusphinx/pocketsphinx,C,29
 68082730,Ralim/ts100,C,31
 27584181,espressif/ESP8266_RTOS_SDK,C,19
 45703884,olikraus/u8g2,C,15

@@ -1,9 +1,9 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,27
+17620347,dotnet/aspnetcore,C#,26
 70104825,dotnet-architecture/eShopOnContainers,C#,21
 16157746,dotnet/efcore,C#,5
 791611,mono/mono,C#,6
-1135454,cefsharp/CefSharp,C#,7
+1135454,cefsharp/CefSharp,C#,8
 28239455,aspnet/AspNetCore.Docs,C#,6
 18586705,nopSolutions/nopCommerce,C#,7
 5780416,NLog/NLog,C#,8
@@ -21,6 +21,6 @@ id,name,lang,new stars
 134707912,dotnetcore/WTM,C#,53
 166270225,dotnet-presentations/blazor-workshop,C#,12
 137433882,Unity-Technologies/arfoundation-samples,C#,3
-139499767,lgsvl/simulator,C#,4
-63984307,dotnet/sdk,C#,4
+139499767,lgsvl/simulator,C#,6
+63984307,dotnet/sdk,C#,6
 231708652,domialex/Sidekick,C#,83

@@ -1,17 +1,17 @@
 id,name,lang,new stars
 51117837,tensorflow/models,Python,55
 3638964,ansible/ansible,Python,17
-12888993,home-assistant/home-assistant,Python,50
+12888993,home-assistant/home-assistant,Python,51
 71948498,localstack/localstack,Python,17
-155220641,huggingface/transformers,Python,60
+155220641,huggingface/transformers,Python,59
 79510167,pypa/pipenv,Python,12
 125266328,psf/black,Python,21
-65083316,luong-komorebi/Awesome-Linux-Software,Python,230
+65083316,luong-komorebi/Awesome-Linux-Software,Python,216
 162723104,OWASP/CheatSheetSeries,Python,24
 204086862,streamlit/streamlit,Python,33
-209104196,microsoft/c9-python-getting-started,Python,23
+209104196,microsoft/c9-python-getting-started,Python,26
 23641816,google/sanitizers,Python,10
-72523920,cupy/cupy,Python,2
+72523920,cupy/cupy,Python,3
 8277372,spulec/moto,Python,1
 52837350,cloud-custodian/cloud-custodian,Python,7
 32887098,googleapis/googleapis,Python,4

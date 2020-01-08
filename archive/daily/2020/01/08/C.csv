@@ -2,7 +2,7 @@ id,name,lang,new stars
 2325298,torvalds/linux,C,55
 36502,git/git,C,11
 111583593,Genymobile/scrcpy,C,124
-5101141,stedolan/jq,C,14
+5101141,stedolan/jq,C,13
 569041,curl/curl,C,4
 62156403,QSCTech/zju-icicles,C,16
 908607,numpy/numpy,C,14
@@ -16,11 +16,11 @@ id,name,lang,new stars
 8270972,ARMmbed/mbed-os,C,6
 4988795,acassen/keepalived,C,6
 114948816,uber/h3,C,3
+215973962,DoctorWkt/acwj,C,99
 110170439,aws/amazon-freertos,C,3
 5518793,Mzzopublic/C,C,4
-215973962,DoctorWkt/acwj,C,99
 76599439,FRRouting/frr,C,3
 164585247,starrtc/starrtc-server,C,4
 2276287,riscv/riscv-isa-sim,C,1
-211547440,chineseocr/darknet-ocr,C,7
-232165515,pixelomer/AltDeploy,C,47
+211547440,chineseocr/darknet-ocr,C,5
+232165515,pixelomer/AltDeploy,C,42
