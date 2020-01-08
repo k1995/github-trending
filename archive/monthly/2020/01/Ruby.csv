@@ -1,11 +1,11 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,249
-65252,jekyll/jekyll,Ruby,274
-8681349,huginn/huginn,Ruby,3899
+65252,jekyll/jekyll,Ruby,276
+8681349,huginn/huginn,Ruby,3903
 21600440,bayandin/awesome-awesomeness,Ruby,200
 2500088,gitlabhq/gitlabhq,Ruby,69
 13840241,freeCodeCamp/devdocs,Ruby,214
-2293158,rapid7/metasploit-framework,Ruby,309
+2293158,rapid7/metasploit-framework,Ruby,310
 538746,ruby/ruby,Ruby,110
 3623050,Homebrew/homebrew-cask,Ruby,154
 37382858,kilimchoi/engineering-blogs,Ruby,228
@@ -14,7 +14,7 @@ id,name,lang,new stars
 812393,ruby-grape/grape,Ruby,37
 611921,activeadmin/activeadmin,Ruby,33
 96395,faker-ruby/faker,Ruby,93
-277089,flyerhzm/bullet,Ruby,45
+277089,flyerhzm/bullet,Ruby,44
 488514,bundler/bundler,Ruby,37
 4994614,wpscanteam/wpscan,Ruby,84
 75785147,rails/webpacker,Ruby,41
@@ -22,5 +22,5 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,38
 417862,octokit/octokit.rb,Ruby,22
 4523235,asciidoctor/asciidoctor,Ruby,51
-115215349,pluosi/app-host,Ruby,121
+115215349,pluosi/app-host,Ruby,123
 223915944,lewagon/rails-garden-manager,Ruby,0

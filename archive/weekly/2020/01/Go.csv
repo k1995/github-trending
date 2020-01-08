@@ -1,6 +1,6 @@
 id,name,lang,new stars
-23096959,golang/go,Go,291
-20904437,gin-gonic/gin,Go,199
+23096959,golang/go,Go,292
+20904437,gin-gonic/gin,Go,213
 13807606,junegunn/fzf,Go,154
 41912791,v2ray/v2ray-core,Go,230
 13124802,influxdata/influxdb,Go,60
@@ -14,13 +14,13 @@ id,name,lang,new stars
 36653430,hashicorp/nomad,Go,34
 136815833,Dreamacro/clash,Go,125
 40453691,GoesToEleven/GolangTraining,Go,42
-93444615,terraform-providers/terraform-provider-aws,Go,43
+93444615,terraform-providers/terraform-provider-aws,Go,42
 159540440,google/wire,Go,68
 130430977,kubesphere/kubesphere,Go,135
-137854081,GoAdminGroup/go-admin,Go,73
+137854081,GoAdminGroup/go-admin,Go,80
 150713223,kubeedge/kubeedge,Go,64
 140747457,kubernetes-sigs/krew,Go,141
 136770331,hunterlong/statping,Go,79
 170411418,kedacore/keda,Go,57
 105262714,pusher/oauth2_proxy,Go,33
-206213815,pingcap/chaos-mesh,Go,866
+206213815,pingcap/chaos-mesh,Go,744

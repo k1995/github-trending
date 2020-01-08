@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,443
+2325298,torvalds/linux,C,445
 10744183,netdata/netdata,C,205
 111583593,Genymobile/scrcpy,C,461
 908607,numpy/numpy,C,76
@@ -8,7 +8,7 @@ id,name,lang,new stars
 15337142,micropython/micropython,C,43
 18496166,gentilkiwi/mimikatz,C,65
 40217904,swaywm/sway,C,38
-102578345,coolsnowwolf/lede,C,231
+102578345,coolsnowwolf/lede,C,213
 26917568,nodemcu/nodemcu-firmware,C,30
 41215835,HandBrake/HandBrake,C,45
 689344,libretro/RetroArch,C,28
@@ -18,9 +18,9 @@ id,name,lang,new stars
 68082730,Ralim/ts100,C,31
 27584181,espressif/ESP8266_RTOS_SDK,C,19
 45703884,olikraus/u8g2,C,15
-108989209,chiakge/Linux-NetSpeed,C,63
+108989209,chiakge/Linux-NetSpeed,C,64
 154525111,signalwire/freeswitch,C,22
-204783139,awslabs/amazon-kinesis-video-streams-webrtc-sdk-c,C,262
+204783139,awslabs/amazon-kinesis-video-streams-webrtc-sdk-c,C,263
 206373485,rnd-ash/razer-laptop-control,C,71
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,7
 210361198,jimzrt/Incognito_RCM,C,14
