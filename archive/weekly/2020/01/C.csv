@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,443
-10744183,netdata/netdata,C,203
-111583593,Genymobile/scrcpy,C,584
+2325298,torvalds/linux,C,434
+10744183,netdata/netdata,C,204
+111583593,Genymobile/scrcpy,C,593
 908607,numpy/numpy,C,76
 29759715,facebook/zstd,C,94
 32969220,esp8266/Arduino,C,38
-15337142,micropython/micropython,C,42
+15337142,micropython/micropython,C,41
 18496166,gentilkiwi/mimikatz,C,62
 40217904,swaywm/sway,C,38
 102578345,coolsnowwolf/lede,C,213
@@ -15,12 +15,12 @@ id,name,lang,new stars
 60667730,littlevgl/lvgl,C,45
 59771425,zephyrproject-rtos/zephyr,C,28
 18513454,cmusphinx/pocketsphinx,C,28
-68082730,Ralim/ts100,C,31
+68082730,Ralim/ts100,C,32
 27584181,espressif/ESP8266_RTOS_SDK,C,17
 45703884,olikraus/u8g2,C,14
 108989209,chiakge/Linux-NetSpeed,C,63
 154525111,signalwire/freeswitch,C,27
-204783139,awslabs/amazon-kinesis-video-streams-webrtc-sdk-c,C,264
+204783139,awslabs/amazon-kinesis-video-streams-webrtc-sdk-c,C,265
 206373485,rnd-ash/razer-laptop-control,C,79
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,9
 210361198,jimzrt/Incognito_RCM,C,13
