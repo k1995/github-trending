@@ -1,19 +1,19 @@
 id,name,lang,new stars
 40416236,minimaxir/big-list-of-naughty-strings,Python,45
-70905478,floodsung/Deep-Learning-Papers-Reading-Roadmap,Python,37
+70905478,floodsung/Deep-Learning-Papers-Reading-Roadmap,Python,38
 155220641,huggingface/transformers,Python,95
-65083316,luong-komorebi/Awesome-Linux-Software,Python,201
+65083316,luong-komorebi/Awesome-Linux-Software,Python,174
 162723104,OWASP/CheatSheetSeries,Python,12
 118861276,gto76/python-cheatsheet,Python,26
 6780767,aws/aws-cli,Python,7
 206660580,facebookresearch/detectron2,Python,50
 1460385,scipy/scipy,Python,4
 28782747,dask/dask,Python,9
-37489525,pytest-dev/pytest,Python,9
+37489525,pytest-dev/pytest,Python,8
 24774658,boto/boto3,Python,3
 49346299,pandas-profiling/pandas-profiling,Python,12
-72523920,cupy/cupy,Python,10
-5934517,dpkp/kafka-python,Python,4
+72523920,cupy/cupy,Python,9
+5934517,dpkp/kafka-python,Python,7
 32887098,googleapis/googleapis,Python,6
 80920452,nwojke/deep_sort,Python,8
 181513363,zpoint/CPython-Internals,Python,170
@@ -21,6 +21,6 @@ id,name,lang,new stars
 113111650,Yelp/detect-secrets,Python,4
 224296809,google-research/ALBERT,Python,199
 61352799,confluentinc/cp-docker-images,Python,4
-211240471,Zhongdao/Towards-Realtime-MOT,Python,4
+211240471,Zhongdao/Towards-Realtime-MOT,Python,3
 232026136,irfanICMLL/CoupleGenerator,Python,85
 231495146,Ethck/Path-of-Accounting,Python,32
