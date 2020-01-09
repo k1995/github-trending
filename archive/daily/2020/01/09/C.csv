@@ -1,6 +1,6 @@
 id,name,lang,new stars
-5101141,stedolan/jq,C,14
-908607,numpy/numpy,C,12
+5101141,stedolan/jq,C,16
+908607,numpy/numpy,C,13
 184981,memcached/memcached,C,5
 5254557,cloudwu/skynet,C,9
 7710647,jedisct1/libsodium,C,6
@@ -9,15 +9,15 @@ id,name,lang,new stars
 54280778,DaveGamble/cJSON,C,6
 21287076,awslabs/s2n,C,2
 3349840,hak5darren/USB-Rubber-Ducky,C,6
-16734696,meetecho/janus-gateway,C,2
+16734696,meetecho/janus-gateway,C,3
 7370241,RIOT-OS/RIOT,C,4
 59771425,zephyrproject-rtos/zephyr,C,9
-215973962,DoctorWkt/acwj,C,1400
+215973962,DoctorWkt/acwj,C,1253
 34807561,nanopb/nanopb,C,1
 227424495,apple/HomeKitADK,C,12
 15333809,open62541/open62541,C,3
 24107001,open-mpi/ompi,C,1
-15850784,rfjakob/earlyoom,C,15
+15850784,rfjakob/earlyoom,C,17
 87490037,commaai/panda,C,3
 1924458,SchedMD/slurm,C,0
 224151065,Immediate-Mode-UI/Nuklear,C,13

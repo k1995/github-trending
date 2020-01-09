@@ -1,6 +1,6 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,33
-7548986,laravel/framework,PHP,22
+7548986,laravel/framework,PHP,21
 1420053,guzzle/guzzle,PHP,11
 448045,sebastianbergmann/phpunit,PHP,8
 2253830,PHPMailer/PHPMailer,PHP,8
@@ -15,12 +15,12 @@ id,name,lang,new stars
 6269013,aws/aws-sdk-php,PHP,4
 41589337,BookStackApp/BookStack,PHP,9
 14346979,snipe/snipe-it,PHP,9
-8875190,Ocramius/ProxyManager,PHP,10
+8875190,Ocramius/ProxyManager,PHP,8
 3817881,zircote/swagger-php,PHP,11
 2797951,doctrine/DoctrineBundle,PHP,7
 439861,moodle/moodle,PHP,5
 74386167,vimeo/psalm,PHP,6
-31595609,mpdf/mpdf,PHP,4
+31595609,mpdf/mpdf,PHP,6
 97311017,rectorphp/rector,PHP,4
-39182755,glpi-project/glpi,PHP,2
+39182755,glpi-project/glpi,PHP,1
 34407154,cweagans/composer-patches,PHP,3

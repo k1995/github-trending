@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,216
-126577260,trekhleb/javascript-algorithms,JavaScript,132
+21737465,sindresorhus/awesome,,208
+126577260,trekhleb/javascript-algorithms,JavaScript,131
 62607227,yangshun/tech-interview-handbook,JavaScript,106
-32484381,ripienaar/free-for-dev,HTML,118
-156157055,practicalAI/practicalAI,Jupyter Notebook,166
+32484381,ripienaar/free-for-dev,HTML,130
+156157055,practicalAI/practicalAI,Jupyter Notebook,161
 170326929,LisaDziuba/Awesome-Design-Tools,JavaScript,46
 31629751,cypress-io/cypress,JavaScript,92
-175393768,abhat222/Data-Science--Cheat-Sheet,TeX,97
-73614722,CarGuo/GSYVideoPlayer,Java,32
+175393768,abhat222/Data-Science--Cheat-Sheet,TeX,104
+73614722,CarGuo/GSYVideoPlayer,Java,33
 6247705,stretchr/testify,Go,14
-165041732,bilibili/kratos,Go,339
-74660642,taichi-dev/taichi,C++,1393
-133067498,kubernetes-sigs/kustomize,Go,8
+165041732,bilibili/kratos,Go,321
+74660642,taichi-dev/taichi,C++,1337
+133067498,kubernetes-sigs/kustomize,Go,7
 54213490,xamarin/Xamarin.Forms,C#,2
-202291859,chatwoot/chatwoot,Ruby,66
-215973962,DoctorWkt/acwj,C,1400
+202291859,chatwoot/chatwoot,Ruby,96
+215973962,DoctorWkt/acwj,C,1253
 23891194,Azure/azure-powershell,C#,3
 181513363,zpoint/CPython-Internals,Python,170
-203465734,facebookresearch/SlowFast,Python,194
-224296809,google-research/ALBERT,Python,199
-225531542,yuanming-hu/difftaichi,,75
+203465734,facebookresearch/SlowFast,Python,208
+224296809,google-research/ALBERT,Python,198
+225531542,yuanming-hu/difftaichi,,74
 216628419,lyft/flyte,Shell,91
 232026136,irfanICMLL/CoupleGenerator,Python,83
-231708652,domialex/Sidekick,C#,60
+231708652,domialex/Sidekick,C#,32
 232165515,pixelomer/AltDeploy,C,37
