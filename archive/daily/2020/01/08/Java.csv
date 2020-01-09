@@ -1,14 +1,14 @@
 id,name,lang,new stars
-6296790,spring-projects/spring-boot,Java,39
+6296790,spring-projects/spring-boot,Java,40
 892275,square/retrofit,Java,13
 6766558,Netflix/Hystrix,Java,9
-7613257,SeleniumHQ/selenium,Java,9
-73614722,CarGuo/GSYVideoPlayer,Java,31
-13404515,brettwooldridge/HikariCP,Java,13
+7613257,SeleniumHQ/selenium,Java,12
+73614722,CarGuo/GSYVideoPlayer,Java,34
+13404515,brettwooldridge/HikariCP,Java,11
 2352744,apereo/cas,Java,9
-27729926,grpc/grpc-java,Java,7
-91065402,Justson/AgentWeb,Java,5
-75277003,thingsboard/thingsboard,Java,18
+27729926,grpc/grpc-java,Java,8
+91065402,Justson/AgentWeb,Java,8
+75277003,thingsboard/thingsboard,Java,17
 163721192,zhisheng17/flink-learning,Java,49
 1011539,rest-assured/rest-assured,Java,5
 3148979,spring-projects/spring-security,Java,5
@@ -17,10 +17,10 @@ id,name,lang,new stars
 20089857,apache/hbase,Java,2
 124230204,micronaut-projects/micronaut-core,Java,6
 31006158,apache/ignite,Java,3
-684382,bigbluebutton/bigbluebutton,Java,3
+684382,bigbluebutton/bigbluebutton,Java,4
 66023605,awsdocs/aws-doc-sdk-examples,Java,3
 100753606,confluentinc/kafka-streams-examples,Java,2
-165214494,ddd-by-examples/library,Java,6
-27790789,confluentinc/schema-registry,Java,3
+165214494,ddd-by-examples/library,Java,5
+27790789,confluentinc/schema-registry,Java,1
 34428627,confluentinc/kafka-connect-jdbc,Java,0
-223748401,WeBankFinTech/DataSphereStudio,Java,7
+223748401,WeBankFinTech/DataSphereStudio,Java,6

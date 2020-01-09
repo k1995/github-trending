@@ -1,17 +1,17 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,27
+9384267,electron/electron,C++,26
 23357588,protocolbuffers/protobuf,C++,19
-65600975,pytorch/pytorch,C++,23
+65600975,pytorch/pytorch,C++,26
 12791642,BVLC/caffe,C++,11
 16587283,dmlc/xgboost,C++,5
-11171548,nlohmann/json,C++,20
+11171548,nlohmann/json,C++,17
 39840932,google/googletest,C++,9
-18503721,facebook/yoga,C++,5
+18503721,facebook/yoga,C++,4
 87335980,EOSIO/eos,C++,1
 1062572,catchorg/Catch2,C++,6
-60246359,ClickHouse/ClickHouse,C++,35
+60246359,ClickHouse/ClickHouse,C++,36
 26038648,gabime/spdlog,C++,7
-74660642,yuanming-hu/taichi,C++,1383
+74660642,yuanming-hu/taichi,C++,1422
 23086893,google/re2,C++,4
 191820100,google/mediapipe,C++,23
 14627445,s3fs-fuse/s3fs-fuse,C++,4
@@ -19,7 +19,7 @@ id,name,lang,new stars
 10160141,doxygen/doxygen,C++,4
 56894212,jvm-profiling-tools/async-profiler,C++,5
 156939672,microsoft/onnxruntime,C++,7
-144358602,yuanming-hu/taichi_mpm,C++,164
+144358602,yuanming-hu/taichi_mpm,C++,158
 7454197,YosysHQ/yosys,C++,4
 10599951,emilybache/GildedRose-Refactoring-Kata,C++,4
 114128199,canonical/multipass,C++,10
