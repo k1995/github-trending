@@ -10,7 +10,7 @@ id,name,lang,new stars
 5133949,swoole/swoole-src,C++,7
 39840932,google/googletest,C++,12
 65214191,envoyproxy/envoy,C++,24
-74660642,taichi-dev/taichi,C++,606
+74660642,taichi-dev/taichi,C++,566
 26038648,gabime/spdlog,C++,8
 221822577,Tencent/Hippy,C++,88
 108102826,carla-simulator/carla,C++,9
@@ -21,6 +21,6 @@ id,name,lang,new stars
 12584062,ReactiveX/RxCpp,C++,3
 156787357,microsoft/SEAL,C++,3
 90875549,esprfid/esp-rfid,C++,4
-203406425,beefytech/Beef,C++,128
+203406425,beefytech/Beef,C++,117
 190799980,hku-mars/loam_livox,C++,7
 232197518,bluefrostsecurity/CVE-2019-1215,C++,34
