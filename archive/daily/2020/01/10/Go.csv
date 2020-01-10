@@ -1,0 +1,26 @@
+id,name,lang,new stars
+74175805,istio/istio,Go,18
+14125254,hashicorp/consul,Go,16
+13628513,sirupsen/logrus,Go,17
+18369373,spf13/viper,Go,21
+6247705,stretchr/testify,Go,34
+165041732,bilibili/kratos,Go,175
+16554739,elastic/beats,Go,4
+120227732,fyne-io/fyne,Go,17
+62921553,rook/rook,Go,8
+11206255,Shopify/sarama,Go,8
+109162639,thanos-io/thanos,Go,13
+133067498,kubernetes-sigs/kustomize,Go,29
+100982449,argoproj/argo,Go,13
+109145553,containers/libpod,Go,9
+37334619,golang/mock,Go,15
+81497153,kubernetes-sigs/external-dns,Go,5
+46904685,opentracing/opentracing-go,Go,3
+67793333,cortexproject/cortex,Go,9
+197998526,hoanhan101/algo,Go,216
+173387549,qcrao/Go-Questions,Go,72
+28152807,bsm/sarama-cluster,Go,0
+155447233,Azure/aks-engine,Go,1
+230017173,cube2222/jql,Go,38
+228949217,hakluke/hakrevdns,Go,36
+231446461,rakyll/govalidate,Go,23
