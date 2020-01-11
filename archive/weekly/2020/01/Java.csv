@@ -1,12 +1,12 @@
 id,name,lang,new stars
 22790488,iluwatar/java-design-patterns,Java,387
 507775,elastic/elasticsearch,Java,159
-72907253,ityouknow/spring-boot-examples,Java,158
+72907253,ityouknow/spring-boot-examples,Java,161
 6766558,Netflix/Hystrix,Java,63
 7613257,SeleniumHQ/selenium,Java,88
 13862381,DrKLO/Telegram,Java,160
 73614722,CarGuo/GSYVideoPlayer,Java,250
-126178683,halo-dev/halo,Java,513
+126178683,halo-dev/halo,Java,550
 110211147,xkcoding/spring-boot-demo,Java,571
 118497841,GoogleContainerTools/jib,Java,48
 33082868,sqshq/piggymetrics,Java,83
@@ -19,7 +19,7 @@ id,name,lang,new stars
 66023605,awsdocs/aws-doc-sdk-examples,Java,24
 80899820,RodneyShag/HackerRank_solutions,Java,27
 167158553,liujingxing/okhttp-RxHttp,Java,161
-100753606,confluentinc/kafka-streams-examples,Java,15
+100753606,confluentinc/kafka-streams-examples,Java,16
 148496687,YunaiV/SpringBoot-Labs,Java,165
 86439045,zhpanvip/BannerViewPager,Java,69
 3816238,buchen/portfolio,Java,23
