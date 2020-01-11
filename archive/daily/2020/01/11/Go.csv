@@ -1,13 +1,13 @@
 id,name,lang,new stars
 23096959,golang/go,Go,42
 17728164,hashicorp/terraform,Go,14
-41349039,dgraph-io/dgraph,Go,15
+41349039,dgraph-io/dgraph,Go,14
 46806184,helm/charts,Go,12
 6051812,gorilla/mux,Go,16
 27729907,grpc/grpc-go,Go,9
 66573241,hyperledger/fabric,Go,11
-6247705,stretchr/testify,Go,63
-16554739,elastic/beats,Go,33
+6247705,stretchr/testify,Go,70
+16554739,elastic/beats,Go,27
 18950460,concourse/concourse,Go,4
 133067498,kubernetes-sigs/kustomize,Go,44
 100982449,argoproj/argo,Go,15
@@ -17,8 +17,8 @@ id,name,lang,new stars
 59522149,gruntwork-io/terragrunt,Go,2
 82700090,uber/cadence,Go,6
 4141925,streadway/amqp,Go,3
-11452538,prometheus/alertmanager,Go,6
-87990209,kubernetes/autoscaler,Go,28
+11452538,prometheus/alertmanager,Go,5
+87990209,kubernetes/autoscaler,Go,16
 53553027,nginxinc/kubernetes-ingress,Go,4
 67793333,cortexproject/cortex,Go,12
 167304464,cortexlabs/cortex,Go,84
