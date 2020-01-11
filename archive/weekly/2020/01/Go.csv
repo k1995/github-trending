@@ -1,14 +1,14 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,314
 20904437,gin-gonic/gin,Go,219
-13807606,junegunn/fzf,Go,185
+13807606,junegunn/fzf,Go,187
 401025,github/hub,Go,57
 56353740,kubernetes/minikube,Go,88
 43723161,helm/helm,Go,118
 31288958,hashicorp/vault,Go,55
 134017286,jesseduffield/lazygit,Go,141
 13628513,sirupsen/logrus,Go,85
-53632140,zyedidia/micro,Go,136
+53632140,zyedidia/micro,Go,138
 46806184,helm/charts,Go,90
 44498957,valyala/fasthttp,Go,65
 6247705,stretchr/testify,Go,153
@@ -17,7 +17,7 @@ id,name,lang,new stars
 36653430,hashicorp/nomad,Go,34
 26726495,go-swagger/go-swagger,Go,35
 40916314,dexidp/dex,Go,31
-159540440,google/wire,Go,60
+159540440,google/wire,Go,62
 137854081,GoAdminGroup/go-admin,Go,90
 150713223,kubeedge/kubeedge,Go,69
 140747457,kubernetes-sigs/krew,Go,117

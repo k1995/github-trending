@@ -1,14 +1,14 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,138
 458058,symfony/symfony,PHP,65
-3482588,danielmiessler/SecLists,PHP,187
+3482588,danielmiessler/SecLists,PHP,186
 1864363,composer/composer,PHP,79
 7548986,laravel/framework,PHP,72
 1376664,Seldaek/monolog,PHP,78
 926544,slimphp/Slim,PHP,20
-60243197,nextcloud/server,PHP,76
+60243197,nextcloud/server,PHP,75
 2884111,magento/magento2,PHP,27
-49014795,phpstan/phpstan,PHP,41
+49014795,phpstan/phpstan,PHP,42
 597887,doctrine/orm,PHP,45
 2699935,squizlabs/PHP_CodeSniffer,PHP,37
 9193949,wallabag/wallabag,PHP,31
@@ -23,4 +23,4 @@ id,name,lang,new stars
 63073734,laravel/passport,PHP,17
 52815899,cnvs/canvas,PHP,174
 148129143,bagisto/bagisto,PHP,27
-153069455,collabnix/dockerlabs,PHP,79
+153069455,collabnix/dockerlabs,PHP,80
