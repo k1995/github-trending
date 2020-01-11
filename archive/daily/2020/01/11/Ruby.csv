@@ -13,7 +13,7 @@ id,name,lang,new stars
 1548802,activerecord-hackery/ransack,Ruby,2
 447184,rspec/rspec-rails,Ruby,0
 96071,rack/rack,Ruby,5
-202291859,chatwoot/chatwoot,Ruby,281
+202291859,chatwoot/chatwoot,Ruby,363
 30985840,solidusio/solidus,Ruby,1
 1172597,thoughtbot/shoulda-matchers,Ruby,0
 138776049,sorbet/sorbet,Ruby,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,3
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,1
 10504669,publiclab/plots2,Ruby,1
-203002681,riggraz/astuto,Ruby,143
+203002681,riggraz/astuto,Ruby,149
 230088868,pawurb/rails-pg-extras,Ruby,26
