@@ -1,20 +1,20 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,321
-20904437,gin-gonic/gin,Go,230
-13807606,junegunn/fzf,Go,204
+20580498,kubernetes/kubernetes,Go,323
+20904437,gin-gonic/gin,Go,229
+13807606,junegunn/fzf,Go,208
 401025,github/hub,Go,60
-43723161,helm/helm,Go,127
+43723161,helm/helm,Go,128
 31288958,hashicorp/vault,Go,62
-134017286,jesseduffield/lazygit,Go,140
+134017286,jesseduffield/lazygit,Go,141
 13628513,sirupsen/logrus,Go,88
-53632140,zyedidia/micro,Go,145
+53632140,zyedidia/micro,Go,144
 46806184,helm/charts,Go,95
 6247705,stretchr/testify,Go,159
 165041732,bilibili/kratos,Go,858
 16554739,elastic/beats,Go,65
 167483271,sqshq/sampler,Go,190
 36653430,hashicorp/nomad,Go,40
-133067498,kubernetes-sigs/kustomize,Go,119
+133067498,kubernetes-sigs/kustomize,Go,121
 40916314,dexidp/dex,Go,31
 159540440,google/wire,Go,63
 87990209,kubernetes/autoscaler,Go,72
@@ -22,5 +22,5 @@ id,name,lang,new stars
 167304464,cortexlabs/cortex,Go,197
 150713223,kubeedge/kubeedge,Go,73
 8026846,motemen/ghq,Go,44
-229827299,ahmetb/kubectl-tree,Go,625
-228192593,hakluke/hakrawler,Go,792
+229827299,ahmetb/kubectl-tree,Go,630
+228192593,hakluke/hakrawler,Go,795
