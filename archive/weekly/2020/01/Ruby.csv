@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,68
-65252,jekyll/jekyll,Ruby,74
-27442967,fastlane/fastlane,Ruby,53
-308770,heartcombo/devise,Ruby,28
+8514,rails/rails,Ruby,70
+65252,jekyll/jekyll,Ruby,77
+27442967,fastlane/fastlane,Ruby,55
+308770,heartcombo/devise,Ruby,30
 481872,hashicorp/vagrant,Ruby,36
-37382858,kilimchoi/engineering-blogs,Ruby,118
+37382858,kilimchoi/engineering-blogs,Ruby,119
 1090311,elastic/logstash,Ruby,29
-4095287,rubocop-hq/rubocop,Ruby,18
+4095287,rubocop-hq/rubocop,Ruby,19
 3195124,mperham/sidekiq,Ruby,13
-1918677,fluent/fluentd,Ruby,25
+1918677,fluent/fluentd,Ruby,27
 15435,Shopify/liquid,Ruby,14
 1725199,github/linguist,Ruby,20
 52855516,Homebrew/homebrew-core,Ruby,35
@@ -18,7 +18,7 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,20
 1548802,activerecord-hackery/ransack,Ruby,10
 96071,rack/rack,Ruby,13
-202291859,chatwoot/chatwoot,Ruby,864
+202291859,chatwoot/chatwoot,Ruby,878
 1314319,instructure/canvas-lms,Ruby,11
 30985840,solidusio/solidus,Ruby,12
 3277842,googleapis/google-api-ruby-client,Ruby,5
