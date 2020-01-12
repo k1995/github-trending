@@ -11,7 +11,7 @@ id,name,lang,new stars
 28366058,docker/distribution,Go,3
 133067498,kubernetes-sigs/kustomize,Go,26
 100982449,argoproj/argo,Go,11
-81355383,mongodb/mongo-go-driver,Go,3
+81355383,mongodb/mongo-go-driver,Go,6
 12332444,onsi/ginkgo,Go,5
 66509131,kubernetes/client-go,Go,2
 87990209,kubernetes/autoscaler,Go,45
