@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1903522,php/php-src,C,105
+1903522,php/php-src,C,106
 10446890,bilibili/ijkplayer,C,95
 111583593,Genymobile/scrcpy,C,666
 5101141,stedolan/jq,C,56
@@ -7,17 +7,17 @@ id,name,lang,new stars
 908607,numpy/numpy,C,89
 29759715,facebook/zstd,C,102
 437011,zfsonlinux/zfs,C,42
+109762904,leandromoreira/ffmpeg-libav-tutorial,C,267
 63809205,google/oss-fuzz,C,49
-109762904,leandromoreira/ffmpeg-libav-tutorial,C,265
-3319040,id-Software/DOOM,C,30
+3319040,id-Software/DOOM,C,31
 18106269,lz4/lz4,C,26
-70127218,espressif/arduino-esp32,C,35
+70127218,espressif/arduino-esp32,C,36
 689344,libretro/RetroArch,C,36
 203957456,Tencent/TencentOS-tiny,C,152
 31791482,microsoft/Windows-driver-samples,C,23
 37060852,betaflight/betaflight,C,26
-59771425,zephyrproject-rtos/zephyr,C,29
-21329550,wireshark/wireshark,C,30
+59771425,zephyrproject-rtos/zephyr,C,30
+21329550,wireshark/wireshark,C,29
 150354367,Meituan-Dianping/Logan,C,245
 15333809,open62541/open62541,C,7
 154525111,signalwire/freeswitch,C,24

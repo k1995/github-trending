@@ -2,7 +2,7 @@ id,name,lang,new stars
 11180687,gohugoio/hugo,Go,46
 29207621,caddyserver/caddy,Go,23
 122734569,iawia002/annie,Go,19
-167483271,sqshq/sampler,Go,89
+167483271,sqshq/sampler,Go,110
 136815833,Dreamacro/clash,Go,9
 136505169,tinygo-org/tinygo,Go,7
 192632000,dapr/dapr,Go,21
@@ -19,8 +19,8 @@ id,name,lang,new stars
 22883982,vmware/govmomi,Go,2
 109330128,uber-go/goleak,Go,213
 1380117,getlantern/lantern,Go,18
-197374067,grafana/tanka,Go,289
 217420145,vmware-tanzu/antrea,Go,127
+197374067,grafana/tanka,Go,289
 195310249,short-d/short,Go,40
 231446461,rakyll/govalidate,Go,34
 148742678,jhead/phantom,Go,3

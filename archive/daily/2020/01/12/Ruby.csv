@@ -3,10 +3,10 @@ id,name,lang,new stars
 308770,heartcombo/devise,Ruby,7
 52281283,tootsuite/mastodon,Ruby,6
 2293158,rapid7/metasploit-framework,Ruby,12
-73648678,thepracticaldev/dev.to,Ruby,20
+73648678,thepracticaldev/dev.to,Ruby,22
 4095287,rubocop-hq/rubocop,Ruby,5
 88740103,postalhq/postal,Ruby,6
-96395,faker-ruby/faker,Ruby,2
+96395,faker-ruby/faker,Ruby,4
 1725199,github/linguist,Ruby,6
 108278,chef/chef,Ruby,2
 26018608,github-changelog-generator/github-changelog-generator,Ruby,4
@@ -18,7 +18,7 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,7
 125511962,hendricius/the-bread-code,Ruby,39
 202291859,chatwoot/chatwoot,Ruby,466
-69813387,iberianpig/fusuma,Ruby,5
+69813387,iberianpig/fusuma,Ruby,6
 35051828,dev-sec/ansible-os-hardening,Ruby,3
 108451413,tongueroo/jets,Ruby,7
 64552869,LionSec/xerosploit,Ruby,5
