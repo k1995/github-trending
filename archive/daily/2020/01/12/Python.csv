@@ -1,11 +1,11 @@
 id,name,lang,new stars
 1362490,psf/requests,Python,50
-40416236,minimaxir/big-list-of-naughty-strings,Python,123
+40416236,minimaxir/big-list-of-naughty-strings,Python,124
 81598961,python/cpython,Python,31
 858127,pandas-dev/pandas,Python,26
-155220641,huggingface/transformers,Python,62
+155220641,huggingface/transformers,Python,63
 1431547,encode/django-rest-framework,Python,20
-206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Python,26
+206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Python,65
 136026789,iperov/DeepFaceLab,Python,31
 33702544,plotly/dash,Python,15
 136914524,flairNLP/flair,Python,5
@@ -13,14 +13,14 @@ id,name,lang,new stars
 192155460,dragen1860/Deep-Learning-with-TensorFlow-book,Python,16
 106024057,rusty1s/pytorch_geometric,Python,14
 20785986,jupyterhub/jupyterhub,Python,2
-179492861,encode/httpx,Python,362
-140614233,PySimpleGUI/PySimpleGUI,Python,43
+179492861,encode/httpx,Python,365
+140614233,PySimpleGUI/PySimpleGUI,Python,45
 158468845,facebookresearch/nevergrad,Python,15
-138796699,dbolya/yolact,Python,57
+138796699,dbolya/yolact,Python,40
 182067506,quantumblacklabs/kedro,Python,8
 203465734,facebookresearch/SlowFast,Python,77
 56217288,confluentinc/confluent-kafka-python,Python,2
-179342663,zzh8829/yolov3-tf2,Python,5
+179342663,zzh8829/yolov3-tf2,Python,6
 198616978,UKPLab/sentence-transformers,Python,9
-228700143,emeryberger/scalene,Python,344
+228700143,emeryberger/scalene,Python,345
 229250747,KichangKim/DeepDanbooru,Python,18

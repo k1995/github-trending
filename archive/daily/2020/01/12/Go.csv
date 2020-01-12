@@ -11,7 +11,7 @@ id,name,lang,new stars
 28366058,docker/distribution,Go,3
 133067498,kubernetes-sigs/kustomize,Go,26
 100982449,argoproj/argo,Go,11
-81355383,mongodb/mongo-go-driver,Go,4
+81355383,mongodb/mongo-go-driver,Go,3
 12332444,onsi/ginkgo,Go,5
 66509131,kubernetes/client-go,Go,2
 87990209,kubernetes/autoscaler,Go,45
@@ -22,5 +22,5 @@ id,name,lang,new stars
 58184885,kubernetes/kube-state-metrics,Go,5
 43225113,mikefarah/yq,Go,8
 91074692,zalando/postgres-operator,Go,4
-231446461,rakyll/govalidate,Go,28
+231446461,rakyll/govalidate,Go,34
 232361531,itchyny/mmv,Go,26

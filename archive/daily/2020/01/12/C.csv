@@ -1,18 +1,18 @@
 id,name,lang,new stars
 156018,antirez/redis,C,26
-36502,git/git,C,18
+36502,git/git,C,17
 10446890,bilibili/ijkplayer,C,7
 569041,curl/curl,C,7
 908607,numpy/numpy,C,20
 37912398,nginx/nginx,C,10
 437011,zfsonlinux/zfs,C,13
-3319040,id-Software/DOOM,C,9
+3319040,id-Software/DOOM,C,10
 689344,libretro/RetroArch,C,9
-203957456,Tencent/TencentOS-tiny,C,33
+203957456,Tencent/TencentOS-tiny,C,40
 40504480,mit-pdos/xv6-public,C,3
-43629790,P-H-C/phc-winner-argon2,C,15
+43629790,P-H-C/phc-winner-argon2,C,16
 3318531,id-Software/Quake,C,14
-150354367,Meituan-Dianping/Logan,C,36
+150354367,Meituan-Dianping/Logan,C,35
 6687936,ARMmbed/mbedtls,C,3
 43683082,zserge/jsmn,C,5
 83160811,ARMmbed/littlefs,C,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 128791889,haproxy/haproxy,C,3
 14021219,abishekvashok/cmatrix,C,1
 119086992,RavenSystem/esp-homekit-devices,C,2
-232006764,Tencent/TencentOS-kernel,C,76
+232006764,Tencent/TencentOS-kernel,C,91
 53432472,Azure/sonic-buildimage,C,0
 222069092,BLAKE3-team/BLAKE3-specs,C,15

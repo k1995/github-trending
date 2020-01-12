@@ -1,7 +1,7 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,4
-7548986,laravel/framework,PHP,12
-1376664,Seldaek/monolog,PHP,17
+7548986,laravel/framework,PHP,9
+1376664,Seldaek/monolog,PHP,18
 448045,sebastianbergmann/phpunit,PHP,14
 4916869,ramsey/uuid,PHP,8
 72069409,the-control-group/voyager,PHP,4
@@ -9,13 +9,13 @@ id,name,lang,new stars
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,4
 2884111,magento/magento2,PHP,4
 49014795,phpstan/phpstan,PHP,9
-597887,doctrine/orm,PHP,11
+597887,doctrine/orm,PHP,12
 6660366,dompdf/dompdf,PHP,6
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,7
-2179920,woocommerce/woocommerce,PHP,3
+2179920,woocommerce/woocommerce,PHP,2
 17452080,lcobucci/jwt,PHP,5
-576099,doctrine/migrations,PHP,10
-2797951,doctrine/DoctrineBundle,PHP,8
+576099,doctrine/migrations,PHP,11
+2797951,doctrine/DoctrineBundle,PHP,9
 18842338,facebook/php-graph-sdk,PHP,7
 51688711,InfyOmLabs/laravel-generator,PHP,5
 74386167,vimeo/psalm,PHP,6
@@ -23,4 +23,4 @@ id,name,lang,new stars
 8595323,paypal/PayPal-PHP-SDK,PHP,1
 148129143,bagisto/bagisto,PHP,12
 539751,beberlei/DoctrineExtensions,PHP,4
-232599652,laravel/airlock,PHP,155
+232599652,laravel/airlock,PHP,151

@@ -1,18 +1,18 @@
 id,name,lang,new stars
 10744183,netdata/netdata,C,198
-1903522,php/php-src,C,96
+1903522,php/php-src,C,99
 10446890,bilibili/ijkplayer,C,93
-111583593,Genymobile/scrcpy,C,646
+111583593,Genymobile/scrcpy,C,648
 5101141,stedolan/jq,C,52
 62156403,QSCTech/zju-icicles,C,76
-908607,numpy/numpy,C,82
+908607,numpy/numpy,C,84
 29759715,facebook/zstd,C,101
 41215835,HandBrake/HandBrake,C,49
-437011,zfsonlinux/zfs,C,41
+437011,zfsonlinux/zfs,C,42
 63809205,google/oss-fuzz,C,47
 109762904,leandromoreira/ffmpeg-libav-tutorial,C,262
-18106269,lz4/lz4,C,25
-104589662,s-macke/VoxelSpace,C,370
+18106269,lz4/lz4,C,26
+104589662,s-macke/VoxelSpace,C,381
 689344,libretro/RetroArch,C,34
 203957456,Tencent/TencentOS-tiny,C,125
 31791482,microsoft/Windows-driver-samples,C,22
@@ -23,4 +23,4 @@ id,name,lang,new stars
 211547440,chineseocr/darknet-ocr,C,20
 206373485,rnd-ash/razer-laptop-control,C,80
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,8
-229933146,The-Cracker-Technology/ANDRAX-Mobile-Pentest,C,17
+229933146,The-Cracker-Technology/ANDRAX-Mobile-Pentest,C,18
