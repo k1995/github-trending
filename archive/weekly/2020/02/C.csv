@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1903522,php/php-src,C,107
+1903522,php/php-src,C,108
 10446890,bilibili/ijkplayer,C,95
 111583593,Genymobile/scrcpy,C,666
-5101141,stedolan/jq,C,56
-62156403,QSCTech/zju-icicles,C,77
+5101141,stedolan/jq,C,57
+62156403,QSCTech/zju-icicles,C,83
 908607,numpy/numpy,C,89
 29759715,facebook/zstd,C,102
-437011,zfsonlinux/zfs,C,42
-109762904,leandromoreira/ffmpeg-libav-tutorial,C,267
+437011,zfsonlinux/zfs,C,44
+109762904,leandromoreira/ffmpeg-libav-tutorial,C,268
 63809205,google/oss-fuzz,C,49
 3319040,id-Software/DOOM,C,32
-18106269,lz4/lz4,C,26
+18106269,lz4/lz4,C,27
 70127218,espressif/arduino-esp32,C,37
 689344,libretro/RetroArch,C,36
-203957456,Tencent/TencentOS-tiny,C,152
+203957456,Tencent/TencentOS-tiny,C,158
 31791482,microsoft/Windows-driver-samples,C,23
 37060852,betaflight/betaflight,C,26
 59771425,zephyrproject-rtos/zephyr,C,30
@@ -23,4 +23,4 @@ id,name,lang,new stars
 154525111,signalwire/freeswitch,C,24
 211547440,chineseocr/darknet-ocr,C,21
 206373485,rnd-ash/razer-laptop-control,C,80
-197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,8
+197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,9

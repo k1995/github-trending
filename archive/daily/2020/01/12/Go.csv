@@ -9,7 +9,7 @@ id,name,lang,new stars
 49765480,lightningnetwork/lnd,Go,3
 67382094,Jguer/yay,Go,10
 36588302,jpillora/cloud-torrent,Go,7
-74203833,faiface/pixel,Go,6
+74203833,faiface/pixel,Go,7
 120896210,argoproj/argo-cd,Go,11
 167304464,cortexlabs/cortex,Go,73
 191655189,facebookincubator/ent,Go,15
@@ -22,5 +22,5 @@ id,name,lang,new stars
 217420145,vmware-tanzu/antrea,Go,127
 197374067,grafana/tanka,Go,289
 195310249,short-d/short,Go,40
-231446461,rakyll/govalidate,Go,34
+231446461,rakyll/govalidate,Go,69
 148742678,jhead/phantom,Go,3
