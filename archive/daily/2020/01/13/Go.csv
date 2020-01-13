@@ -4,7 +4,7 @@ id,name,lang,new stars
 14712850,syncthing/syncthing,Go,44
 29207621,caddyserver/caddy,Go,34
 74175805,istio/istio,Go,45
-17803236,rclone/rclone,Go,41
+17803236,rclone/rclone,Go,20
 48003886,tmrts/go-patterns,Go,22
 122734569,iawia002/annie,Go,33
 167483271,sqshq/sampler,Go,111
@@ -18,7 +18,7 @@ id,name,lang,new stars
 219616873,charmbracelet/glow,Go,76
 206213815,pingcap/chaos-mesh,Go,56
 109330128,uber-go/goleak,Go,249
-197374067,grafana/tanka,Go,47
+197374067,grafana/tanka,Go,57
 145433521,v2ray/domain-list-community,Go,2
 99083680,tjfoc/gmsm,Go,4
 228723879,houqp/sqlvet,Go,148
