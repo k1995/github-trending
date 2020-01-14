@@ -1,7 +1,7 @@
 id,name,lang,new stars
 14440270,getify/You-Dont-Know-JS,,284
 121395510,CyC2018/CS-Notes,Java,298
-127407957,azl397985856/leetcode,JavaScript,114
+127407957,azl397985856/leetcode,JavaScript,138
 3721224,nolimits4web/swiper,JavaScript,44
 99761907,atlassian/react-beautiful-dnd,JavaScript,17
 138331573,sebastianruder/NLP-progress,Python,64
@@ -11,8 +11,8 @@ id,name,lang,new stars
 190254698,prevwong/craft.js,TypeScript,465
 230881127,luruke/browser-2020,,313
 209921402,newbee-ltd/newbee-mall,Java,42
-199509705,awslabs/autogluon,Python,488
 219035799,huggingface/tokenizers,Rust,178
+199509705,awslabs/autogluon,Python,488
 212152900,wasm3/wasm3,C,305
 230355242,mrcsxsiq/Kotlin-Pokedex,Kotlin,46
 218396611,awslabs/djl,Java,19
@@ -21,5 +21,5 @@ id,name,lang,new stars
 230535191,swift-embedded/swift-embedded,Swift,91
 183586317,omuanko/nnjhtrkn,Batchfile,85
 233143985,projectzeroindia/CVE-2019-19781,Shell,40
-232437359,Lyrebirds/cable-haunt-vulnerability-test,Python,32
-232310720,Lyrebirds/sagemcom-fast-3890-exploit,JavaScript,20
+232437359,Lyrebirds/cable-haunt-vulnerability-test,Python,68
+232310720,Lyrebirds/sagemcom-fast-3890-exploit,JavaScript,46

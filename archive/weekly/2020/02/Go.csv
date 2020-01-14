@@ -1,16 +1,16 @@
 id,name,lang,new stars
 14712850,syncthing/syncthing,Go,122
 13807606,junegunn/fzf,Go,212
-74175805,istio/istio,Go,128
-13855476,jinzhu/gorm,Go,117
+74175805,istio/istio,Go,126
+13855476,jinzhu/gorm,Go,119
 31288958,hashicorp/vault,Go,53
-53632140,zyedidia/micro,Go,86
-46806184,helm/charts,Go,104
+53632140,zyedidia/micro,Go,87
+46806184,helm/charts,Go,100
 44498957,valyala/fasthttp,Go,69
 6051812,gorilla/mux,Go,79
 18369373,spf13/viper,Go,80
-6247705,stretchr/testify,Go,161
-165041732,bilibili/kratos,Go,858
+6247705,stretchr/testify,Go,170
+165041732,bilibili/kratos,Go,787
 16554739,elastic/beats,Go,63
 167483271,sqshq/sampler,Go,213
 36653430,hashicorp/nomad,Go,67
@@ -22,5 +22,5 @@ id,name,lang,new stars
 19608522,googleapis/google-cloud-go,Go,11
 149515625,weaveworks/flagger,Go,37
 173387549,qcrao/Go-Questions,Go,199
-228192593,hakluke/hakrawler,Go,300
-229516736,veggiedefender/torrent-client,Go,131
+228192593,hakluke/hakrawler,Go,192
+229516736,veggiedefender/torrent-client,Go,127
