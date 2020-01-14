@@ -1,6 +1,6 @@
 id,name,lang,new stars
 7600409,shadowsocks/shadowsocks-windows,C#,963
-17620347,dotnet/aspnetcore,C#,506
+17620347,dotnet/aspnetcore,C#,505
 15315789,Wox-launcher/Wox,C#,335
 70104825,dotnet-architecture/eShopOnContainers,C#,339
 12201538,aspnetboilerplate/aspnetboilerplate,C#,138
@@ -9,18 +9,18 @@ id,name,lang,new stars
 2465723,Sonarr/Sonarr,C#,113
 44897462,JustArchiNET/ArchiSteamFarm,C#,127
 88064357,QL-Win/QuickLook,C#,243
-22456440,ppy/osu,C#,198
+22456440,ppy/osu,C#,197
 45195614,Jackett/Jackett,C#,166
-77323220,Radarr/Radarr,C#,133
-27251463,QuantConnect/Lean,C#,109
+77323220,Radarr/Radarr,C#,135
+27251463,QuantConnect/Lean,C#,110
 75505125,abpframework/abp,C#,197
 38992233,sunkaixuan/SqlSugar,C#,113
-27703983,StockSharp/StockSharp,C#,215
+27703983,StockSharp/StockSharp,C#,214
 23550423,Jays2Kings/DS4Windows,C#,70
 23891194,Azure/azure-powershell,C#,88
 145101484,anjoy8/Blog.Core,C#,210
 210716005,dotnet/runtime,C#,370
-166270225,dotnet-presentations/blazor-workshop,C#,130
+166270225,dotnet-presentations/blazor-workshop,C#,131
 115516512,ivanpaulovich/clean-architecture-manga,C#,159
 39425864,tModLoader/tModLoader,C#,45
-213460285,JasonGT/CleanArchitecture,C#,275
+213460285,JasonGT/CleanArchitecture,C#,273
