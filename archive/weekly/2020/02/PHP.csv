@@ -5,12 +5,12 @@ id,name,lang,new stars
 448045,sebastianbergmann/phpunit,PHP,59
 12615154,barryvdh/laravel-debugbar,PHP,39
 60243197,nextcloud/server,PHP,76
-8678290,barryvdh/laravel-ide-helper,PHP,41
+8678290,barryvdh/laravel-ide-helper,PHP,40
 2884111,magento/magento2,PHP,23
-49014795,phpstan/phpstan,PHP,54
+49014795,phpstan/phpstan,PHP,55
 79111500,jupeter/clean-code-php,PHP,22
 597887,doctrine/orm,PHP,46
-2699935,squizlabs/PHP_CodeSniffer,PHP,34
+2699935,squizlabs/PHP_CodeSniffer,PHP,32
 330275,twigphp/Twig,PHP,23
 6660366,dompdf/dompdf,PHP,29
 4551765,thephpleague/oauth2-server,PHP,21

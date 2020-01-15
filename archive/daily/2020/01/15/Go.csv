@@ -3,7 +3,7 @@ id,name,lang,new stars
 7691631,moby/moby,Go,22
 21540759,avelino/awesome-go,Go,47
 15452919,ethereum/go-ethereum,Go,16
-14125254,hashicorp/consul,Go,10
+14125254,hashicorp/consul,Go,7
 62091339,kubernetes/kops,Go,10
 27729907,grpc/grpc-go,Go,9
 129717717,grafana/loki,Go,11
@@ -13,7 +13,7 @@ id,name,lang,new stars
 27576132,aws/aws-sdk-go,Go,3
 66841911,360EntSecGroup-Skylar/excelize,Go,10
 26726495,go-swagger/go-swagger,Go,7
-67382094,Jguer/yay,Go,11
+67382094,Jguer/yay,Go,8
 21306961,fsnotify/fsnotify,Go,9
 21034555,asaskevich/govalidator,Go,6
 50629145,google/pprof,Go,4

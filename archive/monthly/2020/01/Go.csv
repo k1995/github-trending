@@ -1,7 +1,7 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1241
+23096959,golang/go,Go,1243
 20580498,kubernetes/kubernetes,Go,1269
-21540759,avelino/awesome-go,Go,989
+21540759,avelino/awesome-go,Go,1008
 11180687,gohugoio/hugo,Go,854
 20904437,gin-gonic/gin,Go,940
 48378947,fatedier/frp,Go,1131
@@ -10,14 +10,14 @@ id,name,lang,new stars
 156084530,ehang-io/nps,Go,704
 105279544,gocolly/colly,Go,344
 123572362,quii/learn-go-with-tests,Go,933
-122734569,iawia002/annie,Go,428
+122734569,iawia002/annie,Go,427
 165041732,bilibili/kratos,Go,1220
 7877397,jmoiron/sqlx,Go,195
 31660590,emirpasic/gods,Go,327
 136815833,Dreamacro/clash,Go,468
 119160553,photoprism/photoprism,Go,196
 169948217,crawlab-team/crawlab,Go,920
-54539060,allegro/bigcache,Go,505
+54539060,allegro/bigcache,Go,504
 130430977,kubesphere/kubesphere,Go,576
 167304464,cortexlabs/cortex,Go,419
 121746465,eddycjy/go-gin-example,Go,200
