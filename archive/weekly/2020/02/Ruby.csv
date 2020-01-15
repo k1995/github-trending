@@ -4,8 +4,8 @@ id,name,lang,new stars
 308770,heartcombo/devise,Ruby,30
 481872,hashicorp/vagrant,Ruby,35
 911765,diaspora/diaspora,Ruby,9
-1090311,elastic/logstash,Ruby,31
-4095287,rubocop-hq/rubocop,Ruby,16
+1090311,elastic/logstash,Ruby,32
+4095287,rubocop-hq/rubocop,Ruby,15
 3195124,mperham/sidekiq,Ruby,19
 812393,ruby-grape/grape,Ruby,11
 1918677,fluent/fluentd,Ruby,30
@@ -19,7 +19,7 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,19
 202291859,chatwoot/chatwoot,Ruby,913
 1314319,instructure/canvas-lms,Ruby,13
-3277842,googleapis/google-api-ruby-client,Ruby,7
+3277842,googleapis/google-api-ruby-client,Ruby,6
 3898922,zammad/zammad,Ruby,18
 1175581,citation-style-language/styles,Ruby,6
 11426474,github/choosealicense.com,Ruby,19

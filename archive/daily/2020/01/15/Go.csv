@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,34
+17728164,hashicorp/terraform,Go,16
+14125254,hashicorp/consul,Go,10
+13124802,influxdata/influxdb,Go,12
+37448451,mattermost/mattermost-server,Go,15
+46806184,helm/charts,Go,16
+6051812,gorilla/mux,Go,11
+18369373,spf13/viper,Go,16
+12418999,gopherjs/gopherjs,Go,15
+122734569,iawia002/annie,Go,36
+33258973,influxdata/telegraf,Go,6
+5179099,go-redis/redis,Go,10
+167483271,sqshq/sampler,Go,53
+18858585,mailhog/MailHog,Go,8
+65434192,tidwall/gjson,Go,10
+36653430,hashicorp/nomad,Go,17
+26726495,go-swagger/go-swagger,Go,7
+21034555,asaskevich/govalidator,Go,6
+66509131,kubernetes/client-go,Go,8
+48714685,open-policy-agent/opa,Go,4
+16019737,Masterminds/squirrel,Go,8
+51193526,cosmos/cosmos-sdk,Go,3
+219616873,charmbracelet/glow,Go,52
+93446042,terraform-providers/terraform-provider-azurerm,Go,2
+228723879,houqp/sqlvet,Go,67

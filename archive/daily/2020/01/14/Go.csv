@@ -6,7 +6,6 @@ id,name,lang,new stars
 37448451,mattermost/mattermost-server,Go,15
 46806184,helm/charts,Go,24
 6051812,gorilla/mux,Go,21
-18369373,spf13/viper,Go,15
 12418999,gopherjs/gopherjs,Go,14
 122734569,iawia002/annie,Go,18
 33258973,influxdata/telegraf,Go,6
@@ -20,7 +19,6 @@ id,name,lang,new stars
 66509131,kubernetes/client-go,Go,8
 48714685,open-policy-agent/opa,Go,5
 16019737,Masterminds/squirrel,Go,7
-51193526,cosmos/cosmos-sdk,Go,3
 219616873,charmbracelet/glow,Go,52
 93446042,terraform-providers/terraform-provider-azurerm,Go,2
 228723879,houqp/sqlvet,Go,156

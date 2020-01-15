@@ -4,7 +4,7 @@ id,name,lang,new stars
 458058,symfony/symfony,PHP,10
 2253830,PHPMailer/PHPMailer,PHP,7
 7769432,vlucas/phpdotenv,PHP,4
-4916869,ramsey/uuid,PHP,10
+4916869,ramsey/uuid,PHP,7
 49014795,phpstan/phpstan,PHP,8
 61490598,PHPOffice/PhpSpreadsheet,PHP,7
 11340559,deployphp/deployer,PHP,3
@@ -17,7 +17,7 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,0
 63073734,laravel/passport,PHP,4
 22751672,tecnickcom/TCPDF,PHP,3
-41463886,codeigniter4/CodeIgniter4,PHP,2
+41463886,codeigniter4/CodeIgniter4,PHP,1
 59965104,nuwave/lighthouse,PHP,8
 27195711,alextselegidis/easyappointments,PHP,3
 27990640,TestLinkOpenSourceTRMS/testlink-code,PHP,4
