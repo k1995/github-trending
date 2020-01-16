@@ -1,14 +1,14 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,40
+27442967,fastlane/fastlane,Ruby,41
 585285,gollum/gollum,Ruby,24
 3314,spree/spree,Ruby,18
 3195124,mperham/sidekiq,Ruby,24
 1918677,fluent/fluentd,Ruby,33
-96395,faker-ruby/faker,Ruby,22
+96395,faker-ruby/faker,Ruby,21
 15435,Shopify/liquid,Ruby,19
 451035,heartcombo/simple_form,Ruby,8
 1725199,github/linguist,Ruby,24
-21829,thoughtbot/factory_bot,Ruby,8
+21829,thoughtbot/factory_bot,Ruby,10
 18486300,lewagon/setup,Ruby,415
 119760423,Netflix/fast_jsonapi,Ruby,17
 355893,github/markup,Ruby,7
@@ -16,11 +16,11 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,18
 592743,awesome-print/awesome_print,Ruby,4
 6899875,opf/openproject,Ruby,22
-202291859,chatwoot/chatwoot,Ruby,678
-1314319,instructure/canvas-lms,Ruby,14
+202291859,chatwoot/chatwoot,Ruby,824
+1314319,instructure/canvas-lms,Ruby,11
 30985840,solidusio/solidus,Ruby,12
-3898922,zammad/zammad,Ruby,15
-11426474,github/choosealicense.com,Ruby,16
+3898922,zammad/zammad,Ruby,16
+11426474,github/choosealicense.com,Ruby,17
 15042048,toptal/chewy,Ruby,4
-34840276,elastic/ansible-elasticsearch,Ruby,3
+34840276,elastic/ansible-elasticsearch,Ruby,4
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,12

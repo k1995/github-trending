@@ -1,16 +1,16 @@
 id,name,lang,new stars
 73648678,thepracticaldev/dev.to,Ruby,11
-3314,spree/spree,Ruby,6
+3314,spree/spree,Ruby,3
 3195124,mperham/sidekiq,Ruby,2
 1918677,fluent/fluentd,Ruby,7
 611921,activeadmin/activeadmin,Ruby,2
 47087,carrierwaveuploader/carrierwave,Ruby,1
-96395,faker-ruby/faker,Ruby,2
+96395,faker-ruby/faker,Ruby,1
 810796,sferik/rails_admin,Ruby,2
 52855516,Homebrew/homebrew-core,Ruby,8
-21829,thoughtbot/factory_bot,Ruby,0
+21829,thoughtbot/factory_bot,Ruby,1
 108278,chef/chef,Ruby,3
-211588,paper-trail-gem/paper_trail,Ruby,3
+211588,paper-trail-gem/paper_trail,Ruby,2
 37997,jnunemaker/httparty,Ruby,2
 75785147,rails/webpacker,Ruby,1
 96071,rack/rack,Ruby,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 9500075,ytti/oxidized,Ruby,3
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,3
 1794823,puppetlabs/puppetlabs-stdlib,Ruby,0
-128265535,GoogleCloudPlatform/click-to-deploy,Ruby,2
+128265535,GoogleCloudPlatform/click-to-deploy,Ruby,1
