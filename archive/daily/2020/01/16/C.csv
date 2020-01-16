@@ -7,7 +7,7 @@ id,name,lang,new stars
 196353673,taosdata/TDengine,C,16
 901662,libgit2/libgit2,C,0
 50874442,citusdata/citus,C,0
-689344,libretro/RetroArch,C,12
+689344,libretro/RetroArch,C,8
 5870069,edenhill/librdkafka,C,8
 105944401,yugabyte/yugabyte-db,C,6
 8270972,ARMmbed/mbed-os,C,1
@@ -17,7 +17,7 @@ id,name,lang,new stars
 29933948,fluent/fluent-bit,C,3
 83160811,ARMmbed/littlefs,C,3
 130012942,iqiyi/xHook,C,7
-212152900,wasm3/wasm3,C,320
+212152900,wasm3/wasm3,C,303
 76599439,FRRouting/frr,C,3
 31673071,linux-can/can-utils,C,2
 26095474,9fans/plan9port,C,2

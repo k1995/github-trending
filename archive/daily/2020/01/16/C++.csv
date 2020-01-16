@@ -1,7 +1,7 @@
 id,name,lang,new stars
 5108051,opencv/opencv,C++,32
 65600975,pytorch/pytorch,C++,25
-39840932,google/googletest,C++,18
+39840932,google/googletest,C++,14
 60273704,mozilla/DeepSpeech,C++,13
 1062572,catchorg/Catch2,C++,6
 64991887,microsoft/LightGBM,C++,9
@@ -21,6 +21,6 @@ id,name,lang,new stars
 58414589,intel/mkl-dnn,C++,2
 11636673,quickfix/quickfix,C++,0
 156228018,cyberbotics/webots,C++,2
-190000625,0xZ0F/Z0FCourse_ReverseEngineering,C++,116
+190000625,0xZ0F/Z0FCourse_ReverseEngineering,C++,134
 79226215,gmag11/painlessMesh,C++,4
 233539086,TheCherno/OpenGL,C++,12
