@@ -1,8 +1,8 @@
 id,name,lang,new stars
-10270250,facebook/react,JavaScript,75
-14440270,getify/You-Dont-Know-JS,,156
+10270250,facebook/react,JavaScript,80
+14440270,getify/You-Dont-Know-JS,,150
 121395510,CyC2018/CS-Notes,Java,292
-155220641,huggingface/transformers,Python,128
+155220641,huggingface/transformers,Python,100
 206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Python,311
 27051771,golang/protobuf,Go,16
 111442748,facebookresearch/wav2letter,C++,165
@@ -15,9 +15,9 @@ id,name,lang,new stars
 199509705,awslabs/autogluon,Python,246
 219035799,huggingface/tokenizers,Rust,677
 212152900,wasm3/wasm3,C,229
-166270225,dotnet-presentations/blazor-workshop,C#,40
 200653543,axa-group/Parsr,TypeScript,359
-180827064,MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator,,6
+166270225,dotnet-presentations/blazor-workshop,C#,40
+180827064,MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator,,9
 190000625,0xZ0F/Z0FCourse_ReverseEngineering,C++,115
 183586317,omuanko/nnjhtrkn,Batchfile,77
 232437359,Lyrebirds/cable-haunt-vulnerability-test,Python,67
