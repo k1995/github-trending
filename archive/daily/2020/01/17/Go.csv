@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,46
+14125254,hashicorp/consul,Go,15
+46806184,helm/charts,Go,26
+66573241,hyperledger/fabric,Go,5
+129717717,grafana/loki,Go,14
+5179099,go-redis/redis,Go,18
+31558937,gravitational/teleport,Go,3
+27051771,golang/protobuf,Go,22
+27576132,aws/aws-sdk-go,Go,6
+92313258,jetstack/cert-manager,Go,13
+21034555,asaskevich/govalidator,Go,10
+62799996,fluxcd/flux,Go,13
+93444615,terraform-providers/terraform-provider-aws,Go,8
+118105436,golang-migrate/migrate,Go,8
+50629145,google/pprof,Go,8
+16019737,Masterminds/squirrel,Go,16
+18765044,golang/oauth2,Go,6
+167304464,cortexlabs/cortex,Go,85
+184490584,GoogleCloudPlatform/terraformer,Go,4
+9120526,jackc/pgx,Go,6
+95761244,gogf/gf,Go,114
+14605416,Masterminds/sprig,Go,5
+155368246,elastic/cloud-on-k8s,Go,17
+188968112,zgoat/goatcounter,Go,54
+233580412,nurdism/neko,Go,19
