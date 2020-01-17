@@ -2,7 +2,7 @@ id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,172
 54346799,public-apis/public-apis,Python,51
 843222,scikit-learn/scikit-learn,Python,23
-155220641,huggingface/transformers,Python,99
+155220641,huggingface/transformers,Python,73
 206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Python,317
 162723104,OWASP/CheatSheetSeries,Python,41
 66424871,pytorch/examples,Python,12
@@ -12,7 +12,7 @@ id,name,lang,new stars
 88868842,PaddlePaddle/models,Python,7
 130375797,dmlc/dgl,Python,22
 35065876,GoogleCloudPlatform/python-docs-samples,Python,7
-212639071,bregman-arie/devops-exercises,Python,292
+212639071,bregman-arie/devops-exercises,Python,241
 199509705,awslabs/autogluon,Python,191
 122299416,optuna/optuna,Python,58
 114898943,SeldonIO/seldon-core,Python,8

@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,46
 14125254,hashicorp/consul,Go,15
-46806184,helm/charts,Go,26
+46806184,helm/charts,Go,29
 66573241,hyperledger/fabric,Go,5
 129717717,grafana/loki,Go,14
 5179099,go-redis/redis,Go,18
@@ -16,8 +16,8 @@ id,name,lang,new stars
 50629145,google/pprof,Go,8
 16019737,Masterminds/squirrel,Go,16
 18765044,golang/oauth2,Go,6
-167304464,cortexlabs/cortex,Go,85
-184490584,GoogleCloudPlatform/terraformer,Go,4
+167304464,cortexlabs/cortex,Go,132
+184490584,GoogleCloudPlatform/terraformer,Go,7
 9120526,jackc/pgx,Go,6
 95761244,gogf/gf,Go,114
 14605416,Masterminds/sprig,Go,5
