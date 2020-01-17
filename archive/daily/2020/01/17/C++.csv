@@ -1,5 +1,5 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,55
+45717250,tensorflow/tensorflow,C++,50
 9384267,electron/electron,C++,43
 23357588,protocolbuffers/protobuf,C++,32
 22887094,tesseract-ocr/tesseract,C++,33
@@ -10,7 +10,7 @@ id,name,lang,new stars
 27500243,google/libphonenumber,C++,4
 60246359,ClickHouse/ClickHouse,C++,20
 149111813,Tencent/MMKV,C++,28
-126412363,lemire/simdjson,C++,36
+126412363,lemire/simdjson,C++,43
 7056202,fmtlib/fmt,C++,16
 121454193,google/flutter-desktop-embedding,C++,6
 107794782,trojan-gfw/trojan,C++,232

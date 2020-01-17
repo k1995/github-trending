@@ -7,7 +7,7 @@ id,name,lang,new stars
 46806184,helm/charts,Go,111
 6051812,gorilla/mux,Go,83
 18369373,spf13/viper,Go,77
-6247705,stretchr/testify,Go,149
+6247705,stretchr/testify,Go,100
 167483271,sqshq/sampler,Go,252
 27051771,golang/protobuf,Go,65
 65434192,tidwall/gjson,Go,54
@@ -20,7 +20,7 @@ id,name,lang,new stars
 93444615,terraform-providers/terraform-provider-aws,Go,28
 66509131,kubernetes/client-go,Go,35
 87990209,kubernetes/autoscaler,Go,57
-167304464,cortexlabs/cortex,Go,391
+167304464,cortexlabs/cortex,Go,429
 95761244,gogf/gf,Go,306
 19608522,googleapis/google-cloud-go,Go,11
 231446461,rakyll/govalidate,Go,109
