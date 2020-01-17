@@ -1,10 +1,10 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,133
-458058,symfony/symfony,PHP,52
+2579314,fzaninotto/Faker,PHP,66
 7548986,laravel/framework,PHP,77
-448045,sebastianbergmann/phpunit,PHP,53
 12615154,barryvdh/laravel-debugbar,PHP,37
-8678290,barryvdh/laravel-ide-helper,PHP,42
+8678290,barryvdh/laravel-ide-helper,PHP,41
+5627682,serbanghita/Mobile-Detect,PHP,14
 2884111,magento/magento2,PHP,26
 49014795,phpstan/phpstan,PHP,53
 42480275,spatie/laravel-permission,PHP,37
@@ -14,13 +14,13 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,27
 2179920,woocommerce/woocommerce,PHP,17
 4551765,thephpleague/oauth2-server,PHP,23
-677467,doctrine/common,PHP,27
 21298446,firefly-iii/firefly-iii,PHP,45
-12204147,mautic/mautic,PHP,15
+33916850,spatie/laravel-medialibrary,PHP,19
 86350964,the-benchmarker/web-frameworks,PHP,30
 74386167,vimeo/psalm,PHP,29
+62087941,nWidart/laravel-modules,PHP,15
+8077402,MISP/MISP,PHP,11
 148129143,bagisto/bagisto,PHP,38
 29501260,api-platform/core,PHP,3
-1975671,Kunena/Kunena-Forum,PHP,6
 232599652,laravel/airlock,PHP,435
-232155363,the-fast-track/book-5.0-1,PHP,21
+131995661,shopware/platform,PHP,13

@@ -1,26 +1,26 @@
 id,name,lang,new stars
+21289110,vinta/awesome-python,Python,418
 4164482,django/django,Python,232
 3544424,jakubroztocil/httpie,Python,169
-1362490,psf/requests,Python,130
 40416236,minimaxir/big-list-of-naughty-strings,Python,287
 12888993,home-assistant/home-assistant,Python,264
+858127,pandas-dev/pandas,Python,117
 155220641,huggingface/transformers,Python,548
 138331573,sebastianruder/NLP-progress,Python,312
 206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Python,1533
-65083316,luong-komorebi/Awesome-Linux-Software,Python,200
 71220757,swisskyrepo/PayloadsAllTheThings,Python,133
-33702544,plotly/dash,Python,62
-118861276,gto76/python-cheatsheet,Python,99
 92238803,openai/baselines,Python,60
-6780767,aws/aws-cli,Python,40
+160919119,tiangolo/fastapi,Python,460
+44104712,donnemartin/awesome-aws,Python,37
 5171600,python-pillow/Pillow,Python,38
 154739597,google/jax,Python,95
 136202695,mlflow/mlflow,Python,145
 26382146,joelgrus/data-science-from-scratch,Python,56
-78240897,CoreyMSchafer/code_snippets,Jupyter Notebook,51
+49346299,pandas-profiling/pandas-profiling,Python,89
+130375797,dmlc/dgl,Python,119
 179492861,encode/httpx,Python,704
+179728393,microsoft/nlp-recipes,Python,169
 138796699,dbolya/yolact,Python,201
-181513363,zpoint/CPython-Internals,Python,123
+120768790,OakwoodAI/Automagica,Python,35
 203465734,facebookresearch/SlowFast,Python,326
-224296809,google-research/ALBERT,Python,210
-232026136,irfanICMLL/CoupleGenerator,Python,90
+223357324,CLUEbenchmark/CLUE,Python,54
