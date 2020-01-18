@@ -1,12 +1,12 @@
 id,name,lang,new stars
 48378947,fatedier/frp,Go,68
-11225014,etcd-io/etcd,Go,24
+11225014,etcd-io/etcd,Go,25
 3577919,astaxie/beego,Go,20
 17728164,hashicorp/terraform,Go,19
 133251103,wagoodman/dive,Go,19
 26337322,rancher/rancher,Go,14
-46806184,helm/charts,Go,25
-135516270,rancher/k3s,Go,15
+46806184,helm/charts,Go,24
+135516270,rancher/k3s,Go,17
 14956897,julienschmidt/httprouter,Go,9
 8966356,hashicorp/packer,Go,11
 129717717,grafana/loki,Go,15
@@ -18,7 +18,7 @@ id,name,lang,new stars
 169948217,crawlab-team/crawlab,Go,20
 53174289,gruntwork-io/terratest,Go,10
 134012064,pion/webrtc,Go,26
-167304464,cortexlabs/cortex,Go,90
+167304464,cortexlabs/cortex,Go,87
 46904685,opentracing/opentracing-go,Go,3
 97006318,aQuaYi/LeetCode-in-Go,Go,6
 43332504,GoogleCloudPlatform/golang-samples,Go,3
