@@ -1,9 +1,9 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,45
+45717250,tensorflow/tensorflow,C++,44
 44838949,apple/swift,C++,15
 65600975,pytorch/pytorch,C++,43
-22887094,tesseract-ocr/tesseract,C++,33
-15634981,godotengine/godot,C++,31
+22887094,tesseract-ocr/tesseract,C++,31
+15634981,godotengine/godot,C++,35
 1200050,ariya/phantomjs,C++,10
 168008797,microsoft/calculator,C++,25
 74627617,commaai/openpilot,C++,14
@@ -12,13 +12,13 @@ id,name,lang,new stars
 23129458,aseprite/aseprite,C++,13
 3925242,bkaradzic/bgfx,C++,7
 78483432,TranslucentTB/TranslucentTB,C++,24
-190000625,0xZ0F/Z0FCourse_ReverseEngineering,C++,492
+190000625,0xZ0F/Z0FCourse_ReverseEngineering,C++,1229
 17055264,libigl/libigl,C++,5
 3030065,gnuradio/gnuradio,C++,4
 53357782,acidanthera/AppleALC,C++,4
 85591067,wwmm/pulseeffects,C++,2
 37022659,crankyoldgit/IRremoteESP8266,C++,2
-208366483,microsoft/verona,C++,716
+208366483,microsoft/verona,C++,717
 22197389,e-maxx-eng/e-maxx-eng,C++,3
 128050064,tum-vision/LDSO,C++,3
 220819663,Hopson97/open-builder,C++,14

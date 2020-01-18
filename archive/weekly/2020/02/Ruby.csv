@@ -1,5 +1,5 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,51
+27442967,fastlane/fastlane,Ruby,48
 308770,heartcombo/devise,Ruby,34
 3314,spree/spree,Ruby,18
 3195124,mperham/sidekiq,Ruby,18
@@ -11,10 +11,10 @@ id,name,lang,new stars
 52855516,Homebrew/homebrew-core,Ruby,46
 21829,thoughtbot/factory_bot,Ruby,11
 108278,chef/chef,Ruby,10
-18486300,lewagon/setup,Ruby,416
+18486300,lewagon/setup,Ruby,418
 96071,rack/rack,Ruby,16
-202291859,chatwoot/chatwoot,Ruby,447
-125511962,hendricius/the-bread-code,Ruby,34
+202291859,chatwoot/chatwoot,Ruby,323
+125511962,hendricius/the-bread-code,Ruby,35
 1314319,instructure/canvas-lms,Ruby,22
 30985840,solidusio/solidus,Ruby,32
 3898922,zammad/zammad,Ruby,9
@@ -22,5 +22,5 @@ id,name,lang,new stars
 35079964,education/classroom,Ruby,5
 34840276,elastic/ansible-elasticsearch,Ruby,5
 114265475,w181496/Web-CTF-Cheatsheet,Ruby,50
-154027884,samber/awesome-prometheus-alerts,Ruby,25
-203002681,riggraz/astuto,Ruby,264
+154027884,samber/awesome-prometheus-alerts,Ruby,28
+203002681,riggraz/astuto,Ruby,255

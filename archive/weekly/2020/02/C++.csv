@@ -1,7 +1,7 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,527
+100060912,microsoft/terminal,C++,529
 23357588,protocolbuffers/protobuf,C++,148
-65600975,pytorch/pytorch,C++,230
+65600975,pytorch/pytorch,C++,231
 15634981,godotengine/godot,C++,225
 11171548,nlohmann/json,C++,129
 5133949,swoole/swoole-src,C++,54
@@ -9,8 +9,8 @@ id,name,lang,new stars
 74627617,commaai/openpilot,C++,136
 1062572,catchorg/Catch2,C++,41
 26038648,gabime/spdlog,C++,82
-107794782,trojan-gfw/trojan,C++,474
-111442748,facebookresearch/wav2letter,C++,515
+107794782,trojan-gfw/trojan,C++,477
+111442748,facebookresearch/wav2letter,C++,516
 191820100,google/mediapipe,C++,89
 46374199,IntelRealSense/librealsense,C++,25
 181436799,alibaba/MNN,C++,51
@@ -23,4 +23,4 @@ id,name,lang,new stars
 10599951,emilybache/GildedRose-Refactoring-Kata,C++,10
 173272321,bigtreetech/BIGTREETECH-SKR-V1.3,C++,12
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,21
-232686735,AltimorTASDK/SFVNetcodeFix,C++,38
+232686735,AltimorTASDK/SFVNetcodeFix,C++,39

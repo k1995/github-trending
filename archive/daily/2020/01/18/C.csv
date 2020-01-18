@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1903522,php/php-src,C,13
+1903522,php/php-src,C,12
 24586308,cfenollosa/os-tutorial,C,10
 18666758,pjreddie/darknet,C,14
 908607,numpy/numpy,C,13
 47409672,hashcat/hashcat,C,13
-27737393,qmk/qmk_firmware,C,11
+27737393,qmk/qmk_firmware,C,10
 45821540,openwrt/openwrt,C,8
 2328181,freebsd/freebsd,C,4
 70127218,espressif/arduino-esp32,C,7
@@ -18,8 +18,8 @@ id,name,lang,new stars
 66966208,openbsd/src,C,2
 76599439,FRRouting/frr,C,3
 90867899,stm32duino/Arduino_Core_STM32,C,2
-89516721,Matchstic/ReProvision,C,6
-186345741,glouw/openempires,C,66
+89516721,Matchstic/ReProvision,C,7
+186345741,glouw/openempires,C,72
 158094782,cilynx/rtl88x2BU_WiFi_linux_v5.3.1_27678.20180430_COEX20180427-5959,C,4
 162185299,AlexGalhardo/ICMC-USP,C,1
 161623026,destan19/OpenAppFilter,C,3
