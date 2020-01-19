@@ -1,9 +1,9 @@
 id,name,lang,new stars
 27193779,nodejs/node,JavaScript,46
 14747598,typicode/json-server,JavaScript,27
-36040894,gatsbyjs/gatsby,JavaScript,40
+36040894,gatsbyjs/gatsby,JavaScript,42
 19872456,ReactTraining/react-router,JavaScript,20
-46629305,NARKOZ/hacker-scripts,JavaScript,124
+46629305,NARKOZ/hacker-scripts,JavaScript,108
 13753636,jhipster/generator-jhipster,JavaScript,15
 110446844,marktext/marktext,JavaScript,22
 27388642,nfarina/homebridge,JavaScript,11
@@ -12,7 +12,7 @@ id,name,lang,new stars
 34268496,leecade/react-native-swiper,JavaScript,5
 74962515,gchq/CyberChef,JavaScript,5
 50213667,text-mask/text-mask,JavaScript,9
-37743219,sparksuite/simplemde-markdown-editor,JavaScript,4
+37743219,sparksuite/simplemde-markdown-editor,JavaScript,6
 2255947,cytoscape/cytoscape.js,JavaScript,8
 224663696,alpinejs/alpine,JavaScript,104
 56064194,OmniDB/OmniDB,JavaScript,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 176027106,matchai/waka-box,JavaScript,6
 198878888,twbs/icons,JavaScript,4
 212468537,Rocketseat/semana-omnistack-9,JavaScript,7
-233885626,filipedeschamps/devradar,JavaScript,21
+233885626,filipedeschamps/devradar,JavaScript,23
 227375274,exercism/v3,JavaScript,4
