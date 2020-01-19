@@ -1,20 +1,20 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,115
+54346799,public-apis/public-apis,Python,106
 4164482,django/django,Python,65
 12888993,home-assistant/home-assistant,Python,55
 139824423,Avik-Jain/100-Days-Of-ML-Code,Python,20
-41058054,isocpp/CppCoreGuidelines,Python,30
+41058054,isocpp/CppCoreGuidelines,Python,31
 3834332,bokeh/bokeh,Python,13
 196284711,microsoft/cascadia-code,Python,147
 169100692,NVlabs/stylegan,Python,18
 1460385,scipy/scipy,Python,14
 52728517,programthink/zhao,Python,18
 111340129,keras-team/autokeras,Python,27
-163346054,uber/ludwig,Python,32
-209104196,microsoft/c9-python-getting-started,Python,26
+163346054,uber/ludwig,Python,30
+209104196,microsoft/c9-python-getting-started,Python,25
 976994,pennersr/django-allauth,Python,11
-97641933,OpenMined/PySyft,Python,142
-212639071,bregman-arie/devops-exercises,Python,297
+97641933,OpenMined/PySyft,Python,129
+212639071,bregman-arie/devops-exercises,Python,377
 3810626,mrjbq7/ta-lib,Python,6
 62063141,Jack-Lee-Hiter/AlgorithmsByPython,Python,7
 202940640,tamarott/SinGAN,Python,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 199730019,tensortrade-org/tensortrade,Python,9
 91948540,ranaroussi/yfinance,Python,11
 175851515,BloodAxe/pytorch-toolbelt,Python,76
-232901618,lucidrains/reformer-pytorch,Python,66
+232901618,lucidrains/reformer-pytorch,Python,46
 169527185,smellslikeml/ActionAI,Python,6
