@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,153
+1863329,laravel/laravel,PHP,157
 2579314,fzaninotto/Faker,PHP,77
-7548986,laravel/framework,PHP,95
-1420053,guzzle/guzzle,PHP,65
+7548986,laravel/framework,PHP,97
+1420053,guzzle/guzzle,PHP,66
 3431193,yiisoft/yii2,PHP,21
 5627682,serbanghita/Mobile-Detect,PHP,18
 2884111,magento/magento2,PHP,25
-49014795,phpstan/phpstan,PHP,51
-61490598,PHPOffice/PhpSpreadsheet,PHP,40
-42480275,spatie/laravel-permission,PHP,47
+49014795,phpstan/phpstan,PHP,52
+61490598,PHPOffice/PhpSpreadsheet,PHP,41
+42480275,spatie/laravel-permission,PHP,48
 597887,doctrine/orm,PHP,41
 330275,twigphp/Twig,PHP,34
 12166778,googleapis/google-api-php-client,PHP,23
@@ -17,10 +17,10 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,18
 85067860,easy-swoole/easyswoole,PHP,88
 22751672,tecnickcom/TCPDF,PHP,17
-159606650,hyperf/hyperf,PHP,65
-52815899,cnvs/canvas,PHP,48
-148129143,bagisto/bagisto,PHP,37
+159606650,hyperf/hyperf,PHP,66
+52815899,cnvs/canvas,PHP,51
+148129143,bagisto/bagisto,PHP,38
 521583,symfony/symfony-docs,PHP,2
 29501260,api-platform/core,PHP,4
-232599652,laravel/airlock,PHP,326
-131995661,shopware/platform,PHP,17
+232599652,laravel/airlock,PHP,329
+131995661,shopware/platform,PHP,18

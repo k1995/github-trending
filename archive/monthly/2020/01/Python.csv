@@ -1,16 +1,16 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,3009
+83222441,donnemartin/system-design-primer,Python,3004
 21289110,vinta/awesome-python,Python,1563
-1039520,ytdl-org/youtube-dl,Python,1625
+1039520,ytdl-org/youtube-dl,Python,1623
 12888993,home-assistant/home-assistant,Python,1005
-5483330,soimort/you-get,Python,1181
+5483330,soimort/you-get,Python,1179
 91573538,testerSunshine/12306,Python,9291
 80990461,eriklindernoren/ML-From-Scratch,Python,1265
-206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Python,2389
+206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Python,2388
 169529567,zhaoolee/ChromeAppHeroes,Python,1258
 136026789,iperov/DeepFaceLab,Python,626
-164471183,pjialin/py12306,Python,3307
-160919119,tiangolo/fastapi,Python,1429
+164471183,pjialin/py12306,Python,3306
+160919119,tiangolo/fastapi,Python,1428
 31912224,apprenticeharper/DeDRM_tools,Python,178
 2771544,rq/rq,Python,645
 135673451,microsoft/nni,Python,1413
@@ -22,5 +22,5 @@ id,name,lang,new stars
 32722849,zhaipro/easy12306,Python,874
 224284178,NVlabs/stylegan2,Python,892
 224296809,google-research/ALBERT,Python,1182
-200977744,Entromorgan/Autoticket,Python,347
+200977744,Entromorgan/Autoticket,Python,346
 212990622,YinAoXiong/12306_code_server,Python,315
