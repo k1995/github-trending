@@ -5,7 +5,7 @@ id,name,lang,new stars
 74175805,istio/istio,Go,142
 17728164,hashicorp/terraform,Go,112
 14125254,hashicorp/consul,Go,79
-13124802,influxdata/influxdb,Go,67
+13124802,influxdata/influxdb,Go,63
 46806184,helm/charts,Go,131
 6051812,gorilla/mux,Go,81
 18369373,spf13/viper,Go,81
@@ -19,8 +19,8 @@ id,name,lang,new stars
 17451182,go-yaml/yaml,Go,25
 93444615,terraform-providers/terraform-provider-aws,Go,35
 66509131,kubernetes/client-go,Go,39
-167304464,cortexlabs/cortex,Go,466
+167304464,cortexlabs/cortex,Go,423
 95761244,gogf/gf,Go,380
 94779471,aquasecurity/kube-bench,Go,25
-109330128,uber-go/goleak,Go,261
+109330128,uber-go/goleak,Go,138
 197374067,grafana/tanka,Go,263
