@@ -1,7 +1,7 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,9
+458058,symfony/symfony,PHP,5
 3482588,danielmiessler/SecLists,PHP,16
-7548986,laravel/framework,PHP,29
+7548986,laravel/framework,PHP,10
 28628034,flarum/flarum,PHP,4
 60243197,nextcloud/server,PHP,19
 8678290,barryvdh/laravel-ide-helper,PHP,10
@@ -12,12 +12,12 @@ id,name,lang,new stars
 86350964,the-benchmarker/web-frameworks,PHP,6
 4224042,roundcube/roundcubemail,PHP,4
 77574863,causefx/Organizr,PHP,2
-38116958,php-telegram-bot/core,PHP,6
+38116958,php-telegram-bot/core,PHP,2
 13914116,librenms/librenms,PHP,3
-170355508,livewire/livewire,PHP,31
+170355508,livewire/livewire,PHP,32
 166677839,hui-ho/WebStack-Laravel,PHP,2
 17694277,nette/php-generator,PHP,22
-153069455,collabnix/dockerlabs,PHP,5
+153069455,collabnix/dockerlabs,PHP,4
 3671952,KnpLabs/DoctrineBehaviors,PHP,4
 131592037,xb2016/kratos-pjax,PHP,2
 100302581,mad-web/laravel-initializer,PHP,7
