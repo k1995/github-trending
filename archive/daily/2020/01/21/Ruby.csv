@@ -1,14 +1,14 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,9
-8681349,huginn/huginn,Ruby,15
-481872,hashicorp/vagrant,Ruby,3
-37382858,kilimchoi/engineering-blogs,Ruby,16
-911765,diaspora/diaspora,Ruby,1
-1090311,elastic/logstash,Ruby,4
-52855516,Homebrew/homebrew-core,Ruby,5
-4994614,wpscanteam/wpscan,Ruby,3
-417862,octokit/octokit.rb,Ruby,3
-4523235,asciidoctor/asciidoctor,Ruby,4
+65252,jekyll/jekyll,Ruby,6
+8681349,huginn/huginn,Ruby,12
+481872,hashicorp/vagrant,Ruby,2
+37382858,kilimchoi/engineering-blogs,Ruby,15
+911765,diaspora/diaspora,Ruby,0
+1090311,elastic/logstash,Ruby,3
+52855516,Homebrew/homebrew-core,Ruby,7
+4994614,wpscanteam/wpscan,Ruby,2
+417862,octokit/octokit.rb,Ruby,1
+4523235,asciidoctor/asciidoctor,Ruby,5
 35051828,dev-sec/ansible-os-hardening,Ruby,5
 38605747,intrigueio/intrigue-core,Ruby,2
 234192986,fastai/fast_template,Ruby,8
