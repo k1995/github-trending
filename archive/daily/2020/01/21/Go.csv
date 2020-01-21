@@ -2,7 +2,7 @@ id,name,lang,new stars
 23096959,golang/go,Go,55
 20904437,gin-gonic/gin,Go,42
 42408804,containous/traefik,Go,27
-17728164,hashicorp/terraform,Go,22
+17728164,hashicorp/terraform,Go,20
 43723161,helm/helm,Go,17
 13628513,sirupsen/logrus,Go,19
 135516270,rancher/k3s,Go,24
@@ -10,14 +10,14 @@ id,name,lang,new stars
 21233191,ipfs/go-ipfs,Go,11
 129717717,grafana/loki,Go,9
 62921553,rook/rook,Go,7
-122030607,cjbassi/gotop,Go,5
+122030607,cjbassi/gotop,Go,7
 146641150,tektoncd/pipeline,Go,12
 120625155,uber/prototool,Go,7
 19799491,tendermint/tendermint,Go,3
 113473682,googleforgames/agones,Go,12
 52193726,volatiletech/sqlboiler,Go,5
-200975456,hacklcx/HFish,Go,25
-202523140,alexellis/k3sup,Go,12
+200975456,hacklcx/HFish,Go,23
+202523140,alexellis/k3sup,Go,15
 107597148,aws/amazon-vpc-cni-k8s,Go,2
 93446075,terraform-providers/terraform-provider-google,Go,3
 91074692,zalando/postgres-operator,Go,4

@@ -1,5 +1,5 @@
 id,name,lang,new stars
-133442384,denoland/deno,TypeScript,300
+133442384,denoland/deno,TypeScript,413
 52631841,gothinkster/realworld,JavaScript,161
 20904437,gin-gonic/gin,Go,42
 74791366,ryanmcdermott/clean-code-javascript,JavaScript,574
@@ -8,17 +8,17 @@ id,name,lang,new stars
 58590700,tc39/proposals,,15
 21233191,ipfs/go-ipfs,Go,11
 152327866,Igglybuff/awesome-piracy,HTML,27
-53783664,easychen/howto-make-more-money,,110
+53783664,easychen/howto-make-more-money,,216
 149026292,cube-js/cube.js,JavaScript,38
 180827233,justinamiller/SoftwareArchitect,,1188
-121898717,dani-garcia/bitwarden_rs,Rust,13
+121898717,dani-garcia/bitwarden_rs,Rust,20
 98470332,sebastianstarke/AI4Animation,C++,15
-156317154,theonedev/onedev,Java,464
-163699938,bephrem1/backtobackswe,Java,10
-199730019,tensortrade-org/tensortrade,Python,28
-86897963,xiongziliang/ZLMediaKit,C++,44
+156317154,theonedev/onedev,Java,311
 204467410,kbariotis/templates,,250
 213480514,microsoft/ApplicationInspector,C#,205
+163699938,bephrem1/backtobackswe,Java,10
+199730019,tensortrade-org/tensortrade,Python,74
+86897963,xiongziliang/ZLMediaKit,C++,44
 61485617,sdlpal/sdlpal,Objective-C,108
 10827518,ospray/ospray,C++,38
 231697253,davidfowl/Micronetes,C#,48
