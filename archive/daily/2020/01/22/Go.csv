@@ -1,14 +1,14 @@
 id,name,lang,new stars
-42408804,containous/traefik,Go,19
-74175805,istio/istio,Go,34
+42408804,containous/traefik,Go,21
+74175805,istio/istio,Go,30
 17728164,hashicorp/terraform,Go,16
 41349039,dgraph-io/dgraph,Go,13
-135516270,rancher/k3s,Go,22
+135516270,rancher/k3s,Go,26
 22442668,openshift/origin,Go,11
-44350607,kubernetes/dashboard,Go,7
+44350607,kubernetes/dashboard,Go,10
 119160553,photoprism/photoprism,Go,7
 115436884,spiral/roadrunner,Go,8
-62799996,fluxcd/flux,Go,13
+62799996,fluxcd/flux,Go,12
 93444615,terraform-providers/terraform-provider-aws,Go,4
 27483832,gogo/protobuf,Go,7
 75190736,github/orchestrator,Go,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 206213815,pingcap/chaos-mesh,Go,22
 69111161,activecm/rita,Go,7
 108967484,sensepost/gowitness,Go,7
-116392590,stefanprodan/podinfo,Go,6
+116392590,stefanprodan/podinfo,Go,8
 159309090,snowlyg/IrisAdminApi,Go,5
