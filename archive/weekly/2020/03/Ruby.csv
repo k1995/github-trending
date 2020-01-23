@@ -1,15 +1,15 @@
 id,name,lang,new stars
+8514,rails/rails,Ruby,55
 7569578,discourse/discourse,Ruby,74
 27442967,fastlane/fastlane,Ruby,57
+308770,heartcombo/devise,Ruby,29
 2293158,rapid7/metasploit-framework,Ruby,73
 481872,hashicorp/vagrant,Ruby,43
-73648678,thepracticaldev/dev.to,Ruby,73
-1090311,elastic/logstash,Ruby,24
-3314,spree/spree,Ruby,13
 3195124,mperham/sidekiq,Ruby,18
+812393,ruby-grape/grape,Ruby,11
 611921,activeadmin/activeadmin,Ruby,8
-47087,carrierwaveuploader/carrierwave,Ruby,8
 96395,faker-ruby/faker,Ruby,9
+1333863,kaminari/kaminari,Ruby,10
 1725199,github/linguist,Ruby,22
 52855516,Homebrew/homebrew-core,Ruby,44
 6688319,DeathKing/Learning-SICP,Ruby,51
@@ -17,10 +17,10 @@ id,name,lang,new stars
 355893,github/markup,Ruby,8
 75785147,rails/webpacker,Ruby,11
 30337170,rmosolgo/graphql-ruby,Ruby,14
-96071,rack/rack,Ruby,10
-417862,octokit/octokit.rb,Ruby,9
+96071,rack/rack,Ruby,9
+4523235,asciidoctor/asciidoctor,Ruby,23
 30985840,solidusio/solidus,Ruby,40
 11426474,github/choosealicense.com,Ruby,7
-9500075,ytti/oxidized,Ruby,5
 93163073,dependabot/dependabot-core,Ruby,15
 154027884,samber/awesome-prometheus-alerts,Ruby,26
+234191063,ollypwn/CVE-2020-0601,Ruby,603

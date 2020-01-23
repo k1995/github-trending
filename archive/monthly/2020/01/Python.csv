@@ -5,6 +5,7 @@ id,name,lang,new stars
 4164482,django/django,Python,777
 12888993,home-assistant/home-assistant,Python,938
 91573538,testerSunshine/12306,Python,8029
+155220641,huggingface/transformers,Python,1797
 101684374,satwikkansal/wtfpython,Python,2507
 80990461,eriklindernoren/ML-From-Scratch,Python,772
 206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Python,2411
@@ -13,7 +14,6 @@ id,name,lang,new stars
 160919119,tiangolo/fastapi,Python,1492
 10332822,kovidgoyal/calibre,Python,186
 31912224,apprenticeharper/DeDRM_tools,Python,170
-2771544,rq/rq,Python,657
 135673451,microsoft/nni,Python,1435
 22489033,lazyprogrammer/machine_learning_examples,Python,142
 152166877,d2l-ai/d2l-en,Python,576
@@ -21,6 +21,6 @@ id,name,lang,new stars
 78880128,instagrambot/instabot,Python,186
 32722849,zhaipro/easy12306,Python,739
 203465734,facebookresearch/SlowFast,Python,1067
-122299416,optuna/optuna,Python,366
 224296809,google-research/ALBERT,Python,1139
+190153979,clovaai/CRAFT-pytorch,Python,113
 212990622,YinAoXiong/12306_code_server,Python,273

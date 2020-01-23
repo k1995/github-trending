@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,41
-10744183,netdata/netdata,C,27
-1903522,php/php-src,C,10
-24586308,cfenollosa/os-tutorial,C,9
+2325298,torvalds/linux,C,35
+10744183,netdata/netdata,C,28
+1903522,php/php-src,C,9
+24586308,cfenollosa/os-tutorial,C,12
 18496166,gentilkiwi/mimikatz,C,11
-40217904,swaywm/sway,C,13
+40217904,swaywm/sway,C,11
 78281075,spacehuhn/esp8266_deauther,C,12
-5100623,orangeduck/Cello,C,29
+5100623,orangeduck/Cello,C,33
 437011,zfsonlinux/zfs,C,8
 14902556,offensive-security/exploitdb,C,5
 3318027,id-Software/Quake-III-Arena,C,4
-70127218,espressif/arduino-esp32,C,4
-117948953,Atmosphere-NX/Atmosphere,C,4
+70127218,espressif/arduino-esp32,C,5
+117948953,Atmosphere-NX/Atmosphere,C,5
 19330466,Cyan4973/xxHash,C,6
-64060314,Screetsec/TheFatRat,C,82
+64060314,Screetsec/TheFatRat,C,29
 32921736,audacity/audacity,C,5
 68063511,tsl0922/ttyd,C,3
 5518793,Mzzopublic/C,C,22
@@ -22,5 +22,5 @@ id,name,lang,new stars
 15333809,open62541/open62541,C,1
 122993186,remzi-arpacidusseau/ostep-code,C,4
 127718181,espressif/esp-adf,C,1
-178932492,vnmakarov/mir,C,28
-227615179,ProtonVPN/android-app,C,62
+178932492,vnmakarov/mir,C,32
+227615179,ProtonVPN/android-app,C,63
