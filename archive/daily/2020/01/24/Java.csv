@@ -10,7 +10,7 @@ id,name,lang,new stars
 133134007,OpenAPITools/openapi-generator,Java,9
 4238977,springfox/springfox,Java,5
 139914932,quarkusio/quarkus,Java,9
-2544305,tomakehurst/wiremock,Java,4
+2544305,tomakehurst/wiremock,Java,3
 33816473,testcontainers/testcontainers-java,Java,3
 37796696,cucumber/cucumber,Java,2
 75882172,Netflix/conductor,Java,2
@@ -18,8 +18,8 @@ id,name,lang,new stars
 27911088,apache/nifi,Java,2
 45096760,widdix/aws-cf-templates,Java,1
 206387,apache/activemq,Java,3
-80899820,RodneyShag/HackerRank_solutions,Java,5
-76474200,apache/incubator-hudi,Java,3
+80899820,RodneyShag/HackerRank_solutions,Java,6
+76474200,apache/incubator-hudi,Java,1
 46148169,junit-team/junit5-samples,Java,2
 3743376,DSpace/DSpace,Java,0
 160156999,quarkusio/quarkus-quickstarts,Java,1

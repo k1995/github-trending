@@ -1,6 +1,6 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,106
-17620347,dotnet/aspnetcore,C#,100
+17620347,dotnet/aspnetcore,C#,95
 70104825,dotnet-architecture/eShopOnContainers,C#,74
 16157746,dotnet/efcore,C#,33
 14964475,AvaloniaUI/Avalonia,C#,59
@@ -8,7 +8,7 @@ id,name,lang,new stars
 126486701,Unity-Technologies/UnityCsReference,C#,22
 62256097,ThreeMammals/Ocelot,C#,47
 23315232,mbdavid/LiteDB,C#,22
-17369361,jbogard/MediatR,C#,32
+17369361,jbogard/MediatR,C#,30
 41822320,RicoSuter/NSwag,C#,23
 62172778,Unity-Technologies/ScriptableRenderPipeline,C#,19
 778828,MassTransit/MassTransit,C#,21

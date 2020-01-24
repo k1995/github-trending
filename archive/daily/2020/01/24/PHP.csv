@@ -1,10 +1,10 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,26
-2579314,fzaninotto/Faker,PHP,16
-458058,symfony/symfony,PHP,9
-7548986,laravel/framework,PHP,14
+2579314,fzaninotto/Faker,PHP,13
+458058,symfony/symfony,PHP,7
+7548986,laravel/framework,PHP,16
 1376664,Seldaek/monolog,PHP,10
-448045,sebastianbergmann/phpunit,PHP,9
+448045,sebastianbergmann/phpunit,PHP,6
 14732311,octobercms/october,PHP,4
 656494,cakephp/cakephp,PHP,4
 42480275,spatie/laravel-permission,PHP,7
@@ -14,9 +14,9 @@ id,name,lang,new stars
 4242230,PHPOffice/PHPWord,PHP,2
 6269013,aws/aws-sdk-php,PHP,4
 21298446,firefly-iii/firefly-iii,PHP,16
-9826184,elastic/elasticsearch-php,PHP,1
+9826184,elastic/elasticsearch-php,PHP,3
 14346979,snipe/snipe-it,PHP,2
-145865941,laravel/telescope,PHP,11
+145865941,laravel/telescope,PHP,10
 74386167,vimeo/psalm,PHP,5
 80249302,craftcms/cms,PHP,5
 139179084,area17/twill,PHP,4
