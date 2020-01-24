@@ -1,17 +1,17 @@
 id,name,lang,new stars
 5108051,opencv/opencv,C++,23
 15634981,godotengine/godot,C++,17
-22394357,osquery/osquery,C++,8
+22394357,osquery/osquery,C++,4
 184456251,microsoft/PowerToys,C++,62
 19374812,telegramdesktop/tdesktop,C++,12
 14259343,openalpr/openalpr,C++,6
-126412363,lemire/simdjson,C++,20
+126412363,lemire/simdjson,C++,21
 52729242,keepassxreboot/keepassxc,C++,11
 32944298,Z3Prover/z3,C++,4
 648332,assimp/assimp,C++,4
 7512484,ArduPilot/ardupilot,C++,6
 160083795,SerenityOS/serenity,C++,20
-7232856,AGWA/git-crypt,C++,2
+7232856,AGWA/git-crypt,C++,5
 75821432,llvm/llvm-project,C++,15
 32231207,endless-sky/endless-sky,C++,3
 98470332,sebastianstarke/AI4Animation,C++,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 14983921,srsLTE/srsLTE,C++,4
 128479644,esphome/esphome,C++,4
 10599951,emilybache/GildedRose-Refactoring-Kata,C++,3
-169164539,facebookresearch/habitat-sim,C++,8
-118039967,seq-lang/seq,C++,9
+169164539,facebookresearch/habitat-sim,C++,7
+118039967,seq-lang/seq,C++,8
 225643476,Christopheraburns/AWS-JPL-OSR-Challenge,C++,10
