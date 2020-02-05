@@ -1,26 +1,26 @@
 id,name,lang,new stars
-133442384,denoland/deno,TypeScript,1076
-52631841,gothinkster/realworld,JavaScript,740
-42408804,containous/traefik,Go,126
-17728164,hashicorp/terraform,Go,121
-49609581,PowerShell/PowerShell,C#,106
-74627617,commaai/openpilot,C++,122
-62091339,kubernetes/kops,Go,176
-65750241,expo/expo,Objective-C,87
-105379569,actix/actix-web,Rust,598
-163346054,uber/ludwig,Python,93
-2179920,woocommerce/woocommerce,PHP,27
-103894697,actix/actix,Rust,265
-212639071,bregman-arie/devops-exercises,Python,1214
-190000625,0xZ0F/Z0FCourse_ReverseEngineering,C++,1213
-167304464,cortexlabs/cortex,Go,331
-224663696,alpinejs/alpine,JavaScript,396
-173314762,JetBrains/JetBrainsMono,Kotlin,1405
-213020264,google/trax,Jupyter Notebook,883
-194027578,umijs/hooks,TypeScript,159
-165826654,deepmind/deepmind-research,Jupyter Notebook,179
-234191063,ollypwn/CurveBall,Ruby,364
-202978106,DroidKaigi/conference-app-2020,Kotlin,124
-228789619,omegasisters/homepage,HTML,224
-220819663,Hopson97/open-builder,C++,80
-234192123,kudelskisecurity/chainoffools,Python,106
+133442384,denoland/deno,TypeScript,1349
+52631841,gothinkster/realworld,JavaScript,752
+17728164,hashicorp/terraform,Go,111
+39840932,google/googletest,C++,60
+74627617,commaai/openpilot,C++,127
+60273704,mozilla/DeepSpeech,C++,84
+33702544,plotly/dash,Python,78
+65750241,expo/expo,Objective-C,88
+105379569,actix/actix-web,Rust,601
+34407651,Azure/azure-quickstart-templates,PowerShell,35
+103894697,actix/actix,Rust,249
+49986046,falcosecurity/falco,C++,39
+173314762,JetBrains/JetBrainsMono,Kotlin,1008
+122299416,optuna/optuna,Python,145
+88013053,docker/cli,Go,17
+208366483,microsoft/verona,C++,1501
+23891194,Azure/azure-powershell,C#,26
+213020264,google/trax,Jupyter Notebook,802
+210716005,dotnet/runtime,C#,87
+165826654,deepmind/deepmind-research,Jupyter Notebook,159
+231697253,davidfowl/Micronetes,C#,174
+180827064,MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator,,26
+202978106,DroidKaigi/conference-app-2020,Kotlin,123
+228789619,omegasisters/homepage,HTML,186
+220819663,Hopson97/open-builder,C++,87

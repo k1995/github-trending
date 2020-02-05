@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,1221
+11180687,gohugoio/hugo,Go,814
+74175805,istio/istio,Go,479
+17728164,hashicorp/terraform,Go,416
+401025,github/hub,Go,336
+31288958,hashicorp/vault,Go,222
+46806184,helm/charts,Go,432
+6051812,gorilla/mux,Go,256
+62091339,kubernetes/kops,Go,333
+6247705,stretchr/testify,Go,342
+122734569,iawia002/annie,Go,347
+165041732,bilibili/kratos,Go,1224
+136505169,tinygo-org/tinygo,Go,382
+109162639,thanos-io/thanos,Go,188
+37334619,golang/mock,Go,210
+93444615,terraform-providers/terraform-provider-aws,Go,151
+167304464,cortexlabs/cortex,Go,927
+87990209,kubernetes/autoscaler,Go,122
+81497153,kubernetes-sigs/external-dns,Go,114
+94779471,aquasecurity/kube-bench,Go,92
+136770331,hunterlong/statping,Go,389
+197998526,hoanhan101/algo,Go,1826
+88013053,docker/cli,Go,72
+105262714,pusher/oauth2_proxy,Go,95
+1380117,getlantern/lantern,Go,459
