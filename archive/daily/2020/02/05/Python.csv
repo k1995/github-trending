@@ -1,15 +1,15 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,100
+83222441,donnemartin/system-design-primer,Python,78
 63476337,TheAlgorithms/Python,Python,78
 51117837,tensorflow/models,Python,41
 3638964,ansible/ansible,Python,17
-58028038,521xueweihan/HelloGitHub,Python,131
-57222302,openai/gym,Python,10
+58028038,521xueweihan/HelloGitHub,Python,135
+57222302,openai/gym,Python,7
 19745004,odoo/odoo,Python,22
-88612945,junyanz/pytorch-CycleGAN-and-pix2pix,Python,14
+88612945,junyanz/pytorch-CycleGAN-and-pix2pix,Python,15
 6780767,aws/aws-cli,Python,7
-106024057,rusty1s/pytorch_geometric,Python,14
-89266735,facebookresearch/ParlAI,Python,7
+106024057,rusty1s/pytorch_geometric,Python,13
+89266735,facebookresearch/ParlAI,Python,5
 68254498,tensorflow/cleverhans,Python,5
 130375797,dmlc/dgl,Python,11
 178626720,PyTorchLightning/pytorch-lightning,Python,38
@@ -17,10 +17,10 @@ id,name,lang,new stars
 168799526,rwightman/pytorch-image-models,Python,81
 112409981,mitre/caldera,Python,5
 133100880,kubeflow/pipelines,Python,2
-1301584,mne-tools/mne-python,Python,3
+1301584,mne-tools/mne-python,Python,2
 177059049,baowenbo/DAIN,Python,101
-136332816,tychxn/jd-assistant,Python,89
+136332816,tychxn/jd-assistant,Python,110
 50497794,maqp/tfc,Python,78
-237434537,BlankerL/DXY-2019-nCoV-Data,Python,85
-237731180,Echowxsy/CMPEDUDownload,Python,36
+237434537,BlankerL/DXY-2019-nCoV-Data,Python,79
+237731180,Echowxsy/CMPEDUDownload,Python,45
 236332871,jayanam/jmesh-tools,Python,11

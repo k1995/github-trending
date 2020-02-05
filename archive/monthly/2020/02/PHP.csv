@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,577
-3482588,danielmiessler/SecLists,PHP,593
-7548986,laravel/framework,PHP,335
+1863329,laravel/laravel,PHP,579
+3482588,danielmiessler/SecLists,PHP,592
+7548986,laravel/framework,PHP,338
 1420053,guzzle/guzzle,PHP,253
-60243197,nextcloud/server,PHP,359
+60243197,nextcloud/server,PHP,360
 8678290,barryvdh/laravel-ide-helper,PHP,170
 2884111,magento/magento2,PHP,97
 79111500,jupeter/clean-code-php,PHP,168
@@ -18,7 +18,7 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,56
 439861,moodle/moodle,PHP,46
 74386167,vimeo/psalm,PHP,124
-170355508,livewire/livewire,PHP,303
+170355508,livewire/livewire,PHP,305
 1957456,Dolibarr/dolibarr,PHP,48
 29501260,api-platform/core,PHP,45
 27195711,alextselegidis/easyappointments,PHP,51

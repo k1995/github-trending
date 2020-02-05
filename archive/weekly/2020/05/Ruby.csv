@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,56
-7569578,discourse/discourse,Ruby,82
+8514,rails/rails,Ruby,58
+7569578,discourse/discourse,Ruby,79
 308770,heartcombo/devise,Ruby,27
 53238813,Homebrew/brew,Ruby,68
-52281283,tootsuite/mastodon,Ruby,58
+52281283,tootsuite/mastodon,Ruby,63
 2293158,rapid7/metasploit-framework,Ruby,67
-481872,hashicorp/vagrant,Ruby,42
+481872,hashicorp/vagrant,Ruby,43
 2203645,CocoaPods/CocoaPods,Ruby,16
-73648678,thepracticaldev/dev.to,Ruby,75
-1090311,elastic/logstash,Ruby,24
+73648678,thepracticaldev/dev.to,Ruby,73
+1090311,elastic/logstash,Ruby,27
 611921,activeadmin/activeadmin,Ruby,3
-47087,carrierwaveuploader/carrierwave,Ruby,9
-1333863,kaminari/kaminari,Ruby,9
+47087,carrierwaveuploader/carrierwave,Ruby,8
+1333863,kaminari/kaminari,Ruby,10
 6529205,varvet/pundit,Ruby,11
 21829,thoughtbot/factory_bot,Ruby,11
 13761875,greatghoul/remote-working,Ruby,61
@@ -19,8 +19,8 @@ id,name,lang,new stars
 11607598,ruby-concurrency/concurrent-ruby,Ruby,14
 355893,github/markup,Ruby,20
 5954,jeremyevans/sequel,Ruby,10
-839336,colszowka/simplecov,Ruby,12
-96071,rack/rack,Ruby,18
-417862,octokit/octokit.rb,Ruby,3
+839336,colszowka/simplecov,Ruby,13
+96071,rack/rack,Ruby,16
+417862,octokit/octokit.rb,Ruby,4
 46698467,ankane/strong_migrations,Ruby,16
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,5
