@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,36
-2579314,fzaninotto/Faker,PHP,12
+1863329,laravel/laravel,PHP,30
+2579314,fzaninotto/Faker,PHP,11
 3482588,danielmiessler/SecLists,PHP,26
 7548986,laravel/framework,PHP,18
 2699935,squizlabs/PHP_CodeSniffer,PHP,7
@@ -19,8 +19,8 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,2
 134953788,mashirozx/Sakura,PHP,3
 131995661,shopware/platform,PHP,7
-195836215,magicblack/maccms10,PHP,7
+195836215,magicblack/maccms10,PHP,5
 167131059,5iux/sou,PHP,2
-237949290,spatie/ssh,PHP,46
-237803713,kajweb/wqxuetang_downloader,Python,36
+237949290,spatie/ssh,PHP,70
+237803713,kajweb/wqxuetang_downloader,Python,19
 235646132,bmadigan/dizzybank,PHP,25

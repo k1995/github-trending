@@ -1,10 +1,10 @@
 id,name,lang,new stars
 23096959,golang/go,Go,55
-20904437,gin-gonic/gin,Go,41
-11225014,etcd-io/etcd,Go,26
-29261473,minio/minio,Go,20
+20904437,gin-gonic/gin,Go,32
+11225014,etcd-io/etcd,Go,24
+29261473,minio/minio,Go,21
 13855476,jinzhu/gorm,Go,25
-26337322,rancher/rancher,Go,12
+26337322,rancher/rancher,Go,11
 41349039,dgraph-io/dgraph,Go,14
 46806184,helm/charts,Go,24
 80087836,dgraph-io/badger,Go,9
@@ -16,11 +16,11 @@ id,name,lang,new stars
 68964263,coreos/prometheus-operator,Go,11
 88705168,lifei6671/mindoc,Go,3
 167304464,cortexlabs/cortex,Go,33
+206690330,eth0izzle/shhgit,Go,25
 57333709,kubernetes/test-infra,Go,3
-206690330,eth0izzle/shhgit,Go,27
 57912964,kubernetes/enhancements,Go,2
 116825580,kubernetes-sigs/kubefed,Go,4
 207928913,salesforce/sloop,Go,5
-234231371,gofiber/fiber,Go,57
+234231371,gofiber/fiber,Go,55
 234925933,atredispartners/flamingo,Go,19
 238297383,deviceplane/deviceplane,Go,12

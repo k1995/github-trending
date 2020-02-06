@@ -1,20 +1,20 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,56
+2325298,torvalds/linux,C,55
 36502,git/git,C,15
 15183485,julycoding/The-Art-Of-Programming-By-July,C,7
-5101141,stedolan/jq,C,9
 13233158,obsproject/obs-studio,C,12
-7634677,openssl/openssl,C,10
+5101141,stedolan/jq,C,9
+7634677,openssl/openssl,C,9
 18496166,gentilkiwi/mimikatz,C,12
 84240850,timescale/timescaledb,C,7
 1482997,phpredis/phpredis,C,9
-102578345,coolsnowwolf/lede,C,35
+102578345,coolsnowwolf/lede,C,39
 15583310,SoftEtherVPN/SoftEtherVPN,C,11
 32873313,systemd/systemd,C,13
 27737393,qmk/qmk_firmware,C,9
 75811015,Tencent/xLua,C,3
 9435153,AppImage/AppImageKit,C,6
-30291090,i3/i3,C,4
+30291090,i3/i3,C,3
 13297858,vysheng/tg,C,6
 54280778,DaveGamble/cJSON,C,7
 16734696,meetecho/janus-gateway,C,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 92329433,canonical/dqlite,C,2
 86245815,pygame/pygame,C,4
 5410234,OISF/suricata,C,3
-92715023,zhaojh329/rtty,C,65
+92715023,zhaojh329/rtty,C,64
 161904619,yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD,C,8
