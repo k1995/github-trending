@@ -1,17 +1,16 @@
 id,name,lang,new stars
 14440270,getify/You-Dont-Know-JS,,2561
-29028775,facebook/react-native,JavaScript,1061
 90796663,puppeteer/puppeteer,JavaScript,1100
-70107786,zeit/next.js,JavaScript,1086
-133442384,denoland/deno,TypeScript,3269
-36040894,gatsbyjs/gatsby,JavaScript,993
+133442384,denoland/deno,TypeScript,3268
+36040894,gatsbyjs/gatsby,JavaScript,992
+52631841,gothinkster/realworld,JavaScript,1424
 74791366,ryanmcdermott/clean-code-javascript,JavaScript,3955
 138393139,trimstray/the-book-of-secret-knowledge,,5311
-15634981,godotengine/godot,C++,897
+15634981,godotengine/godot,C++,896
 127407957,azl397985856/leetcode,JavaScript,2035
 115478820,binhnguyennus/awesome-scalability,,1038
 80945428,nestjs/nest,TypeScript,1138
-106017343,tailwindcss/tailwindcss,CSS,1098
+106017343,tailwindcss/tailwindcss,CSS,1096
 74627617,commaai/openpilot,C++,515
 74660642,taichi-dev/taichi,C++,6275
 53783664,easychen/howto-make-more-money,,1827
@@ -20,7 +19,8 @@ id,name,lang,new stars
 107794782,trojan-gfw/trojan,C++,1499
 111442748,facebookresearch/wav2letter,C++,651
 4165675,smicallef/spiderfoot,Python,1317
-85371262,williamfiset/Algorithms,Java,767
-197998526,hoanhan101/algo,Go,1838
+78240897,CoreyMSchafer/code_snippets,Jupyter Notebook,229
+85371262,williamfiset/Algorithms,Java,791
+202429201,0wczar/airframe-react,JavaScript,336
 148228732,yarnpkg/berry,TypeScript,421
-224296809,google-research/ALBERT,Python,716
+140609832,seanmonstar/warp,Rust,340
