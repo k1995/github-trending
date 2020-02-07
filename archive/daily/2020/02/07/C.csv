@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,39
+2325298,torvalds/linux,C,46
 36502,git/git,C,14
 1903522,php/php-src,C,12
 24993138,google/brotli,C,5
 9330072,fogleman/Craft,C,4
-4999959,haiwen/seafile,C,7
+4999959,haiwen/seafile,C,6
 2321051,rofl0r/proxychains-ng,C,4
 67031040,upx/upx,C,10
 4151993,OpenVPN/openvpn,C,9
@@ -12,15 +12,15 @@ id,name,lang,new stars
 6376337,pocoproject/poco,C,5
 89318964,SecWiki/linux-kernel-exploits,C,2
 7258685,cloudius-systems/osv,C,2
-15257213,ldcsaa/HP-Socket,C,6
-23693362,yourtion/30dayMakeOS,C,4
+15257213,ldcsaa/HP-Socket,C,4
+23693362,yourtion/30dayMakeOS,C,3
 184909163,koekeishiya/yabai,C,15
 20597509,Rdatatable/data.table,C,4
 6331631,axboe/fio,C,6
 108989209,chiakge/Linux-NetSpeed,C,12
 184654298,bytecodealliance/wasm-micro-runtime,C,3
-92715023,zhaojh329/rtty,C,17
+92715023,zhaojh329/rtty,C,35
 178089499,TheWover/donut,C,4
-161904619,yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD,C,5
+161904619,yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD,C,4
 189044704,vanhauser-thc/AFLplusplus,C,3
-238181846,Snawoot/hisilicon-dvr-telnet,C,29
+238181846,Snawoot/hisilicon-dvr-telnet,C,21
