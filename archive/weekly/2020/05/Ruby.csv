@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,63
-65252,jekyll/jekyll,Ruby,88
-21600440,bayandin/awesome-awesomeness,Ruby,53
-308770,heartcombo/devise,Ruby,30
+8514,rails/rails,Ruby,64
+65252,jekyll/jekyll,Ruby,89
+21600440,bayandin/awesome-awesomeness,Ruby,52
+308770,heartcombo/devise,Ruby,32
 1090311,elastic/logstash,Ruby,25
-361310,teamcapybara/capybara,Ruby,10
+361310,teamcapybara/capybara,Ruby,11
 611921,activeadmin/activeadmin,Ruby,4
 47087,carrierwaveuploader/carrierwave,Ruby,10
-96395,faker-ruby/faker,Ruby,18
+96395,faker-ruby/faker,Ruby,19
 21829,thoughtbot/factory_bot,Ruby,5
 108278,chef/chef,Ruby,12
 2441517,puma/puma,Ruby,9
@@ -21,6 +21,6 @@ id,name,lang,new stars
 592743,awesome-print/awesome_print,Ruby,5
 2981455,github/gemoji,Ruby,4
 363163,bblimke/webmock,Ruby,8
-46698467,ankane/strong_migrations,Ruby,24
+46698467,ankane/strong_migrations,Ruby,23
 61203,Shopify/shopify_app,Ruby,5
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,6
