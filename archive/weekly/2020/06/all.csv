@@ -1,26 +1,26 @@
 id,name,lang,new stars
-4086616,shadowsocks/shadowsocks,Python,56
-29290473,XX-net/XX-Net,Python,67
-41912791,v2ray/v2ray-core,Go,422
-858127,pandas-dev/pandas,Python,140
-173228436,NationalSecurityAgency/ghidra,Java,204
-184456251,microsoft/PowerToys,C++,203
-58559694,desktop/desktop,TypeScript,51
-120227732,fyne-io/fyne,Go,251
-171795571,ShusenTang/Dive-into-DL-PyTorch,Jupyter Notebook,189
-107794782,trojan-gfw/trojan,C++,505
-152742185,yanue/V2rayU,Swift,318
-236750354,bradtraversy/vanillawebprojects,JavaScript,1936
-167304464,cortexlabs/cortex,Go,315
-237596051,teivah/algodeck,,1754
-85371262,williamfiset/Algorithms,Java,468
-212613049,cli/cli,Go,885
-217433767,facebookresearch/pytorch3d,Python,1233
-221554948,gskinnerTeam/flutter_vignettes,,60
-119285689,aamini/introtodeeplearning,Jupyter Notebook,33
-115516512,ivanpaulovich/clean-architecture-manga,C#,57
-136332816,tychxn/jd-assistant,Python,419
-235410230,BlankerL/DXY-2019-nCoV-Crawler,Python,316
-236119949,globalcitizen/2019-wuhan-coronavirus-data,PHP,125
-236689314,aj-4/tinder-swipe-bot,Python,71
-237053209,wuhan2020/wuhan2020.github.io,CSS,15
+2561582,daneden/animate.css,CSS,188
+29290473,XX-net/XX-Net,Python,95
+41912791,v2ray/v2ray-core,Go,479
+63477660,TheAlgorithms/Java,Java,415
+112567264,iikira/BaiduPCS-Go,Go,271
+184456251,microsoft/PowerToys,C++,213
+120227732,fyne-io/fyne,Go,864
+171795571,ShusenTang/Dive-into-DL-PyTorch,Jupyter Notebook,269
+34777562,ossrs/srs,C++,66
+107794782,trojan-gfw/trojan,C++,511
+161757837,elunez/eladmin,Java,98
+238126205,2019ncovmemory/nCovMemory,JavaScript,2075
+152742185,yanue/V2rayU,Swift,372
+212613049,cli/cli,Go,3085
+202890778,chakra-ui/chakra-ui,JavaScript,442
+217433767,facebookresearch/pytorch3d,Python,754
+177059049,baowenbo/DAIN,Python,331
+221554948,gskinnerTeam/flutter_vignettes,,89
+141389743,killgcd/chromego,Rich Text Format,43
+164596259,shadowsocks/v2ray-plugin,Go,31
+1380117,getlantern/lantern,Go,232
+234785134,zhanyong-wan/dongbei,Python,379
+136332816,tychxn/jd-assistant,Python,250
+220468701,facebookresearch/hiplot,TypeScript,234
+237434537,BlankerL/DXY-COVID-19-Data,Python,239
