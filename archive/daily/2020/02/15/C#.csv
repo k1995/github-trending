@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7600409,shadowsocks/shadowsocks-windows,C#,68
+7600409,shadowsocks/shadowsocks-windows,C#,54
 49609581,PowerShell/PowerShell,C#,23
 17620347,dotnet/aspnetcore,C#,14
 70104825,dotnet-architecture/eShopOnContainers,C#,11
@@ -14,13 +14,13 @@ id,name,lang,new stars
 76445704,dotnetcore/CAP,C#,2
 41822320,RicoSuter/NSwag,C#,5
 32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,4
-41589439,MathewSachin/Captura,C#,14
+41589439,MathewSachin/Captura,C#,19
 23891194,Azure/azure-powershell,C#,2
 121049045,skoruba/IdentityServer4.Admin,C#,1
 72554578,confluentinc/confluent-kafka-dotnet,C#,5
 164140756,duke7553/files-uwp,C#,4
 72268885,robinrodricks/FluentFTP,C#,1
-129934884,dotnet/command-line-api,C#,2
+129934884,dotnet/command-line-api,C#,1
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,0
 137821967,microsoft/artifacts-credprovider,C#,1
 201114820,microsoft/scalar,C#,27
