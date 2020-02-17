@@ -1,26 +1,26 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,81
-2325298,torvalds/linux,C,70
-83222441,donnemartin/system-design-primer,Python,121
-35955666,jlevy/the-art-of-command-line,,92
+121395510,CyC2018/CS-Notes,Java,111
+2325298,torvalds/linux,C,113
+83222441,donnemartin/system-design-primer,Python,120
+35955666,jlevy/the-art-of-command-line,,96
 7600409,shadowsocks/shadowsocks-windows,C#,54
 18408635,chrislgarry/Apollo-11,Assembly,18
-67702184,topjohnwu/Magisk,Kotlin,25
-137946752,nondanee/UnblockNeteaseMusic,JavaScript,30
-102578345,coolsnowwolf/lede,C,59
-107794782,trojan-gfw/trojan,C++,104
+67702184,topjohnwu/Magisk,Kotlin,22
+137946752,nondanee/UnblockNeteaseMusic,JavaScript,34
+102578345,coolsnowwolf/lede,C,54
+107794782,trojan-gfw/trojan,C++,78
 147667687,pwn20wndstuff/Undecimus,C,39
-169948217,crawlab-team/crawlab,Go,45
-222183074,jackzhenguo/python-small-examples,Python,44
-61137153,evanw/esbuild,Go,812
-119285689,aamini/introtodeeplearning,Jupyter Notebook,22
+169948217,crawlab-team/crawlab,Go,41
+222183074,jackzhenguo/python-small-examples,Python,49
+61137153,evanw/esbuild,Go,239
+119285689,aamini/introtodeeplearning,Jupyter Notebook,49
 49382410,sp614x/optifine,,7
-224755956,wolverinn/Waking-Up,,45
-180852834,ing-bank/lion,JavaScript,114
-221637664,P3TERX/Actions-OpenWrt,Shell,18
-230675887,lirantal/nodejs-cli-apps-best-practices,,186
-183581938,yichahucha/surge,JavaScript,11
-240312952,benawad/destiny,TypeScript,143
+224755956,wolverinn/Waking-Up,,46
+180852834,ing-bank/lion,JavaScript,79
+221637664,P3TERX/Actions-OpenWrt,Shell,31
+230675887,lirantal/nodejs-cli-apps-best-practices,,145
+183581938,yichahucha/surge,JavaScript,12
+240312952,benawad/destiny,TypeScript,142
 179444308,HyperSine/Windows10-CustomKernelSigners,C++,23
 231891986,jethrokuan/org-roam,Shell,26
-240491830,snooppr/snoop,Python,105
+240491830,snooppr/snoop,Python,103

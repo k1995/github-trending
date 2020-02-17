@@ -1,7 +1,7 @@
 id,name,lang,new stars
 16752620,gogs/gogs,Go,13
 77144337,openfaas/faas,Go,13
-43723161,helm/helm,Go,22
+43723161,helm/helm,Go,32
 23689830,yeasy/docker_practice,Go,10
 115857954,chai2010/advanced-go-programming-book,Go,14
 176963109,peterq/pan-light,Go,18
@@ -12,15 +12,15 @@ id,name,lang,new stars
 6486840,shadowsocks/shadowsocks-go,Go,5
 136815833,Dreamacro/clash,Go,39
 116739828,DNSCrypt/dnscrypt-proxy,Go,11
-192632000,dapr/dapr,Go,25
-167596393,derailed/k9s,Go,23
-169948217,crawlab-team/crawlab,Go,45
+192632000,dapr/dapr,Go,40
+167596393,derailed/k9s,Go,30
+169948217,crawlab-team/crawlab,Go,41
 196937459,tophubs/TopList,Go,2
-180687624,aquasecurity/trivy,Go,9
+180687624,aquasecurity/trivy,Go,8
 94173064,mickael-kerjean/filestash,Go,6
 156077183,aimerforreimu/auxpi,Go,20
-61137153,evanw/esbuild,Go,812
+61137153,evanw/esbuild,Go,239
 127352116,miguelmota/cointop,Go,5
-207685110,geph-official/geph2,Go,16
-239568408,minio/simdjson-go,Go,52
+207685110,geph-official/geph2,Go,20
+239568408,minio/simdjson-go,Go,56
 128508910,milo2012/pathbrute,Go,3

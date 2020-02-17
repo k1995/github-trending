@@ -1,9 +1,9 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,22
-3482588,danielmiessler/SecLists,PHP,26
+3482588,danielmiessler/SecLists,PHP,16
 1420053,guzzle/guzzle,PHP,9
-2253830,PHPMailer/PHPMailer,PHP,9
-2889328,WordPress/WordPress,PHP,9
+2253830,PHPMailer/PHPMailer,PHP,14
+2889328,WordPress/WordPress,PHP,3
 4242230,PHPOffice/PHPWord,PHP,4
 42261096,fuzzdb-project/fuzzdb,PHP,4
 126950582,donwa/oneindex,PHP,8
@@ -12,7 +12,7 @@ id,name,lang,new stars
 63073734,laravel/passport,PHP,3
 41463886,codeigniter4/CodeIgniter4,PHP,2
 44519483,versionpress/versionpress,PHP,9
-148129143,bagisto/bagisto,PHP,33
+148129143,bagisto/bagisto,PHP,22
 79166184,cretueusebiu/laravel-vue-spa,PHP,3
 129829848,pixelfed/pixelfed,PHP,3
 39585488,tenancy/multi-tenant,PHP,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 229502199,ash-jc-allen/short-url,PHP,19
 240142338,nunomaduro/curryable,PHP,49
 236964942,tiagomichaelsousa/LaravelResources,PHP,20
-230926110,qkqpttgf/OneManager-php,PHP,4
+230926110,qkqpttgf/OneManager-php,PHP,3
