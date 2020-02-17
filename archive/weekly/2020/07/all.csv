@@ -1,26 +1,26 @@
 id,name,lang,new stars
-2561582,daneden/animate.css,CSS,205
-33015583,keras-team/keras,Python,128
 29290473,XX-net/XX-Net,Python,106
-41912791,v2ray/v2ray-core,Go,474
-63477660,TheAlgorithms/Java,Java,374
-112567264,iikira/BaiduPCS-Go,Go,290
-11171548,nlohmann/json,C++,114
-184456251,microsoft/PowerToys,C++,201
-120227732,fyne-io/fyne,Go,913
-171795571,ShusenTang/Dive-into-DL-PyTorch,Jupyter Notebook,251
+41912791,v2ray/v2ray-core,Go,479
+63477660,TheAlgorithms/Java,Java,340
+101138315,d2l-ai/d2l-zh,Python,134
+21467110,explosion/spaCy,Python,134
+6887813,crystal-lang/crystal,Crystal,53
+120227732,fyne-io/fyne,Go,927
+171795571,ShusenTang/Dive-into-DL-PyTorch,Jupyter Notebook,224
+102578345,coolsnowwolf/lede,C,256
 34777562,ossrs/srs,C++,69
-107794782,trojan-gfw/trojan,C++,543
-161757837,elunez/eladmin,Java,99
-238126205,2019ncovmemory/nCovMemory,JavaScript,1551
-152742185,yanue/V2rayU,Swift,395
-199570071,2dust/v2rayN,C#,462
-136815833,Dreamacro/clash,Go,203
-66841911,360EntSecGroup-Skylar/excelize,Go,287
-212613049,cli/cli,Go,3294
-202890778,chakra-ui/chakra-ui,JavaScript,517
-217433767,facebookresearch/pytorch3d,Python,521
-177059049,baowenbo/DAIN,Python,211
-1380117,getlantern/lantern,Go,285
-136332816,tychxn/jd-assistant,Python,279
-237434537,BlankerL/DXY-COVID-19-Data,Python,229
+44350607,kubernetes/dashboard,Go,70
+107794782,trojan-gfw/trojan,C++,553
+192155460,dragen1860/Deep-Learning-with-TensorFlow-book,Python,160
+161757837,elunez/eladmin,Java,97
+152742185,yanue/V2rayU,Swift,397
+136815833,Dreamacro/clash,Go,201
+66841911,360EntSecGroup-Skylar/excelize,Go,265
+212613049,cli/cli,Go,3363
+192632000,dapr/dapr,Go,124
+202890778,chakra-ui/chakra-ui,JavaScript,525
+141389743,killgcd/chromego,Rich Text Format,50
+1380117,getlantern/lantern,Go,290
+238314430,cycz/jdBuyMask,Python,687
+136332816,tychxn/jd-assistant,Python,287
+237434537,BlankerL/DXY-COVID-19-Data,Python,233
