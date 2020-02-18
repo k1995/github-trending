@@ -2,7 +2,7 @@ id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,158
 3638964,ansible/ansible,Python,25
 107595270,matterport/Mask_RCNN,Python,24
-125266328,psf/black,Python,31
+125266328,psf/black,Python,20
 138331573,sebastianruder/NLP-progress,Python,43
 5888353,spotify/luigi,Python,12
 136026789,iperov/DeepFaceLab,Python,36
@@ -10,7 +10,7 @@ id,name,lang,new stars
 1377867,locustio/locust,Python,16
 162998479,sherlock-project/sherlock,Python,80
 102904613,Unity-Technologies/ml-agents,Python,17
-154739597,google/jax,Python,43
+154739597,google/jax,Python,30
 30870954,AlessandroZ/LaZagne,Python,31
 178626720,PyTorchLightning/pytorch-lightning,Python,18
 54972769,QUANTAXIS/QUANTAXIS,Python,10
@@ -19,8 +19,8 @@ id,name,lang,new stars
 39119843,miguelgrinberg/python-socketio,Python,5
 129005655,aws-cloudformation/cfn-python-lint,Python,16
 184425064,kakaobrain/fast-autoaugment,Python,4
-109614205,sc0tfree/mentalist,Python,11
-167388434,creme-ml/creme,Python,19
+109614205,sc0tfree/mentalist,Python,9
+167388434,creme-ml/creme,Python,18
 240491830,snooppr/snoop,Python,117
 237546482,slavfox/Cozette,Python,118
 171232325,zhongxinghong/PKUAutoElective,Python,42

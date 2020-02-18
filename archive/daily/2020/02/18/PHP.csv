@@ -2,7 +2,7 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,25
 2579314,fzaninotto/Faker,PHP,22
 1376664,Seldaek/monolog,PHP,14
-2253830,PHPMailer/PHPMailer,PHP,16
+2253830,PHPMailer/PHPMailer,PHP,15
 5724990,briannesbitt/Carbon,PHP,11
 47495360,phanan/koel,PHP,9
 13899674,thephpleague/flysystem,PHP,16
@@ -19,7 +19,7 @@ id,name,lang,new stars
 723980,KnpLabs/snappy,PHP,4
 97311017,rectorphp/rector,PHP,12
 63073734,laravel/passport,PHP,4
-222873550,bytefury/crater,PHP,5
+222873550,bytefury/crater,PHP,4
 32792088,symfony/demo,PHP,2
 92439141,kitetail/zttp,PHP,25
 216849756,v2board/v2board,PHP,19
