@@ -1,26 +1,26 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,85
 83222441,donnemartin/system-design-primer,Python,158
 35955666,jlevy/the-art-of-command-line,,406
-18408635,chrislgarry/Apollo-11,Assembly,83
-1844251,tastejs/todomvc,JavaScript,35
-74175805,istio/istio,Go,35
-138331573,sebastianruder/NLP-progress,Python,53
-79162682,laurent22/joplin,JavaScript,106
-22585805,enaqx/awesome-pentest,,78
-162998479,sherlock-project/sherlock,Python,78
-16157746,dotnet/efcore,C#,14
+115478820,binhnguyennus/awesome-scalability,,64
+5724990,briannesbitt/Carbon,PHP,11
+79162682,laurent22/joplin,JavaScript,107
+172562475,florinpop17/app-ideas,,978
+22585805,enaqx/awesome-pentest,,55
+162998479,sherlock-project/sherlock,Python,80
+221981891,microsoft/playwright,JavaScript,381
+16157746,dotnet/efcore,C#,16
 121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,31
-26038648,gabime/spdlog,C++,27
-102578345,coolsnowwolf/lede,C,46
-43807251,inorichi/tachiyomi,Kotlin,39
-147667687,pwn20wndstuff/Undecimus,C,28
-165606994,daliansky/Hackintosh,Shell,38
-222183074,jackzhenguo/python-small-examples,Python,242
+169975410,leon-ai/leon,JavaScript,67
+154275744,ZhongFuCheng3y/3y,,36
+111212542,VGraupera/1on1-questions,JavaScript,2239
+69673033,ardalis/CleanArchitecture,C#,19
+213020264,google/trax,Python,935
+222183074,jackzhenguo/python-small-examples,Python,225
 61137153,evanw/esbuild,Go,609
+191201679,tycrek/degoogle,,120
 119285689,aamini/introtodeeplearning,Jupyter Notebook,100
-136332816,tychxn/jd-assistant,Python,49
-236904605,Pratitya/wuhan2020-timeline,,36
-240491830,snooppr/snoop,Python,113
-237868821,Merkie/freespeech,Vue,58
-240011145,Lienol/openwrt,C,28
+222551495,rohanrhu/gdb-frontend,JavaScript,508
+240491830,snooppr/snoop,Python,117
+231891986,jethrokuan/org-roam,Emacs Lisp,34
+237868821,Merkie/freespeech,Vue,71
+235176242,y-x-c/wearable-microphone-jamming,C++,36

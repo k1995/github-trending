@@ -1,26 +1,26 @@
 id,name,lang,new stars
-29290473,XX-net/XX-Net,Python,112
-41912791,v2ray/v2ray-core,Go,473
-63477660,TheAlgorithms/Java,Java,274
-101138315,d2l-ai/d2l-zh,Python,132
-21467110,explosion/spaCy,Python,128
-6887813,crystal-lang/crystal,Crystal,54
-120227732,fyne-io/fyne,Go,795
-171795571,ShusenTang/Dive-into-DL-PyTorch,Jupyter Notebook,190
-102578345,coolsnowwolf/lede,C,262
+41912791,v2ray/v2ray-core,Go,463
+63477660,TheAlgorithms/Java,Java,248
+6887813,crystal-lang/crystal,Crystal,55
+79162682,laurent22/joplin,JavaScript,473
+120227732,fyne-io/fyne,Go,765
+26038648,gabime/spdlog,C++,93
+102578345,coolsnowwolf/lede,C,270
 34777562,ossrs/srs,C++,71
-44350607,kubernetes/dashboard,Go,80
-107794782,trojan-gfw/trojan,C++,554
-192155460,dragen1860/Deep-Learning-with-TensorFlow-book,Python,160
-161757837,elunez/eladmin,Java,85
-152742185,yanue/V2rayU,Swift,400
-136815833,Dreamacro/clash,Go,199
-66841911,360EntSecGroup-Skylar/excelize,Go,233
-212613049,cli/cli,Go,3414
-192632000,dapr/dapr,Go,128
-202890778,chakra-ui/chakra-ui,JavaScript,538
-141389743,killgcd/chromego,Rich Text Format,47
-1380117,getlantern/lantern,Go,294
-238314430,cycz/jdBuyMask,Python,596
-136332816,tychxn/jd-assistant,Python,291
-237434537,BlankerL/DXY-COVID-19-Data,Python,215
+107794782,trojan-gfw/trojan,C++,546
+192155460,dragen1860/Deep-Learning-with-TensorFlow-book,Python,166
+161757837,elunez/eladmin,Java,81
+152742185,yanue/V2rayU,Swift,394
+212613049,cli/cli,Go,3438
+147667687,pwn20wndstuff/Undecimus,C,115
+192632000,dapr/dapr,Go,131
+202890778,chakra-ui/chakra-ui,JavaScript,548
+141389743,killgcd/chromego,Rich Text Format,51
+1380117,getlantern/lantern,Go,299
+164596259,shadowsocks/v2ray-plugin,Go,39
+238314430,cycz/jdBuyMask,Python,505
+136332816,tychxn/jd-assistant,Python,293
+237434537,BlankerL/DXY-COVID-19-Data,Python,201
+238316428,CSSEGISandData/COVID-19,,544
+198484358,NobyDa/Script,JavaScript,68
+227681864,touchlab/KaMPKit,Kotlin,93
