@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,25
+1863329,laravel/laravel,PHP,24
 2579314,fzaninotto/Faker,PHP,22
 1376664,Seldaek/monolog,PHP,14
 2253830,PHPMailer/PHPMailer,PHP,15
 5724990,briannesbitt/Carbon,PHP,11
-47495360,phanan/koel,PHP,9
+47495360,phanan/koel,PHP,6
 13899674,thephpleague/flysystem,PHP,16
 72069409,the-control-group/voyager,PHP,4
 42480275,spatie/laravel-permission,PHP,14
@@ -13,7 +13,7 @@ id,name,lang,new stars
 2699935,squizlabs/PHP_CodeSniffer,PHP,4
 330275,twigphp/Twig,PHP,2
 364315,nrk/predis,PHP,4
-6269013,aws/aws-sdk-php,PHP,4
+6269013,aws/aws-sdk-php,PHP,3
 23056580,laravel/socialite,PHP,4
 30171828,rappasoft/laravel-boilerplate,PHP,5
 723980,KnpLabs/snappy,PHP,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 63073734,laravel/passport,PHP,4
 222873550,bytefury/crater,PHP,4
 32792088,symfony/demo,PHP,2
-92439141,kitetail/zttp,PHP,25
+92439141,kitetail/zttp,PHP,27
 216849756,v2board/v2board,PHP,19
 215310009,Grafikart/Grafikart.fr,PHP,5
