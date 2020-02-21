@@ -4,11 +4,11 @@ id,name,lang,new stars
 112567264,iikira/BaiduPCS-Go,Go,112
 17803236,rclone/rclone,Go,31
 13855476,jinzhu/gorm,Go,18
-46806184,helm/charts,Go,32
+46806184,helm/charts,Go,26
 66573241,hyperledger/fabric,Go,7
 125642885,developer-learning/night-reading-go,Go,10
 119419195,GoogleContainerTools/kaniko,Go,11
-59101986,smallnest/rpcx,Go,8
+59101986,smallnest/rpcx,Go,19
 5896437,mmcgrana/gobyexample,Go,5
 93444615,terraform-providers/terraform-provider-aws,Go,8
 53174289,gruntwork-io/terratest,Go,8
