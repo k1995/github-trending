@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,1001
-132464395,Snailclimb/JavaGuide,Java,538
-20904437,gin-gonic/gin,Go,209
-127988011,macrozheng/mall,Java,318
+83222441,donnemartin/system-design-primer,Python,1022
+132464395,Snailclimb/JavaGuide,Java,562
+20904437,gin-gonic/gin,Go,214
+127988011,macrozheng/mall,Java,345
 64558143,Blankj/AndroidUtilCode,Java,51
-79162682,laurent22/joplin,JavaScript,542
-136026789,iperov/DeepFaceLab,Python,207
-126365965,linlinjava/litemall,Java,112
+79162682,laurent22/joplin,JavaScript,557
+136026789,iperov/DeepFaceLab,Python,209
+126365965,linlinjava/litemall,Java,122
 77912349,qianguyihao/Web,JavaScript,86
 16157746,dotnet/efcore,C#,94
-102578345,coolsnowwolf/lede,C,325
-107794782,trojan-gfw/trojan,C++,578
-136815833,Dreamacro/clash,Go,246
-147667687,pwn20wndstuff/Undecimus,C,125
-192632000,dapr/dapr,Go,120
-191820100,google/mediapipe,C++,318
-213020264,google/trax,Python,1398
-240091489,twostraws/ControlRoom,Swift,715
-46398090,linkedin/datahub,TypeScript,145
-119285689,aamini/introtodeeplearning,Jupyter Notebook,298
-170161374,microsoft/computervision-recipes,Jupyter Notebook,1237
-238314430,cycz/jdBuyMask,Python,383
-238316428,CSSEGISandData/COVID-19,,292
-238975351,Rlacat/jd-automask,Python,154
-206121828,FreeRTOS/FreeRTOS,C,70
+102578345,coolsnowwolf/lede,C,342
+107794782,trojan-gfw/trojan,C++,643
+136815833,Dreamacro/clash,Go,256
+147667687,pwn20wndstuff/Undecimus,C,128
+192632000,dapr/dapr,Go,122
+191820100,google/mediapipe,C++,320
+213020264,google/trax,Python,1407
+240091489,twostraws/ControlRoom,Swift,723
+46398090,linkedin/datahub,TypeScript,155
+170161374,microsoft/computervision-recipes,Jupyter Notebook,1252
+119285689,aamini/introtodeeplearning,Jupyter Notebook,302
+238314430,cycz/jdBuyMask,Python,346
+238316428,CSSEGISandData/COVID-19,,302
+238975351,Rlacat/jd-automask,Python,156
+206121828,FreeRTOS/FreeRTOS,C,72
