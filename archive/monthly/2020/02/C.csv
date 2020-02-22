@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1464
-10744183,netdata/netdata,C,745
-102578345,coolsnowwolf/lede,C,940
+2325298,torvalds/linux,C,1465
+10744183,netdata/netdata,C,747
+102578345,coolsnowwolf/lede,C,941
 32873313,systemd/systemd,C,385
 3299208,videolan/vlc,C,123
 147667687,pwn20wndstuff/Undecimus,C,188
 45821540,openwrt/openwrt,C,218
-30291090,i3/i3,C,114
+30291090,i3/i3,C,115
 2328181,freebsd/freebsd,C,116
 70127218,espressif/arduino-esp32,C,137
 190845267,n64decomp/sm64,C,518
@@ -20,7 +20,7 @@ id,name,lang,new stars
 14021219,abishekvashok/cmatrix,C,59
 162378023,cx9208/bbrplus,C,92
 198869255,google/AFL,C,111
-122993186,remzi-arpacidusseau/ostep-code,C,54
+122993186,remzi-arpacidusseau/ostep-code,C,55
 206121828,FreeRTOS/FreeRTOS,C,209
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,39
-207354223,FreeRTOS/FreeRTOS-Kernel,C,79
+207354223,FreeRTOS/FreeRTOS-Kernel,C,80
