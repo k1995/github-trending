@@ -4,10 +4,10 @@ id,name,lang,new stars
 112567264,iikira/BaiduPCS-Go,Go,153
 401025,github/hub,Go,109
 31288958,hashicorp/vault,Go,11
-46806184,helm/charts,Go,21
+46806184,helm/charts,Go,20
 11593442,golang/groupcache,Go,22
 23247808,rqlite/rqlite,Go,33
-162920291,inlets/inlets,Go,68
+162920291,inlets/inlets,Go,67
 4925652,robfig/cron,Go,16
 93444615,terraform-providers/terraform-provider-aws,Go,5
 59522149,gruntwork-io/terragrunt,Go,10
@@ -22,5 +22,5 @@ id,name,lang,new stars
 155368246,elastic/cloud-on-k8s,Go,7
 229516736,veggiedefender/torrent-client,Go,25
 158890222,cbeuw/Cloak,Go,9
-237805954,Shpota/goxygen,Go,201
+237805954,Shpota/goxygen,Go,192
 188367911,j3ssie/metabigor,Go,11

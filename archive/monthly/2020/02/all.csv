@@ -1,20 +1,20 @@
 id,name,lang,new stars
-14440270,getify/You-Dont-Know-JS,,2470
-133442384,denoland/deno,TypeScript,3346
-138393139,trimstray/the-book-of-secret-knowledge,,5679
+14440270,getify/You-Dont-Know-JS,,2471
+133442384,denoland/deno,TypeScript,3348
+138393139,trimstray/the-book-of-secret-knowledge,,5683
 15634981,godotengine/godot,C++,848
-60844036,shadowsocks/ShadowsocksX-NG,Swift,585
+60844036,shadowsocks/ShadowsocksX-NG,Swift,586
 41058054,isocpp/CppCoreGuidelines,Python,428
-115478820,binhnguyennus/awesome-scalability,,1772
-56969116,ngosang/trackerslist,,1155
+115478820,binhnguyennus/awesome-scalability,,1773
+56969116,ngosang/trackerslist,,1157
 17728164,hashicorp/terraform,Go,486
-401025,github/hub,Go,635
-74627617,commaai/openpilot,C++,449
-79162682,laurent22/joplin,JavaScript,1131
-160919119,tiangolo/fastapi,Python,1433
-221981891,microsoft/playwright,JavaScript,9476
+401025,github/hub,Go,637
+74627617,commaai/openpilot,C++,450
+79162682,laurent22/joplin,JavaScript,1132
+160919119,tiangolo/fastapi,Python,1435
+221981891,microsoft/playwright,JavaScript,9478
 107794782,trojan-gfw/trojan,C++,1936
-151619717,google-research/google-research,Jupyter Notebook,785
+151619717,google-research/google-research,Jupyter Notebook,786
 199570071,2dust/v2rayN,C#,1579
 156606738,openai/spinningup,Python,512
 4165675,smicallef/spiderfoot,Python,1553
@@ -23,4 +23,4 @@ id,name,lang,new stars
 213020264,google/trax,Python,1759
 190845267,n64decomp/sm64,C,519
 148228732,yarnpkg/berry,TypeScript,497
-1380117,getlantern/lantern,Go,830
+1380117,getlantern/lantern,Go,829

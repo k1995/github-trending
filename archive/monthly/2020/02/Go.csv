@@ -1,11 +1,11 @@
 id,name,lang,new stars
 41912791,v2ray/v2ray-core,Go,1580
 17728164,hashicorp/terraform,Go,486
-401025,github/hub,Go,635
-43723161,helm/helm,Go,454
+401025,github/hub,Go,637
+43723161,helm/helm,Go,455
 46806184,helm/charts,Go,454
 85371712,txthinking/brook,Go,222
-120227732,fyne-io/fyne,Go,1240
+120227732,fyne-io/fyne,Go,1239
 11593442,golang/groupcache,Go,174
 57939112,kubernetes/community,Go,170
 136505169,tinygo-org/tinygo,Go,466
@@ -18,9 +18,9 @@ id,name,lang,new stars
 53174289,gruntwork-io/terratest,Go,159
 167304464,cortexlabs/cortex,Go,759
 140457254,OWASP/Amass,Go,185
-136770331,hunterlong/statping,Go,452
+136770331,hunterlong/statping,Go,454
 88013053,docker/cli,Go,103
-1380117,getlantern/lantern,Go,830
-105262714,pusher/oauth2_proxy,Go,122
+1380117,getlantern/lantern,Go,829
+105262714,pusher/oauth2_proxy,Go,123
 164596259,shadowsocks/v2ray-plugin,Go,117
 49970739,DataDog/datadog-agent,Go,35

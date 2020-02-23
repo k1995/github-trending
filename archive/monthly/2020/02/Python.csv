@@ -1,7 +1,7 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,2494
+83222441,donnemartin/system-design-primer,Python,2497
 54346799,public-apis/public-apis,Python,1902
-596892,pallets/flask,Python,580
+596892,pallets/flask,Python,582
 4164482,django/django,Python,761
 3638964,ansible/ansible,Python,515
 4086616,shadowsocks/shadowsocks,Python,195
@@ -12,8 +12,8 @@ id,name,lang,new stars
 19745004,odoo/odoo,Python,336
 71220757,swisskyrepo/PayloadsAllTheThings,Python,721
 73872834,facebook/prophet,Python,229
-160919119,tiangolo/fastapi,Python,1433
-154739597,google/jax,Python,546
+160919119,tiangolo/fastapi,Python,1435
+154739597,google/jax,Python,548
 14434734,ReFirmLabs/binwalk,Python,503
 24774658,boto/boto3,Python,97
 997338,pallets/werkzeug,Python,70
