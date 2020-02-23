@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,600
+1863329,laravel/laravel,PHP,601
 3482588,danielmiessler/SecLists,PHP,577
-458058,symfony/symfony,PHP,233
-7548986,laravel/framework,PHP,316
-2253830,PHPMailer/PHPMailer,PHP,187
-56728437,docker/labs,PHP,155
-2884111,magento/magento2,PHP,84
+458058,symfony/symfony,PHP,235
+7548986,laravel/framework,PHP,318
+2253830,PHPMailer/PHPMailer,PHP,188
+56728437,docker/labs,PHP,157
+2884111,magento/magento2,PHP,85
 79111500,jupeter/clean-code-php,PHP,249
 42480275,spatie/laravel-permission,PHP,157
-7122594,directus/directus,PHP,257
-2179920,woocommerce/woocommerce,PHP,86
-627735,vrana/adminer,PHP,78
+7122594,directus/directus,PHP,258
+2179920,woocommerce/woocommerce,PHP,87
+627735,vrana/adminer,PHP,79
 126950582,donwa/oneindex,PHP,151
 12204147,mautic/mautic,PHP,80
-86350964,the-benchmarker/web-frameworks,PHP,143
+86350964,the-benchmarker/web-frameworks,PHP,144
 439861,moodle/moodle,PHP,50
 74386167,vimeo/psalm,PHP,123
 63073734,laravel/passport,PHP,51
@@ -22,5 +22,5 @@ id,name,lang,new stars
 170355508,livewire/livewire,PHP,304
 56836583,postaddictme/instagram-php-scraper,PHP,73
 71485542,kevinpapst/kimai2,PHP,70
-131995661,shopware/platform,PHP,64
+131995661,shopware/platform,PHP,65
 74026995,CodelyTV/php-ddd-example,PHP,141

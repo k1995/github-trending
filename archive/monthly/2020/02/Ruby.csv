@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,270
-7569578,discourse/discourse,Ruby,270
+8514,rails/rails,Ruby,271
+7569578,discourse/discourse,Ruby,273
 27442967,fastlane/fastlane,Ruby,240
 308770,heartcombo/devise,Ruby,121
 52281283,tootsuite/mastodon,Ruby,296
-2293158,rapid7/metasploit-framework,Ruby,313
-481872,hashicorp/vagrant,Ruby,147
+2293158,rapid7/metasploit-framework,Ruby,315
+481872,hashicorp/vagrant,Ruby,148
 3623050,Homebrew/homebrew-cask,Ruby,140
 1090311,elastic/logstash,Ruby,85
 4095287,rubocop-hq/rubocop,Ruby,99
@@ -15,8 +15,8 @@ id,name,lang,new stars
 1333863,kaminari/kaminari,Ruby,41
 15435,Shopify/liquid,Ruby,78
 21829,thoughtbot/factory_bot,Ruby,41
-108278,chef/chef,Ruby,50
-11607598,ruby-concurrency/concurrent-ruby,Ruby,53
+108278,chef/chef,Ruby,52
+11607598,ruby-concurrency/concurrent-ruby,Ruby,54
 355893,github/markup,Ruby,74
 535266,vcr/vcr,Ruby,35
 839336,colszowka/simplecov,Ruby,36

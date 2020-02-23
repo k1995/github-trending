@@ -1,19 +1,19 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,76
-27442967,fastlane/fastlane,Ruby,61
+65252,jekyll/jekyll,Ruby,78
+27442967,fastlane/fastlane,Ruby,62
 8681349,huginn/huginn,Ruby,249
-52281283,tootsuite/mastodon,Ruby,100
-2293158,rapid7/metasploit-framework,Ruby,87
+52281283,tootsuite/mastodon,Ruby,104
+2293158,rapid7/metasploit-framework,Ruby,90
 37382858,kilimchoi/engineering-blogs,Ruby,61
-2203645,CocoaPods/CocoaPods,Ruby,14
+2203645,CocoaPods/CocoaPods,Ruby,15
 1090311,elastic/logstash,Ruby,27
 4095287,rubocop-hq/rubocop,Ruby,28
 5200099,thoughtbot/guides,Ruby,30
-1725199,github/linguist,Ruby,26
-910744,puppetlabs/puppet,Ruby,13
+1725199,github/linguist,Ruby,29
+910744,puppetlabs/puppet,Ruby,14
 865250,presidentbeef/brakeman,Ruby,24
-16549503,github/scientist,Ruby,16
-4994614,wpscanteam/wpscan,Ruby,20
+16549503,github/scientist,Ruby,17
+4994614,wpscanteam/wpscan,Ruby,21
 507,sferik/twitter,Ruby,8
 1314319,instructure/canvas-lms,Ruby,15
 1952825,Homebrew/homebrew-bundle,Ruby,30
@@ -21,6 +21,6 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,13
 17749733,geerlingguy/ansible-vagrant-examples,Ruby,9
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,18
-189010173,Hackplayers/evil-winrm,Ruby,31
+189010173,Hackplayers/evil-winrm,Ruby,32
 225463,Shopify/shopify_api,Ruby,7
 46371661,learn-co-curriculum/sinatra-from-scratch-readme,Ruby,0
