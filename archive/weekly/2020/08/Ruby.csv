@@ -1,6 +1,6 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,92
-8681349,huginn/huginn,Ruby,263
+8681349,huginn/huginn,Ruby,264
 52281283,tootsuite/mastodon,Ruby,105
 2293158,rapid7/metasploit-framework,Ruby,101
 538746,ruby/ruby,Ruby,39
@@ -12,8 +12,8 @@ id,name,lang,new stars
 611921,activeadmin/activeadmin,Ruby,5
 5200099,thoughtbot/guides,Ruby,31
 1725199,github/linguist,Ruby,32
+865250,presidentbeef/brakeman,Ruby,27
 910744,puppetlabs/puppet,Ruby,14
-865250,presidentbeef/brakeman,Ruby,26
 11607598,ruby-concurrency/concurrent-ruby,Ruby,18
 4994614,wpscanteam/wpscan,Ruby,24
 1314319,instructure/canvas-lms,Ruby,18

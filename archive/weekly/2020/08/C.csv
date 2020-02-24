@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,486
-111583593,Genymobile/scrcpy,C,355
-1614410,FFmpeg/FFmpeg,C,96
-18666758,pjreddie/darknet,C,131
-908607,numpy/numpy,C,74
-7634677,openssl/openssl,C,77
+2325298,torvalds/linux,C,487
+111583593,Genymobile/scrcpy,C,357
+1614410,FFmpeg/FFmpeg,C,97
+18666758,pjreddie/darknet,C,133
+908607,numpy/numpy,C,75
+7634677,openssl/openssl,C,78
 3714900,arut/nginx-rtmp-module,C,41
 613829,openresty/lua-nginx-module,C,27
 102578345,coolsnowwolf/lede,C,391
@@ -13,14 +13,14 @@ id,name,lang,new stars
 11178512,happyfish100/fastdfs,C,31
 147667687,pwn20wndstuff/Undecimus,C,133
 65899476,espressif/esp-idf,C,26
-215973962,DoctorWkt/acwj,C,162
+215973962,DoctorWkt/acwj,C,163
 16734696,meetecho/janus-gateway,C,31
 7370241,RIOT-OS/RIOT,C,74
 43683082,zserge/jsmn,C,25
 130578889,pymumu/smartdns,C,124
 1613176,tianocore/edk2,C,21
-100820555,bvschaik/julius,C,70
+100820555,bvschaik/julius,C,71
 154525111,signalwire/freeswitch,C,21
 206121828,FreeRTOS/FreeRTOS,C,76
-213916896,blender/blender,C,34
-207354223,FreeRTOS/FreeRTOS-Kernel,C,30
+213916896,blender/blender,C,35
+207354223,FreeRTOS/FreeRTOS-Kernel,C,31
