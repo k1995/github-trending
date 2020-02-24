@@ -1,26 +1,26 @@
 id,name,lang,new stars
-14440270,getify/You-Dont-Know-JS,,2529
-6498492,airbnb/javascript,JavaScript,1129
-133442384,denoland/deno,TypeScript,3375
+6498492,airbnb/javascript,JavaScript,1109
+52631841,gothinkster/realworld,JavaScript,1675
 15634981,godotengine/godot,C++,877
-41058054,isocpp/CppCoreGuidelines,Python,446
-115478820,binhnguyennus/awesome-scalability,,1794
-54544023,Alvin9999/new-pac,,1501
-56969116,ngosang/trackerslist,,1187
-17728164,hashicorp/terraform,Go,499
-74627617,commaai/openpilot,C++,467
-79162682,laurent22/joplin,JavaScript,1177
-111205328,233boy/v2ray,Shell,1019
-160919119,tiangolo/fastapi,Python,1460
-221981891,microsoft/playwright,JavaScript,9518
+41058054,isocpp/CppCoreGuidelines,Python,439
+115478820,binhnguyennus/awesome-scalability,,1789
+65388917,jakevdp/PythonDataScienceHandbook,Jupyter Notebook,481
+54544023,Alvin9999/new-pac,,1498
+56969116,ngosang/trackerslist,,1189
+17728164,hashicorp/terraform,Go,494
+74627617,commaai/openpilot,C++,462
+79162682,laurent22/joplin,JavaScript,1160
+111205328,233boy/v2ray,Shell,1013
+221981891,microsoft/playwright,JavaScript,9515
+102578345,coolsnowwolf/lede,C,985
 107794782,trojan-gfw/trojan,C++,2059
-151619717,google-research/google-research,Jupyter Notebook,802
-199570071,2dust/v2rayN,C#,1642
-156606738,openai/spinningup,Python,524
+151619717,google-research/google-research,Jupyter Notebook,799
+199570071,2dust/v2rayN,C#,1635
+236108574,wuhan2020/wuhan2020,,6030
+156606738,openai/spinningup,Python,522
 4165675,smicallef/spiderfoot,Python,1558
-213480514,microsoft/ApplicationInspector,C#,2086
-85371262,williamfiset/Algorithms,Java,1111
-213020264,google/trax,Python,1792
-148228732,yarnpkg/berry,TypeScript,499
-1380117,getlantern/lantern,Go,848
+213480514,microsoft/ApplicationInspector,C#,2084
+85371262,williamfiset/Algorithms,Java,1106
+213020264,google/trax,Python,1726
+1380117,getlantern/lantern,Go,847
 234396143,boston-dynamics/spot-sdk,HTML,599

@@ -8,7 +8,7 @@ id,name,lang,new stars
 41058054,isocpp/CppCoreGuidelines,Python,439
 858127,pandas-dev/pandas,Python,605
 71948498,localstack/localstack,Python,674
-19745004,odoo/odoo,Python,349
+136026789,iperov/DeepFaceLab,Python,568
 71220757,swisskyrepo/PayloadsAllTheThings,Python,755
 1385122,matplotlib/matplotlib,Python,172
 73872834,facebook/prophet,Python,234
@@ -16,11 +16,11 @@ id,name,lang,new stars
 154739597,google/jax,Python,585
 14434734,ReFirmLabs/binwalk,Python,506
 24774658,boto/boto3,Python,98
-997338,pallets/werkzeug,Python,71
+997338,pallets/werkzeug,Python,64
 156606738,openai/spinningup,Python,522
 4165675,smicallef/spiderfoot,Python,1558
-213020264,google/trax,Python,1782
-222183074,jackzhenguo/python-small-examples,Python,1091
+213020264,google/trax,Python,1726
+222183074,jackzhenguo/python-small-examples,Python,1095
 53548867,fishtown-analytics/dbt,Python,87
 172227885,tiangolo/full-stack-fastapi-postgresql,Python,185
 211895509,ProtonVPN/protonvpn-cli-ng,Python,185
