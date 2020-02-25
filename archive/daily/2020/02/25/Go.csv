@@ -1,12 +1,12 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,44
+20580498,kubernetes/kubernetes,Go,42
 7691631,moby/moby,Go,6
 21540759,avelino/awesome-go,Go,32
 11180687,gohugoio/hugo,Go,38
 48378947,fatedier/frp,Go,43
 6838921,prometheus/prometheus,Go,23
 15452919,ethereum/go-ethereum,Go,2
-112567264,iikira/BaiduPCS-Go,Go,111
+112567264,iikira/BaiduPCS-Go,Go,112
 48003886,tmrts/go-patterns,Go,22
 115857954,chai2010/advanced-go-programming-book,Go,6
 62091339,kubernetes/kops,Go,5
@@ -16,11 +16,11 @@ id,name,lang,new stars
 136815833,Dreamacro/clash,Go,45
 162920291,inlets/inlets,Go,35
 39038086,containrrr/watchtower,Go,12
-234231371,gofiber/fiber,Go,155
+234231371,gofiber/fiber,Go,122
 191117123,chaitin/xray,Go,6
 8572190,studygolang/studygolang,Go,4
 202523140,alexellis/k3sup,Go,4
 143965255,apache/dubbo-go,Go,3
 34197682,GoBelieveIO/im_service,Go,9
-237805954,Shpota/goxygen,Go,139
+237805954,Shpota/goxygen,Go,133
 158890222,cbeuw/Cloak,Go,9
