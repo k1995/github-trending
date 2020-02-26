@@ -1,26 +1,26 @@
 id,name,lang,new stars
-52631841,gothinkster/realworld,JavaScript,1666
-15634981,godotengine/godot,C++,856
-41058054,isocpp/CppCoreGuidelines,Python,447
-115478820,binhnguyennus/awesome-scalability,,1833
-65388917,jakevdp/PythonDataScienceHandbook,Jupyter Notebook,474
-56969116,ngosang/trackerslist,,1199
-17728164,hashicorp/terraform,Go,476
-74627617,commaai/openpilot,C++,468
-79162682,laurent22/joplin,JavaScript,1226
-111205328,233boy/v2ray,Shell,1053
-160919119,tiangolo/fastapi,Python,1418
-221981891,microsoft/playwright,JavaScript,4506
-107794782,trojan-gfw/trojan,C++,2215
-102578345,coolsnowwolf/lede,C,1033
-151619717,google-research/google-research,Jupyter Notebook,833
-199570071,2dust/v2rayN,C#,1736
-236108574,wuhan2020/wuhan2020,,5615
-225252643,oldboyxx/jira_clone,JavaScript,4456
+2126244,twbs/bootstrap,JavaScript,758
+6498492,airbnb/javascript,JavaScript,1195
+18408635,chrislgarry/Apollo-11,Assembly,1446
+52631841,gothinkster/realworld,JavaScript,1653
+15634981,godotengine/godot,C++,853
+41912791,v2ray/v2ray-core,Go,1714
+41058054,isocpp/CppCoreGuidelines,Python,448
+115478820,binhnguyennus/awesome-scalability,,1834
+65388917,jakevdp/PythonDataScienceHandbook,Jupyter Notebook,473
+17728164,hashicorp/terraform,Go,477
+79162682,laurent22/joplin,JavaScript,1216
+111205328,233boy/v2ray,Shell,1059
+120227732,fyne-io/fyne,Go,1264
+107794782,trojan-gfw/trojan,C++,2228
+102578345,coolsnowwolf/lede,C,1029
+151619717,google-research/google-research,Jupyter Notebook,829
+199570071,2dust/v2rayN,C#,1737
+236108574,wuhan2020/wuhan2020,,5848
+225252643,oldboyxx/jira_clone,JavaScript,4453
 156606738,openai/spinningup,Python,538
-4165675,smicallef/spiderfoot,Python,1573
-224663696,alpinejs/alpine,JavaScript,1383
-213480514,microsoft/ApplicationInspector,C#,1718
-85371262,williamfiset/Algorithms,Java,1121
+4165675,smicallef/spiderfoot,Python,1571
+85371262,williamfiset/Algorithms,Java,1120
 213020264,google/trax,Python,1785
-1380117,getlantern/lantern,Go,893
+1380117,getlantern/lantern,Go,898
+219623588,fchollet/ARC,JavaScript,217
