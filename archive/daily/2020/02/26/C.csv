@@ -1,7 +1,7 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,49
-10744183,netdata/netdata,C,23
-36502,git/git,C,19
+2325298,torvalds/linux,C,53
+10744183,netdata/netdata,C,31
+36502,git/git,C,22
 2810455,ggreer/the_silver_searcher,C,13
 36836475,tmux/tmux,C,12
 15337142,micropython/micropython,C,11
@@ -11,12 +11,12 @@ id,name,lang,new stars
 437011,openzfs/zfs,C,20
 14902556,offensive-security/exploitdb,C,3
 104589662,s-macke/VoxelSpace,C,4
-102029150,cstack/db_tutorial,C,10
+102029150,cstack/db_tutorial,C,8
 54280778,DaveGamble/cJSON,C,8
 14509809,wren-lang/wren,C,4
-105944401,yugabyte/yugabyte-db,C,10
+105944401,yugabyte/yugabyte-db,C,11
 5213091,baskerville/bspwm,C,4
-2997204,magnumripper/JohnTheRipper,C,9
+2997204,magnumripper/JohnTheRipper,C,8
 17183871,esnet/iperf,C,4
 212152900,wasm3/wasm3,C,9
 124678204,aircrack-ng/aircrack-ng,C,4

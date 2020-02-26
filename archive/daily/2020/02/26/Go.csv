@@ -5,11 +5,11 @@ id,name,lang,new stars
 74175805,istio/istio,Go,14
 13124802,influxdata/influxdb,Go,8
 23689830,yeasy/docker_practice,Go,13
-134017286,jesseduffield/lazygit,Go,228
+134017286,jesseduffield/lazygit,Go,158
 46806184,helm/charts,Go,20
 24268127,coreybutler/nvm-windows,Go,15
 27576132,aws/aws-sdk-go,Go,5
-192632000,dapr/dapr,Go,8
+192632000,dapr/dapr,Go,7
 28366058,docker/distribution,Go,3
 146641150,tektoncd/pipeline,Go,11
 93444615,terraform-providers/terraform-provider-aws,Go,8
@@ -18,7 +18,7 @@ id,name,lang,new stars
 93808874,bxcodec/go-clean-arch,Go,8
 149249432,changkun/go-under-the-hood,Go,30
 156681830,ffuf/ffuf,Go,8
-93446042,terraform-providers/terraform-provider-azurerm,Go,9
+93446042,terraform-providers/terraform-provider-azurerm,Go,7
 107556189,kubernetes/sample-controller,Go,4
 57912964,kubernetes/enhancements,Go,4
 145433521,v2ray/domain-list-community,Go,2

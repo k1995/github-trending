@@ -1,21 +1,21 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1260
-5108051,opencv/opencv,C++,688
+45717250,tensorflow/tensorflow,C++,1258
+5108051,opencv/opencv,C++,704
 15634981,godotengine/godot,C++,853
-16587283,dmlc/xgboost,C++,291
+16587283,dmlc/xgboost,C++,292
 11171548,nlohmann/json,C++,366
-39840932,google/googletest,C++,283
+39840932,google/googletest,C++,285
 74627617,commaai/openpilot,C++,471
 1062572,catchorg/Catch2,C++,179
 6930489,facebook/watchman,C++,119
 26038648,gabime/spdlog,C++,245
-107794782,trojan-gfw/trojan,C++,2228
+107794782,trojan-gfw/trojan,C++,2237
 6520784,RPCS3/rpcs3,C++,125
 265995,VowpalWabbit/vowpal_wabbit,C++,75
 104231541,abseil/abseil-cpp,C++,149
 51905353,apache/arrow,C++,120
 160083795,SerenityOS/serenity,C++,452
-191820100,google/mediapipe,C++,703
+191820100,google/mediapipe,C++,704
 31102092,google/or-tools,C++,113
 23086893,google/re2,C++,122
 61567304,grpc/grpc-web,C++,127

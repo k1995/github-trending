@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,29
-2579314,fzaninotto/Faker,PHP,10
-1864363,composer/composer,PHP,9
+1863329,laravel/laravel,PHP,27
+2579314,fzaninotto/Faker,PHP,9
+1864363,composer/composer,PHP,8
 7548986,laravel/framework,PHP,11
 2889328,WordPress/WordPress,PHP,7
 2884111,magento/magento2,PHP,5
@@ -13,11 +13,11 @@ id,name,lang,new stars
 76064827,mailcow/mailcow-dockerized,PHP,3
 9395939,ZoneMinder/zoneminder,PHP,8
 222873550,bytefury/crater,PHP,4
-41463886,codeigniter4/CodeIgniter4,PHP,24
+41463886,codeigniter4/CodeIgniter4,PHP,29
 29054113,zyx0814/dzzoffice,PHP,7
 62937181,PrivateBin/PrivateBin,PHP,4
 129829848,pixelfed/pixelfed,PHP,5
-18992087,LavaLite/cms,PHP,5
+18992087,LavaLite/cms,PHP,4
 125568868,symfony/panther,PHP,1
 104077768,wususu/effective-resourses,PHP,3
 139805628,ZE3kr/Cloudflare-CNAME-Setup,PHP,6
