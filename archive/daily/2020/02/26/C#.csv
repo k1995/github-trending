@@ -1,7 +1,7 @@
 id,name,lang,new stars
 791611,mono/mono,C#,8
 28232663,dotnet/orleans,C#,9
-46652227,IdentityServer/IdentityServer4,C#,8
+46652227,IdentityServer/IdentityServer4,C#,11
 46755185,bitwarden/server,C#,8
 153711945,dotnet/wpf,C#,4
 54213490,xamarin/Xamarin.Forms,C#,3
@@ -17,7 +17,7 @@ id,name,lang,new stars
 210716005,dotnet/runtime,C#,8
 109916954,gibbed/SteamAchievementManager,C#,3
 150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,3
-129934884,dotnet/command-line-api,C#,4
+129934884,dotnet/command-line-api,C#,2
 213460285,jasontaylordev/CleanArchitecture,C#,5
 122229247,xamarin/Essentials,C#,0
 137433882,Unity-Technologies/arfoundation-samples,C#,1
