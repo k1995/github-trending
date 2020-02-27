@@ -1,12 +1,12 @@
 id,name,lang,new stars
-23096959,golang/go,Go,47
-20580498,kubernetes/kubernetes,Go,45
+23096959,golang/go,Go,42
+20580498,kubernetes/kubernetes,Go,50
 14712850,syncthing/syncthing,Go,16
 17728164,hashicorp/terraform,Go,27
 29261473,minio/minio,Go,35
 16563587,cockroachdb/cockroach,Go,9
-23689830,yeasy/docker_practice,Go,8
-134017286,jesseduffield/lazygit,Go,177
+23689830,yeasy/docker_practice,Go,12
+134017286,jesseduffield/lazygit,Go,70
 46806184,helm/charts,Go,13
 8966356,hashicorp/packer,Go,8
 12418999,gopherjs/gopherjs,Go,8
@@ -14,13 +14,13 @@ id,name,lang,new stars
 133067498,kubernetes-sigs/kustomize,Go,7
 9524057,prometheus/node_exporter,Go,8
 109145553,containers/libpod,Go,11
-93444615,terraform-providers/terraform-provider-aws,Go,9
-93808874,bxcodec/go-clean-arch,Go,16
+93444615,terraform-providers/terraform-provider-aws,Go,11
+93808874,bxcodec/go-clean-arch,Go,18
 191655189,facebookincubator/ent,Go,5
 170411418,kedacore/keda,Go,14
 76686583,kubevirt/kubevirt,Go,6
 172292744,panjf2000/gnet,Go,5
 86742497,kubernetes/kubectl,Go,3
 242812587,liamg/shox,Go,130
-206649463,cilium/ebpf,Go,43
+206649463,cilium/ebpf,Go,55
 240520961,darkr4y/geacon,Go,6

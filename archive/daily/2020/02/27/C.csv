@@ -1,6 +1,6 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,35
-2810455,ggreer/the_silver_searcher,C,14
+10744183,netdata/netdata,C,32
+2810455,ggreer/the_silver_searcher,C,13
 5101141,stedolan/jq,C,12
 14812739,libuv/libuv,C,9
 4869294,radareorg/radare2,C,11
@@ -9,9 +9,9 @@ id,name,lang,new stars
 9330072,fogleman/Craft,C,3
 4999959,haiwen/seafile,C,5
 927442,postgres/postgres,C,9
-147667687,pwn20wndstuff/Undecimus,C,10
+147667687,pwn20wndstuff/Undecimus,C,9
 100781035,zserge/webview,C,14
-437011,openzfs/zfs,C,17
+437011,openzfs/zfs,C,18
 35780977,ImageMagick/ImageMagick,C,8
 22711503,gcc-mirror/gcc,C,8
 53614190,eclipse/mosquitto,C,4
