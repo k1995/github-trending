@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,49
+2325298,torvalds/linux,C,48
 10744183,netdata/netdata,C,35
 36502,git/git,C,24
 2810455,ggreer/the_silver_searcher,C,11
@@ -9,9 +9,9 @@ id,name,lang,new stars
 32873313,systemd/systemd,C,10
 147667687,pwn20wndstuff/Undecimus,C,11
 437011,openzfs/zfs,C,20
-14902556,offensive-security/exploitdb,C,3
+14902556,offensive-security/exploitdb,C,4
 104589662,s-macke/VoxelSpace,C,2
-102029150,cstack/db_tutorial,C,9
+102029150,cstack/db_tutorial,C,10
 54280778,DaveGamble/cJSON,C,8
 14509809,wren-lang/wren,C,4
 105944401,yugabyte/yugabyte-db,C,7
@@ -21,6 +21,6 @@ id,name,lang,new stars
 212152900,wasm3/wasm3,C,9
 124678204,aircrack-ng/aircrack-ng,C,4
 235804364,hackerschoice/thc-tips-tricks-hacks-cheat-sheet,C,7
-33078138,embox/embox,C,3
+33078138,embox/embox,C,5
 157359627,espressif/esp32-camera,C,3
 110481501,gameprogcpp/code,C,3
