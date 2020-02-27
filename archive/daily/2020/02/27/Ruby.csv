@@ -1,14 +1,14 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,10
-53238813,Homebrew/brew,Ruby,12
-2293158,rapid7/metasploit-framework,Ruby,18
-3623050,Homebrew/homebrew-cask,Ruby,8
+7569578,discourse/discourse,Ruby,8
+53238813,Homebrew/brew,Ruby,11
+2293158,rapid7/metasploit-framework,Ruby,16
+3623050,Homebrew/homebrew-cask,Ruby,5
 1725199,github/linguist,Ruby,1
-16549503,github/scientist,Ruby,8
+16549503,github/scientist,Ruby,7
 202291859,chatwoot/chatwoot,Ruby,9
-1314319,instructure/canvas-lms,Ruby,6
-4523235,asciidoctor/asciidoctor,Ruby,2
-115215349,pluosi/app-host,Ruby,6
+1314319,instructure/canvas-lms,Ruby,4
+4523235,asciidoctor/asciidoctor,Ruby,1
+115215349,pluosi/app-host,Ruby,5
 51330537,Ada-Developers-Academy/textbook-curriculum,Ruby,1
 15459617,rapid7/recog,Ruby,0
 230088868,pawurb/rails-pg-extras,Ruby,14
@@ -17,8 +17,8 @@ id,name,lang,new stars
 211955311,learn-co-students/mass-assignment-onl01-seng-ft-021020,Ruby,0
 242858497,kiei451-winter2020/software-design,Ruby,0
 242847472,learn-co-students/ruby-oo-inheritance-inheritance-lab-nyc-web-021720,Ruby,0
-242847463,learn-co-students/ruby-oo-inheritance-defining-inheritance-nyc-web-021720,Ruby,0
 243121730,learn-co-students/Rails-RubberDucking-nyc-web-012720,Ruby,0
+242847463,learn-co-students/ruby-oo-inheritance-defining-inheritance-nyc-web-021720,Ruby,0
 242847464,learn-co-students/ruby-oo-inheritance-modules-nyc-web-021720,Ruby,0
 239532769,learn-co-students/school-domain-onl01-seng-pt-021020,Ruby,0
 242235315,learn-co-students/rails-cru-form_for-lab-seattle-web-012720,Ruby,0
