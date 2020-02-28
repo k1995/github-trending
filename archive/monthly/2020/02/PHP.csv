@@ -3,13 +3,13 @@ id,name,lang,new stars
 1864363,composer/composer,PHP,286
 7548986,laravel/framework,PHP,304
 2253830,PHPMailer/PHPMailer,PHP,191
-1548202,matomo-org/matomo,PHP,175
+1548202,matomo-org/matomo,PHP,179
 2884111,magento/magento2,PHP,97
 42480275,spatie/laravel-permission,PHP,175
-6660366,dompdf/dompdf,PHP,100
+6660366,dompdf/dompdf,PHP,101
 2179920,woocommerce/woocommerce,PHP,84
 126950582,donwa/oneindex,PHP,174
-86350964,the-benchmarker/web-frameworks,PHP,162
+86350964,the-benchmarker/web-frameworks,PHP,164
 439861,moodle/moodle,PHP,48
 74386167,vimeo/psalm,PHP,112
 31595609,mpdf/mpdf,PHP,60
@@ -22,5 +22,5 @@ id,name,lang,new stars
 74026995,CodelyTV/php-ddd-example,PHP,146
 73319562,flozz/p0wny-shell,PHP,99
 27249479,EC-CUBE/ec-cube,PHP,6
-236119949,globalcitizen/2019-wuhan-coronavirus-data,PHP,436
+236119949,globalcitizen/2019-wuhan-coronavirus-data,PHP,441
 99055702,ssrpanel/SSRPanel,PHP,57

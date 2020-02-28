@@ -1,8 +1,8 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,52
 14712850,syncthing/syncthing,Go,9
-16563587,cockroachdb/cockroach,Go,7
-13855476,jinzhu/gorm,Go,21
+16563587,cockroachdb/cockroach,Go,11
+13855476,jinzhu/gorm,Go,17
 53632140,zyedidia/micro,Go,21
 129717717,grafana/loki,Go,15
 167483271,sqshq/sampler,Go,22
@@ -14,13 +14,13 @@ id,name,lang,new stars
 127519518,projectdiscovery/subfinder,Go,5
 43332504,GoogleCloudPlatform/golang-samples,Go,3
 66156850,TheAlgorithms/Go,Go,5
-149249432,changkun/go-under-the-hood,Go,34
+149249432,changkun/go-under-the-hood,Go,33
 93942998,keel-hq/keel,Go,10
-105569787,gothinkster/golang-gin-realworld-example-app,Go,3
+105569787,gothinkster/golang-gin-realworld-example-app,Go,4
 116825580,kubernetes-sigs/kubefed,Go,6
-86742497,kubernetes/kubectl,Go,3
+86742497,kubernetes/kubectl,Go,2
 49970739,DataDog/datadog-agent,Go,3
 207685110,geph-official/geph2,Go,18
 125911051,topfreegames/pitaya,Go,3
 243213207,alexellis/arkade,Go,128
-242781085,ConsenSys/gnark,Go,24
+242781085,ConsenSys/gnark,Go,25
