@@ -1,8 +1,8 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,14
-1864363,composer/composer,PHP,10
-3431193,yiisoft/yii2,PHP,6
-1548202,matomo-org/matomo,PHP,15
+1864363,composer/composer,PHP,8
+3431193,yiisoft/yii2,PHP,9
+1548202,matomo-org/matomo,PHP,11
 1305114,roots/sage,PHP,6
 2854337,phalcon/cphalcon,PHP,3
 28628034,flarum/flarum,PHP,11
@@ -10,17 +10,17 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,4
 5508585,YOURLS/YOURLS,PHP,6
 4551765,thephpleague/oauth2-server,PHP,5
-4565995,phpseclib/phpseclib,PHP,5
+4565995,phpseclib/phpseclib,PHP,3
 33916850,spatie/laravel-medialibrary,PHP,5
 13073056,RainLoop/rainloop-webmail,PHP,2
-8077402,MISP/MISP,PHP,6
+8077402,MISP/MISP,PHP,7
 31595609,mpdf/mpdf,PHP,3
-170355508,livewire/livewire,PHP,52
+170355508,livewire/livewire,PHP,62
 139179084,area17/twill,PHP,3
-31224950,artesaos/seotools,PHP,2
+31224950,artesaos/seotools,PHP,4
 232599652,laravel/airlock,PHP,9
-85382582,sprintcube/docker-compose-lamp,PHP,5
+85382582,sprintcube/docker-compose-lamp,PHP,4
 131995661,shopware/platform,PHP,6
 236119949,globalcitizen/2019-wuhan-coronavirus-data,PHP,11
-166150969,a54552239/pearProjectApi,PHP,14
-240974978,audrasjb/wp-autoupdates,PHP,7
+166150969,a54552239/pearProjectApi,PHP,8
+240974978,audrasjb/wp-autoupdates,PHP,3
