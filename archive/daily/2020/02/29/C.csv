@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,93
+2325298,torvalds/linux,C,95
 10744183,netdata/netdata,C,31
-36502,git/git,C,15
-111583593,Genymobile/scrcpy,C,125
+36502,git/git,C,16
+111583593,Genymobile/scrcpy,C,126
 15183485,julycoding/The-Art-Of-Programming-By-July,C,12
 569041,curl/curl,C,17
 18496166,gentilkiwi/mimikatz,C,13
 34921116,iovisor/bcc,C,11
-102578345,coolsnowwolf/lede,C,62
+102578345,coolsnowwolf/lede,C,63
 927442,postgres/postgres,C,9
 32873313,systemd/systemd,C,30
 26917568,nodemcu/nodemcu-firmware,C,3
@@ -15,9 +15,9 @@ id,name,lang,new stars
 105944401,yugabyte/yugabyte-db,C,7
 47057247,Wind4/vlmcsd,C,7
 89318964,SecWiki/linux-kernel-exploits,C,3
-68291988,miloyip/json-tutorial,C,4
+68291988,miloyip/json-tutorial,C,5
 60667730,littlevgl/lvgl,C,8
-113412457,gnif/LookingGlass,C,5
+113412457,gnif/LookingGlass,C,6
 29933948,fluent/fluent-bit,C,4
 25947175,rogerclarkmelbourne/Arduino_STM32,C,4
 198869255,google/AFL,C,4
