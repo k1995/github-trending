@@ -1,16 +1,16 @@
 id,name,lang,new stars
+1863329,laravel/laravel,PHP,141
 2579314,fzaninotto/Faker,PHP,59
-458058,symfony/symfony,PHP,58
 7548986,laravel/framework,PHP,66
 2234102,bcit-ci/CodeIgniter,PHP,45
 3431193,yiisoft/yii2,PHP,22
 4916869,ramsey/uuid,PHP,35
 8678290,barryvdh/laravel-ide-helper,PHP,107
+29843361,overtrue/wechat,PHP,16
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,32
 2884111,magento/magento2,PHP,25
-49014795,phpstan/phpstan,PHP,26
-79111500,jupeter/clean-code-php,PHP,72
+79111500,jupeter/clean-code-php,PHP,70
 8305060,top-think/think,PHP,15
-6660366,dompdf/dompdf,PHP,24
 11467667,typecho/typecho,PHP,43
 126950582,donwa/oneindex,PHP,56
 14346979,snipe/snipe-it,PHP,81
@@ -19,7 +19,6 @@ id,name,lang,new stars
 170355508,livewire/livewire,PHP,149
 29501260,api-platform/core,PHP,6
 679584,openemr/openemr,PHP,6
-39698170,pi-hole/AdminLTE,PHP,17
 73319562,flozz/p0wny-shell,PHP,77
 182036179,szvone/vmqphp,PHP,19
 91593797,magento/inventory,PHP,0
