@@ -1,6 +1,6 @@
 id,name,lang,new stars
 54346799,public-apis/public-apis,Python,64
-529502,scrapy/scrapy,Python,19
+529502,scrapy/scrapy,Python,15
 519832,mitmproxy/mitmproxy,Python,29
 125266328,psf/black,Python,28
 2771544,rq/rq,Python,10
@@ -13,7 +13,7 @@ id,name,lang,new stars
 128474296,ayooshkathuria/pytorch-yolo-v3,Python,8
 239569600,Netflix/dispatch,Python,199
 224234024,mherrmann/helium,Python,176
-137086172,idealo/image-quality-assessment,Python,6
+137086172,idealo/image-quality-assessment,Python,3
 242815587,kotartemiy/newscatcher,Python,158
 127608898,librauee/Reptile,Python,37
 186289660,shunsukesaito/PIFu,Python,108
