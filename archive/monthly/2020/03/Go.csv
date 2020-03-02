@@ -1,12 +1,12 @@
 id,name,lang,new stars
-48378947,fatedier/frp,Go,1124
+48378947,fatedier/frp,Go,1047
 41912791,v2ray/v2ray-core,Go,1967
 17728164,hashicorp/terraform,Go,505
 112567264,iikira/BaiduPCS-Go,Go,1257
 401025,github/hub,Go,709
 43723161,helm/helm,Go,501
-134017286,jesseduffield/lazygit,Go,748
-46806184,helm/charts,Go,501
+134017286,jesseduffield/lazygit,Go,750
+46806184,helm/charts,Go,441
 120227732,fyne-io/fyne,Go,1281
 11593442,golang/groupcache,Go,195
 54378638,github/gh-ost,Go,141
