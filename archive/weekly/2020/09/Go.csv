@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,353
+23096959,golang/go,Go,352
 20580498,kubernetes/kubernetes,Go,311
 7691631,moby/moby,Go,106
 20904437,gin-gonic/gin,Go,256
@@ -14,7 +14,7 @@ id,name,lang,new stars
 13628513,sirupsen/logrus,Go,92
 72891330,kubernetes/ingress-nginx,Go,79
 125642885,developer-learning/night-reading-go,Go,114
-136815833,Dreamacro/clash,Go,316
+136815833,Dreamacro/clash,Go,318
 57939112,kubernetes/community,Go,62
 162920291,inlets/inlets,Go,190
 191117123,chaitin/xray,Go,109
