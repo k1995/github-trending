@@ -2,9 +2,9 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,174
 458058,symfony/symfony,PHP,65
 7548986,laravel/framework,PHP,82
-1420053,guzzle/guzzle,PHP,53
+1420053,guzzle/guzzle,PHP,52
 2234102,bcit-ci/CodeIgniter,PHP,57
-448045,sebastianbergmann/phpunit,PHP,50
+448045,sebastianbergmann/phpunit,PHP,41
 3431193,yiisoft/yii2,PHP,21
 4916869,ramsey/uuid,PHP,42
 60243197,nextcloud/server,PHP,95
@@ -12,7 +12,7 @@ id,name,lang,new stars
 29843361,overtrue/wechat,PHP,18
 2884111,magento/magento2,PHP,29
 49014795,phpstan/phpstan,PHP,35
-79111500,jupeter/clean-code-php,PHP,82
+79111500,jupeter/clean-code-php,PHP,70
 8305060,top-think/think,PHP,18
 11467667,typecho/typecho,PHP,57
 126950582,donwa/oneindex,PHP,77

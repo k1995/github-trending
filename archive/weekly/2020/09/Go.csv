@@ -1,14 +1,14 @@
 id,name,lang,new stars
-23096959,golang/go,Go,352
-20580498,kubernetes/kubernetes,Go,311
+23096959,golang/go,Go,353
+20580498,kubernetes/kubernetes,Go,258
 7691631,moby/moby,Go,106
 20904437,gin-gonic/gin,Go,256
-48378947,fatedier/frp,Go,316
+48378947,fatedier/frp,Go,317
 41912791,v2ray/v2ray-core,Go,582
 41986369,pingcap/tidb,Go,109
 112567264,iikira/BaiduPCS-Go,Go,491
 8989842,unknwon/the-way-to-go_ZH_CN,Go,100
-17803236,rclone/rclone,Go,186
+17803236,rclone/rclone,Go,123
 23689830,yeasy/docker_practice,Go,75
 134017286,jesseduffield/lazygit,Go,461
 13628513,sirupsen/logrus,Go,92
@@ -18,9 +18,9 @@ id,name,lang,new stars
 57939112,kubernetes/community,Go,62
 162920291,inlets/inlets,Go,190
 191117123,chaitin/xray,Go,109
-61153677,m3db/m3,Go,304
+61153677,m3db/m3,Go,308
 137854081,GoAdminGroup/go-admin,Go,107
-201658460,geektutu/7days-golang,Go,573
+201658460,geektutu/7days-golang,Go,574
 93446042,terraform-providers/terraform-provider-azurerm,Go,24
-237805954,Shpota/goxygen,Go,546
+237805954,Shpota/goxygen,Go,176
 207685110,geph-official/geph2,Go,80
