@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,457
+2325298,torvalds/linux,C,462
 10744183,netdata/netdata,C,168
 156018,antirez/redis,C,133
-111583593,Genymobile/scrcpy,C,354
+111583593,Genymobile/scrcpy,C,356
 1614410,FFmpeg/FFmpeg,C,110
 18666758,pjreddie/darknet,C,96
 569041,curl/curl,C,133
@@ -12,7 +12,7 @@ id,name,lang,new stars
 34921116,iovisor/bcc,C,53
 5254557,cloudwu/skynet,C,18
 613829,openresty/lua-nginx-module,C,25
-102578345,coolsnowwolf/lede,C,332
+102578345,coolsnowwolf/lede,C,339
 147667687,pwn20wndstuff/Undecimus,C,62
 100781035,zserge/webview,C,51
 186749,nodejs/http-parser,C,19

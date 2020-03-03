@@ -6,9 +6,9 @@ id,name,lang,new stars
 11171548,nlohmann/json,C++,352
 184456251,microsoft/PowerToys,C++,657
 39840932,google/googletest,C++,275
-74627617,commaai/openpilot,C++,613
+74627617,commaai/openpilot,C++,608
 1062572,catchorg/Catch2,C++,182
-107794782,trojan-gfw/trojan,C++,2398
+107794782,trojan-gfw/trojan,C++,2400
 26038648,gabime/spdlog,C++,249
 104231541,abseil/abseil-cpp,C++,157
 51905353,apache/arrow,C++,104
@@ -21,6 +21,6 @@ id,name,lang,new stars
 100326126,plaidml/plaidml,C++,342
 64561753,dusty-nv/jetson-inference,C++,152
 33100064,jbeder/yaml-cpp,C++,59
-192025001,Qv2ray/Qv2ray,C++,371
+192025001,Qv2ray/Qv2ray,C++,377
 206946371,ton-blockchain/ton,C++,100
 218686763,tindy2013/subconverter,C++,370
