@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,305
+23096959,golang/go,Go,327
 20580498,kubernetes/kubernetes,Go,255
 7691631,moby/moby,Go,84
 20904437,gin-gonic/gin,Go,200
@@ -20,7 +20,7 @@ id,name,lang,new stars
 191117123,chaitin/xray,Go,97
 61153677,m3db/m3,Go,58
 137854081,GoAdminGroup/go-admin,Go,75
-201658460,geektutu/7days-golang,Go,687
+201658460,geektutu/7days-golang,Go,726
 93446042,terraform-providers/terraform-provider-azurerm,Go,23
 237805954,Shpota/goxygen,Go,171
 207685110,geph-official/geph2,Go,68
