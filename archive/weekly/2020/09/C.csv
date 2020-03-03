@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,462
+2325298,torvalds/linux,C,467
 10744183,netdata/netdata,C,168
 156018,antirez/redis,C,133
-111583593,Genymobile/scrcpy,C,388
+111583593,Genymobile/scrcpy,C,378
 1614410,FFmpeg/FFmpeg,C,110
 18666758,pjreddie/darknet,C,96
 569041,curl/curl,C,133
@@ -12,13 +12,13 @@ id,name,lang,new stars
 34921116,iovisor/bcc,C,53
 5254557,cloudwu/skynet,C,18
 613829,openresty/lua-nginx-module,C,25
-102578345,coolsnowwolf/lede,C,339
+102578345,coolsnowwolf/lede,C,369
 147667687,pwn20wndstuff/Undecimus,C,62
 100781035,zserge/webview,C,51
 186749,nodejs/http-parser,C,19
 105944401,yugabyte/yugabyte-db,C,40
 31791482,microsoft/Windows-driver-samples,C,18
-193885464,woltapp/blurhash,C,356
+193885464,woltapp/blurhash,C,268
 31806094,akopytov/sysbench,C,16
 76599439,FRRouting/frr,C,16
 108568638,hanwckf/rt-n56u,C,50
