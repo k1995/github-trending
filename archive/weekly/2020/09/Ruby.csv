@@ -1,12 +1,15 @@
 id,name,lang,new stars
+8514,rails/rails,Ruby,61
 65252,jekyll/jekyll,Ruby,77
 27442967,fastlane/fastlane,Ruby,71
-2293158,rapid7/metasploit-framework,Ruby,71
-2203645,CocoaPods/CocoaPods,Ruby,17
+8681349,huginn/huginn,Ruby,280
+53238813,Homebrew/brew,Ruby,98
+308770,heartcombo/devise,Ruby,27
+106995,sinatra/sinatra,Ruby,10
 3314,spree/spree,Ruby,18
-812393,ruby-grape/grape,Ruby,7
+611921,activeadmin/activeadmin,Ruby,5
 96395,faker-ruby/faker,Ruby,19
-15435,Shopify/liquid,Ruby,14
+1725199,github/linguist,Ruby,22
 52855516,Homebrew/homebrew-core,Ruby,37
 6529205,varvet/pundit,Ruby,16
 21829,thoughtbot/factory_bot,Ruby,12
@@ -14,13 +17,10 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,10
 16549503,github/scientist,Ruby,26
 9746477,samaaron/sonic-pi,Ruby,55
-37997,jnunemaker/httparty,Ruby,7
 33739333,thoughtbot/administrate,Ruby,12
-447184,rspec/rspec-rails,Ruby,7
 1734,aasm/aasm,Ruby,16
+43347873,danger/danger,Ruby,18
 202291859,chatwoot/chatwoot,Ruby,83
-14238949,elastic/elasticsearch-rails,Ruby,6
 46698467,ankane/strong_migrations,Ruby,54
-134949638,hoochanlon/fq-book,Ruby,12
-189010173,Hackplayers/evil-winrm,Ruby,15
-198371388,rubycdp/ferrum,Ruby,65
+1175581,citation-style-language/styles,Ruby,8
+20037550,ruby/rake,Ruby,4
