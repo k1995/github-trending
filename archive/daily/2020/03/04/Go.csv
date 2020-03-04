@@ -1,6 +1,6 @@
 id,name,lang,new stars
 23096959,golang/go,Go,70
-7691631,moby/moby,Go,25
+7691631,moby/moby,Go,24
 6838921,prometheus/prometheus,Go,26
 74175805,istio/istio,Go,20
 17728164,hashicorp/terraform,Go,16
@@ -15,7 +15,7 @@ id,name,lang,new stars
 36653430,hashicorp/nomad,Go,3
 27576132,aws/aws-sdk-go,Go,6
 167596393,derailed/k9s,Go,31
-133067498,kubernetes-sigs/kustomize,Go,13
+133067498,kubernetes-sigs/kustomize,Go,12
 100982449,argoproj/argo,Go,11
 121086193,99designs/gqlgen,Go,9
 55637575,lucas-clemente/quic-go,Go,16

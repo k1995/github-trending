@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,119
+2325298,torvalds/linux,C,99
 13233158,obsproject/obs-studio,C,31
 5101141,stedolan/jq,C,11
-11715753,robertdavidgraham/masscan,C,18
+11715753,robertdavidgraham/masscan,C,17
 11397939,allinurl/goaccess,C,14
-102578345,coolsnowwolf/lede,C,93
+102578345,coolsnowwolf/lede,C,86
 75811015,Tencent/xLua,C,6
 63809205,google/oss-fuzz,C,11
 2328181,freebsd/freebsd,C,31
@@ -21,6 +21,6 @@ id,name,lang,new stars
 110170439,aws/amazon-freertos,C,6
 131710328,CTCaer/hekate,C,12
 48141512,cloudflare/cloudflare-blog,C,16
-70934373,Azure/azure-iot-sdk-c,C,1
 242162049,Rapiz1/DungeonRush,C,139
+70934373,Azure/azure-iot-sdk-c,C,1
 223096955,notrynohigh/BabyOS,C,34

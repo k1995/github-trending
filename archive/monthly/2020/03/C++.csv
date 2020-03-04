@@ -1,18 +1,18 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1291
-5108051,opencv/opencv,C++,733
-65600975,pytorch/pytorch,C++,878
+45717250,tensorflow/tensorflow,C++,1293
+5108051,opencv/opencv,C++,735
+65600975,pytorch/pytorch,C++,880
 27729880,grpc/grpc,C++,340
-39840932,google/googletest,C++,268
+39840932,google/googletest,C++,271
 74627617,commaai/openpilot,C++,607
 1062572,catchorg/Catch2,C++,183
-120887835,huihut/interview,C++,350
+120887835,huihut/interview,C++,358
 107794782,trojan-gfw/trojan,C++,2398
 26038648,gabime/spdlog,C++,255
 265995,VowpalWabbit/vowpal_wabbit,C++,77
 98771110,zhongyang219/TrafficMonitor,C++,376
 104231541,abseil/abseil-cpp,C++,164
-160083795,SerenityOS/serenity,C++,401
+160083795,SerenityOS/serenity,C++,410
 51905353,apache/arrow,C++,105
 191820100,google/mediapipe,C++,607
 23086893,google/re2,C++,128
@@ -22,5 +22,5 @@ id,name,lang,new stars
 64561753,dusty-nv/jetson-inference,C++,153
 192025001,Qv2ray/Qv2ray,C++,373
 206946371,ton-blockchain/ton,C++,102
-218686763,tindy2013/subconverter,C++,375
+218686763,tindy2013/subconverter,C++,374
 237361749,JPCERTCC/EmoCheck,C++,175

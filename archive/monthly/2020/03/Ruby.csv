@@ -1,14 +1,14 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,301
+65252,jekyll/jekyll,Ruby,302
 27442967,fastlane/fastlane,Ruby,249
-53238813,Homebrew/brew,Ruby,340
-2293158,rapid7/metasploit-framework,Ruby,303
+53238813,Homebrew/brew,Ruby,338
+2293158,rapid7/metasploit-framework,Ruby,300
 3623050,Homebrew/homebrew-cask,Ruby,142
 2203645,CocoaPods/CocoaPods,Ruby,69
 1090311,elastic/logstash,Ruby,81
 4095287,rubocop-hq/rubocop,Ruby,98
 3314,spree/spree,Ruby,48
-361310,teamcapybara/capybara,Ruby,39
+361310,teamcapybara/capybara,Ruby,38
 15435,Shopify/liquid,Ruby,60
 1725199,github/linguist,Ruby,97
 52855516,Homebrew/homebrew-core,Ruby,150
@@ -18,7 +18,7 @@ id,name,lang,new stars
 16549503,github/scientist,Ruby,69
 9746477,samaaron/sonic-pi,Ruby,186
 11607598,ruby-concurrency/concurrent-ruby,Ruby,56
-33739333,thoughtbot/administrate,Ruby,42
+33739333,thoughtbot/administrate,Ruby,41
 6899875,opf/openproject,Ruby,92
 1314319,instructure/canvas-lms,Ruby,56
 46698467,ankane/strong_migrations,Ruby,135
