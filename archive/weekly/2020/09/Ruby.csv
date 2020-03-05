@@ -5,7 +5,7 @@ id,name,lang,new stars
 8681349,huginn/huginn,Ruby,285
 53238813,Homebrew/brew,Ruby,89
 308770,heartcombo/devise,Ruby,26
-106995,sinatra/sinatra,Ruby,11
+1090311,elastic/logstash,Ruby,48
 3314,spree/spree,Ruby,14
 611921,activeadmin/activeadmin,Ruby,7
 96395,faker-ruby/faker,Ruby,17
@@ -13,14 +13,14 @@ id,name,lang,new stars
 52855516,Homebrew/homebrew-core,Ruby,34
 6529205,varvet/pundit,Ruby,16
 21829,thoughtbot/factory_bot,Ruby,11
-108278,chef/chef,Ruby,14
+7066560,BetterErrors/better_errors,Ruby,21
 2441517,puma/puma,Ruby,10
 16549503,github/scientist,Ruby,28
-9746477,samaaron/sonic-pi,Ruby,53
-33739333,thoughtbot/administrate,Ruby,10
+4994614,wpscanteam/wpscan,Ruby,23
+447184,rspec/rspec-rails,Ruby,10
 1734,aasm/aasm,Ruby,15
 43347873,danger/danger,Ruby,21
 202291859,chatwoot/chatwoot,Ruby,85
+30985840,solidusio/solidus,Ruby,5
 46698467,ankane/strong_migrations,Ruby,54
 1175581,citation-style-language/styles,Ruby,7
-20037550,ruby/rake,Ruby,4

@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,651
-2579314,fzaninotto/Faker,PHP,255
-1864363,composer/composer,PHP,257
-7548986,laravel/framework,PHP,312
+1863329,laravel/laravel,PHP,652
+7548986,laravel/framework,PHP,307
 2253830,PHPMailer/PHPMailer,PHP,189
 12615154,barryvdh/laravel-debugbar,PHP,145
 2884111,magento/magento2,PHP,95
 14259390,Maatwebsite/Laravel-Excel,PHP,116
 42480275,spatie/laravel-permission,PHP,167
+6660366,dompdf/dompdf,PHP,94
 2179920,woocommerce/woocommerce,PHP,68
 126950582,donwa/oneindex,PHP,206
 86350964,the-benchmarker/web-frameworks,PHP,173
 439861,moodle/moodle,PHP,52
 31595609,mpdf/mpdf,PHP,56
+57999295,mpociot/laravel-apidoc-generator,PHP,62
 41463886,codeigniter4/CodeIgniter4,PHP,156
-170355508,livewire/livewire,PHP,407
+170355508,livewire/livewire,PHP,404
 148129143,bagisto/bagisto,PHP,250
 6495081,wikimedia/mediawiki,PHP,42
 56836583,postaddictme/instagram-php-scraper,PHP,76
