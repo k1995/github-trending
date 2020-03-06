@@ -1,17 +1,16 @@
 id,name,lang,new stars
-23096959,golang/go,Go,309
+23096959,golang/go,Go,306
 20904437,gin-gonic/gin,Go,219
 5271882,astaxie/build-web-application-with-golang,Go,83
-48378947,fatedier/frp,Go,286
+48378947,fatedier/frp,Go,284
 6838921,prometheus/prometheus,Go,129
 41986369,pingcap/tidb,Go,99
 17728164,hashicorp/terraform,Go,149
 8989842,unknwon/the-way-to-go_ZH_CN,Go,99
-72495579,go-gitea/gitea,Go,264
+72495579,go-gitea/gitea,Go,262
 13855476,jinzhu/gorm,Go,106
 13628513,sirupsen/logrus,Go,73
 53632140,zyedidia/micro,Go,90
-50613991,goharbor/harbor,Go,80
 156084530,ehang-io/nps,Go,141
 21827146,chrislusf/seaweedfs,Go,37
 16554739,elastic/beats,Go,35
@@ -20,7 +19,7 @@ id,name,lang,new stars
 65434192,tidwall/gjson,Go,65
 167596393,derailed/k9s,Go,148
 92313258,jetstack/cert-manager,Go,54
-201658460,geektutu/7days-golang,Go,892
+201658460,geektutu/7days-golang,Go,782
 193160679,kyleconroy/sqlc,Go,143
-237805954,Shpota/goxygen,Go,543
+237805954,Shpota/goxygen,Go,542
 243213207,alexellis/arkade,Go,133

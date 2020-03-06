@@ -3,11 +3,11 @@ id,name,lang,new stars
 191113739,0voice/interview_internal_reference,Python,153
 873328,getsentry/sentry,Python,119
 858127,pandas-dev/pandas,Python,122
-155220641,huggingface/transformers,Python,446
+155220641,huggingface/transformers,Python,452
 24976755,hankcs/HanLP,Python,128
 145553672,fighting41love/funNLP,Python,317
 84533158,yunjey/pytorch-tutorial,Python,145
-160919119,tiangolo/fastapi,Python,541
+160919119,tiangolo/fastapi,Python,540
 65593050,h2y/Shadowrocket-ADBlock-Rules,Python,172
 175366155,shengqiangzhang/examples-of-web-crawlers,Python,110
 130375797,dmlc/dgl,Python,71
@@ -18,9 +18,9 @@ id,name,lang,new stars
 192814419,ymcui/Chinese-BERT-wwm,Python,74
 239569600,Netflix/dispatch,Python,440
 235901813,PostHog/posthog,Python,432
-224234024,mherrmann/helium,Python,510
-242815587,kotartemiy/newscatcher,Python,176
-222110214,huawei-noah/ghostnet,Python,282
+224234024,mherrmann/helium,Python,463
+242815587,kotartemiy/newscatcher,Python,156
+222110214,huawei-noah/ghostnet,Python,272
 234936988,nextstrain/ncov,Python,171
 241299322,AIZOOTech/FaceMaskDetection,Python,90
 59987519,hypn0s/AJPy,Python,36
