@@ -1,8 +1,8 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
+8514,rails/rails,Ruby,9
 7569578,discourse/discourse,Ruby,17
-27442967,fastlane/fastlane,Ruby,13
-1090311,elastic/logstash,Ruby,6
+27442967,fastlane/fastlane,Ruby,14
+1090311,elastic/logstash,Ruby,8
 106995,sinatra/sinatra,Ruby,1
 4095287,rubocop-hq/rubocop,Ruby,1
 3195124,mperham/sidekiq,Ruby,2
@@ -16,8 +16,8 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,1
 75785147,rails/webpacker,Ruby,2
 447184,rspec/rspec-rails,Ruby,5
-96071,rack/rack,Ruby,4
-1172597,thoughtbot/shoulda-matchers,Ruby,2
+96071,rack/rack,Ruby,6
+1172597,thoughtbot/shoulda-matchers,Ruby,1
 3898922,zammad/zammad,Ruby,4
 46698467,ankane/strong_migrations,Ruby,10
 35051828,dev-sec/ansible-os-hardening,Ruby,4

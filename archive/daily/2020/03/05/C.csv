@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,93
-1903522,php/php-src,C,15
+2325298,torvalds/linux,C,97
+1903522,php/php-src,C,14
 18666758,pjreddie/darknet,C,23
-5101141,stedolan/jq,C,9
+5101141,stedolan/jq,C,7
 29759715,facebook/zstd,C,11
 40217904,swaywm/sway,C,8
 9524997,glfw/glfw,C,6
@@ -15,10 +15,10 @@ id,name,lang,new stars
 31791482,microsoft/Windows-driver-samples,C,2
 2359378,madler/zlib,C,3
 18383364,openvswitch/ovs,C,3
-110170439,aws/amazon-freertos,C,4
+110170439,aws/amazon-freertos,C,5
 5410234,OISF/suricata,C,3
 26537135,u-boot/u-boot,C,3
-242162049,Rapiz1/DungeonRush,C,118
+242162049,Rapiz1/DungeonRush,C,113
 70934373,Azure/azure-iot-sdk-c,C,1
 169356266,connor-brooks/ecosim,C,91
 223096955,notrynohigh/BabyOS,C,31
