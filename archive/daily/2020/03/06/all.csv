@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,27
-120538304,kelseyhightower/nocode,Dockerfile,858
+120538304,kelseyhightower/nocode,Dockerfile,340
 43441403,strapi/strapi,JavaScript,56
 30203935,metabase/metabase,Clojure,27
 33569135,ReactiveX/RxSwift,Swift,14
@@ -12,8 +12,8 @@ id,name,lang,new stars
 212613049,cli/cli,Go,64
 160083795,SerenityOS/serenity,C++,42
 238316428,CSSEGISandData/COVID-19,,307
-197523443,ZyqGitHub1/h-player-v2,Vue,29
 243894277,tokyo-metropolitan-gov/covid19,Vue,1307
+197523443,ZyqGitHub1/h-player-v2,Vue,29
 237805954,Shpota/goxygen,Go,166
 244452551,alexeygrigorev/data-science-interviews,,240
 244636429,react-spring/use-cannon,JavaScript,105

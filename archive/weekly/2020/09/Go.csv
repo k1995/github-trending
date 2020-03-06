@@ -1,12 +1,12 @@
 id,name,lang,new stars
-23096959,golang/go,Go,317
+23096959,golang/go,Go,318
 7691631,moby/moby,Go,81
 20904437,gin-gonic/gin,Go,219
-48378947,fatedier/frp,Go,267
+48378947,fatedier/frp,Go,275
 6838921,prometheus/prometheus,Go,129
 41986369,pingcap/tidb,Go,99
 8989842,unknwon/the-way-to-go_ZH_CN,Go,99
-72495579,go-gitea/gitea,Go,266
+72495579,go-gitea/gitea,Go,265
 13855476,jinzhu/gorm,Go,106
 77144337,openfaas/faas,Go,86
 13628513,sirupsen/logrus,Go,73
@@ -21,6 +21,6 @@ id,name,lang,new stars
 62712899,AdguardTeam/AdGuardHome,Go,64
 191117123,chaitin/xray,Go,90
 201658460,geektutu/7days-golang,Go,892
-237805954,Shpota/goxygen,Go,438
+237805954,Shpota/goxygen,Go,491
 67908757,Versent/saml2aws,Go,7
 207685110,geph-official/geph2,Go,58
