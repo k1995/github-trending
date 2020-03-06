@@ -5,7 +5,7 @@ id,name,lang,new stars
 12615154,barryvdh/laravel-debugbar,PHP,48
 60243197,nextcloud/server,PHP,81
 72069409,the-control-group/voyager,PHP,26
-23680678,tymondesigns/jwt-auth,PHP,24
+23680678,tymondesigns/jwt-auth,PHP,25
 29843361,overtrue/wechat,PHP,24
 2884111,magento/magento2,PHP,25
 49014795,phpstan/phpstan,PHP,49
@@ -23,4 +23,4 @@ id,name,lang,new stars
 170355508,livewire/livewire,PHP,190
 32792088,symfony/demo,PHP,10
 204472210,facade/ignition,PHP,20
-679584,openemr/openemr,PHP,13
+679584,openemr/openemr,PHP,14
