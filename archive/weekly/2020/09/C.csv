@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,550
+2325298,torvalds/linux,C,593
 156018,antirez/redis,C,138
 1903522,php/php-src,C,80
-111583593,Genymobile/scrcpy,C,318
+111583593,Genymobile/scrcpy,C,321
 13233158,obsproject/obs-studio,C,134
 18666758,pjreddie/darknet,C,97
 569041,curl/curl,C,116
@@ -10,7 +10,7 @@ id,name,lang,new stars
 20159867,nothings/stb,C,56
 2810292,pbatard/rufus,C,104
 18496166,gentilkiwi/mimikatz,C,62
-102578345,coolsnowwolf/lede,C,315
+102578345,coolsnowwolf/lede,C,360
 28515839,skywind3000/kcp,C,36
 100781035,zserge/webview,C,50
 75811015,Tencent/xLua,C,25
@@ -20,7 +20,7 @@ id,name,lang,new stars
 60667730,littlevgl/lvgl,C,51
 27359183,guanzhi/GmSSL,C,15
 98257850,intel/haxm,C,20
-108568638,hanwckf/rt-n56u,C,39
+108568638,hanwckf/rt-n56u,C,45
 237728012,TheWanderingCoel/Trojan-Qt5,C,154
 240011145,Lienol/openwrt,C,102
 50272879,pjsip/pjproject,C,10

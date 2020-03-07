@@ -1,13 +1,13 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,8
-27442967,fastlane/fastlane,Ruby,5
+27442967,fastlane/fastlane,Ruby,8
 2500088,gitlabhq/gitlabhq,Ruby,1
 308770,heartcombo/devise,Ruby,3
 2293158,rapid7/metasploit-framework,Ruby,15
 481872,hashicorp/vagrant,Ruby,2
 2203645,CocoaPods/CocoaPods,Ruby,1
 1090311,elastic/logstash,Ruby,1
-4095287,rubocop-hq/rubocop,Ruby,2
+4095287,rubocop-hq/rubocop,Ruby,3
 3314,spree/spree,Ruby,10
 3195124,mperham/sidekiq,Ruby,3
 812393,ruby-grape/grape,Ruby,1
@@ -17,7 +17,7 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,0
 30985840,solidusio/solidus,Ruby,3
 1172597,thoughtbot/shoulda-matchers,Ruby,0
-3898922,zammad/zammad,Ruby,0
+3898922,zammad/zammad,Ruby,1
 26094060,logstash-plugins/logstash-patterns-core,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,0
 65914086,decidim/decidim,Ruby,2
