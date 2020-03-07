@@ -1,8 +1,8 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,109
-54346799,public-apis/public-apis,Python,60
+54346799,public-apis/public-apis,Python,56
 4164482,django/django,Python,42
-858127,pandas-dev/pandas,Python,22
+858127,pandas-dev/pandas,Python,18
 71948498,localstack/localstack,Python,39
 155220641,huggingface/transformers,Python,98
 24976755,hankcs/HanLP,Python,34
@@ -10,7 +10,7 @@ id,name,lang,new stars
 88612945,junyanz/pytorch-CycleGAN-and-pix2pix,Python,15
 1385122,matplotlib/matplotlib,Python,10
 160919119,tiangolo/fastapi,Python,95
-97641933,OpenMined/PySyft,Python,11
+97641933,OpenMined/PySyft,Python,10
 1099265,cython/cython,Python,8
 224284178,NVlabs/stylegan2,Python,50
 209120637,Netflix/metaflow,Python,14
@@ -20,7 +20,7 @@ id,name,lang,new stars
 112409981,mitre/caldera,Python,5
 4127088,Azure/azure-sdk-for-python,Python,0
 151491863,traveller59/second.pytorch,Python,7
-234936988,nextstrain/ncov,Python,39
+234936988,nextstrain/ncov,Python,32
 243035597,JohnHammond/katana,Python,30
 242660051,zhou-xiaojun/jd_mask,Python,17
 238601449,ExpDev07/coronavirus-tracker-api,Python,10
