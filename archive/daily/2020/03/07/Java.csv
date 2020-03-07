@@ -1,16 +1,16 @@
 id,name,lang,new stars
-6296790,spring-projects/spring-boot,Java,31
+6296790,spring-projects/spring-boot,Java,30
 163387337,seata/seata,Java,12
-73614722,CarGuo/GSYVideoPlayer,Java,10
+73614722,CarGuo/GSYVideoPlayer,Java,11
 45721011,apache/skywalking,Java,44
-49662222,oracle/graal,Java,10
+49662222,oracle/graal,Java,12
 126365965,linlinjava/litemall,Java,33
-18723836,looly/hutool,Java,47
+18723836,looly/hutool,Java,48
 65073648,JessYanCoding/MVPArms,Java,4
-174765647,heibaiying/BigData-Notes,Java,18
-117965972,alibaba/DataX,Java,48
+174765647,heibaiying/BigData-Notes,Java,19
+117965972,alibaba/DataX,Java,47
 133134007,OpenAPITools/openapi-generator,Java,14
-3148979,spring-projects/spring-security,Java,5
+3148979,spring-projects/spring-security,Java,4
 20089857,apache/hbase,Java,1
 69400326,confluentinc/ksql,Java,5
 206317,apache/camel,Java,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 166515022,prestosql/presto,Java,1
 2928948,Azure/azure-sdk-for-java,Java,0
 241386011,bacen/pix-dict-quickstart,Java,31
-244746850,nerdsinspace/leaky-leaky,Java,9
+244746850,nerdsinspace/leaky-leaky,Java,8

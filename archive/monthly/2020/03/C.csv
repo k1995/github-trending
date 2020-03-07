@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1690
-10744183,netdata/netdata,C,736
-111583593,Genymobile/scrcpy,C,1282
-13233158,obsproject/obs-studio,C,488
-18666758,pjreddie/darknet,C,407
+2325298,torvalds/linux,C,1680
+10744183,netdata/netdata,C,732
+111583593,Genymobile/scrcpy,C,1277
+13233158,obsproject/obs-studio,C,481
+18666758,pjreddie/darknet,C,406
 7634677,openssl/openssl,C,228
 3714900,arut/nginx-rtmp-module,C,148
-102578345,coolsnowwolf/lede,C,1219
+102578345,coolsnowwolf/lede,C,1217
 147667687,pwn20wndstuff/Undecimus,C,265
 45821540,openwrt/openwrt,C,262
 186749,nodejs/http-parser,C,65
@@ -22,5 +22,5 @@ id,name,lang,new stars
 179354282,acidanthera/OpenCorePkg,C,222
 164585247,starrtc/starrtc-server,C,107
 108568638,hanwckf/rt-n56u,C,148
-117119718,pawelsalawa/sqlitestudio,C,116
+117119718,pawelsalawa/sqlitestudio,C,117
 211756905,MarlinFirmware/Configurations,C,22
