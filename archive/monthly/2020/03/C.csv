@@ -1,20 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1738
-10744183,netdata/netdata,C,746
-111583593,Genymobile/scrcpy,C,1305
-13233158,obsproject/obs-studio,C,500
-18666758,pjreddie/darknet,C,410
+2325298,torvalds/linux,C,1749
+10744183,netdata/netdata,C,751
+111583593,Genymobile/scrcpy,C,1310
+2810455,ggreer/the_silver_searcher,C,241
+13233158,obsproject/obs-studio,C,502
+18666758,pjreddie/darknet,C,412
 7634677,openssl/openssl,C,231
+3516624,twitter/twemproxy,C,74
 3714900,arut/nginx-rtmp-module,C,156
-102578345,coolsnowwolf/lede,C,1252
-147667687,pwn20wndstuff/Undecimus,C,269
-45821540,openwrt/openwrt,C,267
+102578345,coolsnowwolf/lede,C,1266
+147667687,pwn20wndstuff/Undecimus,C,273
 186749,nodejs/http-parser,C,65
-2328181,freebsd/freebsd,C,141
 4151993,OpenVPN/openvpn,C,132
 14735429,aquynh/capstone,C,90
 16734696,meetecho/janus-gateway,C,100
-8270972,ARMmbed/mbed-os,C,57
 135348215,TelegramMessenger/MTProxy,C,94
 24997096,openwrt/luci,C,96
 77739162,shadowsocks/simple-obfs,C,101
@@ -23,4 +22,5 @@ id,name,lang,new stars
 164585247,starrtc/starrtc-server,C,110
 108568638,hanwckf/rt-n56u,C,156
 117119718,pawelsalawa/sqlitestudio,C,118
+70934373,Azure/azure-iot-sdk-c,C,14
 211756905,MarlinFirmware/Configurations,C,22
