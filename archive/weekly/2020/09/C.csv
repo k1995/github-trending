@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,607
+2325298,torvalds/linux,C,613
 156018,antirez/redis,C,158
 1903522,php/php-src,C,88
-111583593,Genymobile/scrcpy,C,345
+111583593,Genymobile/scrcpy,C,350
 13233158,obsproject/obs-studio,C,151
 18666758,pjreddie/darknet,C,100
 569041,curl/curl,C,125
@@ -10,7 +10,7 @@ id,name,lang,new stars
 20159867,nothings/stb,C,59
 2810292,pbatard/rufus,C,115
 18496166,gentilkiwi/mimikatz,C,66
-102578345,coolsnowwolf/lede,C,362
+102578345,coolsnowwolf/lede,C,370
 28515839,skywind3000/kcp,C,40
 100781035,zserge/webview,C,66
 75811015,Tencent/xLua,C,32
