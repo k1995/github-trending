@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,688
+1863329,laravel/laravel,PHP,690
 7548986,laravel/framework,PHP,322
-2253830,PHPMailer/PHPMailer,PHP,197
-1548202,matomo-org/matomo,PHP,181
+2253830,PHPMailer/PHPMailer,PHP,183
+1548202,matomo-org/matomo,PHP,180
 12615154,barryvdh/laravel-debugbar,PHP,150
 23680678,tymondesigns/jwt-auth,PHP,106
 42480275,spatie/laravel-permission,PHP,187
@@ -14,7 +14,7 @@ id,name,lang,new stars
 86350964,the-benchmarker/web-frameworks,PHP,179
 439861,moodle/moodle,PHP,56
 41463886,codeigniter4/CodeIgniter4,PHP,160
-170355508,livewire/livewire,PHP,455
+170355508,livewire/livewire,PHP,437
 148129143,bagisto/bagisto,PHP,257
 2686502,pimcore/pimcore,PHP,52
 56836583,postaddictme/instagram-php-scraper,PHP,77

@@ -1,17 +1,17 @@
 id,name,lang,new stars
 51117837,tensorflow/models,Python,252
-12888993,home-assistant/core,Python,306
+12888993,home-assistant/core,Python,296
 191113739,0voice/interview_internal_reference,Python,200
 4578002,faif/python-patterns,Python,131
 83119431,apachecn/AiLearning,Python,186
-155220641,huggingface/transformers,Python,614
+155220641,huggingface/transformers,Python,575
 24976755,hankcs/HanLP,Python,177
-145553672,fighting41love/funNLP,Python,412
+145553672,fighting41love/funNLP,Python,382
 84533158,yunjey/pytorch-tutorial,Python,176
 151300862,machinelearningmindset/TensorFlow-Course,Python,56
 88612945,junyanz/pytorch-CycleGAN-and-pix2pix,Python,88
 1385122,matplotlib/matplotlib,Python,109
-160919119,tiangolo/fastapi,Python,656
+160919119,tiangolo/fastapi,Python,621
 157198623,hanxiao/bert-as-service,Python,83
 175366155,shengqiangzhang/examples-of-web-crawlers,Python,121
 130375797,dmlc/dgl,Python,83
@@ -19,8 +19,8 @@ id,name,lang,new stars
 224284178,NVlabs/stylegan2,Python,179
 24528468,vaexio/vaex,Python,129
 192814419,ymcui/Chinese-BERT-wwm,Python,87
-239569600,Netflix/dispatch,Python,487
+239569600,Netflix/dispatch,Python,440
 235901813,PostHog/posthog,Python,421
-222110214,huawei-noah/ghostnet,Python,277
+222110214,huawei-noah/ghostnet,Python,276
 234936988,nextstrain/ncov,Python,239
 241299322,AIZOOTech/FaceMaskDetection,Python,121

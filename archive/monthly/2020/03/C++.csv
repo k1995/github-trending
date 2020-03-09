@@ -1,17 +1,17 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,1378
-100060912,microsoft/terminal,C++,1372
+100060912,microsoft/terminal,C++,1293
 5108051,opencv/opencv,C++,807
 65600975,pytorch/pytorch,C++,909
-184456251,microsoft/PowerToys,C++,990
+184456251,microsoft/PowerToys,C++,905
 39840932,google/googletest,C++,279
 74627617,commaai/openpilot,C++,642
-31522041,vnpy/vnpy,C++,303
+31522041,vnpy/vnpy,C++,283
 1062572,catchorg/Catch2,C++,189
-120887835,huihut/interview,C++,425
+120887835,huihut/interview,C++,417
 107794782,trojan-gfw/trojan,C++,2476
 29518121,ShiqiYu/libfacedetection,C++,695
-26038648,gabime/spdlog,C++,278
+26038648,gabime/spdlog,C++,273
 265995,VowpalWabbit/vowpal_wabbit,C++,81
 98771110,zhongyang219/TrafficMonitor,C++,409
 104231541,abseil/abseil-cpp,C++,202
@@ -19,7 +19,7 @@ id,name,lang,new stars
 191820100,google/mediapipe,C++,633
 50255244,raulmur/ORB_SLAM2,C++,116
 99302204,wangyu-/udp2raw-tunnel,C++,115
-100326126,plaidml/plaidml,C++,357
+100326126,plaidml/plaidml,C++,351
 206946371,ton-blockchain/ton,C++,109
 87443396,Haivision/srt,C++,69
 218686763,tindy2013/subconverter,C++,426

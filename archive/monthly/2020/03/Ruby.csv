@@ -1,12 +1,12 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,309
-27442967,fastlane/fastlane,Ruby,265
-2293158,rapid7/metasploit-framework,Ruby,319
+65252,jekyll/jekyll,Ruby,303
+27442967,fastlane/fastlane,Ruby,260
+2293158,rapid7/metasploit-framework,Ruby,316
 3623050,Homebrew/homebrew-cask,Ruby,144
 2203645,CocoaPods/CocoaPods,Ruby,73
 1090311,elastic/logstash,Ruby,114
 4095287,rubocop-hq/rubocop,Ruby,99
-3314,spree/spree,Ruby,79
+3314,spree/spree,Ruby,78
 812393,ruby-grape/grape,Ruby,40
 1725199,github/linguist,Ruby,100
 52855516,Homebrew/homebrew-core,Ruby,139
@@ -16,11 +16,11 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,34
 5160706,bkeepers/dotenv,Ruby,45
 16549503,github/scientist,Ruby,71
-9746477,samaaron/sonic-pi,Ruby,176
+9746477,samaaron/sonic-pi,Ruby,175
 11607598,ruby-concurrency/concurrent-ruby,Ruby,51
 4994614,wpscanteam/wpscan,Ruby,87
 33739333,thoughtbot/administrate,Ruby,43
-43347873,danger/danger,Ruby,51
+43347873,danger/danger,Ruby,50
 46698467,ankane/strong_migrations,Ruby,149
 11426474,github/choosealicense.com,Ruby,37
-189010173,Hackplayers/evil-winrm,Ruby,108
+189010173,Hackplayers/evil-winrm,Ruby,107

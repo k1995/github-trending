@@ -3,7 +3,7 @@ id,name,lang,new stars
 36502,git/git,C,37
 4869294,radareorg/radare2,C,30
 3516624,twitter/twemproxy,C,8
-102578345,coolsnowwolf/lede,C,144
+102578345,coolsnowwolf/lede,C,180
 32873313,systemd/systemd,C,14
 78281075,spacehuhn/esp8266_deauther,C,11
 11178512,happyfish100/fastdfs,C,13
@@ -16,8 +16,8 @@ id,name,lang,new stars
 40759227,domoticz/domoticz,C,9
 108989209,chiakge/Linux-NetSpeed,C,22
 14021219,abishekvashok/cmatrix,C,15
-162378023,cx9208/bbrplus,C,8
-244935651,corellium/projectsandcastle,C,346
+162378023,cx9208/bbrplus,C,1
+244935651,corellium/projectsandcastle,C,42
 23780138,riscv/riscv-gnu-toolchain,C,6
 204459250,mit-pdos/xv6-riscv,C,18
 213916896,blender/blender,C,9
