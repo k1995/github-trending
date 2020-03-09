@@ -2,9 +2,9 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,72
 65252,jekyll/jekyll,Ruby,80
 27442967,fastlane/fastlane,Ruby,69
-8681349,huginn/huginn,Ruby,308
+8681349,huginn/huginn,Ruby,295
 2203645,CocoaPods/CocoaPods,Ruby,21
-1090311,elastic/logstash,Ruby,53
+1090311,elastic/logstash,Ruby,52
 3314,spree/spree,Ruby,41
 8393,thoughtbot/paperclip,Ruby,4
 812393,ruby-grape/grape,Ruby,9
@@ -15,12 +15,12 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,11
 4994614,wpscanteam/wpscan,Ruby,27
 447184,rspec/rspec-rails,Ruby,11
-30337170,rmosolgo/graphql-ruby,Ruby,9
+30337170,rmosolgo/graphql-ruby,Ruby,8
 1734,aasm/aasm,Ruby,16
 43347873,danger/danger,Ruby,20
 96071,rack/rack,Ruby,28
 202291859,chatwoot/chatwoot,Ruby,85
 30985840,solidusio/solidus,Ruby,9
 3898922,zammad/zammad,Ruby,15
-46698467,ankane/strong_migrations,Ruby,49
-65914086,decidim/decidim,Ruby,9
+46698467,ankane/strong_migrations,Ruby,48
+65914086,decidim/decidim,Ruby,10

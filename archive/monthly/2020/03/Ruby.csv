@@ -1,11 +1,11 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,298
+65252,jekyll/jekyll,Ruby,306
 27442967,fastlane/fastlane,Ruby,253
-2293158,rapid7/metasploit-framework,Ruby,312
+2293158,rapid7/metasploit-framework,Ruby,317
 3623050,Homebrew/homebrew-cask,Ruby,140
 2203645,CocoaPods/CocoaPods,Ruby,72
 1090311,elastic/logstash,Ruby,110
-4095287,rubocop-hq/rubocop,Ruby,96
+4095287,rubocop-hq/rubocop,Ruby,97
 3314,spree/spree,Ruby,75
 812393,ruby-grape/grape,Ruby,40
 1725199,github/linguist,Ruby,99
@@ -23,4 +23,4 @@ id,name,lang,new stars
 43347873,danger/danger,Ruby,50
 46698467,ankane/strong_migrations,Ruby,148
 11426474,github/choosealicense.com,Ruby,36
-189010173,Hackplayers/evil-winrm,Ruby,107
+189010173,Hackplayers/evil-winrm,Ruby,105

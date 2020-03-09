@@ -1,19 +1,19 @@
 id,name,lang,new stars
 23096959,golang/go,Go,85
 112567264,iikira/BaiduPCS-Go,Go,104
-50709152,kataras/iris,Go,25
+50709152,kataras/iris,Go,20
 10379607,buger/goreplay,Go,11
 13624859,gorilla/websocket,Go,26
 24977535,dutchcoders/transfer.sh,Go,7
 131371773,hoanhan101/ultimate-go,Go,16
 21405028,ardanlabs/gotraining,Go,28
-212613049,cli/cli,Go,176
+212613049,cli/cli,Go,174
 136815833,Dreamacro/clash,Go,92
 152058245,XiaoMi/soar,Go,8
 113106184,linkerd/linkerd2,Go,12
 77071454,goreleaser/goreleaser,Go,17
 28366058,docker/distribution,Go,7
-34659664,weaveworks/scope,Go,11
+34659664,weaveworks/scope,Go,13
 151525500,sql-machine-learning/sqlflow,Go,16
 57333709,kubernetes/test-infra,Go,6
 39874513,golang/proposal,Go,21

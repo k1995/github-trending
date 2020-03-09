@@ -1,13 +1,13 @@
 id,name,lang,new stars
 23096959,golang/go,Go,338
-20580498,kubernetes/kubernetes,Go,293
+20580498,kubernetes/kubernetes,Go,280
 20904437,gin-gonic/gin,Go,231
 6838921,prometheus/prometheus,Go,149
 13807606,junegunn/fzf,Go,231
 41986369,pingcap/tidb,Go,107
 17728164,hashicorp/terraform,Go,159
-29261473,minio/minio,Go,138
-8989842,unknwon/the-way-to-go_ZH_CN,Go,112
+29261473,minio/minio,Go,139
+8989842,unknwon/the-way-to-go_ZH_CN,Go,113
 14125254,hashicorp/consul,Go,68
 13124802,influxdata/influxdb,Go,60
 13855476,jinzhu/gorm,Go,119
@@ -15,12 +15,12 @@ id,name,lang,new stars
 13628513,sirupsen/logrus,Go,87
 46806184,helm/charts,Go,118
 50613991,goharbor/harbor,Go,89
-27729907,grpc/grpc-go,Go,59
+27729907,grpc/grpc-go,Go,58
 16554739,elastic/beats,Go,47
 5179099,go-redis/redis,Go,70
 33352201,grpc-ecosystem/grpc-gateway,Go,52
 27051771,golang/protobuf,Go,46
 137854081,GoAdminGroup/go-admin,Go,83
-201658460,geektutu/7days-golang,Go,827
+201658460,geektutu/7days-golang,Go,832
 51193526,cosmos/cosmos-sdk,Go,13
-237805954,Shpota/goxygen,Go,618
+237805954,Shpota/goxygen,Go,603

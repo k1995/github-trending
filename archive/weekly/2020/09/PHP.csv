@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,235
-458058,symfony/symfony,PHP,51
-7548986,laravel/framework,PHP,107
+1863329,laravel/laravel,PHP,238
+458058,symfony/symfony,PHP,52
+7548986,laravel/framework,PHP,109
 1376664,Seldaek/monolog,PHP,52
 7769432,vlucas/phpdotenv,PHP,36
-60243197,nextcloud/server,PHP,82
-23680678,tymondesigns/jwt-auth,PHP,36
+60243197,nextcloud/server,PHP,83
+23680678,tymondesigns/jwt-auth,PHP,37
 29843361,overtrue/wechat,PHP,28
 49014795,phpstan/phpstan,PHP,54
-48796179,z-song/laravel-admin,PHP,46
+48796179,z-song/laravel-admin,PHP,47
 61490598,PHPOffice/PhpSpreadsheet,PHP,52
 77071207,laravel/tinker,PHP,29
 2717549,Sylius/Sylius,PHP,25
@@ -19,8 +19,8 @@ id,name,lang,new stars
 76064827,mailcow/mailcow-dockerized,PHP,37
 41463886,codeigniter4/CodeIgniter4,PHP,49
 31541210,aimeos/aimeos-laravel,PHP,13
-170355508,livewire/livewire,PHP,185
+170355508,livewire/livewire,PHP,192
 32792088,symfony/demo,PHP,9
 2686502,pimcore/pimcore,PHP,14
-204472210,facade/ignition,PHP,21
-679584,openemr/openemr,PHP,16
+204472210,facade/ignition,PHP,22
+679584,openemr/openemr,PHP,18
