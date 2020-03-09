@@ -1,18 +1,18 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1788
-10744183,netdata/netdata,C,770
+2325298,torvalds/linux,C,1801
+10744183,netdata/netdata,C,773
 111583593,Genymobile/scrcpy,C,1328
-2810455,ggreer/the_silver_searcher,C,248
+2810455,ggreer/the_silver_searcher,C,246
 13233158,obsproject/obs-studio,C,515
-18666758,pjreddie/darknet,C,415
-7634677,openssl/openssl,C,238
+18666758,pjreddie/darknet,C,417
+7634677,openssl/openssl,C,236
 3516624,twitter/twemproxy,C,75
 3714900,arut/nginx-rtmp-module,C,159
-102578345,coolsnowwolf/lede,C,1321
+102578345,coolsnowwolf/lede,C,1315
 147667687,pwn20wndstuff/Undecimus,C,279
-186749,nodejs/http-parser,C,66
+186749,nodejs/http-parser,C,65
 4151993,OpenVPN/openvpn,C,135
-14735429,aquynh/capstone,C,96
+14735429,aquynh/capstone,C,95
 16734696,meetecho/janus-gateway,C,102
 135348215,TelegramMessenger/MTProxy,C,95
 24997096,openwrt/luci,C,99
