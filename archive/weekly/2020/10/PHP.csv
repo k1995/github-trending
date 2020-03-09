@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,264
+1863329,laravel/laravel,PHP,226
 458058,symfony/symfony,PHP,61
 7548986,laravel/framework,PHP,119
 1376664,Seldaek/monolog,PHP,58
 7769432,vlucas/phpdotenv,PHP,36
-60243197,nextcloud/server,PHP,90
+60243197,nextcloud/server,PHP,67
 23680678,tymondesigns/jwt-auth,PHP,37
 29843361,overtrue/wechat,PHP,31
 49014795,phpstan/phpstan,PHP,54
@@ -18,8 +18,8 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,15
 76064827,mailcow/mailcow-dockerized,PHP,39
 41463886,codeigniter4/CodeIgniter4,PHP,52
-31541210,aimeos/aimeos-laravel,PHP,15
 170355508,livewire/livewire,PHP,204
+31541210,aimeos/aimeos-laravel,PHP,15
 32792088,symfony/demo,PHP,9
 2686502,pimcore/pimcore,PHP,14
 204472210,facade/ignition,PHP,22
