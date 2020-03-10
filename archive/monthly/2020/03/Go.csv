@@ -1,20 +1,20 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1183
+23096959,golang/go,Go,1193
 20580498,kubernetes/kubernetes,Go,1013
 6838921,prometheus/prometheus,Go,523
 41912791,v2ray/v2ray-core,Go,1847
 112567264,iikira/BaiduPCS-Go,Go,1541
-17728164,hashicorp/terraform,Go,491
+17728164,hashicorp/terraform,Go,498
 401025,github/hub,Go,622
 13855476,jinzhu/gorm,Go,388
 43723161,helm/helm,Go,452
-134017286,jesseduffield/lazygit,Go,678
+134017286,jesseduffield/lazygit,Go,685
 46806184,helm/charts,Go,451
-120227732,fyne-io/fyne,Go,1268
+120227732,fyne-io/fyne,Go,1269
 11593442,golang/groupcache,Go,182
-212613049,cli/cli,Go,4737
+212613049,cli/cli,Go,4720
 136815833,Dreamacro/clash,Go,984
-54400687,loadimpact/k6,Go,204
+54400687,loadimpact/k6,Go,206
 57939112,kubernetes/community,Go,189
 192632000,dapr/dapr,Go,331
 167596393,derailed/k9s,Go,537
