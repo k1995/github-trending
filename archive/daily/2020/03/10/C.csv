@@ -1,18 +1,18 @@
 id,name,lang,new stars
 184981,memcached/memcached,C,41
-102578345,coolsnowwolf/lede,C,50
+102578345,coolsnowwolf/lede,C,54
 105627846,reactos/reactos,C,9
 27737393,qmk/qmk_firmware,C,11
-75811015,Tencent/xLua,C,5
+75811015,Tencent/xLua,C,7
 849692,ZipArchive/ZipArchive,C,4
-203957456,Tencent/TencentOS-tiny,C,5
+203957456,Tencent/TencentOS-tiny,C,6
 5870069,edenhill/librdkafka,C,3
 3791835,darktable-org/darktable,C,1
 64060314,Screetsec/TheFatRat,C,64
 53614190,eclipse/mosquitto,C,9
 150354367,Meituan-Dianping/Logan,C,10
 8046269,warmcat/libwebsockets,C,3
-130578889,pymumu/smartdns,C,16
+130578889,pymumu/smartdns,C,20
 27584181,espressif/ESP8266_RTOS_SDK,C,4
 45703884,olikraus/u8g2,C,4
 27275442,dtag-dev-sec/tpotce,C,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 87490037,commaai/panda,C,6
 224151065,Immediate-Mode-UI/Nuklear,C,7
 189044704,vanhauser-thc/AFLplusplus,C,4
-211547440,chineseocr/darknet-ocr,C,17
+211547440,chineseocr/darknet-ocr,C,19
 70934373,Azure/azure-iot-sdk-c,C,0
-213916896,blender/blender,C,7
+213916896,blender/blender,C,5
