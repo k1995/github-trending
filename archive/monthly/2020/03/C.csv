@@ -1,16 +1,16 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,1764
 10744183,netdata/netdata,C,720
-111583593,Genymobile/scrcpy,C,1292
+111583593,Genymobile/scrcpy,C,1291
 13233158,obsproject/obs-studio,C,504
-18666758,pjreddie/darknet,C,412
+18666758,pjreddie/darknet,C,415
 3516624,twitter/twemproxy,C,75
 3714900,arut/nginx-rtmp-module,C,159
 102578345,coolsnowwolf/lede,C,1279
 105627846,reactos/reactos,C,143
 147667687,pwn20wndstuff/Undecimus,C,272
 186749,nodejs/http-parser,C,64
-4151993,OpenVPN/openvpn,C,125
+4151993,OpenVPN/openvpn,C,126
 14735429,aquynh/capstone,C,97
 54280778,DaveGamble/cJSON,C,156
 16734696,meetecho/janus-gateway,C,100
@@ -18,7 +18,7 @@ id,name,lang,new stars
 24997096,openwrt/luci,C,95
 5499304,chyyuu/ucore_os_lab,C,98
 77739162,shadowsocks/simple-obfs,C,93
-179354282,acidanthera/OpenCorePkg,C,243
+179354282,acidanthera/OpenCorePkg,C,244
 164585247,starrtc/starrtc-server,C,172
 108568638,hanwckf/rt-n56u,C,161
 26537135,u-boot/u-boot,C,51

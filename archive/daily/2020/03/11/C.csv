@@ -1,13 +1,13 @@
 id,name,lang,new stars
-184981,memcached/memcached,C,22
-102578345,coolsnowwolf/lede,C,35
+184981,memcached/memcached,C,20
+102578345,coolsnowwolf/lede,C,34
 105627846,reactos/reactos,C,6
 27737393,qmk/qmk_firmware,C,5
 75811015,Tencent/xLua,C,7
 849692,ZipArchive/ZipArchive,C,0
 203957456,Tencent/TencentOS-tiny,C,7
 5870069,edenhill/librdkafka,C,6
-64060314,Screetsec/TheFatRat,C,114
+64060314,Screetsec/TheFatRat,C,122
 3791835,darktable-org/darktable,C,3
 53614190,eclipse/mosquitto,C,4
 150354367,Meituan-Dianping/Logan,C,10
@@ -16,7 +16,7 @@ id,name,lang,new stars
 27584181,espressif/ESP8266_RTOS_SDK,C,2
 45703884,olikraus/u8g2,C,2
 27275442,dtag-dev-sec/tpotce,C,3
-164585247,starrtc/starrtc-server,C,17
+164585247,starrtc/starrtc-server,C,16
 23368445,webmproject/libwebp,C,2
 87490037,commaai/panda,C,5
 224151065,Immediate-Mode-UI/Nuklear,C,4
