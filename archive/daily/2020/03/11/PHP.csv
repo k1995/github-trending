@@ -2,7 +2,7 @@ id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,14
 3482588,danielmiessler/SecLists,PHP,27
 1864363,composer/composer,PHP,18
-7548986,laravel/framework,PHP,14
+7548986,laravel/framework,PHP,10
 1420053,guzzle/guzzle,PHP,11
 1376664,Seldaek/monolog,PHP,11
 448045,sebastianbergmann/phpunit,PHP,8
@@ -19,8 +19,8 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,2
 2464908,joomla/joomla-cms,PHP,0
 170355508,livewire/livewire,PHP,31
-159606650,hyperf/hyperf,PHP,4
+159606650,hyperf/hyperf,PHP,5
 29501260,api-platform/core,PHP,3
-131995661,shopware/platform,PHP,4
+131995661,shopware/platform,PHP,5
 236119949,globalcitizen/2019-wuhan-coronavirus-data,PHP,5
 244264858,reboot13-git/cc-checker,PHP,5

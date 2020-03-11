@@ -6,7 +6,7 @@ id,name,lang,new stars
 673267,redis/hiredis,C,1
 6376337,pocoproject/poco,C,5
 39242894,coturn/coturn,C,4
-64060314,Screetsec/TheFatRat,C,98
+64060314,Screetsec/TheFatRat,C,114
 16734696,meetecho/janus-gateway,C,11
 5383731,qemu/qemu,C,7
 41107037,unicorn-engine/unicorn,C,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 39042157,spdk/spdk,C,3
 96348842,DPDK/dpdk,C,2
 189044704,vanhauser-thc/AFLplusplus,C,6
-211547440,chineseocr/darknet-ocr,C,13
-206121828,FreeRTOS/FreeRTOS,C,6
+211547440,chineseocr/darknet-ocr,C,15
 246085941,taviso/avscript,C,137
+206121828,FreeRTOS/FreeRTOS,C,6
 245945760,psprint/zinit,C,9
