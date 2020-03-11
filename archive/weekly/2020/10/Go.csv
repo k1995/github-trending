@@ -1,16 +1,16 @@
 id,name,lang,new stars
-23096959,golang/go,Go,299
-20580498,kubernetes/kubernetes,Go,247
-11180687,gohugoio/hugo,Go,227
+23096959,golang/go,Go,300
+20580498,kubernetes/kubernetes,Go,248
+11180687,gohugoio/hugo,Go,226
 20904437,gin-gonic/gin,Go,184
 6838921,prometheus/prometheus,Go,131
 13807606,junegunn/fzf,Go,185
 41986369,pingcap/tidb,Go,93
 74175805,istio/istio,Go,104
 112567264,iikira/BaiduPCS-Go,Go,457
-17728164,hashicorp/terraform,Go,156
+17728164,hashicorp/terraform,Go,155
 29261473,minio/minio,Go,114
-8989842,unknwon/the-way-to-go_ZH_CN,Go,91
+8989842,unknwon/the-way-to-go_ZH_CN,Go,94
 14125254,hashicorp/consul,Go,60
 13124802,influxdata/influxdb,Go,63
 13855476,jinzhu/gorm,Go,101
@@ -20,7 +20,7 @@ id,name,lang,new stars
 21405028,ardanlabs/gotraining,Go,46
 27051771,golang/protobuf,Go,45
 86164982,gonum/gonum,Go,50
-180687624,aquasecurity/trivy,Go,59
-137854081,GoAdminGroup/go-admin,Go,91
+180687624,aquasecurity/trivy,Go,58
+137854081,GoAdminGroup/go-admin,Go,97
 201658460,geektutu/7days-golang,Go,657
-237805954,Shpota/goxygen,Go,592
+237805954,Shpota/goxygen,Go,568
