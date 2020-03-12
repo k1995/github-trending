@@ -1,11 +1,11 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,199
-3482588,danielmiessler/SecLists,PHP,151
+3482588,danielmiessler/SecLists,PHP,146
 458058,symfony/symfony,PHP,48
 7548986,laravel/framework,PHP,82
 1420053,guzzle/guzzle,PHP,49
 1376664,Seldaek/monolog,PHP,53
-2889328,WordPress/WordPress,PHP,36
+2889328,WordPress/WordPress,PHP,33
 29843361,overtrue/wechat,PHP,29
 48796179,z-song/laravel-admin,PHP,48
 8305060,top-think/think,PHP,17
@@ -15,7 +15,7 @@ id,name,lang,new stars
 13612575,fruitcake/laravel-cors,PHP,37
 6763587,PrestaShop/PrestaShop,PHP,20
 74386167,vimeo/psalm,PHP,28
-76064827,mailcow/mailcow-dockerized,PHP,30
+76064827,mailcow/mailcow-dockerized,PHP,27
 41463886,codeigniter4/CodeIgniter4,PHP,26
 170355508,livewire/livewire,PHP,145
 31541210,aimeos/aimeos-laravel,PHP,22

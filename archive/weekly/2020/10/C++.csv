@@ -1,7 +1,7 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,323
 9384267,electron/electron,C++,203
-5108051,opencv/opencv,C++,241
+5108051,opencv/opencv,C++,247
 1181927,bitcoin/bitcoin,C++,141
 22067521,ocornut/imgui,C++,117
 184456251,microsoft/PowerToys,C++,462
@@ -17,10 +17,10 @@ id,name,lang,new stars
 95879426,Tencent/ncnn,C++,58
 648343,chenshuo/muduo,C++,35
 104732438,radareorg/cutter,C++,53
-160083795,SerenityOS/serenity,C++,152
+160083795,SerenityOS/serenity,C++,148
 46374199,IntelRealSense/librealsense,C++,30
 88327406,xmrig/xmrig,C++,16
 184657328,NVIDIA/TensorRT,C++,27
-218686763,tindy2013/subconverter,C++,160
+218686763,tindy2013/subconverter,C++,167
 196813750,Light-City/CPlusPlusThings,C++,205
 205269573,mitsuba-renderer/mitsuba2,C++,203

@@ -15,12 +15,12 @@ id,name,lang,new stars
 34777562,ossrs/srs,C++,14
 310611,apache/thrift,C++,4
 191820100,google/mediapipe,C++,46
-26255337,cameron314/concurrentqueue,C++,4
+26255337,cameron314/concurrentqueue,C++,3
 15122806,google/benchmark,C++,7
 208728772,milvus-io/milvus,C++,8
-243487250,ouyanghuiyu/chineseocr_lite,C++,407
+243487250,ouyanghuiyu/chineseocr_lite,C++,253
 5909706,yhirose/cpp-httplib,C++,22
-105281531,pytorch/glow,C++,16
+105281531,pytorch/glow,C++,15
 24747723,jarro2783/cxxopts,C++,5
 233927806,meik97/XSpotify,C++,10
 204009988,google/tcmalloc,C++,24
