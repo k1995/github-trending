@@ -9,7 +9,7 @@ id,name,lang,new stars
 2699935,squizlabs/PHP_CodeSniffer,PHP,6
 10238429,tennc/webshell,PHP,5
 6269013,aws/aws-sdk-php,PHP,2
-60491949,fecshop/yii2_fecshop,PHP,16
+60491949,fecshop/yii2_fecshop,PHP,19
 14346979,snipe/snipe-it,PHP,3
 33916850,spatie/laravel-medialibrary,PHP,4
 120156076,cloudreve/Cloudreve,Go,12
@@ -19,8 +19,8 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,7
 6495081,wikimedia/mediawiki,PHP,2
 12063996,osTicket/osTicket,PHP,4
-119047018,linuxserver/Heimdall,PHP,11
-134953788,mashirozx/Sakura,PHP,10
+119047018,linuxserver/Heimdall,PHP,14
+134953788,mashirozx/Sakura,PHP,9
 81873619,iluminar/goodwork,PHP,3
 236119949,globalcitizen/2019-wuhan-coronavirus-data,PHP,8
 240974978,audrasjb/wp-autoupdates,PHP,4
