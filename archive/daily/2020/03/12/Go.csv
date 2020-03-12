@@ -2,7 +2,7 @@ id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,45
 5271882,astaxie/build-web-application-with-golang,Go,17
 48378947,fatedier/frp,Go,65
-42408804,containous/traefik,Go,15
+42408804,containous/traefik,Go,13
 29261473,minio/minio,Go,31
 12574344,spf13/cobra,Go,22
 46806184,helm/charts,Go,19
@@ -13,14 +13,14 @@ id,name,lang,new stars
 28796010,rancher/os,Go,4
 167596393,derailed/k9s,Go,29
 169948217,crawlab-team/crawlab,Go,40
-93444615,terraform-providers/terraform-provider-aws,Go,8
+93444615,terraform-providers/terraform-provider-aws,Go,13
 32351944,google/gopacket,Go,3
-201658460,geektutu/7days-golang,Go,192
+201658460,geektutu/7days-golang,Go,186
 59289480,Ullaakut/cameradar,Go,5
-1380117,getlantern/lantern,Go,45
+1380117,getlantern/lantern,Go,44
 58184885,kubernetes/kube-state-metrics,Go,6
 82754872,liangdas/mqant,Go,5
 160482596,Gourouting/singo,Go,3
 62891299,IzakMarais/reporter,Go,3
-137360315,hwholiday/learning_tools,Go,7
+137360315,hwholiday/learning_tools,Go,6
 174098428,zu1k/tg-keyword-reply-bot,Go,3
