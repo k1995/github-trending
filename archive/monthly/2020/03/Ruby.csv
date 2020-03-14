@@ -1,12 +1,12 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,286
-27442967,fastlane/fastlane,Ruby,281
+27442967,fastlane/fastlane,Ruby,282
 8681349,huginn/huginn,Ruby,748
 53238813,Homebrew/brew,Ruby,349
 2293158,rapid7/metasploit-framework,Ruby,310
 2203645,CocoaPods/CocoaPods,Ruby,74
 1090311,elastic/logstash,Ruby,114
-4095287,rubocop-hq/rubocop,Ruby,82
+4095287,rubocop-hq/rubocop,Ruby,80
 3314,spree/spree,Ruby,88
 88740103,postalhq/postal,Ruby,66
 1725199,github/linguist,Ruby,93
@@ -18,9 +18,9 @@ id,name,lang,new stars
 5160706,bkeepers/dotenv,Ruby,46
 9746477,samaaron/sonic-pi,Ruby,164
 1734,aasm/aasm,Ruby,41
-43347873,danger/danger,Ruby,55
-46698467,ankane/strong_migrations,Ruby,125
+43347873,danger/danger,Ruby,53
+46698467,ankane/strong_migrations,Ruby,123
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,37
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,54
-189010173,Hackplayers/evil-winrm,Ruby,106
+189010173,Hackplayers/evil-winrm,Ruby,105
 70830890,bigbluebutton/greenlight,Ruby,19
