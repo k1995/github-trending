@@ -1,12 +1,12 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,27
-20904437,gin-gonic/gin,Go,26
-48378947,fatedier/frp,Go,66
+11180687,gohugoio/hugo,Go,34
+20904437,gin-gonic/gin,Go,27
+48378947,fatedier/frp,Go,77
 41912791,v2ray/v2ray-core,Go,55
 29207621,caddyserver/caddy,Go,19
 17803236,rclone/rclone,Go,13
-134017286,jesseduffield/lazygit,Go,50
-11393110,urfave/cli,Go,22
+134017286,jesseduffield/lazygit,Go,58
+11393110,urfave/cli,Go,31
 53632140,zyedidia/micro,Go,17
 135516270,rancher/k3s,Go,25
 105279544,gocolly/colly,Go,11
@@ -14,13 +14,13 @@ id,name,lang,new stars
 116739828,DNSCrypt/dnscrypt-proxy,Go,9
 61137153,evanw/esbuild,Go,21
 62712899,AdguardTeam/AdGuardHome,Go,13
-120156076,cloudreve/Cloudreve,Go,19
-134018330,panjf2000/ants,Go,32
+120156076,cloudreve/Cloudreve,Go,20
+134018330,panjf2000/ants,Go,36
 26661222,tinode/chat,Go,2
 95761244,gogf/gf,Go,6
 1380117,getlantern/lantern,Go,26
 86756976,dnote/dnote,Go,26
-180155078,micro-in-cn/tutorials,Go,14
+180155078,micro-in-cn/tutorials,Go,20
 100052573,operator-framework/operator-lifecycle-manager,Go,18
 194114110,Z-Bolt/OctoScreen,Go,4
 69797810,mxpv/podsync,Go,1

@@ -2,12 +2,12 @@ id,name,lang,new stars
 2325298,torvalds/linux,C,1855
 111583593,Genymobile/scrcpy,C,1345
 10446890,bilibili/ijkplayer,C,271
-1614410,FFmpeg/FFmpeg,C,423
+1614410,FFmpeg/FFmpeg,C,424
 13233158,obsproject/obs-studio,C,559
 18666758,pjreddie/darknet,C,421
 7634677,openssl/openssl,C,251
 3714900,arut/nginx-rtmp-module,C,166
-102578345,coolsnowwolf/lede,C,1332
+102578345,coolsnowwolf/lede,C,1336
 28515839,skywind3000/kcp,C,142
 105627846,reactos/reactos,C,168
 26181287,rswier/c4,C,734
@@ -16,7 +16,7 @@ id,name,lang,new stars
 186749,nodejs/http-parser,C,64
 35930805,EZLippi/Tinyhttpd,C,216
 13310527,jemalloc/jemalloc,C,79
-4151993,OpenVPN/openvpn,C,121
+4151993,OpenVPN/openvpn,C,114
 1979797,FreeRDP/FreeRDP,C,80
 5499304,chyyuu/ucore_os_lab,C,92
 179354282,acidanthera/OpenCorePkg,C,268
