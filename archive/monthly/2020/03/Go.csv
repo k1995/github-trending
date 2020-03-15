@@ -1,18 +1,16 @@
 id,name,lang,new stars
 23096959,golang/go,Go,1209
-7691631,moby/moby,Go,327
+7691631,moby/moby,Go,328
 20904437,gin-gonic/gin,Go,831
 48378947,fatedier/frp,Go,1099
 6838921,prometheus/prometheus,Go,537
 41912791,v2ray/v2ray-core,Go,1810
 112567264,iikira/BaiduPCS-Go,Go,1593
 17728164,hashicorp/terraform,Go,462
-72495579,go-gitea/gitea,Go,667
-43723161,helm/helm,Go,441
+72495579,go-gitea/gitea,Go,650
 134017286,jesseduffield/lazygit,Go,743
-13628513,sirupsen/logrus,Go,309
+13628513,sirupsen/logrus,Go,306
 46806184,helm/charts,Go,445
-8966356,hashicorp/packer,Go,104
 11593442,golang/groupcache,Go,203
 136815833,Dreamacro/clash,Go,1017
 54400687,loadimpact/k6,Go,217
@@ -21,6 +19,8 @@ id,name,lang,new stars
 27576132,aws/aws-sdk-go,Go,92
 167596393,derailed/k9s,Go,526
 32575637,ginuerzh/gost,Go,316
+61137153,evanw/esbuild,Go,3712
 163883279,nektos/act,Go,687
 234231371,gofiber/fiber,Go,1315
+61153677,m3db/m3,Go,372
 1380117,getlantern/lantern,Go,977
