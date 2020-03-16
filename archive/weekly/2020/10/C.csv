@@ -1,18 +1,18 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,503
 156018,antirez/redis,C,164
-111583593,Genymobile/scrcpy,C,340
+111583593,Genymobile/scrcpy,C,341
 1614410,FFmpeg/FFmpeg,C,126
-13233158,obsproject/obs-studio,C,163
-14812739,libuv/libuv,C,61
-32969220,esp8266/Arduino,C,38
+13233158,obsproject/obs-studio,C,155
+14812739,libuv/libuv,C,66
+32969220,esp8266/Arduino,C,39
 184981,memcached/memcached,C,109
 5254557,cloudwu/skynet,C,20
 102578345,coolsnowwolf/lede,C,352
-105627846,reactos/reactos,C,84
+105627846,reactos/reactos,C,85
 75811015,Tencent/xLua,C,43
 35930805,EZLippi/Tinyhttpd,C,68
-70127218,espressif/arduino-esp32,C,29
+70127218,espressif/arduino-esp32,C,31
 203957456,Tencent/TencentOS-tiny,C,30
 39242894,coturn/coturn,C,37
 64060314,Screetsec/TheFatRat,C,269
@@ -20,7 +20,7 @@ id,name,lang,new stars
 60667730,littlevgl/lvgl,C,75
 34807561,nanopb/nanopb,C,20
 179354282,acidanthera/OpenCorePkg,C,96
-211381291,ExistentialAudio/BlackHole,C,62
-164585247,starrtc/starrtc-server,C,102
+211381291,ExistentialAudio/BlackHole,C,65
+164585247,starrtc/starrtc-server,C,105
 29872502,adrienverge/openfortivpn,C,14
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,3
