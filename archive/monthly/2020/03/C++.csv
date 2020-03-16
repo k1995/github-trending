@@ -1,6 +1,6 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,1393
-5108051,opencv/opencv,C++,831
+5108051,opencv/opencv,C++,824
 23357588,protocolbuffers/protobuf,C++,555
 65600975,pytorch/pytorch,C++,949
 27729880,grpc/grpc,C++,359
@@ -9,18 +9,18 @@ id,name,lang,new stars
 184456251,microsoft/PowerToys,C++,950
 39840932,google/googletest,C++,256
 74627617,commaai/openpilot,C++,600
-120887835,huihut/interview,C++,466
-107794782,trojan-gfw/trojan,C++,2352
+120887835,huihut/interview,C++,465
+107794782,trojan-gfw/trojan,C++,2355
 29518121,ShiqiYu/libfacedetection,C++,923
-95879426,Tencent/ncnn,C++,204
-26038648,gabime/spdlog,C++,272
+95879426,Tencent/ncnn,C++,212
+26038648,gabime/spdlog,C++,273
 34777562,ossrs/srs,C++,281
-265995,VowpalWabbit/vowpal_wabbit,C++,87
-191820100,google/mediapipe,C++,1098
+265995,VowpalWabbit/vowpal_wabbit,C++,85
+191820100,google/mediapipe,C++,1058
 160083795,SerenityOS/serenity,C++,502
-31102092,google/or-tools,C++,253
+31102092,google/or-tools,C++,252
 104208128,PaddlePaddle/Paddle-Lite,C++,67
 100326126,plaidml/plaidml,C++,352
 130068982,cpp-taskflow/cpp-taskflow,C++,155
 218686763,tindy2013/subconverter,C++,492
-166187299,tencentyun/TRTCSDK,C++,46
+166187299,tencentyun/TRTCSDK,C++,45
