@@ -1,13 +1,13 @@
 id,name,lang,new stars
 23096959,golang/go,Go,69
-21540759,avelino/awesome-go,Go,40
-134017286,jesseduffield/lazygit,Go,73
+21540759,avelino/awesome-go,Go,34
+134017286,jesseduffield/lazygit,Go,81
 46806184,helm/charts,Go,22
-123572362,quii/learn-go-with-tests,Go,17
+123572362,quii/learn-go-with-tests,Go,21
 6247705,stretchr/testify,Go,11
-52034309,uber-go/zap,Go,11
-19922293,urfave/negroni,Go,11
-18893367,blevesearch/bleve,Go,4
+52034309,uber-go/zap,Go,16
+19922293,urfave/negroni,Go,10
+18893367,blevesearch/bleve,Go,3
 57939112,kubernetes/community,Go,8
 66841911,360EntSecGroup-Skylar/excelize,Go,6
 73902337,kubeless/kubeless,Go,3
@@ -16,10 +16,10 @@ id,name,lang,new stars
 36588302,jpillora/cloud-torrent,Go,7
 68964263,coreos/prometheus-operator,Go,5
 180687624,aquasecurity/trivy,Go,23
-26661222,tinode/chat,Go,19
+26661222,tinode/chat,Go,20
 16607984,DATA-DOG/go-sqlmock,Go,3
 93928882,swaggo/swag,Go,5
-71133469,reviewdog/reviewdog,Go,10
+71133469,reviewdog/reviewdog,Go,8
 237523442,tailscale/tailscale,Go,21
 34933072,minio/minio-go,Go,3
 247032621,wenjianzhang/go-admin,Go,29
