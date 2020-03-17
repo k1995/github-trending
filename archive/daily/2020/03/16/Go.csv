@@ -1,8 +1,8 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,32
+11180687,gohugoio/hugo,Go,35
 29207621,caddyserver/caddy,Go,28
 17803236,rclone/rclone,Go,21
-14125254,hashicorp/consul,Go,5
+14125254,hashicorp/consul,Go,6
 134017286,jesseduffield/lazygit,Go,75
 53632140,zyedidia/micro,Go,14
 123572362,quii/learn-go-with-tests,Go,17
@@ -13,14 +13,14 @@ id,name,lang,new stars
 62712899,AdguardTeam/AdGuardHome,Go,24
 120156076,cloudreve/Cloudreve,Go,22
 83114846,gwuhaolin/lightsocks,Go,11
-26661222,tinode/chat,Go,8
+26661222,tinode/chat,Go,20
 26639347,OJ/gobuster,Go,7
 165261261,monitoror/monitoror,Go,64
 167186080,aceld/zinx,Go,10
 71133469,reviewdog/reviewdog,Go,10
 86756976,dnote/dnote,Go,21
 206213815,pingcap/chaos-mesh,Go,6
-55980660,oragono/oragono,Go,7
+55980660,oragono/oragono,Go,9
 100052573,operator-framework/operator-lifecycle-manager,Go,28
 235064095,similarweb/statusbay,Go,27
 247032621,wenjianzhang/go-admin,Go,29
