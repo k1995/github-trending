@@ -1,11 +1,11 @@
 id,name,lang,new stars
 154747577,google-research/bert,Python,33
 57222302,openai/gym,Python,19
-118861276,gto76/python-cheatsheet,Python,258
+118861276,gto76/python-cheatsheet,Python,570
 38696925,python-telegram-bot/python-telegram-bot,Python,16
 68125931,ShangtongZhang/reinforcement-learning-an-introduction,Python,15
-154739597,google/jax,Python,46
-129874045,vipstone/faceai,Python,23
+154739597,google/jax,Python,39
+129874045,vipstone/faceai,Python,20
 22844864,matrix-org/synapse,Python,17
 22489033,lazyprogrammer/machine_learning_examples,Python,8
 14531737,bitcoin/bips,Python,3
@@ -14,13 +14,13 @@ id,name,lang,new stars
 106080065,shenweichen/DeepCTR,Python,16
 217433767,facebookresearch/pytorch3d,Python,10
 64534859,cirosantilli/linux-kernel-module-cheat,Python,14
-45383423,gwen001/pentest-tools,Python,241
+45383423,gwen001/pentest-tools,Python,208
 183790380,NVIDIA-AI-IOT/torch2trt,Python,9
-169220775,cosmicpython/book,Python,16
-237129709,FoldingAtHome/coronavirus,Python,112
-238601449,ExpDev07/coronavirus-tracker-api,Python,133
-240630288,CTF-MissFeng/bayonet,Python,62
-245495600,aydinnyunus/Keylogger,Python,104
+169220775,cosmicpython/book,Python,19
+237129709,FoldingAtHome/coronavirus,Python,155
+238601449,ExpDev07/coronavirus-tracker-api,Python,95
+240630288,CTF-MissFeng/bayonet,Python,75
+245495600,aydinnyunus/Keylogger,Python,105
 217475193,PaddlePaddle/PaddleDetection,Python,7
-162810060,giddyyupp/ganilla,Python,24
+162810060,giddyyupp/ganilla,Python,30
 246915801,ioncodes/SMBGhost,Python,10
