@@ -1,6 +1,6 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,10
-7569578,discourse/discourse,Ruby,12
+7569578,discourse/discourse,Ruby,14
 27442967,fastlane/fastlane,Ruby,6
 308770,heartcombo/devise,Ruby,6
 1090311,elastic/logstash,Ruby,4
@@ -11,16 +11,16 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,3
 2889230,rails-api/active_model_serializers,Ruby,1
 119760423,Netflix/fast_jsonapi,Ruby,4
-355893,github/markup,Ruby,2
-75785147,rails/webpacker,Ruby,4
+355893,github/markup,Ruby,0
+75785147,rails/webpacker,Ruby,5
 16994115,CanCanCommunity/cancancan,Ruby,4
 1548802,activerecord-hackery/ransack,Ruby,2
-447184,rspec/rspec-rails,Ruby,0
+447184,rspec/rspec-rails,Ruby,1
 2861056,rails/jbuilder,Ruby,0
-417862,octokit/octokit.rb,Ruby,0
+417862,octokit/octokit.rb,Ruby,1
 904810,rubysherpas/paranoia,Ruby,1
-614070,rubygems/rubygems,Ruby,3
-9500075,ytti/oxidized,Ruby,3
+614070,rubygems/rubygems,Ruby,0
+9500075,ytti/oxidized,Ruby,2
 61203,Shopify/shopify_app,Ruby,0
 70830890,bigbluebutton/greenlight,Ruby,4
 241378590,learn-co-students/nyc-web-021720,Ruby,1
