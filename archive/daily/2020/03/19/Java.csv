@@ -1,10 +1,10 @@
 id,name,lang,new stars
 1148753,spring-projects/spring-framework,Java,30
-9754983,eugenp/tutorials,Java,13
+9754983,eugenp/tutorials,Java,14
 5373551,libgdx/libgdx,Java,5
-148736243,qiurunze123/miaosha,Java,66
-45721011,apache/skywalking,Java,15
-128018428,alibaba/Sentinel,Java,71
+148736243,qiurunze123/miaosha,Java,63
+45721011,apache/skywalking,Java,14
+128018428,alibaba/Sentinel,Java,73
 159152904,zhangdaiscott/jeecg-boot,Java,36
 6358188,apache/druid,Java,8
 112717963,android-hacker/VirtualXposed,Java,10
@@ -14,8 +14,8 @@ id,name,lang,new stars
 3148979,spring-projects/spring-security,Java,8
 85371262,williamfiset/Algorithms,Java,27
 33816473,testcontainers/testcontainers-java,Java,23
-574877,aws/aws-sdk-java,Java,3
 684382,bigbluebutton/bigbluebutton,Java,143
+574877,aws/aws-sdk-java,Java,3
 209921402,newbee-ltd/newbee-mall,Java,244
 618492,brianfrankcooper/YCSB,Java,4
 4950187,jacoco/jacoco,Java,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 9657943,jitsi/jitsi-videobridge,Java,13
 183041039,codedrinker/community,Java,9
 70491053,OpenVidu/openvidu,Java,67
-233156210,yuanguangxin/LeetCode,Java,31
+233156210,yuanguangxin/LeetCode,Java,32

@@ -11,11 +11,11 @@ id,name,lang,new stars
 118654121,GoogleContainerTools/skaffold,Go,4
 22442668,openshift/origin,Go,2
 148545807,kubernetes-sigs/kind,Go,30
-100982449,argoproj/argo,Go,13
+100982449,argoproj/argo,Go,12
 12332444,onsi/ginkgo,Go,0
 99143276,vmware-tanzu/velero,Go,2
 27483832,gogo/protobuf,Go,12
-180687624,aquasecurity/trivy,Go,20
+180687624,aquasecurity/trivy,Go,19
 26661222,tinode/chat,Go,14
 52193726,volatiletech/sqlboiler,Go,6
 120896210,argoproj/argo-cd,Go,8
