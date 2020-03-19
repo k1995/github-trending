@@ -4,7 +4,7 @@ id,name,lang,new stars
 5108051,opencv/opencv,C++,851
 23357588,protocolbuffers/protobuf,C++,571
 65600975,pytorch/pytorch,C++,957
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,364
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,370
 184456251,microsoft/PowerToys,C++,974
 39840932,google/googletest,C++,267
 74627617,commaai/openpilot,C++,584
@@ -16,7 +16,7 @@ id,name,lang,new stars
 265995,VowpalWabbit/vowpal_wabbit,C++,85
 98771110,zhongyang219/TrafficMonitor,C++,403
 191820100,google/mediapipe,C++,999
-160083795,SerenityOS/serenity,C++,528
+160083795,SerenityOS/serenity,C++,549
 31102092,google/or-tools,C++,367
 100326126,plaidml/plaidml,C++,348
 130068982,cpp-taskflow/cpp-taskflow,C++,160
