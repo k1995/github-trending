@@ -1,14 +1,18 @@
 id,name,lang,new stars
-13428264,ShareX/ShareX,C#,105
+13428264,ShareX/ShareX,C#,107
 54086969,thangchung/awesome-dotnet-core,C#,77
+64713769,NickeManarin/ScreenToGif,C#,110
 791611,mono/mono,C#,25
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,61
-199570071,2dust/v2rayN,C#,378
+738250,NancyFx/Nancy,C#,21
 126486701,Unity-Technologies/UnityCsReference,C#,34
-46652227,IdentityServer/IdentityServer4,C#,47
+46652227,IdentityServer/IdentityServer4,C#,48
 161012019,jellyfin/jellyfin,C#,75
+18586705,nopSolutions/nopCommerce,C#,28
 17748183,StackExchange/StackExchange.Redis,C#,22
+106386177,Jimmey-Jiang/Common.Utility,C#,36
 193681686,NetchX/Netch,C#,128
+27251463,QuantConnect/Lean,C#,23
 75505125,abpframework/abp,C#,64
 743436,egametang/ET,C#,35
 130160795,HMBSbige/ShadowsocksR-Windows,C#,101
@@ -16,11 +20,7 @@ id,name,lang,new stars
 142480903,microsoft/microsoft-ui-xaml,C#,140
 135050219,TGSAN/CMWTAT_Digital_Edition,C#,121
 145101484,anjoy8/Blog.Core,C#,32
-2928944,Azure/azure-sdk-for-net,C#,7
 182095352,nilaoda/N_m3u8DL-CLI,C#,89
 165548191,carlospolop/privilege-escalation-awesome-scripts-suite,C#,81
 184286875,actions/runner,C#,25
-63984307,dotnet/sdk,C#,26
-189675276,enkodellc/blazorboilerplate,C#,21
 116398953,microsoft/powerapps-tools,C#,20
-211633730,T-Kuhn/HighPrecisionStepperJuggler,C#,52
