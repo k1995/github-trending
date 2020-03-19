@@ -3,16 +3,16 @@ id,name,lang,new stars
 100060912,microsoft/terminal,C++,110
 44838949,apple/swift,C++,34
 1181927,bitcoin/bitcoin,C++,19
-15634981,godotengine/godot,C++,25
+15634981,godotengine/godot,C++,27
 27729880,grpc/grpc,C++,20
 19374812,telegramdesktop/tdesktop,C++,18
 67702184,topjohnwu/Magisk,C++,35
 102343794,apache/incubator-brpc,C++,9
-81227005,facebookresearch/faiss,C++,13
-23129458,aseprite/aseprite,C++,13
+81227005,facebookresearch/faiss,C++,14
+23129458,aseprite/aseprite,C++,14
 19866730,citra-emu/citra,C++,8
 204593825,microsoft/STL,C++,17
-144664950,HackerPoet/NonEuclidean,C++,16
+144664950,HackerPoet/NonEuclidean,C++,10
 42119846,letscontrolit/ESPEasy,C++,4
 24677392,CGAL/cgal,C++,8
 6203497,gdbinit/MachOView,C++,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 169604606,MayaPosch/NymphCast,C++,123
 247681366,jcl5m1/ventilator,C++,165
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,2
-246634306,NVIDIA/TRTorch,C++,19
+246634306,NVIDIA/TRTorch,C++,22
 232267793,dji-sdk/RoboMaster-SDK,C++,4
