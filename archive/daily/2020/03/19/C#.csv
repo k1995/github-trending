@@ -1,5 +1,5 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,31
+17620347,dotnet/aspnetcore,C#,26
 16157746,dotnet/efcore,C#,2
 12201538,aspnetboilerplate/aspnetboilerplate,C#,3
 28239455,dotnet/AspNetCore.Docs,C#,7
@@ -9,7 +9,7 @@ id,name,lang,new stars
 17748183,StackExchange/StackExchange.Redis,C#,6
 743436,egametang/ET,C#,5
 68730444,microsoft/BotBuilder-Samples,C#,3
-142480903,microsoft/microsoft-ui-xaml,C#,24
+142480903,microsoft/microsoft-ui-xaml,C#,29
 23550423,Jays2Kings/DS4Windows,C#,0
 45907227,topameng/tolua,C#,1
 210716005,dotnet/runtime,C#,22
@@ -18,7 +18,7 @@ id,name,lang,new stars
 85242321,chkr1011/MQTTnet,C#,7
 36946704,dotnet/roslyn-analyzers,C#,1
 184286875,actions/runner,C#,3
-63984307,dotnet/sdk,C#,7
+63984307,dotnet/sdk,C#,6
 187499284,Cysharp/UniTask,C#,3
 189675276,enkodellc/blazorboilerplate,C#,2
 156260788,Azure/azure-cosmos-dotnet-v3,C#,0
