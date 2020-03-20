@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,20
+1863329,laravel/laravel,PHP,21
 458058,symfony/symfony,PHP,7
 2253830,PHPMailer/PHPMailer,PHP,7
 11323319,erusev/parsedown,PHP,3
@@ -7,15 +7,15 @@ id,name,lang,new stars
 60243197,nextcloud/server,PHP,18
 49014795,phpstan/phpstan,PHP,2
 42480275,spatie/laravel-permission,PHP,9
-7122594,directus/directus,PHP,165
+7122594,directus/directus,PHP,154
 4242230,PHPOffice/PHPWord,PHP,3
 10371103,caouecs/Laravel-lang,PHP,8
 30171828,rappasoft/laravel-boilerplate,PHP,2
-97311017,rectorphp/rector,PHP,17
+97311017,rectorphp/rector,PHP,16
 11935508,RSS-Bridge/rss-bridge,PHP,4
 127536154,Qsnh/meedu,PHP,7
 86987524,WWBN/AVideo,PHP,1
-33179341,JetBrains/phpstorm-stubs,PHP,5
+33179341,JetBrains/phpstorm-stubs,PHP,4
 74026995,CodelyTV/php-ddd-example,PHP,4
 59641680,shuchkin/simplexlsx,PHP,5
 173534948,iqiqiya/iqiqiya-API,PHP,7
