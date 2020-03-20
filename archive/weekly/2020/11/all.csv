@@ -1,26 +1,26 @@
 id,name,lang,new stars
-151834062,doocs/advanced-java,Java,552
-164608222,alibaba/flutter-go,Dart,134
-148736243,qiurunze123/miaosha,Java,382
-7587038,alibaba/canal,Java,120
-238316428,CSSEGISandData/COVID-19,,5448
-112785414,alibaba/spring-cloud-alibaba,Java,166
-128018428,alibaba/Sentinel,Java,213
-121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,177
-15225670,jitsi/jitsi-meet,JavaScript,657
-191820100,google/mediapipe,C++,500
+71995937,nuxt/nuxt.js,JavaScript,169
+13233158,obsproject/obs-studio,C,244
+226726247,wenyan-lang/wenyan,TypeScript,250
+148736243,qiurunze123/miaosha,Java,389
+238316428,CSSEGISandData/COVID-19,,5432
+128018428,alibaba/Sentinel,Java,230
+60829840,aalansehaiyang/technology-talk,,354
+209799228,denisidoro/navi,Rust,557
+15225670,jitsi/jitsi-meet,JavaScript,702
+191820100,google/mediapipe,C++,366
 22844864,matrix-org/synapse,Python,105
-85371262,williamfiset/Algorithms,Java,174
-243487250,ouyanghuiyu/chineseocr_lite,C++,823
-209921402,newbee-ltd/newbee-mall,Java,721
-179385712,bottlerocket-os/bottlerocket,Rust,600
-245630760,pcm-dpc/COVID-19,,759
-244708193,maxvoltar/photo-stream,HTML,468
-211288349,android/compose-samples,Kotlin,73
-198484358,NobyDa/Script,JavaScript,136
-234936988,nextstrain/ncov,Python,209
-238772762,tensorflow/quantum,Python,109
-245716081,MhdHejazi/CoronaTracker,Swift,293
-244813690,phildini/stayinghomeclub,Ruby,200
-237107693,AaronWard/covid-19-analysis,Jupyter Notebook,97
-236049683,beoutbreakprepared/nCoV2019,R,62
+85371262,williamfiset/Algorithms,Java,175
+684382,bigbluebutton/bigbluebutton,Java,372
+243487250,ouyanghuiyu/chineseocr_lite,C++,828
+209921402,newbee-ltd/newbee-mall,Java,753
+245630760,pcm-dpc/COVID-19,,738
+244708193,maxvoltar/photo-stream,HTML,368
+198484358,NobyDa/Script,JavaScript,144
+234936988,nextstrain/ncov,Python,206
+221831081,pop-os/shell,TypeScript,280
+245716081,MhdHejazi/CoronaTracker,Swift,272
+244813690,phildini/stayinghomeclub,Ruby,183
+246606759,ollypwn/SMBGhost,Python,121
+237107693,AaronWard/covid-19-analysis,Jupyter Notebook,90
+236049683,beoutbreakprepared/nCoV2019,R,66
