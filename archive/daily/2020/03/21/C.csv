@@ -4,12 +4,12 @@ id,name,lang,new stars
 18666758,pjreddie/darknet,C,14
 569041,curl/curl,C,14
 5101141,stedolan/jq,C,13
-62156403,QSCTech/zju-icicles,C,137
+62156403,QSCTech/zju-icicles,C,98
 908607,numpy/numpy,C,12
 3714900,arut/nginx-rtmp-module,C,8
-102578345,coolsnowwolf/lede,C,51
-90320494,tbodt/ish,C,104
-65899476,espressif/esp-idf,C,5
+102578345,coolsnowwolf/lede,C,37
+90320494,tbodt/ish,C,164
+65899476,espressif/esp-idf,C,6
 849692,ZipArchive/ZipArchive,C,2
 54280778,DaveGamble/cJSON,C,12
 39242894,coturn/coturn,C,12
@@ -19,7 +19,7 @@ id,name,lang,new stars
 27275442,dtag-dev-sec/tpotce,C,3
 211381291,ExistentialAudio/BlackHole,C,4
 205810121,CloverHackyColor/CloverBootloader,C,6
-224151065,Immediate-Mode-UI/Nuklear,C,4
+224151065,Immediate-Mode-UI/Nuklear,C,3
 237728012,TheWanderingCoel/Trojan-Qt5,C,28
 9087423,cisco/libsrtp,C,3
 189044704,AFLplusplus/AFLplusplus,C,7

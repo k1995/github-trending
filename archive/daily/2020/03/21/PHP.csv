@@ -1,15 +1,15 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,6
-458058,symfony/symfony,PHP,7
+458058,symfony/symfony,PHP,8
 1864363,composer/composer,PHP,15
-1376664,Seldaek/monolog,PHP,10
+1376664,Seldaek/monolog,PHP,9
 2253830,PHPMailer/PHPMailer,PHP,8
 3431193,yiisoft/yii2,PHP,5
 2884111,magento/magento2,PHP,3
 14259390,Maatwebsite/Laravel-Excel,PHP,5
 42480275,spatie/laravel-permission,PHP,7
+7122594,directus/directus,PHP,188
 364315,nrk/predis,PHP,4
-7122594,directus/directus,PHP,83
 2179920,woocommerce/woocommerce,PHP,3
 42261096,fuzzdb-project/fuzzdb,PHP,10
 9826184,elastic/elasticsearch-php,PHP,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 3811518,cocur/slugify,PHP,2
 139191005,nunomaduro/larastan,PHP,4
 69691727,pmmp/PocketMine-MP,PHP,5
-18628501,lexik/LexikJWTAuthenticationBundle,PHP,3
+18628501,lexik/LexikJWTAuthenticationBundle,PHP,2
 166299071,stancl/tenancy,PHP,2
 45100203,Toxantron/scrumonline,PHP,5

@@ -1,14 +1,14 @@
 id,name,lang,new stars
-15634981,godotengine/godot,C++,26
-39840932,google/googletest,C++,11
+15634981,godotengine/godot,C++,25
+39840932,google/googletest,C++,12
 125098880,ValveSoftware/Proton,C++,13
-120887835,huihut/interview,C++,41
-116167731,yuzu-emu/yuzu,C++,9
-81227005,facebookresearch/faiss,C++,13
-17391973,Tencent/rapidjson,C++,18
+120887835,huihut/interview,C++,62
+116167731,yuzu-emu/yuzu,C++,10
+81227005,facebookresearch/faiss,C++,14
+17391973,Tencent/rapidjson,C++,27
 26038648,gabime/spdlog,C++,11
 2200856,MarlinFirmware/Marlin,C++,7
-38581626,pybind/pybind11,C++,9
+38581626,pybind/pybind11,C++,11
 66088979,changkun/modern-cpp-tutorial,C++,12
 106558568,doitsujin/dxvk,C++,8
 21530861,open-source-parsers/jsoncpp,C++,6
@@ -17,10 +17,10 @@ id,name,lang,new stars
 22660515,onqtam/doctest,C++,4
 58168143,PixarAnimationStudios/USD,C++,2
 1368195,chriskohlhoff/asio,C++,3
-169604606,MayaPosch/NymphCast,C++,120
-86897963,xiongziliang/ZLMediaKit,C++,4
+169604606,MayaPosch/NymphCast,C++,114
+86897963,xiongziliang/ZLMediaKit,C++,5
 87443396,Haivision/srt,C++,4
-247681366,jcl5m1/ventilator,C++,162
+247681366,jcl5m1/ventilator,C++,176
 21552095,BitMEX/api-connectors,C++,3
 127023441,NVIDIA/cuda-samples,C++,3
 248180072,covid-response-projects/covid-respirator,C++,14

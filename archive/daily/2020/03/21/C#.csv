@@ -1,10 +1,10 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,21
-16157746,dotnet/efcore,C#,7
+17620347,dotnet/aspnetcore,C#,18
+16157746,dotnet/efcore,C#,8
 143460965,GoogleCloudPlatform/microservices-demo,C#,29
 75990888,dotnet/csharplang,C#,3
 153711945,dotnet/wpf,C#,6
-77323220,Radarr/Radarr,C#,14
+77323220,Radarr/Radarr,C#,18
 500093,kohsuke/winsw,C#,9
 5844474,EventStore/EventStore,C#,6
 8198511,serilog/serilog,C#,7
@@ -17,10 +17,10 @@ id,name,lang,new stars
 46233451,dockersamples/example-voting-app,C#,6
 159548561,grpc/grpc-dotnet,C#,4
 2928944,Azure/azure-sdk-for-net,C#,0
-121049045,skoruba/IdentityServer4.Admin,C#,6
+121049045,skoruba/IdentityServer4.Admin,C#,8
 120231691,Ryujinx/Ryujinx,C#,7
 169597853,cobbr/Covenant,C#,4
 117102183,ChilliCream/hotchocolate,C#,15
 112103032,loic-sharma/BaGet,C#,8
 243854166,dotnet/tye,C#,123
-219003491,Unity-Technologies/DOTSSample,C#,7
+219003491,Unity-Technologies/DOTSSample,C#,8
