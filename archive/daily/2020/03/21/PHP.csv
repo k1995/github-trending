@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,21
+1863329,laravel/laravel,PHP,22
 458058,symfony/symfony,PHP,8
 2253830,PHPMailer/PHPMailer,PHP,8
 11323319,erusev/parsedown,PHP,1
 26730195,CachetHQ/Cachet,PHP,6
-60243197,nextcloud/server,PHP,12
+60243197,nextcloud/server,PHP,13
 49014795,phpstan/phpstan,PHP,5
 42480275,spatie/laravel-permission,PHP,7
-7122594,directus/directus,PHP,135
+7122594,directus/directus,PHP,188
 4242230,PHPOffice/PHPWord,PHP,2
-10371103,caouecs/Laravel-lang,PHP,7
+10371103,caouecs/Laravel-lang,PHP,6
 30171828,rappasoft/laravel-boilerplate,PHP,1
-97311017,rectorphp/rector,PHP,4
-11935508,RSS-Bridge/rss-bridge,PHP,3
+97311017,rectorphp/rector,PHP,6
+11935508,RSS-Bridge/rss-bridge,PHP,2
 127536154,Qsnh/meedu,PHP,8
 86987524,WWBN/AVideo,PHP,2
 33179341,JetBrains/phpstorm-stubs,PHP,1
@@ -21,5 +21,5 @@ id,name,lang,new stars
 173534948,iqiqiya/iqiqiya-API,PHP,9
 216849756,v2board/v2board,PHP,3
 45100203,Toxantron/scrumonline,PHP,5
-248015159,jas502n/OA-tongda-RCE,PHP,9
+248015159,jas502n/OA-tongda-RCE,PHP,8
 3326682,cosmoquest/Google-Hangouts-on-MySite-wTwitter,PHP,0

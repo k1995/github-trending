@@ -1,7 +1,7 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1286
+23096959,golang/go,Go,1284
 20580498,kubernetes/kubernetes,Go,980
-20904437,gin-gonic/gin,Go,824
+20904437,gin-gonic/gin,Go,823
 48378947,fatedier/frp,Go,1081
 6838921,prometheus/prometheus,Go,550
 41912791,v2ray/v2ray-core,Go,1670
@@ -14,7 +14,7 @@ id,name,lang,new stars
 4022652,gomodule/redigo,Go,110
 136815833,Dreamacro/clash,Go,973
 125642885,developer-learning/night-reading-go,Go,310
-54400687,loadimpact/k6,Go,232
+54400687,loadimpact/k6,Go,233
 57939112,kubernetes/community,Go,194
 162920291,inlets/inlets,Go,426
 167596393,derailed/k9s,Go,525
@@ -23,4 +23,4 @@ id,name,lang,new stars
 120156076,cloudreve/Cloudreve,Go,319
 201658460,geektutu/7days-golang,Go,2257
 137854081,GoAdminGroup/go-admin,Go,315
-1380117,getlantern/lantern,Go,842
+1380117,getlantern/lantern,Go,838
