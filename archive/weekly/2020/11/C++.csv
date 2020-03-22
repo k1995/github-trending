@@ -1,18 +1,18 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,330
-100060912,microsoft/terminal,C++,452
-23357588,protocolbuffers/protobuf,C++,137
-39840932,google/googletest,C++,68
-19374812,telegramdesktop/tdesktop,C++,68
+45717250,tensorflow/tensorflow,C++,336
+100060912,microsoft/terminal,C++,455
+23357588,protocolbuffers/protobuf,C++,139
+39840932,google/googletest,C++,67
+19374812,telegramdesktop/tdesktop,C++,66
 31522041,vnpy/vnpy,C++,80
 65711522,PaddlePaddle/Paddle,C++,50
-125098880,ValveSoftware/Proton,C++,82
-67702184,topjohnwu/Magisk,C++,122
+125098880,ValveSoftware/Proton,C++,83
+67702184,topjohnwu/Magisk,C++,116
 60246359,ClickHouse/ClickHouse,C++,72
-120887835,huihut/interview,C++,199
-116167731,yuzu-emu/yuzu,C++,66
+120887835,huihut/interview,C++,219
+116167731,yuzu-emu/yuzu,C++,71
 20570214,google/tink,C++,74
-17391973,Tencent/rapidjson,C++,67
+17391973,Tencent/rapidjson,C++,66
 34777562,ossrs/srs,C++,91
 6520784,RPCS3/rpcs3,C++,33
 2200856,MarlinFirmware/Marlin,C++,61
@@ -22,5 +22,5 @@ id,name,lang,new stars
 243487250,ouyanghuiyu/chineseocr_lite,C++,796
 143324737,diasurgical/devilutionX,C++,43
 184657328,NVIDIA/TensorRT,C++,34
-156939672,microsoft/onnxruntime,C++,35
-169604606,MayaPosch/NymphCast,C++,398
+156939672,microsoft/onnxruntime,C++,36
+169604606,MayaPosch/NymphCast,C++,399
