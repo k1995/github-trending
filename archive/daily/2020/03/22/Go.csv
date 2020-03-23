@@ -4,8 +4,8 @@ id,name,lang,new stars
 11180687,gohugoio/hugo,Go,68
 42408804,containous/traefik,Go,33
 74175805,istio/istio,Go,13
-53632140,zyedidia/micro,Go,23
-41349039,dgraph-io/dgraph,Go,9
+53632140,zyedidia/micro,Go,11
+41349039,dgraph-io/dgraph,Go,13
 11008207,vitessio/vitess,Go,3
 120227732,fyne-io/fyne,Go,21
 54378638,github/gh-ost,Go,6
@@ -14,8 +14,8 @@ id,name,lang,new stars
 125642885,developer-learning/night-reading-go,Go,31
 19360616,docker/swarm,Go,3
 55850689,open-falcon/falcon-plus,Go,18
-222172014,slackhq/nebula,Go,23
-40916314,dexidp/dex,Go,8
+222172014,slackhq/nebula,Go,8
+40916314,dexidp/dex,Go,13
 167304464,cortexlabs/cortex,Go,21
 11452538,prometheus/alertmanager,Go,7
 201954234,xiaoming2028/FreePAC,Go,17

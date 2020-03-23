@@ -3,10 +3,10 @@ id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,17
 448045,sebastianbergmann/phpunit,PHP,5
 14732311,octobercms/october,PHP,4
-18673522,dingo/api,PHP,5
+18673522,dingo/api,PHP,3
 61490598,PHPOffice/PhpSpreadsheet,PHP,8
 65017574,botman/botman,PHP,5
-627735,vrana/adminer,PHP,3
+627735,vrana/adminer,PHP,5
 109706738,swooletw/laravel-swoole,PHP,3
 439861,moodle/moodle,PHP,10
 62087941,nWidart/laravel-modules,PHP,3
@@ -22,4 +22,4 @@ id,name,lang,new stars
 120242779,3masterplus/book,PHP,4
 238102503,xytoki/TCShare,PHP,8
 156607803,hestiacp/hestiacp,PHP,3
-244386505,grosv/eloquent-sheets,PHP,59
+244386505,grosv/eloquent-sheets,PHP,31
