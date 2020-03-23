@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,19
-3482588,danielmiessler/SecLists,PHP,25
+3482588,danielmiessler/SecLists,PHP,16
 22553797,getgrav/grav,PHP,11
 8678290,barryvdh/laravel-ide-helper,PHP,6
 48796179,z-song/laravel-admin,PHP,11
@@ -12,15 +12,15 @@ id,name,lang,new stars
 677467,doctrine/common,PHP,4
 136353180,doctrine/event-manager,PHP,5
 61802818,spatie/laravel-activitylog,PHP,4
-109706738,swooletw/laravel-swoole,PHP,6
+109706738,swooletw/laravel-swoole,PHP,4
 41463886,codeigniter4/CodeIgniter4,PHP,6
 63073734,laravel/passport,PHP,3
-148129143,bagisto/bagisto,PHP,5
+148129143,bagisto/bagisto,PHP,4
 31425145,billz/raspap-webgui,PHP,3
 47508644,pterodactyl/panel,PHP,3
 119047018,linuxserver/Heimdall,PHP,2
 232599652,laravel/sanctum,PHP,6
-116834317,cretueusebiu/laravel-nuxt,PHP,4
+116834317,cretueusebiu/laravel-nuxt,PHP,5
 204518880,owen0o0/WebStack,PHP,4
-244386505,grosv/eloquent-sheets,PHP,59
+244386505,grosv/eloquent-sheets,PHP,38
 184538454,yankovalenko94/Webdev2019,PHP,0
