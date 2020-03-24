@@ -1,13 +1,13 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,38
+11180687,gohugoio/hugo,Go,34
 41912791,v2ray/v2ray-core,Go,60
 15452919,ethereum/go-ethereum,Go,7
-72495579,go-gitea/gitea,Go,22
+72495579,go-gitea/gitea,Go,23
 77144337,openfaas/faas,Go,8
 41349039,dgraph-io/dgraph,Go,12
 136815833,Dreamacro/clash,Go,43
 125642885,developer-learning/night-reading-go,Go,53
-36653430,hashicorp/nomad,Go,4
+36653430,hashicorp/nomad,Go,7
 55850689,open-falcon/falcon-plus,Go,18
 32575637,ginuerzh/gost,Go,10
 67382094,Jguer/yay,Go,4
@@ -17,8 +17,8 @@ id,name,lang,new stars
 10721619,hajimehoshi/ebiten,Go,6
 44820350,42wim/matterbridge,Go,7
 66505292,GoesToEleven/golang-web-dev,Go,4
-38029983,go-telegram-bot-api/telegram-bot-api,Go,3
 43332504,GoogleCloudPlatform/golang-samples,Go,9
+38029983,go-telegram-bot-api/telegram-bot-api,Go,3
 237523442,tailscale/tailscale,Go,37
 244694886,didi/nightingale,Go,273
 205679232,piexlmax/gin-vue-admin,Go,14
