@@ -1,17 +1,17 @@
 id,name,lang,new stars
 7600409,shadowsocks/shadowsocks-windows,C#,38
-38380854,0xd4d/dnSpy,C#,10
+38380854,0xd4d/dnSpy,C#,13
 161012019,jellyfin/jellyfin,C#,21
 85953,gitextensions/gitextensions,C#,4
 8835057,xupefei/Locale-Emulator,C#,8
-45195614,Jackett/Jackett,C#,8
+45195614,Jackett/Jackett,C#,9
 76425236,EduardoPires/EquinoxProject,C#,10
-193681686,NetchX/Netch,C#,18
+193681686,NetchX/Netch,C#,14
 153427475,Unity-Technologies/FPSSample,C#,2
 41822320,RicoSuter/NSwag,C#,5
-75505125,abpframework/abp,C#,9
-125612271,Unity-Technologies/EntityComponentSystemSamples,C#,2
-27251463,QuantConnect/Lean,C#,3
+75505125,abpframework/abp,C#,8
+125612271,Unity-Technologies/EntityComponentSystemSamples,C#,3
+27251463,QuantConnect/Lean,C#,5
 23550423,Jays2Kings/DS4Windows,C#,4
 120231691,Ryujinx/Ryujinx,C#,19
 189676777,JasonStein/Notepads,C#,9
@@ -23,4 +23,4 @@ id,name,lang,new stars
 219003491,Unity-Technologies/DOTSSample,C#,2
 177751718,openbullet/openbullet,C#,1
 240715622,onSec-fr/Http-Asynchronous-Reverse-Shell,C#,6
-248634158,Cuyler36/MyHorizons,C#,8
+248634158,Cuyler36/MyHorizons,C#,5
