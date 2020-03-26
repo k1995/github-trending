@@ -1,10 +1,10 @@
 id,name,lang,new stars
-843222,scikit-learn/scikit-learn,Python,19
-12888993,home-assistant/core,Python,60
-155220641,huggingface/transformers,Python,76
+843222,scikit-learn/scikit-learn,Python,22
+12888993,home-assistant/core,Python,56
+155220641,huggingface/transformers,Python,77
 57222302,openai/gym,Python,14
 80990461,eriklindernoren/ML-From-Scratch,Python,31
-15830664,mkdocs/mkdocs,Python,15
+15830664,mkdocs/mkdocs,Python,18
 102057483,deepinsight/insightface,Python,19
 178626720,PyTorchLightning/pytorch-lightning,Python,28
 4946406,mher/flower,Python,4
@@ -17,10 +17,10 @@ id,name,lang,new stars
 249301266,geohot/corona,Python,97
 248087594,facebookresearch/moco,Python,139
 235718232,aim-uofa/AdelaiDet,Python,29
-245619303,datasets/covid-19,Python,59
+245619303,datasets/covid-19,Python,47
 242377950,mpplab/mnssp3,Python,68
 215027338,google-research/seed_rl,Python,30
-221245632,aj-4/ig-followers,Python,3
+221245632,aj-4/ig-followers,Python,2
 56883329,nextstrain/augur,Python,2
-246411607,COVID19Tracking/covid-tracking-data,Python,13
-248011509,CodeForPhilly/chime,Python,8
+246411607,COVID19Tracking/covid-tracking-data,Python,8
+248011509,CodeForPhilly/chime,Python,7
