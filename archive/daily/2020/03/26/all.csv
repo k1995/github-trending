@@ -1,6 +1,6 @@
 id,name,lang,new stars
 60493101,jwasham/coding-interview-university,,480
-15204860,papers-we-love/papers-we-love,,216
+15204860,papers-we-love/papers-we-love,,217
 11177928,karan/Projects,,63
 1644196,JuliaLang/julia,Julia,30
 36891867,angular/angular-cli,TypeScript,9
@@ -12,10 +12,10 @@ id,name,lang,new stars
 248175118,MegEngine/MegEngine,C++,849
 145148726,Azure/MachineLearningNotebooks,Jupyter Notebook,14
 205810121,CloverHackyColor/CloverBootloader,C,35
-244694886,didi/nightingale,Go,204
+244694886,didi/nightingale,Go,198
 205679232,piexlmax/gin-vue-admin,Go,31
 249301266,geohot/corona,Python,97
-248355874,someshkar/covid19india-cluster,JavaScript,220
+248355874,someshkar/covid19india-cluster,JavaScript,221
 160637359,uber/piranha,Java,97
 248087594,facebookresearch/moco,Python,139
 247386519,covid19india/covid19india-react,JavaScript,77
@@ -23,4 +23,4 @@ id,name,lang,new stars
 236940180,LukeMathWalker/build-your-own-jira-with-rust,Rust,89
 215027338,google-research/seed_rl,Python,30
 248347348,lindawangg/COVID-Net,Jupyter Notebook,42
-247437636,BustByte/coronastatus,HTML,10
+247437636,BustByte/coronastatus,HTML,11
