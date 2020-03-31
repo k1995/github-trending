@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,25
-458058,symfony/symfony,PHP,7
-1420053,guzzle/guzzle,PHP,11
-1376664,Seldaek/monolog,PHP,13
+1863329,laravel/laravel,PHP,21
+458058,symfony/symfony,PHP,8
+1420053,guzzle/guzzle,PHP,12
+1376664,Seldaek/monolog,PHP,12
 5724990,briannesbitt/Carbon,PHP,7
 2884111,magento/magento2,PHP,1
 597887,doctrine/orm,PHP,8
 2179920,woocommerce/woocommerce,PHP,5
 4242230,PHPOffice/PHPWord,PHP,4
-6763587,PrestaShop/PrestaShop,PHP,3
+6763587,PrestaShop/PrestaShop,PHP,2
 14346979,snipe/snipe-it,PHP,6
 12204147,mautic/mautic,PHP,9
 4224042,roundcube/roundcubemail,PHP,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 3671952,KnpLabs/DoctrineBehaviors,PHP,0
 113842727,drehimself/laravel-ecommerce-example,PHP,4
 45100203,Toxantron/scrumonline,PHP,2
-244978640,TitasGailius/terminal,PHP,44
+244978640,TitasGailius/terminal,PHP,32
