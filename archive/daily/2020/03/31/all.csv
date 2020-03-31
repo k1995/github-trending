@@ -1,26 +1,26 @@
 id,name,lang,new stars
-85077558,kamranahmedse/developer-roadmap,,154
-31792824,flutter/flutter,Dart,86
-126577260,trekhleb/javascript-algorithms,JavaScript,67
-114747226,deepfakes/faceswap,Python,62
-15634981,godotengine/godot,C++,29
-22067521,ocornut/imgui,C++,29
-32689863,3b1b/manim,Python,255
-84811466,mqyqingfeng/Blog,,268
-241576270,labuladong/fucking-algorithm,,848
-80286288,arendst/Tasmota,C++,21
-102578345,coolsnowwolf/lede,C,41
-7077690,darlinghq/darling,C,251
-13836499,raysan5/raylib,C,33
-249842476,nytimes/covid-19-data,,502
-149691206,sjsdfg/effective-java-3rd-chinese,,47
-227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,351
-247821387,WorldHealthOrganization/app,Java,121
-228878240,welovedevs/react-ultimate-resume,JavaScript,273
-249995750,AmruthPillai/Reactive-Resume,JavaScript,231
-247386519,covid19india/covid19india-react,JavaScript,82
-249599851,wangshub/RL-Stock,Jupyter Notebook,175
-249608020,Datlyfe/jira_clone,Vue,88
-232387380,uber/fiber,Python,66
-244991387,Elizabeth-Warren/Spoke,JavaScript,55
-248012936,PubInv/covid19-vent-list,,16
+85077558,kamranahmedse/developer-roadmap,,158
+31792824,flutter/flutter,Dart,87
+29028775,facebook/react-native,JavaScript,39
+126577260,trekhleb/javascript-algorithms,JavaScript,72
+84811466,mqyqingfeng/Blog,,241
+241576270,labuladong/fucking-algorithm,,1319
+29217054,micro/go-micro,Go,20
+19374812,telegramdesktop/tdesktop,C++,48
+60829840,aalansehaiyang/technology-talk,,123
+738491,facebook/facebook-ios-sdk,Objective-C,2
+39575101,phil-opp/blog_os,HTML,67
+105808767,aws/aws-cdk,TypeScript,10
+78240897,CoreyMSchafer/code_snippets,Jupyter Notebook,13
+227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,383
+249995750,AmruthPillai/Reactive-Resume,JavaScript,243
+231528631,tanrax/maza-ad-blocking,Shell,158
+38982731,home-assistant/frontend,TypeScript,17
+249599851,wangshub/RL-Stock,Jupyter Notebook,200
+250729885,austingebauer/go-leetcode,Go,94
+250552704,m0bilesecurity/RMS-Runtime-Mobile-Security,Python,77
+250658709,suadev/turkish-microservice-architecture-book,,47
+244991387,Elizabeth-Warren/Spoke,JavaScript,56
+248869083,aatishb/covidtrends,JavaScript,27
+247944747,open-coronavirus/open-coronavirus,TypeScript,59
+249991722,alex3dbros/ICUVent,C++,5
