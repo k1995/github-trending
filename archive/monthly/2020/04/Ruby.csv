@@ -1,7 +1,7 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,268
 27442967,fastlane/fastlane,Ruby,276
-308770,heartcombo/devise,Ruby,109
+308770,heartcombo/devise,Ruby,108
 2293158,rapid7/metasploit-framework,Ruby,302
 3623050,Homebrew/homebrew-cask,Ruby,157
 2203645,CocoaPods/CocoaPods,Ruby,80
@@ -12,7 +12,7 @@ id,name,lang,new stars
 13761875,greatghoul/remote-working,Ruby,216
 2441517,puma/puma,Ruby,61
 535266,vcr/vcr,Ruby,38
-75785147,rails/webpacker,Ruby,69
+75785147,rails/webpacker,Ruby,70
 38867,svenfuchs/rails-i18n,Ruby,20
 1314319,instructure/canvas-lms,Ruby,65
 614070,rubygems/rubygems,Ruby,43
@@ -23,4 +23,4 @@ id,name,lang,new stars
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,57
 121513081,tradingview/charting-library-examples,Ruby,10
 70830890,bigbluebutton/greenlight,Ruby,69
-16006666,turingschool/ruby-exercises,Ruby,3
+16006666,turingschool/ruby-exercises,Ruby,2
