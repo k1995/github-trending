@@ -1,20 +1,20 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,57
+2325298,torvalds/linux,C,64
 10744183,netdata/netdata,C,15
-20159867,nothings/stb,C,15
+20159867,nothings/stb,C,14
 11715753,robertdavidgraham/masscan,C,8
 15337142,micropython/micropython,C,7
-3784017,alibaba/tengine,C,6
-102578345,coolsnowwolf/lede,C,46
+3784017,alibaba/tengine,C,5
+102578345,coolsnowwolf/lede,C,45
 5254557,cloudwu/skynet,C,5
-66150122,jarun/nnn,C,8
+66150122,jarun/nnn,C,11
 5414488,cesanta/mongoose,C,2
-7077690,darlinghq/darling,C,172
+7077690,darlinghq/darling,C,176
 2755696,mattn/go-sqlite3,C,4
 44781140,greenplum-db/gpdb,C,2
-3349840,hak5darren/USB-Rubber-Ducky,C,7
-13836499,raysan5/raylib,C,38
-184909163,koekeishiya/yabai,C,14
+3349840,hak5darren/USB-Rubber-Ducky,C,8
+13836499,raysan5/raylib,C,47
+184909163,koekeishiya/yabai,C,13
 8270972,ARMmbed/mbed-os,C,1
 537699,Kitware/CMake,C,4
 27275442,dtag-dev-sec/tpotce,C,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 70934373,Azure/azure-iot-sdk-c,C,0
 53432472,Azure/sonic-buildimage,C,0
 135623245,thesofproject/sof,C,0
-177287710,corrados/jamulus,C,4
+177287710,corrados/jamulus,C,7
