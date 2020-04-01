@@ -1,11 +1,11 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,40
-1376664,Seldaek/monolog,PHP,13
+1376664,Seldaek/monolog,PHP,14
 4702560,PHPOffice/PHPExcel,PHP,3
 2884111,magento/magento2,PHP,1
 14259390,Maatwebsite/Laravel-Excel,PHP,4
 61490598,PHPOffice/PhpSpreadsheet,PHP,10
-597887,doctrine/orm,PHP,15
+597887,doctrine/orm,PHP,13
 677464,doctrine/dbal,PHP,14
 2179920,woocommerce/woocommerce,PHP,4
 28257573,flarum/core,PHP,5
@@ -13,7 +13,7 @@ id,name,lang,new stars
 42261096,fuzzdb-project/fuzzdb,PHP,10
 30171828,rappasoft/laravel-boilerplate,PHP,0
 10883164,barryvdh/laravel-dompdf,PHP,1
-576099,doctrine/migrations,PHP,12
+576099,doctrine/migrations,PHP,10
 439861,moodle/moodle,PHP,4
 521583,symfony/symfony-docs,PHP,0
 18382480,matomo-org/device-detector,PHP,5

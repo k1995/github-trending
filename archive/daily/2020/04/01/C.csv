@@ -1,7 +1,7 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,57
+2325298,torvalds/linux,C,63
 156018,antirez/redis,C,25
-111583593,Genymobile/scrcpy,C,57
+111583593,Genymobile/scrcpy,C,59
 1903522,php/php-src,C,12
 5101141,stedolan/jq,C,11
 7634677,openssl/openssl,C,12
@@ -10,17 +10,17 @@ id,name,lang,new stars
 5254557,cloudwu/skynet,C,5
 95879426,Tencent/ncnn,C,12
 9330072,fogleman/Craft,C,6
-66150122,jarun/nnn,C,8
-7408108,RT-Thread/rt-thread,C,9
+66150122,jarun/nnn,C,11
+7408108,RT-Thread/rt-thread,C,8
 50874442,citusdata/citus,C,3
 5870069,edenhill/librdkafka,C,3
 60667730,littlevgl/lvgl,C,3
 2359378,madler/zlib,C,3
 59676171,KevinOConnor/klipper,C,2
 34807561,nanopb/nanopb,C,7
-40556106,wazuh/wazuh,C,6
+40556106,wazuh/wazuh,C,7
 251287681,danigargu/CVE-2020-0796,C,234
 50272879,pjsip/pjproject,C,6
 250485722,kgabis/ape,C,59
-177287710,corrados/jamulus,C,4
-251319407,lcodecorex/KeepAlive,C,20
+177287710,corrados/jamulus,C,5
+251319407,lcodecorex/KeepAlive,C,19

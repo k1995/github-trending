@@ -1,12 +1,12 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,27
+17620347,dotnet/aspnetcore,C#,20
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,14
 143460965,GoogleCloudPlatform/microservices-demo,C#,9
-28239455,dotnet/AspNetCore.Docs,C#,9
-118322286,felixse/FluentTerminal,C#,18
+28239455,dotnet/AspNetCore.Docs,C#,6
+118322286,felixse/FluentTerminal,C#,17
 11920542,HangfireIO/Hangfire,C#,7
 62256097,ThreeMammals/Ocelot,C#,6
-18586705,nopSolutions/nopCommerce,C#,13
+18586705,nopSolutions/nopCommerce,C#,12
 17748183,StackExchange/StackExchange.Redis,C#,6
 75505125,abpframework/abp,C#,10
 14999623,jstedfast/MailKit,C#,2
@@ -16,11 +16,11 @@ id,name,lang,new stars
 121049045,skoruba/IdentityServer4.Admin,C#,8
 2928944,Azure/azure-sdk-for-net,C#,0
 150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,9
-213460285,jasontaylordev/CleanArchitecture,C#,8
+213460285,jasontaylordev/CleanArchitecture,C#,6
 119571446,dotnet/samples,C#,3
 23918333,paolosalvatori/ServiceBusExplorer,C#,4
-154637304,FastReports/FastReport,C#,4
+154637304,FastReports/FastReport,C#,5
 51595028,OPCFoundation/UA-.NETStandard,C#,3
 73510119,aws/aws-lambda-dotnet,C#,8
 126898329,microsoft/PowerApps-Samples,C#,2
-247042295,microsoft/Microsoft-Rocketbox,C#,38
+247042295,microsoft/Microsoft-Rocketbox,C#,23
