@@ -1,26 +1,26 @@
 id,name,lang,new stars
-85077558,kamranahmedse/developer-roadmap,,137
-31792824,flutter/flutter,Dart,112
-29028775,facebook/react-native,JavaScript,48
-126577260,trekhleb/javascript-algorithms,JavaScript,96
-84811466,mqyqingfeng/Blog,,243
-241576270,labuladong/fucking-algorithm,,1080
-29217054,micro/go-micro,Go,73
-19374812,telegramdesktop/tdesktop,C++,75
-60829840,aalansehaiyang/technology-talk,,137
-738491,facebook/facebook-ios-sdk,Objective-C,3
-39575101,phil-opp/blog_os,HTML,92
-105808767,aws/aws-cdk,TypeScript,16
-78240897,CoreyMSchafer/code_snippets,Jupyter Notebook,19
-227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,322
-249995750,AmruthPillai/Reactive-Resume,JavaScript,230
-231528631,tanrax/maza-ad-blocking,Shell,124
-38982731,home-assistant/frontend,TypeScript,33
-249599851,wangshub/RL-Stock,Jupyter Notebook,193
-250729885,austingebauer/go-leetcode,Go,112
-250552704,m0bilesecurity/RMS-Runtime-Mobile-Security,Python,63
-250658709,suadev/turkish-microservice-architecture-book,,23
-247944747,open-coronavirus/open-coronavirus,TypeScript,42
-248869083,aatishb/covidtrends,JavaScript,17
-244991387,Elizabeth-Warren/Spoke,JavaScript,41
-249991722,alex3dbros/ICUVent,C++,5
+45717250,tensorflow/tensorflow,C++,63
+85077558,kamranahmedse/developer-roadmap,,139
+31792824,flutter/flutter,Dart,111
+126577260,trekhleb/javascript-algorithms,JavaScript,89
+114523184,crossoverJie/JCSprout,Java,143
+84811466,mqyqingfeng/Blog,,244
+184456251,microsoft/PowerToys,C++,114
+241576270,labuladong/fucking-algorithm,,1135
+163387337,seata/seata,Java,38
+29217054,micro/go-micro,Go,68
+83050680,eclipse-theia/theia,TypeScript,154
+158336675,LingCoder/OnJava8,,140
+39575101,phil-opp/blog_os,HTML,85
+111139246,Heeexy/SpringBoot-Shiro-Vue,Java,26
+144873815,prisma/prisma-examples,TypeScript,15
+139533149,diegoveloper/flutter-samples,Dart,35
+249599851,wangshub/RL-Stock,Jupyter Notebook,194
+250729885,austingebauer/go-leetcode,Go,102
+251287681,danigargu/CVE-2020-0796,C,234
+247828783,DanielHe4rt/bbbot,JavaScript,111
+201987932,szymonmaszke/torchlayers,Python,74
+250552704,m0bilesecurity/RMS-Runtime-Mobile-Security,Python,64
+250386901,ImperialCollegeLondon/covid19model,R,76
+248927415,Inspire-Poli-USP/Inspire-OpenLung,C++,8
+249521798,oscarhealth/covid19-testing,JavaScript,10
