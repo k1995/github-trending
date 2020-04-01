@@ -1,7 +1,7 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,85
+83222441,donnemartin/system-design-primer,Python,83
 33015583,keras-team/keras,Python,28
-188660663,CorentinJ/Real-Time-Voice-Cloning,Python,19
+188660663,CorentinJ/Real-Time-Voice-Cloning,Python,20
 1385122,matplotlib/matplotlib,Python,12
 71932349,ray-project/ray,Python,25
 179893494,ddbourgin/numpy-ml,Python,20
@@ -9,7 +9,7 @@ id,name,lang,new stars
 24774658,boto/boto3,Python,8
 10391073,edx/edx-platform,Python,4
 58374888,wkentaro/labelme,Python,14
-179728393,microsoft/nlp-recipes,Python,69
+179728393,microsoft/nlp-recipes,Python,64
 118660123,google/diff-match-patch,Python,9
 132709824,doccano/doccano,Python,6
 124853261,tensorflow/hub,Python,9
@@ -19,8 +19,8 @@ id,name,lang,new stars
 198350484,microsoft/unilm,Python,11
 209366284,wbt5/real-url,Python,75
 147711404,tenable/poc,Python,4
-232387380,uber/fiber,Python,96
+232387380,uber/fiber,Python,101
 201987932,szymonmaszke/torchlayers,Python,74
-250552704,m0bilesecurity/RMS-Runtime-Mobile-Security,Python,63
-248185969,tohinz/ConSinGAN,Python,20
+250552704,m0bilesecurity/RMS-Runtime-Mobile-Security,Python,61
+248185969,tohinz/ConSinGAN,Python,19
 249071899,G123N1NJ4/c2hack,Python,16
