@@ -1,11 +1,11 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,125
-2579314,fzaninotto/Faker,PHP,71
+3482588,danielmiessler/SecLists,PHP,123
+2579314,fzaninotto/Faker,PHP,70
 458058,symfony/symfony,PHP,49
 1864363,composer/composer,PHP,78
 7548986,laravel/framework,PHP,89
-2889328,WordPress/WordPress,PHP,46
-47495360,phanan/koel,PHP,68
+2889328,WordPress/WordPress,PHP,45
+47495360,phanan/koel,PHP,69
 26730195,CachetHQ/Cachet,PHP,39
 56728437,docker/labs,PHP,37
 2884111,magento/magento2,PHP,16
@@ -19,8 +19,8 @@ id,name,lang,new stars
 42261096,fuzzdb-project/fuzzdb,PHP,40
 12204147,mautic/mautic,PHP,28
 576099,doctrine/migrations,PHP,27
-97311017,rectorphp/rector,PHP,33
+97311017,rectorphp/rector,PHP,32
 38116958,php-telegram-bot/core,PHP,15
 79166184,cretueusebiu/laravel-vue-spa,PHP,24
-69691727,pmmp/PocketMine-MP,PHP,24
+69691727,pmmp/PocketMine-MP,PHP,23
 968839,microweber/microweber,PHP,12
