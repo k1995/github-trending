@@ -2,8 +2,8 @@ id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,394
 22067521,ocornut/imgui,C++,150
 11171548,nlohmann/json,C++,95
-184456251,microsoft/PowerToys,C++,535
-39840932,google/googletest,C++,90
+184456251,microsoft/PowerToys,C++,556
+39840932,google/googletest,C++,89
 19374812,telegramdesktop/tdesktop,C++,242
 1062572,catchorg/Catch2,C++,46
 67702184,topjohnwu/Magisk,C++,178
@@ -16,7 +16,7 @@ id,name,lang,new stars
 18348651,OpenRCT2/OpenRCT2,C++,38
 82766831,anbox/anbox,C++,65
 15379620,PCSX2/pcsx2,C++,23
-248175118,MegEngine/MegEngine,C++,465
+248175118,MegEngine/MegEngine,C++,427
 98471367,acidanthera/WhateverGreen,C++,51
 128479644,esphome/esphome,C++,33
 27918697,versatica/mediasoup,C++,52
