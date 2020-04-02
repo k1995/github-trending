@@ -1,8 +1,8 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,1539
 5108051,opencv/opencv,C++,945
-65600975,pytorch/pytorch,C++,998
-184456251,microsoft/PowerToys,C++,1561
+65600975,pytorch/pytorch,C++,996
+184456251,microsoft/PowerToys,C++,1581
 96246170,ApolloAuto/apollo,C++,204
 11892946,uglide/RedisDesktopManager,C++,279
 39840932,google/googletest,C++,317
@@ -15,7 +15,7 @@ id,name,lang,new stars
 149111813,Tencent/MMKV,C++,296
 29518121,ShiqiYu/libfacedetection,C++,1203
 17391973,Tencent/rapidjson,C++,194
-34777562,ossrs/srs,C++,381
+34777562,ossrs/srs,C++,383
 648343,chenshuo/muduo,C++,196
 191820100,google/mediapipe,C++,1068
 31102092,google/or-tools,C++,436
