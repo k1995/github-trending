@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7691631,moby/moby,Go,12
+7691631,moby/moby,Go,11
 20904437,gin-gonic/gin,Go,31
 15452919,ethereum/go-ethereum,Go,12
 13855476,jinzhu/gorm,Go,20
@@ -22,5 +22,5 @@ id,name,lang,new stars
 46904685,opentracing/opentracing-go,Go,3
 93446042,terraform-providers/terraform-provider-azurerm,Go,4
 180155078,micro-in-cn/tutorials,Go,4
-198683574,liquidata-inc/dolt,Go,78
+198683574,liquidata-inc/dolt,Go,80
 250729885,austingebauer/go-leetcode,Go,122
