@@ -1,9 +1,9 @@
 id,name,lang,new stars
-5271882,astaxie/build-web-application-with-golang,Go,21
+5271882,astaxie/build-web-application-with-golang,Go,17
 13855476,jinzhu/gorm,Go,19
 12574344,spf13/cobra,Go,23
 31288958,hashicorp/vault,Go,13
-27729907,grpc/grpc-go,Go,12
+27729907,grpc/grpc-go,Go,15
 118654121,GoogleContainerTools/skaffold,Go,9
 7877397,jmoiron/sqlx,Go,11
 212613049,cli/cli,Go,17
@@ -14,9 +14,9 @@ id,name,lang,new stars
 100982449,argoproj/argo,Go,18
 118105436,golang-migrate/migrate,Go,7
 53174289,gruntwork-io/terratest,Go,5
-201658460,geektutu/7days-golang,Go,74
+201658460,geektutu/7days-golang,Go,150
 107417113,cookieY/Yearning,Go,109
-134012064,pion/webrtc,Go,24
+134012064,pion/webrtc,Go,23
 40539602,99designs/aws-vault,Go,9
 120896210,argoproj/argo-cd,Go,9
 67793333,cortexproject/cortex,Go,79
