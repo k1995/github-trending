@@ -4,7 +4,7 @@ id,name,lang,new stars
 8989842,unknwon/the-way-to-go_ZH_CN,Go,127
 13124802,influxdata/influxdb,Go,85
 26337322,rancher/rancher,Go,62
-29217054,micro/go-micro,Go,376
+29217054,micro/go-micro,Go,377
 6051812,gorilla/mux,Go,76
 165041732,go-kratos/kratos,Go,86
 129717717,grafana/loki,Go,60
@@ -12,7 +12,7 @@ id,name,lang,new stars
 31660590,emirpasic/gods,Go,68
 169948217,crawlab-team/crawlab,Go,77
 93444615,terraform-providers/terraform-provider-aws,Go,43
-120156076,cloudreve/Cloudreve,Go,421
+120156076,cloudreve/Cloudreve,Go,410
 62712899,AdguardTeam/AdGuardHome,Go,92
 107417113,cookieY/Yearning,Go,159
 50629145,google/pprof,Go,63
@@ -20,7 +20,7 @@ id,name,lang,new stars
 53737001,senghoo/golang-design-pattern,Go,222
 66505292,GoesToEleven/golang-web-dev,Go,25
 175070907,pion/ion,Go,901
-93446042,terraform-providers/terraform-provider-azurerm,Go,22
+93446042,terraform-providers/terraform-provider-azurerm,Go,23
 205679232,piexlmax/gin-vue-admin,Go,107
 128950203,Rhymen/go-whatsapp,Go,34
 234659139,panther-labs/panther,Go,156

@@ -1,12 +1,12 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,701
-54346799,public-apis/public-apis,Python,842
-154747577,google-research/bert,Python,30
+83222441,donnemartin/system-design-primer,Python,770
+54346799,public-apis/public-apis,Python,950
+154747577,google-research/bert,Python,32
 34757182,donnemartin/interactive-coding-challenges,Python,12
 125266328,psf/black,Python,18
 162723104,OWASP/CheatSheetSeries,Python,10
 6662075,joke2k/faker,Python,8
-102904613,Unity-Technologies/ml-agents,Python,6
+102904613,Unity-Technologies/ml-agents,Python,9
 1099265,cython/cython,Python,7
 189350661,lukemelas/EfficientNet-PyTorch,Python,9
 168799526,rwightman/pytorch-image-models,Python,42
@@ -16,11 +16,11 @@ id,name,lang,new stars
 86711932,PyQt5/PyQt,Python,5
 224296809,google-research/albert,Python,14
 51040886,Azure/azure-cli,Python,2
-4127088,Azure/azure-sdk-for-python,Python,1
-129815042,thu-ml/tianshou,Python,164
-240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,141
+4127088,Azure/azure-sdk-for-python,Python,2
+129815042,thu-ml/tianshou,Python,107
+240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,144
 191256013,facebookresearch/pycls,Python,50
-250671863,UCSD-AI4H/COVID-CT,Python,58
+250671863,UCSD-AI4H/COVID-CT,Python,60
 249124058,ihmeuw-msca/CurveFit,Python,24
 251499802,bojone/lic2020_baselines,Python,8
 245743788,splunk/corona_virus,Python,4
