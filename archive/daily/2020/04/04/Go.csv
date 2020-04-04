@@ -1,0 +1,26 @@
+id,name,lang,new stars
+5271882,astaxie/build-web-application-with-golang,Go,13
+13855476,jinzhu/gorm,Go,18
+12574344,spf13/cobra,Go,15
+31288958,hashicorp/vault,Go,16
+27729907,grpc/grpc-go,Go,12
+118654121,GoogleContainerTools/skaffold,Go,2
+7877397,jmoiron/sqlx,Go,12
+212613049,cli/cli,Go,11
+62921553,rook/rook,Go,3
+36653430,hashicorp/nomad,Go,5
+3698588,lib/pq,Go,5
+133067498,kubernetes-sigs/kustomize,Go,9
+100982449,argoproj/argo,Go,13
+118105436,golang-migrate/migrate,Go,9
+53174289,gruntwork-io/terratest,Go,4
+201658460,geektutu/7days-golang,Go,116
+107417113,cookieY/Yearning,Go,71
+134012064,pion/webrtc,Go,24
+40539602,99designs/aws-vault,Go,5
+120896210,argoproj/argo-cd,Go,7
+67793333,cortexproject/cortex,Go,66
+150954997,VictoriaMetrics/VictoriaMetrics,Go,11
+117377862,gardener/gardener,Go,5
+107597148,aws/amazon-vpc-cni-k8s,Go,4
+208908993,GoogleContainerTools/kpt,Go,73
