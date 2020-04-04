@@ -1,15 +1,15 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,14
+17620347,dotnet/aspnetcore,C#,15
 70104825,dotnet-architecture/eShopOnContainers,C#,19
 16157746,dotnet/efcore,C#,9
 791611,mono/mono,C#,3
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,11
 505380,AutoMapper/AutoMapper,C#,3
-1135454,cefsharp/CefSharp,C#,8
+1135454,cefsharp/CefSharp,C#,6
 75990888,dotnet/csharplang,C#,3
 5780416,NLog/NLog,C#,2
 153711945,dotnet/wpf,C#,7
-50605426,microsoft/MixedRealityToolkit-Unity,C#,7
+50605426,microsoft/MixedRealityToolkit-Unity,C#,8
 19216825,xamarin/xamarin-forms-samples,C#,5
 14999623,jstedfast/MailKit,C#,4
 152370823,davidfowl/AspNetCoreDiagnosticScenarios,C#,3
@@ -17,10 +17,10 @@ id,name,lang,new stars
 2928944,Azure/azure-sdk-for-net,C#,6
 72554578,confluentinc/confluent-kafka-dotnet,C#,1
 166270225,dotnet-presentations/blazor-workshop,C#,4
-134363073,HandyOrg/HandyControl,C#,7
+134363073,HandyOrg/HandyControl,C#,8
 38182966,TelegramBots/Telegram.Bot,C#,3
 137433882,Unity-Technologies/arfoundation-samples,C#,2
 63984307,dotnet/sdk,C#,3
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,2
-250684236,kwsch/NHSE,C#,13
+250684236,kwsch/NHSE,C#,12
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,1

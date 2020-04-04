@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,246
-20904437,gin-gonic/gin,Go,231
-8989842,unknwon/the-way-to-go_ZH_CN,Go,121
+20904437,gin-gonic/gin,Go,233
+8989842,unknwon/the-way-to-go_ZH_CN,Go,125
 13124802,influxdata/influxdb,Go,84
 31288958,hashicorp/vault,Go,70
 26337322,rancher/rancher,Go,67
@@ -12,15 +12,15 @@ id,name,lang,new stars
 31660590,emirpasic/gods,Go,74
 169948217,crawlab-team/crawlab,Go,81
 93444615,terraform-providers/terraform-provider-aws,Go,37
-120156076,cloudreve/Cloudreve,Go,340
-234231371,gofiber/fiber,Go,298
+120156076,cloudreve/Cloudreve,Go,339
+234231371,gofiber/fiber,Go,305
 107417113,cookieY/Yearning,Go,183
-134012064,pion/webrtc,Go,122
+134012064,pion/webrtc,Go,128
 120650407,operator-framework/operator-sdk,Go,41
 53737001,senghoo/golang-design-pattern,Go,165
-67793333,cortexproject/cortex,Go,126
-175070907,pion/ion,Go,651
+67793333,cortexproject/cortex,Go,127
+175070907,pion/ion,Go,644
 105262714,oauth2-proxy/oauth2-proxy,Go,95
-45063392,micro/go-plugins,Go,30
-234659139,panther-labs/panther,Go,148
+45063392,micro/go-plugins,Go,28
+234659139,panther-labs/panther,Go,149
 50759993,jbowens/codenames,Go,108
