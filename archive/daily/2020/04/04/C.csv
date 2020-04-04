@@ -2,7 +2,7 @@ id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,77
 569041,curl/curl,C,11
 5101141,stedolan/jq,C,15
-32969220,esp8266/Arduino,C,10
+32969220,esp8266/Arduino,C,13
 613829,openresty/lua-nginx-module,C,8
 28515839,skywind3000/kcp,C,40
 93205465,apple/darwin-xnu,C,7
@@ -11,11 +11,11 @@ id,name,lang,new stars
 2328181,freebsd/freebsd,C,5
 35930805,EZLippi/Tinyhttpd,C,44
 70127218,espressif/arduino-esp32,C,8
-5870069,edenhill/librdkafka,C,9
+5870069,edenhill/librdkafka,C,13
 44781140,greenplum-db/gpdb,C,3
 37060852,betaflight/betaflight,C,4
 5383731,qemu/qemu,C,9
-13836499,raysan5/raylib,C,68
+13836499,raysan5/raylib,C,85
 59771425,zephyrproject-rtos/zephyr,C,4
 39760454,libjpeg-turbo/libjpeg-turbo,C,6
 1999692,OpenSC/OpenSC,C,8
