@@ -8,13 +8,13 @@ id,name,lang,new stars
 93205465,apple/darwin-xnu,C,9
 47409672,hashcat/hashcat,C,10
 105627846,reactos/reactos,C,12
-2328181,freebsd/freebsd,C,6
 35930805,EZLippi/Tinyhttpd,C,53
+2328181,freebsd/freebsd,C,6
 70127218,espressif/arduino-esp32,C,9
 5870069,edenhill/librdkafka,C,14
 44781140,greenplum-db/gpdb,C,5
 37060852,betaflight/betaflight,C,5
-13836499,raysan5/raylib,C,42
+13836499,raysan5/raylib,C,44
 5383731,qemu/qemu,C,14
 59771425,zephyrproject-rtos/zephyr,C,6
 39760454,libjpeg-turbo/libjpeg-turbo,C,6
