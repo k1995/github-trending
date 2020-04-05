@@ -1,26 +1,26 @@
 id,name,lang,new stars
 60493101,jwasham/coding-interview-university,,2130
 85077558,kamranahmedse/developer-roadmap,,2804
-83222441,donnemartin/system-design-primer,Python,2050
+83222441,donnemartin/system-design-primer,Python,2089
 126577260,trekhleb/javascript-algorithms,JavaScript,1442
+133442384,denoland/deno,TypeScript,591
 76838017,iina/iina,Swift,490
 32689863,3b1b/manim,Python,989
 13233158,obsproject/obs-studio,C,490
-29217054,micro/go-micro,Go,385
+184456251,microsoft/PowerToys,C++,725
+110211147,xkcoding/spring-boot-demo,Java,240
+80286288,arendst/Tasmota,C++,128
 15225670,jitsi/jitsi-meet,JavaScript,1032
-95208623,lihengming/spring-boot-api-project-seed,Java,249
-231283452,excalidraw/excalidraw,TypeScript,652
+182644013,foxlet/macOS-Simple-KVM,Shell,130
+231283452,excalidraw/excalidraw,TypeScript,655
 197081291,hecrj/iced,Rust,835
-130688011,meilisearch/MeiliSearch,Rust,686
 53131903,librespeed/speedtest,HTML,178
 249842476,nytimes/covid-19-data,,1759
-13836499,raysan5/raylib,C,314
-175070907,pion/ion,Go,393
+13836499,raysan5/raylib,C,323
+171490796,lmoroney/dlaicourse,Jupyter Notebook,79
+227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,1363
 247821387,WorldHealthOrganization/app,Dart,459
 247386519,covid19india/covid19india-react,JavaScript,934
+228878240,welovedevs/react-ultimate-resume,JavaScript,807
 196959890,TachibanaYoshino/AnimeGAN,Python,509
-248355874,someshkar/covid19india-cluster,JavaScript,224
 141265446,jitsi/docker-jitsi-meet,Lua,209
-249301266,geohot/corona,Python,263
-245619303,datasets/covid-19,Python,132
-248011509,CodeForPhilly/chime,Python,53

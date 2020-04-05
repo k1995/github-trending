@@ -1,12 +1,11 @@
 id,name,lang,new stars
+7569578,discourse/discourse,Ruby,285
 308770,heartcombo/devise,Ruby,115
-2293158,rapid7/metasploit-framework,Ruby,306
+2293158,rapid7/metasploit-framework,Ruby,310
 3623050,Homebrew/homebrew-cask,Ruby,156
 2203645,CocoaPods/CocoaPods,Ruby,82
 88740103,postalhq/postal,Ruby,88
 1725199,github/linguist,Ruby,97
-810796,sferik/rails_admin,Ruby,25
-21829,thoughtbot/factory_bot,Ruby,39
 13761875,greatghoul/remote-working,Ruby,243
 2441517,puma/puma,Ruby,59
 535266,vcr/vcr,Ruby,41
@@ -21,6 +20,7 @@ id,name,lang,new stars
 15171934,Homebrew/homebrew-cask-fonts,Ruby,31
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,37
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,68
-121513081,tradingview/charting-library-examples,Ruby,12
-244813690,phildini/stayinghomeclub,Ruby,445
+200302808,github/view_component,Ruby,175
+244813690,phildini/stayinghomeclub,Ruby,446
 70830890,bigbluebutton/greenlight,Ruby,80
+16006666,turingschool/ruby-exercises,Ruby,4

@@ -1,19 +1,21 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,671
-1864363,composer/composer,PHP,317
-7548986,laravel/framework,PHP,320
+1863329,laravel/laravel,PHP,672
+1864363,composer/composer,PHP,318
+7548986,laravel/framework,PHP,321
 2889328,WordPress/WordPress,PHP,166
 47495360,phanan/koel,PHP,188
 26730195,CachetHQ/Cachet,PHP,147
-48796179,z-song/laravel-admin,PHP,209
+48796179,z-song/laravel-admin,PHP,208
 8305060,top-think/think,PHP,61
 11467667,typecho/typecho,PHP,174
 12166778,googleapis/google-api-php-client,PHP,81
-7122594,directus/directus,PHP,531
+7122594,directus/directus,PHP,534
 47120661,hirak/prestissimo,PHP,145
+2141186,opencart/opencart,PHP,67
 3118246,mledoze/countries,PHP,84
-9791525,ethicalhack3r/DVWA,PHP,97
+9791525,ethicalhack3r/DVWA,PHP,96
 60491949,fecshop/yii2_fecshop,PHP,191
+33916850,spatie/laravel-medialibrary,PHP,63
 439861,moodle/moodle,PHP,83
 170355508,livewire/livewire,PHP,636
 41463886,codeigniter4/CodeIgniter4,PHP,129
@@ -21,6 +23,4 @@ id,name,lang,new stars
 31541210,aimeos/aimeos-laravel,PHP,83
 159606650,hyperf/hyperf,PHP,126
 69691727,pmmp/PocketMine-MP,PHP,65
-119047018,linuxserver/Heimdall,PHP,133
-93982796,Tuhinshubhra/RED_HAWK,PHP,43
 189104054,laravel/ui,PHP,61
