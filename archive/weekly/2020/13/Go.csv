@@ -4,7 +4,7 @@ id,name,lang,new stars
 13124802,influxdata/influxdb,Go,84
 13855476,jinzhu/gorm,Go,114
 26337322,rancher/rancher,Go,63
-29217054,micro/go-micro,Go,391
+29217054,micro/go-micro,Go,388
 135516270,rancher/k3s,Go,87
 27729907,grpc/grpc-go,Go,62
 165041732,go-kratos/kratos,Go,80
@@ -13,14 +13,14 @@ id,name,lang,new stars
 33258973,influxdata/telegraf,Go,47
 169948217,crawlab-team/crawlab,Go,93
 93444615,terraform-providers/terraform-provider-aws,Go,40
-234231371,gofiber/fiber,Go,330
+234231371,gofiber/fiber,Go,328
 107417113,cookieY/Yearning,Go,188
 134012064,pion/webrtc,Go,118
 120650407,operator-framework/operator-sdk,Go,43
 53737001,senghoo/golang-design-pattern,Go,118
 67793333,cortexproject/cortex,Go,137
 66505292,GoesToEleven/golang-web-dev,Go,25
-175070907,pion/ion,Go,404
+175070907,pion/ion,Go,286
 105262714,oauth2-proxy/oauth2-proxy,Go,98
 93446042,terraform-providers/terraform-provider-azurerm,Go,23
 237523442,tailscale/tailscale,Go,92

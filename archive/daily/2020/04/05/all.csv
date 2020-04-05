@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,605
+83222441,donnemartin/system-design-primer,Python,589
 33015583,keras-team/keras,Python,34
-724712,rust-lang/rust,Rust,54
+724712,rust-lang/rust,Rust,55
 11180687,gohugoio/hugo,Go,41
 2293158,rapid7/metasploit-framework,Ruby,19
-5373551,libgdx/libgdx,Java,51
-110211147,xkcoding/spring-boot-demo,Java,87
-842037,nim-lang/Nim,Nim,12
-238126205,2019ncovmemory/nCovMemory,JavaScript,31
+5373551,libgdx/libgdx,Java,45
+110211147,xkcoding/spring-boot-demo,Java,100
+842037,nim-lang/Nim,Nim,20
+238126205,2019ncovmemory/nCovMemory,JavaScript,27
 136667574,flutter/samples,Dart,12
-197081291,hecrj/iced,Rust,592
-13836499,raysan5/raylib,C,91
-171490796,lmoroney/dlaicourse,Jupyter Notebook,22
-240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,518
-247386519,covid19india/covid19india-react,JavaScript,220
+197081291,hecrj/iced,Rust,580
+13836499,raysan5/raylib,C,62
+171490796,lmoroney/dlaicourse,Jupyter Notebook,11
+240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,514
+247386519,covid19india/covid19india-react,JavaScript,236
 239283589,TimeToogo/ff-proxy,C,145
-250296192,nychealth/coronavirus-data,,90
+250296192,nychealth/coronavirus-data,,93
 248323802,senguptaumd/Background-Matting,Python,167
 250190178,adi1090x/plymouth-themes,Shell,66
-249376133,afteracademy/nodejs-backend-architecture-typescript,TypeScript,100
+249376133,afteracademy/nodejs-backend-architecture-typescript,TypeScript,134
 250234485,ProteGO-app/android,Kotlin,24
-250985619,pcomputo/Whole-Foods-Delivery-Slot,Python,16
+250985619,pcomputo/Whole-Foods-Delivery-Slot,Python,5
 250248128,ProteGO-app/backend,Python,17
-249644776,ProteGO-app/specs,,16
 250233412,ProteGO-app/ios,Swift,12
+249644776,ProteGO-app/specs,,16

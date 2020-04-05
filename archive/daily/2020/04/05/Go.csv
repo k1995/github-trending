@@ -1,16 +1,16 @@
 id,name,lang,new stars
 23096959,golang/go,Go,56
-21540759,avelino/awesome-go,Go,47
+21540759,avelino/awesome-go,Go,43
 11180687,gohugoio/hugo,Go,41
-20904437,gin-gonic/gin,Go,56
+20904437,gin-gonic/gin,Go,73
 5271882,astaxie/build-web-application-with-golang,Go,24
 11225014,etcd-io/etcd,Go,37
 41912791,v2ray/v2ray-core,Go,74
 53632140,zyedidia/micro,Go,23
-123572362,quii/learn-go-with-tests,Go,16
+123572362,quii/learn-go-with-tests,Go,17
 105279544,gocolly/colly,Go,17
 21233191,ipfs/go-ipfs,Go,4
-7083242,go-sql-driver/mysql,Go,7
+7083242,go-sql-driver/mysql,Go,10
 136815833,Dreamacro/clash,Go,57
 11753762,cheat/cheat,Go,9
 49765480,lightningnetwork/lnd,Go,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 67793333,cortexproject/cortex,Go,59
 201954234,xiaoming2028/FreePAC,Go,16
 207685110,geph-official/geph2,Go,5
-245747437,rancher/fleet,Go,105
+245747437,rancher/fleet,Go,94
 251133594,aunum/goro,Go,35
