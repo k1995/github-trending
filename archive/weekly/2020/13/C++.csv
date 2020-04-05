@@ -1,5 +1,5 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,417
+45717250,tensorflow/tensorflow,C++,431
 15634981,godotengine/godot,C++,191
 22067521,ocornut/imgui,C++,154
 184456251,microsoft/PowerToys,C++,715
@@ -8,9 +8,9 @@ id,name,lang,new stars
 67702184,topjohnwu/Magisk,C++,173
 80286288,arendst/Tasmota,C++,129
 116167731,yuzu-emu/yuzu,C++,124
-126412363,simdjson/simdjson,C++,284
+126412363,simdjson/simdjson,C++,287
 3351871,qbittorrent/qBittorrent,C++,89
-23129458,aseprite/aseprite,C++,90
+23129458,aseprite/aseprite,C++,99
 34777562,ossrs/srs,C++,103
 47690142,CoatiSoftware/Sourcetrail,C++,85
 2200856,MarlinFirmware/Marlin,C++,45
@@ -20,7 +20,7 @@ id,name,lang,new stars
 98471367,acidanthera/WhateverGreen,C++,49
 27918697,versatica/mediasoup,C++,84
 87113049,OneLoneCoder/videos,C++,18
-239714835,mindspore-ai/mindspore,C++,401
+239714835,mindspore-ai/mindspore,C++,407
 147106288,OneLoneCoder/olcPixelGameEngine,C++,22
 3545227,webcamoid/webcamoid,C++,50
 247988165,CSSALTlab/Open_Source_Ventilator,C++,102
