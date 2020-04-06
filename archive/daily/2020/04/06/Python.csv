@@ -1,8 +1,8 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,468
+83222441,donnemartin/system-design-primer,Python,235
 63476337,TheAlgorithms/Python,Python,53
 1039520,ytdl-org/youtube-dl,Python,114
-33015583,keras-team/keras,Python,46
+33015583,keras-team/keras,Python,47
 843222,scikit-learn/scikit-learn,Python,21
 81598961,python/cpython,Python,17
 57222302,openai/gym,Python,23
@@ -11,16 +11,16 @@ id,name,lang,new stars
 4008931,StevenBlack/hosts,Python,22
 162998479,sherlock-project/sherlock,Python,19
 1049095,kivy/kivy,Python,12
-6297520,quantopian/zipline,Python,9
-38696925,python-telegram-bot/python-telegram-bot,Python,19
+6297520,quantopian/zipline,Python,11
+38696925,python-telegram-bot/python-telegram-bot,Python,26
 49864290,instabot-py/instabot.py,Python,6
 22489033,lazyprogrammer/machine_learning_examples,Python,6
 91629816,freqtrade/freqtrade,Python,11
-240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,289
-248323802,senguptaumd/Background-Matting,Python,106
+240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,663
+248323802,senguptaumd/Background-Matting,Python,184
 252565065,xingyizhou/CenterTrack,Python,124
-228290594,PaddlePaddle/PaddleSlim,Python,152
-246642807,alex04072000/ObstructionRemoval,Python,33
-250985619,pcomputo/Whole-Foods-Delivery-Slot,Python,40
+228290594,PaddlePaddle/PaddleSlim,Python,40
+246642807,alex04072000/ObstructionRemoval,Python,29
+250985619,pcomputo/Whole-Foods-Delivery-Slot,Python,20
 250248128,ProteGO-app/backend,Python,21
-248034495,covid-projections/covid-data-model,Python,3
+248034495,covid-projections/covid-data-model,Python,2

@@ -1,11 +1,11 @@
 id,name,lang,new stars
 20159867,nothings/stb,C,25
 11715753,robertdavidgraham/masscan,C,13
-6201092,mpv-player/mpv,C,15
+6201092,mpv-player/mpv,C,10
 32969220,esp8266/Arduino,C,14
-102578345,coolsnowwolf/lede,C,46
+102578345,coolsnowwolf/lede,C,75
 47409672,hashcat/hashcat,C,9
-105627846,reactos/reactos,C,13
+105627846,reactos/reactos,C,30
 78281075,spacehuhn/esp8266_deauther,C,6
 45821540,openwrt/openwrt,C,9
 41215835,HandBrake/HandBrake,C,11
@@ -15,9 +15,9 @@ id,name,lang,new stars
 13836499,raysan5/raylib,C,74
 2997204,magnumripper/JohnTheRipper,C,6
 37060852,betaflight/betaflight,C,6
-130578889,pymumu/smartdns,C,9
+130578889,pymumu/smartdns,C,10
 65638810,XProger/OpenLara,C,3
-179354282,acidanthera/OpenCorePkg,C,15
+179354282,acidanthera/OpenCorePkg,C,20
 205810121,CloverHackyColor/CloverBootloader,C,11
 239283589,TimeToogo/ff-proxy,C,206
 119086992,RavenSystem/esp-homekit-devices,C,3
