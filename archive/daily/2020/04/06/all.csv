@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,434
-33015583,keras-team/keras,Python,47
 724712,rust-lang/rust,Rust,52
-11180687,gohugoio/hugo,Go,57
-2293158,rapid7/metasploit-framework,Ruby,25
-5373551,libgdx/libgdx,Java,51
+1181927,bitcoin/bitcoin,C++,29
+62607227,yangshun/tech-interview-handbook,JavaScript,38
+843222,scikit-learn/scikit-learn,Python,21
+32484381,ripienaar/free-for-dev,HTML,22
+88011908,tuvtran/project-based-learning,,47
+15634981,godotengine/godot,C++,37
+7607075,CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,Jupyter Notebook,17
+207117992,viraptor/reverse-interview,,83
+16989371,MichMich/MagicMirror,JavaScript,15
 110211147,xkcoding/spring-boot-demo,Java,115
 842037,nim-lang/Nim,Nim,22
-238126205,2019ncovmemory/nCovMemory,JavaScript,41
-136667574,flutter/samples,Dart,27
-197081291,hecrj/iced,Rust,318
+105627846,reactos/reactos,C,13
+243894277,tokyo-metropolitan-gov/covid19,Vue,60
 13836499,raysan5/raylib,C,74
-171490796,lmoroney/dlaicourse,Jupyter Notebook,25
+171490796,lmoroney/dlaicourse,Jupyter Notebook,34
 240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,273
 247386519,covid19india/covid19india-react,JavaScript,206
-239283589,TimeToogo/ff-proxy,C,206
-248323802,senguptaumd/Background-Matting,Python,184
-250296192,nychealth/coronavirus-data,,69
+223149691,nzw9314/QuantumultX,,16
 249376133,afteracademy/nodejs-backend-architecture-typescript,TypeScript,127
-250190178,adi1090x/plymouth-themes,Shell,60
-250234485,ProteGO-app/android,Kotlin,31
+243712144,playbook-ui/playbook-ios,Swift,82
+234961536,vcg-uvic/viper,C++,86
+250585282,ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder,AppleScript,31
 250985619,pcomputo/Whole-Foods-Delivery-Slot,Python,20
-250248128,ProteGO-app/backend,Python,21
-250233412,ProteGO-app/ios,Swift,19
 249644776,ProteGO-app/specs,,18
