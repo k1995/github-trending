@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,286
+7569578,discourse/discourse,Ruby,288
 308770,heartcombo/devise,Ruby,118
 2293158,rapid7/metasploit-framework,Ruby,324
 3623050,Homebrew/homebrew-cask,Ruby,160
@@ -8,7 +8,7 @@ id,name,lang,new stars
 1725199,github/linguist,Ruby,95
 13761875,greatghoul/remote-working,Ruby,240
 2441517,puma/puma,Ruby,58
-535266,vcr/vcr,Ruby,40
+535266,vcr/vcr,Ruby,41
 33739333,thoughtbot/administrate,Ruby,37
 75785147,rails/webpacker,Ruby,74
 30337170,rmosolgo/graphql-ruby,Ruby,63
@@ -16,7 +16,7 @@ id,name,lang,new stars
 38867,svenfuchs/rails-i18n,Ruby,20
 1314319,instructure/canvas-lms,Ruby,78
 2050163,aws/aws-sdk-ruby,Ruby,13
-614070,rubygems/rubygems,Ruby,47
+614070,rubygems/rubygems,Ruby,48
 15171934,Homebrew/homebrew-cask-fonts,Ruby,35
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,35
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,69
