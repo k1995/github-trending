@@ -1,10 +1,10 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,39
-11180687,gohugoio/hugo,Go,77
+11180687,gohugoio/hugo,Go,65
 20904437,gin-gonic/gin,Go,35
 41912791,v2ray/v2ray-core,Go,41
-17803236,rclone/rclone,Go,500
-72495579,go-gitea/gitea,Go,17
+17803236,rclone/rclone,Go,656
+72495579,go-gitea/gitea,Go,21
 19994257,go-delve/delve,Go,7
 123572362,quii/learn-go-with-tests,Go,14
 19205896,restic/restic,Go,24
@@ -20,7 +20,7 @@ id,name,lang,new stars
 172292744,panjf2000/gnet,Go,33
 237523442,tailscale/tailscale,Go,63
 144849757,fanux/sealos,Go,3
-154643390,sundowndev/PhoneInfoga,Go,13
+154643390,sundowndev/PhoneInfoga,Go,10
 231086098,tj/gobinaries,Go,43
-50759993,jbowens/codenames,Go,5
-252813491,projectdiscovery/nuclei,Go,59
+50759993,jbowens/codenames,Go,7
+252813491,projectdiscovery/nuclei,Go,80
