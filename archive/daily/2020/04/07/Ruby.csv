@@ -2,8 +2,8 @@ id,name,lang,new stars
 7569578,discourse/discourse,Ruby,14
 27442967,fastlane/fastlane,Ruby,8
 8681349,huginn/huginn,Ruby,22
-52281283,tootsuite/mastodon,Ruby,16
-2293158,rapid7/metasploit-framework,Ruby,21
+52281283,tootsuite/mastodon,Ruby,11
+2293158,rapid7/metasploit-framework,Ruby,23
 1090311,elastic/logstash,Ruby,5
 361310,teamcapybara/capybara,Ruby,3
 1918677,fluent/fluentd,Ruby,1
@@ -15,7 +15,7 @@ id,name,lang,new stars
 355893,github/markup,Ruby,4
 75785147,rails/webpacker,Ruby,1
 2802565,doorkeeper-gem/doorkeeper,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,9
+202291859,chatwoot/chatwoot,Ruby,7
 1172597,thoughtbot/shoulda-matchers,Ruby,0
 14238949,elastic/elasticsearch-rails,Ruby,0
 11426474,github/choosealicense.com,Ruby,4
