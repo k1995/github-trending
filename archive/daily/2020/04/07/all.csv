@@ -1,26 +1,26 @@
 id,name,lang,new stars
-724712,rust-lang/rust,Rust,78
-1181927,bitcoin/bitcoin,C++,13
-62607227,yangshun/tech-interview-handbook,JavaScript,45
-843222,scikit-learn/scikit-learn,Python,31
-32484381,ripienaar/free-for-dev,HTML,42
-88011908,tuvtran/project-based-learning,,64
-15634981,godotengine/godot,C++,42
-7607075,CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,Jupyter Notebook,30
-207117992,viraptor/reverse-interview,,87
-16989371,MichMich/MagicMirror,JavaScript,24
+23088740,axios/axios,JavaScript,64
+10744183,netdata/netdata,C,30
+36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,113
+32484381,ripienaar/free-for-dev,HTML,88
+74293321,sveltejs/svelte,JavaScript,84
+17803236,rclone/rclone,Go,500
+33569135,ReactiveX/RxSwift,Swift,12
+137724480,hasura/graphql-engine,JavaScript,118
+207117992,viraptor/reverse-interview,,177
 110211147,xkcoding/spring-boot-demo,Java,104
-842037,nim-lang/Nim,Nim,36
-105627846,reactos/reactos,C,31
-243894277,tokyo-metropolitan-gov/covid19,Vue,39
-13836499,raysan5/raylib,C,69
-171490796,lmoroney/dlaicourse,Jupyter Notebook,32
-240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,183
-247386519,covid19india/covid19india-react,JavaScript,157
+1049095,kivy/kivy,Python,10
+6297520,quantopian/zipline,Python,14
+30907774,spmallick/learnopencv,Jupyter Notebook,23
+103126070,snail007/goproxy,Go,24
+34407651,Azure/azure-quickstart-templates,PowerShell,8
+79055279,munificent/craftinginterpreters,HTML,73
 223149691,nzw9314/QuantumultX,,21
+252383936,vahidk/EffectivePyTorch,,125
+248323802,senguptaumd/Background-Matting,Python,180
+247188639,pdown2020/pdown,,24
 249376133,afteracademy/nodejs-backend-architecture-typescript,TypeScript,115
 243712144,playbook-ui/playbook-ios,Swift,70
-234961536,vcg-uvic/viper,C++,66
+216236917,bjmashibing/InternetArchitect,CSS,6
 250585282,ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder,AppleScript,43
-250985619,pcomputo/Whole-Foods-Delivery-Slot,Python,35
-249644776,ProteGO-app/specs,,11
+178549777,rojter-tech/pluradl.py,Python,11
