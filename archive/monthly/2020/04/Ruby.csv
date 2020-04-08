@@ -1,11 +1,11 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,291
+7569578,discourse/discourse,Ruby,293
 308770,heartcombo/devise,Ruby,123
-2293158,rapid7/metasploit-framework,Ruby,330
+2293158,rapid7/metasploit-framework,Ruby,331
 3623050,Homebrew/homebrew-cask,Ruby,163
-2203645,CocoaPods/CocoaPods,Ruby,85
-88740103,postalhq/postal,Ruby,84
-810796,sferik/rails_admin,Ruby,29
+2203645,CocoaPods/CocoaPods,Ruby,86
+88740103,postalhq/postal,Ruby,82
+810796,sferik/rails_admin,Ruby,28
 18486300,lewagon/setup,Ruby,242
 13761875,greatghoul/remote-working,Ruby,254
 75785147,rails/webpacker,Ruby,71
@@ -15,7 +15,7 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,49
 4447023,sharetribe/sharetribe,Ruby,16
 134949638,hoochanlon/fq-book,Ruby,57
-15171934,Homebrew/homebrew-cask-fonts,Ruby,36
+15171934,Homebrew/homebrew-cask-fonts,Ruby,35
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,35
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,76
 200302808,github/view_component,Ruby,175

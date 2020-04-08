@@ -1,5 +1,5 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,16
+17620347,dotnet/aspnetcore,C#,14
 70104825,dotnet-architecture/eShopOnContainers,C#,26
 16157746,dotnet/efcore,C#,7
 3476845,JamesNK/Newtonsoft.Json,C#,4
@@ -7,20 +7,20 @@ id,name,lang,new stars
 31335300,PrismLibrary/Prism,C#,2
 41822320,RicoSuter/NSwag,C#,8
 68730444,microsoft/BotBuilder-Samples,C#,5
-699689,mongodb/mongo-csharp-driver,C#,3
+699689,mongodb/mongo-csharp-driver,C#,1
 134707912,dotnetcore/WTM,C#,5
 132453438,unoplatform/uno,C#,2
-78049091,aelassas/Wexflow,C#,26
+78049091,aelassas/Wexflow,C#,23
 23891194,Azure/azure-powershell,C#,5
-145101484,anjoy8/Blog.Core,C#,7
+145101484,anjoy8/Blog.Core,C#,6
 2928944,Azure/azure-sdk-for-net,C#,2
 119716732,tonerdo/coverlet,C#,3
-12399790,GitTools/GitVersion,C#,2
+12399790,GitTools/GitVersion,C#,3
 166270225,dotnet-presentations/blazor-workshop,C#,6
 119571446,dotnet/samples,C#,0
 137433882,Unity-Technologies/arfoundation-samples,C#,5
-243854166,dotnet/tye,C#,10
+243854166,dotnet/tye,C#,7
 63984307,dotnet/sdk,C#,2
 250684236,kwsch/NHSE,C#,17
-250386236,nicolasdeory/leagueoflegends-led,C#,4
-252350978,kazumihirose/Covid19Radar,C#,2
+250386236,nicolasdeory/leagueoflegends-led,C#,3
+252350978,kazumihirose/Covid19Radar,C#,3
