@@ -1,6 +1,6 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,14
-27442967,fastlane/fastlane,Ruby,8
+7569578,discourse/discourse,Ruby,12
+27442967,fastlane/fastlane,Ruby,9
 8681349,huginn/huginn,Ruby,22
 52281283,tootsuite/mastodon,Ruby,11
 2293158,rapid7/metasploit-framework,Ruby,23
@@ -12,15 +12,15 @@ id,name,lang,new stars
 6529205,varvet/pundit,Ruby,4
 21829,thoughtbot/factory_bot,Ruby,1
 18486300,lewagon/setup,Ruby,121
-355893,github/markup,Ruby,4
+355893,github/markup,Ruby,3
 75785147,rails/webpacker,Ruby,1
 2802565,doorkeeper-gem/doorkeeper,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,7
+202291859,chatwoot/chatwoot,Ruby,10
 1172597,thoughtbot/shoulda-matchers,Ruby,0
 14238949,elastic/elasticsearch-rails,Ruby,0
 11426474,github/choosealicense.com,Ruby,4
 34840276,elastic/ansible-elasticsearch,Ruby,2
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,8
 5188602,mhenrixon/sidekiq-unique-jobs,Ruby,2
-29151578,rswag/rswag,Ruby,2
+29151578,rswag/rswag,Ruby,3
 237482582,blindsidenetworks/scalelite,Ruby,8
