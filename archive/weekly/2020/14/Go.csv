@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,252
 11180687,gohugoio/hugo,Go,279
-20904437,gin-gonic/gin,Go,270
+20904437,gin-gonic/gin,Go,273
 11225014,etcd-io/etcd,Go,130
 17728164,hashicorp/terraform,Go,69
 17803236,rclone/rclone,Go,1056
@@ -11,11 +11,11 @@ id,name,lang,new stars
 27729907,grpc/grpc-go,Go,72
 19205896,restic/restic,Go,93
 129717717,grafana/loki,Go,62
-169948217,crawlab-team/crawlab,Go,617
+169948217,crawlab-team/crawlab,Go,618
 81355383,mongodb/mongo-go-driver,Go,38
 93444615,terraform-providers/terraform-provider-aws,Go,36
 118105436,golang-migrate/migrate,Go,57
-234231371,gofiber/fiber,Go,319
+234231371,gofiber/fiber,Go,321
 134012064,pion/webrtc,Go,115
 26639347,OJ/gobuster,Go,47
 67793333,cortexproject/cortex,Go,175
