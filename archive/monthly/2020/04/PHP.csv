@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,654
-3482588,danielmiessler/SecLists,PHP,530
-1864363,composer/composer,PHP,344
-7548986,laravel/framework,PHP,341
+1863329,laravel/laravel,PHP,662
+1864363,composer/composer,PHP,346
+7548986,laravel/framework,PHP,330
 2889328,WordPress/WordPress,PHP,164
-26730195,CachetHQ/Cachet,PHP,152
-14259390,Maatwebsite/Laravel-Excel,PHP,139
-48796179,z-song/laravel-admin,PHP,200
+47495360,phanan/koel,PHP,177
+7704544,Intervention/image,PHP,123
+48796179,z-song/laravel-admin,PHP,199
 11467667,typecho/typecho,PHP,180
-7122594,directus/directus,PHP,550
+7122594,directus/directus,PHP,548
+364315,nrk/predis,PHP,57
 2179920,woocommerce/woocommerce,PHP,87
 3118246,mledoze/countries,PHP,102
 12594863,kalcaddle/KodExplorer,PHP,141
@@ -16,11 +16,11 @@ id,name,lang,new stars
 60491949,fecshop/yii2_fecshop,PHP,205
 33916850,spatie/laravel-medialibrary,PHP,79
 439861,moodle/moodle,PHP,89
-170355508,livewire/livewire,PHP,629
-1740040,pfsense/pfsense,PHP,74
+1740040,pfsense/pfsense,PHP,75
 31541210,aimeos/aimeos-laravel,PHP,87
+159606650,hyperf/hyperf,PHP,135
 69691727,pmmp/PocketMine-MP,PHP,63
-134953788,mashirozx/Sakura,PHP,146
+134953788,mashirozx/Sakura,PHP,145
 93982796,Tuhinshubhra/RED_HAWK,PHP,48
 57463067,AzuraCast/AzuraCast,PHP,55
 189104054,laravel/ui,PHP,58
