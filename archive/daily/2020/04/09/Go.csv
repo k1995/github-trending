@@ -1,6 +1,6 @@
 id,name,lang,new stars
 74175805,istio/istio,Go,16
-14125254,hashicorp/consul,Go,14
+14125254,hashicorp/consul,Go,13
 13855476,jinzhu/gorm,Go,24
 31288958,hashicorp/vault,Go,20
 13628513,sirupsen/logrus,Go,14
@@ -8,19 +8,19 @@ id,name,lang,new stars
 54378638,github/gh-ost,Go,13
 44350607,kubernetes/dashboard,Go,14
 4059138,dgrijalva/jwt-go,Go,15
-36653430,hashicorp/nomad,Go,8
+36653430,hashicorp/nomad,Go,10
 10270722,google/go-github,Go,4
-169948217,crawlab-team/crawlab,Go,174
-109162639,thanos-io/thanos,Go,10
+169948217,crawlab-team/crawlab,Go,171
+109162639,thanos-io/thanos,Go,13
 40916314,dexidp/dex,Go,2
-62799996,fluxcd/flux,Go,13
+62799996,fluxcd/flux,Go,12
 118105436,golang-migrate/migrate,Go,10
-12332444,onsi/ginkgo,Go,3
+12332444,onsi/ginkgo,Go,4
 113086028,virtual-kubelet/virtual-kubelet,Go,5
-16607984,DATA-DOG/go-sqlmock,Go,9
+16607984,DATA-DOG/go-sqlmock,Go,8
 67828134,cri-o/cri-o,Go,3
 134539560,weaveworks/eksctl,Go,3
 156681830,ffuf/ffuf,Go,25
-144849757,fanux/sealos,Go,17
+144849757,fanux/sealos,Go,16
 107597148,aws/amazon-vpc-cni-k8s,Go,4
 250927119,shomali11/go-interview,Go,40

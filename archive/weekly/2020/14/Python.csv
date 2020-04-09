@@ -1,7 +1,7 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,2311
-54346799,public-apis/public-apis,Python,1948
-1039520,ytdl-org/youtube-dl,Python,405
+54346799,public-apis/public-apis,Python,1872
+1039520,ytdl-org/youtube-dl,Python,410
 33015583,keras-team/keras,Python,183
 843222,scikit-learn/scikit-learn,Python,151
 28751632,0xAX/linux-insides,Python,78
@@ -13,7 +13,7 @@ id,name,lang,new stars
 6297520,quantopian/zipline,Python,93
 38696925,python-telegram-bot/python-telegram-bot,Python,94
 8162715,mirumee/saleor,Python,85
-152166877,d2l-ai/d2l-en,Python,309
+152166877,d2l-ai/d2l-en,Python,311
 181746604,xingyizhou/CenterNet,Python,76
 168799526,rwightman/pytorch-image-models,Python,137
 215890886,google-research/text-to-text-transfer-transformer,Python,95
