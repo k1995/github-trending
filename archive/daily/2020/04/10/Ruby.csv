@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,13
+8681349,huginn/huginn,Ruby,11
 13840241,freeCodeCamp/devdocs,Ruby,14
-73648678,thepracticaldev/dev.to,Ruby,11
+73648678,thepracticaldev/dev.to,Ruby,10
 2203645,CocoaPods/CocoaPods,Ruby,6
 3314,spree/spree,Ruby,3
 3195124,mperham/sidekiq,Ruby,5
 88740103,postalhq/postal,Ruby,5
 810796,sferik/rails_admin,Ruby,2
 2441517,puma/puma,Ruby,2
-75785147,rails/webpacker,Ruby,1
+75785147,rails/webpacker,Ruby,2
 16994115,CanCanCommunity/cancancan,Ruby,2
 2802565,doorkeeper-gem/doorkeeper,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,4
@@ -19,7 +19,7 @@ id,name,lang,new stars
 2813939,randym/axlsx,Ruby,0
 3654364,roo-rb/roo,Ruby,1
 138776049,sorbet/sorbet,Ruby,2
-39706711,hartator/wayback-machine-downloader,Ruby,5
+39706711,hartator/wayback-machine-downloader,Ruby,4
 11426474,github/choosealicense.com,Ruby,2
 49878403,zendesk/ruby-kafka,Ruby,2
 70830890,bigbluebutton/greenlight,Ruby,4

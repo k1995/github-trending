@@ -10,7 +10,7 @@ id,name,lang,new stars
 32873313,systemd/systemd,C,3
 75811015,Tencent/xLua,C,5
 70127218,espressif/arduino-esp32,C,6
-41752673,stanfordnlp/GloVe,C,4
+41752673,stanfordnlp/GloVe,C,3
 39242894,coturn/coturn,C,11
 37060852,betaflight/betaflight,C,3
 59771425,zephyrproject-rtos/zephyr,C,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 26537135,u-boot/u-boot,C,1
 253600944,shiyanhui/libcsp,C,78
 241659610,zxystd/itlwm,C,11
-253628362,bats3c/Ghost-In-The-Logs,C,45
+253628362,bats3c/Ghost-In-The-Logs,C,47
