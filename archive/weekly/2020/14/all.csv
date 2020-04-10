@@ -1,21 +1,25 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,2034
-83222441,donnemartin/system-design-primer,Python,2311
-35955666,jlevy/the-art-of-command-line,,1588
-76838017,iina/iina,Swift,503
-110211147,xkcoding/spring-boot-demo,Java,684
-83050680,eclipse-theia/theia,TypeScript,1685
-15225670,jitsi/jitsi-meet,JavaScript,1177
-182644013,foxlet/macOS-Simple-KVM,Shell,119
-197081291,hecrj/iced,Rust,1224
-13836499,raysan5/raylib,C,358
-149691206,sjsdfg/effective-java-3rd-chinese,,409
-171490796,lmoroney/dlaicourse,Jupyter Notebook,140
-251433207,oakes/vim_cubed,Nim,489
-247386519,covid19india/covid19india-react,JavaScript,995
-250729885,austingebauer/go-leetcode,Go,454
-249599851,wangshub/RL-Stock,Jupyter Notebook,273
-141265446,jitsi/docker-jitsi-meet,Lua,238
-250386901,ImperialCollegeLondon/covid19model,Jupyter Notebook,271
-216236917,bjmashibing/InternetArchitect,CSS,178
-250340613,Cederb/Faceshield.nu,G-code,41
+13491895,EbookFoundation/free-programming-books,,1482
+83222441,donnemartin/system-design-primer,Python,1799
+35955666,jlevy/the-art-of-command-line,,1087
+126577260,trekhleb/javascript-algorithms,JavaScript,1071
+36040894,gatsbyjs/gatsby,JavaScript,221
+76838017,iina/iina,Swift,325
+184456251,microsoft/PowerToys,C++,604
+110211147,xkcoding/spring-boot-demo,Java,756
+83050680,eclipse-theia/theia,TypeScript,1429
+15225670,jitsi/jitsi-meet,JavaScript,1164
+182644013,foxlet/macOS-Simple-KVM,Shell,93
+197081291,hecrj/iced,Rust,1192
+13836499,raysan5/raylib,C,328
+149691206,sjsdfg/effective-java-3rd-chinese,,373
+171490796,lmoroney/dlaicourse,Jupyter Notebook,135
+251433207,oakes/vim_cubed,Nim,289
+247386519,covid19india/covid19india-react,JavaScript,864
+129815042,thu-ml/tianshou,Python,355
+250729885,austingebauer/go-leetcode,Go,419
+249599851,wangshub/RL-Stock,Jupyter Notebook,228
+141265446,jitsi/docker-jitsi-meet,Lua,222
+250386901,ImperialCollegeLondon/covid19model,Jupyter Notebook,237
+216236917,bjmashibing/InternetArchitect,CSS,190
+250340613,Cederb/Faceshield.nu,G-code,38
