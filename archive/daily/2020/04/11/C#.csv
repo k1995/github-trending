@@ -1,13 +1,13 @@
 id,name,lang,new stars
 70104825,dotnet-architecture/eShopOnContainers,C#,19
 13428264,ShareX/ShareX,C#,23
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,10
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,11
 791611,mono/mono,C#,4
 132021166,dotnet/machinelearning,C#,6
 28232663,dotnet/orleans,C#,3
 75990888,dotnet/csharplang,C#,12
 153427475,Unity-Technologies/FPSSample,C#,6
-50605426,microsoft/MixedRealityToolkit-Unity,C#,2
+50605426,microsoft/MixedRealityToolkit-Unity,C#,3
 203892454,kgrzybek/modular-monolith-with-ddd,C#,7
 38007053,dotnet/docfx,C#,1
 121049045,skoruba/IdentityServer4.Admin,C#,10
@@ -18,7 +18,7 @@ id,name,lang,new stars
 137433882,Unity-Technologies/arfoundation-samples,C#,4
 243854166,dotnet/tye,C#,49
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,2
-232416701,csinn/CSharp-From-Zero-To-Hero,C#,55
+232416701,csinn/CSharp-From-Zero-To-Hero,C#,56
 213233840,exelix11/SysDVR,C#,7
 92100888,sgermosen/xReader,C#,7
 94624438,sgermosen/TorneoPredicciones,C#,7
