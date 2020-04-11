@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,1556
-76838017,iina/iina,Swift,244
-17803236,rclone/rclone,Go,1108
-162279822,agalwood/Motrix,JavaScript,459
-184456251,microsoft/PowerToys,C++,703
-110211147,xkcoding/spring-boot-demo,Java,717
-83050680,eclipse-theia/theia,TypeScript,1194
-15225670,jitsi/jitsi-meet,JavaScript,1118
-47690142,CoatiSoftware/Sourcetrail,C++,73
-67778031,seaswalker/spring-analysis,Java,454
-34407651,Azure/azure-quickstart-templates,PowerShell,185
-169948217,crawlab-team/crawlab,Go,689
-197081291,hecrj/iced,Rust,776
-13836499,raysan5/raylib,C,284
-149691206,sjsdfg/effective-java-3rd-chinese,,348
-240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,1799
+13491895,EbookFoundation/free-programming-books,,1664
+35955666,jlevy/the-art-of-command-line,,1131
+724712,rust-lang/rust,Rust,297
+191113739,0voice/interview_internal_reference,Python,508
+67962648,vuetifyjs/vuetify,TypeScript,205
+162279822,agalwood/Motrix,JavaScript,478
+184456251,microsoft/PowerToys,C++,752
+188660663,CorentinJ/Real-Time-Voice-Cloning,Python,218
+110211147,xkcoding/spring-boot-demo,Java,722
+83050680,eclipse-theia/theia,TypeScript,1201
+15225670,jitsi/jitsi-meet,JavaScript,1149
+67778031,seaswalker/spring-analysis,Java,471
+34407651,Azure/azure-quickstart-templates,PowerShell,188
+169948217,crawlab-team/crawlab,Go,700
+197081291,hecrj/iced,Rust,760
+13836499,raysan5/raylib,C,289
+240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,1808
 171490796,lmoroney/dlaicourse,Jupyter Notebook,130
-247386519,covid19india/covid19india-react,JavaScript,780
-237523442,tailscale/tailscale,Go,203
-240215314,docker/awesome-compose,HTML,893
-141265446,jitsi/docker-jitsi-meet,Lua,215
-147832355,avehtari/BDA_course_Aalto,TeX,237
-250386901,ImperialCollegeLondon/covid19model,Jupyter Notebook,193
-216236917,bjmashibing/InternetArchitect,CSS,193
-250671863,UCSD-AI4H/COVID-CT,Python,133
+247386519,covid19india/covid19india-react,JavaScript,794
+240215314,docker/awesome-compose,HTML,933
+141265446,jitsi/docker-jitsi-meet,Lua,218
+250386901,ImperialCollegeLondon/covid19model,Jupyter Notebook,194
+250296192,nychealth/coronavirus-data,,170
+250671863,UCSD-AI4H/COVID-CT,Python,137
+250316182,stgeorgesepiscopal/google-meet-grid-view-extension,JavaScript,57
