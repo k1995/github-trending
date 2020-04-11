@@ -1,19 +1,19 @@
 id,name,lang,new stars
 23096959,golang/go,Go,345
-20580498,kubernetes/kubernetes,Go,277
+20580498,kubernetes/kubernetes,Go,281
 21540759,avelino/awesome-go,Go,253
 11180687,gohugoio/hugo,Go,272
 20904437,gin-gonic/gin,Go,282
-11225014,etcd-io/etcd,Go,149
+11225014,etcd-io/etcd,Go,150
 17803236,rclone/rclone,Go,1096
 13855476,jinzhu/gorm,Go,117
-13628513,sirupsen/logrus,Go,196
+13628513,sirupsen/logrus,Go,199
 27729907,grpc/grpc-go,Go,63
 7877397,jmoiron/sqlx,Go,53
 4059138,dgrijalva/jwt-go,Go,72
 169948217,crawlab-team/crawlab,Go,689
-81355383,mongodb/mongo-go-driver,Go,46
-167304464,cortexlabs/cortex,Go,133
+81355383,mongodb/mongo-go-driver,Go,48
+167304464,cortexlabs/cortex,Go,136
 118105436,golang-migrate/migrate,Go,58
 134012064,pion/webrtc,Go,101
 26639347,OJ/gobuster,Go,52
@@ -22,5 +22,5 @@ id,name,lang,new stars
 237523442,tailscale/tailscale,Go,202
 144849757,fanux/sealos,Go,87
 154643390,sundowndev/PhoneInfoga,Go,40
-250729885,austingebauer/go-leetcode,Go,371
-242329748,Jrohy/trojan,Go,120
+250729885,austingebauer/go-leetcode,Go,372
+242329748,Jrohy/trojan,Go,129

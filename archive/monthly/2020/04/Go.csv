@@ -1,9 +1,9 @@
 id,name,lang,new stars
 23096959,golang/go,Go,1472
 20580498,kubernetes/kubernetes,Go,1113
-21540759,avelino/awesome-go,Go,928
+21540759,avelino/awesome-go,Go,933
 20904437,gin-gonic/gin,Go,998
-6838921,prometheus/prometheus,Go,603
+6838921,prometheus/prometheus,Go,605
 41986369,pingcap/tidb,Go,411
 8989842,unknwon/the-way-to-go_ZH_CN,Go,449
 17803236,rclone/rclone,Go,1495
@@ -15,8 +15,8 @@ id,name,lang,new stars
 169948217,crawlab-team/crawlab,Go,963
 67938435,erroneousboat/slack-term,Go,241
 120156076,cloudreve/Cloudreve,Go,873
-134012064,pion/webrtc,Go,394
 62712899,AdguardTeam/AdGuardHome,Go,363
+134012064,pion/webrtc,Go,394
 26661222,tinode/chat,Go,273
 26639347,OJ/gobuster,Go,185
 53737001,senghoo/golang-design-pattern,Go,468
