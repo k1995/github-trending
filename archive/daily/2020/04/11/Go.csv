@@ -1,11 +1,11 @@
 id,name,lang,new stars
-23096959,golang/go,Go,62
+23096959,golang/go,Go,58
 7691631,moby/moby,Go,19
 21540759,avelino/awesome-go,Go,51
 13807606,junegunn/fzf,Go,48
 42408804,containous/traefik,Go,35
 29261473,minio/minio,Go,26
-13628513,sirupsen/logrus,Go,84
+13628513,sirupsen/logrus,Go,91
 70202506,golang/dep,Go,5
 66573241,hyperledger/fabric,Go,11
 52034309,uber-go/zap,Go,10
@@ -15,8 +15,8 @@ id,name,lang,new stars
 87617508,casbin/casbin,Go,11
 10270722,google/go-github,Go,5
 46089560,containerd/containerd,Go,9
-222172014,slackhq/nebula,Go,212
-167304464,cortexlabs/cortex,Go,61
+222172014,slackhq/nebula,Go,269
+167304464,cortexlabs/cortex,Go,62
 120156076,cloudreve/Cloudreve,Go,25
 48714685,open-policy-agent/opa,Go,7
 92648433,gwuhaolin/livego,Go,21

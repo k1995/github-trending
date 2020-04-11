@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,164
+1863329,laravel/laravel,PHP,162
 1129010,blueimp/jQuery-File-Upload,PHP,22
 3482588,danielmiessler/SecLists,PHP,149
 7548986,laravel/framework,PHP,81
@@ -8,7 +8,7 @@ id,name,lang,new stars
 926544,slimphp/Slim,PHP,26
 2884111,magento/magento2,PHP,24
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,24
-2179920,woocommerce/woocommerce,PHP,24
+2179920,woocommerce/woocommerce,PHP,23
 4242230,PHPOffice/PHPWord,PHP,18
 3217621,phpmyadmin/phpmyadmin,PHP,24
 3118246,mledoze/countries,PHP,39
@@ -21,6 +21,6 @@ id,name,lang,new stars
 148129143,bagisto/bagisto,PHP,32
 6322699,FreshRSS/FreshRSS,PHP,43
 79166184,cretueusebiu/laravel-vue-spa,PHP,28
-44733816,privacy-protection-tools/anti-AD,PHP,78
+44733816,privacy-protection-tools/anti-AD,PHP,77
 204114509,solstice23/argon-theme,PHP,39
-249911962,drehimself/laravel-movies-example,PHP,20
+249911962,drehimself/laravel-movies-example,PHP,23
