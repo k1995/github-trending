@@ -1,16 +1,16 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,21
-70104825,dotnet-architecture/eShopOnContainers,C#,24
+17620347,dotnet/aspnetcore,C#,20
+70104825,dotnet-architecture/eShopOnContainers,C#,22
 64713769,NickeManarin/ScreenToGif,C#,13
 791611,mono/mono,C#,5
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,11
 12201538,aspnetboilerplate/aspnetboilerplate,C#,5
-75990888,dotnet/csharplang,C#,12
-54213490,xamarin/Xamarin.Forms,C#,5
+75990888,dotnet/csharplang,C#,9
+54213490,xamarin/Xamarin.Forms,C#,2
 69673033,ardalis/CleanArchitecture,C#,6
-42749841,Live-Charts/Live-Charts,C#,5
+42749841,Live-Charts/Live-Charts,C#,4
 31335300,PrismLibrary/Prism,C#,5
-50605426,microsoft/MixedRealityToolkit-Unity,C#,5
+50605426,microsoft/MixedRealityToolkit-Unity,C#,3
 27251463,QuantConnect/Lean,C#,6
 27703983,StockSharp/StockSharp,C#,6
 203892454,kgrzybek/modular-monolith-with-ddd,C#,9
@@ -20,7 +20,7 @@ id,name,lang,new stars
 159548561,grpc/grpc-dotnet,C#,4
 2928944,Azure/azure-sdk-for-net,C#,1
 115516512,ivanpaulovich/clean-architecture-manga,C#,4
-51917920,rotorgames/Rg.Plugins.Popup,C#,2
+51917920,rotorgames/Rg.Plugins.Popup,C#,1
 243854166,dotnet/tye,C#,49
 184286875,actions/runner,C#,4
-131145697,Azure-Samples/cognitive-services-speech-sdk,C#,1
+131145697,Azure-Samples/cognitive-services-speech-sdk,C#,2
