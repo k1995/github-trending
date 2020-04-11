@@ -10,8 +10,8 @@ id,name,lang,new stars
 69673033,ardalis/CleanArchitecture,C#,7
 42749841,Live-Charts/Live-Charts,C#,4
 31335300,PrismLibrary/Prism,C#,4
-50605426,microsoft/MixedRealityToolkit-Unity,C#,2
-27251463,QuantConnect/Lean,C#,5
+50605426,microsoft/MixedRealityToolkit-Unity,C#,3
+27251463,QuantConnect/Lean,C#,4
 27703983,StockSharp/StockSharp,C#,4
 203892454,kgrzybek/modular-monolith-with-ddd,C#,8
 68730444,microsoft/BotBuilder-Samples,C#,3
@@ -19,7 +19,7 @@ id,name,lang,new stars
 23891194,Azure/azure-powershell,C#,1
 159548561,grpc/grpc-dotnet,C#,3
 2928944,Azure/azure-sdk-for-net,C#,1
-115516512,ivanpaulovich/clean-architecture-manga,C#,2
+115516512,ivanpaulovich/clean-architecture-manga,C#,3
 51917920,rotorgames/Rg.Plugins.Popup,C#,2
 243854166,dotnet/tye,C#,50
 184286875,actions/runner,C#,4

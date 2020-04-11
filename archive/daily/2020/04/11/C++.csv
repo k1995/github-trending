@@ -1,14 +1,14 @@
 id,name,lang,new stars
-12791642,BVLC/caffe,C++,13
+12791642,BVLC/caffe,C++,12
 27729880,grpc/grpc,C++,15
 184456251,microsoft/PowerToys,C++,212
 22394357,osquery/osquery,C++,3
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,11
 6934395,facebook/rocksdb,C++,8
-39840932,google/googletest,C++,35
+39840932,google/googletest,C++,37
 19953044,google/flatbuffers,C++,6
-31522041,vnpy/vnpy,C++,5
-1062572,catchorg/Catch2,C++,7
+31522041,vnpy/vnpy,C++,7
+1062572,catchorg/Catch2,C++,8
 27500243,google/libphonenumber,C++,5
 6520784,RPCS3/rpcs3,C++,1
 38581626,pybind/pybind11,C++,10
