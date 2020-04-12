@@ -6,15 +6,15 @@ id,name,lang,new stars
 6051812,gorilla/mux,Go,18
 13624859,gorilla/websocket,Go,25
 85371712,txthinking/brook,Go,7
-66573241,hyperledger/fabric,Go,13
+66573241,hyperledger/fabric,Go,15
 122734569,iawia002/annie,Go,28
-33258973,influxdata/telegraf,Go,17
+33258973,influxdata/telegraf,Go,18
 136815833,Dreamacro/clash,Go,74
 6443435,nats-io/nats-server,Go,19
 116576783,bettercap/bettercap,Go,9
 136505169,tinygo-org/tinygo,Go,19
-222172014,slackhq/nebula,Go,275
-167304464,cortexlabs/cortex,Go,80
+222172014,slackhq/nebula,Go,298
+167304464,cortexlabs/cortex,Go,89
 140680839,MichaelMure/git-bug,Go,333
 62712899,AdguardTeam/AdGuardHome,Go,35
 10721619,hajimehoshi/ebiten,Go,7
@@ -22,5 +22,5 @@ id,name,lang,new stars
 154643390,sundowndev/PhoneInfoga,Go,9
 80510806,tomnomnom/httprobe,Go,11
 247032621,wenjianzhang/go-admin,Go,14
-242329748,Jrohy/trojan,Go,93
-166515398,harrybrwn/apizza,Go,188
+242329748,Jrohy/trojan,Go,99
+166515398,harrybrwn/apizza,Go,190
