@@ -1,6 +1,5 @@
 id,name,lang,new stars
 23096959,golang/go,Go,1496
-20580498,kubernetes/kubernetes,Go,1136
 21540759,avelino/awesome-go,Go,947
 20904437,gin-gonic/gin,Go,1023
 6838921,prometheus/prometheus,Go,609
@@ -8,19 +7,20 @@ id,name,lang,new stars
 8989842,unknwon/the-way-to-go_ZH_CN,Go,457
 17803236,rclone/rclone,Go,1542
 134017286,jesseduffield/lazygit,Go,905
-103126070,snail007/goproxy,Go,422
 136815833,Dreamacro/clash,Go,1067
 125642885,talk-go/night,Go,520
 55850689,open-falcon/falcon-plus,Go,210
 169948217,crawlab-team/crawlab,Go,967
 67938435,erroneousboat/slack-term,Go,245
+54453471,appleboy/gorush,Go,251
 120156076,cloudreve/Cloudreve,Go,886
-62712899,AdguardTeam/AdGuardHome,Go,376
 134012064,pion/webrtc,Go,403
 26661222,tinode/chat,Go,277
 26639347,OJ/gobuster,Go,187
 53737001,senghoo/golang-design-pattern,Go,474
 121746465,eddycjy/go-gin-example,Go,212
 92648433,gwuhaolin/livego,Go,212
+66505292,GoesToEleven/golang-web-dev,Go,86
 205679232,flipped-aurora/gin-vue-admin,Go,360
 128950203,Rhymen/go-whatsapp,Go,95
+208908993,GoogleContainerTools/kpt,Go,381
