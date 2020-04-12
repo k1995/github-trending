@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,26
+1863329,laravel/laravel,PHP,25
 1129010,blueimp/jQuery-File-Upload,PHP,3
-7548986,laravel/framework,PHP,6
+7548986,laravel/framework,PHP,5
 3431193,yiisoft/yii2,PHP,3
 60243197,nextcloud/server,PHP,14
 8678290,barryvdh/laravel-ide-helper,PHP,4
@@ -10,7 +10,7 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,7
 51325497,php-ai/php-ml,PHP,2
 13612575,fruitcake/laravel-cors,PHP,8
-21298446,firefly-iii/firefly-iii,PHP,10
+21298446,firefly-iii/firefly-iii,PHP,8
 14346979,snipe/snipe-it,PHP,6
 12204147,mautic/mautic,PHP,3
 100355112,yansongda/pay,PHP,5
