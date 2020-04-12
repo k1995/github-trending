@@ -1,19 +1,19 @@
 id,name,lang,new stars
 156018,antirez/redis,C,665
-111583593,Genymobile/scrcpy,C,1641
+111583593,Genymobile/scrcpy,C,1647
 10446890,bilibili/ijkplayer,C,302
-1614410,FFmpeg/FFmpeg,C,473
-13233158,obsproject/obs-studio,C,1527
-62156403,QSCTech/zju-icicles,C,1534
+1614410,FFmpeg/FFmpeg,C,474
+13233158,obsproject/obs-studio,C,1505
+62156403,QSCTech/zju-icicles,C,1528
 102578345,coolsnowwolf/lede,C,1254
 3714900,arut/nginx-rtmp-module,C,211
 613829,openresty/lua-nginx-module,C,107
 161292091,Tencent/matrix,C,177
 21294600,huangz1990/redis-3.0-annotated,C,143
 90320494,ish-app/ish,C,702
-3319040,id-Software/DOOM,C,228
+3319040,id-Software/DOOM,C,229
 4151993,OpenVPN/openvpn,C,146
-39242894,coturn/coturn,C,292
+39242894,coturn/coturn,C,293
 1979797,FreeRDP/FreeRDP,C,246
 13836499,raysan5/raylib,C,655
 16734696,meetecho/janus-gateway,C,203
@@ -21,6 +21,6 @@ id,name,lang,new stars
 211381291,ExistentialAudio/BlackHole,C,447
 179354282,acidanthera/OpenCorePkg,C,395
 205810121,CloverHackyColor/CloverBootloader,C,433
-237728012,TheWanderingCoel/Trojan-Qt5,C,584
+237728012,TheWanderingCoel/Trojan-Qt5,C,586
 935735,umlaeute/v4l2loopback,C,204
 117944122,LukeSmithxyz/st,C,84
