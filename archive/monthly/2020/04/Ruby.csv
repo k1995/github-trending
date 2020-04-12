@@ -1,13 +1,13 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,320
-308770,heartcombo/devise,Ruby,123
-2293158,rapid7/metasploit-framework,Ruby,335
+7569578,discourse/discourse,Ruby,323
+308770,heartcombo/devise,Ruby,124
+2293158,rapid7/metasploit-framework,Ruby,340
 3623050,Homebrew/homebrew-cask,Ruby,178
 2203645,CocoaPods/CocoaPods,Ruby,93
-585285,gollum/gollum,Ruby,84
+585285,gollum/gollum,Ruby,86
 3195124,mperham/sidekiq,Ruby,84
 88740103,postalhq/postal,Ruby,101
-810796,sferik/rails_admin,Ruby,31
+810796,sferik/rails_admin,Ruby,32
 18486300,lewagon/setup,Ruby,236
 26018608,github-changelog-generator/github-changelog-generator,Ruby,78
 75785147,rails/webpacker,Ruby,77
@@ -20,7 +20,7 @@ id,name,lang,new stars
 15171934,Homebrew/homebrew-cask-fonts,Ruby,44
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,32
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,79
-200302808,github/view_component,Ruby,191
+200302808,github/view_component,Ruby,192
 121513081,tradingview/charting-library-examples,Ruby,17
-70830890,bigbluebutton/greenlight,Ruby,92
+70830890,bigbluebutton/greenlight,Ruby,93
 40557543,StevenNunez/chicken_Ser,Ruby,0
