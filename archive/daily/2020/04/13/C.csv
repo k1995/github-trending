@@ -1,13 +1,13 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,63
+111583593,Genymobile/scrcpy,C,158
 569041,curl/curl,C,18
 15337142,micropython/micropython,C,18
-102578345,coolsnowwolf/lede,C,110
-66150122,jarun/nnn,C,5
-105627846,reactos/reactos,C,29
-40217904,swaywm/sway,C,9
-3199002,raspberrypi/linux,C,8
-78281075,spacehuhn/esp8266_deauther,C,9
+102578345,coolsnowwolf/lede,C,102
+66150122,jarun/nnn,C,4
+105627846,reactos/reactos,C,44
+40217904,swaywm/sway,C,26
+3199002,raspberrypi/linux,C,10
+78281075,spacehuhn/esp8266_deauther,C,12
 3299208,videolan/vlc,C,8
 437011,openzfs/zfs,C,7
 70127218,espressif/arduino-esp32,C,9
@@ -18,9 +18,9 @@ id,name,lang,new stars
 37060852,betaflight/betaflight,C,6
 60667730,littlevgl/lvgl,C,6
 5180577,mpc-hc/mpc-hc,C,2
-59676171,KevinOConnor/klipper,C,3
-205810121,CloverHackyColor/CloverBootloader,C,9
+59676171,KevinOConnor/klipper,C,2
+205810121,CloverHackyColor/CloverBootloader,C,10
 98257850,intel/haxm,C,4
-237728012,TheWanderingCoel/Trojan-Qt5,C,30
+237728012,TheWanderingCoel/Trojan-Qt5,C,38
 241659610,zxystd/itlwm,C,34
-254327261,xanasoft/Sandboxie,C,121
+254327261,xanasoft/Sandboxie,C,134
