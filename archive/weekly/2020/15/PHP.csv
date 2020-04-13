@@ -1,20 +1,20 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,176
-3482588,danielmiessler/SecLists,PHP,153
-458058,symfony/symfony,PHP,46
-7548986,laravel/framework,PHP,93
-2253830,PHPMailer/PHPMailer,PHP,44
+3482588,danielmiessler/SecLists,PHP,152
+458058,symfony/symfony,PHP,47
+7548986,laravel/framework,PHP,94
+2253830,PHPMailer/PHPMailer,PHP,46
 3431193,yiisoft/yii2,PHP,13
-72069409,the-control-group/voyager,PHP,39
-56728437,docker/labs,PHP,40
-48796179,z-song/laravel-admin,PHP,45
+72069409,the-control-group/voyager,PHP,38
+56728437,docker/labs,PHP,41
+48796179,z-song/laravel-admin,PHP,47
 2179920,woocommerce/woocommerce,PHP,21
 4242230,PHPOffice/PHPWord,PHP,23
 3217621,phpmyadmin/phpmyadmin,PHP,24
 89130234,swoft-cloud/swoft,PHP,24
 10226642,Crinsane/LaravelShoppingcart,PHP,15
 117649937,hhxsv5/laravel-s,PHP,20
-76064827,mailcow/mailcow-dockerized,PHP,27
+76064827,mailcow/mailcow-dockerized,PHP,28
 1017748,ThingEngineer/PHP-MySQLi-Database-Class,PHP,9
 159606650,hyperf/hyperf,PHP,36
 148129143,bagisto/bagisto,PHP,35
@@ -22,5 +22,5 @@ id,name,lang,new stars
 79166184,cretueusebiu/laravel-vue-spa,PHP,35
 1957456,Dolibarr/dolibarr,PHP,20
 56836583,postaddictme/instagram-php-scraper,PHP,13
-218779672,init-engineer/init.engineer,PHP,21
+218779672,init-engineer/init.engineer,PHP,20
 36526302,pentestmonkey/php-reverse-shell,PHP,7
