@@ -1,14 +1,14 @@
 id,name,lang,new stars
-23096959,golang/go,Go,339
-20580498,kubernetes/kubernetes,Go,255
-7691631,moby/moby,Go,89
+23096959,golang/go,Go,335
+20580498,kubernetes/kubernetes,Go,259
+7691631,moby/moby,Go,90
 21540759,avelino/awesome-go,Go,300
 20904437,gin-gonic/gin,Go,333
 29207621,caddyserver/caddy,Go,143
 15452919,ethereum/go-ethereum,Go,68
 17803236,rclone/rclone,Go,1198
 31288958,hashicorp/vault,Go,76
-13628513,sirupsen/logrus,Go,204
+13628513,sirupsen/logrus,Go,202
 27729907,grpc/grpc-go,Go,56
 66573241,hyperledger/fabric,Go,48
 103126070,snail007/goproxy,Go,177
@@ -16,11 +16,11 @@ id,name,lang,new stars
 222172014,slackhq/nebula,Go,354
 61137153,evanw/esbuild,Go,210
 81355383,mongodb/mongo-go-driver,Go,44
-167304464,cortexlabs/cortex,Go,153
+167304464,cortexlabs/cortex,Go,155
 134012064,pion/webrtc,Go,117
 82700090,uber/cadence,Go,42
 140457254,OWASP/Amass,Go,61
 237523442,tailscale/tailscale,Go,221
 154643390,sundowndev/PhoneInfoga,Go,50
-242329748,Jrohy/trojan,Go,172
+242329748,Jrohy/trojan,Go,173
 250927119,shomali11/go-interview,Go,143
