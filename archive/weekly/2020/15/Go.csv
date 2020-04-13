@@ -1,20 +1,20 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,314
+20580498,kubernetes/kubernetes,Go,315
 7691631,moby/moby,Go,104
 21540759,avelino/awesome-go,Go,308
-11180687,gohugoio/hugo,Go,338
+11180687,gohugoio/hugo,Go,339
 20904437,gin-gonic/gin,Go,336
 11225014,etcd-io/etcd,Go,174
-17803236,rclone/rclone,Go,1208
+17803236,rclone/rclone,Go,1210
 31288958,hashicorp/vault,Go,84
 13628513,sirupsen/logrus,Go,215
 129717717,grafana/loki,Go,64
 5179099,go-redis/redis,Go,98
 4059138,dgrijalva/jwt-go,Go,85
-169948217,crawlab-team/crawlab,Go,720
-222172014,slackhq/nebula,Go,369
-81355383,mongodb/mongo-go-driver,Go,54
-167304464,cortexlabs/cortex,Go,157
+169948217,crawlab-team/crawlab,Go,721
+222172014,slackhq/nebula,Go,370
+81355383,mongodb/mongo-go-driver,Go,55
+167304464,cortexlabs/cortex,Go,158
 134012064,pion/webrtc,Go,118
 82700090,uber/cadence,Go,51
 140457254,OWASP/Amass,Go,61
