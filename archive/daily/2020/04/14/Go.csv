@@ -1,10 +1,10 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,33
+11180687,gohugoio/hugo,Go,37
 14712850,syncthing/syncthing,Go,17
 29207621,caddyserver/caddy,Go,18
 15452919,ethereum/go-ethereum,Go,11
 401025,github/hub,Go,15
-123572362,quii/learn-go-with-tests,Go,8
+123572362,quii/learn-go-with-tests,Go,10
 105279544,gocolly/colly,Go,15
 66573241,hyperledger/fabric,Go,8
 120227732,fyne-io/fyne,Go,17
@@ -17,10 +17,10 @@ id,name,lang,new stars
 140680839,MichaelMure/git-bug,Go,115
 134018330,panjf2000/ants,Go,20
 52193726,volatiletech/sqlboiler,Go,8
-201954234,xiaoming2028/FreePAC,Go,13
+201954234,xiaoming2028/FreePAC,Go,9
 154643390,sundowndev/PhoneInfoga,Go,7
 120821432,DominicBreuker/pspy,Go,13
-164345851,aaronjanse/3mux,Go,145
+164345851,aaronjanse/3mux,Go,113
 80510806,tomnomnom/httprobe,Go,8
 247032621,wenjianzhang/go-admin,Go,21
 242329748,Jrohy/trojan,Go,27
