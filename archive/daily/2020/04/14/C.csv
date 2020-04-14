@@ -4,7 +4,7 @@ id,name,lang,new stars
 15337142,micropython/micropython,C,7
 102578345,coolsnowwolf/lede,C,52
 66150122,jarun/nnn,C,28
-105627846,reactos/reactos,C,17
+105627846,reactos/reactos,C,18
 40217904,swaywm/sway,C,4
 3199002,raspberrypi/linux,C,5
 78281075,spacehuhn/esp8266_deauther,C,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 205810121,CloverHackyColor/CloverBootloader,C,9
 98257850,intel/haxm,C,3
 237728012,TheWanderingCoel/Trojan-Qt5,C,21
-241659610,zxystd/itlwm,C,24
-254327261,xanasoft/Sandboxie,C,147
+241659610,zxystd/itlwm,C,26
+254327261,xanasoft/Sandboxie,C,152

@@ -1,12 +1,12 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,315
 2293158,rapid7/metasploit-framework,Ruby,329
-3623050,Homebrew/homebrew-cask,Ruby,174
-2203645,CocoaPods/CocoaPods,Ruby,82
+3623050,Homebrew/homebrew-cask,Ruby,175
+2203645,CocoaPods/CocoaPods,Ruby,81
 585285,gollum/gollum,Ruby,85
-3314,spree/spree,Ruby,85
+3314,spree/spree,Ruby,86
 3195124,mperham/sidekiq,Ruby,81
-88740103,postalhq/postal,Ruby,104
+88740103,postalhq/postal,Ruby,103
 1725199,github/linguist,Ruby,96
 810796,sferik/rails_admin,Ruby,31
 18486300,lewagon/setup,Ruby,327
@@ -22,5 +22,5 @@ id,name,lang,new stars
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,80
 200302808,github/view_component,Ruby,188
 121513081,tradingview/charting-library-examples,Ruby,15
-70830890,bigbluebutton/greenlight,Ruby,90
+70830890,bigbluebutton/greenlight,Ruby,91
 40557543,StevenNunez/chicken_Ser,Ruby,0
