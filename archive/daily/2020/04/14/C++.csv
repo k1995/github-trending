@@ -1,12 +1,12 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,58
-100060912,microsoft/terminal,C++,56
-65600975,pytorch/pytorch,C++,32
-15634981,godotengine/godot,C++,38
-22067521,ocornut/imgui,C++,41
+100060912,microsoft/terminal,C++,49
+65600975,pytorch/pytorch,C++,29
+15634981,godotengine/godot,C++,36
+22067521,ocornut/imgui,C++,43
 120887835,huihut/interview,C++,106
 1217614,xbmc/xbmc,C++,11
-116167731,yuzu-emu/yuzu,C++,62
+116167731,yuzu-emu/yuzu,C++,65
 23129458,aseprite/aseprite,C++,13
 18348651,OpenRCT2/OpenRCT2,C++,0
 6520784,RPCS3/rpcs3,C++,6
@@ -14,13 +14,13 @@ id,name,lang,new stars
 1204412,TrinityCore/TrinityCore,C++,4
 2168780,minetest/minetest,C++,4
 1049088,openscad/openscad,C++,4
-11693709,cuberite/cuberite,C++,6
+11693709,cuberite/cuberite,C++,8
 88327406,xmrig/xmrig,C++,3
-28706706,badaix/snapcast,C++,3
+28706706,badaix/snapcast,C++,2
 14979312,clementine-player/Clementine,C++,2
-153866232,TheCherno/Hazel,C++,5
+153866232,TheCherno/Hazel,C++,4
 98471367,acidanthera/WhateverGreen,C++,6
 119961591,linyacool/WebServer,C++,3
-147106288,OneLoneCoder/olcPixelGameEngine,C++,64
+147106288,OneLoneCoder/olcPixelGameEngine,C++,94
 199971599,tindy2013/stairspeedtest-reborn,C++,10
-150774287,danielkrupinski/Osiris,C++,5
+150774287,danielkrupinski/Osiris,C++,4
