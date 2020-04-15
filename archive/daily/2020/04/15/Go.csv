@@ -1,8 +1,8 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,30
-48378947,fatedier/frp,Go,55
-6838921,prometheus/prometheus,Go,26
-13855476,jinzhu/gorm,Go,14
+48378947,fatedier/frp,Go,54
+6838921,prometheus/prometheus,Go,28
+13855476,jinzhu/gorm,Go,12
 70202506,golang/dep,Go,2
 29217054,micro/go-micro,Go,19
 156084530,ehang-io/nps,Go,29
@@ -13,14 +13,14 @@ id,name,lang,new stars
 36653430,hashicorp/nomad,Go,7
 11206255,Shopify/sarama,Go,6
 100982449,argoproj/argo,Go,13
-815644,miekg/dns,Go,4
+815644,miekg/dns,Go,3
 81355383,mongodb/mongo-go-driver,Go,7
-140680839,MichaelMure/git-bug,Go,72
-103995895,hybridgroup/gocv,Go,9
+140680839,MichaelMure/git-bug,Go,71
+103995895,hybridgroup/gocv,Go,7
 118828329,knative/serving,Go,3
 93928882,swaggo/swag,Go,7
 51193526,cosmos/cosmos-sdk,Go,2
-164345851,aaronjanse/3mux,Go,77
-97983364,vouch/vouch-proxy,Go,5
-244228467,eatonphil/gosql,Go,27
-253883914,bradfitz/gosize,Go,15
+164345851,aaronjanse/3mux,Go,83
+97983364,vouch/vouch-proxy,Go,2
+244228467,eatonphil/gosql,Go,29
+253883914,bradfitz/gosize,Go,13
