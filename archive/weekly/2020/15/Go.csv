@@ -1,7 +1,7 @@
 id,name,lang,new stars
-23096959,golang/go,Go,386
+23096959,golang/go,Go,385
 20904437,gin-gonic/gin,Go,265
-11225014,etcd-io/etcd,Go,138
+11225014,etcd-io/etcd,Go,135
 13807606,junegunn/fzf,Go,236
 29207621,caddyserver/caddy,Go,132
 15452919,ethereum/go-ethereum,Go,64
@@ -15,12 +15,12 @@ id,name,lang,new stars
 29371034,micro/micro,Go,37
 212613049,cli/cli,Go,186
 116576783,bettercap/bettercap,Go,35
-169948217,crawlab-team/crawlab,Go,192
+169948217,crawlab-team/crawlab,Go,185
 222172014,slackhq/nebula,Go,408
-167304464,cortexlabs/cortex,Go,364
+167304464,cortexlabs/cortex,Go,365
 93928882,swaggo/swag,Go,41
 156681830,ffuf/ffuf,Go,131
 154643390,sundowndev/PhoneInfoga,Go,37
 205679232,flipped-aurora/gin-vue-admin,Go,110
 247032621,wenjianzhang/go-admin,Go,187
-242329748,Jrohy/trojan,Go,205
+242329748,Jrohy/trojan,Go,207
