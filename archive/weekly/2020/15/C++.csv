@@ -1,11 +1,11 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,386
+45717250,tensorflow/tensorflow,C++,383
 9384267,electron/electron,C++,230
 44838949,apple/swift,C++,137
-5108051,opencv/opencv,C++,256
-15634981,godotengine/godot,C++,288
+5108051,opencv/opencv,C++,255
+15634981,godotengine/godot,C++,298
 22067521,ocornut/imgui,C++,166
-184456251,microsoft/PowerToys,C++,722
+184456251,microsoft/PowerToys,C++,731
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,96
 39840932,google/googletest,C++,106
 4524181,facebook/folly,C++,210
@@ -14,10 +14,10 @@ id,name,lang,new stars
 120887835,huihut/interview,C++,622
 80286288,arendst/Tasmota,C++,98
 60246359,ClickHouse/ClickHouse,C++,89
-116167731,yuzu-emu/yuzu,C++,237
+116167731,yuzu-emu/yuzu,C++,240
 23129458,aseprite/aseprite,C++,91
 2200856,MarlinFirmware/Marlin,C++,57
-104732438,radareorg/cutter,C++,56
+104732438,radareorg/cutter,C++,55
 5736080,FreeCAD/FreeCAD,C++,48
 15122806,google/benchmark,C++,28
 75413130,intel-isl/Open3D,C++,32
