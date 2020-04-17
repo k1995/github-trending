@@ -1,21 +1,21 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,10
-53238813,Homebrew/brew,Ruby,19
+53238813,Homebrew/brew,Ruby,17
 308770,heartcombo/devise,Ruby,3
 1090311,elastic/logstash,Ruby,7
 106995,sinatra/sinatra,Ruby,4
-3314,spree/spree,Ruby,1
+3314,spree/spree,Ruby,2
 96395,faker-ruby/faker,Ruby,3
-451035,heartcombo/simple_form,Ruby,2
-21829,thoughtbot/factory_bot,Ruby,4
-6688319,DeathKing/Learning-SICP,Ruby,4
-4994614,wpscanteam/wpscan,Ruby,6
+451035,heartcombo/simple_form,Ruby,1
+21829,thoughtbot/factory_bot,Ruby,3
+6688319,DeathKing/Learning-SICP,Ruby,5
+4994614,wpscanteam/wpscan,Ruby,5
 75785147,rails/webpacker,Ruby,1
 1548802,activerecord-hackery/ransack,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,5
 43347873,danger/danger,Ruby,2
 38867,svenfuchs/rails-i18n,Ruby,0
-1314319,instructure/canvas-lms,Ruby,4
+1314319,instructure/canvas-lms,Ruby,3
 30985840,solidusio/solidus,Ruby,3
 14238949,elastic/elasticsearch-rails,Ruby,7
 11426474,github/choosealicense.com,Ruby,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,4
 65914086,decidim/decidim,Ruby,1
 200302808,github/view_component,Ruby,7
-70830890,bigbluebutton/greenlight,Ruby,2
+70830890,bigbluebutton/greenlight,Ruby,4
