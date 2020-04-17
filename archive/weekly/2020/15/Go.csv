@@ -1,21 +1,21 @@
 id,name,lang,new stars
-23096959,golang/go,Go,391
+23096959,golang/go,Go,387
 20904437,gin-gonic/gin,Go,269
 13807606,junegunn/fzf,Go,229
 29207621,caddyserver/caddy,Go,127
 15452919,ethereum/go-ethereum,Go,63
 112567264,iikira/BaiduPCS-Go,Go,425
 12574344,spf13/cobra,Go,114
-13628513,sirupsen/logrus,Go,126
+13628513,sirupsen/logrus,Go,114
 18369373,spf13/viper,Go,89
 27729907,grpc/grpc-go,Go,60
 66573241,hyperledger/fabric,Go,48
 29371034,micro/micro,Go,39
-109162639,thanos-io/thanos,Go,63
+109162639,thanos-io/thanos,Go,64
 222172014,slackhq/nebula,Go,403
 61137153,evanw/esbuild,Go,742
-18906266,shirou/gopsutil,Go,48
-167304464,cortexlabs/cortex,Go,367
+18906266,shirou/gopsutil,Go,49
+167304464,cortexlabs/cortex,Go,359
 93444615,terraform-providers/terraform-provider-aws,Go,44
 118105436,golang-migrate/migrate,Go,81
 93928882,swaggo/swag,Go,46
@@ -23,4 +23,4 @@ id,name,lang,new stars
 154643390,sundowndev/PhoneInfoga,Go,36
 205679232,flipped-aurora/gin-vue-admin,Go,114
 247032621,wenjianzhang/go-admin,Go,222
-242329748,Jrohy/trojan,Go,209
+242329748,Jrohy/trojan,Go,182

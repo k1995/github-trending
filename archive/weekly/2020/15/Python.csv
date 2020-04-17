@@ -1,21 +1,21 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,1752
-54346799,public-apis/public-apis,Python,2013
+54346799,public-apis/public-apis,Python,1902
 1039520,ytdl-org/youtube-dl,Python,426
 83844720,ageitgey/face_recognition,Python,246
 191113739,0voice/interview_internal_reference,Python,580
-101684374,satwikkansal/wtfpython,Python,621
+101684374,satwikkansal/wtfpython,Python,624
 71220757,swisskyrepo/PayloadsAllTheThings,Python,195
-160919119,tiangolo/fastapi,Python,394
+160919119,tiangolo/fastapi,Python,387
 69290591,timgrossmann/InstaPy,Python,71
 175366155,shengqiangzhang/examples-of-web-crawlers,Python,685
 8162715,mirumee/saleor,Python,146
-135673451,microsoft/nni,Python,79
+135673451,microsoft/nni,Python,81
 93947448,twintproject/twint,Python,790
-41179827,Rapptz/discord.py,Python,56
+41179827,Rapptz/discord.py,Python,53
 179728393,microsoft/nlp-recipes,Python,211
-78880128,instagrambot/instabot,Python,51
-215890886,google-research/text-to-text-transfer-transformer,Python,118
+78880128,instagrambot/instabot,Python,52
+215890886,google-research/text-to-text-transfer-transformer,Python,112
 89801027,RomelTorres/alpha_vantage,Python,51
 137186365,CharlesPikachu/Games,Python,96
 253601257,alievk/avatarify,Python,1248
@@ -23,4 +23,4 @@ id,name,lang,new stars
 80345064,Pure-L0G1C/Instagram,Python,29
 250985619,pcomputo/Whole-Foods-Delivery-Slot,Python,168
 246079929,owid/covid-19-data,Python,71
-253216457,alexgand/springer_free_books,Python,40
+253216457,alexgand/springer_free_books,Python,39
