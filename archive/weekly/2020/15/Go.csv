@@ -1,7 +1,7 @@
 id,name,lang,new stars
-23096959,golang/go,Go,386
+23096959,golang/go,Go,389
 20904437,gin-gonic/gin,Go,269
-11225014,etcd-io/etcd,Go,137
+11225014,etcd-io/etcd,Go,136
 13807606,junegunn/fzf,Go,229
 29207621,caddyserver/caddy,Go,127
 15452919,ethereum/go-ethereum,Go,63
@@ -13,11 +13,11 @@ id,name,lang,new stars
 66573241,hyperledger/fabric,Go,46
 21827146,chrislusf/seaweedfs,Go,55
 29371034,micro/micro,Go,39
-212613049,cli/cli,Go,185
-116576783,bettercap/bettercap,Go,36
-169948217,crawlab-team/crawlab,Go,172
+212613049,cli/cli,Go,181
+116576783,bettercap/bettercap,Go,34
+169948217,crawlab-team/crawlab,Go,173
 222172014,slackhq/nebula,Go,403
-167304464,cortexlabs/cortex,Go,369
+167304464,cortexlabs/cortex,Go,371
 93928882,swaggo/swag,Go,46
 156681830,ffuf/ffuf,Go,128
 154643390,sundowndev/PhoneInfoga,Go,36

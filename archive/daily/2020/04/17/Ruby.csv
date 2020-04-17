@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,12
+8514,rails/rails,Ruby,11
 7569578,discourse/discourse,Ruby,9
-27442967,fastlane/fastlane,Ruby,9
-1090311,elastic/logstash,Ruby,7
+27442967,fastlane/fastlane,Ruby,10
+1090311,elastic/logstash,Ruby,6
 611921,activeadmin/activeadmin,Ruby,2
 15435,Shopify/liquid,Ruby,4
 451035,heartcombo/simple_form,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,1
-108278,chef/chef,Ruby,1
+108278,chef/chef,Ruby,0
 26018608,github-changelog-generator/github-changelog-generator,Ruby,3
 507,sferik/twitter,Ruby,1
 839336,colszowka/simplecov,Ruby,1
 96071,rack/rack,Ruby,1
 229006,mileszs/wicked_pdf,Ruby,1
-1404127,jwt/ruby-jwt,Ruby,0
+1404127,jwt/ruby-jwt,Ruby,1
 1172597,thoughtbot/shoulda-matchers,Ruby,0
 5627139,rouge-ruby/rouge,Ruby,0
 14238949,elastic/elasticsearch-rails,Ruby,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 20789757,ManageIQ/manageiq,Ruby,0
 189010173,Hackplayers/evil-winrm,Ruby,4
 3947396,getsentry/raven-ruby,Ruby,1
-70830890,bigbluebutton/greenlight,Ruby,1
-191644248,honeybadger-io/heya,Ruby,51
+70830890,bigbluebutton/greenlight,Ruby,2
+191644248,honeybadger-io/heya,Ruby,47
