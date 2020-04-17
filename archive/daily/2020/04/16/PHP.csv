@@ -4,7 +4,7 @@ id,name,lang,new stars
 458058,symfony/symfony,PHP,12
 1864363,composer/composer,PHP,14
 7548986,laravel/framework,PHP,12
-1376664,Seldaek/monolog,PHP,7
+1376664,Seldaek/monolog,PHP,8
 448045,sebastianbergmann/phpunit,PHP,5
 2253830,PHPMailer/PHPMailer,PHP,13
 2884111,magento/magento2,PHP,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 38233033,irazasyed/telegram-bot-sdk,PHP,6
 116010682,Tai7sy/card-system,PHP,4
 215064619,laravel-shift/blueprint,PHP,33
-44733816,privacy-protection-tools/anti-AD,PHP,64
+44733816,privacy-protection-tools/anti-AD,PHP,63
 238102503,xytoki/TCShare,PHP,13
 249034186,laracasts/Tweety,PHP,4

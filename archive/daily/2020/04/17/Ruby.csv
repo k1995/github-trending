@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
+8514,rails/rails,Ruby,11
 7569578,discourse/discourse,Ruby,10
-27442967,fastlane/fastlane,Ruby,9
+27442967,fastlane/fastlane,Ruby,10
 1090311,elastic/logstash,Ruby,6
-611921,activeadmin/activeadmin,Ruby,4
+611921,activeadmin/activeadmin,Ruby,3
 15435,Shopify/liquid,Ruby,5
 451035,heartcombo/simple_form,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 46698467,ankane/strong_migrations,Ruby,1
 41571541,inspec/inspec,Ruby,0
 20789757,ManageIQ/manageiq,Ruby,0
-189010173,Hackplayers/evil-winrm,Ruby,7
+189010173,Hackplayers/evil-winrm,Ruby,5
 3947396,getsentry/raven-ruby,Ruby,1
 70830890,bigbluebutton/greenlight,Ruby,2
-191644248,honeybadger-io/heya,Ruby,47
+191644248,honeybadger-io/heya,Ruby,46
