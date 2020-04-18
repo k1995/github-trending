@@ -1,7 +1,7 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,312
+7569578,discourse/discourse,Ruby,311
 2293158,rapid7/metasploit-framework,Ruby,349
-3623050,Homebrew/homebrew-cask,Ruby,182
+3623050,Homebrew/homebrew-cask,Ruby,180
 538746,ruby/ruby,Ruby,117
 2203645,CocoaPods/CocoaPods,Ruby,84
 585285,gollum/gollum,Ruby,102
@@ -19,7 +19,7 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,51
 4447023,sharetribe/sharetribe,Ruby,22
 11426474,github/choosealicense.com,Ruby,44
-103766152,github/explore,Ruby,37
+103766152,github/explore,Ruby,39
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,34
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,85
 200302808,github/view_component,Ruby,195
