@@ -1,7 +1,7 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,54
+2325298,torvalds/linux,C,56
 1903522,php/php-src,C,11
-3774328,wg/wrk,C,19
+3774328,wg/wrk,C,18
 1614410,FFmpeg/FFmpeg,C,15
 7634677,openssl/openssl,C,10
 20159867,nothings/stb,C,8
@@ -17,7 +17,7 @@ id,name,lang,new stars
 8270972,ARMmbed/mbed-os,C,0
 18257358,edenhill/kafkacat,C,3
 1253879,stlink-org/stlink,C,3
-64324413,ufrisk/pcileech,C,16
+64324413,ufrisk/pcileech,C,17
 131710328,CTCaer/hekate,C,1
 15333809,open62541/open62541,C,2
 240011145,Lienol/openwrt,C,5
