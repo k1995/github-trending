@@ -1,15 +1,15 @@
 id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,25
-1116542,aria2/aria2,C++,34
+1116542,aria2/aria2,C++,39
 184456251,microsoft/PowerToys,C++,160
 4524181,facebook/folly,C++,123
-31522041,vnpy/vnpy,C++,8
+31522041,vnpy/vnpy,C++,10
 125098880,ValveSoftware/Proton,C++,10
 67702184,topjohnwu/Magisk,C++,22
 107794782,trojan-gfw/trojan,C++,21
 80286288,arendst/Tasmota,C++,8
 3351871,qbittorrent/qBittorrent,C++,17
-23129458,aseprite/aseprite,C++,16
+23129458,aseprite/aseprite,C++,17
 34777562,ossrs/srs,C++,19
 18348651,OpenRCT2/OpenRCT2,C++,9
 2200856,MarlinFirmware/Marlin,C++,20
@@ -22,5 +22,5 @@ id,name,lang,new stars
 135489692,LeelaChessZero/lc0,C++,6
 196813750,Light-City/CPlusPlusThings,C++,76
 11081909,otland/forgottenserver,C++,0
-208145128,google/iree,C++,3
+208145128,google/iree,C++,5
 256178530,cloudfuzz/android-kernel-exploitation,C++,21
