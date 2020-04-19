@@ -1,7 +1,7 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,21
 2579314,fzaninotto/Faker,PHP,13
-7548986,laravel/framework,PHP,11
+7548986,laravel/framework,PHP,10
 12615154,barryvdh/laravel-debugbar,PHP,19
 8678290,barryvdh/laravel-ide-helper,PHP,5
 82238168,monicahq/monica,PHP,2
@@ -10,16 +10,16 @@ id,name,lang,new stars
 126950582,donwa/oneindex,PHP,11
 30915528,spatie/laravel-backup,PHP,5
 86350964,the-benchmarker/web-frameworks,PHP,8
-170355508,livewire/livewire,PHP,17
+170355508,livewire/livewire,PHP,20
 95011974,akaunting/akaunting,PHP,7
 115975835,paragonie/paseto,PHP,8
-148129143,bagisto/bagisto,PHP,9
-31425145,billz/raspap-webgui,PHP,5
+148129143,bagisto/bagisto,PHP,13
+31425145,billz/raspap-webgui,PHP,8
 38200433,jeroennoten/Laravel-AdminLTE,PHP,4
 69691727,pmmp/PocketMine-MP,PHP,24
 95608935,aws-samples/aws-refarch-wordpress,PHP,7
 195836215,magicblack/maccms10,PHP,2
-182349597,jqhph/dcat-admin,PHP,23
+182349597,jqhph/dcat-admin,PHP,24
 36526302,pentestmonkey/php-reverse-shell,PHP,3
 254894375,meilisearch/meilisearch-laravel-scout,PHP,33
 247844867,kirschbaum-development/eloquent-power-joins,PHP,12
