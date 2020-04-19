@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,169
+1863329,laravel/laravel,PHP,170
 3482588,danielmiessler/SecLists,PHP,164
 458058,symfony/symfony,PHP,57
 7548986,laravel/framework,PHP,79
 3431193,yiisoft/yii2,PHP,13
-60243197,nextcloud/server,PHP,97
+60243197,nextcloud/server,PHP,98
 8678290,barryvdh/laravel-ide-helper,PHP,41
-48796179,z-song/laravel-admin,PHP,66
-42480275,spatie/laravel-permission,PHP,33
+48796179,z-song/laravel-admin,PHP,71
+42480275,spatie/laravel-permission,PHP,36
 8305060,top-think/think,PHP,15
-33904351,laravel/lumen,PHP,19
-2179920,woocommerce/woocommerce,PHP,26
+33904351,laravel/lumen,PHP,21
+2179920,woocommerce/woocommerce,PHP,28
 16238673,kanboard/kanboard,PHP,82
 6763587,PrestaShop/PrestaShop,PHP,17
 100355112,yansongda/pay,PHP,28
@@ -22,5 +22,5 @@ id,name,lang,new stars
 47508644,pterodactyl/panel,PHP,18
 175168121,changeweb/Unifiedtransform,PHP,74
 86987524,WWBN/AVideo,PHP,40
-44733816,privacy-protection-tools/anti-AD,PHP,144
+44733816,privacy-protection-tools/anti-AD,PHP,146
 74026995,CodelyTV/php-ddd-example,PHP,20
