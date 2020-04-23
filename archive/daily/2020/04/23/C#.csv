@@ -1,21 +1,21 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,14
+49609581,PowerShell/PowerShell,C#,17
 16157746,dotnet/efcore,C#,11
-28239455,dotnet/AspNetCore.Docs,C#,7
-1135454,cefsharp/CefSharp,C#,8
+28239455,dotnet/AspNetCore.Docs,C#,8
+1135454,cefsharp/CefSharp,C#,9
 46652227,IdentityServer/IdentityServer4,C#,9
 75990888,dotnet/csharplang,C#,2
-17369361,jbogard/MediatR,C#,7
+17369361,jbogard/MediatR,C#,8
 54213490,xamarin/Xamarin.Forms,C#,5
 76425236,EduardoPires/EquinoxProject,C#,9
-70584079,jasontaylordev/NorthwindTraders,C#,3
+70584079,jasontaylordev/NorthwindTraders,C#,4
 153427475,Unity-Technologies/FPSSample,C#,2
 50605426,microsoft/MixedRealityToolkit-Unity,C#,4
-125612271,Unity-Technologies/EntityComponentSystemSamples,C#,4
+125612271,Unity-Technologies/EntityComponentSystemSamples,C#,5
 38992233,sunkaixuan/SqlSugar,C#,4
 210716005,dotnet/runtime,C#,12
 23891194,Azure/azure-powershell,C#,2
-121049045,skoruba/IdentityServer4.Admin,C#,6
+121049045,skoruba/IdentityServer4.Admin,C#,7
 2928944,Azure/azure-sdk-for-net,C#,1
 213460285,jasontaylordev/CleanArchitecture,C#,26
 164140756,duke7553/files-uwp,C#,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 177751718,openbullet/openbullet,C#,6
 232416701,csinn/CSharp-From-Zero-To-Hero,C#,3
 156260788,Azure/azure-cosmos-dotnet-v3,C#,0
-234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,2
+234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,3
