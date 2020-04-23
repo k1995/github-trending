@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,8967
-85077558,kamranahmedse/developer-roadmap,,7834
-132464395,Snailclimb/JavaGuide,Java,3939
-35955666,jlevy/the-art-of-command-line,,4532
-1039520,ytdl-org/youtube-dl,Python,2013
-241576270,labuladong/fucking-algorithm,,21273
-191113739,0voice/interview_internal_reference,Python,1412
-32689863,3b1b/manim,Python,2716
-184456251,microsoft/PowerToys,C++,2789
-13233158,obsproject/obs-studio,C,1524
-154648112,hollischuang/toBeTopJavaer,Java,1873
-110211147,xkcoding/spring-boot-demo,Java,1330
-137078487,vuejs/vue-next,TypeScript,1719
-15225670,jitsi/jitsi-meet,JavaScript,4187
-158336675,LingCoder/OnJava8,,2179
-95208623,lihengming/spring-boot-api-project-seed,Java,1300
-231283452,excalidraw/excalidraw,TypeScript,2057
-684382,bigbluebutton/bigbluebutton,Java,735
-157166750,lensapp/lens,TypeScript,2275
-172481928,londonappbrewery/Flutter-Course-Resources,,1370
-227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,2361
-240615573,ieee8023/covid-chestxray-dataset,Jupyter Notebook,867
-248381700,bmild/nerf,Jupyter Notebook,978
-246929362,github/covid19-dashboard,Jupyter Notebook,593
+60493101,jwasham/coding-interview-university,,8818
+85077558,kamranahmedse/developer-roadmap,,7840
+35955666,jlevy/the-art-of-command-line,,4533
+126577260,trekhleb/javascript-algorithms,JavaScript,4611
+1039520,ytdl-org/youtube-dl,Python,2015
+241576270,labuladong/fucking-algorithm,,21323
+191113739,0voice/interview_internal_reference,Python,1413
+32689863,3b1b/manim,Python,2714
+146633589,alibaba/arthas,Java,764
+184456251,microsoft/PowerToys,C++,2797
+13233158,obsproject/obs-studio,C,1522
+110211147,xkcoding/spring-boot-demo,Java,1327
+137078487,vuejs/vue-next,TypeScript,1747
+15225670,jitsi/jitsi-meet,JavaScript,4183
+83050680,eclipse-theia/theia,TypeScript,2894
+684382,bigbluebutton/bigbluebutton,Java,731
+172481928,londonappbrewery/Flutter-Course-Resources,,1375
+227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,2374
+245077032,NovelCOVID/API,JavaScript,1166
+247821387,WorldHealthOrganization/app,Dart,1593
+248381700,bmild/nerf,Jupyter Notebook,955
+165548191,carlospolop/privilege-escalation-awesome-scripts-suite,C#,605
+248355874,someshkar/covid19india-cluster,JavaScript,980
+246929362,github/covid19-dashboard,Jupyter Notebook,586
 245619303,datasets/covid-19,Python,580
