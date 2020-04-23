@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
-27442967,fastlane/fastlane,Ruby,12
-53238813,Homebrew/brew,Ruby,18
-308770,heartcombo/devise,Ruby,3
-2293158,rapid7/metasploit-framework,Ruby,17
+8514,rails/rails,Ruby,8
+27442967,fastlane/fastlane,Ruby,16
+53238813,Homebrew/brew,Ruby,19
+308770,heartcombo/devise,Ruby,2
+2293158,rapid7/metasploit-framework,Ruby,18
 3623050,Homebrew/homebrew-cask,Ruby,9
-4095287,rubocop-hq/rubocop,Ruby,2
-3195124,mperham/sidekiq,Ruby,8
-1918677,fluent/fluentd,Ruby,6
+4095287,rubocop-hq/rubocop,Ruby,3
+3195124,mperham/sidekiq,Ruby,7
+1918677,fluent/fluentd,Ruby,5
 5200099,thoughtbot/guides,Ruby,6
 47087,carrierwaveuploader/carrierwave,Ruby,1
 96395,faker-ruby/faker,Ruby,3
@@ -18,9 +18,9 @@ id,name,lang,new stars
 2889230,rails-api/active_model_serializers,Ruby,0
 4828,mbleigh/acts-as-taggable-on,Ruby,0
 1548802,activerecord-hackery/ransack,Ruby,3
-1734,aasm/aasm,Ruby,4
-6899875,opf/openproject,Ruby,4
-1520275,sds/overcommit,Ruby,3
-34840276,elastic/ansible-elasticsearch,Ruby,4
-13247147,pedrib/PoC,Ruby,27
+1734,aasm/aasm,Ruby,1
+6899875,opf/openproject,Ruby,3
+1520275,sds/overcommit,Ruby,0
+34840276,elastic/ansible-elasticsearch,Ruby,3
+13247147,pedrib/PoC,Ruby,34
 237482582,blindsidenetworks/scalelite,Ruby,4
