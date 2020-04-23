@@ -1,26 +1,26 @@
 id,name,lang,new stars
 123458551,jackfrued/Python-100-Days,Jupyter Notebook,198
 20580498,kubernetes/kubernetes,Go,54
-51148780,android/architecture-samples,Kotlin,23
+51148780,android/architecture-samples,Kotlin,22
 5405654,pcottle/learnGitBranching,JavaScript,107
 7587038,alibaba/canal,Java,17
-49876476,apache/shardingsphere,Java,132
-129717717,grafana/loki,Go,22
-34407651,Azure/azure-quickstart-templates,PowerShell,12
+49876476,apache/shardingsphere,Java,141
+129717717,grafana/loki,Go,33
+34407651,Azure/azure-quickstart-templates,PowerShell,15
 198739119,toutiaoio/awesome-architecture,,43
 209104196,microsoft/c9-python-getting-started,Python,24
-169948217,crawlab-team/crawlab,Go,18
-117472496,claudiodangelis/qrcp,Go,758
+169948217,crawlab-team/crawlab,Go,23
+117472496,claudiodangelis/qrcp,Go,616
 165261261,monitoror/monitoror,Go,23
-93808874,bxcodec/go-clean-arch,Go,10
-36501634,Baekalfen/PyBoy,Python,279
+93808874,bxcodec/go-clean-arch,Go,32
+36501634,Baekalfen/PyBoy,Python,209
 213460285,jasontaylordev/CleanArchitecture,C#,21
-256725670,bansal-io/pattern.css,HTML,378
-248323802,senguptaumd/Background-Matting,Python,159
-248286320,VIP-Share/Baidu-XunleiVIP,,229
-257485422,vuejs/vite,TypeScript,262
+256725670,bansal-io/pattern.css,HTML,353
+248323802,senguptaumd/Background-Matting,Python,208
+248286320,VIP-Share/Baidu-XunleiVIP,,228
+257485422,vuejs/vite,TypeScript,283
 253400602,maxchehab/phelia,TypeScript,197
 237603520,datawhalechina/joyful-pandas,Jupyter Notebook,187
-212488700,pytorch/serve,Java,183
-214485001,Project-MONAI/MONAI,Python,176
-13247147,pedrib/PoC,Ruby,34
+212488700,pytorch/serve,Java,151
+214485001,Project-MONAI/MONAI,Python,195
+13247147,pedrib/PoC,Ruby,27
