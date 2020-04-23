@@ -2,14 +2,14 @@ id,name,lang,new stars
 33015583,keras-team/keras,Python,26
 3638964,ansible/ansible,Python,29
 15045751,docker/compose,Python,13
-1431547,encode/django-rest-framework,Python,20
+1431547,encode/django-rest-framework,Python,19
 160919119,tiangolo/fastapi,Python,50
 118861276,gto76/python-cheatsheet,Python,24
 91356408,allenai/allennlp,Python,8
 209104196,microsoft/c9-python-getting-started,Python,24
 107760466,utkuozbulak/pytorch-cnn-visualizations,Python,18
 131881622,NVIDIA/DeepLearningExamples,Python,12
-40718289,byt3bl33d3r/CrackMapExec,Python,60
+40718289,byt3bl33d3r/CrackMapExec,Python,62
 77276660,Neo23x0/sigma,Python,7
 20884782,Ultimaker/Cura,Python,9
 36501634,Baekalfen/PyBoy,Python,279
@@ -20,6 +20,6 @@ id,name,lang,new stars
 241299322,AIZOOTech/FaceMaskDetection,Python,8
 240251633,X-zhangyang/Real-World-Masked-Face-Dataset,Python,8
 214485001,Project-MONAI/MONAI,Python,176
-252228727,gnome-terminator/terminator,Python,10
+252228727,gnome-terminator/terminator,Python,9
 237292237,LimerBoy/Impulse,Python,10
 254029964,Alic-yuan/nlp-beginner-finish,Python,6
