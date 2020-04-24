@@ -1,26 +1,26 @@
 id,name,lang,new stars
 123458551,jackfrued/Python-100-Days,Jupyter Notebook,246
-20580498,kubernetes/kubernetes,Go,49
-51148780,android/architecture-samples,Kotlin,37
-5405654,pcottle/learnGitBranching,JavaScript,193
-7587038,alibaba/canal,Java,36
-49876476,apache/shardingsphere,Java,86
-129717717,grafana/loki,Go,39
-34407651,Azure/azure-quickstart-templates,PowerShell,19
-198739119,toutiaoio/awesome-architecture,,91
-209104196,microsoft/c9-python-getting-started,Python,22
-169948217,crawlab-team/crawlab,Go,40
-117472496,claudiodangelis/qrcp,Go,580
-165261261,monitoror/monitoror,Go,58
-93808874,bxcodec/go-clean-arch,Go,46
-36501634,Baekalfen/PyBoy,Python,210
-213460285,jasontaylordev/CleanArchitecture,C#,27
-256725670,bansal-io/pattern.css,HTML,381
-248323802,senguptaumd/Background-Matting,Python,234
+20580498,kubernetes/kubernetes,Go,48
+51148780,android/architecture-samples,Kotlin,42
+5405654,pcottle/learnGitBranching,JavaScript,151
+7587038,alibaba/canal,Java,32
+49876476,apache/shardingsphere,Java,79
+129717717,grafana/loki,Go,37
+34407651,Azure/azure-quickstart-templates,PowerShell,17
+198739119,toutiaoio/awesome-architecture,,78
+209104196,microsoft/c9-python-getting-started,Python,26
+169948217,crawlab-team/crawlab,Go,31
+117472496,claudiodangelis/qrcp,Go,584
+165261261,monitoror/monitoror,Go,55
+93808874,bxcodec/go-clean-arch,Go,52
+36501634,Baekalfen/PyBoy,Python,224
+256725670,bansal-io/pattern.css,HTML,375
+213460285,jasontaylordev/CleanArchitecture,C#,32
 257485422,vuejs/vite,TypeScript,307
 248286320,VIP-Share/Baidu-XunleiVIP,,260
-253400602,maxchehab/phelia,TypeScript,240
+248323802,senguptaumd/Background-Matting,Python,237
+253400602,maxchehab/phelia,TypeScript,241
 237603520,datawhalechina/joyful-pandas,Jupyter Notebook,268
-212488700,pytorch/serve,Java,148
+212488700,pytorch/serve,Java,116
 214485001,Project-MONAI/MONAI,Python,231
-13247147,pedrib/PoC,Ruby,25
+13247147,pedrib/PoC,Ruby,22
