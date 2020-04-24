@@ -1,26 +1,26 @@
 id,name,lang,new stars
-85077558,kamranahmedse/developer-roadmap,,1760
-1181927,bitcoin/bitcoin,C++,144
-241576270,labuladong/fucking-algorithm,,4543
-112567264,iikira/BaiduPCS-Go,Go,599
-188660663,CorentinJ/Real-Time-Voice-Cloning,Python,542
-137078487,vuejs/vue-next,TypeScript,1238
-49876476,apache/shardingsphere,Java,450
-151619717,google-research/google-research,Jupyter Notebook,426
-175366155,shengqiangzhang/examples-of-web-crawlers,Python,462
-204086862,streamlit/streamlit,TypeScript,150
-43807251,inorichi/tachiyomi,Kotlin,121
-61137153,evanw/esbuild,Go,317
-253601257,alievk/avatarify,Python,3404
-181042062,utmapp/UTM,Objective-C,464
-134012064,pion/webrtc,Go,182
-172481928,londonappbrewery/Flutter-Course-Resources,,367
-205679232,flipped-aurora/gin-vue-admin,Go,431
-254660586,openmainframeproject/cobol-programming-course,COBOL,483
-252779185,DP-3T/documents,,460
-254990352,k-sys/covid-19,Jupyter Notebook,545
-247032621,wenjianzhang/go-admin,Go,190
-250671883,adrianhajdin/project_corona_tracker,JavaScript,190
-246079929,owid/covid-19-data,Python,168
-250179162,Fugiman/google-meet-grid-view,JavaScript,112
-254696250,cloudflare-internship-2020/internship-application-fullstack,JavaScript,53
+106017343,tailwindcss/tailwindcss,CSS,368
+188660663,CorentinJ/Real-Time-Voice-Cloning,Python,549
+5405654,pcottle/learnGitBranching,JavaScript,484
+4524181,facebook/folly,C++,293
+137078487,vuejs/vue-next,TypeScript,1249
+49876476,apache/shardingsphere,Java,457
+204086862,streamlit/streamlit,TypeScript,152
+198441611,ricklamers/gridstudio,JavaScript,415
+207645083,tannerlinsley/react-query,JavaScript,647
+198919091,taki0112/UGATIT,Python,160
+253601257,alievk/avatarify,Python,3461
+181042062,utmapp/UTM,Objective-C,466
+134012064,pion/webrtc,Go,187
+58595223,plotly/falcon,JavaScript,1438
+172481928,londonappbrewery/Flutter-Course-Resources,,375
+213460285,jasontaylordev/CleanArchitecture,C#,108
+205679232,flipped-aurora/gin-vue-admin,Go,445
+254660586,openmainframeproject/cobol-programming-course,COBOL,482
+252779185,DP-3T/documents,,464
+254990352,k-sys/covid-19,Jupyter Notebook,551
+224534171,phoenixframework/phoenix_live_dashboard,Elixir,898
+255231293,karpathy/micrograd,Jupyter Notebook,254
+250671883,adrianhajdin/project_corona_tracker,JavaScript,191
+248032165,spring-projects-experimental/spring-authorization-server,Java,200
+246079929,owid/covid-19-data,Python,171

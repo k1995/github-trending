@@ -1,26 +1,26 @@
 id,name,lang,new stars
-123458551,jackfrued/Python-100-Days,Jupyter Notebook,246
-20580498,kubernetes/kubernetes,Go,48
-51148780,android/architecture-samples,Kotlin,42
-5405654,pcottle/learnGitBranching,JavaScript,151
-7587038,alibaba/canal,Java,32
-49876476,apache/shardingsphere,Java,79
-129717717,grafana/loki,Go,37
-34407651,Azure/azure-quickstart-templates,PowerShell,17
+121395510,CyC2018/CS-Notes,Java,275
+123458551,jackfrued/Python-100-Days,Jupyter Notebook,242
+151834062,doocs/advanced-java,Java,125
+34302698,serverless/serverless,JavaScript,42
+49609581,PowerShell/PowerShell,C#,20
+5405654,pcottle/learnGitBranching,JavaScript,153
 198739119,toutiaoio/awesome-architecture,,78
-209104196,microsoft/c9-python-getting-started,Python,26
-169948217,crawlab-team/crawlab,Go,31
-117472496,claudiodangelis/qrcp,Go,584
-165261261,monitoror/monitoror,Go,55
-93808874,bxcodec/go-clean-arch,Go,52
-36501634,Baekalfen/PyBoy,Python,224
-256725670,bansal-io/pattern.css,HTML,375
-213460285,jasontaylordev/CleanArchitecture,C#,32
-257485422,vuejs/vite,TypeScript,307
-248286320,VIP-Share/Baidu-XunleiVIP,,260
-248323802,senguptaumd/Background-Matting,Python,237
-253400602,maxchehab/phelia,TypeScript,241
-237603520,datawhalechina/joyful-pandas,Jupyter Notebook,268
-212488700,pytorch/serve,Java,116
-214485001,Project-MONAI/MONAI,Python,231
-13247147,pedrib/PoC,Ruby,22
+86733463,ahmetb/kubectx,Shell,18
+163591278,GitHubDaily/GitHubDaily,,50
+110178895,brave/brave-browser,JavaScript,32
+72685026,MicrosoftDocs/azure-docs,PowerShell,10
+256372328,jdan/98.css,CSS,1634
+257485422,vuejs/vite,TypeScript,305
+248286320,VIP-Share/Baidu-XunleiVIP,,259
+248323802,senguptaumd/Background-Matting,Python,230
+237603520,datawhalechina/joyful-pandas,Jupyter Notebook,315
+250927119,shomali11/go-interview,Go,61
+214485001,Project-MONAI/MONAI,Python,229
+108311273,Azure/azure-sdk-for-js,TypeScript,8
+123581868,confluentinc/demo-scene,Shell,14
+250684236,kwsch/NHSE,C#,18
+175274189,podgorskiy/ALAE,Python,119
+252826419,Unity-Technologies/Graphics,HTML,14
+257654999,profthecopyright/Thunder_Class,C++,57
+96206168,NicknineTheEagle/TF2-Base,C++,16
