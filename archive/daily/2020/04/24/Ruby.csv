@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,14
-7569578,discourse/discourse,Ruby,14
-27442967,fastlane/fastlane,Ruby,20
+7569578,discourse/discourse,Ruby,19
+27442967,fastlane/fastlane,Ruby,21
 52281283,tootsuite/mastodon,Ruby,19
-2293158,rapid7/metasploit-framework,Ruby,24
+2293158,rapid7/metasploit-framework,Ruby,25
 481872,hashicorp/vagrant,Ruby,11
 138312,capistrano/capistrano,Ruby,4
-4095287,rubocop-hq/rubocop,Ruby,4
+4095287,rubocop-hq/rubocop,Ruby,5
 3195124,mperham/sidekiq,Ruby,7
 611921,activeadmin/activeadmin,Ruby,6
 1725199,github/linguist,Ruby,5
@@ -15,12 +15,12 @@ id,name,lang,new stars
 910744,puppetlabs/puppet,Ruby,5
 11412473,ankane/searchkick,Ruby,4
 75785147,rails/webpacker,Ruby,3
-16994115,CanCanCommunity/cancancan,Ruby,3
+16994115,CanCanCommunity/cancancan,Ruby,4
 5954,jeremyevans/sequel,Ruby,0
 839336,colszowka/simplecov,Ruby,4
-202291859,chatwoot/chatwoot,Ruby,11
-6899875,opf/openproject,Ruby,6
-30985840,solidusio/solidus,Ruby,5
+202291859,chatwoot/chatwoot,Ruby,15
+6899875,opf/openproject,Ruby,7
+30985840,solidusio/solidus,Ruby,7
 35051828,dev-sec/ansible-os-hardening,Ruby,8
 29151578,rswag/rswag,Ruby,8
-2788555,whitequark/irclogger,Ruby,61
+2788555,whitequark/irclogger,Ruby,66
