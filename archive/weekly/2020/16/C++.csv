@@ -1,13 +1,13 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,254
-5108051,opencv/opencv,C++,249
-1181927,bitcoin/bitcoin,C++,141
+9384267,electron/electron,C++,255
+5108051,opencv/opencv,C++,251
+1181927,bitcoin/bitcoin,C++,144
 23357588,protocolbuffers/protobuf,C++,162
-65600975,pytorch/pytorch,C++,256
-15634981,godotengine/godot,C++,351
-22067521,ocornut/imgui,C++,169
-1116542,aria2/aria2,C++,281
-39840932,google/googletest,C++,77
+65600975,pytorch/pytorch,C++,261
+15634981,godotengine/godot,C++,356
+22067521,ocornut/imgui,C++,172
+1116542,aria2/aria2,C++,283
+39840932,google/googletest,C++,78
 4524181,facebook/folly,C++,290
 31522041,vnpy/vnpy,C++,80
 1062572,catchorg/Catch2,C++,70
@@ -16,11 +16,11 @@ id,name,lang,new stars
 51905353,apache/arrow,C++,51
 63477612,TheAlgorithms/C-Plus-Plus,C++,97
 15122806,google/benchmark,C++,36
-208728772,milvus-io/milvus,C++,84
+208728772,milvus-io/milvus,C++,86
 156939672,microsoft/onnxruntime,C++,38
-196813750,Light-City/CPlusPlusThings,C++,446
-147106288,OneLoneCoder/olcPixelGameEngine,C++,102
+196813750,Light-City/CPlusPlusThings,C++,447
+147106288,OneLoneCoder/olcPixelGameEngine,C++,103
 222192366,zxystd/IntelBluetoothFirmware,C++,61
-252275868,johnboiles/obs-mac-virtualcam,C++,205
+252275868,johnboiles/obs-mac-virtualcam,C++,207
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,17
 248180072,makers-for-life/makair,C++,71
