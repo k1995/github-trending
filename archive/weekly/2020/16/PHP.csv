@@ -1,9 +1,9 @@
 id,name,lang,new stars
 1129010,blueimp/jQuery-File-Upload,PHP,31
-3482588,danielmiessler/SecLists,PHP,170
+3482588,danielmiessler/SecLists,PHP,172
 458058,symfony/symfony,PHP,54
-7548986,laravel/framework,PHP,79
-3431193,yiisoft/yii2,PHP,20
+7548986,laravel/framework,PHP,80
+3431193,yiisoft/yii2,PHP,21
 12615154,barryvdh/laravel-debugbar,PHP,103
 72069409,the-control-group/voyager,PHP,44
 2179920,woocommerce/woocommerce,PHP,26
@@ -12,7 +12,7 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,25
 126950582,donwa/oneindex,PHP,68
 14346979,snipe/snipe-it,PHP,41
-170355508,livewire/livewire,PHP,144
+170355508,livewire/livewire,PHP,147
 53010381,Attendize/Attendize,PHP,19
 95011974,akaunting/akaunting,PHP,55
 117649937,hhxsv5/laravel-s,PHP,18
