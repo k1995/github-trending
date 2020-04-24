@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,42
-2579314,fzaninotto/Faker,PHP,23
+1863329,laravel/laravel,PHP,43
+2579314,fzaninotto/Faker,PHP,24
 458058,symfony/symfony,PHP,12
 7548986,laravel/framework,PHP,14
 1420053,guzzle/guzzle,PHP,8
@@ -11,7 +11,7 @@ id,name,lang,new stars
 1398660,symfony/routing,PHP,7
 5508585,YOURLS/YOURLS,PHP,10
 9131292,jenssegers/laravel-mongodb,PHP,7
-6269013,aws/aws-sdk-php,PHP,7
+6269013,aws/aws-sdk-php,PHP,9
 9826184,elastic/elasticsearch-php,PHP,5
 10883164,barryvdh/laravel-dompdf,PHP,5
 576099,doctrine/migrations,PHP,3
