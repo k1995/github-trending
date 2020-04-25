@@ -1,26 +1,26 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,216
 123458551,jackfrued/Python-100-Days,Jupyter Notebook,231
-151834062,doocs/advanced-java,Java,128
-34302698,serverless/serverless,JavaScript,77
-49609581,PowerShell/PowerShell,C#,45
-5405654,pcottle/learnGitBranching,JavaScript,439
-198739119,toutiaoio/awesome-architecture,,210
-86733463,ahmetb/kubectx,Shell,31
-163591278,GitHubDaily/GitHubDaily,,67
-110178895,brave/brave-browser,JavaScript,94
-72685026,MicrosoftDocs/azure-docs,PowerShell,12
-256372328,jdan/98.css,CSS,604
-257485422,vuejs/vite,TypeScript,209
-248286320,VIP-Share/Baidu-XunleiVIP,,226
+3678731,webpack/webpack,JavaScript,34
+507775,elastic/elasticsearch,Java,55
+18666758,pjreddie/darknet,C,110
+5405654,pcottle/learnGitBranching,JavaScript,436
+242754476,refactoringui/heroicons,,106
+167304464,cortexlabs/cortex,Go,19
+256372328,jdan/98.css,CSS,595
+203892454,kgrzybek/modular-monolith-with-ddd,C#,46
+27631673,microsoft/azure-pipelines-tasks,TypeScript,6
+240673378,phuoc-ng/html-dom,TypeScript,119
 248323802,senguptaumd/Background-Matting,Python,98
-237603520,datawhalechina/joyful-pandas,Jupyter Notebook,122
-250927119,shomali11/go-interview,Go,121
-214485001,Project-MONAI/MONAI,Python,149
+241215865,blitz-js/blitz,TypeScript,206
+250761246,aristocratos/bashtop,Shell,419
+214485001,Project-MONAI/MONAI,Python,146
 108311273,Azure/azure-sdk-for-js,TypeScript,15
-123581868,confluentinc/demo-scene,Shell,23
-250684236,kwsch/NHSE,C#,22
+245235133,microsoft/reverse-proxy,C#,251
+240626593,nsacyber/Mitigating-Web-Shells,YARA,178
+258044807,perilouswithadollarsign/cstrike15_src,C++,115
+252643070,ProtonMail/proton-mail-android,Java,149
+47499227,ColinIanKing/christmas-obfuscated-C,C,173
 175274189,podgorskiy/ALAE,Python,69
-252826419,Unity-Technologies/Graphics,HTML,26
-96206168,NicknineTheEagle/TF2-Base,C++,18
-257654999,profthecopyright/Thunder_Class,C++,18
+252466447,boston-dynamics/bosdyn-hospital-bot,C++,55
+200632398,yuanguangxin/421pdf,,33
+258178639,FohmAnalys/SEIR-model-Stockholm,R,15
