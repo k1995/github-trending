@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,66
-65252,jekyll/jekyll,Ruby,94
+8514,rails/rails,Ruby,69
+65252,jekyll/jekyll,Ruby,93
 21600440,bayandin/awesome-awesomeness,Ruby,58
-53238813,Homebrew/brew,Ruby,103
-52281283,tootsuite/mastodon,Ruby,68
+53238813,Homebrew/brew,Ruby,105
+52281283,tootsuite/mastodon,Ruby,71
 2293158,rapid7/metasploit-framework,Ruby,84
-481872,hashicorp/vagrant,Ruby,43
-538746,ruby/ruby,Ruby,33
+481872,hashicorp/vagrant,Ruby,44
+538746,ruby/ruby,Ruby,34
 73648678,thepracticaldev/dev.to,Ruby,69
 1090311,elastic/logstash,Ruby,16
 3314,spree/spree,Ruby,26
@@ -17,7 +17,7 @@ id,name,lang,new stars
 211588,paper-trail-gem/paper_trail,Ruby,10
 1548802,activerecord-hackery/ransack,Ruby,13
 839336,colszowka/simplecov,Ruby,9
-202291859,chatwoot/chatwoot,Ruby,58
+202291859,chatwoot/chatwoot,Ruby,59
 6899875,opf/openproject,Ruby,28
 17204381,ankane/ahoy,Ruby,11
 46698467,ankane/strong_migrations,Ruby,9
