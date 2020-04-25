@@ -13,12 +13,12 @@ id,name,lang,new stars
 48109239,cilium/cilium,Go,13
 26726495,go-swagger/go-swagger,Go,3
 167304464,cortexlabs/cortex,Go,19
-234231371,gofiber/fiber,Go,182
+234231371,gofiber/fiber,Go,188
 121086193,99designs/gqlgen,Go,9
 81355383,mongodb/mongo-go-driver,Go,7
 27483832,gogo/protobuf,Go,7
 120650407,operator-framework/operator-sdk,Go,6
-95761244,gogf/gf,Go,15
+95761244,gogf/gf,Go,14
 93808874,bxcodec/go-clean-arch,Go,62
 7823926,prometheus/client_golang,Go,6
 155368246,elastic/cloud-on-k8s,Go,4

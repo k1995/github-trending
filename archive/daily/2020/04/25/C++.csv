@@ -1,5 +1,5 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,103
+100060912,microsoft/terminal,C++,63
 23357588,protocolbuffers/protobuf,C++,35
 22067521,ocornut/imgui,C++,36
 11171548,nlohmann/json,C++,22
@@ -12,7 +12,7 @@ id,name,lang,new stars
 126412363,simdjson/simdjson,C++,6
 17391973,Tencent/rapidjson,C++,5
 23202799,microsoft/cpprestsdk,C++,9
-23086893,google/re2,C++,10
+23086893,google/re2,C++,8
 192025001,Qv2ray/Qv2ray,C++,91
 76990209,Aircoookie/WLED,C++,10
 196813750,Light-City/CPlusPlusThings,C++,73
