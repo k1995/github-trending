@@ -1,12 +1,12 @@
 id,name,lang,new stars
-199570071,2dust/v2rayN,C#,376
+199570071,2dust/v2rayN,C#,383
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,53
-102904613,Unity-Technologies/ml-agents,C#,59
-28239455,dotnet/AspNetCore.Docs,C#,49
-126486701,Unity-Technologies/UnityCsReference,C#,33
+102904613,Unity-Technologies/ml-agents,C#,60
+28239455,dotnet/AspNetCore.Docs,C#,48
+126486701,Unity-Technologies/UnityCsReference,C#,34
 28232663,dotnet/orleans,C#,19
 17369361,jbogard/MediatR,C#,41
-69673033,ardalis/CleanArchitecture,C#,56
+69673033,ardalis/CleanArchitecture,C#,55
 45195614,Jackett/Jackett,C#,55
 198071756,huiyadanli/RevokeMsgPatcher,C#,103
 27251463,QuantConnect/Lean,C#,34
@@ -16,11 +16,11 @@ id,name,lang,new stars
 23891194,Azure/azure-powershell,C#,12
 2928944,Azure/azure-sdk-for-net,C#,12
 213460285,jasontaylordev/CleanArchitecture,C#,108
-165548191,carlospolop/privilege-escalation-awesome-scripts-suite,C#,155
-170785395,microsoft/AttackSurfaceAnalyzer,C#,43
+165548191,carlospolop/privilege-escalation-awesome-scripts-suite,C#,154
+170785395,microsoft/AttackSurfaceAnalyzer,C#,42
 184286875,actions/runner,C#,26
-189675276,enkodellc/blazorboilerplate,C#,30
+189675276,enkodellc/blazorboilerplate,C#,29
 155757874,microsoft/Xaml-Controls-Gallery,C#,12
-156260788,Azure/azure-cosmos-dotnet-v3,C#,2
+156260788,Azure/azure-cosmos-dotnet-v3,C#,1
 154143869,OdeToCode/OdeToFood,C#,10
-252350978,kazumihirose/Covid19Radar,C#,26
+252350978,kazumihirose/Covid19Radar,C#,24
