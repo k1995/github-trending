@@ -4,14 +4,13 @@ id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,10
 458058,symfony/symfony,PHP,10
 2246815,domnikl/DesignPatternsPHP,PHP,6
-5724990,briannesbitt/Carbon,PHP,4
-60243197,nextcloud/server,PHP,13
+5724990,briannesbitt/Carbon,PHP,5
+60243197,nextcloud/server,PHP,14
 56728437,docker/labs,PHP,2
 2884111,magento/magento2,PHP,4
-11467667,typecho/typecho,PHP,8
+11467667,typecho/typecho,PHP,9
 14716368,invoiceninja/invoiceninja,PHP,7
 9131292,jenssegers/laravel-mongodb,PHP,5
-126950582,donwa/oneindex,PHP,4
 12204147,mautic/mautic,PHP,2
 885517,Atlantic18/DoctrineExtensions,PHP,1
 97311017,rectorphp/rector,PHP,3
@@ -20,7 +19,7 @@ id,name,lang,new stars
 127536154,Qsnh/meedu,PHP,3
 1975671,Kunena/Kunena-Forum,PHP,1
 96284790,prasathmani/tinyfilemanager,PHP,4
-215064619,laravel-shift/blueprint,PHP,34
+215064619,laravel-shift/blueprint,PHP,31
 146414504,jianyan74/rageframe2,PHP,1
 16455664,tastyigniter/TastyIgniter,PHP,11
 223535535,Ignitetch/AdvPhishing,PHP,2
