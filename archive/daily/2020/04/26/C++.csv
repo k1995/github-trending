@@ -1,12 +1,12 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,55
 23357588,protocolbuffers/protobuf,C++,18
-22067521,ocornut/imgui,C++,29
-11171548,nlohmann/json,C++,9
+22067521,ocornut/imgui,C++,28
+11171548,nlohmann/json,C++,7
 39840932,google/googletest,C++,5
 74627617,commaai/openpilot,C++,10
 74660642,taichi-dev/taichi,C++,14
-116167731,yuzu-emu/yuzu,C++,13
+116167731,yuzu-emu/yuzu,C++,14
 60246359,ClickHouse/ClickHouse,C++,6
 102343794,apache/incubator-brpc,C++,1
 126412363,simdjson/simdjson,C++,4
@@ -16,11 +16,11 @@ id,name,lang,new stars
 192025001,Qv2ray/Qv2ray,C++,100
 76990209,Aircoookie/WLED,C++,6
 196813750,Light-City/CPlusPlusThings,C++,45
-235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,82
-79160357,citizenfx/fivem,C++,2
+235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,83
+79160357,citizenfx/fivem,C++,1
 239714835,mindspore-ai/mindspore,C++,13
-252275868,johnboiles/obs-mac-virtualcam,C++,12
+252275868,johnboiles/obs-mac-virtualcam,C++,14
 173272321,bigtreetech/BIGTREETECH-SKR-V1.3,C++,0
 189205663,qinguoyi/TinyWebServer,C++,15
-258044807,perilouswithadollarsign/cstrike15_src,C++,146
+258044807,perilouswithadollarsign/cstrike15_src,C++,50
 252466447,boston-dynamics/bosdyn-hospital-bot,C++,64
