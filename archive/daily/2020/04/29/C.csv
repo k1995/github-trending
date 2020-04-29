@@ -1,16 +1,16 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,94
+111583593,Genymobile/scrcpy,C,91
 10446890,bilibili/ijkplayer,C,12
-1614410,FFmpeg/FFmpeg,C,17
+1614410,FFmpeg/FFmpeg,C,18
 13233158,obsproject/obs-studio,C,41
-18666758,pjreddie/darknet,C,32
-7634677,openssl/openssl,C,9
+18666758,pjreddie/darknet,C,35
+7634677,openssl/openssl,C,8
 6201092,mpv-player/mpv,C,8
-32969220,esp8266/Arduino,C,6
+32969220,esp8266/Arduino,C,7
 102578345,coolsnowwolf/lede,C,17
 34921116,iovisor/bcc,C,13
 90961634,Tencent/wcdb,C,6
-105627846,reactos/reactos,C,7
+105627846,reactos/reactos,C,8
 11178512,happyfish100/fastdfs,C,6
 9524997,glfw/glfw,C,2
 45821540,openwrt/openwrt,C,13
@@ -18,7 +18,7 @@ id,name,lang,new stars
 3318027,id-Software/Quake-III-Arena,C,4
 26973029,Airblader/i3,C,6
 689344,libretro/RetroArch,C,4
-179354282,acidanthera/OpenCorePkg,C,16
+179354282,acidanthera/OpenCorePkg,C,24
 86245815,pygame/pygame,C,6
 213916896,blender/blender,C,4
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,1
