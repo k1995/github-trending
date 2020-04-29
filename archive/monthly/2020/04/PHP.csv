@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,681
-3482588,danielmiessler/SecLists,PHP,675
+1863329,laravel/laravel,PHP,680
+3482588,danielmiessler/SecLists,PHP,677
 2889328,WordPress/WordPress,PHP,183
 12615154,barryvdh/laravel-debugbar,PHP,218
-60243197,nextcloud/server,PHP,372
-48796179,z-song/laravel-admin,PHP,242
-2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,81
+60243197,nextcloud/server,PHP,374
+48796179,z-song/laravel-admin,PHP,244
+2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,82
 2179920,woocommerce/woocommerce,PHP,111
 10238429,tennc/webshell,PHP,135
 14716368,invoiceninja/invoiceninja,PHP,101
-3118246,mledoze/countries,PHP,104
+3118246,mledoze/countries,PHP,105
 6763587,PrestaShop/PrestaShop,PHP,97
-9791525,ethicalhack3r/DVWA,PHP,112
+9791525,ethicalhack3r/DVWA,PHP,113
 50372644,Ocramius/PackageVersions,PHP,112
 439861,moodle/moodle,PHP,73
 29126334,EasyCorp/EasyAdminBundle,PHP,52
@@ -21,6 +21,6 @@ id,name,lang,new stars
 175168121,changeweb/Unifiedtransform,PHP,162
 47508644,pterodactyl/panel,PHP,63
 27195711,alextselegidis/easyappointments,PHP,44
-44733816,privacy-protection-tools/anti-AD,PHP,338
+44733816,privacy-protection-tools/anti-AD,PHP,339
 16455664,tastyigniter/TastyIgniter,PHP,82
-36526302,pentestmonkey/php-reverse-shell,PHP,38
+36526302,pentestmonkey/php-reverse-shell,PHP,37
