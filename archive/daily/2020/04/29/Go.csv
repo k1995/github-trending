@@ -5,14 +5,14 @@ id,name,lang,new stars
 20904437,gin-gonic/gin,Go,37
 48378947,fatedier/frp,Go,62
 41986369,pingcap/tidb,Go,14
-74175805,istio/istio,Go,19
+74175805,istio/istio,Go,13
 123572362,quii/learn-go-with-tests,Go,15
 105279544,gocolly/colly,Go,13
-66573241,hyperledger/fabric,Go,10
+66573241,hyperledger/fabric,Go,7
 136815833,Dreamacro/clash,Go,25
 136505169,tinygo-org/tinygo,Go,5
 234231371,gofiber/fiber,Go,103
-79921099,chromedp/chromedp,Go,16
+79921099,chromedp/chromedp,Go,9
 167304464,cortexlabs/cortex,Go,18
 55637575,lucas-clemente/quic-go,Go,10
 145340771,go-flutter-desktop/go-flutter,Go,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 66505292,GoesToEleven/golang-web-dev,Go,6
 175070907,pion/ion,Go,11
 205679232,flipped-aurora/gin-vue-admin,Go,104
-246903803,vladaionescu/earthly,Go,32
+246903803,vladaionescu/earthly,Go,30
 252813491,projectdiscovery/nuclei,Go,9
 255027515,hahwul/dalfox,Go,8
 258864129,FiloSottile/yubikey-agent,Go,10
