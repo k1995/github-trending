@@ -1,9 +1,9 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,171
-132464395,Snailclimb/JavaGuide,Java,147
+121395510,CyC2018/CS-Notes,Java,168
+132464395,Snailclimb/JavaGuide,Java,149
 22790488,iluwatar/java-design-patterns,Java,41
 507775,elastic/elasticsearch,Java,28
-81975372,kdn251/interviews,Java,40
+81975372,kdn251/interviews,Java,41
 151834062,doocs/advanced-java,Java,74
 4710920,apache/dubbo,Java,25
 63477660,TheAlgorithms/Java,Java,95
@@ -13,9 +13,9 @@ id,name,lang,new stars
 73614722,CarGuo/GSYVideoPlayer,Java,21
 154648112,hollischuang/toBeTopJavaer,Java,38
 110211147,xkcoding/spring-boot-demo,Java,105
-20587599,apache/flink,Java,36
+20587599,apache/flink,Java,47
 126365965,linlinjava/litemall,Java,14
-18723836,looly/hutool,Java,61
+18723836,looly/hutool,Java,60
 128018428,alibaba/Sentinel,Java,18
 137451403,alibaba/nacos,Java,28
 88970564,Tencent/QMUI_Android,Java,38
@@ -23,4 +23,4 @@ id,name,lang,new stars
 163721192,zhisheng17/flink-learning,Java,68
 97936938,goldze/MVVMHabit,Java,11
 252643070,ProtonMail/proton-mail-android,Java,11
-172750723,open-telemetry/opentelemetry-java,Java,13
+172750723,open-telemetry/opentelemetry-java,Java,14
