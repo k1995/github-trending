@@ -1,16 +1,16 @@
 id,name,lang,new stars
 23096959,golang/go,Go,61
-21540759,avelino/awesome-go,Go,35
-11180687,gohugoio/hugo,Go,31
+21540759,avelino/awesome-go,Go,37
+11180687,gohugoio/hugo,Go,30
 20904437,gin-gonic/gin,Go,39
-48378947,fatedier/frp,Go,42
-41986369,pingcap/tidb,Go,10
-74175805,istio/istio,Go,12
-123572362,quii/learn-go-with-tests,Go,17
+48378947,fatedier/frp,Go,38
+41986369,pingcap/tidb,Go,12
+74175805,istio/istio,Go,11
+123572362,quii/learn-go-with-tests,Go,15
 105279544,gocolly/colly,Go,7
 66573241,hyperledger/fabric,Go,7
 136815833,Dreamacro/clash,Go,20
-136505169,tinygo-org/tinygo,Go,3
+136505169,tinygo-org/tinygo,Go,1
 234231371,gofiber/fiber,Go,91
 79921099,chromedp/chromedp,Go,10
 167304464,cortexlabs/cortex,Go,14
