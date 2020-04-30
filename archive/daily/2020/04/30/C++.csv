@@ -1,19 +1,19 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,42
+5108051,opencv/opencv,C++,44
 1181927,bitcoin/bitcoin,C++,16
 65600975,pytorch/pytorch,C++,40
-22067521,ocornut/imgui,C++,15
-6934395,facebook/rocksdb,C++,14
-60273704,mozilla/DeepSpeech,C++,18
+22067521,ocornut/imgui,C++,18
+6934395,facebook/rocksdb,C++,16
+60273704,mozilla/DeepSpeech,C++,17
 19374812,telegramdesktop/tdesktop,C++,14
 74660642,taichi-dev/taichi,C++,12
 80286288,arendst/Tasmota,C++,38
-34777562,ossrs/srs,C++,12
+34777562,ossrs/srs,C++,13
 18348651,OpenRCT2/OpenRCT2,C++,2
 2200856,MarlinFirmware/Marlin,C++,3
 35718695,android/ndk-samples,C++,6
 104231541,abseil/abseil-cpp,C++,9
-160083795,SerenityOS/serenity,C++,9
+160083795,SerenityOS/serenity,C++,10
 5736080,FreeCAD/FreeCAD,C++,15
 2168780,minetest/minetest,C++,50
 130068982,cpp-taskflow/cpp-taskflow,C++,2
