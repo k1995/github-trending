@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,61
+23096959,golang/go,Go,52
 21540759,avelino/awesome-go,Go,37
 11180687,gohugoio/hugo,Go,29
 20904437,gin-gonic/gin,Go,37
@@ -9,7 +9,7 @@ id,name,lang,new stars
 123572362,quii/learn-go-with-tests,Go,15
 105279544,gocolly/colly,Go,11
 66573241,hyperledger/fabric,Go,6
-136815833,Dreamacro/clash,Go,24
+136815833,Dreamacro/clash,Go,21
 136505169,tinygo-org/tinygo,Go,2
 234231371,gofiber/fiber,Go,47
 79921099,chromedp/chromedp,Go,9
@@ -20,7 +20,7 @@ id,name,lang,new stars
 66505292,GoesToEleven/golang-web-dev,Go,7
 175070907,pion/ion,Go,11
 205679232,flipped-aurora/gin-vue-admin,Go,54
-246903803,earthly/earthly,Go,22
+246903803,earthly/earthly,Go,21
 252813491,projectdiscovery/nuclei,Go,5
 255027515,hahwul/dalfox,Go,5
 258864129,FiloSottile/yubikey-agent,Go,21
