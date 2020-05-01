@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,690
-3482588,danielmiessler/SecLists,PHP,716
+1863329,laravel/laravel,PHP,691
+3482588,danielmiessler/SecLists,PHP,715
 2889328,WordPress/WordPress,PHP,173
 12615154,barryvdh/laravel-debugbar,PHP,218
 60243197,nextcloud/server,PHP,376
 48796179,z-song/laravel-admin,PHP,243
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,81
 2179920,woocommerce/woocommerce,PHP,114
-10238429,tennc/webshell,PHP,135
+10238429,tennc/webshell,PHP,134
 14716368,invoiceninja/invoiceninja,PHP,102
 3118246,mledoze/countries,PHP,102
 6763587,PrestaShop/PrestaShop,PHP,96
@@ -22,5 +22,5 @@ id,name,lang,new stars
 47508644,pterodactyl/panel,PHP,65
 27195711,alextselegidis/easyappointments,PHP,47
 44733816,privacy-protection-tools/anti-AD,PHP,344
-16455664,tastyigniter/TastyIgniter,PHP,89
+16455664,tastyigniter/TastyIgniter,PHP,88
 36526302,pentestmonkey/php-reverse-shell,PHP,37
