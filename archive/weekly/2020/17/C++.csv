@@ -1,18 +1,18 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,210
-100060912,microsoft/terminal,C++,415
-5108051,opencv/opencv,C++,258
+9384267,electron/electron,C++,209
+100060912,microsoft/terminal,C++,413
+5108051,opencv/opencv,C++,256
 23357588,protocolbuffers/protobuf,C++,161
-65600975,pytorch/pytorch,C++,248
+65600975,pytorch/pytorch,C++,243
 15634981,godotengine/godot,C++,188
-23405758,google/leveldb,C++,81
+23405758,google/leveldb,C++,80
 22067521,ocornut/imgui,C++,159
 65214191,envoyproxy/envoy,C++,60
 74660642,taichi-dev/taichi,C++,127
 143455116,google/filament,C++,42
 2200856,MarlinFirmware/Marlin,C++,50
 648332,assimp/assimp,C++,43
-23202799,microsoft/cpprestsdk,C++,35
+23202799,microsoft/cpprestsdk,C++,36
 63477612,TheAlgorithms/C-Plus-Plus,C++,82
 208728772,milvus-io/milvus,C++,65
 192025001,Qv2ray/Qv2ray,C++,737
@@ -21,6 +21,6 @@ id,name,lang,new stars
 196813750,Light-City/CPlusPlusThings,C++,306
 135489692,LeelaChessZero/lc0,C++,13
 252275868,johnboiles/obs-mac-virtualcam,C++,170
-189205663,qinguoyi/TinyWebServer,C++,114
+189205663,qinguoyi/TinyWebServer,C++,115
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,14
-248180072,makers-for-life/makair,C++,35
+248180072,makers-for-life/makair,C++,34
