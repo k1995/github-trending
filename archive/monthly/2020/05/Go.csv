@@ -1,9 +1,9 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1160
+20580498,kubernetes/kubernetes,Go,1161
 20904437,gin-gonic/gin,Go,1126
 11225014,etcd-io/etcd,Go,583
-15452919,ethereum/go-ethereum,Go,259
-112567264,iikira/BaiduPCS-Go,Go,1415
+15452919,ethereum/go-ethereum,Go,258
+112567264,iikira/BaiduPCS-Go,Go,1413
 8989842,unknwon/the-way-to-go_ZH_CN,Go,465
 29217054,micro/go-micro,Go,452
 129717717,grafana/loki,Go,350
@@ -12,15 +12,15 @@ id,name,lang,new stars
 40453691,GoesToEleven/GolangTraining,Go,168
 222172014,slackhq/nebula,Go,538
 18906266,shirou/gopsutil,Go,151
-167304464,cortexlabs/cortex,Go,640
+167304464,cortexlabs/cortex,Go,642
 134012064,pion/webrtc,Go,694
 134018330,panjf2000/ants,Go,208
 26639347,OJ/gobuster,Go,132
 92648433,gwuhaolin/livego,Go,260
 67793333,cortexproject/cortex,Go,273
 66505292,GoesToEleven/golang-web-dev,Go,97
-205679232,flipped-aurora/gin-vue-admin,Go,1191
-154643390,sundowndev/PhoneInfoga,Go,166
-247032621,wenjianzhang/go-admin,Go,585
-208908993,GoogleContainerTools/kpt,Go,370
+205679232,flipped-aurora/gin-vue-admin,Go,1192
+154643390,sundowndev/PhoneInfoga,Go,165
+247032621,wenjianzhang/go-admin,Go,587
+208908993,GoogleContainerTools/kpt,Go,359
 50759993,jbowens/codenames,Go,134

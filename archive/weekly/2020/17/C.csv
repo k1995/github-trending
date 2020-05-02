@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,428
+2325298,torvalds/linux,C,426
 36502,git/git,C,117
-111583593,Genymobile/scrcpy,C,583
+111583593,Genymobile/scrcpy,C,576
 24586308,cfenollosa/os-tutorial,C,58
 36836475,tmux/tmux,C,137
 18666758,pjreddie/darknet,C,301
 7634677,openssl/openssl,C,67
 11715753,robertdavidgraham/masscan,C,59
-196353673,taosdata/TDengine,C,36
+196353673,taosdata/TDengine,C,35
 34921116,iovisor/bcc,C,63
 32873313,systemd/systemd,C,50
 437011,openzfs/zfs,C,33
@@ -21,6 +21,6 @@ id,name,lang,new stars
 179354282,acidanthera/OpenCorePkg,C,113
 1613176,tianocore/edk2,C,13
 237728012,TheWanderingCoel/Trojan-Qt5,JavaScript,103
-255670798,sandboxie/sandboxie,C,90
+255670798,sandboxie/sandboxie,C,88
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,12
 231214350,SinaKarvandi/HyperDbg,C,2
