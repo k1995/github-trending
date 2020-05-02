@@ -1,8 +1,8 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,305
 20904437,gin-gonic/gin,Go,233
-41912791,v2ray/v2ray-core,Go,313
-6838921,prometheus/prometheus,Go,163
+41912791,v2ray/v2ray-core,Go,287
+6838921,prometheus/prometheus,Go,160
 26337322,rancher/rancher,Go,62
 27729907,grpc/grpc-go,Go,75
 11008207,vitessio/vitess,Go,43
@@ -15,7 +15,7 @@ id,name,lang,new stars
 100982449,argoproj/argo,Go,68
 132145189,golangci/golangci-lint,Go,64
 234231371,gofiber/fiber,Go,628
-134012064,pion/webrtc,Go,300
+134012064,pion/webrtc,Go,295
 165261261,monitoror/monitoror,Go,29
 93808874,bxcodec/go-clean-arch,Go,46
 9120526,jackc/pgx,Go,39

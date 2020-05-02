@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,271
-65252,jekyll/jekyll,Ruby,306
-7569578,discourse/discourse,Ruby,312
+8514,rails/rails,Ruby,269
+65252,jekyll/jekyll,Ruby,303
+7569578,discourse/discourse,Ruby,307
 21600440,bayandin/awesome-awesomeness,Ruby,212
-13840241,freeCodeCamp/devdocs,Ruby,327
-2293158,rapid7/metasploit-framework,Ruby,375
+13840241,freeCodeCamp/devdocs,Ruby,326
+2293158,rapid7/metasploit-framework,Ruby,370
 3623050,Homebrew/homebrew-cask,Ruby,181
 538746,ruby/ruby,Ruby,128
-73648678,thepracticaldev/dev.to,Ruby,266
+73648678,thepracticaldev/dev.to,Ruby,261
 585285,gollum/gollum,Ruby,121
 3314,spree/spree,Ruby,97
-3195124,mperham/sidekiq,Ruby,79
+3195124,mperham/sidekiq,Ruby,80
 18486300,lewagon/setup,Ruby,342
 355893,github/markup,Ruby,46
 202291859,chatwoot/chatwoot,Ruby,239
@@ -23,4 +23,4 @@ id,name,lang,new stars
 61203,Shopify/shopify_app,Ruby,22
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,75
 161399160,Shopify/shopify-app-cli,Ruby,34
-70830890,bigbluebutton/greenlight,Ruby,83
+70830890,bigbluebutton/greenlight,Ruby,84
