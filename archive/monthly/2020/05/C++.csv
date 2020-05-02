@@ -1,20 +1,20 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1506
-44838949,apple/swift,C++,464
-65600975,pytorch/pytorch,C++,996
+45717250,tensorflow/tensorflow,C++,1489
+44838949,apple/swift,C++,461
+65600975,pytorch/pytorch,C++,1000
 15634981,godotengine/godot,C++,1016
 22067521,ocornut/imgui,C++,650
 184456251,microsoft/PowerToys,C++,3080
 39840932,google/googletest,C++,383
 4524181,facebook/folly,C++,475
-19374812,telegramdesktop/tdesktop,C++,320
-120887835,huihut/interview,C++,1320
+19374812,telegramdesktop/tdesktop,C++,321
+120887835,huihut/interview,C++,1316
 67702184,topjohnwu/Magisk,C++,653
 80286288,arendst/Tasmota,C++,469
 116167731,yuzu-emu/yuzu,C++,538
 60246359,ClickHouse/ClickHouse,C++,342
-149111813,Tencent/MMKV,C++,306
-3351871,qbittorrent/qBittorrent,C++,368
+149111813,Tencent/MMKV,C++,304
+3351871,qbittorrent/qBittorrent,C++,367
 23129458,aseprite/aseprite,C++,389
 34777562,ossrs/srs,C++,433
 18348651,OpenRCT2/OpenRCT2,C++,128
@@ -22,5 +22,5 @@ id,name,lang,new stars
 192025001,Qv2ray/Qv2ray,C++,1129
 196813750,Light-City/CPlusPlusThings,C++,906
 27918697,versatica/mediasoup,C++,216
-239714835,mindspore-ai/mindspore,C++,324
+239714835,mindspore-ai/mindspore,C++,316
 247988165,CSSALTlab/Open_Source_Ventilator,C++,50
