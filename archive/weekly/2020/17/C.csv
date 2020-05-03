@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,484
+2325298,torvalds/linux,C,455
 36502,git/git,C,115
-111583593,Genymobile/scrcpy,C,566
+111583593,Genymobile/scrcpy,C,514
 24586308,cfenollosa/os-tutorial,C,52
 36836475,tmux/tmux,C,138
-18666758,pjreddie/darknet,C,270
+18666758,pjreddie/darknet,C,205
 7634677,openssl/openssl,C,67
 11715753,robertdavidgraham/masscan,C,55
 196353673,taosdata/TDengine,C,31
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1613176,tianocore/edk2,C,13
 237728012,Trojan-Qt5/Trojan-Qt5,JavaScript,99
 255670798,sandboxie/sandboxie,C,87
-197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,14
+197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,15
 231214350,SinaKarvandi/HyperDbg,C,5
