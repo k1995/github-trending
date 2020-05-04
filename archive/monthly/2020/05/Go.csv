@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,1155
 20904437,gin-gonic/gin,Go,1116
-11225014,etcd-io/etcd,Go,583
+11225014,etcd-io/etcd,Go,585
 15452919,ethereum/go-ethereum,Go,259
 112567264,iikira/BaiduPCS-Go,Go,1401
 8989842,unknwon/the-way-to-go_ZH_CN,Go,451
@@ -19,8 +19,8 @@ id,name,lang,new stars
 92648433,gwuhaolin/livego,Go,254
 67793333,cortexproject/cortex,Go,187
 66505292,GoesToEleven/golang-web-dev,Go,96
-205679232,flipped-aurora/gin-vue-admin,Go,1227
+205679232,flipped-aurora/gin-vue-admin,Go,1228
 154643390,sundowndev/PhoneInfoga,Go,167
 247032621,wenjianzhang/go-admin,Go,578
 208908993,GoogleContainerTools/kpt,Go,251
-50759993,jbowens/codenames,Go,138
+50759993,jbowens/codenames,Go,137
