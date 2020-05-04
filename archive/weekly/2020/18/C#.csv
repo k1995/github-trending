@@ -1,10 +1,10 @@
 id,name,lang,new stars
 17620347,dotnet/aspnetcore,C#,104
-199570071,2dust/v2rayN,C#,279
+199570071,2dust/v2rayN,C#,276
 16157746,dotnet/efcore,C#,24
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,56
 102904613,Unity-Technologies/ml-agents,Python,162
-75990888,dotnet/csharplang,C#,26
+75990888,dotnet/csharplang,C#,29
 54213490,xamarin/Xamarin.Forms,C#,25
 45195614,Jackett/Jackett,C#,69
 198071756,huiyadanli/RevokeMsgPatcher,C#,94
@@ -15,11 +15,11 @@ id,name,lang,new stars
 743436,egametang/ET,C#,25
 203892454,kgrzybek/modular-monolith-with-ddd,C#,83
 23891194,Azure/azure-powershell,C#,14
-2928944,Azure/azure-sdk-for-net,C#,13
 213460285,jasontaylordev/CleanArchitecture,C#,147
-164140756,duke7553/files-uwp,C#,13
+2928944,Azure/azure-sdk-for-net,C#,13
+164140756,duke7553/files-uwp,C#,14
 72554578,confluentinc/confluent-kafka-dotnet,C#,7
-182095352,nilaoda/N_m3u8DL-CLI,C#,61
+182095352,nilaoda/N_m3u8DL-CLI,C#,59
 122229247,xamarin/Essentials,C#,9
 117102183,ChilliCream/hotchocolate,C#,16
 250684236,kwsch/NHSE,C#,30
