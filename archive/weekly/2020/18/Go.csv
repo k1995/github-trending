@@ -1,5 +1,5 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,260
+20580498,kubernetes/kubernetes,Go,261
 20904437,gin-gonic/gin,Go,219
 41912791,v2ray/v2ray-core,Go,263
 6838921,prometheus/prometheus,Go,153
@@ -9,8 +9,8 @@ id,name,lang,new stars
 129717717,grafana/loki,Go,67
 33352201,grpc-ecosystem/grpc-gateway,Go,52
 212613049,cli/cli,Go,116
-27051771,golang/protobuf,Go,43
-117472496,claudiodangelis/qrcp,Go,757
+27051771,golang/protobuf,Go,42
+117472496,claudiodangelis/qrcp,Go,661
 48109239,cilium/cilium,Go,43
 100982449,argoproj/argo,Go,55
 132145189,golangci/golangci-lint,Go,54
@@ -19,7 +19,7 @@ id,name,lang,new stars
 165261261,monitoror/monitoror,Go,29
 93808874,bxcodec/go-clean-arch,Go,45
 9120526,jackc/pgx,Go,44
-7823926,prometheus/client_golang,Go,20
+7823926,prometheus/client_golang,Go,17
 205679232,flipped-aurora/gin-vue-admin,Go,447
 93446042,terraform-providers/terraform-provider-azurerm,Go,18
 250927119,shomali11/go-interview,Go,127
