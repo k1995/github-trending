@@ -1,14 +1,14 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,63
-65600975,pytorch/pytorch,C++,28
-22067521,ocornut/imgui,C++,67
+45717250,tensorflow/tensorflow,C++,64
+65600975,pytorch/pytorch,C++,33
+22067521,ocornut/imgui,C++,57
 39840932,google/googletest,C++,15
 1062572,catchorg/Catch2,C++,14
 81887991,microsoft/AirSim,C++,14
 271714,wkhtmltopdf/wkhtmltopdf,C++,3
-32944298,Z3Prover/z3,C++,8
+32944298,Z3Prover/z3,C++,10
 204593825,microsoft/STL,C++,8
-7512484,ArduPilot/ardupilot,C++,4
+7512484,ArduPilot/ardupilot,C++,6
 5973855,CleverRaven/Cataclysm-DDA,C++,6
 19816070,MariaDB/server,C++,3
 88327406,xmrig/xmrig,C++,6
@@ -16,7 +16,7 @@ id,name,lang,new stars
 115883761,tdlib/td,C++,6
 193305104,barry-ran/QtScrcpy,C++,63
 82815770,acidanthera/Lilu,C++,6
-24747723,jarro2783/cxxopts,C++,6
+24747723,jarro2783/cxxopts,C++,7
 76990209,Aircoookie/WLED,C++,9
 98471367,acidanthera/WhateverGreen,C++,6
 128479644,esphome/esphome,C++,12
