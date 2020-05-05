@@ -1,9 +1,9 @@
 id,name,lang,new stars
-23096959,golang/go,Go,353
+23096959,golang/go,Go,356
 20580498,kubernetes/kubernetes,Go,255
 7691631,moby/moby,Go,74
 42408804,containous/traefik,Go,140
-29207621,caddyserver/caddy,Go,444
+29207621,caddyserver/caddy,Go,463
 17728164,hashicorp/terraform,Go,99
 43723161,helm/helm,Go,63
 46806184,helm/charts,Go,93
@@ -17,7 +17,7 @@ id,name,lang,new stars
 192632000,dapr/dapr,Go,88
 119419195,GoogleContainerTools/kaniko,Go,52
 92313258,jetstack/cert-manager,Go,55
-234231371,gofiber/fiber,Go,363
+234231371,gofiber/fiber,Go,366
 134012064,pion/webrtc,Go,275
 55637575,lucas-clemente/quic-go,Go,48
 87990209,kubernetes/autoscaler,Go,21
