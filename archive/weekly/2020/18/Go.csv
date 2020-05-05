@@ -1,9 +1,9 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,261
-20904437,gin-gonic/gin,Go,207
+20904437,gin-gonic/gin,Go,206
 41912791,v2ray/v2ray-core,Go,259
 6838921,prometheus/prometheus,Go,129
-26337322,rancher/rancher,Go,54
+26337322,rancher/rancher,Go,53
 27729907,grpc/grpc-go,Go,53
 11008207,vitessio/vitess,Go,38
 129717717,grafana/loki,Go,62

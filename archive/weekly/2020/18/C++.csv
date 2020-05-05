@@ -1,12 +1,12 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,183
+9384267,electron/electron,C++,184
 100060912,microsoft/terminal,C++,386
 5108051,opencv/opencv,C++,228
 23357588,protocolbuffers/protobuf,C++,118
 65600975,pytorch/pytorch,C++,222
 15634981,godotengine/godot,C++,167
 23405758,google/leveldb,C++,65
-22067521,ocornut/imgui,C++,287
+22067521,ocornut/imgui,C++,290
 65214191,envoyproxy/envoy,C++,50
 74660642,taichi-dev/taichi,C++,103
 143455116,google/filament,C++,44
@@ -15,8 +15,8 @@ id,name,lang,new stars
 23202799,microsoft/cpprestsdk,C++,31
 63477612,TheAlgorithms/C-Plus-Plus,C++,76
 208728772,milvus-io/milvus,C++,45
-192025001,Qv2ray/Qv2ray,C++,560
-22660515,onqtam/doctest,C++,17
+192025001,Qv2ray/Qv2ray,C++,555
+22660515,onqtam/doctest,C++,18
 153866232,TheCherno/Hazel,C++,50
 196813750,Light-City/CPlusPlusThings,C++,153
 135489692,LeelaChessZero/lc0,C++,12

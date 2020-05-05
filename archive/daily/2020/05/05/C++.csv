@@ -1,7 +1,7 @@
 id,name,lang,new stars
 5108051,opencv/opencv,C++,26
 1181927,bitcoin/bitcoin,C++,16
-65600975,pytorch/pytorch,C++,30
+65600975,pytorch/pytorch,C++,28
 22067521,ocornut/imgui,C++,67
 6934395,facebook/rocksdb,C++,5
 60273704,mozilla/DeepSpeech,C++,9
@@ -10,7 +10,7 @@ id,name,lang,new stars
 80286288,arendst/Tasmota,C++,26
 34777562,ossrs/srs,C++,8
 18348651,OpenRCT2/OpenRCT2,C++,6
-2200856,MarlinFirmware/Marlin,C++,8
+2200856,MarlinFirmware/Marlin,C++,9
 35718695,android/ndk-samples,C++,2
 104231541,abseil/abseil-cpp,C++,10
 160083795,SerenityOS/serenity,C++,21
@@ -20,7 +20,7 @@ id,name,lang,new stars
 192025001,Qv2ray/Qv2ray,C++,54
 13212165,panda3d/panda3d,C++,1
 235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,12
-203406425,beefytech/Beef,C++,51
+203406425,beefytech/Beef,C++,49
 239714835,mindspore-ai/mindspore,C++,2
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,2
-257236246,Tencent/TurboTransformers,C++,0
+257236246,Tencent/TurboTransformers,C++,1
