@@ -1,16 +1,16 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,707
-7548986,laravel/framework,PHP,361
+3482588,danielmiessler/SecLists,PHP,700
+7548986,laravel/framework,PHP,359
 2889328,WordPress/WordPress,PHP,174
 12615154,barryvdh/laravel-debugbar,PHP,225
-60243197,nextcloud/server,PHP,372
+60243197,nextcloud/server,PHP,375
 48796179,z-song/laravel-admin,PHP,221
 2179920,woocommerce/woocommerce,PHP,107
-10238429,tennc/webshell,PHP,121
-2141186,opencart/opencart,PHP,82
-89130234,swoft-cloud/swoft,PHP,95
+10238429,tennc/webshell,PHP,123
+2141186,opencart/opencart,PHP,81
+89130234,swoft-cloud/swoft,PHP,90
 6763587,PrestaShop/PrestaShop,PHP,89
-29126334,EasyCorp/EasyAdminBundle,PHP,50
+29126334,EasyCorp/EasyAdminBundle,PHP,49
 159606650,hyperf/hyperf,PHP,169
 31541210,aimeos/aimeos-laravel,PHP,126
 72453516,wp-graphql/wp-graphql,PHP,70
@@ -18,9 +18,9 @@ id,name,lang,new stars
 79166184,cretueusebiu/laravel-vue-spa,PHP,99
 69691727,pmmp/PocketMine-MP,PHP,99
 175168121,changeweb/Unifiedtransform,PHP,193
-47508644,pterodactyl/panel,PHP,67
+47508644,pterodactyl/panel,PHP,66
 86987524,WWBN/AVideo,PHP,80
 44733816,privacy-protection-tools/anti-AD,PHP,330
-16455664,tastyigniter/TastyIgniter,PHP,105
-182349597,jqhph/dcat-admin,PHP,446
-113842727,drehimself/laravel-ecommerce-example,PHP,34
+16455664,tastyigniter/TastyIgniter,PHP,103
+182349597,jqhph/dcat-admin,PHP,444
+113842727,drehimself/laravel-ecommerce-example,PHP,33
