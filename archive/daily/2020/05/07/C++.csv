@@ -1,9 +1,9 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,42
 23357588,protocolbuffers/protobuf,C++,20
-15634981,godotengine/godot,C++,21
-27729880,grpc/grpc,C++,17
-1357796,emscripten-core/emscripten,C++,10
+15634981,godotengine/godot,C++,20
+27729880,grpc/grpc,C++,16
+1357796,emscripten-core/emscripten,C++,5
 39840932,google/googletest,C++,53
 65214191,envoyproxy/envoy,C++,10
 120887835,huihut/interview,C++,33
@@ -20,7 +20,7 @@ id,name,lang,new stars
 15122806,google/benchmark,C++,7
 75413130,intel-isl/Open3D,C++,3
 193305104,barry-ran/QtScrcpy,C++,32
-76990209,Aircoookie/WLED,C++,7
+76990209,Aircoookie/WLED,C++,5
 152616802,rapidsai/cuml,C++,1
 150774287,danielkrupinski/Osiris,C++,3
 260588460,RampageMod/UE4-c-,C++,6

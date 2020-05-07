@@ -1,11 +1,11 @@
 id,name,lang,new stars
 33015583,keras-team/keras,Python,21
-155220641,huggingface/transformers,Python,60
+155220641,huggingface/transformers,Python,56
 79510167,pypa/pipenv,Python,13
-125266328,psf/black,Python,18
+125266328,psf/black,Python,14
 43160685,zulip/zulip,Python,6
-1390248,saltstack/salt,Python,100
-101782647,pytorch/fairseq,Python,17
+1390248,saltstack/salt,Python,46
+101782647,pytorch/fairseq,Python,19
 61815141,injetlee/Python,Python,12
 224284178,NVlabs/stylegan2,Python,25
 15749269,googleapis/google-api-python-client,Python,10
