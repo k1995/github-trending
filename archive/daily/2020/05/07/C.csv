@@ -1,7 +1,7 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,66
+111583593,Genymobile/scrcpy,C,81
 3774328,wg/wrk,C,20
-5101141,stedolan/jq,C,14
+5101141,stedolan/jq,C,17
 29219243,bannedbook/fanqiang,C,25
 6201092,mpv-player/mpv,C,14
 15337142,micropython/micropython,C,6
@@ -10,17 +10,17 @@ id,name,lang,new stars
 5870069,edenhill/librdkafka,C,3
 192805335,microsoft/mimalloc,C,17
 16734696,meetecho/janus-gateway,C,9
-190845267,n64decomp/sm64,C,328
+190845267,n64decomp/sm64,C,301
 40504480,mit-pdos/xv6-public,C,5
-37060852,betaflight/betaflight,C,3
+37060852,betaflight/betaflight,C,4
 18257358,edenhill/kafkacat,C,2
-179354282,acidanthera/OpenCorePkg,C,36
+179354282,acidanthera/OpenCorePkg,C,35
 6331631,axboe/fio,C,2
 48345674,neomutt/neomutt,C,1
-27275442,dtag-dev-sec/tpotce,C,7
+27275442,dtag-dev-sec/tpotce,C,6
 40556106,wazuh/wazuh,C,2
 89377392,swaywm/wlroots,C,3
 38999874,kkos/oniguruma,C,4
-212012440,cnlohr/rawdrawandroid,C,38
+212012440,cnlohr/rawdrawandroid,C,37
 243870574,SiliconLabs/uC-OS3,C,3
-260119775,ionescu007/faxhell,C,18
+260119775,ionescu007/faxhell,C,26
