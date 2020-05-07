@@ -1,7 +1,7 @@
 id,name,lang,new stars
-23096959,golang/go,Go,335
+23096959,golang/go,Go,334
 20580498,kubernetes/kubernetes,Go,242
-7691631,moby/moby,Go,74
+7691631,moby/moby,Go,73
 11180687,gohugoio/hugo,Go,198
 29207621,caddyserver/caddy,Go,654
 17728164,hashicorp/terraform,Go,86
@@ -13,14 +13,14 @@ id,name,lang,new stars
 131371773,hoanhan101/ultimate-go,Go,703
 21405028,ardanlabs/gotraining,Go,49
 86733463,ahmetb/kubectx,Go,162
-61137153,evanw/esbuild,Go,1181
+61137153,evanw/esbuild,Go,1234
 192632000,dapr/dapr,Go,86
 119419195,GoogleContainerTools/kaniko,Go,55
 39038086,containrrr/watchtower,Go,63
-234231371,gofiber/fiber,Go,273
+234231371,gofiber/fiber,Go,270
 134012064,pion/webrtc,Go,254
 87990209,kubernetes/autoscaler,Go,39
-205679232,flipped-aurora/gin-vue-admin,Go,332
+205679232,flipped-aurora/gin-vue-admin,Go,328
 66505292,GoesToEleven/golang-web-dev,Go,30
 175070907,pion/ion,Go,95
 136633680,openshift/installer,Go,9

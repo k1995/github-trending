@@ -17,10 +17,10 @@ id,name,lang,new stars
 61137153,evanw/esbuild,Go,424
 192632000,dapr/dapr,Go,27
 27576132,aws/aws-sdk-go,Go,6
-133067498,kubernetes-sigs/kustomize,Go,8
+133067498,kubernetes-sigs/kustomize,Go,11
 50629145,google/pprof,Go,13
 40539602,99designs/aws-vault,Go,13
 80134675,containers/buildah,Go,1
 29329884,minio/mc,Go,12
 135321861,ory/kratos,Go,71
-161966225,esrrhs/pingtunnel,Go,62
+161966225,esrrhs/pingtunnel,Go,73
