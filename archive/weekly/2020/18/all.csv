@@ -1,7 +1,7 @@
 id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,487
 29207621,caddyserver/caddy,Go,654
-41058054,isocpp/CppCoreGuidelines,Python,100
+41058054,isocpp/CppCoreGuidelines,Python,102
 43441403,strapi/strapi,JavaScript,476
 63477660,TheAlgorithms/Java,Java,547
 184456251,microsoft/PowerToys,C++,811
@@ -9,18 +9,18 @@ id,name,lang,new stars
 69290591,timgrossmann/InstaPy,Python,310
 131371773,hoanhan101/ultimate-go,Go,703
 161757837,elunez/eladmin,Java,411
-105379569,actix/actix-web,Rust,99
+105379569,actix/actix-web,Rust,102
 224663696,alpinejs/alpine,JavaScript,588
-86733463,ahmetb/kubectx,Go,162
+86733463,ahmetb/kubectx,Go,166
 160083795,SerenityOS/serenity,C++,167
 243838973,fastai/fastbook,Jupyter Notebook,327
-250761246,aristocratos/bashtop,Shell,1448
+250761246,aristocratos/bashtop,Shell,1447
 190845267,n64decomp/sm64,C,649
 192025001,Qv2ray/Qv2ray,C++,379
-51732606,jhu-ep-coursera/fullstack-course4,JavaScript,87
+51732606,jhu-ep-coursera/fullstack-course4,JavaScript,94
 175274189,podgorskiy/ALAE,Python,636
 203406425,beefytech/Beef,C++,291
 253216457,alexgand/springer_free_books,Python,524
-256445099,minivision-ai/photo2cartoon,Python,227
+256445099,minivision-ai/photo2cartoon,Python,153
 6499478,v002/v002-Camera-Live,Objective-C,71
-206862949,SAP-samples/cloud-cap-samples,JavaScript,14
+206862949,SAP-samples/cloud-cap-samples,JavaScript,15
