@@ -3,7 +3,7 @@ id,name,lang,new stars
 14712850,syncthing/syncthing,Go,25
 29207621,caddyserver/caddy,Go,132
 112567264,iikira/BaiduPCS-Go,Go,99
-29261473,minio/minio,Go,33
+29261473,minio/minio,Go,36
 43723161,helm/helm,Go,18
 30215630,go-kit/kit,Go,9
 46806184,helm/charts,Go,14
@@ -22,5 +22,5 @@ id,name,lang,new stars
 50629145,google/pprof,Go,13
 80134675,containers/buildah,Go,7
 29329884,minio/mc,Go,10
-135321861,ory/kratos,Go,28
+135321861,ory/kratos,Go,23
 161966225,esrrhs/pingtunnel,Go,74

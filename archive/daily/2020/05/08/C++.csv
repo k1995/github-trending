@@ -1,5 +1,5 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,39
+9384267,electron/electron,C++,38
 23357588,protocolbuffers/protobuf,C++,19
 15634981,godotengine/godot,C++,17
 27729880,grpc/grpc,C++,15
@@ -9,7 +9,7 @@ id,name,lang,new stars
 120887835,huihut/interview,C++,35
 27500243,google/libphonenumber,C++,6
 81887991,microsoft/AirSim,C++,8
-2649214,arangodb/arangodb,C++,3
+2649214,arangodb/arangodb,C++,4
 26038648,gabime/spdlog,C++,15
 310611,apache/thrift,C++,7
 11577304,dolphin-emu/dolphin,C++,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 193305104,barry-ran/QtScrcpy,C++,22
 76990209,Aircoookie/WLED,C++,5
 152616802,rapidsai/cuml,C++,3
-150774287,danielkrupinski/Osiris,C++,3
+150774287,danielkrupinski/Osiris,C++,1
 260588460,RampageMod/UE4-c-,C++,5
