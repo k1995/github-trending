@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,78
+8514,rails/rails,Ruby,79
 65252,jekyll/jekyll,Ruby,69
 7569578,discourse/discourse,Ruby,73
 52281283,tootsuite/mastodon,Ruby,67
-308770,heartcombo/devise,Ruby,27
-2293158,rapid7/metasploit-framework,Ruby,99
-481872,hashicorp/vagrant,Ruby,44
-73648678,thepracticaldev/dev.to,Ruby,68
+308770,heartcombo/devise,Ruby,25
+2293158,rapid7/metasploit-framework,Ruby,102
+481872,hashicorp/vagrant,Ruby,43
+73648678,thepracticaldev/dev.to,Ruby,69
 4095287,rubocop-hq/rubocop,Ruby,23
-3314,spree/spree,Ruby,13
+3314,spree/spree,Ruby,14
 3195124,mperham/sidekiq,Ruby,21
-96395,faker-ruby/faker,Ruby,99
-1725199,github/linguist,Ruby,24
+96395,faker-ruby/faker,Ruby,98
+1725199,github/linguist,Ruby,26
 810796,sferik/rails_admin,Ruby,11
 108278,chef/chef,Ruby,16
 2441517,puma/puma,Ruby,17
@@ -19,8 +19,8 @@ id,name,lang,new stars
 119760423,Netflix/fast_jsonapi,Ruby,18
 33739333,thoughtbot/administrate,Ruby,16
 75785147,rails/webpacker,Ruby,6
-69813387,iberianpig/fusuma,Ruby,28
-103766152,github/explore,Ruby,12
+69813387,iberianpig/fusuma,Ruby,29
+103766152,github/explore,Ruby,13
 93163073,dependabot/dependabot-core,Ruby,15
 154027884,samber/awesome-prometheus-alerts,Ruby,28
 189010173,Hackplayers/evil-winrm,Ruby,36

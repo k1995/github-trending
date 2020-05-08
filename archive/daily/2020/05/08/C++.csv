@@ -1,9 +1,9 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,40
-23357588,protocolbuffers/protobuf,C++,18
-27729880,grpc/grpc,C++,13
-16587283,dmlc/xgboost,C++,8
-39840932,google/googletest,C++,40
+9384267,electron/electron,C++,43
+23357588,protocolbuffers/protobuf,C++,24
+27729880,grpc/grpc,C++,16
+16587283,dmlc/xgboost,C++,12
+39840932,google/googletest,C++,45
 76222419,Tencent/mars,C++,15
 19953044,google/flatbuffers,C++,10
 31522041,vnpy/vnpy,C++,15
@@ -14,9 +14,9 @@ id,name,lang,new stars
 310611,apache/thrift,C++,7
 38581626,pybind/pybind11,C++,12
 51905353,apache/arrow,C++,13
-243487250,ouyanghuiyu/chineseocr_lite,C++,27
+243487250,ouyanghuiyu/chineseocr_lite,C++,28
 15379620,PCSX2/pcsx2,C++,25
-69316510,weolar/miniblink49,C++,69
+69316510,weolar/miniblink49,C++,68
 5298790,PX4/Firmware,C++,3
 5909706,yhirose/cpp-httplib,C++,10
 91875325,HKUST-Aerial-Robotics/VINS-Mono,C++,6
