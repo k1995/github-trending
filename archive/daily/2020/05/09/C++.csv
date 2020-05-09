@@ -1,0 +1,26 @@
+id,name,lang,new stars
+9384267,electron/electron,C++,37
+23357588,protocolbuffers/protobuf,C++,21
+27729880,grpc/grpc,C++,30
+16587283,dmlc/xgboost,C++,13
+39840932,google/googletest,C++,29
+76222419,Tencent/mars,C++,8
+19953044,google/flatbuffers,C++,10
+31522041,vnpy/vnpy,C++,9
+65711522,PaddlePaddle/Paddle,C++,12
+17391973,Tencent/rapidjson,C++,3
+95879426,Tencent/ncnn,C++,13
+34777562,ossrs/srs,C++,14
+310611,apache/thrift,C++,3
+38581626,pybind/pybind11,C++,5
+51905353,apache/arrow,C++,9
+243487250,ouyanghuiyu/chineseocr_lite,C++,35
+15379620,PCSX2/pcsx2,C++,16
+69316510,weolar/miniblink49,C++,46
+5298790,PX4/Firmware,C++,5
+5909706,yhirose/cpp-httplib,C++,12
+91875325,HKUST-Aerial-Robotics/VINS-Mono,C++,3
+52400453,IntelRealSense/realsense-ros,C++,3
+249721271,mrc-ide/covid-sim,C++,146
+256575700,nccgroup/SocksOverRDP,C++,11
+261798092,googleprojectzero/SkCodecFuzzer,C++,27
