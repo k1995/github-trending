@@ -6,7 +6,7 @@ id,name,lang,new stars
 27729880,grpc/grpc,C++,27
 168008797,microsoft/calculator,C++,13
 4524181,facebook/folly,C++,13
-76222419,Tencent/mars,C++,9
+76222419,Tencent/mars,C++,18
 65214191,envoyproxy/envoy,C++,16
 48009214,microsoft/react-native-windows,C++,20
 102343794,apache/incubator-brpc,C++,7
@@ -16,7 +16,7 @@ id,name,lang,new stars
 34777562,ossrs/srs,C++,18
 7056202,fmtlib/fmt,C++,28
 28449431,scylladb/scylla,C++,11
-243487250,ouyanghuiyu/chineseocr_lite,C++,175
+243487250,ouyanghuiyu/chineseocr_lite,C++,178
 39211337,flutter/engine,C++,5
 5973855,CleverRaven/Cataclysm-DDA,C++,10
 181436799,alibaba/MNN,C++,15

@@ -1,7 +1,7 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,420
+2325298,torvalds/linux,C,427
 156018,antirez/redis,C,189
-111583593,Genymobile/scrcpy,C,516
+111583593,Genymobile/scrcpy,C,522
 1903522,php/php-src,C,67
 3774328,wg/wrk,C,116
 1614410,FFmpeg/FFmpeg,C,111
@@ -14,12 +14,12 @@ id,name,lang,new stars
 70127218,espressif/arduino-esp32,C,35
 89315980,SecWiki/windows-kernel-exploits,C,63
 190845267,n64decomp/sm64,C,967
-37060852,betaflight/betaflight,C,22
+37060852,betaflight/betaflight,C,23
 179354282,acidanthera/OpenCorePkg,C,131
 34807561,nanopb/nanopb,C,18
 246335987,ventoy/Ventoy,C,536
 108568638,hanwckf/rt-n56u,C,55
-217654199,microsoft/msquic,C,319
+217654199,microsoft/msquic,C,322
 119086992,RavenSystem/esp-homekit-devices,C,15
 213916896,blender/blender,C,29
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,7
