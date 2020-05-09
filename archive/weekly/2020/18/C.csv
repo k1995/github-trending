@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,410
+2325298,torvalds/linux,C,420
 156018,antirez/redis,C,189
-111583593,Genymobile/scrcpy,C,509
-1903522,php/php-src,C,66
+111583593,Genymobile/scrcpy,C,516
+1903522,php/php-src,C,67
 3774328,wg/wrk,C,116
 1614410,FFmpeg/FFmpeg,C,111
 15337142,micropython/micropython,C,43
@@ -19,7 +19,7 @@ id,name,lang,new stars
 34807561,nanopb/nanopb,C,18
 246335987,ventoy/Ventoy,C,536
 108568638,hanwckf/rt-n56u,C,55
-217654199,microsoft/msquic,C,318
+217654199,microsoft/msquic,C,319
 119086992,RavenSystem/esp-homekit-devices,C,15
 213916896,blender/blender,C,29
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,7
