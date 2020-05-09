@@ -1,13 +1,13 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,403
+100060912,microsoft/terminal,C++,405
 1181927,bitcoin/bitcoin,C++,129
-22067521,ocornut/imgui,C++,301
-184456251,microsoft/PowerToys,C++,522
-11171548,nlohmann/json,C++,90
+22067521,ocornut/imgui,C++,299
+184456251,microsoft/PowerToys,C++,521
+11171548,nlohmann/json,C++,87
 96246170,ApolloAuto/apollo,C++,53
-39840932,google/googletest,C++,167
-74627617,commaai/openpilot,C++,165
-1062572,catchorg/Catch2,C++,50
+39840932,google/googletest,C++,166
+74627617,commaai/openpilot,C++,164
+1062572,catchorg/Catch2,C++,49
 80286288,arendst/Tasmota,C++,140
 104231541,abseil/abseil-cpp,C++,40
 160083795,SerenityOS/serenity,C++,136
@@ -16,11 +16,11 @@ id,name,lang,new stars
 5973855,CleverRaven/Cataclysm-DDA,C++,34
 69316510,weolar/miniblink49,C++,200
 88327406,xmrig/xmrig,C++,30
-192025001,Qv2ray/Qv2ray,C++,298
+192025001,Qv2ray/Qv2ray,C++,289
 153866232,TheCherno/Hazel,C++,41
-193305104,barry-ran/QtScrcpy,C++,157
+193305104,barry-ran/QtScrcpy,C++,158
 203406425,beefytech/Beef,C++,201
 252275868,johnboiles/obs-mac-virtualcam,C++,125
 60143954,amhndu/SimpleNES,C++,179
-249721271,mrc-ide/covid-sim,C++,378
-163527358,coronalabs/corona,C++,49
+249721271,mrc-ide/covid-sim,C++,377
+163527358,coronalabs/corona,C++,52
