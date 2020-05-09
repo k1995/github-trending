@@ -1,18 +1,18 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1467
-20580498,kubernetes/kubernetes,Go,1130
+23096959,golang/go,Go,1468
+20580498,kubernetes/kubernetes,Go,1133
 20904437,gin-gonic/gin,Go,1106
-13807606,junegunn/fzf,Go,872
+13807606,junegunn/fzf,Go,874
 29207621,caddyserver/caddy,Go,1250
-112567264,iikira/BaiduPCS-Go,Go,1525
+112567264,iikira/BaiduPCS-Go,Go,1536
 17728164,hashicorp/terraform,Go,462
 129717717,grafana/loki,Go,334
 131371773,hoanhan101/ultimate-go,Go,1478
-29371034,micro/micro,Go,158
+29371034,micro/micro,Go,157
 27051771,golang/protobuf,Go,168
 72477752,pulumi/pulumi,Go,571
-234231371,gofiber/fiber,Go,1286
-167304464,cortexlabs/cortex,Go,767
+234231371,gofiber/fiber,Go,1288
+167304464,cortexlabs/cortex,Go,768
 79921099,chromedp/chromedp,Go,183
 120156076,cloudreve/Cloudreve,Go,607
 134012064,pion/webrtc,Go,719
@@ -20,7 +20,7 @@ id,name,lang,new stars
 92648433,gwuhaolin/livego,Go,264
 9120526,jackc/pgx,Go,136
 93928882,swaggo/swag,Go,189
-205679232,flipped-aurora/gin-vue-admin,Go,1440
+205679232,flipped-aurora/gin-vue-admin,Go,1453
 156681830,ffuf/ffuf,Go,335
-154643390,sundowndev/PhoneInfoga,Go,160
+154643390,sundowndev/PhoneInfoga,Go,161
 247032621,wenjianzhang/go-admin,Go,597
