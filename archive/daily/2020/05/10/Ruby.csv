@@ -1,9 +1,9 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,31
+65252,jekyll/jekyll,Ruby,36
 7569578,discourse/discourse,Ruby,23
 8681349,huginn/huginn,Ruby,19
 13840241,freeCodeCamp/devdocs,Ruby,19
-52281283,tootsuite/mastodon,Ruby,13
+52281283,tootsuite/mastodon,Ruby,16
 2293158,rapid7/metasploit-framework,Ruby,38
 481872,hashicorp/vagrant,Ruby,10
 3623050,Homebrew/homebrew-cask,Ruby,15
@@ -13,14 +13,14 @@ id,name,lang,new stars
 4095287,rubocop-hq/rubocop,Ruby,3
 1918677,fluent/fluentd,Ruby,8
 910744,puppetlabs/puppet,Ruby,5
-4994614,wpscanteam/wpscan,Ruby,9
+4994614,wpscanteam/wpscan,Ruby,10
 30337170,rmosolgo/graphql-ruby,Ruby,5
 202291859,chatwoot/chatwoot,Ruby,12
 6899875,opf/openproject,Ruby,7
 4523235,asciidoctor/asciidoctor,Ruby,4
-39706711,hartator/wayback-machine-downloader,Ruby,11
+39706711,hartator/wayback-machine-downloader,Ruby,13
 3898922,zammad/zammad,Ruby,2
 1175581,citation-style-language/styles,Ruby,3
 103766152,github/explore,Ruby,1
 40607511,jeremyevans/rodauth,Ruby,30
-166765782,TideSec/Mars,Ruby,145
+166765782,TideSec/Mars,Ruby,152
