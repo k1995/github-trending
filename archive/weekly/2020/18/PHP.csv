@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,158
+1863329,laravel/laravel,PHP,159
 3482588,danielmiessler/SecLists,PHP,186
 2579314,fzaninotto/Faker,PHP,80
 458058,symfony/symfony,PHP,64
@@ -8,7 +8,7 @@ id,name,lang,new stars
 2889328,WordPress/WordPress,PHP,52
 3431193,yiisoft/yii2,PHP,22
 60243197,nextcloud/server,PHP,102
-82238168,monicahq/monica,PHP,41
+82238168,monicahq/monica,PHP,42
 61490598,PHPOffice/PhpSpreadsheet,PHP,41
 6660366,dompdf/dompdf,PHP,28
 2179920,woocommerce/woocommerce,PHP,21
@@ -21,6 +21,6 @@ id,name,lang,new stars
 27195711,alextselegidis/easyappointments,PHP,17
 146414504,jianyan74/rageframe2,PHP,33
 16455664,tastyigniter/TastyIgniter,PHP,52
-182349597,jqhph/dcat-admin,PHP,180
+182349597,jqhph/dcat-admin,PHP,181
 256854781,spatie/laravel-dashboard,PHP,67
 223535535,Ignitetch/AdvPhishing,PHP,33
