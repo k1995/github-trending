@@ -1,20 +1,20 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,135
+17620347,dotnet/aspnetcore,C#,137
 70104825,dotnet-architecture/eShopOnContainers,C#,104
 54086969,thangchung/awesome-dotnet-core,C#,136
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,61
-28239455,dotnet/AspNetCore.Docs,C#,51
-18586705,nopSolutions/nopCommerce,C#,43
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,62
+28239455,dotnet/AspNetCore.Docs,C#,52
+18586705,nopSolutions/nopCommerce,C#,44
 54213490,xamarin/Xamarin.Forms,C#,33
 69673033,ardalis/CleanArchitecture,C#,76
-193681686,NetchX/Netch,C#,103
-20304390,HearthSim/Hearthstone-Deck-Tracker,C#,59
+193681686,NetchX/Netch,C#,105
+20304390,HearthSim/Hearthstone-Deck-Tracker,C#,60
 70584079,jasontaylordev/NorthwindTraders,C#,69
 75505125,abpframework/abp,C#,58
 27251463,QuantConnect/Lean,C#,43
 113807330,migueldeicaza/gui.cs,C#,30
 41268252,openhardwaremonitor/openhardwaremonitor,C#,139
-38007053,dotnet/docfx,C#,23
+38007053,dotnet/docfx,C#,24
 213460285,jasontaylordev/CleanArchitecture,C#,167
 2928944,Azure/azure-sdk-for-net,C#,19
 98410578,crest-ocean/crest,C#,30
@@ -22,5 +22,5 @@ id,name,lang,new stars
 216050620,Kinnara/ModernWpf,C#,107
 189675276,enkodellc/blazorboilerplate,C#,32
 94501709,Unity-Technologies/2d-extras,C#,28
-243422604,samhogan/Minecraft-Unity3D,C#,122
+243422604,samhogan/Minecraft-Unity3D,C#,123
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,12

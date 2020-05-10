@@ -4,7 +4,7 @@ id,name,lang,new stars
 7548986,laravel/framework,PHP,17
 11323319,erusev/parsedown,PHP,15
 137515,mockery/mockery,PHP,5
-56728437,docker/labs,PHP,11
+56728437,docker/labs,PHP,9
 48796179,z-song/laravel-admin,PHP,16
 61490598,PHPOffice/PhpSpreadsheet,PHP,10
 2699935,squizlabs/PHP_CodeSniffer,PHP,12
@@ -20,7 +20,7 @@ id,name,lang,new stars
 27195711,alextselegidis/easyappointments,PHP,6
 131995661,shopware/platform,PHP,5
 74026995,CodelyTV/php-ddd-example,PHP,2
-16455664,tastyigniter/TastyIgniter,PHP,24
+16455664,tastyigniter/TastyIgniter,PHP,23
 182349597,jqhph/dcat-admin,PHP,53
 258773185,laravel-frontend-presets/tall,PHP,136
 256157516,ekmungai/eloquent-ifrs,PHP,19
