@@ -1,26 +1,26 @@
 id,name,lang,new stars
-123458551,jackfrued/Python-100-Days,Jupyter Notebook,1242
-133442384,denoland/deno,TypeScript,1552
-29207621,caddyserver/caddy,Go,908
-39840932,google/googletest,C++,183
-69290591,timgrossmann/InstaPy,Python,242
-131371773,hoanhan101/ultimate-go,Go,637
-61137153,evanw/esbuild,Go,1728
-209104196,microsoft/c9-python-getting-started,Jupyter Notebook,228
-738491,facebook/facebook-ios-sdk,Objective-C,91
-89266735,facebookresearch/ParlAI,Python,316
-160083795,SerenityOS/serenity,C++,145
-190845267,n64decomp/sm64,C,1028
+60493101,jwasham/coding-interview-university,,3134
+123458551,jackfrued/Python-100-Days,Jupyter Notebook,1256
+133442384,denoland/deno,TypeScript,1490
+29207621,caddyserver/caddy,Go,898
+39840932,google/googletest,C++,181
+221981891,microsoft/playwright,JavaScript,666
+88970564,Tencent/QMUI_Android,Java,181
+131371773,hoanhan101/ultimate-go,Go,645
+41889031,TeamNewPipe/NewPipe,Java,218
+61137153,evanw/esbuild,Go,1729
+1864233,frappe/erpnext,Python,105
+89266735,facebookresearch/ParlAI,Python,323
+202367615,lyswhut/lx-music-desktop,JavaScript,399
+190845267,n64decomp/sm64,C,1044
 70584079,jasontaylordev/NorthwindTraders,C#,69
-240215314,docker/awesome-compose,HTML,667
-128707215,ksindi/managers-playbook,,747
-51732606,jhu-ep-coursera/fullstack-course4,JavaScript,163
-259991778,openai/jukebox,Python,974
-246335987,ventoy/Ventoy,C,607
-203406425,beefytech/Beef,C++,201
-253216457,alexgand/springer_free_books,Python,476
-259954158,mdevils/typescript-exercises,TypeScript,462
-249721271,mrc-ide/covid-sim,C++,445
-60143954,amhndu/SimpleNES,C++,201
-254130055,Dimillian/ACHNBrowserUI,Swift,367
-225918779,entynetproject/ghost,Python,145
+240215314,docker/awesome-compose,HTML,663
+128707215,ksindi/managers-playbook,,750
+259991778,openai/jukebox,Python,1009
+246335987,ventoy/Ventoy,C,619
+253216457,alexgand/springer_free_books,Python,483
+259954158,mdevils/typescript-exercises,TypeScript,464
+249721271,mrc-ide/covid-sim,C++,439
+60143954,amhndu/SimpleNES,C++,199
+254130055,Dimillian/ACHNBrowserUI,Swift,372
+225918779,entynetproject/ghost,Python,146
