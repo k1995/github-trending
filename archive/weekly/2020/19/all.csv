@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,3153
-123458551,jackfrued/Python-100-Days,Jupyter Notebook,1206
-133442384,denoland/deno,TypeScript,1956
-29207621,caddyserver/caddy,Go,925
-39840932,google/googletest,C++,168
-221981891,microsoft/playwright,JavaScript,668
-88970564,Tencent/QMUI_Android,Java,188
-131371773,hoanhan101/ultimate-go,Go,457
-41889031,TeamNewPipe/NewPipe,Java,214
-61137153,evanw/esbuild,Go,1822
-1864233,frappe/erpnext,Python,116
-89266735,facebookresearch/ParlAI,Python,276
-202367615,lyswhut/lx-music-desktop,JavaScript,376
-190845267,n64decomp/sm64,C,1070
-70584079,jasontaylordev/NorthwindTraders,C#,77
-240215314,docker/awesome-compose,HTML,657
-128707215,ksindi/managers-playbook,,475
-259991778,openai/jukebox,Python,695
-246335987,ventoy/Ventoy,C,559
-253216457,alexgand/springer_free_books,Python,349
-259954158,mdevils/typescript-exercises,TypeScript,304
-249721271,mrc-ide/covid-sim,C++,465
-60143954,amhndu/SimpleNES,C++,165
-254130055,Dimillian/ACHNBrowserUI,Swift,348
-225918779,entynetproject/ghost,Python,132
+60493101,jwasham/coding-interview-university,,3177
+123458551,jackfrued/Python-100-Days,Jupyter Notebook,1221
+133442384,denoland/deno,TypeScript,2021
+29207621,caddyserver/caddy,Go,941
+39840932,google/googletest,C++,170
+221981891,microsoft/playwright,JavaScript,673
+88970564,Tencent/QMUI_Android,Java,197
+41889031,TeamNewPipe/NewPipe,Java,217
+61137153,evanw/esbuild,Go,1842
+209104196,microsoft/c9-python-getting-started,Jupyter Notebook,210
+738491,facebook/facebook-ios-sdk,Objective-C,91
+1864233,frappe/erpnext,Python,115
+89266735,facebookresearch/ParlAI,Python,269
+15379620,PCSX2/pcsx2,C++,54
+190845267,n64decomp/sm64,C,1079
+240215314,docker/awesome-compose,HTML,655
+219378850,poloclub/cnn-explainer,JavaScript,1859
+259991778,openai/jukebox,Python,685
+246335987,ventoy/Ventoy,C,576
+253216457,alexgand/springer_free_books,Python,344
+259954158,mdevils/typescript-exercises,TypeScript,299
+143040428,github/codeql,CodeQL,242
+249721271,mrc-ide/covid-sim,C++,467
+254130055,Dimillian/ACHNBrowserUI,Swift,345
+225918779,entynetproject/ghost,Python,137

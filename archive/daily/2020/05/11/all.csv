@@ -1,25 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,805
-133442384,denoland/deno,TypeScript,1113
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,197
-206410838,google/eng-practices,,500
-47023603,xuxueli/xxl-job,Java,89
-110211147,xkcoding/spring-boot-demo,Java,178
-116167731,yuzu-emu/yuzu,C++,58
-102578345,coolsnowwolf/lede,C,58
-121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,49
-230881127,luruke/browser-2020,,317
-148892884,vueComponent/ant-design-vue-pro,Vue,90
-152166877,d2l-ai/d2l-en,Python,102
-196813750,Light-City/CPlusPlusThings,C++,168
-238175846,stjepang/smol,Rust,213
-249342059,chuzhixin/vue-admin-beautiful,Vue,98
-262255533,tannerlinsley/react-virtual,JavaScript,638
-223636350,pycaret/pycaret,Jupyter Notebook,80
-261823549,nhsx/COVID-19-app-iOS-BETA,Objective-C,440
-261523644,nhsx/COVID-19-app-Android-BETA,Kotlin,384
-244132245,async-graphql/async-graphql,Rust,406
-262091731,sm64pc/sm64pc,C,178
-261900954,tjnull/TJ-JPT,,119
+132464395,Snailclimb/JavaGuide,Java,97
+133442384,denoland/deno,TypeScript,1103
+81975372,kdn251/interviews,Java,83
+114466145,yewstack/yew,Rust,20
+121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,50
+67778031,seaswalker/spring-analysis,Java,207
+178626720,PyTorchLightning/pytorch-lightning,Python,33
+86337343,skypjack/entt,C++,240
+251262566,yemount/pose-animator,JavaScript,713
+230599151,rxi/lite,Lua,491
+246335987,ventoy/Ventoy,C,117
+238175846,stjepang/smol,Rust,89
+257940966,MingchaoZhu/InterpretableMLBook,,341
+250386901,ImperialCollegeLondon/covid19model,Jupyter Notebook,26
+212012440,cnlohr/rawdrawandroid,C,426
+255855988,alexellis/awesome-baremetal,,44
+260627194,erluxman/awesomefluttertips,Dart,77
+257596449,epezent/implot,C++,169
+261247446,NathanUA/U-2-Net,Python,194
+237669372,adi1090x/CustomArch,Shell,79
+258012772,sphawes/index,C++,148
+262091731,sm64pc/sm64pc,C,177
+249617978,primer/github-vscode-theme,JavaScript,63
 261905360,AU-COVIDSafe/mobile-android,Kotlin,119
 261904950,AU-COVIDSafe/mobile-ios,Swift,97
