@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,152
+1863329,laravel/laravel,PHP,153
 3482588,danielmiessler/SecLists,PHP,168
 2579314,fzaninotto/Faker,PHP,79
 458058,symfony/symfony,PHP,56
-7548986,laravel/framework,PHP,64
-2253830,PHPMailer/PHPMailer,PHP,49
+7548986,laravel/framework,PHP,70
+2253830,PHPMailer/PHPMailer,PHP,50
 2889328,WordPress/WordPress,PHP,44
 3431193,yiisoft/yii2,PHP,23
 82238168,monicahq/monica,PHP,41
@@ -12,13 +12,13 @@ id,name,lang,new stars
 61490598,PHPOffice/PhpSpreadsheet,PHP,37
 51325497,php-ai/php-ml,PHP,29
 12166778,googleapis/google-api-php-client,PHP,20
-2179920,woocommerce/woocommerce,PHP,18
-2141186,opencart/opencart,PHP,25
+2179920,woocommerce/woocommerce,PHP,19
+2141186,opencart/opencart,PHP,26
 6763587,PrestaShop/PrestaShop,PHP,22
-170355508,livewire/livewire,PHP,120
-31541210,aimeos/aimeos-laravel,PHP,64
+170355508,livewire/livewire,PHP,122
+31541210,aimeos/aimeos-laravel,PHP,63
 13044600,salesagility/SuiteCRM,PHP,13
-27195711,alextselegidis/easyappointments,PHP,16
+27195711,alextselegidis/easyappointments,PHP,15
 146414504,jianyan74/rageframe2,PHP,34
 16455664,tastyigniter/TastyIgniter,PHP,54
 182349597,jqhph/dcat-admin,PHP,184
