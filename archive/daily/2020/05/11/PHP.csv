@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,26
-3482588,danielmiessler/SecLists,PHP,28
+1863329,laravel/laravel,PHP,71
+3482588,danielmiessler/SecLists,PHP,81
 2579314,fzaninotto/Faker,PHP,13
 47495360,koel/koel,PHP,6
-82238168,monicahq/monica,PHP,4
+82238168,monicahq/monica,PHP,15
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,15
 51325497,php-ai/php-ml,PHP,17
 8305060,top-think/think,PHP,7
@@ -14,10 +14,10 @@ id,name,lang,new stars
 3118246,mledoze/countries,PHP,4
 4026744,vinkla/hashids,PHP,4
 31541210,aimeos/aimeos-laravel,PHP,10
-148129143,bagisto/bagisto,PHP,15
+148129143,bagisto/bagisto,PHP,4
 6495081,wikimedia/mediawiki,PHP,2
 679584,openemr/openemr,PHP,1
-16455664,tastyigniter/TastyIgniter,PHP,30
+16455664,tastyigniter/TastyIgniter,PHP,31
 74026995,CodelyTV/php-ddd-example,PHP,2
 39698170,pi-hole/AdminLTE,PHP,2
 28041363,morris/lessql,PHP,6
