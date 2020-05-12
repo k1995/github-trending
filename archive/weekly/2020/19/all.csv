@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,3351
-123458551,jackfrued/Python-100-Days,Jupyter Notebook,1095
-133442384,denoland/deno,TypeScript,2474
-62607227,yangshun/tech-interview-handbook,JavaScript,433
-29207621,caddyserver/caddy,Go,653
-221981891,microsoft/playwright,JavaScript,721
-67487554,nndl/nndl.github.io,HTML,246
-41889031,TeamNewPipe/NewPipe,Java,172
-67778031,seaswalker/spring-analysis,Java,508
-260751863,cyrildiagne/ar-cutpaste,TypeScript,3588
-61137153,evanw/esbuild,Go,1654
+60493101,jwasham/coding-interview-university,,3360
+123458551,jackfrued/Python-100-Days,Jupyter Notebook,1094
+133442384,denoland/deno,TypeScript,2476
+62607227,yangshun/tech-interview-handbook,JavaScript,412
+29207621,caddyserver/caddy,Go,631
+221981891,microsoft/playwright,JavaScript,727
+67487554,nndl/nndl.github.io,HTML,244
+41889031,TeamNewPipe/NewPipe,Java,169
+67778031,seaswalker/spring-analysis,Java,510
+260751863,cyrildiagne/ar-cutpaste,TypeScript,3465
+61137153,evanw/esbuild,Go,1643
 209104196,microsoft/c9-python-getting-started,Jupyter Notebook,183
 738491,facebook/facebook-ios-sdk,Objective-C,91
-89266735,facebookresearch/ParlAI,Python,255
+89266735,facebookresearch/ParlAI,Python,252
 148892884,vueComponent/ant-design-vue-pro,Vue,186
-190845267,n64decomp/sm64,C,818
-219378850,poloclub/cnn-explainer,JavaScript,1721
-246335987,ventoy/Ventoy,C,1027
-259991778,openai/jukebox,Python,637
-261039251,pointfreeco/swift-composable-architecture,Swift,495
-259954158,mdevils/typescript-exercises,TypeScript,267
-143040428,github/codeql,CodeQL,252
-249721271,mrc-ide/covid-sim,C++,497
-254130055,Dimillian/ACHNBrowserUI,Swift,273
-225918779,entynetproject/ghost,Python,144
+190845267,n64decomp/sm64,C,782
+219378850,poloclub/cnn-explainer,JavaScript,1700
+246335987,ventoy/Ventoy,C,1044
+259991778,openai/jukebox,Python,635
+261039251,pointfreeco/swift-composable-architecture,Swift,491
+259954158,mdevils/typescript-exercises,TypeScript,273
+143040428,github/codeql,CodeQL,254
+249721271,mrc-ide/covid-sim,C++,505
+254130055,Dimillian/ACHNBrowserUI,Swift,269
+225918779,entynetproject/ghost,Python,141

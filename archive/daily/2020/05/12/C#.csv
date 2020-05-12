@@ -1,17 +1,17 @@
 id,name,lang,new stars
 69662720,mxgmn/WaveFunctionCollapse,C#,7
 70104825,dotnet-architecture/eShopOnContainers,C#,13
-29078997,dotnet/roslyn,C#,7
+29078997,dotnet/roslyn,C#,8
 791611,mono/mono,C#,3
-2087064,SignalR/SignalR,C#,4
-28239455,dotnet/AspNetCore.Docs,C#,11
+2087064,SignalR/SignalR,C#,3
+28239455,dotnet/AspNetCore.Docs,C#,12
 1135454,cefsharp/CefSharp,C#,5
 46652227,IdentityServer/IdentityServer4,C#,9
 18586705,nopSolutions/nopCommerce,C#,5
 54213490,xamarin/Xamarin.Forms,C#,6
 500093,winsw/winsw,C#,11
 26884725,OrchardCMS/OrchardCore,C#,5
-75505125,abpframework/abp,C#,9
+75505125,abpframework/abp,C#,8
 19216825,xamarin/xamarin-forms-samples,C#,3
 68730444,microsoft/BotBuilder-Samples,C#,6
 189676777,JasonStein/Notepads,C#,19
@@ -21,6 +21,6 @@ id,name,lang,new stars
 22897489,smartstore/SmartStoreNET,C#,3
 2928944,Azure/azure-sdk-for-net,C#,2
 47261966,grandnode/grandnode,C#,6
-210301092,cq-panda/Vue.NetCore,C#,49
+210301092,cq-panda/Vue.NetCore,C#,47
 111510915,dotnet/dotnet-api-docs,C#,0
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,2
