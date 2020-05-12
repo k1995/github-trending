@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,3301
-123458551,jackfrued/Python-100-Days,Jupyter Notebook,1163
-133442384,denoland/deno,TypeScript,2322
-29207621,caddyserver/caddy,Go,796
-39840932,google/googletest,C++,171
-221981891,microsoft/playwright,JavaScript,694
-88970564,Tencent/QMUI_Android,Java,207
-41889031,TeamNewPipe/NewPipe,Java,205
-61137153,evanw/esbuild,Go,1814
-209104196,microsoft/c9-python-getting-started,Jupyter Notebook,202
+60493101,jwasham/coding-interview-university,,3325
+123458551,jackfrued/Python-100-Days,Jupyter Notebook,1150
+133442384,denoland/deno,TypeScript,2362
+62607227,yangshun/tech-interview-handbook,JavaScript,473
+29207621,caddyserver/caddy,Go,762
+221981891,microsoft/playwright,JavaScript,708
+67487554,nndl/nndl.github.io,HTML,270
+41889031,TeamNewPipe/NewPipe,Java,197
+67778031,seaswalker/spring-analysis,Java,480
+260751863,cyrildiagne/ar-cutpaste,TypeScript,4189
+61137153,evanw/esbuild,Go,1781
+209104196,microsoft/c9-python-getting-started,Jupyter Notebook,200
 738491,facebook/facebook-ios-sdk,Objective-C,91
-1864233,frappe/erpnext,Python,114
-89266735,facebookresearch/ParlAI,Python,259
-15379620,PCSX2/pcsx2,C++,58
-190845267,n64decomp/sm64,C,955
-240215314,docker/awesome-compose,HTML,616
-219378850,poloclub/cnn-explainer,JavaScript,1832
-246335987,ventoy/Ventoy,C,887
-259991778,openai/jukebox,Python,654
-253216457,alexgand/springer_free_books,Python,327
-259954158,mdevils/typescript-exercises,TypeScript,275
-143040428,github/codeql,CodeQL,249
-249721271,mrc-ide/covid-sim,C++,492
-254130055,Dimillian/ACHNBrowserUI,Swift,294
-225918779,entynetproject/ghost,Python,142
+89266735,facebookresearch/ParlAI,Python,258
+148892884,vueComponent/ant-design-vue-pro,Vue,183
+190845267,n64decomp/sm64,C,935
+219378850,poloclub/cnn-explainer,JavaScript,1827
+246335987,ventoy/Ventoy,C,949
+259991778,openai/jukebox,Python,653
+261039251,pointfreeco/swift-composable-architecture,Swift,589
+259954158,mdevils/typescript-exercises,TypeScript,274
+143040428,github/codeql,CodeQL,250
+249721271,mrc-ide/covid-sim,C++,491
+254130055,Dimillian/ACHNBrowserUI,Swift,297
+225918779,entynetproject/ghost,Python,143
