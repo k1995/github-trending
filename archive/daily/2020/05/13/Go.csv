@@ -6,8 +6,8 @@ id,name,lang,new stars
 18369373,spf13/viper,Go,28
 27729907,grpc/grpc-go,Go,6
 21233191,ipfs/go-ipfs,Go,9
-212613049,cli/cli,Go,89
-136505169,tinygo-org/tinygo,Go,17
+212613049,cli/cli,Go,91
+136505169,tinygo-org/tinygo,Go,18
 66841911,360EntSecGroup-Skylar/excelize,Go,44
 192632000,dapr/dapr,Go,32
 11206255,Shopify/sarama,Go,6
@@ -17,10 +17,10 @@ id,name,lang,new stars
 120625155,uber/prototool,Go,3
 93444615,terraform-providers/terraform-provider-aws,Go,4
 62712899,AdguardTeam/AdGuardHome,Go,21
-82700090,uber/cadence,Go,5
+82700090,uber/cadence,Go,4
 11452538,prometheus/alertmanager,Go,3
 29778781,slack-go/slack,Go,5
 41561105,go-resty/resty,Go,12
-258864129,FiloSottile/yubikey-agent,Go,78
+258864129,FiloSottile/yubikey-agent,Go,74
 261092900,lucperkins/rek,Go,23
 262827213,dertuxmalwieder/rssfs,Go,6

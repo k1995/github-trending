@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,162
+1863329,laravel/laravel,PHP,164
 2579314,fzaninotto/Faker,PHP,83
-7548986,laravel/framework,PHP,76
-2253830,PHPMailer/PHPMailer,PHP,53
+7548986,laravel/framework,PHP,78
+2253830,PHPMailer/PHPMailer,PHP,54
 3431193,yiisoft/yii2,PHP,21
 11323319,erusev/parsedown,PHP,44
 7704544,Intervention/image,PHP,35
@@ -11,9 +11,9 @@ id,name,lang,new stars
 12166778,googleapis/google-api-php-client,PHP,19
 2179920,woocommerce/woocommerce,PHP,22
 2141186,opencart/opencart,PHP,27
-9193949,wallabag/wallabag,PHP,26
+9193949,wallabag/wallabag,PHP,27
 6763587,PrestaShop/PrestaShop,PHP,22
-170355508,livewire/livewire,PHP,128
+170355508,livewire/livewire,PHP,129
 31541210,aimeos/aimeos-laravel,PHP,68
 48530411,top-think/framework,PHP,7
 13044600,salesagility/SuiteCRM,PHP,13
