@@ -1,12 +1,12 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,214
 54346799,public-apis/public-apis,Python,248
-63476337,TheAlgorithms/Python,Python,99
+63476337,TheAlgorithms/Python,Python,100
 39464018,apache/incubator-superset,Python,14
 206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Python,35
 160919119,tiangolo/fastapi,Python,47
-71932349,ray-project/ray,Python,24
-178626720,PyTorchLightning/pytorch-lightning,Python,74
+71932349,ray-project/ray,Python,28
+178626720,PyTorchLightning/pytorch-lightning,Python,82
 22489033,lazyprogrammer/machine_learning_examples,Python,18
 152166877,d2l-ai/d2l-en,Python,26
 89959156,r0oth3x49/udemy-dl,Python,11
@@ -18,7 +18,7 @@ id,name,lang,new stars
 40687563,oppia/oppia,Python,4
 217113590,KevinMusgrave/pytorch-metric-learning,Python,18
 243454957,MingchaoZhu/DeepLearning,Python,170
-261247446,NathanUA/U-2-Net,Python,102
+261247446,NathanUA/U-2-Net,Python,103
 247295191,sshaoshuai/PCDet,Python,4
 240315046,jina-ai/jina,Python,18
 261372860,DLR-RM/stable-baselines3,Python,21
