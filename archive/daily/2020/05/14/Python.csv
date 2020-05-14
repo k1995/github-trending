@@ -1,6 +1,6 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,157
-63476337,TheAlgorithms/Python,Python,164
+54346799,public-apis/public-apis,Python,146
+63476337,TheAlgorithms/Python,Python,159
 51117837,tensorflow/models,Python,29
 3638964,ansible/ansible,Python,25
 39464018,apache/incubator-superset,Python,10
@@ -11,16 +11,16 @@ id,name,lang,new stars
 640534,sympy/sympy,Python,5
 178626720,PyTorchLightning/pytorch-lightning,Python,22
 50936918,vishnubob/wait-for-it,Python,10
-237791077,mingrammer/diagrams,Python,328
-130725814,NVIDIA/apex,Python,11
+237791077,mingrammer/diagrams,Python,291
+130725814,NVIDIA/apex,Python,12
 87520003,iGhibli/iOS-DeviceSupport,Python,11
 189511050,Morizeyao/GPT2-Chinese,Python,30
 136018362,AtlasNX/Kosmos,Python,3
 51040886,Azure/azure-cli,Python,4
 212037775,jindaxiang/akshare,Python,18
-4127088,Azure/azure-sdk-for-python,Python,6
 243454957,MingchaoZhu/DeepLearning,Python,166
+4127088,Azure/azure-sdk-for-python,Python,6
 261247446,NathanUA/U-2-Net,Python,64
 173443518,hhannine/superpaper,Python,22
 240315046,jina-ai/jina,Python,13
-262903470,BjornRuytenberg/spycheck-linux,Python,18
+262903470,BjornRuytenberg/spycheck-linux,Python,17
