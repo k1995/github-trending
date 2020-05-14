@@ -1,6 +1,6 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,66
-10744183,netdata/netdata,C,30
+10744183,netdata/netdata,C,29
 569041,curl/curl,C,10
 14812739,libuv/libuv,C,8
 908607,numpy/numpy,C,8
@@ -16,8 +16,8 @@ id,name,lang,new stars
 246335987,ventoy/Ventoy,C,193
 205810121,CloverHackyColor/CloverBootloader,C,4
 1613176,tianocore/edk2,C,4
-149854705,rxi/microui,C,14
 212012440,cnlohr/rawdrawandroid,C,76
+149854705,rxi/microui,C,14
 54581275,MicrosoftDocs/WSL,C,0
 262091731,sm64pc/sm64pc,C,20
 149464534,SmallpTsai/hexapod-v2-7697,C,2
