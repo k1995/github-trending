@@ -8,8 +8,8 @@ id,name,lang,new stars
 159152904,zhangdaiscott/jeecg-boot,Java,96
 50613991,goharbor/harbor,Go,26
 99846383,horovod/horovod,Python,16
-102692863,onnx/onnx,PureBasic,15
 212613049,cli/cli,Go,89
+102692863,onnx/onnx,PureBasic,15
 67778031,seaswalker/spring-analysis,Java,123
 34407651,Azure/azure-quickstart-templates,PowerShell,14
 15078635,CISOfy/lynis,Shell,69
@@ -20,7 +20,7 @@ id,name,lang,new stars
 23891194,Azure/azure-powershell,C#,13
 93446042,terraform-providers/terraform-provider-azurerm,Go,6
 263002466,in3rsha/sha256-animation,Ruby,1266
-243454957,MingchaoZhu/DeepLearning,Python,290
+243454957,MingchaoZhu/DeepLearning,Python,301
 262760847,yolossn/Prometheus-Basics,Go,287
 262949440,alibaba/intelligent-test-platform,JavaScript,49
 251132845,alozano-77/AWS-SAA-C02-Course,,38
