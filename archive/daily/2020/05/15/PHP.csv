@@ -1,7 +1,7 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,5
 7548986,laravel/framework,PHP,21
-1420053,guzzle/guzzle,PHP,12
+1420053,guzzle/guzzle,PHP,11
 1376664,Seldaek/monolog,PHP,8
 3431193,yiisoft/yii2,PHP,1
 1548202,matomo-org/matomo,PHP,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 9077725,giggsey/libphonenumber-for-php,PHP,16
 62937181,PrivateBin/PrivateBin,PHP,10
 131995661,shopware/platform,PHP,3
-240322454,alegrey91/systemd-service-hardening,PHP,18
+240322454,alegrey91/systemd-service-hardening,PHP,17
 256157516,ekmungai/eloquent-ifrs,PHP,17
