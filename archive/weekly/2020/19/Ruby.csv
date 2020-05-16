@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,67
-65252,jekyll/jekyll,Ruby,107
-7569578,discourse/discourse,Ruby,67
-27442967,fastlane/fastlane,Ruby,58
-52281283,tootsuite/mastodon,Ruby,48
-2293158,rapid7/metasploit-framework,Ruby,88
-538746,ruby/ruby,Ruby,44
+8514,rails/rails,Ruby,68
+65252,jekyll/jekyll,Ruby,108
+7569578,discourse/discourse,Ruby,69
+27442967,fastlane/fastlane,Ruby,59
+52281283,tootsuite/mastodon,Ruby,49
+2293158,rapid7/metasploit-framework,Ruby,89
+538746,ruby/ruby,Ruby,46
 73648678,thepracticaldev/dev.to,Ruby,99
-2203645,CocoaPods/CocoaPods,Ruby,33
+2203645,CocoaPods/CocoaPods,Ruby,35
 4095287,rubocop-hq/rubocop,Ruby,26
 3195124,mperham/sidekiq,Ruby,22
 88740103,postalhq/postal,Ruby,35
@@ -21,6 +21,6 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,8
 6899875,opf/openproject,Ruby,31
 4523235,asciidoctor/asciidoctor,Ruby,20
-30985840,solidusio/solidus,Ruby,18
+30985840,solidusio/solidus,Ruby,19
 3898922,zammad/zammad,Ruby,20
-166765782,TideSec/Mars,Ruby,160
+166765782,TideSec/Mars,Ruby,161
