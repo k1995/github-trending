@@ -6,10 +6,10 @@ id,name,lang,new stars
 65214191,envoyproxy/envoy,C++,15
 125098880,ValveSoftware/Proton,C++,12
 64991887,microsoft/LightGBM,C++,13
-80286288,arendst/Tasmota,C++,13
+80286288,arendst/Tasmota,C++,15
 81227005,facebookresearch/faiss,C++,30
 20570214,google/tink,C++,11
-26038648,gabime/spdlog,C++,20
+26038648,gabime/spdlog,C++,23
 34777562,ossrs/srs,C++,11
 7056202,fmtlib/fmt,C++,19
 160083795,SerenityOS/serenity,C++,23

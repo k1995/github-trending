@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,158
-2579314,fzaninotto/Faker,PHP,57
+1863329,laravel/laravel,PHP,156
+2579314,fzaninotto/Faker,PHP,55
 7548986,laravel/framework,PHP,102
 448045,sebastianbergmann/phpunit,PHP,28
 4702560,PHPOffice/PHPExcel,PHP,10
@@ -8,13 +8,13 @@ id,name,lang,new stars
 23680678,tymondesigns/jwt-auth,PHP,34
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,50
 61490598,PHPOffice/PhpSpreadsheet,PHP,44
-51325497,php-ai/php-ml,PHP,25
+51325497,php-ai/php-ml,PHP,27
 8305060,top-think/think,PHP,16
-2141186,opencart/opencart,PHP,27
+2141186,opencart/opencart,PHP,26
 4242230,PHPOffice/PHPWord,PHP,25
-6763587,PrestaShop/PrestaShop,PHP,35
+6763587,PrestaShop/PrestaShop,PHP,36
 14346979,snipe/snipe-it,PHP,30
-170355508,livewire/livewire,PHP,146
+170355508,livewire/livewire,PHP,148
 74386167,vimeo/psalm,PHP,21
 148129143,bagisto/bagisto,PHP,32
 13044600,salesagility/SuiteCRM,PHP,16
@@ -23,4 +23,4 @@ id,name,lang,new stars
 39698170,pi-hole/AdminLTE,PHP,12
 68092070,kirilkirkov/Ecommerce-CodeIgniter-Bootstrap,PHP,8
 113842727,drehimself/laravel-ecommerce-example,PHP,14
-258773185,laravel-frontend-presets/tall,PHP,137
+258773185,laravel-frontend-presets/tall,PHP,139
