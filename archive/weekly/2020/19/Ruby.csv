@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,62
-65252,jekyll/jekyll,Ruby,101
-27442967,fastlane/fastlane,Ruby,62
+65252,jekyll/jekyll,Ruby,102
+27442967,fastlane/fastlane,Ruby,60
 52281283,tootsuite/mastodon,Ruby,49
 308770,heartcombo/devise,Ruby,25
-2293158,rapid7/metasploit-framework,Ruby,90
+2293158,rapid7/metasploit-framework,Ruby,89
 538746,ruby/ruby,Ruby,41
-73648678,thepracticaldev/dev.to,Ruby,89
-2203645,CocoaPods/CocoaPods,Ruby,31
+73648678,thepracticaldev/dev.to,Ruby,91
+2203645,CocoaPods/CocoaPods,Ruby,33
 1090311,elastic/logstash,Ruby,25
 4095287,rubocop-hq/rubocop,Ruby,24
 3195124,mperham/sidekiq,Ruby,20
@@ -23,4 +23,4 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,18
 93163073,dependabot/dependabot-core,Ruby,13
 189010173,Hackplayers/evil-winrm,Ruby,37
-10504669,publiclab/plots2,Ruby,1
+10504669,publiclab/plots2,Ruby,0
