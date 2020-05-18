@@ -1,11 +1,11 @@
 id,name,lang,new stars
-48378947,fatedier/frp,Go,23
+48378947,fatedier/frp,Go,22
 41912791,v2ray/v2ray-core,Go,32
 13807606,junegunn/fzf,Go,30
-17803236,rclone/rclone,Go,25
+17803236,rclone/rclone,Go,26
 136815833,Dreamacro/clash,Go,21
 29371034,micro/micro,Go,9
-40453691,GoesToEleven/GolangTraining,Go,4
+40453691,GoesToEleven/GolangTraining,Go,6
 62799996,fluxcd/flux,Go,42
 134012064,pion/webrtc,Go,12
 187403699,FiloSottile/age,Go,9
@@ -17,10 +17,10 @@ id,name,lang,new stars
 156681830,ffuf/ffuf,Go,13
 147886080,crossplane/crossplane,Go,5
 247032621,wenjianzhang/go-admin,Go,16
-75785240,authelia/authelia,Go,14
+75785240,authelia/authelia,Go,15
 117156031,prysmaticlabs/prysm,Go,1
-260064828,google/exposure-notifications-server,Go,118
-220186120,codenotary/immudb,Go,32
+260064828,google/exposure-notifications-server,Go,117
+220186120,codenotary/immudb,Go,37
 240205214,donwa/gclone,Go,9
 255437195,ViRb3/wgcf,Go,17
 261826855,ndelphit/apkurlgrep,Go,13
