@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,157
-2579314,fzaninotto/Faker,PHP,56
-7548986,laravel/framework,PHP,103
+1863329,laravel/laravel,PHP,161
+2579314,fzaninotto/Faker,PHP,61
+7548986,laravel/framework,PHP,105
 448045,sebastianbergmann/phpunit,PHP,29
 4702560,PHPOffice/PHPExcel,PHP,10
 1305114,roots/sage,PHP,27
-23680678,tymondesigns/jwt-auth,PHP,33
+23680678,tymondesigns/jwt-auth,PHP,35
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,50
-61490598,PHPOffice/PhpSpreadsheet,PHP,44
-51325497,php-ai/php-ml,PHP,25
+61490598,PHPOffice/PhpSpreadsheet,PHP,45
+51325497,php-ai/php-ml,PHP,26
 8305060,top-think/think,PHP,16
-2141186,opencart/opencart,PHP,27
-4242230,PHPOffice/PHPWord,PHP,26
-6763587,PrestaShop/PrestaShop,PHP,36
-14346979,snipe/snipe-it,PHP,30
-170355508,livewire/livewire,PHP,148
+2141186,opencart/opencart,PHP,26
+4242230,PHPOffice/PHPWord,PHP,27
+6763587,PrestaShop/PrestaShop,PHP,39
+14346979,snipe/snipe-it,PHP,31
+170355508,livewire/livewire,PHP,151
 74386167,vimeo/psalm,PHP,21
 148129143,bagisto/bagisto,PHP,33
 13044600,salesagility/SuiteCRM,PHP,16
@@ -23,4 +23,4 @@ id,name,lang,new stars
 39698170,pi-hole/AdminLTE,PHP,13
 68092070,kirilkirkov/Ecommerce-CodeIgniter-Bootstrap,PHP,8
 113842727,drehimself/laravel-ecommerce-example,PHP,14
-258773185,laravel-frontend-presets/tall,PHP,140
+258773185,laravel-frontend-presets/tall,PHP,141

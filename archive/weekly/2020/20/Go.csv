@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,368
+20580498,kubernetes/kubernetes,Go,276
+20904437,gin-gonic/gin,Go,267
+15452919,ethereum/go-ethereum,Go,81
+17728164,hashicorp/terraform,Go,119
+13124802,influxdata/influxdb,Go,70
+13855476,jinzhu/gorm,Go,137
+10379607,buger/goreplay,Go,101
+135516270,rancher/k3s,Go,127
+18369373,spf13/viper,Go,166
+50613991,goharbor/harbor,Go,199
+52034309,uber-go/zap,Go,75
+212613049,cli/cli,Go,695
+71297170,Netflix/chaosmonkey,Go,56
+33258973,influxdata/telegraf,Go,32
+61137153,evanw/esbuild,Go,634
+66841911,360EntSecGroup-Skylar/excelize,Go,179
+192632000,dapr/dapr,Go,134
+11206255,Shopify/sarama,Go,35
+113106184,linkerd/linkerd2,Go,40
+100982449,argoproj/argo,Go,59
+62799996,fluxcd/flux,Go,212
+93446042,terraform-providers/terraform-provider-azurerm,Go,44
+244694886,didi/nightingale,Go,69
+185861173,open-telemetry/opentelemetry-collector,Go,19
