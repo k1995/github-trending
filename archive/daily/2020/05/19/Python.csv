@@ -8,7 +8,7 @@ id,name,lang,new stars
 58028038,521xueweihan/HelloGitHub,Python,124
 155220641,huggingface/transformers,Python,235
 57222302,openai/gym,Python,16
-71220757,swisskyrepo/PayloadsAllTheThings,Python,39
+71220757,swisskyrepo/PayloadsAllTheThings,Python,35
 160919119,tiangolo/fastapi,Python,64
 38900806,aleju/imgaug,Python,27
 91356408,allenai/allennlp,Python,4
@@ -18,8 +18,8 @@ id,name,lang,new stars
 131722556,chineseocr/chineseocr,Python,11
 157733401,Dod-o/Statistical-Learning-Method_Code,Python,167
 248323802,senguptaumd/Background-Matting,Python,285
-203465734,facebookresearch/SlowFast,Python,9
-247528876,zhanghang1989/ResNeSt,Python,22
+203465734,facebookresearch/SlowFast,Python,6
+247528876,zhanghang1989/ResNeSt,Python,15
 227483440,mkocabas/VIBE,Python,11
 250213286,huggingface/nlp,Python,148
 60525392,demisto/content,Python,0
