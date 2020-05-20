@@ -1,21 +1,21 @@
 id,name,lang,new stars
-6838921,prometheus/prometheus,Go,37
+6838921,prometheus/prometheus,Go,33
 13124802,influxdata/influxdb,Go,15
-46806184,helm/charts,Go,21
-13624859,gorilla/websocket,Go,9
-6051812,gorilla/mux,Go,14
-56342508,jaegertracing/jaeger,Go,13
+46806184,helm/charts,Go,22
+6051812,gorilla/mux,Go,15
+13624859,gorilla/websocket,Go,8
+56342508,jaegertracing/jaeger,Go,11
 8966356,hashicorp/packer,Go,6
 118654121,GoogleContainerTools/skaffold,Go,14
-7083242,go-sql-driver/mysql,Go,10
+7083242,go-sql-driver/mysql,Go,11
 5179099,go-redis/redis,Go,10
 167596393,derailed/k9s,Go,37
-54400687,loadimpact/k6,Go,10
+54400687,loadimpact/k6,Go,7
 192632000,dapr/dapr,Go,82
 28366058,docker/distribution,Go,1
-68964263,coreos/prometheus-operator,Go,10
-93444615,terraform-providers/terraform-provider-aws,Go,9
-153099672,inancgumus/learngo,Go,799
+68964263,coreos/prometheus-operator,Go,7
+93444615,terraform-providers/terraform-provider-aws,Go,11
+153099672,inancgumus/learngo,Go,500
 120896210,argoproj/argo-cd,Go,16
 67793333,cortexproject/cortex,Go,8
 93808874,bxcodec/go-clean-arch,Go,12
@@ -23,4 +23,4 @@ id,name,lang,new stars
 66156850,TheAlgorithms/Go,Go,51
 22883982,vmware/govmomi,Go,4
 116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,2
-220186120,codenotary/immudb,Go,186
+220186120,codenotary/immudb,Go,154
