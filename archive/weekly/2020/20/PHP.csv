@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,128
-3482588,danielmiessler/SecLists,PHP,212
+1863329,laravel/laravel,PHP,129
+3482588,danielmiessler/SecLists,PHP,213
 2579314,fzaninotto/Faker,PHP,50
 2253830,PHPMailer/PHPMailer,PHP,41
-2884111,magento/magento2,PHP,29
+2884111,magento/magento2,PHP,31
 15020102,walkor/Workerman,PHP,23
 61490598,PHPOffice/PhpSpreadsheet,PHP,52
-12166778,googleapis/google-api-php-client,PHP,22
+12166778,googleapis/google-api-php-client,PHP,23
 7122594,directus/directus,PHP,50
-2179920,woocommerce/woocommerce,PHP,30
-6763587,PrestaShop/PrestaShop,PHP,74
+2179920,woocommerce/woocommerce,PHP,29
+6763587,PrestaShop/PrestaShop,PHP,76
 14346979,snipe/snipe-it,PHP,21
 12204147,mautic/mautic,PHP,11
-10883164,barryvdh/laravel-dompdf,PHP,18
-170355508,livewire/livewire,PHP,143
+10883164,barryvdh/laravel-dompdf,PHP,19
+170355508,livewire/livewire,PHP,141
 158374929,beyondcode/laravel-websockets,PHP,19
 24650294,google/recaptcha,PHP,20
 6418813,endroid/qr-code,PHP,18
@@ -21,6 +21,6 @@ id,name,lang,new stars
 148129143,bagisto/bagisto,PHP,28
 119047018,linuxserver/Heimdall,PHP,27
 39698170,pi-hole/AdminLTE,PHP,11
-246674913,pestphp/pest,PHP,393
-258773185,laravel-frontend-presets/tall,PHP,96
-256157516,ekmungai/eloquent-ifrs,PHP,38
+246674913,pestphp/pest,PHP,407
+258773185,laravel-frontend-presets/tall,PHP,94
+256157516,ekmungai/eloquent-ifrs,PHP,37

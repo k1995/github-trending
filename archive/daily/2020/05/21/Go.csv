@@ -1,7 +1,7 @@
 id,name,lang,new stars
 7691631,moby/moby,Go,19
 11225014,etcd-io/etcd,Go,27
-6838921,prometheus/prometheus,Go,25
+6838921,prometheus/prometheus,Go,26
 50709152,kataras/iris,Go,11
 43723161,helm/helm,Go,13
 31288958,hashicorp/vault,Go,22
@@ -21,6 +21,6 @@ id,name,lang,new stars
 57333709,kubernetes/test-infra,Go,10
 22883982,vmware/govmomi,Go,6
 224588420,wxbool/video-srt-windows,Go,25
-31185891,prometheus/snmp_exporter,Go,1
+31185891,prometheus/snmp_exporter,Go,2
 263708389,ericm/stonks,Go,16
 263268773,strukturag/nextcloud-spreed-signaling,Go,12
