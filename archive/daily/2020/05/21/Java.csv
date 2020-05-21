@@ -1,14 +1,14 @@
 id,name,lang,new stars
 121395510,CyC2018/CS-Notes,Java,105
-6296790,spring-projects/spring-boot,Java,44
+6296790,spring-projects/spring-boot,Java,46
 892275,square/retrofit,Java,24
 19148949,PhilJay/MPAndroidChart,Java,22
 63477660,TheAlgorithms/Java,Java,236
 9754983,eugenp/tutorials,Java,31
 7587038,alibaba/canal,Java,26
 45721011,apache/skywalking,Java,21
-75643096,material-components/material-components-android,Java,13
-168500397,justauth/JustAuth,Java,79
+75643096,material-components/material-components-android,Java,8
+168500397,justauth/JustAuth,Java,75
 501687,antlr/antlr4,Java,6
 5793738,Activiti/Activiti,Java,14
 139914932,quarkusio/quarkus,Java,12
@@ -20,7 +20,7 @@ id,name,lang,new stars
 223748401,WeBankFinTech/DataSphereStudio,Java,11
 118198720,microsoft/CDM,Java,4
 2928948,Azure/azure-sdk-for-java,Java,2
-260712390,corona-warn-app/cwa-server,Java,180
+260712390,corona-warn-app/cwa-server,Java,146
 177373545,cinit/QNotified,Java,6
 261223776,google/exposure-notifications-android,Java,15
 262450683,googleinterns/step,Java,2
