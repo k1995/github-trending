@@ -1,6 +1,6 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,36
-17620347,dotnet/aspnetcore,C#,35
+17620347,dotnet/aspnetcore,C#,36
 29078997,dotnet/roslyn,C#,32
 791611,mono/mono,C#,5
 505380,AutoMapper/AutoMapper,C#,4
@@ -15,7 +15,7 @@ id,name,lang,new stars
 210716005,dotnet/runtime,C#,29
 68730444,microsoft/BotBuilder-Samples,C#,9
 132453438,unoplatform/uno,C#,6
-262395224,dotnet/maui,C#,447
+262395224,dotnet/maui,C#,439
 2928944,Azure/azure-sdk-for-net,C#,2
 1841284,Pryaxis/TShock,C#,25
 119571446,dotnet/samples,C#,4
