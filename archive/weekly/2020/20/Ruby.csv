@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,89
+8514,rails/rails,Ruby,91
 65252,jekyll/jekyll,Ruby,92
-52281283,tootsuite/mastodon,Ruby,77
+52281283,tootsuite/mastodon,Ruby,78
 308770,heartcombo/devise,Ruby,39
 538746,ruby/ruby,Ruby,29
-73648678,thepracticaldev/dev.to,Ruby,94
-2203645,CocoaPods/CocoaPods,Ruby,41
-1090311,elastic/logstash,Ruby,34
+73648678,thepracticaldev/dev.to,Ruby,96
+2203645,CocoaPods/CocoaPods,Ruby,42
+1090311,elastic/logstash,Ruby,35
 4095287,rubocop-hq/rubocop,Ruby,15
 3195124,mperham/sidekiq,Ruby,29
 11423758,mame/quine-relay,Ruby,92
@@ -14,13 +14,13 @@ id,name,lang,new stars
 6529205,varvet/pundit,Ruby,15
 21829,thoughtbot/factory_bot,Ruby,8
 2441517,puma/puma,Ruby,18
-96071,rack/rack,Ruby,8
-30985840,solidusio/solidus,Ruby,16
+96071,rack/rack,Ruby,9
+30985840,solidusio/solidus,Ruby,17
 21333814,lynndylanhurley/devise_token_auth,Ruby,2
 263002466,in3rsha/sha256-animation,Ruby,421
-51164398,oracle/truffleruby,Ruby,39
+51164398,oracle/truffleruby,Ruby,43
 138776049,sorbet/sorbet,Ruby,19
 154027884,samber/awesome-prometheus-alerts,Ruby,26
 93163073,dependabot/dependabot-core,Ruby,17
 61203,Shopify/shopify_app,Ruby,7
-29151578,rswag/rswag,Ruby,8
+29151578,rswag/rswag,Ruby,10
