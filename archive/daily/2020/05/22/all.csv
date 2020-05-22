@@ -1,5 +1,4 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,379
 7691631,moby/moby,Go,18
 58028038,521xueweihan/HelloGitHub,Python,121
 63477660,TheAlgorithms/Java,Java,152
@@ -9,13 +8,11 @@ id,name,lang,new stars
 40518025,graphql/graphiql,TypeScript,25
 63477612,TheAlgorithms/C-Plus-Plus,C++,255
 63477515,TheAlgorithms/C,C,116
-197275130,microsoft/winget-cli,C++,932
-157733401,Dod-o/Statistical-Learning-Method_Code,Python,270
+157733401,Dod-o/Statistical-Learning-Method_Code,Python,314
 66156850,TheAlgorithms/Go,Go,139
 68730444,microsoft/BotBuilder-Samples,C#,21
 262395224,dotnet/maui,C#,430
 112751115,naganandy/graph-based-deep-learning-literature,Jupyter Notebook,50
-197275551,microsoft/winget-pkgs,PowerShell,249
 216236917,bjmashibing/InternetArchitect,Java,158
 201570219,manojVivek/responsively-app,JavaScript,391
 262368402,ddd-crew/ddd-starter-modelling-process,,133
@@ -23,4 +20,3 @@ id,name,lang,new stars
 256049233,microsoft/ProjectReunion,,105
 230509888,N-l1/lovelace-soft-ui,,25
 264775694,idris-lang/Idris2,Idris,75
-261336834,microsoft/StudentsAtBuild,JavaScript,57
