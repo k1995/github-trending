@@ -7,7 +7,7 @@ id,name,lang,new stars
 3314,spree/spree,Ruby,4
 361310,teamcapybara/capybara,Ruby,0
 611921,activeadmin/activeadmin,Ruby,0
-1725199,github/linguist,Ruby,2
+1725199,github/linguist,Ruby,3
 52855516,Homebrew/homebrew-core,Ruby,7
 108278,chef/chef,Ruby,3
 2441517,puma/puma,Ruby,4
@@ -17,7 +17,7 @@ id,name,lang,new stars
 2889230,rails-api/active_model_serializers,Ruby,0
 355893,github/markup,Ruby,0
 69813387,iberianpig/fusuma,Ruby,3
-154027884,samber/awesome-prometheus-alerts,Ruby,7
+154027884,samber/awesome-prometheus-alerts,Ruby,6
 238983,rspec/rspec-mocks,Ruby,0
 24954,ruby-i18n/i18n,Ruby,0
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,0
