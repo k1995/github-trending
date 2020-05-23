@@ -1,7 +1,7 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,7
-458058,symfony/symfony,PHP,13
-7548986,laravel/framework,PHP,15
+458058,symfony/symfony,PHP,12
+7548986,laravel/framework,PHP,17
 1420053,guzzle/guzzle,PHP,7
 1376664,Seldaek/monolog,PHP,6
 2253830,PHPMailer/PHPMailer,PHP,11
@@ -21,6 +21,6 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,6
 111680504,composer/xdebug-handler,PHP,5
 11222414,jmespath/jmespath.php,PHP,3
-246674913,pestphp/pest,PHP,106
+246674913,pestphp/pest,PHP,107
 85140962,AdvancedCustomFields/acf,PHP,0
 256854781,spatie/laravel-dashboard,PHP,3
