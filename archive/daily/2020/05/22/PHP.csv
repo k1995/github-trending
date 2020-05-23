@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1864363,composer/composer,PHP,16
+1864363,composer/composer,PHP,20
 7548986,laravel/framework,PHP,10
-5724990,briannesbitt/Carbon,PHP,11
+5724990,briannesbitt/Carbon,PHP,9
 3431193,yiisoft/yii2,PHP,1
 12615154,barryvdh/laravel-debugbar,PHP,9
 926544,slimphp/Slim,PHP,3
-4916869,ramsey/uuid,PHP,5
+4916869,ramsey/uuid,PHP,6
 6936773,php-fig/log,PHP,4
 48796179,z-song/laravel-admin,PHP,11
 65755556,php-fig/container,PHP,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 76064827,mailcow/mailcow-dockerized,PHP,5
 20413487,ralouphie/getallheaders,PHP,3
 159606650,hyperf/hyperf,PHP,2
-86987524,WWBN/AVideo,PHP,12
+86987524,WWBN/AVideo,PHP,4
 74026995,CodelyTV/php-ddd-example,PHP,6
-246674913,pestphp/pest,PHP,111
+246674913,pestphp/pest,PHP,110
 36526302,pentestmonkey/php-reverse-shell,PHP,4
