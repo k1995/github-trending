@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,103
-53238813,Homebrew/brew,Ruby,119
-52281283,tootsuite/mastodon,Ruby,108
+53238813,Homebrew/brew,Ruby,121
+52281283,tootsuite/mastodon,Ruby,112
 308770,heartcombo/devise,Ruby,47
-2293158,rapid7/metasploit-framework,Ruby,80
+2293158,rapid7/metasploit-framework,Ruby,81
 538746,ruby/ruby,Ruby,40
 73648678,thepracticaldev/dev.to,Ruby,112
 1090311,elastic/logstash,Ruby,38
 4095287,rubocop-hq/rubocop,Ruby,18
 3195124,mperham/sidekiq,Ruby,31
-1918677,fluent/fluentd,Ruby,41
-11423758,mame/quine-relay,Ruby,115
+1918677,fluent/fluentd,Ruby,42
+11423758,mame/quine-relay,Ruby,117
 611921,activeadmin/activeadmin,Ruby,8
 587311,omniauth/omniauth,Ruby,7
 6529205,varvet/pundit,Ruby,16
@@ -22,5 +22,5 @@ id,name,lang,new stars
 51164398,oracle/truffleruby,Ruby,49
 138776049,sorbet/sorbet,Ruby,20
 93163073,dependabot/dependabot-core,Ruby,17
-126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,73
+126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,75
 29151578,rswag/rswag,Ruby,11

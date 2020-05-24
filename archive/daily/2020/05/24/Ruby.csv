@@ -1,10 +1,10 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,26
 7569578,discourse/discourse,Ruby,27
-27442967,fastlane/fastlane,Ruby,16
+27442967,fastlane/fastlane,Ruby,15
 8681349,huginn/huginn,Ruby,34
-13840241,freeCodeCamp/devdocs,Ruby,22
-52281283,tootsuite/mastodon,Ruby,42
+13840241,freeCodeCamp/devdocs,Ruby,21
+52281283,tootsuite/mastodon,Ruby,36
 538746,ruby/ruby,Ruby,16
 106995,sinatra/sinatra,Ruby,5
 1918677,fluent/fluentd,Ruby,14
@@ -22,5 +22,5 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,4
 35051828,dev-sec/ansible-os-hardening,Ruby,2
 70830890,bigbluebutton/greenlight,Ruby,2
-174796313,ruby/rbs,Ruby,8
+174796313,ruby/rbs,Ruby,7
 237796058,UnlyEd/next-right-now,Ruby,3
