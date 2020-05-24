@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,137
-3482588,danielmiessler/SecLists,PHP,231
+1863329,laravel/laravel,PHP,145
+3482588,danielmiessler/SecLists,PHP,235
 2579314,fzaninotto/Faker,PHP,51
-2253830,PHPMailer/PHPMailer,PHP,47
+2253830,PHPMailer/PHPMailer,PHP,49
 5724990,briannesbitt/Carbon,PHP,37
-2884111,magento/magento2,PHP,36
+2884111,magento/magento2,PHP,37
 15020102,walkor/Workerman,PHP,28
 61490598,PHPOffice/PhpSpreadsheet,PHP,54
 12166778,googleapis/google-api-php-client,PHP,23
 7122594,directus/directus,PHP,67
 2179920,woocommerce/woocommerce,PHP,36
-6763587,PrestaShop/PrestaShop,PHP,76
-170355508,livewire/livewire,PHP,137
+6763587,PrestaShop/PrestaShop,PHP,79
+170355508,livewire/livewire,PHP,138
 158374929,beyondcode/laravel-websockets,PHP,19
 24650294,google/recaptcha,PHP,19
 6418813,endroid/qr-code,PHP,18
@@ -19,7 +19,7 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,22
 86987524,WWBN/AVideo,PHP,23
 74026995,CodelyTV/php-ddd-example,PHP,18
-39698170,pi-hole/AdminLTE,PHP,16
-258773185,laravel-frontend-presets/tall,PHP,99
+39698170,pi-hole/AdminLTE,PHP,18
+258773185,laravel-frontend-presets/tall,PHP,100
 36526302,pentestmonkey/php-reverse-shell,PHP,16
 250711891,DanielHe4rt/php4noobs,PHP,31
