@@ -7,10 +7,10 @@ id,name,lang,new stars
 37448451,mattermost/mattermost-server,Go,24
 122734569,iawia002/annie,Go,19
 136815833,Dreamacro/clash,Go,71
-163883279,nektos/act,Go,130
+163883279,nektos/act,Go,134
 167304464,cortexlabs/cortex,Go,18
 67382094,Jguer/yay,Go,11
-815644,miekg/dns,Go,18
+815644,miekg/dns,Go,17
 91851756,docker/docker-ce,Go,15
 62712899,AdguardTeam/AdGuardHome,Go,35
 26639347,OJ/gobuster,Go,19
@@ -22,5 +22,5 @@ id,name,lang,new stars
 242329748,Jrohy/trojan,Go,24
 248025303,p4gefau1t/trojan-go,Go,33
 159765377,ColetteContreras/v2ray-poseidon,Go,6
-263708389,ericm/stonks,Go,75
+263708389,ericm/stonks,Go,113
 266052652,sysdream/ligolo,Go,149
