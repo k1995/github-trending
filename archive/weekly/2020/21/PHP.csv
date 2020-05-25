@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,122
-3482588,danielmiessler/SecLists,PHP,201
+1863329,laravel/laravel,PHP,121
+3482588,danielmiessler/SecLists,PHP,197
 448045,sebastianbergmann/phpunit,PHP,18
 2253830,PHPMailer/PHPMailer,PHP,45
-5724990,briannesbitt/Carbon,PHP,44
-1305114,roots/sage,PHP,21
+5724990,briannesbitt/Carbon,PHP,43
+1305114,roots/sage,PHP,20
 2884111,magento/magento2,PHP,24
-15020102,walkor/Workerman,PHP,21
-61490598,PHPOffice/PhpSpreadsheet,PHP,45
-7122594,directus/directus,PHP,61
-5508585,YOURLS/YOURLS,PHP,42
-2179920,woocommerce/woocommerce,PHP,28
-6763587,PrestaShop/PrestaShop,PHP,42
-170355508,livewire/livewire,PHP,106
+15020102,walkor/Workerman,PHP,20
+61490598,PHPOffice/PhpSpreadsheet,PHP,46
+7122594,directus/directus,PHP,60
+5508585,YOURLS/YOURLS,PHP,43
+2179920,woocommerce/woocommerce,PHP,27
+6763587,PrestaShop/PrestaShop,PHP,44
+170355508,livewire/livewire,PHP,109
 158374929,beyondcode/laravel-websockets,PHP,14
 117649937,hhxsv5/laravel-s,PHP,19
 22751672,tecnickcom/TCPDF,PHP,21
@@ -20,6 +20,6 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,13
 86987524,WWBN/AVideo,PHP,22
 74026995,CodelyTV/php-ddd-example,PHP,19
-156607803,hestiacp/hestiacp,PHP,18
+156607803,hestiacp/hestiacp,PHP,17
 36526302,pentestmonkey/php-reverse-shell,PHP,14
 263127159,Potterhead/app,PHP,17
