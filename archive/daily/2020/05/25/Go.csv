@@ -1,7 +1,7 @@
 id,name,lang,new stars
 11180687,gohugoio/hugo,Go,88
 48378947,fatedier/frp,Go,56
-41912791,v2ray/v2ray-core,Go,146
+41912791,v2ray/v2ray-core,Go,145
 8989842,unknwon/the-way-to-go_ZH_CN,Go,21
 123572362,quii/learn-go-with-tests,Go,17
 136815833,Dreamacro/clash,Go,95
@@ -13,13 +13,13 @@ id,name,lang,new stars
 140412864,kgretzky/evilginx2,Go,5
 10721619,hajimehoshi/ebiten,Go,6
 140944482,rtr7/router7,Go,45
-136217503,olivia-ai/olivia,Go,270
+136217503,olivia-ai/olivia,Go,276
 154643390,sundowndev/PhoneInfoga,Go,20
 73474882,tarent/loginsrv,Go,218
 111455867,smartcontractkit/chainlink,Go,2
 135321861,ory/kratos,Go,13
-242329748,Jrohy/trojan,Go,30
-248025303,p4gefau1t/trojan-go,Go,41
+242329748,Jrohy/trojan,Go,32
+248025303,p4gefau1t/trojan-go,Go,40
 266052652,sysdream/ligolo,Go,79
 263964128,github/go-fault,Go,57
 265744734,soluble-ai/kubetap,Go,26
