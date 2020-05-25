@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,54
+3482588,danielmiessler/SecLists,PHP,51
 5724990,briannesbitt/Carbon,PHP,14
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,8
 11467667,typecho/typecho,PHP,14
@@ -20,7 +20,7 @@ id,name,lang,new stars
 57463067,AzuraCast/AzuraCast,PHP,6
 74026995,CodelyTV/php-ddd-example,PHP,9
 156607803,hestiacp/hestiacp,PHP,12
-191800260,filegator/filegator,PHP,8
+191800260,filegator/filegator,PHP,7
 156552715,bavix/laravel-wallet,PHP,7
 190102357,dedetech/DedeCMSv5,PHP,5
 182634458,JackMD/ScoreHud-Addons,PHP,0

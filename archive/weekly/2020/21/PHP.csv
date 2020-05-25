@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,155
-3482588,danielmiessler/SecLists,PHP,256
+1863329,laravel/laravel,PHP,156
+3482588,danielmiessler/SecLists,PHP,258
 448045,sebastianbergmann/phpunit,PHP,28
 2253830,PHPMailer/PHPMailer,PHP,56
 5724990,briannesbitt/Carbon,PHP,40
@@ -8,18 +8,18 @@ id,name,lang,new stars
 14259390,Maatwebsite/Laravel-Excel,PHP,36
 15020102,walkor/Workerman,PHP,30
 61490598,PHPOffice/PhpSpreadsheet,PHP,57
-12166778,googleapis/google-api-php-client,PHP,25
+12166778,googleapis/google-api-php-client,PHP,26
 7122594,directus/directus,PHP,75
 2179920,woocommerce/woocommerce,PHP,35
 6763587,PrestaShop/PrestaShop,PHP,84
-170355508,livewire/livewire,PHP,151
+170355508,livewire/livewire,PHP,153
 158374929,beyondcode/laravel-websockets,PHP,20
-24650294,google/recaptcha,PHP,19
+24650294,google/recaptcha,PHP,20
 22751672,tecnickcom/TCPDF,PHP,20
 69691727,pmmp/PocketMine-MP,PHP,25
 1957456,Dolibarr/dolibarr,PHP,20
 86987524,WWBN/AVideo,PHP,24
 74026995,CodelyTV/php-ddd-example,PHP,20
-258773185,laravel-frontend-presets/tall,PHP,102
+258773185,laravel-frontend-presets/tall,PHP,103
 36526302,pentestmonkey/php-reverse-shell,PHP,18
 263127159,Potterhead/app,PHP,26

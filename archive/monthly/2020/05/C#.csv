@@ -1,16 +1,16 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,618
+17620347,dotnet/aspnetcore,C#,619
 29078997,dotnet/roslyn,C#,292
-54086969,thangchung/awesome-dotnet-core,C#,396
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,237
+54086969,thangchung/awesome-dotnet-core,C#,395
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,242
 102904613,Unity-Technologies/ml-agents,C#,527
-959908,OpenRA/OpenRA,C#,249
+959908,OpenRA/OpenRA,C#,250
 28239455,dotnet/AspNetCore.Docs,C#,216
 75990888,dotnet/csharplang,C#,232
-44897462,JustArchiNET/ArchiSteamFarm,C#,225
-69673033,ardalis/CleanArchitecture,C#,315
-54213490,xamarin/Xamarin.Forms,C#,149
-193681686,NetchX/Netch,C#,488
+44897462,JustArchiNET/ArchiSteamFarm,C#,230
+69673033,ardalis/CleanArchitecture,C#,314
+54213490,xamarin/Xamarin.Forms,C#,150
+193681686,NetchX/Netch,C#,495
 26884725,OrchardCMS/OrchardCore,C#,143
 70584079,jasontaylordev/NorthwindTraders,C#,225
 21611723,quasar/QuasarRAT,C#,107
@@ -18,9 +18,9 @@ id,name,lang,new stars
 68730444,microsoft/BotBuilder-Samples,C#,147
 213460285,jasontaylordev/CleanArchitecture,C#,573
 23891194,Azure/azure-powershell,C#,105
-245235133,microsoft/reverse-proxy,C#,1610
-39425864,tModLoader/tModLoader,C#,145
-145183271,Azure/Azure-Sentinel,C#,70
+245235133,microsoft/reverse-proxy,C#,1613
+39425864,tModLoader/tModLoader,C#,148
+145183271,Azure/Azure-Sentinel,C#,71
 128755707,yaronzz/Tidal-Media-Downloader,C#,123
 155757874,microsoft/Xaml-Controls-Gallery,C#,67
 94501709,Unity-Technologies/2d-extras,C#,89
