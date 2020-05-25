@@ -1,16 +1,16 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,769
+3482588,danielmiessler/SecLists,PHP,775
 7548986,laravel/framework,PHP,341
 2253830,PHPMailer/PHPMailer,PHP,200
 82238168,monicahq/monica,PHP,144
 8305060,top-think/think,PHP,49
-5508585,YOURLS/YOURLS,PHP,155
+5508585,YOURLS/YOURLS,PHP,156
 2179920,woocommerce/woocommerce,PHP,109
-2141186,opencart/opencart,PHP,85
-6763587,PrestaShop/PrestaShop,PHP,155
-170355508,livewire/livewire,PHP,550
+2141186,opencart/opencart,PHP,86
+6763587,PrestaShop/PrestaShop,PHP,156
+170355508,livewire/livewire,PHP,554
 10226642,Crinsane/LaravelShoppingcart,PHP,39
-148129143,bagisto/bagisto,PHP,126
+148129143,bagisto/bagisto,PHP,127
 59965104,nuwave/lighthouse,PHP,78
 39182755,glpi-project/glpi,PHP,39
 27195711,alextselegidis/easyappointments,PHP,63
@@ -22,5 +22,5 @@ id,name,lang,new stars
 74026995,CodelyTV/php-ddd-example,PHP,73
 113842727,drehimself/laravel-ecommerce-example,PHP,41
 144549569,luolongfei/freenom,PHP,134
-36526302,pentestmonkey/php-reverse-shell,PHP,44
+36526302,pentestmonkey/php-reverse-shell,PHP,45
 223535535,Ignitetch/AdvPhishing,PHP,85

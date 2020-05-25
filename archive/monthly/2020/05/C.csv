@@ -1,20 +1,20 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1653
-156018,antirez/redis,C,765
-111583593,Genymobile/scrcpy,C,1988
-1614410,FFmpeg/FFmpeg,C,482
-908607,numpy/numpy,C,352
+2325298,torvalds/linux,C,1657
+156018,antirez/redis,C,766
+111583593,Genymobile/scrcpy,C,1991
+1614410,FFmpeg/FFmpeg,C,483
+908607,numpy/numpy,C,354
 29759715,facebook/zstd,C,260
 196353673,taosdata/TDengine,C,314
 15337142,micropython/micropython,C,179
 24993138,google/brotli,C,162
 84240850,timescale/timescaledb,C,202
 927442,postgres/postgres,C,159
-147667687,pwn20wndstuff/Undecimus,C,265
+147667687,pwn20wndstuff/Undecimus,C,267
 437011,openzfs/zfs,C,145
 3319040,id-Software/DOOM,C,283
 14902556,offensive-security/exploitdb,C,127
-63477515,TheAlgorithms/C,C,845
+63477515,TheAlgorithms/C,C,847
 190845267,n64decomp/sm64,C,1284
 7037996,VirusTotal/yara,C,127
 187922067,microsoft/WSL2-Linux-Kernel,C,191
