@@ -1,11 +1,11 @@
 id,name,lang,new stars
 5108051,opencv/opencv,C++,60
 15634981,godotengine/godot,C++,26
-60273704,mozilla/DeepSpeech,C++,20
+60273704,mozilla/DeepSpeech,C++,21
 81887991,microsoft/AirSim,C++,31
 7056202,fmtlib/fmt,C++,81
-2701888,mawww/kakoune,C++,36
-5736080,FreeCAD/FreeCAD,C++,5
+2701888,mawww/kakoune,C++,37
+5736080,FreeCAD/FreeCAD,C++,6
 9647856,zerotier/ZeroTierOne,C++,11
 37821236,SaschaWillems/Vulkan,C++,3
 7512484,ArduPilot/ardupilot,C++,1
@@ -14,7 +14,7 @@ id,name,lang,new stars
 143324737,diasurgical/devilutionX,C++,3
 14979312,clementine-player/Clementine,C++,2
 208366483,microsoft/verona,C++,19
-239043195,microsoft/GW-BASIC,C++,228
+239043195,microsoft/GW-BASIC,C++,227
 76990209,Aircoookie/WLED,C++,10
 138754790,cwida/duckdb,C++,120
 168947928,Errichto/youtube,C++,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,2
 18179848,ezEngine/ezEngine,C++,9
 261336860,vovkos/protolesshooks,C++,8
-264339376,citra-emu/citra-android,C++,10
+264339376,citra-emu/citra-android,C++,11
