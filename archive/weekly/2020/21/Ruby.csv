@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,76
-7569578,discourse/discourse,Ruby,78
-8681349,huginn/huginn,Ruby,95
-53238813,Homebrew/brew,Ruby,95
-52281283,tootsuite/mastodon,Ruby,189
-308770,heartcombo/devise,Ruby,33
+8514,rails/rails,Ruby,74
+7569578,discourse/discourse,Ruby,77
+8681349,huginn/huginn,Ruby,96
+53238813,Homebrew/brew,Ruby,99
+52281283,tootsuite/mastodon,Ruby,192
+308770,heartcombo/devise,Ruby,35
 538746,ruby/ruby,Ruby,31
-73648678,thepracticaldev/dev.to,Ruby,73
+73648678,thepracticaldev/dev.to,Ruby,72
 1090311,elastic/logstash,Ruby,30
 106995,sinatra/sinatra,Ruby,12
 4095287,rubocop-hq/rubocop,Ruby,13
 3195124,mperham/sidekiq,Ruby,17
-11423758,mame/quine-relay,Ruby,105
+11423758,mame/quine-relay,Ruby,100
 15435,Shopify/liquid,Ruby,22
-6529205,varvet/pundit,Ruby,15
+6529205,varvet/pundit,Ruby,14
 2441517,puma/puma,Ruby,10
 2889230,rails-api/active_model_serializers,Ruby,4
 1548802,activerecord-hackery/ransack,Ruby,7
@@ -21,6 +21,6 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,18
 51164398,oracle/truffleruby,Ruby,51
 103766152,github/explore,Ruby,14
-9500075,ytti/oxidized,Ruby,6
-154027884,samber/awesome-prometheus-alerts,Ruby,30
+9500075,ytti/oxidized,Ruby,7
+154027884,samber/awesome-prometheus-alerts,Ruby,31
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,87

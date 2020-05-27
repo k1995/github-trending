@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,168
+3482588,danielmiessler/SecLists,PHP,174
 2579314,fzaninotto/Faker,PHP,52
-7548986,laravel/framework,PHP,60
-5724990,briannesbitt/Carbon,PHP,45
-22553797,getgrav/grav,PHP,25
-14732311,octobercms/october,PHP,20
+7548986,laravel/framework,PHP,61
+5724990,briannesbitt/Carbon,PHP,44
+22553797,getgrav/grav,PHP,24
+14732311,octobercms/october,PHP,19
 2884111,magento/magento2,PHP,21
-61490598,PHPOffice/PhpSpreadsheet,PHP,38
-12166778,googleapis/google-api-php-client,PHP,15
-7122594,directus/directus,PHP,61
-6763587,PrestaShop/PrestaShop,PHP,35
+61490598,PHPOffice/PhpSpreadsheet,PHP,37
+12166778,googleapis/google-api-php-client,PHP,16
+7122594,directus/directus,PHP,63
+6763587,PrestaShop/PrestaShop,PHP,34
 21298446,firefly-iii/firefly-iii,PHP,48
 10883164,barryvdh/laravel-dompdf,PHP,14
 170355508,livewire/livewire,PHP,96
@@ -17,9 +17,9 @@ id,name,lang,new stars
 1953386,stripe/stripe-php,PHP,20
 22751672,tecnickcom/TCPDF,PHP,18
 38200433,jeroennoten/Laravel-AdminLTE,PHP,27
-86987524,WWBN/AVideo,PHP,22
+86987524,WWBN/AVideo,PHP,24
 74026995,CodelyTV/php-ddd-example,PHP,20
 27249479,EC-CUBE/ec-cube,PHP,1
 156607803,hestiacp/hestiacp,PHP,19
 36526302,pentestmonkey/php-reverse-shell,PHP,19
-263127159,Potterhead/app,PHP,10
+263127159,Potterhead/app,PHP,9
