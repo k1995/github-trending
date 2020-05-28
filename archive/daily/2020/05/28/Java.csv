@@ -1,5 +1,5 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,149
+132464395,Snailclimb/JavaGuide,Java,146
 151834062,doocs/advanced-java,Java,50
 1064563,netty/netty,Java,10
 2211243,apache/kafka,Java,9
@@ -8,7 +8,7 @@ id,name,lang,new stars
 33218414,react-native-community/react-native-camera,Java,8
 23982180,jwtk/jjwt,Java,6
 11125589,keycloak/keycloak,Java,14
-117965972,alibaba/DataX,Java,129
+117965972,alibaba/DataX,Java,126
 133134007,OpenAPITools/openapi-generator,Java,16
 3786237,hazelcast/hazelcast,Java,1
 17286587,reactive-streams/reactive-streams-jvm,Java,6
@@ -16,9 +16,9 @@ id,name,lang,new stars
 618492,brianfrankcooper/YCSB,Java,1
 1381673,kiegroup/drools,Java,4
 26104286,tuguangquan/mybatis,Java,23
-267109835,nic-delhi/AarogyaSetu_Android,Java,598
+267109835,nic-delhi/AarogyaSetu_Android,Java,374
 52980493,spring-projects/spring-kafka,Java,1
-161133770,feast-dev/feast,Java,4
+161133770,feast-dev/feast,Java,3
 95247959,aws/aws-sdk-java-v2,Java,2
 146471340,LJWLgl/CommonUtil,Java,18
 263641191,corona-warn-app/cwa-verification-server,Java,24
