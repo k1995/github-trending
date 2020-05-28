@@ -11,12 +11,12 @@ id,name,lang,new stars
 23641816,google/sanitizers,Python,22
 24528468,vaexio/vaex,Python,162
 15749269,googleapis/google-api-python-client,Python,8
-72473727,kubernetes-client/python,Python,2
+72473727,kubernetes-client/python,Python,1
 92946971,encode/uvicorn,Python,9
 53548867,fishtown-analytics/dbt,Python,5
+267176885,facebookresearch/detr,Python,1068
 157936206,tensorflow/agents,Python,5
-267176885,facebookresearch/detr,Python,1065
-265345233,anandpawara/Real_Time_Image_Animation,Python,227
+265345233,anandpawara/Real_Time_Image_Animation,Python,240
 61352799,confluentinc/cp-docker-images,Python,1
 250213286,huggingface/nlp,Python,59
 47203045,DataDog/integrations-core,Python,0
