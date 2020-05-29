@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,314
-65252,jekyll/jekyll,Ruby,361
+65252,jekyll/jekyll,Ruby,363
 7569578,discourse/discourse,Ruby,296
-53238813,Homebrew/brew,Ruby,388
-52281283,tootsuite/mastodon,Ruby,405
+53238813,Homebrew/brew,Ruby,387
+52281283,tootsuite/mastodon,Ruby,406
 308770,heartcombo/devise,Ruby,126
 2293158,rapid7/metasploit-framework,Ruby,360
 481872,hashicorp/vagrant,Ruby,151
 538746,ruby/ruby,Ruby,119
-73648678,thepracticaldev/dev.to,Ruby,364
-4095287,rubocop-hq/rubocop,Ruby,81
+73648678,thepracticaldev/dev.to,Ruby,373
+4095287,rubocop-hq/rubocop,Ruby,80
 3195124,mperham/sidekiq,Ruby,90
 88740103,postalhq/postal,Ruby,122
 96395,faker-ruby/faker,Ruby,151
@@ -17,7 +17,7 @@ id,name,lang,new stars
 6529205,varvet/pundit,Ruby,57
 108278,chef/chef,Ruby,49
 2441517,puma/puma,Ruby,54
-9746477,samaaron/sonic-pi,Ruby,320
+9746477,samaaron/sonic-pi,Ruby,319
 4994614,wpscanteam/wpscan,Ruby,85
 30985840,solidusio/solidus,Ruby,67
 51164398,oracle/truffleruby,Ruby,82
