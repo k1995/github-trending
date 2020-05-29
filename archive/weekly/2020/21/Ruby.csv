@@ -1,8 +1,8 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,64
-7569578,discourse/discourse,Ruby,75
-8681349,huginn/huginn,Ruby,77
-13840241,freeCodeCamp/devdocs,Ruby,58
+7569578,discourse/discourse,Ruby,74
+8681349,huginn/huginn,Ruby,75
+13840241,freeCodeCamp/devdocs,Ruby,56
 52281283,tootsuite/mastodon,Ruby,199
 73648678,thepracticaldev/dev.to,Ruby,126
 1090311,elastic/logstash,Ruby,21
@@ -15,12 +15,12 @@ id,name,lang,new stars
 1333863,kaminari/kaminari,Ruby,8
 1725199,github/linguist,Ruby,26
 2441517,puma/puma,Ruby,10
-22059578,ankane/pghero,Ruby,33
-535266,vcr/vcr,Ruby,20
-1548802,activerecord-hackery/ransack,Ruby,8
-51164398,oracle/truffleruby,Ruby,27
+22059578,ankane/pghero,Ruby,35
+535266,vcr/vcr,Ruby,19
+1548802,activerecord-hackery/ransack,Ruby,7
+51164398,oracle/truffleruby,Ruby,28
 103766152,github/explore,Ruby,10
-26094060,logstash-plugins/logstash-patterns-core,Ruby,8
+26094060,logstash-plugins/logstash-patterns-core,Ruby,7
 9500075,ytti/oxidized,Ruby,8
-126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,51
-44027165,jamis/bulk_insert,Ruby,27
+126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,46
+44027165,jamis/bulk_insert,Ruby,24
