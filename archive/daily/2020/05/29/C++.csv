@@ -3,8 +3,8 @@ id,name,lang,new stars
 11171548,nlohmann/json,C++,37
 6934395,facebook/rocksdb,C++,8
 39840932,google/googletest,C++,26
-4524181,facebook/folly,C++,11
-120887835,huihut/interview,C++,21
+4524181,facebook/folly,C++,12
+120887835,huihut/interview,C++,22
 1062572,catchorg/Catch2,C++,15
 60246359,ClickHouse/ClickHouse,C++,14
 102343794,apache/incubator-brpc,C++,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 87443396,Haivision/srt,C++,3
 3545227,webcamoid/webcamoid,C++,2
 150774287,danielkrupinski/Osiris,C++,5
-189113067,ION28/BLUESPAWN,C++,8
+189113067,ION28/BLUESPAWN,C++,9
 260752011,Neutrino-1/Hack-Casio-Calculator,C++,15
-266357225,rock88/moonlight-nx,C++,6
+266357225,rock88/moonlight-nx,C++,5
