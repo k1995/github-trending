@@ -1,14 +1,14 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,45
-7691631,moby/moby,Go,11
+7691631,moby/moby,Go,10
 17728164,hashicorp/terraform,Go,22
 14125254,hashicorp/consul,Go,26
 43723161,helm/helm,Go,7
 31288958,hashicorp/vault,Go,10
-53632140,zyedidia/micro,Go,214
+53632140,zyedidia/micro,Go,160
 62091339,kubernetes/kops,Go,9
 212613049,cli/cli,Go,107
-7877397,jmoiron/sqlx,Go,11
+7877397,jmoiron/sqlx,Go,9
 31558937,gravitational/teleport,Go,6
 72891330,kubernetes/ingress-nginx,Go,9
 86733463,ahmetb/kubectx,Go,13
@@ -19,7 +19,7 @@ id,name,lang,new stars
 7039626,olivere/elastic,Go,4
 3087541,patrickmn/go-cache,Go,8
 116400734,jenkins-x/jx,Go,4
-66509131,kubernetes/client-go,Go,8
+66509131,kubernetes/client-go,Go,7
 87990209,kubernetes/autoscaler,Go,2
 11452538,prometheus/alertmanager,Go,4
 57912964,kubernetes/enhancements,Go,0

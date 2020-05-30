@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,65
-7569578,discourse/discourse,Ruby,75
-8681349,huginn/huginn,Ruby,75
-13840241,freeCodeCamp/devdocs,Ruby,57
-52281283,tootsuite/mastodon,Ruby,200
-73648678,thepracticaldev/dev.to,Ruby,131
+8514,rails/rails,Ruby,63
+7569578,discourse/discourse,Ruby,74
+8681349,huginn/huginn,Ruby,74
+13840241,freeCodeCamp/devdocs,Ruby,56
+52281283,tootsuite/mastodon,Ruby,195
+73648678,thepracticaldev/dev.to,Ruby,134
 1090311,elastic/logstash,Ruby,19
 4095287,rubocop-hq/rubocop,Ruby,14
 3195124,mperham/sidekiq,Ruby,13
-1918677,fluent/fluentd,Ruby,40
+1918677,fluent/fluentd,Ruby,39
 812393,ruby-grape/grape,Ruby,12
 11423758,mame/quine-relay,Ruby,94
 611921,activeadmin/activeadmin,Ruby,7
 1333863,kaminari/kaminari,Ruby,8
-1725199,github/linguist,Ruby,26
+1725199,github/linguist,Ruby,27
 2441517,puma/puma,Ruby,9
 22059578,ankane/pghero,Ruby,36
 535266,vcr/vcr,Ruby,24
@@ -22,5 +22,5 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,10
 26094060,logstash-plugins/logstash-patterns-core,Ruby,7
 9500075,ytti/oxidized,Ruby,7
-126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,39
+126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,38
 44027165,jamis/bulk_insert,Ruby,22

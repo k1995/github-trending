@@ -1,16 +1,16 @@
 id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,30
 11171548,nlohmann/json,C++,35
-6934395,facebook/rocksdb,C++,44
+6934395,facebook/rocksdb,C++,52
 39840932,google/googletest,C++,24
 4524181,facebook/folly,C++,11
 120887835,huihut/interview,C++,20
 1062572,catchorg/Catch2,C++,14
 60246359,ClickHouse/ClickHouse,C++,13
 102343794,apache/incubator-brpc,C++,4
-191820100,google/mediapipe,C++,122
+191820100,google/mediapipe,C++,114
 52422583,kyleneideck/BackgroundMusic,C++,24
-160083795,SerenityOS/serenity,C++,34
+160083795,SerenityOS/serenity,C++,29
 75821432,llvm/llvm-project,C++,17
 108102826,carla-simulator/carla,C++,3
 181436799,alibaba/MNN,C++,13
