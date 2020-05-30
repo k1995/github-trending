@@ -1,6 +1,6 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,25
-111583593,Genymobile/scrcpy,C,157
+10744183,netdata/netdata,C,21
+111583593,Genymobile/scrcpy,C,150
 18666758,pjreddie/darknet,C,11
 5101141,stedolan/jq,C,10
 11715753,robertdavidgraham/masscan,C,7
@@ -12,10 +12,10 @@ id,name,lang,new stars
 54280778,DaveGamble/cJSON,C,6
 19330466,Cyan4973/xxHash,C,4
 187922067,microsoft/WSL2-Linux-Kernel,C,24
-179354282,acidanthera/OpenCorePkg,C,16
+179354282,acidanthera/OpenCorePkg,C,17
 29933948,fluent/fluent-bit,C,6
 110170439,aws/amazon-freertos,C,2
-1613176,tianocore/edk2,C,1
+1613176,tianocore/edk2,C,0
 15991457,openssh/openssh-portable,C,5
 61958135,mcmilk/7-Zip-zstd,C,4
 241659610,zxystd/itlwm,C,15
