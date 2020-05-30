@@ -2,13 +2,13 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,61
 65252,jekyll/jekyll,Ruby,83
 7569578,discourse/discourse,Ruby,71
-13840241,freeCodeCamp/devdocs,Ruby,53
+13840241,freeCodeCamp/devdocs,Ruby,54
 52281283,tootsuite/mastodon,Ruby,188
 2293158,rapid7/metasploit-framework,Ruby,76
-73648678,thepracticaldev/dev.to,Ruby,132
-1090311,elastic/logstash,Ruby,22
+73648678,thepracticaldev/dev.to,Ruby,134
+1090311,elastic/logstash,Ruby,21
 4095287,rubocop-hq/rubocop,Ruby,13
-3195124,mperham/sidekiq,Ruby,13
+3195124,mperham/sidekiq,Ruby,12
 1918677,fluent/fluentd,Ruby,38
 812393,ruby-grape/grape,Ruby,11
 11423758,mame/quine-relay,Ruby,100
@@ -20,7 +20,7 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,9
 1548802,activerecord-hackery/ransack,Ruby,8
 2981455,github/gemoji,Ruby,8
-103766152,github/explore,Ruby,13
+103766152,github/explore,Ruby,14
 26094060,logstash-plugins/logstash-patterns-core,Ruby,7
 9500075,ytti/oxidized,Ruby,7
 44027165,jamis/bulk_insert,Ruby,18
