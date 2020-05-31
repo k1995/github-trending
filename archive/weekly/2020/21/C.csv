@@ -1,14 +1,14 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,570
+111583593,Genymobile/scrcpy,C,579
 10446890,bilibili/ijkplayer,C,72
 15183485,julycoding/The-Art-Of-Programming-By-July,C,47
 20159867,nothings/stb,C,78
-29759715,facebook/zstd,C,71
-37912398,nginx/nginx,C,67
+29759715,facebook/zstd,C,72
+37912398,nginx/nginx,C,68
 196353673,taosdata/TDengine,C,188
-102578345,coolsnowwolf/lede,C,147
+102578345,coolsnowwolf/lede,C,149
 84240850,timescale/timescaledb,C,56
-66150122,jarun/nnn,C,162
+66150122,jarun/nnn,C,164
 9524997,glfw/glfw,C,39
 147667687,pwn20wndstuff/Undecimus,C,301
 75811015,Tencent/xLua,C,35
@@ -21,6 +21,6 @@ id,name,lang,new stars
 59771425,zephyrproject-rtos/zephyr,C,29
 5180577,mpc-hc/mpc-hc,C,23
 179354282,acidanthera/OpenCorePkg,C,89
-241659610,zxystd/itlwm,C,64
-263076869,azure-rtos/threadx,C,258
-187231703,LukeSmithxyz/dwm,C,29
+241659610,zxystd/itlwm,C,67
+263076869,azure-rtos/threadx,C,260
+187231703,LukeSmithxyz/dwm,C,31
