@@ -1,6 +1,6 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,26
-1613345,StackExchange/Dapper,C#,6
+49609581,PowerShell/PowerShell,C#,28
+1613345,StackExchange/Dapper,C#,5
 16157746,dotnet/efcore,C#,4
 12201538,aspnetboilerplate/aspnetboilerplate,C#,5
 132021166,dotnet/machinelearning,C#,3
@@ -11,15 +11,15 @@ id,name,lang,new stars
 743436,egametang/ET,C#,2
 10601208,umbraco/Umbraco-CMS,C#,0
 778828,MassTransit/MassTransit,C#,2
-210716005,dotnet/runtime,C#,8
+210716005,dotnet/runtime,C#,9
 68730444,microsoft/BotBuilder-Samples,C#,3
-23891194,Azure/azure-powershell,C#,1
+23891194,Azure/azure-powershell,C#,2
 2928944,Azure/azure-sdk-for-net,C#,0
 54308403,microsoft/WinAppDriver,C#,4
 76100575,Cysharp/MagicOnion,C#,6
-243854166,dotnet/tye,C#,17
+243854166,dotnet/tye,C#,19
 184286875,actions/runner,C#,5
-216050620,Kinnara/ModernWpf,C#,8
+216050620,Kinnara/ModernWpf,C#,9
 189675276,enkodellc/blazorboilerplate,C#,6
 170696943,WOA-Project/WOA-Deployer-Rpi,C#,3
 244550797,hanmin0822/MisakaTranslator,C#,31

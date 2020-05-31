@@ -1,11 +1,11 @@
 id,name,lang,new stars
 23096959,golang/go,Go,43
-17728164,hashicorp/terraform,Go,18
+17728164,hashicorp/terraform,Go,19
 14125254,hashicorp/consul,Go,12
-31288958,hashicorp/vault,Go,12
-53632140,zyedidia/micro,Go,150
+31288958,hashicorp/vault,Go,14
+53632140,zyedidia/micro,Go,178
 27729907,grpc/grpc-go,Go,9
-15345331,boltdb/bolt,Go,4
+15345331,boltdb/bolt,Go,5
 212613049,cli/cli,Go,65
 16554739,elastic/beats,Go,3
 33352201,grpc-ecosystem/grpc-gateway,Go,8
