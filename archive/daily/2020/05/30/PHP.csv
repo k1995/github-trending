@@ -1,9 +1,9 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,34
 458058,symfony/symfony,PHP,7
-7548986,laravel/framework,PHP,8
+7548986,laravel/framework,PHP,13
 2253830,PHPMailer/PHPMailer,PHP,10
-3431193,yiisoft/yii2,PHP,5
+3431193,yiisoft/yii2,PHP,3
 12615154,barryvdh/laravel-debugbar,PHP,9
 72069409,the-control-group/voyager,PHP,5
 2884111,magento/magento2,PHP,7
@@ -14,13 +14,13 @@ id,name,lang,new stars
 9826184,elastic/elasticsearch-php,PHP,4
 14346979,snipe/snipe-it,PHP,4
 30915528,spatie/laravel-backup,PHP,3
-170355508,livewire/livewire,PHP,16
+170355508,livewire/livewire,PHP,13
 3817881,zircote/swagger-php,PHP,5
 109706738,swooletw/laravel-swoole,PHP,14
 22751672,tecnickcom/TCPDF,PHP,2
 72453516,wp-graphql/wp-graphql,PHP,5
 69691727,pmmp/PocketMine-MP,PHP,2
-204114509,solstice23/argon-theme,PHP,17
-59355182,OpenSID/OpenSID,PHP,7
+204114509,solstice23/argon-theme,PHP,15
+59355182,OpenSID/OpenSID,PHP,2
 91593797,magento/inventory,PHP,1
 267291506,cfm-system-team/hazard_alert,PHP,18

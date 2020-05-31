@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,43
+17728164,hashicorp/terraform,Go,18
+14125254,hashicorp/consul,Go,12
+31288958,hashicorp/vault,Go,12
+53632140,zyedidia/micro,Go,150
+27729907,grpc/grpc-go,Go,9
+15345331,boltdb/bolt,Go,4
+212613049,cli/cli,Go,65
+16554739,elastic/beats,Go,3
+33352201,grpc-ecosystem/grpc-gateway,Go,8
+22442668,openshift/origin,Go,3
+28366058,docker/distribution,Go,2
+109145553,containers/libpod,Go,16
+21034555,asaskevich/govalidator,Go,4
+3087541,patrickmn/go-cache,Go,8
+78869430,heroiclabs/nakama,Go,31
+120519269,runatlantis/atlantis,Go,6
+150713223,kubeedge/kubeedge,Go,0
+170411418,kedacore/keda,Go,12
+93446042,terraform-providers/terraform-provider-azurerm,Go,6
+250927119,shomali11/go-interview,Go,272
+242329748,Jrohy/trojan,Go,25
+185861173,open-telemetry/opentelemetry-collector,Go,5
+265800635,alibaba/openyurt,Go,31
+267403239,80at8/gopherdance,Go,17
