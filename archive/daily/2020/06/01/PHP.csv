@@ -1,14 +1,13 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,42
-2246815,domnikl/DesignPatternsPHP,PHP,11
+3482588,danielmiessler/SecLists,PHP,48
 2253830,PHPMailer/PHPMailer,PHP,15
-53783664,easychen/howto-make-more-money,PHP,8
+53783664,easychen/howto-make-more-money,PHP,7
 28628034,flarum/flarum,PHP,6
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,6
 79111500,jupeter/clean-code-php,PHP,11
 2179920,woocommerce/woocommerce,PHP,7
 14075080,roots/bedrock,PHP,3
-42261096,fuzzdb-project/fuzzdb,PHP,9
+42261096,fuzzdb-project/fuzzdb,PHP,12
 2464908,joomla/joomla-cms,PHP,2
 61802818,spatie/laravel-activitylog,PHP,2
 9395939,ZoneMinder/zoneminder,PHP,4
@@ -18,7 +17,7 @@ id,name,lang,new stars
 57961433,openmediavault/openmediavault,PHP,4
 215064619,laravel-shift/blueprint,PHP,2
 93982796,Tuhinshubhra/RED_HAWK,PHP,2
-16455664,tastyigniter/TastyIgniter,PHP,7
+16455664,tastyigniter/TastyIgniter,PHP,9
 246674913,pestphp/pest,PHP,25
 68092070,kirilkirkov/Ecommerce-CodeIgniter-Bootstrap,PHP,0
 260015521,spatie/laravel-multitenancy,PHP,21

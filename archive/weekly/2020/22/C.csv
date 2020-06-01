@@ -1,10 +1,10 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,625
+111583593,Genymobile/scrcpy,C,624
 10446890,bilibili/ijkplayer,C,76
 15183485,julycoding/The-Art-Of-Programming-By-July,C,51
 20159867,nothings/stb,C,90
 37912398,nginx/nginx,C,73
-196353673,taosdata/TDengine,C,191
+196353673,taosdata/TDengine,C,190
 102578345,coolsnowwolf/lede,C,168
 84240850,timescale/timescaledb,C,60
 480080,openresty/openresty,C,48
@@ -12,8 +12,8 @@ id,name,lang,new stars
 147667687,pwn20wndstuff/Undecimus,C,308
 75811015,Tencent/xLua,C,37
 35129809,transmission/transmission,C,178
-16734696,meetecho/janus-gateway,C,149
-37060852,betaflight/betaflight,C,32
+16734696,meetecho/janus-gateway,C,147
+37060852,betaflight/betaflight,C,31
 187922067,microsoft/WSL2-Linux-Kernel,C,109
 60667730,lvgl/lvgl,C,47
 3565909,raspberrypi/firmware,C,41
@@ -23,4 +23,4 @@ id,name,lang,new stars
 241659610,zxystd/itlwm,C,80
 8890645,Xilinx/linux-xlnx,C,0
 263076869,azure-rtos/threadx,C,277
-187231703,LukeSmithxyz/dwm,C,34
+187231703,LukeSmithxyz/dwm,C,33

@@ -1,22 +1,22 @@
 id,name,lang,new stars
-41912791,v2ray/v2ray-core,Go,116
-58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,129
+41912791,v2ray/v2ray-core,Go,134
+58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,128
 69269563,go-vgo/robotgo,C,338
-94811188,r-spacex/SpaceX-API,JavaScript,35
+94811188,r-spacex/SpaceX-API,JavaScript,38
 196813750,Light-City/CPlusPlusThings,C++,414
 91629816,freqtrade/freqtrade,Python,14
 109872620,paritytech/substrate,Rust,28
+263453057,corona-warn-app/cwa-documentation,,97
 175274189,podgorskiy/ALAE,Python,19
-263453057,corona-warn-app/cwa-documentation,,55
-198484780,beekeeper-studio/beekeeper-studio,JavaScript,217
+198484780,beekeeper-studio/beekeeper-studio,JavaScript,209
 250927119,shomali11/go-interview,Go,445
-266613704,dabeaz-course/practical-python,Python,735
-224362151,Hunlongyu/ZY-Player,Vue,302
-260712390,corona-warn-app/cwa-server,Java,68
-262828795,badtuxx/DescomplicandoKubernetes,,64
+266613704,dabeaz-course/practical-python,Python,737
+224362151,Hunlongyu/ZY-Player,Vue,303
+260712390,corona-warn-app/cwa-server,Java,43
 262982996,bigH/git-fuzzy,Shell,319
+262828795,badtuxx/DescomplicandoKubernetes,,64
 260475603,hansonwang99/JavaCollection,,31
-248025303,p4gefau1t/trojan-go,Go,63
+248025303,p4gefau1t/trojan-go,Go,57
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,5
 264818686,ultralytics/yolov5,Jupyter Notebook,135
 268027139,corona-warn-app/cwa-app-android,Kotlin,186
