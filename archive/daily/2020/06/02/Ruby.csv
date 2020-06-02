@@ -1,8 +1,8 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,7
+65252,jekyll/jekyll,Ruby,10
 53238813,Homebrew/brew,Ruby,14
 308770,heartcombo/devise,Ruby,6
-2293158,rapid7/metasploit-framework,Ruby,14
+2293158,rapid7/metasploit-framework,Ruby,13
 481872,hashicorp/vagrant,Ruby,12
 538746,ruby/ruby,Ruby,4
 106995,sinatra/sinatra,Ruby,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 950915,urbanadventurer/WhatWeb,Ruby,4
 46698467,ankane/strong_migrations,Ruby,3
 1764724,ClosureTree/closure_tree,Ruby,2
-200302808,github/view_component,Ruby,4
+200302808,github/view_component,Ruby,3
 268165013,bailfunds/bailfunds.github.io,Ruby,8

@@ -11,11 +11,11 @@ id,name,lang,new stars
 77144337,openfaas/faas,Go,74
 31288958,hashicorp/vault,Go,67
 26337322,rancher/rancher,Go,59
-53632140,zyedidia/micro,Go,701
+53632140,zyedidia/micro,Go,703
 50613991,goharbor/harbor,Go,87
 7083242,go-sql-driver/mysql,Go,50
-212613049,cli/cli,Go,436
-61137153,evanw/esbuild,Go,577
+212613049,cli/cli,Go,435
+61137153,evanw/esbuild,Go,569
 136815833,Dreamacro/clash,Go,250
 167596393,derailed/k9s,Go,551
 100982449,argoproj/argo,Go,83
@@ -23,4 +23,4 @@ id,name,lang,new stars
 120519269,runatlantis/atlantis,Go,23
 136217503,olivia-ai/olivia,Go,346
 250927119,shomali11/go-interview,Go,741
-242329748,Jrohy/trojan,Go,91
+242329748,Jrohy/trojan,Go,86
