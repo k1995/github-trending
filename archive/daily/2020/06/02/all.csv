@@ -1,26 +1,26 @@
 id,name,lang,new stars
-41912791,v2ray/v2ray-core,Go,120
-58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,81
-69269563,go-vgo/robotgo,C,183
-94811188,r-spacex/SpaceX-API,JavaScript,62
-196813750,Light-City/CPlusPlusThings,C++,380
-91629816,freqtrade/freqtrade,Python,23
-263453057,corona-warn-app/cwa-documentation,,136
+41912791,v2ray/v2ray-core,Go,126
+2700474,alibaba/fastjson,Java,69
+1431547,encode/django-rest-framework,Python,45
+190427007,rasbt/deeplearning-models,Jupyter Notebook,72
+107794782,trojan-gfw/trojan,C++,43
+74660642,taichi-dev/taichi,C++,97
+85541218,dt-fe/weekly,,45
+192155460,dragen1860/Deep-Learning-with-TensorFlow-book,Jupyter Notebook,134
+67778031,seaswalker/spring-analysis,Java,37
+243838973,fastai/fastbook,Jupyter Notebook,39
+246335987,ventoy/Ventoy,C,134
+94811188,r-spacex/SpaceX-API,JavaScript,70
+192025001,Qv2ray/Qv2ray,C++,61
+196813750,Light-City/CPlusPlusThings,C++,370
+165910840,nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters,,66
+263453057,corona-warn-app/cwa-documentation,,108
 109872620,paritytech/substrate,Rust,17
-175274189,podgorskiy/ALAE,Python,21
-198484780,beekeeper-studio/beekeeper-studio,JavaScript,115
-250927119,shomali11/go-interview,Go,232
-266613704,dabeaz-course/practical-python,Python,448
-224362151,Hunlongyu/ZY-Player,Vue,220
-260712390,corona-warn-app/cwa-server,Java,53
-262982996,bigH/git-fuzzy,Shell,225
-262828795,badtuxx/DescomplicandoKubernetes,,32
-248025303,p4gefau1t/trojan-go,Go,81
-260475603,hansonwang99/JavaCollection,,36
-193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,4
-264818686,ultralytics/yolov5,Jupyter Notebook,108
-268027139,corona-warn-app/cwa-app-android,Kotlin,218
-268042230,corona-warn-app/cwa-app-ios,Swift,124
-262149353,corona-warn-app/cwa-website,CSS,39
-263374608,corona-warn-app/cwa-verification-portal,Java,11
-266498592,corona-warn-app/cwa-testresult-server,Java,14
+216236917,bjmashibing/InternetArchitect,Java,80
+266613704,dabeaz-course/practical-python,Python,421
+224362151,Hunlongyu/ZY-Player,Vue,195
+210347143,supabase/realtime,Elixir,86
+262982996,bigH/git-fuzzy,Shell,189
+248025303,p4gefau1t/trojan-go,Go,77
+268027139,corona-warn-app/cwa-app-android,Kotlin,196
+262149353,corona-warn-app/cwa-website,CSS,36
