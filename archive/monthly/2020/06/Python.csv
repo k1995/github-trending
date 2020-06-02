@@ -1,17 +1,17 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,5153
-54346799,public-apis/public-apis,Python,5178
-63476337,TheAlgorithms/Python,Python,5012
+83222441,donnemartin/system-design-primer,Python,5147
+54346799,public-apis/public-apis,Python,5179
+63476337,TheAlgorithms/Python,Python,5013
 843222,scikit-learn/scikit-learn,Python,554
-40416236,minimaxir/big-list-of-naughty-strings,Python,1734
-81598961,python/cpython,Python,923
-58028038,521xueweihan/HelloGitHub,Python,1433
+40416236,minimaxir/big-list-of-naughty-strings,Python,1735
+81598961,python/cpython,Python,934
+58028038,521xueweihan/HelloGitHub,Python,1432
 155220641,huggingface/transformers,Python,2225
 80990461,eriklindernoren/ML-From-Scratch,Python,397
 136026789,iperov/DeepFaceLab,Python,843
 211124697,deezer/spleeter,Python,1076
-1390248,saltstack/salt,Python,258
-206660580,facebookresearch/detectron2,Python,944
+1390248,saltstack/salt,Python,257
+206660580,facebookresearch/detectron2,Python,947
 89266735,facebookresearch/ParlAI,Python,544
 152166877,d2l-ai/d2l-en,Python,605
 237791077,mingrammer/diagrams,Python,1854
@@ -22,5 +22,5 @@ id,name,lang,new stars
 91629816,freqtrade/freqtrade,Python,233
 259991778,openai/jukebox,Python,1663
 50894333,pi-hole/docker-pi-hole,Python,214
-155376283,nccgroup/ScoutSuite,Python,488
-225918779,entynetproject/ghost,Python,308
+155376283,nccgroup/ScoutSuite,Python,490
+225918779,entynetproject/ghost,Python,305

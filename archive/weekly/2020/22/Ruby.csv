@@ -1,8 +1,8 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,53
-65252,jekyll/jekyll,Ruby,82
+8514,rails/rails,Ruby,55
+65252,jekyll/jekyll,Ruby,80
 52281283,tootsuite/mastodon,Ruby,175
-2293158,rapid7/metasploit-framework,Ruby,78
+2293158,rapid7/metasploit-framework,Ruby,79
 481872,hashicorp/vagrant,Ruby,45
 73648678,thepracticaldev/dev.to,Ruby,127
 2203645,CocoaPods/CocoaPods,Ruby,27
@@ -10,7 +10,7 @@ id,name,lang,new stars
 3195124,mperham/sidekiq,Ruby,13
 1918677,fluent/fluentd,Ruby,33
 812393,ruby-grape/grape,Ruby,8
-11423758,mame/quine-relay,Ruby,80
+11423758,mame/quine-relay,Ruby,79
 1333863,kaminari/kaminari,Ruby,9
 1725199,github/linguist,Ruby,34
 21829,thoughtbot/factory_bot,Ruby,8
@@ -19,7 +19,7 @@ id,name,lang,new stars
 535266,vcr/vcr,Ruby,24
 417389,lostisland/faraday,Ruby,9
 75785147,rails/webpacker,Ruby,12
-1548802,activerecord-hackery/ransack,Ruby,12
+1548802,activerecord-hackery/ransack,Ruby,14
 30337170,rmosolgo/graphql-ruby,Ruby,7
 95798441,athityakumar/colorls,Ruby,24
 950915,urbanadventurer/WhatWeb,Ruby,19
