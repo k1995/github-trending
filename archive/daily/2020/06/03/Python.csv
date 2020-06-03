@@ -1,13 +1,13 @@
 id,name,lang,new stars
 4164482,django/django,Python,44
 3638964,ansible/ansible,Python,20
-81598961,python/cpython,Python,129
+81598961,python/cpython,Python,134
 155220641,huggingface/transformers,Python,98
-1431547,encode/django-rest-framework,Python,80
+1431547,encode/django-rest-framework,Python,104
 33884891,apache/airflow,Python,18
 123303402,python-poetry/poetry,Python,40
-206660580,facebookresearch/detectron2,Python,42
-145670234,open-mmlab/mmdetection,Python,25
+206660580,facebookresearch/detectron2,Python,43
+145670234,open-mmlab/mmdetection,Python,43
 102904613,Unity-Technologies/ml-agents,Python,19
 70530854,awslabs/serverless-application-model,Python,7
 2771544,rq/rq,Python,41
@@ -18,9 +18,9 @@ id,name,lang,new stars
 191778243,open-mmlab/mmaction,Python,9
 203799854,qilingframework/qiling,Python,19
 267446578,joshiemoore/snakeware,Python,543
-258745062,Tianxiaomo/pytorch-YOLOv4,Python,31
+258745062,Tianxiaomo/pytorch-YOLOv4,Python,33
 136302835,JDAI-CV/fast-reid,Python,32
 260420185,deepmind/acme,Python,311
 262296122,PaddlePaddle/PaddleOCR,Python,66
-265299642,Police-Data-Accessibility-Project/Police-Data-Accessibility-Project,Python,154
+265299642,Police-Data-Accessibility-Project/Police-Data-Accessibility-Project,Python,160
 266608546,AlphaMycelium/pathfinder.vim,Python,30

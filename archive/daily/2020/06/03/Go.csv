@@ -1,10 +1,10 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,53
-20904437,gin-gonic/gin,Go,41
-41912791,v2ray/v2ray-core,Go,163
+20904437,gin-gonic/gin,Go,42
+41912791,v2ray/v2ray-core,Go,135
 13124802,influxdata/influxdb,Go,11
 31288958,hashicorp/vault,Go,37
-13628513,sirupsen/logrus,Go,16
+13628513,sirupsen/logrus,Go,15
 26337322,rancher/rancher,Go,16
 46806184,helm/charts,Go,22
 27729907,grpc/grpc-go,Go,16
@@ -17,10 +17,10 @@ id,name,lang,new stars
 99143276,vmware-tanzu/velero,Go,10
 59522149,gruntwork-io/terragrunt,Go,5
 52193726,volatiletech/sqlboiler,Go,11
-205679232,flipped-aurora/gin-vue-admin,Go,22
-150954997,VictoriaMetrics/VictoriaMetrics,Go,23
+205679232,flipped-aurora/gin-vue-admin,Go,21
+150954997,VictoriaMetrics/VictoriaMetrics,Go,25
 220186120,codenotary/immudb,Go,74
 248025303,p4gefau1t/trojan-go,Go,128
-229030654,go-git/go-git,Go,44
+229030654,go-git/go-git,Go,45
 93446115,terraform-providers/terraform-provider-kubernetes,Go,1
-243518322,douyu/jupiter,Go,165
+243518322,douyu/jupiter,Go,170
