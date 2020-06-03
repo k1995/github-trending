@@ -1,21 +1,21 @@
 id,name,lang,new stars
 36502,git/git,C,109
-111583593,Genymobile/scrcpy,C,641
+111583593,Genymobile/scrcpy,C,650
 10446890,bilibili/ijkplayer,C,72
 24586308,cfenollosa/os-tutorial,C,67
-196353673,taosdata/TDengine,C,99
+196353673,taosdata/TDengine,C,105
 66150122,jarun/nnn,C,136
 3199002,raspberrypi/linux,C,24
 147667687,pwn20wndstuff/Undecimus,C,103
 117948953,Atmosphere-NX/Atmosphere,C,42
-7408108,RT-Thread/rt-thread,C,26
+7408108,RT-Thread/rt-thread,C,25
 16734696,meetecho/janus-gateway,C,176
-19330466,Cyan4973/xxHash,C,25
-19112091,vanhauser-thc/thc-hydra,C,29
+19330466,Cyan4973/xxHash,C,26
+19112091,vanhauser-thc/thc-hydra,C,28
 37060852,betaflight/betaflight,C,27
 187922067,microsoft/WSL2-Linux-Kernel,C,101
 60667730,lvgl/lvgl,C,53
-3565909,raspberrypi/firmware,C,38
+3565909,raspberrypi/firmware,C,37
 179354282,acidanthera/OpenCorePkg,C,114
 29933948,fluent/fluent-bit,C,33
 164585247,starrtc/starrtc-server,C,54
@@ -23,4 +23,4 @@ id,name,lang,new stars
 8890645,Xilinx/linux-xlnx,C,0
 263446503,dbanay/Smalltalk,C,256
 263076869,azure-rtos/threadx,C,227
-187231703,LukeSmithxyz/dwm,C,28
+187231703,LukeSmithxyz/dwm,C,29
