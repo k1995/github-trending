@@ -1,5 +1,5 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,347
+45717250,tensorflow/tensorflow,C++,344
 23357588,protocolbuffers/protobuf,C++,195
 15634981,godotengine/godot,C++,250
 27729880,grpc/grpc,C++,124
@@ -7,17 +7,17 @@ id,name,lang,new stars
 6934395,facebook/rocksdb,C++,119
 39840932,google/googletest,C++,117
 107794782,trojan-gfw/trojan,C++,237
-74660642,taichi-dev/taichi,C++,177
-191820100,google/mediapipe,C++,428
+74660642,taichi-dev/taichi,C++,201
+191820100,google/mediapipe,C++,407
 52422583,kyleneideck/BackgroundMusic,C++,176
 160083795,SerenityOS/serenity,C++,143
 50255244,raulmur/ORB_SLAM2,C++,47
-192025001,Qv2ray/Qv2ray,C++,289
+192025001,Qv2ray/Qv2ray,C++,293
 196813750,Light-City/CPlusPlusThings,C++,1285
 5909706,yhirose/cpp-httplib,C++,61
-76990209,Aircoookie/WLED,C++,54
+76990209,Aircoookie/WLED,C++,56
 247188639,pdown2020/pdown,C++,250
-153097643,openvinotoolkit/openvino,C++,72
+153097643,openvinotoolkit/openvino,C++,68
 87443396,Haivision/srt,C++,18
 210549660,AnkerLeng/Cpp-0-1-Resource,C++,46
 150774287,danielkrupinski/Osiris,C++,56

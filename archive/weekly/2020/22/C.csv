@@ -1,20 +1,20 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,403
-36502,git/git,C,110
-111583593,Genymobile/scrcpy,C,628
+2325298,torvalds/linux,C,405
+36502,git/git,C,109
+111583593,Genymobile/scrcpy,C,631
 10446890,bilibili/ijkplayer,C,72
 24586308,cfenollosa/os-tutorial,C,67
 20159867,nothings/stb,C,71
-102578345,coolsnowwolf/lede,C,131
+102578345,coolsnowwolf/lede,C,137
 3199002,raspberrypi/linux,C,24
-69269563,go-vgo/robotgo,C,656
-117948953,Atmosphere-NX/Atmosphere,C,40
-16734696,meetecho/janus-gateway,C,178
+69269563,go-vgo/robotgo,C,650
+117948953,Atmosphere-NX/Atmosphere,C,42
+16734696,meetecho/janus-gateway,C,176
 19330466,Cyan4973/xxHash,C,26
-187922067,microsoft/WSL2-Linux-Kernel,C,102
+187922067,microsoft/WSL2-Linux-Kernel,C,101
 60667730,lvgl/lvgl,C,53
-3565909,raspberrypi/firmware,C,38
-179354282,acidanthera/OpenCorePkg,C,115
+3565909,raspberrypi/firmware,C,37
+179354282,acidanthera/OpenCorePkg,C,114
 86245815,pygame/pygame,C,26
 29933948,fluent/fluent-bit,C,33
 164585247,starrtc/starrtc-server,C,54
@@ -22,5 +22,5 @@ id,name,lang,new stars
 8890645,Xilinx/linux-xlnx,C,0
 54581275,MicrosoftDocs/WSL,C,10
 263446503,dbanay/Smalltalk,C,256
-263076869,azure-rtos/threadx,C,226
+263076869,azure-rtos/threadx,C,227
 187231703,LukeSmithxyz/dwm,C,29
