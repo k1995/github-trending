@@ -1,5 +1,5 @@
 id,name,lang,new stars
-4164482,django/django,Python,35
+4164482,django/django,Python,28
 3638964,ansible/ansible,Python,20
 81598961,python/cpython,Python,127
 155220641,huggingface/transformers,Python,98
@@ -12,7 +12,7 @@ id,name,lang,new stars
 70530854,awslabs/serverless-application-model,Python,7
 2771544,rq/rq,Python,41
 179492861,encode/httpx,Python,45
-14531737,bitcoin/bips,Python,3
+14531737,bitcoin/bips,Python,2
 222183074,jackzhenguo/python-small-examples,Python,18
 122493502,bisguzar/twitter-scraper,Python,10
 191778243,open-mmlab/mmaction,Python,9
