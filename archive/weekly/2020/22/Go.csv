@@ -1,5 +1,5 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,266
+20580498,kubernetes/kubernetes,Go,254
 16752620,gogs/gogs,Go,109
 41912791,v2ray/v2ray-core,Go,576
 11225014,etcd-io/etcd,Go,137
@@ -11,9 +11,9 @@ id,name,lang,new stars
 37448451,mattermost/mattermost-server,Go,51
 31288958,hashicorp/vault,Go,98
 26337322,rancher/rancher,Go,66
-53632140,zyedidia/micro,Go,667
+53632140,zyedidia/micro,Go,571
 27729907,grpc/grpc-go,Go,64
-212613049,cli/cli,Go,321
+212613049,cli/cli,Go,316
 136815833,Dreamacro/clash,Go,191
 167596393,derailed/k9s,Go,613
 100982449,argoproj/argo,Go,81
