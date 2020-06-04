@@ -1,20 +1,20 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,8
+458058,symfony/symfony,PHP,10
 7548986,laravel/framework,PHP,12
 2253830,PHPMailer/PHPMailer,PHP,11
 3431193,yiisoft/yii2,PHP,2
 53783664,easychen/howto-make-more-money,PHP,6
-60243197,nextcloud/server,PHP,22
-14732311,octobercms/october,PHP,10
-137515,mockery/mockery,PHP,2
-2699935,squizlabs/PHP_CodeSniffer,PHP,6
-12166778,googleapis/google-api-php-client,PHP,6
-4242230,PHPOffice/PHPWord,PHP,4
+60243197,nextcloud/server,PHP,19
+14732311,octobercms/october,PHP,8
+137515,mockery/mockery,PHP,1
+2699935,squizlabs/PHP_CodeSniffer,PHP,3
+12166778,googleapis/google-api-php-client,PHP,7
+4242230,PHPOffice/PHPWord,PHP,3
 3217621,phpmyadmin/phpmyadmin,PHP,4
 9131292,jenssegers/laravel-mongodb,PHP,5
 42261096,fuzzdb-project/fuzzdb,PHP,5
-170355508,livewire/livewire,PHP,17
-4224042,roundcube/roundcubemail,PHP,4
+170355508,livewire/livewire,PHP,20
+4224042,roundcube/roundcubemail,PHP,3
 100355112,yansongda/pay,PHP,2
 885517,Atlantic18/DoctrineExtensions,PHP,0
 10226642,Crinsane/LaravelShoppingcart,PHP,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 66611984,TIGERB/easy-tips,PHP,13
 2686502,pimcore/pimcore,PHP,0
 3429490,spiral/framework,PHP,14
-247825643,imanghafoori1/laravel-microscope,PHP,27
+247825643,imanghafoori1/laravel-microscope,PHP,21
 184538454,yankovalenko94/Webdev2019,PHP,0
