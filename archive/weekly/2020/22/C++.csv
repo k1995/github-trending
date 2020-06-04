@@ -1,19 +1,19 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,347
+45717250,tensorflow/tensorflow,C++,343
 23357588,protocolbuffers/protobuf,C++,202
 15634981,godotengine/godot,C++,255
 27729880,grpc/grpc,C++,129
 11171548,nlohmann/json,C++,141
 6934395,facebook/rocksdb,C++,122
-39840932,google/googletest,C++,115
-107794782,trojan-gfw/trojan,C++,284
-74660642,taichi-dev/taichi,C++,254
-191820100,google/mediapipe,C++,300
-52422583,kyleneideck/BackgroundMusic,C++,147
+39840932,google/googletest,C++,113
+107794782,trojan-gfw/trojan,C++,286
+74660642,taichi-dev/taichi,C++,264
+191820100,google/mediapipe,C++,288
+52422583,kyleneideck/BackgroundMusic,C++,149
 160083795,SerenityOS/serenity,C++,144
 50255244,raulmur/ORB_SLAM2,C++,43
 196813750,Light-City/CPlusPlusThings,C++,1447
-192025001,Qv2ray/Qv2ray,C++,302
+192025001,Qv2ray/Qv2ray,C++,300
 5909706,yhirose/cpp-httplib,C++,55
 76990209,Aircoookie/WLED,C++,58
 247188639,pdown2020/pdown,C++,240
