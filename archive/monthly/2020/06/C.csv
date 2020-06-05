@@ -1,17 +1,17 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,1738
-156018,antirez/redis,C,781
-111583593,Genymobile/scrcpy,C,2108
-1614410,FFmpeg/FFmpeg,C,510
-908607,numpy/numpy,C,382
-20159867,nothings/stb,C,308
+156018,antirez/redis,C,780
+111583593,Genymobile/scrcpy,C,2103
+1614410,FFmpeg/FFmpeg,C,509
+908607,numpy/numpy,C,381
+20159867,nothings/stb,C,307
 196353673,taosdata/TDengine,C,464
 5254557,cloudwu/skynet,C,126
 84240850,timescale/timescaledb,C,209
 3199002,raspberrypi/linux,C,111
 147667687,pwn20wndstuff/Undecimus,C,419
-3319040,id-Software/DOOM,C,294
-63477515,TheAlgorithms/C,C,914
+3319040,id-Software/DOOM,C,293
+63477515,TheAlgorithms/C,C,913
 246335987,ventoy/Ventoy,C,3202
 35129809,transmission/transmission,C,436
 7408108,RT-Thread/rt-thread,C,152
@@ -19,7 +19,7 @@ id,name,lang,new stars
 187922067,microsoft/WSL2-Linux-Kernel,C,294
 60667730,lvgl/lvgl,C,184
 3565909,raspberrypi/firmware,C,109
-179354282,acidanthera/OpenCorePkg,C,459
+179354282,acidanthera/OpenCorePkg,C,457
 34194075,ntop/nDPI,C,58
 29933948,fluent/fluent-bit,C,102
 212790745,feiyangqingyun/QWidgetDemo,C,166
