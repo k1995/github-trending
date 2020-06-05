@@ -1,5 +1,5 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,363
+45717250,tensorflow/tensorflow,C++,358
 9384267,electron/electron,C++,202
 23357588,protocolbuffers/protobuf,C++,178
 15634981,godotengine/godot,C++,241
@@ -10,8 +10,8 @@ id,name,lang,new stars
 74660642,taichi-dev/taichi,C++,284
 191820100,google/mediapipe,C++,252
 50255244,raulmur/ORB_SLAM2,C++,44
-196813750,Light-City/CPlusPlusThings,C++,1725
-192025001,Qv2ray/Qv2ray,C++,305
+196813750,Light-City/CPlusPlusThings,C++,1639
+192025001,Qv2ray/Qv2ray,C++,290
 5298790,PX4/Firmware,C++,19
 130068982,taskflow/taskflow,C++,46
 153866232,TheCherno/Hazel,C++,86
