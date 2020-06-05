@@ -1,9 +1,9 @@
 id,name,lang,new stars
-3638964,ansible/ansible,Python,24
+3638964,ansible/ansible,Python,25
 39464018,apache/incubator-superset,Python,19
-155220641,huggingface/transformers,Python,85
+155220641,huggingface/transformers,Python,86
 41058054,isocpp/CppCoreGuidelines,Python,15
-873328,getsentry/sentry,Python,10
+873328,getsentry/sentry,Python,12
 136026789,iperov/DeepFaceLab,Python,315
 1377867,locustio/locust,Python,19
 106024057,rusty1s/pytorch_geometric,Python,16
@@ -14,13 +14,13 @@ id,name,lang,new stars
 179492861,encode/httpx,Python,37
 224284178,NVlabs/stylegan2,Python,18
 732593,cloudera/hue,Python,5
-222183074,jackzhenguo/python-small-examples,Python,22
+222183074,jackzhenguo/python-small-examples,Python,21
 58208534,mukulhase/WebWhatsapp-Wrapper,Python,4
-260420185,deepmind/acme,Python,242
+260420185,deepmind/acme,Python,244
 268666171,2020PB/police-brutality,Python,179
-244024353,PantsuDango/Dango-Translator,Python,178
-265299642,Police-Data-Accessibility-Project/Police-Data-Accessibility-Project,Python,95
-262296122,PaddlePaddle/PaddleOCR,Python,31
+244024353,PantsuDango/Dango-Translator,Python,177
+265299642,Police-Data-Accessibility-Project/Police-Data-Accessibility-Project,Python,96
+262296122,PaddlePaddle/PaddleOCR,Python,32
 257567981,chandrikadeb7/Face-Mask-Detection,Python,26
 269186989,m4ll0k/Shodanfy.py,Python,57
 261773048,A3Data/hermione,Python,11

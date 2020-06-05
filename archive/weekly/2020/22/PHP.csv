@@ -5,7 +5,7 @@ id,name,lang,new stars
 1420053,guzzle/guzzle,PHP,52
 448045,sebastianbergmann/phpunit,PHP,34
 2253830,PHPMailer/PHPMailer,PHP,51
-53783664,easychen/howto-make-more-money,PHP,46
+53783664,easychen/howto-make-more-money,PHP,45
 4702560,PHPOffice/PHPExcel,PHP,16
 12615154,barryvdh/laravel-debugbar,PHP,43
 8678290,barryvdh/laravel-ide-helper,PHP,47
@@ -21,6 +21,6 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,17
 2464908,joomla/joomla-cms,PHP,15
 456930,splitbrain/dokuwiki,PHP,19
-76064827,mailcow/mailcow-dockerized,PHP,30
+76064827,mailcow/mailcow-dockerized,PHP,31
 148129143,bagisto/bagisto,PHP,38
 260015521,spatie/laravel-multitenancy,PHP,95

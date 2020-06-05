@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,294
+23096959,golang/go,Go,298
 20580498,kubernetes/kubernetes,Go,254
 41912791,v2ray/v2ray-core,Go,597
 11225014,etcd-io/etcd,Go,144
@@ -12,7 +12,7 @@ id,name,lang,new stars
 46806184,helm/charts,Go,87
 85371712,txthinking/brook,Go,30
 27729907,grpc/grpc-go,Go,71
-212613049,cli/cli,Go,281
+212613049,cli/cli,Go,278
 167596393,derailed/k9s,Go,625
 18950460,concourse/concourse,Go,39
 93444615,terraform-providers/terraform-provider-aws,Go,43
@@ -21,6 +21,6 @@ id,name,lang,new stars
 120896210,argoproj/argo-cd,Go,57
 250927119,shomali11/go-interview,Go,973
 242329748,Jrohy/trojan,Go,88
-248025303,p4gefau1t/trojan-go,Go,415
+248025303,p4gefau1t/trojan-go,Go,416
 229030654,go-git/go-git,Go,131
 266431437,mbertschler/dragon-iss-docking-autopilot,Go,109

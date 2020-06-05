@@ -1,13 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,306
-65252,jekyll/jekyll,Ruby,365
-53238813,Homebrew/brew,Ruby,392
-52281283,tootsuite/mastodon,Ruby,406
+8514,rails/rails,Ruby,301
+65252,jekyll/jekyll,Ruby,367
+53238813,Homebrew/brew,Ruby,395
+52281283,tootsuite/mastodon,Ruby,402
 308770,heartcombo/devise,Ruby,129
+2293158,rapid7/metasploit-framework,Ruby,355
 481872,hashicorp/vagrant,Ruby,193
-538746,ruby/ruby,Ruby,126
-73648678,thepracticaldev/dev.to,Ruby,413
+73648678,thepracticaldev/dev.to,Ruby,414
 2203645,CocoaPods/CocoaPods,Ruby,124
+1090311,elastic/logstash,Ruby,107
 4095287,rubocop-hq/rubocop,Ruby,81
 3195124,mperham/sidekiq,Ruby,93
 96395,faker-ruby/faker,Ruby,138
@@ -15,12 +16,11 @@ id,name,lang,new stars
 1333863,kaminari/kaminari,Ruby,33
 1725199,github/linguist,Ruby,111
 6529205,varvet/pundit,Ruby,60
-9746477,samaaron/sonic-pi,Ruby,321
+21829,thoughtbot/factory_bot,Ruby,35
 22059578,ankane/pghero,Ruby,103
 30985840,solidusio/solidus,Ruby,65
 950915,urbanadventurer/WhatWeb,Ruby,81
 51164398,oracle/truffleruby,Ruby,91
-138776049,sorbet/sorbet,Ruby,75
-9500075,ytti/oxidized,Ruby,29
 154027884,samber/awesome-prometheus-alerts,Ruby,124
 93163073,dependabot/dependabot-core,Ruby,67
+10088951,TheOdinProject/theodinproject,Ruby,32
