@@ -1,7 +1,7 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,36
-20904437,gin-gonic/gin,Go,38
-41912791,v2ray/v2ray-core,Go,70
+20580498,kubernetes/kubernetes,Go,37
+20904437,gin-gonic/gin,Go,39
+41912791,v2ray/v2ray-core,Go,71
 13124802,influxdata/influxdb,Go,7
 31288958,hashicorp/vault,Go,19
 13628513,sirupsen/logrus,Go,14
@@ -9,18 +9,18 @@ id,name,lang,new stars
 46806184,helm/charts,Go,16
 27729907,grpc/grpc-go,Go,13
 5179099,go-redis/redis,Go,10
-18858585,mailhog/MailHog,Go,15
-27576132,aws/aws-sdk-go,Go,7
+18858585,mailhog/MailHog,Go,16
+27576132,aws/aws-sdk-go,Go,8
 48643510,pkg/errors,Go,8
 18950460,concourse/concourse,Go,19
 93444615,terraform-providers/terraform-provider-aws,Go,5
 99143276,vmware-tanzu/velero,Go,12
-59522149,gruntwork-io/terragrunt,Go,8
+59522149,gruntwork-io/terragrunt,Go,9
 52193726,volatiletech/sqlboiler,Go,10
 205679232,flipped-aurora/gin-vue-admin,Go,16
-150954997,VictoriaMetrics/VictoriaMetrics,Go,17
+150954997,VictoriaMetrics/VictoriaMetrics,Go,18
 220186120,codenotary/immudb,Go,26
-248025303,p4gefau1t/trojan-go,Go,61
+248025303,p4gefau1t/trojan-go,Go,59
 243518322,douyu/jupiter,Go,109
 229030654,go-git/go-git,Go,15
 93446115,terraform-providers/terraform-provider-kubernetes,Go,1
