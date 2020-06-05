@@ -1,7 +1,7 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,440
+2325298,torvalds/linux,C,438
 36502,git/git,C,130
-111583593,Genymobile/scrcpy,C,519
+111583593,Genymobile/scrcpy,C,511
 1903522,php/php-src,C,76
 10446890,bilibili/ijkplayer,C,67
 7634677,openssl/openssl,C,59
@@ -11,16 +11,16 @@ id,name,lang,new stars
 69269563,go-vgo/robotgo,C,623
 63809205,google/oss-fuzz,C,37
 117948953,Atmosphere-NX/Atmosphere,C,36
-246335987,ventoy/Ventoy,C,862
+246335987,ventoy/Ventoy,C,874
 7408108,RT-Thread/rt-thread,C,43
 16734696,meetecho/janus-gateway,C,178
-37060852,betaflight/betaflight,C,33
-187922067,microsoft/WSL2-Linux-Kernel,C,82
+37060852,betaflight/betaflight,C,34
+187922067,microsoft/WSL2-Linux-Kernel,C,80
 3565909,raspberrypi/firmware,C,40
 179354282,acidanthera/OpenCorePkg,C,119
-108110706,tporadowski/redis,C,49
+108110706,tporadowski/redis,C,51
 251287681,danigargu/CVE-2020-0796,C,33
-241659610,zxystd/itlwm,C,139
+241659610,zxystd/itlwm,C,137
 54581275,MicrosoftDocs/WSL,C,11
 263076869,azure-rtos/threadx,C,78
 187231703,LukeSmithxyz/dwm,C,24
