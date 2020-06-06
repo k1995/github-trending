@@ -1,8 +1,8 @@
 id,name,lang,new stars
 11225014,etcd-io/etcd,Go,27
 17728164,hashicorp/terraform,Go,26
-8989842,unknwon/the-way-to-go_ZH_CN,Go,10
-13628513,sirupsen/logrus,Go,16
+8989842,unknwon/the-way-to-go_ZH_CN,Go,11
+13628513,sirupsen/logrus,Go,15
 27729907,grpc/grpc-go,Go,10
 129717717,grafana/loki,Go,13
 33258973,influxdata/telegraf,Go,6
@@ -16,7 +16,7 @@ id,name,lang,new stars
 118105436,golang-migrate/migrate,Go,8
 93444615,terraform-providers/terraform-provider-aws,Go,14
 99143276,vmware-tanzu/velero,Go,4
-136770331,statping/statping,Go,45
+136770331,statping/statping,Go,47
 67793333,cortexproject/cortex,Go,3
 107600830,aws/aws-lambda-go,Go,3
 82572869,kubernetes-incubator/external-storage,Go,5
