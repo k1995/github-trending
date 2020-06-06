@@ -1,12 +1,12 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,109
+121395510,CyC2018/CS-Notes,Java,110
 7508411,ReactiveX/RxJava,Java,14
 173228436,NationalSecurityAgency/ghidra,Java,14
 5373551,libgdx/libgdx,Java,9
-2990192,signalapp/Signal-Android,Java,15
+2990192,signalapp/Signal-Android,Java,16
 5349565,prestodb/presto,Java,10
 20275545,google/guice,Java,7
-161757837,elunez/eladmin,Java,38
+161757837,elunez/eladmin,Java,37
 715605,xetorthio/jedis,Java,6
 1272129,dropwizard/dropwizard,Java,4
 2352744,apereo/cas,Java,11
@@ -16,7 +16,7 @@ id,name,lang,new stars
 75277003,thingsboard/thingsboard,Java,12
 62117812,apache/pulsar,Java,10
 97936938,goldze/MVVMHabit,Java,16
-168311609,chillzhuang/SpringBlade,Java,26
+168311609,chillzhuang/SpringBlade,Java,25
 15040596,signalapp/Signal-Server,Java,10
 107676801,jenkinsci/configuration-as-code-plugin,Java,2
 10860602,apache/cordova-plugin-inappbrowser,Java,1

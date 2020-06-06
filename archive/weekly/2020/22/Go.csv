@@ -1,14 +1,14 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,250
-41912791,v2ray/v2ray-core,Go,671
+41912791,v2ray/v2ray-core,Go,682
 11225014,etcd-io/etcd,Go,140
-13807606,junegunn/fzf,Go,272
+13807606,junegunn/fzf,Go,287
 74175805,istio/istio,Go,106
 17728164,hashicorp/terraform,Go,144
 14125254,hashicorp/consul,Go,74
 31288958,hashicorp/vault,Go,98
 26337322,rancher/rancher,Go,61
-53632140,zyedidia/micro,Go,363
+53632140,zyedidia/micro,Go,370
 46806184,helm/charts,Go,88
 136815833,Dreamacro/clash,Go,185
 5179099,go-redis/redis,Go,70
@@ -19,7 +19,7 @@ id,name,lang,new stars
 99143276,vmware-tanzu/velero,Go,44
 120896210,argoproj/argo-cd,Go,57
 250927119,shomali11/go-interview,Go,941
-248025303,p4gefau1t/trojan-go,Go,435
+248025303,p4gefau1t/trojan-go,Go,436
 242329748,Jrohy/trojan,Go,83
 229030654,go-git/go-git,Go,134
 237391530,free5gc/free5gc,Go,232
