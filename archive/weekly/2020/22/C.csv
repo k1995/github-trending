@@ -1,17 +1,17 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,474
+2325298,torvalds/linux,C,479
 36502,git/git,C,136
-111583593,Genymobile/scrcpy,C,496
+111583593,Genymobile/scrcpy,C,509
 1903522,php/php-src,C,68
 10446890,bilibili/ijkplayer,C,68
 18666758,pjreddie/darknet,C,86
 20159867,nothings/stb,C,74
 32969220,esp8266/Arduino,C,43
-102578345,coolsnowwolf/lede,C,134
+102578345,coolsnowwolf/lede,C,133
 3199002,raspberrypi/linux,C,31
-69269563,go-vgo/robotgo,C,397
+69269563,go-vgo/robotgo,C,403
 70127218,espressif/arduino-esp32,C,37
-246335987,ventoy/Ventoy,C,937
+246335987,ventoy/Ventoy,C,946
 117948953,Atmosphere-NX/Atmosphere,C,39
 7408108,RT-Thread/rt-thread,C,48
 16734696,meetecho/janus-gateway,C,181
@@ -21,6 +21,6 @@ id,name,lang,new stars
 108110706,tporadowski/redis,C,45
 99199151,xiph/rnnoise,C,16
 251287681,danigargu/CVE-2020-0796,C,35
-241659610,zxystd/itlwm,C,127
+241659610,zxystd/itlwm,C,128
 54581275,MicrosoftDocs/WSL,C,11
 207354223,FreeRTOS/FreeRTOS-Kernel,C,9
