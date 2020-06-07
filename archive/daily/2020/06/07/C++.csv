@@ -1,15 +1,15 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,42
-65600975,pytorch/pytorch,C++,39
+65600975,pytorch/pytorch,C++,40
 27729880,grpc/grpc,C++,14
 11171548,nlohmann/json,C++,29
 108110,mongodb/mongo,C++,14
-39840932,google/googletest,C++,14
+39840932,google/googletest,C++,15
 1062572,catchorg/Catch2,C++,8
 114187903,apple/foundationdb,C++,3
 2200856,MarlinFirmware/Marlin,C++,12
-251383553,electronicarts/CnC_Remastered_Collection,C++,2448
-66088979,changkun/modern-cpp-tutorial,C++,14
+251383553,electronicarts/CnC_Remastered_Collection,C++,1617
+66088979,changkun/modern-cpp-tutorial,C++,15
 48068902,electronicarts/EASTL,C++,30
 1690480,qgis/QGIS,C++,9
 208728772,milvus-io/milvus,C++,14
@@ -17,9 +17,9 @@ id,name,lang,new stars
 156939672,microsoft/onnxruntime,C++,13
 105281531,pytorch/glow,C++,3
 128479644,esphome/esphome,C++,7
-14983921,srsLTE/srsLTE,C++,11
-139385800,baidu/lac,C++,60
-60143954,amhndu/SimpleNES,C++,42
+14983921,srsLTE/srsLTE,C++,12
+139385800,baidu/lac,C++,64
+60143954,amhndu/SimpleNES,C++,43
 145275555,gaoxiang12/slambook2,C++,5
 258044807,perilouswithadollarsign/cstrike15_src,C++,5
 269405733,googleprojectzero/TinyInst,C++,118

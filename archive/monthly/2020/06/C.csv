@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1760
+2325298,torvalds/linux,C,1767
 156018,antirez/redis,C,760
-111583593,Genymobile/scrcpy,C,2088
-1614410,FFmpeg/FFmpeg,C,505
+111583593,Genymobile/scrcpy,C,2092
+1614410,FFmpeg/FFmpeg,C,504
 908607,numpy/numpy,C,386
 196353673,taosdata/TDengine,C,460
 5254557,cloudwu/skynet,C,125
-84240850,timescale/timescaledb,C,218
+84240850,timescale/timescaledb,C,217
 3199002,raspberrypi/linux,C,116
 147667687,pwn20wndstuff/Undecimus,C,424
 3319040,id-Software/DOOM,C,295
@@ -19,8 +19,8 @@ id,name,lang,new stars
 37060852,betaflight/betaflight,C,118
 187922067,microsoft/WSL2-Linux-Kernel,C,299
 60667730,lvgl/lvgl,C,195
-3565909,raspberrypi/firmware,C,111
-179354282,acidanthera/OpenCorePkg,C,441
+3565909,raspberrypi/firmware,C,113
+179354282,acidanthera/OpenCorePkg,C,443
 34194075,ntop/nDPI,C,59
 29933948,fluent/fluent-bit,C,104
-54581275,MicrosoftDocs/WSL,C,45
+54581275,MicrosoftDocs/WSL,C,44
