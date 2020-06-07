@@ -2,7 +2,7 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,136
 458058,symfony/symfony,PHP,56
 1864363,composer/composer,PHP,66
-7548986,laravel/framework,PHP,62
+7548986,laravel/framework,PHP,63
 1420053,guzzle/guzzle,PHP,51
 448045,sebastianbergmann/phpunit,PHP,30
 2253830,PHPMailer/PHPMailer,PHP,47
@@ -17,10 +17,10 @@ id,name,lang,new stars
 9131292,jenssegers/laravel-mongodb,PHP,19
 42261096,fuzzdb-project/fuzzdb,PHP,42
 23056580,laravel/socialite,PHP,21
-10883164,barryvdh/laravel-dompdf,PHP,19
+10883164,barryvdh/laravel-dompdf,PHP,20
 2464908,joomla/joomla-cms,PHP,11
 456930,splitbrain/dokuwiki,PHP,22
-76064827,mailcow/mailcow-dockerized,PHP,29
+76064827,mailcow/mailcow-dockerized,PHP,30
 148129143,bagisto/bagisto,PHP,44
 31425145,billz/raspap-webgui,PHP,27
 69691727,pmmp/PocketMine-MP,PHP,18
