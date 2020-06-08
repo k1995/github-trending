@@ -1,15 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,282
-65252,jekyll/jekyll,Ruby,369
-53238813,Homebrew/brew,Ruby,391
-52281283,tootsuite/mastodon,Ruby,410
+65252,jekyll/jekyll,Ruby,365
+52281283,tootsuite/mastodon,Ruby,417
 308770,heartcombo/devise,Ruby,125
 481872,hashicorp/vagrant,Ruby,192
-73648678,thepracticaldev/dev.to,Ruby,402
+73648678,thepracticaldev/dev.to,Ruby,400
 2203645,CocoaPods/CocoaPods,Ruby,126
 4095287,rubocop-hq/rubocop,Ruby,82
 3195124,mperham/sidekiq,Ruby,91
 1918677,fluent/fluentd,Ruby,128
+611921,activeadmin/activeadmin,Ruby,31
+96395,faker-ruby/faker,Ruby,68
 15435,Shopify/liquid,Ruby,88
 1333863,kaminari/kaminari,Ruby,35
 6529205,varvet/pundit,Ruby,57
@@ -20,7 +21,6 @@ id,name,lang,new stars
 535266,vcr/vcr,Ruby,60
 30985840,solidusio/solidus,Ruby,63
 950915,urbanadventurer/WhatWeb,Ruby,78
-51164398,oracle/truffleruby,Ruby,91
+51164398,oracle/truffleruby,Ruby,90
 93163073,dependabot/dependabot-core,Ruby,68
 29151578,rswag/rswag,Ruby,37
-166765782,TideSec/Mars,Ruby,328
