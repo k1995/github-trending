@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,249
 20904437,gin-gonic/gin,Go,255
-41912791,v2ray/v2ray-core,Go,575
+41912791,v2ray/v2ray-core,Go,527
 74175805,istio/istio,Go,114
 17728164,hashicorp/terraform,Go,149
 31288958,hashicorp/vault,Go,111
@@ -21,6 +21,6 @@ id,name,lang,new stars
 120896210,argoproj/argo-cd,Go,62
 250927119,shomali11/go-interview,Go,539
 84610043,kubernetes-sigs/aws-alb-ingress-controller,Go,13
-248025303,p4gefau1t/trojan-go,Go,360
+248025303,p4gefau1t/trojan-go,Go,334
 242329748,Jrohy/trojan,Go,82
 237391530,free5gc/free5gc,Go,301
