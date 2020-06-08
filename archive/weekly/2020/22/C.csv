@@ -1,7 +1,7 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,503
+2325298,torvalds/linux,C,469
 36502,git/git,C,136
-111583593,Genymobile/scrcpy,C,527
+111583593,Genymobile/scrcpy,C,532
 1903522,php/php-src,C,68
 10446890,bilibili/ijkplayer,C,68
 18666758,pjreddie/darknet,C,86
@@ -9,9 +9,9 @@ id,name,lang,new stars
 32969220,esp8266/Arduino,C,43
 102578345,coolsnowwolf/lede,C,134
 3199002,raspberrypi/linux,C,31
-69269563,go-vgo/robotgo,C,405
+69269563,go-vgo/robotgo,C,239
 70127218,espressif/arduino-esp32,C,37
-246335987,ventoy/Ventoy,C,971
+246335987,ventoy/Ventoy,C,920
 117948953,Atmosphere-NX/Atmosphere,C,39
 7408108,RT-Thread/rt-thread,C,48
 16734696,meetecho/janus-gateway,C,181
