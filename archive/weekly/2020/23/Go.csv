@@ -1,7 +1,7 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,277
+20580498,kubernetes/kubernetes,Go,282
 20904437,gin-gonic/gin,Go,251
-41912791,v2ray/v2ray-core,Go,438
+41912791,v2ray/v2ray-core,Go,435
 42408804,containous/traefik,Go,116
 3577919,astaxie/beego,Go,80
 41986369,pingcap/tidb,Go,121
@@ -23,4 +23,4 @@ id,name,lang,new stars
 84610043,kubernetes-sigs/aws-alb-ingress-controller,Go,13
 243518322,douyu/jupiter,Go,436
 248025303,p4gefau1t/trojan-go,Go,250
-237391530,free5gc/free5gc,Go,304
+237391530,free5gc/free5gc,Go,306

@@ -1,7 +1,7 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,164
+121395510,CyC2018/CS-Notes,Java,168
 6296790,spring-projects/spring-boot,Java,38
-63477660,TheAlgorithms/Java,Java,150
+63477660,TheAlgorithms/Java,Java,148
 1064563,netty/netty,Java,21
 31533997,facebook/fresco,Java,5
 20587599,apache/flink,Java,13
@@ -17,10 +17,10 @@ id,name,lang,new stars
 87859908,micrometer-metrics/micrometer,Java,4
 107676801,jenkinsci/configuration-as-code-plugin,Java,3
 77675033,yidongnan/grpc-spring-boot-starter,Java,8
-133166098,qq53182347/liugh-parent,Java,16
-265513067,LandGrey/SpringBootVulExploit,Java,67
+133166098,qq53182347/liugh-parent,Java,15
+265513067,LandGrey/SpringBootVulExploit,Java,71
 135442228,wagiro/BurpBounty,Java,10
 222578036,WeiYe-Jing/datax-web,Java,14
 158256479,apache/iceberg,Java,5
-252650176,sqlancer/sqlancer,Java,60
-269579055,pengzhile/ide-eval-resetter,Java,133
+252650176,sqlancer/sqlancer,Java,103
+269579055,pengzhile/ide-eval-resetter,Java,134
