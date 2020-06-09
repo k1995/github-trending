@@ -1,7 +1,7 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,468
+2325298,torvalds/linux,C,466
 36502,git/git,C,143
-111583593,Genymobile/scrcpy,C,453
+111583593,Genymobile/scrcpy,C,460
 1903522,php/php-src,C,76
 32969220,esp8266/Arduino,C,40
 102578345,coolsnowwolf/lede,C,135
@@ -9,7 +9,7 @@ id,name,lang,new stars
 613829,openresty/lua-nginx-module,C,27
 3199002,raspberrypi/linux,C,37
 70127218,espressif/arduino-esp32,C,39
-246335987,ventoy/Ventoy,C,839
+246335987,ventoy/Ventoy,C,833
 7408108,RT-Thread/rt-thread,C,53
 16734696,meetecho/janus-gateway,C,57
 60667730,lvgl/lvgl,C,79
