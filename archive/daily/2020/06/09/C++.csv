@@ -1,6 +1,6 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,44
-15634981,godotengine/godot,C++,25
+45717250,tensorflow/tensorflow,C++,40
+15634981,godotengine/godot,C++,31
 27729880,grpc/grpc,C++,19
 11171548,nlohmann/json,C++,26
 39840932,google/googletest,C++,13
@@ -10,8 +10,8 @@ id,name,lang,new stars
 1062572,catchorg/Catch2,C++,5
 60246359,ClickHouse/ClickHouse,C++,6
 114187903,apple/foundationdb,C++,7
-47690142,CoatiSoftware/Sourcetrail,C++,22
-63477612,TheAlgorithms/C-Plus-Plus,C++,139
+47690142,CoatiSoftware/Sourcetrail,C++,23
+63477612,TheAlgorithms/C-Plus-Plus,C++,136
 22338518,Squirrel/Squirrel.Windows,C++,7
 32736639,JoeyDeVries/LearnOpenGL,C++,6
 84183882,google/sentencepiece,C++,10

@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,48
+23096959,golang/go,Go,49
 20580498,kubernetes/kubernetes,Go,56
 42408804,containous/traefik,Go,25
 15452919,ethereum/go-ethereum,Go,8
@@ -8,7 +8,7 @@ id,name,lang,new stars
 24268127,coreybutler/nvm-windows,Go,19
 44498957,valyala/fasthttp,Go,17
 13624859,gorilla/websocket,Go,10
-131212638,google/gvisor,Go,6
+131212638,google/gvisor,Go,8
 52034309,uber-go/zap,Go,16
 4059138,dgrijalva/jwt-go,Go,9
 27051771,golang/protobuf,Go,7
@@ -20,7 +20,7 @@ id,name,lang,new stars
 95761244,gogf/gf,Go,15
 22485114,hashicorp/hcl,Go,3
 205679232,flipped-aurora/gin-vue-admin,Go,49
-200975456,hacklcx/HFish,Go,23
+200975456,hacklcx/HFish,Go,24
 47859258,qiniu/goplus,Go,14
-160272948,chai2010/go-ast-book,Go,108
+160272948,chai2010/go-ast-book,Go,112
 247002760,badafans/v2ray-cloudfoundry,Go,3
