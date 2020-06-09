@@ -1,21 +1,21 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,469
+2325298,torvalds/linux,C,468
 36502,git/git,C,143
-111583593,Genymobile/scrcpy,C,450
-1903522,php/php-src,C,77
-32969220,esp8266/Arduino,C,39
-102578345,coolsnowwolf/lede,C,137
+111583593,Genymobile/scrcpy,C,453
+1903522,php/php-src,C,76
+32969220,esp8266/Arduino,C,40
+102578345,coolsnowwolf/lede,C,135
 5254557,cloudwu/skynet,C,29
 613829,openresty/lua-nginx-module,C,27
 3199002,raspberrypi/linux,C,37
 70127218,espressif/arduino-esp32,C,39
-246335987,ventoy/Ventoy,C,853
+246335987,ventoy/Ventoy,C,839
 7408108,RT-Thread/rt-thread,C,53
 16734696,meetecho/janus-gateway,C,57
 60667730,lvgl/lvgl,C,79
 59771425,zephyrproject-rtos/zephyr,C,39
-179354282,acidanthera/OpenCorePkg,C,114
-86245815,pygame/pygame,C,31
+179354282,acidanthera/OpenCorePkg,C,113
+86245815,pygame/pygame,C,29
 83160811,ARMmbed/littlefs,C,13
 98651166,ShadowsocksR-Live/shadowsocksr-native,C,31
 1335680,blacksphere/blackmagic,C,22
@@ -23,4 +23,4 @@ id,name,lang,new stars
 99199151,xiph/rnnoise,C,18
 251287681,danigargu/CVE-2020-0796,C,42
 54581275,MicrosoftDocs/WSL,C,14
-263076869,azure-rtos/threadx,C,97
+263076869,azure-rtos/threadx,C,92
