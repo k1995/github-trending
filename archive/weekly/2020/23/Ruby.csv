@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,52
-7569578,discourse/discourse,Ruby,71
-27442967,fastlane/fastlane,Ruby,67
-21600440,bayandin/awesome-awesomeness,Ruby,29
+8514,rails/rails,Ruby,51
+7569578,discourse/discourse,Ruby,72
+27442967,fastlane/fastlane,Ruby,69
+21600440,bayandin/awesome-awesomeness,Ruby,31
 13840241,freeCodeCamp/devdocs,Ruby,77
-2500088,gitlabhq/gitlabhq,Ruby,19
+2500088,gitlabhq/gitlabhq,Ruby,20
 308770,heartcombo/devise,Ruby,26
 1090311,elastic/logstash,Ruby,21
-4095287,rubocop-hq/rubocop,Ruby,72
-3314,spree/spree,Ruby,17
-96395,faker-ruby/faker,Ruby,24
+4095287,rubocop-hq/rubocop,Ruby,74
+3314,spree/spree,Ruby,18
+96395,faker-ruby/faker,Ruby,23
 15435,Shopify/liquid,Ruby,16
 2889230,rails-api/active_model_serializers,Ruby,6
 355893,github/markup,Ruby,8
-75785147,rails/webpacker,Ruby,6
+75785147,rails/webpacker,Ruby,5
 1548802,activerecord-hackery/ransack,Ruby,9
 447184,rspec/rspec-rails,Ruby,5
 1314319,instructure/canvas-lms,Ruby,21
@@ -23,4 +23,4 @@ id,name,lang,new stars
 32104924,rails/sprockets,Ruby,4
 29151578,rswag/rswag,Ruby,14
 86708201,basecamp/geared_pagination,Ruby,57
-268165013,bailfunds/bailfunds.github.io,Ruby,28
+268165013,bailfunds/bailfunds.github.io,Ruby,27
