@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1759
-156018,antirez/redis,C,732
-111583593,Genymobile/scrcpy,C,2108
-1903522,php/php-src,C,313
-1614410,FFmpeg/FFmpeg,C,514
+2325298,torvalds/linux,C,1763
+156018,antirez/redis,C,733
+111583593,Genymobile/scrcpy,C,2110
+1903522,php/php-src,C,312
+1614410,FFmpeg/FFmpeg,C,515
 196353673,taosdata/TDengine,C,457
 84240850,timescale/timescaledb,C,211
-147667687,pwn20wndstuff/Undecimus,C,439
+147667687,pwn20wndstuff/Undecimus,C,440
 63809205,google/oss-fuzz,C,129
-63477515,TheAlgorithms/C,C,1002
-246335987,ventoy/Ventoy,C,3233
+63477515,TheAlgorithms/C,C,1001
+246335987,ventoy/Ventoy,C,3236
 35129809,transmission/transmission,C,446
 7408108,RT-Thread/rt-thread,C,151
 37060852,betaflight/betaflight,C,121
@@ -19,8 +19,8 @@ id,name,lang,new stars
 59771425,zephyrproject-rtos/zephyr,C,143
 179354282,acidanthera/OpenCorePkg,C,436
 29933948,fluent/fluent-bit,C,104
-212012440,cnlohr/rawdrawandroid,C,1268
+212012440,cnlohr/rawdrawandroid,C,1269
 241659610,zxystd/itlwm,C,296
 54581275,MicrosoftDocs/WSL,C,47
-262091731,sm64pc/sm64pc,C,573
+262091731,sm64pc/sm64pc,C,568
 187231703,LukeSmithxyz/dwm,C,69
