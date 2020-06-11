@@ -1,14 +1,14 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,16
-16157746,dotnet/efcore,C#,3
-46652227,IdentityServer/IdentityServer4,C#,6
+17620347,dotnet/aspnetcore,C#,13
+16157746,dotnet/efcore,C#,4
+46652227,IdentityServer/IdentityServer4,C#,4
 54213490,xamarin/Xamarin.Forms,C#,6
 26884725,OrchardCMS/OrchardCore,C#,3
 41822320,RicoSuter/NSwag,C#,6
 50605426,microsoft/MixedRealityToolkit-Unity,C#,4
-942613,elastic/elasticsearch-net,C#,3
+942613,elastic/elasticsearch-net,C#,2
 68730444,microsoft/BotBuilder-Samples,C#,2
-159548561,grpc/grpc-dotnet,C#,4
+159548561,grpc/grpc-dotnet,C#,2
 30932325,dotnet/extensions,C#,5
 2928944,Azure/azure-sdk-for-net,C#,0
 55075302,xamarin/xamarin-android,C#,1
