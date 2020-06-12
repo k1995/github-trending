@@ -1,7 +1,7 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,7
 3623050,Homebrew/homebrew-cask,Ruby,5
-73648678,thepracticaldev/dev.to,Ruby,11
+73648678,thepracticaldev/dev.to,Ruby,10
 1090311,elastic/logstash,Ruby,6
 3195124,mperham/sidekiq,Ruby,4
 1918677,fluent/fluentd,Ruby,6
@@ -9,8 +9,8 @@ id,name,lang,new stars
 47087,carrierwaveuploader/carrierwave,Ruby,1
 15435,Shopify/liquid,Ruby,3
 1725199,github/linguist,Ruby,6
-22059578,ankane/pghero,Ruby,7
-11412473,ankane/searchkick,Ruby,2
+22059578,ankane/pghero,Ruby,5
+11412473,ankane/searchkick,Ruby,0
 119760423,Netflix/fast_jsonapi,Ruby,2
 417389,lostisland/faraday,Ruby,1
 2185269,busyloop/lolcat,Ruby,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1404127,jwt/ruby-jwt,Ruby,3
 3898922,zammad/zammad,Ruby,0
 49878403,zendesk/ruby-kafka,Ruby,0
-65914086,decidim/decidim,Ruby,4
+65914086,decidim/decidim,Ruby,3
 166765782,TideSec/Mars,Ruby,2
