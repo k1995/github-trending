@@ -1,25 +1,26 @@
 id,name,lang,new stars
 3470471,FortAwesome/Font-Awesome,JavaScript,138
-24195339,angular/angular,TypeScript,281
-136026789,iperov/DeepFaceLab,Python,1164
-251383553,electronicarts/CnC_Remastered_Collection,C++,6865
-159194100,fengdu78/lihang-code,Jupyter Notebook,558
-45680749,kholia/OSX-KVM,Shell,456
-64700934,OpenZeppelin/openzeppelin-contracts,JavaScript,40
+11171548,nlohmann/json,C++,136
+136026789,iperov/DeepFaceLab,Python,1137
+160919119,tiangolo/fastapi,Python,386
+251383553,electronicarts/CnC_Remastered_Collection,C++,6417
+159194100,fengdu78/lihang-code,Jupyter Notebook,586
+204086862,streamlit/streamlit,TypeScript,480
+45680749,kholia/OSX-KVM,Shell,444
 959908,OpenRA/OpenRA,C#,379
-253601257,alievk/avatarify,Python,551
-243838973,fastai/fastbook,Jupyter Notebook,158
-130688011,meilisearch/MeiliSearch,Rust,538
-236750354,bradtraversy/vanillawebprojects,JavaScript,821
-19429698,signalapp/Signal-iOS,Swift,70
-196813750,Light-City/CPlusPlusThings,C++,666
-68885535,penrose/penrose,Haskell,1300
-268666171,2020PB/police-brutality,Python,1082
-133166098,qq53182347/liugh-parent,Java,96
-260420185,deepmind/acme,Python,383
-243518322,douyu/jupiter,Go,205
-268501098,skydoves/Pokedex,Kotlin,334
-268661021,chompie1337/SMBGhost_RCE_PoC,Python,210
+253601257,alievk/avatarify,Python,546
+63477612,TheAlgorithms/C-Plus-Plus,C++,604
+42304749,apache/shardingsphere-elastic-job-lite,Java,38
+94811188,r-spacex/SpaceX-API,JavaScript,985
+269336148,sickcodes/Docker-OSX,Dockerfile,3809
+236750354,bradtraversy/vanillawebprojects,JavaScript,866
+68885535,penrose/penrose,Haskell,1288
+60667730,lvgl/lvgl,C,64
+268666171,2020PB/police-brutality,Python,1060
+133166098,qq53182347/liugh-parent,Java,95
+260420185,deepmind/acme,Python,354
+268501098,skydoves/Pokedex,Kotlin,321
+268147152,bndw/wifi-card,JavaScript,198
+268661021,chompie1337/SMBGhost_RCE_PoC,Python,206
+38310038,washingtonpost/data-police-shootings,,73
 268027139,corona-warn-app/cwa-app-android,Kotlin,141
-265299642,Police-Data-Accessibility-Project/Police-Data-Accessibility-Project,Python,115
-262296122,PaddlePaddle/PaddleOCR,Python,110
