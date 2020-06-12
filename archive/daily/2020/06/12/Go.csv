@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,48
-11225014,etcd-io/etcd,Go,15
-17728164,hashicorp/terraform,Go,21
+11225014,etcd-io/etcd,Go,16
+17728164,hashicorp/terraform,Go,25
 56353740,kubernetes/minikube,Go,9
 16563587,cockroachdb/cockroach,Go,5
 27729907,grpc/grpc-go,Go,13
@@ -12,15 +12,15 @@ id,name,lang,new stars
 72891330,kubernetes/ingress-nginx,Go,8
 100982449,argoproj/argo,Go,10
 30711774,go-playground/validator,Go,9
-93444615,terraform-providers/terraform-provider-aws,Go,10
+93444615,terraform-providers/terraform-provider-aws,Go,9
 17451182,go-yaml/yaml,Go,2
 31311037,jpillora/chisel,Go,19
 66509131,kubernetes/client-go,Go,5
 95761244,gogf/gf,Go,25
 184490584,GoogleCloudPlatform/terraformer,Go,13
-205679232,flipped-aurora/gin-vue-admin,Go,24
+205679232,flipped-aurora/gin-vue-admin,Go,25
 19608522,googleapis/google-cloud-go,Go,16
 247032621,wenjianzhang/go-admin,Go,27
 155447233,Azure/aks-engine,Go,1
-270724802,cloudflare/utahfs,Go,95
-185861173,open-telemetry/opentelemetry-collector,Go,2
+270724802,cloudflare/utahfs,Go,80
+185861173,open-telemetry/opentelemetry-collector,Go,3
