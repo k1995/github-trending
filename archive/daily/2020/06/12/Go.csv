@@ -2,7 +2,7 @@ id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,39
 5271882,astaxie/build-web-application-with-golang,Go,14
 6838921,prometheus/prometheus,Go,41
-46806184,helm/charts,Go,14
+46806184,helm/charts,Go,13
 115857954,chai2010/advanced-go-programming-book,Go,23
 6247705,stretchr/testify,Go,21
 7083242,go-sql-driver/mysql,Go,10
@@ -18,9 +18,9 @@ id,name,lang,new stars
 27483832,gogo/protobuf,Go,13
 120650407,operator-framework/operator-sdk,Go,6
 66509131,kubernetes/client-go,Go,5
-19608522,googleapis/google-cloud-go,Go,21
+19608522,googleapis/google-cloud-go,Go,17
 93446042,terraform-providers/terraform-provider-azurerm,Go,2
 260064828,google/exposure-notifications-server,Go,6
-160272948,chai2010/go-ast-book,Go,155
+160272948,chai2010/go-ast-book,Go,139
 136494223,kubernetes-sigs/controller-runtime,Go,7
-270724802,cloudflare/utahfs,Go,107
+270724802,cloudflare/utahfs,Go,99
