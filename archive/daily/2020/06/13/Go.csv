@@ -5,7 +5,7 @@ id,name,lang,new stars
 50709152,kataras/iris,Go,15
 31288958,hashicorp/vault,Go,21
 135516270,rancher/k3s,Go,20
-115857954,chai2010/advanced-go-programming-book,Go,61
+115857954,chai2010/advanced-go-programming-book,Go,62
 27729907,grpc/grpc-go,Go,21
 15345331,boltdb/bolt,Go,5
 66573241,hyperledger/fabric,Go,9
@@ -15,7 +15,7 @@ id,name,lang,new stars
 167304464,cortexlabs/cortex,Go,17
 153099672,inancgumus/learngo,Go,53
 93444615,terraform-providers/terraform-provider-aws,Go,6
-17451182,go-yaml/yaml,Go,6
+17451182,go-yaml/yaml,Go,4
 31311037,jpillora/chisel,Go,13
 53174289,gruntwork-io/terratest,Go,5
 27096595,googleapis/google-api-go-client,Go,40
