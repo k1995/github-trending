@@ -1,8 +1,8 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,105
-6296790,spring-projects/spring-boot,Java,33
+132464395,Snailclimb/JavaGuide,Java,100
+6296790,spring-projects/spring-boot,Java,40
 20300177,google/guava,Java,29
-127988011,macrozheng/mall,Java,94
+127988011,macrozheng/mall,Java,93
 146633589,alibaba/arthas,Java,24
 2700159,alibaba/druid,Java,7
 53127403,ctripcorp/apollo,Java,19
@@ -11,7 +11,7 @@ id,name,lang,new stars
 120395176,alibaba/easyexcel,Java,27
 20773773,bazelbuild/bazel,Java,9
 7587038,alibaba/canal,Java,20
-112785414,alibaba/spring-cloud-alibaba,Java,27
+112785414,alibaba/spring-cloud-alibaba,Java,31
 15823460,redisson/redisson,Java,8
 128018428,alibaba/Sentinel,Java,16
 8759133,Netflix/zuul,Java,10
@@ -23,4 +23,4 @@ id,name,lang,new stars
 111241370,ionic-team/capacitor,Java,6
 206873260,android/user-interface-samples,Java,15
 52095564,openid/AppAuth-Android,Java,2
-50372538,GoogleCloudPlatform/community,Java,23
+50372538,GoogleCloudPlatform/community,Java,24
