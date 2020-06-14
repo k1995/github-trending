@@ -2,9 +2,9 @@ id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,73
 18666758,pjreddie/darknet,C,20
 20159867,nothings/stb,C,13
-32969220,esp8266/Arduino,C,6
+32969220,esp8266/Arduino,C,11
 102578345,coolsnowwolf/lede,C,17
-127789081,microsoft/winfile,C,3
+127789081,microsoft/winfile,C,4
 437011,openzfs/zfs,C,8
 63809205,google/oss-fuzz,C,8
 65899476,espressif/esp-idf,C,4
@@ -13,9 +13,9 @@ id,name,lang,new stars
 2359378,madler/zlib,C,4
 108667201,AlexAltea/orbital,C,5
 6331631,axboe/fio,C,2
-1660127,neutrinolabs/xrdp,C,206
+1660127,neutrinolabs/xrdp,C,216
 59676171,KevinOConnor/klipper,C,5
-27359183,guanzhi/GmSSL,C,2
+27359183,guanzhi/GmSSL,C,3
 3276860,ThrowTheSwitch/Unity,C,5
 217654199,microsoft/msquic,C,8
 50202869,zdharma/zinit,C,7
