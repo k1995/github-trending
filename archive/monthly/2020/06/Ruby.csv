@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,297
+8514,rails/rails,Ruby,298
 65252,jekyll/jekyll,Ruby,356
-53238813,Homebrew/brew,Ruby,403
+53238813,Homebrew/brew,Ruby,404
 52281283,tootsuite/mastodon,Ruby,417
-308770,heartcombo/devise,Ruby,120
+308770,heartcombo/devise,Ruby,121
 481872,hashicorp/vagrant,Ruby,217
 73648678,thepracticaldev/dev.to,Ruby,409
 1090311,elastic/logstash,Ruby,112
-4095287,rubocop-hq/rubocop,Ruby,140
+4095287,rubocop-hq/rubocop,Ruby,141
 3195124,mperham/sidekiq,Ruby,96
 1918677,fluent/fluentd,Ruby,143
 11423758,mame/quine-relay,Ruby,357
@@ -20,7 +20,7 @@ id,name,lang,new stars
 535266,vcr/vcr,Ruby,57
 950915,urbanadventurer/WhatWeb,Ruby,75
 51164398,oracle/truffleruby,Ruby,90
-103766152,github/explore,Ruby,57
-154027884,samber/awesome-prometheus-alerts,Ruby,133
+103766152,github/explore,Ruby,56
+154027884,samber/awesome-prometheus-alerts,Ruby,135
 93163073,dependabot/dependabot-core,Ruby,73
 29151578,rswag/rswag,Ruby,46
