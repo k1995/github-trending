@@ -1,5 +1,5 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,145
+83222441,donnemartin/system-design-primer,Python,155
 4164482,django/django,Python,62
 33015583,keras-team/keras,Python,36
 3638964,ansible/ansible,Python,30
@@ -7,20 +7,20 @@ id,name,lang,new stars
 71220757,swisskyrepo/PayloadsAllTheThings,Python,40
 170067246,openai/gpt-2,Python,42
 42289146,meolu/walle-web,Python,78
-13595305,asciimoo/searx,Python,115
+13595305,asciimoo/searx,Python,121
 30102273,MobSF/Mobile-Security-Framework-MobSF,Python,22
 53092757,microsoft/botframework-sdk,Python,7
 178626720,PyTorchLightning/pytorch-lightning,Python,33
-136265021,albumentations-team/albumentations,Python,29
+136265021,albumentations-team/albumentations,Python,30
 138831170,facebookresearch/mmf,Python,92
-250213286,huggingface/nlp,Python,55
+250213286,huggingface/nlp,Python,91
 110621895,aws/sagemaker-python-sdk,Python,7
-244024353,PantsuDango/Dango-Translator,Python,134
+244024353,PantsuDango/Dango-Translator,Python,136
 14006067,pydicom/pydicom,Python,5
 172615836,awslabs/aws-data-wrangler,Python,8
 258745062,Tianxiaomo/pytorch-YOLOv4,Python,42
+259726383,EONRaider/blackhat-python3,Python,110
 263163293,google-research/big_transfer,Python,29
-259726383,EONRaider/blackhat-python3,Python,103
-25437858,Fizzadar/pyinfra,Python,167
+25437858,Fizzadar/pyinfra,Python,177
 265275921,EONRaider/violent-python3,Python,116
 249885496,google-research/pegasus,Python,45
