@@ -1,15 +1,15 @@
 id,name,lang,new stars
 401025,github/hub,Go,15
 41349039,dgraph-io/dgraph,Go,20
-115857954,chai2010/advanced-go-programming-book,Go,73
+115857954,chai2010/advanced-go-programming-book,Go,89
 156084530,ehang-io/nps,Go,40
 61137153,evanw/esbuild,Go,58
 136815833,Dreamacro/clash,Go,50
 21405028,ardanlabs/gotraining,Go,5
 23247808,rqlite/rqlite,Go,25
-167304464,cortexlabs/cortex,Go,87
-153099672,inancgumus/learngo,Go,66
-53174289,gruntwork-io/terratest,Go,9
+167304464,cortexlabs/cortex,Go,89
+153099672,inancgumus/learngo,Go,69
+53174289,gruntwork-io/terratest,Go,11
 1380117,getlantern/lantern,Go,44
 9120526,jackc/pgx,Go,4
 27096595,googleapis/google-api-go-client,Go,45
@@ -21,6 +21,6 @@ id,name,lang,new stars
 80510806,tomnomnom/httprobe,Go,10
 148989843,tomnomnom/gf,Go,30
 240205214,donwa/gclone,Go,11
-231973037,nlpodyssey/spago,Go,90
+231973037,nlpodyssey/spago,Go,89
 145102495,ElrondNetwork/elrond-go,Go,7
 269202949,janoszen/containerssh,Go,16
