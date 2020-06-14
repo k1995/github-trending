@@ -1,6 +1,6 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,14
-53783664,easychen/howto-make-more-money,PHP,91
+53783664,easychen/howto-make-more-money,PHP,110
 8678290,barryvdh/laravel-ide-helper,PHP,9
 72069409,the-control-group/voyager,PHP,9
 2884111,magento/magento2,PHP,30
@@ -9,7 +9,7 @@ id,name,lang,new stars
 10371103,caouecs/Laravel-lang,PHP,6
 6763587,PrestaShop/PrestaShop,PHP,8
 677467,doctrine/common,PHP,10
-170355508,livewire/livewire,PHP,67
+170355508,livewire/livewire,PHP,66
 8875190,Ocramius/ProxyManager,PHP,8
 576099,doctrine/migrations,PHP,11
 2797951,doctrine/DoctrineBundle,PHP,10
@@ -21,6 +21,6 @@ id,name,lang,new stars
 18628501,lexik/LexikJWTAuthenticationBundle,PHP,6
 539751,beberlei/DoctrineExtensions,PHP,0
 215064619,laravel-shift/blueprint,PHP,9
-269325451,mettle/sendportal,PHP,57
-91593797,magento/inventory,PHP,1
-271198306,spatie/laravel-cronless-schedule,PHP,13
+269325451,mettle/sendportal,PHP,60
+91593797,magento/inventory,PHP,2
+271198306,spatie/laravel-cronless-schedule,PHP,14
