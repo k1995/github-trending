@@ -1,21 +1,21 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,175
-458058,symfony/symfony,PHP,73
-448045,sebastianbergmann/phpunit,PHP,44
+458058,symfony/symfony,PHP,74
+448045,sebastianbergmann/phpunit,PHP,45
 2253830,PHPMailer/PHPMailer,PHP,50
-53783664,easychen/howto-make-more-money,PHP,247
+53783664,easychen/howto-make-more-money,PHP,272
 7769432,vlucas/phpdotenv,PHP,33
-2854337,phalcon/cphalcon,PHP,20
-82238168,monicahq/monica,PHP,123
-72069409,the-control-group/voyager,PHP,41
-2884111,magento/magento2,PHP,57
+2854337,phalcon/cphalcon,PHP,21
+82238168,monicahq/monica,PHP,124
+72069409,the-control-group/voyager,PHP,42
+2884111,magento/magento2,PHP,58
 61490598,PHPOffice/PhpSpreadsheet,PHP,41
 11340559,deployphp/deployer,PHP,29
 212659,sebastianbergmann/php-code-coverage,PHP,13
-42261096,fuzzdb-project/fuzzdb,PHP,47
-170355508,livewire/livewire,PHP,240
+42261096,fuzzdb-project/fuzzdb,PHP,48
+170355508,livewire/livewire,PHP,244
 74386167,vimeo/psalm,PHP,39
-76064827,mailcow/mailcow-dockerized,PHP,41
+76064827,mailcow/mailcow-dockerized,PHP,42
 9395939,ZoneMinder/zoneminder,PHP,38
 48530411,top-think/framework,PHP,9
 139191005,nunomaduro/larastan,PHP,32
@@ -23,4 +23,4 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,9
 18628501,lexik/LexikJWTAuthenticationBundle,PHP,16
 96284790,prasathmani/tinyfilemanager,PHP,44
-144956786,opensourcewebsite-org/opensourcewebsite-org,PHP,307
+144956786,opensourcewebsite-org/opensourcewebsite-org,PHP,308
