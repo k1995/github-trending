@@ -3,7 +3,7 @@ id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,60
 6201092,mpv-player/mpv,C,14
 32969220,esp8266/Arduino,C,13
-102578345,coolsnowwolf/lede,C,57
+102578345,coolsnowwolf/lede,C,53
 27737393,qmk/qmk_firmware,C,9
 3199002,raspberrypi/linux,C,4
 78281075,SpacehuhnTech/esp8266_deauther,C,5
@@ -19,7 +19,7 @@ id,name,lang,new stars
 31791482,microsoft/Windows-driver-samples,C,4
 37060852,betaflight/betaflight,C,0
 41107037,unicorn-engine/unicorn,C,0
-179354282,acidanthera/OpenCorePkg,C,65
+179354282,acidanthera/OpenCorePkg,C,66
 212152900,wasm3/wasm3,C,9
 86245815,pygame/pygame,C,3
 241659610,zxystd/itlwm,C,13
