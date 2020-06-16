@@ -1,25 +1,26 @@
 id,name,lang,new stars
-18408635,chrislgarry/Apollo-11,Assembly,201
-83844720,ageitgey/face_recognition,Python,164
-160919119,tiangolo/fastapi,Python,461
-221981891,microsoft/playwright,JavaScript,658
-251383553,electronicarts/CnC_Remastered_Collection,C++,2315
+21540759,avelino/awesome-go,Go,220
+18347476,google/iosched,Kotlin,41
+11171548,nlohmann/json,C++,195
+221981891,microsoft/playwright,JavaScript,694
 27729907,grpc/grpc-go,Go,73
 49876476,apache/shardingsphere,Java,79
-159194100,fengdu78/lihang-code,Jupyter Notebook,460
+159194100,fengdu78/lihang-code,Jupyter Notebook,452
+4095287,rubocop-hq/rubocop,Ruby,64
 919161,arduino/Arduino,Java,61
-59435364,outline/outline,JavaScript,182
-253601257,alievk/avatarify,Python,366
-236750354,bradtraversy/vanillawebprojects,JavaScript,1059
-167304464,cortexlabs/cortex,Go,351
-49785387,Disassembler0/Win10-Initial-Setup-Script,PowerShell,262
-138831170,facebookresearch/mmf,Python,223
+59435364,outline/outline,JavaScript,179
+236750354,bradtraversy/vanillawebprojects,JavaScript,1069
+93947448,twintproject/twint,Python,437
+174231735,hsoft/collapseos,C,234
+138831170,facebookresearch/mmf,Python,226
 110042100,microsoft/Quantum,PowerShell,45
-249063259,ianramzy/decentralized-video-chat,JavaScript,254
-248599368,apple/password-manager-resources,JavaScript,491
-269611113,anopara/genetic-drawing,Python,324
-263842117,carlini/printf-tac-toe,C,279
+249063259,ianramzy/decentralized-video-chat,JavaScript,262
+264818686,ultralytics/yolov5,Jupyter Notebook,1518
+153651476,google/model-viewer,TypeScript,59
+269611113,anopara/genetic-drawing,Python,291
+47859258,qiniu/goplus,Go,110
 50372538,GoogleCloudPlatform/community,Java,48
-268027139,corona-warn-app/cwa-app-android,Kotlin,202
-268042230,corona-warn-app/cwa-app-ios,Swift,145
-269130286,defund12/defund12.org,TypeScript,50
+183677633,bradtraversy/devconnector_2.0,JavaScript,54
+268027139,corona-warn-app/cwa-app-android,Kotlin,244
+193681111,filecoin-project/lotus,Go,11
+269130286,defund12/defund12.org,TypeScript,51
