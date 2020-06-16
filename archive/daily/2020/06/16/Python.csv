@@ -1,21 +1,21 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,142
+83222441,donnemartin/system-design-primer,Python,163
 3638964,ansible/ansible,Python,18
-5483330,soimort/you-get,Python,126
+5483330,soimort/you-get,Python,102
 155220641,huggingface/transformers,Python,64
 89266735,facebookresearch/ParlAI,Python,8
 93947448,twintproject/twint,Python,179
-70746484,apache/incubator-tvm,Python,6
+70746484,apache/incubator-tvm,Python,5
 114619595,malwaredllc/byob,Python,98
-35065876,GoogleCloudPlatform/python-docs-samples,Python,6
-87520003,iGhibli/iOS-DeviceSupport,Python,13
-217433767,facebookresearch/pytorch3d,Python,42
-139199684,PrefectHQ/prefect,Python,11
+35065876,GoogleCloudPlatform/python-docs-samples,Python,7
+87520003,iGhibli/iOS-DeviceSupport,Python,14
+217433767,facebookresearch/pytorch3d,Python,35
+139199684,PrefectHQ/prefect,Python,8
 114054873,espnet/espnet,Python,4
 54686145,dataabc/weiboSpider,Python,2
-124240220,fastnlp/fastNLP,Python,14
+124240220,fastnlp/fastNLP,Python,10
 252939699,ifzhang/FairMOT,Python,11
-196299328,649453932/Chinese-Text-Classification-Pytorch,Python,16
+196299328,649453932/Chinese-Text-Classification-Pytorch,Python,12
 4127088,Azure/azure-sdk-for-python,Python,2
 206397095,facebookresearch/pifuhd,Python,335
 248056757,magicleap/SuperGluePretrainedNetwork,Python,35
@@ -23,4 +23,4 @@ id,name,lang,new stars
 250391956,rwightman/efficientdet-pytorch,Python,10
 265645902,adamian98/pulse,Python,86
 217049502,fastnlp/fastHan,Python,55
-270866336,defparam/smuggler,Python,60
+270866336,defparam/smuggler,Python,63
