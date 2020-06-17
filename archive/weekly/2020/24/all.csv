@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,226
+21540759,avelino/awesome-go,Go,234
 18347476,google/iosched,Kotlin,42
-11171548,nlohmann/json,C++,279
-221981891,microsoft/playwright,JavaScript,803
-27729907,grpc/grpc-go,Go,70
-49876476,apache/shardingsphere,Java,101
-159194100,fengdu78/lihang-code,Jupyter Notebook,410
-4095287,rubocop-hq/rubocop,Ruby,51
-919161,arduino/Arduino,Java,63
-59435364,outline/outline,JavaScript,173
-236750354,bradtraversy/vanillawebprojects,JavaScript,1038
-93947448,twintproject/twint,Python,456
-174231735,hsoft/collapseos,C,88
+11171548,nlohmann/json,C++,300
+221981891,microsoft/playwright,JavaScript,809
+27729907,grpc/grpc-go,Go,71
+159194100,fengdu78/lihang-code,Jupyter Notebook,406
+49014795,phpstan/phpstan,HTML,174
+73328905,pytorch/vision,Jupyter Notebook,93
+236750354,bradtraversy/vanillawebprojects,JavaScript,1039
+128565937,iamadamdev/bypass-paywalls-chrome,JavaScript,375
+93947448,twintproject/twint,Python,457
+54213490,xamarin/Xamarin.Forms,C#,60
+75505125,abpframework/abp,C#,48
 138831170,facebookresearch/mmf,Python,219
-110042100,microsoft/Quantum,PowerShell,52
-249063259,ianramzy/decentralized-video-chat,JavaScript,354
-264818686,ultralytics/yolov5,Jupyter Notebook,1559
-153651476,google/model-viewer,TypeScript,54
-269611113,anopara/genetic-drawing,Python,203
+249063259,ianramzy/decentralized-video-chat,JavaScript,357
+19608522,googleapis/google-cloud-go,Go,105
+264818686,ultralytics/yolov5,Jupyter Notebook,1574
+160272948,chai2010/go-ast-book,Go,511
 47859258,qiniu/goplus,Go,88
-268027139,corona-warn-app/cwa-app-android,Kotlin,418
-50372538,GoogleCloudPlatform/community,Java,51
-183677633,bradtraversy/devconnector_2.0,JavaScript,55
-193681111,filecoin-project/lotus,Go,9
-269130286,defund12/defund12.org,TypeScript,31
+268027139,corona-warn-app/cwa-app-android,Kotlin,437
+183677633,bradtraversy/devconnector_2.0,JavaScript,56
+268042230,corona-warn-app/cwa-app-ios,Swift,325
+39093389,Azure/azure-rest-api-specs,TypeScript,17
+270575324,yunuscadirci/CallStranger,Python,161
+234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,56

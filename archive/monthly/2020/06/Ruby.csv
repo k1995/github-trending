@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,273
-65252,jekyll/jekyll,Ruby,318
-53238813,Homebrew/brew,Ruby,374
-52281283,tootsuite/mastodon,Ruby,403
-481872,hashicorp/vagrant,Ruby,211
+8514,rails/rails,Ruby,275
+65252,jekyll/jekyll,Ruby,317
+53238813,Homebrew/brew,Ruby,377
+52281283,tootsuite/mastodon,Ruby,404
+481872,hashicorp/vagrant,Ruby,214
 73648678,thepracticaldev/dev.to,Ruby,367
-1090311,elastic/logstash,Ruby,105
+1090311,elastic/logstash,Ruby,108
 4095287,rubocop-hq/rubocop,Ruby,150
-3195124,mperham/sidekiq,Ruby,87
+3195124,mperham/sidekiq,Ruby,88
 1918677,fluent/fluentd,Ruby,136
 11423758,mame/quine-relay,Ruby,312
 611921,activeadmin/activeadmin,Ruby,26
 15435,Shopify/liquid,Ruby,86
 1333863,kaminari/kaminari,Ruby,28
-6529205,varvet/pundit,Ruby,46
+6529205,varvet/pundit,Ruby,47
 21829,thoughtbot/factory_bot,Ruby,32
 22059578,ankane/pghero,Ruby,130
 535266,vcr/vcr,Ruby,63
@@ -23,4 +23,4 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,58
 154027884,samber/awesome-prometheus-alerts,Ruby,133
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,151
-29151578,rswag/rswag,Ruby,44
+29151578,rswag/rswag,Ruby,43
