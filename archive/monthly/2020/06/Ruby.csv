@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,272
-53238813,Homebrew/brew,Ruby,376
+8514,rails/rails,Ruby,271
+53238813,Homebrew/brew,Ruby,375
 52281283,tootsuite/mastodon,Ruby,402
-481872,hashicorp/vagrant,Ruby,216
-73648678,thepracticaldev/dev.to,Ruby,367
+481872,hashicorp/vagrant,Ruby,218
+73648678,thepracticaldev/dev.to,Ruby,368
 1090311,elastic/logstash,Ruby,108
-4095287,rubocop-hq/rubocop,Ruby,149
+4095287,rubocop-hq/rubocop,Ruby,152
 3195124,mperham/sidekiq,Ruby,90
-1918677,fluent/fluentd,Ruby,136
-11423758,mame/quine-relay,Ruby,312
-611921,activeadmin/activeadmin,Ruby,26
+1918677,fluent/fluentd,Ruby,137
+11423758,mame/quine-relay,Ruby,308
+611921,activeadmin/activeadmin,Ruby,27
 96395,faker-ruby/faker,Ruby,145
 15435,Shopify/liquid,Ruby,86
 1333863,kaminari/kaminari,Ruby,29
@@ -18,9 +18,9 @@ id,name,lang,new stars
 535266,vcr/vcr,Ruby,63
 1548802,activerecord-hackery/ransack,Ruby,39
 950915,urbanadventurer/WhatWeb,Ruby,76
-51164398,oracle/truffleruby,Ruby,81
+51164398,oracle/truffleruby,Ruby,82
 103766152,github/explore,Ruby,57
 26094060,logstash-plugins/logstash-patterns-core,Ruby,32
-126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,151
-61203,Shopify/shopify_app,Ruby,26
-29151578,rswag/rswag,Ruby,43
+126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,152
+61203,Shopify/shopify_app,Ruby,27
+29151578,rswag/rswag,Ruby,42
