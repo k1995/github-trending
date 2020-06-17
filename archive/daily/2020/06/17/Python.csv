@@ -1,9 +1,9 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,134
 3638964,ansible/ansible,Python,18
-5483330,soimort/you-get,Python,65
+5483330,soimort/you-get,Python,66
 155220641,huggingface/transformers,Python,68
-89266735,facebookresearch/ParlAI,Python,8
+89266735,facebookresearch/ParlAI,Python,10
 93947448,twintproject/twint,Python,130
 70746484,apache/incubator-tvm,Python,3
 114619595,malwaredllc/byob,Python,106
@@ -14,13 +14,13 @@ id,name,lang,new stars
 114054873,espnet/espnet,Python,4
 54686145,dataabc/weiboSpider,Python,2
 124240220,fastnlp/fastNLP,Python,10
-252939699,ifzhang/FairMOT,Python,25
+252939699,ifzhang/FairMOT,Python,30
 196299328,649453932/Chinese-Text-Classification-Pytorch,Python,10
-4127088,Azure/azure-sdk-for-python,Python,2
-206397095,facebookresearch/pifuhd,Python,408
+4127088,Azure/azure-sdk-for-python,Python,1
+206397095,facebookresearch/pifuhd,Python,429
 248056757,magicleap/SuperGluePretrainedNetwork,Python,26
-47203045,DataDog/integrations-core,Python,9
 265645902,adamian98/pulse,Python,155
+47203045,DataDog/integrations-core,Python,6
 250391956,rwightman/efficientdet-pytorch,Python,12
 217049502,fastnlp/fastHan,Python,45
 270866336,defparam/smuggler,Python,42
