@@ -1,20 +1,20 @@
 id,name,lang,new stars
-156018,antirez/redis,C,19
-36502,git/git,C,22
+156018,antirez/redis,C,18
+36502,git/git,C,21
 24586308,cfenollosa/os-tutorial,C,8
-18666758,pjreddie/darknet,C,13
-569041,curl/curl,C,13
+18666758,pjreddie/darknet,C,14
+569041,curl/curl,C,11
 7634677,openssl/openssl,C,10
 37912398,nginx/nginx,C,15
 102578345,coolsnowwolf/lede,C,40
 34921116,iovisor/bcc,C,11
 105627846,reactos/reactos,C,4
-67031040,upx/upx,C,8
-13836499,raysan5/raylib,C,11
+67031040,upx/upx,C,9
+13836499,raysan5/raylib,C,12
 44781140,greenplum-db/gpdb,C,2
 31791482,microsoft/Windows-driver-samples,C,4
 8270972,ARMmbed/mbed-os,C,19
-179354282,acidanthera/OpenCorePkg,C,37
+179354282,acidanthera/OpenCorePkg,C,34
 6687936,ARMmbed/mbedtls,C,15
 4988795,acassen/keepalived,C,2
 15333809,open62541/open62541,C,0
