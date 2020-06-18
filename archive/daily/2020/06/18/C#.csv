@@ -1,12 +1,12 @@
 id,name,lang,new stars
-7600409,shadowsocks/shadowsocks-windows,C#,21
-17620347,dotnet/aspnetcore,C#,14
-143460965,GoogleCloudPlatform/microservices-demo,C#,14
+7600409,shadowsocks/shadowsocks-windows,C#,22
+17620347,dotnet/aspnetcore,C#,13
+143460965,GoogleCloudPlatform/microservices-demo,C#,13
 46652227,IdentityServer/IdentityServer4,C#,5
 85953,gitextensions/gitextensions,C#,2
-26884725,OrchardCMS/OrchardCore,C#,6
+26884725,OrchardCMS/OrchardCore,C#,5
 50605426,microsoft/MixedRealityToolkit-Unity,C#,2
-262395224,dotnet/maui,C#,61
+262395224,dotnet/maui,C#,60
 35290377,Azure/DotNetty,C#,0
 59361967,simplcommerce/SimplCommerce,C#,2
 81770291,neuecc/MessagePack-CSharp,C#,5
@@ -14,13 +14,13 @@ id,name,lang,new stars
 132453438,unoplatform/uno,C#,3
 23891194,Azure/azure-powershell,C#,3
 49673872,sshnet/SSH.NET,C#,4
-159548561,grpc/grpc-dotnet,C#,28
+159548561,grpc/grpc-dotnet,C#,29
 30932325,dotnet/extensions,C#,4
 2928944,Azure/azure-sdk-for-net,C#,2
-115516512,ivanpaulovich/clean-architecture-manga,C#,5
+115516512,ivanpaulovich/clean-architecture-manga,C#,4
 13009666,FreyaHolmer/ShaderForge,C#,3
 224109382,ant-design-blazor/ant-design-blazor,C#,2
-184286875,actions/runner,C#,6
-253221768,QianMo/X-PostProcessing-Library,C#,21
+184286875,actions/runner,C#,5
+253221768,QianMo/X-PostProcessing-Library,C#,20
 265221540,SteveSandersonMS/CarChecker,C#,5
 271392112,egbakou/FurnitureShop3d,C#,21
