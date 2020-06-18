@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,51
-156018,antirez/redis,C,25
+2325298,torvalds/linux,C,52
+156018,antirez/redis,C,26
 36502,git/git,C,18
-1614410,FFmpeg/FFmpeg,C,27
-908607,numpy/numpy,C,7
+1614410,FFmpeg/FFmpeg,C,28
+908607,numpy/numpy,C,10
 613829,openresty/lua-nginx-module,C,4
-47409672,hashcat/hashcat,C,125
+47409672,hashcat/hashcat,C,136
 3199002,raspberrypi/linux,C,8
 26917568,nodemcu/nodemcu-firmware,C,5
 246335987,ventoy/Ventoy,C,95

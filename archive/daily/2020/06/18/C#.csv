@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1613345,StackExchange/Dapper,C#,8
+1613345,StackExchange/Dapper,C#,11
 14964475,AvaloniaUI/Avalonia,C#,10
 75990888,dotnet/csharplang,C#,5
 198071756,huiyadanli/RevokeMsgPatcher,C#,36
 41589439,MathewSachin/Captura,C#,14
 41822320,RicoSuter/NSwag,C#,9
-262395224,dotnet/maui,C#,34
+262395224,dotnet/maui,C#,43
 203892454,kgrzybek/modular-monolith-with-ddd,C#,9
 59361967,simplcommerce/SimplCommerce,C#,3
 145101484,anjoy8/Blog.Core,C#,6
-159548561,grpc/grpc-dotnet,C#,34
+159548561,grpc/grpc-dotnet,C#,33
 245235133,microsoft/reverse-proxy,C#,3
 77703410,Perfare/Il2CppDumper,C#,2
 47261966,grandnode/grandnode,C#,6
@@ -19,8 +19,8 @@ id,name,lang,new stars
 244550797,hanmin0822/MisakaTranslator,C#,41
 145183271,Azure/Azure-Sentinel,C#,2
 161093684,FuzzySecurity/Sharp-Suite,C#,3
-253221768,QianMo/X-PostProcessing-Library,C#,28
-234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,15
-272471242,nxrighthere/UnrealCLR,C#,25
+253221768,QianMo/X-PostProcessing-Library,C#,29
+234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,17
+272471242,nxrighthere/UnrealCLR,C#,27
 272179843,CCob/SharpBlock,C#,7
 272466120,RedLectroid/SearchOutlook,C#,6
