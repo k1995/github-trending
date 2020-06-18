@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,64
+2325298,torvalds/linux,C,73
 156018,antirez/redis,C,21
-13233158,obsproject/obs-studio,C,30
+13233158,obsproject/obs-studio,C,26
 1614410,FFmpeg/FFmpeg,C,23
 18666758,pjreddie/darknet,C,16
 5101141,stedolan/jq,C,10
 29759715,facebook/zstd,C,7
 37912398,nginx/nginx,C,9
-47409672,hashcat/hashcat,C,145
+47409672,hashcat/hashcat,C,125
 13297858,vysheng/tg,C,6
 117948953,Atmosphere-NX/Atmosphere,C,6
 6376337,pocoproject/poco,C,3
@@ -16,10 +16,10 @@ id,name,lang,new stars
 21287076,awslabs/s2n,C,5
 59771425,zephyrproject-rtos/zephyr,C,2
 8270972,ARMmbed/mbed-os,C,6
-1253879,stlink-org/stlink,C,4
+1253879,stlink-org/stlink,C,3
 4988795,acassen/keepalived,C,5
 59676171,KevinOConnor/klipper,C,5
-123135691,tanersener/mobile-ffmpeg,C,8
+123135691,tanersener/mobile-ffmpeg,C,9
 11233590,coreutils/coreutils,C,4
 23097173,xiph/opus,C,1
 154525111,signalwire/freeswitch,C,1
