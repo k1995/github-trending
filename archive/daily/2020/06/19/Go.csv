@@ -1,9 +1,9 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,35
+20904437,gin-gonic/gin,Go,36
 14125254,hashicorp/consul,Go,21
 43723161,helm/helm,Go,9
 12080551,tsenart/vegeta,Go,14
-13624859,gorilla/websocket,Go,11
+13624859,gorilla/websocket,Go,17
 50613991,goharbor/harbor,Go,15
 123572362,quii/learn-go-with-tests,Go,12
 6247705,stretchr/testify,Go,7
@@ -18,9 +18,9 @@ id,name,lang,new stars
 130430977,kubesphere/kubesphere,Go,12
 76221943,Tencent/bk-cmdb,Go,7
 11452538,prometheus/alertmanager,Go,4
-272035489,greyireland/algorithm-pattern,Go,450
-47859258,qiniu/goplus,Go,47
+272035489,greyireland/algorithm-pattern,Go,767
+47859258,qiniu/goplus,Go,49
 22883982,vmware/govmomi,Go,2
-243518322,douyu/jupiter,Go,95
-193681111,filecoin-project/lotus,Go,3
-50734768,kubermatic/kubermatic,Go,51
+243518322,douyu/jupiter,Go,92
+193681111,filecoin-project/lotus,Go,1
+50734768,kubermatic/kubermatic,Go,49
