@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1129010,blueimp/jQuery-File-Upload,PHP,5
 458058,symfony/symfony,PHP,33
-1864363,composer/composer,PHP,12
+1864363,composer/composer,PHP,13
 7548986,laravel/framework,PHP,11
 1420053,guzzle/guzzle,PHP,11
 3431193,yiisoft/yii2,PHP,4
@@ -9,7 +9,7 @@ id,name,lang,new stars
 13899674,thephpleague/flysystem,PHP,7
 7769432,vlucas/phpdotenv,PHP,3
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
-6660366,dompdf/dompdf,PHP,7
+6660366,dompdf/dompdf,PHP,8
 7122594,directus/directus,PHP,7
 31295421,guzzle/psr7,PHP,5
 31295389,guzzle/promises,PHP,6
