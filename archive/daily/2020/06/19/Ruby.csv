@@ -1,18 +1,18 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,13
+7569578,discourse/discourse,Ruby,15
 27442967,fastlane/fastlane,Ruby,11
-53238813,Homebrew/brew,Ruby,18
+53238813,Homebrew/brew,Ruby,21
 52281283,tootsuite/mastodon,Ruby,4
 308770,heartcombo/devise,Ruby,1
-481872,hashicorp/vagrant,Ruby,7
+481872,hashicorp/vagrant,Ruby,8
 538746,ruby/ruby,Ruby,3
-73648678,thepracticaldev/dev.to,Ruby,24
+73648678,thepracticaldev/dev.to,Ruby,25
 1090311,elastic/logstash,Ruby,3
 106995,sinatra/sinatra,Ruby,3
-3314,spree/spree,Ruby,4
+3314,spree/spree,Ruby,5
 3195124,mperham/sidekiq,Ruby,5
 108278,chef/chef,Ruby,2
-910744,puppetlabs/puppet,Ruby,1
+910744,puppetlabs/puppet,Ruby,2
 1734,aasm/aasm,Ruby,2
 96071,rack/rack,Ruby,0
 1462,ctran/annotate_models,Ruby,3
