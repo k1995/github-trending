@@ -3,7 +3,7 @@ id,name,lang,new stars
 7548986,laravel/framework,PHP,11
 1420053,guzzle/guzzle,PHP,11
 2246815,domnikl/DesignPatternsPHP,PHP,12
-448045,sebastianbergmann/phpunit,PHP,5
+448045,sebastianbergmann/phpunit,PHP,4
 5724990,briannesbitt/Carbon,PHP,7
 12615154,barryvdh/laravel-debugbar,PHP,3
 7704544,Intervention/image,PHP,8
@@ -18,7 +18,7 @@ id,name,lang,new stars
 1649191,doctrine/DoctrineMigrationsBundle,PHP,2
 1740040,pfsense/pfsense,PHP,2
 27195711,alextselegidis/easyappointments,PHP,3
-246674913,pestphp/pest,PHP,11
+246674913,pestphp/pest,PHP,12
 5367323,akeneo/pim-community-dev,PHP,1
 59641680,shuchkin/simplexlsx,PHP,0
 156607803,hestiacp/hestiacp,PHP,9

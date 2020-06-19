@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,80
+2325298,torvalds/linux,C,81
 156018,antirez/redis,C,16
 13233158,obsproject/obs-studio,C,24
 1614410,FFmpeg/FFmpeg,C,16
@@ -20,7 +20,7 @@ id,name,lang,new stars
 4988795,acassen/keepalived,C,5
 59676171,KevinOConnor/klipper,C,5
 123135691,tanersener/mobile-ffmpeg,C,10
-11233590,coreutils/coreutils,C,2
+11233590,coreutils/coreutils,C,3
 23097173,xiph/opus,C,2
 154525111,signalwire/freeswitch,C,1
 70934373,Azure/azure-iot-sdk-c,C,0

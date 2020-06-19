@@ -1,15 +1,15 @@
 id,name,lang,new stars
-23096959,golang/go,Go,48
+23096959,golang/go,Go,49
 7691631,moby/moby,Go,8
 20904437,gin-gonic/gin,Go,35
 15452919,ethereum/go-ethereum,Go,5
 13855476,go-gorm/gorm,Go,36
-31288958,hashicorp/vault,Go,23
-53632140,zyedidia/micro,Go,16
+31288958,hashicorp/vault,Go,22
+53632140,zyedidia/micro,Go,15
 50613991,goharbor/harbor,Go,15
 11008207,vitessio/vitess,Go,10
-131371773,hoanhan101/ultimate-go,Go,21
-129717717,grafana/loki,Go,16
+131371773,hoanhan101/ultimate-go,Go,20
+129717717,grafana/loki,Go,14
 7083242,go-sql-driver/mysql,Go,8
 21405028,ardanlabs/gotraining,Go,20
 73902337,kubeless/kubeless,Go,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 120896210,argoproj/argo-cd,Go,16
 39874513,golang/proposal,Go,2
 108337180,rancher/rke,Go,5
+272035489,greyireland/algorithm-pattern,Go,450
+47859258,qiniu/goplus,Go,47
 75785240,authelia/authelia,Go,19
-243518322,douyu/jupiter,Go,94
-272035489,greyireland/algorithm-pattern,Go,454
-47859258,qiniu/goplus,Go,48
+243518322,douyu/jupiter,Go,95
