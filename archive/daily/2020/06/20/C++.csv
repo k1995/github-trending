@@ -1,16 +1,16 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,48
-9384267,electron/electron,C++,63
+45717250,tensorflow/tensorflow,C++,50
+9384267,electron/electron,C++,62
 5108051,opencv/opencv,C++,36
 23357588,protocolbuffers/protobuf,C++,24
 65600975,pytorch/pytorch,C++,29
 1357796,emscripten-core/emscripten,C++,8
-39840932,google/googletest,C++,18
+39840932,google/googletest,C++,14
 5133949,swoole/swoole-src,C++,6
-19953044,google/flatbuffers,C++,9
-1062572,catchorg/Catch2,C++,9
+19953044,google/flatbuffers,C++,8
+1062572,catchorg/Catch2,C++,8
 26038648,gabime/spdlog,C++,7
-34777562,ossrs/srs,C++,18
+34777562,ossrs/srs,C++,20
 79316451,TarsCloud/Tars,C++,4
 310611,apache/thrift,C++,3
 9090933,capnproto/capnproto,C++,7

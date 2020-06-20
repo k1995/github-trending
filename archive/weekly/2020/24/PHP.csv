@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,138
-3482588,danielmiessler/SecLists,PHP,172
+1863329,laravel/laravel,PHP,139
+3482588,danielmiessler/SecLists,PHP,173
 2579314,fzaninotto/Faker,PHP,48
-458058,symfony/symfony,PHP,71
-7548986,laravel/framework,PHP,56
+458058,symfony/symfony,PHP,72
+7548986,laravel/framework,PHP,57
 448045,sebastianbergmann/phpunit,PHP,36
-2889328,WordPress/WordPress,PHP,45
+2889328,WordPress/WordPress,PHP,46
 53783664,easychen/howto-make-more-money,PHP,297
 8678290,barryvdh/laravel-ide-helper,PHP,42
 2884111,magento/magento2,PHP,32
@@ -13,14 +13,14 @@ id,name,lang,new stars
 7122594,directus/directus,PHP,45
 14346979,snipe/snipe-it,PHP,28
 10883164,barryvdh/laravel-dompdf,PHP,25
-12204147,mautic/mautic,PHP,17
-2784293,php-amqplib/php-amqplib,PHP,13
-576099,doctrine/migrations,PHP,21
+12204147,mautic/mautic,PHP,18
+2784293,php-amqplib/php-amqplib,PHP,14
+576099,doctrine/migrations,PHP,20
 439861,moodle/moodle,PHP,20
 158374929,beyondcode/laravel-websockets,PHP,55
-29126334,EasyCorp/EasyAdminBundle,PHP,17
-182349597,jqhph/dcat-admin,PHP,90
-131995661,shopware/platform,PHP,13
+29126334,EasyCorp/EasyAdminBundle,PHP,18
+182349597,jqhph/dcat-admin,PHP,91
+131995661,shopware/platform,PHP,14
 144956786,opensourcewebsite-org/opensourcewebsite-org,PHP,279
 269325451,mettle/sendportal,PHP,119
 223535535,Ignitetch/AdvPhishing,PHP,19

@@ -1,6 +1,6 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,27
-20904437,gin-gonic/gin,Go,38
+20904437,gin-gonic/gin,Go,41
 6838921,prometheus/prometheus,Go,16
 41986369,pingcap/tidb,Go,17
 17728164,hashicorp/terraform,Go,14
@@ -11,9 +11,9 @@ id,name,lang,new stars
 109145553,containers/libpod,Go,8
 93928882,swaggo/swag,Go,10
 134539560,weaveworks/eksctl,Go,8
-272035489,greyireland/algorithm-pattern,Go,865
+272035489,greyireland/algorithm-pattern,Go,836
 93446042,terraform-providers/terraform-provider-azurerm,Go,2
-47859258,qiniu/goplus,Go,401
+47859258,qiniu/goplus,Go,404
 117377862,gardener/gardener,Go,3
 60978152,segmentio/terraform-docs,Go,4
 22883982,vmware/govmomi,Go,0
