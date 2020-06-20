@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,136
+1863329,laravel/laravel,PHP,137
 2579314,fzaninotto/Faker,PHP,49
 458058,symfony/symfony,PHP,73
 7548986,laravel/framework,PHP,58
 448045,sebastianbergmann/phpunit,PHP,35
 2253830,PHPMailer/PHPMailer,PHP,38
-2889328,WordPress/WordPress,PHP,43
+2889328,WordPress/WordPress,PHP,44
 53783664,easychen/howto-make-more-money,PHP,316
-8678290,barryvdh/laravel-ide-helper,PHP,41
-2884111,magento/magento2,PHP,34
+8678290,barryvdh/laravel-ide-helper,PHP,42
+2884111,magento/magento2,PHP,30
 597887,doctrine/orm,PHP,28
-7122594,directus/directus,PHP,43
-170355508,livewire/livewire,PHP,138
-14346979,snipe/snipe-it,PHP,28
+7122594,directus/directus,PHP,42
+170355508,livewire/livewire,PHP,137
+14346979,snipe/snipe-it,PHP,29
 12204147,mautic/mautic,PHP,17
 2784293,php-amqplib/php-amqplib,PHP,13
 576099,doctrine/migrations,PHP,21
@@ -21,6 +21,6 @@ id,name,lang,new stars
 18628501,lexik/LexikJWTAuthenticationBundle,PHP,10
 182349597,jqhph/dcat-admin,PHP,89
 131995661,shopware/platform,PHP,12
-144956786,opensourcewebsite-org/opensourcewebsite-org,PHP,300
-269325451,mettle/sendportal,PHP,120
+144956786,opensourcewebsite-org/opensourcewebsite-org,PHP,286
+269325451,mettle/sendportal,PHP,121
 223535535,Ignitetch/AdvPhishing,PHP,20
