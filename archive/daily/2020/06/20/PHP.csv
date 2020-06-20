@@ -3,7 +3,7 @@ id,name,lang,new stars
 23680678,tymondesigns/jwt-auth,PHP,3
 61490598,PHPOffice/PhpSpreadsheet,PHP,6
 42480275,spatie/laravel-permission,PHP,6
-2699935,squizlabs/PHP_CodeSniffer,PHP,4
+2699935,squizlabs/PHP_CodeSniffer,PHP,6
 1398648,symfony/http-foundation,PHP,2
 6660366,dompdf/dompdf,PHP,5
 31295421,guzzle/psr7,PHP,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 3601728,hwi/HWIOAuthBundle,PHP,0
 56836583,postaddictme/instagram-php-scraper,PHP,3
 39182755,glpi-project/glpi,PHP,1
-255703597,beyondcode/expose,PHP,445
+255703597,beyondcode/expose,PHP,437
 66956607,blade-ui-kit/blade-icons,PHP,7
 97858693,range-of-motion/budget,PHP,91
 267576134,akiyamaSM/maravel-permissions,PHP,4

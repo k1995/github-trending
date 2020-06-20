@@ -1,25 +1,25 @@
 id,name,lang,new stars
-2126244,twbs/bootstrap,JavaScript,496
-132750724,danistefanovic/build-your-own-x,,1332
+2126244,twbs/bootstrap,JavaScript,502
+132750724,danistefanovic/build-your-own-x,,1339
 3432266,JetBrains/kotlin,Kotlin,132
 11171548,nlohmann/json,C++,303
-39840932,google/googletest,C++,92
-221981891,microsoft/playwright,JavaScript,705
-170067246,openai/gpt-2,Python,111
+39840932,google/googletest,C++,91
+221981891,microsoft/playwright,JavaScript,709
+170067246,openai/gpt-2,Python,114
 47409672,hashcat/hashcat,C,236
 93947448,twintproject/twint,Python,493
 167304464,cortexlabs/cortex,Go,361
-224284178,NVlabs/stylegan2,Python,271
+224284178,NVlabs/stylegan2,Python,276
 266613704,dabeaz-course/practical-python,Python,1782
-179354282,acidanthera/OpenCorePkg,C,212
+179354282,acidanthera/OpenCorePkg,C,213
 249063259,ianramzy/decentralized-video-chat,JavaScript,334
 264818686,ultralytics/yolov5,Jupyter Notebook,605
-47859258,qiniu/goplus,Go,677
+47859258,qiniu/goplus,Go,697
 260712390,corona-warn-app/cwa-server,Java,395
-268027139,corona-warn-app/cwa-app-android,Kotlin,677
-268042230,corona-warn-app/cwa-app-ios,Swift,452
-183677633,bradtraversy/devconnector_2.0,JavaScript,63
-240315046,jina-ai/jina,Python,64
+268027139,corona-warn-app/cwa-app-android,Kotlin,678
+268042230,corona-warn-app/cwa-app-ios,Swift,454
+183677633,bradtraversy/devconnector_2.0,JavaScript,64
+240315046,jina-ai/jina,Python,68
 262149353,corona-warn-app/cwa-website,CSS,212
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,53
 222361926,john-smilga/javascript-basic-projects,CSS,41

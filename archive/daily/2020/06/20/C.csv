@@ -1,5 +1,5 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,37
+10744183,netdata/netdata,C,34
 62156403,QSCTech/zju-icicles,C,33
 908607,numpy/numpy,C,7
 15337142,micropython/micropython,C,13
@@ -19,7 +19,7 @@ id,name,lang,new stars
 255670798,sandboxie/sandboxie,C,14
 99199151,xiph/rnnoise,C,3
 26537135,u-boot/u-boot,C,3
-254327261,sandboxie-plus/Sandboxie,C,14
+254327261,sandboxie-plus/Sandboxie,C,12
 28928522,wolfSSL/wolfssl,C,2
 259695567,bats3c/shad0w,C,9
 43087387,tronkko/dirent,C,1
