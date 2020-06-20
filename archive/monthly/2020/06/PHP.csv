@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,610
-3482588,danielmiessler/SecLists,PHP,719
-458058,symfony/symfony,PHP,255
+1863329,laravel/laravel,PHP,611
+3482588,danielmiessler/SecLists,PHP,726
+458058,symfony/symfony,PHP,254
 1420053,guzzle/guzzle,PHP,195
-448045,sebastianbergmann/phpunit,PHP,142
+448045,sebastianbergmann/phpunit,PHP,141
 2253830,PHPMailer/PHPMailer,PHP,191
-8678290,barryvdh/laravel-ide-helper,PHP,160
+8678290,barryvdh/laravel-ide-helper,PHP,161
 2884111,magento/magento2,PHP,146
 14259390,Maatwebsite/Laravel-Excel,PHP,137
 61490598,PHPOffice/PhpSpreadsheet,PHP,168
@@ -13,14 +13,14 @@ id,name,lang,new stars
 23056580,laravel/socialite,PHP,61
 170355508,livewire/livewire,PHP,576
 10883164,barryvdh/laravel-dompdf,PHP,79
-2464908,joomla/joomla-cms,PHP,43
+2464908,joomla/joomla-cms,PHP,42
 14735403,yajra/laravel-datatables,PHP,62
 74386167,vimeo/psalm,PHP,106
 4380514,Audi-1/sqli-labs,PHP,83
 9395939,ZoneMinder/zoneminder,PHP,76
 148129143,bagisto/bagisto,PHP,133
-11935508,RSS-Bridge/rss-bridge,PHP,96
+11935508,RSS-Bridge/rss-bridge,PHP,97
 13044600,salesagility/SuiteCRM,PHP,70
-74026995,CodelyTV/php-ddd-example,PHP,132
+74026995,CodelyTV/php-ddd-example,PHP,131
 156607803,hestiacp/hestiacp,PHP,69
 36526302,pentestmonkey/php-reverse-shell,PHP,52

@@ -1,15 +1,15 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,324
-23357588,protocolbuffers/protobuf,C++,156
-65600975,pytorch/pytorch,C++,212
-15634981,godotengine/godot,C++,205
+45717250,tensorflow/tensorflow,C++,329
+23357588,protocolbuffers/protobuf,C++,159
+65600975,pytorch/pytorch,C++,213
+15634981,godotengine/godot,C++,207
 27729880,grpc/grpc,C++,116
-22067521,ocornut/imgui,C++,188
+22067521,ocornut/imgui,C++,189
 11171548,nlohmann/json,C++,300
-108110,mongodb/mongo,C++,50
-39840932,google/googletest,C++,90
-31522041,vnpy/vnpy,C++,65
-80286288,arendst/Tasmota,C++,82
+108110,mongodb/mongo,C++,51
+39840932,google/googletest,C++,92
+31522041,vnpy/vnpy,C++,64
+80286288,arendst/Tasmota,C++,81
 2310495,ceph/ceph,C++,31
 2200856,MarlinFirmware/Marlin,C++,76
 38581626,pybind/pybind11,C++,54
@@ -21,6 +21,6 @@ id,name,lang,new stars
 52882701,prusa3d/PrusaSlicer,C++,27
 131236938,an-tao/drogon,C++,79
 11489037,rathena/rathena,C++,40
-267792621,Tencent/TNN,C++,271
+267792621,Tencent/TNN,C++,270
 210549660,AnkerLeng/Cpp-0-1-Resource,C++,72
 127023441,NVIDIA/cuda-samples,C++,23
