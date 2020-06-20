@@ -1,12 +1,12 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,139
-3482588,danielmiessler/SecLists,PHP,173
-2579314,fzaninotto/Faker,PHP,48
+3482588,danielmiessler/SecLists,PHP,178
+2579314,fzaninotto/Faker,PHP,49
 458058,symfony/symfony,PHP,72
 7548986,laravel/framework,PHP,57
 448045,sebastianbergmann/phpunit,PHP,36
-2889328,WordPress/WordPress,PHP,46
-53783664,easychen/howto-make-more-money,PHP,297
+2889328,WordPress/WordPress,PHP,48
+53783664,easychen/howto-make-more-money,PHP,299
 8678290,barryvdh/laravel-ide-helper,PHP,42
 2884111,magento/magento2,PHP,32
 42480275,spatie/laravel-permission,PHP,40
@@ -16,11 +16,11 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,18
 2784293,php-amqplib/php-amqplib,PHP,14
 576099,doctrine/migrations,PHP,20
+158374929,beyondcode/laravel-websockets,PHP,56
 439861,moodle/moodle,PHP,20
-158374929,beyondcode/laravel-websockets,PHP,55
 29126334,EasyCorp/EasyAdminBundle,PHP,18
 182349597,jqhph/dcat-admin,PHP,91
-131995661,shopware/platform,PHP,14
-144956786,opensourcewebsite-org/opensourcewebsite-org,PHP,279
+131995661,shopware/platform,PHP,15
+144956786,opensourcewebsite-org/opensourcewebsite-org,PHP,284
 269325451,mettle/sendportal,PHP,119
 223535535,Ignitetch/AdvPhishing,PHP,19
