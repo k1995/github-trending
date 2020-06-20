@@ -1,17 +1,17 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,607
-3482588,danielmiessler/SecLists,PHP,720
+3482588,danielmiessler/SecLists,PHP,721
 458058,symfony/symfony,PHP,254
 1420053,guzzle/guzzle,PHP,195
 448045,sebastianbergmann/phpunit,PHP,142
 2253830,PHPMailer/PHPMailer,PHP,190
 8678290,barryvdh/laravel-ide-helper,PHP,162
-2884111,magento/magento2,PHP,144
-14259390,Maatwebsite/Laravel-Excel,PHP,136
-61490598,PHPOffice/PhpSpreadsheet,PHP,166
+2884111,magento/magento2,PHP,147
+14259390,Maatwebsite/Laravel-Excel,PHP,137
+61490598,PHPOffice/PhpSpreadsheet,PHP,167
 6660366,dompdf/dompdf,PHP,105
 23056580,laravel/socialite,PHP,61
-170355508,livewire/livewire,PHP,574
+170355508,livewire/livewire,PHP,576
 10883164,barryvdh/laravel-dompdf,PHP,79
 2464908,joomla/joomla-cms,PHP,42
 14735403,yajra/laravel-datatables,PHP,60
@@ -22,5 +22,5 @@ id,name,lang,new stars
 11935508,RSS-Bridge/rss-bridge,PHP,96
 13044600,salesagility/SuiteCRM,PHP,69
 74026995,CodelyTV/php-ddd-example,PHP,131
-156607803,hestiacp/hestiacp,PHP,69
+156607803,hestiacp/hestiacp,PHP,70
 36526302,pentestmonkey/php-reverse-shell,PHP,51
