@@ -1,26 +1,26 @@
 id,name,lang,new stars
-2126244,twbs/bootstrap,JavaScript,533
+2126244,twbs/bootstrap,JavaScript,515
 3432266,JetBrains/kotlin,Kotlin,142
-11171548,nlohmann/json,C++,312
-157616880,iptv-org/iptv,JavaScript,1229
+11171548,nlohmann/json,C++,313
+157616880,iptv-org/iptv,JavaScript,996
 39840932,google/googletest,C++,117
-221981891,microsoft/playwright,JavaScript,723
-170067246,openai/gpt-2,Python,123
+221981891,microsoft/playwright,JavaScript,603
+170067246,openai/gpt-2,Python,111
 102578345,coolsnowwolf/lede,C,179
-93947448,twintproject/twint,Python,556
-167304464,cortexlabs/cortex,Go,371
-224284178,NVlabs/stylegan2,Python,291
-266613704,dabeaz-course/practical-python,Python,2000
-179354282,acidanthera/OpenCorePkg,C,226
-264818686,ultralytics/yolov5,Jupyter Notebook,621
-47859258,qiniu/goplus,Go,794
-260712390,corona-warn-app/cwa-server,Java,402
-268027139,corona-warn-app/cwa-app-android,Kotlin,686
-268042230,corona-warn-app/cwa-app-ios,Swift,466
-183677633,bradtraversy/devconnector_2.0,JavaScript,68
+93947448,twintproject/twint,Python,531
+167304464,cortexlabs/cortex,Go,289
+224284178,NVlabs/stylegan2,Python,286
+266613704,dabeaz-course/practical-python,Python,2055
+179354282,acidanthera/OpenCorePkg,C,187
+264818686,ultralytics/yolov5,Jupyter Notebook,506
+47859258,qiniu/goplus,Go,807
+260712390,corona-warn-app/cwa-server,Java,397
+268027139,corona-warn-app/cwa-app-android,Kotlin,696
+268042230,corona-warn-app/cwa-app-ios,Swift,460
+183677633,bradtraversy/devconnector_2.0,JavaScript,63
 240315046,jina-ai/jina,Python,79
-255365829,tobspr/shapez.io,JavaScript,311
+255365829,tobspr/shapez.io,JavaScript,281
 262149353,corona-warn-app/cwa-website,CSS,216
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,57
-222361926,john-smilga/javascript-basic-projects,CSS,45
-267702531,googlesamples/mlkit,Java,27
+222361926,john-smilga/javascript-basic-projects,CSS,38
+267702531,googlesamples/mlkit,Java,26
