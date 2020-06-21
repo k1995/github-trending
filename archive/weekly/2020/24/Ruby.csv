@@ -1,22 +1,21 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,74
-27442967,fastlane/fastlane,Ruby,194
+27442967,fastlane/fastlane,Ruby,209
 53238813,Homebrew/brew,Ruby,93
 308770,heartcombo/devise,Ruby,30
 73648678,thepracticaldev/dev.to,Ruby,83
 106995,sinatra/sinatra,Ruby,16
-4095287,rubocop-hq/rubocop,Ruby,42
 3314,spree/spree,Ruby,37
 3195124,mperham/sidekiq,Ruby,22
-1918677,fluent/fluentd,Ruby,29
+1918677,fluent/fluentd,Ruby,30
 611921,activeadmin/activeadmin,Ruby,4
-96395,faker-ruby/faker,Ruby,93
-18486300,lewagon/setup,Ruby,15
-108278,chef/chef,Ruby,9
+96395,faker-ruby/faker,Ruby,94
+108278,chef/chef,Ruby,10
 75785147,rails/webpacker,Ruby,15
 30337170,rmosolgo/graphql-ruby,Ruby,18
-202291859,chatwoot/chatwoot,Ruby,32
-6899875,opf/openproject,Ruby,26
+202291859,chatwoot/chatwoot,Ruby,35
+2185269,busyloop/lolcat,Ruby,33
+6899875,opf/openproject,Ruby,27
 30985840,solidusio/solidus,Ruby,22
 2050163,aws/aws-sdk-ruby,Ruby,3
 17204381,ankane/ahoy,Ruby,14
@@ -24,3 +23,4 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,11
 103766152,github/explore,Ruby,15
 200302808,github/view_component,Ruby,31
+159232111,cmer/gigabyte-z390-aorus-master-hackintosh,Ruby,30
