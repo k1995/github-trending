@@ -1,18 +1,18 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,268
-27442967,fastlane/fastlane,Ruby,377
-53238813,Homebrew/brew,Ruby,379
-52281283,tootsuite/mastodon,Ruby,395
-481872,hashicorp/vagrant,Ruby,235
-73648678,thepracticaldev/dev.to,Ruby,374
+27442967,fastlane/fastlane,Ruby,385
+53238813,Homebrew/brew,Ruby,380
+52281283,tootsuite/mastodon,Ruby,397
+481872,hashicorp/vagrant,Ruby,236
+73648678,thepracticaldev/dev.to,Ruby,377
 1090311,elastic/logstash,Ruby,105
 4095287,rubocop-hq/rubocop,Ruby,158
 3314,spree/spree,Ruby,92
 3195124,mperham/sidekiq,Ruby,87
-1918677,fluent/fluentd,Ruby,133
-11423758,mame/quine-relay,Ruby,314
+1918677,fluent/fluentd,Ruby,134
+11423758,mame/quine-relay,Ruby,315
 611921,activeadmin/activeadmin,Ruby,26
-96395,faker-ruby/faker,Ruby,144
+96395,faker-ruby/faker,Ruby,145
 15435,Shopify/liquid,Ruby,84
 1333863,kaminari/kaminari,Ruby,29
 22059578,ankane/pghero,Ruby,132
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1548802,activerecord-hackery/ransack,Ruby,38
 950915,urbanadventurer/WhatWeb,Ruby,74
 103766152,github/explore,Ruby,63
-26094060,logstash-plugins/logstash-patterns-core,Ruby,37
+26094060,logstash-plugins/logstash-patterns-core,Ruby,38
 93163073,dependabot/dependabot-core,Ruby,63
 29151578,rswag/rswag,Ruby,42

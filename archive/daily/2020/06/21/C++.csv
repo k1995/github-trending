@@ -1,16 +1,16 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,45
-9384267,electron/electron,C++,46
+9384267,electron/electron,C++,47
 5108051,opencv/opencv,C++,27
 23357588,protocolbuffers/protobuf,C++,22
-65600975,pytorch/pytorch,C++,21
+65600975,pytorch/pytorch,C++,22
 1357796,emscripten-core/emscripten,C++,5
 39840932,google/googletest,C++,34
 5133949,swoole/swoole-src,C++,12
 19953044,google/flatbuffers,C++,7
 1062572,catchorg/Catch2,C++,5
 26038648,gabime/spdlog,C++,7
-34777562,ossrs/srs,C++,7
+34777562,ossrs/srs,C++,11
 79316451,TarsCloud/Tars,C++,0
 310611,apache/thrift,C++,3
 9090933,capnproto/capnproto,C++,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 52882701,prusa3d/PrusaSlicer,C++,4
 248058818,wolfpld/tracy,C++,14
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,6
-272641966,forpdown/pdown,C++,96
+272641966,forpdown/pdown,C++,125
 272979787,lunasorcery/pridecat,C++,10
 268028237,zxystd/HeliPort,C++,3
 272700405,bitcoin-core/gui,C++,3
