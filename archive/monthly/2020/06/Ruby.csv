@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,257
-27442967,fastlane/fastlane,Ruby,398
-52281283,tootsuite/mastodon,Ruby,390
-481872,hashicorp/vagrant,Ruby,232
-73648678,thepracticaldev/dev.to,Ruby,378
-1090311,elastic/logstash,Ruby,103
-4095287,rubocop-hq/rubocop,Ruby,161
+8514,rails/rails,Ruby,259
+27442967,fastlane/fastlane,Ruby,399
+52281283,tootsuite/mastodon,Ruby,391
+481872,hashicorp/vagrant,Ruby,233
+73648678,thepracticaldev/dev.to,Ruby,379
+1090311,elastic/logstash,Ruby,104
+4095287,rubocop-hq/rubocop,Ruby,162
 3314,spree/spree,Ruby,88
 3195124,mperham/sidekiq,Ruby,83
 1918677,fluent/fluentd,Ruby,133
-11423758,mame/quine-relay,Ruby,310
+11423758,mame/quine-relay,Ruby,312
 96395,faker-ruby/faker,Ruby,146
-15435,Shopify/liquid,Ruby,85
+15435,Shopify/liquid,Ruby,88
 1333863,kaminari/kaminari,Ruby,29
 21829,thoughtbot/factory_bot,Ruby,34
 22059578,ankane/pghero,Ruby,130
@@ -20,7 +20,7 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,46
 1548802,activerecord-hackery/ransack,Ruby,39
 950915,urbanadventurer/WhatWeb,Ruby,74
-103766152,github/explore,Ruby,61
+103766152,github/explore,Ruby,62
 26094060,logstash-plugins/logstash-patterns-core,Ruby,38
-200302808,github/view_component,Ruby,125
+200302808,github/view_component,Ruby,126
 29151578,rswag/rswag,Ruby,42
