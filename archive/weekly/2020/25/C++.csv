@@ -1,16 +1,16 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,312
-9384267,electron/electron,C++,247
-23357588,protocolbuffers/protobuf,C++,161
-65600975,pytorch/pytorch,C++,197
+45717250,tensorflow/tensorflow,C++,317
+9384267,electron/electron,C++,251
+23357588,protocolbuffers/protobuf,C++,164
+65600975,pytorch/pytorch,C++,200
 15634981,godotengine/godot,C++,210
-27729880,grpc/grpc,C++,118
-22067521,ocornut/imgui,C++,171
+27729880,grpc/grpc,C++,119
+22067521,ocornut/imgui,C++,168
 11171548,nlohmann/json,C++,238
 108110,mongodb/mongo,C++,49
-39840932,google/googletest,C++,112
-19953044,google/flatbuffers,C++,100
-65711522,PaddlePaddle/Paddle,C++,67
+39840932,google/googletest,C++,113
+19953044,google/flatbuffers,C++,102
+65711522,PaddlePaddle/Paddle,C++,68
 80286288,arendst/Tasmota,C++,86
 102343794,apache/incubator-brpc,C++,42
 18348651,OpenRCT2/OpenRCT2,C++,38
@@ -21,6 +21,6 @@ id,name,lang,new stars
 208728772,milvus-io/milvus,C++,63
 98470332,sebastianstarke/AI4Animation,C++,74
 52882701,prusa3d/PrusaSlicer,C++,31
-11489037,rathena/rathena,C++,21
+11489037,rathena/rathena,C++,22
 127023441,NVIDIA/cuda-samples,C++,15
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,19
