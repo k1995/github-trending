@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,258
-65252,jekyll/jekyll,Ruby,305
+65252,jekyll/jekyll,Ruby,307
 27442967,fastlane/fastlane,Ruby,402
-53238813,Homebrew/brew,Ruby,371
-52281283,tootsuite/mastodon,Ruby,381
+53238813,Homebrew/brew,Ruby,370
+52281283,tootsuite/mastodon,Ruby,380
 481872,hashicorp/vagrant,Ruby,232
-73648678,thepracticaldev/dev.to,Ruby,372
-1090311,elastic/logstash,Ruby,95
+73648678,thepracticaldev/dev.to,Ruby,371
+1090311,elastic/logstash,Ruby,96
 4095287,rubocop-hq/rubocop,Ruby,164
-3314,spree/spree,Ruby,90
+3314,spree/spree,Ruby,91
 3195124,mperham/sidekiq,Ruby,81
 1918677,fluent/fluentd,Ruby,128
 11423758,mame/quine-relay,Ruby,297
@@ -22,5 +22,5 @@ id,name,lang,new stars
 950915,urbanadventurer/WhatWeb,Ruby,76
 103766152,github/explore,Ruby,62
 26094060,logstash-plugins/logstash-patterns-core,Ruby,37
-200302808,github/view_component,Ruby,128
+200302808,github/view_component,Ruby,127
 29151578,rswag/rswag,Ruby,41

@@ -1,26 +1,26 @@
 id,name,lang,new stars
-2126244,twbs/bootstrap,JavaScript,525
+2126244,twbs/bootstrap,JavaScript,527
 3432266,JetBrains/kotlin,Kotlin,136
 27442967,fastlane/fastlane,Ruby,208
 458058,symfony/symfony,PHP,83
 11171548,nlohmann/json,C++,238
-62156403,QSCTech/zju-icicles,C,204
-157616880,iptv-org/iptv,JavaScript,625
+62156403,QSCTech/zju-icicles,C,206
+157616880,iptv-org/iptv,JavaScript,560
 39840932,google/googletest,C++,112
-221981891,microsoft/playwright,JavaScript,400
+221981891,microsoft/playwright,JavaScript,385
 170067246,openai/gpt-2,Python,99
-182644013,foxlet/macOS-Simple-KVM,Python,285
-224284178,NVlabs/stylegan2,Python,259
-148496687,YunaiV/SpringBoot-Labs,Java,629
-266613704,dabeaz-course/practical-python,Python,2293
-120896210,argoproj/argo-cd,Go,129
-264818686,ultralytics/yolov5,Jupyter Notebook,416
+182644013,foxlet/macOS-Simple-KVM,Python,289
+224284178,NVlabs/stylegan2,Python,258
+148496687,YunaiV/SpringBoot-Labs,Java,633
+266613704,dabeaz-course/practical-python,Python,2303
+120896210,argoproj/argo-cd,Go,127
+264818686,ultralytics/yolov5,Jupyter Notebook,398
 52882701,prusa3d/PrusaSlicer,C++,31
-47859258,qiniu/goplus,Go,987
+47859258,qiniu/goplus,Go,1004
 260712390,corona-warn-app/cwa-server,Java,368
 268027139,corona-warn-app/cwa-app-android,Kotlin,652
-268042230,corona-warn-app/cwa-app-ios,Swift,427
-255365829,tobspr/shapez.io,JavaScript,212
-240315046,jina-ai/jina,Python,86
+268042230,corona-warn-app/cwa-app-ios,Swift,429
+255365829,tobspr/shapez.io,JavaScript,215
+240315046,jina-ai/jina,Python,87
 262149353,corona-warn-app/cwa-website,CSS,207
-267702531,googlesamples/mlkit,Java,29
+267702531,googlesamples/mlkit,Java,32
