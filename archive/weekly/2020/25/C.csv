@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,408
-10744183,netdata/netdata,C,137
-156018,antirez/redis,C,137
-1614410,FFmpeg/FFmpeg,C,121
-62156403,QSCTech/zju-icicles,C,203
-7634677,openssl/openssl,C,59
-102578345,coolsnowwolf/lede,C,136
+2325298,torvalds/linux,C,399
+10744183,netdata/netdata,C,135
+156018,antirez/redis,C,136
+1614410,FFmpeg/FFmpeg,C,119
+62156403,QSCTech/zju-icicles,C,202
+7634677,openssl/openssl,C,60
+102578345,coolsnowwolf/lede,C,134
 47409672,hashcat/hashcat,C,240
 3199002,raspberrypi/linux,C,39
 78281075,SpacehuhnTech/esp8266_deauther,C,34
@@ -14,13 +14,13 @@ id,name,lang,new stars
 70127218,espressif/arduino-esp32,C,70
 117948953,Atmosphere-NX/Atmosphere,C,39
 19330466,Cyan4973/xxHash,C,133
-187922067,microsoft/WSL2-Linux-Kernel,C,70
+187922067,microsoft/WSL2-Linux-Kernel,C,71
 59771425,zephyrproject-rtos/zephyr,C,27
 8270972,ARMmbed/mbed-os,C,76
-179354282,acidanthera/OpenCorePkg,C,128
+179354282,acidanthera/OpenCorePkg,C,124
 1660127,neutrinolabs/xrdp,C,179
 108110706,tporadowski/redis,C,41
 255670798,sandboxie/sandboxie,C,66
 254327261,sandboxie-plus/Sandboxie,C,48
 15768646,vedderb/bldc,C,15
-54581275,MicrosoftDocs/WSL,C,15
+54581275,MicrosoftDocs/WSL,C,13

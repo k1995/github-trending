@@ -1,21 +1,21 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,127
-3482588,danielmiessler/SecLists,PHP,154
-458058,symfony/symfony,PHP,81
+1863329,laravel/laravel,PHP,129
+3482588,danielmiessler/SecLists,PHP,155
+458058,symfony/symfony,PHP,83
 7548986,laravel/framework,PHP,60
 2234102,bcit-ci/CodeIgniter,PHP,12
 2889328,WordPress/WordPress,PHP,50
 53783664,easychen/howto-make-more-money,PHP,145
 48796179,z-song/laravel-admin,PHP,32
-2884111,magento/magento2,PHP,36
+2884111,magento/magento2,PHP,37
 42480275,spatie/laravel-permission,PHP,39
-2699935,squizlabs/PHP_CodeSniffer,PHP,18
-7122594,directus/directus,PHP,42
+2699935,squizlabs/PHP_CodeSniffer,PHP,19
+7122594,directus/directus,PHP,39
 14346979,snipe/snipe-it,PHP,21
 10883164,barryvdh/laravel-dompdf,PHP,29
-12204147,mautic/mautic,PHP,20
+12204147,mautic/mautic,PHP,21
 2784293,php-amqplib/php-amqplib,PHP,14
-2918243,interconnectit/Search-Replace-DB,PHP,12
+2918243,interconnectit/Search-Replace-DB,PHP,11
 158374929,beyondcode/laravel-websockets,PHP,47
 29126334,EasyCorp/EasyAdminBundle,PHP,19
 1740040,pfsense/pfsense,PHP,22
@@ -23,4 +23,4 @@ id,name,lang,new stars
 13044600,salesagility/SuiteCRM,PHP,22
 56836583,postaddictme/instagram-php-scraper,PHP,20
 131995661,shopware/platform,PHP,20
-144956786,opensourcewebsite-org/opensourcewebsite-org,PHP,128
+144956786,opensourcewebsite-org/opensourcewebsite-org,PHP,122
