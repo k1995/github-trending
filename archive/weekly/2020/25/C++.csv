@@ -1,11 +1,11 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,307
-23357588,protocolbuffers/protobuf,C++,164
-65600975,pytorch/pytorch,C++,205
-15634981,godotengine/godot,C++,209
-27729880,grpc/grpc,C++,125
-22067521,ocornut/imgui,C++,152
-11171548,nlohmann/json,C++,183
+45717250,tensorflow/tensorflow,C++,300
+23357588,protocolbuffers/protobuf,C++,167
+65600975,pytorch/pytorch,C++,207
+15634981,godotengine/godot,C++,208
+27729880,grpc/grpc,C++,124
+22067521,ocornut/imgui,C++,151
+11171548,nlohmann/json,C++,167
 39840932,google/googletest,C++,108
 19953044,google/flatbuffers,C++,111
 80286288,arendst/Tasmota,C++,96
@@ -17,10 +17,10 @@ id,name,lang,new stars
 104231541,abseil/abseil-cpp,C++,39
 75821432,llvm/llvm-project,C++,104
 108102826,carla-simulator/carla,C++,36
-208728772,milvus-io/milvus,C++,51
+208728772,milvus-io/milvus,C++,50
 3030065,gnuradio/gnuradio,C++,18
 52882701,prusa3d/PrusaSlicer,C++,33
 58414589,oneapi-src/oneDNN,C++,19
-236648333,flightlessmango/MangoHud,C++,357
+236648333,flightlessmango/MangoHud,C++,362
 173272321,bigtreetech/BIGTREETECH-SKR-V1.3,C++,14
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,20
