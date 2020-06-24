@@ -1,6 +1,6 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,7
-458058,symfony/symfony,PHP,26
+458058,symfony/symfony,PHP,25
 7704544,Intervention/image,PHP,5
 7579180,doctrine/lexer,PHP,5
 2884111,magento/magento2,PHP,5
@@ -17,8 +17,8 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,13
 14875475,thephpleague/csv,PHP,7
 79166184,cretueusebiu/laravel-vue-spa,PHP,2
-139191005,nunomaduro/larastan,PHP,9
-69691727,pmmp/PocketMine-MP,PHP,2
+139191005,nunomaduro/larastan,PHP,8
+69691727,pmmp/PocketMine-MP,PHP,3
 1957456,Dolibarr/dolibarr,PHP,15
 39182755,glpi-project/glpi,PHP,3
 29501260,api-platform/core,PHP,2
