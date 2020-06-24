@@ -1,18 +1,18 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,1222
-41912791,v2ray/v2ray-core,Go,1629
-6838921,prometheus/prometheus,Go,625
+41912791,v2ray/v2ray-core,Go,1626
+6838921,prometheus/prometheus,Go,624
 41986369,pingcap/tidb,Go,489
-74175805,istio/istio,Go,470
+74175805,istio/istio,Go,472
 17728164,hashicorp/terraform,Go,538
 14125254,hashicorp/consul,Go,354
-31288958,hashicorp/vault,Go,496
+31288958,hashicorp/vault,Go,497
 26337322,rancher/rancher,Go,250
-53632140,zyedidia/micro,Go,1149
-115857954,chai2010/advanced-go-programming-book,Go,418
+53632140,zyedidia/micro,Go,1150
+115857954,chai2010/advanced-go-programming-book,Go,419
 27729907,grpc/grpc-go,Go,285
-120227732,fyne-io/fyne,Go,451
-212613049,cli/cli,Go,1299
+120227732,fyne-io/fyne,Go,452
+212613049,cli/cli,Go,1304
 129717717,grafana/loki,Go,343
 167596393,derailed/k9s,Go,1091
 18950460,concourse/concourse,Go,116
@@ -20,7 +20,7 @@ id,name,lang,new stars
 54539060,allegro/bigcache,Go,154
 14128006,hashicorp/raft,Go,124
 95761244,gogf/gf,Go,323
-120896210,argoproj/argo-cd,Go,305
-250927119,shomali11/go-interview,Go,1325
+120896210,argoproj/argo-cd,Go,304
+250927119,shomali11/go-interview,Go,1326
 19608522,googleapis/google-cloud-go,Go,132
-193681111,filecoin-project/lotus,Go,48
+193681111,filecoin-project/lotus,Go,49
