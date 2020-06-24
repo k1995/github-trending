@@ -1,7 +1,7 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,37
+20580498,kubernetes/kubernetes,Go,38
 20904437,gin-gonic/gin,Go,36
-17728164,hashicorp/terraform,Go,13
+17728164,hashicorp/terraform,Go,12
 13124802,influxdata/influxdb,Go,4
 26337322,rancher/rancher,Go,10
 46806184,helm/charts,Go,13
@@ -13,11 +13,11 @@ id,name,lang,new stars
 158645957,OpenDiablo2/OpenDiablo2,Go,205
 118105436,golang-migrate/migrate,Go,10
 33452903,RichardKnop/machinery,Go,5
-41288708,sourcegraph/sourcegraph,Go,9
+41288708,sourcegraph/sourcegraph,Go,8
 87990209,kubernetes/autoscaler,Go,9
 206690330,eth0izzle/shhgit,Go,6
 7823926,prometheus/client_golang,Go,4
-71133469,reviewdog/reviewdog,Go,17
+71133469,reviewdog/reviewdog,Go,16
 94831761,hyperledger/fabric-samples,Go,5
 173785481,liamg/tfsec,Go,12
 93446075,terraform-providers/terraform-provider-google,Go,5
