@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,60
+2325298,torvalds/linux,C,55
 36502,git/git,C,13
 1903522,php/php-src,C,17
 3774328,wg/wrk,C,156
-569041,curl/curl,C,8
+569041,curl/curl,C,10
 908607,numpy/numpy,C,12
-11715753,robertdavidgraham/masscan,C,8
+11715753,robertdavidgraham/masscan,C,6
 95133665,s-matyukevich/raspberry-pi-os,C,169
 69269563,go-vgo/robotgo,C,21
-246335987,ventoy/Ventoy,C,81
+246335987,ventoy/Ventoy,C,73
 18106269,lz4/lz4,C,4
 70127218,espressif/arduino-esp32,C,4
 190845267,n64decomp/sm64,C,4
@@ -16,11 +16,11 @@ id,name,lang,new stars
 31791482,microsoft/Windows-driver-samples,C,3
 5390156,fontforge/fontforge,C,5
 179354282,acidanthera/OpenCorePkg,C,31
-33031885,hfiref0x/UACME,C,3
-68063511,tsl0922/ttyd,C,3
+33031885,hfiref0x/UACME,C,2
+68063511,tsl0922/ttyd,C,2
 59213200,flatpak/flatpak,C,12
-205810121,CloverHackyColor/CloverBootloader,C,9
+205810121,CloverHackyColor/CloverBootloader,C,8
 130897005,WhatsApp/stickers,C,2
 44688186,F5OEO/rpitx,C,8
-241659610,zxystd/itlwm,C,26
+241659610,zxystd/itlwm,C,24
 38373338,nexB/scancode-toolkit,C,4
