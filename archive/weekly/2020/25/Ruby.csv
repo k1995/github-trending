@@ -1,7 +1,7 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,74
 7569578,discourse/discourse,Ruby,63
-27442967,fastlane/fastlane,Ruby,226
+27442967,fastlane/fastlane,Ruby,225
 53238813,Homebrew/brew,Ruby,101
 52281283,tootsuite/mastodon,Ruby,47
 308770,heartcombo/devise,Ruby,23
@@ -15,10 +15,10 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,15
 451035,heartcombo/simple_form,Ruby,7
 108278,chef/chef,Ruby,10
-119760423,Netflix/fast_jsonapi,Ruby,10
+119760423,Netflix/fast_jsonapi,Ruby,11
 30337170,rmosolgo/graphql-ruby,Ruby,10
-202291859,chatwoot/chatwoot,Ruby,35
-2185269,busyloop/lolcat,Ruby,29
+202291859,chatwoot/chatwoot,Ruby,36
+2185269,busyloop/lolcat,Ruby,30
 30985840,solidusio/solidus,Ruby,24
 17204381,ankane/ahoy,Ruby,14
 39706711,hartator/wayback-machine-downloader,Ruby,22

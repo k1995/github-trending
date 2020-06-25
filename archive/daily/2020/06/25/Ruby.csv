@@ -7,7 +7,7 @@ id,name,lang,new stars
 3314,spree/spree,Ruby,6
 361310,teamcapybara/capybara,Ruby,3
 1333863,kaminari/kaminari,Ruby,1
-451035,heartcombo/simple_form,Ruby,4
+451035,heartcombo/simple_form,Ruby,5
 6529205,varvet/pundit,Ruby,3
 21829,thoughtbot/factory_bot,Ruby,3
 910744,puppetlabs/puppet,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,2
 65914086,decidim/decidim,Ruby,1
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,2
-70830890,bigbluebutton/greenlight,Ruby,0
+70830890,bigbluebutton/greenlight,Ruby,1
 272141550,MeetYouDevs/cocoapods-imy-bin,Ruby,3
