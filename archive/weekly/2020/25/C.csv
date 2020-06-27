@@ -1,11 +1,11 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,124
-3774328,wg/wrk,C,342
-62156403,QSCTech/zju-icicles,C,140
+10744183,netdata/netdata,C,125
+3774328,wg/wrk,C,344
+62156403,QSCTech/zju-icicles,C,136
 32969220,esp8266/Arduino,C,41
 2810292,pbatard/rufus,C,88
 102578345,coolsnowwolf/lede,C,106
-95133665,s-matyukevich/raspberry-pi-os,C,619
+95133665,s-matyukevich/raspberry-pi-os,C,627
 78281075,SpacehuhnTech/esp8266_deauther,C,34
 100781035,webview/webview,C,62
 90320494,ish-app/ish,C,45
@@ -16,11 +16,11 @@ id,name,lang,new stars
 35780977,ImageMagick/ImageMagick,C,27
 31791482,microsoft/Windows-driver-samples,C,13
 8270972,ARMmbed/mbed-os,C,23
-179354282,acidanthera/OpenCorePkg,C,184
+179354282,acidanthera/OpenCorePkg,C,185
 59676171,KevinOConnor/klipper,C,15
-205810121,CloverHackyColor/CloverBootloader,C,62
+205810121,CloverHackyColor/CloverBootloader,C,65
 76599439,FRRouting/frr,C,11
-255670798,sandboxie/sandboxie,C,84
-241659610,zxystd/itlwm,C,108
-254327261,sandboxie-plus/Sandboxie,C,39
-197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,8
+255670798,sandboxie/sandboxie,C,86
+241659610,zxystd/itlwm,C,109
+254327261,sandboxie-plus/Sandboxie,C,38
+197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,9
