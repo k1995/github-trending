@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,80
+8514,rails/rails,Ruby,74
 7569578,discourse/discourse,Ruby,58
 27442967,fastlane/fastlane,Ruby,220
-53238813,Homebrew/brew,Ruby,175
+53238813,Homebrew/brew,Ruby,178
 308770,heartcombo/devise,Ruby,25
-2293158,rapid7/metasploit-framework,Ruby,78
+2293158,rapid7/metasploit-framework,Ruby,80
 538746,ruby/ruby,Ruby,49
-138312,capistrano/capistrano,Ruby,14
-1090311,elastic/logstash,Ruby,24
+138312,capistrano/capistrano,Ruby,15
+1090311,elastic/logstash,Ruby,25
 106995,sinatra/sinatra,Ruby,18
 3314,spree/spree,Ruby,35
 1918677,fluent/fluentd,Ruby,17
@@ -15,8 +15,8 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,16
 15435,Shopify/liquid,Ruby,23
 451035,heartcombo/simple_form,Ruby,8
-6529205,varvet/pundit,Ruby,12
-21829,thoughtbot/factory_bot,Ruby,23
+6529205,varvet/pundit,Ruby,15
+21829,thoughtbot/factory_bot,Ruby,24
 119760423,Netflix/fast_jsonapi,Ruby,12
 839336,colszowka/simplecov,Ruby,9
 30985840,solidusio/solidus,Ruby,28
