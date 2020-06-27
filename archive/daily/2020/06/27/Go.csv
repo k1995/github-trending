@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,35
+7691631,moby/moby,Go,7
+17728164,hashicorp/terraform,Go,14
+31288958,hashicorp/vault,Go,8
+46806184,helm/charts,Go,10
+27729907,grpc/grpc-go,Go,10
+6247705,stretchr/testify,Go,4
+11008207,vitessio/vitess,Go,20
+61137153,evanw/esbuild,Go,81
+118654121,GoogleContainerTools/skaffold,Go,4
+44344606,go-chi/chi,Go,11
+158645957,OpenDiablo2/OpenDiablo2,Go,160
+27576132,aws/aws-sdk-go,Go,3
+30711774,go-playground/validator,Go,1
+93444615,terraform-providers/terraform-provider-aws,Go,16
+53174289,gruntwork-io/terratest,Go,5
+26661222,tinode/chat,Go,7
+14179252,kelseyhightower/envconfig,Go,5
+9120526,jackc/pgx,Go,3
+36699285,linkedin/Burrow,Go,3
+134539560,weaveworks/eksctl,Go,2
+19608522,googleapis/google-cloud-go,Go,1
+43982667,hpcng/singularity,Go,2
+206320938,google/differential-privacy,Go,5
+274135349,felixge/fgprof,Go,221
