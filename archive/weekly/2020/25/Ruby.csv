@@ -1,7 +1,8 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,74
+7569578,discourse/discourse,Ruby,58
 27442967,fastlane/fastlane,Ruby,218
-53238813,Homebrew/brew,Ruby,172
+53238813,Homebrew/brew,Ruby,174
 308770,heartcombo/devise,Ruby,26
 2293158,rapid7/metasploit-framework,Ruby,74
 538746,ruby/ruby,Ruby,48
@@ -9,18 +10,17 @@ id,name,lang,new stars
 1090311,elastic/logstash,Ruby,24
 106995,sinatra/sinatra,Ruby,16
 3314,spree/spree,Ruby,32
-361310,teamcapybara/capybara,Ruby,10
+1918677,fluent/fluentd,Ruby,17
 611921,activeadmin/activeadmin,Ruby,8
 96395,faker-ruby/faker,Ruby,16
 15435,Shopify/liquid,Ruby,20
-451035,heartcombo/simple_form,Ruby,9
+451035,heartcombo/simple_form,Ruby,8
 6529205,varvet/pundit,Ruby,12
-21829,thoughtbot/factory_bot,Ruby,22
-119760423,Netflix/fast_jsonapi,Ruby,10
-202291859,chatwoot/chatwoot,Ruby,35
-6899875,opf/openproject,Ruby,21
+21829,thoughtbot/factory_bot,Ruby,23
+119760423,Netflix/fast_jsonapi,Ruby,12
+839336,colszowka/simplecov,Ruby,9
 30985840,solidusio/solidus,Ruby,26
+39706711,hartator/wayback-machine-downloader,Ruby,24
 35051828,dev-sec/ansible-os-hardening,Ruby,8
-34840276,elastic/ansible-elasticsearch,Ruby,8
-200302808,github/view_component,Ruby,40
-159232111,cmer/gigabyte-z390-aorus-master-hackintosh,Ruby,8
+200302808,github/view_component,Ruby,41
+29151578,rswag/rswag,Ruby,11
