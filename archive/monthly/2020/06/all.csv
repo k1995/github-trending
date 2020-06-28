@@ -1,26 +1,26 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1220
-103633984,goldbergyoni/nodebestpractices,JavaScript,2918
-41912791,v2ray/v2ray-core,Go,1605
+20580498,kubernetes/kubernetes,Go,1222
+103633984,goldbergyoni/nodebestpractices,JavaScript,2926
+41912791,v2ray/v2ray-core,Go,1611
 2700474,alibaba/fastjson,Java,528
-11171548,nlohmann/json,C++,736
-1431547,encode/django-rest-framework,Python,659
-136026789,iperov/DeepFaceLab,Python,2579
-74660642,taichi-dev/taichi,C++,608
-159194100,fengdu78/lihang-code,Jupyter Notebook,1092
-145670234,open-mmlab/mmdetection,Python,790
+11171548,nlohmann/json,C++,737
+1431547,encode/django-rest-framework,Python,662
+136026789,iperov/DeepFaceLab,Python,2583
+74660642,taichi-dev/taichi,C++,609
+159194100,fengdu78/lihang-code,Jupyter Notebook,1096
+145670234,open-mmlab/mmdetection,Python,793
 45680749,kholia/OSX-KVM,Shell,846
-959908,OpenRA/OpenRA,C#,659
-167596393,derailed/k9s,Go,1107
-236750354,bradtraversy/vanillawebprojects,JavaScript,1744
-182644013,foxlet/macOS-Simple-KVM,Python,782
-196813750,Light-City/CPlusPlusThings,C++,3196
-267176885,facebookresearch/detr,Python,3866
+959908,OpenRA/OpenRA,C#,660
+167596393,derailed/k9s,Go,1108
+236750354,bradtraversy/vanillawebprojects,JavaScript,1745
+182644013,foxlet/macOS-Simple-KVM,Python,787
+196813750,Light-City/CPlusPlusThings,C++,3202
+267176885,facebookresearch/detr,Python,3869
 263453057,corona-warn-app/cwa-documentation,TeX,1407
-153866232,TheCherno/Hazel,C++,420
-179354282,acidanthera/OpenCorePkg,C,663
-249342059,chuzhixin/vue-admin-beautiful,Vue,1461
+153866232,TheCherno/Hazel,C++,421
+179354282,acidanthera/OpenCorePkg,C,671
+249342059,chuzhixin/vue-admin-beautiful,Vue,1468
 263993730,mertJF/tailblocks,JavaScript,2497
-250927119,shomali11/go-interview,Go,1319
+250927119,shomali11/go-interview,Go,1320
 260712390,corona-warn-app/cwa-server,Java,840
 263641191,corona-warn-app/cwa-verification-server,Java,232
