@@ -1,12 +1,12 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1438
+45717250,tensorflow/tensorflow,C++,1442
 9384267,electron/electron,C++,956
-5108051,opencv/opencv,C++,960
-23357588,protocolbuffers/protobuf,C++,701
-15634981,godotengine/godot,C++,930
-11171548,nlohmann/json,C++,735
+5108051,opencv/opencv,C++,963
+23357588,protocolbuffers/protobuf,C++,703
+15634981,godotengine/godot,C++,931
+11171548,nlohmann/json,C++,736
 19953044,google/flatbuffers,C++,267
-74660642,taichi-dev/taichi,C++,607
+74660642,taichi-dev/taichi,C++,608
 60246359,ClickHouse/ClickHouse,C++,354
 102343794,apache/incubator-brpc,C++,143
 26038648,gabime/spdlog,C++,283
@@ -18,8 +18,8 @@ id,name,lang,new stars
 48068902,electronicarts/EASTL,C++,203
 130068982,taskflow/taskflow,C++,178
 153866232,TheCherno/Hazel,C++,420
-5909706,yhirose/cpp-httplib,C++,229
-156939672,microsoft/onnxruntime,C++,199
+5909706,yhirose/cpp-httplib,C++,230
+156939672,microsoft/onnxruntime,C++,200
 52882701,prusa3d/PrusaSlicer,C++,105
 76990209,Aircoookie/WLED,C++,191
 119961591,linyacool/WebServer,C++,158
