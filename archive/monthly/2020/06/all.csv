@@ -1,26 +1,26 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1229
-103633984,goldbergyoni/nodebestpractices,JavaScript,2931
-41912791,v2ray/v2ray-core,Go,1618
-2700474,alibaba/fastjson,Java,533
-11171548,nlohmann/json,C++,740
+20580498,kubernetes/kubernetes,Go,1236
+103633984,goldbergyoni/nodebestpractices,JavaScript,2936
+41912791,v2ray/v2ray-core,Go,1623
+2700474,alibaba/fastjson,Java,542
+11171548,nlohmann/json,C++,743
 1431547,encode/django-rest-framework,Python,662
-136026789,iperov/DeepFaceLab,Python,2587
-74660642,taichi-dev/taichi,C++,610
-159194100,fengdu78/lihang-code,Jupyter Notebook,1104
-145670234,open-mmlab/mmdetection,Python,797
-45680749,kholia/OSX-KVM,Shell,846
+136026789,iperov/DeepFaceLab,Python,2591
+170067246,openai/gpt-2,Python,383
+74660642,taichi-dev/taichi,C++,611
+159194100,fengdu78/lihang-code,Jupyter Notebook,1115
+145670234,open-mmlab/mmdetection,Python,800
+45680749,kholia/OSX-KVM,Shell,849
 959908,OpenRA/OpenRA,C#,661
-167596393,derailed/k9s,Go,1109
-236750354,bradtraversy/vanillawebprojects,JavaScript,1749
-182644013,foxlet/macOS-Simple-KVM,Python,789
-196813750,Light-City/CPlusPlusThings,C++,3208
-267176885,facebookresearch/detr,Python,3875
+95133665,s-matyukevich/raspberry-pi-os,C,739
+167596393,derailed/k9s,Go,1111
+236750354,bradtraversy/vanillawebprojects,JavaScript,1751
+182644013,foxlet/macOS-Simple-KVM,Python,795
+181012406,macrozheng/mall-learning,Java,492
+196813750,Light-City/CPlusPlusThings,C++,3218
+267176885,facebookresearch/detr,Python,3878
 263453057,corona-warn-app/cwa-documentation,TeX,1407
-153866232,TheCherno/Hazel,C++,423
-179354282,acidanthera/OpenCorePkg,C,677
-249342059,chuzhixin/vue-admin-beautiful,Vue,1479
-263993730,mertJF/tailblocks,JavaScript,2497
-250927119,shomali11/go-interview,Go,1327
-260712390,corona-warn-app/cwa-server,Java,840
+179354282,acidanthera/OpenCorePkg,C,681
+249342059,chuzhixin/vue-admin-beautiful,Vue,1492
+260712390,corona-warn-app/cwa-server,Java,841
 263641191,corona-warn-app/cwa-verification-server,Java,232
