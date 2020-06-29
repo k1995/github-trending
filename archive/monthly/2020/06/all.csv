@@ -1,26 +1,26 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1148
+20580498,kubernetes/kubernetes,Go,1156
 1903522,php/php-src,C,369
-2700474,alibaba/fastjson,Java,507
-11171548,nlohmann/json,C++,681
-136026789,iperov/DeepFaceLab,Python,2547
-170067246,openai/gpt-2,Python,366
-74660642,taichi-dev/taichi,C++,609
-159194100,fengdu78/lihang-code,Jupyter Notebook,1131
-145670234,open-mmlab/mmdetection,Python,784
-45680749,kholia/OSX-KVM,Shell,838
+2700474,alibaba/fastjson,Java,506
+11171548,nlohmann/json,C++,682
+136026789,iperov/DeepFaceLab,Python,2551
+170067246,openai/gpt-2,Python,367
+74660642,taichi-dev/taichi,C++,611
+159194100,fengdu78/lihang-code,Jupyter Notebook,1135
+145670234,open-mmlab/mmdetection,Python,786
+45680749,kholia/OSX-KVM,Shell,841
 959908,OpenRA/OpenRA,C#,662
-95133665,s-matyukevich/raspberry-pi-os,C,757
-236750354,bradtraversy/vanillawebprojects,JavaScript,1817
-182644013,foxlet/macOS-Simple-KVM,Python,795
-181012406,macrozheng/mall-learning,Java,502
-196813750,Light-City/CPlusPlusThings,C++,3083
-266613704,dabeaz-course/practical-python,Python,4586
-98103322,zhoutaoo/SpringCloud,Java,407
-267176885,facebookresearch/detr,Python,2006
-263453057,corona-warn-app/cwa-documentation,TeX,1360
-179354282,acidanthera/OpenCorePkg,C,684
-249342059,chuzhixin/vue-admin-beautiful,Vue,1431
-268027139,corona-warn-app/cwa-app-android,Kotlin,1521
+95133665,s-matyukevich/raspberry-pi-os,C,763
+236750354,bradtraversy/vanillawebprojects,JavaScript,1822
+182644013,foxlet/macOS-Simple-KVM,Python,797
+181012406,macrozheng/mall-learning,Java,505
+196813750,Light-City/CPlusPlusThings,C++,3076
+266613704,dabeaz-course/practical-python,Python,4592
+98103322,zhoutaoo/SpringCloud,Java,409
+267176885,facebookresearch/detr,Python,1980
+263453057,corona-warn-app/cwa-documentation,TeX,1359
+179354282,acidanthera/OpenCorePkg,C,690
+249342059,chuzhixin/vue-admin-beautiful,Vue,1435
+268027139,corona-warn-app/cwa-app-android,Kotlin,1522
 260712390,corona-warn-app/cwa-server,Java,741
 263641191,corona-warn-app/cwa-verification-server,Java,185
