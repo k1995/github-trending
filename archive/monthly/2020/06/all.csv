@@ -1,26 +1,26 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1251
-103633984,goldbergyoni/nodebestpractices,JavaScript,2951
+20580498,kubernetes/kubernetes,Go,1255
+103633984,goldbergyoni/nodebestpractices,JavaScript,2954
 41912791,v2ray/v2ray-core,Go,1636
 2700474,alibaba/fastjson,Java,546
-11171548,nlohmann/json,C++,747
-1431547,encode/django-rest-framework,Python,668
-136026789,iperov/DeepFaceLab,Python,2604
+11171548,nlohmann/json,C++,748
+1431547,encode/django-rest-framework,Python,669
+136026789,iperov/DeepFaceLab,Python,2606
 170067246,openai/gpt-2,Python,386
-74660642,taichi-dev/taichi,C++,614
-159194100,fengdu78/lihang-code,Jupyter Notebook,1123
-145670234,open-mmlab/mmdetection,Python,805
+74660642,taichi-dev/taichi,C++,616
+159194100,fengdu78/lihang-code,Jupyter Notebook,1124
+145670234,open-mmlab/mmdetection,Python,807
 45680749,kholia/OSX-KVM,Shell,852
-959908,OpenRA/OpenRA,C#,662
-95133665,s-matyukevich/raspberry-pi-os,C,748
-167596393,derailed/k9s,Go,1116
-236750354,bradtraversy/vanillawebprojects,JavaScript,1761
-182644013,foxlet/macOS-Simple-KVM,Python,801
+959908,OpenRA/OpenRA,C#,663
+95133665,s-matyukevich/raspberry-pi-os,C,749
+167596393,derailed/k9s,Go,1118
+236750354,bradtraversy/vanillawebprojects,JavaScript,1763
+182644013,foxlet/macOS-Simple-KVM,Python,802
 181012406,macrozheng/mall-learning,Java,497
-196813750,Light-City/CPlusPlusThings,C++,3233
-267176885,facebookresearch/detr,Python,3892
+196813750,Light-City/CPlusPlusThings,C++,3236
+267176885,facebookresearch/detr,Python,3895
 263453057,corona-warn-app/cwa-documentation,TeX,1412
-179354282,acidanthera/OpenCorePkg,C,697
+179354282,acidanthera/OpenCorePkg,C,698
 249342059,chuzhixin/vue-admin-beautiful,Vue,1518
 260712390,corona-warn-app/cwa-server,Java,843
-263641191,corona-warn-app/cwa-verification-server,Java,233
+263641191,corona-warn-app/cwa-verification-server,Java,234
