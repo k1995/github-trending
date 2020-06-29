@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,16
-7569578,discourse/discourse,Ruby,14
-13840241,freeCodeCamp/devdocs,Ruby,9
-53238813,Homebrew/brew,Ruby,21
+8514,rails/rails,Ruby,18
+7569578,discourse/discourse,Ruby,18
+13840241,freeCodeCamp/devdocs,Ruby,10
+53238813,Homebrew/brew,Ruby,23
 52281283,tootsuite/mastodon,Ruby,6
-2293158,rapid7/metasploit-framework,Ruby,11
-3623050,Homebrew/homebrew-cask,Ruby,9
+2293158,rapid7/metasploit-framework,Ruby,13
+3623050,Homebrew/homebrew-cask,Ruby,10
 1918677,fluent/fluentd,Ruby,5
 611921,activeadmin/activeadmin,Ruby,1
-1725199,github/linguist,Ruby,1
+1725199,github/linguist,Ruby,2
 865250,presidentbeef/brakeman,Ruby,3
 202291859,chatwoot/chatwoot,Ruby,4
 38867,svenfuchs/rails-i18n,Ruby,1
@@ -16,7 +16,7 @@ id,name,lang,new stars
 69813387,iberianpig/fusuma,Ruby,6
 85402340,castwide/solargraph,Ruby,1
 8154497,rubysec/ruby-advisory-db,Ruby,0
-228384638,lewagon/rails-k8s-demo,Ruby,34
+228384638,lewagon/rails-k8s-demo,Ruby,37
 202112909,pupilfirst/pupilfirst,Ruby,1
 54076950,microsoft/Docker-Provider,Ruby,0
 45213482,learn-co-students/debugging-with-pry-v-000,Ruby,0
