@@ -1,6 +1,6 @@
 id,name,lang,new stars
 12888993,home-assistant/core,Python,41
-155220641,huggingface/transformers,Python,130
+155220641,huggingface/transformers,Python,76
 33884891,apache/airflow,Python,21
 33702544,plotly/dash,Python,13
 253601257,alievk/avatarify,Python,174
@@ -18,7 +18,7 @@ id,name,lang,new stars
 166213444,danielegrattarola/spektral,Python,114
 252131233,zhzyker/exphub,Python,28
 156401841,alan-turing-institute/sktime,Python,98
-144605189,garrettj403/SciencePlots,Python,241
+144605189,garrettj403/SciencePlots,Python,252
 258479275,hunglc007/tensorflow-yolov4-tflite,Python,12
 215173055,QData/TextAttack,Python,75
 249107601,TensorSpeech/TensorflowTTS,Python,40
