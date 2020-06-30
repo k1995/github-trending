@@ -1,18 +1,18 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,1168
-41912791,v2ray/v2ray-core,Go,1561
-14712850,syncthing/syncthing,Go,729
-41986369,pingcap/tidb,Go,459
+41912791,v2ray/v2ray-core,Go,1562
+14712850,syncthing/syncthing,Go,734
+41986369,pingcap/tidb,Go,460
 74175805,istio/istio,Go,448
-17728164,hashicorp/terraform,Go,509
-14125254,hashicorp/consul,Go,328
+17728164,hashicorp/terraform,Go,511
+14125254,hashicorp/consul,Go,329
 26337322,rancher/rancher,Go,234
 27729907,grpc/grpc-go,Go,307
-212613049,cli/cli,Go,1118
+212613049,cli/cli,Go,1119
 120227732,fyne-io/fyne,Go,430
 167596393,derailed/k9s,Go,1077
 36653430,hashicorp/nomad,Go,254
-167304464,cortexlabs/cortex,Go,623
+167304464,cortexlabs/cortex,Go,625
 18950460,concourse/concourse,Go,117
 93444615,terraform-providers/terraform-provider-aws,Go,186
 180687624,aquasecurity/trivy,Go,263
@@ -22,5 +22,5 @@ id,name,lang,new stars
 184490584,GoogleCloudPlatform/terraformer,Go,154
 19608522,googleapis/google-cloud-go,Go,132
 248025303,p4gefau1t/trojan-go,Go,666
-185861173,open-telemetry/opentelemetry-collector,Go,65
+185861173,open-telemetry/opentelemetry-collector,Go,66
 193681111,filecoin-project/lotus,Go,54

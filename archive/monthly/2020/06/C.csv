@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1790
+2325298,torvalds/linux,C,1792
+111583593,Genymobile/scrcpy,C,2111
 36502,git/git,C,503
-111583593,Genymobile/scrcpy,C,2106
 1903522,php/php-src,C,375
 3774328,wg/wrk,C,708
-1614410,FFmpeg/FFmpeg,C,479
+1614410,FFmpeg/FFmpeg,C,480
 7634677,openssl/openssl,C,247
 95133665,s-matyukevich/raspberry-pi-os,C,768
 3199002,raspberrypi/linux,C,127
@@ -12,7 +12,7 @@ id,name,lang,new stars
 246335987,ventoy/Ventoy,C,2291
 70127218,espressif/arduino-esp32,C,175
 187922067,microsoft/WSL2-Linux-Kernel,C,237
-60667730,lvgl/lvgl,C,251
+60667730,lvgl/lvgl,C,252
 59771425,zephyrproject-rtos/zephyr,C,124
 8270972,ARMmbed/mbed-os,C,127
 179354282,acidanthera/OpenCorePkg,C,692
@@ -21,6 +21,6 @@ id,name,lang,new stars
 108110706,tporadowski/redis,C,172
 241659610,zxystd/itlwm,C,401
 54581275,MicrosoftDocs/WSL,C,61
-213916896,blender/blender,C,158
+213916896,blender/blender,C,159
 263076869,azure-rtos/threadx,C,227
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,37

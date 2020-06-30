@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,609
-3482588,danielmiessler/SecLists,PHP,673
+1863329,laravel/laravel,PHP,610
+3482588,danielmiessler/SecLists,PHP,676
 2579314,fzaninotto/Faker,PHP,202
 458058,symfony/symfony,PHP,315
 7548986,laravel/framework,PHP,229
@@ -11,7 +11,7 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,169
 61490598,PHPOffice/PhpSpreadsheet,PHP,174
 6660366,dompdf/dompdf,PHP,99
-170355508,livewire/livewire,PHP,815
+170355508,livewire/livewire,PHP,818
 86350964,the-benchmarker/web-frameworks,PHP,173
 74386167,vimeo/psalm,PHP,145
 158374929,beyondcode/laravel-websockets,PHP,124
@@ -23,4 +23,4 @@ id,name,lang,new stars
 13044600,salesagility/SuiteCRM,PHP,71
 1934695,xdebug/xdebug,PHP,49
 69691727,pmmp/PocketMine-MP,PHP,73
-246674913,pestphp/pest,PHP,401
+246674913,pestphp/pest,PHP,402
