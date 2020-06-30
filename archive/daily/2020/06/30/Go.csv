@@ -1,8 +1,8 @@
 id,name,lang,new stars
 11180687,gohugoio/hugo,Go,41
-20904437,gin-gonic/gin,Go,72
+20904437,gin-gonic/gin,Go,65
 48378947,fatedier/frp,Go,42
-41912791,v2ray/v2ray-core,Go,40
+41912791,v2ray/v2ray-core,Go,41
 6838921,prometheus/prometheus,Go,27
 15452919,ethereum/go-ethereum,Go,17
 8989842,unknwon/the-way-to-go_ZH_CN,Go,20
@@ -10,14 +10,14 @@ id,name,lang,new stars
 21827146,chrislusf/seaweedfs,Go,16
 40453691,GoesToEleven/GolangTraining,Go,5
 28366058,docker/distribution,Go,4
-272035489,greyireland/algorithm-pattern,Go,373
+272035489,greyireland/algorithm-pattern,Go,413
 79921099,chromedp/chromedp,Go,27
 187403699,FiloSottile/age,Go,30
 26661222,tinode/chat,Go,15
 136770331,statping/statping,Go,31
 121746465,eddycjy/go-gin-example,Go,13
 38029983,go-telegram-bot-api/telegram-bot-api,Go,9
-72362833,AlecAivazis/survey,Go,15
+72362833,AlecAivazis/survey,Go,14
 113219518,filecoin-project/go-filecoin,Go,4
 247032621,wenjianzhang/go-admin,Go,12
 75785240,authelia/authelia,Go,22

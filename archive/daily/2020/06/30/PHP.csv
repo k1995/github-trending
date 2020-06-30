@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,36
-3482588,danielmiessler/SecLists,PHP,34
+3482588,danielmiessler/SecLists,PHP,33
 23680678,tymondesigns/jwt-auth,PHP,7
 11467667,typecho/typecho,PHP,4
 86350964,the-benchmarker/web-frameworks,PHP,16
@@ -20,7 +20,7 @@ id,name,lang,new stars
 233871060,christophrumpel/laravel-factories-reloaded,PHP,29
 40141239,NamelessMC/Nameless,PHP,0
 223535535,Ignitetch/AdvPhishing,PHP,2
-134192392,nunomaduro/skeleton-php,PHP,36
+134192392,nunomaduro/skeleton-php,PHP,37
 237113840,ash-jc-allen/laravel-executor,PHP,36
 259464007,gurgentil/laravel-eloquent-sequencer,PHP,22
 274800226,hngi/Fund-My-Laptop-BE,PHP,2

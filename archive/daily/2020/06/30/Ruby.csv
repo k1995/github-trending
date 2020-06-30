@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,24
-7569578,discourse/discourse,Ruby,24
-13840241,freeCodeCamp/devdocs,Ruby,11
-53238813,Homebrew/brew,Ruby,25
+8514,rails/rails,Ruby,25
+7569578,discourse/discourse,Ruby,25
+13840241,freeCodeCamp/devdocs,Ruby,12
+53238813,Homebrew/brew,Ruby,26
 52281283,tootsuite/mastodon,Ruby,7
 2293158,rapid7/metasploit-framework,Ruby,16
 3623050,Homebrew/homebrew-cask,Ruby,12
-1918677,fluent/fluentd,Ruby,5
+1918677,fluent/fluentd,Ruby,7
 611921,activeadmin/activeadmin,Ruby,2
 1725199,github/linguist,Ruby,2
 865250,presidentbeef/brakeman,Ruby,3
@@ -14,7 +14,7 @@ id,name,lang,new stars
 38867,svenfuchs/rails-i18n,Ruby,1
 11426474,github/choosealicense.com,Ruby,3
 69813387,iberianpig/fusuma,Ruby,6
-85402340,castwide/solargraph,Ruby,1
+85402340,castwide/solargraph,Ruby,2
 8154497,rubysec/ruby-advisory-db,Ruby,1
 228384638,lewagon/rails-k8s-demo,Ruby,42
 202112909,pupilfirst/pupilfirst,Ruby,2

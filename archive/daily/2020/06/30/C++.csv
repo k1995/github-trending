@@ -1,15 +1,15 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,67
 5108051,opencv/opencv,C++,56
-15634981,godotengine/godot,C++,69
+15634981,godotengine/godot,C++,70
 12791642,BVLC/caffe,C++,15
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,14
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,15
 6934395,facebook/rocksdb,C++,10
 96246170,ApolloAuto/apollo,C++,11
 5133949,swoole/swoole-src,C++,4
 25449064,haoel/leetcode,C++,10
 31522041,vnpy/vnpy,C++,75
-59480719,CRYTEK/CRYENGINE,C++,145
+59480719,CRYTEK/CRYENGINE,C++,154
 126412363,simdjson/simdjson,C++,18
 34777562,ossrs/srs,C++,16
 310611,apache/thrift,C++,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 53357782,acidanthera/AppleALC,C++,8
 98471367,acidanthera/WhateverGreen,C++,5
 161214378,microsoft/Azure-Kinect-Sensor-SDK,C++,3
-250037047,TianZerL/Anime4KCPP,C++,23
+250037047,TianZerL/Anime4KCPP,C++,24

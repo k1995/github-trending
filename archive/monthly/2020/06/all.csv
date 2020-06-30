@@ -1,26 +1,26 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1175
+20580498,kubernetes/kubernetes,Go,1182
 1903522,php/php-src,C,375
-2700474,alibaba/fastjson,Java,512
-11171548,nlohmann/json,C++,690
-136026789,iperov/DeepFaceLab,Python,2563
-170067246,openai/gpt-2,Python,369
-74660642,taichi-dev/taichi,C++,613
-159194100,fengdu78/lihang-code,Jupyter Notebook,1143
-145670234,open-mmlab/mmdetection,Python,794
-45680749,kholia/OSX-KVM,Shell,844
-959908,OpenRA/OpenRA,C#,668
-95133665,s-matyukevich/raspberry-pi-os,C,771
-236750354,bradtraversy/vanillawebprojects,JavaScript,1828
-182644013,foxlet/macOS-Simple-KVM,Python,801
-181012406,macrozheng/mall-learning,Java,511
-196813750,Light-City/CPlusPlusThings,C++,3087
-266613704,dabeaz-course/practical-python,Python,4615
-98103322,zhoutaoo/SpringCloud,Java,413
+2700474,alibaba/fastjson,Java,517
+11171548,nlohmann/json,C++,691
+136026789,iperov/DeepFaceLab,Python,2567
+170067246,openai/gpt-2,Python,372
+74660642,taichi-dev/taichi,C++,614
+159194100,fengdu78/lihang-code,Jupyter Notebook,1145
+145670234,open-mmlab/mmdetection,Python,797
+45680749,kholia/OSX-KVM,Shell,847
+959908,OpenRA/OpenRA,C#,669
+95133665,s-matyukevich/raspberry-pi-os,C,773
+236750354,bradtraversy/vanillawebprojects,JavaScript,1832
+182644013,foxlet/macOS-Simple-KVM,Python,802
+181012406,macrozheng/mall-learning,Java,513
+196813750,Light-City/CPlusPlusThings,C++,3091
+266613704,dabeaz-course/practical-python,Python,4623
+98103322,zhoutaoo/SpringCloud,Java,416
 267176885,facebookresearch/detr,Python,1996
 263453057,corona-warn-app/cwa-documentation,TeX,1360
-179354282,acidanthera/OpenCorePkg,C,697
-249342059,chuzhixin/vue-admin-beautiful,Vue,1453
+179354282,acidanthera/OpenCorePkg,C,701
+249342059,chuzhixin/vue-admin-beautiful,Vue,1464
 268027139,corona-warn-app/cwa-app-android,Kotlin,1531
-260712390,corona-warn-app/cwa-server,Java,744
+260712390,corona-warn-app/cwa-server,Java,745
 263641191,corona-warn-app/cwa-verification-server,Java,186
