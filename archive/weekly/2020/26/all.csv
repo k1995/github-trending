@@ -1,23 +1,26 @@
 id,name,lang,new stars
-123458551,jackfrued/Python-100-Days,Jupyter Notebook,607
-241576270,labuladong/fucking-algorithm,,2140
-13926404,getredash/redash,JavaScript,203
-158336675,LingCoder/OnJava8,,740
-154739597,google/jax,Python,246
-95133665,s-matyukevich/raspberry-pi-os,C,699
-158645957,OpenDiablo2/OpenDiablo2,Go,1868
-182644013,foxlet/macOS-Simple-KVM,Python,323
-216581567,github/super-linter,Shell,1043
+121395510,CyC2018/CS-Notes,Java,832
+123458551,jackfrued/Python-100-Days,Jupyter Notebook,635
+241576270,labuladong/fucking-algorithm,,2180
+158336675,LingCoder/OnJava8,,766
+154739597,google/jax,Python,247
+95133665,s-matyukevich/raspberry-pi-os,C,702
+158645957,OpenDiablo2/OpenDiablo2,Go,1896
+182644013,foxlet/macOS-Simple-KVM,Python,327
+98596001,Exrick/xmall,Java,128
+272035489,greyireland/algorithm-pattern,Go,2023
+236095576,spotify/backstage,TypeScript,95
+216581567,github/super-linter,Shell,1049
+89822531,Anuken/Mindustry,Java,389
+135952436,dabreegster/abstreet,Rust,2221
 3301400,MinecraftForge/MinecraftForge,Java,38
-267863774,SaekiRaku/vscode-rainbow-fart,Vue,1058
-170729130,LemmyNet/lemmy,Rust,560
-179354282,acidanthera/OpenCorePkg,C,250
-265645902,adamian98/pulse,Python,922
-273689548,peng-zhihui/L-ink_Card,C,1078
-47859258,qiniu/goplus,Go,593
-155783257,linebender/druid,Rust,161
-257773375,Covid-19Radar/Covid19Radar,C#,306
-273572521,tg-bomze/Face-Depixelizer,Jupyter Notebook,627
-269137265,google/tsunami-security-scanner,Java,700
-255365829,tobspr/shapez.io,JavaScript,478
+179354282,acidanthera/OpenCorePkg,C,251
+194027578,alibaba/hooks,TypeScript,515
+265645902,adamian98/pulse,Python,939
+268039885,schenkd/nginx-ui,Python,1911
+273689548,peng-zhihui/L-ink_Card,C,1086
+47859258,qiniu/goplus,Go,600
+273572521,tg-bomze/Face-Depixelizer,Jupyter Notebook,631
+255365829,tobspr/shapez.io,JavaScript,482
 261823549,nhsx/COVID-19-app-iOS-BETA,Objective-C,26
+261523644,nhsx/COVID-19-app-Android-BETA,Kotlin,31
