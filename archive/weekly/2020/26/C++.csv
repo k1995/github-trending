@@ -1,16 +1,16 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,284
-44838949,apple/swift,C++,116
-5108051,opencv/opencv,C++,283
+45717250,tensorflow/tensorflow,C++,301
+44838949,apple/swift,C++,117
+5108051,opencv/opencv,C++,284
 65600975,pytorch/pytorch,C++,207
-15634981,godotengine/godot,C++,234
-184456251,microsoft/PowerToys,C++,1309
+15634981,godotengine/godot,C++,233
+184456251,microsoft/PowerToys,C++,1337
 39840932,google/googletest,C++,65
-19374812,telegramdesktop/tdesktop,C++,64
-31522041,vnpy/vnpy,C++,150
+19374812,telegramdesktop/tdesktop,C++,63
+31522041,vnpy/vnpy,C++,152
 67702184,topjohnwu/Magisk,C++,112
-59480719,CRYTEK/CRYENGINE,C++,525
-126412363,simdjson/simdjson,C++,66
+59480719,CRYTEK/CRYENGINE,C++,530
+126412363,simdjson/simdjson,C++,67
 26038648,gabime/spdlog,C++,70
 104231541,abseil/abseil-cpp,C++,29
 75821432,llvm/llvm-project,C++,71
@@ -19,7 +19,7 @@ id,name,lang,new stars
 184704903,interpretml/interpret,C++,46
 22660515,onqtam/doctest,C++,32
 3884981,juce-framework/JUCE,C++,27
-132044195,Yours3lf/rpi-vk-driver,C++,106
+132044195,Yours3lf/rpi-vk-driver,C++,102
 163527358,coronalabs/corona,C++,339
 252628949,microsoft/ALEX,C++,131
 252052557,vtil-project/VTIL-Core,C++,78

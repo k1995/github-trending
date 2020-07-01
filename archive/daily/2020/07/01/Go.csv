@@ -1,6 +1,6 @@
 id,name,lang,new stars
 23096959,golang/go,Go,46
-20904437,gin-gonic/gin,Go,100
+20904437,gin-gonic/gin,Go,99
 3577919,astaxie/beego,Go,15
 13124802,influxdata/influxdb,Go,12
 31288958,hashicorp/vault,Go,9
@@ -11,10 +11,10 @@ id,name,lang,new stars
 815644,miekg/dns,Go,4
 81355383,mongodb/mongo-go-driver,Go,6
 201658460,geektutu/7days-golang,Go,11
-88705168,lifei6671/mindoc,Go,4
+88705168,lifei6671/mindoc,Go,5
 187403699,FiloSottile/age,Go,12
 134018330,panjf2000/ants,Go,3
-26661222,tinode/chat,Go,86
+26661222,tinode/chat,Go,94
 136770331,statping/statping,Go,16
 87990209,kubernetes/autoscaler,Go,5
 175070907,pion/ion,Go,6
