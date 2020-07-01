@@ -1,10 +1,10 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,145
-2579314,fzaninotto/Faker,PHP,55
-458058,symfony/symfony,PHP,80
-7548986,laravel/framework,PHP,57
-448045,sebastianbergmann/phpunit,PHP,38
-2884111,magento/magento2,PHP,41
+2579314,fzaninotto/Faker,PHP,54
+458058,symfony/symfony,PHP,81
+7548986,laravel/framework,PHP,59
+448045,sebastianbergmann/phpunit,PHP,39
+2884111,magento/magento2,PHP,40
 14259390,Maatwebsite/Laravel-Excel,PHP,30
 42480275,spatie/laravel-permission,PHP,40
 656494,cakephp/cakephp,PHP,15
@@ -14,13 +14,13 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,67
 170355508,livewire/livewire,PHP,254
 12204147,mautic/mautic,PHP,21
-74386167,vimeo/psalm,PHP,49
+74386167,vimeo/psalm,PHP,45
 95011974,akaunting/akaunting,PHP,32
-1649191,doctrine/DoctrineMigrationsBundle,PHP,22
-29126334,EasyCorp/EasyAdminBundle,PHP,25
-97311017,rectorphp/rector,PHP,34
-148129143,bagisto/bagisto,PHP,42
-11935508,RSS-Bridge/rss-bridge,PHP,68
-69691727,pmmp/PocketMine-MP,PHP,36
+1649191,doctrine/DoctrineMigrationsBundle,PHP,23
+29126334,EasyCorp/EasyAdminBundle,PHP,28
+97311017,rectorphp/rector,PHP,35
+148129143,bagisto/bagisto,PHP,43
+11935508,RSS-Bridge/rss-bridge,PHP,66
+69691727,pmmp/PocketMine-MP,PHP,35
 93982796,Tuhinshubhra/RED_HAWK,PHP,14
 25361672,OpenMage/magento-lts,PHP,14
