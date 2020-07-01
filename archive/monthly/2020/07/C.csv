@@ -1,17 +1,17 @@
 id,name,lang,new stars
-156018,redis-io/redis,C,680
-111583593,Genymobile/scrcpy,C,2115
+156018,redis-io/redis,C,687
+111583593,Genymobile/scrcpy,C,2113
 36502,git/git,C,483
 1903522,php/php-src,C,370
-3774328,wg/wrk,C,702
+3774328,wg/wrk,C,704
 1614410,FFmpeg/FFmpeg,C,470
 24586308,cfenollosa/os-tutorial,C,337
 7634677,openssl/openssl,C,246
-95133665,s-matyukevich/raspberry-pi-os,C,812
+95133665,s-matyukevich/raspberry-pi-os,C,813
 3199002,raspberrypi/linux,C,127
 78281075,SpacehuhnTech/esp8266_deauther,C,135
 90320494,ish-app/ish,C,217
-246335987,ventoy/Ventoy,C,2211
+246335987,ventoy/Ventoy,C,2202
 19330466,Cyan4973/xxHash,C,199
 60667730,lvgl/lvgl,C,252
 59771425,zephyrproject-rtos/zephyr,C,125
@@ -20,7 +20,7 @@ id,name,lang,new stars
 5180577,mpc-hc/mpc-hc,C,76
 6687936,ARMmbed/mbedtls,C,61
 108110706,tporadowski/redis,C,172
-241659610,zxystd/itlwm,C,366
+241659610,zxystd/itlwm,C,367
 213916896,blender/blender,C,158
 263076869,azure-rtos/threadx,C,219
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,38
