@@ -1,11 +1,12 @@
 id,name,lang,new stars
 2126244,twbs/bootstrap,JavaScript,1303
 20580498,kubernetes/kubernetes,Go,1167
+18408635,chrislgarry/Apollo-11,Assembly,1233
+127988011,macrozheng/mall,Java,2025
 1903522,php/php-src,C,370
-18347476,google/iosched,Kotlin,149
 11171548,nlohmann/json,C++,687
 136026789,iperov/DeepFaceLab,Python,2570
-170067246,openai/gpt-2,Python,367
+251383553,electronicarts/CnC_Remastered_Collection,C++,12909
 159194100,fengdu78/lihang-code,Jupyter Notebook,1149
 145670234,open-mmlab/mmdetection,Python,795
 45680749,kholia/OSX-KVM,Shell,850
@@ -15,12 +16,11 @@ id,name,lang,new stars
 196813750,Light-City/CPlusPlusThings,C++,2941
 266613704,dabeaz-course/practical-python,Python,3972
 98103322,zhoutaoo/SpringCloud,Java,424
-267176885,facebookresearch/detr,Python,1601
-263453057,corona-warn-app/cwa-documentation,TeX,1324
-179354282,acidanthera/OpenCorePkg,C,694
+224362151,Hunlongyu/ZY-Player,Vue,2154
 249342059,chuzhixin/vue-admin-beautiful,Vue,1478
+179354282,acidanthera/OpenCorePkg,C,694
 268027139,corona-warn-app/cwa-app-android,Kotlin,1514
 260712390,corona-warn-app/cwa-server,Java,722
 268042230,corona-warn-app/cwa-app-ios,Swift,1087
-258479275,hunglc007/tensorflow-yolov4-tflite,Python,196
+262149353,corona-warn-app/cwa-website,CSS,330
 263641191,corona-warn-app/cwa-verification-server,Java,178
