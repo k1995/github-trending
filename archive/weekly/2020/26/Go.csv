@@ -1,6 +1,6 @@
 id,name,lang,new stars
-23096959,golang/go,Go,271
-20580498,kubernetes/kubernetes,Go,270
+23096959,golang/go,Go,274
+20580498,kubernetes/kubernetes,Go,262
 20904437,gin-gonic/gin,Go,252
 42408804,containous/traefik,Go,110
 3577919,astaxie/beego,Go,129
@@ -12,7 +12,7 @@ id,name,lang,new stars
 6247705,stretchr/testify,Go,61
 131371773,hoanhan101/ultimate-go,Go,181
 11008207,vitessio/vitess,Go,109
-61137153,evanw/esbuild,Go,376
+61137153,evanw/esbuild,Go,363
 158645957,OpenDiablo2/OpenDiablo2,Go,1711
 234231371,gofiber/fiber,Go,176
 272035489,greyireland/algorithm-pattern,Go,1570
