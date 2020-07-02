@@ -1,18 +1,18 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,579
-3482588,danielmiessler/SecLists,PHP,645
-2579314,fzaninotto/Faker,PHP,203
+3482588,danielmiessler/SecLists,PHP,642
+2579314,fzaninotto/Faker,PHP,207
 458058,symfony/symfony,PHP,297
-7548986,laravel/framework,PHP,225
-448045,sebastianbergmann/phpunit,PHP,140
-2253830,PHPMailer/PHPMailer,PHP,186
+7548986,laravel/framework,PHP,224
+448045,sebastianbergmann/phpunit,PHP,143
+2253830,PHPMailer/PHPMailer,PHP,185
 2889328,WordPress/WordPress,PHP,148
 1548202,matomo-org/matomo,PHP,204
-53783664,easychen/howto-make-more-money,PHP,525
+53783664,easychen/howto-make-more-money,PHP,524
 2884111,magento/magento2,PHP,163
 61490598,PHPOffice/PhpSpreadsheet,PHP,172
-6660366,dompdf/dompdf,PHP,97
-6763587,PrestaShop/PrestaShop,PHP,182
+6660366,dompdf/dompdf,PHP,95
+6763587,PrestaShop/PrestaShop,PHP,190
 170355508,livewire/livewire,PHP,821
 12204147,mautic/mautic,PHP,64
 74386167,vimeo/psalm,PHP,148
@@ -22,5 +22,5 @@ id,name,lang,new stars
 11935508,RSS-Bridge/rss-bridge,PHP,247
 48530411,top-think/framework,PHP,30
 1934695,xdebug/xdebug,PHP,46
-69691727,pmmp/PocketMine-MP,PHP,73
-246674913,pestphp/pest,PHP,375
+69691727,pmmp/PocketMine-MP,PHP,72
+246674913,pestphp/pest,PHP,369
