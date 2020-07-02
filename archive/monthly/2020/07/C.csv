@@ -1,16 +1,16 @@
 id,name,lang,new stars
-156018,redis-io/redis,C,697
-111583593,Genymobile/scrcpy,C,2083
+156018,redis-io/redis,C,699
+111583593,Genymobile/scrcpy,C,2081
 36502,git/git,C,479
-1903522,php/php-src,C,375
-3774328,wg/wrk,C,704
+1903522,php/php-src,C,376
+3774328,wg/wrk,C,705
 1614410,FFmpeg/FFmpeg,C,468
-62156403,QSCTech/zju-icicles,C,551
-24586308,cfenollosa/os-tutorial,C,334
-95133665,s-matyukevich/raspberry-pi-os,C,824
+62156403,QSCTech/zju-icicles,C,552
+24586308,cfenollosa/os-tutorial,C,332
+95133665,s-matyukevich/raspberry-pi-os,C,829
 3199002,raspberrypi/linux,C,129
 78281075,SpacehuhnTech/esp8266_deauther,C,132
-246335987,ventoy/Ventoy,C,2132
+246335987,ventoy/Ventoy,C,2107
 19330466,Cyan4973/xxHash,C,192
 60667730,lvgl/lvgl,C,246
 3565909,raspberrypi/firmware,C,103
@@ -20,7 +20,7 @@ id,name,lang,new stars
 5180577,mpc-hc/mpc-hc,C,73
 6687936,ARMmbed/mbedtls,C,62
 108110706,tporadowski/redis,C,164
-241659610,zxystd/itlwm,C,363
+241659610,zxystd/itlwm,C,362
 213916896,blender/blender,C,157
 263076869,azure-rtos/threadx,C,194
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,35
