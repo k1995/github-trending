@@ -1,18 +1,18 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,330
+45717250,tensorflow/tensorflow,C++,331
 44838949,apple/swift,C++,117
 65600975,pytorch/pytorch,C++,213
 15634981,godotengine/godot,C++,226
-184456251,microsoft/PowerToys,C++,1439
+184456251,microsoft/PowerToys,C++,1432
 22067521,ocornut/imgui,C++,132
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,92
 96246170,ApolloAuto/apollo,C++,49
 39840932,google/googletest,C++,90
 74627617,commaai/openpilot,C++,80
 120887835,huihut/interview,C++,150
-31522041,vnpy/vnpy,C++,152
+31522041,vnpy/vnpy,C++,153
 67702184,topjohnwu/Magisk,C++,112
-59480719,CRYTEK/CRYENGINE,C++,555
+59480719,CRYTEK/CRYENGINE,C++,556
 126412363,simdjson/simdjson,C++,62
 164782828,USTC-Resource/USTC-Course,C++,67
 26038648,gabime/spdlog,C++,66
@@ -22,5 +22,5 @@ id,name,lang,new stars
 75413130,intel-isl/Open3D,C++,40
 5909706,yhirose/cpp-httplib,C++,83
 3884981,juce-framework/JUCE,C++,32
-163527358,coronalabs/corona,C++,232
+163527358,coronalabs/corona,C++,233
 161214378,microsoft/Azure-Kinect-Sensor-SDK,C++,10
