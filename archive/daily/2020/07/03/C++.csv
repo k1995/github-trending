@@ -3,7 +3,7 @@ id,name,lang,new stars
 16587283,dmlc/xgboost,C++,8
 11171548,nlohmann/json,C++,12
 6934395,facebook/rocksdb,C++,13
-39840932,google/googletest,C++,29
+39840932,google/googletest,C++,30
 120887835,huihut/interview,C++,24
 1062572,catchorg/Catch2,C++,11
 125098880,ValveSoftware/Proton,C++,13
@@ -19,8 +19,8 @@ id,name,lang,new stars
 131630299,onnx/onnx-tensorrt,C++,0
 139863328,RobustFieldAutonomyLab/LeGO-LOAM,C++,3
 272252323,neoml-lib/neoml,C++,10
-135363400,ros-planning/navigation2,C++,1
 170996089,JibbSmart/JoyShockMapper,C++,76
-276269866,TixiaoShan/LIO-SAM,C++,54
+135363400,ros-planning/navigation2,C++,1
+276269866,TixiaoShan/LIO-SAM,C++,55
 276117477,opengauss-mirror/openGauss-server,C++,17
 244694174,project-chip/connectedhomeip,C++,7
