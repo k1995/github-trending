@@ -1,11 +1,11 @@
 id,name,lang,new stars
 114747226,deepfakes/faceswap,Python,696
-155220641,huggingface/transformers,Python,2064
+155220641,huggingface/transformers,Python,2063
 39464018,apache/incubator-superset,Python,354
 29749635,donnemartin/data-science-ipython-notebooks,Python,417
 2881789,geekcomputers/Python,Python,606
 4793392,sqlmapproject/sqlmap,Python,335
-136026789,iperov/DeepFaceLab,Python,2561
+136026789,iperov/DeepFaceLab,Python,2560
 160919119,tiangolo/fastapi,Python,1655
 170067246,openai/gpt-2,Python,363
 206660580,facebookresearch/detectron2,Python,891
@@ -13,14 +13,14 @@ id,name,lang,new stars
 182644013,foxlet/macOS-Simple-KVM,Python,809
 152166877,d2l-ai/d2l-en,Python,914
 224284178,NVlabs/stylegan2,Python,571
-266613704,dabeaz-course/practical-python,Python,3186
+266613704,dabeaz-course/practical-python,Python,3188
 222183074,jackzhenguo/python-small-examples,Python,754
 267176885,facebookresearch/detr,Python,1178
 138831170,facebookresearch/mmf,Python,375
 268666171,2020PB/police-brutality,Python,2140
 250213286,huggingface/nlp,Python,573
-260420185,deepmind/acme,Python,985
+260420185,deepmind/acme,Python,984
 244024353,PantsuDango/Dango-Translator,Python,985
 258745062,Tianxiaomo/pytorch-YOLOv4,Python,378
 247295191,open-mmlab/OpenPCDet,Python,318
-258479275,hunglc007/tensorflow-yolov4-tflite,Python,203
+258479275,hunglc007/tensorflow-yolov4-tflite,Python,202

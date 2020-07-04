@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,90
-7569578,discourse/discourse,Ruby,72
-53238813,Homebrew/brew,Ruby,100
-2293158,rapid7/metasploit-framework,Ruby,88
-538746,ruby/ruby,Ruby,22
-73648678,thepracticaldev/dev.to,Ruby,89
+8514,rails/rails,Ruby,89
+7569578,discourse/discourse,Ruby,66
+53238813,Homebrew/brew,Ruby,94
+2293158,rapid7/metasploit-framework,Ruby,84
+538746,ruby/ruby,Ruby,19
+73648678,thepracticaldev/dev.to,Ruby,87
 1918677,fluent/fluentd,Ruby,44
-611921,activeadmin/activeadmin,Ruby,12
+611921,activeadmin/activeadmin,Ruby,11
 275604,resque/resque,Ruby,9
 1725199,github/linguist,Ruby,21
-52855516,Homebrew/homebrew-core,Ruby,46
+52855516,Homebrew/homebrew-core,Ruby,43
 6529205,varvet/pundit,Ruby,13
 21829,thoughtbot/factory_bot,Ruby,20
 18486300,lewagon/setup,Ruby,44
@@ -19,8 +19,8 @@ id,name,lang,new stars
 839336,colszowka/simplecov,Ruby,9
 96071,rack/rack,Ruby,9
 17204381,ankane/ahoy,Ruby,16
-1172597,thoughtbot/shoulda-matchers,Ruby,12
+1172597,thoughtbot/shoulda-matchers,Ruby,11
 138776049,sorbet/sorbet,Ruby,12
-11426474,github/choosealicense.com,Ruby,13
-287024,flori/json,Ruby,5
+11426474,github/choosealicense.com,Ruby,12
+287024,flori/json,Ruby,4
 228384638,lewagon/rails-k8s-demo,Ruby,96

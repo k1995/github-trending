@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1723
-156018,redis-io/redis,C,712
-111583593,Genymobile/scrcpy,C,2108
-36502,git/git,C,482
-1903522,php/php-src,C,371
-3774328,wg/wrk,C,700
-1614410,FFmpeg/FFmpeg,C,468
-62156403,QSCTech/zju-icicles,C,554
-24586308,cfenollosa/os-tutorial,C,342
-95133665,s-matyukevich/raspberry-pi-os,C,918
+2325298,torvalds/linux,C,1762
+156018,redis-io/redis,C,717
+111583593,Genymobile/scrcpy,C,2120
+36502,git/git,C,483
+1903522,php/php-src,C,374
+3774328,wg/wrk,C,709
+1614410,FFmpeg/FFmpeg,C,474
+62156403,QSCTech/zju-icicles,C,563
+24586308,cfenollosa/os-tutorial,C,347
+95133665,s-matyukevich/raspberry-pi-os,C,919
 78281075,SpacehuhnTech/esp8266_deauther,C,139
 90320494,ish-app/ish,C,211
 19330466,Cyan4973/xxHash,C,195
@@ -20,7 +20,7 @@ id,name,lang,new stars
 179354282,acidanthera/OpenCorePkg,C,685
 6687936,ARMmbed/mbedtls,C,66
 108110706,tporadowski/redis,C,164
-241659610,zxystd/itlwm,C,355
+241659610,zxystd/itlwm,C,362
 99199151,xiph/rnnoise,C,73
 213916896,blender/blender,C,168
 263076869,azure-rtos/threadx,C,194
