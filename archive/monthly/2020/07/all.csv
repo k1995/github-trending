@@ -2,18 +2,18 @@ id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,1179
 127988011,macrozheng/mall,Java,2095
 11171548,nlohmann/json,C++,661
-136026789,iperov/DeepFaceLab,Python,2560
-251383553,electronicarts/CnC_Remastered_Collection,C++,10078
+136026789,iperov/DeepFaceLab,Python,2561
+251383553,electronicarts/CnC_Remastered_Collection,C++,10077
 159194100,fengdu78/lihang-code,Jupyter Notebook,1196
 204086862,streamlit/streamlit,TypeScript,1310
 45680749,kholia/OSX-KVM,Shell,860
-236750354,bradtraversy/vanillawebprojects,JavaScript,2064
+236750354,bradtraversy/vanillawebprojects,JavaScript,2061
 94811188,r-spacex/SpaceX-API,JavaScript,2241
 181012406,macrozheng/mall-learning,Java,531
 196813750,Light-City/CPlusPlusThings,C++,1998
-266613704,dabeaz-course/practical-python,Python,3188
+266613704,dabeaz-course/practical-python,Python,3186
 98103322,zhoutaoo/SpringCloud,Java,438
-68885535,penrose/penrose,Haskell,2207
+68885535,penrose/penrose,Haskell,2208
 249342059,chuzhixin/vue-admin-beautiful,Vue,1373
 224362151,Hunlongyu/ZY-Player,Vue,1724
 179354282,acidanthera/OpenCorePkg,C,685
@@ -21,6 +21,6 @@ id,name,lang,new stars
 243518322,douyu/jupiter,Go,980
 268027139,corona-warn-app/cwa-app-android,Kotlin,1144
 260712390,corona-warn-app/cwa-server,Java,594
-260420185,deepmind/acme,Python,984
+260420185,deepmind/acme,Python,985
 268042230,corona-warn-app/cwa-app-ios,Swift,798
 262149353,corona-warn-app/cwa-website,CSS,290
