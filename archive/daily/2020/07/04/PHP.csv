@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7769432,vlucas/phpdotenv,PHP,9
+7769432,vlucas/phpdotenv,PHP,10
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,7
 2884111,magento/magento2,PHP,6
 61490598,PHPOffice/PhpSpreadsheet,PHP,8
@@ -7,10 +7,10 @@ id,name,lang,new stars
 12166778,googleapis/google-api-php-client,PHP,3
 6763587,PrestaShop/PrestaShop,PHP,48
 170355508,livewire/livewire,PHP,27
-4565995,phpseclib/phpseclib,PHP,2
+4565995,phpseclib/phpseclib,PHP,3
 12204147,mautic/mautic,PHP,5
 10883164,barryvdh/laravel-dompdf,PHP,4
-723980,KnpLabs/snappy,PHP,3
+723980,KnpLabs/snappy,PHP,4
 885517,Atlantic18/DoctrineExtensions,PHP,1
 74386167,vimeo/psalm,PHP,11
 1649191,doctrine/DoctrineMigrationsBundle,PHP,0
