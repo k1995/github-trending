@@ -1,22 +1,22 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1228
+23096959,golang/go,Go,1227
 20580498,kubernetes/kubernetes,Go,1179
 21540759,avelino/awesome-go,Go,904
 20904437,gin-gonic/gin,Go,1077
 14712850,syncthing/syncthing,Go,752
-6838921,prometheus/prometheus,Go,580
+6838921,prometheus/prometheus,Go,579
 41986369,pingcap/tidb,Go,446
 74175805,istio/istio,Go,427
 17728164,hashicorp/terraform,Go,481
 27729907,grpc/grpc-go,Go,287
 66573241,hyperledger/fabric,Go,161
-11008207,vitessio/vitess,Go,233
+11008207,vitessio/vitess,Go,232
 212613049,cli/cli,Go,1017
 120227732,fyne-io/fyne,Go,421
 113106184,linkerd/linkerd2,Go,145
 167304464,cortexlabs/cortex,Go,639
 68964263,coreos/prometheus-operator,Go,124
-26661222,tinode/chat,Go,777
+26661222,tinode/chat,Go,776
 54539060,allegro/bigcache,Go,159
 130430977,kubesphere/kubesphere,Go,275
 95761244,gogf/gf,Go,298
