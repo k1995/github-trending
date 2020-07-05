@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,608
+1863329,laravel/laravel,PHP,601
 3482588,danielmiessler/SecLists,PHP,669
-2579314,fzaninotto/Faker,PHP,220
-458058,symfony/symfony,PHP,300
-7548986,laravel/framework,PHP,230
+2579314,fzaninotto/Faker,PHP,221
+458058,symfony/symfony,PHP,303
+7548986,laravel/framework,PHP,231
 448045,sebastianbergmann/phpunit,PHP,141
 2253830,PHPMailer/PHPMailer,PHP,186
 2889328,WordPress/WordPress,PHP,152
@@ -13,14 +13,14 @@ id,name,lang,new stars
 61490598,PHPOffice/PhpSpreadsheet,PHP,174
 6660366,dompdf/dompdf,PHP,96
 6763587,PrestaShop/PrestaShop,PHP,267
-170355508,livewire/livewire,PHP,837
+170355508,livewire/livewire,PHP,842
 86350964,the-benchmarker/web-frameworks,PHP,183
 30171828,rappasoft/laravel-boilerplate,PHP,46
 74386167,vimeo/psalm,PHP,161
 158374929,beyondcode/laravel-websockets,PHP,124
 29126334,EasyCorp/EasyAdminBundle,PHP,69
 97311017,rectorphp/rector,PHP,111
-11935508,RSS-Bridge/rss-bridge,PHP,258
+11935508,RSS-Bridge/rss-bridge,PHP,256
 48530411,top-think/framework,PHP,31
 69691727,pmmp/PocketMine-MP,PHP,76
-246674913,pestphp/pest,PHP,366
+246674913,pestphp/pest,PHP,371

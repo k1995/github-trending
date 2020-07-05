@@ -1,19 +1,19 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1406
+45717250,tensorflow/tensorflow,C++,1425
 9384267,electron/electron,C++,1166
 44838949,apple/swift,C++,535
 5108051,opencv/opencv,C++,1035
-23357588,protocolbuffers/protobuf,C++,603
-65600975,pytorch/pytorch,C++,892
+23357588,protocolbuffers/protobuf,C++,608
+65600975,pytorch/pytorch,C++,901
 15634981,godotengine/godot,C++,889
 11171548,nlohmann/json,C++,671
-19953044,google/flatbuffers,C++,268
+19953044,google/flatbuffers,C++,272
 251383553,electronicarts/CnC_Remastered_Collection,C++,9484
 31522041,vnpy/vnpy,C++,371
 59480719,CRYTEK/CRYENGINE,C++,622
 2200856,MarlinFirmware/Marlin,C++,276
 38581626,pybind/pybind11,C++,181
-63477612,TheAlgorithms/C-Plus-Plus,C++,1099
+63477612,TheAlgorithms/C-Plus-Plus,C++,1113
 104231541,abseil/abseil-cpp,C++,144
 196813750,Light-City/CPlusPlusThings,C++,2045
 75821432,llvm/llvm-project,C++,385
