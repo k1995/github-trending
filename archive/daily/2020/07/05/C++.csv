@@ -1,9 +1,9 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,125
+9384267,electron/electron,C++,103
 65600975,pytorch/pytorch,C++,70
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,36
 6934395,facebook/rocksdb,C++,23
-34777562,ossrs/srs,C++,17
+34777562,ossrs/srs,C++,16
 310611,apache/thrift,C++,8
 70038437,tamlok/vnote,C++,15
 5736080,FreeCAD/FreeCAD,C++,18
@@ -18,7 +18,7 @@ id,name,lang,new stars
 88882261,jupyter-xeus/xeus-cling,C++,12
 153097643,openvinotoolkit/openvino,C++,4
 46153892,NVIDIA/nccl,C++,2
-96848514,bqi343/USACO,C++,15
+96848514,bqi343/USACO,C++,14
 1691967,synfig/synfig,C++,10
 272252323,neoml-lib/neoml,C++,17
 186157988,chvmp/champ,C++,46
