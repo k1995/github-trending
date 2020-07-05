@@ -1,26 +1,26 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,1211
-127988011,macrozheng/mall,Java,2249
+127988011,macrozheng/mall,Java,2248
 18347476,google/iosched,Kotlin,166
-11171548,nlohmann/json,C++,672
-251383553,electronicarts/CnC_Remastered_Collection,C++,10102
-159194100,fengdu78/lihang-code,Jupyter Notebook,1213
+251383553,electronicarts/CnC_Remastered_Collection,C++,10101
+159194100,fengdu78/lihang-code,Jupyter Notebook,1211
 158336675,LingCoder/OnJava8,,1348
-204086862,streamlit/streamlit,TypeScript,1354
-45680749,kholia/OSX-KVM,Shell,875
-269336148,sickcodes/Docker-OSX,Dockerfile,6967
+145670234,open-mmlab/mmdetection,Python,723
+204086862,streamlit/streamlit,TypeScript,1352
+45680749,kholia/OSX-KVM,Shell,873
+269336148,sickcodes/Docker-OSX,Dockerfile,6963
 236750354,bradtraversy/vanillawebprojects,JavaScript,2096
 94811188,r-spacex/SpaceX-API,JavaScript,2252
-181012406,macrozheng/mall-learning,Java,551
 196813750,Light-City/CPlusPlusThings,C++,2044
-266613704,dabeaz-course/practical-python,Python,3203
+148496687,YunaiV/SpringBoot-Labs,Java,1495
+266613704,dabeaz-course/practical-python,Python,3202
 98103322,zhoutaoo/SpringCloud,Java,448
 249342059,chuzhixin/vue-admin-beautiful,Vue,1388
 224362151,Hunlongyu/ZY-Player,Vue,1748
-179354282,acidanthera/OpenCorePkg,C,700
-268666171,2020PB/police-brutality,Python,2152
+179354282,acidanthera/OpenCorePkg,C,698
+248599368,apple/password-manager-resources,JavaScript,2776
 243518322,douyu/jupiter,Go,997
-268027139,corona-warn-app/cwa-app-android,Kotlin,1155
+268027139,corona-warn-app/cwa-app-android,Kotlin,1152
 260712390,corona-warn-app/cwa-server,Java,597
 268042230,corona-warn-app/cwa-app-ios,Swift,804
 262149353,corona-warn-app/cwa-website,CSS,291
