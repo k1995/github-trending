@@ -1,15 +1,15 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,34
+65252,jekyll/jekyll,Ruby,30
 7569578,discourse/discourse,Ruby,26
 27442967,fastlane/fastlane,Ruby,27
-21600440,bayandin/awesome-awesomeness,Ruby,17
-2500088,gitlabhq/gitlabhq,Ruby,6
-53238813,Homebrew/brew,Ruby,45
+21600440,bayandin/awesome-awesomeness,Ruby,14
+2500088,gitlabhq/gitlabhq,Ruby,4
+53238813,Homebrew/brew,Ruby,42
 52281283,tootsuite/mastodon,Ruby,20
-2293158,rapid7/metasploit-framework,Ruby,36
-481872,hashicorp/vagrant,Ruby,29
+2293158,rapid7/metasploit-framework,Ruby,35
+481872,hashicorp/vagrant,Ruby,26
 538746,ruby/ruby,Ruby,10
-73648678,thepracticaldev/dev.to,Ruby,35
+73648678,thepracticaldev/dev.to,Ruby,30
 3314,spree/spree,Ruby,16
 3195124,mperham/sidekiq,Ruby,9
 275604,resque/resque,Ruby,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 910744,puppetlabs/puppet,Ruby,4
 4994614,wpscanteam/wpscan,Ruby,9
 32841259,dtan4/terraforming,Ruby,3
-30985840,solidusio/solidus,Ruby,7
+30985840,solidusio/solidus,Ruby,6
 52316423,luggit/react-native-config,Ruby,7
 11426474,github/choosealicense.com,Ruby,4
-69813387,iberianpig/fusuma,Ruby,13
+69813387,iberianpig/fusuma,Ruby,11
 154027884,samber/awesome-prometheus-alerts,Ruby,12
 189010173,Hackplayers/evil-winrm,Ruby,6
 45213482,learn-co-students/debugging-with-pry-v-000,Ruby,0
