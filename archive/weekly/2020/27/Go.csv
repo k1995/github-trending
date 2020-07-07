@@ -1,6 +1,6 @@
 id,name,lang,new stars
-23096959,golang/go,Go,273
-20580498,kubernetes/kubernetes,Go,290
+23096959,golang/go,Go,266
+20580498,kubernetes/kubernetes,Go,285
 21540759,avelino/awesome-go,Go,201
 20904437,gin-gonic/gin,Go,239
 15452919,ethereum/go-ethereum,Go,78
@@ -12,7 +12,7 @@ id,name,lang,new stars
 122734569,iawia002/annie,Go,156
 129717717,grafana/loki,Go,169
 136815833,Dreamacro/clash,Go,188
-234231371,gofiber/fiber,Go,339
+234231371,gofiber/fiber,Go,309
 153099672,inancgumus/learngo,Go,231
 26661222,tinode/chat,Go,991
 27146054,golang/tools,Go,47
@@ -20,7 +20,7 @@ id,name,lang,new stars
 134018330,panjf2000/ants,Go,71
 130430977,kubesphere/kubesphere,Go,99
 92648433,gwuhaolin/livego,Go,90
-47859258,qiniu/goplus,Go,444
+47859258,qiniu/goplus,Go,512
 134539560,weaveworks/eksctl,Go,18
-51193526,cosmos/cosmos-sdk,Go,17
 247032621,wenjianzhang/go-admin,Go,182
+51193526,cosmos/cosmos-sdk,Go,17

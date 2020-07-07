@@ -1,19 +1,19 @@
 id,name,lang,new stars
-156018,redis-io/redis,C,693
-111583593,Genymobile/scrcpy,C,2017
+156018,redis/redis,C,691
+111583593,Genymobile/scrcpy,C,2012
 1903522,php/php-src,C,353
 3774328,wg/wrk,C,680
-1614410,FFmpeg/FFmpeg,C,453
-62156403,QSCTech/zju-icicles,C,579
-24586308,cfenollosa/os-tutorial,C,380
-102578345,coolsnowwolf/lede,C,603
+1614410,FFmpeg/FFmpeg,C,457
+62156403,QSCTech/zju-icicles,C,580
+24586308,cfenollosa/os-tutorial,C,379
+102578345,coolsnowwolf/lede,C,602
 95133665,s-matyukevich/raspberry-pi-os,C,941
-47409672,hashcat/hashcat,C,378
+47409672,hashcat/hashcat,C,379
 78281075,SpacehuhnTech/esp8266_deauther,C,137
 90320494,ish-app/ish,C,216
 192805335,microsoft/mimalloc,C,143
 19330466,Cyan4973/xxHash,C,194
-174231735,hsoft/collapseos,C,459
+174231735,hsoft/collapseos,C,458
 60667730,lvgl/lvgl,C,252
 187922067,microsoft/WSL2-Linux-Kernel,C,192
 179354282,acidanthera/OpenCorePkg,C,682
@@ -22,5 +22,5 @@ id,name,lang,new stars
 241659610,OpenIntelWireless/itlwm,C,328
 206121828,FreeRTOS/FreeRTOS,C,98
 213916896,blender/blender,C,152
-259695567,bats3c/shad0w,C,266
+259695567,bats3c/shad0w,C,258
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,35
