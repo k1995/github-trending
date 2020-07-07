@@ -1,12 +1,9 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,148
-3482588,danielmiessler/SecLists,PHP,133
 7548986,laravel/framework,PHP,65
 1420053,guzzle/guzzle,PHP,48
 1376664,Seldaek/monolog,PHP,32
 3431193,yiisoft/yii2,PHP,24
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,29
-48796179,z-song/laravel-admin,PHP,40
 14259390,Maatwebsite/Laravel-Excel,PHP,29
 61490598,PHPOffice/PhpSpreadsheet,PHP,26
 42480275,spatie/laravel-permission,PHP,40
@@ -15,12 +12,15 @@ id,name,lang,new stars
 170355508,livewire/livewire,PHP,120
 100355112,yansongda/pay,PHP,24
 95011974,akaunting/akaunting,PHP,27
-76064827,mailcow/mailcow-dockerized,PHP,31
 29126334,EasyCorp/EasyAdminBundle,PHP,23
 7895524,thephpleague/oauth2-client,PHP,14
+1953386,stripe/stripe-php,PHP,9
+38116958,php-telegram-bot/core,PHP,17
 38200433,jeroennoten/Laravel-AdminLTE,PHP,22
 1957456,Dolibarr/dolibarr,PHP,16
 93982796,Tuhinshubhra/RED_HAWK,PHP,17
-182349597,jqhph/dcat-admin,PHP,87
+246674913,pestphp/pest,PHP,103
+146414504,jianyan74/rageframe2,PHP,13
+97858693,range-of-motion/budget,PHP,78
 25361672,OpenMage/magento-lts,PHP,14
 223535535,Ignitetch/AdvPhishing,PHP,10
