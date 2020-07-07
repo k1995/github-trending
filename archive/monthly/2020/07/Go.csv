@@ -1,9 +1,9 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1175
+23096959,golang/go,Go,1184
 20580498,kubernetes/kubernetes,Go,1162
 21540759,avelino/awesome-go,Go,883
 20904437,gin-gonic/gin,Go,1053
-14712850,syncthing/syncthing,Go,741
+14712850,syncthing/syncthing,Go,739
 41986369,pingcap/tidb,Go,430
 74175805,istio/istio,Go,418
 17728164,hashicorp/terraform,Go,430
@@ -13,7 +13,7 @@ id,name,lang,new stars
 66573241,hyperledger/fabric,Go,159
 11008207,vitessio/vitess,Go,238
 212613049,cli/cli,Go,956
-129717717,grafana/loki,Go,459
+129717717,grafana/loki,Go,466
 11593442,golang/groupcache,Go,152
 113106184,linkerd/linkerd2,Go,139
 167304464,cortexlabs/cortex,Go,640
