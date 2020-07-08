@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1129010,blueimp/jQuery-File-Upload,PHP,4
-458058,symfony/symfony,PHP,7
+1129010,blueimp/jQuery-File-Upload,PHP,6
+458058,symfony/symfony,PHP,5
 7548986,laravel/framework,PHP,10
 8678290,barryvdh/laravel-ide-helper,PHP,5
 5627682,serbanghita/Mobile-Detect,PHP,4
-137515,mockery/mockery,PHP,4
-2884111,magento/magento2,PHP,8
+137515,mockery/mockery,PHP,6
+2884111,magento/magento2,PHP,7
 79111500,jupeter/clean-code-php,PHP,13
-597887,doctrine/orm,PHP,3
+597887,doctrine/orm,PHP,4
 2699935,squizlabs/PHP_CodeSniffer,PHP,7
 9004802,phpspec/prophecy,PHP,3
 6660366,dompdf/dompdf,PHP,3
