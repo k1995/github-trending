@@ -13,7 +13,7 @@ id,name,lang,new stars
 146641150,tektoncd/pipeline,Go,6
 93444615,terraform-providers/terraform-provider-aws,Go,9
 180687624,aquasecurity/trivy,Go,16
-120896210,argoproj/argo-cd,Go,9
+120896210,argoproj/argo-cd,Go,8
 87990209,kubernetes/autoscaler,Go,6
 47859258,goplus/gop,Go,130
 29778781,slack-go/slack,Go,2
