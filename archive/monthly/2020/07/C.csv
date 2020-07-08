@@ -1,17 +1,17 @@
 id,name,lang,new stars
-156018,redis/redis,C,686
-111583593,Genymobile/scrcpy,C,1996
-1903522,php/php-src,C,342
+156018,redis/redis,C,685
+111583593,Genymobile/scrcpy,C,1991
+1903522,php/php-src,C,345
 3774328,wg/wrk,C,678
 1614410,FFmpeg/FFmpeg,C,436
 62156403,QSCTech/zju-icicles,C,590
-24586308,cfenollosa/os-tutorial,C,376
-102578345,coolsnowwolf/lede,C,611
+24586308,cfenollosa/os-tutorial,C,377
+102578345,coolsnowwolf/lede,C,609
 95133665,s-matyukevich/raspberry-pi-os,C,948
-47409672,hashcat/hashcat,C,392
+47409672,hashcat/hashcat,C,393
 78281075,SpacehuhnTech/esp8266_deauther,C,135
 90320494,ish-app/ish,C,220
-192805335,microsoft/mimalloc,C,173
+192805335,microsoft/mimalloc,C,178
 19330466,Cyan4973/xxHash,C,197
 60667730,lvgl/lvgl,C,253
 187922067,microsoft/WSL2-Linux-Kernel,C,193
@@ -22,5 +22,5 @@ id,name,lang,new stars
 108110706,tporadowski/redis,C,162
 241659610,OpenIntelWireless/itlwm,C,334
 213916896,blender/blender,C,151
-259695567,bats3c/shad0w,C,248
+259695567,bats3c/shad0w,C,241
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,34
