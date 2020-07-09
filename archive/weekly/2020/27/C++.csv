@@ -1,9 +1,9 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,285
+45717250,tensorflow/tensorflow,C++,290
 5108051,opencv/opencv,C++,219
 23357588,protocolbuffers/protobuf,C++,148
 22887094,tesseract-ocr/tesseract,C++,150
-184456251,microsoft/PowerToys,C++,964
+184456251,microsoft/PowerToys,C++,923
 168008797,microsoft/calculator,C++,48
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,101
 96246170,ApolloAuto/apollo,C++,62
@@ -16,7 +16,7 @@ id,name,lang,new stars
 52729242,keepassxreboot/keepassxc,C++,101
 104231541,abseil/abseil-cpp,C++,45
 5736080,FreeCAD/FreeCAD,C++,49
-144664950,HackerPoet/NonEuclidean,C++,938
+144664950,HackerPoet/NonEuclidean,C++,945
 86337343,skypjack/entt,C++,74
 5909706,yhirose/cpp-httplib,C++,75
 98471367,acidanthera/WhateverGreen,C++,29
