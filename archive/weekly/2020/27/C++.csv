@@ -1,20 +1,20 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,300
+45717250,tensorflow/tensorflow,C++,302
 5108051,opencv/opencv,C++,219
 65600975,pytorch/pytorch,C++,184
-22887094,tesseract-ocr/tesseract,C++,150
+22887094,tesseract-ocr/tesseract,C++,149
 15634981,godotengine/godot,C++,181
-184456251,microsoft/PowerToys,C++,1041
+184456251,microsoft/PowerToys,C++,1043
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,101
 96246170,ApolloAuto/apollo,C++,62
-39840932,google/googletest,C++,86
-74627617,commaai/openpilot,C++,78
+39840932,google/googletest,C++,79
+74627617,commaai/openpilot,C++,77
 120887835,huihut/interview,C++,178
 1062572,catchorg/Catch2,C++,56
 60246359,ClickHouse/ClickHouse,C++,84
 81887991,microsoft/AirSim,C++,50
 81227005,facebookresearch/faiss,C++,75
-7056202,fmtlib/fmt,C++,143
+7056202,fmtlib/fmt,C++,142
 52729242,keepassxreboot/keepassxc,C++,101
 104231541,abseil/abseil-cpp,C++,46
 5736080,FreeCAD/FreeCAD,C++,49
@@ -22,5 +22,5 @@ id,name,lang,new stars
 86337343,skypjack/entt,C++,74
 5909706,yhirose/cpp-httplib,C++,75
 237728012,Trojan-Qt5/Trojan-Qt5,C++,109
-54825678,cycfi/elements,C++,385
+54825678,cycfi/elements,C++,388
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,22

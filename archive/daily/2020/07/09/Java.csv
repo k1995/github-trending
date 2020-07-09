@@ -4,8 +4,8 @@ id,name,lang,new stars
 2700474,alibaba/fastjson,Java,14
 2211243,apache/kafka,Java,10
 7587038,alibaba/canal,Java,17
-112785414,alibaba/spring-cloud-alibaba,Java,22
-20587599,apache/flink,Java,15
+112785414,alibaba/spring-cloud-alibaba,Java,23
+20587599,apache/flink,Java,16
 5349565,prestodb/presto,Java,3
 163721192,zhisheng17/flink-learning,Java,19
 7170058,flyway/flyway,Java,6
@@ -15,12 +15,12 @@ id,name,lang,new stars
 206317,apache/camel,Java,3
 206444,apache/hive,Java,3
 66023605,awsdocs/aws-doc-sdk-examples,Java,9
-115411826,tronprotocol/java-tron,Java,1
+115411826,tronprotocol/java-tron,Java,2
 27911088,apache/nifi,Java,3
 21193524,apache/calcite,Java,1
 317887,liferay/liferay-portal,Java,1
-135442228,wagiro/BurpBounty,Java,2
-269007854,18380438200/Tiktok,Java,67
+135442228,wagiro/BurpBounty,Java,3
+269007854,18380438200/Tiktok,Java,61
 237867883,metersphere/metersphere,Java,17
 277342661,jas502n/CVE-2020-5902,Java,51
 242659126,alipay/alipay-easysdk,Java,4
