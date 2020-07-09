@@ -1,17 +1,17 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1632
-156018,redis/redis,C,692
-111583593,Genymobile/scrcpy,C,1967
+2325298,torvalds/linux,C,1630
+156018,redis/redis,C,693
+111583593,Genymobile/scrcpy,C,1966
 1903522,php/php-src,C,329
-3774328,wg/wrk,C,679
-1614410,FFmpeg/FFmpeg,C,433
+3774328,wg/wrk,C,681
+1614410,FFmpeg/FFmpeg,C,432
 62156403,QSCTech/zju-icicles,C,588
-24586308,cfenollosa/os-tutorial,C,378
-102578345,coolsnowwolf/lede,C,607
-23515024,octalmage/robotjs,C,289
+24586308,cfenollosa/os-tutorial,C,377
+102578345,coolsnowwolf/lede,C,610
+23515024,octalmage/robotjs,C,291
 95133665,s-matyukevich/raspberry-pi-os,C,965
 78281075,SpacehuhnTech/esp8266_deauther,C,132
-90320494,ish-app/ish,C,222
+90320494,ish-app/ish,C,220
 192805335,microsoft/mimalloc,C,213
 19330466,Cyan4973/xxHash,C,194
 187922067,microsoft/WSL2-Linux-Kernel,C,197
@@ -22,5 +22,5 @@ id,name,lang,new stars
 6687936,ARMmbed/mbedtls,C,69
 40556106,wazuh/wazuh,C,63
 108110706,tporadowski/redis,C,166
-241659610,OpenIntelWireless/itlwm,C,334
+241659610,OpenIntelWireless/itlwm,C,335
 9743267,tomojitakasu/RTKLIB,C,36
