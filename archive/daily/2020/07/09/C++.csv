@@ -1,13 +1,13 @@
 id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,34
-22887094,tesseract-ocr/tesseract,C++,33
+22887094,tesseract-ocr/tesseract,C++,30
 16587283,dmlc/xgboost,C++,10
-1357796,emscripten-core/emscripten,C++,3
+1357796,emscripten-core/emscripten,C++,4
 34864402,apache/incubator-mxnet,C++,3
-39840932,google/googletest,C++,10
+39840932,google/googletest,C++,8
 4524181,facebook/folly,C++,7
 65214191,envoyproxy/envoy,C++,34
-102343794,apache/incubator-brpc,C++,7
+102343794,apache/incubator-brpc,C++,6
 52729242,keepassxreboot/keepassxc,C++,81
 1204412,TrinityCore/TrinityCore,C++,13
 4454793,musescore/MuseScore,C++,4
@@ -19,8 +19,8 @@ id,name,lang,new stars
 27918697,versatica/mediasoup,C++,17
 14983921,srsLTE/srsLTE,C++,4
 86897963,xiongziliang/ZLMediaKit,C++,9
-115765590,OAID/Tengine,C++,45
+115765590,OAID/Tengine,C++,42
 222192366,OpenIntelWireless/IntelBluetoothFirmware,C++,6
 237647258,meshtastic/Meshtastic-device,C++,8
-252052557,vtil-project/VTIL-Core,C++,19
-277826836,thesecretclub/BottlEye,C++,69
+252052557,vtil-project/VTIL-Core,C++,20
+277826836,thesecretclub/BottlEye,C++,65
