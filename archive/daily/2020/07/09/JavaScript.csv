@@ -7,7 +7,7 @@ id,name,lang,new stars
 9185792,apache/incubator-echarts,JavaScript,27
 12972263,alvarotrigo/fullPage.js,JavaScript,14
 43441403,strapi/strapi,JavaScript,52
-5239185,quilljs/quill,JavaScript,12
+5239185,quilljs/quill,JavaScript,11
 47394776,lerna/lerna,JavaScript,23
 31629751,cypress-io/cypress,JavaScript,21
 61412022,ianstormtaylor/slate,JavaScript,23
@@ -16,9 +16,9 @@ id,name,lang,new stars
 80276391,GitSquared/edex-ui,JavaScript,500
 12618379,node-red/node-red,JavaScript,15
 207645083,tannerlinsley/react-query,JavaScript,41
-80616041,invertase/react-native-firebase,JavaScript,39
+80616041,invertase/react-native-firebase,JavaScript,43
 145464445,scrumpy/tiptap,JavaScript,10
-28407613,ag-grid/ag-grid,JavaScript,5
+28407613,ag-grid/ag-grid,JavaScript,4
 20893207,primer/octicons,JavaScript,8
 27786663,exceljs/exceljs,JavaScript,15
 119162419,iaincollins/next-auth,JavaScript,31
