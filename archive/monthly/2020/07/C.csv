@@ -1,18 +1,18 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1645
-156018,redis/redis,C,691
-111583593,Genymobile/scrcpy,C,1996
-1903522,php/php-src,C,342
-3774328,wg/wrk,C,683
-1614410,FFmpeg/FFmpeg,C,437
-62156403,QSCTech/zju-icicles,C,594
+2325298,torvalds/linux,C,1644
+156018,redis/redis,C,688
+111583593,Genymobile/scrcpy,C,1974
+1903522,php/php-src,C,333
+3774328,wg/wrk,C,680
+1614410,FFmpeg/FFmpeg,C,430
+62156403,QSCTech/zju-icicles,C,587
 24586308,cfenollosa/os-tutorial,C,377
-102578345,coolsnowwolf/lede,C,612
+102578345,coolsnowwolf/lede,C,609
 23515024,octalmage/robotjs,C,288
 95133665,s-matyukevich/raspberry-pi-os,C,962
-78281075,SpacehuhnTech/esp8266_deauther,C,131
+78281075,SpacehuhnTech/esp8266_deauther,C,132
 90320494,ish-app/ish,C,222
-192805335,microsoft/mimalloc,C,212
+192805335,microsoft/mimalloc,C,213
 19330466,Cyan4973/xxHash,C,194
 187922067,microsoft/WSL2-Linux-Kernel,C,197
 59771425,zephyrproject-rtos/zephyr,C,103
@@ -21,6 +21,6 @@ id,name,lang,new stars
 5180577,mpc-hc/mpc-hc,C,83
 6687936,ARMmbed/mbedtls,C,69
 40556106,wazuh/wazuh,C,63
-108110706,tporadowski/redis,C,167
+108110706,tporadowski/redis,C,166
 241659610,OpenIntelWireless/itlwm,C,333
 9743267,tomojitakasu/RTKLIB,C,36
