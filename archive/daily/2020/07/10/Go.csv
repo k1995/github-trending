@@ -1,11 +1,11 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,42
-7691631,moby/moby,Go,11
+7691631,moby/moby,Go,16
 6838921,prometheus/prometheus,Go,26
 17728164,hashicorp/terraform,Go,22
 13855476,go-gorm/gorm,Go,24
 56353740,kubernetes/minikube,Go,27
-26337322,rancher/rancher,Go,19
+26337322,rancher/rancher,Go,20
 46806184,helm/charts,Go,12
 27729907,grpc/grpc-go,Go,13
 31558937,gravitational/teleport,Go,27
@@ -19,7 +19,7 @@ id,name,lang,new stars
 18906266,shirou/gopsutil,Go,4
 81355383,mongodb/mongo-go-driver,Go,6
 125275487,kubernetes-sigs/kubebuilder,Go,7
-150713223,kubeedge/kubeedge,Go,5
+150713223,kubeedge/kubeedge,Go,4
 140654872,mosn/mosn,Go,10
 76686583,kubevirt/kubevirt,Go,4
 202018792,aws/copilot-cli,Go,86

@@ -3,8 +3,8 @@ id,name,lang,new stars
 7613257,SeleniumHQ/selenium,Java,14
 7587038,alibaba/canal,Java,17
 88970564,Tencent/QMUI_Android,Java,12
-6207167,mockito/mockito,Java,8
 5349565,prestodb/presto,Java,9
+6207167,mockito/mockito,Java,8
 41889031,TeamNewPipe/NewPipe,Java,12
 27729926,grpc/grpc-java,Java,37
 11125589,keycloak/keycloak,Java,9
@@ -14,7 +14,7 @@ id,name,lang,new stars
 160779969,li-xiaojun/XPopup,Java,6
 69400326,confluentinc/ksql,Java,10
 81226206,intuit/karate,Java,5
-269137265,google/tsunami-security-scanner,Java,1119
+269137265,google/tsunami-security-scanner,Java,976
 113983289,kekingcn/kkFileView,Java,27
 206905065,macrozheng/springcloud-learning,Java,24
 58194180,strimzi/strimzi-kafka-operator,Java,6
