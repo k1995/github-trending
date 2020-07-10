@@ -2,11 +2,11 @@ id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,31
 22887094,tesseract-ocr/tesseract,C++,31
 16587283,dmlc/xgboost,C++,7
-1357796,emscripten-core/emscripten,C++,22
+1357796,emscripten-core/emscripten,C++,24
 34864402,apache/incubator-mxnet,C++,1
 39840932,google/googletest,C++,15
 4524181,facebook/folly,C++,8
-65214191,envoyproxy/envoy,C++,18
+65214191,envoyproxy/envoy,C++,19
 102343794,apache/incubator-brpc,C++,2
 52729242,keepassxreboot/keepassxc,C++,48
 1204412,TrinityCore/TrinityCore,C++,8
@@ -21,6 +21,6 @@ id,name,lang,new stars
 86897963,xiongziliang/ZLMediaKit,C++,4
 115765590,OAID/Tengine,C++,23
 222192366,OpenIntelWireless/IntelBluetoothFirmware,C++,4
-237647258,meshtastic/Meshtastic-device,C++,8
+237647258,meshtastic/Meshtastic-device,C++,5
 252052557,vtil-project/VTIL-Core,C++,10
-277826836,thesecretclub/BottlEye,C++,51
+277826836,thesecretclub/BottlEye,C++,54

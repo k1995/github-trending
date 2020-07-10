@@ -1,11 +1,11 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,6
-448045,sebastianbergmann/phpunit,PHP,7
+448045,sebastianbergmann/phpunit,PHP,8
 13899674,thephpleague/flysystem,PHP,2
 1305114,roots/sage,PHP,3
 8678290,barryvdh/laravel-ide-helper,PHP,8
 72069409,the-control-group/voyager,PHP,9
-5627682,serbanghita/Mobile-Detect,PHP,3
+5627682,serbanghita/Mobile-Detect,PHP,4
 2699935,squizlabs/PHP_CodeSniffer,PHP,3
 9004802,phpspec/prophecy,PHP,2
 1398648,symfony/http-foundation,PHP,1
@@ -14,7 +14,7 @@ id,name,lang,new stars
 17452080,lcobucci/jwt,PHP,2
 4551765,thephpleague/oauth2-server,PHP,3
 14075080,roots/bedrock,PHP,0
-33916850,spatie/laravel-medialibrary,PHP,4
+33916850,spatie/laravel-medialibrary,PHP,5
 74386167,vimeo/psalm,PHP,21
 7895524,thephpleague/oauth2-client,PHP,4
 11935508,RSS-Bridge/rss-bridge,PHP,3

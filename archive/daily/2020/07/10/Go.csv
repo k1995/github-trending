@@ -1,13 +1,13 @@
 id,name,lang,new stars
-23096959,golang/go,Go,43
-7691631,moby/moby,Go,12
+23096959,golang/go,Go,44
+7691631,moby/moby,Go,11
 17728164,hashicorp/terraform,Go,22
 29261473,minio/minio,Go,16
-17803236,rclone/rclone,Go,22
-26337322,rancher/rancher,Go,20
+17803236,rclone/rclone,Go,20
+26337322,rancher/rancher,Go,19
 46806184,helm/charts,Go,12
 4059138,dgrijalva/jwt-go,Go,11
-44344606,go-chi/chi,Go,9
+44344606,go-chi/chi,Go,8
 22442668,openshift/origin,Go,2
 54400687,loadimpact/k6,Go,12
 169948217,crawlab-team/crawlab,Go,10
@@ -18,7 +18,7 @@ id,name,lang,new stars
 99143276,vmware-tanzu/velero,Go,3
 120650407,operator-framework/operator-sdk,Go,11
 48714685,open-policy-agent/opa,Go,3
-160626997,uber/kraken,Go,3
+160626997,uber/kraken,Go,2
 120896210,argoproj/argo-cd,Go,5
 118828329,knative/serving,Go,2
 197914161,drakkan/sftpgo,Go,26
