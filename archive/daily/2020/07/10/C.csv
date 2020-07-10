@@ -1,16 +1,16 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,11
+10744183,netdata/netdata,C,10
 156018,redis/redis,C,32
 36502,git/git,C,17
 18666758,pjreddie/darknet,C,18
-14812739,libuv/libuv,C,5
-201454051,Awesome-HarmonyOS/HarmonyOS,C,5
+14812739,libuv/libuv,C,6
+201454051,Awesome-HarmonyOS/HarmonyOS,C,6
 6201092,mpv-player/mpv,C,9
 18496166,gentilkiwi/mimikatz,C,5
 100781035,webview/webview,C,12
-44781140,greenplum-db/gpdb,C,4
+44781140,greenplum-db/gpdb,C,1
 2997204,magnumripper/JohnTheRipper,C,6
-31791482,microsoft/Windows-driver-samples,C,5
+31791482,microsoft/Windows-driver-samples,C,4
 58132544,RediSearch/RediSearch,C,105
 29933948,fluent/fluent-bit,C,4
 39760454,libjpeg-turbo/libjpeg-turbo,C,7
@@ -21,6 +21,6 @@ id,name,lang,new stars
 154525111,signalwire/freeswitch,C,4
 2276287,riscv/riscv-isa-sim,C,4
 53432472,Azure/sonic-buildimage,C,2
-202286916,Xinyuan-LilyGO/TTGO_TWatch_Library,C,5
-277866243,dalvarezperez/CreateFile_based_rootkit,C,22
+202286916,Xinyuan-LilyGO/TTGO_TWatch_Library,C,2
+277866243,dalvarezperez/CreateFile_based_rootkit,C,18
 278161630,tothi/dll-hijack-by-proxying,C,20

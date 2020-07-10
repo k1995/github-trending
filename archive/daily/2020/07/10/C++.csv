@@ -5,7 +5,7 @@ id,name,lang,new stars
 22887094,tesseract-ocr/tesseract,C++,31
 15634981,godotengine/godot,C++,31
 16587283,dmlc/xgboost,C++,7
-1357796,emscripten-core/emscripten,C++,22
+1357796,emscripten-core/emscripten,C++,24
 39840932,google/googletest,C++,15
 19953044,google/flatbuffers,C++,5
 60273704,mozilla/DeepSpeech,C++,13
@@ -22,5 +22,5 @@ id,name,lang,new stars
 208728772,milvus-io/milvus,C++,7
 124976393,oatpp/oatpp,C++,7
 218329478,KhronosGroup/Vulkan-Samples,C++,9
-277826836,thesecretclub/BottlEye,C++,51
 258780390,FiYHer/How-to-create-a-csgo-cheating-program,C++,69
+277826836,thesecretclub/BottlEye,C++,52

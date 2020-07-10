@@ -1,5 +1,5 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,120
+8681349,huginn/huginn,Ruby,127
 21600440,bayandin/awesome-awesomeness,Ruby,62
 13840241,freeCodeCamp/devdocs,Ruby,59
 53238813,Homebrew/brew,Ruby,112
@@ -8,19 +8,19 @@ id,name,lang,new stars
 308770,heartcombo/devise,Ruby,22
 481872,hashicorp/vagrant,Ruby,59
 538746,ruby/ruby,Ruby,23
-73648678,thepracticaldev/dev.to,Ruby,81
+73648678,thepracticaldev/dev.to,Ruby,82
 361310,teamcapybara/capybara,Ruby,2
 52855516,Homebrew/homebrew-core,Ruby,60
 18486300,lewagon/setup,Ruby,367
 587311,omniauth/omniauth,Ruby,8
-2441517,puma/puma,Ruby,9
-277089,flyerhzm/bullet,Ruby,9
-1548802,activerecord-hackery/ransack,Ruby,7
+2441517,puma/puma,Ruby,8
+277089,flyerhzm/bullet,Ruby,8
+1548802,activerecord-hackery/ransack,Ruby,6
 202291859,chatwoot/chatwoot,Ruby,55
 6768710,redmine/redmine,Ruby,6
 30985840,solidusio/solidus,Ruby,13
 52316423,luggit/react-native-config,Ruby,13
-1172597,thoughtbot/shoulda-matchers,Ruby,8
-154027884,samber/awesome-prometheus-alerts,Ruby,31
+1172597,thoughtbot/shoulda-matchers,Ruby,7
+154027884,samber/awesome-prometheus-alerts,Ruby,29
 93163073,dependabot/dependabot-core,Ruby,16
-170547737,mongodb/homebrew-brew,Ruby,14
+170547737,mongodb/homebrew-brew,Ruby,12

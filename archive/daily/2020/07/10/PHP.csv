@@ -2,7 +2,7 @@ id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,3
 458058,symfony/symfony,PHP,6
 7548986,laravel/framework,PHP,6
-448045,sebastianbergmann/phpunit,PHP,7
+448045,sebastianbergmann/phpunit,PHP,8
 72069409,the-control-group/voyager,PHP,9
 2884111,magento/magento2,PHP,4
 14259390,Maatwebsite/Laravel-Excel,PHP,4
@@ -12,7 +12,7 @@ id,name,lang,new stars
 44751102,phan/phan,PHP,4
 10883164,barryvdh/laravel-dompdf,PHP,2
 885517,Atlantic18/DoctrineExtensions,PHP,1
-74386167,vimeo/psalm,PHP,24
+74386167,vimeo/psalm,PHP,21
 1649191,doctrine/DoctrineMigrationsBundle,PHP,5
 76064827,mailcow/mailcow-dockerized,PHP,4
 97311017,rectorphp/rector,PHP,4
