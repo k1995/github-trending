@@ -1,26 +1,26 @@
 id,name,lang,new stars
-7691631,moby/moby,Go,19
-138839979,scutan90/DeepLearning-500-questions,,141
-32484381,ripienaar/free-for-dev,HTML,142
-63266213,open-guides/og-aws,Shell,39
+132750724,danistefanovic/build-your-own-x,,75
+7691631,moby/moby,Go,20
+52631841,gothinkster/realworld,JavaScript,174
+32484381,ripienaar/free-for-dev,HTML,134
+6838921,prometheus/prometheus,Go,34
+31629751,cypress-io/cypress,JavaScript,28
 136026789,iperov/DeepFaceLab,Python,145
-39840932,google/googletest,C++,15
-5349565,prestodb/presto,Java,42
-148496687,YunaiV/SpringBoot-Labs,Java,63
-247266215,JaidedAI/EasyOCR,Python,879
-196701619,tauri-apps/tauri,Rust,311
+164574693,qishibo/AnotherRedisDesktopManager,JavaScript,68
+738491,facebook/facebook-ios-sdk,Objective-C,29
+62117812,apache/pulsar,Java,14
+48109239,cilium/cilium,Go,8
+247266215,JaidedAI/EasyOCR,Python,821
 72685026,MicrosoftDocs/azure-docs,PowerShell,14
 269137265,google/tsunami-security-scanner,Java,926
-254832799,Z4nzu/hackingtool,Python,517
-123625732,microsoft/fast,TypeScript,286
-127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,122
-253535629,jbesomi/texthero,Python,175
-261515636,matplotlib/cheatsheets,Python,191
-4127088,Azure/azure-sdk-for-python,Python,37
-262600128,fbdesignpro/sweetviz,Python,85
-202018792,aws/copilot-cli,Go,122
-237867883,metersphere/metersphere,Java,29
-258780390,FiYHer/How-to-create-a-csgo-cheating-program,C++,78
-277667727,google-research/torchsde,Python,87
-272821486,gskinnerTeam/flokk,Dart,69
+210716005,dotnet/runtime,C#,31
+254832799,Z4nzu/hackingtool,Python,509
+250213286,huggingface/nlp,Python,15
+243197559,iterative/cml,JavaScript,153
+278328681,Dimillian/RedditOS,Swift,277
+278296523,kautukkundan/Awesome-Profile-README-templates,,176
+246097498,marcotcr/checklist,Jupyter Notebook,96
+277667727,google-research/torchsde,Python,86
 269394176,google/tsunami-security-scanner-plugins,Java,95
+276218849,bem/yandex-ui,TypeScript,41
+277005144,maudzung/Complex-YOLOv4-Pytorch,Python,32
