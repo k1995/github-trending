@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,622
+1863329,laravel/laravel,PHP,627
 458058,symfony/symfony,PHP,276
 7548986,laravel/framework,PHP,238
-448045,sebastianbergmann/phpunit,PHP,131
-3431193,yiisoft/yii2,PHP,71
+448045,sebastianbergmann/phpunit,PHP,133
+3431193,yiisoft/yii2,PHP,73
 53783664,easychen/howto-make-more-money,PHP,504
 61490598,PHPOffice/PhpSpreadsheet,PHP,160
 42480275,spatie/laravel-permission,PHP,157
-79111500,jupeter/clean-code-php,PHP,112
-6660366,dompdf/dompdf,PHP,96
+79111500,jupeter/clean-code-php,PHP,113
+6660366,dompdf/dompdf,PHP,97
 6763587,PrestaShop/PrestaShop,PHP,280
 170355508,livewire/livewire,PHP,794
 12204147,mautic/mautic,PHP,71
@@ -18,7 +18,7 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,149
 148129143,bagisto/bagisto,PHP,129
 11935508,RSS-Bridge/rss-bridge,PHP,258
-1953386,stripe/stripe-php,PHP,39
+1953386,stripe/stripe-php,PHP,40
 69691727,pmmp/PocketMine-MP,PHP,76
 1957456,Dolibarr/dolibarr,PHP,61
 74026995,CodelyTV/php-ddd-example,PHP,168
