@@ -3,10 +3,10 @@ id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,23
 65600975,pytorch/pytorch,C++,28
 22887094,tesseract-ocr/tesseract,C++,32
-15634981,godotengine/godot,C++,27
+15634981,godotengine/godot,C++,26
 16587283,dmlc/xgboost,C++,5
 1357796,emscripten-core/emscripten,C++,20
-39840932,google/googletest,C++,16
+39840932,google/googletest,C++,15
 19953044,google/flatbuffers,C++,4
 60273704,mozilla/DeepSpeech,C++,7
 81227005,facebookresearch/faiss,C++,8
@@ -21,6 +21,6 @@ id,name,lang,new stars
 192025001,Qv2ray/Qv2ray,C++,28
 208728772,milvus-io/milvus,C++,7
 124976393,oatpp/oatpp,C++,9
-218329478,KhronosGroup/Vulkan-Samples,C++,10
-258780390,FiYHer/How-to-create-a-csgo-cheating-program,C++,80
-277826836,thesecretclub/BottlEye,C++,34
+218329478,KhronosGroup/Vulkan-Samples,C++,9
+258780390,FiYHer/How-to-create-a-csgo-cheating-program,C++,78
+277826836,thesecretclub/BottlEye,C++,32
