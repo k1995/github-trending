@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,88
+2325298,torvalds/linux,C,86
 156018,redis/redis,C,34
 36502,git/git,C,30
 10446890,bilibili/ijkplayer,C,3
@@ -15,7 +15,7 @@ id,name,lang,new stars
 184909163,koekeishiya/yabai,C,13
 31791482,microsoft/Windows-driver-samples,C,5
 5805256,lua/lua,C,3
-179354282,acidanthera/OpenCorePkg,C,23
+179354282,acidanthera/OpenCorePkg,C,24
 8270972,ARMmbed/mbed-os,C,2
 2359378,madler/zlib,C,3
 110170439,aws/amazon-freertos,C,3

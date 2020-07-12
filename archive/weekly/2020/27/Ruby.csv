@@ -1,19 +1,19 @@
 id,name,lang,new stars
 8681349,huginn/huginn,Ruby,156
-21600440,bayandin/awesome-awesomeness,Ruby,72
+21600440,bayandin/awesome-awesomeness,Ruby,74
 13840241,freeCodeCamp/devdocs,Ruby,55
-53238813,Homebrew/brew,Ruby,128
+53238813,Homebrew/brew,Ruby,131
 2293158,rapid7/metasploit-framework,Ruby,84
 308770,heartcombo/devise,Ruby,29
 481872,hashicorp/vagrant,Ruby,57
-538746,ruby/ruby,Ruby,27
+538746,ruby/ruby,Ruby,28
 73648678,thepracticaldev/dev.to,Ruby,117
 3195124,mperham/sidekiq,Ruby,18
 361310,teamcapybara/capybara,Ruby,1
 812393,ruby-grape/grape,Ruby,8
 52855516,Homebrew/homebrew-core,Ruby,62
-18486300,lewagon/setup,Ruby,396
-2441517,puma/puma,Ruby,7
+18486300,lewagon/setup,Ruby,398
+2441517,puma/puma,Ruby,6
 30337170,rmosolgo/graphql-ruby,Ruby,14
 202291859,chatwoot/chatwoot,Ruby,64
 1734,aasm/aasm,Ruby,8
@@ -23,4 +23,4 @@ id,name,lang,new stars
 241560,savonrb/savon,Ruby,1
 154027884,samber/awesome-prometheus-alerts,Ruby,29
 93163073,dependabot/dependabot-core,Ruby,13
-65914086,decidim/decidim,Ruby,2
+65914086,decidim/decidim,Ruby,3
