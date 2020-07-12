@@ -1,18 +1,18 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1323
-9384267,electron/electron,C++,1172
+45717250,tensorflow/tensorflow,C++,1325
+9384267,electron/electron,C++,1175
 44838949,apple/swift,C++,483
 5108051,opencv/opencv,C++,1006
-23357588,protocolbuffers/protobuf,C++,600
+23357588,protocolbuffers/protobuf,C++,601
 65600975,pytorch/pytorch,C++,851
-22887094,tesseract-ocr/tesseract,C++,574
-15634981,godotengine/godot,C++,869
+22887094,tesseract-ocr/tesseract,C++,575
+15634981,godotengine/godot,C++,872
 27729880,grpc/grpc,C++,426
 22067521,ocornut/imgui,C++,615
 39840932,google/googletest,C++,404
-19953044,google/flatbuffers,C++,254
-31522041,vnpy/vnpy,C++,384
-60246359,ClickHouse/ClickHouse,C++,344
+19953044,google/flatbuffers,C++,255
+31522041,vnpy/vnpy,C++,385
+60246359,ClickHouse/ClickHouse,C++,343
 59480719,CRYTEK/CRYENGINE,C++,619
 95879426,Tencent/ncnn,C++,274
 104231541,abseil/abseil-cpp,C++,161
@@ -20,7 +20,7 @@ id,name,lang,new stars
 46374199,IntelRealSense/librealsense,C++,142
 98470332,sebastianstarke/AI4Animation,C++,410
 5909706,yhirose/cpp-httplib,C++,252
-131236938,an-tao/drogon,C++,349
+131236938,an-tao/drogon,C++,350
 267792621,Tencent/TNN,C++,692
 52400453,IntelRealSense/realsense-ros,C++,38
-193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,74
+193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,75

@@ -1,15 +1,15 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1175
-20580498,kubernetes/kubernetes,Go,1178
+23096959,golang/go,Go,1177
+20580498,kubernetes/kubernetes,Go,1180
 21540759,avelino/awesome-go,Go,942
-20904437,gin-gonic/gin,Go,1045
-6838921,prometheus/prometheus,Go,596
+20904437,gin-gonic/gin,Go,1046
+6838921,prometheus/prometheus,Go,606
 41986369,pingcap/tidb,Go,374
 74175805,istio/istio,Go,428
 17728164,hashicorp/terraform,Go,440
 8989842,unknwon/the-way-to-go_ZH_CN,Go,450
 27729907,grpc/grpc-go,Go,301
-131371773,hoanhan101/ultimate-go,Go,1531
+131371773,hoanhan101/ultimate-go,Go,1532
 136815833,Dreamacro/clash,Go,714
 11593442,golang/groupcache,Go,145
 44344606,go-chi/chi,Go,209
