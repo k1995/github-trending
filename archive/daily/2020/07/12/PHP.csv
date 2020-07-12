@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,112
+1863329,laravel/laravel,PHP,113
 3482588,danielmiessler/SecLists,PHP,25
-2579314,fzaninotto/Faker,PHP,6
+2579314,fzaninotto/Faker,PHP,7
 2246815,domnikl/DesignPatternsPHP,PHP,6
 2234102,bcit-ci/CodeIgniter,PHP,5
 1631570,nikic/PHP-Parser,PHP,13
@@ -18,9 +18,9 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,2
 679584,openemr/openemr,PHP,4
 86987524,WWBN/AVideo,PHP,1
-74026995,CodelyTV/php-ddd-example,PHP,8
+74026995,CodelyTV/php-ddd-example,PHP,9
 129852395,assimon/dujiaoka,PHP,4
 156607803,hestiacp/hestiacp,PHP,7
 211234387,avi7611/oscp,PHP,54
-278364232,beyondcode/github-now,PHP,27
+278364232,beyondcode/github-now,PHP,26
 278623491,sebastianbergmann/complexity,PHP,46

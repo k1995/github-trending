@@ -1,7 +1,7 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,62
+45717250,tensorflow/tensorflow,C++,63
 1181927,bitcoin/bitcoin,C++,16
-65600975,pytorch/pytorch,C++,40
+65600975,pytorch/pytorch,C++,39
 67702184,topjohnwu/Magisk,C++,37
 32969220,esp8266/Arduino,C++,10
 116167731,yuzu-emu/yuzu,C++,18
@@ -11,7 +11,7 @@ id,name,lang,new stars
 75821432,llvm/llvm-project,C++,21
 192025001,Qv2ray/Qv2ray,C++,31
 5298790,PX4/Firmware,C++,4
-82815770,acidanthera/Lilu,C++,7
+82815770,acidanthera/Lilu,C++,6
 53357782,acidanthera/AppleALC,C++,7
 131236938,an-tao/drogon,C++,84
 98471367,acidanthera/WhateverGreen,C++,9
