@@ -1,14 +1,14 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,33
+65252,jekyll/jekyll,Ruby,35
 8681349,huginn/huginn,Ruby,70
 2500088,gitlabhq/gitlabhq,Ruby,5
-53238813,Homebrew/brew,Ruby,54
-52281283,tootsuite/mastodon,Ruby,34
+53238813,Homebrew/brew,Ruby,57
+52281283,tootsuite/mastodon,Ruby,36
 538746,ruby/ruby,Ruby,21
-73648678,thepracticaldev/dev.to,Ruby,68
+73648678,thepracticaldev/dev.to,Ruby,70
 911765,diaspora/diaspora,Ruby,7
 4095287,rubocop-hq/rubocop,Ruby,1
-1918677,fluent/fluentd,Ruby,9
+1918677,fluent/fluentd,Ruby,10
 11423758,mame/quine-relay,Ruby,37
 96395,faker-ruby/faker,Ruby,6
 275604,resque/resque,Ruby,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 35051828,dev-sec/ansible-os-hardening,Ruby,7
 79951574,Homebrew/homebrew-cask-drivers,Ruby,3
 272627449,k0kubun/rspec-openapi,Ruby,6
-278320564,julianrubisch/futurism,Ruby,22
+278320564,julianrubisch/futurism,Ruby,24
