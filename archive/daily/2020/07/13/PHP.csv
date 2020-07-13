@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,149
+1863329,laravel/laravel,PHP,146
 3482588,danielmiessler/SecLists,PHP,42
 2579314,fzaninotto/Faker,PHP,9
 2246815,domnikl/DesignPatternsPHP,PHP,9
@@ -13,7 +13,7 @@ id,name,lang,new stars
 95011974,akaunting/akaunting,PHP,11
 41463886,codeigniter4/CodeIgniter4,PHP,6
 1017748,ThingEngineer/PHP-MySQLi-Database-Class,PHP,4
-148129143,bagisto/bagisto,PHP,7
+148129143,bagisto/bagisto,PHP,8
 80249302,craftcms/cms,PHP,6
 69691727,pmmp/PocketMine-MP,PHP,4
 679584,openemr/openemr,PHP,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 74026995,CodelyTV/php-ddd-example,PHP,11
 129852395,assimon/dujiaoka,PHP,4
 156607803,hestiacp/hestiacp,PHP,8
-211234387,avi7611/oscp,PHP,56
 278364232,beyondcode/github-now,PHP,32
+211234387,avi7611/oscp,PHP,56
 278623491,sebastianbergmann/complexity,PHP,56
