@@ -1,19 +1,19 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1164
-20580498,kubernetes/kubernetes,Go,1148
-21540759,avelino/awesome-go,Go,916
-20904437,gin-gonic/gin,Go,1034
-6838921,prometheus/prometheus,Go,629
-41986369,pingcap/tidb,Go,361
-74175805,istio/istio,Go,429
-17728164,hashicorp/terraform,Go,416
+23096959,golang/go,Go,1165
+20580498,kubernetes/kubernetes,Go,1149
+21540759,avelino/awesome-go,Go,917
+20904437,gin-gonic/gin,Go,1036
+6838921,prometheus/prometheus,Go,630
+41986369,pingcap/tidb,Go,362
+74175805,istio/istio,Go,430
+17728164,hashicorp/terraform,Go,417
 8989842,unknwon/the-way-to-go_ZH_CN,Go,437
 26337322,rancher/rancher,Go,233
 27729907,grpc/grpc-go,Go,287
 131371773,hoanhan101/ultimate-go,Go,1551
-136815833,Dreamacro/clash,Go,713
+136815833,Dreamacro/clash,Go,762
 44344606,go-chi/chi,Go,200
-234231371,gofiber/fiber,Go,814
+234231371,gofiber/fiber,Go,816
 26661222,tinode/chat,Go,1232
 68964263,coreos/prometheus-operator,Go,120
 130430977,kubesphere/kubesphere,Go,266
@@ -22,5 +22,5 @@ id,name,lang,new stars
 125275487,kubernetes-sigs/kubebuilder,Go,96
 160272948,chai2010/go-ast-book,Go,767
 243518322,douyu/jupiter,Go,679
-113219518,filecoin-project/go-filecoin,Go,57
-193681111,filecoin-project/lotus,Go,79
+113219518,filecoin-project/go-filecoin,Go,56
+193681111,filecoin-project/lotus,Go,80
