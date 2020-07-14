@@ -1,26 +1,26 @@
 id,name,lang,new stars
-11730342,vuejs/vue,JavaScript,2320
+11730342,vuejs/vue,JavaScript,2310
 20580498,kubernetes/kubernetes,Go,1163
-6296790,spring-projects/spring-boot,Java,815
-18408635,chrislgarry/Apollo-11,Assembly,898
+6296790,spring-projects/spring-boot,Java,804
+18408635,chrislgarry/Apollo-11,Assembly,890
 156018,redis/redis,C,730
-138839979,scutan90/DeepLearning-500-questions,,1371
-127988011,macrozheng/mall,Java,2423
-71995937,nuxt/nuxt.js,JavaScript,687
-17165658,apache/spark,Scala,424
-158336675,LingCoder/OnJava8,,2161
-159194100,fengdu78/lihang-code,Jupyter Notebook,729
-145670234,open-mmlab/mmdetection,Python,592
-104231541,abseil/abseil-cpp,C++,173
-148496687,YunaiV/SpringBoot-Labs,Java,1664
-266613704,dabeaz-course/practical-python,Python,3023
-98103322,zhoutaoo/SpringCloud,Java,480
-179354282,acidanthera/OpenCorePkg,C,747
-264818686,ultralytics/yolov5,Jupyter Notebook,1492
-160272948,chai2010/go-ast-book,Go,786
-243518322,douyu/jupiter,Go,683
-268027139,corona-warn-app/cwa-app-android,Kotlin,1082
-252248456,jackfrued/Python-Core-50-Courses,,709
-223149691,nzw9314/QuantumultX,,251
-268042230,corona-warn-app/cwa-app-ios,Swift,698
+65600975,pytorch/pytorch,C++,839
+138839979,scutan90/DeepLearning-500-questions,,1375
+127988011,macrozheng/mall,Java,2416
+17165658,apache/spark,Scala,423
+31522041,vnpy/vnpy,C++,387
+158336675,LingCoder/OnJava8,,2166
+159194100,fengdu78/lihang-code,Jupyter Notebook,733
+77912349,qianguyihao/Web,JavaScript,422
+151619717,google-research/google-research,Jupyter Notebook,964
+145670234,open-mmlab/mmdetection,Python,586
+104231541,abseil/abseil-cpp,C++,174
+148496687,YunaiV/SpringBoot-Labs,Java,1666
+266613704,dabeaz-course/practical-python,Python,3024
+98103322,zhoutaoo/SpringCloud,Java,479
+179354282,acidanthera/OpenCorePkg,C,719
+264818686,ultralytics/yolov5,Jupyter Notebook,1431
+243518322,douyu/jupiter,Go,684
+268027139,corona-warn-app/cwa-app-android,Kotlin,1077
+268042230,corona-warn-app/cwa-app-ios,Swift,696
 262149353,corona-warn-app/cwa-website,CSS,282
