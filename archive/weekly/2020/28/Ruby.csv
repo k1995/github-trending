@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,158
+8681349,huginn/huginn,Ruby,159
 21600440,bayandin/awesome-awesomeness,Ruby,61
 13840241,freeCodeCamp/devdocs,Ruby,62
 53238813,Homebrew/brew,Ruby,125
-52281283,tootsuite/mastodon,Ruby,82
-2293158,rapid7/metasploit-framework,Ruby,62
-308770,heartcombo/devise,Ruby,24
+52281283,tootsuite/mastodon,Ruby,78
+2293158,rapid7/metasploit-framework,Ruby,61
+308770,heartcombo/devise,Ruby,23
 538746,ruby/ruby,Ruby,37
-73648678,forem/forem,Ruby,113
+73648678,forem/forem,Ruby,128
 3195124,mperham/sidekiq,Ruby,16
 11423758,mame/quine-relay,Ruby,54
 275604,resque/resque,Ruby,7
-129791,javan/whenever,Ruby,9
-52855516,Homebrew/homebrew-core,Ruby,54
+129791,javan/whenever,Ruby,8
+52855516,Homebrew/homebrew-core,Ruby,53
 18486300,lewagon/setup,Ruby,95
 6529205,varvet/pundit,Ruby,13
 355893,github/markup,Ruby,12
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1734,aasm/aasm,Ruby,8
 52316423,luggit/react-native-config,Ruby,15
 21333814,lynndylanhurley/devise_token_auth,Ruby,2
-1172597,thoughtbot/shoulda-matchers,Ruby,9
-11426474,github/choosealicense.com,Ruby,12
+1172597,thoughtbot/shoulda-matchers,Ruby,10
+11426474,github/choosealicense.com,Ruby,13
 93163073,dependabot/dependabot-core,Ruby,9
