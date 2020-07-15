@@ -1,10 +1,10 @@
 id,name,lang,new stars
 52631841,gothinkster/realworld,JavaScript,761
-138839979,scutan90/DeepLearning-500-questions,,814
+138839979,scutan90/DeepLearning-500-questions,,649
 29261473,minio/minio,Go,121
 146633589,alibaba/arthas,Java,143
 31629751,cypress-io/cypress,JavaScript,442
-7548986,laravel/framework,PHP,68
+7548986,laravel/framework,PHP,77
 136026789,iperov/DeepFaceLab,Python,941
 80276391,GitSquared/edex-ui,JavaScript,1288
 211124697,deezer/spleeter,Python,547
@@ -14,13 +14,13 @@ id,name,lang,new stars
 163721192,zhisheng17/flink-learning,Java,109
 236095576,spotify/backstage,TypeScript,752
 42304749,apache/shardingsphere-elasticjob,Java,157
-196701619,tauri-apps/tauri,Rust,1467
-63197378,guipsamora/pandas_exercises,Jupyter Notebook,106
-269137265,google/tsunami-security-scanner,Java,3326
+196701619,tauri-apps/tauri,Rust,1361
+63197378,guipsamora/pandas_exercises,Jupyter Notebook,192
+269137265,google/tsunami-security-scanner,Java,3289
 144664950,HackerPoet/NonEuclidean,C++,430
 205679232,flipped-aurora/gin-vue-admin,Go,415
-250213286,huggingface/nlp,Python,973
+250213286,huggingface/nlp,Python,992
 224109382,ant-design-blazor/ant-design-blazor,C#,203
-241659610,OpenIntelWireless/itlwm,C,87
-261898494,google/skywater-pdk,Python,317
+241659610,OpenIntelWireless/itlwm,C,86
+261898494,google/skywater-pdk,Python,301
 237867883,metersphere/metersphere,Java,151
