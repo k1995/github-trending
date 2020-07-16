@@ -3,7 +3,7 @@ id,name,lang,new stars
 3638964,ansible/ansible,Python,18
 858127,pandas-dev/pandas,Python,19
 15045751,docker/compose,Python,14
-160919119,tiangolo/fastapi,Python,197
+160919119,tiangolo/fastapi,Python,159
 33884891,apache/airflow,Python,16
 71220757,swisskyrepo/PayloadsAllTheThings,Python,35
 43160685,zulip/zulip,Python,5
@@ -20,7 +20,7 @@ id,name,lang,new stars
 249301266,geohot/corona,Python,14
 162405963,gradio-app/gradio,Python,65
 225979578,talkpython/python-for-absolute-beginners-course,Python,33
-279019603,ChoudharyChanchal/game_control,Python,131
+279019603,ChoudharyChanchal/game_control,Python,115
 273084758,elastic/detection-rules,Python,6
 216914329,elyra-ai/elyra,Python,13
 279482634,ncic-sugon/OODA-FLOW-Gene-Pipeline,Python,15
