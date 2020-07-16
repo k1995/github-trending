@@ -1,21 +1,21 @@
 id,name,lang,new stars
 14812739,libuv/libuv,C,41
-908607,numpy/numpy,C,74
-201454051,Awesome-HarmonyOS/HarmonyOS,C,29
-6201092,mpv-player/mpv,C,76
-29759715,facebook/zstd,C,39
+908607,numpy/numpy,C,75
+201454051,Awesome-HarmonyOS/HarmonyOS,C,30
+6201092,mpv-player/mpv,C,79
+29759715,facebook/zstd,C,41
 102578345,coolsnowwolf/lede,C,107
 5254557,cloudwu/skynet,C,27
 28515839,skywind3000/kcp,C,35
-105627846,reactos/reactos,C,34
+105627846,reactos/reactos,C,35
 45821540,openwrt/openwrt,C,37
-65899476,espressif/esp-idf,C,36
+65899476,espressif/esp-idf,C,38
 70127218,espressif/arduino-esp32,C,38
 62994219,antirez/kilo,C,63
 6376337,pocoproject/poco,C,26
-16734696,meetecho/janus-gateway,C,37
-184909163,koekeishiya/yabai,C,73
-60667730,lvgl/lvgl,C,64
+16734696,meetecho/janus-gateway,C,36
+184909163,koekeishiya/yabai,C,70
+60667730,lvgl/lvgl,C,65
 128791889,haproxy/haproxy,C,37
 241659610,OpenIntelWireless/itlwm,C,90
 151870364,Lienol/openwrt-package,C,20
@@ -23,4 +23,4 @@ id,name,lang,new stars
 148246803,FantasticLBP/knowledge-kit,C,57
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,11
 211756905,MarlinFirmware/Configurations,C,8
-202286916,Xinyuan-LilyGO/TTGO_TWatch_Library,C,17
+202286916,Xinyuan-LilyGO/TTGO_TWatch_Library,C,16
