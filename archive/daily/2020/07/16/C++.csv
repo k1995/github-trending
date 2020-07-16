@@ -4,8 +4,8 @@ id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,22
 65600975,pytorch/pytorch,C++,36
 27729880,grpc/grpc,C++,19
-11171548,nlohmann/json,C++,21
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,16
+11171548,nlohmann/json,C++,20
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,19
 6934395,facebook/rocksdb,C++,14
 19953044,google/flatbuffers,C++,8
 126412363,simdjson/simdjson,C++,13

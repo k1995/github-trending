@@ -1,7 +1,7 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,8
-7548986,laravel/framework,PHP,19
-2253830,PHPMailer/PHPMailer,PHP,12
+7548986,laravel/framework,PHP,14
+2253830,PHPMailer/PHPMailer,PHP,11
 3431193,yiisoft/yii2,PHP,4
 60243197,nextcloud/server,PHP,11
 14732311,octobercms/october,PHP,8
@@ -19,8 +19,8 @@ id,name,lang,new stars
 2464908,joomla/joomla-cms,PHP,3
 100355112,yansongda/pay,PHP,2
 3601728,hwi/HWIOAuthBundle,PHP,1
-52319036,passbolt/passbolt_api,PHP,140
+52319036,passbolt/passbolt_api,PHP,41
 12769892,mk-j/PHP_XLSXWriter,PHP,4
 131995661,shopware/platform,PHP,2
-279739423,Licoy/wordpress-theme-puock,PHP,76
-225117985,JunaidQadirB/cray,PHP,19
+279739423,Licoy/wordpress-theme-puock,PHP,40
+225117985,JunaidQadirB/cray,PHP,18
