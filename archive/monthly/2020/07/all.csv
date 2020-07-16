@@ -1,26 +1,26 @@
 id,name,lang,new stars
-11730342,vuejs/vue,JavaScript,2319
-121395510,CyC2018/CS-Notes,Java,2837
+11730342,vuejs/vue,JavaScript,2323
 20580498,kubernetes/kubernetes,Go,1174
-6296790,spring-projects/spring-boot,Java,796
-18408635,chrislgarry/Apollo-11,Assembly,840
-156018,redis/redis,C,742
-65600975,pytorch/pytorch,C++,838
-138839979,scutan90/DeepLearning-500-questions,,1467
-127988011,macrozheng/mall,Java,2367
-71995937,nuxt/nuxt.js,JavaScript,685
-17165658,apache/spark,Scala,434
-158336675,LingCoder/OnJava8,,2265
-159194100,fengdu78/lihang-code,Jupyter Notebook,763
-77912349,qianguyihao/Web,JavaScript,478
+18408635,chrislgarry/Apollo-11,Assembly,841
+156018,redis/redis,C,743
+65600975,pytorch/pytorch,C++,839
+138839979,scutan90/DeepLearning-500-questions,,1476
+127988011,macrozheng/mall,Java,2370
+71995937,nuxt/nuxt.js,JavaScript,688
+17165658,apache/spark,Scala,433
+158336675,LingCoder/OnJava8,,2267
+159194100,fengdu78/lihang-code,Jupyter Notebook,767
+77912349,qianguyihao/Web,JavaScript,485
 151619717,google-research/google-research,Jupyter Notebook,993
-104231541,abseil/abseil-cpp,C++,185
-148496687,YunaiV/SpringBoot-Labs,Java,1673
+204086862,streamlit/streamlit,TypeScript,961
+104231541,abseil/abseil-cpp,C++,184
+148496687,YunaiV/SpringBoot-Labs,Java,1674
+181042062,utmapp/UTM,Objective-C,336
 266613704,dabeaz-course/practical-python,Python,3046
-170355508,livewire/livewire,PHP,712
-98103322,zhoutaoo/SpringCloud,Java,485
-179354282,acidanthera/OpenCorePkg,C,618
-264818686,ultralytics/yolov5,Jupyter Notebook,1259
-206397095,facebookresearch/pifuhd,Python,2255
-243518322,douyu/jupiter,Go,681
-268027139,corona-warn-app/cwa-app-android,Kotlin,983
+170355508,livewire/livewire,PHP,715
+98103322,zhoutaoo/SpringCloud,Java,487
+179354282,acidanthera/OpenCorePkg,C,615
+265645902,adamian98/pulse,Python,3005
+264818686,ultralytics/yolov5,Jupyter Notebook,1255
+206397095,facebookresearch/pifuhd,Python,2239
+252248456,jackfrued/Python-Core-50-Courses,,707
