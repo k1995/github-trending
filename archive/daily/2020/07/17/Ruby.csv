@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,16
-13840241,freeCodeCamp/devdocs,Ruby,9
-53238813,Homebrew/brew,Ruby,24
-2500088,gitlabhq/gitlabhq,Ruby,4
-52281283,tootsuite/mastodon,Ruby,27
-308770,heartcombo/devise,Ruby,4
-481872,hashicorp/vagrant,Ruby,8
+13840241,freeCodeCamp/devdocs,Ruby,10
+53238813,Homebrew/brew,Ruby,23
+2500088,gitlabhq/gitlabhq,Ruby,3
+52281283,tootsuite/mastodon,Ruby,25
+308770,heartcombo/devise,Ruby,5
+481872,hashicorp/vagrant,Ruby,11
 2203645,CocoaPods/CocoaPods,Ruby,6
-1090311,elastic/logstash,Ruby,2
-4095287,rubocop-hq/rubocop,Ruby,2
-3314,spree/spree,Ruby,2
+1090311,elastic/logstash,Ruby,1
+4095287,rubocop-hq/rubocop,Ruby,1
+3314,spree/spree,Ruby,3
 11423758,mame/quine-relay,Ruby,12
 361310,teamcapybara/capybara,Ruby,1
 812393,ruby-grape/grape,Ruby,5
@@ -18,9 +18,9 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,1
 839336,colszowka/simplecov,Ruby,1
 6899875,opf/openproject,Ruby,3
-30985840,solidusio/solidus,Ruby,2
+30985840,solidusio/solidus,Ruby,3
 93163073,dependabot/dependabot-core,Ruby,2
 49878403,zendesk/ruby-kafka,Ruby,1
-51515624,stelligent/cfn_nag,Ruby,2
-141314250,rubycdp/cuprite,Ruby,14
+51515624,stelligent/cfn_nag,Ruby,1
+141314250,rubycdp/cuprite,Ruby,15
 128265535,GoogleCloudPlatform/click-to-deploy,Ruby,0

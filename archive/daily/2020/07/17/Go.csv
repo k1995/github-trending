@@ -3,7 +3,7 @@ id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,51
 138547797,FiloSottile/mkcert,Go,29
 31288958,hashicorp/vault,Go,7
-46806184,helm/charts,Go,8
+46806184,helm/charts,Go,11
 6247705,stretchr/testify,Go,13
 16554739,elastic/beats,Go,6
 33258973,influxdata/telegraf,Go,8
@@ -22,5 +22,5 @@ id,name,lang,new stars
 58184885,kubernetes/kube-state-metrics,Go,4
 92132038,kubernetes-sigs/metrics-server,Go,5
 206213815,chaos-mesh/chaos-mesh,Go,7
-93446042,terraform-providers/terraform-provider-azurerm,Go,8
+93446042,terraform-providers/terraform-provider-azurerm,Go,5
 84610043,kubernetes-sigs/aws-alb-ingress-controller,Go,1
