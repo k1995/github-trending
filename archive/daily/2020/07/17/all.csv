@@ -1,26 +1,26 @@
 id,name,lang,new stars
-2126244,twbs/bootstrap,JavaScript,137
-15204860,papers-we-love/papers-we-love,Shell,320
-55076063,Hack-with-Github/Awesome-Hacking,,388
-9393759,photonstorm/phaser,JavaScript,43
-33569135,ReactiveX/RxSwift,Swift,20
-21515044,academic/awesome-datascience,,99
-250213286,huggingface/nlp,Python,184
-264870386,openai/gpt-3,,119
+85077558,kamranahmedse/developer-roadmap,,292
+167174,jquery/jquery,JavaScript,13
+23357588,protocolbuffers/protobuf,C++,29
+15204860,papers-we-love/papers-we-love,Shell,281
+55076063,Hack-with-Github/Awesome-Hacking,,389
+261787758,bradtraversy/design-resources-for-developers,,110
+21515044,academic/awesome-datascience,,100
+54168759,SergioBenitez/Rocket,Rust,75
+102343794,apache/incubator-brpc,C++,14
+147656990,myliang/x-spreadsheet,JavaScript,498
+162608338,FavioVazquez/ds-cheatsheets,,25
+136380207,microsoft/QuantumKatas,Jupyter Notebook,17
 32887098,googleapis/googleapis,Starlark,114
 278296523,kautukkundan/Awesome-Profile-README-templates,JavaScript,572
-115516512,ivanpaulovich/clean-architecture-manga,C#,157
+93372410,MrMimic/data-scientist-roadmap,Python,39
 278740276,gaearon/whatthefuck.is,CSS,516
-260627194,erluxman/awesomefluttertips,Dart,120
+52095564,openid/AppAuth-Android,Java,14
+262296122,PaddlePaddle/PaddleOCR,C++,175
+208362715,adobe/react-spectrum,TypeScript,327
 255558345,fuzhengwei/CodeGuide,,161
-162405963,gradio-app/gradio,Python,148
-125720928,microsoft/Microsoft-threat-protection-Hunting-Queries,Jupyter Notebook,28
-237211286,basir/node-react-ecommerce,JavaScript,76
+279702593,francisrstokes/super-expressive,JavaScript,337
+162405963,gradio-app/gradio,Python,149
 279064706,abhisheknaiidu/awesome-github-profile-readme,JavaScript,177
-279019603,ChoudharyChanchal/game_control,Python,94
-278755524,JakeWharton/adb-event-mirror,Kotlin,99
-259488034,TowhidKashem/snapchat-clone,TypeScript,119
-232112863,RandalLinden/DOOM-FX,Assembly,95
-95291041,GuidoBartoli/sherloq,Perl,45
-255553208,x2rr/funds,Vue,31
-279183474,LetsUpgrade/Javascript-Essentials,JavaScript,51
+259488034,TowhidKashem/snapchat-clone,TypeScript,122
+261925766,calebstewart/pwncat,Python,43
