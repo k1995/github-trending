@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,308
-2579314,fzaninotto/Faker,PHP,105
-7548986,laravel/framework,PHP,76
+1863329,laravel/laravel,PHP,307
+2579314,fzaninotto/Faker,PHP,106
+7548986,laravel/framework,PHP,82
 2246815,domnikl/DesignPatternsPHP,PHP,48
-2253830,PHPMailer/PHPMailer,PHP,51
+2253830,PHPMailer/PHPMailer,PHP,52
 3431193,yiisoft/yii2,PHP,22
 1631570,nikic/PHP-Parser,PHP,49
-8678290,barryvdh/laravel-ide-helper,PHP,40
+8678290,barryvdh/laravel-ide-helper,PHP,39
 48796179,z-song/laravel-admin,PHP,39
 15020102,walkor/Workerman,PHP,27
 42480275,spatie/laravel-permission,PHP,37
@@ -15,12 +15,12 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,18
 9131292,jenssegers/laravel-mongodb,PHP,19
 33916850,spatie/laravel-medialibrary,PHP,18
-74386167,vimeo/psalm,PHP,35
+74386167,vimeo/psalm,PHP,31
 159606650,hyperf/hyperf,PHP,28
 148129143,bagisto/bagisto,PHP,25
-47508644,pterodactyl/panel,PHP,11
+47508644,pterodactyl/panel,PHP,12
 49680187,Bottelet/DaybydayCRM,PHP,99
-153069455,collabnix/dockerlabs,PHP,30
+153069455,collabnix/dockerlabs,PHP,31
 166299071,stancl/tenancy,PHP,31
 156607803,hestiacp/hestiacp,PHP,24
 252225686,s-cart/s-cart,PHP,17
