@@ -1,18 +1,18 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,75
-8681349,huginn/huginn,Ruby,131
-13840241,freeCodeCamp/devdocs,Ruby,54
-53238813,Homebrew/brew,Ruby,117
-52281283,tootsuite/mastodon,Ruby,82
-308770,heartcombo/devise,Ruby,27
+65252,jekyll/jekyll,Ruby,76
+8681349,huginn/huginn,Ruby,129
+13840241,freeCodeCamp/devdocs,Ruby,55
+53238813,Homebrew/brew,Ruby,116
+52281283,tootsuite/mastodon,Ruby,84
+308770,heartcombo/devise,Ruby,29
 37382858,kilimchoi/engineering-blogs,Ruby,25
-538746,ruby/ruby,Ruby,40
+538746,ruby/ruby,Ruby,42
 73648678,forem/forem,Ruby,174
 2336578,twbs/bootstrap-sass,Ruby,4
 11423758,mame/quine-relay,Ruby,67
 129791,javan/whenever,Ruby,6
 52855516,Homebrew/homebrew-core,Ruby,48
-451035,heartcombo/simple_form,Ruby,9
+451035,heartcombo/simple_form,Ruby,10
 6529205,varvet/pundit,Ruby,11
 355893,github/markup,Ruby,12
 33739333,thoughtbot/administrate,Ruby,9
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1734,aasm/aasm,Ruby,9
 30985840,solidusio/solidus,Ruby,16
 52316423,luggit/react-native-config,Ruby,12
-17204381,ankane/ahoy,Ruby,14
+17204381,ankane/ahoy,Ruby,13
 1172597,thoughtbot/shoulda-matchers,Ruby,9
 93163073,dependabot/dependabot-core,Ruby,7
