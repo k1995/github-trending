@@ -1,11 +1,11 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,28
-17620347,dotnet/aspnetcore,C#,20
-70104825,dotnet-architecture/eShopOnContainers,C#,12
-29078997,dotnet/roslyn,C#,6
-16157746,dotnet/efcore,C#,4
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,10
-143460965,GoogleCloudPlatform/microservices-demo,C#,15
+17620347,dotnet/aspnetcore,C#,19
+70104825,dotnet-architecture/eShopOnContainers,C#,13
+29078997,dotnet/roslyn,C#,5
+16157746,dotnet/efcore,C#,5
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,9
+143460965,GoogleCloudPlatform/microservices-demo,C#,13
 28239455,dotnet/AspNetCore.Docs,C#,11
 1135454,cefsharp/CefSharp,C#,6
 132021166,dotnet/machinelearning,C#,3
@@ -17,9 +17,9 @@ id,name,lang,new stars
 142480903,microsoft/microsoft-ui-xaml,C#,8
 68730444,microsoft/BotBuilder-Samples,C#,3
 121049045,skoruba/IdentityServer4.Admin,C#,1
-115516512,ivanpaulovich/clean-architecture-manga,C#,119
+115516512,ivanpaulovich/clean-architecture-manga,C#,120
 150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,3
-72554578,confluentinc/confluent-kafka-dotnet,C#,4
+72554578,confluentinc/confluent-kafka-dotnet,C#,3
 155757874,microsoft/Xaml-Controls-Gallery,C#,1
 157837637,pnp/sp-dev-modernization,C#,0
 257738951,dotnet/crank,C#,23

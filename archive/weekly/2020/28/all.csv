@@ -1,26 +1,26 @@
 id,name,lang,new stars
-52631841,gothinkster/realworld,JavaScript,819
+52631841,gothinkster/realworld,JavaScript,785
 7548986,laravel/framework,PHP,83
-136026789,iperov/DeepFaceLab,Python,725
-80276391,GitSquared/edex-ui,JavaScript,434
-211124697,deezer/spleeter,Python,638
-67702184,topjohnwu/Magisk,C++,235
+136026789,iperov/DeepFaceLab,Python,703
+80276391,GitSquared/edex-ui,JavaScript,422
+211124697,deezer/spleeter,Python,637
+67702184,topjohnwu/Magisk,C++,231
 41889031,TeamNewPipe/NewPipe,Java,63
 42304749,apache/shardingsphere-elasticjob,Java,114
-247266215,JaidedAI/EasyOCR,Python,1678
-269137265,google/tsunami-security-scanner,Java,2160
+247266215,JaidedAI/EasyOCR,Python,1606
+269137265,google/tsunami-security-scanner,Java,2038
 72685026,MicrosoftDocs/azure-docs,PowerShell,97
-254832799,Z4nzu/hackingtool,Python,2825
-205679232,flipped-aurora/gin-vue-admin,Go,492
-20280681,rickbergfalk/sqlpad,JavaScript,163
-250213286,huggingface/nlp,Python,1222
-32887098,googleapis/googleapis,Starlark,244
-261515636,matplotlib/cheatsheets,Python,806
-115516512,ivanpaulovich/clean-architecture-manga,C#,358
-224109382,ant-design-blazor/ant-design-blazor,C#,227
-127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,275
-192786158,VMadalin/android-modular-architecture,Kotlin,88
-262296122,PaddlePaddle/PaddleOCR,C++,376
+254832799,Z4nzu/hackingtool,Python,2752
+205679232,flipped-aurora/gin-vue-admin,Go,493
+20280681,rickbergfalk/sqlpad,JavaScript,165
+250213286,huggingface/nlp,Python,1226
+32887098,googleapis/googleapis,Starlark,267
+261515636,matplotlib/cheatsheets,Python,795
+115516512,ivanpaulovich/clean-architecture-manga,C#,361
+224109382,ant-design-blazor/ant-design-blazor,C#,229
+127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,268
+192786158,VMadalin/android-modular-architecture,Kotlin,85
+262296122,PaddlePaddle/PaddleOCR,C++,445
 237211286,basir/node-react-ecommerce,JavaScript,396
-272821486,gskinnerTeam/flokk,Dart,193
-269394176,google/tsunami-security-scanner-plugins,Java,199
+272821486,gskinnerTeam/flokk,Dart,177
+269394176,google/tsunami-security-scanner-plugins,Java,190
