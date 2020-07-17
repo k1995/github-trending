@@ -1,6 +1,6 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,74
-156018,redis/redis,C,17
+2325298,torvalds/linux,C,76
+156018,redis/redis,C,18
 1903522,php/php-src,C,15
 18666758,pjreddie/darknet,C,11
 1482997,phpredis/phpredis,C,3
@@ -16,7 +16,7 @@ id,name,lang,new stars
 49995295,shellphish/how2heap,C,0
 13484625,Netflix/dynomite,C,6
 59771425,zephyrproject-rtos/zephyr,C,2
-8270972,ARMmbed/mbed-os,C,2
+8270972,ARMmbed/mbed-os,C,3
 114948816,uber/h3,C,8
 110170439,aws/amazon-freertos,C,6
 195445651,thestr4ng3r/chiaki,C,2
