@@ -1,26 +1,26 @@
 id,name,lang,new stars
-52631841,gothinkster/realworld,JavaScript,703
-7548986,laravel/framework,PHP,87
-136026789,iperov/DeepFaceLab,Python,652
-80276391,GitSquared/edex-ui,JavaScript,417
-211124697,deezer/spleeter,Python,646
-67702184,topjohnwu/Magisk,C++,228
-41889031,TeamNewPipe/NewPipe,Java,204
-42304749,apache/shardingsphere-elasticjob,Java,94
-247266215,JaidedAI/EasyOCR,Python,1443
-269137265,google/tsunami-security-scanner,Java,1785
-72685026,MicrosoftDocs/azure-docs,PowerShell,81
-254832799,Z4nzu/hackingtool,Python,2481
-205679232,flipped-aurora/gin-vue-admin,Go,493
-20280681,rickbergfalk/sqlpad,JavaScript,151
+52631841,gothinkster/realworld,JavaScript,705
+211124697,deezer/spleeter,Python,649
+77912349,qianguyihao/Web,JavaScript,188
+54168759,SergioBenitez/Rocket,Rust,312
+41889031,TeamNewPipe/NewPipe,Java,229
+178626720,PyTorchLightning/pytorch-lightning,Python,286
+738491,facebook/facebook-ios-sdk,Objective-C,59
+269137265,google/tsunami-security-scanner,Java,1793
+63197378,guipsamora/pandas_exercises,Jupyter Notebook,204
+254832799,Z4nzu/hackingtool,Python,2483
+54972769,QUANTAXIS/QUANTAXIS,Python,63
+205679232,flipped-aurora/gin-vue-admin,Go,496
+20280681,rickbergfalk/sqlpad,JavaScript,152
+180481986,apache/incubator-apisix,Lua,115
 250213286,huggingface/nlp,Python,1225
-32887098,googleapis/googleapis,Starlark,348
-261515636,matplotlib/cheatsheets,Python,724
-115516512,ivanpaulovich/clean-architecture-manga,C#,368
-224109382,ant-design-blazor/ant-design-blazor,C#,231
-127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,244
-262296122,PaddlePaddle/PaddleOCR,C++,643
-192786158,VMadalin/android-modular-architecture,Kotlin,75
-237211286,basir/node-react-ecommerce,JavaScript,399
-269394176,google/tsunami-security-scanner-plugins,Java,165
-272821486,gskinnerTeam/flokk,Dart,133
+32887098,googleapis/googleapis,Starlark,363
+261515636,matplotlib/cheatsheets,Python,731
+115516512,ivanpaulovich/clean-architecture-manga,C#,369
+278328681,Dimillian/RedditOS,Swift,1422
+127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,247
+262296122,PaddlePaddle/PaddleOCR,C++,692
+111455867,smartcontractkit/chainlink,Go,34
+247659028,KFCFans/PowerJob,Java,123
+237211286,basir/node-react-ecommerce,JavaScript,400
+269394176,google/tsunami-security-scanner-plugins,Java,166
