@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,43
+20580498,kubernetes/kubernetes,Go,35
+138547797,FiloSottile/mkcert,Go,23
+31288958,hashicorp/vault,Go,7
+46806184,helm/charts,Go,12
+6247705,stretchr/testify,Go,12
+16554739,elastic/beats,Go,9
+33258973,influxdata/telegraf,Go,7
+21405028,ardanlabs/gotraining,Go,13
+27051771,golang/protobuf,Go,4
+36653430,hashicorp/nomad,Go,5
+10270722,google/go-github,Go,2
+100982449,argoproj/argo,Go,13
+62799996,fluxcd/flux,Go,13
+93444615,terraform-providers/terraform-provider-aws,Go,8
+37334619,golang/mock,Go,11
+75190736,openark/orchestrator,Go,5
+47859258,goplus/gop,Go,44
+67793333,cortexproject/cortex,Go,4
+43225113,mikefarah/yq,Go,8
+58184885,kubernetes/kube-state-metrics,Go,3
+92132038,kubernetes-sigs/metrics-server,Go,6
+206213815,chaos-mesh/chaos-mesh,Go,12
+93446042,terraform-providers/terraform-provider-azurerm,Go,5
+84610043,kubernetes-sigs/aws-alb-ingress-controller,Go,4

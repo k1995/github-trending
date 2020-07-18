@@ -1,26 +1,26 @@
 id,name,lang,new stars
-52631841,gothinkster/realworld,JavaScript,707
-7548986,laravel/framework,PHP,82
-136026789,iperov/DeepFaceLab,Python,673
+52631841,gothinkster/realworld,JavaScript,705
+7548986,laravel/framework,PHP,87
+136026789,iperov/DeepFaceLab,Python,656
 80276391,GitSquared/edex-ui,JavaScript,416
 211124697,deezer/spleeter,Python,640
-67702184,topjohnwu/Magisk,C++,232
-41889031,TeamNewPipe/NewPipe,Java,63
-42304749,apache/shardingsphere-elasticjob,Java,114
-247266215,JaidedAI/EasyOCR,Python,1475
-269137265,google/tsunami-security-scanner,Java,1815
-72685026,MicrosoftDocs/azure-docs,PowerShell,96
-254832799,Z4nzu/hackingtool,Python,2571
+67702184,topjohnwu/Magisk,C++,231
+41889031,TeamNewPipe/NewPipe,Java,177
+42304749,apache/shardingsphere-elasticjob,Java,94
+247266215,JaidedAI/EasyOCR,Python,1454
+269137265,google/tsunami-security-scanner,Java,1783
+72685026,MicrosoftDocs/azure-docs,PowerShell,81
+254832799,Z4nzu/hackingtool,Python,2517
 205679232,flipped-aurora/gin-vue-admin,Go,490
 20280681,rickbergfalk/sqlpad,JavaScript,151
-250213286,huggingface/nlp,Python,1226
-32887098,googleapis/googleapis,Starlark,319
-261515636,matplotlib/cheatsheets,Python,744
-115516512,ivanpaulovich/clean-architecture-manga,C#,364
-224109382,ant-design-blazor/ant-design-blazor,C#,229
-127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,249
-192786158,VMadalin/android-modular-architecture,Kotlin,85
-262296122,PaddlePaddle/PaddleOCR,C++,548
-237211286,basir/node-react-ecommerce,JavaScript,396
-272821486,gskinnerTeam/flokk,Dart,147
-269394176,google/tsunami-security-scanner-plugins,Java,168
+250213286,huggingface/nlp,Python,1224
+32887098,googleapis/googleapis,Starlark,326
+261515636,matplotlib/cheatsheets,Python,734
+115516512,ivanpaulovich/clean-architecture-manga,C#,365
+224109382,ant-design-blazor/ant-design-blazor,C#,228
+127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,247
+262296122,PaddlePaddle/PaddleOCR,C++,571
+192786158,VMadalin/android-modular-architecture,Kotlin,76
+237211286,basir/node-react-ecommerce,JavaScript,397
+272821486,gskinnerTeam/flokk,Dart,141
+269394176,google/tsunami-security-scanner-plugins,Java,164
