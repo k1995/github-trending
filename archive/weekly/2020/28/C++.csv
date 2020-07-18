@@ -1,7 +1,7 @@
 id,name,lang,new stars
-23357588,protocolbuffers/protobuf,C++,206
-65600975,pytorch/pytorch,C++,206
-22887094,tesseract-ocr/tesseract,C++,132
+23357588,protocolbuffers/protobuf,C++,215
+65600975,pytorch/pytorch,C++,209
+22887094,tesseract-ocr/tesseract,C++,133
 23405758,google/leveldb,C++,51
 39840932,google/googletest,C++,79
 67702184,topjohnwu/Magisk,C++,228
@@ -12,15 +12,15 @@ id,name,lang,new stars
 104231541,abseil/abseil-cpp,C++,61
 51905353,apache/arrow,C++,42
 75821432,llvm/llvm-project,C++,75
-243487250,ouyanghuiyu/chineseocr_lite,C++,68
-192025001,Qv2ray/Qv2ray,C++,158
+243487250,ouyanghuiyu/chineseocr_lite,C++,69
+192025001,Qv2ray/Qv2ray,C++,160
 5973855,CleverRaven/Cataclysm-DDA,C++,27
 86337343,skypjack/entt,C++,82
 5298790,PX4/Firmware,C++,25
 143324737,diasurgical/devilutionX,C++,30
-131236938,an-tao/drogon,C++,221
+131236938,an-tao/drogon,C++,222
 18719856,Stellarium/stellarium,C++,37
 86897963,xiongziliang/ZLMediaKit,C++,81
-262296122,PaddlePaddle/PaddleOCR,C++,602
-189205663,qinguoyi/TinyWebServer,C++,58
-258780390,FiYHer/How-to-create-a-csgo-cheating-program,C++,94
+262296122,PaddlePaddle/PaddleOCR,C++,643
+189205663,qinguoyi/TinyWebServer,C++,59
+258780390,FiYHer/How-to-create-a-csgo-cheating-program,C++,96

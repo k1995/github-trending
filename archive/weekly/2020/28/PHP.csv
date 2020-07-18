@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,314
+1863329,laravel/laravel,PHP,316
 2579314,fzaninotto/Faker,PHP,111
 1864363,composer/composer,PHP,56
 7548986,laravel/framework,PHP,87
@@ -8,8 +8,8 @@ id,name,lang,new stars
 2253830,PHPMailer/PHPMailer,PHP,51
 2889328,WordPress/WordPress,PHP,43
 3431193,yiisoft/yii2,PHP,23
-1548202,matomo-org/matomo,PHP,47
-1631570,nikic/PHP-Parser,PHP,50
+1548202,matomo-org/matomo,PHP,46
+1631570,nikic/PHP-Parser,PHP,49
 12615154,barryvdh/laravel-debugbar,PHP,36
 8678290,barryvdh/laravel-ide-helper,PHP,37
 48796179,z-song/laravel-admin,PHP,41
@@ -18,7 +18,7 @@ id,name,lang,new stars
 2699935,squizlabs/PHP_CodeSniffer,PHP,18
 9131292,jenssegers/laravel-mongodb,PHP,19
 10371103,caouecs/Laravel-lang,PHP,30
-33916850,spatie/laravel-medialibrary,PHP,15
+33916850,spatie/laravel-medialibrary,PHP,14
 47508644,pterodactyl/panel,PHP,17
 49680187,Bottelet/DaybydayCRM,PHP,102
 153069455,collabnix/dockerlabs,PHP,33
