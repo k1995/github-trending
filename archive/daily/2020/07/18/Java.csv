@@ -1,13 +1,13 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,150
+121395510,CyC2018/CS-Notes,Java,126
 173228436,NationalSecurityAgency/ghidra,Java,14
 163387337,seata/seata,Java,21
-154648112,hollischuang/toBeTopJavaer,Java,125
+154648112,hollischuang/toBeTopJavaer,Java,115
 47023603,xuxueli/xxl-job,Java,19
 18723836,looly/hutool,Java,24
 49876476,apache/shardingsphere,Java,2
 161757837,elunez/eladmin,Java,23
-501687,antlr/antlr4,Java,5
+501687,antlr/antlr4,Java,6
 4238977,springfox/springfox,Java,31
 50904245,apache/beam,Java,5
 33816473,testcontainers/testcontainers-java,Java,6
@@ -18,7 +18,7 @@ id,name,lang,new stars
 206877845,android/views-widgets-samples,Java,2
 1089149,spring-projects/spring-batch,Java,2
 17170044,prometheus/jmx_exporter,Java,1
-52095564,openid/AppAuth-Android,Java,36
+52095564,openid/AppAuth-Android,Java,37
 90675730,kubernetes-client/java,Java,9
 177373545,cinit/QNotified,Java,6
 273598304,DataStax-Academy/cassandra-workshop-series,Java,5
