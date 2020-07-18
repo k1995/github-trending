@@ -5,7 +5,7 @@ id,name,lang,new stars
 15452919,ethereum/go-ethereum,Go,10
 29261473,minio/minio,Go,27
 31504491,labstack/echo,Go,17
-6247705,stretchr/testify,Go,12
+6247705,stretchr/testify,Go,11
 16554739,elastic/beats,Go,9
 71297170,Netflix/chaosmonkey,Go,33
 33258973,influxdata/telegraf,Go,7
@@ -19,7 +19,7 @@ id,name,lang,new stars
 54453471,appleboy/gorush,Go,19
 17451182,go-yaml/yaml,Go,8
 66509131,kubernetes/client-go,Go,8
-206213815,chaos-mesh/chaos-mesh,Go,12
+206213815,chaos-mesh/chaos-mesh,Go,10
 179063508,rancher/k3d,Go,48
 22855240,Azure/azure-sdk-for-go,Go,1
 277649384,cycloidio/inframap,Go,69
