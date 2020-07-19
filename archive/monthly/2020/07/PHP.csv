@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,767
-2579314,fzaninotto/Faker,PHP,261
-7548986,laravel/framework,PHP,274
+2579314,fzaninotto/Faker,PHP,262
+7548986,laravel/framework,PHP,275
 1420053,guzzle/guzzle,PHP,184
 3431193,yiisoft/yii2,PHP,84
 1631570,nikic/PHP-Parser,PHP,146
@@ -15,8 +15,8 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,177
 1649191,doctrine/DoctrineMigrationsBundle,PHP,67
 29126334,EasyCorp/EasyAdminBundle,PHP,87
-97311017,rectorphp/rector,PHP,93
-41463886,codeigniter4/CodeIgniter4,PHP,94
+97311017,rectorphp/rector,PHP,94
+41463886,codeigniter4/CodeIgniter4,PHP,95
 159606650,hyperf/hyperf,PHP,148
 11935508,RSS-Bridge/rss-bridge,PHP,259
 255703597,beyondcode/expose,PHP,1782

@@ -1,8 +1,8 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1130
-20580498,kubernetes/kubernetes,Go,1129
+23096959,golang/go,Go,1132
+20580498,kubernetes/kubernetes,Go,1133
 20904437,gin-gonic/gin,Go,1037
-6838921,prometheus/prometheus,Go,635
+6838921,prometheus/prometheus,Go,636
 74175805,istio/istio,Go,430
 17728164,hashicorp/terraform,Go,416
 8989842,unknwon/the-way-to-go_ZH_CN,Go,443
@@ -13,14 +13,14 @@ id,name,lang,new stars
 136815833,Dreamacro/clash,Go,733
 31558937,gravitational/teleport,Go,209
 44344606,go-chi/chi,Go,209
-272035489,greyireland/algorithm-pattern,Go,5881
-234231371,gofiber/fiber,Go,863
+272035489,greyireland/algorithm-pattern,Go,5882
+234231371,gofiber/fiber,Go,864
 26661222,tinode/chat,Go,1250
-93444615,terraform-providers/terraform-provider-aws,Go,165
+93444615,terraform-providers/terraform-provider-aws,Go,167
 37334619,golang/mock,Go,135
 130430977,kubesphere/kubesphere,Go,267
 205679232,flipped-aurora/gin-vue-admin,Go,775
-47859258,goplus/gop,Go,2241
+47859258,goplus/gop,Go,2242
 150713223,kubeedge/kubeedge,Go,112
-247032621,wenjianzhang/go-admin,Go,390
+247032621,wenjianzhang/go-admin,Go,391
 193681111,filecoin-project/lotus,Go,96
