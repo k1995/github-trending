@@ -1,14 +1,14 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,25
-1181927,bitcoin/bitcoin,C++,35
-23357588,protocolbuffers/protobuf,C++,56
-184456251,microsoft/PowerToys,C++,76
-6934395,facebook/rocksdb,C++,37
+1181927,bitcoin/bitcoin,C++,31
+23357588,protocolbuffers/protobuf,C++,55
+184456251,microsoft/PowerToys,C++,73
+6934395,facebook/rocksdb,C++,44
 24420506,v8/v8,C++,14
 4524181,facebook/folly,C++,3
 60246359,ClickHouse/ClickHouse,C++,37
-81887991,microsoft/AirSim,C++,7
-102343794,apache/incubator-brpc,C++,48
+81887991,microsoft/AirSim,C++,6
+102343794,apache/incubator-brpc,C++,91
 2310495,ceph/ceph,C++,6
 2200856,MarlinFirmware/Marlin,C++,7
 15122806,google/benchmark,C++,1
@@ -16,11 +16,11 @@ id,name,lang,new stars
 36832736,weidai11/cryptopp,C++,2
 58414589,oneapi-src/oneDNN,C++,3
 106976253,daliansky/XiaoMi-Pro-Hackintosh,C++,2
-262296122,PaddlePaddle/PaddleOCR,C++,246
+262296122,PaddlePaddle/PaddleOCR,C++,242
 153097643,openvinotoolkit/openvino,C++,1
 32905910,solvespace/solvespace,C++,3
 189205663,qinguoyi/TinyWebServer,C++,13
-278748700,microsoft/ProcMon-for-Linux,C++,334
+278748700,microsoft/ProcMon-for-Linux,C++,345
 256049233,microsoft/ProjectReunion,C++,3
-250037047,TianZerL/Anime4KCPP,C++,11
+250037047,TianZerL/Anime4KCPP,C++,9
 276365255,opencurve/curve,C++,34

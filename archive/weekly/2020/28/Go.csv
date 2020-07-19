@@ -3,12 +3,12 @@ id,name,lang,new stars
 48378947,fatedier/frp,Go,202
 11225014,etcd-io/etcd,Go,117
 6838921,prometheus/prometheus,Go,181
-29261473,minio/minio,Go,155
+29261473,minio/minio,Go,156
 8989842,unknwon/the-way-to-go_ZH_CN,Go,108
 46806184,helm/charts,Go,78
 27729907,grpc/grpc-go,Go,53
-61137153,evanw/esbuild,Go,294
-136815833,Dreamacro/clash,Go,177
+61137153,evanw/esbuild,Go,297
+136815833,Dreamacro/clash,Go,179
 71297170,Netflix/chaosmonkey,Go,87
 31558937,gravitational/teleport,Go,66
 6443435,nats-io/nats-server,Go,75
@@ -19,8 +19,8 @@ id,name,lang,new stars
 205679232,flipped-aurora/gin-vue-admin,Go,443
 150713223,kubeedge/kubeedge,Go,30
 93446042,terraform-providers/terraform-provider-azurerm,Go,24
-105125456,godcong/fate,Go,160
-111455867,smartcontractkit/chainlink,Go,36
-224588420,wxbool/video-srt-windows,Go,44
+105125456,godcong/fate,Go,163
+111455867,smartcontractkit/chainlink,Go,38
+224588420,wxbool/video-srt-windows,Go,46
 202018792,aws/copilot-cli,Go,177
 193681111,filecoin-project/lotus,Go,30
