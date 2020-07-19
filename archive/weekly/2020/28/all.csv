@@ -1,26 +1,26 @@
 id,name,lang,new stars
-52631841,gothinkster/realworld,JavaScript,644
-211124697,deezer/spleeter,Python,635
-77912349,qianguyihao/Web,JavaScript,190
-54168759,SergioBenitez/Rocket,Rust,337
-41889031,TeamNewPipe/NewPipe,Java,358
-178626720,PyTorchLightning/pytorch-lightning,Python,290
-738491,facebook/facebook-ios-sdk,Objective-C,33
-269137265,google/tsunami-security-scanner,Java,1581
-63197378,guipsamora/pandas_exercises,Jupyter Notebook,211
-254832799,Z4nzu/hackingtool,Python,2089
+52631841,gothinkster/realworld,JavaScript,648
+23357588,protocolbuffers/protobuf,C++,238
+7548986,laravel/framework,PHP,92
+137078487,vuejs/vue-next,TypeScript,260
+77912349,qianguyihao/Web,JavaScript,196
+54168759,SergioBenitez/Rocket,Rust,339
+41889031,TeamNewPipe/NewPipe,Java,372
+52729242,keepassxreboot/keepassxc,C++,99
+63197378,guipsamora/pandas_exercises,Jupyter Notebook,212
+254832799,Z4nzu/hackingtool,Python,2091
 54972769,QUANTAXIS/QUANTAXIS,Python,62
-205679232,flipped-aurora/gin-vue-admin,Go,444
-20280681,rickbergfalk/sqlpad,JavaScript,149
-180481986,apache/incubator-apisix,Lua,124
-250213286,huggingface/nlp,Python,1137
-32887098,googleapis/googleapis,Starlark,464
-261515636,matplotlib/cheatsheets,Python,687
+205679232,flipped-aurora/gin-vue-admin,Go,445
+264870386,openai/gpt-3,,1023
+20280681,rickbergfalk/sqlpad,JavaScript,151
+180481986,apache/incubator-apisix,Lua,125
+250213286,huggingface/nlp,Python,1142
+32887098,googleapis/googleapis,Starlark,479
+261515636,matplotlib/cheatsheets,Python,690
 115516512,ivanpaulovich/clean-architecture-manga,C#,369
-278328681,Dimillian/RedditOS,Swift,1231
-127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,229
-262296122,PaddlePaddle/PaddleOCR,C++,812
-111455867,smartcontractkit/chainlink,Go,38
-247659028,KFCFans/PowerJob,Java,127
-237211286,basir/node-react-ecommerce,JavaScript,405
-269394176,google/tsunami-security-scanner-plugins,Java,131
+278328681,Dimillian/RedditOS,Swift,1237
+127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,230
+262296122,PaddlePaddle/PaddleOCR,C++,834
+111455867,smartcontractkit/chainlink,Go,39
+278749208,jordansinger/SwiftUI-Kit,Swift,595
+247659028,KFCFans/PowerJob,Java,129
