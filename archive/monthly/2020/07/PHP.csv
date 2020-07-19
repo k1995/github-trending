@@ -1,11 +1,11 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,768
 2579314,fzaninotto/Faker,PHP,263
-7548986,laravel/framework,PHP,275
+7548986,laravel/framework,PHP,276
 1420053,guzzle/guzzle,PHP,184
 3431193,yiisoft/yii2,PHP,81
 1631570,nikic/PHP-Parser,PHP,146
-8678290,barryvdh/laravel-ide-helper,PHP,144
+8678290,barryvdh/laravel-ide-helper,PHP,145
 61490598,PHPOffice/PhpSpreadsheet,PHP,159
 42480275,spatie/laravel-permission,PHP,154
 79111500,jupeter/clean-code-php,PHP,131
@@ -16,10 +16,10 @@ id,name,lang,new stars
 1649191,doctrine/DoctrineMigrationsBundle,PHP,65
 29126334,EasyCorp/EasyAdminBundle,PHP,87
 97311017,rectorphp/rector,PHP,94
-41463886,codeigniter4/CodeIgniter4,PHP,96
-159606650,hyperf/hyperf,PHP,148
+41463886,codeigniter4/CodeIgniter4,PHP,98
+159606650,hyperf/hyperf,PHP,149
 11935508,RSS-Bridge/rss-bridge,PHP,259
-255703597,beyondcode/expose,PHP,1782
+255703597,beyondcode/expose,PHP,1781
 69691727,pmmp/PocketMine-MP,PHP,76
 93982796,Tuhinshubhra/RED_HAWK,PHP,58
 74026995,CodelyTV/php-ddd-example,PHP,167
