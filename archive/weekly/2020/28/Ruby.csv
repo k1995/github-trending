@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,77
+8514,rails/rails,Ruby,81
 65252,jekyll/jekyll,Ruby,80
-8681349,huginn/huginn,Ruby,84
-13840241,freeCodeCamp/devdocs,Ruby,59
-53238813,Homebrew/brew,Ruby,118
+8681349,huginn/huginn,Ruby,88
+13840241,freeCodeCamp/devdocs,Ruby,57
+53238813,Homebrew/brew,Ruby,131
 52281283,tootsuite/mastodon,Ruby,108
 308770,heartcombo/devise,Ruby,28
 37382858,kilimchoi/engineering-blogs,Ruby,33
 538746,ruby/ruby,Ruby,47
-73648678,forem/forem,Ruby,250
+73648678,forem/forem,Ruby,274
 2336578,twbs/bootstrap-sass,Ruby,6
 11423758,mame/quine-relay,Ruby,53
 812393,ruby-grape/grape,Ruby,10
@@ -23,4 +23,4 @@ id,name,lang,new stars
 17204381,ankane/ahoy,Ruby,17
 189010173,Hackplayers/evil-winrm,Ruby,30
 200302808,github/view_component,Ruby,37
-128265535,GoogleCloudPlatform/click-to-deploy,Ruby,6
+128265535,GoogleCloudPlatform/click-to-deploy,Ruby,7

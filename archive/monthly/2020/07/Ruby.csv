@@ -1,11 +1,11 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,299
 8681349,huginn/huginn,Ruby,360
-21600440,bayandin/awesome-awesomeness,Ruby,190
+21600440,bayandin/awesome-awesomeness,Ruby,191
 53238813,Homebrew/brew,Ruby,533
 2293158,rapid7/metasploit-framework,Ruby,313
-538746,ruby/ruby,Ruby,147
-73648678,forem/forem,Ruby,530
+538746,ruby/ruby,Ruby,145
+73648678,forem/forem,Ruby,539
 1090311,elastic/logstash,Ruby,90
 3314,spree/spree,Ruby,106
 275604,resque/resque,Ruby,28
@@ -18,7 +18,7 @@ id,name,lang,new stars
 202291859,chatwoot/chatwoot,Ruby,165
 839336,colszowka/simplecov,Ruby,34
 96071,rack/rack,Ruby,28
-1952825,Homebrew/homebrew-bundle,Ruby,61
+1952825,Homebrew/homebrew-bundle,Ruby,62
 614070,rubygems/rubygems,Ruby,33
 11426474,github/choosealicense.com,Ruby,51
 93163073,dependabot/dependabot-core,Ruby,57
