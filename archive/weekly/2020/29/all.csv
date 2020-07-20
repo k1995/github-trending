@@ -1,26 +1,26 @@
 id,name,lang,new stars
-52631841,gothinkster/realworld,JavaScript,377
+52631841,gothinkster/realworld,JavaScript,362
 23357588,protocolbuffers/protobuf,C++,234
 7548986,laravel/framework,PHP,89
-137078487,vuejs/vue-next,TypeScript,306
-77912349,qianguyihao/Web,JavaScript,198
-54168759,SergioBenitez/Rocket,Rust,371
-41889031,TeamNewPipe/NewPipe,Java,476
-178626720,PyTorchLightning/pytorch-lightning,Python,305
-63197378,guipsamora/pandas_exercises,Jupyter Notebook,197
-254832799,Z4nzu/hackingtool,Python,1162
-264870386,openai/gpt-3,,1768
+137078487,vuejs/vue-next,TypeScript,307
+77912349,qianguyihao/Web,JavaScript,199
+54168759,SergioBenitez/Rocket,Rust,370
+41889031,TeamNewPipe/NewPipe,Java,477
+178626720,PyTorchLightning/pytorch-lightning,Python,301
+63197378,guipsamora/pandas_exercises,Jupyter Notebook,196
+254832799,Z4nzu/hackingtool,Python,1099
+264870386,openai/gpt-3,,1791
 54972769,QUANTAXIS/QUANTAXIS,Python,62
 20280681,rickbergfalk/sqlpad,JavaScript,121
 180481986,apache/incubator-apisix,Lua,157
-32887098,googleapis/googleapis,Starlark,549
-261515636,matplotlib/cheatsheets,Python,533
-115516512,ivanpaulovich/clean-architecture-manga,C#,375
-278328681,Dimillian/RedditOS,Swift,774
+32887098,googleapis/googleapis,Starlark,550
+261515636,matplotlib/cheatsheets,Python,515
+115516512,ivanpaulovich/clean-architecture-manga,C#,376
+278328681,Dimillian/RedditOS,Swift,730
 127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,203
-262296122,PaddlePaddle/PaddleOCR,C++,915
+262296122,PaddlePaddle/PaddleOCR,C++,921
 268501098,skydoves/Pokedex,Kotlin,398
-277494017,manikandanraji/youtubeclone-frontend,JavaScript,466
-278749208,jordansinger/SwiftUI-Kit,Swift,258
+277494017,manikandanraji/youtubeclone-frontend,JavaScript,445
+278749208,jordansinger/SwiftUI-Kit,Swift,248
+202018792,aws/copilot-cli,Go,164
 247659028,KFCFans/PowerJob,Java,130
-202018792,aws/copilot-cli,Go,163
