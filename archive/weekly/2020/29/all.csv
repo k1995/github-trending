@@ -1,26 +1,26 @@
 id,name,lang,new stars
-52631841,gothinkster/realworld,JavaScript,489
-23357588,protocolbuffers/protobuf,C++,237
+52631841,gothinkster/realworld,JavaScript,490
+23357588,protocolbuffers/protobuf,C++,244
 7548986,laravel/framework,PHP,89
-137078487,vuejs/vue-next,TypeScript,299
-77912349,qianguyihao/Web,JavaScript,205
-54168759,SergioBenitez/Rocket,Rust,353
-41889031,TeamNewPipe/NewPipe,Java,447
-52729242,keepassxreboot/keepassxc,C++,92
-63197378,guipsamora/pandas_exercises,Jupyter Notebook,204
-254832799,Z4nzu/hackingtool,Python,1609
-264870386,openai/gpt-3,,1505
+137078487,vuejs/vue-next,TypeScript,317
+77912349,qianguyihao/Web,JavaScript,215
+54168759,SergioBenitez/Rocket,Rust,363
+41889031,TeamNewPipe/NewPipe,Java,460
+178626720,PyTorchLightning/pytorch-lightning,Python,300
+63197378,guipsamora/pandas_exercises,Jupyter Notebook,206
+254832799,Z4nzu/hackingtool,Python,1622
+264870386,openai/gpt-3,,1584
 54972769,QUANTAXIS/QUANTAXIS,Python,62
-205679232,flipped-aurora/gin-vue-admin,Go,409
-20280681,rickbergfalk/sqlpad,JavaScript,140
-180481986,apache/incubator-apisix,Lua,140
-32887098,googleapis/googleapis,Starlark,544
-250213286,huggingface/nlp,Python,932
-261515636,matplotlib/cheatsheets,Python,637
+20280681,rickbergfalk/sqlpad,JavaScript,142
+180481986,apache/incubator-apisix,Lua,151
+32887098,googleapis/googleapis,Starlark,551
+261515636,matplotlib/cheatsheets,Python,646
 115516512,ivanpaulovich/clean-architecture-manga,C#,373
-278328681,Dimillian/RedditOS,Swift,1043
-127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,221
-262296122,PaddlePaddle/PaddleOCR,C++,878
-111455867,smartcontractkit/chainlink,Go,43
-278749208,jordansinger/SwiftUI-Kit,Swift,388
-247659028,KFCFans/PowerJob,Java,135
+278328681,Dimillian/RedditOS,Swift,1055
+127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,222
+262296122,PaddlePaddle/PaddleOCR,C++,906
+268501098,skydoves/Pokedex,Kotlin,392
+277494017,manikandanraji/youtubeclone-frontend,JavaScript,700
+278749208,jordansinger/SwiftUI-Kit,Swift,391
+202018792,aws/copilot-cli,Go,173
+247659028,KFCFans/PowerJob,Java,138
