@@ -1,26 +1,26 @@
 id,name,lang,new stars
-52631841,gothinkster/realworld,JavaScript,423
+52631841,gothinkster/realworld,JavaScript,396
 23357588,protocolbuffers/protobuf,C++,235
 7548986,laravel/framework,PHP,89
 137078487,vuejs/vue-next,TypeScript,304
-77912349,qianguyihao/Web,JavaScript,201
-54168759,SergioBenitez/Rocket,Rust,365
-41889031,TeamNewPipe/NewPipe,Java,465
-178626720,PyTorchLightning/pytorch-lightning,Python,298
-63197378,guipsamora/pandas_exercises,Jupyter Notebook,198
-254832799,Z4nzu/hackingtool,Python,1352
-264870386,openai/gpt-3,,1663
+77912349,qianguyihao/Web,JavaScript,200
+54168759,SergioBenitez/Rocket,Rust,368
+41889031,TeamNewPipe/NewPipe,Java,471
+178626720,PyTorchLightning/pytorch-lightning,Python,301
+63197378,guipsamora/pandas_exercises,Jupyter Notebook,196
+254832799,Z4nzu/hackingtool,Python,1226
+264870386,openai/gpt-3,,1717
 54972769,QUANTAXIS/QUANTAXIS,Python,62
 20280681,rickbergfalk/sqlpad,JavaScript,121
-180481986,apache/incubator-apisix,Lua,152
-32887098,googleapis/googleapis,Starlark,550
-261515636,matplotlib/cheatsheets,Python,585
-115516512,ivanpaulovich/clean-architecture-manga,C#,373
-278328681,Dimillian/RedditOS,Swift,902
-127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,207
+180481986,apache/incubator-apisix,Lua,156
+32887098,googleapis/googleapis,Starlark,551
+261515636,matplotlib/cheatsheets,Python,553
+115516512,ivanpaulovich/clean-architecture-manga,C#,375
+278328681,Dimillian/RedditOS,Swift,817
+127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,205
 262296122,PaddlePaddle/PaddleOCR,C++,906
-268501098,skydoves/Pokedex,Kotlin,393
-277494017,manikandanraji/youtubeclone-frontend,JavaScript,556
-278749208,jordansinger/SwiftUI-Kit,Swift,304
-247659028,KFCFans/PowerJob,Java,132
-202018792,aws/copilot-cli,Go,167
+268501098,skydoves/Pokedex,Kotlin,395
+277494017,manikandanraji/youtubeclone-frontend,JavaScript,498
+278749208,jordansinger/SwiftUI-Kit,Swift,271
+247659028,KFCFans/PowerJob,Java,129
+202018792,aws/copilot-cli,Go,165
