@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,291
-8681349,huginn/huginn,Ruby,356
+8514,rails/rails,Ruby,294
+8681349,huginn/huginn,Ruby,358
 21600440,bayandin/awesome-awesomeness,Ruby,188
-53238813,Homebrew/brew,Ruby,532
-2293158,rapid7/metasploit-framework,Ruby,315
+53238813,Homebrew/brew,Ruby,533
+2293158,rapid7/metasploit-framework,Ruby,317
 538746,ruby/ruby,Ruby,143
-73648678,forem/forem,Ruby,601
+73648678,forem/forem,Ruby,633
 1090311,elastic/logstash,Ruby,90
 3314,spree/spree,Ruby,102
 275604,resque/resque,Ruby,29
@@ -13,7 +13,7 @@ id,name,lang,new stars
 52855516,Homebrew/homebrew-core,Ruby,188
 18486300,lewagon/setup,Ruby,551
 6529205,varvet/pundit,Ruby,46
-21829,thoughtbot/factory_bot,Ruby,63
+21829,thoughtbot/factory_bot,Ruby,65
 1548802,activerecord-hackery/ransack,Ruby,26
 202291859,chatwoot/chatwoot,Ruby,162
 839336,colszowka/simplecov,Ruby,33
@@ -22,5 +22,5 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,31
 11426474,github/choosealicense.com,Ruby,50
 93163073,dependabot/dependabot-core,Ruby,57
-200302808,github/view_component,Ruby,132
+200302808,github/view_component,Ruby,133
 223915944,lewagon/rails-garden-manager,Ruby,0
