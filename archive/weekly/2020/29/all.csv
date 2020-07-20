@@ -1,26 +1,26 @@
 id,name,lang,new stars
-52631841,gothinkster/realworld,JavaScript,482
-23357588,protocolbuffers/protobuf,C++,229
+52631841,gothinkster/realworld,JavaScript,486
+23357588,protocolbuffers/protobuf,C++,232
 7548986,laravel/framework,PHP,89
-137078487,vuejs/vue-next,TypeScript,273
-77912349,qianguyihao/Web,JavaScript,196
-54168759,SergioBenitez/Rocket,Rust,336
-41889031,TeamNewPipe/NewPipe,Java,423
+137078487,vuejs/vue-next,TypeScript,282
+77912349,qianguyihao/Web,JavaScript,200
+54168759,SergioBenitez/Rocket,Rust,347
+41889031,TeamNewPipe/NewPipe,Java,438
 52729242,keepassxreboot/keepassxc,C++,93
 63197378,guipsamora/pandas_exercises,Jupyter Notebook,201
-254832799,Z4nzu/hackingtool,Python,1592
+254832799,Z4nzu/hackingtool,Python,1600
 54972769,QUANTAXIS/QUANTAXIS,Python,62
-205679232,flipped-aurora/gin-vue-admin,Go,393
-264870386,openai/gpt-3,,1373
+264870386,openai/gpt-3,,1437
+205679232,flipped-aurora/gin-vue-admin,Go,403
 20280681,rickbergfalk/sqlpad,JavaScript,138
-180481986,apache/incubator-apisix,Lua,126
-250213286,huggingface/nlp,Python,927
-32887098,googleapis/googleapis,Starlark,530
-261515636,matplotlib/cheatsheets,Python,626
-115516512,ivanpaulovich/clean-architecture-manga,C#,372
-278328681,Dimillian/RedditOS,Swift,1034
-127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,219
-262296122,PaddlePaddle/PaddleOCR,C++,850
-111455867,smartcontractkit/chainlink,Go,39
-278749208,jordansinger/SwiftUI-Kit,Swift,382
-247659028,KFCFans/PowerJob,Java,129
+180481986,apache/incubator-apisix,Lua,134
+250213286,huggingface/nlp,Python,930
+32887098,googleapis/googleapis,Starlark,538
+261515636,matplotlib/cheatsheets,Python,633
+115516512,ivanpaulovich/clean-architecture-manga,C#,373
+278328681,Dimillian/RedditOS,Swift,1041
+127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,220
+262296122,PaddlePaddle/PaddleOCR,C++,869
+111455867,smartcontractkit/chainlink,Go,41
+278749208,jordansinger/SwiftUI-Kit,Swift,386
+247659028,KFCFans/PowerJob,Java,134
