@@ -1,26 +1,26 @@
 id,name,lang,new stars
-52631841,gothinkster/realworld,JavaScript,347
-23357588,protocolbuffers/protobuf,C++,239
-7548986,laravel/framework,PHP,89
-137078487,vuejs/vue-next,TypeScript,319
-77912349,qianguyihao/Web,JavaScript,217
-54168759,SergioBenitez/Rocket,Rust,373
-41889031,TeamNewPipe/NewPipe,Java,484
-178626720,PyTorchLightning/pytorch-lightning,Python,299
-63197378,guipsamora/pandas_exercises,Jupyter Notebook,195
-264870386,openai/gpt-3,,1909
-254832799,Z4nzu/hackingtool,Python,1002
+23357588,protocolbuffers/protobuf,C++,237
+15204860,papers-we-love/papers-we-love,Shell,998
+137078487,vuejs/vue-next,TypeScript,321
+170067246,openai/gpt-2,Python,151
+77912349,qianguyihao/Web,JavaScript,222
+54168759,SergioBenitez/Rocket,Rust,374
+41889031,TeamNewPipe/NewPipe,Java,486
+59435364,outline/outline,JavaScript,281
+178626720,PyTorchLightning/pytorch-lightning,Python,264
+264870386,openai/gpt-3,,1986
 54972769,QUANTAXIS/QUANTAXIS,Python,67
-20280681,rickbergfalk/sqlpad,JavaScript,118
-180481986,apache/incubator-apisix,Lua,162
-32887098,googleapis/googleapis,Starlark,558
-261515636,matplotlib/cheatsheets,Python,438
-115516512,ivanpaulovich/clean-architecture-manga,C#,382
-278328681,Dimillian/RedditOS,Swift,660
-127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,204
-262296122,PaddlePaddle/PaddleOCR,C++,962
-268501098,skydoves/Pokedex,Kotlin,408
-277494017,manikandanraji/youtubeclone-frontend,JavaScript,415
-278749208,jordansinger/SwiftUI-Kit,Swift,229
-247659028,KFCFans/PowerJob,Java,137
-202018792,aws/copilot-cli,Go,164
+180481986,apache/incubator-apisix,Lua,169
+32887098,googleapis/googleapis,Starlark,560
+202429703,FirebaseExtended/flutterfire,Dart,76
+115516512,ivanpaulovich/clean-architecture-manga,C#,380
+278328681,Dimillian/RedditOS,Swift,547
+262296122,PaddlePaddle/PaddleOCR,C++,982
+127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,205
+268501098,skydoves/Pokedex,Kotlin,403
+203999962,open-mmlab/mmediting,Python,139
+49680187,Bottelet/DaybydayCRM,PHP,66
+111455867,smartcontractkit/chainlink,Go,38
+277494017,manikandanraji/youtubeclone-frontend,JavaScript,369
+247659028,KFCFans/PowerJob,Java,138
+202018792,aws/copilot-cli,Go,160
