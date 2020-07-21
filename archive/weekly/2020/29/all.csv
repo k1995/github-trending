@@ -1,26 +1,26 @@
 id,name,lang,new stars
-52631841,gothinkster/realworld,JavaScript,362
-23357588,protocolbuffers/protobuf,C++,234
+52631841,gothinkster/realworld,JavaScript,353
+23357588,protocolbuffers/protobuf,C++,235
 7548986,laravel/framework,PHP,89
 137078487,vuejs/vue-next,TypeScript,307
-77912349,qianguyihao/Web,JavaScript,199
-54168759,SergioBenitez/Rocket,Rust,370
-41889031,TeamNewPipe/NewPipe,Java,477
-178626720,PyTorchLightning/pytorch-lightning,Python,301
-63197378,guipsamora/pandas_exercises,Jupyter Notebook,196
-254832799,Z4nzu/hackingtool,Python,1099
-264870386,openai/gpt-3,,1791
-54972769,QUANTAXIS/QUANTAXIS,Python,62
-20280681,rickbergfalk/sqlpad,JavaScript,121
+77912349,qianguyihao/Web,JavaScript,202
+54168759,SergioBenitez/Rocket,Rust,369
+41889031,TeamNewPipe/NewPipe,Java,478
+178626720,PyTorchLightning/pytorch-lightning,Python,300
+63197378,guipsamora/pandas_exercises,Jupyter Notebook,195
+264870386,openai/gpt-3,,1813
+254832799,Z4nzu/hackingtool,Python,1059
+54972769,QUANTAXIS/QUANTAXIS,Python,67
+20280681,rickbergfalk/sqlpad,JavaScript,115
 180481986,apache/incubator-apisix,Lua,157
-32887098,googleapis/googleapis,Starlark,550
-261515636,matplotlib/cheatsheets,Python,515
-115516512,ivanpaulovich/clean-architecture-manga,C#,376
-278328681,Dimillian/RedditOS,Swift,730
-127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,203
-262296122,PaddlePaddle/PaddleOCR,C++,921
-268501098,skydoves/Pokedex,Kotlin,398
-277494017,manikandanraji/youtubeclone-frontend,JavaScript,445
-278749208,jordansinger/SwiftUI-Kit,Swift,248
-202018792,aws/copilot-cli,Go,164
+32887098,googleapis/googleapis,Starlark,549
+261515636,matplotlib/cheatsheets,Python,510
+115516512,ivanpaulovich/clean-architecture-manga,C#,377
+278328681,Dimillian/RedditOS,Swift,698
+127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,202
+262296122,PaddlePaddle/PaddleOCR,C++,925
+268501098,skydoves/Pokedex,Kotlin,399
+277494017,manikandanraji/youtubeclone-frontend,JavaScript,426
+278749208,jordansinger/SwiftUI-Kit,Swift,238
+202018792,aws/copilot-cli,Go,162
 247659028,KFCFans/PowerJob,Java,130
