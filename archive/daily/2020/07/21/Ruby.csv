@@ -1,13 +1,13 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,11
-73648678,forem/forem,Ruby,223
+27442967,fastlane/fastlane,Ruby,8
+73648678,forem/forem,Ruby,209
 1090311,elastic/logstash,Ruby,1
-3314,spree/spree,Ruby,7
-3195124,mperham/sidekiq,Ruby,2
+3314,spree/spree,Ruby,6
+3195124,mperham/sidekiq,Ruby,3
 611921,activeadmin/activeadmin,Ruby,1
-96395,faker-ruby/faker,Ruby,1
+96395,faker-ruby/faker,Ruby,2
 47087,carrierwaveuploader/carrierwave,Ruby,0
-18486300,lewagon/setup,Ruby,33
+18486300,lewagon/setup,Ruby,26
 2441517,puma/puma,Ruby,1
 26018608,github-changelog-generator/github-changelog-generator,Ruby,1
 33739333,thoughtbot/administrate,Ruby,3
@@ -15,7 +15,7 @@ id,name,lang,new stars
 1548802,activerecord-hackery/ransack,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,0
 1734,aasm/aasm,Ruby,3
-6899875,opf/openproject,Ruby,0
+6899875,opf/openproject,Ruby,2
 7050,prawnpdf/prawn,Ruby,2
 14238949,elastic/elasticsearch-rails,Ruby,0
 2813939,randym/axlsx,Ruby,0

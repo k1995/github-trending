@@ -1,26 +1,26 @@
 id,name,lang,new stars
-23357588,protocolbuffers/protobuf,C++,237
+23357588,protocolbuffers/protobuf,C++,236
 15204860,papers-we-love/papers-we-love,Shell,998
-137078487,vuejs/vue-next,TypeScript,321
+137078487,vuejs/vue-next,TypeScript,331
 170067246,openai/gpt-2,Python,151
-77912349,qianguyihao/Web,JavaScript,222
-54168759,SergioBenitez/Rocket,Rust,374
-41889031,TeamNewPipe/NewPipe,Java,486
-59435364,outline/outline,JavaScript,281
-178626720,PyTorchLightning/pytorch-lightning,Python,264
-264870386,openai/gpt-3,,1986
+77912349,qianguyihao/Web,JavaScript,216
+54168759,SergioBenitez/Rocket,Rust,371
+41889031,TeamNewPipe/NewPipe,Java,487
+59435364,outline/outline,JavaScript,263
+178626720,PyTorchLightning/pytorch-lightning,Python,249
+264870386,openai/gpt-3,,2036
 54972769,QUANTAXIS/QUANTAXIS,Python,67
-180481986,apache/incubator-apisix,Lua,169
-32887098,googleapis/googleapis,Starlark,560
-202429703,FirebaseExtended/flutterfire,Dart,76
-115516512,ivanpaulovich/clean-architecture-manga,C#,380
-278328681,Dimillian/RedditOS,Swift,547
-262296122,PaddlePaddle/PaddleOCR,C++,982
-127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,205
-268501098,skydoves/Pokedex,Kotlin,403
-203999962,open-mmlab/mmediting,Python,139
+180481986,apache/incubator-apisix,Lua,174
+32887098,googleapis/googleapis,Starlark,557
+202429703,FirebaseExtended/flutterfire,Dart,75
+115516512,ivanpaulovich/clean-architecture-manga,C#,383
+278328681,Dimillian/RedditOS,Swift,500
+262296122,PaddlePaddle/PaddleOCR,C++,992
+127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,202
+268501098,skydoves/Pokedex,Kotlin,400
+203999962,open-mmlab/mmediting,Python,142
 49680187,Bottelet/DaybydayCRM,PHP,66
-111455867,smartcontractkit/chainlink,Go,38
-277494017,manikandanraji/youtubeclone-frontend,JavaScript,369
-247659028,KFCFans/PowerJob,Java,138
-202018792,aws/copilot-cli,Go,160
+111455867,smartcontractkit/chainlink,Go,39
+277494017,manikandanraji/youtubeclone-frontend,JavaScript,336
+247659028,KFCFans/PowerJob,Java,137
+202018792,aws/copilot-cli,Go,161
