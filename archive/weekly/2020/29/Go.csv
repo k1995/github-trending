@@ -1,9 +1,9 @@
 id,name,lang,new stars
-23096959,golang/go,Go,260
+23096959,golang/go,Go,262
 7691631,moby/moby,Go,77
-48378947,fatedier/frp,Go,209
+48378947,fatedier/frp,Go,214
 42408804,containous/traefik,Go,112
-29261473,minio/minio,Go,148
+29261473,minio/minio,Go,150
 31288958,hashicorp/vault,Go,73
 46806184,helm/charts,Go,76
 61137153,evanw/esbuild,Go,256
@@ -13,14 +13,14 @@ id,name,lang,new stars
 6443435,nats-io/nats-server,Go,53
 54378638,github/gh-ost,Go,62
 54400687,loadimpact/k6,Go,62
-169948217,crawlab-team/crawlab,Go,96
+169948217,crawlab-team/crawlab,Go,100
 11206255,Shopify/sarama,Go,40
 37334619,golang/mock,Go,56
-205679232,flipped-aurora/gin-vue-admin,Go,298
-206213815,chaos-mesh/chaos-mesh,Go,61
-105125456,godcong/fate,Go,184
-111455867,smartcontractkit/chainlink,Go,40
-224588420,wxbool/video-srt-windows,Go,85
-202018792,aws/copilot-cli,Go,162
-193681111,filecoin-project/lotus,Go,25
-254648511,docker/ecs-plugin,Go,45
+205679232,flipped-aurora/gin-vue-admin,Go,299
+206213815,chaos-mesh/chaos-mesh,Go,62
+105125456,godcong/fate,Go,186
+111455867,smartcontractkit/chainlink,Go,42
+224588420,wxbool/video-srt-windows,Go,89
+202018792,aws/copilot-cli,Go,163
+193681111,filecoin-project/lotus,Go,26
+254648511,docker/ecs-plugin,Go,46
