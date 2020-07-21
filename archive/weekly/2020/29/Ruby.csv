@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,86
 65252,jekyll/jekyll,Ruby,78
-53238813,Homebrew/brew,Ruby,121
+53238813,Homebrew/brew,Ruby,120
 52281283,tootsuite/mastodon,Ruby,96
 308770,heartcombo/devise,Ruby,28
-538746,ruby/ruby,Ruby,38
-73648678,forem/forem,Ruby,534
+538746,ruby/ruby,Ruby,42
+73648678,forem/forem,Ruby,570
 2336578,twbs/bootstrap-sass,Ruby,5
 11423758,mame/quine-relay,Ruby,44
-812393,ruby-grape/grape,Ruby,11
+812393,ruby-grape/grape,Ruby,10
 611921,activeadmin/activeadmin,Ruby,12
 451035,heartcombo/simple_form,Ruby,8
 6529205,varvet/pundit,Ruby,10
@@ -16,11 +16,11 @@ id,name,lang,new stars
 355893,github/markup,Ruby,13
 75785147,rails/webpacker,Ruby,8
 1734,aasm/aasm,Ruby,10
-1314319,instructure/canvas-lms,Ruby,15
-30985840,solidusio/solidus,Ruby,14
+1314319,instructure/canvas-lms,Ruby,14
+30985840,solidusio/solidus,Ruby,16
 17204381,ankane/ahoy,Ruby,14
-11426474,github/choosealicense.com,Ruby,16
-244452551,alexeygrigorev/data-science-interviews,Ruby,22
+11426474,github/choosealicense.com,Ruby,15
+244452551,alexeygrigorev/data-science-interviews,Ruby,21
 189010173,Hackplayers/evil-winrm,Ruby,26
 128265535,GoogleCloudPlatform/click-to-deploy,Ruby,6
 237482582,blindsidenetworks/scalelite,Ruby,7

@@ -1,26 +1,26 @@
 id,name,lang,new stars
-52631841,gothinkster/realworld,JavaScript,353
+52631841,gothinkster/realworld,JavaScript,347
 23357588,protocolbuffers/protobuf,C++,239
 7548986,laravel/framework,PHP,89
-137078487,vuejs/vue-next,TypeScript,313
-77912349,qianguyihao/Web,JavaScript,215
-54168759,SergioBenitez/Rocket,Rust,371
-41889031,TeamNewPipe/NewPipe,Java,483
-178626720,PyTorchLightning/pytorch-lightning,Python,300
-63197378,guipsamora/pandas_exercises,Jupyter Notebook,197
-264870386,openai/gpt-3,,1855
-254832799,Z4nzu/hackingtool,Python,1047
+137078487,vuejs/vue-next,TypeScript,319
+77912349,qianguyihao/Web,JavaScript,217
+54168759,SergioBenitez/Rocket,Rust,373
+41889031,TeamNewPipe/NewPipe,Java,484
+178626720,PyTorchLightning/pytorch-lightning,Python,299
+63197378,guipsamora/pandas_exercises,Jupyter Notebook,195
+264870386,openai/gpt-3,,1909
+254832799,Z4nzu/hackingtool,Python,1002
 54972769,QUANTAXIS/QUANTAXIS,Python,67
-20280681,rickbergfalk/sqlpad,JavaScript,115
-180481986,apache/incubator-apisix,Lua,163
-32887098,googleapis/googleapis,Starlark,554
-261515636,matplotlib/cheatsheets,Python,488
-115516512,ivanpaulovich/clean-architecture-manga,C#,380
-278328681,Dimillian/RedditOS,Swift,697
+20280681,rickbergfalk/sqlpad,JavaScript,118
+180481986,apache/incubator-apisix,Lua,162
+32887098,googleapis/googleapis,Starlark,558
+261515636,matplotlib/cheatsheets,Python,438
+115516512,ivanpaulovich/clean-architecture-manga,C#,382
+278328681,Dimillian/RedditOS,Swift,660
 127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,204
-262296122,PaddlePaddle/PaddleOCR,C++,948
-268501098,skydoves/Pokedex,Kotlin,404
-277494017,manikandanraji/youtubeclone-frontend,JavaScript,430
-278749208,jordansinger/SwiftUI-Kit,Swift,239
-247659028,KFCFans/PowerJob,Java,136
-202018792,aws/copilot-cli,Go,163
+262296122,PaddlePaddle/PaddleOCR,C++,962
+268501098,skydoves/Pokedex,Kotlin,408
+277494017,manikandanraji/youtubeclone-frontend,JavaScript,415
+278749208,jordansinger/SwiftUI-Kit,Swift,229
+247659028,KFCFans/PowerJob,Java,137
+202018792,aws/copilot-cli,Go,164
