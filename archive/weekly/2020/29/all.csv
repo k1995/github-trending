@@ -1,26 +1,26 @@
 id,name,lang,new stars
-23357588,protocolbuffers/protobuf,C++,236
+23357588,protocolbuffers/protobuf,C++,230
 15204860,papers-we-love/papers-we-love,Shell,997
 137078487,vuejs/vue-next,TypeScript,323
-170067246,openai/gpt-2,Python,155
+170067246,openai/gpt-2,Python,160
 77912349,qianguyihao/Web,JavaScript,220
-54168759,SergioBenitez/Rocket,Rust,377
-41889031,TeamNewPipe/NewPipe,Java,487
-59435364,outline/outline,JavaScript,254
-178626720,PyTorchLightning/pytorch-lightning,Python,240
-264870386,openai/gpt-3,,2090
-54972769,QUANTAXIS/QUANTAXIS,Python,67
-180481986,apache/incubator-apisix,Lua,177
-32887098,googleapis/googleapis,Starlark,560
+54168759,SergioBenitez/Rocket,Rust,375
+41889031,TeamNewPipe/NewPipe,Java,489
+59435364,outline/outline,JavaScript,240
+178626720,PyTorchLightning/pytorch-lightning,Python,235
+264870386,openai/gpt-3,,2144
+54972769,QUANTAXIS/QUANTAXIS,Python,77
+180481986,apache/incubator-apisix,Lua,176
+32887098,googleapis/googleapis,Starlark,564
 202429703,FirebaseExtended/flutterfire,Dart,74
-115516512,ivanpaulovich/clean-architecture-manga,C#,386
-278328681,Dimillian/RedditOS,Swift,451
-262296122,PaddlePaddle/PaddleOCR,C++,1012
-127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,205
-268501098,skydoves/Pokedex,Kotlin,399
-203999962,open-mmlab/mmediting,Python,141
+115516512,ivanpaulovich/clean-architecture-manga,C#,388
+278328681,Dimillian/RedditOS,Swift,408
+262296122,PaddlePaddle/PaddleOCR,C++,1020
+127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,201
+268501098,skydoves/Pokedex,Kotlin,397
+203999962,open-mmlab/mmediting,Python,142
 49680187,Bottelet/DaybydayCRM,PHP,66
-111455867,smartcontractkit/chainlink,Go,41
-277494017,manikandanraji/youtubeclone-frontend,JavaScript,317
-247659028,KFCFans/PowerJob,Java,137
-202018792,aws/copilot-cli,Go,159
+111455867,smartcontractkit/chainlink,Go,39
+277494017,manikandanraji/youtubeclone-frontend,JavaScript,291
+247659028,KFCFans/PowerJob,Java,136
+202018792,aws/copilot-cli,Go,158
