@@ -3,7 +3,7 @@ id,name,lang,new stars
 1614410,FFmpeg/FFmpeg,C,17
 18666758,pjreddie/darknet,C,15
 5101141,stedolan/jq,C,10
-908607,numpy/numpy,C,24
+908607,numpy/numpy,C,25
 84240850,timescale/timescaledb,C,23
 613829,openresty/lua-nginx-module,C,11
 901662,libgit2/libgit2,C,5
@@ -12,7 +12,7 @@ id,name,lang,new stars
 3319040,id-Software/DOOM,C,9
 65899476,espressif/esp-idf,C,8
 39242894,coturn/coturn,C,10
-5870069,edenhill/librdkafka,C,2
+5870069,edenhill/librdkafka,C,3
 16734696,meetecho/janus-gateway,C,5
 31791482,microsoft/Windows-driver-samples,C,4
 21329550,wireshark/wireshark,C,5
