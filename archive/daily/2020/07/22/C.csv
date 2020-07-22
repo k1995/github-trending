@@ -3,13 +3,13 @@ id,name,lang,new stars
 1614410,FFmpeg/FFmpeg,C,17
 18666758,pjreddie/darknet,C,15
 5101141,stedolan/jq,C,10
-908607,numpy/numpy,C,25
+908607,numpy/numpy,C,22
 84240850,timescale/timescaledb,C,23
-613829,openresty/lua-nginx-module,C,11
+613829,openresty/lua-nginx-module,C,8
 901662,libgit2/libgit2,C,5
 3299208,videolan/vlc,C,9
-75811015,Tencent/xLua,C,6
-3319040,id-Software/DOOM,C,9
+75811015,Tencent/xLua,C,7
+3319040,id-Software/DOOM,C,10
 65899476,espressif/esp-idf,C,8
 39242894,coturn/coturn,C,10
 5870069,edenhill/librdkafka,C,3

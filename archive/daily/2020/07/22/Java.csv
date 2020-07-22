@@ -1,10 +1,10 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,104
+132464395,Snailclimb/JavaGuide,Java,100
 507775,elastic/elasticsearch,Java,20
 892275,square/retrofit,Java,8
 63477660,TheAlgorithms/Java,Java,70
-9754983,eugenp/tutorials,Java,10
-7613257,SeleniumHQ/selenium,Java,10
+9754983,eugenp/tutorials,Java,9
+7613257,SeleniumHQ/selenium,Java,12
 2211243,apache/kafka,Java,13
 13862381,DrKLO/Telegram,Java,11
 53662249,wix/react-native-navigation,Java,9
@@ -12,15 +12,15 @@ id,name,lang,new stars
 6358188,apache/druid,Java,5
 22043847,mission-peace/interview,Java,11
 27729926,grpc/grpc-java,Java,6
-671825,Graylog2/graylog2-server,Java,3
+671825,Graylog2/graylog2-server,Java,1
 139914932,quarkusio/quarkus,Java,15
 10873724,joelittlejohn/jsonschema2pojo,Java,6
 209921402,newbee-ltd/newbee-mall,Java,5
 50229487,apache/lucene-solr,Java,7
-206317,apache/camel,Java,5
+206317,apache/camel,Java,6
 75882172,Netflix/conductor,Java,4
-216236917,bjmashibing/InternetArchitect,Java,36
-76400426,spring-cloud/spring-cloud-kubernetes,Java,2
+216236917,bjmashibing/InternetArchitect,Java,22
+76400426,spring-cloud/spring-cloud-kubernetes,Java,0
 166515022,prestosql/presto,Java,7
 246090467,EiletXie/cloud2020,Java,5
 235494024,AgoraIO-Usecase/AgoraLive,Java,46
