@@ -2,10 +2,10 @@ id,name,lang,new stars
 42408804,containous/traefik,Go,12
 13628513,sirupsen/logrus,Go,11
 41349039,dgraph-io/dgraph,Go,4
-135516270,rancher/k3s,Go,13
+135516270,rancher/k3s,Go,14
 27729907,grpc/grpc-go,Go,9
 5179099,go-redis/redis,Go,10
-33352201,grpc-ecosystem/grpc-gateway,Go,11
+33352201,grpc-ecosystem/grpc-gateway,Go,10
 72891330,kubernetes/ingress-nginx,Go,12
 4022652,gomodule/redigo,Go,3
 87617508,casbin/casbin,Go,10
@@ -23,4 +23,4 @@ id,name,lang,new stars
 105711679,envoyproxy/protoc-gen-validate,Go,1
 83623770,databus23/helm-diff,Go,3
 193681111,filecoin-project/lotus,Go,6
-276077594,upmasked/number-verifier,Go,72
+276077594,upmasked/number-verifier,Go,71
