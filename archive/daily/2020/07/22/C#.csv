@@ -2,11 +2,11 @@ id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,25
 199570071,2dust/v2rayN,C#,39
 16157746,dotnet/efcore,C#,7
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,8
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,10
 28239455,dotnet/AspNetCore.Docs,C#,4
 161012019,jellyfin/jellyfin,C#,17
 46652227,IdentityServer/IdentityServer4,C#,6
-142076747,microsoft/ailab,C#,45
+142076747,microsoft/ailab,C#,44
 64290739,dodyg/practical-aspnetcore,C#,26
 54213490,xamarin/Xamarin.Forms,C#,2
 75505125,abpframework/abp,C#,29
@@ -18,8 +18,8 @@ id,name,lang,new stars
 169597853,cobbr/Covenant,C#,4
 119571446,dotnet/samples,C#,3
 50355666,lunet-io/scriban,C#,12
-128952316,mikependon/RepoDb,C#,84
-180380156,matterpreter/DefenderCheck,C#,6
+128952316,mikependon/RepoDb,C#,81
+180380156,matterpreter/DefenderCheck,C#,8
 185478059,open-telemetry/opentelemetry-dotnet,C#,6
 192089662,arkane-systems/genie,C#,2
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,1

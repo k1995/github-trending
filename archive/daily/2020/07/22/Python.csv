@@ -2,13 +2,13 @@ id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,91
 51117837,tensorflow/models,Python,29
 1362490,psf/requests,Python,14
-12888993,home-assistant/core,Python,70
-155220641,huggingface/transformers,Python,72
-39464018,apache/incubator-superset,Python,26
-70905478,floodsung/Deep-Learning-Papers-Reading-Roadmap,Python,228
+12888993,home-assistant/core,Python,72
+155220641,huggingface/transformers,Python,74
+39464018,apache/incubator-superset,Python,25
+70905478,floodsung/Deep-Learning-Papers-Reading-Roadmap,Python,236
 57222302,openai/gym,Python,39
 125266328,psf/black,Python,23
-170067246,openai/gpt-2,Python,43
+170067246,openai/gpt-2,Python,40
 71932349,ray-project/ray,Python,13
 48623558,chubin/wttr.in,Python,10
 123303402,python-poetry/poetry,Python,11
@@ -20,7 +20,7 @@ id,name,lang,new stars
 130375797,dmlc/dgl,Python,5
 157733401,Dod-o/Statistical-Learning-Method_Code,Python,20
 225979578,talkpython/python-for-absolute-beginners-course,Python,30
-273621502,minimaxir/gpt-3-experiments,Python,87
+273621502,minimaxir/gpt-3-experiments,Python,91
 278810244,open-mmlab/mmaction2,Python,15
 280610893,Adityaojas/sudoku-solver,Python,28
 280118988,Scalsol/RepPointsV2,Python,14
