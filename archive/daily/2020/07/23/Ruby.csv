@@ -1,8 +1,8 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,10
-2500088,gitlabhq/gitlabhq,Ruby,2
+2500088,gitlabhq/gitlabhq,Ruby,3
 481872,hashicorp/vagrant,Ruby,8
-138312,capistrano/capistrano,Ruby,3
+138312,capistrano/capistrano,Ruby,4
 1090311,elastic/logstash,Ruby,9
 4095287,rubocop-hq/rubocop,Ruby,0
 3195124,mperham/sidekiq,Ruby,7
@@ -10,11 +10,11 @@ id,name,lang,new stars
 611921,activeadmin/activeadmin,Ruby,3
 451035,heartcombo/simple_form,Ruby,2
 6688319,DeathKing/Learning-SICP,Ruby,6
-6529205,varvet/pundit,Ruby,4
+6529205,varvet/pundit,Ruby,3
 108278,chef/chef,Ruby,3
 910744,puppetlabs/puppet,Ruby,2
 11607598,ruby-concurrency/concurrent-ruby,Ruby,3
-30337170,rmosolgo/graphql-ruby,Ruby,3
+30337170,rmosolgo/graphql-ruby,Ruby,4
 52316423,luggit/react-native-config,Ruby,2
 1172597,thoughtbot/shoulda-matchers,Ruby,0
 3898922,zammad/zammad,Ruby,2
