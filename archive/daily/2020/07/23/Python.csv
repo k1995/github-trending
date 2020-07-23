@@ -1,7 +1,7 @@
 id,name,lang,new stars
 12888993,home-assistant/core,Python,16
 70905478,floodsung/Deep-Learning-Papers-Reading-Roadmap,Python,294
-57222302,openai/gym,Python,65
+57222302,openai/gym,Python,57
 125266328,psf/black,Python,30
 1377867,locustio/locust,Python,7
 170067246,openai/gpt-2,Python,28
@@ -13,14 +13,14 @@ id,name,lang,new stars
 106024057,rusty1s/pytorch_geometric,Python,14
 13595305,asciimoo/searx,Python,17
 136202695,mlflow/mlflow,Python,9
-152166877,d2l-ai/d2l-en,Python,55
+152166877,d2l-ai/d2l-en,Python,56
 156606738,openai/spinningup,Python,5
 8277372,spulec/moto,Python,7
 254127753,vt-vl-lab/3d-photo-inpainting,Python,140
-192814419,ymcui/Chinese-BERT-wwm,Python,13
+192814419,ymcui/Chinese-BERT-wwm,Python,12
 111835796,pytorch/ignite,Python,3
-97431281,pythonstock/stock,Python,286
-266417772,Pitt-CSC/Summer2021-Internships,Python,37
+97431281,pythonstock/stock,Python,288
+266417772,Pitt-CSC/Summer2021-Internships,Python,36
 221654678,deepset-ai/haystack,Python,10
 273621502,minimaxir/gpt-3-experiments,Python,43
-280260739,facebookresearch/swav,Python,50
+280260739,facebookresearch/swav,Python,47

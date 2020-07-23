@@ -1,21 +1,21 @@
 id,name,lang,new stars
-23096959,golang/go,Go,66
+23096959,golang/go,Go,61
 15452919,ethereum/go-ethereum,Go,12
 13124802,influxdata/influxdb,Go,14
 56353740,kubernetes/minikube,Go,7
 50709152,kataras/iris,Go,20
 12080551,tsenart/vegeta,Go,7
 13624859,gorilla/websocket,Go,18
-62091339,kubernetes/kops,Go,12
+62091339,kubernetes/kops,Go,10
 131371773,hoanhan101/ultimate-go,Go,17
-33258973,influxdata/telegraf,Go,13
+33258973,influxdata/telegraf,Go,12
 33352201,grpc-ecosystem/grpc-gateway,Go,4
-21405028,ardanlabs/gotraining,Go,110
+21405028,ardanlabs/gotraining,Go,132
 22442668,openshift/origin,Go,3
 109162639,thanos-io/thanos,Go,6
 10270722,google/go-github,Go,5
 93444615,terraform-providers/terraform-provider-aws,Go,7
-54539060,allegro/bigcache,Go,11
+54539060,allegro/bigcache,Go,10
 59522149,gruntwork-io/terragrunt,Go,1
 87990209,kubernetes/autoscaler,Go,10
 107600830,aws/aws-lambda-go,Go,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,3
 155368246,elastic/cloud-on-k8s,Go,1
 243213207,alexellis/arkade,Go,14
-276077594,upmasked/number-verifier,Go,220
+276077594,upmasked/number-verifier,Go,222
