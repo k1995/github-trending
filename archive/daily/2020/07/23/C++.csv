@@ -1,14 +1,14 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,58
 5108051,opencv/opencv,C++,132
-65600975,pytorch/pytorch,C++,40
+65600975,pytorch/pytorch,C++,36
 15634981,godotengine/godot,C++,42
 39840932,google/googletest,C++,13
 19953044,google/flatbuffers,C++,5
-251383553,electronicarts/CnC_Remastered_Collection,C++,95
+251383553,electronicarts/CnC_Remastered_Collection,C++,92
 65214191,envoyproxy/envoy,C++,11
 60246359,ClickHouse/ClickHouse,C++,27
-26038648,gabime/spdlog,C++,10
+26038648,gabime/spdlog,C++,12
 34777562,ossrs/srs,C++,10
 104231541,abseil/abseil-cpp,C++,5
 196813750,Light-City/CPlusPlusThings,C++,36
@@ -17,10 +17,10 @@ id,name,lang,new stars
 5973855,CleverRaven/Cataclysm-DDA,C++,5
 144664950,HackerPoet/NonEuclidean,C++,12
 100979484,google-ar/arcore-android-sdk,C++,4
-156939672,microsoft/onnxruntime,C++,12
+156939672,microsoft/onnxruntime,C++,9
 184657328,NVIDIA/TensorRT,C++,5
 153097643,openvinotoolkit/openvino,C++,2
 131630299,onnx/onnx-tensorrt,C++,3
 75978731,microsoft/AdaptiveCards,C++,2
-61202664,hyperion-project/hyperion.ng,C++,7
+61202664,hyperion-project/hyperion.ng,C++,24
 269591437,joergoster/Stockfish-NNUE,C++,3

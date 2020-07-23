@@ -5,8 +5,8 @@ id,name,lang,new stars
 7704544,Intervention/image,PHP,6
 23680678,tymondesigns/jwt-auth,PHP,3
 14259390,Maatwebsite/Laravel-Excel,PHP,6
-61490598,PHPOffice/PhpSpreadsheet,PHP,10
-2699935,squizlabs/PHP_CodeSniffer,PHP,2
+61490598,PHPOffice/PhpSpreadsheet,PHP,12
+2699935,squizlabs/PHP_CodeSniffer,PHP,6
 2179920,woocommerce/woocommerce,PHP,2
 9131292,jenssegers/laravel-mongodb,PHP,4
 7413451,timber/timber,PHP,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 146414504,jianyan74/rageframe2,PHP,5
 131995661,shopware/platform,PHP,3
 16455664,tastyigniter/TastyIgniter,PHP,22
-252061836,umi-top/umi-core-php,PHP,187
+252061836,umi-top/umi-core-php,PHP,183
 91593797,magento/inventory,PHP,0
 235185958,kp7742/PUBGPatcher,PHP,1
