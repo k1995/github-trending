@@ -6,7 +6,7 @@ id,name,lang,new stars
 613829,openresty/lua-nginx-module,C,3
 1482997,phpredis/phpredis,C,3
 1856976,libevent/libevent,C,8
-63809205,google/oss-fuzz,C,5
+63809205,google/oss-fuzz,C,7
 13836499,raysan5/raylib,C,10
 2755696,mattn/go-sqlite3,C,3
 22711503,gcc-mirror/gcc,C,4
@@ -17,7 +17,7 @@ id,name,lang,new stars
 28928522,wolfSSL/wolfssl,C,0
 144465372,RfidResearchGroup/proxmark3,C,3
 170803235,facebookincubator/magma,C,1
-93187598,kkkgo/vlmcsd,C,8
+93187598,kkkgo/vlmcsd,C,7
 218111983,googleprojectzero/ktrw,C,1
 59082072,openpbs/openpbs,C,2
 278359094,bitdefender/bddisasm,C,112
