@@ -1,16 +1,16 @@
 id,name,lang,new stars
 17620347,dotnet/aspnetcore,C#,15
-959908,OpenRA/OpenRA,C#,9
+959908,OpenRA/OpenRA,C#,8
 161012019,jellyfin/jellyfin,C#,13
 46652227,IdentityServer/IdentityServer4,C#,7
 11920542,HangfireIO/Hangfire,C#,4
 64290739,dodyg/practical-aspnetcore,C#,12
-54213490,xamarin/Xamarin.Forms,C#,4
+54213490,xamarin/Xamarin.Forms,C#,3
 17748183,StackExchange/StackExchange.Redis,C#,2
 210716005,dotnet/runtime,C#,14
 68730444,microsoft/BotBuilder-Samples,C#,9
 23891194,Azure/azure-powershell,C#,3
-5332067,fluentscheduler/FluentScheduler,C#,5
+5332067,fluentscheduler/FluentScheduler,C#,4
 168800921,keenanwoodall/Deform,C#,4
 2928944,Azure/azure-sdk-for-net,C#,1
 150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 168957647,kgrzybek/sample-dotnet-core-cqrs-api,C#,3
 185478059,open-telemetry/opentelemetry-dotnet,C#,2
 188409072,microsoft/MixedReality-WebRTC,C#,1
-243422604,samhogan/Minecraft-Unity3D,C#,8
+243422604,samhogan/Minecraft-Unity3D,C#,7
 111510915,dotnet/dotnet-api-docs,C#,0
-187273732,servicetitan/Stl.Fusion,C#,55
+187273732,servicetitan/Stl.Fusion,C#,54
 270384398,MephestoKhaan/HandPosing,C#,4
