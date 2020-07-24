@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,777
+1863329,laravel/laravel,PHP,779
 2579314,fzaninotto/Faker,PHP,271
-7548986,laravel/framework,PHP,292
+7548986,laravel/framework,PHP,293
 1420053,guzzle/guzzle,PHP,188
 3431193,yiisoft/yii2,PHP,80
 4702560,PHPOffice/PHPExcel,PHP,28
@@ -9,15 +9,15 @@ id,name,lang,new stars
 61490598,PHPOffice/PhpSpreadsheet,PHP,154
 42480275,spatie/laravel-permission,PHP,151
 656494,cakephp/cakephp,PHP,44
-79111500,jupeter/clean-code-php,PHP,141
+79111500,jupeter/clean-code-php,PHP,142
 2699935,squizlabs/PHP_CodeSniffer,PHP,79
-6660366,dompdf/dompdf,PHP,94
-2717549,Sylius/Sylius,PHP,54
+6660366,dompdf/dompdf,PHP,95
+2717549,Sylius/Sylius,PHP,55
 6763587,PrestaShop/PrestaShop,PHP,258
-170355508,livewire/livewire,PHP,650
+170355508,livewire/livewire,PHP,651
 30171828,rappasoft/laravel-boilerplate,PHP,352
 74386167,vimeo/psalm,PHP,152
-97311017,rectorphp/rector,PHP,93
+97311017,rectorphp/rector,PHP,94
 29126334,EasyCorp/EasyAdminBundle,PHP,73
 41463886,codeigniter4/CodeIgniter4,PHP,100
 69691727,pmmp/PocketMine-MP,PHP,75
