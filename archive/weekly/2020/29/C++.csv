@@ -1,13 +1,13 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,359
-5108051,opencv/opencv,C++,642
+45717250,tensorflow/tensorflow,C++,363
+5108051,opencv/opencv,C++,644
 1181927,bitcoin/bitcoin,C++,147
-23357588,protocolbuffers/protobuf,C++,172
-65600975,pytorch/pytorch,C++,215
+23357588,protocolbuffers/protobuf,C++,174
+65600975,pytorch/pytorch,C++,222
 11171548,nlohmann/json,C++,105
 6934395,facebook/rocksdb,C++,214
 76222419,Tencent/mars,C++,34
-120887835,huihut/interview,C++,165
+120887835,huihut/interview,C++,172
 33014811,notepad-plus-plus/notepad-plus-plus,C++,114
 60246359,ClickHouse/ClickHouse,C++,119
 1217614,xbmc/xbmc,C++,34
@@ -21,6 +21,6 @@ id,name,lang,new stars
 5298790,PX4/Firmware,C++,22
 156939672,microsoft/onnxruntime,C++,44
 76990209,Aircoookie/WLED,C++,63
-262296122,PaddlePaddle/PaddleOCR,C++,703
+262296122,PaddlePaddle/PaddleOCR,C++,707
 165091078,HKUST-Aerial-Robotics/VINS-Fusion,C++,12
 276365255,opencurve/curve,C++,243

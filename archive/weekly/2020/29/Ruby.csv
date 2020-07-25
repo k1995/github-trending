@@ -1,9 +1,9 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,76
-65252,jekyll/jekyll,Ruby,72
+65252,jekyll/jekyll,Ruby,75
 52281283,tootsuite/mastodon,Ruby,70
-538746,ruby/ruby,Ruby,36
-73648678,forem/forem,Ruby,748
+538746,ruby/ruby,Ruby,37
+73648678,forem/forem,Ruby,749
 2203645,CocoaPods/CocoaPods,Ruby,19
 1090311,elastic/logstash,Ruby,32
 4095287,rubocop-hq/rubocop,Ruby,23
@@ -11,7 +11,7 @@ id,name,lang,new stars
 812393,ruby-grape/grape,Ruby,7
 611921,activeadmin/activeadmin,Ruby,14
 96395,faker-ruby/faker,Ruby,17
-15435,Shopify/liquid,Ruby,16
+15435,Shopify/liquid,Ruby,17
 1725199,github/linguist,Ruby,23
 451035,heartcombo/simple_form,Ruby,13
 33739333,thoughtbot/administrate,Ruby,18
@@ -22,5 +22,5 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,20
 244452551,alexeygrigorev/data-science-interviews,Ruby,22
 35051828,dev-sec/ansible-os-hardening,Ruby,17
-189010173,Hackplayers/evil-winrm,Ruby,22
+189010173,Hackplayers/evil-winrm,Ruby,23
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,4

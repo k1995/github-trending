@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,785
-10744183,netdata/netdata,C,141
+2325298,torvalds/linux,C,792
+10744183,netdata/netdata,C,143
 24586308,cfenollosa/os-tutorial,C,102
-14812739,libuv/libuv,C,41
-4869294,radareorg/radare2,C,54
-102578345,coolsnowwolf/lede,C,154
+14812739,libuv/libuv,C,42
+4869294,radareorg/radare2,C,55
+102578345,coolsnowwolf/lede,C,156
 34921116,iovisor/bcc,C,58
-5254557,cloudwu/skynet,C,35
+5254557,cloudwu/skynet,C,36
 27737393,qmk/qmk_firmware,C,57
 927442,postgres/postgres,C,51
 3199002,raspberrypi/linux,C,25
@@ -14,13 +14,13 @@ id,name,lang,new stars
 45821540,openwrt/openwrt,C,32
 6376337,pocoproject/poco,C,23
 3671479,nmap/nmap,C,23
-60667730,lvgl/lvgl,C,52
+60667730,lvgl/lvgl,C,53
 37060852,betaflight/betaflight,C,22
 59771425,zephyrproject-rtos/zephyr,C,21
 101866073,alibaba/AliOS-Things,C,16
-205810121,CloverHackyColor/CloverBootloader,C,50
+205810121,CloverHackyColor/CloverBootloader,C,51
 29933948,fluent/fluent-bit,C,16
-27584181,espressif/ESP8266_RTOS_SDK,C,9
+27584181,espressif/ESP8266_RTOS_SDK,C,10
 99199151,xiph/rnnoise,C,69
-213916896,blender/blender,C,40
+213916896,blender/blender,C,41
 205957866,brandonplank/rootlessJB4,C,11
