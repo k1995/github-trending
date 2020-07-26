@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,733
-10744183,netdata/netdata,C,150
-14812739,libuv/libuv,C,47
-4869294,radareorg/radare2,C,59
-102578345,coolsnowwolf/lede,C,162
+2325298,torvalds/linux,C,742
+10744183,netdata/netdata,C,153
+14812739,libuv/libuv,C,48
+4869294,radareorg/radare2,C,61
+102578345,coolsnowwolf/lede,C,165
 34921116,iovisor/bcc,C,47
 5254557,cloudwu/skynet,C,36
-27737393,qmk/qmk_firmware,C,64
-3199002,raspberrypi/linux,C,27
+27737393,qmk/qmk_firmware,C,66
+3199002,raspberrypi/linux,C,28
 41215835,HandBrake/HandBrake,C,59
 3299208,videolan/vlc,C,39
 18106269,lz4/lz4,C,27
@@ -16,7 +16,7 @@ id,name,lang,new stars
 60667730,lvgl/lvgl,C,66
 37060852,betaflight/betaflight,C,25
 59676171,KevinOConnor/klipper,C,19
-27584181,espressif/ESP8266_RTOS_SDK,C,11
+27584181,espressif/ESP8266_RTOS_SDK,C,12
 131710328,CTCaer/hekate,C,20
 90867899,stm32duino/Arduino_Core_STM32,C,16
 178089499,TheWover/donut,C,21
