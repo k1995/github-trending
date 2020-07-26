@@ -1,10 +1,10 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1186
-20580498,kubernetes/kubernetes,Go,1178
+23096959,golang/go,Go,1188
+20580498,kubernetes/kubernetes,Go,1181
 21540759,avelino/awesome-go,Go,906
-20904437,gin-gonic/gin,Go,1070
+20904437,gin-gonic/gin,Go,1073
 6838921,prometheus/prometheus,Go,654
-74175805,istio/istio,Go,409
+74175805,istio/istio,Go,411
 8989842,unknwon/the-way-to-go_ZH_CN,Go,456
 31288958,hashicorp/vault,Go,965
 131371773,hoanhan101/ultimate-go,Go,1549
@@ -12,15 +12,15 @@ id,name,lang,new stars
 31558937,gravitational/teleport,Go,220
 272035489,greyireland/algorithm-pattern,Go,3074
 54400687,loadimpact/k6,Go,205
-234231371,gofiber/fiber,Go,982
+234231371,gofiber/fiber,Go,984
 11206255,Shopify/sarama,Go,139
-26661222,tinode/chat,Go,1276
-37334619,golang/mock,Go,140
+26661222,tinode/chat,Go,1277
+37334619,golang/mock,Go,142
 205679232,flipped-aurora/gin-vue-admin,Go,854
-47859258,goplus/gop,Go,1297
+47859258,goplus/gop,Go,1298
 125275487,kubernetes-sigs/kubebuilder,Go,117
 150713223,kubeedge/kubeedge,Go,120
 247032621,wenjianzhang/go-admin,Go,415
-75785240,authelia/authelia,Go,214
+75785240,authelia/authelia,Go,215
 111455867,smartcontractkit/chainlink,Go,88
 193681111,filecoin-project/lotus,Go,157

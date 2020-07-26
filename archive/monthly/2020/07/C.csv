@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,2153
+2325298,torvalds/linux,C,2157
 156018,redis/redis,C,761
-111583593,Genymobile/scrcpy,C,1838
+111583593,Genymobile/scrcpy,C,1840
 1903522,php/php-src,C,365
-24586308,cfenollosa/os-tutorial,C,376
-18666758,pjreddie/darknet,C,353
-908607,numpy/numpy,C,359
-6201092,mpv-player/mpv,C,266
+24586308,cfenollosa/os-tutorial,C,377
+18666758,pjreddie/darknet,C,354
+908607,numpy/numpy,C,362
+6201092,mpv-player/mpv,C,267
 102578345,coolsnowwolf/lede,C,583
 23515024,octalmage/robotjs,C,308
 613829,openresty/lua-nginx-module,C,112
@@ -17,7 +17,7 @@ id,name,lang,new stars
 35780977,ImageMagick/ImageMagick,C,130
 179354282,acidanthera/OpenCorePkg,C,547
 273689548,peng-zhihui/L-ink_Card,C,1141
-255670798,sandboxie/sandboxie,C,323
+255670798,sandboxie/sandboxie,C,326
 241659610,OpenIntelWireless/itlwm,C,331
 108110706,tporadowski/redis,C,155
 254327261,sandboxie-plus/Sandboxie,C,285

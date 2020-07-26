@@ -1,13 +1,13 @@
 id,name,lang,new stars
-23096959,golang/go,Go,337
-15452919,ethereum/go-ethereum,Go,69
+23096959,golang/go,Go,339
+15452919,ethereum/go-ethereum,Go,62
 41986369,pingcap/tidb,Go,91
-74175805,istio/istio,Go,98
+74175805,istio/istio,Go,95
 17728164,hashicorp/terraform,Go,284
 31504491,labstack/echo,Go,89
 31288958,hashicorp/vault,Go,771
-13628513,sirupsen/logrus,Go,74
-46806184,helm/charts,Go,84
+13628513,sirupsen/logrus,Go,65
+46806184,helm/charts,Go,83
 6247705,stretchr/testify,Go,83
 136815833,Dreamacro/clash,Go,338
 33258973,influxdata/telegraf,Go,42
@@ -15,12 +15,12 @@ id,name,lang,new stars
 169948217,crawlab-team/crawlab,Go,92
 11206255,Shopify/sarama,Go,35
 119160553,photoprism/photoprism,Go,74
-62712899,AdguardTeam/AdGuardHome,Go,107
+62712899,AdguardTeam/AdGuardHome,Go,102
 55637575,lucas-clemente/quic-go,Go,27
 31311037,jpillora/chisel,Go,32
 125275487,kubernetes-sigs/kubebuilder,Go,35
 206213815,chaos-mesh/chaos-mesh,Go,43
-277194804,lawl/NoiseTorch,Go,795
+277194804,lawl/NoiseTorch,Go,801
 98671007,kubernetes-sigs/descheduler,Go,19
 193681111,filecoin-project/lotus,Go,75
-184968996,darcys22/godbledger,Go,79
+184968996,darcys22/godbledger,Go,80
