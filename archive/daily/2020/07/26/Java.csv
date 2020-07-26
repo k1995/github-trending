@@ -1,11 +1,11 @@
 id,name,lang,new stars
 22790488,iluwatar/java-design-patterns,Java,22
-127988011,macrozheng/mall,Java,32
+127988011,macrozheng/mall,Java,31
 2700474,alibaba/fastjson,Java,10
 173228436,NationalSecurityAgency/ghidra,Java,32
 1103607,jenkinsci/jenkins,Java,4
-45721011,apache/skywalking,Java,10
-7010724,dianping/cat,Java,37
+45721011,apache/skywalking,Java,11
+7010724,dianping/cat,Java,38
 501687,antlr/antlr4,Java,10
 27729926,grpc/grpc-java,Java,3
 6220644,OpenRefine/OpenRefine,Java,2
@@ -19,7 +19,7 @@ id,name,lang,new stars
 33816473,testcontainers/testcontainers-java,Java,7
 83799439,LawnchairLauncher/Lawnchair,Java,3
 149121954,openjdk/jdk,Java,9
-156776442,trojan-gfw/igniter,Java,3
+156776442,trojan-gfw/igniter,Java,4
 27911088,apache/nifi,Java,1
 85237914,react-native-kit/react-native-track-player,Java,2
 212488700,pytorch/serve,Java,1

@@ -1,15 +1,15 @@
 id,name,lang,new stars
-23096959,golang/go,Go,315
-20580498,kubernetes/kubernetes,Go,275
-20904437,gin-gonic/gin,Go,233
-48378947,fatedier/frp,Go,190
+23096959,golang/go,Go,318
+20580498,kubernetes/kubernetes,Go,277
+20904437,gin-gonic/gin,Go,236
+48378947,fatedier/frp,Go,191
 15452919,ethereum/go-ethereum,Go,62
 74175805,istio/istio,Go,95
-31288958,hashicorp/vault,Go,765
+31288958,hashicorp/vault,Go,767
 13628513,sirupsen/logrus,Go,65
 46806184,helm/charts,Go,84
 6247705,stretchr/testify,Go,83
-136815833,Dreamacro/clash,Go,311
+136815833,Dreamacro/clash,Go,316
 71297170,Netflix/chaosmonkey,Go,81
 33258973,influxdata/telegraf,Go,42
 21405028,ardanlabs/gotraining,Go,367
