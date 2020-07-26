@@ -1,6 +1,6 @@
 id,name,lang,new stars
 23096959,golang/go,Go,28
-13807606,junegunn/fzf,Go,26
+13807606,junegunn/fzf,Go,27
 31504491,labstack/echo,Go,15
 43723161,helm/helm,Go,5
 31288958,hashicorp/vault,Go,186
@@ -8,17 +8,17 @@ id,name,lang,new stars
 46806184,helm/charts,Go,16
 6247705,stretchr/testify,Go,13
 20653934,google/cadvisor,Go,10
-167596393,derailed/k9s,Go,14
+167596393,derailed/k9s,Go,15
 4059138,dgrijalva/jwt-go,Go,5
-21405028,ardanlabs/gotraining,Go,50
-158645957,OpenDiablo2/OpenDiablo2,Go,171
+21405028,ardanlabs/gotraining,Go,51
+158645957,OpenDiablo2/OpenDiablo2,Go,178
 119419195,GoogleContainerTools/kaniko,Go,3
 11206255,Shopify/sarama,Go,4
 53174289,gruntwork-io/terratest,Go,4
 86164982,gonum/gonum,Go,8
 7515336,davecgh/go-spew,Go,2
 184490584,GoogleCloudPlatform/terraformer,Go,12
-252093005,umi-top/umi-core,Go,1583
+252093005,umi-top/umi-core,Go,1596
 156681830,ffuf/ffuf,Go,28
 19283751,Jeffail/gabs,Go,15
 22700054,hashicorp/golang-lru,Go,5
