@@ -7,8 +7,8 @@ id,name,lang,new stars
 7122594,directus/directus,PHP,12
 3217621,phpmyadmin/phpmyadmin,PHP,4
 21298446,firefly-iii/firefly-iii,PHP,7
+252061836,umi-top/umi-core-php,PHP,2267
 145865941,laravel/telescope,PHP,2
-252061836,umi-top/umi-core-php,PHP,2094
 95011974,akaunting/akaunting,PHP,4
 456930,splitbrain/dokuwiki,PHP,3
 148129143,bagisto/bagisto,PHP,7
@@ -23,4 +23,4 @@ id,name,lang,new stars
 275164505,spatie/laravel-schedule-monitor,PHP,23
 184348645,coderstape/freeCodeGram,PHP,1
 274912708,ZainCheung/netease-cloud-api,PHP,5
-279137838,dcblogdev/laravel-sent-emails,PHP,10
+279137838,dcblogdev/laravel-sent-emails,PHP,11
