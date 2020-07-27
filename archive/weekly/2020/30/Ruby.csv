@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,70
-7569578,discourse/discourse,Ruby,73
-2293158,rapid7/metasploit-framework,Ruby,76
-538746,ruby/ruby,Ruby,39
-73648678,forem/forem,Ruby,491
+8514,rails/rails,Ruby,68
+7569578,discourse/discourse,Ruby,72
+2293158,rapid7/metasploit-framework,Ruby,75
+538746,ruby/ruby,Ruby,37
+73648678,forem/forem,Ruby,449
 1090311,elastic/logstash,Ruby,32
 106995,sinatra/sinatra,Ruby,10
-3314,spree/spree,Ruby,23
+3314,spree/spree,Ruby,22
 3195124,mperham/sidekiq,Ruby,21
 611921,activeadmin/activeadmin,Ruby,9
-15435,Shopify/liquid,Ruby,20
+15435,Shopify/liquid,Ruby,19
 1725199,github/linguist,Ruby,26
-451035,heartcombo/simple_form,Ruby,10
-22059578,ankane/pghero,Ruby,22
+451035,heartcombo/simple_form,Ruby,11
+22059578,ankane/pghero,Ruby,20
 33739333,thoughtbot/administrate,Ruby,9
 30337170,rmosolgo/graphql-ruby,Ruby,10
 6899875,opf/openproject,Ruby,21
@@ -22,5 +22,5 @@ id,name,lang,new stars
 35051828,dev-sec/ansible-os-hardening,Ruby,17
 154027884,samber/awesome-prometheus-alerts,Ruby,32
 93163073,dependabot/dependabot-core,Ruby,19
-200302808,github/view_component,Ruby,34
+200302808,github/view_component,Ruby,32
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,5
