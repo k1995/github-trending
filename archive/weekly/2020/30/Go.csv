@@ -1,10 +1,10 @@
 id,name,lang,new stars
 23096959,golang/go,Go,294
-6838921,prometheus/prometheus,Go,113
+6838921,prometheus/prometheus,Go,114
 15452919,ethereum/go-ethereum,Go,69
-17728164,hashicorp/terraform,Go,278
+17728164,hashicorp/terraform,Go,279
 13124802,influxdata/influxdb,Go,60
-31288958,hashicorp/vault,Go,764
+31288958,hashicorp/vault,Go,763
 13628513,sirupsen/logrus,Go,71
 46806184,helm/charts,Go,88
 44498957,valyala/fasthttp,Go,85
@@ -12,15 +12,15 @@ id,name,lang,new stars
 6247705,stretchr/testify,Go,76
 136815833,Dreamacro/clash,Go,320
 33258973,influxdata/telegraf,Go,48
-21405028,ardanlabs/gotraining,Go,375
-54808920,future-architect/vuls,Go,145
-163883279,nektos/act,Go,185
+21405028,ardanlabs/gotraining,Go,376
+54808920,future-architect/vuls,Go,149
+163883279,nektos/act,Go,187
 11206255,Shopify/sarama,Go,40
 815644,miekg/dns,Go,23
 62712899,AdguardTeam/AdGuardHome,Go,89
-55637575,lucas-clemente/quic-go,Go,30
-277194804,lawl/NoiseTorch,Go,368
+55637575,lucas-clemente/quic-go,Go,32
+277194804,lawl/NoiseTorch,Go,345
 75785240,authelia/authelia,Go,88
 248025303,p4gefau1t/trojan-go,Go,53
-252813491,projectdiscovery/nuclei,Go,58
+252813491,projectdiscovery/nuclei,Go,57
 193681111,filecoin-project/lotus,Go,74

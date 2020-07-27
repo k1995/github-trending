@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,72
-7569578,discourse/discourse,Ruby,74
-2293158,rapid7/metasploit-framework,Ruby,78
+8514,rails/rails,Ruby,70
+7569578,discourse/discourse,Ruby,73
+2293158,rapid7/metasploit-framework,Ruby,75
 538746,ruby/ruby,Ruby,38
-73648678,forem/forem,Ruby,551
+73648678,forem/forem,Ruby,522
 1090311,elastic/logstash,Ruby,32
 106995,sinatra/sinatra,Ruby,10
-3314,spree/spree,Ruby,23
+3314,spree/spree,Ruby,22
 3195124,mperham/sidekiq,Ruby,21
 611921,activeadmin/activeadmin,Ruby,9
-15435,Shopify/liquid,Ruby,19
+15435,Shopify/liquid,Ruby,20
 1725199,github/linguist,Ruby,26
 451035,heartcombo/simple_form,Ruby,10
 22059578,ankane/pghero,Ruby,23
@@ -19,8 +19,8 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,15
 52316423,luggit/react-native-config,Ruby,23
 239001,rspec/rspec,Ruby,6
-35051828,dev-sec/ansible-os-hardening,Ruby,17
+35051828,dev-sec/ansible-os-hardening,Ruby,16
 154027884,samber/awesome-prometheus-alerts,Ruby,31
 93163073,dependabot/dependabot-core,Ruby,20
-200302808,github/view_component,Ruby,36
+200302808,github/view_component,Ruby,37
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,5
