@@ -1,11 +1,11 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,138
+83222441,donnemartin/system-design-primer,Python,142
 54346799,public-apis/public-apis,Python,62
-1039520,ytdl-org/youtube-dl,Python,43
-843222,scikit-learn/scikit-learn,Python,23
-12888993,home-assistant/core,Python,21
+1039520,ytdl-org/youtube-dl,Python,45
+843222,scikit-learn/scikit-learn,Python,24
+12888993,home-assistant/core,Python,20
 41058054,isocpp/CppCoreGuidelines,Python,6
-138331573,sebastianruder/NLP-progress,Python,11
+138331573,sebastianruder/NLP-progress,Python,10
 118861276,gto76/python-cheatsheet,Python,292
 6297520,quantopian/zipline,Python,7
 38696925,python-telegram-bot/python-telegram-bot,Python,14
@@ -17,10 +17,10 @@ id,name,lang,new stars
 182067506,quantumblacklabs/kedro,Python,13
 166086572,ct-Open-Source/tuya-convert,Python,3
 225813090,clovaai/stargan-v2,Python,33
+279002136,plant99/felicette,Python,289
 80345064,Pure-L0G1C/Instagram,Python,8
-279002136,plant99/felicette,Python,270
-217475193,PaddlePaddle/PaddleDetection,Python,17
+217475193,PaddlePaddle/PaddleDetection,Python,16
 193519496,DIGITALCRIMINAL/OnlyFans,Python,5
 209987323,lzzy12/python-aria-mirror-bot,Python,4
-279016141,jin-s13/COCO-WholeBody,Python,36
-282414356,surya-veer/movement-tracking,Python,56
+282414356,surya-veer/movement-tracking,Python,52
+279016141,jin-s13/COCO-WholeBody,Python,35
