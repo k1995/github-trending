@@ -1,8 +1,8 @@
 id,name,lang,new stars
-23357588,protocolbuffers/protobuf,C++,17
-11171548,nlohmann/json,C++,47
+23357588,protocolbuffers/protobuf,C++,18
+11171548,nlohmann/json,C++,43
 16587283,dmlc/xgboost,C++,6
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,15
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,16
 22394357,osquery/osquery,C++,4
 65214191,envoyproxy/envoy,C++,12
 1062572,catchorg/Catch2,C++,9
@@ -10,15 +10,15 @@ id,name,lang,new stars
 17391973,Tencent/rapidjson,C++,2
 95879426,Tencent/ncnn,C++,9
 2200856,MarlinFirmware/Marlin,C++,11
-104732438,radareorg/cutter,C++,195
-51905353,apache/arrow,C++,19
+104732438,radareorg/cutter,C++,192
+51905353,apache/arrow,C++,20
 111442748,facebookresearch/wav2letter,C++,5
 21530861,open-source-parsers/jsoncpp,C++,4
 50461701,tensorflow/serving,C++,2
 75662387,google/draco,C++,1
 64561753,dusty-nv/jetson-inference,C++,2
 76990209,Aircoookie/WLED,C++,7
-280608729,UZ-SLAMLab/ORB_SLAM3,C++,143
+280608729,UZ-SLAMLab/ORB_SLAM3,C++,139
 168947928,Errichto/youtube,C++,3
 1096480,stevenlovegrove/Pangolin,C++,1
 276269866,TixiaoShan/LIO-SAM,C++,5
