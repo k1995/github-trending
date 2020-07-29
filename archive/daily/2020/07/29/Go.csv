@@ -4,10 +4,10 @@ id,name,lang,new stars
 6838921,prometheus/prometheus,Go,24
 17803236,rclone/rclone,Go,18
 62091339,kubernetes/kops,Go,10
-66573241,hyperledger/fabric,Go,9
+66573241,hyperledger/fabric,Go,7
 5179099,go-redis/redis,Go,12
 16554739,elastic/beats,Go,4
-11593442,golang/groupcache,Go,8
+11593442,golang/groupcache,Go,9
 6443435,nats-io/nats-server,Go,6
 62921553,rook/rook,Go,7
 126250425,google/go-cloud,Go,5
@@ -19,7 +19,7 @@ id,name,lang,new stars
 120650407,operator-framework/operator-sdk,Go,5
 66509131,kubernetes/client-go,Go,6
 120896210,argoproj/argo-cd,Go,8
-11452538,prometheus/alertmanager,Go,5
+11452538,prometheus/alertmanager,Go,6
 67828134,cri-o/cri-o,Go,3
 7823926,prometheus/client_golang,Go,4
 143965255,apache/dubbo-go,Go,24
