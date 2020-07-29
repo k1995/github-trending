@@ -1,19 +1,19 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,119
+17620347,dotnet/aspnetcore,C#,120
 69662720,mxgmn/WaveFunctionCollapse,C#,105
-54086969,thangchung/awesome-dotnet-core,C#,90
+54086969,thangchung/awesome-dotnet-core,C#,92
 16157746,dotnet/efcore,C#,46
-28239455,dotnet/AspNetCore.Docs,C#,43
-161012019,jellyfin/jellyfin,C#,94
-132021166,dotnet/machinelearning,C#,19
-46755185,bitwarden/server,C#,56
+28239455,dotnet/AspNetCore.Docs,C#,42
+161012019,jellyfin/jellyfin,C#,93
+132021166,dotnet/machinelearning,C#,20
+46755185,bitwarden/server,C#,57
 443962,FluentValidation/FluentValidation,C#,29
-198071756,huiyadanli/RevokeMsgPatcher,C#,145
-64290739,dodyg/practical-aspnetcore,C#,49
+198071756,huiyadanli/RevokeMsgPatcher,C#,148
+64290739,dodyg/practical-aspnetcore,C#,43
 42749841,Live-Charts/Live-Charts,C#,29
 2870911,MvvmCross/MvvmCross,C#,7
 210716005,dotnet/runtime,C#,75
-778828,MassTransit/MassTransit,C#,17
+778828,MassTransit/MassTransit,C#,16
 68730444,microsoft/BotBuilder-Samples,C#,22
 152370823,davidfowl/AspNetCoreDiagnosticScenarios,C#,36
 213460285,jasontaylordev/CleanArchitecture,C#,80
@@ -21,6 +21,6 @@ id,name,lang,new stars
 2928944,Azure/azure-sdk-for-net,C#,11
 141745943,vis2k/Mirror,C#,20
 39425864,tModLoader/tModLoader,C#,15
-184286875,actions/runner,C#,27
+184286875,actions/runner,C#,29
 201976298,xamarin/MobileBlazorBindings,C#,17
 243422604,samhogan/Minecraft-Unity3D,C#,33

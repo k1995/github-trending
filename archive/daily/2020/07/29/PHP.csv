@@ -1,12 +1,12 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,31
+3482588,danielmiessler/SecLists,PHP,30
 2579314,fzaninotto/Faker,PHP,10
 458058,symfony/symfony,PHP,3
 1864363,composer/composer,PHP,11
 2253830,PHPMailer/PHPMailer,PHP,7
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,6
-2884111,magento/magento2,PHP,6
-61490598,PHPOffice/PhpSpreadsheet,PHP,12
+2884111,magento/magento2,PHP,9
+61490598,PHPOffice/PhpSpreadsheet,PHP,7
 15020102,walkor/Workerman,PHP,5
 656494,cakephp/cakephp,PHP,2
 597887,doctrine/orm,PHP,3
