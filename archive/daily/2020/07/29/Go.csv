@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,37
+29261473,minio/minio,Go,12
+16607898,drone/drone,Go,9
+43723161,helm/helm,Go,8
+30215630,go-kit/kit,Go,13
+27729907,grpc/grpc-go,Go,8
+56342508,jaegertracing/jaeger,Go,6
+66573241,hyperledger/fabric,Go,9
+8966356,hashicorp/packer,Go,3
+129717717,grafana/loki,Go,15
+131212638,google/gvisor,Go,4
+5179099,go-redis/redis,Go,12
+16554739,elastic/beats,Go,4
+158645957,OpenDiablo2/OpenDiablo2,Go,98
+4059138,dgrijalva/jwt-go,Go,4
+109162639,thanos-io/thanos,Go,3
+119190187,zricethezav/gitleaks,Go,19
+109145553,containers/podman,Go,7
+52193726,volatiletech/sqlboiler,Go,0
+118828329,knative/serving,Go,2
+7823926,prometheus/client_golang,Go,4
+19283751,Jeffail/gabs,Go,7
+57912964,kubernetes/enhancements,Go,1
+145102495,ElrondNetwork/elrond-go,Go,10
+254648511,docker/ecs-plugin,Go,10
