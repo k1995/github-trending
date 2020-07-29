@@ -1,20 +1,20 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,153
-18666758,pjreddie/darknet,C,89
-908607,numpy/numpy,C,94
+10744183,netdata/netdata,C,154
+18666758,pjreddie/darknet,C,90
+908607,numpy/numpy,C,96
 4869294,radareorg/radare2,C,54
-102578345,coolsnowwolf/lede,C,120
+102578345,coolsnowwolf/lede,C,126
 5254557,cloudwu/skynet,C,27
 105627846,reactos/reactos,C,39
 27737393,qmk/qmk_firmware,C,70
-246335987,ventoy/Ventoy,C,324
+246335987,ventoy/Ventoy,C,329
 3199002,raspberrypi/linux,C,26
 3299208,videolan/vlc,C,43
 3319040,id-Software/DOOM,C,28
 18106269,lz4/lz4,C,22
 65899476,espressif/esp-idf,C,31
 70127218,espressif/arduino-esp32,C,32
-117948953,Atmosphere-NX/Atmosphere,C,67
+117948953,Atmosphere-NX/Atmosphere,C,68
 6376337,pocoproject/poco,C,26
 190845267,n64decomp/sm64,C,52
 37060852,betaflight/betaflight,C,22
@@ -22,5 +22,5 @@ id,name,lang,new stars
 198869255,google/AFL,C,26
 2276287,riscv/riscv-isa-sim,C,5
 121500241,tomaspinho/rtl8821ce,C,13
-144465372,RfidResearchGroup/proxmark3,C,14
+144465372,RfidResearchGroup/proxmark3,C,15
 170803235,magma/magma,C,8
