@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,44
+21540759,avelino/awesome-go,Go,43
+6838921,prometheus/prometheus,Go,21
+17803236,rclone/rclone,Go,23
+62091339,kubernetes/kops,Go,11
+66573241,hyperledger/fabric,Go,10
+5179099,go-redis/redis,Go,12
+16554739,elastic/beats,Go,8
+11593442,golang/groupcache,Go,5
+6443435,nats-io/nats-server,Go,4
+62921553,rook/rook,Go,4
+126250425,google/go-cloud,Go,7
+28366058,docker/distribution,Go,1
+9524057,prometheus/node_exporter,Go,8
+93444615,terraform-providers/terraform-provider-aws,Go,7
+1966991,tealeg/xlsx,Go,5
+41288708,sourcegraph/sourcegraph,Go,3
+120650407,operator-framework/operator-sdk,Go,5
+66509131,kubernetes/client-go,Go,7
+120896210,argoproj/argo-cd,Go,12
+11452538,prometheus/alertmanager,Go,4
+67828134,cri-o/cri-o,Go,2
+7823926,prometheus/client_golang,Go,1
+143965255,apache/dubbo-go,Go,29
+279297541,lanyulei/ferry,Go,17
