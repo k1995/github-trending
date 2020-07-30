@@ -1,10 +1,10 @@
 id,name,lang,new stars
 36502,git/git,C,25
-569041,curl/curl,C,7
+569041,curl/curl,C,6
 14812739,libuv/libuv,C,8
 29759715,facebook/zstd,C,7
 15337142,micropython/micropython,C,4
-3714900,arut/nginx-rtmp-module,C,5
+3714900,arut/nginx-rtmp-module,C,4
 95133665,s-matyukevich/raspberry-pi-os,C,19
 28515839,skywind3000/kcp,C,8
 161292091,Tencent/matrix,C,6
@@ -13,7 +13,7 @@ id,name,lang,new stars
 117948953,Atmosphere-NX/Atmosphere,C,21
 190845267,n64decomp/sm64,C,5
 5870069,edenhill/librdkafka,C,1
-19330466,Cyan4973/xxHash,C,66
+19330466,Cyan4973/xxHash,C,65
 105944401,yugabyte/yugabyte-db,C,6
 6687936,ARMmbed/mbedtls,C,1
 29933948,fluent/fluent-bit,C,2
