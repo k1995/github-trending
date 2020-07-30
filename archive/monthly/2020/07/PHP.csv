@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,804
+1863329,laravel/laravel,PHP,809
 2579314,fzaninotto/Faker,PHP,277
-7548986,laravel/framework,PHP,308
+7548986,laravel/framework,PHP,310
 12615154,barryvdh/laravel-debugbar,PHP,164
 4702560,PHPOffice/PHPExcel,PHP,29
 14259390,Maatwebsite/Laravel-Excel,PHP,125
-61490598,PHPOffice/PhpSpreadsheet,PHP,159
-79111500,jupeter/clean-code-php,PHP,190
+61490598,PHPOffice/PhpSpreadsheet,PHP,160
+79111500,jupeter/clean-code-php,PHP,192
 622166,FriendsOfPHP/Goutte,PHP,58
-2699935,squizlabs/PHP_CodeSniffer,PHP,81
+2699935,squizlabs/PHP_CodeSniffer,PHP,82
 6660366,dompdf/dompdf,PHP,94
-10371103,caouecs/Laravel-lang,PHP,99
+10371103,caouecs/Laravel-lang,PHP,100
 30171828,rappasoft/laravel-boilerplate,PHP,567
 14346979,snipe/snipe-it,PHP,87
 3817881,zircote/swagger-php,PHP,64
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,62
 44733816,privacy-protection-tools/anti-AD,PHP,179
 93982796,Tuhinshubhra/RED_HAWK,PHP,47
-146414504,jianyan74/rageframe2,PHP,73
+146414504,jianyan74/rageframe2,PHP,74
 189104054,laravel/ui,PHP,31
 156607803,hestiacp/hestiacp,PHP,63
 223535535,Ignitetch/AdvPhishing,PHP,46
