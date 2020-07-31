@@ -1,26 +1,25 @@
 id,name,lang,new stars
-34302698,serverless/serverless,JavaScript,149
-11171548,nlohmann/json,C++,213
-33569135,ReactiveX/RxSwift,Swift,140
-221129519,AobingJava/JavaFamily,,819
-118861276,gto76/python-cheatsheet,Python,1718
-120887835,huihut/interview,C++,197
-181807583,haizlin/fe-interview,JavaScript,322
-65848095,Requarks/wiki,Vue,881
-183345962,MustangYM/WeChatExtension-ForMac,Objective-C,234
-202367615,lyswhut/lx-music-desktop,Vue,242
-264870386,openai/gpt-3,,1341
-267775629,geekxh/hello-algorithm,Vue,2676
-202787876,Rigellute/spotify-tui,Rust,92
-51905353,apache/arrow,C++,156
-227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,199
-30171828,rappasoft/laravel-boilerplate,PHP,240
-278335273,anuraghazra/github-readme-stats,JavaScript,2238
-254127753,vt-vl-lab/3d-photo-inpainting,Python,238
-98339432,shoelace-style/shoelace,TypeScript,516
-182067506,quantumblacklabs/kedro,Python,79
-149121954,openjdk/jdk,Java,375
-97431281,pythonstock/stock,Python,627
-225813090,clovaai/stargan-v2,Python,167
-263535757,lidangzzz/hedgehog-lab,TypeScript,259
-193681111,filecoin-project/lotus,Go,72
+126577260,trekhleb/javascript-algorithms,JavaScript,1042
+11171548,nlohmann/json,C++,214
+33569135,ReactiveX/RxSwift,Swift,139
+221129519,AobingJava/JavaFamily,,792
+118861276,gto76/python-cheatsheet,Python,1743
+65848095,Requarks/wiki,Vue,752
+164554832,ageron/handson-ml2,Jupyter Notebook,284
+183345962,MustangYM/WeChatExtension-ForMac,Objective-C,232
+267775629,geekxh/hello-algorithm,Vue,2326
+40453691,GoesToEleven/GolangTraining,Go,61
+48109239,cilium/cilium,Go,134
+51905353,apache/arrow,C++,160
+227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,207
+278296523,kautukkundan/Awesome-Profile-README-templates,JavaScript,1462
+30171828,rappasoft/laravel-boilerplate,PHP,239
+278335273,anuraghazra/github-readme-stats,JavaScript,2227
+254127753,vt-vl-lab/3d-photo-inpainting,Python,232
+278798376,Dhghomon/easy_rust,Shell,1667
+98339432,shoelace-style/shoelace,TypeScript,467
+97431281,pythonstock/stock,Python,542
+264782257,Shawn-Shan/fawkes,Python,1022
+157590294,TelegramMessenger/Telegram-iOS,Swift,24
+133166098,qq53182347/liugh-parent,Java,80
+281443363,sindresorhus/css-in-readme-like-wat,,365
