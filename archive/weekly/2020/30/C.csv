@@ -1,18 +1,18 @@
 id,name,lang,new stars
-36502,git/git,C,123
-18666758,pjreddie/darknet,C,78
+36502,git/git,C,122
+18666758,pjreddie/darknet,C,80
 14812739,libuv/libuv,C,54
-4869294,radareorg/radare2,C,61
-27737393,qmk/qmk_firmware,C,66
-246335987,ventoy/Ventoy,C,233
-3199002,raspberrypi/linux,C,26
-45821540,openwrt/openwrt,C,49
-109762904,leandromoreira/ffmpeg-libav-tutorial,C,68
+4869294,radareorg/radare2,C,63
+27737393,qmk/qmk_firmware,C,67
+246335987,ventoy/Ventoy,C,230
+3199002,raspberrypi/linux,C,27
+45821540,openwrt/openwrt,C,50
+109762904,leandromoreira/ffmpeg-libav-tutorial,C,70
 2328181,freebsd/freebsd,C,27
 70127218,espressif/arduino-esp32,C,33
 117948953,Atmosphere-NX/Atmosphere,C,81
-190845267,n64decomp/sm64,C,67
-89315980,SecWiki/windows-kernel-exploits,C,30
+190845267,n64decomp/sm64,C,69
+89315980,SecWiki/windows-kernel-exploits,C,29
 5870069,edenhill/librdkafka,C,14
 19330466,Cyan4973/xxHash,C,185
 37060852,betaflight/betaflight,C,25
@@ -22,5 +22,5 @@ id,name,lang,new stars
 23780138,riscv/riscv-gnu-toolchain,C,14
 121500241,tomaspinho/rtl8821ce,C,14
 170803235,magma/magma,C,7
-278359094,bitdefender/bddisasm,C,81
-211756905,MarlinFirmware/Configurations,C,11
+278359094,bitdefender/bddisasm,C,78
+211756905,MarlinFirmware/Configurations,C,12
