@@ -2,7 +2,7 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,67
 7569578,discourse/discourse,Ruby,72
 52281283,tootsuite/mastodon,Ruby,64
-2293158,rapid7/metasploit-framework,Ruby,67
+2293158,rapid7/metasploit-framework,Ruby,69
 3623050,Homebrew/homebrew-cask,Ruby,34
 37382858,kilimchoi/engineering-blogs,Ruby,39
 1090311,elastic/logstash,Ruby,21
@@ -22,5 +22,5 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,17
 35051828,dev-sec/ansible-os-hardening,Ruby,8
 93163073,dependabot/dependabot-core,Ruby,12
-200302808,github/view_component,Ruby,29
+200302808,github/view_component,Ruby,30
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,448
