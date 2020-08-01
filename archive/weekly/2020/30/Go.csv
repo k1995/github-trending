@@ -1,10 +1,10 @@
 id,name,lang,new stars
 23096959,golang/go,Go,266
-21540759,avelino/awesome-go,Go,230
-11225014,etcd-io/etcd,Go,115
+21540759,avelino/awesome-go,Go,231
+11225014,etcd-io/etcd,Go,116
 15452919,ethereum/go-ethereum,Go,60
 31504491,labstack/echo,Go,72
-46806184,helm/charts,Go,75
+46806184,helm/charts,Go,74
 156084530,ehang-io/nps,Go,150
 13624859,gorilla/websocket,Go,70
 62091339,kubernetes/kops,Go,44
@@ -12,15 +12,15 @@ id,name,lang,new stars
 131212638,google/gvisor,Go,46
 16554739,elastic/beats,Go,30
 33352201,grpc-ecosystem/grpc-gateway,Go,71
-158645957,OpenDiablo2/OpenDiablo2,Go,623
+158645957,OpenDiablo2/OpenDiablo2,Go,548
 6443435,nats-io/nats-server,Go,45
-40453691,GoesToEleven/GolangTraining,Go,68
-48109239,cilium/cilium,Go,132
+40453691,GoesToEleven/GolangTraining,Go,67
+48109239,cilium/cilium,Go,133
 55637575,lucas-clemente/quic-go,Go,26
 137854081,GoAdminGroup/go-admin,Go,84
 66509131,kubernetes/client-go,Go,31
 184490584,GoogleCloudPlatform/terraformer,Go,73
 143965255,apache/dubbo-go,Go,131
 252813491,projectdiscovery/nuclei,Go,79
-259751605,lyft/clutch,Go,299
+259751605,lyft/clutch,Go,316
 254648511,docker/ecs-plugin,Go,97
