@@ -3,17 +3,17 @@ id,name,lang,new stars
 17620347,dotnet/aspnetcore,C#,511
 38380854,0xd4d/dnSpy,C#,356
 70104825,dotnet-architecture/eShopOnContainers,C#,390
-54086969,thangchung/awesome-dotnet-core,C#,305
+54086969,thangchung/awesome-dotnet-core,C#,306
 142076747,microsoft/ailab,C#,436
 46755185,bitwarden/server,C#,207
 12191244,dotnet/BenchmarkDotNet,C#,165
 193681686,NetchX/Netch,C#,555
 198071756,huiyadanli/RevokeMsgPatcher,C#,519
 69673033,ardalis/CleanArchitecture,C#,202
-75505125,abpframework/abp,C#,302
+75505125,abpframework/abp,C#,303
 203892454,kgrzybek/modular-monolith-with-ddd,C#,315
 210716005,dotnet/runtime,C#,381
-27703983,StockSharp/StockSharp,C#,138
+27703983,StockSharp/StockSharp,C#,137
 132453438,unoplatform/uno,C#,439
 120231691,Ryujinx/Ryujinx,C#,187
 115516512,ivanpaulovich/clean-architecture-manga,C#,513
@@ -23,4 +23,4 @@ id,name,lang,new stars
 121281189,Verasl/BoatAttack,C#,130
 139499767,lgsvl/simulator,C#,57
 184286875,actions/runner,C#,116
-201188122,rocksdanister/lively,C#,306
+201188122,rocksdanister/lively,C#,307
