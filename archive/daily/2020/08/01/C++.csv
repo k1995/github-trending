@@ -1,15 +1,15 @@
 id,name,lang,new stars
-44838949,apple/swift,C++,85
+44838949,apple/swift,C++,83
 23357588,protocolbuffers/protobuf,C++,24
-1357796,emscripten-core/emscripten,C++,10
+1357796,emscripten-core/emscripten,C++,9
 39840932,google/googletest,C++,19
-65214191,envoyproxy/envoy,C++,188
+65214191,envoyproxy/envoy,C++,189
 251383553,electronicarts/CnC_Remastered_Collection,C++,33
-65711522,PaddlePaddle/Paddle,C++,133
-74660642,taichi-dev/taichi,C++,20
-149111813,Tencent/MMKV,C++,7
+65711522,PaddlePaddle/Paddle,C++,122
+74660642,taichi-dev/taichi,C++,19
+149111813,Tencent/MMKV,C++,6
 81227005,facebookresearch/faiss,C++,9
-26038648,gabime/spdlog,C++,7
+26038648,gabime/spdlog,C++,9
 34777562,ossrs/srs,C++,9
 7056202,fmtlib/fmt,C++,10
 98771110,zhongyang219/TrafficMonitor,C++,45
@@ -22,5 +22,5 @@ id,name,lang,new stars
 6083843,progschj/ThreadPool,C++,5
 119961591,linyacool/WebServer,C++,4
 84570214,ARM-software/ComputeLibrary,C++,1
-283410102,sogou/workflow,C++,102
+283410102,sogou/workflow,C++,101
 281574648,k0keoyo/my_vulnerabilities,C++,9
