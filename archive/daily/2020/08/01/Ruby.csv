@@ -6,7 +6,7 @@ id,name,lang,new stars
 37382858,kilimchoi/engineering-blogs,Ruby,11
 1090311,elastic/logstash,Ruby,7
 4095287,rubocop-hq/rubocop,Ruby,4
-3314,spree/spree,Ruby,2
+3314,spree/spree,Ruby,4
 3195124,mperham/sidekiq,Ruby,3
 611921,activeadmin/activeadmin,Ruby,2
 1725199,github/linguist,Ruby,3
@@ -17,8 +17,8 @@ id,name,lang,new stars
 33739333,thoughtbot/administrate,Ruby,2
 30337170,rmosolgo/graphql-ruby,Ruby,3
 132108,typhoeus/typhoeus,Ruby,0
-5967893,influitive/apartment,Ruby,1
-138776049,sorbet/sorbet,Ruby,2
+5967893,influitive/apartment,Ruby,2
+138776049,sorbet/sorbet,Ruby,8
 103766152,github/explore,Ruby,4
 8970,ambethia/recaptcha,Ruby,0
 174796313,ruby/rbs,Ruby,52
