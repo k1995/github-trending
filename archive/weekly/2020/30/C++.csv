@@ -3,7 +3,7 @@ id,name,lang,new stars
 44838949,apple/swift,C++,331
 23357588,protocolbuffers/protobuf,C++,133
 65600975,pytorch/pytorch,C++,252
-11171548,nlohmann/json,C++,217
+11171548,nlohmann/json,C++,218
 74627617,commaai/openpilot,C++,888
 39840932,google/googletest,C++,88
 65214191,envoyproxy/envoy,C++,343
@@ -15,9 +15,9 @@ id,name,lang,new stars
 1217614,xbmc/xbmc,C++,36
 18348651,OpenRCT2/OpenRCT2,C++,35
 40892817,ethereum/solidity,C++,36
-104732438,radareorg/cutter,C++,675
+104732438,radareorg/cutter,C++,674
 2200856,MarlinFirmware/Marlin,C++,70
-51905353,apache/arrow,C++,172
+51905353,apache/arrow,C++,171
 7512484,ArduPilot/ardupilot,C++,27
 153866232,TheCherno/Hazel,C++,45
 76990209,Aircoookie/WLED,C++,54
