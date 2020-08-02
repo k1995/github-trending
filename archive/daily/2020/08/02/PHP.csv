@@ -1,11 +1,11 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,20
-2246815,domnikl/DesignPatternsPHP,PHP,4
+2246815,domnikl/DesignPatternsPHP,PHP,3
 1280180,phacility/phabricator,PHP,4
 28628034,flarum/flarum,PHP,9
 6660366,dompdf/dompdf,PHP,6
 6763587,PrestaShop/PrestaShop,PHP,4
-3217621,phpmyadmin/phpmyadmin,PHP,1
+3217621,phpmyadmin/phpmyadmin,PHP,2
 21298446,firefly-iii/firefly-iii,PHP,9
 12594863,kalcaddle/KodExplorer,PHP,11
 627735,vrana/adminer,PHP,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 230926110,qkqpttgf/OneManager-php,PHP,5
 40141239,NamelessMC/Nameless,PHP,0
 223535535,Ignitetch/AdvPhishing,PHP,3
-282743442,stephenjude/extended-artisan-commands,PHP,25
+282743442,stephenjude/extended-artisan-commands,PHP,27
