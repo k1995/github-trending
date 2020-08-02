@@ -1,13 +1,11 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,287
-8681349,huginn/huginn,Ruby,391
+8681349,huginn/huginn,Ruby,392
 21600440,bayandin/awesome-awesomeness,Ruby,178
 13840241,freeCodeCamp/devdocs,Ruby,236
-53238813,Homebrew/brew,Ruby,478
-2500088,gitlabhq/gitlabhq,Ruby,60
+53238813,Homebrew/brew,Ruby,482
 538746,ruby/ruby,Ruby,146
 73648678,forem/forem,Ruby,1122
-3314,spree/spree,Ruby,87
 812393,ruby-grape/grape,Ruby,36
 611921,activeadmin/activeadmin,Ruby,32
 1725199,github/linguist,Ruby,112
@@ -15,6 +13,7 @@ id,name,lang,new stars
 18486300,lewagon/setup,Ruby,524
 2441517,puma/puma,Ruby,30
 33739333,thoughtbot/administrate,Ruby,43
+41117523,shakacode/react_on_rails,Ruby,48
 202291859,chatwoot/chatwoot,Ruby,175
 52316423,luggit/react-native-config,Ruby,62
 17204381,ankane/ahoy,Ruby,52
@@ -24,3 +23,4 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,60
 200302808,github/view_component,Ruby,130
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,488
+272141550,MeetYouDevs/cocoapods-imy-bin,Ruby,76
