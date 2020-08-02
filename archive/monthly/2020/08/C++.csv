@@ -1,7 +1,7 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,1395
 44838949,apple/swift,C++,696
-5108051,opencv/opencv,C++,1420
+5108051,opencv/opencv,C++,1432
 23357588,protocolbuffers/protobuf,C++,703
 65600975,pytorch/pytorch,C++,930
 22887094,tesseract-ocr/tesseract,C++,592
@@ -9,7 +9,7 @@ id,name,lang,new stars
 6934395,facebook/rocksdb,C++,412
 74627617,commaai/openpilot,C++,1203
 65214191,envoyproxy/envoy,C++,613
-120887835,huihut/interview,C++,724
+120887835,huihut/interview,C++,743
 31522041,vnpy/vnpy,C++,327
 67702184,topjohnwu/Magisk,C++,601
 60246359,ClickHouse/ClickHouse,C++,456
@@ -17,10 +17,10 @@ id,name,lang,new stars
 7056202,fmtlib/fmt,C++,369
 52729242,keepassxreboot/keepassxc,C++,418
 104231541,abseil/abseil-cpp,C++,216
-51905353,apache/arrow,C++,300
+51905353,apache/arrow,C++,303
 192025001,Qv2ray/Qv2ray,C++,604
 5298790,PX4/Firmware,C++,90
-131236938,an-tao/drogon,C++,499
+131236938,an-tao/drogon,C++,500
 76990209,Aircoookie/WLED,C++,229
 262296122,PaddlePaddle/PaddleOCR,C++,1573
 86897963,xia-chu/ZLMediaKit,C++,185
