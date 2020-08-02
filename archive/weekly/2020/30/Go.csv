@@ -16,10 +16,10 @@ id,name,lang,new stars
 48109239,cilium/cilium,Go,137
 119160553,photoprism/photoprism,Go,58
 121086193,99designs/gqlgen,Go,44
-137854081,GoAdminGroup/go-admin,Go,83
-66509131,kubernetes/client-go,Go,31
+137854081,GoAdminGroup/go-admin,Go,87
+66509131,kubernetes/client-go,Go,34
 184490584,GoogleCloudPlatform/terraformer,Go,77
-143965255,apache/dubbo-go,Go,136
+143965255,apache/dubbo-go,Go,135
 75785240,authelia/authelia,Go,101
 252813491,projectdiscovery/nuclei,Go,84
 259751605,lyft/clutch,Go,320

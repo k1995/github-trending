@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,829
+1863329,laravel/laravel,PHP,833
 2579314,fzaninotto/Faker,PHP,281
-7548986,laravel/framework,PHP,310
-2246815,domnikl/DesignPatternsPHP,PHP,136
+7548986,laravel/framework,PHP,315
+2246815,domnikl/DesignPatternsPHP,PHP,138
 1631570,nikic/PHP-Parser,PHP,140
 12615154,barryvdh/laravel-debugbar,PHP,167
 4702560,PHPOffice/PHPExcel,PHP,29
@@ -17,7 +17,7 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,98
 9131292,jenssegers/laravel-mongodb,PHP,64
 10371103,caouecs/Laravel-lang,PHP,110
-30171828,rappasoft/laravel-boilerplate,PHP,588
+30171828,rappasoft/laravel-boilerplate,PHP,590
 74386167,vimeo/psalm,PHP,130
 41463886,codeigniter4/CodeIgniter4,PHP,100
 69691727,pmmp/PocketMine-MP,PHP,49
