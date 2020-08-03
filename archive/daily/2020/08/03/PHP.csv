@@ -1,12 +1,12 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,28
+3482588,danielmiessler/SecLists,PHP,25
 7548986,laravel/framework,PHP,11
 1631570,nikic/PHP-Parser,PHP,5
 597887,doctrine/orm,PHP,5
 37216840,phpDocumentor/TypeResolver,PHP,4
 9193949,wallabag/wallabag,PHP,4
 9131292,jenssegers/laravel-mongodb,PHP,3
-21298446,firefly-iii/firefly-iii,PHP,13
+21298446,firefly-iii/firefly-iii,PHP,11
 677467,doctrine/common,PHP,3
 7577612,doctrine/collections,PHP,3
 3817881,zircote/swagger-php,PHP,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 6495081,wikimedia/mediawiki,PHP,5
 69691727,pmmp/PocketMine-MP,PHP,0
 112659734,brefphp/bref,PHP,6
-57463067,AzuraCast/AzuraCast,PHP,8
+57463067,AzuraCast/AzuraCast,PHP,7
 230926110,qkqpttgf/OneManager-php,PHP,6
 246722043,jianyan74/TinyShop,PHP,1
 238424216,GraphQLAPI/graphql-api-for-wp,PHP,7
