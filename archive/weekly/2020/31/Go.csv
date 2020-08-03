@@ -1,6 +1,6 @@
 id,name,lang,new stars
-23096959,golang/go,Go,275
-21540759,avelino/awesome-go,Go,226
+23096959,golang/go,Go,278
+21540759,avelino/awesome-go,Go,255
 42408804,containous/traefik,Go,123
 15452919,ethereum/go-ethereum,Go,82
 41986369,pingcap/tidb,Go,125
@@ -13,7 +13,7 @@ id,name,lang,new stars
 33352201,grpc-ecosystem/grpc-gateway,Go,78
 169948217,crawlab-team/crawlab,Go,77
 40453691,GoesToEleven/GolangTraining,Go,84
-48109239,cilium/cilium,Go,144
+48109239,cilium/cilium,Go,145
 121086193,99designs/gqlgen,Go,46
 137854081,GoAdminGroup/go-admin,Go,87
 66509131,kubernetes/client-go,Go,35
