@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,2173
-36502,git/git,C,465
+2325298,torvalds/linux,C,2174
+36502,git/git,C,462
 24586308,cfenollosa/os-tutorial,C,341
 7634677,openssl/openssl,C,274
-6201092,mpv-player/mpv,C,260
-102578345,coolsnowwolf/lede,C,617
+6201092,mpv-player/mpv,C,259
+102578345,coolsnowwolf/lede,C,621
 15337142,micropython/micropython,C,188
 27737393,qmk/qmk_firmware,C,255
 3199002,raspberrypi/linux,C,121
@@ -18,7 +18,7 @@ id,name,lang,new stars
 6687936,ARMmbed/mbedtls,C,71
 6331631,axboe/fio,C,59
 255670798,sandboxie/sandboxie,C,308
-241659610,OpenIntelWireless/itlwm,C,352
+241659610,OpenIntelWireless/itlwm,C,354
 151870364,Lienol/openwrt-package,C,76
 213916896,blender/blender,C,170
 121500241,tomaspinho/rtl8821ce,C,43

@@ -1,6 +1,6 @@
 id,name,lang,new stars
 23096959,golang/go,Go,272
-21540759,avelino/awesome-go,Go,225
+21540759,avelino/awesome-go,Go,255
 42408804,containous/traefik,Go,123
 15452919,ethereum/go-ethereum,Go,82
 41986369,pingcap/tidb,Go,125
@@ -12,15 +12,15 @@ id,name,lang,new stars
 16554739,elastic/beats,Go,33
 33352201,grpc-ecosystem/grpc-gateway,Go,78
 169948217,crawlab-team/crawlab,Go,77
-40453691,GoesToEleven/GolangTraining,Go,85
-48109239,cilium/cilium,Go,144
+40453691,GoesToEleven/GolangTraining,Go,84
+48109239,cilium/cilium,Go,145
 121086193,99designs/gqlgen,Go,46
-137854081,GoAdminGroup/go-admin,Go,88
+137854081,GoAdminGroup/go-admin,Go,87
 66509131,kubernetes/client-go,Go,35
 67793333,cortexproject/cortex,Go,16
 143965255,apache/dubbo-go,Go,135
-75785240,authelia/authelia,Go,123
-252813491,projectdiscovery/nuclei,Go,89
-259751605,lyft/clutch,Go,326
+75785240,authelia/authelia,Go,121
+252813491,projectdiscovery/nuclei,Go,88
+259751605,lyft/clutch,Go,356
 254648511,docker/ecs-plugin,Go,102
 230660669,aler9/rtsp-simple-server,Go,30
