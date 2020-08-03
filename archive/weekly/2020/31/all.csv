@@ -1,24 +1,26 @@
 id,name,lang,new stars
-126577260,trekhleb/javascript-algorithms,JavaScript,1456
-81975372,kdn251/interviews,Java,705
-11171548,nlohmann/json,C++,222
+126577260,trekhleb/javascript-algorithms,JavaScript,1440
+22790488,iluwatar/java-design-patterns,Java,701
+81975372,kdn251/interviews,Java,698
+94367677,formium/formik,TypeScript,467
+11171548,nlohmann/json,C++,225
 33569135,ReactiveX/RxSwift,Swift,145
-65214191,envoyproxy/envoy,C++,392
-17804584,winterbe/java8-tutorial,Java,372
-164554832,ageron/handson-ml2,Jupyter Notebook,320
-183345962,MustangYM/WeChatExtension-ForMac,Objective-C,240
-104732438,radareorg/cutter,C++,684
-48109239,cilium/cilium,Go,144
+65214191,envoyproxy/envoy,C++,373
+183345962,MustangYM/WeChatExtension-ForMac,Objective-C,241
+104732438,radareorg/cutter,C++,683
+2200856,MarlinFirmware/Marlin,C++,82
+70530854,awslabs/serverless-application-model,Python,33
+267775629,geekxh/hello-algorithm,Vue,2335
+30102273,MobSF/Mobile-Security-Framework-MobSF,Python,53
+48109239,cilium/cilium,Go,145
 51905353,apache/arrow,C++,177
-227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,389
-278296523,kautukkundan/Awesome-Profile-README-templates,JavaScript,1605
-278335273,anuraghazra/github-readme-stats,JavaScript,2438
-30171828,rappasoft/laravel-boilerplate,PHP,241
+227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,357
+278335273,anuraghazra/github-readme-stats,JavaScript,2381
 201025777,mamoe/mirai,,332
 256589781,androidx/androidx,Java,1021
-279002136,plant99/felicette,Python,1358
-280608729,UZ-SLAMLab/ORB_SLAM3,C++,731
-260907244,yogeshojha/rengine,JavaScript,629
-280807273,shreyashankar/gpt3-sandbox,JavaScript,861
+280608729,UZ-SLAMLab/ORB_SLAM3,C++,725
+237867883,metersphere/metersphere,Java,639
+260907244,yogeshojha/rengine,JavaScript,621
+280807273,shreyashankar/gpt3-sandbox,JavaScript,859
 259751605,lyft/clutch,Go,356
-268543048,cds-snc/covid-alert-app,TypeScript,188
+268543048,cds-snc/covid-alert-app,TypeScript,202
