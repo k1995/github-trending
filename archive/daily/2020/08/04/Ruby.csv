@@ -1,8 +1,9 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,8
+8681349,huginn/huginn,Ruby,4
 21600440,bayandin/awesome-awesomeness,Ruby,3
 53238813,Homebrew/brew,Ruby,12
 52281283,tootsuite/mastodon,Ruby,18
+2293158,rapid7/metasploit-framework,Ruby,9
 538746,ruby/ruby,Ruby,5
 4095287,rubocop-hq/rubocop,Ruby,3
 1217404,jordansissel/fpm,Ruby,0
@@ -10,6 +11,7 @@ id,name,lang,new stars
 15435,Shopify/liquid,Ruby,2
 9746477,sonic-pi-net/sonic-pi,Ruby,2
 910744,puppetlabs/puppet,Ruby,1
+119760423,Netflix/fast_jsonapi,Ruby,0
 202291859,chatwoot/chatwoot,Ruby,3
 6899875,opf/openproject,Ruby,4
 6768710,redmine/redmine,Ruby,2
