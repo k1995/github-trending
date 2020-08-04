@@ -1,7 +1,7 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,13
 7569578,discourse/discourse,Ruby,10
-52281283,tootsuite/mastodon,Ruby,19
+52281283,tootsuite/mastodon,Ruby,16
 308770,heartcombo/devise,Ruby,4
 1090311,elastic/logstash,Ruby,7
 4095287,rubocop-hq/rubocop,Ruby,3
@@ -14,9 +14,9 @@ id,name,lang,new stars
 355893,github/markup,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,3
 43347873,danger/danger,Ruby,4
-6899875,opf/openproject,Ruby,4
+6899875,opf/openproject,Ruby,5
 7050,prawnpdf/prawn,Ruby,1
-6768710,redmine/redmine,Ruby,1
+6768710,redmine/redmine,Ruby,2
 52316423,luggit/react-native-config,Ruby,1
 363,collectiveidea/audited,Ruby,1
 41571541,inspec/inspec,Ruby,0
