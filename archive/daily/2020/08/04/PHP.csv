@@ -2,7 +2,7 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,24
 458058,symfony/symfony,PHP,4
 1864363,composer/composer,PHP,8
-7548986,laravel/framework,PHP,10
+7548986,laravel/framework,PHP,11
 1420053,guzzle/guzzle,PHP,9
 7769432,vlucas/phpdotenv,PHP,5
 8678290,barryvdh/laravel-ide-helper,PHP,7
@@ -18,7 +18,7 @@ id,name,lang,new stars
 2797951,doctrine/DoctrineBundle,PHP,4
 74386167,vimeo/psalm,PHP,2
 1649191,doctrine/DoctrineMigrationsBundle,PHP,5
-6495081,wikimedia/mediawiki,PHP,3
+6495081,wikimedia/mediawiki,PHP,4
 32792088,symfony/demo,PHP,0
 47508644,pterodactyl/panel,PHP,2
 49680187,Bottelet/DaybydayCRM,PHP,14
