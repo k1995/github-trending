@@ -1,14 +1,14 @@
 id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,702
-36502,git/git,C,122
+36502,git/git,C,121
 14812739,libuv/libuv,C,51
 196353673,taosdata/TDengine,C,58
 102578345,coolsnowwolf/lede,C,142
 34921116,iovisor/bcc,C,53
-95133665,s-matyukevich/raspberry-pi-os,C,99
+95133665,s-matyukevich/raspberry-pi-os,C,98
 161292091,Tencent/matrix,C,38
-246335987,ventoy/Ventoy,C,310
-27737393,qmk/qmk_firmware,C,66
+246335987,ventoy/Ventoy,C,313
+27737393,qmk/qmk_firmware,C,64
 3199002,raspberrypi/linux,C,27
 78281075,SpacehuhnTech/esp8266_deauther,C,33
 45821540,openwrt/openwrt,C,58
@@ -18,9 +18,9 @@ id,name,lang,new stars
 19330466,Cyan4973/xxHash,C,186
 130578889,pymumu/smartdns,C,37
 45703884,olikraus/u8g2,C,10
-241659610,OpenIntelWireless/itlwm,C,105
+241659610,OpenIntelWireless/itlwm,C,103
 213916896,blender/blender,C,38
 270766762,scandum/binary_search,C,153
-282873186,peng-zhihui/MiniRover,C,211
+282873186,peng-zhihui/MiniRover,C,215
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,12
-211756905,MarlinFirmware/Configurations,C,13
+211756905,MarlinFirmware/Configurations,C,14
