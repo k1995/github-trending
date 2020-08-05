@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,77
+2325298,torvalds/linux,C,78
 111583593,Genymobile/scrcpy,C,154
 1903522,php/php-src,C,9
 18666758,pjreddie/darknet,C,20
@@ -8,7 +8,7 @@ id,name,lang,new stars
 4869294,radareorg/radare2,C,4
 196353673,taosdata/TDengine,C,72
 40217904,swaywm/sway,C,6
-246335987,ventoy/Ventoy,C,68
+246335987,ventoy/Ventoy,C,69
 75811015,Tencent/xLua,C,3
 65899476,espressif/esp-idf,C,7
 18106269,lz4/lz4,C,4
@@ -19,8 +19,8 @@ id,name,lang,new stars
 16734696,meetecho/janus-gateway,C,5
 179354282,acidanthera/OpenCorePkg,C,34
 8270972,ARMmbed/mbed-os,C,3
-241659610,OpenIntelWireless/itlwm,C,29
-283962671,glouw/paperview,C,145
+241659610,OpenIntelWireless/itlwm,C,30
+283962671,glouw/paperview,C,143
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,2
 211756905,MarlinFirmware/Configurations,C,6
 258545783,bhassani/EternalBlueC,C,25

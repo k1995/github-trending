@@ -1,7 +1,7 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,16
-7569578,discourse/discourse,Ruby,7
-52281283,tootsuite/mastodon,Ruby,7
+7569578,discourse/discourse,Ruby,8
+52281283,tootsuite/mastodon,Ruby,10
 308770,heartcombo/devise,Ruby,4
 1090311,elastic/logstash,Ruby,4
 4095287,rubocop-hq/rubocop,Ruby,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 34840276,elastic/ansible-elasticsearch,Ruby,0
 14159669,Homebrew/homebrew-cask-versions,Ruby,0
 70830890,bigbluebutton/greenlight,Ruby,0
-283022742,excid3/noticed,Ruby,51
+283022742,excid3/noticed,Ruby,43
