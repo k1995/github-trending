@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,827
+1863329,laravel/laravel,PHP,830
 2579314,fzaninotto/Faker,PHP,268
-7548986,laravel/framework,PHP,313
+7548986,laravel/framework,PHP,315
 2246815,domnikl/DesignPatternsPHP,PHP,141
 1631570,nikic/PHP-Parser,PHP,144
 12615154,barryvdh/laravel-debugbar,PHP,170
@@ -21,6 +21,6 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,115
 95011974,akaunting/akaunting,PHP,105
 47508644,pterodactyl/panel,PHP,49
-44733816,privacy-protection-tools/anti-AD,PHP,191
+44733816,privacy-protection-tools/anti-AD,PHP,190
 146414504,jianyan74/rageframe2,PHP,84
 166299071,stancl/tenancy,PHP,184
