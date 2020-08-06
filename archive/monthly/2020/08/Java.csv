@@ -1,19 +1,19 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,2713
+121395510,CyC2018/CS-Notes,Java,2701
 22790488,iluwatar/java-design-patterns,Java,1157
-507775,elastic/elasticsearch,Java,637
-81975372,kdn251/interviews,Java,1257
-64558143,Blankj/AndroidUtilCode,Java,281
-9754983,eugenp/tutorials,Java,708
-53127403,ctripcorp/apollo,Java,445
-154648112,hollischuang/toBeTopJavaer,Java,749
-131789494,wuyouzhuguli/SpringAll,Java,644
+507775,elastic/elasticsearch,Java,634
+81975372,kdn251/interviews,Java,1278
+64558143,Blankj/AndroidUtilCode,Java,283
+9754983,eugenp/tutorials,Java,709
+53127403,ctripcorp/apollo,Java,436
+154648112,hollischuang/toBeTopJavaer,Java,745
+131789494,wuyouzhuguli/SpringAll,Java,651
 66179765,dyc87112/SpringBoot-Learning,Java,242
 5349565,prestodb/presto,Java,249
 41889031,TeamNewPipe/NewPipe,Java,964
-174765647,heibaiying/BigData-Notes,Java,306
-163721192,zhisheng17/flink-learning,Java,461
-42304749,apache/shardingsphere-elasticjob,Java,326
+174765647,heibaiying/BigData-Notes,Java,303
+163721192,zhisheng17/flink-learning,Java,479
+42304749,apache/shardingsphere-elasticjob,Java,324
 269137265,google/tsunami-security-scanner,Java,4695
 124230204,micronaut-projects/micronaut-core,Java,144
 149121954,openjdk/jdk,Java,574
@@ -22,5 +22,5 @@ id,name,lang,new stars
 237867883,metersphere/metersphere,Java,1109
 247659028,KFCFans/PowerJob,Java,942
 52095564,openid/AppAuth-Android,Java,153
-90675730,kubernetes-client/java,Java,72
+90675730,kubernetes-client/java,Java,70
 267702531,googlesamples/mlkit,Java,107
