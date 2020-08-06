@@ -5,14 +5,14 @@ id,name,lang,new stars
 18496166,gentilkiwi/mimikatz,C,14
 1482997,phpredis/phpredis,C,4
 105627846,reactos/reactos,C,32
-246335987,ventoy/Ventoy,C,67
-1856976,libevent/libevent,C,4
+246335987,ventoy/Ventoy,C,68
+1856976,libevent/libevent,C,2
 65899476,espressif/esp-idf,C,10
 13310527,jemalloc/jemalloc,C,7
 7408108,RT-Thread/rt-thread,C,2
 47057247,Wind4/vlmcsd,C,9
-16734696,meetecho/janus-gateway,C,2
-105944401,yugabyte/yugabyte-db,C,7
+16734696,meetecho/janus-gateway,C,1
+105944401,yugabyte/yugabyte-db,C,8
 179354282,acidanthera/OpenCorePkg,C,17
 8270972,ARMmbed/mbed-os,C,5
 5410234,OISF/suricata,C,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 146155284,SanderMertens/flecs,C,5
 272883815,dog-qiuqiu/MobileNetv2-YOLOV3,C,11
 28928522,wolfSSL/wolfssl,C,5
-283962671,glouw/paperview,C,185
-86497800,simd-everywhere/simde,C,89
+283962671,glouw/paperview,C,188
+86497800,simd-everywhere/simde,C,86
 53432472,Azure/sonic-buildimage,C,1

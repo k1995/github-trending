@@ -1,9 +1,9 @@
 id,name,lang,new stars
-481872,hashicorp/vagrant,Ruby,7
-1090311,elastic/logstash,Ruby,6
+481872,hashicorp/vagrant,Ruby,6
+1090311,elastic/logstash,Ruby,5
 106995,sinatra/sinatra,Ruby,0
 3195124,mperham/sidekiq,Ruby,0
-1918677,fluent/fluentd,Ruby,5
+1918677,fluent/fluentd,Ruby,7
 15435,Shopify/liquid,Ruby,0
 52855516,Homebrew/homebrew-core,Ruby,8
 6688319,DeathKing/Learning-SICP,Ruby,7
@@ -13,14 +13,14 @@ id,name,lang,new stars
 4828,mbleigh/acts-as-taggable-on,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,1
 447184,rspec/rspec-rails,Ruby,1
-2185269,busyloop/lolcat,Ruby,2
-6899875,opf/openproject,Ruby,2
+2185269,busyloop/lolcat,Ruby,1
+6899875,opf/openproject,Ruby,1
 7050,prawnpdf/prawn,Ruby,6
 1462,ctran/annotate_models,Ruby,2
 52316423,luggit/react-native-config,Ruby,0
 14238949,elastic/elasticsearch-rails,Ruby,1
 3898922,zammad/zammad,Ruby,0
-46698467,ankane/strong_migrations,Ruby,2
+46698467,ankane/strong_migrations,Ruby,0
 34840276,elastic/ansible-elasticsearch,Ruby,1
 70830890,bigbluebutton/greenlight,Ruby,1
-283022742,excid3/noticed,Ruby,40
+283022742,excid3/noticed,Ruby,42

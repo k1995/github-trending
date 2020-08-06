@@ -1,7 +1,7 @@
 id,name,lang,new stars
 507775,elastic/elasticsearch,Java,29
 127988011,macrozheng/mall,Java,71
-1148753,spring-projects/spring-framework,Java,31
+1148753,spring-projects/spring-framework,Java,34
 5152285,square/okhttp,Java,16
 63477660,TheAlgorithms/Java,Java,250
 20587599,apache/flink,Java,8
@@ -16,11 +16,11 @@ id,name,lang,new stars
 1011539,rest-assured/rest-assured,Java,2
 50229487,apache/lucene-solr,Java,1
 20089857,apache/hbase,Java,1
-81226206,intuit/karate,Java,6
+81226206,intuit/karate,Java,5
 206317,apache/camel,Java,0
 206444,apache/hive,Java,4
 27911088,apache/nifi,Java,2
-247659028,KFCFans/PowerJob,Java,188
+247659028,KFCFans/PowerJob,Java,187
 188806350,obsidiandynamics/kafdrop,Java,7
 2928948,Azure/azure-sdk-for-java,Java,0
 276437122,austinhuang0131/instagrabber,Java,16
