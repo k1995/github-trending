@@ -1,6 +1,6 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,19
-17620347,dotnet/aspnetcore,C#,18
+17620347,dotnet/aspnetcore,C#,16
 29078997,dotnet/roslyn,C#,4
 12201538,aspnetboilerplate/aspnetboilerplate,C#,15
 143460965,GoogleCloudPlatform/microservices-demo,C#,10
@@ -23,4 +23,4 @@ id,name,lang,new stars
 63812838,stefanprodan/AspNetCoreRateLimit,C#,2
 139499767,lgsvl/simulator,C#,1
 216050620,Kinnara/ModernWpf,C#,5
-77180761,xamarin/XamarinCommunityToolkit,C#,12
+77180761,xamarin/XamarinCommunityToolkit,C#,19

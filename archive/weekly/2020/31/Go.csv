@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,304
+23096959,golang/go,Go,300
 20580498,kubernetes/kubernetes,Go,237
 15452919,ethereum/go-ethereum,Go,78
 41986369,pingcap/tidb,Go,95
@@ -8,8 +8,8 @@ id,name,lang,new stars
 156084530,ehang-io/nps,Go,159
 13624859,gorilla/websocket,Go,74
 120227732,fyne-io/fyne,Go,87
-272035489,greyireland/algorithm-pattern,Go,772
-163883279,nektos/act,Go,302
+272035489,greyireland/algorithm-pattern,Go,770
+163883279,nektos/act,Go,300
 169948217,crawlab-team/crawlab,Go,94
 36653430,hashicorp/nomad,Go,30
 40453691,GoesToEleven/GolangTraining,Go,58

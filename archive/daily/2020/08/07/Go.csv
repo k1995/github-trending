@@ -1,11 +1,11 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,43
+20580498,kubernetes/kubernetes,Go,44
 7691631,moby/moby,Go,13
-20904437,gin-gonic/gin,Go,47
+20904437,gin-gonic/gin,Go,46
 6838921,prometheus/prometheus,Go,30
-29261473,minio/minio,Go,38
+29261473,minio/minio,Go,39
 56353740,kubernetes/minikube,Go,10
-31288958,hashicorp/vault,Go,7
+31288958,hashicorp/vault,Go,9
 46806184,helm/charts,Go,11
 10379607,buger/goreplay,Go,17
 6247705,stretchr/testify,Go,12
