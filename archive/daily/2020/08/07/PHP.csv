@@ -1,20 +1,20 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,12
+458058,symfony/symfony,PHP,11
 7548986,laravel/framework,PHP,6
 2253830,PHPMailer/PHPMailer,PHP,11
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,7
-61490598,PHPOffice/PhpSpreadsheet,PHP,13
-597887,doctrine/orm,PHP,4
+61490598,PHPOffice/PhpSpreadsheet,PHP,12
+597887,doctrine/orm,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,5
 2179920,woocommerce/woocommerce,PHP,4
 9131292,jenssegers/laravel-mongodb,PHP,4
 10371103,caouecs/Laravel-lang,PHP,9
 14346979,snipe/snipe-it,PHP,2
-16896584,nikic/FastRoute,PHP,1
+16896584,nikic/FastRoute,PHP,0
 576099,doctrine/migrations,PHP,4
 2797951,doctrine/DoctrineBundle,PHP,4
 4224042,roundcube/roundcubemail,PHP,3
-24650294,google/recaptcha,PHP,3
+24650294,google/recaptcha,PHP,2
 148129143,bagisto/bagisto,PHP,10
 926120,doctrine/data-fixtures,PHP,3
 1691187,WordPress/WordPress-Coding-Standards,PHP,2
@@ -22,4 +22,4 @@ id,name,lang,new stars
 29468150,spipu/html2pdf,PHP,1
 246722043,jianyan74/TinyShop,PHP,2
 184348645,coderstape/freeCodeGram,PHP,0
-275178835,rawilk/laravel-printing,PHP,38
+275178835,rawilk/laravel-printing,PHP,46

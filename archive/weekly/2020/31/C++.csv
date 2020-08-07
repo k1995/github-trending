@@ -1,8 +1,8 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,307
+45717250,tensorflow/tensorflow,C++,301
 1181927,bitcoin/bitcoin,C++,123
 65600975,pytorch/pytorch,C++,220
-184456251,microsoft/PowerToys,C++,1842
+184456251,microsoft/PowerToys,C++,1831
 15634981,godotengine/godot,C++,182
 16587283,dmlc/xgboost,C++,51
 65214191,envoyproxy/envoy,C++,459
@@ -19,8 +19,8 @@ id,name,lang,new stars
 51905353,apache/arrow,C++,85
 204593825,microsoft/STL,C++,43
 192025001,Qv2ray/Qv2ray,C++,180
-98470332,sebastianstarke/AI4Animation,C++,309
+98470332,sebastianstarke/AI4Animation,C++,311
 156939672,microsoft/onnxruntime,C++,37
-81634683,Oneflow-Inc/oneflow,C++,999
+81634683,Oneflow-Inc/oneflow,C++,915
 168947928,Errichto/youtube,C++,39
 283410102,sogou/workflow,C++,204
