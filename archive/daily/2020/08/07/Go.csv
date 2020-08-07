@@ -1,6 +1,6 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,44
-20904437,gin-gonic/gin,Go,46
+20580498,kubernetes/kubernetes,Go,43
+20904437,gin-gonic/gin,Go,47
 16607898,drone/drone,Go,16
 14125254,hashicorp/consul,Go,10
 12574344,spf13/cobra,Go,20
@@ -9,8 +9,8 @@ id,name,lang,new stars
 33258973,influxdata/telegraf,Go,10
 22442668,openshift/origin,Go,3
 42332863,filebrowser/filebrowser,Go,7
-109162639,thanos-io/thanos,Go,5
-48643510,pkg/errors,Go,0
+109162639,thanos-io/thanos,Go,6
+48643510,pkg/errors,Go,1
 53174289,gruntwork-io/terratest,Go,10
 12332444,onsi/ginkgo,Go,6
 50629145,google/pprof,Go,14
