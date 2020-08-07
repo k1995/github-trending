@@ -1,10 +1,10 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1395
+45717250,tensorflow/tensorflow,C++,1396
 44838949,apple/swift,C++,689
-1181927,bitcoin/bitcoin,C++,568
+1181927,bitcoin/bitcoin,C++,569
 23357588,protocolbuffers/protobuf,C++,702
-65600975,pytorch/pytorch,C++,937
-22887094,tesseract-ocr/tesseract,C++,579
+65600975,pytorch/pytorch,C++,938
+22887094,tesseract-ocr/tesseract,C++,578
 6934395,facebook/rocksdb,C++,400
 74627617,commaai/openpilot,C++,1198
 120887835,huihut/interview,C++,728
@@ -12,13 +12,13 @@ id,name,lang,new stars
 65711522,PaddlePaddle/Paddle,C++,688
 60246359,ClickHouse/ClickHouse,C++,481
 81227005,facebookresearch/faiss,C++,335
-18348651,OpenRCT2/OpenRCT2,C++,250
-52729242,keepassxreboot/keepassxc,C++,411
+18348651,OpenRCT2/OpenRCT2,C++,254
+52729242,keepassxreboot/keepassxc,C++,413
 104231541,abseil/abseil-cpp,C++,202
 51905353,apache/arrow,C++,331
-75821432,llvm/llvm-project,C++,319
-192025001,Qv2ray/Qv2ray,C++,664
-144664950,HackerPoet/NonEuclidean,C++,943
+75821432,llvm/llvm-project,C++,320
+192025001,Qv2ray/Qv2ray,C++,668
+144664950,HackerPoet/NonEuclidean,C++,931
 86337343,skypjack/entt,C++,271
 5298790,PX4/Firmware,C++,91
 131236938,an-tao/drogon,C++,523
