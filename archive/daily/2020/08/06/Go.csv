@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,43
 20904437,gin-gonic/gin,Go,44
-16607898,drone/drone,Go,16
+16607898,drone/drone,Go,15
 14125254,hashicorp/consul,Go,13
 12574344,spf13/cobra,Go,19
 20653934,google/cadvisor,Go,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 206213815,chaos-mesh/chaos-mesh,Go,8
 117377862,gardener/gardener,Go,2
 94831761,hyperledger/fabric-samples,Go,0
-185861173,open-telemetry/opentelemetry-collector,Go,3
+185861173,open-telemetry/opentelemetry-collector,Go,4
 235685125,omriharel/deej,Go,15
 281694167,Mrs4s/go-cqhttp,Go,34

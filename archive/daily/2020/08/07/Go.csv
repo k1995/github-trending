@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,44
+20904437,gin-gonic/gin,Go,46
+16607898,drone/drone,Go,17
+14125254,hashicorp/consul,Go,11
+12574344,spf13/cobra,Go,20
+20653934,google/cadvisor,Go,7
+129717717,grafana/loki,Go,10
+33258973,influxdata/telegraf,Go,10
+22442668,openshift/origin,Go,3
+42332863,filebrowser/filebrowser,Go,8
+109162639,thanos-io/thanos,Go,5
+48643510,pkg/errors,Go,0
+53174289,gruntwork-io/terratest,Go,10
+12332444,onsi/ginkgo,Go,6
+50629145,google/pprof,Go,14
+120896210,argoproj/argo-cd,Go,5
+29778781,slack-go/slack,Go,2
+172292744,panjf2000/gnet,Go,11
+46904685,opentracing/opentracing-go,Go,1
+206213815,chaos-mesh/chaos-mesh,Go,5
+117377862,gardener/gardener,Go,0
+94831761,hyperledger/fabric-samples,Go,1
+185861173,open-telemetry/opentelemetry-collector,Go,5
+235685125,omriharel/deej,Go,6
+281694167,Mrs4s/go-cqhttp,Go,33
