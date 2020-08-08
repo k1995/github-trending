@@ -1,11 +1,11 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,315
-8681349,huginn/huginn,Ruby,364
 53238813,Homebrew/brew,Ruby,468
+2500088,gitlabhq/gitlabhq,Ruby,55
 52281283,tootsuite/mastodon,Ruby,323
 37382858,kilimchoi/engineering-blogs,Ruby,141
 538746,ruby/ruby,Ruby,153
-73648678,forem/forem,Ruby,1100
+73648678,forem/forem,Ruby,1099
 3314,spree/spree,Ruby,73
 812393,ruby-grape/grape,Ruby,34
 611921,activeadmin/activeadmin,Ruby,32
@@ -21,6 +21,6 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,66
 103766152,github/explore,Ruby,83
 35051828,dev-sec/ansible-os-hardening,Ruby,47
-93163073,dependabot/dependabot-core,Ruby,63
+93163073,dependabot/dependabot-core,Ruby,64
 641512,openstreetmap/openstreetmap-website,Ruby,20
 200302808,github/view_component,Ruby,130

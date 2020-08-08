@@ -1,26 +1,26 @@
 id,name,lang,new stars
-22790488,iluwatar/java-design-patterns,Java,1219
-52631841,gothinkster/realworld,JavaScript,1924
-15204860,papers-we-love/papers-we-love,Shell,1491
-160919119,tiangolo/fastapi,Python,3172
-137078487,vuejs/vue-next,TypeScript,1044
-73648678,forem/forem,Ruby,1100
-170067246,openai/gpt-2,Python,553
+22790488,iluwatar/java-design-patterns,Java,1222
+15204860,papers-we-love/papers-we-love,Shell,1492
+160919119,tiangolo/fastapi,Python,3168
+137078487,vuejs/vue-next,TypeScript,1045
+73648678,forem/forem,Ruby,1099
+170067246,openai/gpt-2,Python,555
+196353673,taosdata/TDengine,C,681
 77912349,qianguyihao/Web,JavaScript,745
 41889031,TeamNewPipe/NewPipe,Java,983
-247266215,JaidedAI/EasyOCR,Python,5812
-264870386,openai/gpt-3,,4758
-738491,facebook/facebook-ios-sdk,Objective-C,112
-269137265,google/tsunami-security-scanner,Java,4708
-254127753,vt-vl-lab/3d-photo-inpainting,Python,641
-205679232,flipped-aurora/gin-vue-admin,Go,977
+164554832,ageron/handson-ml2,Jupyter Notebook,754
+264870386,openai/gpt-3,,4755
+269137265,google/tsunami-security-scanner,Java,4710
+227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,965
+254127753,vt-vl-lab/3d-photo-inpainting,Python,654
+205679232,flipped-aurora/gin-vue-admin,Go,978
 180481986,apache/apisix,Lua,392
-32887098,googleapis/googleapis,Starlark,656
-149121954,openjdk/jdk,Java,595
+32887098,googleapis/googleapis,Starlark,655
+149121954,openjdk/jdk,Java,597
 201025777,mamoe/mirai,,759
+261515636,matplotlib/cheatsheets,Python,1906
 262296122,PaddlePaddle/PaddleOCR,C++,1709
-198878888,twbs/icons,JavaScript,1385
 115516512,ivanpaulovich/clean-architecture-manga,C#,516
+127577916,deep-learning-with-pytorch/dlwpt-code,Jupyter Notebook,804
 247659028,KFCFans/PowerJob,Java,1158
 237867883,metersphere/metersphere,Java,1186
-269394176,google/tsunami-security-scanner-plugins,Java,428

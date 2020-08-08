@@ -1,7 +1,7 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,2242
 111583593,Genymobile/scrcpy,C,1839
-36502,git/git,C,494
+36502,git/git,C,495
 18666758,pjreddie/darknet,C,363
 24586308,cfenollosa/os-tutorial,C,309
 14812739,libuv/libuv,C,204
@@ -13,13 +13,13 @@ id,name,lang,new stars
 27737393,qmk/qmk_firmware,C,261
 3299208,videolan/vlc,C,134
 109762904,leandromoreira/ffmpeg-libav-tutorial,C,172
-18106269,lz4/lz4,C,100
 117948953,Atmosphere-NX/Atmosphere,C,216
 190845267,n64decomp/sm64,C,152
-179354282,acidanthera/OpenCorePkg,C,741
-130897005,WhatsApp/stickers,C,52
+179354282,acidanthera/OpenCorePkg,C,752
+29933948,fluent/fluent-bit,C,80
 255670798,sandboxie/sandboxie,C,287
 241659610,OpenIntelWireless/itlwm,C,391
+213916896,blender/blender,C,159
 23780138,riscv/riscv-gnu-toolchain,C,37
 121500241,tomaspinho/rtl8821ce,C,48
 211756905,MarlinFirmware/Configurations,C,42
