@@ -1,17 +1,17 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1236
-20580498,kubernetes/kubernetes,Go,1134
+23096959,golang/go,Go,1233
+20580498,kubernetes/kubernetes,Go,1135
 7691631,moby/moby,Go,373
 20904437,gin-gonic/gin,Go,1024
 48378947,fatedier/frp,Go,846
 6838921,prometheus/prometheus,Go,645
-15452919,ethereum/go-ethereum,Go,266
+15452919,ethereum/go-ethereum,Go,267
 74175805,istio/istio,Go,422
 8989842,unknwon/the-way-to-go_ZH_CN,Go,447
-31288958,hashicorp/vault,Go,988
+31288958,hashicorp/vault,Go,986
 136815833,Dreamacro/clash,Go,963
 31558937,gravitational/teleport,Go,202
-6443435,nats-io/nats-server,Go,194
+6443435,nats-io/nats-server,Go,195
 54378638,github/gh-ost,Go,166
 163883279,nektos/act,Go,885
 234231371,gofiber/fiber,Go,779
