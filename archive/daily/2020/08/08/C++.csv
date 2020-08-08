@@ -1,5 +1,5 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,37
+45717250,tensorflow/tensorflow,C++,36
 27729880,grpc/grpc,C++,11
 22067521,ocornut/imgui,C++,14
 11171548,nlohmann/json,C++,17
@@ -8,10 +8,10 @@ id,name,lang,new stars
 19953044,google/flatbuffers,C++,6
 19374812,telegramdesktop/tdesktop,C++,10
 74660642,taichi-dev/taichi,C++,6
-126412363,simdjson/simdjson,C++,409
+126412363,simdjson/simdjson,C++,467
 143455116,google/filament,C++,11
 34777562,ossrs/srs,C++,10
-191820100,google/mediapipe,C++,77
+191820100,google/mediapipe,C++,79
 38581626,pybind/pybind11,C++,44
 310611,apache/thrift,C++,4
 196813750,Light-City/CPlusPlusThings,C++,13

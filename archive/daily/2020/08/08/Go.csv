@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,39
 7691631,moby/moby,Go,11
-20904437,gin-gonic/gin,Go,26
+20904437,gin-gonic/gin,Go,29
 41912791,v2ray/v2ray-core,Go,34
 6838921,prometheus/prometheus,Go,31
 14125254,hashicorp/consul,Go,11
@@ -19,8 +19,8 @@ id,name,lang,new stars
 81355383,mongodb/mongo-go-driver,Go,5
 26661222,tinode/chat,Go,5
 10757154,satori/go.uuid,Go,2
-50629145,google/pprof,Go,14
+50629145,google/pprof,Go,10
 243518322,douyu/jupiter,Go,116
 93446042,terraform-providers/terraform-provider-azurerm,Go,4
-227895834,openservicemesh/osm,Go,359
+227895834,openservicemesh/osm,Go,403
 193681111,filecoin-project/lotus,Go,6
