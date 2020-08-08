@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,136
+1863329,laravel/laravel,PHP,135
 3482588,danielmiessler/SecLists,PHP,117
 458058,symfony/symfony,PHP,33
 7548986,laravel/framework,PHP,58
@@ -7,7 +7,7 @@ id,name,lang,new stars
 2889328,WordPress/WordPress,PHP,37
 3431193,yiisoft/yii2,PHP,14
 8678290,barryvdh/laravel-ide-helper,PHP,39
-14732311,octobercms/october,PHP,33
+14732311,octobercms/october,PHP,34
 2884111,magento/magento2,PHP,21
 61490598,PHPOffice/PhpSpreadsheet,PHP,44
 597887,doctrine/orm,PHP,23
@@ -17,7 +17,7 @@ id,name,lang,new stars
 95011974,akaunting/akaunting,PHP,32
 72453516,wp-graphql/wp-graphql,PHP,24
 6495081,wikimedia/mediawiki,PHP,17
-112659734,brefphp/bref,PHP,21
+112659734,brefphp/bref,PHP,22
 146414504,jianyan74/rageframe2,PHP,33
 57463067,AzuraCast/AzuraCast,PHP,13
 33179341,JetBrains/phpstorm-stubs,PHP,6

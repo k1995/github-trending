@@ -3,10 +3,10 @@ id,name,lang,new stars
 7691631,moby/moby,Go,11
 20904437,gin-gonic/gin,Go,29
 41912791,v2ray/v2ray-core,Go,34
-6838921,prometheus/prometheus,Go,31
+6838921,prometheus/prometheus,Go,32
 14125254,hashicorp/consul,Go,11
 16563587,cockroachdb/cockroach,Go,7
-46806184,helm/charts,Go,38
+46806184,helm/charts,Go,37
 29217054,micro/go-micro,Go,9
 70202506,golang/dep,Go,4
 15345331,boltdb/bolt,Go,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 26661222,tinode/chat,Go,5
 10757154,satori/go.uuid,Go,2
 50629145,google/pprof,Go,10
-243518322,douyu/jupiter,Go,116
+243518322,douyu/jupiter,Go,115
 93446042,terraform-providers/terraform-provider-azurerm,Go,4
-227895834,openservicemesh/osm,Go,403
+227895834,openservicemesh/osm,Go,340
 193681111,filecoin-project/lotus,Go,6

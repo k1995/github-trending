@@ -1,19 +1,19 @@
 id,name,lang,new stars
-23096959,golang/go,Go,318
-20580498,kubernetes/kubernetes,Go,233
+23096959,golang/go,Go,298
+20580498,kubernetes/kubernetes,Go,234
 41986369,pingcap/tidb,Go,88
 13628513,sirupsen/logrus,Go,76
-46806184,helm/charts,Go,120
+46806184,helm/charts,Go,122
 44498957,valyala/fasthttp,Go,64
 13624859,gorilla/websocket,Go,78
 120227732,fyne-io/fyne,Go,85
-7083242,go-sql-driver/mysql,Go,33
-272035489,greyireland/algorithm-pattern,Go,772
-163883279,nektos/act,Go,298
+7083242,go-sql-driver/mysql,Go,34
+272035489,greyireland/algorithm-pattern,Go,699
+163883279,nektos/act,Go,299
 40453691,GoesToEleven/GolangTraining,Go,58
 113106184,linkerd/linkerd2,Go,41
-119160553,photoprism/photoprism,Go,91
-121086193,99designs/gqlgen,Go,28
+119160553,photoprism/photoprism,Go,90
+121086193,99designs/gqlgen,Go,27
 93444615,terraform-providers/terraform-provider-aws,Go,39
 120896210,argoproj/argo-cd,Go,45
 243518322,douyu/jupiter,Go,192
@@ -21,6 +21,6 @@ id,name,lang,new stars
 75785240,authelia/authelia,Go,130
 248025303,p4gefau1t/trojan-go,Go,67
 252813491,projectdiscovery/nuclei,Go,76
-259751605,lyft/clutch,Go,168
+259751605,lyft/clutch,Go,169
 235685125,omriharel/deej,Go,38
 267920478,cds-snc/covid-alert-server,Go,36
