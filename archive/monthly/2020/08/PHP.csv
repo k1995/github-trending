@@ -2,7 +2,7 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,818
 2579314,fzaninotto/Faker,PHP,275
 7548986,laravel/framework,PHP,313
-2246815,domnikl/DesignPatternsPHP,PHP,151
+2246815,domnikl/DesignPatternsPHP,PHP,152
 2889328,WordPress/WordPress,PHP,166
 1631570,nikic/PHP-Parser,PHP,149
 12615154,barryvdh/laravel-debugbar,PHP,170
@@ -14,7 +14,7 @@ id,name,lang,new stars
 2699935,squizlabs/PHP_CodeSniffer,PHP,88
 14716368,invoiceninja/invoiceninja,PHP,63
 9131292,jenssegers/laravel-mongodb,PHP,76
-10371103,caouecs/Laravel-lang,PHP,117
+10371103,caouecs/Laravel-lang,PHP,116
 30171828,rappasoft/laravel-boilerplate,PHP,607
 12204147,mautic/mautic,PHP,72
 95011974,akaunting/akaunting,PHP,112
@@ -23,4 +23,4 @@ id,name,lang,new stars
 44733816,privacy-protection-tools/anti-AD,PHP,183
 116010682,Tai7sy/card-system,PHP,101
 146414504,jianyan74/rageframe2,PHP,96
-166299071,stancl/tenancy,PHP,157
+166299071,stancl/tenancy,PHP,155
