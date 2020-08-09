@@ -2,6 +2,7 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,78
 21600440,bayandin/awesome-awesomeness,Ruby,67
 2500088,gitlabhq/gitlabhq,Ruby,6
+52281283,tootsuite/mastodon,Ruby,66
 308770,heartcombo/devise,Ruby,20
 481872,hashicorp/vagrant,Ruby,62
 3623050,Homebrew/homebrew-cask,Ruby,35
@@ -10,7 +11,6 @@ id,name,lang,new stars
 4095287,rubocop-hq/rubocop,Ruby,14
 3195124,mperham/sidekiq,Ruby,15
 96395,faker-ruby/faker,Ruby,17
-611921,activeadmin/activeadmin,Ruby,4
 6529205,varvet/pundit,Ruby,12
 21829,thoughtbot/factory_bot,Ruby,13
 865250,presidentbeef/brakeman,Ruby,16
@@ -19,8 +19,8 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,11
 7050,prawnpdf/prawn,Ruby,50
 30985840,solidusio/solidus,Ruby,12
+52316423,luggit/react-native-config,Ruby,15
 103766152,github/explore,Ruby,34
-244452551,alexeygrigorev/data-science-interviews,Ruby,28
 34840276,elastic/ansible-elasticsearch,Ruby,3
 283022742,excid3/noticed,Ruby,433
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,20

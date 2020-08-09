@@ -1,26 +1,26 @@
 id,name,lang,new stars
-22790488,iluwatar/java-design-patterns,Java,422
+123458551,jackfrued/Python-100-Days,Jupyter Notebook,797
+29028775,facebook/react-native,JavaScript,255
+22790488,iluwatar/java-design-patterns,Java,419
+103633984,goldbergyoni/nodebestpractices,JavaScript,278
 22458259,Alamofire/Alamofire,Swift,129
-63477660,TheAlgorithms/Java,Java,1112
-51980455,alacritty/alacritty,Rust,219
-95189138,alibaba/p3c,Kotlin,162
-130464961,sharkdp/bat,Rust,745
-67508428,jgraph/drawio,JavaScript,657
-13753636,jhipster/generator-jhipster,JavaScript,182
-196353673,taosdata/TDengine,C,670
+63477660,TheAlgorithms/Java,Java,1001
+1644196,JuliaLang/julia,Julia,201
+130464961,sharkdp/bat,Rust,751
+67508428,jgraph/drawio,JavaScript,654
+94911145,facebook/docusaurus,JavaScript,147
+196353673,taosdata/TDengine,C,645
 126412363,simdjson/simdjson,C++,1378
-42489829,rust-lang/rustlings,Rust,852
-164554832,ageron/handson-ml2,Jupyter Notebook,227
+42489829,rust-lang/rustlings,Rust,853
+241805592,romefrontend/rome,TypeScript,442
 186024298,nushell/nushell,Rust,147
-250761246,aristocratos/bashtop,Shell,329
-243838973,fastai/fastbook,Jupyter Notebook,103
-227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,627
-204593825,microsoft/STL,C++,54
-157733401,Dod-o/Statistical-Learning-Method_Code,Python,470
-41179827,Rapptz/discord.py,Python,90
-109872620,paritytech/substrate,Rust,289
-201025777,mamoe/mirai,,451
-81634683,Oneflow-Inc/oneflow,C++,788
-247659028,KFCFans/PowerJob,Java,752
-237867883,metersphere/metersphere,Java,407
-268543048,cds-snc/covid-alert-app,TypeScript,269
+250761246,aristocratos/bashtop,Shell,356
+227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,591
+157733401,Dod-o/Statistical-Learning-Method_Code,Python,471
+109872620,paritytech/substrate,Rust,281
+201025777,mamoe/mirai,,452
+13455471,mplushnikov/lombok-intellij-plugin,Java,63
+81634683,Oneflow-Inc/oneflow,C++,789
+247659028,KFCFans/PowerJob,Java,758
+237867883,metersphere/metersphere,Java,408
+244466961,zio/zio-prelude,Scala,101
