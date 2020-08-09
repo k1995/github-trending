@@ -5,9 +5,9 @@ id,name,lang,new stars
 93205465,apple/darwin-xnu,C,7
 27737393,qmk/qmk_firmware,C,12
 78281075,SpacehuhnTech/esp8266_deauther,C,6
-45821540,openwrt/openwrt,C,11
+45821540,openwrt/openwrt,C,12
 689344,libretro/RetroArch,C,4
-13836499,raysan5/raylib,C,32
+13836499,raysan5/raylib,C,33
 12416862,Provenance-Emu/Provenance,C,2
 2997204,magnumripper/JohnTheRipper,C,5
 578839,universal-ctags/ctags,C,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 119086992,RavenSystem/esp-homekit-devices,C,3
 45734719,enjoy-digital/litex,C,6
 263076869,azure-rtos/threadx,C,6
-197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,1
+197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,2
