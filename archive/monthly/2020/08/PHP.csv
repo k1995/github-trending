@@ -7,7 +7,7 @@ id,name,lang,new stars
 1631570,nikic/PHP-Parser,PHP,155
 12615154,barryvdh/laravel-debugbar,PHP,176
 23680678,tymondesigns/jwt-auth,PHP,106
-14259390,Maatwebsite/Laravel-Excel,PHP,133
+14259390,Maatwebsite/Laravel-Excel,PHP,136
 2884111,magento/magento2,PHP,99
 61490598,PHPOffice/PhpSpreadsheet,PHP,181
 15020102,walkor/Workerman,PHP,105
@@ -16,7 +16,7 @@ id,name,lang,new stars
 77071207,laravel/tinker,PHP,58
 2717549,Sylius/Sylius,PHP,56
 14716368,invoiceninja/invoiceninja,PHP,59
-9131292,jenssegers/laravel-mongodb,PHP,75
+9131292,jenssegers/laravel-mongodb,PHP,76
 10371103,caouecs/Laravel-lang,PHP,116
 30171828,rappasoft/laravel-boilerplate,PHP,610
 12204147,mautic/mautic,PHP,71

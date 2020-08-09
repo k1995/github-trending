@@ -1,9 +1,9 @@
 id,name,lang,new stars
-21289110,vinta/awesome-python,Python,1288
+21289110,vinta/awesome-python,Python,1296
 3638964,ansible/ansible,Python,492
 39464018,apache/incubator-superset,Python,406
 70905478,floodsung/Deep-Learning-Papers-Reading-Roadmap,Python,1604
-4578002,faif/python-patterns,Python,353
+4578002,faif/python-patterns,Python,350
 34757182,donnemartin/interactive-coding-challenges,Python,273
 160919119,tiangolo/fastapi,Python,3184
 33884891,apache/airflow,Python,389
@@ -12,7 +12,7 @@ id,name,lang,new stars
 170067246,openai/gpt-2,Python,561
 145670234,open-mmlab/mmdetection,Python,774
 28904322,waditu/tushare,Python,194
-178626720,PyTorchLightning/pytorch-lightning,Python,799
+178626720,PyTorchLightning/pytorch-lightning,Python,784
 102057483,deepinsight/insightface,Python,244
 41179827,Rapptz/discord.py,Python,271
 254832799,Z4nzu/hackingtool,Python,4035
