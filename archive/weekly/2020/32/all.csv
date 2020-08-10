@@ -1,26 +1,26 @@
 id,name,lang,new stars
-123458551,jackfrued/Python-100-Days,Jupyter Notebook,833
-29028775,facebook/react-native,JavaScript,302
-22790488,iluwatar/java-design-patterns,Java,370
-103633984,goldbergyoni/nodebestpractices,JavaScript,397
-22458259,Alamofire/Alamofire,Swift,137
-63477660,TheAlgorithms/Java,Java,990
-1644196,JuliaLang/julia,Julia,204
-130464961,sharkdp/bat,Rust,748
-67508428,jgraph/drawio,JavaScript,675
-94911145,facebook/docusaurus,JavaScript,150
+123458551,jackfrued/Python-100-Days,Jupyter Notebook,819
+29028775,facebook/react-native,JavaScript,293
+103633984,goldbergyoni/nodebestpractices,JavaScript,380
+22458259,Alamofire/Alamofire,Swift,133
+63477660,TheAlgorithms/Java,Java,995
+1644196,JuliaLang/julia,Julia,205
+130464961,sharkdp/bat,Rust,737
+67508428,jgraph/drawio,JavaScript,676
+94911145,facebook/docusaurus,JavaScript,155
 196353673,taosdata/TDengine,C,686
-126412363,simdjson/simdjson,C++,1567
-42489829,rust-lang/rustlings,Rust,885
-241805592,romefrontend/rome,TypeScript,747
-186024298,nushell/nushell,Rust,154
-250761246,aristocratos/bashtop,Shell,393
-227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,615
-157733401,Dod-o/Statistical-Learning-Method_Code,Python,455
-109872620,paritytech/substrate,Rust,314
-201025777,mamoe/mirai,,311
+126412363,simdjson/simdjson,C++,1557
+42489829,rust-lang/rustlings,Rust,884
+137946752,nondanee/UnblockNeteaseMusic,JavaScript,206
+241805592,romefrontend/rome,TypeScript,877
+186024298,nushell/nushell,Rust,149
+250761246,aristocratos/bashtop,Shell,392
+227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,602
+249342059,chuzhixin/vue-admin-beautiful,Vue,308
+139199684,PrefectHQ/prefect,Python,176
+109872620,paritytech/substrate,Rust,313
+201025777,mamoe/mirai,,309
 13455471,mplushnikov/lombok-intellij-plugin,Java,66
-81634683,Oneflow-Inc/oneflow,C++,677
 247659028,KFCFans/PowerJob,Java,771
-237867883,metersphere/metersphere,Java,345
-244466961,zio/zio-prelude,Scala,63
+144140342,paritytech/polkadot,Rust,111
+261300342,IBM/fhe-toolkit-linux,C++,689
