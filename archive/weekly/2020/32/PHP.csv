@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,154
+1863329,laravel/laravel,PHP,157
 3482588,danielmiessler/SecLists,PHP,138
 458058,symfony/symfony,PHP,36
 2246815,domnikl/DesignPatternsPHP,PHP,40
 448045,sebastianbergmann/phpunit,PHP,38
 3431193,yiisoft/yii2,PHP,15
-1631570,nikic/PHP-Parser,PHP,45
+1631570,nikic/PHP-Parser,PHP,47
 14732311,octobercms/october,PHP,35
 14259390,Maatwebsite/Laravel-Excel,PHP,33
 61490598,PHPOffice/PhpSpreadsheet,PHP,44
@@ -15,7 +15,7 @@ id,name,lang,new stars
 16896584,nikic/FastRoute,PHP,16
 10883164,barryvdh/laravel-dompdf,PHP,16
 31595609,mpdf/mpdf,PHP,14
-72453516,wp-graphql/wp-graphql,PHP,25
+72453516,wp-graphql/wp-graphql,PHP,26
 79166184,cretueusebiu/laravel-vue-spa,PHP,18
 38200433,jeroennoten/Laravel-AdminLTE,PHP,21
 6495081,wikimedia/mediawiki,PHP,16
