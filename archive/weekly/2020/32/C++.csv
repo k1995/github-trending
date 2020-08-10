@@ -1,5 +1,5 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,324
+45717250,tensorflow/tensorflow,C++,343
 9384267,electron/electron,C++,226
 65600975,pytorch/pytorch,C++,225
 184456251,microsoft/PowerToys,C++,1732
@@ -10,7 +10,7 @@ id,name,lang,new stars
 107794782,trojan-gfw/trojan,C++,117
 65711522,PaddlePaddle/Paddle,C++,171
 126412363,simdjson/simdjson,C++,1557
-26038648,gabime/spdlog,C++,82
+26038648,gabime/spdlog,C++,84
 98771110,zhongyang219/TrafficMonitor,C++,148
 18348651,OpenRCT2/OpenRCT2,C++,191
 191820100,google/mediapipe,C++,232
@@ -18,7 +18,7 @@ id,name,lang,new stars
 5736080,FreeCAD/FreeCAD,C++,66
 204593825,microsoft/STL,C++,57
 192025001,Qv2ray/Qv2ray,C++,232
-46374199,IntelRealSense/librealsense,C++,31
+46374199,IntelRealSense/librealsense,C++,33
 98470332,sebastianstarke/AI4Animation,C++,280
 81634683,Oneflow-Inc/oneflow,C++,677
 261300342,IBM/fhe-toolkit-linux,C++,689
