@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,58
-13233158,obsproject/obs-studio,C,19
+2325298,torvalds/linux,C,57
+13233158,obsproject/obs-studio,C,20
 6201092,mpv-player/mpv,C,6
 102578345,coolsnowwolf/lede,C,33
 2810292,pbatard/rufus,C,8
-66150122,jarun/nnn,C,15
+66150122,jarun/nnn,C,14
 47409672,hashcat/hashcat,C,8
 27737393,qmk/qmk_firmware,C,9
 78281075,SpacehuhnTech/esp8266_deauther,C,4
-9524997,glfw/glfw,C,3
-90320494,ish-app/ish,C,2
+9524997,glfw/glfw,C,2
+90320494,ish-app/ish,C,3
 35129809,transmission/transmission,C,3
 13836499,raysan5/raylib,C,8
 40504480,mit-pdos/xv6-public,C,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 90867899,stm32duino/Arduino_Core_STM32,C,0
 151870364,xiaorouji/openwrt-package,C,0
 211756905,MarlinFirmware/Configurations,C,0
-284514588,Manawyrm/pata-gpio,C,15
+284514588,Manawyrm/pata-gpio,C,16
