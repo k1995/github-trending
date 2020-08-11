@@ -1,15 +1,15 @@
 id,name,lang,new stars
 23096959,golang/go,Go,298
-20580498,kubernetes/kubernetes,Go,242
+20580498,kubernetes/kubernetes,Go,249
 20904437,gin-gonic/gin,Go,228
 41912791,v2ray/v2ray-core,Go,194
-41986369,pingcap/tidb,Go,100
+41986369,pingcap/tidb,Go,98
 13628513,sirupsen/logrus,Go,97
 46806184,helm/charts,Go,115
 13624859,gorilla/websocket,Go,80
-33258973,influxdata/telegraf,Go,38
-75135036,json-iterator/go,Go,45
-66841911,360EntSecGroup-Skylar/excelize,Go,121
+33258973,influxdata/telegraf,Go,36
+75135036,json-iterator/go,Go,44
+66841911,360EntSecGroup-Skylar/excelize,Go,122
 27576132,aws/aws-sdk-go,Go,78
 119160553,photoprism/photoprism,Go,98
 121086193,99designs/gqlgen,Go,42
@@ -21,6 +21,6 @@ id,name,lang,new stars
 172292744,panjf2000/gnet,Go,65
 243518322,douyu/jupiter,Go,281
 154643390,sundowndev/PhoneInfoga,Go,39
-248025303,p4gefau1t/trojan-go,Go,59
+248025303,p4gefau1t/trojan-go,Go,68
 111455867,smartcontractkit/chainlink,Go,33
 235685125,omriharel/deej,Go,45

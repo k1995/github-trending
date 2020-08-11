@@ -10,8 +10,8 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,95
 15020102,walkor/Workerman,PHP,103
 79111500,jupeter/clean-code-php,PHP,188
-2699935,squizlabs/PHP_CodeSniffer,PHP,90
-14716368,invoiceninja/invoiceninja,PHP,60
+2699935,squizlabs/PHP_CodeSniffer,PHP,89
+14716368,invoiceninja/invoiceninja,PHP,58
 30171828,rappasoft/laravel-boilerplate,PHP,614
 12204147,mautic/mautic,PHP,74
 10883164,barryvdh/laravel-dompdf,PHP,57
@@ -19,7 +19,7 @@ id,name,lang,new stars
 31541210,aimeos/aimeos-laravel,PHP,239
 159606650,hyperf/hyperf,PHP,139
 79166184,cretueusebiu/laravel-vue-spa,PHP,61
-47508644,pterodactyl/panel,PHP,57
+47508644,pterodactyl/panel,PHP,56
 44733816,privacy-protection-tools/anti-AD,PHP,198
 116010682,Tai7sy/card-system,PHP,94
 146414504,jianyan74/rageframe2,PHP,91
