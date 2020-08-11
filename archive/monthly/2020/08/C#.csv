@@ -1,10 +1,10 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,798
-17620347,dotnet/aspnetcore,C#,483
-70104825,dotnet-architecture/eShopOnContainers,C#,372
+17620347,dotnet/aspnetcore,C#,484
+70104825,dotnet-architecture/eShopOnContainers,C#,373
 54086969,thangchung/awesome-dotnet-core,C#,299
-16157746,dotnet/efcore,C#,127
-161012019,jellyfin/jellyfin,C#,342
+16157746,dotnet/efcore,C#,129
+161012019,jellyfin/jellyfin,C#,346
 28232663,dotnet/orleans,C#,113
 142076747,microsoft/ailab,C#,437
 12191244,dotnet/BenchmarkDotNet,C#,178
@@ -14,12 +14,12 @@ id,name,lang,new stars
 1208824,quartznet/quartznet,C#,77
 20304390,HearthSim/Hearthstone-Deck-Tracker,C#,77
 203892454,kgrzybek/modular-monolith-with-ddd,C#,292
-210716005,dotnet/runtime,C#,331
+210716005,dotnet/runtime,C#,315
 135050219,TGSAN/CMWTAT_Digital_Edition,C#,246
-213460285,jasontaylordev/CleanArchitecture,C#,242
-115516512,ivanpaulovich/clean-architecture-manga,C#,527
+213460285,jasontaylordev/CleanArchitecture,C#,240
+115516512,ivanpaulovich/clean-architecture-manga,C#,528
 83187656,EllanJiang/GameFramework,C#,90
-169597853,cobbr/Covenant,C#,123
+169597853,cobbr/Covenant,C#,122
 72554578,confluentinc/confluent-kafka-dotnet,C#,48
 184286875,actions/runner,C#,120
 201188122,rocksdanister/lively,C#,200
