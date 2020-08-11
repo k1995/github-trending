@@ -1,13 +1,13 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,310
+45717250,tensorflow/tensorflow,C++,309
 9384267,electron/electron,C++,201
 65600975,pytorch/pytorch,C++,203
-184456251,microsoft/PowerToys,C++,1094
+184456251,microsoft/PowerToys,C++,1091
 15634981,godotengine/godot,C++,191
 22067521,ocornut/imgui,C++,127
-65214191,envoyproxy/envoy,C++,160
+65214191,envoyproxy/envoy,C++,158
 74660642,taichi-dev/taichi,C++,123
-126412363,simdjson/simdjson,C++,1643
+126412363,simdjson/simdjson,C++,1654
 26038648,gabime/spdlog,C++,64
 98771110,zhongyang219/TrafficMonitor,C++,139
 18348651,OpenRCT2/OpenRCT2,C++,181
@@ -15,12 +15,12 @@ id,name,lang,new stars
 2200856,MarlinFirmware/Marlin,C++,55
 38581626,pybind/pybind11,C++,179
 2701888,mawww/kakoune,C++,39
-5736080,FreeCAD/FreeCAD,C++,51
-204593825,microsoft/STL,C++,52
+5736080,FreeCAD/FreeCAD,C++,50
+204593825,microsoft/STL,C++,51
 192025001,Qv2ray/Qv2ray,C++,208
 46374199,IntelRealSense/librealsense,C++,28
 98470332,sebastianstarke/AI4Animation,C++,175
 81634683,Oneflow-Inc/oneflow,C++,276
 239714835,mindspore-ai/mindspore,C++,40
-261300342,IBM/fhe-toolkit-linux,C++,281
+261300342,IBM/fhe-toolkit-linux,C++,280
 276269866,TixiaoShan/LIO-SAM,C++,86
