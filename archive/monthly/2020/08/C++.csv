@@ -4,14 +4,14 @@ id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,584
 23357588,protocolbuffers/protobuf,C++,641
 65600975,pytorch/pytorch,C++,943
-11171548,nlohmann/json,C++,549
+11171548,nlohmann/json,C++,548
 6934395,facebook/rocksdb,C++,401
 74627617,commaai/openpilot,C++,1202
 65214191,envoyproxy/envoy,C++,738
 120887835,huihut/interview,C++,718
-65711522,PaddlePaddle/Paddle,C++,739
-126412363,simdjson/simdjson,C++,1876
-60246359,ClickHouse/ClickHouse,C++,487
+65711522,PaddlePaddle/Paddle,C++,736
+126412363,simdjson/simdjson,C++,1867
+60246359,ClickHouse/ClickHouse,C++,480
 102343794,apache/incubator-brpc,C++,223
 34777562,ossrs/srs,C++,310
 18348651,OpenRCT2/OpenRCT2,C++,290
@@ -20,7 +20,7 @@ id,name,lang,new stars
 75821432,llvm/llvm-project,C++,325
 7512484,ArduPilot/ardupilot,C++,105
 192025001,Qv2ray/Qv2ray,C++,729
-131236938,an-tao/drogon,C++,416
+131236938,an-tao/drogon,C++,424
 262296122,PaddlePaddle/PaddleOCR,C++,1761
 76990209,Aircoookie/WLED,C++,221
 86897963,xia-chu/ZLMediaKit,C++,173

@@ -1,8 +1,8 @@
 id,name,lang,new stars
 448045,sebastianbergmann/phpunit,PHP,28
-2253830,PHPMailer/PHPMailer,PHP,57
+2253830,PHPMailer/PHPMailer,PHP,58
 1631570,nikic/PHP-Parser,PHP,38
-60243197,nextcloud/server,PHP,67
+60243197,nextcloud/server,PHP,66
 12615154,barryvdh/laravel-debugbar,PHP,36
 1305114,roots/sage,PHP,21
 8678290,barryvdh/laravel-ide-helper,PHP,45
@@ -11,16 +11,16 @@ id,name,lang,new stars
 61490598,PHPOffice/PhpSpreadsheet,PHP,43
 42480275,spatie/laravel-permission,PHP,29
 12166778,googleapis/google-api-php-client,PHP,20
-2141186,opencart/opencart,PHP,20
+2141186,opencart/opencart,PHP,22
 16896584,nikic/FastRoute,PHP,18
 10883164,barryvdh/laravel-dompdf,PHP,12
 159606650,hyperf/hyperf,PHP,38
-31595609,mpdf/mpdf,PHP,15
+31595609,mpdf/mpdf,PHP,16
 72453516,wp-graphql/wp-graphql,PHP,22
 79166184,cretueusebiu/laravel-vue-spa,PHP,16
 38200433,jeroennoten/Laravel-AdminLTE,PHP,23
 1957456,Dolibarr/dolibarr,PHP,6
-47508644,pterodactyl/panel,PHP,14
+47508644,pterodactyl/panel,PHP,15
 60457385,vtrois/kratos,PHP,23
 230926110,qkqpttgf/OneManager-php,PHP,22
 25361672,OpenMage/magento-lts,PHP,2
