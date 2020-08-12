@@ -1,20 +1,20 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
+8514,rails/rails,Ruby,6
 27442967,fastlane/fastlane,Ruby,5
-13840241,freeCodeCamp/devdocs,Ruby,13
-2293158,rapid7/metasploit-framework,Ruby,8
+13840241,freeCodeCamp/devdocs,Ruby,15
+2293158,rapid7/metasploit-framework,Ruby,12
 308770,heartcombo/devise,Ruby,1
 481872,hashicorp/vagrant,Ruby,10
-73648678,forem/forem,Ruby,18
-2203645,CocoaPods/CocoaPods,Ruby,6
+73648678,forem/forem,Ruby,17
+2203645,CocoaPods/CocoaPods,Ruby,5
 4095287,rubocop-hq/rubocop,Ruby,1
 3314,spree/spree,Ruby,1
 88740103,postalhq/postal,Ruby,3
 1918677,fluent/fluentd,Ruby,4
 361310,teamcapybara/capybara,Ruby,5
-96395,faker-ruby/faker,Ruby,3
+96395,faker-ruby/faker,Ruby,4
 47087,carrierwaveuploader/carrierwave,Ruby,1
-451035,heartcombo/simple_form,Ruby,2
+451035,heartcombo/simple_form,Ruby,1
 108278,chef/chef,Ruby,0
 277089,flyerhzm/bullet,Ruby,1
 75785147,rails/webpacker,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 18294,activemerchant/active_merchant,Ruby,0
 1734,aasm/aasm,Ruby,0
 52316423,luggit/react-native-config,Ruby,2
-189010173,Hackplayers/evil-winrm,Ruby,7
+189010173,Hackplayers/evil-winrm,Ruby,6
 29151578,rswag/rswag,Ruby,1
