@@ -1,16 +1,16 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,32
+5108051,opencv/opencv,C++,27
 23357588,protocolbuffers/protobuf,C++,29
 65600975,pytorch/pytorch,C++,37
-15634981,godotengine/godot,C++,27
+15634981,godotengine/godot,C++,26
 27729880,grpc/grpc,C++,15
 22067521,ocornut/imgui,C++,23
-34864402,apache/incubator-mxnet,C++,7
-39840932,google/googletest,C++,10
+34864402,apache/incubator-mxnet,C++,6
+39840932,google/googletest,C++,12
 60273704,mozilla/STT,C++,15
 81887991,microsoft/AirSim,C++,4
 143455116,google/filament,C++,6
-104231541,abseil/abseil-cpp,C++,7
+104231541,abseil/abseil-cpp,C++,8
 160083795,SerenityOS/serenity,C++,8
 1605598,bulletphysics/bullet3,C++,4
 5298790,PX4/Firmware,C++,4
@@ -19,7 +19,7 @@ id,name,lang,new stars
 184704903,interpretml/interpret,C++,11
 49986046,falcosecurity/falco,C++,7
 76990209,Aircoookie/WLED,C++,10
-3030065,gnuradio/gnuradio,C++,4
+3030065,gnuradio/gnuradio,C++,5
 131630299,onnx/onnx-tensorrt,C++,3
 237647258,meshtastic/Meshtastic-device,C++,7
 238628146,Element-0/ElementZero,C++,3
