@@ -1,19 +1,19 @@
 id,name,lang,new stars
-11730342,vuejs/vue,JavaScript,104
+11730342,vuejs/vue,JavaScript,105
 10270250,facebook/react,JavaScript,100
 29028775,facebook/react-native,JavaScript,35
-126577260,trekhleb/javascript-algorithms,JavaScript,252
-70107786,vercel/next.js,JavaScript,36
+126577260,trekhleb/javascript-algorithms,JavaScript,281
+70107786,vercel/next.js,JavaScript,37
 36040894,gatsbyjs/gatsby,JavaScript,21
-74791366,ryanmcdermott/clean-code-javascript,JavaScript,109
-128624453,NervJS/taro,JavaScript,14
+74791366,ryanmcdermott/clean-code-javascript,JavaScript,99
+128624453,NervJS/taro,JavaScript,12
 48626335,vuejs/vue-cli,JavaScript,8
-59996401,YMFE/yapi,JavaScript,23
+59996401,YMFE/yapi,JavaScript,24
 7363211,knex/knex,JavaScript,14
-242754476,tailwindlabs/heroicons,JavaScript,176
+242754476,tailwindlabs/heroicons,JavaScript,164
 80616041,invertase/react-native-firebase,JavaScript,4
 8629417,mapbox/mapbox-gl-js,JavaScript,1
-31790438,api-platform/api-platform,JavaScript,6
+31790438,api-platform/api-platform,JavaScript,7
 42009758,MetaMask/metamask-extension,JavaScript,0
 39237460,Hygieia/Hygieia,JavaScript,2
 60010673,elementor/elementor,JavaScript,13
@@ -22,5 +22,5 @@ id,name,lang,new stars
 62843932,microsoft/BotFramework-WebChat,JavaScript,0
 184698484,storybookjs/design-system,JavaScript,3
 235468657,PipedreamHQ/pipedream,JavaScript,9
-280656483,TkzcM/baiduwp,JavaScript,55
+280656483,TkzcM/baiduwp,JavaScript,54
 187700685,bedrockio/bedrock-core,JavaScript,13
