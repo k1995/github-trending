@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,10
+74175805,istio/istio,Go,13
+17728164,hashicorp/terraform,Go,21
+14125254,hashicorp/consul,Go,9
+13628513,sirupsen/logrus,Go,21
+26337322,rancher/rancher,Go,61
+122734569,iawia002/annie,Go,20
+44350607,kubernetes/dashboard,Go,5
+6443435,nats-io/nats-server,Go,8
+80087836,dgraph-io/badger,Go,5
+22442668,openshift/origin,Go,2
+10270722,google/go-github,Go,7
+26726495,go-swagger/go-swagger,Go,7
+79921099,chromedp/chromedp,Go,3
+109145553,containers/podman,Go,10
+37334619,golang/mock,Go,6
+21034555,asaskevich/govalidator,Go,1
+82700090,uber/cadence,Go,11
+40539602,99designs/aws-vault,Go,11
+120896210,argoproj/argo-cd,Go,5
+191655189,facebookincubator/ent,Go,15
+125275487,kubernetes-sigs/kubebuilder,Go,3
+43982667,hpcng/singularity,Go,2
+23967971,Psiphon-Labs/psiphon-tunnel-core,Go,3
+285413304,SixGenInc/Noctilucent,Go,66
