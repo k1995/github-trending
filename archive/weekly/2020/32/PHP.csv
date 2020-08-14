@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,122
+3482588,danielmiessler/SecLists,PHP,121
 7548986,laravel/framework,PHP,67
 448045,sebastianbergmann/phpunit,PHP,26
 2253830,PHPMailer/PHPMailer,PHP,55
@@ -10,16 +10,16 @@ id,name,lang,new stars
 12615154,barryvdh/laravel-debugbar,PHP,43
 8678290,barryvdh/laravel-ide-helper,PHP,47
 14732311,octobercms/october,PHP,24
-48796179,z-song/laravel-admin,PHP,90
-14259390,Maatwebsite/Laravel-Excel,PHP,34
+48796179,z-song/laravel-admin,PHP,96
+14259390,Maatwebsite/Laravel-Excel,PHP,33
 2179920,woocommerce/woocommerce,PHP,21
 2141186,opencart/opencart,PHP,17
 170355508,livewire/livewire,PHP,99
-16896584,nikic/FastRoute,PHP,17
-10883164,barryvdh/laravel-dompdf,PHP,12
+16896584,nikic/FastRoute,PHP,16
+10883164,barryvdh/laravel-dompdf,PHP,13
 4224042,roundcube/roundcubemail,PHP,14
-72453516,wp-graphql/wp-graphql,PHP,14
-38200433,jeroennoten/Laravel-AdminLTE,PHP,23
+72453516,wp-graphql/wp-graphql,PHP,12
+38200433,jeroennoten/Laravel-AdminLTE,PHP,22
 1957456,Dolibarr/dolibarr,PHP,14
-60457385,vtrois/kratos,PHP,18
+60457385,vtrois/kratos,PHP,19
 131995661,shopware/platform,PHP,19

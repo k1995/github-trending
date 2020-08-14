@@ -6,7 +6,7 @@ id,name,lang,new stars
 34921116,iovisor/bcc,C,16
 84240850,timescale/timescaledb,C,14
 480080,openresty/openresty,C,3
-47409672,hashcat/hashcat,C,15
+47409672,hashcat/hashcat,C,14
 40217904,swaywm/sway,C,1
 63809205,google/oss-fuzz,C,4
 16734696,meetecho/janus-gateway,C,5
@@ -19,7 +19,7 @@ id,name,lang,new stars
 86245815,pygame/pygame,C,4
 1139119,json-c/json-c,C,0
 110436596,rewardone/OSCPRepo,C,29
-270021240,rossumur/espflix,C,31
+270021240,rossumur/espflix,C,30
 267962512,GeoSn0w/OpenJailbreak,C,56
 286541272,GeoSn0w/Blizzard-Jailbreak,C,7
 285320457,IIC2133-PUC/2020-2,C,3
