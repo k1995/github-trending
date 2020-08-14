@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,1116
-29028775,facebook/react-native,JavaScript,326
-103633984,goldbergyoni/nodebestpractices,JavaScript,533
+13491895,EbookFoundation/free-programming-books,,1112
+54173593,storybookjs/storybook,TypeScript,511
 94911145,facebook/docusaurus,JavaScript,172
-26337322,rancher/rancher,Go,173
+3390243,servo/servo,Rust,323
+26337322,rancher/rancher,Go,171
 7010724,dianping/cat,Java,131
-162998479,sherlock-project/sherlock,Python,575
-196353673,taosdata/TDengine,C,487
-241805592,romefrontend/rome,TypeScript,2670
-126412363,simdjson/simdjson,C++,996
-137946752,nondanee/UnblockNeteaseMusic,JavaScript,137
-242754476,tailwindlabs/heroicons,JavaScript,2105
+162998479,sherlock-project/sherlock,Python,600
+196353673,taosdata/TDengine,C,438
+241805592,romefrontend/rome,TypeScript,2664
+126412363,simdjson/simdjson,C++,947
+242754476,tailwindlabs/heroicons,JavaScript,2085
 34407651,Azure/azure-quickstart-templates,PowerShell,135
 250761246,aristocratos/bashtop,Shell,377
-227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,334
-243487250,ouyanghuiyu/chineseocr_lite,Python,100
-192025001,Qv2ray/Qv2ray,C++,193
-264818686,ultralytics/yolov5,Python,409
-139199684,PrefectHQ/prefect,Python,1151
-158460787,igorwojda/android-showcase,Kotlin,180
-109872620,paritytech/substrate,Rust,173
+227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,330
+113928488,Sycnex/Windows10Debloater,PowerShell,268
+243487250,ouyanghuiyu/chineseocr_lite,Python,101
+139199684,PrefectHQ/prefect,Python,1177
+264818686,ultralytics/yolov5,Python,405
 13455471,mplushnikov/lombok-intellij-plugin,Java,56
-243518322,douyu/jupiter,Go,209
-276444578,aristocratos/bpytop,Python,1309
-277320919,aboelkassem/educative.io_courses,,393
+276444578,aristocratos/bpytop,Python,1280
+227895834,openservicemesh/osm,Go,748
+111455867,smartcontractkit/chainlink,Go,48
+277320919,aboelkassem/educative.io_courses,,359
+279895213,papercups-io/papercups,Elixir,517
+281659186,guoday/Tencent2020_Rank1st,Python,181
