@@ -1,6 +1,6 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,2191
-111583593,Genymobile/scrcpy,C,1916
+2325298,torvalds/linux,C,2201
+111583593,Genymobile/scrcpy,C,1920
 18666758,pjreddie/darknet,C,361
 24586308,cfenollosa/os-tutorial,C,310
 14812739,libuv/libuv,C,205
@@ -12,15 +12,15 @@ id,name,lang,new stars
 3299208,videolan/vlc,C,127
 117948953,Atmosphere-NX/Atmosphere,C,203
 190845267,n64decomp/sm64,C,156
-179354282,acidanthera/OpenCorePkg,C,720
-29933948,fluent/fluent-bit,C,69
-255670798,sandboxie/sandboxie,C,280
+179354282,acidanthera/OpenCorePkg,C,722
+29933948,fluent/fluent-bit,C,68
+255670798,sandboxie/sandboxie,C,281
 241659610,OpenIntelWireless/itlwm,C,371
 39042157,spdk/spdk,C,42
 15991457,openssh/openssh-portable,C,42
-213916896,blender/blender,C,166
+213916896,blender/blender,C,167
 154525111,signalwire/freeswitch,C,70
 23780138,riscv/riscv-gnu-toolchain,C,42
-197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,44
-173287874,brektrou/rtl8821CU,C,36
-211756905,MarlinFirmware/Configurations,C,39
+197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,42
+173287874,brektrou/rtl8821CU,C,38
+211756905,MarlinFirmware/Configurations,C,41

@@ -1,16 +1,16 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1428
-44838949,apple/swift,C++,661
-5108051,opencv/opencv,C++,1379
-1181927,bitcoin/bitcoin,C++,584
+45717250,tensorflow/tensorflow,C++,1434
+44838949,apple/swift,C++,663
+5108051,opencv/opencv,C++,1375
+1181927,bitcoin/bitcoin,C++,585
 23357588,protocolbuffers/protobuf,C++,648
-65600975,pytorch/pytorch,C++,956
+65600975,pytorch/pytorch,C++,957
 6934395,facebook/rocksdb,C++,395
 74627617,commaai/openpilot,C++,1208
-65214191,envoyproxy/envoy,C++,753
+65214191,envoyproxy/envoy,C++,752
 120887835,huihut/interview,C++,749
 65711522,PaddlePaddle/Paddle,C++,753
-126412363,simdjson/simdjson,C++,1969
+126412363,simdjson/simdjson,C++,1968
 60246359,ClickHouse/ClickHouse,C++,514
 1217614,xbmc/xbmc,C++,128
 102343794,apache/incubator-brpc,C++,223
@@ -18,9 +18,9 @@ id,name,lang,new stars
 18348651,OpenRCT2/OpenRCT2,C++,296
 40892817,ethereum/solidity,C++,116
 104231541,abseil/abseil-cpp,C++,183
-51905353,apache/arrow,C++,315
+51905353,apache/arrow,C++,316
 75821432,llvm/llvm-project,C++,327
 192025001,Qv2ray/Qv2ray,C++,726
-131236938,an-tao/drogon,C++,583
+131236938,an-tao/drogon,C++,589
 262296122,PaddlePaddle/PaddleOCR,C++,1784
 76990209,Aircoookie/WLED,C++,231
