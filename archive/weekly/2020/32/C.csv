@@ -1,16 +1,16 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,431
-14812739,libuv/libuv,C,41
-20159867,nothings/stb,C,60
-196353673,taosdata/TDengine,C,279
-102578345,coolsnowwolf/lede,C,120
+111583593,Genymobile/scrcpy,C,427
+14812739,libuv/libuv,C,42
+20159867,nothings/stb,C,61
+196353673,taosdata/TDengine,C,296
+102578345,coolsnowwolf/lede,C,122
 34921116,iovisor/bcc,C,79
 47409672,hashcat/hashcat,C,75
-78281075,SpacehuhnTech/esp8266_deauther,C,45
+78281075,SpacehuhnTech/esp8266_deauther,C,46
 21294600,huangz1990/redis-3.0-annotated,C,33
 45821540,openwrt/openwrt,C,36
 63477515,TheAlgorithms/C,C,70
-70127218,espressif/arduino-esp32,C,23
+70127218,espressif/arduino-esp32,C,24
 689344,libretro/RetroArch,C,41
 673267,redis/hiredis,C,14
 192805335,microsoft/mimalloc,C,41
@@ -23,4 +23,4 @@ id,name,lang,new stars
 76599439,FRRouting/frr,C,10
 154525111,signalwire/freeswitch,C,14
 263076869,azure-rtos/threadx,C,20
-197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,9
+197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,10
