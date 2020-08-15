@@ -1,15 +1,15 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1285
+23096959,golang/go,Go,1279
 7691631,moby/moby,Go,300
-21540759,avelino/awesome-go,Go,920
+21540759,avelino/awesome-go,Go,923
 20904437,gin-gonic/gin,Go,981
 48378947,fatedier/frp,Go,824
-15452919,ethereum/go-ethereum,Go,294
+15452919,ethereum/go-ethereum,Go,295
 41986369,pingcap/tidb,Go,435
 31288958,hashicorp/vault,Go,963
-13628513,sirupsen/logrus,Go,359
+13628513,sirupsen/logrus,Go,358
 40808571,yudai/gotty,Go,197
-136815833,Dreamacro/clash,Go,955
+136815833,Dreamacro/clash,Go,953
 71297170,Netflix/chaosmonkey,Go,315
 54378638,github/gh-ost,Go,168
 163883279,nektos/act,Go,825
@@ -21,6 +21,6 @@ id,name,lang,new stars
 156681830,ffuf/ffuf,Go,284
 206213815,chaos-mesh/chaos-mesh,Go,192
 75785240,authelia/authelia,Go,366
-111455867,smartcontractkit/chainlink,Go,128
+111455867,smartcontractkit/chainlink,Go,127
 252813491,projectdiscovery/nuclei,Go,267
-193681111,filecoin-project/lotus,Go,146
+193681111,filecoin-project/lotus,Go,145
