@@ -5,10 +5,10 @@ id,name,lang,new stars
 7548986,laravel/framework,PHP,13
 2889328,WordPress/WordPress,PHP,3
 7704544,Intervention/image,PHP,4
-48796179,z-song/laravel-admin,PHP,8
+48796179,z-song/laravel-admin,PHP,10
 364315,predis/predis,PHP,17
 2179920,woocommerce/woocommerce,PHP,3
-4551765,thephpleague/oauth2-server,PHP,1
+4551765,thephpleague/oauth2-server,PHP,2
 6763587,PrestaShop/PrestaShop,PHP,2
 2360755,wp-cli/wp-cli,PHP,0
 33916850,spatie/laravel-medialibrary,PHP,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 679584,openemr/openemr,PHP,1
 98536285,mylxsw/wizard,PHP,7
 131995661,shopware/platform,PHP,1
-105638882,nasirkhan/laravel-starter,PHP,4
+105638882,nasirkhan/laravel-starter,PHP,6
 286645686,yuantuo666/baiduwp-php,PHP,14
 286959775,cHaLkdusT/goodbye-world,PHP,0
