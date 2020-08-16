@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,58
-65252,jekyll/jekyll,Ruby,80
+65252,jekyll/jekyll,Ruby,81
 21600440,bayandin/awesome-awesomeness,Ruby,43
 13840241,freeCodeCamp/devdocs,Ruby,71
-2293158,rapid7/metasploit-framework,Ruby,80
-308770,heartcombo/devise,Ruby,18
-481872,hashicorp/vagrant,Ruby,58
+2293158,rapid7/metasploit-framework,Ruby,83
+308770,heartcombo/devise,Ruby,21
+481872,hashicorp/vagrant,Ruby,59
 3195124,mperham/sidekiq,Ruby,13
 361310,teamcapybara/capybara,Ruby,13
-96395,faker-ruby/faker,Ruby,22
+96395,faker-ruby/faker,Ruby,23
 451035,heartcombo/simple_form,Ruby,16
 211588,paper-trail-gem/paper_trail,Ruby,13
 865250,presidentbeef/brakeman,Ruby,18
@@ -20,7 +20,7 @@ id,name,lang,new stars
 7050,prawnpdf/prawn,Ruby,16
 1314319,instructure/canvas-lms,Ruby,8
 30985840,solidusio/solidus,Ruby,21
-52316423,luggit/react-native-config,Ruby,17
+52316423,luggit/react-native-config,Ruby,18
 339567,stefankroes/ancestry,Ruby,24
 283022742,excid3/noticed,Ruby,112
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,16
