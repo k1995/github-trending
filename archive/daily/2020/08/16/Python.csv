@@ -3,7 +3,7 @@ id,name,lang,new stars
 155220641,huggingface/transformers,Python,92
 154747577,google-research/bert,Python,32
 162998479,sherlock-project/sherlock,Python,220
-13258039,aio-libs/aiohttp,Python,7
+13258039,aio-libs/aiohttp,Python,14
 106024057,rusty1s/pytorch_geometric,Python,11
 152166877,d2l-ai/d2l-en,Python,31
 43509302,secdev/scapy,Python,13
@@ -14,8 +14,8 @@ id,name,lang,new stars
 198616978,UKPLab/sentence-transformers,Python,16
 97431281,pythonstock/stock,Python,25
 225813090,clovaai/stargan-v2,Python,9
+137292803,executablebooks/jupyter-book,Python,345
 123424015,shibing624/pycorrector,Python,2
-137292803,executablebooks/jupyter-book,Python,257
 139323243,naiveHobo/InvoiceNet,Python,174
 262793810,iswbm/magic-python,Python,31
 226807532,yangjianxin1/GPT2-chitchat,Python,5

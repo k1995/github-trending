@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,685
+1863329,laravel/laravel,PHP,688
 7548986,laravel/framework,PHP,318
 2889328,WordPress/WordPress,PHP,166
-60243197,nextcloud/server,PHP,301
+60243197,nextcloud/server,PHP,302
 12615154,barryvdh/laravel-debugbar,PHP,180
 28628034,flarum/flarum,PHP,144
 48796179,z-song/laravel-admin,PHP,224
@@ -15,9 +15,9 @@ id,name,lang,new stars
 16896584,nikic/FastRoute,PHP,49
 12204147,mautic/mautic,PHP,86
 31541210,aimeos/aimeos-laravel,PHP,252
-95011974,akaunting/akaunting,PHP,105
+95011974,akaunting/akaunting,PHP,106
 97311017,rectorphp/rector,PHP,120
-159606650,hyperf/hyperf,PHP,157
+159606650,hyperf/hyperf,PHP,159
 1957456,Dolibarr/dolibarr,PHP,58
 47508644,pterodactyl/panel,PHP,56
 44733816,privacy-protection-tools/anti-AD,PHP,182
