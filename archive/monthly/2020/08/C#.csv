@@ -1,8 +1,8 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,854
+49609581,PowerShell/PowerShell,C#,856
 17620347,dotnet/aspnetcore,C#,505
-70104825,dotnet-architecture/eShopOnContainers,C#,391
-54086969,thangchung/awesome-dotnet-core,C#,318
+70104825,dotnet-architecture/eShopOnContainers,C#,392
+54086969,thangchung/awesome-dotnet-core,C#,322
 1327739,icsharpcode/ILSpy,C#,276
 16157746,dotnet/efcore,C#,142
 161012019,jellyfin/jellyfin,C#,367
@@ -11,16 +11,16 @@ id,name,lang,new stars
 12191244,dotnet/BenchmarkDotNet,C#,147
 22456440,ppy/osu,C#,171
 64290739,dodyg/practical-aspnetcore,C#,170
-75505125,abpframework/abp,C#,341
+75505125,abpframework/abp,C#,343
 210716005,dotnet/runtime,C#,309
-135050219,TGSAN/CMWTAT_Digital_Edition,C#,250
+135050219,TGSAN/CMWTAT_Digital_Edition,C#,251
 213460285,jasontaylordev/CleanArchitecture,C#,233
 115516512,ivanpaulovich/clean-architecture-manga,C#,497
 83187656,EllanJiang/GameFramework,C#,99
 243854166,dotnet/tye,C#,303
 2928944,Azure/azure-sdk-for-net,C#,53
 72554578,confluentinc/confluent-kafka-dotnet,C#,52
-184286875,actions/runner,C#,129
+184286875,actions/runner,C#,130
 94501709,Unity-Technologies/2d-extras,C#,64
 243422604,samhogan/Minecraft-Unity3D,C#,67
-252826419,Unity-Technologies/Graphics,C#,57
+252826419,Unity-Technologies/Graphics,C#,58
