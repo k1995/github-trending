@@ -1,11 +1,11 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,142
-7548986,laravel/framework,PHP,84
+7548986,laravel/framework,PHP,85
 448045,sebastianbergmann/phpunit,PHP,26
 2889328,WordPress/WordPress,PHP,35
 47495360,koel/koel,PHP,27
-60243197,nextcloud/server,PHP,84
-12615154,barryvdh/laravel-debugbar,PHP,51
+60243197,nextcloud/server,PHP,85
+12615154,barryvdh/laravel-debugbar,PHP,52
 1305114,roots/sage,PHP,21
 8678290,barryvdh/laravel-ide-helper,PHP,52
 48796179,z-song/laravel-admin,PHP,105
@@ -15,7 +15,7 @@ id,name,lang,new stars
 364315,predis/predis,PHP,42
 2179920,woocommerce/woocommerce,PHP,25
 2141186,opencart/opencart,PHP,16
-170355508,livewire/livewire,PHP,116
+170355508,livewire/livewire,PHP,121
 10883164,barryvdh/laravel-dompdf,PHP,20
 10226642,Crinsane/LaravelShoppingcart,PHP,19
 29054113,zyx0814/dzzoffice,PHP,39
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,18
 47508644,pterodactyl/panel,PHP,15
 60457385,vtrois/kratos,PHP,22
-131995661,shopware/platform,PHP,16
+131995661,shopware/platform,PHP,17
