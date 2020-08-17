@@ -1,9 +1,9 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,44
 458058,symfony/symfony,PHP,14
-1864363,composer/composer,PHP,25
+1864363,composer/composer,PHP,12
 1376664,Seldaek/monolog,PHP,15
-3431193,yiisoft/yii2,PHP,5
+3431193,yiisoft/yii2,PHP,1
 60243197,nextcloud/server,PHP,31
 7704544,Intervention/image,PHP,12
 28628034,flarum/flarum,PHP,14
@@ -12,7 +12,7 @@ id,name,lang,new stars
 28257573,flarum/core,PHP,3
 6269013,aws/aws-sdk-php,PHP,2
 33916850,spatie/laravel-medialibrary,PHP,4
-19386515,spatie/browsershot,PHP,11
+19386515,spatie/browsershot,PHP,13
 38200433,jeroennoten/Laravel-AdminLTE,PHP,7
 69691727,pmmp/PocketMine-MP,PHP,5
 93982796,Tuhinshubhra/RED_HAWK,PHP,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 258773185,laravel-frontend-presets/tall,PHP,8
 195836215,magicblack/maccms10,PHP,3
 36526302,pentestmonkey/php-reverse-shell,PHP,2
-223535535,Ignitetch/AdvPhishing,PHP,10
+223535535,Ignitetch/AdvPhishing,PHP,6
 274912708,ZainCheung/netease-cloud-api,PHP,11
 230941898,munafio/chatify-demo,PHP,19
