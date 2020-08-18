@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,114
-2579314,fzaninotto/Faker,PHP,67
-458058,symfony/symfony,PHP,42
-7548986,laravel/framework,PHP,75
+3482588,danielmiessler/SecLists,PHP,115
+2579314,fzaninotto/Faker,PHP,66
+458058,symfony/symfony,PHP,44
+7548986,laravel/framework,PHP,76
 2889328,WordPress/WordPress,PHP,31
 3431193,yiisoft/yii2,PHP,11
-53783664,easychen/howto-make-more-money,PHP,29
-60243197,nextcloud/server,PHP,71
+53783664,easychen/howto-make-more-money,PHP,30
+60243197,nextcloud/server,PHP,72
 12615154,barryvdh/laravel-debugbar,PHP,44
-8678290,barryvdh/laravel-ide-helper,PHP,39
-48796179,z-song/laravel-admin,PHP,106
-12166778,googleapis/google-api-php-client,PHP,22
-364315,predis/predis,PHP,44
+8678290,barryvdh/laravel-ide-helper,PHP,40
+48796179,z-song/laravel-admin,PHP,107
+12166778,googleapis/google-api-php-client,PHP,24
+364315,predis/predis,PHP,45
 2179920,woocommerce/woocommerce,PHP,25
 14346979,snipe/snipe-it,PHP,22
 2784293,php-amqplib/php-amqplib,PHP,12
@@ -19,7 +19,7 @@ id,name,lang,new stars
 8077402,MISP/MISP,PHP,13
 31595609,mpdf/mpdf,PHP,15
 148129143,bagisto/bagisto,PHP,24
-29054113,zyx0814/dzzoffice,PHP,42
+29054113,zyx0814/dzzoffice,PHP,43
 6322699,FreshRSS/FreshRSS,PHP,32
 69691727,pmmp/PocketMine-MP,PHP,15
 1957456,Dolibarr/dolibarr,PHP,20
