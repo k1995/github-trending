@@ -1,20 +1,20 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,72
+65252,jekyll/jekyll,Ruby,73
 7569578,discourse/discourse,Ruby,62
 13840241,freeCodeCamp/devdocs,Ruby,72
-53238813,Homebrew/brew,Ruby,107
-2293158,rapid7/metasploit-framework,Ruby,82
+53238813,Homebrew/brew,Ruby,108
+2293158,rapid7/metasploit-framework,Ruby,88
 308770,heartcombo/devise,Ruby,23
 3623050,Homebrew/homebrew-cask,Ruby,34
-2203645,CocoaPods/CocoaPods,Ruby,19
+2203645,CocoaPods/CocoaPods,Ruby,18
 4095287,rubocop-hq/rubocop,Ruby,11
 3314,spree/spree,Ruby,19
 3195124,mperham/sidekiq,Ruby,10
 361310,teamcapybara/capybara,Ruby,8
-96395,faker-ruby/faker,Ruby,23
-15435,Shopify/liquid,Ruby,24
-52855516,Homebrew/homebrew-core,Ruby,41
-451035,heartcombo/simple_form,Ruby,10
+96395,faker-ruby/faker,Ruby,24
+15435,Shopify/liquid,Ruby,22
+52855516,Homebrew/homebrew-core,Ruby,39
+451035,heartcombo/simple_form,Ruby,9
 6688319,DeathKing/Learning-SICP,Ruby,32
 6529205,varvet/pundit,Ruby,11
 211588,paper-trail-gem/paper_trail,Ruby,9
@@ -23,4 +23,4 @@ id,name,lang,new stars
 447184,rspec/rspec-rails,Ruby,9
 1734,aasm/aasm,Ruby,9
 52316423,luggit/react-native-config,Ruby,14
-55288882,d12frosted/homebrew-emacs-plus,Ruby,22
+55288882,d12frosted/homebrew-emacs-plus,Ruby,21
