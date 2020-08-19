@@ -3,13 +3,13 @@ id,name,lang,new stars
 9384267,electron/electron,C++,34
 5108051,opencv/opencv,C++,29
 23357588,protocolbuffers/protobuf,C++,12
-22067521,ocornut/imgui,C++,154
+22067521,ocornut/imgui,C++,157
 11171548,nlohmann/json,C++,14
 1357796,emscripten-core/emscripten,C++,8
 31522041,vnpy/vnpy,C++,4
 1062572,catchorg/Catch2,C++,32
 33014811,notepad-plus-plus/notepad-plus-plus,C++,22
-191820100,google/mediapipe,C++,64
+191820100,google/mediapipe,C++,54
 51905353,apache/arrow,C++,8
 75821432,llvm/llvm-project,C++,12
 8162615,PointCloudLibrary/pcl,C++,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 236648333,flightlessmango/MangoHud,C++,9
 65670631,awwbees/BespokeSynth,C++,31
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,3
-287975640,can1357/NoVmp,C++,124
+287975640,can1357/NoVmp,C++,125
 288030583,0xnobody/vmpattack,C++,40
 263512833,Cc28256/CcRemote,C++,21
 287540405,klinix5/Windows-Setup-EoP,C++,5
