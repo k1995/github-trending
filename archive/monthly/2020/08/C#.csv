@@ -1,20 +1,20 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,480
+17620347,dotnet/aspnetcore,C#,481
 70104825,dotnet-architecture/eShopOnContainers,C#,374
-54086969,thangchung/awesome-dotnet-core,C#,316
+54086969,thangchung/awesome-dotnet-core,C#,317
 16157746,dotnet/efcore,C#,135
 14964475,AvaloniaUI/Avalonia,C#,232
-161012019,jellyfin/jellyfin,C#,353
+161012019,jellyfin/jellyfin,C#,352
 28232663,dotnet/orleans,C#,123
-198071756,huiyadanli/RevokeMsgPatcher,C#,449
-22456440,ppy/osu,C#,160
-64290739,dodyg/practical-aspnetcore,C#,172
+198071756,huiyadanli/RevokeMsgPatcher,C#,450
+22456440,ppy/osu,C#,162
+64290739,dodyg/practical-aspnetcore,C#,171
 69673033,ardalis/CleanArchitecture,C#,168
 75505125,abpframework/abp,C#,327
 20304390,HearthSim/Hearthstone-Deck-Tracker,C#,78
-210716005,dotnet/runtime,C#,301
-135050219,TGSAN/CMWTAT_Digital_Edition,C#,258
-213460285,jasontaylordev/CleanArchitecture,C#,221
+210716005,dotnet/runtime,C#,303
+135050219,TGSAN/CMWTAT_Digital_Edition,C#,259
+213460285,jasontaylordev/CleanArchitecture,C#,220
 83187656,EllanJiang/GameFramework,C#,100
 243854166,dotnet/tye,C#,299
 162222002,dotnetcore/FreeSql,C#,148
@@ -22,5 +22,5 @@ id,name,lang,new stars
 94770860,github-for-unity/Unity,C#,55
 184286875,actions/runner,C#,125
 216050620,Kinnara/ModernWpf,C#,117
-94501709,Unity-Technologies/2d-extras,C#,64
+94501709,Unity-Technologies/2d-extras,C#,65
 252826419,Unity-Technologies/Graphics,C#,56
