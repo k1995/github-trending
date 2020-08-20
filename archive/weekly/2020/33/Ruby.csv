@@ -1,11 +1,11 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,74
-7569578,discourse/discourse,Ruby,60
-13840241,freeCodeCamp/devdocs,Ruby,64
-53238813,Homebrew/brew,Ruby,100
-2293158,rapid7/metasploit-framework,Ruby,84
+65252,jekyll/jekyll,Ruby,73
+7569578,discourse/discourse,Ruby,61
+13840241,freeCodeCamp/devdocs,Ruby,63
+53238813,Homebrew/brew,Ruby,101
+2293158,rapid7/metasploit-framework,Ruby,85
 308770,heartcombo/devise,Ruby,28
-3623050,Homebrew/homebrew-cask,Ruby,36
+3623050,Homebrew/homebrew-cask,Ruby,35
 3314,spree/spree,Ruby,19
 3195124,mperham/sidekiq,Ruby,13
 96395,faker-ruby/faker,Ruby,22
@@ -15,12 +15,12 @@ id,name,lang,new stars
 6529205,varvet/pundit,Ruby,9
 10865,norman/friendly_id,Ruby,4
 75785147,rails/webpacker,Ruby,10
-202291859,chatwoot/chatwoot,Ruby,25
+202291859,chatwoot/chatwoot,Ruby,27
 30337170,rmosolgo/graphql-ruby,Ruby,9
 447184,rspec/rspec-rails,Ruby,11
 1734,aasm/aasm,Ruby,10
 839336,simplecov-ruby/simplecov,Ruby,9
-6899875,opf/openproject,Ruby,21
+6899875,opf/openproject,Ruby,22
 1314319,instructure/canvas-lms,Ruby,16
 52316423,luggit/react-native-config,Ruby,13
 62409417,department-of-veterans-affairs/vets-api,Ruby,0

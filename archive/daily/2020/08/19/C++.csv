@@ -1,5 +1,5 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,25
+9384267,electron/electron,C++,19
 65600975,pytorch/pytorch,C++,34
 22067521,ocornut/imgui,C++,154
 11171548,nlohmann/json,C++,14
@@ -19,8 +19,8 @@ id,name,lang,new stars
 49986046,falcosecurity/falco,C++,8
 156939672,microsoft/onnxruntime,C++,4
 262296122,PaddlePaddle/PaddleOCR,C++,73
-76990209,Aircoookie/WLED,C++,19
+76990209,Aircoookie/WLED,C++,17
 52400453,IntelRealSense/realsense-ros,C++,0
 287975640,can1357/NoVmp,C++,96
-288030583,0xnobody/vmpattack,C++,11
+288030583,0xnobody/vmpattack,C++,9
 288215814,tangent-opensource/hdcycles,C++,11
