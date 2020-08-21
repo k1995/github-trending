@@ -1,18 +1,18 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,9
-65252,jekyll/jekyll,Ruby,13
-27442967,fastlane/fastlane,Ruby,5
-308770,heartcombo/devise,Ruby,5
+65252,jekyll/jekyll,Ruby,17
+27442967,fastlane/fastlane,Ruby,10
+308770,heartcombo/devise,Ruby,6
 481872,hashicorp/vagrant,Ruby,7
 538746,ruby/ruby,Ruby,3
 2336578,twbs/bootstrap-sass,Ruby,0
 2203645,CocoaPods/CocoaPods,Ruby,1
-4095287,rubocop-hq/rubocop,Ruby,0
+4095287,rubocop-hq/rubocop,Ruby,1
 1725199,github/linguist,Ruby,2
 451035,heartcombo/simple_form,Ruby,0
 6529205,varvet/pundit,Ruby,3
-2441517,puma/puma,Ruby,2
-10865,norman/friendly_id,Ruby,4
+2441517,puma/puma,Ruby,4
+10865,norman/friendly_id,Ruby,7
 30337170,rmosolgo/graphql-ruby,Ruby,1
 1314319,instructure/canvas-lms,Ruby,4
 2050163,aws/aws-sdk-ruby,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 41571541,inspec/inspec,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,2
 114265475,w181496/Web-CTF-Cheatsheet,Ruby,6
-79618507,fluent/fluentd-kubernetes-daemonset,Ruby,2
+79618507,fluent/fluentd-kubernetes-daemonset,Ruby,1
 283022742,excid3/noticed,Ruby,18
-1254797,Casecommons/pg_search,Ruby,1
+1254797,Casecommons/pg_search,Ruby,2
