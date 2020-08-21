@@ -14,13 +14,13 @@ id,name,lang,new stars
 87990209,kubernetes/autoscaler,Go,10
 191655189,facebook/ent,Go,113
 7823926,prometheus/client_golang,Go,1
-108462822,projectcontour/contour,Go,7
+108462822,projectcontour/contour,Go,4
 76686583,kubevirt/kubevirt,Go,4
 84610043,kubernetes-sigs/aws-alb-ingress-controller,Go,4
 34933072,minio/minio-go,Go,6
-193681111,filecoin-project/lotus,Go,3
 217622305,aws/aws-controllers-k8s,Go,103
-103084166,accurics/terrascan,Go,10
+193681111,filecoin-project/lotus,Go,3
+103084166,accurics/terrascan,Go,9
 281694167,Mrs4s/go-cqhttp,Go,6
 183197059,BBVA/kapow,Go,27
 265190306,google/go-safeweb,Go,27

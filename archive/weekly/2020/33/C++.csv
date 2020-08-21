@@ -1,16 +1,16 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,279
+45717250,tensorflow/tensorflow,C++,278
 1181927,bitcoin/bitcoin,C++,132
-22067521,ocornut/imgui,C++,598
-22394357,osquery/osquery,C++,52
+22067521,ocornut/imgui,C++,610
+22394357,osquery/osquery,C++,53
 39840932,google/googletest,C++,230
-13862381,DrKLO/Telegram,C++,86
-1062572,catchorg/Catch2,C++,176
+13862381,DrKLO/Telegram,C++,84
+1062572,catchorg/Catch2,C++,184
 33014811,notepad-plus-plus/notepad-plus-plus,C++,109
 81887991,microsoft/AirSim,C++,44
 95879426,Tencent/ncnn,C++,53
 191820100,google/mediapipe,C++,351
-66088979,changkun/modern-cpp-tutorial,C++,67
+66088979,changkun/modern-cpp-tutorial,C++,66
 75821432,llvm/llvm-project,C++,84
 26255337,cameron314/concurrentqueue,C++,29
 208728772,milvus-io/milvus,C++,47
@@ -19,7 +19,7 @@ id,name,lang,new stars
 76990209,Aircoookie/WLED,C++,72
 267792621,Tencent/TNN,C++,31
 16256144,RobotLocomotion/drake,C++,11
-178613040,Neargye/magic_enum,C++,26
+178613040,Neargye/magic_enum,C++,27
 150774287,danielkrupinski/Osiris,C++,22
 237647258,meshtastic/Meshtastic-device,C++,19
 223904726,wang-xinyu/tensorrtx,C++,62
