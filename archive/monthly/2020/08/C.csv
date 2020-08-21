@@ -1,8 +1,8 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,2036
+111583593,Genymobile/scrcpy,C,2030
 24586308,cfenollosa/os-tutorial,C,266
 14812739,libuv/libuv,C,212
-196353673,taosdata/TDengine,C,1044
+196353673,taosdata/TDengine,C,1047
 102578345,coolsnowwolf/lede,C,520
 80286288,arendst/Tasmota,C,263
 18496166,gentilkiwi/mimikatz,C,231
@@ -11,16 +11,16 @@ id,name,lang,new stars
 78281075,SpacehuhnTech/esp8266_deauther,C,161
 117948953,Atmosphere-NX/Atmosphere,C,202
 190845267,n64decomp/sm64,C,169
-3791835,darktable-org/darktable,C,123
-179354282,acidanthera/OpenCorePkg,C,743
+3791835,darktable-org/darktable,C,125
+179354282,acidanthera/OpenCorePkg,C,741
 35780977,ImageMagick/ImageMagick,C,169
-255670798,sandboxie/sandboxie,C,284
-241659610,OpenIntelWireless/itlwm,C,368
+255670798,sandboxie/sandboxie,C,282
+241659610,OpenIntelWireless/itlwm,C,369
 39042157,spdk/spdk,C,37
 15991457,openssh/openssh-portable,C,46
-213916896,blender/blender,C,164
-154525111,signalwire/freeswitch,C,68
-23780138,riscv/riscv-gnu-toolchain,C,40
-197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,42
-173287874,brektrou/rtl8821CU,C,43
-211756905,MarlinFirmware/Configurations,C,47
+213916896,blender/blender,C,163
+154525111,signalwire/freeswitch,C,69
+23780138,riscv/riscv-gnu-toolchain,C,41
+197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,41
+173287874,brektrou/rtl8821CU,C,41
+211756905,MarlinFirmware/Configurations,C,46
