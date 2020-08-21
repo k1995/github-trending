@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,70
-18666758,pjreddie/darknet,C,14
-6201092,mpv-player/mpv,C,12
-66150122,jarun/nnn,C,31
+2325298,torvalds/linux,C,72
+18666758,pjreddie/darknet,C,16
+6201092,mpv-player/mpv,C,11
+66150122,jarun/nnn,C,29
 147667687,pwn20wndstuff/Undecimus,C,2
 437011,openzfs/zfs,C,5
 65899476,espressif/esp-idf,C,4
@@ -11,13 +11,13 @@ id,name,lang,new stars
 59771425,zephyrproject-rtos/zephyr,C,4
 6687936,ARMmbed/mbedtls,C,4
 34807561,nanopb/nanopb,C,2
-27275442,dtag-dev-sec/tpotce,C,2
+27275442,dtag-dev-sec/tpotce,C,1
 6111297,acl-dev/acl,C,4
 272222624,CTurt/FreeDVDBoot,C,2
 90867899,stm32duino/Arduino_Core_STM32,C,1
-164844546,ptitSeb/box86,C,4
+164844546,ptitSeb/box86,C,3
 88668349,kokke/tiny-regex-c,C,7
-22996097,ofiwg/libfabric,C,3
+22996097,ofiwg/libfabric,C,1
 53432472,Azure/sonic-buildimage,C,0
 151064439,AlessandroAU/ExpressLRS,C,3
 255004123,hello-myj/stm32_oled,C,3

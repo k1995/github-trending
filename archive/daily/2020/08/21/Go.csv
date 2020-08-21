@@ -13,7 +13,7 @@ id,name,lang,new stars
 91851756,docker/docker-ce,Go,15
 21034555,asaskevich/govalidator,Go,6
 117710726,twitchtv/twirp,Go,7
-41288708,sourcegraph/sourcegraph,Go,19
+41288708,sourcegraph/sourcegraph,Go,17
 19799491,tendermint/tendermint,Go,10
 87990209,kubernetes/autoscaler,Go,11
 118828329,knative/serving,Go,5
