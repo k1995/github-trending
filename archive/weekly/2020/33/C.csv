@@ -1,18 +1,18 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,436
-111583593,Genymobile/scrcpy,C,436
-1903522,php/php-src,C,68
-18666758,pjreddie/darknet,C,74
+2325298,torvalds/linux,C,444
+111583593,Genymobile/scrcpy,C,444
+1903522,php/php-src,C,69
+18666758,pjreddie/darknet,C,75
 569041,curl/curl,C,77
 20159867,nothings/stb,C,86
-80286288,arendst/Tasmota,C,63
-5254557,cloudwu/skynet,C,29
-66150122,jarun/nnn,C,221
+80286288,arendst/Tasmota,C,64
+5254557,cloudwu/skynet,C,30
+66150122,jarun/nnn,C,223
 78281075,SpacehuhnTech/esp8266_deauther,C,41
 147667687,pwn20wndstuff/Undecimus,C,27
 3319040,id-Software/DOOM,C,22
 186749,nodejs/http-parser,C,14
-70127218,espressif/arduino-esp32,C,36
+70127218,espressif/arduino-esp32,C,38
 7408108,RT-Thread/rt-thread,C,28
 689344,libretro/RetroArch,C,37
 35780977,ImageMagick/ImageMagick,C,73
@@ -20,7 +20,7 @@ id,name,lang,new stars
 8046269,warmcat/libwebsockets,C,21
 59676171,KevinOConnor/klipper,C,13
 4434428,kokke/tiny-AES-c,C,11
-110436596,rewardone/OSCPRepo,C,142
+110436596,rewardone/OSCPRepo,C,143
 272222624,CTurt/FreeDVDBoot,C,24
-151870364,xiaorouji/openwrt-package,C,29
+151870364,xiaorouji/openwrt-package,C,30
 270021240,rossumur/espflix,C,239
