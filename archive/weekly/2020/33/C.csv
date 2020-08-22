@@ -1,15 +1,15 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,418
+111583593,Genymobile/scrcpy,C,425
 569041,curl/curl,C,71
 20159867,nothings/stb,C,84
 80286288,arendst/Tasmota,C,62
-2810292,pbatard/rufus,C,60
+2810292,pbatard/rufus,C,61
 15337142,micropython/micropython,C,65
 66150122,jarun/nnn,C,216
 28515839,skywind3000/kcp,C,37
 27737393,qmk/qmk_firmware,C,56
 78281075,SpacehuhnTech/esp8266_deauther,C,40
-147667687,pwn20wndstuff/Undecimus,C,24
+147667687,pwn20wndstuff/Undecimus,C,25
 63809205,google/oss-fuzz,C,28
 70127218,espressif/arduino-esp32,C,37
 7408108,RT-Thread/rt-thread,C,26
@@ -23,4 +23,4 @@ id,name,lang,new stars
 272222624,CTurt/FreeDVDBoot,C,23
 151870364,xiaorouji/openwrt-package,C,26
 270021240,rossumur/espflix,C,238
-211756905,MarlinFirmware/Configurations,C,14
+211756905,MarlinFirmware/Configurations,C,15
