@@ -18,9 +18,9 @@ id,name,lang,new stars
 9120526,jackc/pgx,Go,8
 86367047,elastic/go-elasticsearch,Go,7
 88013053,docker/cli,Go,4
-231322484,jesseduffield/horcrux,Go,300
+231322484,jesseduffield/horcrux,Go,312
 76455463,vbauerster/mpb,Go,16
-217622305,aws/aws-controllers-k8s,Go,110
+217622305,aws/aws-controllers-k8s,Go,109
 170803235,magma/magma,Go,1
 274625369,aliscott/infracost,Go,70
 253757897,hashicorp/terraform-provider-kubernetes-alpha,Go,4
