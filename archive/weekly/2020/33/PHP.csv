@@ -4,7 +4,7 @@ id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,62
 458058,symfony/symfony,PHP,50
 1864363,composer/composer,PHP,68
-7548986,laravel/framework,PHP,64
+7548986,laravel/framework,PHP,65
 448045,sebastianbergmann/phpunit,PHP,37
 1548202,matomo-org/matomo,PHP,74
 3431193,yiisoft/yii2,PHP,14
@@ -22,5 +22,5 @@ id,name,lang,new stars
 29126334,EasyCorp/EasyAdminBundle,PHP,16
 6322699,FreshRSS/FreshRSS,PHP,34
 189104054,laravel/ui,PHP,14
-258773185,laravel-frontend-presets/tall,PHP,38
-223535535,Ignitetch/AdvPhishing,PHP,33
+258773185,laravel-frontend-presets/tall,PHP,40
+223535535,Ignitetch/AdvPhishing,PHP,34

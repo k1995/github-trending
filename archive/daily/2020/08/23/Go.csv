@@ -4,7 +4,7 @@ id,name,lang,new stars
 31288958,hashicorp/vault,Go,20
 46806184,helm/charts,Go,21
 50613991,goharbor/harbor,Go,14
-66573241,hyperledger/fabric,Go,244
+66573241,hyperledger/fabric,Go,246
 33258973,influxdata/telegraf,Go,9
 36653430,hashicorp/nomad,Go,9
 100982449,argoproj/argo,Go,15
@@ -18,9 +18,9 @@ id,name,lang,new stars
 9120526,jackc/pgx,Go,11
 86367047,elastic/go-elasticsearch,Go,11
 88013053,docker/cli,Go,5
-231322484,jesseduffield/horcrux,Go,326
+231322484,jesseduffield/horcrux,Go,328
 76455463,vbauerster/mpb,Go,21
-217622305,aws/aws-controllers-k8s,Go,139
+217622305,aws/aws-controllers-k8s,Go,140
 170803235,magma/magma,Go,1
 274625369,aliscott/infracost,Go,79
 253757897,hashicorp/terraform-provider-kubernetes-alpha,Go,5
