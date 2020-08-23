@@ -1,0 +1,26 @@
+id,name,lang,new stars
+17728164,hashicorp/terraform,Go,21
+43723161,helm/helm,Go,22
+31288958,hashicorp/vault,Go,20
+46806184,helm/charts,Go,21
+50613991,goharbor/harbor,Go,14
+66573241,hyperledger/fabric,Go,245
+33258973,influxdata/telegraf,Go,9
+36653430,hashicorp/nomad,Go,9
+100982449,argoproj/argo,Go,15
+109162639,thanos-io/thanos,Go,14
+48109239,cilium/cilium,Go,23
+41288708,sourcegraph/sourcegraph,Go,19
+191655189,facebook/ent,Go,404
+10166531,mitchellh/mapstructure,Go,9
+87990209,kubernetes/autoscaler,Go,53
+67793333,cortexproject/cortex,Go,19
+9120526,jackc/pgx,Go,11
+86367047,elastic/go-elasticsearch,Go,11
+88013053,docker/cli,Go,5
+231322484,jesseduffield/horcrux,Go,325
+76455463,vbauerster/mpb,Go,20
+217622305,aws/aws-controllers-k8s,Go,138
+170803235,magma/magma,Go,1
+274625369,aliscott/infracost,Go,79
+253757897,hashicorp/terraform-provider-kubernetes-alpha,Go,5
