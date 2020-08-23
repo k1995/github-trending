@@ -1,10 +1,10 @@
 id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,129
-65600975,pytorch/pytorch,C++,280
-22067521,ocornut/imgui,C++,856
+65600975,pytorch/pytorch,C++,284
+22067521,ocornut/imgui,C++,862
 39840932,google/googletest,C++,491
 1062572,catchorg/Catch2,C++,211
-74660642,taichi-dev/taichi,C++,125
+74660642,taichi-dev/taichi,C++,128
 60246359,ClickHouse/ClickHouse,C++,112
 33014811,notepad-plus-plus/notepad-plus-plus,C++,113
 81227005,facebookresearch/faiss,C++,91
@@ -14,8 +14,8 @@ id,name,lang,new stars
 75821432,llvm/llvm-project,C++,79
 26255337,cameron314/concurrentqueue,C++,27
 15122806,google/benchmark,C++,26
-208728772,milvus-io/milvus,C++,50
-146459443,vesoft-inc/nebula,C++,153
+208728772,milvus-io/milvus,C++,51
+146459443,vesoft-inc/nebula,C++,155
 146842101,iovisor/bpftrace,C++,49
 262296122,PaddlePaddle/PaddleOCR,C++,304
 76990209,Aircoookie/WLED,C++,89
@@ -23,4 +23,4 @@ id,name,lang,new stars
 65670631,awwbees/BespokeSynth,C++,362
 223904726,wang-xinyu/tensorrtx,C++,63
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,21
-267649918,hoffstadt/DearPyGui,C++,125
+267649918,hoffstadt/DearPyGui,C++,126
