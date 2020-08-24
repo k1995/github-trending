@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,660
+1863329,laravel/laravel,PHP,662
 7548986,laravel/framework,PHP,281
 1631570,nikic/PHP-Parser,PHP,160
-60243197,nextcloud/server,PHP,302
+60243197,nextcloud/server,PHP,304
 12615154,barryvdh/laravel-debugbar,PHP,165
 1305114,roots/sage,PHP,68
-48796179,z-song/laravel-admin,PHP,234
+48796179,z-song/laravel-admin,PHP,236
 2884111,magento/magento2,PHP,142
 79111500,jupeter/clean-code-php,PHP,187
 2699935,squizlabs/PHP_CodeSniffer,PHP,93
@@ -21,6 +21,6 @@ id,name,lang,new stars
 80249302,craftcms/cms,PHP,30
 47508644,pterodactyl/panel,PHP,48
 116010682,Tai7sy/card-system,PHP,93
-166299071,stancl/tenancy,PHP,147
+166299071,stancl/tenancy,PHP,146
 189104054,laravel/ui,PHP,42
 223535535,Ignitetch/AdvPhishing,PHP,75
