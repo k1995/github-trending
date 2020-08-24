@@ -1,17 +1,17 @@
 id,name,lang,new stars
-13233158,obsproject/obs-studio,C,23
-1614410,FFmpeg/FFmpeg,C,28
-20159867,nothings/stb,C,16
-102578345,coolsnowwolf/lede,C,20
-80286288,arendst/Tasmota,C,11
+13233158,obsproject/obs-studio,C,25
+1614410,FFmpeg/FFmpeg,C,30
+20159867,nothings/stb,C,17
+102578345,coolsnowwolf/lede,C,15
+80286288,arendst/Tasmota,C,12
 2810292,pbatard/rufus,C,20
 95133665,s-matyukevich/raspberry-pi-os,C,199
 246335987,ventoy/Ventoy,C,318
-105627846,reactos/reactos,C,7
-78281075,SpacehuhnTech/esp8266_deauther,C,7
-45821540,openwrt/openwrt,C,12
+105627846,reactos/reactos,C,8
+78281075,SpacehuhnTech/esp8266_deauther,C,8
+45821540,openwrt/openwrt,C,13
 90320494,ish-app/ish,C,13
-3319040,id-Software/DOOM,C,8
+3319040,id-Software/DOOM,C,4
 70127218,espressif/arduino-esp32,C,9
 35129809,transmission/transmission,C,10
 190845267,n64decomp/sm64,C,12
@@ -21,6 +21,6 @@ id,name,lang,new stars
 241659610,OpenIntelWireless/itlwm,C,52
 255670798,sandboxie/sandboxie,C,14
 131449222,moonlight-stream/moonlight-qt,C,7
-272292986,samsonmking/epaper.js,C,293
+272292986,samsonmking/epaper.js,C,36
 211756905,MarlinFirmware/Configurations,C,3
 286694955,B3akers/FlyGuys,C,7
