@@ -5,13 +5,13 @@ id,name,lang,new stars
 8681349,huginn/huginn,Ruby,68
 53238813,Homebrew/brew,Ruby,86
 2500088,gitlabhq/gitlabhq,Ruby,14
-2293158,rapid7/metasploit-framework,Ruby,104
+2293158,rapid7/metasploit-framework,Ruby,106
 308770,heartcombo/devise,Ruby,32
 96395,faker-ruby/faker,Ruby,18
 611921,activeadmin/activeadmin,Ruby,6
 15435,Shopify/liquid,Ruby,24
 810796,sferik/rails_admin,Ruby,5
-6529205,varvet/pundit,Ruby,8
+6529205,varvet/pundit,Ruby,10
 108278,chef/chef,Ruby,13
 10865,norman/friendly_id,Ruby,15
 75785147,rails/webpacker,Ruby,10
@@ -19,7 +19,7 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,8
 1734,aasm/aasm,Ruby,9
 839336,simplecov-ruby/simplecov,Ruby,8
-1314319,instructure/canvas-lms,Ruby,25
+1314319,instructure/canvas-lms,Ruby,26
 52316423,luggit/react-native-config,Ruby,13
 950915,urbanadventurer/WhatWeb,Ruby,23
 244452551,alexeygrigorev/data-science-interviews,Ruby,60

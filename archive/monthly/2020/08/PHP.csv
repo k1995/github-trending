@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,658
+1863329,laravel/laravel,PHP,660
 7548986,laravel/framework,PHP,281
-1631570,nikic/PHP-Parser,PHP,159
-60243197,nextcloud/server,PHP,301
-12615154,barryvdh/laravel-debugbar,PHP,164
+1631570,nikic/PHP-Parser,PHP,160
+60243197,nextcloud/server,PHP,302
+12615154,barryvdh/laravel-debugbar,PHP,165
 1305114,roots/sage,PHP,68
-48796179,z-song/laravel-admin,PHP,231
-2884111,magento/magento2,PHP,140
-79111500,jupeter/clean-code-php,PHP,186
+48796179,z-song/laravel-admin,PHP,234
+2884111,magento/magento2,PHP,142
+79111500,jupeter/clean-code-php,PHP,187
 2699935,squizlabs/PHP_CodeSniffer,PHP,93
 2179920,woocommerce/woocommerce,PHP,93
 14716368,invoiceninja/invoiceninja,PHP,57
@@ -15,7 +15,7 @@ id,name,lang,new stars
 30171828,rappasoft/laravel-boilerplate,PHP,346
 95011974,akaunting/akaunting,PHP,110
 97311017,rectorphp/rector,PHP,121
-159606650,hyperf/hyperf,PHP,153
+159606650,hyperf/hyperf,PHP,154
 72453516,wp-graphql/wp-graphql,PHP,68
 38200433,jeroennoten/Laravel-AdminLTE,PHP,72
 80249302,craftcms/cms,PHP,30
@@ -23,4 +23,4 @@ id,name,lang,new stars
 116010682,Tai7sy/card-system,PHP,93
 166299071,stancl/tenancy,PHP,147
 189104054,laravel/ui,PHP,42
-223535535,Ignitetch/AdvPhishing,PHP,74
+223535535,Ignitetch/AdvPhishing,PHP,75
