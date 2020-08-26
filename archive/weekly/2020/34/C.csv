@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,412
+2325298,torvalds/linux,C,419
 1903522,php/php-src,C,68
 1614410,FFmpeg/FFmpeg,C,108
 14812739,libuv/libuv,C,54
 2810292,pbatard/rufus,C,59
 5254557,cloudwu/skynet,C,37
-95133665,s-matyukevich/raspberry-pi-os,C,467
-246335987,ventoy/Ventoy,C,1250
-66150122,jarun/nnn,C,174
+95133665,s-matyukevich/raspberry-pi-os,C,482
+246335987,ventoy/Ventoy,C,1260
+66150122,jarun/nnn,C,164
 27737393,qmk/qmk_firmware,C,70
 90320494,ish-app/ish,C,34
-147667687,pwn20wndstuff/Undecimus,C,18
+147667687,pwn20wndstuff/Undecimus,C,17
 3319040,id-Software/DOOM,C,31
 65899476,espressif/esp-idf,C,34
 689344,libretro/RetroArch,C,22
@@ -18,9 +18,9 @@ id,name,lang,new stars
 60667730,lvgl/lvgl,C,50
 3349840,hak5darren/USB-Rubber-Ducky,C,15
 8180677,libimobiledevice/libimobiledevice,C,24
-123135691,tanersener/mobile-ffmpeg,C,23
+123135691,tanersener/mobile-ffmpeg,C,24
 27359183,guanzhi/GmSSL,C,16
-241659610,OpenIntelWireless/itlwm,C,169
-115765590,OAID/Tengine,C,18
+241659610,OpenIntelWireless/itlwm,C,185
+115765590,OAID/Tengine,C,20
 151870364,xiaorouji/openwrt-package,C,23
-146397768,ithewei/libhv,C,163
+146397768,ithewei/libhv,C,162
