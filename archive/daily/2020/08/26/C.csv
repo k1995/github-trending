@@ -1,11 +1,11 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,92
-10744183,netdata/netdata,C,29
+10744183,netdata/netdata,C,27
 18666758,pjreddie/darknet,C,10
 5101141,stedolan/jq,C,6
 34921116,iovisor/bcc,C,13
 95133665,s-matyukevich/raspberry-pi-os,C,165
-246335987,ventoy/Ventoy,C,384
+246335987,ventoy/Ventoy,C,376
 7710647,jedisct1/libsodium,C,4
 32873313,systemd/systemd,C,8
 1856976,libevent/libevent,C,9
@@ -19,7 +19,7 @@ id,name,lang,new stars
 59676171,KevinOConnor/klipper,C,6
 3276860,ThrowTheSwitch/Unity,C,3
 63369078,yshui/picom,C,5
-220449772,open-sdr/openwifi,C,239
+220449772,open-sdr/openwifi,C,268
 2276287,riscv/riscv-isa-sim,C,3
 50272879,pjsip/pjproject,C,3
 237499139,dfinity/examples,C,2
