@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,639
+1863329,laravel/laravel,PHP,641
 7548986,laravel/framework,PHP,277
 1631570,nikic/PHP-Parser,PHP,165
 60243197,nextcloud/server,PHP,295
-12615154,barryvdh/laravel-debugbar,PHP,165
+12615154,barryvdh/laravel-debugbar,PHP,166
 1305114,roots/sage,PHP,71
-14732311,octobercms/october,PHP,110
+14732311,octobercms/october,PHP,111
 48796179,z-song/laravel-admin,PHP,242
-2884111,magento/magento2,PHP,144
+2884111,magento/magento2,PHP,145
 79111500,jupeter/clean-code-php,PHP,174
 2699935,squizlabs/PHP_CodeSniffer,PHP,98
 33904351,laravel/lumen,PHP,52
 364315,predis/predis,PHP,80
-2179920,woocommerce/woocommerce,PHP,90
+2179920,woocommerce/woocommerce,PHP,92
 14716368,invoiceninja/invoiceninja,PHP,56
 41589337,BookStackApp/BookStack,PHP,214
 95011974,akaunting/akaunting,PHP,112
@@ -20,7 +20,7 @@ id,name,lang,new stars
 80249302,craftcms/cms,PHP,29
 6495081,wikimedia/mediawiki,PHP,60
 47508644,pterodactyl/panel,PHP,51
-100339187,jsdecena/laracom,PHP,38
+100339187,jsdecena/laracom,PHP,39
 146414504,jianyan74/rageframe2,PHP,90
 189104054,laravel/ui,PHP,43
 223535535,Ignitetch/AdvPhishing,PHP,74
