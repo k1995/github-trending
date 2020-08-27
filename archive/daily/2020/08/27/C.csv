@@ -5,8 +5,8 @@ id,name,lang,new stars
 5101141,stedolan/jq,C,5
 34921116,iovisor/bcc,C,11
 95133665,s-matyukevich/raspberry-pi-os,C,58
-246335987,ventoy/Ventoy,C,172
-7710647,jedisct1/libsodium,C,1
+246335987,ventoy/Ventoy,C,133
+7710647,jedisct1/libsodium,C,3
 32873313,systemd/systemd,C,6
 1856976,libevent/libevent,C,6
 437011,openzfs/zfs,C,5
@@ -18,8 +18,8 @@ id,name,lang,new stars
 23007417,colmap/colmap,C,5
 59676171,KevinOConnor/klipper,C,4
 3276860,ThrowTheSwitch/Unity,C,4
-63369078,yshui/picom,C,3
-220449772,open-sdr/openwifi,C,161
+63369078,yshui/picom,C,4
+220449772,open-sdr/openwifi,C,112
 2276287,riscv/riscv-isa-sim,C,2
 50272879,pjsip/pjproject,C,1
 237499139,dfinity/examples,C,0
