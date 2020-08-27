@@ -1,15 +1,15 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,20
+17620347,dotnet/aspnetcore,C#,21
 38380854,0xd4d/dnSpy,C#,15
-70104825,dotnet-architecture/eShopOnContainers,C#,15
+70104825,dotnet-architecture/eShopOnContainers,C#,14
 29078997,dotnet/roslyn,C#,6
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,11
-102904613,Unity-Technologies/ml-agents,C#,12
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,10
+102904613,Unity-Technologies/ml-agents,C#,15
 143460965,GoogleCloudPlatform/microservices-demo,C#,8
 505380,AutoMapper/AutoMapper,C#,5
 85953,gitextensions/gitextensions,C#,4
 69673033,ardalis/CleanArchitecture,C#,9
-460848,mRemoteNG/mRemoteNG,C#,10
+460848,mRemoteNG/mRemoteNG,C#,9
 41822320,RicoSuter/NSwag,C#,2
 19216825,xamarin/xamarin-forms-samples,C#,2
 10601208,umbraco/Umbraco-CMS,C#,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 99942769,LibreHardwareMonitor/LibreHardwareMonitor,C#,7
 265221540,SteveSandersonMS/CarChecker,C#,5
 209180058,dotnet/try-convert,C#,5
-252826419,Unity-Technologies/Graphics,C#,2
+252826419,Unity-Technologies/Graphics,C#,1
 185806136,open-rpa/openrpa,C#,6
 111510915,dotnet/dotnet-api-docs,C#,3
 289242167,EmotionEngineer/EmotionPlayer,C#,19

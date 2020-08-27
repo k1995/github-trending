@@ -1,7 +1,7 @@
 id,name,lang,new stars
-23096959,golang/go,Go,58
+23096959,golang/go,Go,59
 7691631,moby/moby,Go,13
-20904437,gin-gonic/gin,Go,41
+20904437,gin-gonic/gin,Go,40
 42408804,containous/traefik,Go,20
 74175805,istio/istio,Go,17
 17728164,hashicorp/terraform,Go,23
@@ -10,7 +10,7 @@ id,name,lang,new stars
 46806184,helm/charts,Go,13
 131371773,hoanhan101/ultimate-go,Go,153
 56342508,jaegertracing/jaeger,Go,9
-8966356,hashicorp/packer,Go,236
+8966356,hashicorp/packer,Go,244
 5179099,go-redis/redis,Go,13
 33258973,influxdata/telegraf,Go,6
 21405028,ardanlabs/gotraining,Go,8
