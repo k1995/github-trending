@@ -1,26 +1,26 @@
 id,name,lang,new stars
-35866694,RocketChat/Rocket.Chat,JavaScript,284
-52773157,typeorm/typeorm,TypeScript,139
-102973646,fastai/fastai,Jupyter Notebook,526
-39840932,google/googletest,C++,284
-267775629,geekxh/hello-algorithm,Java,2308
-127769231,DIYgod/RSSHub,JavaScript,469
-243838973,fastai/fastbook,Jupyter Notebook,1319
-40276274,ziglang/zig,Zig,226
-170161374,microsoft/computervision-recipes,Jupyter Notebook,1827
-170355508,livewire/livewire,PHP,116
-288108533,karpathy/minGPT,Jupyter Notebook,799
-191655189,facebook/ent,Go,1159
+35866694,RocketChat/Rocket.Chat,JavaScript,283
+52773157,typeorm/typeorm,TypeScript,142
+102973646,fastai/fastai,Jupyter Notebook,522
+39840932,google/googletest,C++,272
+267775629,geekxh/hello-algorithm,Java,2290
+127769231,DIYgod/RSSHub,JavaScript,403
+243838973,fastai/fastbook,Jupyter Notebook,1290
+40276274,ziglang/zig,Zig,227
+170161374,microsoft/computervision-recipes,Jupyter Notebook,1810
+170355508,livewire/livewire,PHP,114
+288108533,karpathy/minGPT,Jupyter Notebook,780
+191655189,facebook/ent,Go,1137
 223881576,macrozheng/mall-swarm,Java,267
 5909706,yhirose/cpp-httplib,C++,253
-234798675,bevyengine/bevy,Rust,808
-235901813,PostHog/posthog,Python,133
-280363952,mikecao/umami,JavaScript,694
-211288349,android/compose-samples,Kotlin,587
-248032165,spring-projects-experimental/spring-authorization-server,Java,221
-217622305,aws/aws-controllers-k8s,Go,315
-278011746,nsfw-filter/nsfw-filter,TypeScript,477
-285864199,tal-tech/go-zero,Go,237
+234798675,bevyengine/bevy,Rust,806
+235901813,PostHog/posthog,Python,125
+280363952,mikecao/umami,JavaScript,682
+211288349,android/compose-samples,Kotlin,605
+248032165,spring-projects-experimental/spring-authorization-server,Java,220
+217622305,aws/aws-controllers-k8s,Go,304
+278011746,nsfw-filter/nsfw-filter,TypeScript,478
+285864199,tal-tech/go-zero,Go,238
 282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,227
 282206878,kkbjs/element3,Vue,254
-253571453,aws-amplify/amplify-flutter,Dart,150
+253571453,aws-amplify/amplify-flutter,Dart,147
