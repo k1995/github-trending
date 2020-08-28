@@ -1,26 +1,26 @@
 id,name,lang,new stars
-22067521,ocornut/imgui,C++,452
-102973646,fastai/fastai,Jupyter Notebook,519
-39840932,google/googletest,C++,352
-267775629,geekxh/hello-algorithm,Java,2693
-127769231,DIYgod/RSSHub,JavaScript,752
-131371773,hoanhan101/ultimate-go,Go,892
-243838973,fastai/fastbook,Jupyter Notebook,1327
-164574693,qishibo/AnotherRedisDesktopManager,JavaScript,231
+35866694,RocketChat/Rocket.Chat,JavaScript,281
+52773157,typeorm/typeorm,TypeScript,140
+102973646,fastai/fastai,Jupyter Notebook,518
+39840932,google/googletest,C++,325
+267775629,geekxh/hello-algorithm,Java,2503
+127769231,DIYgod/RSSHub,JavaScript,710
+243838973,fastai/fastbook,Jupyter Notebook,1326
 40276274,ziglang/zig,Zig,224
-170161374,microsoft/computervision-recipes,Jupyter Notebook,1985
-288108533,karpathy/minGPT,Jupyter Notebook,931
-191655189,facebook/ent,Go,1233
-223881576,macrozheng/mall-swarm,Java,307
+170161374,microsoft/computervision-recipes,Jupyter Notebook,1905
+170355508,livewire/livewire,PHP,102
+288108533,karpathy/minGPT,Jupyter Notebook,886
+191655189,facebook/ent,Go,1216
+223881576,macrozheng/mall-swarm,Java,260
 5909706,yhirose/cpp-httplib,C++,253
-234798675,bevyengine/bevy,Rust,818
-280363952,mikecao/umami,JavaScript,856
-91948540,ranaroussi/yfinance,Python,338
-211288349,android/compose-samples,Kotlin,455
-248032165,spring-projects-experimental/spring-authorization-server,Java,221
-217622305,aws/aws-controllers-k8s,Go,380
-278011746,nsfw-filter/nsfw-filter,JavaScript,469
-244029618,data-science-on-aws/workshop,Jupyter Notebook,136
+234798675,bevyengine/bevy,Rust,809
+235901813,PostHog/posthog,Python,171
+280363952,mikecao/umami,JavaScript,758
+211288349,android/compose-samples,Kotlin,486
+248032165,spring-projects-experimental/spring-authorization-server,Java,224
+217622305,aws/aws-controllers-k8s,Go,365
+278011746,nsfw-filter/nsfw-filter,TypeScript,469
 285864199,tal-tech/go-zero,Go,233
-282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,225
-282206878,kkbjs/element3,Vue,250
+282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,226
+282206878,kkbjs/element3,Vue,254
+253571453,aws-amplify/amplify-flutter,Dart,163
