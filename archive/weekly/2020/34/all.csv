@@ -1,26 +1,26 @@
 id,name,lang,new stars
-22067521,ocornut/imgui,C++,497
+22067521,ocornut/imgui,C++,485
 102973646,fastai/fastai,Jupyter Notebook,518
-39840932,google/googletest,C++,384
-267775629,geekxh/hello-algorithm,Java,2984
+39840932,google/googletest,C++,378
+267775629,geekxh/hello-algorithm,Java,2974
 127769231,DIYgod/RSSHub,JavaScript,751
-131371773,hoanhan101/ultimate-go,Go,763
-243838973,fastai/fastbook,Jupyter Notebook,1333
+131371773,hoanhan101/ultimate-go,Go,785
+243838973,fastai/fastbook,Jupyter Notebook,1329
 164574693,qishibo/AnotherRedisDesktopManager,JavaScript,240
-40276274,ziglang/zig,Zig,221
-170161374,microsoft/computervision-recipes,Jupyter Notebook,1991
-288108533,karpathy/minGPT,Jupyter Notebook,1035
-191655189,facebook/ent,Go,1273
+40276274,ziglang/zig,Zig,223
+170161374,microsoft/computervision-recipes,Jupyter Notebook,1993
+288108533,karpathy/minGPT,Jupyter Notebook,1011
+191655189,facebook/ent,Go,1272
 223881576,macrozheng/mall-swarm,Java,295
-5909706,yhirose/cpp-httplib,C++,185
-234798675,bevyengine/bevy,Rust,831
-91948540,ranaroussi/yfinance,Python,339
-280363952,mikecao/umami,JavaScript,942
-211288349,android/compose-samples,Kotlin,395
+5909706,yhirose/cpp-httplib,C++,251
+234798675,bevyengine/bevy,Rust,828
+91948540,ranaroussi/yfinance,Python,337
+280363952,mikecao/umami,JavaScript,928
+211288349,android/compose-samples,Kotlin,412
 248032165,spring-projects-experimental/spring-authorization-server,Java,215
-217622305,aws/aws-controllers-k8s,Go,395
-278011746,nsfw-filter/nsfw-filter,JavaScript,462
-244029618,data-science-on-aws/workshop,Jupyter Notebook,141
+217622305,aws/aws-controllers-k8s,Go,387
+278011746,nsfw-filter/nsfw-filter,JavaScript,465
+244029618,data-science-on-aws/workshop,Jupyter Notebook,136
 285864199,tal-tech/go-zero,Go,226
-282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,227
-282206878,kkbjs/element3,Vue,223
+282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,226
+282206878,kkbjs/element3,Vue,227
