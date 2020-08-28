@@ -1,12 +1,12 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,134
-51117837,tensorflow/models,Python,31
-3638964,ansible/ansible,Python,20
-843222,scikit-learn/scikit-learn,Python,13
-32689863,3b1b/manim,Python,46
+83222441,donnemartin/system-design-primer,Python,136
+51117837,tensorflow/models,Python,30
+3638964,ansible/ansible,Python,19
+843222,scikit-learn/scikit-learn,Python,14
+32689863,3b1b/manim,Python,45
 33884891,apache/airflow,Python,39
-125266328,psf/black,Python,86
-21467110,explosion/spaCy,Python,10
+125266328,psf/black,Python,95
+21467110,explosion/spaCy,Python,9
 13258039,aio-libs/aiohttp,Python,8
 15570122,chriskiehl/Gooey,Python,239
 1864233,frappe/erpnext,Python,10
@@ -16,11 +16,11 @@ id,name,lang,new stars
 114054873,espnet/espnet,Python,10
 174698235,thunil/TecoGAN,Python,119
 150677832,hhyo/Archery,Python,20
-282443202,google/latexify_py,Python,59
+282443202,google/latexify_py,Python,57
 256262711,huangrt01/CS-Notes,Python,123
 239201565,serengil/deepface,Python,18
 288559703,vinayak-mehta/present,Python,116
-213239440,KevinLage/YouTube-Livestream-Botter,Python,64
+213239440,KevinLage/YouTube-Livestream-Botter,Python,63
 289947862,maudzung/Super-Fast-Accurate-3D-Object-Detection,Python,47
+284940707,JunManYuanLong/TcloudServer,Python,80
 273358581,lyft/l5kit,Python,27
-284940707,JunManYuanLong/TcloudServer,Python,81
