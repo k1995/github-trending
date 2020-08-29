@@ -1,16 +1,16 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,510
-507775,elastic/elasticsearch,Java,161
-2700474,alibaba/fastjson,Java,70
-7613257,SeleniumHQ/selenium,Java,82
+132464395,Snailclimb/JavaGuide,Java,512
+507775,elastic/elasticsearch,Java,155
+2700474,alibaba/fastjson,Java,71
+7613257,SeleniumHQ/selenium,Java,83
 5373551,libgdx/libgdx,Java,52
-20818126,google/ExoPlayer,Java,52
+20818126,google/ExoPlayer,Java,53
 7587038,alibaba/canal,Java,118
 47023603,xuxueli/xxl-job,Java,100
-267775629,geekxh/hello-algorithm,Java,2060
-20587599,apache/flink,Java,72
+267775629,geekxh/hello-algorithm,Java,2062
+20587599,apache/flink,Java,70
 137451403,alibaba/nacos,Java,112
-13404515,brettwooldridge/HikariCP,Java,65
+13404515,brettwooldridge/HikariCP,Java,66
 128018428,alibaba/Sentinel,Java,109
 65987043,baomidou/mybatis-plus,Java,57
 139914932,quarkusio/quarkus,Java,86
@@ -20,7 +20,7 @@ id,name,lang,new stars
 184611677,YunaiV/onemall,Java,110
 206905065,macrozheng/springcloud-learning,Java,64
 206877845,android/views-widgets-samples,Java,71
-6789509,shopizer-ecommerce/shopizer,Java,19
+6789509,shopizer-ecommerce/shopizer,Java,20
 146941185,firebase/firebase-android-sdk,Java,25
 248032165,spring-projects-experimental/spring-authorization-server,Java,207
 188047085,guardicore/labs_campaigns,Java,62
