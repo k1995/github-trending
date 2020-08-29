@@ -5,7 +5,7 @@ id,name,lang,new stars
 33015583,keras-team/keras,Python,18
 39464018,apache/incubator-superset,Python,22
 70905478,floodsung/Deep-Learning-Papers-Reading-Roadmap,Python,20
-125266328,psf/black,Python,198
+125266328,psf/black,Python,95
 80990461,eriklindernoren/ML-From-Scratch,Python,18
 71932349,ray-project/ray,Python,19
 88612945,junyanz/pytorch-CycleGAN-and-pix2pix,Python,20
@@ -21,6 +21,6 @@ id,name,lang,new stars
 186043715,MTrajK/coding-problems,Python,81
 278333791,ml-jku/hopfield-layers,Python,38
 285662593,fireeye/speakeasy,Python,76
+288923752,google/objax,Python,94
 250262642,SforAiDl/genrl,Python,50
-288923752,google/objax,Python,160
 248908994,Ncohen10/StockAlgorithm,Python,26

@@ -1,6 +1,6 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,74
-27442967,fastlane/fastlane,Ruby,94
+8514,rails/rails,Ruby,73
+27442967,fastlane/fastlane,Ruby,51
 8681349,huginn/huginn,Ruby,62
 21600440,bayandin/awesome-awesomeness,Ruby,56
 13840241,freeCodeCamp/devdocs,Ruby,60
@@ -11,16 +11,16 @@ id,name,lang,new stars
 88740103,postalhq/postal,Ruby,24
 11423758,mame/quine-relay,Ruby,72
 361310,teamcapybara/capybara,Ruby,8
-96395,faker-ruby/faker,Ruby,15
-1725199,github/linguist,Ruby,27
+96395,faker-ruby/faker,Ruby,14
+1725199,github/linguist,Ruby,26
 108278,chef/chef,Ruby,7
 26018608,github-changelog-generator/github-changelog-generator,Ruby,18
 75785147,rails/webpacker,Ruby,10
 30337170,rmosolgo/graphql-ruby,Ruby,16
-1314319,instructure/canvas-lms,Ruby,19
+1314319,instructure/canvas-lms,Ruby,17
 229006,mileszs/wicked_pdf,Ruby,5
 1172597,thoughtbot/shoulda-matchers,Ruby,9
 14238949,elastic/elasticsearch-rails,Ruby,2
-103766152,github/explore,Ruby,15
-9831101,elastic/elasticsearch-ruby,Ruby,1
+103766152,github/explore,Ruby,13
+9831101,elastic/elasticsearch-ruby,Ruby,0
 34840276,elastic/ansible-elasticsearch,Ruby,3

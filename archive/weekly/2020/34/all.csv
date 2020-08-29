@@ -1,26 +1,26 @@
 id,name,lang,new stars
-35866694,RocketChat/Rocket.Chat,JavaScript,292
-102973646,fastai/fastai,Jupyter Notebook,532
-39840932,google/googletest,C++,270
-60273704,mozilla/DeepSpeech,C++,206
-267775629,geekxh/hello-algorithm,Java,2314
-131371773,hoanhan101/ultimate-go,Go,1154
+35866694,RocketChat/Rocket.Chat,JavaScript,288
+102973646,fastai/fastai,Jupyter Notebook,513
+39840932,google/googletest,C++,206
+60273704,mozilla/DeepSpeech,C++,205
+267775629,geekxh/hello-algorithm,Java,2060
+131371773,hoanhan101/ultimate-go,Go,1174
 7053637,python/mypy,Python,51
-243838973,fastai/fastbook,Jupyter Notebook,1259
-40276274,ziglang/zig,Zig,234
-170161374,microsoft/computervision-recipes,Jupyter Notebook,1816
-191655189,facebook/ent,Go,1140
-223881576,macrozheng/mall-swarm,Java,279
-5909706,yhirose/cpp-httplib,C++,271
-234798675,bevyengine/bevy,Rust,824
-211288349,android/compose-samples,Kotlin,704
-226207937,airbnb/ts-migrate,TypeScript,845
-230383021,dtolnay/cxx,Rust,296
-218088093,nalexn/clean-architecture-swiftui,Swift,92
-248032165,spring-projects-experimental/spring-authorization-server,Java,228
-217622305,aws/aws-controllers-k8s,Go,297
-278011746,nsfw-filter/nsfw-filter,TypeScript,489
-285864199,tal-tech/go-zero,Go,240
-282206878,kkbjs/element3,Vue,278
-282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,231
-188047085,guardicore/labs_campaigns,Java,72
+243838973,fastai/fastbook,Jupyter Notebook,1062
+40276274,ziglang/zig,Zig,222
+170161374,microsoft/computervision-recipes,Jupyter Notebook,1590
+191655189,facebook/ent,Go,1044
+223881576,macrozheng/mall-swarm,Java,257
+5909706,yhirose/cpp-httplib,C++,268
+234798675,bevyengine/bevy,Rust,804
+211288349,android/compose-samples,Kotlin,724
+226207937,airbnb/ts-migrate,TypeScript,707
+230383021,dtolnay/cxx,Rust,278
+218088093,nalexn/clean-architecture-swiftui,Swift,91
+248032165,spring-projects-experimental/spring-authorization-server,Java,207
+217622305,aws/aws-controllers-k8s,Go,272
+278011746,nsfw-filter/nsfw-filter,TypeScript,490
+285864199,tal-tech/go-zero,Go,233
+282206878,kkbjs/element3,Vue,261
+282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,153
+188047085,guardicore/labs_campaigns,Java,62
