@@ -1,11 +1,11 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,309
-65600975,pytorch/pytorch,C++,207
-184456251,microsoft/PowerToys,C++,1486
-15634981,godotengine/godot,C++,286
+100060912,microsoft/terminal,C++,317
+65600975,pytorch/pytorch,C++,211
+184456251,microsoft/PowerToys,C++,1500
+15634981,godotengine/godot,C++,288
 27729880,grpc/grpc,C++,83
-22067521,ocornut/imgui,C++,403
-39840932,google/googletest,C++,268
+22067521,ocornut/imgui,C++,405
+39840932,google/googletest,C++,270
 24420506,v8/v8,C++,63
 60273704,mozilla/DeepSpeech,C++,206
 74660642,taichi-dev/taichi,C++,176
@@ -13,14 +13,14 @@ id,name,lang,new stars
 64991887,microsoft/LightGBM,C++,46
 68312233,microsoft/vcpkg,C++,92
 2200856,MarlinFirmware/Marlin,C++,46
-186309296,lettier/3d-game-shaders-for-beginners,C++,73
+186309296,lettier/3d-game-shaders-for-beginners,C++,74
 1204412,TrinityCore/TrinityCore,C++,8
 22338518,Squirrel/Squirrel.Windows,C++,24
 130068982,taskflow/taskflow,C++,66
-5909706,yhirose/cpp-httplib,C++,269
-156939672,microsoft/onnxruntime,C++,41
+5909706,yhirose/cpp-httplib,C++,271
+156939672,microsoft/onnxruntime,C++,42
 76990209,Aircoookie/WLED,C++,60
 9571473,gflags/gflags,C++,10
 206138137,alphacep/vosk-api,C++,39
-267649918,hoffstadt/DearPyGui,C++,187
+267649918,hoffstadt/DearPyGui,C++,190
 287706896,Tencent/puerts,C++,204
