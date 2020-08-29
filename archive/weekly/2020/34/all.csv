@@ -1,26 +1,26 @@
 id,name,lang,new stars
 35866694,RocketChat/Rocket.Chat,JavaScript,283
-52773157,typeorm/typeorm,TypeScript,142
-102973646,fastai/fastai,Jupyter Notebook,522
-39840932,google/googletest,C++,272
-267775629,geekxh/hello-algorithm,Java,2290
-127769231,DIYgod/RSSHub,JavaScript,403
-243838973,fastai/fastbook,Jupyter Notebook,1290
-40276274,ziglang/zig,Zig,227
-170161374,microsoft/computervision-recipes,Jupyter Notebook,1810
-170355508,livewire/livewire,PHP,114
-288108533,karpathy/minGPT,Jupyter Notebook,780
-191655189,facebook/ent,Go,1137
-223881576,macrozheng/mall-swarm,Java,267
-5909706,yhirose/cpp-httplib,C++,253
+52773157,typeorm/typeorm,TypeScript,143
+102973646,fastai/fastai,Jupyter Notebook,523
+39840932,google/googletest,C++,265
+267775629,geekxh/hello-algorithm,Java,2283
+127769231,DIYgod/RSSHub,JavaScript,382
+243838973,fastai/fastbook,Jupyter Notebook,1253
+40276274,ziglang/zig,Zig,229
+170161374,microsoft/computervision-recipes,Jupyter Notebook,1803
+170355508,livewire/livewire,PHP,117
+288108533,karpathy/minGPT,Jupyter Notebook,776
+191655189,facebook/ent,Go,1132
+223881576,macrozheng/mall-swarm,Java,269
+5909706,yhirose/cpp-httplib,C++,264
 234798675,bevyengine/bevy,Rust,806
-235901813,PostHog/posthog,Python,125
-280363952,mikecao/umami,JavaScript,682
-211288349,android/compose-samples,Kotlin,605
-248032165,spring-projects-experimental/spring-authorization-server,Java,220
-217622305,aws/aws-controllers-k8s,Go,304
-278011746,nsfw-filter/nsfw-filter,TypeScript,478
+235901813,PostHog/posthog,Python,110
+280363952,mikecao/umami,JavaScript,672
+211288349,android/compose-samples,Kotlin,617
+248032165,spring-projects-experimental/spring-authorization-server,Java,219
+217622305,aws/aws-controllers-k8s,Go,296
+278011746,nsfw-filter/nsfw-filter,TypeScript,480
 285864199,tal-tech/go-zero,Go,238
 282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,227
-282206878,kkbjs/element3,Vue,254
-253571453,aws-amplify/amplify-flutter,Dart,147
+282206878,kkbjs/element3,Vue,252
+253571453,aws-amplify/amplify-flutter,Dart,144

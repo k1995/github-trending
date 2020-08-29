@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,41
+42408804,containous/traefik,Go,74
+74175805,istio/istio,Go,14
+17728164,hashicorp/terraform,Go,18
+37448451,mattermost/mattermost-server,Go,5
+131371773,hoanhan101/ultimate-go,Go,291
+62091339,kubernetes/kops,Go,10
+56342508,jaegertracing/jaeger,Go,14
+8966356,hashicorp/packer,Go,62
+5179099,go-redis/redis,Go,5
+72891330,kubernetes/ingress-nginx,Go,7
+4059138,dgrijalva/jwt-go,Go,6
+21405028,ardanlabs/gotraining,Go,10
+116739828,DNSCrypt/dnscrypt-proxy,Go,7
+109162639,thanos-io/thanos,Go,8
+93444615,terraform-providers/terraform-provider-aws,Go,2
+17451182,go-yaml/yaml,Go,2
+9646845,go-pg/pg,Go,2
+103995895,hybridgroup/gocv,Go,5
+125275487,kubernetes-sigs/kubebuilder,Go,4
+74499101,roboll/helmfile,Go,1
+92132038,kubernetes-sigs/metrics-server,Go,2
+71487396,terraform-linters/tflint,Go,8
+113404957,kata-containers/kata-containers,Go,2
+185861173,open-telemetry/opentelemetry-collector,Go,4
