@@ -1,16 +1,16 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,52
 1181927,bitcoin/bitcoin,C++,12
-65600975,pytorch/pytorch,C++,29
+65600975,pytorch/pytorch,C++,28
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,15
 6934395,facebook/rocksdb,C++,6
 24420506,v8/v8,C++,14
-65214191,envoyproxy/envoy,C++,12
+65214191,envoyproxy/envoy,C++,11
 26038648,gabime/spdlog,C++,7
 38581626,pybind/pybind11,C++,7
 186309296,lettier/3d-game-shaders-for-beginners,C++,8
 75821432,llvm/llvm-project,C++,13
-16309670,gperftools/gperftools,C++,7
+16309670,gperftools/gperftools,C++,8
 7512484,ArduPilot/ardupilot,C++,0
 26255337,cameron314/concurrentqueue,C++,5
 130068982,taskflow/taskflow,C++,15
@@ -21,6 +21,6 @@ id,name,lang,new stars
 2567844,mavlink/qgroundcontrol,C++,1
 267649918,hoffstadt/DearPyGui,C++,78
 287203686,Tencent/GameAISDK,C++,27
-290573779,iPower/KasperskyHook,C++,31
+290573779,iPower/KasperskyHook,C++,33
 288215814,tangent-opensource/hdcycles,C++,6
 289491131,B3akers/FlyGuys_External,C++,1
