@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,483
-10744183,netdata/netdata,C,134
+2325298,torvalds/linux,C,487
+10744183,netdata/netdata,C,135
 5101141,stedolan/jq,C,53
 14812739,libuv/libuv,C,58
-196353673,taosdata/TDengine,C,262
+196353673,taosdata/TDengine,C,263
 34921116,iovisor/bcc,C,49
-246335987,ventoy/Ventoy,C,1375
+246335987,ventoy/Ventoy,C,1382
 5254557,cloudwu/skynet,C,38
 95133665,s-matyukevich/raspberry-pi-os,C,538
-437011,openzfs/zfs,C,26
-70127218,espressif/arduino-esp32,C,44
+437011,openzfs/zfs,C,27
+70127218,espressif/arduino-esp32,C,45
 65899476,espressif/esp-idf,C,41
 54280778,DaveGamble/cJSON,C,41
 5870069,edenhill/librdkafka,C,24
@@ -20,7 +20,7 @@ id,name,lang,new stars
 241659610,OpenIntelWireless/itlwm,C,209
 115765590,OAID/Tengine,C,33
 151870364,xiaorouji/openwrt-package,C,23
-146397768,ithewei/libhv,C,83
-259858821,peng-zhihui/Project-Quantum,C,109
-272292986,samsonmking/epaper.js,C,205
+146397768,ithewei/libhv,C,84
+259858821,peng-zhihui/Project-Quantum,C,111
+272292986,samsonmking/epaper.js,C,210
 106346622,Cr4sh/s6_pcie_microblaze,C,18
