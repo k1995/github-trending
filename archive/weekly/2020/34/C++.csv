@@ -1,11 +1,11 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,305
-65600975,pytorch/pytorch,C++,180
-184456251,microsoft/PowerToys,C++,1381
-15634981,godotengine/godot,C++,279
+100060912,microsoft/terminal,C++,307
+65600975,pytorch/pytorch,C++,182
+184456251,microsoft/PowerToys,C++,1396
+15634981,godotengine/godot,C++,281
 27729880,grpc/grpc,C++,82
-22067521,ocornut/imgui,C++,275
-39840932,google/googletest,C++,175
+22067521,ocornut/imgui,C++,283
+39840932,google/googletest,C++,176
 24420506,v8/v8,C++,65
 60273704,mozilla/DeepSpeech,C++,203
 74660642,taichi-dev/taichi,C++,136
@@ -16,11 +16,11 @@ id,name,lang,new stars
 186309296,lettier/3d-game-shaders-for-beginners,C++,70
 1204412,TrinityCore/TrinityCore,C++,8
 22338518,Squirrel/Squirrel.Windows,C++,26
-130068982,taskflow/taskflow,C++,67
+130068982,taskflow/taskflow,C++,68
 5909706,yhirose/cpp-httplib,C++,267
 156939672,microsoft/onnxruntime,C++,40
 76990209,Aircoookie/WLED,C++,58
 9571473,gflags/gflags,C++,9
-267649918,hoffstadt/DearPyGui,C++,406
-206138137,alphacep/vosk-api,C++,32
-287706896,Tencent/puerts,C++,195
+267649918,hoffstadt/DearPyGui,C++,460
+206138137,alphacep/vosk-api,C++,33
+287706896,Tencent/puerts,C++,200
