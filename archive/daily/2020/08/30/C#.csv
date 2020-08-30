@@ -3,14 +3,14 @@ id,name,lang,new stars
 29078997,dotnet/roslyn,C#,7
 102904613,Unity-Technologies/ml-agents,C#,3
 143460965,GoogleCloudPlatform/microservices-demo,C#,12
-46652227,IdentityServer/IdentityServer4,C#,6
+46652227,IdentityServer/IdentityServer4,C#,7
 75990888,dotnet/csharplang,C#,6
 41589439,MathewSachin/Captura,C#,14
 17941520,neuecc/UniRx,C#,1
+262395224,dotnet/maui,C#,12
 26884725,OrchardCMS/OrchardCore,C#,4
-262395224,dotnet/maui,C#,13
 10601208,umbraco/Umbraco-CMS,C#,1
-189676777,JasonStein/Notepads,C#,15
+189676777,JasonStein/Notepads,C#,16
 942613,elastic/elasticsearch-net,C#,2
 213460285,jasontaylordev/CleanArchitecture,C#,8
 136570231,stride3d/stride,C#,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 72554578,confluentinc/confluent-kafka-dotnet,C#,3
 161247988,SciSharp/TensorFlow.NET,C#,2
 184286875,actions/runner,C#,5
-63984307,dotnet/sdk,C#,1
+63984307,dotnet/sdk,C#,0
 272179843,CCob/SharpBlock,C#,2
 289242167,EmotionEngineer/EmotionPlayer,C#,0
 155624003,dotnet/AspNetDocs,C#,1
