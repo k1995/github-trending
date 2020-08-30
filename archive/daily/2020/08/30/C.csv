@@ -1,6 +1,6 @@
 id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,73
-13233158,obsproject/obs-studio,C,24
+13233158,obsproject/obs-studio,C,25
 24586308,cfenollosa/os-tutorial,C,16
 569041,curl/curl,C,19
 102578345,coolsnowwolf/lede,C,22
@@ -12,7 +12,7 @@ id,name,lang,new stars
 3319040,id-Software/DOOM,C,19
 18106269,lz4/lz4,C,5
 35129809,transmission/transmission,C,3
-179354282,acidanthera/OpenCorePkg,C,16
+179354282,acidanthera/OpenCorePkg,C,15
 59771425,zephyrproject-rtos/zephyr,C,7
 3681392,mossmann/hackrf,C,4
 76649430,martin-ger/esp_wifi_repeater,C,20
@@ -23,4 +23,4 @@ id,name,lang,new stars
 151870364,xiaorouji/openwrt-package,C,1
 213916896,blender/blender,C,6
 41394739,libratbag/libratbag,C,2
-288082909,htop-dev/htop,C,135
+288082909,htop-dev/htop,C,140
