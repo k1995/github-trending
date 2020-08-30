@@ -1,26 +1,26 @@
 id,name,lang,new stars
+13491895,EbookFoundation/free-programming-books,,972
 35866694,RocketChat/Rocket.Chat,JavaScript,292
-102973646,fastai/fastai,Jupyter Notebook,507
-39840932,google/googletest,C++,178
-60273704,mozilla/DeepSpeech,C++,203
-267775629,geekxh/hello-algorithm,Java,2086
-131371773,hoanhan101/ultimate-go,Go,1255
-7053637,python/mypy,Python,54
-243838973,fastai/fastbook,Jupyter Notebook,1018
-40276274,ziglang/zig,Zig,221
-170161374,microsoft/computervision-recipes,Jupyter Notebook,1491
-191655189,facebook/ent,Go,964
-223881576,macrozheng/mall-swarm,Java,259
-5909706,yhirose/cpp-httplib,C++,268
-234798675,bevyengine/bevy,Rust,816
-211288349,android/compose-samples,Kotlin,772
-226207937,airbnb/ts-migrate,TypeScript,698
-230383021,dtolnay/cxx,Rust,267
+2700474,alibaba/fastjson,Java,74
+102973646,fastai/fastai,Jupyter Notebook,511
+60273704,mozilla/DeepSpeech,C++,205
+131371773,hoanhan101/ultimate-go,Go,1267
+7053637,python/mypy,Python,53
+243838973,fastai/fastbook,Jupyter Notebook,1024
+130688011,meilisearch/MeiliSearch,Rust,979
+57939112,kubernetes/community,Jupyter Notebook,51
+170161374,microsoft/computervision-recipes,Jupyter Notebook,1496
+191655189,facebook/ent,Go,967
+223881576,macrozheng/mall-swarm,Java,263
+5909706,yhirose/cpp-httplib,C++,270
+234798675,bevyengine/bevy,Rust,820
+91948540,ranaroussi/yfinance,Python,349
+211288349,android/compose-samples,Kotlin,788
 218088093,nalexn/clean-architecture-swiftui,Swift,95
-248032165,spring-projects-experimental/spring-authorization-server,Java,191
-217622305,aws/aws-controllers-k8s,Go,270
+248032165,spring-projects-experimental/spring-authorization-server,Java,192
+278881384,kangvcar/InfoSpider,Python,346
+217622305,aws/aws-controllers-k8s,Go,271
 278011746,nsfw-filter/nsfw-filter,TypeScript,494
-285864199,tal-tech/go-zero,Go,235
-282206878,kkbjs/element3,Vue,266
-282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,151
-188047085,guardicore/labs_campaigns,Java,60
+285864199,tal-tech/go-zero,Go,236
+282206878,kkbjs/element3,Vue,270
+282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,152
