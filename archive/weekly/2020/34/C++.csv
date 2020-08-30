@@ -1,13 +1,13 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,337
-65600975,pytorch/pytorch,C++,204
-184456251,microsoft/PowerToys,C++,1462
-15634981,godotengine/godot,C++,299
-27729880,grpc/grpc,C++,86
-22067521,ocornut/imgui,C++,308
-39840932,google/googletest,C++,188
+100060912,microsoft/terminal,C++,339
+65600975,pytorch/pytorch,C++,206
+184456251,microsoft/PowerToys,C++,1476
+15634981,godotengine/godot,C++,300
+27729880,grpc/grpc,C++,87
+22067521,ocornut/imgui,C++,313
+39840932,google/googletest,C++,189
 24420506,v8/v8,C++,71
-60273704,mozilla/DeepSpeech,C++,209
+60273704,mozilla/DeepSpeech,C++,213
 74660642,taichi-dev/taichi,C++,141
 60246359,ClickHouse/ClickHouse,C++,117
 64991887,microsoft/LightGBM,C++,45
@@ -19,8 +19,8 @@ id,name,lang,new stars
 5909706,yhirose/cpp-httplib,C++,275
 1764646,wxWidgets/wxWidgets,C++,21
 156939672,microsoft/onnxruntime,C++,40
-76990209,Aircoookie/WLED,C++,81
-267649918,hoffstadt/DearPyGui,C++,680
+76990209,Aircoookie/WLED,C++,87
+267649918,hoffstadt/DearPyGui,C++,710
 287706896,Tencent/puerts,C++,211
 288215814,tangent-opensource/hdcycles,C++,38
 202879733,mudmin/AnotherMaker,C++,30
