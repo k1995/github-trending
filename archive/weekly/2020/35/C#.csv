@@ -1,16 +1,16 @@
 id,name,lang,new stars
 17620347,dotnet/aspnetcore,C#,135
-15315789,Wox-launcher/Wox,C#,96
-70104825,dotnet-architecture/eShopOnContainers,C#,85
+15315789,Wox-launcher/Wox,C#,99
+70104825,dotnet-architecture/eShopOnContainers,C#,88
 29078997,dotnet/roslyn,C#,36
 102904613,Unity-Technologies/ml-agents,C#,69
-46652227,IdentityServer/IdentityServer4,C#,48
+46652227,IdentityServer/IdentityServer4,C#,50
 126486701,Unity-Technologies/UnityCsReference,C#,26
 75990888,dotnet/csharplang,C#,30
-22456440,ppy/osu,C#,45
+22456440,ppy/osu,C#,48
 153711945,dotnet/wpf,C#,22
 41589439,MathewSachin/Captura,C#,142
-27251463,QuantConnect/Lean,C#,33
+27251463,QuantConnect/Lean,C#,35
 19216825,xamarin/xamarin-forms-samples,C#,7
 10601208,umbraco/Umbraco-CMS,C#,15
 942613,elastic/elasticsearch-net,C#,11
@@ -22,5 +22,5 @@ id,name,lang,new stars
 189675276,enkodellc/blazorboilerplate,C#,24
 265221540,SteveSandersonMS/CarChecker,C#,24
 185806136,open-rpa/openrpa,C#,28
-268367789,builtbybel/privatezilla,C#,78
+268367789,builtbybel/privatezilla,C#,79
 289242167,EmotionEngineer/EmotionPlayer,C#,147

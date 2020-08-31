@@ -1,18 +1,18 @@
 id,name,lang,new stars
 7600409,shadowsocks/shadowsocks-windows,C#,18
 29078997,dotnet/roslyn,C#,7
-161012019,jellyfin/jellyfin,C#,18
+161012019,jellyfin/jellyfin,C#,17
 193681686,NetchX/Netch,C#,15
-18586705,nopSolutions/nopCommerce,C#,7
-2419727,0xd4d/de4dot,C#,8
+18586705,nopSolutions/nopCommerce,C#,6
 75505125,abpframework/abp,C#,9
-262395224,dotnet/maui,C#,13
+2419727,0xd4d/de4dot,C#,8
+262395224,dotnet/maui,C#,12
 98547658,shadowsocksr-backup/shadowsocksr-csharp,C#,1
 76425236,EduardoPires/EquinoxProject,C#,5
 19216825,xamarin/xamarin-forms-samples,C#,0
-88068120,randyrants/sharpkeys,C#,9
-189676777,JasonStein/Notepads,C#,15
-213460285,jasontaylordev/CleanArchitecture,C#,12
+88068120,randyrants/sharpkeys,C#,6
+189676777,JasonStein/Notepads,C#,16
+213460285,jasontaylordev/CleanArchitecture,C#,8
 16473585,SubtitleEdit/subtitleedit,C#,4
 123494399,NoelFB/Celeste,C#,3
 30932325,dotnet/extensions,C#,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 123195170,Davidobot/BetterJoy,C#,4
 182637681,Assistant/ModAssistant,C#,4
 73515906,jwallet/spy-spotify,C#,3
-260568131,ustayready/SharpHose,C#,8
-266570380,jwillyamz/ezEmu,C#,9
+260568131,ustayready/SharpHose,C#,6
+266570380,jwillyamz/ezEmu,C#,7
