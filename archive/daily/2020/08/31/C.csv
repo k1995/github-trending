@@ -1,17 +1,17 @@
 id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,103
-13233158,obsproject/obs-studio,C,40
-24586308,cfenollosa/os-tutorial,C,24
+13233158,obsproject/obs-studio,C,39
+24586308,cfenollosa/os-tutorial,C,23
 569041,curl/curl,C,30
 102578345,coolsnowwolf/lede,C,40
 80286288,arendst/Tasmota,C,17
-2810292,pbatard/rufus,C,18
+2810292,pbatard/rufus,C,17
 3714900,arut/nginx-rtmp-module,C,9
 66150122,jarun/nnn,C,25
 78281075,SpacehuhnTech/esp8266_deauther,C,14
 3319040,id-Software/DOOM,C,25
 18106269,lz4/lz4,C,8
-35129809,transmission/transmission,C,7
+35129809,transmission/transmission,C,5
 179354282,acidanthera/OpenCorePkg,C,21
 59771425,zephyrproject-rtos/zephyr,C,8
 3681392,mossmann/hackrf,C,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 151870364,xiaorouji/openwrt-package,C,1
 213916896,blender/blender,C,11
 41394739,libratbag/libratbag,C,3
-288082909,htop-dev/htop,C,151
+288082909,htop-dev/htop,C,157
