@@ -1,15 +1,15 @@
 id,name,lang,new stars
-23096959,golang/go,Go,70
+23096959,golang/go,Go,74
 41912791,v2ray/v2ray-core,Go,43
 13807606,junegunn/fzf,Go,46
 41986369,pingcap/tidb,Go,35
-17803236,rclone/rclone,Go,28
-120227732,fyne-io/fyne,Go,25
+17803236,rclone/rclone,Go,29
+120227732,fyne-io/fyne,Go,27
 36071697,ory/hydra,Go,17
 234231371,gofiber/fiber,Go,48
 136505169,tinygo-org/tinygo,Go,10
-120156076,cloudreve/Cloudreve,Go,144
-153099672,inancgumus/learngo,Go,30
+120156076,cloudreve/Cloudreve,Go,56
+153099672,inancgumus/learngo,Go,31
 109145553,containers/podman,Go,10
 140412864,kgretzky/evilginx2,Go,12
 237523442,tailscale/tailscale,Go,17
@@ -18,9 +18,9 @@ id,name,lang,new stars
 154643390,sundowndev/PhoneInfoga,Go,7
 248025303,p4gefau1t/trojan-go,Go,3
 242329748,Jrohy/trojan,Go,8
-108450241,schollz/progressbar,Go,37
+108450241,schollz/progressbar,Go,36
 135321861,ory/kratos,Go,11
 111455867,smartcontractkit/chainlink,Go,6
-73098043,foxcpp/maddy,Go,108
-255027515,hahwul/dalfox,Go,5
+73098043,foxcpp/maddy,Go,106
+255027515,hahwul/dalfox,Go,4
 109748414,RedTeamPentesting/monsoon,Go,25
