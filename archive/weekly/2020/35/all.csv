@@ -1,26 +1,26 @@
 id,name,lang,new stars
-35866694,RocketChat/Rocket.Chat,JavaScript,291
+35866694,RocketChat/Rocket.Chat,JavaScript,285
 2700474,alibaba/fastjson,Java,79
-102973646,fastai/fastai,Jupyter Notebook,240
-121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,149
-8966356,hashicorp/packer,Go,651
-243838973,fastai/fastbook,Jupyter Notebook,662
-130688011,meilisearch/MeiliSearch,Rust,1171
-40484398,discordjs/discord.js,JavaScript,183
-170161374,microsoft/computervision-recipes,Jupyter Notebook,776
+102973646,fastai/fastai,Jupyter Notebook,230
+121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,145
+8966356,hashicorp/packer,Go,649
+243838973,fastai/fastbook,Jupyter Notebook,651
+130688011,meilisearch/MeiliSearch,Rust,1174
+40484398,discordjs/discord.js,JavaScript,184
+170161374,microsoft/computervision-recipes,Jupyter Notebook,744
 120156076,cloudreve/Cloudreve,Go,261
-191655189,facebook/ent,Go,418
-223881576,macrozheng/mall-swarm,Java,249
-5909706,yhirose/cpp-httplib,C++,286
-234798675,bevyengine/bevy,Rust,585
-211288349,android/compose-samples,Kotlin,989
-76990209,Aircoookie/WLED,C++,107
-226207937,airbnb/ts-migrate,TypeScript,591
-255365829,tobspr/shapez.io,JavaScript,154
-278881384,kangvcar/InfoSpider,Python,502
-248032165,spring-projects-experimental/spring-authorization-server,Java,106
-217622305,aws/aws-controllers-k8s,Go,244
+191655189,facebook/ent,Go,394
+223881576,macrozheng/mall-swarm,Java,250
+5909706,yhirose/cpp-httplib,C++,285
+234798675,bevyengine/bevy,Rust,588
+211288349,android/compose-samples,Kotlin,995
+76990209,Aircoookie/WLED,C++,106
+226207937,airbnb/ts-migrate,TypeScript,586
+255365829,tobspr/shapez.io,JavaScript,144
+278881384,kangvcar/InfoSpider,Python,501
+248032165,spring-projects-experimental/spring-authorization-server,Java,105
+217622305,aws/aws-controllers-k8s,Go,246
 285864199,tal-tech/go-zero,Go,178
-281319253,element-plus/element-plus,Vue,312
+281319253,element-plus/element-plus,Vue,313
 282206878,kkbjs/element3,Vue,291
 282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,95
