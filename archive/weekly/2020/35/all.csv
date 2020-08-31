@@ -1,26 +1,26 @@
 id,name,lang,new stars
-35866694,RocketChat/Rocket.Chat,JavaScript,296
+35866694,RocketChat/Rocket.Chat,JavaScript,299
 2700474,alibaba/fastjson,Java,79
-102973646,fastai/fastai,Jupyter Notebook,289
-121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,168
+102973646,fastai/fastai,Jupyter Notebook,270
+121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,162
 8966356,hashicorp/packer,Go,652
-243838973,fastai/fastbook,Jupyter Notebook,738
-130688011,meilisearch/MeiliSearch,Rust,1158
-40484398,discordjs/discord.js,JavaScript,176
-170161374,microsoft/computervision-recipes,Jupyter Notebook,981
-120156076,cloudreve/Cloudreve,Go,259
-191655189,facebook/ent,Go,548
-223881576,macrozheng/mall-swarm,Java,252
-5909706,yhirose/cpp-httplib,C++,281
-234798675,bevyengine/bevy,Rust,690
-211288349,android/compose-samples,Kotlin,960
-76990209,Aircoookie/WLED,C++,107
-226207937,airbnb/ts-migrate,TypeScript,622
-255365829,tobspr/shapez.io,JavaScript,191
-278881384,kangvcar/InfoSpider,Python,488
-248032165,spring-projects-experimental/spring-authorization-server,Java,110
+243838973,fastai/fastbook,Jupyter Notebook,707
+130688011,meilisearch/MeiliSearch,Rust,1161
+40484398,discordjs/discord.js,JavaScript,178
+170161374,microsoft/computervision-recipes,Jupyter Notebook,895
+120156076,cloudreve/Cloudreve,Go,260
+191655189,facebook/ent,Go,500
+223881576,macrozheng/mall-swarm,Java,253
+5909706,yhirose/cpp-httplib,C++,285
+234798675,bevyengine/bevy,Rust,653
+211288349,android/compose-samples,Kotlin,974
+76990209,Aircoookie/WLED,C++,106
+226207937,airbnb/ts-migrate,TypeScript,614
+255365829,tobspr/shapez.io,JavaScript,184
+278881384,kangvcar/InfoSpider,Python,489
+248032165,spring-projects-experimental/spring-authorization-server,Java,109
 217622305,aws/aws-controllers-k8s,Go,250
-285864199,tal-tech/go-zero,Go,183
-281319253,element-plus/element-plus,Vue,316
-282206878,kkbjs/element3,Vue,292
-282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,120
+285864199,tal-tech/go-zero,Go,181
+281319253,element-plus/element-plus,Vue,313
+282206878,kkbjs/element3,Vue,291
+282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,105
