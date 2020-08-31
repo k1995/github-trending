@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,599
-7548986,laravel/framework,PHP,273
+1863329,laravel/laravel,PHP,600
+7548986,laravel/framework,PHP,274
 1631570,nikic/PHP-Parser,PHP,168
-3431193,yiisoft/yii2,PHP,54
-53783664,easychen/howto-make-more-money,PHP,329
-60243197,nextcloud/server,PHP,296
+3431193,yiisoft/yii2,PHP,56
+53783664,easychen/howto-make-more-money,PHP,332
+60243197,nextcloud/server,PHP,294
 12615154,barryvdh/laravel-debugbar,PHP,163
-7704544,Intervention/image,PHP,121
+7704544,Intervention/image,PHP,120
 1305114,roots/sage,PHP,73
 14732311,octobercms/october,PHP,112
 48796179,z-song/laravel-admin,PHP,246
@@ -15,7 +15,7 @@ id,name,lang,new stars
 42480275,spatie/laravel-permission,PHP,136
 33904351,laravel/lumen,PHP,58
 364315,predis/predis,PHP,81
-2179920,woocommerce/woocommerce,PHP,96
+2179920,woocommerce/woocommerce,PHP,97
 2141186,opencart/opencart,PHP,70
 41589337,BookStackApp/BookStack,PHP,208
 10226642,Crinsane/LaravelShoppingcart,PHP,47

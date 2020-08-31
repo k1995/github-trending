@@ -6,13 +6,13 @@ id,name,lang,new stars
 14712850,syncthing/syncthing,Go,17
 123572362,quii/learn-go-with-tests,Go,14
 136815833,Dreamacro/clash,Go,22
-272035489,greyireland/algorithm-pattern,Go,185
+272035489,greyireland/algorithm-pattern,Go,197
 31558937,gravitational/teleport,Go,7
 120156076,cloudreve/Cloudreve,Go,56
 153099672,inancgumus/learngo,Go,31
 134012064,pion/webrtc,Go,26
-79921099,chromedp/chromedp,Go,10
 97533102,halfrost/LeetCode-Go,Go,278
+79921099,chromedp/chromedp,Go,10
 180687624,aquasecurity/trivy,Go,9
 31311037,jpillora/chisel,Go,4
 161951219,wailsapp/wails,Go,15
@@ -21,6 +21,6 @@ id,name,lang,new stars
 71413286,WICG/webpackage,Go,5
 73098043,foxcpp/maddy,Go,106
 253024215,hahwul/WebHackersWeapons,Go,4
-267713284,projectdiscovery/httpx,Go,15
 235503516,jaeles-project/gospider,Go,13
+267713284,projectdiscovery/httpx,Go,12
 289147118,lian/msfs2020-go,Go,13
