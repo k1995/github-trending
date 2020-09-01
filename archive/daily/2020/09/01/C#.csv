@@ -1,18 +1,18 @@
 id,name,lang,new stars
 7600409,shadowsocks/shadowsocks-windows,C#,16
-199570071,2dust/v2rayN,C#,30
+199570071,2dust/v2rayN,C#,31
 791611,mono/mono,C#,0
 161012019,jellyfin/jellyfin,C#,7
 22456440,ppy/osu,C#,4
 27251463,QuantConnect/Lean,C#,4
 153427475,Unity-Technologies/FPSSample,C#,1
 136570231,stride3d/stride,C#,3
-120231691,Ryujinx/Ryujinx,C#,5
+120231691,Ryujinx/Ryujinx,C#,3
 123494399,NoelFB/Celeste,C#,6
 257773375,Covid-19Radar/Covid19Radar,C#,2
 90468352,lidarr/Lidarr,C#,5
-136674885,t1m0thyj/WinDynamicDesktop,C#,14
-137104789,jamesmh/coravel,C#,47
+136674885,t1m0thyj/WinDynamicDesktop,C#,13
+137104789,jamesmh/coravel,C#,48
 47261966,grandnode/grandnode,C#,1
 37860317,TASVideos/BizHawk,C#,4
 73515906,jwallet/spy-spotify,C#,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 260568131,ustayready/SharpHose,C#,9
 273734241,oskardudycz/WebApiWith.NETCore,C#,46
 289358958,klasbj/planeconverter,C#,1
-290349277,shalzuth/FallGuysSharp,C#,3
+290349277,shalzuth/FallGuysSharp,C#,2

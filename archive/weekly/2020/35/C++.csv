@@ -1,7 +1,7 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,320
 65600975,pytorch/pytorch,C++,192
-184456251,microsoft/PowerToys,C++,968
+184456251,microsoft/PowerToys,C++,903
 15634981,godotengine/godot,C++,218
 12791642,BVLC/caffe,C++,57
 24420506,v8/v8,C++,67
@@ -21,6 +21,6 @@ id,name,lang,new stars
 184704903,interpretml/interpret,C++,53
 76990209,Aircoookie/WLED,C++,113
 24936365,lava/matplotlib-cpp,C++,28
-267649918,hoffstadt/DearPyGui,C++,1146
+267649918,hoffstadt/DearPyGui,C++,1188
 287706896,Tencent/puerts,C++,152
 288215814,tangent-opensource/hdcycles,C++,32

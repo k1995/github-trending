@@ -1,8 +1,8 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,21
-2253830,PHPMailer/PHPMailer,PHP,10
+3482588,danielmiessler/SecLists,PHP,19
+2253830,PHPMailer/PHPMailer,PHP,9
 1631570,nikic/PHP-Parser,PHP,8
-47495360,koel/koel,PHP,4
+47495360,koel/koel,PHP,5
 4549925,bobthecow/psysh,PHP,0
 4242230,PHPOffice/PHPWord,PHP,2
 6763587,PrestaShop/PrestaShop,PHP,3
@@ -12,15 +12,15 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,1
 136353559,doctrine/persistence,PHP,5
 137250044,doctrine/reflection,PHP,6
-31425145,billz/raspap-webgui,PHP,4
-139191005,nunomaduro/larastan,PHP,5
+31425145,billz/raspap-webgui,PHP,5
+139191005,nunomaduro/larastan,PHP,6
 69691727,pmmp/PocketMine-MP,PHP,1
 112659734,brefphp/bref,PHP,8
-47508644,pterodactyl/panel,PHP,2
+47508644,pterodactyl/panel,PHP,3
 134953788,mashirozx/Sakura,PHP,3
 146414504,jianyan74/rageframe2,PHP,2
-262361837,tightenco/takeout,PHP,88
+262361837,tightenco/takeout,PHP,87
 146401312,urre/wordpress-nginx-docker-compose,PHP,4
 143703053,rajkumardusad/IP-Tracer,PHP,5
-252225686,s-cart/s-cart,PHP,4
-274180401,MedicOneSystems/livewire-datatables,PHP,18
+252225686,s-cart/s-cart,PHP,5
+274180401,MedicOneSystems/livewire-datatables,PHP,21
