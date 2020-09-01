@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,272
-65252,jekyll/jekyll,Ruby,277
+65252,jekyll/jekyll,Ruby,276
 27442967,fastlane/fastlane,Ruby,339
 21600440,bayandin/awesome-awesomeness,Ruby,196
-13840241,freeCodeCamp/devdocs,Ruby,226
-53238813,Homebrew/brew,Ruby,386
-2293158,rapid7/metasploit-framework,Ruby,344
+13840241,freeCodeCamp/devdocs,Ruby,224
+53238813,Homebrew/brew,Ruby,387
+2293158,rapid7/metasploit-framework,Ruby,343
 308770,heartcombo/devise,Ruby,94
-3623050,Homebrew/homebrew-cask,Ruby,125
+3623050,Homebrew/homebrew-cask,Ruby,127
 3195124,mperham/sidekiq,Ruby,59
 361310,teamcapybara/capybara,Ruby,42
 611921,activeadmin/activeadmin,Ruby,22
@@ -19,7 +19,7 @@ id,name,lang,new stars
 9906653,ankane/chartkick,Ruby,65
 119760423,Netflix/fast_jsonapi,Ruby,58
 75785147,rails/webpacker,Ruby,42
-30337170,rmosolgo/graphql-ruby,Ruby,52
+30337170,rmosolgo/graphql-ruby,Ruby,51
 1314319,instructure/canvas-lms,Ruby,66
 103766152,github/explore,Ruby,81
 1953385,stripe/stripe-ruby,Ruby,21
