@@ -1,26 +1,26 @@
 id,name,lang,new stars
-35866694,RocketChat/Rocket.Chat,JavaScript,286
-2700474,alibaba/fastjson,Java,78
-102973646,fastai/fastai,Jupyter Notebook,241
-121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,153
-8966356,hashicorp/packer,Go,649
-243838973,fastai/fastbook,Jupyter Notebook,636
-130688011,meilisearch/MeiliSearch,Rust,1178
-40484398,discordjs/discord.js,JavaScript,182
-170161374,microsoft/computervision-recipes,Jupyter Notebook,738
+13491895,EbookFoundation/free-programming-books,,1598
+83222441,donnemartin/system-design-primer,Python,648
+35866694,RocketChat/Rocket.Chat,JavaScript,287
+2700474,alibaba/fastjson,Java,76
+102973646,fastai/fastai,Jupyter Notebook,223
+124303364,GoogleChromeLabs/squoosh,TypeScript,182
+243838973,fastai/fastbook,Jupyter Notebook,642
+130688011,meilisearch/MeiliSearch,Rust,1177
 120156076,cloudreve/Cloudreve,Go,262
-191655189,facebook/ent,Go,386
-223881576,macrozheng/mall-swarm,Java,251
+170355508,livewire/livewire,PHP,160
+223881576,macrozheng/mall-swarm,Java,250
 5909706,yhirose/cpp-httplib,C++,285
-234798675,bevyengine/bevy,Rust,560
-211288349,android/compose-samples,Kotlin,1002
-76990209,Aircoookie/WLED,C++,113
-226207937,airbnb/ts-migrate,TypeScript,584
-255365829,tobspr/shapez.io,JavaScript,172
-278881384,kangvcar/InfoSpider,Python,501
+211288349,android/compose-samples,Kotlin,1000
+76990209,Aircoookie/WLED,C++,115
+226207937,airbnb/ts-migrate,TypeScript,587
+209675543,betty200744/ultimate-go,Go,440
+278881384,kangvcar/InfoSpider,Python,502
 248032165,spring-projects-experimental/spring-authorization-server,Java,105
 217622305,aws/aws-controllers-k8s,Go,249
-281319253,element-plus/element-plus,Vue,313
-285864199,tal-tech/go-zero,Go,177
+272573152,kodekloudhub/certified-kubernetes-administrator-course,Shell,711
+269007854,18380438200/Tiktok,Java,68
+281319253,element-plus/element-plus,Vue,314
+285864199,tal-tech/go-zero,Go,178
 282206878,kkbjs/element3,Vue,291
-282091530,xiaolai/everyones-guide-for-starting-up-on-wechat-network,,98
+289688709,maratonadev-br/desafio-4-2020,,39
