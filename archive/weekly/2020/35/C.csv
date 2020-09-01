@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,465
+2325298,torvalds/linux,C,462
 10744183,netdata/netdata,C,141
 111583593,Genymobile/scrcpy,C,364
 569041,curl/curl,C,82
 14812739,libuv/libuv,C,56
-102578345,coolsnowwolf/lede,C,126
+102578345,coolsnowwolf/lede,C,127
 34921116,iovisor/bcc,C,58
-246335987,ventoy/Ventoy,C,762
-95133665,s-matyukevich/raspberry-pi-os,C,254
+246335987,ventoy/Ventoy,C,710
+95133665,s-matyukevich/raspberry-pi-os,C,217
 3199002,raspberrypi/linux,C,37
-75811015,Tencent/xLua,C,26
+75811015,Tencent/xLua,C,27
 437011,openzfs/zfs,C,24
 70127218,espressif/arduino-esp32,C,39
 65899476,espressif/esp-idf,C,37
@@ -17,7 +17,7 @@ id,name,lang,new stars
 41107037,unicorn-engine/unicorn,C,26
 59771425,zephyrproject-rtos/zephyr,C,28
 23007417,colmap/colmap,C,36
-241659610,OpenIntelWireless/itlwm,C,160
+241659610,OpenIntelWireless/itlwm,C,158
 115765590,OAID/Tengine,C,25
 63369078,yshui/picom,C,42
 213916896,blender/blender,C,41
