@@ -7,7 +7,7 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,2
 12166778,googleapis/google-api-php-client,PHP,3
 17452080,lcobucci/jwt,PHP,4
-6763587,PrestaShop/PrestaShop,PHP,2
+6763587,PrestaShop/PrestaShop,PHP,3
 10371103,Laravel-Lang/lang,PHP,6
 14346979,snipe/snipe-it,PHP,3
 9826184,elastic/elasticsearch-php,PHP,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 131995661,shopware/platform,PHP,6
 178025857,laminas/laminas-zendframework-bridge,PHP,5
 44745107,symfony/polyfill-intl-grapheme,PHP,3
-252225686,s-cart/s-cart,PHP,8
+252225686,s-cart/s-cart,PHP,4
 274180401,MedicOneSystems/livewire-datatables,PHP,18

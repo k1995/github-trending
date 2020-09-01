@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1810
-111583593,Genymobile/scrcpy,C,2074
+2325298,torvalds/linux,C,1813
+111583593,Genymobile/scrcpy,C,2075
 14812739,libuv/libuv,C,215
 196353673,taosdata/TDengine,C,1291
 80286288,arendst/Tasmota,C,244
 34921116,iovisor/bcc,C,237
-246335987,ventoy/Ventoy,C,2443
-66150122,jarun/nnn,C,415
-27737393,qmk/qmk_firmware,C,246
+246335987,ventoy/Ventoy,C,2446
+66150122,jarun/nnn,C,416
+27737393,qmk/qmk_firmware,C,245
 78281075,SpacehuhnTech/esp8266_deauther,C,161
 70127218,espressif/arduino-esp32,C,151
 689344,libretro/RetroArch,C,111
@@ -18,7 +18,7 @@ id,name,lang,new stars
 5213091,baskerville/bspwm,C,137
 40504480,mit-pdos/xv6-public,C,79
 3681392,mossmann/hackrf,C,59
-241659610,OpenIntelWireless/itlwm,C,485
+241659610,OpenIntelWireless/itlwm,C,484
 15991457,openssh/openssh-portable,C,37
 151870364,xiaorouji/openwrt-package,C,95
 213916896,blender/blender,C,163
