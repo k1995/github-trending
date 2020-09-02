@@ -1,18 +1,18 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,459
 10744183,netdata/netdata,C,131
-111583593,Genymobile/scrcpy,C,371
+111583593,Genymobile/scrcpy,C,367
 569041,curl/curl,C,84
 14812739,libuv/libuv,C,59
 102578345,coolsnowwolf/lede,C,136
 34921116,iovisor/bcc,C,59
-246335987,ventoy/Ventoy,C,534
-95133665,s-matyukevich/raspberry-pi-os,C,100
+246335987,ventoy/Ventoy,C,496
+95133665,s-matyukevich/raspberry-pi-os,C,107
 3199002,raspberrypi/linux,C,36
 75811015,Tencent/xLua,C,31
 437011,openzfs/zfs,C,22
 70127218,espressif/arduino-esp32,C,43
-65899476,espressif/esp-idf,C,35
+65899476,espressif/esp-idf,C,34
 2997204,openwall/john,C,33
 41107037,unicorn-engine/unicorn,C,26
 59771425,zephyrproject-rtos/zephyr,C,28

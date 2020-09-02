@@ -6,7 +6,7 @@ id,name,lang,new stars
 4578002,faif/python-patterns,Python,19
 145670234,open-mmlab/mmdetection,Python,21
 154739597,google/jax,Python,15
-2835111,pyinstaller/pyinstaller,Python,7
+2835111,pyinstaller/pyinstaller,Python,12
 135673451,microsoft/nni,Python,4
 146619556,trekhleb/learn-python,Python,212
 264818686,ultralytics/yolov5,Python,18
@@ -14,8 +14,8 @@ id,name,lang,new stars
 288559703,vinayak-mehta/present,Python,649
 131619646,dagster-io/dagster,Python,14
 244024353,PantsuDango/Dango-Translator,Python,18
-116322814,boltgolt/howdy,Python,67
 200722670,NVIDIA/NeMo,Python,37
+116322814,boltgolt/howdy,Python,67
 241504436,connorferster/handcalcs,Python,187
 214485001,Project-MONAI/MONAI,Python,6
 147892666,alexandreborges/malwoverview,Python,12
