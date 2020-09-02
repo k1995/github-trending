@@ -1,18 +1,21 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,449
+2325298,torvalds/linux,C,450
 10744183,netdata/netdata,C,131
-156018,redis/redis,C,127
+156018,redis/redis,C,130
 13233158,obsproject/obs-studio,C,129
-569041,curl/curl,C,83
+569041,curl/curl,C,84
+14812739,libuv/libuv,C,59
 102578345,coolsnowwolf/lede,C,136
 34921116,iovisor/bcc,C,59
 3199002,raspberrypi/linux,C,36
-70127218,espressif/arduino-esp32,C,42
+75811015,Tencent/xLua,C,31
+70127218,espressif/arduino-esp32,C,43
 65899476,espressif/esp-idf,C,34
 6376337,pocoproject/poco,C,22
 203957456,Tencent/TencentOS-tiny,C,32
 2997204,openwall/john,C,33
 41107037,unicorn-engine/unicorn,C,26
+59771425,zephyrproject-rtos/zephyr,C,28
 17183871,esnet/iperf,C,21
 115765590,OAID/Tengine,C,30
 63369078,yshui/picom,C,42

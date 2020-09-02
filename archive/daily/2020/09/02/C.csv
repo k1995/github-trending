@@ -1,8 +1,8 @@
 id,name,lang,new stars
-156018,redis/redis,C,15
+156018,redis/redis,C,14
 10446890,bilibili/ijkplayer,C,12
-1614410,FFmpeg/FFmpeg,C,20
-102578345,coolsnowwolf/lede,C,18
+1614410,FFmpeg/FFmpeg,C,21
+102578345,coolsnowwolf/lede,C,19
 7710647,jedisct1/libsodium,C,8
 3199002,raspberrypi/linux,C,9
 75811015,Tencent/xLua,C,7
@@ -20,7 +20,7 @@ id,name,lang,new stars
 211381291,ExistentialAudio/BlackHole,C,9
 6687936,ARMmbed/mbedtls,C,4
 29933948,fluent/fluent-bit,C,0
-213916896,blender/blender,C,14
+213916896,blender/blender,C,15
 288082909,htop-dev/htop,C,425
 234364459,gloxec/CrossC2,C,19
 53432472,Azure/sonic-buildimage,C,2
