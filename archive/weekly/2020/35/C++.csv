@@ -1,12 +1,12 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,201
-100060912,microsoft/terminal,C++,301
-5108051,opencv/opencv,C++,172
+100060912,microsoft/terminal,C++,305
+5108051,opencv/opencv,C++,166
 23357588,protocolbuffers/protobuf,C++,123
 12791642,BVLC/caffe,C++,59
 16587283,dmlc/xgboost,C++,60
 1062572,catchorg/Catch2,C++,31
-64991887,microsoft/LightGBM,C++,48
+64991887,microsoft/LightGBM,C++,45
 26038648,gabime/spdlog,C++,75
 95879426,Tencent/ncnn,C++,47
 2200856,MarlinFirmware/Marlin,C++,51
@@ -17,8 +17,8 @@ id,name,lang,new stars
 130068982,taskflow/taskflow,C++,77
 5298790,PX4/Firmware,C++,22
 5909706,yhirose/cpp-httplib,C++,224
-76990209,Aircoookie/WLED,C++,121
-267649918,hoffstadt/DearPyGui,C++,1457
+76990209,Aircoookie/WLED,C++,120
+267649918,hoffstadt/DearPyGui,C++,1463
 287706896,Tencent/puerts,C++,160
 62588725,albar965/littlenavmap,C++,10
 238262758,mongoose-os-apps/shelly-homekit,C++,12

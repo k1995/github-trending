@@ -1,9 +1,9 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,277
+20580498,kubernetes/kubernetes,Go,274
 21540759,avelino/awesome-go,Go,204
 11180687,gohugoio/hugo,Go,157
 6838921,prometheus/prometheus,Go,142
-42408804,containous/traefik,Go,266
+42408804,containous/traefik,Go,268
 74175805,istio/istio,Go,94
 17728164,hashicorp/terraform,Go,96
 13855476,go-gorm/gorm,Go,289
@@ -11,7 +11,7 @@ id,name,lang,new stars
 131371773,hoanhan101/ultimate-go,Go,1114
 56342508,jaegertracing/jaeger,Go,70
 8966356,hashicorp/packer,Go,364
-272035489,greyireland/algorithm-pattern,Go,721
+272035489,greyireland/algorithm-pattern,Go,727
 21405028,ardanlabs/gotraining,Go,57
 167304464,cortexlabs/cortex,Go,93
 120156076,cloudreve/Cloudreve,Go,282
