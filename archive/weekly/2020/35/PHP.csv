@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,141
+1863329,laravel/laravel,PHP,139
 458058,symfony/symfony,PHP,41
-7548986,laravel/framework,PHP,68
+7548986,laravel/framework,PHP,70
 1420053,guzzle/guzzle,PHP,39
 1376664,Seldaek/monolog,PHP,38
 5724990,briannesbitt/Carbon,PHP,26
@@ -9,15 +9,15 @@ id,name,lang,new stars
 82238168,monicahq/monica,PHP,54
 79111500,jupeter/clean-code-php,PHP,52
 12166778,googleapis/google-api-php-client,PHP,20
-2179920,woocommerce/woocommerce,PHP,33
+2179920,woocommerce/woocommerce,PHP,32
 17452080,lcobucci/jwt,PHP,19
-170355508,livewire/livewire,PHP,181
+170355508,livewire/livewire,PHP,185
 14346979,snipe/snipe-it,PHP,21
-76064827,mailcow/mailcow-dockerized,PHP,32
-148129143,bagisto/bagisto,PHP,31
+76064827,mailcow/mailcow-dockerized,PHP,31
+148129143,bagisto/bagisto,PHP,30
 31595609,mpdf/mpdf,PHP,18
 1953386,stripe/stripe-php,PHP,10
-13044600,salesagility/SuiteCRM,PHP,14
+13044600,salesagility/SuiteCRM,PHP,13
 47508644,pterodactyl/panel,PHP,24
 189104054,laravel/ui,PHP,16
 230926110,qkqpttgf/OneManager-php,PHP,33

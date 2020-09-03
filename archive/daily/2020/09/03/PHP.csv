@@ -7,7 +7,6 @@ id,name,lang,new stars
 1376664,Seldaek/monolog,PHP,12
 448045,sebastianbergmann/phpunit,PHP,7
 14259390,Maatwebsite/Laravel-Excel,PHP,7
-79111500,jupeter/clean-code-php,PHP,16
 656494,cakephp/cakephp,PHP,4
 597887,doctrine/orm,PHP,3
 2699935,squizlabs/PHP_CodeSniffer,PHP,1
@@ -22,5 +21,5 @@ id,name,lang,new stars
 39182755,glpi-project/glpi,PHP,3
 232599652,laravel/sanctum,PHP,4
 258773185,laravel-frontend-presets/tall,PHP,11
-291805291,laravel/jetstream,PHP,204
+291805291,laravel/jetstream,PHP,210
 291804966,laravel/fortify,PHP,24
