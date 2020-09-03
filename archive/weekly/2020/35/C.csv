@@ -1,7 +1,7 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,443
-10744183,netdata/netdata,C,126
-156018,redis/redis,C,121
+2325298,torvalds/linux,C,436
+10744183,netdata/netdata,C,127
+156018,redis/redis,C,120
 10446890,bilibili/ijkplayer,C,59
 13233158,obsproject/obs-studio,C,128
 102578345,coolsnowwolf/lede,C,143
@@ -9,18 +9,18 @@ id,name,lang,new stars
 40217904,swaywm/sway,C,22
 3199002,raspberrypi/linux,C,33
 75811015,Tencent/xLua,C,30
-15884926,hishamhm/htop,C,107
+15884926,hishamhm/htop,C,109
 65899476,espressif/esp-idf,C,36
 181894913,chrismaltby/gb-studio,C,40
-6376337,pocoproject/poco,C,24
-2997204,openwall/john,C,34
+6376337,pocoproject/poco,C,25
+2997204,openwall/john,C,35
 40504480,mit-pdos/xv6-public,C,23
-41107037,unicorn-engine/unicorn,C,27
-59771425,zephyrproject-rtos/zephyr,C,26
+41107037,unicorn-engine/unicorn,C,28
+59771425,zephyrproject-rtos/zephyr,C,28
 115765590,OAID/Tengine,C,27
-63369078,yshui/picom,C,43
+63369078,yshui/picom,C,45
 213916896,blender/blender,C,52
 2276287,riscv/riscv-isa-sim,C,4
 211756905,MarlinFirmware/Configurations,C,14
 202286916,Xinyuan-LilyGO/TTGO_TWatch_Library,C,10
-289937884,nyx-fuzz/libxdc,C,43
+289937884,nyx-fuzz/libxdc,C,44
