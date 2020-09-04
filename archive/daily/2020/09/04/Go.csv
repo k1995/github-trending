@@ -9,8 +9,8 @@ id,name,lang,new stars
 27051771,golang/protobuf,Go,7
 54230994,coredns/coredns,Go,5
 28366058,docker/distribution,Go,3
-120896210,argoproj/argo-cd,Go,10
 107286889,schollz/croc,Go,73
+120896210,argoproj/argo-cd,Go,10
 156681830,ffuf/ffuf,Go,19
 134539560,weaveworks/eksctl,Go,3
 93446042,terraform-providers/terraform-provider-azurerm,Go,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 285864199,tal-tech/go-zero,Go,83
 221847055,jaeles-project/jaeles,Go,9
 289206722,knownsec/ksubdomain,Go,65
-185861173,open-telemetry/opentelemetry-collector,Go,2
 267713284,projectdiscovery/httpx,Go,27
+185861173,open-telemetry/opentelemetry-collector,Go,2
 261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,23

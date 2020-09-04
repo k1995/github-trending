@@ -1,12 +1,12 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,219
-100060912,microsoft/terminal,C++,260
+100060912,microsoft/terminal,C++,259
 23357588,protocolbuffers/protobuf,C++,139
 11171548,nlohmann/json,C++,92
 34864402,apache/incubator-mxnet,C++,31
 96246170,ApolloAuto/apollo,C++,56
 116167731,yuzu-emu/yuzu,C++,122
-60246359,ClickHouse/ClickHouse,C++,132
+60246359,ClickHouse/ClickHouse,C++,134
 54360307,uNetworking/uWebSockets,C++,24
 64991887,microsoft/LightGBM,C++,48
 68312233,microsoft/vcpkg,C++,90
@@ -17,10 +17,10 @@ id,name,lang,new stars
 146459443,vesoft-inc/nebula,C++,166
 130068982,taskflow/taskflow,C++,57
 76990209,Aircoookie/WLED,C++,131
-267649918,hoffstadt/DearPyGui,C++,1417
+267649918,hoffstadt/DearPyGui,C++,1415
 68460326,1technophile/OpenMQTTGateway,C++,18
-86897963,xia-chu/ZLMediaKit,C++,25
+86897963,xia-chu/ZLMediaKit,C++,23
 124574483,PetoiCamp/OpenCat,C++,52
 287706896,Tencent/puerts,C++,144
-290573779,iPower/KasperskyHook,C++,97
+290573779,iPower/KasperskyHook,C++,98
 245268140,ndeadly/MissionControl,C++,69
