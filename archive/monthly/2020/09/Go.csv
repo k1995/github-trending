@@ -6,14 +6,14 @@ id,name,lang,new stars
 29261473,minio/minio,Go,581
 133251103,wagoodman/dive,Go,454
 13855476,go-gorm/gorm,Go,879
-29217054,micro/go-micro,Go,311
+29217054,micro/go-micro,Go,312
 135516270,rancher/k3s,Go,475
-131371773,hoanhan101/ultimate-go,Go,1680
+131371773,hoanhan101/ultimate-go,Go,1681
 122734569,iawia002/annie,Go,977
-29371034,micro/micro,Go,138
+29371034,micro/micro,Go,137
 125642885,talkgo/night,Go,240
 10270722,google/go-github,Go,800
-40453691,GoesToEleven/GolangTraining,Go,212
+40453691,GoesToEleven/GolangTraining,Go,213
 48109239,cilium/cilium,Go,319
 119160553,photoprism/photoprism,Go,391
 120156076,cloudreve/Cloudreve,Go,503
@@ -21,6 +21,6 @@ id,name,lang,new stars
 92648433,gwuhaolin/livego,Go,367
 93808874,bxcodec/go-clean-arch,Go,187
 67793333,cortexproject/cortex,Go,157
-147886080,crossplane/crossplane,Go,195
+147886080,crossplane/crossplane,Go,197
 111455867,smartcontractkit/chainlink,Go,169
-193681111,filecoin-project/lotus,Go,116
+193681111,filecoin-project/lotus,Go,117
