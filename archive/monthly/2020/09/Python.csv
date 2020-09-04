@@ -1,11 +1,11 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,2795
-54346799,public-apis/public-apis,Python,4851
-21289110,vinta/awesome-python,Python,1354
+54346799,public-apis/public-apis,Python,4839
+21289110,vinta/awesome-python,Python,1351
 114747226,deepfakes/faceswap,Python,596
 32689863,3b1b/manim,Python,1017
 33884891,apache/airflow,Python,483
-125266328,psf/black,Python,760
+125266328,psf/black,Python,763
 41654081,drduh/macOS-Security-and-Privacy-Guide,Python,1153
 162998479,sherlock-project/sherlock,Python,2124
 152166877,d2l-ai/d2l-en,Python,705
@@ -13,7 +13,7 @@ id,name,lang,new stars
 7270538,ankitects/anki,Python,239
 212639071,bregman-arie/devops-exercises,Python,281
 41179827,Rapptz/discord.py,Python,271
-146619556,trekhleb/learn-python,Python,1121
+146619556,trekhleb/learn-python,Python,1122
 139199684,PrefectHQ/prefect,Python,1786
 19130362,geerlingguy/ansible-for-devops,Python,212
 197261780,Ciphey/Ciphey,Python,2433
@@ -22,5 +22,5 @@ id,name,lang,new stars
 276444578,aristocratos/bpytop,Python,2283
 131706958,jerry-git/learn-python3,Python,605
 254755757,Palashio/libra,Python,1371
-266417772,Pitt-CSC/Summer2021-Internships,Python,760
+266417772,Pitt-CSC/Summer2021-Internships,Python,753
 217475193,PaddlePaddle/PaddleDetection,Python,325
