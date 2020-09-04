@@ -1,6 +1,6 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,219
-100060912,microsoft/terminal,C++,275
+100060912,microsoft/terminal,C++,266
 23357588,protocolbuffers/protobuf,C++,139
 11171548,nlohmann/json,C++,92
 34864402,apache/incubator-mxnet,C++,31
@@ -19,7 +19,7 @@ id,name,lang,new stars
 5909706,yhirose/cpp-httplib,C++,80
 89067146,ethereum-mining/ethminer,C++,17
 76990209,Aircoookie/WLED,C++,131
-267649918,hoffstadt/DearPyGui,C++,1445
+267649918,hoffstadt/DearPyGui,C++,1419
 68460326,1technophile/OpenMQTTGateway,C++,18
 124574483,PetoiCamp/OpenCat,C++,52
 287706896,Tencent/puerts,C++,144
