@@ -1,12 +1,12 @@
 id,name,lang,new stars
+65252,jekyll/jekyll,Ruby,50
 27442967,fastlane/fastlane,Ruby,49
 8681349,huginn/huginn,Ruby,66
 53238813,Homebrew/brew,Ruby,97
 2500088,gitlabhq/gitlabhq,Ruby,18
-52281283,tootsuite/mastodon,Ruby,50
+308770,heartcombo/devise,Ruby,20
 481872,hashicorp/vagrant,Ruby,52
 538746,ruby/ruby,Ruby,130
-37382858,kilimchoi/engineering-blogs,Ruby,27
 4095287,rubocop-hq/rubocop,Ruby,10
 585285,gollum/gollum,Ruby,37
 3314,spree/spree,Ruby,22
@@ -18,9 +18,9 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,9
 33739333,thoughtbot/administrate,Ruby,4
 1314319,instructure/canvas-lms,Ruby,16
-12656803,MiniProfiler/rack-mini-profiler,Ruby,4
+95798441,athityakumar/colorls,Ruby,18
 1172597,thoughtbot/shoulda-matchers,Ruby,6
+51164398,oracle/truffleruby,Ruby,11
 34840276,elastic/ansible-elasticsearch,Ruby,5
 2376,ActsAsParanoid/acts_as_paranoid,Ruby,10
 70830890,bigbluebutton/greenlight,Ruby,5
-287069180,twitterdev/Twitter-API-v2-sample-code,Ruby,5
