@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,34
-458058,symfony/symfony,PHP,11
-7548986,laravel/framework,PHP,11
+458058,symfony/symfony,PHP,13
+7548986,laravel/framework,PHP,12
 448045,sebastianbergmann/phpunit,PHP,4
 7704544,Intervention/image,PHP,4
 7769432,vlucas/phpdotenv,PHP,5
@@ -14,7 +14,7 @@ id,name,lang,new stars
 31295421,guzzle/psr7,PHP,5
 2179920,woocommerce/woocommerce,PHP,1
 170355508,livewire/livewire,PHP,28
-576099,doctrine/migrations,PHP,3
+576099,doctrine/migrations,PHP,0
 29126334,EasyCorp/EasyAdminBundle,PHP,3
 69691727,pmmp/PocketMine-MP,PHP,6
 29501260,api-platform/core,PHP,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 291805291,laravel/jetstream,PHP,254
 263720853,blade-ui-kit/blade-ui-kit,PHP,64
 22957733,laravel/installer,PHP,8
-291804966,laravel/fortify,PHP,50
-289731758,armancodes/laravel-download-link,PHP,19
+291804966,laravel/fortify,PHP,58
+289731758,armancodes/laravel-download-link,PHP,16

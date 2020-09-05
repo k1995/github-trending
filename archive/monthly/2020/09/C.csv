@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1862
-10744183,netdata/netdata,C,518
-111583593,Genymobile/scrcpy,C,1754
-1614410,FFmpeg/FFmpeg,C,425
-569041,curl/curl,C,302
+2325298,torvalds/linux,C,1822
+10744183,netdata/netdata,C,507
+111583593,Genymobile/scrcpy,C,1716
+1614410,FFmpeg/FFmpeg,C,415
+569041,curl/curl,C,292
 14812739,libuv/libuv,C,218
 196353673,taosdata/TDengine,C,1278
 34921116,iovisor/bcc,C,243
-246335987,ventoy/Ventoy,C,2358
+246335987,ventoy/Ventoy,C,2324
 5254557,cloudwu/skynet,C,111
-66150122,jarun/nnn,C,427
+66150122,jarun/nnn,C,424
 78281075,SpacehuhnTech/esp8266_deauther,C,161
 437011,openzfs/zfs,C,84
 15884926,hishamhm/htop,C,211
@@ -22,5 +22,5 @@ id,name,lang,new stars
 5213091,baskerville/bspwm,C,138
 3681392,mossmann/hackrf,C,60
 59676171,KevinOConnor/klipper,C,54
-241659610,OpenIntelWireless/itlwm,C,445
+241659610,OpenIntelWireless/itlwm,C,430
 213916896,blender/blender,C,194
