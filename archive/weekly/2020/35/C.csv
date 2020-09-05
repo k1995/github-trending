@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,446
+2325298,torvalds/linux,C,457
 10744183,netdata/netdata,C,128
-10446890,bilibili/ijkplayer,C,57
+10446890,bilibili/ijkplayer,C,59
 13233158,obsproject/obs-studio,C,136
-1614410,FFmpeg/FFmpeg,C,106
+1614410,FFmpeg/FFmpeg,C,105
 569041,curl/curl,C,77
 102578345,coolsnowwolf/lede,C,135
 34921116,iovisor/bcc,C,63
 15884926,hishamhm/htop,C,120
 65899476,espressif/esp-idf,C,32
-7408108,RT-Thread/rt-thread,C,39
+7408108,RT-Thread/rt-thread,C,42
 6376337,pocoproject/poco,C,24
 203957456,Tencent/TencentOS-tiny,C,31
 2997204,openwall/john,C,34
@@ -19,7 +19,7 @@ id,name,lang,new stars
 2359378,madler/zlib,C,13
 59676171,KevinOConnor/klipper,C,15
 63369078,yshui/picom,C,36
-288082909,htop-dev/htop,C,1262
+288082909,htop-dev/htop,C,1267
 213916896,blender/blender,C,65
 28928522,wolfSSL/wolfssl,C,9
 268476647,ph4ntonn/Impost3r,C,32
