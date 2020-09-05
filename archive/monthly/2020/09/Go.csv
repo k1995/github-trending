@@ -1,9 +1,9 @@
 id,name,lang,new stars
 48378947,fatedier/frp,Go,805
 42408804,containous/traefik,Go,678
-15452919,ethereum/go-ethereum,Go,294
+15452919,ethereum/go-ethereum,Go,293
 41986369,pingcap/tidb,Go,484
-133251103,wagoodman/dive,Go,440
+133251103,wagoodman/dive,Go,439
 13855476,go-gorm/gorm,Go,879
 29217054,micro/go-micro,Go,316
 135516270,rancher/k3s,Go,475
@@ -12,7 +12,7 @@ id,name,lang,new stars
 125642885,talkgo/night,Go,240
 10270722,google/go-github,Go,799
 40453691,GoesToEleven/GolangTraining,Go,213
-48109239,cilium/cilium,Go,313
+48109239,cilium/cilium,Go,312
 119160553,photoprism/photoprism,Go,390
 120156076,cloudreve/Cloudreve,Go,496
 109145553,containers/podman,Go,226
