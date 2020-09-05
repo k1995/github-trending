@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,146
-458058,symfony/symfony,PHP,47
+1863329,laravel/laravel,PHP,145
+458058,symfony/symfony,PHP,46
 7548986,laravel/framework,PHP,74
 1376664,Seldaek/monolog,PHP,43
 2889328,WordPress/WordPress,PHP,39
-61490598,PHPOffice/PhpSpreadsheet,PHP,23
-79111500,jupeter/clean-code-php,PHP,55
+61490598,PHPOffice/PhpSpreadsheet,PHP,22
+79111500,jupeter/clean-code-php,PHP,54
 597887,doctrine/orm,PHP,22
-11340559,deployphp/deployer,PHP,26
+11340559,deployphp/deployer,PHP,28
 2179920,woocommerce/woocommerce,PHP,31
 17452080,lcobucci/jwt,PHP,20
 170355508,livewire/livewire,PHP,172
@@ -17,10 +17,10 @@ id,name,lang,new stars
 105197315,nunomaduro/collision,PHP,11
 76064827,mailcow/mailcow-dockerized,PHP,34
 148129143,bagisto/bagisto,PHP,33
-31595609,mpdf/mpdf,PHP,18
+31595609,mpdf/mpdf,PHP,17
 1953386,stripe/stripe-php,PHP,11
 31425145,billz/raspap-webgui,PHP,27
 189104054,laravel/ui,PHP,17
-262361837,tightenco/takeout,PHP,280
+262361837,tightenco/takeout,PHP,279
 27249479,EC-CUBE/ec-cube,PHP,4
 36526302,pentestmonkey/php-reverse-shell,PHP,10

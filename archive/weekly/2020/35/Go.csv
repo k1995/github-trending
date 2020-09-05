@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,318
+23096959,golang/go,Go,324
 20580498,kubernetes/kubernetes,Go,255
 21540759,avelino/awesome-go,Go,210
 6838921,prometheus/prometheus,Go,135
@@ -10,13 +10,13 @@ id,name,lang,new stars
 131371773,hoanhan101/ultimate-go,Go,538
 123572362,quii/learn-go-with-tests,Go,82
 56342508,jaegertracing/jaeger,Go,73
-272035489,greyireland/algorithm-pattern,Go,780
+272035489,greyireland/algorithm-pattern,Go,782
 33258973,influxdata/telegraf,Go,40
 31558937,gravitational/teleport,Go,37
 21405028,ardanlabs/gotraining,Go,47
 120156076,cloudreve/Cloudreve,Go,229
 153099672,inancgumus/learngo,Go,80
-97533102,halfrost/LeetCode-Go,Go,1018
+97533102,halfrost/LeetCode-Go,Go,1022
 201658460,geektutu/7days-golang,Go,85
 120896210,argoproj/argo-cd,Go,70
 140412864,kgretzky/evilginx2,Go,73
