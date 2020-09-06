@@ -1,16 +1,16 @@
 id,name,lang,new stars
-23096959,golang/go,Go,36
+23096959,golang/go,Go,31
 7691631,moby/moby,Go,9
-20904437,gin-gonic/gin,Go,29
-8989842,unknwon/the-way-to-go_ZH_CN,Go,6
-52034309,uber-go/zap,Go,13
-72891330,kubernetes/ingress-nginx,Go,3
+20904437,gin-gonic/gin,Go,27
+8989842,unknwon/the-way-to-go_ZH_CN,Go,5
+52034309,uber-go/zap,Go,12
+72891330,kubernetes/ingress-nginx,Go,2
 22442668,openshift/origin,Go,2
 121086193,99designs/gqlgen,Go,3
+107286889,schollz/croc,Go,430
 53174289,gruntwork-io/terratest,Go,3
-107286889,schollz/croc,Go,325
 87990209,kubernetes/autoscaler,Go,0
-121746465,eddycjy/go-gin-example,Go,3
+121746465,eddycjy/go-gin-example,Go,2
 156681830,ffuf/ffuf,Go,14
 127519518,projectdiscovery/subfinder,Go,7
 134539560,weaveworks/eksctl,Go,6
@@ -18,9 +18,9 @@ id,name,lang,new stars
 93446042,terraform-providers/terraform-provider-azurerm,Go,4
 99947044,istio/community,Go,3
 20545279,stripe/stripe-go,Go,10
-285864199,tal-tech/go-zero,Go,196
+285864199,tal-tech/go-zero,Go,201
 243213207,alexellis/arkade,Go,10
 217622305,aws/aws-controllers-k8s,Go,5
-274625369,infracost/infracost,Go,41
-267713284,projectdiscovery/httpx,Go,24
+274625369,infracost/infracost,Go,39
+267713284,projectdiscovery/httpx,Go,23
 185861173,open-telemetry/opentelemetry-collector,Go,1
