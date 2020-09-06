@@ -1,19 +1,19 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,7
 27442967,fastlane/fastlane,Ruby,4
-2293158,rapid7/metasploit-framework,Ruby,9
+2293158,rapid7/metasploit-framework,Ruby,11
 308770,heartcombo/devise,Ruby,3
 481872,hashicorp/vagrant,Ruby,7
-2203645,CocoaPods/CocoaPods,Ruby,2
+2203645,CocoaPods/CocoaPods,Ruby,3
 1090311,elastic/logstash,Ruby,1
 3195124,mperham/sidekiq,Ruby,5
-1918677,fluent/fluentd,Ruby,1
+1918677,fluent/fluentd,Ruby,2
 1145832,pry/pry,Ruby,1
 910744,puppetlabs/puppet,Ruby,1
 2889230,rails-api/active_model_serializers,Ruby,1
-447184,rspec/rspec-rails,Ruby,1
+447184,rspec/rspec-rails,Ruby,2
 18294,activemerchant/active_merchant,Ruby,1
-7050,prawnpdf/prawn,Ruby,0
+7050,prawnpdf/prawn,Ruby,2
 558790,zdennis/activerecord-import,Ruby,2
 4523235,asciidoctor/asciidoctor,Ruby,2
 52316423,luggit/react-native-config,Ruby,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 9735707,stripe-ruby-mock/stripe-ruby-mock,Ruby,0
 65914086,decidim/decidim,Ruby,0
 644899,onelogin/ruby-saml,Ruby,0
-290210709,anwarmamat/cmsc330fall20,Ruby,2
+290210709,anwarmamat/cmsc330fall20,Ruby,3
