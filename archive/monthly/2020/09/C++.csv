@@ -1,5 +1,5 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,841
+9384267,electron/electron,C++,844
 1181927,bitcoin/bitcoin,C++,479
 65600975,pytorch/pytorch,C++,900
 22067521,ocornut/imgui,C++,1368
@@ -7,20 +7,20 @@ id,name,lang,new stars
 39840932,google/googletest,C++,768
 60273704,mozilla/DeepSpeech,C++,452
 120887835,huihut/interview,C++,714
-74660642,taichi-dev/taichi,C++,433
+74660642,taichi-dev/taichi,C++,434
 1062572,catchorg/Catch2,C++,322
-60246359,ClickHouse/ClickHouse,C++,516
+60246359,ClickHouse/ClickHouse,C++,517
 81227005,facebookresearch/faiss,C++,334
 68312233,microsoft/vcpkg,C++,362
 191820100,google/mediapipe,C++,825
-75821432,llvm/llvm-project,C++,343
-192025001,Qv2ray/Qv2ray,C++,661
+75821432,llvm/llvm-project,C++,347
+192025001,Qv2ray/Qv2ray,C++,670
 15122806,google/benchmark,C++,108
-130068982,taskflow/taskflow,C++,162
+130068982,taskflow/taskflow,C++,163
 5909706,yhirose/cpp-httplib,C++,444
-131236938,an-tao/drogon,C++,770
+131236938,an-tao/drogon,C++,772
 76990209,Aircoookie/WLED,C++,362
-168947928,Errichto/youtube,C++,139
+168947928,Errichto/youtube,C++,138
 283410102,sogou/workflow,C++,435
 223904726,wang-xinyu/tensorrtx,C++,209
 206138137,alphacep/vosk-api,C++,94
