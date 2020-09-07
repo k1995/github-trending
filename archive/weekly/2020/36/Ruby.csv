@@ -1,11 +1,14 @@
 id,name,lang,new stars
+8514,rails/rails,Ruby,62
 27442967,fastlane/fastlane,Ruby,50
 13840241,freeCodeCamp/devdocs,Ruby,50
 53238813,Homebrew/brew,Ruby,89
 2500088,gitlabhq/gitlabhq,Ruby,18
-2293158,rapid7/metasploit-framework,Ruby,60
+308770,heartcombo/devise,Ruby,21
 481872,hashicorp/vagrant,Ruby,48
+3623050,Homebrew/homebrew-cask,Ruby,31
 538746,ruby/ruby,Ruby,130
+106995,sinatra/sinatra,Ruby,10
 4095287,rubocop-hq/rubocop,Ruby,13
 585285,gollum/gollum,Ruby,37
 3314,spree/spree,Ruby,23
@@ -13,14 +16,11 @@ id,name,lang,new stars
 611921,activeadmin/activeadmin,Ruby,4
 1725199,github/linguist,Ruby,17
 52855516,Homebrew/homebrew-core,Ruby,35
-4994614,wpscanteam/wpscan,Ruby,9
-75785147,rails/webpacker,Ruby,6
+21829,thoughtbot/factory_bot,Ruby,9
 33739333,thoughtbot/administrate,Ruby,5
-1734,aasm/aasm,Ruby,6
-1314319,instructure/canvas-lms,Ruby,15
 52316423,luggit/react-native-config,Ruby,18
+95798441,athityakumar/colorls,Ruby,20
 1172597,thoughtbot/shoulda-matchers,Ruby,7
-51164398,oracle/truffleruby,Ruby,9
+1842702,billie66/TLCL,Ruby,56
 3898922,zammad/zammad,Ruby,12
-34840276,elastic/ansible-elasticsearch,Ruby,6
 2376,ActsAsParanoid/acts_as_paranoid,Ruby,10

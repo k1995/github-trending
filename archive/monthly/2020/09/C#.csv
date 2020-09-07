@@ -1,21 +1,22 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,468
-199570071,2dust/v2rayN,C#,840
+17620347,dotnet/aspnetcore,C#,463
+70104825,dotnet-architecture/eShopOnContainers,C#,339
+199570071,2dust/v2rayN,C#,837
 29078997,dotnet/roslyn,C#,136
+54086969,thangchung/awesome-dotnet-core,C#,270
 143460965,GoogleCloudPlatform/microservices-demo,C#,222
-161012019,jellyfin/jellyfin,C#,339
+28239455,dotnet/AspNetCore.Docs,C#,134
+161012019,jellyfin/jellyfin,C#,336
+1135454,cefsharp/CefSharp,C#,93
 75990888,dotnet/csharplang,C#,93
 22456440,ppy/osu,C#,189
 69673033,ardalis/CleanArchitecture,C#,175
-41589439,MathewSachin/Captura,C#,403
-64753043,Perfare/AssetStudio,C#,204
-75505125,abpframework/abp,C#,284
+41589439,MathewSachin/Captura,C#,404
 2419727,0xd4d/de4dot,C#,109
-113807330,migueldeicaza/gui.cs,C#,295
+113807330,migueldeicaza/gui.cs,C#,300
 31335300,PrismLibrary/Prism,C#,99
 27251463,QuantConnect/Lean,C#,112
-130160795,HMBSbige/ShadowsocksR-Windows,C#,181
-10601208,umbraco/Umbraco-CMS,C#,44
+2870911,MvvmCross/MvvmCross,C#,54
 165548191,carlospolop/privilege-escalation-awesome-scripts-suite,C#,352
 213460285,jasontaylordev/CleanArchitecture,C#,187
 162222002,dotnetcore/FreeSql,C#,191
@@ -23,4 +24,3 @@ id,name,lang,new stars
 2928944,Azure/azure-sdk-for-net,C#,50
 253221768,QianMo/X-PostProcessing-Library,C#,179
 210280372,liukuo362573/YiShaAdmin,C#,107
-77180761,xamarin/XamarinCommunityToolkit,C#,167
