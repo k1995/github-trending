@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1802
-10744183,netdata/netdata,C,511
-111583593,Genymobile/scrcpy,C,1682
+2325298,torvalds/linux,C,1801
+10744183,netdata/netdata,C,510
+111583593,Genymobile/scrcpy,C,1678
 14812739,libuv/libuv,C,221
-20159867,nothings/stb,C,295
+20159867,nothings/stb,C,294
 196353673,taosdata/TDengine,C,1045
-80286288,arendst/Tasmota,C,400
+80286288,arendst/Tasmota,C,406
 34921116,iovisor/bcc,C,244
 246335987,ventoy/Ventoy,C,2318
-66150122,jarun/nnn,C,426
+66150122,jarun/nnn,C,427
 78281075,SpacehuhnTech/esp8266_deauther,C,162
 3319040,id-Software/DOOM,C,135
 15884926,hishamhm/htop,C,213
@@ -20,7 +20,7 @@ id,name,lang,new stars
 40504480,mit-pdos/xv6-public,C,89
 3681392,mossmann/hackrf,C,59
 59676171,KevinOConnor/klipper,C,55
-241659610,OpenIntelWireless/itlwm,C,425
+241659610,OpenIntelWireless/itlwm,C,426
 213916896,blender/blender,C,201
 204459250,mit-pdos/xv6-riscv,C,73
 211756905,MarlinFirmware/Configurations,C,45
