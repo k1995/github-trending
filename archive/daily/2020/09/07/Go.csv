@@ -1,17 +1,17 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,35
+20904437,gin-gonic/gin,Go,34
 41912791,v2ray/v2ray-core,Go,37
 14712850,syncthing/syncthing,Go,24
 6051812,gorilla/mux,Go,10
 122734569,iawia002/annie,Go,10
 61137153,evanw/esbuild,Go,19
-136815833,Dreamacro/clash,Go,28
+136815833,Dreamacro/clash,Go,29
 6443435,nats-io/nats-server,Go,5
-119190187,zricethezav/gitleaks,Go,57
+119190187,zricethezav/gitleaks,Go,58
 77071454,goreleaser/goreleaser,Go,7
 62712899,AdguardTeam/AdGuardHome,Go,7
-107286889,schollz/croc,Go,498
-187403699,FiloSottile/age,Go,60
+107286889,schollz/croc,Go,481
+187403699,FiloSottile/age,Go,61
 73430589,google/gops,Go,23
 34795642,coocood/freecache,Go,4
 127519518,projectdiscovery/subfinder,Go,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 286729329,zu1k/proxypool,Go,13
 172405812,SoMuchForSubtlety/f1viewer,Go,3
 195525823,isucon/isucon9-qualify,Go,0
-289147118,lian/msfs2020-go,Go,7
+289147118,lian/msfs2020-go,Go,8
