@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,414
+2325298,torvalds/linux,C,421
 10744183,netdata/netdata,C,122
 156018,redis/redis,C,130
 10446890,bilibili/ijkplayer,C,57
@@ -15,7 +15,7 @@ id,name,lang,new stars
 59771425,zephyrproject-rtos/zephyr,C,22
 211381291,ExistentialAudio/BlackHole,C,143
 17183871,esnet/iperf,C,20
-288082909,htop-dev/htop,C,1172
+288082909,htop-dev/htop,C,1174
 63369078,yshui/picom,C,31
 151870364,xiaorouji/openwrt-package,C,21
 2928164,NixOS/patchelf,C,29
