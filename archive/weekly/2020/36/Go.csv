@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,297
+23096959,golang/go,Go,295
 21540759,avelino/awesome-go,Go,214
 6838921,prometheus/prometheus,Go,151
 15452919,ethereum/go-ethereum,Go,94
@@ -7,9 +7,9 @@ id,name,lang,new stars
 13855476,go-gorm/gorm,Go,490
 50709152,kataras/iris,Go,98
 135516270,rancher/k3s,Go,130
-131371773,hoanhan101/ultimate-go,Go,348
+131371773,hoanhan101/ultimate-go,Go,345
 123572362,quii/learn-go-with-tests,Go,90
-272035489,greyireland/algorithm-pattern,Go,486
+272035489,greyireland/algorithm-pattern,Go,471
 46089560,containerd/containerd,Go,37
 79921099,chromedp/chromedp,Go,46
 201658460,geektutu/7days-golang,Go,95
