@@ -1,13 +1,13 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,409
-10744183,netdata/netdata,C,117
+10744183,netdata/netdata,C,118
 10446890,bilibili/ijkplayer,C,60
 13233158,obsproject/obs-studio,C,132
-1614410,FFmpeg/FFmpeg,C,111
+1614410,FFmpeg/FFmpeg,C,113
 908607,numpy/numpy,C,69
 20159867,nothings/stb,C,68
-102578345,coolsnowwolf/lede,C,111
-80286288,arendst/Tasmota,C,299
+102578345,coolsnowwolf/lede,C,110
+80286288,arendst/Tasmota,C,302
 3319040,id-Software/DOOM,C,39
 15884926,hishamhm/htop,C,108
 7408108,RT-Thread/rt-thread,C,66
@@ -15,12 +15,12 @@ id,name,lang,new stars
 203957456,Tencent/TencentOS-tiny,C,35
 60667730,lvgl/lvgl,C,55
 5805256,lua/lua,C,36
-211381291,ExistentialAudio/BlackHole,C,168
+211381291,ExistentialAudio/BlackHole,C,170
 205810121,CloverHackyColor/CloverBootloader,C,30
-77920383,nesbox/TIC-80,C,30
-34807561,nanopb/nanopb,C,12
+77920383,nesbox/TIC-80,C,40
+34807561,nanopb/nanopb,C,13
 195445651,thestr4ng3r/chiaki,C,17
-288082909,htop-dev/htop,C,1155
+288082909,htop-dev/htop,C,1156
 213916896,blender/blender,C,77
 194269070,skyline-emu/skyline,C,28
 289937884,nyx-fuzz/libxdc,C,45
