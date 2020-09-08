@@ -3,7 +3,7 @@ id,name,lang,new stars
 5271882,astaxie/build-web-application-with-golang,Go,18
 11225014,etcd-io/etcd,Go,31
 42408804,containous/traefik,Go,34
-61137153,evanw/esbuild,Go,22
+61137153,evanw/esbuild,Go,23
 7083242,go-sql-driver/mysql,Go,7
 11593442,golang/groupcache,Go,6
 72891330,kubernetes/ingress-nginx,Go,18
@@ -12,7 +12,7 @@ id,name,lang,new stars
 119190187,zricethezav/gitleaks,Go,60
 109162639,thanos-io/thanos,Go,8
 48109239,cilium/cilium,Go,17
-32575637,ginuerzh/gost,Go,9
+32575637,ginuerzh/gost,Go,11
 30711774,go-playground/validator,Go,18
 107286889,schollz/croc,Go,365
 24703284,EasyDarwin/EasyDarwin,Go,15
