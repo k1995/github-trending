@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,420
+2325298,torvalds/linux,C,427
 10744183,netdata/netdata,C,117
 156018,redis/redis,C,125
 10446890,bilibili/ijkplayer,C,60
@@ -7,7 +7,7 @@ id,name,lang,new stars
 1614410,FFmpeg/FFmpeg,C,112
 908607,numpy/numpy,C,69
 102578345,coolsnowwolf/lede,C,110
-80286288,arendst/Tasmota,C,276
+80286288,arendst/Tasmota,C,286
 15884926,hishamhm/htop,C,108
 6376337,pocoproject/poco,C,23
 203957456,Tencent/TencentOS-tiny,C,35
@@ -15,7 +15,7 @@ id,name,lang,new stars
 59771425,zephyrproject-rtos/zephyr,C,19
 211381291,ExistentialAudio/BlackHole,C,169
 17183871,esnet/iperf,C,19
-288082909,htop-dev/htop,C,1178
+288082909,htop-dev/htop,C,1183
 63369078,yshui/picom,C,32
 151870364,xiaorouji/openwrt-package,C,19
 2928164,NixOS/patchelf,C,29
