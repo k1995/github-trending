@@ -1,13 +1,13 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,10
+3482588,danielmiessler/SecLists,PHP,26
 7548986,laravel/framework,PHP,13
-60243197,nextcloud/server,PHP,7
+60243197,nextcloud/server,PHP,13
 14732311,octobercms/october,PHP,4
 622166,FriendsOfPHP/Goutte,PHP,3
 7122594,directus/directus,PHP,9
 6660366,dompdf/dompdf,PHP,3
 5508585,YOURLS/YOURLS,PHP,3
-170355508,livewire/livewire,PHP,27
+170355508,livewire/livewire,PHP,45
 9193949,wallabag/wallabag,PHP,5
 2880469,Codeception/Codeception,PHP,1
 158374929,beyondcode/laravel-websockets,PHP,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 111562942,statamic/cms,PHP,4
 36526302,pentestmonkey/php-reverse-shell,PHP,2
 223535535,Ignitetch/AdvPhishing,PHP,6
-289731758,armancodes/laravel-download-link,PHP,19
-274180401,MedicOneSystems/livewire-datatables,PHP,8
+274180401,MedicOneSystems/livewire-datatables,PHP,4
+289731758,armancodes/laravel-download-link,PHP,16
 291461800,stefanbauer/tailwindcss-breakpoint-detector,PHP,8
