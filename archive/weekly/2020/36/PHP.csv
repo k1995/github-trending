@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,155
-3482588,danielmiessler/SecLists,PHP,121
+3482588,danielmiessler/SecLists,PHP,123
 458058,symfony/symfony,PHP,49
 7548986,laravel/framework,PHP,76
 1376664,Seldaek/monolog,PHP,40
@@ -20,7 +20,7 @@ id,name,lang,new stars
 148129143,bagisto/bagisto,PHP,42
 1740040,pfsense/pfsense,PHP,17
 39182755,glpi-project/glpi,PHP,9
-66956607,blade-ui-kit/blade-icons,PHP,50
+66956607,blade-ui-kit/blade-icons,PHP,51
 189104054,laravel/ui,PHP,16
 27249479,EC-CUBE/ec-cube,PHP,2
 36526302,pentestmonkey/php-reverse-shell,PHP,12
