@@ -1,12 +1,12 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1270
-48378947,fatedier/frp,Go,793
-11225014,etcd-io/etcd,Go,439
-42408804,containous/traefik,Go,680
-15452919,ethereum/go-ethereum,Go,292
+23096959,golang/go,Go,1280
+48378947,fatedier/frp,Go,787
+11225014,etcd-io/etcd,Go,441
+42408804,containous/traefik,Go,679
+15452919,ethereum/go-ethereum,Go,290
 41986369,pingcap/tidb,Go,478
-29261473,minio/minio,Go,533
-133251103,wagoodman/dive,Go,429
+29261473,minio/minio,Go,539
+133251103,wagoodman/dive,Go,430
 13855476,go-gorm/gorm,Go,913
 135516270,rancher/k3s,Go,466
 131371773,hoanhan101/ultimate-go,Go,1773
@@ -14,10 +14,10 @@ id,name,lang,new stars
 29371034,micro/micro,Go,142
 10270722,google/go-github,Go,802
 40453691,GoesToEleven/GolangTraining,Go,205
-48109239,cilium/cilium,Go,315
+48109239,cilium/cilium,Go,319
 119160553,photoprism/photoprism,Go,338
-120156076,cloudreve/Cloudreve,Go,508
-140457254,OWASP/Amass,Go,305
+120156076,cloudreve/Cloudreve,Go,503
+140457254,OWASP/Amass,Go,306
 92648433,gwuhaolin/livego,Go,382
 140412864,kgretzky/evilginx2,Go,136
 93808874,bxcodec/go-clean-arch,Go,201
