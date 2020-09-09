@@ -1,18 +1,18 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,828
-1181927,bitcoin/bitcoin,C++,634
-65600975,pytorch/pytorch,C++,900
-22067521,ocornut/imgui,C++,1366
-39840932,google/googletest,C++,754
-60273704,mozilla/DeepSpeech,C++,458
+9384267,electron/electron,C++,824
+1181927,bitcoin/bitcoin,C++,646
+65600975,pytorch/pytorch,C++,902
+22067521,ocornut/imgui,C++,1364
+39840932,google/googletest,C++,752
+60273704,mozilla/DeepSpeech,C++,457
 13862381,DrKLO/Telegram,C++,243
-120887835,huihut/interview,C++,710
-74660642,taichi-dev/taichi,C++,448
+120887835,huihut/interview,C++,702
+74660642,taichi-dev/taichi,C++,446
 60246359,ClickHouse/ClickHouse,C++,533
-81227005,facebookresearch/faiss,C++,332
-68312233,microsoft/vcpkg,C++,367
+81227005,facebookresearch/faiss,C++,333
+68312233,microsoft/vcpkg,C++,364
 191820100,google/mediapipe,C++,689
-75821432,llvm/llvm-project,C++,350
+75821432,llvm/llvm-project,C++,346
 192025001,Qv2ray/Qv2ray,C++,628
 15122806,google/benchmark,C++,108
 130068982,taskflow/taskflow,C++,170
@@ -21,6 +21,6 @@ id,name,lang,new stars
 76990209,Aircoookie/WLED,C++,369
 11986447,xournalpp/xournalpp,C++,220
 16256144,RobotLocomotion/drake,C++,70
-283410102,sogou/workflow,C++,720
+283410102,sogou/workflow,C++,718
 223904726,wang-xinyu/tensorrtx,C++,203
 206138137,alphacep/vosk-api,C++,92

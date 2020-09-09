@@ -1,11 +1,11 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,195
-5108051,opencv/opencv,C++,190
+5108051,opencv/opencv,C++,194
 1181927,bitcoin/bitcoin,C++,242
 23357588,protocolbuffers/protobuf,C++,139
 96246170,ApolloAuto/apollo,C++,57
 116167731,yuzu-emu/yuzu,C++,148
-60246359,ClickHouse/ClickHouse,C++,145
+60246359,ClickHouse/ClickHouse,C++,143
 54360307,uNetworking/uWebSockets,C++,22
 26038648,gabime/spdlog,C++,62
 40892817,ethereum/solidity,C++,34
@@ -18,9 +18,9 @@ id,name,lang,new stars
 89067146,ethereum-mining/ethminer,C++,19
 76990209,Aircoookie/WLED,C++,80
 6148317,OSGeo/gdal,C++,62
-267649918,hoffstadt/DearPyGui,C++,293
+267649918,hoffstadt/DearPyGui,C++,259
 86897963,xia-chu/ZLMediaKit,C++,27
 210549660,AnkerLeng/Cpp-0-1-Resource,C++,48
-283410102,sogou/workflow,C++,648
+283410102,sogou/workflow,C++,682
 105010691,nextcloud/desktop,C++,23
 108551291,cyang-kth/fmm,C++,48
