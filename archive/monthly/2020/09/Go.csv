@@ -1,14 +1,14 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1284
+23096959,golang/go,Go,1282
 48378947,fatedier/frp,Go,864
-11225014,etcd-io/etcd,Go,450
-42408804,containous/traefik,Go,682
+11225014,etcd-io/etcd,Go,452
+42408804,containous/traefik,Go,680
 15452919,ethereum/go-ethereum,Go,288
 41986369,pingcap/tidb,Go,476
 29261473,minio/minio,Go,549
-133251103,wagoodman/dive,Go,437
+133251103,wagoodman/dive,Go,438
 13855476,go-gorm/gorm,Go,928
-135516270,rancher/k3s,Go,481
+135516270,rancher/k3s,Go,483
 131371773,hoanhan101/ultimate-go,Go,1797
 122734569,iawia002/annie,Go,1005
 29371034,micro/micro,Go,142
@@ -16,11 +16,11 @@ id,name,lang,new stars
 116576783,bettercap/bettercap,Go,167
 10270722,google/go-github,Go,802
 48109239,cilium/cilium,Go,327
-119160553,photoprism/photoprism,Go,330
+119160553,photoprism/photoprism,Go,332
 120156076,cloudreve/Cloudreve,Go,529
 109145553,containers/podman,Go,241
-191655189,facebook/ent,Go,1862
-140457254,OWASP/Amass,Go,304
+191655189,facebook/ent,Go,1861
+140457254,OWASP/Amass,Go,303
 140412864,kgretzky/evilginx2,Go,137
 111455867,smartcontractkit/chainlink,Go,175
 193681111,filecoin-project/lotus,Go,117

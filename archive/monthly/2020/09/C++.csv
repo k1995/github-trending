@@ -1,18 +1,18 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,825
-1181927,bitcoin/bitcoin,C++,605
-65600975,pytorch/pytorch,C++,902
+9384267,electron/electron,C++,827
+1181927,bitcoin/bitcoin,C++,613
+65600975,pytorch/pytorch,C++,904
 22067521,ocornut/imgui,C++,1365
 39840932,google/googletest,C++,752
-60273704,mozilla/DeepSpeech,C++,459
+60273704,mozilla/DeepSpeech,C++,458
 13862381,DrKLO/Telegram,C++,246
-120887835,huihut/interview,C++,701
+120887835,huihut/interview,C++,702
 74660642,taichi-dev/taichi,C++,448
-60246359,ClickHouse/ClickHouse,C++,529
+60246359,ClickHouse/ClickHouse,C++,534
 81227005,facebookresearch/faiss,C++,332
-68312233,microsoft/vcpkg,C++,363
+68312233,microsoft/vcpkg,C++,364
 191820100,google/mediapipe,C++,687
-75821432,llvm/llvm-project,C++,349
+75821432,llvm/llvm-project,C++,350
 192025001,Qv2ray/Qv2ray,C++,625
 15122806,google/benchmark,C++,103
 130068982,taskflow/taskflow,C++,170
@@ -23,4 +23,4 @@ id,name,lang,new stars
 16256144,RobotLocomotion/drake,C++,70
 283410102,sogou/workflow,C++,697
 223904726,wang-xinyu/tensorrtx,C++,200
-206138137,alphacep/vosk-api,C++,90
+206138137,alphacep/vosk-api,C++,89
