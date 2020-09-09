@@ -1,16 +1,17 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,465
-70104825,dotnet-architecture/eShopOnContainers,C#,339
-199570071,2dust/v2rayN,C#,845
+17620347,dotnet/aspnetcore,C#,467
+70104825,dotnet-architecture/eShopOnContainers,C#,341
+199570071,2dust/v2rayN,C#,850
 29078997,dotnet/roslyn,C#,138
 28239455,dotnet/AspNetCore.Docs,C#,138
+126486701,Unity-Technologies/UnityCsReference,C#,111
+28232663,dotnet/orleans,C#,98
 75990888,dotnet/csharplang,C#,88
 22456440,ppy/osu,C#,180
 69673033,ardalis/CleanArchitecture,C#,187
 54213490,xamarin/Xamarin.Forms,C#,143
-41589439,MathewSachin/Captura,C#,418
+41589439,MathewSachin/Captura,C#,422
 64753043,Perfare/AssetStudio,C#,199
-2419727,0xd4d/de4dot,C#,99
 113807330,migueldeicaza/gui.cs,C#,255
 31335300,PrismLibrary/Prism,C#,102
 27251463,QuantConnect/Lean,C#,112
@@ -22,5 +23,4 @@ id,name,lang,new stars
 162222002,dotnetcore/FreeSql,C#,190
 77703410,Perfare/Il2CppDumper,C#,144
 2928944,Azure/azure-sdk-for-net,C#,50
-253221768,QianMo/X-PostProcessing-Library,C#,175
 77180761,xamarin/XamarinCommunityToolkit,C#,123

@@ -1,5 +1,4 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,54
 65252,jekyll/jekyll,Ruby,66
 27442967,fastlane/fastlane,Ruby,53
 13840241,freeCodeCamp/devdocs,Ruby,55
@@ -8,7 +7,6 @@ id,name,lang,new stars
 481872,hashicorp/vagrant,Ruby,50
 3623050,Homebrew/homebrew-cask,Ruby,33
 538746,ruby/ruby,Ruby,94
-1090311,elastic/logstash,Ruby,12
 106995,sinatra/sinatra,Ruby,12
 4095287,rubocop-hq/rubocop,Ruby,12
 585285,gollum/gollum,Ruby,36
@@ -17,10 +15,12 @@ id,name,lang,new stars
 15435,Shopify/liquid,Ruby,17
 52855516,Homebrew/homebrew-core,Ruby,36
 21829,thoughtbot/factory_bot,Ruby,8
-447184,rspec/rspec-rails,Ruby,8
-52316423,luggit/react-native-config,Ruby,14
-95798441,athityakumar/colorls,Ruby,15
+108278,chef/chef,Ruby,17
+38867,svenfuchs/rails-i18n,Ruby,2
 1172597,thoughtbot/shoulda-matchers,Ruby,7
 3898922,zammad/zammad,Ruby,13
+11426474,github/choosealicense.com,Ruby,14
 34840276,elastic/ansible-elasticsearch,Ruby,5
-10088951,TheOdinProject/theodinproject,Ruby,11
+2376,ActsAsParanoid/acts_as_paranoid,Ruby,10
+290210709,anwarmamat/cmsc330fall20,Ruby,12
+46371661,learn-co-curriculum/sinatra-from-scratch-readme,Ruby,0
