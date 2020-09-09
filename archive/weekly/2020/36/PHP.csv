@@ -1,8 +1,8 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,192
-3482588,danielmiessler/SecLists,PHP,132
+3482588,danielmiessler/SecLists,PHP,133
 458058,symfony/symfony,PHP,46
-7548986,laravel/framework,PHP,87
+7548986,laravel/framework,PHP,88
 1376664,Seldaek/monolog,PHP,45
 926544,slimphp/Slim,PHP,17
 4916869,ramsey/uuid,PHP,46
@@ -12,12 +12,12 @@ id,name,lang,new stars
 677464,doctrine/dbal,PHP,16
 7122594,directus/directus,PHP,43
 6660366,dompdf/dompdf,PHP,25
-170355508,livewire/livewire,PHP,204
+170355508,livewire/livewire,PHP,208
 14716368,invoiceninja/invoiceninja,PHP,26
 23056580,laravel/socialite,PHP,21
 145865941,laravel/telescope,PHP,19
 74386167,vimeo/psalm,PHP,21
-76064827,mailcow/mailcow-dockerized,PHP,26
+76064827,mailcow/mailcow-dockerized,PHP,27
 38200433,jeroennoten/Laravel-AdminLTE,PHP,17
 6495081,wikimedia/mediawiki,PHP,15
 39182755,glpi-project/glpi,PHP,11
