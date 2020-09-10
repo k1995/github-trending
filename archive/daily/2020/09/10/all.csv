@@ -6,16 +6,16 @@ id,name,lang,new stars
 16563587,cockroachdb/cockroach,Go,15
 6297520,quantopian/zipline,Python,8
 212613049,cli/cli,Go,19
-237791077,mingrammer/diagrams,Python,431
+237791077,mingrammer/diagrams,Python,441
 134164777,crossoverJie/cim,Java,76
-144863525,EthicalML/awesome-production-machine-learning,,126
+144863525,EthicalML/awesome-production-machine-learning,,125
 85371262,williamfiset/Algorithms,Java,205
-107286889,schollz/croc,Go,418
-224362151,Hunlongyu/ZY-Player,Vue,275
+107286889,schollz/croc,Go,259
+224362151,Hunlongyu/ZY-Player,Vue,268
+277168957,eugeneyan/applied-ml,,300
 156939672,microsoft/onnxruntime,C++,27
-277168957,eugeneyan/applied-ml,,391
-292790829,google/eleventy-high-performance-blog,JavaScript,379
-260800773,huangsam/ultimate-python,Python,297
+292790829,google/eleventy-high-performance-blog,JavaScript,360
+260800773,huangsam/ultimate-python,Python,202
 291805291,laravel/jetstream,PHP,94
 4127088,Azure/azure-sdk-for-python,Python,6
 132754148,stefan-jansen/machine-learning-for-trading,Jupyter Notebook,23
