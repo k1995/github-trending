@@ -1,14 +1,14 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,67
+65252,jekyll/jekyll,Ruby,65
 27442967,fastlane/fastlane,Ruby,52
-13840241,freeCodeCamp/devdocs,Ruby,62
-2293158,rapid7/metasploit-framework,Ruby,69
+13840241,freeCodeCamp/devdocs,Ruby,65
+2293158,rapid7/metasploit-framework,Ruby,70
 308770,heartcombo/devise,Ruby,22
 481872,hashicorp/vagrant,Ruby,53
 2203645,CocoaPods/CocoaPods,Ruby,18
 106995,sinatra/sinatra,Ruby,14
 4095287,rubocop-hq/rubocop,Ruby,14
-3314,spree/spree,Ruby,23
+3314,spree/spree,Ruby,22
 96395,faker-ruby/faker,Ruby,21
 15435,Shopify/liquid,Ruby,20
 108278,chef/chef,Ruby,18
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1172597,thoughtbot/shoulda-matchers,Ruby,6
 115859973,ddnexus/pagy,Ruby,12
 3898922,zammad/zammad,Ruby,12
-11426474,github/choosealicense.com,Ruby,13
-34840276,elastic/ansible-elasticsearch,Ruby,6
-2376,ActsAsParanoid/acts_as_paranoid,Ruby,11
-290210709,anwarmamat/cmsc330fall20,Ruby,11
+11426474,github/choosealicense.com,Ruby,12
+34840276,elastic/ansible-elasticsearch,Ruby,7
+2376,ActsAsParanoid/acts_as_paranoid,Ruby,12
+290210709,anwarmamat/cmsc330fall20,Ruby,10

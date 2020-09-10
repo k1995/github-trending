@@ -1,15 +1,15 @@
 id,name,lang,new stars
-156018,redis/redis,C,25
-1614410,FFmpeg/FFmpeg,C,29
-5101141,stedolan/jq,C,9
+156018,redis/redis,C,21
+1614410,FFmpeg/FFmpeg,C,32
+5101141,stedolan/jq,C,11
 7634677,openssl/openssl,C,8
-5254557,cloudwu/skynet,C,6
+5254557,cloudwu/skynet,C,7
 95133665,s-matyukevich/raspberry-pi-os,C,11
 1856976,libevent/libevent,C,9
 18106269,lz4/lz4,C,5
 13310527,jemalloc/jemalloc,C,4
 6376337,pocoproject/poco,C,8
-184909163,koekeishiya/yabai,C,22
+184909163,koekeishiya/yabai,C,21
 849692,ZipArchive/ZipArchive,C,3
 5870069,edenhill/librdkafka,C,3
 2755696,mattn/go-sqlite3,C,2
@@ -19,8 +19,8 @@ id,name,lang,new stars
 50272879,pjsip/pjproject,C,5
 289169806,dog-qiuqiu/Yolo-Fastest,C,122
 80611216,open5gs/open5gs,C,2
-191218735,AOMediaCodec/libavif,C,4
-222137237,G4lile0/ESP32-WiFi-Hash-Monster,C,59
+191218735,AOMediaCodec/libavif,C,3
+222137237,G4lile0/ESP32-WiFi-Hash-Monster,C,61
 53432472,Azure/sonic-buildimage,C,1
-73586915,fvwmorg/fvwm3,C,0
+73586915,fvwmorg/fvwm3,C,1
 293316071,bellard/quickjs,C,19

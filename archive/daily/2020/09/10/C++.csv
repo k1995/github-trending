@@ -7,13 +7,13 @@ id,name,lang,new stars
 11171548,nlohmann/json,C++,14
 22394357,osquery/osquery,C++,8
 39840932,google/googletest,C++,13
-81887991,microsoft/AirSim,C++,8
+81887991,microsoft/AirSim,C++,7
 2649214,arangodb/arangodb,C++,11
 95879426,Tencent/ncnn,C++,13
 1204412,TrinityCore/TrinityCore,C++,4
 154201259,facebook/hermes,C++,1
 37821236,SaschaWillems/Vulkan,C++,7
-221822577,Tencent/Hippy,C++,7
+221822577,Tencent/Hippy,C++,8
 5298790,PX4/Firmware,C++,4
 156939672,microsoft/onnxruntime,C++,27
 105566333,google/oboe,C++,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 52400453,IntelRealSense/realsense-ros,C++,0
 244694174,project-chip/connectedhomeip,C++,92
 173082561,uzh-rpg/rpg_information_field,C++,9
-262049535,PacktPublishing/Hands-On-Machine-Learning-with-CPP,C++,8
+262049535,PacktPublishing/Hands-On-Machine-Learning-with-CPP,C++,7
