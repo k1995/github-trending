@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,72
+1863329,laravel/laravel,PHP,78
 458058,symfony/symfony,PHP,5
 1864363,composer/composer,PHP,11
 7548986,laravel/framework,PHP,11
@@ -14,13 +14,13 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,3
 597887,doctrine/orm,PHP,1
 364315,predis/predis,PHP,2
-170355508,livewire/livewire,PHP,82
+170355508,livewire/livewire,PHP,72
 23056580,laravel/socialite,PHP,8
 14346979,snipe/snipe-it,PHP,0
 30915528,spatie/laravel-backup,PHP,4
 10883164,barryvdh/laravel-dompdf,PHP,3
 6495081,wikimedia/mediawiki,PHP,3
 29501260,api-platform/core,PHP,0
-291805291,laravel/jetstream,PHP,175
+291805291,laravel/jetstream,PHP,171
 111562942,statamic/cms,PHP,5
 22957733,laravel/installer,PHP,6
