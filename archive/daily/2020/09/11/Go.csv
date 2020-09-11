@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,12
+20904437,gin-gonic/gin,Go,53
+16563587,cockroachdb/cockroach,Go,55
+12574344,spf13/cobra,Go,10
+13628513,sirupsen/logrus,Go,15
+212613049,cli/cli,Go,215
+6247705,stretchr/testify,Go,16
+129717717,grafana/loki,Go,17
+192632000,dapr/dapr,Go,20
+54230994,coredns/coredns,Go,6
+97533102,halfrost/LeetCode-Go,Go,219
+133067498,kubernetes-sigs/kustomize,Go,11
+107286889,schollz/croc,Go,253
+28366058,docker/distribution,Go,1
+68964263,prometheus-operator/prometheus-operator,Go,6
+12332444,onsi/ginkgo,Go,2
+41288708,sourcegraph/sourcegraph,Go,2
+67793333,cortexproject/cortex,Go,4
+74499101,roboll/helmfile,Go,5
+22883982,vmware/govmomi,Go,3
+107556189,kubernetes/sample-controller,Go,3
+84575398,containernetworking/plugins,Go,3
+139308927,gookit/color,Go,6
+286729329,zu1k/proxypool,,13
+291554532,mitchellh/go-glint,Go,33
