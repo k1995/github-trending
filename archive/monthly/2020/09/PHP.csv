@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,775
+1863329,laravel/laravel,PHP,786
 458058,symfony/symfony,PHP,186
-7548986,laravel/framework,PHP,304
+7548986,laravel/framework,PHP,305
 2889328,WordPress/WordPress,PHP,143
-53783664,easychen/howto-make-more-money,PHP,357
-60243197,nextcloud/server,PHP,287
+53783664,easychen/howto-make-more-money,PHP,360
+60243197,nextcloud/server,PHP,288
 7704544,Intervention/image,PHP,119
 14732311,octobercms/october,PHP,103
 48796179,z-song/laravel-admin,PHP,269
 14259390,Maatwebsite/Laravel-Excel,PHP,138
 2884111,magento/magento2,PHP,142
-11340559,deployphp/deployer,PHP,83
+11340559,deployphp/deployer,PHP,84
 677464,doctrine/dbal,PHP,112
 364315,predis/predis,PHP,81
 2179920,woocommerce/woocommerce,PHP,104
@@ -18,7 +18,7 @@ id,name,lang,new stars
 170355508,livewire/livewire,PHP,664
 23056580,laravel/socialite,PHP,62
 158374929,beyondcode/laravel-websockets,PHP,96
-47508644,pterodactyl/panel,PHP,64
+47508644,pterodactyl/panel,PHP,65
 100339187,jsdecena/laracom,PHP,54
 189104054,laravel/ui,PHP,59
 230926110,qkqpttgf/OneManager-php,PHP,117

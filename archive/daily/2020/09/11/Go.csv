@@ -1,11 +1,11 @@
 id,name,lang,new stars
 7691631,moby/moby,Go,12
 20904437,gin-gonic/gin,Go,53
-16563587,cockroachdb/cockroach,Go,55
+16563587,cockroachdb/cockroach,Go,47
 12574344,spf13/cobra,Go,10
-13628513,sirupsen/logrus,Go,15
-212613049,cli/cli,Go,215
-6247705,stretchr/testify,Go,16
+13628513,sirupsen/logrus,Go,16
+212613049,cli/cli,Go,121
+6247705,stretchr/testify,Go,14
 129717717,grafana/loki,Go,17
 192632000,dapr/dapr,Go,20
 54230994,coredns/coredns,Go,6

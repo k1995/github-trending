@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,305
-3482588,danielmiessler/SecLists,PHP,121
-458058,symfony/symfony,PHP,45
-7548986,laravel/framework,PHP,78
+1863329,laravel/laravel,PHP,316
+3482588,danielmiessler/SecLists,PHP,122
+458058,symfony/symfony,PHP,46
+7548986,laravel/framework,PHP,80
 1376664,Seldaek/monolog,PHP,36
 4916869,ramsey/uuid,PHP,54
 14732311,octobercms/october,PHP,25
-622166,FriendsOfPHP/Goutte,PHP,18
+622166,FriendsOfPHP/Goutte,PHP,20
 597887,doctrine/orm,PHP,11
-7122594,directus/directus,PHP,42
+7122594,directus/directus,PHP,43
 6660366,dompdf/dompdf,PHP,28
-2717549,Sylius/Sylius,PHP,13
+2717549,Sylius/Sylius,PHP,14
 170355508,livewire/livewire,PHP,288
 23056580,laravel/socialite,PHP,28
 158374929,beyondcode/laravel-websockets,PHP,21
@@ -18,9 +18,9 @@ id,name,lang,new stars
 148129143,bagisto/bagisto,PHP,42
 38200433,jeroennoten/Laravel-AdminLTE,PHP,15
 29501260,api-platform/core,PHP,7
-291805291,laravel/jetstream,PHP,817
+291805291,laravel/jetstream,PHP,821
 189104054,laravel/ui,PHP,16
 36608028,brick/money,PHP,60
-263720853,blade-ui-kit/blade-ui-kit,PHP,168
+263720853,blade-ui-kit/blade-ui-kit,PHP,170
 36526302,pentestmonkey/php-reverse-shell,PHP,15
-291804966,laravel/fortify,PHP,104
+291804966,laravel/fortify,PHP,105
