@@ -1,16 +1,16 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,11
-8681349,huginn/huginn,Ruby,26
-2293158,rapid7/metasploit-framework,Ruby,7
+8681349,huginn/huginn,Ruby,22
+2293158,rapid7/metasploit-framework,Ruby,6
 308770,heartcombo/devise,Ruby,4
 73648678,forem/forem,Ruby,11
 1090311,elastic/logstash,Ruby,4
 106995,sinatra/sinatra,Ruby,2
-4095287,rubocop-hq/rubocop,Ruby,5
+4095287,rubocop-hq/rubocop,Ruby,6
 3195124,mperham/sidekiq,Ruby,4
 1918677,fluent/fluentd,Ruby,3
 8393,thoughtbot/paperclip,Ruby,0
-52855516,Homebrew/homebrew-core,Ruby,9
+52855516,Homebrew/homebrew-core,Ruby,7
 1333863,kaminari/kaminari,Ruby,0
 451035,heartcombo/simple_form,Ruby,0
 211588,paper-trail-gem/paper_trail,Ruby,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 241560,savonrb/savon,Ruby,0
 244452551,alexeygrigorev/data-science-interviews,Ruby,4
 93163073,dependabot/dependabot-core,Ruby,3
-34840276,elastic/ansible-elasticsearch,Ruby,2
+34840276,elastic/ansible-elasticsearch,Ruby,3
 56942570,Homebrew/linuxbrew-core,Ruby,1
 32104924,rails/sprockets,Ruby,0
