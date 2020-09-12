@@ -4,7 +4,7 @@ id,name,lang,new stars
 44838949,apple/swift,C++,20
 5108051,opencv/opencv,C++,33
 23357588,protocolbuffers/protobuf,C++,20
-65600975,pytorch/pytorch,C++,23
+65600975,pytorch/pytorch,C++,24
 11171548,nlohmann/json,C++,15
 6934395,facebook/rocksdb,C++,9
 22394357,osquery/osquery,C++,11
@@ -19,7 +19,7 @@ id,name,lang,new stars
 23086893,google/re2,C++,7
 19316619,monero-project/monero,C++,6
 112928128,relativty/Relativty,C++,214
-156939672,microsoft/onnxruntime,C++,109
+156939672,microsoft/onnxruntime,C++,106
 267792621,Tencent/TNN,C++,6
 244694174,project-chip/connectedhomeip,C++,122
 287706896,Tencent/puerts,C++,10
