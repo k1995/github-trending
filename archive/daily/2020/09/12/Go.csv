@@ -3,7 +3,7 @@ id,name,lang,new stars
 6838921,prometheus/prometheus,Go,19
 13124802,influxdata/influxdb,Go,6
 13628513,sirupsen/logrus,Go,18
-212613049,cli/cli,Go,132
+212613049,cli/cli,Go,134
 6247705,stretchr/testify,Go,12
 129717717,grafana/loki,Go,13
 11008207,vitessio/vitess,Go,8
@@ -12,7 +12,7 @@ id,name,lang,new stars
 7877397,jmoiron/sqlx,Go,6
 44344606,go-chi/chi,Go,17
 10270722,google/go-github,Go,3
-97533102,halfrost/LeetCode-Go,Go,308
+97533102,halfrost/LeetCode-Go,Go,340
 100982449,argoproj/argo,Go,8
 132145189,golangci/golangci-lint,Go,9
 59522149,gruntwork-io/terragrunt,Go,7

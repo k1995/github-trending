@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,310
+1863329,laravel/laravel,PHP,311
 3482588,danielmiessler/SecLists,PHP,134
 458058,symfony/symfony,PHP,40
 7548986,laravel/framework,PHP,76
-1376664,Seldaek/monolog,PHP,35
+1376664,Seldaek/monolog,PHP,36
 2253830,PHPMailer/PHPMailer,PHP,26
 5724990,briannesbitt/Carbon,PHP,33
 2889328,WordPress/WordPress,PHP,31
@@ -12,15 +12,15 @@ id,name,lang,new stars
 622166,FriendsOfPHP/Goutte,PHP,20
 597887,doctrine/orm,PHP,10
 6660366,dompdf/dompdf,PHP,26
-170355508,livewire/livewire,PHP,294
+170355508,livewire/livewire,PHP,298
 30171828,rappasoft/laravel-boilerplate,PHP,24
 23056580,laravel/socialite,PHP,24
 158374929,beyondcode/laravel-websockets,PHP,22
 76064827,mailcow/mailcow-dockerized,PHP,33
 148129143,bagisto/bagisto,PHP,42
-291805291,laravel/jetstream,PHP,661
+291805291,laravel/jetstream,PHP,664
 189104054,laravel/ui,PHP,20
 36608028,brick/money,PHP,60
-263720853,blade-ui-kit/blade-ui-kit,PHP,105
+263720853,blade-ui-kit/blade-ui-kit,PHP,104
 36526302,pentestmonkey/php-reverse-shell,PHP,15
-291804966,laravel/fortify,PHP,97
+291804966,laravel/fortify,PHP,99
