@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,311
-3482588,danielmiessler/SecLists,PHP,133
+1863329,laravel/laravel,PHP,312
+3482588,danielmiessler/SecLists,PHP,134
 458058,symfony/symfony,PHP,40
-7548986,laravel/framework,PHP,78
+7548986,laravel/framework,PHP,76
 1376664,Seldaek/monolog,PHP,35
-2253830,PHPMailer/PHPMailer,PHP,27
-5724990,briannesbitt/Carbon,PHP,33
+2253830,PHPMailer/PHPMailer,PHP,26
+5724990,briannesbitt/Carbon,PHP,32
 2889328,WordPress/WordPress,PHP,30
-8678290,barryvdh/laravel-ide-helper,PHP,37
+8678290,barryvdh/laravel-ide-helper,PHP,38
 14732311,octobercms/october,PHP,23
 622166,FriendsOfPHP/Goutte,PHP,20
 597887,doctrine/orm,PHP,10
@@ -16,11 +16,11 @@ id,name,lang,new stars
 30171828,rappasoft/laravel-boilerplate,PHP,24
 23056580,laravel/socialite,PHP,24
 158374929,beyondcode/laravel-websockets,PHP,22
-76064827,mailcow/mailcow-dockerized,PHP,32
+76064827,mailcow/mailcow-dockerized,PHP,33
 148129143,bagisto/bagisto,PHP,42
-291805291,laravel/jetstream,PHP,674
-189104054,laravel/ui,PHP,19
+291805291,laravel/jetstream,PHP,666
+189104054,laravel/ui,PHP,20
 36608028,brick/money,PHP,60
-263720853,blade-ui-kit/blade-ui-kit,PHP,118
-36526302,pentestmonkey/php-reverse-shell,PHP,13
+263720853,blade-ui-kit/blade-ui-kit,PHP,109
+36526302,pentestmonkey/php-reverse-shell,PHP,15
 291804966,laravel/fortify,PHP,95

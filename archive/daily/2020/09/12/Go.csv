@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,47
+6838921,prometheus/prometheus,Go,19
+13124802,influxdata/influxdb,Go,6
+13628513,sirupsen/logrus,Go,18
+212613049,cli/cli,Go,145
+6247705,stretchr/testify,Go,14
+129717717,grafana/loki,Go,13
+11008207,vitessio/vitess,Go,7
+5179099,go-redis/redis,Go,7
+16554739,elastic/beats,Go,2
+7877397,jmoiron/sqlx,Go,6
+44344606,go-chi/chi,Go,17
+10270722,google/go-github,Go,3
+97533102,halfrost/LeetCode-Go,Go,285
+100982449,argoproj/argo,Go,8
+132145189,golangci/golangci-lint,Go,9
+59522149,gruntwork-io/terragrunt,Go,7
+81497153,kubernetes-sigs/external-dns,Go,3
+67793333,cortexproject/cortex,Go,4
+58821882,grpc-ecosystem/go-grpc-middleware,Go,1
+206213815,chaos-mesh/chaos-mesh,Go,12
+12223350,cloudfoundry/cli,Go,2
+274625369,infracost/infracost,Go,39
+111540502,aliyun/alibaba-cloud-sdk-go,Go,0
+294191101,tailscale/depaware,Go,32
