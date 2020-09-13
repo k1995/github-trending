@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,321
+1863329,laravel/laravel,PHP,323
 3482588,danielmiessler/SecLists,PHP,135
 7548986,laravel/framework,PHP,75
 1376664,Seldaek/monolog,PHP,35
@@ -9,7 +9,7 @@ id,name,lang,new stars
 622166,FriendsOfPHP/Goutte,PHP,19
 6660366,dompdf/dompdf,PHP,25
 330275,twigphp/Twig,PHP,12
-170355508,livewire/livewire,PHP,311
+170355508,livewire/livewire,PHP,316
 9131292,jenssegers/laravel-mongodb,PHP,19
 42261096,fuzzdb-project/fuzzdb,PHP,32
 23056580,laravel/socialite,PHP,25
@@ -18,7 +18,7 @@ id,name,lang,new stars
 148129143,bagisto/bagisto,PHP,40
 22751672,tecnickcom/TCPDF,PHP,11
 39182755,glpi-project/glpi,PHP,9
-291805291,laravel/jetstream,PHP,628
+291805291,laravel/jetstream,PHP,630
 258773185,laravel-frontend-presets/tall,PHP,27
 189104054,laravel/ui,PHP,22
 36608028,brick/money,PHP,62
