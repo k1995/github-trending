@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,317
+1863329,laravel/laravel,PHP,319
 3482588,danielmiessler/SecLists,PHP,134
 458058,symfony/symfony,PHP,41
 7548986,laravel/framework,PHP,75
-5724990,briannesbitt/Carbon,PHP,32
+5724990,briannesbitt/Carbon,PHP,33
 8678290,barryvdh/laravel-ide-helper,PHP,43
 14732311,octobercms/october,PHP,22
 2884111,magento/magento2,PHP,20
 622166,FriendsOfPHP/Goutte,PHP,19
 6660366,dompdf/dompdf,PHP,25
-170355508,livewire/livewire,PHP,304
+170355508,livewire/livewire,PHP,307
 9131292,jenssegers/laravel-mongodb,PHP,19
 30171828,rappasoft/laravel-boilerplate,PHP,24
 23056580,laravel/socialite,PHP,25
@@ -20,7 +20,7 @@ id,name,lang,new stars
 39182755,glpi-project/glpi,PHP,9
 291805291,laravel/jetstream,PHP,626
 189104054,laravel/ui,PHP,21
-36608028,brick/money,PHP,61
+36608028,brick/money,PHP,62
 263720853,blade-ui-kit/blade-ui-kit,PHP,94
 36526302,pentestmonkey/php-reverse-shell,PHP,17
 291804966,laravel/fortify,PHP,96
