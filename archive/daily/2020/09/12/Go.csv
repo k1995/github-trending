@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,46
+23096959,golang/go,Go,47
 20580498,kubernetes/kubernetes,Go,60
 29207621,caddyserver/caddy,Go,38
 29261473,minio/minio,Go,19
@@ -17,7 +17,7 @@ id,name,lang,new stars
 93444615,terraform-providers/terraform-provider-aws,Go,4
 59522149,gruntwork-io/terragrunt,Go,7
 36699285,linkedin/Burrow,Go,1
-74499101,roboll/helmfile,Go,2
+74499101,roboll/helmfile,Go,1
 193681111,filecoin-project/lotus,Go,4
 281694167,Mrs4s/go-cqhttp,Go,10
 287324029,meloalright/guora,Go,85

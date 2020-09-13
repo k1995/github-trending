@@ -1,0 +1,25 @@
+id,name,lang,new stars
+23096959,golang/go,Go,48
+20580498,kubernetes/kubernetes,Go,24
+29207621,caddyserver/caddy,Go,18
+29261473,minio/minio,Go,12
+17728164,hashicorp/terraform,Go,10
+31288958,hashicorp/vault,Go,10
+212613049,cli/cli,Go,29
+56342508,jaegertracing/jaeger,Go,5
+36071697,ory/hydra,Go,8
+167596393,derailed/k9s,Go,10
+87617508,casbin/casbin,Go,10
+97533102,halfrost/LeetCode-Go,Go,164
+11206255,Shopify/sarama,Go,4
+18906266,shirou/gopsutil,Go,7
+121086193,99designs/gqlgen,Go,7
+93444615,terraform-providers/terraform-provider-aws,Go,7
+59522149,gruntwork-io/terragrunt,Go,6
+36699285,linkedin/Burrow,Go,1
+74499101,roboll/helmfile,Go,1
+193681111,filecoin-project/lotus,Go,5
+281694167,Mrs4s/go-cqhttp,Go,12
+287324029,meloalright/guora,Go,15
+196414933,open-telemetry/opentelemetry-collector-contrib,Go,1
+281765424,microsoft/CBL-Mariner,Go,11
