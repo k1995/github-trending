@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,24
-3482588,danielmiessler/SecLists,PHP,18
-53783664,easychen/howto-make-more-money,PHP,5
+1863329,laravel/laravel,PHP,27
+3482588,danielmiessler/SecLists,PHP,17
+53783664,easychen/howto-make-more-money,PHP,3
 47495360,koel/koel,PHP,8
-82238168,monicahq/monica,PHP,6
+82238168,monicahq/monica,PHP,5
 42480275,spatie/laravel-permission,PHP,6
 77071207,laravel/tinker,PHP,5
-170355508,livewire/livewire,PHP,36
-17452080,lcobucci/jwt,PHP,5
+170355508,livewire/livewire,PHP,45
+17452080,lcobucci/jwt,PHP,6
 6763587,PrestaShop/PrestaShop,PHP,1
-42261096,fuzzdb-project/fuzzdb,PHP,7
+42261096,fuzzdb-project/fuzzdb,PHP,8
 136353180,doctrine/event-manager,PHP,5
 136353559,doctrine/persistence,PHP,4
 47508644,pterodactyl/panel,PHP,2
@@ -21,5 +21,5 @@ id,name,lang,new stars
 113842727,drehimself/laravel-ecommerce-example,PHP,1
 143975804,LycheeOrg/Lychee,PHP,9
 223535535,Ignitetch/AdvPhishing,PHP,2
-254005,opencats/OpenCATS,PHP,7
-293533625,hotmeteor/eco-cli,PHP,34
+254005,opencats/OpenCATS,PHP,9
+293533625,hotmeteor/eco-cli,PHP,32
