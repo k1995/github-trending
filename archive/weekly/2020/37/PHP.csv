@@ -1,9 +1,9 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,334
-3482588,danielmiessler/SecLists,PHP,146
+3482588,danielmiessler/SecLists,PHP,147
 7548986,laravel/framework,PHP,83
 1376664,Seldaek/monolog,PHP,38
-8678290,barryvdh/laravel-ide-helper,PHP,45
+8678290,barryvdh/laravel-ide-helper,PHP,46
 14732311,octobercms/october,PHP,22
 137515,mockery/mockery,PHP,19
 622166,FriendsOfPHP/Goutte,PHP,24
@@ -12,7 +12,7 @@ id,name,lang,new stars
 170355508,livewire/livewire,PHP,332
 9131292,jenssegers/laravel-mongodb,PHP,20
 42261096,fuzzdb-project/fuzzdb,PHP,36
-23056580,laravel/socialite,PHP,27
+23056580,laravel/socialite,PHP,28
 158374929,beyondcode/laravel-websockets,PHP,28
 76064827,mailcow/mailcow-dockerized,PHP,31
 148129143,bagisto/bagisto,PHP,40

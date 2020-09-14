@@ -2,7 +2,7 @@ id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,27
 60243197,nextcloud/server,PHP,13
 82238168,monicahq/monica,PHP,6
-2699935,squizlabs/PHP_CodeSniffer,PHP,5
+2699935,squizlabs/PHP_CodeSniffer,PHP,6
 2141186,opencart/opencart,PHP,3
 10371103,Laravel-Lang/lang,PHP,6
 42261096,fuzzdb-project/fuzzdb,PHP,7
@@ -21,5 +21,5 @@ id,name,lang,new stars
 107609428,php-fig/http-client,PHP,5
 36526302,pentestmonkey/php-reverse-shell,PHP,4
 143975804,LycheeOrg/Lychee,PHP,9
-223535535,Ignitetch/AdvPhishing,PHP,1
+223535535,Ignitetch/AdvPhishing,PHP,2
 293533625,hotmeteor/eco-cli,PHP,18
