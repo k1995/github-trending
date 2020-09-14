@@ -1,6 +1,6 @@
 id,name,lang,new stars
 44838949,apple/swift,C++,54
-65600975,pytorch/pytorch,C++,48
+65600975,pytorch/pytorch,C++,47
 184456251,microsoft/PowerToys,C++,122
 22067521,ocornut/imgui,C++,24
 11171548,nlohmann/json,C++,19
@@ -14,11 +14,11 @@ id,name,lang,new stars
 2200856,MarlinFirmware/Marlin,C++,19
 104231541,abseil/abseil-cpp,C++,9
 1204412,TrinityCore/TrinityCore,C++,3
-112928128,relativty/Relativty,C++,303
+112928128,relativty/Relativty,C++,317
 32736639,JoeyDeVries/LearnOpenGL,C++,5
-156939672,microsoft/onnxruntime,C++,122
-16327099,asmjit/asmjit,C++,42
-8243074,hzeller/rpi-rgb-led-matrix,C++,4
+156939672,microsoft/onnxruntime,C++,142
+16327099,asmjit/asmjit,C++,41
+8243074,hzeller/rpi-rgb-led-matrix,C++,3
 1084181,Warzone2100/warzone2100,C++,8
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,8
 265022750,google/makani,C++,556
