@@ -1,13 +1,10 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,28
 41912791,v2ray/v2ray-core,Go,20
 17728164,hashicorp/terraform,Go,18
-17803236,rclone/rclone,Go,38
 133251103,wagoodman/dive,Go,191
 37448451,mattermost/mattermost-server,Go,4
 272035489,greyireland/algorithm-pattern,Go,31
 192632000,dapr/dapr,Go,37
-97533102,halfrost/LeetCode-Go,Go,205
 116739828,DNSCrypt/dnscrypt-proxy,Go,8
 28366058,docker/distribution,Go,3
 191655189,facebook/ent,Go,16
@@ -20,7 +17,6 @@ id,name,lang,new stars
 248025303,p4gefau1t/trojan-go,Go,1
 50220146,mmcdole/gofeed,Go,17
 178249461,open-policy-agent/conftest,Go,1
-57912964,kubernetes/enhancements,Go,3
 207685110,geph-official/geph2,Go,3
 225197543,golang-design/history,Go,38
-294051203,0xsha/CloudBrute,Go,16
+294051203,0xsha/CloudBrute,Go,17
