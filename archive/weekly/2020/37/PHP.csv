@@ -1,14 +1,14 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,319
-3482588,danielmiessler/SecLists,PHP,136
+3482588,danielmiessler/SecLists,PHP,135
 458058,symfony/symfony,PHP,35
 7548986,laravel/framework,PHP,72
-8678290,barryvdh/laravel-ide-helper,PHP,40
+8678290,barryvdh/laravel-ide-helper,PHP,41
 137515,mockery/mockery,PHP,19
 2884111,magento/magento2,PHP,18
-622166,FriendsOfPHP/Goutte,PHP,17
-6660366,dompdf/dompdf,PHP,22
-170355508,livewire/livewire,PHP,311
+622166,FriendsOfPHP/Goutte,PHP,18
+6660366,dompdf/dompdf,PHP,20
+170355508,livewire/livewire,PHP,309
 9131292,jenssegers/laravel-mongodb,PHP,19
 30171828,rappasoft/laravel-boilerplate,PHP,26
 23056580,laravel/socialite,PHP,23
@@ -18,9 +18,9 @@ id,name,lang,new stars
 148129143,bagisto/bagisto,PHP,48
 1953386,stripe/stripe-php,PHP,9
 22751672,tecnickcom/TCPDF,PHP,10
-291805291,laravel/jetstream,PHP,548
+291805291,laravel/jetstream,PHP,546
 189104054,laravel/ui,PHP,22
-36608028,brick/money,PHP,38
+36608028,brick/money,PHP,37
 174021137,inertiajs/pingcrm,PHP,21
-36526302,pentestmonkey/php-reverse-shell,PHP,16
+36526302,pentestmonkey/php-reverse-shell,PHP,15
 291804966,laravel/fortify,PHP,96

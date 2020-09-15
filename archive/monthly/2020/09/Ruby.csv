@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,260
+8514,rails/rails,Ruby,259
 65252,jekyll/jekyll,Ruby,267
-27442967,fastlane/fastlane,Ruby,344
-8681349,huginn/huginn,Ruby,321
-13840241,freeCodeCamp/devdocs,Ruby,257
-2293158,rapid7/metasploit-framework,Ruby,330
-308770,heartcombo/devise,Ruby,105
-3623050,Homebrew/homebrew-cask,Ruby,137
-538746,ruby/ruby,Ruby,224
+27442967,fastlane/fastlane,Ruby,343
+8681349,huginn/huginn,Ruby,322
+13840241,freeCodeCamp/devdocs,Ruby,256
+2293158,rapid7/metasploit-framework,Ruby,328
+308770,heartcombo/devise,Ruby,106
+3623050,Homebrew/homebrew-cask,Ruby,138
+538746,ruby/ruby,Ruby,223
 106995,sinatra/sinatra,Ruby,46
 3314,spree/spree,Ruby,89
 96395,faker-ruby/faker,Ruby,63
@@ -19,7 +19,7 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,39
 1314319,instructure/canvas-lms,Ruby,80
 1172597,thoughtbot/shoulda-matchers,Ruby,22
-244452551,alexeygrigorev/data-science-interviews,Ruby,804
+244452551,alexeygrigorev/data-science-interviews,Ruby,806
 3898922,zammad/zammad,Ruby,39
 46698467,ankane/strong_migrations,Ruby,32
 14159669,Homebrew/homebrew-cask-versions,Ruby,16
