@@ -3,8 +3,8 @@ id,name,lang,new stars
 7691631,moby/moby,Go,13
 6838921,prometheus/prometheus,Go,23
 41986369,pingcap/tidb,Go,15
-17728164,hashicorp/terraform,Go,17
-133251103,wagoodman/dive,Go,145
+17728164,hashicorp/terraform,Go,18
+133251103,wagoodman/dive,Go,132
 14125254,hashicorp/consul,Go,10
 31288958,hashicorp/vault,Go,9
 13628513,sirupsen/logrus,Go,20
@@ -20,7 +20,7 @@ id,name,lang,new stars
 91851756,docker/docker-ce,Go,7
 140412864,kgretzky/evilginx2,Go,17
 67793333,cortexproject/cortex,Go,2
-58184885,kubernetes/kube-state-metrics,Go,4
+58184885,kubernetes/kube-state-metrics,Go,2
 161951219,wailsapp/wails,Go,14
-229030654,go-git/go-git,Go,8
+229030654,go-git/go-git,Go,6
 294825566,denverquane/amongusdiscord,Go,18
