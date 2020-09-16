@@ -1,7 +1,7 @@
 id,name,lang,new stars
 44838949,apple/swift,C++,69
 23357588,protocolbuffers/protobuf,C++,21
-65600975,pytorch/pytorch,C++,27
+65600975,pytorch/pytorch,C++,28
 11171548,nlohmann/json,C++,6
 39840932,google/googletest,C++,19
 74627617,commaai/openpilot,C++,7
@@ -23,4 +23,4 @@ id,name,lang,new stars
 223904726,wang-xinyu/tensorrtx,C++,5
 237647258,meshtastic/Meshtastic-device,C++,3
 219796516,prabhuomkar/pytorch-cpp,C++,14
-193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,12
+193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,11

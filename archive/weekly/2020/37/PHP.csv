@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,282
+1863329,laravel/laravel,PHP,276
 3482588,danielmiessler/SecLists,PHP,134
 458058,symfony/symfony,PHP,37
 1864363,composer/composer,PHP,47
-7548986,laravel/framework,PHP,65
+7548986,laravel/framework,PHP,66
 5724990,briannesbitt/Carbon,PHP,33
 8678290,barryvdh/laravel-ide-helper,PHP,40
 137515,mockery/mockery,PHP,16
 2884111,magento/magento2,PHP,13
-11340559,deployphp/deployer,PHP,22
+11340559,deployphp/deployer,PHP,23
 330275,twigphp/Twig,PHP,11
-170355508,livewire/livewire,Blade,303
+170355508,livewire/livewire,Blade,298
 9131292,jenssegers/laravel-mongodb,PHP,20
 42261096,fuzzdb-project/fuzzdb,PHP,35
 23056580,laravel/socialite,PHP,23
@@ -19,8 +19,8 @@ id,name,lang,new stars
 1953386,stripe/stripe-php,PHP,7
 22751672,tecnickcom/TCPDF,PHP,7
 31224950,artesaos/seotools,PHP,11
-291805291,laravel/jetstream,PHP,426
+291805291,laravel/jetstream,PHP,408
 189104054,laravel/ui,PHP,26
-174021137,inertiajs/pingcrm,PHP,24
+174021137,inertiajs/pingcrm,PHP,25
 36526302,pentestmonkey/php-reverse-shell,PHP,12
-291804966,laravel/fortify,PHP,118
+291804966,laravel/fortify,PHP,119
