@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,12
 27442967,fastlane/fastlane,Ruby,8
-53238813,Homebrew/brew,Ruby,16
-2293158,rapid7/metasploit-framework,Ruby,8
+53238813,Homebrew/brew,Ruby,15
+2293158,rapid7/metasploit-framework,Ruby,9
 308770,heartcombo/devise,Ruby,2
-1090311,elastic/logstash,Ruby,4
+1090311,elastic/logstash,Ruby,5
 4095287,rubocop-hq/rubocop,Ruby,2
 88740103,postalhq/postal,Ruby,2
 1918677,fluent/fluentd,Ruby,5
 96395,faker-ruby/faker,Ruby,4
 47087,carrierwaveuploader/carrierwave,Ruby,0
-15435,Shopify/liquid,Ruby,3
+15435,Shopify/liquid,Ruby,4
 587311,omniauth/omniauth,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,0
 108278,chef/chef,Ruby,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 558790,zdennis/activerecord-import,Ruby,3
 417862,octokit/octokit.rb,Ruby,1
 4523235,asciidoctor/asciidoctor,Ruby,1
-30985840,solidusio/solidus,Ruby,3
+30985840,solidusio/solidus,Ruby,4
 49878403,zendesk/ruby-kafka,Ruby,0
 65914086,decidim/decidim,Ruby,2
