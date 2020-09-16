@@ -6,7 +6,7 @@ id,name,lang,new stars
 17728164,hashicorp/terraform,Go,16
 133251103,wagoodman/dive,Go,112
 14125254,hashicorp/consul,Go,11
-31288958,hashicorp/vault,Go,110
+31288958,hashicorp/vault,Go,73
 13628513,sirupsen/logrus,Go,20
 62091339,kubernetes/kops,Go,6
 6247705,stretchr/testify,Go,13
@@ -23,4 +23,4 @@ id,name,lang,new stars
 58184885,kubernetes/kube-state-metrics,Go,2
 161951219,wailsapp/wails,Go,14
 229030654,go-git/go-git,Go,6
-294825566,denverquane/amongusdiscord,Go,23
+294825566,denverquane/amongusdiscord,Go,22
