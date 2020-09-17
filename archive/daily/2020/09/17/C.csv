@@ -4,7 +4,7 @@ id,name,lang,new stars
 18666758,pjreddie/darknet,C,12
 569041,curl/curl,C,10
 7634677,openssl/openssl,C,7
-18496166,gentilkiwi/mimikatz,C,25
+18496166,gentilkiwi/mimikatz,C,26
 184981,memcached/memcached,C,3
 24993138,google/brotli,C,8
 65899476,espressif/esp-idf,C,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 138679609,cppla/ServerStatus,C,7
 262091731,sm64pc/sm64ex,C,8
 15768646,vedderb/bldc,C,3
-294470474,spawnfest/bakeware,C,63
+294470474,spawnfest/bakeware,C,67
 274877920,nccgroup/nccfsas,C,28
