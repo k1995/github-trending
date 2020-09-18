@@ -1,18 +1,18 @@
 id,name,lang,new stars
 10744183,netdata/netdata,C,514
 10446890,bilibili/ijkplayer,C,234
-1614410,FFmpeg/FFmpeg,C,462
-14812739,libuv/libuv,C,248
+1614410,FFmpeg/FFmpeg,C,461
+14812739,libuv/libuv,C,247
 201454051,Awesome-HarmonyOS/HarmonyOS,C,1564
-196353673,taosdata/TDengine,C,618
-80286288,arendst/Tasmota,C,485
+196353673,taosdata/TDengine,C,619
+80286288,arendst/Tasmota,C,484
 34921116,iovisor/bcc,C,224
-246335987,ventoy/Ventoy,C,2305
+246335987,ventoy/Ventoy,C,2307
 5254557,cloudwu/skynet,C,121
-95133665,s-matyukevich/raspberry-pi-os,C,682
-67031040,upx/upx,C,267
+95133665,s-matyukevich/raspberry-pi-os,C,681
+67031040,upx/upx,C,268
 3319040,id-Software/DOOM,C,178
-437011,openzfs/zfs,C,84
+437011,openzfs/zfs,C,83
 65899476,espressif/esp-idf,C,159
 7408108,RT-Thread/rt-thread,C,261
 203957456,Tencent/TencentOS-tiny,C,130
@@ -22,5 +22,5 @@ id,name,lang,new stars
 23007417,colmap/colmap,C,124
 59676171,KevinOConnor/klipper,C,65
 241659610,OpenIntelWireless/itlwm,C,443
-213916896,blender/blender,C,254
+213916896,blender/blender,C,255
 211756905,MarlinFirmware/Configurations,C,54
