@@ -1,16 +1,16 @@
 id,name,lang,new stars
 507775,elastic/elasticsearch,Java,65
 6296790,spring-projects/spring-boot,Java,41
-1148753,spring-projects/spring-framework,Java,30
+1148753,spring-projects/spring-framework,Java,31
 5152285,square/okhttp,Java,17
 55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,8
 267775629,geekxh/hello-algorithm,Java,140
-2211243,apache/kafka,Java,14
+2211243,apache/kafka,Java,13
 131789494,wuyouzhuguli/SpringAll,Java,17
 20818126,google/ExoPlayer,Java,8
-137451403,alibaba/nacos,Java,36
+137451403,alibaba/nacos,Java,35
 28550872,Bigkoo/Android-PickerView,Java,5
-501687,antlr/antlr4,Java,12
+501687,antlr/antlr4,Java,11
 36817565,zaproxy/zaproxy,Java,4
 11125589,keycloak/keycloak,Java,12
 181012406,macrozheng/mall-learning,Java,19
@@ -18,9 +18,9 @@ id,name,lang,new stars
 89822531,Anuken/Mindustry,Java,7
 206317,apache/camel,Java,2
 30129939,citerus/dddsample-core,Java,5
-73963835,spring-cloud/spring-cloud-gateway,Java,3
+73963835,spring-cloud/spring-cloud-gateway,Java,2
 190964861,gyoogle/tech-interview-for-developer,Java,16
 222578036,WeiYe-Jing/datax-web,Java,6
 260712390,corona-warn-app/cwa-server,Java,0
 100753606,confluentinc/kafka-streams-examples,Java,2
-272672735,oracle/tribuo,Java,95
+272672735,oracle/tribuo,Java,89
