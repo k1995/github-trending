@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,804
+1863329,laravel/laravel,PHP,805
 3482588,danielmiessler/SecLists,PHP,540
 458058,symfony/symfony,PHP,178
-7548986,laravel/framework,PHP,301
-2889328,WordPress/WordPress,PHP,137
-53783664,easychen/howto-make-more-money,PHP,375
+7548986,laravel/framework,PHP,300
+2889328,WordPress/WordPress,PHP,139
+53783664,easychen/howto-make-more-money,PHP,376
 14732311,octobercms/october,PHP,106
-2884111,magento/magento2,PHP,146
-11340559,deployphp/deployer,PHP,90
+2884111,magento/magento2,PHP,147
+11340559,deployphp/deployer,PHP,91
 33904351,laravel/lumen,PHP,59
 2179920,woocommerce/woocommerce,PHP,102
 9131292,jenssegers/laravel-mongodb,PHP,71
@@ -22,5 +22,5 @@ id,name,lang,new stars
 189104054,laravel/ui,PHP,67
 230926110,qkqpttgf/OneManager-php,PHP,111
 111562942,statamic/cms,PHP,216
-36526302,pentestmonkey/php-reverse-shell,PHP,52
+36526302,pentestmonkey/php-reverse-shell,PHP,53
 223535535,Ignitetch/AdvPhishing,PHP,85

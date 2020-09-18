@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,72
+2325298,torvalds/linux,C,73
 1903522,php/php-src,C,5
 18666758,pjreddie/darknet,C,11
 569041,curl/curl,C,8
@@ -8,9 +8,9 @@ id,name,lang,new stars
 184981,memcached/memcached,C,1
 24993138,google/brotli,C,8
 65899476,espressif/esp-idf,C,5
-70127218,espressif/arduino-esp32,C,6
+70127218,espressif/arduino-esp32,C,7
 117948953,Atmosphere-NX/Atmosphere,C,7
-184909163,koekeishiya/yabai,C,16
+184909163,koekeishiya/yabai,C,15
 5870069,edenhill/librdkafka,C,8
 49995295,shellphish/how2heap,C,0
 59771425,zephyrproject-rtos/zephyr,C,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 138679609,cppla/ServerStatus,C,3
 262091731,sm64pc/sm64ex,C,6
 15768646,vedderb/bldc,C,1
-294470474,spawnfest/bakeware,C,250
+294470474,spawnfest/bakeware,C,255
 274877920,nccgroup/nccfsas,C,19
