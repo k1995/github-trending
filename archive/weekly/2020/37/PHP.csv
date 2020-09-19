@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,164
-1129010,blueimp/jQuery-File-Upload,PHP,18
+1863329,laravel/laravel,PHP,157
+1129010,blueimp/jQuery-File-Upload,PHP,17
 3482588,danielmiessler/SecLists,PHP,138
 2579314,fzaninotto/Faker,PHP,45
 1864363,composer/composer,PHP,39
@@ -11,16 +11,16 @@ id,name,lang,new stars
 2854337,phalcon/cphalcon,PHP,12
 2884111,magento/magento2,PHP,15
 11340559,deployphp/deployer,PHP,18
-12166778,googleapis/google-api-php-client,PHP,24
+12166778,googleapis/google-api-php-client,PHP,23
 2179920,woocommerce/woocommerce,PHP,22
-9131292,jenssegers/laravel-mongodb,PHP,15
+9131292,jenssegers/laravel-mongodb,PHP,16
 42261096,fuzzdb-project/fuzzdb,PHP,36
 2880469,Codeception/Codeception,PHP,7
-148129143,bagisto/bagisto,PHP,43
+148129143,bagisto/bagisto,PHP,44
 1953386,stripe/stripe-php,PHP,6
 74026995,CodelyTV/php-ddd-example,PHP,15
-189104054,laravel/ui,PHP,19
-111562942,statamic/cms,PHP,14
-174021137,inertiajs/pingcrm,PHP,20
+189104054,laravel/ui,PHP,18
+111562942,statamic/cms,PHP,13
+174021137,inertiajs/pingcrm,PHP,19
 25361672,OpenMage/magento-lts,PHP,8
-291804966,laravel/fortify,PHP,180
+291804966,laravel/fortify,PHP,181
