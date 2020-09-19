@@ -1,12 +1,12 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,19
+17620347,dotnet/aspnetcore,C#,18
 70104825,dotnet-architecture/eShopOnContainers,C#,11
 16157746,dotnet/efcore,C#,6
 28647218,chocolatey/choco,C#,5
 75990888,dotnet/csharplang,C#,8
 22456440,ppy/osu,C#,10
 23315232,mbdavid/LiteDB,C#,7
-54213490,xamarin/Xamarin.Forms,C#,1
+54213490,xamarin/Xamarin.Forms,C#,0
 2419727,0xd4d/de4dot,C#,4
 50605426,microsoft/MixedRealityToolkit-Unity,C#,0
 68730444,microsoft/BotBuilder-Samples,C#,4
@@ -19,7 +19,7 @@ id,name,lang,new stars
 83645818,ldqk/Masuit.Tools,C#,18
 168957647,kgrzybek/sample-dotnet-core-cqrs-api,C#,1
 252826419,Unity-Technologies/Graphics,C#,3
-263503250,Azure/bicep,C#,17
+263503250,Azure/bicep,C#,19
 245033131,proxysu/windows,C#,26
 262525452,SebLague/Solar-System,C#,4
 215889104,tom-weiland/tcp-udp-networking,C#,4
