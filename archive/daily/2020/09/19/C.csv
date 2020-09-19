@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,113
+2325298,torvalds/linux,C,165
 111583593,Genymobile/scrcpy,C,78
 4869294,radareorg/radare2,C,5
 102578345,coolsnowwolf/lede,C,24
-18496166,gentilkiwi/mimikatz,C,44
-613829,openresty/lua-nginx-module,C,3
+18496166,gentilkiwi/mimikatz,C,43
+613829,openresty/lua-nginx-module,C,5
 45821540,openwrt/openwrt,C,7
 30291090,i3/i3,C,11
 70127218,espressif/arduino-esp32,C,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 13352949,civetweb/civetweb,C,5
 206121828,FreeRTOS/FreeRTOS,C,7
 289169806,dog-qiuqiu/Yolo-Fastest,C,45
-172523426,xdp-project/xdp-tutorial,C,27
+172523426,xdp-project/xdp-tutorial,C,11
 296193855,rsmudge/ZeroLogon-BOF,C,16
