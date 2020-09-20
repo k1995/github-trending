@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,150
+1863329,laravel/laravel,PHP,151
 3482588,danielmiessler/SecLists,PHP,143
 2579314,fzaninotto/Faker,PHP,40
-7548986,laravel/framework,PHP,74
+7548986,laravel/framework,PHP,73
 2253830,PHPMailer/PHPMailer,PHP,38
-1305114,roots/sage,PHP,23
+1305114,roots/sage,PHP,25
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,24
 2699935,squizlabs/PHP_CodeSniffer,PHP,19
 12166778,googleapis/google-api-php-client,PHP,23
@@ -17,9 +17,9 @@ id,name,lang,new stars
 14724954,opensourcepos/opensourcepos,PHP,11
 291805291,laravel/jetstream,PHP,164
 44410131,xl7dev/WebShell,PHP,9
-189104054,laravel/ui,PHP,17
+189104054,laravel/ui,PHP,18
 111562942,statamic/cms,PHP,13
 174021137,inertiajs/pingcrm,PHP,18
 25361672,OpenMage/magento-lts,PHP,9
-291804966,laravel/fortify,PHP,185
+291804966,laravel/fortify,PHP,187
 36888692,spatie/package-skeleton-laravel,PHP,9
