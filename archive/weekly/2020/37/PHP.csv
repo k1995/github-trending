@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,150
+1863329,laravel/laravel,PHP,151
 3482588,danielmiessler/SecLists,PHP,143
 2579314,fzaninotto/Faker,PHP,40
 7548986,laravel/framework,PHP,74
 2253830,PHPMailer/PHPMailer,PHP,38
-1305114,roots/sage,PHP,23
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,24
+1305114,roots/sage,PHP,25
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,27
 2699935,squizlabs/PHP_CodeSniffer,PHP,19
 12166778,googleapis/google-api-php-client,PHP,23
 10238429,tennc/webshell,PHP,32
-9131292,jenssegers/laravel-mongodb,PHP,19
+9131292,jenssegers/laravel-mongodb,PHP,17
 42261096,fuzzdb-project/fuzzdb,PHP,34
-148129143,bagisto/bagisto,PHP,48
+148129143,bagisto/bagisto,PHP,50
 59965104,nuwave/lighthouse,PHP,18
 56836583,postaddictme/instagram-php-scraper,PHP,19
 14724954,opensourcepos/opensourcepos,PHP,11
@@ -19,7 +19,7 @@ id,name,lang,new stars
 44410131,xl7dev/WebShell,PHP,9
 189104054,laravel/ui,PHP,18
 111562942,statamic/cms,PHP,13
-174021137,inertiajs/pingcrm,PHP,19
-25361672,OpenMage/magento-lts,PHP,9
-291804966,laravel/fortify,PHP,189
+174021137,inertiajs/pingcrm,PHP,20
+25361672,OpenMage/magento-lts,PHP,11
+291804966,laravel/fortify,PHP,192
 36888692,spatie/package-skeleton-laravel,PHP,9

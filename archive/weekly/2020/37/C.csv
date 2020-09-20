@@ -1,20 +1,20 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,525
-10744183,netdata/netdata,C,151
-18666758,pjreddie/darknet,C,80
+2325298,torvalds/linux,C,530
+10744183,netdata/netdata,C,153
+18666758,pjreddie/darknet,C,81
 24586308,cfenollosa/os-tutorial,C,98
-201454051,Awesome-HarmonyOS/HarmonyOS,C,795
-102578345,coolsnowwolf/lede,C,139
-18496166,gentilkiwi/mimikatz,C,160
+201454051,Awesome-HarmonyOS/HarmonyOS,C,796
+102578345,coolsnowwolf/lede,C,142
+18496166,gentilkiwi/mimikatz,C,164
 24993138,google/brotli,C,47
-45821540,openwrt/openwrt,C,55
+45821540,openwrt/openwrt,C,56
 67031040,upx/upx,C,171
-63477515,TheAlgorithms/C,C,57
-70127218,espressif/arduino-esp32,C,30
-7408108,RT-Thread/rt-thread,C,122
+63477515,TheAlgorithms/C,C,58
+70127218,espressif/arduino-esp32,C,31
+7408108,RT-Thread/rt-thread,C,125
 89315980,SecWiki/windows-kernel-exploits,C,38
 203957456,Tencent/TencentOS-tiny,C,36
-187922067,microsoft/WSL2-Linux-Kernel,C,49
+187922067,microsoft/WSL2-Linux-Kernel,C,52
 67934190,LiteOS/LiteOS,C,41
 59771425,zephyrproject-rtos/zephyr,C,35
 5293802,lc-soft/LCUI,C,92
@@ -23,4 +23,4 @@ id,name,lang,new stars
 262091731,sm64pc/sm64ex,C,38
 289169806,dog-qiuqiu/Yolo-Fastest,C,124
 211756905,MarlinFirmware/Configurations,C,16
-293316071,bellard/quickjs,C,88
+293316071,bellard/quickjs,C,90
