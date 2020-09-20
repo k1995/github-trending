@@ -1,15 +1,15 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,15
+20580498,kubernetes/kubernetes,Go,14
 7691631,moby/moby,Go,34
-21540759,avelino/awesome-go,Go,20
+21540759,avelino/awesome-go,Go,36
 42408804,traefik/traefik,Go,13
 8989842,unknwon/the-way-to-go_ZH_CN,Go,8
 401025,github/hub,Go,5
-212613049,cli/cli,Go,794
+212613049,cli/cli,Go,778
 14956897,julienschmidt/httprouter,Go,6
 11593442,golang/groupcache,Go,5
-163883279,nektos/act,Go,11
-107286889,schollz/croc,Go,291
+163883279,nektos/act,Go,9
+107286889,schollz/croc,Go,298
 136505169,tinygo-org/tinygo,Go,4
 167304464,cortexlabs/cortex,Go,56
 205679232,flipped-aurora/gin-vue-admin,Go,6
