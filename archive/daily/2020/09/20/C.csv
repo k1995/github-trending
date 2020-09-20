@@ -1,6 +1,6 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,94
-111583593,Genymobile/scrcpy,C,49
+2325298,torvalds/linux,C,96
+111583593,Genymobile/scrcpy,C,54
 4869294,radareorg/radare2,C,2
 102578345,coolsnowwolf/lede,C,7
 18496166,gentilkiwi/mimikatz,C,42
@@ -16,11 +16,11 @@ id,name,lang,new stars
 8270972,ARMmbed/mbed-os,C,0
 17183871,esnet/iperf,C,5
 31570906,openvenues/libpostal,C,1
-6687936,ARMmbed/mbedtls,C,0
+6687936,ARMmbed/mbedtls,C,3
 58132544,RediSearch/RediSearch,C,2
 34807561,nanopb/nanopb,C,3
 13352949,civetweb/civetweb,C,6
-206121828,FreeRTOS/FreeRTOS,C,2
+206121828,FreeRTOS/FreeRTOS,C,3
 289169806,dog-qiuqiu/Yolo-Fastest,C,9
 172523426,xdp-project/xdp-tutorial,C,6
 296193855,rsmudge/ZeroLogon-BOF,C,12
