@@ -1,26 +1,26 @@
 id,name,lang,new stars
 507775,elastic/elasticsearch,Java,256
-71995937,nuxt/nuxt.js,JavaScript,227
+71995937,nuxt/nuxt.js,JavaScript,218
 6093316,DefinitelyTyped/DefinitelyTyped,TypeScript,209
-133251103,wagoodman/dive,Go,245
-39840932,google/googletest,C++,516
-13753636,jhipster/generator-jhipster,JavaScript,221
-212613049,cli/cli,Go,3842
-201454051,Awesome-HarmonyOS/HarmonyOS,C,311
-179164257,libra/libra,Rust,259
+133251103,wagoodman/dive,Go,237
+39840932,google/googletest,C++,524
+13753636,jhipster/generator-jhipster,JavaScript,202
+212613049,cli/cli,Go,3909
+201454051,Awesome-HarmonyOS/HarmonyOS,C,301
+179164257,libra/libra,Rust,245
 25050844,Carthage/Carthage,Swift,26
-77912349,qianguyihao/Web,JavaScript,214
-207645083,tannerlinsley/react-query,TypeScript,932
-193215554,n8n-io/n8n,TypeScript,357
-237791077,mingrammer/diagrams,Python,390
-107286889,schollz/croc,Go,1802
-5736080,FreeCAD/FreeCAD,C++,1008
-240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,972
-181042062,utmapp/UTM,Objective-C,60
-223881576,macrozheng/mall-swarm,Java,436
-275191143,PanDownloadServer/Server,HTML,949
-235860204,microsoft/DeepSpeed,Python,199
-145050544,ChristianChiarulli/nvim,Vim script,97
-108706901,Uniswap/uniswap-interface,TypeScript,70
+77912349,qianguyihao/Web,JavaScript,216
+207645083,tannerlinsley/react-query,TypeScript,942
+193215554,n8n-io/n8n,TypeScript,338
+237791077,mingrammer/diagrams,Python,370
+107286889,schollz/croc,Go,1834
+5736080,FreeCAD/FreeCAD,C++,1018
+240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,1019
+181042062,utmapp/UTM,Objective-C,61
+223881576,macrozheng/mall-swarm,Java,415
+275191143,PanDownloadServer/Server,HTML,932
+235860204,microsoft/DeepSpeed,Python,195
+145050544,ChristianChiarulli/nvim,Vim script,92
+108706901,Uniswap/uniswap-interface,TypeScript,67
 294191742,CleverProgrammers/react-challenge-amazon-clone,JavaScript,39
-286108332,prometheus-community/helm-charts,HTML,60
+286108332,prometheus-community/helm-charts,HTML,57
