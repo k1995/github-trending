@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,61
-111583593,Genymobile/scrcpy,C,70
+2325298,torvalds/linux,C,60
+111583593,Genymobile/scrcpy,C,67
 4869294,radareorg/radare2,C,7
-102578345,coolsnowwolf/lede,C,12
+102578345,coolsnowwolf/lede,C,13
 18496166,gentilkiwi/mimikatz,C,17
 613829,openresty/lua-nginx-module,C,7
 45821540,openwrt/openwrt,C,10
@@ -10,7 +10,7 @@ id,name,lang,new stars
 70127218,espressif/arduino-esp32,C,6
 117948953,Atmosphere-NX/Atmosphere,C,2
 54280778,DaveGamble/cJSON,C,8
-192805335,microsoft/mimalloc,C,1
+192805335,microsoft/mimalloc,C,0
 44781140,greenplum-db/gpdb,C,1
 59771425,zephyrproject-rtos/zephyr,C,2
 8270972,ARMmbed/mbed-os,C,4
