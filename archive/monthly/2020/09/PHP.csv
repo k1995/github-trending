@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,797
+1863329,laravel/laravel,PHP,799
 3482588,danielmiessler/SecLists,PHP,536
 458058,symfony/symfony,PHP,176
 7548986,laravel/framework,PHP,304
@@ -11,12 +11,12 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,96
 10238429,tennc/webshell,PHP,114
 23056580,laravel/socialite,PHP,62
-158374929,beyondcode/laravel-websockets,PHP,92
+158374929,beyondcode/laravel-websockets,PHP,93
 76064827,mailcow/mailcow-dockerized,PHP,104
 148129143,bagisto/bagisto,PHP,155
 1953386,stripe/stripe-php,PHP,36
 63073734,laravel/passport,PHP,46
-13044600,salesagility/SuiteCRM,PHP,50
+13044600,salesagility/SuiteCRM,PHP,49
 80249302,craftcms/cms,PHP,35
 47508644,pterodactyl/panel,PHP,71
 100339187,jsdecena/laracom,PHP,48
