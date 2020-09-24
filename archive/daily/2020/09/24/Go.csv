@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,35
 7691631,moby/moby,Go,40
-21540759,avelino/awesome-go,Go,41
+21540759,avelino/awesome-go,Go,43
 42408804,traefik/traefik,Go,26
 8989842,unknwon/the-way-to-go_ZH_CN,Go,16
 401025,github/hub,Go,4
@@ -9,7 +9,7 @@ id,name,lang,new stars
 14956897,julienschmidt/httprouter,Go,10
 11593442,golang/groupcache,Go,6
 107286889,schollz/croc,Go,311
-163883279,nektos/act,Go,16
+163883279,nektos/act,Go,15
 136505169,tinygo-org/tinygo,Go,6
 167304464,cortexlabs/cortex,Go,16
 205679232,flipped-aurora/gin-vue-admin,Go,24
