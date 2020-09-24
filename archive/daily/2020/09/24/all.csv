@@ -1,19 +1,19 @@
 id,name,lang,new stars
 7691631,moby/moby,Go,40
 65600975,pytorch/pytorch,C++,91
-128907699,iamkun/dayjs,JavaScript,145
+128907699,iamkun/dayjs,JavaScript,155
 74697963,HeroTransitions/Hero,Swift,49
 107595270,matterport/Mask_RCNN,Python,69
 39840932,google/googletest,C++,67
-137078487,vuejs/vue-next,TypeScript,167
+137078487,vuejs/vue-next,TypeScript,170
 71220757,swisskyrepo/PayloadsAllTheThings,Python,177
 33486016,onevcat/Kingfisher,Swift,56
-212613049,cli/cli,Go,455
+212613049,cli/cli,Go,475
 73561650,jaywcjlove/linux-command,HTML,101
-207645083,tannerlinsley/react-query,TypeScript,140
-92104803,mozilla/send,JavaScript,348
-128565937,iamadamdev/bypass-paywalls-chrome,JavaScript,134
-107286889,schollz/croc,Go,301
+207645083,tannerlinsley/react-query,TypeScript,158
+92104803,mozilla/send,JavaScript,386
+128565937,iamadamdev/bypass-paywalls-chrome,JavaScript,147
+107286889,schollz/croc,Go,320
 5736080,FreeCAD/FreeCAD,C++,105
 93947448,twintproject/twint,Python,91
 240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,119
@@ -21,6 +21,6 @@ id,name,lang,new stars
 184571651,material-shell/material-shell,JavaScript,186
 153866232,TheCherno/Hazel,C++,47
 283030627,microsoft/onefuzz,Rust,119
-294965042,gnebbia/kb,Python,139
+294965042,gnebbia/kb,Python,159
 245033131,proxysu/windows,C#,88
 294685606,snakers4/silero-models,Jupyter Notebook,31

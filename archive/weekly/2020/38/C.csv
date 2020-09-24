@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,512
-10744183,netdata/netdata,C,210
-18666758,pjreddie/darknet,C,67
+2325298,torvalds/linux,C,516
+10744183,netdata/netdata,C,216
+18666758,pjreddie/darknet,C,68
 24586308,cfenollosa/os-tutorial,C,80
-201454051,Awesome-HarmonyOS/HarmonyOS,C,246
-102578345,coolsnowwolf/lede,C,86
-18496166,gentilkiwi/mimikatz,C,176
-24993138,google/brotli,C,44
+201454051,Awesome-HarmonyOS/HarmonyOS,C,247
+102578345,coolsnowwolf/lede,C,87
+18496166,gentilkiwi/mimikatz,C,177
+24993138,google/brotli,C,46
 45821540,openwrt/openwrt,C,54
 67031040,upx/upx,C,57
 63477515,TheAlgorithms/C,C,44
@@ -20,7 +20,7 @@ id,name,lang,new stars
 5293802,lc-soft/LCUI,C,57
 18383364,openvswitch/ovs,C,7
 206121828,FreeRTOS/FreeRTOS,C,25
-262091731,sm64pc/sm64ex,C,41
+262091731,sm64pc/sm64ex,C,42
 289169806,dog-qiuqiu/Yolo-Fastest,C,90
 211756905,MarlinFirmware/Configurations,C,13
-293316071,bellard/quickjs,C,83
+293316071,bellard/quickjs,C,86
