@@ -3,7 +3,7 @@ id,name,lang,new stars
 107595270,matterport/Mask_RCNN,Python,70
 71220757,swisskyrepo/PayloadsAllTheThings,Python,179
 71932349,ray-project/ray,Python,19
-1385122,matplotlib/matplotlib,Python,4
+1385122,matplotlib/matplotlib,Python,8
 38696925,python-telegram-bot/python-telegram-bot,Python,17
 51620087,davidsandberg/facenet,Python,9
 204086862,streamlit/streamlit,Python,17
@@ -12,7 +12,7 @@ id,name,lang,new stars
 240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,148
 177059049,baowenbo/DAIN,Python,42
 732593,cloudera/hue,Python,6
-156401841,alan-turing-institute/sktime,Python,29
+156401841,alan-turing-institute/sktime,Python,33
 294965042,gnebbia/kb,Python,182
 275342509,lyhue1991/eat_pytorch_in_20_days,Python,20
 224386599,bridgecrewio/checkov,Python,8

@@ -1,26 +1,26 @@
 id,name,lang,new stars
 507775,elastic/elasticsearch,Java,209
-71995937,nuxt/nuxt.js,JavaScript,214
+71995937,nuxt/nuxt.js,JavaScript,218
 6093316,DefinitelyTyped/DefinitelyTyped,TypeScript,152
-133251103,wagoodman/dive,Go,214
-39840932,google/googletest,C++,520
+133251103,wagoodman/dive,Go,212
+39840932,google/googletest,C++,509
 13753636,jhipster/generator-jhipster,JavaScript,60
-212613049,cli/cli,Go,4819
-201454051,Awesome-HarmonyOS/HarmonyOS,C,243
-179164257,libra/libra,Rust,82
+212613049,cli/cli,Go,4798
+201454051,Awesome-HarmonyOS/HarmonyOS,C,246
+179164257,libra/libra,Rust,73
 25050844,Carthage/Carthage,Swift,25
-207645083,tannerlinsley/react-query,TypeScript,1137
-77912349,qianguyihao/Web,JavaScript,174
-193215554,n8n-io/n8n,TypeScript,154
-107286889,schollz/croc,Go,2344
-237791077,mingrammer/diagrams,Python,304
-5736080,FreeCAD/FreeCAD,C++,1199
-240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,1084
+207645083,tannerlinsley/react-query,TypeScript,1150
+77912349,qianguyihao/Web,JavaScript,171
+193215554,n8n-io/n8n,TypeScript,158
+107286889,schollz/croc,Go,2374
+237791077,mingrammer/diagrams,Python,298
+5736080,FreeCAD/FreeCAD,C++,1210
+240673792,lyhue1991/eat_tensorflow2_in_30_days,Python,1086
 181042062,utmapp/UTM,Objective-C,49
-223881576,macrozheng/mall-swarm,Java,273
-275191143,PanDownloadServer/Server,HTML,919
-235860204,microsoft/DeepSpeed,Python,141
-145050544,ChristianChiarulli/nvim,Vim script,80
-108706901,Uniswap/uniswap-interface,TypeScript,73
-294191742,CleverProgrammers/react-challenge-amazon-clone,JavaScript,33
-286108332,prometheus-community/helm-charts,HTML,54
+223881576,macrozheng/mall-swarm,Java,277
+275191143,PanDownloadServer/Server,HTML,924
+235860204,microsoft/DeepSpeed,Python,134
+145050544,ChristianChiarulli/nvim,Vim script,79
+108706901,Uniswap/uniswap-interface,TypeScript,70
+294191742,CleverProgrammers/react-challenge-amazon-clone,JavaScript,34
+286108332,prometheus-community/helm-charts,HTML,52
