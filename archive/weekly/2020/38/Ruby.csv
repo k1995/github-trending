@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,81
-8681349,huginn/huginn,Ruby,95
+8514,rails/rails,Ruby,78
+8681349,huginn/huginn,Ruby,97
 13840241,freeCodeCamp/devdocs,Ruby,53
-53238813,Homebrew/brew,Ruby,76
+53238813,Homebrew/brew,Ruby,77
 52281283,tootsuite/mastodon,Ruby,44
-2293158,rapid7/metasploit-framework,Ruby,76
+2293158,rapid7/metasploit-framework,Ruby,77
 308770,heartcombo/devise,Ruby,21
 37382858,kilimchoi/engineering-blogs,Ruby,32
-2203645,CocoaPods/CocoaPods,Ruby,23
-4095287,rubocop-hq/rubocop,Ruby,16
+2203645,CocoaPods/CocoaPods,Ruby,22
+4095287,rubocop-hq/rubocop,Ruby,17
 3195124,mperham/sidekiq,Ruby,24
 96395,faker-ruby/faker,Ruby,15
 15435,Shopify/liquid,Ruby,25
@@ -18,9 +18,9 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,6
 33739333,thoughtbot/administrate,Ruby,13
 30985840,solidusio/solidus,Ruby,6
-244452551,alexeygrigorev/data-science-interviews,Ruby,307
-950915,urbanadventurer/WhatWeb,Ruby,15
+244452551,alexeygrigorev/data-science-interviews,Ruby,301
+950915,urbanadventurer/WhatWeb,Ruby,16
 154027884,samber/awesome-prometheus-alerts,Ruby,25
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,7
 10088951,TheOdinProject/theodinproject,Ruby,10
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,12
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,11

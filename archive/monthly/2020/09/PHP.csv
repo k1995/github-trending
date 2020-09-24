@@ -9,10 +9,10 @@ id,name,lang,new stars
 11340559,deployphp/deployer,PHP,96
 33904351,laravel/lumen,PHP,58
 2179920,woocommerce/woocommerce,PHP,99
-10238429,tennc/webshell,PHP,111
+10238429,tennc/webshell,PHP,112
 23056580,laravel/socialite,PHP,64
-158374929,beyondcode/laravel-websockets,PHP,96
-76064827,mailcow/mailcow-dockerized,PHP,110
+158374929,beyondcode/laravel-websockets,PHP,97
+76064827,mailcow/mailcow-dockerized,PHP,111
 148129143,bagisto/bagisto,PHP,153
 1953386,stripe/stripe-php,PHP,34
 63073734,laravel/passport,PHP,44
@@ -22,5 +22,5 @@ id,name,lang,new stars
 100339187,jsdecena/laracom,PHP,48
 189104054,laravel/ui,PHP,71
 230926110,qkqpttgf/OneManager-php,PHP,98
-36526302,pentestmonkey/php-reverse-shell,PHP,48
+36526302,pentestmonkey/php-reverse-shell,PHP,49
 223535535,Ignitetch/AdvPhishing,PHP,76
