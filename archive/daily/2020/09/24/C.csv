@@ -8,7 +8,7 @@ id,name,lang,new stars
 45821540,openwrt/openwrt,C,4
 30291090,i3/i3,C,2
 70127218,espressif/arduino-esp32,C,6
-117948953,Atmosphere-NX/Atmosphere,C,2
+117948953,Atmosphere-NX/Atmosphere,C,3
 54280778,DaveGamble/cJSON,C,4
 192805335,microsoft/mimalloc,C,6
 44781140,greenplum-db/gpdb,C,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 206121828,FreeRTOS/FreeRTOS,C,3
 289169806,dog-qiuqiu/Yolo-Fastest,C,9
 172523426,xdp-project/xdp-tutorial,C,0
-296193855,rsmudge/ZeroLogon-BOF,C,2
+296193855,rsmudge/ZeroLogon-BOF,C,3
