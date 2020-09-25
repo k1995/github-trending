@@ -1,11 +1,11 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,65
-100060912,microsoft/terminal,C++,56
-65600975,pytorch/pytorch,C++,140
+100060912,microsoft/terminal,C++,54
+65600975,pytorch/pytorch,C++,116
 12791642,BVLC/caffe,C++,10
 27729880,grpc/grpc,C++,19
 11171548,nlohmann/json,C++,17
-39840932,google/googletest,C++,75
+39840932,google/googletest,C++,80
 22394357,osquery/osquery,C++,2
 74627617,commaai/openpilot,C++,16
 96246170,ApolloAuto/apollo,C++,14
@@ -13,10 +13,10 @@ id,name,lang,new stars
 114187903,apple/foundationdb,C++,2
 104732438,radareorg/cutter,C++,8
 310611,apache/thrift,C++,4
-5736080,FreeCAD/FreeCAD,C++,141
+5736080,FreeCAD/FreeCAD,C++,115
 15122806,google/benchmark,C++,5
 130068982,taskflow/taskflow,C++,12
-153866232,TheCherno/Hazel,C++,79
+153866232,TheCherno/Hazel,C++,61
 90506918,rapidsai/cudf,C++,8
 143131,danmar/cppcheck,C++,10
 32905910,solvespace/solvespace,C++,10
