@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,519
-10744183,netdata/netdata,C,218
-18666758,pjreddie/darknet,C,70
+2325298,torvalds/linux,C,520
+10744183,netdata/netdata,C,219
+18666758,pjreddie/darknet,C,71
 24586308,cfenollosa/os-tutorial,C,84
 201454051,Awesome-HarmonyOS/HarmonyOS,C,247
 102578345,coolsnowwolf/lede,C,87
-18496166,gentilkiwi/mimikatz,C,178
-24993138,google/brotli,C,46
+18496166,gentilkiwi/mimikatz,C,179
+24993138,google/brotli,C,47
 45821540,openwrt/openwrt,C,54
 67031040,upx/upx,C,59
 63477515,TheAlgorithms/C,C,45
@@ -14,13 +14,13 @@ id,name,lang,new stars
 7408108,RT-Thread/rt-thread,C,57
 89315980,SecWiki/windows-kernel-exploits,C,29
 203957456,Tencent/TencentOS-tiny,C,24
-187922067,microsoft/WSL2-Linux-Kernel,C,49
+187922067,microsoft/WSL2-Linux-Kernel,C,50
 67934190,LiteOS/LiteOS,C,15
-59771425,zephyrproject-rtos/zephyr,C,30
+59771425,zephyrproject-rtos/zephyr,C,31
 5293802,lc-soft/LCUI,C,57
 18383364,openvswitch/ovs,C,7
 206121828,FreeRTOS/FreeRTOS,C,25
 262091731,sm64pc/sm64ex,C,42
 289169806,dog-qiuqiu/Yolo-Fastest,C,90
 211756905,MarlinFirmware/Configurations,C,13
-293316071,bellard/quickjs,C,89
+293316071,bellard/quickjs,C,90
