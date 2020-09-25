@@ -1,14 +1,14 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,52
-7691631,moby/moby,Go,57
-21540759,avelino/awesome-go,Go,60
-42408804,traefik/traefik,Go,32
+7691631,moby/moby,Go,51
+21540759,avelino/awesome-go,Go,61
+42408804,traefik/traefik,Go,33
 8989842,unknwon/the-way-to-go_ZH_CN,Go,21
 401025,github/hub,Go,10
-212613049,cli/cli,Go,620
+212613049,cli/cli,Go,432
 14956897,julienschmidt/httprouter,Go,11
 11593442,golang/groupcache,Go,16
-107286889,schollz/croc,Go,414
+107286889,schollz/croc,Go,413
 163883279,nektos/act,Go,33
 136505169,tinygo-org/tinygo,Go,14
 167304464,cortexlabs/cortex,Go,14
@@ -16,7 +16,7 @@ id,name,lang,new stars
 99143276,vmware-tanzu/velero,Go,7
 92702519,bitnami-labs/sealed-secrets,Go,10
 66505292,GoesToEleven/golang-web-dev,Go,5
-155658556,smallstep/certificates,Go,7
+155658556,smallstep/certificates,Go,8
 154643390,sundowndev/PhoneInfoga,Go,3
 285864199,tal-tech/go-zero,Go,38
 154894457,open-policy-agent/gatekeeper,Go,4
