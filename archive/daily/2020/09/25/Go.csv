@@ -3,7 +3,7 @@ id,name,lang,new stars
 7691631,moby/moby,Go,48
 21540759,avelino/awesome-go,Go,60
 42408804,traefik/traefik,Go,31
-8989842,unknwon/the-way-to-go_ZH_CN,Go,21
+8989842,unknwon/the-way-to-go_ZH_CN,Go,14
 401025,github/hub,Go,6
 212613049,cli/cli,Go,620
 14956897,julienschmidt/httprouter,Go,8
@@ -11,11 +11,11 @@ id,name,lang,new stars
 107286889,schollz/croc,Go,413
 163883279,nektos/act,Go,33
 136505169,tinygo-org/tinygo,Go,13
-167304464,cortexlabs/cortex,Go,10
-205679232,flipped-aurora/gin-vue-admin,Go,30
+167304464,cortexlabs/cortex,Go,9
+205679232,flipped-aurora/gin-vue-admin,Go,21
 99143276,vmware-tanzu/velero,Go,7
 92702519,bitnami-labs/sealed-secrets,Go,9
-66505292,GoesToEleven/golang-web-dev,Go,3
+66505292,GoesToEleven/golang-web-dev,Go,4
 155658556,smallstep/certificates,Go,8
 154643390,sundowndev/PhoneInfoga,Go,1
 285864199,tal-tech/go-zero,Go,38
