@@ -1,8 +1,8 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,12
-538746,ruby/ruby,Ruby,11
-2203645,CocoaPods/CocoaPods,Ruby,5
-1090311,elastic/logstash,Ruby,5
+7569578,discourse/discourse,Ruby,7
+538746,ruby/ruby,Ruby,8
+2203645,CocoaPods/CocoaPods,Ruby,1
+1090311,elastic/logstash,Ruby,2
 106995,sinatra/sinatra,Ruby,4
 4095287,rubocop-hq/rubocop,Ruby,1
 1157388,tmuxinator/tmuxinator,Ruby,4
@@ -11,16 +11,16 @@ id,name,lang,new stars
 451035,heartcombo/simple_form,Ruby,2
 13761875,greatghoul/remote-working,Ruby,4
 108278,chef/chef,Ruby,2
-2441517,puma/puma,Ruby,3
+2441517,puma/puma,Ruby,2
 26018608,github-changelog-generator/github-changelog-generator,Ruby,1
 865250,presidentbeef/brakeman,Ruby,0
-75785147,rails/webpacker,Ruby,3
-33739333,thoughtbot/administrate,Ruby,4
+75785147,rails/webpacker,Ruby,2
+33739333,thoughtbot/administrate,Ruby,2
 202291859,chatwoot/chatwoot,Ruby,3
-30337170,rmosolgo/graphql-ruby,Ruby,2
+30337170,rmosolgo/graphql-ruby,Ruby,0
 96071,rack/rack,Ruby,2
-8472417,Shopify/identity_cache,Ruby,2
+8472417,Shopify/identity_cache,Ruby,1
 189010173,Hackplayers/evil-winrm,Ruby,4
 20789757,ManageIQ/manageiq,Ruby,1
-273854978,nguyenquangminh0711/ruby_jard,Ruby,17
-62409417,department-of-veterans-affairs/vets-api,Ruby,2
+273854978,nguyenquangminh0711/ruby_jard,Ruby,9
+62409417,department-of-veterans-affairs/vets-api,Ruby,0
