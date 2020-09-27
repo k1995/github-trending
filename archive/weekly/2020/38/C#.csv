@@ -1,6 +1,6 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,101
-70104825,dotnet-architecture/eShopOnContainers,C#,66
+17620347,dotnet/aspnetcore,C#,100
+70104825,dotnet-architecture/eShopOnContainers,C#,63
 13428264,ShareX/ShareX,C#,79
 29078997,dotnet/roslyn,C#,38
 1613345,StackExchange/Dapper,C#,34
@@ -8,19 +8,19 @@ id,name,lang,new stars
 9864166,App-vNext/Polly,C#,22
 28239455,dotnet/AspNetCore.Docs,C#,30
 22456440,ppy/osu,C#,28
-17369361,jbogard/MediatR,C#,33
-75505125,abpframework/abp,C#,44
-262395224,dotnet/maui,C#,84
+17369361,jbogard/MediatR,C#,32
+75505125,abpframework/abp,C#,43
+262395224,dotnet/maui,C#,85
 26884725,OrchardCMS/OrchardCore,C#,25
 76425236,EduardoPires/EquinoxProject,C#,18
-210716005,dotnet/runtime,C#,73
+210716005,dotnet/runtime,C#,74
 32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,18
 152370823,davidfowl/AspNetCoreDiagnosticScenarios,C#,12
 89448518,siteserver/cms,C#,18
 162222002,dotnetcore/FreeSql,C#,40
 119571446,dotnet/samples,C#,6
-216050620,Kinnara/ModernWpf,C#,31
-201188122,rocksdanister/lively,C#,28
+216050620,Kinnara/ModernWpf,C#,32
+201188122,rocksdanister/lively,C#,30
 63984307,dotnet/sdk,C#,5
 116398953,microsoft/powerapps-tools,C#,9
 263503250,Azure/bicep,C#,32
