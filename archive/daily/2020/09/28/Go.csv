@@ -1,19 +1,19 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,35
-7691631,moby/moby,Go,70
+20580498,kubernetes/kubernetes,Go,36
+7691631,moby/moby,Go,65
 21540759,avelino/awesome-go,Go,48
 42408804,traefik/traefik,Go,19
 8989842,unknwon/the-way-to-go_ZH_CN,Go,15
 401025,github/hub,Go,6
-212613049,cli/cli,Go,469
+212613049,cli/cli,Go,491
 14956897,julienschmidt/httprouter,Go,5
-107286889,schollz/croc,Go,276
+107286889,schollz/croc,Go,350
 11593442,golang/groupcache,Go,14
 163883279,nektos/act,Go,16
 136505169,tinygo-org/tinygo,Go,9
 167304464,cortexlabs/cortex,Go,6
 205679232,flipped-aurora/gin-vue-admin,Go,19
-99143276,vmware-tanzu/velero,Go,0
+99143276,vmware-tanzu/velero,Go,2
 92702519,bitnami-labs/sealed-secrets,Go,3
 66505292,GoesToEleven/golang-web-dev,Go,7
 155658556,smallstep/certificates,Go,7
