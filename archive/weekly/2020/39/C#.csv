@@ -1,13 +1,13 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,119
+17620347,dotnet/aspnetcore,C#,114
 70104825,dotnet-architecture/eShopOnContainers,C#,68
-13428264,ShareX/ShareX,C#,85
-29078997,dotnet/roslyn,C#,40
+13428264,ShareX/ShareX,C#,81
+29078997,dotnet/roslyn,C#,34
 1613345,StackExchange/Dapper,C#,35
 161012019,jellyfin/jellyfin,C#,55
 9864166,App-vNext/Polly,C#,24
-28239455,dotnet/AspNetCore.Docs,C#,31
-22456440,ppy/osu,C#,30
+28239455,dotnet/AspNetCore.Docs,C#,29
+22456440,ppy/osu,C#,31
 17369361,jbogard/MediatR,C#,33
 75505125,abpframework/abp,C#,45
 262395224,dotnet/maui,C#,87
@@ -20,7 +20,7 @@ id,name,lang,new stars
 162222002,dotnetcore/FreeSql,C#,41
 119571446,dotnet/samples,C#,6
 216050620,Kinnara/ModernWpf,C#,35
-201188122,rocksdanister/lively,C#,35
+201188122,rocksdanister/lively,C#,36
 63984307,dotnet/sdk,C#,7
 116398953,microsoft/powerapps-tools,C#,9
 263503250,Azure/bicep,C#,33
