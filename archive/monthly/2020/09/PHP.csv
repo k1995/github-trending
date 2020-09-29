@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,853
 3482588,danielmiessler/SecLists,PHP,537
-458058,symfony/symfony,PHP,189
-1864363,composer/composer,PHP,205
-7548986,laravel/framework,PHP,315
-1420053,guzzle/guzzle,PHP,166
+458058,symfony/symfony,PHP,190
+1864363,composer/composer,PHP,206
+7548986,laravel/framework,PHP,316
+1420053,guzzle/guzzle,PHP,167
 2889328,WordPress/WordPress,PHP,150
 53783664,easychen/howto-make-more-money,PHP,257
-23680678,tymondesigns/jwt-auth,PHP,123
+23680678,tymondesigns/jwt-auth,PHP,122
 622166,FriendsOfPHP/Goutte,PHP,84
 11340559,deployphp/deployer,PHP,105
 6660366,dompdf/dompdf,PHP,87
@@ -16,11 +16,11 @@ id,name,lang,new stars
 10238429,tennc/webshell,PHP,118
 23056580,laravel/socialite,PHP,66
 158374929,beyondcode/laravel-websockets,PHP,92
-76064827,mailcow/mailcow-dockerized,PHP,114
-148129143,bagisto/bagisto,PHP,164
+76064827,mailcow/mailcow-dockerized,PHP,115
+148129143,bagisto/bagisto,PHP,163
 63073734,laravel/passport,PHP,47
 13044600,salesagility/SuiteCRM,PHP,51
 232599652,laravel/sanctum,PHP,102
-189104054,laravel/ui,PHP,71
-262361837,tighten/takeout,PHP,447
-36526302,pentestmonkey/php-reverse-shell,PHP,44
+189104054,laravel/ui,PHP,72
+262361837,tighten/takeout,PHP,445
+36526302,pentestmonkey/php-reverse-shell,PHP,45

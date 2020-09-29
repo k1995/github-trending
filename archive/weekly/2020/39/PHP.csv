@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,183
+1863329,laravel/laravel,PHP,184
 3482588,danielmiessler/SecLists,PHP,116
-458058,symfony/symfony,PHP,52
-1864363,composer/composer,PHP,58
-7548986,laravel/framework,PHP,67
-1420053,guzzle/guzzle,PHP,45
+458058,symfony/symfony,PHP,53
+1864363,composer/composer,PHP,59
+7548986,laravel/framework,PHP,68
+1420053,guzzle/guzzle,PHP,46
 2889328,WordPress/WordPress,PHP,35
 1631570,nikic/PHP-Parser,PHP,39
 53783664,easychen/howto-make-more-money,PHP,117
-60243197,nextcloud/server,PHP,69
+60243197,nextcloud/server,PHP,68
 14732311,octobercms/october,PHP,24
 48796179,z-song/laravel-admin,PHP,40
-2884111,magento/magento2,PHP,24
+2884111,magento/magento2,PHP,23
 79111500,jupeter/clean-code-php,PHP,37
 677464,doctrine/dbal,PHP,22
 2179920,woocommerce/woocommerce,PHP,17
@@ -21,6 +21,6 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,19
 439861,moodle/moodle,PHP,13
 29126334,EasyCorp/EasyAdminBundle,PHP,11
-41463886,codeigniter4/CodeIgniter4,PHP,23
+41463886,codeigniter4/CodeIgniter4,PHP,22
 29054113,zyx0814/dzzoffice,PHP,23
 6322699,FreshRSS/FreshRSS,PHP,20
