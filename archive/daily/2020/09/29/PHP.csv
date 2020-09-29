@@ -1,20 +1,20 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,34
 3482588,danielmiessler/SecLists,PHP,16
-458058,symfony/symfony,PHP,11
+458058,symfony/symfony,PHP,8
 1376664,Seldaek/monolog,PHP,6
 5627682,serbanghita/Mobile-Detect,PHP,3
 2884111,magento/magento2,PHP,2
-61490598,PHPOffice/PhpSpreadsheet,PHP,7
+61490598,PHPOffice/PhpSpreadsheet,PHP,4
 6660366,dompdf/dompdf,PHP,1
 41589337,BookStackApp/BookStack,PHP,6
 14716368,invoiceninja/invoiceninja,PHP,4
 12204147,mautic/mautic,PHP,4
-10883164,barryvdh/laravel-dompdf,PHP,3
+10883164,barryvdh/laravel-dompdf,PHP,4
 39149031,webonyx/graphql-php,PHP,2
 3817881,zircote/swagger-php,PHP,2
-97311017,rectorphp/rector,PHP,3
-148129143,bagisto/bagisto,PHP,7
+97311017,rectorphp/rector,PHP,4
+148129143,bagisto/bagisto,PHP,8
 1953386,stripe/stripe-php,PHP,1
 3601728,hwi/HWIOAuthBundle,PHP,0
 18628501,lexik/LexikJWTAuthenticationBundle,PHP,1
