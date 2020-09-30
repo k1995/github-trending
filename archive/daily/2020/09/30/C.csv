@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,102
-111583593,Genymobile/scrcpy,C,38
+2325298,torvalds/linux,C,100
+111583593,Genymobile/scrcpy,C,39
 11715753,robertdavidgraham/masscan,C,2
 6201092,mpv-player/mpv,C,7
-29759715,facebook/zstd,C,8
+29759715,facebook/zstd,C,6
 102578345,coolsnowwolf/lede,C,12
-80286288,arendst/Tasmota,C,108
+80286288,arendst/Tasmota,C,109
 246335987,ventoy/Ventoy,C,32
-45821540,openwrt/openwrt,C,8
+45821540,openwrt/openwrt,C,6
 1856976,libevent/libevent,C,10
 75811015,Tencent/xLua,C,3
-35930805,EZLippi/Tinyhttpd,C,117
+35930805,EZLippi/Tinyhttpd,C,119
 2755696,mattn/go-sqlite3,C,5
 33339660,jerryscript-project/jerryscript,C,2
 273689548,peng-zhihui/L-ink_Card,C,18
@@ -22,5 +22,5 @@ id,name,lang,new stars
 91191972,contiki-ng/contiki-ng,C,2
 284421891,DTolm/VkFFT,C,24
 53432472,Azure/sonic-buildimage,C,0
-282472168,jankae/VNA2,C,20
+282472168,jankae/VNA2,C,19
 295548279,ultraembedded/FPGAmp,C,2

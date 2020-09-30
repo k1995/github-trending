@@ -2,7 +2,7 @@ id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,40
 20904437,gin-gonic/gin,Go,36
 133251103,wagoodman/dive,Go,27
-31288958,hashicorp/vault,Go,7
+31288958,hashicorp/vault,Go,6
 26337322,rancher/rancher,Go,8
 29217054,micro/go-micro,Go,11
 6051812,gorilla/mux,Go,11
@@ -13,14 +13,14 @@ id,name,lang,new stars
 34854605,Terry-Mao/goim,Go,11
 50629145,google/pprof,Go,3
 9120526,jackc/pgx,Go,6
-150713223,kubeedge/kubeedge,Go,44
+150713223,kubeedge/kubeedge,Go,41
 94779471,aquasecurity/kube-bench,Go,8
 27096595,googleapis/google-api-go-client,Go,1
 82572869,kubernetes-retired/external-storage,Go,1
-297165998,muesli/duf,Go,937
-295016801,blushft/go-diagrams,Go,353
+297165998,muesli/duf,Go,936
+295016801,blushft/go-diagrams,Go,348
 117377862,gardener/gardener,Go,2
 155368246,elastic/cloud-on-k8s,Go,0
-222258954,dstotijn/hetty,Go,157
+222258954,dstotijn/hetty,Go,162
 298060777,liamg/gitjacker,Go,27
 280658081,v2fly/domain-list-community,Go,2
