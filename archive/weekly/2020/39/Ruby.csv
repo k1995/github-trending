@@ -1,12 +1,12 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,63
-8681349,huginn/huginn,Ruby,115
+7569578,discourse/discourse,Ruby,65
+8681349,huginn/huginn,Ruby,114
 52281283,tootsuite/mastodon,Ruby,45
 2293158,rapid7/metasploit-framework,Ruby,66
-3623050,Homebrew/homebrew-cask,Ruby,32
-73648678,forem/forem,Ruby,87
-2203645,CocoaPods/CocoaPods,Ruby,27
-3314,spree/spree,Ruby,25
+3623050,Homebrew/homebrew-cask,Ruby,33
+73648678,forem/forem,Ruby,98
+2203645,CocoaPods/CocoaPods,Ruby,21
+3314,spree/spree,Ruby,26
 18486300,lewagon/setup,Ruby,195
 6688319,DeathKing/Learning-SICP,Ruby,48
 587311,omniauth/omniauth,Ruby,11
@@ -16,11 +16,11 @@ id,name,lang,new stars
 16994115,CanCanCommunity/cancancan,Ruby,9
 6899875,opf/openproject,Ruby,13
 30985840,solidusio/solidus,Ruby,7
-3898922,zammad/zammad,Ruby,24
-11426474,github/choosealicense.com,Ruby,18
+3898922,zammad/zammad,Ruby,22
+11426474,github/choosealicense.com,Ruby,19
 4447023,sharetribe/sharetribe,Ruby,6
 93163073,dependabot/dependabot-core,Ruby,18
-200302808,github/view_component,Ruby,32
+200302808,github/view_component,Ruby,31
 20789757,ManageIQ/manageiq,Ruby,6
-151646552,crweiner/hacktoberfest-swag-list,Ruby,91
-295319256,agrafix/rubyspeed,Ruby,39
+151646552,crweiner/hacktoberfest-swag-list,Ruby,93
+295319256,agrafix/rubyspeed,Ruby,37
