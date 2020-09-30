@@ -1,20 +1,20 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,67
-8681349,huginn/huginn,Ruby,112
-52281283,tootsuite/mastodon,Ruby,47
-2293158,rapid7/metasploit-framework,Ruby,65
-3623050,Homebrew/homebrew-cask,Ruby,33
-73648678,forem/forem,Ruby,103
+8681349,huginn/huginn,Ruby,110
+52281283,tootsuite/mastodon,Ruby,46
+2293158,rapid7/metasploit-framework,Ruby,66
+3623050,Homebrew/homebrew-cask,Ruby,32
+73648678,forem/forem,Ruby,120
 2203645,CocoaPods/CocoaPods,Ruby,21
 3314,spree/spree,Ruby,26
 18486300,lewagon/setup,Ruby,195
-6688319,DeathKing/Learning-SICP,Ruby,49
+6688319,DeathKing/Learning-SICP,Ruby,51
 587311,omniauth/omniauth,Ruby,11
 21829,thoughtbot/factory_bot,Ruby,9
-13761875,greatghoul/remote-working,Ruby,28
-2441517,puma/puma,Ruby,26
+13761875,greatghoul/remote-working,Ruby,26
+2441517,puma/puma,Ruby,24
 16994115,CanCanCommunity/cancancan,Ruby,9
-6899875,opf/openproject,Ruby,13
+6899875,opf/openproject,Ruby,14
 30985840,solidusio/solidus,Ruby,7
 3898922,zammad/zammad,Ruby,22
 11426474,github/choosealicense.com,Ruby,19
@@ -22,5 +22,5 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,18
 200302808,github/view_component,Ruby,31
 20789757,ManageIQ/manageiq,Ruby,6
-151646552,crweiner/hacktoberfest-swag-list,Ruby,101
-295319256,agrafix/rubyspeed,Ruby,37
+151646552,crweiner/hacktoberfest-swag-list,Ruby,112
+295319256,agrafix/rubyspeed,Ruby,35
