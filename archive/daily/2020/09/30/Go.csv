@@ -17,10 +17,10 @@ id,name,lang,new stars
 9120526,jackc/pgx,Go,6
 125275487,kubernetes-sigs/kubebuilder,Go,8
 90798757,segmentio/kafka-go,Go,6
-297165998,muesli/duf,Go,536
-295016801,blushft/go-diagrams,Go,202
+297165998,muesli/duf,Go,473
+295016801,blushft/go-diagrams,Go,195
 116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,5
 246903803,earthly/earthly,Go,26
+296573191,elsaland/elsa,Go,299
 49970739,DataDog/datadog-agent,Go,2
-296573191,elsaland/elsa,Go,342
 222258954,dstotijn/hetty,Go,103
