@@ -1,11 +1,11 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,77
-65252,jekyll/jekyll,Ruby,55
-7569578,discourse/discourse,Ruby,61
+65252,jekyll/jekyll,Ruby,56
+7569578,discourse/discourse,Ruby,60
 8681349,huginn/huginn,Ruby,95
-52281283,tootsuite/mastodon,Ruby,46
-2293158,rapid7/metasploit-framework,Ruby,64
-73648678,forem/forem,Ruby,188
+52281283,tootsuite/mastodon,Ruby,45
+2293158,rapid7/metasploit-framework,Ruby,63
+73648678,forem/forem,Ruby,205
 2203645,CocoaPods/CocoaPods,Ruby,20
 1090311,elastic/logstash,Ruby,19
 3314,spree/spree,Ruby,25
@@ -13,14 +13,14 @@ id,name,lang,new stars
 1918677,fluent/fluentd,Ruby,17
 52855516,Homebrew/homebrew-core,Ruby,28
 18486300,lewagon/setup,Ruby,193
-6688319,DeathKing/Learning-SICP,Ruby,52
+6688319,DeathKing/Learning-SICP,Ruby,51
 587311,omniauth/omniauth,Ruby,10
 21829,thoughtbot/factory_bot,Ruby,9
 13761875,greatghoul/remote-working,Ruby,23
-2441517,puma/puma,Ruby,92
+2441517,puma/puma,Ruby,105
 26018608,github-changelog-generator/github-changelog-generator,Ruby,13
 16994115,CanCanCommunity/cancancan,Ruby,8
 3898922,zammad/zammad,Ruby,20
 11426474,github/choosealicense.com,Ruby,17
-200302808,github/view_component,Ruby,32
-151646552,crweiner/hacktoberfest-swag-list,Ruby,194
+200302808,github/view_component,Ruby,31
+151646552,crweiner/hacktoberfest-swag-list,Ruby,199
