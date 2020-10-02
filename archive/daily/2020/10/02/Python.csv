@@ -1,24 +1,24 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,106
+83222441,donnemartin/system-design-primer,Python,105
 3638964,ansible/ansible,Python,18
-41058054,isocpp/CppCoreGuidelines,Python,17
-2881789,geekcomputers/Python,Python,17
+41058054,isocpp/CppCoreGuidelines,Python,19
+2881789,geekcomputers/Python,Python,16
 162723104,OWASP/CheatSheetSeries,Python,6
 1390248,saltstack/salt,Python,6
-71056775,kovidgoyal/kitty,Python,78
-237791077,mingrammer/diagrams,Python,179
+71056775,kovidgoyal/kitty,Python,76
+237791077,mingrammer/diagrams,Python,181
 22844864,matrix-org/synapse,Python,8
-97641933,OpenMined/PySyft,Python,43
+97641933,OpenMined/PySyft,Python,44
 111113343,deepmipt/DeepPavlov,Python,11
-197261780,Ciphey/Ciphey,Python,33
-288559703,vinayak-mehta/present,Python,28
-250213286,huggingface/datasets,Python,124
-103071520,great-expectations/great_expectations,Python,21
-265345233,anandpawara/Real_Time_Image_Animation,Python,122
+197261780,Ciphey/Ciphey,Python,32
+288559703,vinayak-mehta/present,Python,32
+250213286,huggingface/datasets,Python,132
+103071520,great-expectations/great_expectations,Python,24
+265345233,anandpawara/Real_Time_Image_Animation,Python,125
 266417772,Pitt-CSC/Summer2021-Internships,Python,16
 1864194,frappe/frappe,Python,6
-84604734,sukeesh/Jarvis,Python,8
-279729856,NVlabs/imaginaire,Python,123
+84604734,sukeesh/Jarvis,Python,9
+279729856,NVlabs/imaginaire,Python,125
 296158004,mytechnotalent/Python-For-Kids,Python,53
 273358581,lyft/l5kit,Python,2
 217872093,domokane/FinancePy,Jupyter Notebook,15
