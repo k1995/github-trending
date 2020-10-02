@@ -1,18 +1,18 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1942
-10744183,netdata/netdata,C,585
-13233158,obsproject/obs-studio,C,840
-1614410,FFmpeg/FFmpeg,C,432
-201454051,Awesome-HarmonyOS/HarmonyOS,C,1857
+2325298,torvalds/linux,C,1940
+10744183,netdata/netdata,C,588
+13233158,obsproject/obs-studio,C,843
+1614410,FFmpeg/FFmpeg,C,431
+201454051,Awesome-HarmonyOS/HarmonyOS,C,1858
 196353673,taosdata/TDengine,C,781
 80286288,arendst/Tasmota,C,615
 18496166,gentilkiwi/mimikatz,C,370
 105627846,reactos/reactos,C,191
 27737393,qmk/qmk_firmware,C,243
 45821540,openwrt/openwrt,C,195
-67031040,upx/upx,C,283
+67031040,upx/upx,C,280
 3319040,id-Software/DOOM,C,189
-65899476,espressif/esp-idf,C,144
+65899476,espressif/esp-idf,C,142
 70127218,espressif/arduino-esp32,C,140
 7408108,RT-Thread/rt-thread,C,290
 190845267,n64decomp/sm64,C,156
@@ -21,6 +21,6 @@ id,name,lang,new stars
 59771425,zephyrproject-rtos/zephyr,C,135
 7370241,RIOT-OS/RIOT,C,77
 241659610,OpenIntelWireless/itlwm,C,390
-59676171,KevinOConnor/klipper,C,61
-213916896,blender/blender,C,227
+59676171,KevinOConnor/klipper,C,60
+213916896,blender/blender,C,226
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,43
