@@ -1,15 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,859
-3482588,danielmiessler/SecLists,PHP,553
-458058,symfony/symfony,PHP,198
-1864363,composer/composer,PHP,206
+1863329,laravel/laravel,PHP,860
+3482588,danielmiessler/SecLists,PHP,554
+458058,symfony/symfony,PHP,202
+1864363,composer/composer,PHP,207
 7548986,laravel/framework,PHP,312
 1420053,guzzle/guzzle,PHP,168
-2253830,PHPMailer/PHPMailer,PHP,149
+2253830,PHPMailer/PHPMailer,PHP,150
 53783664,easychen/howto-make-more-money,PHP,236
 60243197,nextcloud/server,PHP,247
 14732311,octobercms/october,PHP,103
-14259390,Maatwebsite/Laravel-Excel,PHP,121
 42480275,spatie/laravel-permission,PHP,136
 11340559,deployphp/deployer,PHP,99
 6660366,dompdf/dompdf,PHP,83
@@ -17,10 +16,10 @@ id,name,lang,new stars
 23056580,laravel/socialite,PHP,68
 9791525,digininja/DVWA,PHP,93
 10883164,barryvdh/laravel-dompdf,PHP,66
-158374929,beyondcode/laravel-websockets,PHP,90
-148129143,bagisto/bagisto,PHP,168
-63073734,laravel/passport,PHP,42
+158374929,beyondcode/laravel-websockets,PHP,91
+148129143,bagisto/bagisto,PHP,169
+63073734,laravel/passport,PHP,43
 13044600,salesagility/SuiteCRM,PHP,52
-291805291,laravel/jetstream,PHP,1566
+291805291,laravel/jetstream,PHP,1567
 232599652,laravel/sanctum,PHP,99
 189104054,laravel/ui,PHP,69
