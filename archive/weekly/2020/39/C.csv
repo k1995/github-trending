@@ -1,21 +1,21 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,614
-1903522,php/php-src,C,81
-13233158,obsproject/obs-studio,C,437
+2325298,torvalds/linux,C,618
+1903522,php/php-src,C,82
+13233158,obsproject/obs-studio,C,444
 4869294,radareorg/radare2,C,48
-80286288,arendst/Tasmota,C,184
-66150122,jarun/nnn,C,76
-105627846,reactos/reactos,C,95
-78281075,SpacehuhnTech/esp8266_deauther,C,56
-1856976,libevent/libevent,C,46
-35930805,EZLippi/Tinyhttpd,C,203
+80286288,arendst/Tasmota,C,185
+66150122,jarun/nnn,C,78
+105627846,reactos/reactos,C,97
+78281075,SpacehuhnTech/esp8266_deauther,C,57
+1856976,libevent/libevent,C,47
+35930805,EZLippi/Tinyhttpd,C,204
 2328181,freebsd/freebsd,C,19
 3568543,rui314/8cc,C,33
 13836499,raysan5/raylib,C,40
 22711503,gcc-mirror/gcc,C,79
 59771425,zephyrproject-rtos/zephyr,C,53
 7370241,RIOT-OS/RIOT,C,29
-241659610,OpenIntelWireless/itlwm,C,99
+241659610,OpenIntelWireless/itlwm,C,102
 77920383,nesbox/TIC-80,C,165
 45703884,olikraus/u8g2,C,11
 76599439,FRRouting/frr,C,12
@@ -23,4 +23,4 @@ id,name,lang,new stars
 22711802,wine-mirror/wine,C,13
 82754556,Bodmer/TFT_eSPI,C,10
 297071139,charliesome/doslinux,C,169
-293316071,bellard/quickjs,C,257
+293316071,bellard/quickjs,C,262
