@@ -1,20 +1,20 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,658
-36502,git/git,C,124
+2325298,torvalds/linux,C,666
+36502,git/git,C,125
 1903522,php/php-src,C,90
-13233158,obsproject/obs-studio,C,469
+13233158,obsproject/obs-studio,C,477
 4869294,radareorg/radare2,C,54
 11715753,robertdavidgraham/masscan,C,68
-6201092,mpv-player/mpv,C,63
-80286288,arendst/Tasmota,C,193
+6201092,mpv-player/mpv,C,65
+80286288,arendst/Tasmota,C,196
 66150122,jarun/nnn,C,89
-105627846,reactos/reactos,C,101
-78281075,SpacehuhnTech/esp8266_deauther,C,60
+105627846,reactos/reactos,C,102
+78281075,SpacehuhnTech/esp8266_deauther,C,61
 35930805,EZLippi/Tinyhttpd,C,205
 2328181,freebsd/freebsd,C,25
-4151993,OpenVPN/openvpn,C,25
-3568543,rui314/8cc,C,46
-13836499,raysan5/raylib,C,43
+4151993,OpenVPN/openvpn,C,26
+3568543,rui314/8cc,C,49
+13836499,raysan5/raylib,C,44
 22711503,gcc-mirror/gcc,C,80
 59771425,zephyrproject-rtos/zephyr,C,59
 7370241,RIOT-OS/RIOT,C,31
@@ -22,5 +22,5 @@ id,name,lang,new stars
 76599439,FRRouting/frr,C,13
 110436596,rewardone/OSCPRepo,C,22
 22711802,wine-mirror/wine,C,14
-293316071,bellard/quickjs,C,272
+293316071,bellard/quickjs,C,275
 53432472,Azure/sonic-buildimage,C,2
