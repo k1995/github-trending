@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,197
-3482588,danielmiessler/SecLists,PHP,163
+1863329,laravel/laravel,PHP,201
+3482588,danielmiessler/SecLists,PHP,165
 2579314,fzaninotto/Faker,PHP,66
 458058,symfony/symfony,PHP,68
-7548986,laravel/framework,PHP,113
+7548986,laravel/framework,PHP,114
 448045,sebastianbergmann/phpunit,PHP,27
-60243197,nextcloud/server,PHP,71
+60243197,nextcloud/server,PHP,73
 8678290,barryvdh/laravel-ide-helper,PHP,31
 72069409,the-control-group/voyager,PHP,24
 2884111,magento/magento2,PHP,19
@@ -14,12 +14,12 @@ id,name,lang,new stars
 5550552,owncloud/core,PHP,17
 41589337,BookStackApp/BookStack,PHP,58
 6763587,PrestaShop/PrestaShop,PHP,19
-10371103,Laravel-Lang/lang,PHP,21
+10371103,Laravel-Lang/lang,PHP,22
 28257573,flarum/core,PHP,17
-74386167,vimeo/psalm,PHP,20
+74386167,vimeo/psalm,PHP,22
 29126334,EasyCorp/EasyAdminBundle,PHP,12
-148129143,bagisto/bagisto,PHP,45
-11935508,RSS-Bridge/rss-bridge,PHP,30
-80249302,craftcms/cms,PHP,18
+148129143,bagisto/bagisto,PHP,46
+11935508,RSS-Bridge/rss-bridge,PHP,31
+80249302,craftcms/cms,PHP,19
 13914116,librenms/librenms,PHP,20
 27195711,alextselegidis/easyappointments,PHP,22
