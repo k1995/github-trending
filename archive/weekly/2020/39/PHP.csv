@@ -1,9 +1,9 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,195
-3482588,danielmiessler/SecLists,PHP,161
+3482588,danielmiessler/SecLists,PHP,163
 2579314,fzaninotto/Faker,PHP,66
 458058,symfony/symfony,PHP,68
-7548986,laravel/framework,PHP,102
+7548986,laravel/framework,PHP,110
 448045,sebastianbergmann/phpunit,PHP,26
 60243197,nextcloud/server,PHP,70
 72069409,the-control-group/voyager,PHP,24
@@ -21,5 +21,5 @@ id,name,lang,new stars
 80249302,craftcms/cms,PHP,17
 13914116,librenms/librenms,PHP,20
 27195711,alextselegidis/easyappointments,PHP,22
-74026995,CodelyTV/php-ddd-example,PHP,10
+74026995,CodelyTV/php-ddd-example,PHP,11
 25361672,OpenMage/magento-lts,PHP,6

@@ -1,15 +1,15 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,855
-3482588,danielmiessler/SecLists,PHP,576
+3482588,danielmiessler/SecLists,PHP,578
 458058,symfony/symfony,PHP,202
-7548986,laravel/framework,PHP,345
+7548986,laravel/framework,PHP,353
 1420053,guzzle/guzzle,PHP,166
 2253830,PHPMailer/PHPMailer,PHP,155
 53783664,easychen/howto-make-more-money,PHP,235
 60243197,nextcloud/server,PHP,258
 2854337,phalcon/cphalcon,PHP,41
 14732311,octobercms/october,PHP,107
-11340559,deployphp/deployer,PHP,102
+11340559,deployphp/deployer,PHP,103
 5550552,owncloud/core,PHP,55
 10238429,tennc/webshell,PHP,104
 2717549,Sylius/Sylius,PHP,69
@@ -18,9 +18,9 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,59
 148129143,bagisto/bagisto,PHP,178
 63073734,laravel/passport,PHP,41
-291805291,laravel/jetstream,PHP,1389
+291805291,laravel/jetstream,PHP,1392
 189104054,laravel/ui,PHP,65
 174021137,inertiajs/pingcrm,PHP,78
-111562942,statamic/cms,PHP,59
+111562942,statamic/cms,PHP,60
 263720853,blade-ui-kit/blade-ui-kit,PHP,379
 223535535,Ignitetch/AdvPhishing,PHP,61
