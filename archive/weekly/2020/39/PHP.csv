@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,201
-3482588,danielmiessler/SecLists,PHP,165
-2579314,fzaninotto/Faker,PHP,66
-458058,symfony/symfony,PHP,68
+1863329,laravel/laravel,PHP,205
+3482588,danielmiessler/SecLists,PHP,169
+2579314,fzaninotto/Faker,PHP,67
+458058,symfony/symfony,PHP,73
 7548986,laravel/framework,PHP,114
 448045,sebastianbergmann/phpunit,PHP,27
 60243197,nextcloud/server,PHP,73
@@ -15,7 +15,7 @@ id,name,lang,new stars
 41589337,BookStackApp/BookStack,PHP,58
 6763587,PrestaShop/PrestaShop,PHP,19
 10371103,Laravel-Lang/lang,PHP,22
-28257573,flarum/core,PHP,17
+28257573,flarum/core,PHP,18
 74386167,vimeo/psalm,PHP,22
 29126334,EasyCorp/EasyAdminBundle,PHP,12
 148129143,bagisto/bagisto,PHP,46
