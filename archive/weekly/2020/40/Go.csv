@@ -1,17 +1,17 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,260
-11180687,gohugoio/hugo,Go,196
-17728164,hashicorp/terraform,Go,91
+11180687,gohugoio/hugo,Go,197
+17728164,hashicorp/terraform,Go,92
 37448451,mattermost/mattermost-server,Go,70
-61137153,evanw/esbuild,Go,743
+61137153,evanw/esbuild,Go,756
 129717717,grafana/loki,Go,72
-36653430,hashicorp/nomad,Go,148
-100982449,argoproj/argo,Go,90
+36653430,hashicorp/nomad,Go,149
+100982449,argoproj/argo,Go,91
 66050533,fission/fission,Go,307
 34854605,Terry-Mao/goim,Go,43
 136770331,statping/statping,Go,57
-67793333,cortexproject/cortex,Go,155
-297165998,muesli/duf,Go,3005
+67793333,cortexproject/cortex,Go,156
+297165998,muesli/duf,Go,3008
 125275487,kubernetes-sigs/kubebuilder,Go,101
 150713223,kubeedge/kubeedge,Go,143
 247032621,wenjianzhang/go-admin,Go,121
@@ -22,5 +22,5 @@ id,name,lang,new stars
 57912964,kubernetes/enhancements,Go,12
 116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,17
 294836885,nakabonne/ali,Go,306
-294825566,denverquane/amongusdiscord,Go,107
+294825566,denverquane/amongusdiscord,Go,109
 264154402,crowdsecurity/crowdsec,Go,69
