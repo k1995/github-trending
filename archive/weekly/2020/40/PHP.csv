@@ -1,12 +1,12 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,149
-2579314,fzaninotto/Faker,PHP,60
-458058,symfony/symfony,PHP,53
-7548986,laravel/framework,PHP,106
+2579314,fzaninotto/Faker,PHP,61
+458058,symfony/symfony,PHP,55
+7548986,laravel/framework,PHP,107
 448045,sebastianbergmann/phpunit,PHP,23
 2253830,PHPMailer/PHPMailer,PHP,40
-60243197,nextcloud/server,PHP,75
-8678290,barryvdh/laravel-ide-helper,PHP,32
+60243197,nextcloud/server,PHP,77
+8678290,barryvdh/laravel-ide-helper,PHP,33
 14732311,octobercms/october,PHP,27
 597887,doctrine/orm,PHP,17
 1398648,symfony/http-foundation,PHP,10
@@ -22,4 +22,4 @@ id,name,lang,new stars
 80249302,craftcms/cms,PHP,13
 13914116,librenms/librenms,PHP,13
 74026995,CodelyTV/php-ddd-example,PHP,7
-223535535,Ignitetch/AdvPhishing,PHP,48
+223535535,Ignitetch/AdvPhishing,PHP,50

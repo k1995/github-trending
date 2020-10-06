@@ -1,8 +1,8 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,1022
+49609581,PowerShell/PowerShell,C#,1026
 29078997,dotnet/roslyn,C#,145
-12201538,aspnetboilerplate/aspnetboilerplate,C#,140
-161012019,jellyfin/jellyfin,C#,520
+12201538,aspnetboilerplate/aspnetboilerplate,C#,141
+161012019,jellyfin/jellyfin,C#,521
 28239455,dotnet/AspNetCore.Docs,C#,151
 126486701,Unity-Technologies/UnityCsReference,C#,97
 75990888,dotnet/csharplang,C#,242
@@ -14,11 +14,11 @@ id,name,lang,new stars
 32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,71
 10601208,umbraco/Umbraco-CMS,C#,36
 213460285,jasontaylordev/CleanArchitecture,C#,212
-73864802,danielgerlag/workflow-core,C#,115
+73864802,danielgerlag/workflow-core,C#,118
 2928944,Azure/azure-sdk-for-net,C#,49
 129934884,dotnet/command-line-api,C#,62
+201188122,rocksdanister/lively,C#,330
 137433882,Unity-Technologies/arfoundation-samples,C#,56
-201188122,rocksdanister/lively,C#,329
 77180761,xamarin/XamarinCommunityToolkit,C#,116
 131026794,Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,34
 263503250,Azure/bicep,C#,256
