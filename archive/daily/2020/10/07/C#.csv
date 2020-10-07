@@ -1,12 +1,13 @@
 id,name,lang,new stars
-28232663,dotnet/orleans,C#,30
+28232663,dotnet/orleans,C#,26
 11920542,HangfireIO/Hangfire,C#,2
 23315232,mbdavid/LiteDB,C#,2
-64290739,dodyg/practical-aspnetcore,C#,5
+85953,gitextensions/gitextensions,C#,2
+64290739,dodyg/practical-aspnetcore,C#,7
 54213490,xamarin/Xamarin.Forms,C#,2
 76425236,EduardoPires/EquinoxProject,C#,3
-50605426,microsoft/MixedRealityToolkit-Unity,C#,5
-35291446,itinance/react-native-fs,C#,4
+50605426,microsoft/MixedRealityToolkit-Unity,C#,4
+35291446,itinance/react-native-fs,C#,5
 68730444,microsoft/BotBuilder-Samples,C#,5
 132453438,unoplatform/uno,C#,2
 942613,elastic/elasticsearch-net,C#,2
@@ -16,8 +17,10 @@ id,name,lang,new stars
 166270225,dotnet-presentations/blazor-workshop,C#,5
 64454952,TheAlgorithms/C-Sharp,C#,60
 75372165,dotnetcore/NPOI,C#,2
-159973917,stsrki/Blazorise,C#,3
+159973917,stsrki/Blazorise,C#,2
+41173335,openiddict/openiddict-core,C#,10
 53052789,microsoft/azure-pipelines-agent,C#,0
 157858597,Tyrrrz/YoutubeDownloader,C#,6
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,5
+296237057,thunderbird-team/ThunderBird_OpenSource,C#,6
 247045650,Blightbuster/RatScanner,C#,6

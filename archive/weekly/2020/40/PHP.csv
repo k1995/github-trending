@@ -1,19 +1,19 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,155
-2579314,fzaninotto/Faker,PHP,50
-458058,symfony/symfony,PHP,59
-1864363,composer/composer,PHP,55
-7548986,laravel/framework,PHP,108
-1420053,guzzle/guzzle,PHP,31
+3482588,danielmiessler/SecLists,PHP,154
+2579314,fzaninotto/Faker,PHP,51
+458058,symfony/symfony,PHP,60
+1864363,composer/composer,PHP,57
+7548986,laravel/framework,PHP,110
+1420053,guzzle/guzzle,PHP,32
 448045,sebastianbergmann/phpunit,PHP,28
 2253830,PHPMailer/PHPMailer,PHP,45
 2889328,WordPress/WordPress,PHP,39
-60243197,nextcloud/server,PHP,79
+60243197,nextcloud/server,PHP,80
 14732311,octobercms/october,PHP,31
-2884111,magento/magento2,PHP,14
+2884111,magento/magento2,PHP,13
 597887,doctrine/orm,PHP,19
 2179920,woocommerce/woocommerce,PHP,15
-2717549,Sylius/Sylius,PHP,17
+2717549,Sylius/Sylius,PHP,18
 6763587,PrestaShop/PrestaShop,PHP,13
 28257573,flarum/core,PHP,13
 74386167,vimeo/psalm,PHP,26
@@ -22,4 +22,4 @@ id,name,lang,new stars
 80249302,craftcms/cms,PHP,16
 47508644,pterodactyl/panel,PHP,24
 189104054,laravel/ui,PHP,33
-223535535,Ignitetch/AdvPhishing,PHP,53
+223535535,Ignitetch/AdvPhishing,PHP,54
