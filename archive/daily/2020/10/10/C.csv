@@ -1,5 +1,5 @@
 id,name,lang,new stars
-14812739,libuv/libuv,C,8
+14812739,libuv/libuv,C,6
 20159867,nothings/stb,C,5
 29759715,facebook/zstd,C,13
 84240850,timescale/timescaledb,C,7
@@ -9,7 +9,7 @@ id,name,lang,new stars
 39242894,coturn/coturn,C,9
 2328181,freebsd/freebsd,C,6
 179354282,acidanthera/OpenCorePkg,C,14
-6376337,pocoproject/poco,C,4
+6376337,pocoproject/poco,C,3
 163862700,onivim/oni2,C,8
 60667730,lvgl/lvgl,C,4
 40504480,mit-pdos/xv6-public,C,5
