@@ -1,11 +1,11 @@
 id,name,lang,new stars
 53238813,Homebrew/brew,Ruby,13
-52281283,tootsuite/mastodon,Ruby,6
+52281283,tootsuite/mastodon,Ruby,7
 2293158,rapid7/metasploit-framework,Ruby,17
 481872,hashicorp/vagrant,Ruby,12
 2203645,CocoaPods/CocoaPods,Ruby,2
-1090311,elastic/logstash,Ruby,3
-4095287,rubocop-hq/rubocop,Ruby,3
+1090311,elastic/logstash,Ruby,2
+4095287,rubocop-hq/rubocop,Ruby,1
 3195124,mperham/sidekiq,Ruby,2
 1918677,fluent/fluentd,Ruby,5
 96395,faker-ruby/faker,Ruby,1
@@ -13,7 +13,7 @@ id,name,lang,new stars
 11607598,ruby-concurrency/concurrent-ruby,Ruby,2
 535266,vcr/vcr,Ruby,2
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,19
-244452551,alexeygrigorev/data-science-interviews,Ruby,50
+244452551,alexeygrigorev/data-science-interviews,Ruby,51
 62890617,EugenMayer/docker-sync,Ruby,8
 44935124,shrinerb/shrine,Ruby,2
 9831101,elastic/elasticsearch-ruby,Ruby,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 10504669,publiclab/plots2,Ruby,3
 172015400,ruby/typeprof,Ruby,8
 178401409,victords/super-bombinhas,Ruby,6
-298472272,cto-a/policy-proposal,Ruby,18
+298472272,cto-a/policy-proposal,Ruby,14
 106413576,t8012/smcutil,Ruby,2
 292722998,dogweather/non_empty_array,Ruby,4
