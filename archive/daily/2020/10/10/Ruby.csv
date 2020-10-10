@@ -10,7 +10,7 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,1
 108278,chef/chef,Ruby,4
 75785147,rails/webpacker,Ruby,2
-1548802,activerecord-hackery/ransack,Ruby,1
+1548802,activerecord-hackery/ransack,Ruby,2
 43347873,danger/danger,Ruby,1
 6899875,opf/openproject,Ruby,2
 1734,aasm/aasm,Ruby,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 32104924,rails/sprockets,Ruby,0
 10504669,publiclab/plots2,Ruby,3
 172015400,ruby/typeprof,Ruby,8
-298472272,cto-a/policy-proposal,Ruby,16
+298472272,cto-a/policy-proposal,Ruby,18
