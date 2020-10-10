@@ -1,12 +1,12 @@
 id,name,lang,new stars
-23096959,golang/go,Go,43
+23096959,golang/go,Go,42
 20580498,kubernetes/kubernetes,Go,31
 20904437,gin-gonic/gin,Go,34
-74175805,istio/istio,Go,16
+74175805,istio/istio,Go,19
 29261473,minio/minio,Go,20
 13124802,influxdata/influxdb,Go,6
-31288958,hashicorp/vault,Go,19
-13628513,sirupsen/logrus,Go,14
+31288958,hashicorp/vault,Go,20
+13628513,sirupsen/logrus,Go,13
 18369373,spf13/viper,Go,13
 33258973,influxdata/telegraf,Go,7
 87617508,casbin/casbin,Go,16
