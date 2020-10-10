@@ -1,12 +1,12 @@
 id,name,lang,new stars
-23096959,golang/go,Go,43
-20580498,kubernetes/kubernetes,Go,31
+23096959,golang/go,Go,42
+20580498,kubernetes/kubernetes,Go,32
 20904437,gin-gonic/gin,Go,34
 74175805,istio/istio,Go,16
 29261473,minio/minio,Go,20
 13124802,influxdata/influxdb,Go,6
 31288958,hashicorp/vault,Go,19
-13628513,sirupsen/logrus,Go,14
+13628513,sirupsen/logrus,Go,13
 18369373,spf13/viper,Go,13
 33258973,influxdata/telegraf,Go,7
 87617508,casbin/casbin,Go,16
@@ -21,6 +21,6 @@ id,name,lang,new stars
 181461073,v2fly/v2ray-core,Go,38
 247032621,go-admin-team/go-admin,Go,33
 285864199,tal-tech/go-zero,Go,24
-280232135,screego/server,Go,540
+280232135,screego/server,Go,539
 279297541,lanyulei/ferry,Go,81
 193681111,filecoin-project/lotus,Go,5
