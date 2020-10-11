@@ -1,11 +1,11 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,26
-15315789,Wox-launcher/Wox,C#,22
-70104825,dotnet-architecture/eShopOnContainers,C#,23
+17620347,dotnet/aspnetcore,C#,31
+15315789,Wox-launcher/Wox,C#,23
+70104825,dotnet-architecture/eShopOnContainers,C#,24
 199570071,2dust/v2rayN,C#,50
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,10
 28239455,dotnet/AspNetCore.Docs,C#,14
-17369361,jbogard/MediatR,C#,16
+17369361,jbogard/MediatR,C#,17
 75505125,abpframework/abp,C#,12
 113807330,migueldeicaza/gui.cs,C#,5
 61403402,windows-toolkit/WindowsCommunityToolkit,C#,6
@@ -16,7 +16,7 @@ id,name,lang,new stars
 121049045,skoruba/IdentityServer4.Admin,C#,7
 224109382,ant-design-blazor/ant-design-blazor,C#,6
 23891194,Azure/azure-powershell,C#,3
-159548561,grpc/grpc-dotnet,C#,2
+159548561,grpc/grpc-dotnet,C#,3
 2883574,npgsql/npgsql,C#,6
 30932325,dotnet/extensions,C#,3
 72554578,confluentinc/confluent-kafka-dotnet,C#,3
