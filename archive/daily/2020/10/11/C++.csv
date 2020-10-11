@@ -3,7 +3,7 @@ id,name,lang,new stars
 9384267,electron/electron,C++,47
 44838949,apple/swift,C++,29
 5108051,opencv/opencv,C++,61
-23357588,protocolbuffers/protobuf,C++,130
+23357588,protocolbuffers/protobuf,C++,128
 65600975,pytorch/pytorch,C++,43
 11171548,nlohmann/json,C++,28
 39840932,google/googletest,C++,97
@@ -15,7 +15,7 @@ id,name,lang,new stars
 149111813,Tencent/MMKV,C++,12
 17391973,Tencent/rapidjson,C++,9
 34777562,ossrs/srs,C++,9
-2310495,ceph/ceph,C++,15
+2310495,ceph/ceph,C++,14
 31102092,google/or-tools,C++,9
 21530861,open-source-parsers/jsoncpp,C++,6
 130068982,taskflow/taskflow,C++,30
