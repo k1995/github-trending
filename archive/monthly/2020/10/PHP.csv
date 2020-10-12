@@ -1,14 +1,14 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,679
-3482588,danielmiessler/SecLists,PHP,544
-458058,symfony/symfony,PHP,199
+3482588,danielmiessler/SecLists,PHP,546
+458058,symfony/symfony,PHP,200
 7548986,laravel/framework,PHP,336
 1420053,guzzle/guzzle,PHP,168
-2253830,PHPMailer/PHPMailer,PHP,177
-2889328,WordPress/WordPress,PHP,140
+2253830,PHPMailer/PHPMailer,PHP,178
+2889328,WordPress/WordPress,PHP,141
 60243197,nextcloud/server,PHP,293
 14732311,octobercms/october,PHP,107
-61490598,PHPOffice/PhpSpreadsheet,PHP,139
+61490598,PHPOffice/PhpSpreadsheet,PHP,142
 597887,doctrine/orm,PHP,72
 11340559,deployphp/deployer,PHP,117
 12166778,googleapis/google-api-php-client,PHP,76
@@ -17,7 +17,7 @@ id,name,lang,new stars
 28257573,flarum/core,PHP,63
 148129143,bagisto/bagisto,PHP,160
 63073734,laravel/passport,PHP,40
-80249302,craftcms/cms,PHP,45
+80249302,craftcms/cms,PHP,46
 291805291,laravel/jetstream,PHP,568
 189104054,laravel/ui,PHP,88
 174021137,inertiajs/pingcrm,PHP,74
