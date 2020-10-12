@@ -2,7 +2,7 @@ id,name,lang,new stars
 7569578,discourse/discourse,Ruby,29
 8681349,huginn/huginn,Ruby,33
 2500088,gitlabhq/gitlabhq,Ruby,8
-52281283,tootsuite/mastodon,Ruby,15
+52281283,tootsuite/mastodon,Ruby,16
 2293158,rapid7/metasploit-framework,Ruby,29
 106995,sinatra/sinatra,Ruby,5
 4095287,rubocop-hq/rubocop,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 298472272,cto-a/policy-proposal,Ruby,17
 106413576,t8012/smcutil,Ruby,5
 27006189,makersacademy/takeaway-challenge,Ruby,0
-254397643,learn-co-students/ruby-gets-input-ruby-apply-000,Ruby,0
-254397646,learn-co-students/greeting-cli-ruby-apply-000,Ruby,0
+254397643,learn-co-students/ruby-gets-input-ruby-apply-000,Ruby,1
+254397646,learn-co-students/greeting-cli-ruby-apply-000,Ruby,1
