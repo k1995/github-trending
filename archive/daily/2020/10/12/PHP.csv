@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,14
+1863329,laravel/laravel,PHP,13
 3482588,danielmiessler/SecLists,PHP,17
 2579314,fzaninotto/Faker,PHP,8
 2246815,domnikl/DesignPatternsPHP,PHP,4
@@ -9,18 +9,18 @@ id,name,lang,new stars
 9791525,digininja/DVWA,PHP,8
 2360755,wp-cli/wp-cli,PHP,0
 76064827,mailcow/mailcow-dockerized,PHP,3
-41463886,codeigniter4/CodeIgniter4,PHP,0
+41463886,codeigniter4/CodeIgniter4,PHP,1
 4380514,Audi-1/sqli-labs,PHP,3
 31425145,billz/raspap-webgui,PHP,3
-47508644,pterodactyl/panel,PHP,2
+47508644,pterodactyl/panel,PHP,3
 44733816,privacy-protection-tools/anti-AD,PHP,10
-204472210,facade/ignition,PHP,2
+204472210,facade/ignition,PHP,1
 81873619,iluminar/goodwork,PHP,2
-258773185,laravel-frontend-presets/tall,PHP,3
+258773185,laravel-frontend-presets/tall,PHP,4
 40141239,NamelessMC/Nameless,PHP,2
-297621574,DasSecurity-Labs/AoiAWD,PHP,5
+297621574,DasSecurity-Labs/AoiAWD,PHP,4
 135431445,backdoorhub/shell-backdoor-list,PHP,1
 278623491,sebastianbergmann/complexity,PHP,1
 230941898,munafio/chatify-demo,PHP,2
-299657220,neelkanthk/laravel-surveillance,PHP,25
-297606633,StydeNet/enlighten,PHP,9
+299657220,neelkanthk/laravel-surveillance,PHP,26
+297606633,StydeNet/enlighten,PHP,7
