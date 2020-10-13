@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,669
+1863329,laravel/laravel,PHP,670
 3482588,danielmiessler/SecLists,PHP,542
-458058,symfony/symfony,PHP,196
-7548986,laravel/framework,PHP,337
-1420053,guzzle/guzzle,PHP,170
-2253830,PHPMailer/PHPMailer,PHP,179
+458058,symfony/symfony,PHP,197
+7548986,laravel/framework,PHP,338
+1420053,guzzle/guzzle,PHP,172
+2253830,PHPMailer/PHPMailer,PHP,180
 2889328,WordPress/WordPress,PHP,139
 60243197,nextcloud/server,PHP,298
 14732311,octobercms/october,PHP,109
 597887,doctrine/orm,PHP,74
 11340559,deployphp/deployer,PHP,119
 12166778,googleapis/google-api-php-client,PHP,79
-10238429,tennc/webshell,PHP,109
+10238429,tennc/webshell,PHP,110
 6763587,PrestaShop/PrestaShop,PHP,58
 10371103,Laravel-Lang/lang,PHP,86
 28257573,flarum/core,PHP,62
@@ -23,4 +23,4 @@ id,name,lang,new stars
 189104054,laravel/ui,PHP,87
 174021137,inertiajs/pingcrm,PHP,74
 291804966,laravel/fortify,PHP,397
-223535535,Ignitetch/AdvPhishing,PHP,115
+223535535,Ignitetch/AdvPhishing,PHP,116
