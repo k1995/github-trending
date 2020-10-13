@@ -1,16 +1,16 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,45
-1864363,composer/composer,PHP,47
+1864363,composer/composer,PHP,45
 7548986,laravel/framework,PHP,70
 1376664,Seldaek/monolog,PHP,22
 2253830,PHPMailer/PHPMailer,PHP,49
-2889328,WordPress/WordPress,PHP,31
+2889328,WordPress/WordPress,PHP,32
 60243197,nextcloud/server,PHP,91
 14732311,octobercms/october,PHP,27
 2884111,magento/magento2,PHP,21
-7122594,directus/directus,PHP,32
-2179920,woocommerce/woocommerce,PHP,27
-2141186,opencart/opencart,PHP,15
+7122594,directus/directus,PHP,30
+2179920,woocommerce/woocommerce,PHP,28
+2141186,opencart/opencart,PHP,16
 6763587,PrestaShop/PrestaShop,PHP,12
 10371103,Laravel-Lang/lang,PHP,22
 6269013,aws/aws-sdk-php,PHP,14
@@ -18,8 +18,8 @@ id,name,lang,new stars
 95011974,akaunting/akaunting,PHP,27
 62087941,nWidart/laravel-modules,PHP,12
 41463886,codeigniter4/CodeIgniter4,PHP,18
-1740040,pfsense/pfsense,PHP,14
+1740040,pfsense/pfsense,PHP,15
 80249302,craftcms/cms,PHP,12
-1957456,Dolibarr/dolibarr,PHP,16
+1957456,Dolibarr/dolibarr,PHP,15
 189104054,laravel/ui,PHP,27
-223535535,Ignitetch/AdvPhishing,PHP,34
+223535535,Ignitetch/AdvPhishing,PHP,32
