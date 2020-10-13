@@ -1,12 +1,12 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,680
-3482588,danielmiessler/SecLists,PHP,543
+3482588,danielmiessler/SecLists,PHP,542
 458058,symfony/symfony,PHP,203
-7548986,laravel/framework,PHP,336
+7548986,laravel/framework,PHP,338
 1420053,guzzle/guzzle,PHP,172
-2253830,PHPMailer/PHPMailer,PHP,182
-2889328,WordPress/WordPress,PHP,142
-60243197,nextcloud/server,PHP,301
+2253830,PHPMailer/PHPMailer,PHP,183
+2889328,WordPress/WordPress,PHP,143
+60243197,nextcloud/server,PHP,299
 14732311,octobercms/october,PHP,113
 11340559,deployphp/deployer,PHP,122
 5550552,owncloud/core,PHP,51
@@ -15,11 +15,11 @@ id,name,lang,new stars
 28257573,flarum/core,PHP,62
 439861,moodle/moodle,PHP,60
 76064827,mailcow/mailcow-dockerized,PHP,93
-148129143,bagisto/bagisto,PHP,161
+148129143,bagisto/bagisto,PHP,162
 63073734,laravel/passport,PHP,40
 80249302,craftcms/cms,PHP,51
 291805291,laravel/jetstream,PHP,536
-189104054,laravel/ui,PHP,87
-174021137,inertiajs/pingcrm,PHP,73
+189104054,laravel/ui,PHP,88
+174021137,inertiajs/pingcrm,PHP,72
 291804966,laravel/fortify,PHP,397
 223535535,Ignitetch/AdvPhishing,PHP,117
