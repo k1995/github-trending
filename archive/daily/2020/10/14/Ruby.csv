@@ -1,12 +1,12 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,8
+27442967,fastlane/fastlane,Ruby,11
 52281283,tootsuite/mastodon,Ruby,4
-308770,heartcombo/devise,Ruby,6
+308770,heartcombo/devise,Ruby,7
 2203645,CocoaPods/CocoaPods,Ruby,2
-1090311,elastic/logstash,Ruby,10
-4095287,rubocop-hq/rubocop,Ruby,2
+1090311,elastic/logstash,Ruby,9
+4095287,rubocop-hq/rubocop,Ruby,4
 3314,spree/spree,Ruby,0
-3195124,mperham/sidekiq,Ruby,2
+3195124,mperham/sidekiq,Ruby,3
 47087,carrierwaveuploader/carrierwave,Ruby,0
 18486300,lewagon/setup,Ruby,7
 75785147,rails/webpacker,Ruby,1
@@ -14,13 +14,13 @@ id,name,lang,new stars
 202291859,chatwoot/chatwoot,Ruby,1
 6899875,opf/openproject,Ruby,4
 32841259,dtan4/terraforming,Ruby,4
-363163,bblimke/webmock,Ruby,5
+363163,bblimke/webmock,Ruby,4
 14238949,elastic/elasticsearch-rails,Ruby,1
 239001,rspec/rspec,Ruby,4
 51515624,stelligent/cfn_nag,Ruby,1
 10504669,publiclab/plots2,Ruby,3
 70830890,bigbluebutton/greenlight,Ruby,1
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,3
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,5
 6968490,elastic/puppet-elasticsearch,Ruby,1
 109134055,elastic/apm-agent-ruby,Ruby,1
 48370306,elastic/ansible-beats,Ruby,0
