@@ -1,6 +1,6 @@
 id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,14
-65600975,pytorch/pytorch,C++,34
+65600975,pytorch/pytorch,C++,30
 27729880,grpc/grpc,C++,15
 11171548,nlohmann/json,C++,14
 16587283,dmlc/xgboost,C++,13
@@ -20,7 +20,7 @@ id,name,lang,new stars
 143131,danmar/cppcheck,C++,3
 184657328,NVIDIA/TensorRT,C++,6
 58414589,oneapi-src/oneDNN,C++,1
-85565658,lewissbaker/cppcoro,C++,3
+85565658,lewissbaker/cppcoro,C++,4
 156228018,cyberbotics/webots,C++,3
 131630299,onnx/onnx-tensorrt,C++,2
 161214378,microsoft/Azure-Kinect-Sensor-SDK,C++,1
