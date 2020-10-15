@@ -1,19 +1,19 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1138
-5108051,opencv/opencv,C++,1152
-65600975,pytorch/pytorch,C++,1441
+45717250,tensorflow/tensorflow,C++,1136
+5108051,opencv/opencv,C++,1153
+65600975,pytorch/pytorch,C++,1442
 39840932,google/googletest,C++,1277
 96246170,ApolloAuto/apollo,C++,199
-19953044,google/flatbuffers,C++,184
+19953044,google/flatbuffers,C++,185
 67702184,topjohnwu/Magisk,C++,781
-64991887,microsoft/LightGBM,C++,149
-68312233,microsoft/vcpkg,C++,349
+64991887,microsoft/LightGBM,C++,150
+68312233,microsoft/vcpkg,C++,350
 197275130,microsoft/winget-cli,C++,791
-63477612,TheAlgorithms/C-Plus-Plus,C++,477
-5736080,FreeCAD/FreeCAD,C++,1748
+63477612,TheAlgorithms/C-Plus-Plus,C++,476
+5736080,FreeCAD/FreeCAD,C++,1749
 160083795,SerenityOS/serenity,C++,449
-90902132,flameshot-org/flameshot,C++,430
-262296122,PaddlePaddle/PaddleOCR,C++,1138
+90902132,flameshot-org/flameshot,C++,429
+262296122,PaddlePaddle/PaddleOCR,C++,1140
 130068982,taskflow/taskflow,C++,270
 153866232,TheCherno/Hazel,C++,547
 5241312,halide/Halide,C++,91
@@ -23,4 +23,4 @@ id,name,lang,new stars
 119178893,klzgrad/naiveproxy,C++,260
 124574483,PetoiCamp/OpenCat,C++,118
 222192366,OpenIntelWireless/IntelBluetoothFirmware,C++,112
-287443959,mastercomfig/team-comtress-2,C++,570
+287443959,mastercomfig/team-comtress-2,C++,538
