@@ -1,15 +1,15 @@
 id,name,lang,new stars
-155220641,huggingface/transformers,Python,63
-188660663,CorentinJ/Real-Time-Voice-Cloning,Python,287
+155220641,huggingface/transformers,Python,60
+188660663,CorentinJ/Real-Time-Voice-Cloning,Python,267
 125266328,psf/black,Python,17
-71932349,ray-project/ray,Python,16
-99846383,horovod/horovod,Python,31
+71932349,ray-project/ray,Python,15
+99846383,horovod/horovod,Python,38
 178626720,PyTorchLightning/pytorch-lightning,Python,25
-94801380,The-Art-of-Hacking/h4cker,Python,237
+94801380,The-Art-of-Hacking/h4cker,Python,234
 136202695,mlflow/mlflow,Python,10
 135673451,microsoft/nni,Python,8
-8277372,spulec/moto,Python,6
 300592907,mxrch/GHunt,Python,159
+8277372,spulec/moto,Python,6
 19130362,geerlingguy/ansible-for-devops,Python,8
 166086572,ct-Open-Source/tuya-convert,Python,7
 214485001,Project-MONAI/MONAI,Python,6
@@ -20,7 +20,7 @@ id,name,lang,new stars
 47203045,DataDog/integrations-core,Python,0
 296986095,januschung/math-worksheet-generator,Python,40
 296135639,PaytmLabs/nerve,Python,9
-299753146,PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor,Python,18
-203693380,facebookresearch/NSVF,Python,21
+299753146,PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor,Python,20
+203693380,facebookresearch/NSVF,Python,20
 302442973,noisefilter19/LeetCode_Algorithms,Python,21
 283860605,rafael-rfzorzi/glacX2020,Python,18
