@@ -3,7 +3,7 @@ id,name,lang,new stars
 2810455,ggreer/the_silver_searcher,C,3
 7634677,openssl/openssl,C,13
 18496166,gentilkiwi/mimikatz,C,7
-47409672,hashcat/hashcat,C,8
+47409672,hashcat/hashcat,C,10
 184909163,koekeishiya/yabai,C,9
 192805335,microsoft/mimalloc,C,5
 44781140,greenplum-db/gpdb,C,2
@@ -17,7 +17,7 @@ id,name,lang,new stars
 195445651,thestr4ng3r/chiaki,C,4
 115765590,OAID/Tengine,C,12
 2709176,stephenfewer/ReflectiveDLLInjection,C,6
-135812271,EHfive/pulseaudio-modules-bt,C,10
+135812271,EHfive/pulseaudio-modules-bt,C,11
 151870364,xiaorouji/openwrt-package,C,0
 206121828,FreeRTOS/FreeRTOS,C,5
 53174933,google/boringssl,C,1
