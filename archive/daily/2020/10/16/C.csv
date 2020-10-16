@@ -4,7 +4,7 @@ id,name,lang,new stars
 7634677,openssl/openssl,C,13
 18496166,gentilkiwi/mimikatz,C,7
 47409672,hashcat/hashcat,C,11
-184909163,koekeishiya/yabai,C,11
+184909163,koekeishiya/yabai,C,10
 192805335,microsoft/mimalloc,C,5
 44781140,greenplum-db/gpdb,C,1
 53614190,eclipse/mosquitto,C,6
@@ -15,12 +15,12 @@ id,name,lang,new stars
 34807561,nanopb/nanopb,C,2
 124678204,aircrack-ng/aircrack-ng,C,2
 195445651,thestr4ng3r/chiaki,C,3
-115765590,OAID/Tengine,C,10
+115765590,OAID/Tengine,C,11
 2709176,stephenfewer/ReflectiveDLLInjection,C,6
-135812271,EHfive/pulseaudio-modules-bt,C,11
+135812271,EHfive/pulseaudio-modules-bt,C,13
 151870364,xiaorouji/openwrt-package,C,0
-206121828,FreeRTOS/FreeRTOS,C,5
+206121828,FreeRTOS/FreeRTOS,C,7
 53174933,google/boringssl,C,0
 2276287,riscv/riscv-isa-sim,C,1
 80573145,katef/libfsm,C,11
-300858429,AshuKulu/HactoberFest2020-Beginners,C,7
+300858429,AshuKulu/HactoberFest2020-Beginners,C,8
