@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,53
+2579314,fzaninotto/Faker,PHP,52
 458058,symfony/symfony,PHP,44
-7548986,laravel/framework,PHP,65
-2253830,PHPMailer/PHPMailer,PHP,41
+7548986,laravel/framework,PHP,64
+2253830,PHPMailer/PHPMailer,PHP,40
 2889328,WordPress/WordPress,PHP,28
-60243197,nextcloud/server,PHP,78
+60243197,nextcloud/server,PHP,79
 82238168,monicahq/monica,PHP,25
-48796179,z-song/laravel-admin,PHP,38
+48796179,z-song/laravel-admin,PHP,37
 29843361,overtrue/wechat,PHP,15
-2884111,magento/magento2,PHP,28
+2884111,magento/magento2,PHP,27
 61490598,PHPOffice/PhpSpreadsheet,PHP,32
 2179920,woocommerce/woocommerce,PHP,29
 2141186,opencart/opencart,PHP,13
@@ -16,7 +16,7 @@ id,name,lang,new stars
 3217621,phpmyadmin/phpmyadmin,PHP,24
 9826184,elastic/elasticsearch-php,PHP,11
 12204147,mautic/mautic,PHP,18
-439861,moodle/moodle,PHP,18
+439861,moodle/moodle,PHP,22
 159606650,hyperf/hyperf,PHP,25
 29126334,EasyCorp/EasyAdminBundle,PHP,7
 2686502,pimcore/pimcore,PHP,11
