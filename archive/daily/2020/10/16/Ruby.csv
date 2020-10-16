@@ -1,8 +1,8 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,5
+27442967,fastlane/fastlane,Ruby,4
 308770,heartcombo/devise,Ruby,6
-481872,hashicorp/vagrant,Ruby,14
-2203645,CocoaPods/CocoaPods,Ruby,2
+481872,hashicorp/vagrant,Ruby,16
+2203645,CocoaPods/CocoaPods,Ruby,1
 3195124,mperham/sidekiq,Ruby,3
 8393,thoughtbot/paperclip,Ruby,0
 96395,faker-ruby/faker,Ruby,0
@@ -18,9 +18,9 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,1
 103766152,github/explore,Ruby,2
 9831101,elastic/elasticsearch-ruby,Ruby,2
-26094060,logstash-plugins/logstash-patterns-core,Ruby,5
+26094060,logstash-plugins/logstash-patterns-core,Ruby,4
 34840276,elastic/ansible-elasticsearch,Ruby,0
 65914086,decidim/decidim,Ruby,0
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,6
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,5
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
-299655944,featurist/interfaceable,Ruby,19
+299655944,featurist/interfaceable,Ruby,20
