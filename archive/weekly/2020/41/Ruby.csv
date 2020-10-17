@@ -1,20 +1,20 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,56
-27442967,fastlane/fastlane,Ruby,45
+8514,rails/rails,Ruby,58
+27442967,fastlane/fastlane,Ruby,46
 2500088,gitlabhq/gitlabhq,Ruby,23
 52281283,tootsuite/mastodon,Ruby,41
-2293158,rapid7/metasploit-framework,Ruby,72
-481872,hashicorp/vagrant,Ruby,71
+2293158,rapid7/metasploit-framework,Ruby,73
+481872,hashicorp/vagrant,Ruby,69
 911765,diaspora/diaspora,Ruby,11
-1090311,elastic/logstash,Ruby,25
+1090311,elastic/logstash,Ruby,26
 4095287,rubocop-hq/rubocop,Ruby,15
-3195124,mperham/sidekiq,Ruby,12
+3195124,mperham/sidekiq,Ruby,13
 18486300,lewagon/setup,Ruby,258
 52855516,Homebrew/homebrew-core,Ruby,37
 9746477,sonic-pi-net/sonic-pi,Ruby,15
-535266,vcr/vcr,Ruby,8
+535266,vcr/vcr,Ruby,9
 33739333,thoughtbot/administrate,Ruby,11
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,73
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,72
 6899875,opf/openproject,Ruby,23
 6768710,redmine/redmine,Ruby,10
 1175581,citation-style-language/styles,Ruby,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 56942570,Homebrew/linuxbrew-core,Ruby,4
 65914086,decidim/decidim,Ruby,9
 10504669,publiclab/plots2,Ruby,15
-298472272,cto-a/policy-proposal,Ruby,15
+298472272,cto-a/policy-proposal,Ruby,13
 95896046,stone-payments/ansible-winlogbeat,Ruby,0
