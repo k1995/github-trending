@@ -1,17 +1,17 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,495
-156018,redis/redis,C,120
-111583593,Genymobile/scrcpy,C,468
-36502,git/git,C,123
-1903522,php/php-src,C,80
+2325298,torvalds/linux,C,499
+156018,redis/redis,C,122
+111583593,Genymobile/scrcpy,C,470
+36502,git/git,C,124
+1903522,php/php-src,C,81
 1614410,FFmpeg/FFmpeg,C,113
-7634677,openssl/openssl,C,60
+7634677,openssl/openssl,C,61
 20159867,nothings/stb,C,50
-102578345,coolsnowwolf/lede,C,155
-80286288,arendst/Tasmota,C,116
+102578345,coolsnowwolf/lede,C,156
+80286288,arendst/Tasmota,C,118
 5254557,cloudwu/skynet,C,33
-90320494,ish-app/ish,C,52
-63477515,TheAlgorithms/C,C,71
+90320494,ish-app/ish,C,53
+63477515,TheAlgorithms/C,C,73
 5870069,edenhill/librdkafka,C,24
 40504480,mit-pdos/xv6-public,C,54
 1377037,gluster/glusterfs,C,19
@@ -20,7 +20,7 @@ id,name,lang,new stars
 34807561,nanopb/nanopb,C,14
 98651166,ShadowsocksR-Live/shadowsocksr-native,C,51
 5410234,OISF/suricata,C,14
-195445651,thestr4ng3r/chiaki,C,27
+195445651,thestr4ng3r/chiaki,C,28
 254327261,sandboxie-plus/Sandboxie,C,44
 26537135,u-boot/u-boot,C,21
 290808391,atc1441/ATC_MiThermometer,C,37
