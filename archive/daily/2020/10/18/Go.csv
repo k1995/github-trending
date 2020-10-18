@@ -1,0 +1,26 @@
+id,name,lang,new stars
+29261473,minio/minio,Go,10
+17728164,hashicorp/terraform,Go,18
+16563587,cockroachdb/cockroach,Go,4
+12574344,spf13/cobra,Go,11
+8966356,hashicorp/packer,Go,7
+131212638,google/gvisor,Go,6
+33352201,grpc-ecosystem/grpc-gateway,Go,12
+16554739,elastic/beats,Go,3
+234231371,gofiber/fiber,Go,41
+6443435,nats-io/nats-server,Go,2
+36960321,opencontainers/runc,Go,5
+36653430,hashicorp/nomad,Go,7
+100982449,argoproj/argo,Go,8
+119160553,photoprism/photoprism,Go,24
+7039626,olivere/elastic,Go,4
+3087541,patrickmn/go-cache,Go,6
+82700090,uber/cadence,Go,11
+120896210,argoproj/argo-cd,Go,2
+219616873,charmbracelet/glow,Go,579
+295016801,blushft/go-diagrams,Go,18
+93446042,terraform-providers/terraform-provider-azurerm,Go,3
+232630362,hashicorp/boundary,Go,206
+259191284,hashicorp/waypoint,Go,429
+124260244,banzaicloud/bank-vaults,Go,3
+215654064,temporalio/temporal,Go,34
