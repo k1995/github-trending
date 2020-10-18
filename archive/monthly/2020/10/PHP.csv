@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,665
-3482588,danielmiessler/SecLists,PHP,550
+1863329,laravel/laravel,PHP,667
+3482588,danielmiessler/SecLists,PHP,552
 458058,symfony/symfony,PHP,213
 1864363,composer/composer,PHP,225
 7548986,laravel/framework,PHP,339
-1420053,guzzle/guzzle,PHP,173
+1420053,guzzle/guzzle,PHP,174
 2253830,PHPMailer/PHPMailer,PHP,177
 2889328,WordPress/WordPress,PHP,139
 60243197,nextcloud/server,PHP,312
@@ -17,7 +17,7 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,63
 76064827,mailcow/mailcow-dockerized,PHP,99
 148129143,bagisto/bagisto,PHP,137
-291805291,laravel/jetstream,PHP,451
+291805291,laravel/jetstream,PHP,452
 81873619,iluminar/goodwork,PHP,49
 189104054,laravel/ui,PHP,87
 174021137,inertiajs/pingcrm,PHP,69

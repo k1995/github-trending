@@ -2,7 +2,7 @@ id,name,lang,new stars
 7634677,openssl/openssl,C,6
 80286288,arendst/Tasmota,C,13
 84240850,timescale/timescaledb,C,8
-193885464,woltapp/blurhash,C,320
+193885464,woltapp/blurhash,C,322
 63477515,TheAlgorithms/C,C,11
 5870069,edenhill/librdkafka,C,1
 849692,ZipArchive/ZipArchive,C,1
@@ -18,7 +18,7 @@ id,name,lang,new stars
 128791889,haproxy/haproxy,C,5
 198869255,google/AFL,C,3
 44137852,apple/cups,C,8
-293316071,bellard/quickjs,C,28
+293316071,bellard/quickjs,C,29
 25379390,openucx/ucx,C,0
 53432472,Azure/sonic-buildimage,C,1
 290808391,atc1441/ATC_MiThermometer,C,8

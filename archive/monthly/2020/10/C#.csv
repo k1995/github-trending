@@ -1,19 +1,19 @@
 id,name,lang,new stars
 17620347,dotnet/aspnetcore,C#,444
-38380854,dnSpy/dnSpy,C#,340
+38380854,dnSpy/dnSpy,C#,343
 70104825,dotnet-architecture/eShopOnContainers,C#,368
 29078997,dotnet/roslyn,C#,153
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,156
-14964475,AvaloniaUI/Avalonia,C#,246
-102904613,Unity-Technologies/ml-agents,C#,204
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,158
+14964475,AvaloniaUI/Avalonia,C#,245
+102904613,Unity-Technologies/ml-agents,C#,205
 16157746,dotnet/efcore,C#,106
-143460965,GoogleCloudPlatform/microservices-demo,C#,230
+143460965,GoogleCloudPlatform/microservices-demo,C#,231
 959908,OpenRA/OpenRA,C#,108
 28239455,dotnet/AspNetCore.Docs,C#,145
-75990888,dotnet/csharplang,C#,240
-210716005,dotnet/runtime,C#,317
+75990888,dotnet/csharplang,C#,241
+210716005,dotnet/runtime,C#,319
 27251463,QuantConnect/Lean,C#,91
-50605426,microsoft/MixedRealityToolkit-Unity,C#,90
+50605426,microsoft/MixedRealityToolkit-Unity,C#,91
 19216825,xamarin/xamarin-forms-samples,C#,45
 142480903,microsoft/microsoft-ui-xaml,C#,115
 245235133,microsoft/reverse-proxy,C#,139
@@ -22,5 +22,5 @@ id,name,lang,new stars
 201188122,rocksdanister/lively,C#,209
 137433882,Unity-Technologies/arfoundation-samples,C#,67
 77180761,xamarin/XamarinCommunityToolkit,C#,116
-252826419,Unity-Technologies/Graphics,C#,54
+252826419,Unity-Technologies/Graphics,C#,55
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,55
