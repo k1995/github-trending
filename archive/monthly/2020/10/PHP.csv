@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,656
-3482588,danielmiessler/SecLists,PHP,546
-458058,symfony/symfony,PHP,213
-7548986,laravel/framework,PHP,337
-1420053,guzzle/guzzle,PHP,172
-2253830,PHPMailer/PHPMailer,PHP,173
-2889328,WordPress/WordPress,PHP,133
+1863329,laravel/laravel,PHP,658
+3482588,danielmiessler/SecLists,PHP,563
+458058,symfony/symfony,PHP,214
+7548986,laravel/framework,PHP,338
+1420053,guzzle/guzzle,PHP,174
+2253830,PHPMailer/PHPMailer,PHP,174
+2889328,WordPress/WordPress,PHP,134
 60243197,nextcloud/server,PHP,304
 14732311,octobercms/october,PHP,102
 11340559,deployphp/deployer,PHP,113
@@ -16,7 +16,7 @@ id,name,lang,new stars
 76064827,mailcow/mailcow-dockerized,PHP,100
 439861,moodle/moodle,PHP,64
 148129143,bagisto/bagisto,PHP,137
-80249302,craftcms/cms,PHP,50
+80249302,craftcms/cms,PHP,51
 291805291,laravel/jetstream,PHP,451
 32792088,symfony/demo,PHP,27
 189104054,laravel/ui,PHP,87
