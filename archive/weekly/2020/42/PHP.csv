@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,54
-458058,symfony/symfony,PHP,56
-1864363,composer/composer,PHP,55
-7548986,laravel/framework,PHP,70
+2579314,fzaninotto/Faker,PHP,48
+458058,symfony/symfony,PHP,51
+1864363,composer/composer,PHP,56
+7548986,laravel/framework,PHP,71
 2889328,WordPress/WordPress,PHP,24
-60243197,nextcloud/server,PHP,76
-82238168,monicahq/monica,PHP,34
+60243197,nextcloud/server,PHP,77
+82238168,monicahq/monica,PHP,33
 10157178,egulias/EmailValidator,PHP,40
-48796179,z-song/laravel-admin,PHP,37
-597887,doctrine/orm,PHP,24
+48796179,z-song/laravel-admin,PHP,38
+597887,doctrine/orm,PHP,23
 677464,doctrine/dbal,PHP,29
 6763587,PrestaShop/PrestaShop,PHP,17
 9826184,elastic/elasticsearch-php,PHP,13
@@ -16,11 +16,11 @@ id,name,lang,new stars
 8875190,Ocramius/ProxyManager,PHP,16
 439861,moodle/moodle,PHP,23
 76064827,mailcow/mailcow-dockerized,PHP,25
-159606650,hyperf/hyperf,PHP,27
+159606650,hyperf/hyperf,PHP,28
 29126334,EasyCorp/EasyAdminBundle,PHP,8
 13914116,librenms/librenms,PHP,15
 2686502,pimcore/pimcore,PHP,13
 74026995,CodelyTV/php-ddd-example,PHP,13
 258773185,laravel-frontend-presets/tall,PHP,18
-286645686,yuantuo666/baiduwp-php,PHP,77
+286645686,yuantuo666/baiduwp-php,PHP,76
 75645659,WordPress/wordpress-develop,PHP,7
