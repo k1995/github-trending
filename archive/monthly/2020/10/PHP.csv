@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,661
-3482588,danielmiessler/SecLists,PHP,591
+1863329,laravel/laravel,PHP,662
+3482588,danielmiessler/SecLists,PHP,598
 458058,symfony/symfony,PHP,219
 7548986,laravel/framework,PHP,339
 1420053,guzzle/guzzle,PHP,175
@@ -13,8 +13,8 @@ id,name,lang,new stars
 5550552,owncloud/core,PHP,48
 2141186,opencart/opencart,PHP,64
 6763587,PrestaShop/PrestaShop,PHP,68
-439861,moodle/moodle,PHP,64
-76064827,mailcow/mailcow-dockerized,PHP,100
+439861,moodle/moodle,PHP,65
+76064827,mailcow/mailcow-dockerized,PHP,101
 148129143,bagisto/bagisto,PHP,138
 80249302,craftcms/cms,PHP,52
 291805291,laravel/jetstream,PHP,452
