@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,15
-7569578,discourse/discourse,Ruby,7
+8514,rails/rails,Ruby,14
+7569578,discourse/discourse,Ruby,9
 13840241,freeCodeCamp/devdocs,Ruby,8
-52281283,tootsuite/mastodon,Ruby,21
-2293158,rapid7/metasploit-framework,Ruby,11
+52281283,tootsuite/mastodon,Ruby,22
+2293158,rapid7/metasploit-framework,Ruby,10
 308770,heartcombo/devise,Ruby,5
 481872,hashicorp/vagrant,Ruby,16
 538746,ruby/ruby,Ruby,5
@@ -15,12 +15,12 @@ id,name,lang,new stars
 9746477,sonic-pi-net/sonic-pi,Ruby,5
 4994614,wpscanteam/wpscan,Ruby,1
 202291859,chatwoot/chatwoot,Ruby,4
-6899875,opf/openproject,Ruby,89
+6899875,opf/openproject,Ruby,90
 18294,activemerchant/active_merchant,Ruby,1
 339567,stefankroes/ancestry,Ruby,9
 14238949,elastic/elasticsearch-rails,Ruby,1
 34840276,elastic/ansible-elasticsearch,Ruby,2
-151646552,crweiner/hacktoberfest-swag-list,Ruby,5
+151646552,crweiner/hacktoberfest-swag-list,Ruby,4
 502760,danbooru/danbooru,Ruby,1
 109134055,elastic/apm-agent-ruby,Ruby,0
 252266308,turingschool-examples/parks_finder,Ruby,0

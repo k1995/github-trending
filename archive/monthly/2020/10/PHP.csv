@@ -1,12 +1,12 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,660
 3482588,danielmiessler/SecLists,PHP,647
-458058,symfony/symfony,PHP,217
+458058,symfony/symfony,PHP,216
 1864363,composer/composer,PHP,231
 7548986,laravel/framework,PHP,333
 1420053,guzzle/guzzle,PHP,170
-2253830,PHPMailer/PHPMailer,PHP,173
-2889328,WordPress/WordPress,PHP,127
+2253830,PHPMailer/PHPMailer,PHP,174
+2889328,WordPress/WordPress,PHP,125
 60243197,nextcloud/server,PHP,310
 14732311,octobercms/october,PHP,106
 11340559,deployphp/deployer,PHP,115
@@ -17,9 +17,9 @@ id,name,lang,new stars
 76064827,mailcow/mailcow-dockerized,PHP,102
 148129143,bagisto/bagisto,PHP,151
 291805291,laravel/jetstream,PHP,428
-47508644,pterodactyl/panel,PHP,77
+47508644,pterodactyl/panel,PHP,78
 27195711,alextselegidis/easyappointments,PHP,59
 189104054,laravel/ui,PHP,91
-174021137,inertiajs/pingcrm,PHP,69
+174021137,inertiajs/pingcrm,PHP,70
 291804966,laravel/fortify,PHP,241
 223535535,Ignitetch/AdvPhishing,PHP,126
