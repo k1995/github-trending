@@ -1,16 +1,16 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,296
-2579314,fzaninotto/Faker,PHP,48
-458058,symfony/symfony,PHP,45
-1864363,composer/composer,PHP,61
-2889328,WordPress/WordPress,PHP,20
+3482588,danielmiessler/SecLists,PHP,304
+2579314,fzaninotto/Faker,PHP,49
+458058,symfony/symfony,PHP,49
+1864363,composer/composer,PHP,64
+2889328,WordPress/WordPress,PHP,22
 60243197,nextcloud/server,PHP,69
 82238168,monicahq/monica,PHP,37
 10157178,egulias/EmailValidator,PHP,31
 48796179,z-song/laravel-admin,PHP,40
-79111500,jupeter/clean-code-php,PHP,47
+79111500,jupeter/clean-code-php,PHP,46
 677464,doctrine/dbal,PHP,35
-1398648,symfony/http-foundation,PHP,20
+1398648,symfony/http-foundation,PHP,22
 6763587,PrestaShop/PrestaShop,PHP,22
 9826184,elastic/elasticsearch-php,PHP,10
 12204147,mautic/mautic,PHP,19
@@ -19,8 +19,8 @@ id,name,lang,new stars
 29126334,EasyCorp/EasyAdminBundle,PHP,8
 69691727,pmmp/PocketMine-MP,PHP,11
 2686502,pimcore/pimcore,PHP,11
-27195711,alextselegidis/easyappointments,PHP,18
+27195711,alextselegidis/easyappointments,PHP,19
 74026995,CodelyTV/php-ddd-example,PHP,11
-258773185,laravel-frontend-presets/tall,PHP,19
+258773185,laravel-frontend-presets/tall,PHP,18
 286645686,yuantuo666/baiduwp-php,PHP,65
 75645659,WordPress/wordpress-develop,PHP,6
