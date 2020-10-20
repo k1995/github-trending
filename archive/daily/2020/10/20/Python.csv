@@ -1,18 +1,18 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,113
-54346799,public-apis/public-apis,Python,74
+54346799,public-apis/public-apis,Python,73
 63476337,TheAlgorithms/Python,Python,278
 33015583,keras-team/keras,Python,15
 12888993,home-assistant/core,Python,26
 114747226,deepfakes/faceswap,Python,32
 908607,numpy/numpy,Python,13
 162998479,sherlock-project/sherlock,Python,13
-6297520,quantopian/zipline,Python,11
+6297520,quantopian/zipline,Python,10
 38696925,python-telegram-bot/python-telegram-bot,Python,10
-1049095,kivy/kivy,Python,11
+1049095,kivy/kivy,Python,10
 24499174,wifiphisher/wifiphisher,Python,2
-135673451,microsoft/nni,Python,231
-266613704,dabeaz-course/practical-python,Python,148
+135673451,microsoft/nni,Python,212
+266613704,dabeaz-course/practical-python,Python,131
 1099265,cython/cython,Python,13
 172227885,tiangolo/full-stack-fastapi-postgresql,Python,15
 7200116,miguelgrinberg/microblog,Python,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 246079929,owid/covid-19-data,Python,7
 111210856,aiogram/aiogram,Python,3
 222118751,AlexxIT/SonoffLAN,Python,2
-191481588,adamerose/pandasgui,Python,93
-302436113,lucidrains/lambda-networks,Python,303
+191481588,adamerose/pandasgui,Python,94
+302436113,lucidrains/lambda-networks,Python,307
 101975420,H1R0GH057/Anonymous,Python,4
 285728297,t0xic0der/sanctuary-zero,Python,2
