@@ -1,14 +1,14 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,95
+3482588,danielmiessler/SecLists,PHP,92
 2889328,WordPress/WordPress,PHP,2
-8678290,barryvdh/laravel-ide-helper,PHP,4
-82238168,monicahq/monica,PHP,7
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,6
-79111500,jupeter/clean-code-php,PHP,9
-9193949,wallabag/wallabag,PHP,5
+8678290,barryvdh/laravel-ide-helper,PHP,5
+82238168,monicahq/monica,PHP,6
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,8
+79111500,jupeter/clean-code-php,PHP,12
+9193949,wallabag/wallabag,PHP,7
 3217621,phpmyadmin/phpmyadmin,PHP,5
 8875190,Ocramius/ProxyManager,PHP,5
-41463886,codeigniter4/CodeIgniter4,PHP,1
+41463886,codeigniter4/CodeIgniter4,PHP,2
 31425145,billz/raspap-webgui,PHP,7
 69691727,pmmp/PocketMine-MP,PHP,0
 47508644,pterodactyl/panel,PHP,5
@@ -17,9 +17,9 @@ id,name,lang,new stars
 129852395,assimon/dujiaoka,PHP,3
 291804966,laravel/fortify,PHP,7
 25361672,OpenMage/magento-lts,PHP,1
-36526302,pentestmonkey/php-reverse-shell,PHP,0
-297606633,StydeNet/enlighten,PHP,63
-283842837,hashicorp/waypoint-examples,PHP,23
-301796598,Sammyjo20/Wagonwheel,PHP,11
+36526302,pentestmonkey/php-reverse-shell,PHP,1
+297606633,StydeNet/enlighten,PHP,62
+283842837,hashicorp/waypoint-examples,PHP,10
+301796598,Sammyjo20/Wagonwheel,PHP,8
 290286264,WordPress/twentytwentyone,PHP,2
-303647054,raselupm/website-manager,PHP,6
+303647054,raselupm/website-manager,PHP,5
