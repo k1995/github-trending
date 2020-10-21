@@ -1,13 +1,13 @@
 id,name,lang,new stars
 132464395,Snailclimb/JavaGuide,Java,88
-81975372,kdn251/interviews,Java,40
+81975372,kdn251/interviews,Java,35
 9754983,eugenp/tutorials,Java,22
 7010724,dianping/cat,Java,17
 4576305,openzipkin/zipkin,Java,8
 5349565,prestodb/presto,Java,12
-85371262,williamfiset/Algorithms,Java,16
+85371262,williamfiset/Algorithms,Java,14
 133134007,OpenAPITools/openapi-generator,Java,16
-42304749,apache/shardingsphere-elasticjob,Java,10
+42304749,apache/shardingsphere-elasticjob,Java,11
 10981994,OpenFeign/feign,Java,7
 139914932,quarkusio/quarkus,Java,11
 19777812,seven332/EhViewer,Java,8
@@ -18,7 +18,7 @@ id,name,lang,new stars
 120463532,alibaba/COLA,Java,18
 237867883,metersphere/metersphere,Java,13
 38829639,fabric8io/kubernetes-client,Java,3
-265579053,fuzhengwei/itstack-demo-design,Java,176
+265579053,fuzhengwei/itstack-demo-design,Java,185
 131884789,Jigsaw-Code/Intra,Java,1
 303144337,JunzhouLiu/BILIBILI-HELPER,Java,100
 283211901,yuliskov/SmartTubeNext,Java,26
