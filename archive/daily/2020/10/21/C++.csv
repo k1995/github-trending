@@ -2,13 +2,13 @@ id,name,lang,new stars
 9384267,electron/electron,C++,28
 23357588,protocolbuffers/protobuf,C++,17
 65600975,pytorch/pytorch,C++,34
-15634981,godotengine/godot,C++,142
+15634981,godotengine/godot,C++,125
 39840932,google/googletest,C++,15
 22394357,osquery/osquery,C++,6
-126412363,simdjson/simdjson,C++,41
+126412363,simdjson/simdjson,C++,43
 81887991,microsoft/AirSim,C++,5
-26038648,gabime/spdlog,C++,10
-2200856,MarlinFirmware/Marlin,C++,95
+26038648,gabime/spdlog,C++,9
+2200856,MarlinFirmware/Marlin,C++,76
 2310495,ceph/ceph,C++,8
 66088979,changkun/modern-cpp-tutorial,C++,198
 51905353,apache/arrow,C++,9
@@ -22,5 +22,5 @@ id,name,lang,new stars
 267792621,Tencent/TNN,C++,5
 32698469,giuspen/cherrytree,C++,7
 131630299,onnx/onnx-tensorrt,C++,0
-244694174,project-chip/connectedhomeip,C++,11
+244694174,project-chip/connectedhomeip,C++,12
 288393955,XLabsProject/iw6x-client,C++,6
