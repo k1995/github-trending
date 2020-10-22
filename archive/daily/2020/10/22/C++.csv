@@ -1,7 +1,7 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,35
 23357588,protocolbuffers/protobuf,C++,11
-65600975,pytorch/pytorch,C++,32
+65600975,pytorch/pytorch,C++,33
 15634981,godotengine/godot,C++,61
 39840932,google/googletest,C++,10
 22394357,osquery/osquery,C++,1
@@ -10,7 +10,7 @@ id,name,lang,new stars
 26038648,gabime/spdlog,C++,5
 2200856,MarlinFirmware/Marlin,C++,32
 2310495,ceph/ceph,C++,4
-66088979,changkun/modern-cpp-tutorial,C++,165
+66088979,changkun/modern-cpp-tutorial,C++,167
 51905353,apache/arrow,C++,8
 75821432,llvm/llvm-project,C++,15
 221822577,Tencent/Hippy,C++,2

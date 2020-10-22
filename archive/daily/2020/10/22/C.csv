@@ -1,15 +1,15 @@
 id,name,lang,new stars
-36502,git/git,C,16
+36502,git/git,C,17
 18666758,pjreddie/darknet,C,6
 24586308,cfenollosa/os-tutorial,C,6
-569041,curl/curl,C,11
+569041,curl/curl,C,10
 20159867,nothings/stb,C,11
 102578345,coolsnowwolf/lede,C,15
 34921116,iovisor/bcc,C,11
 3714900,arut/nginx-rtmp-module,C,4
 5254557,cloudwu/skynet,C,5
 9330072,fogleman/Craft,C,6
-26181287,rswier/c4,C,14
+26181287,rswier/c4,C,17
 70127218,espressif/arduino-esp32,C,4
 65899476,espressif/esp-idf,C,5
 16734696,meetecho/janus-gateway,C,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1613176,tianocore/edk2,C,3
 40556106,wazuh/wazuh,C,3
 212790745,feiyangqingyun/QWidgetDemo,C,3
-305156553,fabio914/OculusQuestMixedRealityForiOS,C,38
-295651066,swow/swow,C,26
+305156553,fabio914/OculusQuestMixedRealityForiOS,C,39
+295651066,swow/swow,C,28
