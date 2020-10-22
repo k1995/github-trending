@@ -1,26 +1,26 @@
 id,name,lang,new stars
-151834062,doocs/advanced-java,Java,403
+151834062,doocs/advanced-java,Java,393
 20904437,gin-gonic/gin,Go,231
-168008797,microsoft/calculator,C++,71
+168008797,microsoft/calculator,C++,72
 74627617,commaai/openpilot,C++,93
-77358263,SpaceVim/SpaceVim,Vim script,124
-121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,155
-144624857,checkly/headless-recorder,JavaScript,1832
+77358263,SpaceVim/SpaceVim,Vim script,125
+121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,158
+144624857,checkly/headless-recorder,JavaScript,1839
 29857799,facebook/infer,OCaml,122
-101782647,pytorch/fairseq,Python,473
-234231371,gofiber/fiber,Go,793
-135673451,microsoft/nni,Python,1088
-66088979,changkun/modern-cpp-tutorial,C++,821
-264125852,mengshukeji/Luckysheet,JavaScript,1037
-137389229,jonasschmedtmann/complete-javascript-course,JavaScript,118
-19130362,geerlingguy/ansible-for-devops,Python,357
-198484780,beekeeper-studio/beekeeper-studio,Vue,271
-245630760,pcm-dpc/COVID-19,,29
-233130089,charmbracelet/bubbletea,Go,887
-244694886,didi/nightingale,Go,174
-232630362,hashicorp/boundary,Go,910
-208991054,huanzi-qch/base-admin,Java,263
-278772719,anncwb/vue-vben-admin,TypeScript,256
-264154402,crowdsecurity/crowdsec,Go,828
-285494443,lxk0301/scripts,JavaScript,196
-141713671,spatie/spatie.be,PHP,67
+101782647,pytorch/fairseq,Python,496
+234231371,gofiber/fiber,Go,794
+135673451,microsoft/nni,Python,1057
+66088979,changkun/modern-cpp-tutorial,C++,832
+264125852,mengshukeji/Luckysheet,JavaScript,1011
+137389229,jonasschmedtmann/complete-javascript-course,JavaScript,144
+19130362,geerlingguy/ansible-for-devops,Python,346
+198484780,beekeeper-studio/beekeeper-studio,Vue,266
+245630760,pcm-dpc/COVID-19,,30
+233130089,charmbracelet/bubbletea,Go,875
+244694886,didi/nightingale,Go,171
+232630362,hashicorp/boundary,Go,841
+208991054,huanzi-qch/base-admin,Java,258
+278772719,anncwb/vue-vben-admin,TypeScript,253
+264154402,crowdsecurity/crowdsec,Go,850
+285494443,lxk0301/scripts,JavaScript,202
+141713671,spatie/spatie.be,PHP,59

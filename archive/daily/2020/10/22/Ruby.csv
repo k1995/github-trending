@@ -1,17 +1,17 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,15
-538746,ruby/ruby,Ruby,9
+538746,ruby/ruby,Ruby,10
 73648678,forem/forem,Ruby,9
-2203645,CocoaPods/CocoaPods,Ruby,6
+2203645,CocoaPods/CocoaPods,Ruby,5
 1090311,elastic/logstash,Ruby,6
-4095287,rubocop-hq/rubocop,Ruby,11
+4095287,rubocop-hq/rubocop,Ruby,9
 1918677,fluent/fluentd,Ruby,2
 361310,teamcapybara/capybara,Ruby,2
 8393,thoughtbot/paperclip,Ruby,0
-96395,faker-ruby/faker,Ruby,2
-15435,Shopify/liquid,Ruby,3
+96395,faker-ruby/faker,Ruby,1
+15435,Shopify/liquid,Ruby,4
 21829,thoughtbot/factory_bot,Ruby,2
-2441517,puma/puma,Ruby,4
+2441517,puma/puma,Ruby,5
 108278,chef/chef,Ruby,1
 910744,puppetlabs/puppet,Ruby,2
 75785147,rails/webpacker,Ruby,0
@@ -19,7 +19,7 @@ id,name,lang,new stars
 2802565,doorkeeper-gem/doorkeeper,Ruby,1
 96071,rack/rack,Ruby,0
 137805,redis/redis-rb,Ruby,0
-52316423,luggit/react-native-config,Ruby,4
+52316423,luggit/react-native-config,Ruby,2
 14238949,elastic/elasticsearch-rails,Ruby,1
 614070,rubygems/rubygems,Ruby,2
 588600,brianmario/mysql2,Ruby,0
