@@ -1,16 +1,16 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,335
+3482588,danielmiessler/SecLists,PHP,338
 2579314,fzaninotto/Faker,PHP,49
-458058,symfony/symfony,PHP,49
-1864363,composer/composer,PHP,61
-1376664,Seldaek/monolog,PHP,44
+458058,symfony/symfony,PHP,48
+1864363,composer/composer,PHP,60
+1376664,Seldaek/monolog,PHP,43
 2889328,WordPress/WordPress,PHP,19
 1631570,nikic/PHP-Parser,PHP,40
 60243197,nextcloud/server,PHP,69
 82238168,monicahq/monica,PHP,36
 79111500,jupeter/clean-code-php,PHP,49
 677464,doctrine/dbal,PHP,31
-2179920,woocommerce/woocommerce,PHP,65
+2179920,woocommerce/woocommerce,PHP,66
 6763587,PrestaShop/PrestaShop,PHP,24
 8875190,Ocramius/ProxyManager,PHP,19
 76064827,mailcow/mailcow-dockerized,PHP,30
@@ -20,6 +20,6 @@ id,name,lang,new stars
 27195711,alextselegidis/easyappointments,PHP,19
 74026995,CodelyTV/php-ddd-example,PHP,13
 111562942,statamic/cms,PHP,55
-286645686,yuantuo666/baiduwp-php,PHP,62
+286645686,yuantuo666/baiduwp-php,PHP,63
 75645659,WordPress/wordpress-develop,PHP,7
-141713671,spatie/spatie.be,PHP,88
+141713671,spatie/spatie.be,PHP,87

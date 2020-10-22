@@ -1,12 +1,12 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,60
-7569578,discourse/discourse,Ruby,49
+7569578,discourse/discourse,Ruby,52
 27442967,fastlane/fastlane,Ruby,56
 13840241,freeCodeCamp/devdocs,Ruby,39
-52281283,tootsuite/mastodon,Ruby,107
-2293158,rapid7/metasploit-framework,Ruby,69
+52281283,tootsuite/mastodon,Ruby,108
+2293158,rapid7/metasploit-framework,Ruby,68
 308770,heartcombo/devise,Ruby,19
-481872,hashicorp/vagrant,Ruby,73
+481872,hashicorp/vagrant,Ruby,74
 1090311,elastic/logstash,Ruby,20
 3195124,mperham/sidekiq,Ruby,16
 96395,faker-ruby/faker,Ruby,9
@@ -14,13 +14,13 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,8
 75785147,rails/webpacker,Ruby,3
 447184,rspec/rspec-rails,Ruby,10
-6899875,opf/openproject,Ruby,127
+6899875,opf/openproject,Ruby,129
 18294,activemerchant/active_merchant,Ruby,3
 558790,zdennis/activerecord-import,Ruby,3
 11426474,github/choosealicense.com,Ruby,14
 1175581,citation-style-language/styles,Ruby,10
 103766152,github/explore,Ruby,19
-56942570,Homebrew/linuxbrew-core,Ruby,9
+56942570,Homebrew/linuxbrew-core,Ruby,10
 65914086,decidim/decidim,Ruby,7
-10504669,publiclab/plots2,Ruby,8
-300489205,ankane/informers,Ruby,102
+10504669,publiclab/plots2,Ruby,9
+300489205,ankane/informers,Ruby,103
