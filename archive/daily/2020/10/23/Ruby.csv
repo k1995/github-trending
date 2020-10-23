@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,15
-538746,ruby/ruby,Ruby,4
-73648678,forem/forem,Ruby,12
+8514,rails/rails,Ruby,12
+538746,ruby/ruby,Ruby,2
+73648678,forem/forem,Ruby,13
 2203645,CocoaPods/CocoaPods,Ruby,4
 1090311,elastic/logstash,Ruby,6
 4095287,rubocop-hq/rubocop,Ruby,8
-1918677,fluent/fluentd,Ruby,2
+1918677,fluent/fluentd,Ruby,0
 361310,teamcapybara/capybara,Ruby,1
 8393,thoughtbot/paperclip,Ruby,0
 96395,faker-ruby/faker,Ruby,2
-15435,Shopify/liquid,Ruby,4
-21829,thoughtbot/factory_bot,Ruby,1
+15435,Shopify/liquid,Ruby,3
+21829,thoughtbot/factory_bot,Ruby,2
 2441517,puma/puma,Ruby,4
-108278,chef/chef,Ruby,2
+108278,chef/chef,Ruby,1
 910744,puppetlabs/puppet,Ruby,4
 75785147,rails/webpacker,Ruby,1
 1548802,activerecord-hackery/ransack,Ruby,1

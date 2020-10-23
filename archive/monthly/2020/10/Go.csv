@@ -1,13 +1,13 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,916
-7691631,moby/moby,Go,498
-11180687,gohugoio/hugo,Go,735
+20580498,kubernetes/kubernetes,Go,915
+7691631,moby/moby,Go,496
+11180687,gohugoio/hugo,Go,738
 17728164,hashicorp/terraform,Go,399
-72495579,go-gitea/gitea,Go,416
-212613049,cli/cli,Go,3495
+72495579,go-gitea/gitea,Go,414
+212613049,cli/cli,Go,3471
 56353740,kubernetes/minikube,Go,237
 37448451,mattermost/mattermost-server,Go,284
-26337322,rancher/rancher,Go,316
+26337322,rancher/rancher,Go,315
 61137153,evanw/esbuild,Go,2252
 21827146,chrislusf/seaweedfs,Go,559
 234231371,gofiber/fiber,Go,1240
@@ -23,4 +23,4 @@ id,name,lang,new stars
 43332504,GoogleCloudPlatform/golang-samples,Go,68
 248025303,p4gefau1t/trojan-go,Go,469
 279297541,lanyulei/ferry,Go,1453
-297167688,ianmarmour/nvidia-clerk,Go,98
+297167688,ianmarmour/nvidia-clerk,Go,96

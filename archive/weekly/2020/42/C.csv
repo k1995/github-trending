@@ -1,15 +1,15 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,153
+10744183,netdata/netdata,C,155
 156018,redis/redis,C,104
-36502,git/git,C,121
-1614410,FFmpeg/FFmpeg,C,98
+36502,git/git,C,120
+1614410,FFmpeg/FFmpeg,C,99
 20159867,nothings/stb,C,50
-102578345,coolsnowwolf/lede,C,107
-80286288,arendst/Tasmota,C,110
-2810292,pbatard/rufus,C,79
+102578345,coolsnowwolf/lede,C,108
+80286288,arendst/Tasmota,C,109
+2810292,pbatard/rufus,C,80
 5254557,cloudwu/skynet,C,33
-63477515,TheAlgorithms/C,C,81
-70127218,espressif/arduino-esp32,C,33
+63477515,TheAlgorithms/C,C,82
+70127218,espressif/arduino-esp32,C,34
 5870069,edenhill/librdkafka,C,21
 16734696,meetecho/janus-gateway,C,26
 60667730,lvgl/lvgl,C,45
@@ -18,9 +18,9 @@ id,name,lang,new stars
 101540444,imbushuo/mac-precision-touchpad,C,55
 59676171,KevinOConnor/klipper,C,19
 123135691,tanersener/mobile-ffmpeg,C,54
-115765590,OAID/Tengine,C,61
+115765590,OAID/Tengine,C,60
 195445651,thestr4ng3r/chiaki,C,36
 2339555,karelzak/util-linux,C,12
 2276287,riscv/riscv-isa-sim,C,17
-211756905,MarlinFirmware/Configurations,C,13
-290808391,atc1441/ATC_MiThermometer,C,44
+211756905,MarlinFirmware/Configurations,C,12
+290808391,atc1441/ATC_MiThermometer,C,45
