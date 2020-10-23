@@ -1,7 +1,7 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,27
-23357588,protocolbuffers/protobuf,C++,25
-65600975,pytorch/pytorch,C++,26
+23357588,protocolbuffers/protobuf,C++,22
+65600975,pytorch/pytorch,C++,27
 11171548,nlohmann/json,C++,14
 4524181,facebook/folly,C++,7
 1062572,catchorg/Catch2,C++,6
@@ -15,12 +15,12 @@ id,name,lang,new stars
 181436799,alibaba/MNN,C++,15
 153866232,TheCherno/Hazel,C++,12
 5909706,yhirose/cpp-httplib,C++,6
-64561753,dusty-nv/jetson-inference,C++,10
-156939672,microsoft/onnxruntime,C++,8
+64561753,dusty-nv/jetson-inference,C++,11
+156939672,microsoft/onnxruntime,C++,6
 76990209,Aircoookie/WLED,C++,11
-79317191,typesense/typesense,C++,45
+79317191,typesense/typesense,C++,40
 283410102,sogou/workflow,C++,42
 153097643,openvinotoolkit/openvino,C++,0
 156614409,microsoft/wil,C++,3
 86362856,borglab/gtsam,C++,2
-301450345,div-bargali/Data-Structures-and-Algorithms,C++,10
+301450345,div-bargali/Data-Structures-and-Algorithms,C++,9
