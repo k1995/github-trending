@@ -9,10 +9,10 @@ id,name,lang,new stars
 13624859,gorilla/websocket,Go,17
 5179099,go-redis/redis,Go,12
 21405028,ardanlabs/gotraining,Go,8
-27051771,golang/protobuf,Go,7
+27051771,golang/protobuf,Go,6
 36653430,hashicorp/nomad,Go,6
 132145189,golangci/golangci-lint,Go,21
-6098927,robertkrimen/otto,Go,11
+6098927,robertkrimen/otto,Go,17
 40684033,mozilla/sops,Go,23
 68964263,prometheus-operator/prometheus-operator,Go,6
 120896210,argoproj/argo-cd,Go,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 66509131,kubernetes/client-go,Go,7
 7823926,prometheus/client_golang,Go,3
 94831761,hyperledger/fabric-samples,Go,3
-302390676,icexin/eggos,Go,279
-287403351,arl/statsviz,Go,148
+302390676,icexin/eggos,Go,282
+287403351,arl/statsviz,Go,158
 254158055,ZupIT/ritchie-cli,Go,4
 300626408,amit-davidson/Chronos,Go,40
