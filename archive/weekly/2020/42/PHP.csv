@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,339
+3482588,danielmiessler/SecLists,PHP,343
 2579314,fzaninotto/Faker,PHP,51
-1376664,Seldaek/monolog,PHP,46
+1376664,Seldaek/monolog,PHP,47
 2889328,WordPress/WordPress,PHP,32
 3431193,yiisoft/yii2,PHP,14
 48796179,z-song/laravel-admin,PHP,46
 79111500,jupeter/clean-code-php,PHP,45
-677464,doctrine/dbal,PHP,26
-330275,twigphp/Twig,PHP,12
+677464,doctrine/dbal,PHP,27
+330275,twigphp/Twig,PHP,13
 2179920,woocommerce/woocommerce,PHP,74
-8875190,Ocramius/ProxyManager,PHP,25
+8875190,Ocramius/ProxyManager,PHP,26
 97311017,rectorphp/rector,PHP,30
-159606650,hyperf/hyperf,PHP,25
+159606650,hyperf/hyperf,PHP,26
 41463886,codeigniter4/CodeIgniter4,PHP,27
 69691727,pmmp/PocketMine-MP,PHP,16
 47508644,pterodactyl/panel,PHP,24
@@ -21,6 +21,6 @@ id,name,lang,new stars
 74026995,CodelyTV/php-ddd-example,PHP,13
 111562942,statamic/cms,PHP,56
 297606633,StydeNet/enlighten,PHP,193
-295931854,ksassnowski/venture,PHP,127
+295931854,ksassnowski/venture,PHP,128
 141713671,spatie/spatie.be,PHP,48
 283842837,hashicorp/waypoint-examples,PHP,137
