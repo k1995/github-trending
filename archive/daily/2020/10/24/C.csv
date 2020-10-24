@@ -2,9 +2,9 @@ id,name,lang,new stars
 2325298,torvalds/linux,C,59
 111583593,Genymobile/scrcpy,C,42
 1903522,php/php-src,C,12
-3774328,wg/wrk,C,12
-569041,curl/curl,C,2
-102578345,coolsnowwolf/lede,C,10
+3774328,wg/wrk,C,13
+569041,curl/curl,C,3
+102578345,coolsnowwolf/lede,C,15
 34921116,iovisor/bcc,C,4
 90320494,ish-app/ish,C,247
 7408108,RT-Thread/rt-thread,C,6
@@ -16,11 +16,11 @@ id,name,lang,new stars
 3349840,hak5darren/USB-Rubber-Ducky,C,6
 31791482,microsoft/Windows-driver-samples,C,3
 59771425,zephyrproject-rtos/zephyr,C,2
-168906122,skeeto/endlessh,C,53
+168906122,skeeto/endlessh,C,65
 6331631,axboe/fio,C,4
 34807561,nanopb/nanopb,C,2
 33140616,arnaud-lb/php-rdkafka,C,1
-65415224,elfmz/far2l,C,8
 302298095,ibireme/yyjson,C,180
+65415224,elfmz/far2l,C,10
 20147614,stephenbradshaw/vulnserver,C,6
 295651066,swow/swow,C,8

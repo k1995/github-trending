@@ -3,7 +3,7 @@ id,name,lang,new stars
 2889328,WordPress/WordPress,PHP,9
 1305114,roots/sage,PHP,1
 4916869,ramsey/uuid,PHP,1
-8678290,barryvdh/laravel-ide-helper,PHP,2
+8678290,barryvdh/laravel-ide-helper,PHP,3
 14259390,Maatwebsite/Laravel-Excel,PHP,3
 61490598,PHPOffice/PhpSpreadsheet,PHP,7
 597887,doctrine/orm,PHP,1
@@ -15,7 +15,7 @@ id,name,lang,new stars
 9077725,giggsey/libphonenumber-for-php,PHP,0
 74386167,vimeo/psalm,PHP,5
 97311017,rectorphp/rector,PHP,12
-8077402,MISP/MISP,PHP,3
+8077402,MISP/MISP,PHP,4
 255703597,beyondcode/expose,PHP,3
 1953386,stripe/stripe-php,PHP,3
 72453516,wp-graphql/wp-graphql,PHP,2
