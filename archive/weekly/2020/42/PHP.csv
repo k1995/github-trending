@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,333
+3482588,danielmiessler/SecLists,PHP,335
 458058,symfony/symfony,PHP,45
 2889328,WordPress/WordPress,PHP,31
 1631570,nikic/PHP-Parser,PHP,39
@@ -15,12 +15,12 @@ id,name,lang,new stars
 76064827,mailcow/mailcow-dockerized,PHP,28
 159606650,hyperf/hyperf,PHP,25
 41463886,codeigniter4/CodeIgniter4,PHP,23
-139191005,nunomaduro/larastan,PHP,11
+139191005,nunomaduro/larastan,PHP,12
 47508644,pterodactyl/panel,PHP,24
 74026995,CodelyTV/php-ddd-example,PHP,13
 258773185,laravel-frontend-presets/tall,PHP,22
 111562942,statamic/cms,PHP,55
-286645686,yuantuo666/baiduwp-php,PHP,55
+286645686,yuantuo666/baiduwp-php,PHP,56
 297606633,StydeNet/enlighten,PHP,192
-141713671,spatie/spatie.be,PHP,46
-283842837,hashicorp/waypoint-examples,PHP,136
+141713671,spatie/spatie.be,PHP,47
+283842837,hashicorp/waypoint-examples,PHP,137

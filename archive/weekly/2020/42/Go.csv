@@ -1,7 +1,7 @@
 id,name,lang,new stars
-23096959,golang/go,Go,316
-20580498,kubernetes/kubernetes,Go,213
-20904437,gin-gonic/gin,Go,220
+23096959,golang/go,Go,318
+20580498,kubernetes/kubernetes,Go,215
+20904437,gin-gonic/gin,Go,222
 6838921,prometheus/prometheus,Go,132
 41986369,pingcap/tidb,Go,97
 29261473,minio/minio,Go,103
@@ -12,15 +12,15 @@ id,name,lang,new stars
 27729907,grpc/grpc-go,Go,65
 8966356,hashicorp/packer,Go,35
 165041732,go-kratos/kratos,Go,56
-234231371,gofiber/fiber,Go,801
+234231371,gofiber/fiber,Go,804
 119160553,photoprism/photoprism,Go,114
-181461073,v2fly/v2ray-core,Go,212
-233130089,charmbracelet/bubbletea,Go,738
-259191284,hashicorp/waypoint,Go,1553
+181461073,v2fly/v2ray-core,Go,213
+233130089,charmbracelet/bubbletea,Go,741
+259191284,hashicorp/waypoint,Go,1571
 206213815,chaos-mesh/chaos-mesh,Go,65
-244694886,didi/nightingale,Go,137
-232630362,hashicorp/boundary,Go,472
+244694886,didi/nightingale,Go,138
+232630362,hashicorp/boundary,Go,473
 51193526,cosmos/cosmos-sdk,Go,11
-264154402,crowdsecurity/crowdsec,Go,906
-298060777,liamg/gitjacker,Go,646
+264154402,crowdsecurity/crowdsec,Go,912
+298060777,liamg/gitjacker,Go,647
 215654064,temporalio/temporal,Go,259
