@@ -2,12 +2,12 @@ id,name,lang,new stars
 65600975,pytorch/pytorch,C++,53
 27729880,grpc/grpc,C++,25
 22067521,ocornut/imgui,C++,39
-6934395,facebook/rocksdb,C++,9
-74627617,commaai/openpilot,C++,69
-24420506,v8/v8,C++,14
+6934395,facebook/rocksdb,C++,8
+74627617,commaai/openpilot,C++,67
+24420506,v8/v8,C++,13
 60246359,ClickHouse/ClickHouse,C++,27
 126412363,simdjson/simdjson,C++,27
-1062572,catchorg/Catch2,C++,10
+1062572,catchorg/Catch2,C++,8
 34777562,ossrs/srs,C++,15
 98771110,zhongyang219/TrafficMonitor,C++,24
 9090933,capnproto/capnproto,C++,6
