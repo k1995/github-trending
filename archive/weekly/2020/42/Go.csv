@@ -1,6 +1,6 @@
 id,name,lang,new stars
 23096959,golang/go,Go,347
-20904437,gin-gonic/gin,Go,241
+20904437,gin-gonic/gin,Go,244
 6838921,prometheus/prometheus,Go,146
 41986369,pingcap/tidb,Go,113
 3577919,astaxie/beego,Go,69
@@ -9,18 +9,18 @@ id,name,lang,new stars
 50613991,goharbor/harbor,Go,59
 165041732,go-kratos/kratos,Go,61
 234231371,gofiber/fiber,Go,824
-158645957,OpenDiablo2/OpenDiablo2,Go,29
+158645957,OpenDiablo2/OpenDiablo2,Go,31
 27051771,golang/protobuf,Go,33
 81355383,mongodb/mongo-go-driver,Go,37
-219616873,charmbracelet/glow,Go,2272
-181461073,v2fly/v2ray-core,Go,236
-233130089,charmbracelet/bubbletea,Go,774
-259191284,hashicorp/waypoint,Go,1630
+219616873,charmbracelet/glow,Go,2275
+181461073,v2fly/v2ray-core,Go,237
+233130089,charmbracelet/bubbletea,Go,777
+259191284,hashicorp/waypoint,Go,1617
 154643390,sundowndev/PhoneInfoga,Go,43
 244694886,didi/nightingale,Go,141
-232630362,hashicorp/boundary,Go,482
+232630362,hashicorp/boundary,Go,468
 51193526,cosmos/cosmos-sdk,Go,13
-264154402,crowdsecurity/crowdsec,Go,942
-298060777,liamg/gitjacker,Go,655
-215654064,temporalio/temporal,Go,266
-238553537,gofiber/recipes,Go,29
+264154402,crowdsecurity/crowdsec,Go,946
+298060777,liamg/gitjacker,Go,658
+215654064,temporalio/temporal,Go,264
+238553537,gofiber/recipes,Go,28
