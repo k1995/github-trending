@@ -1,26 +1,26 @@
 id,name,lang,new stars
-27193779,nodejs/node,JavaScript,188
+27193779,nodejs/node,JavaScript,196
 12888993,home-assistant/core,Python,42
 5483330,soimort/you-get,Python,92
-80276391,GitSquared/edex-ui,JavaScript,252
-74627617,commaai/openpilot,C++,53
-162998479,sherlock-project/sherlock,Python,46
+80276391,GitSquared/edex-ui,JavaScript,635
+74627617,commaai/openpilot,C++,67
+162998479,sherlock-project/sherlock,Python,45
 102578345,coolsnowwolf/lede,C,29
 41889031,TeamNewPipe/NewPipe,Java,69
-243838973,fastai/fastbook,Jupyter Notebook,98
+243838973,fastai/fastbook,Jupyter Notebook,247
 178626720,PyTorchLightning/pytorch-lightning,Python,235
-153866232,TheCherno/Hazel,C++,15
+153866232,TheCherno/Hazel,C++,20
 1304738,github/dmca,Rich Text Format,257
-168906122,skeeto/endlessh,C,111
+168906122,skeeto/endlessh,C,194
 21333232,fent/node-ytdl-core,HTML,19
-282179811,EmbarkStudios/rust-gpu,Rust,863
+282179811,EmbarkStudios/rust-gpu,Rust,866
 288540467,prabhuignoto/react-chrono,TypeScript,967
-275095333,gao-sun/eul,Swift,535
-306187288,ShameCom/ShameCom,,723
-306084140,hyue418/taobao-11-11,JavaScript,445
-303541321,sberbank-ai/ru-gpts,Python,96
+275095333,gao-sun/eul,Swift,536
+306187288,ShameCom/ShameCom,,725
+306084140,hyue418/taobao-11-11,JavaScript,452
+303541321,sberbank-ai/ru-gpts,Python,226
+306742184,l1ving/youtube-dl,Python,262
 249556851,MicrosoftDocs/ai-fundamentals,Jupyter Notebook,51
-306742184,l1ving/youtube-dl,Python,253
 306383759,jiupinjia/SkyAR,Python,188
-304323992,mitre/advmlthreatmatrix,,155
-306226712,willdoescode/nat,Rust,144
+306226712,willdoescode/nat,Rust,148
+304323992,mitre/advmlthreatmatrix,,158
