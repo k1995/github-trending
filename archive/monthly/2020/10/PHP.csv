@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,655
-3482588,danielmiessler/SecLists,PHP,757
-2579314,fzaninotto/Faker,PHP,222
-458058,symfony/symfony,PHP,224
-1864363,composer/composer,PHP,237
-7548986,laravel/framework,PHP,321
+1863329,laravel/laravel,PHP,656
+3482588,danielmiessler/SecLists,PHP,760
+2579314,fzaninotto/Faker,PHP,224
+458058,symfony/symfony,PHP,226
+1864363,composer/composer,PHP,241
+7548986,laravel/framework,PHP,322
 1376664,Seldaek/monolog,PHP,124
-2253830,PHPMailer/PHPMailer,PHP,167
-2889328,WordPress/WordPress,PHP,131
-60243197,nextcloud/server,PHP,323
+2253830,PHPMailer/PHPMailer,PHP,168
+2889328,WordPress/WordPress,PHP,134
+60243197,nextcloud/server,PHP,324
 11340559,deployphp/deployer,PHP,117
 2179920,woocommerce/woocommerce,PHP,141
 2717549,Sylius/Sylius,PHP,68
@@ -20,6 +20,6 @@ id,name,lang,new stars
 74026995,CodelyTV/php-ddd-example,PHP,48
 189104054,laravel/ui,PHP,92
 174021137,inertiajs/pingcrm,PHP,65
-291804966,laravel/fortify,PHP,211
-223535535,Ignitetch/AdvPhishing,PHP,137
+291804966,laravel/fortify,PHP,212
+223535535,Ignitetch/AdvPhishing,PHP,138
 290286264,WordPress/twentytwentyone,PHP,100
