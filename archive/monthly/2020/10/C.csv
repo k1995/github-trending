@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1960
+2325298,torvalds/linux,C,1967
 36502,git/git,C,521
-1903522,php/php-src,C,324
-13233158,obsproject/obs-studio,C,952
+1903522,php/php-src,C,326
+13233158,obsproject/obs-studio,C,954
 1614410,FFmpeg/FFmpeg,C,404
-11715753,robertdavidgraham/masscan,C,978
-29759715,facebook/zstd,C,258
-102578345,coolsnowwolf/lede,C,465
-80286288,arendst/Tasmota,C,452
+11715753,robertdavidgraham/masscan,C,977
+29759715,facebook/zstd,C,260
+102578345,coolsnowwolf/lede,C,468
+80286288,arendst/Tasmota,C,453
 105627846,reactos/reactos,C,262
-90320494,ish-app/ish,C,859
-63477515,TheAlgorithms/C,C,309
+90320494,ish-app/ish,C,867
+63477515,TheAlgorithms/C,C,310
 70127218,espressif/arduino-esp32,C,135
 3568543,rui314/8cc,C,100
 22711503,gcc-mirror/gcc,C,165
@@ -22,5 +22,5 @@ id,name,lang,new stars
 115765590,OAID/Tengine,C,105
 5410234,OISF/suricata,C,49
 195445651,thestr4ng3r/chiaki,C,103
-293316071,bellard/quickjs,C,773
+293316071,bellard/quickjs,C,784
 211756905,MarlinFirmware/Configurations,C,60
