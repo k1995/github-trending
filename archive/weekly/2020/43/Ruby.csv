@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,68
-65252,jekyll/jekyll,Ruby,66
+8514,rails/rails,Ruby,67
+65252,jekyll/jekyll,Ruby,64
 27442967,fastlane/fastlane,Ruby,63
-8681349,huginn/huginn,Ruby,57
+8681349,huginn/huginn,Ruby,58
 52281283,tootsuite/mastodon,Ruby,93
-2293158,rapid7/metasploit-framework,Ruby,75
+2293158,rapid7/metasploit-framework,Ruby,76
 308770,heartcombo/devise,Ruby,18
 481872,hashicorp/vagrant,Ruby,48
 4095287,rubocop-hq/rubocop,Ruby,37
@@ -13,14 +13,14 @@ id,name,lang,new stars
 3195124,mperham/sidekiq,Ruby,16
 1918677,fluent/fluentd,Ruby,25
 96395,faker-ruby/faker,Ruby,13
-611921,activeadmin/activeadmin,Ruby,5
-1725199,github/linguist,Ruby,26
-75785147,rails/webpacker,Ruby,6
-6899875,opf/openproject,Ruby,48
+611921,activeadmin/activeadmin,Ruby,6
+1725199,github/linguist,Ruby,25
+75785147,rails/webpacker,Ruby,7
+6899875,opf/openproject,Ruby,46
 32841259,dtan4/terraforming,Ruby,21
-30985840,solidusio/solidus,Ruby,10
-17204381,ankane/ahoy,Ruby,9
-103766152,github/explore,Ruby,20
+30985840,solidusio/solidus,Ruby,11
+17204381,ankane/ahoy,Ruby,8
+103766152,github/explore,Ruby,21
 56942570,Homebrew/linuxbrew-core,Ruby,8
 65914086,decidim/decidim,Ruby,9
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,16
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,15
