@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,25
-3482588,danielmiessler/SecLists,PHP,52
+3482588,danielmiessler/SecLists,PHP,17
 2579314,fzaninotto/Faker,PHP,28
 1864363,composer/composer,PHP,51
 8708394,filp/whoops,PHP,7
@@ -8,7 +8,7 @@ id,name,lang,new stars
 82238168,monicahq/monica,PHP,7
 14732311,octobercms/october,PHP,8
 677464,doctrine/dbal,PHP,7
-9779017,fideloper/TrustedProxy,PHP,6
+9779017,fideloper/TrustedProxy,PHP,3
 77071207,laravel/tinker,PHP,7
 2141186,opencart/opencart,PHP,4
 21298446,firefly-iii/firefly-iii,PHP,6
@@ -23,4 +23,4 @@ id,name,lang,new stars
 174021137,inertiajs/pingcrm,PHP,0
 36526302,pentestmonkey/php-reverse-shell,PHP,7
 306215639,interesting-1024/end,PHP,18
-278247118,thecodeholic/php-mvc-framework,PHP,3
+278247118,thecodeholic/php-mvc-framework,PHP,2
