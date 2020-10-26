@@ -1,26 +1,26 @@
 id,name,lang,new stars
-23088740,axios/axios,JavaScript,308
-20904437,gin-gonic/gin,Go,269
-74293321,sveltejs/svelte,JavaScript,1202
-5483330,soimort/you-get,Python,376
-238316428,CSSEGISandData/COVID-19,,172
-52281283,tootsuite/mastodon,Ruby,100
-74627617,commaai/openpilot,C++,592
-77358263,SpaceVim/SpaceVim,Vim script,175
-41889031,TeamNewPipe/NewPipe,Java,291
-101782647,pytorch/fairseq,Python,724
-234231371,gofiber/fiber,Go,847
-135673451,microsoft/nni,Python,894
-66088979,changkun/modern-cpp-tutorial,C++,966
-80171078,hyb1996/Auto.js,Java,426
-137389229,jonasschmedtmann/complete-javascript-course,JavaScript,401
-219616873,charmbracelet/glow,Go,2361
-245630760,pcm-dpc/COVID-19,,47
-276444578,aristocratos/bpytop,Python,437
-120463532,alibaba/COLA,Java,67
-259191284,hashicorp/waypoint,Go,1692
-264154402,crowdsecurity/crowdsec,Go,1089
-208991054,huanzi-qch/base-admin,Java,261
-265579053,fuzhengwei/itstack-demo-design,Java,1046
-285494443,lxk0301/scripts,JavaScript,492
-283842837,hashicorp/waypoint-examples,PHP,137
+10270250,facebook/react,JavaScript,579
+23088740,axios/axios,JavaScript,261
+20904437,gin-gonic/gin,Go,211
+5483330,soimort/you-get,Python,335
+238316428,CSSEGISandData/COVID-19,,150
+52281283,tootsuite/mastodon,Ruby,93
+80276391,GitSquared/edex-ui,JavaScript,1665
+74627617,commaai/openpilot,C++,601
+77358263,SpaceVim/SpaceVim,Vim script,148
+4095287,rubocop-hq/rubocop,Ruby,37
+41889031,TeamNewPipe/NewPipe,Java,272
+101782647,pytorch/fairseq,Python,719
+234231371,gofiber/fiber,Go,573
+135673451,microsoft/nni,Python,508
+80171078,hyb1996/Auto.js,Java,431
+137389229,jonasschmedtmann/complete-javascript-course,JavaScript,386
+219616873,charmbracelet/glow,Go,1057
+276444578,aristocratos/bpytop,Python,222
+120463532,alibaba/COLA,Java,65
+259191284,hashicorp/waypoint,Go,712
+264154402,crowdsecurity/crowdsec,Go,1083
+208991054,huanzi-qch/base-admin,Java,194
+265579053,fuzhengwei/itstack-demo-design,Java,742
+285494443,lxk0301/scripts,JavaScript,460
+185917673,nschurmann/configs,Vim script,78
