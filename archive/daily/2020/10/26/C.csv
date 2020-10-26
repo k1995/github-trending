@@ -7,7 +7,7 @@ id,name,lang,new stars
 95133665,s-matyukevich/raspberry-pi-os,C,16
 66150122,jarun/nnn,C,26
 27737393,qmk/qmk_firmware,C,14
-90320494,ish-app/ish,C,675
+90320494,ish-app/ish,C,117
 3199002,raspberrypi/linux,C,10
 70127218,espressif/arduino-esp32,C,9
 179354282,acidanthera/OpenCorePkg,C,28
@@ -19,8 +19,8 @@ id,name,lang,new stars
 168906122,skeeto/endlessh,C,401
 130578889,pymumu/smartdns,C,18
 108568638,hanwckf/rt-n56u,C,12
-293316071,bellard/quickjs,C,212
-302298095,ibireme/yyjson,C,332
+293316071,bellard/quickjs,C,219
+302298095,ibireme/yyjson,C,41
 259858821,peng-zhihui/Project-Quantum,C,9
 211756905,MarlinFirmware/Configurations,C,4
 240946290,Mixiaoxiao/Arduino-HomeKit-ESP8266,C,14
