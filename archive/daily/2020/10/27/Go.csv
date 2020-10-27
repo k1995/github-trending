@@ -1,16 +1,16 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,49
-48378947,fatedier/frp,Go,43
+20580498,kubernetes/kubernetes,Go,50
+48378947,fatedier/frp,Go,44
 5271882,astaxie/build-web-application-with-golang,Go,11
-42408804,traefik/traefik,Go,17
+42408804,traefik/traefik,Go,18
 74175805,istio/istio,Go,10
 72495579,go-gitea/gitea,Go,26
 122734569,iawia002/annie,Go,43
 62091339,kubernetes/kops,Go,12
-129717717,grafana/loki,Go,28
+129717717,grafana/loki,Go,22
 77419377,bcicen/ctop,Go,17
-272035489,greyireland/algorithm-pattern,Go,27
-16554739,elastic/beats,Go,4
+272035489,greyireland/algorithm-pattern,Go,26
+16554739,elastic/beats,Go,3
 7877397,jmoiron/sqlx,Go,9
 97533102,halfrost/LeetCode-Go,Go,23
 169948217,crawlab-team/crawlab,Go,8
@@ -22,5 +22,5 @@ id,name,lang,new stars
 84610043,kubernetes-sigs/aws-load-balancer-controller,Go,8
 187086161,open-telemetry/opentelemetry-go,Go,8
 193681111,filecoin-project/lotus,Go,4
-237391530,free5gc/free5gc,Go,2
+237391530,free5gc/free5gc,Go,3
 217194084,bitepeng/b0pass,Go,29
