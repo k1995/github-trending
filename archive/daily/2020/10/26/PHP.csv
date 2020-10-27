@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,25
-3482588,danielmiessler/SecLists,PHP,17
+3482588,danielmiessler/SecLists,PHP,51
 2579314,fzaninotto/Faker,PHP,28
 1864363,composer/composer,PHP,51
 8708394,filp/whoops,PHP,7
@@ -8,7 +8,7 @@ id,name,lang,new stars
 82238168,monicahq/monica,PHP,7
 14732311,octobercms/october,PHP,8
 677464,doctrine/dbal,PHP,7
-9779017,fideloper/TrustedProxy,PHP,3
+9779017,fideloper/TrustedProxy,PHP,6
 77071207,laravel/tinker,PHP,7
 2141186,opencart/opencart,PHP,4
 21298446,firefly-iii/firefly-iii,PHP,6
