@@ -2,7 +2,7 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,23
 3482588,danielmiessler/SecLists,PHP,20
 2579314,fzaninotto/Faker,PHP,9
-1864363,composer/composer,PHP,30
+1864363,composer/composer,PHP,29
 8708394,filp/whoops,PHP,4
 8678290,barryvdh/laravel-ide-helper,PHP,7
 82238168,monicahq/monica,PHP,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 262361837,tighten/takeout,PHP,17
 174021137,inertiajs/pingcrm,PHP,1
 36526302,pentestmonkey/php-reverse-shell,PHP,2
-306215639,interesting-1024/end,PHP,18
-278247118,thecodeholic/php-mvc-framework,PHP,1
+306215639,interesting-1024/end,PHP,17
+278247118,thecodeholic/php-mvc-framework,PHP,3
