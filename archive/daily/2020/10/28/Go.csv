@@ -17,9 +17,9 @@ id,name,lang,new stars
 3698588,lib/pq,Go,4
 26661222,tinode/chat,Go,3
 78869430,heroiclabs/nakama,Go,4
-165092572,go-echarts/go-echarts,Go,96
+165092572,go-echarts/go-echarts,Go,91
 93446042,terraform-providers/terraform-provider-azurerm,Go,2
-84610043,kubernetes-sigs/aws-load-balancer-controller,Go,37
+84610043,kubernetes-sigs/aws-load-balancer-controller,Go,30
 187086161,open-telemetry/opentelemetry-go,Go,4
 193681111,filecoin-project/lotus,Go,4
 237391530,free5gc/free5gc,Go,3
