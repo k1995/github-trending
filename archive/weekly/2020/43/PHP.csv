@@ -1,6 +1,6 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,153
-2579314,fzaninotto/Faker,PHP,79
+3482588,danielmiessler/SecLists,PHP,152
+2579314,fzaninotto/Faker,PHP,82
 1864363,composer/composer,PHP,112
 458058,symfony/symfony,PHP,36
 7548986,laravel/framework,PHP,55
@@ -11,16 +11,16 @@ id,name,lang,new stars
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,26
 48796179,z-song/laravel-admin,PHP,41
 61490598,PHPOffice/PhpSpreadsheet,PHP,31
-2699935,squizlabs/PHP_CodeSniffer,PHP,42
+2699935,squizlabs/PHP_CodeSniffer,PHP,41
 38710819,paragonie/random_compat,PHP,13
 330275,twigphp/Twig,PHP,15
 44745130,symfony/polyfill-mbstring,PHP,17
 2179920,woocommerce/woocommerce,PHP,77
-14346979,snipe/snipe-it,PHP,26
+14346979,snipe/snipe-it,PHP,27
 97311017,rectorphp/rector,PHP,35
 69691727,pmmp/PocketMine-MP,PHP,12
 182349597,jqhph/dcat-admin,PHP,32
 39182755,glpi-project/glpi,PHP,8
 129852395,assimon/dujiaoka,PHP,76
-111562942,statamic/cms,PHP,29
+111562942,statamic/cms,PHP,24
 286645686,yuantuo666/baiduwp-php,PHP,44
