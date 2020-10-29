@@ -6,7 +6,7 @@ id,name,lang,new stars
 34921116,iovisor/bcc,C,5
 613829,openresty/lua-nginx-module,C,4
 13310527,jemalloc/jemalloc,C,4
-117948953,Atmosphere-NX/Atmosphere,C,7
+117948953,Atmosphere-NX/Atmosphere,C,9
 35780977,ImageMagick/ImageMagick,C,4
 7037996,VirusTotal/yara,C,3
 168906122,skeeto/endlessh,C,71
@@ -17,7 +17,7 @@ id,name,lang,new stars
 5410234,OISF/suricata,C,1
 76599439,FRRouting/frr,C,2
 3649922,linux-test-project/ltp,C,0
-19401646,gpac/gpac,C,6
+19401646,gpac/gpac,C,5
 100820555,bvschaik/julius,C,24
 206121828,FreeRTOS/FreeRTOS,C,4
 289169806,dog-qiuqiu/Yolo-Fastest,C,3

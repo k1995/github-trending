@@ -1,8 +1,8 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,32
+5108051,opencv/opencv,C++,29
 1181927,bitcoin/bitcoin,C++,12
 23357588,protocolbuffers/protobuf,C++,43
-65600975,pytorch/pytorch,C++,41
+65600975,pytorch/pytorch,C++,35
 27729880,grpc/grpc,C++,22
 11171548,nlohmann/json,C++,62
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,8
@@ -14,7 +14,7 @@ id,name,lang,new stars
 87335980,EOSIO/eos,C++,5
 17391973,Tencent/rapidjson,C++,4
 7056202,fmtlib/fmt,C++,12
-310611,apache/thrift,C++,5
+310611,apache/thrift,C++,4
 136780445,kitao/pyxel,C++,10
 1204412,TrinityCore/TrinityCore,C++,4
 51905353,apache/arrow,C++,5
