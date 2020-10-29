@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,55
-65252,jekyll/jekyll,Ruby,63
+8514,rails/rails,Ruby,56
+65252,jekyll/jekyll,Ruby,67
 7569578,discourse/discourse,Ruby,44
-27442967,fastlane/fastlane,Ruby,51
-53238813,Homebrew/brew,Ruby,92
+27442967,fastlane/fastlane,Ruby,50
+53238813,Homebrew/brew,Ruby,91
 52281283,tootsuite/mastodon,Ruby,72
-2293158,rapid7/metasploit-framework,Ruby,81
+2293158,rapid7/metasploit-framework,Ruby,78
 308770,heartcombo/devise,Ruby,20
-1090311,elastic/logstash,Ruby,23
+1090311,elastic/logstash,Ruby,22
 4095287,rubocop-hq/rubocop,Ruby,27
-3314,spree/spree,Ruby,23
-3195124,mperham/sidekiq,Ruby,14
+3314,spree/spree,Ruby,24
+3195124,mperham/sidekiq,Ruby,13
 11423758,mame/quine-relay,Ruby,44
 96395,faker-ruby/faker,Ruby,14
 611921,activeadmin/activeadmin,Ruby,4
@@ -18,9 +18,9 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,10
 16549503,github/scientist,Ruby,18
 75785147,rails/webpacker,Ruby,11
-202291859,chatwoot/chatwoot,Ruby,31
-30985840,solidusio/solidus,Ruby,18
+202291859,chatwoot/chatwoot,Ruby,30
+30985840,solidusio/solidus,Ruby,15
 65914086,decidim/decidim,Ruby,5
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,20
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,22
 34762503,hashicorp/vault-rails,Ruby,0
 46371661,learn-co-curriculum/sinatra-from-scratch-readme,Ruby,0
