@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,53
+2579314,fzaninotto/Faker,PHP,69
 1420053,guzzle/guzzle,PHP,11
-448045,sebastianbergmann/phpunit,PHP,9
+448045,sebastianbergmann/phpunit,PHP,7
 2253830,PHPMailer/PHPMailer,PHP,8
-1631570,nikic/PHP-Parser,PHP,9
+1631570,nikic/PHP-Parser,PHP,6
 7769432,vlucas/phpdotenv,PHP,4
-93580,swiftmailer/swiftmailer,PHP,4
+93580,swiftmailer/swiftmailer,PHP,2
 2884111,magento/magento2,PHP,5
 597887,doctrine/orm,PHP,6
 212659,sebastianbergmann/php-code-coverage,PHP,4
-6660366,dompdf/dompdf,PHP,4
+6660366,dompdf/dompdf,PHP,3
 12166778,googleapis/google-api-php-client,PHP,2
 77071207,laravel/tinker,PHP,2
 17452080,lcobucci/jwt,PHP,3
@@ -18,9 +18,9 @@ id,name,lang,new stars
 2797951,doctrine/DoctrineBundle,PHP,5
 885517,Atlantic18/DoctrineExtensions,PHP,6
 1649191,doctrine/DoctrineMigrationsBundle,PHP,5
-148129143,bagisto/bagisto,PHP,3
+148129143,bagisto/bagisto,PHP,1
 761653,phpDocumentor/phpDocumentor,PHP,7
-1953386,stripe/stripe-php,PHP,3
-6495081,wikimedia/mediawiki,PHP,4
+1953386,stripe/stripe-php,PHP,2
+6495081,wikimedia/mediawiki,PHP,5
 7776575,myclabs/php-enum,PHP,3
-17722440,Rudloff/alltube,PHP,12
+17722440,Rudloff/alltube,PHP,10
