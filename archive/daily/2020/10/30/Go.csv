@@ -1,16 +1,16 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,36
-13807606,junegunn/fzf,Go,44
+13807606,junegunn/fzf,Go,45
 15452919,ethereum/go-ethereum,Go,9
-74175805,istio/istio,Go,17
+74175805,istio/istio,Go,16
 29261473,minio/minio,Go,20
-41349039,dgraph-io/dgraph,Go,8
+41349039,dgraph-io/dgraph,Go,7
 13624859,gorilla/websocket,Go,11
-122734569,iawia002/annie,Go,29
+122734569,iawia002/annie,Go,28
 129717717,grafana/loki,Go,27
 72891330,kubernetes/ingress-nginx,Go,4
 44350607,kubernetes/dashboard,Go,10
-32575637,ginuerzh/gost,Go,12
+32575637,ginuerzh/gost,Go,11
 109145553,containers/podman,Go,14
 62712899,AdguardTeam/AdGuardHome,Go,18
 91851756,docker/docker-ce,Go,8
@@ -18,9 +18,9 @@ id,name,lang,new stars
 120650407,operator-framework/operator-sdk,Go,8
 11452538,prometheus/alertmanager,Go,2
 7823926,prometheus/client_golang,Go,3
-173785481,tfsec/tfsec,Go,8
+173785481,tfsec/tfsec,Go,9
 217622305,aws/aws-controllers-k8s,Go,7
 48026194,kkdai/youtube,Go,83
 236055696,grafana/tempo,Go,274
-259392969,distribyted/distribyted,Go,97
-307244297,mosn/holmes,Go,32
+259392969,distribyted/distribyted,Go,96
+307244297,mosn/holmes,Go,31
