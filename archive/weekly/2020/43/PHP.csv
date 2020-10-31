@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,233
+2579314,fzaninotto/Faker,PHP,238
 1864363,composer/composer,PHP,146
-458058,symfony/symfony,PHP,38
-7548986,laravel/framework,PHP,59
+458058,symfony/symfony,PHP,39
+7548986,laravel/framework,PHP,60
 1376664,Seldaek/monolog,PHP,46
-448045,sebastianbergmann/phpunit,PHP,36
+448045,sebastianbergmann/phpunit,PHP,39
 7769432,vlucas/phpdotenv,PHP,26
-8678290,barryvdh/laravel-ide-helper,PHP,33
-14732311,octobercms/october,PHP,31
-48796179,z-song/laravel-admin,PHP,41
+8678290,barryvdh/laravel-ide-helper,PHP,35
+14732311,octobercms/october,PHP,32
+48796179,z-song/laravel-admin,PHP,42
 11340559,deployphp/deployer,PHP,23
-2179920,woocommerce/woocommerce,PHP,22
+2179920,woocommerce/woocommerce,PHP,23
 47120661,hirak/prestissimo,PHP,27
 7577142,doctrine/annotations,PHP,25
 14075080,roots/bedrock,PHP,12
@@ -18,7 +18,7 @@ id,name,lang,new stars
 1649191,doctrine/DoctrineMigrationsBundle,PHP,17
 79166184,cretueusebiu/laravel-vue-spa,PHP,11
 6495081,wikimedia/mediawiki,PHP,18
-182349597,jqhph/dcat-admin,PHP,29
+182349597,jqhph/dcat-admin,PHP,30
 93982796,Tuhinshubhra/RED_HAWK,PHP,13
 146414504,jianyan74/rageframe2,PHP,12
 129852395,assimon/dujiaoka,PHP,78

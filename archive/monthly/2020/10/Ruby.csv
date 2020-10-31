@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,265
-7569578,discourse/discourse,Ruby,234
-8681349,huginn/huginn,Ruby,377
-53238813,Homebrew/brew,Ruby,397
-52281283,tootsuite/mastodon,Ruby,286
-2293158,rapid7/metasploit-framework,Ruby,347
-73648678,forem/forem,Ruby,408
+8514,rails/rails,Ruby,266
+7569578,discourse/discourse,Ruby,236
+8681349,huginn/huginn,Ruby,380
+53238813,Homebrew/brew,Ruby,398
+52281283,tootsuite/mastodon,Ruby,287
+2293158,rapid7/metasploit-framework,Ruby,349
+73648678,forem/forem,Ruby,410
 2203645,CocoaPods/CocoaPods,Ruby,83
 1090311,elastic/logstash,Ruby,85
 4095287,rubocop-hq/rubocop,Ruby,90
-3195124,mperham/sidekiq,Ruby,65
+3195124,mperham/sidekiq,Ruby,67
 96395,faker-ruby/faker,Ruby,60
-52855516,Homebrew/homebrew-core,Ruby,146
+52855516,Homebrew/homebrew-core,Ruby,148
 6899875,opf/openproject,Ruby,194
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,226
 43347873,danger/danger,Ruby,45
@@ -19,7 +19,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,46
 11426474,github/choosealicense.com,Ruby,62
 1175581,citation-style-language/styles,Ruby,34
-103766152,github/explore,Ruby,80
+103766152,github/explore,Ruby,81
 200302808,github/view_component,Ruby,161
 151646552,crweiner/hacktoberfest-swag-list,Ruby,589
 14159669,Homebrew/homebrew-cask-versions,Ruby,15

@@ -1,14 +1,14 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,196
-23357588,protocolbuffers/protobuf,C++,188
+9384267,electron/electron,C++,197
+23357588,protocolbuffers/protobuf,C++,190
 27729880,grpc/grpc,C++,107
-22067521,ocornut/imgui,C++,130
-11171548,nlohmann/json,C++,302
-74627617,commaai/openpilot,C++,1602
+22067521,ocornut/imgui,C++,131
+11171548,nlohmann/json,C++,305
+74627617,commaai/openpilot,C++,1605
 108110,mongodb/mongo,C++,51
-4524181,facebook/folly,C++,54
+4524181,facebook/folly,C++,56
 60273704,mozilla/DeepSpeech,C++,99
-60246359,ClickHouse/ClickHouse,C++,117
+60246359,ClickHouse/ClickHouse,C++,118
 126412363,simdjson/simdjson,C++,68
 116167731,yuzu-emu/yuzu,C++,79
 1062572,catchorg/Catch2,C++,51
@@ -17,10 +17,10 @@ id,name,lang,new stars
 7056202,fmtlib/fmt,C++,57
 9090933,capnproto/capnproto,C++,80
 104231541,abseil/abseil-cpp,C++,43
-262296122,PaddlePaddle/PaddleOCR,C++,1291
-181436799,alibaba/MNN,C++,88
+262296122,PaddlePaddle/PaddleOCR,C++,1312
+181436799,alibaba/MNN,C++,89
 153866232,TheCherno/Hazel,C++,111
 1320594,SpiderLabs/ModSecurity,C++,18
 75413130,intel-isl/Open3D,C++,39
-193305104,barry-ran/QtScrcpy,C++,67
+193305104,barry-ran/QtScrcpy,C++,70
 76990209,Aircoookie/WLED,C++,68
