@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,266
 7569578,discourse/discourse,Ruby,236
-8681349,huginn/huginn,Ruby,380
-53238813,Homebrew/brew,Ruby,398
+8681349,huginn/huginn,Ruby,383
+53238813,Homebrew/brew,Ruby,400
 52281283,tootsuite/mastodon,Ruby,287
-2293158,rapid7/metasploit-framework,Ruby,349
-73648678,forem/forem,Ruby,410
-2203645,CocoaPods/CocoaPods,Ruby,83
+2293158,rapid7/metasploit-framework,Ruby,350
+73648678,forem/forem,Ruby,411
+2203645,CocoaPods/CocoaPods,Ruby,84
 1090311,elastic/logstash,Ruby,85
 4095287,rubocop-hq/rubocop,Ruby,90
 3195124,mperham/sidekiq,Ruby,67
@@ -23,4 +23,4 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,161
 151646552,crweiner/hacktoberfest-swag-list,Ruby,589
 14159669,Homebrew/homebrew-cask-versions,Ruby,15
-200877850,digitalocean/hacktoberfest,Ruby,402
+200877850,digitalocean/hacktoberfest,Ruby,403
