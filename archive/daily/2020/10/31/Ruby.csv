@@ -1,6 +1,6 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,9
-27442967,fastlane/fastlane,Ruby,9
+27442967,fastlane/fastlane,Ruby,10
 21600440,bayandin/awesome-awesomeness,Ruby,7
 2293158,rapid7/metasploit-framework,Ruby,18
 308770,heartcombo/devise,Ruby,5
@@ -8,8 +8,8 @@ id,name,lang,new stars
 73648678,forem/forem,Ruby,5
 361310,teamcapybara/capybara,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,0
-108278,chef/chef,Ruby,2
-26018608,github-changelog-generator/github-changelog-generator,Ruby,2
+108278,chef/chef,Ruby,3
+26018608,github-changelog-generator/github-changelog-generator,Ruby,1
 211588,paper-trail-gem/paper_trail,Ruby,1
 16549503,github/scientist,Ruby,6
 2889230,rails-api/active_model_serializers,Ruby,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,5
 64552869,LionSec/xerosploit,Ruby,1
 238983,rspec/rspec-mocks,Ruby,0
-70830890,bigbluebutton/greenlight,Ruby,3
+70830890,bigbluebutton/greenlight,Ruby,2
