@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,24
-2889328,WordPress/WordPress,PHP,5
+2889328,WordPress/WordPress,PHP,4
 60243197,nextcloud/server,PHP,12
 12615154,barryvdh/laravel-debugbar,PHP,7
 2854337,phalcon/cphalcon,PHP,2
@@ -11,7 +11,7 @@ id,name,lang,new stars
 85067860,easy-swoole/easyswoole,PHP,4
 76064827,mailcow/mailcow-dockerized,PHP,3
 97311017,rectorphp/rector,PHP,23
-148129143,bagisto/bagisto,PHP,8
+148129143,bagisto/bagisto,PHP,7
 1953386,stripe/stripe-php,PHP,2
 52815899,austintoddj/canvas,PHP,7
 44733816,privacy-protection-tools/anti-AD,PHP,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 111562942,statamic/cms,PHP,4
 291804966,laravel/fortify,PHP,5
 24459441,espocrm/espocrm,PHP,3
-283842837,hashicorp/waypoint-examples,PHP,5
+283842837,hashicorp/waypoint-examples,PHP,4
 304292552,ivanomatteo/laravel-device-tracking,PHP,15
 307729800,spatie/laravel-route-attributes,PHP,13

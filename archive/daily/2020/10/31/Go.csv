@@ -2,10 +2,10 @@ id,name,lang,new stars
 23096959,golang/go,Go,53
 7691631,moby/moby,Go,11
 17728164,hashicorp/terraform,Go,16
-16563587,cockroachdb/cockroach,Go,15
+16563587,cockroachdb/cockroach,Go,14
 61137153,evanw/esbuild,Go,71
 27729907,grpc/grpc-go,Go,10
-20653934,google/cadvisor,Go,11
+20653934,google/cadvisor,Go,12
 272035489,greyireland/algorithm-pattern,Go,20
 7083242,go-sql-driver/mysql,Go,11
 29371034,micro/micro,Go,11
@@ -21,6 +21,6 @@ id,name,lang,new stars
 19608522,googleapis/google-cloud-go,Go,2
 93446042,terraform-providers/terraform-provider-azurerm,Go,3
 253024215,hahwul/WebHackersWeapons,Go,16
-287336275,stackrox/kube-linter,Go,109
+287336275,stackrox/kube-linter,Go,187
 123866297,cybercongress/go-cyber,Go,9
 267054247,anchore/grype,Go,10
