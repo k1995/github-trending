@@ -1,6 +1,6 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,270
-7569578,discourse/discourse,Ruby,238
+8514,rails/rails,Ruby,271
+7569578,discourse/discourse,Ruby,240
 8681349,huginn/huginn,Ruby,392
 53238813,Homebrew/brew,Ruby,405
 52281283,tootsuite/mastodon,Ruby,289
@@ -12,7 +12,9 @@ id,name,lang,new stars
 3195124,mperham/sidekiq,Ruby,67
 96395,faker-ruby/faker,Ruby,60
 52855516,Homebrew/homebrew-core,Ruby,150
+21829,thoughtbot/factory_bot,Ruby,33
 6899875,opf/openproject,Ruby,194
+18294,activemerchant/active_merchant,Ruby,14
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,228
 43347873,danger/danger,Ruby,45
 6768710,redmine/redmine,Ruby,38
@@ -20,7 +22,5 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,61
 1175581,citation-style-language/styles,Ruby,34
 103766152,github/explore,Ruby,85
-200302808,github/view_component,Ruby,158
-151646552,crweiner/hacktoberfest-swag-list,Ruby,588
-14159669,Homebrew/homebrew-cask-versions,Ruby,15
+200302808,github/view_component,Ruby,161
 200877850,digitalocean/hacktoberfest,Ruby,403

@@ -1,4 +1,5 @@
 id,name,lang,new stars
+1863329,laravel/laravel,PHP,161
 2579314,fzaninotto/Faker,PHP,250
 1864363,composer/composer,PHP,153
 458058,symfony/symfony,PHP,41
@@ -7,20 +8,19 @@ id,name,lang,new stars
 448045,sebastianbergmann/phpunit,PHP,40
 7769432,vlucas/phpdotenv,PHP,28
 8678290,barryvdh/laravel-ide-helper,PHP,40
-14732311,octobercms/october,PHP,33
-48796179,z-song/laravel-admin,PHP,44
+48796179,z-song/laravel-admin,PHP,45
 11340559,deployphp/deployer,PHP,24
+8305060,top-think/think,PHP,12
 2179920,woocommerce/woocommerce,PHP,24
-47120661,hirak/prestissimo,PHP,27
-7577142,doctrine/annotations,PHP,26
 14075080,roots/bedrock,PHP,13
 8875190,Ocramius/ProxyManager,PHP,25
+97311017,rectorphp/rector,PHP,69
 1649191,doctrine/DoctrineMigrationsBundle,PHP,17
+7895524,thephpleague/oauth2-client,PHP,19
+761653,phpDocumentor/phpDocumentor,PHP,23
 79166184,cretueusebiu/laravel-vue-spa,PHP,11
 6495081,wikimedia/mediawiki,PHP,18
-182349597,jqhph/dcat-admin,PHP,31
-93982796,Tuhinshubhra/RED_HAWK,PHP,13
-146414504,jianyan74/rageframe2,PHP,13
+1957456,Dolibarr/dolibarr,PHP,19
 129852395,assimon/dujiaoka,PHP,79
-71485542,kevinpapst/kimai2,PHP,14
+71485542,kevinpapst/kimai2,PHP,15
 195836215,magicblack/maccms10,PHP,14
