@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,39
+1863329,laravel/laravel,PHP,41
 2246815,domnikl/DesignPatternsPHP,PHP,7
 47495360,koel/koel,PHP,8
 2854337,phalcon/cphalcon,PHP,4
@@ -10,7 +10,7 @@ id,name,lang,new stars
 33916850,spatie/laravel-medialibrary,PHP,4
 95011974,akaunting/akaunting,PHP,7
 76064827,mailcow/mailcow-dockerized,PHP,8
-97311017,rectorphp/rector,PHP,33
+97311017,rectorphp/rector,PHP,35
 72453516,wp-graphql/wp-graphql,PHP,4
 38200433,jeroennoten/Laravel-AdminLTE,PHP,3
 291805291,laravel/jetstream,PHP,10
@@ -19,7 +19,7 @@ id,name,lang,new stars
 14724954,opensourcepos/opensourcepos,PHP,1
 57961433,openmediavault/openmediavault,PHP,5
 679584,openemr/openemr,PHP,6
-24459441,espocrm/espocrm,PHP,7
-223535535,Ignitetch/AdvPhishing,PHP,3
+24459441,espocrm/espocrm,PHP,8
+223535535,Ignitetch/AdvPhishing,PHP,5
 290286264,WordPress/twentytwentyone,PHP,1
-306874394,RichardStyles/EloquentEncryption,PHP,28
+306874394,RichardStyles/EloquentEncryption,PHP,31
