@@ -1,7 +1,7 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,2038
-111583593,Genymobile/scrcpy,C,1572
-36502,git/git,C,554
+2325298,torvalds/linux,C,2045
+111583593,Genymobile/scrcpy,C,1576
+36502,git/git,C,556
 1903522,php/php-src,C,340
 11715753,robertdavidgraham/masscan,C,1012
 20159867,nothings/stb,C,237
@@ -10,16 +10,16 @@ id,name,lang,new stars
 90320494,ish-app/ish,C,1100
 7077690,darlinghq/darling,C,875
 63477515,TheAlgorithms/C,C,328
-14902556,offensive-security/exploitdb,C,97
+14902556,offensive-security/exploitdb,C,98
 70127218,espressif/arduino-esp32,C,130
-40504480,mit-pdos/xv6-public,C,208
-59771425,zephyrproject-rtos/zephyr,C,135
-168906122,skeeto/endlessh,C,1080
-86245815,pygame/pygame,C,259
+40504480,mit-pdos/xv6-public,C,209
+59771425,zephyrproject-rtos/zephyr,C,136
+168906122,skeeto/endlessh,C,1081
+86245815,pygame/pygame,C,261
 205810121,CloverHackyColor/CloverBootloader,C,120
 200321698,rui314/chibicc,C,1707
 98651166,ShadowsocksR-Live/shadowsocksr-native,C,150
-115765590,OAID/Tengine,C,138
+115765590,OAID/Tengine,C,139
 293316071,bellard/quickjs,C,803
 211756905,MarlinFirmware/Configurations,C,66
 240946290,Mixiaoxiao/Arduino-HomeKit-ESP8266,C,52
