@@ -1,15 +1,15 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,252
-20904437,gin-gonic/gin,Go,265
-41912791,v2ray/v2ray-core,Go,158
+20904437,gin-gonic/gin,Go,267
+41912791,v2ray/v2ray-core,Go,159
 138547797,FiloSottile/mkcert,Go,150
-74175805,istio/istio,Go,95
+74175805,istio/istio,Go,96
 29261473,minio/minio,Go,128
 8989842,unknwon/the-way-to-go_ZH_CN,Go,108
 23689830,yeasy/docker_practice,Go,72
 13624859,gorilla/websocket,Go,88
 50613991,goharbor/harbor,Go,76
-122734569,iawia002/annie,Go,313
+122734569,iawia002/annie,Go,300
 27729907,grpc/grpc-go,Go,54
 136815833,Dreamacro/clash,Go,208
 129717717,grafana/loki,Go,139
@@ -22,5 +22,5 @@ id,name,lang,new stars
 62712899,AdguardTeam/AdGuardHome,Go,95
 92648433,gwuhaolin/livego,Go,74
 53737001,senghoo/golang-design-pattern,Go,56
-84610043,kubernetes-sigs/aws-load-balancer-controller,Go,108
+84610043,kubernetes-sigs/aws-load-balancer-controller,Go,100
 91074692,zalando/postgres-operator,Go,25

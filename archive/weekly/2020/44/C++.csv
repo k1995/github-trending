@@ -4,9 +4,9 @@ id,name,lang,new stars
 65600975,pytorch/pytorch,C++,260
 27729880,grpc/grpc,C++,122
 22067521,ocornut/imgui,C++,148
-11171548,nlohmann/json,C++,332
-74627617,commaai/openpilot,C++,1638
-108110,mongodb/mongo,C++,57
+11171548,nlohmann/json,C++,323
+74627617,commaai/openpilot,C++,1605
+108110,mongodb/mongo,C++,59
 6934395,facebook/rocksdb,C++,58
 4524181,facebook/folly,C++,60
 76222419,Tencent/mars,C++,21
@@ -16,11 +16,11 @@ id,name,lang,new stars
 81227005,facebookresearch/faiss,C++,94
 26038648,gabime/spdlog,C++,73
 34777562,ossrs/srs,C++,83
-7056202,fmtlib/fmt,C++,69
+7056202,fmtlib/fmt,C++,70
 9090933,capnproto/capnproto,C++,81
 104231541,abseil/abseil-cpp,C++,54
-262296122,PaddlePaddle/PaddleOCR,C++,1372
+262296122,PaddlePaddle/PaddleOCR,C++,1358
 181436799,alibaba/MNN,C++,90
 153866232,TheCherno/Hazel,C++,123
-75413130,intel-isl/Open3D,C++,45
+75413130,intel-isl/Open3D,C++,46
 193305104,barry-ran/QtScrcpy,C++,81
