@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,263
+8514,rails/rails,Ruby,264
 7569578,discourse/discourse,Ruby,243
-8681349,huginn/huginn,Ruby,371
-53238813,Homebrew/brew,Ruby,385
-52281283,tootsuite/mastodon,Ruby,290
-2293158,rapid7/metasploit-framework,Ruby,333
-73648678,forem/forem,Ruby,278
+8681349,huginn/huginn,Ruby,373
+53238813,Homebrew/brew,Ruby,386
+52281283,tootsuite/mastodon,Ruby,292
+2293158,rapid7/metasploit-framework,Ruby,335
+73648678,forem/forem,Ruby,279
 2203645,CocoaPods/CocoaPods,Ruby,86
 1090311,elastic/logstash,Ruby,86
 4095287,rubocop-hq/rubocop,Ruby,88
-96395,faker-ruby/faker,Ruby,65
-18486300,lewagon/setup,Ruby,863
+96395,faker-ruby/faker,Ruby,66
+18486300,lewagon/setup,Ruby,864
 52855516,Homebrew/homebrew-core,Ruby,146
 21829,thoughtbot/factory_bot,Ruby,32
 16549503,github/scientist,Ruby,56
@@ -21,6 +21,6 @@ id,name,lang,new stars
 6768710,redmine/redmine,Ruby,38
 11426474,github/choosealicense.com,Ruby,60
 1175581,citation-style-language/styles,Ruby,31
-103766152,github/explore,Ruby,83
+103766152,github/explore,Ruby,82
 200302808,github/view_component,Ruby,149
 200877850,digitalocean/hacktoberfest,Ruby,391
