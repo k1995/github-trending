@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,148
-2579314,fzaninotto/Faker,PHP,227
-1864363,composer/composer,PHP,87
-7548986,laravel/framework,PHP,46
-448045,sebastianbergmann/phpunit,PHP,37
+1863329,laravel/laravel,PHP,150
+2579314,fzaninotto/Faker,PHP,222
+1864363,composer/composer,PHP,89
+7548986,laravel/framework,PHP,47
+448045,sebastianbergmann/phpunit,PHP,38
 7769432,vlucas/phpdotenv,PHP,25
-8678290,barryvdh/laravel-ide-helper,PHP,29
-72069409,the-control-group/voyager,PHP,25
+8678290,barryvdh/laravel-ide-helper,PHP,30
+72069409,the-control-group/voyager,PHP,24
 48796179,z-song/laravel-admin,PHP,32
 61490598,PHPOffice/PhpSpreadsheet,PHP,40
 9004802,phpspec/prophecy,PHP,20
@@ -17,10 +17,10 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,73
 159606650,hyperf/hyperf,PHP,23
 761653,phpDocumentor/phpDocumentor,PHP,25
-79166184,cretueusebiu/laravel-vue-spa,PHP,17
+79166184,cretueusebiu/laravel-vue-spa,PHP,18
 6495081,wikimedia/mediawiki,PHP,15
 1957456,Dolibarr/dolibarr,PHP,17
-182349597,jqhph/dcat-admin,PHP,20
-17722440,Rudloff/alltube,PHP,42
+182349597,jqhph/dcat-admin,PHP,19
+17722440,Rudloff/alltube,PHP,43
 71485542,kevinpapst/kimai2,PHP,20
 75645659,WordPress/wordpress-develop,PHP,5
