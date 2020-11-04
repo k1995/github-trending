@@ -1,19 +1,19 @@
 id,name,lang,new stars
-160640094,MisterBooo/LeetCodeAnimation,Java,76
+160640094,MisterBooo/LeetCodeAnimation,Java,77
 128398636,xingshaocheng/architect-awesome,,86
 58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,145
 39464018,apache/incubator-superset,Python,35
 65388917,jakevdp/PythonDataScienceHandbook,Jupyter Notebook,176
 261787758,bradtraversy/design-resources-for-developers,,97
 80276391,GitSquared/edex-ui,JavaScript,646
-20818126,google/ExoPlayer,Java,9
+20818126,google/ExoPlayer,Java,14
 118861276,gto76/python-cheatsheet,Python,216
 30102273,MobSF/Mobile-Security-Framework-MobSF,Python,12
-300592907,mxrch/GHunt,Python,324
+300592907,mxrch/GHunt,Python,302
 109004193,jofpin/trape,Python,18
+306977633,AMAI-GmbH/AI-Expert-Roadmap,JavaScript,746
 283410102,sogou/workflow,C++,128
-306977633,AMAI-GmbH/AI-Expert-Roadmap,JavaScript,941
-267649918,hoffstadt/DearPyGui,C++,162
+267649918,hoffstadt/DearPyGui,C++,184
 260627194,erluxman/awesomefluttertips,Dart,98
 306742184,l1ving/youtube-dl,Python,260
 163356901,hantmac/Mastering_Go_ZH_CN,Go,117
@@ -21,6 +21,6 @@ id,name,lang,new stars
 246509073,PaddlePaddle/PaddleX,Python,32
 308831318,developer-resources/frontend-development,,154
 296104714,fireeye/ThreatPursuit-VM,PowerShell,154
-308991944,harisqazi1/Cybersecurity,,156
-305800701,koutto/pi-pwnbox-rogueap,Shell,212
-305982568,Qovery/engine,Rust,108
+308991944,harisqazi1/Cybersecurity,,184
+305800701,koutto/pi-pwnbox-rogueap,Shell,241
+305982568,Qovery/engine,Rust,129
