@@ -1,12 +1,12 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,750
+3482588,danielmiessler/SecLists,PHP,752
 2579314,fzaninotto/Faker,PHP,417
-1864363,composer/composer,PHP,328
-458058,symfony/symfony,PHP,187
-1376664,Seldaek/monolog,PHP,155
+1864363,composer/composer,PHP,329
+458058,symfony/symfony,PHP,188
+1376664,Seldaek/monolog,PHP,157
 2253830,PHPMailer/PHPMailer,PHP,175
 2889328,WordPress/WordPress,PHP,131
-60243197,nextcloud/server,PHP,324
+60243197,nextcloud/server,PHP,325
 14732311,octobercms/october,PHP,106
 2884111,magento/magento2,PHP,88
 61490598,PHPOffice/PhpSpreadsheet,PHP,133
@@ -19,7 +19,7 @@ id,name,lang,new stars
 3217621,phpmyadmin/phpmyadmin,PHP,79
 8875190,Ocramius/ProxyManager,PHP,74
 76064827,mailcow/mailcow-dockerized,PHP,108
-97311017,rectorphp/rector,PHP,162
+97311017,rectorphp/rector,PHP,163
 41463886,codeigniter4/CodeIgniter4,PHP,83
 223535535,Ignitetch/AdvPhishing,PHP,139
 290286264,WordPress/twentytwentyone,PHP,56

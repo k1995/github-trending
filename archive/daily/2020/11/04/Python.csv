@@ -1,16 +1,16 @@
 id,name,lang,new stars
-3638964,ansible/ansible,Python,24
+3638964,ansible/ansible,Python,25
 843222,scikit-learn/scikit-learn,Python,13
-39464018,apache/incubator-superset,Python,26
+39464018,apache/incubator-superset,Python,27
 24976755,hankcs/HanLP,Python,16
-90563585,chubin/cheat.sh,Python,279
-118861276,gto76/python-cheatsheet,Python,90
+90563585,chubin/cheat.sh,Python,280
+118861276,gto76/python-cheatsheet,Python,216
 6297520,quantopian/zipline,Python,75
 1349775,RaRe-Technologies/gensim,Python,10
-99846383,horovod/horovod,Python,47
+99846383,horovod/horovod,Python,56
 52796596,netbox-community/netbox,Python,42
 26382146,joelgrus/data-science-from-scratch,Python,5
-300592907,mxrch/GHunt,Python,273
+300592907,mxrch/GHunt,Python,303
 10391073,edx/edx-platform,Python,0
 131881622,NVIDIA/DeepLearningExamples,Python,5
 87520003,iGhibli/iOS-DeviceSupport,Python,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 53548867,fishtown-analytics/dbt,Python,4
 252565065,xingyizhou/CenterTrack,Python,5
 191994859,NVIDIA/semantic-segmentation,Python,10
-305144746,geohot/tinygrad,Python,114
+305144746,geohot/tinygrad,Python,113
 298731520,ChenyangLEI/deep-video-prior,Python,24
 275718693,AlphaJia/keras_unet_plus_plus,Python,8
 308578276,KalleHallden/workflow_automation,Python,9

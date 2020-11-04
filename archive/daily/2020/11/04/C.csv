@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,66
+2325298,torvalds/linux,C,68
 1903522,php/php-src,C,13
 18666758,pjreddie/darknet,C,15
 5101141,stedolan/jq,C,8
@@ -8,7 +8,7 @@ id,name,lang,new stars
 161292091,Tencent/matrix,C,7
 15583310,SoftEtherVPN/SoftEtherVPN,C,2
 45821540,openwrt/openwrt,C,8
-179354282,acidanthera/OpenCorePkg,C,40
+179354282,acidanthera/OpenCorePkg,C,58
 35129809,transmission/transmission,C,5
 13836499,raysan5/raylib,C,10
 44781140,greenplum-db/gpdb,C,3
@@ -18,7 +18,7 @@ id,name,lang,new stars
 77920383,nesbox/TIC-80,C,2
 154525111,signalwire/freeswitch,C,1
 164844546,ptitSeb/box86,C,3
-208364128,google/XNNPACK,C,6
+208364128,google/XNNPACK,C,7
 108860169,AndreRH/hangover,C,22
 282476116,sepfy/piipcam,C,13
 247326894,quantumcored/paradoxiaRAT,C,7
