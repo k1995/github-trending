@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-53238813,Homebrew/brew,Ruby,11
-2293158,rapid7/metasploit-framework,Ruby,14
+8514,rails/rails,Ruby,6
+53238813,Homebrew/brew,Ruby,10
+2293158,rapid7/metasploit-framework,Ruby,13
 481872,hashicorp/vagrant,Ruby,8
-3623050,Homebrew/homebrew-cask,Ruby,10
-2203645,CocoaPods/CocoaPods,Ruby,1
-1090311,elastic/logstash,Ruby,9
+3623050,Homebrew/homebrew-cask,Ruby,8
+2203645,CocoaPods/CocoaPods,Ruby,4
+1090311,elastic/logstash,Ruby,7
 3314,spree/spree,Ruby,6
 3195124,mperham/sidekiq,Ruby,2
 96395,faker-ruby/faker,Ruby,5
@@ -13,14 +13,14 @@ id,name,lang,new stars
 810796,sferik/rails_admin,Ruby,1
 2441517,puma/puma,Ruby,1
 910744,puppetlabs/puppet,Ruby,2
-11412473,ankane/searchkick,Ruby,2
+11412473,ankane/searchkick,Ruby,1
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
 18294,activemerchant/active_merchant,Ruby,2
 30985840,solidusio/solidus,Ruby,4
 2050163,aws/aws-sdk-ruby,Ruby,1
-14238949,elastic/elasticsearch-rails,Ruby,1
+14238949,elastic/elasticsearch-rails,Ruby,2
 3654364,roo-rb/roo,Ruby,1
-9831101,elastic/elasticsearch-ruby,Ruby,1
+9831101,elastic/elasticsearch-ruby,Ruby,0
 8970,ambethia/recaptcha,Ruby,1
-62391559,amatsuda/jb,Ruby,8
+62391559,amatsuda/jb,Ruby,6
 1633771,ilyakatz/data-migrate,Ruby,2
