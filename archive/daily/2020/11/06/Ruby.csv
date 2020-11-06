@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,10
-53238813,Homebrew/brew,Ruby,15
-2293158,rapid7/metasploit-framework,Ruby,13
-481872,hashicorp/vagrant,Ruby,10
+53238813,Homebrew/brew,Ruby,18
+2293158,rapid7/metasploit-framework,Ruby,16
+481872,hashicorp/vagrant,Ruby,8
 3623050,Homebrew/homebrew-cask,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,3
 1090311,elastic/logstash,Ruby,3
-3314,spree/spree,Ruby,4
+3314,spree/spree,Ruby,3
 3195124,mperham/sidekiq,Ruby,1
 96395,faker-ruby/faker,Ruby,4
 451035,heartcombo/simple_form,Ruby,3
-810796,sferik/rails_admin,Ruby,1
+810796,sferik/rails_admin,Ruby,2
 2441517,puma/puma,Ruby,2
 910744,puppetlabs/puppet,Ruby,1
 11412473,ankane/searchkick,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 3654364,roo-rb/roo,Ruby,2
 9831101,elastic/elasticsearch-ruby,Ruby,0
 8970,ambethia/recaptcha,Ruby,0
-62391559,amatsuda/jb,Ruby,5
+62391559,amatsuda/jb,Ruby,4
 1633771,ilyakatz/data-migrate,Ruby,0

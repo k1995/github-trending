@@ -1,12 +1,12 @@
 id,name,lang,new stars
 128398636,xingshaocheng/architect-awesome,,112
 58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,194
-39464018,apache/incubator-superset,Python,206
+39464018,apache/incubator-superset,Python,209
 22067521,ocornut/imgui,C++,94
 261787758,bradtraversy/design-resources-for-developers,,250
 80276391,GitSquared/edex-ui,JavaScript,551
 267775629,geekxh/hello-algorithm,Java,97
-39840932,google/googletest,C++,32
+39840932,google/googletest,C++,31
 118861276,gto76/python-cheatsheet,Python,212
 5349565,prestodb/presto,Java,73
 14259390,Maatwebsite/Laravel-Excel,PHP,84
@@ -14,13 +14,13 @@ id,name,lang,new stars
 300592907,mxrch/GHunt,Python,270
 109004193,jofpin/trape,Python,146
 234798675,bevyengine/bevy,Rust,95
-120896210,argoproj/argo-cd,Go,44
-306977633,AMAI-GmbH/AI-Expert-Roadmap,JavaScript,596
+120896210,argoproj/argo-cd,Go,45
+306977633,AMAI-GmbH/AI-Expert-Roadmap,JavaScript,587
 156939672,microsoft/onnxruntime,C++,27
 306742184,l1ving/youtube-dl,Python,280
 254327261,sandboxie-plus/Sandboxie,C,50
-140325970,cmu-db/noisepage,C++,68
+140325970,cmu-db/noisepage,C++,71
 305800701,koutto/pi-pwnbox-rogueap,Shell,168
-296104714,fireeye/ThreatPursuit-VM,PowerShell,64
-308991944,harisqazi1/Cybersecurity,,118
+296104714,fireeye/ThreatPursuit-VM,PowerShell,60
+308991944,harisqazi1/Cybersecurity,,119
 236012292,appbrewery/100-days-of-python,,134
