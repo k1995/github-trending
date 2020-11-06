@@ -1,20 +1,20 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,1081
+11180687,gohugoio/hugo,Go,1079
 20904437,gin-gonic/gin,Go,948
-17728164,hashicorp/terraform,Go,459
-72495579,go-gitea/gitea,Go,524
-61137153,evanw/esbuild,Go,1720
-129717717,grafana/loki,Go,383
+17728164,hashicorp/terraform,Go,457
+72495579,go-gitea/gitea,Go,523
+61137153,evanw/esbuild,Go,1719
+129717717,grafana/loki,Go,384
 21827146,chrislusf/seaweedfs,Go,599
 165041732,go-kratos/kratos,Go,219
-234231371,gofiber/fiber,Go,1408
-36653430,hashicorp/nomad,Go,191
+234231371,gofiber/fiber,Go,1407
+36653430,hashicorp/nomad,Go,190
 119160553,photoprism/photoprism,Go,398
 109145553,containers/podman,Go,359
 1380117,getlantern/lantern,Go,529
 201658460,geektutu/7days-golang,Go,290
 181461073,v2fly/v2ray-core,Go,1653
-66156850,TheAlgorithms/Go,Go,442
+66156850,TheAlgorithms/Go,Go,443
 118828329,knative/serving,Go,139
 247032621,go-admin-team/go-admin,Go,597
 285864199,tal-tech/go-zero,Go,1037
@@ -22,5 +22,5 @@ id,name,lang,new stars
 154643390,sundowndev/PhoneInfoga,Go,182
 279297541,lanyulei/ferry,Go,910
 248025303,p4gefau1t/trojan-go,Go,461
-298060777,liamg/gitjacker,Go,841
+298060777,liamg/gitjacker,Go,840
 193681111,filecoin-project/lotus,Go,142

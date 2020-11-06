@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,28
+3482588,danielmiessler/SecLists,PHP,27
 458058,symfony/symfony,PHP,6
 7548986,laravel/framework,PHP,3
 1420053,guzzle/guzzle,PHP,3
 448045,sebastianbergmann/phpunit,PHP,5
-1548202,matomo-org/matomo,PHP,2
+1548202,matomo-org/matomo,PHP,1
 3431193,yiisoft/yii2,PHP,3
 60243197,nextcloud/server,PHP,10
 12615154,barryvdh/laravel-debugbar,PHP,7
 4916869,ramsey/uuid,PHP,3
-14259390,Maatwebsite/Laravel-Excel,PHP,76
+14259390,Maatwebsite/Laravel-Excel,PHP,84
 93580,swiftmailer/swiftmailer,PHP,3
 2884111,magento/magento2,PHP,4
 597887,doctrine/orm,PHP,2
@@ -19,8 +19,8 @@ id,name,lang,new stars
 31295421,guzzle/psr7,PHP,2
 2179920,woocommerce/woocommerce,PHP,6
 17452080,lcobucci/jwt,PHP,0
-14346979,snipe/snipe-it,PHP,2
+14346979,snipe/snipe-it,PHP,3
 3817881,zircote/swagger-php,PHP,1
 2784293,php-amqplib/php-amqplib,PHP,1
-439861,moodle/moodle,PHP,1
+439861,moodle/moodle,PHP,2
 8077402,MISP/MISP,PHP,3
