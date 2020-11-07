@@ -1,7 +1,7 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,69
 65252,jekyll/jekyll,Ruby,63
-8681349,huginn/huginn,Ruby,92
+8681349,huginn/huginn,Ruby,90
 2293158,rapid7/metasploit-framework,Ruby,62
 3623050,Homebrew/homebrew-cask,Ruby,23
 538746,ruby/ruby,Ruby,28
@@ -9,17 +9,17 @@ id,name,lang,new stars
 1090311,elastic/logstash,Ruby,23
 3195124,mperham/sidekiq,Ruby,12
 96395,faker-ruby/faker,Ruby,25
-52855516,Homebrew/homebrew-core,Ruby,33
+52855516,Homebrew/homebrew-core,Ruby,32
 6688319,DeathKing/Learning-SICP,Ruby,24
 277089,flyerhzm/bullet,Ruby,7
-16549503,github/scientist,Ruby,21
+16549503,github/scientist,Ruby,22
 4994614,wpscanteam/wpscan,Ruby,23
 75785147,rails/webpacker,Ruby,4
-202291859,chatwoot/chatwoot,Ruby,71
+202291859,chatwoot/chatwoot,Ruby,75
 1548802,activerecord-hackery/ransack,Ruby,6
 30337170,rmosolgo/graphql-ruby,Ruby,12
 52316423,luggit/react-native-config,Ruby,10
-30985840,solidusio/solidus,Ruby,10
+30985840,solidusio/solidus,Ruby,11
 103766152,github/explore,Ruby,18
 34840276,elastic/ansible-elasticsearch,Ruby,6
 48370306,elastic/ansible-beats,Ruby,0
