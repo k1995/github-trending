@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,768
-2579314,fzaninotto/Faker,PHP,429
+3482588,danielmiessler/SecLists,PHP,771
+2579314,fzaninotto/Faker,PHP,430
 1864363,composer/composer,PHP,339
-458058,symfony/symfony,PHP,188
+458058,symfony/symfony,PHP,189
 1376664,Seldaek/monolog,PHP,166
-448045,sebastianbergmann/phpunit,PHP,133
-2889328,WordPress/WordPress,PHP,125
-60243197,nextcloud/server,PHP,316
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,99
+448045,sebastianbergmann/phpunit,PHP,134
+2889328,WordPress/WordPress,PHP,126
+60243197,nextcloud/server,PHP,319
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,100
 48796179,z-song/laravel-admin,PHP,160
-61490598,PHPOffice/PhpSpreadsheet,PHP,153
+61490598,PHPOffice/PhpSpreadsheet,PHP,154
 2884111,magento/magento2,PHP,96
 11340559,deployphp/deployer,PHP,110
 677464,doctrine/dbal,PHP,120
@@ -21,6 +21,6 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,186
 439861,moodle/moodle,PHP,73
 159606650,hyperf/hyperf,PHP,115
-41463886,codeigniter4/CodeIgniter4,PHP,86
-13914116,librenms/librenms,PHP,49
+41463886,codeigniter4/CodeIgniter4,PHP,87
+13914116,librenms/librenms,PHP,50
 75645659,WordPress/wordpress-develop,PHP,26

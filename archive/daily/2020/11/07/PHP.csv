@@ -1,11 +1,11 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,27
-7548986,laravel/framework,PHP,11
-448045,sebastianbergmann/phpunit,PHP,11
-2253830,PHPMailer/PHPMailer,PHP,7
+3482588,danielmiessler/SecLists,PHP,30
+7548986,laravel/framework,PHP,13
+448045,sebastianbergmann/phpunit,PHP,12
+2253830,PHPMailer/PHPMailer,PHP,8
 47495360,koel/koel,PHP,14
 48796179,z-song/laravel-admin,PHP,6
-14259390,Maatwebsite/Laravel-Excel,PHP,49
+14259390,Maatwebsite/Laravel-Excel,PHP,50
 597887,doctrine/orm,PHP,4
 11340559,deployphp/deployer,PHP,5
 6660366,dompdf/dompdf,PHP,6
@@ -14,13 +14,13 @@ id,name,lang,new stars
 17452080,lcobucci/jwt,PHP,5
 6269013,aws/aws-sdk-php,PHP,3
 86350964,the-benchmarker/web-frameworks,PHP,5
-74386167,vimeo/psalm,PHP,7
+74386167,vimeo/psalm,PHP,8
 439861,moodle/moodle,PHP,2
 1381983,symfony/yaml,PHP,3
-117567334,spatie/laravel-query-builder,PHP,10
+117567334,spatie/laravel-query-builder,PHP,11
 2641404,symfony/monolog-bundle,PHP,3
-7776575,myclabs/php-enum,PHP,7
+7776575,myclabs/php-enum,PHP,8
 3348788,sendgrid/sendgrid-php,PHP,1
-189104054,laravel/ui,PHP,4
+189104054,laravel/ui,PHP,8
 271550942,themsaid/ibis,PHP,419
 308409079,cesko-digital/covid.gov.cz,PHP,12

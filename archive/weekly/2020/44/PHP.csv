@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,154
-3482588,danielmiessler/SecLists,PHP,139
-2579314,fzaninotto/Faker,PHP,73
+1863329,laravel/laravel,PHP,156
+3482588,danielmiessler/SecLists,PHP,142
+2579314,fzaninotto/Faker,PHP,75
 1864363,composer/composer,PHP,76
-458058,symfony/symfony,PHP,48
-448045,sebastianbergmann/phpunit,PHP,47
+458058,symfony/symfony,PHP,49
+448045,sebastianbergmann/phpunit,PHP,48
 72069409,the-control-group/voyager,PHP,31
 48796179,z-song/laravel-admin,PHP,30
-14259390,Maatwebsite/Laravel-Excel,PHP,158
-61490598,PHPOffice/PhpSpreadsheet,PHP,47
+14259390,Maatwebsite/Laravel-Excel,PHP,159
+61490598,PHPOffice/PhpSpreadsheet,PHP,48
 9004802,phpspec/prophecy,PHP,23
 2179920,woocommerce/woocommerce,PHP,25
 2717549,Sylius/Sylius,PHP,23
-33916850,spatie/laravel-medialibrary,PHP,16
-14735403,yajra/laravel-datatables,PHP,17
+33916850,spatie/laravel-medialibrary,PHP,17
+14735403,yajra/laravel-datatables,PHP,18
 2464908,joomla/joomla-cms,PHP,4
 95011974,akaunting/akaunting,PHP,30
 97311017,rectorphp/rector,PHP,59
@@ -21,6 +21,5 @@ id,name,lang,new stars
 222873550,bytefury/crater,PHP,10
 79166184,cretueusebiu/laravel-vue-spa,PHP,26
 1957456,Dolibarr/dolibarr,PHP,16
-17722440,Rudloff/alltube,PHP,21
-71485542,kevinpapst/kimai2,PHP,23
+17722440,Rudloff/alltube,PHP,22
 75645659,WordPress/wordpress-develop,PHP,8
