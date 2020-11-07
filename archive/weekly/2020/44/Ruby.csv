@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,69
+8514,rails/rails,Ruby,70
 65252,jekyll/jekyll,Ruby,63
-8681349,huginn/huginn,Ruby,90
+8681349,huginn/huginn,Ruby,93
 2293158,rapid7/metasploit-framework,Ruby,62
-3623050,Homebrew/homebrew-cask,Ruby,23
+3623050,Homebrew/homebrew-cask,Ruby,25
 538746,ruby/ruby,Ruby,28
 73648678,forem/forem,Ruby,69
 1090311,elastic/logstash,Ruby,23
@@ -15,7 +15,7 @@ id,name,lang,new stars
 16549503,github/scientist,Ruby,22
 4994614,wpscanteam/wpscan,Ruby,23
 75785147,rails/webpacker,Ruby,4
-202291859,chatwoot/chatwoot,Ruby,75
+202291859,chatwoot/chatwoot,Ruby,77
 1548802,activerecord-hackery/ransack,Ruby,6
 30337170,rmosolgo/graphql-ruby,Ruby,12
 52316423,luggit/react-native-config,Ruby,10
