@@ -1,14 +1,14 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,764
-2579314,fzaninotto/Faker,PHP,428
-1864363,composer/composer,PHP,336
+3482588,danielmiessler/SecLists,PHP,767
+2579314,fzaninotto/Faker,PHP,429
+1864363,composer/composer,PHP,339
 458058,symfony/symfony,PHP,187
 1376664,Seldaek/monolog,PHP,165
 448045,sebastianbergmann/phpunit,PHP,133
 2889328,WordPress/WordPress,PHP,123
-60243197,nextcloud/server,PHP,312
+60243197,nextcloud/server,PHP,313
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,99
-48796179,z-song/laravel-admin,PHP,158
+48796179,z-song/laravel-admin,PHP,159
 61490598,PHPOffice/PhpSpreadsheet,PHP,153
 2884111,magento/magento2,PHP,96
 11340559,deployphp/deployer,PHP,110
@@ -16,11 +16,11 @@ id,name,lang,new stars
 1398648,symfony/http-foundation,PHP,88
 2179920,woocommerce/woocommerce,PHP,158
 10238429,tennc/webshell,PHP,112
-6763587,PrestaShop/PrestaShop,PHP,93
+6763587,PrestaShop/PrestaShop,PHP,95
 8875190,Ocramius/ProxyManager,PHP,76
-97311017,rectorphp/rector,PHP,183
-439861,moodle/moodle,PHP,72
-159606650,hyperf/hyperf,PHP,114
+97311017,rectorphp/rector,PHP,184
+439861,moodle/moodle,PHP,73
+159606650,hyperf/hyperf,PHP,115
 41463886,codeigniter4/CodeIgniter4,PHP,86
 13914116,librenms/librenms,PHP,49
 75645659,WordPress/wordpress-develop,PHP,26
