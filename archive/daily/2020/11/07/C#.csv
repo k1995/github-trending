@@ -7,11 +7,11 @@ id,name,lang,new stars
 262395224,dotnet/maui,C#,18
 210716005,dotnet/runtime,C#,8
 50605426,microsoft/MixedRealityToolkit-Unity,C#,4
-132453438,unoplatform/uno,C#,86
+132453438,unoplatform/uno,C#,96
 203892454,kgrzybek/modular-monolith-with-ddd,C#,6
-68730444,microsoft/BotBuilder-Samples,C#,1
+68730444,microsoft/BotBuilder-Samples,C#,0
 942613,elastic/elasticsearch-net,C#,1
-164140756,files-community/Files,C#,11
+164140756,files-community/Files,C#,12
 243854166,dotnet/tye,C#,8
 23891194,Azure/azure-powershell,C#,0
 54308403,microsoft/WinAppDriver,C#,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 151623607,dotnet/iot,C#,2
 185478059,open-telemetry/opentelemetry-dotnet,C#,1
 66589457,UiPath/corewf,C#,3
-304230333,BluePointLilac/ContextMenuManager,C#,40
+304230333,BluePointLilac/ContextMenuManager,C#,41
 275619863,jliddev/WowUp,C#,2
 310002139,EncodeGroup/AggressiveProxy,C#,22

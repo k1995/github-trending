@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,57
+2325298,torvalds/linux,C,56
 24586308,cfenollosa/os-tutorial,C,4
 196353673,taosdata/TDengine,C,5
 29759715,facebook/zstd,C,8
@@ -9,18 +9,18 @@ id,name,lang,new stars
 5870069,edenhill/librdkafka,C,2
 16734696,meetecho/janus-gateway,C,3
 849692,ZipArchive/ZipArchive,C,1
-60667730,lvgl/lvgl,C,6
+60667730,lvgl/lvgl,C,7
 8270972,ARMmbed/mbed-os,C,4
-537699,Kitware/CMake,C,3
+537699,Kitware/CMake,C,4
 6687936,ARMmbed/mbedtls,C,3
 6331631,axboe/fio,C,4
 114948816,uber/h3,C,1
 110170439,aws/amazon-freertos,C,1
-254327261,sandboxie-plus/Sandboxie,C,71
+254327261,sandboxie-plus/Sandboxie,C,75
 72934777,nkolban/esp32-snippets,C,0
 8890645,Xilinx/linux-xlnx,C,0
 37768198,emukidid/swiss-gc,C,1
-228103273,apache/incubator-nuttx,C,45
+228103273,apache/incubator-nuttx,C,54
 117992564,STMicroelectronics/STMems_Standard_C_drivers,C,1
 53432472,Azure/sonic-buildimage,C,0
-177341512,hackerhouse-opensource/exploits,C,6
+177341512,hackerhouse-opensource/exploits,C,5
