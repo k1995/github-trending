@@ -1,18 +1,18 @@
 id,name,lang,new stars
-11507163,uikit/uikit,HTML,7
+11507163,uikit/uikit,HTML,8
 2006876,swagger-api/swagger-codegen,HTML,7
 25659723,microsoft/dotnet,HTML,4
-43613404,kubernetes-sigs/kubespray,HTML,6
-49014795,phpstan/phpstan,HTML,3
+43613404,kubernetes-sigs/kubespray,HTML,7
+49014795,phpstan/phpstan,HTML,4
 25714588,StartBootstrap/startbootstrap-sb-admin-2,HTML,4
 44971752,ethereum/EIPs,HTML,7
-240215314,docker/awesome-compose,HTML,3
+240215314,docker/awesome-compose,HTML,4
 47645724,ganlanyuan/tiny-slider,HTML,4
 3618133,web-platform-tests/wpt,HTML,2
 51478266,kubernetes/website,HTML,1
-152327151,SamProf/MatBlazor,HTML,3
+152327151,SamProf/MatBlazor,HTML,4
 28312955,home-assistant/home-assistant.io,HTML,7
-310010706,alex/nyt-2020-election-scraper,HTML,1133
+310010706,alex/nyt-2020-election-scraper,HTML,1135
 98925529,spantaleev/matrix-docker-ansible-deploy,HTML,2
 87869682,oracle/learning-library,HTML,1
 286108332,prometheus-community/helm-charts,HTML,10
@@ -20,7 +20,7 @@ id,name,lang,new stars
 192178626,marcel-dempers/docker-development-youtube-series,HTML,8
 211971675,aws/eks-charts,HTML,2
 119743330,confluentinc/cp-ansible,HTML,0
-167935045,codecentric/helm-charts,HTML,0
-309464834,codeedu/avancadev,HTML,46
+167935045,codecentric/helm-charts,HTML,1
+309464834,codeedu/avancadev,HTML,50
 308211794,odensc/ttv-ublock,HTML,25
 308815745,emeraldpowder/QrGame,HTML,3
