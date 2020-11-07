@@ -1,8 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,270
-7569578,discourse/discourse,Ruby,236
-8681349,huginn/huginn,Ruby,359
-53238813,Homebrew/brew,Ruby,394
+8514,rails/rails,Ruby,273
+65252,jekyll/jekyll,Ruby,261
+7569578,discourse/discourse,Ruby,237
+8681349,huginn/huginn,Ruby,361
+53238813,Homebrew/brew,Ruby,396
 2500088,gitlabhq/gitlabhq,Ruby,68
 52281283,tootsuite/mastodon,Ruby,307
 2293158,rapid7/metasploit-framework,Ruby,338
@@ -14,13 +15,12 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,73
 277089,flyerhzm/bullet,Ruby,37
 16549503,github/scientist,Ruby,71
-4994614,wpscanteam/wpscan,Ruby,77
+4994614,wpscanteam/wpscan,Ruby,78
+33739333,thoughtbot/administrate,Ruby,42
+202291859,chatwoot/chatwoot,Ruby,175
 6899875,opf/openproject,Ruby,205
 18294,activemerchant/active_merchant,Ruby,17
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,214
 6768710,redmine/redmine,Ruby,41
 30985840,solidusio/solidus,Ruby,44
-11426474,github/choosealicense.com,Ruby,57
 103766152,github/explore,Ruby,82
 65914086,decidim/decidim,Ruby,40
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,81
