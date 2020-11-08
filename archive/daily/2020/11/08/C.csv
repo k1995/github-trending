@@ -1,18 +1,18 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,137
-24586308,cfenollosa/os-tutorial,C,13
-102578345,coolsnowwolf/lede,C,42
+111583593,Genymobile/scrcpy,C,146
+24586308,cfenollosa/os-tutorial,C,15
+102578345,coolsnowwolf/lede,C,43
 80286288,arendst/Tasmota,C,33
-246335987,ventoy/Ventoy,C,66
+246335987,ventoy/Ventoy,C,71
 66150122,jarun/nnn,C,24
-27737393,qmk/qmk_firmware,C,14
+27737393,qmk/qmk_firmware,C,17
 3199002,raspberrypi/linux,C,24
 45821540,openwrt/openwrt,C,15
 9524997,glfw/glfw,C,13
-75811015,Tencent/xLua,C,17
-70127218,espressif/arduino-esp32,C,7
+75811015,Tencent/xLua,C,18
+70127218,espressif/arduino-esp32,C,8
 19330466,Cyan4973/xxHash,C,9
-3791835,darktable-org/darktable,C,15
+3791835,darktable-org/darktable,C,16
 5180577,mpc-hc/mpc-hc,C,4
 241659610,OpenIntelWireless/itlwm,C,25
 7705639,merbanan/rtl_433,C,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 195445651,thestr4ng3r/chiaki,C,6
 211756905,MarlinFirmware/Configurations,C,5
 228103273,apache/incubator-nuttx,C,93
-290808391,atc1441/ATC_MiThermometer,C,9
+290808391,atc1441/ATC_MiThermometer,C,10
 151064439,AlessandroAU/ExpressLRS,C,6
