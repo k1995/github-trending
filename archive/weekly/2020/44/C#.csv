@@ -1,7 +1,7 @@
 id,name,lang,new stars
-13428264,ShareX/ShareX,C#,112
+13428264,ShareX/ShareX,C#,114
 143460965,GoogleCloudPlatform/microservices-demo,C#,63
-28239455,dotnet/AspNetCore.Docs,C#,39
+28239455,dotnet/AspNetCore.Docs,C#,41
 1135454,cefsharp/CefSharp,C#,28
 262395224,dotnet/maui,C#,93
 54213490,xamarin/Xamarin.Forms,C#,15
@@ -9,7 +9,7 @@ id,name,lang,new stars
 2419727,de4dot/de4dot,C#,32
 26884725,OrchardCMS/OrchardCore,C#,24
 27251463,QuantConnect/Lean,C#,36
-132453438,unoplatform/uno,C#,342
+132453438,unoplatform/uno,C#,354
 203892454,kgrzybek/modular-monolith-with-ddd,C#,45
 778828,MassTransit/MassTransit,C#,21
 164140756,files-community/Files,C#,118
@@ -18,9 +18,9 @@ id,name,lang,new stars
 23891194,Azure/azure-powershell,C#,9
 136674885,t1m0thyj/WinDynamicDesktop,C#,43
 72554578,confluentinc/confluent-kafka-dotnet,C#,12
-117102183,ChilliCream/hotchocolate,C#,39
-184286875,actions/runner,C#,48
+117102183,ChilliCream/hotchocolate,C#,40
+184286875,actions/runner,C#,49
 210280372,liukuo362573/YiShaAdmin,C#,35
 201976298,xamarin/MobileBlazorBindings,C#,27
-304230333,BluePointLilac/ContextMenuManager,C#,380
+304230333,BluePointLilac/ContextMenuManager,C#,384
 158405551,microsoft/Git-Credential-Manager-Core,C#,24

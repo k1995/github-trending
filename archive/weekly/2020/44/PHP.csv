@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,160
-3482588,danielmiessler/SecLists,PHP,145
-2579314,fzaninotto/Faker,PHP,76
-1864363,composer/composer,PHP,77
+1863329,laravel/laravel,PHP,164
+3482588,danielmiessler/SecLists,PHP,146
+2579314,fzaninotto/Faker,PHP,77
+1864363,composer/composer,PHP,78
 458058,symfony/symfony,PHP,51
 448045,sebastianbergmann/phpunit,PHP,49
 72069409,the-control-group/voyager,PHP,33
-48796179,z-song/laravel-admin,PHP,30
-14259390,Maatwebsite/Laravel-Excel,PHP,160
-61490598,PHPOffice/PhpSpreadsheet,PHP,49
-9004802,phpspec/prophecy,PHP,23
+48796179,z-song/laravel-admin,PHP,31
+14259390,Maatwebsite/Laravel-Excel,PHP,162
+61490598,PHPOffice/PhpSpreadsheet,PHP,50
+9004802,phpspec/prophecy,PHP,24
 2179920,woocommerce/woocommerce,PHP,25
-2717549,Sylius/Sylius,PHP,23
+2717549,Sylius/Sylius,PHP,24
 33916850,spatie/laravel-medialibrary,PHP,18
 14735403,yajra/laravel-datatables,PHP,20
 2464908,joomla/joomla-cms,PHP,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 222873550,bytefury/crater,PHP,11
 79166184,cretueusebiu/laravel-vue-spa,PHP,26
 1957456,Dolibarr/dolibarr,PHP,16
-17722440,Rudloff/alltube,PHP,23
+17722440,Rudloff/alltube,PHP,24
 71485542,kevinpapst/kimai2,PHP,23
 75645659,WordPress/wordpress-develop,PHP,9
