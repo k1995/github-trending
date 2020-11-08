@@ -1,16 +1,16 @@
 id,name,lang,new stars
 29759715,facebook/zstd,C,100
-102578345,coolsnowwolf/lede,C,158
+102578345,coolsnowwolf/lede,C,160
 37912398,nginx/nginx,C,67
-66150122,jarun/nnn,C,72
+66150122,jarun/nnn,C,73
 161292091,Tencent/matrix,C,42
-78281075,SpacehuhnTech/esp8266_deauther,C,43
+78281075,SpacehuhnTech/esp8266_deauther,C,44
 45821540,openwrt/openwrt,C,50
 3299208,videolan/vlc,C,29
 70127218,espressif/arduino-esp32,C,42
-2328181,freebsd/freebsd,C,27
+2328181,freebsd/freebsd,C,29
 13310527,jemalloc/jemalloc,C,52
-179354282,acidanthera/OpenCorePkg,C,148
+179354282,acidanthera/OpenCorePkg,C,150
 1979797,FreeRDP/FreeRDP,C,16
 60667730,lvgl/lvgl,C,47
 8270972,ARMmbed/mbed-os,C,23
@@ -18,9 +18,9 @@ id,name,lang,new stars
 68751856,gnea/grbl,C,14
 27359183,guanzhi/GmSSL,C,20
 10513590,torproject/tor,C,20
-254327261,sandboxie-plus/Sandboxie,C,254
+254327261,sandboxie-plus/Sandboxie,C,258
 935735,umlaeute/v4l2loopback,C,33
 39042157,spdk/spdk,C,14
-228103273,apache/incubator-nuttx,C,104
+228103273,apache/incubator-nuttx,C,106
 53432472,Azure/sonic-buildimage,C,1
 151064439,AlessandroAU/ExpressLRS,C,16
