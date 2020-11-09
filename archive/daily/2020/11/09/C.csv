@@ -1,12 +1,12 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,154
-24586308,cfenollosa/os-tutorial,C,16
+111583593,Genymobile/scrcpy,C,156
+24586308,cfenollosa/os-tutorial,C,18
 102578345,coolsnowwolf/lede,C,43
-80286288,arendst/Tasmota,C,33
-246335987,ventoy/Ventoy,C,74
+80286288,arendst/Tasmota,C,141
+246335987,ventoy/Ventoy,C,75
 66150122,jarun/nnn,C,25
-27737393,qmk/qmk_firmware,C,18
-3199002,raspberrypi/linux,C,9
+27737393,qmk/qmk_firmware,C,19
+3199002,raspberrypi/linux,C,60
 45821540,openwrt/openwrt,C,15
 9524997,glfw/glfw,C,16
 75811015,Tencent/xLua,C,18
@@ -16,9 +16,9 @@ id,name,lang,new stars
 5180577,mpc-hc/mpc-hc,C,6
 241659610,OpenIntelWireless/itlwm,C,26
 7705639,merbanan/rtl_433,C,7
-68751856,gnea/grbl,C,6
+68751856,gnea/grbl,C,7
 108568638,hanwckf/rt-n56u,C,10
-254327261,sandboxie-plus/Sandboxie,C,176
+254327261,sandboxie-plus/Sandboxie,C,177
 195445651,thestr4ng3r/chiaki,C,6
 211756905,MarlinFirmware/Configurations,C,6
 228103273,apache/incubator-nuttx,C,93

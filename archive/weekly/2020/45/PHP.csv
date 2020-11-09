@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,171
-3482588,danielmiessler/SecLists,PHP,157
+3482588,danielmiessler/SecLists,PHP,159
 1864363,composer/composer,PHP,82
 458058,symfony/symfony,PHP,53
 7548986,laravel/framework,PHP,61
@@ -12,7 +12,7 @@ id,name,lang,new stars
 9004802,phpspec/prophecy,PHP,24
 2179920,woocommerce/woocommerce,PHP,25
 2717549,Sylius/Sylius,PHP,25
-2464908,joomla/joomla-cms,PHP,4
+2464908,joomla/joomla-cms,PHP,5
 97311017,rectorphp/rector,PHP,63
 222873550,bytefury/crater,PHP,13
 761653,phpDocumentor/phpDocumentor,PHP,25
