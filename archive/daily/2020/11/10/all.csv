@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,130
-557980,socketio/socket.io,JavaScript,148
+83222441,donnemartin/system-design-primer,Python,139
+667561,Marak/faker.js,JavaScript,467
+21393871,sorrycc/awesome-javascript,,47
 267775629,geekxh/hello-algorithm,Java,317
-169677297,vlang/v,V,231
-80286288,arendst/Tasmota,C,187
-2200856,MarlinFirmware/Marlin,C++,93
-202291859,chatwoot/chatwoot,Ruby,344
-41620215,guardicore/monkey,Python,255
-206397095,facebookresearch/pifuhd,Python,438
-120542434,iv-org/invidious,Crystal,80
-140277116,Atcold/pytorch-Deep-Learning,Jupyter Notebook,48
+169677297,vlang/v,V,273
+38836015,michalsnik/aos,JavaScript,22
+80286288,arendst/Tasmota,C,186
+68720867,firstcontributions/first-contributions,,126
+101109137,PavelDoGreat/WebGL-Fluid-Simulation,JavaScript,263
+91356408,allenai/allennlp,Python,7
+202291859,chatwoot/chatwoot,Ruby,429
+206397095,facebookresearch/pifuhd,Python,431
+186036865,rileytestut/AltStore,Swift,348
+140277116,Atcold/pytorch-Deep-Learning,Jupyter Notebook,64
 275095333,gao-sun/eul,Swift,237
-286490065,UnityTechnologies/open-project-1,C#,34
-305982568,Qovery/engine,Rust,310
-260907244,yogeshojha/rengine,JavaScript,60
+310933773,Fmstrat/winapps,Shell,316
+260907244,yogeshojha/rengine,JavaScript,74
 236012292,appbrewery/100-days-of-python,,183
-305144746,geohot/tinygrad,Python,86
-63037248,scarsty/kys-cpp,C++,63
-293029595,cmu-snap/pigasus,C++,122
-310403173,cjph8914/2020_benfords,Jupyter Notebook,95
-303978277,lightspin-tech/red-kube,,116
-309310992,USTC-Hackergame/hackergame2020-writeups,C++,69
-266906825,thenewboston-developers/Account-Manager,TypeScript,73
+63037248,scarsty/kys-cpp,C++,59
+310403173,cjph8914/2020_benfords,Jupyter Notebook,87
+303978277,lightspin-tech/red-kube,,120
+305132874,newbee-ltd/newbee-mall-vue3-app,JavaScript,121
+306300884,RayWangQvQ/BiliBiliTool,C#,126
 269549452,thenewboston-developers/Website,TypeScript,51
-288028686,TiendaNube/php-programming-best-practices,,52
+305492699,gordicaleksa/pytorch-original-transformer,Python,57
