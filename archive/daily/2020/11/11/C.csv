@@ -1,13 +1,13 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,56
-18666758,pjreddie/darknet,C,10
-80286288,arendst/Tasmota,C,170
+111583593,Genymobile/scrcpy,C,57
+18666758,pjreddie/darknet,C,11
+80286288,arendst/Tasmota,C,169
 28515839,skywind3000/kcp,C,14
 47409672,hashcat/hashcat,C,4
-105627846,reactos/reactos,C,8
+105627846,reactos/reactos,C,11
 90320494,ish-app/ish,C,64
 75811015,Tencent/xLua,C,2
-437011,openzfs/zfs,C,4
+437011,openzfs/zfs,C,3
 65899476,espressif/esp-idf,C,3
 70127218,espressif/arduino-esp32,C,3
 5870069,edenhill/librdkafka,C,1
@@ -17,10 +17,10 @@ id,name,lang,new stars
 15120676,libusb/libusb,C,1
 29933948,fluent/fluent-bit,C,3
 123135691,tanersener/mobile-ffmpeg,C,5
-128791889,haproxy/haproxy,C,1
+128791889,haproxy/haproxy,C,2
 119086992,RavenSystem/esp-homekit-devices,C,3
 118424053,greenbone/openvas,C,0
 204459250,mit-pdos/xv6-riscv,C,3
 70934373,Azure/azure-iot-sdk-c,C,0
 296670766,hackerschoice/gsocket,C,22
-309488075,NVlabs/nvdiffrast,C,26
+309488075,NVlabs/nvdiffrast,C,25
