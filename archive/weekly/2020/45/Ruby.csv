@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,134
-7569578,discourse/discourse,Ruby,66
+7569578,discourse/discourse,Ruby,65
 13840241,freeCodeCamp/devdocs,Ruby,61
-53238813,Homebrew/brew,Ruby,131
-52281283,tootsuite/mastodon,Ruby,58
-2293158,rapid7/metasploit-framework,Ruby,82
-308770,heartcombo/devise,Ruby,17
+53238813,Homebrew/brew,Ruby,134
+52281283,tootsuite/mastodon,Ruby,56
+2293158,rapid7/metasploit-framework,Ruby,83
+308770,heartcombo/devise,Ruby,16
 538746,ruby/ruby,Ruby,20
-11423758,mame/quine-relay,Ruby,142
+11423758,mame/quine-relay,Ruby,146
 361310,teamcapybara/capybara,Ruby,11
 96395,faker-ruby/faker,Ruby,22
 611921,activeadmin/activeadmin,Ruby,5
@@ -16,11 +16,11 @@ id,name,lang,new stars
 810796,sferik/rails_admin,Ruby,10
 21829,thoughtbot/factory_bot,Ruby,15
 9746477,sonic-pi-net/sonic-pi,Ruby,30
-202291859,chatwoot/chatwoot,Ruby,1262
+202291859,chatwoot/chatwoot,Ruby,1273
 910744,puppetlabs/puppet,Ruby,11
 16549503,github/scientist,Ruby,20
 2802565,doorkeeper-gem/doorkeeper,Ruby,8
 30337170,rmosolgo/graphql-ruby,Ruby,26
 2981455,github/gemoji,Ruby,5
-30985840,solidusio/solidus,Ruby,17
+30985840,solidusio/solidus,Ruby,18
 154027884,samber/awesome-prometheus-alerts,Ruby,28

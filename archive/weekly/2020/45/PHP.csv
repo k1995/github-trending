@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,118
+1863329,laravel/laravel,PHP,120
 3482588,danielmiessler/SecLists,PHP,120
-458058,symfony/symfony,PHP,36
+458058,symfony/symfony,PHP,37
 7548986,laravel/framework,PHP,48
 448045,sebastianbergmann/phpunit,PHP,27
 1548202,matomo-org/matomo,PHP,34
 60243197,nextcloud/server,PHP,61
 72069409,the-control-group/voyager,PHP,34
 48796179,z-song/laravel-admin,PHP,36
-14259390,Maatwebsite/Laravel-Excel,PHP,165
+14259390,Maatwebsite/Laravel-Excel,PHP,164
 212659,sebastianbergmann/php-code-coverage,PHP,11
 6660366,dompdf/dompdf,PHP,23
 330275,twigphp/Twig,PHP,15
@@ -21,6 +21,6 @@ id,name,lang,new stars
 182349597,jqhph/dcat-admin,PHP,67
 7776575,myclabs/php-enum,PHP,24
 142127816,zhuifengshaonianhanlu/pikachu,PHP,24
-71485542,kevinpapst/kimai2,PHP,16
+71485542,kevinpapst/kimai2,PHP,17
 75645659,WordPress/wordpress-develop,PHP,8
 308409079,cesko-digital/covid.gov.cz,PHP,20
