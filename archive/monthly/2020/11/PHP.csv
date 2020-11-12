@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,766
-2579314,fzaninotto/Faker,PHP,412
+3482588,danielmiessler/SecLists,PHP,768
+2579314,fzaninotto/Faker,PHP,413
 1864363,composer/composer,PHP,335
-458058,symfony/symfony,PHP,183
+458058,symfony/symfony,PHP,184
 7548986,laravel/framework,PHP,245
 1376664,Seldaek/monolog,PHP,167
 448045,sebastianbergmann/phpunit,PHP,135
 2889328,WordPress/WordPress,PHP,127
-60243197,nextcloud/server,PHP,303
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,104
-48796179,z-song/laravel-admin,PHP,167
+60243197,nextcloud/server,PHP,307
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,106
+48796179,z-song/laravel-admin,PHP,168
 61490598,PHPOffice/PhpSpreadsheet,PHP,155
 1398648,symfony/http-foundation,PHP,97
 2179920,woocommerce/woocommerce,PHP,155
@@ -19,7 +19,7 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,183
 439861,moodle/moodle,PHP,75
 70288750,symfony/flex,PHP,58
-159606650,hyperf/hyperf,PHP,128
+159606650,hyperf/hyperf,PHP,129
 13914116,librenms/librenms,PHP,54
 71485542,kevinpapst/kimai2,PHP,56
 75645659,WordPress/wordpress-develop,PHP,28
