@@ -1,12 +1,12 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,47
+45717250,tensorflow/tensorflow,C++,50
 44838949,apple/swift,C++,24
-5108051,opencv/opencv,C++,35
-65600975,pytorch/pytorch,C++,28
-184456251,microsoft/PowerToys,C++,143
+5108051,opencv/opencv,C++,36
+65600975,pytorch/pytorch,C++,31
+184456251,microsoft/PowerToys,C++,174
 15634981,godotengine/godot,C++,12
 74627617,commaai/openpilot,C++,22
-5133949,swoole/swoole-src,C++,6
+5133949,swoole/swoole-src,C++,5
 60273704,mozilla/DeepSpeech,C++,10
 65214191,envoyproxy/envoy,C++,12
 19374812,telegramdesktop/tdesktop,C++,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 15122806,google/benchmark,C++,3
 142631191,uNetworking/uWebSockets.js,C++,2
 146842101,iovisor/bpftrace,C++,6
-119789,knolleary/pubsubclient,C++,1
+119789,knolleary/pubsubclient,C++,2
 256049233,microsoft/ProjectReunion,C++,22
-206138137,alphacep/vosk-api,C++,3
+206138137,alphacep/vosk-api,C++,4
 63037248,scarsty/kys-cpp,C++,50
