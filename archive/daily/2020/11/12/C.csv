@@ -2,14 +2,14 @@ id,name,lang,new stars
 18666758,pjreddie/darknet,C,12
 569041,curl/curl,C,10
 5101141,stedolan/jq,C,6
-80286288,arendst/Tasmota,C,120
+80286288,arendst/Tasmota,C,118
 613829,openresty/lua-nginx-module,C,3
 90320494,ish-app/ish,C,36
 16096528,AudioKit/AudioKit,C,5
 13310527,jemalloc/jemalloc,C,8
-13836499,raysan5/raylib,C,9
-16734696,meetecho/janus-gateway,C,4
-40418146,netblue30/firejail,C,259
+13836499,raysan5/raylib,C,10
+16734696,meetecho/janus-gateway,C,5
+40418146,netblue30/firejail,C,232
 86245815,pygame/pygame,C,3
 6687936,ARMmbed/mbedtls,C,0
 2359378,madler/zlib,C,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 48130039,eclipse/paho.mqtt.c,C,2
 50272879,pjsip/pjproject,C,1
 247326894,quantumcored/paradoxiaRAT,C,12
-311265450,MythicAgents/Apollo,C,14
 306278236,TencentCloud/O266player,C,21
+311265450,MythicAgents/Apollo,C,14
