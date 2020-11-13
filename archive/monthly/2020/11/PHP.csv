@@ -1,7 +1,7 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,770
+3482588,danielmiessler/SecLists,PHP,773
 2579314,fzaninotto/Faker,PHP,415
-1864363,composer/composer,PHP,337
+1864363,composer/composer,PHP,338
 458058,symfony/symfony,PHP,183
 7548986,laravel/framework,PHP,246
 1376664,Seldaek/monolog,PHP,172
@@ -9,8 +9,8 @@ id,name,lang,new stars
 2889328,WordPress/WordPress,PHP,127
 60243197,nextcloud/server,PHP,295
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,106
-48796179,z-song/laravel-admin,PHP,167
-61490598,PHPOffice/PhpSpreadsheet,PHP,151
+48796179,z-song/laravel-admin,PHP,168
+61490598,PHPOffice/PhpSpreadsheet,PHP,152
 1398648,symfony/http-foundation,PHP,102
 2179920,woocommerce/woocommerce,PHP,155
 10238429,tennc/webshell,PHP,130

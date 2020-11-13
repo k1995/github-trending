@@ -6,10 +6,10 @@ id,name,lang,new stars
 27729907,grpc/grpc-go,Go,7
 234231371,gofiber/fiber,Go,40
 11593442,golang/groupcache,Go,8
-29371034,micro/micro,Go,130
+29371034,micro/micro,Go,128
 36960321,opencontainers/runc,Go,4
 48109239,cilium/cilium,Go,16
-18906266,shirou/gopsutil,Go,5
+18906266,shirou/gopsutil,Go,6
 99143276,vmware-tanzu/velero,Go,3
 120896210,argoproj/argo-cd,Go,9
 111431261,fullstorydev/grpcurl,Go,16
