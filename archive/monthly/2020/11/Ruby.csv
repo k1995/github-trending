@@ -1,20 +1,20 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,342
-7569578,discourse/discourse,Ruby,236
+8514,rails/rails,Ruby,343
+7569578,discourse/discourse,Ruby,237
 8681349,huginn/huginn,Ruby,362
 53238813,Homebrew/brew,Ruby,438
 2500088,gitlabhq/gitlabhq,Ruby,60
 52281283,tootsuite/mastodon,Ruby,321
-2293158,rapid7/metasploit-framework,Ruby,334
+2293158,rapid7/metasploit-framework,Ruby,333
 481872,hashicorp/vagrant,Ruby,229
-73648678,forem/forem,Ruby,232
+73648678,forem/forem,Ruby,233
 1090311,elastic/logstash,Ruby,100
 4095287,rubocop-hq/rubocop,Ruby,90
-11423758,mame/quine-relay,Ruby,282
+11423758,mame/quine-relay,Ruby,286
 96395,faker-ruby/faker,Ruby,77
 1725199,github/linguist,Ruby,115
 9746477,sonic-pi-net/sonic-pi,Ruby,105
-202291859,chatwoot/chatwoot,Ruby,1503
+202291859,chatwoot/chatwoot,Ruby,1518
 277089,flyerhzm/bullet,Ruby,34
 30337170,rmosolgo/graphql-ruby,Ruby,50
 6899875,opf/openproject,Ruby,202
@@ -22,5 +22,5 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,53
 11426474,github/choosealicense.com,Ruby,55
 103766152,github/explore,Ruby,83
-65914086,decidim/decidim,Ruby,36
+65914086,decidim/decidim,Ruby,35
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,84
