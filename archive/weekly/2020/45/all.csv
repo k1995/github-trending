@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,1309
-241576270,labuladong/fucking-algorithm,,1299
+83222441,donnemartin/system-design-primer,Python,1317
+241576270,labuladong/fucking-algorithm,,1303
 557980,socketio/socket.io,JavaScript,530
-80276391,GitSquared/edex-ui,JavaScript,1301
+80276391,GitSquared/edex-ui,JavaScript,1251
 90563585,chubin/cheat.sh,Python,574
-267775629,geekxh/hello-algorithm,Java,1588
-169677297,vlang/v,V,652
-39840932,google/googletest,C++,131
-131789494,wuyouzhuguli/SpringAll,Java,157
-161757837,elunez/eladmin,Java,476
+267775629,geekxh/hello-algorithm,Java,1581
+169677297,vlang/v,V,653
+39840932,google/googletest,C++,122
+131789494,wuyouzhuguli/SpringAll,Java,158
+161757837,elunez/eladmin,Java,473
 102343794,apache/incubator-brpc,C++,83
-202291859,chatwoot/chatwoot,Ruby,1458
-109004193,jofpin/trape,Python,451
-206397095,facebookresearch/pifuhd,Python,1835
-234798675,bevyengine/bevy,Rust,294
-140277116,Atcold/pytorch-Deep-Learning,Jupyter Notebook,390
-150367689,corpnewt/gibMacOS,Python,130
-136332816,tychxn/jd-assistant,Python,88
-289417971,MrXujiang/h5-Dooring,TypeScript,376
-285774113,Rudrabha/Wav2Lip,Python,259
-293498508,JetBrains/compose-jb,Kotlin,699
-305144746,geohot/tinygrad,Python,384
+202291859,chatwoot/chatwoot,Ruby,1460
+109004193,jofpin/trape,Python,422
+206397095,facebookresearch/pifuhd,Python,1808
+234798675,bevyengine/bevy,Rust,278
+140277116,Atcold/pytorch-Deep-Learning,Jupyter Notebook,395
+150367689,corpnewt/gibMacOS,Python,145
+136332816,tychxn/jd-assistant,Python,90
+289417971,MrXujiang/h5-Dooring,TypeScript,374
+285774113,Rudrabha/Wav2Lip,Python,268
+293498508,JetBrains/compose-jb,Kotlin,689
+305144746,geohot/tinygrad,Python,390
 77180761,xamarin/XamarinCommunityToolkit,C#,67
 286108332,prometheus-community/helm-charts,HTML,39
-228103273,apache/incubator-nuttx,C,128
+228103273,apache/incubator-nuttx,C,116
