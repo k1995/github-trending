@@ -2,14 +2,14 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,145
 3482588,danielmiessler/SecLists,PHP,124
 1864363,composer/composer,PHP,47
-7548986,laravel/framework,PHP,52
+7548986,laravel/framework,PHP,51
 2253830,PHPMailer/PHPMailer,PHP,33
 60243197,nextcloud/server,PHP,71
 48796179,z-song/laravel-admin,PHP,41
-14259390,Maatwebsite/Laravel-Excel,PHP,35
+14259390,Maatwebsite/Laravel-Excel,PHP,36
 2884111,magento/magento2,PHP,23
 42480275,spatie/laravel-permission,PHP,29
-6660366,dompdf/dompdf,PHP,22
+6660366,dompdf/dompdf,PHP,21
 2179920,woocommerce/woocommerce,PHP,22
 10238429,tennc/webshell,PHP,45
 2141186,opencart/opencart,PHP,20
@@ -22,5 +22,5 @@ id,name,lang,new stars
 182349597,jqhph/dcat-admin,PHP,74
 7776575,myclabs/php-enum,PHP,22
 29501260,api-platform/core,PHP,4
-271550942,themsaid/ibis,PHP,369
-308409079,cesko-digital/covid.gov.cz,PHP,15
+271550942,themsaid/ibis,PHP,342
+308409079,cesko-digital/covid.gov.cz,PHP,14
