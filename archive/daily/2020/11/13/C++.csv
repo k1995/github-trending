@@ -3,7 +3,7 @@ id,name,lang,new stars
 44838949,apple/swift,C++,9
 5108051,opencv/opencv,C++,26
 65600975,pytorch/pytorch,C++,32
-184456251,microsoft/PowerToys,C++,137
+184456251,microsoft/PowerToys,C++,144
 15634981,godotengine/godot,C++,24
 74627617,commaai/openpilot,C++,16
 5133949,swoole/swoole-src,C++,2
@@ -14,7 +14,7 @@ id,name,lang,new stars
 149111813,Tencent/MMKV,C++,8
 2649214,arangodb/arangodb,C++,5
 160083795,SerenityOS/serenity,C++,5
-263379,zeromq/libzmq,C++,5
+263379,zeromq/libzmq,C++,6
 36451925,lltcggie/waifu2x-caffe,C++,4
 23086893,google/re2,C++,2
 15122806,google/benchmark,C++,2
