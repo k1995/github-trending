@@ -3,12 +3,12 @@ id,name,lang,new stars
 7569578,discourse/discourse,Ruby,69
 8681349,huginn/huginn,Ruby,76
 13840241,freeCodeCamp/devdocs,Ruby,63
-53238813,Homebrew/brew,Ruby,171
-52281283,tootsuite/mastodon,Ruby,69
+53238813,Homebrew/brew,Ruby,173
+52281283,tootsuite/mastodon,Ruby,68
 2293158,rapid7/metasploit-framework,Ruby,83
-308770,heartcombo/devise,Ruby,24
+308770,heartcombo/devise,Ruby,25
 3623050,Homebrew/homebrew-cask,Ruby,29
-538746,ruby/ruby,Ruby,24
+538746,ruby/ruby,Ruby,23
 11423758,mame/quine-relay,Ruby,190
 96395,faker-ruby/faker,Ruby,19
 611921,activeadmin/activeadmin,Ruby,3
@@ -18,8 +18,8 @@ id,name,lang,new stars
 587311,omniauth/omniauth,Ruby,6
 21829,thoughtbot/factory_bot,Ruby,12
 9746477,sonic-pi-net/sonic-pi,Ruby,30
-202291859,chatwoot/chatwoot,Ruby,1460
-5160706,bkeepers/dotenv,Ruby,13
+202291859,chatwoot/chatwoot,Ruby,1463
+5160706,bkeepers/dotenv,Ruby,12
 30337170,rmosolgo/graphql-ruby,Ruby,19
 30985840,solidusio/solidus,Ruby,17
 272141550,MeetYouDevs/cocoapods-imy-bin,Ruby,41
