@@ -1,13 +1,13 @@
 id,name,lang,new stars
-18666758,pjreddie/darknet,C,67
-24586308,cfenollosa/os-tutorial,C,71
-80286288,arendst/Tasmota,C,771
-246335987,ventoy/Ventoy,C,193
+18666758,pjreddie/darknet,C,68
+24586308,cfenollosa/os-tutorial,C,70
+80286288,arendst/Tasmota,C,769
+246335987,ventoy/Ventoy,C,192
 28515839,skywind3000/kcp,C,160
-47409672,hashcat/hashcat,C,52
+47409672,hashcat/hashcat,C,51
 613829,openresty/lua-nginx-module,C,16
 90320494,ish-app/ish,C,400
-3199002,raspberrypi/linux,C,121
+3199002,raspberrypi/linux,C,122
 70127218,espressif/arduino-esp32,C,39
 65899476,espressif/esp-idf,C,31
 39242894,coturn/coturn,C,34
@@ -17,10 +17,10 @@ id,name,lang,new stars
 40418146,netblue30/firejail,C,330
 241659610,OpenIntelWireless/itlwm,C,69
 6687936,ARMmbed/mbedtls,C,14
-7705639,merbanan/rtl_433,C,24
-68751856,gnea/grbl,C,14
-254327261,sandboxie-plus/Sandboxie,C,151
-40556106,wazuh/wazuh,C,25
+7705639,merbanan/rtl_433,C,25
+68751856,gnea/grbl,C,13
+254327261,sandboxie-plus/Sandboxie,C,148
+40556106,wazuh/wazuh,C,26
 50272879,pjsip/pjproject,C,11
 282790925,badafans/better-cloudflare-ip,C,68
-228103273,apache/incubator-nuttx,C,112
+228103273,apache/incubator-nuttx,C,103
