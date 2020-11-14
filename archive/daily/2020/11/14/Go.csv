@@ -6,8 +6,8 @@ id,name,lang,new stars
 167596393,derailed/k9s,Go,23
 33258973,influxdata/telegraf,Go,8
 6443435,nats-io/nats-server,Go,9
-119160553,photoprism/photoprism,Go,68
-167304464,cortexlabs/cortex,Go,17
+119160553,photoprism/photoprism,Go,67
+167304464,cortexlabs/cortex,Go,16
 27576132,aws/aws-sdk-go,Go,5
 146641150,tektoncd/pipeline,Go,9
 187403699,FiloSottile/age,Go,9
@@ -20,7 +20,7 @@ id,name,lang,new stars
 93446042,terraform-providers/terraform-provider-azurerm,Go,5
 51193526,cosmos/cosmos-sdk,Go,4
 170803235,magma/magma,Go,5
-281288782,kitabisa/teler,Go,88
+281288782,kitabisa/teler,Go,92
 141089889,berty/berty,Go,8
-281765424,microsoft/CBL-Mariner,Go,13
-271250363,k0sproject/k0s,Go,93
+281765424,microsoft/CBL-Mariner,Go,14
+271250363,k0sproject/k0s,Go,92
