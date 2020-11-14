@@ -1,14 +1,14 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,16
 13840241,freeCodeCamp/devdocs,Ruby,13
-53238813,Homebrew/brew,Ruby,49
+53238813,Homebrew/brew,Ruby,47
 3623050,Homebrew/homebrew-cask,Ruby,9
-73648678,forem/forem,Ruby,10
-2203645,CocoaPods/CocoaPods,Ruby,4
-4095287,rubocop-hq/rubocop,Ruby,2
+73648678,forem/forem,Ruby,11
+2203645,CocoaPods/CocoaPods,Ruby,3
+4095287,rubocop-hq/rubocop,Ruby,3
 3195124,mperham/sidekiq,Ruby,6
 1918677,fluent/fluentd,Ruby,2
-21829,thoughtbot/factory_bot,Ruby,1
+21829,thoughtbot/factory_bot,Ruby,2
 2441517,puma/puma,Ruby,1
 1548802,activerecord-hackery/ransack,Ruby,1
 1734,aasm/aasm,Ruby,0
@@ -18,7 +18,7 @@ id,name,lang,new stars
 14238949,elastic/elasticsearch-rails,Ruby,1
 68,macournoyer/thin,Ruby,0
 15171934,Homebrew/homebrew-cask-fonts,Ruby,5
-3148139,guard/listen,Ruby,14
+3148139,guard/listen,Ruby,16
 200302808,github/view_component,Ruby,9
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,2
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,3
