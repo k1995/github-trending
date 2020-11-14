@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,205
-24195339,angular/angular,TypeScript,95
-90796663,puppeteer/puppeteer,TypeScript,84
-138393139,trimstray/the-book-of-secret-knowledge,,88
-15823460,redisson/redisson,Java,31
-193215554,n8n-io/n8n,TypeScript,179
-75505125,abpframework/abp,C#,29
-281319253,element-plus/element-plus,Vue,358
-222751131,Asabeneh/30-Days-Of-Python,Python,64
-150367689,corpnewt/gibMacOS,Python,90
-229236549,c9fe/22120,JavaScript,207
-260733299,pretzelhammer/rust-blog,Rust,144
-110171937,munki/macadmin-scripts,Python,61
-252303308,natewong1313/bird-bot,Python,34
-306300884,RayWangQvQ/BiliBiliTool,C#,151
+21737465,sindresorhus/awesome,,219
+54346799,public-apis/public-apis,Python,221
+24195339,angular/angular,TypeScript,106
+74791366,ryanmcdermott/clean-code-javascript,JavaScript,108
+32484381,ripienaar/free-for-dev,HTML,86
+138393139,trimstray/the-book-of-secret-knowledge,,86
+202890778,chakra-ui/chakra-ui,TypeScript,59
+170355508,livewire/livewire,Blade,30
+1304738,github/dmca,Rich Text Format,24
+283410102,sogou/workflow,C++,80
+222751131,Asabeneh/30-Days-Of-Python,Python,73
+150367689,corpnewt/gibMacOS,Python,98
+260733299,pretzelhammer/rust-blog,Rust,148
+274594200,microsoft/Bringing-Old-Photos-Back-to-Life,Python,11
+247263904,YTVanced/VancedManager,Kotlin,81
+278336125,elrumo/macOS_Big_Sur_icons_replacements,Vue,120
+146397768,ithewei/libhv,C,37
 308595651,Freakboy/CobaltStrike,Java,229
-293044019,konstantinmuenster/notion-clone,JavaScript,192
-235469871,dotnet/interactive,C#,40
-272811260,zhm-real/PathPlanning,Python,113
-305522835,google-research-datasets/Objectron,Jupyter Notebook,111
-308137876,ComodoSecurity/openedr,C++,178
-311437254,VKCOM/kphp,C++,104
-275051692,barrykn/big-sur-micropatcher,Shell,58
-295892018,ThatGuySam/doesitarm,Vue,144
-310124793,Litteeen/AmongLock,Objective-C,60
+272811260,zhm-real/PathPlanning,Python,109
+305522835,google-research-datasets/Objectron,Jupyter Notebook,109
+308137876,ComodoSecurity/openedr,C++,179
+311437254,VKCOM/kphp,C++,100
+275051692,barrykn/big-sur-micropatcher,Shell,63
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,111
+299979242,ebatty/MathToolsforNeuroscience,Jupyter Notebook,38
