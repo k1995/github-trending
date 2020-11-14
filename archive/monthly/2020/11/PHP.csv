@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,774
+3482588,danielmiessler/SecLists,PHP,776
 2579314,fzaninotto/Faker,PHP,415
 1864363,composer/composer,PHP,339
 458058,symfony/symfony,PHP,180
-7548986,laravel/framework,PHP,244
-1376664,Seldaek/monolog,PHP,172
+7548986,laravel/framework,PHP,245
+1376664,Seldaek/monolog,PHP,171
 448045,sebastianbergmann/phpunit,PHP,139
-2889328,WordPress/WordPress,PHP,125
-60243197,nextcloud/server,PHP,299
+2889328,WordPress/WordPress,PHP,126
+60243197,nextcloud/server,PHP,297
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,107
-48796179,z-song/laravel-admin,PHP,169
+48796179,z-song/laravel-admin,PHP,170
 61490598,PHPOffice/PhpSpreadsheet,PHP,150
 1398648,symfony/http-foundation,PHP,101
 2179920,woocommerce/woocommerce,PHP,154
@@ -19,8 +19,8 @@ id,name,lang,new stars
 8875190,Ocramius/ProxyManager,PHP,92
 97311017,rectorphp/rector,PHP,177
 70288750,symfony/flex,PHP,58
-159606650,hyperf/hyperf,PHP,125
-41463886,codeigniter4/CodeIgniter4,PHP,83
+159606650,hyperf/hyperf,PHP,124
+41463886,codeigniter4/CodeIgniter4,PHP,84
 13914116,librenms/librenms,PHP,49
-17253775,zabbix/zabbix,PHP,75
+17253775,zabbix/zabbix,PHP,74
 71485542,kevinpapst/kimai2,PHP,59
