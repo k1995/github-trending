@@ -4,7 +4,7 @@ id,name,lang,new stars
 53238813,Homebrew/brew,Ruby,56
 3623050,Homebrew/homebrew-cask,Ruby,9
 73648678,forem/forem,Ruby,11
-2203645,CocoaPods/CocoaPods,Ruby,4
+2203645,CocoaPods/CocoaPods,Ruby,5
 4095287,rubocop-hq/rubocop,Ruby,4
 3195124,mperham/sidekiq,Ruby,7
 1918677,fluent/fluentd,Ruby,2
@@ -16,7 +16,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,3
 1172597,thoughtbot/shoulda-matchers,Ruby,2
 14238949,elastic/elasticsearch-rails,Ruby,1
-68,macournoyer/thin,Ruby,0
+68,macournoyer/thin,Ruby,1
 15171934,Homebrew/homebrew-cask-fonts,Ruby,6
 3148139,guard/listen,Ruby,17
 200302808,github/view_component,Ruby,10

@@ -1,16 +1,16 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,288
-100060912,microsoft/terminal,C++,266
-23357588,protocolbuffers/protobuf,C++,119
-184456251,microsoft/PowerToys,C++,1191
-39840932,google/googletest,C++,125
+100060912,microsoft/terminal,C++,269
+23357588,protocolbuffers/protobuf,C++,118
+184456251,microsoft/PowerToys,C++,1203
+39840932,google/googletest,C++,126
 19953044,google/flatbuffers,C++,54
 60246359,ClickHouse/ClickHouse,C++,115
 54360307,uNetworking/uWebSockets,C++,36
 87335980,EOSIO/eos,C++,11
-102343794,apache/incubator-brpc,C++,115
+102343794,apache/incubator-brpc,C++,120
 34777562,ossrs/srs,C++,82
-191820100,google/mediapipe,C++,123
+191820100,google/mediapipe,C++,124
 2200856,MarlinFirmware/Marlin,C++,196
 196813750,Light-City/CPlusPlusThings,C++,182
 265995,VowpalWabbit/vowpal_wabbit,C++,25
@@ -19,8 +19,8 @@ id,name,lang,new stars
 84183882,google/sentencepiece,C++,34
 15773229,google/skia,C++,44
 208728772,milvus-io/milvus,C++,68
-5298790,PX4/PX4-Autopilot,C++,26
+5298790,PX4/PX4-Autopilot,C++,25
 156939672,microsoft/onnxruntime,C++,92
-223904726,wang-xinyu/tensorrtx,C++,50
-310019917,tdlib/telegram-bot-api,C++,176
-309310992,USTC-Hackergame/hackergame2020-writeups,C++,311
+223904726,wang-xinyu/tensorrtx,C++,51
+310019917,tdlib/telegram-bot-api,C++,177
+309310992,USTC-Hackergame/hackergame2020-writeups,C++,312
