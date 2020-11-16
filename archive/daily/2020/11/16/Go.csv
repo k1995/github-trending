@@ -1,16 +1,15 @@
 id,name,lang,new stars
-23096959,golang/go,Go,80
-11180687,gohugoio/hugo,Go,22
-13807606,junegunn/fzf,Go,42
+23096959,golang/go,Go,79
+11180687,gohugoio/hugo,Go,30
+13807606,junegunn/fzf,Go,40
 17803236,rclone/rclone,Go,24
 30215630,go-kit/kit,Go,10
-6051812,gorilla/mux,Go,6
 21233191,ipfs/go-ipfs,Go,9
-234231371,gofiber/fiber,Go,41
-97533102,halfrost/LeetCode-Go,Go,43
-86733463,ahmetb/kubectx,Go,10
+234231371,gofiber/fiber,Go,39
+97533102,halfrost/LeetCode-Go,Go,54
+86733463,ahmetb/kubectx,Go,9
 6443435,nats-io/nats-server,Go,7
-119160553,photoprism/photoprism,Go,45
+119160553,photoprism/photoprism,Go,44
 167304464,cortexlabs/cortex,Go,9
 116739828,DNSCrypt/dnscrypt-proxy,Go,7
 62712899,AdguardTeam/AdGuardHome,Go,22
@@ -18,9 +17,9 @@ id,name,lang,new stars
 80723074,gopasspw/gopass,Go,9
 154643390,sundowndev/PhoneInfoga,Go,11
 117156031,prysmaticlabs/prysm,Go,6
-95098170,OpenObservability/OpenMetrics,Go,32
-253024215,hahwul/WebHackersWeapons,Go,11
+95098170,OpenObservability/OpenMetrics,Go,31
+253024215,hahwul/WebHackersWeapons,Go,10
 16027367,jhaals/yopass,Go,3
-271250363,k0sproject/k0s,Go,179
+271250363,k0sproject/k0s,Go,122
 312549947,stephank/lazyssh,Go,30
-296542581,orijtech/structslop,Go,35
+296542581,orijtech/structslop,Go,33
