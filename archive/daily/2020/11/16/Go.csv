@@ -1,6 +1,6 @@
 id,name,lang,new stars
 23096959,golang/go,Go,76
-41912791,v2ray/v2ray-core,Go,19
+41912791,v2ray/v2ray-core,Go,17
 17803236,rclone/rclone,Go,25
 53632140,zyedidia/micro,Go,7
 105279544,gocolly/colly,Go,9
@@ -13,14 +13,14 @@ id,name,lang,new stars
 219616873,charmbracelet/glow,Go,18
 181461073,v2fly/v2ray-core,Go,40
 160626997,uber/kraken,Go,22
-26639347,OJ/gobuster,Go,7
+26639347,OJ/gobuster,Go,8
 165092572,go-echarts/go-echarts,Go,19
 135321861,ory/kratos,Go,4
 95098170,OpenObservability/OpenMetrics,Go,17
-253024215,hahwul/WebHackersWeapons,Go,15
-206214867,TwinProduction/gatus,Go,86
+253024215,hahwul/WebHackersWeapons,Go,18
+206214867,TwinProduction/gatus,Go,62
 281288782,kitabisa/teler,Go,68
 258469100,fluxcd/flux2,Go,6
 294825566,denverquane/automuteus,Go,6
-252767566,Adminisme/ServerScan,Go,14
 271250363,k0sproject/k0s,Go,118
+252767566,Adminisme/ServerScan,Go,14
