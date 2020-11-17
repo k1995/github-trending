@@ -1,19 +1,19 @@
 id,name,lang,new stars
-70104825,dotnet-architecture/eShopOnContainers,C#,16
-102904613,Unity-Technologies/ml-agents,C#,10
+70104825,dotnet-architecture/eShopOnContainers,C#,18
+102904613,Unity-Technologies/ml-agents,C#,11
 161012019,jellyfin/jellyfin,C#,12
 31335300,PrismLibrary/Prism,C#,6
 8198511,serilog/serilog,C#,2
 41822320,RicoSuter/NSwag,C#,5
 32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,3
-68730444,microsoft/BotBuilder-Samples,C#,0
+68730444,microsoft/BotBuilder-Samples,C#,1
 59361967,simplcommerce/SimplCommerce,C#,9
-30932325,dotnet/extensions,C#,2
-100711978,btcpayserver/btcpayserver,C#,2
-117102183,ChilliCream/hotchocolate,C#,7
+30932325,dotnet/extensions,C#,4
+100711978,btcpayserver/btcpayserver,C#,3
+117102183,ChilliCream/hotchocolate,C#,8
 210301092,cq-panda/Vue.NetCore,C#,6
 70060215,filipw/dotnet-script,C#,8
-159973917,stsrki/Blazorise,C#,5
+159973917,stsrki/Blazorise,C#,8
 297163997,Impostor/Impostor,C#,20
 50355666,lunet-io/scriban,C#,9
 153988618,Unity-Technologies/multiplayer,C#,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,2
 252826419,Unity-Technologies/Graphics,C#,3
 116398953,microsoft/powerapps-tools,C#,0
-186577353,ciro-unity/UnityRoyale-Public,C#,17
+186577353,ciro-unity/UnityRoyale-Public,C#,11
 227207157,Unity-Technologies/XR-Interaction-Toolkit-Examples,C#,3
-295200728,stnkl/EverythingToolbar,C#,8
+295200728,stnkl/EverythingToolbar,C#,12

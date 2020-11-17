@@ -4,11 +4,11 @@ id,name,lang,new stars
 507775,elastic/elasticsearch,Java,19
 1148753,spring-projects/spring-framework,Java,27
 72907253,ityouknow/spring-boot-examples,Java,20
-8859474,skylot/jadx,Java,37
-20818126,google/ExoPlayer,Java,13
+8859474,skylot/jadx,Java,39
+20818126,google/ExoPlayer,Java,12
 118497841,GoogleContainerTools/jib,Java,6
 11125589,keycloak/keycloak,Java,7
-75277003,thingsboard/thingsboard,Java,15
+75277003,thingsboard/thingsboard,Java,14
 62117812,apache/pulsar,Java,6
 139914932,quarkusio/quarkus,Java,11
 19777812,seven332/EhViewer,Java,8
@@ -22,5 +22,5 @@ id,name,lang,new stars
 70491053,OpenVidu/openvidu,Java,10
 113922675,awsdocs/aws-lambda-developer-guide,Java,6
 2928948,Azure/azure-sdk-for-java,Java,1
-253568386,JetBrains/skija,Java,103
+253568386,JetBrains/skija,Java,161
 181747297,linkedin/dagli,Java,54
