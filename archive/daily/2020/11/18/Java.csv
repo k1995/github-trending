@@ -1,21 +1,21 @@
 id,name,lang,new stars
 132464395,Snailclimb/JavaGuide,Java,87
 22790488,iluwatar/java-design-patterns,Java,25
-8859474,skylot/jadx,Java,39
-146633589,alibaba/arthas,Java,22
+8859474,skylot/jadx,Java,35
+146633589,alibaba/arthas,Java,21
 6358188,apache/druid,Java,5
 442430,jhy/jsoup,Java,4
 38415498,careercup/CtCI-6th-Edition,Java,6
-75277003,thingsboard/thingsboard,Java,22
+75277003,thingsboard/thingsboard,Java,21
 139914932,quarkusio/quarkus,Java,14
 50205233,debezium/debezium,Java,11
 8426406,mock-server/mockserver,Java,5
-1968850,angryip/ipscan,Java,2
+1968850,angryip/ipscan,Java,1
 40642004,react-native-google-signin/google-signin,Java,2
 17634071,JabRef/jabref,Java,5
 20415251,docker-java/docker-java,Java,4
 122837111,subhra74/xdm,Java,8
-76177416,lukas-krecan/ShedLock,Java,4
+76177416,lukas-krecan/ShedLock,Java,3
 253568386,JetBrains/skija,Java,476
 68675293,jishenghua/jshERP,Java,9
 193518067,intel-isl/MiDaS,Java,8
@@ -23,4 +23,4 @@ id,name,lang,new stars
 278270052,braisdom/ObjectiveSql,Java,76
 272878435,fupinglee/ShiroScan,Java,9
 313285724,openjdk/shenandoah-visualizer,Java,34
-295361386,acloudyh/springCloud,Java,5
+295361386,acloudyh/springCloud,Java,9
