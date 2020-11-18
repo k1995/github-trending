@@ -1,6 +1,6 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,52
-27729880,grpc/grpc,C++,23
+27729880,grpc/grpc,C++,22
 1116542,aria2/aria2,C++,13
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,17
 39840932,google/googletest,C++,13
@@ -20,7 +20,7 @@ id,name,lang,new stars
 5128084,Cisco-Talos/clamav-devel,C++,3
 156228018,cyberbotics/webots,C++,1
 33989658,ben-strasser/fast-cpp-csv-parser,C++,4
-309512982,vectorizedio/redpanda,C++,194
+309512982,vectorizedio/redpanda,C++,188
 244694174,project-chip/connectedhomeip,C++,9
 256463281,k2-fsa/k2,C++,6
-312348119,deepmind/lab2d,C++,113
+312348119,deepmind/lab2d,C++,100
