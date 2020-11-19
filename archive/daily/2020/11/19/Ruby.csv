@@ -1,13 +1,13 @@
 id,name,lang,new stars
-53238813,Homebrew/brew,Ruby,51
-2293158,rapid7/metasploit-framework,Ruby,15
-73648678,forem/forem,Ruby,9
-52855516,Homebrew/homebrew-core,Ruby,9
-16549503,github/scientist,Ruby,2
-6899875,opf/openproject,Ruby,2
+53238813,Homebrew/brew,Ruby,49
+2293158,rapid7/metasploit-framework,Ruby,16
+73648678,forem/forem,Ruby,7
+52855516,Homebrew/homebrew-core,Ruby,10
+16549503,github/scientist,Ruby,3
+6899875,opf/openproject,Ruby,1
 950915,urbanadventurer/WhatWeb,Ruby,0
 11426474,github/choosealicense.com,Ruby,2
-70123996,bibendi/dip,Ruby,34
+70123996,bibendi/dip,Ruby,35
 202333514,learn-co-curriculum/ruby-oo-complex-objects-school-domain,Ruby,0
 46150313,learn-co-curriculum/rails-edit-update-action-readme,Ruby,0
 202332674,learn-co-curriculum/sql-table-relations-crowdfunding-join-table-lab,Ruby,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 202211521,learn-co-curriculum/orms-mapping-database-records-to-ruby-objects-lab,Ruby,0
 46149896,learn-co-curriculum/rails-create-action-lab,Ruby,0
 202211678,learn-co-curriculum/orms-updating-records-lab,Ruby,0
-202181298,learn-co-curriculum/ruby-oo-fundamentals-email-parser-lab,Ruby,0
-202179778,learn-co-curriculum/ruby-oo-fundamentals-object-attributes-lab,Ruby,0
 202211354,learn-co-curriculum/orms-mapping-classes-to-database-tables-lab,Ruby,0
+202179778,learn-co-curriculum/ruby-oo-fundamentals-object-attributes-lab,Ruby,0
+202181298,learn-co-curriculum/ruby-oo-fundamentals-email-parser-lab,Ruby,0
