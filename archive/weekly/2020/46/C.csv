@@ -1,19 +1,19 @@
 id,name,lang,new stars
 13233158,obsproject/obs-studio,C,151
 18666758,pjreddie/darknet,C,69
-24586308,cfenollosa/os-tutorial,C,72
+24586308,cfenollosa/os-tutorial,C,69
 569041,curl/curl,C,71
-20159867,nothings/stb,C,72
-80286288,arendst/Tasmota,C,240
-4869294,radareorg/radare2,C,63
-102578345,coolsnowwolf/lede,C,142
+20159867,nothings/stb,C,71
+80286288,arendst/Tasmota,C,228
+4869294,radareorg/radare2,C,64
+102578345,coolsnowwolf/lede,C,141
 246335987,ventoy/Ventoy,C,307
 47409672,hashcat/hashcat,C,37
-32873313,systemd/systemd,C,38
-70127218,espressif/arduino-esp32,C,45
-179354282,acidanthera/OpenCorePkg,C,127
+32873313,systemd/systemd,C,37
+70127218,espressif/arduino-esp32,C,46
+179354282,acidanthera/OpenCorePkg,C,126
 184909163,koekeishiya/yabai,C,145
-40418146,netblue30/firejail,C,70
+40418146,netblue30/firejail,C,64
 241659610,OpenIntelWireless/itlwm,C,94
 205810121,CloverHackyColor/CloverBootloader,C,49
 68751856,gnea/grbl,C,16
@@ -22,5 +22,5 @@ id,name,lang,new stars
 90867899,stm32duino/Arduino_Core_STM32,C,14
 282790925,badafans/better-cloudflare-ip,C,77
 5053738,cs50/libcs50,C,8
-290808391,atc1441/ATC_MiThermometer,C,104
-296670766,hackerschoice/gsocket,C,51
+290808391,atc1441/ATC_MiThermometer,C,107
+296670766,hackerschoice/gsocket,C,50
