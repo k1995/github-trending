@@ -8,7 +8,7 @@ id,name,lang,new stars
 43160685,zulip/zulip,Python,9
 6662075,joke2k/faker,Python,221
 99846383,horovod/horovod,Python,11
-178626720,PyTorchLightning/pytorch-lightning,Python,160
+178626720,PyTorchLightning/pytorch-lightning,Python,137
 52796596,netbox-community/netbox,Python,8
 20785986,jupyterhub/jupyterhub,Python,5
 131881622,NVIDIA/DeepLearningExamples,Python,14
@@ -19,7 +19,7 @@ id,name,lang,new stars
 216914329,elyra-ai/elyra,Python,5
 30382555,kizniche/Mycodo,Python,8
 307948983,y1ndan/genshin-impact-helper,Python,48
-312542510,TsinghuaAI/CPM-Generate,Python,133
+312542510,TsinghuaAI/CPM-Generate,Python,114
 282320787,microsoft/restler-fuzzer,Python,15
 296433432,1nfinityLoop/Sudoku-Solver-AI,Python,16
 312840078,ghidraninja/game-and-watch-hacking,Python,12
