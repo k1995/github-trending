@@ -5,7 +5,7 @@ id,name,lang,new stars
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,16
 39840932,google/googletest,C++,12
 13862381,DrKLO/Telegram,C++,8
-40892817,ethereum/solidity,C++,38
+40892817,ethereum/solidity,C++,34
 104732438,radareorg/cutter,C++,24
 17253131,baldurk/renderdoc,C++,4
 15802263,bblanchon/ArduinoJson,C++,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 309512982,vectorizedio/redpanda,C++,172
 244694174,project-chip/connectedhomeip,C++,7
 256463281,k2-fsa/k2,C++,6
-312348119,deepmind/lab2d,C++,60
+312348119,deepmind/lab2d,C++,59
