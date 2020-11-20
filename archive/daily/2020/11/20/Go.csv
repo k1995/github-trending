@@ -1,10 +1,10 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,39
+20580498,kubernetes/kubernetes,Go,38
 42408804,traefik/traefik,Go,24
-41986369,pingcap/tidb,Go,44
-8989842,unknwon/the-way-to-go_ZH_CN,Go,48
+41986369,pingcap/tidb,Go,45
+8989842,unknwon/the-way-to-go_ZH_CN,Go,49
 14125254,hashicorp/consul,Go,17
-31288958,hashicorp/vault,Go,8
+31288958,hashicorp/vault,Go,7
 29217054,asim/nitro,Go,26
 46806184,helm/charts,Go,2
 24268127,coreybutler/nvm-windows,Go,20
@@ -13,14 +13,14 @@ id,name,lang,new stars
 7877397,jmoiron/sqlx,Go,9
 42332863,filebrowser/filebrowser,Go,36
 100982449,argoproj/argo,Go,11
-109162639,thanos-io/thanos,Go,9
+109162639,thanos-io/thanos,Go,11
 201658460,geektutu/7days-golang,Go,18
 205679232,flipped-aurora/gin-vue-admin,Go,21
 113473682,googleforgames/agones,Go,4
-83252983,go-task/task,Go,11
+83252983,go-task/task,Go,12
 134539560,weaveworks/eksctl,Go,3
 76686583,kubevirt/kubevirt,Go,2
-264154402,crowdsecurity/crowdsec,Go,12
-271250363,k0sproject/k0s,Go,139
+264154402,crowdsecurity/crowdsec,Go,11
+271250363,k0sproject/k0s,Go,121
 57912964,kubernetes/enhancements,Go,1
 196414933,open-telemetry/opentelemetry-collector-contrib,Go,0
