@@ -1,6 +1,6 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,60
-1420053,guzzle/guzzle,PHP,41
+7548986,laravel/framework,PHP,57
+1420053,guzzle/guzzle,PHP,39
 2253830,PHPMailer/PHPMailer,PHP,36
 1631570,nikic/PHP-Parser,PHP,43
 60243197,nextcloud/server,PHP,70
@@ -9,18 +9,18 @@ id,name,lang,new stars
 677464,doctrine/dbal,PHP,32
 2179920,woocommerce/woocommerce,PHP,16
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,16
-41589337,BookStackApp/BookStack,PHP,28
-6047189,electerious/Lychee,PHP,33
+41589337,BookStackApp/BookStack,PHP,27
+6047189,electerious/Lychee,PHP,32
 10371103,Laravel-Lang/lang,PHP,28
-86350964,the-benchmarker/web-frameworks,PHP,24
+86350964,the-benchmarker/web-frameworks,PHP,21
 60491949,fecshop/yii2_fecshop,PHP,26
 9826184,elastic/elasticsearch-php,PHP,15
 8875190,Ocramius/ProxyManager,PHP,42
 30367229,LaravelCollective/html,PHP,13
-117649937,hhxsv5/laravel-s,PHP,16
+117649937,hhxsv5/laravel-s,PHP,15
 69691727,pmmp/PocketMine-MP,PHP,14
-74026995,CodelyTV/php-ddd-example,PHP,15
+74026995,CodelyTV/php-ddd-example,PHP,16
 57463067,AzuraCast/AzuraCast,PHP,14
-311448648,laravel/breeze,PHP,144
-143975804,LycheeOrg/Lychee,PHP,49
-247004921,hexters/ladmin,PHP,52
+311448648,laravel/breeze,PHP,134
+143975804,LycheeOrg/Lychee,PHP,48
+247004921,hexters/ladmin,PHP,51

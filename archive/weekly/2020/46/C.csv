@@ -1,10 +1,10 @@
 id,name,lang,new stars
 20159867,nothings/stb,C,74
-4869294,radareorg/radare2,C,62
-102578345,coolsnowwolf/lede,C,143
-15337142,micropython/micropython,C,52
-246335987,ventoy/Ventoy,C,312
-66150122,jarun/nnn,C,343
+4869294,radareorg/radare2,C,64
+102578345,coolsnowwolf/lede,C,144
+15337142,micropython/micropython,C,51
+246335987,ventoy/Ventoy,C,313
+66150122,jarun/nnn,C,341
 45821540,openwrt/openwrt,C,39
 2321051,rofl0r/proxychains-ng,C,30
 70127218,espressif/arduino-esp32,C,42
@@ -15,12 +15,12 @@ id,name,lang,new stars
 205810121,CloverHackyColor/CloverBootloader,C,49
 68751856,gnea/grbl,C,12
 59676171,KevinOConnor/klipper,C,20
-151870364,xiaorouji/openwrt-package,C,41
-90867899,stm32duino/Arduino_Core_STM32,C,15
+151870364,xiaorouji/openwrt-package,C,42
+90867899,stm32duino/Arduino_Core_STM32,C,16
 154525111,signalwire/freeswitch,C,18
-263076869,azure-rtos/threadx,C,28
-282790925,badafans/better-cloudflare-ip,C,81
+263076869,azure-rtos/threadx,C,29
+282790925,badafans/better-cloudflare-ip,C,79
 5053738,cs50/libcs50,C,7
-290808391,atc1441/ATC_MiThermometer,C,120
+290808391,atc1441/ATC_MiThermometer,C,119
 296670766,hackerschoice/gsocket,C,47
-311981228,0x36/oob_events,C,57
+311981228,0x36/oob_events,C,56
