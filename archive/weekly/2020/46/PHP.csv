@@ -1,15 +1,15 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,59
+7548986,laravel/framework,PHP,63
 1420053,guzzle/guzzle,PHP,38
-3431193,yiisoft/yii2,PHP,10
-60243197,nextcloud/server,PHP,72
-12615154,barryvdh/laravel-debugbar,PHP,35
-597887,doctrine/orm,PHP,21
+3431193,yiisoft/yii2,PHP,12
+60243197,nextcloud/server,PHP,71
+12615154,barryvdh/laravel-debugbar,PHP,34
+597887,doctrine/orm,PHP,23
 677464,doctrine/dbal,PHP,38
 330275,twigphp/Twig,PHP,15
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,17
 4551765,thephpleague/oauth2-server,PHP,16
-6047189,electerious/Lychee,PHP,30
+6047189,electerious/Lychee,PHP,24
 16685462,humhub/humhub,PHP,16
 60491949,fecshop/yii2_fecshop,PHP,30
 9826184,elastic/elasticsearch-php,PHP,15
@@ -17,10 +17,10 @@ id,name,lang,new stars
 30367229,LaravelCollective/html,PHP,13
 117649937,hhxsv5/laravel-s,PHP,14
 69691727,pmmp/PocketMine-MP,PHP,21
-679584,openemr/openemr,PHP,38
+679584,openemr/openemr,PHP,39
 74026995,CodelyTV/php-ddd-example,PHP,15
-57463067,AzuraCast/AzuraCast,PHP,13
-311448648,laravel/breeze,PHP,115
+57463067,AzuraCast/AzuraCast,PHP,12
+311448648,laravel/breeze,PHP,112
 143975804,LycheeOrg/Lychee,PHP,39
 247004921,hexters/ladmin,PHP,44
 184538454,yankovalenko94/Webdev2019,PHP,1
