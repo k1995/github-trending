@@ -1,13 +1,13 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,67
+7548986,laravel/framework,PHP,69
 448045,sebastianbergmann/phpunit,PHP,36
-2253830,PHPMailer/PHPMailer,PHP,49
-60243197,nextcloud/server,PHP,79
+2253830,PHPMailer/PHPMailer,PHP,52
+60243197,nextcloud/server,PHP,81
 597887,doctrine/orm,PHP,24
 677464,doctrine/dbal,PHP,39
 330275,twigphp/Twig,PHP,17
 6763587,PrestaShop/PrestaShop,PHP,22
-42261096,fuzzdb-project/fuzzdb,PHP,36
+42261096,fuzzdb-project/fuzzdb,PHP,38
 16685462,humhub/humhub,PHP,16
 60491949,fecshop/yii2_fecshop,PHP,30
 9826184,elastic/elasticsearch-php,PHP,17
@@ -20,6 +20,6 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,23
 14724954,opensourcepos/opensourcepos,PHP,16
 60457385,vtrois/kratos,PHP,19
-679584,openemr/openemr,PHP,39
-74026995,CodelyTV/php-ddd-example,PHP,16
-247004921,hexters/ladmin,PHP,46
+679584,openemr/openemr,PHP,40
+74026995,CodelyTV/php-ddd-example,PHP,17
+247004921,hexters/ladmin,PHP,45
