@@ -1,15 +1,15 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,71
+121395510,CyC2018/CS-Notes,Java,84
 507775,elastic/elasticsearch,Java,31
 5152285,square/okhttp,Java,22
-9754983,eugenp/tutorials,Java,33
+9754983,eugenp/tutorials,Java,32
 2700474,alibaba/fastjson,Java,17
-7613257,SeleniumHQ/selenium,Java,16
-49876476,apache/shardingsphere,Java,66
+7613257,SeleniumHQ/selenium,Java,15
+49876476,apache/shardingsphere,Java,63
 41889031,TeamNewPipe/NewPipe,Java,30
 23418517,apache/hadoop,Java,5
 6358188,apache/druid,Java,7
-74359442,Tencent/APIJSON,Java,234
+74359442,Tencent/APIJSON,Java,164
 501687,antlr/antlr4,Java,15
 133134007,OpenAPITools/openapi-generator,Java,21
 89822531,Anuken/Mindustry,Java,23
@@ -23,4 +23,4 @@ id,name,lang,new stars
 140543886,dromara/soul,Java,107
 21193524,apache/calcite,Java,9
 265579053,fuzhengwei/itstack-demo-design,Java,56
-284279366,GoogleLLP/SuperMarket,Java,101
+284279366,GoogleLLP/SuperMarket,Java,122
