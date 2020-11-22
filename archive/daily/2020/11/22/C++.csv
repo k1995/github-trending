@@ -6,7 +6,7 @@ id,name,lang,new stars
 39840932,google/googletest,C++,109
 6934395,facebook/rocksdb,C++,21
 5133949,swoole/swoole-src,C++,11
-65214191,envoyproxy/envoy,C++,32
+65214191,envoyproxy/envoy,C++,36
 251383553,electronicarts/CnC_Remastered_Collection,C++,9
 60246359,ClickHouse/ClickHouse,C++,195
 26038648,gabime/spdlog,C++,23
@@ -18,7 +18,7 @@ id,name,lang,new stars
 75662387,google/draco,C++,5
 6083843,progschj/ThreadPool,C++,20
 156939672,microsoft/onnxruntime,C++,14
-49986046,falcosecurity/falco,C++,11
+49986046,falcosecurity/falco,C++,12
 11986447,xournalpp/xournalpp,C++,55
 6148317,OSGeo/gdal,C++,3
 86897963,xia-chu/ZLMediaKit,C++,17
