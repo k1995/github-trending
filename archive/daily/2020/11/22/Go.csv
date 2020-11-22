@@ -1,6 +1,6 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,62
-74175805,istio/istio,Go,271
+74175805,istio/istio,Go,272
 37448451,mattermost/mattermost-server,Go,24
 26337322,rancher/rancher,Go,12
 61137153,evanw/esbuild,Go,59
@@ -21,6 +21,6 @@ id,name,lang,new stars
 93446042,terraform-providers/terraform-provider-azurerm,Go,9
 116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,6
 253846879,determined-ai/determined,Go,11
-276822250,oam-dev/kubevela,Go,118
+276822250,oam-dev/kubevela,Go,119
 306720967,IAPOLINARIO/100-days-of-code,Go,61
 306025950,g2a-com/klio,Go,7
