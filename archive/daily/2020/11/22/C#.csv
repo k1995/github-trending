@@ -3,7 +3,7 @@ id,name,lang,new stars
 70104825,dotnet-architecture/eShopOnContainers,C#,16
 29078997,dotnet/roslyn,C#,7
 102904613,Unity-Technologies/ml-agents,C#,9
-16157746,dotnet/efcore,C#,16
+16157746,dotnet/efcore,C#,15
 143460965,GoogleCloudPlatform/microservices-demo,C#,13
 28239455,dotnet/AspNetCore.Docs,C#,13
 46652227,IdentityServer/IdentityServer4,C#,12
@@ -23,4 +23,4 @@ id,name,lang,new stars
 150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,9
 182849051,dotnet/spark,C#,5
 185478059,open-telemetry/opentelemetry-dotnet,C#,6
-314069977,fireeye/OfficePurge,C#,84
+314069977,fireeye/OfficePurge,C#,83
