@@ -1,6 +1,6 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,81
-74175805,istio/istio,Go,281
+74175805,istio/istio,Go,62
 37448451,mattermost/mattermost-server,Go,29
 26337322,rancher/rancher,Go,17
 61137153,evanw/esbuild,Go,89
@@ -15,12 +15,12 @@ id,name,lang,new stars
 120896210,argoproj/argo-cd,Go,20
 48714685,open-policy-agent/opa,Go,14
 93928882,swaggo/swag,Go,15
-285864199,tal-tech/go-zero,Go,130
-206213815,chaos-mesh/chaos-mesh,Go,198
+285864199,tal-tech/go-zero,Go,86
+206213815,chaos-mesh/chaos-mesh,Go,40
 202523140,alexellis/k3sup,Go,19
 93446042,terraform-providers/terraform-provider-azurerm,Go,11
 116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,6
 253846879,determined-ai/determined,Go,14
-276822250,oam-dev/kubevela,Go,106
+276822250,oam-dev/kubevela,Go,91
 306720967,IAPOLINARIO/100-days-of-code,Go,72
 306025950,g2a-com/klio,Go,7

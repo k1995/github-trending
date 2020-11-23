@@ -1,11 +1,11 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,164
-3774328,wg/wrk,C,22
+3774328,wg/wrk,C,23
 5101141,stedolan/jq,C,14
 14812739,libuv/libuv,C,21
-7634677,openssl/openssl,C,31
+7634677,openssl/openssl,C,30
 2810292,pbatard/rufus,C,41
-90320494,ish-app/ish,C,71
+90320494,ish-app/ish,C,70
 78281075,SpacehuhnTech/esp8266_deauther,C,20
 75811015,Tencent/xLua,C,9
 65899476,espressif/esp-idf,C,10
@@ -19,8 +19,8 @@ id,name,lang,new stars
 272222624,CTurt/FreeDVDBoot,C,11
 96348842,DPDK/dpdk,C,4
 99721074,akermu/emacs-libvterm,C,12
-284421891,DTolm/VkFFT,C,84
-194269070,skyline-emu/skyline,C,18
+284421891,DTolm/VkFFT,C,85
+194269070,skyline-emu/skyline,C,19
 149340903,AprilRobotics/apriltag,C,5
 121516035,nrfconnect/sdk-nrf,C,1
-314338069,ZecOps/FreeTheSandbox_LPE_POC_13.7,C,113
+314338069,ZecOps/FreeTheSandbox_LPE_POC_13.7,C,64
