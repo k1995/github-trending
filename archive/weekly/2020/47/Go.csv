@@ -1,11 +1,11 @@
 id,name,lang,new stars
-23096959,golang/go,Go,550
+23096959,golang/go,Go,553
 20580498,kubernetes/kubernetes,Go,272
 5271882,astaxie/build-web-application-with-golang,Go,167
 41986369,pingcap/tidb,Go,223
 74175805,istio/istio,Go,354
 8989842,unknwon/the-way-to-go_ZH_CN,Go,232
-43723161,helm/helm,Go,72
+43723161,helm/helm,Go,74
 29217054,asim/nitro,Go,149
 120227732,fyne-io/fyne,Go,111
 97533102,halfrost/LeetCode-Go,Go,506
@@ -17,7 +17,7 @@ id,name,lang,new stars
 130430977,kubesphere/kubesphere,Go,58
 53737001,senghoo/golang-design-pattern,Go,91
 206213815,chaos-mesh/chaos-mesh,Go,235
-106704041,cosmtrek/air,Go,87
+106704041,cosmtrek/air,Go,88
 93446042,terraform-providers/terraform-provider-azurerm,Go,30
 271250363,k0sproject/k0s,Go,1904
 117156031,prysmaticlabs/prysm,Go,30
