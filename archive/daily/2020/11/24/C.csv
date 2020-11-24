@@ -1,13 +1,13 @@
 id,name,lang,new stars
-18666758,pjreddie/darknet,C,17
+18666758,pjreddie/darknet,C,16
 80286288,arendst/Tasmota,C,6
-6201092,mpv-player/mpv,C,16
+6201092,mpv-player/mpv,C,15
 29759715,facebook/zstd,C,11
 15337142,micropython/micropython,C,3
-5254557,cloudwu/skynet,C,6
-65899476,espressif/esp-idf,C,9
-54280778,DaveGamble/cJSON,C,14
-35780977,ImageMagick/ImageMagick,C,5
+5254557,cloudwu/skynet,C,7
+65899476,espressif/esp-idf,C,8
+54280778,DaveGamble/cJSON,C,16
+35780977,ImageMagick/ImageMagick,C,4
 53614190,eclipse/mosquitto,C,4
 31791482,microsoft/Windows-driver-samples,C,3
 7370241,RIOT-OS/RIOT,C,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 76157774,nanomsg/nng,C,0
 3276860,ThrowTheSwitch/Unity,C,4
 15333809,open62541/open62541,C,1
-206121828,FreeRTOS/FreeRTOS,C,5
+206121828,FreeRTOS/FreeRTOS,C,6
 96348842,DPDK/dpdk,C,1
-121500241,tomaspinho/rtl8821ce,C,3
-45734719,enjoy-digital/litex,C,1
-310350231,thanks4opensource/buck50,C,20
-46513459,alelievr/libft-unit-test,C,1
-314942119,akirakyle/emacs-webkit,C,13
+121500241,tomaspinho/rtl8821ce,C,2
+45734719,enjoy-digital/litex,C,0
+310350231,thanks4opensource/buck50,C,15
+46513459,alelievr/libft-unit-test,C,0
+314942119,akirakyle/emacs-webkit,C,11
