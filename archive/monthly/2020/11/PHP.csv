@@ -1,14 +1,14 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,570
-2579314,fzaninotto/Faker,PHP,415
-1864363,composer/composer,PHP,335
-458058,symfony/symfony,PHP,169
+3482588,danielmiessler/SecLists,PHP,568
+2579314,fzaninotto/Faker,PHP,416
+1864363,composer/composer,PHP,336
+458058,symfony/symfony,PHP,170
 448045,sebastianbergmann/phpunit,PHP,141
-2253830,PHPMailer/PHPMailer,PHP,168
+2253830,PHPMailer/PHPMailer,PHP,170
 2889328,WordPress/WordPress,PHP,134
 60243197,nextcloud/server,PHP,291
-48796179,z-song/laravel-admin,PHP,150
-61490598,PHPOffice/PhpSpreadsheet,PHP,154
+48796179,z-song/laravel-admin,PHP,151
+61490598,PHPOffice/PhpSpreadsheet,PHP,155
 677464,doctrine/dbal,PHP,121
 1398648,symfony/http-foundation,PHP,87
 2179920,woocommerce/woocommerce,PHP,96
@@ -19,8 +19,8 @@ id,name,lang,new stars
 761653,phpDocumentor/phpDocumentor,PHP,73
 79166184,cretueusebiu/laravel-vue-spa,PHP,81
 69691727,pmmp/PocketMine-MP,PHP,54
-13914116,librenms/librenms,PHP,40
-129852395,assimon/dujiaoka,PHP,143
+13914116,librenms/librenms,PHP,39
+129852395,assimon/dujiaoka,PHP,144
 71485542,kevinpapst/kimai2,PHP,57
 230926110,qkqpttgf/OneManager-php,PHP,98
 75645659,WordPress/wordpress-develop,PHP,27
