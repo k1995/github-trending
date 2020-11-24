@@ -1,7 +1,7 @@
 id,name,lang,new stars
-18666758,pjreddie/darknet,C,16
-80286288,arendst/Tasmota,C,6
-6201092,mpv-player/mpv,C,15
+18666758,pjreddie/darknet,C,17
+80286288,arendst/Tasmota,C,5
+6201092,mpv-player/mpv,C,16
 29759715,facebook/zstd,C,11
 15337142,micropython/micropython,C,3
 5254557,cloudwu/skynet,C,7
@@ -23,4 +23,4 @@ id,name,lang,new stars
 45734719,enjoy-digital/litex,C,0
 310350231,thanks4opensource/buck50,C,15
 46513459,alelievr/libft-unit-test,C,0
-314942119,akirakyle/emacs-webkit,C,11
+314942119,akirakyle/emacs-webkit,C,13

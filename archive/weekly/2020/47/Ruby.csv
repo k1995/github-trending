@@ -1,19 +1,19 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,54
-7569578,discourse/discourse,Ruby,69
+7569578,discourse/discourse,Ruby,67
 27442967,fastlane/fastlane,Ruby,52
 13840241,freeCodeCamp/devdocs,Ruby,49
-53238813,Homebrew/brew,Ruby,306
-2293158,rapid7/metasploit-framework,Ruby,78
-308770,heartcombo/devise,Ruby,21
+53238813,Homebrew/brew,Ruby,301
+2293158,rapid7/metasploit-framework,Ruby,79
+308770,heartcombo/devise,Ruby,22
 481872,hashicorp/vagrant,Ruby,48
 3623050,Homebrew/homebrew-cask,Ruby,37
-538746,ruby/ruby,Ruby,31
-2203645,CocoaPods/CocoaPods,Ruby,20
+538746,ruby/ruby,Ruby,30
+2203645,CocoaPods/CocoaPods,Ruby,19
 3314,spree/spree,Ruby,17
-3195124,mperham/sidekiq,Ruby,14
-11423758,mame/quine-relay,Ruby,117
-52855516,Homebrew/homebrew-core,Ruby,43
+3195124,mperham/sidekiq,Ruby,13
+11423758,mame/quine-relay,Ruby,119
+52855516,Homebrew/homebrew-core,Ruby,42
 6529205,varvet/pundit,Ruby,4
 21829,thoughtbot/factory_bot,Ruby,12
 9746477,sonic-pi-net/sonic-pi,Ruby,37
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1952825,Homebrew/homebrew-bundle,Ruby,15
 30985840,solidusio/solidus,Ruby,7
 69813387,iberianpig/fusuma,Ruby,47
-11426474,github/choosealicense.com,Ruby,11
+11426474,github/choosealicense.com,Ruby,10
 9831101,elastic/elasticsearch-ruby,Ruby,2
 287069180,twitterdev/Twitter-API-v2-sample-code,Ruby,13
