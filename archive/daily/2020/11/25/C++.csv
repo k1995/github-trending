@@ -1,11 +1,11 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,198
+9384267,electron/electron,C++,200
 23357588,protocolbuffers/protobuf,C++,30
-184456251,microsoft/PowerToys,C++,137
+184456251,microsoft/PowerToys,C++,126
 22067521,ocornut/imgui,C++,24
 11171548,nlohmann/json,C++,12
 74627617,commaai/openpilot,C++,36
-39840932,google/googletest,C++,42
+39840932,google/googletest,C++,41
 5133949,swoole/swoole-src,C++,7
 60273704,mozilla/DeepSpeech,C++,11
 1062572,catchorg/Catch2,C++,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 153097643,openvinotoolkit/openvino,C++,2
 103626963,applenob/Cpp_Primer_Practice,C++,7
 32337002,JoseExposito/touchegg,C++,2
-240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,320
+240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,319
