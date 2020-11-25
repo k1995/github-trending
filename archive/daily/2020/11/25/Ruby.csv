@@ -1,21 +1,21 @@
 id,name,lang,new stars
 2500088,gitlabhq/gitlabhq,Ruby,5
-3623050,Homebrew/homebrew-cask,Ruby,7
+3623050,Homebrew/homebrew-cask,Ruby,6
 2203645,CocoaPods/CocoaPods,Ruby,7
 1090311,elastic/logstash,Ruby,3
-4095287,rubocop-hq/rubocop,Ruby,0
+4095287,rubocop-hq/rubocop,Ruby,1
 3314,spree/spree,Ruby,1
 1918677,fluent/fluentd,Ruby,5
 8393,thoughtbot/paperclip,Ruby,0
 96395,faker-ruby/faker,Ruby,3
 47087,carrierwaveuploader/carrierwave,Ruby,1
 2441517,puma/puma,Ruby,1
-4994614,wpscanteam/wpscan,Ruby,2
+4994614,wpscanteam/wpscan,Ruby,1
 75785147,rails/webpacker,Ruby,1
 1980539,drapergem/draper,Ruby,0
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
-30337170,rmosolgo/graphql-ruby,Ruby,4
-244452551,alexeygrigorev/data-science-interviews,Ruby,5
+30337170,rmosolgo/graphql-ruby,Ruby,3
+244452551,alexeygrigorev/data-science-interviews,Ruby,4
 558790,zdennis/activerecord-import,Ruby,2
 14238949,elastic/elasticsearch-rails,Ruby,2
 46698467,ankane/strong_migrations,Ruby,5
