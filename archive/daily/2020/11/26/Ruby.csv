@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2500088,gitlabhq/gitlabhq,Ruby,5
+2500088,gitlabhq/gitlabhq,Ruby,4
 3623050,Homebrew/homebrew-cask,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,7
 1090311,elastic/logstash,Ruby,3
@@ -14,13 +14,13 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,1
 1980539,drapergem/draper,Ruby,0
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
-30337170,rmosolgo/graphql-ruby,Ruby,4
+30337170,rmosolgo/graphql-ruby,Ruby,3
 244452551,alexeygrigorev/data-science-interviews,Ruby,3
 558790,zdennis/activerecord-import,Ruby,2
 14238949,elastic/elasticsearch-rails,Ruby,2
-46698467,ankane/strong_migrations,Ruby,4
+46698467,ankane/strong_migrations,Ruby,3
 4447023,sharetribe/sharetribe,Ruby,2
-103766152,github/explore,Ruby,4
+103766152,github/explore,Ruby,5
 26094060,logstash-plugins/logstash-patterns-core,Ruby,0
 9500075,ytti/oxidized,Ruby,0
 70830890,bigbluebutton/greenlight,Ruby,1
