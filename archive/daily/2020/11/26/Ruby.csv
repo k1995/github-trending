@@ -1,11 +1,11 @@
 id,name,lang,new stars
 2500088,gitlabhq/gitlabhq,Ruby,4
 3623050,Homebrew/homebrew-cask,Ruby,5
-2203645,CocoaPods/CocoaPods,Ruby,7
+2203645,CocoaPods/CocoaPods,Ruby,6
 1090311,elastic/logstash,Ruby,3
 4095287,rubocop-hq/rubocop,Ruby,1
 3314,spree/spree,Ruby,1
-1918677,fluent/fluentd,Ruby,6
+1918677,fluent/fluentd,Ruby,5
 8393,thoughtbot/paperclip,Ruby,0
 96395,faker-ruby/faker,Ruby,3
 47087,carrierwaveuploader/carrierwave,Ruby,1
@@ -18,7 +18,7 @@ id,name,lang,new stars
 244452551,alexeygrigorev/data-science-interviews,Ruby,3
 558790,zdennis/activerecord-import,Ruby,2
 14238949,elastic/elasticsearch-rails,Ruby,2
-46698467,ankane/strong_migrations,Ruby,3
+46698467,ankane/strong_migrations,Ruby,4
 4447023,sharetribe/sharetribe,Ruby,2
 103766152,github/explore,Ruby,5
 26094060,logstash-plugins/logstash-patterns-core,Ruby,0
