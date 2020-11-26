@@ -1,20 +1,20 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,50
-7548986,laravel/framework,PHP,72
+458058,symfony/symfony,PHP,49
+7548986,laravel/framework,PHP,71
 2253830,PHPMailer/PHPMailer,PHP,52
-60243197,nextcloud/server,PHP,69
-12615154,barryvdh/laravel-debugbar,PHP,40
+60243197,nextcloud/server,PHP,66
+12615154,barryvdh/laravel-debugbar,PHP,39
 13899674,thephpleague/flysystem,PHP,31
-2854337,phalcon/cphalcon,PHP,20
+2854337,phalcon/cphalcon,PHP,21
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,34
 2884111,magento/magento2,PHP,14
-2699935,squizlabs/PHP_CodeSniffer,PHP,29
-6660366,dompdf/dompdf,PHP,22
+2699935,squizlabs/PHP_CodeSniffer,PHP,28
+6660366,dompdf/dompdf,PHP,21
 2179920,woocommerce/woocommerce,PHP,24
-17452080,lcobucci/jwt,PHP,36
+17452080,lcobucci/jwt,PHP,35
 14716368,invoiceninja/invoiceninja,PHP,21
 6763587,PrestaShop/PrestaShop,PHP,20
-60491949,fecshop/yii2_fecshop,PHP,24
+60491949,fecshop/yii2_fecshop,PHP,23
 10883164,barryvdh/laravel-dompdf,PHP,15
 12204147,mautic/mautic,PHP,13
 11935508,RSS-Bridge/rss-bridge,PHP,22
@@ -22,4 +22,4 @@ id,name,lang,new stars
 31425145,billz/raspap-webgui,PHP,19
 69691727,pmmp/PocketMine-MP,PHP,22
 230926110,qkqpttgf/OneManager-php,PHP,24
-141720301,dr5hn/countries-states-cities-database,PHP,27
+141720301,dr5hn/countries-states-cities-database,PHP,26
