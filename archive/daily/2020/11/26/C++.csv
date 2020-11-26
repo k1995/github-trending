@@ -1,7 +1,7 @@
 id,name,lang,new stars
 5108051,opencv/opencv,C++,51
 22887094,tesseract-ocr/tesseract,C++,26
-15634981,godotengine/godot,C++,30
+15634981,godotengine/godot,C++,24
 27729880,grpc/grpc,C++,16
 74627617,commaai/openpilot,C++,55
 60273704,mozilla/DeepSpeech,C++,12
@@ -10,7 +10,7 @@ id,name,lang,new stars
 27500243,google/libphonenumber,C++,8
 26038648,gabime/spdlog,C++,14
 191820100,google/mediapipe,C++,15
-7056202,fmtlib/fmt,C++,14
+7056202,fmtlib/fmt,C++,13
 160083795,SerenityOS/serenity,C++,7
 7512484,ArduPilot/ardupilot,C++,3
 153866232,TheCherno/Hazel,C++,22
@@ -21,6 +21,6 @@ id,name,lang,new stars
 103626963,applenob/Cpp_Primer_Practice,C++,10
 32698469,giuspen/cherrytree,C++,9
 151636194,triton-inference-server/server,C++,8
-240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,360
+240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,218
 15189073,mavlink/mavros,C++,0
 238262758,mongoose-os-apps/shelly-homekit,C++,5
