@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,62
-7569578,discourse/discourse,Ruby,64
+8514,rails/rails,Ruby,63
+7569578,discourse/discourse,Ruby,63
 27442967,fastlane/fastlane,Ruby,51
-13840241,freeCodeCamp/devdocs,Ruby,52
-53238813,Homebrew/brew,Ruby,278
+13840241,freeCodeCamp/devdocs,Ruby,56
+53238813,Homebrew/brew,Ruby,281
 2293158,rapid7/metasploit-framework,Ruby,79
 308770,heartcombo/devise,Ruby,24
 481872,hashicorp/vagrant,Ruby,46
@@ -11,14 +11,14 @@ id,name,lang,new stars
 538746,ruby/ruby,Ruby,36
 2203645,CocoaPods/CocoaPods,Ruby,25
 3314,spree/spree,Ruby,14
-3195124,mperham/sidekiq,Ruby,16
+3195124,mperham/sidekiq,Ruby,17
 11423758,mame/quine-relay,Ruby,103
-52855516,Homebrew/homebrew-core,Ruby,40
+52855516,Homebrew/homebrew-core,Ruby,41
 21829,thoughtbot/factory_bot,Ruby,11
 9746477,sonic-pi-net/sonic-pi,Ruby,41
 26018608,github-changelog-generator/github-changelog-generator,Ruby,15
 355893,github/markup,Ruby,6
-6899875,opf/openproject,Ruby,14
+6899875,opf/openproject,Ruby,15
 69813387,iberianpig/fusuma,Ruby,47
 26094060,logstash-plugins/logstash-patterns-core,Ruby,9
 9831101,elastic/elasticsearch-ruby,Ruby,2
