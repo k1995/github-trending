@@ -1,6 +1,6 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,7
-7548986,laravel/framework,PHP,15
+458058,symfony/symfony,PHP,4
+7548986,laravel/framework,PHP,9
 1376664,Seldaek/monolog,PHP,7
 448045,sebastianbergmann/phpunit,PHP,8
 72069409,the-control-group/voyager,PHP,3
@@ -8,7 +8,7 @@ id,name,lang,new stars
 14259390,Maatwebsite/Laravel-Excel,PHP,2
 597887,doctrine/orm,PHP,7
 212659,sebastianbergmann/php-code-coverage,PHP,4
-17452080,lcobucci/jwt,PHP,6
+17452080,lcobucci/jwt,PHP,11
 7577142,doctrine/annotations,PHP,3
 4242230,PHPOffice/PHPWord,PHP,5
 6763587,PrestaShop/PrestaShop,PHP,6
@@ -17,7 +17,7 @@ id,name,lang,new stars
 4565995,phpseclib/phpseclib,PHP,2
 33916850,spatie/laravel-medialibrary,PHP,1
 576099,doctrine/migrations,PHP,3
-74386167,vimeo/psalm,PHP,9
+74386167,vimeo/psalm,PHP,7
 5248178,wp-bootstrap/wp-bootstrap-navwalker,PHP,1
 10855394,itsgoingd/clockwork,PHP,3
 1953386,stripe/stripe-php,PHP,2

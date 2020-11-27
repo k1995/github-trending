@@ -5,7 +5,7 @@ id,name,lang,new stars
 31288958,hashicorp/vault,Go,20
 46806184,helm/charts,Go,9
 165041732,go-kratos/kratos,Go,17
-54400687,loadimpact/k6,Go,389
+54400687,loadimpact/k6,Go,388
 191655189,facebook/ent,Go,49
 180687624,aquasecurity/trivy,Go,13
 9524057,prometheus/node_exporter,Go,13
@@ -18,9 +18,9 @@ id,name,lang,new stars
 4141925,streadway/amqp,Go,3
 58184885,kubernetes/kube-state-metrics,Go,6
 31333618,shopspring/decimal,Go,4
-135321861,ory/kratos,Go,54
+135321861,ory/kratos,Go,52
 51023040,eclipse/paho.mqtt.golang,Go,2
 287336275,stackrox/kube-linter,Go,16
-314763206,utkusen/urlhunter,Go,145
-311315731,XTLS/Xray-core,Go,113
+314763206,utkusen/urlhunter,Go,125
+311315731,XTLS/Xray-core,Go,112
 315848971,tal-tech/cds,Go,118
