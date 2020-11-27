@@ -3,8 +3,8 @@ id,name,lang,new stars
 22887094,tesseract-ocr/tesseract,C++,21
 15634981,godotengine/godot,C++,21
 27729880,grpc/grpc,C++,13
-74627617,commaai/openpilot,C++,71
-60273704,mozilla/DeepSpeech,C++,10
+74627617,commaai/openpilot,C++,67
+60273704,mozilla/DeepSpeech,C++,9
 65214191,envoyproxy/envoy,C++,18
 125098880,ValveSoftware/Proton,C++,9
 27500243,google/libphonenumber,C++,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 103626963,applenob/Cpp_Primer_Practice,C++,9
 32698469,giuspen/cherrytree,C++,7
 151636194,triton-inference-server/server,C++,5
-240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,124
+240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,122
 15189073,mavlink/mavros,C++,2
 238262758,mongoose-os-apps/shelly-homekit,C++,2
