@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,26
 7548986,laravel/framework,PHP,15
-2253830,PHPMailer/PHPMailer,PHP,10
+2253830,PHPMailer/PHPMailer,PHP,11
 47495360,koel/koel,PHP,1
 13899674,thephpleague/flysystem,PHP,4
 2854337,phalcon/cphalcon,PHP,7
@@ -22,5 +22,5 @@ id,name,lang,new stars
 63073734,laravel/passport,PHP,2
 14875475,thephpleague/csv,PHP,1
 1934695,xdebug/xdebug,PHP,9
-26456385,thephpleague/flysystem-aws-s3-v3,PHP,3
+26456385,thephpleague/flysystem-aws-s3-v3,PHP,2
 274912708,ZainCheung/netease-cloud-api,PHP,6
