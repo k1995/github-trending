@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,27
-7548986,laravel/framework,PHP,14
-2253830,PHPMailer/PHPMailer,PHP,5
+7548986,laravel/framework,PHP,15
+2253830,PHPMailer/PHPMailer,PHP,8
 47495360,koel/koel,PHP,1
 13899674,thephpleague/flysystem,PHP,3
 2854337,phalcon/cphalcon,PHP,6
@@ -9,18 +9,18 @@ id,name,lang,new stars
 137515,mockery/mockery,PHP,1
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,4
 5627682,serbanghita/Mobile-Detect,PHP,4
-2884111,magento/magento2,PHP,2
+2884111,magento/magento2,PHP,3
 597887,doctrine/orm,PHP,7
 11340559,deployphp/deployer,PHP,1
 212659,sebastianbergmann/php-code-coverage,PHP,4
 2179920,woocommerce/woocommerce,PHP,2
 17452080,lcobucci/jwt,PHP,6
 7577142,doctrine/annotations,PHP,3
-9131292,jenssegers/laravel-mongodb,PHP,3
-16896584,nikic/FastRoute,PHP,1
+9131292,jenssegers/laravel-mongodb,PHP,4
+16896584,nikic/FastRoute,PHP,2
 1953386,stripe/stripe-php,PHP,2
 63073734,laravel/passport,PHP,4
 14875475,thephpleague/csv,PHP,2
-1934695,xdebug/xdebug,PHP,5
+1934695,xdebug/xdebug,PHP,6
 26456385,thephpleague/flysystem-aws-s3-v3,PHP,2
 274912708,ZainCheung/netease-cloud-api,PHP,1
