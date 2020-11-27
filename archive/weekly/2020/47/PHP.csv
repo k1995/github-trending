@@ -11,7 +11,7 @@ id,name,lang,new stars
 5627682,serbanghita/Mobile-Detect,PHP,14
 49014795,phpstan/phpstan,PHP,31
 2884111,magento/magento2,PHP,15
-2179920,woocommerce/woocommerce,PHP,26
+2179920,woocommerce/woocommerce,PHP,27
 17452080,lcobucci/jwt,PHP,46
 6763587,PrestaShop/PrestaShop,PHP,22
 9131292,jenssegers/laravel-mongodb,PHP,20
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1953386,stripe/stripe-php,PHP,11
 291805291,laravel/jetstream,PHP,43
 69691727,pmmp/PocketMine-MP,PHP,19
-3614664,PHPCompatibility/PHPCompatibility,PHP,15
-141720301,dr5hn/countries-states-cities-database,PHP,28
+3614664,PHPCompatibility/PHPCompatibility,PHP,16
+141720301,dr5hn/countries-states-cities-database,PHP,29
