@@ -1,12 +1,12 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,565
-2579314,fzaninotto/Faker,PHP,392
-1864363,composer/composer,PHP,266
+3482588,danielmiessler/SecLists,PHP,563
+2579314,fzaninotto/Faker,PHP,389
+1864363,composer/composer,PHP,267
 7548986,laravel/framework,PHP,246
 448045,sebastianbergmann/phpunit,PHP,138
 2253830,PHPMailer/PHPMailer,PHP,172
-2889328,WordPress/WordPress,PHP,136
-60243197,nextcloud/server,PHP,293
+2889328,WordPress/WordPress,PHP,137
+60243197,nextcloud/server,PHP,292
 48796179,z-song/laravel-admin,PHP,153
 29843361,w7corp/easywechat,PHP,71
 61490598,PHPOffice/PhpSpreadsheet,PHP,152
@@ -15,9 +15,9 @@ id,name,lang,new stars
 10238429,tennc/webshell,PHP,137
 17452080,lcobucci/jwt,PHP,92
 42261096,fuzzdb-project/fuzzdb,PHP,151
-33916850,spatie/laravel-medialibrary,PHP,75
+33916850,spatie/laravel-medialibrary,PHP,76
 8875190,Ocramius/ProxyManager,PHP,90
-97311017,rectorphp/rector,PHP,206
+97311017,rectorphp/rector,PHP,207
 159606650,hyperf/hyperf,PHP,125
 761653,phpDocumentor/phpDocumentor,PHP,72
 69691727,pmmp/PocketMine-MP,PHP,56
