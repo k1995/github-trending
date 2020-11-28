@@ -1,6 +1,6 @@
 id,name,lang,new stars
 5108051,opencv/opencv,C++,30
-65600975,pytorch/pytorch,C++,32
+65600975,pytorch/pytorch,C++,33
 15634981,godotengine/godot,C++,17
 11276147,cmderdev/cmder,C++,10
 16587283,dmlc/xgboost,C++,11
@@ -11,8 +11,8 @@ id,name,lang,new stars
 26038648,gabime/spdlog,C++,18
 7056202,fmtlib/fmt,C++,11
 66088979,changkun/modern-cpp-tutorial,C++,171
-160083795,SerenityOS/serenity,C++,4
-186309296,lettier/3d-game-shaders-for-beginners,C++,22
+160083795,SerenityOS/serenity,C++,5
+186309296,lettier/3d-game-shaders-for-beginners,C++,23
 31102092,google/or-tools,C++,7
 84183882,google/sentencepiece,C++,5
 2345629,zaphoyd/websocketpp,C++,25

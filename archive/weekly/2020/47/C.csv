@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1903522,php/php-src,C,139
+1903522,php/php-src,C,142
 18666758,pjreddie/darknet,C,81
-14812739,libuv/libuv,C,54
-7634677,openssl/openssl,C,46
+14812739,libuv/libuv,C,55
+7634677,openssl/openssl,C,48
 20159867,nothings/stb,C,61
 6201092,mpv-player/mpv,C,100
 45821540,openwrt/openwrt,C,52
@@ -10,9 +10,9 @@ id,name,lang,new stars
 70127218,espressif/arduino-esp32,C,32
 65899476,espressif/esp-idf,C,41
 54280778,DaveGamble/cJSON,C,44
-689344,libretro/RetroArch,C,30
+689344,libretro/RetroArch,C,31
 37060852,betaflight/betaflight,C,19
-211381291,ExistentialAudio/BlackHole,C,72
+211381291,ExistentialAudio/BlackHole,C,73
 8270972,ARMmbed/mbed-os,C,18
 51275984,LumaTeam/Luma3DS,C,24
 205810121,CloverHackyColor/CloverBootloader,C,30
@@ -21,6 +21,6 @@ id,name,lang,new stars
 57061619,madcowswe/ODrive,C,12
 170444343,DevonCrawford/Video-Editing-Automation,C,43
 282790925,badafans/better-cloudflare-ip,C,58
-194269070,skyline-emu/skyline,C,19
+194269070,skyline-emu/skyline,C,20
 207354223,FreeRTOS/FreeRTOS-Kernel,C,10
 314338069,ZecOps/FreeTheSandbox_LPE_POC_13.7,C,102

@@ -1,5 +1,5 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,5
+458058,symfony/symfony,PHP,6
 7548986,laravel/framework,PHP,6
 1376664,Seldaek/monolog,PHP,2
 448045,sebastianbergmann/phpunit,PHP,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 10855394,itsgoingd/clockwork,PHP,5
 1953386,stripe/stripe-php,PHP,2
 109984157,symfony/maker-bundle,PHP,0
-1934695,xdebug/xdebug,PHP,8
-2686502,pimcore/pimcore,PHP,1
+1934695,xdebug/xdebug,PHP,9
+2686502,pimcore/pimcore,PHP,2
