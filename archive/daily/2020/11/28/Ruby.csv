@@ -1,16 +1,16 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,5
-53238813,Homebrew/brew,Ruby,48
+27442967,fastlane/fastlane,Ruby,7
+53238813,Homebrew/brew,Ruby,50
 52281283,tootsuite/mastodon,Ruby,14
 538746,ruby/ruby,Ruby,6
 2203645,CocoaPods/CocoaPods,Ruby,0
 3314,spree/spree,Ruby,4
 52855516,Homebrew/homebrew-core,Ruby,18
 75785147,rails/webpacker,Ruby,1
-6899875,opf/openproject,Ruby,6
+6899875,opf/openproject,Ruby,7
 6768710,redmine/redmine,Ruby,5
 244452551,alexeygrigorev/data-science-interviews,Ruby,5
-1952825,Homebrew/homebrew-bundle,Ruby,5
+1952825,Homebrew/homebrew-bundle,Ruby,7
 52316423,luggit/react-native-config,Ruby,1
 21333814,lynndylanhurley/devise_token_auth,Ruby,0
 24666294,ankane/blazer,Ruby,15
@@ -19,7 +19,7 @@ id,name,lang,new stars
 1953385,stripe/stripe-ruby,Ruby,1
 34840276,elastic/ansible-elasticsearch,Ruby,0
 165262778,fxn/zeitwerk,Ruby,3
-2175854,ErwinM/acts_as_tenant,Ruby,12
+2175854,ErwinM/acts_as_tenant,Ruby,13
 65914086,decidim/decidim,Ruby,1
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,3
 229187949,shivammathur/homebrew-php,Ruby,15
