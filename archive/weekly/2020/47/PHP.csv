@@ -2,7 +2,7 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,146
 458058,symfony/symfony,PHP,50
 7548986,laravel/framework,PHP,65
-2253830,PHPMailer/PHPMailer,PHP,48
+2253830,PHPMailer/PHPMailer,PHP,49
 60243197,nextcloud/server,PHP,61
 12615154,barryvdh/laravel-debugbar,PHP,42
 13899674,thephpleague/flysystem,PHP,28
@@ -16,7 +16,7 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,22
 9131292,jenssegers/laravel-mongodb,PHP,23
 3817881,zircote/swagger-php,PHP,13
-117649937,hhxsv5/laravel-s,PHP,25
+117649937,hhxsv5/laravel-s,PHP,26
 11935508,RSS-Bridge/rss-bridge,PHP,23
 1740040,pfsense/pfsense,PHP,19
 1953386,stripe/stripe-php,PHP,10

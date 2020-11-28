@@ -1,16 +1,16 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,45
-53238813,Homebrew/brew,Ruby,259
-2293158,rapid7/metasploit-framework,Ruby,81
+53238813,Homebrew/brew,Ruby,253
+2293158,rapid7/metasploit-framework,Ruby,82
 308770,heartcombo/devise,Ruby,25
 481872,hashicorp/vagrant,Ruby,40
 3623050,Homebrew/homebrew-cask,Ruby,38
-538746,ruby/ruby,Ruby,34
+538746,ruby/ruby,Ruby,35
 2203645,CocoaPods/CocoaPods,Ruby,23
 3195124,mperham/sidekiq,Ruby,17
-11423758,mame/quine-relay,Ruby,79
+11423758,mame/quine-relay,Ruby,80
 611921,activeadmin/activeadmin,Ruby,4
-52855516,Homebrew/homebrew-core,Ruby,62
+52855516,Homebrew/homebrew-core,Ruby,63
 451035,heartcombo/simple_form,Ruby,4
 6529205,varvet/pundit,Ruby,6
 21829,thoughtbot/factory_bot,Ruby,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 69813387,iberianpig/fusuma,Ruby,30
 2175854,ErwinM/acts_as_tenant,Ruby,29
 65914086,decidim/decidim,Ruby,5
-1266194,mcmire/super_diff,Ruby,81
+1266194,mcmire/super_diff,Ruby,82
 287069180,twitterdev/Twitter-API-v2-sample-code,Ruby,12
 286806264,Dwire/mod2_pactice_camping_is_fun,Ruby,0
