@@ -3,7 +3,7 @@ id,name,lang,new stars
 1903522,php/php-src,C,58
 13233158,obsproject/obs-studio,C,48
 18666758,pjreddie/darknet,C,20
-80286288,arendst/Tasmota,C,43
+80286288,arendst/Tasmota,C,37
 4869294,radareorg/radare2,C,8
 34921116,iovisor/bcc,C,43
 65899476,espressif/esp-idf,C,7
@@ -19,7 +19,7 @@ id,name,lang,new stars
 45703884,olikraus/u8g2,C,2
 108568638,hanwckf/rt-n56u,C,14
 11233590,coreutils/coreutils,C,3
-51990771,ARM-software/CMSIS_5,C,6
+51990771,ARM-software/CMSIS_5,C,5
 213916896,blender/blender,C,16
 272222624,CTurt/FreeDVDBoot,C,4
 26537135,u-boot/u-boot,C,4
