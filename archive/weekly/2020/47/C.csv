@@ -1,12 +1,12 @@
 id,name,lang,new stars
-156018,redis/redis,C,133
-1903522,php/php-src,C,161
-13233158,obsproject/obs-studio,C,223
-18666758,pjreddie/darknet,C,86
+156018,redis/redis,C,136
+1903522,php/php-src,C,162
+13233158,obsproject/obs-studio,C,225
+18666758,pjreddie/darknet,C,87
 14812739,libuv/libuv,C,59
 20159867,nothings/stb,C,70
 6201092,mpv-player/mpv,C,109
-4869294,radareorg/radare2,C,51
+4869294,radareorg/radare2,C,53
 45821540,openwrt/openwrt,C,57
 63477515,TheAlgorithms/C,C,84
 70127218,espressif/arduino-esp32,C,38
@@ -14,13 +14,13 @@ id,name,lang,new stars
 689344,libretro/RetroArch,C,37
 5383731,qemu/qemu,C,32
 37060852,betaflight/betaflight,C,22
-211381291,ExistentialAudio/BlackHole,C,84
+211381291,ExistentialAudio/BlackHole,C,85
 8270972,ARMmbed/mbed-os,C,20
-101540444,imbushuo/mac-precision-touchpad,C,57
+101540444,imbushuo/mac-precision-touchpad,C,59
 205810121,CloverHackyColor/CloverBootloader,C,33
 10513590,torproject/tor,C,24
-206121828,FreeRTOS/FreeRTOS,C,87
+206121828,FreeRTOS/FreeRTOS,C,88
 57061619,madcowswe/ODrive,C,14
 170444343,DevonCrawford/Video-Editing-Automation,C,45
-207354223,FreeRTOS/FreeRTOS-Kernel,C,10
+207354223,FreeRTOS/FreeRTOS-Kernel,C,11
 314338069,ZecOps/FreeTheSandbox_LPE_POC_13.7,C,102
