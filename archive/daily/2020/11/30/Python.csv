@@ -1,6 +1,6 @@
 id,name,lang,new stars
 54346799,public-apis/public-apis,Python,55
-12888993,home-assistant/core,Python,17
+12888993,home-assistant/core,Python,24
 188660663,CorentinJ/Real-Time-Voice-Cloning,Python,24
 136026789,iperov/DeepFaceLab,Python,30
 71220757,swisskyrepo/PayloadsAllTheThings,Python,26
@@ -12,10 +12,10 @@ id,name,lang,new stars
 254832799,Z4nzu/hackingtool,Python,15
 250213286,huggingface/datasets,Python,146
 14531737,bitcoin/bips,Python,7
-5274894,spesmilo/electrum,Python,4
+5274894,spesmilo/electrum,Python,3
 1985358,twisted/twisted,Python,4
 20884782,Ultimaker/Cura,Python,4
-25129800,mikf/gallery-dl,Python,528
+25129800,mikf/gallery-dl,Python,415
 140285687,osmr/imgclsmob,Python,10
 80345064,Bitwise-01/Instagram-,Python,5
 249938026,derrod/legendary,Python,13
