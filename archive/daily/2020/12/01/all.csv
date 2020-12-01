@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,189
-20619036,pi-hole/pi-hole,Shell,241
+31792824,flutter/flutter,Dart,209
+20619036,pi-hole/pi-hole,Shell,328
 80276391,GitSquared/edex-ui,JavaScript,215
-102578345,coolsnowwolf/lede,C,47
-121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,68
-38696925,python-telegram-bot/python-telegram-bot,Python,203
-437011,openzfs/zfs,C,134
-75189212,jivoi/awesome-osint,,147
-250213286,huggingface/datasets,Python,217
-281319253,element-plus/element-plus,Vue,639
-76990209,Aircoookie/WLED,C++,35
-165826654,deepmind/deepmind-research,Jupyter Notebook,187
-140543886,dromara/soul,Java,56
-25129800,mikf/gallery-dl,Python,127
-190416463,actions/virtual-environments,PowerShell,13
-305248398,peng-zhihui/HDMI-PI,,102
-151870364,xiaorouji/openwrt-passwall,HTML,36
-316705066,peng-zhihui/PocketLCD,,210
-286179743,DustinBrett/x,JavaScript,268
-316099858,kallydev/privacy,,464
-308503046,zwpro/coupons,Vue,56
-311827803,ottomated/CrewLink,TypeScript,86
-316504138,redcode-labs/Neurax,Go,131
-313440632,EricJMarti/inventory-hunter,Python,138
-315934293,nakabonne/pbgopy,Go,64
+102578345,coolsnowwolf/lede,C,70
+121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,89
+38696925,python-telegram-bot/python-telegram-bot,Python,200
+437011,openzfs/zfs,C,108
+75189212,jivoi/awesome-osint,,100
+250213286,huggingface/datasets,Python,234
+281319253,element-plus/element-plus,Vue,1014
+76990209,Aircoookie/WLED,C++,38
+165826654,deepmind/deepmind-research,Jupyter Notebook,155
+140543886,dromara/soul,Java,41
+25129800,mikf/gallery-dl,Python,221
+190416463,actions/virtual-environments,PowerShell,5
+305248398,peng-zhihui/HDMI-PI,,130
+151870364,xiaorouji/openwrt-passwall,HTML,41
+316705066,peng-zhihui/PocketLCD,,327
+286179743,DustinBrett/x,JavaScript,327
+316099858,kallydev/privacy,,465
+308503046,zwpro/coupons,Vue,77
+311827803,ottomated/CrewLink,TypeScript,103
+316504138,redcode-labs/Neurax,Go,143
+313440632,EricJMarti/inventory-hunter,Python,169
+315934293,nakabonne/pbgopy,Go,101
