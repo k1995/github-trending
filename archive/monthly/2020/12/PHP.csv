@@ -2,7 +2,7 @@ id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,536
 1864363,composer/composer,PHP,239
 458058,symfony/symfony,PHP,185
-7548986,laravel/framework,PHP,239
+7548986,laravel/framework,PHP,240
 448045,sebastianbergmann/phpunit,PHP,147
 2889328,WordPress/WordPress,PHP,130
 60243197,nextcloud/server,PHP,297
@@ -13,12 +13,12 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,95
 10238429,tennc/webshell,PHP,137
 17452080,lcobucci/jwt,PHP,99
-42261096,fuzzdb-project/fuzzdb,PHP,140
+42261096,fuzzdb-project/fuzzdb,PHP,141
 12594863,kalcaddle/KodExplorer,PHP,102
 8875190,Ocramius/ProxyManager,PHP,91
-74386167,vimeo/psalm,PHP,109
+74386167,vimeo/psalm,PHP,110
 97311017,rectorphp/rector,PHP,174
-159606650,hyperf/hyperf,PHP,124
+159606650,hyperf/hyperf,PHP,126
 69691727,pmmp/PocketMine-MP,PHP,55
 13914116,librenms/librenms,PHP,36
 182349597,jqhph/dcat-admin,PHP,134
