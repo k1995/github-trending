@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,209
-20619036,pi-hole/pi-hole,Shell,328
-80276391,GitSquared/edex-ui,JavaScript,215
-102578345,coolsnowwolf/lede,C,70
-121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,89
-38696925,python-telegram-bot/python-telegram-bot,Python,200
-437011,openzfs/zfs,C,108
-75189212,jivoi/awesome-osint,,100
-250213286,huggingface/datasets,Python,234
-281319253,element-plus/element-plus,Vue,1014
-76990209,Aircoookie/WLED,C++,38
-165826654,deepmind/deepmind-research,Jupyter Notebook,155
-140543886,dromara/soul,Java,41
-25129800,mikf/gallery-dl,Python,221
-190416463,actions/virtual-environments,PowerShell,5
-305248398,peng-zhihui/HDMI-PI,,130
-151870364,xiaorouji/openwrt-passwall,HTML,41
-316705066,peng-zhihui/PocketLCD,,327
-286179743,DustinBrett/x,JavaScript,327
-316099858,kallydev/privacy,,465
-308503046,zwpro/coupons,Vue,77
-311827803,ottomated/CrewLink,TypeScript,103
-316504138,redcode-labs/Neurax,Go,143
-313440632,EricJMarti/inventory-hunter,Python,169
-315934293,nakabonne/pbgopy,Go,101
+31792824,flutter/flutter,Dart,224
+20619036,pi-hole/pi-hole,Shell,228
+80276391,GitSquared/edex-ui,JavaScript,323
+102578345,coolsnowwolf/lede,C,46
+121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,59
+38696925,python-telegram-bot/python-telegram-bot,Python,207
+437011,openzfs/zfs,C,214
+75189212,jivoi/awesome-osint,,146
+250213286,huggingface/datasets,Python,197
+281319253,element-plus/element-plus,Vue,660
+76990209,Aircoookie/WLED,C++,36
+165826654,deepmind/deepmind-research,Jupyter Notebook,257
+140543886,dromara/soul,Java,76
+25129800,mikf/gallery-dl,Python,103
+190416463,actions/virtual-environments,PowerShell,32
+305248398,peng-zhihui/HDMI-PI,,141
+151870364,xiaorouji/openwrt-passwall,HTML,29
+316705066,peng-zhihui/PocketLCD,,182
+286179743,DustinBrett/x,JavaScript,213
+316099858,kallydev/privacy,,210
+308503046,zwpro/coupons,Vue,71
+311827803,ottomated/CrewLink,TypeScript,80
+316504138,redcode-labs/Neurax,Go,132
+315934293,nakabonne/pbgopy,Go,81
+313440632,EricJMarti/inventory-hunter,Python,128
