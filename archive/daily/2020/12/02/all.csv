@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,251
-20619036,pi-hole/pi-hole,Shell,222
-80276391,GitSquared/edex-ui,JavaScript,378
-102578345,coolsnowwolf/lede,C,39
-121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,60
+31792824,flutter/flutter,Dart,261
+20619036,pi-hole/pi-hole,Shell,211
+80276391,GitSquared/edex-ui,JavaScript,422
+102578345,coolsnowwolf/lede,C,35
+121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,59
 38696925,python-telegram-bot/python-telegram-bot,Python,203
-437011,openzfs/zfs,C,229
-75189212,jivoi/awesome-osint,,142
-250213286,huggingface/datasets,Python,171
-281319253,element-plus/element-plus,Vue,699
-76990209,Aircoookie/WLED,C++,43
-165826654,deepmind/deepmind-research,Jupyter Notebook,271
-140543886,dromara/soul,Java,99
-25129800,mikf/gallery-dl,Python,89
-190416463,actions/virtual-environments,PowerShell,62
-305248398,peng-zhihui/HDMI-PI,,160
-151870364,xiaorouji/openwrt-passwall,HTML,25
-316705066,peng-zhihui/PocketLCD,,176
-286179743,DustinBrett/x,JavaScript,173
+437011,openzfs/zfs,C,224
+75189212,jivoi/awesome-osint,,134
+250213286,huggingface/datasets,Python,169
+281319253,element-plus/element-plus,Vue,744
+76990209,Aircoookie/WLED,C++,50
+165826654,deepmind/deepmind-research,Jupyter Notebook,308
+140543886,dromara/soul,Java,119
+25129800,mikf/gallery-dl,Python,97
+305248398,peng-zhihui/HDMI-PI,,230
+190416463,actions/virtual-environments,PowerShell,63
+151870364,xiaorouji/openwrt-passwall,HTML,24
+316705066,peng-zhihui/PocketLCD,,172
+286179743,DustinBrett/x,JavaScript,161
 316099858,kallydev/privacy,,187
-308503046,zwpro/coupons,Vue,74
-311827803,ottomated/CrewLink,TypeScript,89
+308503046,zwpro/coupons,Vue,100
 316504138,redcode-labs/Neurax,Go,142
-315934293,nakabonne/pbgopy,Go,106
-313440632,EricJMarti/inventory-hunter,Python,111
+311827803,ottomated/CrewLink,TypeScript,84
+315934293,nakabonne/pbgopy,Go,119
+313440632,EricJMarti/inventory-hunter,Python,97
