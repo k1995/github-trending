@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,63
+2325298,torvalds/linux,C,65
 156018,redis/redis,C,22
-36502,git/git,C,14
+36502,git/git,C,15
 10446890,bilibili/ijkplayer,C,11
-569041,curl/curl,C,12
+569041,curl/curl,C,13
 102578345,coolsnowwolf/lede,C,25
-3714900,arut/nginx-rtmp-module,C,6
+3714900,arut/nginx-rtmp-module,C,7
 161292091,Tencent/matrix,C,5
-437011,openzfs/zfs,C,184
-117948953,Atmosphere-NX/Atmosphere,C,32
+437011,openzfs/zfs,C,178
+117948953,Atmosphere-NX/Atmosphere,C,33
 60667730,lvgl/lvgl,C,11
 5870069,edenhill/librdkafka,C,4
 6687936,ARMmbed/mbedtls,C,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 43013346,aws/aws-iot-device-sdk-embedded-C,C,2
 7640608,Imagick/imagick,C,1
 295548279,ultraembedded/FPGAmp,C,4
-313723280,touqir14/Microdict,C,26
-317179870,KhaosT/ACVM,C,30
+313723280,touqir14/Microdict,C,25
+317179870,KhaosT/ACVM,C,31
 311844327,ksyun-kenc/liuguang,C,0

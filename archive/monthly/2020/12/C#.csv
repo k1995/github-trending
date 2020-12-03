@@ -1,19 +1,19 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,465
+17620347,dotnet/aspnetcore,C#,464
 102904613,Unity-Technologies/ml-agents,C#,217
 28239455,dotnet/AspNetCore.Docs,C#,176
 1135454,cefsharp/CefSharp,C#,109
-22456440,ppy/osu,C#,197
-262395224,dotnet/maui,C#,477
-75505125,abpframework/abp,C#,287
-26884725,OrchardCMS/OrchardCore,C#,126
-132453438,unoplatform/uno,C#,522
-27251463,QuantConnect/Lean,C#,113
+22456440,ppy/osu,C#,196
+262395224,dotnet/maui,C#,480
+75505125,abpframework/abp,C#,286
+26884725,OrchardCMS/OrchardCore,C#,125
+132453438,unoplatform/uno,C#,520
+27251463,QuantConnect/Lean,C#,112
 203892454,kgrzybek/modular-monolith-with-ddd,C#,290
-142480903,microsoft/microsoft-ui-xaml,C#,140
+142480903,microsoft/microsoft-ui-xaml,C#,139
 164140756,files-community/Files,C#,393
-243854166,dotnet/tye,C#,531
-120231691,Ryujinx/Ryujinx,C#,117
+243854166,dotnet/tye,C#,532
+120231691,Ryujinx/Ryujinx,C#,116
 145101484,anjoy8/Blog.Core,C#,133
 224109382,ant-design-blazor/ant-design-blazor,C#,201
 159548561,grpc/grpc-dotnet,C#,77
@@ -21,6 +21,6 @@ id,name,lang,new stars
 117102183,ChilliCream/hotchocolate,C#,154
 184286875,actions/runner,C#,106
 151623607,dotnet/iot,C#,93
-304230333,BluePointLilac/ContextMenuManager,C#,722
+304230333,BluePointLilac/ContextMenuManager,C#,721
 77180761,xamarin/XamarinCommunityToolkit,C#,135
 158405551,microsoft/Git-Credential-Manager-Core,C#,83

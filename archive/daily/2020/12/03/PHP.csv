@@ -1,10 +1,10 @@
 id,name,lang,new stars
 1129010,blueimp/jQuery-File-Upload,PHP,4
-3482588,danielmiessler/SecLists,PHP,60
+3482588,danielmiessler/SecLists,PHP,67
 7548986,laravel/framework,PHP,14
 448045,sebastianbergmann/phpunit,PHP,8
 7704544,Intervention/image,PHP,3
-82238168,monicahq/monica,PHP,598
+82238168,monicahq/monica,PHP,604
 926544,slimphp/Slim,PHP,7
 597887,doctrine/orm,PHP,6
 677464,doctrine/dbal,PHP,6
@@ -15,7 +15,7 @@ id,name,lang,new stars
 33916850,spatie/laravel-medialibrary,PHP,5
 158374929,beyondcode/laravel-websockets,PHP,5
 29126334,EasyCorp/EasyAdminBundle,PHP,2
-10855394,itsgoingd/clockwork,PHP,17
+10855394,itsgoingd/clockwork,PHP,16
 1957456,Dolibarr/dolibarr,PHP,3
 70726575,orangetw/My-CTF-Web-Challenges,PHP,8
 18628501,lexik/LexikJWTAuthenticationBundle,PHP,2
