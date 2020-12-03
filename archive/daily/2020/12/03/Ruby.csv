@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,4
-7569578,discourse/discourse,Ruby,12
-308770,heartcombo/devise,Ruby,3
-538746,ruby/ruby,Ruby,3
+8514,rails/rails,Ruby,5
+7569578,discourse/discourse,Ruby,11
+308770,heartcombo/devise,Ruby,2
+538746,ruby/ruby,Ruby,2
 1090311,elastic/logstash,Ruby,1
 4095287,rubocop-hq/rubocop,Ruby,1
-3314,spree/spree,Ruby,4
-11423758,mame/quine-relay,Ruby,12
+3314,spree/spree,Ruby,6
+11423758,mame/quine-relay,Ruby,13
 361310,teamcapybara/capybara,Ruby,2
 812393,ruby-grape/grape,Ruby,3
-96395,faker-ruby/faker,Ruby,0
+96395,faker-ruby/faker,Ruby,1
 1725199,github/linguist,Ruby,1
 2441517,puma/puma,Ruby,1
 75785147,rails/webpacker,Ruby,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,1
 1404127,jwt/ruby-jwt,Ruby,4
 3898922,zammad/zammad,Ruby,2
-93163073,dependabot/dependabot-core,Ruby,2
+93163073,dependabot/dependabot-core,Ruby,3
 644899,onelogin/ruby-saml,Ruby,0
