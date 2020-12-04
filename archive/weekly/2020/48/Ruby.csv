@@ -1,19 +1,19 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,68
-53238813,Homebrew/brew,Ruby,246
+53238813,Homebrew/brew,Ruby,247
 52281283,tootsuite/mastodon,Ruby,52
-308770,heartcombo/devise,Ruby,20
-481872,hashicorp/vagrant,Ruby,60
-3623050,Homebrew/homebrew-cask,Ruby,29
-37382858,kilimchoi/engineering-blogs,Ruby,32
+308770,heartcombo/devise,Ruby,19
+481872,hashicorp/vagrant,Ruby,59
+3623050,Homebrew/homebrew-cask,Ruby,30
+37382858,kilimchoi/engineering-blogs,Ruby,33
 538746,ruby/ruby,Ruby,30
 4095287,rubocop-hq/rubocop,Ruby,19
 106995,sinatra/sinatra,Ruby,14
 3314,spree/spree,Ruby,25
-1918677,fluent/fluentd,Ruby,31
+1918677,fluent/fluentd,Ruby,30
 611921,activeadmin/activeadmin,Ruby,10
-52855516,Homebrew/homebrew-core,Ruby,70
-15435,Shopify/liquid,Ruby,28
+52855516,Homebrew/homebrew-core,Ruby,67
+15435,Shopify/liquid,Ruby,27
 1725199,github/linguist,Ruby,20
 9746477,sonic-pi-net/sonic-pi,Ruby,38
 4994614,wpscanteam/wpscan,Ruby,24
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1952825,Homebrew/homebrew-bundle,Ruby,17
 21333814,lynndylanhurley/devise_token_auth,Ruby,4
 11426474,github/choosealicense.com,Ruby,11
-1175581,citation-style-language/styles,Ruby,11
+1175581,citation-style-language/styles,Ruby,12
 114265475,w181496/Web-CTF-Cheatsheet,Ruby,9
-229187949,shivammathur/homebrew-php,Ruby,25
+229187949,shivammathur/homebrew-php,Ruby,24
