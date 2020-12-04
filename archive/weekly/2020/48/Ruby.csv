@@ -1,15 +1,15 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,59
+65252,jekyll/jekyll,Ruby,61
 27442967,fastlane/fastlane,Ruby,55
-53238813,Homebrew/brew,Ruby,247
-52281283,tootsuite/mastodon,Ruby,46
-481872,hashicorp/vagrant,Ruby,60
+53238813,Homebrew/brew,Ruby,248
+52281283,tootsuite/mastodon,Ruby,47
+481872,hashicorp/vagrant,Ruby,62
 3623050,Homebrew/homebrew-cask,Ruby,33
 37382858,kilimchoi/engineering-blogs,Ruby,33
-73648678,forem/forem,Ruby,71
+73648678,forem/forem,Ruby,72
 4095287,rubocop-hq/rubocop,Ruby,20
 106995,sinatra/sinatra,Ruby,14
-3314,spree/spree,Ruby,24
+3314,spree/spree,Ruby,26
 1918677,fluent/fluentd,Ruby,27
 611921,activeadmin/activeadmin,Ruby,11
 52855516,Homebrew/homebrew-core,Ruby,59
@@ -17,10 +17,10 @@ id,name,lang,new stars
 1725199,github/linguist,Ruby,22
 1333863,kaminari/kaminari,Ruby,7
 9746477,sonic-pi-net/sonic-pi,Ruby,39
-4994614,wpscanteam/wpscan,Ruby,26
+4994614,wpscanteam/wpscan,Ruby,28
 1548802,activerecord-hackery/ransack,Ruby,11
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,38
-1952825,Homebrew/homebrew-bundle,Ruby,16
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,39
+1952825,Homebrew/homebrew-bundle,Ruby,18
 1175581,citation-style-language/styles,Ruby,10
 61203,Shopify/shopify_app,Ruby,6
 229187949,shivammathur/homebrew-php,Ruby,16
