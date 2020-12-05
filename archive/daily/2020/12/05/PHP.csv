@@ -1,16 +1,16 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,64
+3482588,danielmiessler/SecLists,PHP,67
 1864363,composer/composer,PHP,16
 1420053,guzzle/guzzle,PHP,10
 22553797,getgrav/grav,PHP,5
-82238168,monicahq/monica,PHP,308
+82238168,monicahq/monica,PHP,311
 8678290,barryvdh/laravel-ide-helper,PHP,11
 72069409,the-control-group/voyager,PHP,3
 10157178,egulias/EmailValidator,PHP,5
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,6
 14259390,Maatwebsite/Laravel-Excel,PHP,7
 49014795,phpstan/phpstan,PHP,13
-597887,doctrine/orm,PHP,7
+597887,doctrine/orm,PHP,8
 31295421,guzzle/psr7,PHP,5
 16896584,nikic/FastRoute,PHP,7
 3817881,zircote/swagger-php,PHP,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 29501260,api-platform/core,PHP,3
 311448648,laravel/breeze,PHP,12
 111562942,statamic/cms,PHP,4
-316705415,symfony/ux,PHP,33
-316548892,lukeraymonddowning/honey,PHP,36
+316705415,symfony/ux,PHP,34
+316548892,lukeraymonddowning/honey,PHP,42
