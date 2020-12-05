@@ -1,15 +1,15 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,15
 2500088,gitlabhq/gitlabhq,Ruby,2
-308770,heartcombo/devise,Ruby,5
-481872,hashicorp/vagrant,Ruby,8
-73648678,forem/forem,Ruby,19
+308770,heartcombo/devise,Ruby,6
+481872,hashicorp/vagrant,Ruby,9
+73648678,forem/forem,Ruby,17
 2203645,CocoaPods/CocoaPods,Ruby,3
 3195124,mperham/sidekiq,Ruby,3
 1918677,fluent/fluentd,Ruby,3
-96395,faker-ruby/faker,Ruby,1
+96395,faker-ruby/faker,Ruby,0
 52855516,Homebrew/homebrew-core,Ruby,7
-15435,Shopify/liquid,Ruby,6
+15435,Shopify/liquid,Ruby,4
 1333863,kaminari/kaminari,Ruby,0
 587311,omniauth/omniauth,Ruby,0
 2441517,puma/puma,Ruby,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,2
 65914086,decidim/decidim,Ruby,0
 644899,onelogin/ruby-saml,Ruby,0
-43709699,microsoft/OMS-Agent-for-Linux,Ruby,0
+43709699,microsoft/OMS-Agent-for-Linux,Ruby,1
