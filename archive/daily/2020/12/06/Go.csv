@@ -5,12 +5,12 @@ id,name,lang,new stars
 16563587,cockroachdb/cockroach,Go,15
 43723161,helm/helm,Go,11
 61137153,evanw/esbuild,Go,65
-6247705,stretchr/testify,Go,21
+6247705,stretchr/testify,Go,22
 167596393,derailed/k9s,Go,27
 87617508,casbin/casbin,Go,19
-46089560,containerd/containerd,Go,171
+46089560,containerd/containerd,Go,206
 109145553,containers/podman,Go,171
-159038012,microsoft/ethr,Go,244
+159038012,microsoft/ethr,Go,245
 53174289,gruntwork-io/terratest,Go,6
 137854081,GoAdminGroup/go-admin,Go,45
 80134675,containers/buildah,Go,47
@@ -21,6 +21,6 @@ id,name,lang,new stars
 93446042,terraform-providers/terraform-provider-azurerm,Go,5
 27522241,golang/crypto,Go,4
 154894457,open-policy-agent/gatekeeper,Go,6
-311315731,XTLS/Xray-core,Go,53
-54714794,rabbitstack/fibratus,Go,96
+311315731,XTLS/Xray-core,Go,54
+54714794,rabbitstack/fibratus,Go,99
 185861173,open-telemetry/opentelemetry-collector,Go,6

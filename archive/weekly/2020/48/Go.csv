@@ -1,18 +1,18 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,411
-20904437,gin-gonic/gin,Go,257
-14712850,syncthing/syncthing,Go,225
-72495579,go-gitea/gitea,Go,434
+20904437,gin-gonic/gin,Go,260
+14712850,syncthing/syncthing,Go,227
+72495579,go-gitea/gitea,Go,436
 16607898,drone/drone,Go,71
 16563587,cockroachdb/cockroach,Go,59
 31504491,labstack/echo,Go,82
-26337322,rancher/rancher,Go,56
-13624859,gorilla/websocket,Go,73
+26337322,rancher/rancher,Go,57
+13624859,gorilla/websocket,Go,75
 165041732,go-kratos/kratos,Go,162
-54400687,loadimpact/k6,Go,1842
-234231371,gofiber/fiber,Go,294
+54400687,loadimpact/k6,Go,1843
+234231371,gofiber/fiber,Go,297
+46089560,containerd/containerd,Go,458
 109162639,thanos-io/thanos,Go,42
-46089560,containerd/containerd,Go,438
 109145553,containers/podman,Go,289
 48643510,pkg/errors,Go,68
 205679232,flipped-aurora/gin-vue-admin,Go,136
@@ -22,5 +22,5 @@ id,name,lang,new stars
 285864199,tal-tech/go-zero,Go,314
 10166531,mitchellh/mapstructure,Go,55
 41964498,prometheus/blackbox_exporter,Go,24
-117156031,prysmaticlabs/prysm,Go,394
+117156031,prysmaticlabs/prysm,Go,395
 311315731,XTLS/Xray-core,Go,427
