@@ -1,12 +1,12 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,809
-1864363,composer/composer,PHP,234
-458058,symfony/symfony,PHP,224
-7548986,laravel/framework,PHP,249
-448045,sebastianbergmann/phpunit,PHP,142
+3482588,danielmiessler/SecLists,PHP,815
+1864363,composer/composer,PHP,235
+458058,symfony/symfony,PHP,226
+7548986,laravel/framework,PHP,250
+448045,sebastianbergmann/phpunit,PHP,143
 2889328,WordPress/WordPress,PHP,138
-60243197,nextcloud/server,PHP,287
-82238168,monicahq/monica,PHP,1549
+60243197,nextcloud/server,PHP,289
+82238168,monicahq/monica,PHP,1551
 29843361,w7corp/easywechat,PHP,70
 6660366,dompdf/dompdf,PHP,105
 2179920,woocommerce/woocommerce,PHP,102
@@ -17,10 +17,10 @@ id,name,lang,new stars
 8875190,Ocramius/ProxyManager,PHP,91
 74386167,vimeo/psalm,PHP,118
 41463886,codeigniter4/CodeIgniter4,PHP,80
-222873550,bytefury/crater,PHP,272
+222873550,bytefury/crater,PHP,293
 11935508,RSS-Bridge/rss-bridge,PHP,106
 1934695,xdebug/xdebug,PHP,53
 69691727,pmmp/PocketMine-MP,PHP,54
-182349597,jqhph/dcat-admin,PHP,139
+182349597,jqhph/dcat-admin,PHP,141
 29501260,api-platform/core,PHP,24
-74026995,CodelyTV/php-ddd-example,PHP,77
+74026995,CodelyTV/php-ddd-example,PHP,79
