@@ -1,19 +1,19 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,110
+3482588,danielmiessler/SecLists,PHP,111
 2579314,fzaninotto/Faker,PHP,8
-458058,symfony/symfony,PHP,22
-14732311,octobercms/october,PHP,7
+458058,symfony/symfony,PHP,23
+14732311,octobercms/october,PHP,8
 49014795,phpstan/phpstan,PHP,22
 16238673,kanboard/kanboard,PHP,5
 42261096,fuzzdb-project/fuzzdb,PHP,9
 9791525,digininja/DVWA,PHP,10
-86350964,the-benchmarker/web-frameworks,PHP,12
+86350964,the-benchmarker/web-frameworks,PHP,13
 41463886,codeigniter4/CodeIgniter4,PHP,11
 222873550,bytefury/crater,PHP,156
 9395939,ZoneMinder/zoneminder,PHP,4
 31425145,billz/raspap-webgui,PHP,5
-1957456,Dolibarr/dolibarr,PHP,7
-69691727,pmmp/PocketMine-MP,PHP,2
+1957456,Dolibarr/dolibarr,PHP,8
+69691727,pmmp/PocketMine-MP,PHP,3
 47508644,pterodactyl/panel,PHP,7
 44733816,privacy-protection-tools/anti-AD,PHP,28
 57961433,openmediavault/openmediavault,PHP,10
@@ -21,6 +21,6 @@ id,name,lang,new stars
 60457385,vtrois/kratos,PHP,3
 78109411,metowolf/Meting,PHP,2
 174021137,inertiajs/pingcrm,PHP,4
-316705415,symfony/ux,PHP,47
-316548892,lukeraymonddowning/honey,PHP,69
+316705415,symfony/ux,PHP,49
+316548892,lukeraymonddowning/honey,PHP,73
 318089222,zonblade/php-view-source-protection,PHP,8
