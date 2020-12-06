@@ -1,9 +1,9 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,13
-27442967,fastlane/fastlane,Ruby,19
+27442967,fastlane/fastlane,Ruby,21
 2500088,gitlabhq/gitlabhq,Ruby,4
 308770,heartcombo/devise,Ruby,8
-73648678,forem/forem,Ruby,21
+73648678,forem/forem,Ruby,24
 3195124,mperham/sidekiq,Ruby,7
 108278,chef/chef,Ruby,2
 26018608,github-changelog-generator/github-changelog-generator,Ruby,3
@@ -19,8 +19,8 @@ id,name,lang,new stars
 14238949,elastic/elasticsearch-rails,Ruby,0
 24666294,ankane/blazer,Ruby,13
 3898922,zammad/zammad,Ruby,3
-9831101,elastic/elasticsearch-ruby,Ruby,0
+9831101,elastic/elasticsearch-ruby,Ruby,1
 5152718,mbj/mutant,Ruby,6
-200302808,github/view_component,Ruby,22
+200302808,github/view_component,Ruby,23
 20343475,googleapis/google-cloud-ruby,Ruby,2
 65914086,decidim/decidim,Ruby,2

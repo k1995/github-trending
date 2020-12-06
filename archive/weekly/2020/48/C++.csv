@@ -1,14 +1,14 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,227
-184456251,microsoft/PowerToys,C++,1340
-23357588,protocolbuffers/protobuf,C++,136
-22887094,tesseract-ocr/tesseract,C++,164
-74627617,commaai/openpilot,C++,208
-39840932,google/googletest,C++,459
-26038648,gabime/spdlog,C++,106
-66088979,changkun/modern-cpp-tutorial,C++,942
+5108051,opencv/opencv,C++,231
+184456251,microsoft/PowerToys,C++,1366
+23357588,protocolbuffers/protobuf,C++,138
+22887094,tesseract-ocr/tesseract,C++,166
+74627617,commaai/openpilot,C++,209
+39840932,google/googletest,C++,466
+26038648,gabime/spdlog,C++,107
+66088979,changkun/modern-cpp-tutorial,C++,944
 197275130,microsoft/winget-cli,C++,142
-2200856,MarlinFirmware/Marlin,C++,69
+2200856,MarlinFirmware/Marlin,C++,70
 1524684,SFML/SFML,C++,27
 82766831,anbox/anbox,C++,89
 8162615,PointCloudLibrary/pcl,C++,23
@@ -18,9 +18,9 @@ id,name,lang,new stars
 75662387,google/draco,C++,27
 89067146,ethereum-mining/ethminer,C++,34
 52882701,prusa3d/PrusaSlicer,C++,29
-3884981,juce-framework/JUCE,C++,20
-145406928,RikkaApps/Riru,C++,42
+3884981,juce-framework/JUCE,C++,21
+145406928,RikkaApps/Riru,C++,43
 153097643,openvinotoolkit/openvino,C++,26
-311683390,WerWolv/ImHex,C++,1647
+311683390,WerWolv/ImHex,C++,1737
 32278338,simulationcraft/simc,C++,20
-193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,12
+193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,13
