@@ -1,14 +1,14 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,419
-458058,symfony/symfony,PHP,93
-7548986,laravel/framework,PHP,63
+3482588,danielmiessler/SecLists,PHP,425
+458058,symfony/symfony,PHP,94
+7548986,laravel/framework,PHP,66
 448045,sebastianbergmann/phpunit,PHP,58
 1631570,nikic/PHP-Parser,PHP,52
 12615154,barryvdh/laravel-debugbar,PHP,38
-82238168,monicahq/monica,PHP,1489
+82238168,monicahq/monica,PHP,1493
 926544,slimphp/Slim,PHP,22
 72069409,the-control-group/voyager,PHP,24
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,41
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,42
 49014795,phpstan/phpstan,PHP,49
 597887,doctrine/orm,PHP,33
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,20
@@ -22,5 +22,5 @@ id,name,lang,new stars
 41463886,codeigniter4/CodeIgniter4,PHP,24
 29126334,EasyCorp/EasyAdminBundle,PHP,13
 1957456,Dolibarr/dolibarr,PHP,22
-182349597,jqhph/dcat-admin,PHP,29
+182349597,jqhph/dcat-admin,PHP,30
 74026995,CodelyTV/php-ddd-example,PHP,32
