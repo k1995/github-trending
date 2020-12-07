@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,761
-54346799,public-apis/public-apis,Python,603
-107111421,thedaviddias/Front-End-Checklist,,1101
+60493101,jwasham/coding-interview-university,,604
+54346799,public-apis/public-apis,Python,412
+107111421,thedaviddias/Front-End-Checklist,,351
 16408992,neovim/neovim,Vim script,99
-12888993,home-assistant/core,Python,263
-32689863,3b1b/manim,Python,146
-51980455,alacritty/alacritty,Rust,845
+12888993,home-assistant/core,Python,199
+32689863,3b1b/manim,Python,74
+51980455,alacritty/alacritty,Rust,276
 238316428,CSSEGISandData/COVID-19,,39
-17803236,rclone/rclone,Go,67
-2293158,rapid7/metasploit-framework,Ruby,105
-71220757,swisskyrepo/PayloadsAllTheThings,Python,118
-23129458,aseprite/aseprite,C++,269
+17803236,rclone/rclone,Go,68
+2293158,rapid7/metasploit-framework,Ruby,78
+71220757,swisskyrepo/PayloadsAllTheThings,Python,112
+23129458,aseprite/aseprite,C++,352
 40484398,discordjs/discord.js,JavaScript,100
-179354282,acidanthera/OpenCorePkg,C,75
-222873550,bytefury/crater,PHP,326
-311683390,WerWolv/ImHex,C++,1939
-189621607,github/docs,JavaScript,26
-54714794,rabbitstack/fibratus,Go,250
-311827803,ottomated/CrewLink,TypeScript,285
-315312608,SebLague/Digital-Logic-Sim,C#,394
-282320787,microsoft/restler-fuzzer,Python,172
-318476701,AkihiroSuda/nerdctl,Go,170
+179354282,acidanthera/OpenCorePkg,C,58
+222873550,bytefury/crater,PHP,151
+311683390,WerWolv/ImHex,C++,1927
+189621607,github/docs,JavaScript,17
+54714794,rabbitstack/fibratus,Go,129
+311827803,ottomated/CrewLink,TypeScript,231
+315312608,SebLague/Digital-Logic-Sim,C#,128
+282320787,microsoft/restler-fuzzer,Python,139
+318476701,AkihiroSuda/nerdctl,Go,55
 311845466,ottomated/CrewLink-server,TypeScript,62
-283867293,nickmccullum/algorithmic-trading-python,Jupyter Notebook,76
-318584731,GuitarML/GuitarLSTM,Python,75
+283867293,nickmccullum/algorithmic-trading-python,Jupyter Notebook,45
+318584731,GuitarML/GuitarLSTM,Python,61
