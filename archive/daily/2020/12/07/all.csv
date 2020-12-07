@@ -1,25 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,607
-54346799,public-apis/public-apis,Python,490
-52631841,gothinkster/realworld,JavaScript,733
-486550,h5bp/html5-boilerplate,JavaScript,436
+60493101,jwasham/coding-interview-university,,761
+54346799,public-apis/public-apis,Python,603
 107111421,thedaviddias/Front-End-Checklist,,1101
-12888993,home-assistant/core,Python,200
-51980455,alacritty/alacritty,Rust,760
-2293158,rapid7/metasploit-framework,Ruby,78
+16408992,neovim/neovim,Vim script,99
+12888993,home-assistant/core,Python,263
+32689863,3b1b/manim,Python,146
+51980455,alacritty/alacritty,Rust,845
+238316428,CSSEGISandData/COVID-19,,39
+17803236,rclone/rclone,Go,67
+2293158,rapid7/metasploit-framework,Ruby,105
+71220757,swisskyrepo/PayloadsAllTheThings,Python,118
 23129458,aseprite/aseprite,C++,269
-124492610,xiandanin/magnetW,JavaScript,93
 40484398,discordjs/discord.js,JavaScript,100
-212773802,keithnull/TeachYourselfCS-CN,,482
-179354282,acidanthera/OpenCorePkg,C,56
-124230204,micronaut-projects/micronaut-core,Java,153
-222873550,bytefury/crater,PHP,284
-311683390,WerWolv/ImHex,C++,1660
-265963108,preactjs/wmr,JavaScript,910
-276414382,microsoft/playwright-python,Python,234
-313330998,bradtraversy/50projects50days,CSS,756
-54714794,rabbitstack/fibratus,Go,192
-311827803,ottomated/CrewLink,TypeScript,227
-315312608,SebLague/Digital-Logic-Sim,C#,352
-282320787,microsoft/restler-fuzzer,Python,129
+179354282,acidanthera/OpenCorePkg,C,75
+222873550,bytefury/crater,PHP,326
+311683390,WerWolv/ImHex,C++,1939
+189621607,github/docs,JavaScript,26
+54714794,rabbitstack/fibratus,Go,250
+311827803,ottomated/CrewLink,TypeScript,285
+315312608,SebLague/Digital-Logic-Sim,C#,394
+282320787,microsoft/restler-fuzzer,Python,172
+318476701,AkihiroSuda/nerdctl,Go,170
 311845466,ottomated/CrewLink-server,TypeScript,62
+283867293,nickmccullum/algorithmic-trading-python,Jupyter Notebook,76
+318584731,GuitarML/GuitarLSTM,Python,75
