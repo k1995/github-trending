@@ -1,8 +1,8 @@
 id,name,lang,new stars
-5254557,cloudwu/skynet,C,39
+5254557,cloudwu/skynet,C,51
 45821540,openwrt/openwrt,C,8
 5414488,cesanta/mongoose,C,3
-65899476,espressif/esp-idf,C,4
+65899476,espressif/esp-idf,C,5
 13310527,jemalloc/jemalloc,C,3
 16734696,meetecho/janus-gateway,C,6
 5870069,edenhill/librdkafka,C,4
@@ -12,12 +12,12 @@ id,name,lang,new stars
 2081289,astropy/astropy,C,2
 1139119,json-c/json-c,C,1
 3276860,ThrowTheSwitch/Unity,C,3
-146397768,ithewei/libhv,C,9
+146397768,ithewei/libhv,C,10
 76599439,FRRouting/frr,C,2
 39042157,spdk/spdk,C,2
 24107001,open-mpi/ompi,C,1
 13740589,ARM-software/arm-trusted-firmware,C,1
-189044704,AFLplusplus/AFLplusplus,C,49
+189044704,AFLplusplus/AFLplusplus,C,63
 28928522,wolfSSL/wolfssl,C,3
 118424053,greenbone/openvas,C,0
 23780138,riscv/riscv-gnu-toolchain,C,5
