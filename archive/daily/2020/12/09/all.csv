@@ -1,26 +1,26 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,75
-126577260,trekhleb/javascript-algorithms,JavaScript,193
-128398636,xingshaocheng/architect-awesome,,324
+126577260,trekhleb/javascript-algorithms,JavaScript,194
+128398636,xingshaocheng/architect-awesome,,351
 12256376,ionic-team/ionic-framework,TypeScript,26
 22458259,Alamofire/Alamofire,Swift,12
-27442967,fastlane/fastlane,Ruby,159
+27442967,fastlane/fastlane,Ruby,270
 11171548,nlohmann/json,C++,84
 1062572,catchorg/Catch2,C++,33
-93253246,javascript-tutorial/en.javascript.info,HTML,369
-17391973,Tencent/rapidjson,C++,49
-157166750,lensapp/lens,TypeScript,71
-113564448,mml-book/mml-book.github.io,Jupyter Notebook,47
-319029846,beurtschipper/Depix,Python,1650
+93253246,javascript-tutorial/en.javascript.info,HTML,368
+17391973,Tencent/rapidjson,C++,87
+157166750,lensapp/lens,TypeScript,130
+113564448,mml-book/mml-book.github.io,Jupyter Notebook,73
+319029846,beurtschipper/Depix,Python,2351
 36653430,hashicorp/nomad,Go,42
-109162639,thanos-io/thanos,Go,152
-9746477,sonic-pi-net/sonic-pi,Ruby,63
+109162639,thanos-io/thanos,Go,216
+9746477,sonic-pi-net/sonic-pi,Ruby,125
 68964263,prometheus-operator/prometheus-operator,Go,7
-264154402,crowdsecurity/crowdsec,Go,76
-229030654,go-git/go-git,Go,13
-235121464,DivineEngine/Profiles,,77
-307536107,linkedin/school-of-sre,HTML,1023
+264154402,crowdsecurity/crowdsec,Go,104
+229030654,go-git/go-git,Go,32
+307536107,linkedin/school-of-sre,HTML,1178
+235121464,DivineEngine/Profiles,,79
 311827803,ottomated/CrewLink,TypeScript,153
 318923376,oskarsve/ms-teams-rce,,436
-290808391,atc1441/ATC_MiThermometer,C,18
-311463909,laravel/sail,Shell,86
+290808391,atc1441/ATC_MiThermometer,C,19
+311463909,laravel/sail,Shell,105
