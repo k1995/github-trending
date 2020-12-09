@@ -1,14 +1,14 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1621
-9384267,electron/electron,C++,1303
-1181927,bitcoin/bitcoin,C++,700
-184456251,microsoft/PowerToys,C++,3924
-23357588,protocolbuffers/protobuf,C++,560
-11171548,nlohmann/json,C++,827
+45717250,tensorflow/tensorflow,C++,1641
+9384267,electron/electron,C++,1304
+1181927,bitcoin/bitcoin,C++,702
+184456251,microsoft/PowerToys,C++,3931
+23357588,protocolbuffers/protobuf,C++,562
+11171548,nlohmann/json,C++,839
 39840932,google/googletest,C++,1032
 5133949,swoole/swoole-src,C++,136
-60246359,ClickHouse/ClickHouse,C++,908
-32969220,esp8266/Arduino,C++,154
+60246359,ClickHouse/ClickHouse,C++,910
+32969220,esp8266/Arduino,C++,155
 102343794,apache/incubator-brpc,C++,266
 66088979,changkun/modern-cpp-tutorial,C++,1843
 40892817,ethereum/solidity,C++,214
@@ -17,10 +17,10 @@ id,name,lang,new stars
 208728772,milvus-io/milvus,C++,353
 131236938,an-tao/drogon,C++,496
 14268809,FastLED/FastLED,C++,73
-76990209,Aircoookie/WLED,C++,536
+76990209,Aircoookie/WLED,C++,540
 64561753,dusty-nv/jetson-inference,C++,161
 89067146,ethereum-mining/ethminer,C++,82
-52882701,prusa3d/PrusaSlicer,C++,155
+52882701,prusa3d/PrusaSlicer,C++,156
 98471367,acidanthera/WhateverGreen,C++,80
 145406928,RikkaApps/Riru,C++,144
-63037248,scarsty/kys-cpp,C++,491
+63037248,scarsty/kys-cpp,C++,492

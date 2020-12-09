@@ -8,7 +8,7 @@ id,name,lang,new stars
 11171548,nlohmann/json,C++,84
 1062572,catchorg/Catch2,C++,33
 93253246,javascript-tutorial/en.javascript.info,HTML,368
-17391973,Tencent/rapidjson,C++,87
+17391973,Tencent/rapidjson,C++,92
 157166750,lensapp/lens,TypeScript,130
 319029846,beurtschipper/Depix,Python,2351
 113564448,mml-book/mml-book.github.io,Jupyter Notebook,105
@@ -17,9 +17,9 @@ id,name,lang,new stars
 9746477,sonic-pi-net/sonic-pi,Ruby,125
 68964263,prometheus-operator/prometheus-operator,Go,33
 264154402,crowdsecurity/crowdsec,Go,85
+307536107,linkedin/school-of-sre,HTML,1508
 229030654,go-git/go-git,Go,45
-307536107,linkedin/school-of-sre,HTML,1455
-235121464,DivineEngine/Profiles,,62
+235121464,DivineEngine/Profiles,,66
 311827803,ottomated/CrewLink,TypeScript,153
 318923376,oskarsve/ms-teams-rce,,209
 290808391,atc1441/ATC_MiThermometer,C,19

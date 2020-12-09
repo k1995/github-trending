@@ -1,19 +1,19 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C++,1231
-23357588,protocolbuffers/protobuf,C++,138
-65600975,pytorch/pytorch,C++,227
+184456251,microsoft/PowerToys,C++,1238
+23357588,protocolbuffers/protobuf,C++,140
+65600975,pytorch/pytorch,C++,228
 39840932,google/googletest,C++,450
 22394357,osquery/osquery,C++,33
-1062572,catchorg/Catch2,C++,94
-23129458,aseprite/aseprite,C++,745
+1062572,catchorg/Catch2,C++,98
+23129458,aseprite/aseprite,C++,746
 26038648,gabime/spdlog,C++,88
-17391973,Tencent/rapidjson,C++,139
+17391973,Tencent/rapidjson,C++,149
 98771110,zhongyang219/TrafficMonitor,C++,101
 1605598,bulletphysics/bullet3,C++,52
-311683390,WerWolv/ImHex,C++,4839
+311683390,WerWolv/ImHex,C++,4887
 14268809,FastLED/FastLED,C++,22
-5909706,yhirose/cpp-httplib,C++,55
-76990209,Aircoookie/WLED,C++,144
+5909706,yhirose/cpp-httplib,C++,57
+76990209,Aircoookie/WLED,C++,148
 75662387,google/draco,C++,25
 88327406,xmrig/xmrig,C++,40
 3542607,leethomason/tinyxml2,C++,18
@@ -22,5 +22,5 @@ id,name,lang,new stars
 12682212,MultiMC/MultiMC5,C++,29
 151636194,triton-inference-server/server,C++,27
 150774287,danielkrupinski/Osiris,C++,16
-11526715,dresden-elektronik/deconz-rest-plugin,C++,22
+11526715,dresden-elektronik/deconz-rest-plugin,C++,25
 131630299,onnx/onnx-tensorrt,C++,69
