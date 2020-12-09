@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1129010,blueimp/jQuery-File-Upload,PHP,2
-1864363,composer/composer,PHP,7
+1129010,blueimp/jQuery-File-Upload,PHP,3
+1864363,composer/composer,PHP,9
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,9
 597887,doctrine/orm,PHP,0
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
@@ -15,7 +15,7 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,4
 74386167,vimeo/psalm,PHP,5
 97311017,rectorphp/rector,PHP,9
-7895524,thephpleague/oauth2-client,PHP,1
+7895524,thephpleague/oauth2-client,PHP,2
 109984157,symfony/maker-bundle,PHP,0
 29501260,api-platform/core,PHP,0
 26456385,thephpleague/flysystem-aws-s3-v3,PHP,1

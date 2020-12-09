@@ -6,8 +6,8 @@ id,name,lang,new stars
 17391973,Tencent/rapidjson,C++,49
 5254557,cloudwu/skynet,C,65
 47087,carrierwaveuploader/carrierwave,Ruby,17
-109162639,thanos-io/thanos,Go,152
 319029846,beurtschipper/Depix,Python,1650
+109162639,thanos-io/thanos,Go,150
 1295612,flot/flot,JavaScript,51
 9131292,jenssegers/laravel-mongodb,PHP,24
 732593,cloudera/hue,Python,234
@@ -17,7 +17,7 @@ id,name,lang,new stars
 64857500,tfutils/tfenv,Shell,49
 131630299,onnx/onnx-tensorrt,C++,35
 189044704,AFLplusplus/AFLplusplus,C,73
-88608345,weaveworks/kured,Go,53
+88608345,weaveworks/kured,Go,52
 180028389,react-native-mapbox-gl/maps,JavaScript,32
 170803235,magma/magma,Go,80
 60525392,demisto/content,Python,21
