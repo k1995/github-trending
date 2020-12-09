@@ -1,14 +1,14 @@
 id,name,lang,new stars
 132464395,Snailclimb/JavaGuide,Java,98
 63477660,TheAlgorithms/Java,Java,26
-19148949,PhilJay/MPAndroidChart,Java,45
+19148949,PhilJay/MPAndroidChart,Java,63
 15823460,redisson/redisson,Java,17
 76413186,alibaba/ARouter,Java,4
 221862,rzwitserloot/lombok,Java,5
 27954927,ben-manes/caffeine,Java,15
 206424,apache/cassandra,Java,2
-36793280,resilience4j/resilience4j,Java,10
-105686726,uber/RIBs,Java,1
+36793280,resilience4j/resilience4j,Java,9
+105686726,uber/RIBs,Java,2
 33166041,react-native-video/react-native-video,Java,7
 174063999,alibaba/flutter_boost,Java,4
 8121707,mybatis/generator,Java,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 78640217,keycloak/keycloak-quickstarts,Java,2
 206334176,yueyi2019/online-taxi,Java,67
 47184968,adobe/aem-core-wcm-components,Java,1
-19638422,hortonworks/cloudbreak,Java,0
+19638422,hortonworks/cloudbreak,Java,1
