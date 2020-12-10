@@ -1,7 +1,7 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,161
 71948498,localstack/localstack,Python,30
-118861276,gto76/python-cheatsheet,Python,99
+118861276,gto76/python-cheatsheet,Python,100
 6662075,joke2k/faker,Python,15
 130474497,eriklindernoren/PyTorch-GAN,Python,26
 24774658,boto/boto3,Python,7
@@ -18,8 +18,8 @@ id,name,lang,new stars
 181846371,MIC-DKFZ/nnUNet,Python,20
 208611822,biubug6/Pytorch_Retinaface,Python,5
 179163124,CoinAlpha/hummingbot,Python,3
-189209439,gogcom/galaxy-integrations-python-api,Python,6
 246509073,PaddlePaddle/PaddleX,Python,65
+189209439,gogcom/galaxy-integrations-python-api,Python,6
 302094934,NVlabs/stylegan2-ada,Python,24
 294947067,aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE,Python,13
 313664064,iPERDance/iPERCore,Python,32

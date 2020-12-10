@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,17
+1863329,laravel/laravel,PHP,31
 458058,symfony/symfony,PHP,13
 1376664,Seldaek/monolog,PHP,6
 7769432,vlucas/phpdotenv,PHP,8
-8678290,barryvdh/laravel-ide-helper,PHP,5
+8678290,barryvdh/laravel-ide-helper,PHP,7
 622166,FriendsOfPHP/Goutte,PHP,6
 2699935,squizlabs/PHP_CodeSniffer,PHP,5
 1398648,symfony/http-foundation,PHP,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 86987524,WWBN/AVideo,PHP,3
 311448648,laravel/breeze,PHP,9
 75645659,WordPress/wordpress-develop,PHP,5
-319337968,asantibanez/laravel-eloquent-state-machines,PHP,57
+319337968,asantibanez/laravel-eloquent-state-machines,PHP,59
 318089222,zonblade/php-view-source-protection,PHP,6
 318622348,CareSet/COVID_Hospital_PUF,PHP,8
