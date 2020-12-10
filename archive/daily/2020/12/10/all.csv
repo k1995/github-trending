@@ -1,26 +1,26 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,86
+83222441,donnemartin/system-design-primer,Python,161
 126577260,trekhleb/javascript-algorithms,JavaScript,330
+133442384,denoland/deno,TypeScript,68
 128398636,xingshaocheng/architect-awesome,,217
 12256376,ionic-team/ionic-framework,TypeScript,106
 22458259,Alamofire/Alamofire,Swift,45
-27442967,fastlane/fastlane,Ruby,236
+31629751,cypress-io/cypress,JavaScript,34
 11171548,nlohmann/json,C++,157
-1062572,catchorg/Catch2,C++,71
 93253246,javascript-tutorial/en.javascript.info,HTML,239
 17391973,Tencent/rapidjson,C++,98
 157166750,lensapp/lens,TypeScript,252
-319029846,beurtschipper/Depix,Python,1388
 113564448,mml-book/mml-book.github.io,Jupyter Notebook,121
-36653430,hashicorp/nomad,Go,177
 109162639,thanos-io/thanos,Go,122
 9746477,sonic-pi-net/sonic-pi,Ruby,262
-68964263,prometheus-operator/prometheus-operator,Go,37
-264154402,crowdsecurity/crowdsec,Go,113
+8629417,mapbox/mapbox-gl-js,JavaScript,44
+177878919,fireeye/commando-vm,PowerShell,142
+281443363,sindresorhus/css-in-readme-like-wat,,1476
 307536107,linkedin/school-of-sre,HTML,945
-229030654,go-git/go-git,Go,66
+318029147,fireeye/red_team_tool_countermeasures,YARA,1623
 235121464,DivineEngine/Profiles,,69
-311827803,ottomated/CrewLink,TypeScript,111
-318923376,oskarsve/ms-teams-rce,,114
-290808391,atc1441/ATC_MiThermometer,C,47
+246509073,PaddlePaddle/PaddleX,Python,65
+294947067,aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE,Python,13
+304766583,imarvinle/awesome-cs-books,,147
 311463909,laravel/sail,Shell,96
+314373079,minhealthnz/nzcovidtracer-app,TypeScript,91
