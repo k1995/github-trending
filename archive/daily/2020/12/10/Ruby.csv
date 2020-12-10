@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,32
-27442967,fastlane/fastlane,Ruby,262
-308770,heartcombo/devise,Ruby,8
+8514,rails/rails,Ruby,35
+27442967,fastlane/fastlane,Ruby,265
+308770,heartcombo/devise,Ruby,9
 2203645,CocoaPods/CocoaPods,Ruby,5
-1090311,elastic/logstash,Ruby,8
+1090311,elastic/logstash,Ruby,9
 4095287,rubocop-hq/rubocop,Ruby,2
 3314,spree/spree,Ruby,3
-3195124,mperham/sidekiq,Ruby,7
-1918677,fluent/fluentd,Ruby,8
+3195124,mperham/sidekiq,Ruby,8
+1918677,fluent/fluentd,Ruby,9
 1217404,jordansissel/fpm,Ruby,4
 96395,faker-ruby/faker,Ruby,3
 611921,activeadmin/activeadmin,Ruby,3
-21829,thoughtbot/factory_bot,Ruby,5
-9746477,sonic-pi-net/sonic-pi,Ruby,194
-277089,flyerhzm/bullet,Ruby,2
+21829,thoughtbot/factory_bot,Ruby,6
+9746477,sonic-pi-net/sonic-pi,Ruby,262
+277089,flyerhzm/bullet,Ruby,3
 5160706,bkeepers/dotenv,Ruby,2
 2889230,rails-api/active_model_serializers,Ruby,2
 79352,mikel/mail,Ruby,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 44935124,shrinerb/shrine,Ruby,1
 154027884,samber/awesome-prometheus-alerts,Ruby,20
 9831101,elastic/elasticsearch-ruby,Ruby,1
-12357002,ondrejbartas/sidekiq-cron,Ruby,15
+12357002,ondrejbartas/sidekiq-cron,Ruby,17
 319406946,github/sonic-pi-challenge,Ruby,28
 219969140,ovrclk/ecosystem,Ruby,0
