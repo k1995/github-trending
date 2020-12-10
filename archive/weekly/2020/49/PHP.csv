@@ -1,9 +1,9 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,347
+3482588,danielmiessler/SecLists,PHP,351
 458058,symfony/symfony,PHP,78
 1420053,guzzle/guzzle,PHP,42
 448045,sebastianbergmann/phpunit,PHP,21
-82238168,monicahq/monica,PHP,1003
+82238168,monicahq/monica,PHP,1008
 12615154,barryvdh/laravel-debugbar,PHP,35
 8678290,barryvdh/laravel-ide-helper,PHP,30
 72069409,the-control-group/voyager,PHP,21
@@ -20,7 +20,7 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,30
 97311017,rectorphp/rector,PHP,56
 95011974,akaunting/akaunting,PHP,21
-222873550,bytefury/crater,PHP,610
+222873550,bytefury/crater,PHP,611
 1957456,Dolibarr/dolibarr,PHP,23
 70726575,orangetw/My-CTF-Web-Challenges,PHP,20
 74026995,CodelyTV/php-ddd-example,PHP,21

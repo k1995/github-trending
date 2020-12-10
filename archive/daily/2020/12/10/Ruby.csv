@@ -1,6 +1,6 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,12
-27442967,fastlane/fastlane,Ruby,236
+27442967,fastlane/fastlane,Ruby,235
 8681349,huginn/huginn,Ruby,13
 2293158,rapid7/metasploit-framework,Ruby,23
 308770,heartcombo/devise,Ruby,6
@@ -14,12 +14,12 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,2
 611921,activeadmin/activeadmin,Ruby,1
 1725199,github/linguist,Ruby,2
-9746477,sonic-pi-net/sonic-pi,Ruby,262
+9746477,sonic-pi-net/sonic-pi,Ruby,194
 2441517,puma/puma,Ruby,0
 202291859,chatwoot/chatwoot,Ruby,10
 1734,aasm/aasm,Ruby,2
 52316423,luggit/react-native-config,Ruby,2
-614070,rubygems/rubygems,Ruby,1
+614070,rubygems/rubygems,Ruby,0
 5144181,jnunemaker/flipper,Ruby,5
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,4
 219969140,ovrclk/ecosystem,Ruby,0
