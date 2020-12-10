@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,64
-65252,jekyll/jekyll,Ruby,62
-27442967,fastlane/fastlane,Ruby,460
+65252,jekyll/jekyll,Ruby,64
+27442967,fastlane/fastlane,Ruby,462
 8681349,huginn/huginn,Ruby,77
 21600440,bayandin/awesome-awesomeness,Ruby,47
-2293158,rapid7/metasploit-framework,Ruby,257
-308770,heartcombo/devise,Ruby,31
-481872,hashicorp/vagrant,Ruby,59
+2293158,rapid7/metasploit-framework,Ruby,258
+308770,heartcombo/devise,Ruby,32
+481872,hashicorp/vagrant,Ruby,60
 3623050,Homebrew/homebrew-cask,Ruby,40
 73648678,forem/forem,Ruby,95
 4095287,rubocop-hq/rubocop,Ruby,15
@@ -14,9 +14,9 @@ id,name,lang,new stars
 52855516,Homebrew/homebrew-core,Ruby,72
 1725199,github/linguist,Ruby,19
 6529205,varvet/pundit,Ruby,13
-9746477,sonic-pi-net/sonic-pi,Ruby,517
+9746477,sonic-pi-net/sonic-pi,Ruby,563
 26018608,github-changelog-generator/github-changelog-generator,Ruby,20
-6899875,opf/openproject,Ruby,25
+6899875,opf/openproject,Ruby,27
 24666294,ankane/blazer,Ruby,39
 614070,rubygems/rubygems,Ruby,4
 154027884,samber/awesome-prometheus-alerts,Ruby,53

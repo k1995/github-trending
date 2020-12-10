@@ -1,7 +1,7 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,35
-27442967,fastlane/fastlane,Ruby,265
-308770,heartcombo/devise,Ruby,9
+8514,rails/rails,Ruby,37
+27442967,fastlane/fastlane,Ruby,267
+308770,heartcombo/devise,Ruby,11
 2203645,CocoaPods/CocoaPods,Ruby,5
 1090311,elastic/logstash,Ruby,9
 4095287,rubocop-hq/rubocop,Ruby,2
@@ -9,18 +9,18 @@ id,name,lang,new stars
 3195124,mperham/sidekiq,Ruby,8
 1918677,fluent/fluentd,Ruby,9
 1217404,jordansissel/fpm,Ruby,4
-96395,faker-ruby/faker,Ruby,3
+96395,faker-ruby/faker,Ruby,4
 611921,activeadmin/activeadmin,Ruby,3
-21829,thoughtbot/factory_bot,Ruby,6
-9746477,sonic-pi-net/sonic-pi,Ruby,262
+21829,thoughtbot/factory_bot,Ruby,7
+9746477,sonic-pi-net/sonic-pi,Ruby,225
 277089,flyerhzm/bullet,Ruby,3
 5160706,bkeepers/dotenv,Ruby,2
-2889230,rails-api/active_model_serializers,Ruby,2
+2889230,rails-api/active_model_serializers,Ruby,4
 79352,mikel/mail,Ruby,2
 1172597,thoughtbot/shoulda-matchers,Ruby,2
 44935124,shrinerb/shrine,Ruby,1
 154027884,samber/awesome-prometheus-alerts,Ruby,20
 9831101,elastic/elasticsearch-ruby,Ruby,1
 12357002,ondrejbartas/sidekiq-cron,Ruby,17
-319406946,github/sonic-pi-challenge,Ruby,28
+319406946,github/sonic-pi-challenge,Ruby,29
 219969140,ovrclk/ecosystem,Ruby,0
