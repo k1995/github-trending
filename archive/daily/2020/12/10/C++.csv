@@ -1,12 +1,12 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,75
-65600975,pytorch/pytorch,C++,29
-15634981,godotengine/godot,C++,22
-11171548,nlohmann/json,C++,145
+45717250,tensorflow/tensorflow,C++,86
+65600975,pytorch/pytorch,C++,30
+15634981,godotengine/godot,C++,23
+11171548,nlohmann/json,C++,157
 96246170,ApolloAuto/apollo,C++,10
 1062572,catchorg/Catch2,C++,71
 23129458,aseprite/aseprite,C++,22
-17391973,Tencent/rapidjson,C++,87
+17391973,Tencent/rapidjson,C++,98
 112676803,apple/turicreate,C++,5
 38581626,pybind/pybind11,C++,10
 5736080,FreeCAD/FreeCAD,C++,7
@@ -23,4 +23,4 @@ id,name,lang,new stars
 165091078,HKUST-Aerial-Robotics/VINS-Fusion,C++,3
 131630299,onnx/onnx-tensorrt,C++,26
 244694174,project-chip/connectedhomeip,C++,3
-313445559,google/atheris,C++,36
+313445559,google/atheris,C++,37
