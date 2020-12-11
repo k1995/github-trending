@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,209
-2253830,PHPMailer/PHPMailer,PHP,45
-1548202,matomo-org/matomo,PHP,46
-82238168,monicahq/monica,PHP,400
-7769432,vlucas/phpdotenv,PHP,32
+3482588,danielmiessler/SecLists,PHP,195
+2253830,PHPMailer/PHPMailer,PHP,46
+1548202,matomo-org/matomo,PHP,45
+82238168,monicahq/monica,PHP,368
+7769432,vlucas/phpdotenv,PHP,31
 8678290,barryvdh/laravel-ide-helper,PHP,26
 14732311,octobercms/october,PHP,20
 72069409,the-control-group/voyager,PHP,17
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,39
-14259390,Maatwebsite/Laravel-Excel,PHP,26
-49014795,phpstan/phpstan,PHP,38
+14259390,Maatwebsite/Laravel-Excel,PHP,24
+49014795,phpstan/phpstan,PHP,37
 2884111,magento/magento2,PHP,20
 597887,doctrine/orm,PHP,17
 11467667,typecho/typecho,PHP,33
@@ -17,9 +17,9 @@ id,name,lang,new stars
 10371103,Laravel-Lang/lang,PHP,30
 9131292,jenssegers/laravel-mongodb,PHP,44
 10883164,barryvdh/laravel-dompdf,PHP,15
-74386167,vimeo/psalm,PHP,24
-97311017,rectorphp/rector,PHP,46
-222873550,bytefury/crater,PHP,600
+74386167,vimeo/psalm,PHP,23
+97311017,rectorphp/rector,PHP,47
+222873550,bytefury/crater,PHP,595
 1957456,Dolibarr/dolibarr,PHP,23
 69691727,pmmp/PocketMine-MP,PHP,13
 74026995,CodelyTV/php-ddd-example,PHP,21
