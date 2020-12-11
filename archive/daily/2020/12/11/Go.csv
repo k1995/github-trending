@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,18
+74175805,istio/istio,Go,14
+17728164,hashicorp/terraform,Go,17
+212613049,cli/cli,Go,38
+13124802,influxdata/influxdb,Go,8
+37448451,mattermost/mattermost-server,Go,12
+31288958,hashicorp/vault,Go,13
+135516270,k3s-io/k3s,Go,16
+33258973,influxdata/telegraf,Go,4
+36653430,hashicorp/nomad,Go,78
+109162639,thanos-io/thanos,Go,114
+109145553,containers/podman,Go,45
+113106184,linkerd/linkerd2,Go,6
+93444615,hashicorp/terraform-provider-aws,Go,8
+68964263,prometheus-operator/prometheus-operator,Go,19
+53174289,gruntwork-io/terratest,Go,9
+120896210,argoproj/argo-cd,Go,11
+67793333,cortexproject/cortex,Go,5
+71133469,reviewdog/reviewdog,Go,12
+88013053,docker/cli,Go,7
+264154402,crowdsecurity/crowdsec,Go,89
+43982667,hpcng/singularity,Go,9
+84575398,containernetworking/plugins,Go,4
+170803235,magma/magma,Go,0
+158012967,argoproj/argo-rollouts,Go,4

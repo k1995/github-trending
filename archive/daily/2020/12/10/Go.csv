@@ -9,7 +9,7 @@ id,name,lang,new stars
 135516270,k3s-io/k3s,Go,24
 33258973,influxdata/telegraf,Go,10
 36653430,hashicorp/nomad,Go,178
-109162639,thanos-io/thanos,Go,135
+109162639,thanos-io/thanos,Go,117
 109145553,containers/podman,Go,106
 113106184,linkerd/linkerd2,Go,9
 93444615,hashicorp/terraform-provider-aws,Go,11
