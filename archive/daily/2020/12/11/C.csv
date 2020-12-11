@@ -1,6 +1,6 @@
 id,name,lang,new stars
 36502,git/git,C,17
-569041,curl/curl,C,21
+569041,curl/curl,C,22
 18496166,gentilkiwi/mimikatz,C,9
 5254557,cloudwu/skynet,C,9
 7710647,jedisct1/libsodium,C,5
@@ -12,7 +12,7 @@ id,name,lang,new stars
 39242894,coturn/coturn,C,2
 44781140,greenplum-db/gpdb,C,2
 5383731,qemu/qemu,C,4
-8270972,ARMmbed/mbed-os,C,0
+8270972,ARMmbed/mbed-os,C,1
 6331631,axboe/fio,C,3
 29933948,fluent/fluent-bit,C,2
 1613176,tianocore/edk2,C,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 206121828,FreeRTOS/FreeRTOS,C,0
 282790925,badafans/better-cloudflare-ip,C,26
 118424053,greenbone/openvas,C,4
-2276287,riscv/riscv-isa-sim,C,1
+2276287,riscv/riscv-isa-sim,C,2
 290808391,atc1441/ATC_MiThermometer,C,19
 267350664,BrunoLevy/learn-fpga,C,7
-299867499,rizinorg/rizin,C,39
+299867499,rizinorg/rizin,C,42

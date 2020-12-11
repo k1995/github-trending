@@ -1,11 +1,11 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,829
+3482588,danielmiessler/SecLists,PHP,830
 1864363,composer/composer,PHP,228
 458058,symfony/symfony,PHP,225
 448045,sebastianbergmann/phpunit,PHP,136
 2889328,WordPress/WordPress,PHP,136
-60243197,nextcloud/server,PHP,288
-82238168,monicahq/monica,PHP,1687
+60243197,nextcloud/server,PHP,289
+82238168,monicahq/monica,PHP,1689
 13899674,thephpleague/flysystem,PHP,94
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,130
 49014795,phpstan/phpstan,PHP,127
@@ -13,8 +13,8 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,86
 2179920,woocommerce/woocommerce,PHP,94
 17452080,lcobucci/jwt,PHP,106
-41589337,BookStackApp/BookStack,PHP,147
-42261096,fuzzdb-project/fuzzdb,PHP,134
+41589337,BookStackApp/BookStack,PHP,148
+42261096,fuzzdb-project/fuzzdb,PHP,135
 60491949,fecshop/yii2_fecshop,PHP,91
 74386167,vimeo/psalm,PHP,110
 222873550,bytefury/crater,PHP,656
