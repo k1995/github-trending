@@ -1,7 +1,7 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,823
-1864363,composer/composer,PHP,225
-458058,symfony/symfony,PHP,227
+3482588,danielmiessler/SecLists,PHP,820
+1864363,composer/composer,PHP,226
+458058,symfony/symfony,PHP,226
 448045,sebastianbergmann/phpunit,PHP,138
 2889328,WordPress/WordPress,PHP,128
 82238168,monicahq/monica,PHP,1700
@@ -12,15 +12,15 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,84
 2179920,woocommerce/woocommerce,PHP,92
 17452080,lcobucci/jwt,PHP,105
-41589337,BookStackApp/BookStack,PHP,146
-14716368,invoiceninja/invoiceninja,PHP,76
-60491949,fecshop/yii2_fecshop,PHP,90
+41589337,BookStackApp/BookStack,PHP,147
+14716368,invoiceninja/invoiceninja,PHP,77
+60491949,fecshop/yii2_fecshop,PHP,89
 74386167,vimeo/psalm,PHP,110
-97311017,rectorphp/rector,PHP,189
-222873550,bytefury/crater,PHP,660
+97311017,rectorphp/rector,PHP,188
+222873550,bytefury/crater,PHP,663
 41463886,codeigniter4/CodeIgniter4,PHP,76
 1934695,xdebug/xdebug,PHP,63
-1957456,Dolibarr/dolibarr,PHP,58
+1957456,Dolibarr/dolibarr,PHP,59
 69691727,pmmp/PocketMine-MP,PHP,57
 74026995,CodelyTV/php-ddd-example,PHP,83
-311448648,laravel/breeze,PHP,434
+311448648,laravel/breeze,PHP,420
