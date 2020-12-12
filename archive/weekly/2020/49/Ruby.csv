@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,132
+8514,rails/rails,Ruby,133
 65252,jekyll/jekyll,Ruby,56
-7569578,discourse/discourse,Ruby,52
-27442967,fastlane/fastlane,Ruby,467
-8681349,huginn/huginn,Ruby,73
-21600440,bayandin/awesome-awesomeness,Ruby,50
-2293158,rapid7/metasploit-framework,Ruby,255
-308770,heartcombo/devise,Ruby,30
-3623050,Homebrew/homebrew-cask,Ruby,36
-73648678,forem/forem,Ruby,61
+7569578,discourse/discourse,Ruby,54
+27442967,fastlane/fastlane,Ruby,468
+8681349,huginn/huginn,Ruby,74
+21600440,bayandin/awesome-awesomeness,Ruby,51
+2293158,rapid7/metasploit-framework,Ruby,257
+308770,heartcombo/devise,Ruby,32
+3623050,Homebrew/homebrew-cask,Ruby,38
+73648678,forem/forem,Ruby,62
 1090311,elastic/logstash,Ruby,22
-4095287,rubocop-hq/rubocop,Ruby,16
+4095287,rubocop-hq/rubocop,Ruby,17
 3195124,mperham/sidekiq,Ruby,25
 96395,faker-ruby/faker,Ruby,17
 47087,carrierwaveuploader/carrierwave,Ruby,23
@@ -23,4 +23,4 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,40
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,19
 272141550,MeetYouDevs/cocoapods-imy-bin,Ruby,45
-306384172,geerlingguy/raspberry-pi-pcie-devices,Ruby,40
+306384172,geerlingguy/raspberry-pi-pcie-devices,Ruby,43
