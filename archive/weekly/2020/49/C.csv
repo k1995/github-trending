@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,435
-10744183,netdata/netdata,C,118
-111583593,Genymobile/scrcpy,C,380
-7634677,openssl/openssl,C,68
-3714900,arut/nginx-rtmp-module,C,35
+2325298,torvalds/linux,C,445
+10744183,netdata/netdata,C,124
+111583593,Genymobile/scrcpy,C,383
+7634677,openssl/openssl,C,72
+3714900,arut/nginx-rtmp-module,C,37
 5254557,cloudwu/skynet,C,135
-9524997,glfw/glfw,C,34
+9524997,glfw/glfw,C,35
 7715820,davatorium/rofi,C,56
-67031040,upx/upx,C,81
-179354282,acidanthera/OpenCorePkg,C,196
+67031040,upx/upx,C,88
+179354282,acidanthera/OpenCorePkg,C,198
 2328181,freebsd/freebsd,C,26
 117948953,Atmosphere-NX/Atmosphere,C,78
 35129809,transmission/transmission,C,30
@@ -17,10 +17,10 @@ id,name,lang,new stars
 59771425,zephyrproject-rtos/zephyr,C,27
 131710328,CTCaer/hekate,C,28
 45703884,olikraus/u8g2,C,14
-189044704,AFLplusplus/AFLplusplus,C,120
+189044704,AFLplusplus/AFLplusplus,C,121
 82754556,Bodmer/TFT_eSPI,C,12
-282790925,badafans/better-cloudflare-ip,C,131
+282790925,badafans/better-cloudflare-ip,C,133
 2276287,riscv/riscv-isa-sim,C,19
-290808391,atc1441/ATC_MiThermometer,C,90
-197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,13
+290808391,atc1441/ATC_MiThermometer,C,92
+197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,14
 317179870,KhaosT/ACVM,C,85
