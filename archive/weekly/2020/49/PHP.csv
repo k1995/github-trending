@@ -1,8 +1,8 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,180
+3482588,danielmiessler/SecLists,PHP,181
 2253830,PHPMailer/PHPMailer,PHP,46
 1548202,matomo-org/matomo,PHP,45
-82238168,monicahq/monica,PHP,278
+82238168,monicahq/monica,PHP,281
 7769432,vlucas/phpdotenv,PHP,29
 8678290,barryvdh/laravel-ide-helper,PHP,26
 14732311,octobercms/october,PHP,23
@@ -12,7 +12,7 @@ id,name,lang,new stars
 49014795,phpstan/phpstan,PHP,33
 2884111,magento/magento2,PHP,20
 597887,doctrine/orm,PHP,14
-11467667,typecho/typecho,PHP,34
+11467667,typecho/typecho,PHP,33
 12166778,googleapis/google-api-php-client,PHP,18
 10371103,Laravel-Lang/lang,PHP,31
 9131292,jenssegers/laravel-mongodb,PHP,43
