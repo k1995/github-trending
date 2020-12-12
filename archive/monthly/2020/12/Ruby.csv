@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,300
-7569578,discourse/discourse,Ruby,263
-27442967,fastlane/fastlane,Ruby,648
-53238813,Homebrew/brew,Ruby,1039
-13840241,freeCodeCamp/devdocs,Ruby,271
-2293158,rapid7/metasploit-framework,Ruby,492
+8514,rails/rails,Ruby,302
+7569578,discourse/discourse,Ruby,264
+27442967,fastlane/fastlane,Ruby,650
+53238813,Homebrew/brew,Ruby,1045
+13840241,freeCodeCamp/devdocs,Ruby,275
+2293158,rapid7/metasploit-framework,Ruby,491
 308770,heartcombo/devise,Ruby,103
-3623050,Homebrew/homebrew-cask,Ruby,145
+3623050,Homebrew/homebrew-cask,Ruby,146
 538746,ruby/ruby,Ruby,137
 3195124,mperham/sidekiq,Ruby,77
-11423758,mame/quine-relay,Ruby,455
+11423758,mame/quine-relay,Ruby,456
 96395,faker-ruby/faker,Ruby,66
 611921,activeadmin/activeadmin,Ruby,27
 52855516,Homebrew/homebrew-core,Ruby,229
@@ -20,7 +20,7 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,26
 1952825,Homebrew/homebrew-bundle,Ruby,57
 11426474,github/choosealicense.com,Ruby,40
-154027884,samber/awesome-prometheus-alerts,Ruby,119
+154027884,samber/awesome-prometheus-alerts,Ruby,122
 287069180,twitterdev/Twitter-API-v2-sample-code,Ruby,36
 95896046,stone-payments/ansible-winlogbeat,Ruby,0
 202142645,learn-co-curriculum/getting-remote-data-working-with-apis,Ruby,0
