@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,68
+2325298,torvalds/linux,C,56
 80286288,arendst/Tasmota,C,11
-102578345,coolsnowwolf/lede,C,15
-6201092,mpv-player/mpv,C,18
+102578345,coolsnowwolf/lede,C,14
+6201092,mpv-player/mpv,C,16
 2810292,pbatard/rufus,C,17
-246335987,ventoy/Ventoy,C,28
-90320494,ish-app/ish,C,13
+246335987,ventoy/Ventoy,C,24
+90320494,ish-app/ish,C,10
 27737393,qmk/qmk_firmware,C,11
 45821540,openwrt/openwrt,C,10
 65899476,espressif/esp-idf,C,6
 179354282,acidanthera/OpenCorePkg,C,13
-117948953,Atmosphere-NX/Atmosphere,C,15
+117948953,Atmosphere-NX/Atmosphere,C,12
 163862700,onivim/oni2,C,10
 35129809,transmission/transmission,C,5
 64060314,Screetsec/TheFatRat,C,5
