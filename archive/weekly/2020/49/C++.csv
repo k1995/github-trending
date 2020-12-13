@@ -1,8 +1,8 @@
 id,name,lang,new stars
-22067521,ocornut/imgui,C++,215
-11171548,nlohmann/json,C++,524
-74627617,commaai/openpilot,C++,344
-39840932,google/googletest,C++,117
+22067521,ocornut/imgui,C++,218
+11171548,nlohmann/json,C++,536
+74627617,commaai/openpilot,C++,348
+39840932,google/googletest,C++,115
 22394357,osquery/osquery,C++,30
 125098880,ValveSoftware/Proton,C++,162
 1062572,catchorg/Catch2,C++,118
@@ -11,16 +11,16 @@ id,name,lang,new stars
 17391973,Tencent/rapidjson,C++,226
 98771110,zhongyang219/TrafficMonitor,C++,113
 1605598,bulletphysics/bullet3,C++,44
-311683390,WerWolv/ImHex,C++,3834
-79317191,typesense/typesense,C++,283
-76990209,Aircoookie/WLED,C++,138
+311683390,WerWolv/ImHex,C++,3828
+79317191,typesense/typesense,C++,290
+76990209,Aircoookie/WLED,C++,141
 248175118,MegEngine/MegEngine,C++,183
 88327406,xmrig/xmrig,C++,37
 218686763,tindy2013/subconverter,C++,57
-27918697,versatica/mediasoup,C++,23
-198232685,deepmind/open_spiel,C++,24
-52909975,facontidavide/PlotJuggler,C++,862
+27918697,versatica/mediasoup,C++,24
+198232685,deepmind/open_spiel,C++,26
+52909975,facontidavide/PlotJuggler,C++,865
 150774287,danielkrupinski/Osiris,C++,17
 11526715,dresden-elektronik/deconz-rest-plugin,C++,23
-32278338,simulationcraft/simc,C++,14
-313445559,google/atheris,C++,392
+32278338,simulationcraft/simc,C++,15
+313445559,google/atheris,C++,394
