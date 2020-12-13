@@ -1,16 +1,16 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,830
-1864363,composer/composer,PHP,222
+3482588,danielmiessler/SecLists,PHP,832
+1864363,composer/composer,PHP,223
 458058,symfony/symfony,PHP,229
 448045,sebastianbergmann/phpunit,PHP,136
 2889328,WordPress/WordPress,PHP,129
-82238168,monicahq/monica,PHP,1712
+82238168,monicahq/monica,PHP,1713
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,131
 49014795,phpstan/phpstan,PHP,129
 29843361,w7corp/easywechat,PHP,70
 597887,doctrine/orm,PHP,85
 17452080,lcobucci/jwt,PHP,103
-14716368,invoiceninja/invoiceninja,PHP,78
+14716368,invoiceninja/invoiceninja,PHP,79
 627735,vrana/adminer,PHP,65
 60491949,fecshop/yii2_fecshop,PHP,87
 74386167,vimeo/psalm,PHP,109
@@ -19,8 +19,8 @@ id,name,lang,new stars
 222873550,bytefury/crater,PHP,666
 76064827,mailcow/mailcow-dockerized,PHP,107
 41463886,codeigniter4/CodeIgniter4,PHP,77
-1934695,xdebug/xdebug,PHP,63
-1957456,Dolibarr/dolibarr,PHP,59
+1934695,xdebug/xdebug,PHP,65
+1957456,Dolibarr/dolibarr,PHP,60
 69691727,pmmp/PocketMine-MP,PHP,56
 74026995,CodelyTV/php-ddd-example,PHP,82
 311448648,laravel/breeze,PHP,349

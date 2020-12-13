@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,143
-3482588,danielmiessler/SecLists,PHP,179
+1863329,laravel/laravel,PHP,145
+3482588,danielmiessler/SecLists,PHP,181
 1548202,matomo-org/matomo,PHP,45
 12615154,barryvdh/laravel-debugbar,PHP,32
 7769432,vlucas/phpdotenv,PHP,28
-8678290,barryvdh/laravel-ide-helper,PHP,25
+8678290,barryvdh/laravel-ide-helper,PHP,26
 14732311,octobercms/october,PHP,23
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,36
 49014795,phpstan/phpstan,PHP,28
@@ -16,11 +16,11 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,18
 30367229,LaravelCollective/html,PHP,7
 97311017,rectorphp/rector,PHP,44
-222873550,bytefury/crater,PHP,518
+222873550,bytefury/crater,PHP,478
 69691727,pmmp/PocketMine-MP,PHP,12
 47508644,pterodactyl/panel,PHP,32
 39698170,pi-hole/AdminLTE,PHP,13
 286645686,yuantuo666/baiduwp-php,PHP,32
 80719637,MiczFlor/RPi-Jukebox-RFID,PHP,12
-223535535,Ignitetch/AdvPhishing,PHP,20
-316705415,symfony/ux,PHP,40
+223535535,Ignitetch/AdvPhishing,PHP,19
+316705415,symfony/ux,PHP,35
