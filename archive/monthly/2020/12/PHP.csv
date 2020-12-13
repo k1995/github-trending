@@ -1,13 +1,13 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,825
+3482588,danielmiessler/SecLists,PHP,826
 1864363,composer/composer,PHP,220
 458058,symfony/symfony,PHP,229
 448045,sebastianbergmann/phpunit,PHP,134
 2889328,WordPress/WordPress,PHP,127
-82238168,monicahq/monica,PHP,1717
+82238168,monicahq/monica,PHP,1721
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,132
 49014795,phpstan/phpstan,PHP,127
-29843361,w7corp/easywechat,PHP,69
+29843361,w7corp/easywechat,PHP,70
 597887,doctrine/orm,PHP,87
 17452080,lcobucci/jwt,PHP,103
 14716368,invoiceninja/invoiceninja,PHP,79
@@ -21,6 +21,6 @@ id,name,lang,new stars
 41463886,codeigniter4/CodeIgniter4,PHP,76
 1934695,xdebug/xdebug,PHP,65
 1957456,Dolibarr/dolibarr,PHP,60
-69691727,pmmp/PocketMine-MP,PHP,55
+69691727,pmmp/PocketMine-MP,PHP,56
 74026995,CodelyTV/php-ddd-example,PHP,82
 311448648,laravel/breeze,PHP,325

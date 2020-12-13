@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,442
-10744183,netdata/netdata,C,119
-111583593,Genymobile/scrcpy,C,362
+2325298,torvalds/linux,C,450
+10744183,netdata/netdata,C,120
+111583593,Genymobile/scrcpy,C,363
 7634677,openssl/openssl,C,68
 3714900,arut/nginx-rtmp-module,C,36
 5254557,cloudwu/skynet,C,138
 9524997,glfw/glfw,C,32
 7715820,davatorium/rofi,C,56
-67031040,upx/upx,C,88
-179354282,acidanthera/OpenCorePkg,C,192
-2328181,freebsd/freebsd,C,25
+67031040,upx/upx,C,89
+179354282,acidanthera/OpenCorePkg,C,193
+2328181,freebsd/freebsd,C,26
 117948953,Atmosphere-NX/Atmosphere,C,67
 35129809,transmission/transmission,C,29
 7037996,VirusTotal/yara,C,219
@@ -19,8 +19,8 @@ id,name,lang,new stars
 45703884,olikraus/u8g2,C,12
 189044704,AFLplusplus/AFLplusplus,C,120
 82754556,Bodmer/TFT_eSPI,C,12
-282790925,badafans/better-cloudflare-ip,C,133
+282790925,badafans/better-cloudflare-ip,C,135
 2276287,riscv/riscv-isa-sim,C,18
 290808391,atc1441/ATC_MiThermometer,C,90
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,14
-317179870,KhaosT/ACVM,C,68
+317179870,KhaosT/ACVM,C,69
