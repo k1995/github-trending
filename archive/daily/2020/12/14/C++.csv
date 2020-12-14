@@ -1,15 +1,15 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,61
 44838949,apple/swift,C++,26
-15634981,godotengine/godot,C++,26
-11171548,nlohmann/json,C++,129
-74627617,commaai/openpilot,C++,226
+15634981,godotengine/godot,C++,22
+11171548,nlohmann/json,C++,109
+74627617,commaai/openpilot,C++,206
 67702184,topjohnwu/Magisk,C++,17
 126412363,simdjson/simdjson,C++,11
-2200856,MarlinFirmware/Marlin,C++,13
+2200856,MarlinFirmware/Marlin,C++,8
 7512484,ArduPilot/ardupilot,C++,10
 153866232,TheCherno/Hazel,C++,7
-76990209,Aircoookie/WLED,C++,20
+76990209,Aircoookie/WLED,C++,18
 1764646,wxWidgets/wxWidgets,C++,3
 24677392,CGAL/cgal,C++,4
 236648333,flightlessmango/MangoHud,C++,9
@@ -21,6 +21,6 @@ id,name,lang,new stars
 207245092,stenzek/duckstation,C++,16
 315842054,knownsec/shellcodeloader,C++,78
 238262758,mongoose-os-apps/shelly-homekit,C++,4
-75194811,FransBouma/InjectableGenericCameraSystem,C++,4
+75194811,FransBouma/InjectableGenericCameraSystem,C++,6
 173681491,simplefoc/Arduino-FOC,C++,5
-319543324,Tamaren1/Freevalve_Arduino,C++,11
+319543324,Tamaren1/Freevalve_Arduino,C++,9
