@@ -2,11 +2,11 @@ id,name,lang,new stars
 121395510,CyC2018/CS-Notes,Java,593
 132464395,Snailclimb/JavaGuide,Java,508
 1148753,spring-projects/spring-framework,Java,157
-4710920,apache/dubbo,Java,60
-9754983,eugenp/tutorials,Java,109
-146633589,alibaba/arthas,Java,89
+4710920,apache/dubbo,Java,61
+9754983,eugenp/tutorials,Java,112
+146633589,alibaba/arthas,Java,90
 53127403,ctripcorp/apollo,Java,96
-163387337,seata/seata,Java,89
+163387337,seata/seata,Java,90
 112785414,alibaba/spring-cloud-alibaba,Java,117
 15823460,redisson/redisson,Java,85
 20587599,apache/flink,Java,93
@@ -14,8 +14,8 @@ id,name,lang,new stars
 66179765,dyc87112/SpringBoot-Learning,Java,51
 1911523,eclipse-vertx/vert.x,Java,57
 112717963,android-hacker/VirtualXposed,Java,59
-118497841,GoogleContainerTools/jib,Java,45
-19777812,seven332/EhViewer,Java,66
+118497841,GoogleContainerTools/jib,Java,47
+19777812,seven332/EhViewer,Java,67
 160779969,li-xiaojun/XPopup,Java,34
 8121707,mybatis/generator,Java,21
 81226206,intuit/karate,Java,32
@@ -23,4 +23,4 @@ id,name,lang,new stars
 76474200,apache/hudi,Java,25
 218019748,ElderDrivers/EdXposedManager,Java,23
 206334176,yueyi2019/online-taxi,Java,192
-311241324,xiaojieonly/Ehviewer_CN_SXJ,Java,80
+311241324,xiaojieonly/Ehviewer_CN_SXJ,Java,82
