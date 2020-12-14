@@ -1,25 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,250
-21289110,vinta/awesome-python,Python,543
-126577260,trekhleb/javascript-algorithms,JavaScript,670
-132750724,danistefanovic/build-your-own-x,,227
-241576270,labuladong/fucking-algorithm,,474
-62607227,yangshun/tech-interview-handbook,JavaScript,196
-11171548,nlohmann/json,C++,163
-136026789,iperov/DeepFaceLab,Python,93
-74627617,commaai/openpilot,C++,231
-16334982,Olshansk/interview,,435
-227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,42
-319758964,rocky-linux/rocky,,1470
-287463830,microsoft/qlib,Python,566
-316705066,peng-zhihui/PocketLCD,,97
-317239950,getmeli/meli,TypeScript,509
-294947067,aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE,Python,227
-221489076,Netflix/consoleme,Python,350
-248739733,justinzm/gopup,Python,284
-318309101,brndnmtthws/thetagang,Python,279
-313674213,ossf/criticality_score,Python,304
-303162873,rougier/nano-emacs,Emacs Lisp,96
-320035116,typesense/showcase-recipe-search,JavaScript,161
-317394200,camtheperson/get-my-ps5,JavaScript,118
-320158877,rocky-linux/infrastructure,HTML,107
+13491895,EbookFoundation/free-programming-books,,241
+21289110,vinta/awesome-python,Python,502
+132750724,danistefanovic/build-your-own-x,,213
+241576270,labuladong/fucking-algorithm,,362
+136026789,iperov/DeepFaceLab,Python,92
+74627617,commaai/openpilot,C++,226
+220809393,willmcgugan/rich,Python,110
+102578345,coolsnowwolf/lede,C,37
+121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,19
+16334982,Olshansk/interview,,234
+319758964,rocky-linux/rocky,,1161
+48242990,RobinLinus/snapdrop,JavaScript,389
+7454197,YosysHQ/yosys,C++,7
+317239950,getmeli/meli,TypeScript,291
+294947067,aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE,Python,226
+258012772,sphawes/index,C++,17
+221489076,Netflix/consoleme,Python,227
+320848715,n7olkachev/imgdiff,Go,370
+207245092,stenzek/duckstation,C++,16
+318309101,brndnmtthws/thetagang,Python,248
+315842054,knownsec/shellcodeloader,C++,78
+316539944,projectdiscovery/proxify,Go,154
+303162873,rougier/nano-emacs,Emacs Lisp,107
+320158877,rocky-linux/infrastructure,HTML,105
+320463378,rocky-linux/rockylinux.org,HTML,28
