@@ -1,12 +1,12 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,837
-1864363,composer/composer,PHP,223
+3482588,danielmiessler/SecLists,PHP,838
+1864363,composer/composer,PHP,224
 458058,symfony/symfony,PHP,232
 448045,sebastianbergmann/phpunit,PHP,136
-2889328,WordPress/WordPress,PHP,132
-82238168,monicahq/monica,PHP,1742
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,133
-49014795,phpstan/phpstan,PHP,130
+2889328,WordPress/WordPress,PHP,133
+82238168,monicahq/monica,PHP,1744
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,134
+49014795,phpstan/phpstan,PHP,131
 29843361,w7corp/easywechat,PHP,70
 597887,doctrine/orm,PHP,87
 677464,doctrine/dbal,PHP,110
@@ -14,10 +14,10 @@ id,name,lang,new stars
 14716368,invoiceninja/invoiceninja,PHP,84
 627735,vrana/adminer,PHP,65
 60491949,fecshop/yii2_fecshop,PHP,87
-74386167,vimeo/psalm,PHP,109
-97311017,rectorphp/rector,PHP,192
-95011974,akaunting/akaunting,PHP,85
-222873550,bytefury/crater,PHP,670
+74386167,vimeo/psalm,PHP,110
+97311017,rectorphp/rector,PHP,193
+95011974,akaunting/akaunting,PHP,86
+222873550,bytefury/crater,PHP,671
 41463886,codeigniter4/CodeIgniter4,PHP,77
 1934695,xdebug/xdebug,PHP,66
 1957456,Dolibarr/dolibarr,PHP,61
