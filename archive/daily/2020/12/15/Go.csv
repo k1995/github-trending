@@ -1,20 +1,20 @@
 id,name,lang,new stars
-48378947,fatedier/frp,Go,29
-29207621,caddyserver/caddy,Go,24
+48378947,fatedier/frp,Go,28
+29207621,caddyserver/caddy,Go,22
 3577919,beego/beego,Go,33
 56353740,kubernetes/minikube,Go,10
-16563587,cockroachdb/cockroach,Go,7
+16563587,cockroachdb/cockroach,Go,6
 8966356,hashicorp/packer,Go,3
 42332863,filebrowser/filebrowser,Go,20
 148545807,kubernetes-sigs/kind,Go,7
-153099672,inancgumus/learngo,Go,29
+153099672,inancgumus/learngo,Go,30
 62712899,AdguardTeam/AdGuardHome,Go,7
-201658460,geektutu/7days-golang,Go,106
+201658460,geektutu/7days-golang,Go,107
 181461073,v2fly/v2ray-core,Go,22
 30219994,adonovan/gopl.io,Go,2
 115436884,spiral/roadrunner,Go,7
 49765480,lightningnetwork/lnd,Go,7
-92648433,gwuhaolin/livego,Go,34
+92648433,gwuhaolin/livego,Go,33
 11931032,btcsuite/btcd,Go,4
 26639347,OJ/gobuster,Go,8
 127519518,projectdiscovery/subfinder,Go,10
