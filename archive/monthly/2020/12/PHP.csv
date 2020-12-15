@@ -1,9 +1,9 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,579
-3482588,danielmiessler/SecLists,PHP,836
+3482588,danielmiessler/SecLists,PHP,833
 1864363,composer/composer,PHP,215
 458058,symfony/symfony,PHP,231
-448045,sebastianbergmann/phpunit,PHP,131
+448045,sebastianbergmann/phpunit,PHP,132
 2889328,WordPress/WordPress,PHP,131
 82238168,monicahq/monica,PHP,1773
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,133
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,62
 69691727,pmmp/PocketMine-MP,PHP,51
 74026995,CodelyTV/php-ddd-example,PHP,80
-311448648,laravel/breeze,PHP,283
+311448648,laravel/breeze,PHP,282
