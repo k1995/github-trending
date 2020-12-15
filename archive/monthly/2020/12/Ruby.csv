@@ -1,19 +1,19 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,297
 65252,jekyll/jekyll,Ruby,231
-7569578,discourse/discourse,Ruby,259
-27442967,fastlane/fastlane,Ruby,654
-53238813,Homebrew/brew,Ruby,1012
+7569578,discourse/discourse,Ruby,257
+27442967,fastlane/fastlane,Ruby,656
+53238813,Homebrew/brew,Ruby,1023
 13840241,freeCodeCamp/devdocs,Ruby,277
 2293158,rapid7/metasploit-framework,Ruby,479
-308770,heartcombo/devise,Ruby,105
-3623050,Homebrew/homebrew-cask,Ruby,141
+308770,heartcombo/devise,Ruby,104
+3623050,Homebrew/homebrew-cask,Ruby,140
 538746,ruby/ruby,Ruby,136
 3195124,mperham/sidekiq,Ruby,74
 11423758,mame/quine-relay,Ruby,405
-96395,faker-ruby/faker,Ruby,67
-611921,activeadmin/activeadmin,Ruby,28
-52855516,Homebrew/homebrew-core,Ruby,230
+96395,faker-ruby/faker,Ruby,66
+611921,activeadmin/activeadmin,Ruby,29
+52855516,Homebrew/homebrew-core,Ruby,234
 9746477,sonic-pi-net/sonic-pi,Ruby,1135
 21829,thoughtbot/factory_bot,Ruby,37
 277089,flyerhzm/bullet,Ruby,43
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1548802,activerecord-hackery/ransack,Ruby,26
 1952825,Homebrew/homebrew-bundle,Ruby,59
 154027884,samber/awesome-prometheus-alerts,Ruby,128
-287069180,twitterdev/Twitter-API-v2-sample-code,Ruby,34
+287069180,twitterdev/Twitter-API-v2-sample-code,Ruby,35
 95896046,stone-payments/ansible-winlogbeat,Ruby,0
