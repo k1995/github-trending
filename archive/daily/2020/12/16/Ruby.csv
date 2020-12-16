@@ -1,20 +1,20 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,10
+65252,jekyll/jekyll,Ruby,12
 8681349,huginn/huginn,Ruby,9
-53238813,Homebrew/brew,Ruby,41
-308770,heartcombo/devise,Ruby,5
-481872,hashicorp/vagrant,Ruby,4
+53238813,Homebrew/brew,Ruby,39
+308770,heartcombo/devise,Ruby,7
+481872,hashicorp/vagrant,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,5
-3314,spree/spree,Ruby,53
+3314,spree/spree,Ruby,43
 3195124,mperham/sidekiq,Ruby,1
 361310,teamcapybara/capybara,Ruby,2
 96395,faker-ruby/faker,Ruby,2
 611921,activeadmin/activeadmin,Ruby,0
-275604,resque/resque,Ruby,1
+275604,resque/resque,Ruby,2
 1333863,kaminari/kaminari,Ruby,1
 6529205,varvet/pundit,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,0
-16994115,CanCanCommunity/cancancan,Ruby,0
+16994115,CanCanCommunity/cancancan,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,2
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,4
 1734,aasm/aasm,Ruby,1
