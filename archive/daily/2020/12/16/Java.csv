@@ -7,7 +7,7 @@ id,name,lang,new stars
 6207167,mockito/mockito,Java,9
 6650539,neo4j/neo4j,Java,7
 89822531,Anuken/Mindustry,Java,21
-133134007,OpenAPITools/openapi-generator,Java,4
+133134007,OpenAPITools/openapi-generator,Java,6
 139914932,quarkusio/quarkus,Java,10
 36793280,resilience4j/resilience4j,Java,4
 12499251,checkstyle/checkstyle,Java,13
@@ -15,7 +15,7 @@ id,name,lang,new stars
 32848140,apache/zeppelin,Java,1
 16446099,cryptomator/cryptomator,Java,5
 7517918,spring-projects/spring-petclinic,Java,2
-3786237,hazelcast/hazelcast,Java,2
+3786237,hazelcast/hazelcast,Java,1
 75882172,Netflix/conductor,Java,2
 237867883,metersphere/metersphere,Java,13
 58194180,strimzi/strimzi-kafka-operator,Java,2
