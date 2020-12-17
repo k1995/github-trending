@@ -8,7 +8,7 @@ id,name,lang,new stars
 3431193,yiisoft/yii2,PHP,0
 11323319,erusev/parsedown,PHP,2
 42480275,spatie/laravel-permission,PHP,1
-2699935,squizlabs/PHP_CodeSniffer,PHP,1
+2699935,squizlabs/PHP_CodeSniffer,PHP,2
 6763587,PrestaShop/PrestaShop,PHP,3
 9826184,elastic/elasticsearch-php,PHP,1
 30915528,spatie/laravel-backup,PHP,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 2784293,php-amqplib/php-amqplib,PHP,1
 4224042,roundcube/roundcubemail,PHP,1
 159606650,hyperf/hyperf,PHP,4
-10855394,itsgoingd/clockwork,PHP,12
+10855394,itsgoingd/clockwork,PHP,10
 117567334,spatie/laravel-query-builder,PHP,1
 80249302,craftcms/cms,PHP,1
 13914116,librenms/librenms,PHP,1
 56836583,postaddictme/instagram-php-scraper,PHP,2
 174021137,inertiajs/pingcrm,PHP,2
-195836215,magicblack/maccms10,PHP,2
+195836215,magicblack/maccms10,PHP,1
