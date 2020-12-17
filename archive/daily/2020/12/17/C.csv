@@ -1,12 +1,12 @@
 id,name,lang,new stars
-13233158,obsproject/obs-studio,C,38
-34921116,iovisor/bcc,C,11
-140656,jonas/tig,C,53
-24993138,google/brotli,C,4
+13233158,obsproject/obs-studio,C,37
+34921116,iovisor/bcc,C,13
+140656,jonas/tig,C,51
+24993138,google/brotli,C,7
 40217904,swaywm/sway,C,6
-30291090,i3/i3,C,11
-184909163,koekeishiya/yabai,C,31
-60667730,lvgl/lvgl,C,11
+30291090,i3/i3,C,14
+184909163,koekeishiya/yabai,C,32
+60667730,lvgl/lvgl,C,10
 2755696,mattn/go-sqlite3,C,1
 5213091,baskerville/bspwm,C,50
 59771425,zephyrproject-rtos/zephyr,C,6
@@ -18,9 +18,9 @@ id,name,lang,new stars
 254327261,sandboxie-plus/Sandboxie,C,16
 40556106,wazuh/wazuh,C,7
 5410234,OISF/suricata,C,3
-481977,stephane/libmodbus,C,2
-189044704,AFLplusplus/AFLplusplus,C,43
-189627391,NVIDIA/Q2RTX,C,10
+481977,stephane/libmodbus,C,1
+189044704,AFLplusplus/AFLplusplus,C,34
+189627391,NVIDIA/Q2RTX,C,11
 102832172,everettjf/AppleTrace,C,4
 228103273,apache/incubator-nuttx,C,1
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,2
