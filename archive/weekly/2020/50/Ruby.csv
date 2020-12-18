@@ -1,17 +1,17 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,120
-65252,jekyll/jekyll,Ruby,55
-7569578,discourse/discourse,Ruby,61
-21600440,bayandin/awesome-awesomeness,Ruby,43
-53238813,Homebrew/brew,Ruby,221
-308770,heartcombo/devise,Ruby,36
+65252,jekyll/jekyll,Ruby,54
+7569578,discourse/discourse,Ruby,60
+21600440,bayandin/awesome-awesomeness,Ruby,41
+53238813,Homebrew/brew,Ruby,220
+308770,heartcombo/devise,Ruby,35
 481872,hashicorp/vagrant,Ruby,41
-3623050,Homebrew/homebrew-cask,Ruby,24
+3623050,Homebrew/homebrew-cask,Ruby,23
 3314,spree/spree,Ruby,125
-3195124,mperham/sidekiq,Ruby,15
+3195124,mperham/sidekiq,Ruby,14
 96395,faker-ruby/faker,Ruby,12
-52855516,Homebrew/homebrew-core,Ruby,53
-9746477,sonic-pi-net/sonic-pi,Ruby,476
+52855516,Homebrew/homebrew-core,Ruby,51
+9746477,sonic-pi-net/sonic-pi,Ruby,452
 21829,thoughtbot/factory_bot,Ruby,8
 2441517,puma/puma,Ruby,10
 277089,flyerhzm/bullet,Ruby,5
@@ -20,7 +20,7 @@ id,name,lang,new stars
 904810,rubysherpas/paranoia,Ruby,2
 614070,rubygems/rubygems,Ruby,8
 26094060,logstash-plugins/logstash-patterns-core,Ruby,10
-200302808,github/view_component,Ruby,66
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,26
+200302808,github/view_component,Ruby,67
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,28
 272141550,MeetYouDevs/cocoapods-imy-bin,Ruby,75
 306384172,geerlingguy/raspberry-pi-pcie-devices,Ruby,73
