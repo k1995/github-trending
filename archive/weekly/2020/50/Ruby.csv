@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,110
+8514,rails/rails,Ruby,102
 65252,jekyll/jekyll,Ruby,61
-7569578,discourse/discourse,Ruby,60
+7569578,discourse/discourse,Ruby,63
 21600440,bayandin/awesome-awesomeness,Ruby,38
-53238813,Homebrew/brew,Ruby,215
-13840241,freeCodeCamp/devdocs,Ruby,75
-308770,heartcombo/devise,Ruby,34
-481872,hashicorp/vagrant,Ruby,43
+53238813,Homebrew/brew,Ruby,211
+13840241,freeCodeCamp/devdocs,Ruby,73
+308770,heartcombo/devise,Ruby,32
+481872,hashicorp/vagrant,Ruby,42
 3623050,Homebrew/homebrew-cask,Ruby,25
 3314,spree/spree,Ruby,127
 96395,faker-ruby/faker,Ruby,11
 611921,activeadmin/activeadmin,Ruby,7
 52855516,Homebrew/homebrew-core,Ruby,52
-9746477,sonic-pi-net/sonic-pi,Ruby,300
+9746477,sonic-pi-net/sonic-pi,Ruby,270
 22059578,ankane/pghero,Ruby,19
 1314319,instructure/canvas-lms,Ruby,19
 30985840,solidusio/solidus,Ruby,11
@@ -23,4 +23,4 @@ id,name,lang,new stars
 26094060,logstash-plugins/logstash-patterns-core,Ruby,10
 200302808,github/view_component,Ruby,66
 272141550,MeetYouDevs/cocoapods-imy-bin,Ruby,72
-306384172,geerlingguy/raspberry-pi-pcie-devices,Ruby,75
+306384172,geerlingguy/raspberry-pi-pcie-devices,Ruby,74
