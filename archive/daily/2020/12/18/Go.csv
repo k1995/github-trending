@@ -5,7 +5,7 @@ id,name,lang,new stars
 31288958,hashicorp/vault,Go,10
 61137153,evanw/esbuild,Go,19
 26337322,rancher/rancher,Go,11
-8966356,hashicorp/packer,Go,247
+8966356,hashicorp/packer,Go,255
 36071697,ory/hydra,Go,14
 163883279,nektos/act,Go,25
 11593442,golang/groupcache,Go,8
@@ -19,8 +19,8 @@ id,name,lang,new stars
 94897336,imgproxy/imgproxy,Go,16
 79954708,dominikh/go-tools,Go,7
 105262714,oauth2-proxy/oauth2-proxy,Go,10
-271250363,k0sproject/k0s,Go,100
+271250363,k0sproject/k0s,Go,86
 74499101,roboll/helmfile,Go,12
 95363214,instrumenta/kubeval,Go,4
 51193526,cosmos/cosmos-sdk,Go,2
-313853293,cloudquery/cloudquery,Go,84
+313853293,cloudquery/cloudquery,Go,82
