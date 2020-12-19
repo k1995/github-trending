@@ -1,15 +1,15 @@
 id,name,lang,new stars
 17620347,dotnet/aspnetcore,C#,17
-199570071,2dust/v2rayN,C#,35
-29078997,dotnet/roslyn,C#,6
-1327739,icsharpcode/ILSpy,C#,23
+199570071,2dust/v2rayN,C#,39
+29078997,dotnet/roslyn,C#,8
+1327739,icsharpcode/ILSpy,C#,31
 14964475,AvaloniaUI/Avalonia,C#,11
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,7
-28232663,dotnet/orleans,C#,9
+28232663,dotnet/orleans,C#,8
 17369361,jbogard/MediatR,C#,5
 75505125,abpframework/abp,C#,4
 203892454,kgrzybek/modular-monolith-with-ddd,C#,7
-35291446,itinance/react-native-fs,C#,2
+35291446,itinance/react-native-fs,C#,4
 19216825,xamarin/xamarin-forms-samples,C#,1
 164140756,files-community/Files,C#,12
 68730444,microsoft/BotBuilder-Samples,C#,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 47261966,grandnode/grandnode,C#,2
 187499284,Cysharp/UniTask,C#,5
 51595028,OPCFoundation/UA-.NETStandard,C#,1
-60792909,microsoft/Cognitive-Samples-IntelligentKiosk,C#,11
-263503250,Azure/bicep,C#,23
+60792909,microsoft/Cognitive-Samples-IntelligentKiosk,C#,13
+263503250,Azure/bicep,C#,20
 322003344,tjackenpacken/taskbar-groups,C#,67
-184479355,head-first-csharp/fourth-edition,C#,5
+184479355,head-first-csharp/fourth-edition,C#,9
