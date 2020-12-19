@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,306
+8514,rails/rails,Ruby,308
 65252,jekyll/jekyll,Ruby,241
 7569578,discourse/discourse,Ruby,250
 27442967,fastlane/fastlane,Ruby,657
-53238813,Homebrew/brew,Ruby,1001
-2293158,rapid7/metasploit-framework,Ruby,478
+53238813,Homebrew/brew,Ruby,1005
+2293158,rapid7/metasploit-framework,Ruby,479
 308770,heartcombo/devise,Ruby,115
-3623050,Homebrew/homebrew-cask,Ruby,135
+3623050,Homebrew/homebrew-cask,Ruby,137
 3314,spree/spree,Ruby,187
 3195124,mperham/sidekiq,Ruby,72
 11423758,mame/quine-relay,Ruby,410
@@ -14,7 +14,7 @@ id,name,lang,new stars
 611921,activeadmin/activeadmin,Ruby,31
 52855516,Homebrew/homebrew-core,Ruby,247
 1725199,github/linguist,Ruby,81
-9746477,sonic-pi-net/sonic-pi,Ruby,1151
+9746477,sonic-pi-net/sonic-pi,Ruby,1152
 1548802,activerecord-hackery/ransack,Ruby,28
 1952825,Homebrew/homebrew-bundle,Ruby,59
 614070,rubygems/rubygems,Ruby,29
@@ -22,5 +22,5 @@ id,name,lang,new stars
 270054,ffi/ffi,Ruby,19
 200302808,github/view_component,Ruby,156
 272141550,MeetYouDevs/cocoapods-imy-bin,Ruby,142
-306384172,geerlingguy/raspberry-pi-pcie-devices,Ruby,92
+306384172,geerlingguy/raspberry-pi-pcie-devices,Ruby,94
 286806264,Dwire/mod2_pactice_camping_is_fun,Ruby,0

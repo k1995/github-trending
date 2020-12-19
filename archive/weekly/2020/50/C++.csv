@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,295
-23357588,protocolbuffers/protobuf,C++,146
-65600975,pytorch/pytorch,C++,248
-11171548,nlohmann/json,C++,335
+1181927,bitcoin/bitcoin,C++,314
+23357588,protocolbuffers/protobuf,C++,148
+65600975,pytorch/pytorch,C++,249
+11171548,nlohmann/json,C++,338
 1116542,aria2/aria2,C++,86
 74627617,commaai/openpilot,C++,1539
-22394357,osquery/osquery,C++,28
+22394357,osquery/osquery,C++,29
 31522041,vnpy/vnpy,C++,69
 125098880,ValveSoftware/Proton,C++,104
 87335980,EOSIO/eos,C++,13
@@ -15,11 +15,11 @@ id,name,lang,new stars
 47690142,CoatiSoftware/Sourcetrail,C++,63
 26255337,cameron314/concurrentqueue,C++,27
 15379620,PCSX2/pcsx2,C++,26
-79317191,typesense/typesense,C++,320
+79317191,typesense/typesense,C++,323
 88327406,xmrig/xmrig,C++,29
-3884981,juce-framework/JUCE,C++,26
+3884981,juce-framework/JUCE,C++,27
 267792621,Tencent/TNN,C++,46
-240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,540
+240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,544
 256049233,microsoft/ProjectReunion,C++,147
 9880335,qt/qtbase,C++,17
 28058713,henrypp/memreduct,C++,32
