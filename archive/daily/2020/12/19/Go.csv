@@ -1,11 +1,11 @@
 id,name,lang,new stars
 23096959,golang/go,Go,65
-14125254,hashicorp/consul,Go,31
+14125254,hashicorp/consul,Go,29
 13124802,influxdata/influxdb,Go,13
 13628513,sirupsen/logrus,Go,10
 61137153,evanw/esbuild,Go,24
 41349039,dgraph-io/dgraph,Go,17
-8966356,hashicorp/packer,Go,233
+8966356,hashicorp/packer,Go,225
 97533102,halfrost/LeetCode-Go,Go,75
 163883279,nektos/act,Go,35
 4022652,gomodule/redigo,Go,5
@@ -17,8 +17,8 @@ id,name,lang,new stars
 53174289,gruntwork-io/terratest,Go,4
 32153390,jung-kurt/gofpdf,Go,3
 16607984,DATA-DOG/go-sqlmock,Go,8
-271250363,k0sproject/k0s,Go,215
-74499101,roboll/helmfile,Go,9
+271250363,k0sproject/k0s,Go,217
+74499101,roboll/helmfile,Go,8
 43237167,gdamore/tcell,Go,4
 93446042,terraform-providers/terraform-provider-azurerm,Go,3
 51193526,cosmos/cosmos-sdk,Go,3
