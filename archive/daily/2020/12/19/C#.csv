@@ -1,6 +1,6 @@
 id,name,lang,new stars
 29078997,dotnet/roslyn,C#,6
-46652227,IdentityServer/IdentityServer4,C#,6
+46652227,IdentityServer/IdentityServer4,C#,7
 28232663,dotnet/orleans,C#,9
 46755185,bitwarden/server,C#,9
 44897462,JustArchiNET/ArchiSteamFarm,C#,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 263503250,Azure/bicep,C#,23
 145907688,microsoft/fhir-server,C#,1
 321604446,mubix/solarflare,C#,21
-184479355,head-first-csharp/fourth-edition,C#,6
+184479355,head-first-csharp/fourth-edition,C#,5
