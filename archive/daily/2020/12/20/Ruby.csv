@@ -6,7 +6,7 @@ id,name,lang,new stars
 2500088,gitlabhq/gitlabhq,Ruby,0
 3623050,Homebrew/homebrew-cask,Ruby,5
 37382858,kilimchoi/engineering-blogs,Ruby,13
-538746,ruby/ruby,Ruby,7
+538746,ruby/ruby,Ruby,11
 73648678,forem/forem,Ruby,7
 2203645,CocoaPods/CocoaPods,Ruby,4
 202291859,chatwoot/chatwoot,Ruby,4
@@ -16,9 +16,9 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,2
 30985840,solidusio/solidus,Ruby,3
 39706711,hartator/wayback-machine-downloader,Ruby,2
-3898922,zammad/zammad,Ruby,3
+3898922,zammad/zammad,Ruby,4
 103766152,github/explore,Ruby,3
-502760,danbooru/danbooru,Ruby,2
+502760,danbooru/danbooru,Ruby,3
 8154497,rubysec/ruby-advisory-db,Ruby,0
 56847793,dry-rb/dry-monads,Ruby,1
 321801248,isene/astropanel,Ruby,15
