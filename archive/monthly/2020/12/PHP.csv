@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,598
+1863329,laravel/laravel,PHP,599
 1129010,blueimp/jQuery-File-Upload,PHP,69
-3482588,danielmiessler/SecLists,PHP,854
+3482588,danielmiessler/SecLists,PHP,857
 458058,symfony/symfony,PHP,231
-448045,sebastianbergmann/phpunit,PHP,135
-1548202,matomo-org/matomo,PHP,156
-82238168,monicahq/monica,PHP,1843
+448045,sebastianbergmann/phpunit,PHP,136
+1548202,matomo-org/matomo,PHP,157
+82238168,monicahq/monica,PHP,1844
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,141
 49014795,phpstan/phpstan,PHP,136
 29843361,w7corp/easywechat,PHP,87
@@ -13,9 +13,9 @@ id,name,lang,new stars
 17452080,lcobucci/jwt,PHP,102
 6763587,PrestaShop/PrestaShop,PHP,75
 627735,vrana/adminer,PHP,69
-10883164,barryvdh/laravel-dompdf,PHP,60
-4565995,phpseclib/phpseclib,PHP,56
-74386167,vimeo/psalm,PHP,182
+10883164,barryvdh/laravel-dompdf,PHP,61
+4565995,phpseclib/phpseclib,PHP,58
+74386167,vimeo/psalm,PHP,183
 2464908,joomla/joomla-cms,PHP,21
 97311017,rectorphp/rector,PHP,184
 222873550,bytefury/crater,PHP,702

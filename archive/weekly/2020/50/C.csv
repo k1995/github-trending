@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,479
-111583593,Genymobile/scrcpy,C,329
+2325298,torvalds/linux,C,486
+111583593,Genymobile/scrcpy,C,331
 1614410,FFmpeg/FFmpeg,C,143
 18666758,pjreddie/darknet,C,78
 7634677,openssl/openssl,C,57
-102578345,coolsnowwolf/lede,C,166
+102578345,coolsnowwolf/lede,C,167
 29759715,facebook/zstd,C,317
 34921116,iovisor/bcc,C,60
-45821540,openwrt/openwrt,C,65
-60667730,lvgl/lvgl,C,66
+45821540,openwrt/openwrt,C,66
+60667730,lvgl/lvgl,C,67
 50824485,processhacker/processhacker,C,40
 59771425,zephyrproject-rtos/zephyr,C,29
 59676171,KevinOConnor/klipper,C,23
@@ -16,11 +16,11 @@ id,name,lang,new stars
 27584181,espressif/ESP8266_RTOS_SDK,C,13
 40556106,wazuh/wazuh,C,39
 5410234,OISF/suricata,C,16
-206121828,FreeRTOS/FreeRTOS,C,35
-189044704,AFLplusplus/AFLplusplus,C,100
-282790925,badafans/better-cloudflare-ip,C,96
+206121828,FreeRTOS/FreeRTOS,C,36
+189044704,AFLplusplus/AFLplusplus,C,101
+282790925,badafans/better-cloudflare-ip,C,97
 259858821,peng-zhihui/Project-Quantum,C,57
-144465372,RfidResearchGroup/proxmark3,C,18
-299867499,rizinorg/rizin,C,127
+144465372,RfidResearchGroup/proxmark3,C,19
+299867499,rizinorg/rizin,C,128
 149233191,binbyu/Reader,C,59
 209527239,HansKristian-Work/vkd3d-proton,C,32
