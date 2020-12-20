@@ -2,13 +2,13 @@ id,name,lang,new stars
 151834062,doocs/advanced-java,Java,18
 127988011,macrozheng/mall,Java,27
 9754983,eugenp/tutorials,Java,12
-173228436,NationalSecurityAgency/ghidra,Java,106
+173228436,NationalSecurityAgency/ghidra,Java,98
 53127403,ctripcorp/apollo,Java,8
 267775629,geekxh/hello-algorithm,Java,20
 163387337,seata/seata,Java,6
 41889031,TeamNewPipe/NewPipe,Java,16
 5349565,prestodb/presto,Java,1
-715605,redis/jedis,Java,3
+715605,redis/jedis,Java,4
 11125589,keycloak/keycloak,Java,6
 139914932,quarkusio/quarkus,Java,12
 124230204,micronaut-projects/micronaut-core,Java,3
@@ -19,8 +19,8 @@ id,name,lang,new stars
 107932176,microservices-patterns/ftgo-application,Java,2
 212488700,pytorch/serve,Java,5
 146941185,firebase/firebase-android-sdk,Java,0
+231921809,supertokens/supertokens-core,Java,278
 131394823,apache/dubbo-samples,Java,0
-231921809,supertokens/supertokens-core,Java,281
 284279366,GoogleLLP/SuperMarket,Java,18
 22305416,apache/ranger,Java,0
 206414745,hyperledger/besu,Java,0
