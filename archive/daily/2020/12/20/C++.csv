@@ -1,10 +1,10 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,66
-1181927,bitcoin/bitcoin,C++,125
+100060912,microsoft/terminal,C++,72
+1181927,bitcoin/bitcoin,C++,120
 23357588,protocolbuffers/protobuf,C++,12
-22067521,ocornut/imgui,C++,48
+22067521,ocornut/imgui,C++,55
 1062572,catchorg/Catch2,C++,2
-32969220,esp8266/Arduino,C++,9
+32969220,esp8266/Arduino,C++,8
 66088979,changkun/modern-cpp-tutorial,C++,50
 34777562,ossrs/srs,C++,4
 7056202,fmtlib/fmt,C++,3
@@ -16,11 +16,11 @@ id,name,lang,new stars
 46374199,IntelRealSense/librealsense,C++,5
 5909706,yhirose/cpp-httplib,C++,9
 1320594,SpiderLabs/ModSecurity,C++,2
-146330145,ggerganov/kbd-audio,C++,85
+146330145,ggerganov/kbd-audio,C++,61
 11986447,xournalpp/xournalpp,C++,2
 52882701,prusa3d/PrusaSlicer,C++,4
 267792621,Tencent/TNN,C++,6
-240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,100
+240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,90
 99108990,microsoft/EdgeML,C++,4
 215374692,paolo-projects/auto-unlocker,C++,6
 278684830,facebookresearch/rebel,C++,6
