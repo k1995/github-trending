@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,315
-23357588,protocolbuffers/protobuf,C++,139
-65600975,pytorch/pytorch,C++,224
-11171548,nlohmann/json,C++,255
+1181927,bitcoin/bitcoin,C++,326
+23357588,protocolbuffers/protobuf,C++,140
+65600975,pytorch/pytorch,C++,226
+11171548,nlohmann/json,C++,257
 1116542,aria2/aria2,C++,78
-74627617,commaai/openpilot,C++,1509
+74627617,commaai/openpilot,C++,1510
 22394357,osquery/osquery,C++,29
 31522041,vnpy/vnpy,C++,66
 125098880,ValveSoftware/Proton,C++,89
@@ -18,8 +18,8 @@ id,name,lang,new stars
 79317191,typesense/typesense,C++,293
 88327406,xmrig/xmrig,C++,27
 3884981,juce-framework/JUCE,C++,20
-267792621,Tencent/TNN,C++,45
-240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,533
+267792621,Tencent/TNN,C++,46
+240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,537
 256049233,microsoft/ProjectReunion,C++,144
 9880335,qt/qtbase,C++,16
 28058713,henrypp/memreduct,C++,24
