@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,582
+1863329,laravel/laravel,PHP,585
 1129010,blueimp/jQuery-File-Upload,PHP,71
-3482588,danielmiessler/SecLists,PHP,840
+3482588,danielmiessler/SecLists,PHP,838
 458058,symfony/symfony,PHP,230
-448045,sebastianbergmann/phpunit,PHP,133
+448045,sebastianbergmann/phpunit,PHP,136
 1548202,matomo-org/matomo,PHP,152
-82238168,monicahq/monica,PHP,1848
+82238168,monicahq/monica,PHP,1849
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,139
-49014795,phpstan/phpstan,PHP,132
+49014795,phpstan/phpstan,PHP,134
 29843361,w7corp/easywechat,PHP,86
 597887,doctrine/orm,PHP,76
 6660366,dompdf/dompdf,PHP,96
@@ -16,11 +16,11 @@ id,name,lang,new stars
 627735,vrana/adminer,PHP,66
 4565995,phpseclib/phpseclib,PHP,59
 74386167,vimeo/psalm,PHP,180
-97311017,rectorphp/rector,PHP,180
-222873550,bytefury/crater,PHP,709
+97311017,rectorphp/rector,PHP,181
+222873550,bytefury/crater,PHP,712
 41463886,codeigniter4/CodeIgniter4,PHP,63
-148129143,bagisto/bagisto,PHP,96
+148129143,bagisto/bagisto,PHP,97
 1934695,xdebug/xdebug,PHP,69
-1957456,Dolibarr/dolibarr,PHP,66
-74026995,CodelyTV/php-ddd-example,PHP,79
-274912708,ZainCheung/netease-cloud-api,PHP,92
+1957456,Dolibarr/dolibarr,PHP,67
+74026995,CodelyTV/php-ddd-example,PHP,78
+274912708,ZainCheung/netease-cloud-api,PHP,94
