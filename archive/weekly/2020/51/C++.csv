@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,509
-23357588,protocolbuffers/protobuf,C++,132
-65600975,pytorch/pytorch,C++,221
-15634981,godotengine/godot,C++,146
-22067521,ocornut/imgui,C++,352
-74627617,commaai/openpilot,C++,711
+1181927,bitcoin/bitcoin,C++,516
+23357588,protocolbuffers/protobuf,C++,136
+65600975,pytorch/pytorch,C++,222
+15634981,godotengine/godot,C++,149
+22067521,ocornut/imgui,C++,361
+74627617,commaai/openpilot,C++,712
 22394357,osquery/osquery,C++,27
 31522041,vnpy/vnpy,C++,74
 20570214,google/tink,Java,42
@@ -13,14 +13,14 @@ id,name,lang,new stars
 160083795,SerenityOS/serenity,C++,78
 204593825,microsoft/STL,C++,45
 26255337,cameron314/concurrentqueue,C++,30
-79317191,typesense/typesense,C++,140
-5909706,yhirose/cpp-httplib,C++,59
-320921453,yamashi/CyberEngineTweaks,C++,1706
+79317191,typesense/typesense,C++,143
+5909706,yhirose/cpp-httplib,C++,60
+320921453,yamashi/CyberEngineTweaks,C++,1730
 267792621,Tencent/TNN,C++,49
 99919302,apache/incubator-doris,C++,24
 147106288,OneLoneCoder/olcPixelGameEngine,C++,31
 240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,544
 256049233,microsoft/ProjectReunion,C++,115
 9880335,qt/qtbase,C++,16
-207245092,stenzek/duckstation,C++,417
+207245092,stenzek/duckstation,C++,419
 258012772,sphawes/index,C++,29
