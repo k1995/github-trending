@@ -11,12 +11,12 @@ id,name,lang,new stars
 3199002,raspberrypi/linux,C,4
 36749153,microsoft/react-native-code-push,C,5
 75811015,Tencent/xLua,C,5
-179354282,acidanthera/OpenCorePkg,C,52
-70127218,espressif/arduino-esp32,C,5
+179354282,acidanthera/OpenCorePkg,C,30
+70127218,espressif/arduino-esp32,C,6
 7408108,RT-Thread/rt-thread,C,3
-16734696,meetecho/janus-gateway,C,4
+16734696,meetecho/janus-gateway,C,3
 105944401,yugabyte/yugabyte-db,C,3
-22711503,gcc-mirror/gcc,C,6
+22711503,gcc-mirror/gcc,C,7
 68063511,tsl0922/ttyd,C,5
 58132544,RediSearch/RediSearch,C,3
 224151065,Immediate-Mode-UI/Nuklear,C,9
