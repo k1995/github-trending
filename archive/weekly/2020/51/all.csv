@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,3821
-1181927,bitcoin/bitcoin,C++,525
-162998479,sherlock-project/sherlock,Python,1125
-207645083,tannerlinsley/react-query,TypeScript,286
-16989371,MichMich/MagicMirror,JavaScript,120
-8966356,hashicorp/packer,Go,902
-66088979,changkun/modern-cpp-tutorial,C++,1131
+60493101,jwasham/coding-interview-university,,3808
+1181927,bitcoin/bitcoin,C++,521
+22067521,ocornut/imgui,C++,446
+169677297,vlang/v,V,697
+162998479,sherlock-project/sherlock,Python,999
+202890778,chakra-ui/chakra-ui,TypeScript,642
+8966356,hashicorp/packer,Go,899
+34777562,ossrs/srs,C++,117
 26133979,mozilla-mobile/firefox-ios,Swift,158
-262296122,PaddlePaddle/PaddleOCR,Python,712
-319758964,rocky-linux/rocky,,1663
+262296122,PaddlePaddle/PaddleOCR,Python,548
+160083795,SerenityOS/serenity,C++,93
 23500865,hyperium/hyper,Rust,41
-71323749,callstack/react-native-paper,TypeScript,279
 4644745,GoogleChrome/chrome-extensions-samples,JavaScript,136
-48242990,RobinLinus/snapdrop,JavaScript,871
-237867883,metersphere/metersphere,Java,436
-276414382,microsoft/playwright-python,Python,641
-286490065,UnityTechnologies/open-project-1,C#,295
-252813491,projectdiscovery/nuclei,Go,334
-315289427,vijishmadhavan/ArtLine,Jupyter Notebook,1433
-294947067,aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE,Python,470
-319984743,benawad/vsinder,TypeScript,379
-295774370,mdn/content,HTML,564
-285633667,abuanwar072/E-commerce-Complete-Flutter-UI,Dart,294
-313853293,cloudquery/cloudquery,Go,355
+48242990,RobinLinus/snapdrop,JavaScript,723
+234798675,bevyengine/bevy,Rust,395
+237867883,metersphere/metersphere,Java,431
+320921453,yamashi/CyberEngineTweaks,C++,1178
+286490065,UnityTechnologies/open-project-1,C#,300
+252813491,projectdiscovery/nuclei,Go,338
+315289427,vijishmadhavan/ArtLine,Jupyter Notebook,1452
+294947067,aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE,Python,359
+319984743,benawad/vsinder,TypeScript,352
+295774370,mdn/content,HTML,509
 304883425,EvineDeng/jd-base,Shell,257
+263503250,Azure/bicep,C#,71
