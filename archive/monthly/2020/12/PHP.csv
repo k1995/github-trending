@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,594
+1863329,laravel/laravel,PHP,593
 1129010,blueimp/jQuery-File-Upload,PHP,75
-3482588,danielmiessler/SecLists,PHP,866
+3482588,danielmiessler/SecLists,PHP,871
 458058,symfony/symfony,PHP,233
 448045,sebastianbergmann/phpunit,PHP,139
-82238168,monicahq/monica,PHP,1862
-47495360,koel/koel,PHP,107
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,139
+82238168,monicahq/monica,PHP,1863
+47495360,koel/koel,PHP,108
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,141
 49014795,phpstan/phpstan,PHP,140
-29843361,w7corp/easywechat,PHP,89
+29843361,w7corp/easywechat,PHP,91
 597887,doctrine/orm,PHP,76
 6660366,dompdf/dompdf,PHP,100
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,65
@@ -16,11 +16,11 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,76
 627735,vrana/adminer,PHP,66
 4565995,phpseclib/phpseclib,PHP,61
-74386167,vimeo/psalm,PHP,183
+74386167,vimeo/psalm,PHP,184
 97311017,rectorphp/rector,PHP,182
-222873550,bytefury/crater,PHP,726
+222873550,bytefury/crater,PHP,727
 41463886,codeigniter4/CodeIgniter4,PHP,69
 1934695,xdebug/xdebug,PHP,72
 1957456,Dolibarr/dolibarr,PHP,69
-74026995,CodelyTV/php-ddd-example,PHP,77
+74026995,CodelyTV/php-ddd-example,PHP,78
 274912708,ZainCheung/netease-cloud-api,PHP,101
