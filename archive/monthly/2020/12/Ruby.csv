@@ -1,20 +1,20 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,307
+8514,rails/rails,Ruby,308
 65252,jekyll/jekyll,Ruby,240
-7569578,discourse/discourse,Ruby,239
+7569578,discourse/discourse,Ruby,242
 27442967,fastlane/fastlane,Ruby,643
-21600440,bayandin/awesome-awesomeness,Ruby,170
-53238813,Homebrew/brew,Ruby,916
-2293158,rapid7/metasploit-framework,Ruby,468
-308770,heartcombo/devise,Ruby,107
+21600440,bayandin/awesome-awesomeness,Ruby,171
+53238813,Homebrew/brew,Ruby,919
+2293158,rapid7/metasploit-framework,Ruby,467
+308770,heartcombo/devise,Ruby,108
 3623050,Homebrew/homebrew-cask,Ruby,126
 37382858,kilimchoi/engineering-blogs,Ruby,120
 3314,spree/spree,Ruby,188
-11423758,mame/quine-relay,Ruby,361
+11423758,mame/quine-relay,Ruby,360
 611921,activeadmin/activeadmin,Ruby,31
-52855516,Homebrew/homebrew-core,Ruby,246
-1725199,github/linguist,Ruby,85
-9746477,sonic-pi-net/sonic-pi,Ruby,1153
+52855516,Homebrew/homebrew-core,Ruby,248
+1725199,github/linguist,Ruby,87
+9746477,sonic-pi-net/sonic-pi,Ruby,1154
 6529205,varvet/pundit,Ruby,35
 1548802,activerecord-hackery/ransack,Ruby,28
 950915,urbanadventurer/WhatWeb,Ruby,67
@@ -22,5 +22,5 @@ id,name,lang,new stars
 270054,ffi/ffi,Ruby,17
 200302808,github/view_component,Ruby,158
 272141550,MeetYouDevs/cocoapods-imy-bin,Ruby,155
-306384172,geerlingguy/raspberry-pi-pcie-devices,Ruby,116
+306384172,geerlingguy/raspberry-pi-pcie-devices,Ruby,118
 229187949,shivammathur/homebrew-php,Ruby,78
