@@ -1,6 +1,6 @@
 id,name,lang,new stars
-23096959,golang/go,Go,39
-21540759,avelino/awesome-go,Go,33
+23096959,golang/go,Go,40
+21540759,avelino/awesome-go,Go,35
 20904437,gin-gonic/gin,Go,32
 42408804,traefik/traefik,Go,13
 15452919,ethereum/go-ethereum,Go,13
@@ -9,7 +9,7 @@ id,name,lang,new stars
 156084530,ehang-io/nps,Go,20
 167304464,cortexlabs/cortex,Go,9
 153099672,inancgumus/learngo,Go,20
-134012064,pion/webrtc,Go,15
+134012064,pion/webrtc,Go,16
 28366058,docker/distribution,Go,1
 9524057,prometheus/node_exporter,Go,3
 121086193,99designs/gqlgen,Go,6
@@ -19,7 +19,7 @@ id,name,lang,new stars
 41561105,go-resty/resty,Go,11
 206213815,chaos-mesh/chaos-mesh,Go,4
 43225113,mikefarah/yq,Go,12
-266445736,owncast/owncast,Go,469
+266445736,owncast/owncast,Go,470
 252813491,projectdiscovery/nuclei,Go,52
 120181748,kiali/kiali,Go,3
 103084166,accurics/terrascan,Go,12
