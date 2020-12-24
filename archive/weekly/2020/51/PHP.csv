@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,136
+1863329,laravel/laravel,PHP,138
 2579314,fzaninotto/Faker,PHP,77
 1420053,guzzle/guzzle,PHP,37
-448045,sebastianbergmann/phpunit,PHP,38
+448045,sebastianbergmann/phpunit,PHP,39
 1631570,nikic/PHP-Parser,PHP,39
 3431193,yiisoft/yii2,PHP,8
 60243197,nextcloud/server,PHP,80
-12615154,barryvdh/laravel-debugbar,PHP,44
+12615154,barryvdh/laravel-debugbar,PHP,45
 49014795,phpstan/phpstan,PHP,34
-12166778,googleapis/google-api-php-client,PHP,21
+12166778,googleapis/google-api-php-client,PHP,22
 2141186,opencart/opencart,PHP,13
-86350964,the-benchmarker/web-frameworks,PHP,31
+86350964,the-benchmarker/web-frameworks,PHP,33
 4565995,phpseclib/phpseclib,PHP,26
 8875190,Ocramius/ProxyManager,PHP,12
 31541210,aimeos/aimeos-laravel,PHP,52
