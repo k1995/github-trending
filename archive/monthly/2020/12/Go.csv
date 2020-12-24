@@ -1,18 +1,18 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1205
-20580498,kubernetes/kubernetes,Go,1209
-20904437,gin-gonic/gin,Go,932
-48378947,fatedier/frp,Go,916
-14712850,syncthing/syncthing,Go,676
-11225014,etcd-io/etcd,Go,493
+23096959,golang/go,Go,1212
+20580498,kubernetes/kubernetes,Go,1212
+20904437,gin-gonic/gin,Go,930
+48378947,fatedier/frp,Go,917
+14712850,syncthing/syncthing,Go,677
+11225014,etcd-io/etcd,Go,495
 15452919,ethereum/go-ethereum,Go,312
 17803236,rclone/rclone,Go,751
-72495579,go-gitea/gitea,Go,726
+72495579,go-gitea/gitea,Go,728
 156084530,ehang-io/nps,Go,518
 165041732,go-kratos/kratos,Go,506
-54400687,loadimpact/k6,Go,3236
-97533102,halfrost/LeetCode-Go,Go,1178
-163883279,nektos/act,Go,608
+54400687,loadimpact/k6,Go,3237
+97533102,halfrost/LeetCode-Go,Go,1179
+163883279,nektos/act,Go,609
 33258973,influxdata/telegraf,Go,135
 109162639,thanos-io/thanos,Go,670
 167304464,cortexlabs/cortex,Go,300
@@ -21,6 +21,6 @@ id,name,lang,new stars
 205679232,flipped-aurora/gin-vue-admin,Go,480
 26661222,tinode/chat,Go,119
 285864199,tal-tech/go-zero,Go,1310
-67828134,cri-o/cri-o,Go,358
+67828134,cri-o/cri-o,Go,359
 252813491,projectdiscovery/nuclei,Go,575
-117156031,prysmaticlabs/prysm,Go,477
+117156031,prysmaticlabs/prysm,Go,478
