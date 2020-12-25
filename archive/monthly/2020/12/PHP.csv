@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,600
+1863329,laravel/laravel,PHP,588
 1129010,blueimp/jQuery-File-Upload,PHP,78
-3482588,danielmiessler/SecLists,PHP,884
+3482588,danielmiessler/SecLists,PHP,880
 458058,symfony/symfony,PHP,233
 448045,sebastianbergmann/phpunit,PHP,149
-1548202,matomo-org/matomo,PHP,160
-82238168,monicahq/monica,PHP,1867
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,138
-49014795,phpstan/phpstan,PHP,140
-29843361,w7corp/easywechat,PHP,86
+1548202,matomo-org/matomo,PHP,159
+82238168,monicahq/monica,PHP,1865
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,134
+49014795,phpstan/phpstan,PHP,136
+29843361,w7corp/easywechat,PHP,85
 597887,doctrine/orm,PHP,78
 6660366,dompdf/dompdf,PHP,103
 12166778,googleapis/google-api-php-client,PHP,72
@@ -16,10 +16,10 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,75
 627735,vrana/adminer,PHP,69
 4565995,phpseclib/phpseclib,PHP,59
-74386167,vimeo/psalm,PHP,187
+74386167,vimeo/psalm,PHP,186
 95011974,akaunting/akaunting,PHP,98
-222873550,bytefury/crater,PHP,731
-41463886,codeigniter4/CodeIgniter4,PHP,72
+222873550,bytefury/crater,PHP,730
+41463886,codeigniter4/CodeIgniter4,PHP,69
 1934695,xdebug/xdebug,PHP,73
 56836583,postaddictme/instagram-php-scraper,PHP,43
 74026995,CodelyTV/php-ddd-example,PHP,82

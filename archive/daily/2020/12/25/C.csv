@@ -1,6 +1,6 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,88
-10744183,netdata/netdata,C,103
+10744183,netdata/netdata,C,113
 156018,redis/redis,C,51
 80286288,arendst/Tasmota,C,24
 102578345,coolsnowwolf/lede,C,25
@@ -9,7 +9,7 @@ id,name,lang,new stars
 3714900,arut/nginx-rtmp-module,C,15
 23029617,h2o/h2o,C,2
 613829,openresty/lua-nginx-module,C,6
-45821540,openwrt/openwrt,C,19
+45821540,openwrt/openwrt,C,20
 109762904,leandromoreira/ffmpeg-libav-tutorial,C,4
 65899476,espressif/esp-idf,C,7
 186749,nodejs/http-parser,C,5
