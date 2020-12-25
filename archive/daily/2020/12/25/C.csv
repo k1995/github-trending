@@ -1,6 +1,6 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,88
-10744183,netdata/netdata,C,113
+10744183,netdata/netdata,C,117
 156018,redis/redis,C,51
 80286288,arendst/Tasmota,C,24
 102578345,coolsnowwolf/lede,C,25
@@ -13,7 +13,7 @@ id,name,lang,new stars
 109762904,leandromoreira/ffmpeg-libav-tutorial,C,4
 65899476,espressif/esp-idf,C,7
 186749,nodejs/http-parser,C,5
-2328181,freebsd/freebsd,C,9
+2328181,freebsd/freebsd,C,8
 60667730,lvgl/lvgl,C,17
 16734696,meetecho/janus-gateway,C,10
 192805335,microsoft/mimalloc,C,7
