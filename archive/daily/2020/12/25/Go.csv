@@ -8,7 +8,7 @@ id,name,lang,new stars
 52034309,uber-go/zap,Go,13
 29371034,micro/micro,Go,30
 31660590,emirpasic/gods,Go,16
-80087836,dgraph-io/badger,Go,9
+80087836,dgraph-io/badger,Go,10
 62921553,rook/rook,Go,6
 65434192,tidwall/gjson,Go,6
 72477752,pulumi/pulumi,Go,20
@@ -19,7 +19,7 @@ id,name,lang,new stars
 9120526,jackc/pgx,Go,8
 25261765,go-gomail/gomail,Go,7
 43225113,mikefarah/yq,Go,8
-266445736,owncast/owncast,Go,433
+266445736,owncast/owncast,Go,460
 149515625,fluxcd/flagger,Go,5
 229030654,go-git/go-git,Go,7
 51023040,eclipse/paho.mqtt.golang,Go,2
