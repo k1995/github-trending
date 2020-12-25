@@ -1,15 +1,15 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,139
-2579314,fzaninotto/Faker,PHP,77
+2579314,fzaninotto/Faker,PHP,78
 1420053,guzzle/guzzle,PHP,38
-448045,sebastianbergmann/phpunit,PHP,40
-1631570,nikic/PHP-Parser,PHP,39
+448045,sebastianbergmann/phpunit,PHP,41
+1631570,nikic/PHP-Parser,PHP,41
 3431193,yiisoft/yii2,PHP,8
 60243197,nextcloud/server,PHP,80
 12615154,barryvdh/laravel-debugbar,PHP,45
 49014795,phpstan/phpstan,PHP,34
 12166778,googleapis/google-api-php-client,PHP,22
-2141186,opencart/opencart,PHP,13
+2141186,opencart/opencart,PHP,15
 86350964,the-benchmarker/web-frameworks,PHP,33
 4565995,phpseclib/phpseclib,PHP,26
 8875190,Ocramius/ProxyManager,PHP,12
