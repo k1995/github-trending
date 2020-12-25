@@ -1,6 +1,6 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,88
-10744183,netdata/netdata,C,103
+10744183,netdata/netdata,C,117
 2810455,ggreer/the_silver_searcher,C,13
 569041,curl/curl,C,15
 196353673,taosdata/TDengine,C,8
@@ -10,12 +10,12 @@ id,name,lang,new stars
 15337142,micropython/micropython,C,7
 47409672,hashcat/hashcat,C,9
 32873313,systemd/systemd,C,10
-45821540,openwrt/openwrt,C,19
-41215835,HandBrake/HandBrake,C,10
+45821540,openwrt/openwrt,C,20
+41215835,HandBrake/HandBrake,C,9
 5414488,cesanta/mongoose,C,6
 65899476,espressif/esp-idf,C,7
 13310527,jemalloc/jemalloc,C,5
-2328181,freebsd/freebsd,C,9
+2328181,freebsd/freebsd,C,8
 192805335,microsoft/mimalloc,C,7
 58132544,RediSearch/RediSearch,C,2
 205810121,CloverHackyColor/CloverBootloader,C,9
