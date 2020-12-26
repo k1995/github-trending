@@ -1,21 +1,21 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,516
+132464395,Snailclimb/JavaGuide,Java,517
 6296790,spring-projects/spring-boot,Java,191
-151834062,doocs/advanced-java,Java,283
-892275,square/retrofit,Java,67
-1064563,netty/netty,Java,84
+151834062,doocs/advanced-java,Java,284
+892275,square/retrofit,Java,76
+1064563,netty/netty,Java,98
 146633589,alibaba/arthas,Java,110
-173228436,NationalSecurityAgency/ghidra,Java,801
+173228436,NationalSecurityAgency/ghidra,Java,807
 163387337,seata/seata,Java,106
 131789494,wuyouzhuguli/SpringAll,Java,137
 126178683,halo-dev/halo,Java,114
-20587599,apache/flink,Java,85
-75164823,apache/rocketmq,Java,88
+20587599,apache/flink,Java,97
+75164823,apache/rocketmq,Java,101
 148496687,YunaiV/SpringBoot-Labs,Java,110
 117965972,alibaba/DataX,Java,74
 85371262,williamfiset/Algorithms,Java,141
 139914932,quarkusio/quarkus,Java,80
-138361150,doocs/jvm,Java,948
+138361150,doocs/jvm,Java,949
 237867883,metersphere/metersphere,Java,310
 143175496,cabaletta/baritone,Java,45
 222578036,WeiYe-Jing/datax-web,Java,72
@@ -23,4 +23,4 @@ id,name,lang,new stars
 231921809,supertokens/supertokens-core,Java,1400
 19753195,openhab/openhab-addons,Java,3
 237358779,AOF-Dev/MCinaBox,Java,28
-197545351,Creators-of-Create/Create,Java,37
+197545351,Creators-of-Create/Create,Java,40
