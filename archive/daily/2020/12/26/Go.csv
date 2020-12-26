@@ -1,7 +1,7 @@
 id,name,lang,new stars
-23096959,golang/go,Go,111
-11180687,gohugoio/hugo,Go,56
-48378947,fatedier/frp,Go,70
+23096959,golang/go,Go,113
+11180687,gohugoio/hugo,Go,57
+48378947,fatedier/frp,Go,72
 138547797,FiloSottile/mkcert,Go,80
 41986369,pingcap/tidb,Go,51
 29261473,minio/minio,Go,45
@@ -23,4 +23,4 @@ id,name,lang,new stars
 141339868,cockroachdb/pebble,Go,8
 95058978,swaggo/gin-swagger,Go,7
 45836781,gin-contrib/cors,Go,5
-318397674,kitabisa/ssb,Go,395
+318397674,kitabisa/ssb,Go,394
