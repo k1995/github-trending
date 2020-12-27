@@ -1,9 +1,9 @@
 id,name,lang,new stars
-23096959,golang/go,Go,291
-21540759,avelino/awesome-go,Go,179
-48378947,fatedier/frp,Go,238
+23096959,golang/go,Go,292
+21540759,avelino/awesome-go,Go,180
+48378947,fatedier/frp,Go,240
 8900723,inconshreveable/ngrok,Go,44
-156084530,ehang-io/nps,Go,114
+156084530,ehang-io/nps,Go,115
 29217054,asim/go-micro,Go,75
 41349039,dgraph-io/dgraph,Go,50
 129717717,grafana/loki,Go,81
@@ -11,7 +11,7 @@ id,name,lang,new stars
 16554739,elastic/beats,Go,25
 31660590,emirpasic/gods,Go,75
 116576783,bettercap/bettercap,Go,49
-153099672,inancgumus/learngo,Go,674
+153099672,inancgumus/learngo,Go,695
 11206255,Shopify/sarama,Go,56
 134012064,pion/webrtc,Go,94
 150954997,VictoriaMetrics/VictoriaMetrics,Go,47
@@ -23,4 +23,4 @@ id,name,lang,new stars
 79585104,matrix-org/dendrite,Go,14
 175592968,volcano-sh/volcano,Go,11
 267713284,projectdiscovery/httpx,Go,35
-279592699,rancher/harvester,Go,96
+279592699,rancher/harvester,Go,98
