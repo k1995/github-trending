@@ -2,13 +2,13 @@ id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,35
 39840932,google/googletest,C++,6
 67702184,topjohnwu/Magisk,C++,25
-19374812,telegramdesktop/tdesktop,C++,18
+19374812,telegramdesktop/tdesktop,C++,17
 107794782,trojan-gfw/trojan,C++,6
 116167731,yuzu-emu/yuzu,C++,14
 7056202,fmtlib/fmt,C++,70
-2200856,MarlinFirmware/Marlin,C++,28
+2200856,MarlinFirmware/Marlin,C++,27
 6520784,RPCS3/rpcs3,C++,2
-104231541,abseil/abseil-cpp,C++,8
+104231541,abseil/abseil-cpp,C++,7
 192025001,Qv2ray/Qv2ray,C++,14
 11577304,dolphin-emu/dolphin,C++,6
 19316619,monero-project/monero,C++,6
@@ -16,7 +16,7 @@ id,name,lang,new stars
 1049088,openscad/openscad,C++,2
 89067146,ethereum-mining/ethminer,C++,6
 11986447,xournalpp/xournalpp,C++,9
-128479644,esphome/esphome,C++,51
+128479644,esphome/esphome,C++,49
 240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,210
 147106288,OneLoneCoder/olcPixelGameEngine,C++,1
 105425210,rachitiitr/DataStructures-Algorithms,C++,8
