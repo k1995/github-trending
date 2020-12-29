@@ -1,17 +1,17 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,18
-65252,jekyll/jekyll,Ruby,14
-7569578,discourse/discourse,Ruby,9
-27442967,fastlane/fastlane,Ruby,7
+65252,jekyll/jekyll,Ruby,12
+7569578,discourse/discourse,Ruby,11
+27442967,fastlane/fastlane,Ruby,11
 53238813,Homebrew/brew,Ruby,22
 13840241,freeCodeCamp/devdocs,Ruby,11
-2293158,rapid7/metasploit-framework,Ruby,13
-52281283,tootsuite/mastodon,Ruby,7
-538746,ruby/ruby,Ruby,10
+2293158,rapid7/metasploit-framework,Ruby,14
+52281283,tootsuite/mastodon,Ruby,12
+538746,ruby/ruby,Ruby,13
 37382858,kilimchoi/engineering-blogs,Ruby,9
 1918677,fluent/fluentd,Ruby,3
 611921,activeadmin/activeadmin,Ruby,3
-52855516,Homebrew/homebrew-core,Ruby,6
+52855516,Homebrew/homebrew-core,Ruby,10
 1333863,kaminari/kaminari,Ruby,1
 9746477,sonic-pi-net/sonic-pi,Ruby,5
 202291859,chatwoot/chatwoot,Ruby,12
@@ -23,4 +23,4 @@ id,name,lang,new stars
 8154497,rubysec/ruby-advisory-db,Ruby,0
 321647551,hotwired/hotwire-rails,Ruby,33
 58825797,openhab/openhab-docs,Ruby,1
-324047712,gorails-screencasts/hotwire-twitter-clone,Ruby,4
+324047712,gorails-screencasts/hotwire-twitter-clone,Ruby,5
