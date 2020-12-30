@@ -4,8 +4,8 @@ id,name,lang,new stars
 80286288,arendst/Tasmota,C,14
 66150122,jarun/nnn,C,37
 613829,openresty/lua-nginx-module,C,6
-70127218,espressif/arduino-esp32,C,75
-13836499,raysan5/raylib,C,147
+70127218,espressif/arduino-esp32,C,76
+13836499,raysan5/raylib,C,145
 54280778,DaveGamble/cJSON,C,7
 89315980,SecWiki/windows-kernel-exploits,C,6
 105944401,yugabyte/yugabyte-db,C,5
@@ -19,7 +19,7 @@ id,name,lang,new stars
 481977,stephane/libmodbus,C,4
 71525630,mackron/miniaudio,C,5
 119086992,RavenSystem/esp-homekit-devices,C,4
-272457606,jart/cosmopolitan,C,111
+272457606,jart/cosmopolitan,C,112
 322475728,bytedance/ByteDance-HIDS,C,48
 324805121,ant4g0nist/Vulnerable-Kext,C,42
 110468178,MicrochipTech/gcp-iot-core-examples,C,4
