@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,42
 184456251,microsoft/PowerToys,C++,78
+1181927,bitcoin/bitcoin,C++,42
 65600975,pytorch/pytorch,C++,34
 15634981,godotengine/godot,C++,39
-1357796,emscripten-core/emscripten,C++,8
+1357796,emscripten-core/emscripten,C++,7
 39840932,google/googletest,C++,17
 67702184,topjohnwu/Magisk,C++,39
 1062572,catchorg/Catch2,C++,9
 54360307,uNetworking/uWebSockets,C++,6
 64991887,microsoft/LightGBM,C++,13
-1217614,xbmc/xbmc,C++,143
+1217614,xbmc/xbmc,C++,142
 191820100,google/mediapipe,C++,35
-2200856,MarlinFirmware/Marlin,C++,86
-40892817,ethereum/solidity,C++,31
+2200856,MarlinFirmware/Marlin,C++,85
+40892817,ethereum/solidity,C++,29
 12756992,opencv/opencv_contrib,C++,2
 7512484,ArduPilot/ardupilot,C++,7
 26255337,cameron314/concurrentqueue,C++,7
