@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,130
-3482588,danielmiessler/SecLists,PHP,152
-7548986,laravel/framework,PHP,59
-53783664,easychen/howto-make-more-money,PHP,490
-60243197,nextcloud/server,PHP,75
+1863329,laravel/laravel,PHP,132
+3482588,danielmiessler/SecLists,PHP,155
+7548986,laravel/framework,PHP,60
+53783664,easychen/howto-make-more-money,PHP,513
+60243197,nextcloud/server,PHP,79
 12615154,barryvdh/laravel-debugbar,PHP,39
-72069409,the-control-group/voyager,PHP,35
+72069409,the-control-group/voyager,PHP,37
 48796179,z-song/laravel-admin,PHP,27
-61490598,PHPOffice/PhpSpreadsheet,PHP,31
+61490598,PHPOffice/PhpSpreadsheet,PHP,35
 2141186,opencart/opencart,PHP,15
-86350964,the-benchmarker/web-frameworks,PHP,33
+86350964,the-benchmarker/web-frameworks,PHP,34
 12204147,mautic/mautic,PHP,21
 97311017,rectorphp/rector,PHP,44
-95011974,akaunting/akaunting,PHP,37
+95011974,akaunting/akaunting,PHP,38
 76064827,mailcow/mailcow-dockerized,PHP,26
-159606650,hyperf/hyperf,PHP,37
+159606650,hyperf/hyperf,PHP,38
 148129143,bagisto/bagisto,PHP,23
 117649937,hhxsv5/laravel-s,PHP,20
 44733816,privacy-protection-tools/anti-AD,PHP,39
@@ -22,4 +22,4 @@ id,name,lang,new stars
 93982796,Tuhinshubhra/RED_HAWK,PHP,10
 39698170,pi-hole/AdminLTE,PHP,11
 80719637,MiczFlor/RPi-Jukebox-RFID,PHP,13
-274912708,ZainCheung/netease-cloud-api,PHP,28
+274912708,ZainCheung/netease-cloud-api,PHP,29
