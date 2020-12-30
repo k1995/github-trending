@@ -1,12 +1,12 @@
 id,name,lang,new stars
-36502,git/git,C,15
+36502,git/git,C,17
 80286288,arendst/Tasmota,C,14
-15337142,micropython/micropython,C,4
+15337142,micropython/micropython,C,5
 927442,postgres/postgres,C,6
 9524997,glfw/glfw,C,5
-70127218,espressif/arduino-esp32,C,76
+70127218,espressif/arduino-esp32,C,75
 18106269,lz4/lz4,C,6
-13836499,raysan5/raylib,C,145
+13836499,raysan5/raylib,C,147
 3791835,darktable-org/darktable,C,50
 16734696,meetecho/janus-gateway,C,5
 673267,redis/hiredis,C,2
