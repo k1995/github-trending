@@ -1,7 +1,7 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C++,217
+184456251,microsoft/PowerToys,C++,215
 1181927,bitcoin/bitcoin,C++,44
-65600975,pytorch/pytorch,C++,30
+65600975,pytorch/pytorch,C++,29
 15634981,godotengine/godot,C++,40
 1357796,emscripten-core/emscripten,C++,8
 39840932,google/googletest,C++,15
@@ -9,17 +9,17 @@ id,name,lang,new stars
 1062572,catchorg/Catch2,C++,7
 54360307,uNetworking/uWebSockets,C++,3
 64991887,microsoft/LightGBM,C++,8
-1217614,xbmc/xbmc,C++,149
+1217614,xbmc/xbmc,C++,137
 191820100,google/mediapipe,C++,20
-2200856,MarlinFirmware/Marlin,C++,52
-40892817,ethereum/solidity,C++,51
+2200856,MarlinFirmware/Marlin,C++,53
+40892817,ethereum/solidity,C++,53
 12756992,opencv/opencv_contrib,C++,0
 7512484,ArduPilot/ardupilot,C++,6
 26255337,cameron314/concurrentqueue,C++,6
 156939672,microsoft/onnxruntime,C++,5
 75413130,intel-isl/Open3D,C++,6
 89067146,ethereum-mining/ethminer,C++,3
-240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,61
+240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,62
 6148317,OSGeo/gdal,C++,1
 237647258,meshtastic/Meshtastic-device,C++,5
 197211881,alvr-org/ALVR,C++,5
