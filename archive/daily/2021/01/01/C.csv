@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,100
-36502,git/git,C,26
-1903522,php/php-src,C,13
-5101141,stedolan/jq,C,20
-14812739,libuv/libuv,C,8
-11715753,robertdavidgraham/masscan,C,20
-11397939,allinurl/goaccess,C,17
+2325298,torvalds/linux,C,101
+36502,git/git,C,28
+1903522,php/php-src,C,16
+5101141,stedolan/jq,C,19
+14812739,libuv/libuv,C,9
+11715753,robertdavidgraham/masscan,C,22
+11397939,allinurl/goaccess,C,18
 5254557,cloudwu/skynet,C,13
 613829,openresty/lua-nginx-module,C,7
 105627846,reactos/reactos,C,4
-70127218,espressif/arduino-esp32,C,19
-65899476,espressif/esp-idf,C,13
+70127218,espressif/arduino-esp32,C,20
+65899476,espressif/esp-idf,C,15
 105944401,yugabyte/yugabyte-db,C,8
 849692,ZipArchive/ZipArchive,C,2
-59771425,zephyrproject-rtos/zephyr,C,9
+59771425,zephyrproject-rtos/zephyr,C,10
 8270972,ARMmbed/mbed-os,C,1
 34431834,xmake-io/xmake,C,20
 123135691,tanersener/mobile-ffmpeg,C,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 68456226,linux-rdma/rdma-core,C,1
 70934373,Azure/azure-iot-sdk-c,C,0
 202286916,Xinyuan-LilyGO/TTGO_TWatch_Library,C,6
-177842261,huiscliu/Tutorials,C,4
+177842261,huiscliu/Tutorials,C,5
 313010206,serrj-sv/lumi.gateway.mgl03,C,7
 316087197,RodrigoDornelles/3bc-lang,C,5
