@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,91
+2325298,torvalds/linux,C,100
 36502,git/git,C,26
-1903522,php/php-src,C,12
-5101141,stedolan/jq,C,19
+1903522,php/php-src,C,13
+5101141,stedolan/jq,C,20
 14812739,libuv/libuv,C,8
 11715753,robertdavidgraham/masscan,C,20
 11397939,allinurl/goaccess,C,17
 5254557,cloudwu/skynet,C,13
 613829,openresty/lua-nginx-module,C,7
-105627846,reactos/reactos,C,3
-70127218,espressif/arduino-esp32,C,17
+105627846,reactos/reactos,C,4
+70127218,espressif/arduino-esp32,C,19
 65899476,espressif/esp-idf,C,13
 105944401,yugabyte/yugabyte-db,C,8
 849692,ZipArchive/ZipArchive,C,2
