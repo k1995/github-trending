@@ -8,10 +8,10 @@ id,name,lang,new stars
 49014795,phpstan/phpstan,PHP,7
 597887,doctrine/orm,PHP,7
 2179920,woocommerce/woocommerce,PHP,2
-41589337,BookStackApp/BookStack,PHP,18
-6763587,PrestaShop/PrestaShop,PHP,4
+41589337,BookStackApp/BookStack,PHP,19
+6763587,PrestaShop/PrestaShop,PHP,5
 9131292,jenssegers/laravel-mongodb,PHP,5
-16685462,humhub/humhub,PHP,11
+16685462,humhub/humhub,PHP,12
 6269013,aws/aws-sdk-php,PHP,2
 10883164,barryvdh/laravel-dompdf,PHP,3
 145865941,laravel/telescope,PHP,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 28060246,YetiForceCompany/YetiForceCRM,PHP,2
 130863253,php-fig/event-dispatcher,PHP,4
 5367323,akeneo/pim-community-dev,PHP,0
-261740845,envault/envault,PHP,86
+261740845,envault/envault,PHP,89
 319185530,bndwgn/laravel-bandwagon,PHP,15

@@ -1,13 +1,13 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,22
+65252,jekyll/jekyll,Ruby,23
 7569578,discourse/discourse,Ruby,13
 27442967,fastlane/fastlane,Ruby,8
 52281283,tootsuite/mastodon,Ruby,14
 308770,heartcombo/devise,Ruby,6
-73648678,forem/forem,Ruby,13
+73648678,forem/forem,Ruby,14
 2203645,CocoaPods/CocoaPods,Ruby,6
 4095287,rubocop-hq/rubocop,Ruby,4
-106995,sinatra/sinatra,Ruby,3
+106995,sinatra/sinatra,Ruby,4
 3314,spree/spree,Ruby,5
 3195124,mperham/sidekiq,Ruby,3
 96395,faker-ruby/faker,Ruby,2
@@ -16,7 +16,7 @@ id,name,lang,new stars
 4994614,wpscanteam/wpscan,Ruby,7
 1548802,activerecord-hackery/ransack,Ruby,3
 30337170,rmosolgo/graphql-ruby,Ruby,1
-7050,prawnpdf/prawn,Ruby,3
+7050,prawnpdf/prawn,Ruby,4
 43371,eventmachine/eventmachine,Ruby,2
 4523235,asciidoctor/asciidoctor,Ruby,3
 52316423,luggit/react-native-config,Ruby,2

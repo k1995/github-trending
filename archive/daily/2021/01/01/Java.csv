@@ -1,16 +1,16 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,86
-6296790,spring-projects/spring-boot,Java,39
+132464395,Snailclimb/JavaGuide,Java,92
+6296790,spring-projects/spring-boot,Java,40
 64558143,Blankj/AndroidUtilCode,Java,17
 93152223,scwang90/SmartRefreshLayout,Java,18
 55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,13
 148736243,qiurunze123/miaosha,Java,61
-20773773,bazelbuild/bazel,Java,7
+20773773,bazelbuild/bazel,Java,8
 75164823,apache/rocketmq,Java,16
 22043847,mission-peace/interview,Java,6
 33218414,react-native-camera/react-native-camera,Java,2
-89822531,Anuken/Mindustry,Java,32
-37090875,react-native-image-picker/react-native-image-picker,Java,4
+89822531,Anuken/Mindustry,Java,33
+37090875,react-native-image-picker/react-native-image-picker,Java,3
 96704265,MindorksOpenSource/android-interview-questions,Java,4
 139914932,quarkusio/quarkus,Java,16
 10981994,OpenFeign/feign,Java,11
@@ -22,5 +22,5 @@ id,name,lang,new stars
 21193524,apache/calcite,Java,8
 166515022,trinodb/trino,Java,93
 113922675,awsdocs/aws-lambda-developer-guide,Java,3
-263788932,MarkerHub/vueblog,Java,29
-313605398,DerekYRC/mini-spring,Java,27
+263788932,MarkerHub/vueblog,Java,30
+313605398,DerekYRC/mini-spring,Java,29
