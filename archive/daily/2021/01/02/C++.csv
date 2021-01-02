@@ -1,20 +1,20 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,20
-184456251,microsoft/PowerToys,C++,152
-1357796,emscripten-core/emscripten,C++,6
+9384267,electron/electron,C++,23
+184456251,microsoft/PowerToys,C++,159
+1357796,emscripten-core/emscripten,C++,7
 39840932,google/googletest,C++,54
 6934395,facebook/rocksdb,C++,4
 60273704,mozilla/DeepSpeech,C++,14
 19953044,google/flatbuffers,C++,5
 1062572,catchorg/Catch2,C++,1
-6520784,RPCS3/rpcs3,C++,4
-160083795,SerenityOS/serenity,C++,13
-19316619,monero-project/monero,C++,10
-130068982,taskflow/taskflow,C++,2
-14268809,FastLED/FastLED,C++,5
+6520784,RPCS3/rpcs3,C++,5
+160083795,SerenityOS/serenity,C++,14
+19316619,monero-project/monero,C++,13
+130068982,taskflow/taskflow,C++,12
+14268809,FastLED/FastLED,C++,6
 5909706,yhirose/cpp-httplib,C++,20
 156939672,microsoft/onnxruntime,C++,7
-75413130,intel-isl/Open3D,C++,3
+75413130,intel-isl/Open3D,C++,4
 267649918,hoffstadt/DearPyGui,C++,144
 28149409,mlpack/mlpack,C++,1
 143324737,diasurgical/devilutionX,C++,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 258012772,sphawes/index,C++,1
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,3
 276476840,tcsullivan/consteval-huffman,C++,13
-323313135,PixelRick/CyberpunkSaveEditor,C++,7
-280597201,c0pperdragon/Amiga-Digital-Video,C++,4
+323313135,PixelRick/CyberpunkSaveEditor,C++,10
+280597201,c0pperdragon/Amiga-Digital-Video,C++,5
