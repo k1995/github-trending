@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,72
-65252,jekyll/jekyll,Ruby,90
+8514,rails/rails,Ruby,73
+65252,jekyll/jekyll,Ruby,83
 7569578,discourse/discourse,Ruby,61
-53238813,Homebrew/brew,Ruby,163
-2293158,rapid7/metasploit-framework,Ruby,63
-52281283,tootsuite/mastodon,Ruby,71
+53238813,Homebrew/brew,Ruby,165
+2293158,rapid7/metasploit-framework,Ruby,57
+52281283,tootsuite/mastodon,Ruby,74
 3623050,Homebrew/homebrew-cask,Ruby,28
-538746,ruby/ruby,Ruby,129
+538746,ruby/ruby,Ruby,133
 37382858,kilimchoi/engineering-blogs,Ruby,62
-73648678,forem/forem,Ruby,48
+73648678,forem/forem,Ruby,49
 2203645,CocoaPods/CocoaPods,Ruby,18
 4095287,rubocop-hq/rubocop,Ruby,18
-52855516,Homebrew/homebrew-core,Ruby,48
-202291859,chatwoot/chatwoot,Ruby,35
+52855516,Homebrew/homebrew-core,Ruby,49
+202291859,chatwoot/chatwoot,Ruby,38
 26018608,github-changelog-generator/github-changelog-generator,Ruby,10
 5160706,bkeepers/dotenv,Ruby,9
 30985840,solidusio/solidus,Ruby,9
@@ -20,7 +20,7 @@ id,name,lang,new stars
 39706711,hartator/wayback-machine-downloader,Ruby,15
 103766152,github/explore,Ruby,15
 15171934,Homebrew/homebrew-cask-fonts,Ruby,10
-174796313,ruby/rbs,Ruby,35
-321647551,hotwired/hotwire-rails,Ruby,109
+174796313,ruby/rbs,Ruby,41
+321647551,hotwired/hotwire-rails,Ruby,111
 58825797,openhab/openhab-docs,Ruby,5
 323625568,hotwired/hotwire-rails-demo-chat,Ruby,25
