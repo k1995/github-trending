@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,41
-2889328,WordPress/WordPress,PHP,8
-60243197,nextcloud/server,PHP,21
-47495360,koel/koel,PHP,12
+1863329,laravel/laravel,PHP,43
+2889328,WordPress/WordPress,PHP,10
+60243197,nextcloud/server,PHP,25
+47495360,koel/koel,PHP,13
 23680678,tymondesigns/jwt-auth,PHP,3
 4549925,bobthecow/psysh,PHP,2
 14716368,invoiceninja/invoiceninja,PHP,8
@@ -22,5 +22,5 @@ id,name,lang,new stars
 245705823,php/doc-base,PHP,62
 321875100,FlxSNX/TeambitionShare,PHP,12
 122966967,snaptec/openWB,PHP,0
-323695919,joelbutcher/socialstream,PHP,10
-287054280,tegarpratama/portal-news,PHP,20
+323695919,joelbutcher/socialstream,PHP,11
+287054280,tegarpratama/portal-news,PHP,21
