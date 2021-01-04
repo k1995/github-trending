@@ -1,16 +1,16 @@
 id,name,lang,new stars
-80286288,arendst/Tasmota,C,113
-102578345,coolsnowwolf/lede,C,132
-2810292,pbatard/rufus,C,98
-246335987,ventoy/Ventoy,C,240
-15337142,micropython/micropython,C,46
-78281075,SpacehuhnTech/esp8266_deauther,C,52
-70127218,espressif/arduino-esp32,C,170
-65899476,espressif/esp-idf,C,49
-13836499,raysan5/raylib,C,555
+80286288,arendst/Tasmota,C,115
+102578345,coolsnowwolf/lede,C,135
+2810292,pbatard/rufus,C,99
+246335987,ventoy/Ventoy,C,247
+15337142,micropython/micropython,C,47
+78281075,SpacehuhnTech/esp8266_deauther,C,54
+70127218,espressif/arduino-esp32,C,169
+65899476,espressif/esp-idf,C,50
+13836499,raysan5/raylib,C,558
 35129809,transmission/transmission,C,49
 3318027,id-Software/Quake-III-Arena,C,39
-3791835,darktable-org/darktable,C,365
+3791835,darktable-org/darktable,C,366
 689344,libretro/RetroArch,C,37
 187922067,microsoft/WSL2-Linux-Kernel,C,40
 37060852,betaflight/betaflight,C,27
@@ -18,7 +18,7 @@ id,name,lang,new stars
 68751856,gnea/grbl,C,36
 59676171,KevinOConnor/klipper,C,38
 224151065,Immediate-Mode-UI/Nuklear,C,54
-254327261,sandboxie-plus/Sandboxie,C,162
+254327261,sandboxie-plus/Sandboxie,C,163
 258780390,FiYHer/Game-Cheating-Tutorial,C,44
 211756905,MarlinFirmware/Configurations,C,34
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,16
