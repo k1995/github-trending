@@ -1,7 +1,7 @@
 id,name,lang,new stars
 85077558,kamranahmedse/developer-roadmap,,96
 126577260,trekhleb/javascript-algorithms,JavaScript,218
-1181927,bitcoin/bitcoin,C++,53
+1181927,bitcoin/bitcoin,C++,63
 74791366,ryanmcdermott/clean-code-javascript,JavaScript,411
 162998479,sherlock-project/sherlock,Python,354
 231283452,excalidraw/excalidraw,TypeScript,269
@@ -10,16 +10,16 @@ id,name,lang,new stars
 178991158,starship/starship,Rust,32
 119160553,photoprism/photoprism,Go,818
 311683390,WerWolv/ImHex,C++,61
-19316619,monero-project/monero,C++,99
+19316619,monero-project/monero,C++,97
 44288083,rust-unofficial/patterns,Shell,92
+317319347,qeeqbox/social-analyzer,JavaScript,396
 264675954,dair-ai/ml-visuals,,246
-317319347,qeeqbox/social-analyzer,JavaScript,1474
 65924871,probml/pyprobml,Jupyter Notebook,557
 325455949,ChinaVolvocars/jd_maotai_seckill,Python,889
-245013110,subnub/myDrive,JavaScript,18
-172636540,osnr/TabFS,JavaScript,527
+245013110,subnub/myDrive,JavaScript,37
+172636540,osnr/TabFS,JavaScript,546
 234396143,boston-dynamics/spot-sdk,Python,64
-324201721,probml/pml-book,HTML,179
+324201721,probml/pml-book,HTML,172
 267374872,jpochyla/psst,Rust,85
 137736003,persian-tools/persian-tools,TypeScript,31
 267365362,omer-dogan/whoami,Shell,12
