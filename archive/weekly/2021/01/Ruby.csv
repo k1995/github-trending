@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,58
-65252,jekyll/jekyll,Ruby,75
-53238813,Homebrew/brew,Ruby,140
-2293158,rapid7/metasploit-framework,Ruby,57
-52281283,tootsuite/mastodon,Ruby,78
+8514,rails/rails,Ruby,60
+65252,jekyll/jekyll,Ruby,77
+53238813,Homebrew/brew,Ruby,142
+2293158,rapid7/metasploit-framework,Ruby,58
+52281283,tootsuite/mastodon,Ruby,80
 3623050,Homebrew/homebrew-cask,Ruby,27
 538746,ruby/ruby,Ruby,31
 2203645,CocoaPods/CocoaPods,Ruby,16
 4095287,rubocop-hq/rubocop,Ruby,18
-52855516,Homebrew/homebrew-core,Ruby,50
+52855516,Homebrew/homebrew-core,Ruby,52
 1725199,github/linguist,Ruby,21
 202291859,chatwoot/chatwoot,Ruby,34
 4994614,wpscanteam/wpscan,Ruby,20
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,33
-1952825,Homebrew/homebrew-bundle,Ruby,12
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,34
+1952825,Homebrew/homebrew-bundle,Ruby,13
 30985840,solidusio/solidus,Ruby,11
 39706711,hartator/wayback-machine-downloader,Ruby,15
 3898922,zammad/zammad,Ruby,10
@@ -21,6 +21,6 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,15
 56942570,Homebrew/linuxbrew-core,Ruby,10
 306587975,compumike/hairpin-proxy,Ruby,33
-321647551,hotwired/hotwire-rails,Ruby,53
+321647551,hotwired/hotwire-rails,Ruby,55
 58825797,openhab/openhab-docs,Ruby,6
 323625568,hotwired/hotwire-rails-demo-chat,Ruby,3
