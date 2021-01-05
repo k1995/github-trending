@@ -1,18 +1,18 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,34
+5108051,opencv/opencv,C++,42
 1181927,bitcoin/bitcoin,C++,92
-22067521,ocornut/imgui,C++,37
-60273704,mozilla/DeepSpeech,C++,8
-116167731,yuzu-emu/yuzu,C++,64
+22067521,ocornut/imgui,C++,41
+60273704,mozilla/DeepSpeech,C++,13
+116167731,yuzu-emu/yuzu,C++,73
 6520784,RPCS3/rpcs3,C++,6
 311683390,WerWolv/ImHex,C++,217
 19316619,monero-project/monero,C++,83
-153866232,TheCherno/Hazel,C++,6
-15379620,PCSX2/pcsx2,C++,1
+153866232,TheCherno/Hazel,C++,7
+15379620,PCSX2/pcsx2,C++,3
 89067146,ethereum-mining/ethminer,C++,7
-11986447,xournalpp/xournalpp,C++,9
-115883761,tdlib/td,C++,1
-235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,47
+11986447,xournalpp/xournalpp,C++,10
+115883761,tdlib/td,C++,3
+235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,51
 14981376,dogecoin/dogecoin,C++,5
 168947928,Errichto/youtube,C++,3
 7454197,YosysHQ/yosys,C++,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 83542585,wisdompeak/LeetCode,C++,4
 173272321,bigtreetech/BIGTREETECH-SKR-V1.3,C++,1
 151064439,AlessandroAU/ExpressLRS,C++,2
-320400604,bloomberg/koan,C++,19
-119456637,beckswu/Leetcode,C++,20
+320400604,bloomberg/koan,C++,21
+119456637,beckswu/Leetcode,C++,21
