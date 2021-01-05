@@ -1,13 +1,13 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,74
 8681349,huginn/huginn,Ruby,70
-53238813,Homebrew/brew,Ruby,134
-52281283,tootsuite/mastodon,Ruby,76
-538746,ruby/ruby,Ruby,31
-3623050,Homebrew/homebrew-cask,Ruby,31
-2203645,CocoaPods/CocoaPods,Ruby,15
-4095287,rubocop-hq/rubocop,Ruby,15
-52855516,Homebrew/homebrew-core,Ruby,51
+53238813,Homebrew/brew,Ruby,135
+52281283,tootsuite/mastodon,Ruby,77
+538746,ruby/ruby,Ruby,32
+3623050,Homebrew/homebrew-cask,Ruby,30
+2203645,CocoaPods/CocoaPods,Ruby,17
+4095287,rubocop-hq/rubocop,Ruby,13
+52855516,Homebrew/homebrew-core,Ruby,50
 1725199,github/linguist,Ruby,20
 202291859,chatwoot/chatwoot,Ruby,34
 5160706,bkeepers/dotenv,Ruby,8
@@ -16,11 +16,11 @@ id,name,lang,new stars
 1952825,Homebrew/homebrew-bundle,Ruby,14
 30985840,solidusio/solidus,Ruby,9
 39706711,hartator/wayback-machine-downloader,Ruby,12
-3898922,zammad/zammad,Ruby,11
-11426474,github/choosealicense.com,Ruby,7
+3898922,zammad/zammad,Ruby,12
+11426474,github/choosealicense.com,Ruby,8
 103766152,github/explore,Ruby,14
 15171934,Homebrew/homebrew-cask-fonts,Ruby,11
-189010173,Hackplayers/evil-winrm,Ruby,19
+189010173,Hackplayers/evil-winrm,Ruby,17
 49878403,zendesk/ruby-kafka,Ruby,5
 321647551,hotwired/hotwire-rails,Ruby,51
 58825797,openhab/openhab-docs,Ruby,5
