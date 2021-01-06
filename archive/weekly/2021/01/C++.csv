@@ -1,18 +1,18 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C++,946
+184456251,microsoft/PowerToys,C++,894
 1181927,bitcoin/bitcoin,C++,340
-15634981,godotengine/godot,C++,207
-4524181,facebook/folly,C++,38
-31522041,vnpy/vnpy,C++,92
+15634981,godotengine/godot,C++,203
+4524181,facebook/folly,C++,37
+31522041,vnpy/vnpy,C++,88
 116167731,yuzu-emu/yuzu,C++,206
 33014811,notepad-plus-plus/notepad-plus-plus,C++,67
 32969220,esp8266/Arduino,C++,42
-1217614,xbmc/xbmc,C++,168
-26038648,gabime/spdlog,C++,85
+1217614,xbmc/xbmc,C++,151
+26038648,gabime/spdlog,C++,79
 63477612,TheAlgorithms/C-Plus-Plus,C++,120
-160083795,SerenityOS/serenity,C++,77
+160083795,SerenityOS/serenity,C++,76
 2701888,mawww/kakoune,C++,44
-36451925,lltcggie/waifu2x-caffe,C++,50
+36451925,lltcggie/waifu2x-caffe,C++,54
 4454793,musescore/MuseScore,C++,35
 19316619,monero-project/monero,C++,307
 5973855,CleverRaven/Cataclysm-DDA,C++,28
@@ -20,7 +20,7 @@ id,name,lang,new stars
 267649918,hoffstadt/DearPyGui,C++,535
 88327406,xmrig/xmrig,C++,39
 89067146,ethereum-mining/ethminer,C++,38
-235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,274
+235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,275
 23690226,OpenXRay/xray-16,C++,17
-193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,21
-323313135,PixelRick/CyberpunkSaveEditor,C++,45
+193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,20
+323313135,PixelRick/CyberpunkSaveEditor,C++,44

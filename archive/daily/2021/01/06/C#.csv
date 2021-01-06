@@ -1,9 +1,9 @@
 id,name,lang,new stars
-70104825,dotnet-architecture/eShopOnContainers,C#,10
+70104825,dotnet-architecture/eShopOnContainers,C#,12
 29078997,dotnet/roslyn,C#,13
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,10
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,9
 102904613,Unity-Technologies/ml-agents,C#,14
-9864166,App-vNext/Polly,C#,17
+9864166,App-vNext/Polly,C#,9
 28239455,dotnet/AspNetCore.Docs,C#,10
 1135454,cefsharp/CefSharp,C#,7
 54213490,xamarin/Xamarin.Forms,C#,4
@@ -11,16 +11,16 @@ id,name,lang,new stars
 778828,MassTransit/MassTransit,C#,20
 68730444,microsoft/BotBuilder-Samples,C#,3
 23891194,Azure/azure-powershell,C#,1
-306300884,RayWangQvQ/BiliBiliTool,C#,29
+306300884,RayWangQvQ/BiliBiliTool,C#,27
 2928944,Azure/azure-sdk-for-net,C#,3
-166270225,dotnet-presentations/blazor-workshop,C#,3
-117102183,ChilliCream/hotchocolate,C#,5
-72554578,confluentinc/confluent-kafka-dotnet,C#,5
+166270225,dotnet-presentations/blazor-workshop,C#,2
+117102183,ChilliCream/hotchocolate,C#,6
+72554578,confluentinc/confluent-kafka-dotnet,C#,2
 41173335,openiddict/openiddict-core,C#,5
 138646782,Azure/iotedge,C#,0
 77180761,xamarin/XamarinCommunityToolkit,C#,4
-189234354,EPPlusSoftware/EPPlus,C#,16
+189234354,EPPlusSoftware/EPPlus,C#,11
 189351978,casbin/Casbin.NET,C#,15
-143762014,UnityTechnologies/AngryBots_ECS,C#,6
+143762014,UnityTechnologies/AngryBots_ECS,C#,4
 326582562,Daniel-Krzyczkowski/Cars-Island-On-Azure,C#,70
-326503765,jfmaes/SharpHandler,C#,18
+326503765,jfmaes/SharpHandler,C#,10
