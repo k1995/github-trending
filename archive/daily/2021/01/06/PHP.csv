@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,23
-1129010,blueimp/jQuery-File-Upload,PHP,3
-1864363,composer/composer,PHP,5
+1863329,laravel/laravel,PHP,21
+1129010,blueimp/jQuery-File-Upload,PHP,4
+1864363,composer/composer,PHP,4
 7548986,laravel/framework,PHP,8
 1420053,guzzle/guzzle,PHP,3
 448045,sebastianbergmann/phpunit,PHP,5
-12615154,barryvdh/laravel-debugbar,PHP,13
+12615154,barryvdh/laravel-debugbar,PHP,12
 7704544,Intervention/image,PHP,7
 7769432,vlucas/phpdotenv,PHP,5
 72069409,the-control-group/voyager,PHP,3
@@ -14,13 +14,13 @@ id,name,lang,new stars
 2699935,squizlabs/PHP_CodeSniffer,PHP,3
 1398648,symfony/http-foundation,PHP,2
 6660366,dompdf/dompdf,PHP,3
-12166778,googleapis/google-api-php-client,PHP,5
-2179920,woocommerce/woocommerce,PHP,2
+12166778,googleapis/google-api-php-client,PHP,4
+2179920,woocommerce/woocommerce,PHP,3
 17452080,lcobucci/jwt,PHP,7
 10883164,barryvdh/laravel-dompdf,PHP,2
-12204147,mautic/mautic,PHP,2
-4565995,phpseclib/phpseclib,PHP,5
+12204147,mautic/mautic,PHP,0
+4565995,phpseclib/phpseclib,PHP,3
 439861,moodle/moodle,PHP,1
 291805291,laravel/jetstream,PHP,12
-17253775,zabbix/zabbix,PHP,3
+17253775,zabbix/zabbix,PHP,2
 141720301,dr5hn/countries-states-cities-database,PHP,4
