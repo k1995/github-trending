@@ -1,19 +1,19 @@
 id,name,lang,new stars
 1903522,php/php-src,C,5
-569041,curl/curl,C,10
-5101141,stedolan/jq,C,13
-14812739,libuv/libuv,C,8
-84240850,timescale/timescaledb,C,9
-24993138,google/brotli,C,7
+569041,curl/curl,C,11
+5101141,stedolan/jq,C,14
+14812739,libuv/libuv,C,9
+84240850,timescale/timescaledb,C,11
+24993138,google/brotli,C,8
 63477515,TheAlgorithms/C,C,20
 65899476,espressif/esp-idf,C,4
 13310527,jemalloc/jemalloc,C,7
-16734696,meetecho/janus-gateway,C,3
+16734696,meetecho/janus-gateway,C,5
 1979797,FreeRDP/FreeRDP,C,4
-5870069,edenhill/librdkafka,C,6
+5870069,edenhill/librdkafka,C,5
 44781140,greenplum-db/gpdb,C,3
 59771425,zephyrproject-rtos/zephyr,C,2
-18257358,edenhill/kafkacat,C,2
+18257358,edenhill/kafkacat,C,3
 2359378,madler/zlib,C,3
 68751856,gnea/grbl,C,1
 26537135,u-boot/u-boot,C,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 117992564,STMicroelectronics/STMems_Standard_C_drivers,C,1
 241270996,mborgerson/xemu,C,18
 232592284,zhenyolka/DPITunnel,C,4
-41000247,anantshri/Android_Security,C,61
-326499811,Blockstream/Jade,C,8
+41000247,anantshri/Android_Security,C,51
+326499811,Blockstream/Jade,C,6
