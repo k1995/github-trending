@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
-7569578,discourse/discourse,Ruby,13
-27442967,fastlane/fastlane,Ruby,4
+8514,rails/rails,Ruby,9
+7569578,discourse/discourse,Ruby,16
+27442967,fastlane/fastlane,Ruby,5
 8681349,huginn/huginn,Ruby,13
 2203645,CocoaPods/CocoaPods,Ruby,5
 138312,capistrano/capistrano,Ruby,1
-4095287,rubocop-hq/rubocop,Ruby,5
-11423758,mame/quine-relay,Ruby,6
-96395,faker-ruby/faker,Ruby,3
+4095287,rubocop-hq/rubocop,Ruby,3
+11423758,mame/quine-relay,Ruby,8
+96395,faker-ruby/faker,Ruby,2
 611921,activeadmin/activeadmin,Ruby,3
-15435,Shopify/liquid,Ruby,1
+15435,Shopify/liquid,Ruby,3
 21829,thoughtbot/factory_bot,Ruby,3
-202291859,chatwoot/chatwoot,Ruby,8
+202291859,chatwoot/chatwoot,Ruby,9
 2441517,puma/puma,Ruby,2
 75785147,rails/webpacker,Ruby,3
 417389,lostisland/faraday,Ruby,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 5543112,lobsters/lobsters,Ruby,2
 14238949,elastic/elasticsearch-rails,Ruby,2
 614070,rubygems/rubygems,Ruby,45
-3898922,zammad/zammad,Ruby,2
+3898922,zammad/zammad,Ruby,1
 3947396,getsentry/sentry-ruby,Ruby,0

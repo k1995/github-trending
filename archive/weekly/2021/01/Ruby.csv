@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,60
-65252,jekyll/jekyll,Ruby,66
-8681349,huginn/huginn,Ruby,84
+65252,jekyll/jekyll,Ruby,67
+8681349,huginn/huginn,Ruby,82
 52281283,tootsuite/mastodon,Ruby,80
 538746,ruby/ruby,Ruby,35
-3623050,Homebrew/homebrew-cask,Ruby,29
+3623050,Homebrew/homebrew-cask,Ruby,30
 2203645,CocoaPods/CocoaPods,Ruby,16
 15435,Shopify/liquid,Ruby,18
-1725199,github/linguist,Ruby,23
+1725199,github/linguist,Ruby,24
 202291859,chatwoot/chatwoot,Ruby,37
 75785147,rails/webpacker,Ruby,11
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,37
@@ -23,4 +23,4 @@ id,name,lang,new stars
 3947396,getsentry/sentry-ruby,Ruby,1
 321647551,hotwired/hotwire-rails,Ruby,53
 58825797,openhab/openhab-docs,Ruby,2
-323625568,hotwired/hotwire-rails-demo-chat,Ruby,4
+323625568,hotwired/hotwire-rails-demo-chat,Ruby,6
