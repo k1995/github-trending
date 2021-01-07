@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,67
-36502,git/git,C,20
+2325298,torvalds/linux,C,71
+36502,git/git,C,23
 36836475,tmux/tmux,C,16
-569041,curl/curl,C,7
+569041,curl/curl,C,5
 5101141,stedolan/jq,C,4
 34921116,iovisor/bcc,C,6
 184981,memcached/memcached,C,3
 24993138,google/brotli,C,9
-179354282,acidanthera/OpenCorePkg,C,11
+179354282,acidanthera/OpenCorePkg,C,12
 65899476,espressif/esp-idf,C,2
-6376337,pocoproject/poco,C,2
+6376337,pocoproject/poco,C,4
 5870069,edenhill/librdkafka,C,4
 2997204,openwall/john,C,6
 50824485,processhacker/processhacker,C,6
@@ -20,7 +20,7 @@ id,name,lang,new stars
 224151065,Immediate-Mode-UI/Nuklear,C,6
 154525111,signalwire/freeswitch,C,2
 86497800,simd-everywhere/simde,C,2
-241270996,mborgerson/xemu,C,6
+241270996,mborgerson/xemu,C,7
 53432472,Azure/sonic-buildimage,C,0
 41000247,anantshri/Android_Security,C,23
 326596526,bigBestWay/dnstunnel,C,3
