@@ -3,7 +3,7 @@ id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,61
 8681349,huginn/huginn,Ruby,84
 53238813,Homebrew/brew,Ruby,141
-52281283,tootsuite/mastodon,Ruby,81
+52281283,tootsuite/mastodon,Ruby,80
 3623050,Homebrew/homebrew-cask,Ruby,29
 2203645,CocoaPods/CocoaPods,Ruby,14
 1090311,elastic/logstash,Ruby,11
@@ -11,8 +11,8 @@ id,name,lang,new stars
 1725199,github/linguist,Ruby,24
 202291859,chatwoot/chatwoot,Ruby,37
 2441517,puma/puma,Ruby,9
-6899875,opf/openproject,Ruby,25
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,38
+6899875,opf/openproject,Ruby,24
 839336,simplecov-ruby/simplecov,Ruby,5
 1952825,Homebrew/homebrew-bundle,Ruby,11
 5543112,lobsters/lobsters,Ruby,30
@@ -23,4 +23,4 @@ id,name,lang,new stars
 11980558,github/pages-gem,Ruby,3
 56942570,Homebrew/linuxbrew-core,Ruby,8
 3947396,getsentry/sentry-ruby,Ruby,1
-321647551,hotwired/hotwire-rails,Ruby,52
+321647551,hotwired/hotwire-rails,Ruby,58

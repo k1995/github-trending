@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1548202,matomo-org/matomo,PHP,254
-53783664,easychen/howto-make-more-money,PHP,195
+53783664,easychen/howto-make-more-money,PHP,178
 12615154,barryvdh/laravel-debugbar,PHP,30
 72069409,the-control-group/voyager,PHP,19
 61490598,PHPOffice/PhpSpreadsheet,PHP,36
-42480275,spatie/laravel-permission,PHP,37
-2699935,squizlabs/PHP_CodeSniffer,PHP,21
+42480275,spatie/laravel-permission,PHP,38
+2699935,squizlabs/PHP_CodeSniffer,PHP,17
 2717549,Sylius/Sylius,PHP,12
-41589337,BookStackApp/BookStack,PHP,42
+41589337,BookStackApp/BookStack,PHP,40
 2141186,opencart/opencart,PHP,17
 16238673,kanboard/kanboard,PHP,21
 21298446,firefly-iii/firefly-iii,PHP,38
@@ -20,7 +20,7 @@ id,name,lang,new stars
 16455664,tastyigniter/TastyIgniter,PHP,21
 311448648,laravel/breeze,PHP,39
 230926110,qkqpttgf/OneManager-php,PHP,22
-174021137,inertiajs/pingcrm,PHP,16
+174021137,inertiajs/pingcrm,PHP,17
 145748938,Kovah/LinkAce,PHP,62
-261740845,envault/envault,PHP,125
+261740845,envault/envault,PHP,112
 323695919,joelbutcher/socialstream,PHP,56
