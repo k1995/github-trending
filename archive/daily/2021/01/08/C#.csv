@@ -3,7 +3,7 @@ id,name,lang,new stars
 17620347,dotnet/aspnetcore,C#,15
 29078997,dotnet/roslyn,C#,8
 16157746,dotnet/efcore,C#,7
-46652227,IdentityServer/IdentityServer4,C#,5
+46652227,IdentityServer/IdentityServer4,C#,6
 28232663,dotnet/orleans,C#,5
 262395224,dotnet/maui,C#,17
 75505125,abpframework/abp,C#,11
@@ -15,7 +15,7 @@ id,name,lang,new stars
 159548561,grpc/grpc-dotnet,C#,6
 23891194,Azure/azure-powershell,C#,0
 49673872,sshnet/SSH.NET,C#,4
-26768275,DotNetAnalyzers/StyleCopAnalyzers,C#,2
+26768275,DotNetAnalyzers/StyleCopAnalyzers,C#,3
 187499284,Cysharp/UniTask,C#,7
 46884929,Jessecar96/SteamDesktopAuthenticator,C#,3
 295200728,stnkl/EverythingToolbar,C#,226
