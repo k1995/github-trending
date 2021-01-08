@@ -2,7 +2,7 @@ id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,6
 7548986,laravel/framework,PHP,11
 1420053,guzzle/guzzle,PHP,9
-448045,sebastianbergmann/phpunit,PHP,10
+448045,sebastianbergmann/phpunit,PHP,8
 12615154,barryvdh/laravel-debugbar,PHP,7
 7769432,vlucas/phpdotenv,PHP,4
 8678290,barryvdh/laravel-ide-helper,PHP,3
@@ -13,10 +13,10 @@ id,name,lang,new stars
 656494,cakephp/cakephp,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,1
 677464,doctrine/dbal,PHP,7
-12166778,googleapis/google-api-php-client,PHP,4
+12166778,googleapis/google-api-php-client,PHP,3
 2179920,woocommerce/woocommerce,PHP,2
 17452080,lcobucci/jwt,PHP,4
-4242230,PHPOffice/PHPWord,PHP,5
+4242230,PHPOffice/PHPWord,PHP,6
 10371103,Laravel-Lang/lang,PHP,2
 97311017,rectorphp/rector,PHP,5
 10855394,itsgoingd/clockwork,PHP,21

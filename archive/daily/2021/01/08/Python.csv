@@ -1,7 +1,7 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,364
 123458551,jackfrued/Python-100-Days,Python,65
-3638964,ansible/ansible,Python,22
+3638964,ansible/ansible,Python,21
 843222,scikit-learn/scikit-learn,Python,15
 39464018,apache/superset,Python,128
 71948498,localstack/localstack,Python,35
@@ -10,14 +10,14 @@ id,name,lang,new stars
 91594105,ansible/awx,Python,5
 129874045,vipstone/faceai,Python,33
 80041090,fossasia/visdom,Python,20
-264818686,ultralytics/yolov5,Python,89
+264818686,ultralytics/yolov5,Python,100
 250213286,huggingface/datasets,Python,153
 125932201,OlafenwaMoses/ImageAI,Python,34
 8277372,spulec/moto,Python,6
 86740149,datawire/ambassador,Python,2
 133100880,kubeflow/pipelines,Python,2
 291213368,open-mmlab/mmtracking,Python,261
-259842566,Jack-Cherish/PythonPark,Python,145
+259842566,Jack-Cherish/PythonPark,Python,153
 267200032,RameenAbdal/StyleFlow,Python,118
 261366056,wzhe06/SparrowRecSys,Python,54
 318529709,PeizeSun/OneNet,Python,15
