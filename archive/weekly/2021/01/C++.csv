@@ -1,12 +1,12 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C++,639
+184456251,microsoft/PowerToys,C++,615
 1181927,bitcoin/bitcoin,C++,376
 15634981,godotengine/godot,C++,186
 60273704,mozilla/DeepSpeech,C++,81
-4524181,facebook/folly,C++,39
+4524181,facebook/folly,C++,43
 31522041,vnpy/vnpy,C++,84
 116167731,yuzu-emu/yuzu,C++,223
-32969220,esp8266/Arduino,C++,41
+32969220,esp8266/Arduino,C++,42
 26038648,gabime/spdlog,C++,74
 63477612,TheAlgorithms/C-Plus-Plus,C++,126
 6520784,RPCS3/rpcs3,C++,33
@@ -17,9 +17,9 @@ id,name,lang,new stars
 14268809,FastLED/FastLED,C++,28
 156939672,microsoft/onnxruntime,C++,51
 267649918,hoffstadt/DearPyGui,C++,449
-88327406,xmrig/xmrig,C++,42
-89067146,ethereum-mining/ethminer,C++,43
-235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,288
+88327406,xmrig/xmrig,C++,43
+89067146,ethereum-mining/ethminer,C++,44
+235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,291
 68082730,Ralim/IronOS,C++,56
 82815770,acidanthera/Lilu,C++,19
 14981376,dogecoin/dogecoin,C++,31
