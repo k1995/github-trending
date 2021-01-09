@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1864363,composer/composer,PHP,6
-458058,symfony/symfony,PHP,6
+1864363,composer/composer,PHP,8
+458058,symfony/symfony,PHP,5
 7548986,laravel/framework,PHP,11
 1420053,guzzle/guzzle,PHP,7
 448045,sebastianbergmann/phpunit,PHP,4
-12615154,barryvdh/laravel-debugbar,PHP,10
+12615154,barryvdh/laravel-debugbar,PHP,12
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,6
 137515,mockery/mockery,PHP,3
 49014795,phpstan/phpstan,PHP,4
@@ -18,9 +18,9 @@ id,name,lang,new stars
 576099,doctrine/migrations,PHP,3
 2797951,doctrine/DoctrineBundle,PHP,2
 159606650,hyperf/hyperf,PHP,5
-10855394,itsgoingd/clockwork,PHP,21
-1957456,Dolibarr/dolibarr,PHP,2
-47508644,pterodactyl/panel,PHP,2
+10855394,itsgoingd/clockwork,PHP,18
+1957456,Dolibarr/dolibarr,PHP,3
+47508644,pterodactyl/panel,PHP,3
 142127816,zhuifengshaonianhanlu/pikachu,PHP,4
-189104054,laravel/ui,PHP,2
+189104054,laravel/ui,PHP,3
 250385238,DivineOmega/eloquent-attribute-value-prediction,PHP,7
