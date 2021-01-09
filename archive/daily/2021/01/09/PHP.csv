@@ -1,10 +1,10 @@
 id,name,lang,new stars
 1864363,composer/composer,PHP,6
 458058,symfony/symfony,PHP,6
-1420053,guzzle/guzzle,PHP,7
+1420053,guzzle/guzzle,PHP,5
 448045,sebastianbergmann/phpunit,PHP,4
 2253830,PHPMailer/PHPMailer,PHP,6
-12615154,barryvdh/laravel-debugbar,PHP,9
+12615154,barryvdh/laravel-debugbar,PHP,8
 8678290,barryvdh/laravel-ide-helper,PHP,4
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,6
 14259390,Maatwebsite/Laravel-Excel,PHP,5
@@ -18,9 +18,9 @@ id,name,lang,new stars
 39149031,webonyx/graphql-php,PHP,2
 10855394,itsgoingd/clockwork,PHP,18
 31595609,mpdf/mpdf,PHP,4
-22751672,tecnickcom/TCPDF,PHP,5
+22751672,tecnickcom/TCPDF,PHP,6
 1957456,Dolibarr/dolibarr,PHP,4
-131995661,shopware/platform,PHP,2
+131995661,shopware/platform,PHP,3
 27249479,EC-CUBE/ec-cube,PHP,3
 309969943,spatie/ray,PHP,36
 310066513,spatie/laravel-ray,PHP,16
