@@ -6,9 +6,9 @@ id,name,lang,new stars
 53783664,easychen/howto-make-more-money,PHP,927
 60243197,nextcloud/server,PHP,332
 12615154,barryvdh/laravel-debugbar,PHP,144
-49014795,phpstan/phpstan,PHP,137
 79111500,jupeter/clean-code-php,PHP,107
 2141186,opencart/opencart,PHP,57
+14716368,invoiceninja/invoiceninja,PHP,80
 6763587,PrestaShop/PrestaShop,PHP,62
 86350964,the-benchmarker/web-frameworks,PHP,122
 4565995,phpseclib/phpseclib,PHP,62
@@ -19,6 +19,7 @@ id,name,lang,new stars
 76064827,mailcow/mailcow-dockerized,PHP,107
 41463886,codeigniter4/CodeIgniter4,PHP,74
 148129143,bagisto/bagisto,PHP,119
+119047018,linuxserver/Heimdall,PHP,88
 93982796,Tuhinshubhra/RED_HAWK,PHP,44
 39698170,pi-hole/AdminLTE,PHP,41
 174021137,inertiajs/pingcrm,PHP,56
