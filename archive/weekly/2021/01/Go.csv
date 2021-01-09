@@ -1,7 +1,7 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,334
 11180687,gohugoio/hugo,Go,198
-13807606,junegunn/fzf,Go,175
+13807606,junegunn/fzf,Go,181
 15452919,ethereum/go-ethereum,Go,106
 133251103,wagoodman/dive,Go,136
 97533102,halfrost/LeetCode-Go,Go,1096
@@ -21,6 +21,6 @@ id,name,lang,new stars
 66156850,TheAlgorithms/Go,Go,94
 140457254,OWASP/Amass,Go,36
 44820350,42wim/matterbridge,Go,76
-244694886,didi/nightingale,Go,60
+244694886,didi/nightingale,Go,55
 79585104,matrix-org/dendrite,Go,55
 235685125,omriharel/deej,Go,16

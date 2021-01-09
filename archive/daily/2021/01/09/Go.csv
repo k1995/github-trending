@@ -15,7 +15,7 @@ id,name,lang,new stars
 120896210,argoproj/argo-cd,Go,14
 50629145,google/pprof,Go,2
 67793333,cortexproject/cortex,Go,6
-134539560,weaveworks/eksctl,Go,1
+134539560,weaveworks/eksctl,Go,0
 58184885,kubernetes/kube-state-metrics,Go,5
 74499101,roboll/helmfile,Go,6
 79585104,matrix-org/dendrite,Go,16
