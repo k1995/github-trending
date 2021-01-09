@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1129010,blueimp/jQuery-File-Upload,PHP,22
+1129010,blueimp/jQuery-File-Upload,PHP,21
 7548986,laravel/framework,PHP,51
 1548202,matomo-org/matomo,PHP,289
 53783664,easychen/howto-make-more-money,PHP,174
 60243197,nextcloud/server,PHP,78
-12615154,barryvdh/laravel-debugbar,PHP,39
+12615154,barryvdh/laravel-debugbar,PHP,42
 72069409,the-control-group/voyager,PHP,20
 61490598,PHPOffice/PhpSpreadsheet,PHP,42
 42480275,spatie/laravel-permission,PHP,40
@@ -23,4 +23,4 @@ id,name,lang,new stars
 189104054,laravel/ui,PHP,28
 230926110,qkqpttgf/OneManager-php,PHP,28
 261740845,envault/envault,PHP,105
-245705823,php/doc-base,PHP,70
+245705823,php/doc-base,PHP,59
