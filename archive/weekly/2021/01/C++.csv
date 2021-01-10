@@ -1,5 +1,5 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,219
+9384267,electron/electron,C++,221
 1181927,bitcoin/bitcoin,C++,453
 15634981,godotengine/godot,C++,217
 60273704,mozilla/DeepSpeech,C++,77
@@ -7,8 +7,8 @@ id,name,lang,new stars
 19374812,telegramdesktop/tdesktop,C++,204
 31522041,vnpy/vnpy,C++,100
 116167731,yuzu-emu/yuzu,C++,262
-26038648,gabime/spdlog,C++,90
-63477612,TheAlgorithms/C-Plus-Plus,C++,139
+26038648,gabime/spdlog,C++,92
+63477612,TheAlgorithms/C-Plus-Plus,C++,135
 1605598,bulletphysics/bullet3,C++,48
 19316619,monero-project/monero,C++,307
 156939672,microsoft/onnxruntime,C++,56
@@ -17,7 +17,7 @@ id,name,lang,new stars
 89067146,ethereum-mining/ethminer,C++,58
 115883761,tdlib/td,C++,38
 235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,285
-68082730,Ralim/IronOS,C++,68
+68082730,Ralim/IronOS,C++,70
 14981376,dogecoin/dogecoin,C++,44
 168947928,Errichto/youtube,C++,24
 151064439,AlessandroAU/ExpressLRS,C++,22
