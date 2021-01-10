@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,609
 1129010,blueimp/jQuery-File-Upload,PHP,86
-3482588,danielmiessler/SecLists,PHP,677
-1548202,matomo-org/matomo,PHP,441
+3482588,danielmiessler/SecLists,PHP,683
+1548202,matomo-org/matomo,PHP,438
 53783664,easychen/howto-make-more-money,PHP,936
-60243197,nextcloud/server,PHP,341
-12615154,barryvdh/laravel-debugbar,PHP,142
+60243197,nextcloud/server,PHP,343
+12615154,barryvdh/laravel-debugbar,PHP,141
 79111500,jupeter/clean-code-php,PHP,107
-2141186,opencart/opencart,PHP,58
+2141186,opencart/opencart,PHP,57
 16238673,kanboard/kanboard,PHP,84
 6763587,PrestaShop/PrestaShop,PHP,67
 86350964,the-benchmarker/web-frameworks,PHP,125
@@ -15,7 +15,7 @@ id,name,lang,new stars
 31541210,aimeos/aimeos-laravel,PHP,163
 74386167,vimeo/psalm,PHP,175
 95011974,akaunting/akaunting,PHP,125
-76064827,mailcow/mailcow-dockerized,PHP,121
+76064827,mailcow/mailcow-dockerized,PHP,126
 41463886,codeigniter4/CodeIgniter4,PHP,73
 148129143,bagisto/bagisto,PHP,118
 119047018,linuxserver/Heimdall,PHP,88
