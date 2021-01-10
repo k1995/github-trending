@@ -2,12 +2,12 @@ id,name,lang,new stars
 6838921,prometheus/prometheus,Go,27
 15452919,ethereum/go-ethereum,Go,33
 74175805,istio/istio,Go,13
-31288958,hashicorp/vault,Go,11
+31288958,hashicorp/vault,Go,14
 46806184,helm/charts,Go,4
 6051812,gorilla/mux,Go,16
 6247705,stretchr/testify,Go,20
 5179099,go-redis/redis,Go,14
-33258973,influxdata/telegraf,Go,5
+33258973,influxdata/telegraf,Go,6
 7877397,jmoiron/sqlx,Go,13
 6443435,nats-io/nats-server,Go,10
 46140633,quay/clair,Go,20
