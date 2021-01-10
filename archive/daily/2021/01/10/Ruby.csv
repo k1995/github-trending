@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
+8514,rails/rails,Ruby,11
 27442967,fastlane/fastlane,Ruby,13
 53238813,Homebrew/brew,Ruby,35
 2293158,rapid7/metasploit-framework,Ruby,24
 308770,heartcombo/devise,Ruby,7
 2203645,CocoaPods/CocoaPods,Ruby,4
 4095287,rubocop-hq/rubocop,Ruby,6
-3314,spree/spree,Ruby,7
+3314,spree/spree,Ruby,9
 3195124,mperham/sidekiq,Ruby,6
 88740103,postalhq/postal,Ruby,4
 361310,teamcapybara/capybara,Ruby,2
@@ -18,9 +18,9 @@ id,name,lang,new stars
 447184,rspec/rspec-rails,Ruby,0
 52316423,luggit/react-native-config,Ruby,5
 30985840,solidusio/solidus,Ruby,4
-33631352,xcpretty/xcode-install,Ruby,7
+33631352,xcpretty/xcode-install,Ruby,8
 1175581,citation-style-language/styles,Ruby,3
-93163073,dependabot/dependabot-core,Ruby,4
+93163073,dependabot/dependabot-core,Ruby,5
 34840276,elastic/ansible-elasticsearch,Ruby,1
 3947396,getsentry/sentry-ruby,Ruby,0
 4968957,klaviyo/ruby-klaviyo,Ruby,0

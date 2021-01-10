@@ -1,16 +1,16 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,20
-17620347,dotnet/aspnetcore,C#,20
-29078997,dotnet/roslyn,C#,11
-16157746,dotnet/efcore,C#,9
+49609581,PowerShell/PowerShell,C#,23
+17620347,dotnet/aspnetcore,C#,23
+29078997,dotnet/roslyn,C#,12
+16157746,dotnet/efcore,C#,10
 28239455,dotnet/AspNetCore.Docs,C#,4
 3476845,JamesNK/Newtonsoft.Json,C#,8
-17369361,jbogard/MediatR,C#,7
-262395224,dotnet/maui,C#,23
-69673033,ardalis/CleanArchitecture,C#,11
+17369361,jbogard/MediatR,C#,6
+262395224,dotnet/maui,C#,21
+69673033,ardalis/CleanArchitecture,C#,12
 83380995,dotnet-architecture/eShopOnWeb,C#,10
 54213490,xamarin/Xamarin.Forms,C#,3
-210716005,dotnet/runtime,C#,12
+210716005,dotnet/runtime,C#,10
 19216825,xamarin/xamarin-forms-samples,C#,3
 96975695,JanKallman/EPPlus,C#,5
 10601208,umbraco/Umbraco-CMS,C#,3
@@ -18,7 +18,7 @@ id,name,lang,new stars
 33010673,microsoft/perfview,C#,4
 23891194,Azure/azure-powershell,C#,2
 159973917,stsrki/Blazorise,C#,1
-295200728,stnkl/EverythingToolbar,C#,185
+295200728,stnkl/EverythingToolbar,C#,240
 122229247,xamarin/Essentials,C#,1
 77180761,xamarin/XamarinCommunityToolkit,C#,9
 252826419,Unity-Technologies/Graphics,C#,10
