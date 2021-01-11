@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,144
-65600975,pytorch/pytorch,C++,63
-15634981,godotengine/godot,C++,66
+1181927,bitcoin/bitcoin,C++,142
+65600975,pytorch/pytorch,C++,75
+15634981,godotengine/godot,C++,76
 22067521,ocornut/imgui,C++,68
-13862381,DrKLO/Telegram,C++,122
+13862381,DrKLO/Telegram,C++,112
 19374812,telegramdesktop/tdesktop,C++,187
 23129458,aseprite/aseprite,C++,36
-2200856,MarlinFirmware/Marlin,C++,66
+2200856,MarlinFirmware/Marlin,C++,67
 6520784,RPCS3/rpcs3,C++,11
-192025001,Qv2ray/Qv2ray,C++,56
-59212953,polybar/polybar,C++,11
+192025001,Qv2ray/Qv2ray,C++,57
+59212953,polybar/polybar,C++,10
 1204412,TrinityCore/TrinityCore,C++,1
 19866730,citra-emu/citra,C++,10
 117948953,Atmosphere-NX/Atmosphere,C++,15
@@ -17,8 +17,8 @@ id,name,lang,new stars
 76990209,Aircoookie/WLED,C++,44
 14268809,FastLED/FastLED,C++,15
 89067146,ethereum-mining/ethminer,C++,29
-11986447,xournalpp/xournalpp,C++,18
-52882701,prusa3d/PrusaSlicer,C++,12
+11986447,xournalpp/xournalpp,C++,19
+52882701,prusa3d/PrusaSlicer,C++,11
 40759227,domoticz/domoticz,C++,6
 19347340,nanocurrency/nano-node,C++,10
 206138137,alphacep/vosk-api,C++,12

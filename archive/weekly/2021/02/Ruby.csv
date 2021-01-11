@@ -1,16 +1,16 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,85
-7569578,discourse/discourse,Ruby,80
-8681349,huginn/huginn,Ruby,122
-52281283,tootsuite/mastodon,Ruby,234
+65252,jekyll/jekyll,Ruby,87
+7569578,discourse/discourse,Ruby,82
+8681349,huginn/huginn,Ruby,105
+52281283,tootsuite/mastodon,Ruby,221
 3623050,Homebrew/homebrew-cask,Ruby,51
 2203645,CocoaPods/CocoaPods,Ruby,20
-4095287,rubocop-hq/rubocop,Ruby,20
+4095287,rubocop-hq/rubocop,Ruby,19
 106995,sinatra/sinatra,Ruby,14
-96395,faker-ruby/faker,Ruby,15
+96395,faker-ruby/faker,Ruby,16
 15435,Shopify/liquid,Ruby,38
-75785147,rails/webpacker,Ruby,13
-6899875,opf/openproject,Ruby,40
+75785147,rails/webpacker,Ruby,14
+6899875,opf/openproject,Ruby,36
 839336,simplecov-ruby/simplecov,Ruby,6
 7050,prawnpdf/prawn,Ruby,11
 244452551,alexeygrigorev/data-science-interviews,Ruby,28
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,8
 154027884,samber/awesome-prometheus-alerts,Ruby,26
 93163073,dependabot/dependabot-core,Ruby,18
-56942570,Homebrew/linuxbrew-core,Ruby,9
+56942570,Homebrew/linuxbrew-core,Ruby,10
 3947396,getsentry/sentry-ruby,Ruby,1
