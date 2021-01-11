@@ -2,7 +2,7 @@ id,name,lang,new stars
 21540759,avelino/awesome-go,Go,1082
 48378947,fatedier/frp,Go,945
 14712850,syncthing/syncthing,Go,540
-15452919,ethereum/go-ethereum,Go,351
+15452919,ethereum/go-ethereum,Go,348
 8966356,hashicorp/packer,Go,980
 97533102,halfrost/LeetCode-Go,Go,2378
 120227732,fyne-io/fyne,Go,477
@@ -15,12 +15,12 @@ id,name,lang,new stars
 116739828,DNSCrypt/dnscrypt-proxy,Go,165
 222172014,slackhq/nebula,Go,216
 62712899,AdguardTeam/AdGuardHome,Go,403
-134012064,pion/webrtc,Go,314
+134012064,pion/webrtc,Go,315
 201658460,geektutu/7days-golang,Go,660
-285864199,tal-tech/go-zero,Go,1266
+285864199,tal-tech/go-zero,Go,1230
 44820350,42wim/matterbridge,Go,199
-252813491,projectdiscovery/nuclei,Go,599
-311315731,XTLS/Xray-core,Go,810
+252813491,projectdiscovery/nuclei,Go,575
+311315731,XTLS/Xray-core,Go,733
 79585104,matrix-org/dendrite,Go,155
 320848715,n7olkachev/imgdiff,Go,1480
 281694167,Mrs4s/go-cqhttp,Go,183
