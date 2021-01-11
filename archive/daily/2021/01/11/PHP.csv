@@ -12,8 +12,8 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,4
 723980,KnpLabs/snappy,PHP,16
 76064827,mailcow/mailcow-dockerized,PHP,7
-439861,moodle/moodle,PHP,4
-11935508,RSS-Bridge/rss-bridge,PHP,4
+439861,moodle/moodle,PHP,7
+11935508,RSS-Bridge/rss-bridge,PHP,5
 72453516,wp-graphql/wp-graphql,PHP,0
 8933498,ampache/ampache,PHP,1
 38116958,php-telegram-bot/core,PHP,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 44410131,xl7dev/WebShell,PHP,5
 223535535,Ignitetch/AdvPhishing,PHP,1
 321875100,FlxSNX/TeambitionShare,PHP,12
-309969943,spatie/ray,PHP,18
+309969943,spatie/ray,PHP,20
 184538454,yankovalenko94/Webdev2019,PHP,2
