@@ -1,10 +1,10 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,122
+54346799,public-apis/public-apis,Python,113
 843222,scikit-learn/scikit-learn,Python,19
 154747577,google-research/bert,Python,18
-160919119,tiangolo/fastapi,Python,59
-107595270,matterport/Mask_RCNN,Python,13
-118861276,gto76/python-cheatsheet,Python,35
+160919119,tiangolo/fastapi,Python,69
+107595270,matterport/Mask_RCNN,Python,12
+118861276,gto76/python-cheatsheet,Python,24
 184460,celery/celery,Python,17
 7053637,python/mypy,Python,7
 91594105,ansible/awx,Python,8
@@ -12,15 +12,15 @@ id,name,lang,new stars
 136202695,mlflow/mlflow,Python,8
 168799526,rwightman/pytorch-image-models,Python,34
 976994,pennersr/django-allauth,Python,4
-132732601,ubuntu/microk8s,Python,10
+132732601,ubuntu/microk8s,Python,8
 110442379,mbadry1/DeepLearning.ai-Summary,Python,11
-222751131,Asabeneh/30-Days-Of-Python,Python,275
+222751131,Asabeneh/30-Days-Of-Python,Python,264
 248087594,facebookresearch/moco,Python,6
-249301266,geohot/corona,Python,12
-172615836,awslabs/aws-data-wrangler,Python,9
+249301266,geohot/corona,Python,14
+172615836,awslabs/aws-data-wrangler,Python,7
 315312341,ZHKKKe/MODNet,Python,13
-279908689,carlospolop/hacktricks,Python,27
-290091948,lab-ml/nn,Python,42
-327881185,SharonBrizinov/s3viewer,Python,57
+279908689,carlospolop/hacktricks,Python,39
+290091948,lab-ml/nn,Python,43
+327881185,SharonBrizinov/s3viewer,Python,97
 328236233,EleutherAI/DALLE-mtf,Python,16
 320733542,KiranGershenfeld/VisualizingTwitchCommunities,Python,15

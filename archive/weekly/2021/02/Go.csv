@@ -1,13 +1,13 @@
 id,name,lang,new stars
 11180687,gohugoio/hugo,Go,173
-15452919,ethereum/go-ethereum,Go,122
-16563587,cockroachdb/cockroach,Go,45
+15452919,ethereum/go-ethereum,Go,123
+16563587,cockroachdb/cockroach,Go,44
 37448451,mattermost/mattermost-server,Go,48
 97533102,halfrost/LeetCode-Go,Go,719
 11008207,vitessio/vitess,Go,46
-119160553,photoprism/photoprism,Go,804
+119160553,photoprism/photoprism,Go,522
 158645957,OpenDiablo2/OpenDiablo2,Go,161
-26836182,therecipe/qt,Go,68
+26836182,therecipe/qt,Go,67
 100982449,argoproj/argo,Go,50
 222172014,slackhq/nebula,Go,81
 113106184,linkerd/linkerd2,Go,37
@@ -16,11 +16,11 @@ id,name,lang,new stars
 79921099,chromedp/chromedp,Go,53
 93444615,hashicorp/terraform-provider-aws,Go,35
 120896210,argoproj/argo-cd,Go,61
-94173064,mickael-kerjean/filestash,Go,103
+94173064,mickael-kerjean/filestash,Go,104
 154643390,sundowndev/PhoneInfoga,Go,207
 244694886,didi/nightingale,Go,42
 51193526,cosmos/cosmos-sdk,Go,19
-79585104,matrix-org/dendrite,Go,79
+79585104,matrix-org/dendrite,Go,80
 315063189,geektutu/high-performance-go,Go,491
 116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,12
 325862596,ztino/helloworld,Go,781
