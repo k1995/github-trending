@@ -1,14 +1,14 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,573
 1129010,blueimp/jQuery-File-Upload,PHP,79
-3482588,danielmiessler/SecLists,PHP,665
+3482588,danielmiessler/SecLists,PHP,664
 1548202,matomo-org/matomo,PHP,430
-53783664,easychen/howto-make-more-money,PHP,944
+53783664,easychen/howto-make-more-money,PHP,943
 60243197,nextcloud/server,PHP,327
 12615154,barryvdh/laravel-debugbar,PHP,137
 79111500,jupeter/clean-code-php,PHP,108
 2141186,opencart/opencart,PHP,58
-6763587,PrestaShop/PrestaShop,PHP,66
+6763587,PrestaShop/PrestaShop,PHP,67
 30171828,rappasoft/laravel-boilerplate,PHP,49
 86350964,the-benchmarker/web-frameworks,PHP,128
 12204147,mautic/mautic,PHP,57
@@ -21,5 +21,5 @@ id,name,lang,new stars
 291805291,laravel/jetstream,PHP,139
 93982796,Tuhinshubhra/RED_HAWK,PHP,47
 78109411,metowolf/Meting,PHP,34
-39698170,pi-hole/AdminLTE,PHP,45
+39698170,pi-hole/AdminLTE,PHP,44
 274912708,ZainCheung/netease-cloud-api,PHP,95
