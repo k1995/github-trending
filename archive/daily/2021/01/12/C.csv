@@ -9,7 +9,7 @@ id,name,lang,new stars
 32873313,systemd/systemd,C,10
 39242894,coturn/coturn,C,5
 18106269,lz4/lz4,C,4
-62994219,antirez/kilo,C,6
+62994219,antirez/kilo,C,4
 2755696,mattn/go-sqlite3,C,4
 6331631,axboe/fio,C,5
 108667201,AlexAltea/orbital,C,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 259858821,peng-zhihui/Project-Quantum,C,7
 42948633,signalapp/libsignal-protocol-c,C,10
 118424053,greenbone/openvas,C,3
-288419578,Himself65/learn-os,C,21
+288419578,Himself65/learn-os,C,15
 328299655,connormcgarr/cThreadHijack,C,15
