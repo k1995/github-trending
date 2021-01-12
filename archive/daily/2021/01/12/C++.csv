@@ -2,8 +2,8 @@ id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,56
 15634981,godotengine/godot,C++,38
 22067521,ocornut/imgui,C++,34
-74627617,commaai/openpilot,C++,32
-19953044,google/flatbuffers,C++,0
+74627617,commaai/openpilot,C++,25
+19953044,google/flatbuffers,C++,5
 13862381,DrKLO/Telegram,C++,33
 19374812,telegramdesktop/tdesktop,C++,163
 66088979,changkun/modern-cpp-tutorial,C++,25
@@ -13,7 +13,7 @@ id,name,lang,new stars
 160083795,SerenityOS/serenity,C++,42
 1605598,bulletphysics/bullet3,C++,2
 11577304,dolphin-emu/dolphin,C++,4
-117948953,Atmosphere-NX/Atmosphere,C++,7
+117948953,Atmosphere-NX/Atmosphere,C++,10
 7512484,ArduPilot/ardupilot,C++,3
 86337343,skypjack/entt,C++,11
 76990209,Aircoookie/WLED,C++,11
@@ -21,6 +21,6 @@ id,name,lang,new stars
 14268809,FastLED/FastLED,C++,1
 88327406,xmrig/xmrig,C++,5
 89067146,ethereum-mining/ethminer,C++,12
-70434365,Palakis/obs-websocket,C++,3
+70434365,Palakis/obs-websocket,C++,6
 238262758,mongoose-os-apps/shelly-homekit,C++,4
-325870912,ykfre/BsodSurvivor,C++,10
+325870912,ykfre/BsodSurvivor,C++,9
