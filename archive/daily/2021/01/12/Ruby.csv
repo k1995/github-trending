@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,10
-7569578,discourse/discourse,Ruby,13
-27442967,fastlane/fastlane,Ruby,7
-52281283,tootsuite/mastodon,Ruby,169
-2293158,rapid7/metasploit-framework,Ruby,14
-73648678,forem/forem,Ruby,12
+7569578,discourse/discourse,Ruby,11
+27442967,fastlane/fastlane,Ruby,8
+52281283,tootsuite/mastodon,Ruby,162
+2293158,rapid7/metasploit-framework,Ruby,15
+73648678,forem/forem,Ruby,9
 2203645,CocoaPods/CocoaPods,Ruby,2
 3314,spree/spree,Ruby,1
-3195124,mperham/sidekiq,Ruby,4
+3195124,mperham/sidekiq,Ruby,3
 11423758,mame/quine-relay,Ruby,5
 812393,ruby-grape/grape,Ruby,1
 96395,faker-ruby/faker,Ruby,3
@@ -17,10 +17,10 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,0
 2441517,puma/puma,Ruby,0
 16994115,CanCanCommunity/cancancan,Ruby,2
-6899875,opf/openproject,Ruby,1
-1734,aasm/aasm,Ruby,2
+6899875,opf/openproject,Ruby,4
+1734,aasm/aasm,Ruby,0
 229006,mileszs/wicked_pdf,Ruby,1
-103766152,github/explore,Ruby,5
+103766152,github/explore,Ruby,3
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,1
-237796058,UnlyEd/next-right-now,Ruby,4
-70830890,bigbluebutton/greenlight,Ruby,3
+237796058,UnlyEd/next-right-now,Ruby,5
+70830890,bigbluebutton/greenlight,Ruby,2
