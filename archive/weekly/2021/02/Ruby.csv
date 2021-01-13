@@ -1,11 +1,11 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,75
+65252,jekyll/jekyll,Ruby,78
 7569578,discourse/discourse,Ruby,73
-8681349,huginn/huginn,Ruby,103
-52281283,tootsuite/mastodon,Ruby,346
-2293158,rapid7/metasploit-framework,Ruby,173
+8681349,huginn/huginn,Ruby,104
+52281283,tootsuite/mastodon,Ruby,345
+2293158,rapid7/metasploit-framework,Ruby,174
 3623050,Homebrew/homebrew-cask,Ruby,39
-73648678,forem/forem,Ruby,57
+73648678,forem/forem,Ruby,61
 2203645,CocoaPods/CocoaPods,Ruby,15
 4095287,rubocop-hq/rubocop,Ruby,22
 3195124,mperham/sidekiq,Ruby,19
@@ -15,12 +15,12 @@ id,name,lang,new stars
 1725199,github/linguist,Ruby,37
 2441517,puma/puma,Ruby,7
 75785147,rails/webpacker,Ruby,15
-244452551,alexeygrigorev/data-science-interviews,Ruby,22
+244452551,alexeygrigorev/data-science-interviews,Ruby,23
 52316423,luggit/react-native-config,Ruby,12
 30985840,solidusio/solidus,Ruby,11
 614070,rubygems/rubygems,Ruby,84
 3898922,zammad/zammad,Ruby,9
 1175581,citation-style-language/styles,Ruby,6
-154027884,samber/awesome-prometheus-alerts,Ruby,27
-9500075,ytti/oxidized,Ruby,9
+154027884,samber/awesome-prometheus-alerts,Ruby,26
+9500075,ytti/oxidized,Ruby,10
 93163073,dependabot/dependabot-core,Ruby,19
