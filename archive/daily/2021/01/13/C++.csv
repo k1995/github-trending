@@ -1,9 +1,9 @@
 id,name,lang,new stars
-23357588,protocolbuffers/protobuf,C++,50
+23357588,protocolbuffers/protobuf,C++,39
 15634981,godotengine/godot,C++,21
 11171548,nlohmann/json,C++,17
 39840932,google/googletest,C++,12
-108110,mongodb/mongo,C++,6
+108110,mongodb/mongo,C++,5
 96246170,ApolloAuto/apollo,C++,12
 13862381,DrKLO/Telegram,C++,28
 19374812,telegramdesktop/tdesktop,C++,91
@@ -22,5 +22,5 @@ id,name,lang,new stars
 41542522,cztomczak/cefpython,C++,6
 103626963,applenob/Cpp_Primer_Practice,C++,8
 153097643,openvinotoolkit/openvino,C++,1
-44292772,DiligentGraphics/DiligentEngine,C++,13
+44292772,DiligentGraphics/DiligentEngine,C++,10
 237647258,meshtastic/Meshtastic-device,C++,3
