@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
+8514,rails/rails,Ruby,8
 27442967,fastlane/fastlane,Ruby,12
-52281283,tootsuite/mastodon,Ruby,194
+52281283,tootsuite/mastodon,Ruby,166
 308770,heartcombo/devise,Ruby,4
-481872,hashicorp/vagrant,Ruby,5
+481872,hashicorp/vagrant,Ruby,7
 1090311,elastic/logstash,Ruby,2
 4095287,rubocop-hq/rubocop,Ruby,2
 3314,spree/spree,Ruby,1
-361310,teamcapybara/capybara,Ruby,3
+361310,teamcapybara/capybara,Ruby,4
 812393,ruby-grape/grape,Ruby,0
 8393,thoughtbot/paperclip,Ruby,0
 611921,activeadmin/activeadmin,Ruby,0
@@ -16,11 +16,11 @@ id,name,lang,new stars
 202291859,chatwoot/chatwoot,Ruby,3
 108278,chef/chef,Ruby,1
 2889230,rails-api/active_model_serializers,Ruby,1
-75785147,rails/webpacker,Ruby,4
-16994115,CanCanCommunity/cancancan,Ruby,4
-21333814,lynndylanhurley/devise_token_auth,Ruby,1
+75785147,rails/webpacker,Ruby,5
+16994115,CanCanCommunity/cancancan,Ruby,5
+21333814,lynndylanhurley/devise_token_auth,Ruby,2
 9500075,ytti/oxidized,Ruby,4
-126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,4
-61203,Shopify/shopify_app,Ruby,3
+126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,3
+61203,Shopify/shopify_app,Ruby,1
 10088951,TheOdinProject/theodinproject,Ruby,1
-237796058,UnlyEd/next-right-now,Ruby,1
+237796058,UnlyEd/next-right-now,Ruby,3
