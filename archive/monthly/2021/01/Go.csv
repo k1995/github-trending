@@ -1,17 +1,16 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,1030
-48378947,fatedier/frp,Go,989
+48378947,fatedier/frp,Go,983
 14712850,syncthing/syncthing,Go,521
 15452919,ethereum/go-ethereum,Go,362
-97533102,halfrost/LeetCode-Go,Go,2665
-8966356,hashicorp/packer,Go,982
+97533102,halfrost/LeetCode-Go,Go,2672
 120227732,fyne-io/fyne,Go,475
 165041732,go-kratos/kratos,Go,342
 119160553,photoprism/photoprism,Go,2367
 158645957,OpenDiablo2/OpenDiablo2,Go,317
-116576783,bettercap/bettercap,Go,182
-26836182,therecipe/qt,Go,174
+116576783,bettercap/bettercap,Go,183
 153099672,inancgumus/learngo,Go,1782
+29099181,keybase/client,Go,103
 116739828,DNSCrypt/dnscrypt-proxy,Go,162
 222172014,slackhq/nebula,Go,224
 62712899,AdguardTeam/AdGuardHome,Go,395
@@ -23,4 +22,5 @@ id,name,lang,new stars
 252813491,projectdiscovery/nuclei,Go,588
 311315731,XTLS/Xray-core,Go,725
 79585104,matrix-org/dendrite,Go,169
-281694167,Mrs4s/go-cqhttp,Go,186
+281694167,Mrs4s/go-cqhttp,Go,182
+313853293,cloudquery/cloudquery,Go,683
