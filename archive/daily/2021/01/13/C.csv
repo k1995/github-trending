@@ -2,13 +2,13 @@ id,name,lang,new stars
 2325298,torvalds/linux,C,60
 156018,redis/redis,C,20
 1614410,FFmpeg/FFmpeg,C,20
-24586308,cfenollosa/os-tutorial,C,19
-7634677,openssl/openssl,C,8
+24586308,cfenollosa/os-tutorial,C,17
+7634677,openssl/openssl,C,7
 84240850,timescale/timescaledb,C,5
 161292091,Tencent/matrix,C,5
-32873313,systemd/systemd,C,8
+32873313,systemd/systemd,C,6
 39242894,coturn/coturn,C,5
-18106269,lz4/lz4,C,11
+18106269,lz4/lz4,C,10
 62994219,antirez/kilo,C,4
 2755696,mattn/go-sqlite3,C,3
 6331631,axboe/fio,C,5
@@ -18,7 +18,7 @@ id,name,lang,new stars
 25947175,rogerclarkmelbourne/Arduino_STM32,C,1
 288082909,htop-dev/htop,C,6
 293316071,bellard/quickjs,C,18
-51990771,ARM-software/CMSIS_5,C,2
+51990771,ARM-software/CMSIS_5,C,1
 259858821,peng-zhihui/Project-Quantum,C,14
 42948633,signalapp/libsignal-protocol-c,C,10
 118424053,greenbone/openvas,C,2

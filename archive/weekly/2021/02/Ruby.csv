@@ -1,15 +1,15 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,79
-7569578,discourse/discourse,Ruby,73
-8681349,huginn/huginn,Ruby,105
+7569578,discourse/discourse,Ruby,75
+8681349,huginn/huginn,Ruby,106
 52281283,tootsuite/mastodon,Ruby,470
 2293158,rapid7/metasploit-framework,Ruby,173
 3623050,Homebrew/homebrew-cask,Ruby,41
-73648678,forem/forem,Ruby,61
+73648678,forem/forem,Ruby,59
 2203645,CocoaPods/CocoaPods,Ruby,15
 4095287,rubocop-hq/rubocop,Ruby,23
-3195124,mperham/sidekiq,Ruby,19
-96395,faker-ruby/faker,Ruby,15
+3195124,mperham/sidekiq,Ruby,18
+96395,faker-ruby/faker,Ruby,16
 18486300,lewagon/setup,Ruby,433
 15435,Shopify/liquid,Ruby,29
 1725199,github/linguist,Ruby,35
@@ -22,5 +22,5 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,8
 1175581,citation-style-language/styles,Ruby,6
 154027884,samber/awesome-prometheus-alerts,Ruby,26
-9500075,ytti/oxidized,Ruby,10
+9500075,ytti/oxidized,Ruby,11
 93163073,dependabot/dependabot-core,Ruby,18

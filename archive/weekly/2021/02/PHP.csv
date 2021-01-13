@@ -1,16 +1,16 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,36
-7548986,laravel/framework,PHP,47
+7548986,laravel/framework,PHP,49
 1548202,matomo-org/matomo,PHP,293
-12615154,barryvdh/laravel-debugbar,PHP,40
+12615154,barryvdh/laravel-debugbar,PHP,42
 7704544,Intervention/image,PHP,28
 49014795,phpstan/phpstan,PHP,36
-61490598,PHPOffice/PhpSpreadsheet,PHP,44
+61490598,PHPOffice/PhpSpreadsheet,PHP,43
 597887,doctrine/orm,PHP,18
 2699935,squizlabs/PHP_CodeSniffer,PHP,23
 2179920,woocommerce/woocommerce,PHP,27
 41589337,BookStackApp/BookStack,PHP,46
-60491949,fecshop/yii2_fecshop,PHP,20
+60491949,fecshop/yii2_fecshop,PHP,19
 12204147,mautic/mautic,PHP,15
 2464908,joomla/joomla-cms,PHP,5
 255703597,beyondcode/expose,PHP,41
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,20
 47508644,pterodactyl/panel,PHP,21
 69691727,pmmp/PocketMine-MP,PHP,8
-27195711,alextselegidis/easyappointments,PHP,6
+27195711,alextselegidis/easyappointments,PHP,7
 61838413,danog/MadelineProto,PHP,12
 189104054,laravel/ui,PHP,29
 230926110,qkqpttgf/OneManager-php,PHP,39

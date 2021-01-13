@@ -1,13 +1,13 @@
 id,name,lang,new stars
 11180687,gohugoio/hugo,Go,176
-15452919,ethereum/go-ethereum,Go,118
+15452919,ethereum/go-ethereum,Go,123
 16563587,cockroachdb/cockroach,Go,49
 37448451,mattermost/mattermost-server,Go,46
-97533102,halfrost/LeetCode-Go,Go,743
+97533102,halfrost/LeetCode-Go,Go,717
 11008207,vitessio/vitess,Go,46
-119160553,photoprism/photoprism,Go,479
-158645957,OpenDiablo2/OpenDiablo2,Go,159
-26836182,therecipe/qt,Go,67
+119160553,photoprism/photoprism,Go,544
+158645957,OpenDiablo2/OpenDiablo2,Go,160
+26836182,therecipe/qt,Go,65
 100982449,argoproj/argo,Go,50
 222172014,slackhq/nebula,Go,79
 113106184,linkerd/linkerd2,Go,36
@@ -15,12 +15,12 @@ id,name,lang,new stars
 201658460,geektutu/7days-golang,Go,162
 79921099,chromedp/chromedp,Go,55
 93444615,hashicorp/terraform-provider-aws,Go,35
-120896210,argoproj/argo-cd,Go,70
-94173064,mickael-kerjean/filestash,Go,104
+120896210,argoproj/argo-cd,Go,67
+94173064,mickael-kerjean/filestash,Go,107
 154643390,sundowndev/PhoneInfoga,Go,245
 244694886,didi/nightingale,Go,43
 51193526,cosmos/cosmos-sdk,Go,23
-79585104,matrix-org/dendrite,Go,82
 315063189,geektutu/high-performance-go,Go,576
+79585104,matrix-org/dendrite,Go,82
 116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,10
 325862596,ztino/helloworld,Go,751
