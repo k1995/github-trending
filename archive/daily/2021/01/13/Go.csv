@@ -10,7 +10,7 @@ id,name,lang,new stars
 56342508,jaegertracing/jaeger,Go,15
 234231371,gofiber/fiber,Go,26
 4059138,dgrijalva/jwt-go,Go,6
-18858585,mailhog/MailHog,Go,10
+18858585,mailhog/MailHog,Go,8
 39332913,graphql-go/graphql,Go,13
 146641150,tektoncd/pipeline,Go,6
 93444615,hashicorp/terraform-provider-aws,Go,7

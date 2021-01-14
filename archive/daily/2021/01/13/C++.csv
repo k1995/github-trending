@@ -1,5 +1,5 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,44
+45717250,tensorflow/tensorflow,C++,40
 9384267,electron/electron,C++,32
 23357588,protocolbuffers/protobuf,C++,50
 11171548,nlohmann/json,C++,16
@@ -18,7 +18,7 @@ id,name,lang,new stars
 51905353,apache/arrow,C++,7
 50255244,raulmur/ORB_SLAM2,C++,4
 23086893,google/re2,C++,2
-16309,ledger/ledger,C++,34
+16309,ledger/ledger,C++,30
 28149409,mlpack/mlpack,C++,0
 8096326,openMVG/openMVG,C++,6
 12623060,Kurento/kurento-media-server,C++,2
