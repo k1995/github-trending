@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,34
+3482588,danielmiessler/SecLists,PHP,19
 2579314,fzaninotto/Faker,PHP,8
 1864363,composer/composer,PHP,4
 458058,symfony/symfony,PHP,8
@@ -7,17 +7,17 @@ id,name,lang,new stars
 1376664,Seldaek/monolog,PHP,6
 448045,sebastianbergmann/phpunit,PHP,4
 60243197,nextcloud/server,PHP,14
-10157178,egulias/EmailValidator,PHP,3
+10157178,egulias/EmailValidator,PHP,6
 23680678,tymondesigns/jwt-auth,PHP,2
 49014795,phpstan/phpstan,PHP,2
 93580,swiftmailer/swiftmailer,PHP,2
 2884111,magento/magento2,PHP,4
-2699935,squizlabs/PHP_CodeSniffer,PHP,4
+2699935,squizlabs/PHP_CodeSniffer,PHP,5
 6660366,dompdf/dompdf,PHP,5
 12166778,googleapis/google-api-php-client,PHP,2
 4242230,PHPOffice/PHPWord,PHP,3
-14346979,snipe/snipe-it,PHP,2
-9826184,elastic/elasticsearch-php,PHP,3
+14346979,snipe/snipe-it,PHP,3
+9826184,elastic/elasticsearch-php,PHP,5
 31541210,aimeos/aimeos-laravel,PHP,10
 1953386,stripe/stripe-php,PHP,1
 7776575,myclabs/php-enum,PHP,3
