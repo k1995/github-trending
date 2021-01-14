@@ -1,11 +1,11 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,4046
-54346799,public-apis/public-apis,Python,4145
-12888993,home-assistant/core,Python,1137
+54346799,public-apis/public-apis,Python,4148
+12888993,home-assistant/core,Python,1145
 4578002,faif/python-patterns,Python,500
 71220757,swisskyrepo/PayloadsAllTheThings,Python,860
-220809393,willmcgugan/rich,Python,3898
-162998479,sherlock-project/sherlock,Python,2942
+220809393,willmcgugan/rich,Python,4116
+162998479,sherlock-project/sherlock,Python,2920
 12044132,bitcoinbook/bitcoinbook,Python,265
 28904322,waditu/tushare,Python,172
 300592907,mxrch/GHunt,Python,2224
@@ -13,14 +13,14 @@ id,name,lang,new stars
 168799526,rwightman/pytorch-image-models,Python,665
 41179827,Rapptz/discord.py,Python,306
 29050338,mementum/backtrader,Python,256
-91629816,freqtrade/freqtrade,Python,888
+91629816,freqtrade/freqtrade,Python,889
 5274894,spesmilo/electrum,Python,157
-276414382,microsoft/playwright-python,Python,1383
-97431281,pythonstock/stock,Python,654
+276414382,microsoft/playwright-python,Python,1375
+97431281,pythonstock/stock,Python,656
 136332816,tychxn/jd-assistant,Python,721
-300996055,lucidrains/vit-pytorch,Python,968
+300996055,lucidrains/vit-pytorch,Python,970
 100263581,sammchardy/python-binance,Python,122
 199730019,tensortrade-org/tensortrade,Python,187
 246079929,owid/covid-19-data,Python,617
 253044228,projectdiscovery/nuclei-templates,Python,114
-144511449,alexschimpf/Snkrs-Bot,Python,82
+144511449,alexschimpf/Snkrs-Bot,Python,83

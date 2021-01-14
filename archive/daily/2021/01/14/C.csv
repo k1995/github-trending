@@ -1,13 +1,13 @@
 id,name,lang,new stars
 156018,redis/redis,C,27
 10446890,bilibili/ijkplayer,C,10
-14812739,libuv/libuv,C,6
+14812739,libuv/libuv,C,5
 102578345,coolsnowwolf/lede,C,23
 5254557,cloudwu/skynet,C,6
-7710647,jedisct1/libsodium,C,8
-65899476,espressif/esp-idf,C,6
+7710647,jedisct1/libsodium,C,6
+65899476,espressif/esp-idf,C,9
 16734696,meetecho/janus-gateway,C,8
-5870069,edenhill/librdkafka,C,6
+5870069,edenhill/librdkafka,C,4
 192805335,microsoft/mimalloc,C,7
 105944401,yugabyte/yugabyte-db,C,5
 44781140,greenplum-db/gpdb,C,0

@@ -3,10 +3,10 @@ id,name,lang,new stars
 9754983,eugenp/tutorials,Java,14
 173228436,NationalSecurityAgency/ghidra,Java,17
 6766558,Netflix/Hystrix,Java,9
-7613257,SeleniumHQ/selenium,Java,10
+7613257,SeleniumHQ/selenium,Java,11
 159152904,zhangdaiscott/jeecg-boot,Java,27
 2990192,signalapp/Signal-Android,Java,381
-2211243,apache/kafka,Java,8
+2211243,apache/kafka,Java,7
 20587599,apache/flink,Java,20
 74359442,Tencent/APIJSON,Java,12
 22254856,codecentric/spring-boot-admin,Java,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 27741180,signalapp/libsignal-protocol-java,Java,15
 35418187,AsamK/signal-cli,Java,21
 323156624,threema-ch/threema-android,Java,5
-328855004,ethicalhackingplayground/ssrf-king,Java,9
+328855004,ethicalhackingplayground/ssrf-king,Java,6

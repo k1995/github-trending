@@ -1,6 +1,6 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,31
-44838949,apple/swift,C++,14
+44838949,apple/swift,C++,12
 23357588,protocolbuffers/protobuf,C++,100
 65600975,pytorch/pytorch,C++,34
 22887094,tesseract-ocr/tesseract,C++,24
@@ -13,11 +13,11 @@ id,name,lang,new stars
 38581626,pybind/pybind11,C++,7
 310611,apache/thrift,C++,5
 75821432,llvm/llvm-project,C++,18
-51905353,apache/arrow,C++,9
+51905353,apache/arrow,C++,8
 23086893,google/re2,C++,1
 7232856,AGWA/git-crypt,C++,7
 15122806,google/benchmark,C++,2
-153866232,TheCherno/Hazel,C++,10
+153866232,TheCherno/Hazel,C++,7
 75413130,intel-isl/Open3D,C++,10
 4930716,zeek/zeek,C++,5
 145406928,RikkaApps/Riru,C++,3
