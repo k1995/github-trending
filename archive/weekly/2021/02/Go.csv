@@ -2,11 +2,11 @@ id,name,lang,new stars
 15452919,ethereum/go-ethereum,Go,112
 50709152,kataras/iris,Go,84
 26337322,rancher/rancher,Go,48
-97533102,halfrost/LeetCode-Go,Go,726
-167596393,derailed/k9s,Go,112
-158645957,OpenDiablo2/OpenDiablo2,Go,110
+97533102,halfrost/LeetCode-Go,Go,740
+167596393,derailed/k9s,Go,115
+158645957,OpenDiablo2/OpenDiablo2,Go,107
 26836182,therecipe/qt,Go,58
-113106184,linkerd/linkerd2,Go,42
+113106184,linkerd/linkerd2,Go,40
 27576132,aws/aws-sdk-go,Go,84
 79921099,chromedp/chromedp,Go,51
 93444615,hashicorp/terraform-provider-aws,Go,39
@@ -20,6 +20,6 @@ id,name,lang,new stars
 315063189,geektutu/high-performance-go,Go,624
 79585104,matrix-org/dendrite,Go,88
 111455867,smartcontractkit/chainlink,Go,22
-324299224,netxfly/sec-dev-in-action-src,Go,99
+324299224,netxfly/sec-dev-in-action-src,Go,100
 236146680,jm33-m0/emp3r0r,Go,108
 311804365,benbjohnson/wtf,Go,53
