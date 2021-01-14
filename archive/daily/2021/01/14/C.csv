@@ -1,10 +1,10 @@
 id,name,lang,new stars
 156018,redis/redis,C,27
 10446890,bilibili/ijkplayer,C,10
-14812739,libuv/libuv,C,5
+14812739,libuv/libuv,C,6
 102578345,coolsnowwolf/lede,C,23
 5254557,cloudwu/skynet,C,6
-7710647,jedisct1/libsodium,C,6
+7710647,jedisct1/libsodium,C,8
 65899476,espressif/esp-idf,C,6
 16734696,meetecho/janus-gateway,C,8
 5870069,edenhill/librdkafka,C,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 4988795,acassen/keepalived,C,1
 40306512,LuaJIT/LuaJIT,C,3
 39760454,libjpeg-turbo/libjpeg-turbo,C,5
-61451917,billziss-gh/sshfs-win,C,5
+61451917,billziss-gh/sshfs-win,C,3
 96348842,DPDK/dpdk,C,3
 39964628,CANopenNode/CANopenNode,C,3
