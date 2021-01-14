@@ -1,11 +1,11 @@
 id,name,lang,new stars
-23096959,golang/go,Go,61
+23096959,golang/go,Go,58
 7691631,moby/moby,Go,8
 11225014,etcd-io/etcd,Go,32
-3577919,beego/beego,Go,11
+3577919,beego/beego,Go,8
 8989842,unknwon/the-way-to-go_ZH_CN,Go,16
 61137153,evanw/esbuild,Go,135
-21827146,chrislusf/seaweedfs,Go,19
+21827146,chrislusf/seaweedfs,Go,9
 5179099,go-redis/redis,Go,15
 36071697,ory/hydra,Go,137
 100982449,argoproj/argo,Go,13
@@ -19,8 +19,8 @@ id,name,lang,new stars
 134539560,weaveworks/eksctl,Go,5
 75785240,authelia/authelia,Go,16
 135321861,ory/kratos,Go,56
-327859577,juicedata/juicefs,Go,807
+327859577,juicedata/juicefs,Go,804
 107556189,kubernetes/sample-controller,Go,1
 313853293,cloudquery/cloudquery,Go,7
-153233322,juicedata/juicesync,Go,22
+153233322,juicedata/juicesync,Go,17
 311804365,benbjohnson/wtf,Go,12
