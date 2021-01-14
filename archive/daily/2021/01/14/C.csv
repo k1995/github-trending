@@ -5,10 +5,10 @@ id,name,lang,new stars
 5254557,cloudwu/skynet,C,6
 16096528,AudioKit/AudioKit,C,4
 927442,postgres/postgres,C,5
-32873313,systemd/systemd,C,4
+32873313,systemd/systemd,C,3
 75811015,Tencent/xLua,C,3
 65899476,espressif/esp-idf,C,6
-18106269,lz4/lz4,C,9
+18106269,lz4/lz4,C,11
 16734696,meetecho/janus-gateway,C,8
 5870069,edenhill/librdkafka,C,4
 192805335,microsoft/mimalloc,C,7

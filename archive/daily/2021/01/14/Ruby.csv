@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
+8514,rails/rails,Ruby,9
 27442967,fastlane/fastlane,Ruby,9
 52281283,tootsuite/mastodon,Ruby,191
 308770,heartcombo/devise,Ruby,2
-481872,hashicorp/vagrant,Ruby,8
+481872,hashicorp/vagrant,Ruby,9
 1090311,elastic/logstash,Ruby,3
 4095287,rubocop-hq/rubocop,Ruby,3
 3314,spree/spree,Ruby,2
@@ -12,15 +12,15 @@ id,name,lang,new stars
 8393,thoughtbot/paperclip,Ruby,0
 611921,activeadmin/activeadmin,Ruby,0
 451035,heartcombo/simple_form,Ruby,1
-21829,thoughtbot/factory_bot,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,5
+21829,thoughtbot/factory_bot,Ruby,0
+202291859,chatwoot/chatwoot,Ruby,6
 108278,chef/chef,Ruby,1
-2889230,rails-api/active_model_serializers,Ruby,1
-75785147,rails/webpacker,Ruby,6
+2889230,rails-api/active_model_serializers,Ruby,0
+75785147,rails/webpacker,Ruby,5
 16994115,CanCanCommunity/cancancan,Ruby,4
 21333814,lynndylanhurley/devise_token_auth,Ruby,2
-9500075,ytti/oxidized,Ruby,2
-126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,2
+9500075,ytti/oxidized,Ruby,1
+126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,1
 61203,Shopify/shopify_app,Ruby,0
-10088951,TheOdinProject/theodinproject,Ruby,2
-237796058,UnlyEd/next-right-now,Ruby,6
+10088951,TheOdinProject/theodinproject,Ruby,1
+237796058,UnlyEd/next-right-now,Ruby,7
