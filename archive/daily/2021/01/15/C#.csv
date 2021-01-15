@@ -1,7 +1,7 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,15
-17620347,dotnet/aspnetcore,C#,16
-29078997,dotnet/roslyn,C#,2
+17620347,dotnet/aspnetcore,C#,18
+29078997,dotnet/roslyn,C#,3
 54086969,thangchung/awesome-dotnet-core,C#,11
 1613345,StackExchange/Dapper,C#,8
 102904613,Unity-Technologies/ml-agents,C#,21
@@ -10,17 +10,17 @@ id,name,lang,new stars
 28239455,dotnet/AspNetCore.Docs,C#,11
 132021166,dotnet/machinelearning,C#,2
 54213490,xamarin/Xamarin.Forms,C#,6
-164140756,files-community/Files,C#,381
+164140756,files-community/Files,C#,347
 203892454,kgrzybek/modular-monolith-with-ddd,C#,6
 32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,4
-19216825,xamarin/xamarin-forms-samples,C#,6
+19216825,xamarin/xamarin-forms-samples,C#,5
 103086697,thangchung/clean-code-dotnet,C#,13
 10601208,umbraco/Umbraco-CMS,C#,0
 224109382,ant-design-blazor/ant-design-blazor,C#,4
 100711978,btcpayserver/btcpayserver,C#,4
 159973917,stsrki/Blazorise,C#,2
-184286875,actions/runner,C#,2
-19405057,zkavtaskin/Domain-Driven-Design-Example,C#,6
+184286875,actions/runner,C#,3
+19405057,zkavtaskin/Domain-Driven-Design-Example,C#,5
 263503250,Azure/bicep,C#,8
 318523130,kosace/EnhancePoEApp,C#,5
-210178899,svenmauch/WinSlap,C#,18
+210178899,svenmauch/WinSlap,C#,19
