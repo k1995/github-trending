@@ -1,12 +1,12 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,229
-15452919,ethereum/go-ethereum,Go,117
+15452919,ethereum/go-ethereum,Go,115
 50709152,kataras/iris,Go,96
 61137153,evanw/esbuild,Go,388
 97533102,halfrost/LeetCode-Go,Go,711
-20653934,google/cadvisor,Go,30
-5179099,go-redis/redis,Go,71
-31558937,gravitational/teleport,Go,35
+20653934,google/cadvisor,Go,32
+5179099,go-redis/redis,Go,70
+31558937,gravitational/teleport,Go,36
 100982449,argoproj/argo,Go,60
 113106184,linkerd/linkerd2,Go,39
 27576132,aws/aws-sdk-go,Go,87
@@ -17,7 +17,7 @@ id,name,lang,new stars
 75785240,authelia/authelia,Go,115
 51193526,cosmos/cosmos-sdk,Go,22
 325519108,zqjzqj/mtSecKill,Go,1569
-315063189,geektutu/high-performance-go,Go,644
+315063189,geektutu/high-performance-go,Go,416
 79585104,matrix-org/dendrite,Go,57
 111455867,smartcontractkit/chainlink,Go,24
 258469100,fluxcd/flux2,Go,35

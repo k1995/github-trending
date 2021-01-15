@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,405
-102578345,coolsnowwolf/lede,C,133
+2325298,torvalds/linux,C,401
+102578345,coolsnowwolf/lede,C,131
 2810292,pbatard/rufus,C,96
 105627846,reactos/reactos,C,43
 32873313,systemd/systemd,C,37
 45821540,openwrt/openwrt,C,147
-18106269,lz4/lz4,C,38
-13297858,vysheng/tg,C,27
+18106269,lz4/lz4,C,37
+13297858,vysheng/tg,C,26
 168906122,skeeto/endlessh,C,69
 68291988,miloyip/json-tutorial,C,72
 59771425,zephyrproject-rtos/zephyr,C,101
@@ -16,11 +16,11 @@ id,name,lang,new stars
 2359378,madler/zlib,C,15
 254327261,sandboxie-plus/Sandboxie,C,145
 255670798,sandboxie/sandboxie,C,23
-27085821,stellar/stellar-core,C,15
+27085821,stellar/stellar-core,C,16
 29933948,fluent/fluent-bit,C,19
 154797251,sipeed/MaixPy,C,30
 2276287,riscv/riscv-isa-sim,C,15
-70989832,ps2homebrew/Open-PS2-Loader,C,24
+70989832,ps2homebrew/Open-PS2-Loader,C,23
 173287874,brektrou/rtl8821CU,C,11
-89279264,hoglet67/RGBtoHDMI,C,25
+89279264,hoglet67/RGBtoHDMI,C,27
 322830230,ajpc500/BOFs,C,37

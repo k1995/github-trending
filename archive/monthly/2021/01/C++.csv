@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,1486
+1181927,bitcoin/bitcoin,C++,1500
 15634981,godotengine/godot,C++,794
 22067521,ocornut/imgui,C++,1011
 23405758,google/leveldb,C++,323
-13862381,DrKLO/Telegram,C++,430
+13862381,DrKLO/Telegram,C++,432
 19374812,telegramdesktop/tdesktop,C++,738
-31522041,vnpy/vnpy,C++,409
-116167731,yuzu-emu/yuzu,C++,570
-1217614,xbmc/xbmc,C++,502
+31522041,vnpy/vnpy,C++,411
+116167731,yuzu-emu/yuzu,C++,568
+1217614,xbmc/xbmc,C++,503
 3351871,qbittorrent/qBittorrent,C++,345
 34777562,ossrs/srs,C++,411
 2200856,MarlinFirmware/Marlin,C++,682
 5736080,FreeCAD/FreeCAD,C++,363
 160083795,SerenityOS/serenity,C++,438
 11577304,dolphin-emu/dolphin,C++,116
-76990209,Aircoookie/WLED,C++,580
+76990209,Aircoookie/WLED,C++,579
 146330145,ggerganov/kbd-audio,C++,1603
 267649918,hoffstadt/DearPyGui,C++,1035
 88327406,xmrig/xmrig,C++,139
@@ -23,4 +23,4 @@ id,name,lang,new stars
 235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,603
 128479644,esphome/esphome,C++,443
 52882701,prusa3d/PrusaSlicer,C++,189
-240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,1558
+240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,1557
