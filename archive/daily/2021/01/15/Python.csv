@@ -7,7 +7,7 @@ id,name,lang,new stars
 37347459,Eloston/ungoogled-chromium,Python,33
 6780767,aws/aws-cli,Python,7
 16479108,wagtail/wagtail,Python,4
-7053637,python/mypy,Python,10
+7053637,python/mypy,Python,9
 179893494,ddbourgin/numpy-ml,Python,32
 136202695,mlflow/mlflow,Python,15
 1864233,frappe/erpnext,Python,7
@@ -17,9 +17,9 @@ id,name,lang,new stars
 1864194,frappe/frappe,Python,3
 195914972,uber/causalml,Python,3
 2700147,yaml/pyyaml,Python,2
-279908689,carlospolop/hacktricks,Python,236
+279908689,carlospolop/hacktricks,Python,239
 149666254,tensorflow/mesh,Python,17
-319480840,d0nk/parler-tricks,Python,101
+319480840,d0nk/parler-tricks,Python,124
 311009578,RUCAIBox/TextBox,Python,21
 327797875,MontaEllis/Pytorch-Medical-Segmentation,Python,14
 320523643,andyzys/jd_seckill,Python,10
