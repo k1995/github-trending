@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,328
-23357588,protocolbuffers/protobuf,C++,307
+1181927,bitcoin/bitcoin,C++,326
+23357588,protocolbuffers/protobuf,C++,313
 65600975,pytorch/pytorch,C++,197
 15634981,godotengine/godot,C++,188
-27729880,grpc/grpc,C++,105
-39840932,google/googletest,C++,67
-65214191,envoyproxy/envoy,C++,62
+27729880,grpc/grpc,C++,104
+39840932,google/googletest,C++,65
+65214191,envoyproxy/envoy,C++,61
 13862381,DrKLO/Telegram,C++,226
 19374812,telegramdesktop/tdesktop,C++,525
-38581626,pybind/pybind11,C++,38
-310611,apache/thrift,C++,27
+38581626,pybind/pybind11,C++,37
+310611,apache/thrift,C++,26
 160083795,SerenityOS/serenity,C++,115
-51905353,apache/arrow,C++,50
+51905353,apache/arrow,C++,52
 108102826,carla-simulator/carla,C++,39
-86337343,skypjack/entt,C++,118
+86337343,skypjack/entt,C++,119
 88327406,xmrig/xmrig,C++,31
 89067146,ethereum-mining/ethminer,C++,69
 115883761,tdlib/td,C++,46
@@ -21,6 +21,6 @@ id,name,lang,new stars
 184657328,NVIDIA/TensorRT,C++,36
 3030065,gnuradio/gnuradio,C++,15
 99919302,apache/incubator-doris,C++,44
-44292772,DiligentGraphics/DiligentEngine,C++,42
+44292772,DiligentGraphics/DiligentEngine,C++,43
 206138137,alphacep/vosk-api,C++,25
-86362856,borglab/gtsam,C++,14
+86362856,borglab/gtsam,C++,13
