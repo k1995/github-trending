@@ -1,18 +1,18 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,83
-27442967,fastlane/fastlane,Ruby,57
-8681349,huginn/huginn,Ruby,97
-52281283,tootsuite/mastodon,Ruby,755
-2293158,rapid7/metasploit-framework,Ruby,167
+27442967,fastlane/fastlane,Ruby,58
+8681349,huginn/huginn,Ruby,95
+52281283,tootsuite/mastodon,Ruby,762
+2293158,rapid7/metasploit-framework,Ruby,171
 308770,heartcombo/devise,Ruby,28
-481872,hashicorp/vagrant,Ruby,48
+481872,hashicorp/vagrant,Ruby,47
 2203645,CocoaPods/CocoaPods,Ruby,16
-911765,diaspora/diaspora,Ruby,21
+911765,diaspora/diaspora,Ruby,20
 1090311,elastic/logstash,Ruby,16
 4095287,rubocop-hq/rubocop,Ruby,21
 3195124,mperham/sidekiq,Ruby,19
 96395,faker-ruby/faker,Ruby,17
-18486300,lewagon/setup,Ruby,425
+18486300,lewagon/setup,Ruby,437
 15435,Shopify/liquid,Ruby,34
 1725199,github/linguist,Ruby,37
 21829,thoughtbot/factory_bot,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 43347873,danger/danger,Ruby,11
 244452551,alexeygrigorev/data-science-interviews,Ruby,22
 103766152,github/explore,Ruby,22
-93163073,dependabot/dependabot-core,Ruby,16
+93163073,dependabot/dependabot-core,Ruby,15
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,17
