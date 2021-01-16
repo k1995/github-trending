@@ -2,14 +2,14 @@ id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,318
 23357588,protocolbuffers/protobuf,C++,354
 65600975,pytorch/pytorch,C++,203
-15634981,godotengine/godot,C++,175
+15634981,godotengine/godot,C++,173
 27729880,grpc/grpc,C++,104
 39840932,google/googletest,C++,64
 65214191,envoyproxy/envoy,C++,64
 13862381,DrKLO/Telegram,C++,208
 19374812,telegramdesktop/tdesktop,C++,531
 38581626,pybind/pybind11,C++,35
-160083795,SerenityOS/serenity,C++,124
+160083795,SerenityOS/serenity,C++,123
 310611,apache/thrift,C++,27
 51905353,apache/arrow,C++,52
 108102826,carla-simulator/carla,C++,40
