@@ -1,11 +1,11 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,77
-27442967,fastlane/fastlane,Ruby,51
+65252,jekyll/jekyll,Ruby,78
+27442967,fastlane/fastlane,Ruby,53
 8681349,huginn/huginn,Ruby,93
-52281283,tootsuite/mastodon,Ruby,755
+52281283,tootsuite/mastodon,Ruby,754
 2293158,rapid7/metasploit-framework,Ruby,167
-308770,heartcombo/devise,Ruby,27
-481872,hashicorp/vagrant,Ruby,42
+308770,heartcombo/devise,Ruby,25
+481872,hashicorp/vagrant,Ruby,43
 3623050,Homebrew/homebrew-cask,Ruby,29
 2203645,CocoaPods/CocoaPods,Ruby,16
 911765,diaspora/diaspora,Ruby,20
@@ -13,13 +13,13 @@ id,name,lang,new stars
 4095287,rubocop-hq/rubocop,Ruby,20
 3195124,mperham/sidekiq,Ruby,19
 96395,faker-ruby/faker,Ruby,16
-18486300,lewagon/setup,Ruby,419
+18486300,lewagon/setup,Ruby,425
 1725199,github/linguist,Ruby,35
 587311,omniauth/omniauth,Ruby,19
 2441517,puma/puma,Ruby,4
-75785147,rails/webpacker,Ruby,20
+75785147,rails/webpacker,Ruby,21
 30337170,rmosolgo/graphql-ruby,Ruby,9
-6899875,opf/openproject,Ruby,34
+6899875,opf/openproject,Ruby,35
 43347873,danger/danger,Ruby,10
 244452551,alexeygrigorev/data-science-interviews,Ruby,22
 93163073,dependabot/dependabot-core,Ruby,15
