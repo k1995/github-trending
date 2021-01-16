@@ -19,7 +19,7 @@ id,name,lang,new stars
 11452538,prometheus/alertmanager,Go,9
 29778781,slack-go/slack,Go,4
 16607984,DATA-DOG/go-sqlmock,Go,4
-327859577,juicedata/juicefs,Go,181
+327859577,juicedata/juicefs,Go,165
 108337180,rancher/rke,Go,2
 74891203,rebuy-de/aws-nuke,Go,1
 276822250,oam-dev/kubevela,Go,11
