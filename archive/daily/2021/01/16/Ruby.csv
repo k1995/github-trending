@@ -7,7 +7,7 @@ id,name,lang,new stars
 611921,activeadmin/activeadmin,Ruby,2
 47087,carrierwaveuploader/carrierwave,Ruby,0
 451035,heartcombo/simple_form,Ruby,3
-587311,omniauth/omniauth,Ruby,5
+587311,omniauth/omniauth,Ruby,6
 21829,thoughtbot/factory_bot,Ruby,0
 910744,puppetlabs/puppet,Ruby,1
 12004006,hanami/hanami,Ruby,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,4
 11426474,github/choosealicense.com,Ruby,4
 34840276,elastic/ansible-elasticsearch,Ruby,2
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,2
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,4
 271289102,davidesantangelo/datoji,Ruby,11
 240977125,Gcenx/homebrew-wine,Ruby,8

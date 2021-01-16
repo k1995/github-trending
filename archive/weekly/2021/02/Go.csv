@@ -1,19 +1,19 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,230
-7691631,moby/moby,Go,108
+7691631,moby/moby,Go,112
 11225014,etcd-io/etcd,Go,130
 50709152,kataras/iris,Go,97
 61137153,evanw/esbuild,Go,416
 97533102,halfrost/LeetCode-Go,Go,710
-56342508,jaegertracing/jaeger,Go,76
+56342508,jaegertracing/jaeger,Go,77
 20653934,google/cadvisor,Go,33
 5179099,go-redis/redis,Go,72
 36071697,ory/hydra,Go,202
-31558937,gravitational/teleport,Go,41
+31558937,gravitational/teleport,Go,43
 4059138,dgrijalva/jwt-go,Go,50
 44344606,go-chi/chi,Go,46
 113106184,linkerd/linkerd2,Go,43
-27576132,aws/aws-sdk-go,Go,53
+27576132,aws/aws-sdk-go,Go,49
 93444615,hashicorp/terraform-provider-aws,Go,39
 125275487,kubernetes-sigs/kubebuilder,Go,34
 29778781,slack-go/slack,Go,18
