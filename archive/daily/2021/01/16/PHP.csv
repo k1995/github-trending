@@ -5,12 +5,12 @@ id,name,lang,new stars
 2253830,PHPMailer/PHPMailer,PHP,9
 11323319,erusev/parsedown,PHP,5
 60243197,nextcloud/server,PHP,13
-14732311,octobercms/october,PHP,6
+14732311,octobercms/october,PHP,5
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,5
 14259390,Maatwebsite/Laravel-Excel,PHP,8
-2884111,magento/magento2,PHP,1
+2884111,magento/magento2,PHP,2
 79111500,jupeter/clean-code-php,PHP,17
-597887,doctrine/orm,PHP,6
+597887,doctrine/orm,PHP,9
 6660366,dompdf/dompdf,PHP,4
 77071207,laravel/tinker,PHP,3
 41589337,BookStackApp/BookStack,PHP,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,3
 4565995,phpseclib/phpseclib,PHP,3
 222873550,bytefury/crater,PHP,3
-148129143,bagisto/bagisto,PHP,5
+148129143,bagisto/bagisto,PHP,6
 204472210,facade/ignition,PHP,2
-325151614,tonysm/turbo-laravel,PHP,43
+325151614,tonysm/turbo-laravel,PHP,49
 248544866,ronmarasigan/LavaLust,PHP,32
