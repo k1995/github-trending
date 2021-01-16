@@ -14,7 +14,6 @@ id,name,lang,new stars
 29099181,keybase/client,Go,108
 116739828,DNSCrypt/dnscrypt-proxy,Go,157
 222172014,slackhq/nebula,Go,272
-62712899,AdguardTeam/AdGuardHome,Go,389
 134012064,pion/webrtc,Go,336
 201658460,geektutu/7days-golang,Go,537
 285864199,tal-tech/go-zero,Go,1199
@@ -24,3 +23,4 @@ id,name,lang,new stars
 311315731,XTLS/Xray-core,Go,692
 79585104,matrix-org/dendrite,Go,175
 281694167,Mrs4s/go-cqhttp,Go,189
+279592699,rancher/harvester,Go,456
