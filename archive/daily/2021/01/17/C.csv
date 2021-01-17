@@ -2,7 +2,7 @@ id,name,lang,new stars
 2325298,torvalds/linux,C,115
 156018,redis/redis,C,24
 1903522,php/php-src,C,21
-13233158,obsproject/obs-studio,C,36
+13233158,obsproject/obs-studio,C,65
 569041,curl/curl,C,21
 5254557,cloudwu/skynet,C,7
 16096528,AudioKit/AudioKit,C,9
@@ -12,7 +12,7 @@ id,name,lang,new stars
 13836499,raysan5/raylib,C,17
 192805335,microsoft/mimalloc,C,7
 105944401,yugabyte/yugabyte-db,C,8
-22711503,gcc-mirror/gcc,C,5
+22711503,gcc-mirror/gcc,C,6
 241659610,OpenIntelWireless/itlwm,C,23
 26362798,giltene/wrk2,C,14
 59676171,KevinOConnor/klipper,C,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 2276287,riscv/riscv-isa-sim,C,5
 211756905,MarlinFirmware/Configurations,C,4
 34973309,USBhost/MX_FFmpeg,C,4
-312413077,jsherman212/xnuspy,C,112
+312413077,jsherman212/xnuspy,C,111
 329707886,AsahiLinux/m1n1,C,92
