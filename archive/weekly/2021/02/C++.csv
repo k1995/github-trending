@@ -2,7 +2,7 @@ id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,362
 23357588,protocolbuffers/protobuf,C++,366
 65600975,pytorch/pytorch,C++,235
-27729880,grpc/grpc,C++,112
+27729880,grpc/grpc,C++,114
 39840932,google/googletest,C++,76
 65214191,envoyproxy/envoy,C++,71
 13862381,DrKLO/Telegram,C++,217
@@ -12,12 +12,12 @@ id,name,lang,new stars
 160083795,SerenityOS/serenity,C++,126
 108102826,carla-simulator/carla,C++,45
 23086893,google/re2,C++,27
-88327406,xmrig/xmrig,C++,39
+88327406,xmrig/xmrig,C++,40
 89067146,ethereum-mining/ethminer,C++,79
 115883761,tdlib/td,C++,48
 235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,232
 52882701,prusa3d/PrusaSlicer,C++,44
-10952997,USCiLab/cereal,C++,18
+10952997,USCiLab/cereal,C++,19
 67641996,oneapi-src/oneTBB,C++,28
 3030065,gnuradio/gnuradio,C++,12
 99919302,apache/incubator-doris,C++,47

@@ -1,6 +1,6 @@
 id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,62
-13233158,obsproject/obs-studio,C,65
+13233158,obsproject/obs-studio,C,36
 80286288,arendst/Tasmota,C,6
 102578345,coolsnowwolf/lede,C,28
 246335987,ventoy/Ventoy,C,19
@@ -11,7 +11,7 @@ id,name,lang,new stars
 70127218,espressif/arduino-esp32,C,6
 65899476,espressif/esp-idf,C,7
 6376337,pocoproject/poco,C,5
-22711503,gcc-mirror/gcc,C,8
+22711503,gcc-mirror/gcc,C,5
 5383731,qemu/qemu,C,5
 241659610,OpenIntelWireless/itlwm,C,23
 68751856,gnea/grbl,C,3

@@ -5,10 +5,10 @@ id,name,lang,new stars
 8681349,huginn/huginn,Ruby,93
 52281283,tootsuite/mastodon,Ruby,761
 2293158,rapid7/metasploit-framework,Ruby,177
-308770,heartcombo/devise,Ruby,24
+308770,heartcombo/devise,Ruby,25
 481872,hashicorp/vagrant,Ruby,47
 73648678,forem/forem,Ruby,60
-911765,diaspora/diaspora,Ruby,21
+911765,diaspora/diaspora,Ruby,23
 1090311,elastic/logstash,Ruby,13
 4095287,rubocop-hq/rubocop,Ruby,15
 96395,faker-ruby/faker,Ruby,19
@@ -19,7 +19,7 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,3
 75785147,rails/webpacker,Ruby,22
 30337170,rmosolgo/graphql-ruby,Ruby,9
-6899875,opf/openproject,Ruby,36
+6899875,opf/openproject,Ruby,37
 43347873,danger/danger,Ruby,11
 244452551,alexeygrigorev/data-science-interviews,Ruby,24
 103766152,github/explore,Ruby,23
