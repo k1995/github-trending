@@ -5,8 +5,8 @@ id,name,lang,new stars
 22067521,ocornut/imgui,C++,37
 11171548,nlohmann/json,C++,29
 6934395,facebook/rocksdb,C++,19
-4524181,facebook/folly,C++,13
-125098880,ValveSoftware/Proton,C++,28
+4524181,facebook/folly,C++,12
+125098880,ValveSoftware/Proton,C++,22
 1062572,catchorg/Catch2,C++,7
 191820100,google/mediapipe,C++,23
 17391973,Tencent/rapidjson,C++,10
@@ -16,7 +16,7 @@ id,name,lang,new stars
 108102826,carla-simulator/carla,C++,12
 4454793,musescore/MuseScore,C++,11
 23086893,google/re2,C++,9
-15122806,google/benchmark,C++,7
+15122806,google/benchmark,C++,8
 64561753,dusty-nv/jetson-inference,C++,9
 156939672,microsoft/onnxruntime,C++,12
 75662387,google/draco,C++,9
