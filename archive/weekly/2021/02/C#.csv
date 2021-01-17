@@ -1,6 +1,6 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,129
-17620347,dotnet/aspnetcore,C#,90
+17620347,dotnet/aspnetcore,C#,80
 70104825,dotnet-architecture/eShopOnContainers,C#,68
 1613345,StackExchange/Dapper,C#,36
 16157746,dotnet/efcore,C#,28
@@ -18,9 +18,9 @@ id,name,lang,new stars
 224109382,ant-design-blazor/ant-design-blazor,C#,56
 23891194,Azure/azure-powershell,C#,10
 54308403,microsoft/WinAppDriver,C#,16
-117102183,ChilliCream/hotchocolate,C#,40
+117102183,ChilliCream/hotchocolate,C#,42
 297163997,Impostor/Impostor,C#,50
-295200728,stnkl/EverythingToolbar,C#,391
+295200728,stnkl/EverythingToolbar,C#,385
 185478059,open-telemetry/opentelemetry-dotnet,C#,15
 252826419,Unity-Technologies/Graphics,C#,14
-33476566,Tichau/FileConverter,C#,132
+33476566,Tichau/FileConverter,C#,135

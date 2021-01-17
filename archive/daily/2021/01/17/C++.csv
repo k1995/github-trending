@@ -2,11 +2,11 @@ id,name,lang,new stars
 9384267,electron/electron,C++,49
 44838949,apple/swift,C++,28
 23357588,protocolbuffers/protobuf,C++,63
-22067521,ocornut/imgui,C++,37
+22067521,ocornut/imgui,C++,34
 11171548,nlohmann/json,C++,29
 6934395,facebook/rocksdb,C++,19
-4524181,facebook/folly,C++,12
-125098880,ValveSoftware/Proton,C++,22
+4524181,facebook/folly,C++,13
+125098880,ValveSoftware/Proton,C++,26
 1062572,catchorg/Catch2,C++,7
 191820100,google/mediapipe,C++,23
 17391973,Tencent/rapidjson,C++,10
@@ -19,7 +19,7 @@ id,name,lang,new stars
 15122806,google/benchmark,C++,8
 64561753,dusty-nv/jetson-inference,C++,9
 156939672,microsoft/onnxruntime,C++,12
-75662387,google/draco,C++,9
+75662387,google/draco,C++,5
 151636194,triton-inference-server/server,C++,6
 49244766,unicode-org/icu,C++,6
 193027765,bigtreetech/BIGTREETECH-SKR-mini-E3,C++,4
