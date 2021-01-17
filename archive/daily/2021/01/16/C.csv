@@ -2,7 +2,7 @@ id,name,lang,new stars
 2325298,torvalds/linux,C,62
 156018,redis/redis,C,17
 1903522,php/php-src,C,19
-13233158,obsproject/obs-studio,C,39
+13233158,obsproject/obs-studio,C,65
 569041,curl/curl,C,16
 5254557,cloudwu/skynet,C,7
 16096528,AudioKit/AudioKit,C,8
@@ -22,5 +22,5 @@ id,name,lang,new stars
 2276287,riscv/riscv-isa-sim,C,3
 211756905,MarlinFirmware/Configurations,C,4
 34973309,USBhost/MX_FFmpeg,C,3
-312413077,jsherman212/xnuspy,C,101
+312413077,jsherman212/xnuspy,C,102
 329707886,AsahiLinux/m1n1,C,82
