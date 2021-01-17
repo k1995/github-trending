@@ -1,15 +1,15 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,455
 156018,redis/redis,C,139
-1903522,php/php-src,C,66
+1903522,php/php-src,C,67
 16096528,AudioKit/AudioKit,C,31
 927442,postgres/postgres,C,41
 32873313,systemd/systemd,C,38
 179354282,acidanthera/OpenCorePkg,C,121
-18106269,lz4/lz4,C,40
-4151993,OpenVPN/openvpn,C,30
+18106269,lz4/lz4,C,41
+4151993,OpenVPN/openvpn,C,32
 13297858,vysheng/tg,C,27
-16734696,meetecho/janus-gateway,C,36
+16734696,meetecho/janus-gateway,C,37
 168906122,skeeto/endlessh,C,68
 7765403,zmap/zmap,C,22
 241659610,OpenIntelWireless/itlwm,C,66
@@ -23,4 +23,4 @@ id,name,lang,new stars
 2276287,riscv/riscv-isa-sim,C,15
 70989832,ps2homebrew/Open-PS2-Loader,C,18
 327656592,AsahiLinux/gpu,C,114
-311661295,didi/Hummer,C,50
+311661295,didi/Hummer,C,43
