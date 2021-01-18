@@ -1,19 +1,19 @@
 id,name,lang,new stars
 121395510,CyC2018/CS-Notes,Java,673
-6296790,spring-projects/spring-boot,Java,222
+6296790,spring-projects/spring-boot,Java,213
 9754983,eugenp/tutorials,Java,100
-2990192,signalapp/Signal-Android,Java,3273
+2990192,signalapp/Signal-Android,Java,3184
 44662669,dbeaver/dbeaver,Java,226
 20818126,google/ExoPlayer,Java,65
-144705602,didi/DoraemonKit,Java,134
+144705602,didi/DoraemonKit,Java,113
 137451403,alibaba/nacos,Java,210
-161757837,elunez/eladmin,Java,216
+161757837,elunez/eladmin,Java,196
 74359442,Tencent/APIJSON,Java,114
-27729926,grpc/grpc-java,Java,32
-134164777,crossoverJie/cim,Java,98
-191744942,Tencent/Shadow,Java,33
-111241370,ionic-team/capacitor,Java,84
-15040596,signalapp/Signal-Server,Java,2053
+27729926,grpc/grpc-java,Java,35
+134164777,crossoverJie/cim,Java,95
+191744942,Tencent/Shadow,Java,20
+111241370,ionic-team/capacitor,Java,82
+15040596,signalapp/Signal-Server,Java,1997
 11981144,languagetool-org/languagetool,Java,51
 50205233,debezium/debezium,Java,43
 77385607,JanusGraph/janusgraph,Java,33
@@ -22,5 +22,5 @@ id,name,lang,new stars
 27741180,signalapp/libsignal-protocol-java,Java,86
 35418187,AsamK/signal-cli,Java,163
 182950817,s4kibs4mi/java-developer-roadmap,Java,64
-248416273,didi/Logi-KafkaManager,Java,229
-231329990,jetlinks/jetlinks-community,Java,55
+248416273,didi/Logi-KafkaManager,Java,233
+231329990,jetlinks/jetlinks-community,Java,56
