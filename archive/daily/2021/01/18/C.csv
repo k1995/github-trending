@@ -1,12 +1,12 @@
 id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,89
-13233158,obsproject/obs-studio,C,59
-102578345,coolsnowwolf/lede,C,40
+13233158,obsproject/obs-studio,C,57
+102578345,coolsnowwolf/lede,C,44
 246335987,ventoy/Ventoy,C,34
 15337142,micropython/micropython,C,8
 95133665,s-matyukevich/raspberry-pi-os,C,8
 90320494,ish-app/ish,C,21
-27737393,qmk/qmk_firmware,C,6
+27737393,qmk/qmk_firmware,C,12
 78281075,SpacehuhnTech/esp8266_deauther,C,6
 179354282,acidanthera/OpenCorePkg,C,6
 2328181,freebsd/freebsd-src,C,6
@@ -15,7 +15,7 @@ id,name,lang,new stars
 3791835,darktable-org/darktable,C,3
 5383731,qemu/qemu,C,11
 241659610,OpenIntelWireless/itlwm,C,23
-254327261,sandboxie-plus/Sandboxie,C,213
+254327261,sandboxie-plus/Sandboxie,C,223
 255670798,sandboxie/sandboxie,C,19
 59213200,flatpak/flatpak,C,7
 124678204,aircrack-ng/aircrack-ng,C,8
