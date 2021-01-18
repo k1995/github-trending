@@ -1,12 +1,12 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,24
-3482588,danielmiessler/SecLists,PHP,30
-2246815,domnikl/DesignPatternsPHP,PHP,8
-60243197,nextcloud/server,PHP,9
+3482588,danielmiessler/SecLists,PHP,28
+2246815,domnikl/DesignPatternsPHP,PHP,7
+60243197,nextcloud/server,PHP,10
 1280180,phacility/phabricator,PHP,1
-15020102,walkor/Workerman,PHP,42
+15020102,walkor/Workerman,PHP,37
 12594863,kalcaddle/KodExplorer,PHP,4
-86350964,the-benchmarker/web-frameworks,PHP,36
+86350964,the-benchmarker/web-frameworks,PHP,37
 627735,vrana/adminer,PHP,2
 13044600,salesagility/SuiteCRM,PHP,1
 44733816,privacy-protection-tools/anti-AD,PHP,2
@@ -20,6 +20,6 @@ id,name,lang,new stars
 223535535,Ignitetch/AdvPhishing,PHP,5
 36526302,pentestmonkey/php-reverse-shell,PHP,2
 143703053,rajkumardusad/IP-Tracer,PHP,1
-302086048,squirephp/squire,PHP,60
+302086048,squirephp/squire,PHP,62
 236046803,midorikocak/nano,PHP,5
 328006212,RakibDevs/openweather-laravel-api,PHP,4
