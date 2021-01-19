@@ -6,8 +6,8 @@ id,name,lang,new stars
 53632140,zyedidia/micro,Go,12
 123572362,quii/learn-go-with-tests,Go,18
 120227732,fyne-io/fyne,Go,16
-234231371,gofiber/fiber,Go,15
-40684033,mozilla/sops,Go,9
+234231371,gofiber/fiber,Go,21
+40684033,mozilla/sops,Go,11
 815644,miekg/dns,Go,10
 187403699,FiloSottile/age,Go,6
 140457254,OWASP/Amass,Go,7
@@ -18,7 +18,7 @@ id,name,lang,new stars
 45356931,bwmarrin/discordgo,Go,6
 34498446,brianvoe/gofakeit,Go,51
 111455867,smartcontractkit/chainlink,Go,9
-261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,3
+261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,6
 238553537,gofiber/recipes,Go,4
 220588935,naiba/nezha,Go,27
 297622945,cloudskiff/driftctl,Go,50
