@@ -1,12 +1,12 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,43
+20580498,kubernetes/kubernetes,Go,47
 48378947,fatedier/frp,Go,29
 6838921,prometheus/prometheus,Go,21
 37448451,mattermost/mattermost-server,Go,10
 46806184,helm/charts,Go,4
 19205896,restic/restic,Go,13
-234231371,gofiber/fiber,Go,23
-7083242,go-sql-driver/mysql,Go,7
+234231371,gofiber/fiber,Go,16
+7083242,go-sql-driver/mysql,Go,8
 11593442,golang/groupcache,Go,9
 33258973,influxdata/telegraf,Go,6
 7877397,jmoiron/sqlx,Go,5
@@ -14,13 +14,13 @@ id,name,lang,new stars
 26726495,go-swagger/go-swagger,Go,4
 7039626,olivere/elastic,Go,6
 81355383,mongodb/mongo-go-driver,Go,3
-815644,miekg/dns,Go,10
+815644,miekg/dns,Go,9
 173785481,tfsec/tfsec,Go,4
 311315731,XTLS/Xray-core,Go,27
 79585104,matrix-org/dendrite,Go,9
-34498446,brianvoe/gofakeit,Go,51
-111455867,smartcontractkit/chainlink,Go,8
-187086161,open-telemetry/opentelemetry-go,Go,6
+34498446,brianvoe/gofakeit,Go,53
+111455867,smartcontractkit/chainlink,Go,9
+187086161,open-telemetry/opentelemetry-go,Go,5
 220588935,naiba/nezha,Go,27
-297622945,cloudskiff/driftctl,Go,51
-329834563,fabpot/local-php-security-checker,Go,42
+297622945,cloudskiff/driftctl,Go,48
+329834563,fabpot/local-php-security-checker,Go,28

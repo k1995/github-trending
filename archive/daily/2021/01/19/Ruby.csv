@@ -1,15 +1,15 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,10
-2293158,rapid7/metasploit-framework,Ruby,9
+65252,jekyll/jekyll,Ruby,13
+2293158,rapid7/metasploit-framework,Ruby,13
 2500088,gitlabhq/gitlabhq,Ruby,3
 308770,heartcombo/devise,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,4
-3314,spree/spree,Ruby,5
+3314,spree/spree,Ruby,6
 1918677,fluent/fluentd,Ruby,2
-18486300,lewagon/setup,Ruby,55
-611921,activeadmin/activeadmin,Ruby,1
-15435,Shopify/liquid,Ruby,2
-6529205,varvet/pundit,Ruby,3
+18486300,lewagon/setup,Ruby,50
+611921,activeadmin/activeadmin,Ruby,2
+15435,Shopify/liquid,Ruby,3
+6529205,varvet/pundit,Ruby,4
 21829,thoughtbot/factory_bot,Ruby,0
 202291859,chatwoot/chatwoot,Ruby,12
 211588,paper-trail-gem/paper_trail,Ruby,0
@@ -19,8 +19,8 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,2
 950915,urbanadventurer/WhatWeb,Ruby,9
 14238949,elastic/elasticsearch-rails,Ruby,0
-239001,rspec/rspec,Ruby,0
+239001,rspec/rspec,Ruby,1
 9500075,ytti/oxidized,Ruby,2
-93163073,dependabot/dependabot-core,Ruby,2
+93163073,dependabot/dependabot-core,Ruby,3
 61203,Shopify/shopify_app,Ruby,1
-34840276,elastic/ansible-elasticsearch,Ruby,2
+34840276,elastic/ansible-elasticsearch,Ruby,1
