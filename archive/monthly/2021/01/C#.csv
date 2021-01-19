@@ -1,5 +1,6 @@
 id,name,lang,new stars
 38380854,dnSpy/dnSpy,C#,399
+1327739,icsharpcode/ILSpy,C#,250
 102904613,Unity-Technologies/ml-agents,C#,319
 161012019,jellyfin/jellyfin,C#,472
 88064357,QL-Win/QuickLook,C#,317
@@ -9,17 +10,16 @@ id,name,lang,new stars
 44897462,JustArchiNET/ArchiSteamFarm,C#,135
 22456440,ppy/osu,C#,188
 2465723,Sonarr/Sonarr,C#,124
-64753043,Perfare/AssetStudio,C#,153
+69673033,ardalis/CleanArchitecture,C#,288
 27251463,QuantConnect/Lean,C#,185
 135050219,TGSAN/CMWTAT_Digital_Edition,C#,307
 21611723,quasar/Quasar,C#,138
 213460285,jasontaylordev/CleanArchitecture,C#,321
 27703983,StockSharp/StockSharp,C#,121
+19216825,xamarin/xamarin-forms-samples,C#,57
 182095352,nilaoda/N_m3u8DL-CLI,C#,291
 103086697,thangchung/clean-code-dotnet,C#,548
 120231691,Ryujinx/Ryujinx,C#,185
-286490065,UnityTechnologies/open-project-1,C#,512
-109916954,gibbed/SteamAchievementManager,C#,90
 295200728,stnkl/EverythingToolbar,C#,1150
 151148482,elsa-workflows/elsa-core,C#,208
 322003344,tjackenpacken/taskbar-groups,C#,883
