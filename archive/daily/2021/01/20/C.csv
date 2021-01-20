@@ -11,8 +11,8 @@ id,name,lang,new stars
 5870069,edenhill/librdkafka,C,3
 31791482,microsoft/Windows-driver-samples,C,1
 59771425,zephyrproject-rtos/zephyr,C,9
-241659610,OpenIntelWireless/itlwm,C,44
-254327261,sandboxie-plus/Sandboxie,C,146
+241659610,OpenIntelWireless/itlwm,C,34
+254327261,sandboxie-plus/Sandboxie,C,140
 6687936,ARMmbed/mbedtls,C,4
 45703884,olikraus/u8g2,C,4
 131449222,moonlight-stream/moonlight-qt,C,8
@@ -23,4 +23,4 @@ id,name,lang,new stars
 290808391,atc1441/ATC_MiThermometer,C,0
 53432472,Azure/sonic-buildimage,C,0
 246293476,ryan-ma/PD_Micro,C,5
-303753825,Emmabrdt/Cub3d-Linux,C,13
+303753825,Emmabrdt/Cub3d-Linux,C,11
