@@ -1,18 +1,18 @@
 id,name,lang,new stars
-15452919,ethereum/go-ethereum,Go,20
-29261473,minio/minio,Go,25
+15452919,ethereum/go-ethereum,Go,23
+29261473,minio/minio,Go,44
 8989842,unknwon/the-way-to-go_ZH_CN,Go,20
-31288958,hashicorp/vault,Go,10
+31288958,hashicorp/vault,Go,11
 41349039,dgraph-io/dgraph,Go,12
 50613991,goharbor/harbor,Go,15
-120227732,fyne-io/fyne,Go,26
-20653934,google/cadvisor,Go,9
-7083242,go-sql-driver/mysql,Go,11
+120227732,fyne-io/fyne,Go,23
+20653934,google/cadvisor,Go,8
+7083242,go-sql-driver/mysql,Go,10
 119160553,photoprism/photoprism,Go,33
 4059138,dgrijalva/jwt-go,Go,10
 92313258,jetstack/cert-manager,Go,2
 9524057,prometheus/node_exporter,Go,5
-93444615,hashicorp/terraform-provider-aws,Go,6
+93444615,hashicorp/terraform-provider-aws,Go,7
 68964263,prometheus-operator/prometheus-operator,Go,9
 53174289,gruntwork-io/terratest,Go,6
 140457254,OWASP/Amass,Go,9
@@ -20,7 +20,7 @@ id,name,lang,new stars
 156681830,ffuf/ffuf,Go,9
 58184885,kubernetes/kube-state-metrics,Go,3
 93446042,terraform-providers/terraform-provider-azurerm,Go,3
-22883982,vmware/govmomi,Go,2
+22883982,vmware/govmomi,Go,7
 253024215,hahwul/WebHackersWeapons,Go,10
 258469100,fluxcd/flux2,Go,9
-297622945,cloudskiff/driftctl,Go,37
+297622945,cloudskiff/driftctl,Go,35

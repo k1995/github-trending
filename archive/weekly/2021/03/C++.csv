@@ -1,17 +1,17 @@
 id,name,lang,new stars
-23357588,protocolbuffers/protobuf,C++,285
-27729880,grpc/grpc,C++,107
+23357588,protocolbuffers/protobuf,C++,277
+27729880,grpc/grpc,C++,103
 11171548,nlohmann/json,C++,105
 65214191,envoyproxy/envoy,C++,58
 13862381,DrKLO/Telegram,C++,127
-52729242,keepassxreboot/keepassxc,C++,66
-196813750,Light-City/CPlusPlusThings,C++,255
+52729242,keepassxreboot/keepassxc,C++,65
+196813750,Light-City/CPlusPlusThings,C++,252
 38581626,pybind/pybind11,C++,45
 25135037,symless/synergy-core,C++,28
-51905353,apache/arrow,C++,52
+51905353,apache/arrow,C++,51
 4454793,musescore/MuseScore,C++,76
 108102826,carla-simulator/carla,C++,47
-23086893,google/re2,C++,23
+23086893,google/re2,C++,22
 181436799,alibaba/MNN,C++,57
 153866232,TheCherno/Hazel,C++,57
 46374199,IntelRealSense/librealsense,C++,32
@@ -19,7 +19,7 @@ id,name,lang,new stars
 115883761,tdlib/td,C++,41
 58168143,PixarAnimationStudios/USD,C++,15
 67641996,oneapi-src/oneTBB,C++,25
-3030065,gnuradio/gnuradio,C++,41
+3030065,gnuradio/gnuradio,C++,42
 153097643,openvinotoolkit/openvino,C++,21
 244694174,project-chip/connectedhomeip,C++,22
 293583556,tomlooman/ActionRoguelike,C++,464
