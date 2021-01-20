@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,14
+8514,rails/rails,Ruby,16
 65252,jekyll/jekyll,Ruby,8
 27442967,fastlane/fastlane,Ruby,14
 2500088,gitlabhq/gitlabhq,Ruby,3
-308770,heartcombo/devise,Ruby,1
-481872,hashicorp/vagrant,Ruby,4
+308770,heartcombo/devise,Ruby,2
+481872,hashicorp/vagrant,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,7
 1090311,elastic/logstash,Ruby,6
 4095287,rubocop-hq/rubocop,Ruby,1
@@ -14,7 +14,7 @@ id,name,lang,new stars
 15435,Shopify/liquid,Ruby,5
 6529205,varvet/pundit,Ruby,5
 21829,thoughtbot/factory_bot,Ruby,0
-202291859,chatwoot/chatwoot,Ruby,7
+202291859,chatwoot/chatwoot,Ruby,6
 211588,paper-trail-gem/paper_trail,Ruby,0
 75785147,rails/webpacker,Ruby,3
 1980539,drapergem/draper,Ruby,1
