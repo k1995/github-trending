@@ -1,11 +1,11 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,241
-1548202,matomo-org/matomo,PHP,434
+1548202,matomo-org/matomo,PHP,435
 53783664,easychen/howto-make-more-money,PHP,977
 12615154,barryvdh/laravel-debugbar,PHP,152
-61490598,PHPOffice/PhpSpreadsheet,PHP,152
-15020102,walkor/Workerman,PHP,153
-79111500,jupeter/clean-code-php,PHP,150
+61490598,PHPOffice/PhpSpreadsheet,PHP,153
+15020102,walkor/Workerman,PHP,155
+79111500,jupeter/clean-code-php,PHP,148
 41589337,BookStackApp/BookStack,PHP,189
 2141186,opencart/opencart,PHP,65
 21298446,firefly-iii/firefly-iii,PHP,142
@@ -16,7 +16,7 @@ id,name,lang,new stars
 2464908,joomla/joomla-cms,PHP,24
 76064827,mailcow/mailcow-dockerized,PHP,138
 41463886,codeigniter4/CodeIgniter4,PHP,87
-148129143,bagisto/bagisto,PHP,101
+148129143,bagisto/bagisto,PHP,100
 255703597,beyondcode/expose,PHP,95
 291805291,laravel/jetstream,PHP,132
 1957456,Dolibarr/dolibarr,PHP,66

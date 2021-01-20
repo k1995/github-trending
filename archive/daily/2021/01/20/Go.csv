@@ -3,7 +3,7 @@ id,name,lang,new stars
 48378947,fatedier/frp,Go,35
 6838921,prometheus/prometheus,Go,26
 37448451,mattermost/mattermost-server,Go,14
-46806184,helm/charts,Go,5
+46806184,helm/charts,Go,3
 19205896,restic/restic,Go,10
 234231371,gofiber/fiber,Go,25
 7083242,go-sql-driver/mysql,Go,12
@@ -15,9 +15,9 @@ id,name,lang,new stars
 7039626,olivere/elastic,Go,5
 81355383,mongodb/mongo-go-driver,Go,4
 815644,miekg/dns,Go,9
-173785481,tfsec/tfsec,Go,3
+173785481,tfsec/tfsec,Go,5
 311315731,XTLS/Xray-core,Go,25
-79585104,matrix-org/dendrite,Go,13
+79585104,matrix-org/dendrite,Go,17
 34498446,brianvoe/gofakeit,Go,38
 111455867,smartcontractkit/chainlink,Go,6
 187086161,open-telemetry/opentelemetry-go,Go,1
