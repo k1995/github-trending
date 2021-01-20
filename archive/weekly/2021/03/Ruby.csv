@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,79
+8514,rails/rails,Ruby,78
 7569578,discourse/discourse,Ruby,73
-27442967,fastlane/fastlane,Ruby,66
-8681349,huginn/huginn,Ruby,72
-52281283,tootsuite/mastodon,Ruby,349
+27442967,fastlane/fastlane,Ruby,67
+8681349,huginn/huginn,Ruby,71
+52281283,tootsuite/mastodon,Ruby,372
 308770,heartcombo/devise,Ruby,24
-481872,hashicorp/vagrant,Ruby,42
+481872,hashicorp/vagrant,Ruby,41
 911765,diaspora/diaspora,Ruby,19
 96395,faker-ruby/faker,Ruby,16
 611921,activeadmin/activeadmin,Ruby,8
@@ -17,10 +17,10 @@ id,name,lang,new stars
 2889230,rails-api/active_model_serializers,Ruby,5
 75785147,rails/webpacker,Ruby,18
 30337170,rmosolgo/graphql-ruby,Ruby,8
-6899875,opf/openproject,Ruby,28
-244452551,alexeygrigorev/data-science-interviews,Ruby,24
-52316423,luggit/react-native-config,Ruby,15
+6899875,opf/openproject,Ruby,25
+244452551,alexeygrigorev/data-science-interviews,Ruby,23
+52316423,luggit/react-native-config,Ruby,14
 1172597,thoughtbot/shoulda-matchers,Ruby,7
 93163073,dependabot/dependabot-core,Ruby,13
-238983,rspec/rspec-mocks,Ruby,3
+238983,rspec/rspec-mocks,Ruby,2
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,16

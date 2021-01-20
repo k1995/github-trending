@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,71
-111583593,Genymobile/scrcpy,C,201
+2325298,torvalds/linux,C,72
+111583593,Genymobile/scrcpy,C,235
 102578345,coolsnowwolf/lede,C,23
-613829,openresty/lua-nginx-module,C,1
+613829,openresty/lua-nginx-module,C,2
 161292091,Tencent/matrix,C,9
-184909163,koekeishiya/yabai,C,26
+184909163,koekeishiya/yabai,C,22
 7408108,RT-Thread/rt-thread,C,4
 6376337,pocoproject/poco,C,4
 16734696,meetecho/janus-gateway,C,4
@@ -12,7 +12,7 @@ id,name,lang,new stars
 31791482,microsoft/Windows-driver-samples,C,1
 59771425,zephyrproject-rtos/zephyr,C,9
 241659610,OpenIntelWireless/itlwm,C,34
-254327261,sandboxie-plus/Sandboxie,C,140
+254327261,sandboxie-plus/Sandboxie,C,181
 6687936,ARMmbed/mbedtls,C,4
 45703884,olikraus/u8g2,C,4
 131449222,moonlight-stream/moonlight-qt,C,8
@@ -23,4 +23,4 @@ id,name,lang,new stars
 290808391,atc1441/ATC_MiThermometer,C,0
 53432472,Azure/sonic-buildimage,C,0
 246293476,ryan-ma/PD_Micro,C,5
-303753825,Emmabrdt/Cub3d-Linux,C,11
+303753825,Emmabrdt/Cub3d-Linux,C,13

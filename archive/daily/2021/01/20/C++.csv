@@ -1,5 +1,5 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,38
+5108051,opencv/opencv,C++,37
 22887094,tesseract-ocr/tesseract,C++,23
 15634981,godotengine/godot,C++,30
 6934395,facebook/rocksdb,C++,10
@@ -8,7 +8,7 @@ id,name,lang,new stars
 68312233,microsoft/vcpkg,C++,11
 7056202,fmtlib/fmt,C++,11
 196813750,Light-City/CPlusPlusThings,C++,39
-311683390,WerWolv/ImHex,C++,71
+311683390,WerWolv/ImHex,C++,104
 9090933,capnproto/capnproto,C++,7
 51905353,apache/arrow,C++,13
 263379,zeromq/libzmq,C++,4
@@ -17,8 +17,8 @@ id,name,lang,new stars
 283410102,sogou/workflow,C++,15
 240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,3
 91875325,HKUST-Aerial-Robotics/VINS-Mono,C++,2
-3030065,gnuradio/gnuradio,C++,12
-152631182,kamyu104/LeetCode-Solutions,C++,15
+3030065,gnuradio/gnuradio,C++,14
+152631182,kamyu104/LeetCode-Solutions,C++,12
 79160357,citizenfx/fivem,C++,1
 131630299,onnx/onnx-tensorrt,C++,2
 32202720,OpenZWave/open-zwave,C++,0
