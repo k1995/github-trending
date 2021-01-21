@@ -5,8 +5,8 @@ id,name,lang,new stars
 22067521,ocornut/imgui,C++,31
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,10
 96246170,ApolloAuto/apollo,C++,8
-54360307,uNetworking/uWebSockets,C++,5
-81887991,microsoft/AirSim,C++,2
+54360307,uNetworking/uWebSockets,C++,9
+81887991,microsoft/AirSim,C++,3
 95879426,Tencent/ncnn,C++,10
 26038648,gabime/spdlog,C++,15
 191820100,google/mediapipe,C++,22
@@ -14,7 +14,7 @@ id,name,lang,new stars
 311683390,WerWolv/ImHex,C++,97
 51905353,apache/arrow,C++,8
 7512484,ArduPilot/ardupilot,C++,5
-21530861,open-source-parsers/jsoncpp,C++,4
+21530861,open-source-parsers/jsoncpp,C++,5
 42798033,mapsme/omim,C++,2
 1690480,qgis/QGIS,C++,11
 156939672,microsoft/onnxruntime,C++,5

@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,84
+2325298,torvalds/linux,C,78
 156018,redis/redis,C,24
 111583593,Genymobile/scrcpy,C,73
 24586308,cfenollosa/os-tutorial,C,25
@@ -9,12 +9,12 @@ id,name,lang,new stars
 3299208,videolan/vlc,C,7
 184909163,koekeishiya/yabai,C,7
 7408108,RT-Thread/rt-thread,C,6
-59771425,zephyrproject-rtos/zephyr,C,7
+59771425,zephyrproject-rtos/zephyr,C,6
 254327261,sandboxie-plus/Sandboxie,C,74
-31570906,openvenues/libpostal,C,3
+31570906,openvenues/libpostal,C,4
 1377037,gluster/glusterfs,C,3
 6687936,ARMmbed/mbedtls,C,1
-224151065,Immediate-Mode-UI/Nuklear,C,9
+224151065,Immediate-Mode-UI/Nuklear,C,7
 68751856,gnea/grbl,C,2
 59676171,KevinOConnor/klipper,C,4
 39760454,libjpeg-turbo/libjpeg-turbo,C,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 176278485,sqlite/sqlite,C,5
 220497210,sqfmi/Watchy,C,14
 233344777,AOF-Dev/BoatApp,C,9
-303753825,Emmabrdt/Cub3d-Linux,C,5
+303753825,Emmabrdt/Cub3d-Linux,C,6
