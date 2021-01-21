@@ -6,7 +6,7 @@ id,name,lang,new stars
 4524181,facebook/folly,C++,3
 65214191,envoyproxy/envoy,C++,12
 81227005,facebookresearch/faiss,C++,26
-87335980,EOSIO/eos,C++,0
+87335980,EOSIO/eos,C++,1
 26038648,gabime/spdlog,C++,12
 191820100,google/mediapipe,C++,11
 311683390,WerWolv/ImHex,C++,26
@@ -21,6 +21,6 @@ id,name,lang,new stars
 223904726,wang-xinyu/tensorrtx,C++,9
 319991441,FlaxEngine/FlaxEngine,C++,92
 276269866,TixiaoShan/LIO-SAM,C++,4
-293583556,tomlooman/ActionRoguelike,C++,179
+293583556,tomlooman/ActionRoguelike,C++,163
 151064439,AlessandroAU/ExpressLRS,C++,11
 321543928,Rubberduckycooly/Sonic-1-2-2013-Decompilation,C++,45
