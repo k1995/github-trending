@@ -1,12 +1,12 @@
 id,name,lang,new stars
-123458551,jackfrued/Python-100-Days,Python,439
+123458551,jackfrued/Python-100-Days,Python,440
 40416236,minimaxir/big-list-of-naughty-strings,Python,255
 79510167,pypa/pipenv,Python,35
-1431547,encode/django-rest-framework,Python,232
+1431547,encode/django-rest-framework,Python,249
 125266328,psf/black,Python,95
 74073233,keon/algorithms,Python,82
 1377867,locustio/locust,Python,254
-21484781,jumpserver/jumpserver,Python,97
+21484781,jumpserver/jumpserver,Python,100
 38696925,python-telegram-bot/python-telegram-bot,Python,114
 37347459,Eloston/ungoogled-chromium,Python,135
 136202695,mlflow/mlflow,Python,59
@@ -14,10 +14,10 @@ id,name,lang,new stars
 22844864,matrix-org/synapse,Python,76
 24528468,vaexio/vaex,Python,52
 140614233,PySimpleGUI/PySimpleGUI,Python,61
-38095954,eternnoir/pyTelegramBotAPI,Python,36
-103071520,great-expectations/great_expectations,Python,60
+38095954,eternnoir/pyTelegramBotAPI,Python,34
+103071520,great-expectations/great_expectations,Python,61
 72473727,kubernetes-client/python,Python,25
-131619646,dagster-io/dagster,Python,280
+131619646,dagster-io/dagster,Python,278
 53548867,fishtown-analytics/dbt,Python,46
 279908689,carlospolop/hacktricks,Python,758
 201403923,activeloopai/Hub,Python,115
