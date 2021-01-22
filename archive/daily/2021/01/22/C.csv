@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,64
-7634677,openssl/openssl,C,8
-246335987,ventoy/Ventoy,C,37
-15337142,micropython/micropython,C,21
+2325298,torvalds/linux,C,65
+7634677,openssl/openssl,C,9
+246335987,ventoy/Ventoy,C,36
+15337142,micropython/micropython,C,22
 84240850,timescale/timescaledb,C,7
 5254557,cloudwu/skynet,C,5
-65899476,espressif/esp-idf,C,4
+65899476,espressif/esp-idf,C,6
 163862700,onivim/oni2,C,13
 203957456,Tencent/TencentOS-tiny,C,6
 59771425,zephyrproject-rtos/zephyr,C,5
-8270972,ARMmbed/mbed-os,C,0
-43629790,P-H-C/phc-winner-argon2,C,3
+8270972,ARMmbed/mbed-os,C,1
+43629790,P-H-C/phc-winner-argon2,C,4
 18257358,edenhill/kafkacat,C,4
 8046269,warmcat/libwebsockets,C,3
 6687936,ARMmbed/mbedtls,C,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 331126796,LloydLabs/delete-self-poc,C,43
 331380723,raspberrypi/pico-sdk,C,52
 330901910,corellium/preloader-m1,C,11
-331032767,aeverj/NimShellCodeLoader,C,15
+331032767,aeverj/NimShellCodeLoader,C,32
