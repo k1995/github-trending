@@ -1,15 +1,15 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,12
+27442967,fastlane/fastlane,Ruby,9
 308770,heartcombo/devise,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,3
 1918677,fluent/fluentd,Ruby,5
 1217404,jordansissel/fpm,Ruby,2
-812393,ruby-grape/grape,Ruby,1
+812393,ruby-grape/grape,Ruby,0
 96395,faker-ruby/faker,Ruby,3
 1333863,kaminari/kaminari,Ruby,1
 6529205,varvet/pundit,Ruby,0
-21829,thoughtbot/factory_bot,Ruby,4
-13761875,greatghoul/remote-working,Ruby,4
+21829,thoughtbot/factory_bot,Ruby,2
+13761875,greatghoul/remote-working,Ruby,3
 108278,chef/chef,Ruby,2
 404319,rest-client/rest-client,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 9831101,elastic/elasticsearch-ruby,Ruby,0
 9500075,ytti/oxidized,Ruby,0
 34840276,elastic/ansible-elasticsearch,Ruby,2
-315978274,Shopify/theme-check,Ruby,6
+315978274,Shopify/theme-check,Ruby,5
