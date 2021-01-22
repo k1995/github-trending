@@ -1,5 +1,7 @@
 id,name,lang,new stars
+1863329,laravel/laravel,PHP,554
 7548986,laravel/framework,PHP,304
+2234102,bcit-ci/CodeIgniter,PHP,46
 1548202,matomo-org/matomo,PHP,436
 53783664,easychen/howto-make-more-money,PHP,999
 12615154,barryvdh/laravel-debugbar,PHP,150
@@ -17,10 +19,8 @@ id,name,lang,new stars
 76064827,mailcow/mailcow-dockerized,PHP,135
 148129143,bagisto/bagisto,PHP,98
 255703597,beyondcode/expose,PHP,94
-1957456,Dolibarr/dolibarr,PHP,67
-44733816,privacy-protection-tools/anti-AD,PHP,163
-47508644,pterodactyl/panel,PHP,75
+1957456,Dolibarr/dolibarr,PHP,69
 61838413,danog/MadelineProto,PHP,45
+286645686,yuantuo666/baiduwp-php,PHP,145
 39698170,pi-hole/AdminLTE,PHP,49
 230926110,qkqpttgf/OneManager-php,PHP,123
-174021137,inertiajs/pingcrm,PHP,59
