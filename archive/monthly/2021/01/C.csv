@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1759
+2325298,torvalds/linux,C,1755
 10744183,netdata/netdata,C,1404
 111583593,Genymobile/scrcpy,C,1896
 24586308,cfenollosa/os-tutorial,C,404
@@ -9,7 +9,7 @@ id,name,lang,new stars
 16096528,AudioKit/AudioKit,C,118
 78281075,SpacehuhnTech/esp8266_deauther,C,197
 45821540,openwrt/openwrt,C,339
-9524997,glfw/glfw,C,142
+9524997,glfw/glfw,C,141
 70127218,espressif/arduino-esp32,C,295
 65899476,espressif/esp-idf,C,154
 13836499,raysan5/raylib,C,715
@@ -17,10 +17,10 @@ id,name,lang,new stars
 3791835,darktable-org/darktable,C,482
 211381291,ExistentialAudio/BlackHole,C,319
 59771425,zephyrproject-rtos/zephyr,C,188
-254327261,sandboxie-plus/Sandboxie,C,1176
-76649430,martin-ger/esp_wifi_repeater,C,58
+254327261,sandboxie-plus/Sandboxie,C,1177
+76649430,martin-ger/esp_wifi_repeater,C,60
 224151065,Immediate-Mode-UI/Nuklear,C,168
 59676171,KevinOConnor/klipper,C,110
-211756905,MarlinFirmware/Configurations,C,107
-197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,46
+211756905,MarlinFirmware/Configurations,C,109
+197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,47
 202286916,Xinyuan-LilyGO/TTGO_TWatch_Library,C,43

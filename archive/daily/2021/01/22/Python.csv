@@ -6,7 +6,7 @@ id,name,lang,new stars
 155220641,huggingface/transformers,Python,73
 39464018,apache/superset,Python,66
 1431547,encode/django-rest-framework,Python,158
-6780767,aws/aws-cli,Python,7
+6780767,aws/aws-cli,Python,8
 45680749,kholia/OSX-KVM,Python,17
 93947448,twintproject/twint,Python,24
 135673451,microsoft/nni,Python,91
@@ -21,6 +21,6 @@ id,name,lang,new stars
 2700147,yaml/pyyaml,Python,5
 302553989,zhzyker/vulmap,Python,17
 275031765,megadose/holehe,Python,15
-249261267,leon-thomm/Ryven,Python,107
+249261267,leon-thomm/Ryven,Python,102
 321591273,fontworks-fonts/Train,Python,84
-331196991,angadsingh/argos,Python,28
+331196991,angadsingh/argos,Python,13

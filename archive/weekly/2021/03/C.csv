@@ -1,17 +1,17 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,431
 156018,redis/redis,C,120
-111583593,Genymobile/scrcpy,C,707
-3774328,wg/wrk,C,85
+111583593,Genymobile/scrcpy,C,701
+3774328,wg/wrk,C,81
 24586308,cfenollosa/os-tutorial,C,175
 569041,curl/curl,C,80
-102578345,coolsnowwolf/lede,C,147
+102578345,coolsnowwolf/lede,C,151
 246335987,ventoy/Ventoy,C,181
-15337142,micropython/micropython,C,67
+15337142,micropython/micropython,C,72
 95133665,s-matyukevich/raspberry-pi-os,C,37
 93205465,apple/darwin-xnu,C,37
-16096528,AudioKit/AudioKit,C,42
-16734696,meetecho/janus-gateway,C,30
+16096528,AudioKit/AudioKit,C,41
+16734696,meetecho/janus-gateway,C,29
 241659610,OpenIntelWireless/itlwm,C,161
 254327261,sandboxie-plus/Sandboxie,C,730
 255670798,sandboxie/sandboxie,C,73
@@ -19,8 +19,8 @@ id,name,lang,new stars
 288082909,htop-dev/htop,C,38
 40556106,wazuh/wazuh,C,29
 42948633,signalapp/libsignal-protocol-c,C,29
-122993186,remzi-arpacidusseau/ostep-code,C,20
+122993186,remzi-arpacidusseau/ostep-code,C,21
 23780138,riscv/riscv-gnu-toolchain,C,14
 177287710,corrados/jamulus,C,28
 220497210,sqfmi/Watchy,C,68
-312413077,jsherman212/xnuspy,C,132
+312413077,jsherman212/xnuspy,C,108

@@ -1,16 +1,16 @@
 id,name,lang,new stars
 123458551,jackfrued/Python-100-Days,Python,439
 33614304,nvbn/thefuck,Python,215
-39464018,apache/superset,Python,211
-33884891,apache/airflow,Python,112
+39464018,apache/superset,Python,273
+33884891,apache/airflow,Python,113
 125266328,psf/black,Python,85
 74073233,keon/algorithms,Python,84
 1377867,locustio/locust,Python,261
 21484781,jumpserver/jumpserver,Python,97
 204086862,streamlit/streamlit,Python,167
-37347459,Eloston/ungoogled-chromium,Python,143
+37347459,Eloston/ungoogled-chromium,Python,144
 136202695,mlflow/mlflow,Python,59
-22844864,matrix-org/synapse,Python,90
+22844864,matrix-org/synapse,Python,93
 24528468,vaexio/vaex,Python,49
 317029148,ml-tooling/best-of-ml-python,Python,3106
 103071520,great-expectations/great_expectations,Python,61
@@ -18,8 +18,8 @@ id,name,lang,new stars
 53548867,fishtown-analytics/dbt,Python,43
 4127088,Azure/azure-sdk-for-python,Python,10
 279908689,carlospolop/hacktricks,Python,515
-246509073,PaddlePaddle/PaddleX,Python,166
-243646988,popey/sosumi-snap,Python,630
+246509073,PaddlePaddle/PaddleX,Python,170
+243646988,popey/sosumi-snap,Python,631
 325758114,DingXiaoH/RepVGG,Python,394
 171511165,twopirllc/pandas-ta,Python,36
 201403923,activeloopai/Hub,Python,116
