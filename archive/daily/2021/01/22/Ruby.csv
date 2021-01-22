@@ -1,12 +1,12 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,9
+27442967,fastlane/fastlane,Ruby,8
 308770,heartcombo/devise,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,3
-1918677,fluent/fluentd,Ruby,5
+1918677,fluent/fluentd,Ruby,4
 1217404,jordansissel/fpm,Ruby,2
 812393,ruby-grape/grape,Ruby,0
 96395,faker-ruby/faker,Ruby,3
-1333863,kaminari/kaminari,Ruby,1
+1333863,kaminari/kaminari,Ruby,0
 6529205,varvet/pundit,Ruby,0
 21829,thoughtbot/factory_bot,Ruby,2
 13761875,greatghoul/remote-working,Ruby,3
@@ -15,9 +15,9 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,0
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,1
 6768710,redmine/redmine,Ruby,1
-244452551,alexeygrigorev/data-science-interviews,Ruby,7
+244452551,alexeygrigorev/data-science-interviews,Ruby,6
 52316423,luggit/react-native-config,Ruby,0
-558790,zdennis/activerecord-import,Ruby,1
+558790,zdennis/activerecord-import,Ruby,0
 14238949,elastic/elasticsearch-rails,Ruby,0
 1175581,citation-style-language/styles,Ruby,0
 9831101,elastic/elasticsearch-ruby,Ruby,0
