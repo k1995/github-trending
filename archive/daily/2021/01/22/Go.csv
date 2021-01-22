@@ -1,7 +1,7 @@
 id,name,lang,new stars
 11225014,etcd-io/etcd,Go,18
 29261473,minio/minio,Go,129
-17728164,hashicorp/terraform,Go,14
+17728164,hashicorp/terraform,Go,12
 14125254,hashicorp/consul,Go,15
 56353740,kubernetes/minikube,Go,8
 31288958,hashicorp/vault,Go,11
@@ -23,4 +23,4 @@ id,name,lang,new stars
 84610043,kubernetes-sigs/aws-load-balancer-controller,Go,1
 193681111,filecoin-project/lotus,Go,3
 170803235,magma/magma,Go,1
-310247011,cdk-team/CDK,Go,20
+310247011,cdk-team/CDK,Go,18
