@@ -1,10 +1,10 @@
 id,name,lang,new stars
-23357588,protocolbuffers/protobuf,C++,135
+23357588,protocolbuffers/protobuf,C++,138
 27729880,grpc/grpc,C++,102
 65214191,envoyproxy/envoy,C++,64
-13862381,DrKLO/Telegram,C++,117
-81227005,facebookresearch/faiss,C++,129
-196813750,Light-City/CPlusPlusThings,C++,264
+13862381,DrKLO/Telegram,C++,115
+81227005,facebookresearch/faiss,C++,130
+196813750,Light-City/CPlusPlusThings,C++,265
 9090933,capnproto/capnproto,C++,25
 25135037,symless/synergy-core,C++,38
 14887195,gzc/CLRS,C++,139
@@ -14,8 +14,8 @@ id,name,lang,new stars
 46374199,IntelRealSense/librealsense,C++,36
 5298790,PX4/PX4-Autopilot,C++,19
 88327406,xmrig/xmrig,C++,50
-58168143,PixarAnimationStudios/USD,C++,21
-3030065,gnuradio/gnuradio,C++,52
+58168143,PixarAnimationStudios/USD,C++,20
+3030065,gnuradio/gnuradio,C++,50
 33100064,jbeder/yaml-cpp,C++,18
 152631182,kamyu104/LeetCode-Solutions,C++,63
 153097643,openvinotoolkit/openvino,C++,16
@@ -23,4 +23,4 @@ id,name,lang,new stars
 110198384,brave/brave-core,C++,21
 293583556,tomlooman/ActionRoguelike,C++,755
 151064439,AlessandroAU/ExpressLRS,C++,64
-255792625,Rubberduckycooly/Sonic-CD-11-Decompilation,C++,80
+255792625,Rubberduckycooly/Sonic-CD-11-Decompilation,C++,79
