@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,443
+2325298,torvalds/linux,C,446
 156018,redis/redis,C,121
 111583593,Genymobile/scrcpy,C,705
 3774328,wg/wrk,C,84
 24586308,cfenollosa/os-tutorial,C,179
 569041,curl/curl,C,74
 102578345,coolsnowwolf/lede,C,148
-246335987,ventoy/Ventoy,C,210
+246335987,ventoy/Ventoy,C,213
 15337142,micropython/micropython,C,72
 95133665,s-matyukevich/raspberry-pi-os,C,38
 93205465,apple/darwin-xnu,C,38
@@ -17,9 +17,9 @@ id,name,lang,new stars
 255670798,sandboxie/sandboxie,C,72
 130012942,iqiyi/xHook,C,26
 288082909,htop-dev/htop,C,41
-40556106,wazuh/wazuh,C,32
+40556106,wazuh/wazuh,C,31
 42948633,signalapp/libsignal-protocol-c,C,25
-122993186,remzi-arpacidusseau/ostep-code,C,21
+122993186,remzi-arpacidusseau/ostep-code,C,22
 23780138,riscv/riscv-gnu-toolchain,C,15
 177287710,corrados/jamulus,C,22
 220497210,sqfmi/Watchy,C,69

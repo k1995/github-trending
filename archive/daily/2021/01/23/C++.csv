@@ -1,10 +1,10 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,53
+45717250,tensorflow/tensorflow,C++,51
 44838949,apple/swift,C++,10
 5108051,opencv/opencv,C++,36
 23357588,protocolbuffers/protobuf,C++,19
 65600975,pytorch/pytorch,C++,30
-22067521,ocornut/imgui,C++,38
+22067521,ocornut/imgui,C++,36
 39840932,google/googletest,C++,12
 5133949,swoole/swoole-src,C++,2
 60273704,mozilla/DeepSpeech,C++,9
@@ -23,4 +23,4 @@ id,name,lang,new stars
 163527358,coronalabs/corona,C++,6
 110198384,brave/brave-core,C++,4
 293583556,tomlooman/ActionRoguelike,C++,65
-321543928,Rubberduckycooly/Sonic-1-2-2013-Decompilation,C++,33
+321543928,Rubberduckycooly/Sonic-1-2-2013-Decompilation,C++,31

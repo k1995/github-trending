@@ -5,7 +5,7 @@ id,name,lang,new stars
 14125254,hashicorp/consul,Go,11
 56353740,kubernetes/minikube,Go,8
 31288958,hashicorp/vault,Go,11
-26337322,rancher/rancher,Go,6
+26337322,rancher/rancher,Go,7
 15345331,boltdb/bolt,Go,6
 7877397,jmoiron/sqlx,Go,2
 27051771,golang/protobuf,Go,5
@@ -13,7 +13,7 @@ id,name,lang,new stars
 21704134,coreos/flannel,Go,4
 62799996,fluxcd/flux,Go,3
 118105436,golang-migrate/migrate,Go,11
-93444615,hashicorp/terraform-provider-aws,Go,5
+93444615,hashicorp/terraform-provider-aws,Go,9
 120896210,argoproj/argo-cd,Go,44
 11931032,btcsuite/btcd,Go,3
 87990209,kubernetes/autoscaler,Go,4
