@@ -1,9 +1,9 @@
 id,name,lang,new stars
 11225014,etcd-io/etcd,Go,11
-212613049,cli/cli,Go,32
+212613049,cli/cli,Go,35
 56353740,kubernetes/minikube,Go,8
 31288958,hashicorp/vault,Go,14
-27729907,grpc/grpc-go,Go,10
+27729907,grpc/grpc-go,Go,13
 118654121,GoogleContainerTools/skaffold,Go,8
 16554739,elastic/beats,Go,8
 162920291,inlets/inlets,Go,44
@@ -14,7 +14,7 @@ id,name,lang,new stars
 146641150,tektoncd/pipeline,Go,6
 120896210,argoproj/argo-cd,Go,16
 3087541,patrickmn/go-cache,Go,5
-41288708,sourcegraph/sourcegraph,Go,7
+41288708,sourcegraph/sourcegraph,Go,8
 120650407,operator-framework/operator-sdk,Go,4
 87990209,kubernetes/autoscaler,Go,6
 7823926,prometheus/client_golang,Go,2
