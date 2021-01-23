@@ -1,7 +1,7 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,3311
 12888993,home-assistant/core,Python,1183
-39464018,apache/superset,Python,1126
+39464018,apache/superset,Python,1195
 91573538,testerSunshine/12306,Python,560
 4578002,faif/python-patterns,Python,522
 162998479,sherlock-project/sherlock,Python,1772
@@ -9,9 +9,9 @@ id,name,lang,new stars
 37347459,Eloston/ungoogled-chromium,Python,397
 300592907,mxrch/GHunt,Python,2326
 264818686,ultralytics/yolov5,Python,929
-168799526,rwightman/pytorch-image-models,Python,747
+168799526,rwightman/pytorch-image-models,Python,749
 29050338,mementum/backtrader,Python,268
-91629816,freqtrade/freqtrade,Python,957
+91629816,freqtrade/freqtrade,Python,959
 5274894,spesmilo/electrum,Python,163
 97431281,pythonstock/stock,Python,714
 300996055,lucidrains/vit-pytorch,Python,1021

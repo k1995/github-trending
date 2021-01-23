@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,88
+8514,rails/rails,Ruby,91
 7569578,discourse/discourse,Ruby,74
-27442967,fastlane/fastlane,Ruby,69
-21600440,bayandin/awesome-awesomeness,Ruby,38
-481872,hashicorp/vagrant,Ruby,49
-1090311,elastic/logstash,Ruby,20
+27442967,fastlane/fastlane,Ruby,73
+21600440,bayandin/awesome-awesomeness,Ruby,37
+481872,hashicorp/vagrant,Ruby,46
+1090311,elastic/logstash,Ruby,21
 3314,spree/spree,Ruby,15
 3195124,mperham/sidekiq,Ruby,10
 1918677,fluent/fluentd,Ruby,28
@@ -12,7 +12,7 @@ id,name,lang,new stars
 15435,Shopify/liquid,Ruby,24
 810796,sferik/rails_admin,Ruby,7
 587311,omniauth/omniauth,Ruby,12
-6529205,varvet/pundit,Ruby,13
+6529205,varvet/pundit,Ruby,14
 21829,thoughtbot/factory_bot,Ruby,9
 202291859,chatwoot/chatwoot,Ruby,45
 108278,chef/chef,Ruby,13
