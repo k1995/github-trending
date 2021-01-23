@@ -1,0 +1,26 @@
+id,name,lang,new stars
+11225014,etcd-io/etcd,Go,15
+29261473,minio/minio,Go,25
+17728164,hashicorp/terraform,Go,13
+14125254,hashicorp/consul,Go,11
+56353740,kubernetes/minikube,Go,8
+31288958,hashicorp/vault,Go,11
+26337322,rancher/rancher,Go,6
+15345331,boltdb/bolt,Go,6
+7877397,jmoiron/sqlx,Go,2
+27051771,golang/protobuf,Go,5
+162920291,inlets/inlets,Go,39
+21704134,coreos/flannel,Go,4
+62799996,fluxcd/flux,Go,3
+118105436,golang-migrate/migrate,Go,11
+93444615,hashicorp/terraform-provider-aws,Go,5
+120896210,argoproj/argo-cd,Go,44
+11931032,btcsuite/btcd,Go,3
+87990209,kubernetes/autoscaler,Go,4
+92702519,bitnami-labs/sealed-secrets,Go,4
+232630362,hashicorp/boundary,Go,5
+93446042,terraform-providers/terraform-provider-azurerm,Go,2
+84610043,kubernetes-sigs/aws-load-balancer-controller,Go,2
+193681111,filecoin-project/lotus,Go,2
+170803235,magma/magma,Go,2
+310247011,cdk-team/CDK,Go,20
