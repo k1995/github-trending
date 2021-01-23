@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,75
-7634677,openssl/openssl,C,10
+2325298,torvalds/linux,C,76
+7634677,openssl/openssl,C,8
 246335987,ventoy/Ventoy,C,42
-15337142,micropython/micropython,C,20
+15337142,micropython/micropython,C,19
 84240850,timescale/timescaledb,C,5
-5254557,cloudwu/skynet,C,1
+5254557,cloudwu/skynet,C,2
 65899476,espressif/esp-idf,C,6
-163862700,onivim/oni2,C,6
+163862700,onivim/oni2,C,7
 203957456,Tencent/TencentOS-tiny,C,6
 59771425,zephyrproject-rtos/zephyr,C,3
 8270972,ARMmbed/mbed-os,C,1
@@ -18,9 +18,9 @@ id,name,lang,new stars
 183362,akheron/jansson,C,0
 3276860,ThrowTheSwitch/Unity,C,3
 6860771,hathach/tinyusb,C,6
-290808391,atc1441/ATC_MiThermometer,C,11
+290808391,atc1441/ATC_MiThermometer,C,8
 88288736,lmatteis/torrent-net,C,16
 331126796,LloydLabs/delete-self-poc,C,14
-331380723,raspberrypi/pico-sdk,C,35
+331380723,raspberrypi/pico-sdk,C,36
 330901910,corellium/preloader-m1,C,5
 331032767,aeverj/NimShellCodeLoader,C,8
