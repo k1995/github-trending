@@ -1,17 +1,19 @@
 id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,1248
 23357588,protocolbuffers/protobuf,C++,728
-15634981,godotengine/godot,C++,835
+15634981,godotengine/godot,C++,838
 13862381,DrKLO/Telegram,C++,498
-19374812,telegramdesktop/tdesktop,C++,813
+19374812,telegramdesktop/tdesktop,C++,814
 31522041,vnpy/vnpy,C++,431
 116167731,yuzu-emu/yuzu,C++,557
+33014811,notepad-plus-plus/notepad-plus-plus,C++,263
 1217614,xbmc/xbmc,C++,532
 3351871,qbittorrent/qBittorrent,C++,343
+87335980,EOSIO/eos,C++,43
+26038648,gabime/spdlog,C++,316
 2200856,MarlinFirmware/Marlin,C++,718
-160083795,SerenityOS/serenity,C++,462
+160083795,SerenityOS/serenity,C++,471
 19316619,monero-project/monero,C++,402
-86337343,skypjack/entt,C++,229
 267649918,hoffstadt/DearPyGui,C++,1030
 88327406,xmrig/xmrig,C++,160
 89067146,ethereum-mining/ethminer,C++,224
@@ -19,8 +21,6 @@ id,name,lang,new stars
 235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,619
 128479644,esphome/esphome,C++,450
 68082730,Ralim/IronOS,C++,198
-52882701,prusa3d/PrusaSlicer,C++,180
-240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,1067
 3030065,gnuradio/gnuradio,C++,88
-321853986,Tencent/Tendis,C++,1360
+319991441,FlaxEngine/FlaxEngine,C++,803
 151064439,AlessandroAU/ExpressLRS,C++,104
