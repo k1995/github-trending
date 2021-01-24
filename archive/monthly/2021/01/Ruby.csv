@@ -1,7 +1,7 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,301
 65252,jekyll/jekyll,Ruby,307
-7569578,discourse/discourse,Ruby,299
+7569578,discourse/discourse,Ruby,290
 8681349,huginn/huginn,Ruby,335
 53238813,Homebrew/brew,Ruby,616
 13840241,freeCodeCamp/devdocs,Ruby,288
@@ -17,10 +17,10 @@ id,name,lang,new stars
 33945,sparklemotion/nokogiri,Ruby,30
 4994614,wpscanteam/wpscan,Ruby,98
 75785147,rails/webpacker,Ruby,58
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,165
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,159
 21333814,lynndylanhurley/devise_token_auth,Ruby,21
 11426474,github/choosealicense.com,Ruby,50
-103766152,github/explore,Ruby,69
+103766152,github/explore,Ruby,65
 24954,ruby-i18n/i18n,Ruby,3
 237796058,UnlyEd/next-right-now,Ruby,57
 321647551,hotwired/hotwire-rails,Ruby,293

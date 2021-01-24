@@ -1,9 +1,9 @@
 id,name,lang,new stars
-33614304,nvbn/thefuck,Python,230
-39464018,apache/superset,Python,565
+33614304,nvbn/thefuck,Python,225
+39464018,apache/superset,Python,943
 71948498,localstack/localstack,Python,129
 1431547,encode/django-rest-framework,Python,369
-21484781,jumpserver/jumpserver,Python,90
+21484781,jumpserver/jumpserver,Python,81
 38696925,python-telegram-bot/python-telegram-bot,Python,118
 37347459,Eloston/ungoogled-chromium,Python,153
 55058317,threat9/routersploit,Python,43
@@ -15,8 +15,8 @@ id,name,lang,new stars
 53548867,fishtown-analytics/dbt,Python,53
 51040886,Azure/azure-cli,Python,9
 91730359,GoogleCloudPlatform/professional-services,Python,14
-221654678,deepset-ai/haystack,Python,36
 328766021,ml-tooling/best-of-python,Python,922
+221654678,deepset-ai/haystack,Python,36
 279177733,obheda12/GitDorker,Python,111
 120225562,anime-dl/anime-downloader,Python,51
 243646988,popey/sosumi-snap,Python,638
