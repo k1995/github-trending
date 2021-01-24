@@ -1,7 +1,7 @@
 id,name,lang,new stars
 843222,scikit-learn/scikit-learn,Python,154
 39464018,apache/superset,Python,546
-220809393,willmcgugan/rich,Python,85
+220809393,willmcgugan/rich,Python,90
 33702544,plotly/dash,Python,20
 70908208,RasaHQ/rasa,Python,13
 91356408,allenai/allennlp,Python,8
@@ -12,7 +12,7 @@ id,name,lang,new stars
 212639071,bregman-arie/devops-exercises,Python,61
 50936918,vishnubob/wait-for-it,Python,11
 235860204,microsoft/DeepSpeed,Python,37
-235901813,PostHog/posthog,Python,14
+235901813,PostHog/posthog,Python,15
 164564630,0xInfection/Awesome-WAF,Python,16
 112409981,mitre/caldera,Python,12
 285774113,Rudrabha/Wav2Lip,Python,12
@@ -23,4 +23,4 @@ id,name,lang,new stars
 249261267,leon-thomm/Ryven,Python,159
 275031765,megadose/holehe,Python,20
 269137017,ssh-mitm/ssh-mitm,Python,94
-331555998,nicksawhney/bernie-sits,Python,65
+331555998,nicksawhney/bernie-sits,Python,71
