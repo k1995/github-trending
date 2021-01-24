@@ -1,9 +1,9 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,62
-22067521,ocornut/imgui,C++,115
+100060912,microsoft/terminal,C++,60
+22067521,ocornut/imgui,C++,108
 22394357,osquery/osquery,C++,6
 116167731,yuzu-emu/yuzu,C++,18
-160083795,SerenityOS/serenity,C++,78
+160083795,SerenityOS/serenity,C++,77
 1524684,SFML/SFML,C++,9
 106558568,doitsujin/dxvk,C++,12
 6486826,hrydgard/ppsspp,C++,8
@@ -16,9 +16,9 @@ id,name,lang,new stars
 89067146,ethereum-mining/ethminer,C++,24
 143324737,diasurgical/devilutionX,C++,2
 52882701,prusa3d/PrusaSlicer,C++,12
-319991441,FlaxEngine/FlaxEngine,C++,240
+319991441,FlaxEngine/FlaxEngine,C++,228
 309512982,vectorizedio/redpanda,C++,75
-160194880,soul-lang/SOUL,C++,48
+160194880,soul-lang/SOUL,C++,47
 27565754,mpromonet/webrtc-streamer,C++,6
 61202664,hyperion-project/hyperion.ng,C++,12
 302738886,microsoft/cppwin32,C++,159
