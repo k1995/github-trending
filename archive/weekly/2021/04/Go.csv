@@ -1,8 +1,8 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,230
-11225014,etcd-io/etcd,Go,143
+11225014,etcd-io/etcd,Go,142
 42408804,traefik/traefik,Go,96
-29261473,minio/minio,Go,339
+29261473,minio/minio,Go,332
 14125254,hashicorp/consul,Go,79
 31288958,hashicorp/vault,Go,71
 61137153,evanw/esbuild,Go,467
@@ -16,7 +16,7 @@ id,name,lang,new stars
 93444615,hashicorp/terraform-provider-aws,Go,34
 120896210,argoproj/argo-cd,Go,201
 53174289,gruntwork-io/terratest,Go,195
-87990209,kubernetes/autoscaler,Go,25
+87990209,kubernetes/autoscaler,Go,24
 150713223,kubeedge/kubeedge,Go,51
 237523442,tailscale/tailscale,Go,60
 93446042,terraform-providers/terraform-provider-azurerm,Go,16

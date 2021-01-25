@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2234102,bcit-ci/CodeIgniter,PHP,3
+2234102,bcit-ci/CodeIgniter,PHP,1
 448045,sebastianbergmann/phpunit,PHP,11
 2253830,PHPMailer/PHPMailer,PHP,14
-60243197,nextcloud/server,PHP,18
+60243197,nextcloud/server,PHP,16
 82238168,monicahq/monica,PHP,7
 14732311,octobercms/october,PHP,3
 49014795,phpstan/phpstan,PHP,7
-4026744,vinkla/hashids,PHP,4
+4026744,vinkla/hashids,PHP,5
 74386167,vimeo/psalm,PHP,1
 2464908,joomla/joomla-cms,PHP,0
 77574863,causefx/Organizr,PHP,3
@@ -18,7 +18,7 @@ id,name,lang,new stars
 27195711,alextselegidis/easyappointments,PHP,9
 74026995,CodelyTV/php-ddd-example,PHP,1
 57463067,AzuraCast/AzuraCast,PHP,2
-230926110,qkqpttgf/OneManager-php,PHP,7
+230926110,qkqpttgf/OneManager-php,PHP,4
 204114509,solstice23/argon-theme,PHP,7
 75645659,WordPress/wordpress-develop,PHP,1
 215310009,Grafikart/Grafikart.fr,PHP,5
