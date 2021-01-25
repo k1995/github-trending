@@ -1,15 +1,15 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,84
-70104825,dotnet-architecture/eShopOnContainers,C#,83
-1613345,StackExchange/Dapper,C#,40
+17620347,dotnet/aspnetcore,C#,81
+70104825,dotnet-architecture/eShopOnContainers,C#,82
+1613345,StackExchange/Dapper,C#,38
 14964475,AvaloniaUI/Avalonia,C#,73
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,55
 16157746,dotnet/efcore,C#,35
-28239455,dotnet/AspNetCore.Docs,C#,46
+28239455,dotnet/AspNetCore.Docs,C#,45
 2087064,SignalR/SignalR,C#,12
-88064357,QL-Win/QuickLook,C#,92
+88064357,QL-Win/QuickLook,C#,96
 164140756,files-community/Files,C#,1222
-46755185,bitwarden/server,C#,48
+46755185,bitwarden/server,C#,50
 69673033,ardalis/CleanArchitecture,C#,444
 210716005,dotnet/runtime,C#,56
 19216825,xamarin/xamarin-forms-samples,C#,23
@@ -17,7 +17,7 @@ id,name,lang,new stars
 145101484,anjoy8/Blog.Core,C#,23
 134707912,dotnetcore/WTM,C#,85
 23891194,Azure/azure-powershell,C#,11
-2928944,Azure/azure-sdk-for-net,C#,13
+2928944,Azure/azure-sdk-for-net,C#,14
 117102183,ChilliCream/hotchocolate,C#,46
 184955742,oqtane/oqtane.framework,C#,29
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,18

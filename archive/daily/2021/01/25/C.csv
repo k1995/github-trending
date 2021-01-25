@@ -1,13 +1,13 @@
 id,name,lang,new stars
 20159867,nothings/stb,C,13
-102578345,coolsnowwolf/lede,C,29
-80286288,arendst/Tasmota,C,14
+102578345,coolsnowwolf/lede,C,65
+80286288,arendst/Tasmota,C,50
 246335987,ventoy/Ventoy,C,35
 15337142,micropython/micropython,C,13
 66150122,jarun/nnn,C,10
 27737393,qmk/qmk_firmware,C,9
 40217904,swaywm/sway,C,10
-7715820,davatorium/rofi,C,4
+7715820,davatorium/rofi,C,6
 26917568,nodemcu/nodemcu-firmware,C,3
 60667730,lvgl/lvgl,C,19
 33339660,jerryscript-project/jerryscript,C,331
@@ -16,11 +16,11 @@ id,name,lang,new stars
 59676171,KevinOConnor/klipper,C,4
 97212490,floooh/sokol,C,4
 131710328,CTCaer/hekate,C,2
-63369078,yshui/picom,C,3
+63369078,yshui/picom,C,0
 206121828,FreeRTOS/FreeRTOS,C,3
 6860771,hathach/tinyusb,C,256
 204459250,mit-pdos/xv6-riscv,C,7
 327491895,peng-zhihui/HoloCubic,C,110
 331380723,raspberrypi/pico-sdk,C,109
-288152369,DinoZ1729/Ray,C,27
+288152369,DinoZ1729/Ray,C,23
 331530426,raspberrypi/micropython,C,7

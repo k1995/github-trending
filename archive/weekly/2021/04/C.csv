@@ -2,13 +2,13 @@ id,name,lang,new stars
 2325298,torvalds/linux,C,450
 111583593,Genymobile/scrcpy,C,702
 24586308,cfenollosa/os-tutorial,C,197
-569041,curl/curl,C,73
-7634677,openssl/openssl,C,60
+569041,curl/curl,C,75
+7634677,openssl/openssl,C,59
 102578345,coolsnowwolf/lede,C,150
 246335987,ventoy/Ventoy,C,237
-15337142,micropython/micropython,C,96
-93205465,apple/darwin-xnu,C,39
-16096528,AudioKit/AudioKit,C,40
+15337142,micropython/micropython,C,99
+93205465,apple/darwin-xnu,C,41
+16096528,AudioKit/AudioKit,C,36
 65899476,espressif/esp-idf,C,35
 184909163,koekeishiya/yabai,C,94
 33339660,jerryscript-project/jerryscript,C,588
@@ -22,5 +22,5 @@ id,name,lang,new stars
 76599439,FRRouting/frr,C,18
 6860771,hathach/tinyusb,C,305
 8890645,Xilinx/linux-xlnx,C,1
-327656592,AsahiLinux/gpu,C,196
+327656592,AsahiLinux/gpu,C,197
 220497210,sqfmi/Watchy,C,59
