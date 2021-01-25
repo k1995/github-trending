@@ -1,17 +1,17 @@
 id,name,lang,new stars
-23096959,golang/go,Go,60
-16752620,gogs/gogs,Go,13
-15452919,ethereum/go-ethereum,Go,18
+23096959,golang/go,Go,65
+16752620,gogs/gogs,Go,20
+15452919,ethereum/go-ethereum,Go,23
 61137153,evanw/esbuild,Go,74
 136815833,Dreamacro/clash,Go,24
 97533102,halfrost/LeetCode-Go,Go,73
 15345331,boltdb/bolt,Go,14
 21405028,ardanlabs/gotraining,Go,2
 23247808,rqlite/rqlite,Go,223
-148545807,kubernetes-sigs/kind,Go,8
+148545807,kubernetes-sigs/kind,Go,10
 62712899,AdguardTeam/AdGuardHome,Go,14
 120896210,argoproj/argo-cd,Go,68
-92969352,moby/buildkit,Go,5
+92969352,moby/buildkit,Go,4
 167997313,cuelang/cue,Go,19
 232630362,hashicorp/boundary,Go,4
 163722349,pomerium/pomerium,Go,8
