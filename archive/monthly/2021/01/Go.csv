@@ -1,16 +1,16 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,1087
-48378947,fatedier/frp,Go,958
-15452919,ethereum/go-ethereum,Go,446
-61137153,evanw/esbuild,Go,1354
+21540759,avelino/awesome-go,Go,1075
+48378947,fatedier/frp,Go,959
+15452919,ethereum/go-ethereum,Go,445
+61137153,evanw/esbuild,Go,1353
 97533102,halfrost/LeetCode-Go,Go,2982
 120227732,fyne-io/fyne,Go,527
-119160553,photoprism/photoprism,Go,2518
-158645957,OpenDiablo2/OpenDiablo2,Go,368
-26836182,therecipe/qt,Go,175
+119160553,photoprism/photoprism,Go,2536
+158645957,OpenDiablo2/OpenDiablo2,Go,369
+26836182,therecipe/qt,Go,176
 66841911,360EntSecGroup-Skylar/excelize,Go,362
-153099672,inancgumus/learngo,Go,1511
-29099181,keybase/client,Go,118
+153099672,inancgumus/learngo,Go,1520
+29099181,keybase/client,Go,119
 222172014,slackhq/nebula,Go,286
 62712899,AdguardTeam/AdGuardHome,Go,361
 201658460,geektutu/7days-golang,Go,547
@@ -18,9 +18,9 @@ id,name,lang,new stars
 140457254,OWASP/Amass,Go,177
 41288708,sourcegraph/sourcegraph,Go,137
 156681830,ffuf/ffuf,Go,204
-44820350,42wim/matterbridge,Go,236
+44820350,42wim/matterbridge,Go,235
 154643390,sundowndev/PhoneInfoga,Go,368
 315063189,geektutu/high-performance-go,Go,908
 79585104,matrix-org/dendrite,Go,228
 111455867,smartcontractkit/chainlink,Go,99
-281694167,Mrs4s/go-cqhttp,Go,220
+281694167,Mrs4s/go-cqhttp,Go,222
