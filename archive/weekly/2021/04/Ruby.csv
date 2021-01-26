@@ -1,14 +1,14 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,68
-27442967,fastlane/fastlane,Ruby,64
-13840241,freeCodeCamp/devdocs,Ruby,65
+7569578,discourse/discourse,Ruby,70
+27442967,fastlane/fastlane,Ruby,66
+13840241,freeCodeCamp/devdocs,Ruby,66
 2500088,gitlabhq/gitlabhq,Ruby,10
-308770,heartcombo/devise,Ruby,25
+308770,heartcombo/devise,Ruby,27
 481872,hashicorp/vagrant,Ruby,50
 2203645,CocoaPods/CocoaPods,Ruby,19
-1090311,elastic/logstash,Ruby,23
+1090311,elastic/logstash,Ruby,24
 3195124,mperham/sidekiq,Ruby,15
-1918677,fluent/fluentd,Ruby,29
+1918677,fluent/fluentd,Ruby,28
 96395,faker-ruby/faker,Ruby,13
 15435,Shopify/liquid,Ruby,21
 810796,sferik/rails_admin,Ruby,7
@@ -20,7 +20,7 @@ id,name,lang,new stars
 404319,rest-client/rest-client,Ruby,8
 4523235,asciidoctor/asciidoctor,Ruby,11
 30985840,solidusio/solidus,Ruby,11
-3277842,googleapis/google-api-ruby-client,Ruby,9
-11426474,github/choosealicense.com,Ruby,14
+3277842,googleapis/google-api-ruby-client,Ruby,10
+11426474,github/choosealicense.com,Ruby,15
 1175581,citation-style-language/styles,Ruby,13
 93163073,dependabot/dependabot-core,Ruby,13
