@@ -10,7 +10,7 @@ id,name,lang,new stars
 6207167,mockito/mockito,Java,8
 25459400,pinpoint-apm/pinpoint,Java,2
 56829582,youth5201314/banner,Java,5
-6358188,apache/druid,Java,6
+6358188,apache/druid,Java,8
 27729926,grpc/grpc-java,Java,6
 11125589,keycloak/keycloak,Java,10
 85371262,williamfiset/Algorithms,Java,11
@@ -22,5 +22,5 @@ id,name,lang,new stars
 7420937,camunda/camunda-bpm-platform,Java,7
 76474200,apache/hudi,Java,7
 226138659,Jzvd/JZVideo,Java,6
-66030306,reactor/reactor-netty,Java,1
-231329990,jetlinks/jetlinks-community,Java,18
+66030306,reactor/reactor-netty,Java,2
+231329990,jetlinks/jetlinks-community,Java,12
