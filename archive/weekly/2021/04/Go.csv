@@ -1,12 +1,12 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,233
+20580498,kubernetes/kubernetes,Go,230
 11225014,etcd-io/etcd,Go,142
 42408804,traefik/traefik,Go,98
-29261473,minio/minio,Go,333
+29261473,minio/minio,Go,334
 14125254,hashicorp/consul,Go,78
-31288958,hashicorp/vault,Go,71
+31288958,hashicorp/vault,Go,73
 61137153,evanw/esbuild,Go,434
-50613991,goharbor/harbor,Go,69
+50613991,goharbor/harbor,Go,70
 20653934,google/cadvisor,Go,37
 234231371,gofiber/fiber,Go,137
 33258973,influxdata/telegraf,Go,42
@@ -14,12 +14,12 @@ id,name,lang,new stars
 162920291,inlets/inlets,Go,216
 26726495,go-swagger/go-swagger,Go,32
 93444615,hashicorp/terraform-provider-aws,Go,38
-120896210,argoproj/argo-cd,Go,204
+120896210,argoproj/argo-cd,Go,205
 53174289,gruntwork-io/terratest,Go,195
-87990209,kubernetes/autoscaler,Go,24
-150713223,kubeedge/kubeedge,Go,51
+87990209,kubernetes/autoscaler,Go,23
+150713223,kubeedge/kubeedge,Go,53
 237523442,tailscale/tailscale,Go,62
-93446042,terraform-providers/terraform-provider-azurerm,Go,16
+93446042,terraform-providers/terraform-provider-azurerm,Go,15
 273132277,moonD4rk/HackBrowserData,Go,138
 187086161,open-telemetry/opentelemetry-go,Go,17
 96004375,aws/aws-sdk-go-v2,Go,45
