@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,228
 20904437,gin-gonic/gin,Go,220
-6838921,prometheus/prometheus,Go,147
+6838921,prometheus/prometheus,Go,148
 11225014,etcd-io/etcd,Go,142
 29261473,minio/minio,Go,333
 14125254,hashicorp/consul,Go,76
@@ -21,6 +21,6 @@ id,name,lang,new stars
 58184885,kubernetes/kube-state-metrics,Go,22
 93446042,terraform-providers/terraform-provider-azurerm,Go,13
 273132277,moonD4rk/HackBrowserData,Go,138
-22883982,vmware/govmomi,Go,14
+22883982,vmware/govmomi,Go,13
 96004375,aws/aws-sdk-go-v2,Go,44
 311804365,benbjohnson/wtf,Go,137
