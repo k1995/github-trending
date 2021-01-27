@@ -1,9 +1,9 @@
 id,name,lang,new stars
 23096959,golang/go,Go,55
-6838921,prometheus/prometheus,Go,22
+6838921,prometheus/prometheus,Go,21
 31288958,hashicorp/vault,Go,11
 46806184,helm/charts,Go,6
-13624859,gorilla/websocket,Go,7
+13624859,gorilla/websocket,Go,8
 6051812,gorilla/mux,Go,8
 8966356,hashicorp/packer,Go,5
 66573241,hyperledger/fabric,Go,10
@@ -17,7 +17,7 @@ id,name,lang,new stars
 93444615,hashicorp/terraform-provider-aws,Go,9
 19799491,tendermint/tendermint,Go,5
 11452538,prometheus/alertmanager,Go,5
-51193526,cosmos/cosmos-sdk,Go,0
+51193526,cosmos/cosmos-sdk,Go,1
 273132277,moonD4rk/HackBrowserData,Go,88
 215654064,temporalio/temporal,Go,4
 116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,2
