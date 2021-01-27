@@ -1,5 +1,5 @@
 id,name,lang,new stars
-843222,scikit-learn/scikit-learn,Python,619
+843222,scikit-learn/scikit-learn,Python,620
 155220641,huggingface/transformers,Python,421
 39464018,apache/superset,Python,1758
 71948498,localstack/localstack,Python,137
@@ -7,13 +7,13 @@ id,name,lang,new stars
 15045751,docker/compose,Python,77
 1431547,encode/django-rest-framework,Python,363
 2909429,nicolargo/glances,Python,197
-262296122,PaddlePaddle/PaddleOCR,Python,776
+262296122,PaddlePaddle/PaddleOCR,Python,1291
 90356372,ArchiveBox/ArchiveBox,Python,225
 212639071,bregman-arie/devops-exercises,Python,390
 140614233,PySimpleGUI/PySimpleGUI,Python,91
 235860204,microsoft/DeepSpeed,Python,165
 317029148,ml-tooling/best-of-ml-python,Python,1087
-103071520,great-expectations/great_expectations,Python,67
+103071520,great-expectations/great_expectations,Python,66
 198669252,google/tf-quant-finance,Python,528
 51040886,Azure/azure-cli,Python,13
 4127088,Azure/azure-sdk-for-python,Python,15
@@ -23,4 +23,4 @@ id,name,lang,new stars
 201403923,activeloopai/Hub,Python,111
 326678957,BenChaliah/Arbitrium-RAT,Python,278
 329216613,JDAI-CV/FaceX-Zoo,Python,255
-327503299,HelloMaoTai/jd-seckill-maotai,Python,48
+327503299,HelloMaoTai/jd-seckill-maotai,Python,51

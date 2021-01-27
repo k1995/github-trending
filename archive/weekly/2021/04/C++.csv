@@ -1,19 +1,19 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,447
 22067521,ocornut/imgui,C++,682
-16587283,dmlc/xgboost,C++,61
+16587283,dmlc/xgboost,C++,60
 22394357,osquery/osquery,C++,33
-65214191,envoyproxy/envoy,C++,73
+65214191,envoyproxy/envoy,C++,72
 54360307,uNetworking/uWebSockets,C++,37
-26038648,gabime/spdlog,C++,73
-52422583,kyleneideck/BackgroundMusic,C++,64
+26038648,gabime/spdlog,C++,71
+52422583,kyleneideck/BackgroundMusic,C++,67
 160083795,SerenityOS/serenity,C++,363
 104231541,abseil/abseil-cpp,C++,44
 14887195,gzc/CLRS,C++,244
 51905353,apache/arrow,C++,53
 8162615,PointCloudLibrary/pcl,C++,36
-131881622,NVIDIA/DeepLearningExamples,C++,54
-21530861,open-source-parsers/jsoncpp,C++,29
+131881622,NVIDIA/DeepLearningExamples,C++,59
+21530861,open-source-parsers/jsoncpp,C++,28
 143324737,diasurgical/devilutionX,C++,16
 280608729,UZ-SLAMLab/ORB_SLAM3,C++,31
 319991441,FlaxEngine/FlaxEngine,C++,715
@@ -23,4 +23,4 @@ id,name,lang,new stars
 293583556,tomlooman/ActionRoguelike,C++,338
 321543928,Rubberduckycooly/Sonic-1-2-2013-Decompilation,C++,219
 151064439,AlessandroAU/ExpressLRS,C++,53
-255792625,Rubberduckycooly/Sonic-CD-11-Decompilation,C++,50
+255792625,Rubberduckycooly/Sonic-CD-11-Decompilation,C++,45

@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,421
-1614410,FFmpeg/FFmpeg,C,137
+2325298,torvalds/linux,C,410
+1614410,FFmpeg/FFmpeg,C,138
 24586308,cfenollosa/os-tutorial,C,101
 569041,curl/curl,C,68
-7634677,openssl/openssl,C,54
+7634677,openssl/openssl,C,53
 102578345,coolsnowwolf/lede,C,232
 15337142,micropython/micropython,C,100
 95133665,s-matyukevich/raspberry-pi-os,C,35
-16096528,AudioKit/AudioKit,C,32
+16096528,AudioKit/AudioKit,C,30
 33339660,jerryscript-project/jerryscript,C,937
 60667730,lvgl/lvgl,C,81
 273689548,peng-zhihui/L-ink_Card,C,50
@@ -22,5 +22,5 @@ id,name,lang,new stars
 204459250,mit-pdos/xv6-riscv,C,22
 8890645,Xilinx/linux-xlnx,C,5
 327656592,AsahiLinux/gpu,C,211
-220497210,sqfmi/Watchy,C,41
+220497210,sqfmi/Watchy,C,31
 233344777,AOF-Dev/BoatApp,C,21
