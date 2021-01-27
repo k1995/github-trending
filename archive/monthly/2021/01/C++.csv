@@ -1,8 +1,8 @@
 id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,1256
 23357588,protocolbuffers/protobuf,C++,736
-15634981,godotengine/godot,C++,866
-22067521,ocornut/imgui,C++,1228
+15634981,godotengine/godot,C++,868
+22067521,ocornut/imgui,C++,1230
 13862381,DrKLO/Telegram,C++,497
 19374812,telegramdesktop/tdesktop,C++,824
 31522041,vnpy/vnpy,C++,451
@@ -10,17 +10,17 @@ id,name,lang,new stars
 1217614,xbmc/xbmc,C++,544
 26038648,gabime/spdlog,C++,307
 2200856,MarlinFirmware/Marlin,C++,838
-160083795,SerenityOS/serenity,C++,692
+160083795,SerenityOS/serenity,C++,690
 648332,assimp/assimp,C++,127
 4454793,musescore/MuseScore,C++,208
 19316619,monero-project/monero,C++,413
-86337343,skypjack/entt,C++,231
+86337343,skypjack/entt,C++,230
 267649918,hoffstadt/DearPyGui,C++,1021
-88327406,xmrig/xmrig,C++,165
-89067146,ethereum-mining/ethminer,C++,236
+88327406,xmrig/xmrig,C++,166
+89067146,ethereum-mining/ethminer,C++,237
 235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,622
 68082730,Ralim/IronOS,C++,206
 3030065,gnuradio/gnuradio,C++,94
 319991441,FlaxEngine/FlaxEngine,C++,995
 152631182,kamyu104/LeetCode-Solutions,C++,140
-151064439,AlessandroAU/ExpressLRS,C++,116
+151064439,AlessandroAU/ExpressLRS,C++,114
