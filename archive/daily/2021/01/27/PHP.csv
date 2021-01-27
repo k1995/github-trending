@@ -1,18 +1,18 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,4
-1420053,guzzle/guzzle,PHP,6
+1420053,guzzle/guzzle,PHP,7
 448045,sebastianbergmann/phpunit,PHP,1
 8708394,filp/whoops,PHP,1
-15020102,walkor/Workerman,PHP,10
+15020102,walkor/Workerman,PHP,9
 597887,doctrine/orm,PHP,2
-9004802,phpspec/prophecy,PHP,3
+9004802,phpspec/prophecy,PHP,2
 38710819,paragonie/random_compat,PHP,3
 31295421,guzzle/psr7,PHP,2
-2179920,woocommerce/woocommerce,PHP,4
+2179920,woocommerce/woocommerce,PHP,7
 2717549,Sylius/Sylius,PHP,2
 2141186,opencart/opencart,PHP,2
-6763587,PrestaShop/PrestaShop,PHP,4
-4565995,phpseclib/phpseclib,PHP,1
+6763587,PrestaShop/PrestaShop,PHP,5
+4565995,phpseclib/phpseclib,PHP,2
 255703597,beyondcode/expose,PHP,7
 1953386,stripe/stripe-php,PHP,6
 291805291,laravel/jetstream,PHP,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 69124179,ConsoleTVs/Charts,PHP,2
 311448648,laravel/breeze,PHP,8
 274180401,MedicOneSystems/livewire-datatables,PHP,2
-215310009,Grafikart/Grafikart.fr,PHP,30
-332291650,spatie/laravel-package-tools,PHP,37
+215310009,Grafikart/Grafikart.fr,PHP,24
+332291650,spatie/laravel-package-tools,PHP,41
 184538454,yankovalenko94/Webdev2019,PHP,0
 331843308,SNCKER/CVE-2021-3129,PHP,4
