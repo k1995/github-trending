@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1614410,FFmpeg/FFmpeg,C,17
-5101141,stedolan/jq,C,12
+5101141,stedolan/jq,C,13
 14812739,libuv/libuv,C,6
 80286288,arendst/Tasmota,C,74
-102578345,coolsnowwolf/lede,C,57
+102578345,coolsnowwolf/lede,C,48
 1482997,phpredis/phpredis,C,9
 927442,postgres/postgres,C,6
 39242894,coturn/coturn,C,8
-33339660,jerryscript-project/jerryscript,C,270
+33339660,jerryscript-project/jerryscript,C,271
 60667730,lvgl/lvgl,C,14
 105944401,yugabyte/yugabyte-db,C,3
 44781140,greenplum-db/gpdb,C,5
@@ -17,8 +17,8 @@ id,name,lang,new stars
 148706208,solokeys/solo,C,10
 51990771,ARM-software/CMSIS_5,C,1
 6860771,hathach/tinyusb,C,71
-259858821,peng-zhihui/Project-Quantum,C,10
-327491895,peng-zhihui/HoloCubic,C,189
+259858821,peng-zhihui/Project-Quantum,C,4
+327491895,peng-zhihui/HoloCubic,C,176
 117992564,STMicroelectronics/STMems_Standard_C_drivers,C,1
 11934257,Unidata/netcdf-c,C,0
 53432472,Azure/sonic-buildimage,C,0
