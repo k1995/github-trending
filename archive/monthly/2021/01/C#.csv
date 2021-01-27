@@ -2,6 +2,7 @@ id,name,lang,new stars
 38380854,dnSpy/dnSpy,C#,374
 1613345,StackExchange/Dapper,C#,121
 161012019,jellyfin/jellyfin,C#,604
+88064357,QL-Win/QuickLook,C#,343
 198071756,huiyadanli/RevokeMsgPatcher,C#,667
 193681686,NetchX/Netch,C#,357
 164140756,files-community/Files,C#,3471
@@ -9,7 +10,6 @@ id,name,lang,new stars
 104670977,dvf/blockchain,C#,85
 45195614,Jackett/Jackett,C#,157
 27251463,QuantConnect/Lean,C#,181
-31335300,PrismLibrary/Prism,C#,90
 135050219,TGSAN/CMWTAT_Digital_Edition,C#,309
 213460285,jasontaylordev/CleanArchitecture,C#,331
 27703983,StockSharp/StockSharp,C#,129
@@ -21,6 +21,6 @@ id,name,lang,new stars
 52166327,Franiac/TwitchLeecher,C#,89
 295200728,stnkl/EverythingToolbar,C#,1125
 151148482,elsa-workflows/elsa-core,C#,227
-182637681,Assistant/ModAssistant,C#,66
 268367789,builtbybel/privatezilla,C#,135
+272887007,ModernFlyouts-Community/ModernFlyouts,C#,198
 235046065,JavScraper/Emby.Plugins.JavScraper,C#,93
