@@ -1,11 +1,11 @@
 id,name,lang,new stars
 33614304,nvbn/thefuck,Python,202
-843222,scikit-learn/scikit-learn,Python,568
+843222,scikit-learn/scikit-learn,Python,594
 39464018,apache/superset,Python,1703
 71948498,localstack/localstack,Python,135
 1431547,encode/django-rest-framework,Python,362
-2909429,nicolargo/glances,Python,197
-38696925,python-telegram-bot/python-telegram-bot,Python,96
+2909429,nicolargo/glances,Python,200
+38696925,python-telegram-bot/python-telegram-bot,Python,99
 37347459,Eloston/ungoogled-chromium,Python,176
 262296122,PaddlePaddle/PaddleOCR,Python,803
 90356372,ArchiveBox/ArchiveBox,Python,225
@@ -15,7 +15,7 @@ id,name,lang,new stars
 103071520,great-expectations/great_expectations,Python,65
 164564630,0xInfection/Awesome-WAF,Python,51
 51040886,Azure/azure-cli,Python,11
-4127088,Azure/azure-sdk-for-python,Python,13
+4127088,Azure/azure-sdk-for-python,Python,12
 279177733,obheda12/GitDorker,Python,147
 243646988,popey/sosumi-snap,Python,117
 327002257,ml-tooling/best-of-web-python,Python,241

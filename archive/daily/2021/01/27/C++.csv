@@ -10,7 +10,7 @@ id,name,lang,new stars
 1062572,catchorg/Catch2,C++,5
 81887991,microsoft/AirSim,C++,4
 2200856,MarlinFirmware/Marlin,C++,70
-38581626,pybind/pybind11,C++,5
+38581626,pybind/pybind11,C++,7
 160083795,SerenityOS/serenity,C++,59
 23061798,scylladb/seastar,C++,1
 108102826,carla-simulator/carla,C++,5
@@ -19,7 +19,7 @@ id,name,lang,new stars
 3884981,juce-framework/JUCE,C++,1
 153097643,openvinotoolkit/openvino,C++,6
 309512982,vectorizedio/redpanda,C++,20
-145472407,skiftOS/skift,C++,52
+145472407,skiftOS/skift,C++,34
 276269866,TixiaoShan/LIO-SAM,C++,1
 215649623,Xilinx/Vitis-AI,C++,2
 329933755,pimoroni/pimoroni-pico,C++,4
