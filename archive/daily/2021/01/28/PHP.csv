@@ -9,7 +9,7 @@ id,name,lang,new stars
 212659,sebastianbergmann/php-code-coverage,PHP,1
 2179920,woocommerce/woocommerce,PHP,2
 364315,predis/predis,PHP,1
-6763587,PrestaShop/PrestaShop,PHP,3
+6763587,PrestaShop/PrestaShop,PHP,4
 576099,doctrine/migrations,PHP,2
 29126334,EasyCorp/EasyAdminBundle,PHP,2
 11935508,RSS-Bridge/rss-bridge,PHP,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 29501260,api-platform/core,PHP,0
 27965134,opnsense/core,PHP,5
 311448648,laravel/breeze,PHP,2
-215310009,Grafikart/Grafikart.fr,PHP,17
-332485520,m1guelpf/laravel-fastlogin,PHP,33
-332291650,spatie/laravel-package-tools,PHP,33
+332485520,m1guelpf/laravel-fastlogin,PHP,31
+215310009,Grafikart/Grafikart.fr,PHP,14
+332291650,spatie/laravel-package-tools,PHP,32
