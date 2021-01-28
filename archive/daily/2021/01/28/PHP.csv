@@ -12,7 +12,7 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,4
 576099,doctrine/migrations,PHP,2
 29126334,EasyCorp/EasyAdminBundle,PHP,2
-11935508,RSS-Bridge/rss-bridge,PHP,3
+11935508,RSS-Bridge/rss-bridge,PHP,4
 1740040,pfsense/pfsense,PHP,6
 291805291,laravel/jetstream,PHP,7
 38116958,php-telegram-bot/core,PHP,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 29501260,api-platform/core,PHP,0
 27965134,opnsense/core,PHP,5
 311448648,laravel/breeze,PHP,2
-332485520,m1guelpf/laravel-fastlogin,PHP,31
-215310009,Grafikart/Grafikart.fr,PHP,14
-332291650,spatie/laravel-package-tools,PHP,32
+332485520,m1guelpf/laravel-fastlogin,PHP,32
+215310009,Grafikart/Grafikart.fr,PHP,13
+332291650,spatie/laravel-package-tools,PHP,21
