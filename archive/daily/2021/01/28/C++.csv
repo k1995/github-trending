@@ -1,10 +1,10 @@
 id,name,lang,new stars
-23357588,protocolbuffers/protobuf,C++,15
-65600975,pytorch/pytorch,C++,45
-22067521,ocornut/imgui,C++,70
-39840932,google/googletest,C++,15
+23357588,protocolbuffers/protobuf,C++,16
+65600975,pytorch/pytorch,C++,47
+22067521,ocornut/imgui,C++,72
+39840932,google/googletest,C++,14
 22394357,osquery/osquery,C++,4
-4524181,facebook/folly,C++,6
+4524181,facebook/folly,C++,7
 114187903,apple/foundationdb,C++,0
 2310495,ceph/ceph,C++,7
 38581626,pybind/pybind11,C++,7
@@ -14,13 +14,13 @@ id,name,lang,new stars
 23086893,google/re2,C++,4
 64732358,cartographer-project/cartographer,C++,6
 32736639,JoeyDeVries/LearnOpenGL,C++,6
-15122806,google/benchmark,C++,1
+15122806,google/benchmark,C++,2
 13909573,cisco/openh264,C++,3
-184704903,interpretml/interpret,C++,2
+184704903,interpretml/interpret,C++,1
 240507922,mytechnotalent/Reverse-Engineering-Tutorial,C++,11
 83542585,wisdompeak/LeetCode,C++,6
 12007030,lammps/lammps,C++,1
 244694174,project-chip/connectedhomeip,C++,3
 150550175,kuroni/bongocat-osu,C++,2
-216012144,gvinciguerra/PGM-index,C++,45
+216012144,gvinciguerra/PGM-index,C++,44
 331119302,OSRDrivers/i30Flt,C++,14
