@@ -10,7 +10,7 @@ id,name,lang,new stars
 101782647,pytorch/fairseq,Python,16
 262296122,PaddlePaddle/PaddleOCR,Python,464
 16479108,wagtail/wagtail,Python,11
-91594105,ansible/awx,Python,8
+91594105,ansible/awx,Python,10
 73328905,pytorch/vision,Python,11
 3342055,nodejs/node-gyp,Python,5
 89266735,facebookresearch/ParlAI,Python,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 240315046,jina-ai/jina,Python,12
 60525392,demisto/content,Python,1
 331052203,MTK-bypass/bypass_utility,Python,38
-137527046,RyanElliott10/wsbtickerbot,Python,5
+137527046,RyanElliott10/wsbtickerbot,Python,9

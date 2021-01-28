@@ -1,7 +1,7 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,9
 53238813,Homebrew/brew,Ruby,15
-2293158,rapid7/metasploit-framework,Ruby,12
+2293158,rapid7/metasploit-framework,Ruby,11
 2203645,CocoaPods/CocoaPods,Ruby,2
 1090311,elastic/logstash,Ruby,4
 4095287,rubocop-hq/rubocop,Ruby,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 447184,rspec/rspec-rails,Ruby,0
 14238949,elastic/elasticsearch-rails,Ruby,0
 143489,DatabaseCleaner/database_cleaner,Ruby,0
-46698467,ankane/strong_migrations,Ruby,1
+46698467,ankane/strong_migrations,Ruby,2
 103766152,github/explore,Ruby,4
 3947396,getsentry/sentry-ruby,Ruby,1

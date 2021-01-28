@@ -1,10 +1,10 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,408
 1614410,FFmpeg/FFmpeg,C,141
-24586308,cfenollosa/os-tutorial,C,91
-7634677,openssl/openssl,C,55
+24586308,cfenollosa/os-tutorial,C,89
+7634677,openssl/openssl,C,54
 102578345,coolsnowwolf/lede,C,252
-15337142,micropython/micropython,C,121
+15337142,micropython/micropython,C,120
 84240850,timescale/timescaledb,C,54
 3319040,id-Software/DOOM,C,40
 18106269,lz4/lz4,C,150
@@ -13,10 +13,10 @@ id,name,lang,new stars
 5870069,edenhill/librdkafka,C,34
 673267,redis/hiredis,C,15
 273689548,peng-zhihui/L-ink_Card,C,49
-19112091,vanhauser-thc/thc-hydra,C,42
+19112091,vanhauser-thc/thc-hydra,C,43
 211381291,ExistentialAudio/BlackHole,C,95
-40504480,mit-pdos/xv6-public,C,25
-31791482,microsoft/Windows-driver-samples,C,16
+40504480,mit-pdos/xv6-public,C,26
+31791482,microsoft/Windows-driver-samples,C,15
 59676171,KevinOConnor/klipper,C,24
 148706208,solokeys/solo,C,21
 6860771,hathach/tinyusb,C,514
