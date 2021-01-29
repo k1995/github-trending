@@ -3,7 +3,7 @@ id,name,lang,new stars
 15452919,ethereum/go-ethereum,Go,449
 133251103,wagoodman/dive,Go,449
 16563587,cockroachdb/cockroach,Go,229
-61137153,evanw/esbuild,Go,1542
+61137153,evanw/esbuild,Go,1529
 97533102,halfrost/LeetCode-Go,Go,3033
 15345331,boltdb/bolt,Go,138
 119160553,photoprism/photoprism,Go,2549
@@ -13,7 +13,7 @@ id,name,lang,new stars
 162920291,inlets/inlets,Go,477
 29099181,keybase/client,Go,116
 201658460,geektutu/7days-golang,Go,571
-95761244,gogf/gf,Go,312
+95761244,gogf/gf,Go,316
 140457254,OWASP/Amass,Go,188
 27483832,gogo/protobuf,Go,91
 11931032,btcsuite/btcd,Go,65
