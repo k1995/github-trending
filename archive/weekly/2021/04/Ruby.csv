@@ -1,8 +1,8 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,56
-27442967,fastlane/fastlane,Ruby,54
+7569578,discourse/discourse,Ruby,55
+27442967,fastlane/fastlane,Ruby,58
 308770,heartcombo/devise,Ruby,23
-481872,hashicorp/vagrant,Ruby,58
+481872,hashicorp/vagrant,Ruby,59
 2203645,CocoaPods/CocoaPods,Ruby,11
 1090311,elastic/logstash,Ruby,27
 1918677,fluent/fluentd,Ruby,24
@@ -11,13 +11,13 @@ id,name,lang,new stars
 1333863,kaminari/kaminari,Ruby,11
 810796,sferik/rails_admin,Ruby,5
 21829,thoughtbot/factory_bot,Ruby,13
-108278,chef/chef,Ruby,9
+108278,chef/chef,Ruby,10
 4994614,wpscanteam/wpscan,Ruby,40
-355893,github/markup,Ruby,4
+355893,github/markup,Ruby,5
 75785147,rails/webpacker,Ruby,11
 1548802,activerecord-hackery/ransack,Ruby,13
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,41
-30337170,rmosolgo/graphql-ruby,Ruby,8
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,40
+30337170,rmosolgo/graphql-ruby,Ruby,10
 4523235,asciidoctor/asciidoctor,Ruby,12
 950915,urbanadventurer/WhatWeb,Ruby,24
 46698467,ankane/strong_migrations,Ruby,30

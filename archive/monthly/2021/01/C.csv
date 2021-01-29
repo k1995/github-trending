@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1778
+2325298,torvalds/linux,C,1779
 111583593,Genymobile/scrcpy,C,1905
-13233158,obsproject/obs-studio,C,718
+13233158,obsproject/obs-studio,C,716
 24586308,cfenollosa/os-tutorial,C,438
 102578345,coolsnowwolf/lede,C,692
-246335987,ventoy/Ventoy,C,817
-15337142,micropython/micropython,C,274
+246335987,ventoy/Ventoy,C,818
+15337142,micropython/micropython,C,273
 105627846,reactos/reactos,C,191
-27737393,qmk/qmk_firmware,C,230
+27737393,qmk/qmk_firmware,C,229
 16096528,AudioKit/AudioKit,C,122
-78281075,SpacehuhnTech/esp8266_deauther,C,194
+78281075,SpacehuhnTech/esp8266_deauther,C,195
 45821540,openwrt/openwrt,C,336
 65899476,espressif/esp-idf,C,157
 3318027,id-Software/Quake-III-Arena,C,101
@@ -17,8 +17,8 @@ id,name,lang,new stars
 13297858,vysheng/tg,C,86
 59771425,zephyrproject-rtos/zephyr,C,204
 3565909,raspberrypi/firmware,C,84
-254327261,sandboxie-plus/Sandboxie,C,1235
-59676171,KevinOConnor/klipper,C,98
+254327261,sandboxie-plus/Sandboxie,C,1236
+59676171,KevinOConnor/klipper,C,97
 79187602,BlockchainCommons/Learning-Bitcoin-from-the-Command-Line,C,68
 238539562,checkra1n/pongoOS,C,356
 204459250,mit-pdos/xv6-riscv,C,68
