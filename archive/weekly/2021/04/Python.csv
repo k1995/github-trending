@@ -1,5 +1,5 @@
 id,name,lang,new stars
-843222,scikit-learn/scikit-learn,Python,574
+843222,scikit-learn/scikit-learn,Python,566
 39464018,apache/superset,Python,2186
 71948498,localstack/localstack,Python,143
 160919119,tiangolo/fastapi,Python,326
@@ -14,7 +14,7 @@ id,name,lang,new stars
 140614233,PySimpleGUI/PySimpleGUI,Python,92
 66641037,LonamiWebs/Telethon,Python,48
 15749269,googleapis/google-api-python-client,Python,31
-278881384,kangvcar/InfoSpider,Python,159
+278881384,kangvcar/InfoSpider,Python,155
 235860204,microsoft/DeepSpeed,Python,188
 93372410,MrMimic/data-scientist-roadmap,Python,43
 235901813,PostHog/posthog,Python,41
