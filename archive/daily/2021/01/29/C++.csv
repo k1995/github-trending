@@ -1,5 +1,5 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,32
+9384267,electron/electron,C++,28
 27729880,grpc/grpc,C++,18
 11171548,nlohmann/json,C++,13
 16587283,dmlc/xgboost,C++,13
@@ -11,16 +11,16 @@ id,name,lang,new stars
 310611,apache/thrift,C++,6
 4128353,sass/node-sass,C++,2
 51905353,apache/arrow,C++,13
-263379,zeromq/libzmq,C++,5
+263379,zeromq/libzmq,C++,6
 36451925,lltcggie/waifu2x-caffe,C++,5
 2436255,Project-OSRM/osrm-backend,C++,5
 1320594,SpiderLabs/ModSecurity,C++,3
 56894212,jvm-profiling-tools/async-profiler,C++,7
 49986046,falcosecurity/falco,C++,5
-22660515,onqtam/doctest,C++,9
+22660515,onqtam/doctest,C++,7
 27918697,versatica/mediasoup,C++,10
 14981376,dogecoin/dogecoin,C++,102
 6148317,OSGeo/gdal,C++,3
-212419495,googlevr/cardboard,C++,3
-244694174,project-chip/connectedhomeip,C++,5
+212419495,googlevr/cardboard,C++,2
+244694174,project-chip/connectedhomeip,C++,3
 20296703,eProsima/Fast-DDS,C++,1
