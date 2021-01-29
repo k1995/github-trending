@@ -2,7 +2,7 @@ id,name,lang,new stars
 569041,curl/curl,C,22
 5101141,stedolan/jq,C,8
 14812739,libuv/libuv,C,9
-7634677,openssl/openssl,C,8
+7634677,openssl/openssl,C,7
 29759715,facebook/zstd,C,7
 15337142,micropython/micropython,C,10
 34921116,iovisor/bcc,C,2
@@ -19,7 +19,7 @@ id,name,lang,new stars
 15257213,ldcsaa/HP-Socket,C,7
 1377037,gluster/glusterfs,C,2
 29933948,fluent/fluent-bit,C,1
-40008653,leahneukirchen/nq,C,174
+40008653,leahneukirchen/nq,C,175
 288082909,htop-dev/htop,C,5
 6860771,hathach/tinyusb,C,63
 57972154,sudo-project/sudo,C,21
