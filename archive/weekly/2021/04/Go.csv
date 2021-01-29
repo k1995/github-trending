@@ -3,9 +3,9 @@ id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,245
 11225014,etcd-io/etcd,Go,108
 138547797,FiloSottile/mkcert,Go,204
-74175805,istio/istio,Go,74
-14125254,hashicorp/consul,Go,67
-56353740,kubernetes/minikube,Go,69
+74175805,istio/istio,Go,75
+14125254,hashicorp/consul,Go,65
+56353740,kubernetes/minikube,Go,70
 31288958,hashicorp/vault,Go,80
 61137153,evanw/esbuild,Go,456
 6051812,gorilla/mux,Go,58
@@ -13,8 +13,8 @@ id,name,lang,new stars
 21233191,ipfs/go-ipfs,Go,70
 36653430,hashicorp/nomad,Go,313
 162920291,inlets/inlets,Go,312
-148545807,kubernetes-sigs/kind,Go,90
 109145553,containers/podman,Go,85
+148545807,kubernetes-sigs/kind,Go,90
 133067498,kubernetes-sigs/kustomize,Go,31
 180687624,aquasecurity/trivy,Go,69
 297165998,muesli/duf,Go,100

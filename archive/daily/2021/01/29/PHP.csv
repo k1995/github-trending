@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,3
+2579314,fzaninotto/Faker,PHP,5
 458058,symfony/symfony,PHP,4
 1420053,guzzle/guzzle,PHP,5
 1376664,Seldaek/monolog,PHP,6
@@ -12,7 +12,7 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,9
 656494,cakephp/cakephp,PHP,0
 597887,doctrine/orm,PHP,1
-6660366,dompdf/dompdf,PHP,5
+6660366,dompdf/dompdf,PHP,4
 77071207,laravel/tinker,PHP,1
 41589337,BookStackApp/BookStack,PHP,11
 6763587,PrestaShop/PrestaShop,PHP,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 80249302,craftcms/cms,PHP,56
 6266214,paratestphp/paratest,PHP,2
 75645659,WordPress/wordpress-develop,PHP,1
-215310009,Grafikart/Grafikart.fr,PHP,9
+215310009,Grafikart/Grafikart.fr,PHP,10
