@@ -1,7 +1,7 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,51
 10744183,netdata/netdata,C,17
-156018,redis/redis,C,18
+156018,redis/redis,C,19
 1903522,php/php-src,C,16
 569041,curl/curl,C,13
 7710647,jedisct1/libsodium,C,3
@@ -9,7 +9,7 @@ id,name,lang,new stars
 70127218,espressif/arduino-esp32,C,9
 39242894,coturn/coturn,C,7
 14902556,offensive-security/exploitdb,C,3
-5870069,edenhill/librdkafka,C,5
+5870069,edenhill/librdkafka,C,9
 44781140,greenplum-db/gpdb,C,2
 59771425,zephyrproject-rtos/zephyr,C,5
 8270972,ARMmbed/mbed-os,C,2
