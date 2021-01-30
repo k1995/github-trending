@@ -1,21 +1,21 @@
 id,name,lang,new stars
 23096959,golang/go,Go,290
-20580498,kubernetes/kubernetes,Go,237
+20580498,kubernetes/kubernetes,Go,236
 11225014,etcd-io/etcd,Go,117
 133251103,wagoodman/dive,Go,219
 13124802,influxdata/influxdb,Go,65
 31288958,hashicorp/vault,Go,80
-61137153,evanw/esbuild,Go,462
+61137153,evanw/esbuild,Go,492
 21233191,ipfs/go-ipfs,Go,64
 5179099,go-redis/redis,Go,78
 36653430,hashicorp/nomad,Go,317
 162920291,inlets/inlets,Go,290
 23247808,rqlite/rqlite,Go,690
-148545807,kubernetes-sigs/kind,Go,92
+148545807,kubernetes-sigs/kind,Go,91
 11206255,Shopify/sarama,Go,32
 68964263,prometheus-operator/prometheus-operator,Go,45
-120896210,argoproj/argo-cd,Go,177
-27483832,gogo/protobuf,Go,40
+120896210,argoproj/argo-cd,Go,165
+27483832,gogo/protobuf,Go,39
 80134675,containers/buildah,Go,51
 156681830,ffuf/ffuf,Go,111
 150713223,kubeedge/kubeedge,Go,71
@@ -23,4 +23,4 @@ id,name,lang,new stars
 276822250,oam-dev/kubevela,Go,100
 310247011,cdk-team/CDK,Go,589
 96004375,aws/aws-sdk-go-v2,Go,29
-311804365,benbjohnson/wtf,Go,121
+311804365,benbjohnson/wtf,Go,117

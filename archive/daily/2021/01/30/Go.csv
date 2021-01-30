@@ -1,5 +1,5 @@
 id,name,lang,new stars
-133251103,wagoodman/dive,Go,89
+133251103,wagoodman/dive,Go,69
 31504491,labstack/echo,Go,16
 43723161,helm/helm,Go,8
 6247705,stretchr/testify,Go,12
@@ -20,7 +20,7 @@ id,name,lang,new stars
 67793333,cortexproject/cortex,Go,4
 90798757,segmentio/kafka-go,Go,6
 134539560,weaveworks/eksctl,Go,5
-141089889,berty/berty,Go,309
-301830590,benbjohnson/litestream,Go,426
+141089889,berty/berty,Go,290
+301830590,benbjohnson/litestream,Go,330
 297622945,cloudskiff/driftctl,Go,18
 333772078,evilsocket/ditto,Go,89
