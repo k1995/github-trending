@@ -1,16 +1,16 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,501
+7548986,laravel/framework,PHP,498
 2234102,bcit-ci/CodeIgniter,PHP,48
 1548202,matomo-org/matomo,PHP,436
 12615154,barryvdh/laravel-debugbar,PHP,143
 1305114,roots/sage,PHP,55
-61490598,PHPOffice/PhpSpreadsheet,PHP,183
+61490598,PHPOffice/PhpSpreadsheet,PHP,187
 15020102,walkor/Workerman,PHP,186
 79111500,jupeter/clean-code-php,PHP,147
 2699935,squizlabs/PHP_CodeSniffer,PHP,96
 2717549,Sylius/Sylius,PHP,69
 41589337,BookStackApp/BookStack,PHP,197
-2141186,opencart/opencart,PHP,83
+2141186,opencart/opencart,PHP,84
 16238673,kanboard/kanboard,PHP,82
 86350964,the-benchmarker/web-frameworks,PHP,279
 95011974,akaunting/akaunting,PHP,126
@@ -20,7 +20,7 @@ id,name,lang,new stars
 291805291,laravel/jetstream,PHP,132
 38116958,php-telegram-bot/core,PHP,56
 13044600,salesagility/SuiteCRM,PHP,39
-1957456,Dolibarr/dolibarr,PHP,67
+1957456,Dolibarr/dolibarr,PHP,68
 286645686,yuantuo666/baiduwp-php,PHP,152
 39698170,pi-hole/AdminLTE,PHP,51
 230926110,qkqpttgf/OneManager-php,PHP,127

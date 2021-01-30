@@ -1,11 +1,11 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,54
+27442967,fastlane/fastlane,Ruby,58
 308770,heartcombo/devise,Ruby,26
-481872,hashicorp/vagrant,Ruby,57
-73648678,forem/forem,Ruby,58
-2203645,CocoaPods/CocoaPods,Ruby,14
+481872,hashicorp/vagrant,Ruby,59
+73648678,forem/forem,Ruby,59
+2203645,CocoaPods/CocoaPods,Ruby,13
 1090311,elastic/logstash,Ruby,26
-4095287,rubocop-hq/rubocop,Ruby,16
+4095287,rubocop-hq/rubocop,Ruby,17
 3314,spree/spree,Ruby,41
 3195124,mperham/sidekiq,Ruby,17
 1918677,fluent/fluentd,Ruby,21
@@ -14,10 +14,10 @@ id,name,lang,new stars
 810796,sferik/rails_admin,Ruby,3
 21829,thoughtbot/factory_bot,Ruby,9
 26018608,github-changelog-generator/github-changelog-generator,Ruby,14
-4994614,wpscanteam/wpscan,Ruby,43
+4994614,wpscanteam/wpscan,Ruby,44
 75785147,rails/webpacker,Ruby,12
 535266,vcr/vcr,Ruby,8
-5219382,rack/rack-attack,Ruby,10
+5219382,rack/rack-attack,Ruby,14
 30337170,rmosolgo/graphql-ruby,Ruby,10
 46698467,ankane/strong_migrations,Ruby,28
 103766152,github/explore,Ruby,20

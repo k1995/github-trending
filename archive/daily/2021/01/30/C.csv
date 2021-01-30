@@ -1,7 +1,7 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,51
 10744183,netdata/netdata,C,17
-1903522,php/php-src,C,16
+1903522,php/php-src,C,17
 14812739,libuv/libuv,C,13
 184981,memcached/memcached,C,7
 70127218,espressif/arduino-esp32,C,9
@@ -17,8 +17,8 @@ id,name,lang,new stars
 43681824,varnishcache/varnish-cache,C,3
 16346821,Lora-net/LoRaMac-node,C,0
 23007645,gianlucaborello/libprocesshider,C,8
-57972154,sudo-project/sudo,C,53
-288152369,DinoZ1729/Ray,C,66
+57972154,sudo-project/sudo,C,33
+288152369,DinoZ1729/Ray,C,67
 320717050,lockedbyte/CVE-Exploits,C,151
 333611385,mai1zhi2/ShellCodeFramework,C,71
 318691203,Mr-Un1k0d3r/RedTeamCCode,C,62
