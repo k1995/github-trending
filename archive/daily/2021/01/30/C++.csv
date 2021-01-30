@@ -4,8 +4,8 @@ id,name,lang,new stars
 11171548,nlohmann/json,C++,13
 74627617,commaai/openpilot,C++,77
 39840932,google/googletest,C++,12
-65214191,envoyproxy/envoy,C++,10
 13862381,DrKLO/Telegram,C++,17
+65214191,envoyproxy/envoy,C++,10
 1062572,catchorg/Catch2,C++,5
 17391973,Tencent/rapidjson,C++,8
 6930489,facebook/watchman,C++,11
@@ -20,7 +20,7 @@ id,name,lang,new stars
 64561753,dusty-nv/jetson-inference,C++,5
 90506918,rapidsai/cudf,C++,4
 49986046,falcosecurity/falco,C++,5
-14981376,dogecoin/dogecoin,C++,164
+14981376,dogecoin/dogecoin,C++,163
 150774287,danielkrupinski/Osiris,C++,7
 149678202,surge-synthesizer/surge,C++,24
 244694174,project-chip/connectedhomeip,C++,4
