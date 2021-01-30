@@ -1,6 +1,6 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,3
-538746,ruby/ruby,Ruby,5
+538746,ruby/ruby,Ruby,7
 2203645,CocoaPods/CocoaPods,Ruby,2
 1090311,elastic/logstash,Ruby,2
 4095287,rubocop-hq/rubocop,Ruby,3
@@ -19,8 +19,8 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,3
 30985840,solidusio/solidus,Ruby,0
 1172597,thoughtbot/shoulda-matchers,Ruby,0
-614070,rubygems/rubygems,Ruby,1
+614070,rubygems/rubygems,Ruby,0
 904810,rubysherpas/paranoia,Ruby,1
 33631352,xcpretty/xcode-install,Ruby,2
-26094060,logstash-plugins/logstash-patterns-core,Ruby,1
+26094060,logstash-plugins/logstash-patterns-core,Ruby,2
 93163073,dependabot/dependabot-core,Ruby,6
