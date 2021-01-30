@@ -1,6 +1,6 @@
 id,name,lang,new stars
 7691631,moby/moby,Go,11
-17728164,hashicorp/terraform,Go,15
+17728164,hashicorp/terraform,Go,14
 133251103,wagoodman/dive,Go,20
 13124802,influxdata/influxdb,Go,10
 43723161,helm/helm,Go,8
@@ -16,7 +16,7 @@ id,name,lang,new stars
 93444615,hashicorp/terraform-provider-aws,Go,3
 120650407,operator-framework/operator-sdk,Go,8
 27483832,gogo/protobuf,Go,10
-19799491,tendermint/tendermint,Go,5
+19799491,tendermint/tendermint,Go,4
 80134675,containers/buildah,Go,8
 237523442,tailscale/tailscale,Go,10
 74499101,roboll/helmfile,Go,4
