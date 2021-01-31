@@ -19,8 +19,8 @@ id,name,lang,new stars
 99143276,vmware-tanzu/velero,Go,7
 67793333,cortexproject/cortex,Go,6
 90798757,segmentio/kafka-go,Go,12
-134539560,weaveworks/eksctl,Go,7
 141089889,berty/berty,Go,880
+134539560,weaveworks/eksctl,Go,7
 301830590,benbjohnson/litestream,Go,200
 297622945,cloudskiff/driftctl,Go,24
 333772078,evilsocket/ditto,Go,111
