@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,1287
+1181927,bitcoin/bitcoin,C++,1273
 23357588,protocolbuffers/protobuf,C++,737
 15634981,godotengine/godot,C++,838
 22067521,ocornut/imgui,C++,1298
@@ -11,12 +11,12 @@ id,name,lang,new stars
 27500243,google/libphonenumber,C++,129
 2200856,MarlinFirmware/Marlin,C++,652
 160083795,SerenityOS/serenity,C++,716
-648332,assimp/assimp,C++,133
+648332,assimp/assimp,C++,125
 4454793,musescore/MuseScore,C++,221
 19316619,monero-project/monero,C++,413
 267649918,hoffstadt/DearPyGui,C++,982
 88327406,xmrig/xmrig,C++,187
-89067146,ethereum-mining/ethminer,C++,263
+89067146,ethereum-mining/ethminer,C++,261
 235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,631
 115883761,tdlib/td,C++,153
 68082730,Ralim/IronOS,C++,208
