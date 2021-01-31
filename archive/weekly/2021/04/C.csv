@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1614410,FFmpeg/FFmpeg,C,151
-569041,curl/curl,C,84
-14812739,libuv/libuv,C,59
-7634677,openssl/openssl,C,58
-102578345,coolsnowwolf/lede,C,284
+1614410,FFmpeg/FFmpeg,C,153
+569041,curl/curl,C,85
+14812739,libuv/libuv,C,60
+7634677,openssl/openssl,C,57
+102578345,coolsnowwolf/lede,C,279
 80286288,arendst/Tasmota,C,215
 4869294,radareorg/radare2,C,56
-15337142,micropython/micropython,C,124
+15337142,micropython/micropython,C,126
 27737393,qmk/qmk_firmware,C,71
-45821540,openwrt/openwrt,C,70
-18106269,lz4/lz4,C,159
-33339660,jerryscript-project/jerryscript,C,1178
-60667730,lvgl/lvgl,C,96
-16734696,meetecho/janus-gateway,C,32
+45821540,openwrt/openwrt,C,73
+18106269,lz4/lz4,C,160
+33339660,jerryscript-project/jerryscript,C,1179
+60667730,lvgl/lvgl,C,79
+16734696,meetecho/janus-gateway,C,34
 5870069,edenhill/librdkafka,C,37
 273689548,peng-zhihui/L-ink_Card,C,62
 44781140,greenplum-db/gpdb,C,14
@@ -22,5 +22,5 @@ id,name,lang,new stars
 15333809,open62541/open62541,C,10
 259858821,peng-zhihui/Project-Quantum,C,55
 327491895,peng-zhihui/HoloCubic,C,569
-331380723,raspberrypi/pico-sdk,C,391
+331380723,raspberrypi/pico-sdk,C,390
 328924835,T-head-Semi/aosp-riscv,C,117
