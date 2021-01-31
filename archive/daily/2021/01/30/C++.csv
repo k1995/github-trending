@@ -1,6 +1,6 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,84
-1181927,bitcoin/bitcoin,C++,55
+1181927,bitcoin/bitcoin,C++,63
 11171548,nlohmann/json,C++,13
 74627617,commaai/openpilot,C++,77
 39840932,google/googletest,C++,12
@@ -17,10 +17,10 @@ id,name,lang,new stars
 208728772,milvus-io/milvus,C++,14
 130068982,taskflow/taskflow,C++,7
 1690480,qgis/QGIS,C++,11
-64561753,dusty-nv/jetson-inference,C++,5
-90506918,rapidsai/cudf,C++,4
+64561753,dusty-nv/jetson-inference,C++,6
+90506918,rapidsai/cudf,C++,6
 49986046,falcosecurity/falco,C++,5
 14981376,dogecoin/dogecoin,C++,163
-150774287,danielkrupinski/Osiris,C++,7
+150774287,danielkrupinski/Osiris,C++,9
 149678202,surge-synthesizer/surge,C++,24
 244694174,project-chip/connectedhomeip,C++,4

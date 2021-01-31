@@ -1,10 +1,10 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,498
+7548986,laravel/framework,PHP,501
 2234102,bcit-ci/CodeIgniter,PHP,48
 1548202,matomo-org/matomo,PHP,436
 12615154,barryvdh/laravel-debugbar,PHP,143
-1305114,roots/sage,PHP,55
-61490598,PHPOffice/PhpSpreadsheet,PHP,187
+1305114,roots/sage,PHP,54
+61490598,PHPOffice/PhpSpreadsheet,PHP,183
 15020102,walkor/Workerman,PHP,186
 79111500,jupeter/clean-code-php,PHP,147
 2699935,squizlabs/PHP_CodeSniffer,PHP,96
@@ -14,7 +14,7 @@ id,name,lang,new stars
 16238673,kanboard/kanboard,PHP,82
 86350964,the-benchmarker/web-frameworks,PHP,279
 95011974,akaunting/akaunting,PHP,126
-439861,moodle/moodle,PHP,64
+439861,moodle/moodle,PHP,68
 255703597,beyondcode/expose,PHP,116
 22751672,tecnickcom/TCPDF,PHP,50
 291805291,laravel/jetstream,PHP,132
