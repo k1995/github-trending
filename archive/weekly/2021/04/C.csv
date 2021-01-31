@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1614410,FFmpeg/FFmpeg,C,157
-569041,curl/curl,C,87
-14812739,libuv/libuv,C,55
+1614410,FFmpeg/FFmpeg,C,159
+569041,curl/curl,C,88
+14812739,libuv/libuv,C,56
 7634677,openssl/openssl,C,57
 102578345,coolsnowwolf/lede,C,284
 37912398,nginx/nginx,C,59
@@ -9,7 +9,7 @@ id,name,lang,new stars
 3199002,raspberrypi/linux,C,42
 18106269,lz4/lz4,C,159
 33339660,jerryscript-project/jerryscript,C,1178
-60667730,lvgl/lvgl,C,95
+60667730,lvgl/lvgl,C,96
 5870069,edenhill/librdkafka,C,38
 273689548,peng-zhihui/L-ink_Card,C,62
 19112091,vanhauser-thc/thc-hydra,C,44

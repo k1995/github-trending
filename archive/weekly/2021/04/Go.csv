@@ -1,16 +1,16 @@
 id,name,lang,new stars
 23096959,golang/go,Go,324
 20580498,kubernetes/kubernetes,Go,258
-11225014,etcd-io/etcd,Go,125
+11225014,etcd-io/etcd,Go,124
 133251103,wagoodman/dive,Go,232
 13124802,influxdata/influxdb,Go,66
-31288958,hashicorp/vault,Go,80
+31288958,hashicorp/vault,Go,81
 61137153,evanw/esbuild,Go,532
-21233191,ipfs/go-ipfs,Go,72
+21233191,ipfs/go-ipfs,Go,73
 5179099,go-redis/redis,Go,86
 36653430,hashicorp/nomad,Go,322
 162920291,inlets/inlets,Go,315
-23247808,rqlite/rqlite,Go,695
+23247808,rqlite/rqlite,Go,694
 148545807,kubernetes-sigs/kind,Go,94
 11206255,Shopify/sarama,Go,34
 68964263,prometheus-operator/prometheus-operator,Go,47
@@ -22,5 +22,5 @@ id,name,lang,new stars
 273132277,moonD4rk/HackBrowserData,Go,469
 276822250,oam-dev/kubevela,Go,101
 310247011,cdk-team/CDK,Go,601
-96004375,aws/aws-sdk-go-v2,Go,32
+96004375,aws/aws-sdk-go-v2,Go,31
 311804365,benbjohnson/wtf,Go,121
