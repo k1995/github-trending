@@ -1,19 +1,19 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,195
-100060912,microsoft/terminal,C++,532
-65600975,pytorch/pytorch,C++,233
+100060912,microsoft/terminal,C++,520
+65600975,pytorch/pytorch,C++,234
 22067521,ocornut/imgui,C++,519
 11171548,nlohmann/json,C++,96
 60246359,ClickHouse/ClickHouse,C++,110
 38581626,pybind/pybind11,C++,38
 160083795,SerenityOS/serenity,C++,290
 104231541,abseil/abseil-cpp,C++,37
-51905353,apache/arrow,C++,59
+51905353,apache/arrow,C++,54
 16309670,gperftools/gperftools,C++,24
-208728772,milvus-io/milvus,C++,62
+208728772,milvus-io/milvus,C++,60
 1690480,qgis/QGIS,C++,38
 49986046,falcosecurity/falco,C++,27
-14981376,dogecoin/dogecoin,C++,616
+14981376,dogecoin/dogecoin,C++,630
 319991441,FlaxEngine/FlaxEngine,C++,226
 153097643,openvinotoolkit/openvino,C++,22
 309512982,vectorizedio/redpanda,C++,93
