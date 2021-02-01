@@ -1,16 +1,16 @@
 id,name,lang,new stars
 39464018,apache/superset,Python,1797
 267775629,geekxh/hello-algorithm,Java,482
-44662669,dbeaver/dbeaver,Java,292
+44662669,dbeaver/dbeaver,Java,257
 262296122,PaddlePaddle/PaddleOCR,Python,1984
 85371262,williamfiset/Algorithms,Java,880
 51905353,apache/arrow,C++,60
 229764465,Asabeneh/30-Days-Of-JavaScript,JavaScript,1299
 21244505,qutebrowser/qutebrowser,Python,234
 18106269,lz4/lz4,C,154
-33339660,jerryscript-project/jerryscript,C,945
+33339660,jerryscript-project/jerryscript,C,656
 286047827,pavlobu/deskreen,TypeScript,4461
-299628763,Asabeneh/30-Days-Of-React,JavaScript,1048
+299628763,Asabeneh/30-Days-Of-React,JavaScript,1059
 208728772,milvus-io/milvus,C++,62
 192640529,heartexlabs/label-studio,JavaScript,806
 14981376,dogecoin/dogecoin,C++,632
@@ -21,6 +21,6 @@ id,name,lang,new stars
 283046497,airbytehq/airbyte,Java,685
 276822250,oam-dev/kubevela,Go,100
 327491895,peng-zhihui/HoloCubic,C,577
-114581326,MinaProtocol/mina,Jupyter Notebook,15
-331380723,raspberrypi/pico-sdk,C,199
+114581326,MinaProtocol/mina,Jupyter Notebook,14
+331380723,raspberrypi/pico-sdk,C,136
 331381105,raspberrypi/pico-examples,Objective-C,158
