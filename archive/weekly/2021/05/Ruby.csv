@@ -1,8 +1,8 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,60
+27442967,fastlane/fastlane,Ruby,59
 308770,heartcombo/devise,Ruby,24
 481872,hashicorp/vagrant,Ruby,54
-73648678,forem/forem,Ruby,59
+73648678,forem/forem,Ruby,58
 2203645,CocoaPods/CocoaPods,Ruby,12
 1090311,elastic/logstash,Ruby,22
 4095287,rubocop-hq/rubocop,Ruby,19
@@ -18,7 +18,7 @@ id,name,lang,new stars
 33739333,thoughtbot/administrate,Ruby,14
 5219382,rack/rack-attack,Ruby,16
 30337170,rmosolgo/graphql-ruby,Ruby,10
-6768710,redmine/redmine,Ruby,10
+6768710,redmine/redmine,Ruby,9
 30985840,solidusio/solidus,Ruby,14
 46698467,ankane/strong_migrations,Ruby,23
 103766152,github/explore,Ruby,16
