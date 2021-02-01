@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,268
-65252,jekyll/jekyll,Ruby,281
+8514,rails/rails,Ruby,271
+65252,jekyll/jekyll,Ruby,279
 7569578,discourse/discourse,Ruby,288
 8681349,huginn/huginn,Ruby,336
-52281283,tootsuite/mastodon,Ruby,1112
-308770,heartcombo/devise,Ruby,101
+52281283,tootsuite/mastodon,Ruby,1113
+308770,heartcombo/devise,Ruby,106
 3623050,Homebrew/homebrew-cask,Ruby,158
 73648678,forem/forem,Ruby,234
 911765,diaspora/diaspora,Ruby,62
@@ -12,7 +12,7 @@ id,name,lang,new stars
 15435,Shopify/liquid,Ruby,100
 1725199,github/linguist,Ruby,128
 4994614,wpscanteam/wpscan,Ruby,117
-75785147,rails/webpacker,Ruby,55
+75785147,rails/webpacker,Ruby,57
 5219382,rack/rack-attack,Ruby,39
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,182
 30337170,rmosolgo/graphql-ruby,Ruby,36
@@ -20,7 +20,7 @@ id,name,lang,new stars
 21333814,lynndylanhurley/devise_token_auth,Ruby,18
 614070,rubygems/rubygems,Ruby,113
 46698467,ankane/strong_migrations,Ruby,59
-11426474,github/choosealicense.com,Ruby,55
-103766152,github/explore,Ruby,70
+11426474,github/choosealicense.com,Ruby,54
+103766152,github/explore,Ruby,71
 93163073,dependabot/dependabot-core,Ruby,64
 121513081,tradingview/charting-library-examples,Ruby,21

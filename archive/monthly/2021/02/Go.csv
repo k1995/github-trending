@@ -1,13 +1,13 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,1116
-15452919,ethereum/go-ethereum,Go,456
-133251103,wagoodman/dive,Go,592
+21540759,avelino/awesome-go,Go,1112
+15452919,ethereum/go-ethereum,Go,459
+133251103,wagoodman/dive,Go,597
 16563587,cockroachdb/cockroach,Go,233
-61137153,evanw/esbuild,Go,1620
-97533102,halfrost/LeetCode-Go,Go,2739
+61137153,evanw/esbuild,Go,1642
+97533102,halfrost/LeetCode-Go,Go,2789
 15345331,boltdb/bolt,Go,142
-119160553,photoprism/photoprism,Go,2563
-158645957,OpenDiablo2/OpenDiablo2,Go,381
+119160553,photoprism/photoprism,Go,2465
+158645957,OpenDiablo2/OpenDiablo2,Go,380
 26836182,therecipe/qt,Go,182
 162920291,inlets/inlets,Go,525
 29099181,keybase/client,Go,111
@@ -21,6 +21,6 @@ id,name,lang,new stars
 156681830,ffuf/ffuf,Go,249
 29778781,slack-go/slack,Go,69
 273132277,moonD4rk/HackBrowserData,Go,570
-315063189,geektutu/high-performance-go,Go,919
+315063189,geektutu/high-performance-go,Go,922
 79585104,matrix-org/dendrite,Go,270
 281694167,Mrs4s/go-cqhttp,Go,223
