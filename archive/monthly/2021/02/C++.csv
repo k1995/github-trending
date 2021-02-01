@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,1274
+1181927,bitcoin/bitcoin,C++,1365
 23357588,protocolbuffers/protobuf,C++,731
-15634981,godotengine/godot,C++,805
+15634981,godotengine/godot,C++,806
 22067521,ocornut/imgui,C++,1282
 13862381,DrKLO/Telegram,C++,588
 19374812,telegramdesktop/tdesktop,C++,833
-31522041,vnpy/vnpy,C++,402
+31522041,vnpy/vnpy,C++,411
 116167731,yuzu-emu/yuzu,C++,527
 27500243,google/libphonenumber,C++,128
 29397594,ssloy/tinyrenderer,C++,205
@@ -13,8 +13,8 @@ id,name,lang,new stars
 160083795,SerenityOS/serenity,C++,716
 4454793,musescore/MuseScore,C++,215
 19316619,monero-project/monero,C++,410
-75413130,intel-isl/Open3D,C++,169
-88327406,xmrig/xmrig,C++,184
+75413130,intel-isl/Open3D,C++,171
+88327406,xmrig/xmrig,C++,187
 89067146,ethereum-mining/ethminer,C++,270
 235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,629
 115883761,tdlib/td,C++,143

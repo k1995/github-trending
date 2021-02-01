@@ -1,8 +1,8 @@
 id,name,lang,new stars
 1614410,FFmpeg/FFmpeg,C,139
-569041,curl/curl,C,76
-14812739,libuv/libuv,C,54
-7634677,openssl/openssl,C,55
+569041,curl/curl,C,77
+14812739,libuv/libuv,C,58
+7634677,openssl/openssl,C,56
 102578345,coolsnowwolf/lede,C,219
 80286288,arendst/Tasmota,C,212
 4869294,radareorg/radare2,C,55
@@ -13,9 +13,9 @@ id,name,lang,new stars
 65899476,espressif/esp-idf,C,50
 18106269,lz4/lz4,C,154
 33339660,jerryscript-project/jerryscript,C,943
-60667730,lvgl/lvgl,C,69
+60667730,lvgl/lvgl,C,70
 5870069,edenhill/librdkafka,C,38
-211381291,ExistentialAudio/BlackHole,C,73
+211381291,ExistentialAudio/BlackHole,C,75
 15257213,ldcsaa/HP-Socket,C,29
 148706208,solokeys/solo,C,25
 6860771,hathach/tinyusb,C,579
@@ -23,4 +23,4 @@ id,name,lang,new stars
 189044704,AFLplusplus/AFLplusplus,C,19
 327491895,peng-zhihui/HoloCubic,C,481
 331380723,raspberrypi/pico-sdk,C,203
-332249797,DinoZ1729/Galaxy,C,69
+332249797,DinoZ1729/Galaxy,C,70
