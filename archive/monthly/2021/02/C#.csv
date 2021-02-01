@@ -1,6 +1,8 @@
 id,name,lang,new stars
+70104825,dotnet-architecture/eShopOnContainers,C#,304
 1613345,StackExchange/Dapper,C#,128
 161012019,jellyfin/jellyfin,C#,586
+9864166,App-vNext/Polly,C#,211
 88064357,QL-Win/QuickLook,C#,315
 198071756,huiyadanli/RevokeMsgPatcher,C#,627
 193681686,NetchX/Netch,C#,361
@@ -9,7 +11,6 @@ id,name,lang,new stars
 69673033,ardalis/CleanArchitecture,C#,601
 104670977,dvf/blockchain,C#,79
 27251463,QuantConnect/Lean,C#,172
-50605426,microsoft/MixedRealityToolkit-Unity,C#,59
 14999623,jstedfast/MailKit,C#,135
 182095352,nilaoda/N_m3u8DL-CLI,C#,346
 19216825,xamarin/xamarin-forms-samples,C#,69
@@ -23,4 +24,3 @@ id,name,lang,new stars
 77180761,xamarin/XamarinCommunityToolkit,C#,105
 272887007,ModernFlyouts-Community/ModernFlyouts,C#,227
 252826419,Unity-Technologies/Graphics,C#,66
-324200259,RumbleMike/ValorantStreamOverlay,C#,298

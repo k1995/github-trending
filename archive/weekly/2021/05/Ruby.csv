@@ -1,6 +1,5 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,59
-308770,heartcombo/devise,Ruby,24
 481872,hashicorp/vagrant,Ruby,54
 73648678,forem/forem,Ruby,58
 2203645,CocoaPods/CocoaPods,Ruby,12
@@ -10,17 +9,18 @@ id,name,lang,new stars
 1918677,fluent/fluentd,Ruby,19
 361310,teamcapybara/capybara,Ruby,8
 96395,faker-ruby/faker,Ruby,15
+15435,Shopify/liquid,Ruby,18
+1333863,kaminari/kaminari,Ruby,5
 21829,thoughtbot/factory_bot,Ruby,11
 108278,chef/chef,Ruby,15
 4994614,wpscanteam/wpscan,Ruby,43
 355893,github/markup,Ruby,7
 75785147,rails/webpacker,Ruby,9
-33739333,thoughtbot/administrate,Ruby,14
 5219382,rack/rack-attack,Ruby,16
 30337170,rmosolgo/graphql-ruby,Ruby,10
-6768710,redmine/redmine,Ruby,9
 30985840,solidusio/solidus,Ruby,14
 46698467,ankane/strong_migrations,Ruby,23
 103766152,github/explore,Ruby,16
+93163073,dependabot/dependabot-core,Ruby,17
 29151578,rswag/rswag,Ruby,6
-70830890,bigbluebutton/greenlight,Ruby,4
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,12
