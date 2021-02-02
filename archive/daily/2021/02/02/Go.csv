@@ -9,10 +9,10 @@ id,name,lang,new stars
 62091339,kubernetes/kops,Go,4
 107286889,schollz/croc,Go,41
 93444615,hashicorp/terraform-provider-aws,Go,4
-187403699,FiloSottile/age,Go,48
+187403699,FiloSottile/age,Go,47
 14128006,hashicorp/raft,Go,4
 63625434,securego/gosec,Go,3
-67793333,cortexproject/cortex,Go,10
+67793333,cortexproject/cortex,Go,11
 61153677,m3db/m3,Go,4
 271250363,k0sproject/k0s,Go,8
 67828134,cri-o/cri-o,Go,2
