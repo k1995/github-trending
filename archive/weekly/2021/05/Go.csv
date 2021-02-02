@@ -1,11 +1,11 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,232
+20580498,kubernetes/kubernetes,Go,228
 138547797,FiloSottile/mkcert,Go,239
-133251103,wagoodman/dive,Go,229
-13124802,influxdata/influxdb,Go,60
+133251103,wagoodman/dive,Go,230
+13124802,influxdata/influxdb,Go,58
 31288958,hashicorp/vault,Go,74
 61137153,evanw/esbuild,Go,500
-19994257,go-delve/delve,Go,160
+19994257,go-delve/delve,Go,159
 107286889,schollz/croc,Go,151
 234231371,gofiber/fiber,Go,147
 54378638,github/gh-ost,Go,32
@@ -14,13 +14,13 @@ id,name,lang,new stars
 162920291,inlets/inlets,Go,239
 148545807,kubernetes-sigs/kind,Go,77
 68964263,prometheus-operator/prometheus-operator,Go,52
-27483832,gogo/protobuf,Go,45
-80134675,containers/buildah,Go,56
+27483832,gogo/protobuf,Go,46
+80134675,containers/buildah,Go,55
 156681830,ffuf/ffuf,Go,107
 150713223,kubeedge/kubeedge,Go,48
 93446042,terraform-providers/terraform-provider-azurerm,Go,5
-273132277,moonD4rk/HackBrowserData,Go,335
-276822250,oam-dev/kubevela,Go,83
-310247011,cdk-team/CDK,Go,482
+273132277,moonD4rk/HackBrowserData,Go,353
+276822250,oam-dev/kubevela,Go,81
+310247011,cdk-team/CDK,Go,511
 96004375,aws/aws-sdk-go-v2,Go,21
-329009957,onjava8/maotai,Go,41
+329009957,onjava8/maotai,Go,45
