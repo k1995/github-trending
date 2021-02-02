@@ -7,7 +7,7 @@ id,name,lang,new stars
 23680678,tymondesigns/jwt-auth,PHP,6
 2884111,magento/magento2,PHP,3
 9779017,fideloper/TrustedProxy,PHP,3
-7550057,doctrine/cache,PHP,4
+7550057,doctrine/cache,PHP,2
 1398660,symfony/routing,PHP,1
 1398656,symfony/process,PHP,3
 10238429,tennc/webshell,PHP,8
@@ -23,4 +23,4 @@ id,name,lang,new stars
 174021137,inertiajs/pingcrm,PHP,2
 223535535,Ignitetch/AdvPhishing,PHP,3
 111308189,moode-player/moode,PHP,2
-325151614,tonysm/turbo-laravel,PHP,15
+325151614,tonysm/turbo-laravel,PHP,7
