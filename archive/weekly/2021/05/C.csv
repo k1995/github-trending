@@ -1,15 +1,15 @@
 id,name,lang,new stars
 1614410,FFmpeg/FFmpeg,C,132
-569041,curl/curl,C,81
+569041,curl/curl,C,83
 14812739,libuv/libuv,C,55
-102578345,coolsnowwolf/lede,C,177
+102578345,coolsnowwolf/lede,C,174
 15337142,micropython/micropython,C,107
 34921116,iovisor/bcc,C,46
 27737393,qmk/qmk_firmware,C,73
 70127218,espressif/arduino-esp32,C,55
 65899476,espressif/esp-idf,C,46
 18106269,lz4/lz4,C,164
-33339660,jerryscript-project/jerryscript,C,390
+33339660,jerryscript-project/jerryscript,C,367
 60667730,lvgl/lvgl,C,71
 16734696,meetecho/janus-gateway,C,41
 5870069,edenhill/librdkafka,C,39
@@ -18,9 +18,9 @@ id,name,lang,new stars
 7037996,VirusTotal/yara,C,21
 15257213,ldcsaa/HP-Socket,C,26
 212152900,wasm3/wasm3,C,49
-6860771,hathach/tinyusb,C,295
-15333809,open62541/open62541,C,10
+6860771,hathach/tinyusb,C,249
+15333809,open62541/open62541,C,11
 189044704,AFLplusplus/AFLplusplus,C,15
-327491895,peng-zhihui/HoloCubic,C,305
-331380723,raspberrypi/pico-sdk,C,86
-332249797,DinoZ1729/Galaxy,C,67
+327491895,peng-zhihui/HoloCubic,C,296
+331380723,raspberrypi/pico-sdk,C,84
+332249797,DinoZ1729/Galaxy,C,56
