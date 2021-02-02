@@ -1,6 +1,6 @@
 id,name,lang,new stars
-156018,redis/redis,C,17
-5101141,stedolan/jq,C,14
+156018,redis/redis,C,16
+5101141,stedolan/jq,C,16
 11715753,robertdavidgraham/masscan,C,6
 7634677,openssl/openssl,C,14
 4869294,radareorg/radare2,C,8
@@ -10,7 +10,7 @@ id,name,lang,new stars
 26181287,rswier/c4,C,11
 63477515,TheAlgorithms/C,C,5
 13310527,jemalloc/jemalloc,C,4
-2328181,freebsd/freebsd-src,C,3
+2328181,freebsd/freebsd-src,C,2
 16734696,meetecho/janus-gateway,C,10
 16907474,kbengine/kbengine,C,3
 123135691,tanersener/mobile-ffmpeg,C,1
@@ -19,8 +19,8 @@ id,name,lang,new stars
 213916896,blender/blender,C,10
 30566161,datatheorem/TrustKit,C,3
 132245510,master131/BlockTheSpot,C,5
-334506851,blasty/CVE-2021-3156,C,92
-334318140,stong/CVE-2021-3156,C,27
-318691203,Mr-Un1k0d3r/RedTeamCCode,C,30
+334506851,blasty/CVE-2021-3156,C,97
+334318140,stong/CVE-2021-3156,C,28
+318691203,Mr-Un1k0d3r/RedTeamCCode,C,28
 334390675,qrdl/fizzbuzz,C,8
 331099253,fgsfdsfgs/max_vita,C,2
