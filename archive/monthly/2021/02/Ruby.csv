@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,279
+8514,rails/rails,Ruby,285
 65252,jekyll/jekyll,Ruby,283
-7569578,discourse/discourse,Ruby,298
+7569578,discourse/discourse,Ruby,300
 8681349,huginn/huginn,Ruby,332
-52281283,tootsuite/mastodon,Ruby,1097
-2293158,rapid7/metasploit-framework,Ruby,413
+52281283,tootsuite/mastodon,Ruby,1098
+2293158,rapid7/metasploit-framework,Ruby,414
 308770,heartcombo/devise,Ruby,105
-3623050,Homebrew/homebrew-cask,Ruby,171
-73648678,forem/forem,Ruby,246
+3623050,Homebrew/homebrew-cask,Ruby,170
+73648678,forem/forem,Ruby,250
 911765,diaspora/diaspora,Ruby,64
 4095287,rubocop-hq/rubocop,Ruby,64
 15435,Shopify/liquid,Ruby,108
@@ -19,8 +19,8 @@ id,name,lang,new stars
 21333814,lynndylanhurley/devise_token_auth,Ruby,20
 614070,rubygems/rubygems,Ruby,108
 46698467,ankane/strong_migrations,Ruby,61
-11426474,github/choosealicense.com,Ruby,56
-154027884,samber/awesome-prometheus-alerts,Ruby,208
+11426474,github/choosealicense.com,Ruby,57
+154027884,samber/awesome-prometheus-alerts,Ruby,213
 103766152,github/explore,Ruby,76
 93163073,dependabot/dependabot-core,Ruby,66
 121513081,tradingview/charting-library-examples,Ruby,23

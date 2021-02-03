@@ -1,5 +1,5 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,43
+20904437,gin-gonic/gin,Go,30
 6838921,prometheus/prometheus,Go,27
 74175805,istio/istio,Go,20
 14125254,hashicorp/consul,Go,10
@@ -10,17 +10,17 @@ id,name,lang,new stars
 107286889,schollz/croc,Go,36
 93444615,hashicorp/terraform-provider-aws,Go,5
 187403699,FiloSottile/age,Go,21
-14128006,hashicorp/raft,Go,15
+14128006,hashicorp/raft,Go,19
 63625434,securego/gosec,Go,4
 67793333,cortexproject/cortex,Go,9
 61153677,m3db/m3,Go,3
-271250363,k0sproject/k0s,Go,8
-67828134,cri-o/cri-o,Go,1
+271250363,k0sproject/k0s,Go,9
+67828134,cri-o/cri-o,Go,2
 7823926,prometheus/client_golang,Go,6
 242329748,Jrohy/trojan,Go,7
 111455867,smartcontractkit/chainlink,Go,2
 193681111,filecoin-project/lotus,Go,5
-258469100,fluxcd/flux2,Go,6
 332361864,achannarasappa/ticker,Go,358
+258469100,fluxcd/flux2,Go,7
 329834563,fabpot/local-php-security-checker,Go,8
 332576508,nikoksr/notify,Go,40

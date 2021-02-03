@@ -1,6 +1,6 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,231
-138547797,FiloSottile/mkcert,Go,202
+20580498,kubernetes/kubernetes,Go,226
+138547797,FiloSottile/mkcert,Go,191
 133251103,wagoodman/dive,Go,235
 31288958,hashicorp/vault,Go,68
 61137153,evanw/esbuild,Go,474
@@ -8,18 +8,18 @@ id,name,lang,new stars
 107286889,schollz/croc,Go,182
 234231371,gofiber/fiber,Go,149
 163883279,nektos/act,Go,175
-54378638,github/gh-ost,Go,34
+54378638,github/gh-ost,Go,35
 153099672,inancgumus/learngo,Go,201
 36653430,hashicorp/nomad,Go,233
 162920291,inlets/inlets,Go,234
-100982449,argoproj/argo,Go,114
+100982449,argoproj/argo,Go,110
 297165998,muesli/duf,Go,109
 68964263,prometheus-operator/prometheus-operator,Go,52
-187403699,FiloSottile/age,Go,127
+187403699,FiloSottile/age,Go,130
 156681830,ffuf/ffuf,Go,80
 273132277,moonD4rk/HackBrowserData,Go,326
 276822250,oam-dev/kubevela,Go,80
-310247011,cdk-team/CDK,Go,259
+310247011,cdk-team/CDK,Go,245
 193681111,filecoin-project/lotus,Go,23
 125253663,google/go-containerregistry,Go,32
 96004375,aws/aws-sdk-go-v2,Go,23
