@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1864363,composer/composer,PHP,48
-458058,symfony/symfony,PHP,37
+1864363,composer/composer,PHP,47
+458058,symfony/symfony,PHP,36
 7548986,laravel/framework,PHP,68
 1420053,guzzle/guzzle,PHP,40
 448045,sebastianbergmann/phpunit,PHP,34
@@ -9,12 +9,12 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,21
 2179920,woocommerce/woocommerce,PHP,20
 41589337,BookStackApp/BookStack,PHP,61
-16238673,kanboard/kanboard,PHP,21
+16238673,kanboard/kanboard,PHP,20
 6763587,PrestaShop/PrestaShop,PHP,22
 12204147,mautic/mautic,PHP,22
-95011974,akaunting/akaunting,PHP,27
+95011974,akaunting/akaunting,PHP,29
 41463886,codeigniter4/CodeIgniter4,PHP,26
-80249302,craftcms/cms,PHP,201
+80249302,craftcms/cms,PHP,200
 38200433,jeroennoten/Laravel-AdminLTE,PHP,24
 29501260,api-platform/core,PHP,6
 7798948,FriendsOfPHP/security-advisories,PHP,21
@@ -22,5 +22,5 @@ id,name,lang,new stars
 286645686,yuantuo666/baiduwp-php,PHP,52
 39698170,pi-hole/AdminLTE,PHP,15
 330622402,mochat-cloud/mochat,PHP,107
-215310009,Grafikart/Grafikart.fr,PHP,44
+215310009,Grafikart/Grafikart.fr,PHP,41
 325151614,tonysm/turbo-laravel,PHP,73
