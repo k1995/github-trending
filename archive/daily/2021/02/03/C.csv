@@ -4,15 +4,15 @@ id,name,lang,new stars
 10446890,bilibili/ijkplayer,C,9
 18666758,pjreddie/darknet,C,14
 11715753,robertdavidgraham/masscan,C,5
-78281075,SpacehuhnTech/esp8266_deauther,C,9
+78281075,SpacehuhnTech/esp8266_deauther,C,12
 36749153,microsoft/react-native-code-push,C,4
 63477515,TheAlgorithms/C,C,15
 179354282,acidanthera/OpenCorePkg,C,14
 60667730,lvgl/lvgl,C,7
-5383731,qemu/qemu,C,6
+5383731,qemu/qemu,C,5
 7370241,RIOT-OS/RIOT,C,4
 8046269,warmcat/libwebsockets,C,0
-123135691,tanersener/mobile-ffmpeg,C,6
+123135691,tanersener/mobile-ffmpeg,C,8
 59676171,KevinOConnor/klipper,C,2
 77920383,nesbox/TIC-80,C,6
 34807561,nanopb/nanopb,C,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 334506851,blasty/CVE-2021-3156,C,119
 71811858,ucb-bar/chipyard,C,1
 53432472,Azure/sonic-buildimage,C,0
-334888441,taviso/nntpit,C,57
+334888441,taviso/nntpit,C,16
 330186707,alt-romes/programmer-calculator,C,46
-334390675,qrdl/fizzbuzz,C,13
+334390675,qrdl/fizzbuzz,C,12
