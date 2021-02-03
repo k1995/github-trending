@@ -1,11 +1,11 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,12
 2293158,rapid7/metasploit-framework,Ruby,11
-308770,heartcombo/devise,Ruby,3
-2203645,CocoaPods/CocoaPods,Ruby,3
+308770,heartcombo/devise,Ruby,2
+2203645,CocoaPods/CocoaPods,Ruby,4
 4095287,rubocop-hq/rubocop,Ruby,1
 1157388,tmuxinator/tmuxinator,Ruby,4
-96395,faker-ruby/faker,Ruby,1
+96395,faker-ruby/faker,Ruby,2
 8393,thoughtbot/paperclip,Ruby,0
 611921,activeadmin/activeadmin,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 14238949,elastic/elasticsearch-rails,Ruby,0
 143489,DatabaseCleaner/database_cleaner,Ruby,0
 154027884,samber/awesome-prometheus-alerts,Ruby,19
-103766152,github/explore,Ruby,5
-334518976,darkbitio/k8s-mirror,Ruby,16
+103766152,github/explore,Ruby,3
+334518976,darkbitio/k8s-mirror,Ruby,13
 66497320,DataDog/dd-trace-rb,Ruby,0
