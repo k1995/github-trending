@@ -2,13 +2,13 @@ id,name,lang,new stars
 63476337,TheAlgorithms/Python,Python,310
 132750724,danistefanovic/build-your-own-x,,637
 126577260,trekhleb/javascript-algorithms,JavaScript,296
-61412022,ianstormtaylor/slate,TypeScript,103
+61412022,ianstormtaylor/slate,TypeScript,135
 2055965,swagger-api/swagger-ui,JavaScript,11
-21467110,explosion/spaCy,Python,344
+21467110,explosion/spaCy,Python,383
 60537144,microsoft/fluentui,TypeScript,156
 63477612,TheAlgorithms/C-Plus-Plus,C++,333
 277168957,eugeneyan/applied-ml,,372
-172227885,tiangolo/full-stack-fastapi-postgresql,Python,112
+172227885,tiangolo/full-stack-fastapi-postgresql,Python,121
 213460285,jasontaylordev/CleanArchitecture,C#,161
 240091489,twostraws/ControlRoom,Swift,92
 332361864,achannarasappa/ticker,Go,1306
@@ -21,6 +21,6 @@ id,name,lang,new stars
 334506851,blasty/CVE-2021-3156,C,117
 329045912,NVlabs/stylegan2-ada-pytorch,Python,87
 290568155,r4j0x00/exploits,JavaScript,58
-334749893,codeedu/imersao-fullstack-fullcycle,Go,83
+334749893,codeedu/imersao-fullstack-fullcycle,Go,106
 334971245,allanf181/FuiVazado,PHP,49
 334874369,globalaihub/python-education-v2,Jupyter Notebook,42

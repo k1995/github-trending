@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,27
+3482588,danielmiessler/SecLists,PHP,24
 458058,symfony/symfony,PHP,11
 2253830,PHPMailer/PHPMailer,PHP,7
 1631570,nikic/PHP-Parser,PHP,11
 3431193,yiisoft/yii2,PHP,2
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,6
-93580,swiftmailer/swiftmailer,PHP,5
+93580,swiftmailer/swiftmailer,PHP,4
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
-6660366,dompdf/dompdf,PHP,4
-12166778,googleapis/google-api-php-client,PHP,2
-4242230,PHPOffice/PHPWord,PHP,6
+6660366,dompdf/dompdf,PHP,5
+12166778,googleapis/google-api-php-client,PHP,4
+4242230,PHPOffice/PHPWord,PHP,5
 9131292,jenssegers/laravel-mongodb,PHP,2
 9826184,elastic/elasticsearch-php,PHP,4
 39149031,webonyx/graphql-php,PHP,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 28060246,YetiForceCompany/YetiForceCRM,PHP,1
 111562942,statamic/cms,PHP,1
 1318892,silverstripe/silverstripe-framework,PHP,1
-334971245,allanf181/FuiVazado,PHP,53
+334971245,allanf181/FuiVazado,PHP,54
