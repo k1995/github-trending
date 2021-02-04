@@ -2,13 +2,13 @@ id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,228
 6838921,prometheus/prometheus,Go,145
 11225014,etcd-io/etcd,Go,119
-42408804,traefik/traefik,Go,142
+42408804,traefik/traefik,Go,137
 74175805,istio/istio,Go,91
 133251103,wagoodman/dive,Go,242
 13124802,influxdata/influxdb,Go,55
 12574344,spf13/cobra,Go,115
 19994257,go-delve/delve,Go,164
-107286889,schollz/croc,Go,200
+107286889,schollz/croc,Go,201
 234231371,gofiber/fiber,Go,145
 153099672,inancgumus/learngo,Go,209
 162920291,inlets/inlets,Go,146
@@ -20,7 +20,7 @@ id,name,lang,new stars
 134539560,weaveworks/eksctl,Go,25
 273132277,moonD4rk/HackBrowserData,Go,280
 242329748,Jrohy/trojan,Go,44
-276822250,oam-dev/kubevela,Go,66
+276822250,oam-dev/kubevela,Go,65
 193681111,filecoin-project/lotus,Go,28
 125253663,google/go-containerregistry,Go,39
 329834563,fabpot/local-php-security-checker,Go,88
