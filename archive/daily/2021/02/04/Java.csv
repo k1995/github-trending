@@ -1,21 +1,21 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,71
-507775,elastic/elasticsearch,Java,25
-206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Java,120
-6766558,Netflix/Hystrix,Java,6
+121395510,CyC2018/CS-Notes,Java,70
+507775,elastic/elasticsearch,Java,21
+206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Java,109
+6766558,Netflix/Hystrix,Java,4
 32538871,google/gson,Java,9
 20773773,bazelbuild/bazel,Java,6
-7010724,dianping/cat,Java,8
+7010724,dianping/cat,Java,13
 33218414,react-native-camera/react-native-camera,Java,4
-27729926,grpc/grpc-java,Java,4
-96704265,MindorksOpenSource/android-interview-questions,Java,17
+27729926,grpc/grpc-java,Java,7
+96704265,MindorksOpenSource/android-interview-questions,Java,21
 206424,apache/cassandra,Java,1
 81226206,intuit/karate,Java,4
 50205233,debezium/debezium,Java,7
-69400326,confluentinc/ksql,Java,3
+69400326,confluentinc/ksql,Java,2
 206317,apache/camel,Java,2
-206444,apache/hive,Java,2
-190964861,gyoogle/tech-interview-for-developer,Java,7
+206444,apache/hive,Java,1
+190964861,gyoogle/tech-interview-for-developer,Java,8
 87859908,micrometer-metrics/micrometer,Java,2
 212488700,pytorch/serve,Java,3
 226138659,Jzvd/JZVideo,Java,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 218019748,ElderDrivers/EdXposedManager,Java,5
 2928948,Azure/azure-sdk-for-java,Java,2
 58730569,hzi-braunschweig/SORMAS-Project,Java,4
-320137971,FanZeros/java,Java,19
+320137971,FanZeros/java,Java,12

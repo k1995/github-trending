@@ -4,12 +4,12 @@ id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,12
 308770,heartcombo/devise,Ruby,5
 538746,ruby/ruby,Ruby,5
-4095287,rubocop-hq/rubocop,Ruby,2
+4095287,rubocop-hq/rubocop,Ruby,4
 106995,sinatra/sinatra,Ruby,3
 3314,spree/spree,Ruby,0
 52855516,Homebrew/homebrew-core,Ruby,8
 211588,paper-trail-gem/paper_trail,Ruby,1
-2889230,rails-api/active_model_serializers,Ruby,1
+2889230,rails-api/active_model_serializers,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,2
 447184,rspec/rspec-rails,Ruby,1
 96071,rack/rack,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 14238949,elastic/elasticsearch-rails,Ruby,1
 5144181,jnunemaker/flipper,Ruby,4
 56942570,Homebrew/linuxbrew-core,Ruby,2
-334416586,rails/kredis,Ruby,68
+334416586,rails/kredis,Ruby,82
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 305284353,griddb/homebrew-griddb-c-client,Ruby,0
