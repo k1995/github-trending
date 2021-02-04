@@ -3,8 +3,8 @@ id,name,lang,new stars
 458058,symfony/symfony,PHP,41
 1420053,guzzle/guzzle,PHP,38
 1376664,Seldaek/monolog,PHP,48
-448045,sebastianbergmann/phpunit,PHP,33
-2253830,PHPMailer/PHPMailer,PHP,34
+448045,sebastianbergmann/phpunit,PHP,34
+2253830,PHPMailer/PHPMailer,PHP,35
 12615154,barryvdh/laravel-debugbar,PHP,48
 13899674,thephpleague/flysystem,PHP,26
 2884111,magento/magento2,PHP,29
@@ -13,7 +13,7 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,22
 41589337,BookStackApp/BookStack,PHP,56
 6763587,PrestaShop/PrestaShop,PHP,24
-12204147,mautic/mautic,PHP,24
+12204147,mautic/mautic,PHP,25
 2797951,doctrine/DoctrineBundle,PHP,24
 41463886,codeigniter4/CodeIgniter4,PHP,24
 80249302,craftcms/cms,PHP,197
@@ -22,5 +22,5 @@ id,name,lang,new stars
 679584,openemr/openemr,PHP,14
 286645686,yuantuo666/baiduwp-php,PHP,52
 330622402,mochat-cloud/mochat,PHP,108
-215310009,Grafikart/Grafikart.fr,PHP,39
+215310009,Grafikart/Grafikart.fr,PHP,40
 325151614,tonysm/turbo-laravel,PHP,76

@@ -1,11 +1,11 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,104
 63476337,TheAlgorithms/Python,Python,311
-32689863,3b1b/manim,Python,32
+32689863,3b1b/manim,Python,31
 41058054,isocpp/CppCoreGuidelines,Python,18
 15045751,docker/compose,Python,17
 71220757,swisskyrepo/PayloadsAllTheThings,Python,29
-21467110,explosion/spaCy,Python,364
+21467110,explosion/spaCy,Python,360
 123303402,python-poetry/poetry,Python,17
 99846383,horovod/horovod,Python,2
 136202695,mlflow/mlflow,Python,11
@@ -23,4 +23,4 @@ id,name,lang,new stars
 327662446,davidbombal/red-python-scripts,Python,4
 333348807,NPCat/bad-apple-bot,Python,18
 333058593,doino-gretchenliev/revolut-stocks,Python,25
-180816374,koutto/web-brutator,Python,8
+180816374,koutto/web-brutator,Python,7
