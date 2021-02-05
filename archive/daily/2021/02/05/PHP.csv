@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,18
+1863329,laravel/laravel,PHP,26
 1864363,composer/composer,PHP,8
 458058,symfony/symfony,PHP,8
 7548986,laravel/framework,PHP,11
@@ -8,12 +8,12 @@ id,name,lang,new stars
 2889328,WordPress/WordPress,PHP,3
 7769432,vlucas/phpdotenv,PHP,5
 137515,mockery/mockery,PHP,4
-49014795,phpstan/phpstan,PHP,5
+49014795,phpstan/phpstan,PHP,7
 14259390,Maatwebsite/Laravel-Excel,PHP,2
 61490598,PHPOffice/PhpSpreadsheet,PHP,7
 597887,doctrine/orm,PHP,6
 2699935,squizlabs/PHP_CodeSniffer,PHP,3
-677464,doctrine/dbal,PHP,9
+677464,doctrine/dbal,PHP,6
 330275,twigphp/Twig,PHP,6
 4551765,thephpleague/oauth2-server,PHP,2
 9826184,elastic/elasticsearch-php,PHP,3
