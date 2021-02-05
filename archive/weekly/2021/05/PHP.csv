@@ -1,15 +1,15 @@
 id,name,lang,new stars
 1864363,composer/composer,PHP,49
-458058,symfony/symfony,PHP,51
-1420053,guzzle/guzzle,PHP,37
-1376664,Seldaek/monolog,PHP,48
-448045,sebastianbergmann/phpunit,PHP,34
-2889328,WordPress/WordPress,PHP,24
-1631570,nikic/PHP-Parser,PHP,50
+458058,symfony/symfony,PHP,50
+1420053,guzzle/guzzle,PHP,36
+1376664,Seldaek/monolog,PHP,46
+448045,sebastianbergmann/phpunit,PHP,33
+2889328,WordPress/WordPress,PHP,23
+1631570,nikic/PHP-Parser,PHP,47
 12615154,barryvdh/laravel-debugbar,PHP,49
 14259390,Maatwebsite/Laravel-Excel,PHP,29
 2884111,magento/magento2,PHP,21
-597887,doctrine/orm,PHP,27
+597887,doctrine/orm,PHP,29
 677464,doctrine/dbal,PHP,39
 2179920,woocommerce/woocommerce,PHP,19
 41589337,BookStackApp/BookStack,PHP,52
@@ -17,7 +17,7 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,23
 12204147,mautic/mautic,PHP,23
 80249302,craftcms/cms,PHP,95
-38200433,jeroennoten/Laravel-AdminLTE,PHP,20
+38200433,jeroennoten/Laravel-AdminLTE,PHP,21
 139191005,nunomaduro/larastan,PHP,16
 7798948,FriendsOfPHP/security-advisories,PHP,24
 679584,openemr/openemr,PHP,15
