@@ -1,9 +1,9 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,33
-5108051,opencv/opencv,C++,31
-23357588,protocolbuffers/protobuf,C++,27
-39840932,google/googletest,C++,33
-4524181,facebook/folly,C++,17
+45717250,tensorflow/tensorflow,C++,39
+5108051,opencv/opencv,C++,27
+23357588,protocolbuffers/protobuf,C++,25
+39840932,google/googletest,C++,72
+4524181,facebook/folly,C++,15
 1062572,catchorg/Catch2,C++,2
 64991887,microsoft/LightGBM,C++,4
 26038648,gabime/spdlog,C++,16
@@ -11,16 +11,16 @@ id,name,lang,new stars
 114187903,apple/foundationdb,C++,2
 29518121,ShiqiYu/libfacedetection,C++,15
 196813750,Light-City/CPlusPlusThings,C++,93
-51905353,apache/arrow,C++,64
-117948953,Atmosphere-NX/Atmosphere,C++,7
+51905353,apache/arrow,C++,48
+117948953,Atmosphere-NX/Atmosphere,C++,5
 7512484,ArduPilot/ardupilot,C++,4
 26255337,cameron314/concurrentqueue,C++,4
 153866232,TheCherno/Hazel,C++,13
-86337343,skypjack/entt,C++,39
-131236938,an-tao/drogon,C++,6
+86337343,skypjack/entt,C++,41
+131236938,an-tao/drogon,C++,8
 202078170,joeycastillo/The-Open-Book,C++,24
-2345629,zaphoyd/websocketpp,C++,3
-156939672,microsoft/onnxruntime,C++,10
+2345629,zaphoyd/websocketpp,C++,1
+156939672,microsoft/onnxruntime,C++,11
 204009988,google/tcmalloc,C++,3
 131630299,onnx/onnx-tensorrt,C++,2
 305089628,Serial-Studio/Serial-Studio,C++,217

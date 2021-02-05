@@ -1,13 +1,13 @@
 id,name,lang,new stars
-11225014,etcd-io/etcd,Go,516
+11225014,etcd-io/etcd,Go,518
 15452919,ethereum/go-ethereum,Go,475
 138547797,FiloSottile/mkcert,Go,636
 29261473,minio/minio,Go,692
 133251103,wagoodman/dive,Go,629
 61137153,evanw/esbuild,Go,1800
 12080551,tsenart/vegeta,Go,361
-19994257,go-delve/delve,Go,359
-97533102,halfrost/LeetCode-Go,Go,2189
+19994257,go-delve/delve,Go,360
+97533102,halfrost/LeetCode-Go,Go,2184
 31558937,gravitational/teleport,Go,141
 162920291,inlets/inlets,Go,583
 29099181,keybase/client,Go,113
@@ -16,7 +16,7 @@ id,name,lang,new stars
 93444615,hashicorp/terraform-provider-aws,Go,149
 120896210,argoproj/argo-cd,Go,421
 95761244,gogf/gf,Go,258
-140457254,OWASP/Amass,Go,195
+140457254,OWASP/Amass,Go,197
 156681830,ffuf/ffuf,Go,273
 41561105,go-resty/resty,Go,189
 273132277,moonD4rk/HackBrowserData,Go,852
