@@ -4,11 +4,11 @@ id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,769
 15634981,godotengine/godot,C++,807
 22067521,ocornut/imgui,C++,1269
-13862381,DrKLO/Telegram,C++,818
+13862381,DrKLO/Telegram,C++,820
 19374812,telegramdesktop/tdesktop,C++,870
 27500243,google/libphonenumber,C++,130
 63477612,TheAlgorithms/C-Plus-Plus,C++,1278
-29397594,ssloy/tinyrenderer,C++,224
+29397594,ssloy/tinyrenderer,C++,223
 160083795,SerenityOS/serenity,C++,718
 14887195,gzc/CLRS,C++,398
 51905353,apache/arrow,C++,320
@@ -23,4 +23,4 @@ id,name,lang,new stars
 3030065,gnuradio/gnuradio,C++,100
 319991441,FlaxEngine/FlaxEngine,C++,891
 237647258,meshtastic/Meshtastic-device,C++,183
-151064439,AlessandroAU/ExpressLRS,C++,108
+151064439,AlessandroAU/ExpressLRS,C++,106
