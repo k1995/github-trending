@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,71
+8514,rails/rails,Ruby,73
 65252,jekyll/jekyll,Ruby,68
-27442967,fastlane/fastlane,Ruby,60
+27442967,fastlane/fastlane,Ruby,58
 2293158,rapid7/metasploit-framework,Ruby,68
 308770,heartcombo/devise,Ruby,29
 73648678,forem/forem,Ruby,53
-2203645,CocoaPods/CocoaPods,Ruby,16
+2203645,CocoaPods/CocoaPods,Ruby,17
 4095287,rubocop-hq/rubocop,Ruby,25
 3314,spree/spree,Ruby,19
 3195124,mperham/sidekiq,Ruby,12
@@ -18,9 +18,9 @@ id,name,lang,new stars
 4994614,wpscanteam/wpscan,Ruby,23
 75785147,rails/webpacker,Ruby,4
 6899875,opf/openproject,Ruby,17
-1314319,instructure/canvas-lms,Ruby,12
+1314319,instructure/canvas-lms,Ruby,13
 30985840,solidusio/solidus,Ruby,10
 1172597,thoughtbot/shoulda-matchers,Ruby,6
-143489,DatabaseCleaner/database_cleaner,Ruby,9
+143489,DatabaseCleaner/database_cleaner,Ruby,10
 154027884,samber/awesome-prometheus-alerts,Ruby,160
-103766152,github/explore,Ruby,16
+103766152,github/explore,Ruby,15

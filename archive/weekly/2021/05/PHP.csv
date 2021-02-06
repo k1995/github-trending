@@ -3,7 +3,7 @@ id,name,lang,new stars
 458058,symfony/symfony,PHP,51
 1420053,guzzle/guzzle,PHP,35
 1376664,Seldaek/monolog,PHP,43
-448045,sebastianbergmann/phpunit,PHP,33
+448045,sebastianbergmann/phpunit,PHP,34
 2889328,WordPress/WordPress,PHP,25
 1631570,nikic/PHP-Parser,PHP,44
 12615154,barryvdh/laravel-debugbar,PHP,51
@@ -13,10 +13,10 @@ id,name,lang,new stars
 677464,doctrine/dbal,PHP,36
 2179920,woocommerce/woocommerce,PHP,17
 41589337,BookStackApp/BookStack,PHP,45
-6763587,PrestaShop/PrestaShop,PHP,21
+6763587,PrestaShop/PrestaShop,PHP,20
 14346979,snipe/snipe-it,PHP,21
 12204147,mautic/mautic,PHP,23
-80249302,craftcms/cms,PHP,7
+80249302,craftcms/cms,PHP,6
 38200433,jeroennoten/Laravel-AdminLTE,PHP,19
 139191005,nunomaduro/larastan,PHP,17
 7798948,FriendsOfPHP/security-advisories,PHP,22
