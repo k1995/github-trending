@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,44
+2325298,torvalds/linux,C,45
 37912398,nginx/nginx,C,10
 5254557,cloudwu/skynet,C,4
 78281075,SpacehuhnTech/esp8266_deauther,C,5
-901662,libgit2/libgit2,C,1
-5414488,cesanta/mongoose,C,7
-63477515,TheAlgorithms/C,C,186
-54280778,DaveGamble/cJSON,C,5
+901662,libgit2/libgit2,C,2
+5414488,cesanta/mongoose,C,5
+63477515,TheAlgorithms/C,C,187
+54280778,DaveGamble/cJSON,C,4
 16734696,meetecho/janus-gateway,C,7
 6376337,pocoproject/poco,C,6
 44781140,greenplum-db/gpdb,C,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 1377037,gluster/glusterfs,C,3
 6331631,axboe/fio,C,2
 29933948,fluent/fluent-bit,C,4
-128791889,haproxy/haproxy,C,5
+128791889,haproxy/haproxy,C,4
 76599439,FRRouting/frr,C,1
 122993186,remzi-arpacidusseau/ostep-code,C,4
 154525111,signalwire/freeswitch,C,1
-50272879,pjsip/pjproject,C,2
+50272879,pjsip/pjproject,C,1
 149233191,binbyu/Reader,C,4
-330684922,NXPmicro/mcux-sdk,C,7
+330684922,NXPmicro/mcux-sdk,C,8
