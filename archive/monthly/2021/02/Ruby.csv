@@ -1,10 +1,10 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,284
-65252,jekyll/jekyll,Ruby,293
+65252,jekyll/jekyll,Ruby,294
 7569578,discourse/discourse,Ruby,305
-27442967,fastlane/fastlane,Ruby,359
+27442967,fastlane/fastlane,Ruby,373
 52281283,tootsuite/mastodon,Ruby,1089
-481872,hashicorp/vagrant,Ruby,202
+481872,hashicorp/vagrant,Ruby,203
 308770,heartcombo/devise,Ruby,112
 3623050,Homebrew/homebrew-cask,Ruby,180
 911765,diaspora/diaspora,Ruby,63
@@ -20,7 +20,7 @@ id,name,lang,new stars
 244452551,alexeygrigorev/data-science-interviews,Ruby,98
 21333814,lynndylanhurley/devise_token_auth,Ruby,22
 46698467,ankane/strong_migrations,Ruby,71
-11426474,github/choosealicense.com,Ruby,55
+11426474,github/choosealicense.com,Ruby,54
 103766152,github/explore,Ruby,76
 93163073,dependabot/dependabot-core,Ruby,73
 3947396,getsentry/sentry-ruby,Ruby,8
