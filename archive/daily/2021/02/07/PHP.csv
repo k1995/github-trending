@@ -3,7 +3,7 @@ id,name,lang,new stars
 458058,symfony/symfony,PHP,7
 7548986,laravel/framework,PHP,8
 2253830,PHPMailer/PHPMailer,PHP,9
-1305114,roots/sage,PHP,1
+1305114,roots/sage,PHP,2
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,4
 49014795,phpstan/phpstan,PHP,7
 14259390,Maatwebsite/Laravel-Excel,PHP,5
@@ -15,8 +15,8 @@ id,name,lang,new stars
 9131292,jenssegers/laravel-mongodb,PHP,2
 9826184,elastic/elasticsearch-php,PHP,2
 31425145,RaspAP/raspap-webgui,PHP,2
-13914116,librenms/librenms,PHP,2
-16455664,tastyigniter/TastyIgniter,PHP,79
+13914116,librenms/librenms,PHP,3
+16455664,tastyigniter/TastyIgniter,PHP,82
 131995661,shopware/platform,PHP,4
 111562942,statamic/cms,PHP,1
 174021137,inertiajs/pingcrm,PHP,3
