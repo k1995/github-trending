@@ -1,11 +1,11 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,291
-44838949,apple/swift,C++,100
+44838949,apple/swift,C++,101
 11171548,nlohmann/json,C++,106
 39840932,google/googletest,C++,308
 4524181,facebook/folly,C++,74
 13862381,DrKLO/Telegram,C++,386
-19953044,google/flatbuffers,C++,54
+19953044,google/flatbuffers,C++,56
 63477612,TheAlgorithms/C-Plus-Plus,C++,1163
 26038648,gabime/spdlog,C++,76
 114187903,apple/foundationdb,C++,17
@@ -15,7 +15,7 @@ id,name,lang,new stars
 51905353,apache/arrow,C++,149
 12756992,opencv/opencv_contrib,C++,104
 153866232,TheCherno/Hazel,C++,57
-86337343,skypjack/entt,C++,123
+86337343,skypjack/entt,C++,125
 193305104,barry-ran/QtScrcpy,C++,70
 2724167,ripple/rippled,C++,28
 14981376,dogecoin/dogecoin,C++,836
