@@ -1,13 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,291
-65252,jekyll/jekyll,Ruby,297
-7569578,discourse/discourse,Ruby,311
-27442967,fastlane/fastlane,Ruby,451
-52281283,tootsuite/mastodon,Ruby,1093
+8514,rails/rails,Ruby,290
+65252,jekyll/jekyll,Ruby,294
+7569578,discourse/discourse,Ruby,309
+27442967,fastlane/fastlane,Ruby,467
+53238813,Homebrew/brew,Ruby,1213
+52281283,tootsuite/mastodon,Ruby,1087
 481872,hashicorp/vagrant,Ruby,203
 308770,heartcombo/devise,Ruby,114
 3623050,Homebrew/homebrew-cask,Ruby,180
-911765,diaspora/diaspora,Ruby,62
+911765,diaspora/diaspora,Ruby,61
 1090311,elastic/logstash,Ruby,88
 4095287,rubocop-hq/rubocop,Ruby,74
 15435,Shopify/liquid,Ruby,103
@@ -15,12 +16,11 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,35
 4994614,wpscanteam/wpscan,Ruby,115
 75785147,rails/webpacker,Ruby,53
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,182
 30337170,rmosolgo/graphql-ruby,Ruby,38
+6899875,opf/openproject,Ruby,111
 244452551,alexeygrigorev/data-science-interviews,Ruby,98
-21333814,lynndylanhurley/devise_token_auth,Ruby,22
-46698467,ankane/strong_migrations,Ruby,75
+46698467,ankane/strong_migrations,Ruby,72
 11426474,github/choosealicense.com,Ruby,54
-103766152,github/explore,Ruby,77
+103766152,github/explore,Ruby,76
 93163073,dependabot/dependabot-core,Ruby,72
 3947396,getsentry/sentry-ruby,Ruby,8
