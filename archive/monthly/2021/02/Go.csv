@@ -1,21 +1,21 @@
 id,name,lang,new stars
 11225014,etcd-io/etcd,Go,518
-15452919,ethereum/go-ethereum,Go,477
-29261473,minio/minio,Go,690
+15452919,ethereum/go-ethereum,Go,478
+29261473,minio/minio,Go,692
 133251103,wagoodman/dive,Go,602
 61137153,evanw/esbuild,Go,1886
 12080551,tsenart/vegeta,Go,363
-19994257,go-delve/delve,Go,368
+19994257,go-delve/delve,Go,370
 97533102,halfrost/LeetCode-Go,Go,1990
 62921553,rook/rook,Go,145
 162920291,inlets/inlets,Go,609
 29099181,keybase/client,Go,109
 93444615,hashicorp/terraform-provider-aws,Go,152
 187403699,FiloSottile/age,Go,277
-120896210,argoproj/argo-cd,Go,428
-53174289,gruntwork-io/terratest,Go,265
+120896210,argoproj/argo-cd,Go,429
+53174289,gruntwork-io/terratest,Go,266
 140457254,OWASP/Amass,Go,199
-87990209,kubernetes/autoscaler,Go,107
+87990209,kubernetes/autoscaler,Go,108
 19799491,tendermint/tendermint,Go,85
 156681830,ffuf/ffuf,Go,280
 41561105,go-resty/resty,Go,192

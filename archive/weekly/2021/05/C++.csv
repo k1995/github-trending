@@ -1,17 +1,17 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,290
 44838949,apple/swift,C++,95
-11171548,nlohmann/json,C++,107
-39840932,google/googletest,C++,328
+11171548,nlohmann/json,C++,111
+39840932,google/googletest,C++,340
 4524181,facebook/folly,C++,71
 13862381,DrKLO/Telegram,C++,386
-19953044,google/flatbuffers,C++,52
-63477612,TheAlgorithms/C-Plus-Plus,C++,1170
+19953044,google/flatbuffers,C++,53
+63477612,TheAlgorithms/C-Plus-Plus,C++,1171
 26038648,gabime/spdlog,C++,76
 114187903,apple/foundationdb,C++,17
 196813750,Light-City/CPlusPlusThings,C++,313
 52729242,keepassxreboot/keepassxc,C++,87
-9746477,sonic-pi-net/sonic-pi,C++,84
+9746477,sonic-pi-net/sonic-pi,C++,87
 51905353,apache/arrow,C++,149
 12756992,opencv/opencv_contrib,C++,104
 153866232,TheCherno/Hazel,C++,57
@@ -23,4 +23,4 @@ id,name,lang,new stars
 147106288,OneLoneCoder/olcPixelGameEngine,C++,26
 49978193,valhalla/valhalla,C++,16
 305089628,Serial-Studio/Serial-Studio,C++,962
-288152369,DinoZ1729/Ray,C++,171
+288152369,DinoZ1729/Ray,C++,177

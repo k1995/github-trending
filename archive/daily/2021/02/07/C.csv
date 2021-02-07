@@ -1,11 +1,11 @@
 id,name,lang,new stars
 569041,curl/curl,C,13
 20159867,nothings/stb,C,14
-7634677,openssl/openssl,C,13
+7634677,openssl/openssl,C,16
 102578345,coolsnowwolf/lede,C,22
-246335987,ventoy/Ventoy,C,16
+246335987,ventoy/Ventoy,C,19
 63477515,TheAlgorithms/C,C,167
-5414488,cesanta/mongoose,C,2
+5414488,cesanta/mongoose,C,3
 109762904,leandromoreira/ffmpeg-libav-tutorial,C,5
 16734696,meetecho/janus-gateway,C,9
 192805335,microsoft/mimalloc,C,9
@@ -23,4 +23,4 @@ id,name,lang,new stars
 96348842,DPDK/dpdk,C,2
 48130039,eclipse/paho.mqtt.c,C,1
 220497210,sqfmi/Watchy,C,5
-296621386,Hirrolot/metalang99,C,15
+296621386,Hirrolot/metalang99,C,16
