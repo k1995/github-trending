@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,24
+8514,rails/rails,Ruby,27
 65252,jekyll/jekyll,Ruby,17
 27442967,fastlane/fastlane,Ruby,53
 53238813,Homebrew/brew,Ruby,217
-52281283,tootsuite/mastodon,Ruby,26
+52281283,tootsuite/mastodon,Ruby,27
 2293158,rapid7/metasploit-framework,Ruby,13
 3623050,Homebrew/homebrew-cask,Ruby,18
 538746,ruby/ruby,Ruby,9
@@ -12,7 +12,7 @@ id,name,lang,new stars
 1918677,fluent/fluentd,Ruby,10
 96395,faker-ruby/faker,Ruby,5
 52855516,Homebrew/homebrew-core,Ruby,18
-587311,omniauth/omniauth,Ruby,9
+587311,omniauth/omniauth,Ruby,10
 6529205,varvet/pundit,Ruby,5
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,11
 30337170,rmosolgo/graphql-ruby,Ruby,3

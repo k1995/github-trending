@@ -1,6 +1,6 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,98
-13233158,obsproject/obs-studio,C,193
+111583593,Genymobile/scrcpy,C,86
+13233158,obsproject/obs-studio,C,242
 102578345,coolsnowwolf/lede,C,22
 80286288,arendst/Tasmota,C,14
 27737393,qmk/qmk_firmware,C,12
@@ -11,11 +11,11 @@ id,name,lang,new stars
 179354282,acidanthera/OpenCorePkg,C,23
 35129809,transmission/transmission,C,8
 3791835,darktable-org/darktable,C,15
-192805335,microsoft/mimalloc,C,18
+192805335,microsoft/mimalloc,C,20
 14735429,aquynh/capstone,C,2
 68291988,miloyip/json-tutorial,C,17
 37060852,betaflight/betaflight,C,4
-59676171,KevinOConnor/klipper,C,7
+59676171,KevinOConnor/klipper,C,6
 157590294,TelegramMessenger/Telegram-iOS,C,4
 211756905,MarlinFirmware/Configurations,C,2
 331380723,raspberrypi/pico-sdk,C,7

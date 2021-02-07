@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1828
+2325298,torvalds/linux,C,1836
 111583593,Genymobile/scrcpy,C,2024
-24586308,cfenollosa/os-tutorial,C,438
+24586308,cfenollosa/os-tutorial,C,439
 569041,curl/curl,C,312
-102578345,coolsnowwolf/lede,C,766
+102578345,coolsnowwolf/lede,C,767
 15337142,micropython/micropython,C,332
-93205465,apple/darwin-xnu,C,135
-78281075,SpacehuhnTech/esp8266_deauther,C,242
+93205465,apple/darwin-xnu,C,136
+78281075,SpacehuhnTech/esp8266_deauther,C,243
 63477515,TheAlgorithms/C,C,740
 18106269,lz4/lz4,C,246
 60667730,lvgl/lvgl,C,240
-16734696,meetecho/janus-gateway,C,160
+16734696,meetecho/janus-gateway,C,162
 5870069,edenhill/librdkafka,C,101
 211381291,ExistentialAudio/BlackHole,C,346
 59771425,zephyrproject-rtos/zephyr,C,216
@@ -18,9 +18,9 @@ id,name,lang,new stars
 254327261,sandboxie-plus/Sandboxie,C,1241
 59676171,KevinOConnor/klipper,C,95
 277194804,lawl/NoiseTorch,C,233
-157590294,TelegramMessenger/Telegram-iOS,C,357
+157590294,TelegramMessenger/Telegram-iOS,C,358
 6860771,hathach/tinyusb,C,657
-122993186,remzi-arpacidusseau/ostep-code,C,70
+122993186,remzi-arpacidusseau/ostep-code,C,71
 23780138,riscv/riscv-gnu-toolchain,C,60
-327656592,AsahiLinux/gpu,C,526
-177287710,jamulussoftware/jamulus,C,74
+327656592,AsahiLinux/gpu,C,527
+177287710,jamulussoftware/jamulus,C,75
