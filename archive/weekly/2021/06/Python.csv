@@ -1,6 +1,6 @@
 id,name,lang,new stars
 63476337,TheAlgorithms/Python,Python,1838
-21289110,vinta/awesome-python,Python,402
+21289110,vinta/awesome-python,Python,394
 3544424,httpie/httpie,Python,154
 32689863,3b1b/manim,Python,534
 160919119,tiangolo/fastapi,Python,599
@@ -15,7 +15,7 @@ id,name,lang,new stars
 172227885,tiangolo/full-stack-fastapi-postgresql,Python,329
 29620400,xonsh/xonsh,Python,93
 287463830,microsoft/qlib,Python,327
-199730019,tensortrade-org/tensortrade,Python,324
+199730019,tensortrade-org/tensortrade,Python,301
 159102574,jamalex/notion-py,Python,64
 56217288,confluentinc/confluent-kafka-python,Python,17
 332884796,sdushantha/wifi-password,Python,442
@@ -23,4 +23,4 @@ id,name,lang,new stars
 332114633,yitu-opensource/T2T-ViT,Python,180
 332302930,dupontgu/retro-ipod-spotify-client,Python,156
 327662446,davidbombal/red-python-scripts,Python,27
-331380999,raspberrypi/pico-micropython-examples,Python,21
+331380999,raspberrypi/pico-micropython-examples,Python,20

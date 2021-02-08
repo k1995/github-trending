@@ -1,16 +1,16 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,1223
 1181927,bitcoin/bitcoin,C++,1349
-23357588,protocolbuffers/protobuf,C++,756
-15634981,godotengine/godot,C++,815
+23357588,protocolbuffers/protobuf,C++,755
+15634981,godotengine/godot,C++,816
 22067521,ocornut/imgui,C++,1252
 13862381,DrKLO/Telegram,C++,829
 19374812,telegramdesktop/tdesktop,C++,874
 63477612,TheAlgorithms/C-Plus-Plus,C++,1371
 29397594,ssloy/tinyrenderer,C++,232
-2200856,MarlinFirmware/Marlin,C++,581
+2200856,MarlinFirmware/Marlin,C++,579
 160083795,SerenityOS/serenity,C++,780
-14887195,gzc/CLRS,C++,395
+14887195,gzc/CLRS,C++,398
 51905353,apache/arrow,C++,323
 204593825,microsoft/STL,C++,133
 4454793,musescore/MuseScore,C++,214
@@ -18,7 +18,7 @@ id,name,lang,new stars
 7550637,xenia-project/xenia,C++,133
 88327406,xmrig/xmrig,C++,195
 89067146,ethereum-mining/ethminer,C++,307
-14981376,dogecoin/dogecoin,C++,1366
+14981376,dogecoin/dogecoin,C++,1369
 235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,381
 52882701,prusa3d/PrusaSlicer,C++,270
 3030065,gnuradio/gnuradio,C++,103

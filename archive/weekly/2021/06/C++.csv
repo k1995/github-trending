@@ -1,19 +1,19 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,315
-27729880,grpc/grpc,C++,106
+27729880,grpc/grpc,C++,105
 168008797,microsoft/calculator,C++,70
-39840932,google/googletest,C++,424
+39840932,google/googletest,C++,438
 4524181,facebook/folly,C++,73
 65214191,envoyproxy/envoy,C++,67
 19953044,google/flatbuffers,C++,49
-63477612,TheAlgorithms/C-Plus-Plus,C++,1183
+63477612,TheAlgorithms/C-Plus-Plus,C++,1189
 26038648,gabime/spdlog,C++,81
-196813750,Light-City/CPlusPlusThings,C++,346
+196813750,Light-City/CPlusPlusThings,C++,348
 52729242,keepassxreboot/keepassxc,C++,79
-51905353,apache/arrow,C++,145
-12756992,opencv/opencv_contrib,C++,93
-153866232,TheCherno/Hazel,C++,50
-86337343,skypjack/entt,C++,124
+51905353,apache/arrow,C++,144
+12756992,opencv/opencv_contrib,C++,84
+153866232,TheCherno/Hazel,C++,49
+86337343,skypjack/entt,C++,126
 193305104,barry-ran/QtScrcpy,C++,68
 2724167,ripple/rippled,C++,24
 14981376,dogecoin/dogecoin,C++,815
