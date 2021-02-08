@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1864363,composer/composer,PHP,199
+1864363,composer/composer,PHP,197
 7548986,laravel/framework,PHP,505
-1420053,guzzle/guzzle,PHP,160
+1420053,guzzle/guzzle,PHP,157
 2234102,bcit-ci/CodeIgniter,PHP,51
 2253830,PHPMailer/PHPMailer,PHP,175
 2884111,magento/magento2,PHP,100
@@ -11,7 +11,7 @@ id,name,lang,new stars
 41589337,BookStackApp/BookStack,PHP,191
 2141186,opencart/opencart,PHP,92
 86350964,the-benchmarker/web-frameworks,PHP,326
-9826184,elastic/elasticsearch-php,PHP,65
+9826184,elastic/elasticsearch-php,PHP,66
 439861,moodle/moodle,PHP,77
 41463886,codeigniter4/CodeIgniter4,PHP,84
 22751672,tecnickcom/TCPDF,PHP,54
@@ -23,4 +23,4 @@ id,name,lang,new stars
 27195711,alextselegidis/easyappointments,PHP,71
 16455664,tastyigniter/TastyIgniter,PHP,238
 286645686,yuantuo666/baiduwp-php,PHP,180
-230926110,qkqpttgf/OneManager-php,PHP,209
+230926110,qkqpttgf/OneManager-php,HTML,209
