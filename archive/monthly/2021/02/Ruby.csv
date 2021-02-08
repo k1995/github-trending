@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,294
+8514,rails/rails,Ruby,297
 65252,jekyll/jekyll,Ruby,294
-7569578,discourse/discourse,Ruby,309
+7569578,discourse/discourse,Ruby,317
 27442967,fastlane/fastlane,Ruby,381
-53238813,Homebrew/brew,Ruby,1366
+53238813,Homebrew/brew,Ruby,1403
 52281283,tootsuite/mastodon,Ruby,1086
-481872,hashicorp/vagrant,Ruby,212
+481872,hashicorp/vagrant,Ruby,213
 308770,heartcombo/devise,Ruby,114
-3623050,Homebrew/homebrew-cask,Ruby,184
-911765,diaspora/diaspora,Ruby,64
+3623050,Homebrew/homebrew-cask,Ruby,187
+911765,diaspora/diaspora,Ruby,65
 1090311,elastic/logstash,Ruby,88
-4095287,rubocop-hq/rubocop,Ruby,76
+4095287,rubocop-hq/rubocop,Ruby,77
 15435,Shopify/liquid,Ruby,103
 1725199,github/linguist,Ruby,135
 2441517,puma/puma,Ruby,35
@@ -18,9 +18,9 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,57
 30337170,rmosolgo/graphql-ruby,Ruby,38
 6899875,opf/openproject,Ruby,111
-244452551,alexeygrigorev/data-science-interviews,Ruby,99
+244452551,alexeygrigorev/data-science-interviews,Ruby,101
 46698467,ankane/strong_migrations,Ruby,72
 11426474,github/choosealicense.com,Ruby,54
-103766152,github/explore,Ruby,75
+103766152,github/explore,Ruby,77
 93163073,dependabot/dependabot-core,Ruby,72
 3947396,getsentry/sentry-ruby,Ruby,8
