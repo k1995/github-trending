@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,389
+2325298,torvalds/linux,C,392
 156018,redis/redis,C,145
 10446890,bilibili/ijkplayer,C,60
-1614410,FFmpeg/FFmpeg,C,132
+1614410,FFmpeg/FFmpeg,C,133
 5101141,stedolan/jq,C,54
-7634677,openssl/openssl,C,68
-102578345,coolsnowwolf/lede,C,143
+7634677,openssl/openssl,C,67
+102578345,coolsnowwolf/lede,C,144
 37912398,nginx/nginx,C,57
-15337142,micropython/micropython,C,71
-78281075,SpacehuhnTech/esp8266_deauther,C,64
+15337142,micropython/micropython,C,73
+78281075,SpacehuhnTech/esp8266_deauther,C,65
 100781035,webview/webview,C,48
 63477515,TheAlgorithms/C,C,838
 179354282,acidanthera/OpenCorePkg,C,115
@@ -21,6 +21,6 @@ id,name,lang,new stars
 154525111,signalwire/freeswitch,C,17
 334506851,blasty/CVE-2021-3156,C,338
 331380723,raspberrypi/pico-sdk,C,45
-334318140,stong/CVE-2021-3156,C,88
+334318140,stong/CVE-2021-3156,C,85
 318691203,Mr-Un1k0d3r/RedTeamCCode,C,99
 330684922,NXPmicro/mcux-sdk,C,41
