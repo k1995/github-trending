@@ -1,14 +1,14 @@
 id,name,lang,new stars
 39464018,apache/superset,Python,3143
-91573538,testerSunshine/12306,Python,416
+91573538,testerSunshine/12306,Python,415
 160919119,tiangolo/fastapi,Python,1709
-33884891,apache/airflow,Python,477
+33884891,apache/airflow,Python,476
 21467110,explosion/spaCy,Python,1541
 4008931,StevenBlack/hosts,Python,476
 12044132,bitcoinbook/bitcoinbook,Python,338
 204086862,streamlit/streamlit,Python,715
-37347459,Eloston/ungoogled-chromium,Python,522
-262296122,PaddlePaddle/PaddleOCR,Python,2560
+37347459,Eloston/ungoogled-chromium,Python,527
+262296122,PaddlePaddle/PaddleOCR,Python,2559
 90356372,ArchiveBox/ArchiveBox,Python,542
 21244505,qutebrowser/qutebrowser,Python,363
 91629816,freqtrade/freqtrade,Python,790
@@ -19,8 +19,8 @@ id,name,lang,new stars
 199730019,tensortrade-org/tensortrade,Python,774
 53548867,fishtown-analytics/dbt,Python,168
 246079929,owid/covid-19-data,Python,371
-100263581,sammchardy/python-binance,Python,182
-279908689,carlospolop/hacktricks,Python,1052
+100263581,sammchardy/python-binance,Python,177
+279908689,carlospolop/hacktricks,Python,1053
 246509073,PaddlePaddle/PaddleX,Python,506
 267200032,RameenAbdal/StyleFlow,Python,845
 179163124,CoinAlpha/hummingbot,Python,144
