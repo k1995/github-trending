@@ -1,10 +1,10 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,29
 65252,jekyll/jekyll,Ruby,5
-27442967,fastlane/fastlane,Ruby,60
+27442967,fastlane/fastlane,Ruby,56
 53238813,Homebrew/brew,Ruby,878
 52281283,tootsuite/mastodon,Ruby,27
-2293158,rapid7/metasploit-framework,Ruby,22
+2293158,rapid7/metasploit-framework,Ruby,9
 3623050,Homebrew/homebrew-cask,Ruby,25
 538746,ruby/ruby,Ruby,13
 2203645,CocoaPods/CocoaPods,Ruby,6
@@ -14,12 +14,12 @@ id,name,lang,new stars
 52855516,Homebrew/homebrew-core,Ruby,23
 587311,omniauth/omniauth,Ruby,10
 6529205,varvet/pundit,Ruby,5
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,13
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,4
 30337170,rmosolgo/graphql-ruby,Ruby,0
 1952825,Homebrew/homebrew-bundle,Ruby,1
-30985840,solidusio/solidus,Ruby,5
-39706711,hartator/wayback-machine-downloader,Ruby,4
-69813387,iberianpig/fusuma,Ruby,7
+30985840,solidusio/solidus,Ruby,2
+39706711,hartator/wayback-machine-downloader,Ruby,1
+69813387,iberianpig/fusuma,Ruby,0
 103766152,github/explore,Ruby,1
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,13
 55288882,d12frosted/homebrew-emacs-plus,Ruby,2
