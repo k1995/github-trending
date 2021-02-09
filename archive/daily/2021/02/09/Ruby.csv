@@ -1,19 +1,19 @@
 id,name,lang,new stars
 481872,hashicorp/vagrant,Ruby,8
-911765,diaspora/diaspora,Ruby,4
-1090311,elastic/logstash,Ruby,4
-1918677,fluent/fluentd,Ruby,1
-18486300,lewagon/setup,Ruby,13
-96395,faker-ruby/faker,Ruby,4
+911765,diaspora/diaspora,Ruby,2
+1090311,elastic/logstash,Ruby,3
+1918677,fluent/fluentd,Ruby,4
+18486300,lewagon/setup,Ruby,5
+96395,faker-ruby/faker,Ruby,3
 611921,activeadmin/activeadmin,Ruby,1
 47087,carrierwaveuploader/carrierwave,Ruby,0
-1333863,kaminari/kaminari,Ruby,2
-6529205,varvet/pundit,Ruby,3
+1333863,kaminari/kaminari,Ruby,1
+6529205,varvet/pundit,Ruby,4
 21829,thoughtbot/factory_bot,Ruby,1
 26018608,github-changelog-generator/github-changelog-generator,Ruby,3
 1227,mislav/will_paginate,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,0
-1980539,drapergem/draper,Ruby,1
+1980539,drapergem/draper,Ruby,0
 1548802,activerecord-hackery/ransack,Ruby,1
 52316423,luggit/react-native-config,Ruby,3
 229006,mileszs/wicked_pdf,Ruby,1

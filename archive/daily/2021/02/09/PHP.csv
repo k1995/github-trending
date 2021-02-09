@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,19
-3482588,danielmiessler/SecLists,PHP,31
+1863329,laravel/laravel,PHP,18
+3482588,danielmiessler/SecLists,PHP,30
 458058,symfony/symfony,PHP,8
 7548986,laravel/framework,PHP,9
 23680678,tymondesigns/jwt-auth,PHP,5
 2699935,squizlabs/PHP_CodeSniffer,PHP,7
 622166,FriendsOfPHP/Goutte,PHP,2
 330275,twigphp/Twig,PHP,1
-2179920,woocommerce/woocommerce,PHP,2
+2179920,woocommerce/woocommerce,PHP,3
 2141186,opencart/opencart,PHP,0
 6763587,PrestaShop/PrestaShop,PHP,4
 9131292,jenssegers/laravel-mongodb,PHP,1
@@ -15,11 +15,11 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,2
 4224042,roundcube/roundcubemail,PHP,2
 2464908,joomla/joomla-cms,PHP,2
-8077402,MISP/MISP,PHP,1
+8077402,MISP/MISP,PHP,2
 291805291,laravel/jetstream,PHP,4
 1957456,Dolibarr/dolibarr,PHP,4
-16455664,tastyigniter/TastyIgniter,PHP,186
-34407154,cweagans/composer-patches,PHP,10
+16455664,tastyigniter/TastyIgniter,PHP,146
+34407154,cweagans/composer-patches,PHP,12
 5367323,akeneo/pim-community-dev,PHP,0
 325151614,tonysm/turbo-laravel,PHP,4
 225439363,Cesar-Hack-Gray/FotoSploit,PHP,5
