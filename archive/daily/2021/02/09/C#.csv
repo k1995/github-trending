@@ -1,13 +1,13 @@
 id,name,lang,new stars
-161012019,jellyfin/jellyfin,C#,15
-164140756,files-community/Files,C#,35
-262395224,dotnet/maui,C#,20
+161012019,jellyfin/jellyfin,C#,16
+164140756,files-community/Files,C#,38
+262395224,dotnet/maui,C#,12
 2465723,Sonarr/Sonarr,C#,5
 75505125,abpframework/abp,C#,7
-64753043,Perfare/AssetStudio,C#,5
+64753043,Perfare/AssetStudio,C#,4
 45195614,Jackett/Jackett,C#,11
-77323220,Radarr/Radarr,C#,3
-36990723,bchavez/Bogus,C#,177
+77323220,Radarr/Radarr,C#,2
+36990723,bchavez/Bogus,C#,146
 182095352,nilaoda/N_m3u8DL-CLI,C#,16
 19216825,xamarin/xamarin-forms-samples,C#,5
 142480903,microsoft/microsoft-ui-xaml,C#,12
@@ -15,12 +15,12 @@ id,name,lang,new stars
 166270225,dotnet-presentations/blazor-workshop,C#,2
 52166327,Franiac/TwitchLeecher,C#,3
 39425864,tModLoader/tModLoader,C#,1
-268367789,builtbybel/privatezilla,C#,6
+268367789,builtbybel/privatezilla,C#,7
 199628708,microsoft/RulesEngine,C#,22
 288428676,Garderoben/MudBlazor,C#,15
-233213357,kunzmi/ImageStackAlignator,C#,31
+233213357,kunzmi/ImageStackAlignator,C#,13
 178708298,master131/iFakeLocation,C#,5
-334512261,engindemirog/KampFinalProject,C#,8
+334512261,engindemirog/KampFinalProject,C#,7
 322394142,dotnet/GraphicsControls,C#,5
 307816689,dotnet/System.Graphics,C#,4
 328396657,JoakimCarlsson/ColdWarZombieTrainer,C#,1
