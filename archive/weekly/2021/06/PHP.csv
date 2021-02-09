@@ -1,18 +1,18 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,48
 448045,sebastianbergmann/phpunit,PHP,33
-2253830,PHPMailer/PHPMailer,PHP,45
+2253830,PHPMailer/PHPMailer,PHP,46
 2889328,WordPress/WordPress,PHP,29
-1631570,nikic/PHP-Parser,PHP,36
+1631570,nikic/PHP-Parser,PHP,38
 3431193,yiisoft/yii2,PHP,15
 49014795,phpstan/phpstan,PHP,33
-14259390,Maatwebsite/Laravel-Excel,PHP,26
+14259390,Maatwebsite/Laravel-Excel,PHP,25
 597887,doctrine/orm,PHP,25
 2179920,woocommerce/woocommerce,PHP,19
 2141186,opencart/opencart,PHP,21
 14346979,snipe/snipe-it,PHP,22
-10883164,barryvdh/laravel-dompdf,PHP,25
-12204147,mautic/mautic,PHP,21
+10883164,barryvdh/laravel-dompdf,PHP,24
+12204147,mautic/mautic,PHP,20
 148129143,bagisto/bagisto,PHP,27
 139191005,nunomaduro/larastan,PHP,13
 47508644,pterodactyl/panel,PHP,16
