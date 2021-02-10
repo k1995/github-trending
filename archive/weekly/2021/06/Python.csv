@@ -1,18 +1,18 @@
 id,name,lang,new stars
-63476337,TheAlgorithms/Python,Python,1408
+63476337,TheAlgorithms/Python,Python,1422
 3544424,httpie/httpie,Python,165
 32689863,3b1b/manim,Python,241
-160919119,tiangolo/fastapi,Python,391
-21467110,explosion/spaCy,Python,659
+160919119,tiangolo/fastapi,Python,388
+21467110,explosion/spaCy,Python,679
 65711522,PaddlePaddle/Paddle,Python,273
 123303402,python-poetry/poetry,Python,118
-204086862,streamlit/streamlit,Python,212
+204086862,streamlit/streamlit,Python,214
 120936946,deeppomf/DeepCreamPy,Python,290
-136202695,mlflow/mlflow,Python,58
+136202695,mlflow/mlflow,Python,59
 30892477,spyder-ide/spyder,Python,98
 91629816,freqtrade/freqtrade,Python,578
 47453302,shidenggui/easytrader,Python,200
-278881384,kangvcar/InfoSpider,Python,502
+278881384,kangvcar/InfoSpider,Python,501
 172227885,tiangolo/full-stack-fastapi-postgresql,Python,292
 287463830,microsoft/qlib,Python,163
 91948540,ranaroussi/yfinance,Python,128
@@ -22,5 +22,5 @@ id,name,lang,new stars
 215773948,dreamquark-ai/tabnet,Python,19
 257391378,MathInspector/MathInspector,Python,482
 314197645,maiot-io/zenml,Python,113
-332302930,dupontgu/retro-ipod-spotify-client,Python,83
-333348807,NPCat/bad-apple-bot,Python,102
+332302930,dupontgu/retro-ipod-spotify-client,Python,81
+333348807,NPCat/bad-apple-bot,Python,101

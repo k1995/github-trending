@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,82
-27442967,fastlane/fastlane,Ruby,280
+27442967,fastlane/fastlane,Ruby,282
 53238813,Homebrew/brew,Ruby,1090
-481872,hashicorp/vagrant,Ruby,55
-308770,heartcombo/devise,Ruby,29
+481872,hashicorp/vagrant,Ruby,58
+308770,heartcombo/devise,Ruby,30
 3623050,Homebrew/homebrew-cask,Ruby,43
 2203645,CocoaPods/CocoaPods,Ruby,14
-1090311,elastic/logstash,Ruby,19
+1090311,elastic/logstash,Ruby,20
 3195124,mperham/sidekiq,Ruby,14
 1918677,fluent/fluentd,Ruby,37
 96395,faker-ruby/faker,Ruby,20
-52855516,Homebrew/homebrew-core,Ruby,46
+52855516,Homebrew/homebrew-core,Ruby,45
 6529205,varvet/pundit,Ruby,15
 21829,thoughtbot/factory_bot,Ruby,7
 2441517,puma/puma,Ruby,9
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1952825,Homebrew/homebrew-bundle,Ruby,9
 30985840,solidusio/solidus,Ruby,14
 154027884,samber/awesome-prometheus-alerts,Ruby,60
-194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,99
+194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,97
 7983886,timdorr/tesla-api,Ruby,10
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,3

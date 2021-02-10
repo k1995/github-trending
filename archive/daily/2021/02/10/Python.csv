@@ -1,12 +1,12 @@
 id,name,lang,new stars
 12888993,home-assistant/core,Python,20
-71220757,swisskyrepo/PayloadsAllTheThings,Python,24
+71220757,swisskyrepo/PayloadsAllTheThings,Python,22
 125266328,psf/black,Python,16
 162723104,OWASP/CheatSheetSeries,Python,11
-120936946,deeppomf/DeepCreamPy,Python,42
+120936946,deeppomf/DeepCreamPy,Python,43
 52796596,netbox-community/netbox,Python,7
 15776012,ytisf/theZoo,Python,9
-91629816,freqtrade/freqtrade,Python,182
+91629816,freqtrade/freqtrade,Python,187
 90194616,samuelcolvin/pydantic,Python,7
 278881384,kangvcar/InfoSpider,Python,80
 35065876,GoogleCloudPlatform/python-docs-samples,Python,11
@@ -16,11 +16,11 @@ id,name,lang,new stars
 9626741,Nuitka/Nuitka,Python,10
 11939484,pyca/cryptography,Python,31
 111835796,pytorch/ignite,Python,6
-246079929,owid/covid-19-data,Python,47
-269419089,archivy/archivy,Python,114
-202498093,tgbot-collection/YYeTsBot,Python,461
+246079929,owid/covid-19-data,Python,48
+269419089,archivy/archivy,Python,115
+202498093,tgbot-collection/YYeTsBot,Python,457
 179163124,CoinAlpha/hummingbot,Python,10
-336531380,iam-abbas/Reddit-Stock-Trends,Python,245
-294508228,TwentyBN/sense,Python,126
+336531380,iam-abbas/Reddit-Stock-Trends,Python,278
+294508228,TwentyBN/sense,Python,144
 61572326,DataDog/dd-trace-py,Python,1
 306212130,ecriminal/phpvuln,Python,5
