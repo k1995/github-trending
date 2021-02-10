@@ -1,15 +1,15 @@
 id,name,lang,new stars
 6838921,prometheus/prometheus,Go,592
-11225014,etcd-io/etcd,Go,526
+11225014,etcd-io/etcd,Go,527
 15452919,ethereum/go-ethereum,Go,541
 29261473,minio/minio,Go,698
 133251103,wagoodman/dive,Go,590
 61137153,evanw/esbuild,Go,1988
-12080551,tsenart/vegeta,Go,371
+12080551,tsenart/vegeta,Go,378
 19994257,go-delve/delve,Go,390
 62921553,rook/rook,Go,144
 162920291,inlets/inlets,Go,640
-29099181,keybase/client,Go,103
+29099181,keybase/client,Go,102
 28366058,distribution/distribution,Go,202
 53174289,gruntwork-io/terratest,Go,267
 140457254,OWASP/Amass,Go,193

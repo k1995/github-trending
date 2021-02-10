@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,80
-27442967,fastlane/fastlane,Ruby,281
-53238813,Homebrew/brew,Ruby,1088
-481872,hashicorp/vagrant,Ruby,53
-308770,heartcombo/devise,Ruby,28
+8514,rails/rails,Ruby,82
+27442967,fastlane/fastlane,Ruby,280
+53238813,Homebrew/brew,Ruby,1090
+481872,hashicorp/vagrant,Ruby,55
+308770,heartcombo/devise,Ruby,29
 3623050,Homebrew/homebrew-cask,Ruby,43
 2203645,CocoaPods/CocoaPods,Ruby,14
 1090311,elastic/logstash,Ruby,19
-3195124,mperham/sidekiq,Ruby,15
-1918677,fluent/fluentd,Ruby,38
+3195124,mperham/sidekiq,Ruby,14
+1918677,fluent/fluentd,Ruby,37
 96395,faker-ruby/faker,Ruby,20
 52855516,Homebrew/homebrew-core,Ruby,46
 6529205,varvet/pundit,Ruby,15
@@ -17,10 +17,10 @@ id,name,lang,new stars
 26018608,github-changelog-generator/github-changelog-generator,Ruby,20
 1548802,activerecord-hackery/ransack,Ruby,9
 447184,rspec/rspec-rails,Ruby,4
-244452551,alexeygrigorev/data-science-interviews,Ruby,63
+244452551,alexeygrigorev/data-science-interviews,Ruby,64
 1952825,Homebrew/homebrew-bundle,Ruby,9
-30985840,solidusio/solidus,Ruby,13
-154027884,samber/awesome-prometheus-alerts,Ruby,62
+30985840,solidusio/solidus,Ruby,14
+154027884,samber/awesome-prometheus-alerts,Ruby,60
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,99
 7983886,timdorr/tesla-api,Ruby,10
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,3
