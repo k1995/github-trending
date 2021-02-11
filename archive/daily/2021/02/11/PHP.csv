@@ -7,11 +7,11 @@ id,name,lang,new stars
 11340559,deployphp/deployer,PHP,5
 677464,doctrine/dbal,PHP,4
 6660366,dompdf/dompdf,PHP,7
-330275,twigphp/Twig,PHP,2
+330275,twigphp/Twig,PHP,1
 2179920,woocommerce/woocommerce,PHP,3
 17452080,lcobucci/jwt,PHP,4
 9131292,jenssegers/laravel-mongodb,PHP,5
-627735,vrana/adminer,PHP,5
+627735,vrana/adminer,PHP,4
 10883164,barryvdh/laravel-dompdf,PHP,2
 8875190,Ocramius/ProxyManager,PHP,4
 2797951,doctrine/DoctrineBundle,PHP,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 761653,phpDocumentor/phpDocumentor,PHP,3
 6631182,symfony/stopwatch,PHP,2
 18628501,lexik/LexikJWTAuthenticationBundle,PHP,1
-336351066,asantibanez/laravel-blade-sortable,PHP,48
+336351066,asantibanez/laravel-blade-sortable,PHP,49
 313420182,wpengine/headless-framework,PHP,10
 333972140,kutia-software-company/larafirebase,PHP,15
