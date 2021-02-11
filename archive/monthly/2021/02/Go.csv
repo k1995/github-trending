@@ -1,9 +1,9 @@
 id,name,lang,new stars
 23096959,golang/go,Go,1318
 7691631,moby/moby,Go,346
-11225014,etcd-io/etcd,Go,529
+11225014,etcd-io/etcd,Go,528
 29261473,minio/minio,Go,703
-133251103,wagoodman/dive,Go,602
+133251103,wagoodman/dive,Go,604
 31288958,hashicorp/vault,Go,784
 61137153,evanw/esbuild,Go,2071
 12080551,tsenart/vegeta,Go,384
@@ -11,15 +11,15 @@ id,name,lang,new stars
 62921553,rook/rook,Go,145
 162920291,inlets/inlets,Go,649
 29099181,keybase/client,Go,101
-180687624,aquasecurity/trivy,Go,483
+180687624,aquasecurity/trivy,Go,486
 28366058,distribution/distribution,Go,204
-53174289,gruntwork-io/terratest,Go,272
+53174289,gruntwork-io/terratest,Go,273
 14128006,hashicorp/raft,Go,122
-87990209,kubernetes/autoscaler,Go,102
+87990209,kubernetes/autoscaler,Go,103
 156681830,ffuf/ffuf,Go,283
 41561105,go-resty/resty,Go,209
 29778781,slack-go/slack,Go,77
-327859577,juicedata/juicefs,Go,2830
+327859577,juicedata/juicefs,Go,2831
 93446042,terraform-providers/terraform-provider-azurerm,Go,57
 51193526,cosmos/cosmos-sdk,Go,175
 79585104,matrix-org/dendrite,Go,243
