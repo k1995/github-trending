@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,301
+8514,rails/rails,Ruby,300
 65252,jekyll/jekyll,Ruby,279
 7569578,discourse/discourse,Ruby,302
 27442967,fastlane/fastlane,Ruby,490
 53238813,Homebrew/brew,Ruby,1499
-52281283,tootsuite/mastodon,Ruby,954
-481872,hashicorp/vagrant,Ruby,216
+52281283,tootsuite/mastodon,Ruby,930
+481872,hashicorp/vagrant,Ruby,215
 308770,heartcombo/devise,Ruby,116
 3623050,Homebrew/homebrew-cask,Ruby,169
 1090311,elastic/logstash,Ruby,88
@@ -13,14 +13,14 @@ id,name,lang,new stars
 587311,omniauth/omniauth,Ruby,63
 6529205,varvet/pundit,Ruby,49
 21829,thoughtbot/factory_bot,Ruby,35
-2441517,puma/puma,Ruby,35
+2441517,puma/puma,Ruby,37
 108278,chef/chef,Ruby,49
 4994614,wpscanteam/wpscan,Ruby,111
-75785147,rails/webpacker,Ruby,54
+75785147,rails/webpacker,Ruby,53
 244452551,alexeygrigorev/data-science-interviews,Ruby,136
 1314319,instructure/canvas-lms,Ruby,49
 46698467,ankane/strong_migrations,Ruby,74
 11426474,github/choosealicense.com,Ruby,61
 103766152,github/explore,Ruby,75
-93163073,dependabot/dependabot-core,Ruby,80
+93163073,dependabot/dependabot-core,Ruby,79
 3947396,getsentry/sentry-ruby,Ruby,8

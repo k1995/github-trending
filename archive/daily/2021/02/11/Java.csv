@@ -5,15 +5,15 @@ id,name,lang,new stars
 7613257,SeleniumHQ/selenium,Java,7
 20773773,bazelbuild/bazel,Java,6
 13404515,brettwooldridge/HikariCP,Java,2
-221862,rzwitserloot/lombok,Java,2
+221862,rzwitserloot/lombok,Java,3
 38415498,careercup/CtCI-6th-Edition,Java,6
 139914932,quarkusio/quarkus,Java,10
 33816473,testcontainers/testcontainers-java,Java,4
 81226206,intuit/karate,Java,5
 2544305,tomakehurst/wiremock,Java,0
-3786237,hazelcast/hazelcast,Java,0
+3786237,hazelcast/hazelcast,Java,1
 206317,apache/camel,Java,1
-3333998,knowm/XChange,Java,4
+3333998,knowm/XChange,Java,5
 4950187,jacoco/jacoco,Java,1
 58194180,strimzi/strimzi-kafka-operator,Java,2
 59838788,allure-framework/allure2,Java,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 34685800,diffplug/spotless,Java,2
 52095564,openid/AppAuth-Android,Java,2
 113922675,awsdocs/aws-lambda-developer-guide,Java,1
-267702531,googlesamples/mlkit,Java,34
+267702531,googlesamples/mlkit,Java,37
 311241324,xiaojieonly/Ehviewer_CN_SXJ,Java,5
 320128976,ipipman/JavaSpringBootSamples,Java,9
