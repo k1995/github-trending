@@ -8,7 +8,7 @@ id,name,lang,new stars
 18348651,OpenRCT2/OpenRCT2,C++,5
 38581626,pybind/pybind11,C++,6
 23086893,google/re2,C++,2
-7232856,AGWA/git-crypt,C++,1
+7232856,AGWA/git-crypt,C++,2
 5973855,CleverRaven/Cataclysm-DDA,C++,2
 84183882,google/sentencepiece,C++,1
 267649918,hoffstadt/DearPyGui,C++,25
@@ -23,4 +23,4 @@ id,name,lang,new stars
 244694174,project-chip/connectedhomeip,C++,3
 48688694,pascallanger/DIY-Multiprotocol-TX-Module,C++,1
 201692465,tranek/GASDocumentation,C++,5
-283280154,jomjol/AI-on-the-edge-device,C++,64
+283280154,jomjol/AI-on-the-edge-device,C++,57
