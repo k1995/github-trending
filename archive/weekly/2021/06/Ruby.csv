@@ -1,17 +1,17 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,74
-27442967,fastlane/fastlane,Ruby,282
+27442967,fastlane/fastlane,Ruby,284
 53238813,Homebrew/brew,Ruby,1095
 2293158,rapid7/metasploit-framework,Ruby,61
-308770,heartcombo/devise,Ruby,26
-3623050,Homebrew/homebrew-cask,Ruby,39
+308770,heartcombo/devise,Ruby,27
+3623050,Homebrew/homebrew-cask,Ruby,38
 4095287,rubocop-hq/rubocop,Ruby,18
-1918677,fluent/fluentd,Ruby,38
+1918677,fluent/fluentd,Ruby,39
 96395,faker-ruby/faker,Ruby,17
 611921,activeadmin/activeadmin,Ruby,4
-52855516,Homebrew/homebrew-core,Ruby,43
+52855516,Homebrew/homebrew-core,Ruby,42
 6529205,varvet/pundit,Ruby,16
-21829,thoughtbot/factory_bot,Ruby,6
+21829,thoughtbot/factory_bot,Ruby,7
 2441517,puma/puma,Ruby,11
 6768710,redmine/redmine,Ruby,7
 244452551,alexeygrigorev/data-science-interviews,Ruby,75
@@ -20,7 +20,7 @@ id,name,lang,new stars
 154027884,samber/awesome-prometheus-alerts,Ruby,50
 93163073,dependabot/dependabot-core,Ruby,25
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,108
-7983886,timdorr/tesla-api,Ruby,8
-334416586,rails/kredis,Ruby,132
-330857922,havenweb/haven,Ruby,74
+7983886,timdorr/tesla-api,Ruby,7
+334416586,rails/kredis,Ruby,121
+330857922,havenweb/haven,Ruby,69
 305284353,griddb/homebrew-griddb-c-client,Ruby,0
