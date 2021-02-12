@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,298
-65252,jekyll/jekyll,Ruby,266
-7569578,discourse/discourse,Ruby,300
-27442967,fastlane/fastlane,Ruby,496
+8514,rails/rails,Ruby,301
+65252,jekyll/jekyll,Ruby,267
+7569578,discourse/discourse,Ruby,298
+27442967,fastlane/fastlane,Ruby,494
 53238813,Homebrew/brew,Ruby,1495
 481872,hashicorp/vagrant,Ruby,214
 308770,heartcombo/devise,Ruby,113
 3623050,Homebrew/homebrew-cask,Ruby,168
-1090311,elastic/logstash,Ruby,88
+1090311,elastic/logstash,Ruby,89
 4095287,rubocop-hq/rubocop,Ruby,69
 96395,faker-ruby/faker,Ruby,68
-15435,Shopify/liquid,Ruby,99
+15435,Shopify/liquid,Ruby,101
 21829,thoughtbot/factory_bot,Ruby,39
-2441517,puma/puma,Ruby,38
+2441517,puma/puma,Ruby,37
 108278,chef/chef,Ruby,46
 75785147,rails/webpacker,Ruby,50
 244452551,alexeygrigorev/data-science-interviews,Ruby,144
@@ -21,6 +21,6 @@ id,name,lang,new stars
 46698467,ankane/strong_migrations,Ruby,75
 11426474,github/choosealicense.com,Ruby,61
 154027884,samber/awesome-prometheus-alerts,Ruby,254
-103766152,github/explore,Ruby,73
+103766152,github/explore,Ruby,72
 93163073,dependabot/dependabot-core,Ruby,77
 3947396,getsentry/sentry-ruby,Ruby,6
