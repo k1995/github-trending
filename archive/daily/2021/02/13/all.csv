@@ -1,23 +1,23 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,100
+83222441,donnemartin/system-design-primer,Python,87
 19415064,ossu/computer-science,,73
-157616880,iptv-org/iptv,JavaScript,302
+157616880,iptv-org/iptv,JavaScript,301
 109343098,serhii-londar/open-source-mac-os-apps,Swift,94
-101684374,satwikkansal/wtfpython,Python,349
+101684374,satwikkansal/wtfpython,Python,285
 49609581,PowerShell/PowerShell,C#,24
-169677297,vlang/v,V,57
+169677297,vlang/v,V,58
 17620347,dotnet/aspnetcore,C#,21
-31288958,hashicorp/vault,Go,159
+31288958,hashicorp/vault,Go,149
 154950925,streamich/react-use,TypeScript,105
-34407651,Azure/azure-quickstart-templates,PowerShell,102
+34407651,Azure/azure-quickstart-templates,PowerShell,98
 77071454,goreleaser/goreleaser,Go,20
 165826654,deepmind/deepmind-research,Jupyter Notebook,144
-209956937,reed-hong/awesome-libra,,193
-284871753,flybywiresim/a32nx,JavaScript,192
-301830590,benbjohnson/litestream,Go,477
-39093389,Azure/azure-rest-api-specs,TypeScript,61
+209956937,reed-hong/awesome-libra,,262
+284871753,flybywiresim/a32nx,JavaScript,190
+301830590,benbjohnson/litestream,Go,475
 294074614,abhishekkrthakur/colabcode,Python,35
-226007001,system76/launch,Shell,172
+39093389,Azure/azure-rest-api-specs,TypeScript,61
+226007001,system76/launch,Shell,173
 254202848,florisboard/florisboard,Kotlin,9
 281297416,adityatelange/hugo-PaperMod,HTML,19
 330008801,libsdl-org/SDL,C,93
