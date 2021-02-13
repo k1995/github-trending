@@ -1,9 +1,9 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,87
+83222441,donnemartin/system-design-primer,Python,100
 54346799,public-apis/public-apis,Python,88
 71948498,localstack/localstack,Python,26
-101684374,satwikkansal/wtfpython,Python,285
-71220757,swisskyrepo/PayloadsAllTheThings,Python,219
+101684374,satwikkansal/wtfpython,Python,349
+71220757,swisskyrepo/PayloadsAllTheThings,Python,223
 220809393,willmcgugan/rich,Python,43
 162998479,sherlock-project/sherlock,Python,13
 1431547,encode/django-rest-framework,Python,13
@@ -17,8 +17,8 @@ id,name,lang,new stars
 199509705,awslabs/autogluon,Python,10
 53548867,fishtown-analytics/dbt,Python,4
 91730359,GoogleCloudPlatform/professional-services,Python,7
-324778385,ebhy/budgetml,Python,34
 294074614,abhishekkrthakur/colabcode,Python,35
+324778385,ebhy/budgetml,Python,34
 101975420,H1R0GH057/Anonymous,Python,4
 192129633,sinwindie/OSINT,Python,29
 279870680,ElvinC/gyroflow,Python,19

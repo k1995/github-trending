@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,69
+8514,rails/rails,Ruby,70
 27442967,fastlane/fastlane,Ruby,292
-53238813,Homebrew/brew,Ruby,1061
-13840241,freeCodeCamp/devdocs,Ruby,69
+53238813,Homebrew/brew,Ruby,1065
+13840241,freeCodeCamp/devdocs,Ruby,71
 2293158,rapid7/metasploit-framework,Ruby,67
-481872,hashicorp/vagrant,Ruby,56
-308770,heartcombo/devise,Ruby,27
+481872,hashicorp/vagrant,Ruby,57
+308770,heartcombo/devise,Ruby,28
 3623050,Homebrew/homebrew-cask,Ruby,36
-96395,faker-ruby/faker,Ruby,15
-52855516,Homebrew/homebrew-core,Ruby,56
-451035,heartcombo/simple_form,Ruby,8
+96395,faker-ruby/faker,Ruby,16
+52855516,Homebrew/homebrew-core,Ruby,55
+451035,heartcombo/simple_form,Ruby,12
 6529205,varvet/pundit,Ruby,11
 21829,thoughtbot/factory_bot,Ruby,9
 2441517,puma/puma,Ruby,11
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,11
 93163073,dependabot/dependabot-core,Ruby,22
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,95
-7983886,timdorr/tesla-api,Ruby,8
+7983886,timdorr/tesla-api,Ruby,9
