@@ -1,26 +1,26 @@
 id,name,lang,new stars
-103633984,goldbergyoni/nodebestpractices,JavaScript,133
-74293321,sveltejs/svelte,TypeScript,232
-157616880,iptv-org/iptv,JavaScript,302
-71220757,swisskyrepo/PayloadsAllTheThings,Python,223
-31288958,hashicorp/vault,Go,159
-154950925,streamich/react-use,TypeScript,116
+24195339,angular/angular,TypeScript,22
+23083156,mui-org/material-ui,JavaScript,20
+157616880,iptv-org/iptv,JavaScript,301
+101684374,satwikkansal/wtfpython,Python,285
+169677297,vlang/v,V,58
+71220757,swisskyrepo/PayloadsAllTheThings,Python,219
 231283452,excalidraw/excalidraw,TypeScript,163
-26133979,mozilla-mobile/firefox-ios,Swift,65
-192175095,conwnet/github1s,TypeScript,1675
-34407651,Azure/azure-quickstart-templates,PowerShell,102
-153099672,inancgumus/learngo,Go,130
-93444615,hashicorp/terraform-provider-aws,Go,55
-107937815,aws/amazon-sagemaker-examples,Jupyter Notebook,52
-274495425,JonnyBurger/remotion,TypeScript,537
-209956937,reed-hong/awesome-libra,,193
-284871753,flybywiresim/a32nx,JavaScript,192
-23891194,Azure/azure-powershell,C#,54
-336531380,iam-abbas/Reddit-Stock-Trends,Python,173
+41592744,AllThingsSmitty/css-protips,,2
+192175095,conwnet/github1s,TypeScript,1313
+34407651,Azure/azure-quickstart-templates,PowerShell,98
+28239455,dotnet/AspNetCore.Docs,C#,5
+230599151,rxi/lite,Lua,68
+59844792,jmdugan/blocklists,DIGITAL Command Language,32
+302800491,vxunderground/MalwareSourceCode,Assembly,5
+284871753,flybywiresim/a32nx,JavaScript,190
+74499101,roboll/helmfile,Go,9
+262424540,luspr/awesome-ml-courses,,26
+136244218,awslabs/amazon-eks-ami,Shell,1
+268292479,ivan-bilan/The-NLP-Pandect,Python,15
+324778385,ebhy/budgetml,Python,34
 39093389,Azure/azure-rest-api-specs,TypeScript,61
-331962507,JonnyBurger/remotion-trailer,TypeScript,73
-283280154,jomjol/AI-on-the-edge-device,C++,52
-254142161,Seagate/cortx,Jupyter Notebook,70
-327719215,DataDog/go-profiler-notes,Jupyter Notebook,46
-241191652,EvotecIT/GPOZaurr,PowerShell,38
-334512261,engindemirog/KampFinalProject,C#,25
+267702531,googlesamples/mlkit,Java,5
+330008801,libsdl-org/SDL,C,93
+97738232,skovaka/UNCALLED,C++,3
+337607425,ModernPwner/cicuta_virosa,C,22
