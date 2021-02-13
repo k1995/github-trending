@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,9
+7569578,discourse/discourse,Ruby,8
 52281283,tootsuite/mastodon,Ruby,9
 2293158,rapid7/metasploit-framework,Ruby,10
 2203645,CocoaPods/CocoaPods,Ruby,0
@@ -7,7 +7,7 @@ id,name,lang,new stars
 106995,sinatra/sinatra,Ruby,1
 611921,activeadmin/activeadmin,Ruby,3
 15435,Shopify/liquid,Ruby,6
-451035,heartcombo/simple_form,Ruby,2
+451035,heartcombo/simple_form,Ruby,3
 810796,sferik/rails_admin,Ruby,0
 6529205,varvet/pundit,Ruby,0
 1145832,pry/pry,Ruby,0

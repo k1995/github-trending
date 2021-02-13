@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,300
+8514,rails/rails,Ruby,301
 65252,jekyll/jekyll,Ruby,270
 7569578,discourse/discourse,Ruby,297
-27442967,fastlane/fastlane,Ruby,496
-53238813,Homebrew/brew,Ruby,1495
+27442967,fastlane/fastlane,Ruby,495
+53238813,Homebrew/brew,Ruby,1491
 481872,hashicorp/vagrant,Ruby,215
-308770,heartcombo/devise,Ruby,114
+308770,heartcombo/devise,Ruby,115
 3623050,Homebrew/homebrew-cask,Ruby,167
 1090311,elastic/logstash,Ruby,90
 4095287,rubocop-hq/rubocop,Ruby,68
@@ -17,7 +17,7 @@ id,name,lang,new stars
 108278,chef/chef,Ruby,46
 75785147,rails/webpacker,Ruby,49
 6899875,opf/openproject,Ruby,101
-244452551,alexeygrigorev/data-science-interviews,Ruby,144
+244452551,alexeygrigorev/data-science-interviews,Ruby,145
 1314319,instructure/canvas-lms,Ruby,50
 30985840,solidusio/solidus,Ruby,51
 46698467,ankane/strong_migrations,Ruby,74
