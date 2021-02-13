@@ -10,7 +10,7 @@ id,name,lang,new stars
 1398648,symfony/http-foundation,PHP,0
 12166778,googleapis/google-api-php-client,PHP,1
 364315,predis/predis,PHP,0
-41589337,BookStackApp/BookStack,PHP,8
+41589337,BookStackApp/BookStack,PHP,9
 16238673,kanboard/kanboard,PHP,1
 7413451,timber/timber,PHP,0
 74386167,vimeo/psalm,PHP,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 111562942,statamic/cms,PHP,4
 223535535,Ignitetch/AdvPhishing,PHP,1
 75645659,WordPress/wordpress-develop,PHP,2
-336351066,asantibanez/laravel-blade-sortable,PHP,12
+336351066,asantibanez/laravel-blade-sortable,PHP,13
