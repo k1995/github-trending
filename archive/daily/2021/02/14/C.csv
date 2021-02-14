@@ -1,7 +1,7 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,83
-36502,git/git,C,37
-80286288,arendst/Tasmota,C,18
+36502,git/git,C,38
+80286288,arendst/Tasmota,C,19
 193885464,woltapp/blurhash,C,27
 437011,openzfs/zfs,C,3
 65899476,espressif/esp-idf,C,11
@@ -16,10 +16,10 @@ id,name,lang,new stars
 272457606,jart/cosmopolitan,C,49
 290808391,atc1441/ATC_MiThermometer,C,12
 211756905,MarlinFirmware/Configurations,C,2
-330008801,libsdl-org/SDL,C,243
+330008801,libsdl-org/SDL,C,244
 174312651,waveshare/e-Paper,C,5
-305156553,fabio914/RealityMixer,C,8
-257113637,jdah/minecraft-weekend,C,95
+305156553,fabio914/RealityMixer,C,7
+257113637,jdah/minecraft-weekend,C,92
 331532749,Wren6991/PicoDVI,C,35
 333075012,antirez/stonky,C,20
 331380927,raspberrypi/pico-playground,C,7

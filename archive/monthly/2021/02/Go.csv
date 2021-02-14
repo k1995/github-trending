@@ -1,15 +1,15 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1337
-6838921,prometheus/prometheus,Go,595
-29261473,minio/minio,Go,697
-133251103,wagoodman/dive,Go,598
-31288958,hashicorp/vault,Go,1254
-61137153,evanw/esbuild,Go,2159
-134017286,jesseduffield/lazygit,Go,321
-12080551,tsenart/vegeta,Go,404
-19994257,go-delve/delve,Go,388
-21233191,ipfs/go-ipfs,Go,279
-153099672,inancgumus/learngo,Go,1067
+23096959,golang/go,Go,1339
+6838921,prometheus/prometheus,Go,597
+29261473,minio/minio,Go,698
+133251103,wagoodman/dive,Go,599
+31288958,hashicorp/vault,Go,1271
+61137153,evanw/esbuild,Go,2163
+134017286,jesseduffield/lazygit,Go,323
+12080551,tsenart/vegeta,Go,405
+19994257,go-delve/delve,Go,390
+21233191,ipfs/go-ipfs,Go,280
+153099672,inancgumus/learngo,Go,1068
 162920291,inlets/inlets,Go,647
 100982449,argoproj/argo-workflows,Go,287
 180687624,aquasecurity/trivy,Go,512
@@ -17,7 +17,7 @@ id,name,lang,new stars
 93444615,hashicorp/terraform-provider-aws,Go,225
 184490584,GoogleCloudPlatform/terraformer,Go,153
 87990209,kubernetes/autoscaler,Go,98
-156681830,ffuf/ffuf,Go,287
+156681830,ffuf/ffuf,Go,288
 41561105,go-resty/resty,Go,223
 29778781,slack-go/slack,Go,78
 173785481,tfsec/tfsec,Go,174
