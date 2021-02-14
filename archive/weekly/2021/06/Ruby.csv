@@ -1,18 +1,18 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,70
+65252,jekyll/jekyll,Ruby,74
 27442967,fastlane/fastlane,Ruby,292
 53238813,Homebrew/brew,Ruby,1072
-13840241,freeCodeCamp/devdocs,Ruby,72
-2293158,rapid7/metasploit-framework,Ruby,67
+2293158,rapid7/metasploit-framework,Ruby,73
 481872,hashicorp/vagrant,Ruby,59
 308770,heartcombo/devise,Ruby,28
 3623050,Homebrew/homebrew-cask,Ruby,37
 96395,faker-ruby/faker,Ruby,17
-52855516,Homebrew/homebrew-core,Ruby,56
+611921,activeadmin/activeadmin,Ruby,9
+15435,Shopify/liquid,Ruby,30
 451035,heartcombo/simple_form,Ruby,12
 6529205,varvet/pundit,Ruby,11
 21829,thoughtbot/factory_bot,Ruby,10
-2441517,puma/puma,Ruby,12
 26018608,github-changelog-generator/github-changelog-generator,Ruby,17
 30337170,rmosolgo/graphql-ruby,Ruby,12
 244452551,alexeygrigorev/data-science-interviews,Ruby,74
@@ -20,7 +20,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,14
 1172597,thoughtbot/shoulda-matchers,Ruby,6
 3898922,zammad/zammad,Ruby,10
+11426474,github/choosealicense.com,Ruby,13
 1175581,citation-style-language/styles,Ruby,11
 93163073,dependabot/dependabot-core,Ruby,22
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,99
-7983886,timdorr/tesla-api,Ruby,9
