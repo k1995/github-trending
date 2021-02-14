@@ -3,10 +3,10 @@ id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,278
 7569578,discourse/discourse,Ruby,300
 27442967,fastlane/fastlane,Ruby,501
-53238813,Homebrew/brew,Ruby,1505
+53238813,Homebrew/brew,Ruby,1507
 481872,hashicorp/vagrant,Ruby,216
 308770,heartcombo/devise,Ruby,116
-3623050,Homebrew/homebrew-cask,Ruby,169
+3623050,Homebrew/homebrew-cask,Ruby,170
 1090311,elastic/logstash,Ruby,92
 4095287,rubocop-hq/rubocop,Ruby,69
 96395,faker-ruby/faker,Ruby,69
@@ -16,7 +16,7 @@ id,name,lang,new stars
 108278,chef/chef,Ruby,47
 4994614,wpscanteam/wpscan,Ruby,115
 75785147,rails/webpacker,Ruby,49
-244452551,alexeygrigorev/data-science-interviews,Ruby,148
+244452551,alexeygrigorev/data-science-interviews,Ruby,149
 1314319,instructure/canvas-lms,Ruby,51
 30985840,solidusio/solidus,Ruby,51
 46698467,ankane/strong_migrations,Ruby,76

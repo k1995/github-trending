@@ -1,6 +1,6 @@
 id,name,lang,new stars
 44838949,apple/swift,C++,19
-1181927,bitcoin/bitcoin,C++,65
+1181927,bitcoin/bitcoin,C++,64
 11171548,nlohmann/json,C++,19
 107794782,trojan-gfw/trojan,C++,6
 23129458,aseprite/aseprite,C++,17
@@ -8,7 +8,7 @@ id,name,lang,new stars
 2200856,MarlinFirmware/Marlin,C++,14
 160083795,SerenityOS/serenity,C++,39
 38581626,pybind/pybind11,C++,9
-90902132,flameshot-org/flameshot,C++,672
+90902132,flameshot-org/flameshot,C++,541
 104231541,abseil/abseil-cpp,C++,7
 11577304,dolphin-emu/dolphin,C++,5
 7232856,AGWA/git-crypt,C++,6
