@@ -1,7 +1,7 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,179
-458058,symfony/symfony,PHP,40
-7548986,laravel/framework,PHP,48
+3482588,danielmiessler/SecLists,PHP,183
+458058,symfony/symfony,PHP,41
+7548986,laravel/framework,PHP,50
 1305114,roots/sage,PHP,14
 49014795,phpstan/phpstan,PHP,28
 2884111,magento/magento2,PHP,26
@@ -14,9 +14,9 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,20
 76064827,mailcow/mailcow-dockerized,PHP,35
 11935508,RSS-Bridge/rss-bridge,PHP,36
-62937181,PrivateBin/PrivateBin,PHP,24
+62937181,PrivateBin/PrivateBin,PHP,25
 38200433,jeroennoten/Laravel-AdminLTE,PHP,26
-13044600,salesagility/SuiteCRM,PHP,22
+13044600,salesagility/SuiteCRM,PHP,23
 1957456,Dolibarr/dolibarr,PHP,17
 47508644,pterodactyl/panel,PHP,17
 13914116,librenms/librenms,PHP,15
