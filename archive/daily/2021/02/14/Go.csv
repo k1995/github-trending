@@ -7,7 +7,7 @@ id,name,lang,new stars
 234231371,gofiber/fiber,Go,43
 167596393,derailed/k9s,Go,19
 163883279,nektos/act,Go,46
-153099672,inancgumus/learngo,Go,144
+153099672,inancgumus/learngo,Go,145
 109162639,thanos-io/thanos,Go,4
 48109239,cilium/cilium,Go,16
 77071454,goreleaser/goreleaser,Go,114
@@ -21,6 +21,6 @@ id,name,lang,new stars
 232630362,hashicorp/boundary,Go,10
 120181748,kiali/kiali,Go,6
 93446042,terraform-providers/terraform-provider-azurerm,Go,5
-301830590,benbjohnson/litestream,Go,592
+301830590,benbjohnson/litestream,Go,614
 117377862,gardener/gardener,Go,2
 83363132,CrunchyData/postgres-operator,Go,6
