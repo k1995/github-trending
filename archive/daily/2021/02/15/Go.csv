@@ -2,10 +2,10 @@ id,name,lang,new stars
 11180687,gohugoio/hugo,Go,66
 212613049,cli/cli,Go,47
 14125254,hashicorp/consul,Go,24
-31288958,hashicorp/vault,Go,301
+31288958,hashicorp/vault,Go,54
 61137153,evanw/esbuild,Go,128
 234231371,gofiber/fiber,Go,69
-77071454,goreleaser/goreleaser,Go,445
+77071454,goreleaser/goreleaser,Go,166
 181461073,v2fly/v2ray-core,Go,53
 40453691,GoesToEleven/GolangTraining,Go,10
 40916314,dexidp/dex,Go,9
@@ -23,4 +23,4 @@ id,name,lang,new stars
 135951540,stashapp/stash,Go,8
 191266671,algorand/go-algorand,Go,9
 194645908,apache/apisix-dashboard,Go,3
-289427372,deepfence/SecretScanner,Go,144
+289427372,deepfence/SecretScanner,Go,79
