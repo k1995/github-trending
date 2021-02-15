@@ -4,7 +4,7 @@ id,name,lang,new stars
 3351871,qbittorrent/qBittorrent,C++,26
 2200856,MarlinFirmware/Marlin,C++,33
 18348651,OpenRCT2/OpenRCT2,C++,9
-90902132,flameshot-org/flameshot,C++,1069
+90902132,flameshot-org/flameshot,C++,1177
 11577304,dolphin-emu/dolphin,C++,15
 4454793,musescore/MuseScore,C++,15
 14268809,FastLED/FastLED,C++,13
@@ -18,7 +18,7 @@ id,name,lang,new stars
 178613040,Neargye/magic_enum,C++,26
 237647258,meshtastic/Meshtastic-device,C++,15
 17335372,ThirteenAG/WidescreenFixesPack,C++,8
-310019917,tdlib/telegram-bot-api,C++,7
+310019917,tdlib/telegram-bot-api,C++,9
 238262758,mongoose-os-apps/shelly-homekit,C++,7
 316912509,ggerganov/ggwave,C++,32
 290729873,DustinWatts/FreeTouchDeck,C++,31

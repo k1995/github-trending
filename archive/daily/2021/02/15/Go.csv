@@ -1,19 +1,19 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,66
+11180687,gohugoio/hugo,Go,75
 212613049,cli/cli,Go,47
-14125254,hashicorp/consul,Go,24
+14125254,hashicorp/consul,Go,28
 31288958,hashicorp/vault,Go,54
-61137153,evanw/esbuild,Go,128
-234231371,gofiber/fiber,Go,69
+61137153,evanw/esbuild,Go,140
+234231371,gofiber/fiber,Go,75
 77071454,goreleaser/goreleaser,Go,166
 181461073,v2fly/v2ray-core,Go,53
 40453691,GoesToEleven/GolangTraining,Go,10
 40916314,dexidp/dex,Go,9
-815644,miekg/dns,Go,9
+815644,miekg/dns,Go,12
 144036833,arduino/arduino-cli,Go,5
 99612558,GoogleContainerTools/container-diff,Go,51
 311315731,XTLS/Xray-core,Go,64
-232630362,hashicorp/boundary,Go,15
+232630362,hashicorp/boundary,Go,20
 301830590,benbjohnson/litestream,Go,705
 111455867,smartcontractkit/chainlink,Go,15
 184419299,wasmerio/wasmer-go,Go,63
