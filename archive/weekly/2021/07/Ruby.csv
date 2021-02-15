@@ -2,8 +2,8 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,77
 65252,jekyll/jekyll,Ruby,82
 27442967,fastlane/fastlane,Ruby,296
-53238813,Homebrew/brew,Ruby,1077
-2293158,rapid7/metasploit-framework,Ruby,76
+53238813,Homebrew/brew,Ruby,1079
+2293158,rapid7/metasploit-framework,Ruby,78
 481872,hashicorp/vagrant,Ruby,67
 308770,heartcombo/devise,Ruby,30
 3623050,Homebrew/homebrew-cask,Ruby,42
@@ -14,7 +14,7 @@ id,name,lang,new stars
 6529205,varvet/pundit,Ruby,12
 21829,thoughtbot/factory_bot,Ruby,12
 26018608,github-changelog-generator/github-changelog-generator,Ruby,17
-30337170,rmosolgo/graphql-ruby,Ruby,14
+30337170,rmosolgo/graphql-ruby,Ruby,15
 244452551,alexeygrigorev/data-science-interviews,Ruby,80
 1952825,Homebrew/homebrew-bundle,Ruby,18
 30985840,solidusio/solidus,Ruby,15
@@ -23,4 +23,4 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,13
 1175581,citation-style-language/styles,Ruby,12
 93163073,dependabot/dependabot-core,Ruby,22
-194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,101
+194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,102
