@@ -1,7 +1,7 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,142
-458058,symfony/symfony,PHP,40
-7548986,laravel/framework,PHP,49
+3482588,danielmiessler/SecLists,PHP,137
+458058,symfony/symfony,PHP,39
+7548986,laravel/framework,PHP,50
 1305114,roots/sage,PHP,13
 2884111,magento/magento2,PHP,19
 11340559,deployphp/deployer,PHP,19
@@ -9,18 +9,18 @@ id,name,lang,new stars
 12166778,googleapis/google-api-php-client,PHP,18
 2179920,woocommerce/woocommerce,PHP,19
 2141186,opencart/opencart,PHP,12
-21298446,firefly-iii/firefly-iii,PHP,53
+21298446,firefly-iii/firefly-iii,PHP,55
 6763587,PrestaShop/PrestaShop,PHP,12
 3217621,phpmyadmin/phpmyadmin,PHP,15
-76064827,mailcow/mailcow-dockerized,PHP,29
+76064827,mailcow/mailcow-dockerized,PHP,30
 38200433,jeroennoten/Laravel-AdminLTE,PHP,21
-13044600,salesagility/SuiteCRM,PHP,19
+13044600,salesagility/SuiteCRM,PHP,17
 1957456,Dolibarr/dolibarr,PHP,14
 69691727,pmmp/PocketMine-MP,PHP,11
-13914116,librenms/librenms,PHP,11
+13914116,librenms/librenms,PHP,12
 18628501,lexik/LexikJWTAuthenticationBundle,PHP,6
-16455664,tastyigniter/TastyIgniter,PHP,350
+16455664,tastyigniter/TastyIgniter,PHP,336
 131995661,shopware/platform,PHP,13
 204114509,solstice23/argon-theme,PHP,28
-34407154,cweagans/composer-patches,PHP,26
-323709695,AndreasElia/laravel-api-to-postman,PHP,58
+34407154,cweagans/composer-patches,PHP,24
+323709695,AndreasElia/laravel-api-to-postman,PHP,55

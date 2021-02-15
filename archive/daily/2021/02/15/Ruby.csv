@@ -2,12 +2,12 @@ id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,8
 8681349,huginn/huginn,Ruby,14
 52281283,tootsuite/mastodon,Ruby,25
-2293158,rapid7/metasploit-framework,Ruby,31
+2293158,rapid7/metasploit-framework,Ruby,8
 73648678,forem/forem,Ruby,13
 2203645,CocoaPods/CocoaPods,Ruby,2
 106995,sinatra/sinatra,Ruby,0
-108278,chef/chef,Ruby,1
-4994614,wpscanteam/wpscan,Ruby,10
+108278,chef/chef,Ruby,2
+4994614,wpscanteam/wpscan,Ruby,3
 37997,jnunemaker/httparty,Ruby,1
 75785147,rails/webpacker,Ruby,6
 4523235,asciidoctor/asciidoctor,Ruby,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 24802725,starburstgem/starburst,Ruby,0
 1378915,citation-style-language/locales,Ruby,0
 146444134,SDWebImage/libwebp-Xcode,Ruby,0
-328413584,ghaiklor/type-challenges-solutions,Ruby,6
+328413584,ghaiklor/type-challenges-solutions,Ruby,3
 201115227,pivotal-cf/shared-redis-release,Ruby,0
 284100962,appdev-projects/classroom-queries-debug,Ruby,0
 201628799,learn-co-curriculum/active-record-associations-and-migrations,Ruby,0
