@@ -7,7 +7,7 @@ id,name,lang,new stars
 107794782,trojan-gfw/trojan,C++,10
 125098880,ValveSoftware/Proton,C++,13
 2200856,MarlinFirmware/Marlin,C++,57
-90902132,flameshot-org/flameshot,C++,379
+90902132,flameshot-org/flameshot,C++,366
 18348651,OpenRCT2/OpenRCT2,C++,3
 5736080,FreeCAD/FreeCAD,C++,8
 11577304,dolphin-emu/dolphin,C++,5
@@ -18,8 +18,8 @@ id,name,lang,new stars
 89067146,ethereum-mining/ethminer,C++,17
 22660515,onqtam/doctest,C++,2
 19347340,nanocurrency/nano-node,C++,5
+186847792,GTAmodding/re3,C++,1036
 18719856,Stellarium/stellarium,C++,0
-186847792,GTAmodding/re3,C++,1019
 39283837,HowardHinnant/date,C++,3
 147106288,OneLoneCoder/olcPixelGameEngine,C++,9
 248058818,wolfpld/tracy,C++,7
