@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,57
-65252,jekyll/jekyll,Ruby,63
-27442967,fastlane/fastlane,Ruby,60
-2293158,rapid7/metasploit-framework,Ruby,61
+8514,rails/rails,Ruby,58
+65252,jekyll/jekyll,Ruby,62
+27442967,fastlane/fastlane,Ruby,61
+2293158,rapid7/metasploit-framework,Ruby,62
 481872,hashicorp/vagrant,Ruby,46
-308770,heartcombo/devise,Ruby,22
-3623050,Homebrew/homebrew-cask,Ruby,22
+308770,heartcombo/devise,Ruby,21
+3623050,Homebrew/homebrew-cask,Ruby,20
 4095287,rubocop-hq/rubocop,Ruby,14
 96395,faker-ruby/faker,Ruby,10
 611921,activeadmin/activeadmin,Ruby,9
@@ -16,11 +16,11 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,9
 75785147,rails/webpacker,Ruby,10
 30337170,rmosolgo/graphql-ruby,Ruby,14
-244452551,alexeygrigorev/data-science-interviews,Ruby,81
-1952825,Homebrew/homebrew-bundle,Ruby,20
+244452551,alexeygrigorev/data-science-interviews,Ruby,83
+1952825,Homebrew/homebrew-bundle,Ruby,19
 30985840,solidusio/solidus,Ruby,12
 1172597,thoughtbot/shoulda-matchers,Ruby,5
-1175581,citation-style-language/styles,Ruby,10
+1175581,citation-style-language/styles,Ruby,9
 93163073,dependabot/dependabot-core,Ruby,13
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,39
 287253130,sylwiavargas/active-record-crud-practice,Ruby,1

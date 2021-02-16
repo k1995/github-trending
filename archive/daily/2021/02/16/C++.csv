@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,187
-15634981,godotengine/godot,C++,20
+1181927,bitcoin/bitcoin,C++,190
+15634981,godotengine/godot,C++,16
 22067521,ocornut/imgui,C++,36
 74627617,commaai/openpilot,C++,31
 13862381,DrKLO/Telegram,C++,6
 107794782,trojan-gfw/trojan,C++,10
 125098880,ValveSoftware/Proton,C++,13
 2200856,MarlinFirmware/Marlin,C++,57
-90902132,flameshot-org/flameshot,C++,366
+90902132,flameshot-org/flameshot,C++,380
 18348651,OpenRCT2/OpenRCT2,C++,3
 5736080,FreeCAD/FreeCAD,C++,8
 11577304,dolphin-emu/dolphin,C++,5
@@ -18,7 +18,7 @@ id,name,lang,new stars
 89067146,ethereum-mining/ethminer,C++,17
 22660515,onqtam/doctest,C++,2
 19347340,nanocurrency/nano-node,C++,5
-186847792,GTAmodding/re3,C++,1036
+186847792,GTAmodding/re3,C++,1030
 18719856,Stellarium/stellarium,C++,0
 39283837,HowardHinnant/date,C++,3
 147106288,OneLoneCoder/olcPixelGameEngine,C++,9
