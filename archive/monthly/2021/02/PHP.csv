@@ -1,21 +1,21 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,501
 1420053,guzzle/guzzle,PHP,151
-2253830,PHPMailer/PHPMailer,PHP,182
-2889328,WordPress/WordPress,PHP,122
+2253830,PHPMailer/PHPMailer,PHP,185
+2889328,WordPress/WordPress,PHP,120
 2884111,magento/magento2,PHP,108
-2699935,squizlabs/PHP_CodeSniffer,PHP,92
+2699935,squizlabs/PHP_CodeSniffer,PHP,93
 2179920,woocommerce/woocommerce,PHP,86
-41589337,BookStackApp/BookStack,PHP,204
+41589337,BookStackApp/BookStack,PHP,202
 2141186,opencart/opencart,PHP,84
 16238673,kanboard/kanboard,PHP,75
-86350964,the-benchmarker/web-frameworks,PHP,330
+86350964,the-benchmarker/web-frameworks,PHP,328
 14346979,snipe/snipe-it,PHP,85
-12204147,mautic/mautic,PHP,78
-95011974,akaunting/akaunting,PHP,116
+12204147,mautic/mautic,PHP,76
+95011974,akaunting/akaunting,PHP,117
 4224042,roundcube/roundcubemail,PHP,43
-439861,moodle/moodle,PHP,76
-38200433,jeroennoten/Laravel-AdminLTE,PHP,86
+439861,moodle/moodle,PHP,75
+38200433,jeroennoten/Laravel-AdminLTE,PHP,85
 13044600,salesagility/SuiteCRM,PHP,63
 44733816,privacy-protection-tools/anti-AD,PHP,191
 1957456,Dolibarr/dolibarr,PHP,67
@@ -23,4 +23,4 @@ id,name,lang,new stars
 13914116,librenms/librenms,PHP,60
 16455664,tastyigniter/TastyIgniter,PHP,660
 27195711,alextselegidis/easyappointments,PHP,79
-286645686,yuantuo666/baiduwp-php,PHP,190
+286645686,yuantuo666/baiduwp-php,PHP,189
