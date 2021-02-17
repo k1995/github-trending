@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1613345,StackExchange/Dapper,C#,5
-28239455,dotnet/AspNetCore.Docs,C#,8
+28239455,dotnet/AspNetCore.Docs,C#,7
 46652227,IdentityServer/IdentityServer4,C#,3
 54213490,xamarin/Xamarin.Forms,C#,6
 113807330,migueldeicaza/gui.cs,C#,7
@@ -11,9 +11,9 @@ id,name,lang,new stars
 31335300,PrismLibrary/Prism,C#,3
 50605426,microsoft/MixedRealityToolkit-Unity,C#,3
 50244673,inkle/ink,C#,39
-117102183,ChilliCream/hotchocolate,C#,4
+117102183,ChilliCream/hotchocolate,C#,3
 64226740,microsoft/aspnet-api-versioning,C#,4
-100711978,btcpayserver/btcpayserver,C#,6
+100711978,btcpayserver/btcpayserver,C#,12
 187499284,Cysharp/UniTask,C#,2
 77180761,xamarin/XamarinCommunityToolkit,C#,4
 272887007,ModernFlyouts-Community/ModernFlyouts,C#,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,4
 83204594,microsoft/PowerBI-Developer-Samples,C#,0
 107303134,JKorf/Binance.Net,C#,3
-334905503,gulceselim/re-cap-project-with-csharp,C#,14
-338304086,SebLague/Chess-AI,C#,49
-296298081,pnp/powershell,C#,2
+334905503,gulceselim/re-cap-project-with-csharp,C#,13
+338304086,SebLague/Chess-AI,C#,47
+296298081,pnp/powershell,C#,1

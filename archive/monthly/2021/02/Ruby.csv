@@ -2,8 +2,8 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,283
 65252,jekyll/jekyll,Ruby,274
 7569578,discourse/discourse,Ruby,271
-27442967,fastlane/fastlane,Ruby,477
-53238813,Homebrew/brew,Ruby,1473
+27442967,fastlane/fastlane,Ruby,478
+53238813,Homebrew/brew,Ruby,1475
 481872,hashicorp/vagrant,Ruby,207
 308770,heartcombo/devise,Ruby,107
 3623050,Homebrew/homebrew-cask,Ruby,170
@@ -11,9 +11,9 @@ id,name,lang,new stars
 1090311,elastic/logstash,Ruby,89
 4095287,rubocop-hq/rubocop,Ruby,66
 96395,faker-ruby/faker,Ruby,59
-15435,Shopify/liquid,Ruby,95
-21829,thoughtbot/factory_bot,Ruby,42
-2441517,puma/puma,Ruby,39
+15435,Shopify/liquid,Ruby,94
+21829,thoughtbot/factory_bot,Ruby,43
+2441517,puma/puma,Ruby,38
 108278,chef/chef,Ruby,46
 75785147,rails/webpacker,Ruby,42
 30337170,rmosolgo/graphql-ruby,Ruby,38
