@@ -1,16 +1,16 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,27
-42408804,traefik/traefik,Go,11
+42408804,traefik/traefik,Go,12
 72495579,go-gitea/gitea,Go,8
 401025,github/hub,Go,8
 97533102,halfrost/LeetCode-Go,Go,34
-66573241,hyperledger/fabric,Go,7
+66573241,hyperledger/fabric,Go,8
 33258973,influxdata/telegraf,Go,3
-36653430,hashicorp/nomad,Go,15
-100982449,argoproj/argo-workflows,Go,7
+36653430,hashicorp/nomad,Go,10
+100982449,argoproj/argo-workflows,Go,8
 109145553,containers/podman,Go,13
 40453691,GoesToEleven/GolangTraining,Go,1
-120896210,argoproj/argo-cd,Go,11
+120896210,argoproj/argo-cd,Go,14
 140457254,OWASP/Amass,Go,11
 9646845,go-pg/pg,Go,6
 93928882,swaggo/swag,Go,7
@@ -19,8 +19,8 @@ id,name,lang,new stars
 22861717,jasonlvhit/gocron,Go,7
 93446042,terraform-providers/terraform-provider-azurerm,Go,2
 117377862,gardener/gardener,Go,2
-91074692,zalando/postgres-operator,Go,1
+91074692,zalando/postgres-operator,Go,0
 97983364,vouch/vouch-proxy,Go,2
+289427372,deepfence/SecretScanner,Go,208
 126576769,Velocidex/velociraptor,Go,6
-289427372,deepfence/SecretScanner,Go,220
-191266671,algorand/go-algorand,Go,5
+191266671,algorand/go-algorand,Go,6
