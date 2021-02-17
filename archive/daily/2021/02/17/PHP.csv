@@ -14,8 +14,8 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,1
 74386167,vimeo/psalm,PHP,12
 2784293,php-amqplib/php-amqplib,PHP,0
-439861,moodle/moodle,PHP,3
-148129143,bagisto/bagisto,PHP,0
+439861,moodle/moodle,PHP,2
+148129143,bagisto/bagisto,PHP,1
 31595609,mpdf/mpdf,PHP,2
 44714043,jeremykenedy/laravel-auth,PHP,0
 56836583,postaddictme/instagram-php-scraper,PHP,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 204472210,facade/ignition,PHP,3
 39698170,pi-hole/AdminLTE,PHP,3
 36526302,pentestmonkey/php-reverse-shell,PHP,3
-338511774,easychen/docker2saas,PHP,23
+338511774,easychen/docker2saas,PHP,25

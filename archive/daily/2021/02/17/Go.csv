@@ -1,10 +1,10 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,27
-42408804,traefik/traefik,Go,8
+42408804,traefik/traefik,Go,11
 72495579,go-gitea/gitea,Go,8
 401025,github/hub,Go,8
 97533102,halfrost/LeetCode-Go,Go,34
-66573241,hyperledger/fabric,Go,6
+66573241,hyperledger/fabric,Go,7
 33258973,influxdata/telegraf,Go,3
 36653430,hashicorp/nomad,Go,15
 100982449,argoproj/argo-workflows,Go,7
@@ -22,5 +22,5 @@ id,name,lang,new stars
 91074692,zalando/postgres-operator,Go,1
 97983364,vouch/vouch-proxy,Go,2
 126576769,Velocidex/velociraptor,Go,6
-289427372,deepfence/SecretScanner,Go,208
+289427372,deepfence/SecretScanner,Go,220
 191266671,algorand/go-algorand,Go,5
