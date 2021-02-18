@@ -2,7 +2,7 @@ id,name,lang,new stars
 7691631,moby/moby,Go,8
 17728164,hashicorp/terraform,Go,19
 13124802,influxdata/influxdb,Go,5
-61137153,evanw/esbuild,Go,152
+61137153,evanw/esbuild,Go,145
 41349039,dgraph-io/dgraph,Go,67
 136815833,Dreamacro/clash,Go,18
 66573241,hyperledger/fabric,Go,7
@@ -15,10 +15,10 @@ id,name,lang,new stars
 27576132,aws/aws-sdk-go,Go,4
 26726495,go-swagger/go-swagger,Go,1
 93444615,hashicorp/terraform-provider-aws,Go,7
-120896210,argoproj/argo-cd,Go,8
+120896210,argoproj/argo-cd,Go,9
 134539560,weaveworks/eksctl,Go,4
 311315731,XTLS/Xray-core,Go,35
-22861717,jasonlvhit/gocron,Go,4
+22861717,jasonlvhit/gocron,Go,6
 93446075,hashicorp/terraform-provider-google,Go,1
 325724738,pyroscope-io/pyroscope,Go,67
 289427372,deepfence/SecretScanner,Go,212

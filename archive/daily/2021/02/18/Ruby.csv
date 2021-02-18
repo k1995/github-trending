@@ -1,11 +1,11 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,6
-27442967,fastlane/fastlane,Ruby,7
+27442967,fastlane/fastlane,Ruby,8
 308770,heartcombo/devise,Ruby,2
-538746,ruby/ruby,Ruby,8
-2203645,CocoaPods/CocoaPods,Ruby,1
-1090311,elastic/logstash,Ruby,1
-1918677,fluent/fluentd,Ruby,2
+538746,ruby/ruby,Ruby,7
+2203645,CocoaPods/CocoaPods,Ruby,2
+1090311,elastic/logstash,Ruby,0
+1918677,fluent/fluentd,Ruby,1
 96395,faker-ruby/faker,Ruby,1
 587311,omniauth/omniauth,Ruby,4
 6529205,varvet/pundit,Ruby,0
@@ -14,13 +14,13 @@ id,name,lang,new stars
 108278,chef/chef,Ruby,3
 4994614,wpscanteam/wpscan,Ruby,2
 2889230,rails-api/active_model_serializers,Ruby,0
-6899875,opf/openproject,Ruby,2
+6899875,opf/openproject,Ruby,4
 52316423,luggit/react-native-config,Ruby,4
-30985840,solidusio/solidus,Ruby,1
+30985840,solidusio/solidus,Ruby,2
 14238949,elastic/elasticsearch-rails,Ruby,1
 614070,rubygems/rubygems,Ruby,0
 9831101,elastic/elasticsearch-ruby,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,2
 644899,onelogin/ruby-saml,Ruby,1
-259828991,sureJiang0/MSBlockButton,Ruby,38
+259828991,sureJiang0/MSBlockButton,Ruby,36
 66497320,DataDog/dd-trace-rb,Ruby,0
