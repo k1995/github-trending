@@ -1,6 +1,6 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,6
-27442967,fastlane/fastlane,Ruby,8
+27442967,fastlane/fastlane,Ruby,10
 308770,heartcombo/devise,Ruby,2
 538746,ruby/ruby,Ruby,8
 2203645,CocoaPods/CocoaPods,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 9831101,elastic/elasticsearch-ruby,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,2
 644899,onelogin/ruby-saml,Ruby,1
-259828991,sureJiang0/MSBlockButton,Ruby,37
+259828991,sureJiang0/MSBlockButton,Ruby,36
 66497320,DataDog/dd-trace-rb,Ruby,0
