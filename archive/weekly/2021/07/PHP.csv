@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,127
+3482588,danielmiessler/SecLists,PHP,130
 458058,symfony/symfony,PHP,34
 1305114,roots/sage,PHP,23
 5627682,serbanghita/Mobile-Detect,PHP,9
 49014795,phpstan/phpstan,PHP,23
 597887,doctrine/orm,PHP,19
-12166778,googleapis/google-api-php-client,PHP,22
+12166778,googleapis/google-api-php-client,PHP,23
 2179920,woocommerce/woocommerce,PHP,19
-41589337,BookStackApp/BookStack,PHP,43
+41589337,BookStackApp/BookStack,PHP,42
 21298446,firefly-iii/firefly-iii,PHP,71
-14346979,snipe/snipe-it,PHP,11
-12204147,mautic/mautic,PHP,17
-74386167,vimeo/psalm,PHP,38
+14346979,snipe/snipe-it,PHP,12
+12204147,mautic/mautic,PHP,16
+74386167,vimeo/psalm,PHP,39
 97311017,rectorphp/rector,PHP,37
 95011974,akaunting/akaunting,PHP,21
 76064827,mailcow/mailcow-dockerized,PHP,17
