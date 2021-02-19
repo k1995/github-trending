@@ -1,12 +1,12 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,278
-7569578,discourse/discourse,Ruby,274
-27442967,fastlane/fastlane,Ruby,477
-53238813,Homebrew/brew,Ruby,1475
+7569578,discourse/discourse,Ruby,273
+27442967,fastlane/fastlane,Ruby,476
+53238813,Homebrew/brew,Ruby,1476
 481872,hashicorp/vagrant,Ruby,207
-308770,heartcombo/devise,Ruby,106
-3623050,Homebrew/homebrew-cask,Ruby,165
-1090311,elastic/logstash,Ruby,89
+308770,heartcombo/devise,Ruby,105
+3623050,Homebrew/homebrew-cask,Ruby,166
+1090311,elastic/logstash,Ruby,90
 4095287,rubocop-hq/rubocop,Ruby,73
 1918677,fluent/fluentd,Ruby,130
 96395,faker-ruby/faker,Ruby,56
@@ -22,5 +22,5 @@ id,name,lang,new stars
 46698467,ankane/strong_migrations,Ruby,70
 11426474,github/choosealicense.com,Ruby,52
 154027884,samber/awesome-prometheus-alerts,Ruby,242
-103766152,github/explore,Ruby,67
+103766152,github/explore,Ruby,69
 93163073,dependabot/dependabot-core,Ruby,73
