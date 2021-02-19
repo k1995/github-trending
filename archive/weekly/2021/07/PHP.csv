@@ -1,7 +1,7 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,136
-1864363,composer/composer,PHP,42
-448045,sebastianbergmann/phpunit,PHP,39
+3482588,danielmiessler/SecLists,PHP,137
+1864363,composer/composer,PHP,45
+448045,sebastianbergmann/phpunit,PHP,40
 47495360,koel/koel,PHP,41
 1305114,roots/sage,PHP,23
 2884111,magento/magento2,PHP,27
@@ -15,7 +15,7 @@ id,name,lang,new stars
 627735,vrana/adminer,PHP,22
 12204147,mautic/mautic,PHP,14
 74386167,vimeo/psalm,PHP,34
-97311017,rectorphp/rector,PHP,42
+97311017,rectorphp/rector,PHP,43
 76064827,mailcow/mailcow-dockerized,PHP,19
 30567860,mevdschee/php-crud-api,PHP,11
 69691727,pmmp/PocketMine-MP,PHP,14
