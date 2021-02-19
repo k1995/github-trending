@@ -1,11 +1,11 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,86
-36502,git/git,C,105
-14812739,libuv/libuv,C,49
-15337142,micropython/micropython,C,70
-84240850,timescale/timescaledb,C,53
-27737393,qmk/qmk_firmware,C,55
-3199002,raspberrypi/linux,C,21
+10744183,netdata/netdata,C,89
+36502,git/git,C,107
+14812739,libuv/libuv,C,50
+15337142,micropython/micropython,C,72
+84240850,timescale/timescaledb,C,55
+27737393,qmk/qmk_firmware,C,57
+3199002,raspberrypi/linux,C,22
 45821540,openwrt/openwrt,C,56
 100781035,webview/webview,C,75
 3319040,id-Software/DOOM,C,35
@@ -13,8 +13,8 @@ id,name,lang,new stars
 3318027,id-Software/Quake-III-Arena,C,23
 190845267,n64decomp/sm64,C,24
 3349840,hak5darren/USB-Rubber-Ducky,C,19
-59771425,zephyrproject-rtos/zephyr,C,26
-8270972,ARMmbed/mbed-os,C,17
+59771425,zephyrproject-rtos/zephyr,C,27
+8270972,ARMmbed/mbed-os,C,19
 320921453,yamashi/CyberEngineTweaks,C,96
 205810121,CloverHackyColor/CloverBootloader,C,25
 7705639,merbanan/rtl_433,C,39
@@ -22,5 +22,5 @@ id,name,lang,new stars
 40556106,wazuh/wazuh,C,16
 293316071,bellard/quickjs,C,58
 272457606,jart/cosmopolitan,C,59
-257113637,jdah/minecraft-weekend,C,282
+257113637,jdah/minecraft-weekend,C,283
 337607425,ModernPwner/cicuta_virosa,C,100
