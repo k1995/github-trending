@@ -1,16 +1,16 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,278
+65252,jekyll/jekyll,Ruby,277
 7569578,discourse/discourse,Ruby,273
-27442967,fastlane/fastlane,Ruby,476
-53238813,Homebrew/brew,Ruby,1476
+27442967,fastlane/fastlane,Ruby,477
+53238813,Homebrew/brew,Ruby,1478
 481872,hashicorp/vagrant,Ruby,207
 308770,heartcombo/devise,Ruby,105
-3623050,Homebrew/homebrew-cask,Ruby,166
-1090311,elastic/logstash,Ruby,90
+3623050,Homebrew/homebrew-cask,Ruby,165
+1090311,elastic/logstash,Ruby,91
 4095287,rubocop-hq/rubocop,Ruby,73
 1918677,fluent/fluentd,Ruby,130
 96395,faker-ruby/faker,Ruby,56
-15435,Shopify/liquid,Ruby,98
+15435,Shopify/liquid,Ruby,97
 21829,thoughtbot/factory_bot,Ruby,45
 108278,chef/chef,Ruby,47
 4994614,wpscanteam/wpscan,Ruby,112
@@ -18,9 +18,9 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,92
 30337170,rmosolgo/graphql-ruby,Ruby,38
 244452551,alexeygrigorev/data-science-interviews,Ruby,165
-30985840,solidusio/solidus,Ruby,54
+30985840,solidusio/solidus,Ruby,53
 46698467,ankane/strong_migrations,Ruby,70
-11426474,github/choosealicense.com,Ruby,52
+11426474,github/choosealicense.com,Ruby,51
 154027884,samber/awesome-prometheus-alerts,Ruby,242
 103766152,github/explore,Ruby,69
 93163073,dependabot/dependabot-core,Ruby,73
