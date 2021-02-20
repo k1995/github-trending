@@ -1,12 +1,12 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,698
-17620347,dotnet/aspnetcore,C#,526
-70104825,dotnet-architecture/eShopOnContainers,C#,353
+49609581,PowerShell/PowerShell,C#,701
+17620347,dotnet/aspnetcore,C#,529
+199570071,2dust/v2rayN,C#,900
+70104825,dotnet-architecture/eShopOnContainers,C#,355
 29078997,dotnet/roslyn,C#,146
 1613345,StackExchange/Dapper,C#,152
-14964475,AvaloniaUI/Avalonia,C#,283
-28239455,dotnet/AspNetCore.Docs,C#,295
-46755185,bitwarden/server,C#,365
+28239455,dotnet/AspNetCore.Docs,C#,296
+46755185,bitwarden/server,C#,367
 104670977,dvf/blockchain,C#,93
 54213490,xamarin/Xamarin.Forms,C#,80
 210716005,dotnet/runtime,C#,256
@@ -16,11 +16,11 @@ id,name,lang,new stars
 142480903,microsoft/microsoft-ui-xaml,C#,146
 23891194,Azure/azure-powershell,C#,122
 2928944,Azure/azure-sdk-for-net,C#,56
-39425864,tModLoader/tModLoader,C#,50
 184286875,actions/runner,C#,79
-77180761,xamarin/XamarinCommunityToolkit,C#,114
-263503250,Azure/bicep,C#,200
-272887007,ModernFlyouts-Community/ModernFlyouts,C#,229
-235046065,JavScraper/Emby.Plugins.JavScraper,C#,106
+77180761,xamarin/XamarinCommunityToolkit,C#,116
+321682465,SteamTools-Team/SteamTools,C#,379
+263503250,Azure/bicep,C#,204
+272887007,ModernFlyouts-Community/ModernFlyouts,C#,231
+270838404,microsoft/win32metadata,C#,636
 288428676,Garderoben/MudBlazor,C#,196
 324421322,Woodi-dev/Among-Us-Sheriff-Mod,C#,131

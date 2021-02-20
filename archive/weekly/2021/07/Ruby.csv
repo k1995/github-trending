@@ -1,20 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,65
-65252,jekyll/jekyll,Ruby,74
+8514,rails/rails,Ruby,66
+7569578,discourse/discourse,Ruby,71
 8681349,huginn/huginn,Ruby,50
-2293158,rapid7/metasploit-framework,Ruby,65
-308770,heartcombo/devise,Ruby,13
+2293158,rapid7/metasploit-framework,Ruby,66
 3623050,Homebrew/homebrew-cask,Ruby,34
-37382858,kilimchoi/engineering-blogs,Ruby,35
-73648678,forem/forem,Ruby,56
-4095287,rubocop-hq/rubocop,Ruby,15
-585285,gollum/gollum,Ruby,22
+73648678,forem/forem,Ruby,58
+2203645,CocoaPods/CocoaPods,Ruby,16
+911765,diaspora/diaspora,Ruby,15
+3314,spree/spree,Ruby,19
 96395,faker-ruby/faker,Ruby,5
 611921,activeadmin/activeadmin,Ruby,13
-52855516,Homebrew/homebrew-core,Ruby,51
+52855516,Homebrew/homebrew-core,Ruby,52
 451035,heartcombo/simple_form,Ruby,13
 21829,thoughtbot/factory_bot,Ruby,11
-202291859,chatwoot/chatwoot,Ruby,81
+202291859,chatwoot/chatwoot,Ruby,82
 75785147,rails/webpacker,Ruby,8
 30337170,rmosolgo/graphql-ruby,Ruby,9
 244452551,alexeygrigorev/data-science-interviews,Ruby,46
@@ -24,3 +23,4 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,5
 103766152,github/explore,Ruby,17
 200302808,github/view_component,Ruby,20
+333438953,davidesantangelo/dato.rss,Ruby,40
