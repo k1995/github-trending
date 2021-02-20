@@ -1,21 +1,21 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,203
+458058,symfony/symfony,PHP,204
 7548986,laravel/framework,PHP,507
-1420053,guzzle/guzzle,PHP,155
-2253830,PHPMailer/PHPMailer,PHP,183
+1420053,guzzle/guzzle,PHP,156
+2253830,PHPMailer/PHPMailer,PHP,184
 2889328,WordPress/WordPress,PHP,129
 60243197,nextcloud/server,PHP,334
 1305114,roots/sage,PHP,71
 597887,doctrine/orm,PHP,94
-2699935,squizlabs/PHP_CodeSniffer,PHP,108
+2699935,squizlabs/PHP_CodeSniffer,PHP,109
 2179920,woocommerce/woocommerce,PHP,90
 41589337,BookStackApp/BookStack,PHP,216
 2141186,opencart/opencart,PHP,84
 16238673,kanboard/kanboard,PHP,73
-86350964,the-benchmarker/web-frameworks,PHP,270
-12204147,mautic/mautic,PHP,78
+86350964,the-benchmarker/web-frameworks,PHP,272
+12204147,mautic/mautic,PHP,80
 95011974,akaunting/akaunting,PHP,113
-41463886,codeigniter4/CodeIgniter4,PHP,88
+41463886,codeigniter4/CodeIgniter4,PHP,89
 38200433,jeroennoten/Laravel-AdminLTE,PHP,86
 13044600,salesagility/SuiteCRM,PHP,63
 1957456,Dolibarr/dolibarr,PHP,63
@@ -23,4 +23,4 @@ id,name,lang,new stars
 13914116,librenms/librenms,PHP,61
 16455664,tastyigniter/TastyIgniter,PHP,666
 27195711,alextselegidis/easyappointments,PHP,81
-286645686,yuantuo666/baiduwp-php,PHP,213
+286645686,yuantuo666/baiduwp-php,PHP,214
