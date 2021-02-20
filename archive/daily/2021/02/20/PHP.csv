@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,33
+1863329,laravel/laravel,PHP,34
 1376664,Seldaek/monolog,PHP,8
 2889328,WordPress/WordPress,PHP,9
 1631570,nikic/PHP-Parser,PHP,9
@@ -17,10 +17,10 @@ id,name,lang,new stars
 14127912,sebastianbergmann/comparator,PHP,4
 8016381,sebastianbergmann/exporter,PHP,4
 16699803,sebastianbergmann/environment,PHP,4
-6763587,PrestaShop/PrestaShop,PHP,2
-16685462,humhub/humhub,PHP,3
+6763587,PrestaShop/PrestaShop,PHP,3
+16685462,humhub/humhub,PHP,4
 6269013,aws/aws-sdk-php,PHP,4
 2784293,php-amqplib/php-amqplib,PHP,4
 1740040,pfsense/pfsense,PHP,5
-11222414,jmespath/jmespath.php,PHP,5
+11222414,jmespath/jmespath.php,PHP,8
 311448648,laravel/breeze,PHP,12
