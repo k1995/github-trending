@@ -1,20 +1,20 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,1316
-1181927,bitcoin/bitcoin,C++,1662
-15634981,godotengine/godot,C++,792
-22067521,ocornut/imgui,C++,1261
+100060912,microsoft/terminal,C++,1318
+1181927,bitcoin/bitcoin,C++,1664
+15634981,godotengine/godot,C++,790
+22067521,ocornut/imgui,C++,1262
 4524181,facebook/folly,C++,197
 63477612,TheAlgorithms/C-Plus-Plus,C++,1446
 47690142,CoatiSoftware/Sourcetrail,C++,1041
 90902132,flameshot-org/flameshot,C++,1910
-160083795,SerenityOS/serenity,C++,989
+160083795,SerenityOS/serenity,C++,988
 104231541,abseil/abseil-cpp,C++,138
 14887195,gzc/CLRS,C++,516
-51905353,apache/arrow,C++,318
+51905353,apache/arrow,C++,317
 204593825,microsoft/STL,C++,147
 23086893,google/re2,C++,92
 7550637,xenia-project/xenia,C++,149
-14981376,dogecoin/dogecoin,C++,1785
+14981376,dogecoin/dogecoin,C++,1787
 193305104,barry-ran/QtScrcpy,C++,206
 89067146,ethereum-mining/ethminer,C++,381
 88327406,xmrig/xmrig,C++,263
@@ -23,4 +23,4 @@ id,name,lang,new stars
 79160357,citizenfx/fivem,C++,72
 10599951,emilybache/GildedRose-Refactoring-Kata,C++,57
 237647258,meshtastic/Meshtastic-device,C++,197
-321543928,Rubberduckycooly/Sonic-1-2-2013-Decompilation,C++,282
+321543928,Rubberduckycooly/Sonic-1-2-2013-Decompilation,C++,275
