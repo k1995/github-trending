@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,63
-65252,jekyll/jekyll,Ruby,75
-8681349,huginn/huginn,Ruby,46
-2293158,rapid7/metasploit-framework,Ruby,63
-308770,heartcombo/devise,Ruby,14
+8514,rails/rails,Ruby,64
+65252,jekyll/jekyll,Ruby,74
+8681349,huginn/huginn,Ruby,49
+2293158,rapid7/metasploit-framework,Ruby,61
+308770,heartcombo/devise,Ruby,13
 3623050,Homebrew/homebrew-cask,Ruby,32
 37382858,kilimchoi/engineering-blogs,Ruby,25
 73648678,forem/forem,Ruby,53
@@ -14,7 +14,7 @@ id,name,lang,new stars
 52855516,Homebrew/homebrew-core,Ruby,49
 451035,heartcombo/simple_form,Ruby,13
 21829,thoughtbot/factory_bot,Ruby,11
-202291859,chatwoot/chatwoot,Ruby,79
+202291859,chatwoot/chatwoot,Ruby,80
 75785147,rails/webpacker,Ruby,8
 30337170,rmosolgo/graphql-ruby,Ruby,9
 244452551,alexeygrigorev/data-science-interviews,Ruby,44
@@ -22,5 +22,5 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,13
 1172597,thoughtbot/shoulda-matchers,Ruby,4
 614070,rubygems/rubygems,Ruby,5
-103766152,github/explore,Ruby,16
+103766152,github/explore,Ruby,17
 200302808,github/view_component,Ruby,20
