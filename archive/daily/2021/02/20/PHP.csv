@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,24
-1376664,Seldaek/monolog,PHP,6
+1863329,laravel/laravel,PHP,28
+1376664,Seldaek/monolog,PHP,7
 2889328,WordPress/WordPress,PHP,8
-1631570,nikic/PHP-Parser,PHP,7
-60243197,nextcloud/server,PHP,11
+1631570,nikic/PHP-Parser,PHP,8
+60243197,nextcloud/server,PHP,21
 8678290,barryvdh/laravel-ide-helper,PHP,7
-48796179,z-song/laravel-admin,PHP,7
+48796179,z-song/laravel-admin,PHP,6
 137515,mockery/mockery,PHP,4
 2884111,magento/magento2,PHP,6
-2699935,squizlabs/PHP_CodeSniffer,PHP,14
+2699935,squizlabs/PHP_CodeSniffer,PHP,8
 6660366,dompdf/dompdf,PHP,4
 31295421,guzzle/psr7,PHP,3
 656308,sebastianbergmann/php-timer,PHP,4
@@ -18,9 +18,9 @@ id,name,lang,new stars
 8016381,sebastianbergmann/exporter,PHP,4
 16699803,sebastianbergmann/environment,PHP,4
 6763587,PrestaShop/PrestaShop,PHP,2
-16685462,humhub/humhub,PHP,3
+16685462,humhub/humhub,PHP,2
 6269013,aws/aws-sdk-php,PHP,3
 2784293,php-amqplib/php-amqplib,PHP,3
 1740040,pfsense/pfsense,PHP,3
-11222414,jmespath/jmespath.php,PHP,5
-311448648,laravel/breeze,PHP,11
+11222414,jmespath/jmespath.php,PHP,4
+311448648,laravel/breeze,PHP,12

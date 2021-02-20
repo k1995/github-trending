@@ -1,16 +1,16 @@
 id,name,lang,new stars
-42408804,traefik/traefik,Go,30
-41986369,pingcap/tidb,Go,27
-61137153,evanw/esbuild,Go,296
+42408804,traefik/traefik,Go,31
+41986369,pingcap/tidb,Go,19
+61137153,evanw/esbuild,Go,297
 30215630,go-kit/kit,Go,23
-43723161,helm/helm,Go,8
+43723161,helm/helm,Go,9
 136815833,Dreamacro/clash,Go,61
 50613991,goharbor/harbor,Go,14
 13624859,gorilla/websocket,Go,23
 120227732,fyne-io/fyne,Go,16
 20653934,google/cadvisor,Go,6
 5179099,go-redis/redis,Go,17
-192632000,dapr/dapr,Go,503
+192632000,dapr/dapr,Go,511
 4059138,dgrijalva/jwt-go,Go,10
 153099672,inancgumus/learngo,Go,68
 66841911,360EntSecGroup-Skylar/excelize,Go,15
