@@ -1,20 +1,20 @@
 id,name,lang,new stars
-6838921,prometheus/prometheus,Go,604
-15452919,ethereum/go-ethereum,Go,645
+6838921,prometheus/prometheus,Go,605
+15452919,ethereum/go-ethereum,Go,646
 133251103,wagoodman/dive,Go,643
 12574344,spf13/cobra,Go,440
 31288958,hashicorp/vault,Go,1305
 61137153,evanw/esbuild,Go,2656
-19994257,go-delve/delve,Go,372
-192632000,dapr/dapr,Go,1435
+19994257,go-delve/delve,Go,373
+192632000,dapr/dapr,Go,1452
 162920291,inlets/inlets,Go,649
 23247808,rqlite/rqlite,Go,1287
 100982449,argoproj/argo-workflows,Go,280
 77071454,goreleaser/goreleaser,Go,739
-180687624,aquasecurity/trivy,Go,535
+180687624,aquasecurity/trivy,Go,537
 28366058,distribution/distribution,Go,224
 93444615,hashicorp/terraform-provider-aws,Go,239
-120896210,argoproj/argo-cd,Go,416
+120896210,argoproj/argo-cd,Go,418
 87990209,kubernetes/autoscaler,Go,106
 273132277,moonD4rk/HackBrowserData,Go,1122
 93446042,terraform-providers/terraform-provider-azurerm,Go,67
