@@ -1,14 +1,14 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,185
+9384267,electron/electron,C++,164
 1181927,bitcoin/bitcoin,C++,74
 23357588,protocolbuffers/protobuf,C++,27
-65600975,pytorch/pytorch,C++,34
+65600975,pytorch/pytorch,C++,28
 116167731,yuzu-emu/yuzu,C++,31
 63477612,TheAlgorithms/C-Plus-Plus,C++,31
 196813750,Light-City/CPlusPlusThings,C++,43
 192025001,Qv2ray/Qv2ray,C++,42
-311683390,WerWolv/ImHex,C++,19
-24494032,mysql/mysql-server,C++,4
+311683390,WerWolv/ImHex,C++,64
+24494032,mysql/mysql-server,C++,2
 37821236,SaschaWillems/Vulkan,C++,7
 97556265,catboost/catboost,C++,6
 7512484,ArduPilot/ardupilot,C++,9

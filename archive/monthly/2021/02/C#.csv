@@ -1,15 +1,15 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,692
-17620347,dotnet/aspnetcore,C#,519
-70104825,dotnet-architecture/eShopOnContainers,C#,356
+17620347,dotnet/aspnetcore,C#,526
+70104825,dotnet-architecture/eShopOnContainers,C#,358
 1613345,StackExchange/Dapper,C#,144
-28239455,dotnet/AspNetCore.Docs,C#,293
-46755185,bitwarden/server,C#,386
+28239455,dotnet/AspNetCore.Docs,C#,297
+46755185,bitwarden/server,C#,390
 104670977,dvf/blockchain,C#,94
 54213490,xamarin/Xamarin.Forms,C#,78
-210716005,dotnet/runtime,C#,253
+210716005,dotnet/runtime,C#,256
 27251463,QuantConnect/Lean,C#,206
-213460285,jasontaylordev/CleanArchitecture,C#,765
+213460285,jasontaylordev/CleanArchitecture,C#,769
 19216825,xamarin/xamarin-forms-samples,C#,73
 142480903,microsoft/microsoft-ui-xaml,C#,141
 23891194,Azure/azure-powershell,C#,121
@@ -17,10 +17,10 @@ id,name,lang,new stars
 2928944,Azure/azure-sdk-for-net,C#,54
 184286875,actions/runner,C#,79
 39425864,tModLoader/tModLoader,C#,49
-321682465,SteamTools-Team/SteamTools,C#,394
+321682465,SteamTools-Team/SteamTools,C#,397
 77180761,xamarin/XamarinCommunityToolkit,C#,110
-263503250,Azure/bicep,C#,203
-272887007,ModernFlyouts-Community/ModernFlyouts,C#,226
+263503250,Azure/bicep,C#,204
+272887007,ModernFlyouts-Community/ModernFlyouts,C#,227
 235046065,JavScraper/Emby.Plugins.JavScraper,C#,104
 288428676,Garderoben/MudBlazor,C#,192
 324421322,Woodi-dev/Among-Us-Sheriff-Mod,C#,127
