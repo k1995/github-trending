@@ -1,13 +1,13 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,182
+9384267,electron/electron,C++,185
 1181927,bitcoin/bitcoin,C++,74
 23357588,protocolbuffers/protobuf,C++,27
-65600975,pytorch/pytorch,C++,49
+65600975,pytorch/pytorch,C++,34
 116167731,yuzu-emu/yuzu,C++,31
 63477612,TheAlgorithms/C-Plus-Plus,C++,31
 196813750,Light-City/CPlusPlusThings,C++,43
 192025001,Qv2ray/Qv2ray,C++,42
-311683390,WerWolv/ImHex,C++,60
+311683390,WerWolv/ImHex,C++,19
 24494032,mysql/mysql-server,C++,4
 37821236,SaschaWillems/Vulkan,C++,7
 97556265,catboost/catboost,C++,6
@@ -16,7 +16,7 @@ id,name,lang,new stars
 115342681,olive-editor/olive,C++,14
 1690480,qgis/QGIS,C++,5
 5298790,PX4/PX4-Autopilot,C++,9
-95114723,nasa/fprime,C++,952
+95114723,nasa/fprime,C++,2778
 89067146,ethereum-mining/ethminer,C++,36
 88327406,xmrig/xmrig,C++,23
 143324737,diasurgical/devilutionX,C++,2
