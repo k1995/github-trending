@@ -1,5 +1,5 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,164
+9384267,electron/electron,C++,182
 23357588,protocolbuffers/protobuf,C++,27
 65600975,pytorch/pytorch,C++,49
 27729880,grpc/grpc,C++,24
@@ -18,7 +18,7 @@ id,name,lang,new stars
 208728772,milvus-io/milvus,C++,19
 5909706,yhirose/cpp-httplib,C++,19
 193305104,barry-ran/QtScrcpy,C++,16
-95114723,nasa/fprime,C++,2778
+95114723,nasa/fprime,C++,2734
 86897963,xia-chu/ZLMediaKit,C++,13
 10599951,emilybache/GildedRose-Refactoring-Kata,C++,8
 57061619,odriverobotics/ODrive,C++,5
