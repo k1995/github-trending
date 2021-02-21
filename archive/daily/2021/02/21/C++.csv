@@ -1,5 +1,5 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,185
+9384267,electron/electron,C++,164
 23357588,protocolbuffers/protobuf,C++,27
 65600975,pytorch/pytorch,C++,49
 27729880,grpc/grpc,C++,24
@@ -16,7 +16,7 @@ id,name,lang,new stars
 16309670,gperftools/gperftools,C++,8
 26255337,cameron314/concurrentqueue,C++,6
 208728772,milvus-io/milvus,C++,19
-5909706,yhirose/cpp-httplib,C++,14
+5909706,yhirose/cpp-httplib,C++,19
 193305104,barry-ran/QtScrcpy,C++,16
 95114723,nasa/fprime,C++,2778
 86897963,xia-chu/ZLMediaKit,C++,13

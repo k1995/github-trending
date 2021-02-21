@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,70
-7569578,discourse/discourse,Ruby,76
-8681349,huginn/huginn,Ruby,57
-2293158,rapid7/metasploit-framework,Ruby,72
+8514,rails/rails,Ruby,72
+7569578,discourse/discourse,Ruby,77
+8681349,huginn/huginn,Ruby,58
+2293158,rapid7/metasploit-framework,Ruby,73
 3623050,Homebrew/homebrew-cask,Ruby,35
 73648678,forem/forem,Ruby,61
-2203645,CocoaPods/CocoaPods,Ruby,17
+2203645,CocoaPods/CocoaPods,Ruby,18
 911765,diaspora/diaspora,Ruby,15
 3314,spree/spree,Ruby,19
 96395,faker-ruby/faker,Ruby,5
@@ -13,14 +13,14 @@ id,name,lang,new stars
 52855516,Homebrew/homebrew-core,Ruby,54
 451035,heartcombo/simple_form,Ruby,14
 21829,thoughtbot/factory_bot,Ruby,11
-202291859,chatwoot/chatwoot,Ruby,88
+202291859,chatwoot/chatwoot,Ruby,89
 75785147,rails/webpacker,Ruby,8
 30337170,rmosolgo/graphql-ruby,Ruby,12
 244452551,alexeygrigorev/data-science-interviews,Ruby,47
-52316423,luggit/react-native-config,Ruby,15
+52316423,luggit/react-native-config,Ruby,16
 30985840,solidusio/solidus,Ruby,13
 1172597,thoughtbot/shoulda-matchers,Ruby,5
 614070,rubygems/rubygems,Ruby,5
-103766152,github/explore,Ruby,19
-200302808,github/view_component,Ruby,21
-333438953,davidesantangelo/dato.rss,Ruby,41
+103766152,github/explore,Ruby,21
+200302808,github/view_component,Ruby,22
+333438953,davidesantangelo/dato.rss,Ruby,42
