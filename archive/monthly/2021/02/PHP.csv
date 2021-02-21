@@ -2,15 +2,15 @@ id,name,lang,new stars
 458058,symfony/symfony,PHP,199
 7548986,laravel/framework,PHP,503
 1420053,guzzle/guzzle,PHP,151
-2253830,PHPMailer/PHPMailer,PHP,179
+2253830,PHPMailer/PHPMailer,PHP,180
 2889328,WordPress/WordPress,PHP,128
 60243197,nextcloud/server,PHP,321
 1305114,roots/sage,PHP,72
 597887,doctrine/orm,PHP,92
 2699935,squizlabs/PHP_CodeSniffer,PHP,105
-2179920,woocommerce/woocommerce,PHP,90
+2179920,woocommerce/woocommerce,PHP,92
 41589337,BookStackApp/BookStack,PHP,216
-2141186,opencart/opencart,PHP,81
+2141186,opencart/opencart,PHP,82
 16238673,kanboard/kanboard,PHP,71
 86350964,the-benchmarker/web-frameworks,PHP,262
 12204147,mautic/mautic,PHP,80
@@ -23,4 +23,4 @@ id,name,lang,new stars
 13914116,librenms/librenms,PHP,60
 16455664,tastyigniter/TastyIgniter,PHP,666
 27195711,alextselegidis/easyappointments,PHP,80
-286645686,yuantuo666/baiduwp-php,PHP,210
+286645686,yuantuo666/baiduwp-php,PHP,211
