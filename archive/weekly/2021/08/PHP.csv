@@ -1,8 +1,8 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,149
+3482588,danielmiessler/SecLists,PHP,152
 458058,symfony/symfony,PHP,56
 448045,sebastianbergmann/phpunit,PHP,43
-28628034,flarum/flarum,PHP,33
+28628034,flarum/flarum,PHP,34
 1305114,roots/sage,PHP,28
 5627682,serbanghita/Mobile-Detect,PHP,14
 2884111,magento/magento2,PHP,30
@@ -10,8 +10,8 @@ id,name,lang,new stars
 12166778,googleapis/google-api-php-client,PHP,17
 2179920,woocommerce/woocommerce,PHP,21
 21298446,firefly-iii/firefly-iii,PHP,77
-10371103,Laravel-Lang/lang,PHP,26
-30171828,rappasoft/laravel-boilerplate,PHP,11
+10371103,Laravel-Lang/lang,PHP,27
+30171828,rappasoft/laravel-boilerplate,PHP,13
 7413451,timber/timber,PHP,13
 627735,vrana/adminer,PHP,26
 12204147,mautic/mautic,PHP,17
@@ -19,7 +19,7 @@ id,name,lang,new stars
 6322699,FreshRSS/FreshRSS,PHP,59
 291805291,laravel/jetstream,PHP,37
 69691727,pmmp/PocketMine-MP,PHP,13
-311448648,laravel/breeze,PHP,36
-39698170,pi-hole/AdminLTE,PHP,22
+311448648,laravel/breeze,PHP,37
+39698170,pi-hole/AdminLTE,PHP,23
 174021137,inertiajs/pingcrm,PHP,13
 36526302,pentestmonkey/php-reverse-shell,PHP,18

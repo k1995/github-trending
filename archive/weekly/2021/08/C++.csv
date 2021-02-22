@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,644
-74627617,commaai/openpilot,C++,156
-116167731,yuzu-emu/yuzu,C++,163
+1181927,bitcoin/bitcoin,C++,654
+74627617,commaai/openpilot,C++,158
+116167731,yuzu-emu/yuzu,C++,165
 1062572,catchorg/Catch2,C++,48
-32969220,esp8266/Arduino,C++,37
-64991887,microsoft/LightGBM,C++,38
+32969220,esp8266/Arduino,C++,38
+64991887,microsoft/LightGBM,C++,39
 1217614,xbmc/xbmc,C++,61
 47690142,CoatiSoftware/Sourcetrail,C++,912
 14259343,openalpr/openalpr,C++,32
@@ -12,7 +12,7 @@ id,name,lang,new stars
 40892817,ethereum/solidity,C++,77
 106558568,doitsujin/dxvk,C++,54
 7512484,ArduPilot/ardupilot,C++,34
-19316619,monero-project/monero,C++,56
+19316619,monero-project/monero,C++,57
 37060852,betaflight/betaflight,C++,22
 89067146,ethereum-mining/ethminer,C++,145
 88327406,xmrig/xmrig,C++,99
@@ -22,4 +22,4 @@ id,name,lang,new stars
 59676171,KevinOConnor/klipper,C++,35
 143298715,M66B/FairEmail,C++,41
 170738310,trustwallet/wallet-core,C++,13
-338115997,itm4n/Perfusion,C++,52
+338115997,itm4n/Perfusion,C++,59
