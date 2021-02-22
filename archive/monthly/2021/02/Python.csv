@@ -2,8 +2,8 @@ id,name,lang,new stars
 39464018,apache/superset,Python,3312
 21467110,explosion/spaCy,Python,1620
 80990461,eriklindernoren/ML-From-Scratch,Python,746
-204086862,streamlit/streamlit,Python,732
-262296122,PaddlePaddle/PaddleOCR,Python,2552
+204086862,streamlit/streamlit,Python,737
+262296122,PaddlePaddle/PaddleOCR,Python,2549
 28782747,dask/dask,Python,172
 52796596,netbox-community/netbox,Python,184
 21244505,qutebrowser/qutebrowser,Python,369
@@ -14,11 +14,11 @@ id,name,lang,new stars
 91948540,ranaroussi/yfinance,Python,427
 11939484,pyca/cryptography,Python,171
 103791045,CryptoSignal/Crypto-Signal,Python,196
-246079929,owid/covid-19-data,Python,413
+246079929,owid/covid-19-data,Python,415
 53548867,fishtown-analytics/dbt,Python,178
 100263581,sammchardy/python-binance,Python,225
-201403923,activeloopai/Hub,Python,1576
-249261267,leon-thomm/Ryven,Python,1447
+201403923,activeloopai/Hub,Python,1594
+249261267,leon-thomm/Ryven,Python,1441
 106051375,yasinkuyu/binance-trader,Python,134
 179163124,CoinAlpha/hummingbot,Python,187
 122554275,jmfernandes/robin_stocks,Python,164
