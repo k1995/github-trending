@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,9
+2579314,fzaninotto/Faker,PHP,8
 7548986,laravel/framework,PHP,12
-60243197,nextcloud/server,PHP,27
+60243197,nextcloud/server,PHP,28
 12615154,barryvdh/laravel-debugbar,PHP,8
-7769432,vlucas/phpdotenv,PHP,6
-14732311,octobercms/october,PHP,4
-14259390,Maatwebsite/Laravel-Excel,PHP,7
+7769432,vlucas/phpdotenv,PHP,4
+14732311,octobercms/october,PHP,3
+14259390,Maatwebsite/Laravel-Excel,PHP,6
 5508585,YOURLS/YOURLS,PHP,8
-2179920,woocommerce/woocommerce,PHP,3
+2179920,woocommerce/woocommerce,PHP,2
 4551765,thephpleague/oauth2-server,PHP,5
 6763587,PrestaShop/PrestaShop,PHP,2
 10883164,barryvdh/laravel-dompdf,PHP,3
@@ -15,12 +15,12 @@ id,name,lang,new stars
 1543827,moneyphp/money,PHP,1
 62087941,nWidart/laravel-modules,PHP,4
 148129143,bagisto/bagisto,PHP,0
-151089715,symfony/polyfill-intl-idn,PHP,5
+151089715,symfony/polyfill-intl-idn,PHP,4
 47508644,pterodactyl/panel,PHP,11
 13914116,librenms/librenms,PHP,0
 131031925,symfony/polyfill-php73,PHP,5
 111562942,statamic/cms,PHP,1
 236699268,symfony/polyfill-php80,PHP,6
-239137434,symfony/deprecation-contracts,PHP,7
-160480951,ZsgsDesign/NOJ,PHP,33
+239137434,symfony/deprecation-contracts,PHP,8
+160480951,ZsgsDesign/NOJ,PHP,31
 325614199,AndreasElia/laravel-analytics,PHP,4
