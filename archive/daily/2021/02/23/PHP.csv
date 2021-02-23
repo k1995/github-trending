@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,19
-2579314,fzaninotto/Faker,PHP,10
+3482588,danielmiessler/SecLists,PHP,22
+2579314,fzaninotto/Faker,PHP,12
 1864363,composer/composer,PHP,4
 60243197,nextcloud/server,PHP,18
 8678290,barryvdh/laravel-ide-helper,PHP,3
 11467667,typecho/typecho,PHP,2
 2141186,opencart/opencart,PHP,1
-16238673,kanboard/kanboard,PHP,2
+16238673,kanboard/kanboard,PHP,4
 12594863,kalcaddle/KodExplorer,PHP,3
 76064827,mailcow/mailcow-dockerized,PHP,6
 291805291,laravel/jetstream,PHP,5
 38200433,jeroennoten/Laravel-AdminLTE,PHP,3
-1957456,Dolibarr/dolibarr,PHP,0
+1957456,Dolibarr/dolibarr,PHP,1
 47508644,pterodactyl/panel,PHP,8
 69691727,pmmp/PocketMine-MP,PHP,0
 96284790,prasathmani/tinyfilemanager,PHP,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 189104054,laravel/ui,PHP,4
 39698170,pi-hole/AdminLTE,PHP,1
 269325451,mettle/sendportal,PHP,1
-36526302,pentestmonkey/php-reverse-shell,PHP,1
-325614199,AndreasElia/laravel-analytics,PHP,8
-327181906,joshhanley/sprucewire,PHP,3
+36526302,pentestmonkey/php-reverse-shell,PHP,2
+325614199,AndreasElia/laravel-analytics,PHP,9
+327181906,joshhanley/sprucewire,PHP,4

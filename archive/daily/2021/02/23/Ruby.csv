@@ -1,19 +1,19 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,12
+7569578,discourse/discourse,Ruby,13
 21600440,bayandin/awesome-awesomeness,Ruby,10
 52281283,tootsuite/mastodon,Ruby,8
-2293158,rapid7/metasploit-framework,Ruby,10
-2500088,gitlabhq/gitlabhq,Ruby,2
-3623050,Homebrew/homebrew-cask,Ruby,1
-37382858,kilimchoi/engineering-blogs,Ruby,12
-2203645,CocoaPods/CocoaPods,Ruby,3
-3314,spree/spree,Ruby,3
-96395,faker-ruby/faker,Ruby,10
+2293158,rapid7/metasploit-framework,Ruby,11
+2500088,gitlabhq/gitlabhq,Ruby,3
+3623050,Homebrew/homebrew-cask,Ruby,3
+37382858,kilimchoi/engineering-blogs,Ruby,14
+2203645,CocoaPods/CocoaPods,Ruby,4
+3314,spree/spree,Ruby,4
+96395,faker-ruby/faker,Ruby,11
 15435,Shopify/liquid,Ruby,5
-1725199,github/linguist,Ruby,4
+1725199,github/linguist,Ruby,5
 451035,heartcombo/simple_form,Ruby,1
 108278,chef/chef,Ruby,3
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,8
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,9
 6899875,opf/openproject,Ruby,3
 30985840,solidusio/solidus,Ruby,5
 11426474,github/choosealicense.com,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 197053097,brotandgames/ciao,Ruby,13
 10088951,TheOdinProject/theodinproject,Ruby,4
 55288882,d12frosted/homebrew-emacs-plus,Ruby,0
-339809184,charkost/prosopite,Ruby,25
+339809184,charkost/prosopite,Ruby,26
 188165412,tobymao/18xx,Ruby,2
