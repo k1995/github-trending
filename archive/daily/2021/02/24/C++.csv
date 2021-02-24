@@ -1,19 +1,19 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,43
-5108051,opencv/opencv,C++,29
+5108051,opencv/opencv,C++,30
 22887094,tesseract-ocr/tesseract,C++,23
-22067521,ocornut/imgui,C++,38
+22067521,ocornut/imgui,C++,42
 65214191,envoyproxy/envoy,C++,8
 19953044,google/flatbuffers,C++,7
-311683390,WerWolv/ImHex,C++,447
-2310495,ceph/ceph,C++,5
+311683390,WerWolv/ImHex,C++,432
+2310495,ceph/ceph,C++,6
 38581626,pybind/pybind11,C++,11
 25135037,symless/synergy-core,C++,7
 37821236,SaschaWillems/Vulkan,C++,5
-153866232,TheCherno/Hazel,C++,9
+153866232,TheCherno/Hazel,C++,8
 46374199,IntelRealSense/librealsense,C++,2
-32222044,erincatto/box2d,C++,3
-1690480,qgis/QGIS,C++,4
+32222044,erincatto/box2d,C++,2
+1690480,qgis/QGIS,C++,6
 14981376,dogecoin/dogecoin,C++,90
 156939672,microsoft/onnxruntime,C++,6
 59676171,KevinOConnor/klipper,C++,4

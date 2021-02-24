@@ -1,6 +1,6 @@
 id,name,lang,new stars
 23096959,golang/go,Go,92
-21540759,avelino/awesome-go,Go,195
+21540759,avelino/awesome-go,Go,185
 7691631,moby/moby,Go,17
 119160553,photoprism/photoprism,Go,37
 7083242,go-sql-driver/mysql,Go,4
@@ -10,7 +10,7 @@ id,name,lang,new stars
 109162639,thanos-io/thanos,Go,4
 30711774,go-playground/validator,Go,8
 205679232,flipped-aurora/gin-vue-admin,Go,20
-28366058,distribution/distribution,Go,6
+28366058,distribution/distribution,Go,5
 93444615,hashicorp/terraform-provider-aws,Go,5
 120896210,argoproj/argo-cd,Go,17
 41288708,sourcegraph/sourcegraph,Go,5
