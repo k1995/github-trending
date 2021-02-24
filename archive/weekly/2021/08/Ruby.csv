@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,82
+8514,rails/rails,Ruby,81
 7569578,discourse/discourse,Ruby,86
 21600440,bayandin/awesome-awesomeness,Ruby,52
-13840241,freeCodeCamp/devdocs,Ruby,98
+13840241,freeCodeCamp/devdocs,Ruby,95
 2293158,rapid7/metasploit-framework,Ruby,76
 3623050,Homebrew/homebrew-cask,Ruby,30
-538746,ruby/ruby,Ruby,30
-37382858,kilimchoi/engineering-blogs,Ruby,68
-2203645,CocoaPods/CocoaPods,Ruby,20
+538746,ruby/ruby,Ruby,29
+37382858,kilimchoi/engineering-blogs,Ruby,67
+2203645,CocoaPods/CocoaPods,Ruby,22
 3314,spree/spree,Ruby,24
-3195124,mperham/sidekiq,Ruby,20
+3195124,mperham/sidekiq,Ruby,21
 96395,faker-ruby/faker,Ruby,21
-52855516,Homebrew/homebrew-core,Ruby,68
+52855516,Homebrew/homebrew-core,Ruby,71
 1725199,github/linguist,Ruby,34
-202291859,chatwoot/chatwoot,Ruby,83
+202291859,chatwoot/chatwoot,Ruby,92
 33739333,thoughtbot/administrate,Ruby,12
 30337170,rmosolgo/graphql-ruby,Ruby,6
 38867,svenfuchs/rails-i18n,Ruby,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1172597,thoughtbot/shoulda-matchers,Ruby,5
 200302808,github/view_component,Ruby,25
 49878403,zendesk/ruby-kafka,Ruby,1
-259828991,sureJiang0/MSBlockButton,Ruby,183
+259828991,sureJiang0/MSBlockButton,Ruby,180
 47709851,instacart/amountable,Ruby,1
