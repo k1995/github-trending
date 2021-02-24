@@ -1,11 +1,11 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,8
 7548986,laravel/framework,PHP,12
-60243197,nextcloud/server,PHP,24
+60243197,nextcloud/server,PHP,23
 12615154,barryvdh/laravel-debugbar,PHP,6
 7769432,vlucas/phpdotenv,PHP,4
 14732311,octobercms/october,PHP,3
-14259390,Maatwebsite/Laravel-Excel,PHP,3
+14259390,Maatwebsite/Laravel-Excel,PHP,4
 5508585,YOURLS/YOURLS,PHP,8
 2179920,woocommerce/woocommerce,PHP,2
 4551765,thephpleague/oauth2-server,PHP,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 236699268,symfony/polyfill-php80,PHP,5
 239137434,symfony/deprecation-contracts,PHP,7
 160480951,ZsgsDesign/NOJ,PHP,31
-325614199,AndreasElia/laravel-analytics,PHP,4
+325614199,AndreasElia/laravel-analytics,PHP,2
