@@ -1,17 +1,17 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,61
-156018,redis/redis,C,22
+156018,redis/redis,C,18
 18666758,pjreddie/darknet,C,15
 84240850,timescale/timescaledb,C,8
 32873313,systemd/systemd,C,16
 75811015,Tencent/xLua,C,2
 65899476,espressif/esp-idf,C,6
-190845267,n64decomp/sm64,C,93
+190845267,n64decomp/sm64,C,87
 192805335,microsoft/mimalloc,C,6
 673267,redis/hiredis,C,1
 68291988,miloyip/json-tutorial,C,15
 59771425,zephyrproject-rtos/zephyr,C,7
-224151065,Immediate-Mode-UI/Nuklear,C,282
+224151065,Immediate-Mode-UI/Nuklear,C,288
 6687936,ARMmbed/mbedtls,C,3
 58132544,RediSearch/RediSearch,C,14
 29933948,fluent/fluent-bit,C,4
