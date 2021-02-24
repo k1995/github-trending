@@ -1,8 +1,8 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,8
 7548986,laravel/framework,PHP,12
-60243197,nextcloud/server,PHP,29
-12615154,barryvdh/laravel-debugbar,PHP,4
+60243197,nextcloud/server,PHP,25
+12615154,barryvdh/laravel-debugbar,PHP,5
 7769432,vlucas/phpdotenv,PHP,4
 14732311,octobercms/october,PHP,2
 14259390,Maatwebsite/Laravel-Excel,PHP,4
@@ -16,11 +16,11 @@ id,name,lang,new stars
 62087941,nWidart/laravel-modules,PHP,2
 148129143,bagisto/bagisto,PHP,0
 151089715,symfony/polyfill-intl-idn,PHP,3
-47508644,pterodactyl/panel,PHP,10
+47508644,pterodactyl/panel,PHP,9
 13914116,librenms/librenms,PHP,1
 131031925,symfony/polyfill-php73,PHP,4
 111562942,statamic/cms,PHP,0
 236699268,symfony/polyfill-php80,PHP,5
 239137434,symfony/deprecation-contracts,PHP,8
-160480951,ZsgsDesign/NOJ,PHP,26
+160480951,ZsgsDesign/NOJ,PHP,28
 325614199,AndreasElia/laravel-analytics,PHP,2
