@@ -1,26 +1,26 @@
 id,name,lang,new stars
-39464018,apache/superset,Python,2815
-267775629,geekxh/hello-algorithm,Java,1372
-61137153,evanw/esbuild,Go,2719
-257485422,vitejs/vite,TypeScript,4108
-196701619,tauri-apps/tauri,Rust,4478
-192632000,dapr/dapr,Go,2313
-168500397,justauth/JustAuth,Java,765
-26133979,mozilla-mobile/firefox-ios,Swift,289
-90902132,flameshot-org/flameshot,C++,2039
+61137153,evanw/esbuild,Go,2718
+257485422,vitejs/vite,TypeScript,4139
+35133520,MostlyAdequate/mostly-adequate-guide,JavaScript,710
+196701619,tauri-apps/tauri,Rust,4528
+192632000,dapr/dapr,Go,2330
+168500397,justauth/JustAuth,Java,762
+90902132,flameshot-org/flameshot,C++,2054
 85371262,williamfiset/Algorithms,Java,1605
-135201145,RustPython/RustPython,Rust,966
 46755185,bitwarden/server,C#,428
-121898717,dani-garcia/bitwarden_rs,JavaScript,1045
-317319347,qeeqbox/social-analyzer,JavaScript,3339
+317319347,qeeqbox/social-analyzer,JavaScript,3392
 91629816,freqtrade/freqtrade,Python,1430
-230599151,rxi/lite,Lua,976
+230599151,rxi/lite,Lua,977
 5773100,greatsuspender/thegreatsuspender,JavaScript,903
-213460285,jasontaylordev/CleanArchitecture,C#,889
-119285689,aamini/introtodeeplearning,Jupyter Notebook,1101
-89067146,ethereum-mining/ethminer,C++,449
-88327406,xmrig/xmrig,C++,291
-283046497,airbytehq/airbyte,Java,1083
-6860771,hathach/tinyusb,C,683
-327491895,peng-zhihui/HoloCubic,C,1049
+213460285,jasontaylordev/CleanArchitecture,C#,887
+119285689,aamini/introtodeeplearning,Jupyter Notebook,1103
+89067146,ethereum-mining/ethminer,C++,453
+88327406,xmrig/xmrig,C++,296
+224151065,Immediate-Mode-UI/Nuklear,C,1284
+306473214,twitter/TwitterTextEditor,Swift,2384
+283046497,airbytehq/airbyte,Java,1084
+255415824,googlevr/tilt-brush,C#,1696
+331761634,alura-challenges/aluraquiz-base,JavaScript,1387
+327491895,peng-zhihui/HoloCubic,C,1034
 188299874,input-output-hk/cardano-node,Haskell,208
+331381105,raspberrypi/pico-examples,Objective-C,298
