@@ -1,19 +1,19 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,8
 7548986,laravel/framework,PHP,12
-60243197,nextcloud/server,PHP,25
-12615154,barryvdh/laravel-debugbar,PHP,5
+60243197,nextcloud/server,PHP,30
+12615154,barryvdh/laravel-debugbar,PHP,1
 7769432,vlucas/phpdotenv,PHP,4
 14732311,octobercms/october,PHP,2
 14259390,Maatwebsite/Laravel-Excel,PHP,4
 5508585,YOURLS/YOURLS,PHP,6
 2179920,woocommerce/woocommerce,PHP,1
 4551765,thephpleague/oauth2-server,PHP,5
-6763587,PrestaShop/PrestaShop,PHP,2
-10883164,barryvdh/laravel-dompdf,PHP,3
+6763587,PrestaShop/PrestaShop,PHP,1
+10883164,barryvdh/laravel-dompdf,PHP,4
 12204147,mautic/mautic,PHP,2
 1543827,moneyphp/money,PHP,1
-62087941,nWidart/laravel-modules,PHP,2
+62087941,nWidart/laravel-modules,PHP,4
 148129143,bagisto/bagisto,PHP,0
 151089715,symfony/polyfill-intl-idn,PHP,3
 47508644,pterodactyl/panel,PHP,9
@@ -22,5 +22,5 @@ id,name,lang,new stars
 111562942,statamic/cms,PHP,0
 236699268,symfony/polyfill-php80,PHP,5
 239137434,symfony/deprecation-contracts,PHP,8
-160480951,ZsgsDesign/NOJ,PHP,28
-325614199,AndreasElia/laravel-analytics,PHP,2
+160480951,ZsgsDesign/NOJ,PHP,26
+325614199,AndreasElia/laravel-analytics,PHP,1
