@@ -1,7 +1,7 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,107
+54346799,public-apis/public-apis,Python,96
 155220641,huggingface/transformers,Python,61
-160919119,tiangolo/fastapi,Python,62
+160919119,tiangolo/fastapi,Python,60
 118861276,gto76/python-cheatsheet,Python,607
 71932349,ray-project/ray,Python,19
 123303402,python-poetry/poetry,Python,16
@@ -11,7 +11,7 @@ id,name,lang,new stars
 91594105,ansible/awx,Python,11
 52796596,netbox-community/netbox,Python,6
 9405122,frida/frida,Python,14
-841835,readthedocs/readthedocs.org,Python,5
+841835,readthedocs/readthedocs.org,Python,6
 39144867,jupyter/docker-stacks,Python,7
 162672577,PaddlePaddle/PaddleHub,Python,13
 217433767,facebookresearch/pytorch3d,Python,43
