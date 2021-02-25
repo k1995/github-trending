@@ -1,11 +1,11 @@
 id,name,lang,new stars
-23096959,golang/go,Go,146
-21540759,avelino/awesome-go,Go,169
-74175805,istio/istio,Go,14
-4307108,nsqio/nsq,Go,7
-43723161,helm/helm,Go,12
+23096959,golang/go,Go,156
+21540759,avelino/awesome-go,Go,164
+74175805,istio/istio,Go,10
+4307108,nsqio/nsq,Go,5
+43723161,helm/helm,Go,15
 23689830,yeasy/docker_practice,Go,17
-135516270,k3s-io/k3s,Go,18
+135516270,k3s-io/k3s,Go,26
 66573241,hyperledger/fabric,Go,8
 7083242,go-sql-driver/mysql,Go,7
 72891330,kubernetes/ingress-nginx,Go,13
@@ -15,12 +15,12 @@ id,name,lang,new stars
 285864199,tal-tech/go-zero,Go,33
 93444615,hashicorp/terraform-provider-aws,Go,13
 67793333,cortexproject/cortex,Go,3
-52193726,volatiletech/sqlboiler,Go,7
-94779471,aquasecurity/kube-bench,Go,10
+52193726,volatiletech/sqlboiler,Go,9
+94779471,aquasecurity/kube-bench,Go,7
 120519269,runatlantis/atlantis,Go,9
 154643390,sundowndev/PhoneInfoga,Go,8
 57333709,kubernetes/test-infra,Go,9
-332424498,liamg/traitor,Go,339
+332424498,liamg/traitor,Go,338
 154894457,open-policy-agent/gatekeeper,Go,2
 103084166,accurics/terrascan,Go,9
-330052783,kitabisa/mubeng,Go,35
+330052783,kitabisa/mubeng,Go,38
