@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
-7569578,discourse/discourse,Ruby,12
+8514,rails/rails,Ruby,7
+7569578,discourse/discourse,Ruby,15
 27442967,fastlane/fastlane,Ruby,13
-2203645,CocoaPods/CocoaPods,Ruby,30
+2203645,CocoaPods/CocoaPods,Ruby,31
 106995,sinatra/sinatra,Ruby,0
 3195124,mperham/sidekiq,Ruby,0
 1918677,fluent/fluentd,Ruby,10
 611921,activeadmin/activeadmin,Ruby,2
 6529205,varvet/pundit,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,32
-1021040,sj26/mailcatcher,Ruby,3
+202291859,chatwoot/chatwoot,Ruby,34
+1021040,sj26/mailcatcher,Ruby,2
 2889230,rails-api/active_model_serializers,Ruby,1
 404319,rest-client/rest-client,Ruby,0
 16994115,CanCanCommunity/cancancan,Ruby,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,4
 41571541,inspec/inspec,Ruby,1
 200302808,github/view_component,Ruby,8
-1633771,ilyakatz/data-migrate,Ruby,2
-337703812,Zomato/vinifera,Ruby,2
+1633771,ilyakatz/data-migrate,Ruby,3
+337703812,Zomato/vinifera,Ruby,3
