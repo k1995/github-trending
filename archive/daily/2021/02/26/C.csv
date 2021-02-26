@@ -4,13 +4,13 @@ id,name,lang,new stars
 29759715,facebook/zstd,C,12
 34921116,iovisor/bcc,C,5
 1856976,libevent/libevent,C,5
-4151993,OpenVPN/openvpn,C,5
+4151993,OpenVPN/openvpn,C,6
 54280778,DaveGamble/cJSON,C,7
 16734696,meetecho/janus-gateway,C,8
 6376337,pocoproject/poco,C,3
 64060314,Screetsec/TheFatRat,C,4
 5870069,edenhill/librdkafka,C,4
-105944401,yugabyte/yugabyte-db,C,5
+105944401,yugabyte/yugabyte-db,C,3
 673267,redis/hiredis,C,4
 59771425,zephyrproject-rtos/zephyr,C,6
 277194804,lawl/NoiseTorch,C,20
