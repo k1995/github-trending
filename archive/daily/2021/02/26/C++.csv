@@ -1,14 +1,14 @@
 id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,20
-22887094,tesseract-ocr/tesseract,C++,22
+22887094,tesseract-ocr/tesseract,C++,19
 15634981,godotengine/godot,C++,40
 39840932,google/googletest,C++,13
 120887835,huihut/interview,C++,33
-65214191,envoyproxy/envoy,C++,12
+65214191,envoyproxy/envoy,C++,13
 19953044,google/flatbuffers,C++,11
 251383553,electronicarts/CnC_Remastered_Collection,C++,13
 1062572,catchorg/Catch2,C++,0
-81887991,microsoft/AirSim,C++,6
+81887991,microsoft/AirSim,C++,8
 26038648,gabime/spdlog,C++,15
 29397594,ssloy/tinyrenderer,C++,7
 196813750,Light-City/CPlusPlusThings,C++,35
@@ -21,6 +21,6 @@ id,name,lang,new stars
 75413130,intel-isl/Open3D,C++,8
 184657328,NVIDIA/TensorRT,C++,8
 1368195,chriskohlhoff/asio,C++,3
-299510783,rui314/mold,C++,108
+299510783,rui314/mold,C++,104
 151064439,ExpressLRS/ExpressLRS,C++,3
-337847095,mtytel/vital,C++,103
+337847095,mtytel/vital,C++,99
