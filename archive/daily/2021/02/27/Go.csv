@@ -1,20 +1,20 @@
 id,name,lang,new stars
 7691631,moby/moby,Go,12
-29207621,caddyserver/caddy,Go,203
-138547797,FiloSottile/mkcert,Go,22
+29207621,caddyserver/caddy,Go,218
+138547797,FiloSottile/mkcert,Go,21
 74175805,istio/istio,Go,10
 16563587,cockroachdb/cockroach,Go,7
 31504491,labstack/echo,Go,15
 50613991,goharbor/harbor,Go,5
 5179099,go-redis/redis,Go,13
 16554739,elastic/beats,Go,5
-109162639,thanos-io/thanos,Go,149
-54230994,coredns/coredns,Go,10
-132145189,golangci/golangci-lint,Go,12
+109162639,thanos-io/thanos,Go,161
+54230994,coredns/coredns,Go,11
+132145189,golangci/golangci-lint,Go,10
 92313258,jetstack/cert-manager,Go,5
 133067498,kubernetes-sigs/kustomize,Go,3
-19537979,TykTechnologies/tyk,Go,8
-815644,miekg/dns,Go,37
+19537979,TykTechnologies/tyk,Go,5
+815644,miekg/dns,Go,40
 120896210,argoproj/argo-cd,Go,13
 141089889,berty/berty,Go,30
 63625434,securego/gosec,Go,5
