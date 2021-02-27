@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,51
+2325298,torvalds/linux,C,59
 1903522,php/php-src,C,5
 29759715,facebook/zstd,C,12
 34921116,iovisor/bcc,C,8
@@ -21,6 +21,6 @@ id,name,lang,new stars
 96348842,DPDK/dpdk,C,1
 337607425,ModernPwner/cicuta_virosa,C,4
 146344284,Xilinx/dma_ip_drivers,C,0
-340231330,pattern-f/TQ-pre-jailbreak,C,23
+340231330,pattern-f/TQ-pre-jailbreak,C,24
 329405026,deislabs/mystikos,C,5
 333365165,uf0o/rootkit-arsenal-guacamole,C,4
