@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1864363,composer/composer,PHP,184
+1864363,composer/composer,PHP,188
 458058,symfony/symfony,PHP,195
-7548986,laravel/framework,PHP,256
-1420053,guzzle/guzzle,PHP,146
+7548986,laravel/framework,PHP,257
+1420053,guzzle/guzzle,PHP,147
 448045,sebastianbergmann/phpunit,PHP,137
-2253830,PHPMailer/PHPMailer,PHP,181
-60243197,nextcloud/server,PHP,736
-1305114,roots/sage,PHP,69
-597887,doctrine/orm,PHP,96
+2253830,PHPMailer/PHPMailer,PHP,183
+60243197,nextcloud/server,PHP,739
+1305114,roots/sage,PHP,70
+597887,doctrine/orm,PHP,97
 2699935,squizlabs/PHP_CodeSniffer,PHP,100
 2179920,woocommerce/woocommerce,PHP,87
 41589337,BookStackApp/BookStack,PHP,212
@@ -20,6 +20,6 @@ id,name,lang,new stars
 47508644,pterodactyl/panel,PHP,95
 13914116,librenms/librenms,PHP,50
 16455664,tastyigniter/TastyIgniter,PHP,667
-27195711,alextselegidis/easyappointments,PHP,60
+27195711,alextselegidis/easyappointments,PHP,61
 131995661,shopware/platform,PHP,48
 111562942,statamic/cms,PHP,52
