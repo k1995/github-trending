@@ -1,13 +1,13 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,712
-17620347,dotnet/aspnetcore,C#,515
+17620347,dotnet/aspnetcore,C#,517
 70104825,dotnet-architecture/eShopOnContainers,C#,370
 28239455,dotnet/AspNetCore.Docs,C#,295
 46755185,bitwarden/server,C#,464
 262395224,dotnet/maui,C#,398
 104670977,dvf/blockchain,C#,96
 54213490,xamarin/Xamarin.Forms,C#,90
-210716005,dotnet/runtime,C#,259
+210716005,dotnet/runtime,C#,260
 213460285,jasontaylordev/CleanArchitecture,C#,897
 27251463,QuantConnect/Lean,C#,207
 165548191,carlospolop/privilege-escalation-awesome-scripts-suite,C#,351
@@ -20,7 +20,7 @@ id,name,lang,new stars
 184286875,actions/runner,C#,67
 321682465,SteamTools-Team/SteamTools,C#,501
 77180761,xamarin/XamarinCommunityToolkit,C#,112
-263503250,Azure/bicep,C#,213
+263503250,Azure/bicep,C#,214
 155757874,microsoft/Xaml-Controls-Gallery,C#,45
-288428676,Garderoben/MudBlazor,C#,214
-262661480,ALIILAPRO/warp-plus-cloudflare,C#,50
+288428676,Garderoben/MudBlazor,C#,216
+262661480,ALIILAPRO/warp-plus-cloudflare,C#,51
