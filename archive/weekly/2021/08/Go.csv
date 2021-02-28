@@ -1,8 +1,8 @@
 id,name,lang,new stars
-23096959,golang/go,Go,683
+23096959,golang/go,Go,686
 20580498,kubernetes/kubernetes,Go,309
-21540759,avelino/awesome-go,Go,677
-20904437,gin-gonic/gin,Go,265
+21540759,avelino/awesome-go,Go,680
+20904437,gin-gonic/gin,Go,268
 41986369,pingcap/tidb,Go,130
 29261473,minio/minio,Go,144
 74175805,istio/istio,Go,97
@@ -10,17 +10,17 @@ id,name,lang,new stars
 4307108,nsqio/nsq,Go,50
 23689830,yeasy/docker_practice,Go,74
 135516270,k3s-io/k3s,Go,102
-97533102,halfrost/LeetCode-Go,Go,562
-136815833,Dreamacro/clash,Go,278
-192632000,dapr/dapr,Go,1380
+97533102,halfrost/LeetCode-Go,Go,438
+136815833,Dreamacro/clash,Go,280
+192632000,dapr/dapr,Go,1379
 109162639,thanos-io/thanos,Go,385
 48109239,cilium/cilium,Go,69
 205679232,flipped-aurora/gin-vue-admin,Go,154
 146641150,tektoncd/pipeline,Go,31
 120896210,argoproj/argo-cd,Go,95
 44087204,google/syzkaller,Go,24
-252813491,projectdiscovery/nuclei,Go,141
-106867604,cloudflare/cloudflared,Go,17
-175405157,JanDeDobbeleer/oh-my-posh,Go,109
-329009957,onjava8/maotai,Go,39
+252813491,projectdiscovery/nuclei,Go,144
+106867604,cloudflare/cloudflared,Go,18
+175405157,JanDeDobbeleer/oh-my-posh,Go,110
+329009957,onjava8/maotai,Go,34
 265775217,binance-chain/bsc,Go,45
