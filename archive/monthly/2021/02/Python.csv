@@ -1,18 +1,18 @@
 id,name,lang,new stars
 32689863,3b1b/manim,Python,1215
 4578002,faif/python-patterns,Python,583
-101684374,satwikkansal/wtfpython,Python,3120
-118861276,gto76/python-cheatsheet,Python,2121
-125266328,psf/black,Python,476
+101684374,satwikkansal/wtfpython,Python,3121
+118861276,gto76/python-cheatsheet,Python,2128
+125266328,psf/black,Python,478
 21467110,explosion/spaCy,Python,1641
 80990461,eriklindernoren/ML-From-Scratch,Python,766
 12044132,bitcoinbook/bitcoinbook,Python,379
-204086862,streamlit/streamlit,Python,807
-253601257,alievk/avatarify,Python,1136
-168799526,rwightman/pytorch-image-models,Python,840
+204086862,streamlit/streamlit,Python,812
+253601257,alievk/avatarify,Python,1169
+168799526,rwightman/pytorch-image-models,Python,844
 91629816,freqtrade/freqtrade,Python,1539
-222751131,Asabeneh/30-Days-Of-Python,Python,1248
-278881384,kangvcar/InfoSpider,Python,935
+222751131,Asabeneh/30-Days-Of-Python,Python,1273
+278881384,kangvcar/InfoSpider,Python,937
 91948540,ranaroussi/yfinance,Python,435
 11939484,pyca/cryptography,Python,188
 103791045,CryptoSignal/Crypto-Signal,Python,222
@@ -21,6 +21,6 @@ id,name,lang,new stars
 100263581,sammchardy/python-binance,Python,243
 51040886,Azure/azure-cli,Python,63
 106051375,yasinkuyu/binance-trader,Python,161
-332884796,sdushantha/wifi-password,Python,1574
+332884796,sdushantha/wifi-password,Python,1575
 179163124,CoinAlpha/hummingbot,Python,190
 118317539,freqtrade/freqtrade-strategies,Python,136

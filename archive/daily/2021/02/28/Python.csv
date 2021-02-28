@@ -1,8 +1,8 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,337
 1039520,ytdl-org/youtube-dl,Python,122
-12888993,home-assistant/core,Python,39
-114747226,deepfakes/faceswap,Python,34
+12888993,home-assistant/core,Python,48
+114747226,deepfakes/faceswap,Python,42
 136026789,iperov/DeepFaceLab,Python,128
 12044132,bitcoinbook/bitcoinbook,Python,41
 178626720,PyTorchLightning/pytorch-lightning,Python,115
@@ -11,16 +11,16 @@ id,name,lang,new stars
 146619556,trekhleb/learn-python,Python,43
 41179827,Rapptz/discord.py,Python,22
 139199684,PrefectHQ/prefect,Python,11
-22489033,lazyprogrammer/machine_learning_examples,Python,9
-276444578,aristocratos/bpytop,Python,68
+22489033,lazyprogrammer/machine_learning_examples,Python,10
+276444578,aristocratos/bpytop,Python,77
 222751131,Asabeneh/30-Days-Of-Python,Python,405
 317029148,ml-tooling/best-of-ml-python,Python,29
 69609,internetarchive/openlibrary,Python,8
 100263581,sammchardy/python-binance,Python,18
 257655337,trailofbits/graphtage,Python,906
-145279969,TheSpeedX/TBomb,Python,10
-296720659,Hari-Nagarajan/fairgame,Python,20
+145279969,TheSpeedX/TBomb,Python,11
+296720659,Hari-Nagarajan/fairgame,Python,23
 283916389,dunnousername/yanderifier,Python,23
-320523643,andyzys/jd_seckill,Python,71
+320523643,andyzys/jd_seckill,Python,73
 341748701,whai362/PVT,Python,78
-342336290,xingyizhou/UniDet,Python,114
+342336290,xingyizhou/UniDet,Python,122
