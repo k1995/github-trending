@@ -1,11 +1,11 @@
 id,name,lang,new stars
 29207621,caddyserver/caddy,Go,447
 134017286,jesseduffield/lazygit,Go,52
-53632140,zyedidia/micro,Go,19
+53632140,zyedidia/micro,Go,22
 120227732,fyne-io/fyne,Go,26
 234231371,gofiber/fiber,Go,44
 119160553,photoprism/photoprism,Go,57
-6443435,nats-io/nats-server,Go,10
+6443435,nats-io/nats-server,Go,11
 109162639,thanos-io/thanos,Go,190
 22442668,openshift/origin,Go,3
 126250425,google/go-cloud,Go,13
@@ -19,8 +19,8 @@ id,name,lang,new stars
 248025303,p4gefau1t/trojan-go,Go,13
 134539560,weaveworks/eksctl,Go,6
 86956808,writeas/writefreely,Go,40
-45356931,bwmarrin/discordgo,Go,6
-111455867,smartcontractkit/chainlink,Go,10
-294825566,denverquane/automuteus,Go,4
+45356931,bwmarrin/discordgo,Go,7
+111455867,smartcontractkit/chainlink,Go,11
+294825566,denverquane/automuteus,Go,5
 332607310,optiv/ScareCrow,Go,29
 340274346,irevenko/tsukae,Go,238
