@@ -1,10 +1,10 @@
 id,name,lang,new stars
 1864363,composer/composer,PHP,198
 458058,symfony/symfony,PHP,196
-7548986,laravel/framework,PHP,262
+7548986,laravel/framework,PHP,266
 448045,sebastianbergmann/phpunit,PHP,140
 2253830,PHPMailer/PHPMailer,PHP,189
-60243197,nextcloud/server,PHP,748
+60243197,nextcloud/server,PHP,753
 1305114,roots/sage,PHP,71
 597887,doctrine/orm,PHP,99
 2699935,squizlabs/PHP_CodeSniffer,PHP,105
@@ -17,9 +17,9 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,92
 41463886,codeigniter4/CodeIgniter4,PHP,94
 13044600,salesagility/SuiteCRM,PHP,64
-47508644,pterodactyl/panel,PHP,98
+47508644,pterodactyl/panel,PHP,99
 13914116,librenms/librenms,PHP,51
 16455664,tastyigniter/TastyIgniter,PHP,670
 27195711,alextselegidis/easyappointments,PHP,66
-131995661,shopware/platform,PHP,50
+131995661,shopware/platform,PHP,51
 111562942,statamic/cms,PHP,53

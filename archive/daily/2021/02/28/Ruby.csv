@@ -1,8 +1,8 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,22
-7569578,discourse/discourse,Ruby,21
+8514,rails/rails,Ruby,20
+7569578,discourse/discourse,Ruby,22
 52281283,tootsuite/mastodon,Ruby,15
-2293158,rapid7/metasploit-framework,Ruby,28
+2293158,rapid7/metasploit-framework,Ruby,27
 308770,heartcombo/devise,Ruby,8
 2203645,CocoaPods/CocoaPods,Ruby,21
 4095287,rubocop/rubocop,Ruby,4
@@ -11,7 +11,7 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,3
 2889230,rails-api/active_model_serializers,Ruby,1
 1980539,drapergem/draper,Ruby,5
-96071,rack/rack,Ruby,3
+96071,rack/rack,Ruby,4
 30985840,solidusio/solidus,Ruby,10
 115859973,ddnexus/pagy,Ruby,3
 3898922,zammad/zammad,Ruby,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,20
 34840276,elastic/ansible-elasticsearch,Ruby,4
 29151578,rswag/rswag,Ruby,8
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,7
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,8
 321647551,hotwired/hotwire-rails,Ruby,7
