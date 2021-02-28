@@ -5,12 +5,12 @@ id,name,lang,new stars
 7548986,laravel/framework,PHP,60
 1548202,matomo-org/matomo,PHP,46
 3431193,yiisoft/yii2,PHP,21
-60243197,nextcloud/server,PHP,506
+60243197,nextcloud/server,PHP,507
 12615154,barryvdh/laravel-debugbar,PHP,45
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,39
-48796179,z-song/laravel-admin,PHP,30
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,40
+48796179,z-song/laravel-admin,PHP,31
 42480275,spatie/laravel-permission,PHP,34
-11467667,typecho/typecho,PHP,33
+11467667,typecho/typecho,PHP,34
 5508585,YOURLS/YOURLS,PHP,26
 2179920,woocommerce/woocommerce,PHP,21
 30171828,rappasoft/laravel-boilerplate,PHP,16
@@ -18,7 +18,7 @@ id,name,lang,new stars
 33916850,spatie/laravel-medialibrary,PHP,20
 222873550,bytefury/crater,PHP,19
 291805291,laravel/jetstream,PHP,32
-47508644,pterodactyl/panel,PHP,35
+47508644,pterodactyl/panel,PHP,36
 96284790,prasathmani/tinyfilemanager,PHP,36
 2686502,pimcore/pimcore,PHP,14
 29501260,api-platform/core,PHP,12
