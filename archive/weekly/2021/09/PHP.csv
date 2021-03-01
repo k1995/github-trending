@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,125
-2579314,fzaninotto/Faker,PHP,32
-458058,symfony/symfony,PHP,31
-7548986,laravel/framework,PHP,59
-2253830,PHPMailer/PHPMailer,PHP,54
+1863329,laravel/laravel,PHP,124
+2579314,fzaninotto/Faker,PHP,27
+458058,symfony/symfony,PHP,29
+7548986,laravel/framework,PHP,58
+2253830,PHPMailer/PHPMailer,PHP,52
 1548202,matomo-org/matomo,PHP,40
 3431193,yiisoft/yii2,PHP,13
-60243197,nextcloud/server,PHP,497
-22553797,getgrav/grav,PHP,24
+60243197,nextcloud/server,PHP,498
+22553797,getgrav/grav,PHP,23
 1305114,roots/sage,PHP,15
-8678290,barryvdh/laravel-ide-helper,PHP,30
+8678290,barryvdh/laravel-ide-helper,PHP,31
 14732311,octobercms/october,PHP,21
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,36
-48796179,z-song/laravel-admin,PHP,25
+48796179,z-song/laravel-admin,PHP,23
 5508585,YOURLS/YOURLS,PHP,24
 2179920,woocommerce/woocommerce,PHP,18
 12204147,mautic/mautic,PHP,23
@@ -23,4 +23,4 @@ id,name,lang,new stars
 47508644,pterodactyl/panel,PHP,29
 2686502,pimcore/pimcore,PHP,14
 29501260,api-platform/core,PHP,13
-174021137,inertiajs/pingcrm,PHP,21
+174021137,inertiajs/pingcrm,PHP,23
