@@ -1,10 +1,10 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,15
 7569578,discourse/discourse,Ruby,8
-27442967,fastlane/fastlane,Ruby,11
-53238813,Homebrew/brew,Ruby,16
-52281283,tootsuite/mastodon,Ruby,7
-2293158,rapid7/metasploit-framework,Ruby,11
+27442967,fastlane/fastlane,Ruby,13
+53238813,Homebrew/brew,Ruby,19
+52281283,tootsuite/mastodon,Ruby,8
+2293158,rapid7/metasploit-framework,Ruby,15
 308770,heartcombo/devise,Ruby,1
 37382858,kilimchoi/engineering-blogs,Ruby,8
 73648678,forem/forem,Ruby,8
@@ -12,12 +12,12 @@ id,name,lang,new stars
 4095287,rubocop/rubocop,Ruby,2
 11423758,mame/quine-relay,Ruby,7
 96395,faker-ruby/faker,Ruby,0
-15435,Shopify/liquid,Ruby,2
+15435,Shopify/liquid,Ruby,3
 4994614,wpscanteam/wpscan,Ruby,3
 839336,simplecov-ruby/simplecov,Ruby,1
 244452551,alexeygrigorev/data-science-interviews,Ruby,5
-1952825,Homebrew/homebrew-bundle,Ruby,4
-189010173,Hackplayers/evil-winrm,Ruby,0
+1952825,Homebrew/homebrew-bundle,Ruby,5
+189010173,Hackplayers/evil-winrm,Ruby,1
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,7
 34840276,elastic/ansible-elasticsearch,Ruby,0
 8154497,rubysec/ruby-advisory-db,Ruby,0
