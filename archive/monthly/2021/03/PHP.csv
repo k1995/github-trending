@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,555
+3482588,danielmiessler/SecLists,PHP,554
 1864363,composer/composer,PHP,161
 458058,symfony/symfony,PHP,166
-7548986,laravel/framework,PHP,214
-2253830,PHPMailer/PHPMailer,PHP,179
+7548986,laravel/framework,PHP,213
+2253830,PHPMailer/PHPMailer,PHP,180
 3431193,yiisoft/yii2,PHP,55
-60243197,nextcloud/server,PHP,708
-1305114,roots/sage,PHP,64
+60243197,nextcloud/server,PHP,709
+1305114,roots/sage,PHP,65
 597887,doctrine/orm,PHP,87
 2699935,squizlabs/PHP_CodeSniffer,PHP,100
-2179920,woocommerce/woocommerce,PHP,73
+2179920,woocommerce/woocommerce,PHP,75
 21298446,firefly-iii/firefly-iii,PHP,161
 10371103,Laravel-Lang/lang,PHP,84
 12204147,mautic/mautic,PHP,80
