@@ -1,6 +1,6 @@
 id,name,lang,new stars
-52281283,tootsuite/mastodon,Ruby,14
-308770,heartcombo/devise,Ruby,3
+52281283,tootsuite/mastodon,Ruby,12
+308770,heartcombo/devise,Ruby,4
 138312,capistrano/capistrano,Ruby,1
 4095287,rubocop/rubocop,Ruby,2
 96395,faker-ruby/faker,Ruby,4
@@ -8,7 +8,7 @@ id,name,lang,new stars
 611921,activeadmin/activeadmin,Ruby,1
 810796,sferik/rails_admin,Ruby,4
 21829,thoughtbot/factory_bot,Ruby,2
-277089,flyerhzm/bullet,Ruby,26
+277089,flyerhzm/bullet,Ruby,27
 75785147,rails/webpacker,Ruby,3
 33739333,thoughtbot/administrate,Ruby,2
 1980539,drapergem/draper,Ruby,2

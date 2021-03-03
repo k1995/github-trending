@@ -1,11 +1,11 @@
 id,name,lang,new stars
 121395510,CyC2018/CS-Notes,Java,130
-507775,elastic/elasticsearch,Java,30
-173228436,NationalSecurityAgency/ghidra,Java,103
-7613257,SeleniumHQ/selenium,Java,11
+507775,elastic/elasticsearch,Java,29
+173228436,NationalSecurityAgency/ghidra,Java,196
+7613257,SeleniumHQ/selenium,Java,10
 7587038,alibaba/canal,Java,17
-161757837,elunez/eladmin,Java,52
-75164823,apache/rocketmq,Java,12
+161757837,elunez/eladmin,Java,51
+75164823,apache/rocketmq,Java,13
 501687,antlr/antlr4,Java,10
 206424,apache/cassandra,Java,2
 1326671,k9mail/k-9,Java,3
@@ -15,7 +15,7 @@ id,name,lang,new stars
 27911088,apache/nifi,Java,0
 183041039,codedrinker/community,Java,4
 3816238,buchen/portfolio,Java,3
-3382195,cloudfoundry/uaa,Java,1
+3382195,cloudfoundry/uaa,Java,0
 52980493,spring-projects/spring-kafka,Java,1
 158256479,apache/iceberg,Java,4
 172750723,open-telemetry/opentelemetry-java,Java,1
