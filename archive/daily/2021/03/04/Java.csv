@@ -1,11 +1,11 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,115
-22790488,iluwatar/java-design-patterns,Java,46
+132464395,Snailclimb/JavaGuide,Java,116
+22790488,iluwatar/java-design-patterns,Java,45
 7508411,ReactiveX/RxJava,Java,2
-20300177,google/guava,Java,13
+20300177,google/guava,Java,12
 63477660,TheAlgorithms/Java,Java,33
-173228436,NationalSecurityAgency/ghidra,Java,261
-9754983,eugenp/tutorials,Java,17
+173228436,NationalSecurityAgency/ghidra,Java,227
+9754983,eugenp/tutorials,Java,16
 55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,11
 6766558,Netflix/Hystrix,Java,6
 159152904,zhangdaiscott/jeecg-boot,Java,135
@@ -13,8 +13,8 @@ id,name,lang,new stars
 161757837,elunez/eladmin,Java,42
 5349565,prestodb/presto,Java,6
 20570214,google/tink,Java,6
-501687,antlr/antlr4,Java,8
-133134007,OpenAPITools/openapi-generator,Java,7
+501687,antlr/antlr4,Java,10
+133134007,OpenAPITools/openapi-generator,Java,8
 867564,robolectric/robolectric,Java,1
 33816473,testcontainers/testcontainers-java,Java,3
 50904245,apache/beam,Java,3
