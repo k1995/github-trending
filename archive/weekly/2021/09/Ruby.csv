@@ -1,18 +1,18 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,68
-8681349,huginn/huginn,Ruby,70
+8681349,huginn/huginn,Ruby,69
 21600440,bayandin/awesome-awesomeness,Ruby,44
-2293158,rapid7/metasploit-framework,Ruby,88
+2293158,rapid7/metasploit-framework,Ruby,89
 308770,heartcombo/devise,Ruby,23
-37382858,kilimchoi/engineering-blogs,Ruby,110
-2203645,CocoaPods/CocoaPods,Ruby,59
-4095287,rubocop/rubocop,Ruby,13
-3195124,mperham/sidekiq,Ruby,17
-96395,faker-ruby/faker,Ruby,18
+37382858,kilimchoi/engineering-blogs,Ruby,149
+2203645,CocoaPods/CocoaPods,Ruby,54
+4095287,rubocop/rubocop,Ruby,14
+3195124,mperham/sidekiq,Ruby,18
+96395,faker-ruby/faker,Ruby,17
 52855516,Homebrew/homebrew-core,Ruby,38
-202291859,chatwoot/chatwoot,Ruby,80
+202291859,chatwoot/chatwoot,Ruby,77
 910744,puppetlabs/puppet,Ruby,5
-75785147,rails/webpacker,Ruby,12
+75785147,rails/webpacker,Ruby,11
 16994115,CanCanCommunity/cancancan,Ruby,8
 52316423,luggit/react-native-config,Ruby,15
 30985840,solidusio/solidus,Ruby,29
@@ -22,5 +22,5 @@ id,name,lang,new stars
 10088951,TheOdinProject/theodinproject,Ruby,10
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,17
 237482582,blindsidenetworks/scalelite,Ruby,3
-339809184,charkost/prosopite,Ruby,87
+339809184,charkost/prosopite,Ruby,83
 328496246,learn-co-curriculum/phase-0-html-experiencing-html-lab,Ruby,0
