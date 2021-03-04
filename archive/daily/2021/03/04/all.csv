@@ -10,9 +10,9 @@ id,name,lang,new stars
 172663786,extreme-assistant/CVPR2021-Paper-Code-Interpretation,,100
 77276660,SigmaHQ/sigma,Python,34
 7823926,prometheus/client_golang,Go,7
-89033556,firebase/firebase-ios-sdk,Objective-C,55
+89033556,firebase/firebase-ios-sdk,Objective-C,50
 226668668,nomi-sec/PoC-in-GitHub,,74
-273214029,PaddlePaddle/PaddleGAN,Python,531
+273214029,PaddlePaddle/PaddleGAN,Python,508
 343079204,tostercx/GTAO_Booster_PoC,C,243
 273400964,POSTECH-CVLab/PyTorch-StudioGAN,Python,300
 340330957,pystardust/ytfzf,Shell,244
@@ -21,6 +21,6 @@ id,name,lang,new stars
 60525392,demisto/content,Python,10
 248372441,laravel-filament/filament,PHP,101
 325491766,muguruzawang/jd_maotai_seckill,Python,147
-88094811,jepsen-io/maelstrom,Clojure,48
+88094811,jepsen-io/maelstrom,Clojure,49
 334047972,bytemaster/clarion,C++,70
 343000632,hyunwoongko/openchat,Python,43
