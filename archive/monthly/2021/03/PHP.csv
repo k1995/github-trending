@@ -1,13 +1,13 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,153
-7548986,laravel/framework,PHP,219
-2253830,PHPMailer/PHPMailer,PHP,180
-60243197,nextcloud/server,PHP,720
+7548986,laravel/framework,PHP,216
+2253830,PHPMailer/PHPMailer,PHP,179
+60243197,nextcloud/server,PHP,722
 3431193,yiisoft/yii2,PHP,56
-1305114,roots/sage,PHP,71
+1305114,roots/sage,PHP,72
 8678290,barryvdh/laravel-ide-helper,PHP,102
 49014795,phpstan/phpstan,PHP,109
-597887,doctrine/orm,PHP,82
+597887,doctrine/orm,PHP,81
 11340559,deployphp/deployer,PHP,66
 2179920,woocommerce/woocommerce,PHP,75
 21298446,firefly-iii/firefly-iii,PHP,152
@@ -17,8 +17,8 @@ id,name,lang,new stars
 95011974,akaunting/akaunting,PHP,107
 4224042,roundcube/roundcubemail,PHP,41
 2464908,joomla/joomla-cms,PHP,33
-47508644,pterodactyl/panel,PHP,82
-16455664,tastyigniter/TastyIgniter,PHP,636
+47508644,pterodactyl/panel,PHP,81
+16455664,tastyigniter/TastyIgniter,PHP,618
 230926110,qkqpttgf/OneManager-php,PHP,179
 131995661,shopware/platform,PHP,50
 174021137,inertiajs/pingcrm,PHP,72
