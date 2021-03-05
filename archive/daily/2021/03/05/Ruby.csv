@@ -1,17 +1,17 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,12
-13840241,freeCodeCamp/devdocs,Ruby,9
-52281283,tootsuite/mastodon,Ruby,5
-2293158,rapid7/metasploit-framework,Ruby,14
+27442967,fastlane/fastlane,Ruby,14
+13840241,freeCodeCamp/devdocs,Ruby,12
+52281283,tootsuite/mastodon,Ruby,4
+2293158,rapid7/metasploit-framework,Ruby,12
 481872,hashicorp/vagrant,Ruby,4
 308770,heartcombo/devise,Ruby,3
 37382858,kilimchoi/engineering-blogs,Ruby,176
 73648678,forem/forem,Ruby,9
-2203645,CocoaPods/CocoaPods,Ruby,2
+2203645,CocoaPods/CocoaPods,Ruby,3
 1090311,elastic/logstash,Ruby,2
 106995,sinatra/sinatra,Ruby,0
 3314,spree/spree,Ruby,6
-3195124,mperham/sidekiq,Ruby,6
+3195124,mperham/sidekiq,Ruby,5
 1918677,fluent/fluentd,Ruby,5
 96395,faker-ruby/faker,Ruby,2
 451035,heartcombo/simple_form,Ruby,0
@@ -19,8 +19,8 @@ id,name,lang,new stars
 277089,flyerhzm/bullet,Ruby,2
 72754314,chyingp/nodejs-learning-guide,Ruby,1
 22059578,ankane/pghero,Ruby,0
-11412473,ankane/searchkick,Ruby,2
+11412473,ankane/searchkick,Ruby,3
 6899875,opf/openproject,Ruby,5
 1172597,thoughtbot/shoulda-matchers,Ruby,1
-13830051,pact-foundation/pact_broker,Ruby,0
+13830051,pact-foundation/pact_broker,Ruby,1
 66497320,DataDog/dd-trace-rb,Ruby,0
