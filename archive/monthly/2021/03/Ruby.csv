@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,270
-7569578,discourse/discourse,Ruby,257
+8514,rails/rails,Ruby,269
+7569578,discourse/discourse,Ruby,254
 27442967,fastlane/fastlane,Ruby,443
-53238813,Homebrew/brew,Ruby,1444
-13840241,freeCodeCamp/devdocs,Ruby,284
-2293158,rapid7/metasploit-framework,Ruby,292
+53238813,Homebrew/brew,Ruby,1443
+13840241,freeCodeCamp/devdocs,Ruby,285
+2293158,rapid7/metasploit-framework,Ruby,291
 481872,hashicorp/vagrant,Ruby,185
 308770,heartcombo/devise,Ruby,85
-37382858,kilimchoi/engineering-blogs,Ruby,346
+37382858,kilimchoi/engineering-blogs,Ruby,368
 3623050,Homebrew/homebrew-cask,Ruby,124
-2203645,CocoaPods/CocoaPods,Ruby,109
-3195124,mperham/sidekiq,Ruby,61
+2203645,CocoaPods/CocoaPods,Ruby,110
+3195124,mperham/sidekiq,Ruby,60
 1918677,fluent/fluentd,Ruby,113
-96395,faker-ruby/faker,Ruby,64
+96395,faker-ruby/faker,Ruby,63
 52855516,Homebrew/homebrew-core,Ruby,187
 6688319,DeathKing/Learning-SICP,Ruby,116
 21829,thoughtbot/factory_bot,Ruby,42
@@ -21,6 +21,6 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,40
 244452551,alexeygrigorev/data-science-interviews,Ruby,178
 1952825,Homebrew/homebrew-bundle,Ruby,51
-30985840,solidusio/solidus,Ruby,72
+30985840,solidusio/solidus,Ruby,71
 93163073,dependabot/dependabot-core,Ruby,67
-334416586,rails/kredis,Ruby,186
+334416586,rails/kredis,Ruby,167
