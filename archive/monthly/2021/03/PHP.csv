@@ -1,17 +1,17 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,153
-7548986,laravel/framework,PHP,216
-2253830,PHPMailer/PHPMailer,PHP,179
+458058,symfony/symfony,PHP,152
+7548986,laravel/framework,PHP,218
+2253830,PHPMailer/PHPMailer,PHP,181
 60243197,nextcloud/server,PHP,722
 3431193,yiisoft/yii2,PHP,56
-1305114,roots/sage,PHP,72
+1305114,roots/sage,PHP,73
 8678290,barryvdh/laravel-ide-helper,PHP,102
-49014795,phpstan/phpstan,PHP,109
-597887,doctrine/orm,PHP,81
+49014795,phpstan/phpstan,PHP,108
+597887,doctrine/orm,PHP,80
 11340559,deployphp/deployer,PHP,66
 2179920,woocommerce/woocommerce,PHP,75
 21298446,firefly-iii/firefly-iii,PHP,152
-10371103,Laravel-Lang/lang,PHP,87
+10371103,Laravel-Lang/lang,PHP,86
 14346979,snipe/snipe-it,PHP,70
 627735,vrana/adminer,PHP,57
 95011974,akaunting/akaunting,PHP,107
@@ -19,8 +19,8 @@ id,name,lang,new stars
 2464908,joomla/joomla-cms,PHP,33
 47508644,pterodactyl/panel,PHP,81
 16455664,tastyigniter/TastyIgniter,PHP,618
-230926110,qkqpttgf/OneManager-php,PHP,179
-131995661,shopware/platform,PHP,50
+230926110,qkqpttgf/OneManager-php,PHP,178
+131995661,shopware/platform,PHP,49
 174021137,inertiajs/pingcrm,PHP,72
 111562942,statamic/cms,PHP,47
 36526302,pentestmonkey/php-reverse-shell,PHP,46
