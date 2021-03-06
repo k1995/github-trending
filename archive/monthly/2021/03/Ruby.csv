@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,261
 7569578,discourse/discourse,Ruby,258
-27442967,fastlane/fastlane,Ruby,446
+27442967,fastlane/fastlane,Ruby,445
 21600440,bayandin/awesome-awesomeness,Ruby,139
-53238813,Homebrew/brew,Ruby,1413
-2293158,rapid7/metasploit-framework,Ruby,297
-481872,hashicorp/vagrant,Ruby,180
-308770,heartcombo/devise,Ruby,82
-37382858,kilimchoi/engineering-blogs,Ruby,674
-3623050,Homebrew/homebrew-cask,Ruby,119
-2203645,CocoaPods/CocoaPods,Ruby,109
+53238813,Homebrew/brew,Ruby,1407
+2293158,rapid7/metasploit-framework,Ruby,300
+481872,hashicorp/vagrant,Ruby,178
+308770,heartcombo/devise,Ruby,81
+37382858,kilimchoi/engineering-blogs,Ruby,695
+3623050,Homebrew/homebrew-cask,Ruby,120
+2203645,CocoaPods/CocoaPods,Ruby,110
 1090311,elastic/logstash,Ruby,65
 3195124,mperham/sidekiq,Ruby,58
 1918677,fluent/fluentd,Ruby,110
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1952825,Homebrew/homebrew-bundle,Ruby,51
 30985840,solidusio/solidus,Ruby,69
 3898922,zammad/zammad,Ruby,39
-93163073,dependabot/dependabot-core,Ruby,68
+93163073,dependabot/dependabot-core,Ruby,69
