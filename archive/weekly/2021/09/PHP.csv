@@ -1,9 +1,9 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,148
-1864363,composer/composer,PHP,55
+1864363,composer/composer,PHP,52
 7548986,laravel/framework,PHP,62
-1420053,guzzle/guzzle,PHP,37
-82238168,monicahq/monica,PHP,36
+1420053,guzzle/guzzle,PHP,38
+82238168,monicahq/monica,PHP,35
 8678290,barryvdh/laravel-ide-helper,PHP,29
 14732311,octobercms/october,PHP,28
 49014795,phpstan/phpstan,PHP,36
@@ -22,5 +22,5 @@ id,name,lang,new stars
 2784293,php-amqplib/php-amqplib,PHP,12
 2464908,joomla/joomla-cms,PHP,10
 222873550,bytefury/crater,PHP,22
-86987524,WWBN/AVideo,PHP,34
-174021137,inertiajs/pingcrm,PHP,41
+86987524,WWBN/AVideo,PHP,35
+174021137,inertiajs/pingcrm,PHP,42
