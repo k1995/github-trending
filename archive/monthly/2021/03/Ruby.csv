@@ -1,19 +1,19 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,256
-7569578,discourse/discourse,Ruby,264
-27442967,fastlane/fastlane,Ruby,335
-21600440,bayandin/awesome-awesomeness,Ruby,144
-53238813,Homebrew/brew,Ruby,1078
+7569578,discourse/discourse,Ruby,265
+27442967,fastlane/fastlane,Ruby,334
+21600440,bayandin/awesome-awesomeness,Ruby,145
+53238813,Homebrew/brew,Ruby,1080
 2293158,rapid7/metasploit-framework,Ruby,296
 481872,hashicorp/vagrant,Ruby,174
-37382858,kilimchoi/engineering-blogs,Ruby,860
+37382858,kilimchoi/engineering-blogs,Ruby,884
 3623050,Homebrew/homebrew-cask,Ruby,112
 2203645,CocoaPods/CocoaPods,Ruby,107
 1090311,elastic/logstash,Ruby,63
 3195124,mperham/sidekiq,Ruby,57
 1918677,fluent/fluentd,Ruby,104
 96395,faker-ruby/faker,Ruby,61
-52855516,Homebrew/homebrew-core,Ruby,184
+52855516,Homebrew/homebrew-core,Ruby,186
 21829,thoughtbot/factory_bot,Ruby,44
 202291859,chatwoot/chatwoot,Ruby,276
 108278,chef/chef,Ruby,38
@@ -22,5 +22,5 @@ id,name,lang,new stars
 244452551,alexeygrigorev/data-science-interviews,Ruby,169
 1952825,Homebrew/homebrew-bundle,Ruby,50
 30985840,solidusio/solidus,Ruby,68
-93163073,dependabot/dependabot-core,Ruby,69
+93163073,dependabot/dependabot-core,Ruby,70
 7983886,timdorr/tesla-api,Ruby,36

@@ -1,6 +1,6 @@
 id,name,lang,new stars
 36502,git/git,C,283
-1903522,php/php-src,C,6
+1903522,php/php-src,C,8
 102578345,coolsnowwolf/lede,C,38
 29759715,facebook/zstd,C,10
 84240850,timescale/timescaledb,C,8
@@ -8,19 +8,19 @@ id,name,lang,new stars
 3199002,raspberrypi/linux,C,2
 70127218,espressif/arduino-esp32,C,7
 2328181,freebsd/freebsd-src,C,4
-105944401,yugabyte/yugabyte-db,C,4
+105944401,yugabyte/yugabyte-db,C,6
 14735429,aquynh/capstone,C,22
-59771425,zephyrproject-rtos/zephyr,C,4
-5805256,lua/lua,C,12
-254327261,sandboxie-plus/Sandboxie,C,11
-16582463,antirez/sds,C,8
+59771425,zephyrproject-rtos/zephyr,C,5
+5805256,lua/lua,C,14
+254327261,sandboxie-plus/Sandboxie,C,15
+16582463,antirez/sds,C,9
 8046269,warmcat/libwebsockets,C,1
 123135691,tanersener/mobile-ffmpeg,C,5
 6331631,axboe/fio,C,2
-29933948,fluent/fluent-bit,C,4
-52379184,microsoft/checkedc,C,31
+29933948,fluent/fluent-bit,C,5
+52379184,microsoft/checkedc,C,32
 66966208,openbsd/src,C,2
-257113637,jdah/minecraft-weekend,C,13
+257113637,jdah/minecraft-weekend,C,16
 50272879,pjsip/pjproject,C,1
-276293034,apache/incubator-age,C,11
+276293034,apache/incubator-age,C,12
 307468125,jart/sectorlisp,C,10

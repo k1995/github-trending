@@ -1,8 +1,8 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,9
-7569578,discourse/discourse,Ruby,11
+7569578,discourse/discourse,Ruby,13
 27442967,fastlane/fastlane,Ruby,3
-37382858,kilimchoi/engineering-blogs,Ruby,161
+37382858,kilimchoi/engineering-blogs,Ruby,160
 2203645,CocoaPods/CocoaPods,Ruby,1
 1090311,elastic/logstash,Ruby,1
 4095287,rubocop/rubocop,Ruby,1
@@ -10,7 +10,7 @@ id,name,lang,new stars
 11423758,mame/quine-relay,Ruby,6
 1918677,fluent/fluentd,Ruby,1
 96395,faker-ruby/faker,Ruby,0
-15435,Shopify/liquid,Ruby,8
+15435,Shopify/liquid,Ruby,9
 21829,thoughtbot/factory_bot,Ruby,2
 2889230,rails-api/active_model_serializers,Ruby,0
 1314319,instructure/canvas-lms,Ruby,0
@@ -19,8 +19,8 @@ id,name,lang,new stars
 39706711,hartator/wayback-machine-downloader,Ruby,2
 41571541,inspec/inspec,Ruby,1
 4137249,test-kitchen/test-kitchen,Ruby,0
-93163073,dependabot/dependabot-core,Ruby,3
-156555906,testdouble/standard,Ruby,30
+93163073,dependabot/dependabot-core,Ruby,4
+156555906,testdouble/standard,Ruby,37
 339809184,charkost/prosopite,Ruby,14
 339860857,Shopify/upgrow,Ruby,74
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
