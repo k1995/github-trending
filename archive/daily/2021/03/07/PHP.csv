@@ -1,15 +1,15 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,3
 458058,symfony/symfony,PHP,9
-7548986,laravel/framework,PHP,7
+7548986,laravel/framework,PHP,8
 448045,sebastianbergmann/phpunit,PHP,5
 12615154,barryvdh/laravel-debugbar,PHP,2
 14732311,octobercms/october,PHP,5
-56728437,docker/labs,PHP,1
+56728437,docker/labs,PHP,0
 14259390,Maatwebsite/Laravel-Excel,PHP,3
 2884111,magento/magento2,PHP,3
 212659,sebastianbergmann/php-code-coverage,PHP,2
-11584853,myclabs/DeepCopy,PHP,1
+11584853,myclabs/DeepCopy,PHP,2
 1398641,symfony/finder,PHP,2
 330275,twigphp/Twig,PHP,0
 10238429,tennc/webshell,PHP,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 6495081,wikimedia/mediawiki,PHP,0
 131995661,shopware/platform,PHP,2
 806201,modxcms/revolution,PHP,4
-248372441,laravel-filament/filament,PHP,59
+248372441,laravel-filament/filament,PHP,58
