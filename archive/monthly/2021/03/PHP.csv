@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,503
+1863329,laravel/laravel,PHP,504
 1864363,composer/composer,PHP,175
 458058,symfony/symfony,PHP,163
 7548986,laravel/framework,PHP,221
@@ -9,13 +9,13 @@ id,name,lang,new stars
 8678290,barryvdh/laravel-ide-helper,PHP,102
 49014795,phpstan/phpstan,PHP,108
 597887,doctrine/orm,PHP,81
-11340559,deployphp/deployer,PHP,66
+11340559,deployphp/deployer,PHP,68
 2179920,woocommerce/woocommerce,PHP,79
 21298446,firefly-iii/firefly-iii,PHP,153
 10371103,Laravel-Lang/lang,PHP,89
 14346979,snipe/snipe-it,PHP,68
 627735,vrana/adminer,PHP,59
-95011974,akaunting/akaunting,PHP,111
+95011974,akaunting/akaunting,PHP,112
 2464908,joomla/joomla-cms,PHP,34
 13914116,librenms/librenms,PHP,43
 32792088,symfony/demo,PHP,23

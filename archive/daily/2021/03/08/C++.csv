@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,76
+1181927,bitcoin/bitcoin,C++,79
 15634981,godotengine/godot,C++,37
-22067521,ocornut/imgui,C++,52
+22067521,ocornut/imgui,C++,54
 39840932,google/googletest,C++,189
 23129458,aseprite/aseprite,C++,20
 7056202,fmtlib/fmt,C++,30
@@ -18,9 +18,9 @@ id,name,lang,new stars
 22660515,onqtam/doctest,C++,9
 143324737,diasurgical/devilutionX,C++,18
 32231207,endless-sky/endless-sky,C++,6
-71402842,microsoft/Detours,C++,8
+71402842,microsoft/Detours,C++,9
 8243074,hzeller/rpi-rgb-led-matrix,C++,8
-94253765,ctubio/Krypto-trading-bot,C++,4
+94253765,ctubio/Krypto-trading-bot,C++,5
 150774287,danielkrupinski/Osiris,C++,7
 61980658,azerothcore/azerothcore-wotlk,C++,8
 197211881,alvr-org/ALVR,C++,11
