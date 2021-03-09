@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,139
-458058,symfony/symfony,PHP,49
+1863329,laravel/laravel,PHP,135
+458058,symfony/symfony,PHP,50
 7548986,laravel/framework,PHP,65
 1376664,Seldaek/monolog,PHP,40
-448045,sebastianbergmann/phpunit,PHP,43
-11323319,erusev/parsedown,PHP,28
-82238168,monicahq/monica,PHP,31
+448045,sebastianbergmann/phpunit,PHP,44
+11323319,erusev/parsedown,PHP,29
+82238168,monicahq/monica,PHP,29
 7704544,Intervention/image,PHP,35
-14732311,octobercms/october,PHP,31
+14732311,octobercms/october,PHP,32
 48796179,z-song/laravel-admin,PHP,25
-49014795,phpstan/phpstan,PHP,41
-14259390,Maatwebsite/Laravel-Excel,PHP,31
+49014795,phpstan/phpstan,PHP,39
+14259390,Maatwebsite/Laravel-Excel,PHP,30
 2884111,magento/magento2,PHP,13
 42480275,spatie/laravel-permission,PHP,44
 31295421,guzzle/psr7,PHP,30
@@ -21,6 +21,6 @@ id,name,lang,new stars
 2784293,php-amqplib/php-amqplib,PHP,10
 79166184,cretueusebiu/laravel-vue-spa,PHP,10
 86987524,WWBN/AVideo,PHP,34
-57463067,AzuraCast/AzuraCast,PHP,8
-248372441,laravel-filament/filament,PHP,495
+57463067,AzuraCast/AzuraCast,PHP,9
+248372441,laravel-filament/filament,PHP,483
 317717051,ghboke/CorePressWPTheme,PHP,37
