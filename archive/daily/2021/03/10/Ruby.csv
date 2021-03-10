@@ -1,6 +1,6 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,6
-52281283,tootsuite/mastodon,Ruby,6
+27442967,fastlane/fastlane,Ruby,5
+52281283,tootsuite/mastodon,Ruby,7
 2203645,CocoaPods/CocoaPods,Ruby,2
 1090311,elastic/logstash,Ruby,5
 96395,faker-ruby/faker,Ruby,3
@@ -8,19 +8,19 @@ id,name,lang,new stars
 275604,resque/resque,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,1
 6529205,varvet/pundit,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,13
+202291859,chatwoot/chatwoot,Ruby,15
 10865,norman/friendly_id,Ruby,1
 355893,github/markup,Ruby,3
-75785147,rails/webpacker,Ruby,2
-6899875,opf/openproject,Ruby,4
-447184,rspec/rspec-rails,Ruby,3
+75785147,rails/webpacker,Ruby,0
+6899875,opf/openproject,Ruby,3
+447184,rspec/rspec-rails,Ruby,5
 2861056,rails/jbuilder,Ruby,1
 52316423,luggit/react-native-config,Ruby,3
 30985840,solidusio/solidus,Ruby,4
-143489,DatabaseCleaner/database_cleaner,Ruby,0
-3898922,zammad/zammad,Ruby,0
-1175581,citation-style-language/styles,Ruby,6
-9831101,elastic/elasticsearch-ruby,Ruby,1
+143489,DatabaseCleaner/database_cleaner,Ruby,1
+3898922,zammad/zammad,Ruby,2
+1175581,citation-style-language/styles,Ruby,5
+9831101,elastic/elasticsearch-ruby,Ruby,0
 10088951,TheOdinProject/theodinproject,Ruby,0
-341595907,googleprojectzero/0days-in-the-wild,Ruby,16
+341595907,googleprojectzero/0days-in-the-wild,Ruby,13
 223915944,lewagon/rails-garden-manager,Ruby,0
