@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,26
+1863329,laravel/laravel,PHP,27
 458058,symfony/symfony,PHP,8
-448045,sebastianbergmann/phpunit,PHP,8
+448045,sebastianbergmann/phpunit,PHP,9
 1631570,nikic/PHP-Parser,PHP,9
 72069409,the-control-group/voyager,PHP,2
 56728437,docker/labs,PHP,6
-2884111,magento/magento2,PHP,4
-6660366,dompdf/dompdf,PHP,4
+2884111,magento/magento2,PHP,6
+6660366,dompdf/dompdf,PHP,3
 12166778,googleapis/google-api-php-client,PHP,2
 330275,twigphp/Twig,PHP,2
 6763587,PrestaShop/PrestaShop,PHP,3
 65017574,botman/botman,PHP,4
-12204147,mautic/mautic,PHP,3
+12204147,mautic/mautic,PHP,2
 74386167,vimeo/psalm,PHP,3
 31595609,mpdf/mpdf,PHP,1
 20413487,ralouphie/getallheaders,PHP,2
@@ -19,8 +19,8 @@ id,name,lang,new stars
 47508644,pterodactyl/panel,PHP,2
 13914116,librenms/librenms,PHP,1
 166299071,stancl/tenancy,PHP,5
-74026995,CodelyTV/php-ddd-example,PHP,1
+74026995,CodelyTV/php-ddd-example,PHP,3
 28060246,YetiForceCompany/YetiForceCRM,PHP,1
-291804966,laravel/fortify,PHP,2
+291804966,laravel/fortify,PHP,1
 105997676,getkirby/kirby,PHP,1
-229847129,azjezz/psl,PHP,5
+229847129,azjezz/psl,PHP,3
