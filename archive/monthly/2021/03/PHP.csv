@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,492
-1864363,composer/composer,PHP,172
-458058,symfony/symfony,PHP,163
-7548986,laravel/framework,PHP,222
-448045,sebastianbergmann/phpunit,PHP,133
+1863329,laravel/laravel,PHP,490
+1864363,composer/composer,PHP,171
+458058,symfony/symfony,PHP,164
+7548986,laravel/framework,PHP,221
+448045,sebastianbergmann/phpunit,PHP,134
 60243197,nextcloud/server,PHP,714
 1305114,roots/sage,PHP,78
 8678290,barryvdh/laravel-ide-helper,PHP,99
-49014795,phpstan/phpstan,PHP,111
+49014795,phpstan/phpstan,PHP,110
 5627682,serbanghita/Mobile-Detect,PHP,49
 42480275,spatie/laravel-permission,PHP,132
 597887,doctrine/orm,PHP,81
-11340559,deployphp/deployer,PHP,63
+11340559,deployphp/deployer,PHP,64
 677464,doctrine/dbal,PHP,78
 2179920,woocommerce/woocommerce,PHP,75
 21298446,firefly-iii/firefly-iii,PHP,150
@@ -20,7 +20,7 @@ id,name,lang,new stars
 95011974,akaunting/akaunting,PHP,105
 13914116,librenms/librenms,PHP,39
 32792088,symfony/demo,PHP,20
-16455664,tastyigniter/TastyIgniter,PHP,191
+16455664,tastyigniter/TastyIgniter,PHP,172
 131995661,shopware/platform,PHP,46
 174021137,inertiajs/pingcrm,PHP,70
 36526302,pentestmonkey/php-reverse-shell,PHP,55
