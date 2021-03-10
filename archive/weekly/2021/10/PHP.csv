@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,132
+1863329,laravel/laravel,PHP,131
 458058,symfony/symfony,PHP,51
-7548986,laravel/framework,PHP,64
+7548986,laravel/framework,PHP,61
 1376664,Seldaek/monolog,PHP,41
 448045,sebastianbergmann/phpunit,PHP,45
 11323319,erusev/parsedown,PHP,28
@@ -9,18 +9,18 @@ id,name,lang,new stars
 7704544,Intervention/image,PHP,35
 14732311,octobercms/october,PHP,33
 48796179,z-song/laravel-admin,PHP,24
-49014795,phpstan/phpstan,PHP,37
-14259390,Maatwebsite/Laravel-Excel,PHP,30
-2884111,magento/magento2,PHP,14
+49014795,phpstan/phpstan,PHP,36
+14259390,Maatwebsite/Laravel-Excel,PHP,29
+2884111,magento/magento2,PHP,15
 42480275,spatie/laravel-permission,PHP,43
-31295421,guzzle/psr7,PHP,28
+31295421,guzzle/psr7,PHP,27
 2179920,woocommerce/woocommerce,PHP,16
-14716368,invoiceninja/invoiceninja,PHP,27
+14716368,invoiceninja/invoiceninja,PHP,26
 60491949,fecshop/yii2_fecshop,PHP,44
 95011974,akaunting/akaunting,PHP,30
 2784293,php-amqplib/php-amqplib,PHP,9
 79166184,cretueusebiu/laravel-vue-spa,PHP,10
-86987524,WWBN/AVideo,PHP,33
+86987524,WWBN/AVideo,PHP,32
 57463067,AzuraCast/AzuraCast,PHP,9
-248372441,laravel-filament/filament,PHP,474
-317717051,ghboke/CorePressWPTheme,PHP,37
+248372441,laravel-filament/filament,PHP,465
+317717051,ghboke/CorePressWPTheme,PHP,38
