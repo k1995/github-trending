@@ -4,7 +4,7 @@ id,name,lang,new stars
 448045,sebastianbergmann/phpunit,PHP,8
 2253830,PHPMailer/PHPMailer,PHP,6
 5724990,briannesbitt/Carbon,PHP,5
-2889328,WordPress/WordPress,PHP,10
+2889328,WordPress/WordPress,PHP,9
 53783664,easychen/howto-make-more-money,PHP,6
 11323319,erusev/parsedown,PHP,3
 13899674,thephpleague/flysystem,PHP,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,3
 4565995,phpseclib/phpseclib,PHP,4
 131995661,shopware/platform,PHP,5
-344880449,taylorotwell/meilisearch-web,PHP,7
+344880449,taylorotwell/meilisearch-web,PHP,6
