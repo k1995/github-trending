@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,6
-458058,symfony/symfony,PHP,8
+2579314,fzaninotto/Faker,PHP,9
+458058,symfony/symfony,PHP,7
 448045,sebastianbergmann/phpunit,PHP,11
-2253830,PHPMailer/PHPMailer,PHP,6
+2253830,PHPMailer/PHPMailer,PHP,7
 5724990,briannesbitt/Carbon,PHP,3
-2889328,WordPress/WordPress,PHP,9
+2889328,WordPress/WordPress,PHP,7
 53783664,easychen/howto-make-more-money,PHP,6
-11323319,erusev/parsedown,PHP,3
+11323319,erusev/parsedown,PHP,2
 13899674,thephpleague/flysystem,PHP,3
 7769432,vlucas/phpdotenv,PHP,3
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,5
@@ -20,7 +20,7 @@ id,name,lang,new stars
 364315,predis/predis,PHP,4
 6763587,PrestaShop/PrestaShop,PHP,2
 10883164,barryvdh/laravel-dompdf,PHP,3
-12204147,mautic/mautic,PHP,3
+12204147,mautic/mautic,PHP,4
 4565995,phpseclib/phpseclib,PHP,2
 131995661,shopware/platform,PHP,6
 344880449,taylorotwell/meilisearch-web,PHP,7
