@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,50
+20580498,kubernetes/kubernetes,Go,54
+29261473,minio/minio,Go,21
+13855476,go-gorm/gorm,Go,14
+61137153,evanw/esbuild,Go,400
+14125254,hashicorp/consul,Go,75
+16563587,cockroachdb/cockroach,Go,16
+37448451,mattermost/mattermost-server,Go,11
+14376285,matryer/xbar,Go,14
+33258973,influxdata/telegraf,Go,5
+87617508,casbin/casbin,Go,12
+18858585,mailhog/MailHog,Go,11
+46089560,containerd/containerd,Go,13
+198683574,dolthub/dolt,Go,329
+48643510,pkg/errors,Go,10
+68964263,prometheus-operator/prometheus-operator,Go,2
+192779991,vmware-tanzu/octant,Go,83
+99143276,vmware-tanzu/velero,Go,6
+78869430,heroiclabs/nakama,Go,19
+11452538,prometheus/alertmanager,Go,3
+134539560,weaveworks/eksctl,Go,3
+332424498,liamg/traitor,Go,36
+41964498,prometheus/blackbox_exporter,Go,3
+84610043,kubernetes-sigs/aws-load-balancer-controller,Go,2
+91074692,zalando/postgres-operator,Go,3
