@@ -1,14 +1,14 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,482
-1864363,composer/composer,PHP,175
-458058,symfony/symfony,PHP,160
-448045,sebastianbergmann/phpunit,PHP,146
+1864363,composer/composer,PHP,176
+458058,symfony/symfony,PHP,162
+448045,sebastianbergmann/phpunit,PHP,147
 60243197,nextcloud/server,PHP,723
-1305114,roots/sage,PHP,75
-14732311,octobercms/october,PHP,99
+1305114,roots/sage,PHP,76
+14732311,octobercms/october,PHP,100
 49014795,phpstan/phpstan,PHP,114
 5627682,serbanghita/Mobile-Detect,PHP,48
-2884111,magento/magento2,PHP,73
+2884111,magento/magento2,PHP,72
 42480275,spatie/laravel-permission,PHP,129
 597887,doctrine/orm,PHP,82
 677464,doctrine/dbal,PHP,78
@@ -16,11 +16,11 @@ id,name,lang,new stars
 21298446,firefly-iii/firefly-iii,PHP,156
 14346979,snipe/snipe-it,PHP,66
 627735,vrana/adminer,PHP,60
-12204147,mautic/mautic,PHP,64
+12204147,mautic/mautic,PHP,65
 95011974,akaunting/akaunting,PHP,100
 2464908,joomla/joomla-cms,PHP,37
 13914116,librenms/librenms,PHP,34
-32792088,symfony/demo,PHP,20
+32792088,symfony/demo,PHP,19
 131995661,shopware/platform,PHP,50
 174021137,inertiajs/pingcrm,PHP,70
 36526302,pentestmonkey/php-reverse-shell,PHP,53
