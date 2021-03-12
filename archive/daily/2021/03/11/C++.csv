@@ -5,7 +5,7 @@ id,name,lang,new stars
 27729880,grpc/grpc,C++,21
 19953044,google/flatbuffers,C++,9
 1062572,catchorg/Catch2,C++,10
-191820100,google/mediapipe,C++,19
+191820100,google/mediapipe,C++,18
 17391973,Tencent/rapidjson,C++,6
 2310495,ceph/ceph,C++,11
 38581626,pybind/pybind11,C++,11
@@ -13,7 +13,7 @@ id,name,lang,new stars
 50255244,raulmur/ORB_SLAM2,C++,4
 27358084,sysown/proxysql,C++,5
 156939672,microsoft/onnxruntime,C++,8
-143324737,diasurgical/devilutionX,C++,77
+143324737,diasurgical/devilutionX,C++,67
 184704903,interpretml/interpret,C++,8
 36832736,weidai11/cryptopp,C++,1
 24677392,CGAL/cgal,C++,3

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,42
+5271882,astaxie/build-web-application-with-golang,Go,16
+6838921,prometheus/prometheus,Go,14
+17728164,hashicorp/terraform,Go,16
+61137153,evanw/esbuild,Go,241
+14125254,hashicorp/consul,Go,145
+31288958,hashicorp/vault,Go,11
+50613991,goharbor/harbor,Go,13
+27729907,grpc/grpc-go,Go,11
+129717717,grafana/loki,Go,12
+192632000,dapr/dapr,Go,34
+36653430,hashicorp/nomad,Go,5
+119190187,zricethezav/gitleaks,Go,4
+113106184,linkerd/linkerd2,Go,6
+285864199,tal-tech/go-zero,Go,23
+192779991,vmware-tanzu/octant,Go,74
+99143276,vmware-tanzu/velero,Go,7
+78869430,heroiclabs/nakama,Go,66
+87990209,kubernetes/autoscaler,Go,7
+75785240,authelia/authelia,Go,348
+93446042,terraform-providers/terraform-provider-azurerm,Go,2
+100061496,spiffe/spire,Go,3
+345639477,dwisiswant0/proxylogscan,Go,13
+346078570,h4x0r-dz/CVE-2021-26855,Go,16
+345586288,jsdryan/CVE-2021-26855,Go,13
