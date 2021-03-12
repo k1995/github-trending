@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1420053,guzzle/guzzle,PHP,5
+1420053,guzzle/guzzle,PHP,4
 1376664,Seldaek/monolog,PHP,4
 2253830,PHPMailer/PHPMailer,PHP,9
-2889328,WordPress/WordPress,PHP,4
+2889328,WordPress/WordPress,PHP,5
 1548202,matomo-org/matomo,PHP,9
 12615154,barryvdh/laravel-debugbar,PHP,8
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,5
@@ -11,7 +11,7 @@ id,name,lang,new stars
 2141186,opencart/opencart,PHP,2
 14346979,snipe/snipe-it,PHP,2
 10883164,barryvdh/laravel-dompdf,PHP,4
-12204147,mautic/mautic,PHP,4
+12204147,mautic/mautic,PHP,3
 30915528,spatie/laravel-backup,PHP,8
 2360755,wp-cli/wp-cli,PHP,1
 4565995,phpseclib/phpseclib,PHP,3
