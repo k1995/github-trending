@@ -2,9 +2,9 @@ id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,28
 23357588,protocolbuffers/protobuf,C++,16
 27729880,grpc/grpc,C++,13
-6934395,facebook/rocksdb,C++,10
+6934395,facebook/rocksdb,C++,7
 1062572,catchorg/Catch2,C++,2
-191820100,google/mediapipe,C++,9
+191820100,google/mediapipe,C++,8
 26038648,gabime/spdlog,C++,8
 38581626,pybind/pybind11,C++,6
 51905353,apache/arrow,C++,7

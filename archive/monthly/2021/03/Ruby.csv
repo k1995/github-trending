@@ -1,13 +1,13 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,271
+7569578,discourse/discourse,Ruby,273
 21600440,bayandin/awesome-awesomeness,Ruby,158
-13840241,freeCodeCamp/devdocs,Ruby,299
-2293158,rapid7/metasploit-framework,Ruby,300
-308770,heartcombo/devise,Ruby,74
-37382858,kilimchoi/engineering-blogs,Ruby,925
+13840241,freeCodeCamp/devdocs,Ruby,300
+2293158,rapid7/metasploit-framework,Ruby,303
+308770,heartcombo/devise,Ruby,76
+37382858,kilimchoi/engineering-blogs,Ruby,926
 3623050,Homebrew/homebrew-cask,Ruby,120
 2203645,CocoaPods/CocoaPods,Ruby,115
-1918677,fluent/fluentd,Ruby,90
+1918677,fluent/fluentd,Ruby,91
 96395,faker-ruby/faker,Ruby,58
 52855516,Homebrew/homebrew-core,Ruby,183
 611921,activeadmin/activeadmin,Ruby,37
@@ -17,7 +17,7 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,38
 33739333,thoughtbot/administrate,Ruby,38
 30337170,rmosolgo/graphql-ruby,Ruby,40
-244452551,alexeygrigorev/data-science-interviews,Ruby,123
+244452551,alexeygrigorev/data-science-interviews,Ruby,124
 30985840,solidusio/solidus,Ruby,72
 1172597,thoughtbot/shoulda-matchers,Ruby,26
 93163073,dependabot/dependabot-core,Ruby,66
