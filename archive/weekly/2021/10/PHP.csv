@@ -1,13 +1,13 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,32
-458058,symfony/symfony,PHP,51
-7548986,laravel/framework,PHP,52
-448045,sebastianbergmann/phpunit,PHP,40
-2889328,WordPress/WordPress,PHP,38
+458058,symfony/symfony,PHP,52
+7548986,laravel/framework,PHP,53
+448045,sebastianbergmann/phpunit,PHP,39
+2889328,WordPress/WordPress,PHP,37
 53783664,easychen/howto-make-more-money,PHP,35
 11323319,erusev/parsedown,PHP,21
-12615154,barryvdh/laravel-debugbar,PHP,59
-8678290,barryvdh/laravel-ide-helper,PHP,52
+12615154,barryvdh/laravel-debugbar,PHP,60
+8678290,barryvdh/laravel-ide-helper,PHP,56
 926544,slimphp/Slim,PHP,17
 14732311,octobercms/october,PHP,37
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,25
@@ -15,12 +15,12 @@ id,name,lang,new stars
 656494,cakephp/cakephp,PHP,3
 677464,doctrine/dbal,PHP,22
 6660366,dompdf/dompdf,PHP,23
-10238429,tennc/webshell,PHP,36
+10238429,tennc/webshell,PHP,37
 14716368,invoiceninja/invoiceninja,PHP,21
 4242230,PHPOffice/PHPWord,PHP,18
 12204147,mautic/mautic,PHP,15
 30915528,spatie/laravel-backup,PHP,35
 2464908,joomla/joomla-cms,PHP,15
 439861,moodle/moodle,PHP,11
-69691727,pmmp/PocketMine-MP,PHP,29
-248372441,laravel-filament/filament,PHP,188
+69691727,pmmp/PocketMine-MP,PHP,30
+248372441,laravel-filament/filament,PHP,187
