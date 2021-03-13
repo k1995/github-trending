@@ -5,13 +5,13 @@ id,name,lang,new stars
 34921116,iovisor/bcc,C,6
 184981,memcached/memcached,C,4
 24993138,google/brotli,C,6
-13836499,raysan5/raylib,C,148
+13836499,raysan5/raylib,C,126
 54280778,DaveGamble/cJSON,C,7
 60667730,lvgl/lvgl,C,6
 5870069,edenhill/librdkafka,C,4
 212152900,wasm3/wasm3,C,12
-8502433,mortdeus/legacy-cc,C,143
-2359378,madler/zlib,C,2
+8502433,mortdeus/legacy-cc,C,150
+2359378,madler/zlib,C,3
 77920383,nesbox/TIC-80,C,3
 29933948,fluent/fluent-bit,C,1
 43683082,zserge/jsmn,C,3
