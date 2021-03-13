@@ -1,19 +1,19 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,268
+7569578,discourse/discourse,Ruby,271
 21600440,bayandin/awesome-awesomeness,Ruby,159
-13840241,freeCodeCamp/devdocs,Ruby,298
+13840241,freeCodeCamp/devdocs,Ruby,297
 2293158,rapid7/metasploit-framework,Ruby,302
-308770,heartcombo/devise,Ruby,78
+308770,heartcombo/devise,Ruby,76
 37382858,kilimchoi/engineering-blogs,Ruby,927
-3623050,Homebrew/homebrew-cask,Ruby,119
+3623050,Homebrew/homebrew-cask,Ruby,120
 2203645,CocoaPods/CocoaPods,Ruby,115
 1918677,fluent/fluentd,Ruby,92
-96395,faker-ruby/faker,Ruby,57
-52855516,Homebrew/homebrew-core,Ruby,183
-611921,activeadmin/activeadmin,Ruby,35
-202291859,chatwoot/chatwoot,Ruby,308
+96395,faker-ruby/faker,Ruby,58
+52855516,Homebrew/homebrew-core,Ruby,184
+611921,activeadmin/activeadmin,Ruby,37
+202291859,chatwoot/chatwoot,Ruby,309
 108278,chef/chef,Ruby,37
-26018608,github-changelog-generator/github-changelog-generator,Ruby,45
+26018608,github-changelog-generator/github-changelog-generator,Ruby,44
 75785147,rails/webpacker,Ruby,38
 33739333,thoughtbot/administrate,Ruby,38
 30337170,rmosolgo/graphql-ruby,Ruby,40
@@ -23,4 +23,4 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,66
 200302808,github/view_component,Ruby,98
 7983886,timdorr/tesla-api,Ruby,38
-49878403,zendesk/ruby-kafka,Ruby,8
+49878403,zendesk/ruby-kafka,Ruby,9

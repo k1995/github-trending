@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1864363,composer/composer,PHP,176
-458058,symfony/symfony,PHP,164
+458058,symfony/symfony,PHP,166
 1376664,Seldaek/monolog,PHP,125
 448045,sebastianbergmann/phpunit,PHP,148
 2889328,WordPress/WordPress,PHP,113
@@ -8,15 +8,15 @@ id,name,lang,new stars
 3431193,yiisoft/yii2,PHP,51
 1305114,roots/sage,PHP,75
 8678290,barryvdh/laravel-ide-helper,PHP,130
-49014795,phpstan/phpstan,PHP,115
-2884111,magento/magento2,PHP,74
+49014795,phpstan/phpstan,PHP,113
+2884111,magento/magento2,PHP,75
 42480275,spatie/laravel-permission,PHP,128
 597887,doctrine/orm,PHP,81
 677464,doctrine/dbal,PHP,81
-2179920,woocommerce/woocommerce,PHP,75
-21298446,firefly-iii/firefly-iii,PHP,156
-14346979,snipe/snipe-it,PHP,68
-627735,vrana/adminer,PHP,59
+2179920,woocommerce/woocommerce,PHP,76
+21298446,firefly-iii/firefly-iii,PHP,155
+14346979,snipe/snipe-it,PHP,67
+627735,vrana/adminer,PHP,60
 12204147,mautic/mautic,PHP,64
 95011974,akaunting/akaunting,PHP,101
 2464908,joomla/joomla-cms,PHP,38
