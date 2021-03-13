@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,1683
-132464395,Snailclimb/JavaGuide,Java,710
-80276391,GitSquared/edex-ui,JavaScript,979
-162998479,sherlock-project/sherlock,Python,2258
-39840932,google/googletest,C++,237
-109484365,fengdu78/Coursera-ML-AndrewNg-Notes,HTML,150
-110211147,xkcoding/spring-boot-demo,Java,122
+31792824,flutter/flutter,Dart,1695
+24195339,angular/angular,TypeScript,619
+80276391,GitSquared/edex-ui,JavaScript,980
+162998479,sherlock-project/sherlock,Python,2257
+101138315,d2l-ai/d2l-zh,Python,850
 7613257,SeleniumHQ/selenium,Java,314
 148736243,qiurunze123/miaosha,Java,204
-102578345,coolsnowwolf/lede,C,198
-186024298,nushell/nushell,Rust,1097
-161012019,jellyfin/jellyfin,C#,293
+107286889,schollz/croc,Go,251
+186024298,nushell/nushell,Rust,1099
+161012019,jellyfin/jellyfin,C#,292
+269336148,sickcodes/Docker-OSX,Shell,435
 2310495,ceph/ceph,C++,48
-40276274,ziglang/zig,Zig,356
-205679232,flipped-aurora/gin-vue-admin,Go,291
+40276274,ziglang/zig,Zig,357
+198683574,dolthub/dolt,Go,4418
+302603001,qier222/YesPlayMusic,JavaScript,984
 183874244,baidu/amis,TypeScript,142
-240215314,docker/awesome-compose,HTML,852
-75785240,authelia/authelia,Go,1345
-228016443,youngyangyang04/leetcode-master,,394
-317380990,PeterL1n/BackgroundMattingV2,Python,99
-321960447,openai/CLIP,Jupyter Notebook,626
+240215314,docker/awesome-compose,HTML,848
+75785240,authelia/authelia,Go,1344
+135321861,ory/kratos,Go,236
 343910759,gskinnerTeam/flutter-folio,Dart,714
-343261217,tone-row/flowchart-fun,TypeScript,368
-339223167,srcrs/UnicomTask,Python,557
-248372441,laravel-filament/filament,PHP,187
+267958226,dwisiswant0/apkleaks,Python,786
+206675202,spring-projects-experimental/spring-native,Java,90
+254462843,facebookresearch/vissl,Jupyter Notebook,405
+339223167,srcrs/UnicomTask,Python,558
+248372441,laravel-filament/filament,PHP,189
