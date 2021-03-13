@@ -5,12 +5,12 @@ id,name,lang,new stars
 58028038,521xueweihan/HelloGitHub,Python,211
 71948498,localstack/localstack,Python,38
 160919119,tiangolo/fastapi,Python,47
-162998479,sherlock-project/sherlock,Python,297
-101138315,d2l-ai/d2l-zh,Python,242
+162998479,sherlock-project/sherlock,Python,272
+101138315,d2l-ai/d2l-zh,Python,241
 38696925,python-telegram-bot/python-telegram-bot,Python,16
-7053637,python/mypy,Python,43
+7053637,python/mypy,Python,81
 91356408,allenai/allennlp,Python,3
-152166877,d2l-ai/d2l-en,Python,37
+152166877,d2l-ai/d2l-en,Python,38
 28782747,dask/dask,Python,8
 52796596,netbox-community/netbox,Python,4
 250213286,huggingface/datasets,Python,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 149554797,ethereum/eth2.0-specs,Python,5
 40687563,oppia/oppia,Python,5
 221489076,Netflix/consoleme,Python,78
-339223167,srcrs/UnicomTask,Python,116
+339223167,srcrs/UnicomTask,Python,117
 317320893,blacklanternsecurity/writehat,Python,16

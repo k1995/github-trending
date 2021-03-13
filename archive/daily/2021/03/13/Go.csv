@@ -4,7 +4,7 @@ id,name,lang,new stars
 17728164,hashicorp/terraform,Go,10
 14125254,hashicorp/consul,Go,67
 14376285,matryer/xbar,Go,17
-123572362,quii/learn-go-with-tests,Go,289
+123572362,quii/learn-go-with-tests,Go,290
 20653934,google/cadvisor,Go,4
 72891330,kubernetes/ingress-nginx,Go,5
 36653430,hashicorp/nomad,Go,4
@@ -15,7 +15,7 @@ id,name,lang,new stars
 285864199,tal-tech/go-zero,Go,14
 93444615,hashicorp/terraform-provider-aws,Go,12
 59522149,gruntwork-io/terragrunt,Go,4
-75785240,authelia/authelia,Go,408
+75785240,authelia/authelia,Go,400
 78869430,heroiclabs/nakama,Go,15
 172292744,panjf2000/gnet,Go,7
 118828329,knative/serving,Go,4
