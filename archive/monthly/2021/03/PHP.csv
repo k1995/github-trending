@@ -1,13 +1,13 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,166
+458058,symfony/symfony,PHP,168
 7548986,laravel/framework,PHP,229
-1376664,Seldaek/monolog,PHP,128
+1376664,Seldaek/monolog,PHP,130
 448045,sebastianbergmann/phpunit,PHP,146
-2889328,WordPress/WordPress,PHP,118
-60243197,nextcloud/server,PHP,730
-12615154,barryvdh/laravel-debugbar,PHP,168
+2889328,WordPress/WordPress,PHP,119
+60243197,nextcloud/server,PHP,731
+12615154,barryvdh/laravel-debugbar,PHP,170
 1305114,roots/sage,PHP,76
-8678290,barryvdh/laravel-ide-helper,PHP,139
+8678290,barryvdh/laravel-ide-helper,PHP,140
 14732311,octobercms/october,PHP,109
 49014795,phpstan/phpstan,PHP,113
 42480275,spatie/laravel-permission,PHP,130
@@ -19,8 +19,8 @@ id,name,lang,new stars
 627735,vrana/adminer,PHP,61
 12204147,mautic/mautic,PHP,66
 97311017,rectorphp/rector,PHP,124
-2464908,joomla/joomla-cms,PHP,44
-69691727,pmmp/PocketMine-MP,PHP,66
+2464908,joomla/joomla-cms,PHP,45
+69691727,pmmp/PocketMine-MP,PHP,72
 131995661,shopware/platform,PHP,53
 174021137,inertiajs/pingcrm,PHP,76
 36526302,pentestmonkey/php-reverse-shell,PHP,54

@@ -1,11 +1,11 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,60
-7569578,discourse/discourse,Ruby,70
-8681349,huginn/huginn,Ruby,75
-52281283,tootsuite/mastodon,Ruby,56
-2293158,rapid7/metasploit-framework,Ruby,68
+65252,jekyll/jekyll,Ruby,63
+7569578,discourse/discourse,Ruby,71
+8681349,huginn/huginn,Ruby,76
+52281283,tootsuite/mastodon,Ruby,57
+2293158,rapid7/metasploit-framework,Ruby,70
 481872,hashicorp/vagrant,Ruby,46
-308770,heartcombo/devise,Ruby,24
+308770,heartcombo/devise,Ruby,25
 2203645,CocoaPods/CocoaPods,Ruby,17
 1090311,elastic/logstash,Ruby,20
 106995,sinatra/sinatra,Ruby,16
@@ -13,14 +13,14 @@ id,name,lang,new stars
 11423758,mame/quine-relay,Ruby,50
 812393,ruby-grape/grape,Ruby,9
 611921,activeadmin/activeadmin,Ruby,10
-1725199,github/linguist,Ruby,21
+1725199,github/linguist,Ruby,22
 75785147,rails/webpacker,Ruby,7
-447184,rspec/rspec-rails,Ruby,8
+447184,rspec/rspec-rails,Ruby,9
 38867,svenfuchs/rails-i18n,Ruby,1
-17204381,ankane/ahoy,Ruby,24
+17204381,ankane/ahoy,Ruby,25
 115859973,ddnexus/pagy,Ruby,40
-614070,rubygems/rubygems,Ruby,14
+614070,rubygems/rubygems,Ruby,15
 189010173,Hackplayers/evil-winrm,Ruby,16
-156555906,testdouble/standard,Ruby,94
+156555906,testdouble/standard,Ruby,95
 61203,Shopify/shopify_app,Ruby,5
 339809184,charkost/prosopite,Ruby,141
