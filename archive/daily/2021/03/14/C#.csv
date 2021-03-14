@@ -1,18 +1,18 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,130
-17620347,dotnet/aspnetcore,C#,12
+49609581,PowerShell/PowerShell,C#,81
+17620347,dotnet/aspnetcore,C#,13
 102904613,Unity-Technologies/ml-agents,C#,11
-161012019,jellyfin/jellyfin,C#,62
+161012019,jellyfin/jellyfin,C#,63
 198071756,huiyadanli/RevokeMsgPatcher,C#,7
-164140756,files-community/Files,C#,133
-262395224,dotnet/maui,C#,106
-69673033,ardalis/CleanArchitecture,C#,4
-83380995,dotnet-architecture/eShopOnWeb,C#,7
-11591313,reactiveui/refit,C#,1
+164140756,files-community/Files,C#,132
+262395224,dotnet/maui,C#,119
+69673033,ardalis/CleanArchitecture,C#,5
+83380995,dotnet-architecture/eShopOnWeb,C#,6
+11591313,reactiveui/refit,C#,2
 132453438,unoplatform/uno,C#,7
 50605426,microsoft/MixedRealityToolkit-Unity,C#,6
 997491,sta/websocket-sharp,C#,1
-120231691,Ryujinx/Ryujinx,C#,261
+120231691,Ryujinx/Ryujinx,C#,277
 243854166,dotnet/tye,C#,6
 38007053,dotnet/docfx,C#,1
 23891194,Azure/azure-powershell,C#,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 77180761,xamarin/XamarinCommunityToolkit,C#,3
 93804681,nuke-build/nuke,C#,1
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,1
-255952484,dotnet/net6-mobile-samples,C#,80
+255952484,dotnet/net6-mobile-samples,C#,81
 101895131,DataDog/dd-trace-dotnet,C#,1
 345354985,Eisbison/TheOtherRoles,C#,6

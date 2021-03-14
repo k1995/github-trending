@@ -1,6 +1,6 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,31
-458058,symfony/symfony,PHP,47
+458058,symfony/symfony,PHP,48
 7548986,laravel/framework,PHP,52
 448045,sebastianbergmann/phpunit,PHP,39
 2889328,WordPress/WordPress,PHP,37
@@ -10,7 +10,7 @@ id,name,lang,new stars
 8678290,barryvdh/laravel-ide-helper,PHP,56
 926544,slimphp/Slim,PHP,16
 14732311,octobercms/october,PHP,36
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,25
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,28
 10157178,egulias/EmailValidator,PHP,42
 656494,cakephp/cakephp,PHP,3
 677464,doctrine/dbal,PHP,23
@@ -18,9 +18,9 @@ id,name,lang,new stars
 10238429,tennc/webshell,PHP,36
 14716368,invoiceninja/invoiceninja,PHP,21
 4242230,PHPOffice/PHPWord,PHP,18
-12204147,mautic/mautic,PHP,14
+12204147,mautic/mautic,PHP,16
 30915528,spatie/laravel-backup,PHP,35
-2464908,joomla/joomla-cms,PHP,17
+2464908,joomla/joomla-cms,PHP,18
 439861,moodle/moodle,PHP,10
 69691727,pmmp/PocketMine-MP,PHP,32
 248372441,laravel-filament/filament,PHP,146

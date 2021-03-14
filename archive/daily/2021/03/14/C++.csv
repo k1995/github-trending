@@ -1,9 +1,9 @@
 id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,9
-27729880,grpc/grpc,C++,7
-39840932,google/googletest,C++,6
+27729880,grpc/grpc,C++,8
+39840932,google/googletest,C++,9
 5133949,swoole/swoole-src,C++,2
-67702184,topjohnwu/Magisk,Kotlin,14
+67702184,topjohnwu/Magisk,C++,14
 26038648,gabime/spdlog,C++,7
 87335980,EOSIO/eos,C++,0
 2649214,arangodb/arangodb,C++,5
@@ -11,10 +11,10 @@ id,name,lang,new stars
 38581626,pybind/pybind11,C++,5
 7232856,AGWA/git-crypt,C++,2
 15122806,google/benchmark,C++,4
-156939672,microsoft/onnxruntime,C++,15
+156939672,microsoft/onnxruntime,C++,25
 5241312,halide/Halide,C++,4
 1320594,SpiderLabs/ModSecurity,C++,2
-88327406,xmrig/xmrig,C++,4
+88327406,xmrig/xmrig,C++,5
 8270972,ARMmbed/mbed-os,C++,4
 36831874,microsoft/DirectX-Graphics-Samples,C++,0
 138754790,cwida/duckdb,C++,17
