@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,1233
-24195339,angular/angular,TypeScript,603
+31792824,flutter/flutter,Dart,1230
 80276391,GitSquared/edex-ui,JavaScript,1022
-162998479,sherlock-project/sherlock,Python,2350
+162998479,sherlock-project/sherlock,Python,2375
 101138315,d2l-ai/d2l-zh,Python,858
-7613257,SeleniumHQ/selenium,Java,314
 148736243,qiurunze123/miaosha,Java,206
-107286889,schollz/croc,Go,252
+110058856,LeCoupa/awesome-cheatsheets,JavaScript,1599
+123572362,quii/learn-go-with-tests,Go,408
 186024298,nushell/nushell,Rust,958
-161012019,jellyfin/jellyfin,C#,343
-269336148,sickcodes/Docker-OSX,Shell,863
-2310495,ceph/ceph,C++,50
+161012019,jellyfin/jellyfin,C#,351
+269336148,sickcodes/Docker-OSX,Shell,859
+2310495,ceph/ceph,C++,53
 40276274,ziglang/zig,Zig,364
-198683574,dolthub/dolt,Go,3876
+198683574,dolthub/dolt,Go,3864
 302603001,qier222/YesPlayMusic,JavaScript,1000
-183874244,baidu/amis,TypeScript,158
-240215314,docker/awesome-compose,HTML,1275
-75785240,authelia/authelia,Go,1939
+183874244,baidu/amis,TypeScript,169
+240215314,docker/awesome-compose,HTML,1272
+75785240,authelia/authelia,Go,1838
+338348248,benawad/dogehouse,TypeScript,1150
 135321861,ory/kratos,Go,235
 343910759,gskinnerTeam/flutter-folio,Dart,513
-267958226,dwisiswant0/apkleaks,Python,675
-206675202,spring-projects-experimental/spring-native,Java,155
-254462843,facebookresearch/vissl,Jupyter Notebook,376
+145050544,ChristianChiarulli/nvim,Vim script,79
+267958226,dwisiswant0/apkleaks,Python,679
+206675202,spring-projects-experimental/spring-native,Java,154
+254462843,facebookresearch/vissl,Jupyter Notebook,375
 339223167,srcrs/UnicomTask,Python,627
-248372441,laravel-filament/filament,PHP,146
