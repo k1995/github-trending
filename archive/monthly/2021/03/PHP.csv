@@ -1,10 +1,10 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,169
 7548986,laravel/framework,PHP,232
-1376664,Seldaek/monolog,PHP,131
+1376664,Seldaek/monolog,PHP,132
 448045,sebastianbergmann/phpunit,PHP,149
 2889328,WordPress/WordPress,PHP,122
-60243197,nextcloud/server,PHP,739
+60243197,nextcloud/server,PHP,744
 12615154,barryvdh/laravel-debugbar,PHP,175
 1305114,roots/sage,PHP,77
 8678290,barryvdh/laravel-ide-helper,PHP,142
@@ -17,10 +17,10 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,81
 21298446,firefly-iii/firefly-iii,PHP,160
 627735,vrana/adminer,PHP,62
-12204147,mautic/mautic,PHP,67
+12204147,mautic/mautic,PHP,68
 97311017,rectorphp/rector,PHP,127
 2464908,joomla/joomla-cms,PHP,46
-69691727,pmmp/PocketMine-MP,PHP,96
+69691727,pmmp/PocketMine-MP,PHP,104
 131995661,shopware/platform,PHP,54
-174021137,inertiajs/pingcrm,PHP,77
-36526302,pentestmonkey/php-reverse-shell,PHP,54
+174021137,inertiajs/pingcrm,PHP,78
+36526302,pentestmonkey/php-reverse-shell,PHP,55
