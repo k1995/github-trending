@@ -1,17 +1,17 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,57
-7569578,discourse/discourse,Ruby,63
-27442967,fastlane/fastlane,Ruby,54
-8681349,huginn/huginn,Ruby,77
-53238813,Homebrew/brew,Ruby,118
-13840241,freeCodeCamp/devdocs,Ruby,85
-52281283,tootsuite/mastodon,Ruby,55
+65252,jekyll/jekyll,Ruby,59
+7569578,discourse/discourse,Ruby,65
+27442967,fastlane/fastlane,Ruby,55
+8681349,huginn/huginn,Ruby,81
+53238813,Homebrew/brew,Ruby,117
+13840241,freeCodeCamp/devdocs,Ruby,84
+52281283,tootsuite/mastodon,Ruby,56
 2293158,rapid7/metasploit-framework,Ruby,79
-308770,heartcombo/devise,Ruby,22
+308770,heartcombo/devise,Ruby,23
 2203645,CocoaPods/CocoaPods,Ruby,17
-1090311,elastic/logstash,Ruby,18
+1090311,elastic/logstash,Ruby,20
 106995,sinatra/sinatra,Ruby,15
-96395,faker-ruby/faker,Ruby,14
+96395,faker-ruby/faker,Ruby,15
 611921,activeadmin/activeadmin,Ruby,8
 1725199,github/linguist,Ruby,22
 21829,thoughtbot/factory_bot,Ruby,7
@@ -23,4 +23,4 @@ id,name,lang,new stars
 17204381,ankane/ahoy,Ruby,17
 115859973,ddnexus/pagy,Ruby,44
 614070,rubygems/rubygems,Ruby,13
-156555906,testdouble/standard,Ruby,61
+156555906,testdouble/standard,Ruby,58
