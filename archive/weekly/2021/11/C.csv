@@ -1,6 +1,6 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1162
-156018,redis/redis,C,134
+2325298,torvalds/linux,C,1164
+156018,redis/redis,C,135
 1614410,FFmpeg/FFmpeg,C,134
 102578345,coolsnowwolf/lede,C,184
 196353673,taosdata/TDengine,C,39
@@ -12,7 +12,7 @@ id,name,lang,new stars
 27737393,qmk/qmk_firmware,C,313
 40217904,swaywm/sway,C,55
 75811015,Tencent/xLua,C,26
-13836499,raysan5/raylib,C,281
+13836499,raysan5/raylib,C,283
 50874442,citusdata/citus,C,66
 53614190,eclipse/mosquitto,C,39
 21329550,wireshark/wireshark,C,19
