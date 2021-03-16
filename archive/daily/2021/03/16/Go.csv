@@ -1,6 +1,6 @@
 id,name,lang,new stars
 41912791,v2ray/v2ray-core,Go,13
-6838921,prometheus/prometheus,Go,25
+6838921,prometheus/prometheus,Go,23
 13807606,junegunn/fzf,Go,20
 15452919,ethereum/go-ethereum,Go,29
 12080551,tsenart/vegeta,Go,13
@@ -8,17 +8,17 @@ id,name,lang,new stars
 136815833,Dreamacro/clash,Go,38
 123572362,quii/learn-go-with-tests,Go,37
 33258973,influxdata/telegraf,Go,2
-116576783,bettercap/bettercap,Go,154
+116576783,bettercap/bettercap,Go,126
 62712899,AdguardTeam/AdGuardHome,Go,14
 201658460,geektutu/7days-golang,Go,17
-140457254,OWASP/Amass,Go,14
+140457254,OWASP/Amass,Go,13
 86164982,gonum/gonum,Go,10
 120650407,operator-framework/operator-sdk,Go,1
 266445736,owncast/owncast,Go,9
-154643390,sundowndev/PhoneInfoga,Go,156
+154643390,sundowndev/PhoneInfoga,Go,155
 311315731,XTLS/Xray-core,Go,22
 147886080,crossplane/crossplane,Go,8
-332424498,liamg/traitor,Go,113
+332424498,liamg/traitor,Go,112
 117156031,prysmaticlabs/prysm,Go,4
 45356931,bwmarrin/discordgo,Go,8
 52481933,navidrome/navidrome,Go,22
