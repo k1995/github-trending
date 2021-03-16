@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,32
-458058,symfony/symfony,PHP,39
+2579314,fzaninotto/Faker,PHP,34
+458058,symfony/symfony,PHP,40
 7548986,laravel/framework,PHP,49
 448045,sebastianbergmann/phpunit,PHP,37
 2889328,WordPress/WordPress,PHP,41
-53783664,easychen/howto-make-more-money,PHP,30
-12615154,barryvdh/laravel-debugbar,PHP,62
+53783664,easychen/howto-make-more-money,PHP,31
+12615154,barryvdh/laravel-debugbar,PHP,64
 8678290,barryvdh/laravel-ide-helper,PHP,59
-14732311,octobercms/october,PHP,30
+14732311,octobercms/october,PHP,31
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,32
 10157178,egulias/EmailValidator,PHP,42
-61490598,PHPOffice/PhpSpreadsheet,PHP,50
+61490598,PHPOffice/PhpSpreadsheet,PHP,55
 656494,cakephp/cakephp,PHP,2
 677464,doctrine/dbal,PHP,23
-6660366,dompdf/dompdf,PHP,23
+6660366,dompdf/dompdf,PHP,24
 14716368,invoiceninja/invoiceninja,PHP,20
 4242230,PHPOffice/PHPWord,PHP,16
 65017574,botman/botman,PHP,11
@@ -21,6 +21,6 @@ id,name,lang,new stars
 30915528,spatie/laravel-backup,PHP,40
 4565995,phpseclib/phpseclib,PHP,14
 2464908,joomla/joomla-cms,PHP,18
-29054113,zyx0814/dzzoffice,PHP,20
-69691727,pmmp/PocketMine-MP,PHP,85
+29054113,zyx0814/dzzoffice,PHP,21
+69691727,pmmp/PocketMine-MP,PHP,86
 131995661,shopware/platform,PHP,15
