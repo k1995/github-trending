@@ -1,10 +1,10 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,15
-2579314,fzaninotto/Faker,PHP,4
+2579314,fzaninotto/Faker,PHP,6
 60243197,nextcloud/server,PHP,9
-12615154,barryvdh/laravel-debugbar,PHP,6
-61490598,PHPOffice/PhpSpreadsheet,PHP,11
-21298446,firefly-iii/firefly-iii,PHP,3
+12615154,barryvdh/laravel-debugbar,PHP,7
+61490598,PHPOffice/PhpSpreadsheet,PHP,10
+21298446,firefly-iii/firefly-iii,PHP,5
 86350964,the-benchmarker/web-frameworks,PHP,5
 74386167,vimeo/psalm,PHP,3
 76064827,mailcow/mailcow-dockerized,PHP,2
@@ -16,11 +16,11 @@ id,name,lang,new stars
 63073734,laravel/passport,PHP,2
 1957456,Dolibarr/dolibarr,PHP,2
 47508644,pterodactyl/panel,PHP,0
-69691727,pmmp/PocketMine-MP,PHP,27
+69691727,pmmp/PocketMine-MP,PHP,22
 138328462,freescout-helpdesk/freescout,PHP,0
-174021137,inertiajs/pingcrm,PHP,4
+174021137,inertiajs/pingcrm,PHP,3
 223535535,Ignitetch/AdvPhishing,PHP,2
-312596796,BadApple9/speedtest-x,PHP,27
+312596796,BadApple9/speedtest-x,PHP,16
 184538454,yankovalenko94/Webdev2019,PHP,0
 345315720,swagkarna/Rafel-Rat,PHP,2
 345645932,noob-hackers/spamx,PHP,0
