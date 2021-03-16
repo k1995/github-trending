@@ -1,25 +1,26 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,2959
-136026789,iperov/DeepFaceLab,Python,1715
-257485422,vitejs/vite,TypeScript,4078
-159152904,zhangdaiscott/jeecg-boot,Java,1937
+132464395,Snailclimb/JavaGuide,Java,2958
+136026789,iperov/DeepFaceLab,Python,1713
+257485422,vitejs/vite,TypeScript,4083
+159152904,zhangdaiscott/jeecg-boot,Java,1930
 35133520,MostlyAdequate/mostly-adequate-guide,JavaScript,933
-196701619,tauri-apps/tauri,Rust,5025
-253601257,alievk/avatarify-python,Python,3021
-192632000,dapr/dapr,Go,2834
-90902132,flameshot-org/flameshot,C++,2175
+196701619,tauri-apps/tauri,Rust,5017
+253601257,alievk/avatarify-python,Python,3026
+192632000,dapr/dapr,Go,2837
 269336148,sickcodes/Docker-OSX,Shell,2507
-47690142,CoatiSoftware/Sourcetrail,C++,1223
-227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,1256
-121898717,dani-garcia/bitwarden_rs,JavaScript,1299
-317319347,qeeqbox/social-analyzer,JavaScript,3925
-46755185,bitwarden/server,C#,597
-240215314,docker/awesome-compose,HTML,2527
-211288349,android/compose-samples,Kotlin,1297
+47690142,CoatiSoftware/Sourcetrail,C++,1106
+227272405,AliaksandrSiarohin/first-order-model,Jupyter Notebook,1258
+121898717,dani-garcia/bitwarden_rs,JavaScript,1306
+317319347,qeeqbox/social-analyzer,JavaScript,3926
+46755185,bitwarden/server,C#,599
+240215314,docker/awesome-compose,HTML,2614
+211288349,android/compose-samples,Kotlin,1299
 75785240,authelia/authelia,Go,2232
-338348248,benawad/dogehouse,TypeScript,3543
-89067146,ethereum-mining/ethminer,C++,554
-272457606,jart/cosmopolitan,C,3003
-251469970,athensresearch/athens,Clojure,1306
-196613241,edeng23/binance-trade-bot,Python,1820
-257113637,jdah/minecraft-weekend,C,510
+338348248,benawad/dogehouse,TypeScript,3519
+120231691,Ryujinx/Ryujinx,C#,1793
+89067146,ethereum-mining/ethminer,C++,562
+272457606,jart/cosmopolitan,C,3005
+224151065,Immediate-Mode-UI/Nuklear,C,1374
+196613241,edeng23/binance-trade-bot,Python,1799
+206675202,spring-projects-experimental/spring-native,Java,430
+257113637,jdah/minecraft-weekend,C,505
