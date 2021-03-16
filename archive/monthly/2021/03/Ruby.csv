@@ -1,18 +1,18 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,278
 21600440,bayandin/awesome-awesomeness,Ruby,157
-13840241,freeCodeCamp/devdocs,Ruby,310
-2293158,rapid7/metasploit-framework,Ruby,318
-308770,heartcombo/devise,Ruby,79
-37382858,kilimchoi/engineering-blogs,Ruby,922
+13840241,freeCodeCamp/devdocs,Ruby,307
+2293158,rapid7/metasploit-framework,Ruby,317
+308770,heartcombo/devise,Ruby,82
+37382858,kilimchoi/engineering-blogs,Ruby,923
 3623050,Homebrew/homebrew-cask,Ruby,123
-2203645,CocoaPods/CocoaPods,Ruby,115
+2203645,CocoaPods/CocoaPods,Ruby,114
 1918677,fluent/fluentd,Ruby,90
 96395,faker-ruby/faker,Ruby,60
 52855516,Homebrew/homebrew-core,Ruby,183
 611921,activeadmin/activeadmin,Ruby,34
-1725199,github/linguist,Ruby,99
-202291859,chatwoot/chatwoot,Ruby,323
+1725199,github/linguist,Ruby,100
+202291859,chatwoot/chatwoot,Ruby,324
 21829,thoughtbot/factory_bot,Ruby,40
 26018608,github-changelog-generator/github-changelog-generator,Ruby,45
 33739333,thoughtbot/administrate,Ruby,39
@@ -22,5 +22,5 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,73
 1172597,thoughtbot/shoulda-matchers,Ruby,26
 93163073,dependabot/dependabot-core,Ruby,69
-200302808,github/view_component,Ruby,100
+200302808,github/view_component,Ruby,99
 49878403,zendesk/ruby-kafka,Ruby,11
