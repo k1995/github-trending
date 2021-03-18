@@ -1,15 +1,15 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,64
+65252,jekyll/jekyll,Ruby,60
 7569578,discourse/discourse,Ruby,61
 27442967,fastlane/fastlane,Ruby,74
-8681349,huginn/huginn,Ruby,76
-53238813,Homebrew/brew,Ruby,99
-13840241,freeCodeCamp/devdocs,Ruby,71
-52281283,tootsuite/mastodon,Ruby,55
+8681349,huginn/huginn,Ruby,79
+53238813,Homebrew/brew,Ruby,101
+13840241,freeCodeCamp/devdocs,Ruby,68
+52281283,tootsuite/mastodon,Ruby,53
 2293158,rapid7/metasploit-framework,Ruby,98
-308770,heartcombo/devise,Ruby,28
-2203645,CocoaPods/CocoaPods,Ruby,19
-1090311,elastic/logstash,Ruby,20
+308770,heartcombo/devise,Ruby,29
+2203645,CocoaPods/CocoaPods,Ruby,20
+1090311,elastic/logstash,Ruby,21
 138312,capistrano/capistrano,Ruby,13
 106995,sinatra/sinatra,Ruby,17
 812393,ruby-grape/grape,Ruby,8
@@ -21,6 +21,6 @@ id,name,lang,new stars
 115859973,ddnexus/pagy,Ruby,37
 14238949,elastic/elasticsearch-rails,Ruby,1
 614070,rubygems/rubygems,Ruby,16
-3898922,zammad/zammad,Ruby,17
-11426474,github/choosealicense.com,Ruby,17
-93163073,dependabot/dependabot-core,Ruby,15
+3898922,zammad/zammad,Ruby,18
+11426474,github/choosealicense.com,Ruby,16
+93163073,dependabot/dependabot-core,Ruby,14
