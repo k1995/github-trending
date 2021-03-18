@@ -1,20 +1,20 @@
 id,name,lang,new stars
 1864363,composer/composer,PHP,173
-458058,symfony/symfony,PHP,162
+458058,symfony/symfony,PHP,164
 1376664,Seldaek/monolog,PHP,133
 448045,sebastianbergmann/phpunit,PHP,134
 2889328,WordPress/WordPress,PHP,121
-60243197,nextcloud/server,PHP,731
+60243197,nextcloud/server,PHP,729
 3431193,yiisoft/yii2,PHP,51
-12615154,barryvdh/laravel-debugbar,PHP,180
+12615154,barryvdh/laravel-debugbar,PHP,179
 1305114,roots/sage,PHP,73
-8678290,barryvdh/laravel-ide-helper,PHP,146
-14732311,octobercms/october,PHP,110
-49014795,phpstan/phpstan,PHP,108
-61490598,PHPOffice/PhpSpreadsheet,PHP,162
+8678290,barryvdh/laravel-ide-helper,PHP,145
+14732311,octobercms/october,PHP,109
+49014795,phpstan/phpstan,PHP,109
+61490598,PHPOffice/PhpSpreadsheet,PHP,163
 42480275,spatie/laravel-permission,PHP,130
 2699935,squizlabs/PHP_CodeSniffer,PHP,105
-597887,doctrine/orm,PHP,84
+597887,doctrine/orm,PHP,82
 11340559,deployphp/deployer,PHP,65
 677464,doctrine/dbal,PHP,85
 2179920,woocommerce/woocommerce,PHP,82
@@ -22,5 +22,5 @@ id,name,lang,new stars
 4551765,thephpleague/oauth2-server,PHP,47
 627735,vrana/adminer,PHP,64
 2464908,joomla/joomla-cms,PHP,46
-174021137,inertiajs/pingcrm,PHP,76
+174021137,inertiajs/pingcrm,PHP,77
 111562942,statamic/cms,PHP,39
