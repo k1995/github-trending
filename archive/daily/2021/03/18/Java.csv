@@ -1,9 +1,9 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,109
+132464395,Snailclimb/JavaGuide,Java,108
 507775,elastic/elasticsearch,Java,18
 2990192,signalapp/Signal-Android,Java,16
 18723836,dromara/hutool,Java,25
-20773773,bazelbuild/bazel,Java,11
+20773773,bazelbuild/bazel,Java,10
 49662222,oracle/graal,Java,14
 49876476,apache/shardingsphere,Java,9
 6650539,neo4j/neo4j,Java,5
@@ -15,7 +15,7 @@ id,name,lang,new stars
 33816473,testcontainers/testcontainers-java,Java,11
 237867883,metersphere/metersphere,Java,17
 140543886,dromara/soul,Java,9
-149001365,doocs/leetcode,Java,75
+149001365,doocs/leetcode,Java,76
 77675033,yidongnan/grpc-spring-boot-starter,Java,5
 201179882,android/animation-samples,Java,3
 231329990,jetlinks/jetlinks-community,Java,16

@@ -1,6 +1,6 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,8
-1420053,guzzle/guzzle,PHP,6
+1420053,guzzle/guzzle,PHP,7
 1548202,matomo-org/matomo,PHP,4
 3431193,yiisoft/yii2,PHP,3
 82238168,monicahq/monica,PHP,2
@@ -12,15 +12,15 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,4
 9826184,elastic/elasticsearch-php,PHP,6
 12204147,mautic/mautic,PHP,4
-74386167,vimeo/psalm,PHP,1
-2784293,php-amqplib/php-amqplib,PHP,1
-41463886,codeigniter4/CodeIgniter4,PHP,2
+74386167,vimeo/psalm,PHP,2
+2784293,php-amqplib/php-amqplib,PHP,0
+41463886,codeigniter4/CodeIgniter4,PHP,3
 8077402,MISP/MISP,PHP,1
 6322699,FreshRSS/FreshRSS,PHP,3
 7895524,thephpleague/oauth2-client,PHP,0
 291805291,laravel/jetstream,PHP,3
 38200433,jeroennoten/Laravel-AdminLTE,PHP,3
-59965104,nuwave/lighthouse,PHP,3
-182349597,jqhph/dcat-admin,PHP,1
-15756427,mike42/escpos-php,PHP,1
-345315720,swagkarna/Rafel-Rat,PHP,3
+59965104,nuwave/lighthouse,PHP,2
+182349597,jqhph/dcat-admin,PHP,4
+15756427,mike42/escpos-php,PHP,2
+345315720,swagkarna/Rafel-Rat,PHP,2
