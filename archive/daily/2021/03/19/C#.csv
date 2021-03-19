@@ -1,12 +1,12 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,17
 14964475,AvaloniaUI/Avalonia,C#,12
-16157746,dotnet/efcore,C#,3
-262395224,dotnet/maui,C#,228
+16157746,dotnet/efcore,C#,4
+262395224,dotnet/maui,C#,240
 28232663,dotnet/orleans,C#,3
-17369361,jbogard/MediatR,C#,3
+17369361,jbogard/MediatR,C#,4
 41589439,MathewSachin/Captura,C#,10
-120231691,Ryujinx/Ryujinx,C#,226
+120231691,Ryujinx/Ryujinx,C#,173
 54213490,xamarin/Xamarin.Forms,C#,2
 213460285,jasontaylordev/CleanArchitecture,C#,5
 132453438,unoplatform/uno,C#,2
@@ -14,13 +14,13 @@ id,name,lang,new stars
 36613036,neo-project/neo,C#,1
 47261966,grandnode/grandnode,C#,2
 89527614,BornToBeRoot/NETworkManager,C#,6
-263503250,Azure/bicep,C#,4
-77180761,xamarin/XamarinCommunityToolkit,C#,2
+263503250,Azure/bicep,C#,5
+77180761,xamarin/XamarinCommunityToolkit,C#,1
 63984307,dotnet/sdk,C#,1
-252826419,Unity-Technologies/Graphics,C#,6
+252826419,Unity-Technologies/Graphics,C#,5
 235291052,0xthirteen/SharpRDP,C#,3
-325117533,sleevezipper/hass-workstation-service,C#,4
+325117533,sleevezipper/hass-workstation-service,C#,3
 283168306,robvdpol/RaceControl,C#,0
-342637264,blazorhero/CleanArchitecture,C#,11
+342637264,blazorhero/CleanArchitecture,C#,10
 241627202,Aeroluna/NoodleExtensions,C#,1
 345354985,Eisbison/TheOtherRoles,C#,2
