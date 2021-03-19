@@ -1,19 +1,19 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,87
 3774328,wg/wrk,C,45
-18666758,pjreddie/darknet,C,9
+18666758,pjreddie/darknet,C,14
 569041,curl/curl,C,17
 34921116,iovisor/bcc,C,14
-63477515,TheAlgorithms/C,C,152
+63477515,TheAlgorithms/C,C,150
 927442,postgres/postgres,C,11
 60667730,lvgl/lvgl,C,12
 16734696,meetecho/janus-gateway,C,10
-105944401,yugabyte/yugabyte-db,C,8
+105944401,yugabyte/yugabyte-db,C,11
 5383731,qemu/qemu,C,7
-44781140,greenplum-db/gpdb,C,1
+44781140,greenplum-db/gpdb,C,2
 59771425,zephyrproject-rtos/zephyr,C,4
 32921736,audacity/audacity,C,17
-6687936,ARMmbed/mbedtls,C,3
+6687936,ARMmbed/mbedtls,C,1
 1253879,stlink-org/stlink,C,2
 29933948,fluent/fluent-bit,C,3
 96111593,huggingface/neuralcoref,C,1
