@@ -1,7 +1,7 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,27
 23357588,protocolbuffers/protobuf,C++,20
-22887094,tesseract-ocr/tesseract,C++,13
+22887094,tesseract-ocr/tesseract,C++,12
 74627617,commaai/openpilot,C++,12
 39840932,google/googletest,C++,11
 16587283,dmlc/xgboost,C++,1
@@ -11,7 +11,7 @@ id,name,lang,new stars
 4524181,facebook/folly,C++,8
 13862381,DrKLO/Telegram,C++,6
 65214191,envoyproxy/envoy,C++,13
-60246359,ClickHouse/ClickHouse,C++,16
+60246359,ClickHouse/ClickHouse,C++,17
 126412363,simdjson/simdjson,C++,13
 191820100,google/mediapipe,C++,16
 38581626,pybind/pybind11,C++,9
@@ -21,6 +21,6 @@ id,name,lang,new stars
 131630299,onnx/onnx-tensorrt,C++,7
 6659299,ros-planning/navigation,C++,2
 244694174,project-chip/connectedhomeip,C++,3
-161214378,microsoft/Azure-Kinect-Sensor-SDK,C++,1
+161214378,microsoft/Azure-Kinect-Sensor-SDK,C++,2
 347064903,NotYetGames/WarriOrb,C++,7
 347752911,LucidVR/lucidgloves-hardware,C++,10
