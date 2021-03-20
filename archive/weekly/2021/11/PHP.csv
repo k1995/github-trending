@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,159
-3482588,danielmiessler/SecLists,PHP,133
+1863329,laravel/laravel,PHP,161
+3482588,danielmiessler/SecLists,PHP,138
 458058,symfony/symfony,PHP,37
-7548986,laravel/framework,PHP,50
-1420053,guzzle/guzzle,PHP,41
+7548986,laravel/framework,PHP,52
+1420053,guzzle/guzzle,PHP,42
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,25
 2253830,PHPMailer/PHPMailer,PHP,54
 3431193,yiisoft/yii2,PHP,9
-12615154,barryvdh/laravel-debugbar,PHP,52
-8678290,barryvdh/laravel-ide-helper,PHP,42
+12615154,barryvdh/laravel-debugbar,PHP,55
+8678290,barryvdh/laravel-ide-helper,PHP,43
 61490598,PHPOffice/PhpSpreadsheet,PHP,50
 15020102,walkor/Workerman,PHP,29
-5508585,YOURLS/YOURLS,PHP,25
-2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,18
+5508585,YOURLS/YOURLS,PHP,27
+2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,19
 14346979,snipe/snipe-it,PHP,48
 60491949,fecshop/yii2_fecshop,PHP,34
 9826184,elastic/elasticsearch-php,PHP,17
@@ -22,5 +22,5 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,21
 52319036,passbolt/passbolt_api,PHP,26
 1957456,Dolibarr/dolibarr,PHP,20
-69691727,pmmp/PocketMine-MP,PHP,82
+69691727,pmmp/PocketMine-MP,PHP,81
 223535535,Ignitetch/AdvPhishing,PHP,15
