@@ -1,14 +1,14 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,6
-7548986,laravel/framework,PHP,7
+458058,symfony/symfony,PHP,9
+7548986,laravel/framework,PHP,10
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,5
-2253830,PHPMailer/PHPMailer,PHP,8
-5627682,serbanghita/Mobile-Detect,PHP,2
+2253830,PHPMailer/PHPMailer,PHP,9
+5627682,serbanghita/Mobile-Detect,PHP,3
 2884111,magento/magento2,PHP,0
-65755556,php-fig/container,PHP,4
-6660366,dompdf/dompdf,PHP,0
+65755556,php-fig/container,PHP,5
+6660366,dompdf/dompdf,PHP,1
 330275,twigphp/Twig,PHP,1
-24498056,symfony/var-dumper,PHP,2
+24498056,symfony/var-dumper,PHP,3
 2717549,Sylius/Sylius,PHP,4
 6269013,aws/aws-sdk-php,PHP,1
 9791525,digininja/DVWA,PHP,7
@@ -19,7 +19,7 @@ id,name,lang,new stars
 96284790,prasathmani/tinyfilemanager,PHP,4
 27195711,alextselegidis/easyappointments,PHP,1
 86987524,WWBN/AVideo,PHP,1
-230926110,qkqpttgf/OneManager-php,PHP,10
+230926110,qkqpttgf/OneManager-php,PHP,11
 75645659,WordPress/wordpress-develop,PHP,2
 122966967,snaptec/openWB,PHP,1
 345315720,swagkarna/Rafel-Rat,PHP,14

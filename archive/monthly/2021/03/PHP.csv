@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,528
-1864363,composer/composer,PHP,169
-458058,symfony/symfony,PHP,150
-7548986,laravel/framework,PHP,213
-1376664,Seldaek/monolog,PHP,132
-448045,sebastianbergmann/phpunit,PHP,135
+1863329,laravel/laravel,PHP,529
+1864363,composer/composer,PHP,170
+458058,symfony/symfony,PHP,153
+7548986,laravel/framework,PHP,217
+1376664,Seldaek/monolog,PHP,133
+448045,sebastianbergmann/phpunit,PHP,136
 2889328,WordPress/WordPress,PHP,117
-60243197,nextcloud/server,PHP,732
-12615154,barryvdh/laravel-debugbar,PHP,182
-8678290,barryvdh/laravel-ide-helper,PHP,147
-14732311,octobercms/october,PHP,113
+60243197,nextcloud/server,PHP,733
+12615154,barryvdh/laravel-debugbar,PHP,183
+8678290,barryvdh/laravel-ide-helper,PHP,148
+14732311,octobercms/october,PHP,114
 49014795,phpstan/phpstan,PHP,108
 61490598,PHPOffice/PhpSpreadsheet,PHP,157
 42480275,spatie/laravel-permission,PHP,125
-597887,doctrine/orm,PHP,80
+597887,doctrine/orm,PHP,81
 677464,doctrine/dbal,PHP,84
 2179920,woocommerce/woocommerce,PHP,89
 10238429,tennc/webshell,PHP,108
@@ -22,5 +22,5 @@ id,name,lang,new stars
 2464908,joomla/joomla-cms,PHP,43
 439861,moodle/moodle,PHP,58
 69691727,pmmp/PocketMine-MP,PHP,131
-29501260,api-platform/core,PHP,40
+29501260,api-platform/core,PHP,41
 174021137,inertiajs/pingcrm,PHP,79

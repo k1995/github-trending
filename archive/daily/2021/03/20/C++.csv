@@ -1,15 +1,15 @@
 id,name,lang,new stars
 5108051,opencv/opencv,C++,20
 23357588,protocolbuffers/protobuf,C++,11
-22067521,ocornut/imgui,C++,20
+22067521,ocornut/imgui,C++,25
 11171548,nlohmann/json,C++,15
 39840932,google/googletest,C++,9
 16587283,dmlc/xgboost,C++,0
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,14
 13862381,DrKLO/Telegram,C++,9
 19374812,telegramdesktop/tdesktop,C++,11
-126412363,simdjson/simdjson,C++,11
-1062572,catchorg/Catch2,C++,6
+126412363,simdjson/simdjson,C++,13
+1062572,catchorg/Catch2,C++,7
 95879426,Tencent/ncnn,C++,7
 38581626,pybind/pybind11,C++,10
 1605598,bulletphysics/bullet3,C++,5
