@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,157
-3482588,danielmiessler/SecLists,PHP,130
+1863329,laravel/laravel,PHP,159
+3482588,danielmiessler/SecLists,PHP,133
 458058,symfony/symfony,PHP,37
 7548986,laravel/framework,PHP,50
 1420053,guzzle/guzzle,PHP,41
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,25
-2253830,PHPMailer/PHPMailer,PHP,52
+2253830,PHPMailer/PHPMailer,PHP,54
 3431193,yiisoft/yii2,PHP,9
 12615154,barryvdh/laravel-debugbar,PHP,52
 8678290,barryvdh/laravel-ide-helper,PHP,42
@@ -15,7 +15,7 @@ id,name,lang,new stars
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,18
 14346979,snipe/snipe-it,PHP,48
 60491949,fecshop/yii2_fecshop,PHP,34
-9826184,elastic/elasticsearch-php,PHP,16
+9826184,elastic/elasticsearch-php,PHP,17
 74386167,vimeo/psalm,PHP,21
 76064827,mailcow/mailcow-dockerized,PHP,25
 2464908,joomla/joomla-cms,PHP,15
