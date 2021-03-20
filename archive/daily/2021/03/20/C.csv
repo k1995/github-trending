@@ -4,7 +4,7 @@ id,name,lang,new stars
 18666758,pjreddie/darknet,C,4
 569041,curl/curl,C,18
 34921116,iovisor/bcc,C,7
-63477515,TheAlgorithms/C,C,163
+63477515,TheAlgorithms/C,C,165
 927442,postgres/postgres,C,8
 60667730,lvgl/lvgl,C,9
 16734696,meetecho/janus-gateway,C,8
@@ -12,7 +12,7 @@ id,name,lang,new stars
 5383731,qemu/qemu,C,4
 44781140,greenplum-db/gpdb,C,1
 59771425,zephyrproject-rtos/zephyr,C,5
-32921736,audacity/audacity,C,14
+32921736,audacity/audacity,C,13
 6687936,ARMmbed/mbedtls,C,0
 1253879,stlink-org/stlink,C,2
 29933948,fluent/fluent-bit,C,2

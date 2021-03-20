@@ -1,17 +1,17 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,72
-8681349,huginn/huginn,Ruby,72
-2293158,rapid7/metasploit-framework,Ruby,96
+8681349,huginn/huginn,Ruby,71
+2293158,rapid7/metasploit-framework,Ruby,98
 308770,heartcombo/devise,Ruby,26
 2203645,CocoaPods/CocoaPods,Ruby,21
-138312,capistrano/capistrano,Ruby,17
+138312,capistrano/capistrano,Ruby,16
 4095287,rubocop/rubocop,Ruby,15
-812393,ruby-grape/grape,Ruby,5
+812393,ruby-grape/grape,Ruby,6
 96395,faker-ruby/faker,Ruby,13
 1725199,github/linguist,Ruby,30
 202291859,chatwoot/chatwoot,Ruby,557
 6529205,varvet/pundit,Ruby,11
-108278,chef/chef,Ruby,13
+108278,chef/chef,Ruby,14
 16549503,github/scientist,Ruby,16
 22059578,ankane/pghero,Ruby,35
 16994115,CanCanCommunity/cancancan,Ruby,7
@@ -20,7 +20,7 @@ id,name,lang,new stars
 115859973,ddnexus/pagy,Ruby,24
 614070,rubygems/rubygems,Ruby,12
 39706711,hartator/wayback-machine-downloader,Ruby,21
-11426474,github/choosealicense.com,Ruby,12
+11426474,github/choosealicense.com,Ruby,11
 1175581,citation-style-language/styles,Ruby,6
 56942570,Homebrew/linuxbrew-core,Ruby,8
 344612911,ginkgobioworks/vaccinetime,Ruby,4

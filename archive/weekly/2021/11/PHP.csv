@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,146
-458058,symfony/symfony,PHP,32
+1863329,laravel/laravel,PHP,147
+458058,symfony/symfony,PHP,34
 7548986,laravel/framework,PHP,45
 1420053,guzzle/guzzle,PHP,40
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,23
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,24
 1376664,Seldaek/monolog,PHP,42
-2889328,WordPress/WordPress,PHP,30
+2889328,WordPress/WordPress,PHP,29
 12615154,barryvdh/laravel-debugbar,PHP,50
 8678290,barryvdh/laravel-ide-helper,PHP,41
 14732311,octobercms/october,PHP,25
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,34
-61490598,PHPOffice/PhpSpreadsheet,PHP,51
+61490598,PHPOffice/PhpSpreadsheet,PHP,49
 15020102,walkor/Workerman,PHP,29
 2179920,woocommerce/woocommerce,PHP,31
-10238429,tennc/webshell,PHP,31
+10238429,tennc/webshell,PHP,30
 14346979,snipe/snipe-it,PHP,44
 30915528,spatie/laravel-backup,PHP,22
 74386167,vimeo/psalm,PHP,22
@@ -21,6 +21,6 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,21
 139191005,nunomaduro/larastan,PHP,12
 52319036,passbolt/passbolt_api,PHP,26
-69691727,pmmp/PocketMine-MP,PHP,84
+69691727,pmmp/PocketMine-MP,PHP,83
 189104054,laravel/ui,PHP,11
 223535535,Ignitetch/AdvPhishing,PHP,15
