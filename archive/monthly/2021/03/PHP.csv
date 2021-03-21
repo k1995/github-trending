@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,521
-1864363,composer/composer,PHP,169
+1863329,laravel/laravel,PHP,525
+1864363,composer/composer,PHP,170
 7548986,laravel/framework,PHP,220
 1420053,guzzle/guzzle,PHP,137
-1376664,Seldaek/monolog,PHP,132
-448045,sebastianbergmann/phpunit,PHP,135
-2889328,WordPress/WordPress,PHP,113
-60243197,nextcloud/server,PHP,730
-12615154,barryvdh/laravel-debugbar,PHP,179
-1305114,roots/sage,PHP,72
+1376664,Seldaek/monolog,PHP,133
+448045,sebastianbergmann/phpunit,PHP,136
+2889328,WordPress/WordPress,PHP,115
+60243197,nextcloud/server,PHP,731
+12615154,barryvdh/laravel-debugbar,PHP,180
+1305114,roots/sage,PHP,73
 8678290,barryvdh/laravel-ide-helper,PHP,149
-14732311,octobercms/october,PHP,111
-49014795,phpstan/phpstan,PHP,108
+14732311,octobercms/october,PHP,112
+49014795,phpstan/phpstan,PHP,109
 61490598,PHPOffice/PhpSpreadsheet,PHP,157
 42480275,spatie/laravel-permission,PHP,126
 597887,doctrine/orm,PHP,78
@@ -20,7 +20,7 @@ id,name,lang,new stars
 10238429,tennc/webshell,PHP,108
 14346979,snipe/snipe-it,PHP,101
 2464908,joomla/joomla-cms,PHP,44
-439861,moodle/moodle,PHP,60
+439861,moodle/moodle,PHP,61
 31595609,mpdf/mpdf,PHP,51
 69691727,pmmp/PocketMine-MP,PHP,126
 174021137,inertiajs/pingcrm,PHP,80
