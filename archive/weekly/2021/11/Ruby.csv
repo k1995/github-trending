@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,61
+8514,rails/rails,Ruby,63
 65252,jekyll/jekyll,Ruby,71
 7569578,discourse/discourse,Ruby,67
-27442967,fastlane/fastlane,Ruby,70
+27442967,fastlane/fastlane,Ruby,71
 2293158,rapid7/metasploit-framework,Ruby,105
 308770,heartcombo/devise,Ruby,25
-2203645,CocoaPods/CocoaPods,Ruby,22
+2203645,CocoaPods/CocoaPods,Ruby,23
 1090311,elastic/logstash,Ruby,18
-138312,capistrano/capistrano,Ruby,18
-52855516,Homebrew/homebrew-core,Ruby,48
+138312,capistrano/capistrano,Ruby,19
+52855516,Homebrew/homebrew-core,Ruby,50
 611921,activeadmin/activeadmin,Ruby,5
 1725199,github/linguist,Ruby,29
 202291859,chatwoot/chatwoot,Ruby,811
@@ -16,10 +16,10 @@ id,name,lang,new stars
 6529205,varvet/pundit,Ruby,13
 108278,chef/chef,Ruby,14
 16549503,github/scientist,Ruby,18
-22059578,ankane/pghero,Ruby,38
+22059578,ankane/pghero,Ruby,39
 6899875,opf/openproject,Ruby,44
 30337170,rmosolgo/graphql-ruby,Ruby,13
-32841259,dtan4/terraforming,Ruby,19
+32841259,dtan4/terraforming,Ruby,20
 30985840,solidusio/solidus,Ruby,13
 39706711,hartator/wayback-machine-downloader,Ruby,23
 154027884,samber/awesome-prometheus-alerts,Ruby,33
