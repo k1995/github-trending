@@ -1,19 +1,19 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,679
-507775,elastic/elasticsearch,Java,127
-6296790,spring-projects/spring-boot,Java,164
+121395510,CyC2018/CS-Notes,Java,680
+507775,elastic/elasticsearch,Java,128
+6296790,spring-projects/spring-boot,Java,166
 1148753,spring-projects/spring-framework,Java,110
 4710920,apache/dubbo,Java,46
-11267509,bumptech/glide,Java,63
+11267509,bumptech/glide,Java,65
 110211147,xkcoding/spring-boot-demo,Java,122
-131789494,wuyouzhuguli/SpringAll,Java,116
-18723836,dromara/hutool,Java,133
-20773773,bazelbuild/bazel,Java,50
+131789494,wuyouzhuguli/SpringAll,Java,115
+18723836,dromara/hutool,Java,134
+20773773,bazelbuild/bazel,Java,51
 49662222,oracle/graal,Java,86
 75164823,apache/rocketmq,Java,63
 148496687,YunaiV/SpringBoot-Labs,Java,98
-149121954,openjdk/jdk,Java,404
-139914932,quarkusio/quarkus,Java,68
+149121954,openjdk/jdk,Java,428
+139914932,quarkusio/quarkus,Java,70
 209921402,newbee-ltd/newbee-mall,Java,123
 12499251,checkstyle/checkstyle,Java,47
 81226206,intuit/karate,Java,51
@@ -22,5 +22,5 @@ id,name,lang,new stars
 256589781,androidx/androidx,Java,61
 300919318,srcrs/BilibiliTask,Java,58
 201179882,android/animation-samples,Java,42
-206675202,spring-projects-experimental/spring-native,Java,369
+206675202,spring-projects-experimental/spring-native,Java,360
 263788932,MarkerHub/vueblog,Java,46
