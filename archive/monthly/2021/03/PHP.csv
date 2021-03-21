@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,534
+1863329,laravel/laravel,PHP,535
 1864363,composer/composer,PHP,170
 458058,symfony/symfony,PHP,153
-7548986,laravel/framework,PHP,220
+7548986,laravel/framework,PHP,222
 1376664,Seldaek/monolog,PHP,133
 448045,sebastianbergmann/phpunit,PHP,137
 2889328,WordPress/WordPress,PHP,117
 60243197,nextcloud/server,PHP,737
 12615154,barryvdh/laravel-debugbar,PHP,187
-8678290,barryvdh/laravel-ide-helper,PHP,149
+8678290,barryvdh/laravel-ide-helper,PHP,150
 14732311,octobercms/october,PHP,115
 49014795,phpstan/phpstan,PHP,108
 61490598,PHPOffice/PhpSpreadsheet,PHP,157
@@ -17,7 +17,7 @@ id,name,lang,new stars
 677464,doctrine/dbal,PHP,84
 2179920,woocommerce/woocommerce,PHP,90
 10238429,tennc/webshell,PHP,109
-14716368,invoiceninja/invoiceninja,PHP,80
+14716368,invoiceninja/invoiceninja,PHP,81
 12204147,mautic/mautic,PHP,71
 2464908,joomla/joomla-cms,PHP,43
 439861,moodle/moodle,PHP,60

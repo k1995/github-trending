@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,65
-65252,jekyll/jekyll,Ruby,64
+8514,rails/rails,Ruby,68
+65252,jekyll/jekyll,Ruby,67
 27442967,fastlane/fastlane,Ruby,72
 8681349,huginn/huginn,Ruby,72
-2293158,rapid7/metasploit-framework,Ruby,105
+2293158,rapid7/metasploit-framework,Ruby,107
 308770,heartcombo/devise,Ruby,28
 2203645,CocoaPods/CocoaPods,Ruby,23
 1090311,elastic/logstash,Ruby,19
 138312,capistrano/capistrano,Ruby,18
 96395,faker-ruby/faker,Ruby,13
 611921,activeadmin/activeadmin,Ruby,5
-1725199,github/linguist,Ruby,32
+1725199,github/linguist,Ruby,33
 202291859,chatwoot/chatwoot,Ruby,811
 451035,heartcombo/simple_form,Ruby,11
 6529205,varvet/pundit,Ruby,12
@@ -22,5 +22,5 @@ id,name,lang,new stars
 32841259,dtan4/terraforming,Ruby,19
 30985840,solidusio/solidus,Ruby,14
 115859973,ddnexus/pagy,Ruby,24
-39706711,hartator/wayback-machine-downloader,Ruby,24
+39706711,hartator/wayback-machine-downloader,Ruby,25
 56942570,Homebrew/linuxbrew-core,Ruby,10
