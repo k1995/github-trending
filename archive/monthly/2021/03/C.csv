@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,2411
-156018,redis/redis,C,538
-36502,git/git,C,1375
-3774328,wg/wrk,C,680
-14812739,libuv/libuv,C,238
-7634677,openssl/openssl,C,240
-196353673,taosdata/TDengine,C,137
-34921116,iovisor/bcc,C,207
+2325298,torvalds/linux,C,2419
+156018,redis/redis,C,539
+36502,git/git,C,1377
+3774328,wg/wrk,C,700
+14812739,libuv/libuv,C,239
+7634677,openssl/openssl,C,241
+196353673,taosdata/TDengine,C,138
+34921116,iovisor/bcc,C,208
 63477515,TheAlgorithms/C,C,1140
 75811015,Tencent/xLua,C,102
 190845267,n64decomp/sm64,C,368
@@ -14,12 +14,12 @@ id,name,lang,new stars
 105944401,yugabyte/yugabyte-db,C,142
 14735429,aquynh/capstone,C,100
 68291988,miloyip/json-tutorial,C,182
-272457606,jart/cosmopolitan,C,3037
-224151065,Immediate-Mode-UI/Nuklear,C,1383
-32921736,audacity/audacity,C,176
+272457606,jart/cosmopolitan,C,3038
+224151065,Immediate-Mode-UI/Nuklear,C,1384
+32921736,audacity/audacity,C,177
 212152900,wasm3/wasm3,C,474
 77920383,nesbox/TIC-80,C,150
-282790925,badafans/better-cloudflare-ip,C,318
+282790925,badafans/better-cloudflare-ip,C,319
 189044704,AFLplusplus/AFLplusplus,C,202
 287706896,Tencent/puerts,C,103
 257113637,jdah/minecraft-weekend,C,443
