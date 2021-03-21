@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,21
-3482588,danielmiessler/SecLists,PHP,26
+1863329,laravel/laravel,PHP,23
+3482588,danielmiessler/SecLists,PHP,27
 2579314,fzaninotto/Faker,PHP,6
 82238168,monicahq/monica,PHP,1
-12615154,barryvdh/laravel-debugbar,PHP,8
+12615154,barryvdh/laravel-debugbar,PHP,9
 14732311,octobercms/october,PHP,4
 72069409,the-control-group/voyager,PHP,2
-33904351,laravel/lumen,PHP,4
+33904351,laravel/lumen,PHP,3
 7456035,sebastianbergmann/version,PHP,3
 3217621,phpmyadmin/phpmyadmin,PHP,3
 222873550,bytefury/crater,PHP,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 36888692,spatie/package-skeleton-laravel,PHP,4
 143703053,rajkumardusad/IP-Tracer,PHP,2
 111308189,moode-player/moode,PHP,1
-259296942,InsiderPhD/Generic-University,PHP,5
 347718425,holo-gfx/mangadex,PHP,18
-345315720,swagkarna/Rafel-Rat,PHP,4
+259296942,InsiderPhD/Generic-University,PHP,5
+345315720,swagkarna/Rafel-Rat,PHP,5
