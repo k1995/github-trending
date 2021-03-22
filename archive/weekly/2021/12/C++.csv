@@ -8,7 +8,7 @@ id,name,lang,new stars
 1357796,emscripten-core/emscripten,C++,29
 6934395,facebook/rocksdb,C++,413
 120887835,huihut/interview,C++,236
-60273704,mozilla/DeepSpeech,C++,63
+60273704,mozilla/DeepSpeech,C++,64
 65214191,envoyproxy/envoy,C++,122
 60246359,ClickHouse/ClickHouse,C++,135
 90902132,flameshot-org/flameshot,C++,1312
@@ -16,7 +16,7 @@ id,name,lang,new stars
 26038648,gabime/spdlog,C++,71
 38581626,pybind/pybind11,C++,52
 26255337,cameron314/concurrentqueue,C++,43
-1320594,SpiderLabs/ModSecurity,C++,29
+1320594,SpiderLabs/ModSecurity,C++,30
 21179164,qTox/qTox,C++,21
 153097643,openvinotoolkit/openvino,C++,20
 88987546,google/security-research-pocs,C++,598
