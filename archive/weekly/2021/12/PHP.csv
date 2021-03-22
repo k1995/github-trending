@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,148
-3482588,danielmiessler/SecLists,PHP,131
+1863329,laravel/laravel,PHP,149
+3482588,danielmiessler/SecLists,PHP,132
 7548986,laravel/framework,PHP,52
 1420053,guzzle/guzzle,PHP,36
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,27
-2253830,PHPMailer/PHPMailer,PHP,45
+2253830,PHPMailer/PHPMailer,PHP,46
 12615154,barryvdh/laravel-debugbar,PHP,48
 8678290,barryvdh/laravel-ide-helper,PHP,36
 14732311,octobercms/october,PHP,25
 61490598,PHPOffice/PhpSpreadsheet,PHP,42
-2884111,magento/magento2,PHP,15
+2884111,magento/magento2,PHP,16
 15020102,walkor/Workerman,PHP,34
 9004802,phpspec/prophecy,PHP,17
 5508585,YOURLS/YOURLS,PHP,27
@@ -19,7 +19,7 @@ id,name,lang,new stars
 9826184,elastic/elasticsearch-php,PHP,17
 74386167,vimeo/psalm,PHP,19
 439861,moodle/moodle,PHP,20
-109706738,swooletw/laravel-swoole,PHP,20
+109706738,swooletw/laravel-swoole,PHP,21
 1957456,Dolibarr/dolibarr,PHP,22
 69691727,pmmp/PocketMine-MP,PHP,39
 182349597,jqhph/dcat-admin,PHP,20
