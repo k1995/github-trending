@@ -1,21 +1,21 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,1187
+9384267,electron/electron,C++,1188
 39840932,google/googletest,C++,868
-6934395,facebook/rocksdb,C++,552
-120887835,huihut/interview,C++,757
-67702184,topjohnwu/Magisk,C++,778
-65214191,envoyproxy/envoy,C++,301
-60246359,ClickHouse/ClickHouse,C++,585
+6934395,facebook/rocksdb,C++,554
+120887835,huihut/interview,C++,758
+67702184,topjohnwu/Magisk,C++,779
+65214191,envoyproxy/envoy,C++,302
+60246359,ClickHouse/ClickHouse,C++,587
 149111813,Tencent/MMKV,C++,365
-90902132,flameshot-org/flameshot,C++,2702
+90902132,flameshot-org/flameshot,C++,2705
 95879426,Tencent/ncnn,C++,256
 196813750,Light-City/CPlusPlusThings,C++,669
 192025001,Qv2ray/Qv2ray,C++,729
 2310495,ceph/ceph,C++,159
-51905353,apache/arrow,C++,374
+51905353,apache/arrow,C++,375
 95114723,nasa/fprime,C++,2788
-131236938,an-tao/drogon,C++,296
-89067146,ethereum-mining/ethminer,C++,551
+131236938,an-tao/drogon,C++,297
+89067146,ethereum-mining/ethminer,C++,552
 156939672,microsoft/onnxruntime,C++,265
 88327406,xmrig/xmrig,C++,314
 283410102,sogou/workflow,C++,194
@@ -23,4 +23,4 @@ id,name,lang,new stars
 143324737,diasurgical/devilutionX,C++,665
 27918697,versatica/mediasoup,C++,178
 64987779,Alinshans/MyTinySTL,C++,221
-19347340,nanocurrency/nano-node,C++,114
+19347340,nanocurrency/nano-node,C++,116
