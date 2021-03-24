@@ -3,11 +3,11 @@ id,name,lang,new stars
 2203645,CocoaPods/CocoaPods,Ruby,4
 1090311,elastic/logstash,Ruby,5
 3314,spree/spree,Ruby,4
-3195124,mperham/sidekiq,Ruby,5
+3195124,mperham/sidekiq,Ruby,6
 1918677,fluent/fluentd,Ruby,0
 96395,faker-ruby/faker,Ruby,2
 15435,Shopify/liquid,Ruby,3
-202291859,chatwoot/chatwoot,Ruby,206
+202291859,chatwoot/chatwoot,Ruby,178
 21829,thoughtbot/factory_bot,Ruby,1
 910744,puppetlabs/puppet,Ruby,2
 75785147,rails/webpacker,Ruby,1
@@ -15,7 +15,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,3
 4523235,asciidoctor/asciidoctor,Ruby,4
 558790,zdennis/activerecord-import,Ruby,0
-46698467,ankane/strong_migrations,Ruby,4
+46698467,ankane/strong_migrations,Ruby,3
 9831101,elastic/elasticsearch-ruby,Ruby,0
 200302808,github/view_component,Ruby,6
 34840276,elastic/ansible-elasticsearch,Ruby,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,3
 644899,onelogin/ruby-saml,Ruby,1
 3947396,getsentry/sentry-ruby,Ruby,2
-348803260,IIC2143-2021-1/Syllabus,Ruby,4
+348803260,IIC2143-2021-1/Syllabus,Ruby,3
