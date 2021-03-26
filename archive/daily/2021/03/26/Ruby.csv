@@ -1,21 +1,21 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,71
-27442967,fastlane/fastlane,Ruby,12
-308770,heartcombo/devise,Ruby,4
+27442967,fastlane/fastlane,Ruby,14
+308770,heartcombo/devise,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,3
 4095287,rubocop/rubocop,Ruby,3
-3314,spree/spree,Ruby,6
+3314,spree/spree,Ruby,5
 3195124,mperham/sidekiq,Ruby,3
 8393,thoughtbot/paperclip,Ruby,1
 108278,chef/chef,Ruby,1
 277089,flyerhzm/bullet,Ruby,2
 910744,puppetlabs/puppet,Ruby,1
 1548802,activerecord-hackery/ransack,Ruby,3
-1314319,instructure/canvas-lms,Ruby,4
+1314319,instructure/canvas-lms,Ruby,5
 30985840,solidusio/solidus,Ruby,2
 363,collectiveidea/audited,Ruby,1
-614070,rubygems/rubygems,Ruby,1
-194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,46
+614070,rubygems/rubygems,Ruby,0
+194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,49
 34840276,elastic/ansible-elasticsearch,Ruby,0
 1262785,pivotal/LicenseFinder,Ruby,6
 39152554,consul/consul,Ruby,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 196790,mimemagicrb/mimemagic,Ruby,55
 82847042,rails/marcel,Ruby,11
 195810494,RailsEventStore/cqrs-es-sample-with-res,Ruby,5
-344612911,ginkgobioworks/vaccinetime,Ruby,2
+344612911,ginkgobioworks/vaccinetime,Ruby,1
