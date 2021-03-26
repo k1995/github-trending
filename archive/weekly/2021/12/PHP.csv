@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,117
-3482588,danielmiessler/SecLists,PHP,156
+1863329,laravel/laravel,PHP,116
+3482588,danielmiessler/SecLists,PHP,159
 458058,symfony/symfony,PHP,34
-7548986,laravel/framework,PHP,44
+7548986,laravel/framework,PHP,46
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,32
-2253830,PHPMailer/PHPMailer,PHP,40
-2889328,WordPress/WordPress,PHP,38
-12615154,barryvdh/laravel-debugbar,PHP,53
-7769432,vlucas/phpdotenv,PHP,22
-72069409,the-control-group/voyager,PHP,21
+2253830,PHPMailer/PHPMailer,PHP,39
+2889328,WordPress/WordPress,PHP,39
+12615154,barryvdh/laravel-debugbar,PHP,52
+7769432,vlucas/phpdotenv,PHP,21
+72069409,the-control-group/voyager,PHP,20
 9004802,phpspec/prophecy,PHP,15
 31295421,guzzle/psr7,PHP,25
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,20
@@ -20,7 +20,7 @@ id,name,lang,new stars
 60491949,fecshop/yii2_fecshop,PHP,20
 13973343,cydrobolt/polr,PHP,25
 222873550,bytefury/crater,PHP,22
-148129143,bagisto/bagisto,PHP,18
-8077402,MISP/MISP,PHP,16
+148129143,bagisto/bagisto,PHP,19
+8077402,MISP/MISP,PHP,17
 166299071,stancl/tenancy,PHP,21
 129852395,assimon/dujiaoka,PHP,25
