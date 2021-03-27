@@ -1,20 +1,20 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,174
+3482588,danielmiessler/SecLists,PHP,176
 7548986,laravel/framework,PHP,45
 1420053,guzzle/guzzle,PHP,24
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,32
 2253830,PHPMailer/PHPMailer,PHP,36
 2889328,WordPress/WordPress,PHP,40
-12615154,barryvdh/laravel-debugbar,PHP,56
-7769432,vlucas/phpdotenv,PHP,18
-72069409,the-control-group/voyager,PHP,18
-61490598,PHPOffice/PhpSpreadsheet,PHP,38
+12615154,barryvdh/laravel-debugbar,PHP,58
+7769432,vlucas/phpdotenv,PHP,19
+72069409,the-control-group/voyager,PHP,19
+61490598,PHPOffice/PhpSpreadsheet,PHP,39
 2884111,magento/magento2,PHP,8
 330275,twigphp/Twig,PHP,15
 31295421,guzzle/psr7,PHP,25
 14716368,invoiceninja/invoiceninja,PHP,49
 6269013,aws/aws-sdk-php,PHP,11
-14346979,snipe/snipe-it,PHP,35
+14346979,snipe/snipe-it,PHP,36
 14735403,yajra/laravel-datatables,PHP,15
 13973343,cydrobolt/polr,PHP,20
 222873550,bytefury/crater,PHP,20
@@ -22,5 +22,5 @@ id,name,lang,new stars
 109984157,symfony/maker-bundle,PHP,12
 38200433,jeroennoten/Laravel-AdminLTE,PHP,15
 129852395,assimon/dujiaoka,PHP,30
-223535535,Ignitetch/AdvPhishing,PHP,10
+223535535,Ignitetch/AdvPhishing,PHP,11
 345315720,swagkarna/Rafel-Rat,PHP,21

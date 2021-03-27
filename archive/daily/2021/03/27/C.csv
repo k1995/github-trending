@@ -11,11 +11,11 @@ id,name,lang,new stars
 13310527,jemalloc/jemalloc,C,7
 5870069,edenhill/librdkafka,C,2
 849692,ZipArchive/ZipArchive,C,3
-8046269,warmcat/libwebsockets,C,2
+8046269,warmcat/libwebsockets,C,4
 6687936,ARMmbed/mbedtls,C,1
 4434428,kokke/tiny-AES-c,C,1
 5410234,OISF/suricata,C,1
-13352949,civetweb/civetweb,C,0
+13352949,civetweb/civetweb,C,1
 76599439,FRRouting/frr,C,0
 51990771,ARM-software/CMSIS_5,C,2
 6860771,hathach/tinyusb,C,2

@@ -1,13 +1,13 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,28
-2579314,fzaninotto/Faker,PHP,4
+3482588,danielmiessler/SecLists,PHP,31
+2579314,fzaninotto/Faker,PHP,5
 458058,symfony/symfony,PHP,4
 1420053,guzzle/guzzle,PHP,3
 1376664,Seldaek/monolog,PHP,1
-12615154,barryvdh/laravel-debugbar,PHP,9
+12615154,barryvdh/laravel-debugbar,PHP,11
 1280180,phacility/phabricator,PHP,3
 4702560,PHPOffice/PHPExcel,PHP,1
-61490598,PHPOffice/PhpSpreadsheet,PHP,9
+61490598,PHPOffice/PhpSpreadsheet,PHP,10
 14259390,Maatwebsite/Laravel-Excel,PHP,7
 12166778,googleapis/google-api-php-client,PHP,2
 330275,twigphp/Twig,PHP,1
@@ -15,12 +15,12 @@ id,name,lang,new stars
 42261096,fuzzdb-project/fuzzdb,PHP,1
 4565995,phpseclib/phpseclib,PHP,2
 97311017,rectorphp/rector,PHP,4
-95011974,akaunting/akaunting,PHP,0
-76064827,mailcow/mailcow-dockerized,PHP,4
-31595609,mpdf/mpdf,PHP,5
+95011974,akaunting/akaunting,PHP,1
+76064827,mailcow/mailcow-dockerized,PHP,5
+31595609,mpdf/mpdf,PHP,6
 1957456,Dolibarr/dolibarr,PHP,0
 13914116,librenms/librenms,PHP,0
-134953788,mashirozx/Sakura,PHP,4
+134953788,mashirozx/Sakura,PHP,5
 17253775,zabbix/zabbix,PHP,2
-64629613,lxerxa/actionview,PHP,0
+64629613,lxerxa/actionview,PHP,1
 351145275,dannyk-99/laravel-speaks-arabic,PHP,3
