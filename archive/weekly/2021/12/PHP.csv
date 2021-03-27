@@ -1,18 +1,18 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,184
-7548986,laravel/framework,PHP,46
+3482588,danielmiessler/SecLists,PHP,188
+7548986,laravel/framework,PHP,50
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,33
-2253830,PHPMailer/PHPMailer,PHP,36
+2253830,PHPMailer/PHPMailer,PHP,37
 2889328,WordPress/WordPress,PHP,41
-12615154,barryvdh/laravel-debugbar,PHP,60
+12615154,barryvdh/laravel-debugbar,PHP,61
 72069409,the-control-group/voyager,PHP,20
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,27
 61490598,PHPOffice/PhpSpreadsheet,PHP,41
 31295421,guzzle/psr7,PHP,25
-2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,24
+2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,25
 14716368,invoiceninja/invoiceninja,PHP,49
 6269013,aws/aws-sdk-php,PHP,11
-14346979,snipe/snipe-it,PHP,37
+14346979,snipe/snipe-it,PHP,39
 14735403,yajra/laravel-datatables,PHP,15
 222873550,bytefury/crater,PHP,20
 109706738,swooletw/laravel-swoole,PHP,20
@@ -22,5 +22,5 @@ id,name,lang,new stars
 129852395,assimon/dujiaoka,PHP,30
 17253775,zabbix/zabbix,PHP,18
 131995661,shopware/platform,PHP,16
-229847129,azjezz/psl,PHP,68
-345315720,swagkarna/Rafel-Rat,PHP,22
+229847129,azjezz/psl,PHP,69
+345315720,swagkarna/Rafel-Rat,PHP,23
