@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,522
-7548986,laravel/framework,PHP,205
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,99
+1863329,laravel/laravel,PHP,523
+7548986,laravel/framework,PHP,206
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,100
 1376664,Seldaek/monolog,PHP,127
 448045,sebastianbergmann/phpunit,PHP,135
 2253830,PHPMailer/PHPMailer,PHP,169
-2889328,WordPress/WordPress,PHP,135
-12615154,barryvdh/laravel-debugbar,PHP,197
-8678290,barryvdh/laravel-ide-helper,PHP,148
+2889328,WordPress/WordPress,PHP,136
+12615154,barryvdh/laravel-debugbar,PHP,199
+8678290,barryvdh/laravel-ide-helper,PHP,149
 14732311,octobercms/october,PHP,112
-61490598,PHPOffice/PhpSpreadsheet,PHP,162
-42480275,spatie/laravel-permission,PHP,125
+61490598,PHPOffice/PhpSpreadsheet,PHP,163
+42480275,spatie/laravel-permission,PHP,126
 597887,doctrine/orm,PHP,77
-11340559,deployphp/deployer,PHP,69
+11340559,deployphp/deployer,PHP,70
 677464,doctrine/dbal,PHP,81
 31295421,guzzle/psr7,PHP,79
 14716368,invoiceninja/invoiceninja,PHP,113
@@ -23,4 +23,4 @@ id,name,lang,new stars
 72453516,wp-graphql/wp-graphql,PHP,63
 69691727,pmmp/PocketMine-MP,PHP,125
 131995661,shopware/platform,PHP,58
-174021137,inertiajs/pingcrm,PHP,89
+174021137,inertiajs/pingcrm,PHP,90
