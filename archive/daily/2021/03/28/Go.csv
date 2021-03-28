@@ -1,13 +1,13 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,56
+20580498,kubernetes/kubernetes,Go,61
 74175805,istio/istio,Go,22
 17728164,hashicorp/terraform,Go,31
 31504491,labstack/echo,Go,12
 26337322,rancher/rancher,Go,15
-192632000,dapr/dapr,Go,165
+192632000,dapr/dapr,Go,164
 5179099,go-redis/redis,Go,20
 7083242,go-sql-driver/mysql,Go,10
-29371034,micro/micro,Go,14
+29371034,micro/micro,Go,17
 6443435,nats-io/nats-server,Go,14
 65434192,tidwall/gjson,Go,24
 11206255,Shopify/sarama,Go,9
@@ -17,10 +17,10 @@ id,name,lang,new stars
 120896210,argoproj/argo-cd,Go,13
 70646781,maxence-charriere/go-app,Go,77
 7515336,davecgh/go-spew,Go,20
-81497153,kubernetes-sigs/external-dns,Go,9
+81497153,kubernetes-sigs/external-dns,Go,10
 25872841,spf13/afero,Go,20
 120519269,runatlantis/atlantis,Go,3
-22883982,vmware/govmomi,Go,2
+22883982,vmware/govmomi,Go,3
 297436961,porter-dev/porter,Go,682
-220588935,naiba/nezha,Go,17
-311216458,fogleman/physarum,Go,84
+220588935,naiba/nezha,Go,20
+311216458,fogleman/physarum,Go,78
