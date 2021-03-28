@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,2484
+2325298,torvalds/linux,C,2494
 10744183,netdata/netdata,C,426
-156018,redis/redis,C,547
-36502,git/git,C,1400
+156018,redis/redis,C,550
+36502,git/git,C,1402
 3774328,wg/wrk,C,866
-1614410,FFmpeg/FFmpeg,C,453
-14812739,libuv/libuv,C,232
+1614410,FFmpeg/FFmpeg,C,455
+14812739,libuv/libuv,C,233
 102578345,coolsnowwolf/lede,C,603
 7634677,openssl/openssl,C,268
 196353673,taosdata/TDengine,C,148
@@ -13,14 +13,14 @@ id,name,lang,new stars
 27737393,qmk/qmk_firmware,C,496
 63477515,TheAlgorithms/C,C,1154
 45821540,openwrt/openwrt,C,307
-75811015,Tencent/xLua,C,101
+75811015,Tencent/xLua,C,102
 2328181,freebsd/freebsd-src,C,86
 1979797,FreeRDP/FreeRDP,C,79
 105944401,yugabyte/yugabyte-db,C,141
-272457606,jart/cosmopolitan,C,2423
+272457606,jart/cosmopolitan,C,2426
 32921736,audacity/audacity,C,236
-3681392,mossmann/hackrf,C,77
+3681392,mossmann/hackrf,C,78
 282790925,badafans/better-cloudflare-ip,C,300
-189044704,AFLplusplus/AFLplusplus,C,197
+189044704,AFLplusplus/AFLplusplus,C,198
 257113637,jdah/minecraft-weekend,C,333
 194269070,skyline-emu/skyline,C,66

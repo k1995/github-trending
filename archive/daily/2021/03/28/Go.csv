@@ -4,8 +4,8 @@ id,name,lang,new stars
 17728164,hashicorp/terraform,Go,29
 31504491,labstack/echo,Go,12
 26337322,rancher/rancher,Go,15
-192632000,dapr/dapr,Go,165
-5179099,go-redis/redis,Go,17
+192632000,dapr/dapr,Go,164
+5179099,go-redis/redis,Go,19
 7083242,go-sql-driver/mysql,Go,10
 29371034,micro/micro,Go,14
 6443435,nats-io/nats-server,Go,14
@@ -16,11 +16,11 @@ id,name,lang,new stars
 93444615,hashicorp/terraform-provider-aws,Go,7
 120896210,argoproj/argo-cd,Go,13
 70646781,maxence-charriere/go-app,Go,73
-7515336,davecgh/go-spew,Go,18
-81497153,kubernetes-sigs/external-dns,Go,9
+7515336,davecgh/go-spew,Go,19
+81497153,kubernetes-sigs/external-dns,Go,10
 25872841,spf13/afero,Go,19
 120519269,runatlantis/atlantis,Go,3
 22883982,vmware/govmomi,Go,2
 297436961,porter-dev/porter,Go,669
 220588935,naiba/nezha,Go,17
-311216458,fogleman/physarum,Go,84
+311216458,fogleman/physarum,Go,78
