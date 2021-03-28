@@ -1,18 +1,18 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,75
-1181927,bitcoin/bitcoin,C++,110
-22067521,ocornut/imgui,C++,31
-74627617,commaai/openpilot,C++,24
+100060912,microsoft/terminal,C++,77
+1181927,bitcoin/bitcoin,C++,117
+22067521,ocornut/imgui,C++,34
+74627617,commaai/openpilot,C++,26
 168008797,microsoft/calculator,C++,258
-116167731,yuzu-emu/yuzu,C++,53
+116167731,yuzu-emu/yuzu,C++,54
 2200856,MarlinFirmware/Marlin,C++,24
 160083795,SerenityOS/serenity,C++,45
-38581626,pybind/pybind11,C++,40
+38581626,pybind/pybind11,C++,41
 104231541,abseil/abseil-cpp,C++,12
 1524684,SFML/SFML,C++,12
-106558568,doitsujin/dxvk,C++,8
+106558568,doitsujin/dxvk,C++,10
 37821236,SaschaWillems/Vulkan,C++,5
-19316619,monero-project/monero,C++,10
+19316619,monero-project/monero,C++,14
 14303048,mamedev/mame,C++,11
 89067146,ethereum-mining/ethminer,C++,34
 14268809,FastLED/FastLED,C++,9

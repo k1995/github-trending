@@ -1,19 +1,19 @@
 id,name,lang,new stars
 7691631,moby/moby,Go,24
-11180687,gohugoio/hugo,Go,52
-212613049,cli/cli,Go,44
+11180687,gohugoio/hugo,Go,54
+212613049,cli/cli,Go,45
 105279544,gocolly/colly,Go,45
 11008207,vitessio/vitess,Go,12
 62921553,rook/rook,Go,13
 72477752,pulumi/pulumi,Go,35
 181461073,v2fly/v2ray-core,Go,54
-70646781,maxence-charriere/go-app,Go,84
+70646781,maxence-charriere/go-app,Go,85
 47859258,goplus/gop,Go,167
 26639347,OJ/gobuster,Go,12
 156681830,ffuf/ffuf,Go,18
 248025303,p4gefau1t/trojan-go,Go,19
 135321861,ory/kratos,Go,22
-104323769,ContainerSolutions/k8s-deployment-strategies,Go,34
+104323769,ContainerSolutions/k8s-deployment-strategies,Go,37
 113219518,filecoin-project/venus,Go,3
 281694167,Mrs4s/go-cqhttp,Go,14
 297436961,porter-dev/porter,Go,692
@@ -21,6 +21,6 @@ id,name,lang,new stars
 193681111,filecoin-project/lotus,Go,12
 175405157,JanDeDobbeleer/oh-my-posh,Go,23
 311216458,fogleman/physarum,Go,92
-172405812,SoMuchForSubtlety/f1viewer,Go,20
+172405812,SoMuchForSubtlety/f1viewer,Go,24
 299020776,yields/ant,Go,157
-351622243,terorie/cve-2021-3449,Go,74
+351622243,terorie/cve-2021-3449,Go,75
