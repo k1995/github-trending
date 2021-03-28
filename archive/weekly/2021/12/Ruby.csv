@@ -1,17 +1,17 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,276
 13840241,freeCodeCamp/devdocs,Ruby,85
-2293158,rapid7/metasploit-framework,Ruby,90
+2293158,rapid7/metasploit-framework,Ruby,91
 308770,heartcombo/devise,Ruby,28
 538746,ruby/ruby,Ruby,41
 1090311,elastic/logstash,Ruby,28
 4095287,rubocop/rubocop,Ruby,11
 3314,spree/spree,Ruby,25
-11423758,mame/quine-relay,Ruby,99
+11423758,mame/quine-relay,Ruby,100
 3195124,mperham/sidekiq,Ruby,20
-96395,faker-ruby/faker,Ruby,9
+96395,faker-ruby/faker,Ruby,10
 8393,thoughtbot/paperclip,Ruby,5
-202291859,chatwoot/chatwoot,Ruby,1036
+202291859,chatwoot/chatwoot,Ruby,1042
 47087,carrierwaveuploader/carrierwave,Ruby,5
 21829,thoughtbot/factory_bot,Ruby,2
 26018608,github-changelog-generator/github-changelog-generator,Ruby,18
@@ -23,4 +23,4 @@ id,name,lang,new stars
 39706711,hartator/wayback-machine-downloader,Ruby,26
 103766152,github/explore,Ruby,27
 93163073,dependabot/dependabot-core,Ruby,14
-344612911,ginkgobioworks/vaccinetime,Ruby,11
+344612911,ginkgobioworks/vaccinetime,Ruby,12
