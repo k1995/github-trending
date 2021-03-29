@@ -1,19 +1,19 @@
 id,name,lang,new stars
-7691631,moby/moby,Go,26
+7691631,moby/moby,Go,8
 11180687,gohugoio/hugo,Go,57
 212613049,cli/cli,Go,49
 105279544,gocolly/colly,Go,47
 11008207,vitessio/vitess,Go,13
 62921553,rook/rook,Go,13
-72477752,pulumi/pulumi,Go,38
-181461073,v2fly/v2ray-core,Go,61
-70646781,maxence-charriere/go-app,Go,88
+72477752,pulumi/pulumi,Go,19
+181461073,v2fly/v2ray-core,Go,60
+70646781,maxence-charriere/go-app,Go,87
 47859258,goplus/gop,Go,176
 26639347,OJ/gobuster,Go,14
 156681830,ffuf/ffuf,Go,29
-248025303,p4gefau1t/trojan-go,Go,22
-135321861,ory/kratos,Go,23
-104323769,ContainerSolutions/k8s-deployment-strategies,Go,39
+248025303,p4gefau1t/trojan-go,Go,21
+135321861,ory/kratos,Go,7
+104323769,ContainerSolutions/k8s-deployment-strategies,Go,18
 113219518,filecoin-project/venus,Go,3
 281694167,Mrs4s/go-cqhttp,Go,20
 297436961,porter-dev/porter,Go,740
