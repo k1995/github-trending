@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,550
-7548986,laravel/framework,PHP,210
+1863329,laravel/laravel,PHP,549
+7548986,laravel/framework,PHP,208
 1376664,Seldaek/monolog,PHP,135
 448045,sebastianbergmann/phpunit,PHP,136
-2253830,PHPMailer/PHPMailer,PHP,175
-2889328,WordPress/WordPress,PHP,138
+2253830,PHPMailer/PHPMailer,PHP,176
+2889328,WordPress/WordPress,PHP,137
 12615154,barryvdh/laravel-debugbar,PHP,202
 8678290,barryvdh/laravel-ide-helper,PHP,150
 14732311,octobercms/october,PHP,112
@@ -13,9 +13,9 @@ id,name,lang,new stars
 42480275,spatie/laravel-permission,PHP,136
 597887,doctrine/orm,PHP,78
 656494,cakephp/cakephp,PHP,24
-677464,doctrine/dbal,PHP,84
+677464,doctrine/dbal,PHP,85
 31295421,guzzle/psr7,PHP,83
-14716368,invoiceninja/invoiceninja,PHP,114
+14716368,invoiceninja/invoiceninja,PHP,115
 14346979,snipe/snipe-it,PHP,114
 30915528,spatie/laravel-backup,PHP,80
 222873550,bytefury/crater,PHP,73
