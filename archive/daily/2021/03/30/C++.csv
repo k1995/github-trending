@@ -1,18 +1,18 @@
 id,name,lang,new stars
 44838949,apple/swift,C++,22
-1181927,bitcoin/bitcoin,C++,38
+1181927,bitcoin/bitcoin,C++,42
 67702184,topjohnwu/Magisk,C++,18
 19953044,google/flatbuffers,C++,6
-74660642,taichi-dev/taichi,C++,13
+74660642,taichi-dev/taichi,C++,11
 32969220,esp8266/Arduino,C++,2
-23129458,aseprite/aseprite,C++,11
-3351871,qbittorrent/qBittorrent,C++,14
-2200856,MarlinFirmware/Marlin,C++,236
+23129458,aseprite/aseprite,C++,12
+3351871,qbittorrent/qBittorrent,C++,12
+2200856,MarlinFirmware/Marlin,C++,234
 160083795,SerenityOS/serenity,C++,79
-6520784,RPCS3/rpcs3,C++,2
-59212953,polybar/polybar,C++,10
-11577304,dolphin-emu/dolphin,C++,2
-648332,assimp/assimp,C++,1
+6520784,RPCS3/rpcs3,C++,4
+59212953,polybar/polybar,C++,9
+11577304,dolphin-emu/dolphin,C++,3
+648332,assimp/assimp,C++,2
 6486826,hrydgard/ppsspp,C++,2
 117948953,Atmosphere-NX/Atmosphere,C++,2
 19316619,monero-project/monero,C++,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 128430621,OpenTTD/OpenTTD,C++,6
 10126031,mixxxdj/mixxx,C++,3
 173272321,bigtreetech/BIGTREETECH-SKR-V1.3,C++,1
-276943510,storm-devs/storm-engine,C++,98
-137628735,uchan-nos/mikanos,C++,14
+276943510,storm-devs/storm-engine,C++,94
+137628735,uchan-nos/mikanos,C++,16
 342120988,earlephilhower/arduino-pico,C++,8
