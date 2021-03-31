@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,261
+8514,rails/rails,Ruby,264
 8681349,huginn/huginn,Ruby,73
 13840241,freeCodeCamp/devdocs,Ruby,74
-2293158,rapid7/metasploit-framework,Ruby,78
+2293158,rapid7/metasploit-framework,Ruby,83
 308770,heartcombo/devise,Ruby,25
-73648678,forem/forem,Ruby,40
+73648678,forem/forem,Ruby,42
 1090311,elastic/logstash,Ruby,31
 4095287,rubocop/rubocop,Ruby,11
 3314,spree/spree,Ruby,16
-11423758,mame/quine-relay,Ruby,74
+11423758,mame/quine-relay,Ruby,76
 3195124,mperham/sidekiq,Ruby,18
 96395,faker-ruby/faker,Ruby,14
 8393,thoughtbot/paperclip,Ruby,6
-202291859,chatwoot/chatwoot,Ruby,153
-47087,carrierwaveuploader/carrierwave,Ruby,13
+202291859,chatwoot/chatwoot,Ruby,159
+47087,carrierwaveuploader/carrierwave,Ruby,15
 1725199,github/linguist,Ruby,23
 26018608,github-changelog-generator/github-changelog-generator,Ruby,17
 910744,puppetlabs/puppet,Ruby,16
@@ -21,6 +21,6 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,29
 93163073,dependabot/dependabot-core,Ruby,22
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,121
-341595907,googleprojectzero/0days-in-the-wild,Ruby,61
+341595907,googleprojectzero/0days-in-the-wild,Ruby,60
 16006666,turingschool/ruby-exercises,Ruby,3
 344612911,ginkgobioworks/vaccinetime,Ruby,9

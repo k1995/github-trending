@@ -6,11 +6,11 @@ id,name,lang,new stars
 4524181,facebook/folly,C++,5
 19953044,google/flatbuffers,C++,9
 60246359,ClickHouse/ClickHouse,C++,16
-74660642,taichi-dev/taichi,C++,8
+74660642,taichi-dev/taichi,C++,7
 23129458,aseprite/aseprite,C++,7
 191820100,google/mediapipe,C++,20
-2200856,MarlinFirmware/Marlin,C++,82
-160083795,SerenityOS/serenity,C++,70
+2200856,MarlinFirmware/Marlin,C++,77
+160083795,SerenityOS/serenity,C++,71
 310611,apache/thrift,C++,4
 1524684,SFML/SFML,C++,3
 131881622,NVIDIA/DeepLearningExamples,C++,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 153097643,openvinotoolkit/openvino,C++,3
 256049233,microsoft/ProjectReunion,C++,20
 49978193,valhalla/valhalla,C++,0
-61980658,azerothcore/azerothcore-wotlk,C++,2
-276943510,storm-devs/storm-engine,C++,43
+61980658,azerothcore/azerothcore-wotlk,C++,3
+276943510,storm-devs/storm-engine,C++,41
 350930956,Tencent/deepx_core,C++,43
