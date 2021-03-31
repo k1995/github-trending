@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,150
-3482588,danielmiessler/SecLists,PHP,155
-7548986,laravel/framework,PHP,48
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,29
-2253830,PHPMailer/PHPMailer,PHP,45
-14259390,Maatwebsite/Laravel-Excel,PHP,36
+1863329,laravel/laravel,PHP,152
+3482588,danielmiessler/SecLists,PHP,157
+7548986,laravel/framework,PHP,49
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,30
+2253830,PHPMailer/PHPMailer,PHP,46
+14259390,Maatwebsite/Laravel-Excel,PHP,35
 597887,doctrine/orm,PHP,21
 6660366,dompdf/dompdf,PHP,36
-12166778,googleapis/google-api-php-client,PHP,11
+12166778,googleapis/google-api-php-client,PHP,12
 6763587,PrestaShop/PrestaShop,PHP,19
 14346979,snipe/snipe-it,PHP,22
-33916850,spatie/laravel-medialibrary,PHP,20
+33916850,spatie/laravel-medialibrary,PHP,19
 76064827,mailcow/mailcow-dockerized,PHP,32
 4224042,roundcube/roundcubemail,PHP,16
 109706738,swooletw/laravel-swoole,PHP,16
@@ -19,8 +19,8 @@ id,name,lang,new stars
 291805291,laravel/jetstream,PHP,15
 38200433,jeroennoten/Laravel-AdminLTE,PHP,19
 47508644,pterodactyl/panel,PHP,38
-27195711,alextselegidis/easyappointments,PHP,13
+27195711,alextselegidis/easyappointments,PHP,14
 129852395,assimon/dujiaoka,PHP,18
 230926110,qkqpttgf/OneManager-php,PHP,35
-142127816,zhuifengshaonianhanlu/pikachu,PHP,21
-345645932,noob-hackers/spamx,PHP,41
+142127816,zhuifengshaonianhanlu/pikachu,PHP,20
+345645932,noob-hackers/spamx,PHP,40
