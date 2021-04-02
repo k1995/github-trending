@@ -1,8 +1,8 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,65
-17620347,dotnet/aspnetcore,C#,18
-29078997,dotnet/roslyn,C#,2
-1613345,StackExchange/Dapper,C#,9
+184456251,microsoft/PowerToys,C#,61
+17620347,dotnet/aspnetcore,C#,19
+29078997,dotnet/roslyn,C#,4
+1613345,StackExchange/Dapper,C#,12
 1135454,cefsharp/CefSharp,C#,2
 210716005,dotnet/runtime,C#,12
 17748183,StackExchange/StackExchange.Redis,C#,1
@@ -11,16 +11,16 @@ id,name,lang,new stars
 50605426,microsoft/MixedRealityToolkit-Unity,C#,2
 743436,egametang/ET,C#,5
 68730444,microsoft/BotBuilder-Samples,C#,0
-245235133,microsoft/reverse-proxy,C#,9
-77703410,Perfare/Il2CppDumper,C#,5
-100711978,btcpayserver/btcpayserver,C#,186
+245235133,microsoft/reverse-proxy,C#,10
+77703410,Perfare/Il2CppDumper,C#,4
+100711978,btcpayserver/btcpayserver,C#,106
 117102183,ChilliCream/hotchocolate,C#,3
-297163997,Impostor/Impostor,C#,6
-184286875,actions/runner,C#,4
-39425864,tModLoader/tModLoader,C#,2
+297163997,Impostor/Impostor,C#,5
+184286875,actions/runner,C#,5
+39425864,tModLoader/tModLoader,C#,1
 150035938,GhostPack/Rubeus,C#,2
 263503250,Azure/bicep,C#,3
 185478059,open-telemetry/opentelemetry-dotnet,C#,4
 323704990,NuclearPowered/Reactor,C#,2
 352701293,mgeeky/SharpWebServer,C#,7
-352785704,Flangvik/SharpProxyLogon,C#,11
+352785704,Flangvik/SharpProxyLogon,C#,12
