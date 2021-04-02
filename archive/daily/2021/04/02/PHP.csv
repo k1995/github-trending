@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,21
+1863329,laravel/laravel,PHP,17
 458058,symfony/symfony,PHP,114
-1420053,guzzle/guzzle,PHP,5
-1376664,Seldaek/monolog,PHP,7
+1420053,guzzle/guzzle,PHP,3
+1376664,Seldaek/monolog,PHP,8
 448045,sebastianbergmann/phpunit,PHP,2
-2253830,PHPMailer/PHPMailer,PHP,3
+2253830,PHPMailer/PHPMailer,PHP,4
 5724990,briannesbitt/Carbon,PHP,1
 2889328,WordPress/WordPress,PHP,2
-1631570,nikic/PHP-Parser,PHP,4
+1631570,nikic/PHP-Parser,PHP,5
 13899674,thephpleague/flysystem,PHP,2
 2854337,phalcon/cphalcon,PHP,0
 23680678,tymondesigns/jwt-auth,PHP,4
-5627682,serbanghita/Mobile-Detect,PHP,3
+5627682,serbanghita/Mobile-Detect,PHP,2
 677464,doctrine/dbal,PHP,2
 6660366,dompdf/dompdf,PHP,1
 12166778,googleapis/google-api-php-client,PHP,1
@@ -19,8 +19,8 @@ id,name,lang,new stars
 6269013,aws/aws-sdk-php,PHP,0
 14346979,snipe/snipe-it,PHP,4
 2468290,phpbrew/phpbrew,PHP,3
-159606650,hyperf/hyperf,PHP,3
-29219291,box/spout,PHP,4
+159606650,hyperf/hyperf,PHP,4
+29219291,box/spout,PHP,5
 69691727,pmmp/PocketMine-MP,PHP,0
-182349597,jqhph/dcat-admin,PHP,3
-247844867,kirschbaum-development/eloquent-power-joins,PHP,11
+182349597,jqhph/dcat-admin,PHP,2
+247844867,kirschbaum-development/eloquent-power-joins,PHP,10

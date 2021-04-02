@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,157
-3482588,danielmiessler/SecLists,PHP,152
+1863329,laravel/laravel,PHP,156
+3482588,danielmiessler/SecLists,PHP,151
 2579314,fzaninotto/Faker,PHP,23
-7548986,laravel/framework,PHP,47
-1420053,guzzle/guzzle,PHP,34
-1376664,Seldaek/monolog,PHP,39
-2253830,PHPMailer/PHPMailer,PHP,44
+7548986,laravel/framework,PHP,45
+1420053,guzzle/guzzle,PHP,33
+1376664,Seldaek/monolog,PHP,40
+2253830,PHPMailer/PHPMailer,PHP,45
 1631570,nikic/PHP-Parser,PHP,30
 47495360,koel/koel,PHP,34
-26730195,CachetHQ/Cachet,PHP,35
+26730195,CachetHQ/Cachet,PHP,36
 13899674,thephpleague/flysystem,PHP,22
-14259390,Maatwebsite/Laravel-Excel,PHP,35
-29843361,w7corp/easywechat,PHP,11
+14259390,Maatwebsite/Laravel-Excel,PHP,34
+29843361,w7corp/easywechat,PHP,10
 11340559,deployphp/deployer,PHP,34
 6660366,dompdf/dompdf,PHP,38
 12166778,googleapis/google-api-php-client,PHP,13
@@ -20,7 +20,7 @@ id,name,lang,new stars
 33916850,spatie/laravel-medialibrary,PHP,15
 885517,doctrine-extensions/DoctrineExtensions,PHP,6
 291805291,laravel/jetstream,PHP,16
-47508644,pterodactyl/panel,PHP,36
+47508644,pterodactyl/panel,PHP,35
 13914116,librenms/librenms,PHP,9
-281640234,5ime/video_spider,PHP,66
-345645932,noob-hackers/spamx,PHP,41
+281640234,5ime/video_spider,PHP,69
+345645932,noob-hackers/spamx,PHP,42
