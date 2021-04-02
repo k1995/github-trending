@@ -1,8 +1,8 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,21
-458058,symfony/symfony,PHP,64
+458058,symfony/symfony,PHP,114
 1420053,guzzle/guzzle,PHP,5
-1376664,Seldaek/monolog,PHP,8
+1376664,Seldaek/monolog,PHP,7
 448045,sebastianbergmann/phpunit,PHP,2
 2253830,PHPMailer/PHPMailer,PHP,3
 5724990,briannesbitt/Carbon,PHP,1
@@ -17,7 +17,7 @@ id,name,lang,new stars
 12166778,googleapis/google-api-php-client,PHP,1
 10371103,Laravel-Lang/lang,PHP,1
 6269013,aws/aws-sdk-php,PHP,0
-14346979,snipe/snipe-it,PHP,3
+14346979,snipe/snipe-it,PHP,4
 2468290,phpbrew/phpbrew,PHP,3
 159606650,hyperf/hyperf,PHP,3
 29219291,box/spout,PHP,4

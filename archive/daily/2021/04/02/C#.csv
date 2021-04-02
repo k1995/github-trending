@@ -2,9 +2,9 @@ id,name,lang,new stars
 29078997,dotnet/roslyn,C#,5
 16157746,dotnet/efcore,C#,3
 262395224,dotnet/maui,C#,18
-85953,gitextensions/gitextensions,C#,3
-210716005,dotnet/runtime,C#,10
-182095352,nilaoda/N_m3u8DL-CLI,C#,41
+85953,gitextensions/gitextensions,C#,4
+210716005,dotnet/runtime,C#,12
+182095352,nilaoda/N_m3u8DL-CLI,C#,39
 61403402,windows-toolkit/WindowsCommunityToolkit,C#,4
 3689718,moq/moq4,C#,2
 10601208,umbraco/Umbraco-CMS,C#,1
@@ -13,7 +13,7 @@ id,name,lang,new stars
 23891194,Azure/azure-powershell,C#,2
 57452143,bitwarden/mobile,C#,4
 2928944,Azure/azure-sdk-for-net,C#,1
-100711978,btcpayserver/btcpayserver,C#,39
+100711978,btcpayserver/btcpayserver,C#,106
 297163997,Impostor/Impostor,C#,3
 72554578,confluentinc/confluent-kafka-dotnet,C#,0
 187499284,Cysharp/UniTask,C#,3
