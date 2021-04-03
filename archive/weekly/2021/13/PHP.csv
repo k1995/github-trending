@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,165
-3482588,danielmiessler/SecLists,PHP,138
+1863329,laravel/laravel,PHP,166
+3482588,danielmiessler/SecLists,PHP,140
 458058,symfony/symfony,PHP,218
-7548986,laravel/framework,PHP,49
+7548986,laravel/framework,PHP,50
 1376664,Seldaek/monolog,PHP,46
-2253830,PHPMailer/PHPMailer,PHP,51
+2253830,PHPMailer/PHPMailer,PHP,53
 1631570,nikic/PHP-Parser,PHP,31
-47495360,koel/koel,PHP,30
+47495360,koel/koel,PHP,32
 13899674,thephpleague/flysystem,PHP,22
 2854337,phalcon/cphalcon,PHP,7
 29843361,w7corp/easywechat,PHP,10
@@ -15,11 +15,11 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,17
 222873550,bytefury/crater,PHP,19
 291805291,laravel/jetstream,PHP,18
-44733816,privacy-protection-tools/anti-AD,PHP,134
+44733816,privacy-protection-tools/anti-AD,PHP,138
 47508644,pterodactyl/panel,PHP,33
 182349597,jqhph/dcat-admin,PHP,20
 13914116,librenms/librenms,PHP,11
 16455664,tastyigniter/TastyIgniter,PHP,22
-230926110,qkqpttgf/OneManager-php,PHP,23
-281640234,5ime/video_spider,PHP,80
+230926110,qkqpttgf/OneManager-php,PHP,24
+281640234,5ime/video_spider,PHP,81
 345645932,noob-hackers/spamx,PHP,40
