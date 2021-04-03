@@ -1,16 +1,16 @@
 id,name,lang,new stars
 23096959,golang/go,Go,324
-21540759,avelino/awesome-go,Go,205
+21540759,avelino/awesome-go,Go,208
 20904437,gin-gonic/gin,Go,194
-15452919,ethereum/go-ethereum,Go,168
-74175805,istio/istio,Go,89
+15452919,ethereum/go-ethereum,Go,169
+74175805,istio/istio,Go,88
 50709152,kataras/iris,Go,60
-30215630,go-kit/kit,Go,70
-234231371,gofiber/fiber,Go,175
-192632000,dapr/dapr,Go,295
-163883279,nektos/act,Go,388
-21233191,ipfs/go-ipfs,Go,55
-11593442,golang/groupcache,Go,63
+30215630,go-kit/kit,Go,71
+234231371,gofiber/fiber,Go,178
+192632000,dapr/dapr,Go,294
+163883279,nektos/act,Go,392
+21233191,ipfs/go-ipfs,Go,57
+11593442,golang/groupcache,Go,64
 62921553,rook/rook,Go,31
 30711774,go-playground/validator,Go,77
 285864199,tal-tech/go-zero,Go,243
@@ -18,7 +18,7 @@ id,name,lang,new stars
 14508450,gophish/gophish,Go,40
 31311037,jpillora/chisel,Go,64
 33452903,RichardKnop/machinery,Go,35
-184490584,GoogleCloudPlatform/terraformer,Go,96
+184490584,GoogleCloudPlatform/terraformer,Go,100
 67793333,cortexproject/cortex,Go,36
 93446042,terraform-providers/terraform-provider-azurerm,Go,16
 59758059,go-oauth2/oauth2,Go,23

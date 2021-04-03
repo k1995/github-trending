@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,24
-458058,symfony/symfony,PHP,77
-1376664,Seldaek/monolog,PHP,6
+1863329,laravel/laravel,PHP,27
+458058,symfony/symfony,PHP,65
+1376664,Seldaek/monolog,PHP,8
 3431193,yiisoft/yii2,PHP,1
 47495360,koel/koel,PHP,3
 7769432,vlucas/phpdotenv,PHP,2
@@ -12,15 +12,15 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,3
 30915528,spatie/laravel-backup,PHP,3
 95011974,akaunting/akaunting,PHP,3
-2464908,joomla/joomla-cms,PHP,1
-29126334,EasyCorp/EasyAdminBundle,PHP,0
+2464908,joomla/joomla-cms,PHP,0
+29126334,EasyCorp/EasyAdminBundle,PHP,1
 18842338,facebookarchive/php-graph-sdk,PHP,0
-44733816,privacy-protection-tools/anti-AD,PHP,39
-16455664,tastyigniter/TastyIgniter,PHP,10
+44733816,privacy-protection-tools/anti-AD,PHP,36
+16455664,tastyigniter/TastyIgniter,PHP,9
 15231212,Automattic/jetpack,PHP,0
 57463067,AzuraCast/AzuraCast,PHP,2
 248372441,laravel-filament/filament,PHP,4
 72430005,yiisoft/yii2-queue,PHP,0
-63549570,tighten/lambo,PHP,8
+63549570,tighten/lambo,PHP,7
 259067979,walkor/webman,PHP,4
 278726910,doctrine/deprecations,PHP,3
