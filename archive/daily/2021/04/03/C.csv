@@ -1,16 +1,16 @@
 id,name,lang,new stars
-102578345,coolsnowwolf/lede,C,32
-20159867,nothings/stb,C,16
+102578345,coolsnowwolf/lede,C,35
+20159867,nothings/stb,C,17
 7634677,openssl/openssl,C,16
 80286288,arendst/Tasmota,C,10
-15337142,micropython/micropython,C,14
+15337142,micropython/micropython,C,18
 184981,memcached/memcached,C,8
-63477515,TheAlgorithms/C,C,14
+63477515,TheAlgorithms/C,C,16
 3199002,raspberrypi/linux,C,7
-3299208,videolan/vlc,C,9
-437011,openzfs/zfs,C,8
-70127218,espressif/arduino-esp32,C,9
-65899476,espressif/esp-idf,C,8
+3299208,videolan/vlc,C,10
+437011,openzfs/zfs,C,9
+70127218,espressif/arduino-esp32,C,10
+65899476,espressif/esp-idf,C,9
 127789081,microsoft/winfile,C,7
 41107037,unicorn-engine/unicorn,C,3
 3565909,raspberrypi/firmware,C,4
@@ -19,8 +19,8 @@ id,name,lang,new stars
 8046269,warmcat/libwebsockets,C,3
 108568638,hanwckf/rt-n56u,C,3
 282790925,badafans/better-cloudflare-ip,C,12
-330008801,libsdl-org/SDL,C,9
-197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,3
+330008801,libsdl-org/SDL,C,11
+197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,5
 228103273,apache/incubator-nuttx,C,4
 40113584,DisplayLink/evdi,C,1
 353525979,RiotVanguard/Vanguard,C,56
