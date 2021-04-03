@@ -1,9 +1,9 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,37
-23357588,protocolbuffers/protobuf,C++,65
-15634981,godotengine/godot,C++,27
-11171548,nlohmann/json,C++,6
-39840932,google/googletest,C++,11
+45717250,tensorflow/tensorflow,C++,42
+23357588,protocolbuffers/protobuf,C++,68
+15634981,godotengine/godot,C++,28
+11171548,nlohmann/json,C++,7
+39840932,google/googletest,C++,13
 65214191,envoyproxy/envoy,C++,74
 25449064,haoel/leetcode,C++,9
 1062572,catchorg/Catch2,C++,93
@@ -11,16 +11,16 @@ id,name,lang,new stars
 18348651,OpenRCT2/OpenRCT2,C++,3
 2310495,ceph/ceph,C++,7
 23086893,google/re2,C++,6
-14981376,dogecoin/dogecoin,C++,14
-5909706,yhirose/cpp-httplib,C++,6
+14981376,dogecoin/dogecoin,C++,16
+5909706,yhirose/cpp-httplib,C++,8
 128430621,OpenTTD/OpenTTD,C++,96
-48185587,lballabio/QuantLib,C++,5
+48185587,lballabio/QuantLib,C++,6
 105566333,google/oboe,C++,1
 267792621,Tencent/TNN,C++,1
-6148317,OSGeo/gdal,C++,0
+6148317,OSGeo/gdal,C++,1
 39283837,HowardHinnant/date,C++,2
 153097643,openvinotoolkit/openvino,C++,5
-256049233,microsoft/ProjectReunion,C++,69
-259766919,johnBuffer/AntSimulator,C++,195
+256049233,microsoft/ProjectReunion,C++,68
+259766919,johnBuffer/AntSimulator,C++,202
 211912254,Xilinx/Vitis-Tutorials,C++,0
 330964963,Algo-Phantoms/Algo-Tree,C++,1

@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,597
+1863329,laravel/laravel,PHP,600
 458058,symfony/symfony,PHP,354
-7548986,laravel/framework,PHP,226
+7548986,laravel/framework,PHP,227
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,117
 448045,sebastianbergmann/phpunit,PHP,142
 2253830,PHPMailer/PHPMailer,PHP,190
 2889328,WordPress/WordPress,PHP,139
 12615154,barryvdh/laravel-debugbar,PHP,212
-8678290,barryvdh/laravel-ide-helper,PHP,155
+8678290,barryvdh/laravel-ide-helper,PHP,156
 14732311,octobercms/october,PHP,117
 14259390,Maatwebsite/Laravel-Excel,PHP,123
 61490598,PHPOffice/PhpSpreadsheet,PHP,167
 677464,doctrine/dbal,PHP,97
-31295421,guzzle/psr7,PHP,89
+31295421,guzzle/psr7,PHP,90
 10238429,tennc/webshell,PHP,114
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,80
 14716368,invoiceninja/invoiceninja,PHP,123
@@ -22,5 +22,5 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,129
 131995661,shopware/platform,PHP,57
 174021137,inertiajs/pingcrm,PHP,69
-248372441,laravel-filament/filament,PHP,666
-330980599,yanfeizhang/coder-kung-fu,PHP,149
+248372441,laravel-filament/filament,PHP,667
+330980599,yanfeizhang/coder-kung-fu,PHP,150
