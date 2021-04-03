@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,96
-2293158,rapid7/metasploit-framework,Ruby,89
+8514,rails/rails,Ruby,97
+2293158,rapid7/metasploit-framework,Ruby,92
 481872,hashicorp/vagrant,Ruby,47
-73648678,forem/forem,Ruby,47
+73648678,forem/forem,Ruby,49
 1090311,elastic/logstash,Ruby,26
-3195124,mperham/sidekiq,Ruby,13
+3195124,mperham/sidekiq,Ruby,14
 96395,faker-ruby/faker,Ruby,14
 8393,thoughtbot/paperclip,Ruby,3
 611921,activeadmin/activeadmin,Ruby,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,11
 103766152,github/explore,Ruby,19
 93163073,dependabot/dependabot-core,Ruby,22
-11980558,github/pages-gem,Ruby,4
+11980558,github/pages-gem,Ruby,5
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,59
 196790,mimemagicrb/mimemagic,Ruby,55
 82847042,rails/marcel,Ruby,56

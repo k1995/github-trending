@@ -1,16 +1,16 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,713
-160640094,MisterBooo/LeetCodeAnimation,Java,210
-53127403,ctripcorp/apollo,Java,78
-2211243,apache/kafka,Java,81
-5373551,libgdx/libgdx,Java,48
-112785414,alibaba/spring-cloud-alibaba,Java,112
-137451403,alibaba/nacos,Java,159
-128018428,alibaba/Sentinel,Java,84
-75643096,material-components/material-components-android,Java,43
-174765647,heibaiying/BigData-Notes,Java,80
+121395510,CyC2018/CS-Notes,Java,702
+160640094,MisterBooo/LeetCodeAnimation,Java,206
+53127403,ctripcorp/apollo,Java,77
+2211243,apache/kafka,Java,82
+5373551,libgdx/libgdx,Java,47
+112785414,alibaba/spring-cloud-alibaba,Java,109
+137451403,alibaba/nacos,Java,154
+128018428,alibaba/Sentinel,Java,83
+75643096,material-components/material-components-android,Java,44
+174765647,heibaiying/BigData-Notes,Java,79
 117965972,alibaba/DataX,Java,47
-181012406,macrozheng/mall-learning,Java,65
+181012406,macrozheng/mall-learning,Java,64
 120463532,alibaba/COLA,Java,115
 83799439,LawnchairLauncher/lawnchair,Java,38
 77385607,JanusGraph/janusgraph,Java,17
@@ -19,7 +19,7 @@ id,name,lang,new stars
 50880060,HiddenRamblings/TagMo,Java,44
 218396611,awslabs/djl,Java,35
 248032165,spring-projects-experimental/spring-authorization-server,Java,99
-237940592,dromara/sa-token,Java,775
+237940592,dromara/sa-token,Java,776
 62161750,hneemann/Digital,Java,497
 158256479,apache/iceberg,Java,40
 177373545,ferredoxin/QNotified,Java,61

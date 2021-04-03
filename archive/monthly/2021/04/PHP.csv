@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,604
-3482588,danielmiessler/SecLists,PHP,618
+1863329,laravel/laravel,PHP,606
+3482588,danielmiessler/SecLists,PHP,620
 458058,symfony/symfony,PHP,356
-7548986,laravel/framework,PHP,232
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,123
-448045,sebastianbergmann/phpunit,PHP,143
+7548986,laravel/framework,PHP,233
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,124
+448045,sebastianbergmann/phpunit,PHP,144
 2253830,PHPMailer/PHPMailer,PHP,192
 2889328,WordPress/WordPress,PHP,140
 12615154,barryvdh/laravel-debugbar,PHP,216
 8678290,barryvdh/laravel-ide-helper,PHP,156
-14732311,octobercms/october,PHP,117
-61490598,PHPOffice/PhpSpreadsheet,PHP,168
+14732311,octobercms/october,PHP,118
+61490598,PHPOffice/PhpSpreadsheet,PHP,169
 42480275,spatie/laravel-permission,PHP,144
 656494,cakephp/cakephp,PHP,26
-677464,doctrine/dbal,PHP,98
+677464,doctrine/dbal,PHP,99
 14716368,invoiceninja/invoiceninja,PHP,123
 14346979,snipe/snipe-it,PHP,121
 30915528,spatie/laravel-backup,PHP,90
@@ -23,4 +23,4 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,130
 174021137,inertiajs/pingcrm,PHP,69
 248372441,laravel-filament/filament,PHP,672
-330980599,yanfeizhang/coder-kung-fu,PHP,153
+330980599,yanfeizhang/coder-kung-fu,PHP,154
