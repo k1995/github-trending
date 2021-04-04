@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,38
+1863329,laravel/laravel,PHP,39
 2579314,fzaninotto/Faker,PHP,9
 458058,symfony/symfony,PHP,68
-8678290,barryvdh/laravel-ide-helper,PHP,5
+8678290,barryvdh/laravel-ide-helper,PHP,6
 1305114,roots/sage,PHP,4
 14732311,octobercms/october,PHP,8
 48796179,z-song/laravel-admin,PHP,6
-15020102,walkor/Workerman,PHP,10
+15020102,walkor/Workerman,PHP,11
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,7
 41589337,BookStackApp/BookStack,PHP,7
 2141186,opencart/opencart,PHP,4
-16685462,humhub/humhub,PHP,3
+16685462,humhub/humhub,PHP,4
 148129143,bagisto/bagisto,PHP,11
 31595609,mpdf/mpdf,PHP,3
-44733816,privacy-protection-tools/anti-AD,PHP,50
+44733816,privacy-protection-tools/anti-AD,PHP,52
 1957456,Dolibarr/dolibarr,PHP,5
 57961433,openmediavault/openmediavault,PHP,8
 16455664,tastyigniter/TastyIgniter,PHP,11
@@ -22,5 +22,5 @@ id,name,lang,new stars
 153632216,spatie/data-transfer-object,PHP,19
 57463067,AzuraCast/AzuraCast,PHP,3
 248372441,laravel-filament/filament,PHP,12
-351802883,spatie/one-package-to-rule-them-all,PHP,8
+351802883,spatie/one-package-to-rule-them-all,PHP,9
 350108196,zidansec/CrimeFlare,PHP,13

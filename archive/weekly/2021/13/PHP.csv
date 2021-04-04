@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,173
+1863329,laravel/laravel,PHP,174
 3482588,danielmiessler/SecLists,PHP,152
 458058,symfony/symfony,PHP,221
 7548986,laravel/framework,PHP,56
-1376664,Seldaek/monolog,PHP,48
-2253830,PHPMailer/PHPMailer,PHP,54
+1376664,Seldaek/monolog,PHP,50
+2253830,PHPMailer/PHPMailer,PHP,55
 1631570,nikic/PHP-Parser,PHP,34
 47495360,koel/koel,PHP,35
 13899674,thephpleague/flysystem,PHP,23
@@ -16,8 +16,8 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,17
 159606650,hyperf/hyperf,PHP,22
 11935508,RSS-Bridge/rss-bridge,PHP,29
-291805291,laravel/jetstream,PHP,21
-44733816,privacy-protection-tools/anti-AD,PHP,149
+291805291,laravel/jetstream,PHP,22
+44733816,privacy-protection-tools/anti-AD,PHP,150
 47508644,pterodactyl/panel,PHP,37
 182349597,jqhph/dcat-admin,PHP,22
 13914116,librenms/librenms,PHP,12
