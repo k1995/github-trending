@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,172
-3482588,danielmiessler/SecLists,PHP,147
-458058,symfony/symfony,PHP,220
+1863329,laravel/laravel,PHP,173
+3482588,danielmiessler/SecLists,PHP,150
+458058,symfony/symfony,PHP,221
 7548986,laravel/framework,PHP,55
-1376664,Seldaek/monolog,PHP,47
+1376664,Seldaek/monolog,PHP,48
 2253830,PHPMailer/PHPMailer,PHP,53
 1631570,nikic/PHP-Parser,PHP,33
 47495360,koel/koel,PHP,35
@@ -16,11 +16,11 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,17
 159606650,hyperf/hyperf,PHP,22
 11935508,RSS-Bridge/rss-bridge,PHP,29
-291805291,laravel/jetstream,PHP,20
+291805291,laravel/jetstream,PHP,21
 44733816,privacy-protection-tools/anti-AD,PHP,147
-47508644,pterodactyl/panel,PHP,34
+47508644,pterodactyl/panel,PHP,36
 182349597,jqhph/dcat-admin,PHP,22
-13914116,librenms/librenms,PHP,11
+13914116,librenms/librenms,PHP,12
 232599652,laravel/sanctum,PHP,19
 330980599,yanfeizhang/coder-kung-fu,PHP,114
 345645932,noob-hackers/spamx,PHP,41
