@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,100
-53238813,Homebrew/brew,Ruby,149
-2293158,rapid7/metasploit-framework,Ruby,98
+8514,rails/rails,Ruby,101
+53238813,Homebrew/brew,Ruby,151
+2293158,rapid7/metasploit-framework,Ruby,99
 308770,heartcombo/devise,Ruby,26
-73648678,forem/forem,Ruby,52
+73648678,forem/forem,Ruby,53
 1090311,elastic/logstash,Ruby,27
 3195124,mperham/sidekiq,Ruby,17
 8393,thoughtbot/paperclip,Ruby,3
 611921,activeadmin/activeadmin,Ruby,8
 47087,carrierwaveuploader/carrierwave,Ruby,14
-1725199,github/linguist,Ruby,30
+1725199,github/linguist,Ruby,29
 6529205,varvet/pundit,Ruby,12
 30337170,rmosolgo/graphql-ruby,Ruby,16
 447184,rspec/rspec-rails,Ruby,11
@@ -23,4 +23,4 @@ id,name,lang,new stars
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,61
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,8
 196790,mimemagicrb/mimemagic,Ruby,55
-82847042,rails/marcel,Ruby,60
+82847042,rails/marcel,Ruby,59
