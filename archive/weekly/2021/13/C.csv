@@ -1,12 +1,12 @@
 id,name,lang,new stars
 1903522,php/php-src,C,632
 62156403,QSCTech/zju-icicles,C,85
-569041,curl/curl,C,105
-246335987,ventoy/Ventoy,C,1030
+569041,curl/curl,C,106
+246335987,ventoy/Ventoy,C,1036
 20159867,nothings/stb,C,77
-7634677,openssl/openssl,C,77
-80286288,arendst/Tasmota,C,50
-6201092,mpv-player/mpv,C,91
+7634677,openssl/openssl,C,78
+80286288,arendst/Tasmota,C,52
+6201092,mpv-player/mpv,C,92
 66150122,jarun/nnn,C,58
 105627846,reactos/reactos,C,43
 9524997,glfw/glfw,C,44
@@ -15,8 +15,8 @@ id,name,lang,new stars
 5383731,qemu/qemu,C,27
 40504480,mit-pdos/xv6-public,C,20
 31791482,microsoft/Windows-driver-samples,C,28
-240507922,mytechnotalent/Reverse-Engineering,C,660
-5057173,AdAway/AdAway,C,32
+240507922,mytechnotalent/Reverse-Engineering,C,678
+5057173,AdAway/AdAway,C,33
 2081289,astropy/astropy,C,10
 131710328,CTCaer/hekate,C,18
 1613176,tianocore/edk2,C,24
