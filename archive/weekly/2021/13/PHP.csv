@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,174
-3482588,danielmiessler/SecLists,PHP,152
+1863329,laravel/laravel,PHP,176
+3482588,danielmiessler/SecLists,PHP,156
 458058,symfony/symfony,PHP,221
 7548986,laravel/framework,PHP,56
 1376664,Seldaek/monolog,PHP,50
@@ -10,17 +10,17 @@ id,name,lang,new stars
 13899674,thephpleague/flysystem,PHP,23
 2854337,phalcon/cphalcon,PHP,7
 48796179,z-song/laravel-admin,PHP,29
-29843361,w7corp/easywechat,PHP,10
+29843361,w7corp/easywechat,PHP,12
 677464,doctrine/dbal,PHP,25
 6660366,dompdf/dompdf,PHP,36
 12204147,mautic/mautic,PHP,17
 159606650,hyperf/hyperf,PHP,22
-11935508,RSS-Bridge/rss-bridge,PHP,29
-291805291,laravel/jetstream,PHP,22
+11935508,RSS-Bridge/rss-bridge,PHP,30
+291805291,laravel/jetstream,PHP,23
 44733816,privacy-protection-tools/anti-AD,PHP,150
 47508644,pterodactyl/panel,PHP,37
 182349597,jqhph/dcat-admin,PHP,22
 13914116,librenms/librenms,PHP,12
 232599652,laravel/sanctum,PHP,19
-330980599,yanfeizhang/coder-kung-fu,PHP,114
-345645932,noob-hackers/spamx,PHP,41
+330980599,yanfeizhang/coder-kung-fu,PHP,115
+345645932,noob-hackers/spamx,PHP,42

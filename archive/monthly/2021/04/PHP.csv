@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,608
-3482588,danielmiessler/SecLists,PHP,625
+1863329,laravel/laravel,PHP,610
+3482588,danielmiessler/SecLists,PHP,629
 458058,symfony/symfony,PHP,357
 7548986,laravel/framework,PHP,234
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,126
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,128
 448045,sebastianbergmann/phpunit,PHP,144
 2253830,PHPMailer/PHPMailer,PHP,194
 2889328,WordPress/WordPress,PHP,143
 12615154,barryvdh/laravel-debugbar,PHP,218
-8678290,barryvdh/laravel-ide-helper,PHP,157
+8678290,barryvdh/laravel-ide-helper,PHP,156
 14732311,octobercms/october,PHP,120
 61490598,PHPOffice/PhpSpreadsheet,PHP,169
 42480275,spatie/laravel-permission,PHP,146
@@ -16,11 +16,11 @@ id,name,lang,new stars
 677464,doctrine/dbal,PHP,99
 14716368,invoiceninja/invoiceninja,PHP,125
 14346979,snipe/snipe-it,PHP,121
-30915528,spatie/laravel-backup,PHP,91
+30915528,spatie/laravel-backup,PHP,92
 222873550,bytefury/crater,PHP,85
 2464908,joomla/joomla-cms,PHP,47
 47508644,pterodactyl/panel,PHP,103
 69691727,pmmp/PocketMine-MP,PHP,130
 174021137,inertiajs/pingcrm,PHP,71
 248372441,laravel-filament/filament,PHP,673
-330980599,yanfeizhang/coder-kung-fu,PHP,154
+330980599,yanfeizhang/coder-kung-fu,PHP,155

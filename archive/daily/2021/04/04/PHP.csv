@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,39
-2579314,fzaninotto/Faker,PHP,9
+1863329,laravel/laravel,PHP,41
+2579314,fzaninotto/Faker,PHP,10
 458058,symfony/symfony,PHP,68
 8678290,barryvdh/laravel-ide-helper,PHP,6
 1305114,roots/sage,PHP,4
@@ -13,14 +13,14 @@ id,name,lang,new stars
 16685462,humhub/humhub,PHP,4
 148129143,bagisto/bagisto,PHP,11
 31595609,mpdf/mpdf,PHP,3
-44733816,privacy-protection-tools/anti-AD,PHP,52
+44733816,privacy-protection-tools/anti-AD,PHP,19
 1957456,Dolibarr/dolibarr,PHP,5
-57961433,openmediavault/openmediavault,PHP,8
-16455664,tastyigniter/TastyIgniter,PHP,11
+57961433,openmediavault/openmediavault,PHP,9
+16455664,tastyigniter/TastyIgniter,PHP,12
 27195711,alextselegidis/easyappointments,PHP,4
 27965134,opnsense/core,PHP,6
-153632216,spatie/data-transfer-object,PHP,19
+153632216,spatie/data-transfer-object,PHP,20
 57463067,AzuraCast/AzuraCast,PHP,3
 248372441,laravel-filament/filament,PHP,12
 351802883,spatie/one-package-to-rule-them-all,PHP,9
-350108196,zidansec/CrimeFlare,PHP,13
+350108196,zidansec/CrimeFlare,PHP,14
