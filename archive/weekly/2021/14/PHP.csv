@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,139
-3482588,danielmiessler/SecLists,PHP,121
-458058,symfony/symfony,PHP,219
-7548986,laravel/framework,PHP,55
-1376664,Seldaek/monolog,PHP,43
-2253830,PHPMailer/PHPMailer,PHP,47
-2889328,WordPress/WordPress,PHP,28
-1631570,nikic/PHP-Parser,PHP,29
+1863329,laravel/laravel,PHP,143
+3482588,danielmiessler/SecLists,PHP,126
+458058,symfony/symfony,PHP,217
+7548986,laravel/framework,PHP,57
+1376664,Seldaek/monolog,PHP,42
+2253830,PHPMailer/PHPMailer,PHP,46
+2889328,WordPress/WordPress,PHP,26
+1631570,nikic/PHP-Parser,PHP,28
 47495360,koel/koel,PHP,30
 2854337,phalcon/cphalcon,PHP,8
-48796179,z-song/laravel-admin,PHP,19
+48796179,z-song/laravel-admin,PHP,20
 29843361,w7corp/easywechat,PHP,10
 11340559,deployphp/deployer,PHP,26
-677464,doctrine/dbal,PHP,24
+677464,doctrine/dbal,PHP,23
 86350964,the-benchmarker/web-frameworks,PHP,52
 33916850,spatie/laravel-medialibrary,PHP,14
 222873550,bytefury/crater,PHP,26
@@ -21,5 +21,5 @@ id,name,lang,new stars
 44733816,privacy-protection-tools/anti-AD,PHP,146
 182349597,jqhph/dcat-admin,PHP,17
 153632216,spatie/data-transfer-object,PHP,29
-330980599,yanfeizhang/coder-kung-fu,PHP,125
-345645932,noob-hackers/spamx,PHP,29
+330980599,yanfeizhang/coder-kung-fu,PHP,126
+345645932,noob-hackers/spamx,PHP,27
