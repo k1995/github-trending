@@ -1,8 +1,8 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,15
 53238813,Homebrew/brew,Ruby,61
-52281283,tootsuite/mastodon,Ruby,14
-2293158,rapid7/metasploit-framework,Ruby,27
+52281283,tootsuite/mastodon,Ruby,15
+2293158,rapid7/metasploit-framework,Ruby,28
 308770,heartcombo/devise,Ruby,10
 88740103,postalhq/postal,Ruby,6
 18486300,lewagon/setup,Ruby,8
@@ -13,7 +13,7 @@ id,name,lang,new stars
 95798441,athityakumar/colorls,Ruby,7
 115859973,ddnexus/pagy,Ruby,10
 56942570,Homebrew/linuxbrew-core,Ruby,4
-8154497,rubysec/ruby-advisory-db,Ruby,0
+8154497,rubysec/ruby-advisory-db,Ruby,1
 80462373,keyvanakbary/learning-notes,Ruby,4
 98624914,Hax4us/Metasploit_termux,Ruby,3
 79951574,Homebrew/homebrew-cask-drivers,Ruby,0
