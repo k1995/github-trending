@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,576
-3482588,danielmiessler/SecLists,PHP,604
-458058,symfony/symfony,PHP,344
-7548986,laravel/framework,PHP,220
+1863329,laravel/laravel,PHP,579
+3482588,danielmiessler/SecLists,PHP,605
+458058,symfony/symfony,PHP,342
+7548986,laravel/framework,PHP,222
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,125
 448045,sebastianbergmann/phpunit,PHP,129
 2253830,PHPMailer/PHPMailer,PHP,183
@@ -12,7 +12,7 @@ id,name,lang,new stars
 61490598,PHPOffice/PhpSpreadsheet,PHP,157
 677464,doctrine/dbal,PHP,97
 14716368,invoiceninja/invoiceninja,PHP,115
-3217621,phpmyadmin/phpmyadmin,PHP,63
+3217621,phpmyadmin/phpmyadmin,PHP,64
 9791525,digininja/DVWA,PHP,81
 14346979,snipe/snipe-it,PHP,123
 30915528,spatie/laravel-backup,PHP,95
@@ -23,4 +23,4 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,125
 131995661,shopware/platform,PHP,47
 174021137,inertiajs/pingcrm,PHP,64
-330980599,yanfeizhang/coder-kung-fu,PHP,169
+330980599,yanfeizhang/coder-kung-fu,PHP,168
