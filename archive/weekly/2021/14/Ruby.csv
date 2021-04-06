@@ -1,19 +1,19 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,62
 8681349,huginn/huginn,Ruby,69
-53238813,Homebrew/brew,Ruby,126
+53238813,Homebrew/brew,Ruby,127
 2293158,rapid7/metasploit-framework,Ruby,78
-308770,heartcombo/devise,Ruby,18
-73648678,forem/forem,Ruby,41
-2203645,CocoaPods/CocoaPods,Ruby,12
-1090311,elastic/logstash,Ruby,14
+308770,heartcombo/devise,Ruby,17
+73648678,forem/forem,Ruby,42
+2203645,CocoaPods/CocoaPods,Ruby,11
+1090311,elastic/logstash,Ruby,15
 3195124,mperham/sidekiq,Ruby,13
 8393,thoughtbot/paperclip,Ruby,2
 611921,activeadmin/activeadmin,Ruby,9
 47087,carrierwaveuploader/carrierwave,Ruby,9
 1725199,github/linguist,Ruby,20
 6529205,varvet/pundit,Ruby,13
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,36
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,37
 30337170,rmosolgo/graphql-ruby,Ruby,13
 447184,rspec/rspec-rails,Ruby,9
 52316423,luggit/react-native-config,Ruby,14
@@ -22,5 +22,5 @@ id,name,lang,new stars
 11980558,github/pages-gem,Ruby,5
 56942570,Homebrew/linuxbrew-core,Ruby,7
 196790,mimemagicrb/mimemagic,Ruby,6
-82847042,rails/marcel,Ruby,29
-344612911,ginkgobioworks/vaccinetime,Ruby,13
+82847042,rails/marcel,Ruby,30
+344612911,ginkgobioworks/vaccinetime,Ruby,14
