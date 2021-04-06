@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,577
+1863329,laravel/laravel,PHP,576
 3482588,danielmiessler/SecLists,PHP,597
-458058,symfony/symfony,PHP,349
-7548986,laravel/framework,PHP,220
+458058,symfony/symfony,PHP,347
+7548986,laravel/framework,PHP,218
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,123
-448045,sebastianbergmann/phpunit,PHP,130
-2253830,PHPMailer/PHPMailer,PHP,187
-2889328,WordPress/WordPress,PHP,137
+448045,sebastianbergmann/phpunit,PHP,129
+2253830,PHPMailer/PHPMailer,PHP,185
+2889328,WordPress/WordPress,PHP,138
 12615154,barryvdh/laravel-debugbar,PHP,214
 8678290,barryvdh/laravel-ide-helper,PHP,151
 11340559,deployphp/deployer,PHP,95
-677464,doctrine/dbal,PHP,95
-14716368,invoiceninja/invoiceninja,PHP,121
+677464,doctrine/dbal,PHP,94
+14716368,invoiceninja/invoiceninja,PHP,120
 9791525,digininja/DVWA,PHP,78
 14346979,snipe/snipe-it,PHP,118
 12204147,mautic/mautic,PHP,65
@@ -20,7 +20,7 @@ id,name,lang,new stars
 2464908,joomla/joomla-cms,PHP,48
 117649937,hhxsv5/laravel-s,PHP,59
 44733816,privacy-protection-tools/anti-AD,PHP,278
-69691727,pmmp/PocketMine-MP,PHP,124
-131995661,shopware/platform,PHP,49
-174021137,inertiajs/pingcrm,PHP,64
+69691727,pmmp/PocketMine-MP,PHP,123
+131995661,shopware/platform,PHP,48
+174021137,inertiajs/pingcrm,PHP,63
 330980599,yanfeizhang/coder-kung-fu,PHP,159

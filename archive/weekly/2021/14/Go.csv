@@ -1,13 +1,13 @@
 id,name,lang,new stars
-23096959,golang/go,Go,310
-13807606,junegunn/fzf,Go,193
+23096959,golang/go,Go,309
+13807606,junegunn/fzf,Go,195
 29207621,caddyserver/caddy,Go,126
 15452919,ethereum/go-ethereum,Go,147
-138547797,FiloSottile/mkcert,Go,199
-74175805,istio/istio,Go,88
+138547797,FiloSottile/mkcert,Go,198
+74175805,istio/istio,Go,87
 29217054,asim/go-micro,Go,54
 105279544,gocolly/colly,Go,77
-234231371,gofiber/fiber,Go,173
+234231371,gofiber/fiber,Go,167
 163883279,nektos/act,Go,291
 21233191,ipfs/go-ipfs,Go,56
 11593442,golang/groupcache,Go,71
@@ -21,6 +21,6 @@ id,name,lang,new stars
 247032621,go-admin-team/go-admin,Go,95
 161951219,wailsapp/wails,Go,62
 227895834,openservicemesh/osm,Go,31
-193681111,filecoin-project/lotus,Go,52
-311216458,fogleman/physarum,Go,89
-351622243,terorie/cve-2021-3449,Go,51
+193681111,filecoin-project/lotus,Go,53
+311216458,fogleman/physarum,Go,84
+351622243,terorie/cve-2021-3449,Go,50
