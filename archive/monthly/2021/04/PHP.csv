@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,579
-3482588,danielmiessler/SecLists,PHP,605
+1863329,laravel/laravel,PHP,581
+3482588,danielmiessler/SecLists,PHP,606
 458058,symfony/symfony,PHP,342
-7548986,laravel/framework,PHP,222
+7548986,laravel/framework,PHP,224
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,125
-448045,sebastianbergmann/phpunit,PHP,129
-2253830,PHPMailer/PHPMailer,PHP,183
+448045,sebastianbergmann/phpunit,PHP,128
+2253830,PHPMailer/PHPMailer,PHP,184
 2889328,WordPress/WordPress,PHP,142
 12615154,barryvdh/laravel-debugbar,PHP,214
 8678290,barryvdh/laravel-ide-helper,PHP,155
@@ -14,9 +14,9 @@ id,name,lang,new stars
 14716368,invoiceninja/invoiceninja,PHP,115
 3217621,phpmyadmin/phpmyadmin,PHP,64
 9791525,digininja/DVWA,PHP,81
-14346979,snipe/snipe-it,PHP,123
+14346979,snipe/snipe-it,PHP,124
 30915528,spatie/laravel-backup,PHP,95
-222873550,bytefury/crater,PHP,83
+222873550,bytefury/crater,PHP,85
 2464908,joomla/joomla-cms,PHP,50
 117649937,hhxsv5/laravel-s,PHP,61
 44733816,privacy-protection-tools/anti-AD,PHP,291
