@@ -1,8 +1,8 @@
 id,name,lang,new stars
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,2
 2234102,bcit-ci/CodeIgniter,PHP,0
-1548202,matomo-org/matomo,PHP,4
-82238168,monicahq/monica,PHP,47
+1548202,matomo-org/matomo,PHP,6
+82238168,monicahq/monica,PHP,39
 13899674,thephpleague/flysystem,PHP,1
 72069409,the-control-group/voyager,PHP,4
 61490598,PHPOffice/PhpSpreadsheet,PHP,3
@@ -12,8 +12,8 @@ id,name,lang,new stars
 31295421,guzzle/psr7,PHP,4
 2179920,woocommerce/woocommerce,PHP,4
 77071207,laravel/tinker,PHP,0
-10371103,Laravel-Lang/lang,PHP,5
-9131292,jenssegers/laravel-mongodb,PHP,1
+10371103,Laravel-Lang/lang,PHP,4
+9131292,jenssegers/laravel-mongodb,PHP,0
 14346979,snipe/snipe-it,PHP,3
 2784293,php-amqplib/php-amqplib,PHP,1
 439861,moodle/moodle,PHP,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 22751672,tecnickcom/TCPDF,PHP,1
 139191005,nunomaduro/larastan,PHP,2
 1957456,Dolibarr/dolibarr,PHP,2
-69691727,pmmp/PocketMine-MP,PHP,7
+69691727,pmmp/PocketMine-MP,PHP,5
 350018351,laravel/octane,PHP,281
 316705415,symfony/ux,PHP,3
