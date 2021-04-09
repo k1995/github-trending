@@ -1,9 +1,9 @@
 id,name,lang,new stars
 18666758,pjreddie/darknet,C,13
-569041,curl/curl,C,38
-7634677,openssl/openssl,C,12
-196353673,taosdata/TDengine,C,13
-45821540,openwrt/openwrt,C,8
+569041,curl/curl,C,40
+7634677,openssl/openssl,C,13
+196353673,taosdata/TDengine,C,15
+45821540,openwrt/openwrt,C,7
 1856976,libevent/libevent,C,6
 5870069,edenhill/librdkafka,C,4
 68291988,miloyip/json-tutorial,C,4
@@ -13,14 +13,14 @@ id,name,lang,new stars
 2359378,madler/zlib,C,3
 110482267,google/wuffs,C,169
 131710328,CTCaer/hekate,C,2
-39760454,libjpeg-turbo/libjpeg-turbo,C,3
+39760454,libjpeg-turbo/libjpeg-turbo,C,4
 44688186,F5OEO/rpitx,C,9
 34807561,nanopb/nanopb,C,2
 1613176,tianocore/edk2,C,2
-53174933,google/boringssl,C,0
-228103273,apache/incubator-nuttx,C,1
+53174933,google/boringssl,C,1
+228103273,apache/incubator-nuttx,C,2
 286048802,ADD-SP/ngx_waf,C,17
 207354223,FreeRTOS/FreeRTOS-Kernel,C,1
-290614151,Open-Smartwatch/open-smartwatch-os,C,104
-126449599,Dr-Noob/cpufetch,C,240
+290614151,Open-Smartwatch/open-smartwatch-os,C,108
+126449599,Dr-Noob/cpufetch,C,238
 53432472,Azure/sonic-buildimage,C,0
