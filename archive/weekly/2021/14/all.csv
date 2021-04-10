@@ -1,18 +1,18 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,1519
-52631841,gothinkster/realworld,JavaScript,530
+154950925,streamich/react-use,TypeScript,589
+174038031,react-hook-form/react-hook-form,TypeScript,252
 121291758,Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,232
 1062572,catchorg/Catch2,C++,182
 40484398,discordjs/discord.js,JavaScript,562
 160083795,SerenityOS/serenity,C++,241
+234798675,bevyengine/bevy,Rust,597
 41179827,Rapptz/discord.py,Python,230
 15040596,signalapp/Signal-Server,Java,540
 62263938,jwasham/computer-science-flash-cards,HTML,68
 275993885,appsmithorg/appsmith,TypeScript,1672
-247693225,SystemErrorWang/White-box-Cartoonization,Python,129
+196613241,edeng23/binance-trade-bot,Python,397
 299584778,docmirror/dev-sidecar,JavaScript,612
 265122478,ManimCommunity/manim,Python,297
-237940592,dromara/sa-token,Java,269
 217603326,hagopj13/node-express-boilerplate,JavaScript,986
 319779344,maplibre/maplibre-gl-js,JavaScript,452
 341582109,trungk18/angular-spotify,TypeScript,374
@@ -23,4 +23,4 @@ id,name,lang,new stars
 73861563,input-output-hk/plutus,HTML,111
 350557349,davepl/Primes,C++,231
 206248325,AcalaNetwork/Acala,Rust,70
-297181607,philippnormann/nvidia-sniper,Python,38
+352148493,berniwal/swin-transformer-pytorch,Python,99
