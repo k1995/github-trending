@@ -1,9 +1,9 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,5
-1864363,composer/composer,PHP,5
-7548986,laravel/framework,PHP,10
+1864363,composer/composer,PHP,6
+7548986,laravel/framework,PHP,13
 1420053,guzzle/guzzle,PHP,4
-1376664,Seldaek/monolog,PHP,5
+1376664,Seldaek/monolog,PHP,6
 448045,sebastianbergmann/phpunit,PHP,69
 2253830,PHPMailer/PHPMailer,PHP,4
 1548202,matomo-org/matomo,PHP,4
@@ -11,11 +11,11 @@ id,name,lang,new stars
 7704544,Intervention/image,PHP,3
 2854337,phalcon/cphalcon,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,3
-677464,doctrine/dbal,PHP,2
+677464,doctrine/dbal,PHP,3
 31295421,guzzle/psr7,PHP,1
 17452080,lcobucci/jwt,PHP,3
 10883164,barryvdh/laravel-dompdf,PHP,2
-74386167,vimeo/psalm,PHP,0
+74386167,vimeo/psalm,PHP,1
 97311017,rectorphp/rector,PHP,1
 159606650,hyperf/hyperf,PHP,5
 31595609,mpdf/mpdf,PHP,3
