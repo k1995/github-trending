@@ -1,18 +1,18 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,62
-27442967,fastlane/fastlane,Ruby,48
-8681349,huginn/huginn,Ruby,58
+27442967,fastlane/fastlane,Ruby,49
+8681349,huginn/huginn,Ruby,56
 53238813,Homebrew/brew,Ruby,97
 21600440,bayandin/awesome-awesomeness,Ruby,106
-52281283,tootsuite/mastodon,Ruby,65
-481872,hashicorp/vagrant,Ruby,47
-308770,heartcombo/devise,Ruby,21
+52281283,tootsuite/mastodon,Ruby,66
+481872,hashicorp/vagrant,Ruby,48
+308770,heartcombo/devise,Ruby,19
 538746,ruby/ruby,Ruby,27
 4095287,rubocop/rubocop,Ruby,15
 3195124,mperham/sidekiq,Ruby,18
-18486300,lewagon/setup,Ruby,134
+18486300,lewagon/setup,Ruby,136
 611921,activeadmin/activeadmin,Ruby,8
-1725199,github/linguist,Ruby,20
+1725199,github/linguist,Ruby,21
 6688319,DeathKing/Learning-SICP,Ruby,46
 75785147,rails/webpacker,Ruby,7
 2802565,doorkeeper-gem/doorkeeper,Ruby,8
@@ -21,6 +21,6 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,15
 200302808,github/view_component,Ruby,19
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,2
-80462373,keyvanakbary/learning-notes,Ruby,21
+80462373,keyvanakbary/learning-notes,Ruby,20
 344612911,ginkgobioworks/vaccinetime,Ruby,17
 87049040,wix/homebrew-brew,Ruby,0
