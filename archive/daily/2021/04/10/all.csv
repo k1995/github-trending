@@ -1,20 +1,20 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,137
-39464018,apache/superset,Python,301
+31792824,flutter/flutter,Dart,138
+39464018,apache/superset,Python,313
 191529732,lydiahallie/javascript-questions,,117
-31629751,cypress-io/cypress,JavaScript,182
+31629751,cypress-io/cypress,JavaScript,198
 10446890,bilibili/ijkplayer,C,18
-154950925,streamich/react-use,TypeScript,110
+154950925,streamich/react-use,TypeScript,100
 448045,sebastianbergmann/phpunit,PHP,76
 5754504,sivel/speedtest-cli,Python,15
-234798675,bevyengine/bevy,Rust,241
+234798675,bevyengine/bevy,Rust,254
 338348248,benawad/dogehouse,TypeScript,133
 173335706,apache/incubator-dolphinscheduler,Java,67
 76649430,martin-ger/esp_wifi_repeater,C,27
-196613241,edeng23/binance-trade-bot,Python,93
-260733299,pretzelhammer/rust-blog,Rust,86
+196613241,edeng23/binance-trade-bot,Python,100
+260733299,pretzelhammer/rust-blog,Rust,78
 224386599,bridgecrewio/checkov,Python,18
-125619154,ory/keto,Go,222
+125619154,ory/keto,Go,228
 271377309,Layout-Parser/layout-parser,Python,408
 226096934,zhangdaiscott/JimuReport,Java,74
 350697791,androidmalware/android_hid,Shell,82
@@ -22,5 +22,5 @@ id,name,lang,new stars
 288351538,urbanadventurer/Android-PIN-Bruteforce,Shell,20
 313767611,microsoft/CyberBattleSim,Jupyter Notebook,250
 353070039,adonovan/spaghetti,Go,58
-307848141,Unity-Technologies/com.unity.multiplayer.samples.coop,C#,65
+307848141,Unity-Technologies/com.unity.multiplayer.samples.coop,C#,66
 353118534,input-output-hk/plutus-pioneer-program,Haskell,32
