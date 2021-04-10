@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-7569578,discourse/discourse,Ruby,2
-27442967,fastlane/fastlane,Ruby,11
-21600440,bayandin/awesome-awesomeness,Ruby,16
+8514,rails/rails,Ruby,8
+7569578,discourse/discourse,Ruby,1
+27442967,fastlane/fastlane,Ruby,12
+21600440,bayandin/awesome-awesomeness,Ruby,15
 308770,heartcombo/devise,Ruby,6
-538746,ruby/ruby,Ruby,4
+538746,ruby/ruby,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,1
 2336578,twbs/bootstrap-sass,Ruby,1
-4095287,rubocop/rubocop,Ruby,4
+4095287,rubocop/rubocop,Ruby,7
 3195124,mperham/sidekiq,Ruby,1
 1918677,fluent/fluentd,Ruby,1
 812393,ruby-grape/grape,Ruby,0
@@ -16,7 +16,7 @@ id,name,lang,new stars
 1333863,kaminari/kaminari,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,3
 75785147,rails/webpacker,Ruby,0
-30985840,solidusio/solidus,Ruby,4
+30985840,solidusio/solidus,Ruby,5
 1172597,thoughtbot/shoulda-matchers,Ruby,1
 14238949,elastic/elasticsearch-rails,Ruby,1
 614070,rubygems/rubygems,Ruby,5

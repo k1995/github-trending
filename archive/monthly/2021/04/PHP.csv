@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,585
-3482588,danielmiessler/SecLists,PHP,610
+1863329,laravel/laravel,PHP,588
+3482588,danielmiessler/SecLists,PHP,612
 458058,symfony/symfony,PHP,343
 7548986,laravel/framework,PHP,229
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,131
@@ -12,9 +12,9 @@ id,name,lang,new stars
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,119
 61490598,PHPOffice/PhpSpreadsheet,PHP,165
 677464,doctrine/dbal,PHP,95
-2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,78
+2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,80
 14716368,invoiceninja/invoiceninja,PHP,119
-9791525,digininja/DVWA,PHP,84
+9791525,digininja/DVWA,PHP,85
 14346979,snipe/snipe-it,PHP,136
 30915528,spatie/laravel-backup,PHP,100
 222873550,bytefury/crater,PHP,86
@@ -23,4 +23,4 @@ id,name,lang,new stars
 44733816,privacy-protection-tools/anti-AD,PHP,301
 69691727,pmmp/PocketMine-MP,PHP,135
 174021137,inertiajs/pingcrm,PHP,68
-330980599,yanfeizhang/coder-kung-fu,PHP,182
+330980599,yanfeizhang/coder-kung-fu,PHP,187
