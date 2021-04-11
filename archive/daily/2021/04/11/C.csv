@@ -1,9 +1,9 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,68
 10744183,netdata/netdata,C,20
-156018,redis/redis,C,27
+156018,redis/redis,C,28
 36502,git/git,C,9
-10446890,bilibili/ijkplayer,C,31
+10446890,bilibili/ijkplayer,C,38
 1614410,FFmpeg/FFmpeg,C,9
 2810455,ggreer/the_silver_searcher,C,5
 14812739,libuv/libuv,C,4
@@ -13,14 +13,14 @@ id,name,lang,new stars
 5870069,edenhill/librdkafka,C,3
 2997204,openwall/john,C,11
 44781140,greenplum-db/gpdb,C,2
-59771425,zephyrproject-rtos/zephyr,C,5
+59771425,zephyrproject-rtos/zephyr,C,4
 537699,Kitware/CMake,C,3
-76649430,martin-ger/esp_wifi_repeater,C,36
-34807561,nanopb/nanopb,C,5
+76649430,martin-ger/esp_wifi_repeater,C,44
+34807561,nanopb/nanopb,C,8
 66966208,openbsd/src,C,11
 204459250,mit-pdos/xv6-riscv,C,3
 53174933,google/boringssl,C,1
-333917255,DualCoder/vgpu_unlock,C,475
+333917255,DualCoder/vgpu_unlock,C,476
 15238068,pelya/android-keyboard-gadget,C,0
-126449599,Dr-Noob/cpufetch,C,94
+126449599,Dr-Noob/cpufetch,C,99
 272394704,google/security-research,C,9
