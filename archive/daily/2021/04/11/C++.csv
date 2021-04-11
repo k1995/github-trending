@@ -2,7 +2,7 @@ id,name,lang,new stars
 65600975,pytorch/pytorch,C++,26
 39840932,google/googletest,C++,8
 6934395,facebook/rocksdb,C++,9
-251383553,electronicarts/CnC_Remastered_Collection,C++,3
+251383553,electronicarts/CnC_Remastered_Collection,C++,4
 114187903,apple/foundationdb,C++,3
 102692863,onnx/onnx,C++,6
 648343,chenshuo/muduo,C++,9
@@ -16,11 +16,11 @@ id,name,lang,new stars
 15122806,google/benchmark,C++,2
 131236938,an-tao/drogon,C++,6
 156939672,microsoft/onnxruntime,C++,5
-3386088,NixOS/nix,C++,7
-283410102,sogou/workflow,C++,15
+3386088,NixOS/nix,C++,9
+283410102,sogou/workflow,C++,17
 8270972,ARMmbed/mbed-os,C++,1
 27918697,versatica/mediasoup,C++,4
-349522340,google/lyra,C++,104
+349522340,google/lyra,C++,102
 153024342,xbpeng/DeepMimic,C++,6
 131630299,onnx/onnx-tensorrt,C++,0
 151064439,ExpressLRS/ExpressLRS,C++,5

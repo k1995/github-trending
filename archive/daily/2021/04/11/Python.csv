@@ -1,11 +1,11 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,76
+83222441,donnemartin/system-design-primer,Python,74
 54346799,public-apis/public-apis,Python,190
-39464018,apache/superset,Python,310
+39464018,apache/superset,Python,268
 150058902,wangzheng0822/algo,Python,15
 21484781,jumpserver/jumpserver,Python,6
 178626720,PyTorchLightning/pytorch-lightning,Python,11
-5754504,sivel/speedtest-cli,Python,45
+5754504,sivel/speedtest-cli,Python,54
 136202695,mlflow/mlflow,Python,63
 28782747,dask/dask,Python,3
 39144867,jupyter/docker-stacks,Python,3
@@ -13,14 +13,14 @@ id,name,lang,new stars
 40687563,oppia/oppia,Python,82
 72473727,kubernetes-client/python,Python,3
 173333035,qubvel/segmentation_models.pytorch,Python,3
-196613241,edeng23/binance-trade-bot,Python,114
+196613241,edeng23/binance-trade-bot,Python,97
 256262711,huangrt01/CS-Notes,Python,15
 224386599,bridgecrewio/checkov,Python,35
 31820613,Ganapati/RsaCtfTool,Python,13
-235434204,benbusby/whoogle-search,Python,23
+235434204,benbusby/whoogle-search,Python,22
 261372860,DLR-RM/stable-baselines3,Python,8
-271377309,Layout-Parser/layout-parser,Python,237
+271377309,Layout-Parser/layout-parser,Python,207
 71472695,PythonOT/POT,Python,7
-317724166,Sitoi/dailycheckin,Python,13
+317724166,Sitoi/dailycheckin,Python,12
 355559187,open-mmlab/mmocr,Python,34
 354826197,CyberPunkMetalHead/cryptocurrency-news-analysis,Python,8

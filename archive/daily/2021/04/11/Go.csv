@@ -1,8 +1,8 @@
 id,name,lang,new stars
-17728164,hashicorp/terraform,Go,17
+17728164,hashicorp/terraform,Go,18
 12574344,spf13/cobra,Go,9
 43723161,helm/helm,Go,1
-41349039,dgraph-io/dgraph,Go,7
+41349039,dgraph-io/dgraph,Go,6
 165041732,go-kratos/kratos,Go,10
 118654121,GoogleContainerTools/skaffold,Go,4
 72891330,kubernetes/ingress-nginx,Go,6
@@ -19,8 +19,8 @@ id,name,lang,new stars
 135321861,ory/kratos,Go,18
 93446042,terraform-providers/terraform-provider-azurerm,Go,1
 117377862,gardener/gardener,Go,4
+125619154,ory/keto,Go,152
 98671007,kubernetes-sigs/descheduler,Go,3
-125619154,ory/keto,Go,192
 195619075,vdaas/vald,Go,29
-353070039,adonovan/spaghetti,Go,75
+353070039,adonovan/spaghetti,Go,73
 226832620,argoproj-labs/argocd-notifications,Go,0
