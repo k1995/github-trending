@@ -1,17 +1,17 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,51
-7569578,discourse/discourse,Ruby,65
+7569578,discourse/discourse,Ruby,67
 27442967,fastlane/fastlane,Ruby,49
-53238813,Homebrew/brew,Ruby,91
+53238813,Homebrew/brew,Ruby,92
 21600440,bayandin/awesome-awesomeness,Ruby,107
 52281283,tootsuite/mastodon,Ruby,66
 308770,heartcombo/devise,Ruby,17
 538746,ruby/ruby,Ruby,24
-4095287,rubocop/rubocop,Ruby,19
+4095287,rubocop/rubocop,Ruby,20
 3195124,mperham/sidekiq,Ruby,13
 96395,faker-ruby/faker,Ruby,11
 52855516,Homebrew/homebrew-core,Ruby,55
-6688319,DeathKing/Learning-SICP,Ruby,44
+6688319,DeathKing/Learning-SICP,Ruby,45
 587311,omniauth/omniauth,Ruby,8
 21829,thoughtbot/factory_bot,Ruby,9
 75785147,rails/webpacker,Ruby,7
@@ -20,7 +20,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,11
 11426474,github/choosealicense.com,Ruby,15
 9831101,elastic/elasticsearch-ruby,Ruby,0
-200302808,github/view_component,Ruby,22
+200302808,github/view_component,Ruby,23
 80462373,keyvanakbary/learning-notes,Ruby,20
 644899,onelogin/ruby-saml,Ruby,0
 344612911,ginkgobioworks/vaccinetime,Ruby,16
