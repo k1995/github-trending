@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,28
+3482588,danielmiessler/SecLists,PHP,29
 448045,sebastianbergmann/phpunit,PHP,99
 1548202,matomo-org/matomo,PHP,5
 60243197,nextcloud/server,PHP,6
@@ -7,7 +7,7 @@ id,name,lang,new stars
 48796179,z-song/laravel-admin,PHP,3
 1398648,symfony/http-foundation,PHP,2
 9193949,wallabag/wallabag,PHP,4
-9791525,digininja/DVWA,PHP,7
+9791525,digininja/DVWA,PHP,8
 30915528,spatie/laravel-backup,PHP,3
 97311017,rectorphp/rector,PHP,4
 95011974,akaunting/akaunting,PHP,3
@@ -20,6 +20,6 @@ id,name,lang,new stars
 61838413,danog/MadelineProto,PHP,1
 153632216,spatie/data-transfer-object,PHP,3
 57463067,AzuraCast/AzuraCast,PHP,2
-189104054,laravel/ui,PHP,2
+189104054,laravel/ui,PHP,3
 178025857,laminas/laminas-zendframework-bridge,PHP,2
 75645659,WordPress/wordpress-develop,PHP,5
