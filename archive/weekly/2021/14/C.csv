@@ -1,8 +1,8 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,132
+10744183,netdata/netdata,C,133
 156018,redis/redis,C,159
 20159867,nothings/stb,C,81
-80286288,arendst/Tasmota,C,51
+80286288,arendst/Tasmota,C,52
 40217904,swaywm/sway,C,49
 179354282,acidanthera/OpenCorePkg,C,151
 70127218,espressif/arduino-esp32,C,53
@@ -11,11 +11,11 @@ id,name,lang,new stars
 5383731,qemu/qemu,C,29
 40504480,mit-pdos/xv6-public,C,19
 59771425,zephyrproject-rtos/zephyr,C,38
-240507922,mytechnotalent/Reverse-Engineering,C,269
-76649430,martin-ger/esp_wifi_repeater,C,219
-23007417,colmap/colmap,C,26
+240507922,mytechnotalent/Reverse-Engineering,C,271
+76649430,martin-ger/esp_wifi_repeater,C,228
+23007417,colmap/colmap,C,27
 27085821,stellar/stellar-core,C,16
-131710328,CTCaer/hekate,C,37
+131710328,CTCaer/hekate,C,38
 44688186,F5OEO/rpitx,C,50
 45703884,olikraus/u8g2,C,15
 293316071,bellard/quickjs,C,55
