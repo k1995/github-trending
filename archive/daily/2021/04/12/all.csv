@@ -1,26 +1,26 @@
 id,name,lang,new stars
-6498492,airbnb/javascript,JavaScript,110
-74791366,ryanmcdermott/clean-code-javascript,JavaScript,219
+6498492,airbnb/javascript,JavaScript,194
+74791366,ryanmcdermott/clean-code-javascript,JavaScript,223
 843222,scikit-learn/scikit-learn,Python,16
 147350463,leonardomso/33-js-concepts,JavaScript,165
-191529732,lydiahallie/javascript-questions,,482
-22067521,ocornut/imgui,C++,106
-23405758,google/leveldb,C++,93
-196813750,Light-City/CPlusPlusThings,C++,51
+191529732,lydiahallie/javascript-questions,,352
+22067521,ocornut/imgui,C++,140
+23405758,google/leveldb,C++,171
+196813750,Light-City/CPlusPlusThings,C++,93
 236750354,bradtraversy/vanillawebprojects,JavaScript,124
-234798675,bevyengine/bevy,Rust,173
-45821540,openwrt/openwrt,C,58
-323048702,DidierRLopes/GamestonkTerminal,Python,31
-295992065,tailwindlabs/headlessui,TypeScript,183
-226408450,Kethku/neovide,Rust,156
-333917255,DualCoder/vgpu_unlock,C,471
+234798675,bevyengine/bevy,Rust,213
+45821540,openwrt/openwrt,C,113
+323048702,DidierRLopes/GamestonkTerminal,Python,78
+295992065,tailwindlabs/headlessui,TypeScript,426
+226408450,Kethku/neovide,Rust,228
+333917255,DualCoder/vgpu_unlock,C,403
 281834526,lindelof/awesome-web-effect,,107
-336523577,mrcodedev/frontend-developer-resources,,79
-282611558,nordicgiant2/awesome-landing-page,,192
+336523577,mrcodedev/frontend-developer-resources,,73
+282611558,nordicgiant2/awesome-landing-page,,393
 173317769,pamoroso/free-python-books,,135
-313767611,microsoft/CyberBattleSim,Jupyter Notebook,213
-288351538,urbanadventurer/Android-PIN-Bruteforce,Shell,223
-355559187,open-mmlab/mmocr,Python,129
-308319447,PeiQi0/PeiQi-WIKI-POC,HTML,58
-355407223,assetnote/kiterunner,Go,69
-343644961,RUSH-LAB/SLIDE,,156
+313767611,microsoft/CyberBattleSim,Jupyter Notebook,223
+288351538,urbanadventurer/Android-PIN-Bruteforce,Shell,177
+355559187,open-mmlab/mmocr,Python,174
+308319447,PeiQi0/PeiQi-WIKI-POC,HTML,169
+355407223,assetnote/kiterunner,Go,120
+343644961,RUSH-LAB/SLIDE,,101
