@@ -1,10 +1,10 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,14
+17620347,dotnet/aspnetcore,C#,13
 161012019,jellyfin/jellyfin,C#,13
 16157746,dotnet/efcore,C#,4
-2087064,SignalR/SignalR,C#,2
-126486701,Unity-Technologies/UnityCsReference,C#,8
-75505125,abpframework/abp,C#,6
+2087064,SignalR/SignalR,C#,1
+126486701,Unity-Technologies/UnityCsReference,C#,6
+75505125,abpframework/abp,C#,5
 85953,gitextensions/gitextensions,C#,3
 210716005,dotnet/runtime,C#,14
 132453438,unoplatform/uno,C#,4
@@ -12,15 +12,15 @@ id,name,lang,new stars
 41822320,RicoSuter/NSwag,C#,6
 32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,3
 95366680,lucasg/Dependencies,C#,6
-23891194,Azure/azure-powershell,C#,0
-2928944,Azure/azure-sdk-for-net,C#,2
+23891194,Azure/azure-powershell,C#,1
+2928944,Azure/azure-sdk-for-net,C#,0
 85242321,chkr1011/MQTTnet,C#,5
-138290022,mob-sakai/ParticleEffectForUGUI,C#,5
+138290022,mob-sakai/ParticleEffectForUGUI,C#,6
 3171508,rnwood/smtp4dev,C#,1
 51595028,OPCFoundation/UA-.NETStandard,C#,1
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,7
 49761249,oleg-shilo/wixsharp,C#,0
-342637264,blazorhero/CleanArchitecture,C#,2
-199141711,egil/bUnit,C#,8
-349398800,XINCGer/UnityToolchainsTrick,C#,61
-355427120,keijiro/FaceMeshBarracuda,C#,11
+342637264,blazorhero/CleanArchitecture,C#,6
+199141711,egil/bUnit,C#,6
+349398800,XINCGer/UnityToolchainsTrick,C#,62
+355427120,keijiro/FaceMeshBarracuda,C#,7
