@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,588
-3482588,danielmiessler/SecLists,PHP,619
-458058,symfony/symfony,PHP,341
+1863329,laravel/laravel,PHP,592
+3482588,danielmiessler/SecLists,PHP,622
+458058,symfony/symfony,PHP,340
 7548986,laravel/framework,PHP,227
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,135
 1376664,Seldaek/monolog,PHP,148
@@ -9,14 +9,14 @@ id,name,lang,new stars
 2253830,PHPMailer/PHPMailer,PHP,189
 5724990,briannesbitt/Carbon,PHP,89
 2889328,WordPress/WordPress,PHP,143
-82238168,monicahq/monica,PHP,220
+82238168,monicahq/monica,PHP,221
 12615154,barryvdh/laravel-debugbar,PHP,189
 26730195,CachetHQ/Cachet,PHP,110
 8678290,barryvdh/laravel-ide-helper,PHP,131
 677464,doctrine/dbal,PHP,91
 31295421,guzzle/psr7,PHP,74
 14716368,invoiceninja/invoiceninja,PHP,115
-6763587,PrestaShop/PrestaShop,PHP,59
+6763587,PrestaShop/PrestaShop,PHP,58
 9791525,digininja/DVWA,PHP,94
 14346979,snipe/snipe-it,PHP,134
 30915528,spatie/laravel-backup,PHP,78
