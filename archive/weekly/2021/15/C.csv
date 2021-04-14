@@ -1,20 +1,20 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,142
-156018,redis/redis,C,158
+10744183,netdata/netdata,C,138
+156018,redis/redis,C,157
 10446890,bilibili/ijkplayer,C,152
-36836475,tmux/tmux,C,124
-20159867,nothings/stb,C,80
-80286288,arendst/Tasmota,C,56
+36836475,tmux/tmux,C,127
+20159867,nothings/stb,C,81
+80286288,arendst/Tasmota,C,55
 196353673,taosdata/TDengine,C,64
-28515839,skywind3000/kcp,C,76
-40217904,swaywm/sway,C,43
-45821540,openwrt/openwrt,C,284
+28515839,skywind3000/kcp,C,77
+40217904,swaywm/sway,C,42
+45821540,openwrt/openwrt,C,295
 179354282,acidanthera/OpenCorePkg,C,70
-60667730,lvgl/lvgl,C,43
+60667730,lvgl/lvgl,C,45
 44781140,greenplum-db/gpdb,C,19
 59771425,zephyrproject-rtos/zephyr,C,31
 76649430,martin-ger/esp_wifi_repeater,C,272
-86245815,pygame/pygame,C,37
+86245815,pygame/pygame,C,36
 23007417,colmap/colmap,C,25
 131710328,CTCaer/hekate,C,45
 44688186,F5OEO/rpitx,C,52
@@ -22,5 +22,5 @@ id,name,lang,new stars
 293316071,bellard/quickjs,C,47
 98257850,intel/haxm,C,15
 66966208,openbsd/src,C,44
-94246344,MiSTer-devel/Main_MiSTer,C,185
+94246344,MiSTer-devel/Main_MiSTer,C,183
 204459250,mit-pdos/xv6-riscv,C,37
