@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,15
-2579314,fzaninotto/Faker,PHP,4
+1863329,laravel/laravel,PHP,13
+2579314,fzaninotto/Faker,PHP,5
 458058,symfony/symfony,PHP,4
 1376664,Seldaek/monolog,PHP,3
-448045,sebastianbergmann/phpunit,PHP,5
-53783664,easychen/howto-make-more-money,PHP,19
+448045,sebastianbergmann/phpunit,PHP,4
+53783664,easychen/howto-make-more-money,PHP,22
 3431193,yiisoft/yii2,PHP,2
 10157178,egulias/EmailValidator,PHP,1
 137515,mockery/mockery,PHP,1
-61490598,PHPOffice/PhpSpreadsheet,PHP,5
+61490598,PHPOffice/PhpSpreadsheet,PHP,6
 42480275,spatie/laravel-permission,PHP,3
 2699935,squizlabs/PHP_CodeSniffer,PHP,5
-677464,doctrine/dbal,PHP,3
-21298446,firefly-iii/firefly-iii,PHP,16
+677464,doctrine/dbal,PHP,2
+21298446,firefly-iii/firefly-iii,PHP,14
 9826184,elastic/elasticsearch-php,PHP,1
-97311017,rectorphp/rector,PHP,9
+97311017,rectorphp/rector,PHP,8
 1398638,symfony/dom-crawler,PHP,0
 9395939,ZoneMinder/zoneminder,PHP,2
 31595609,mpdf/mpdf,PHP,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 139191005,nunomaduro/larastan,PHP,6
 74026995,CodelyTV/php-ddd-example,PHP,1
 131995661,shopware/platform,PHP,0
-330980599,yanfeizhang/coder-kung-fu,PHP,26
-296000242,xiaochong0302/course-tencent-cloud,PHP,6
+330980599,yanfeizhang/coder-kung-fu,PHP,30
+296000242,xiaochong0302/course-tencent-cloud,PHP,9
