@@ -1,26 +1,26 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,66
-133442384,denoland/deno,Rust,96
-155220641,huggingface/transformers,Python,252
-23405758,google/leveldb,C++,107
-101138315,d2l-ai/d2l-zh,Python,253
-196701619,tauri-apps/tauri,Rust,257
-182644013,foxlet/macOS-Simple-KVM,Shell,119
-236750354,bradtraversy/vanillawebprojects,JavaScript,148
-317836248,GorvGoyl/Clone-Wars,,621
-100061716,nrwl/nx,TypeScript,30
+20580498,kubernetes/kubernetes,Go,81
+133442384,denoland/deno,Rust,104
+155220641,huggingface/transformers,Python,356
+23405758,google/leveldb,C++,72
+101138315,d2l-ai/d2l-zh,Python,248
+196701619,tauri-apps/tauri,Rust,264
+182644013,foxlet/macOS-Simple-KVM,Shell,111
+236750354,bradtraversy/vanillawebprojects,JavaScript,136
+317836248,GorvGoyl/Clone-Wars,,587
+100061716,nrwl/nx,TypeScript,77
 331926236,itdevbooks/pdf,,122
-14981376,dogecoin/dogecoin,C++,47
-202429703,FirebaseExtended/flutterfire,Dart,21
-118620583,mozilla/TTS,Jupyter Notebook,678
-298809259,ChartsCSS/charts.css,HTML,141
-351432397,microsoft/Swin-Transformer,Python,256
-290568155,r4j0x00/exploits,JavaScript,308
-197153676,Chia-Network/chia-blockchain,Python,206
-334274271,opensearch-project/OpenSearch,Java,363
-206300925,PathOfBuildingCommunity/PathOfBuilding,Lua,14
-323673130,pixeltris/TwitchAdSolutions,JavaScript,17
-356635830,easychen/one-person-businesses-methodology,,240
-327711808,elixir-nx/livebook,Elixir,183
-302758707,EvgSkv/logica,Jupyter Notebook,231
-352438471,umputun/reproxy,Go,57
+14981376,dogecoin/dogecoin,C++,76
+202429703,FirebaseExtended/flutterfire,Dart,29
+118620583,mozilla/TTS,Jupyter Notebook,697
+298809259,ChartsCSS/charts.css,HTML,82
+351432397,microsoft/Swin-Transformer,Python,274
+290568155,r4j0x00/exploits,JavaScript,275
+197153676,Chia-Network/chia-blockchain,Python,231
+334274271,opensearch-project/OpenSearch,Java,333
+206300925,PathOfBuildingCommunity/PathOfBuilding,Lua,23
+356635830,easychen/one-person-businesses-methodology,,242
+323673130,pixeltris/TwitchAdSolutions,JavaScript,24
+327711808,elixir-nx/livebook,Elixir,207
+302758707,EvgSkv/logica,Jupyter Notebook,184
+352438471,umputun/reproxy,Go,97
