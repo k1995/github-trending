@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,597
+1863329,laravel/laravel,PHP,600
 3482588,danielmiessler/SecLists,PHP,633
-458058,symfony/symfony,PHP,343
+458058,symfony/symfony,PHP,344
 7548986,laravel/framework,PHP,238
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,137
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,139
 1376664,Seldaek/monolog,PHP,145
 448045,sebastianbergmann/phpunit,PHP,383
-2253830,PHPMailer/PHPMailer,PHP,184
-5724990,briannesbitt/Carbon,PHP,94
-2889328,WordPress/WordPress,PHP,134
+2253830,PHPMailer/PHPMailer,PHP,185
+5724990,briannesbitt/Carbon,PHP,95
+2889328,WordPress/WordPress,PHP,136
 82238168,monicahq/monica,PHP,230
 12615154,barryvdh/laravel-debugbar,PHP,185
 8678290,barryvdh/laravel-ide-helper,PHP,129
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,108
-29843361,w7corp/easywechat,PHP,52
+29843361,w7corp/easywechat,PHP,53
 31295421,guzzle/psr7,PHP,76
 14716368,invoiceninja/invoiceninja,PHP,114
 6763587,PrestaShop/PrestaShop,PHP,59
@@ -22,5 +22,5 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,139
 30915528,spatie/laravel-backup,PHP,73
 222873550,bytefury/crater,PHP,102
-44733816,privacy-protection-tools/anti-AD,PHP,301
+44733816,privacy-protection-tools/anti-AD,PHP,303
 12895187,laravelio/laravel.io,PHP,39
