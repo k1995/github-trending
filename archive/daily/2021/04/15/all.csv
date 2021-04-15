@@ -1,26 +1,26 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,81
-133442384,denoland/deno,Rust,104
-155220641,huggingface/transformers,Python,356
-23405758,google/leveldb,C++,72
-101138315,d2l-ai/d2l-zh,Python,248
-196701619,tauri-apps/tauri,Rust,264
-182644013,foxlet/macOS-Simple-KVM,Shell,111
-236750354,bradtraversy/vanillawebprojects,JavaScript,136
-317836248,GorvGoyl/Clone-Wars,,587
-100061716,nrwl/nx,TypeScript,77
-331926236,itdevbooks/pdf,,122
-14981376,dogecoin/dogecoin,C++,76
-202429703,FirebaseExtended/flutterfire,Dart,29
-118620583,mozilla/TTS,Jupyter Notebook,697
-298809259,ChartsCSS/charts.css,HTML,82
-351432397,microsoft/Swin-Transformer,Python,274
-290568155,r4j0x00/exploits,JavaScript,275
-197153676,Chia-Network/chia-blockchain,Python,231
-334274271,opensearch-project/OpenSearch,Java,333
-206300925,PathOfBuildingCommunity/PathOfBuilding,Lua,23
-356635830,easychen/one-person-businesses-methodology,,242
-323673130,pixeltris/TwitchAdSolutions,JavaScript,24
-327711808,elixir-nx/livebook,Elixir,207
-302758707,EvgSkv/logica,Jupyter Notebook,184
-352438471,umputun/reproxy,Go,97
+20580498,kubernetes/kubernetes,Go,103
+133442384,denoland/deno,Rust,135
+155220641,huggingface/transformers,Python,363
+23405758,google/leveldb,C++,107
+101138315,d2l-ai/d2l-zh,Python,246
+196701619,tauri-apps/tauri,Rust,255
+182644013,foxlet/macOS-Simple-KVM,Shell,122
+236750354,bradtraversy/vanillawebprojects,JavaScript,125
+317836248,GorvGoyl/Clone-Wars,,633
+100061716,nrwl/nx,TypeScript,30
+331926236,itdevbooks/pdf,,147
+14981376,dogecoin/dogecoin,C++,47
+202429703,FirebaseExtended/flutterfire,Dart,48
+118620583,mozilla/TTS,Jupyter Notebook,622
+298809259,ChartsCSS/charts.css,HTML,267
+351432397,microsoft/Swin-Transformer,Python,272
+290568155,r4j0x00/exploits,JavaScript,253
+197153676,Chia-Network/chia-blockchain,Python,235
+334274271,opensearch-project/OpenSearch,Java,314
+206300925,PathOfBuildingCommunity/PathOfBuilding,Lua,32
+356635830,easychen/one-person-businesses-methodology,,247
+323673130,pixeltris/TwitchAdSolutions,JavaScript,30
+327711808,elixir-nx/livebook,Elixir,217
+302758707,EvgSkv/logica,Jupyter Notebook,175
+352438471,umputun/reproxy,Go,77
