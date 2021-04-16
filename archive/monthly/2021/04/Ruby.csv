@@ -1,18 +1,18 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,493
-65252,jekyll/jekyll,Ruby,220
+65252,jekyll/jekyll,Ruby,223
 21600440,bayandin/awesome-awesomeness,Ruby,219
 2293158,rapid7/metasploit-framework,Ruby,339
-308770,heartcombo/devise,Ruby,95
-538746,ruby/ruby,Ruby,128
-2203645,CocoaPods/CocoaPods,Ruby,74
+308770,heartcombo/devise,Ruby,96
+538746,ruby/ruby,Ruby,127
+2203645,CocoaPods/CocoaPods,Ruby,75
 1090311,elastic/logstash,Ruby,94
-11423758,mame/quine-relay,Ruby,226
-3195124,mperham/sidekiq,Ruby,64
-88740103,postalhq/postal,Ruby,75
+11423758,mame/quine-relay,Ruby,225
+3195124,mperham/sidekiq,Ruby,65
+88740103,postalhq/postal,Ruby,74
 8393,thoughtbot/paperclip,Ruby,12
-202291859,chatwoot/chatwoot,Ruby,1837
-1725199,github/linguist,Ruby,107
+202291859,chatwoot/chatwoot,Ruby,1834
+1725199,github/linguist,Ruby,108
 47087,carrierwaveuploader/carrierwave,Ruby,27
 910744,puppetlabs/puppet,Ruby,59
 1314319,instructure/canvas-lms,Ruby,60
@@ -20,7 +20,7 @@ id,name,lang,new stars
 4523235,asciidoctor/asciidoctor,Ruby,67
 115859973,ddnexus/pagy,Ruby,83
 103766152,github/explore,Ruby,87
-200302808,github/view_component,Ruby,82
+200302808,github/view_component,Ruby,81
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,225
 49878403,zendesk/ruby-kafka,Ruby,16
 56942570,Homebrew/linuxbrew-core,Ruby,31

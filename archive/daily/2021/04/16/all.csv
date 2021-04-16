@@ -1,26 +1,26 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,156
-133442384,denoland/deno,Rust,179
-155220641,huggingface/transformers,Python,319
-23405758,google/leveldb,C++,122
-101138315,d2l-ai/d2l-zh,Python,203
-196701619,tauri-apps/tauri,Rust,273
-182644013,foxlet/macOS-Simple-KVM,Shell,106
-236750354,bradtraversy/vanillawebprojects,JavaScript,113
-317836248,GorvGoyl/Clone-Wars,,857
-100061716,nrwl/nx,TypeScript,166
-331926236,itdevbooks/pdf,,246
-14981376,dogecoin/dogecoin,C++,215
-202429703,FirebaseExtended/flutterfire,Dart,85
-118620583,mozilla/TTS,Jupyter Notebook,434
-298809259,ChartsCSS/charts.css,HTML,420
-351432397,microsoft/Swin-Transformer,Python,308
-290568155,r4j0x00/exploits,JavaScript,195
-197153676,Chia-Network/chia-blockchain,Python,263
-334274271,opensearch-project/OpenSearch,Java,263
-206300925,PathOfBuildingCommunity/PathOfBuilding,Lua,49
-356635830,easychen/one-person-businesses-methodology,,244
-323673130,pixeltris/TwitchAdSolutions,JavaScript,41
-327711808,elixir-nx/livebook,Elixir,274
-302758707,EvgSkv/logica,Jupyter Notebook,143
-352438471,umputun/reproxy,Go,123
+20580498,kubernetes/kubernetes,Go,167
+133442384,denoland/deno,Rust,196
+155220641,huggingface/transformers,Python,313
+23405758,google/leveldb,C++,137
+101138315,d2l-ai/d2l-zh,Python,166
+196701619,tauri-apps/tauri,Rust,276
+182644013,foxlet/macOS-Simple-KVM,Shell,90
+236750354,bradtraversy/vanillawebprojects,JavaScript,118
+317836248,GorvGoyl/Clone-Wars,,926
+100061716,nrwl/nx,TypeScript,198
+331926236,itdevbooks/pdf,,304
+14981376,dogecoin/dogecoin,C++,259
+202429703,FirebaseExtended/flutterfire,Dart,100
+118620583,mozilla/TTS,Jupyter Notebook,378
+298809259,ChartsCSS/charts.css,HTML,489
+351432397,microsoft/Swin-Transformer,Python,263
+290568155,r4j0x00/exploits,JavaScript,157
+197153676,Chia-Network/chia-blockchain,Python,279
+334274271,opensearch-project/OpenSearch,Java,248
+356635830,easychen/one-person-businesses-methodology,,237
+206300925,PathOfBuildingCommunity/PathOfBuilding,Lua,55
+323673130,pixeltris/TwitchAdSolutions,JavaScript,46
+327711808,elixir-nx/livebook,Elixir,286
+302758707,EvgSkv/logica,Jupyter Notebook,147
+352438471,umputun/reproxy,Go,129
