@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,69
+8514,rails/rails,Ruby,70
 65252,jekyll/jekyll,Ruby,45
-53238813,Homebrew/brew,Ruby,112
+53238813,Homebrew/brew,Ruby,115
 2500088,gitlabhq/gitlabhq,Ruby,16
-308770,heartcombo/devise,Ruby,18
+308770,heartcombo/devise,Ruby,20
 2203645,CocoaPods/CocoaPods,Ruby,20
-4095287,rubocop/rubocop,Ruby,14
+4095287,rubocop/rubocop,Ruby,15
 11423758,mame/quine-relay,Ruby,46
 3195124,mperham/sidekiq,Ruby,13
 1918677,fluent/fluentd,Ruby,25
 1217404,jordansissel/fpm,Ruby,25
-18486300,lewagon/setup,Ruby,221
+18486300,lewagon/setup,Ruby,218
 96395,faker-ruby/faker,Ruby,12
 52855516,Homebrew/homebrew-core,Ruby,43
 611921,activeadmin/activeadmin,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1314319,instructure/canvas-lms,Ruby,20
 30985840,solidusio/solidus,Ruby,12
 1175581,citation-style-language/styles,Ruby,9
-103766152,github/explore,Ruby,17
+103766152,github/explore,Ruby,18
 31323121,elastic/docs,Ruby,1
