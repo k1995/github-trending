@@ -1,20 +1,20 @@
 id,name,lang,new stars
-53783664,easychen/howto-make-more-money,PHP,14
-60243197,nextcloud/server,PHP,15
+53783664,easychen/howto-make-more-money,PHP,15
+60243197,nextcloud/server,PHP,17
 3431193,yiisoft/yii2,PHP,3
-72069409,the-control-group/voyager,PHP,9
+72069409,the-control-group/voyager,PHP,10
 137515,mockery/mockery,PHP,3
 61490598,PHPOffice/PhpSpreadsheet,PHP,4
 49014795,phpstan/phpstan,PHP,7
-6660366,dompdf/dompdf,PHP,6
+6660366,dompdf/dompdf,PHP,7
 1398648,symfony/http-foundation,PHP,4
 4242230,PHPOffice/PHPWord,PHP,1
 9131292,jenssegers/laravel-mongodb,PHP,1
-14346979,snipe/snipe-it,PHP,4
+14346979,snipe/snipe-it,PHP,3
 12204147,mautic/mautic,PHP,1
 74386167,vimeo/psalm,PHP,6
 3817881,zircote/swagger-php,PHP,4
-1543827,moneyphp/money,PHP,14
+1543827,moneyphp/money,PHP,19
 1957456,Dolibarr/dolibarr,PHP,4
 12769892,mk-j/PHP_XLSXWriter,PHP,4
 131995661,shopware/platform,PHP,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 141720301,dr5hn/countries-states-cities-database,PHP,3
 34716238,ladybirdweb/faveo-helpdesk,PHP,3
 281640234,5ime/video_spider,PHP,16
-344332509,wintercms/winter,PHP,20
-356564152,LaraBug/larabug-app,PHP,32
+344332509,wintercms/winter,PHP,21
+356564152,LaraBug/larabug-app,PHP,33
