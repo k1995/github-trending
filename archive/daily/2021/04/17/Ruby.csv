@@ -1,6 +1,6 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,10
-7569578,discourse/discourse,Ruby,5
+7569578,discourse/discourse,Ruby,6
 2500088,gitlabhq/gitlabhq,Ruby,4
 481872,hashicorp/vagrant,Ruby,6
 1090311,elastic/logstash,Ruby,3
@@ -14,7 +14,7 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,0
 108278,chef/chef,Ruby,2
 355893,github/markup,Ruby,1
-30337170,rmosolgo/graphql-ruby,Ruby,3
+30337170,rmosolgo/graphql-ruby,Ruby,4
 52316423,luggit/react-native-config,Ruby,1
 30985840,solidusio/solidus,Ruby,2
 14238949,elastic/elasticsearch-rails,Ruby,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 3654364,roo-rb/roo,Ruby,0
 9831101,elastic/elasticsearch-ruby,Ruby,0
 34840276,elastic/ansible-elasticsearch,Ruby,0
-229187949,shivammathur/homebrew-php,Ruby,2
+229187949,shivammathur/homebrew-php,Ruby,3
 235342165,okuramasafumi/alba,Ruby,15
