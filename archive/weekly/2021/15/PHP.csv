@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,131
+1863329,laravel/laravel,PHP,138
 3482588,danielmiessler/SecLists,PHP,158
 7548986,laravel/framework,PHP,55
 448045,sebastianbergmann/phpunit,PHP,179
-53783664,easychen/howto-make-more-money,PHP,101
-60243197,nextcloud/server,PHP,64
+53783664,easychen/howto-make-more-money,PHP,102
+60243197,nextcloud/server,PHP,65
 3431193,yiisoft/yii2,PHP,10
 14732311,octobercms/october,PHP,26
 2854337,phalcon/cphalcon,PHP,9
@@ -16,9 +16,9 @@ id,name,lang,new stars
 9826184,elastic/elasticsearch-php,PHP,16
 4565995,phpseclib/phpseclib,PHP,14
 97311017,rectorphp/rector,PHP,32
-222873550,bytefury/crater,PHP,33
+222873550,bytefury/crater,PHP,35
 139191005,nunomaduro/larastan,PHP,20
-350018351,laravel/octane,PHP,318
+350018351,laravel/octane,PHP,319
 74026995,CodelyTV/php-ddd-example,PHP,18
 153632216,spatie/data-transfer-object,PHP,37
 330622402,mochat-cloud/mochat,PHP,33
