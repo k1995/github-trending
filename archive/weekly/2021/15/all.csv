@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,881
-36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,1014
-843222,scikit-learn/scikit-learn,Python,270
+83222441,donnemartin/system-design-primer,Python,790
+36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,1022
+843222,scikit-learn/scikit-learn,Python,251
 23405758,google/leveldb,C++,886
-101138315,d2l-ai/d2l-zh,Python,1071
-196701619,tauri-apps/tauri,Rust,1209
-165041732,go-kratos/kratos,Go,271
-182644013,foxlet/macOS-Simple-KVM,Shell,596
-236750354,bradtraversy/vanillawebprojects,JavaScript,1022
-295992065,tailwindlabs/headlessui,TypeScript,2212
-14981376,dogecoin/dogecoin,C++,1078
-247386519,covid19india/covid19india-react,JavaScript,67
-47859258,goplus/gop,Go,230
-88327406,xmrig/xmrig,C++,149
+101138315,d2l-ai/d2l-zh,Python,1062
+196701619,tauri-apps/tauri,Rust,1214
+165041732,go-kratos/kratos,Go,274
+182644013,foxlet/macOS-Simple-KVM,Shell,598
+236750354,bradtraversy/vanillawebprojects,JavaScript,1023
+295992065,tailwindlabs/headlessui,TypeScript,2227
+14981376,dogecoin/dogecoin,C++,1111
+247386519,covid19india/covid19india-react,JavaScript,81
+47859258,goplus/gop,Go,232
+88327406,xmrig/xmrig,C++,152
 2724167,ripple/rippled,C++,34
 164768889,alibaba/formily,TypeScript,69
-197153676,Chia-Network/chia-blockchain,Python,1476
-200722670,NVIDIA/NeMo,Jupyter Notebook,40
+197153676,Chia-Network/chia-blockchain,Python,1537
+200722670,NVIDIA/NeMo,Jupyter Notebook,38
 217654199,microsoft/msquic,C,32
-333917255,DualCoder/vgpu_unlock,C,1474
+333917255,DualCoder/vgpu_unlock,C,1199
 355559187,open-mmlab/mmocr,Python,554
 283873079,openethereum/openethereum,Rust,308
 355527535,josevalim/nested-data-structure-traversal,Elixir,308
-201546443,trustwallet/assets,TypeScript,32
+201546443,trustwallet/assets,TypeScript,31
 265775217,binance-chain/bsc,Go,68
