@@ -1,13 +1,13 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,411
-17620347,dotnet/aspnetcore,C#,108
+184456251,microsoft/PowerToys,C#,415
+17620347,dotnet/aspnetcore,C#,109
 13428264,ShareX/ShareX,C#,90
 46652227,IdentityServer/IdentityServer4,C#,32
-75990888,dotnet/csharplang,C#,65
-75505125,abpframework/abp,C#,60
-45195614,Jackett/Jackett,C#,63
+75990888,dotnet/csharplang,C#,66
+75505125,abpframework/abp,C#,61
+45195614,Jackett/Jackett,C#,64
 54213490,xamarin/Xamarin.Forms,C#,16
-203892454,kgrzybek/modular-monolith-with-ddd,C#,125
+203892454,kgrzybek/modular-monolith-with-ddd,C#,136
 130160795,HMBSbige/ShadowsocksR-Windows,C#,45
 103086697,thangchung/clean-code-dotnet,C#,44
 36613036,neo-project/neo,C#,18
@@ -15,7 +15,7 @@ id,name,lang,new stars
 295200728,stnkl/EverythingToolbar,C#,97
 219113096,k8gege/Ladon,C#,28
 2928944,Azure/azure-sdk-for-net,C#,18
-85242321,chkr1011/MQTTnet,C#,23
+85242321,chkr1011/MQTTnet,C#,25
 72554578,confluentinc/confluent-kafka-dotnet,C#,14
 139499767,lgsvl/simulator,C#,18
 176523594,lucent-sea/Remotely,C#,74
@@ -23,4 +23,4 @@ id,name,lang,new stars
 103370157,hellzerg/optimizer,C#,26
 341352859,slushiegoose/Town-Of-Us,C#,75
 307848141,Unity-Technologies/com.unity.multiplayer.samples.coop,C#,165
-351109518,SebLague/Slime-Simulation,C#,71
+351109518,SebLague/Slime-Simulation,C#,73

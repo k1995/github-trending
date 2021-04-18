@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,147
-3482588,danielmiessler/SecLists,PHP,171
-7548986,laravel/framework,PHP,59
-448045,sebastianbergmann/phpunit,PHP,179
+1863329,laravel/laravel,PHP,140
+3482588,danielmiessler/SecLists,PHP,174
+7548986,laravel/framework,PHP,60
+448045,sebastianbergmann/phpunit,PHP,129
 53783664,easychen/howto-make-more-money,PHP,106
 60243197,nextcloud/server,PHP,69
 3431193,yiisoft/yii2,PHP,11
@@ -10,16 +10,16 @@ id,name,lang,new stars
 2854337,phalcon/cphalcon,PHP,9
 2884111,magento/magento2,PHP,16
 5508585,YOURLS/YOURLS,PHP,28
-2179920,woocommerce/woocommerce,PHP,24
+2179920,woocommerce/woocommerce,PHP,25
 41589337,BookStackApp/BookStack,PHP,51
-86350964,the-benchmarker/web-frameworks,PHP,66
+86350964,the-benchmarker/web-frameworks,PHP,61
 9826184,elastic/elasticsearch-php,PHP,16
 4565995,phpseclib/phpseclib,PHP,14
 97311017,rectorphp/rector,PHP,32
 222873550,bytefury/crater,PHP,35
 139191005,nunomaduro/larastan,PHP,20
-350018351,laravel/octane,PHP,332
-74026995,CodelyTV/php-ddd-example,PHP,18
+350018351,laravel/octane,PHP,333
+74026995,CodelyTV/php-ddd-example,PHP,16
 153632216,spatie/data-transfer-object,PHP,38
-330622402,mochat-cloud/mochat,PHP,33
-330980599,yanfeizhang/coder-kung-fu,PHP,152
+330622402,mochat-cloud/mochat,PHP,34
+330980599,yanfeizhang/coder-kung-fu,PHP,144
