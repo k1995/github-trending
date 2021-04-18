@@ -1,8 +1,8 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
-65252,jekyll/jekyll,Ruby,9
+8514,rails/rails,Ruby,4
+65252,jekyll/jekyll,Ruby,11
 27442967,fastlane/fastlane,Ruby,7
-2500088,gitlabhq/gitlabhq,Ruby,4
+2500088,gitlabhq/gitlabhq,Ruby,5
 1090311,elastic/logstash,Ruby,2
 3195124,mperham/sidekiq,Ruby,4
 812393,ruby-grape/grape,Ruby,0
@@ -13,7 +13,7 @@ id,name,lang,new stars
 451035,heartcombo/simple_form,Ruby,3
 108278,chef/chef,Ruby,3
 2889230,rails-api/active_model_serializers,Ruby,1
-33739333,thoughtbot/administrate,Ruby,2
+33739333,thoughtbot/administrate,Ruby,3
 30337170,rmosolgo/graphql-ruby,Ruby,5
 309009,mongodb/mongoid,Ruby,1
 79352,mikel/mail,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,0
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,4
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,4
-13077357,markets/maily,Ruby,23
-235342165,okuramasafumi/alba,Ruby,25
+13077357,markets/maily,Ruby,24
+235342165,okuramasafumi/alba,Ruby,26
 260157843,anycable/anycable_rails_demo,Ruby,1
