@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,63
+8514,rails/rails,Ruby,60
 65252,jekyll/jekyll,Ruby,63
-53238813,Homebrew/brew,Ruby,106
-2500088,gitlabhq/gitlabhq,Ruby,18
-3623050,Homebrew/homebrew-cask,Ruby,24
-2203645,CocoaPods/CocoaPods,Ruby,21
+53238813,Homebrew/brew,Ruby,107
+2500088,gitlabhq/gitlabhq,Ruby,19
+3623050,Homebrew/homebrew-cask,Ruby,25
+2203645,CocoaPods/CocoaPods,Ruby,20
 1090311,elastic/logstash,Ruby,20
 4095287,rubocop/rubocop,Ruby,11
 3195124,mperham/sidekiq,Ruby,13
-1157388,tmuxinator/tmuxinator,Ruby,23
-18486300,lewagon/setup,Ruby,204
-52855516,Homebrew/homebrew-core,Ruby,43
+1157388,tmuxinator/tmuxinator,Ruby,24
+18486300,lewagon/setup,Ruby,207
+52855516,Homebrew/homebrew-core,Ruby,44
 1725199,github/linguist,Ruby,26
 75785147,rails/webpacker,Ruby,8
 1548802,activerecord-hackery/ransack,Ruby,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 56942570,Homebrew/linuxbrew-core,Ruby,9
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,11
 31323121,elastic/docs,Ruby,1
-353607417,hostolab/covidliste,Ruby,34
+353607417,hostolab/covidliste,Ruby,33
 191412561,elastic/homebrew-tap,Ruby,0
