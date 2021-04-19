@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,972
-36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,1042
-843222,scikit-learn/scikit-learn,Python,272
-23405758,google/leveldb,C++,887
-101138315,d2l-ai/d2l-zh,Python,1075
+83222441,donnemartin/system-design-primer,Python,1006
+36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,1049
+843222,scikit-learn/scikit-learn,Python,276
+23405758,google/leveldb,C++,890
+101138315,d2l-ai/d2l-zh,Python,1088
 196701619,tauri-apps/tauri,Rust,1220
-165041732,go-kratos/kratos,Go,275
-182644013,foxlet/macOS-Simple-KVM,Shell,602
+165041732,go-kratos/kratos,Go,278
+182644013,foxlet/macOS-Simple-KVM,Shell,603
 236750354,bradtraversy/vanillawebprojects,JavaScript,1028
-295992065,tailwindlabs/headlessui,TypeScript,2235
-14981376,dogecoin/dogecoin,C++,1202
-247386519,covid19india/covid19india-react,JavaScript,83
-47859258,goplus/gop,Go,232
-88327406,xmrig/xmrig,C++,153
-2724167,ripple/rippled,C++,37
-164768889,alibaba/formily,TypeScript,71
-197153676,Chia-Network/chia-blockchain,Python,1604
-200722670,NVIDIA/NeMo,Jupyter Notebook,41
-217654199,microsoft/msquic,C,32
-333917255,DualCoder/vgpu_unlock,C,1481
-355559187,open-mmlab/mmocr,Python,554
-283873079,openethereum/openethereum,Rust,312
+295992065,tailwindlabs/headlessui,TypeScript,2248
+14981376,dogecoin/dogecoin,C++,1244
+247386519,covid19india/covid19india-react,JavaScript,81
+47859258,goplus/gop,Go,242
+88327406,xmrig/xmrig,C++,157
+2724167,ripple/rippled,C++,39
+164768889,alibaba/formily,TypeScript,68
+197153676,Chia-Network/chia-blockchain,Python,1656
+200722670,NVIDIA/NeMo,Jupyter Notebook,42
+217654199,microsoft/msquic,C,33
+333917255,DualCoder/vgpu_unlock,C,1483
+355559187,open-mmlab/mmocr,Python,559
+283873079,openethereum/openethereum,Rust,314
 355527535,josevalim/nested-data-structure-traversal,Elixir,309
 201546443,trustwallet/assets,TypeScript,35
-265775217,binance-chain/bsc,Go,68
+265775217,binance-chain/bsc,Go,69
