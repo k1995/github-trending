@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,569
-3482588,danielmiessler/SecLists,PHP,625
+1863329,laravel/laravel,PHP,567
+3482588,danielmiessler/SecLists,PHP,628
 2579314,fzaninotto/Faker,PHP,124
 458058,symfony/symfony,PHP,339
 7548986,laravel/framework,PHP,233
@@ -9,15 +9,15 @@ id,name,lang,new stars
 2253830,PHPMailer/PHPMailer,PHP,181
 2889328,WordPress/WordPress,PHP,140
 53783664,easychen/howto-make-more-money,PHP,195
-82238168,monicahq/monica,PHP,237
-12615154,barryvdh/laravel-debugbar,PHP,174
-72069409,the-control-group/voyager,PHP,104
-61490598,PHPOffice/PhpSpreadsheet,PHP,142
+82238168,monicahq/monica,PHP,239
+12615154,barryvdh/laravel-debugbar,PHP,175
+72069409,the-control-group/voyager,PHP,105
+61490598,PHPOffice/PhpSpreadsheet,PHP,141
 29843361,w7corp/easywechat,PHP,53
 656494,cakephp/cakephp,PHP,27
-12166778,googleapis/google-api-php-client,PHP,57
+12166778,googleapis/google-api-php-client,PHP,58
 14716368,invoiceninja/invoiceninja,PHP,112
-9791525,digininja/DVWA,PHP,95
+9791525,digininja/DVWA,PHP,96
 33916850,spatie/laravel-medialibrary,PHP,59
 222873550,bytefury/crater,PHP,107
 1543827,moneyphp/money,PHP,64
