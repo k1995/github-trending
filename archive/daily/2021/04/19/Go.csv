@@ -1,16 +1,16 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,73
+21540759,avelino/awesome-go,Go,74
 212613049,cli/cli,Go,598
 14125254,hashicorp/consul,Go,21
-135516270,k3s-io/k3s,Go,34
+135516270,k3s-io/k3s,Go,35
 107286889,schollz/croc,Go,46
-119160553,photoprism/photoprism,Go,29
+119160553,photoprism/photoprism,Go,19
 21233191,ipfs/go-ipfs,Go,18
 30245748,gizak/termui,Go,12
 181461073,v2fly/v2ray-core,Go,54
 23247808,rqlite/rqlite,Go,67
-119190187,zricethezav/gitleaks,Go,32
-116739828,DNSCrypt/dnscrypt-proxy,Go,18
+119190187,zricethezav/gitleaks,Go,34
+116739828,DNSCrypt/dnscrypt-proxy,Go,19
 117591846,gotify/server,Go,19
 73430589,google/gops,Go,104
 311315731,XTLS/Xray-core,Go,43
