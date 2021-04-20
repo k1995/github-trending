@@ -1,13 +1,13 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,60
-53238813,Homebrew/brew,Ruby,111
+65252,jekyll/jekyll,Ruby,63
+53238813,Homebrew/brew,Ruby,114
 2500088,gitlabhq/gitlabhq,Ruby,18
 3623050,Homebrew/homebrew-cask,Ruby,30
-2203645,CocoaPods/CocoaPods,Ruby,15
-1090311,elastic/logstash,Ruby,22
-3195124,mperham/sidekiq,Ruby,16
-1157388,tmuxinator/tmuxinator,Ruby,24
-18486300,lewagon/setup,Ruby,216
+2203645,CocoaPods/CocoaPods,Ruby,13
+1090311,elastic/logstash,Ruby,23
+3195124,mperham/sidekiq,Ruby,15
+1157388,tmuxinator/tmuxinator,Ruby,25
+18486300,lewagon/setup,Ruby,217
 52855516,Homebrew/homebrew-core,Ruby,43
 611921,activeadmin/activeadmin,Ruby,10
 910744,puppetlabs/puppet,Ruby,12
@@ -21,6 +21,6 @@ id,name,lang,new stars
 56942570,Homebrew/linuxbrew-core,Ruby,8
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,11
 321647551,hotwired/hotwire-rails,Ruby,22
-353607417,hostolab/covidliste,Ruby,36
+353607417,hostolab/covidliste,Ruby,37
 48370306,elastic/ansible-beats,Ruby,1
 279271772,DataDog/datadog-api-client-ruby,Ruby,0
