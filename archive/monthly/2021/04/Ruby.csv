@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,475
-8681349,huginn/huginn,Ruby,279
-21600440,bayandin/awesome-awesomeness,Ruby,230
-2293158,rapid7/metasploit-framework,Ruby,328
-2500088,gitlabhq/gitlabhq,Ruby,58
-308770,heartcombo/devise,Ruby,91
-538746,ruby/ruby,Ruby,121
+8514,rails/rails,Ruby,479
+8681349,huginn/huginn,Ruby,278
+21600440,bayandin/awesome-awesomeness,Ruby,229
+2293158,rapid7/metasploit-framework,Ruby,327
+2500088,gitlabhq/gitlabhq,Ruby,57
+308770,heartcombo/devise,Ruby,90
+538746,ruby/ruby,Ruby,122
 1090311,elastic/logstash,Ruby,89
-11423758,mame/quine-relay,Ruby,209
+11423758,mame/quine-relay,Ruby,207
 3195124,mperham/sidekiq,Ruby,68
-18486300,lewagon/setup,Ruby,602
+18486300,lewagon/setup,Ruby,599
 8393,thoughtbot/paperclip,Ruby,11
-202291859,chatwoot/chatwoot,Ruby,1184
+202291859,chatwoot/chatwoot,Ruby,1152
 611921,activeadmin/activeadmin,Ruby,32
 1725199,github/linguist,Ruby,96
 47087,carrierwaveuploader/carrierwave,Ruby,24
@@ -23,4 +23,4 @@ id,name,lang,new stars
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,223
 49878403,zendesk/ruby-kafka,Ruby,14
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,25
-344612911,ginkgobioworks/vaccinetime,Ruby,51
+344612911,ginkgobioworks/vaccinetime,Ruby,50
