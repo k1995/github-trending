@@ -1,18 +1,18 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,36
-212613049,cli/cli,Go,18
+212613049,cli/cli,Go,19
 16563587,cockroachdb/cockroach,Go,10
-187335810,jesseduffield/lazydocker,Go,30
-135516270,k3s-io/k3s,Go,29
-136815833,Dreamacro/clash,Go,18
+187335810,jesseduffield/lazydocker,Go,32
+135516270,k3s-io/k3s,Go,28
+136815833,Dreamacro/clash,Go,17
 107286889,schollz/croc,Go,92
 272035489,greyireland/algorithm-pattern,Go,12
-62712899,AdguardTeam/AdGuardHome,Go,12
+62712899,AdguardTeam/AdGuardHome,Go,14
 116739828,DNSCrypt/dnscrypt-proxy,Go,6
-48643510,pkg/errors,Go,14
+48643510,pkg/errors,Go,13
 53737001,senghoo/golang-design-pattern,Go,10
-311315731,XTLS/Xray-core,Go,22
-154643390,sundowndev/phoneinfoga,Go,15
+311315731,XTLS/Xray-core,Go,21
+154643390,sundowndev/phoneinfoga,Go,14
 140412864,kgretzky/evilginx2,Go,3
 93808874,bxcodec/go-clean-arch,Go,16
 175070907,pion/ion,Go,12
@@ -23,4 +23,4 @@ id,name,lang,new stars
 323965659,Xhofe/alist,Go,2
 191266671,algorand/go-algorand,Go,3
 323212931,projectdiscovery/simplehttpserver,Go,30
-349424954,Sakurasan/scf-proxy,Go,34
+349424954,Sakurasan/scf-proxy,Go,32
