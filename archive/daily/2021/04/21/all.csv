@@ -3,14 +3,14 @@ id,name,lang,new stars
 2325298,torvalds/linux,C,113
 241576270,labuladong/fucking-algorithm,,106
 112507086,30-seconds/30-seconds-of-code,JavaScript,402
-22790488,iluwatar/java-design-patterns,Java,22
-39122628,git-tips/tips,JavaScript,242
+22790488,iluwatar/java-design-patterns,Java,61
+39122628,git-tips/tips,JavaScript,191
 196284711,microsoft/cascadia-code,Python,101
 85541218,ascoders/weekly,JavaScript,191
 34777562,ossrs/srs,C++,48
 214587193,supabase/supabase,TypeScript,134
 262395224,dotnet/maui,C#,220
-100982449,argoproj/argo-workflows,Go,15
+100982449,argoproj/argo-workflows,Go,74
 95114723,nasa/fprime,C++,149
 197018189,wbkd/react-flow,TypeScript,289
 197153676,Chia-Network/chia-blockchain,Python,434
@@ -18,7 +18,7 @@ id,name,lang,new stars
 348651746,chefyuan/algorithm-base,Java,161
 128089774,storj/storj,Go,11
 359153756,flaneur2020/pua-lang,Rust,169
-273354529,981011512/--,Java,125
+273354529,981011512/--,Java,120
 359161975,jdah/tetris-os,C,376
 155636399,tevador/RandomX,C++,15
 344310733,safemoonprotocol/Safemoon.sol,Solidity,28
