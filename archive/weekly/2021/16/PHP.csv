@@ -1,18 +1,18 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,121
-3482588,danielmiessler/SecLists,PHP,134
+3482588,danielmiessler/SecLists,PHP,135
 53783664,easychen/howto-make-more-money,PHP,74
-3431193,yiisoft/yii2,PHP,10
+3431193,yiisoft/yii2,PHP,11
 1305114,roots/sage,PHP,20
 14732311,octobercms/october,PHP,21
-72069409,the-control-group/voyager,PHP,32
+72069409,the-control-group/voyager,PHP,33
 48796179,z-song/laravel-admin,PHP,37
 49014795,phpstan/phpstan,PHP,25
 2884111,magento/magento2,PHP,20
 11340559,deployphp/deployer,PHP,27
 11467667,typecho/typecho,PHP,34
 2179920,woocommerce/woocommerce,PHP,19
-41589337,BookStackApp/BookStack,PHP,54
+41589337,BookStackApp/BookStack,PHP,55
 86350964,the-benchmarker/web-frameworks,PHP,54
 9826184,elastic/elasticsearch-php,PHP,16
 33916850,spatie/laravel-medialibrary,PHP,16
@@ -22,5 +22,5 @@ id,name,lang,new stars
 29501260,api-platform/core,PHP,7
 74026995,CodelyTV/php-ddd-example,PHP,16
 351298555,thedevdojo/wave,PHP,463
-330980599,yanfeizhang/coder-kung-fu,PHP,80
-344332509,wintercms/winter,PHP,91
+330980599,yanfeizhang/coder-kung-fu,PHP,78
+344332509,wintercms/winter,PHP,93
