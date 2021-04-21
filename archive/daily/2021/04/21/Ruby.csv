@@ -1,12 +1,12 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,7
-27442967,fastlane/fastlane,Ruby,5
+27442967,fastlane/fastlane,Ruby,6
 3195124,mperham/sidekiq,Ruby,3
 18486300,lewagon/setup,Ruby,5
-812393,ruby-grape/grape,Ruby,1
+812393,ruby-grape/grape,Ruby,0
 96395,faker-ruby/faker,Ruby,1
 8393,thoughtbot/paperclip,Ruby,0
-202291859,chatwoot/chatwoot,Ruby,13
+202291859,chatwoot/chatwoot,Ruby,15
 611921,activeadmin/activeadmin,Ruby,2
 1333863,kaminari/kaminari,Ruby,2
 6529205,varvet/pundit,Ruby,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,2
 34840276,elastic/ansible-elasticsearch,Ruby,0
 65914086,decidim/decidim,Ruby,2
-95765631,bit4woo/Summit_PPT,Ruby,8
+95765631,bit4woo/Summit_PPT,Ruby,7
 344612911,ginkgobioworks/vaccinetime,Ruby,2
