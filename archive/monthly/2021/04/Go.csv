@@ -1,9 +1,9 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1179
-20904437,gin-gonic/gin,Go,938
-5271882,astaxie/build-web-application-with-golang,Go,348
-11225014,etcd-io/etcd,Go,428
-15452919,ethereum/go-ethereum,Go,681
+20580498,kubernetes/kubernetes,Go,1180
+20904437,gin-gonic/gin,Go,939
+5271882,astaxie/build-web-application-with-golang,Go,347
+11225014,etcd-io/etcd,Go,429
+15452919,ethereum/go-ethereum,Go,678
 41986369,pingcap/tidb,Go,381
 74175805,istio/istio,Go,406
 72495579,go-gitea/gitea,Go,550
@@ -11,16 +11,16 @@ id,name,lang,new stars
 30215630,go-kit/kit,Go,322
 134017286,jesseduffield/lazygit,Go,527
 29217054,asim/go-micro,Go,268
-163883279,nektos/act,Go,1293
+163883279,nektos/act,Go,1292
 165041732,go-kratos/kratos,Go,461
 66573241,hyperledger/fabric,Go,151
 11593442,golang/groupcache,Go,201
-120156076,cloudreve/Cloudreve,Go,454
+120156076,cloudreve/Cloudreve,Go,453
 285864199,tal-tech/go-zero,Go,837
-120896210,argoproj/argo-cd,Go,373
+120896210,argoproj/argo-cd,Go,374
 184490584,GoogleCloudPlatform/terraformer,Go,417
 247032621,go-admin-team/go-admin,Go,212
 93446042,terraform-providers/terraform-provider-azurerm,Go,110
-276822250,oam-dev/kubevela,Go,286
+276822250,oam-dev/kubevela,Go,287
 193681111,filecoin-project/lotus,Go,203
-265775217,binance-chain/bsc,Go,125
+265775217,binance-chain/bsc,Go,126

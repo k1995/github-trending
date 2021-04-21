@@ -1,5 +1,5 @@
 id,name,lang,new stars
-13628513,sirupsen/logrus,Go,12
+13628513,sirupsen/logrus,Go,11
 46806184,helm/charts,Go,6
 163883279,nektos/act,Go,51
 107286889,schollz/croc,Go,57
@@ -12,7 +12,7 @@ id,name,lang,new stars
 66841911,360EntSecGroup-Skylar/excelize,Go,30
 191655189,ent/ent,Go,10
 27576132,aws/aws-sdk-go,Go,2
-48643510,pkg/errors,Go,21
+48643510,pkg/errors,Go,20
 73430589,google/gops,Go,15
 87990209,kubernetes/autoscaler,Go,12
 93808874,bxcodec/go-clean-arch,Go,20
