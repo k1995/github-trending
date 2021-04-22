@@ -1,7 +1,7 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,251
-112507086,30-seconds/30-seconds-of-code,JavaScript,1573
-10744183,netdata/netdata,C,465
+100060912,microsoft/terminal,C++,245
+112507086,30-seconds/30-seconds-of-code,JavaScript,1706
+10744183,netdata/netdata,C,641
 91573538,testerSunshine/12306,Python,331
 23405758,google/leveldb,C++,332
 148736243,qiurunze123/miaosha,Java,375
@@ -13,12 +13,12 @@ id,name,lang,new stars
 197153676,Chia-Network/chia-blockchain,Python,2490
 2724167,ripple/rippled,C++,28
 348651746,chefyuan/algorithm-base,Java,1112
-273214029,PaddlePaddle/PaddleGAN,Python,486
-351432397,microsoft/Swin-Transformer,Python,837
+273214029,PaddlePaddle/PaddleGAN,Python,382
+351432397,microsoft/Swin-Transformer,Python,663
 145050544,ChristianChiarulli/LunarVim,Lua,371
-309512982,vectorizedio/redpanda,C++,85
+309512982,vectorizedio/redpanda,C++,88
 334274271,opensearch-project/OpenSearch,Java,538
-128089774,storj/storj,Go,205
+128089774,storj/storj,Go,256
 327711808,elixir-nx/livebook,Elixir,777
 283873079,openethereum/openethereum,Rust,337
 265775217,binance-chain/bsc,Go,62
