@@ -1,7 +1,7 @@
 id,name,lang,new stars
 5108051,opencv/opencv,C++,28
 23357588,protocolbuffers/protobuf,C++,19
-27729880,grpc/grpc,C++,11
+27729880,grpc/grpc,C++,10
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,12
 108110,mongodb/mongo,C++,10
 19953044,google/flatbuffers,C++,6
@@ -11,9 +11,9 @@ id,name,lang,new stars
 160083795,SerenityOS/serenity,C++,95
 102692863,onnx/onnx,C++,67
 95114723,nasa/fprime,C++,149
-14981376,dogecoin/dogecoin,C++,176
+14981376,dogecoin/dogecoin,C++,164
 24494032,mysql/mysql-server,C++,5
-153866232,TheCherno/Hazel,C++,11
+153866232,TheCherno/Hazel,C++,12
 267649918,hoffstadt/DearPyGui,C++,10
 156939672,microsoft/onnxruntime,C++,8
 31197250,google/glog,C++,6
