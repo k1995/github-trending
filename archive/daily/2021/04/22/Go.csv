@@ -1,13 +1,13 @@
 id,name,lang,new stars
-29261473,minio/minio,Go,29
+29261473,minio/minio,Go,30
 14125254,hashicorp/consul,Go,10
 16563587,cockroachdb/cockroach,Go,10
-134017286,jesseduffield/lazygit,Go,37
+134017286,jesseduffield/lazygit,Go,33
 13628513,sirupsen/logrus,Go,13
-46806184,helm/charts,Go,4
-107286889,schollz/croc,Go,55
+46806184,helm/charts,Go,2
+107286889,schollz/croc,Go,53
 33258973,influxdata/telegraf,Go,5
-72477752,pulumi/pulumi,Go,58
+72477752,pulumi/pulumi,Go,51
 100982449,argoproj/argo-workflows,Go,76
 109162639,thanos-io/thanos,Go,8
 119419195,GoogleContainerTools/kaniko,Go,13
@@ -16,11 +16,11 @@ id,name,lang,new stars
 48643510,pkg/errors,Go,7
 31311037,jpillora/chisel,Go,17
 18950460,concourse/concourse,Go,9
-93808874,bxcodec/go-clean-arch,Go,11
+93808874,bxcodec/go-clean-arch,Go,9
 150713223,kubeedge/kubeedge,Go,3
-325724738,pyroscope-io/pyroscope,Go,26
+325724738,pyroscope-io/pyroscope,Go,35
 16607984,DATA-DOG/go-sqlmock,Go,4
-128089774,storj/storj,Go,101
+128089774,storj/storj,Go,152
 54503347,opencontainers/image-spec,Go,2
 312629343,shadow1ng/fscan,Go,20
 267054247,anchore/grype,Go,10
