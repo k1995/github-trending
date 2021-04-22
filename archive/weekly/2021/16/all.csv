@@ -1,13 +1,13 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,252
+100060912,microsoft/terminal,C++,251
 112507086,30-seconds/30-seconds-of-code,JavaScript,1573
 10744183,netdata/netdata,C,465
 91573538,testerSunshine/12306,Python,331
 23405758,google/leveldb,C++,332
 148736243,qiurunze123/miaosha,Java,375
 67702184,topjohnwu/Magisk,C++,251
-196701619,tauri-apps/tauri,Rust,662
-95114723,nasa/fprime,C++,664
+196701619,tauri-apps/tauri,Rust,624
+95114723,nasa/fprime,C++,687
 14981376,dogecoin/dogecoin,C++,1871
 88327406,xmrig/xmrig,C++,159
 197153676,Chia-Network/chia-blockchain,Python,2422
@@ -17,10 +17,10 @@ id,name,lang,new stars
 351432397,microsoft/Swin-Transformer,Python,837
 145050544,ChristianChiarulli/LunarVim,Lua,371
 309512982,vectorizedio/redpanda,C++,85
-334274271,opensearch-project/OpenSearch,Java,589
+334274271,opensearch-project/OpenSearch,Java,538
 128089774,storj/storj,Go,205
 327711808,elixir-nx/livebook,Elixir,777
-283873079,openethereum/openethereum,Rust,352
+283873079,openethereum/openethereum,Rust,337
 265775217,binance-chain/bsc,Go,62
 344310733,safemoonprotocol/Safemoon.sol,Solidity,117
 319302752,whittlem/pycryptobot,Python,44
