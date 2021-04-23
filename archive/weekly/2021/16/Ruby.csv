@@ -1,12 +1,12 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,60
+65252,jekyll/jekyll,Ruby,61
 7569578,discourse/discourse,Ruby,77
-27442967,fastlane/fastlane,Ruby,42
+27442967,fastlane/fastlane,Ruby,46
 53238813,Homebrew/brew,Ruby,116
-52281283,tootsuite/mastodon,Ruby,48
-2293158,rapid7/metasploit-framework,Ruby,67
+52281283,tootsuite/mastodon,Ruby,49
+2293158,rapid7/metasploit-framework,Ruby,66
 2500088,gitlabhq/gitlabhq,Ruby,17
-3623050,Homebrew/homebrew-cask,Ruby,30
+3623050,Homebrew/homebrew-cask,Ruby,29
 3195124,mperham/sidekiq,Ruby,15
 18486300,lewagon/setup,Ruby,212
 96395,faker-ruby/faker,Ruby,11
@@ -16,11 +16,11 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,7
 30337170,rmosolgo/graphql-ruby,Ruby,8
 43347873,danger/danger,Ruby,13
-30985840,solidusio/solidus,Ruby,33
+30985840,solidusio/solidus,Ruby,37
 14238949,elastic/elasticsearch-rails,Ruby,1
-5144181,jnunemaker/flipper,Ruby,14
-103766152,github/explore,Ruby,16
-93163073,dependabot/dependabot-core,Ruby,27
+5144181,jnunemaker/flipper,Ruby,15
+103766152,github/explore,Ruby,17
+93163073,dependabot/dependabot-core,Ruby,28
 34840276,elastic/ansible-elasticsearch,Ruby,1
 229187949,shivammathur/homebrew-php,Ruby,15
 353607417,hostolab/covidliste,Ruby,29
