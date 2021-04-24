@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,13
-27442967,fastlane/fastlane,Ruby,8
+8514,rails/rails,Ruby,16
+27442967,fastlane/fastlane,Ruby,9
 308770,heartcombo/devise,Ruby,8
-3623050,Homebrew/homebrew-cask,Ruby,5
-538746,ruby/ruby,Ruby,4
-2203645,CocoaPods/CocoaPods,Ruby,4
-1918677,fluent/fluentd,Ruby,4
+3623050,Homebrew/homebrew-cask,Ruby,6
+538746,ruby/ruby,Ruby,5
+2203645,CocoaPods/CocoaPods,Ruby,5
+1918677,fluent/fluentd,Ruby,3
 361310,teamcapybara/capybara,Ruby,1
 96395,faker-ruby/faker,Ruby,2
 8393,thoughtbot/paperclip,Ruby,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,9
 52316423,luggit/react-native-config,Ruby,1
 417862,octokit/octokit.rb,Ruby,0
-229006,mileszs/wicked_pdf,Ruby,2
+229006,mileszs/wicked_pdf,Ruby,3
 93163073,dependabot/dependabot-core,Ruby,5
-34840276,elastic/ansible-elasticsearch,Ruby,1
-80462373,keyvanakbary/learning-notes,Ruby,5
+34840276,elastic/ansible-elasticsearch,Ruby,2
+80462373,keyvanakbary/learning-notes,Ruby,7

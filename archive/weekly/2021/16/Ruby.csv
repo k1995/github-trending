@@ -1,11 +1,11 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,62
+65252,jekyll/jekyll,Ruby,63
 7569578,discourse/discourse,Ruby,83
-27442967,fastlane/fastlane,Ruby,49
-52281283,tootsuite/mastodon,Ruby,51
-2293158,rapid7/metasploit-framework,Ruby,73
+27442967,fastlane/fastlane,Ruby,50
+52281283,tootsuite/mastodon,Ruby,52
+2293158,rapid7/metasploit-framework,Ruby,76
 308770,heartcombo/devise,Ruby,21
-3623050,Homebrew/homebrew-cask,Ruby,29
+3623050,Homebrew/homebrew-cask,Ruby,30
 3195124,mperham/sidekiq,Ruby,16
 18486300,lewagon/setup,Ruby,210
 96395,faker-ruby/faker,Ruby,12
@@ -21,6 +21,6 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,17
 93163073,dependabot/dependabot-core,Ruby,33
 200302808,github/view_component,Ruby,18
-34840276,elastic/ansible-elasticsearch,Ruby,2
+34840276,elastic/ansible-elasticsearch,Ruby,3
 229187949,shivammathur/homebrew-php,Ruby,13
 235342165,okuramasafumi/alba,Ruby,47
