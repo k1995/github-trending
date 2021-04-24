@@ -1,19 +1,19 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,63
-7569578,discourse/discourse,Ruby,83
+65252,jekyll/jekyll,Ruby,65
+7569578,discourse/discourse,Ruby,85
 27442967,fastlane/fastlane,Ruby,50
 52281283,tootsuite/mastodon,Ruby,53
-2293158,rapid7/metasploit-framework,Ruby,77
+2293158,rapid7/metasploit-framework,Ruby,78
 481872,hashicorp/vagrant,Ruby,38
-308770,heartcombo/devise,Ruby,21
-3623050,Homebrew/homebrew-cask,Ruby,30
-538746,ruby/ruby,Ruby,34
+308770,heartcombo/devise,Ruby,22
+3623050,Homebrew/homebrew-cask,Ruby,31
+538746,ruby/ruby,Ruby,35
 3195124,mperham/sidekiq,Ruby,16
 18486300,lewagon/setup,Ruby,210
 96395,faker-ruby/faker,Ruby,12
-52855516,Homebrew/homebrew-core,Ruby,40
+52855516,Homebrew/homebrew-core,Ruby,43
 21829,thoughtbot/factory_bot,Ruby,8
-2441517,puma/puma,Ruby,6
+2441517,puma/puma,Ruby,7
 108278,chef/chef,Ruby,7
 355893,github/markup,Ruby,10
 75785147,rails/webpacker,Ruby,7
@@ -23,4 +23,4 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,33
 9831101,elastic/elasticsearch-ruby,Ruby,2
 34840276,elastic/ansible-elasticsearch,Ruby,3
-235342165,okuramasafumi/alba,Ruby,47
+235342165,okuramasafumi/alba,Ruby,49
