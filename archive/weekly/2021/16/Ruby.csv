@@ -1,12 +1,13 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,66
-7569578,discourse/discourse,Ruby,90
-27442967,fastlane/fastlane,Ruby,53
-52281283,tootsuite/mastodon,Ruby,53
-2293158,rapid7/metasploit-framework,Ruby,74
-481872,hashicorp/vagrant,Ruby,34
+65252,jekyll/jekyll,Ruby,70
+7569578,discourse/discourse,Ruby,91
+27442967,fastlane/fastlane,Ruby,54
+53238813,Homebrew/brew,Ruby,124
+52281283,tootsuite/mastodon,Ruby,54
+2293158,rapid7/metasploit-framework,Ruby,76
+481872,hashicorp/vagrant,Ruby,36
 308770,heartcombo/devise,Ruby,22
-3623050,Homebrew/homebrew-cask,Ruby,33
+3623050,Homebrew/homebrew-cask,Ruby,34
 538746,ruby/ruby,Ruby,35
 3195124,mperham/sidekiq,Ruby,17
 18486300,lewagon/setup,Ruby,211
@@ -15,12 +16,11 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,9
 2441517,puma/puma,Ruby,7
 108278,chef/chef,Ruby,8
-355893,github/markup,Ruby,11
 75785147,rails/webpacker,Ruby,7
-43347873,danger/danger,Ruby,13
+32841259,dtan4/terraforming,Ruby,16
 30985840,solidusio/solidus,Ruby,47
 5144181,jnunemaker/flipper,Ruby,17
-93163073,dependabot/dependabot-core,Ruby,33
+93163073,dependabot/dependabot-core,Ruby,34
 9831101,elastic/elasticsearch-ruby,Ruby,2
 34840276,elastic/ansible-elasticsearch,Ruby,2
 235342165,okuramasafumi/alba,Ruby,38
