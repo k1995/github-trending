@@ -1,10 +1,10 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,65
-7569578,discourse/discourse,Ruby,87
-27442967,fastlane/fastlane,Ruby,52
+65252,jekyll/jekyll,Ruby,66
+7569578,discourse/discourse,Ruby,90
+27442967,fastlane/fastlane,Ruby,53
 52281283,tootsuite/mastodon,Ruby,53
-2293158,rapid7/metasploit-framework,Ruby,72
-481872,hashicorp/vagrant,Ruby,33
+2293158,rapid7/metasploit-framework,Ruby,74
+481872,hashicorp/vagrant,Ruby,34
 308770,heartcombo/devise,Ruby,22
 3623050,Homebrew/homebrew-cask,Ruby,33
 538746,ruby/ruby,Ruby,35
@@ -12,14 +12,14 @@ id,name,lang,new stars
 18486300,lewagon/setup,Ruby,211
 96395,faker-ruby/faker,Ruby,12
 52855516,Homebrew/homebrew-core,Ruby,42
-21829,thoughtbot/factory_bot,Ruby,8
+21829,thoughtbot/factory_bot,Ruby,9
 2441517,puma/puma,Ruby,7
 108278,chef/chef,Ruby,8
 355893,github/markup,Ruby,11
 75785147,rails/webpacker,Ruby,7
 43347873,danger/danger,Ruby,13
 30985840,solidusio/solidus,Ruby,47
-5144181,jnunemaker/flipper,Ruby,16
+5144181,jnunemaker/flipper,Ruby,17
 93163073,dependabot/dependabot-core,Ruby,33
 9831101,elastic/elasticsearch-ruby,Ruby,2
 34840276,elastic/ansible-elasticsearch,Ruby,2

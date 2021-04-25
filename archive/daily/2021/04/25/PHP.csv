@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,23
+3482588,danielmiessler/SecLists,PHP,26
 458058,symfony/symfony,PHP,6
 2253830,PHPMailer/PHPMailer,PHP,12
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,4
@@ -8,9 +8,9 @@ id,name,lang,new stars
 2699935,squizlabs/PHP_CodeSniffer,PHP,4
 622166,FriendsOfPHP/Goutte,PHP,2
 6660366,dompdf/dompdf,PHP,5
-12166778,googleapis/google-api-php-client,PHP,1
+12166778,googleapis/google-api-php-client,PHP,2
 2141186,opencart/opencart,PHP,1
-6763587,PrestaShop/PrestaShop,PHP,336
+6763587,PrestaShop/PrestaShop,PHP,379
 4242230,PHPOffice/PHPWord,PHP,0
 12204147,mautic/mautic,PHP,1
 97311017,rectorphp/rector,PHP,4
@@ -18,9 +18,9 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,3
 148129143,bagisto/bagisto,PHP,2
 10855394,itsgoingd/clockwork,PHP,8
-119047018,linuxserver/Heimdall,PHP,24
+119047018,linuxserver/Heimdall,PHP,25
 56836583,postaddictme/instagram-php-scraper,PHP,1
-73781385,orchidsoftware/platform,PHP,4
+73781385,orchidsoftware/platform,PHP,6
 15231212,Automattic/jetpack,PHP,0
 27933349,ludumdare/ludumdare,PHP,2
 355514216,livewire-ui/spotlight,PHP,25

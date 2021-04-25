@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,122
+1863329,laravel/laravel,PHP,123
 458058,symfony/symfony,PHP,36
-53783664,easychen/howto-make-more-money,PHP,44
-1305114,roots/sage,PHP,20
+53783664,easychen/howto-make-more-money,PHP,47
+1305114,roots/sage,PHP,21
 14732311,octobercms/october,PHP,7
 49014795,phpstan/phpstan,PHP,22
 2884111,magento/magento2,PHP,22
 79111500,jupeter/clean-code-php,PHP,30
 2699935,squizlabs/PHP_CodeSniffer,PHP,15
-11340559,deployphp/deployer,PHP,24
+11340559,deployphp/deployer,PHP,25
 41589337,BookStackApp/BookStack,PHP,47
-16238673,kanboard/kanboard,PHP,28
-6763587,PrestaShop/PrestaShop,PHP,342
+6763587,PrestaShop/PrestaShop,PHP,387
+16238673,kanboard/kanboard,PHP,30
 10371103,Laravel-Lang/lang,PHP,21
 4242230,PHPOffice/PHPWord,PHP,7
 9131292,jenssegers/laravel-mongodb,PHP,19
@@ -19,8 +19,8 @@ id,name,lang,new stars
 95011974,akaunting/akaunting,PHP,31
 60010673,elementor/elementor,PHP,16
 159606650,hyperf/hyperf,PHP,29
-439861,moodle/moodle,PHP,19
+439861,moodle/moodle,PHP,22
 13914116,librenms/librenms,PHP,12
 29501260,api-platform/core,PHP,7
 96090745,ambionics/phpggc,PHP,17
-344332509,wintercms/winter,PHP,146
+344332509,wintercms/winter,PHP,149
