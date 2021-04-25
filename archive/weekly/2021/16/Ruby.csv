@@ -1,17 +1,17 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,63
+65252,jekyll/jekyll,Ruby,65
 7569578,discourse/discourse,Ruby,87
 27442967,fastlane/fastlane,Ruby,52
-52281283,tootsuite/mastodon,Ruby,49
+52281283,tootsuite/mastodon,Ruby,53
 2293158,rapid7/metasploit-framework,Ruby,72
 481872,hashicorp/vagrant,Ruby,33
-308770,heartcombo/devise,Ruby,21
-3623050,Homebrew/homebrew-cask,Ruby,31
-538746,ruby/ruby,Ruby,34
+308770,heartcombo/devise,Ruby,22
+3623050,Homebrew/homebrew-cask,Ruby,33
+538746,ruby/ruby,Ruby,35
 3195124,mperham/sidekiq,Ruby,17
 18486300,lewagon/setup,Ruby,211
 96395,faker-ruby/faker,Ruby,12
-52855516,Homebrew/homebrew-core,Ruby,41
+52855516,Homebrew/homebrew-core,Ruby,42
 21829,thoughtbot/factory_bot,Ruby,8
 2441517,puma/puma,Ruby,7
 108278,chef/chef,Ruby,8

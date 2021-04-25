@@ -1,20 +1,20 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,23
 458058,symfony/symfony,PHP,6
-2253830,PHPMailer/PHPMailer,PHP,9
+2253830,PHPMailer/PHPMailer,PHP,12
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,4
-61490598,PHPOffice/PhpSpreadsheet,PHP,1
+61490598,PHPOffice/PhpSpreadsheet,PHP,2
 2884111,magento/magento2,PHP,4
 2699935,squizlabs/PHP_CodeSniffer,PHP,4
 622166,FriendsOfPHP/Goutte,PHP,2
 6660366,dompdf/dompdf,PHP,5
 12166778,googleapis/google-api-php-client,PHP,1
 2141186,opencart/opencart,PHP,1
-6763587,PrestaShop/PrestaShop,PHP,292
+6763587,PrestaShop/PrestaShop,PHP,336
 4242230,PHPOffice/PHPWord,PHP,0
 12204147,mautic/mautic,PHP,1
 97311017,rectorphp/rector,PHP,4
-60010673,elementor/elementor,PHP,6
+60010673,elementor/elementor,PHP,7
 159606650,hyperf/hyperf,PHP,3
 148129143,bagisto/bagisto,PHP,2
 10855394,itsgoingd/clockwork,PHP,8
