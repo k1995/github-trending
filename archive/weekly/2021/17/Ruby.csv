@@ -1,10 +1,10 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,69
-7569578,discourse/discourse,Ruby,89
+65252,jekyll/jekyll,Ruby,70
+7569578,discourse/discourse,Ruby,92
 27442967,fastlane/fastlane,Ruby,56
-53238813,Homebrew/brew,Ruby,125
-52281283,tootsuite/mastodon,Ruby,53
-2293158,rapid7/metasploit-framework,Ruby,76
+53238813,Homebrew/brew,Ruby,126
+52281283,tootsuite/mastodon,Ruby,54
+2293158,rapid7/metasploit-framework,Ruby,80
 481872,hashicorp/vagrant,Ruby,35
 308770,heartcombo/devise,Ruby,23
 3623050,Homebrew/homebrew-cask,Ruby,36
@@ -16,9 +16,9 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,9
 2441517,puma/puma,Ruby,7
 108278,chef/chef,Ruby,8
-75785147,rails/webpacker,Ruby,8
+75785147,rails/webpacker,Ruby,9
 32841259,dtan4/terraforming,Ruby,16
-30985840,solidusio/solidus,Ruby,47
+30985840,solidusio/solidus,Ruby,48
 5144181,jnunemaker/flipper,Ruby,16
 93163073,dependabot/dependabot-core,Ruby,34
 9831101,elastic/elasticsearch-ruby,Ruby,2
