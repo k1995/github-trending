@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,15
+1863329,laravel/laravel,PHP,16
 3482588,danielmiessler/SecLists,PHP,25
-458058,symfony/symfony,PHP,1
+458058,symfony/symfony,PHP,2
 60243197,nextcloud/server,PHP,11
-11323319,erusev/parsedown,PHP,6
-82238168,monicahq/monica,PHP,12
-47495360,koel/koel,PHP,2
-1280180,phacility/phabricator,PHP,4
-6763587,PrestaShop/PrestaShop,PHP,12
+11323319,erusev/parsedown,PHP,5
+82238168,monicahq/monica,PHP,10
+47495360,koel/koel,PHP,1
+1280180,phacility/phabricator,PHP,3
+6763587,PrestaShop/PrestaShop,PHP,11
 86350964,the-benchmarker/web-frameworks,PHP,12
 30171828,rappasoft/laravel-boilerplate,PHP,4
 76064827,mailcow/mailcow-dockerized,PHP,4
@@ -15,12 +15,12 @@ id,name,lang,new stars
 10855394,itsgoingd/clockwork,PHP,4
 119047018,linuxserver/Heimdall,PHP,23
 47508644,pterodactyl/panel,PHP,5
-232390,vanilla/vanilla,PHP,3
+232390,vanilla/vanilla,PHP,4
 57961433,openmediavault/openmediavault,PHP,2
 73781385,orchidsoftware/platform,PHP,5
 129852395,assimon/dujiaoka,PHP,2
-57463067,AzuraCast/AzuraCast,PHP,2
+57463067,AzuraCast/AzuraCast,PHP,3
 27933349,ludumdare/ludumdare,PHP,0
 344332509,wintercms/winter,PHP,56
 281640234,5ime/video_spider,PHP,6
-274059991,passwalls/mark,PHP,5
+274059991,passwalls/mark,PHP,4
