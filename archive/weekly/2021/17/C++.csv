@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,426
+1181927,bitcoin/bitcoin,C++,428
 39840932,google/googletest,C++,219
 67702184,topjohnwu/Magisk,C++,234
-74660642,taichi-dev/taichi,C++,1160
+74660642,taichi-dev/taichi,C++,1161
 191820100,google/mediapipe,C++,142
-34777562,ossrs/srs,C++,377
-197275130,microsoft/winget-cli,C++,108
+34777562,ossrs/srs,C++,378
+197275130,microsoft/winget-cli,C++,110
 17391973,Tencent/rapidjson,C++,47
-160083795,SerenityOS/serenity,C++,410
+160083795,SerenityOS/serenity,C++,411
 40892817,ethereum/solidity,C++,103
-95114723,nasa/fprime,C++,880
-14981376,dogecoin/dogecoin,C++,1092
+95114723,nasa/fprime,C++,881
+14981376,dogecoin/dogecoin,C++,1093
 153866232,TheCherno/Hazel,C++,51
 88327406,xmrig/xmrig,C++,143
 156939672,microsoft/onnxruntime,C++,56
@@ -22,5 +22,5 @@ id,name,lang,new stars
 19347340,nanocurrency/nano-node,C++,46
 161376600,flashlight/flashlight,C++,608
 99919302,apache/incubator-doris,C++,39
-309512982,vectorizedio/redpanda,C++,100
+309512982,vectorizedio/redpanda,C++,101
 223904726,wang-xinyu/tensorrtx,C++,56
