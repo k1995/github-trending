@@ -1,15 +1,15 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,574
-3482588,danielmiessler/SecLists,PHP,599
+3482588,danielmiessler/SecLists,PHP,605
 458058,symfony/symfony,PHP,334
 7548986,laravel/framework,PHP,239
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,124
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,126
 448045,sebastianbergmann/phpunit,PHP,354
-2253830,PHPMailer/PHPMailer,PHP,184
+2253830,PHPMailer/PHPMailer,PHP,185
 2889328,WordPress/WordPress,PHP,118
 53783664,easychen/howto-make-more-money,PHP,203
 82238168,monicahq/monica,PHP,262
-72069409,the-control-group/voyager,PHP,108
+72069409,the-control-group/voyager,PHP,109
 29843361,w7corp/easywechat,PHP,45
 11340559,deployphp/deployer,PHP,109
 12166778,googleapis/google-api-php-client,PHP,62
@@ -19,7 +19,7 @@ id,name,lang,new stars
 9791525,digininja/DVWA,PHP,93
 33916850,spatie/laravel-medialibrary,PHP,53
 222873550,bytefury/crater,PHP,114
-1543827,moneyphp/money,PHP,70
+1543827,moneyphp/money,PHP,71
 4380514,Audi-1/sqli-labs,PHP,55
 44733816,privacy-protection-tools/anti-AD,PHP,301
 12895187,laravelio/laravel.io,PHP,39
