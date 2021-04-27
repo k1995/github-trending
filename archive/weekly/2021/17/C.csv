@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1111
-10744183,netdata/netdata,C,1130
-156018,redis/redis,C,156
-111583593,Genymobile/scrcpy,C,352
+2325298,torvalds/linux,C,1109
+10744183,netdata/netdata,C,1131
+156018,redis/redis,C,154
+111583593,Genymobile/scrcpy,C,355
 14812739,libuv/libuv,C,66
-6201092,mpv-player/mpv,C,198
-15337142,micropython/micropython,C,48
+6201092,mpv-player/mpv,C,197
+15337142,micropython/micropython,C,47
 66150122,jarun/nnn,C,328
 613829,openresty/lua-nginx-module,C,26
 65899476,espressif/esp-idf,C,41
@@ -15,12 +15,12 @@ id,name,lang,new stars
 241659610,OpenIntelWireless/itlwm,C,81
 212152900,wasm3/wasm3,C,108
 6687936,ARMmbed/mbedtls,C,19
-2359378,madler/zlib,C,18
-29933948,fluent/fluent-bit,C,12
+2359378,madler/zlib,C,19
+29933948,fluent/fluent-bit,C,10
 213916896,blender/blender,C,68
 6860771,hathach/tinyusb,C,30
 287706896,Tencent/puerts,C,104
-257113637,jdah/minecraft-weekend,C,131
+257113637,jdah/minecraft-weekend,C,134
 96348842,DPDK/dpdk,C,21
 330399283,emikulic/darkhttpd,C,147
 97960048,aliakseis/LIII,C,84
