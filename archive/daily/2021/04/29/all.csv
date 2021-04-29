@@ -3,11 +3,11 @@ id,name,lang,new stars
 126577260,trekhleb/javascript-algorithms,JavaScript,443
 63476337,TheAlgorithms/Python,Python,486
 123458551,jackfrued/Python-100-Days,Python,175
-74791366,ryanmcdermott/clean-code-javascript,JavaScript,182
+74791366,ryanmcdermott/clean-code-javascript,JavaScript,116
 88011908,tuvtran/project-based-learning,,222
 3638964,ansible/ansible,Python,17
 67962648,vuetifyjs/vuetify,TypeScript,16
-102969245,golang-standards/project-layout,Makefile,84
+102969245,golang-standards/project-layout,Makefile,117
 71583602,Developer-Y/cs-video-courses,,162
 131789494,wuyouzhuguli/SpringAll,Java,20
 7634677,openssl/openssl,C,16
@@ -17,8 +17,8 @@ id,name,lang,new stars
 149001365,doocs/leetcode,Java,160
 93446042,terraform-providers/terraform-provider-azurerm,Go,4
 357272600,nextapps-de/winbox,JavaScript,671
-259766919,johnBuffer/AntSimulator,C++,23
 286488508,chrisleekr/binance-trading-bot,JavaScript,236
+259766919,johnBuffer/AntSimulator,C++,23
 252826419,Unity-Technologies/Graphics,C#,4
 359426372,nekohasekai/SagerNet,Kotlin,157
 360812857,airbus-seclab/qemu_blog,,126
