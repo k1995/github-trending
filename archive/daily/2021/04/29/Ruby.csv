@@ -1,10 +1,10 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,5
-27442967,fastlane/fastlane,Ruby,6
+65252,jekyll/jekyll,Ruby,8
+27442967,fastlane/fastlane,Ruby,5
 53238813,Homebrew/brew,Ruby,14
-1090311,elastic/logstash,Ruby,4
-4095287,rubocop/rubocop,Ruby,2
-3314,spree/spree,Ruby,2
+1090311,elastic/logstash,Ruby,2
+4095287,rubocop/rubocop,Ruby,1
+3314,spree/spree,Ruby,1
 11423758,mame/quine-relay,Ruby,4
 96395,faker-ruby/faker,Ruby,1
 611921,activeadmin/activeadmin,Ruby,0
@@ -13,14 +13,14 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,0
 108278,chef/chef,Ruby,2
 2889230,rails-api/active_model_serializers,Ruby,0
-2802565,doorkeeper-gem/doorkeeper,Ruby,0
+2802565,doorkeeper-gem/doorkeeper,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,3
 14238949,elastic/elasticsearch-rails,Ruby,0
 3898922,zammad/zammad,Ruby,3
-103766152,github/explore,Ruby,3
+103766152,github/explore,Ruby,2
 189010173,Hackplayers/evil-winrm,Ruby,2
 2704356,zquestz/omniauth-google-oauth2,Ruby,1
-29151578,rswag/rswag,Ruby,3
-79618507,fluent/fluentd-kubernetes-daemonset,Ruby,1
-353607417,hostolab/covidliste,Ruby,9
+29151578,rswag/rswag,Ruby,2
+79618507,fluent/fluentd-kubernetes-daemonset,Ruby,0
+353607417,hostolab/covidliste,Ruby,7
 362095427,scala-open-letter/scala-open-letter.github.io,Ruby,13
