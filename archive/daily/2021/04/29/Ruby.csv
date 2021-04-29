@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8681349,huginn/huginn,Ruby,15
-2293158,rapid7/metasploit-framework,Ruby,9
-538746,ruby/ruby,Ruby,5
+2293158,rapid7/metasploit-framework,Ruby,12
+538746,ruby/ruby,Ruby,4
 2203645,CocoaPods/CocoaPods,Ruby,2
 4095287,rubocop/rubocop,Ruby,2
 3195124,mperham/sidekiq,Ruby,1
 1918677,fluent/fluentd,Ruby,3
-96395,faker-ruby/faker,Ruby,1
-52855516,Homebrew/homebrew-core,Ruby,5
+96395,faker-ruby/faker,Ruby,2
+52855516,Homebrew/homebrew-core,Ruby,7
 1333863,kaminari/kaminari,Ruby,1
 451035,heartcombo/simple_form,Ruby,0
 810796,sferik/rails_admin,Ruby,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 3277842,googleapis/google-api-ruby-client,Ruby,0
 41571541,inspec/inspec,Ruby,0
 189010173,Hackplayers/evil-winrm,Ruby,2
-29151578,rswag/rswag,Ruby,4
-353607417,hostolab/covidliste,Ruby,8
+29151578,rswag/rswag,Ruby,3
+353607417,hostolab/covidliste,Ruby,9

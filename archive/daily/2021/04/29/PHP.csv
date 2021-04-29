@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1864363,composer/composer,PHP,7
-7548986,laravel/framework,PHP,15
-1420053,guzzle/guzzle,PHP,6
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,3
-2253830,PHPMailer/PHPMailer,PHP,7
-1631570,nikic/PHP-Parser,PHP,6
-12615154,barryvdh/laravel-debugbar,PHP,3
+1864363,composer/composer,PHP,6
+7548986,laravel/framework,PHP,14
+1420053,guzzle/guzzle,PHP,7
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,2
+2253830,PHPMailer/PHPMailer,PHP,6
+1631570,nikic/PHP-Parser,PHP,8
+12615154,barryvdh/laravel-debugbar,PHP,4
 48796179,z-song/laravel-admin,PHP,2
 56728437,docker/labs,PHP,3
 137515,mockery/mockery,PHP,3
@@ -17,10 +17,10 @@ id,name,lang,new stars
 6269013,aws/aws-sdk-php,PHP,2
 14346979,snipe/snipe-it,PHP,4
 10883164,barryvdh/laravel-dompdf,PHP,3
-9826184,elastic/elasticsearch-php,PHP,0
-3817881,zircote/swagger-php,PHP,5
-52596904,teamtnt/tntsearch,PHP,4
-69691727,pmmp/PocketMine-MP,PHP,1
+9826184,elastic/elasticsearch-php,PHP,1
+3817881,zircote/swagger-php,PHP,6
+52596904,teamtnt/tntsearch,PHP,5
+69691727,pmmp/PocketMine-MP,PHP,3
 5367323,akeneo/pim-community-dev,PHP,1
-360546768,spatie/fork,PHP,25
+360546768,spatie/fork,PHP,28
 184538454,yankovalenko94/Webdev2019,PHP,0
