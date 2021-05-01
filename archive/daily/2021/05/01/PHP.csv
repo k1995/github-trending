@@ -1,6 +1,6 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,8
-7548986,laravel/framework,PHP,12
+458058,symfony/symfony,PHP,4
+7548986,laravel/framework,PHP,10
 1376664,Seldaek/monolog,PHP,1
 448045,sebastianbergmann/phpunit,PHP,4
 2253830,PHPMailer/PHPMailer,PHP,8
@@ -9,18 +9,18 @@ id,name,lang,new stars
 72069409,the-control-group/voyager,PHP,4
 10157178,egulias/EmailValidator,PHP,1
 61490598,PHPOffice/PhpSpreadsheet,PHP,3
-49014795,phpstan/phpstan,PHP,3
+49014795,phpstan/phpstan,PHP,2
 597887,doctrine/orm,PHP,0
-10371103,Laravel-Lang/lang,PHP,3
+10371103,Laravel-Lang/lang,PHP,5
 9826184,elastic/elasticsearch-php,PHP,1
 39149031,webonyx/graphql-php,PHP,2
 222873550,bytefury/crater,PHP,8
 31595609,mpdf/mpdf,PHP,3
-1953386,stripe/stripe-php,PHP,5
-13914116,librenms/librenms,PHP,5
+1953386,stripe/stripe-php,PHP,4
+13914116,librenms/librenms,PHP,4
 96284790,prasathmani/tinyfilemanager,PHP,3
 29501260,api-platform/core,PHP,1
-311448648,laravel/breeze,PHP,7
+311448648,laravel/breeze,PHP,6
 141720301,dr5hn/countries-states-cities-database,PHP,3
-351298555,thedevdojo/wave,PHP,18
-359575407,Wulfheart/pretty-routes,PHP,138
+351298555,thedevdojo/wave,PHP,20
+359575407,Wulfheart/pretty-routes,PHP,42
