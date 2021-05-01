@@ -1,6 +1,6 @@
 id,name,lang,new stars
-61137153,evanw/esbuild,Go,310
-16607898,drone/drone,Go,152
+61137153,evanw/esbuild,Go,312
+16607898,drone/drone,Go,153
 12574344,spf13/cobra,Go,108
 31288958,hashicorp/vault,Go,52
 6051812,gorilla/mux,Go,64
@@ -8,19 +8,19 @@ id,name,lang,new stars
 33352201,grpc-ecosystem/grpc-gateway,Go,62
 109162639,thanos-io/thanos,Go,63
 119190187,zricethezav/gitleaks,Go,53
-62712899,AdguardTeam/AdGuardHome,Go,93
-191655189,ent/ent,Go,81
-180687624,aquasecurity/trivy,Go,81
+62712899,AdguardTeam/AdGuardHome,Go,96
+191655189,ent/ent,Go,82
+180687624,aquasecurity/trivy,Go,82
 19537979,TykTechnologies/tyk,Go,33
-208728772,milvus-io/milvus,Go,69
+208728772,milvus-io/milvus,Go,70
 130430977,kubesphere/kubesphere,Go,88
 95761244,gogf/gf,Go,86
 14128006,hashicorp/raft,Go,114
 175192867,chaosblade-io/chaosblade,Go,40
 244694886,didi/nightingale,Go,55
-354015172,RH12503/triangula,Go,1532
+354015172,RH12503/triangula,Go,1535
 117156031,prysmaticlabs/prysm,Go,22
 203927039,xinliangnote/go-gin-api,Go,556
 312629343,shadow1ng/fscan,Go,178
-134344706,harmony-one/harmony,Go,740
+134344706,harmony-one/harmony,Go,741
 306171501,shipa-corp/ketch,Go,106
