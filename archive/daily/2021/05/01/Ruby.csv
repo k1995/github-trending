@@ -1,12 +1,12 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,8
+7569578,discourse/discourse,Ruby,10
 2203645,CocoaPods/CocoaPods,Ruby,1
-1090311,elastic/logstash,Ruby,0
+1090311,elastic/logstash,Ruby,1
 4095287,rubocop/rubocop,Ruby,2
 3195124,mperham/sidekiq,Ruby,5
 1217404,jordansissel/fpm,Ruby,1
 202291859,chatwoot/chatwoot,Ruby,15
-611921,activeadmin/activeadmin,Ruby,1
+611921,activeadmin/activeadmin,Ruby,2
 451035,heartcombo/simple_form,Ruby,0
 810796,sferik/rails_admin,Ruby,0
 6529205,varvet/pundit,Ruby,0
@@ -17,7 +17,7 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,3
 1172597,thoughtbot/shoulda-matchers,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,3
-1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,1
+1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,2
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,2
 644899,onelogin/ruby-saml,Ruby,2
 237796058,UnlyEd/next-right-now,Ruby,4
