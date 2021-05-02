@@ -1,19 +1,19 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,98
+45717250,tensorflow/tensorflow,C++,103
 74627617,commaai/openpilot,C++,601
 19953044,google/flatbuffers,C++,10
-87335980,EOSIO/eos,C++,3
-2200856,MarlinFirmware/Marlin,C++,10
-143455116,google/filament,C++,7
+87335980,EOSIO/eos,C++,5
+2200856,MarlinFirmware/Marlin,C++,11
+143455116,google/filament,C++,8
 114187903,apple/foundationdb,C++,2
 102692863,onnx/onnx,C++,4
-192025001,Qv2ray/Qv2ray,C++,55
+192025001,Qv2ray/Qv2ray,C++,57
 38581626,pybind/pybind11,C++,5
 4454793,musescore/MuseScore,C++,19
 131236938,an-tao/drogon,C++,16
 153866232,TheCherno/Hazel,C++,14
 14303048,mamedev/mame,C++,6
-17381605,google/snappy,C++,9
+17381605,google/snappy,C++,10
 1690480,qgis/QGIS,C++,7
 2724167,ripple/rippled,C++,9
 161376600,flashlight/flashlight,C++,176
@@ -21,6 +21,6 @@ id,name,lang,new stars
 10726510,boostorg/beast,C++,3
 39283837,HowardHinnant/date,C++,3
 153097643,openvinotoolkit/openvino,C++,4
-14983921,srsran/srsRAN,C++,4
+14983921,srsran/srsRAN,C++,5
 259766919,johnBuffer/AntSimulator,C++,42
-362595794,xinbailu/DripLoader,C++,63
+362595794,xinbailu/DripLoader,C++,65

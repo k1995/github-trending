@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,19
-7569578,discourse/discourse,Ruby,18
+8514,rails/rails,Ruby,20
+7569578,discourse/discourse,Ruby,19
 27442967,fastlane/fastlane,Ruby,9
-13840241,freeCodeCamp/devdocs,Ruby,19
+13840241,freeCodeCamp/devdocs,Ruby,21
 308770,heartcombo/devise,Ruby,5
-538746,ruby/ruby,Ruby,8
+538746,ruby/ruby,Ruby,9
 73648678,forem/forem,Ruby,15
-2203645,CocoaPods/CocoaPods,Ruby,2
+2203645,CocoaPods/CocoaPods,Ruby,3
 4095287,rubocop/rubocop,Ruby,3
-3314,spree/spree,Ruby,4
+3314,spree/spree,Ruby,6
 3195124,mperham/sidekiq,Ruby,8
 1918677,fluent/fluentd,Ruby,6
 96395,faker-ruby/faker,Ruby,6
-202291859,chatwoot/chatwoot,Ruby,20
+202291859,chatwoot/chatwoot,Ruby,21
 15435,Shopify/liquid,Ruby,4
 21829,thoughtbot/factory_bot,Ruby,4
 910744,puppetlabs/puppet,Ruby,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,5
 93163073,dependabot/dependabot-core,Ruby,5
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,3
-361853688,amancevice/yake,Ruby,22
+361853688,amancevice/yake,Ruby,23

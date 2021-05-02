@@ -1,16 +1,16 @@
 id,name,lang,new stars
-102578345,coolsnowwolf/lede,C,31
-7634677,openssl/openssl,C,72
-29759715,facebook/zstd,C,28
-15337142,micropython/micropython,C,14
-34921116,iovisor/bcc,C,12
+102578345,coolsnowwolf/lede,C,33
+7634677,openssl/openssl,C,76
+29759715,facebook/zstd,C,30
+15337142,micropython/micropython,C,17
+34921116,iovisor/bcc,C,13
 16096528,AudioKit/AudioKit,C,8
-179354282,acidanthera/OpenCorePkg,C,27
-70127218,espressif/arduino-esp32,C,14
-1979797,FreeRDP/FreeRDP,C,6
-6376337,pocoproject/poco,C,4
-105944401,yugabyte/yugabyte-db,C,7
-215973962,DoctorWkt/acwj,C,69
+179354282,acidanthera/OpenCorePkg,C,28
+70127218,espressif/arduino-esp32,C,16
+1979797,FreeRDP/FreeRDP,C,5
+6376337,pocoproject/poco,C,6
+105944401,yugabyte/yugabyte-db,C,8
+215973962,DoctorWkt/acwj,C,71
 5383731,qemu/qemu,C,22
 32921736,audacity/audacity,C,37
 21287076,aws/s2n-tls,C,3

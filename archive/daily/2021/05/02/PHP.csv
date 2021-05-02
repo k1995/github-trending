@@ -1,6 +1,6 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,7
-458058,symfony/symfony,PHP,11
+458058,symfony/symfony,PHP,13
 7548986,laravel/framework,PHP,16
 2253830,PHPMailer/PHPMailer,PHP,14
 13899674,thephpleague/flysystem,PHP,2
@@ -8,19 +8,19 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,3
 79111500,jupeter/clean-code-php,PHP,11
 41589337,BookStackApp/BookStack,PHP,10
-222873550,bytefury/crater,PHP,12
+222873550,bytefury/crater,PHP,13
 105197315,nunomaduro/collision,PHP,5
-19386515,spatie/browsershot,PHP,0
+19386515,spatie/browsershot,PHP,1
 18842338,facebookarchive/php-graph-sdk,PHP,2
-38200433,jeroennoten/Laravel-AdminLTE,PHP,7
+38200433,jeroennoten/Laravel-AdminLTE,PHP,8
 139191005,nunomaduro/larastan,PHP,3
 96284790,prasathmani/tinyfilemanager,PHP,9
 29501260,api-platform/core,PHP,3
 166299071,stancl/tenancy,PHP,6
-153632216,spatie/data-transfer-object,PHP,17
-351298555,thedevdojo/wave,PHP,248
+153632216,spatie/data-transfer-object,PHP,19
+351298555,thedevdojo/wave,PHP,266
 174021137,inertiajs/pingcrm,PHP,6
 359575407,Wulfheart/pretty-routes,PHP,63
 360546768,spatie/fork,PHP,68
 353093114,livewire-ui/modal,PHP,12
-282608662,GemGeorge/SniperPhish,PHP,30
+282608662,GemGeorge/SniperPhish,PHP,31
