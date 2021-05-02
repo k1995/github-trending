@@ -1,10 +1,10 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,192
-458058,symfony/symfony,PHP,38
+3482588,danielmiessler/SecLists,PHP,193
+458058,symfony/symfony,PHP,39
 7548986,laravel/framework,PHP,72
 53783664,easychen/howto-make-more-money,PHP,55
-1631570,nikic/PHP-Parser,PHP,32
-11323319,erusev/parsedown,PHP,21
+1631570,nikic/PHP-Parser,PHP,33
+11323319,erusev/parsedown,PHP,22
 82238168,monicahq/monica,PHP,43
 48796179,z-song/laravel-admin,PHP,27
 2884111,magento/magento2,PHP,17
@@ -12,7 +12,7 @@ id,name,lang,new stars
 31295421,guzzle/psr7,PHP,20
 41589337,BookStackApp/BookStack,PHP,39
 6763587,PrestaShop/PrestaShop,PHP,426
-86350964,the-benchmarker/web-frameworks,PHP,95
+86350964,the-benchmarker/web-frameworks,PHP,96
 4242230,PHPOffice/PHPWord,PHP,13
 9826184,elastic/elasticsearch-php,PHP,8
 119047018,linuxserver/Heimdall,PHP,83
@@ -21,6 +21,6 @@ id,name,lang,new stars
 29501260,api-platform/core,PHP,12
 27965134,opnsense/core,PHP,20
 61838413,danog/MadelineProto,PHP,15
-344332509,wintercms/winter,PHP,203
+344332509,wintercms/winter,PHP,204
 353093114,livewire-ui/modal,PHP,47
 345645932,noob-hackers/spamx,PHP,29

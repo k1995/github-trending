@@ -1,7 +1,7 @@
 id,name,lang,new stars
-102578345,coolsnowwolf/lede,C,30
+102578345,coolsnowwolf/lede,C,31
 7634677,openssl/openssl,C,72
-29759715,facebook/zstd,C,26
+29759715,facebook/zstd,C,28
 15337142,micropython/micropython,C,14
 34921116,iovisor/bcc,C,12
 16096528,AudioKit/AudioKit,C,8
@@ -9,18 +9,18 @@ id,name,lang,new stars
 70127218,espressif/arduino-esp32,C,14
 1979797,FreeRDP/FreeRDP,C,6
 6376337,pocoproject/poco,C,4
-105944401,yugabyte/yugabyte-db,C,5
-215973962,DoctorWkt/acwj,C,64
+105944401,yugabyte/yugabyte-db,C,7
+215973962,DoctorWkt/acwj,C,69
 5383731,qemu/qemu,C,22
-32921736,audacity/audacity,C,34
+32921736,audacity/audacity,C,37
 21287076,aws/s2n-tls,C,3
 537699,Kitware/CMake,C,7
 7370241,RIOT-OS/RIOT,C,2
-13352949,civetweb/civetweb,C,3
+13352949,civetweb/civetweb,C,4
 84458512,RedisGraph/RedisGraph,C,5
 24107001,open-mpi/ompi,C,4
 20193261,OP-TEE/optee_os,C,1
-331380723,raspberrypi/pico-sdk,C,5
-34973309,USBhost/MX_FFmpeg,C,4
+331380723,raspberrypi/pico-sdk,C,6
+34973309,USBhost/MX_FFmpeg,C,5
 53432472,Azure/sonic-buildimage,C,0
 352517821,Al1ex/WindowsElevation,C,6
