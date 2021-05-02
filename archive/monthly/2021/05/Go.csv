@@ -1,14 +1,14 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1148
-20904437,gin-gonic/gin,Go,930
-11225014,etcd-io/etcd,Go,423
-15452919,ethereum/go-ethereum,Go,710
+20580498,kubernetes/kubernetes,Go,1149
+20904437,gin-gonic/gin,Go,931
+11225014,etcd-io/etcd,Go,425
+15452919,ethereum/go-ethereum,Go,714
 29261473,minio/minio,Go,488
-74175805,istio/istio,Go,369
-134017286,jesseduffield/lazygit,Go,592
+74175805,istio/istio,Go,370
+134017286,jesseduffield/lazygit,Go,593
 135516270,k3s-io/k3s,Go,385
-119160553,photoprism/photoprism,Go,2101
-163883279,nektos/act,Go,1085
+119160553,photoprism/photoprism,Go,2105
+163883279,nektos/act,Go,1087
 165041732,go-kratos/kratos,Go,523
 72477752,pulumi/pulumi,Go,379
 285864199,tal-tech/go-zero,Go,740
@@ -18,7 +18,7 @@ id,name,lang,new stars
 130430977,kubesphere/kubesphere,Go,233
 95761244,gogf/gf,Go,248
 47859258,goplus/gop,Go,382
-184490584,GoogleCloudPlatform/terraformer,Go,400
+184490584,GoogleCloudPlatform/terraformer,Go,401
 14128006,hashicorp/raft,Go,215
 87990209,kubernetes/autoscaler,Go,122
 128089774,storj/storj,Go,498
