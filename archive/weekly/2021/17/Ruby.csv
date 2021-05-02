@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,67
-65252,jekyll/jekyll,Ruby,63
-7569578,discourse/discourse,Ruby,79
+8514,rails/rails,Ruby,68
+65252,jekyll/jekyll,Ruby,64
+7569578,discourse/discourse,Ruby,80
 27442967,fastlane/fastlane,Ruby,55
-8681349,huginn/huginn,Ruby,84
+8681349,huginn/huginn,Ruby,85
 13840241,freeCodeCamp/devdocs,Ruby,78
 2293158,rapid7/metasploit-framework,Ruby,100
-3623050,Homebrew/homebrew-cask,Ruby,42
-4095287,rubocop/rubocop,Ruby,17
-88740103,postalhq/postal,Ruby,54
+3623050,Homebrew/homebrew-cask,Ruby,44
+4095287,rubocop/rubocop,Ruby,18
+88740103,postalhq/postal,Ruby,55
 96395,faker-ruby/faker,Ruby,19
 202291859,chatwoot/chatwoot,Ruby,100
 611921,activeadmin/activeadmin,Ruby,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,23
 52316423,luggit/react-native-config,Ruby,14
 93163073,dependabot/dependabot-core,Ruby,28
-189010173,Hackplayers/evil-winrm,Ruby,30
+189010173,Hackplayers/evil-winrm,Ruby,32
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,13
 353607417,hostolab/covidliste,Ruby,41
