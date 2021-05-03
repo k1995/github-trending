@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,279
+8514,rails/rails,Ruby,280
 65252,jekyll/jekyll,Ruby,230
-8681349,huginn/huginn,Ruby,287
+8681349,huginn/huginn,Ruby,288
 21600440,bayandin/awesome-awesomeness,Ruby,243
 52281283,tootsuite/mastodon,Ruby,203
 2500088,gitlabhq/gitlabhq,Ruby,62
 481872,hashicorp/vagrant,Ruby,198
 308770,heartcombo/devise,Ruby,86
 3623050,Homebrew/homebrew-cask,Ruby,132
-538746,ruby/ruby,Ruby,118
+538746,ruby/ruby,Ruby,119
 3195124,mperham/sidekiq,Ruby,68
 18486300,lewagon/setup,Ruby,595
-52855516,Homebrew/homebrew-core,Ruby,180
+52855516,Homebrew/homebrew-core,Ruby,181
 611921,activeadmin/activeadmin,Ruby,29
-108278,chef/chef,Ruby,42
+108278,chef/chef,Ruby,43
 30337170,rmosolgo/graphql-ruby,Ruby,36
 43347873,danger/danger,Ruby,55
 30985840,solidusio/solidus,Ruby,95
@@ -22,5 +22,5 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,68
 93163073,dependabot/dependabot-core,Ruby,87
 200302808,github/view_component,Ruby,71
-56942570,Homebrew/linuxbrew-core,Ruby,28
+56942570,Homebrew/linuxbrew-core,Ruby,29
 344612911,ginkgobioworks/vaccinetime,Ruby,39
