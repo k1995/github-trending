@@ -1,6 +1,6 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,170
-7548986,laravel/framework,PHP,61
+3482588,danielmiessler/SecLists,PHP,174
+7548986,laravel/framework,PHP,62
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,36
 2253830,PHPMailer/PHPMailer,PHP,46
 1631570,nikic/PHP-Parser,PHP,32
@@ -15,12 +15,12 @@ id,name,lang,new stars
 9826184,elastic/elasticsearch-php,PHP,8
 222873550,bytefury/crater,PHP,28
 119047018,linuxserver/Heimdall,PHP,45
-56836583,postaddictme/instagram-php-scraper,PHP,12
+56836583,postaddictme/instagram-php-scraper,PHP,13
 7776575,myclabs/php-enum,PHP,13
 29501260,api-platform/core,PHP,10
 27965134,opnsense/core,PHP,12
 61838413,danog/MadelineProto,PHP,15
-351298555,thedevdojo/wave,PHP,655
+351298555,thedevdojo/wave,PHP,675
 344332509,wintercms/winter,PHP,174
 353093114,livewire-ui/modal,PHP,45
-345645932,noob-hackers/spamx,PHP,24
+345645932,noob-hackers/spamx,PHP,25
