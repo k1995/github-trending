@@ -1,9 +1,9 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,161
+3482588,danielmiessler/SecLists,PHP,163
 2579314,fzaninotto/Faker,PHP,23
-7548986,laravel/framework,PHP,63
+7548986,laravel/framework,PHP,62
 1420053,guzzle/guzzle,PHP,28
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,37
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,38
 2253830,PHPMailer/PHPMailer,PHP,42
 1631570,nikic/PHP-Parser,PHP,27
 137515,mockery/mockery,PHP,12
@@ -11,16 +11,16 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,14
 1398648,symfony/http-foundation,PHP,12
 31295421,guzzle/psr7,PHP,9
-41589337,BookStackApp/BookStack,PHP,35
+41589337,BookStackApp/BookStack,PHP,36
 10371103,Laravel-Lang/lang,PHP,22
-86350964,the-benchmarker/web-frameworks,PHP,58
-9826184,elastic/elasticsearch-php,PHP,8
+86350964,the-benchmarker/web-frameworks,PHP,50
+9826184,elastic/elasticsearch-php,PHP,7
 222873550,bytefury/crater,PHP,29
 119047018,linuxserver/Heimdall,PHP,40
-47508644,pterodactyl/panel,PHP,14
+47508644,pterodactyl/panel,PHP,16
 56836583,postaddictme/instagram-php-scraper,PHP,16
 29501260,api-platform/core,PHP,10
-351298555,thedevdojo/wave,PHP,819
+351298555,thedevdojo/wave,PHP,834
 61838413,danog/MadelineProto,PHP,12
-344332509,wintercms/winter,PHP,125
+344332509,wintercms/winter,PHP,127
 353093114,livewire-ui/modal,PHP,43
