@@ -1,14 +1,14 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,14
-3482588,danielmiessler/SecLists,PHP,26
+3482588,danielmiessler/SecLists,PHP,27
 458058,symfony/symfony,PHP,11
-60243197,nextcloud/server,PHP,9
-47495360,koel/koel,PHP,2
+60243197,nextcloud/server,PHP,10
+47495360,koel/koel,PHP,3
 21298446,firefly-iii/firefly-iii,PHP,4
 16238673,kanboard/kanboard,PHP,6
 74386167,vimeo/psalm,PHP,2
 13973343,cydrobolt/polr,PHP,1
-11935508,RSS-Bridge/rss-bridge,PHP,3
+11935508,RSS-Bridge/rss-bridge,PHP,4
 77574863,causefx/Organizr,PHP,1
 11907506,amphp/amp,PHP,0
 47508644,pterodactyl/panel,PHP,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 174021137,inertiajs/pingcrm,PHP,1
 36526302,pentestmonkey/php-reverse-shell,PHP,0
 106074768,jaggedsoft/php-binance-api,PHP,3
-282608662,GemGeorge/SniperPhish,PHP,35
+282608662,GemGeorge/SniperPhish,PHP,36
