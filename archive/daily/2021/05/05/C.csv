@@ -1,14 +1,14 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,171
-36836475,tmux/tmux,C,19
-18666758,pjreddie/darknet,C,8
-102578345,coolsnowwolf/lede,C,13
+36836475,tmux/tmux,C,20
+18666758,pjreddie/darknet,C,7
+102578345,coolsnowwolf/lede,C,15
 45821540,openwrt/openwrt,C,2
-70127218,espressif/arduino-esp32,C,5
-7550637,xenia-project/xenia,C,20
-40504480,mit-pdos/xv6-public,C,2
-32921736,audacity/audacity,C,27
-241659610,OpenIntelWireless/itlwm,C,11
+70127218,espressif/arduino-esp32,C,3
+7550637,xenia-project/xenia,C,18
+40504480,mit-pdos/xv6-public,C,1
+32921736,audacity/audacity,C,28
+241659610,OpenIntelWireless/itlwm,C,12
 100979484,google-ar/arcore-android-sdk,C,0
 3681392,mossmann/hackrf,C,3
 7370241,RIOT-OS/RIOT,C,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 241270996,mborgerson/xemu,C,1
 71227065,graydon/rust-prehistory,C,7
 308836369,captain-amygdala/pistorm,C,8
-362391982,marco402/Rtl_433_dll-for-plugin-SdrSharp,C,0
+362391982,marco402/Rtl_433_dll-for-plugin-SdrSharp,C,1
