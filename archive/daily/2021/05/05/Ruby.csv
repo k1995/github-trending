@@ -1,14 +1,14 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,7
+27442967,fastlane/fastlane,Ruby,6
 52281283,tootsuite/mastodon,Ruby,6
 308770,heartcombo/devise,Ruby,2
 73648678,forem/forem,Ruby,25
-2203645,CocoaPods/CocoaPods,Ruby,3
+2203645,CocoaPods/CocoaPods,Ruby,1
 106995,sinatra/sinatra,Ruby,3
-3314,spree/spree,Ruby,4
-1918677,fluent/fluentd,Ruby,4
+3314,spree/spree,Ruby,3
+1918677,fluent/fluentd,Ruby,3
 361310,teamcapybara/capybara,Ruby,0
-96395,faker-ruby/faker,Ruby,1
+96395,faker-ruby/faker,Ruby,2
 8393,thoughtbot/paperclip,Ruby,0
 21829,thoughtbot/factory_bot,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,0
@@ -18,7 +18,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,3
 52316423,luggit/react-native-config,Ruby,3
 229006,mileszs/wicked_pdf,Ruby,0
-21333814,lynndylanhurley/devise_token_auth,Ruby,2
+21333814,lynndylanhurley/devise_token_auth,Ruby,1
 1844503,RolifyCommunity/rolify,Ruby,1
 5144181,jnunemaker/flipper,Ruby,2
 65914086,decidim/decidim,Ruby,1
