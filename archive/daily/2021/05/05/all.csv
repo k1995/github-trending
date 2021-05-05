@@ -1,26 +1,26 @@
 id,name,lang,new stars
 13491895,EbookFoundation/free-programming-books,,222
 60493101,jwasham/coding-interview-university,,196
-54346799,public-apis/public-apis,Python,352
+54346799,public-apis/public-apis,Python,468
 35955666,jlevy/the-art-of-command-line,,516
 54173593,storybookjs/storybook,TypeScript,76
-12256376,ionic-team/ionic-framework,TypeScript,264
-62812261,kelseyhightower/kubernetes-the-hard-way,,182
-97086543,TheAlgorithms/Javascript,JavaScript,219
+12256376,ionic-team/ionic-framework,TypeScript,235
+62812261,kelseyhightower/kubernetes-the-hard-way,,132
+97086543,TheAlgorithms/Javascript,JavaScript,223
 70671876,255kb/stack-on-a-budget,,188
-109162639,thanos-io/thanos,Go,10
-14981376,dogecoin/dogecoin,C++,272
+109162639,thanos-io/thanos,Go,73
+14981376,dogecoin/dogecoin,C++,269
 197153676,Chia-Network/chia-blockchain,Python,98
-32921736,audacity/audacity,C,65
-189621607,github/docs,JavaScript,102
-74499101,roboll/helmfile,Go,10
+32921736,audacity/audacity,C,95
+189621607,github/docs,JavaScript,106
+74499101,roboll/helmfile,Go,29
 351298555,thedevdojo/wave,PHP,210
 136401408,terraform-aws-modules/terraform-aws-eks,HCL,4
-193519496,DIGITALCRIMINAL/OnlyFans,Python,139
-12268427,andrejbauer/plzoo,OCaml,17
-363411578,cfalta/adsec,PowerShell,23
-356371687,alura-cursos/imersaodados3,,25
+193519496,DIGITALCRIMINAL/OnlyFans,Python,149
+12268427,andrejbauer/plzoo,OCaml,29
+363411578,cfalta/adsec,PowerShell,47
 363742501,Shahzod114/NodeRelax-Blender-Addon,Python,16
-362838403,devsuperior/sds3,,34
-363049558,bhattbhavesh91/cowin-vaccination-slot-availability,Jupyter Notebook,22
-362534835,pallupz/covid-vaccine-booking,Python,37
+356371687,alura-cursos/imersaodados3,,25
+362838403,devsuperior/sds3,,37
+362534835,pallupz/covid-vaccine-booking,Python,61
+363049558,bhattbhavesh91/cowin-vaccination-slot-availability,Jupyter Notebook,20
