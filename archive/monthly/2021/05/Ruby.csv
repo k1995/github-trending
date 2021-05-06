@@ -1,15 +1,15 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,221
-8681349,huginn/huginn,Ruby,264
+65252,jekyll/jekyll,Ruby,222
+8681349,huginn/huginn,Ruby,265
 53238813,Homebrew/brew,Ruby,459
 21600440,bayandin/awesome-awesomeness,Ruby,241
-52281283,tootsuite/mastodon,Ruby,188
+52281283,tootsuite/mastodon,Ruby,187
 2500088,gitlabhq/gitlabhq,Ruby,58
 481872,hashicorp/vagrant,Ruby,186
-308770,heartcombo/devise,Ruby,88
+308770,heartcombo/devise,Ruby,90
 3623050,Homebrew/homebrew-cask,Ruby,123
-538746,ruby/ruby,Ruby,116
-73648678,forem/forem,Ruby,267
+538746,ruby/ruby,Ruby,115
+73648678,forem/forem,Ruby,293
 3195124,mperham/sidekiq,Ruby,65
 18486300,lewagon/setup,Ruby,514
 52855516,Homebrew/homebrew-core,Ruby,164
@@ -18,9 +18,9 @@ id,name,lang,new stars
 108278,chef/chef,Ruby,37
 30337170,rmosolgo/graphql-ruby,Ruby,30
 1314319,instructure/canvas-lms,Ruby,63
-5144181,jnunemaker/flipper,Ruby,51
+5144181,jnunemaker/flipper,Ruby,50
 1175581,citation-style-language/styles,Ruby,40
-103766152,github/explore,Ruby,68
+103766152,github/explore,Ruby,67
 93163073,dependabot/dependabot-core,Ruby,86
 200302808,github/view_component,Ruby,76
 56942570,Homebrew/linuxbrew-core,Ruby,29
