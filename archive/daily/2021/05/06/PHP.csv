@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,13
-458058,symfony/symfony,PHP,5
-1864363,composer/composer,PHP,4
+1863329,laravel/laravel,PHP,11
+458058,symfony/symfony,PHP,6
+1864363,composer/composer,PHP,5
 7548986,laravel/framework,PHP,8
 448045,sebastianbergmann/phpunit,PHP,3
 60243197,nextcloud/server,PHP,4
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,6
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,7
 14259390,Maatwebsite/Laravel-Excel,PHP,7
 2884111,magento/magento2,PHP,4
 2699935,squizlabs/PHP_CodeSniffer,PHP,0
-6660366,dompdf/dompdf,PHP,2
+6660366,dompdf/dompdf,PHP,1
 212659,sebastianbergmann/php-code-coverage,PHP,2
 9131292,jenssegers/laravel-mongodb,PHP,1
 10883164,barryvdh/laravel-dompdf,PHP,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 31595609,mpdf/mpdf,PHP,0
 14724954,opensourcepos/opensourcepos,PHP,6
 351298555,thedevdojo/wave,PHP,255
+144549569,luolongfei/freenom,PHP,7
 6723399,Yoast/wordpress-seo,PHP,2
-144549569,luolongfei/freenom,PHP,8
 5367323,akeneo/pim-community-dev,PHP,0
-75645659,WordPress/wordpress-develop,PHP,1
+75645659,WordPress/wordpress-develop,PHP,2
