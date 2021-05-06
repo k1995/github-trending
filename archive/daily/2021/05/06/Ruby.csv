@@ -1,9 +1,9 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,5
+27442967,fastlane/fastlane,Ruby,7
 52281283,tootsuite/mastodon,Ruby,4
-308770,heartcombo/devise,Ruby,1
-73648678,forem/forem,Ruby,22
-2203645,CocoaPods/CocoaPods,Ruby,1
+308770,heartcombo/devise,Ruby,3
+73648678,forem/forem,Ruby,15
+2203645,CocoaPods/CocoaPods,Ruby,3
 106995,sinatra/sinatra,Ruby,2
 3314,spree/spree,Ruby,4
 1918677,fluent/fluentd,Ruby,4
@@ -12,8 +12,8 @@ id,name,lang,new stars
 8393,thoughtbot/paperclip,Ruby,0
 21829,thoughtbot/factory_bot,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,0
-2802565,doorkeeper-gem/doorkeeper,Ruby,7
-6899875,opf/openproject,Ruby,5
+2802565,doorkeeper-gem/doorkeeper,Ruby,6
+6899875,opf/openproject,Ruby,7
 30337170,rmosolgo/graphql-ruby,Ruby,0
 30985840,solidusio/solidus,Ruby,3
 52316423,luggit/react-native-config,Ruby,3
