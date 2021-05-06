@@ -1,16 +1,16 @@
 id,name,lang,new stars
 5108051,opencv/opencv,C++,21
 22067521,ocornut/imgui,C++,11
-74627617,commaai/openpilot,C++,152
-39840932,google/googletest,C++,10
+74627617,commaai/openpilot,C++,138
+39840932,google/googletest,C++,9
 1062572,catchorg/Catch2,C++,5
 191820100,google/mediapipe,C++,13
 102692863,onnx/onnx,C++,3
-40892817,ethereum/solidity,C++,73
-186309296,lettier/3d-game-shaders-for-beginners,C++,37
+40892817,ethereum/solidity,C++,69
+186309296,lettier/3d-game-shaders-for-beginners,C++,39
 38581626,pybind/pybind11,C++,3
-14981376,dogecoin/dogecoin,C++,275
-161376600,flashlight/flashlight,C++,66
+14981376,dogecoin/dogecoin,C++,279
+161376600,flashlight/flashlight,C++,65
 19347340,nanocurrency/nano-node,C++,6
 59676171,KevinOConnor/klipper,C++,4
 138754790,duckdb/duckdb,C++,9
@@ -22,5 +22,5 @@ id,name,lang,new stars
 87443396,Haivision/srt,C++,2
 244694174,project-chip/connectedhomeip,C++,8
 283280154,jomjol/AI-on-the-edge-device,C++,2
-354168451,dekuNukem/bob_cassette_rewinder,C++,46
+354168451,dekuNukem/bob_cassette_rewinder,C++,47
 151064439,ExpressLRS/ExpressLRS,C++,6

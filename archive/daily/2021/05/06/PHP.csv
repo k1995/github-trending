@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,14
+1863329,laravel/laravel,PHP,13
 458058,symfony/symfony,PHP,5
 1864363,composer/composer,PHP,3
-7548986,laravel/framework,PHP,9
+7548986,laravel/framework,PHP,8
 448045,sebastianbergmann/phpunit,PHP,3
-60243197,nextcloud/server,PHP,6
+60243197,nextcloud/server,PHP,5
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,6
 14259390,Maatwebsite/Laravel-Excel,PHP,7
 2884111,magento/magento2,PHP,5
@@ -19,7 +19,7 @@ id,name,lang,new stars
 41463886,codeigniter4/CodeIgniter4,PHP,3
 31595609,mpdf/mpdf,PHP,0
 14724954,opensourcepos/opensourcepos,PHP,7
-351298555,thedevdojo/wave,PHP,251
+351298555,thedevdojo/wave,PHP,255
 6723399,Yoast/wordpress-seo,PHP,2
 144549569,luolongfei/freenom,PHP,6
 5367323,akeneo/pim-community-dev,PHP,0
