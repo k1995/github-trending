@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,811
+2325298,torvalds/linux,C,812
 24586308,cfenollosa/os-tutorial,C,69
 18666758,pjreddie/darknet,C,62
 246335987,ventoy/Ventoy,C,822
-2810292,pbatard/rufus,C,601
+2810292,pbatard/rufus,C,611
 15337142,micropython/micropython,C,50
 34921116,iovisor/bcc,C,39
-84240850,timescale/timescaledb,C,101
+84240850,timescale/timescaledb,C,102
 90320494,ish-app/ish,C,59
 70127218,espressif/arduino-esp32,C,41
 65899476,espressif/esp-idf,C,49
@@ -14,7 +14,7 @@ id,name,lang,new stars
 211381291,ExistentialAudio/BlackHole,C,56
 192805335,microsoft/mimalloc,C,73
 215973962,DoctorWkt/acwj,C,103
-32921736,audacity/audacity,C,622
+32921736,audacity/audacity,C,602
 101540444,imbushuo/mac-precision-touchpad,C,35
 205810121,CloverHackyColor/CloverBootloader,C,17
 82815770,acidanthera/Lilu,C,16
@@ -22,5 +22,5 @@ id,name,lang,new stars
 40556106,wazuh/wazuh,C,13
 211756905,MarlinFirmware/Configurations,C,10
 194269070,skyline-emu/skyline,C,32
-337221642,antonioCoco/RemotePotato0,C,76
+337221642,antonioCoco/RemotePotato0,C,75
 308836369,captain-amygdala/pistorm,C,48
