@@ -1,15 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,277
 65252,jekyll/jekyll,Ruby,222
+8681349,huginn/huginn,Ruby,265
 53238813,Homebrew/brew,Ruby,463
 52281283,tootsuite/mastodon,Ruby,179
+2293158,rapid7/metasploit-framework,Ruby,312
 481872,hashicorp/vagrant,Ruby,189
 308770,heartcombo/devise,Ruby,91
 3623050,Homebrew/homebrew-cask,Ruby,126
-538746,ruby/ruby,Ruby,115
 73648678,forem/forem,Ruby,399
-2203645,CocoaPods/CocoaPods,Ruby,75
-4095287,rubocop/rubocop,Ruby,60
 3195124,mperham/sidekiq,Ruby,61
 18486300,lewagon/setup,Ruby,513
 52855516,Homebrew/homebrew-core,Ruby,162
@@ -23,4 +22,5 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,71
 93163073,dependabot/dependabot-core,Ruby,89
 200302808,github/view_component,Ruby,75
+189010173,Hackplayers/evil-winrm,Ruby,76
 56942570,Homebrew/linuxbrew-core,Ruby,28
