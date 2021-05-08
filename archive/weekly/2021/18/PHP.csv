@@ -1,18 +1,18 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,124
-458058,symfony/symfony,PHP,48
-7548986,laravel/framework,PHP,61
+3482588,danielmiessler/SecLists,PHP,123
+458058,symfony/symfony,PHP,49
+7548986,laravel/framework,PHP,62
 2253830,PHPMailer/PHPMailer,PHP,28
 7704544,Intervention/image,PHP,16
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,29
 14259390,Maatwebsite/Laravel-Excel,PHP,27
 49014795,phpstan/phpstan,PHP,24
-2884111,magento/magento2,PHP,14
-9826184,elastic/elasticsearch-php,PHP,9
+2884111,magento/magento2,PHP,15
+9826184,elastic/elasticsearch-php,PHP,10
 12204147,mautic/mautic,PHP,12
-76064827,mailcow/mailcow-dockerized,PHP,21
+76064827,mailcow/mailcow-dockerized,PHP,22
 60010673,elementor/elementor,PHP,16
-61802818,spatie/laravel-activitylog,PHP,20
+61802818,spatie/laravel-activitylog,PHP,19
 351298555,thedevdojo/wave,PHP,1621
 47508644,pterodactyl/panel,PHP,19
 56836583,postaddictme/instagram-php-scraper,PHP,17
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1095228,sonata-project/SonataAdminBundle,PHP,7
 131995661,shopware/platform,PHP,9
 75645659,WordPress/wordpress-develop,PHP,10
-344332509,wintercms/winter,PHP,99
-359575407,Wulfheart/pretty-routes,PHP,139
+344332509,wintercms/winter,PHP,93
+359575407,Wulfheart/pretty-routes,PHP,137

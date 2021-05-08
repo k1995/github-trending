@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,4
+2579314,fzaninotto/Faker,PHP,3
 1420053,guzzle/guzzle,PHP,2
-1376664,Seldaek/monolog,PHP,2
+1376664,Seldaek/monolog,PHP,1
 448045,sebastianbergmann/phpunit,PHP,2
 1631570,nikic/PHP-Parser,PHP,5
-12615154,barryvdh/laravel-debugbar,PHP,9
+12615154,barryvdh/laravel-debugbar,PHP,8
 7704544,Intervention/image,PHP,1
 7549096,doctrine/inflector,PHP,0
 7579180,doctrine/lexer,PHP,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 33916850,spatie/laravel-medialibrary,PHP,1
 60010673,elementor/elementor,PHP,3
 13073056,RainLoop/rainloop-webmail,PHP,3
-351298555,thedevdojo/wave,PHP,187
+351298555,thedevdojo/wave,PHP,179
 2686502,pimcore/pimcore,PHP,1
 236699268,symfony/polyfill-php80,PHP,0
