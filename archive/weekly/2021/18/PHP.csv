@@ -1,18 +1,18 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,143
+3482588,danielmiessler/SecLists,PHP,144
 458058,symfony/symfony,PHP,57
-1864363,composer/composer,PHP,45
-7548986,laravel/framework,PHP,70
-2253830,PHPMailer/PHPMailer,PHP,32
-5724990,briannesbitt/Carbon,PHP,18
+1864363,composer/composer,PHP,46
+7548986,laravel/framework,PHP,71
+2253830,PHPMailer/PHPMailer,PHP,33
+5724990,briannesbitt/Carbon,PHP,20
 1631570,nikic/PHP-Parser,PHP,35
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,36
 14259390,Maatwebsite/Laravel-Excel,PHP,31
-49014795,phpstan/phpstan,PHP,28
+49014795,phpstan/phpstan,PHP,29
 677464,doctrine/dbal,PHP,18
 10371103,Laravel-Lang/lang,PHP,22
 74386167,vimeo/psalm,PHP,17
-76064827,mailcow/mailcow-dockerized,PHP,24
+76064827,mailcow/mailcow-dockerized,PHP,25
 60010673,elementor/elementor,PHP,18
 61802818,spatie/laravel-activitylog,PHP,22
 351298555,thedevdojo/wave,PHP,1635
@@ -22,5 +22,5 @@ id,name,lang,new stars
 166299071,stancl/tenancy,PHP,23
 131995661,shopware/platform,PHP,10
 75645659,WordPress/wordpress-develop,PHP,11
-344332509,wintercms/winter,PHP,84
+344332509,wintercms/winter,PHP,85
 360546768,spatie/fork,PHP,106
