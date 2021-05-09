@@ -1,15 +1,15 @@
 id,name,lang,new stars
-23096959,golang/go,Go,302
-11180687,gohugoio/hugo,Go,157
-15452919,ethereum/go-ethereum,Go,244
-56353740,kubernetes/minikube,Go,69
-43723161,helm/helm,Go,50
-50613991,goharbor/harbor,Go,233
+23096959,golang/go,Go,308
+11180687,gohugoio/hugo,Go,158
+15452919,ethereum/go-ethereum,Go,247
+56353740,kubernetes/minikube,Go,71
+43723161,helm/helm,Go,51
+50613991,goharbor/harbor,Go,234
 109162639,thanos-io/thanos,Go,257
-109145553,containers/podman,Go,95
+109145553,containers/podman,Go,97
 62712899,AdguardTeam/AdGuardHome,Go,93
 180687624,aquasecurity/trivy,Go,86
-118105436,golang-migrate/migrate,Go,65
+118105436,golang-migrate/migrate,Go,66
 14508450,gophish/gophish,Go,22
 140457254,OWASP/Amass,Go,61
 252813491,projectdiscovery/nuclei,Go,81
@@ -17,7 +17,7 @@ id,name,lang,new stars
 93619165,alecthomas/chroma,Go,157
 93446042,terraform-providers/terraform-provider-azurerm,Go,52
 45356931,bwmarrin/discordgo,Go,24
-111455867,smartcontractkit/chainlink,Go,62
+111455867,smartcontractkit/chainlink,Go,63
 53397673,TritonHo/slides,Go,74
 57912964,kubernetes/enhancements,Go,16
 191848501,stripe/stripe-cli,Go,13
