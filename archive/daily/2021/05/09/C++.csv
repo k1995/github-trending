@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,82
-65600975,pytorch/pytorch,C++,35
-23357588,protocolbuffers/protobuf,C++,16
-22067521,ocornut/imgui,C++,29
+1181927,bitcoin/bitcoin,C++,89
+65600975,pytorch/pytorch,C++,37
+23357588,protocolbuffers/protobuf,C++,17
+22067521,ocornut/imgui,C++,35
 96246170,ApolloAuto/apollo,C++,6
-67702184,topjohnwu/Magisk,C++,26
-60246359,ClickHouse/ClickHouse,C++,14
+67702184,topjohnwu/Magisk,C++,29
+60246359,ClickHouse/ClickHouse,C++,15
 196813750,Light-City/CPlusPlusThings,C++,39
 34777562,ossrs/srs,C++,8
 102343794,apache/incubator-brpc,C++,6
@@ -18,9 +18,9 @@ id,name,lang,new stars
 15122806,google/benchmark,C++,3
 32222044,erincatto/box2d,C++,4
 2345629,zaphoyd/websocketpp,C++,10
-6083843,progschj/ThreadPool,C++,2
+6083843,progschj/ThreadPool,C++,3
 86897963,xia-chu/ZLMediaKit,C++,2
-4402279,thestinger/termite,C++,10
+4402279,thestinger/termite,C++,12
 94253765,ctubio/Krypto-trading-bot,C++,6
 131449222,moonlight-stream/moonlight-qt,C++,7
-243394576,pixie-labs/pixie,C++,48
+243394576,pixie-labs/pixie,C++,52
