@@ -1,18 +1,18 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1137
-15452919,ethereum/go-ethereum,Go,796
-74175805,istio/istio,Go,346
-212613049,cli/cli,Go,1048
-119160553,photoprism/photoprism,Go,2251
-163883279,nektos/act,Go,1097
-165041732,go-kratos/kratos,Go,551
-72477752,pulumi/pulumi,Go,432
+20580498,kubernetes/kubernetes,Go,1138
+15452919,ethereum/go-ethereum,Go,801
+74175805,istio/istio,Go,348
+212613049,cli/cli,Go,1049
+119160553,photoprism/photoprism,Go,2254
+163883279,nektos/act,Go,1102
+165041732,go-kratos/kratos,Go,552
+72477752,pulumi/pulumi,Go,435
 120156076,cloudreve/Cloudreve,Go,442
 119419195,GoogleContainerTools/kaniko,Go,240
 119190187,zricethezav/gitleaks,Go,240
-120896210,argoproj/argo-cd,Go,394
-208728772,milvus-io/milvus,Go,360
-130430977,kubesphere/kubesphere,Go,224
+120896210,argoproj/argo-cd,Go,395
+208728772,milvus-io/milvus,Go,376
+130430977,kubesphere/kubesphere,Go,225
 47859258,goplus/gop,Go,371
 14128006,hashicorp/raft,Go,226
 87990209,kubernetes/autoscaler,Go,129
@@ -23,4 +23,4 @@ id,name,lang,new stars
 128089774,storj/storj,Go,504
 193681111,filecoin-project/lotus,Go,157
 253522878,docker/compose-cli,Go,77
-265775217,binance-chain/bsc,Go,162
+265775217,binance-chain/bsc,Go,163

@@ -1,12 +1,12 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,137
+3482588,danielmiessler/SecLists,PHP,143
 458058,symfony/symfony,PHP,57
-1864363,composer/composer,PHP,44
-7548986,laravel/framework,PHP,69
+1864363,composer/composer,PHP,45
+7548986,laravel/framework,PHP,70
 2253830,PHPMailer/PHPMailer,PHP,32
 5724990,briannesbitt/Carbon,PHP,18
 1631570,nikic/PHP-Parser,PHP,35
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,32
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,36
 14259390,Maatwebsite/Laravel-Excel,PHP,31
 49014795,phpstan/phpstan,PHP,28
 677464,doctrine/dbal,PHP,18
@@ -15,12 +15,12 @@ id,name,lang,new stars
 76064827,mailcow/mailcow-dockerized,PHP,24
 60010673,elementor/elementor,PHP,18
 61802818,spatie/laravel-activitylog,PHP,22
-351298555,thedevdojo/wave,PHP,1630
+351298555,thedevdojo/wave,PHP,1635
 47508644,pterodactyl/panel,PHP,20
 2686502,pimcore/pimcore,PHP,17
 1095228,sonata-project/SonataAdminBundle,PHP,7
 166299071,stancl/tenancy,PHP,23
 131995661,shopware/platform,PHP,10
-75645659,WordPress/wordpress-develop,PHP,10
+75645659,WordPress/wordpress-develop,PHP,11
 344332509,wintercms/winter,PHP,84
 360546768,spatie/fork,PHP,106

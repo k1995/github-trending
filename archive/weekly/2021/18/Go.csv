@@ -1,18 +1,18 @@
 id,name,lang,new stars
-23096959,golang/go,Go,308
-11180687,gohugoio/hugo,Go,158
-15452919,ethereum/go-ethereum,Go,247
+23096959,golang/go,Go,312
+11180687,gohugoio/hugo,Go,162
+15452919,ethereum/go-ethereum,Go,252
 56353740,kubernetes/minikube,Go,71
-43723161,helm/helm,Go,51
+43723161,helm/helm,Go,52
 50613991,goharbor/harbor,Go,234
 109162639,thanos-io/thanos,Go,257
 109145553,containers/podman,Go,97
-62712899,AdguardTeam/AdGuardHome,Go,93
+62712899,AdguardTeam/AdGuardHome,Go,94
 180687624,aquasecurity/trivy,Go,86
 118105436,golang-migrate/migrate,Go,66
 14508450,gophish/gophish,Go,22
 140457254,OWASP/Amass,Go,61
-252813491,projectdiscovery/nuclei,Go,81
+252813491,projectdiscovery/nuclei,Go,83
 74499101,roboll/helmfile,Go,90
 93619165,alecthomas/chroma,Go,157
 93446042,terraform-providers/terraform-provider-azurerm,Go,52
