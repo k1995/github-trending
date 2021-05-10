@@ -1,6 +1,6 @@
 id,name,lang,new stars
-23096959,golang/go,Go,301
-15452919,ethereum/go-ethereum,Go,251
+23096959,golang/go,Go,303
+15452919,ethereum/go-ethereum,Go,252
 17728164,hashicorp/terraform,Go,106
 43723161,helm/helm,Go,50
 50613991,goharbor/harbor,Go,236
@@ -9,7 +9,7 @@ id,name,lang,new stars
 62712899,AdguardTeam/AdGuardHome,Go,85
 83678416,xo/usql,Go,127
 118105436,golang-migrate/migrate,Go,66
-208728772,milvus-io/milvus,Go,304
+208728772,milvus-io/milvus,Go,312
 14508450,gophish/gophish,Go,25
 140457254,OWASP/Amass,Go,61
 10757154,satori/go.uuid,Go,13
@@ -19,7 +19,7 @@ id,name,lang,new stars
 111455867,smartcontractkit/chainlink,Go,61
 57912964,kubernetes/enhancements,Go,16
 166304026,BishopFox/sliver,Go,39
-323087102,v-byte-cpu/sx,Go,100
+323087102,v-byte-cpu/sx,Go,101
 253522878,docker/compose-cli,Go,22
 265775217,binance-chain/bsc,Go,34
 301345449,c9s/bbgo,Go,20
