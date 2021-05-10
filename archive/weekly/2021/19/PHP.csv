@@ -1,9 +1,9 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,50
+458058,symfony/symfony,PHP,51
 1864363,composer/composer,PHP,44
-7548986,laravel/framework,PHP,67
-1631570,nikic/PHP-Parser,PHP,30
-47495360,koel/koel,PHP,21
+7548986,laravel/framework,PHP,64
+1631570,nikic/PHP-Parser,PHP,31
+47495360,koel/koel,PHP,22
 72069409,the-control-group/voyager,PHP,25
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,34
 14259390,Maatwebsite/Laravel-Excel,PHP,23
@@ -12,8 +12,8 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,14
 60010673,elementor/elementor,PHP,18
 61802818,spatie/laravel-activitylog,PHP,20
-1953386,stripe/stripe-php,PHP,6
-351298555,thedevdojo/wave,PHP,1299
+1953386,stripe/stripe-php,PHP,7
+351298555,thedevdojo/wave,PHP,1098
 47508644,pterodactyl/panel,PHP,18
 14724954,opensourcepos/opensourcepos,PHP,12
 2686502,pimcore/pimcore,PHP,15
@@ -23,4 +23,4 @@ id,name,lang,new stars
 131995661,shopware/platform,PHP,7
 4698175,composer/installers,PHP,2
 360546768,spatie/fork,PHP,75
-282608662,GemGeorge/SniperPhish,PHP,61
+282608662,GemGeorge/SniperPhish,PHP,65
