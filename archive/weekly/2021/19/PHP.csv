@@ -1,20 +1,20 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,47
 1864363,composer/composer,PHP,44
-7548986,laravel/framework,PHP,61
+7548986,laravel/framework,PHP,63
 2253830,PHPMailer/PHPMailer,PHP,31
 5724990,briannesbitt/Carbon,PHP,17
 1631570,nikic/PHP-Parser,PHP,33
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,36
-49014795,phpstan/phpstan,PHP,30
-32015820,webmozarts/assert,PHP,14
-10371103,Laravel-Lang/lang,PHP,28
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,34
+49014795,phpstan/phpstan,PHP,31
+32015820,webmozarts/assert,PHP,13
+10371103,Laravel-Lang/lang,PHP,27
 12204147,mautic/mautic,PHP,15
-74386167,vimeo/psalm,PHP,18
+74386167,vimeo/psalm,PHP,19
 60010673,elementor/elementor,PHP,19
 61802818,spatie/laravel-activitylog,PHP,24
-351298555,thedevdojo/wave,PHP,978
-47508644,pterodactyl/panel,PHP,18
+351298555,thedevdojo/wave,PHP,972
+47508644,pterodactyl/panel,PHP,22
 14724954,opensourcepos/opensourcepos,PHP,12
 2686502,pimcore/pimcore,PHP,15
 144549569,luolongfei/freenom,PHP,37
@@ -22,5 +22,5 @@ id,name,lang,new stars
 4698175,composer/installers,PHP,2
 360546768,spatie/fork,PHP,53
 216647402,jeffreyvr/tailpress,PHP,10
-282608662,GemGeorge/SniperPhish,PHP,42
+282608662,GemGeorge/SniperPhish,PHP,44
 355576324,theonemcdonald/pfSense-pkg-WireGuard,PHP,29
