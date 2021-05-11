@@ -1,12 +1,12 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,421
-17620347,dotnet/aspnetcore,C#,72
-102904613,Unity-Technologies/ml-agents,C#,71
-161012019,jellyfin/jellyfin,C#,75
-46652227,IdentityServer/IdentityServer4,C#,30
+184456251,microsoft/PowerToys,C#,402
+17620347,dotnet/aspnetcore,C#,71
+102904613,Unity-Technologies/ml-agents,C#,72
+161012019,jellyfin/jellyfin,C#,74
+46652227,IdentityServer/IdentityServer4,C#,29
 46755185,bitwarden/server,C#,48
 44897462,JustArchiNET/ArchiSteamFarm,C#,35
-210716005,dotnet/runtime,C#,53
+210716005,dotnet/runtime,C#,54
 54213490,xamarin/Xamarin.Forms,C#,12
 26884725,OrchardCMS/OrchardCore,C#,14
 27251463,QuantConnect/Lean,C#,32
@@ -14,7 +14,7 @@ id,name,lang,new stars
 21611723,quasar/Quasar,C#,31
 36613036,neo-project/neo,C#,11
 152370823,davidfowl/AspNetCoreDiagnosticScenarios,C#,34
-321682465,SteamTools-Team/SteamTools,C#,244
+321682465,SteamTools-Team/SteamTools,C#,242
 304230333,BluePointLilac/ContextMenuManager,C#,52
 187499284,Cysharp/UniTask,C#,37
 138646782,Azure/iotedge,C#,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 199628708,microsoft/RulesEngine,C#,35
 181356258,aspnetrun/run-aspnetcore-microservices,C#,18
 262661480,ALIILAPRO/warp-plus-cloudflare,C#,12
-360995631,DapperLib/DapperAOT,C#,42
+360995631,DapperLib/DapperAOT,C#,40
 347035745,qwqdanchun/DcRat,C#,24

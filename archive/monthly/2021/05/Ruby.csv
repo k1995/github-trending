@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,271
 65252,jekyll/jekyll,Ruby,223
-8681349,huginn/huginn,Ruby,272
+8681349,huginn/huginn,Ruby,275
 53238813,Homebrew/brew,Ruby,459
 52281283,tootsuite/mastodon,Ruby,173
 2293158,rapid7/metasploit-framework,Ruby,311
-481872,hashicorp/vagrant,Ruby,195
-308770,heartcombo/devise,Ruby,92
+481872,hashicorp/vagrant,Ruby,181
+308770,heartcombo/devise,Ruby,93
 3623050,Homebrew/homebrew-cask,Ruby,121
 73648678,forem/forem,Ruby,397
 3195124,mperham/sidekiq,Ruby,58
@@ -15,10 +15,10 @@ id,name,lang,new stars
 52855516,Homebrew/homebrew-core,Ruby,148
 611921,activeadmin/activeadmin,Ruby,22
 108278,chef/chef,Ruby,37
-16549503,github/scientist,Ruby,70
+16549503,github/scientist,Ruby,73
 75785147,rails/webpacker,Ruby,28
 30337170,rmosolgo/graphql-ruby,Ruby,30
-5144181,jnunemaker/flipper,Ruby,49
+5144181,jnunemaker/flipper,Ruby,48
 1175581,citation-style-language/styles,Ruby,43
 103766152,github/explore,Ruby,68
 93163073,dependabot/dependabot-core,Ruby,90
