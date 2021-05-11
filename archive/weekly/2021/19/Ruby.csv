@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,61
+8514,rails/rails,Ruby,63
 65252,jekyll/jekyll,Ruby,51
 2293158,rapid7/metasploit-framework,Ruby,61
 481872,hashicorp/vagrant,Ruby,41
 308770,heartcombo/devise,Ruby,32
-538746,ruby/ruby,Ruby,24
-73648678,forem/forem,Ruby,277
+538746,ruby/ruby,Ruby,25
+73648678,forem/forem,Ruby,275
 2203645,CocoaPods/CocoaPods,Ruby,19
-106995,sinatra/sinatra,Ruby,17
-96395,faker-ruby/faker,Ruby,13
+106995,sinatra/sinatra,Ruby,18
+96395,faker-ruby/faker,Ruby,14
 611921,activeadmin/activeadmin,Ruby,3
 21829,thoughtbot/factory_bot,Ruby,7
 108278,chef/chef,Ruby,6
@@ -19,8 +19,8 @@ id,name,lang,new stars
 244452551,alexeygrigorev/data-science-interviews,Ruby,24
 52316423,luggit/react-native-config,Ruby,11
 115859973,ddnexus/pagy,Ruby,17
-103766152,github/explore,Ruby,18
-93163073,dependabot/dependabot-core,Ruby,19
+103766152,github/explore,Ruby,17
+93163073,dependabot/dependabot-core,Ruby,20
 200302808,github/view_component,Ruby,25
 156555906,testdouble/standard,Ruby,15
 644899,onelogin/ruby-saml,Ruby,0

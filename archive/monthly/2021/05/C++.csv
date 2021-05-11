@@ -6,16 +6,16 @@ id,name,lang,new stars
 23405758,google/leveldb,C++,1286
 11171548,nlohmann/json,C++,630
 67702184,topjohnwu/Magisk,C++,738
-74660642,taichi-dev/taichi,C++,1525
+74660642,taichi-dev/taichi,C++,1527
 34777562,ossrs/srs,C++,902
-196813750,Light-City/CPlusPlusThings,C++,1330
 63477612,TheAlgorithms/C-Plus-Plus,C++,570
+196813750,Light-City/CPlusPlusThings,C++,1330
 191820100,google/mediapipe,C++,487
 197275130,microsoft/winget-cli,C++,458
 160083795,SerenityOS/serenity,C++,949
 40892817,ethereum/solidity,C++,528
 186309296,lettier/3d-game-shaders-for-beginners,C++,1777
-14981376,dogecoin/dogecoin,C++,4139
+14981376,dogecoin/dogecoin,C++,4186
 153866232,TheCherno/Hazel,C++,234
 88327406,xmrig/xmrig,C++,477
 2724167,ripple/rippled,C++,82
@@ -23,4 +23,4 @@ id,name,lang,new stars
 349522340,google/lyra,C++,978
 223904726,wang-xinyu/tensorrtx,C++,203
 244694174,project-chip/connectedhomeip,C++,119
-151064439,ExpressLRS/ExpressLRS,C++,114
+151064439,ExpressLRS/ExpressLRS,C++,115
