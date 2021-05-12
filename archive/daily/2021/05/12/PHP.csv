@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,54
-458058,symfony/symfony,PHP,14
+1863329,laravel/laravel,PHP,57
+458058,symfony/symfony,PHP,11
 7548986,laravel/framework,PHP,14
-1420053,guzzle/guzzle,PHP,5
+1420053,guzzle/guzzle,PHP,6
 2253830,PHPMailer/PHPMailer,PHP,4
 48796179,z-song/laravel-admin,PHP,0
 61490598,PHPOffice/PhpSpreadsheet,PHP,5
@@ -13,12 +13,12 @@ id,name,lang,new stars
 4224042,roundcube/roundcubemail,PHP,2
 9077725,giggsey/libphonenumber-for-php,PHP,1
 32482750,phpro/grumphp,PHP,0
-31595609,mpdf/mpdf,PHP,3
-13176870,lazychaser/laravel-nestedset,PHP,2
+31595609,mpdf/mpdf,PHP,2
+13176870,lazychaser/laravel-nestedset,PHP,3
 350018351,laravel/octane,PHP,50
 13914116,librenms/librenms,PHP,2
-2686502,pimcore/pimcore,PHP,3
-74026995,CodelyTV/php-ddd-example,PHP,36
+2686502,pimcore/pimcore,PHP,2
+74026995,CodelyTV/php-ddd-example,PHP,12
 230926110,qkqpttgf/OneManager-php,PHP,5
 131995661,shopware/platform,PHP,3
 34982189,phpbench/phpbench,PHP,3
