@@ -1,8 +1,8 @@
 id,name,lang,new stars
 1614410,FFmpeg/FFmpeg,C,35
 62156403,QSCTech/zju-icicles,C,10
-246335987,ventoy/Ventoy,C,55
-34921116,iovisor/bcc,C,6
+246335987,ventoy/Ventoy,C,61
+34921116,iovisor/bcc,C,7
 7715820,davatorium/rofi,C,3
 11178512,happyfish100/fastdfs,C,1
 3319040,id-Software/DOOM,C,7
@@ -10,17 +10,17 @@ id,name,lang,new stars
 54280778,DaveGamble/cJSON,C,5
 7408108,RT-Thread/rt-thread,C,4
 6376337,pocoproject/poco,C,6
-5870069,edenhill/librdkafka,C,1
-50874442,citusdata/citus,C,6
-2755696,mattn/go-sqlite3,C,2
-5383731,qemu/qemu,C,2
+5870069,edenhill/librdkafka,C,2
+50874442,citusdata/citus,C,4
+2755696,mattn/go-sqlite3,C,1
+5383731,qemu/qemu,C,3
 31791482,microsoft/Windows-driver-samples,C,4
 8046269,warmcat/libwebsockets,C,1
 115765590,OAID/Tengine,C,6
 64324413,ufrisk/pcileech,C,2
-26537135,u-boot/u-boot,C,1
+26537135,u-boot/u-boot,C,0
 45695616,maxbube/mydumper,C,1
 343862270,Mr-Un1k0d3r/EDRs,C,36
 80611216,open5gs/open5gs,C,1
-213593105,LGCooci/objc4_debug,C,5
+213593105,LGCooci/objc4_debug,C,3
 121516035,nrfconnect/sdk-nrf,C,0
