@@ -1,6 +1,6 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,221
-8681349,huginn/huginn,Ruby,272
+8681349,huginn/huginn,Ruby,270
 53238813,Homebrew/brew,Ruby,455
 2293158,rapid7/metasploit-framework,Ruby,320
 481872,hashicorp/vagrant,Ruby,181
@@ -8,7 +8,7 @@ id,name,lang,new stars
 3623050,Homebrew/homebrew-cask,Ruby,124
 73648678,forem/forem,Ruby,400
 1157388,tmuxinator/tmuxinator,Ruby,73
-18486300,lewagon/setup,Ruby,478
+18486300,lewagon/setup,Ruby,364
 96395,faker-ruby/faker,Ruby,58
 611921,activeadmin/activeadmin,Ruby,25
 21829,thoughtbot/factory_bot,Ruby,36
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,42
 103766152,github/explore,Ruby,66
 93163073,dependabot/dependabot-core,Ruby,94
-200302808,github/view_component,Ruby,78
+200302808,github/view_component,Ruby,77
 189010173,Hackplayers/evil-winrm,Ruby,80
-353607417,hostolab/covidliste,Ruby,136
+353607417,hostolab/covidliste,Ruby,133
