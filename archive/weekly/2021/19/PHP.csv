@@ -1,16 +1,16 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,53
+458058,symfony/symfony,PHP,54
 1864363,composer/composer,PHP,48
-7548986,laravel/framework,PHP,69
-2253830,PHPMailer/PHPMailer,PHP,29
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,37
+7548986,laravel/framework,PHP,68
+2253830,PHPMailer/PHPMailer,PHP,30
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,40
 61490598,PHPOffice/PhpSpreadsheet,PHP,32
 29843361,w7corp/easywechat,PHP,30
 2884111,magento/magento2,PHP,16
 656494,cakephp/cakephp,PHP,3
 32015820,webmozarts/assert,PHP,16
 10371103,Laravel-Lang/lang,PHP,25
-14346979,snipe/snipe-it,PHP,24
+14346979,snipe/snipe-it,PHP,25
 60010673,elementor/elementor,PHP,17
 29126334,EasyCorp/EasyAdminBundle,PHP,9
 1740040,pfsense/pfsense,PHP,16
@@ -18,9 +18,9 @@ id,name,lang,new stars
 47508644,pterodactyl/panel,PHP,22
 2686502,pimcore/pimcore,PHP,21
 74026995,CodelyTV/php-ddd-example,PHP,44
-129852395,assimon/dujiaoka,PHP,23
+129852395,assimon/dujiaoka,PHP,22
 144549569,luolongfei/freenom,PHP,33
 131995661,shopware/platform,PHP,9
 4698175,composer/installers,PHP,1
-111562942,statamic/cms,PHP,16
-355576324,theonemcdonald/pfSense-pkg-WireGuard,PHP,36
+111562942,statamic/cms,PHP,15
+355576324,theonemcdonald/pfSense-pkg-WireGuard,PHP,35
