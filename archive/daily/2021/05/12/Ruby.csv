@@ -1,8 +1,8 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,4
-308770,heartcombo/devise,Ruby,2
+27442967,fastlane/fastlane,Ruby,5
+308770,heartcombo/devise,Ruby,1
 2203645,CocoaPods/CocoaPods,Ruby,1
-1090311,elastic/logstash,Ruby,2
+1090311,elastic/logstash,Ruby,1
 4095287,rubocop/rubocop,Ruby,3
 3195124,mperham/sidekiq,Ruby,1
 812393,ruby-grape/grape,Ruby,1
@@ -11,7 +11,7 @@ id,name,lang,new stars
 47087,carrierwaveuploader/carrierwave,Ruby,0
 587311,omniauth/omniauth,Ruby,1
 6529205,varvet/pundit,Ruby,1
-2441517,puma/puma,Ruby,3
+2441517,puma/puma,Ruby,6
 1145832,pry/pry,Ruby,2
 1227,mislav/will_paginate,Ruby,2
 2889230,rails-api/active_model_serializers,Ruby,1
