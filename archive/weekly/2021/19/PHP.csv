@@ -1,7 +1,7 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,54
 1864363,composer/composer,PHP,46
-7548986,laravel/framework,PHP,68
+7548986,laravel/framework,PHP,69
 2253830,PHPMailer/PHPMailer,PHP,29
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,38
 61490598,PHPOffice/PhpSpreadsheet,PHP,28
@@ -12,10 +12,10 @@ id,name,lang,new stars
 10371103,Laravel-Lang/lang,PHP,26
 14346979,snipe/snipe-it,PHP,25
 60010673,elementor/elementor,PHP,16
-29126334,EasyCorp/EasyAdminBundle,PHP,9
+29126334,EasyCorp/EasyAdminBundle,PHP,10
 1740040,pfsense/pfsense,PHP,16
-351298555,thedevdojo/wave,PHP,530
-47508644,pterodactyl/panel,PHP,24
+351298555,thedevdojo/wave,PHP,519
+47508644,pterodactyl/panel,PHP,25
 2686502,pimcore/pimcore,PHP,23
 74026995,CodelyTV/php-ddd-example,PHP,50
 129852395,assimon/dujiaoka,PHP,23
