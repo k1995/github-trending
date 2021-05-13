@@ -1,9 +1,9 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,62
-10446890,bilibili/ijkplayer,C,7
+10446890,bilibili/ijkplayer,C,12
 18496166,gentilkiwi/mimikatz,C,14
 1482997,phpredis/phpredis,C,2
-13836499,raysan5/raylib,C,8
+13836499,raysan5/raylib,C,7
 54280778,DaveGamble/cJSON,C,6
 35780977,ImageMagick/ImageMagick,C,10
 6376337,pocoproject/poco,C,5
@@ -18,8 +18,8 @@ id,name,lang,new stars
 15333809,open62541/open62541,C,2
 24798763,mpaland/printf,C,3
 169034587,CokeMine/ServerStatus-Hotaru,C,7
-355718757,microsoft/ebpf-for-windows,C,140
-70989832,ps2homebrew/Open-PS2-Loader,C,2
+355718757,microsoft/ebpf-for-windows,C,89
+70989832,ps2homebrew/Open-PS2-Loader,C,1
 297789201,vanhoefm/fragattacks,C,220
 53432472,Azure/sonic-buildimage,C,0
 366447256,stolk/diskgraph,C,47
