@@ -1,26 +1,26 @@
 id,name,lang,new stars
 2126244,twbs/bootstrap,JavaScript,292
-31792824,flutter/flutter,Dart,662
-35955666,jlevy/the-art-of-command-line,,2194
-51980455,alacritty/alacritty,Rust,1350
-246335987,ventoy/Ventoy,C,1314
-241805592,rome/tools,TypeScript,237
-14981376,dogecoin/dogecoin,C++,1408
-228016443,youngyangyang04/leetcode-master,,1369
-62117812,apache/pulsar,Java,382
-208728772,milvus-io/milvus,Go,516
-32921736,audacity/audacity,C,595
-89067146,ethereum-mining/ethminer,C++,100
-140543886,dromara/shenyu,Java,520
-363827399,abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard,Dart,1593
-108706901,Uniswap/uniswap-interface,TypeScript,100
-193519496,DIGITALCRIMINAL/OnlyFans,Python,340
-348501270,facebookincubator/cinder,Python,444
-362657620,wisz2021/jd_docker,Shell,423
-260037952,Uniswap/uniswap-v3-core,TypeScript,182
-295312652,pancakeswap/pancake-frontend,TypeScript,60
-352245918,swar/Swar-Chia-Plot-Manager,Python,245
-356371687,alura-cursos/imersaodados3,Jupyter Notebook,107
-340473970,Uniswap/uniswap-v3-periphery,TypeScript,125
-363049558,bhattbhavesh91/cowin-vaccination-slot-availability,Jupyter Notebook,75
-343506843,Chia-Network/chia-docker,Shell,22
+31792824,flutter/flutter,Dart,636
+35955666,jlevy/the-art-of-command-line,,1721
+51980455,alacritty/alacritty,Rust,1362
+246335987,ventoy/Ventoy,C,1318
+241805592,rome/tools,TypeScript,208
+14981376,dogecoin/dogecoin,C++,1275
+228016443,youngyangyang04/leetcode-master,,1379
+62117812,apache/pulsar,Java,388
+208728772,milvus-io/milvus,Go,504
+32921736,audacity/audacity,C,572
+89067146,ethereum-mining/ethminer,C++,101
+140543886,dromara/shenyu,Java,501
+363827399,abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard,Dart,1536
+108706901,Uniswap/uniswap-interface,TypeScript,102
+193519496,DIGITALCRIMINAL/OnlyFans,Python,280
+348501270,facebookincubator/cinder,Python,418
+362657620,wisz2021/jd_docker,Shell,427
+260037952,Uniswap/uniswap-v3-core,TypeScript,201
+295312652,pancakeswap/pancake-frontend,TypeScript,65
+352245918,swar/Swar-Chia-Plot-Manager,Python,246
+356371687,alura-cursos/imersaodados3,Jupyter Notebook,128
+340473970,Uniswap/uniswap-v3-periphery,TypeScript,106
+363049558,bhattbhavesh91/cowin-vaccination-slot-availability,Jupyter Notebook,71
+343506843,Chia-Network/chia-docker,Shell,21

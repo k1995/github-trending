@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,71
-65252,jekyll/jekyll,Ruby,57
+8514,rails/rails,Ruby,69
+65252,jekyll/jekyll,Ruby,56
 7569578,discourse/discourse,Ruby,60
 52281283,tootsuite/mastodon,Ruby,51
 481872,hashicorp/vagrant,Ruby,48
 308770,heartcombo/devise,Ruby,29
-73648678,forem/forem,Ruby,191
-106995,sinatra/sinatra,Ruby,17
-1918677,fluent/fluentd,Ruby,27
+73648678,forem/forem,Ruby,165
+106995,sinatra/sinatra,Ruby,15
+1918677,fluent/fluentd,Ruby,30
 96395,faker-ruby/faker,Ruby,14
 611921,activeadmin/activeadmin,Ruby,6
 1725199,github/linguist,Ruby,32
@@ -22,5 +22,5 @@ id,name,lang,new stars
 115859973,ddnexus/pagy,Ruby,14
 5144181,jnunemaker/flipper,Ruby,21
 103766152,github/explore,Ruby,17
-93163073,dependabot/dependabot-core,Ruby,24
+93163073,dependabot/dependabot-core,Ruby,26
 16006666,turingschool/ruby-exercises,Ruby,0
