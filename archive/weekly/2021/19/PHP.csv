@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,169
+1863329,laravel/laravel,PHP,172
 458058,symfony/symfony,PHP,166
 1864363,composer/composer,PHP,41
 7548986,laravel/framework,PHP,69
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,33
-29843361,w7corp/easywechat,PHP,33
+29843361,w7corp/easywechat,PHP,35
 2884111,magento/magento2,PHP,16
 2699935,squizlabs/PHP_CodeSniffer,PHP,17
 330275,twigphp/Twig,PHP,11
 1398660,symfony/routing,PHP,11
 32015820,webmozarts/assert,PHP,14
-1398634,symfony/css-selector,PHP,11
-10371103,Laravel-Lang/lang,PHP,21
-14346979,snipe/snipe-it,PHP,23
+1398634,symfony/css-selector,PHP,13
+10371103,Laravel-Lang/lang,PHP,20
+14346979,snipe/snipe-it,PHP,20
 60010673,elementor/elementor,PHP,11
-22751672,tecnickcom/TCPDF,PHP,10
+22751672,tecnickcom/TCPDF,PHP,9
 38116958,php-telegram-bot/core,PHP,11
 151089715,symfony/polyfill-intl-idn,PHP,11
 47508644,pterodactyl/panel,PHP,27
