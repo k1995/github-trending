@@ -1,18 +1,18 @@
 id,name,lang,new stars
 15452919,ethereum/go-ethereum,Go,905
-17728164,hashicorp/terraform,Go,414
+17728164,hashicorp/terraform,Go,416
 212613049,cli/cli,Go,1043
 119160553,photoprism/photoprism,Go,2295
-163883279,nektos/act,Go,1090
+163883279,nektos/act,Go,1094
 165041732,go-kratos/kratos,Go,478
 72477752,pulumi/pulumi,Go,452
 119419195,GoogleContainerTools/kaniko,Go,234
-109145553,containers/podman,Go,245
-119190187,zricethezav/gitleaks,Go,220
+109145553,containers/podman,Go,242
+119190187,zricethezav/gitleaks,Go,221
 201658460,geektutu/7days-golang,Go,333
 208728772,milvus-io/milvus,Go,704
-130430977,kubesphere/kubesphere,Go,220
-95761244,gogf/gf,Go,231
+130430977,kubesphere/kubesphere,Go,219
+95761244,gogf/gf,Go,232
 14128006,hashicorp/raft,Go,229
 172292744,panjf2000/gnet,Go,444
 87990209,kubernetes/autoscaler,Go,121

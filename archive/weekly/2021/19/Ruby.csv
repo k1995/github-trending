@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,72
-65252,jekyll/jekyll,Ruby,56
+65252,jekyll/jekyll,Ruby,54
 7569578,discourse/discourse,Ruby,63
 52281283,tootsuite/mastodon,Ruby,48
-481872,hashicorp/vagrant,Ruby,44
+481872,hashicorp/vagrant,Ruby,43
 308770,heartcombo/devise,Ruby,24
-73648678,forem/forem,Ruby,130
+73648678,forem/forem,Ruby,120
 106995,sinatra/sinatra,Ruby,14
-1918677,fluent/fluentd,Ruby,30
-96395,faker-ruby/faker,Ruby,12
-611921,activeadmin/activeadmin,Ruby,6
+1918677,fluent/fluentd,Ruby,29
+96395,faker-ruby/faker,Ruby,13
+611921,activeadmin/activeadmin,Ruby,7
 1725199,github/linguist,Ruby,31
 2441517,puma/puma,Ruby,12
 1227,mislav/will_paginate,Ruby,5
@@ -20,7 +20,7 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,25
 244452551,alexeygrigorev/data-science-interviews,Ruby,22
 115859973,ddnexus/pagy,Ruby,17
-5144181,jnunemaker/flipper,Ruby,25
-103766152,github/explore,Ruby,20
+5144181,jnunemaker/flipper,Ruby,28
+103766152,github/explore,Ruby,19
 93163073,dependabot/dependabot-core,Ruby,26
 16006666,turingschool/ruby-exercises,Ruby,1
