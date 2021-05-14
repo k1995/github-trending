@@ -9,7 +9,7 @@ id,name,lang,new stars
 62117812,apache/pulsar,Java,394
 208728772,milvus-io/milvus,Go,523
 32921736,audacity/audacity,C,448
-89067146,ethereum-mining/ethminer,C++,112
+89067146,ethereum-mining/ethminer,C++,110
 140543886,dromara/shenyu,Java,504
 299354207,rustdesk/rustdesk,Rust,874
 363827399,abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard,Dart,1243
@@ -17,10 +17,10 @@ id,name,lang,new stars
 362657620,wisz2021/jd_docker,Shell,407
 155636399,tevador/RandomX,C++,227
 260037952,Uniswap/uniswap-v3-core,TypeScript,145
-201546443,trustwallet/assets,TypeScript,162
-353364259,kcp-dev/kcp,Go,340
-306786400,ericaltendorf/plotman,Python,203
-362534835,pallupz/covid-vaccine-booking,Python,222
+201546443,trustwallet/assets,TypeScript,232
+353364259,kcp-dev/kcp,Go,315
+306786400,ericaltendorf/plotman,Python,205
+362534835,pallupz/covid-vaccine-booking,Python,199
 352245918,swar/Swar-Chia-Plot-Manager,Python,240
-340473970,Uniswap/uniswap-v3-periphery,TypeScript,102
+340473970,Uniswap/uniswap-v3-periphery,TypeScript,48
 363049558,bhattbhavesh91/cowin-vaccination-slot-availability,Jupyter Notebook,71
