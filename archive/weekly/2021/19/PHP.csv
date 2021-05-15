@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,167
+1863329,laravel/laravel,PHP,168
 458058,symfony/symfony,PHP,220
 1864363,composer/composer,PHP,38
 7548986,laravel/framework,PHP,64
@@ -7,10 +7,10 @@ id,name,lang,new stars
 61490598,PHPOffice/PhpSpreadsheet,PHP,40
 29843361,w7corp/easywechat,PHP,36
 622166,FriendsOfPHP/Goutte,PHP,10
-32015820,webmozarts/assert,PHP,14
+32015820,webmozarts/assert,PHP,13
 14346979,snipe/snipe-it,PHP,21
 4026744,vinkla/hashids,PHP,15
-60010673,elementor/elementor,PHP,10
+60010673,elementor/elementor,PHP,9
 159606650,hyperf/hyperf,PHP,20
 22751672,tecnickcom/TCPDF,PHP,8
 47508644,pterodactyl/panel,PHP,25
@@ -21,6 +21,6 @@ id,name,lang,new stars
 104077768,wususu/effective-resourses,PHP,19
 131995661,shopware/platform,PHP,10
 174021137,inertiajs/pingcrm,PHP,21
-111562942,statamic/cms,PHP,12
+111562942,statamic/cms,PHP,11
 27249479,EC-CUBE/ec-cube,PHP,1
-355576324,theonemcdonald/pfSense-pkg-WireGuard,PHP,21
+355576324,theonemcdonald/pfSense-pkg-WireGuard,PHP,22
