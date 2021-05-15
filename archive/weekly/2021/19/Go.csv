@@ -1,11 +1,11 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,255
 20904437,gin-gonic/gin,Go,231
-14712850,syncthing/syncthing,Go,790
+14712850,syncthing/syncthing,Go,854
 6838921,prometheus/prometheus,Go,133
 11225014,etcd-io/etcd,Go,103
 15452919,ethereum/go-ethereum,Go,291
-41986369,pingcap/tidb,Go,129
+41986369,pingcap/tidb,Go,130
 30215630,go-kit/kit,Go,82
 129717717,grafana/loki,Go,68
 285864199,tal-tech/go-zero,Go,201

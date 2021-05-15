@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,85
-3774328,wg/wrk,C,17
-29759715,facebook/zstd,C,70
+2325298,torvalds/linux,C,75
+3774328,wg/wrk,C,18
+29759715,facebook/zstd,C,67
 5254557,cloudwu/skynet,C,4
-27737393,qmk/qmk_firmware,C,8
+27737393,qmk/qmk_firmware,C,9
 613829,openresty/lua-nginx-module,C,5
 1856976,libevent/libevent,C,5
-179354282,acidanthera/OpenCorePkg,C,11
+179354282,acidanthera/OpenCorePkg,C,10
 109762904,leandromoreira/ffmpeg-libav-tutorial,C,20
-39242894,coturn/coturn,C,8
+39242894,coturn/coturn,C,6
 18106269,lz4/lz4,C,3
 7408108,RT-Thread/rt-thread,C,8
 16734696,meetecho/janus-gateway,C,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 254327261,sandboxie-plus/Sandboxie,C,10
 6687936,ARMmbed/mbedtls,C,2
 23007417,colmap/colmap,C,3
-213916896,blender/blender,C,7
+213916896,blender/blender,C,5
 206121828,FreeRTOS/FreeRTOS,C,4
-366715028,positive-security/send-my,C,314
-297789201,vanhoefm/fragattacks,C,189
+366715028,positive-security/send-my,C,291
+297789201,vanhoefm/fragattacks,C,160
 80611216,open5gs/open5gs,C,2
 226167620,JF002/InfiniTime,C,3
 367056155,waldo-irc/CVE-2021-21551,C,42
