@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,63
 7569578,discourse/discourse,Ruby,70
-52281283,tootsuite/mastodon,Ruby,48
-2293158,rapid7/metasploit-framework,Ruby,80
+52281283,tootsuite/mastodon,Ruby,54
+2293158,rapid7/metasploit-framework,Ruby,81
 538746,ruby/ruby,Ruby,26
-73648678,forem/forem,Ruby,59
-1918677,fluent/fluentd,Ruby,29
-96395,faker-ruby/faker,Ruby,15
+73648678,forem/forem,Ruby,60
+1918677,fluent/fluentd,Ruby,28
+96395,faker-ruby/faker,Ruby,14
 1725199,github/linguist,Ruby,26
 47087,carrierwaveuploader/carrierwave,Ruby,4
 129791,javan/whenever,Ruby,11
@@ -14,9 +14,9 @@ id,name,lang,new stars
 16549503,github/scientist,Ruby,33
 2889230,rails-api/active_model_serializers,Ruby,4
 75785147,rails/webpacker,Ruby,7
-1980539,drapergem/draper,Ruby,4
-6899875,opf/openproject,Ruby,22
-244452551,alexeygrigorev/data-science-interviews,Ruby,22
+1980539,drapergem/draper,Ruby,3
+6899875,opf/openproject,Ruby,23
+244452551,alexeygrigorev/data-science-interviews,Ruby,25
 2981455,github/gemoji,Ruby,3
 5144181,jnunemaker/flipper,Ruby,36
 103766152,github/explore,Ruby,18
