@@ -1,16 +1,16 @@
 id,name,lang,new stars
-15452919,ethereum/go-ethereum,Go,931
+15452919,ethereum/go-ethereum,Go,934
 212613049,cli/cli,Go,1071
-56353740,kubernetes/minikube,Go,245
-119160553,photoprism/photoprism,Go,2318
+56353740,kubernetes/minikube,Go,246
+119160553,photoprism/photoprism,Go,2321
 165041732,go-kratos/kratos,Go,403
 66841911,360EntSecGroup-Skylar/excelize,Go,322
 72477752,pulumi/pulumi,Go,454
 109145553,containers/podman,Go,246
 119190187,zricethezav/gitleaks,Go,225
-201658460,geektutu/7days-golang,Go,340
+201658460,geektutu/7days-golang,Go,338
 208728772,milvus-io/milvus,Go,719
-134018330,panjf2000/ants,Go,262
+134018330,panjf2000/ants,Go,263
 130430977,kubesphere/kubesphere,Go,221
 95761244,gogf/gf,Go,229
 14128006,hashicorp/raft,Go,229
@@ -20,7 +20,7 @@ id,name,lang,new stars
 244694886,didi/nightingale,Go,184
 93446042,terraform-providers/terraform-provider-azurerm,Go,184
 128089774,storj/storj,Go,499
-57912964,kubernetes/enhancements,Go,55
-312629343,shadow1ng/fscan,Go,516
-352438471,umputun/reproxy,Go,403
-265775217,binance-chain/bsc,Go,175
+57912964,kubernetes/enhancements,Go,56
+312629343,shadow1ng/fscan,Go,515
+352438471,umputun/reproxy,Go,404
+265775217,binance-chain/bsc,Go,176
