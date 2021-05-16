@@ -1,14 +1,14 @@
 id,name,lang,new stars
-7600409,shadowsocks/shadowsocks-windows,C#,72
-49609581,PowerShell/PowerShell,C#,122
-199570071,2dust/v2rayN,C#,173
+7600409,shadowsocks/shadowsocks-windows,C#,73
+49609581,PowerShell/PowerShell,C#,123
+199570071,2dust/v2rayN,C#,180
 14964475,AvaloniaUI/Avalonia,C#,70
-193681686,NetchX/Netch,C#,82
+193681686,NetchX/Netch,C#,85
 46652227,IdentityServer/IdentityServer4,C#,36
 126486701,Unity-Technologies/UnityCsReference,C#,34
 46755185,bitwarden/server,C#,45
-75505125,abpframework/abp,C#,64
-210716005,dotnet/runtime,C#,68
+75505125,abpframework/abp,C#,67
+210716005,dotnet/runtime,C#,69
 27251463,QuantConnect/Lean,C#,37
 21611723,quasar/Quasar,C#,39
 281360869,spectreconsole/spectre.console,C#,92
@@ -17,7 +17,7 @@ id,name,lang,new stars
 96434786,nicehash/NiceHashMiner,C#,41
 72554578,confluentinc/confluent-kafka-dotnet,C#,11
 187499284,Cysharp/UniTask,C#,38
-41173335,openiddict/openiddict-core,C#,111
+41173335,openiddict/openiddict-core,C#,112
 138290022,mob-sakai/ParticleEffectForUGUI,C#,23
 210280372,liukuo362573/YiShaAdmin,C#,34
 341352859,slushiegoose/Town-Of-Us,C#,30
