@@ -1,15 +1,15 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,5
-27442967,fastlane/fastlane,Ruby,6
+27442967,fastlane/fastlane,Ruby,9
 13840241,freeCodeCamp/devdocs,Ruby,13
 52281283,tootsuite/mastodon,Ruby,9
-2293158,rapid7/metasploit-framework,Ruby,9
+2293158,rapid7/metasploit-framework,Ruby,13
 2500088,gitlabhq/gitlabhq,Ruby,2
-37382858,kilimchoi/engineering-blogs,Ruby,6
+37382858,kilimchoi/engineering-blogs,Ruby,7
 538746,ruby/ruby,Ruby,2
-73648678,forem/forem,Ruby,5
-4095287,rubocop/rubocop,Ruby,1
-1918677,fluent/fluentd,Ruby,3
+73648678,forem/forem,Ruby,6
+4095287,rubocop/rubocop,Ruby,2
+1918677,fluent/fluentd,Ruby,4
 910744,puppetlabs/puppet,Ruby,2
 4994614,wpscanteam/wpscan,Ruby,3
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 56942570,Homebrew/linuxbrew-core,Ruby,2
 80462373,keyvanakbary/learning-notes,Ruby,2
 8154497,rubysec/ruby-advisory-db,Ruby,0
-353607417,hostolab/covidliste,Ruby,0
+353607417,hostolab/covidliste,Ruby,1
 27006066,makersacademy/rps-challenge,Ruby,0
 4057632,dextra/mvncache,Ruby,0
 3234325,44uk/adjective-japanese_name,Ruby,0

@@ -1,13 +1,13 @@
 id,name,lang,new stars
 156018,redis/redis,C,15
 111583593,Genymobile/scrcpy,C,30
-102578345,coolsnowwolf/lede,C,9
-20159867,nothings/stb,C,8
+102578345,coolsnowwolf/lede,C,13
+20159867,nothings/stb,C,7
 6201092,mpv-player/mpv,C,8
-29759715,facebook/zstd,C,78
+29759715,facebook/zstd,C,39
 66150122,jarun/nnn,C,11
-27737393,qmk/qmk_firmware,C,4
-78281075,SpacehuhnTech/esp8266_deauther,C,4
+27737393,qmk/qmk_firmware,C,10
+78281075,SpacehuhnTech/esp8266_deauther,C,7
 9524997,glfw/glfw,C,2
 14902556,offensive-security/exploitdb,C,5
 3318027,id-Software/Quake-III-Arena,C,3
@@ -15,12 +15,12 @@ id,name,lang,new stars
 224151065,Immediate-Mode-UI/Nuklear,C,5
 68082730,Ralim/IronOS,C,4
 58132544,RediSearch/RediSearch,C,2
-282790925,badafans/better-cloudflare-ip,C,5
-98257850,intel/haxm,C,4
+282790925,badafans/better-cloudflare-ip,C,10
+98257850,intel/haxm,C,5
 330008801,libsdl-org/SDL,C,3
 15768646,vedderb/bldc,C,2
-366715028,positive-security/send-my,C,210
+366715028,positive-security/send-my,C,297
 297789201,vanhoefm/fragattacks,C,201
-75195188,ec-/Quake3e,C,80
+75195188,ec-/Quake3e,C,92
 367171090,stolk/chiaharvestgraph,C,10
 363659570,TotallyNotChase/c-iterators,C,4
