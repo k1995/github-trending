@@ -1,8 +1,8 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,933
-1181927,bitcoin/bitcoin,C++,1637
-74627617,commaai/openpilot,C++,2130
-67702184,topjohnwu/Magisk,C++,771
+1181927,bitcoin/bitcoin,C++,1607
+74627617,commaai/openpilot,C++,2132
+67702184,topjohnwu/Magisk,C++,748
 74660642,taichi-dev/taichi,C++,1582
 34777562,ossrs/srs,C++,2207
 63477612,TheAlgorithms/C-Plus-Plus,C++,1196
@@ -10,17 +10,17 @@ id,name,lang,new stars
 191820100,google/mediapipe,C++,535
 197275130,microsoft/winget-cli,C++,468
 160083795,SerenityOS/serenity,C++,878
+17391973,Tencent/rapidjson,C++,130
 102692863,onnx/onnx,C++,285
-40892817,ethereum/solidity,C++,585
+40892817,ethereum/solidity,C++,587
 186309296,lettier/3d-game-shaders-for-beginners,C++,1884
 14981376,dogecoin/dogecoin,C++,4760
 153866232,TheCherno/Hazel,C++,237
 88327406,xmrig/xmrig,C++,511
-2724167,ripple/rippled,C++,78
-161376600,flashlight/flashlight,C++,2200
+12849977,recastnavigation/recastnavigation,C++,155
+161376600,flashlight/flashlight,C++,2202
 19347340,nanocurrency/nano-node,C++,187
-223904726,wang-xinyu/tensorrtx,C++,192
-14983921,srsran/srsRAN,C++,36
+58168143,PixarAnimationStudios/USD,C++,59
 244694174,project-chip/connectedhomeip,C++,216
-170738310,trustwallet/wallet-core,C++,99
-151064439,ExpressLRS/ExpressLRS,C++,219
+52400453,IntelRealSense/realsense-ros,C++,104
+151064439,ExpressLRS/ExpressLRS,C++,234

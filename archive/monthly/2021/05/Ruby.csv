@@ -6,11 +6,10 @@ id,name,lang,new stars
 2293158,rapid7/metasploit-framework,Ruby,311
 481872,hashicorp/vagrant,Ruby,180
 308770,heartcombo/devise,Ruby,95
-3623050,Homebrew/homebrew-cask,Ruby,125
 538746,ruby/ruby,Ruby,116
 73648678,forem/forem,Ruby,412
 18486300,lewagon/setup,Ruby,315
-96395,faker-ruby/faker,Ruby,58
+96395,faker-ruby/faker,Ruby,57
 611921,activeadmin/activeadmin,Ruby,31
 21829,thoughtbot/factory_bot,Ruby,38
 2441517,puma/puma,Ruby,39
@@ -22,5 +21,6 @@ id,name,lang,new stars
 5144181,jnunemaker/flipper,Ruby,76
 103766152,github/explore,Ruby,70
 93163073,dependabot/dependabot-core,Ruby,100
-353607417,hostolab/covidliste,Ruby,119
+200302808,github/view_component,Ruby,84
+353607417,hostolab/covidliste,Ruby,111
 333392899,JapanExchangeGroup/J-Quants-Tutorial,Ruby,25
