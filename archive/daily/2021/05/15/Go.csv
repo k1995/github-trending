@@ -1,5 +1,5 @@
 id,name,lang,new stars
-14712850,syncthing/syncthing,Go,620
+14712850,syncthing/syncthing,Go,627
 74175805,istio/istio,Go,14
 14125254,hashicorp/consul,Go,6
 30215630,go-kit/kit,Go,13
@@ -16,7 +16,7 @@ id,name,lang,new stars
 92648433,gwuhaolin/livego,Go,12
 150954997,VictoriaMetrics/VictoriaMetrics,Go,19
 16907502,fatih/color,Go,23
-72875399,luraproject/lura,Go,33
+72875399,luraproject/lura,Go,34
 79954708,dominikh/go-tools,Go,7
 53356367,containers/skopeo,Go,5
 93446042,terraform-providers/terraform-provider-azurerm,Go,5
