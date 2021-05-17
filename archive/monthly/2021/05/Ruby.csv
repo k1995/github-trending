@@ -1,11 +1,11 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,229
+65252,jekyll/jekyll,Ruby,227
 7569578,discourse/discourse,Ruby,285
 8681349,huginn/huginn,Ruby,258
 52281283,tootsuite/mastodon,Ruby,190
 2293158,rapid7/metasploit-framework,Ruby,321
 481872,hashicorp/vagrant,Ruby,172
-308770,heartcombo/devise,Ruby,91
+308770,heartcombo/devise,Ruby,89
 538746,ruby/ruby,Ruby,113
 73648678,forem/forem,Ruby,412
 18486300,lewagon/setup,Ruby,313
@@ -17,9 +17,9 @@ id,name,lang,new stars
 16549503,github/scientist,Ruby,79
 75785147,rails/webpacker,Ruby,27
 30337170,rmosolgo/graphql-ruby,Ruby,29
-30985840,solidusio/solidus,Ruby,97
-5144181,jnunemaker/flipper,Ruby,76
-103766152,github/explore,Ruby,71
+30985840,solidusio/solidus,Ruby,96
+5144181,jnunemaker/flipper,Ruby,75
+103766152,github/explore,Ruby,72
 93163073,dependabot/dependabot-core,Ruby,99
 200302808,github/view_component,Ruby,86
 353607417,hostolab/covidliste,Ruby,111

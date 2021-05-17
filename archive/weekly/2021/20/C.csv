@@ -1,15 +1,15 @@
 id,name,lang,new stars
 1614410,FFmpeg/FFmpeg,C,130
 62156403,QSCTech/zju-icicles,C,66
-18666758,pjreddie/darknet,C,78
+18666758,pjreddie/darknet,C,77
 246335987,ventoy/Ventoy,C,519
 102578345,coolsnowwolf/lede,C,84
 201454051,Awesome-HarmonyOS/HarmonyOS,C,38
-29759715,facebook/zstd,C,156
+29759715,facebook/zstd,C,155
 15337142,micropython/micropython,C,49
 18496166,gentilkiwi/mimikatz,C,65
 34921116,iovisor/bcc,C,72
-3319040,id-Software/DOOM,C,43
+3319040,id-Software/DOOM,C,40
 184909163,koekeishiya/yabai,C,85
 69828680,jgamblin/Mirai-Source-Code,C,38
 13836499,raysan5/raylib,C,62
@@ -22,5 +22,5 @@ id,name,lang,new stars
 27085821,stellar/stellar-core,C,9
 157590294,TelegramMessenger/Telegram-iOS,C,15
 108568638,hanwckf/rt-n56u,C,21
-343862270,Mr-Un1k0d3r/EDRs,C,187
+343862270,Mr-Un1k0d3r/EDRs,C,165
 364051298,stecman/hw-boot-selection,C,62
