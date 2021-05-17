@@ -1,11 +1,12 @@
 id,name,lang,new stars
 14712850,syncthing/syncthing,Go,1701
-15452919,ethereum/go-ethereum,Go,927
+15452919,ethereum/go-ethereum,Go,922
+56353740,kubernetes/minikube,Go,240
 119160553,photoprism/photoprism,Go,2326
 165041732,go-kratos/kratos,Go,356
 66841911,360EntSecGroup-Skylar/excelize,Go,316
 72477752,pulumi/pulumi,Go,446
-109145553,containers/podman,Go,237
+109145553,containers/podman,Go,241
 119190187,zricethezav/gitleaks,Go,216
 201658460,geektutu/7days-golang,Go,335
 208728772,milvus-io/milvus,Go,710
@@ -14,10 +15,9 @@ id,name,lang,new stars
 95761244,gogf/gf,Go,220
 14128006,hashicorp/raft,Go,226
 172292744,panjf2000/gnet,Go,454
-10721619,hajimehoshi/ebiten,Go,189
+87990209,kubernetes/autoscaler,Go,115
 72875399,luraproject/lura,Go,266
 144849757,fanux/sealos,Go,279
-244694886,didi/nightingale,Go,170
 93446042,terraform-providers/terraform-provider-azurerm,Go,181
 128089774,storj/storj,Go,498
 57912964,kubernetes/enhancements,Go,58
