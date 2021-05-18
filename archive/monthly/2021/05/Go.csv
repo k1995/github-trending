@@ -1,6 +1,6 @@
 id,name,lang,new stars
 14712850,syncthing/syncthing,Go,1980
-15452919,ethereum/go-ethereum,Go,937
+15452919,ethereum/go-ethereum,Go,938
 56353740,kubernetes/minikube,Go,240
 119160553,photoprism/photoprism,Go,2334
 165041732,go-kratos/kratos,Go,355
@@ -16,11 +16,11 @@ id,name,lang,new stars
 14128006,hashicorp/raft,Go,226
 172292744,panjf2000/gnet,Go,460
 87990209,kubernetes/autoscaler,Go,116
-72875399,luraproject/lura,Go,268
+72875399,luraproject/lura,Go,270
 144849757,fanux/sealos,Go,286
 93446042,terraform-providers/terraform-provider-azurerm,Go,169
 128089774,storj/storj,Go,498
 57912964,kubernetes/enhancements,Go,58
 312629343,shadow1ng/fscan,Go,497
-253522878,docker/compose-cli,Go,65
-265775217,binance-chain/bsc,Go,144
+253522878,docker/compose-cli,Go,66
+265775217,binance-chain/bsc,Go,143
