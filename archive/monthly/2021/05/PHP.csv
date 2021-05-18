@@ -1,14 +1,14 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,592
-458058,symfony/symfony,PHP,344
+458058,symfony/symfony,PHP,345
 7548986,laravel/framework,PHP,251
-2253830,PHPMailer/PHPMailer,PHP,162
-1631570,nikic/PHP-Parser,PHP,104
+2253830,PHPMailer/PHPMailer,PHP,160
+1631570,nikic/PHP-Parser,PHP,105
 82238168,monicahq/monica,PHP,134
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,105
-29843361,w7corp/easywechat,PHP,64
+29843361,w7corp/easywechat,PHP,65
 2884111,magento/magento2,PHP,70
-12166778,googleapis/google-api-php-client,PHP,63
+12166778,googleapis/google-api-php-client,PHP,64
 41589337,BookStackApp/BookStack,PHP,154
 6763587,PrestaShop/PrestaShop,PHP,456
 10371103,Laravel-Lang/lang,PHP,101
@@ -16,9 +16,9 @@ id,name,lang,new stars
 9791525,digininja/DVWA,PHP,92
 9826184,elastic/elasticsearch-php,PHP,39
 4565995,phpseclib/phpseclib,PHP,51
-222873550,bytefury/crater,PHP,97
-351298555,thedevdojo/wave,PHP,1900
-13914116,librenms/librenms,PHP,60
+222873550,bytefury/crater,PHP,98
+351298555,thedevdojo/wave,PHP,1899
+13914116,librenms/librenms,PHP,59
 56836583,postaddictme/instagram-php-scraper,PHP,50
 131995661,shopware/platform,PHP,44
 189104054,laravel/ui,PHP,54
