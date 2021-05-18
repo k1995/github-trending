@@ -1,19 +1,19 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,149
-38380854,dnSpy/dnSpy,C#,15
-29078997,dotnet/roslyn,C#,12
+17620347,dotnet/aspnetcore,C#,175
+38380854,dnSpy/dnSpy,C#,14
+29078997,dotnet/roslyn,C#,13
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,7
-16157746,dotnet/efcore,C#,12
+16157746,dotnet/efcore,C#,11
 791611,mono/mono,C#,5
-9864166,App-vNext/Polly,C#,7
-28239455,dotnet/AspNetCore.Docs,C#,6
-126486701,Unity-Technologies/UnityCsReference,C#,5
-28232663,dotnet/orleans,C#,5
-75990888,dotnet/csharplang,C#,8
+9864166,App-vNext/Polly,C#,8
+28239455,dotnet/AspNetCore.Docs,C#,8
+126486701,Unity-Technologies/UnityCsReference,C#,4
+28232663,dotnet/orleans,C#,6
+75990888,dotnet/csharplang,C#,7
 213460285,jasontaylordev/CleanArchitecture,C#,5
 778828,MassTransit/MassTransit,C#,4
 73864802,danielgerlag/workflow-core,C#,1
-134707912,dotnetcore/WTM,C#,5
+134707912,dotnetcore/WTM,C#,6
 7377936,d2phap/ImageGlass,C#,10
 49673872,sshnet/SSH.NET,C#,4
 2928944,Azure/azure-sdk-for-net,C#,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 252826419,Unity-Technologies/Graphics,C#,8
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,5
 286900641,cocoa-mhlw/cocoa,C#,2
-366663429,jynew/jynew,C#,21
+366663429,jynew/jynew,C#,15
