@@ -1,20 +1,21 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,287
-8681349,huginn/huginn,Ruby,261
+7569578,discourse/discourse,Ruby,286
+8681349,huginn/huginn,Ruby,262
+13840241,freeCodeCamp/devdocs,Ruby,267
 52281283,tootsuite/mastodon,Ruby,191
-2293158,rapid7/metasploit-framework,Ruby,325
+2293158,rapid7/metasploit-framework,Ruby,331
 481872,hashicorp/vagrant,Ruby,171
 308770,heartcombo/devise,Ruby,90
 538746,ruby/ruby,Ruby,115
 73648678,forem/forem,Ruby,420
-18486300,lewagon/setup,Ruby,323
-96395,faker-ruby/faker,Ruby,61
+96395,faker-ruby/faker,Ruby,62
 611921,activeadmin/activeadmin,Ruby,33
-21829,thoughtbot/factory_bot,Ruby,38
+21829,thoughtbot/factory_bot,Ruby,37
 2441517,puma/puma,Ruby,39
 108278,chef/chef,Ruby,28
 75785147,rails/webpacker,Ruby,32
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,156
+6899875,opf/openproject,Ruby,79
 30337170,rmosolgo/graphql-ruby,Ruby,28
 30985840,solidusio/solidus,Ruby,98
 5144181,jnunemaker/flipper,Ruby,78
@@ -23,4 +24,3 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,86
 121513081,tradingview/charting-library-examples,Ruby,23
 353607417,hostolab/covidliste,Ruby,109
-333392899,JapanExchangeGroup/J-Quants-Tutorial,Ruby,25
