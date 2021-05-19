@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,55
 7569578,discourse/discourse,Ruby,63
-27442967,fastlane/fastlane,Ruby,42
-13840241,freeCodeCamp/devdocs,Ruby,58
-52281283,tootsuite/mastodon,Ruby,52
-2293158,rapid7/metasploit-framework,Ruby,92
+27442967,fastlane/fastlane,Ruby,44
+13840241,freeCodeCamp/devdocs,Ruby,61
+52281283,tootsuite/mastodon,Ruby,55
+2293158,rapid7/metasploit-framework,Ruby,97
 308770,heartcombo/devise,Ruby,18
 37382858,kilimchoi/engineering-blogs,Ruby,36
-538746,ruby/ruby,Ruby,26
-1918677,fluent/fluentd,Ruby,23
+538746,ruby/ruby,Ruby,27
+1918677,fluent/fluentd,Ruby,24
 96395,faker-ruby/faker,Ruby,16
 1725199,github/linguist,Ruby,21
 129791,javan/whenever,Ruby,10
@@ -18,8 +18,8 @@ id,name,lang,new stars
 2981455,github/gemoji,Ruby,3
 30985840,solidusio/solidus,Ruby,14
 5144181,jnunemaker/flipper,Ruby,33
-103766152,github/explore,Ruby,21
-93163073,dependabot/dependabot-core,Ruby,13
+103766152,github/explore,Ruby,22
+93163073,dependabot/dependabot-core,Ruby,12
 34840276,elastic/ansible-elasticsearch,Ruby,4
 80462373,keyvanakbary/learning-notes,Ruby,19
 120039636,github/licensed,Ruby,12
