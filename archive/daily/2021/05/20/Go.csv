@@ -1,14 +1,14 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,41
-16752620,gogs/gogs,Go,15
+20904437,gin-gonic/gin,Go,44
+16752620,gogs/gogs,Go,16
 6838921,prometheus/prometheus,Go,18
 16607898,drone/drone,Go,18
-43723161,helm/helm,Go,8
-13628513,sirupsen/logrus,Go,12
-192632000,dapr/dapr,Go,34
+43723161,helm/helm,Go,10
+13628513,sirupsen/logrus,Go,13
+192632000,dapr/dapr,Go,37
 272035489,greyireland/algorithm-pattern,Go,24
 7083242,go-sql-driver/mysql,Go,4
-100982449,argoproj/argo-workflows,Go,9
+100982449,argoproj/argo-workflows,Go,7
 18858585,mailhog/MailHog,Go,6
 65434192,tidwall/gjson,Go,5
 22442668,openshift/origin,Go,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 113106184,linkerd/linkerd2,Go,7
 68964263,prometheus-operator/prometheus-operator,Go,5
 130430977,kubesphere/kubesphere,Go,5
-193833307,knadh/listmonk,Go,38
+193833307,knadh/listmonk,Go,34
 121746465,eddycjy/go-gin-example,Go,4
 87990209,kubernetes/autoscaler,Go,6
-127519518,projectdiscovery/subfinder,Go,8
-93446042,terraform-providers/terraform-provider-azurerm,Go,22
-355946670,loft-sh/vcluster,Go,32
-234530887,ethersphere/bee,Go,74
+127519518,projectdiscovery/subfinder,Go,9
+93446042,terraform-providers/terraform-provider-azurerm,Go,18
+355946670,loft-sh/vcluster,Go,30
+234530887,ethersphere/bee,Go,60
