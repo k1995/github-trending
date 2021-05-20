@@ -1,26 +1,26 @@
 id,name,lang,new stars
 121395510,CyC2018/CS-Notes,Java,756
-22790488,iluwatar/java-design-patterns,Java,879
-596892,pallets/flask,Python,489
+21289110,vinta/awesome-python,Python,968
+22790488,iluwatar/java-design-patterns,Java,953
 486550,h5bp/html5-boilerplate,JavaScript,461
-14712850,syncthing/syncthing,Go,1879
-361044034,slidevjs/slidev,TypeScript,1643
-228016443,youngyangyang04/leetcode-master,,1249
-246738676,google/automl,Jupyter Notebook,183
+14712850,syncthing/syncthing,Go,1892
+162279822,agalwood/Motrix,JavaScript,138
+67702184,topjohnwu/Magisk,C++,262
+43160685,zulip/zulip,Python,201
+246738676,google/automl,Jupyter Notebook,182
 217475193,PaddlePaddle/PaddleDetection,Python,429
-237940592,dromara/sa-token,Java,475
+19347340,nanocurrency/nano-node,C++,76
+165522651,emilk/egui,Rust,218
 341208122,seemoo-lab/openhaystack,Swift,490
-200675366,YunYouJun/air-conditioner,TypeScript,538
-362711256,Renovamen/playground-macos,JavaScript,288
 244694174,project-chip/connectedhomeip,C++,148
-362657620,wisz2021/jd_docker,Shell,320
+188299874,input-output-hk/cardano-node,Haskell,106
+362657620,wisz2021/jd_docker,Shell,316
 365565979,CyberPunkMetalHead/Binance-volatility-trading-bot,Python,490
+24217298,reds-heig/logisim-evolution,Java,128
 201546443,trustwallet/assets,TypeScript,338
-352245918,swar/Swar-Chia-Plot-Manager,Python,496
+352245918,swar/Swar-Chia-Plot-Manager,Python,499
+297789201,vanhoefm/fragattacks,C,453
 306786400,ericaltendorf/plotman,Python,166
-295312652,pancakeswap/pancake-frontend,TypeScript,70
-365701873,dfinity/ic,Rust,122
-351794647,monk-coder/dust,JavaScript,188
+365701873,dfinity/ic,Rust,97
+234530887,ethersphere/bee,Go,207
 354385343,martomi/chiadog,Python,89
-363049558,bhattbhavesh91/cowin-vaccination-slot-availability,Jupyter Notebook,42
-354020535,CovidTrackerFr/vitemadose,Python,48
