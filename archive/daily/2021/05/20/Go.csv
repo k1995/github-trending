@@ -1,15 +1,15 @@
 id,name,lang,new stars
 23096959,golang/go,Go,51
-7691631,moby/moby,Go,10
-20904437,gin-gonic/gin,Go,35
+7691631,moby/moby,Go,9
+20904437,gin-gonic/gin,Go,32
 29261473,minio/minio,Go,23
-212613049,cli/cli,Go,21
+212613049,cli/cli,Go,22
 43723161,helm/helm,Go,10
-13628513,sirupsen/logrus,Go,9
-46806184,helm/charts,Go,4
-234231371,gofiber/fiber,Go,16
-192632000,dapr/dapr,Go,33
-72891330,kubernetes/ingress-nginx,Go,9
+13628513,sirupsen/logrus,Go,10
+46806184,helm/charts,Go,3
+234231371,gofiber/fiber,Go,17
+192632000,dapr/dapr,Go,31
+72891330,kubernetes/ingress-nginx,Go,7
 109162639,thanos-io/thanos,Go,6
 148545807,kubernetes-sigs/kind,Go,7
 92313258,jetstack/cert-manager,Go,9
@@ -17,10 +17,10 @@ id,name,lang,new stars
 91851756,docker/docker-ce,Go,4
 48714685,open-policy-agent/opa,Go,10
 17451182,go-yaml/yaml,Go,2
-193833307,knadh/listmonk,Go,24
+193833307,knadh/listmonk,Go,23
 11452538,prometheus/alertmanager,Go,4
-79585104,matrix-org/dendrite,Go,7
+79585104,matrix-org/dendrite,Go,9
 202018792,aws/copilot-cli,Go,5
 133830411,argoproj/argo-events,Go,2
-234530887,ethersphere/bee,Go,13
+234530887,ethersphere/bee,Go,14
 368575326,bitclout/core,Go,17
