@@ -1,16 +1,16 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,84
-22790488,iluwatar/java-design-patterns,Java,221
+132464395,Snailclimb/JavaGuide,Java,80
+22790488,iluwatar/java-design-patterns,Java,228
 507775,elastic/elasticsearch,Java,21
 20300177,google/guava,Java,11
 53127403,ctripcorp/apollo,Java,11
 159152904,zhangdaiscott/jeecg-boot,Java,26
 7613257,SeleniumHQ/selenium,Java,10
-45721011,apache/skywalking,Java,9
+45721011,apache/skywalking,Java,11
 20587599,apache/flink,Java,12
 75643096,material-components/material-components-android,Java,4
 5349565,prestodb/presto,Java,1
-149121954,openjdk/jdk,Java,17
+149121954,openjdk/jdk,Java,18
 54783462,daniulive/SmarterStreaming,Java,3
 2352744,apereo/cas,Java,3
 75277003,thingsboard/thingsboard,Java,8
@@ -18,9 +18,9 @@ id,name,lang,new stars
 10981994,OpenFeign/feign,Java,7
 66023605,awsdocs/aws-doc-sdk-examples,Java,2
 159422409,CodingDocs/springboot-guide,Java,6
-45903621,reactor/reactor-core,Java,1
+45903621,reactor/reactor-core,Java,3
 3038937,FasterXML/jackson-databind,Java,2
 283046497,airbytehq/airbyte,Java,18
-273354529,981011512/--,Java,77
+273354529,981011512/--,Java,81
 267702531,googlesamples/mlkit,Java,4
-277584429,PorkStudios/FarPlaneTwo,Java,57
+277584429,PorkStudios/FarPlaneTwo,Java,56
