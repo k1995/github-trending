@@ -1,12 +1,12 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,139
-458058,symfony/symfony,PHP,96
-7548986,laravel/framework,PHP,56
-1376664,Seldaek/monolog,PHP,31
-448045,sebastianbergmann/phpunit,PHP,32
-2253830,PHPMailer/PHPMailer,PHP,45
-60243197,nextcloud/server,PHP,64
-3431193,yiisoft/yii2,PHP,13
+458058,symfony/symfony,PHP,97
+7548986,laravel/framework,PHP,58
+1376664,Seldaek/monolog,PHP,32
+448045,sebastianbergmann/phpunit,PHP,34
+2253830,PHPMailer/PHPMailer,PHP,46
+60243197,nextcloud/server,PHP,63
+3431193,yiisoft/yii2,PHP,14
 49014795,phpstan/phpstan,PHP,34
 2884111,magento/magento2,PHP,11
 7577142,doctrine/annotations,PHP,14
@@ -19,8 +19,8 @@ id,name,lang,new stars
 127536154,Qsnh/meedu,PHP,43
 6495081,wikimedia/mediawiki,PHP,15
 17253775,zabbix/zabbix,PHP,12
-152772568,wisp-x/lsky-pro,PHP,33
-111562942,statamic/cms,PHP,12
-143703053,rajkumardusad/IP-Tracer,PHP,15
+152772568,wisp-x/lsky-pro,PHP,32
+111562942,statamic/cms,PHP,13
+143703053,rajkumardusad/IP-Tracer,PHP,16
 354799085,eporsche/daybreak,PHP,12
-365847600,theizerg/laradmin,PHP,21
+365847600,theizerg/laradmin,PHP,20
