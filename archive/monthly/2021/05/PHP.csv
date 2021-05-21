@@ -1,20 +1,20 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,562
-3482588,danielmiessler/SecLists,PHP,601
-458058,symfony/symfony,PHP,349
+3482588,danielmiessler/SecLists,PHP,599
+458058,symfony/symfony,PHP,350
 1864363,composer/composer,PHP,159
 7548986,laravel/framework,PHP,260
-2253830,PHPMailer/PHPMailer,PHP,172
+2253830,PHPMailer/PHPMailer,PHP,173
 1631570,nikic/PHP-Parser,PHP,118
-82238168,monicahq/monica,PHP,122
+82238168,monicahq/monica,PHP,124
 29843361,w7corp/easywechat,PHP,66
 2884111,magento/magento2,PHP,61
-41589337,BookStackApp/BookStack,PHP,143
+41589337,BookStackApp/BookStack,PHP,144
 6763587,PrestaShop/PrestaShop,PHP,460
-10371103,Laravel-Lang/lang,PHP,95
+10371103,Laravel-Lang/lang,PHP,96
 86350964,the-benchmarker/web-frameworks,PHP,168
 4565995,phpseclib/phpseclib,PHP,51
-119047018,linuxserver/Heimdall,PHP,224
+119047018,linuxserver/Heimdall,PHP,223
 351298555,thedevdojo/wave,PHP,1882
 38116958,php-telegram-bot/core,PHP,45
 47508644,pterodactyl/panel,PHP,83
@@ -23,4 +23,4 @@ id,name,lang,new stars
 131995661,shopware/platform,PHP,42
 189104054,laravel/ui,PHP,55
 111562942,statamic/cms,PHP,46
-344332509,wintercms/winter,PHP,332
+344332509,wintercms/winter,PHP,330

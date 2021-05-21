@@ -1,16 +1,16 @@
 id,name,lang,new stars
-18666758,pjreddie/darknet,C,71
+18666758,pjreddie/darknet,C,72
 196353673,taosdata/TDengine,C,41
-29759715,facebook/zstd,C,190
-15337142,micropython/micropython,C,56
-18496166,gentilkiwi/mimikatz,C,68
+29759715,facebook/zstd,C,181
+15337142,micropython/micropython,C,53
+18496166,gentilkiwi/mimikatz,C,69
 5254557,cloudwu/skynet,C,28
-40217904,swaywm/sway,C,45
+40217904,swaywm/sway,C,44
 45821540,openwrt/openwrt,C,59
 78281075,SpacehuhnTech/esp8266_deauther,C,41
 75811015,Tencent/xLua,C,29
-65899476,espressif/esp-idf,C,39
-39242894,coturn/coturn,C,40
+65899476,espressif/esp-idf,C,40
+39242894,coturn/coturn,C,41
 16734696,meetecho/janus-gateway,C,27
 272457606,jart/cosmopolitan,C,803
 689344,libretro/RetroArch,C,29
@@ -18,9 +18,9 @@ id,name,lang,new stars
 53614190,eclipse/mosquitto,C,32
 101540444,imbushuo/mac-precision-touchpad,C,32
 17183871,esnet/iperf,C,36
-23007417,colmap/colmap,C,26
+23007417,colmap/colmap,C,25
 110170439,aws/amazon-freertos,C,6
-330008801,libsdl-org/SDL,C,46
-366715028,positive-security/send-my,C,695
-297789201,vanhoefm/fragattacks,C,249
+330008801,libsdl-org/SDL,C,47
+366715028,positive-security/send-my,C,657
+297789201,vanhoefm/fragattacks,C,229
 89279264,hoglet67/RGBtoHDMI,C,12
