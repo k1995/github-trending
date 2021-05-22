@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,138
+1863329,laravel/laravel,PHP,141
 458058,symfony/symfony,PHP,41
 7548986,laravel/framework,PHP,56
-1376664,Seldaek/monolog,PHP,31
+1376664,Seldaek/monolog,PHP,32
 448045,sebastianbergmann/phpunit,PHP,33
-2253830,PHPMailer/PHPMailer,PHP,49
+2253830,PHPMailer/PHPMailer,PHP,50
 3431193,yiisoft/yii2,PHP,18
 14259390,Maatwebsite/Laravel-Excel,PHP,30
 49014795,phpstan/phpstan,PHP,34
@@ -19,8 +19,8 @@ id,name,lang,new stars
 11935508,RSS-Bridge/rss-bridge,PHP,43
 31595609,mpdf/mpdf,PHP,14
 127536154,Qsnh/meedu,PHP,44
-6495081,wikimedia/mediawiki,PHP,15
+6495081,wikimedia/mediawiki,PHP,16
 139179084,area17/twill,PHP,19
-152772568,wisp-x/lsky-pro,PHP,28
+152772568,wisp-x/lsky-pro,PHP,29
 15231212,Automattic/jetpack,PHP,3
 365847600,theizerg/laradmin,PHP,16

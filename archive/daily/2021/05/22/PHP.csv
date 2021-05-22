@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,19
 2579314,fzaninotto/Faker,PHP,8
-1864363,composer/composer,PHP,6
+1864363,composer/composer,PHP,8
 7548986,laravel/framework,PHP,10
 1420053,guzzle/guzzle,PHP,4
 1631570,nikic/PHP-Parser,PHP,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 31595609,mpdf/mpdf,PHP,0
 69691727,pmmp/PocketMine-MP,PHP,2
 12063996,osTicket/osTicket,PHP,2
-39182755,glpi-project/glpi,PHP,2
+39182755,glpi-project/glpi,PHP,3
 153632216,spatie/data-transfer-object,PHP,7
 131995661,shopware/platform,PHP,1
 368537910,le31ei/ctf_challenges,PHP,9

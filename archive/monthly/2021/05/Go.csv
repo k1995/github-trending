@@ -1,9 +1,9 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1259
-14712850,syncthing/syncthing,Go,2348
-15452919,ethereum/go-ethereum,Go,966
-16607898,drone/drone,Go,349
-56353740,kubernetes/minikube,Go,255
+23096959,golang/go,Go,1260
+14712850,syncthing/syncthing,Go,2352
+15452919,ethereum/go-ethereum,Go,969
+16607898,drone/drone,Go,350
+56353740,kubernetes/minikube,Go,258
 119160553,photoprism/photoprism,Go,2349
 20653934,google/cadvisor,Go,150
 272035489,greyireland/algorithm-pattern,Go,412
@@ -11,8 +11,8 @@ id,name,lang,new stars
 119190187,zricethezav/gitleaks,Go,177
 201658460,geektutu/7days-golang,Go,399
 208728772,milvus-io/milvus,Go,746
-130430977,kubesphere/kubesphere,Go,238
-95761244,gogf/gf,Go,219
+130430977,kubesphere/kubesphere,Go,239
+95761244,gogf/gf,Go,220
 193833307,knadh/listmonk,Go,279
 172292744,panjf2000/gnet,Go,480
 72875399,luraproject/lura,Go,320
