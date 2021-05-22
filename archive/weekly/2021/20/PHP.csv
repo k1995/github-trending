@@ -1,21 +1,21 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,137
+1863329,laravel/laravel,PHP,136
 458058,symfony/symfony,PHP,41
-7548986,laravel/framework,PHP,58
+7548986,laravel/framework,PHP,56
 1376664,Seldaek/monolog,PHP,31
 448045,sebastianbergmann/phpunit,PHP,33
-2253830,PHPMailer/PHPMailer,PHP,50
-3431193,yiisoft/yii2,PHP,15
+2253830,PHPMailer/PHPMailer,PHP,49
+3431193,yiisoft/yii2,PHP,16
 14259390,Maatwebsite/Laravel-Excel,PHP,30
-49014795,phpstan/phpstan,PHP,35
+49014795,phpstan/phpstan,PHP,34
 137515,mockery/mockery,PHP,17
 2884111,magento/magento2,PHP,9
-6660366,dompdf/dompdf,PHP,25
-14346979,snipe/snipe-it,PHP,26
-3817881,zircote/swagger-php,PHP,17
-2784293,php-amqplib/php-amqplib,PHP,9
+6660366,dompdf/dompdf,PHP,24
+14346979,snipe/snipe-it,PHP,24
+3817881,zircote/swagger-php,PHP,16
+2784293,php-amqplib/php-amqplib,PHP,8
 1543827,moneyphp/money,PHP,25
-41463886,codeigniter4/CodeIgniter4,PHP,19
+41463886,codeigniter4/CodeIgniter4,PHP,18
 11935508,RSS-Bridge/rss-bridge,PHP,43
 31595609,mpdf/mpdf,PHP,14
 127536154,Qsnh/meedu,PHP,43
@@ -23,4 +23,4 @@ id,name,lang,new stars
 139179084,area17/twill,PHP,19
 152772568,wisp-x/lsky-pro,PHP,28
 15231212,Automattic/jetpack,PHP,3
-365847600,theizerg/laradmin,PHP,17
+365847600,theizerg/laradmin,PHP,16
