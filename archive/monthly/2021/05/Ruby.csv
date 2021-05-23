@@ -1,11 +1,11 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,259
 27442967,fastlane/fastlane,Ruby,649
-53238813,Homebrew/brew,Ruby,415
+53238813,Homebrew/brew,Ruby,419
 2293158,rapid7/metasploit-framework,Ruby,337
-481872,hashicorp/vagrant,Ruby,174
-73648678,forem/forem,Ruby,422
-52855516,Homebrew/homebrew-core,Ruby,151
+481872,hashicorp/vagrant,Ruby,173
+73648678,forem/forem,Ruby,425
+52855516,Homebrew/homebrew-core,Ruby,152
 96395,faker-ruby/faker,Ruby,66
 611921,activeadmin/activeadmin,Ruby,29
 1725199,github/linguist,Ruby,112
@@ -13,14 +13,14 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,42
 2441517,puma/puma,Ruby,42
 108278,chef/chef,Ruby,30
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,152
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,154
 75785147,rails/webpacker,Ruby,29
-30337170,rmosolgo/graphql-ruby,Ruby,33
+30337170,rmosolgo/graphql-ruby,Ruby,34
 52316423,luggit/react-native-config,Ruby,48
 5144181,jnunemaker/flipper,Ruby,74
 103766152,github/explore,Ruby,74
 93163073,dependabot/dependabot-core,Ruby,88
-200302808,github/view_component,Ruby,79
+200302808,github/view_component,Ruby,81
 189010173,Hackplayers/evil-winrm,Ruby,77
 121513081,tradingview/charting-library-examples,Ruby,23
 353607417,hostolab/covidliste,Ruby,100
