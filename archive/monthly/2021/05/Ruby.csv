@@ -1,15 +1,15 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,260
-27442967,fastlane/fastlane,Ruby,654
-53238813,Homebrew/brew,Ruby,420
-2293158,rapid7/metasploit-framework,Ruby,338
-481872,hashicorp/vagrant,Ruby,173
-73648678,forem/forem,Ruby,424
-52855516,Homebrew/homebrew-core,Ruby,153
+7569578,discourse/discourse,Ruby,261
+27442967,fastlane/fastlane,Ruby,649
+53238813,Homebrew/brew,Ruby,421
+2293158,rapid7/metasploit-framework,Ruby,337
+481872,hashicorp/vagrant,Ruby,174
+73648678,forem/forem,Ruby,428
+52855516,Homebrew/homebrew-core,Ruby,154
 96395,faker-ruby/faker,Ruby,66
 611921,activeadmin/activeadmin,Ruby,29
 1725199,github/linguist,Ruby,112
-15435,Shopify/liquid,Ruby,66
+15435,Shopify/liquid,Ruby,67
 21829,thoughtbot/factory_bot,Ruby,42
 2441517,puma/puma,Ruby,42
 108278,chef/chef,Ruby,31
@@ -18,7 +18,7 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,34
 52316423,luggit/react-native-config,Ruby,48
 5144181,jnunemaker/flipper,Ruby,74
-103766152,github/explore,Ruby,74
+103766152,github/explore,Ruby,76
 93163073,dependabot/dependabot-core,Ruby,88
 200302808,github/view_component,Ruby,81
 189010173,Hackplayers/evil-winrm,Ruby,77
