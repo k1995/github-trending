@@ -4,9 +4,9 @@ id,name,lang,new stars
 458058,symfony/symfony,PHP,44
 1376664,Seldaek/monolog,PHP,39
 448045,sebastianbergmann/phpunit,PHP,37
-2253830,PHPMailer/PHPMailer,PHP,47
-1631570,nikic/PHP-Parser,PHP,34
-60243197,nextcloud/server,PHP,68
+2253830,PHPMailer/PHPMailer,PHP,48
+1631570,nikic/PHP-Parser,PHP,35
+60243197,nextcloud/server,PHP,70
 3431193,yiisoft/yii2,PHP,20
 14259390,Maatwebsite/Laravel-Excel,PHP,34
 49014795,phpstan/phpstan,PHP,34
@@ -15,7 +15,7 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,18
 41589337,BookStackApp/BookStack,PHP,44
 42261096,fuzzdb-project/fuzzdb,PHP,45
-627735,vrana/adminer,PHP,16
+627735,vrana/adminer,PHP,18
 10883164,barryvdh/laravel-dompdf,PHP,24
 33916850,spatie/laravel-medialibrary,PHP,16
 3817881,zircote/swagger-php,PHP,18

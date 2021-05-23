@@ -1,9 +1,9 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,563
-3482588,danielmiessler/SecLists,PHP,620
-458058,symfony/symfony,PHP,351
+3482588,danielmiessler/SecLists,PHP,624
+458058,symfony/symfony,PHP,350
 1864363,composer/composer,PHP,166
-7548986,laravel/framework,PHP,266
+7548986,laravel/framework,PHP,268
 2253830,PHPMailer/PHPMailer,PHP,174
 1631570,nikic/PHP-Parser,PHP,122
 29843361,w7corp/easywechat,PHP,66
@@ -11,16 +11,16 @@ id,name,lang,new stars
 12166778,googleapis/google-api-php-client,PHP,68
 41589337,BookStackApp/BookStack,PHP,147
 6763587,PrestaShop/PrestaShop,PHP,460
-10371103,Laravel-Lang/lang,PHP,101
+10371103,Laravel-Lang/lang,PHP,102
 42261096,fuzzdb-project/fuzzdb,PHP,112
 4565995,phpseclib/phpseclib,PHP,52
-119047018,linuxserver/Heimdall,PHP,226
-351298555,thedevdojo/wave,PHP,1900
-38116958,php-telegram-bot/core,PHP,46
+119047018,linuxserver/Heimdall,PHP,225
+351298555,thedevdojo/wave,PHP,1901
+38116958,php-telegram-bot/core,PHP,47
 13914116,librenms/librenms,PHP,56
-56836583,postaddictme/instagram-php-scraper,PHP,55
+56836583,postaddictme/instagram-php-scraper,PHP,56
 74026995,CodelyTV/php-ddd-example,PHP,87
 131995661,shopware/platform,PHP,44
 189104054,laravel/ui,PHP,56
-111562942,statamic/cms,PHP,51
-344332509,wintercms/winter,PHP,317
+111562942,statamic/cms,PHP,52
+344332509,wintercms/winter,PHP,319
