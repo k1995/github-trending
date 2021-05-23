@@ -1,19 +1,19 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,46
+3482588,danielmiessler/SecLists,PHP,47
 2579314,fzaninotto/Faker,PHP,14
 82238168,monicahq/monica,PHP,7
 72069409,the-control-group/voyager,PHP,6
-56728437,docker/labs,PHP,5
-7550057,doctrine/cache,PHP,7
-21298446,firefly-iii/firefly-iii,PHP,17
+56728437,docker/labs,PHP,4
+7550057,doctrine/cache,PHP,8
+21298446,firefly-iii/firefly-iii,PHP,16
 9193949,wallabag/wallabag,PHP,10
 42261096,fuzzdb-project/fuzzdb,PHP,22
-136353180,doctrine/event-manager,PHP,5
+136353180,doctrine/event-manager,PHP,6
 74386167,vimeo/psalm,PHP,5
 95011974,akaunting/akaunting,PHP,4
-60010673,elementor/elementor,PHP,7
+60010673,elementor/elementor,PHP,4
 79166184,cretueusebiu/laravel-vue-spa,PHP,7
-351298555,thedevdojo/wave,PHP,26
+351298555,thedevdojo/wave,PHP,28
 127536154,Qsnh/meedu,PHP,22
 1957456,Dolibarr/dolibarr,PHP,2
 69691727,pmmp/PocketMine-MP,PHP,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 93982796,Tuhinshubhra/RED_HAWK,PHP,4
 189104054,laravel/ui,PHP,2
 111562942,statamic/cms,PHP,7
-362656180,hammerstonedev/sidecar,PHP,24
+362656180,hammerstonedev/sidecar,PHP,27
