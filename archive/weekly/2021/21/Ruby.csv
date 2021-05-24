@@ -1,7 +1,7 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,61
-27442967,fastlane/fastlane,Ruby,525
-2293158,rapid7/metasploit-framework,Ruby,88
+65252,jekyll/jekyll,Ruby,62
+27442967,fastlane/fastlane,Ruby,526
+2293158,rapid7/metasploit-framework,Ruby,89
 2500088,gitlabhq/gitlabhq,Ruby,11
 2203645,CocoaPods/CocoaPods,Ruby,10
 106995,sinatra/sinatra,Ruby,8
@@ -18,8 +18,8 @@ id,name,lang,new stars
 22059578,ankane/pghero,Ruby,14
 33739333,thoughtbot/administrate,Ruby,7
 75785147,rails/webpacker,Ruby,6
+38867,svenfuchs/rails-i18n,Ruby,4
 30985840,solidusio/solidus,Ruby,12
-38867,svenfuchs/rails-i18n,Ruby,3
 11426474,github/choosealicense.com,Ruby,15
 103766152,github/explore,Ruby,18
 26024406,Invoca/rack-rewrite,Ruby,0
