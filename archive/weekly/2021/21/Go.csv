@@ -1,8 +1,8 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,256
-14712850,syncthing/syncthing,Go,839
+20580498,kubernetes/kubernetes,Go,257
+14712850,syncthing/syncthing,Go,840
 6838921,prometheus/prometheus,Go,138
-31288958,hashicorp/vault,Go,484
+31288958,hashicorp/vault,Go,485
 53632140,zyedidia/micro,Go,116
 115857954,chai2010/advanced-go-programming-book,Go,60
 192632000,dapr/dapr,Go,186
@@ -16,11 +16,11 @@ id,name,lang,new stars
 92313258,jetstack/cert-manager,Go,35
 121086193,99designs/gqlgen,Go,53
 93444615,hashicorp/terraform-provider-aws,Go,37
-92648433,gwuhaolin/livego,Go,231
+92648433,gwuhaolin/livego,Go,236
 193833307,knadh/listmonk,Go,206
 127519518,projectdiscovery/subfinder,Go,56
 93446042,terraform-providers/terraform-provider-azurerm,Go,59
 367284699,AkihiroSuda/lima,Go,1205
-79585104,matrix-org/dendrite,Go,42
+79585104,matrix-org/dendrite,Go,37
 237391530,free5gc/free5gc,Go,20
 234530887,ethersphere/bee,Go,250
