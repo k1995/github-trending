@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,127
+1863329,laravel/laravel,PHP,128
 2579314,fzaninotto/Faker,PHP,36
-458058,symfony/symfony,PHP,38
+458058,symfony/symfony,PHP,41
 1376664,Seldaek/monolog,PHP,38
 448045,sebastianbergmann/phpunit,PHP,33
 2253830,PHPMailer/PHPMailer,PHP,49
@@ -12,9 +12,9 @@ id,name,lang,new stars
 49014795,phpstan/phpstan,PHP,30
 137515,mockery/mockery,PHP,16
 6660366,dompdf/dompdf,PHP,23
-2179920,woocommerce/woocommerce,PHP,15
-41589337,BookStackApp/BookStack,PHP,36
-42261096,fuzzdb-project/fuzzdb,PHP,41
+2179920,woocommerce/woocommerce,PHP,16
+41589337,BookStackApp/BookStack,PHP,37
+42261096,fuzzdb-project/fuzzdb,PHP,43
 627735,vrana/adminer,PHP,16
 10883164,barryvdh/laravel-dompdf,PHP,17
 33916850,spatie/laravel-medialibrary,PHP,15
