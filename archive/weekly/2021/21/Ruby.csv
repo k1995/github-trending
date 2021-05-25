@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,47
+8514,rails/rails,Ruby,49
 65252,jekyll/jekyll,Ruby,51
-27442967,fastlane/fastlane,Ruby,526
-2500088,gitlabhq/gitlabhq,Ruby,11
-481872,hashicorp/vagrant,Ruby,31
+27442967,fastlane/fastlane,Ruby,525
+2500088,gitlabhq/gitlabhq,Ruby,12
+481872,hashicorp/vagrant,Ruby,30
 2203645,CocoaPods/CocoaPods,Ruby,13
 106995,sinatra/sinatra,Ruby,5
 3195124,mperham/sidekiq,Ruby,12
 96395,faker-ruby/faker,Ruby,12
-202291859,chatwoot/chatwoot,Ruby,52
+202291859,chatwoot/chatwoot,Ruby,53
 611921,activeadmin/activeadmin,Ruby,5
 1725199,github/linguist,Ruby,23
-15435,Shopify/liquid,Ruby,19
+15435,Shopify/liquid,Ruby,18
 451035,heartcombo/simple_form,Ruby,4
 6529205,varvet/pundit,Ruby,10
 2441517,puma/puma,Ruby,10
@@ -21,6 +21,6 @@ id,name,lang,new stars
 355893,github/markup,Ruby,7
 75785147,rails/webpacker,Ruby,2
 30337170,rmosolgo/graphql-ruby,Ruby,10
-38867,svenfuchs/rails-i18n,Ruby,5
+38867,svenfuchs/rails-i18n,Ruby,4
 11426474,github/choosealicense.com,Ruby,18
 24389058,Invoca/integer-obfuscator,Ruby,0
