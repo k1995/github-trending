@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,24
+3482588,danielmiessler/SecLists,PHP,23
 2579314,fzaninotto/Faker,PHP,3
 7548986,laravel/framework,PHP,11
 53783664,easychen/howto-make-more-money,PHP,3
@@ -11,8 +11,8 @@ id,name,lang,new stars
 10238429,tennc/webshell,PHP,3
 9193949,wallabag/wallabag,PHP,2
 222873550,bytefury/crater,PHP,24
-60010673,elementor/elementor,PHP,4
-4380514,Audi-1/sqli-labs,PHP,4
+60010673,elementor/elementor,PHP,5
+4380514,Audi-1/sqli-labs,PHP,5
 255703597,beyondcode/expose,PHP,7
 291805291,laravel/jetstream,PHP,2
 47508644,pterodactyl/panel,PHP,0
@@ -21,5 +21,5 @@ id,name,lang,new stars
 36526302,pentestmonkey/php-reverse-shell,PHP,2
 25361672,OpenMage/magento-lts,PHP,1
 8240600,ndeet/unzipper,PHP,1
-369230221,archtechx/airwire,PHP,16
+369230221,archtechx/airwire,PHP,15
 362656180,hammerstonedev/sidecar,PHP,10

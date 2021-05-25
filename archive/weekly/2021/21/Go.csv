@@ -1,15 +1,15 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,244
-21540759,avelino/awesome-go,Go,202
-14712850,syncthing/syncthing,Go,488
+20580498,kubernetes/kubernetes,Go,243
+21540759,avelino/awesome-go,Go,203
+14712850,syncthing/syncthing,Go,481
 6838921,prometheus/prometheus,Go,137
 29261473,minio/minio,Go,524
 31288958,hashicorp/vault,Go,488
 53632140,zyedidia/micro,Go,121
-192632000,dapr/dapr,Go,167
+192632000,dapr/dapr,Go,166
 11008207,vitessio/vitess,Go,92
-272035489,greyireland/algorithm-pattern,Go,110
-72891330,kubernetes/ingress-nginx,Go,63
+272035489,greyireland/algorithm-pattern,Go,111
+72891330,kubernetes/ingress-nginx,Go,64
 285864199,tal-tech/go-zero,Go,169
 48109239,cilium/cilium,Go,70
 36960321,opencontainers/runc,Go,31
@@ -18,9 +18,9 @@ id,name,lang,new stars
 92648433,gwuhaolin/livego,Go,471
 193833307,knadh/listmonk,Go,207
 93446042,terraform-providers/terraform-provider-azurerm,Go,58
-367284699,AkihiroSuda/lima,Go,728
+367284699,AkihiroSuda/lima,Go,724
 79585104,matrix-org/dendrite,Go,38
 215654064,temporalio/temporal,Go,37
 237391530,free5gc/free5gc,Go,20
-355946670,loft-sh/vcluster,Go,209
+355946670,loft-sh/vcluster,Go,206
 234530887,ethersphere/bee,Go,256
