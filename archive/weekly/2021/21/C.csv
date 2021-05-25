@@ -1,19 +1,19 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,311
-36502,git/git,C,103
-1614410,FFmpeg/FFmpeg,C,110
-196353673,taosdata/TDengine,C,65
-18496166,gentilkiwi/mimikatz,C,66
+111583593,Genymobile/scrcpy,C,312
+36502,git/git,C,104
+1614410,FFmpeg/FFmpeg,C,112
+196353673,taosdata/TDengine,C,66
+18496166,gentilkiwi/mimikatz,C,61
 34921116,iovisor/bcc,C,53
 45821540,openwrt/openwrt,C,46
-75811015,Tencent/xLua,C,26
-39242894,coturn/coturn,C,32
+75811015,Tencent/xLua,C,25
+39242894,coturn/coturn,C,31
 13310527,jemalloc/jemalloc,C,23
-163862700,onivim/oni2,C,100
+163862700,onivim/oni2,C,101
 16734696,meetecho/janus-gateway,C,22
-272457606,jart/cosmopolitan,C,193
-689344,libretro/RetroArch,C,30
-64060314,Screetsec/TheFatRat,C,38
+272457606,jart/cosmopolitan,C,181
+689344,libretro/RetroArch,C,31
+64060314,Screetsec/TheFatRat,C,34
 1979797,FreeRDP/FreeRDP,C,26
 105944401,yugabyte/yugabyte-db,C,28
 100979484,google-ar/arcore-android-sdk,C,12
@@ -23,4 +23,4 @@ id,name,lang,new stars
 128791889,haproxy/haproxy,C,37
 6860771,hathach/tinyusb,C,38
 194269070,skyline-emu/skyline,C,19
-367171090,stolk/chiaharvestgraph,C,39
+367171090,stolk/chiaharvestgraph,C,41
