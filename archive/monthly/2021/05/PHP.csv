@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,536
-3482588,danielmiessler/SecLists,PHP,603
+1863329,laravel/laravel,PHP,538
+3482588,danielmiessler/SecLists,PHP,604
 458058,symfony/symfony,PHP,353
 1864363,composer/composer,PHP,162
 7548986,laravel/framework,PHP,270
-2253830,PHPMailer/PHPMailer,PHP,165
-1631570,nikic/PHP-Parser,PHP,124
+2253830,PHPMailer/PHPMailer,PHP,166
+1631570,nikic/PHP-Parser,PHP,125
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,102
 49014795,phpstan/phpstan,PHP,102
 29843361,w7corp/easywechat,PHP,68
@@ -22,5 +22,5 @@ id,name,lang,new stars
 56836583,postaddictme/instagram-php-scraper,PHP,59
 131995661,shopware/platform,PHP,42
 111562942,statamic/cms,PHP,48
-344332509,wintercms/winter,PHP,273
-278726910,doctrine/deprecations,PHP,99
+344332509,wintercms/winter,PHP,259
+278726910,doctrine/deprecations,PHP,100
