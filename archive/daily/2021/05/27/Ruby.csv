@@ -1,19 +1,19 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,9
-52281283,tootsuite/mastodon,Ruby,9
-2500088,gitlabhq/gitlabhq,Ruby,4
-481872,hashicorp/vagrant,Ruby,10
-308770,heartcombo/devise,Ruby,4
-2203645,CocoaPods/CocoaPods,Ruby,6
+27442967,fastlane/fastlane,Ruby,10
+52281283,tootsuite/mastodon,Ruby,8
+2500088,gitlabhq/gitlabhq,Ruby,3
+481872,hashicorp/vagrant,Ruby,8
+308770,heartcombo/devise,Ruby,3
+2203645,CocoaPods/CocoaPods,Ruby,5
 1090311,elastic/logstash,Ruby,2
 3195124,mperham/sidekiq,Ruby,2
-1918677,fluent/fluentd,Ruby,7
+1918677,fluent/fluentd,Ruby,6
 275604,resque/resque,Ruby,1
 1725199,github/linguist,Ruby,0
-47087,carrierwaveuploader/carrierwave,Ruby,1
+47087,carrierwaveuploader/carrierwave,Ruby,2
 1333863,kaminari/kaminari,Ruby,0
 6529205,varvet/pundit,Ruby,1
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,5
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,7
 33739333,thoughtbot/administrate,Ruby,4
 2889230,rails-api/active_model_serializers,Ruby,0
 404319,rest-client/rest-client,Ruby,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 363163,bblimke/webmock,Ruby,0
 3277842,googleapis/google-api-ruby-client,Ruby,0
 8970,ambethia/recaptcha,Ruby,0
-80462373,keyvanakbary/learning-notes,Ruby,3
+80462373,keyvanakbary/learning-notes,Ruby,4
 644899,onelogin/ruby-saml,Ruby,1
