@@ -1,6 +1,6 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1400
-14712850,syncthing/syncthing,Go,2384
+23096959,golang/go,Go,1403
+14712850,syncthing/syncthing,Go,2385
 15452919,ethereum/go-ethereum,Go,1032
 17728164,hashicorp/terraform,Go,380
 31288958,hashicorp/vault,Go,644
@@ -12,15 +12,15 @@ id,name,lang,new stars
 180687624,aquasecurity/trivy,Go,305
 208728772,milvus-io/milvus,Go,718
 92648433,gwuhaolin/livego,Go,1037
-93444615,hashicorp/terraform-provider-aws,Go,123
-130430977,kubesphere/kubesphere,Go,230
+93444615,hashicorp/terraform-provider-aws,Go,122
+130430977,kubesphere/kubesphere,Go,231
 193833307,knadh/listmonk,Go,365
 172292744,panjf2000/gnet,Go,484
-72875399,luraproject/lura,Go,319
+72875399,luraproject/lura,Go,318
 93446042,terraform-providers/terraform-provider-azurerm,Go,177
 57912964,kubernetes/enhancements,Go,53
-203927039,xinliangnote/go-gin-api,Go,650
+203927039,xinliangnote/go-gin-api,Go,519
 192178626,marcel-dempers/docker-development-youtube-series,Go,125
-261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,190
+261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,191
 253522878,docker/compose-cli,Go,78
 265775217,binance-chain/bsc,Go,130

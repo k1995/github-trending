@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,538
-3482588,danielmiessler/SecLists,PHP,588
-458058,symfony/symfony,PHP,358
+1863329,laravel/laravel,PHP,536
+3482588,danielmiessler/SecLists,PHP,587
+458058,symfony/symfony,PHP,360
 1864363,composer/composer,PHP,169
-7548986,laravel/framework,PHP,280
+7548986,laravel/framework,PHP,279
 2253830,PHPMailer/PHPMailer,PHP,164
-1631570,nikic/PHP-Parser,PHP,126
+1631570,nikic/PHP-Parser,PHP,127
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,113
-49014795,phpstan/phpstan,PHP,101
+49014795,phpstan/phpstan,PHP,102
 2884111,magento/magento2,PHP,64
-41589337,BookStackApp/BookStack,PHP,142
-10371103,Laravel-Lang/lang,PHP,96
+41589337,BookStackApp/BookStack,PHP,141
+10371103,Laravel-Lang/lang,PHP,95
 42261096,fuzzdb-project/fuzzdb,PHP,122
 4565995,phpseclib/phpseclib,PHP,46
 222873550,bytefury/crater,PHP,171
@@ -20,7 +20,7 @@ id,name,lang,new stars
 144549569,luolongfei/freenom,PHP,116
 131995661,shopware/platform,PHP,44
 189104054,laravel/ui,PHP,50
-111562942,statamic/cms,PHP,49
+111562942,statamic/cms,PHP,50
 75645659,WordPress/wordpress-develop,PHP,32
-344332509,wintercms/winter,PHP,192
-278726910,doctrine/deprecations,PHP,104
+344332509,wintercms/winter,PHP,191
+278726910,doctrine/deprecations,PHP,105

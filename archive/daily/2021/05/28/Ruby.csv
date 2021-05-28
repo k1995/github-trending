@@ -1,5 +1,5 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,13
+8514,rails/rails,Ruby,12
 7569578,discourse/discourse,Ruby,5
 27442967,fastlane/fastlane,Ruby,7
 481872,hashicorp/vagrant,Ruby,5
@@ -7,13 +7,13 @@ id,name,lang,new stars
 1090311,elastic/logstash,Ruby,1
 4095287,rubocop/rubocop,Ruby,3
 3314,spree/spree,Ruby,1
-1918677,fluent/fluentd,Ruby,3
+1918677,fluent/fluentd,Ruby,4
 18486300,lewagon/setup,Ruby,6
 361310,teamcapybara/capybara,Ruby,0
 8393,thoughtbot/paperclip,Ruby,1
 275604,resque/resque,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,2
-1333863,kaminari/kaminari,Ruby,0
+1333863,kaminari/kaminari,Ruby,1
 33739333,thoughtbot/administrate,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,2
 18294,activemerchant/active_merchant,Ruby,1
