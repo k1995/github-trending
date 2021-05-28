@@ -1,12 +1,12 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,49
-27442967,fastlane/fastlane,Ruby,121
-53238813,Homebrew/brew,Ruby,85
+27442967,fastlane/fastlane,Ruby,122
+53238813,Homebrew/brew,Ruby,88
 52281283,tootsuite/mastodon,Ruby,38
-2500088,gitlabhq/gitlabhq,Ruby,18
+2500088,gitlabhq/gitlabhq,Ruby,19
 481872,hashicorp/vagrant,Ruby,35
 2203645,CocoaPods/CocoaPods,Ruby,19
-1090311,elastic/logstash,Ruby,11
+1090311,elastic/logstash,Ruby,12
 3195124,mperham/sidekiq,Ruby,15
 96395,faker-ruby/faker,Ruby,14
 202291859,chatwoot/chatwoot,Ruby,55
@@ -22,5 +22,5 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,5
 11426474,github/choosealicense.com,Ruby,14
 103766152,github/explore,Ruby,19
-10088951,TheOdinProject/theodinproject,Ruby,10
-80462373,keyvanakbary/learning-notes,Ruby,23
+10088951,TheOdinProject/theodinproject,Ruby,11
+80462373,keyvanakbary/learning-notes,Ruby,24
