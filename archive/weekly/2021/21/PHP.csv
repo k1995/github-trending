@@ -1,12 +1,12 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,145
-7548986,laravel/framework,PHP,68
+3482588,danielmiessler/SecLists,PHP,142
+7548986,laravel/framework,PHP,70
 1420053,guzzle/guzzle,PHP,26
 1376664,Seldaek/monolog,PHP,35
 448045,sebastianbergmann/phpunit,PHP,26
-2889328,WordPress/WordPress,PHP,32
-3431193,yiisoft/yii2,PHP,12
-5627682,serbanghita/Mobile-Detect,PHP,12
+2889328,WordPress/WordPress,PHP,34
+3431193,yiisoft/yii2,PHP,10
+5627682,serbanghita/Mobile-Detect,PHP,11
 2884111,magento/magento2,PHP,15
 597887,doctrine/orm,PHP,18
 2179920,woocommerce/woocommerce,PHP,19
@@ -16,11 +16,11 @@ id,name,lang,new stars
 95011974,akaunting/akaunting,PHP,19
 222873550,bytefury/crater,PHP,103
 60010673,elementor/elementor,PHP,44
-159606650,hyperf/hyperf,PHP,19
+159606650,hyperf/hyperf,PHP,20
 1543827,moneyphp/money,PHP,53
 44733816,privacy-protection-tools/anti-AD,PHP,44
-38200433,jeroennoten/Laravel-AdminLTE,PHP,14
+38200433,jeroennoten/Laravel-AdminLTE,PHP,13
 139191005,nunomaduro/larastan,PHP,13
-14724954,opensourcepos/opensourcepos,PHP,19
+14724954,opensourcepos/opensourcepos,PHP,18
 131995661,shopware/platform,PHP,12
-75645659,WordPress/wordpress-develop,PHP,8
+75645659,WordPress/wordpress-develop,PHP,7
