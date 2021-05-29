@@ -1,10 +1,10 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,142
-7548986,laravel/framework,PHP,71
+3482588,danielmiessler/SecLists,PHP,143
+7548986,laravel/framework,PHP,72
 1420053,guzzle/guzzle,PHP,29
 1376664,Seldaek/monolog,PHP,36
 448045,sebastianbergmann/phpunit,PHP,26
-2889328,WordPress/WordPress,PHP,34
+2889328,WordPress/WordPress,PHP,36
 3431193,yiisoft/yii2,PHP,10
 5627682,serbanghita/Mobile-Detect,PHP,11
 2884111,magento/magento2,PHP,16
@@ -13,12 +13,12 @@ id,name,lang,new stars
 4242230,PHPOffice/PHPWord,PHP,18
 10883164,barryvdh/laravel-dompdf,PHP,18
 12204147,mautic/mautic,PHP,27
-95011974,akaunting/akaunting,PHP,21
+95011974,akaunting/akaunting,PHP,22
 222873550,bytefury/crater,PHP,104
 60010673,elementor/elementor,PHP,46
 159606650,hyperf/hyperf,PHP,20
 1543827,moneyphp/money,PHP,53
-44733816,privacy-protection-tools/anti-AD,PHP,44
+44733816,privacy-protection-tools/anti-AD,,44
 38200433,jeroennoten/Laravel-AdminLTE,PHP,13
 139191005,nunomaduro/larastan,PHP,14
 14724954,opensourcepos/opensourcepos,PHP,18
