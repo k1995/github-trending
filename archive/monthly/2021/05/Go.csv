@@ -1,17 +1,17 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1389
-14712850,syncthing/syncthing,Go,2395
-15452919,ethereum/go-ethereum,Go,1029
-17728164,hashicorp/terraform,Go,384
+23096959,golang/go,Go,1394
+14712850,syncthing/syncthing,Go,2399
+15452919,ethereum/go-ethereum,Go,1036
+17728164,hashicorp/terraform,Go,385
 56353740,kubernetes/minikube,Go,268
 43723161,helm/helm,Go,221
-272035489,greyireland/algorithm-pattern,Go,401
-11008207,vitessio/vitess,Go,201
+272035489,greyireland/algorithm-pattern,Go,405
+11008207,vitessio/vitess,Go,203
 109162639,thanos-io/thanos,Go,362
-285864199,tal-tech/go-zero,Go,685
+285864199,tal-tech/go-zero,Go,686
 201658460,geektutu/7days-golang,Go,424
 208728772,milvus-io/milvus,Go,711
-92648433,gwuhaolin/livego,Go,1122
+92648433,gwuhaolin/livego,Go,1126
 193833307,knadh/listmonk,Go,363
 172292744,panjf2000/gnet,Go,478
 72875399,luraproject/lura,Go,317
@@ -20,7 +20,7 @@ id,name,lang,new stars
 111455867,smartcontractkit/chainlink,Go,164
 57912964,kubernetes/enhancements,Go,48
 192178626,marcel-dempers/docker-development-youtube-series,Go,132
-261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,188
-234530887,ethersphere/bee,Go,531
+261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,197
+234530887,ethersphere/bee,Go,535
 253522878,docker/compose-cli,Go,75
-265775217,binance-chain/bsc,Go,128
+265775217,binance-chain/bsc,Go,129

@@ -1,12 +1,12 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,111
-10446890,bilibili/ijkplayer,C,5
+10744183,netdata/netdata,C,136
+10446890,bilibili/ijkplayer,C,6
 201454051,Awesome-HarmonyOS/HarmonyOS,C,7
 37912398,nginx/nginx,C,11
-18496166,gentilkiwi/mimikatz,C,74
-5254557,cloudwu/skynet,C,2
+18496166,gentilkiwi/mimikatz,C,98
+5254557,cloudwu/skynet,C,3
 32873313,systemd/systemd,C,10
-65899476,espressif/esp-idf,C,4
+65899476,espressif/esp-idf,C,5
 54280778,DaveGamble/cJSON,C,3
 6376337,pocoproject/poco,C,0
 44781140,greenplum-db/gpdb,C,4
@@ -14,13 +14,13 @@ id,name,lang,new stars
 115765590,OAID/Tengine,C,3
 34807561,nanopb/nanopb,C,0
 40556106,wazuh/wazuh,C,1
-217654199,microsoft/msquic,C,12
+217654199,microsoft/msquic,C,13
 189044704,AFLplusplus/AFLplusplus,C,2
 206121828,FreeRTOS/FreeRTOS,C,1
 74155923,iovisor/gobpf,C,2
 23780138,riscv/riscv-gnu-toolchain,C,0
-194269070,skyline-emu/skyline,C,2
+194269070,skyline-emu/skyline,C,4
 207354223,FreeRTOS/FreeRTOS-Kernel,C,1
 329707886,AsahiLinux/m1n1,C,14
-340788514,vxunderground/WinAPI-Tricks,C,26
+340788514,vxunderground/WinAPI-Tricks,C,37
 354963447,risinek/esp32-wifi-penetration-tool,C,11
