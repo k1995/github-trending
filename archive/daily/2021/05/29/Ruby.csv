@@ -1,7 +1,7 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,6
 27442967,fastlane/fastlane,Ruby,4
-2293158,rapid7/metasploit-framework,Ruby,10
+2293158,rapid7/metasploit-framework,Ruby,9
 308770,heartcombo/devise,Ruby,1
 2203645,CocoaPods/CocoaPods,Ruby,1
 4095287,rubocop/rubocop,Ruby,2
@@ -23,4 +23,3 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,3
 93163073,dependabot/dependabot-core,Ruby,4
 34840276,elastic/ansible-elasticsearch,Ruby,0
-3276877,ThrowTheSwitch/Ceedling,Ruby,0
