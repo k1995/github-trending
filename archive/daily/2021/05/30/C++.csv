@@ -1,15 +1,15 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,30
-100060912,microsoft/terminal,C++,268
+45717250,tensorflow/tensorflow,C++,32
+100060912,microsoft/terminal,C++,272
 22887094,tesseract-ocr/tesseract,C++,11
-11171548,nlohmann/json,C++,23
+11171548,nlohmann/json,C++,24
 5133949,swoole/swoole-src,C++,2
-60246359,ClickHouse/ClickHouse,C++,85
+60246359,ClickHouse/ClickHouse,C++,87
 34777562,ossrs/srs,C++,16
 1062572,catchorg/Catch2,C++,8
 66088979,changkun/modern-cpp-tutorial,C++,13
-197275130,microsoft/winget-cli,C++,216
-160083795,SerenityOS/serenity,C++,558
+197275130,microsoft/winget-cli,C++,222
+160083795,SerenityOS/serenity,C++,565
 40892817,ethereum/solidity,C++,18
 6520784,RPCS3/rpcs3,C++,4
 51905353,apache/arrow,C++,4
