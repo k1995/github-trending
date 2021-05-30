@@ -1,19 +1,19 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1395
-14712850,syncthing/syncthing,Go,2401
+23096959,golang/go,Go,1397
+14712850,syncthing/syncthing,Go,2402
 15452919,ethereum/go-ethereum,Go,1041
-17728164,hashicorp/terraform,Go,387
-56353740,kubernetes/minikube,Go,270
+17728164,hashicorp/terraform,Go,390
+56353740,kubernetes/minikube,Go,272
 43723161,helm/helm,Go,221
 272035489,greyireland/algorithm-pattern,Go,405
-11008207,vitessio/vitess,Go,204
+11008207,vitessio/vitess,Go,205
 109162639,thanos-io/thanos,Go,364
 285864199,tal-tech/go-zero,Go,687
 201658460,geektutu/7days-golang,Go,425
-208728772,milvus-io/milvus,Go,712
-92648433,gwuhaolin/livego,Go,1128
+208728772,milvus-io/milvus,Go,713
+92648433,gwuhaolin/livego,Go,1134
 193833307,knadh/listmonk,Go,364
-172292744,panjf2000/gnet,Go,478
+172292744,panjf2000/gnet,Go,479
 72875399,luraproject/lura,Go,319
 11388110,googollee/go-socket.io,Go,78
 93446042,terraform-providers/terraform-provider-azurerm,Go,175
@@ -21,6 +21,6 @@ id,name,lang,new stars
 57912964,kubernetes/enhancements,Go,48
 192178626,marcel-dempers/docker-development-youtube-series,Go,133
 261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,200
-234530887,ethersphere/bee,Go,536
+234530887,ethersphere/bee,Go,538
 253522878,docker/compose-cli,Go,75
 265775217,binance-chain/bsc,Go,129
