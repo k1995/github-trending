@@ -1,5 +1,5 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,61
+8514,rails/rails,Ruby,62
 65252,jekyll/jekyll,Ruby,59
 27442967,fastlane/fastlane,Ruby,66
 2293158,rapid7/metasploit-framework,Ruby,82
@@ -7,7 +7,7 @@ id,name,lang,new stars
 308770,heartcombo/devise,Ruby,24
 2203645,CocoaPods/CocoaPods,Ruby,20
 1090311,elastic/logstash,Ruby,16
-4095287,rubocop/rubocop,Ruby,15
+4095287,rubocop/rubocop,Ruby,16
 3195124,mperham/sidekiq,Ruby,13
 1918677,fluent/fluentd,Ruby,26
 18486300,lewagon/setup,Ruby,37
