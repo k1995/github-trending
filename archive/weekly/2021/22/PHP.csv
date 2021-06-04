@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,131
+3482588,danielmiessler/SecLists,PHP,132
 1420053,guzzle/guzzle,PHP,32
-2889328,WordPress/WordPress,PHP,31
+2889328,WordPress/WordPress,PHP,29
 60243197,nextcloud/server,PHP,61
 1280180,phacility/phabricator,PHP,21
-28628034,flarum/flarum,PHP,36
+28628034,flarum/flarum,PHP,34
 597887,doctrine/orm,PHP,21
-622166,FriendsOfPHP/Goutte,PHP,12
+622166,FriendsOfPHP/Goutte,PHP,13
 6660366,dompdf/dompdf,PHP,24
 12166778,googleapis/google-api-php-client,PHP,20
 10238429,tennc/webshell,PHP,32
 2141186,opencart/opencart,PHP,10
-4551765,thephpleague/oauth2-server,PHP,13
+4551765,thephpleague/oauth2-server,PHP,12
 10371103,Laravel-Lang/lang,PHP,27
 95011974,akaunting/akaunting,PHP,20
 2797951,doctrine/DoctrineBundle,PHP,11
@@ -19,7 +19,7 @@ id,name,lang,new stars
 38200433,jeroennoten/Laravel-AdminLTE,PHP,11
 139191005,nunomaduro/larastan,PHP,10
 29501260,api-platform/core,PHP,9
-17253775,zabbix/zabbix,PHP,16
-141720301,dr5hn/countries-states-cities-database,PHP,49
+17253775,zabbix/zabbix,PHP,15
+141720301,dr5hn/countries-states-cities-database,PHP,50
 75645659,WordPress/wordpress-develop,PHP,8
 59355182,OpenSID/OpenSID,PHP,7
