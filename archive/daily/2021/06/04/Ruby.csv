@@ -1,15 +1,15 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,5
-308770,heartcombo/devise,Ruby,3
+27442967,fastlane/fastlane,Ruby,4
+308770,heartcombo/devise,Ruby,4
 2203645,CocoaPods/CocoaPods,Ruby,1
 1090311,elastic/logstash,Ruby,2
 3195124,mperham/sidekiq,Ruby,2
-1918677,fluent/fluentd,Ruby,2
+1918677,fluent/fluentd,Ruby,3
 18486300,lewagon/setup,Ruby,9
 96395,faker-ruby/faker,Ruby,1
 1725199,github/linguist,Ruby,4
 47087,carrierwaveuploader/carrierwave,Ruby,1
-2441517,puma/puma,Ruby,3
+2441517,puma/puma,Ruby,2
 277089,flyerhzm/bullet,Ruby,0
 75785147,rails/webpacker,Ruby,0
 2802565,doorkeeper-gem/doorkeeper,Ruby,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 2376,ActsAsParanoid/acts_as_paranoid,Ruby,0
 29151578,rswag/rswag,Ruby,4
 644899,onelogin/ruby-saml,Ruby,0
-3947396,getsentry/sentry-ruby,Ruby,1
+3947396,getsentry/sentry-ruby,Ruby,0
