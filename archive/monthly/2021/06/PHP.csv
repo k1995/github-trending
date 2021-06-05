@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,548
-3482588,danielmiessler/SecLists,PHP,578
+1863329,laravel/laravel,PHP,549
+3482588,danielmiessler/SecLists,PHP,577
 458058,symfony/symfony,PHP,361
 1864363,composer/composer,PHP,175
-7548986,laravel/framework,PHP,271
+7548986,laravel/framework,PHP,273
 3431193,yiisoft/yii2,PHP,47
 1280180,phacility/phabricator,PHP,55
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,128
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,129
 49014795,phpstan/phpstan,PHP,118
 29843361,w7corp/easywechat,PHP,72
 597887,doctrine/orm,PHP,80
@@ -16,9 +16,9 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,81
 1543827,moneyphp/money,PHP,138
 127536154,Qsnh/meedu,PHP,192
-6495081,wikimedia/mediawiki,PHP,51
+6495081,wikimedia/mediawiki,PHP,52
 74026995,CodelyTV/php-ddd-example,PHP,95
-141720301,dr5hn/countries-states-cities-database,PHP,128
+141720301,dr5hn/countries-states-cities-database,PHP,130
 131995661,shopware/platform,PHP,43
 111562942,statamic/cms,PHP,59
 75645659,WordPress/wordpress-develop,PHP,29
