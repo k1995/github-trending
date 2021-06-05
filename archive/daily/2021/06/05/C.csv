@@ -1,9 +1,9 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,48
-156018,redis/redis,C,23
-13233158,obsproject/obs-studio,C,146
-201454051,Awesome-HarmonyOS/HarmonyOS,C,245
-15337142,micropython/micropython,C,7
+156018,redis/redis,C,22
+13233158,obsproject/obs-studio,C,148
+201454051,Awesome-HarmonyOS/HarmonyOS,C,244
+15337142,micropython/micropython,C,6
 95879426,Tencent/ncnn,C,5
 28515839,skywind3000/kcp,C,4
 93205465,apple/darwin-xnu,C,5
@@ -13,7 +13,7 @@ id,name,lang,new stars
 105944401,yugabyte/yugabyte-db,C,3
 5870069,edenhill/librdkafka,C,2
 44781140,greenplum-db/gpdb,C,1
-59771425,zephyrproject-rtos/zephyr,C,10
+59771425,zephyrproject-rtos/zephyr,C,11
 100979484,google-ar/arcore-android-sdk,C,1
 212152900,wasm3/wasm3,C,22
 29933948,fluent/fluent-bit,C,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 6860771,hathach/tinyusb,C,4
 331380723,raspberrypi/pico-sdk,C,1
 101804230,openenclave/openenclave,C,3
-207354223,FreeRTOS/FreeRTOS-Kernel,C,4
+207354223,FreeRTOS/FreeRTOS-Kernel,C,3
 295909816,fenwii/OpenHarmony,C,16
