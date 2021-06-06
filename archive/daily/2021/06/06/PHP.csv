@@ -1,9 +1,9 @@
 id,name,lang,new stars
 1129010,blueimp/jQuery-File-Upload,PHP,3
 458058,symfony/symfony,PHP,6
-2889328,WordPress/WordPress,PHP,8
+2889328,WordPress/WordPress,PHP,10
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,8
-56728437,docker/labs,PHP,5
+56728437,docker/labs,PHP,6
 2884111,magento/magento2,PHP,5
 42480275,spatie/laravel-permission,PHP,5
 2699935,squizlabs/PHP_CodeSniffer,PHP,7
@@ -14,13 +14,13 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,3
 74386167,vimeo/psalm,PHP,2
 9077725,giggsey/libphonenumber-for-php,PHP,3
-61802818,spatie/laravel-activitylog,PHP,7
+61802818,spatie/laravel-activitylog,PHP,8
 439861,moodle/moodle,PHP,2
 29054113,zyx0814/dzzoffice,PHP,3
 63073734,laravel/passport,PHP,0
-1957456,Dolibarr/dolibarr,PHP,4
+1957456,Dolibarr/dolibarr,PHP,5
 13914116,librenms/librenms,PHP,0
 15231212,Automattic/jetpack,PHP,1
-699382,onelogin/php-saml,PHP,1
-247825643,imanghafoori1/laravel-microscope,PHP,32
-260729799,knuckleswtf/scribe,PHP,5
+699382,onelogin/php-saml,PHP,0
+247825643,imanghafoori1/laravel-microscope,PHP,29
+260729799,knuckleswtf/scribe,PHP,4
