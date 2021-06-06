@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,Shell,392
-2126244,twbs/bootstrap,JavaScript,277
+21737465,sindresorhus/awesome,Shell,375
+2126244,twbs/bootstrap,JavaScript,276
 54346799,public-apis/public-apis,Python,857
-31792824,flutter/flutter,Dart,209
+31792824,flutter/flutter,Dart,213
 126577260,trekhleb/javascript-algorithms,JavaScript,388
-132464395,Snailclimb/JavaGuide,Java,109
-15111821,grafana/grafana,TypeScript,370
-63477660,TheAlgorithms/Java,Java,313
-114747226,deepfakes/faceswap,Python,208
+132464395,Snailclimb/JavaGuide,Java,134
+15111821,grafana/grafana,TypeScript,374
+63477660,TheAlgorithms/Java,Java,283
+114747226,deepfakes/faceswap,Python,163
 166535974,Advanced-Frontend/Daily-Interview-Question,JavaScript,45
 201454051,Awesome-HarmonyOS/HarmonyOS,C,277
-83516498,norvig/pytudes,Jupyter Notebook,260
+83516498,norvig/pytudes,Jupyter Notebook,288
 45646037,plotly/plotly.js,JavaScript,197
-192925833,prisma/prisma,TypeScript,468
-28239455,dotnet/AspNetCore.Docs,C#,130
-48109239,cilium/cilium,Go,72
-279848748,rahuldkjain/github-profile-readme-generator,JavaScript,521
-32887098,googleapis/googleapis,Starlark,97
-361647128,black7375/Firefox-UI-Fix,CSS,678
-372334925,pmndrs/racing-game,JavaScript,314
-92865964,fabionoth/awesome-cyber-security,,193
+192925833,prisma/prisma,TypeScript,502
+28239455,dotnet/AspNetCore.Docs,C#,113
+48109239,cilium/cilium,Go,65
+279848748,rahuldkjain/github-profile-readme-generator,JavaScript,553
+32887098,googleapis/googleapis,Starlark,83
+361647128,black7375/Firefox-UI-Fix,CSS,680
+372334925,pmndrs/racing-game,JavaScript,354
+92865964,fabionoth/awesome-cyber-security,,245
 333402532,chinnkarahoi/jd_scripts,JavaScript,46
-364211069,yqchilde/JDMemberCloseAccount,Python,65
-373111497,kzl/decision-transformer,Python,164
-373263627,zooPanda/zoo,,25
+373111497,kzl/decision-transformer,Python,176
+364211069,yqchilde/JDMemberCloseAccount,Python,71
+373263627,zooPanda/zoo,,54
