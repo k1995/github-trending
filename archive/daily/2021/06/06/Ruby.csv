@@ -1,10 +1,10 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,4
-7569578,discourse/discourse,Ruby,11
-53238813,Homebrew/brew,Ruby,17
-13840241,freeCodeCamp/devdocs,Ruby,13
-52281283,tootsuite/mastodon,Ruby,11
-2293158,rapid7/metasploit-framework,Ruby,8
+7569578,discourse/discourse,Ruby,7
+53238813,Homebrew/brew,Ruby,18
+13840241,freeCodeCamp/devdocs,Ruby,16
+52281283,tootsuite/mastodon,Ruby,4
+2293158,rapid7/metasploit-framework,Ruby,10
 2500088,gitlabhq/gitlabhq,Ruby,0
 3623050,Homebrew/homebrew-cask,Ruby,4
 1090311,elastic/logstash,Ruby,2
@@ -12,14 +12,14 @@ id,name,lang,new stars
 3314,spree/spree,Ruby,0
 1918677,fluent/fluentd,Ruby,5
 18486300,lewagon/setup,Ruby,2
-15435,Shopify/liquid,Ruby,3
+15435,Shopify/liquid,Ruby,4
 108278,chef/chef,Ruby,1
-6899875,opf/openproject,Ruby,3
+6899875,opf/openproject,Ruby,4
 1952825,Homebrew/homebrew-bundle,Ruby,2
 52316423,luggit/react-native-config,Ruby,5
 614070,rubygems/rubygems,Ruby,1
-3698608,moove-it/sidekiq-scheduler,Ruby,10
-80462373,keyvanakbary/learning-notes,Ruby,2
+3698608,moove-it/sidekiq-scheduler,Ruby,12
+80462373,keyvanakbary/learning-notes,Ruby,3
 16957977,JasonBarnabe/greasyfork,Ruby,0
 8154497,rubysec/ruby-advisory-db,Ruby,0
 36527291,cloudfoundry-incubator/haproxy-boshrelease,Ruby,0
