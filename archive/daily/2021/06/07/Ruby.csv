@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,6
+8514,rails/rails,Ruby,8
 7569578,discourse/discourse,Ruby,8
-53238813,Homebrew/brew,Ruby,19
-13840241,freeCodeCamp/devdocs,Ruby,16
+53238813,Homebrew/brew,Ruby,20
+13840241,freeCodeCamp/devdocs,Ruby,17
 52281283,tootsuite/mastodon,Ruby,4
-2293158,rapid7/metasploit-framework,Ruby,12
+2293158,rapid7/metasploit-framework,Ruby,14
 2500088,gitlabhq/gitlabhq,Ruby,1
 3623050,Homebrew/homebrew-cask,Ruby,4
 1090311,elastic/logstash,Ruby,2
@@ -16,7 +16,7 @@ id,name,lang,new stars
 108278,chef/chef,Ruby,1
 6899875,opf/openproject,Ruby,5
 1952825,Homebrew/homebrew-bundle,Ruby,2
-52316423,luggit/react-native-config,Ruby,6
+52316423,luggit/react-native-config,Ruby,7
 614070,rubygems/rubygems,Ruby,1
 3698608,moove-it/sidekiq-scheduler,Ruby,12
 80462373,keyvanakbary/learning-notes,Ruby,4
