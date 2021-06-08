@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,539
-3482588,danielmiessler/SecLists,PHP,580
-458058,symfony/symfony,PHP,350
+3482588,danielmiessler/SecLists,PHP,583
+458058,symfony/symfony,PHP,353
 7548986,laravel/framework,PHP,265
 1631570,nikic/PHP-Parser,PHP,116
 1280180,phacility/phabricator,PHP,52
@@ -9,17 +9,17 @@ id,name,lang,new stars
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,112
 61490598,PHPOffice/PhpSpreadsheet,PHP,148
 49014795,phpstan/phpstan,PHP,104
-2884111,magento/magento2,PHP,60
+2884111,magento/magento2,PHP,63
 42261096,fuzzdb-project/fuzzdb,PHP,119
-4565995,phpseclib/phpseclib,PHP,50
+4565995,phpseclib/phpseclib,PHP,49
 60010673,elementor/elementor,PHP,99
-159606650,hyperf/hyperf,PHP,86
+159606650,hyperf/hyperf,PHP,87
 1543827,moneyphp/money,PHP,141
 11935508,RSS-Bridge/rss-bridge,PHP,102
 127536154,Qsnh/meedu,PHP,201
 6495081,wikimedia/mediawiki,PHP,57
 56836583,postaddictme/instagram-php-scraper,PHP,52
-74026995,CodelyTV/php-ddd-example,PHP,98
+74026995,CodelyTV/php-ddd-example,PHP,97
 141720301,dr5hn/countries-states-cities-database,PHP,129
 131995661,shopware/platform,PHP,47
 111562942,statamic/cms,PHP,50
