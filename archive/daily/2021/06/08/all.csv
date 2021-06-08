@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,Shell,298
-83222441,donnemartin/system-design-primer,Python,342
-54346799,public-apis/public-apis,Python,853
-63476337,TheAlgorithms/Python,Python,309
-9384267,electron/electron,C++,631
-22790488,iluwatar/java-design-patterns,Java,175
-12888993,home-assistant/core,Python,151
-114747226,deepfakes/faceswap,Python,354
-90563585,chubin/cheat.sh,Python,287
-71220757,swisskyrepo/PayloadsAllTheThings,Python,135
-68720867,firstcontributions/first-contributions,,225
-67702184,topjohnwu/Magisk,C++,60
-201454051,Awesome-HarmonyOS/HarmonyOS,C,168
-38696925,python-telegram-bot/python-telegram-bot,Python,192
-361044034,slidevjs/slidev,TypeScript,663
-91629816,freqtrade/freqtrade,Python,178
-87668160,atlas-engineer/nyxt,Common Lisp,95
+54346799,public-apis/public-apis,Python,867
+132750724,danistefanovic/build-your-own-x,,140
+9384267,electron/electron,C++,620
+35955666,jlevy/the-art-of-command-line,,247
+107111421,thedaviddias/Front-End-Checklist,,73
+114747226,deepfakes/faceswap,Python,255
+90563585,chubin/cheat.sh,Python,445
+125596489,pedronauck/docz,TypeScript,352
+68720867,firstcontributions/first-contributions,,385
+4524181,facebook/folly,C++,76
+196353673,taosdata/TDengine,C,42
+361044034,slidevjs/slidev,TypeScript,453
 51732606,jhu-ep-coursera/fullstack-course4,JavaScript,99
-154643390,sundowndev/phoneinfoga,Go,35
-181746158,freddier/hyperblog,HTML,26
-16773572,geerlingguy/mac-dev-playbook,Shell,117
-368439610,ParthJadhav/Tkinter-Designer,Python,237
-350770929,academind/react-complete-guide-code,,88
-364729022,maaslalani/slides,Go,308
-373844177,KranX/Perimeter,C++,35
+76734068,renovatebot/renovate,TypeScript,22
+373855820,TuSimple/naive-ui,TypeScript,610
+368439610,ParthJadhav/Tkinter-Designer,Python,334
+372695773,ekzhang/rustpad,Rust,117
+164048291,mattnotmax/cyberchef-recipes,,59
+336274588,PaddlePaddle/PaddleNLP,Python,215
+364729022,maaslalani/slides,Go,474
+374227727,peng-zhihui/XUAN-Bike,,378
+374417402,KibaeKim/SectorTradingAlgorithm,JavaScript,65
+362674457,Charmve/computer-vision-in-action,Jupyter Notebook,35
+374123614,hasherezade/transacted_hollowing,C,13
+367376378,escape2020/school2021,Jupyter Notebook,8
