@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,51
+8514,rails/rails,Ruby,50
 65252,jekyll/jekyll,Ruby,54
 7569578,discourse/discourse,Ruby,43
-27442967,fastlane/fastlane,Ruby,48
-53238813,Homebrew/brew,Ruby,92
-13840241,freeCodeCamp/devdocs,Ruby,69
+27442967,fastlane/fastlane,Ruby,49
+53238813,Homebrew/brew,Ruby,91
+13840241,freeCodeCamp/devdocs,Ruby,72
 2293158,rapid7/metasploit-framework,Ruby,63
 308770,heartcombo/devise,Ruby,23
 1090311,elastic/logstash,Ruby,13
 3195124,mperham/sidekiq,Ruby,16
-18486300,lewagon/setup,Ruby,73
-275604,resque/resque,Ruby,6
-1725199,github/linguist,Ruby,38
+18486300,lewagon/setup,Ruby,72
+275604,resque/resque,Ruby,7
+1725199,github/linguist,Ruby,39
 451035,heartcombo/simple_form,Ruby,4
 2441517,puma/puma,Ruby,6
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,39
@@ -19,8 +19,8 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,12
 43347873,danger/danger,Ruby,28
 30985840,solidusio/solidus,Ruby,8
-11426474,github/choosealicense.com,Ruby,13
-93163073,dependabot/dependabot-core,Ruby,11
+11426474,github/choosealicense.com,Ruby,12
+93163073,dependabot/dependabot-core,Ruby,10
 2376,ActsAsParanoid/acts_as_paranoid,Ruby,2
 29151578,rswag/rswag,Ruby,14
 80462373,keyvanakbary/learning-notes,Ruby,24
