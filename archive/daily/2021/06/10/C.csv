@@ -1,15 +1,15 @@
 id,name,lang,new stars
-18666758,pjreddie/darknet,C,7
-246335987,ventoy/Ventoy,C,25
-196353673,taosdata/TDengine,C,72
-184981,memcached/memcached,C,5
+18666758,pjreddie/darknet,C,8
+246335987,ventoy/Ventoy,C,24
+196353673,taosdata/TDengine,C,70
+184981,memcached/memcached,C,4
 480080,openresty/openresty,C,3
-23029617,h2o/h2o,C,3
+23029617,h2o/h2o,C,2
 32873313,systemd/systemd,C,2
-179354282,acidanthera/OpenCorePkg,C,11
-65899476,espressif/esp-idf,C,12
-272457606,jart/cosmopolitan,C,3
-192805335,microsoft/mimalloc,C,18
+179354282,acidanthera/OpenCorePkg,C,12
+65899476,espressif/esp-idf,C,11
+272457606,jart/cosmopolitan,C,5
+192805335,microsoft/mimalloc,C,20
 273689548,peng-zhihui/L-ink_Card,C,20
 5870069,edenhill/librdkafka,C,2
 8270972,ARMmbed/mbed-os,C,2
@@ -19,8 +19,8 @@ id,name,lang,new stars
 40306512,LuaJIT/LuaJIT,C,4
 327491895,peng-zhihui/HoloCubic,C,29
 287706896,Tencent/puerts,C,13
-28928522,wolfSSL/wolfssl,C,2
+28928522,wolfSSL/wolfssl,C,3
 33784533,asterisk/asterisk,C,0
 117900805,torvalds/uemacs,C,2
 369852087,madMAx43v3r/chia-plotter,C,219
-368728111,peng-zhihui/ESP32-PicoDK,C,12
+368728111,peng-zhihui/ESP32-PicoDK,C,13
