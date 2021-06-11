@@ -1,8 +1,8 @@
 id,name,lang,new stars
 123458551,jackfrued/Python-100-Days,Python,44
-4164482,django/django,Python,29
+4164482,django/django,Python,27
 155220641,huggingface/transformers,Python,91
-40416236,minimaxir/big-list-of-naughty-strings,Python,9
+40416236,minimaxir/big-list-of-naughty-strings,Python,11
 145553672,fighting41love/funNLP,Python,40
 33884891,apache/airflow,Python,12
 65711522,PaddlePaddle/Paddle,Python,84
@@ -10,8 +10,8 @@ id,name,lang,new stars
 136202695,mlflow/mlflow,Python,14
 97641933,OpenMined/PySyft,Python,10
 162672577,PaddlePaddle/PaddleHub,Python,359
-172227885,tiangolo/full-stack-fastapi-postgresql,Python,12
-202498093,tgbot-collection/YYeTsBot,Python,91
+172227885,tiangolo/full-stack-fastapi-postgresql,Python,13
+202498093,tgbot-collection/YYeTsBot,Python,89
 132709824,doccano/doccano,Python,5
 261515636,matplotlib/cheatsheets,Python,17
 235901813,PostHog/posthog,Python,21
@@ -23,4 +23,4 @@ id,name,lang,new stars
 336274588,PaddlePaddle/PaddleNLP,Python,97
 315490189,dortania/OpenCore-Legacy-Patcher,Python,22
 365517762,xmu-xiaoma666/External-Attention-pytorch,Python,29
-320369480,udacity/nd064_course_1,Python,32
+320369480,udacity/nd064_course_1,Python,34
