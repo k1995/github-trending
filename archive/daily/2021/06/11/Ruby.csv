@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,7
-53238813,Homebrew/brew,Ruby,11
-481872,hashicorp/vagrant,Ruby,11
+53238813,Homebrew/brew,Ruby,13
+481872,hashicorp/vagrant,Ruby,14
 308770,heartcombo/devise,Ruby,1
-2203645,CocoaPods/CocoaPods,Ruby,3
+2203645,CocoaPods/CocoaPods,Ruby,5
 4095287,rubocop/rubocop,Ruby,4
-3314,spree/spree,Ruby,2
-1918677,fluent/fluentd,Ruby,5
+3314,spree/spree,Ruby,3
+1918677,fluent/fluentd,Ruby,6
 18486300,lewagon/setup,Ruby,12
 52855516,Homebrew/homebrew-core,Ruby,3
 8393,thoughtbot/paperclip,Ruby,1
@@ -19,8 +19,8 @@ id,name,lang,new stars
 2802565,doorkeeper-gem/doorkeeper,Ruby,1
 839336,simplecov-ruby/simplecov,Ruby,1
 52316423,luggit/react-native-config,Ruby,1
-93163073,dependabot/dependabot-core,Ruby,5
+93163073,dependabot/dependabot-core,Ruby,6
 12357002,ondrejbartas/sidekiq-cron,Ruby,0
-64552869,LionSec/xerosploit,Ruby,12
+64552869,LionSec/xerosploit,Ruby,13
 1794823,puppetlabs/puppetlabs-stdlib,Ruby,1
 6633410,hendotcat/ppl,Ruby,3
