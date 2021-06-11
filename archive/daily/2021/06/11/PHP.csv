@@ -1,9 +1,9 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,6
-7548986,laravel/framework,PHP,8
-1420053,guzzle/guzzle,PHP,8
-1376664,Seldaek/monolog,PHP,4
-2253830,PHPMailer/PHPMailer,PHP,4
+458058,symfony/symfony,PHP,7
+7548986,laravel/framework,PHP,9
+1420053,guzzle/guzzle,PHP,9
+1376664,Seldaek/monolog,PHP,3
+2253830,PHPMailer/PHPMailer,PHP,5
 12615154,barryvdh/laravel-debugbar,PHP,4
 28628034,flarum/flarum,PHP,3
 8678290,barryvdh/laravel-ide-helper,PHP,6
@@ -14,7 +14,7 @@ id,name,lang,new stars
 31295421,guzzle/psr7,PHP,4
 2179920,woocommerce/woocommerce,PHP,2
 1398660,symfony/routing,PHP,1
-32015820,webmozarts/assert,PHP,2
+32015820,webmozarts/assert,PHP,1
 9131292,jenssegers/laravel-mongodb,PHP,1
 10883164,barryvdh/laravel-dompdf,PHP,3
 12204147,mautic/mautic,PHP,1
