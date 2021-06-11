@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,142
+1863329,laravel/laravel,PHP,140
 3482588,danielmiessler/SecLists,PHP,149
-1864363,composer/composer,PHP,33
+1864363,composer/composer,PHP,31
 7548986,laravel/framework,PHP,66
 2253830,PHPMailer/PHPMailer,PHP,31
 12615154,barryvdh/laravel-debugbar,PHP,31
@@ -13,14 +13,14 @@ id,name,lang,new stars
 12166778,googleapis/google-api-php-client,PHP,12
 2179920,woocommerce/woocommerce,PHP,33
 6269013,aws/aws-sdk-php,PHP,3
-10883164,barryvdh/laravel-dompdf,PHP,11
-61802818,spatie/laravel-activitylog,PHP,29
+10883164,barryvdh/laravel-dompdf,PHP,10
+61802818,spatie/laravel-activitylog,PHP,28
 439861,moodle/moodle,PHP,18
 41463886,codeigniter4/CodeIgniter4,PHP,16
 47508644,pterodactyl/panel,PHP,27
-69691727,pmmp/PocketMine-MP,PHP,8
-96284790,prasathmani/tinyfilemanager,PHP,28
-2686502,pimcore/pimcore,PHP,3
+69691727,pmmp/PocketMine-MP,PHP,9
+96284790,prasathmani/tinyfilemanager,PHP,26
+2686502,pimcore/pimcore,PHP,8
 141720301,dr5hn/countries-states-cities-database,PHP,33
 330980599,yanfeizhang/coder-kung-fu,PHP,78
 333209627,stripe-samples/accept-a-payment,PHP,5
