@@ -1,12 +1,12 @@
 id,name,lang,new stars
-6838921,prometheus/prometheus,Go,19
-29261473,minio/minio,Go,14
-17728164,hashicorp/terraform,Go,167
+6838921,prometheus/prometheus,Go,21
+29261473,minio/minio,Go,15
+17728164,hashicorp/terraform,Go,192
 74175805,istio/istio,Go,17
 8989842,unknwon/the-way-to-go_ZH_CN,Go,7
 14125254,hashicorp/consul,Go,14
-13124802,influxdata/influxdb,Go,9
-44498957,valyala/fasthttp,Go,8
+13124802,influxdata/influxdb,Go,10
+44498957,valyala/fasthttp,Go,12
 46806184,helm/charts,Go,1
 27729907,grpc/grpc-go,Go,7
 165041732,go-kratos/kratos,Go,16
@@ -19,7 +19,7 @@ id,name,lang,new stars
 88013053,docker/cli,Go,1
 93446042,terraform-providers/terraform-provider-azurerm,Go,2
 76686583,kubevirt/kubevirt,Go,3
-139727567,stakater/Reloader,Go,4
-364729022,maaslalani/slides,Go,465
+139727567,stakater/Reloader,Go,6
+364729022,maaslalani/slides,Go,489
 93446120,hashicorp/terraform-provider-vault,Go,0
-370912548,marmotedu/iam,Go,12
+370912548,marmotedu/iam,Go,17
