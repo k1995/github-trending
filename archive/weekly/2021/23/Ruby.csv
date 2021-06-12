@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,56
-53238813,Homebrew/brew,Ruby,118
+8514,rails/rails,Ruby,57
+53238813,Homebrew/brew,Ruby,119
 13840241,freeCodeCamp/devdocs,Ruby,76
-2293158,rapid7/metasploit-framework,Ruby,92
+2293158,rapid7/metasploit-framework,Ruby,93
 481872,hashicorp/vagrant,Ruby,55
-2203645,CocoaPods/CocoaPods,Ruby,12
-1090311,elastic/logstash,Ruby,15
+2203645,CocoaPods/CocoaPods,Ruby,11
+1090311,elastic/logstash,Ruby,16
 4095287,rubocop/rubocop,Ruby,15
 18486300,lewagon/setup,Ruby,70
-202291859,chatwoot/chatwoot,Ruby,74
+202291859,chatwoot/chatwoot,Ruby,75
 1725199,github/linguist,Ruby,32
 75785147,rails/webpacker,Ruby,57
 535266,vcr/vcr,Ruby,12
@@ -18,7 +18,7 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,14
 115859973,ddnexus/pagy,Ruby,21
 14238949,elastic/elasticsearch-rails,Ruby,0
-3898922,zammad/zammad,Ruby,10
+3898922,zammad/zammad,Ruby,11
 103766152,github/explore,Ruby,32
 34840276,elastic/ansible-elasticsearch,Ruby,8
 3698608,moove-it/sidekiq-scheduler,Ruby,21

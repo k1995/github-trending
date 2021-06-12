@@ -1,12 +1,12 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,152
-3482588,danielmiessler/SecLists,PHP,163
+3482588,danielmiessler/SecLists,PHP,166
 1864363,composer/composer,PHP,36
-7548986,laravel/framework,PHP,68
+7548986,laravel/framework,PHP,69
 2253830,PHPMailer/PHPMailer,PHP,37
-12615154,barryvdh/laravel-debugbar,PHP,37
+12615154,barryvdh/laravel-debugbar,PHP,38
 28628034,flarum/flarum,PHP,46
-23680678,tymondesigns/jwt-auth,PHP,23
+23680678,tymondesigns/jwt-auth,PHP,24
 56728437,docker/labs,PHP,23
 2884111,magento/magento2,PHP,28
 12166778,googleapis/google-api-php-client,PHP,14
@@ -21,6 +21,6 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,10
 96284790,prasathmani/tinyfilemanager,PHP,28
 2686502,pimcore/pimcore,PHP,8
-141720301,dr5hn/countries-states-cities-database,PHP,37
+141720301,dr5hn/countries-states-cities-database,PHP,38
 131995661,shopware/platform,PHP,13
 330980599,yanfeizhang/coder-kung-fu,PHP,79
