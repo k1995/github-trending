@@ -1,12 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,54
-53238813,Homebrew/brew,Ruby,114
+8514,rails/rails,Ruby,56
+53238813,Homebrew/brew,Ruby,115
 13840241,freeCodeCamp/devdocs,Ruby,70
-2293158,rapid7/metasploit-framework,Ruby,86
-308770,heartcombo/devise,Ruby,20
+2293158,rapid7/metasploit-framework,Ruby,87
+481872,hashicorp/vagrant,Ruby,55
+2203645,CocoaPods/CocoaPods,Ruby,11
 1090311,elastic/logstash,Ruby,14
 4095287,rubocop/rubocop,Ruby,15
-52855516,Homebrew/homebrew-core,Ruby,47
+18486300,lewagon/setup,Ruby,68
 202291859,chatwoot/chatwoot,Ruby,73
 1725199,github/linguist,Ruby,29
 75785147,rails/webpacker,Ruby,57
@@ -14,12 +15,11 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,24
 1734,aasm/aasm,Ruby,11
 839336,simplecov-ruby/simplecov,Ruby,10
-7050,prawnpdf/prawn,Ruby,13
 52316423,luggit/react-native-config,Ruby,14
 115859973,ddnexus/pagy,Ruby,19
-614070,rubygems/rubygems,Ruby,10
+14238949,elastic/elasticsearch-rails,Ruby,0
+3898922,zammad/zammad,Ruby,10
 103766152,github/explore,Ruby,32
-200302808,github/view_component,Ruby,14
 34840276,elastic/ansible-elasticsearch,Ruby,8
 3698608,moove-it/sidekiq-scheduler,Ruby,21
 29151578,rswag/rswag,Ruby,12
