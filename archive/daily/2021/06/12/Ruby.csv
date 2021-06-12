@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,9
-2293158,rapid7/metasploit-framework,Ruby,16
-308770,heartcombo/devise,Ruby,3
+2293158,rapid7/metasploit-framework,Ruby,19
+308770,heartcombo/devise,Ruby,4
 2203645,CocoaPods/CocoaPods,Ruby,5
 1090311,elastic/logstash,Ruby,1
-4095287,rubocop/rubocop,Ruby,1
+4095287,rubocop/rubocop,Ruby,3
 812393,ruby-grape/grape,Ruby,0
 611921,activeadmin/activeadmin,Ruby,1
 6529205,varvet/pundit,Ruby,3
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,4
-75785147,rails/webpacker,Ruby,0
+75785147,rails/webpacker,Ruby,1
 33739333,thoughtbot/administrate,Ruby,0
 535266,vcr/vcr,Ruby,1
 6899875,opf/openproject,Ruby,2
@@ -17,7 +17,7 @@ id,name,lang,new stars
 839336,simplecov-ruby/simplecov,Ruby,0
 30985840,solidusio/solidus,Ruby,2
 4523235,asciidoctor/asciidoctor,Ruby,1
-115859973,ddnexus/pagy,Ruby,4
+115859973,ddnexus/pagy,Ruby,5
 363,collectiveidea/audited,Ruby,3
 14238949,elastic/elasticsearch-rails,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,4
