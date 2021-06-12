@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,144
+1863329,laravel/laravel,PHP,146
 3482588,danielmiessler/SecLists,PHP,152
-1864363,composer/composer,PHP,32
+1864363,composer/composer,PHP,34
 7548986,laravel/framework,PHP,67
 2253830,PHPMailer/PHPMailer,PHP,37
 12615154,barryvdh/laravel-debugbar,PHP,36
 28628034,flarum/flarum,PHP,40
 23680678,tymondesigns/jwt-auth,PHP,22
-56728437,docker/labs,PHP,22
+56728437,docker/labs,PHP,23
 2884111,magento/magento2,PHP,21
 42480275,spatie/laravel-permission,PHP,21
 12166778,googleapis/google-api-php-client,PHP,13

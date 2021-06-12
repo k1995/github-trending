@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,594
+1863329,laravel/laravel,PHP,596
 3482588,danielmiessler/SecLists,PHP,612
 458058,symfony/symfony,PHP,351
 7548986,laravel/framework,PHP,277
 1420053,guzzle/guzzle,PHP,121
 1376664,Seldaek/monolog,PHP,125
-1631570,nikic/PHP-Parser,PHP,121
+1631570,nikic/PHP-Parser,PHP,123
 3431193,yiisoft/yii2,PHP,51
 28628034,flarum/flarum,PHP,123
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,116
@@ -14,7 +14,7 @@ id,name,lang,new stars
 7577142,doctrine/annotations,PHP,65
 42261096,fuzzdb-project/fuzzdb,PHP,124
 3217621,phpmyadmin/phpmyadmin,PHP,65
-627735,vrana/adminer,PHP,50
+627735,vrana/adminer,PHP,51
 10883164,barryvdh/laravel-dompdf,PHP,67
 60010673,elementor/elementor,PHP,100
 159606650,hyperf/hyperf,PHP,89
