@@ -1,16 +1,16 @@
 id,name,lang,new stars
-23096959,golang/go,Go,312
-7691631,moby/moby,Go,65
-20904437,gin-gonic/gin,Go,198
-48378947,fatedier/frp,Go,231
-17728164,hashicorp/terraform,Go,553
+23096959,golang/go,Go,311
+7691631,moby/moby,Go,64
+20904437,gin-gonic/gin,Go,199
+48378947,fatedier/frp,Go,229
+17728164,hashicorp/terraform,Go,556
 24268127,coreybutler/nvm-windows,Go,77
-119160553,photoprism/photoprism,Go,299
+119160553,photoprism/photoprism,Go,276
 4059138,dgrijalva/jwt-go,Go,46
-87617508,casbin/casbin,Go,60
+87617508,casbin/casbin,Go,56
 181461073,v2fly/v2ray-core,Go,155
-72477752,pulumi/pulumi,Go,130
-54378638,github/gh-ost,Go,30
+72477752,pulumi/pulumi,Go,131
+54378638,github/gh-ost,Go,29
 18858585,mailhog/MailHog,Go,42
 48109239,cilium/cilium,Go,172
 48643510,pkg/errors,Go,34
@@ -22,5 +22,5 @@ id,name,lang,new stars
 124157517,kubernetes-sigs/cluster-api,Go,11
 371564104,megaease/easegress,Go,312
 192178626,marcel-dempers/docker-development-youtube-series,Go,50
-286729329,zu1k/proxypool,Go,145
-318972528,roseduan/rosedb,Go,117
+286729329,zu1k/proxypool,Go,146
+318972528,roseduan/rosedb,Go,116
