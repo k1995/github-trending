@@ -1,17 +1,17 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,52
-53238813,Homebrew/brew,Ruby,112
+53238813,Homebrew/brew,Ruby,115
 13840241,freeCodeCamp/devdocs,Ruby,69
-2293158,rapid7/metasploit-framework,Ruby,78
-308770,heartcombo/devise,Ruby,16
-1090311,elastic/logstash,Ruby,13
+2293158,rapid7/metasploit-framework,Ruby,80
+308770,heartcombo/devise,Ruby,19
+1090311,elastic/logstash,Ruby,14
 4095287,rubocop/rubocop,Ruby,13
 52855516,Homebrew/homebrew-core,Ruby,47
-202291859,chatwoot/chatwoot,Ruby,72
+202291859,chatwoot/chatwoot,Ruby,71
 1725199,github/linguist,Ruby,28
 75785147,rails/webpacker,Ruby,56
 535266,vcr/vcr,Ruby,10
-6899875,opf/openproject,Ruby,25
+6899875,opf/openproject,Ruby,24
 1734,aasm/aasm,Ruby,11
 839336,simplecov-ruby/simplecov,Ruby,10
 7050,prawnpdf/prawn,Ruby,13
@@ -23,4 +23,4 @@ id,name,lang,new stars
 34840276,elastic/ansible-elasticsearch,Ruby,8
 3698608,moove-it/sidekiq-scheduler,Ruby,21
 29151578,rswag/rswag,Ruby,12
-80462373,keyvanakbary/learning-notes,Ruby,31
+80462373,keyvanakbary/learning-notes,Ruby,32
