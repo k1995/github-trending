@@ -6,13 +6,13 @@ id,name,lang,new stars
 45821540,openwrt/openwrt,C,59
 179354282,acidanthera/OpenCorePkg,C,84
 437011,openzfs/zfs,C,32
-65899476,espressif/esp-idf,C,53
-60667730,lvgl/lvgl,C,49
+65899476,espressif/esp-idf,C,54
+60667730,lvgl/lvgl,C,50
 192805335,microsoft/mimalloc,C,117
-1979797,FreeRDP/FreeRDP,C,19
+1979797,FreeRDP/FreeRDP,C,22
 273689548,peng-zhihui/L-ink_Card,C,109
 59771425,zephyrproject-rtos/zephyr,C,32
-254327261,sandboxie-plus/Sandboxie,C,53
+254327261,sandboxie-plus/Sandboxie,C,54
 67934190,LiteOS/LiteOS,C,29
 115765590,OAID/Tengine,C,31
 43681824,varnishcache/varnish-cache,C,31

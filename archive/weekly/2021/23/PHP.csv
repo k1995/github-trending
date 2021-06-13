@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,152
-3482588,danielmiessler/SecLists,PHP,166
+1863329,laravel/laravel,PHP,153
+3482588,danielmiessler/SecLists,PHP,167
 1864363,composer/composer,PHP,36
 7548986,laravel/framework,PHP,69
-2253830,PHPMailer/PHPMailer,PHP,37
+2253830,PHPMailer/PHPMailer,PHP,38
 12615154,barryvdh/laravel-debugbar,PHP,38
 28628034,flarum/flarum,PHP,46
 23680678,tymondesigns/jwt-auth,PHP,24
@@ -21,6 +21,6 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,10
 96284790,prasathmani/tinyfilemanager,PHP,28
 2686502,pimcore/pimcore,PHP,8
-141720301,dr5hn/countries-states-cities-database,PHP,38
+141720301,dr5hn/countries-states-cities-database,PHP,39
 131995661,shopware/platform,PHP,13
 330980599,yanfeizhang/coder-kung-fu,PHP,79

@@ -4,7 +4,7 @@ id,name,lang,new stars
 29261473,minio/minio,Go,31
 13124802,influxdata/influxdb,Go,10
 44498957,valyala/fasthttp,Go,16
-13624859,gorilla/websocket,Go,19
+13624859,gorilla/websocket,Go,20
 21827146,chrislusf/seaweedfs,Go,17
 66573241,hyperledger/fabric,Go,9
 33258973,influxdata/telegraf,Go,13
@@ -14,13 +14,13 @@ id,name,lang,new stars
 11206255,Shopify/sarama,Go,9
 59522149,gruntwork-io/terragrunt,Go,7
 1966991,tealeg/xlsx,Go,20
-14128006,hashicorp/raft,Go,9
+14128006,hashicorp/raft,Go,10
 252813491,projectdiscovery/nuclei,Go,16
 92969352,moby/buildkit,Go,23
 110027931,metallb/metallb,Go,5
 52589524,mailru/easyjson,Go,7
-229030654,go-git/go-git,Go,8
-364729022,maaslalani/slides,Go,573
+229030654,go-git/go-git,Go,11
+364729022,maaslalani/slides,Go,574
 41317079,prometheus-community/postgres_exporter,Go,5
-170803235,magma/magma,Go,2
+170803235,magma/magma,Go,3
 264250064,Vedza/NitroSniperGo,Go,10

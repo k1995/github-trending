@@ -1,9 +1,9 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,12
 7569578,discourse/discourse,Ruby,14
-27442967,fastlane/fastlane,Ruby,10
+27442967,fastlane/fastlane,Ruby,11
 481872,hashicorp/vagrant,Ruby,11
-538746,ruby/ruby,Ruby,12
+538746,ruby/ruby,Ruby,13
 2203645,CocoaPods/CocoaPods,Ruby,6
 3314,spree/spree,Ruby,2
 1918677,fluent/fluentd,Ruby,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 5144181,jnunemaker/flipper,Ruby,3
 200302808,github/view_component,Ruby,6
 64552869,LionSec/xerosploit,Ruby,16
-10088951,TheOdinProject/theodinproject,Ruby,4
+10088951,TheOdinProject/theodinproject,Ruby,5
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,4
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 322209885,camertron/rux,Ruby,36
