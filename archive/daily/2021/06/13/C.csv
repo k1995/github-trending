@@ -1,7 +1,7 @@
 id,name,lang,new stars
 7634677,openssl/openssl,C,11
 4869294,radareorg/radare2,C,11
-34921116,iovisor/bcc,C,17
+34921116,iovisor/bcc,C,18
 95879426,Tencent/ncnn,C,16
 927442,postgres/postgres,C,9
 437011,openzfs/zfs,C,18
@@ -15,9 +15,9 @@ id,name,lang,new stars
 108568638,hanwckf/rt-n56u,C,8
 40556106,wazuh/wazuh,C,9
 83160811,littlefs-project/littlefs,C,2
-327491895,peng-zhihui/HoloCubic,C,68
+327491895,peng-zhihui/HoloCubic,C,67
 15101579,kamailio/kamailio,C,5
-369852087,madMAx43v3r/chia-plotter,C,494
+369852087,madMAx43v3r/chia-plotter,C,492
 144465372,RfidResearchGroup/proxmark3,C,6
 2276287,riscv/riscv-isa-sim,C,6
 228103273,apache/incubator-nuttx,C,5
