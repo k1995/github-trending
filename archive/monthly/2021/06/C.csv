@@ -1,19 +1,19 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,1599
-13233158,obsproject/obs-studio,C,1662
-1614410,FFmpeg/FFmpeg,C,481
+111583593,Genymobile/scrcpy,C,1624
+13233158,obsproject/obs-studio,C,1664
+1614410,FFmpeg/FFmpeg,C,483
 201454051,Awesome-HarmonyOS/HarmonyOS,C,1467
-196353673,taosdata/TDengine,C,538
+196353673,taosdata/TDengine,C,539
 18496166,gentilkiwi/mimikatz,C,783
 34921116,iovisor/bcc,C,252
 95879426,Tencent/ncnn,C,309
-93205465,apple/darwin-xnu,C,188
-78281075,SpacehuhnTech/esp8266_deauther,C,389
-3299208,videolan/vlc,C,163
+93205465,apple/darwin-xnu,C,190
+78281075,SpacehuhnTech/esp8266_deauther,C,390
+3299208,videolan/vlc,C,164
 179354282,acidanthera/OpenCorePkg,C,347
 437011,openzfs/zfs,C,98
 65899476,espressif/esp-idf,C,170
-272457606,jart/cosmopolitan,C,988
+272457606,jart/cosmopolitan,C,990
 192805335,microsoft/mimalloc,C,239
 64060314,Screetsec/TheFatRat,C,129
 1979797,FreeRDP/FreeRDP,C,103
@@ -23,4 +23,4 @@ id,name,lang,new stars
 115765590,OAID/Tengine,C,126
 327491895,peng-zhihui/HoloCubic,C,274
 6860771,hathach/tinyusb,C,97
-366715028,positive-security/send-my,C,1326
+366715028,positive-security/send-my,C,1327

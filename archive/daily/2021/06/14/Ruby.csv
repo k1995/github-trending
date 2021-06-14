@@ -1,15 +1,15 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,19
+65252,jekyll/jekyll,Ruby,20
 27442967,fastlane/fastlane,Ruby,14
-13840241,freeCodeCamp/devdocs,Ruby,23
+13840241,freeCodeCamp/devdocs,Ruby,25
 2293158,rapid7/metasploit-framework,Ruby,31
 2500088,gitlabhq/gitlabhq,Ruby,8
-538746,ruby/ruby,Ruby,14
+538746,ruby/ruby,Ruby,15
 73648678,forem/forem,Ruby,15
 18486300,lewagon/setup,Ruby,16
 96395,faker-ruby/faker,Ruby,7
 108278,chef/chef,Ruby,5
-11412473,ankane/searchkick,Ruby,12
+11412473,ankane/searchkick,Ruby,13
 5219382,rack/rack-attack,Ruby,3
 39706711,hartator/wayback-machine-downloader,Ruby,6
 614070,rubygems/rubygems,Ruby,1
@@ -18,7 +18,7 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,8
 64552869,LionSec/xerosploit,Ruby,19
 8154497,rubysec/ruby-advisory-db,Ruby,1
-322209885,camertron/rux,Ruby,42
+322209885,camertron/rux,Ruby,43
 36527291,cloudfoundry-incubator/haproxy-boshrelease,Ruby,0
 27006066,makersacademy/rps-challenge,Ruby,0
 201115227,pivotal-cf/shared-redis-release,Ruby,0
