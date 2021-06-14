@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,135
-3482588,danielmiessler/SecLists,PHP,165
+1863329,laravel/laravel,PHP,137
+3482588,danielmiessler/SecLists,PHP,166
 458058,symfony/symfony,PHP,37
 1864363,composer/composer,PHP,29
-7548986,laravel/framework,PHP,58
+7548986,laravel/framework,PHP,59
 12615154,barryvdh/laravel-debugbar,PHP,37
-28628034,flarum/flarum,PHP,53
-23680678,tymondesigns/jwt-auth,PHP,24
+28628034,flarum/flarum,PHP,54
+23680678,tymondesigns/jwt-auth,PHP,25
 56728437,docker/labs,PHP,18
 2884111,magento/magento2,PHP,28
 42480275,spatie/laravel-permission,PHP,25
@@ -16,11 +16,11 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,13
 61802818,spatie/laravel-activitylog,PHP,24
 439861,moodle/moodle,PHP,17
-41463886,codeigniter4/CodeIgniter4,PHP,15
+41463886,codeigniter4/CodeIgniter4,PHP,16
 8077402,MISP/MISP,PHP,12
 47508644,pterodactyl/panel,PHP,27
 69691727,pmmp/PocketMine-MP,PHP,12
-2686502,pimcore/pimcore,PHP,8
+2686502,pimcore/pimcore,PHP,9
 141720301,dr5hn/countries-states-cities-database,PHP,42
 189104054,laravel/ui,PHP,17
 330980599,yanfeizhang/coder-kung-fu,PHP,80
