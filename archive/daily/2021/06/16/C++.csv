@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,116
+1181927,bitcoin/bitcoin,C++,147
 15634981,godotengine/godot,C++,20
 19953044,google/flatbuffers,C++,2
 19374812,telegramdesktop/tdesktop,C++,8
@@ -11,7 +11,7 @@ id,name,lang,new stars
 52729242,keepassxreboot/keepassxc,C++,9
 51905353,apache/arrow,C++,4
 1605598,bulletphysics/bullet3,C++,4
-4128353,sass/node-sass,C++,3
+4128353,sass/node-sass,C++,4
 648332,assimp/assimp,C++,3
 46374199,IntelRealSense/librealsense,C++,9
 64561753,dusty-nv/jetson-inference,C++,7
@@ -22,5 +22,5 @@ id,name,lang,new stars
 66033005,mortennobel/cpp-cheatsheet,C++,10
 96848514,bqi343/USACO,C++,0
 108592307,eclipse/sumo,C++,0
-191842184,verilator/verilator,C++,2
+191842184,verilator/verilator,C++,3
 196336046,EYHN/vscode-vibrancy,JavaScript,1
