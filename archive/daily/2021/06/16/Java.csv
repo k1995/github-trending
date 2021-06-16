@@ -1,12 +1,12 @@
 id,name,lang,new stars
 173228436,NationalSecurityAgency/ghidra,Java,12
 221862,projectlombok/lombok,Java,8
-85371262,williamfiset/Algorithms,Java,14
+85371262,williamfiset/Algorithms,Java,11
 9623064,code4craft/webmagic,Java,15
 33218414,react-native-camera/react-native-camera,Java,1
 11125589,keycloak/keycloak,Java,10
-36817565,zaproxy/zaproxy,Java,4
-96704265,MindorksOpenSource/android-interview-questions,Java,6
+36817565,zaproxy/zaproxy,Java,2
+96704265,MindorksOpenSource/android-interview-questions,Java,7
 47997753,zo0r/react-native-push-notification,Java,5
 33166041,react-native-video/react-native-video,Java,2
 81226206,intuit/karate,Java,7
@@ -20,7 +20,7 @@ id,name,lang,new stars
 100753606,confluentinc/kafka-streams-examples,Java,1
 237553513,CaffeineMC/sodium-fabric,Java,7
 33965866,EssentialsX/Essentials,Java,0
-113689101,MSPaintIDE/MSPaintIDE,Java,0
+113689101,MSPaintIDE/MSPaintIDE,Java,1
 246464565,PojavLauncherTeam/PojavLauncher,Java,6
-200378150,Minestom/Minestom,Java,3
-375736511,openjdk/jdk17,Java,16
+200378150,Minestom/Minestom,Java,4
+375736511,openjdk/jdk17,Java,20
