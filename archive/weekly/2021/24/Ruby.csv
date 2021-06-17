@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,50
-53238813,Homebrew/brew,Ruby,85
+8514,rails/rails,Ruby,48
+53238813,Homebrew/brew,Ruby,84
 2293158,rapid7/metasploit-framework,Ruby,73
 481872,hashicorp/vagrant,Ruby,49
 3623050,Homebrew/homebrew-cask,Ruby,33
 538746,ruby/ruby,Ruby,29
-2203645,CocoaPods/CocoaPods,Ruby,15
+2203645,CocoaPods/CocoaPods,Ruby,17
 4095287,rubocop/rubocop,Ruby,16
 3314,spree/spree,Ruby,15
 1918677,fluent/fluentd,Ruby,20
@@ -13,14 +13,14 @@ id,name,lang,new stars
 202291859,chatwoot/chatwoot,Ruby,55
 108278,chef/chef,Ruby,11
 865250,presidentbeef/brakeman,Ruby,13
-75785147,rails/webpacker,Ruby,27
-6899875,opf/openproject,Ruby,21
+75785147,rails/webpacker,Ruby,22
+6899875,opf/openproject,Ruby,20
 1548802,activerecord-hackery/ransack,Ruby,10
-7050,prawnpdf/prawn,Ruby,23
-30985840,solidusio/solidus,Ruby,16
+7050,prawnpdf/prawn,Ruby,22
+30985840,solidusio/solidus,Ruby,15
 137805,redis/redis-rb,Ruby,5
 115859973,ddnexus/pagy,Ruby,27
 200302808,github/view_component,Ruby,21
-34840276,elastic/ansible-elasticsearch,Ruby,7
-64552869,LionSec/xerosploit,Ruby,35
+34840276,elastic/ansible-elasticsearch,Ruby,6
+64552869,LionSec/xerosploit,Ruby,34
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,15
