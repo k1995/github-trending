@@ -1,15 +1,15 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,8
-2203645,CocoaPods/CocoaPods,Ruby,4
+27442967,fastlane/fastlane,Ruby,9
+2203645,CocoaPods/CocoaPods,Ruby,5
 4095287,rubocop/rubocop,Ruby,0
-18486300,lewagon/setup,Ruby,21
-52855516,Homebrew/homebrew-core,Ruby,8
-202291859,chatwoot/chatwoot,Ruby,6
+18486300,lewagon/setup,Ruby,24
+52855516,Homebrew/homebrew-core,Ruby,7
+202291859,chatwoot/chatwoot,Ruby,5
 96395,faker-ruby/faker,Ruby,2
 8393,thoughtbot/paperclip,Ruby,0
-611921,activeadmin/activeadmin,Ruby,0
+611921,activeadmin/activeadmin,Ruby,3
 47087,carrierwaveuploader/carrierwave,Ruby,0
-6688319,DeathKing/Learning-SICP,Ruby,4
+6688319,DeathKing/Learning-SICP,Ruby,3
 810796,sferik/rails_admin,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,0
 108278,chef/chef,Ruby,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 132108,typhoeus/typhoeus,Ruby,2
 1462,ctran/annotate_models,Ruby,0
 52316423,luggit/react-native-config,Ruby,2
-143489,DatabaseCleaner/database_cleaner,Ruby,0
-9831101,elastic/elasticsearch-ruby,Ruby,1
+143489,DatabaseCleaner/database_cleaner,Ruby,1
+9831101,elastic/elasticsearch-ruby,Ruby,2
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,3
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,3
