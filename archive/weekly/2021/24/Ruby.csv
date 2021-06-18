@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,53
-53238813,Homebrew/brew,Ruby,78
-2293158,rapid7/metasploit-framework,Ruby,67
-481872,hashicorp/vagrant,Ruby,49
-3623050,Homebrew/homebrew-cask,Ruby,33
+8514,rails/rails,Ruby,55
+53238813,Homebrew/brew,Ruby,79
+2293158,rapid7/metasploit-framework,Ruby,66
+481872,hashicorp/vagrant,Ruby,48
+3623050,Homebrew/homebrew-cask,Ruby,34
 538746,ruby/ruby,Ruby,28
 2203645,CocoaPods/CocoaPods,Ruby,18
-4095287,rubocop/rubocop,Ruby,13
+4095287,rubocop/rubocop,Ruby,12
 361310,teamcapybara/capybara,Ruby,9
 202291859,chatwoot/chatwoot,Ruby,50
 21829,thoughtbot/factory_bot,Ruby,7
@@ -22,5 +22,5 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,15
 200302808,github/view_component,Ruby,24
 34840276,elastic/ansible-elasticsearch,Ruby,6
-64552869,LionSec/xerosploit,Ruby,30
+64552869,LionSec/xerosploit,Ruby,31
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,13
