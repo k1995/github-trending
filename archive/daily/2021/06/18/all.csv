@@ -1,26 +1,26 @@
 id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,126
+20929025,microsoft/TypeScript,TypeScript,55
 70107786,vercel/next.js,JavaScript,435
-33015583,keras-team/keras,Python,203
 138393139,trimstray/the-book-of-secret-knowledge,,293
-191529732,lydiahallie/javascript-questions,,357
-84533158,yunjey/pytorch-tutorial,Python,202
-163387337,seata/seata,Java,197
-186024298,nushell/nushell,Rust,550
-36639460,programthink/books,,141
-91356408,allenai/allennlp,Python,83
-120360765,chromium/chromium,,238
-28239455,dotnet/AspNetCore.Docs,C#,57
-109162639,thanos-io/thanos,Go,86
-229764465,Asabeneh/30-Days-Of-JavaScript,JavaScript,252
-52728517,programthink/zhao,Python,60
-233472199,massgravel/Microsoft-Activation-Scripts,Batchfile,326
-240315046,jina-ai/jina,Python,374
+26337322,rancher/rancher,Go,81
+192925833,prisma/prisma,TypeScript,51
+36639460,programthink/books,,145
+28239455,dotnet/AspNetCore.Docs,C#,146
+229764465,Asabeneh/30-Days-Of-JavaScript,JavaScript,240
+52728517,programthink/zhao,Python,84
+299354207,rustdesk/rustdesk,Rust,477
 302800491,vxunderground/MalwareSourceCode,Assembly,382
+305144746,geohot/tinygrad,Python,101
 328831244,ibraheemdev/modern-unix,,1980
-345368765,siduck76/NvChad,Lua,330
-364705340,google/fully-homomorphic-encryption,C++,337
-375945970,monyhar/monyhar-lite,C,179
-317981738,hotwired/turbo-rails,JavaScript,80
+349553695,bee-san/pyWhat,Python,257
+88298561,longhorn/longhorn,Shell,79
+371564104,megaease/easegress,Go,179
+347238363,mentebinaria/retoolkit,Inno Setup,36
+267429516,concrete-utopia/utopia,TypeScript,464
 371881380,AkashSingh3031/The-Complete-FAANG-Preparation,Jupyter Notebook,450
-374891081,neuralchen/SimSwap,Python,115
-376593107,neon-age/Smart-Inspector,C#,118
+279592699,harvester/harvester,Go,95
+220497210,sqfmi/Watchy,C,19
+360107267,SmartKeyerror/Psyduck,Go,43
+355959597,willmcgugan/textual,Python,256
+377329782,tunguz/ML_Resources,,28
