@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,70
-156018,redis/redis,C,25
+2325298,torvalds/linux,C,78
+156018,redis/redis,C,24
 18666758,pjreddie/darknet,C,12
-102578345,coolsnowwolf/lede,C,11
+102578345,coolsnowwolf/lede,C,12
 18496166,gentilkiwi/mimikatz,C,9
 5254557,cloudwu/skynet,C,8
-32873313,systemd/systemd,C,12
+32873313,systemd/systemd,C,9
 89315980,SecWiki/windows-kernel-exploits,C,2
 47057247,Wind4/vlmcsd,C,3
-105944401,yugabyte/yugabyte-db,C,5
+105944401,yugabyte/yugabyte-db,C,4
 6376337,pocoproject/poco,C,4
 254327261,sandboxie-plus/Sandboxie,C,10
 31791482,microsoft/Windows-driver-samples,C,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 23007417,colmap/colmap,C,2
 79187602,BlockchainCommons/Learning-Bitcoin-from-the-Command-Line,C,6
 256105296,fw876/helloworld,C,11
-375945970,monyhar/monyhar-lite,C,366
-220497210,sqfmi/Watchy,C,148
-71811858,ucb-bar/chipyard,C,3
+375945970,monyhar/monyhar-lite,C,179
+220497210,sqfmi/Watchy,C,140
+71811858,ucb-bar/chipyard,C,4
 53432472,Azure/sonic-buildimage,C,0
-362586600,jdah/jdh-8,C,98
+362586600,jdah/jdh-8,C,64
 377220157,Yaxser/Backstab,C,32
 355166993,sysprog21/concurrent-programs,C,26
