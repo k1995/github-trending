@@ -1,21 +1,21 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,19
-17620347,dotnet/aspnetcore,C#,28
+49609581,PowerShell/PowerShell,C#,17
+17620347,dotnet/aspnetcore,C#,27
 70104825,dotnet-architecture/eShopOnContainers,C#,10
-262395224,dotnet/maui,C#,38
-198071756,huiyadanli/RevokeMsgPatcher,C#,30
-28239455,dotnet/AspNetCore.Docs,C#,85
+262395224,dotnet/maui,C#,24
+198071756,huiyadanli/RevokeMsgPatcher,C#,27
+28239455,dotnet/AspNetCore.Docs,C#,82
 28232663,dotnet/orleans,C#,5
 7560589,JeffreySu/WeiXinMPSDK,C#,3
 213460285,jasontaylordev/CleanArchitecture,C#,16
 105649273,ElectronNET/Electron.NET,C#,5
-17941520,neuecc/UniRx,C#,6
-5780416,NLog/NLog,C#,4
-743436,egametang/ET,C#,6
+17941520,neuecc/UniRx,C#,5
+5780416,NLog/NLog,C#,2
+743436,egametang/ET,C#,4
 19216825,xamarin/xamarin-forms-samples,C#,1
 245235133,microsoft/reverse-proxy,C#,6
-136570231,stride3d/stride,C#,49
-23891194,Azure/azure-powershell,C#,2
+136570231,stride3d/stride,C#,44
+23891194,Azure/azure-powershell,C#,3
 2928944,Azure/azure-sdk-for-net,C#,1
 166270225,dotnet-presentations/blazor-workshop,C#,5
 185478059,open-telemetry/opentelemetry-dotnet,C#,7
@@ -23,4 +23,4 @@ id,name,lang,new stars
 341352859,polusgg/Town-Of-Us,C#,5
 337897094,beto-rodriguez/LiveCharts2,C#,10
 345354985,Eisbison/TheOtherRoles,C#,2
-372002213,fluentpos/fluentpos,C#,14
+372002213,fluentpos/fluentpos,C#,12

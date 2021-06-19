@@ -1,11 +1,11 @@
 id,name,lang,new stars
 23096959,golang/go,Go,41
-20580498,kubernetes/kubernetes,Go,156
+20580498,kubernetes/kubernetes,Go,172
 11180687,gohugoio/hugo,Go,126
 29207621,caddyserver/caddy,Go,37
 61137153,evanw/esbuild,Go,44
 13628513,sirupsen/logrus,Go,12
-26337322,rancher/rancher,Go,146
+26337322,rancher/rancher,Go,184
 5594766,PuerkitoBio/goquery,Go,16
 33258973,influxdata/telegraf,Go,6
 109162639,thanos-io/thanos,Go,138
@@ -18,9 +18,9 @@ id,name,lang,new stars
 10721619,hajimehoshi/ebiten,Go,37
 80134675,containers/buildah,Go,5
 67793333,cortexproject/cortex,Go,9
-244694886,didi/nightingale,Go,2
-371564104,megaease/easegress,Go,279
+244694886,didi/nightingale,Go,4
+371564104,megaease/easegress,Go,284
 318972528,roseduan/rosedb,Go,26
 279592699,harvester/harvester,Go,125
-189705577,HDT3213/godis,Go,54
+189705577,HDT3213/godis,Go,58
 351043495,SpectralOps/teller,Go,9
