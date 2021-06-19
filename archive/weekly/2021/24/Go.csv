@@ -1,8 +1,8 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,384
+20580498,kubernetes/kubernetes,Go,421
 11180687,gohugoio/hugo,Go,224
 6838921,prometheus/prometheus,Go,125
-17728164,hashicorp/terraform,Go,142
+17728164,hashicorp/terraform,Go,143
 12574344,spf13/cobra,Go,92
 4307108,nsqio/nsq,Go,54
 136815833,Dreamacro/clash,Go,151
@@ -10,17 +10,17 @@ id,name,lang,new stars
 33258973,influxdata/telegraf,Go,27
 13021798,git-lfs/git-lfs,Go,32
 109162639,thanos-io/thanos,Go,444
-36653430,hashicorp/nomad,Go,39
+36653430,hashicorp/nomad,Go,40
 46089560,containerd/containerd,Go,42
 23247808,rqlite/rqlite,Go,82
 109145553,containers/podman,Go,68
 92313258,jetstack/cert-manager,Go,24
 120896210,argoproj/argo-cd,Go,67
 37334619,golang/mock,Go,50
-154643390,sundowndev/phoneinfoga,Go,88
+154643390,sundowndev/phoneinfoga,Go,89
 14128006,hashicorp/raft,Go,22
 237523442,tailscale/tailscale,Go,114
 252813491,projectdiscovery/nuclei,Go,69
-364729022,maaslalani/slides,Go,522
+364729022,maaslalani/slides,Go,474
 279592699,harvester/harvester,Go,187
 370912548,marmotedu/iam,Go,50
