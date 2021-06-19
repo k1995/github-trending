@@ -1,9 +1,9 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,97
-3482588,danielmiessler/SecLists,PHP,120
+3482588,danielmiessler/SecLists,PHP,123
 2579314,fzaninotto/Faker,PHP,26
 458058,symfony/symfony,PHP,35
-7548986,laravel/framework,PHP,40
+7548986,laravel/framework,PHP,43
 2234102,bcit-ci/CodeIgniter,PHP,9
 2253830,PHPMailer/PHPMailer,PHP,33
 28628034,flarum/flarum,PHP,36
@@ -19,8 +19,8 @@ id,name,lang,new stars
 62087941,nWidart/laravel-modules,PHP,13
 59965104,nuwave/lighthouse,PHP,16
 69691727,pmmp/PocketMine-MP,PHP,12
-129852395,assimon/dujiaoka,PHP,28
+129852395,assimon/dujiaoka,PHP,31
 141720301,dr5hn/countries-states-cities-database,PHP,39
 111562942,statamic/cms,PHP,13
 36526302,pentestmonkey/php-reverse-shell,PHP,10
-75645659,WordPress/wordpress-develop,PHP,7
+75645659,WordPress/wordpress-develop,PHP,8

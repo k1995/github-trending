@@ -1,26 +1,26 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,28
-33015583,keras-team/keras,Python,76
+11180687,gohugoio/hugo,Go,126
+33015583,keras-team/keras,Python,140
 106017343,tailwindlabs/tailwindcss,JavaScript,78
 26337322,rancher/rancher,Go,146
-21515044,academic/awesome-datascience,,55
+21515044,academic/awesome-datascience,,124
 193215554,n8n-io/n8n,TypeScript,85
-192925833,prisma/prisma,TypeScript,181
+192925833,prisma/prisma,TypeScript,358
 109162639,thanos-io/thanos,Go,138
-52728517,programthink/zhao,Python,94
-299354207,rustdesk/rustdesk,Rust,385
-302800491,vxunderground/MalwareSourceCode,Assembly,442
+52728517,programthink/zhao,Python,198
+299354207,rustdesk/rustdesk,Rust,507
+302800491,vxunderground/MalwareSourceCode,Assembly,492
 328831244,ibraheemdev/modern-unix,,1446
-140543886,apache/incubator-shenyu,Java,19
+140543886,apache/incubator-shenyu,Java,36
 88298561,longhorn/longhorn,Shell,89
-299644773,EssayKillerBrain/EssayKiller_V2,Python,238
-371564104,megaease/easegress,Go,238
-371881380,AkashSingh3031/The-Complete-FAANG-Preparation,Jupyter Notebook,446
+299644773,EssayKillerBrain/EssayKiller_V2,Python,303
+371564104,megaease/easegress,Go,279
+371881380,AkashSingh3031/The-Complete-FAANG-Preparation,Jupyter Notebook,519
 324829379,organicmaps/organicmaps,C++,415
-279592699,harvester/harvester,Go,110
-355959597,willmcgugan/textual,Python,360
 375445655,facebookresearch/AugLy,Python,531
+279592699,harvester/harvester,Go,125
+355959597,willmcgugan/textual,Python,360
 376525310,cariboulabs/cariboulite,C,103
 373010014,kwai/DouZero,Python,182
 377760320,bats3c/DarkLoadLibrary,C,43
-376740449,benthecoder/yt-channels-DS-AI-ML-CS,,43
+376740449,benthecoder/yt-channels-DS-AI-ML-CS,,78

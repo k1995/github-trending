@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,58
-10446890,bilibili/ijkplayer,C,5
-102578345,coolsnowwolf/lede,C,11
-29759715,facebook/zstd,C,10
+2325298,torvalds/linux,C,71
+10446890,bilibili/ijkplayer,C,7
+102578345,coolsnowwolf/lede,C,19
+29759715,facebook/zstd,C,12
 34921116,iovisor/bcc,C,10
-95879426,Tencent/ncnn,C,12
-66150122,jarun/nnn,C,19
-5254557,cloudwu/skynet,C,9
-27737393,qmk/qmk_firmware,C,14
-45821540,openwrt/openwrt,C,6
+95879426,Tencent/ncnn,C,14
+66150122,jarun/nnn,C,21
+5254557,cloudwu/skynet,C,10
+27737393,qmk/qmk_firmware,C,15
+45821540,openwrt/openwrt,C,9
 9524997,glfw/glfw,C,4
 13310527,jemalloc/jemalloc,C,3
 105944401,yugabyte/yugabyte-db,C,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 118424053,greenbone/openvas-scanner,C,1
 228103273,apache/incubator-nuttx,C,1
 71811858,ucb-bar/chipyard,C,4
-376525310,cariboulabs/cariboulite,C,103
+376525310,cariboulabs/cariboulite,C,138
 53432472,Azure/sonic-buildimage,C,0
-377760320,bats3c/DarkLoadLibrary,C,43
+377760320,bats3c/DarkLoadLibrary,C,71
