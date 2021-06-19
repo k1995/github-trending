@@ -5,7 +5,7 @@ id,name,lang,new stars
 1420053,guzzle/guzzle,PHP,2
 5724990,briannesbitt/Carbon,PHP,3
 2889328,WordPress/WordPress,PHP,3
-60243197,nextcloud/server,PHP,8
+60243197,nextcloud/server,PHP,7
 4702560,PHPOffice/PHPExcel,PHP,2
 61490598,PHPOffice/PhpSpreadsheet,PHP,4
 29843361,w7corp/easywechat,PHP,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,1
 31595609,mpdf/mpdf,PHP,1
 18842338,facebookarchive/php-graph-sdk,PHP,1
-72453516,wp-graphql/wp-graphql,PHP,3
+72453516,wp-graphql/wp-graphql,PHP,4
 129852395,assimon/dujiaoka,PHP,3
-65549848,spatie/laravel-sitemap,PHP,2
+65549848,spatie/laravel-sitemap,PHP,3
 15231212,Automattic/jetpack,PHP,0
-75645659,WordPress/wordpress-develop,PHP,3
+75645659,WordPress/wordpress-develop,PHP,4
 268451269,4x99/code6,PHP,7
-377309343,nunomaduro/patrol,PHP,16
+377309343,nunomaduro/patrol,PHP,19
