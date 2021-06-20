@@ -1,15 +1,15 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1224
-9384267,electron/electron,C++,2403
-100060912,microsoft/terminal,C++,1277
-44838949,apple/swift,C++,440
-65600975,pytorch/pytorch,C++,753
+45717250,tensorflow/tensorflow,C++,1227
+9384267,electron/electron,C++,2404
+100060912,microsoft/terminal,C++,1278
+44838949,apple/swift,C++,441
+65600975,pytorch/pytorch,C++,755
 27729880,grpc/grpc,C++,380
 4524181,facebook/folly,C++,930
-60246359,ClickHouse/ClickHouse,C++,1034
-197275130,microsoft/winget-cli,C++,2218
+60246359,ClickHouse/ClickHouse,C++,1036
+197275130,microsoft/winget-cli,C++,2221
 33014811,notepad-plus-plus/notepad-plus-plus,C++,471
-160083795,SerenityOS/serenity,C++,2511
+160083795,SerenityOS/serenity,C++,2513
 23129458,aseprite/aseprite,C++,215
 191820100,google/mediapipe,C++,509
 52729242,keepassxreboot/keepassxc,C++,271
@@ -18,9 +18,9 @@ id,name,lang,new stars
 7512484,ArduPilot/ardupilot,C++,102
 221822577,Tencent/Hippy,C++,112
 5973855,CleverRaven/Cataclysm-DDA,C++,92
-193305104,barry-ran/QtScrcpy,C++,243
-283410102,sogou/workflow,C++,365
-86897963,ZLMediaKit/ZLMediaKit,C++,917
+193305104,barry-ran/QtScrcpy,C++,244
+283410102,sogou/workflow,C++,366
+86897963,ZLMediaKit/ZLMediaKit,C++,918
 3884981,juce-framework/JUCE,C++,457
 99919302,apache/incubator-doris,C++,135
 244694174,project-chip/connectedhomeip,C++,403
