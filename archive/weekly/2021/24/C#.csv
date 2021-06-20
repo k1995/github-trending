@@ -1,18 +1,18 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,334
-102904613,Unity-Technologies/ml-agents,C#,43
+184456251,microsoft/PowerToys,C#,340
+102904613,Unity-Technologies/ml-agents,C#,44
 16157746,dotnet/efcore,C#,28
 28239455,dotnet/AspNetCore.Docs,C#,237
 88064357,QL-Win/QuickLook,C#,63
 210716005,dotnet/runtime,C#,58
 165548191,carlospolop/privilege-escalation-awesome-scripts-suite,C#,74
-203892454,kgrzybek/modular-monolith-with-ddd,C#,99
+203892454,kgrzybek/modular-monolith-with-ddd,C#,100
 54213490,xamarin/Xamarin.Forms,C#,17
 135050219,TGSAN/CMWTAT_Digital_Edition,C#,137
 153711945,dotnet/wpf,C#,14
 27251463,QuantConnect/Lean,C#,32
 189676777,JasonStein/Notepads,C#,54
-136570231,stride3d/stride,C#,60
+136570231,stride3d/stride,C#,62
 321682465,SteamTools-Team/SteamTools,C#,169
 115516512,ivanpaulovich/clean-architecture-manga,C#,66
 23891194,Azure/azure-powershell,C#,10
@@ -21,6 +21,6 @@ id,name,lang,new stars
 168957647,kgrzybek/sample-dotnet-core-cqrs-api,C#,56
 322003344,tjackenpacken/taskbar-groups,C#,32
 366663429,jynew/jynew,C#,360
-185478059,open-telemetry/opentelemetry-dotnet,C#,16
-80280403,oskardudycz/EventSourcing.NetCore,C#,59
+185478059,open-telemetry/opentelemetry-dotnet,C#,17
+80280403,oskardudycz/EventSourcing.NetCore,C#,60
 231052394,hitchao/Jvedio,C#,58
