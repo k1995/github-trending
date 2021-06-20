@@ -3,7 +3,7 @@ id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,114
 2579314,fzaninotto/Faker,PHP,25
 458058,symfony/symfony,PHP,36
-7548986,laravel/framework,PHP,43
+7548986,laravel/framework,PHP,44
 2234102,bcit-ci/CodeIgniter,PHP,9
 2253830,PHPMailer/PHPMailer,PHP,34
 28628034,flarum/flarum,PHP,35
@@ -20,7 +20,7 @@ id,name,lang,new stars
 59965104,nuwave/lighthouse,PHP,20
 69691727,pmmp/PocketMine-MP,PHP,11
 129852395,assimon/dujiaoka,PHP,30
-141720301,dr5hn/countries-states-cities-database,PHP,38
+141720301,dr5hn/countries-states-cities-database,PHP,40
 111562942,statamic/cms,PHP,13
 36526302,pentestmonkey/php-reverse-shell,PHP,10
 75645659,WordPress/wordpress-develop,PHP,8
