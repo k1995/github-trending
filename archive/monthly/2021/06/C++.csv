@@ -1,18 +1,18 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1172
-9384267,electron/electron,C++,2381
-100060912,microsoft/terminal,C++,1248
+45717250,tensorflow/tensorflow,C++,1170
+9384267,electron/electron,C++,2384
+100060912,microsoft/terminal,C++,1251
 44838949,apple/swift,C++,423
 65600975,pytorch/pytorch,C++,734
-27729880,grpc/grpc,C++,362
+27729880,grpc/grpc,C++,367
 4524181,facebook/folly,C++,950
-60246359,ClickHouse/ClickHouse,C++,718
-197275130,microsoft/winget-cli,C++,2225
-33014811,notepad-plus-plus/notepad-plus-plus,C++,462
-160083795,SerenityOS/serenity,C++,2533
-23129458,aseprite/aseprite,C++,212
-191820100,google/mediapipe,C++,480
-52729242,keepassxreboot/keepassxc,C++,265
+60246359,ClickHouse/ClickHouse,C++,717
+197275130,microsoft/winget-cli,C++,2222
+33014811,notepad-plus-plus/notepad-plus-plus,C++,460
+160083795,SerenityOS/serenity,C++,2516
+23129458,aseprite/aseprite,C++,209
+191820100,google/mediapipe,C++,488
+52729242,keepassxreboot/keepassxc,C++,269
 114187903,apple/foundationdb,C++,164
 4128353,sass/node-sass,C++,69
 7512484,ArduPilot/ardupilot,C++,104
@@ -22,5 +22,5 @@ id,name,lang,new stars
 283410102,sogou/workflow,C++,376
 86897963,ZLMediaKit/ZLMediaKit,C++,736
 3884981,juce-framework/JUCE,C++,446
-99919302,apache/incubator-doris,C++,118
-244694174,project-chip/connectedhomeip,C++,364
+99919302,apache/incubator-doris,C++,119
+244694174,project-chip/connectedhomeip,C++,382

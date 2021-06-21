@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,406
-15634981,godotengine/godot,C++,138
+1181927,bitcoin/bitcoin,C++,383
+15634981,godotengine/godot,C++,139
 27729880,grpc/grpc,C++,90
 22067521,ocornut/imgui,C++,113
-6934395,facebook/rocksdb,C++,62
-4524181,facebook/folly,C++,213
+6934395,facebook/rocksdb,C++,61
+4524181,facebook/folly,C++,211
 251383553,electronicarts/CnC_Remastered_Collection,C++,29
 1062572,catchorg/Catch2,C++,30
-26038648,gabime/spdlog,C++,57
+26038648,gabime/spdlog,C++,59
 192025001,Qv2ray/Qv2ray,C++,117
-38581626,pybind/pybind11,C++,46
+38581626,pybind/pybind11,C++,45
 648332,assimp/assimp,C++,19
 76990209,Aircoookie/WLED,C++,57
 7512484,ArduPilot/ardupilot,C++,25
@@ -21,6 +21,6 @@ id,name,lang,new stars
 49986046,falcosecurity/falco,C++,24
 128479644,esphome/esphome,C++,34
 67768325,zeux/meshoptimizer,C++,47
-178613040,Neargye/magic_enum,C++,29
+178613040,Neargye/magic_enum,C++,30
 52420005,griddb/griddb,C++,4
 96848514,bqi343/USACO,C++,14
