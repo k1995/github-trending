@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,54
-7569578,discourse/discourse,Ruby,43
-13840241,freeCodeCamp/devdocs,Ruby,53
+7569578,discourse/discourse,Ruby,42
+13840241,freeCodeCamp/devdocs,Ruby,56
 2293158,rapid7/metasploit-framework,Ruby,59
 308770,heartcombo/devise,Ruby,24
 37382858,kilimchoi/engineering-blogs,Ruby,68
-3623050,Homebrew/homebrew-cask,Ruby,34
-2203645,CocoaPods/CocoaPods,Ruby,17
-1090311,elastic/logstash,Ruby,14
-4095287,rubocop/rubocop,Ruby,10
-1157388,tmuxinator/tmuxinator,Ruby,24
+3623050,Homebrew/homebrew-cask,Ruby,32
+2203645,CocoaPods/CocoaPods,Ruby,18
+1090311,elastic/logstash,Ruby,13
+4095287,rubocop/rubocop,Ruby,11
+1157388,tmuxinator/tmuxinator,Ruby,26
 52855516,Homebrew/homebrew-core,Ruby,41
 96395,faker-ruby/faker,Ruby,15
 21829,thoughtbot/factory_bot,Ruby,8
@@ -18,9 +18,9 @@ id,name,lang,new stars
 38867,svenfuchs/rails-i18n,Ruby,1
 52316423,luggit/react-native-config,Ruby,10
 137805,redis/redis-rb,Ruby,3
-93163073,dependabot/dependabot-core,Ruby,15
-200302808,github/view_component,Ruby,19
-64552869,LionSec/xerosploit,Ruby,15
+93163073,dependabot/dependabot-core,Ruby,16
+200302808,github/view_component,Ruby,18
+64552869,LionSec/xerosploit,Ruby,16
 80462373,keyvanakbary/learning-notes,Ruby,41
-79618507,fluent/fluentd-kubernetes-daemonset,Ruby,7
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,12
+79618507,fluent/fluentd-kubernetes-daemonset,Ruby,8
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,11
