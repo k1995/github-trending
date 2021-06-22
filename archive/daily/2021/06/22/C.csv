@@ -1,9 +1,9 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,82
-111583593,Genymobile/scrcpy,C,179
-1614410,FFmpeg/FFmpeg,C,19
-62156403,QSCTech/zju-icicles,C,24
-102578345,coolsnowwolf/lede,C,15
+111583593,Genymobile/scrcpy,C,97
+1614410,FFmpeg/FFmpeg,C,13
+62156403,QSCTech/zju-icicles,C,20
+102578345,coolsnowwolf/lede,C,14
 20159867,nothings/stb,C,15
 196353673,taosdata/TDengine,C,19
 34921116,iovisor/bcc,C,6
@@ -11,16 +11,16 @@ id,name,lang,new stars
 3199002,raspberrypi/linux,C,6
 1979797,FreeRDP/FreeRDP,C,4
 6376337,pocoproject/poco,C,3
-53614190,eclipse/mosquitto,C,2
-40504480,mit-pdos/xv6-public,C,4
+53614190,eclipse/mosquitto,C,1
+40504480,mit-pdos/xv6-public,C,2
 44781140,greenplum-db/gpdb,C,0
-59676171,KevinOConnor/klipper,C,3
+59676171,KevinOConnor/klipper,C,1
 26537135,u-boot/u-boot,C,1
 9476542,rbsec/sslscan,C,3
 226167620,JF002/InfiniTime,C,5
-376525310,cariboulabs/cariboulite,C,47
+376525310,cariboulabs/cariboulite,C,31
 195199001,0015/ThatProject,C,8
 51990771,ARM-software/CMSIS_5,C,5
-377698768,cmuratori/refterm,C,10
+377698768,cmuratori/refterm,C,7
 367198324,nrb547/kernel-exploitation,C,4
 378301732,Phorklift/phorklift,C,2

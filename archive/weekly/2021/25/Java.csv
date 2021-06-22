@@ -1,11 +1,11 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,975
+121395510,CyC2018/CS-Notes,Java,969
 81975372,kdn251/interviews,Java,264
-8859474,skylot/jadx,Java,90
-163387337,seata/seata,Java,281
+8859474,skylot/jadx,Java,77
+163387337,seata/seata,Java,285
 47023603,xuxueli/xxl-job,Java,88
 137451403,alibaba/nacos,Java,116
-41889031,TeamNewPipe/NewPipe,Java,87
+41889031,TeamNewPipe/NewPipe,Java,90
 85371262,williamfiset/Algorithms,Java,77
 6650539,neo4j/neo4j,Java,54
 209921402,newbee-ltd/newbee-mall,Java,109
@@ -13,8 +13,8 @@ id,name,lang,new stars
 113983289,kekingcn/kkFileView,Java,158
 138361150,doocs/jvm,Java,150
 140543886,apache/incubator-shenyu,Java,116
-50160261,PaperMC/Paper,Java,225
-166515022,trinodb/trino,Java,56
+50160261,PaperMC/Paper,Java,218
+166515022,trinodb/trino,Java,54
 248416273,didi/Logi-KafkaManager,Java,60
 265513067,LandGrey/SpringBootVulExploit,Java,104
 248032165,spring-projects-experimental/spring-authorization-server,Java,23
@@ -22,5 +22,5 @@ id,name,lang,new stars
 237553513,CaffeineMC/sodium-fabric,Java,169
 283211901,yuliskov/SmartTubeNext,Java,65
 282994686,ververica/flink-cdc-connectors,Java,18
-306449955,IrisShaders/Iris,Java,84
+306449955,IrisShaders/Iris,Java,82
 211226246,pytorch/android-demo-app,Java,38
