@@ -1,20 +1,20 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,476
-3482588,danielmiessler/SecLists,PHP,580
+3482588,danielmiessler/SecLists,PHP,577
 458058,symfony/symfony,PHP,169
 7548986,laravel/framework,PHP,245
 2234102,bcit-ci/CodeIgniter,PHP,38
-2253830,PHPMailer/PHPMailer,PHP,146
-1548202,matomo-org/matomo,PHP,129
+2253830,PHPMailer/PHPMailer,PHP,145
+1548202,matomo-org/matomo,PHP,130
 28628034,flarum/flarum,PHP,151
-2884111,magento/magento2,PHP,78
+2884111,magento/magento2,PHP,77
 42480275,spatie/laravel-permission,PHP,96
-597887,doctrine/orm,PHP,74
+597887,doctrine/orm,PHP,73
 622166,FriendsOfPHP/Goutte,PHP,58
 330275,twigphp/Twig,PHP,41
-3217621,phpmyadmin/phpmyadmin,PHP,59
+3217621,phpmyadmin/phpmyadmin,PHP,57
 6269013,aws/aws-sdk-php,PHP,35
-10883164,barryvdh/laravel-dompdf,PHP,74
+10883164,barryvdh/laravel-dompdf,PHP,72
 60010673,elementor/elementor,PHP,105
 159606650,hyperf/hyperf,PHP,90
 1543827,moneyphp/money,PHP,137
