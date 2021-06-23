@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,486
-3482588,danielmiessler/SecLists,PHP,583
+1863329,laravel/laravel,PHP,490
+3482588,danielmiessler/SecLists,PHP,587
 458058,symfony/symfony,PHP,169
 7548986,laravel/framework,PHP,249
 2234102,bcit-ci/CodeIgniter,PHP,40
-2253830,PHPMailer/PHPMailer,PHP,150
-1548202,matomo-org/matomo,PHP,135
+2253830,PHPMailer/PHPMailer,PHP,152
+1548202,matomo-org/matomo,PHP,134
 11323319,erusev/parsedown,PHP,73
 28628034,flarum/flarum,PHP,151
 2884111,magento/magento2,PHP,81
@@ -13,7 +13,7 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,71
 622166,FriendsOfPHP/Goutte,PHP,57
 3217621,phpmyadmin/phpmyadmin,PHP,60
-6269013,aws/aws-sdk-php,PHP,36
+6269013,aws/aws-sdk-php,PHP,37
 10883164,barryvdh/laravel-dompdf,PHP,71
 60010673,elementor/elementor,PHP,104
 61802818,spatie/laravel-activitylog,PHP,82
@@ -21,5 +21,5 @@ id,name,lang,new stars
 38200433,jeroennoten/Laravel-AdminLTE,PHP,63
 47508644,pterodactyl/panel,PHP,79
 129852395,assimon/dujiaoka,PHP,90
-141720301,dr5hn/countries-states-cities-database,PHP,159
+141720301,dr5hn/countries-states-cities-database,PHP,161
 75645659,WordPress/wordpress-develop,PHP,32
