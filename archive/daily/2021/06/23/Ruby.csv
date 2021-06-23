@@ -7,7 +7,7 @@ id,name,lang,new stars
 3195124,mperham/sidekiq,Ruby,7
 1918677,fluent/fluentd,Ruby,3
 96395,faker-ruby/faker,Ruby,1
-587311,omniauth/omniauth,Ruby,0
+587311,omniauth/omniauth,Ruby,1
 6529205,varvet/pundit,Ruby,1
 404319,rest-client/rest-client,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 2704356,zquestz/omniauth-google-oauth2,Ruby,0
 80462373,keyvanakbary/learning-notes,Ruby,15
 378701776,chrisseaton/rhizome,Ruby,173
-136781582,rubocop/rubocop-rails,Ruby,2
+136781582,rubocop/rubocop-rails,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 374577015,chengdh/manage-huo-baby,Ruby,0
