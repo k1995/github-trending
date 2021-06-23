@@ -1,16 +1,16 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,434
+20580498,kubernetes/kubernetes,Go,437
 21540759,avelino/awesome-go,Go,219
-11180687,gohugoio/hugo,Go,490
+11180687,gohugoio/hugo,Go,492
 4307108,nsqio/nsq,Go,55
 136815833,Dreamacro/clash,Go,170
 26337322,rancher/rancher,Go,353
 44498957,valyala/fasthttp,Go,91
 19205896,restic/restic,Go,65
-181461073,v2fly/v2ray-core,Go,344
-109162639,thanos-io/thanos,Go,492
+181461073,v2fly/v2ray-core,Go,355
+109162639,thanos-io/thanos,Go,462
 36653430,hashicorp/nomad,Go,36
-205679232,flipped-aurora/gin-vue-admin,Go,80
+205679232,flipped-aurora/gin-vue-admin,Go,81
 18906266,shirou/gopsutil,Go,38
 146641150,tektoncd/pipeline,Go,15
 120896210,argoproj/argo-cd,Go,58
@@ -21,6 +21,6 @@ id,name,lang,new stars
 237523442,tailscale/tailscale,Go,61
 371564104,megaease/easegress,Go,722
 193681111,filecoin-project/lotus,Go,24
-279592699,harvester/harvester,Go,318
+279592699,harvester/harvester,Go,322
 294825566,denverquane/automuteus,Go,11
 344676663,erda-project/erda,Go,132
