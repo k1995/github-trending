@@ -1,26 +1,26 @@
 id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,484
 62156403,QSCTech/zju-icicles,C,100
-102578345,coolsnowwolf/lede,C,85
-20159867,nothings/stb,C,157
-80286288,arendst/Tasmota,C,44
-2810292,pbatard/rufus,C,90
-34921116,iovisor/bcc,C,60
-27737393,qmk/qmk_firmware,C,68
+102578345,coolsnowwolf/lede,C,86
+20159867,nothings/stb,C,156
+80286288,arendst/Tasmota,C,47
+2810292,pbatard/rufus,C,89
+34921116,iovisor/bcc,C,59
+27737393,qmk/qmk_firmware,C,74
 1856976,libevent/libevent,C,27
-179354282,acidanthera/OpenCorePkg,C,57
+179354282,acidanthera/OpenCorePkg,C,58
 60667730,lvgl/lvgl,C,46
 4151993,OpenVPN/openvpn,C,25
-192805335,microsoft/mimalloc,C,60
+192805335,microsoft/mimalloc,C,59
 6376337,pocoproject/poco,C,19
-5870069,edenhill/librdkafka,C,21
+5870069,edenhill/librdkafka,C,25
 37060852,betaflight/betaflight,C,26
-241659610,OpenIntelWireless/itlwm,C,49
-31791482,microsoft/Windows-driver-samples,C,19
-8270972,ARMmbed/mbed-os,C,9
-59676171,KevinOConnor/klipper,C,25
-79187602,BlockchainCommons/Learning-Bitcoin-from-the-Command-Line,Jupyter Notebook,20
-375945970,monyhar/monyhar-lite,C,1034
+241659610,OpenIntelWireless/itlwm,C,48
+31791482,microsoft/Windows-driver-samples,C,18
+8270972,ARMmbed/mbed-os,C,8
+59676171,KevinOConnor/klipper,C,24
+79187602,BlockchainCommons/Learning-Bitcoin-from-the-Command-Line,Jupyter Notebook,19
+375945970,monyhar/monyhar-lite,C,1002
 256105296,fw876/helloworld,C,34
-144465372,RfidResearchGroup/proxmark3,C,19
-2276287,riscv/riscv-isa-sim,C,14
+144465372,RfidResearchGroup/proxmark3,C,17
+2276287,riscv/riscv-isa-sim,C,13
