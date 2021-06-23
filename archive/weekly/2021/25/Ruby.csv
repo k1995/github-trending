@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,55
-27442967,fastlane/fastlane,Ruby,39
+27442967,fastlane/fastlane,Ruby,38
 13840241,freeCodeCamp/devdocs,Ruby,61
 52281283,tootsuite/mastodon,Ruby,47
 308770,heartcombo/devise,Ruby,22
 37382858,kilimchoi/engineering-blogs,Ruby,74
 2203645,CocoaPods/CocoaPods,Ruby,17
 1090311,elastic/logstash,Ruby,10
-3195124,mperham/sidekiq,Ruby,13
+3195124,mperham/sidekiq,Ruby,35
 1918677,fluent/fluentd,Ruby,20
 96395,faker-ruby/faker,Ruby,10
 6529205,varvet/pundit,Ruby,12
@@ -19,7 +19,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,9
 1462,ctran/annotate_models,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,15
-200302808,github/view_component,Ruby,15
+200302808,github/view_component,Ruby,16
 64552869,LionSec/xerosploit,Ruby,17
 80462373,keyvanakbary/learning-notes,Ruby,56
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,9
