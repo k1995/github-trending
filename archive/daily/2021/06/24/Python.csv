@@ -1,12 +1,12 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,152
-12888993,home-assistant/core,Python,63
-39464018,apache/superset,Python,15
+12888993,home-assistant/core,Python,52
+39464018,apache/superset,Python,18
 206660580,facebookresearch/detectron2,Python,17
 1377867,locustio/locust,Python,10
 88612945,junyanz/pytorch-CycleGAN-and-pix2pix,Python,11
 1385122,matplotlib/matplotlib,Python,3
-154739597,google/jax,Python,15
+154739597,google/jax,Python,16
 262296122,PaddlePaddle/PaddleOCR,Python,20
 168799526,rwightman/pytorch-image-models,Python,74
 14579099,plotly/plotly.py,Python,11
@@ -17,10 +17,10 @@ id,name,lang,new stars
 4127088,Azure/azure-sdk-for-python,Python,1
 251201169,PaddlePaddle/PaddleClas,Python,240
 373010014,kwai/DouZero,Python,167
-148657183,unit8co/darts,Python,91
+148657183,unit8co/darts,Python,115
 133444044,fairlearn/fairlearn,Python,2
-375873798,Sentdex/GANTheftAuto,Python,69
-371459533,tstewart161/Reddit_Sentiment_Trader,Python,33
+375873798,Sentdex/GANTheftAuto,Python,71
+371459533,tstewart161/Reddit_Sentiment_Trader,Python,29
 378435805,conanhujinming/comments-for-awesome-courses,Python,29
-378575559,CRED-CLUB/ARTIF,Python,10
-378993263,python-discord/cj8-qualifier,Python,24
+378575559,CRED-CLUB/ARTIF,Python,9
+378993263,python-discord/cj8-qualifier,Python,27

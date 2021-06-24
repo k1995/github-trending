@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,57
-27442967,fastlane/fastlane,Ruby,37
-13840241,freeCodeCamp/devdocs,Ruby,55
+8514,rails/rails,Ruby,58
+27442967,fastlane/fastlane,Ruby,38
+13840241,freeCodeCamp/devdocs,Ruby,54
 52281283,tootsuite/mastodon,Ruby,46
 308770,heartcombo/devise,Ruby,24
 37382858,kilimchoi/engineering-blogs,Ruby,73
 2203645,CocoaPods/CocoaPods,Ruby,17
 1090311,elastic/logstash,Ruby,7
-3195124,mperham/sidekiq,Ruby,63
+3195124,mperham/sidekiq,Ruby,70
 1918677,fluent/fluentd,Ruby,24
-96395,faker-ruby/faker,Ruby,10
+96395,faker-ruby/faker,Ruby,9
 6529205,varvet/pundit,Ruby,12
 21829,thoughtbot/factory_bot,Ruby,8
 535266,vcr/vcr,Ruby,13
@@ -21,6 +21,6 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,13
 200302808,github/view_component,Ruby,15
 64552869,LionSec/xerosploit,Ruby,17
-80462373,keyvanakbary/learning-notes,Ruby,55
+80462373,keyvanakbary/learning-notes,Ruby,58
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,8
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,6
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,4
