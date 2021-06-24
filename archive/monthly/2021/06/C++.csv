@@ -1,19 +1,19 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,1196
-9384267,electron/electron,C++,2393
+45717250,tensorflow/tensorflow,C++,1197
+9384267,electron/electron,C++,2394
 100060912,microsoft/terminal,C++,1258
-44838949,apple/swift,C++,427
-65600975,pytorch/pytorch,C++,750
-27729880,grpc/grpc,C++,376
+44838949,apple/swift,C++,426
+65600975,pytorch/pytorch,C++,751
+27729880,grpc/grpc,C++,378
 108110,mongodb/mongo,C++,202
 96246170,ApolloAuto/apollo,C++,226
 4524181,facebook/folly,C++,968
 60246359,ClickHouse/ClickHouse,C++,727
-197275130,microsoft/winget-cli,C++,2243
+197275130,microsoft/winget-cli,C++,2242
 33014811,notepad-plus-plus/notepad-plus-plus,C++,464
-160083795,SerenityOS/serenity,C++,2560
+160083795,SerenityOS/serenity,C++,2559
 23129458,aseprite/aseprite,C++,222
-191820100,google/mediapipe,C++,479
+191820100,google/mediapipe,C++,478
 52729242,keepassxreboot/keepassxc,C++,262
 114187903,apple/foundationdb,C++,162
 4128353,sass/node-sass,C++,68
@@ -23,4 +23,4 @@ id,name,lang,new stars
 5973855,CleverRaven/Cataclysm-DDA,C++,89
 193305104,barry-ran/QtScrcpy,C++,245
 99919302,apache/incubator-doris,C++,118
-244694174,project-chip/connectedhomeip,C++,369
+244694174,project-chip/connectedhomeip,C++,368
