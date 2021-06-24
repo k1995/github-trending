@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,489
-3482588,danielmiessler/SecLists,PHP,582
-458058,symfony/symfony,PHP,166
-7548986,laravel/framework,PHP,245
+1863329,laravel/laravel,PHP,490
+3482588,danielmiessler/SecLists,PHP,580
+458058,symfony/symfony,PHP,167
+7548986,laravel/framework,PHP,248
 2234102,bcit-ci/CodeIgniter,PHP,40
 2253830,PHPMailer/PHPMailer,PHP,154
 1548202,matomo-org/matomo,PHP,135
-11323319,erusev/parsedown,PHP,74
+11323319,erusev/parsedown,PHP,75
 28628034,flarum/flarum,PHP,152
-2884111,magento/magento2,PHP,80
-42480275,spatie/laravel-permission,PHP,99
+2884111,magento/magento2,PHP,82
+42480275,spatie/laravel-permission,PHP,102
 597887,doctrine/orm,PHP,71
 622166,FriendsOfPHP/Goutte,PHP,58
-3217621,phpmyadmin/phpmyadmin,PHP,59
-6269013,aws/aws-sdk-php,PHP,37
+3217621,phpmyadmin/phpmyadmin,PHP,60
+6269013,aws/aws-sdk-php,PHP,38
 10883164,barryvdh/laravel-dompdf,PHP,71
 60010673,elementor/elementor,PHP,104
 61802818,spatie/laravel-activitylog,PHP,83
@@ -21,5 +21,5 @@ id,name,lang,new stars
 38200433,jeroennoten/Laravel-AdminLTE,PHP,63
 47508644,pterodactyl/panel,PHP,79
 129852395,assimon/dujiaoka,PHP,88
-141720301,dr5hn/countries-states-cities-database,PHP,163
+141720301,dr5hn/countries-states-cities-database,PHP,167
 75645659,WordPress/wordpress-develop,PHP,33
