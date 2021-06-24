@@ -1,13 +1,12 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,12698
+60493101,jwasham/coding-interview-university,,12704
 121395510,CyC2018/CS-Notes,Java,4382
 16408992,neovim/neovim,Vim script,1032
 63477660,TheAlgorithms/Java,Java,1695
 114747226,deepfakes/faceswap,Python,2338
 221981891,microsoft/playwright,TypeScript,1295
 4524181,facebook/folly,C++,968
-224663696,alpinejs/alpine,HTML,904
-196353673,taosdata/TDengine,C,566
+196353673,taosdata/TDengine,C,559
 197275130,microsoft/winget-cli,C++,2242
 160083795,SerenityOS/serenity,C++,2558
 52728517,programthink/zhao,Python,677
@@ -16,11 +15,12 @@ id,name,lang,new stars
 149001365,doocs/leetcode,Java,1900
 197275551,microsoft/winget-pkgs,PowerShell,975
 50160261,PaperMC/Paper,Java,879
+190729906,Budibase/budibase,JavaScript,694
 299482335,withfig/autocomplete,TypeScript,2088
-283046497,airbytehq/airbyte,Java,714
 282251136,merry75/educative.io_courses,,1316
-365565979,CyberPunkMetalHead/Binance-volatility-trading-bot,Python,1101
 345368765,siduck76/NvChad,Lua,1375
-234530887,ethersphere/bee,Go,716
+244694174,project-chip/connectedhomeip,C++,368
+234530887,ethersphere/bee,Go,714
 350770929,academind/react-complete-guide-code,,362
 306449955,IrisShaders/Iris,Java,272
+367749325,alfonsrv/impf-botpy,Python,163
