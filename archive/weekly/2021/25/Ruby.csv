@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,53
+8514,rails/rails,Ruby,54
 27442967,fastlane/fastlane,Ruby,41
-53238813,Homebrew/brew,Ruby,69
-52281283,tootsuite/mastodon,Ruby,44
+53238813,Homebrew/brew,Ruby,70
+52281283,tootsuite/mastodon,Ruby,45
 308770,heartcombo/devise,Ruby,21
-37382858,kilimchoi/engineering-blogs,Ruby,72
-2203645,CocoaPods/CocoaPods,Ruby,13
-4095287,rubocop/rubocop,Ruby,15
+37382858,kilimchoi/engineering-blogs,Ruby,73
+2203645,CocoaPods/CocoaPods,Ruby,14
+4095287,rubocop/rubocop,Ruby,16
 3314,spree/spree,Ruby,11
 3195124,mperham/sidekiq,Ruby,82
 1918677,fluent/fluentd,Ruby,21
-52855516,Homebrew/homebrew-core,Ruby,29
-202291859,chatwoot/chatwoot,Ruby,71
+52855516,Homebrew/homebrew-core,Ruby,30
+202291859,chatwoot/chatwoot,Ruby,72
 21829,thoughtbot/factory_bot,Ruby,9
 2441517,puma/puma,Ruby,9
 22059578,ankane/pghero,Ruby,11
@@ -23,4 +23,4 @@ id,name,lang,new stars
 126739710,AdoptOpenJDK/homebrew-openjdk,Ruby,8
 64552869,LionSec/xerosploit,Ruby,16
 80462373,keyvanakbary/learning-notes,Ruby,61
-344555757,BaseSecrete/active_analytics,Ruby,120
+344555757,BaseSecrete/active_analytics,Ruby,121
