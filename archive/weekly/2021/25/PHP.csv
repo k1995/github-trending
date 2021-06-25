@@ -1,12 +1,12 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,12
-458058,symfony/symfony,PHP,30
-7548986,laravel/framework,PHP,55
-448045,sebastianbergmann/phpunit,PHP,30
-2253830,PHPMailer/PHPMailer,PHP,37
-11323319,erusev/parsedown,PHP,21
+458058,symfony/symfony,PHP,32
+7548986,laravel/framework,PHP,59
+448045,sebastianbergmann/phpunit,PHP,32
+2253830,PHPMailer/PHPMailer,PHP,38
+11323319,erusev/parsedown,PHP,22
 82238168,monicahq/monica,PHP,53
-26730195,CachetHQ/Cachet,PHP,30
+26730195,CachetHQ/Cachet,PHP,29
 13899674,thephpleague/flysystem,PHP,20
 23680678,tymondesigns/jwt-auth,PHP,16
 14259390,Maatwebsite/Laravel-Excel,PHP,27
@@ -15,10 +15,10 @@ id,name,lang,new stars
 15020102,walkor/Workerman,PHP,20
 12166778,googleapis/google-api-php-client,PHP,6
 6763587,PrestaShop/PrestaShop,PHP,15
-95011974,akaunting/akaunting,PHP,26
+95011974,akaunting/akaunting,PHP,30
 255703597,beyondcode/expose,PHP,35
 47508644,pterodactyl/panel,PHP,19
-1957456,Dolibarr/dolibarr,PHP,18
+1957456,Dolibarr/dolibarr,PHP,19
 182349597,jqhph/dcat-admin,PHP,24
 69691727,pmmp/PocketMine-MP,PHP,11
 13914116,librenms/librenms,PHP,10
