@@ -1,11 +1,11 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,218
-65600975,pytorch/pytorch,C++,181
-15634981,godotengine/godot,C++,166
-27729880,grpc/grpc,C++,71
+45717250,tensorflow/tensorflow,C++,215
+65600975,pytorch/pytorch,C++,185
+15634981,godotengine/godot,C++,167
+27729880,grpc/grpc,C++,70
 22067521,ocornut/imgui,C++,120
 6934395,facebook/rocksdb,C++,67
-108110,mongodb/mongo,C++,36
+108110,mongodb/mongo,C++,34
 96246170,ApolloAuto/apollo,C++,61
 26038648,gabime/spdlog,C++,61
 7056202,fmtlib/fmt,C++,259
@@ -13,14 +13,14 @@ id,name,lang,new stars
 17391973,Tencent/rapidjson,C++,37
 12756992,opencv/opencv_contrib,C++,24
 7512484,ArduPilot/ardupilot,C++,29
-46374199,IntelRealSense/librealsense,C++,25
+46374199,IntelRealSense/librealsense,C++,24
 156939672,microsoft/onnxruntime,C++,40
 4118776,mltframework/shotcut,C++,202
 5298790,PX4/PX4-Autopilot,C++,21
-6083843,progschj/ThreadPool,C++,26
+6083843,progschj/ThreadPool,C++,24
 184657328,NVIDIA/TensorRT,C++,37
-138368259,neutralinojs/neutralinojs,C++,63
-128479644,esphome/esphome,C++,36
+138368259,neutralinojs/neutralinojs,C++,60
+128479644,esphome/esphome,C++,35
 15667250,ceres-solver/ceres-solver,C++,12
-324829379,organicmaps/organicmaps,C++,1092
-364871330,EdgeTX/edgetx,C++,14
+324829379,organicmaps/organicmaps,C++,1056
+364871330,EdgeTX/edgetx,C++,15

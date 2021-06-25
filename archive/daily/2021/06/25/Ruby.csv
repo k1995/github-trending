@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,12
-27442967,fastlane/fastlane,Ruby,6
+27442967,fastlane/fastlane,Ruby,7
 481872,hashicorp/vagrant,Ruby,4
 2203645,CocoaPods/CocoaPods,Ruby,3
-1090311,elastic/logstash,Ruby,4
+1090311,elastic/logstash,Ruby,3
 4095287,rubocop/rubocop,Ruby,2
 3195124,mperham/sidekiq,Ruby,4
-18486300,lewagon/setup,Ruby,16
+18486300,lewagon/setup,Ruby,9
 96395,faker-ruby/faker,Ruby,0
 611921,activeadmin/activeadmin,Ruby,1
 1725199,github/linguist,Ruby,4
@@ -15,8 +15,8 @@ id,name,lang,new stars
 2889230,rails-api/active_model_serializers,Ruby,0
 2802565,doorkeeper-gem/doorkeeper,Ruby,1
 2861056,rails/jbuilder,Ruby,0
-30985840,solidusio/solidus,Ruby,2
-52316423,luggit/react-native-config,Ruby,0
+30985840,solidusio/solidus,Ruby,1
+52316423,luggit/react-native-config,Ruby,2
 21333814,lynndylanhurley/devise_token_auth,Ruby,0
 11426474,github/choosealicense.com,Ruby,2
 588600,brianmario/mysql2,Ruby,0
