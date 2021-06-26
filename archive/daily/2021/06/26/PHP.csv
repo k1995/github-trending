@@ -1,7 +1,7 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,8
 1864363,composer/composer,PHP,8
-7548986,laravel/framework,PHP,10
+7548986,laravel/framework,PHP,9
 1420053,guzzle/guzzle,PHP,3
 60243197,nextcloud/server,PHP,14
 82238168,monicahq/monica,PHP,4
@@ -18,7 +18,7 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,2
 178703607,nunomaduro/phpinsights,PHP,2
 60010673,elementor/elementor,PHP,2
-31595609,mpdf/mpdf,PHP,4
+31595609,mpdf/mpdf,PHP,3
 131995661,shopware/platform,PHP,1
 73319562,flozz/p0wny-shell,PHP,4
 105997676,getkirby/kirby,PHP,13
