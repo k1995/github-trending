@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,98
+1863329,laravel/laravel,PHP,100
 2579314,fzaninotto/Faker,PHP,13
 458058,symfony/symfony,PHP,30
 7548986,laravel/framework,PHP,59
 448045,sebastianbergmann/phpunit,PHP,33
 2253830,PHPMailer/PHPMailer,PHP,37
-60243197,nextcloud/server,PHP,70
+60243197,nextcloud/server,PHP,71
 11323319,erusev/parsedown,PHP,22
-82238168,monicahq/monica,PHP,52
+82238168,monicahq/monica,PHP,51
 26730195,CachetHQ/Cachet,PHP,28
 13899674,thephpleague/flysystem,PHP,20
-23680678,tymondesigns/jwt-auth,PHP,16
+23680678,tymondesigns/jwt-auth,PHP,17
 61490598,PHPOffice/PhpSpreadsheet,PHP,35
 14259390,Maatwebsite/Laravel-Excel,PHP,29
 212659,sebastianbergmann/php-code-coverage,PHP,22
@@ -18,9 +18,9 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,15
 95011974,akaunting/akaunting,PHP,30
 255703597,beyondcode/expose,PHP,35
-8077402,MISP/MISP,PHP,13
+8077402,MISP/MISP,PHP,14
 1957456,Dolibarr/dolibarr,PHP,19
 182349597,jqhph/dcat-admin,PHP,22
-69691727,pmmp/PocketMine-MP,PHP,11
+69691727,pmmp/PocketMine-MP,PHP,12
 141720301,dr5hn/countries-states-cities-database,PHP,39
 189104054,laravel/ui,PHP,12
