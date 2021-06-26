@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,243
+8514,rails/rails,Ruby,245
 27442967,fastlane/fastlane,Ruby,192
-53238813,Homebrew/brew,Ruby,366
+53238813,Homebrew/brew,Ruby,367
 13840241,freeCodeCamp/devdocs,Ruby,278
 481872,hashicorp/vagrant,Ruby,210
-37382858,kilimchoi/engineering-blogs,Ruby,157
-1090311,elastic/logstash,Ruby,61
+37382858,kilimchoi/engineering-blogs,Ruby,158
+1090311,elastic/logstash,Ruby,63
 3195124,mperham/sidekiq,Ruby,123
 1918677,fluent/fluentd,Ruby,97
 52855516,Homebrew/homebrew-core,Ruby,180
@@ -14,7 +14,7 @@ id,name,lang,new stars
 15435,Shopify/liquid,Ruby,90
 865250,presidentbeef/brakeman,Ruby,41
 11412473,ankane/searchkick,Ruby,54
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,149
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,150
 75785147,rails/webpacker,Ruby,89
 355893,github/markup,Ruby,46
 6899875,opf/openproject,Ruby,87
@@ -22,5 +22,5 @@ id,name,lang,new stars
 115859973,ddnexus/pagy,Ruby,52
 614070,rubygems/rubygems,Ruby,32
 11426474,github/choosealicense.com,Ruby,53
-103766152,github/explore,Ruby,95
+103766152,github/explore,Ruby,96
 80462373,keyvanakbary/learning-notes,Ruby,144

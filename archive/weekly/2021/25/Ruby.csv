@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,58
-65252,jekyll/jekyll,Ruby,42
+8514,rails/rails,Ruby,60
+65252,jekyll/jekyll,Ruby,44
 27442967,fastlane/fastlane,Ruby,42
-53238813,Homebrew/brew,Ruby,64
+53238813,Homebrew/brew,Ruby,65
 52281283,tootsuite/mastodon,Ruby,41
-2293158,rapid7/metasploit-framework,Ruby,59
-37382858,kilimchoi/engineering-blogs,Ruby,37
+2293158,rapid7/metasploit-framework,Ruby,60
+37382858,kilimchoi/engineering-blogs,Ruby,38
 4095287,rubocop/rubocop,Ruby,14
 3195124,mperham/sidekiq,Ruby,82
 1918677,fluent/fluentd,Ruby,23
 52855516,Homebrew/homebrew-core,Ruby,29
 202291859,chatwoot/chatwoot,Ruby,76
-96395,faker-ruby/faker,Ruby,7
+96395,faker-ruby/faker,Ruby,8
 2441517,puma/puma,Ruby,11
 22059578,ankane/pghero,Ruby,9
 447184,rspec/rspec-rails,Ruby,9
@@ -21,6 +21,6 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,17
 950915,urbanadventurer/WhatWeb,Ruby,15
 11426474,github/choosealicense.com,Ruby,16
-103766152,github/explore,Ruby,21
+103766152,github/explore,Ruby,22
 80462373,keyvanakbary/learning-notes,Ruby,64
 229187949,shivammathur/homebrew-php,Ruby,18
