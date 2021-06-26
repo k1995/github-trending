@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,102
-2579314,fzaninotto/Faker,PHP,13
+2579314,fzaninotto/Faker,PHP,14
 458058,symfony/symfony,PHP,30
 7548986,laravel/framework,PHP,60
 448045,sebastianbergmann/phpunit,PHP,33
 2253830,PHPMailer/PHPMailer,PHP,38
-60243197,nextcloud/server,PHP,72
+60243197,nextcloud/server,PHP,73
 11323319,erusev/parsedown,PHP,22
-82238168,monicahq/monica,PHP,51
+82238168,monicahq/monica,PHP,53
 26730195,CachetHQ/Cachet,PHP,28
 13899674,thephpleague/flysystem,PHP,20
 23680678,tymondesigns/jwt-auth,PHP,18
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,19
 182349597,jqhph/dcat-admin,PHP,22
 69691727,pmmp/PocketMine-MP,PHP,12
-141720301,dr5hn/countries-states-cities-database,PHP,39
+141720301,dr5hn/countries-states-cities-database,PHP,40
 189104054,laravel/ui,PHP,12

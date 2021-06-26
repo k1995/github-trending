@@ -1,11 +1,11 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,487
-3482588,danielmiessler/SecLists,PHP,575
+3482588,danielmiessler/SecLists,PHP,579
 458058,symfony/symfony,PHP,167
-1864363,composer/composer,PHP,162
+1864363,composer/composer,PHP,163
 7548986,laravel/framework,PHP,247
 2253830,PHPMailer/PHPMailer,PHP,148
-60243197,nextcloud/server,PHP,240
+60243197,nextcloud/server,PHP,241
 1280180,phacility/phabricator,PHP,44
 28628034,flarum/flarum,PHP,151
 14259390,Maatwebsite/Laravel-Excel,PHP,97
@@ -13,13 +13,13 @@ id,name,lang,new stars
 42480275,spatie/laravel-permission,PHP,103
 10883164,barryvdh/laravel-dompdf,PHP,70
 3817881,zircote/swagger-php,PHP,42
-60010673,elementor/elementor,PHP,103
+60010673,elementor/elementor,PHP,104
 8077402,MISP/MISP,PHP,48
 47508644,pterodactyl/panel,PHP,84
 69691727,pmmp/PocketMine-MP,PHP,45
 129852395,assimon/dujiaoka,PHP,87
-17253775,zabbix/zabbix,PHP,74
-141720301,dr5hn/countries-states-cities-database,PHP,170
+17253775,zabbix/zabbix,PHP,75
+141720301,dr5hn/countries-states-cities-database,PHP,171
 73319562,flozz/p0wny-shell,PHP,41
 75645659,WordPress/wordpress-develop,PHP,32
 59355182,OpenSID/OpenSID,PHP,19
