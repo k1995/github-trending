@@ -1,12 +1,12 @@
 id,name,lang,new stars
-23096959,golang/go,Go,75
+23096959,golang/go,Go,79
 20904437,gin-gonic/gin,Go,52
-13807606,junegunn/fzf,Go,35
+13807606,junegunn/fzf,Go,36
 11225014,etcd-io/etcd,Go,23
-212613049,cli/cli,Go,25
+212613049,cli/cli,Go,26
 43723161,helm/helm,Go,14
 50613991,goharbor/harbor,Go,15
-123572362,quii/learn-go-with-tests,Go,18
+123572362,quii/learn-go-with-tests,Go,21
 6247705,stretchr/testify,Go,20
 52034309,uber-go/zap,Go,22
 5179099,go-redis/redis,Go,17
@@ -23,4 +23,4 @@ id,name,lang,new stars
 74499101,roboll/helmfile,Go,5
 176379662,derailed/popeye,Go,14
 111455867,smartcontractkit/chainlink,Go,4
-376186782,kris-nova/naml,Go,121
+376186782,kris-nova/naml,Go,124
