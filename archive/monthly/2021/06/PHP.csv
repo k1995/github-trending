@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,503
-3482588,danielmiessler/SecLists,PHP,599
-458058,symfony/symfony,PHP,170
+1863329,laravel/laravel,PHP,507
+3482588,danielmiessler/SecLists,PHP,600
+458058,symfony/symfony,PHP,172
 1864363,composer/composer,PHP,168
-7548986,laravel/framework,PHP,255
+7548986,laravel/framework,PHP,257
 2253830,PHPMailer/PHPMailer,PHP,152
 1280180,phacility/phabricator,PHP,44
-28628034,flarum/flarum,PHP,156
-14259390,Maatwebsite/Laravel-Excel,PHP,99
+28628034,flarum/flarum,PHP,157
+14259390,Maatwebsite/Laravel-Excel,PHP,100
 2884111,magento/magento2,PHP,86
 42480275,spatie/laravel-permission,PHP,105
 10883164,barryvdh/laravel-dompdf,PHP,77
@@ -16,7 +16,7 @@ id,name,lang,new stars
 61802818,spatie/laravel-activitylog,PHP,90
 8077402,MISP/MISP,PHP,51
 38200433,jeroennoten/Laravel-AdminLTE,PHP,63
-47508644,pterodactyl/panel,PHP,86
+47508644,pterodactyl/panel,PHP,87
 69691727,pmmp/PocketMine-MP,PHP,48
 129852395,assimon/dujiaoka,PHP,89
 17253775,zabbix/zabbix,PHP,78
