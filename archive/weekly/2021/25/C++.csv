@@ -1,15 +1,15 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,237
-5108051,opencv/opencv,C++,164
-65600975,pytorch/pytorch,C++,209
-15634981,godotengine/godot,C++,199
-22067521,ocornut/imgui,C++,142
-11171548,nlohmann/json,C++,114
+45717250,tensorflow/tensorflow,C++,241
+5108051,opencv/opencv,C++,166
+65600975,pytorch/pytorch,C++,211
+15634981,godotengine/godot,C++,202
+22067521,ocornut/imgui,C++,143
+11171548,nlohmann/json,C++,115
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,71
-6934395,facebook/rocksdb,C++,73
+6934395,facebook/rocksdb,C++,74
 108110,mongodb/mongo,C++,40
 96246170,ApolloAuto/apollo,C++,68
-116167731,yuzu-emu/yuzu,C++,77
+116167731,yuzu-emu/yuzu,C++,78
 26038648,gabime/spdlog,C++,71
 7056202,fmtlib/fmt,C++,269
 2200856,MarlinFirmware/Marlin,C++,109
@@ -17,10 +17,10 @@ id,name,lang,new stars
 8162615,PointCloudLibrary/pcl,C++,30
 26255337,cameron314/concurrentqueue,C++,38
 86337343,skypjack/entt,C++,46
-156939672,microsoft/onnxruntime,C++,39
-4118776,mltframework/shotcut,C++,205
+156939672,microsoft/onnxruntime,C++,40
+4118776,mltframework/shotcut,C++,206
 5298790,PX4/PX4-Autopilot,C++,21
-138368259,neutralinojs/neutralinojs,C++,61
+138368259,neutralinojs/neutralinojs,C++,62
 128479644,esphome/esphome,C++,36
 324829379,organicmaps/organicmaps,C++,1047
 10599951,emilybache/GildedRose-Refactoring-Kata,C++,14
