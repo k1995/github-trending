@@ -1,10 +1,10 @@
 id,name,lang,new stars
 23096959,golang/go,Go,1288
-20580498,kubernetes/kubernetes,Go,1197
-11180687,gohugoio/hugo,Go,1012
-20904437,gin-gonic/gin,Go,883
-48378947,fatedier/frp,Go,905
-17728164,hashicorp/terraform,Go,936
+20580498,kubernetes/kubernetes,Go,1199
+11180687,gohugoio/hugo,Go,1013
+20904437,gin-gonic/gin,Go,884
+48378947,fatedier/frp,Go,907
+17728164,hashicorp/terraform,Go,935
 26337322,rancher/rancher,Go,493
 24268127,coreybutler/nvm-windows,Go,340
 62091339,kubernetes/kops,Go,131
@@ -17,7 +17,7 @@ id,name,lang,new stars
 23247808,rqlite/rqlite,Go,300
 93444615,hashicorp/terraform-provider-aws,Go,132
 107417113,cookieY/Yearning,Go,164
-154643390,sundowndev/phoneinfoga,Go,310
+154643390,sundowndev/phoneinfoga,Go,313
 92969352,moby/buildkit,Go,160
 134539560,weaveworks/eksctl,Go,80
 192178626,marcel-dempers/docker-development-youtube-series,Go,160

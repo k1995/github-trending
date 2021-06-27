@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,492
-3482588,danielmiessler/SecLists,PHP,588
+1863329,laravel/laravel,PHP,493
+3482588,danielmiessler/SecLists,PHP,591
 458058,symfony/symfony,PHP,167
 1864363,composer/composer,PHP,166
 7548986,laravel/framework,PHP,252
@@ -13,7 +13,7 @@ id,name,lang,new stars
 42480275,spatie/laravel-permission,PHP,102
 21298446,firefly-iii/firefly-iii,PHP,129
 10883164,barryvdh/laravel-dompdf,PHP,73
-60010673,elementor/elementor,PHP,105
+60010673,elementor/elementor,PHP,106
 8077402,MISP/MISP,PHP,50
 47508644,pterodactyl/panel,PHP,86
 69691727,pmmp/PocketMine-MP,PHP,45
@@ -22,5 +22,5 @@ id,name,lang,new stars
 17253775,zabbix/zabbix,PHP,76
 141720301,dr5hn/countries-states-cities-database,PHP,175
 73319562,flozz/p0wny-shell,PHP,41
-75645659,WordPress/wordpress-develop,PHP,36
+75645659,WordPress/wordpress-develop,PHP,37
 59355182,OpenSID/OpenSID,PHP,19
