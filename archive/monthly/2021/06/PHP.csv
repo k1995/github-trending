@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,508
-3482588,danielmiessler/SecLists,PHP,602
-458058,symfony/symfony,PHP,172
+3482588,danielmiessler/SecLists,PHP,603
+458058,symfony/symfony,PHP,173
 1864363,composer/composer,PHP,169
 7548986,laravel/framework,PHP,259
 2253830,PHPMailer/PHPMailer,PHP,152
@@ -13,7 +13,7 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,78
 3817881,zircote/swagger-php,PHP,43
 60010673,elementor/elementor,PHP,106
-61802818,spatie/laravel-activitylog,PHP,90
+61802818,spatie/laravel-activitylog,PHP,91
 8077402,MISP/MISP,PHP,51
 38200433,jeroennoten/Laravel-AdminLTE,PHP,63
 47508644,pterodactyl/panel,PHP,88

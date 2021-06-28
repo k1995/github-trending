@@ -1,11 +1,11 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1322
-20580498,kubernetes/kubernetes,Go,1228
-21540759,avelino/awesome-go,Go,957
-11180687,gohugoio/hugo,Go,1023
-20904437,gin-gonic/gin,Go,899
+23096959,golang/go,Go,1326
+20580498,kubernetes/kubernetes,Go,1230
+21540759,avelino/awesome-go,Go,959
+11180687,gohugoio/hugo,Go,1026
+20904437,gin-gonic/gin,Go,900
 48378947,fatedier/frp,Go,919
-17728164,hashicorp/terraform,Go,939
+17728164,hashicorp/terraform,Go,940
 26337322,rancher/rancher,Go,496
 24268127,coreybutler/nvm-windows,Go,342
 62091339,kubernetes/kops,Go,134
@@ -13,14 +13,14 @@ id,name,lang,new stars
 42332863,filebrowser/filebrowser,Go,276
 44350607,kubernetes/dashboard,Go,158
 285864199,tal-tech/go-zero,Go,918
-109162639,thanos-io/thanos,Go,738
-93444615,hashicorp/terraform-provider-aws,Go,129
+109162639,thanos-io/thanos,Go,739
+93444615,hashicorp/terraform-provider-aws,Go,136
 107417113,cookieY/Yearning,Go,164
-154643390,sundowndev/phoneinfoga,Go,318
+154643390,sundowndev/phoneinfoga,Go,321
 237523442,tailscale/tailscale,Go,271
 92969352,moby/buildkit,Go,161
-134539560,weaveworks/eksctl,Go,81
+134539560,weaveworks/eksctl,Go,82
 192178626,marcel-dempers/docker-development-youtube-series,Go,162
 234530887,ethersphere/bee,Go,677
-318972528,roseduan/rosedb,Go,892
+318972528,roseduan/rosedb,Go,893
 279592699,harvester/harvester,Go,395
