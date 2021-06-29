@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,105
-458058,symfony/symfony,PHP,30
-1864363,composer/composer,PHP,38
-7548986,laravel/framework,PHP,64
-448045,sebastianbergmann/phpunit,PHP,32
-2253830,PHPMailer/PHPMailer,PHP,34
+1863329,laravel/laravel,PHP,101
+458058,symfony/symfony,PHP,31
+1864363,composer/composer,PHP,36
+7548986,laravel/framework,PHP,62
+448045,sebastianbergmann/phpunit,PHP,28
+2253830,PHPMailer/PHPMailer,PHP,32
 60243197,nextcloud/server,PHP,65
 82238168,monicahq/monica,PHP,51
 12615154,barryvdh/laravel-debugbar,PHP,22
@@ -12,15 +12,15 @@ id,name,lang,new stars
 14259390,Maatwebsite/Laravel-Excel,PHP,26
 2884111,magento/magento2,PHP,16
 212659,sebastianbergmann/php-code-coverage,PHP,19
-6763587,PrestaShop/PrestaShop,PHP,13
+6763587,PrestaShop/PrestaShop,PHP,14
 29690340,sebastianbergmann/recursion-context,PHP,18
-95011974,akaunting/akaunting,PHP,36
+95011974,akaunting/akaunting,PHP,34
 148129143,bagisto/bagisto,PHP,24
-47508644,pterodactyl/panel,PHP,14
-1957456,Dolibarr/dolibarr,PHP,18
+47508644,pterodactyl/panel,PHP,13
+1957456,Dolibarr/dolibarr,PHP,14
 17253775,zabbix/zabbix,PHP,21
 141720301,dr5hn/countries-states-cities-database,PHP,36
-131995661,shopware/platform,PHP,9
+131995661,shopware/platform,PHP,10
 174021137,inertiajs/pingcrm,PHP,10
 73319562,flozz/p0wny-shell,PHP,12
 75645659,WordPress/wordpress-develop,PHP,10
