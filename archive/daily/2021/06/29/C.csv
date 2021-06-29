@@ -1,14 +1,14 @@
 id,name,lang,new stars
 24586308,cfenollosa/os-tutorial,C,9
-569041,curl/curl,C,16
-246335987,ventoy/Ventoy,C,25
-102578345,coolsnowwolf/lede,C,68
+569041,curl/curl,C,15
+246335987,ventoy/Ventoy,C,24
+102578345,coolsnowwolf/lede,C,50
 80286288,arendst/Tasmota,C,6
 2810292,pbatard/rufus,C,15
 27737393,qmk/qmk_firmware,C,5
-45821540,openwrt/openwrt,C,4
+45821540,openwrt/openwrt,C,5
 9524997,glfw/glfw,C,2
-3299208,videolan/vlc,C,3
+3299208,videolan/vlc,C,4
 67031040,upx/upx,C,5
 70127218,espressif/arduino-esp32,C,6
 163862700,onivim/oni2,C,43
@@ -20,7 +20,7 @@ id,name,lang,new stars
 42766197,y123456yz/reading-code-of-nginx-1.9.2,C,15
 257113637,jdah/minecraft-weekend,C,6
 256105296,fw876/helloworld,C,4
-330008801,libsdl-org/SDL,C,4
+330008801,libsdl-org/SDL,C,3
 88021715,halfer53/winix,C,117
 203759896,immortalwrt/immortalwrt,C,4
 380399645,mavillon1/CVE-2021-31955-POC,C,11

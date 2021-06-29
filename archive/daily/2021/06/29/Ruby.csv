@@ -1,9 +1,9 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,12
-27442967,fastlane/fastlane,Ruby,13
+27442967,fastlane/fastlane,Ruby,12
 8681349,huginn/huginn,Ruby,3
 52281283,tootsuite/mastodon,Ruby,2
-2293158,rapid7/metasploit-framework,Ruby,52
+2293158,rapid7/metasploit-framework,Ruby,54
 2500088,gitlabhq/gitlabhq,Ruby,2
 2203645,CocoaPods/CocoaPods,Ruby,1
 3314,spree/spree,Ruby,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 95798441,athityakumar/colorls,Ruby,0
 56942570,Homebrew/linuxbrew-core,Ruby,0
 121513081,tradingview/charting-library-examples,Ruby,4
-350140237,negrosdev/negros.dev,Ruby,9
+350140237,negrosdev/negros.dev,Ruby,19
