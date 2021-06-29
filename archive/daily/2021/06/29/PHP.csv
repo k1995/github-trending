@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,13
+1863329,laravel/laravel,PHP,16
 2579314,fzaninotto/Faker,PHP,0
 458058,symfony/symfony,PHP,3
 1280180,phacility/phabricator,PHP,1
 8678290,barryvdh/laravel-ide-helper,PHP,6
-48796179,z-song/laravel-admin,PHP,3
+48796179,z-song/laravel-admin,PHP,4
 6660366,dompdf/dompdf,PHP,1
 1398640,symfony/event-dispatcher,PHP,2
-10238429,tennc/webshell,PHP,7
+10238429,tennc/webshell,PHP,8
 6763587,PrestaShop/PrestaShop,PHP,1
 10371103,Laravel-Lang/lang,PHP,2
-178703607,nunomaduro/phpinsights,PHP,8
-159606650,hyperf/hyperf,PHP,9
+178703607,nunomaduro/phpinsights,PHP,9
+159606650,hyperf/hyperf,PHP,11
 9395939,ZoneMinder/zoneminder,PHP,3
 79166184,cretueusebiu/laravel-vue-spa,PHP,0
 47508644,pterodactyl/panel,PHP,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 15231212,Automattic/jetpack,PHP,1
 195836215,magicblack/maccms10,PHP,9
 36526302,pentestmonkey/php-reverse-shell,PHP,1
-75645659,WordPress/wordpress-develop,PHP,0
+75645659,WordPress/wordpress-develop,PHP,1
 330900866,HaoOuBa/Joe,PHP,3
