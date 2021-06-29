@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,478
-3482588,danielmiessler/SecLists,PHP,563
-458058,symfony/symfony,PHP,152
-1864363,composer/composer,PHP,146
-7548986,laravel/framework,PHP,232
+1863329,laravel/laravel,PHP,477
+3482588,danielmiessler/SecLists,PHP,565
+458058,symfony/symfony,PHP,151
+1864363,composer/composer,PHP,144
+7548986,laravel/framework,PHP,230
 28628034,flarum/flarum,PHP,148
 14259390,Maatwebsite/Laravel-Excel,PHP,98
 56728437,docker/labs,PHP,74
-2884111,magento/magento2,PHP,77
+2884111,magento/magento2,PHP,76
 42480275,spatie/laravel-permission,PHP,98
 12166778,googleapis/google-api-php-client,PHP,51
 10883164,barryvdh/laravel-dompdf,PHP,75
@@ -17,7 +17,7 @@ id,name,lang,new stars
 8077402,MISP/MISP,PHP,48
 47508644,pterodactyl/panel,PHP,81
 69691727,pmmp/PocketMine-MP,PHP,49
-129852395,assimon/dujiaoka,PHP,84
+129852395,assimon/dujiaoka,PHP,83
 17253775,zabbix/zabbix,PHP,73
 141720301,dr5hn/countries-states-cities-database,PHP,177
 111562942,statamic/cms,PHP,40
