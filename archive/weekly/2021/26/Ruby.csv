@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,57
-65252,jekyll/jekyll,Ruby,58
-7569578,discourse/discourse,Ruby,64
+8514,rails/rails,Ruby,58
+65252,jekyll/jekyll,Ruby,59
+7569578,discourse/discourse,Ruby,66
 27442967,fastlane/fastlane,Ruby,53
-2293158,rapid7/metasploit-framework,Ruby,149
-2500088,gitlabhq/gitlabhq,Ruby,19
-308770,heartcombo/devise,Ruby,17
+2293158,rapid7/metasploit-framework,Ruby,150
+2500088,gitlabhq/gitlabhq,Ruby,20
+308770,heartcombo/devise,Ruby,18
 538746,ruby/ruby,Ruby,29
 2203645,CocoaPods/CocoaPods,Ruby,13
-1090311,elastic/logstash,Ruby,19
+1090311,elastic/logstash,Ruby,20
 4095287,rubocop/rubocop,Ruby,15
-3314,spree/spree,Ruby,12
+3314,spree/spree,Ruby,14
 3195124,mperham/sidekiq,Ruby,78
 52855516,Homebrew/homebrew-core,Ruby,34
 202291859,chatwoot/chatwoot,Ruby,79
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1548802,activerecord-hackery/ransack,Ruby,9
 950915,urbanadventurer/WhatWeb,Ruby,20
 11426474,github/choosealicense.com,Ruby,17
-103766152,github/explore,Ruby,17
+103766152,github/explore,Ruby,18
 80462373,keyvanakbary/learning-notes,Ruby,32
 378701776,chrisseaton/rhizome,Ruby,185
