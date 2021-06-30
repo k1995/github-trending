@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,56
-65252,jekyll/jekyll,Ruby,59
-7569578,discourse/discourse,Ruby,63
-27442967,fastlane/fastlane,Ruby,55
-2293158,rapid7/metasploit-framework,Ruby,148
-2500088,gitlabhq/gitlabhq,Ruby,18
+8514,rails/rails,Ruby,57
+65252,jekyll/jekyll,Ruby,58
+7569578,discourse/discourse,Ruby,64
+27442967,fastlane/fastlane,Ruby,53
+2293158,rapid7/metasploit-framework,Ruby,149
+2500088,gitlabhq/gitlabhq,Ruby,19
 308770,heartcombo/devise,Ruby,17
-538746,ruby/ruby,Ruby,28
+538746,ruby/ruby,Ruby,29
 2203645,CocoaPods/CocoaPods,Ruby,13
 1090311,elastic/logstash,Ruby,19
 4095287,rubocop/rubocop,Ruby,15
-3314,spree/spree,Ruby,11
+3314,spree/spree,Ruby,12
 3195124,mperham/sidekiq,Ruby,78
-52855516,Homebrew/homebrew-core,Ruby,33
-202291859,chatwoot/chatwoot,Ruby,78
+52855516,Homebrew/homebrew-core,Ruby,34
+202291859,chatwoot/chatwoot,Ruby,79
 96395,faker-ruby/faker,Ruby,5
 15435,Shopify/liquid,Ruby,25
 2441517,puma/puma,Ruby,8
@@ -23,4 +23,4 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,17
 103766152,github/explore,Ruby,17
 80462373,keyvanakbary/learning-notes,Ruby,32
-378701776,chrisseaton/rhizome,Ruby,194
+378701776,chrisseaton/rhizome,Ruby,185
