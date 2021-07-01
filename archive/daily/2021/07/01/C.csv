@@ -1,12 +1,12 @@
 id,name,lang,new stars
-62156403,QSCTech/zju-icicles,C,34
-14812739,libuv/libuv,C,10
-102578345,coolsnowwolf/lede,C,12
-29759715,facebook/zstd,C,10
+62156403,QSCTech/zju-icicles,C,35
+14812739,libuv/libuv,C,12
+102578345,coolsnowwolf/lede,C,20
+29759715,facebook/zstd,C,11
 18496166,gentilkiwi/mimikatz,C,34
 95879426,Tencent/ncnn,C,5
-45821540,openwrt/openwrt,C,6
-927442,postgres/postgres,C,10
+45821540,openwrt/openwrt,C,4
+927442,postgres/postgres,C,11
 16734696,meetecho/janus-gateway,C,3
 8270972,ARMmbed/mbed-os,C,2
 43629790,P-H-C/phc-winner-argon2,C,0
@@ -15,12 +15,12 @@ id,name,lang,new stars
 29933948,fluent/fluent-bit,C,3
 27085821,stellar/stellar-core,C,1
 40556106,wazuh/wazuh,C,3
-217654199,microsoft/msquic,C,2
-370529505,alibaba/PolarDB-for-PostgreSQL,C,20
+217654199,microsoft/msquic,C,1
+370529505,alibaba/PolarDB-for-PostgreSQL,C,19
 5128084,Cisco-Talos/clamav,C,5
-43013346,aws/aws-iot-device-sdk-embedded-C,C,3
+43013346,aws/aws-iot-device-sdk-embedded-C,C,2
 76305806,mcu-tools/mcuboot,C,1
-378561439,TrevorAttema/OTGMessenger,C,48
+378561439,TrevorAttema/OTGMessenger,C,67
 53026685,tianocore/edk2-platforms,C,0
 51990771,ARM-software/CMSIS_5,C,1
 340142226,alcover/stricks,C,4
