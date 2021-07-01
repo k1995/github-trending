@@ -1,11 +1,11 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,8
+27442967,fastlane/fastlane,Ruby,9
 2500088,gitlabhq/gitlabhq,Ruby,3
-481872,hashicorp/vagrant,Ruby,12
+481872,hashicorp/vagrant,Ruby,13
 2203645,CocoaPods/CocoaPods,Ruby,1
 4095287,rubocop/rubocop,Ruby,1
 1918677,fluent/fluentd,Ruby,5
-52855516,Homebrew/homebrew-core,Ruby,4
+52855516,Homebrew/homebrew-core,Ruby,5
 361310,teamcapybara/capybara,Ruby,2
 611921,activeadmin/activeadmin,Ruby,1
 1333863,kaminari/kaminari,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 442308,countries/countries,Ruby,1
 2376,ActsAsParanoid/acts_as_paranoid,Ruby,1
 238986,rspec/rspec-expectations,Ruby,2
-56942570,Homebrew/linuxbrew-core,Ruby,2
+56942570,Homebrew/linuxbrew-core,Ruby,3
 644899,onelogin/ruby-saml,Ruby,0
 47709851,instacart/amountable,Ruby,1
