@@ -1,17 +1,17 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,10
-1376664,Seldaek/monolog,PHP,5
+458058,symfony/symfony,PHP,8
+1376664,Seldaek/monolog,PHP,4
 3431193,yiisoft/yii2,PHP,3
 12615154,barryvdh/laravel-debugbar,PHP,4
 926544,slimphp/Slim,PHP,1
-14259390,Maatwebsite/Laravel-Excel,PHP,5
+14259390,Maatwebsite/Laravel-Excel,PHP,6
 49014795,phpstan/phpstan,PHP,4
 2699935,squizlabs/PHP_CodeSniffer,PHP,3
-6660366,dompdf/dompdf,PHP,1
+6660366,dompdf/dompdf,PHP,2
 2179920,woocommerce/woocommerce,PHP,3
 10883164,barryvdh/laravel-dompdf,PHP,1
-74386167,vimeo/psalm,PHP,3
-3817881,zircote/swagger-php,PHP,5
+74386167,vimeo/psalm,PHP,4
+3817881,zircote/swagger-php,PHP,6
 60010673,elementor/elementor,PHP,1
 2464908,joomla/joomla-cms,PHP,0
 439861,moodle/moodle,PHP,2
@@ -19,8 +19,8 @@ id,name,lang,new stars
 29126334,EasyCorp/EasyAdminBundle,PHP,5
 13914116,librenms/librenms,PHP,2
 2686502,pimcore/pimcore,PHP,0
-175168121,changeweb/Unifiedtransform,PHP,5
+175168121,changeweb/Unifiedtransform,PHP,7
 153632216,spatie/data-transfer-object,PHP,4
 195836215,magicblack/maccms10,PHP,1
-96462257,osiset/laravel-shopify,PHP,4
+96462257,osiset/laravel-shopify,PHP,5
 371007019,JustSteveKing/laravel-transporter,PHP,10
