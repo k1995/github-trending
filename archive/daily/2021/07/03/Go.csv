@@ -1,20 +1,20 @@
 id,name,lang,new stars
-48378947,fatedier/frp,Go,48
-15452919,ethereum/go-ethereum,Go,28
-12574344,spf13/cobra,Go,69
+48378947,fatedier/frp,Go,49
+15452919,ethereum/go-ethereum,Go,32
+12574344,spf13/cobra,Go,72
 43723161,helm/helm,Go,15
 26337322,rancher/rancher,Go,12
-41349039,dgraph-io/dgraph,Go,10
+41349039,dgraph-io/dgraph,Go,13
 46806184,helm/charts,Go,4
-105279544,gocolly/colly,Go,23
-129717717,grafana/loki,Go,12
+105279544,gocolly/colly,Go,26
+129717717,grafana/loki,Go,13
 21827146,chrislusf/seaweedfs,Go,8
 66573241,hyperledger/fabric,Go,8
 31558937,gravitational/teleport,Go,9
 48109239,cilium/cilium,Go,17
-11206255,Shopify/sarama,Go,6
-120896210,argoproj/argo-cd,Go,14
-121086193,99designs/gqlgen,Go,5
+11206255,Shopify/sarama,Go,8
+120896210,argoproj/argo-cd,Go,15
+121086193,99designs/gqlgen,Go,7
 40916314,dexidp/dex,Go,60
 41561105,go-resty/resty,Go,18
 9120526,jackc/pgx,Go,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 118828329,knative/serving,Go,6
 60978152,terraform-docs/terraform-docs,Go,3
 302670797,ossf/scorecard,Go,206
-157554479,meshery/meshery,Go,4
-373460128,seccome/Ehoney,Go,124
+157554479,meshery/meshery,Go,5
+373460128,seccome/Ehoney,Go,127

@@ -1,12 +1,12 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,12
+458058,symfony/symfony,PHP,15
 2253830,PHPMailer/PHPMailer,PHP,9
-60243197,nextcloud/server,PHP,7
-7704544,Intervention/image,PHP,6
-72069409,the-control-group/voyager,PHP,8
-14259390,Maatwebsite/Laravel-Excel,PHP,3
+60243197,nextcloud/server,PHP,8
+7704544,Intervention/image,PHP,7
+72069409,the-control-group/voyager,PHP,9
+14259390,Maatwebsite/Laravel-Excel,PHP,4
 49014795,phpstan/phpstan,PHP,5
-56728437,docker/labs,PHP,5
+56728437,docker/labs,PHP,6
 2884111,magento/magento2,PHP,5
 6660366,dompdf/dompdf,PHP,4
 2179920,woocommerce/woocommerce,PHP,5
@@ -17,9 +17,9 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,5
 41463886,codeigniter4/CodeIgniter4,PHP,5
 31595609,mpdf/mpdf,PHP,4
-139191005,nunomaduro/larastan,PHP,44
+139191005,nunomaduro/larastan,PHP,46
 38200433,jeroennoten/Laravel-AdminLTE,PHP,5
 69691727,pmmp/PocketMine-MP,PHP,3
 2686502,pimcore/pimcore,PHP,0
 42912130,ampproject/amp-wp,PHP,0
-332485520,m1guelpf/laravel-fastlogin,PHP,38
+332485520,m1guelpf/laravel-fastlogin,PHP,39
