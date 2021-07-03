@@ -1,10 +1,10 @@
 id,name,lang,new stars
-23096959,golang/go,Go,1235
-20580498,kubernetes/kubernetes,Go,1168
+23096959,golang/go,Go,1242
+20580498,kubernetes/kubernetes,Go,1170
 7691631,moby/moby,Go,262
-11180687,gohugoio/hugo,Go,984
-20904437,gin-gonic/gin,Go,844
-48378947,fatedier/frp,Go,855
+11180687,gohugoio/hugo,Go,987
+20904437,gin-gonic/gin,Go,849
+48378947,fatedier/frp,Go,859
 13807606,junegunn/fzf,Go,647
 17728164,hashicorp/terraform,Go,907
 26337322,rancher/rancher,Go,480
@@ -14,13 +14,13 @@ id,name,lang,new stars
 42332863,filebrowser/filebrowser,Go,241
 285864199,tal-tech/go-zero,Go,847
 21405028,ardanlabs/gotraining,Go,140
-48109239,cilium/cilium,Go,351
-116739828,DNSCrypt/dnscrypt-proxy,Go,125
+48109239,cilium/cilium,Go,354
+116739828,DNSCrypt/dnscrypt-proxy,Go,127
 40916314,dexidp/dex,Go,205
-107417113,cookieY/Yearning,Go,183
+107417113,cookieY/Yearning,Go,184
 154643390,sundowndev/phoneinfoga,Go,308
 237523442,tailscale/tailscale,Go,246
 371564104,megaease/easegress,Go,1661
-230660669,aler9/rtsp-simple-server,Go,118
+230660669,aler9/rtsp-simple-server,Go,119
 234530887,ethersphere/bee,Go,473
 279592699,harvester/harvester,Go,419

@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,59
+2325298,torvalds/linux,C,62
 36502,git/git,C,13
-62156403,QSCTech/zju-icicles,C,19
-569041,curl/curl,C,12
-201454051,Awesome-HarmonyOS/HarmonyOS,C,19
+62156403,QSCTech/zju-icicles,C,20
+569041,curl/curl,C,15
+201454051,Awesome-HarmonyOS/HarmonyOS,C,21
 14812739,libuv/libuv,C,9
-18496166,gentilkiwi/mimikatz,C,33
-5254557,cloudwu/skynet,C,5
+18496166,gentilkiwi/mimikatz,C,28
+5254557,cloudwu/skynet,C,6
 613829,openresty/lua-nginx-module,C,1
 5414488,cesanta/mongoose,C,2
 16734696,meetecho/janus-gateway,C,7
@@ -18,9 +18,9 @@ id,name,lang,new stars
 6687936,ARMmbed/mbedtls,C,6
 34807561,nanopb/nanopb,C,3
 99199151,xiph/rnnoise,C,5
-369852087,madMAx43v3r/chia-plotter,C,17
+369852087,madMAx43v3r/chia-plotter,C,19
 189044704,AFLplusplus/AFLplusplus,C,6
 370529505,alibaba/PolarDB-for-PostgreSQL,C,20
-176278485,sqlite/sqlite,C,8
+176278485,sqlite/sqlite,C,9
 350557349,PlummersSoftwareLLC/Primes,C,5
 53026685,tianocore/edk2-platforms,C,0

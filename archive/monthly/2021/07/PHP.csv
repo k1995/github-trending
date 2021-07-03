@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,469
-3482588,danielmiessler/SecLists,PHP,536
-458058,symfony/symfony,PHP,152
-7548986,laravel/framework,PHP,224
-2234102,bcit-ci/CodeIgniter,PHP,42
+1863329,laravel/laravel,PHP,471
+3482588,danielmiessler/SecLists,PHP,537
+458058,symfony/symfony,PHP,154
+7548986,laravel/framework,PHP,222
+2234102,bcit-ci/CodeIgniter,PHP,41
 2253830,PHPMailer/PHPMailer,PHP,139
 1548202,matomo-org/matomo,PHP,126
 28628034,flarum/flarum,PHP,137
 23680678,tymondesigns/jwt-auth,PHP,84
 14259390,Maatwebsite/Laravel-Excel,PHP,106
 56728437,docker/labs,PHP,80
-2884111,magento/magento2,PHP,78
-12166778,googleapis/google-api-php-client,PHP,45
+2884111,magento/magento2,PHP,80
+12166778,googleapis/google-api-php-client,PHP,46
 2179920,woocommerce/woocommerce,PHP,101
 4242230,PHPOffice/PHPWord,PHP,53
 14346979,snipe/snipe-it,PHP,84
@@ -19,7 +19,7 @@ id,name,lang,new stars
 178703607,nunomaduro/phpinsights,PHP,147
 3817881,zircote/swagger-php,PHP,49
 61802818,spatie/laravel-activitylog,PHP,76
-47508644,pterodactyl/panel,PHP,84
+47508644,pterodactyl/panel,PHP,85
 69691727,pmmp/PocketMine-MP,PHP,44
 129852395,assimon/dujiaoka,PHP,82
 141720301,dr5hn/countries-states-cities-database,PHP,178
