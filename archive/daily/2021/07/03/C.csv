@@ -1,12 +1,12 @@
 id,name,lang,new stars
-10446890,bilibili/ijkplayer,C,7
+10446890,bilibili/ijkplayer,C,8
 1357796,emscripten-core/emscripten,C,9
 18496166,gentilkiwi/mimikatz,C,28
-27737393,qmk/qmk_firmware,C,10
+27737393,qmk/qmk_firmware,C,11
 45821540,openwrt/openwrt,C,15
 1856976,libevent/libevent,C,5
 36749153,microsoft/react-native-code-push,C,4
-179354282,acidanthera/OpenCorePkg,C,8
+179354282,acidanthera/OpenCorePkg,C,10
 65899476,espressif/esp-idf,C,9
 54280778,DaveGamble/cJSON,C,8
 3318027,id-Software/Quake-III-Arena,C,12
@@ -18,9 +18,9 @@ id,name,lang,new stars
 217654199,microsoft/msquic,C,9
 369852087,madMAx43v3r/chia-plotter,C,24
 53174933,google/boringssl,C,1
-194269070,skyline-emu/skyline,C,9
-95304991,FluidSynth/fluidsynth,C,2
+194269070,skyline-emu/skyline,C,10
+95304991,FluidSynth/fluidsynth,C,3
 50272879,pjsip/pjproject,C,2
 381984439,hlldz/CVE-2021-1675-LPE,C,94
 302605731,adiwzx/freenode,C,8
-381483787,NarutoUA/gta5_fsr,C,43
+381483787,NarutoUA/gta5_fsr,C,47
