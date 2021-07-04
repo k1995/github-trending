@@ -1,9 +1,9 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,74
+65252,jekyll/jekyll,Ruby,75
 27442967,fastlane/fastlane,Ruby,57
-2293158,rapid7/metasploit-framework,Ruby,163
+2293158,rapid7/metasploit-framework,Ruby,164
 2500088,gitlabhq/gitlabhq,Ruby,25
-308770,heartcombo/devise,Ruby,18
+308770,heartcombo/devise,Ruby,19
 73648678,forem/forem,Ruby,77
 2203645,CocoaPods/CocoaPods,Ruby,13
 1090311,elastic/logstash,Ruby,23
@@ -11,8 +11,8 @@ id,name,lang,new stars
 3195124,mperham/sidekiq,Ruby,15
 1918677,fluent/fluentd,Ruby,27
 52855516,Homebrew/homebrew-core,Ruby,45
-202291859,chatwoot/chatwoot,Ruby,77
-96395,faker-ruby/faker,Ruby,15
+202291859,chatwoot/chatwoot,Ruby,78
+96395,faker-ruby/faker,Ruby,16
 15435,Shopify/liquid,Ruby,28
 6529205,varvet/pundit,Ruby,11
 20552964,realm/jazzy,Ruby,12
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1952825,Homebrew/homebrew-bundle,Ruby,14
 950915,urbanadventurer/WhatWeb,Ruby,22
 39706711,hartator/wayback-machine-downloader,Ruby,24
-56942570,Homebrew/linuxbrew-core,Ruby,7
+56942570,Homebrew/linuxbrew-core,Ruby,8
