@@ -7,7 +7,7 @@ id,name,lang,new stars
 308770,heartcombo/devise,Ruby,17
 73648678,forem/forem,Ruby,77
 2203645,CocoaPods/CocoaPods,Ruby,13
-1090311,elastic/logstash,Ruby,22
+1090311,elastic/logstash,Ruby,23
 4095287,rubocop/rubocop,Ruby,14
 1918677,fluent/fluentd,Ruby,24
 52855516,Homebrew/homebrew-core,Ruby,44
@@ -18,9 +18,9 @@ id,name,lang,new stars
 910744,puppetlabs/puppet,Ruby,12
 75785147,rails/webpacker,Ruby,11
 355893,github/markup,Ruby,12
-33739333,thoughtbot/administrate,Ruby,5
+33739333,thoughtbot/administrate,Ruby,6
 1548802,activerecord-hackery/ransack,Ruby,8
-2802565,doorkeeper-gem/doorkeeper,Ruby,7
+2802565,doorkeeper-gem/doorkeeper,Ruby,8
 30985840,solidusio/solidus,Ruby,8
 950915,urbanadventurer/WhatWeb,Ruby,22
-39706711,hartator/wayback-machine-downloader,Ruby,23
+39706711,hartator/wayback-machine-downloader,Ruby,24

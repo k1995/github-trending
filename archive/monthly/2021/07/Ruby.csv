@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,223
+8514,rails/rails,Ruby,224
 53238813,Homebrew/brew,Ruby,345
 13840241,freeCodeCamp/devdocs,Ruby,259
 2293158,rapid7/metasploit-framework,Ruby,375
 481872,hashicorp/vagrant,Ruby,212
-37382858,kilimchoi/engineering-blogs,Ruby,161
+37382858,kilimchoi/engineering-blogs,Ruby,163
 2203645,CocoaPods/CocoaPods,Ruby,58
 4095287,rubocop/rubocop,Ruby,54
 11423758,mame/quine-relay,Ruby,116
@@ -13,8 +13,8 @@ id,name,lang,new stars
 52855516,Homebrew/homebrew-core,Ruby,174
 202291859,chatwoot/chatwoot,Ruby,288
 1725199,github/linguist,Ruby,106
-15435,Shopify/liquid,Ruby,94
-865250,presidentbeef/brakeman,Ruby,37
+15435,Shopify/liquid,Ruby,95
+865250,presidentbeef/brakeman,Ruby,38
 11412473,ankane/searchkick,Ruby,52
 75785147,rails/webpacker,Ruby,90
 355893,github/markup,Ruby,46

@@ -1,11 +1,11 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,16
-2253830,PHPMailer/PHPMailer,PHP,11
+458058,symfony/symfony,PHP,17
+2253830,PHPMailer/PHPMailer,PHP,12
 60243197,nextcloud/server,PHP,9
 7704544,Intervention/image,PHP,8
 72069409,the-control-group/voyager,PHP,11
 14259390,Maatwebsite/Laravel-Excel,PHP,6
-49014795,phpstan/phpstan,PHP,7
+49014795,phpstan/phpstan,PHP,8
 56728437,docker/labs,PHP,6
 2884111,magento/magento2,PHP,5
 6660366,dompdf/dompdf,PHP,4
@@ -20,6 +20,6 @@ id,name,lang,new stars
 139191005,nunomaduro/larastan,PHP,54
 38200433,jeroennoten/Laravel-AdminLTE,PHP,6
 69691727,pmmp/PocketMine-MP,PHP,4
-2686502,pimcore/pimcore,PHP,0
+2686502,pimcore/pimcore,PHP,1
 42912130,ampproject/amp-wp,PHP,1
-332485520,m1guelpf/laravel-fastlogin,PHP,42
+332485520,m1guelpf/laravel-fastlogin,PHP,44
