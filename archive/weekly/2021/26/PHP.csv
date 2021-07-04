@@ -1,13 +1,13 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,57
-1420053,guzzle/guzzle,PHP,30
+1420053,guzzle/guzzle,PHP,31
 1376664,Seldaek/monolog,PHP,35
-12615154,barryvdh/laravel-debugbar,PHP,36
+12615154,barryvdh/laravel-debugbar,PHP,37
 13899674,thephpleague/flysystem,PHP,18
 72069409,the-control-group/voyager,PHP,25
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,34
 14259390,Maatwebsite/Laravel-Excel,PHP,34
-49014795,phpstan/phpstan,PHP,31
+49014795,phpstan/phpstan,PHP,27
 29843361,w7corp/easywechat,PHP,12
 31295421,guzzle/psr7,PHP,16
 2179920,woocommerce/woocommerce,PHP,27
@@ -16,11 +16,11 @@ id,name,lang,new stars
 4242230,PHPOffice/PHPWord,PHP,19
 14346979,snipe/snipe-it,PHP,25
 10883164,barryvdh/laravel-dompdf,PHP,26
-74386167,vimeo/psalm,PHP,23
+74386167,vimeo/psalm,PHP,24
 95011974,akaunting/akaunting,PHP,29
 159606650,hyperf/hyperf,PHP,30
-255703597,beyondcode/expose,PHP,38
-139191005,nunomaduro/larastan,PHP,144
+255703597,beyondcode/expose,PHP,39
+139191005,nunomaduro/larastan,PHP,156
 57961433,openmediavault/openmediavault,PHP,23
 7776575,myclabs/php-enum,PHP,15
 175168121,changeweb/Unifiedtransform,PHP,19
