@@ -1,21 +1,21 @@
 id,name,lang,new stars
 10446890,bilibili/ijkplayer,C,8
-1357796,emscripten-core/emscripten,C,10
-18496166,gentilkiwi/mimikatz,C,43
-27737393,qmk/qmk_firmware,C,13
-45821540,openwrt/openwrt,C,16
-1856976,libevent/libevent,C,5
+1357796,emscripten-core/emscripten,C,11
+18496166,gentilkiwi/mimikatz,C,44
+27737393,qmk/qmk_firmware,C,14
+45821540,openwrt/openwrt,C,18
+1856976,libevent/libevent,C,6
 36749153,microsoft/react-native-code-push,C,5
-179354282,acidanthera/OpenCorePkg,C,14
+179354282,acidanthera/OpenCorePkg,C,15
 65899476,espressif/esp-idf,C,11
-54280778,DaveGamble/cJSON,C,9
-3318027,id-Software/Quake-III-Arena,C,13
+54280778,DaveGamble/cJSON,C,12
+3318027,id-Software/Quake-III-Arena,C,14
 5870069,edenhill/librdkafka,C,8
 849692,ZipArchive/ZipArchive,C,2
 44781140,greenplum-db/gpdb,C,3
 31791482,microsoft/Windows-driver-samples,C,6
 21287076,aws/s2n-tls,C,3
-217654199,microsoft/msquic,C,9
+217654199,microsoft/msquic,C,11
 369852087,madMAx43v3r/chia-plotter,C,28
 53174933,google/boringssl,C,1
 194269070,skyline-emu/skyline,C,10
@@ -23,4 +23,4 @@ id,name,lang,new stars
 50272879,pjsip/pjproject,C,2
 381984439,hlldz/CVE-2021-1675-LPE,C,125
 302605731,adiwzx/freenode,C,9
-381483787,NarutoUA/gta5_fsr,C,54
+381483787,NarutoUA/gta5_fsr,C,58
