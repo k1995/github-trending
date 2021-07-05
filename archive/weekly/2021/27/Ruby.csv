@@ -1,18 +1,18 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,53
 65252,jekyll/jekyll,Ruby,65
-27442967,fastlane/fastlane,Ruby,59
-2293158,rapid7/metasploit-framework,Ruby,154
-52281283,tootsuite/mastodon,Ruby,42
+27442967,fastlane/fastlane,Ruby,42
+2293158,rapid7/metasploit-framework,Ruby,155
+52281283,tootsuite/mastodon,Ruby,43
 2500088,gitlabhq/gitlabhq,Ruby,18
-308770,heartcombo/devise,Ruby,20
-73648678,forem/forem,Ruby,57
+308770,heartcombo/devise,Ruby,19
+73648678,forem/forem,Ruby,62
 1090311,elastic/logstash,Ruby,21
 4095287,rubocop/rubocop,Ruby,12
 3195124,mperham/sidekiq,Ruby,14
-1918677,fluent/fluentd,Ruby,23
+1918677,fluent/fluentd,Ruby,24
 52855516,Homebrew/homebrew-core,Ruby,35
-202291859,chatwoot/chatwoot,Ruby,56
+202291859,chatwoot/chatwoot,Ruby,57
 96395,faker-ruby/faker,Ruby,15
 15435,Shopify/liquid,Ruby,22
 6529205,varvet/pundit,Ruby,11
@@ -21,6 +21,6 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,7
 1548802,activerecord-hackery/ransack,Ruby,6
 30337170,rmosolgo/graphql-ruby,Ruby,16
-30985840,solidusio/solidus,Ruby,8
+30985840,solidusio/solidus,Ruby,9
 950915,urbanadventurer/WhatWeb,Ruby,20
 56942570,Homebrew/linuxbrew-core,Ruby,8
