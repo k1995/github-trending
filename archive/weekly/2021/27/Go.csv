@@ -1,18 +1,18 @@
 id,name,lang,new stars
-23096959,golang/go,Go,303
+23096959,golang/go,Go,306
 7691631,moby/moby,Go,76
 20904437,gin-gonic/gin,Go,221
-48378947,fatedier/frp,Go,215
-13807606,junegunn/fzf,Go,209
-17803236,rclone/rclone,Go,106
-74175805,istio/istio,Go,71
-61137153,evanw/esbuild,Go,188
+48378947,fatedier/frp,Go,216
+13807606,junegunn/fzf,Go,210
+17803236,rclone/rclone,Go,108
+74175805,istio/istio,Go,72
+61137153,evanw/esbuild,Go,190
 43723161,helm/helm,Go,68
-136815833,Dreamacro/clash,Go,188
+136815833,Dreamacro/clash,Go,189
 105279544,gocolly/colly,Go,101
-19205896,restic/restic,Go,77
+19205896,restic/restic,Go,80
 165041732,go-kratos/kratos,Go,76
-52034309,uber-go/zap,Go,91
+52034309,uber-go/zap,Go,93
 153099672,inancgumus/learngo,Go,285
 46089560,containerd/containerd,Go,42
 208728772,milvus-io/milvus,Go,233
@@ -23,4 +23,4 @@ id,name,lang,new stars
 76686583,kubevirt/kubevirt,Go,26
 154894457,open-policy-agent/gatekeeper,Go,22
 189705577,HDT3213/godis,Go,125
-344676663,erda-project/erda,Go,88
+344676663,erda-project/erda,Go,90
