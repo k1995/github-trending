@@ -1,10 +1,10 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,79
-27442967,fastlane/fastlane,Ruby,59
-2293158,rapid7/metasploit-framework,Ruby,171
+27442967,fastlane/fastlane,Ruby,61
+2293158,rapid7/metasploit-framework,Ruby,170
 2500088,gitlabhq/gitlabhq,Ruby,25
 308770,heartcombo/devise,Ruby,20
-73648678,forem/forem,Ruby,77
+73648678,forem/forem,Ruby,78
 2203645,CocoaPods/CocoaPods,Ruby,13
 1090311,elastic/logstash,Ruby,24
 4095287,rubocop/rubocop,Ruby,14
@@ -14,7 +14,7 @@ id,name,lang,new stars
 202291859,chatwoot/chatwoot,Ruby,79
 96395,faker-ruby/faker,Ruby,17
 15435,Shopify/liquid,Ruby,28
-6529205,varvet/pundit,Ruby,11
+6529205,varvet/pundit,Ruby,12
 20552964,realm/jazzy,Ruby,12
 910744,puppetlabs/puppet,Ruby,13
 355893,github/markup,Ruby,12
