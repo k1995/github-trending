@@ -1,16 +1,16 @@
 id,name,lang,new stars
-36502,git/git,C,129
+36502,git/git,C,130
 62156403,QSCTech/zju-icicles,C,173
-246335987,ventoy/Ventoy,C,199
+246335987,ventoy/Ventoy,C,202
 14812739,libuv/libuv,C,60
-102578345,coolsnowwolf/lede,C,176
-18496166,gentilkiwi/mimikatz,C,223
-34921116,iovisor/bcc,C,61
+102578345,coolsnowwolf/lede,C,177
+18496166,gentilkiwi/mimikatz,C,239
+34921116,iovisor/bcc,C,62
 95879426,Tencent/ncnn,C,85
 437011,openzfs/zfs,C,34
-39242894,coturn/coturn,C,51
-32921736,audacity/audacity,C,265
-3318027,id-Software/Quake-III-Arena,C,30
+39242894,coturn/coturn,C,52
+32921736,audacity/audacity,C,285
+3318027,id-Software/Quake-III-Arena,C,31
 6376337,pocoproject/poco,C,31
 849692,ZipArchive/ZipArchive,C,11
 59676171,KevinOConnor/klipper,C,33
@@ -19,8 +19,8 @@ id,name,lang,new stars
 34807561,nanopb/nanopb,C,19
 282790925,badafans/better-cloudflare-ip,C,45
 1613176,tianocore/edk2,C,21
-194269070,skyline-emu/skyline,C,34
+194269070,skyline-emu/skyline,C,36
 88021715,halfer53/winix,C,254
-377698768,cmuratori/refterm,C,323
+377698768,cmuratori/refterm,C,330
 302605731,adiwzx/freenode,C,27
 51990771,ARM-software/CMSIS_5,C,23
