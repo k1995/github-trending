@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,20
+8514,rails/rails,Ruby,21
 7569578,discourse/discourse,Ruby,21
-53238813,Homebrew/brew,Ruby,29
-52281283,tootsuite/mastodon,Ruby,15
+53238813,Homebrew/brew,Ruby,28
+52281283,tootsuite/mastodon,Ruby,16
 481872,hashicorp/vagrant,Ruby,8
 308770,heartcombo/devise,Ruby,5
-37382858,kilimchoi/engineering-blogs,Ruby,17
+37382858,kilimchoi/engineering-blogs,Ruby,18
 911765,diaspora/diaspora,Ruby,5
 3314,spree/spree,Ruby,6
-18486300,lewagon/setup,Ruby,189
-1918677,fluent/fluentd,Ruby,8
-812393,ruby-grape/grape,Ruby,2
+18486300,lewagon/setup,Ruby,203
+1918677,fluent/fluentd,Ruby,7
+812393,ruby-grape/grape,Ruby,3
 21829,thoughtbot/factory_bot,Ruby,4
 30337170,rmosolgo/graphql-ruby,Ruby,9
 5954,jeremyevans/sequel,Ruby,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,5
 2725544,CocoaPods/Xcodeproj,Ruby,0
 26094060,logstash-plugins/logstash-patterns-core,Ruby,2
-1561299,fphilipe/premailer-rails,Ruby,15
+1561299,fphilipe/premailer-rails,Ruby,16
 34840276,elastic/ansible-elasticsearch,Ruby,1
 121513081,tradingview/charting-library-examples,Ruby,2
 212813096,lewagon/data-setup,Ruby,94
