@@ -1,17 +1,17 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,417
-36502,git/git,C,117
-62156403,QSCTech/zju-icicles,C,159
+2325298,torvalds/linux,C,420
+36502,git/git,C,118
+62156403,QSCTech/zju-icicles,C,160
 14812739,libuv/libuv,C,54
 102578345,coolsnowwolf/lede,C,169
-18496166,gentilkiwi/mimikatz,C,138
+18496166,gentilkiwi/mimikatz,C,139
 34921116,iovisor/bcc,C,51
 95879426,Tencent/ncnn,C,67
 927442,postgres/postgres,C,77
 437011,openzfs/zfs,C,30
-39242894,coturn/coturn,C,46
-163862700,onivim/oni2,C,88
-32921736,audacity/audacity,C,124
+39242894,coturn/coturn,C,47
+163862700,onivim/oni2,C,91
+32921736,audacity/audacity,C,132
 3318027,id-Software/Quake-III-Arena,C,27
 849692,ZipArchive/ZipArchive,C,10
 59676171,KevinOConnor/klipper,C,31
@@ -21,6 +21,6 @@ id,name,lang,new stars
 176278485,sqlite/sqlite,C,36
 194269070,skyline-emu/skyline,C,31
 88021715,halfer53/winix,C,237
-377698768,cmuratori/refterm,C,263
+377698768,cmuratori/refterm,C,274
 302605731,adiwzx/freenode,C,22
 51990771,ARM-software/CMSIS_5,C,18
