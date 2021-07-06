@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,18
-65252,jekyll/jekyll,Ruby,18
+65252,jekyll/jekyll,Ruby,20
 8681349,huginn/huginn,Ruby,10
-53238813,Homebrew/brew,Ruby,24
-2293158,rapid7/metasploit-framework,Ruby,16
+53238813,Homebrew/brew,Ruby,25
+2293158,rapid7/metasploit-framework,Ruby,17
 52281283,tootsuite/mastodon,Ruby,12
 2500088,gitlabhq/gitlabhq,Ruby,1
 308770,heartcombo/devise,Ruby,4
-538746,ruby/ruby,Ruby,4
+538746,ruby/ruby,Ruby,5
 911765,diaspora/diaspora,Ruby,5
 138312,capistrano/capistrano,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1145832,pry/pry,Ruby,4
 4994614,wpscanteam/wpscan,Ruby,3
 6899875,opf/openproject,Ruby,5
-11426474,github/choosealicense.com,Ruby,4
+11426474,github/choosealicense.com,Ruby,5
 103766152,github/explore,Ruby,1
 64552869,LionSec/xerosploit,Ruby,2
 880770,puppetlabs/puppetlabs-apache,Ruby,0
