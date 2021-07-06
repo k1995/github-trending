@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,17
+8514,rails/rails,Ruby,18
 65252,jekyll/jekyll,Ruby,18
-8681349,huginn/huginn,Ruby,9
-53238813,Homebrew/brew,Ruby,22
+8681349,huginn/huginn,Ruby,10
+53238813,Homebrew/brew,Ruby,24
 2293158,rapid7/metasploit-framework,Ruby,16
 52281283,tootsuite/mastodon,Ruby,12
-2500088,gitlabhq/gitlabhq,Ruby,0
+2500088,gitlabhq/gitlabhq,Ruby,1
 308770,heartcombo/devise,Ruby,4
 538746,ruby/ruby,Ruby,4
 911765,diaspora/diaspora,Ruby,5
@@ -13,9 +13,9 @@ id,name,lang,new stars
 4095287,rubocop/rubocop,Ruby,1
 3314,spree/spree,Ruby,6
 3195124,mperham/sidekiq,Ruby,4
-88740103,postalhq/postal,Ruby,5
+88740103,postalhq/postal,Ruby,6
 18486300,lewagon/setup,Ruby,176
-1918677,fluent/fluentd,Ruby,7
+1918677,fluent/fluentd,Ruby,8
 96395,faker-ruby/faker,Ruby,3
 1145832,pry/pry,Ruby,4
 4994614,wpscanteam/wpscan,Ruby,3
