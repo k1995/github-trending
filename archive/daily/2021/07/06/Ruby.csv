@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,20
 7569578,discourse/discourse,Ruby,21
-53238813,Homebrew/brew,Ruby,26
-52281283,tootsuite/mastodon,Ruby,14
+53238813,Homebrew/brew,Ruby,29
+52281283,tootsuite/mastodon,Ruby,15
 481872,hashicorp/vagrant,Ruby,8
 308770,heartcombo/devise,Ruby,5
 37382858,kilimchoi/engineering-blogs,Ruby,17
 911765,diaspora/diaspora,Ruby,5
 3314,spree/spree,Ruby,6
-18486300,lewagon/setup,Ruby,178
+18486300,lewagon/setup,Ruby,189
 1918677,fluent/fluentd,Ruby,8
 812393,ruby-grape/grape,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,4
@@ -17,10 +17,10 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,3
 14238949,elastic/elasticsearch-rails,Ruby,1
 2524005,httprb/http,Ruby,8
-3898922,zammad/zammad,Ruby,4
+3898922,zammad/zammad,Ruby,5
 2725544,CocoaPods/Xcodeproj,Ruby,0
 26094060,logstash-plugins/logstash-patterns-core,Ruby,2
-1561299,fphilipe/premailer-rails,Ruby,14
+1561299,fphilipe/premailer-rails,Ruby,15
 34840276,elastic/ansible-elasticsearch,Ruby,1
-121513081,tradingview/charting-library-examples,Ruby,1
-212813096,lewagon/data-setup,Ruby,93
+121513081,tradingview/charting-library-examples,Ruby,2
+212813096,lewagon/data-setup,Ruby,94
