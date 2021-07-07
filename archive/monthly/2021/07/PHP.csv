@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,462
-3482588,danielmiessler/SecLists,PHP,546
-458058,symfony/symfony,PHP,158
+1863329,laravel/laravel,PHP,464
+3482588,danielmiessler/SecLists,PHP,550
+458058,symfony/symfony,PHP,161
 2253830,PHPMailer/PHPMailer,PHP,141
-13899674,thephpleague/flysystem,PHP,64
+13899674,thephpleague/flysystem,PHP,65
 28628034,flarum/flarum,PHP,146
 23680678,tymondesigns/jwt-auth,PHP,84
 14259390,Maatwebsite/Laravel-Excel,PHP,119
 2884111,magento/magento2,PHP,76
-42480275,spatie/laravel-permission,PHP,96
+42480275,spatie/laravel-permission,PHP,97
 79111500,jupeter/clean-code-php,PHP,111
 6763587,PrestaShop/PrestaShop,PHP,58
 4242230,PHPOffice/PHPWord,PHP,58
@@ -17,10 +17,10 @@ id,name,lang,new stars
 95011974,akaunting/akaunting,PHP,93
 3817881,zircote/swagger-php,PHP,51
 148129143,bagisto/bagisto,PHP,80
-8077402,MISP/MISP,PHP,49
+8077402,MISP/MISP,PHP,50
 47508644,pterodactyl/panel,PHP,78
 69691727,pmmp/PocketMine-MP,PHP,45
 129852395,assimon/dujiaoka,PHP,90
-17253775,zabbix/zabbix,PHP,71
-141720301,dr5hn/countries-states-cities-database,PHP,168
+17253775,zabbix/zabbix,PHP,72
+141720301,dr5hn/countries-states-cities-database,PHP,169
 75645659,WordPress/wordpress-develop,PHP,36

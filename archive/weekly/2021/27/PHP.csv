@@ -1,10 +1,10 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,48
+458058,symfony/symfony,PHP,51
 1376664,Seldaek/monolog,PHP,30
 3431193,yiisoft/yii2,PHP,10
 12615154,barryvdh/laravel-debugbar,PHP,32
-13899674,thephpleague/flysystem,PHP,17
-7704544,Intervention/image,PHP,22
+13899674,thephpleague/flysystem,PHP,18
+7704544,Intervention/image,PHP,23
 72069409,the-control-group/voyager,PHP,21
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,26
 14259390,Maatwebsite/Laravel-Excel,PHP,38
@@ -19,8 +19,8 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,23
 95011974,akaunting/akaunting,PHP,22
 4224042,roundcube/roundcubemail,PHP,14
-255703597,beyondcode/expose,PHP,26
-139191005,nunomaduro/larastan,PHP,180
-57961433,openmediavault/openmediavault,PHP,21
-7776575,myclabs/php-enum,PHP,11
-195836215,magicblack/maccms10,PHP,13
+255703597,beyondcode/expose,PHP,27
+139191005,nunomaduro/larastan,PHP,181
+57961433,openmediavault/openmediavault,PHP,23
+7776575,myclabs/php-enum,PHP,12
+195836215,magicblack/maccms10,PHP,14
