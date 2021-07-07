@@ -1,19 +1,19 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1209
-11180687,gohugoio/hugo,Go,1022
+20580498,kubernetes/kubernetes,Go,1210
+11180687,gohugoio/hugo,Go,1024
 20904437,gin-gonic/gin,Go,862
 48378947,fatedier/frp,Go,882
-13807606,junegunn/fzf,Go,665
+13807606,junegunn/fzf,Go,666
 29207621,caddyserver/caddy,Go,387
-17728164,hashicorp/terraform,Go,914
+17728164,hashicorp/terraform,Go,915
 12574344,spf13/cobra,Go,518
 43723161,helm/helm,Go,226
 26337322,rancher/rancher,Go,486
 62091339,kubernetes/kops,Go,130
-167596393,derailed/k9s,Go,435
-42332863,filebrowser/filebrowser,Go,255
+167596393,derailed/k9s,Go,436
+42332863,filebrowser/filebrowser,Go,256
 153099672,inancgumus/learngo,Go,465
-44350607,kubernetes/dashboard,Go,163
+44350607,kubernetes/dashboard,Go,164
 285864199,tal-tech/go-zero,Go,820
 21405028,ardanlabs/gotraining,Go,147
 116739828,DNSCrypt/dnscrypt-proxy,Go,134

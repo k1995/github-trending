@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,479
+1863329,laravel/laravel,PHP,481
 3482588,danielmiessler/SecLists,PHP,555
 458058,symfony/symfony,PHP,163
 2253830,PHPMailer/PHPMailer,PHP,147
@@ -9,10 +9,10 @@ id,name,lang,new stars
 14259390,Maatwebsite/Laravel-Excel,PHP,122
 2884111,magento/magento2,PHP,77
 42480275,spatie/laravel-permission,PHP,99
-79111500,jupeter/clean-code-php,PHP,110
+79111500,jupeter/clean-code-php,PHP,112
 6763587,PrestaShop/PrestaShop,PHP,60
 4242230,PHPOffice/PHPWord,PHP,57
-10883164,barryvdh/laravel-dompdf,PHP,77
+10883164,barryvdh/laravel-dompdf,PHP,78
 74386167,vimeo/psalm,PHP,65
 95011974,akaunting/akaunting,PHP,97
 3817881,zircote/swagger-php,PHP,51
