@@ -1,12 +1,12 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,10
-7548986,laravel/framework,PHP,14
-2889328,WordPress/WordPress,PHP,7
-3431193,yiisoft/yii2,PHP,3
-22553797,getgrav/grav,PHP,6
+7548986,laravel/framework,PHP,17
+2889328,WordPress/WordPress,PHP,8
+3431193,yiisoft/yii2,PHP,4
+22553797,getgrav/grav,PHP,7
 7704544,Intervention/image,PHP,8
 14259390,Maatwebsite/Laravel-Excel,PHP,15
-79111500,jupeter/clean-code-php,PHP,22
+79111500,jupeter/clean-code-php,PHP,23
 2179920,woocommerce/woocommerce,PHP,3
 6763587,PrestaShop/PrestaShop,PHP,6
 10371103,Laravel-Lang/lang,PHP,7
@@ -14,10 +14,10 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,7
 97311017,rectorphp/rector,PHP,14
 60010673,elementor/elementor,PHP,3
-61802818,spatie/laravel-activitylog,PHP,6
+61802818,spatie/laravel-activitylog,PHP,5
 439861,moodle/moodle,PHP,3
 182349597,jqhph/dcat-admin,PHP,9
-39182755,glpi-project/glpi,PHP,5
+39182755,glpi-project/glpi,PHP,6
 20664530,SimpleSoftwareIO/simple-qrcode,PHP,17
 27965134,opnsense/core,PHP,4
 15231212,Automattic/jetpack,PHP,0
