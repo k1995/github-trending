@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,53
-65252,jekyll/jekyll,Ruby,68
+65252,jekyll/jekyll,Ruby,73
 7569578,discourse/discourse,Ruby,65
 8681349,huginn/huginn,Ruby,52
-53238813,Homebrew/brew,Ruby,81
+53238813,Homebrew/brew,Ruby,84
 21600440,bayandin/awesome-awesomeness,Ruby,34
-2293158,rapid7/metasploit-framework,Ruby,73
-52281283,tootsuite/mastodon,Ruby,44
+2293158,rapid7/metasploit-framework,Ruby,74
+52281283,tootsuite/mastodon,Ruby,45
 308770,heartcombo/devise,Ruby,16
-73648678,forem/forem,Ruby,56
+73648678,forem/forem,Ruby,57
 4095287,rubocop/rubocop,Ruby,11
 18486300,lewagon/setup,Ruby,285
 52855516,Homebrew/homebrew-core,Ruby,32
@@ -18,7 +18,7 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,29
 30337170,rmosolgo/graphql-ruby,Ruby,19
 56942570,Homebrew/linuxbrew-core,Ruby,8
-161399160,Shopify/shopify-cli,Ruby,33
+161399160,Shopify/shopify-cli,Ruby,34
 880770,puppetlabs/puppetlabs-apache,Ruby,0
 1715180,puppetlabs/puppetlabs-firewall,Ruby,0
 31323121,elastic/docs,Ruby,1
