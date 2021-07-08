@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,475
-3482588,danielmiessler/SecLists,PHP,563
-458058,symfony/symfony,PHP,166
+3482588,danielmiessler/SecLists,PHP,565
+458058,symfony/symfony,PHP,167
 1376664,Seldaek/monolog,PHP,114
 2253830,PHPMailer/PHPMailer,PHP,147
 13899674,thephpleague/flysystem,PHP,69
@@ -11,16 +11,16 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,80
 42480275,spatie/laravel-permission,PHP,97
 79111500,jupeter/clean-code-php,PHP,119
-2179920,woocommerce/woocommerce,PHP,99
+2179920,woocommerce/woocommerce,PHP,100
 2717549,Sylius/Sylius,PHP,45
 6763587,PrestaShop/PrestaShop,PHP,60
 4242230,PHPOffice/PHPWord,PHP,63
 10883164,barryvdh/laravel-dompdf,PHP,81
 74386167,vimeo/psalm,PHP,66
-3817881,zircote/swagger-php,PHP,53
+3817881,zircote/swagger-php,PHP,55
 148129143,bagisto/bagisto,PHP,82
 41463886,codeigniter4/CodeIgniter4,PHP,58
-8077402,MISP/MISP,PHP,51
+8077402,MISP/MISP,PHP,52
 39182755,glpi-project/glpi,PHP,36
 141720301,dr5hn/countries-states-cities-database,PHP,176
 75645659,WordPress/wordpress-develop,PHP,37
