@@ -1,18 +1,18 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,67
-7569578,discourse/discourse,Ruby,75
-27442967,fastlane/fastlane,Ruby,53
+7569578,discourse/discourse,Ruby,76
+27442967,fastlane/fastlane,Ruby,54
 8681349,huginn/huginn,Ruby,56
-53238813,Homebrew/brew,Ruby,100
-2293158,rapid7/metasploit-framework,Ruby,89
-52281283,tootsuite/mastodon,Ruby,53
-308770,heartcombo/devise,Ruby,21
-73648678,forem/forem,Ruby,62
-4095287,rubocop/rubocop,Ruby,13
+53238813,Homebrew/brew,Ruby,101
+2293158,rapid7/metasploit-framework,Ruby,91
+52281283,tootsuite/mastodon,Ruby,55
+308770,heartcombo/devise,Ruby,22
+73648678,forem/forem,Ruby,63
+4095287,rubocop/rubocop,Ruby,14
 3195124,mperham/sidekiq,Ruby,21
 18486300,lewagon/setup,Ruby,286
 96395,faker-ruby/faker,Ruby,18
-15435,Shopify/liquid,Ruby,28
+15435,Shopify/liquid,Ruby,29
 6688319,DeathKing/Learning-SICP,Ruby,44
 6529205,varvet/pundit,Ruby,12
 108278,chef/chef,Ruby,17
@@ -21,6 +21,6 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,20
 11426474,github/choosealicense.com,Ruby,19
 93163073,dependabot/dependabot-core,Ruby,22
-161399160,Shopify/shopify-cli,Ruby,35
-359492634,Lightricks/Kintsugi,Ruby,325
+161399160,Shopify/shopify-cli,Ruby,37
+359492634,Lightricks/Kintsugi,Ruby,326
 212813096,lewagon/data-setup,Ruby,100
