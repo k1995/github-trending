@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,13
+8514,rails/rails,Ruby,14
 7569578,discourse/discourse,Ruby,17
-481872,hashicorp/vagrant,Ruby,13
-308770,heartcombo/devise,Ruby,4
-2203645,CocoaPods/CocoaPods,Ruby,6
-1090311,elastic/logstash,Ruby,9
+481872,hashicorp/vagrant,Ruby,17
+308770,heartcombo/devise,Ruby,6
+2203645,CocoaPods/CocoaPods,Ruby,7
+1090311,elastic/logstash,Ruby,10
 3314,spree/spree,Ruby,2
-3195124,mperham/sidekiq,Ruby,6
+3195124,mperham/sidekiq,Ruby,7
 88740103,postalhq/postal,Ruby,6
 18486300,lewagon/setup,Ruby,93
-1918677,fluent/fluentd,Ruby,7
+1918677,fluent/fluentd,Ruby,8
 812393,ruby-grape/grape,Ruby,3
 1333863,kaminari/kaminari,Ruby,4
 2441517,puma/puma,Ruby,6
@@ -23,4 +23,4 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,6
 34840276,elastic/ansible-elasticsearch,Ruby,1
 65914086,decidim/decidim,Ruby,0
-3276877,ThrowTheSwitch/Ceedling,Ruby,1
+3276877,ThrowTheSwitch/Ceedling,Ruby,2
