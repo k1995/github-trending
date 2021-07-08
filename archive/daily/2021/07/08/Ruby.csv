@@ -1,8 +1,8 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,21
-27442967,fastlane/fastlane,Ruby,19
-481872,hashicorp/vagrant,Ruby,21
-73648678,forem/forem,Ruby,18
+8514,rails/rails,Ruby,24
+27442967,fastlane/fastlane,Ruby,20
+481872,hashicorp/vagrant,Ruby,22
+73648678,forem/forem,Ruby,20
 2203645,CocoaPods/CocoaPods,Ruby,7
 1090311,elastic/logstash,Ruby,12
 4095287,rubocop/rubocop,Ruby,4
@@ -14,7 +14,7 @@ id,name,lang,new stars
 1333863,kaminari/kaminari,Ruby,6
 6529205,varvet/pundit,Ruby,5
 21829,thoughtbot/factory_bot,Ruby,3
-2441517,puma/puma,Ruby,8
+2441517,puma/puma,Ruby,6
 108278,chef/chef,Ruby,6
 2889230,rails-api/active_model_serializers,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 34840276,elastic/ansible-elasticsearch,Ruby,2
 2175854,ErwinM/acts_as_tenant,Ruby,7
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,2
-195810494,RailsEventStore/cqrs-es-sample-with-res,Ruby,9
+195810494,RailsEventStore/cqrs-es-sample-with-res,Ruby,10
