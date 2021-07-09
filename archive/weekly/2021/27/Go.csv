@@ -1,17 +1,17 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,310
-13855476,go-gorm/gorm,Go,125
-30215630,go-kit/kit,Go,122
+20904437,gin-gonic/gin,Go,311
+13855476,go-gorm/gorm,Go,127
+30215630,go-kit/kit,Go,127
 43723161,helm/helm,Go,99
-136815833,Dreamacro/clash,Go,257
+136815833,Dreamacro/clash,Go,259
 156084530,ehang-io/nps,Go,128
 107286889,schollz/croc,Go,344
-19205896,restic/restic,Go,106
-24977535,dutchcoders/transfer.sh,Go,635
-153099672,inancgumus/learngo,Go,272
+19205896,restic/restic,Go,107
+24977535,dutchcoders/transfer.sh,Go,661
+153099672,inancgumus/learngo,Go,273
 1380117,getlantern/lantern,Go,109
 19537979,TykTechnologies/tyk,Go,46
-40916314,dexidp/dex,Go,237
+40916314,dexidp/dex,Go,238
 93444615,hashicorp/terraform-provider-aws,Go,37
 134018330,panjf2000/ants,Go,99
 311315731,XTLS/Xray-core,Go,118
@@ -19,8 +19,8 @@ id,name,lang,new stars
 118828329,knative/serving,Go,38
 327859577,juicedata/juicefs,Go,88
 51193526,cosmos/cosmos-sdk,Go,30
-360107267,SmartKeyerror/Psyduck,Go,1302
+360107267,SmartKeyerror/Psyduck,Go,1307
 202018792,aws/copilot-cli,Go,49
-302670797,ossf/scorecard,Go,898
+302670797,ossf/scorecard,Go,899
 344676663,erda-project/erda,Go,122
-352240770,brianstrauch/spotify-cli,Go,124
+352240770,brianstrauch/spotify-cli,Go,125
