@@ -1,15 +1,15 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,282
 48378947,fatedier/frp,Go,281
-13855476,go-gorm/gorm,Go,113
-12574344,spf13/cobra,Go,235
+13855476,go-gorm/gorm,Go,114
+12574344,spf13/cobra,Go,237
 30215630,go-kit/kit,Go,112
-43723161,helm/helm,Go,86
-136815833,Dreamacro/clash,Go,229
+43723161,helm/helm,Go,88
+136815833,Dreamacro/clash,Go,230
 107286889,schollz/croc,Go,296
-19205896,restic/restic,Go,98
-167596393,derailed/k9s,Go,142
-24977535,dutchcoders/transfer.sh,Go,556
+19205896,restic/restic,Go,101
+167596393,derailed/k9s,Go,144
+24977535,dutchcoders/transfer.sh,Go,557
 153099672,inancgumus/learngo,Go,252
 1380117,getlantern/lantern,Go,100
 19537979,TykTechnologies/tyk,Go,44
@@ -19,7 +19,7 @@ id,name,lang,new stars
 30219994,adonovan/gopl.io,Go,35
 118828329,knative/serving,Go,32
 51193526,cosmos/cosmos-sdk,Go,29
-360107267,SmartKeyerror/Psyduck,Go,1006
+360107267,SmartKeyerror/Psyduck,Go,1017
 193681111,filecoin-project/lotus,Go,22
 202018792,aws/copilot-cli,Go,48
 373460128,seccome/Ehoney,Go,478
