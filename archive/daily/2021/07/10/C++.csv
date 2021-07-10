@@ -1,13 +1,13 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,102
+5108051,opencv/opencv,C++,103
 22887094,tesseract-ocr/tesseract,C++,77
-27729880,grpc/grpc,C++,49
-1062572,catchorg/Catch2,C++,89
+27729880,grpc/grpc,C++,52
+1062572,catchorg/Catch2,C++,91
 40892817,ethereum/solidity,C++,309
-164782828,USTC-Resource/USTC-Course,C++,60
+164782828,USTC-Resource/USTC-Course,C++,64
 310611,apache/thrift,C++,16
 95114723,nasa/fprime,C++,49
-31102092,google/or-tools,C++,34
+31102092,google/or-tools,C++,35
 8162615,PointCloudLibrary/pcl,C++,11
 108102826,carla-simulator/carla,C++,29
 23086893,google/re2,C++,18
