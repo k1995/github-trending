@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,5116
-132464395,Snailclimb/JavaGuide,Java,723
-724712,rust-lang/rust,Rust,482
-16408992,neovim/neovim,Vim script,560
-67186968,chinese-poetry/chinese-poetry,JavaScript,846
+54346799,public-apis/public-apis,Python,5090
+16408992,neovim/neovim,Vim script,563
 160919119,tiangolo/fastapi,Python,889
-188660663,CorentinJ/Real-Time-Voice-Cloning,Python,2712
+59996401,YMFE/yapi,JavaScript,171
 30215630,go-kit/kit,Go,130
-130688011,meilisearch/MeiliSearch,Rust,257
 107286889,schollz/croc,Go,360
-8162715,mirumee/saleor,Python,1869
-40892817,ethereum/solidity,C++,428
-148496687,YunaiV/SpringBoot-Labs,Java,136
-153099672,inancgumus/learngo,Go,275
-130884470,solidjs/solid,TypeScript,2460
-197153676,Chia-Network/chia-blockchain,Python,211
-313330998,bradtraversy/50projects50days,CSS,1812
+18496166,gentilkiwi/mimikatz,C,555
+8162715,mirumee/saleor,Python,1880
+148496687,YunaiV/SpringBoot-Labs,Java,137
+153099672,inancgumus/learngo,Go,276
+130884470,solidjs/solid,TypeScript,2469
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,8759
+197153676,Chia-Network/chia-blockchain,Python,215
+313330998,bradtraversy/50projects50days,CSS,1813
 5973855,CleverRaven/Cataclysm-DDA,C++,97
-145050544,ChristianChiarulli/LunarVim,Lua,601
+164768889,alibaba/formily,TypeScript,258
+145050544,ChristianChiarulli/LunarVim,Lua,602
 279759605,nvim-telescope/telescope.nvim,Lua,149
-360107267,SmartKeyerror/Psyduck,Go,1370
-347502287,kingoflolz/mesh-transformer-jax,Python,1126
-379635294,Shopify/dawn,Liquid,591
+360107267,SmartKeyerror/Psyduck,Go,1390
+6789509,shopizer-ecommerce/shopizer,Java,238
+341715643,Th3Wall/Fakeflix,JavaScript,2151
+167766835,IvanMathy/Boop,Swift,211
+347502287,kingoflolz/mesh-transformer-jax,Python,1125
+302670797,ossf/scorecard,Go,903
 353118534,input-output-hk/plutus-pioneer-program,Haskell,279
-381712622,openppl-public/ppl.nn,C++,367
