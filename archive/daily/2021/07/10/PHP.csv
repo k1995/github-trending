@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,64
-458058,symfony/symfony,PHP,31
-7548986,laravel/framework,PHP,42
-1548202,matomo-org/matomo,PHP,22
+1863329,laravel/laravel,PHP,71
+458058,symfony/symfony,PHP,28
+7548986,laravel/framework,PHP,40
+1548202,matomo-org/matomo,PHP,24
 3431193,yiisoft/yii2,PHP,10
 82238168,monicahq/monica,PHP,20
 47495360,koel/koel,PHP,11
@@ -12,12 +12,12 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,8
 6660366,dompdf/dompdf,PHP,16
 2179920,woocommerce/woocommerce,PHP,8
-2717549,Sylius/Sylius,PHP,3
+2717549,Sylius/Sylius,PHP,6
 4242230,PHPOffice/PHPWord,PHP,13
-14346979,snipe/snipe-it,PHP,14
-10883164,barryvdh/laravel-dompdf,PHP,10
-31541210,aimeos/aimeos-laravel,PHP,16
-9826184,elastic/elasticsearch-php,PHP,4
+14346979,snipe/snipe-it,PHP,11
+31541210,aimeos/aimeos-laravel,PHP,17
+10883164,barryvdh/laravel-dompdf,PHP,5
+9826184,elastic/elasticsearch-php,PHP,6
 222873550,bytefury/crater,PHP,14
 145865941,laravel/telescope,PHP,5
 182349597,jqhph/dcat-admin,PHP,15
