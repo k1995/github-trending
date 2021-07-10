@@ -1,12 +1,12 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,27
-2293158,rapid7/metasploit-framework,Ruby,54
+2293158,rapid7/metasploit-framework,Ruby,56
 52281283,tootsuite/mastodon,Ruby,33
-2203645,CocoaPods/CocoaPods,Ruby,14
-1090311,elastic/logstash,Ruby,13
+2203645,CocoaPods/CocoaPods,Ruby,15
+1090311,elastic/logstash,Ruby,15
 138312,capistrano/capistrano,Ruby,5
 106995,sinatra/sinatra,Ruby,7
-1918677,fluent/fluentd,Ruby,16
+1918677,fluent/fluentd,Ruby,17
 96395,faker-ruby/faker,Ruby,7
 611921,activeadmin/activeadmin,Ruby,1
 1333863,kaminari/kaminari,Ruby,8
@@ -19,8 +19,8 @@ id,name,lang,new stars
 3842593,ruby-china/homeland,Ruby,19
 1172597,thoughtbot/shoulda-matchers,Ruby,1
 614070,rubygems/rubygems,Ruby,9
-20037550,ruby/rake,Ruby,3
-1953385,stripe/stripe-ruby,Ruby,4
+20037550,ruby/rake,Ruby,4
+1953385,stripe/stripe-ruby,Ruby,5
 20343475,googleapis/google-cloud-ruby,Ruby,2
-261538171,panorama-ed/memo_wise,Ruby,113
-342023294,tenderlove/fisk,Ruby,96
+261538171,panorama-ed/memo_wise,Ruby,114
+342023294,tenderlove/fisk,Ruby,97
