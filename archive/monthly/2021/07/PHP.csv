@@ -1,9 +1,9 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,508
 458058,symfony/symfony,PHP,184
-2889328,WordPress/WordPress,PHP,122
+2889328,WordPress/WordPress,PHP,123
 13899674,thephpleague/flysystem,PHP,72
-28628034,flarum/flarum,PHP,154
+28628034,flarum/flarum,PHP,156
 61490598,PHPOffice/PhpSpreadsheet,PHP,139
 23680678,tymondesigns/jwt-auth,PHP,92
 14259390,Maatwebsite/Laravel-Excel,PHP,129
@@ -13,7 +13,7 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,63
 4242230,PHPOffice/PHPWord,PHP,68
 10883164,barryvdh/laravel-dompdf,PHP,86
-74386167,vimeo/psalm,PHP,70
+74386167,vimeo/psalm,PHP,72
 3817881,zircote/swagger-php,PHP,58
 8077402,MISP/MISP,PHP,54
 139191005,nunomaduro/larastan,PHP,238
