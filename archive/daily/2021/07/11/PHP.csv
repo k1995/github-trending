@@ -1,6 +1,6 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,4
-7548986,laravel/framework,PHP,7
+7548986,laravel/framework,PHP,8
 1420053,guzzle/guzzle,PHP,3
 1280180,phacility/phabricator,PHP,1
 7704544,Intervention/image,PHP,3
@@ -11,12 +11,12 @@ id,name,lang,new stars
 4242230,PHPOffice/PHPWord,PHP,1
 12204147,mautic/mautic,PHP,3
 30915528,spatie/laravel-backup,PHP,2
-178703607,nunomaduro/phpinsights,PHP,3
+178703607,nunomaduro/phpinsights,PHP,4
 97311017,rectorphp/rector,PHP,3
 76064827,mailcow/mailcow-dockerized,PHP,2
 14735403,yajra/laravel-datatables,PHP,2
-32482750,phpro/grumphp,PHP,0
-10226642,Crinsane/LaravelShoppingcart,PHP,2
+32482750,phpro/grumphp,PHP,1
+10226642,Crinsane/LaravelShoppingcart,PHP,3
 72453516,wp-graphql/wp-graphql,PHP,0
 13914116,librenms/librenms,PHP,2
 2686502,pimcore/pimcore,PHP,3

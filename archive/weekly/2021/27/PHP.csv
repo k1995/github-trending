@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,134
+3482588,danielmiessler/SecLists,PHP,135
 2579314,fzaninotto/Faker,PHP,30
 458058,symfony/symfony,PHP,42
 7548986,laravel/framework,PHP,53
@@ -16,11 +16,11 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,20
 30915528,spatie/laravel-backup,PHP,14
 74386167,vimeo/psalm,PHP,14
-8077402,MISP/MISP,PHP,13
+8077402,MISP/MISP,PHP,14
 72453516,wp-graphql/wp-graphql,PHP,9
-139191005,nunomaduro/larastan,PHP,87
+139191005,nunomaduro/larastan,PHP,88
 57961433,openmediavault/openmediavault,PHP,22
 73781385,orchidsoftware/platform,PHP,18
 111562942,statamic/cms,PHP,21
-195836215,magicblack/maccms10,PHP,11
+195836215,magicblack/maccms10,PHP,13
 333209627,stripe-samples/accept-a-payment,PHP,4
