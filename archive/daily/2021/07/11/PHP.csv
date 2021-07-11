@@ -1,7 +1,7 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,24
+3482588,danielmiessler/SecLists,PHP,28
 2253830,PHPMailer/PHPMailer,PHP,7
-60243197,nextcloud/server,PHP,12
+60243197,nextcloud/server,PHP,13
 3431193,yiisoft/yii2,PHP,2
 12615154,barryvdh/laravel-debugbar,PHP,6
 23680678,tymondesigns/jwt-auth,PHP,4
@@ -13,13 +13,13 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,2
 2686502,pimcore/pimcore,PHP,3
 116010682,Tai7sy/card-system,PHP,4
-174021137,inertiajs/pingcrm,PHP,3
+174021137,inertiajs/pingcrm,PHP,4
 36526302,pentestmonkey/php-reverse-shell,PHP,3
 143703053,rajkumardusad/IP-Tracer,PHP,3
 295931854,ksassnowski/venture,PHP,4
 196676016,lkeme/BiliHelper-personal,PHP,2
 281640234,5ime/video_spider,PHP,3
 330900866,HaoOuBa/Joe,PHP,6
-364334602,izniburak/laravel-auto-routes,PHP,16
-380212711,spatie/shiki-php,PHP,12
-350526926,aschmelyun/laravel-job-board,PHP,5
+364334602,izniburak/laravel-auto-routes,PHP,17
+380212711,spatie/shiki-php,PHP,13
+350526926,aschmelyun/laravel-job-board,PHP,6

@@ -1,19 +1,19 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1168
-11180687,gohugoio/hugo,Go,1021
-20904437,gin-gonic/gin,Go,841
-13807606,junegunn/fzf,Go,666
-29207621,caddyserver/caddy,Go,378
+20580498,kubernetes/kubernetes,Go,1169
+11180687,gohugoio/hugo,Go,1023
+20904437,gin-gonic/gin,Go,843
+13807606,junegunn/fzf,Go,668
+29207621,caddyserver/caddy,Go,379
 74175805,istio/istio,Go,268
-12574344,spf13/cobra,Go,529
+12574344,spf13/cobra,Go,530
 43723161,helm/helm,Go,237
 156084530,ehang-io/nps,Go,407
 26337322,rancher/rancher,Go,491
-24268127,coreybutler/nvm-windows,Go,325
-165041732,go-kratos/kratos,Go,414
-167596393,derailed/k9s,Go,456
-42332863,filebrowser/filebrowser,Go,384
-285864199,tal-tech/go-zero,Go,744
+24268127,coreybutler/nvm-windows,Go,327
+165041732,go-kratos/kratos,Go,435
+167596393,derailed/k9s,Go,457
+42332863,filebrowser/filebrowser,Go,385
+285864199,tal-tech/go-zero,Go,746
 21405028,ardanlabs/gotraining,Go,236
 40916314,dexidp/dex,Go,297
 107417113,cookieY/Yearning,Go,203
@@ -23,4 +23,4 @@ id,name,lang,new stars
 364729022,maaslalani/slides,Go,2767
 318972528,roseduan/rosedb,Go,529
 230660669,aler9/rtsp-simple-server,Go,144
-279592699,harvester/harvester,Go,433
+279592699,harvester/harvester,Go,434
