@@ -1,12 +1,12 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,11
+17620347,dotnet/aspnetcore,C#,13
 102904613,Unity-Technologies/ml-agents,C#,5
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,4
-16157746,dotnet/efcore,C#,2
+16157746,dotnet/efcore,C#,3
 132021166,dotnet/machinelearning,C#,0
 75990888,dotnet/csharplang,C#,3
-210716005,dotnet/runtime,C#,7
-75505125,abpframework/abp,C#,2
+210716005,dotnet/runtime,C#,8
+75505125,abpframework/abp,C#,4
 18586705,nopSolutions/nopCommerce,C#,3
 85953,gitextensions/gitextensions,C#,1
 76445704,dotnetcore/CAP,C#,2
@@ -14,7 +14,7 @@ id,name,lang,new stars
 19216825,xamarin/xamarin-forms-samples,C#,0
 245235133,microsoft/reverse-proxy,C#,4
 224109382,ant-design-blazor/ant-design-blazor,C#,2
-15351385,shimat/opencvsharp,C#,2
+15351385,shimat/opencvsharp,C#,3
 141745943,vis2k/Mirror,C#,2
 2928944,Azure/azure-sdk-for-net,C#,1
 150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,3
