@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,5022
-16408992,neovim/neovim,Vim script,572
-160919119,tiangolo/fastapi,Python,902
-59996401,YMFE/yapi,JavaScript,187
-30215630,go-kit/kit,Go,135
-107286889,schollz/croc,Go,375
-18496166,gentilkiwi/mimikatz,C,564
-8162715,mirumee/saleor,Python,1889
-148496687,YunaiV/SpringBoot-Labs,Java,140
-153099672,inancgumus/learngo,Go,276
-130884470,solidjs/solid,TypeScript,2492
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,8919
-197153676,Chia-Network/chia-blockchain,Python,211
-313330998,bradtraversy/50projects50days,CSS,1824
-5973855,CleverRaven/Cataclysm-DDA,C++,94
-164768889,alibaba/formily,TypeScript,206
-145050544,ChristianChiarulli/LunarVim,Lua,620
-360107267,SmartKeyerror/Psyduck,Go,1433
-279759605,nvim-telescope/telescope.nvim,Lua,138
-6789509,shopizer-ecommerce/shopizer,Java,239
-341715643,Th3Wall/Fakeflix,JavaScript,1665
-167766835,IvanMathy/Boop,Swift,216
-347502287,kingoflolz/mesh-transformer-jax,Python,1134
-302670797,ossf/scorecard,Go,910
-353118534,input-output-hk/plutus-pioneer-program,Haskell,236
+54346799,public-apis/public-apis,Python,4290
+16408992,neovim/neovim,Vim script,358
+160919119,tiangolo/fastapi,Python,780
+59996401,YMFE/yapi,JavaScript,177
+30215630,go-kit/kit,Go,100
+107286889,schollz/croc,Go,303
+18496166,gentilkiwi/mimikatz,C,478
+8162715,mirumee/saleor,Python,1437
+148496687,YunaiV/SpringBoot-Labs,Java,96
+153099672,inancgumus/learngo,Go,121
+130884470,solidjs/solid,TypeScript,1219
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,6448
+197153676,Chia-Network/chia-blockchain,Python,195
+313330998,bradtraversy/50projects50days,CSS,1489
+5973855,CleverRaven/Cataclysm-DDA,C++,55
+164768889,alibaba/formily,TypeScript,207
+145050544,ChristianChiarulli/LunarVim,Lua,528
+360107267,SmartKeyerror/Psyduck,Go,1268
+279759605,nvim-telescope/telescope.nvim,Lua,110
+6789509,shopizer-ecommerce/shopizer,Java,209
+341715643,Th3Wall/Fakeflix,JavaScript,1499
+167766835,IvanMathy/Boop,JavaScript,133
+347502287,kingoflolz/mesh-transformer-jax,Python,935
+302670797,ossf/scorecard,Go,555
+353118534,input-output-hk/plutus-pioneer-program,Haskell,143
