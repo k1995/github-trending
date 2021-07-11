@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,439
+1863329,laravel/laravel,PHP,440
 458058,symfony/symfony,PHP,168
 1376664,Seldaek/monolog,PHP,106
 2889328,WordPress/WordPress,PHP,105
 28628034,flarum/flarum,PHP,127
 61490598,PHPOffice/PhpSpreadsheet,PHP,124
-23680678,tymondesigns/jwt-auth,PHP,81
-14259390,Maatwebsite/Laravel-Excel,PHP,120
+23680678,tymondesigns/jwt-auth,PHP,82
+14259390,Maatwebsite/Laravel-Excel,PHP,121
 56728437,docker/labs,PHP,79
 79111500,jupeter/clean-code-php,PHP,120
 12166778,googleapis/google-api-php-client,PHP,40
@@ -21,6 +21,6 @@ id,name,lang,new stars
 2686502,pimcore/pimcore,PHP,41
 39182755,glpi-project/glpi,PHP,35
 129852395,assimon/dujiaoka,PHP,88
-17253775,zabbix/zabbix,PHP,73
-141720301,dr5hn/countries-states-cities-database,PHP,168
+17253775,zabbix/zabbix,PHP,74
+141720301,dr5hn/countries-states-cities-database,PHP,169
 111562942,statamic/cms,PHP,53

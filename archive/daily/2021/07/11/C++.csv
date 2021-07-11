@@ -1,14 +1,14 @@
 id,name,lang,new stars
 44838949,apple/swift,C++,18
-1181927,bitcoin/bitcoin,C++,27
-15634981,godotengine/godot,C++,59
-22067521,ocornut/imgui,C++,31
+1181927,bitcoin/bitcoin,C++,28
+15634981,godotengine/godot,C++,63
+22067521,ocornut/imgui,C++,33
 168008797,microsoft/calculator,C++,11
-67702184,topjohnwu/Magisk,C++,28
-60246359,ClickHouse/ClickHouse,C++,309
-116167731,yuzu-emu/yuzu,C++,15
-74660642,taichi-dev/taichi,C++,33
-160083795,SerenityOS/serenity,C++,32
+67702184,topjohnwu/Magisk,C++,32
+60246359,ClickHouse/ClickHouse,C++,303
+116167731,yuzu-emu/yuzu,C++,17
+74660642,taichi-dev/taichi,C++,35
+160083795,SerenityOS/serenity,C++,35
 1062572,catchorg/Catch2,C++,75
 3351871,qbittorrent/qBittorrent,C++,27
 14981376,dogecoin/dogecoin,C++,12
@@ -19,8 +19,8 @@ id,name,lang,new stars
 2168780,minetest/minetest,C++,7
 128430621,OpenTTD/OpenTTD,C++,9
 248058818,wolfpld/tracy,C++,5
-299510783,rui314/mold,C++,9
+299510783,rui314/mold,C++,13
 61980658,azerothcore/azerothcore-wotlk,C++,3
 110198384,brave/brave-core,C++,4
-283280154,jomjol/AI-on-the-edge-device,C++,37
-344192338,microsoft/IoT-For-Beginners,C++,333
+283280154,jomjol/AI-on-the-edge-device,C++,62
+344192338,microsoft/IoT-For-Beginners,C++,604
