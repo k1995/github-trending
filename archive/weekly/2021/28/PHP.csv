@@ -1,9 +1,9 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,119
-3482588,danielmiessler/SecLists,PHP,144
-2579314,fzaninotto/Faker,PHP,32
-7548986,laravel/framework,PHP,55
-60243197,nextcloud/server,PHP,66
+3482588,danielmiessler/SecLists,PHP,146
+2579314,fzaninotto/Faker,PHP,33
+7548986,laravel/framework,PHP,56
+60243197,nextcloud/server,PHP,67
 3431193,yiisoft/yii2,PHP,12
 47495360,koel/koel,PHP,29
 7704544,Intervention/image,PHP,30
@@ -16,11 +16,11 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,31
 222873550,bytefury/crater,PHP,22
 4224042,roundcube/roundcubemail,PHP,9
-439861,moodle/moodle,PHP,7
+439861,moodle/moodle,PHP,8
 139191005,nunomaduro/larastan,PHP,91
 182349597,jqhph/dcat-admin,PHP,22
 73781385,orchidsoftware/platform,PHP,18
 111562942,statamic/cms,PHP,22
 195836215,magicblack/maccms10,PHP,15
-332485520,m1guelpf/laravel-fastlogin,PHP,85
+332485520,m1guelpf/laravel-fastlogin,PHP,86
 333209627,stripe-samples/accept-a-payment,PHP,4
