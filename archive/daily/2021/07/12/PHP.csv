@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,21
+3482588,danielmiessler/SecLists,PHP,19
 1864363,composer/composer,PHP,8
 60243197,nextcloud/server,PHP,10
 82238168,monicahq/monica,PHP,2
@@ -16,8 +16,8 @@ id,name,lang,new stars
 286645686,yuantuo666/baiduwp-php,PHP,8
 174021137,inertiajs/pingcrm,PHP,5
 195836215,magicblack/maccms10,PHP,1
-36526302,pentestmonkey/php-reverse-shell,PHP,3
-364334602,izniburak/laravel-auto-routes,PHP,9
+36526302,pentestmonkey/php-reverse-shell,PHP,2
+364334602,izniburak/laravel-auto-routes,PHP,8
 380212711,spatie/shiki-php,PHP,9
 196958066,RedSnapper/laravel-version-control,PHP,18
 382416926,klimeryk/recalendar,PHP,1
