@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,51
-7569578,discourse/discourse,Ruby,51
+8514,rails/rails,Ruby,52
+7569578,discourse/discourse,Ruby,52
 53238813,Homebrew/brew,Ruby,74
-21600440,bayandin/awesome-awesomeness,Ruby,33
-2293158,rapid7/metasploit-framework,Ruby,84
+21600440,bayandin/awesome-awesomeness,Ruby,37
+2293158,rapid7/metasploit-framework,Ruby,88
 52281283,mastodon/mastodon,Ruby,45
 481872,hashicorp/vagrant,Ruby,46
 308770,heartcombo/devise,Ruby,18
 538746,ruby/ruby,Ruby,27
-73648678,forem/forem,Ruby,35
+73648678,forem/forem,Ruby,37
 1090311,elastic/logstash,Ruby,16
 18486300,lewagon/setup,Ruby,238
 1918677,fluent/fluentd,Ruby,27
@@ -16,7 +16,7 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,20
 30337170,rmosolgo/graphql-ruby,Ruby,17
 52316423,luggit/react-native-config,Ruby,6
-3842593,ruby-china/homeland,Ruby,24
+3842593,ruby-china/homeland,Ruby,25
 3898922,zammad/zammad,Ruby,8
 11426474,github/choosealicense.com,Ruby,17
 161399160,Shopify/shopify-cli,Ruby,15
