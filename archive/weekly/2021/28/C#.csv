@@ -1,8 +1,8 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,94
+17620347,dotnet/aspnetcore,C#,93
 38380854,dnSpy/dnSpy,C#,60
 102904613,Unity-Technologies/ml-agents,C#,37
-198071756,huiyadanli/RevokeMsgPatcher,C#,202
+198071756,huiyadanli/RevokeMsgPatcher,C#,199
 16157746,dotnet/efcore,C#,19
 120231691,Ryujinx/Ryujinx,C#,47
 126486701,Unity-Technologies/UnityCsReference,C#,34
@@ -10,17 +10,17 @@ id,name,lang,new stars
 64753043,Perfare/AssetStudio,C#,52
 213460285,jasontaylordev/CleanArchitecture,C#,68
 77323220,Radarr/Radarr,C#,18
-201188122,rocksdanister/lively,C#,146
+201188122,rocksdanister/lively,C#,145
 125612271,Unity-Technologies/EntityComponentSystemSamples,C#,7
-142480903,microsoft/microsoft-ui-xaml,C#,34
+142480903,microsoft/microsoft-ui-xaml,C#,33
 169597853,cobbr/Covenant,C#,21
 2928944,Azure/azure-sdk-for-net,C#,18
-129934884,dotnet/command-line-api,C#,18
+129934884,dotnet/command-line-api,C#,17
 39425864,tModLoader/tModLoader,C#,15
-64677873,Klocman/Bulk-Crap-Uninstaller,C#,24
+64677873,Klocman/Bulk-Crap-Uninstaller,C#,29
 210280372,liukuo362573/YiShaAdmin,C#,22
-324473895,FlySelfLog/downkyi,C#,145
-176523594,lucent-sea/Remotely,C#,56
-131145697,Azure-Samples/cognitive-services-speech-sdk,C#,12
-381490636,ArkaneDev/WinPass11,C#,35
-380808036,builtbybel/ReadySunValley,C#,33
+324473895,FlySelfLog/downkyi,C#,146
+176523594,lucent-sea/Remotely,C#,54
+131145697,Azure-Samples/cognitive-services-speech-sdk,C#,13
+380808036,builtbybel/ReadySunValley,C#,31
+381490636,ArkaneDev/WinPass11,C#,32
