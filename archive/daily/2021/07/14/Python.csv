@@ -1,12 +1,12 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,148
+83222441,donnemartin/system-design-primer,Python,147
 81598961,python/cpython,Python,24
-71220757,swisskyrepo/PayloadsAllTheThings,Python,377
+71220757,swisskyrepo/PayloadsAllTheThings,Python,379
 220809393,willmcgugan/rich,Python,18
 206660580,facebookresearch/detectron2,Python,20
-145670234,open-mmlab/mmdetection,Python,22
+145670234,open-mmlab/mmdetection,Python,23
 237791077,mingrammer/diagrams,Python,21
-135673451,microsoft/nni,Python,8
+135673451,microsoft/nni,Python,7
 204388414,bojone/bert4keras,Python,3
 258745062,Tianxiaomo/pytorch-YOLOv4,Python,3
 221723816,WZMIAOMIAO/deep-learning-for-image-processing,Python,13
@@ -14,13 +14,13 @@ id,name,lang,new stars
 272133018,open-mmlab/mmsegmentation,Python,2
 253044228,projectdiscovery/nuclei-templates,Python,8
 207044752,mai-lang-chai/Middleware-Vulnerability-detection,Python,29
-204380779,PaddlePaddle/PaddleSeg,Python,96
+204380779,PaddlePaddle/PaddleSeg,Python,89
 346138085,facebookresearch/pytorchvideo,Python,16
 278810244,open-mmlab/mmaction2,Python,6
-275118967,mikel-brostrom/Yolov5_DeepSort_Pytorch,Python,60
+275118967,mikel-brostrom/Yolov5_DeepSort_Pytorch,Python,54
 282320787,microsoft/restler-fuzzer,Python,0
 47203045,DataDog/integrations-core,Python,2
-367993839,austinsonger/Incident-Playbook,Python,140
+367993839,austinsonger/Incident-Playbook,Python,139
 376096061,NVlabs/SegFormer,Python,10
-381525092,rosinality/alias-free-gan-pytorch,Python,78
+381525092,rosinality/alias-free-gan-pytorch,Python,75
 367770909,parikhakshat/autoharness,Python,16
