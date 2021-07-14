@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,117
-3482588,danielmiessler/SecLists,PHP,118
+1863329,laravel/laravel,PHP,114
+3482588,danielmiessler/SecLists,PHP,120
 2579314,fzaninotto/Faker,PHP,27
-458058,symfony/symfony,PHP,44
-7548986,laravel/framework,PHP,62
+458058,symfony/symfony,PHP,45
+7548986,laravel/framework,PHP,61
 2889328,WordPress/WordPress,PHP,27
-60243197,nextcloud/server,PHP,64
-3431193,yiisoft/yii2,PHP,12
+60243197,nextcloud/server,PHP,65
+3431193,yiisoft/yii2,PHP,11
 47495360,koel/koel,PHP,21
 7704544,Intervention/image,PHP,27
-79111500,jupeter/clean-code-php,PHP,29
-6660366,dompdf/dompdf,PHP,24
+79111500,jupeter/clean-code-php,PHP,31
+6660366,dompdf/dompdf,PHP,23
 16685462,humhub/humhub,PHP,24
 6269013,aws/aws-sdk-php,PHP,13
 12204147,mautic/mautic,PHP,20
-222873550,bytefury/crater,PHP,26
+222873550,bytefury/crater,PHP,27
 145865941,laravel/telescope,PHP,12
 60010673,elementor/elementor,PHP,19
 4380514,Audi-1/sqli-labs,PHP,29
@@ -23,4 +23,4 @@ id,name,lang,new stars
 137591095,staudenmeir/eloquent-has-many-deep,PHP,55
 174021137,inertiajs/pingcrm,PHP,19
 36526302,pentestmonkey/php-reverse-shell,PHP,11
-333209627,stripe-samples/accept-a-payment,PHP,3
+333209627,stripe-samples/accept-a-payment,PHP,4
