@@ -4,7 +4,7 @@ id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,7
 1090311,elastic/logstash,Ruby,0
 106995,sinatra/sinatra,Ruby,1
-3314,spree/spree,Ruby,6
+3314,spree/spree,Ruby,5
 18486300,lewagon/setup,Ruby,7
 1918677,fluent/fluentd,Ruby,2
 96395,faker-ruby/faker,Ruby,2
@@ -17,7 +17,7 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,4
 1462,ctran/annotate_models,Ruby,0
 38867,svenfuchs/rails-i18n,Ruby,0
-39706711,hartator/wayback-machine-downloader,Ruby,83
+39706711,hartator/wayback-machine-downloader,Ruby,85
 1172597,thoughtbot/shoulda-matchers,Ruby,0
 26094060,logstash-plugins/logstash-patterns-core,Ruby,1
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,1
