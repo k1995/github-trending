@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,147
-126577260,trekhleb/javascript-algorithms,JavaScript,355
-112507086,30-seconds/30-seconds-of-code,JavaScript,371
-63539055,jaywcjlove/awesome-mac,JavaScript,511
-15634981,godotengine/godot,C++,65
-16563587,cockroachdb/cockroach,Go,154
-4524181,facebook/folly,C++,94
-196353673,taosdata/TDengine,C,54
-277168957,eugeneyan/applied-ml,,251
-348651746,chefyuan/algorithm-base,Java,483
-281703360,taowen/awesome-lowcode,,115
-283410102,sogou/workflow,C++,58
-86140645,Jack-Cherish/Machine-Learning,Python,128
-237940592,dromara/Sa-Token,Java,173
-344192338,microsoft/IoT-For-Beginners,C++,795
-371881380,AkashSingh3031/The-Complete-FAANG-Preparation,Jupyter Notebook,92
+21540759,avelino/awesome-go,Go,87
+63539055,jaywcjlove/awesome-mac,JavaScript,508
+206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Java,84
+130464961,sharkdp/bat,Rust,41
+173228436,NationalSecurityAgency/ghidra,Java,85
+4524181,facebook/folly,C++,95
+165041732,go-kratos/kratos,Go,41
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,764
+348651746,chefyuan/algorithm-base,Java,460
+208728772,milvus-io/milvus,Go,14
+738491,facebook/facebook-ios-sdk,Objective-C,3
+237940592,dromara/Sa-Token,Java,171
+344192338,microsoft/IoT-For-Beginners,C++,673
+371881380,AkashSingh3031/The-Complete-FAANG-Preparation,Jupyter Notebook,84
+334274271,opensearch-project/OpenSearch,Java,42
+268147152,bndw/wifi-card,JavaScript,443
 229694643,fenixsoft/awesome-fenix,Vue,229
-276437122,austinhuang0131/barinsta,Java,21
-281765424,microsoft/CBL-Mariner,Go,87
-338028961,Sangwan5688/BlackHole,Dart,130
-384722773,Supercycled/cake_sniper,Go,67
-375563752,shufflewzc/faker2,JavaScript,67
-384535815,alura-challenges/alurakut,JavaScript,110
-384451028,cloudwego/kitex,Go,73
-374607129,AstraZeneca/awesome-explainable-graph-reasoning,,176
+347502287,kingoflolz/mesh-transformer-jax,Python,31
+204380779,PaddlePaddle/PaddleSeg,Python,60
+281765424,microsoft/CBL-Mariner,Go,76
+349321229,TencentARC/GFPGAN,Python,111
+384769357,0vercl0k/wtf,C++,96
+384940197,smiek2221/scripts,JavaScript,32
+385269906,JustYoomoon/WechatDecrypt,C++,26
+362059999,Aaron-lv/sync,,16
