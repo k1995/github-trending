@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
-7569578,discourse/discourse,Ruby,9
+8514,rails/rails,Ruby,9
+7569578,discourse/discourse,Ruby,11
 27442967,fastlane/fastlane,Ruby,6
-37382858,kilimchoi/engineering-blogs,Ruby,5
-1090311,elastic/logstash,Ruby,3
+37382858,kilimchoi/engineering-blogs,Ruby,72
+1090311,elastic/logstash,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
 3314,spree/spree,Ruby,0
 3195124,mperham/sidekiq,Ruby,0
-202291859,chatwoot/chatwoot,Ruby,5
+202291859,chatwoot/chatwoot,Ruby,4
 96395,faker-ruby/faker,Ruby,1
-611921,activeadmin/activeadmin,Ruby,1
+611921,activeadmin/activeadmin,Ruby,2
 47087,carrierwaveuploader/carrierwave,Ruby,0
-2441517,puma/puma,Ruby,1
+2441517,puma/puma,Ruby,2
 535266,vcr/vcr,Ruby,2
 2889230,rails-api/active_model_serializers,Ruby,0
 6899875,opf/openproject,Ruby,2
