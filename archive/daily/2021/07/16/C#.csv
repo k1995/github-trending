@@ -1,10 +1,10 @@
 id,name,lang,new stars
 17620347,dotnet/aspnetcore,C#,14
 38380854,dnSpy/dnSpy,C#,10
-70104825,dotnet-architecture/eShopOnContainers,C#,8
+70104825,dotnet-architecture/eShopOnContainers,C#,9
 102904613,Unity-Technologies/ml-agents,C#,2
-161012019,jellyfin/jellyfin,C#,16
-262395224,dotnet/maui,C#,16
+161012019,jellyfin/jellyfin,C#,12
+262395224,dotnet/maui,C#,14
 28239455,dotnet/AspNetCore.Docs,C#,3
 22456440,ppy/osu,C#,7
 75990888,dotnet/csharplang,C#,4
@@ -13,14 +13,14 @@ id,name,lang,new stars
 50605426,microsoft/MixedRealityToolkit-Unity,C#,2
 224109382,ant-design-blazor/ant-design-blazor,C#,3
 23891194,Azure/azure-powershell,C#,1
-304230333,BluePointLilac/ContextMenuManager,C#,27
+304230333,BluePointLilac/ContextMenuManager,C#,28
 2928944,Azure/azure-sdk-for-net,C#,3
-142192459,GhostPack/Seatbelt,C#,10
-268367789,builtbybel/privatezilla,C#,12
+142192459,GhostPack/Seatbelt,C#,7
+268367789,builtbybel/privatezilla,C#,15
 324473895,leiurayer/downkyi,C#,30
-252826419,Unity-Technologies/Graphics,C#,6
-170942990,dotnet/format,C#,2
-228286558,FastTunnel/FastTunnel,C#,22
+252826419,Unity-Technologies/Graphics,C#,5
+170942990,dotnet/format,C#,3
+228286558,FastTunnel/FastTunnel,C#,23
 241248985,AzureAD/microsoft-identity-web,C#,1
-372002213,fluentpos/fluentpos,C#,6
+372002213,fluentpos/fluentpos,C#,5
 385009417,wlgys8/GPUDrivenTerrainLearn,C#,6

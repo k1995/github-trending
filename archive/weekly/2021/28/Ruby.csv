@@ -1,11 +1,11 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,48
-7569578,discourse/discourse,Ruby,56
-2293158,rapid7/metasploit-framework,Ruby,83
-52281283,mastodon/mastodon,Ruby,40
-481872,hashicorp/vagrant,Ruby,41
+7569578,discourse/discourse,Ruby,55
+2293158,rapid7/metasploit-framework,Ruby,82
+52281283,mastodon/mastodon,Ruby,38
+481872,hashicorp/vagrant,Ruby,40
 308770,heartcombo/devise,Ruby,16
-37382858,kilimchoi/engineering-blogs,Ruby,250
+37382858,kilimchoi/engineering-blogs,Ruby,252
 3314,spree/spree,Ruby,21
 18486300,lewagon/setup,Ruby,150
 1918677,fluent/fluentd,Ruby,23
@@ -17,10 +17,10 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,19
 30985840,solidusio/solidus,Ruby,13
 3842593,ruby-china/homeland,Ruby,10
-39706711,hartator/wayback-machine-downloader,Ruby,503
+39706711,hartator/wayback-machine-downloader,Ruby,504
 1172597,thoughtbot/shoulda-matchers,Ruby,7
 614070,rubygems/rubygems,Ruby,7
-103766152,github/explore,Ruby,23
+103766152,github/explore,Ruby,21
 161399160,Shopify/shopify-cli,Ruby,10
-342023294,tenderlove/fisk,Ruby,25
+342023294,tenderlove/fisk,Ruby,22
 66497320,DataDog/dd-trace-rb,Ruby,0
