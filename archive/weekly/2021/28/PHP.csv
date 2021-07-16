@@ -2,9 +2,9 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,110
 3482588,danielmiessler/SecLists,PHP,115
 458058,symfony/symfony,PHP,40
-7548986,laravel/framework,PHP,66
+7548986,laravel/framework,PHP,67
 2889328,WordPress/WordPress,PHP,26
-60243197,nextcloud/server,PHP,56
+60243197,nextcloud/server,PHP,58
 3431193,yiisoft/yii2,PHP,9
 47495360,koel/koel,PHP,25
 7704544,Intervention/image,PHP,24
@@ -12,7 +12,7 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,18
 2179920,woocommerce/woocommerce,PHP,20
 10883164,barryvdh/laravel-dompdf,PHP,27
-12204147,mautic/mautic,PHP,19
+12204147,mautic/mautic,PHP,20
 222873550,bytefury/crater,PHP,23
 145865941,laravel/telescope,PHP,11
 60010673,elementor/elementor,PHP,17
