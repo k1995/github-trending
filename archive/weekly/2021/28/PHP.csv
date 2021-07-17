@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,98
+1863329,laravel/laravel,PHP,99
 458058,symfony/symfony,PHP,34
-7548986,laravel/framework,PHP,61
+7548986,laravel/framework,PHP,62
 60243197,nextcloud/server,PHP,55
 3431193,yiisoft/yii2,PHP,8
 7704544,Intervention/image,PHP,18
@@ -14,9 +14,9 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,27
 12204147,mautic/mautic,PHP,16
 222873550,bytefury/crater,PHP,20
-60010673,elementor/elementor,PHP,18
+60010673,elementor/elementor,PHP,19
 4380514,Audi-1/sqli-labs,PHP,32
-38116958,php-telegram-bot/core,PHP,14
+38116958,php-telegram-bot/core,PHP,15
 6495081,wikimedia/mediawiki,PHP,15
 74026995,CodelyTV/php-ddd-example,PHP,14
 141720301,dr5hn/countries-states-cities-database,PHP,40
