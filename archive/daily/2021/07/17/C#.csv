@@ -3,12 +3,12 @@ id,name,lang,new stars
 38380854,dnSpy/dnSpy,C#,10
 70104825,dotnet-architecture/eShopOnContainers,C#,9
 102904613,Unity-Technologies/ml-agents,C#,3
-161012019,jellyfin/jellyfin,C#,11
-262395224,dotnet/maui,C#,13
+161012019,jellyfin/jellyfin,C#,10
+262395224,dotnet/maui,C#,12
 28239455,dotnet/AspNetCore.Docs,C#,3
 22456440,ppy/osu,C#,7
 75990888,dotnet/csharplang,C#,3
-165548191,carlospolop/PEASS-ng,C#,7
+165548191,carlospolop/PEASS-ng,C#,8
 26884725,OrchardCMS/OrchardCore,C#,6
 50605426,microsoft/MixedRealityToolkit-Unity,C#,2
 224109382,ant-design-blazor/ant-design-blazor,C#,3
@@ -18,7 +18,7 @@ id,name,lang,new stars
 142192459,GhostPack/Seatbelt,C#,7
 268367789,builtbybel/privatezilla,C#,14
 324473895,leiurayer/downkyi,C#,30
-252826419,Unity-Technologies/Graphics,C#,6
+252826419,Unity-Technologies/Graphics,C#,5
 170942990,dotnet/format,C#,2
 228286558,FastTunnel/FastTunnel,C#,23
 241248985,AzureAD/microsoft-identity-web,C#,1
