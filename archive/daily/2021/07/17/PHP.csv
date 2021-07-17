@@ -1,7 +1,7 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,5
 1864363,composer/composer,PHP,7
-7548986,laravel/framework,PHP,7
+7548986,laravel/framework,PHP,8
 448045,sebastianbergmann/phpunit,PHP,4
 72069409,the-control-group/voyager,PHP,0
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,5
@@ -15,12 +15,12 @@ id,name,lang,new stars
 5508585,YOURLS/YOURLS,PHP,1
 2179920,woocommerce/woocommerce,PHP,3
 7550057,doctrine/cache,PHP,2
-9131292,jenssegers/laravel-mongodb,PHP,2
+9131292,jenssegers/laravel-mongodb,PHP,3
 14346979,snipe/snipe-it,PHP,4
 74386167,vimeo/psalm,PHP,0
-95011974,akaunting/akaunting,PHP,5
+95011974,akaunting/akaunting,PHP,4
 3817881,zircote/swagger-php,PHP,1
 18842338,facebookarchive/php-graph-sdk,PHP,1
 6495081,wikimedia/mediawiki,PHP,1
-69691727,pmmp/PocketMine-MP,PHP,2
+69691727,pmmp/PocketMine-MP,PHP,3
 166299071,archtechx/tenancy,PHP,2
