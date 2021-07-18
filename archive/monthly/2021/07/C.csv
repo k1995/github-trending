@@ -1,6 +1,6 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1835
-111583593,Genymobile/scrcpy,C,1688
+2325298,torvalds/linux,C,1838
+111583593,Genymobile/scrcpy,C,1690
 156018,redis/redis,C,617
 36502,git/git,C,400
 1614410,FFmpeg/FFmpeg,C,368
@@ -11,8 +11,8 @@ id,name,lang,new stars
 37912398,nginx/nginx,C,198
 18496166,gentilkiwi/mimikatz,C,775
 927442,postgres/postgres,C,196
-9524997,glfw/glfw,C,136
-32921736,audacity/audacity,C,720
+9524997,glfw/glfw,C,137
+32921736,audacity/audacity,C,723
 4151993,OpenVPN/openvpn,C,97
 7408108,RT-Thread/rt-thread,C,130
 3791835,darktable-org/darktable,C,243
@@ -21,6 +21,6 @@ id,name,lang,new stars
 27788471,mgba-emu/mgba,C,209
 1613176,tianocore/edk2,C,62
 127023441,NVIDIA/cuda-samples,C,52
-194269070,skyline-emu/skyline,C,92
+194269070,skyline-emu/skyline,C,93
 376525310,cariboulabs/cariboulite,C,621
 51990771,ARM-software/CMSIS_5,C,50
