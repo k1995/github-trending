@@ -1,11 +1,11 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,15
 27442967,fastlane/fastlane,Ruby,9
-8681349,huginn/huginn,Ruby,7
-53238813,Homebrew/brew,Ruby,13
+8681349,huginn/huginn,Ruby,10
+53238813,Homebrew/brew,Ruby,16
 481872,hashicorp/vagrant,Ruby,14
 308770,heartcombo/devise,Ruby,2
-37382858,kilimchoi/engineering-blogs,Ruby,24
+37382858,kilimchoi/engineering-blogs,Ruby,28
 3623050,Homebrew/homebrew-cask,Ruby,4
 538746,ruby/ruby,Ruby,4
 4095287,rubocop/rubocop,Ruby,2
@@ -13,14 +13,14 @@ id,name,lang,new stars
 3195124,mperham/sidekiq,Ruby,1
 1918677,fluent/fluentd,Ruby,5
 202291859,chatwoot/chatwoot,Ruby,28
-451035,heartcombo/simple_form,Ruby,0
+451035,heartcombo/simple_form,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,2
-2441517,puma/puma,Ruby,3
+2441517,puma/puma,Ruby,4
 108278,chef/chef,Ruby,2
 26018608,github-changelog-generator/github-changelog-generator,Ruby,3
-16994115,CanCanCommunity/cancancan,Ruby,3
+16994115,CanCanCommunity/cancancan,Ruby,4
 143489,DatabaseCleaner/database_cleaner,Ruby,0
 3898922,zammad/zammad,Ruby,2
 2725544,CocoaPods/Xcodeproj,Ruby,0
-1764724,ClosureTree/closure_tree,Ruby,3
+1764724,ClosureTree/closure_tree,Ruby,4
 3276877,ThrowTheSwitch/Ceedling,Ruby,1
