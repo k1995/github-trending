@@ -1,11 +1,11 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,30
+3482588,danielmiessler/SecLists,PHP,32
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,7
 82238168,monicahq/monica,PHP,6
-12615154,barryvdh/laravel-debugbar,PHP,11
+12615154,barryvdh/laravel-debugbar,PHP,12
 7704544,Intervention/image,PHP,3
 14259390,Maatwebsite/Laravel-Excel,PHP,3
-29843361,w7corp/easywechat,PHP,0
+29843361,w7corp/easywechat,PHP,1
 15020102,walkor/Workerman,PHP,4
 9193949,wallabag/wallabag,PHP,12
 4551765,thephpleague/oauth2-server,PHP,1
@@ -17,7 +17,7 @@ id,name,lang,new stars
 182349597,jqhph/dcat-admin,PHP,1
 69691727,pmmp/PocketMine-MP,PHP,4
 57961433,openmediavault/openmediavault,PHP,4
-144549569,luolongfei/freenom,PHP,3
+144549569,luolongfei/freenom,PHP,4
 143975804,LycheeOrg/Lychee,PHP,5
 36526302,pentestmonkey/php-reverse-shell,PHP,5
 75645659,WordPress/wordpress-develop,PHP,4
