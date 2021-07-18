@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,1308
-126577260,trekhleb/javascript-algorithms,JavaScript,1979
-6498492,airbnb/javascript,JavaScript,1081
-112507086,30-seconds/30-seconds-of-code,JavaScript,1773
-100060912,microsoft/terminal,C++,557
-21540759,avelino/awesome-go,Go,584
+13491895,EbookFoundation/free-programming-books,,1316
+126577260,trekhleb/javascript-algorithms,JavaScript,1984
+6498492,airbnb/javascript,JavaScript,1082
+112507086,30-seconds/30-seconds-of-code,JavaScript,1775
+100060912,microsoft/terminal,C++,601
+21540759,avelino/awesome-go,Go,587
 612230,nvm-sh/nvm,Shell,251
 51980455,alacritty/alacritty,Rust,160
-59996401,YMFE/yapi,JavaScript,244
-67702184,topjohnwu/Magisk,C++,218
-4524181,facebook/folly,C++,482
+71220757,swisskyrepo/PayloadsAllTheThings,Python,1689
+67702184,topjohnwu/Magisk,C++,217
+4524181,facebook/folly,C++,485
 312262,philc/vimium,JavaScript,315
-165041732,go-kratos/kratos,Go,738
-1062572,catchorg/Catch2,C++,106
-228016443,youngyangyang04/leetcode-master,,442
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3879
-21405028,ardanlabs/gotraining,Go,155
-4165675,smicallef/spiderfoot,Python,93
-227803815,returntocorp/semgrep,Java,293
-237940592,dromara/Sa-Token,Java,869
-145050544,ChristianChiarulli/LunarVim,Lua,215
+165041732,go-kratos/kratos,Go,742
+228016443,youngyangyang04/leetcode-master,,451
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3902
+21405028,ardanlabs/gotraining,Go,157
+89266735,facebookresearch/ParlAI,Python,234
+4165675,smicallef/spiderfoot,Python,96
+344192338,microsoft/IoT-For-Beginners,C++,5177
+283410102,sogou/workflow,C++,273
+237940592,dromara/Sa-Token,Java,878
 221723816,WZMIAOMIAO/deep-learning-for-image-processing,Python,121
-334274271,opensearch-project/OpenSearch,Java,617
+334274271,opensearch-project/OpenSearch,Java,629
 244131497,TheAlphamerc/flutter_ecommerce_app,Dart,230
-281170954,spring-projects/spring-graphql,Java,165
+381498685,RosettaCommons/RoseTTAFold,Python,532
