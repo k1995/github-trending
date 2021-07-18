@@ -1,9 +1,9 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,4
 1864363,composer/composer,PHP,3
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,5
-2253830,PHPMailer/PHPMailer,PHP,9
-60243197,nextcloud/server,PHP,10
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,7
+2253830,PHPMailer/PHPMailer,PHP,10
+60243197,nextcloud/server,PHP,11
 61490598,PHPOffice/PhpSpreadsheet,PHP,2
 2884111,magento/magento2,PHP,2
 656494,cakephp/cakephp,PHP,2
@@ -13,7 +13,7 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,4
 12204147,mautic/mautic,PHP,0
 9826184,elastic/elasticsearch-php,PHP,0
-158374929,beyondcode/laravel-websockets,PHP,3
+158374929,beyondcode/laravel-websockets,PHP,4
 159606650,hyperf/hyperf,PHP,2
 38200433,jeroennoten/Laravel-AdminLTE,PHP,6
 13914116,librenms/librenms,PHP,3

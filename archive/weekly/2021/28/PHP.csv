@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,99
+1863329,laravel/laravel,PHP,101
 7548986,laravel/framework,PHP,63
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,18
-2253830,PHPMailer/PHPMailer,PHP,41
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,20
+2253830,PHPMailer/PHPMailer,PHP,42
 53783664,easychen/howto-make-more-money,PHP,27
-60243197,nextcloud/server,PHP,57
+60243197,nextcloud/server,PHP,58
 12615154,barryvdh/laravel-debugbar,PHP,39
 7704544,Intervention/image,PHP,21
 49014795,phpstan/phpstan,PHP,26
 2884111,magento/magento2,PHP,18
-5508585,YOURLS/YOURLS,PHP,19
+5508585,YOURLS/YOURLS,PHP,20
 2179920,woocommerce/woocommerce,PHP,24
 14346979,snipe/snipe-it,PHP,28
 10883164,barryvdh/laravel-dompdf,PHP,30
@@ -17,10 +17,10 @@ id,name,lang,new stars
 222873550,bytefury/crater,PHP,20
 60010673,elementor/elementor,PHP,19
 4380514,Audi-1/sqli-labs,PHP,35
-38116958,php-telegram-bot/core,PHP,15
+38116958,php-telegram-bot/core,PHP,16
 6495081,wikimedia/mediawiki,PHP,15
 74026995,CodelyTV/php-ddd-example,PHP,16
 141720301,dr5hn/countries-states-cities-database,PHP,40
 174021137,inertiajs/pingcrm,PHP,19
 36526302,pentestmonkey/php-reverse-shell,PHP,12
-274180401,MedicOneSystems/livewire-datatables,PHP,13
+274180401,MedicOneSystems/livewire-datatables,PHP,14
