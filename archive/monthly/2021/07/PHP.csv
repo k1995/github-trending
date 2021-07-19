@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,451
-458058,symfony/symfony,PHP,158
-1864363,composer/composer,PHP,133
-7548986,laravel/framework,PHP,236
+1863329,laravel/laravel,PHP,455
+458058,symfony/symfony,PHP,159
+1864363,composer/composer,PHP,134
+7548986,laravel/framework,PHP,238
 1376664,Seldaek/monolog,PHP,102
 2253830,PHPMailer/PHPMailer,PHP,146
 2889328,WordPress/WordPress,PHP,110
-60243197,nextcloud/server,PHP,248
+60243197,nextcloud/server,PHP,249
 13899674,thephpleague/flysystem,PHP,68
-7704544,Intervention/image,PHP,78
+7704544,Intervention/image,PHP,79
 4702560,PHPOffice/PHPExcel,PHP,22
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,99
-61490598,PHPOffice/PhpSpreadsheet,PHP,126
-14259390,Maatwebsite/Laravel-Excel,PHP,120
+61490598,PHPOffice/PhpSpreadsheet,PHP,127
+14259390,Maatwebsite/Laravel-Excel,PHP,121
 2884111,magento/magento2,PHP,59
 93580,swiftmailer/swiftmailer,PHP,32
 79111500,jupeter/clean-code-php,PHP,132
@@ -23,4 +23,4 @@ id,name,lang,new stars
 139191005,nunomaduro/larastan,PHP,250
 69691727,pmmp/PocketMine-MP,PHP,43
 17253775,zabbix/zabbix,PHP,76
-141720301,dr5hn/countries-states-cities-database,PHP,172
+141720301,dr5hn/countries-states-cities-database,PHP,174
