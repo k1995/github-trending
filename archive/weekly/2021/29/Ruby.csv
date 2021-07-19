@@ -2,7 +2,7 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,56
 65252,jekyll/jekyll,Ruby,52
 27442967,fastlane/fastlane,Ruby,47
-308770,heartcombo/devise,Ruby,18
+308770,heartcombo/devise,Ruby,19
 37382858,kilimchoi/engineering-blogs,Ruby,283
 1090311,elastic/logstash,Ruby,11
 4095287,rubocop/rubocop,Ruby,12
@@ -19,8 +19,8 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,18
 30985840,solidusio/solidus,Ruby,17
 39706711,hartator/wayback-machine-downloader,Ruby,522
-1172597,thoughtbot/shoulda-matchers,Ruby,7
-103766152,github/explore,Ruby,20
+1172597,thoughtbot/shoulda-matchers,Ruby,8
+103766152,github/explore,Ruby,21
 26094060,logstash-plugins/logstash-patterns-core,Ruby,40
 161399160,Shopify/shopify-cli,Ruby,12
 66497320,DataDog/dd-trace-rb,Ruby,0
