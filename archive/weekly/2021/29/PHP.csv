@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,117
-7548986,laravel/framework,PHP,71
-60243197,nextcloud/server,PHP,64
+1863329,laravel/laravel,PHP,120
+7548986,laravel/framework,PHP,72
+60243197,nextcloud/server,PHP,65
 12615154,barryvdh/laravel-debugbar,PHP,42
 7704544,Intervention/image,PHP,21
 8678290,barryvdh/laravel-ide-helper,PHP,33
-1305114,roots/sage,PHP,20
+1305114,roots/sage,PHP,21
 49014795,phpstan/phpstan,PHP,27
-2884111,magento/magento2,PHP,19
+2884111,magento/magento2,PHP,20
 2699935,squizlabs/PHP_CodeSniffer,PHP,22
 5508585,YOURLS/YOURLS,PHP,19
-2179920,woocommerce/woocommerce,PHP,25
+2179920,woocommerce/woocommerce,PHP,27
 14346979,snipe/snipe-it,PHP,29
 10883164,barryvdh/laravel-dompdf,PHP,31
 145865941,laravel/telescope,PHP,11
@@ -21,6 +21,6 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,14
 74026995,CodelyTV/php-ddd-example,PHP,17
 141720301,dr5hn/countries-states-cities-database,PHP,43
-174021137,inertiajs/pingcrm,PHP,19
+174021137,inertiajs/pingcrm,PHP,20
 36526302,pentestmonkey/php-reverse-shell,PHP,13
 274180401,MedicOneSystems/livewire-datatables,PHP,15
