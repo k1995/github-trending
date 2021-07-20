@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,704
-126577260,trekhleb/javascript-algorithms,JavaScript,1133
-63476337,TheAlgorithms/Python,Python,1184
+126577260,trekhleb/javascript-algorithms,JavaScript,1067
+63476337,TheAlgorithms/Python,Python,1307
 6498492,airbnb/javascript,JavaScript,554
-112507086,30-seconds/30-seconds-of-code,JavaScript,1002
-100060912,microsoft/terminal,C++,618
-21540759,avelino/awesome-go,Go,617
-612230,nvm-sh/nvm,Shell,231
-51980455,alacritty/alacritty,Rust,150
-173228436,NationalSecurityAgency/ghidra,Java,505
-16563587,cockroachdb/cockroach,Go,357
-4524181,facebook/folly,C++,453
-165041732,go-kratos/kratos,Go,487
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3292
-21405028,ardanlabs/gotraining,Go,118
-738491,facebook/facebook-ios-sdk,Objective-C,63
-90916769,laynH/Anime-Girls-Holding-Programming-Books,,484
-344192338,microsoft/IoT-For-Beginners,C++,3947
-348060227,snowpackjs/astro,TypeScript,1626
-283410102,sogou/workflow,C++,334
-237940592,dromara/Sa-Token,Java,957
-334274271,opensearch-project/OpenSearch,Java,661
-244131497,TheAlphamerc/flutter_ecommerce_app,Dart,166
-381498685,RosettaCommons/RoseTTAFold,Python,694
-375563752,shufflewzc/faker2,JavaScript,285
+100060912,microsoft/terminal,C++,617
+21540759,avelino/awesome-go,Go,630
+173228436,NationalSecurityAgency/ghidra,Java,502
+246335987,ventoy/Ventoy,C,790
+4524181,facebook/folly,C++,445
+16072585,phoenixframework/phoenix,Elixir,45
+165041732,go-kratos/kratos,Go,491
+54400687,grafana/k6,Go,169
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3134
+21405028,ardanlabs/gotraining,Go,120
+348651746,chefyuan/algorithm-base,Java,1198
+90916769,laynH/Anime-Girls-Holding-Programming-Books,,398
+4165675,smicallef/spiderfoot,Python,113
+344192338,microsoft/IoT-For-Beginners,C++,3564
+348060227,snowpackjs/astro,TypeScript,1706
+237940592,dromara/Sa-Token,Java,972
+268147152,bndw/wifi-card,JavaScript,2441
+231891986,org-roam/org-roam,Emacs Lisp,39
+334274271,opensearch-project/OpenSearch,Java,621
+281765424,microsoft/CBL-Mariner,Go,766
+381498685,RosettaCommons/RoseTTAFold,Python,718
+375563752,shufflewzc/faker2,JavaScript,242
