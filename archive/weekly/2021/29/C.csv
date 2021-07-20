@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1614410,FFmpeg/FFmpeg,C,99
+1614410,FFmpeg/FFmpeg,C,98
 1357796,emscripten-core/emscripten,C,45
-246335987,ventoy/Ventoy,C,857
+246335987,ventoy/Ventoy,C,877
 14812739,libuv/libuv,C,42
-102578345,coolsnowwolf/lede,C,137
+102578345,coolsnowwolf/lede,C,136
 196353673,taosdata/TDengine,C,124
-3784017,alibaba/tengine,C,50
+3784017,alibaba/tengine,C,47
 27737393,qmk/qmk_firmware,C,51
 41215835,HandBrake/HandBrake,C,76
 1856976,libevent/libevent,C,29
@@ -13,7 +13,7 @@ id,name,lang,new stars
 70127218,espressif/arduino-esp32,C,26
 65899476,espressif/esp-idf,C,34
 6041301,sumatrapdfreader/sumatrapdf,C,62
-60667730,lvgl/lvgl,C,94
+60667730,lvgl/lvgl,C,95
 16734696,meetecho/janus-gateway,C,22
 203957456,Tencent/TencentOS-tiny,C,25
 38617,sqlcipher/sqlcipher,C,13
@@ -22,5 +22,5 @@ id,name,lang,new stars
 115765590,OAID/Tengine,C,75
 1613176,tianocore/edk2,C,20
 3276860,ThrowTheSwitch/Unity,C,12
-194269070,skyline-emu/skyline,C,29
-226167620,JF002/InfiniTime,C,32
+194269070,skyline-emu/skyline,C,28
+226167620,JF002/InfiniTime,C,33
