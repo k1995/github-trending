@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,433
+1863329,laravel/laravel,PHP,434
 458058,symfony/symfony,PHP,160
 1864363,composer/composer,PHP,127
 7548986,laravel/framework,PHP,234
 1376664,Seldaek/monolog,PHP,100
-2253830,PHPMailer/PHPMailer,PHP,139
-2889328,WordPress/WordPress,PHP,115
+2253830,PHPMailer/PHPMailer,PHP,140
+2889328,WordPress/WordPress,PHP,116
 60243197,nextcloud/server,PHP,233
 12615154,barryvdh/laravel-debugbar,PHP,123
-13899674,thephpleague/flysystem,PHP,65
+13899674,thephpleague/flysystem,PHP,66
 7704544,Intervention/image,PHP,72
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,105
 14259390,Maatwebsite/Laravel-Excel,PHP,112
@@ -21,6 +21,6 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,84
 4380514,Audi-1/sqli-labs,PHP,82
 8077402,MISP/MISP,PHP,45
-139191005,nunomaduro/larastan,PHP,276
+139191005,nunomaduro/larastan,PHP,277
 69691727,pmmp/PocketMine-MP,PHP,42
-141720301,dr5hn/countries-states-cities-database,PHP,168
+141720301,dr5hn/countries-states-cities-database,PHP,170
