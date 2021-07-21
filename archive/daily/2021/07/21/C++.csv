@@ -1,14 +1,14 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,58
+45717250,tensorflow/tensorflow,C++,57
 5108051,opencv/opencv,C++,13
-22887094,tesseract-ocr/tesseract,C++,38
+22887094,tesseract-ocr/tesseract,C++,36
 11171548,nlohmann/json,C++,15
-65214191,envoyproxy/envoy,C++,15
-19953044,google/flatbuffers,C++,4
-33014811,notepad-plus-plus/notepad-plus-plus,C++,10
-1062572,catchorg/Catch2,C++,4
+65214191,envoyproxy/envoy,C++,14
+19953044,google/flatbuffers,C++,5
+33014811,notepad-plus-plus/notepad-plus-plus,C++,8
+1062572,catchorg/Catch2,C++,3
 90902132,flameshot-org/flameshot,C++,28
-26038648,gabime/spdlog,C++,11
+26038648,gabime/spdlog,C++,13
 102692863,onnx/onnx,C++,9
 3925242,bkaradzic/bgfx,C++,9
 161292091,Tencent/matrix,C++,13
@@ -16,7 +16,7 @@ id,name,lang,new stars
 108102826,carla-simulator/carla,C++,1
 104623696,Ewenwan/MVision,C++,2
 15122806,google/benchmark,C++,4
-283410102,sogou/workflow,C++,33
+283410102,sogou/workflow,C++,32
 75413130,intel-isl/Open3D,C++,12
 6083843,progschj/ThreadPool,C++,2
 86897963,ZLMediaKit/ZLMediaKit,C++,12
