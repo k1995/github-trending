@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,5
+8514,rails/rails,Ruby,4
 7569578,discourse/discourse,Ruby,9
-27442967,fastlane/fastlane,Ruby,9
+27442967,fastlane/fastlane,Ruby,8
 8681349,huginn/huginn,Ruby,9
-73648678,forem/forem,Ruby,42
+73648678,forem/forem,Ruby,41
 1090311,elastic/logstash,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
 3195124,mperham/sidekiq,Ruby,2
@@ -13,14 +13,14 @@ id,name,lang,new stars
 865250,presidentbeef/brakeman,Ruby,1
 5160706,bkeepers/dotenv,Ruby,1
 11412473,ankane/searchkick,Ruby,3
-1021040,sj26/mailcatcher,Ruby,4
-33739333,thoughtbot/administrate,Ruby,1
+1021040,sj26/mailcatcher,Ruby,3
+33739333,thoughtbot/administrate,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,2
 507,sferik/twitter,Ruby,1
 200302808,github/view_component,Ruby,2
-189010173,Hackplayers/evil-winrm,Ruby,4
-61203,Shopify/shopify_app,Ruby,3
+189010173,Hackplayers/evil-winrm,Ruby,6
+61203,Shopify/shopify_app,Ruby,4
 17228890,Shopify/shipit-engine,Ruby,0
 32104924,rails/sprockets,Ruby,0
 644899,onelogin/ruby-saml,Ruby,0
-161399160,Shopify/shopify-cli,Ruby,2
+161399160,Shopify/shopify-cli,Ruby,3
