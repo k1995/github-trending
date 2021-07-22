@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,4
-7569578,discourse/discourse,Ruby,8
-27442967,fastlane/fastlane,Ruby,13
+7569578,discourse/discourse,Ruby,9
+27442967,fastlane/fastlane,Ruby,15
 13840241,freeCodeCamp/devdocs,Ruby,11
-2293158,rapid7/metasploit-framework,Ruby,20
-73648678,forem/forem,Ruby,22
+2293158,rapid7/metasploit-framework,Ruby,18
+73648678,forem/forem,Ruby,24
 2203645,CocoaPods/CocoaPods,Ruby,3
-3314,spree/spree,Ruby,2
+3314,spree/spree,Ruby,3
 3195124,mperham/sidekiq,Ruby,3
 1918677,fluent/fluentd,Ruby,4
 96395,faker-ruby/faker,Ruby,3
@@ -14,13 +14,13 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,4
 75785147,rails/webpacker,Ruby,1
 5219382,rack/rack-attack,Ruby,3
-30337170,rmosolgo/graphql-ruby,Ruby,1
-839336,simplecov-ruby/simplecov,Ruby,1
-115859973,ddnexus/pagy,Ruby,2
+30337170,rmosolgo/graphql-ruby,Ruby,2
+839336,simplecov-ruby/simplecov,Ruby,2
+115859973,ddnexus/pagy,Ruby,3
 614070,rubygems/rubygems,Ruby,1
 3277842,googleapis/google-api-ruby-client,Ruby,1
-190878115,CombineCommunity/rxswift-to-combine-cheatsheet,Ruby,1
+190878115,CombineCommunity/rxswift-to-combine-cheatsheet,Ruby,0
 49878403,zendesk/ruby-kafka,Ruby,1
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,1
 356878986,TrashUwU/PokeAssistant,Ruby,11
-644899,onelogin/ruby-saml,Ruby,0
+644899,onelogin/ruby-saml,Ruby,1
