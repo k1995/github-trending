@@ -1,17 +1,17 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,4
 7569578,discourse/discourse,Ruby,9
-27442967,fastlane/fastlane,Ruby,8
-8681349,huginn/huginn,Ruby,9
-73648678,forem/forem,Ruby,41
+27442967,fastlane/fastlane,Ruby,7
+8681349,huginn/huginn,Ruby,7
+73648678,forem/forem,Ruby,35
 1090311,elastic/logstash,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
-3195124,mperham/sidekiq,Ruby,2
+3195124,mperham/sidekiq,Ruby,4
 47087,carrierwaveuploader/carrierwave,Ruby,0
 810796,sferik/rails_admin,Ruby,1
-21829,thoughtbot/factory_bot,Ruby,3
+21829,thoughtbot/factory_bot,Ruby,2
 865250,presidentbeef/brakeman,Ruby,1
-5160706,bkeepers/dotenv,Ruby,1
+5160706,bkeepers/dotenv,Ruby,2
 11412473,ankane/searchkick,Ruby,3
 1021040,sj26/mailcatcher,Ruby,3
 33739333,thoughtbot/administrate,Ruby,0
