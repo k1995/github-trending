@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,42
-65252,jekyll/jekyll,Ruby,52
+65252,jekyll/jekyll,Ruby,55
 7569578,discourse/discourse,Ruby,55
 8681349,huginn/huginn,Ruby,60
-53238813,Homebrew/brew,Ruby,90
-481872,hashicorp/vagrant,Ruby,44
-37382858,kilimchoi/engineering-blogs,Ruby,108
-73648678,forem/forem,Ruby,110
-3195124,mperham/sidekiq,Ruby,15
+53238813,Homebrew/brew,Ruby,92
+481872,hashicorp/vagrant,Ruby,45
+37382858,kilimchoi/engineering-blogs,Ruby,109
+73648678,forem/forem,Ruby,112
+3195124,mperham/sidekiq,Ruby,16
 202291859,chatwoot/chatwoot,Ruby,75
-15435,Shopify/liquid,Ruby,14
-6688319,DeathKing/Learning-SICP,Ruby,48
+15435,Shopify/liquid,Ruby,15
+6688319,DeathKing/Learning-SICP,Ruby,49
 21829,thoughtbot/factory_bot,Ruby,13
 2441517,puma/puma,Ruby,6
 2889230,rails-api/active_model_serializers,Ruby,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 61203,Shopify/shopify_app,Ruby,5
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,10
 225463,Shopify/shopify_api,Ruby,3
-161399160,Shopify/shopify-cli,Ruby,9
+161399160,Shopify/shopify-cli,Ruby,11
