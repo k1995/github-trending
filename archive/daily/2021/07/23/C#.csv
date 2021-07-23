@@ -1,12 +1,12 @@
 id,name,lang,new stars
 7600409,shadowsocks/shadowsocks-windows,C#,8
-49609581,PowerShell/PowerShell,C#,16
-70104825,dotnet-architecture/eShopOnContainers,C#,13
-28239455,dotnet/AspNetCore.Docs,C#,2
-9864166,App-vNext/Polly,C#,6
+49609581,PowerShell/PowerShell,C#,15
+70104825,dotnet-architecture/eShopOnContainers,C#,14
+28239455,dotnet/AspNetCore.Docs,C#,1
+9864166,App-vNext/Polly,C#,7
 1135454,cefsharp/CefSharp,C#,4
 17941520,neuecc/UniRx,C#,4
-153711945,dotnet/wpf,C#,5
+153711945,dotnet/wpf,C#,2
 132453438,unoplatform/uno,C#,2
 12576526,dotnet/reactive,C#,3
 50605426,microsoft/MixedRealityToolkit-Unity,C#,2
@@ -15,12 +15,12 @@ id,name,lang,new stars
 2928944,Azure/azure-sdk-for-net,C#,1
 150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,2
 54308403,microsoft/WinAppDriver,C#,1
-57049212,XINCGer/Unity3DTraining,C#,5
-288428676,Garderoben/MudBlazor,C#,5
-116385203,Unity-Technologies/com.unity.multiplayer.mlapi,C#,3
+57049212,XINCGer/Unity3DTraining,C#,6
+288428676,Garderoben/MudBlazor,C#,6
+116385203,Unity-Technologies/com.unity.multiplayer.mlapi,C#,2
 155757874,microsoft/Xaml-Controls-Gallery,C#,4
-199628708,microsoft/RulesEngine,C#,9
+199628708,microsoft/RulesEngine,C#,10
 214432914,Tangent-90/Coolapk-UWP,C#,4
-131145697,Azure-Samples/cognitive-services-speech-sdk,C#,3
-341352859,polusgg/Town-Of-Us,C#,0
-321487750,Azure/cloud-native-app,C#,9
+131145697,Azure-Samples/cognitive-services-speech-sdk,C#,2
+341352859,polusgg/Town-Of-Us,C#,1
+321487750,Azure/cloud-native-app,C#,10

@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,214
+8514,rails/rails,Ruby,212
 65252,jekyll/jekyll,Ruby,231
-7569578,discourse/discourse,Ruby,243
-53238813,Homebrew/brew,Ruby,331
-21600440,bayandin/awesome-awesomeness,Ruby,123
-2293158,rapid7/metasploit-framework,Ruby,395
+7569578,discourse/discourse,Ruby,246
+53238813,Homebrew/brew,Ruby,332
+21600440,bayandin/awesome-awesomeness,Ruby,122
+2293158,rapid7/metasploit-framework,Ruby,397
 2500088,gitlabhq/gitlabhq,Ruby,61
-481872,hashicorp/vagrant,Ruby,190
-308770,heartcombo/devise,Ruby,71
-37382858,kilimchoi/engineering-blogs,Ruby,409
-538746,ruby/ruby,Ruby,99
+481872,hashicorp/vagrant,Ruby,189
+308770,heartcombo/devise,Ruby,70
+37382858,kilimchoi/engineering-blogs,Ruby,408
+538746,ruby/ruby,Ruby,98
 1090311,elastic/logstash,Ruby,66
 4095287,rubocop/rubocop,Ruby,48
 3314,spree/spree,Ruby,69
@@ -22,5 +22,5 @@ id,name,lang,new stars
 910744,puppetlabs/puppet,Ruby,49
 30337170,rmosolgo/graphql-ruby,Ruby,54
 30985840,solidusio/solidus,Ruby,42
-11426474,github/choosealicense.com,Ruby,61
-103766152,github/explore,Ruby,72
+11426474,github/choosealicense.com,Ruby,60
+103766152,github/explore,Ruby,71
