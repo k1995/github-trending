@@ -1,15 +1,15 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,7
+458058,symfony/symfony,PHP,9
 1420053,guzzle/guzzle,PHP,8
 2253830,PHPMailer/PHPMailer,PHP,5
 2889328,WordPress/WordPress,PHP,6
 1631570,nikic/PHP-Parser,PHP,6
 60243197,nextcloud/server,PHP,10
-12615154,barryvdh/laravel-debugbar,PHP,8
+12615154,barryvdh/laravel-debugbar,PHP,9
 13899674,thephpleague/flysystem,PHP,5
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,1
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,2
 7579180,doctrine/lexer,PHP,6
-14259390,Maatwebsite/Laravel-Excel,PHP,6
+14259390,Maatwebsite/Laravel-Excel,PHP,8
 48796179,z-song/laravel-admin,PHP,4
 56728437,docker/labs,PHP,3
 6660366,dompdf/dompdf,PHP,5
@@ -20,7 +20,7 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,8
 31595609,mpdf/mpdf,PHP,1
 22751672,tecnickcom/TCPDF,PHP,2
-13914116,librenms/librenms,PHP,0
+13914116,librenms/librenms,PHP,2
 39182755,glpi-project/glpi,PHP,1
 75645659,WordPress/wordpress-develop,PHP,1
 387514396,taylorotwell/next-example-backend,PHP,21
