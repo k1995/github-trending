@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,5
-7569578,discourse/discourse,Ruby,9
-27442967,fastlane/fastlane,Ruby,13
-13840241,freeCodeCamp/devdocs,Ruby,7
-2293158,rapid7/metasploit-framework,Ruby,13
-73648678,forem/forem,Ruby,29
+7569578,discourse/discourse,Ruby,10
+27442967,fastlane/fastlane,Ruby,16
+13840241,freeCodeCamp/devdocs,Ruby,8
+2293158,rapid7/metasploit-framework,Ruby,15
+73648678,forem/forem,Ruby,30
 2203645,CocoaPods/CocoaPods,Ruby,0
 3314,spree/spree,Ruby,2
-3195124,mperham/sidekiq,Ruby,1
+3195124,mperham/sidekiq,Ruby,2
 1918677,fluent/fluentd,Ruby,1
 96395,faker-ruby/faker,Ruby,3
 47087,carrierwaveuploader/carrierwave,Ruby,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 3277842,googleapis/google-api-ruby-client,Ruby,1
 190878115,CombineCommunity/rxswift-to-combine-cheatsheet,Ruby,1
 49878403,zendesk/ruby-kafka,Ruby,1
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,0
-356878986,TrashUwU/PokeAssistant,Ruby,12
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,1
+356878986,TrashUwU/PokeAssistant,Ruby,13
 644899,onelogin/ruby-saml,Ruby,1
