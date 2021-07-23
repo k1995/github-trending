@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,444
+1863329,laravel/laravel,PHP,446
 458058,symfony/symfony,PHP,168
 1864363,composer/composer,PHP,134
-7548986,laravel/framework,PHP,241
-1376664,Seldaek/monolog,PHP,103
+7548986,laravel/framework,PHP,242
+1376664,Seldaek/monolog,PHP,104
 2889328,WordPress/WordPress,PHP,115
-60243197,nextcloud/server,PHP,236
+60243197,nextcloud/server,PHP,237
 13899674,thephpleague/flysystem,PHP,71
 7704544,Intervention/image,PHP,75
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,109
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,110
 14259390,Maatwebsite/Laravel-Excel,PHP,113
 56728437,docker/labs,PHP,83
-2884111,magento/magento2,PHP,66
+2884111,magento/magento2,PHP,67
 79111500,jupeter/clean-code-php,PHP,129
 2179920,woocommerce/woocommerce,PHP,87
 6763587,PrestaShop/PrestaShop,PHP,48
@@ -20,7 +20,7 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,85
 9826184,elastic/elasticsearch-php,PHP,30
 95011974,akaunting/akaunting,PHP,98
-159606650,hyperf/hyperf,PHP,86
-4380514,Audi-1/sqli-labs,PHP,83
-141720301,dr5hn/countries-states-cities-database,PHP,169
+159606650,hyperf/hyperf,PHP,89
+4380514,Audi-1/sqli-labs,PHP,84
+141720301,dr5hn/countries-states-cities-database,PHP,170
 111562942,statamic/cms,PHP,49

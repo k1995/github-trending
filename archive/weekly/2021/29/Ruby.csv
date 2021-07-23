@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,42
 65252,jekyll/jekyll,Ruby,55
-7569578,discourse/discourse,Ruby,55
-8681349,huginn/huginn,Ruby,60
-53238813,Homebrew/brew,Ruby,92
-481872,hashicorp/vagrant,Ruby,45
-37382858,kilimchoi/engineering-blogs,Ruby,109
-73648678,forem/forem,Ruby,112
+7569578,discourse/discourse,Ruby,56
+8681349,huginn/huginn,Ruby,62
+53238813,Homebrew/brew,Ruby,93
+481872,hashicorp/vagrant,Ruby,46
+37382858,kilimchoi/engineering-blogs,Ruby,111
+73648678,forem/forem,Ruby,113
 3195124,mperham/sidekiq,Ruby,16
 202291859,chatwoot/chatwoot,Ruby,75
 15435,Shopify/liquid,Ruby,15
@@ -16,7 +16,7 @@ id,name,lang,new stars
 2889230,rails-api/active_model_serializers,Ruby,3
 16994115,CanCanCommunity/cancancan,Ruby,9
 30337170,rmosolgo/graphql-ruby,Ruby,9
-30985840,solidusio/solidus,Ruby,9
+30985840,solidusio/solidus,Ruby,10
 1172597,thoughtbot/shoulda-matchers,Ruby,4
 189010173,Hackplayers/evil-winrm,Ruby,25
 8472417,Shopify/identity_cache,Ruby,3
