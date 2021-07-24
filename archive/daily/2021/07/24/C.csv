@@ -1,20 +1,20 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,74
-569041,curl/curl,C,18
-246335987,ventoy/Ventoy,C,368
+2325298,torvalds/linux,C,89
+569041,curl/curl,C,19
+246335987,ventoy/Ventoy,C,385
 18496166,gentilkiwi/mimikatz,C,15
-95879426,Tencent/ncnn,C,21
+95879426,Tencent/ncnn,C,24
 66150122,jarun/nnn,C,22
 5254557,cloudwu/skynet,C,4
-65899476,espressif/esp-idf,C,10
+65899476,espressif/esp-idf,C,11
 105944401,yugabyte/yugabyte-db,C,3
-5870069,edenhill/librdkafka,C,1
-2997204,openwall/john,C,3
-254327261,sandboxie-plus/Sandboxie,C,9
+5870069,edenhill/librdkafka,C,2
+2997204,openwall/john,C,5
+254327261,sandboxie-plus/Sandboxie,C,10
 59676171,KevinOConnor/klipper,C,6
-97212490,floooh/sokol,C,8
+97212490,floooh/sokol,C,9
 40306512,LuaJIT/LuaJIT,C,2
-34807561,nanopb/nanopb,C,8
+34807561,nanopb/nanopb,C,9
 333917255,DualCoder/vgpu_unlock,C,6
 40556106,wazuh/wazuh,C,4
 330008801,libsdl-org/SDL,C,9
@@ -23,4 +23,4 @@ id,name,lang,new stars
 154525111,signalwire/freeswitch,C,0
 214011414,kingToolbox/WindTerm,C,7
 387242135,topotam/PetitPotam,C,92
-385037052,ahrm/sioyek,C,16
+385037052,ahrm/sioyek,C,17
