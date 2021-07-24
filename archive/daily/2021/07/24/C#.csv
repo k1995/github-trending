@@ -1,10 +1,10 @@
 id,name,lang,new stars
-7600409,shadowsocks/shadowsocks-windows,C#,10
-49609581,PowerShell/PowerShell,C#,20
+7600409,shadowsocks/shadowsocks-windows,C#,11
+49609581,PowerShell/PowerShell,C#,19
 70104825,dotnet-architecture/eShopOnContainers,C#,12
-28239455,dotnet/AspNetCore.Docs,C#,4
-9864166,App-vNext/Polly,C#,5
-1135454,cefsharp/CefSharp,C#,2
+28239455,dotnet/AspNetCore.Docs,C#,3
+9864166,App-vNext/Polly,C#,6
+1135454,cefsharp/CefSharp,C#,3
 17941520,neuecc/UniRx,C#,2
 153711945,dotnet/wpf,C#,4
 132453438,unoplatform/uno,C#,9
@@ -16,7 +16,7 @@ id,name,lang,new stars
 150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,3
 54308403,microsoft/WinAppDriver,C#,2
 57049212,XINCGer/Unity3DTraining,C#,10
-288428676,Garderoben/MudBlazor,C#,7
+288428676,Garderoben/MudBlazor,C#,8
 116385203,Unity-Technologies/com.unity.multiplayer.mlapi,C#,3
 155757874,microsoft/Xaml-Controls-Gallery,C#,2
 199628708,microsoft/RulesEngine,C#,10
