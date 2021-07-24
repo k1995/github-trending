@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,111
-7548986,laravel/framework,PHP,59
+3482588,danielmiessler/SecLists,PHP,112
+7548986,laravel/framework,PHP,60
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,27
-60243197,nextcloud/server,PHP,50
+60243197,nextcloud/server,PHP,51
 3431193,yiisoft/yii2,PHP,9
 7704544,Intervention/image,PHP,11
-1305114,roots/sage,PHP,13
+1305114,roots/sage,PHP,14
 14732311,octobercms/october,PHP,8
 49014795,phpstan/phpstan,PHP,20
 2884111,magento/magento2,PHP,19
-2179920,woocommerce/woocommerce,PHP,16
+2179920,woocommerce/woocommerce,PHP,18
 2141186,opencart/opencart,PHP,8
 16238673,kanboard/kanboard,PHP,75
 6763587,PrestaShop/PrestaShop,PHP,11
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,14
 69691727,pmmp/PocketMine-MP,PHP,8
 13914116,librenms/librenms,PHP,12
-129852395,assimon/dujiaoka,PHP,17
+129852395,assimon/dujiaoka,PHP,18
 679584,openemr/openemr,PHP,8
 142127816,zhuifengshaonianhanlu/pikachu,PHP,16
 96462257,osiset/laravel-shopify,PHP,17

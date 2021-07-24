@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,44
+8514,rails/rails,Ruby,48
 65252,jekyll/jekyll,Ruby,52
-7569578,discourse/discourse,Ruby,53
-8681349,huginn/huginn,Ruby,56
+7569578,discourse/discourse,Ruby,55
+8681349,huginn/huginn,Ruby,57
 53238813,Homebrew/brew,Ruby,90
 481872,hashicorp/vagrant,Ruby,45
-37382858,kilimchoi/engineering-blogs,Ruby,86
-73648678,forem/forem,Ruby,120
+37382858,kilimchoi/engineering-blogs,Ruby,87
+73648678,forem/forem,Ruby,124
 3195124,mperham/sidekiq,Ruby,16
 202291859,chatwoot/chatwoot,Ruby,78
 15435,Shopify/liquid,Ruby,17
@@ -15,12 +15,12 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,6
 2889230,rails-api/active_model_serializers,Ruby,3
 16994115,CanCanCommunity/cancancan,Ruby,9
-30337170,rmosolgo/graphql-ruby,Ruby,9
-30985840,solidusio/solidus,Ruby,13
+30337170,rmosolgo/graphql-ruby,Ruby,10
+30985840,solidusio/solidus,Ruby,14
 1172597,thoughtbot/shoulda-matchers,Ruby,3
 189010173,Hackplayers/evil-winrm,Ruby,24
 8472417,Shopify/identity_cache,Ruby,2
 61203,Shopify/shopify_app,Ruby,5
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,11
 225463,Shopify/shopify_api,Ruby,2
-161399160,Shopify/shopify-cli,Ruby,10
+161399160,Shopify/shopify-cli,Ruby,11
