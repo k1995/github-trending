@@ -2,11 +2,11 @@ id,name,lang,new stars
 2325298,torvalds/linux,C,74
 569041,curl/curl,C,12
 246335987,ventoy/Ventoy,C,398
-18496166,gentilkiwi/mimikatz,C,16
+18496166,gentilkiwi/mimikatz,C,12
 95879426,Tencent/ncnn,C,23
-66150122,jarun/nnn,C,18
+66150122,jarun/nnn,C,17
 5254557,cloudwu/skynet,C,1
-65899476,espressif/esp-idf,C,10
+65899476,espressif/esp-idf,C,7
 105944401,yugabyte/yugabyte-db,C,2
 5870069,edenhill/librdkafka,C,1
 2997204,openwall/john,C,3
@@ -17,9 +17,9 @@ id,name,lang,new stars
 333917255,DualCoder/vgpu_unlock,C,8
 34807561,nanopb/nanopb,C,6
 40556106,wazuh/wazuh,C,2
-330008801,libsdl-org/SDL,C,9
+330008801,libsdl-org/SDL,C,8
 24798763,mpaland/printf,C,5
-96348842,DPDK/dpdk,C,2
+96348842,DPDK/dpdk,C,1
 154525111,signalwire/freeswitch,C,0
 214011414,kingToolbox/WindTerm,C,7
 387242135,topotam/PetitPotam,C,92
