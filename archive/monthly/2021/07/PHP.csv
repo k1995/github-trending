@@ -4,12 +4,12 @@ id,name,lang,new stars
 1864363,composer/composer,PHP,135
 7548986,laravel/framework,PHP,237
 1376664,Seldaek/monolog,PHP,104
-2889328,WordPress/WordPress,PHP,115
-60243197,nextcloud/server,PHP,228
+2889328,WordPress/WordPress,PHP,116
+60243197,nextcloud/server,PHP,229
 13899674,thephpleague/flysystem,PHP,67
 7704544,Intervention/image,PHP,78
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,112
-14259390,Maatwebsite/Laravel-Excel,PHP,112
+14259390,Maatwebsite/Laravel-Excel,PHP,113
 56728437,docker/labs,PHP,79
 2884111,magento/magento2,PHP,66
 79111500,jupeter/clean-code-php,PHP,128
@@ -19,8 +19,8 @@ id,name,lang,new stars
 4242230,PHPOffice/PHPWord,PHP,55
 14346979,snipe/snipe-it,PHP,86
 9826184,elastic/elasticsearch-php,PHP,31
-95011974,akaunting/akaunting,PHP,106
+95011974,akaunting/akaunting,PHP,107
 159606650,hyperf/hyperf,PHP,87
 4380514,Audi-1/sqli-labs,PHP,91
 141720301,dr5hn/countries-states-cities-database,PHP,168
-111562942,statamic/cms,PHP,54
+111562942,statamic/cms,PHP,55
