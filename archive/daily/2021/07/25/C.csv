@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,152
-246335987,ventoy/Ventoy,C,596
-569041,curl/curl,C,28
-18496166,gentilkiwi/mimikatz,C,30
-95879426,Tencent/ncnn,C,29
-66150122,jarun/nnn,C,32
+2325298,torvalds/linux,C,156
+246335987,ventoy/Ventoy,C,240
+569041,curl/curl,C,27
+18496166,gentilkiwi/mimikatz,C,31
+95879426,Tencent/ncnn,C,28
+66150122,jarun/nnn,C,34
 5254557,cloudwu/skynet,C,6
-65899476,espressif/esp-idf,C,16
+65899476,espressif/esp-idf,C,17
 105944401,yugabyte/yugabyte-db,C,6
 5870069,edenhill/librdkafka,C,4
 2997204,openwall/john,C,12
@@ -15,12 +15,12 @@ id,name,lang,new stars
 97212490,floooh/sokol,C,10
 40306512,LuaJIT/LuaJIT,C,4
 333917255,DualCoder/vgpu_unlock,C,15
-34807561,nanopb/nanopb,C,12
-40556106,wazuh/wazuh,C,9
-330008801,libsdl-org/SDL,C,5
+34807561,nanopb/nanopb,C,13
+40556106,wazuh/wazuh,C,10
+330008801,libsdl-org/SDL,C,12
 24798763,mpaland/printf,C,6
 96348842,DPDK/dpdk,C,3
-154525111,signalwire/freeswitch,C,2
+154525111,signalwire/freeswitch,C,4
 214011414,kingToolbox/WindTerm,C,12
-387242135,topotam/PetitPotam,C,208
+387242135,topotam/PetitPotam,C,215
 385037052,ahrm/sioyek,C,29

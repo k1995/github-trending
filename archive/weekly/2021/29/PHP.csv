@@ -1,7 +1,7 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,124
+3482588,danielmiessler/SecLists,PHP,126
 7548986,laravel/framework,PHP,65
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,31
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,32
 60243197,nextcloud/server,PHP,52
 3431193,yiisoft/yii2,PHP,11
 7704544,Intervention/image,PHP,16
@@ -11,10 +11,10 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,21
 2179920,woocommerce/woocommerce,PHP,21
 2141186,opencart/opencart,PHP,9
-16238673,kanboard/kanboard,PHP,83
+16238673,kanboard/kanboard,PHP,84
 6763587,PrestaShop/PrestaShop,PHP,11
 6269013,aws/aws-sdk-php,PHP,18
-14346979,snipe/snipe-it,PHP,19
+14346979,snipe/snipe-it,PHP,20
 74386167,vimeo/psalm,PHP,18
 159606650,hyperf/hyperf,PHP,33
 1957456,Dolibarr/dolibarr,PHP,17

@@ -1,14 +1,14 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,453
 458058,symfony/symfony,PHP,175
-1864363,composer/composer,PHP,138
+1864363,composer/composer,PHP,139
 7548986,laravel/framework,PHP,240
 1376664,Seldaek/monolog,PHP,106
-2889328,WordPress/WordPress,PHP,118
+2889328,WordPress/WordPress,PHP,119
 60243197,nextcloud/server,PHP,231
 13899674,thephpleague/flysystem,PHP,69
 7704544,Intervention/image,PHP,79
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,113
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,114
 14259390,Maatwebsite/Laravel-Excel,PHP,113
 56728437,docker/labs,PHP,79
 2884111,magento/magento2,PHP,66
@@ -17,7 +17,7 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,47
 10371103,Laravel-Lang/lang,PHP,85
 4242230,PHPOffice/PHPWord,PHP,55
-14346979,snipe/snipe-it,PHP,88
+14346979,snipe/snipe-it,PHP,89
 9826184,elastic/elasticsearch-php,PHP,32
 95011974,akaunting/akaunting,PHP,108
 159606650,hyperf/hyperf,PHP,88
