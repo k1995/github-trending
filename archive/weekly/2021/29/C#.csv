@@ -1,15 +1,15 @@
 id,name,lang,new stars
 17620347,dotnet/aspnetcore,C#,79
-38380854,dnSpy/dnSpy,C#,68
-70104825,dotnet-architecture/eShopOnContainers,C#,86
-161012019,jellyfin/jellyfin,C#,81
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,37
-28239455,dotnet/AspNetCore.Docs,C#,28
+38380854,dnSpy/dnSpy,C#,72
+70104825,dotnet-architecture/eShopOnContainers,C#,87
+161012019,jellyfin/jellyfin,C#,82
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,38
+28239455,dotnet/AspNetCore.Docs,C#,29
 45363955,lionsoul2014/ip2region,C#,33
 374228,restsharp/RestSharp,C#,19
-22456440,ppy/osu,C#,64
+22456440,ppy/osu,C#,63
 75990888,dotnet/csharplang,C#,40
-165548191,carlospolop/PEASS-ng,C#,57
+165548191,carlospolop/PEASS-ng,C#,58
 54213490,xamarin/Xamarin.Forms,C#,6
 27703983,StockSharp/StockSharp,C#,40
 103086697,thangchung/clean-code-dotnet,C#,35
@@ -17,7 +17,7 @@ id,name,lang,new stars
 243854166,dotnet/tye,C#,18
 142192459,GhostPack/Seatbelt,C#,20
 268367789,builtbybel/privatezilla,C#,61
-324473895,leiurayer/downkyi,C#,96
+324473895,leiurayer/downkyi,C#,100
 139499767,lgsvl/simulator,C#,15
 176523594,lucent-sea/Remotely,C#,103
 252826419,Unity-Technologies/Graphics,C#,21
