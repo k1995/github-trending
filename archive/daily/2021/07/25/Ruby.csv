@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,14
-7569578,discourse/discourse,Ruby,7
-27442967,fastlane/fastlane,Ruby,11
-13840241,freeCodeCamp/devdocs,Ruby,11
-2293158,rapid7/metasploit-framework,Ruby,22
-73648678,forem/forem,Ruby,36
+8514,rails/rails,Ruby,15
+7569578,discourse/discourse,Ruby,8
+27442967,fastlane/fastlane,Ruby,12
+13840241,freeCodeCamp/devdocs,Ruby,5
+2293158,rapid7/metasploit-framework,Ruby,23
+73648678,forem/forem,Ruby,37
 2203645,CocoaPods/CocoaPods,Ruby,1
 3314,spree/spree,Ruby,5
 3195124,mperham/sidekiq,Ruby,3
@@ -17,7 +17,7 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,4
 839336,simplecov-ruby/simplecov,Ruby,2
 115859973,ddnexus/pagy,Ruby,1
-614070,rubygems/rubygems,Ruby,1
+614070,rubygems/rubygems,Ruby,2
 3277842,googleapis/google-api-ruby-client,Ruby,1
 190878115,CombineCommunity/rxswift-to-combine-cheatsheet,Ruby,3
 49878403,zendesk/ruby-kafka,Ruby,3
