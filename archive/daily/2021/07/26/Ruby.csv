@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,18
+8514,rails/rails,Ruby,19
 7569578,discourse/discourse,Ruby,14
 27442967,fastlane/fastlane,Ruby,12
-13840241,freeCodeCamp/devdocs,Ruby,19
-2293158,rapid7/metasploit-framework,Ruby,29
-73648678,forem/forem,Ruby,52
+13840241,freeCodeCamp/devdocs,Ruby,20
+2293158,rapid7/metasploit-framework,Ruby,30
+73648678,forem/forem,Ruby,53
 2203645,CocoaPods/CocoaPods,Ruby,3
 3314,spree/spree,Ruby,6
 3195124,mperham/sidekiq,Ruby,6
@@ -12,7 +12,7 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,2
 47087,carrierwaveuploader/carrierwave,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,3
-75785147,rails/webpacker,Ruby,3
+75785147,rails/webpacker,Ruby,4
 5219382,rack/rack-attack,Ruby,3
 30337170,rmosolgo/graphql-ruby,Ruby,8
 839336,simplecov-ruby/simplecov,Ruby,2
