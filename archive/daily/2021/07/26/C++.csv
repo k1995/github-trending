@@ -1,16 +1,16 @@
 id,name,lang,new stars
-65600975,pytorch/pytorch,C++,58
-23357588,protocolbuffers/protobuf,C++,209
+65600975,pytorch/pytorch,C++,62
+23357588,protocolbuffers/protobuf,C++,218
 22067521,ocornut/imgui,C++,63
-6934395,facebook/rocksdb,C++,27
-65214191,envoyproxy/envoy,C++,26
+6934395,facebook/rocksdb,C++,28
+65214191,envoyproxy/envoy,C++,28
 90902132,flameshot-org/flameshot,C++,54
 26038648,gabime/spdlog,C++,29
 102692863,onnx/onnx,C++,15
 38581626,pybind/pybind11,C++,18
 19614405,Mooophy/Cpp-Primer,C++,8
-4454793,musescore/MuseScore,C++,20
-221822577,Tencent/Hippy,C++,4
+4454793,musescore/MuseScore,C++,19
+221822577,Tencent/Hippy,C++,5
 7232856,AGWA/git-crypt,C++,10
 21530861,open-source-parsers/jsoncpp,C++,11
 15122806,google/benchmark,C++,10
@@ -22,5 +22,5 @@ id,name,lang,new stars
 6148317,OSGeo/gdal,C++,8
 244694174,project-chip/connectedhomeip,C++,16
 276269866,TixiaoShan/LIO-SAM,C++,7
-387771154,GossiTheDog/HiveNightmare,C++,79
+387771154,GossiTheDog/HiveNightmare,C++,81
 325036684,pineappleEA/pineapple-src,C++,8
