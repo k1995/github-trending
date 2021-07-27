@@ -1,13 +1,13 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,3853
+54346799,public-apis/public-apis,Python,3838
 100060912,microsoft/terminal,C++,178
-21540759,avelino/awesome-go,Go,320
+21540759,avelino/awesome-go,Go,302
 36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,825
 246335987,ventoy/Ventoy,C,2238
 4524181,facebook/folly,C++,89
-65214191,envoyproxy/envoy,C++,192
+65214191,envoyproxy/envoy,C++,188
 16072585,phoenixframework/phoenix,Elixir,38
-196813750,Light-City/CPlusPlusThings,C++,151
+196813750,Light-City/CPlusPlusThings,C++,149
 90902132,flameshot-org/flameshot,C++,162
 348651746,chefyuan/algorithm-base,Java,257
 26661222,tinode/chat,Go,1466
@@ -23,4 +23,4 @@ id,name,lang,new stars
 384451028,cloudwego/kitex,Go,163
 338028961,Sangwan5688/BlackHole,Dart,70
 375563752,shufflewzc/faker2,JavaScript,116
-384462961,mwenge/defender,Makefile,37
+384462961,mwenge/defender,Makefile,38
