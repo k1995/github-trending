@@ -1,21 +1,21 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1779
-111583593,Genymobile/scrcpy,C,1500
-156018,redis/redis,C,658
-36502,git/git,C,406
-10446890,bilibili/ijkplayer,C,170
-1614410,FFmpeg/FFmpeg,C,370
+2325298,torvalds/linux,C,1777
+111583593,Genymobile/scrcpy,C,1496
+156018,redis/redis,C,656
+36502,git/git,C,405
+10446890,bilibili/ijkplayer,C,169
+1614410,FFmpeg/FFmpeg,C,369
 62156403,QSCTech/zju-icicles,C,494
-246335987,ventoy/Ventoy,C,3313
-102578345,coolsnowwolf/lede,C,524
+246335987,ventoy/Ventoy,C,3330
+102578345,coolsnowwolf/lede,C,518
 18496166,gentilkiwi/mimikatz,C,814
 95879426,Tencent/ncnn,C,315
 40217904,swaywm/sway,C,125
-927442,postgres/postgres,C,192
+927442,postgres/postgres,C,191
 41215835,HandBrake/HandBrake,C,198
 65899476,espressif/esp-idf,C,136
 60667730,lvgl/lvgl,C,281
-32921736,audacity/audacity,C,767
+32921736,audacity/audacity,C,768
 7408108,RT-Thread/rt-thread,C,137
 3791835,darktable-org/darktable,C,269
 689344,libretro/RetroArch,C,133
@@ -23,4 +23,4 @@ id,name,lang,new stars
 213916896,blender/blender,C,213
 1613176,tianocore/edk2,C,66
 96348842,DPDK/dpdk,C,46
-194269070,skyline-emu/skyline,C,114
+194269070,skyline-emu/skyline,C,112

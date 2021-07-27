@@ -1,17 +1,17 @@
 id,name,lang,new stars
 65600975,pytorch/pytorch,C++,24
-23357588,protocolbuffers/protobuf,C++,66
-22067521,ocornut/imgui,C++,24
+23357588,protocolbuffers/protobuf,C++,65
+22067521,ocornut/imgui,C++,23
 6934395,facebook/rocksdb,C++,17
-65214191,envoyproxy/envoy,C++,13
-90902132,flameshot-org/flameshot,C++,35
-26038648,gabime/spdlog,C++,12
-102692863,onnx/onnx,C++,9
-38581626,pybind/pybind11,C++,5
+65214191,envoyproxy/envoy,C++,11
+90902132,flameshot-org/flameshot,C++,37
+26038648,gabime/spdlog,C++,15
+102692863,onnx/onnx,C++,7
+38581626,pybind/pybind11,C++,4
 19614405,Mooophy/Cpp-Primer,C++,7
 4454793,musescore/MuseScore,C++,5
 221822577,Tencent/Hippy,C++,2
-7232856,AGWA/git-crypt,C++,2
+7232856,AGWA/git-crypt,C++,4
 21530861,open-source-parsers/jsoncpp,C++,2
 15122806,google/benchmark,C++,5
 14627445,s3fs-fuse/s3fs-fuse,C++,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 184657328,NVIDIA/TensorRT,C++,10
 280608729,UZ-SLAMLab/ORB_SLAM3,C++,5
 6148317,OSGeo/gdal,C++,2
-244694174,project-chip/connectedhomeip,C++,9
+244694174,project-chip/connectedhomeip,C++,10
 276269866,TixiaoShan/LIO-SAM,C++,0
-387771154,GossiTheDog/HiveNightmare,C++,23
-325036684,pineappleEA/pineapple-src,C++,8
+387771154,GossiTheDog/HiveNightmare,C++,22
+325036684,pineappleEA/pineapple-src,C++,10
