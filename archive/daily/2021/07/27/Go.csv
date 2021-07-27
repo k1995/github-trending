@@ -1,9 +1,9 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,34
+20580498,kubernetes/kubernetes,Go,35
 11180687,gohugoio/hugo,Go,27
 26337322,rancher/rancher,Go,4
 6051812,gorilla/mux,Go,12
-56342508,jaegertracing/jaeger,Go,8
+56342508,jaegertracing/jaeger,Go,7
 8966356,hashicorp/packer,Go,3
 118654121,GoogleContainerTools/skaffold,Go,5
 131212638,google/gvisor,Go,2
@@ -15,11 +15,11 @@ id,name,lang,new stars
 146641150,tektoncd/pipeline,Go,3
 121086193,99designs/gqlgen,Go,10
 37334619,golang/mock,Go,11
-274625369,infracost/infracost,Go,38
-144708327,zhenghaoz/gorse,Go,104
+274625369,infracost/infracost,Go,39
+144708327,zhenghaoz/gorse,Go,100
 67828134,cri-o/cri-o,Go,4
 51193526,cosmos/cosmos-sdk,Go,3
-281765424,microsoft/CBL-Mariner,Go,82
+281765424,microsoft/CBL-Mariner,Go,90
 312629343,shadow1ng/fscan,Go,11
 90808126,kubernetes-sigs/prometheus-adapter,Go,2
 367758176,yedf/dtm,Go,37
