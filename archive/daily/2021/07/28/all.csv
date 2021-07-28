@@ -1,10 +1,10 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,543
-31792824,flutter/flutter,Dart,239
+60493101,jwasham/coding-interview-university,,538
+31792824,flutter/flutter,Dart,237
 24195339,angular/angular,TypeScript,25
 3678731,webpack/webpack,JavaScript,9
 612230,nvm-sh/nvm,Shell,33
-23357588,protocolbuffers/protobuf,C++,87
+23357588,protocolbuffers/protobuf,C++,81
 15062869,facebook/jest,TypeScript,11
 17620347,dotnet/aspnetcore,C#,15
 163387337,seata/seata,Java,9
@@ -13,7 +13,7 @@ id,name,lang,new stars
 149111813,Tencent/MMKV,C++,15
 12615154,barryvdh/laravel-debugbar,PHP,15
 46180504,FaridSafi/react-native-gifted-chat,TypeScript,7
-217943361,doocs/source-code-hunter,Java,332
+217943361,doocs/source-code-hunter,Java,391
 196613241,edeng23/binance-trade-bot,Python,9
 261039251,pointfreeco/swift-composable-architecture,Swift,9
 344676663,erda-project/erda,Go,47
@@ -21,6 +21,6 @@ id,name,lang,new stars
 386800241,amirgamil/apollo,Go,196
 386492981,bytedance/flutter_ume,Dart,89
 368683828,golang-jwt/jwt,Go,15
-343912331,CryptoBlades/cryptoblades,Vue,49
+343912331,CryptoBlades/cryptoblades,Vue,50
 367553761,fuzhengwei/small-spring,Java,34
 383424499,SJang1/korea-covid-19-remaining-vaccine-macro,Python,29
