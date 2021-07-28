@@ -1,11 +1,11 @@
 id,name,lang,new stars
-7600409,shadowsocks/shadowsocks-windows,C#,5
-49609581,PowerShell/PowerShell,C#,20
-70104825,dotnet-architecture/eShopOnContainers,C#,8
-28239455,dotnet/AspNetCore.Docs,C#,4
-9864166,App-vNext/Polly,C#,4
-1135454,cefsharp/CefSharp,C#,2
-17941520,neuecc/UniRx,C#,3
+7600409,shadowsocks/shadowsocks-windows,C#,6
+49609581,PowerShell/PowerShell,C#,21
+70104825,dotnet-architecture/eShopOnContainers,C#,6
+28239455,dotnet/AspNetCore.Docs,C#,5
+9864166,App-vNext/Polly,C#,3
+1135454,cefsharp/CefSharp,C#,3
+17941520,neuecc/UniRx,C#,2
 153711945,dotnet/wpf,C#,1
 132453438,unoplatform/uno,C#,3
 12576526,dotnet/reactive,C#,2
@@ -13,14 +13,14 @@ id,name,lang,new stars
 134363073,HandyOrg/HandyControl,C#,9
 23891194,Azure/azure-powershell,C#,2
 2928944,Azure/azure-sdk-for-net,C#,1
-150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,5
+150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,4
 54308403,microsoft/WinAppDriver,C#,1
-57049212,XINCGer/Unity3DTraining,C#,4
+57049212,XINCGer/Unity3DTraining,C#,3
 288428676,Garderoben/MudBlazor,C#,6
-116385203,Unity-Technologies/com.unity.multiplayer.mlapi,C#,6
+116385203,Unity-Technologies/com.unity.multiplayer.mlapi,C#,5
 155757874,microsoft/Xaml-Controls-Gallery,C#,0
 199628708,microsoft/RulesEngine,C#,10
-214432914,Tangent-90/Coolapk-UWP,C#,5
+214432914,Tangent-90/Coolapk-UWP,C#,4
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,0
 341352859,polusgg/Town-Of-Us,C#,2
 321487750,Azure/cloud-native-app,C#,1
