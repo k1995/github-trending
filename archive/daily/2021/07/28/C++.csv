@@ -1,15 +1,15 @@
 id,name,lang,new stars
 65600975,pytorch/pytorch,C++,24
-23357588,protocolbuffers/protobuf,C++,65
-22067521,ocornut/imgui,C++,22
+23357588,protocolbuffers/protobuf,C++,88
+22067521,ocornut/imgui,C++,24
 6934395,facebook/rocksdb,C++,18
 65214191,envoyproxy/envoy,C++,10
-90902132,flameshot-org/flameshot,C++,38
-26038648,gabime/spdlog,C++,17
+90902132,flameshot-org/flameshot,C++,37
+26038648,gabime/spdlog,C++,18
 102692863,onnx/onnx,C++,7
 38581626,pybind/pybind11,C++,4
 19614405,Mooophy/Cpp-Primer,C++,7
-4454793,musescore/MuseScore,C++,4
+4454793,musescore/MuseScore,C++,5
 221822577,Tencent/Hippy,C++,2
 7232856,AGWA/git-crypt,C++,4
 21530861,open-source-parsers/jsoncpp,C++,3
