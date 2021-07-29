@@ -1,19 +1,19 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,98
-458058,symfony/symfony,PHP,39
-1864363,composer/composer,PHP,29
-7548986,laravel/framework,PHP,63
+458058,symfony/symfony,PHP,38
+1864363,composer/composer,PHP,28
+7548986,laravel/framework,PHP,61
 1420053,guzzle/guzzle,PHP,26
 448045,sebastianbergmann/phpunit,PHP,39
 2889328,WordPress/WordPress,PHP,29
 60243197,nextcloud/server,PHP,38
-12615154,barryvdh/laravel-debugbar,PHP,58
+12615154,barryvdh/laravel-debugbar,PHP,59
 47495360,koel/koel,PHP,30
 1305114,roots/sage,PHP,15
 42480275,spatie/laravel-permission,PHP,31
-2884111,magento/magento2,PHP,22
+2884111,magento/magento2,PHP,23
 597887,doctrine/orm,PHP,12
-12166778,googleapis/google-api-php-client,PHP,15
+12166778,googleapis/google-api-php-client,PHP,16
 9791525,digininja/DVWA,PHP,18
 12204147,mautic/mautic,PHP,19
 39149031,webonyx/graphql-php,PHP,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 153069455,collabnix/dockerlabs,PHP,10
 74026995,CodelyTV/php-ddd-example,PHP,11
 131995661,shopware/platform,PHP,13
-387514396,taylorotwell/next-example-backend,PHP,37
+387514396,taylorotwell/next-example-backend,PHP,30
