@@ -1,22 +1,20 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,204
-7569578,discourse/discourse,Ruby,216
+7569578,discourse/discourse,Ruby,218
 27442967,fastlane/fastlane,Ruby,180
 8681349,huginn/huginn,Ruby,252
-53238813,Homebrew/brew,Ruby,340
-21600440,bayandin/awesome-awesomeness,Ruby,127
-2293158,rapid7/metasploit-framework,Ruby,325
+53238813,Homebrew/brew,Ruby,344
+2293158,rapid7/metasploit-framework,Ruby,320
 52281283,mastodon/mastodon,Ruby,174
-2500088,gitlabhq/gitlabhq,Ruby,58
-37382858,kilimchoi/engineering-blogs,Ruby,421
-3623050,Homebrew/homebrew-cask,Ruby,95
+2500088,gitlabhq/gitlabhq,Ruby,57
+37382858,kilimchoi/engineering-blogs,Ruby,422
+3623050,Homebrew/homebrew-cask,Ruby,94
 538746,ruby/ruby,Ruby,91
-73648678,forem/forem,Ruby,303
-4095287,rubocop/rubocop,Ruby,43
+73648678,forem/forem,Ruby,304
 3314,spree/spree,Ruby,70
 18486300,lewagon/setup,Ruby,460
-202291859,chatwoot/chatwoot,Ruby,245
-52855516,Homebrew/homebrew-core,Ruby,123
+202291859,chatwoot/chatwoot,Ruby,243
+52855516,Homebrew/homebrew-core,Ruby,122
 96395,faker-ruby/faker,Ruby,53
 1725199,github/linguist,Ruby,91
 21829,thoughtbot/factory_bot,Ruby,37
@@ -24,3 +22,5 @@ id,name,lang,new stars
 355893,github/markup,Ruby,28
 6899875,opf/openproject,Ruby,94
 30337170,rmosolgo/graphql-ruby,Ruby,64
+39706711,hartator/wayback-machine-downloader,Ruby,581
+161399160,Shopify/shopify-cli,Ruby,83
