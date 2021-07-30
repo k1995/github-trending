@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,98
+1863329,laravel/laravel,PHP,106
 3482588,danielmiessler/SecLists,PHP,120
 458058,symfony/symfony,PHP,40
-1864363,composer/composer,PHP,28
-7548986,laravel/framework,PHP,62
+1864363,composer/composer,PHP,29
+7548986,laravel/framework,PHP,66
 1420053,guzzle/guzzle,PHP,23
 448045,sebastianbergmann/phpunit,PHP,37
 2889328,WordPress/WordPress,PHP,28
 1548202,matomo-org/matomo,PHP,33
 3431193,yiisoft/yii2,PHP,6
-12615154,barryvdh/laravel-debugbar,PHP,68
+12615154,barryvdh/laravel-debugbar,PHP,70
 42480275,spatie/laravel-permission,PHP,34
 2884111,magento/magento2,PHP,23
 11340559,deployphp/deployer,PHP,15
@@ -17,10 +17,10 @@ id,name,lang,new stars
 10238429,tennc/webshell,PHP,33
 16685462,humhub/humhub,PHP,14
 12204147,mautic/mautic,PHP,18
-222873550,bytefury/crater,PHP,27
+222873550,bytefury/crater,PHP,28
 60010673,elementor/elementor,PHP,27
 439861,moodle/moodle,PHP,18
 29219291,box/spout,PHP,75
-2686502,pimcore/pimcore,PHP,21
-131995661,shopware/platform,PHP,16
+2686502,pimcore/pimcore,PHP,22
+131995661,shopware/platform,PHP,17
 387514396,taylorotwell/next-example-backend,PHP,11

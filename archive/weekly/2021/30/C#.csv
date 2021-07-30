@@ -1,19 +1,19 @@
 id,name,lang,new stars
-70104825,dotnet-architecture/eShopOnContainers,C#,66
+70104825,dotnet-architecture/eShopOnContainers,C#,67
 64713769,NickeManarin/ScreenToGif,C#,69
-14964475,AvaloniaUI/Avalonia,C#,46
-164140756,files-community/Files,C#,287
-262395224,dotnet/maui,C#,80
+14964475,AvaloniaUI/Avalonia,C#,51
+164140756,files-community/Files,C#,289
+262395224,dotnet/maui,C#,81
 16157746,dotnet/efcore,C#,29
-22456440,ppy/osu,C#,55
-12191244,dotnet/BenchmarkDotNet,C#,25
-165548191,carlospolop/PEASS-ng,C#,67
+22456440,ppy/osu,C#,56
+12191244,dotnet/BenchmarkDotNet,C#,26
+165548191,carlospolop/PEASS-ng,C#,68
 27251463,QuantConnect/Lean,C#,35
 26884725,OrchardCMS/OrchardCore,C#,44
-132453438,unoplatform/uno,C#,31
+132453438,unoplatform/uno,C#,33
 61403402,CommunityToolkit/WindowsCommunityToolkit,C#,22
 19216825,xamarin/xamarin-forms-samples,C#,13
-224109382,ant-design-blazor/ant-design-blazor,C#,37
+224109382,ant-design-blazor/ant-design-blazor,C#,38
 64454952,TheAlgorithms/C-Sharp,C#,33
 33010673,microsoft/perfview,C#,21
 39425864,tModLoader/tModLoader,C#,12
@@ -23,4 +23,4 @@ id,name,lang,new stars
 188308406,Unity-Technologies/DOTS-training-samples,C#,11
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,5
 131026794,Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,6
-262661480,ALIILAPRO/warp-plus-cloudflare,C#,28
+262661480,ALIILAPRO/warp-plus-cloudflare,C#,29
