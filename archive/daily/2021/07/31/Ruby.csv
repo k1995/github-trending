@@ -1,9 +1,9 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,16
-27442967,fastlane/fastlane,Ruby,9
-2293158,rapid7/metasploit-framework,Ruby,21
-52281283,mastodon/mastodon,Ruby,20
-308770,heartcombo/devise,Ruby,6
+27442967,fastlane/fastlane,Ruby,8
+2293158,rapid7/metasploit-framework,Ruby,22
+52281283,mastodon/mastodon,Ruby,22
+308770,heartcombo/devise,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,5
 1090311,elastic/logstash,Ruby,8
 138312,capistrano/capistrano,Ruby,4
@@ -11,7 +11,7 @@ id,name,lang,new stars
 88740103,postalserver/postal,Ruby,6
 47087,carrierwaveuploader/carrierwave,Ruby,1
 1333863,kaminari/kaminari,Ruby,2
-810796,sferik/rails_admin,Ruby,5
+810796,sferik/rails_admin,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,2
 26018608,github-changelog-generator/github-changelog-generator,Ruby,3
 1145832,pry/pry,Ruby,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 56942570,Homebrew/linuxbrew-core,Ruby,2
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,1
 242765280,bensheldon/good_job,Ruby,29
-360794368,hschne/rails-mini-profiler,Ruby,79
+360794368,hschne/rails-mini-profiler,Ruby,68
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0

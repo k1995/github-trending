@@ -1,6 +1,6 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,26
-17620347,dotnet/aspnetcore,C#,20
+49609581,PowerShell/PowerShell,C#,22
+17620347,dotnet/aspnetcore,C#,22
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,15
 16157746,dotnet/efcore,C#,8
 22456440,ppy/osu,C#,14
@@ -8,11 +8,11 @@ id,name,lang,new stars
 210716005,dotnet/runtime,C#,19
 75505125,abpframework/abp,C#,6
 135050219,TGSAN/CMWTAT_Digital_Edition,C#,17
-132453438,unoplatform/uno,C#,11
+132453438,unoplatform/uno,C#,101
 42749841,Live-Charts/Live-Charts,C#,2
-743436,egametang/ET,C#,7
+743436,egametang/ET,C#,8
 142480903,microsoft/microsoft-ui-xaml,C#,9
-19216825,xamarin/xamarin-forms-samples,C#,4
+19216825,xamarin/xamarin-forms-samples,C#,31
 152370823,davidfowl/AspNetCoreDiagnosticScenarios,C#,5
 10601208,umbraco/Umbraco-CMS,C#,1
 83315270,mob-sakai/UIEffect,C#,8
