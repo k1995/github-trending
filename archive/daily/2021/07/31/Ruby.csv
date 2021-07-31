@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,15
+8514,rails/rails,Ruby,16
 27442967,fastlane/fastlane,Ruby,9
-2293158,rapid7/metasploit-framework,Ruby,20
-52281283,mastodon/mastodon,Ruby,13
+2293158,rapid7/metasploit-framework,Ruby,21
+52281283,mastodon/mastodon,Ruby,20
 308770,heartcombo/devise,Ruby,6
 2203645,CocoaPods/CocoaPods,Ruby,5
 1090311,elastic/logstash,Ruby,8
 138312,capistrano/capistrano,Ruby,4
 3195124,mperham/sidekiq,Ruby,2
-88740103,postalserver/postal,Ruby,5
+88740103,postalserver/postal,Ruby,6
 47087,carrierwaveuploader/carrierwave,Ruby,1
 1333863,kaminari/kaminari,Ruby,2
-810796,sferik/rails_admin,Ruby,4
+810796,sferik/rails_admin,Ruby,5
 21829,thoughtbot/factory_bot,Ruby,2
 26018608,github-changelog-generator/github-changelog-generator,Ruby,3
 1145832,pry/pry,Ruby,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,1
 56942570,Homebrew/linuxbrew-core,Ruby,2
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,1
-242765280,bensheldon/good_job,Ruby,27
-360794368,hschne/rails-mini-profiler,Ruby,78
+242765280,bensheldon/good_job,Ruby,29
+360794368,hschne/rails-mini-profiler,Ruby,79
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0
