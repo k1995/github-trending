@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,40
+11180687,gohugoio/hugo,Go,33
+17728164,hashicorp/terraform,Go,30
+8989842,unknwon/the-way-to-go_ZH_CN,Go,13
+31288958,hashicorp/vault,Go,11
+56342508,jaegertracing/jaeger,Go,7
+92313258,jetstack/cert-manager,Go,1
+208728772,milvus-io/milvus,Go,5
+146641150,tektoncd/pipeline,Go,2
+111431261,fullstorydev/grpcurl,Go,15
+53174289,gruntwork-io/terratest,Go,7
+41288708,sourcegraph/sourcegraph,Go,11
+237523442,tailscale/tailscale,Go,212
+9120526,jackc/pgx,Go,7
+16019737,Masterminds/squirrel,Go,7
+118828329,knative/serving,Go,2
+79585104,matrix-org/dendrite,Go,6
+111455867,smartcontractkit/chainlink,Go,6
+258469100,fluxcd/flux2,Go,5
+154894457,open-policy-agent/gatekeeper,Go,2
+83363132,CrunchyData/postgres-operator,Go,7
+93446075,hashicorp/terraform-provider-google,Go,2
+344676663,erda-project/erda,Go,217
+130281002,iotexproject/iotex-core,Go,205
+368683828,golang-jwt/jwt,Go,23
