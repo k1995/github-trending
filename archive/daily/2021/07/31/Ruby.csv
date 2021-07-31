@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,13
+8514,rails/rails,Ruby,15
 27442967,fastlane/fastlane,Ruby,9
-2293158,rapid7/metasploit-framework,Ruby,19
-52281283,mastodon/mastodon,Ruby,11
+2293158,rapid7/metasploit-framework,Ruby,20
+52281283,mastodon/mastodon,Ruby,13
 308770,heartcombo/devise,Ruby,6
-2203645,CocoaPods/CocoaPods,Ruby,4
+2203645,CocoaPods/CocoaPods,Ruby,5
 1090311,elastic/logstash,Ruby,8
 138312,capistrano/capistrano,Ruby,4
 3195124,mperham/sidekiq,Ruby,2
@@ -18,9 +18,9 @@ id,name,lang,new stars
 447184,rspec/rspec-rails,Ruby,1
 1952825,Homebrew/homebrew-bundle,Ruby,6
 614070,rubygems/rubygems,Ruby,4
-1175581,citation-style-language/styles,Ruby,0
+1175581,citation-style-language/styles,Ruby,1
 56942570,Homebrew/linuxbrew-core,Ruby,2
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,1
-242765280,bensheldon/good_job,Ruby,24
-360794368,hschne/rails-mini-profiler,Ruby,76
+242765280,bensheldon/good_job,Ruby,27
+360794368,hschne/rails-mini-profiler,Ruby,78
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0
