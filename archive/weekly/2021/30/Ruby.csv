@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,57
 27442967,fastlane/fastlane,Ruby,35
-8681349,huginn/huginn,Ruby,83
-53238813,Homebrew/brew,Ruby,90
+8681349,huginn/huginn,Ruby,84
+53238813,Homebrew/brew,Ruby,95
 2293158,rapid7/metasploit-framework,Ruby,77
-52281283,mastodon/mastodon,Ruby,37
-3623050,Homebrew/homebrew-cask,Ruby,23
-73648678,forem/forem,Ruby,80
-3314,spree/spree,Ruby,14
+52281283,mastodon/mastodon,Ruby,39
+3623050,Homebrew/homebrew-cask,Ruby,24
+73648678,forem/forem,Ruby,82
+3314,spree/spree,Ruby,15
 88740103,postalserver/postal,Ruby,20
 202291859,chatwoot/chatwoot,Ruby,69
 96395,faker-ruby/faker,Ruby,15
@@ -19,7 +19,7 @@ id,name,lang,new stars
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,43
 75785147,rails/webpacker,Ruby,6
 30337170,rmosolgo/graphql-ruby,Ruby,17
-30985840,solidusio/solidus,Ruby,15
+30985840,solidusio/solidus,Ruby,16
 11980558,github/pages-gem,Ruby,5
 49878403,zendesk/ruby-kafka,Ruby,8
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,11

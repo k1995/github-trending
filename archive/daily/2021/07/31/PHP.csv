@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,1
+2579314,fzaninotto/Faker,PHP,3
 1864363,composer/composer,PHP,2
 7548986,laravel/framework,PHP,9
 1376664,Seldaek/monolog,PHP,2
 2253830,PHPMailer/PHPMailer,PHP,2
-1548202,matomo-org/matomo,PHP,6
-12615154,barryvdh/laravel-debugbar,PHP,5
+1548202,matomo-org/matomo,PHP,7
+12615154,barryvdh/laravel-debugbar,PHP,6
 26730195,CachetHQ/Cachet,PHP,4
 72069409,the-control-group/voyager,PHP,2
 2854337,phalcon/cphalcon,PHP,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 29219291,box/spout,PHP,7
 63073734,laravel/passport,PHP,2
 2686502,pimcore/pimcore,PHP,3
-129852395,assimon/dujiaoka,PHP,32
+129852395,assimon/dujiaoka,PHP,33
 131995661,shopware/platform,PHP,2
 167214907,tzsk/otp,PHP,10
