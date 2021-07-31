@@ -1,11 +1,11 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,214
-7569578,discourse/discourse,Ruby,213
+7569578,discourse/discourse,Ruby,215
 27442967,fastlane/fastlane,Ruby,185
-8681349,huginn/huginn,Ruby,245
-53238813,Homebrew/brew,Ruby,351
-2293158,rapid7/metasploit-framework,Ruby,334
-52281283,mastodon/mastodon,Ruby,173
+8681349,huginn/huginn,Ruby,246
+53238813,Homebrew/brew,Ruby,352
+2293158,rapid7/metasploit-framework,Ruby,335
+52281283,mastodon/mastodon,Ruby,174
 2500088,gitlabhq/gitlabhq,Ruby,54
 37382858,kilimchoi/engineering-blogs,Ruby,414
 3623050,Homebrew/homebrew-cask,Ruby,98
@@ -16,7 +16,7 @@ id,name,lang,new stars
 202291859,chatwoot/chatwoot,Ruby,240
 52855516,Homebrew/homebrew-core,Ruby,119
 96395,faker-ruby/faker,Ruby,54
-1725199,github/linguist,Ruby,95
+1725199,github/linguist,Ruby,96
 21829,thoughtbot/factory_bot,Ruby,37
 910744,puppetlabs/puppet,Ruby,46
 355893,github/markup,Ruby,29

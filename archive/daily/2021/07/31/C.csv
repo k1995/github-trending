@@ -1,15 +1,15 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,41
+111583593,Genymobile/scrcpy,C,40
 156018,redis/redis,C,23
 5101141,stedolan/jq,C,12
-102578345,coolsnowwolf/lede,C,12
+102578345,coolsnowwolf/lede,C,13
 84240850,timescale/timescaledb,C,4
 28515839,skywind3000/kcp,C,4
 1856976,libevent/libevent,C,6
-21294600,huangz1990/redis-3.0-annotated,C,10
+21294600,huangz1990/redis-3.0-annotated,C,11
 184909163,koekeishiya/yabai,C,5
 437011,openzfs/zfs,C,4
-13836499,raysan5/raylib,C,14
+13836499,raysan5/raylib,C,15
 102029150,cstack/db_tutorial,C,16
 89315980,SecWiki/windows-kernel-exploits,C,4
 1979797,FreeRDP/FreeRDP,C,7
@@ -19,8 +19,8 @@ id,name,lang,new stars
 40556106,wazuh/wazuh,C,5
 26537135,u-boot/u-boot,C,4
 204459250,mit-pdos/xv6-riscv,C,2
-149233191,binbyu/Reader,C,4
+149233191,binbyu/Reader,C,5
 272394704,google/security-research,C,5
-214011414,kingToolbox/WindTerm,C,3
+214011414,kingToolbox/WindTerm,C,4
 70934373,Azure/azure-iot-sdk-c,C,0
 51990771,ARM-software/CMSIS_5,C,1
