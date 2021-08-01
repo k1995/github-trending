@@ -1,17 +1,17 @@
 id,name,lang,new stars
 42408804,traefik/traefik,Go,27
 41986369,pingcap/tidb,Go,31
-14125254,hashicorp/consul,Go,20
-24977535,dutchcoders/transfer.sh,Go,78
+14125254,hashicorp/consul,Go,21
+24977535,dutchcoders/transfer.sh,Go,79
 33258973,influxdata/telegraf,Go,11
 29371034,micro/micro,Go,8
-72477752,pulumi/pulumi,Go,27
+72477752,pulumi/pulumi,Go,28
 191655189,ent/ent,Go,51
 21704134,flannel-io/flannel,Go,13
-69011367,davecheney/httpstat,Go,81
+69011367,davecheney/httpstat,Go,84
 59522149,gruntwork-io/terragrunt,Go,8
-237523442,tailscale/tailscale,Go,247
-252813491,projectdiscovery/nuclei,Go,14
+237523442,tailscale/tailscale,Go,259
+252813491,projectdiscovery/nuclei,Go,16
 93928882,swaggo/swag,Go,12
 120519269,runatlantis/atlantis,Go,5
 135321861,ory/kratos,Go,19
@@ -21,6 +21,6 @@ id,name,lang,new stars
 258469100,fluxcd/flux2,Go,9
 116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,5
 344676663,erda-project/erda,Go,171
-31097246,doug-martin/goqu,Go,50
+31097246,doug-martin/goqu,Go,52
 136494223,kubernetes-sigs/controller-runtime,Go,9
 378877870,phoenixchain/phoenix,Go,137
