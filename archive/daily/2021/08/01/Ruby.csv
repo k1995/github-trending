@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,18
-65252,jekyll/jekyll,Ruby,17
+8514,rails/rails,Ruby,19
+65252,jekyll/jekyll,Ruby,18
 7569578,discourse/discourse,Ruby,14
-8681349,huginn/huginn,Ruby,15
+8681349,huginn/huginn,Ruby,16
 53238813,Homebrew/brew,Ruby,40
-2293158,rapid7/metasploit-framework,Ruby,27
-52281283,mastodon/mastodon,Ruby,29
+2293158,rapid7/metasploit-framework,Ruby,28
+52281283,mastodon/mastodon,Ruby,34
 481872,hashicorp/vagrant,Ruby,12
-538746,ruby/ruby,Ruby,14
+538746,ruby/ruby,Ruby,15
 2203645,CocoaPods/CocoaPods,Ruby,6
 911765,diaspora/diaspora,Ruby,2
 3314,spree/spree,Ruby,5
@@ -15,12 +15,12 @@ id,name,lang,new stars
 88740103,postalserver/postal,Ruby,8
 21829,thoughtbot/factory_bot,Ruby,3
 1314319,instructure/canvas-lms,Ruby,6
-138776049,sorbet/sorbet,Ruby,57
+138776049,sorbet/sorbet,Ruby,56
 103766152,github/explore,Ruby,7
 8154497,rubysec/ruby-advisory-db,Ruby,1
-356878986,TrashUwU/PokeAssistant,Ruby,20
+356878986,TrashUwU/PokeAssistant,Ruby,23
 330857119,ElMassimo/vite_ruby,Ruby,3
-360794368,hschne/rails-mini-profiler,Ruby,87
-13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,3
+360794368,hschne/rails-mini-profiler,Ruby,88
+13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,5
 36527291,cloudfoundry-incubator/haproxy-boshrelease,Ruby,0
 27074983,makersacademy/airport_challenge,Ruby,0
