@@ -1,7 +1,7 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,11
 1548202,matomo-org/matomo,PHP,8
-60243197,nextcloud/server,PHP,17
+60243197,nextcloud/server,PHP,19
 3431193,yiisoft/yii2,PHP,1
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,6
 49014795,phpstan/phpstan,PHP,3
@@ -9,18 +9,18 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,3
 2141186,opencart/opencart,PHP,9
 9131292,jenssegers/laravel-mongodb,PHP,3
-31541210,aimeos/aimeos-laravel,PHP,40
+31541210,aimeos/aimeos-laravel,PHP,44
 97311017,rectorphp/rector,PHP,7
-74386167,vimeo/psalm,PHP,9
+74386167,vimeo/psalm,PHP,10
 222873550,bytefury/crater,PHP,11
-3817881,zircote/swagger-php,PHP,1
-148129143,bagisto/bagisto,PHP,8
-10855394,itsgoingd/clockwork,PHP,15
+3817881,zircote/swagger-php,PHP,2
+148129143,bagisto/bagisto,PHP,9
+10855394,itsgoingd/clockwork,PHP,16
 38200433,jeroennoten/Laravel-AdminLTE,PHP,5
 47508644,pterodactyl/panel,PHP,7
 69691727,pmmp/PocketMine-MP,PHP,3
 2686502,pimcore/pimcore,PHP,4
-129852395,assimon/dujiaoka,PHP,38
+129852395,assimon/dujiaoka,PHP,40
 96090745,ambionics/phpggc,PHP,10
 15231212,Automattic/jetpack,PHP,1
-174395905,inertiajs/inertia-laravel,PHP,2
+174395905,inertiajs/inertia-laravel,PHP,3
