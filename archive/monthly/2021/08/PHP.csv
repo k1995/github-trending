@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,438
-3482588,danielmiessler/SecLists,PHP,504
+3482588,danielmiessler/SecLists,PHP,507
 1864363,composer/composer,PHP,122
 7548986,laravel/framework,PHP,244
 2889328,WordPress/WordPress,PHP,104
-60243197,nextcloud/server,PHP,221
+60243197,nextcloud/server,PHP,222
 7704544,Intervention/image,PHP,86
 2884111,magento/magento2,PHP,75
-79111500,jupeter/clean-code-php,PHP,129
+79111500,jupeter/clean-code-php,PHP,130
 2179920,woocommerce/woocommerce,PHP,80
 2141186,opencart/opencart,PHP,50
 16238673,kanboard/kanboard,PHP,119
@@ -15,7 +15,7 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,69
 74386167,vimeo/psalm,PHP,75
 95011974,akaunting/akaunting,PHP,117
-4380514,Audi-1/sqli-labs,PHP,89
+4380514,Audi-1/sqli-labs,PHP,90
 22751672,tecnickcom/TCPDF,PHP,39
 38116958,php-telegram-bot/core,PHP,48
 80249302,craftcms/cms,PHP,20
