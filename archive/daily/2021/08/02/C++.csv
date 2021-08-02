@@ -1,14 +1,14 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,494
+9384267,electron/electron,C++,421
 1181927,bitcoin/bitcoin,C++,16
 15634981,godotengine/godot,C++,25
 33791743,x64dbg/x64dbg,C++,11
 74627617,commaai/openpilot,C++,31
 1116542,aria2/aria2,C++,7
 39840932,google/googletest,C++,51
-19374812,telegramdesktop/tdesktop,C++,16
+19374812,telegramdesktop/tdesktop,C++,92
 14981376,dogecoin/dogecoin,C++,8
-2200856,MarlinFirmware/Marlin,C++,4
+2200856,MarlinFirmware/Marlin,C++,5
 19316619,monero-project/monero,C++,4
 267649918,hoffstadt/DearPyGui,C++,8
 5973855,CleverRaven/Cataclysm-DDA,C++,7
@@ -21,6 +21,6 @@ id,name,lang,new stars
 36781769,arvidn/libtorrent,C++,0
 206138137,alphacep/vosk-api,C++,7
 207245092,stenzek/duckstation,C++,6
-61980658,azerothcore/azerothcore-wotlk,C++,2
+61980658,azerothcore/azerothcore-wotlk,C++,3
 385667483,uzh-rpg/rpg_svo_pro_open,C++,12
 387371368,noc21-cs99/lectures,C++,2
