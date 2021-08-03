@@ -1,5 +1,5 @@
 id,name,lang,new stars
-28457823,freeCodeCamp/freeCodeCamp,JavaScript,341
+28457823,freeCodeCamp/freeCodeCamp,JavaScript,325
 83222441,donnemartin/system-design-primer,Python,157
 9384267,electron/electron,C++,370
 44838949,apple/swift,C++,78
@@ -8,7 +8,7 @@ id,name,lang,new stars
 157616880,iptv-org/iptv,JavaScript,220
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,849
 74627617,commaai/openpilot,C++,130
-519832,mitmproxy/mitmproxy,Python,276
+519832,mitmproxy/mitmproxy,Python,205
 19374812,telegramdesktop/tdesktop,C++,147
 343965132,microsoft/ML-For-Beginners,Jupyter Notebook,293
 89822531,Anuken/Mindustry,Java,180
@@ -19,8 +19,8 @@ id,name,lang,new stars
 300135838,apple/swift-algorithms,Swift,65
 173382880,Tib3rius/AutoRecon,Python,112
 359426372,SagerNet/SagerNet,Kotlin,139
-391055597,kunal-kushwaha/DSA-Bootcamp-Java,,214
-293338246,deepklarity/jupyter-text2code,Jupyter Notebook,120
+391055597,kunal-kushwaha/DSA-Bootcamp-Java,,186
+293338246,deepklarity/jupyter-text2code,Jupyter Notebook,107
 372172254,tokio-rs/axum,Rust,209
 384325347,langjam/langjam,,95
 390596171,Satsuoni/widevine-l3-guesser,C,143
