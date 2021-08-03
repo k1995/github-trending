@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,429
-3482588,danielmiessler/SecLists,PHP,504
+3482588,danielmiessler/SecLists,PHP,506
 1864363,composer/composer,PHP,123
-7548986,laravel/framework,PHP,238
-2889328,WordPress/WordPress,PHP,105
+7548986,laravel/framework,PHP,239
+2889328,WordPress/WordPress,PHP,106
 60243197,nextcloud/server,PHP,225
-7704544,Intervention/image,PHP,91
-2884111,magento/magento2,PHP,74
-79111500,jupeter/clean-code-php,PHP,126
+7704544,Intervention/image,PHP,90
+2884111,magento/magento2,PHP,76
+79111500,jupeter/clean-code-php,PHP,127
 2179920,woocommerce/woocommerce,PHP,78
 16238673,kanboard/kanboard,PHP,116
 31541210,aimeos/aimeos-laravel,PHP,160
@@ -17,7 +17,7 @@ id,name,lang,new stars
 4380514,Audi-1/sqli-labs,PHP,89
 22751672,tecnickcom/TCPDF,PHP,37
 38116958,php-telegram-bot/core,PHP,48
-69691727,pmmp/PocketMine-MP,PHP,38
+69691727,pmmp/PocketMine-MP,PHP,39
 2686502,pimcore/pimcore,PHP,59
 129852395,assimon/dujiaoka,PHP,134
 141720301,dr5hn/countries-states-cities-database,PHP,152

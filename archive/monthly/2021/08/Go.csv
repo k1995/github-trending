@@ -1,15 +1,15 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,1419
+21540759,avelino/awesome-go,Go,1422
 20904437,gin-gonic/gin,Go,903
-6838921,prometheus/prometheus,Go,529
-42408804,traefik/traefik,Go,364
+6838921,prometheus/prometheus,Go,530
+42408804,traefik/traefik,Go,366
 17803236,rclone/rclone,Go,388
 8989842,unknwon/the-way-to-go_ZH_CN,Go,325
 72495579,go-gitea/gitea,Go,367
-43723161,helm/helm,Go,236
+43723161,helm/helm,Go,235
 136815833,Dreamacro/clash,Go,730
 29217054,asim/go-micro,Go,229
-123572362,quii/learn-go-with-tests,Go,392
+123572362,quii/learn-go-with-tests,Go,393
 107286889,schollz/croc,Go,715
 165041732,go-kratos/kratos,Go,1210
 54400687,grafana/k6,Go,542
@@ -18,9 +18,9 @@ id,name,lang,new stars
 153099672,inancgumus/learngo,Go,759
 42332863,filebrowser/filebrowser,Go,478
 130430977,kubesphere/kubesphere,Go,620
-237523442,tailscale/tailscale,Go,558
+237523442,tailscale/tailscale,Go,559
 87990209,kubernetes/autoscaler,Go,131
-360107267,SmartKeyerror/Psyduck,Go,2280
+360107267,SmartKeyerror/Psyduck,Go,2281
 276822250,oam-dev/kubevela,Go,187
-302670797,ossf/scorecard,Go,968
+302670797,ossf/scorecard,Go,958
 344676663,erda-project/erda,Go,696
