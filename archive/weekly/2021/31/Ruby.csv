@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,51
+8514,rails/rails,Ruby,52
 65252,jekyll/jekyll,Ruby,50
-8681349,huginn/huginn,Ruby,37
+8681349,huginn/huginn,Ruby,38
 2293158,rapid7/metasploit-framework,Ruby,74
-52281283,mastodon/mastodon,Ruby,54
+52281283,mastodon/mastodon,Ruby,56
 3623050,Homebrew/homebrew-cask,Ruby,20
 2203645,CocoaPods/CocoaPods,Ruby,15
 3314,spree/spree,Ruby,14
 88740103,postalserver/postal,Ruby,21
-1918677,fluent/fluentd,Ruby,27
-202291859,chatwoot/chatwoot,Ruby,68
-52855516,Homebrew/homebrew-core,Ruby,22
+1918677,fluent/fluentd,Ruby,28
+202291859,chatwoot/chatwoot,Ruby,69
+52855516,Homebrew/homebrew-core,Ruby,23
 96395,faker-ruby/faker,Ruby,13
 611921,activeadmin/activeadmin,Ruby,5
 1725199,github/linguist,Ruby,27
@@ -20,7 +20,7 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,15
 30985840,solidusio/solidus,Ruby,12
 137805,redis/redis-rb,Ruby,6
-138776049,sorbet/sorbet,Ruby,158
+138776049,sorbet/sorbet,Ruby,159
 200302808,github/view_component,Ruby,11
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,2
 66497320,DataDog/dd-trace-rb,Ruby,2
