@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,53
-65252,jekyll/jekyll,Ruby,52
-53238813,Homebrew/brew,Ruby,98
-2293158,rapid7/metasploit-framework,Ruby,70
-52281283,mastodon/mastodon,Ruby,56
-481872,hashicorp/vagrant,Ruby,57
-1090311,elastic/logstash,Ruby,19
-138312,capistrano/capistrano,Ruby,10
-3314,spree/spree,Ruby,14
-88740103,postalserver/postal,Ruby,22
-1918677,fluent/fluentd,Ruby,25
-202291859,chatwoot/chatwoot,Ruby,70
+8514,rails/rails,Ruby,52
+65252,jekyll/jekyll,Ruby,50
+53238813,Homebrew/brew,Ruby,104
+2293158,rapid7/metasploit-framework,Ruby,71
+52281283,mastodon/mastodon,Ruby,55
+481872,hashicorp/vagrant,Ruby,55
+1090311,elastic/logstash,Ruby,18
+138312,capistrano/capistrano,Ruby,12
+3314,spree/spree,Ruby,15
+88740103,postalserver/postal,Ruby,21
+1918677,fluent/fluentd,Ruby,23
+202291859,chatwoot/chatwoot,Ruby,72
 611921,activeadmin/activeadmin,Ruby,5
 1725199,github/linguist,Ruby,26
 21829,thoughtbot/factory_bot,Ruby,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 137805,redis/redis-rb,Ruby,6
 14238949,elastic/elasticsearch-rails,Ruby,2
 138776049,sorbet/sorbet,Ruby,161
-200302808,github/view_component,Ruby,11
+200302808,github/view_component,Ruby,9
 11980558,github/pages-gem,Ruby,4
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,2
 66497320,DataDog/dd-trace-rb,Ruby,2
