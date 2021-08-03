@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,50
-65252,jekyll/jekyll,Ruby,49
-53238813,Homebrew/brew,Ruby,107
-2293158,rapid7/metasploit-framework,Ruby,72
+8514,rails/rails,Ruby,51
+65252,jekyll/jekyll,Ruby,50
+53238813,Homebrew/brew,Ruby,114
+2293158,rapid7/metasploit-framework,Ruby,69
 52281283,mastodon/mastodon,Ruby,54
 481872,hashicorp/vagrant,Ruby,56
 1090311,elastic/logstash,Ruby,18
 138312,capistrano/capistrano,Ruby,12
 3314,spree/spree,Ruby,14
-88740103,postalserver/postal,Ruby,23
+88740103,postalserver/postal,Ruby,25
 1918677,fluent/fluentd,Ruby,23
-202291859,chatwoot/chatwoot,Ruby,69
+202291859,chatwoot/chatwoot,Ruby,67
 611921,activeadmin/activeadmin,Ruby,5
-1725199,github/linguist,Ruby,26
+1725199,github/linguist,Ruby,25
 21829,thoughtbot/factory_bot,Ruby,4
 75785147,rails/webpacker,Ruby,4
 30337170,rmosolgo/graphql-ruby,Ruby,13
@@ -22,5 +22,5 @@ id,name,lang,new stars
 138776049,sorbet/sorbet,Ruby,162
 200302808,github/view_component,Ruby,9
 11980558,github/pages-gem,Ruby,4
-79618507,fluent/fluentd-kubernetes-daemonset,Ruby,2
+79618507,fluent/fluentd-kubernetes-daemonset,Ruby,3
 66497320,DataDog/dd-trace-rb,Ruby,2
