@@ -1,17 +1,17 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,221
-65252,jekyll/jekyll,Ruby,231
-7569578,discourse/discourse,Ruby,206
-27442967,fastlane/fastlane,Ruby,191
+65252,jekyll/jekyll,Ruby,234
+7569578,discourse/discourse,Ruby,209
+27442967,fastlane/fastlane,Ruby,192
 8681349,huginn/huginn,Ruby,246
-53238813,Homebrew/brew,Ruby,389
-2293158,rapid7/metasploit-framework,Ruby,332
-52281283,mastodon/mastodon,Ruby,188
+53238813,Homebrew/brew,Ruby,391
+2293158,rapid7/metasploit-framework,Ruby,334
+52281283,mastodon/mastodon,Ruby,189
 2500088,gitlabhq/gitlabhq,Ruby,54
-481872,hashicorp/vagrant,Ruby,199
-37382858,kilimchoi/engineering-blogs,Ruby,421
+481872,hashicorp/vagrant,Ruby,200
+37382858,kilimchoi/engineering-blogs,Ruby,419
 3623050,Homebrew/homebrew-cask,Ruby,90
-538746,ruby/ruby,Ruby,111
+538746,ruby/ruby,Ruby,109
 73648678,forem/forem,Ruby,306
 1090311,elastic/logstash,Ruby,68
 3314,spree/spree,Ruby,76
@@ -23,4 +23,4 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,41
 138776049,sorbet/sorbet,Ruby,189
 11426474,github/choosealicense.com,Ruby,53
-161399160,Shopify/shopify-cli,Ruby,48
+161399160,Shopify/shopify-cli,Ruby,47
