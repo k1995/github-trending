@@ -1,26 +1,26 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,317
-44882201,MunGell/awesome-for-beginners,,123
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,429
-267775629,geekxh/hello-algorithm,Java,161
-74627617,commaai/openpilot,C++,211
-519832,mitmproxy/mitmproxy,Python,287
-52630616,apollographql/apollo-client,TypeScript,100
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,604
-328831244,ibraheemdev/modern-unix,,255
-270171567,freefq/free,,72
-89822531,Anuken/Mindustry,Java,151
-138361150,doocs/jvm,Java,168
-380315094,mhadidg/software-architecture-books,,148
-11452538,prometheus/alertmanager,Go,51
-316836816,saadeghi/daisyui,Vue,279
-173382880,Tib3rius/AutoRecon,Python,116
-335164964,dataease/dataease,Java,158
-388260535,sysprog21/lkmpg,TeX,417
-372172254,tokio-rs/axum,Rust,214
-333303663,bytebase/bytebase,Vue,139
-271154586,AlexandreRouma/SDRPlusPlus,C++,84
-309501896,facebookresearch/droidlet,Jupyter Notebook,93
-386398327,org-roam/org-roam-ui,JavaScript,112
-389984027,Hiroshiba/voicevox,TypeScript,73
-389114515,ed3ath/cbtracker,JavaScript,28
+83222441,donnemartin/system-design-primer,Python,118
+20904437,gin-gonic/gin,Go,41
+44882201,MunGell/awesome-for-beginners,,191
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,298
+21648001,akullpp/awesome-java,,33
+74627617,commaai/openpilot,C++,209
+6988020,SheetJS/sheetjs,JavaScript,40
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,668
+328831244,ibraheemdev/modern-unix,,353
+91629816,freqtrade/freqtrade,Python,30
+249342059,chuzhixin/vue-admin-beautiful-pro,Vue,20
+189621607,github/docs,JavaScript,42
+11452538,prometheus/alertmanager,Go,80
+77276660,SigmaHQ/sigma,Python,12
+190416463,actions/virtual-environments,PowerShell,11
+66474729,toniblyx/prowler,Shell,8
+71133469,reviewdog/reviewdog,Go,11
+145670155,open-mmlab/mmcv,Python,6
+2928944,Azure/azure-sdk-for-net,C#,15
+150035938,GhostPack/Rubeus,C#,27
+388260535,sysprog21/lkmpg,TeX,428
+372172254,tokio-rs/axum,Rust,183
+390328218,0x727/ShuiZe_0x727,Python,91
+389984027,Hiroshiba/voicevox,TypeScript,75
+391829930,krishnaik06/Python-Practise-Problems,,29

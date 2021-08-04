@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,1460
-160919119,tiangolo/fastapi,Python,1907
-246335987,ventoy/Ventoy,C,3747
-59996401,YMFE/yapi,JavaScript,686
-214587193,supabase/supabase,TypeScript,2181
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,11962
-123572362,quii/learn-go-with-tests,Go,408
-165041732,go-kratos/kratos,Go,1248
-8162715,mirumee/saleor,Python,1832
-156108442,myspaghetti/macos-virtualbox,Shell,2043
-89266735,facebookresearch/ParlAI,Python,828
-313330998,bradtraversy/50projects50days,CSS,3333
-4165675,smicallef/spiderfoot,Python,311
-32921736,audacity/audacity,C,784
-382800934,tenacityteam/tenacity,C,5325
-237940592,dromara/Sa-Token,Java,1628
-227803815,returntocorp/semgrep,OCaml,695
-145050544,ChristianChiarulli/LunarVim,Lua,975
-381907715,vuejs/petite-vue,TypeScript,2555
-360107267,SmartKeyerror/Psyduck,Go,2325
-231891986,org-roam/org-roam,Emacs Lisp,238
-334274271,opensearch-project/OpenSearch,Java,828
-285092252,serverless-stack/serverless-stack,TypeScript,361
-335164964,dataease/dataease,Java,1144
-350557349,PlummersSoftwareLLC/Primes,C,836
+21540759,avelino/awesome-go,Go,1465
+519832,mitmproxy/mitmproxy,Python,1222
+246335987,ventoy/Ventoy,C,3762
+214587193,supabase/supabase,TypeScript,2182
+312262,philc/vimium,JavaScript,466
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,11877
+165041732,go-kratos/kratos,Go,1254
+8162715,mirumee/saleor,Python,1813
+156108442,myspaghetti/macos-virtualbox,Shell,2045
+89266735,facebookresearch/ParlAI,Python,829
+313330998,bradtraversy/50projects50days,CSS,3321
+4165675,smicallef/spiderfoot,Python,313
+348060227,snowpackjs/astro,TypeScript,2505
+382800934,tenacityteam/tenacity,C,5319
+237940592,dromara/Sa-Token,Java,1630
+283410102,sogou/workflow,C++,576
+227803815,returntocorp/semgrep,OCaml,697
+145050544,ChristianChiarulli/LunarVim,Lua,968
+381907715,vuejs/petite-vue,TypeScript,2519
+360107267,SmartKeyerror/Psyduck,Go,2327
+231891986,org-roam/org-roam,Emacs Lisp,241
+334274271,opensearch-project/OpenSearch,Java,830
+285092252,serverless-stack/serverless-stack,TypeScript,364
+335164964,dataease/dataease,Java,1173
+350557349,PlummersSoftwareLLC/Primes,C,825
