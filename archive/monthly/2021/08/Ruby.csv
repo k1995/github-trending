@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,223
+8514,rails/rails,Ruby,222
 65252,jekyll/jekyll,Ruby,228
-7569578,discourse/discourse,Ruby,210
-27442967,fastlane/fastlane,Ruby,196
-8681349,huginn/huginn,Ruby,245
+7569578,discourse/discourse,Ruby,213
+27442967,fastlane/fastlane,Ruby,197
+8681349,huginn/huginn,Ruby,246
 53238813,Homebrew/brew,Ruby,388
-2293158,rapid7/metasploit-framework,Ruby,332
+2293158,rapid7/metasploit-framework,Ruby,331
 2500088,gitlabhq/gitlabhq,Ruby,55
 481872,hashicorp/vagrant,Ruby,204
 37382858,kilimchoi/engineering-blogs,Ruby,423
 3623050,Homebrew/homebrew-cask,Ruby,91
-538746,ruby/ruby,Ruby,111
+538746,ruby/ruby,Ruby,112
 73648678,forem/forem,Ruby,307
-1090311,elastic/logstash,Ruby,67
+1090311,elastic/logstash,Ruby,68
 3314,spree/spree,Ruby,74
 88740103,postalserver/postal,Ruby,85
 202291859,chatwoot/chatwoot,Ruby,248
@@ -23,4 +23,4 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,62
 39706711,hartator/wayback-machine-downloader,Ruby,597
 138776049,sorbet/sorbet,Ruby,193
-161399160,Shopify/shopify-cli,Ruby,47
+161399160,Shopify/shopify-cli,Ruby,48
