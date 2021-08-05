@@ -1,9 +1,9 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,2069
+9384267,electron/electron,C++,2071
 100060912,microsoft/terminal,C++,1116
 23357588,protocolbuffers/protobuf,C++,950
-22887094,tesseract-ocr/tesseract,C++,722
-15634981,godotengine/godot,C++,1081
+22887094,tesseract-ocr/tesseract,C++,721
+15634981,godotengine/godot,C++,1086
 27729880,grpc/grpc,C++,615
 22067521,ocornut/imgui,C++,770
 39840932,google/googletest,C++,542
@@ -14,13 +14,13 @@ id,name,lang,new stars
 19374812,telegramdesktop/tdesktop,C++,546
 116167731,yuzu-emu/yuzu,C++,399
 74660642,taichi-dev/taichi,C++,267
-125098880,ValveSoftware/Proton,C++,600
+125098880,ValveSoftware/Proton,C++,601
 66088979,changkun/modern-cpp-tutorial,C++,624
 90902132,flameshot-org/flameshot,C++,491
 79317191,typesense/typesense,C++,1547
 82766831,anbox/anbox,C++,171
 5973855,CleverRaven/Cataclysm-DDA,C++,252
 283410102,sogou/workflow,C++,578
-156939672,microsoft/onnxruntime,C++,175
+156939672,microsoft/onnxruntime,C++,174
 354743391,o3de/o3de,C++,3269
 283280154,jomjol/AI-on-the-edge-device,C++,298

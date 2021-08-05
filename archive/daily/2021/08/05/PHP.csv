@@ -3,7 +3,7 @@ id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,6
 7548986,laravel/framework,PHP,8
 13899674,thephpleague/flysystem,PHP,7
-7769432,vlucas/phpdotenv,PHP,3
+7769432,vlucas/phpdotenv,PHP,2
 61490598,PHPOffice/PhpSpreadsheet,PHP,2
 14259390,Maatwebsite/Laravel-Excel,PHP,5
 6660366,dompdf/dompdf,PHP,1
@@ -16,9 +16,9 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,4
 9826184,elastic/elasticsearch-php,PHP,5
 30713379,andersao/l5-repository,PHP,0
-70288750,symfony/flex,PHP,1
+70288750,symfony/flex,PHP,2
 47508644,pterodactyl/panel,PHP,6
-59965104,nuwave/lighthouse,PHP,4
+59965104,nuwave/lighthouse,PHP,3
 14724954,opensourcepos/opensourcepos,PHP,3
 153069455,collabnix/dockerlabs,PHP,2
 15231212,Automattic/jetpack,PHP,0
