@@ -1,26 +1,26 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,170
-20904437,gin-gonic/gin,Go,91
-44882201,MunGell/awesome-for-beginners,,148
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,346
-21648001,akullpp/awesome-java,,93
-74627617,commaai/openpilot,C++,201
-6988020,SheetJS/sheetjs,JavaScript,200
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,527
-328831244,ibraheemdev/modern-unix,,357
-91629816,freqtrade/freqtrade,Python,200
-249342059,chuzhixin/vue-admin-beautiful-pro,Vue,84
-189621607,github/docs,JavaScript,63
+20904437,gin-gonic/gin,Go,130
+44882201,MunGell/awesome-for-beginners,,149
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,326
+21648001,akullpp/awesome-java,,81
+74627617,commaai/openpilot,C++,227
+6988020,SheetJS/sheetjs,JavaScript,165
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,519
+328831244,ibraheemdev/modern-unix,,392
+91629816,freqtrade/freqtrade,Python,209
+249342059,chuzhixin/vue-admin-beautiful-pro,Vue,94
+189621607,github/docs,JavaScript,60
 11452538,prometheus/alertmanager,Go,58
-77276660,SigmaHQ/sigma,Python,30
-71133469,reviewdog/reviewdog,Go,256
-66474729,toniblyx/prowler,Shell,59
-190416463,actions/virtual-environments,PowerShell,42
-145670155,open-mmlab/mmcv,Python,45
-2928944,Azure/azure-sdk-for-net,C#,79
-150035938,GhostPack/Rubeus,C#,60
-388260535,sysprog21/lkmpg,TeX,386
+71133469,reviewdog/reviewdog,Go,255
+77276660,SigmaHQ/sigma,Python,28
+66474729,toniblyx/prowler,Shell,73
+190416463,actions/virtual-environments,PowerShell,46
+145670155,open-mmlab/mmcv,Python,68
+2928944,Azure/azure-sdk-for-net,C#,102
+150035938,GhostPack/Rubeus,C#,51
+388260535,sysprog21/lkmpg,TeX,382
 372172254,tokio-rs/axum,Rust,128
 390328218,0x727/ShuiZe_0x727,Python,104
 389984027,Hiroshiba/voicevox,TypeScript,49
-391829930,krishnaik06/Python-Practise-Problems,,37
+391829930,krishnaik06/Python-Practise-Problems,,48
