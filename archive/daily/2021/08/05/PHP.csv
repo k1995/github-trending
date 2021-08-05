@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,15
-2579314,fzaninotto/Faker,PHP,6
+1863329,laravel/laravel,PHP,13
+2579314,fzaninotto/Faker,PHP,3
 7548986,laravel/framework,PHP,11
-13899674,thephpleague/flysystem,PHP,6
-7769432,vlucas/phpdotenv,PHP,1
+13899674,thephpleague/flysystem,PHP,8
+7769432,vlucas/phpdotenv,PHP,2
 61490598,PHPOffice/PhpSpreadsheet,PHP,2
 14259390,Maatwebsite/Laravel-Excel,PHP,5
 6660366,dompdf/dompdf,PHP,1
@@ -14,12 +14,12 @@ id,name,lang,new stars
 9131292,jenssegers/laravel-mongodb,PHP,2
 14346979,snipe/snipe-it,PHP,5
 10883164,barryvdh/laravel-dompdf,PHP,5
-9826184,elastic/elasticsearch-php,PHP,6
+9826184,elastic/elasticsearch-php,PHP,8
 30713379,andersao/l5-repository,PHP,1
 70288750,symfony/flex,PHP,2
-47508644,pterodactyl/panel,PHP,7
+47508644,pterodactyl/panel,PHP,6
 59965104,nuwave/lighthouse,PHP,2
-14724954,opensourcepos/opensourcepos,PHP,3
+14724954,opensourcepos/opensourcepos,PHP,4
 153069455,collabnix/dockerlabs,PHP,1
 15231212,Automattic/jetpack,PHP,0
 155852027,uvdesk/community-skeleton,PHP,1

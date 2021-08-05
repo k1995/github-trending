@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,93
+1863329,laravel/laravel,PHP,94
 3482588,danielmiessler/SecLists,PHP,111
 458058,symfony/symfony,PHP,31
 2253830,PHPMailer/PHPMailer,PHP,22
@@ -8,19 +8,19 @@ id,name,lang,new stars
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,30
 2884111,magento/magento2,PHP,19
 2179920,woocommerce/woocommerce,PHP,18
-41589337,BookStackApp/BookStack,PHP,41
-2717549,Sylius/Sylius,PHP,17
+41589337,BookStackApp/BookStack,PHP,40
+2717549,Sylius/Sylius,PHP,15
 2141186,opencart/opencart,PHP,16
-31541210,aimeos/aimeos-laravel,PHP,100
-74386167,vimeo/psalm,PHP,24
+31541210,aimeos/aimeos-laravel,PHP,101
+74386167,vimeo/psalm,PHP,23
 3817881,zircote/swagger-php,PHP,15
-60010673,elementor/elementor,PHP,11
-439861,moodle/moodle,PHP,13
+60010673,elementor/elementor,PHP,9
+439861,moodle/moodle,PHP,12
 70288750,symfony/flex,PHP,11
 1740040,pfsense/pfsense,PHP,10
 47508644,pterodactyl/panel,PHP,28
-14724954,opensourcepos/opensourcepos,PHP,13
-129852395,assimon/dujiaoka,PHP,74
+14724954,opensourcepos/opensourcepos,PHP,14
+129852395,assimon/dujiaoka,PHP,72
 131995661,shopware/platform,PHP,7
 75645659,WordPress/wordpress-develop,PHP,11
-167214907,tzsk/otp,PHP,30
+167214907,tzsk/otp,PHP,29
