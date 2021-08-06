@@ -1,12 +1,12 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,1559
-1181927,bitcoin/bitcoin,C++,146
-65600975,pytorch/pytorch,C++,175
-15634981,godotengine/godot,C++,296
-74627617,commaai/openpilot,C++,1249
+9384267,electron/electron,C++,1560
+1181927,bitcoin/bitcoin,C++,150
+65600975,pytorch/pytorch,C++,177
+15634981,godotengine/godot,C++,299
+74627617,commaai/openpilot,C++,1309
 11171548,nlohmann/json,C++,144
 39840932,google/googletest,C++,261
-19374812,telegramdesktop/tdesktop,C++,344
+19374812,telegramdesktop/tdesktop,C++,345
 64991887,microsoft/LightGBM,C++,37
 27500243,google/libphonenumber,C++,201
 2200856,MarlinFirmware/Marlin,C++,49
@@ -15,11 +15,11 @@ id,name,lang,new stars
 33294473,snowie2000/mactype,C++,180
 108102826,carla-simulator/carla,C++,43
 23086893,google/re2,C++,31
-5973855,CleverRaven/Cataclysm-DDA,C++,154
-5909706,yhirose/cpp-httplib,C++,42
-23496542,openai/triton,C++,1005
+5973855,CleverRaven/Cataclysm-DDA,C++,155
+5909706,yhirose/cpp-httplib,C++,43
+23496542,openai/triton,C++,1015
 178613040,Neargye/magic_enum,C++,17
-389952943,orbitersim/orbiter,C++,425
+389952943,orbitersim/orbiter,C++,426
 77624593,Chatterino/chatterino2,C++,16
 384228278,zodiacon/RegExp,C++,151
 271154586,AlexandreRouma/SDRPlusPlus,C++,205
