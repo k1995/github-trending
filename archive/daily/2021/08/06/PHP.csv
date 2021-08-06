@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,26
+1863329,laravel/laravel,PHP,28
 2579314,fzaninotto/Faker,PHP,2
 7548986,laravel/framework,PHP,15
 1548202,matomo-org/matomo,PHP,7
@@ -10,17 +10,17 @@ id,name,lang,new stars
 12166778,googleapis/google-api-php-client,PHP,2
 7550057,doctrine/cache,PHP,4
 9791525,digininja/DVWA,PHP,4
-6269013,aws/aws-sdk-php,PHP,2
+6269013,aws/aws-sdk-php,PHP,3
 14346979,snipe/snipe-it,PHP,8
 10883164,barryvdh/laravel-dompdf,PHP,1
-9826184,elastic/elasticsearch-php,PHP,4
+9826184,elastic/elasticsearch-php,PHP,5
 2464908,joomla/joomla-cms,PHP,1
 439861,moodle/moodle,PHP,4
 4380514,Audi-1/sqli-labs,PHP,2
 246674913,pestphp/pest,PHP,9
-38200433,jeroennoten/Laravel-AdminLTE,PHP,1
-47508644,pterodactyl/panel,PHP,8
+38200433,jeroennoten/Laravel-AdminLTE,PHP,2
+47508644,pterodactyl/panel,PHP,9
 13914116,librenms/librenms,PHP,4
 73781385,orchidsoftware/platform,PHP,2
 17253775,zabbix/zabbix,PHP,1
-102736886,bowu678/php_bugs,PHP,14
+102736886,bowu678/php_bugs,PHP,16
