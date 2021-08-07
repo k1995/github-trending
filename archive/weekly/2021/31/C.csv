@@ -1,21 +1,21 @@
 id,name,lang,new stars
-2810292,pbatard/rufus,C,85
-34921116,iovisor/bcc,C,66
+2810292,pbatard/rufus,C,86
+34921116,iovisor/bcc,C,68
 24993138,google/brotli,C,46
-105627846,reactos/reactos,C,70
+105627846,reactos/reactos,C,71
 3199002,raspberrypi/linux,C,29
-179354282,acidanthera/OpenCorePkg,C,51
-13836499,raysan5/raylib,C,64
-60667730,lvgl/lvgl,C,101
-1979797,FreeRDP/FreeRDP,C,43
+179354282,acidanthera/OpenCorePkg,C,53
+13836499,raysan5/raylib,C,65
+60667730,lvgl/lvgl,C,103
+1979797,FreeRDP/FreeRDP,C,44
 105944401,yugabyte/yugabyte-db,C,47
 50874442,citusdata/citus,C,43
-240507922,mytechnotalent/Reverse-Engineering,C,429
+240507922,mytechnotalent/Reverse-Engineering,C,432
 3349840,hak5darren/USB-Rubber-Ducky,C,21
 33031885,hfiref0x/UACME,C,46
-7705639,merbanan/rtl_433,C,32
+7705639,merbanan/rtl_433,C,33
 282790925,badafans/better-cloudflare-ip,C,44
-349490770,FASTSHIFT/X-TRACK,C,364
+349490770,FASTSHIFT/X-TRACK,C,365
 330008801,libsdl-org/SDL,C,42
 2339555,karelzak/util-linux,C,13
 31374735,fwupd/fwupd,C,25
@@ -23,4 +23,4 @@ id,name,lang,new stars
 214011414,kingToolbox/WindTerm,C,88
 226167620,JF002/InfiniTime,C,29
 390596171,Satsuoni/widevine-l3-guesser,C,409
-386989628,boku7/spawn,C,138
+386989628,boku7/spawn,C,140
