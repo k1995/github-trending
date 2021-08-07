@@ -1,19 +1,19 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,53
+65252,jekyll/jekyll,Ruby,54
 53238813,Homebrew/brew,Ruby,120
 13840241,freeCodeCamp/devdocs,Ruby,60
 2293158,rapid7/metasploit-framework,Ruby,70
 52281283,mastodon/mastodon,Ruby,61
-538746,ruby/ruby,Ruby,43
+538746,ruby/ruby,Ruby,44
 2203645,CocoaPods/CocoaPods,Ruby,17
 1090311,elastic/logstash,Ruby,17
-138312,capistrano/capistrano,Ruby,17
-88740103,postalserver/postal,Ruby,26
+138312,capistrano/capistrano,Ruby,18
+88740103,postalserver/postal,Ruby,28
 52855516,Homebrew/homebrew-core,Ruby,29
-96395,faker-ruby/faker,Ruby,10
+96395,faker-ruby/faker,Ruby,11
 15435,Shopify/liquid,Ruby,24
 810796,sferik/rails_admin,Ruby,7
-21829,thoughtbot/factory_bot,Ruby,12
+21829,thoughtbot/factory_bot,Ruby,13
 355893,github/markup,Ruby,9
 38867,svenfuchs/rails-i18n,Ruby,3
 14238949,elastic/elasticsearch-rails,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,3
 200302808,github/view_component,Ruby,8
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,6
-66497320,DataDog/dd-trace-rb,Ruby,3
+66497320,DataDog/dd-trace-rb,Ruby,4
 13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,20
