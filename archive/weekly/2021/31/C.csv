@@ -1,19 +1,19 @@
 id,name,lang,new stars
 14812739,libuv/libuv,C,68
 196353673,taosdata/TDengine,C,54
-80286288,arendst/Tasmota,C,43
-2810292,pbatard/rufus,C,88
+80286288,arendst/Tasmota,C,45
+2810292,pbatard/rufus,C,89
 34921116,iovisor/bcc,C,70
-24993138,google/brotli,C,47
+24993138,google/brotli,C,48
 45821540,openwrt/openwrt,C,53
 3199002,raspberrypi/linux,C,31
 75811015,Tencent/xLua,C,28
 60667730,lvgl/lvgl,C,105
-1979797,FreeRDP/FreeRDP,C,45
-240507922,mytechnotalent/Reverse-Engineering,C,497
+1979797,FreeRDP/FreeRDP,C,46
+240507922,mytechnotalent/Reverse-Engineering,C,520
 3349840,hak5darren/USB-Rubber-Ducky,C,22
 33031885,hfiref0x/UACME,C,47
-59676171,KevinOConnor/klipper,C,39
+59676171,KevinOConnor/klipper,C,41
 1660127,neutrinolabs/xrdp,C,11
 29933948,fluent/fluent-bit,C,13
 282790925,badafans/better-cloudflare-ip,C,46
@@ -22,5 +22,5 @@ id,name,lang,new stars
 31374735,fwupd/fwupd,C,27
 226167620,JF002/InfiniTime,C,33
 390596171,Satsuoni/widevine-l3-guesser,C,411
-386989628,boku7/spawn,C,140
+386989628,boku7/spawn,C,142
 390949223,xhlove/WVGuesser,C,73

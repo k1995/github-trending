@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,126
-3482588,danielmiessler/SecLists,PHP,140
-458058,symfony/symfony,PHP,42
+1863329,laravel/laravel,PHP,125
+3482588,danielmiessler/SecLists,PHP,143
+458058,symfony/symfony,PHP,44
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,24
 1548202,matomo-org/matomo,PHP,36
-60243197,nextcloud/server,PHP,67
+60243197,nextcloud/server,PHP,69
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,36
-42480275,spatie/laravel-permission,PHP,27
+42480275,spatie/laravel-permission,PHP,28
 2884111,magento/magento2,PHP,21
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,16
 21298446,firefly-iii/firefly-iii,PHP,33
 2141186,opencart/opencart,PHP,16
 14716368,invoiceninja/invoiceninja,PHP,19
-31541210,aimeos/aimeos-laravel,PHP,113
+31541210,aimeos/aimeos-laravel,PHP,114
 9826184,elastic/elasticsearch-php,PHP,17
 74386167,vimeo/psalm,PHP,29
 3817881,zircote/swagger-php,PHP,20
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,17
 73781385,orchidsoftware/platform,PHP,23
 14724954,opensourcepos/opensourcepos,PHP,17
-129852395,assimon/dujiaoka,PHP,82
+129852395,assimon/dujiaoka,PHP,83
 155852027,uvdesk/community-skeleton,PHP,11
