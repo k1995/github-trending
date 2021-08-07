@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,1525
-612230,nvm-sh/nvm,Shell,932
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,3602
-267775629,geekxh/hello-algorithm,Java,840
-246335987,ventoy/Ventoy,C,3859
-59996401,YMFE/yapi,JavaScript,711
-214587193,supabase/supabase,TypeScript,2352
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,10445
-116167731,yuzu-emu/yuzu,C++,424
-123572362,quii/learn-go-with-tests,Go,436
-165041732,go-kratos/kratos,Go,1337
-59435364,outline/outline,JavaScript,452
-146619556,trekhleb/learn-python,Python,2642
-156108442,myspaghetti/macos-virtualbox,Shell,2114
+126577260,trekhleb/javascript-algorithms,JavaScript,3609
+21540759,avelino/awesome-go,Go,1528
+612230,nvm-sh/nvm,Shell,933
+138839979,scutan90/DeepLearning-500-questions,JavaScript,505
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,3607
+267775629,geekxh/hello-algorithm,Java,853
+519832,mitmproxy/mitmproxy,Python,1315
+246335987,ventoy/Ventoy,C,3870
+214587193,supabase/supabase,TypeScript,2361
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,10472
+165041732,go-kratos/kratos,Go,1341
+90902132,flameshot-org/flameshot,C++,511
+59435364,outline/outline,JavaScript,454
+156108442,myspaghetti/macos-virtualbox,Shell,2117
 89266735,facebookresearch/ParlAI,Python,846
-313330998,bradtraversy/50projects50days,CSS,3051
-4165675,smicallef/spiderfoot,Python,326
-138361150,doocs/jvm,Java,808
-237940592,dromara/Sa-Token,Java,1697
-283410102,sogou/workflow,C++,593
+313330998,bradtraversy/50projects50days,CSS,3059
+165826654,deepmind/deepmind-research,Jupyter Notebook,476
+4165675,smicallef/spiderfoot,Python,327
+138361150,doocs/jvm,Java,812
+237940592,dromara/Sa-Token,Java,1698
 231891986,org-roam/org-roam,Emacs Lisp,251
 334274271,opensearch-project/OpenSearch,Java,858
-335164964,dataease/dataease,Java,1512
-344676663,erda-project/erda,Go,869
-366352205,zero205/JD_tencent_scf,JavaScript,549
+143175496,cabaletta/baritone,Java,186
+285092252,serverless-stack/serverless-stack,TypeScript,423
+335164964,dataease/dataease,Java,1525
