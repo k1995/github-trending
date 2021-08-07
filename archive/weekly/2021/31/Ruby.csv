@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,62
-65252,jekyll/jekyll,Ruby,62
+8514,rails/rails,Ruby,63
+65252,jekyll/jekyll,Ruby,63
 8681349,huginn/huginn,Ruby,57
-53238813,Homebrew/brew,Ruby,124
-2293158,rapid7/metasploit-framework,Ruby,75
-52281283,mastodon/mastodon,Ruby,64
+53238813,Homebrew/brew,Ruby,125
+2293158,rapid7/metasploit-framework,Ruby,76
+52281283,mastodon/mastodon,Ruby,65
 538746,ruby/ruby,Ruby,45
 88740103,postalserver/postal,Ruby,29
 96395,faker-ruby/faker,Ruby,12
@@ -12,15 +12,15 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,13
 910744,puppetlabs/puppet,Ruby,14
 75785147,rails/webpacker,Ruby,8
-6899875,opf/openproject,Ruby,24
+6899875,opf/openproject,Ruby,26
 16994115,CanCanCommunity/cancancan,Ruby,10
 38867,svenfuchs/rails-i18n,Ruby,5
 14238949,elastic/elasticsearch-rails,Ruby,3
-138776049,sorbet/sorbet,Ruby,189
+138776049,sorbet/sorbet,Ruby,190
 614070,rubygems/rubygems,Ruby,15
 103766152,github/explore,Ruby,18
 93163073,dependabot/dependabot-core,Ruby,25
 41397625,twbs/bootstrap-rubygem,Ruby,3
-360794368,hschne/rails-mini-profiler,Ruby,105
+360794368,hschne/rails-mini-profiler,Ruby,109
 66497320,DataDog/dd-trace-rb,Ruby,4
 13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,24
