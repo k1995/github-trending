@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2810292,pbatard/rufus,C,83
-34921116,iovisor/bcc,C,65
+2810292,pbatard/rufus,C,85
+34921116,iovisor/bcc,C,66
 24993138,google/brotli,C,46
 105627846,reactos/reactos,C,70
 3199002,raspberrypi/linux,C,29
-179354282,acidanthera/OpenCorePkg,C,48
-13836499,raysan5/raylib,C,63
-60667730,lvgl/lvgl,C,99
-1979797,FreeRDP/FreeRDP,C,41
+179354282,acidanthera/OpenCorePkg,C,51
+13836499,raysan5/raylib,C,64
+60667730,lvgl/lvgl,C,101
+1979797,FreeRDP/FreeRDP,C,43
 105944401,yugabyte/yugabyte-db,C,47
 50874442,citusdata/citus,C,43
 240507922,mytechnotalent/Reverse-Engineering,C,429
@@ -15,12 +15,12 @@ id,name,lang,new stars
 33031885,hfiref0x/UACME,C,46
 7705639,merbanan/rtl_433,C,32
 282790925,badafans/better-cloudflare-ip,C,44
-349490770,FASTSHIFT/X-TRACK,C,361
-330008801,libsdl-org/SDL,C,40
+349490770,FASTSHIFT/X-TRACK,C,364
+330008801,libsdl-org/SDL,C,42
 2339555,karelzak/util-linux,C,13
 31374735,fwupd/fwupd,C,25
 331380723,raspberrypi/pico-sdk,C,16
-214011414,kingToolbox/WindTerm,C,87
+214011414,kingToolbox/WindTerm,C,88
 226167620,JF002/InfiniTime,C,29
 390596171,Satsuoni/widevine-l3-guesser,C,409
-386989628,boku7/spawn,C,137
+386989628,boku7/spawn,C,138

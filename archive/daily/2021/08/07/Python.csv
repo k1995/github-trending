@@ -1,17 +1,17 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,257
-32689863,3b1b/manim,Python,212
-160919119,tiangolo/fastapi,Python,105
-71932349,ray-project/ray,Python,30
+83222441,donnemartin/system-design-primer,Python,270
+32689863,3b1b/manim,Python,211
+160919119,tiangolo/fastapi,Python,112
+71932349,ray-project/ray,Python,32
 11407242,cookiecutter/cookiecutter,Python,20
-178626720,PyTorchLightning/pytorch-lightning,Python,18
-262296122,PaddlePaddle/PaddleOCR,Python,69
+178626720,PyTorchLightning/pytorch-lightning,Python,21
+262296122,PaddlePaddle/PaddleOCR,Python,70
 70908208,RasaHQ/rasa,Python,281
 16479108,wagtail/wagtail,Python,8
 91629816,freqtrade/freqtrade,Python,105
-1864233,frappe/erpnext,Python,17
-120710644,Vonng/ddia,Python,31
-111113343,deepmipt/DeepPavlov,Python,6
+1864233,frappe/erpnext,Python,19
+120710644,Vonng/ddia,Python,32
+111113343,deepmipt/DeepPavlov,Python,7
 300996055,lucidrains/vit-pytorch,Python,31
 35065876,GoogleCloudPlatform/python-docs-samples,Python,5
 203465734,facebookresearch/SlowFast,Python,12
@@ -19,8 +19,8 @@ id,name,lang,new stars
 72473727,kubernetes-client/python,Python,8
 53548867,dbt-labs/dbt,Python,21
 9801644,elastic/elasticsearch-py,Python,7
-79848747,ticarpi/jwt_tool,Python,29
+79848747,ticarpi/jwt_tool,Python,30
 390328218,0x727/ShuiZe_0x727,Python,167
 364211069,yqchilde/JDMemberCloseAccount,Python,17
 278368839,python-unsam/Programacion_en_Python_UNSAM,Python,7
-391854578,bilibili/LastOrder-Dota2,Python,87
+391854578,bilibili/LastOrder-Dota2,Python,90
