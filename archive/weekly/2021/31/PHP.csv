@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,125
-3482588,danielmiessler/SecLists,PHP,139
+1863329,laravel/laravel,PHP,126
+3482588,danielmiessler/SecLists,PHP,140
 458058,symfony/symfony,PHP,42
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,23
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,24
 1548202,matomo-org/matomo,PHP,36
-60243197,nextcloud/server,PHP,64
+60243197,nextcloud/server,PHP,67
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,36
 42480275,spatie/laravel-permission,PHP,27
 2884111,magento/magento2,PHP,21
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,16
-21298446,firefly-iii/firefly-iii,PHP,32
+21298446,firefly-iii/firefly-iii,PHP,33
 2141186,opencart/opencart,PHP,16
-14716368,invoiceninja/invoiceninja,PHP,18
+14716368,invoiceninja/invoiceninja,PHP,19
 31541210,aimeos/aimeos-laravel,PHP,113
 9826184,elastic/elasticsearch-php,PHP,17
 74386167,vimeo/psalm,PHP,29
@@ -21,6 +21,6 @@ id,name,lang,new stars
 47508644,pterodactyl/panel,PHP,36
 1957456,Dolibarr/dolibarr,PHP,17
 73781385,orchidsoftware/platform,PHP,23
-14724954,opensourcepos/opensourcepos,PHP,16
+14724954,opensourcepos/opensourcepos,PHP,17
 129852395,assimon/dujiaoka,PHP,82
 155852027,uvdesk/community-skeleton,PHP,11

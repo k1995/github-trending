@@ -1,8 +1,8 @@
 id,name,lang,new stars
 41881900,microsoft/vscode,TypeScript,141
 6838921,prometheus/prometheus,Go,47
-32689863,3b1b/manim,Python,211
-74627617,commaai/openpilot,C++,755
+32689863,3b1b/manim,Python,212
+74627617,commaai/openpilot,C++,766
 267775629,geekxh/hello-algorithm,Java,235
 9754983,eugenp/tutorials,Java,114
 30203935,metabase/metabase,Clojure,29
@@ -11,13 +11,13 @@ id,name,lang,new stars
 6520784,RPCS3/rpcs3,C++,20
 62088377,kubernetes/kompose,Go,61
 293498508,JetBrains/compose-jb,Kotlin,377
-240507922,mytechnotalent/Reverse-Engineering,C,261
+240507922,mytechnotalent/Reverse-Engineering,C,318
 19961085,apache/pinot,Java,134
 2928944,Azure/azure-sdk-for-net,C#,140
 262828795,badtuxx/DescomplicandoKubernetes,Shell,187
 335164964,dataease/dataease,Java,316
-302827809,datafuselabs/datafuse,Rust,409
-391973138,alyssaxuu/mapus,JavaScript,685
+302827809,datafuselabs/datafuse,Rust,474
+391973138,alyssaxuu/mapus,JavaScript,686
 392954531,badtuxx/DescomplicandoDocker,,1184
 340402576,mrousavy/react-native-vision-camera,Swift,38
 366352205,zero205/JD_tencent_scf,JavaScript,31
