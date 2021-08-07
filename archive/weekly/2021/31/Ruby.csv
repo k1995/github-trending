@@ -1,6 +1,6 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,54
-53238813,Homebrew/brew,Ruby,120
+65252,jekyll/jekyll,Ruby,57
+53238813,Homebrew/brew,Ruby,121
 13840241,freeCodeCamp/devdocs,Ruby,60
 2293158,rapid7/metasploit-framework,Ruby,70
 52281283,mastodon/mastodon,Ruby,61
@@ -10,12 +10,12 @@ id,name,lang,new stars
 138312,capistrano/capistrano,Ruby,18
 88740103,postalserver/postal,Ruby,28
 52855516,Homebrew/homebrew-core,Ruby,29
-96395,faker-ruby/faker,Ruby,11
+96395,faker-ruby/faker,Ruby,12
 15435,Shopify/liquid,Ruby,24
 810796,sferik/rails_admin,Ruby,7
 21829,thoughtbot/factory_bot,Ruby,13
 355893,github/markup,Ruby,9
-38867,svenfuchs/rails-i18n,Ruby,3
+38867,svenfuchs/rails-i18n,Ruby,4
 14238949,elastic/elasticsearch-rails,Ruby,3
 138776049,sorbet/sorbet,Ruby,188
 614070,rubygems/rubygems,Ruby,15
@@ -23,4 +23,4 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,8
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,6
 66497320,DataDog/dd-trace-rb,Ruby,4
-13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,20
+13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,23

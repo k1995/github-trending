@@ -1,10 +1,10 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,17
 1864363,composer/composer,PHP,11
-7548986,laravel/framework,PHP,23
+7548986,laravel/framework,PHP,25
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,6
 1376664,Seldaek/monolog,PHP,11
-60243197,nextcloud/server,PHP,10
+60243197,nextcloud/server,PHP,11
 14732311,octobercms/october,PHP,4
 10157178,egulias/EmailValidator,PHP,7
 61490598,PHPOffice/PhpSpreadsheet,PHP,7
@@ -13,7 +13,7 @@ id,name,lang,new stars
 5627682,serbanghita/Mobile-Detect,PHP,2
 597887,doctrine/orm,PHP,5
 656494,cakephp/cakephp,PHP,4
-10238429,tennc/webshell,PHP,4
+10238429,tennc/webshell,PHP,5
 13612575,fruitcake/laravel-cors,PHP,4
 6269013,aws/aws-sdk-php,PHP,5
 14346979,snipe/snipe-it,PHP,9
