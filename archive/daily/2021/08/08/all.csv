@@ -1,12 +1,12 @@
 id,name,lang,new stars
 41881900,microsoft/vscode,TypeScript,277
-6838921,prometheus/prometheus,Go,142
+6838921,prometheus/prometheus,Go,130
 32689863,3b1b/manim,Python,362
 74627617,commaai/openpilot,C++,1175
 267775629,geekxh/hello-algorithm,Java,326
 9754983,eugenp/tutorials,Java,138
 30203935,metabase/metabase,Clojure,112
-207645083,tannerlinsley/react-query,TypeScript,172
+207645083,tannerlinsley/react-query,TypeScript,165
 70908208,RasaHQ/rasa,Python,503
 6520784,RPCS3/rpcs3,C++,103
 62088377,kubernetes/kompose,Go,182
@@ -14,11 +14,11 @@ id,name,lang,new stars
 240507922,mytechnotalent/Reverse-Engineering,C,426
 19961085,apache/pinot,Java,192
 2928944,Azure/azure-sdk-for-net,C#,198
-262828795,badtuxx/DescomplicandoKubernetes,Shell,245
-335164964,dataease/dataease,Java,366
+262828795,badtuxx/DescomplicandoKubernetes,Shell,236
+335164964,dataease/dataease,Java,165
 391973138,alyssaxuu/mapus,JavaScript,1070
 302827809,datafuselabs/datafuse,Rust,543
-392954531,badtuxx/DescomplicandoDocker,,1431
+392954531,badtuxx/DescomplicandoDocker,,1230
 340402576,mrousavy/react-native-vision-camera,Swift,111
 366352205,zero205/JD_tencent_scf,JavaScript,51
 291930234,testjavascript/nodejs-integration-tests-best-practices,JavaScript,445

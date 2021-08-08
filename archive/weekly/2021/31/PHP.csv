@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,128
+1863329,laravel/laravel,PHP,131
 3482588,danielmiessler/SecLists,PHP,145
 458058,symfony/symfony,PHP,44
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,24
-1548202,matomo-org/matomo,PHP,37
+1548202,matomo-org/matomo,PHP,38
 60243197,nextcloud/server,PHP,72
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,37
-42480275,spatie/laravel-permission,PHP,29
+42480275,spatie/laravel-permission,PHP,30
 2884111,magento/magento2,PHP,22
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,17
 21298446,firefly-iii/firefly-iii,PHP,33
@@ -17,7 +17,7 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,29
 3817881,zircote/swagger-php,PHP,21
 70288750,symfony/flex,PHP,12
-1740040,pfsense/pfsense,PHP,12
+1740040,pfsense/pfsense,PHP,13
 47508644,pterodactyl/panel,PHP,37
 1957456,Dolibarr/dolibarr,PHP,17
 73781385,orchidsoftware/platform,PHP,23
