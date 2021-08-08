@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,26
-65252,jekyll/jekyll,Ruby,23
-7569578,discourse/discourse,Ruby,25
+65252,jekyll/jekyll,Ruby,24
+7569578,discourse/discourse,Ruby,26
 8681349,huginn/huginn,Ruby,26
-53238813,Homebrew/brew,Ruby,39
+53238813,Homebrew/brew,Ruby,41
 2293158,rapid7/metasploit-framework,Ruby,34
-2500088,gitlabhq/gitlabhq,Ruby,10
-481872,hashicorp/vagrant,Ruby,26
+2500088,gitlabhq/gitlabhq,Ruby,11
+481872,hashicorp/vagrant,Ruby,27
 308770,heartcombo/devise,Ruby,11
 37382858,kilimchoi/engineering-blogs,Ruby,17
-3623050,Homebrew/homebrew-cask,Ruby,8
+3623050,Homebrew/homebrew-cask,Ruby,10
 538746,ruby/ruby,Ruby,14
 3314,spree/spree,Ruby,8
 18486300,lewagon/setup,Ruby,27
@@ -18,7 +18,7 @@ id,name,lang,new stars
 20552964,realm/jazzy,Ruby,2
 2441517,puma/puma,Ruby,8
 75785147,rails/webpacker,Ruby,4
-69813387,iberianpig/fusuma,Ruby,6
+69813387,iberianpig/fusuma,Ruby,7
 11426474,github/choosealicense.com,Ruby,4
 103766152,github/explore,Ruby,11
 33225130,helpyio/helpy,Ruby,1
