@@ -1,19 +1,19 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,233
-65252,jekyll/jekyll,Ruby,244
+65252,jekyll/jekyll,Ruby,246
 27442967,fastlane/fastlane,Ruby,206
-8681349,huginn/huginn,Ruby,266
-53238813,Homebrew/brew,Ruby,414
-2293158,rapid7/metasploit-framework,Ruby,356
+8681349,huginn/huginn,Ruby,267
+53238813,Homebrew/brew,Ruby,416
+2293158,rapid7/metasploit-framework,Ruby,358
 52281283,mastodon/mastodon,Ruby,207
 2500088,gitlabhq/gitlabhq,Ruby,65
-37382858,kilimchoi/engineering-blogs,Ruby,425
-3623050,Homebrew/homebrew-cask,Ruby,100
+37382858,kilimchoi/engineering-blogs,Ruby,426
+3623050,Homebrew/homebrew-cask,Ruby,101
 538746,ruby/ruby,Ruby,124
-73648678,forem/forem,Ruby,307
-3314,spree/spree,Ruby,78
-88740103,postalserver/postal,Ruby,91
-202291859,chatwoot/chatwoot,Ruby,261
+73648678,forem/forem,Ruby,308
+3314,spree/spree,Ruby,80
+88740103,postalserver/postal,Ruby,93
+202291859,chatwoot/chatwoot,Ruby,262
 52855516,Homebrew/homebrew-core,Ruby,125
 96395,faker-ruby/faker,Ruby,55
 15435,Shopify/liquid,Ruby,88
@@ -21,6 +21,6 @@ id,name,lang,new stars
 355893,github/markup,Ruby,30
 30337170,rmosolgo/graphql-ruby,Ruby,63
 39706711,hartator/wayback-machine-downloader,Ruby,600
-138776049,sorbet/sorbet,Ruby,214
+138776049,sorbet/sorbet,Ruby,215
 161399160,Shopify/shopify-cli,Ruby,52
 66497320,DataDog/dd-trace-rb,Ruby,5
