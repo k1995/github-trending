@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,68
+8514,rails/rails,Ruby,67
 65252,jekyll/jekyll,Ruby,66
 8681349,huginn/huginn,Ruby,59
 53238813,Homebrew/brew,Ruby,130
-2293158,rapid7/metasploit-framework,Ruby,80
-52281283,mastodon/mastodon,Ruby,69
-538746,ruby/ruby,Ruby,47
-88740103,postalserver/postal,Ruby,29
+2293158,rapid7/metasploit-framework,Ruby,83
+52281283,mastodon/mastodon,Ruby,70
+538746,ruby/ruby,Ruby,48
+88740103,postalserver/postal,Ruby,30
 96395,faker-ruby/faker,Ruby,12
-15435,Shopify/liquid,Ruby,25
+15435,Shopify/liquid,Ruby,26
 21829,thoughtbot/factory_bot,Ruby,13
 910744,puppetlabs/puppet,Ruby,16
 75785147,rails/webpacker,Ruby,8
@@ -19,7 +19,7 @@ id,name,lang,new stars
 138776049,sorbet/sorbet,Ruby,191
 614070,rubygems/rubygems,Ruby,15
 103766152,github/explore,Ruby,20
-93163073,dependabot/dependabot-core,Ruby,25
+93163073,dependabot/dependabot-core,Ruby,26
 41397625,twbs/bootstrap-rubygem,Ruby,3
 360794368,hschne/rails-mini-profiler,Ruby,109
 66497320,DataDog/dd-trace-rb,Ruby,4
