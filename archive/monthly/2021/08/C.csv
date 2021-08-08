@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1881
-156018,redis/redis,C,730
-246335987,ventoy/Ventoy,C,3886
+2325298,torvalds/linux,C,1883
+156018,redis/redis,C,731
+246335987,ventoy/Ventoy,C,3888
 1357796,emscripten-core/emscripten,C,171
 102578345,coolsnowwolf/lede,C,464
-95879426,Tencent/ncnn,C,326
-27737393,qmk/qmk_firmware,C,251
+95879426,Tencent/ncnn,C,325
+27737393,qmk/qmk_firmware,C,253
 40217904,swaywm/sway,C,146
 32873313,systemd/systemd,C,146
 41215835,HandBrake/HandBrake,C,229
@@ -13,9 +13,9 @@ id,name,lang,new stars
 65899476,espressif/esp-idf,C,164
 60667730,lvgl/lvgl,C,374
 689344,libretro/RetroArch,C,133
-89315980,SecWiki/windows-kernel-exploits,C,127
+89315980,SecWiki/windows-kernel-exploits,C,128
 1979797,FreeRDP/FreeRDP,C,123
-254327261,sandboxie-plus/Sandboxie,C,218
+254327261,sandboxie-plus/Sandboxie,C,219
 3349840,hak5darren/USB-Rubber-Ducky,C,69
 59676171,KevinOConnor/klipper,C,111
 213916896,blender/blender,C,213
