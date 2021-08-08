@@ -1,8 +1,8 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,98
-48378947,fatedier/frp,Go,93
+21540759,avelino/awesome-go,Go,102
+48378947,fatedier/frp,Go,95
 6838921,prometheus/prometheus,Go,130
-15452919,ethereum/go-ethereum,Go,53
+15452919,ethereum/go-ethereum,Go,58
 17728164,hashicorp/terraform,Go,45
 46806184,helm/charts,Go,8
 129717717,grafana/loki,Go,29
@@ -11,8 +11,8 @@ id,name,lang,new stars
 36653430,hashicorp/nomad,Go,7
 40684033,mozilla/sops,Go,23
 54230994,coredns/coredns,Go,16
-191655189,ent/ent,Go,71
-134012064,pion/webrtc,Go,15
+191655189,ent/ent,Go,73
+134012064,pion/webrtc,Go,16
 62088377,kubernetes/kompose,Go,170
 79921099,chromedp/chromedp,Go,23
 44087204,google/syzkaller,Go,14
@@ -20,7 +20,7 @@ id,name,lang,new stars
 93446042,terraform-providers/terraform-provider-azurerm,Go,9
 60978152,terraform-docs/terraform-docs,Go,9
 103084166,accurics/terrascan,Go,7
-299832860,livekit/livekit-server,Go,23
+299832860,livekit/livekit-server,Go,26
 127765544,Kong/kubernetes-ingress-controller,Go,4
 124260244,banzaicloud/bank-vaults,Go,3
-378374701,chenjiandongx/mandodb,Go,167
+378374701,chenjiandongx/mandodb,Go,168
