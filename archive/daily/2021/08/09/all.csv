@@ -1,11 +1,11 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,307
-147350463,leonardomso/33-js-concepts,JavaScript,301
+184456251,microsoft/PowerToys,C#,228
+147350463,leonardomso/33-js-concepts,JavaScript,186
 74627617,commaai/openpilot,C++,1413
-80286288,arendst/Tasmota,C,149
-116167731,yuzu-emu/yuzu,C++,184
-192025001,Qv2ray/Qv2ray,C++,128
-38267641,trufflesuite/truffle,JavaScript,108
+80286288,arendst/Tasmota,C,155
+116167731,yuzu-emu/yuzu,C++,245
+192025001,Qv2ray/Qv2ray,C++,131
+38267641,trufflesuite/truffle,JavaScript,117
 6520784,RPCS3/rpcs3,C++,310
 207837082,yifeikong/reverse-interview-zh,,527
 62088377,kubernetes/kompose,Go,349
@@ -13,14 +13,14 @@ id,name,lang,new stars
 2928944,Azure/azure-sdk-for-net,C#,248
 319991441,FlaxEngine/FlaxEngine,C++,175
 47042287,codebasics/py,Jupyter Notebook,115
-347502287,kingoflolz/mesh-transformer-jax,Python,192
+347502287,kingoflolz/mesh-transformer-jax,Python,83
 262828795,badtuxx/DescomplicandoKubernetes,Shell,332
-355959597,willmcgugan/textual,Python,561
+355959597,willmcgugan/textual,Python,568
 302827809,datafuselabs/datafuse,Rust,667
-392954531,badtuxx/DescomplicandoDocker,,1629
+392954531,badtuxx/DescomplicandoDocker,CSS,211
 222813972,abbodi1406/KMS_VL_ALL_AIO,Batchfile,122
 157293887,VoronDesign/Voron-2,,93
-334777857,mszoek/airyx,Objective-C,785
-393307104,nadimkobeissi/appleprivacyletter,JavaScript,393
-387930408,microsoft/gctoolkit,Java,186
-380502721,mrlt8/docker-wyze-bridge,Python,145
+334777857,mszoek/airyx,Objective-C,129
+393307104,nadimkobeissi/appleprivacyletter,JavaScript,168
+387930408,microsoft/gctoolkit,Java,119
+380502721,mrlt8/docker-wyze-bridge,Python,65
