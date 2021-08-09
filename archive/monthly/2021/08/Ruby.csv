@@ -1,5 +1,5 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,234
+8514,rails/rails,Ruby,235
 65252,jekyll/jekyll,Ruby,246
 27442967,fastlane/fastlane,Ruby,206
 8681349,huginn/huginn,Ruby,268
@@ -7,11 +7,11 @@ id,name,lang,new stars
 2293158,rapid7/metasploit-framework,Ruby,359
 52281283,mastodon/mastodon,Ruby,208
 2500088,gitlabhq/gitlabhq,Ruby,65
-37382858,kilimchoi/engineering-blogs,Ruby,426
+37382858,kilimchoi/engineering-blogs,Ruby,428
 3623050,Homebrew/homebrew-cask,Ruby,101
 538746,ruby/ruby,Ruby,125
 73648678,forem/forem,Ruby,308
-3314,spree/spree,Ruby,80
+3314,spree/spree,Ruby,81
 88740103,postalserver/postal,Ruby,93
 202291859,chatwoot/chatwoot,Ruby,262
 52855516,Homebrew/homebrew-core,Ruby,126
@@ -19,7 +19,7 @@ id,name,lang,new stars
 15435,Shopify/liquid,Ruby,88
 21829,thoughtbot/factory_bot,Ruby,44
 355893,github/markup,Ruby,30
-30337170,rmosolgo/graphql-ruby,Ruby,63
+30337170,rmosolgo/graphql-ruby,Ruby,64
 39706711,hartator/wayback-machine-downloader,Ruby,600
 138776049,sorbet/sorbet,Ruby,215
 161399160,Shopify/shopify-cli,Ruby,52

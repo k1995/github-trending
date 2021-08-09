@@ -1,11 +1,11 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,143
-246335987,ventoy/Ventoy,C,176
+111583593,Genymobile/scrcpy,C,144
+246335987,ventoy/Ventoy,C,178
 1357796,emscripten-core/emscripten,C,19
 102578345,coolsnowwolf/lede,C,58
 20159867,nothings/stb,C,44
 7634677,openssl/openssl,C,24
-80286288,arendst/Tasmota,C,16
+80286288,arendst/Tasmota,C,124
 11715753,robertdavidgraham/masscan,C,18
 6201092,mpv-player/mpv,C,31
 66150122,jarun/nnn,C,17
@@ -19,7 +19,7 @@ id,name,lang,new stars
 130578889,pymumu/smartdns,C,14
 5180577,mpc-hc/mpc-hc,C,11
 7705639,merbanan/rtl_433,C,16
-108568638,hanwckf/rt-n56u,C,12
+108568638,hanwckf/rt-n56u,C,13
 96348842,DPDK/dpdk,C,8
 62519414,bjornbytes/lovr,C,250
 211756905,MarlinFirmware/Configurations,C,4
