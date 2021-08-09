@@ -1,18 +1,18 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,1493
-20904437,gin-gonic/gin,Go,1042
-48378947,fatedier/frp,Go,780
-6838921,prometheus/prometheus,Go,678
-41986369,pingcap/tidb,Go,377
+21540759,avelino/awesome-go,Go,1492
+20904437,gin-gonic/gin,Go,1047
+48378947,fatedier/frp,Go,782
+6838921,prometheus/prometheus,Go,679
+41986369,pingcap/tidb,Go,378
 17803236,rclone/rclone,Go,420
 136815833,Dreamacro/clash,Go,696
 123572362,quii/learn-go-with-tests,Go,445
-165041732,go-kratos/kratos,Go,1338
-54400687,grafana/k6,Go,537
+165041732,go-kratos/kratos,Go,1336
+54400687,grafana/k6,Go,538
 72891330,kubernetes/ingress-nginx,Go,247
-153099672,inancgumus/learngo,Go,709
-120156076,cloudreve/Cloudreve,Go,659
-191655189,ent/ent,Go,332
+153099672,inancgumus/learngo,Go,708
+120156076,cloudreve/Cloudreve,Go,658
+191655189,ent/ent,Go,331
 208728772,milvus-io/milvus,Go,674
 130430977,kubesphere/kubesphere,Go,672
 18950460,concourse/concourse,Go,97
@@ -20,7 +20,7 @@ id,name,lang,new stars
 63625434,securego/gosec,Go,440
 87990209,kubernetes/autoscaler,Go,127
 105262714,oauth2-proxy/oauth2-proxy,Go,163
-173785481,aquasecurity/tfsec,Go,239
+173785481,aquasecurity/tfsec,Go,240
 51620247,google/uuid,Go,186
 344676663,erda-project/erda,Go,856
 342158146,cloudwego/netpoll,Go,595
