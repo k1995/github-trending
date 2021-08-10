@@ -1,11 +1,11 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,118
-3482588,danielmiessler/SecLists,PHP,110
-1864363,composer/composer,PHP,32
-7548986,laravel/framework,PHP,61
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,21
-1548202,matomo-org/matomo,PHP,38
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,29
+3482588,danielmiessler/SecLists,PHP,112
+1864363,composer/composer,PHP,34
+7548986,laravel/framework,PHP,62
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,22
+1548202,matomo-org/matomo,PHP,40
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,28
 2884111,magento/magento2,PHP,13
 597887,doctrine/orm,PHP,14
 11340559,deployphp/deployer,PHP,19
@@ -13,8 +13,8 @@ id,name,lang,new stars
 2717549,Sylius/Sylius,PHP,15
 7577142,doctrine/annotations,PHP,13
 14716368,invoiceninja/invoiceninja,PHP,15
-3217621,phpmyadmin/phpmyadmin,PHP,18
-14346979,snipe/snipe-it,PHP,23
+3217621,phpmyadmin/phpmyadmin,PHP,19
+14346979,snipe/snipe-it,PHP,24
 9826184,elastic/elasticsearch-php,PHP,16
 3817881,zircote/swagger-php,PHP,18
 2464908,joomla/joomla-cms,PHP,7
