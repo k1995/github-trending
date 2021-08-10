@@ -1,26 +1,26 @@
 id,name,lang,new stars
-157616880,iptv-org/iptv,JavaScript,409
+157616880,iptv-org/iptv,JavaScript,408
 32689863,3b1b/manim,Python,629
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,961
-74627617,commaai/openpilot,C++,2126
-267775629,geekxh/hello-algorithm,Java,762
-519832,mitmproxy/mitmproxy,Python,547
-328831244,ibraheemdev/modern-unix,,1775
-89822531,Anuken/Mindustry,Java,273
-91629816,freqtrade/freqtrade,Python,493
-120156076,cloudreve/Cloudreve,Go,228
-165826654,deepmind/deepmind-research,Jupyter Notebook,202
-62088377,kubernetes/kompose,Go,454
-138361150,doocs/jvm,Java,456
-293498508,JetBrains/compose-jb,Kotlin,742
-237867883,metersphere/metersphere,Java,171
+74627617,commaai/openpilot,C++,2122
+267775629,geekxh/hello-algorithm,Java,759
+328831244,ibraheemdev/modern-unix,,1741
+41889031,TeamNewPipe/NewPipe,Java,113
+70908208,RasaHQ/rasa,Python,697
+89822531,Anuken/Mindustry,Java,234
+165826654,deepmind/deepmind-research,Jupyter Notebook,206
+62088377,kubernetes/kompose,Go,451
+108102826,carla-simulator/carla,C++,52
+138361150,doocs/jvm,Java,462
+293498508,JetBrains/compose-jb,Kotlin,718
+237867883,metersphere/metersphere,Java,158
 304344049,sveltejs/kit,JavaScript,100
-2928944,Azure/azure-sdk-for-net,C#,365
-355959597,willmcgugan/textual,Python,1079
-173382880,Tib3rius/AutoRecon,Python,173
-335164964,dataease/dataease,Java,826
-302827809,datafuselabs/datafuse,Rust,780
-375877482,clouDr-f2e/rubick,JavaScript,552
-383424499,SJang1/korea-covid-19-remaining-vaccine-macro,Python,165
-390596171,Satsuoni/widevine-l3-guesser,C,77
-389114515,ed3ath/cbtracker,JavaScript,73
+2928944,Azure/azure-sdk-for-net,C#,364
+355959597,willmcgugan/textual,Python,1125
+335164964,dataease/dataease,Java,824
+388260535,sysprog21/lkmpg,TeX,1416
+302827809,datafuselabs/datafuse,Rust,789
+375877482,clouDr-f2e/rubick,JavaScript,550
+372172254,tokio-rs/axum,Rust,483
+383424499,SJang1/korea-covid-19-remaining-vaccine-macro,Python,157
+309501896,facebookresearch/droidlet,Jupyter Notebook,200
+389984027,Hiroshiba/voicevox,TypeScript,158
