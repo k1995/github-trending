@@ -1,17 +1,17 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,3
-2253830,PHPMailer/PHPMailer,PHP,4
-60243197,nextcloud/server,PHP,8
-3431193,yiisoft/yii2,PHP,1
-12615154,barryvdh/laravel-debugbar,PHP,7
-61490598,PHPOffice/PhpSpreadsheet,PHP,5
-23680678,tymondesigns/jwt-auth,PHP,1
+2253830,PHPMailer/PHPMailer,PHP,5
+60243197,nextcloud/server,PHP,9
+3431193,yiisoft/yii2,PHP,2
+12615154,barryvdh/laravel-debugbar,PHP,4
+61490598,PHPOffice/PhpSpreadsheet,PHP,6
+23680678,tymondesigns/jwt-auth,PHP,0
 364315,predis/predis,PHP,0
 6763587,PrestaShop/PrestaShop,PHP,1
 9791525,digininja/DVWA,PHP,3
-97311017,rectorphp/rector,PHP,0
+97311017,rectorphp/rector,PHP,1
 76064827,mailcow/mailcow-dockerized,PHP,7
-60010673,elementor/elementor,PHP,3
+60010673,elementor/elementor,PHP,2
 159606650,hyperf/hyperf,PHP,3
 2784293,php-amqplib/php-amqplib,PHP,0
 148129143,bagisto/bagisto,PHP,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 57463067,AzuraCast/AzuraCast,PHP,1
 330980599,yanfeizhang/coder-kung-fu,PHP,2
 75645659,WordPress/wordpress-develop,PHP,0
-312596796,BadApple9/speedtest-x,PHP,2
+312596796,BadApple9/speedtest-x,PHP,1
 182036179,szvone/vmqphp,PHP,1
 365598442,JeffreyWay/Laravel-From-Scratch-Blog-Project,PHP,2
-387854154,SteamDatabase/FileDetectionRuleSets,PHP,7
+387854154,SteamDatabase/FileDetectionRuleSets,PHP,4
