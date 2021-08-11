@@ -1,26 +1,26 @@
 id,name,lang,new stars
-157616880,iptv-org/iptv,JavaScript,337
+157616880,iptv-org/iptv,JavaScript,336
 32689863,3b1b/manim,Python,713
-74627617,commaai/openpilot,C++,2025
-267775629,geekxh/hello-algorithm,Java,746
-328831244,ibraheemdev/modern-unix,,1602
-41889031,TeamNewPipe/NewPipe,Java,116
-70908208,RasaHQ/rasa,Python,701
-89822531,Anuken/Mindustry,Java,123
-165826654,deepmind/deepmind-research,Jupyter Notebook,193
+74627617,commaai/openpilot,C++,2009
+267775629,geekxh/hello-algorithm,Java,705
+328831244,ibraheemdev/modern-unix,,1610
+41889031,TeamNewPipe/NewPipe,Java,111
+70908208,RasaHQ/rasa,Python,700
+89822531,Anuken/Mindustry,Java,125
+165826654,deepmind/deepmind-research,Jupyter Notebook,198
 62088377,kubernetes/kompose,Go,461
-108102826,carla-simulator/carla,C++,53
-138361150,doocs/jvm,Java,406
-293498508,JetBrains/compose-jb,Kotlin,753
-237867883,metersphere/metersphere,Java,175
-304344049,sveltejs/kit,JavaScript,92
-355959597,willmcgugan/textual,Python,1521
+108102826,carla-simulator/carla,C++,54
+138361150,doocs/jvm,Java,354
+293498508,JetBrains/compose-jb,Kotlin,763
+237867883,metersphere/metersphere,Java,176
+304344049,sveltejs/kit,JavaScript,98
+355959597,willmcgugan/textual,Python,1631
 2928944,Azure/azure-sdk-for-net,C#,362
-335164964,dataease/dataease,Java,763
-388260535,sysprog21/lkmpg,TeX,1190
-302827809,datafuselabs/datafuse,Rust,802
-375877482,clouDr-f2e/rubick,JavaScript,544
-372172254,tokio-rs/axum,Rust,393
+335164964,dataease/dataease,Java,734
+388260535,sysprog21/lkmpg,TeX,1103
+302827809,datafuselabs/datafuse,Rust,807
+375877482,clouDr-f2e/rubick,JavaScript,465
+372172254,tokio-rs/axum,Rust,377
 383424499,SJang1/korea-covid-19-remaining-vaccine-macro,Python,158
-309501896,facebookresearch/droidlet,Jupyter Notebook,154
-389984027,Hiroshiba/voicevox,TypeScript,114
+309501896,facebookresearch/droidlet,Jupyter Notebook,140
+389984027,Hiroshiba/voicevox,TypeScript,102
