@@ -1,10 +1,10 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,24
-1864363,composer/composer,PHP,8
-7548986,laravel/framework,PHP,6
+3482588,danielmiessler/SecLists,PHP,19
+1864363,composer/composer,PHP,7
+7548986,laravel/framework,PHP,5
 3431193,yiisoft/yii2,PHP,3
 12615154,barryvdh/laravel-debugbar,PHP,5
-8678290,barryvdh/laravel-ide-helper,PHP,6
+8678290,barryvdh/laravel-ide-helper,PHP,5
 2884111,magento/magento2,PHP,2
 622166,FriendsOfPHP/Goutte,PHP,1
 6660366,dompdf/dompdf,PHP,1
@@ -12,15 +12,15 @@ id,name,lang,new stars
 4551765,thephpleague/oauth2-server,PHP,1
 7413451,timber/timber,PHP,2
 10883164,barryvdh/laravel-dompdf,PHP,4
-159606650,hyperf/hyperf,PHP,5
+159606650,hyperf/hyperf,PHP,4
 351298555,thedevdojo/wave,PHP,5
-17253775,zabbix/zabbix,PHP,2
-153632216,spatie/data-transfer-object,PHP,4
-679584,openemr/openemr,PHP,1
+17253775,zabbix/zabbix,PHP,1
+153632216,spatie/data-transfer-object,PHP,3
+679584,openemr/openemr,PHP,2
 144549569,luolongfei/freenom,PHP,6
 139805628,ZE3kr/Cloudflare-CNAME-Setup,PHP,2
 27249479,EC-CUBE/ec-cube,PHP,0
 317717051,ghboke/CorePressWPTheme,PHP,1
 66662684,microsoftgraph/msgraph-sdk-php,PHP,1
-365598442,JeffreyWay/Laravel-From-Scratch-Blog-Project,PHP,1
-393905424,LaravelDaily/Laravel-Challenge-Movie-Table-Eloquent,PHP,4
+365598442,JeffreyWay/Laravel-From-Scratch-Blog-Project,PHP,2
+393905424,LaravelDaily/Laravel-Challenge-Movie-Table-Eloquent,PHP,3
