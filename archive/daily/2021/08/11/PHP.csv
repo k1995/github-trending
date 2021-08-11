@@ -1,6 +1,6 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,4
-2253830,PHPMailer/PHPMailer,PHP,6
+458058,symfony/symfony,PHP,5
+2253830,PHPMailer/PHPMailer,PHP,5
 60243197,nextcloud/server,PHP,4
 3431193,yiisoft/yii2,PHP,2
 12615154,barryvdh/laravel-debugbar,PHP,5
@@ -10,9 +10,9 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,1
 9791525,digininja/DVWA,PHP,3
 97311017,rectorphp/rector,PHP,1
-76064827,mailcow/mailcow-dockerized,PHP,7
+76064827,mailcow/mailcow-dockerized,PHP,5
 60010673,elementor/elementor,PHP,1
-159606650,hyperf/hyperf,PHP,3
+159606650,hyperf/hyperf,PHP,2
 2784293,php-amqplib/php-amqplib,PHP,0
 148129143,bagisto/bagisto,PHP,1
 8077402,MISP/MISP,PHP,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 312596796,BadApple9/speedtest-x,PHP,1
 182036179,szvone/vmqphp,PHP,1
 365598442,JeffreyWay/Laravel-From-Scratch-Blog-Project,PHP,1
-387854154,SteamDatabase/FileDetectionRuleSets,PHP,5
+387854154,SteamDatabase/FileDetectionRuleSets,PHP,4
