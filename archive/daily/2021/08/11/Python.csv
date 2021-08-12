@@ -1,8 +1,8 @@
 id,name,lang,new stars
 54346799,public-apis/public-apis,Python,228
-63476337,TheAlgorithms/Python,Python,59
+63476337,TheAlgorithms/Python,Python,61
 51117837,tensorflow/models,Python,13
-155220641,huggingface/transformers,Python,53
+155220641,huggingface/transformers,Python,204
 3638964,ansible/ansible,Python,16
 262296122,PaddlePaddle/PaddleOCR,Python,226
 253601257,alievk/avatarify-python,Python,9
@@ -10,7 +10,7 @@ id,name,lang,new stars
 197153676,Chia-Network/chia-blockchain,Python,5
 217475193,PaddlePaddle/PaddleDetection,Python,5
 273214029,PaddlePaddle/PaddleGAN,Python,11
-129815042,thu-ml/tianshou,Python,54
+129815042,thu-ml/tianshou,Python,56
 355959597,willmcgugan/textual,Python,429
 347502287,kingoflolz/mesh-transformer-jax,Python,89
 271377309,Layout-Parser/layout-parser,Python,36
