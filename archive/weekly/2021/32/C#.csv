@@ -1,20 +1,20 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,828
+184456251,microsoft/PowerToys,C#,816
 70104825,dotnet-architecture/eShopOnContainers,C#,103
 14964475,AvaloniaUI/Avalonia,C#,51
 198071756,huiyadanli/RevokeMsgPatcher,C#,171
 262395224,dotnet/maui,C#,80
-120231691,Ryujinx/Ryujinx,C#,50
+120231691,Ryujinx/Ryujinx,C#,49
 75990888,dotnet/csharplang,C#,24
 7560589,JeffreySu/WeiXinMPSDK,C#,18
-22636263,duplicati/duplicati,C#,134
-64290739,dodyg/practical-aspnetcore,C#,94
+22636263,duplicati/duplicati,C#,135
+64290739,dodyg/practical-aspnetcore,C#,96
 130160795,HMBSbige/ShadowsocksR-Windows,C#,48
-61403402,CommunityToolkit/WindowsCommunityToolkit,C#,24
+61403402,CommunityToolkit/WindowsCommunityToolkit,C#,26
 32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,13
 136570231,stride3d/stride,C#,21
-2928944,Azure/azure-sdk-for-net,C#,226
-23891194,Azure/azure-powershell,C#,13
+2928944,Azure/azure-sdk-for-net,C#,221
+23891194,Azure/azure-powershell,C#,14
 54308403,microsoft/WinAppDriver,C#,26
 151148482,elsa-workflows/elsa-core,C#,19
 184286875,actions/runner,C#,40
@@ -22,5 +22,5 @@ id,name,lang,new stars
 138290022,mob-sakai/ParticleEffectForUGUI,C#,18
 150035938,GhostPack/Rubeus,C#,57
 77180761,xamarin/XamarinCommunityToolkit,C#,13
-158405551,microsoft/Git-Credential-Manager-Core,C#,33
-379097409,DamianEdwards/MinimalApiPlayground,C#,63
+158405551,microsoft/Git-Credential-Manager-Core,C#,31
+379097409,DamianEdwards/MinimalApiPlayground,C#,68
