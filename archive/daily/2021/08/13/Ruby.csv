@@ -1,6 +1,6 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,10
-52281283,mastodon/mastodon,Ruby,9
+7569578,discourse/discourse,Ruby,11
+52281283,mastodon/mastodon,Ruby,8
 308770,heartcombo/devise,Ruby,1
 538746,ruby/ruby,Ruby,4
 73648678,forem/forem,Ruby,9
@@ -16,7 +16,7 @@ id,name,lang,new stars
 587311,omniauth/omniauth,Ruby,2
 6529205,varvet/pundit,Ruby,0
 20552964,realm/jazzy,Ruby,3
-211588,paper-trail-gem/paper_trail,Ruby,1
+211588,paper-trail-gem/paper_trail,Ruby,0
 355893,github/markup,Ruby,1
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
 6768710,redmine/redmine,Ruby,0

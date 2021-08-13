@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,63
-246335987,ventoy/Ventoy,C,103
+2325298,torvalds/linux,C,66
+246335987,ventoy/Ventoy,C,102
 102578345,coolsnowwolf/lede,C,16
 19994257,go-delve/delve,C,8
-7634677,openssl/openssl,C,11
-11715753,robertdavidgraham/masscan,C,9
+7634677,openssl/openssl,C,12
+11715753,robertdavidgraham/masscan,C,10
 4869294,radareorg/radare2,C,2
 95879426,Tencent/ncnn,C,11
 84240850,timescale/timescaledb,C,8
@@ -16,7 +16,7 @@ id,name,lang,new stars
 70127218,espressif/arduino-esp32,C,7
 5870069,edenhill/librdkafka,C,2
 277194804,lawl/NoiseTorch,C,9
-21329550,wireshark/wireshark,C,2
+21329550,wireshark/wireshark,C,3
 58132544,RediSearch/RediSearch,C,1
 287706896,Tencent/puerts,C,3
 26537135,u-boot/u-boot,C,4
