@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,79
-569041,curl/curl,C,30
-7634677,openssl/openssl,C,12
+2325298,torvalds/linux,C,77
+569041,curl/curl,C,33
+7634677,openssl/openssl,C,14
 613829,openresty/lua-nginx-module,C,5
 1856976,libevent/libevent,C,7
 70127218,espressif/arduino-esp32,C,5
 65899476,espressif/esp-idf,C,7
-105944401,yugabyte/yugabyte-db,C,9
+105944401,yugabyte/yugabyte-db,C,11
 7037996,VirusTotal/yara,C,3
-59771425,zephyrproject-rtos/zephyr,C,5
-115765590,OAID/Tengine,C,48
+59771425,zephyrproject-rtos/zephyr,C,6
+115765590,OAID/Tengine,C,51
 2359378,madler/zlib,C,4
 6331631,axboe/fio,C,6
 4434428,kokke/tiny-AES-c,C,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 194269070,skyline-emu/skyline,C,12
 207354223,FreeRTOS/FreeRTOS-Kernel,C,2
 235565361,woai3c/MIT6.828,C,5
-394877197,bytedance/bhook,C,69
+394877197,bytedance/bhook,C,71
 51990771,ARM-software/CMSIS_5,C,1
-377051717,expressvpn/lightway-core,C,39
+377051717,expressvpn/lightway-core,C,41
