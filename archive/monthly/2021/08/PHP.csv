@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,450
+1863329,laravel/laravel,PHP,454
 7548986,laravel/framework,PHP,247
-448045,sebastianbergmann/phpunit,PHP,111
+448045,sebastianbergmann/phpunit,PHP,112
 2889328,WordPress/WordPress,PHP,120
-60243197,nextcloud/server,PHP,215
+60243197,nextcloud/server,PHP,218
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,116
 49014795,phpstan/phpstan,PHP,87
 2884111,magento/magento2,PHP,76
@@ -12,15 +12,15 @@ id,name,lang,new stars
 16238673,kanboard/kanboard,PHP,128
 6269013,aws/aws-sdk-php,PHP,51
 31541210,aimeos/aimeos-laravel,PHP,200
-74386167,vimeo/psalm,PHP,78
-95011974,akaunting/akaunting,PHP,126
-3817881,zircote/swagger-php,PHP,63
+74386167,vimeo/psalm,PHP,81
+95011974,akaunting/akaunting,PHP,128
+3817881,zircote/swagger-php,PHP,64
 60010673,elementor/elementor,PHP,71
-4380514,Audi-1/sqli-labs,PHP,86
+4380514,Audi-1/sqli-labs,PHP,88
 31595609,mpdf/mpdf,PHP,42
 47508644,pterodactyl/panel,PHP,82
 69691727,pmmp/PocketMine-MP,PHP,46
 13914116,librenms/librenms,PHP,48
 2686502,pimcore/pimcore,PHP,49
 129852395,assimon/dujiaoka,PHP,148
-204114509,solstice23/argon-theme,PHP,83
+204114509,solstice23/argon-theme,PHP,84
