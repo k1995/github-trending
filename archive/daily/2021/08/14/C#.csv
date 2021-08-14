@@ -1,9 +1,9 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,32
-262395224,dotnet/maui,C#,22
+49609581,PowerShell/PowerShell,C#,37
+262395224,dotnet/maui,C#,23
 28239455,dotnet/AspNetCore.Docs,C#,6
-1135454,cefsharp/CefSharp,C#,3
-374228,restsharp/RestSharp,C#,3
+1135454,cefsharp/CefSharp,C#,5
+374228,restsharp/RestSharp,C#,4
 75990888,dotnet/csharplang,C#,8
 11920542,HangfireIO/Hangfire,C#,2
 213460285,jasontaylordev/CleanArchitecture,C#,10
@@ -11,16 +11,16 @@ id,name,lang,new stars
 142480903,microsoft/microsoft-ui-xaml,C#,4
 15509440,akkadotnet/akka.net,C#,1
 10601208,umbraco/Umbraco-CMS,C#,1
-153711830,dotnet/winforms,C#,3
-83187656,EllanJiang/GameFramework,C#,2
+153711830,dotnet/winforms,C#,4
+83187656,EllanJiang/GameFramework,C#,3
 121049045,skoruba/IdentityServer4.Admin,C#,3
 868789,icsharpcode/SharpZipLib,C#,3
 23891194,Azure/azure-powershell,C#,2
 3429434,Code52/carnac,C#,4
-252826419,Unity-Technologies/Graphics,C#,7
-158405551,microsoft/Git-Credential-Manager-Core,C#,107
-375939072,dotnetcore/FastGithub,C#,9
+252826419,Unity-Technologies/Graphics,C#,8
+158405551,microsoft/Git-Credential-Manager-Core,C#,119
+375939072,dotnetcore/FastGithub,C#,13
 156260788,Azure/azure-cosmos-dotnet-v3,C#,1
 241248985,AzureAD/microsoft-identity-web,C#,1
-379097409,DamianEdwards/MinimalApiPlayground,C#,41
-346731213,knela96/Dynamic-Parkour-System,C#,9
+379097409,DamianEdwards/MinimalApiPlayground,C#,38
+346731213,knela96/Dynamic-Parkour-System,C#,10
