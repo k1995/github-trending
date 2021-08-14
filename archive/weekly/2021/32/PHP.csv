@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,123
-3482588,danielmiessler/SecLists,PHP,127
+1863329,laravel/laravel,PHP,124
+3482588,danielmiessler/SecLists,PHP,130
 1864363,composer/composer,PHP,36
-7548986,laravel/framework,PHP,45
+7548986,laravel/framework,PHP,46
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,25
 2253830,PHPMailer/PHPMailer,PHP,36
 1548202,matomo-org/matomo,PHP,40
@@ -10,7 +10,7 @@ id,name,lang,new stars
 72069409,the-control-group/voyager,PHP,14
 42480275,spatie/laravel-permission,PHP,28
 2699935,squizlabs/PHP_CodeSniffer,PHP,12
-622166,FriendsOfPHP/Goutte,PHP,10
+622166,FriendsOfPHP/Goutte,PHP,12
 6660366,dompdf/dompdf,PHP,17
 10238429,tennc/webshell,PHP,35
 2141186,opencart/opencart,PHP,13
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,18
 182349597,jqhph/dcat-admin,PHP,17
 12063996,osTicket/osTicket,PHP,10
-204114509,solstice23/argon-theme,PHP,20
+204114509,solstice23/argon-theme,PHP,21
 75645659,WordPress/wordpress-develop,PHP,7
