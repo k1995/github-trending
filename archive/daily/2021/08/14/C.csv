@@ -1,6 +1,6 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,66
-569041,curl/curl,C,23
+2325298,torvalds/linux,C,71
+569041,curl/curl,C,24
 7634677,openssl/openssl,C,12
 613829,openresty/lua-nginx-module,C,2
 1856976,libevent/libevent,C,5
@@ -9,13 +9,13 @@ id,name,lang,new stars
 105944401,yugabyte/yugabyte-db,C,10
 7037996,VirusTotal/yara,C,1
 59771425,zephyrproject-rtos/zephyr,C,4
-115765590,OAID/Tengine,C,27
+115765590,OAID/Tengine,C,28
 2359378,madler/zlib,C,2
 6331631,axboe/fio,C,5
 4434428,kokke/tiny-AES-c,C,3
 27359183,guanzhi/GmSSL,C,3
 22542684,albfan/miraclecast,C,8
-206121828,FreeRTOS/FreeRTOS,C,2
+206121828,FreeRTOS/FreeRTOS,C,3
 481977,stephane/libmodbus,C,2
 48130039,eclipse/paho.mqtt.c,C,2
 194269070,skyline-emu/skyline,C,9

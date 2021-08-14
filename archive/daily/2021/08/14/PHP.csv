@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,16
+3482588,danielmiessler/SecLists,PHP,22
 1864363,composer/composer,PHP,3
 7548986,laravel/framework,PHP,13
 1420053,guzzle/guzzle,PHP,0
@@ -15,11 +15,11 @@ id,name,lang,new stars
 4242230,PHPOffice/PHPWord,PHP,3
 10883164,barryvdh/laravel-dompdf,PHP,2
 4565995,phpseclib/phpseclib,PHP,2
-39149031,webonyx/graphql-php,PHP,1
+39149031,webonyx/graphql-php,PHP,2
 20413487,ralouphie/getallheaders,PHP,1
 38200433,jeroennoten/Laravel-AdminLTE,PHP,2
 182349597,jqhph/dcat-admin,PHP,4
-150832711,WangNingkai/OLAINDEX,PHP,0
+150832711,WangNingkai/OLAINDEX,PHP,1
 15231212,Automattic/jetpack,PHP,0
 3976623,dflydev/dflydev-dot-access-data,PHP,1
 127391247,CloudTranscoding/CTS,PHP,1
