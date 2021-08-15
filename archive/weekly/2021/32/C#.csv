@@ -1,9 +1,9 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,725
-49609581,PowerShell/PowerShell,C#,231
+184456251,microsoft/PowerToys,C#,726
+49609581,PowerShell/PowerShell,C#,249
 14964475,AvaloniaUI/Avalonia,C#,57
-198071756,huiyadanli/RevokeMsgPatcher,C#,188
-262395224,dotnet/maui,C#,99
+198071756,huiyadanli/RevokeMsgPatcher,C#,172
+262395224,dotnet/maui,C#,100
 12201538,aspnetboilerplate/aspnetboilerplate,C#,31
 75990888,dotnet/csharplang,C#,31
 715082,reactiveui/ReactiveUI,C#,25
@@ -13,14 +13,14 @@ id,name,lang,new stars
 142480903,microsoft/microsoft-ui-xaml,C#,30
 136570231,stride3d/stride,C#,32
 134363073,HandyOrg/HandyControl,C#,32
-2928944,Azure/azure-sdk-for-net,C#,153
+2928944,Azure/azure-sdk-for-net,C#,154
 23891194,Azure/azure-powershell,C#,15
 54308403,microsoft/WinAppDriver,C#,29
-184286875,actions/runner,C#,40
-39425864,tModLoader/tModLoader,C#,23
+184286875,actions/runner,C#,42
+39425864,tModLoader/tModLoader,C#,24
 169731804,Unity-Technologies/UniversalRenderingExamples,C#,21
 252826419,Unity-Technologies/Graphics,C#,15
-158405551,microsoft/Git-Credential-Manager-Core,C#,183
-375939072,dotnetcore/FastGithub,C#,218
+158405551,microsoft/Git-Credential-Manager-Core,C#,184
+375939072,dotnetcore/FastGithub,C#,226
 379097409,DamianEdwards/MinimalApiPlayground,C#,129
-387542412,builtbybel/ThisIsWin11,C#,119
+387542412,builtbybel/ThisIsWin11,C#,124
