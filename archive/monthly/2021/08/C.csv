@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1773
-1614410,FFmpeg/FFmpeg,C,406
-246335987,ventoy/Ventoy,C,4334
+2325298,torvalds/linux,C,1778
+1614410,FFmpeg/FFmpeg,C,407
+246335987,ventoy/Ventoy,C,4340
 102578345,coolsnowwolf/lede,C,484
 80286288,arendst/Tasmota,C,497
-95879426,Tencent/ncnn,C,299
-27737393,qmk/qmk_firmware,C,241
+95879426,Tencent/ncnn,C,300
+27737393,qmk/qmk_firmware,C,242
 105627846,reactos/reactos,C,192
 32873313,systemd/systemd,C,144
 6041301,sumatrapdfreader/sumatrapdf,C,272
@@ -14,8 +14,8 @@ id,name,lang,new stars
 35129809,transmission/transmission,C,111
 689344,libretro/RetroArch,C,129
 89315980,SecWiki/windows-kernel-exploits,C,124
-254327261,sandboxie-plus/Sandboxie,C,229
-241659610,OpenIntelWireless/itlwm,C,191
+254327261,sandboxie-plus/Sandboxie,C,230
+241659610,OpenIntelWireless/itlwm,C,192
 3349840,hak5darren/USB-Rubber-Ducky,C,71
 59676171,KevinOConnor/klipper,C,156
 213916896,blender/blender,C,215
@@ -23,4 +23,4 @@ id,name,lang,new stars
 385642020,GPUOpen-Effects/FidelityFX-FSR,C,1250
 194269070,skyline-emu/skyline,C,131
 272394704,google/security-research,C,440
-226167620,JF002/InfiniTime,C,120
+226167620,JF002/InfiniTime,C,121

@@ -1,21 +1,21 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,223
+8514,rails/rails,Ruby,224
 27442967,fastlane/fastlane,Ruby,193
-8681349,huginn/huginn,Ruby,255
+8681349,huginn/huginn,Ruby,257
 53238813,Homebrew/brew,Ruby,419
 13840241,freeCodeCamp/devdocs,Ruby,260
 2293158,rapid7/metasploit-framework,Ruby,328
 52281283,mastodon/mastodon,Ruby,205
 2500088,gitlabhq/gitlabhq,Ruby,64
 3623050,Homebrew/homebrew-cask,Ruby,100
-538746,ruby/ruby,Ruby,121
-73648678,forem/forem,Ruby,310
+538746,ruby/ruby,Ruby,122
+73648678,forem/forem,Ruby,311
 1090311,elastic/logstash,Ruby,75
 3314,spree/spree,Ruby,61
 88740103,postalserver/postal,Ruby,92
 202291859,chatwoot/chatwoot,Ruby,375
 52855516,Homebrew/homebrew-core,Ruby,117
-15435,Shopify/liquid,Ruby,87
+15435,Shopify/liquid,Ruby,89
 21829,thoughtbot/factory_bot,Ruby,43
 108278,chef/chef,Ruby,47
 910744,puppetlabs/puppet,Ruby,58
@@ -23,4 +23,4 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,49
 138776049,sorbet/sorbet,Ruby,221
 11426474,github/choosealicense.com,Ruby,58
-66497320,DataDog/dd-trace-rb,Ruby,5
+66497320,DataDog/dd-trace-rb,Ruby,6
