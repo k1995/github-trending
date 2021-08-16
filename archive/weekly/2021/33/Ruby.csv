@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,51
+8514,rails/rails,Ruby,53
 7569578,discourse/discourse,Ruby,59
-53238813,Homebrew/brew,Ruby,87
-52281283,mastodon/mastodon,Ruby,49
-308770,heartcombo/devise,Ruby,25
-538746,ruby/ruby,Ruby,27
+53238813,Homebrew/brew,Ruby,88
+52281283,mastodon/mastodon,Ruby,51
+308770,heartcombo/devise,Ruby,26
+538746,ruby/ruby,Ruby,29
 73648678,forem/forem,Ruby,49
 4095287,rubocop/rubocop,Ruby,11
-202291859,chatwoot/chatwoot,Ruby,161
+202291859,chatwoot/chatwoot,Ruby,152
 812393,ruby-grape/grape,Ruby,5
 451035,heartcombo/simple_form,Ruby,6
-277089,flyerhzm/bullet,Ruby,18
+277089,flyerhzm/bullet,Ruby,19
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,57
-75785147,rails/webpacker,Ruby,12
+75785147,rails/webpacker,Ruby,13
 417389,lostisland/faraday,Ruby,3
 1314319,instructure/canvas-lms,Ruby,13
 30985840,solidusio/solidus,Ruby,9
@@ -22,5 +22,5 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,19
 9831101,elastic/elasticsearch-ruby,Ruby,4
 56942570,Homebrew/linuxbrew-core,Ruby,5
-13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,23
+13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,22
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0

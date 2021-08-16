@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,107
-3482588,danielmiessler/SecLists,PHP,138
+1863329,laravel/laravel,PHP,105
+3482588,danielmiessler/SecLists,PHP,143
 1129010,blueimp/jQuery-File-Upload,PHP,14
 2579314,fzaninotto/Faker,PHP,30
-458058,symfony/symfony,PHP,38
+458058,symfony/symfony,PHP,37
 7548986,laravel/framework,PHP,48
 1548202,matomo-org/matomo,PHP,33
-60243197,nextcloud/server,PHP,63
+60243197,nextcloud/server,PHP,60
 3431193,yiisoft/yii2,PHP,9
 42480275,spatie/laravel-permission,PHP,28
-2699935,squizlabs/PHP_CodeSniffer,PHP,14
-622166,FriendsOfPHP/Goutte,PHP,15
+2699935,squizlabs/PHP_CodeSniffer,PHP,15
+622166,FriendsOfPHP/Goutte,PHP,16
 6660366,dompdf/dompdf,PHP,13
 11467667,typecho/typecho,PHP,23
 12166778,googleapis/google-api-php-client,PHP,10
@@ -18,9 +18,9 @@ id,name,lang,new stars
 4242230,PHPOffice/PHPWord,PHP,18
 12594863,kalcaddle/KodExplorer,PHP,13
 4565995,phpseclib/phpseclib,PHP,14
-60010673,elementor/elementor,PHP,10
-2464908,joomla/joomla-cms,PHP,8
-148129143,bagisto/bagisto,PHP,22
-182349597,jqhph/dcat-admin,PHP,18
+60010673,elementor/elementor,PHP,9
+2464908,joomla/joomla-cms,PHP,7
+148129143,bagisto/bagisto,PHP,24
+182349597,jqhph/dcat-admin,PHP,19
 195836215,magicblack/maccms10,PHP,10
-365598442,JeffreyWay/Laravel-From-Scratch-Blog-Project,PHP,9
+365598442,JeffreyWay/Laravel-From-Scratch-Blog-Project,PHP,7

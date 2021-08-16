@@ -1,13 +1,13 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,914
-17620347,dotnet/aspnetcore,C#,417
-38380854,dnSpy/dnSpy,C#,291
+49609581,PowerShell/PowerShell,C#,927
+17620347,dotnet/aspnetcore,C#,416
+38380854,dnSpy/dnSpy,C#,290
 1327739,icsharpcode/ILSpy,C#,196
-14964475,AvaloniaUI/Avalonia,C#,199
-120231691,Ryujinx/Ryujinx,C#,279
+14964475,AvaloniaUI/Avalonia,C#,200
+120231691,Ryujinx/Ryujinx,C#,296
 28232663,dotnet/orleans,C#,84
 22456440,ppy/osu,C#,248
-75990888,dotnet/csharplang,C#,123
+75990888,dotnet/csharplang,C#,125
 22636263,duplicati/duplicati,C#,216
 18586705,nopSolutions/nopCommerce,C#,107
 64290739,dodyg/practical-aspnetcore,C#,153
@@ -18,9 +18,9 @@ id,name,lang,new stars
 2928944,Azure/azure-sdk-for-net,C#,405
 23891194,Azure/azure-powershell,C#,41
 184286875,actions/runner,C#,113
-39425864,tModLoader/tModLoader,C#,86
+39425864,tModLoader/tModLoader,C#,85
 324473895,leiurayer/downkyi,C#,401
-176523594,lucent-sea/Remotely,C#,247
-158405551,microsoft/Git-Credential-Manager-Core,C#,244
+176523594,lucent-sea/Remotely,C#,226
+158405551,microsoft/Git-Credential-Manager-Core,C#,245
 262661480,ALIILAPRO/warp-plus-cloudflare,C#,83
-381490636,ArkaneDev/WinPass11,C#,60
+381490636,ArkaneDev/WinPass11,C#,59
