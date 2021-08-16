@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,84
-15634981,godotengine/godot,C++,17
+1181927,bitcoin/bitcoin,C++,100
+15634981,godotengine/godot,C++,20
 22067521,ocornut/imgui,C++,23
-74627617,commaai/openpilot,C++,33
-116167731,yuzu-emu/yuzu,C++,13
+74627617,commaai/openpilot,C++,36
+116167731,yuzu-emu/yuzu,C++,14
 160083795,SerenityOS/serenity,C++,8
-2200856,MarlinFirmware/Marlin,C++,6
+2200856,MarlinFirmware/Marlin,C++,5
 18348651,OpenRCT2/OpenRCT2,C++,1
-9090933,capnproto/capnproto,C++,7
-1204412,TrinityCore/TrinityCore,C++,4
-106558568,doitsujin/dxvk,C++,2
+9090933,capnproto/capnproto,C++,8
+1204412,TrinityCore/TrinityCore,C++,5
+106558568,doitsujin/dxvk,C++,3
 7512484,ArduPilot/ardupilot,C++,3
-15379620,PCSX2/pcsx2,C++,7
+15379620,PCSX2/pcsx2,C++,6
 143324737,diasurgical/devilutionX,C++,2
-128430621,OpenTTD/OpenTTD,C++,10
+128430621,OpenTTD/OpenTTD,C++,11
 21331090,4ian/GDevelop,C++,6
 61246596,crosire/reshade,C++,2
 48289924,me-no-dev/ESPAsyncWebServer,C++,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 22197389,e-maxx-eng/e-maxx-eng,C++,14
 32278338,simulationcraft/simc,C++,2
 77624593,Chatterino/chatterino2,C++,0
-293816245,atcoder/ac-library,C++,3
+293816245,atcoder/ac-library,C++,2
 330812144,no-fee-ethereum-mining/nsfminer,C++,0
 102847759,me-no-dev/AsyncTCP,C++,0

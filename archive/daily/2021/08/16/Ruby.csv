@@ -1,7 +1,7 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,4
-8681349,huginn/huginn,Ruby,16
-2293158,rapid7/metasploit-framework,Ruby,8
+7569578,discourse/discourse,Ruby,5
+8681349,huginn/huginn,Ruby,17
+2293158,rapid7/metasploit-framework,Ruby,10
 52281283,mastodon/mastodon,Ruby,6
 2500088,gitlabhq/gitlabhq,Ruby,1
 911765,diaspora/diaspora,Ruby,1
@@ -13,7 +13,7 @@ id,name,lang,new stars
 8154497,rubysec/ruby-advisory-db,Ruby,0
 1338040,otwcode/otwarchive,Ruby,0
 6968490,elastic/puppet-elasticsearch,Ruby,0
-454477,carr/phone,Ruby,0
+454477,carr/phone,Ruby,1
 652130,puppetlabs/puppetlabs-concat,Ruby,0
 13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,6
 17046401,kmrshntr/omniauth-slack,Ruby,0
