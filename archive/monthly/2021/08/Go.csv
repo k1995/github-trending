@@ -1,11 +1,11 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,1353
-20904437,gin-gonic/gin,Go,1069
-48378947,fatedier/frp,Go,817
-29261473,minio/minio,Go,485
+21540759,avelino/awesome-go,Go,1359
+20904437,gin-gonic/gin,Go,1071
+48378947,fatedier/frp,Go,818
+29261473,minio/minio,Go,487
 41986369,pingcap/tidb,Go,388
-17803236,rclone/rclone,Go,426
-56353740,kubernetes/minikube,Go,238
+17803236,rclone/rclone,Go,428
+56353740,kubernetes/minikube,Go,240
 123572362,quii/learn-go-with-tests,Go,414
 165041732,go-kratos/kratos,Go,793
 21827146,chrislusf/seaweedfs,Go,313
@@ -14,13 +14,13 @@ id,name,lang,new stars
 191655189,ent/ent,Go,366
 26661222,tinode/chat,Go,2079
 130430977,kubesphere/kubesphere,Go,691
-18950460,concourse/concourse,Go,104
-63625434,securego/gosec,Go,726
+18950460,concourse/concourse,Go,105
+63625434,securego/gosec,Go,727
 237523442,tailscale/tailscale,Go,599
 87990209,kubernetes/autoscaler,Go,143
 281765424,microsoft/CBL-Mariner,Go,2008
 344676663,erda-project/erda,Go,915
 299832860,livekit/livekit-server,Go,1290
 384451028,cloudwego/kitex,Go,711
-368683828,golang-jwt/jwt,Go,450
+368683828,golang-jwt/jwt,Go,451
 366764229,koderover/zadig,Go,346

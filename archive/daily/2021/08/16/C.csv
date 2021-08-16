@@ -1,13 +1,13 @@
 id,name,lang,new stars
-36502,git/git,C,5
-13233158,obsproject/obs-studio,C,9
-10446890,bilibili/ijkplayer,C,1
-246335987,ventoy/Ventoy,C,179
-569041,curl/curl,C,15
-102578345,coolsnowwolf/lede,C,13
-6201092,mpv-player/mpv,C,8
+36502,git/git,C,7
+13233158,obsproject/obs-studio,C,11
+10446890,bilibili/ijkplayer,C,3
+246335987,ventoy/Ventoy,C,182
+569041,curl/curl,C,16
+102578345,coolsnowwolf/lede,C,14
+6201092,mpv-player/mpv,C,10
 4869294,radareorg/radare2,C,3
-18496166,gentilkiwi/mimikatz,C,21
+18496166,gentilkiwi/mimikatz,C,25
 27737393,qmk/qmk_firmware,C,7
 65899476,espressif/esp-idf,C,3
 69828680,jgamblin/Mirai-Source-Code,C,3
@@ -17,10 +17,10 @@ id,name,lang,new stars
 40504480,mit-pdos/xv6-public,C,5
 114102,grbl/grbl,C,1
 27584181,espressif/ESP8266_RTOS_SDK,C,1
-257113637,jdah/minecraft-weekend,C,10
+257113637,jdah/minecraft-weekend,C,12
 146155284,SanderMertens/flecs,C,4
-119086992,RavenSystem/esp-homekit-devices,C,3
-350557349,PlummersSoftwareLLC/Primes,C,5
+119086992,RavenSystem/esp-homekit-devices,C,4
+350557349,PlummersSoftwareLLC/Primes,C,6
 226167620,JF002/InfiniTime,C,7
 228103273,apache/incubator-nuttx,C,5
-394877197,bytedance/bhook,C,34
+394877197,bytedance/bhook,C,37
