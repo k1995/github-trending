@@ -1,19 +1,17 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,221
 27442967,fastlane/fastlane,Ruby,180
-8681349,huginn/huginn,Ruby,250
-53238813,Homebrew/brew,Ruby,404
-2293158,rapid7/metasploit-framework,Ruby,322
-52281283,mastodon/mastodon,Ruby,203
-481872,hashicorp/vagrant,Ruby,204
-3623050,Homebrew/homebrew-cask,Ruby,94
+8681349,huginn/huginn,Ruby,251
+53238813,Homebrew/brew,Ruby,407
+2293158,rapid7/metasploit-framework,Ruby,320
+52281283,mastodon/mastodon,Ruby,206
 538746,ruby/ruby,Ruby,120
-73648678,forem/forem,Ruby,298
+73648678,forem/forem,Ruby,297
 1090311,elastic/logstash,Ruby,73
 3314,spree/spree,Ruby,59
 88740103,postalserver/postal,Ruby,84
-202291859,chatwoot/chatwoot,Ruby,363
-52855516,Homebrew/homebrew-core,Ruby,106
+202291859,chatwoot/chatwoot,Ruby,366
+52855516,Homebrew/homebrew-core,Ruby,107
 15435,Shopify/liquid,Ruby,81
 21829,thoughtbot/factory_bot,Ruby,41
 910744,puppetlabs/puppet,Ruby,57
@@ -21,6 +19,8 @@ id,name,lang,new stars
 355893,github/markup,Ruby,29
 30337170,rmosolgo/graphql-ruby,Ruby,46
 138776049,sorbet/sorbet,Ruby,220
-11426474,github/choosealicense.com,Ruby,60
+11426474,github/choosealicense.com,Ruby,61
+189010173,Hackplayers/evil-winrm,Ruby,98
 9831101,elastic/elasticsearch-ruby,Ruby,15
+161399160,Shopify/shopify-cli,Ruby,45
 66497320,DataDog/dd-trace-rb,Ruby,6
