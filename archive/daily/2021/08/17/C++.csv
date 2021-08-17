@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,130
-15634981,godotengine/godot,C++,30
-22067521,ocornut/imgui,C++,19
+1181927,bitcoin/bitcoin,C++,126
+15634981,godotengine/godot,C++,29
+22067521,ocornut/imgui,C++,17
 74627617,commaai/openpilot,C++,32
 116167731,yuzu-emu/yuzu,C++,13
 160083795,SerenityOS/serenity,C++,8
-2200856,MarlinFirmware/Marlin,C++,4
-18348651,OpenRCT2/OpenRCT2,C++,74
+2200856,MarlinFirmware/Marlin,C++,3
+18348651,OpenRCT2/OpenRCT2,C++,77
 9090933,capnproto/capnproto,C++,8
 1204412,TrinityCore/TrinityCore,C++,3
 106558568,doitsujin/dxvk,C++,3
@@ -15,12 +15,12 @@ id,name,lang,new stars
 143324737,diasurgical/devilutionX,C++,3
 128430621,OpenTTD/OpenTTD,C++,7
 21331090,4ian/GDevelop,C++,3
-61246596,crosire/reshade,C++,2
+61246596,crosire/reshade,C++,1
 48289924,me-no-dev/ESPAsyncWebServer,C++,1
-163527358,coronalabs/corona,C++,4
-22197389,e-maxx-eng/e-maxx-eng,C++,53
+163527358,coronalabs/corona,C++,3
+22197389,e-maxx-eng/e-maxx-eng,C++,55
 32278338,simulationcraft/simc,C++,1
-77624593,Chatterino/chatterino2,C++,42
+77624593,Chatterino/chatterino2,C++,40
 293816245,atcoder/ac-library,C++,2
 330812144,no-fee-ethereum-mining/nsfminer,C++,0
 102847759,me-no-dev/AsyncTCP,C++,0
