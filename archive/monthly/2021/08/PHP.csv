@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,450
-3482588,danielmiessler/SecLists,PHP,526
+1863329,laravel/laravel,PHP,453
+3482588,danielmiessler/SecLists,PHP,527
 458058,symfony/symfony,PHP,154
-7548986,laravel/framework,PHP,236
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,97
+7548986,laravel/framework,PHP,238
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,98
 448045,sebastianbergmann/phpunit,PHP,110
 2889328,WordPress/WordPress,PHP,120
-1548202,matomo-org/matomo,PHP,124
+1548202,matomo-org/matomo,PHP,125
 60243197,nextcloud/server,PHP,229
 2884111,magento/magento2,PHP,73
-12166778,googleapis/google-api-php-client,PHP,51
+12166778,googleapis/google-api-php-client,PHP,53
 5550552,owncloud/core,PHP,36
-10238429,tennc/webshell,PHP,127
+10238429,tennc/webshell,PHP,126
 2141186,opencart/opencart,PHP,49
 74386167,vimeo/psalm,PHP,78
 95011974,akaunting/akaunting,PHP,116
@@ -20,7 +20,7 @@ id,name,lang,new stars
 148129143,bagisto/bagisto,PHP,93
 439861,moodle/moodle,PHP,53
 47508644,pterodactyl/panel,PHP,88
-13914116,librenms/librenms,PHP,48
-2686502,pimcore/pimcore,PHP,49
-129852395,assimon/dujiaoka,PHP,139
-380196780,maccmspro/maccms10,PHP,128
+13914116,librenms/librenms,PHP,49
+2686502,pimcore/pimcore,PHP,47
+129852395,assimon/dujiaoka,PHP,138
+380196780,maccmspro/maccms10,PHP,129
