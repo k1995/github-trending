@@ -1,8 +1,8 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,5
-8681349,huginn/huginn,Ruby,9
+8681349,huginn/huginn,Ruby,7
 2293158,rapid7/metasploit-framework,Ruby,13
-52281283,mastodon/mastodon,Ruby,9
+52281283,mastodon/mastodon,Ruby,8
 2500088,gitlabhq/gitlabhq,Ruby,1
 911765,diaspora/diaspora,Ruby,1
 4095287,rubocop/rubocop,Ruby,3
@@ -13,13 +13,13 @@ id,name,lang,new stars
 8154497,rubysec/ruby-advisory-db,Ruby,0
 1338040,otwcode/otwarchive,Ruby,0
 6968490,elastic/puppet-elasticsearch,Ruby,0
-454477,carr/phone,Ruby,1
+454477,carr/phone,Ruby,2
 652130,puppetlabs/puppetlabs-concat,Ruby,0
 13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,5
 17046401,kmrshntr/omniauth-slack,Ruby,0
-1378915,citation-style-language/locales,Ruby,0
+1378915,citation-style-language/locales,Ruby,1
 2020858,aliang/google_contacts_api,Ruby,0
-190203333,rubymem/ruby-mem-advisory-db,Ruby,0
+190203333,rubymem/ruby-mem-advisory-db,Ruby,1
 36527291,cloudfoundry-incubator/haproxy-boshrelease,Ruby,0
 97777794,binary-com/chef-third-party,Ruby,0
 120533059,Azure-Samples/cognitive-services-ruby-sdk-samples,Ruby,0
