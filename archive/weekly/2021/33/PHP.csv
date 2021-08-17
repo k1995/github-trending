@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,111
-3482588,danielmiessler/SecLists,PHP,155
+1863329,laravel/laravel,PHP,110
+3482588,danielmiessler/SecLists,PHP,148
 2579314,fzaninotto/Faker,PHP,34
-458058,symfony/symfony,PHP,38
-1864363,composer/composer,PHP,40
-7548986,laravel/framework,PHP,52
+458058,symfony/symfony,PHP,37
+1864363,composer/composer,PHP,41
+7548986,laravel/framework,PHP,53
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,32
 1548202,matomo-org/matomo,PHP,31
 60243197,nextcloud/server,PHP,61
@@ -13,14 +13,14 @@ id,name,lang,new stars
 622166,FriendsOfPHP/Goutte,PHP,19
 6660366,dompdf/dompdf,PHP,14
 11467667,typecho/typecho,PHP,25
-10238429,tennc/webshell,PHP,37
-4565995,phpseclib/phpseclib,PHP,16
-60010673,elementor/elementor,PHP,11
+10238429,tennc/webshell,PHP,39
+4565995,phpseclib/phpseclib,PHP,17
+60010673,elementor/elementor,PHP,12
 2464908,joomla/joomla-cms,PHP,8
 148129143,bagisto/bagisto,PHP,27
 1957456,Dolibarr/dolibarr,PHP,19
 182349597,jqhph/dcat-admin,PHP,21
 131995661,shopware/platform,PHP,10
-111099392,chrome-php/chrome,PHP,238
+111099392,chrome-php/chrome,PHP,240
 195836215,magicblack/maccms10,PHP,9
-387854154,SteamDatabase/FileDetectionRuleSets,PHP,11
+387854154,SteamDatabase/FileDetectionRuleSets,PHP,10
