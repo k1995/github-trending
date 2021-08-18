@@ -1,19 +1,19 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,1714
-49609581,PowerShell/PowerShell,C#,1114
-17620347,dotnet/aspnetcore,C#,430
-38380854,dnSpy/dnSpy,C#,301
+184456251,microsoft/PowerToys,C#,1715
+49609581,PowerShell/PowerShell,C#,1126
+17620347,dotnet/aspnetcore,C#,431
+38380854,dnSpy/dnSpy,C#,299
 1327739,icsharpcode/ILSpy,C#,204
 14964475,AvaloniaUI/Avalonia,C#,202
 120231691,Ryujinx/Ryujinx,C#,358
 28232663,dotnet/orleans,C#,83
 22456440,ppy/osu,C#,247
-75990888,dotnet/csharplang,C#,125
+75990888,dotnet/csharplang,C#,126
 64290739,dodyg/practical-aspnetcore,C#,158
-132453438,unoplatform/uno,C#,644
+132453438,unoplatform/uno,C#,643
 182095352,nilaoda/N_m3u8DL-CLI,C#,283
 26884725,OrchardCMS/OrchardCore,C#,111
-19216825,xamarin/xamarin-forms-samples,C#,90
+19216825,xamarin/xamarin-forms-samples,C#,89
 224109382,ant-design-blazor/ant-design-blazor,C#,130
 2928944,Azure/azure-sdk-for-net,C#,409
 23891194,Azure/azure-powershell,C#,44
@@ -23,4 +23,4 @@ id,name,lang,new stars
 158405551,microsoft/Git-Credential-Manager-Core,C#,248
 262661480,ALIILAPRO/warp-plus-cloudflare,C#,84
 258225166,openbullet/OpenBullet2,C#,53
-381490636,ArkaneDev/WinPass11,C#,57
+381490636,ArkaneDev/WinPass11,C#,58
