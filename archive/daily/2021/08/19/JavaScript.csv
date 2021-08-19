@@ -1,8 +1,8 @@
 id,name,lang,new stars
-6498492,airbnb/javascript,JavaScript,58
+6498492,airbnb/javascript,JavaScript,57
 29028775,facebook/react-native,JavaScript,40
 23088740,axios/axios,JavaScript,105
-74791366,ryanmcdermott/clean-code-javascript,JavaScript,143
+74791366,ryanmcdermott/clean-code-javascript,JavaScript,139
 8843683,chartjs/Chart.js,JavaScript,14
 667561,Marak/faker.js,JavaScript,16
 140687430,dcloudio/uni-app,JavaScript,26
@@ -11,8 +11,8 @@ id,name,lang,new stars
 1844251,tastejs/todomvc,JavaScript,4
 349241,jashkenas/underscore,JavaScript,4
 99761907,atlassian/react-beautiful-dnd,JavaScript,22
-13584262,webtorrent/webtorrent,JavaScript,22
-364474335,google/zx,JavaScript,202
+13584262,webtorrent/webtorrent,JavaScript,26
+364474335,google/zx,JavaScript,190
 128565937,iamadamdev/bypass-paywalls-chrome,JavaScript,43
 137583435,adam-golab/react-developer-roadmap,JavaScript,7
 7363211,knex/knex,JavaScript,8
@@ -23,4 +23,4 @@ id,name,lang,new stars
 265813908,lgwebdream/FE-Interview,JavaScript,19
 276008164,blackmatrix7/ios_rule_script,JavaScript,9
 286508391,MhankBarBar/whatsapp-bot,JavaScript,3
-396604405,samuelmarina/is-even,,211
+396604405,samuelmarina/is-even,,209
