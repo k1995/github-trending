@@ -1,9 +1,9 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,14
-22887094,tesseract-ocr/tesseract,C++,23
-23405758,google/leveldb,C++,13
+9384267,electron/electron,C++,20
+22887094,tesseract-ocr/tesseract,C++,24
+23405758,google/leveldb,C++,16
 11171548,nlohmann/json,C++,180
-6934395,facebook/rocksdb,C++,9
+6934395,facebook/rocksdb,C++,10
 34864402,apache/incubator-mxnet,C++,3
 60246359,ClickHouse/ClickHouse,C++,24
 160083795,SerenityOS/serenity,C++,134
@@ -15,12 +15,12 @@ id,name,lang,new stars
 648332,assimp/assimp,C++,9
 76990209,Aircoookie/WLED,C++,10
 23086893,google/re2,C++,4
-15122806,google/benchmark,C++,5
 382800934,tenacityteam/tenacity,C++,62
-5909706,yhirose/cpp-httplib,C++,13
+15122806,google/benchmark,C++,6
+5909706,yhirose/cpp-httplib,C++,17
 46374199,IntelRealSense/librealsense,C++,7
 31197250,google/glog,C++,6
 56894212,jvm-profiling-tools/async-profiler,C++,3
-49986046,falcosecurity/falco,C++,9
+49986046,falcosecurity/falco,C++,11
 87443396,Haivision/srt,C++,1
 131630299,onnx/onnx-tensorrt,C++,0

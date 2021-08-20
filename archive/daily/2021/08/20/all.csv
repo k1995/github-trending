@@ -8,8 +8,8 @@ id,name,lang,new stars
 7083242,go-sql-driver/mysql,Go,53
 102692863,onnx/onnx,C++,22
 217943361,doocs/source-code-hunter,Java,53
-237940592,dromara/Sa-Token,Java,45
 382800934,tenacityteam/tenacity,C++,62
+237940592,dromara/Sa-Token,Java,45
 345368765,NvChad/NvChad,Lua,727
 290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,346
 231972503,public-api-lists/public-api-lists,Python,194
@@ -20,7 +20,7 @@ id,name,lang,new stars
 396474980,AsuharietYgvar/AppleNeuralHash2ONNX,Python,380
 396907667,praetorian-inc/gokart,Go,499
 81339842,cncf/mentoring,,15
-395917032,sachaos/viddy,Go,120
 397204262,jonaslejon/malicious-pdf,Python,119
+395917032,sachaos/viddy,Go,120
 380299157,YehLi/xmodaler,Python,98
 395248265,reuven/oreilly-2021-q3-first-steps,HTML,4
