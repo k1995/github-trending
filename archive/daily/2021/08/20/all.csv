@@ -1,17 +1,17 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,230
+31792824,flutter/flutter,Dart,223
 23088740,axios/axios,JavaScript,128
 65600975,pytorch/pytorch,C++,84
-15204860,papers-we-love/papers-we-love,Shell,162
+15204860,papers-we-love/papers-we-love,Shell,197
 49609581,PowerShell/PowerShell,C#,184
-71220757,swisskyrepo/PayloadsAllTheThings,Python,205
+71220757,swisskyrepo/PayloadsAllTheThings,Python,220
 11171548,nlohmann/json,C++,180
-131789494,wuyouzhuguli/SpringAll,Java,38
+131789494,wuyouzhuguli/SpringAll,Java,40
 196701619,tauri-apps/tauri,Rust,308
-151619717,google-research/google-research,Jupyter Notebook,76
+151619717,google-research/google-research,Jupyter Notebook,81
 160083795,SerenityOS/serenity,C++,134
-192025001,Qv2ray/Qv2ray,C++,114
-7083242,go-sql-driver/mysql,Go,55
+192025001,Qv2ray/Qv2ray,C++,111
+7083242,go-sql-driver/mysql,Go,60
 345368765,NvChad/NvChad,Lua,739
 290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,357
 248032165,spring-projects/spring-authorization-server,Java,92
@@ -20,7 +20,7 @@ id,name,lang,new stars
 278516095,Dairongpeng/algorithm-note,Java,164
 393571599,babysor/Realtime-Voice-Clone-Chinese,Python,397
 394120836,0voice/Introduction-to-Golang,,266
-280048292,ms-jpq/coq_nvim,Python,199
+280048292,ms-jpq/coq_nvim,Python,189
 396604405,samuelmarina/is-even,,218
 377063022,joswha/Secure-Coding-Handbook,,86
 391740664,open-metadata/OpenMetadata,Java,63
