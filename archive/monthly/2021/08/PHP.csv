@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,435
-3482588,danielmiessler/SecLists,PHP,532
-458058,symfony/symfony,PHP,163
-1864363,composer/composer,PHP,137
+1863329,laravel/laravel,PHP,434
+3482588,danielmiessler/SecLists,PHP,534
+458058,symfony/symfony,PHP,164
+1864363,composer/composer,PHP,138
 7548986,laravel/framework,PHP,234
 2234102,bcit-ci/CodeIgniter,PHP,25
-448045,sebastianbergmann/phpunit,PHP,114
+448045,sebastianbergmann/phpunit,PHP,115
 2889328,WordPress/WordPress,PHP,128
 1548202,matomo-org/matomo,PHP,135
 60243197,nextcloud/server,PHP,231
@@ -17,7 +17,7 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,82
 60010673,elementor/elementor,PHP,73
 2464908,joomla/joomla-cms,PHP,35
-148129143,bagisto/bagisto,PHP,98
+148129143,bagisto/bagisto,PHP,99
 439861,moodle/moodle,PHP,58
 47508644,pterodactyl/panel,PHP,95
 2686502,pimcore/pimcore,PHP,49
