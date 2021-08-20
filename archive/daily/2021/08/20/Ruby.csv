@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
-65252,jekyll/jekyll,Ruby,11
-27442967,fastlane/fastlane,Ruby,3
+8514,rails/rails,Ruby,12
+65252,jekyll/jekyll,Ruby,13
+27442967,fastlane/fastlane,Ruby,4
 13840241,freeCodeCamp/devdocs,Ruby,12
-2293158,rapid7/metasploit-framework,Ruby,7
-308770,heartcombo/devise,Ruby,2
-2203645,CocoaPods/CocoaPods,Ruby,0
+2293158,rapid7/metasploit-framework,Ruby,8
+308770,heartcombo/devise,Ruby,3
+2203645,CocoaPods/CocoaPods,Ruby,1
 4095287,rubocop/rubocop,Ruby,3
 3314,spree/spree,Ruby,3
 3195124,mperham/sidekiq,Ruby,3
@@ -19,7 +19,7 @@ id,name,lang,new stars
 2889230,rails-api/active_model_serializers,Ruby,2
 30337170,rmosolgo/graphql-ruby,Ruby,2
 2050163,aws/aws-sdk-ruby,Ruby,1
-950915,urbanadventurer/WhatWeb,Ruby,9
+950915,urbanadventurer/WhatWeb,Ruby,10
 143489,DatabaseCleaner/database_cleaner,Ruby,1
 34840276,elastic/ansible-elasticsearch,Ruby,2
 644899,onelogin/ruby-saml,Ruby,0
