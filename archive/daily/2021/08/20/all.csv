@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,222
-23088740,axios/axios,JavaScript,126
-65600975,pytorch/pytorch,C++,85
-15204860,papers-we-love/papers-we-love,Shell,171
-49609581,PowerShell/PowerShell,C#,185
-71220757,swisskyrepo/PayloadsAllTheThings,Python,210
-11171548,nlohmann/json,C++,197
-131789494,wuyouzhuguli/SpringAll,Java,38
-196701619,tauri-apps/tauri,Rust,316
-151619717,google-research/google-research,Jupyter Notebook,76
-160083795,SerenityOS/serenity,C++,139
-192025001,Qv2ray/Qv2ray,C++,112
+31792824,flutter/flutter,Dart,220
+11171548,nlohmann/json,C++,174
+60246359,ClickHouse/ClickHouse,C++,24
+1198539,lutzroeder/netron,JavaScript,55
+160083795,SerenityOS/serenity,C++,131
+192025001,Qv2ray/Qv2ray,C++,108
 7083242,go-sql-driver/mysql,Go,53
-345368765,NvChad/NvChad,Lua,751
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,350
+102692863,onnx/onnx,C++,22
+217943361,doocs/source-code-hunter,Java,53
+237940592,dromara/Sa-Token,Java,45
+382800934,tenacityteam/tenacity,C++,62
+345368765,NvChad/NvChad,Lua,727
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,346
+231972503,public-api-lists/public-api-lists,Python,194
 248032165,spring-projects/spring-authorization-server,Java,93
-260869160,LaravelDaily/laravel-tips,,124
-391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,80
-278516095,Dairongpeng/algorithm-note,Java,163
-393571599,babysor/Realtime-Voice-Clone-Chinese,Python,396
-394120836,0voice/Introduction-to-Golang,,269
-280048292,ms-jpq/coq_nvim,Python,197
-396604405,samuelmarina/is-even,,221
-377063022,joswha/Secure-Coding-Handbook,,87
-391740664,open-metadata/OpenMetadata,Java,60
+260869160,LaravelDaily/laravel-tips,,121
+393571599,babysor/Realtime-Voice-Clone-Chinese,Python,392
+394120836,0voice/Introduction-to-Golang,,264
+396474980,AsuharietYgvar/AppleNeuralHash2ONNX,Python,380
+396907667,praetorian-inc/gokart,Go,499
+81339842,cncf/mentoring,,15
+395917032,sachaos/viddy,Go,120
+397204262,jonaslejon/malicious-pdf,Python,119
+380299157,YehLi/xmodaler,Python,98
+395248265,reuven/oreilly-2021-q3-first-steps,HTML,4
