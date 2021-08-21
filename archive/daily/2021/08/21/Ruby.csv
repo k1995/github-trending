@@ -1,14 +1,14 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,14
-27442967,fastlane/fastlane,Ruby,3
-481872,hashicorp/vagrant,Ruby,6
+65252,jekyll/jekyll,Ruby,16
+27442967,fastlane/fastlane,Ruby,5
+481872,hashicorp/vagrant,Ruby,7
 1090311,elastic/logstash,Ruby,0
 4095287,rubocop/rubocop,Ruby,1
 3195124,mperham/sidekiq,Ruby,2
-52855516,Homebrew/homebrew-core,Ruby,9
+52855516,Homebrew/homebrew-core,Ruby,10
 96395,faker-ruby/faker,Ruby,2
 611921,activeadmin/activeadmin,Ruby,0
-15435,Shopify/liquid,Ruby,2
+15435,Shopify/liquid,Ruby,4
 2441517,puma/puma,Ruby,0
 108278,chef/chef,Ruby,0
 75785147,rails/webpacker,Ruby,1
@@ -17,9 +17,9 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,1
 103766152,github/explore,Ruby,2
 93163073,dependabot/dependabot-core,Ruby,4
-8472417,Shopify/identity_cache,Ruby,0
+8472417,Shopify/identity_cache,Ruby,1
 34840276,elastic/ansible-elasticsearch,Ruby,0
-356878986,TrashUwU/PokeAssistant,Ruby,10
+356878986,TrashUwU/PokeAssistant,Ruby,12
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,1
 122759478,cryptopunksnotdead/punks.starter,Ruby,7
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0

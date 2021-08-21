@@ -1,17 +1,17 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,111
-17620347,dotnet/aspnetcore,C#,22
-29078997,dotnet/roslyn,C#,10
-14964475,AvaloniaUI/Avalonia,C#,13
+49609581,PowerShell/PowerShell,C#,113
+17620347,dotnet/aspnetcore,C#,24
+29078997,dotnet/roslyn,C#,11
+14964475,AvaloniaUI/Avalonia,C#,15
 102904613,Unity-Technologies/ml-agents,C#,8
 16157746,dotnet/efcore,C#,8
 1135454,cefsharp/CefSharp,C#,7
 75990888,dotnet/csharplang,C#,2
-210716005,dotnet/runtime,C#,13
+210716005,dotnet/runtime,C#,14
 64290739,dodyg/practical-aspnetcore,C#,12
-85953,gitextensions/gitextensions,C#,6
+85953,gitextensions/gitextensions,C#,7
 132453438,unoplatform/uno,C#,6
-113807330,migueldeicaza/gui.cs,C#,3
+113807330,migueldeicaza/gui.cs,C#,4
 224109382,ant-design-blazor/ant-design-blazor,C#,7
 321682465,SteamTools-Team/SteamTools,C#,19
 83315270,mob-sakai/UIEffect,C#,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 55075302,xamarin/xamarin-android,C#,1
 77180761,xamarin/XamarinCommunityToolkit,C#,3
 39718308,uxmal/reko,C#,10
-131145697,Azure-Samples/cognitive-services-speech-sdk,C#,0
-315537152,dremin/RetroBar,C#,7
+131145697,Azure-Samples/cognitive-services-speech-sdk,C#,1
+315537152,dremin/RetroBar,C#,8
 396181523,asb-spark/dapr-kubernetes,C#,0
