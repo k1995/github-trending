@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1658
-36502,git/git,C,406
+2325298,torvalds/linux,C,1662
+36502,git/git,C,407
 1614410,FFmpeg/FFmpeg,C,402
-246335987,ventoy/Ventoy,C,4578
+246335987,ventoy/Ventoy,C,4584
 102578345,coolsnowwolf/lede,C,450
 80286288,arendst/Tasmota,C,495
 27737393,qmk/qmk_firmware,C,244
-13836499,raysan5/raylib,C,224
-65899476,espressif/esp-idf,C,157
+13836499,raysan5/raylib,C,226
+65899476,espressif/esp-idf,C,158
 60667730,lvgl/lvgl,C,337
 689344,libretro/RetroArch,C,133
-1979797,FreeRDP/FreeRDP,C,135
+1979797,FreeRDP/FreeRDP,C,136
 59771425,zephyrproject-rtos/zephyr,C,115
 241659610,OpenIntelWireless/itlwm,C,188
-59676171,KevinOConnor/klipper,C,166
+59676171,KevinOConnor/klipper,C,167
 115765590,OAID/Tengine,C,218
 213916896,blender/blender,C,198
 1253879,stlink-org/stlink,C,52
@@ -21,6 +21,6 @@ id,name,lang,new stars
 330008801,libsdl-org/SDL,C,169
 194269070,skyline-emu/skyline,C,145
 149233191,binbyu/Reader,C,116
-387242135,topotam/PetitPotam,C,774
+387242135,topotam/PetitPotam,C,775
 226167620,JF002/InfiniTime,C,121
 384646890,harold-b/bladebit,C,57

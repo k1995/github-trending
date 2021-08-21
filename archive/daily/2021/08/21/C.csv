@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3774328,wg/wrk,C,5
+3774328,wg/wrk,C,6
 10446890,bilibili/ijkplayer,C,6
 7634677,openssl/openssl,C,7
 15337142,micropython/micropython,C,6
@@ -13,11 +13,11 @@ id,name,lang,new stars
 59676171,KevinOConnor/klipper,C,4
 58132544,RediSearch/RediSearch,C,1
 2359378,madler/zlib,C,2
-40306512,LuaJIT/LuaJIT,C,1
+40306512,LuaJIT/LuaJIT,C,2
 34807561,nanopb/nanopb,C,5
 40556106,wazuh/wazuh,C,9
 128791889,haproxy/haproxy,C,4
-220449772,open-sdr/openwifi,C,10
+220449772,open-sdr/openwifi,C,11
 146155284,SanderMertens/flecs,C,9
 330008801,libsdl-org/SDL,C,6
 127023441,NVIDIA/cuda-samples,C,2
