@@ -1,26 +1,26 @@
 id,name,lang,new stars
 31792824,flutter/flutter,Dart,191
-11171548,nlohmann/json,C++,147
-60246359,ClickHouse/ClickHouse,C++,182
+11171548,nlohmann/json,C++,156
+60246359,ClickHouse/ClickHouse,C++,220
 1198539,lutzroeder/netron,JavaScript,163
-160083795,SerenityOS/serenity,C++,164
+160083795,SerenityOS/serenity,C++,166
 192025001,Qv2ray/Qv2ray,C++,80
 7083242,go-sql-driver/mysql,Go,84
-102692863,onnx/onnx,C++,50
+102692863,onnx/onnx,C++,59
 217943361,doocs/source-code-hunter,Java,74
-382800934,tenacityteam/tenacity,C++,255
-237940592,dromara/Sa-Token,Java,53
+382800934,tenacityteam/tenacity,C++,293
+237940592,dromara/Sa-Token,Java,72
 345368765,NvChad/NvChad,Lua,640
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,204
-231972503,public-api-lists/public-api-lists,Python,245
-248032165,spring-projects/spring-authorization-server,Java,89
-260869160,LaravelDaily/laravel-tips,,76
-393571599,babysor/Realtime-Voice-Clone-Chinese,Python,456
-394120836,0voice/Introduction-to-Golang,,266
-396474980,AsuharietYgvar/AppleNeuralHash2ONNX,Python,168
-396907667,praetorian-inc/gokart,Go,349
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,227
+231972503,public-api-lists/public-api-lists,Python,279
+248032165,spring-projects/spring-authorization-server,Java,96
+260869160,LaravelDaily/laravel-tips,,86
+393571599,babysor/Realtime-Voice-Clone-Chinese,Python,485
+394120836,0voice/Introduction-to-Golang,,280
+396474980,AsuharietYgvar/AppleNeuralHash2ONNX,Python,195
+396907667,praetorian-inc/gokart,Go,398
 81339842,cncf/mentoring,,30
-397204262,jonaslejon/malicious-pdf,Python,242
-395917032,sachaos/viddy,Go,160
+397204262,jonaslejon/malicious-pdf,Python,288
+395917032,sachaos/viddy,Go,190
 380299157,YehLi/xmodaler,Python,60
-395248265,reuven/oreilly-2021-q3-first-steps,HTML,12
+395248265,reuven/oreilly-2021-q3-first-steps,HTML,15
