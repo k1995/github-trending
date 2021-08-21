@@ -1,16 +1,16 @@
 id,name,lang,new stars
 10446890,bilibili/ijkplayer,C,8
-18666758,pjreddie/darknet,C,10
+18666758,pjreddie/darknet,C,11
 14812739,libuv/libuv,C,13
-102578345,coolsnowwolf/lede,C,23
-80286288,arendst/Tasmota,C,6
+102578345,coolsnowwolf/lede,C,25
+80286288,arendst/Tasmota,C,7
 196353673,taosdata/TDengine,C,8
 45821540,openwrt/openwrt,C,12
-9524997,glfw/glfw,C,9
-32921736,audacity/audacity,C,15
+9524997,glfw/glfw,C,11
+32921736,audacity/audacity,C,16
 2997204,openwall/john,C,5
 5383731,qemu/qemu,C,10
-3349840,hak5darren/USB-Rubber-Ducky,C,30
+3349840,hak5darren/USB-Rubber-Ducky,C,32
 18257358,edenhill/kafkacat,C,7
 23007417,colmap/colmap,C,4
 8046269,warmcat/libwebsockets,C,3
@@ -19,7 +19,7 @@ id,name,lang,new stars
 40556106,wazuh/wazuh,C,13
 94246344,MiSTer-devel/Main_MiSTer,C,4
 6860771,hathach/tinyusb,C,4
-154525111,signalwire/freeswitch,C,4
+154525111,signalwire/freeswitch,C,5
 28928522,wolfSSL/wolfssl,C,3
 48130039,eclipse/paho.mqtt.c,C,0
 53174933,google/boringssl,C,1
