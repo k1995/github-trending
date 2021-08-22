@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,446
-3482588,danielmiessler/SecLists,PHP,553
-458058,symfony/symfony,PHP,177
-7548986,laravel/framework,PHP,243
+1863329,laravel/laravel,PHP,447
+3482588,danielmiessler/SecLists,PHP,554
+458058,symfony/symfony,PHP,178
+7548986,laravel/framework,PHP,244
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,110
 2889328,WordPress/WordPress,PHP,131
-1548202,matomo-org/matomo,PHP,134
-60243197,nextcloud/server,PHP,243
+1548202,matomo-org/matomo,PHP,135
+60243197,nextcloud/server,PHP,244
 2884111,magento/magento2,PHP,76
-11467667,typecho/typecho,PHP,97
-10238429,tennc/webshell,PHP,140
-2141186,opencart/opencart,PHP,49
+11467667,typecho/typecho,PHP,98
+10238429,tennc/webshell,PHP,141
+2141186,opencart/opencart,PHP,50
 6269013,aws/aws-sdk-php,PHP,49
 74386167,vimeo/psalm,PHP,83
 3817881,zircote/swagger-php,PHP,75
-60010673,elementor/elementor,PHP,79
+60010673,elementor/elementor,PHP,80
 2464908,joomla/joomla-cms,PHP,41
 148129143,bagisto/bagisto,PHP,101
 439861,moodle/moodle,PHP,60
@@ -22,5 +22,5 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,48
 2686502,pimcore/pimcore,PHP,50
 129852395,assimon/dujiaoka,PHP,140
-131995661,shopware/platform,PHP,45
+131995661,shopware/platform,PHP,46
 380196780,maccmspro/maccms10,PHP,136
