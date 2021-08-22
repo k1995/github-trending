@@ -1,11 +1,11 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,48
-111583593,Genymobile/scrcpy,C,111
+10744183,netdata/netdata,C,50
+111583593,Genymobile/scrcpy,C,112
 1903522,php/php-src,C,22
-102578345,coolsnowwolf/lede,C,41
-20159867,nothings/stb,C,17
+102578345,coolsnowwolf/lede,C,42
+20159867,nothings/stb,C,18
 80286288,arendst/Tasmota,C,13
-2810292,pbatard/rufus,C,30
+2810292,pbatard/rufus,C,29
 15337142,micropython/micropython,C,12
 66150122,jarun/nnn,C,31
 105627846,reactos/reactos,C,16
@@ -17,10 +17,10 @@ id,name,lang,new stars
 70127218,espressif/arduino-esp32,C,13
 89315980,SecWiki/windows-kernel-exploits,C,5
 673267,redis/hiredis,C,4
+3349840,hak5darren/USB-Rubber-Ducky,C,60
 241659610,OpenIntelWireless/itlwm,C,18
-3349840,hak5darren/USB-Rubber-Ducky,C,58
-86245815,pygame/pygame,C,12
+86245815,pygame/pygame,C,13
 68751856,gnea/grbl,C,5
-330008801,libsdl-org/SDL,C,14
+330008801,libsdl-org/SDL,C,15
 194269070,skyline-emu/skyline,C,21
 211756905,MarlinFirmware/Configurations,C,3
