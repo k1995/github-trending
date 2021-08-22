@@ -1,8 +1,8 @@
 id,name,lang,new stars
-23096959,golang/go,Go,345
-20904437,gin-gonic/gin,Go,281
-48378947,fatedier/frp,Go,219
-42408804,traefik/traefik,Go,107
+23096959,golang/go,Go,346
+20904437,gin-gonic/gin,Go,287
+48378947,fatedier/frp,Go,222
+42408804,traefik/traefik,Go,109
 15452919,ethereum/go-ethereum,Go,143
 212613049,cli/cli,Go,126
 136815833,Dreamacro/clash,Go,219
@@ -11,16 +11,16 @@ id,name,lang,new stars
 11393110,urfave/cli,Go,79
 107286889,schollz/croc,Go,175
 66573241,hyperledger/fabric,Go,29
-7083242,go-sql-driver/mysql,Go,215
+7083242,go-sql-driver/mysql,Go,216
 42332863,filebrowser/filebrowser,Go,221
-109145553,containers/podman,Go,64
-95761244,gogf/gf,Go,56
+109145553,containers/podman,Go,65
+95761244,gogf/gf,Go,58
 10721619,hajimehoshi/ebiten,Go,36
-371564104,megaease/easegress,Go,508
+371564104,megaease/easegress,Go,509
 143965255,apache/dubbo-go,Go,115
 162460220,drk1wi/Modlishka,Go,50
 193160679,kyleconroy/sqlc,Go,57
-281694167,Mrs4s/go-cqhttp,Go,72
+281694167,Mrs4s/go-cqhttp,Go,73
 206649463,cilium/ebpf,Go,39
 135951540,stashapp/stash,Go,44
-370773729,ossf/allstar,Go,268
+370773729,ossf/allstar,Go,269
