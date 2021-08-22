@@ -1,15 +1,15 @@
 id,name,lang,new stars
-65600975,pytorch/pytorch,C++,112
-15634981,godotengine/godot,C++,65
+65600975,pytorch/pytorch,C++,113
+15634981,godotengine/godot,C++,67
 22067521,ocornut/imgui,C++,38
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,28
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,29
 60246359,ClickHouse/ClickHouse,C++,317
 65214191,envoyproxy/envoy,C++,19
-160083795,SerenityOS/serenity,C++,291
+160083795,SerenityOS/serenity,C++,277
 191820100,google/mediapipe,C++,22
 102692863,onnx/onnx,C++,86
 38581626,pybind/pybind11,C++,14
-382800934,tenacityteam/tenacity,C++,516
+382800934,tenacityteam/tenacity,C++,520
 130068982,taskflow/taskflow,C++,9
 15122806,google/benchmark,C++,4
 5909706,yhirose/cpp-httplib,C++,36
@@ -23,4 +23,4 @@ id,name,lang,new stars
 23927994,ANYbotics/grid_map,C++,41
 268084326,TheCruZ/kdmapper,C++,13
 356055024,tensorflow/tflite-micro,C++,5
-291097184,Lux-AI-Challenge/Lux-Design-2021,C++,99
+291097184,Lux-AI-Challenge/Lux-Design-2021,C++,104

@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,441
-36502,git/git,C,118
+2325298,torvalds/linux,C,445
+36502,git/git,C,120
 13233158,obsproject/obs-studio,C,129
 10446890,bilibili/ijkplayer,C,46
 1614410,FFmpeg/FFmpeg,C,110
-246335987,ventoy/Ventoy,C,1319
+246335987,ventoy/Ventoy,C,1323
 102578345,coolsnowwolf/lede,C,125
 45821540,openwrt/openwrt,C,53
 15583310,SoftEtherVPN/SoftEtherVPN,C,27
-3299208,videolan/vlc,C,30
+3299208,videolan/vlc,C,31
 7408108,RT-Thread/rt-thread,C,29
 5870069,edenhill/librdkafka,C,19
 59771425,zephyrproject-rtos/zephyr,C,32
@@ -18,9 +18,9 @@ id,name,lang,new stars
 40556106,wazuh/wazuh,C,34
 1613176,tianocore/edk2,C,13
 220449772,open-sdr/openwifi,C,67
-194269070,skyline-emu/skyline,C,51
+194269070,skyline-emu/skyline,C,53
 222187361,dankamongmen/notcurses,C,81
 214011414,kingToolbox/WindTerm,C,117
 226167620,JF002/InfiniTime,C,44
 394877197,bytedance/bhook,C,216
-325609012,lwfinger/rtw89,C,23
+325609012,lwfinger/rtw89,C,26
