@@ -4,15 +4,15 @@ id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,19
 458058,symfony/symfony,PHP,49
 7548986,laravel/framework,PHP,61
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,43
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,44
 1548202,matomo-org/matomo,PHP,31
-3431193,yiisoft/yii2,PHP,12
+3431193,yiisoft/yii2,PHP,13
 2884111,magento/magento2,PHP,19
-79111500,jupeter/clean-code-php,PHP,39
-11467667,typecho/typecho,PHP,27
+79111500,jupeter/clean-code-php,PHP,40
+11467667,typecho/typecho,PHP,28
 12166778,googleapis/google-api-php-client,PHP,16
 10238429,tennc/webshell,PHP,43
-14346979,snipe/snipe-it,PHP,30
+14346979,snipe/snipe-it,PHP,31
 74386167,vimeo/psalm,PHP,21
 60010673,elementor/elementor,PHP,26
 2464908,joomla/joomla-cms,PHP,11
@@ -22,5 +22,5 @@ id,name,lang,new stars
 30567860,mevdschee/php-crud-api,PHP,21
 69691727,pmmp/PocketMine-MP,PHP,16
 104077768,wususu/effective-resourses,PHP,49
-111099392,chrome-php/chrome,PHP,296
+111099392,chrome-php/chrome,PHP,298
 182036179,szvone/vmqphp,PHP,22

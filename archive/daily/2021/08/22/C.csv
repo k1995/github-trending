@@ -1,20 +1,20 @@
 id,name,lang,new stars
 10446890,bilibili/ijkplayer,C,9
-18666758,pjreddie/darknet,C,12
-14812739,libuv/libuv,C,14
-102578345,coolsnowwolf/lede,C,28
-80286288,arendst/Tasmota,C,8
+18666758,pjreddie/darknet,C,14
+14812739,libuv/libuv,C,16
+102578345,coolsnowwolf/lede,C,31
+80286288,arendst/Tasmota,C,9
 196353673,taosdata/TDengine,C,8
 45821540,openwrt/openwrt,C,15
 9524997,glfw/glfw,C,12
-32921736,audacity/audacity,C,19
+32921736,audacity/audacity,C,20
 2997204,openwall/john,C,7
 5383731,qemu/qemu,C,11
-3349840,hak5darren/USB-Rubber-Ducky,C,46
-18257358,edenhill/kafkacat,C,8
+3349840,hak5darren/USB-Rubber-Ducky,C,47
+18257358,edenhill/kafkacat,C,9
 23007417,colmap/colmap,C,6
 8046269,warmcat/libwebsockets,C,4
-6687936,ARMmbed/mbedtls,C,3
+6687936,ARMmbed/mbedtls,C,4
 34807561,nanopb/nanopb,C,7
 40556106,wazuh/wazuh,C,18
 94246344,MiSTer-devel/Main_MiSTer,C,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 154525111,signalwire/freeswitch,C,5
 28928522,wolfSSL/wolfssl,C,3
 48130039,eclipse/paho.mqtt.c,C,0
-53174933,google/boringssl,C,2
+53174933,google/boringssl,C,3
 71069373,ThingPulse/esp8266-weather-station-color,C,3
