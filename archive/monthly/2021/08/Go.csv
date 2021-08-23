@@ -1,10 +1,10 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,1164
-48378947,fatedier/frp,Go,896
-29261473,minio/minio,Go,522
-41986369,pingcap/tidb,Go,405
-74175805,istio/istio,Go,331
-134017286,jesseduffield/lazygit,Go,381
+48378947,fatedier/frp,Go,898
+29261473,minio/minio,Go,523
+41986369,pingcap/tidb,Go,406
+74175805,istio/istio,Go,332
+134017286,jesseduffield/lazygit,Go,383
 48003886,tmrts/go-patterns,Go,1157
 123572362,quii/learn-go-with-tests,Go,375
 21827146,chrislusf/seaweedfs,Go,351
@@ -14,13 +14,13 @@ id,name,lang,new stars
 120156076,cloudreve/Cloudreve,Go,790
 191655189,ent/ent,Go,397
 92313258,jetstack/cert-manager,Go,137
-26661222,tinode/chat,Go,1845
-62088377,kubernetes/kompose,Go,570
+26661222,tinode/chat,Go,1844
+62088377,kubernetes/kompose,Go,571
 18950460,concourse/concourse,Go,124
 63625434,securego/gosec,Go,799
 237523442,tailscale/tailscale,Go,629
 87990209,kubernetes/autoscaler,Go,147
 367758176,yedf/dtm,Go,1480
-344676663,erda-project/erda,Go,937
+344676663,erda-project/erda,Go,938
 368683828,golang-jwt/jwt,Go,475
 265775217,binance-chain/bsc,Go,72
