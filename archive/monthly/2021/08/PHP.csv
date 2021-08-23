@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,425
-3482588,danielmiessler/SecLists,PHP,532
+1863329,laravel/laravel,PHP,426
+3482588,danielmiessler/SecLists,PHP,533
 458058,symfony/symfony,PHP,167
-7548986,laravel/framework,PHP,230
+7548986,laravel/framework,PHP,231
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,109
 2234102,bcit-ci/CodeIgniter,PHP,27
 2889328,WordPress/WordPress,PHP,125
-1548202,matomo-org/matomo,PHP,135
+1548202,matomo-org/matomo,PHP,136
 60243197,nextcloud/server,PHP,229
 5550552,owncloud/core,PHP,31
 10238429,tennc/webshell,PHP,132
@@ -16,8 +16,8 @@ id,name,lang,new stars
 3817881,zircote/swagger-php,PHP,67
 60010673,elementor/elementor,PHP,79
 2464908,joomla/joomla-cms,PHP,38
-148129143,bagisto/bagisto,PHP,98
-47508644,pterodactyl/panel,PHP,94
+148129143,bagisto/bagisto,PHP,99
+47508644,pterodactyl/panel,PHP,95
 69691727,pmmp/PocketMine-MP,PHP,49
 2686502,pimcore/pimcore,PHP,47
 129852395,assimon/dujiaoka,PHP,139

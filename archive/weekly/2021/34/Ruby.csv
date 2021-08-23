@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,64
-65252,jekyll/jekyll,Ruby,59
+8514,rails/rails,Ruby,65
+65252,jekyll/jekyll,Ruby,60
 308770,heartcombo/devise,Ruby,16
 2203645,CocoaPods/CocoaPods,Ruby,17
-4095287,rubocop/rubocop,Ruby,11
+4095287,rubocop/rubocop,Ruby,13
 3195124,mperham/sidekiq,Ruby,11
 1918677,fluent/fluentd,Ruby,25
-52855516,Homebrew/homebrew-core,Ruby,42
+52855516,Homebrew/homebrew-core,Ruby,43
 96395,faker-ruby/faker,Ruby,10
 611921,activeadmin/activeadmin,Ruby,3
 275604,resque/resque,Ruby,8
-15435,Shopify/liquid,Ruby,17
+15435,Shopify/liquid,Ruby,18
 21829,thoughtbot/factory_bot,Ruby,7
-75785147,rails/webpacker,Ruby,11
+75785147,rails/webpacker,Ruby,12
 355893,github/markup,Ruby,8
 1314319,instructure/canvas-lms,Ruby,13
 1172597,thoughtbot/shoulda-matchers,Ruby,8
