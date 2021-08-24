@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,300
+23096959,golang/go,Go,301
 48378947,fatedier/frp,Go,190
 42408804,traefik/traefik,Go,111
 15452919,ethereum/go-ethereum,Go,116
@@ -9,14 +9,14 @@ id,name,lang,new stars
 156084530,ehang-io/nps,Go,120
 66573241,hyperledger/fabric,Go,31
 7083242,go-sql-driver/mysql,Go,245
-181461073,v2fly/v2ray-core,Go,145
 42332863,filebrowser/filebrowser,Go,293
+181461073,v2fly/v2ray-core,Go,145
 109145553,containers/podman,Go,56
 23664475,Shopify/toxiproxy,Go,49
-311315731,XTLS/Xray-core,Go,78
+311315731,XTLS/Xray-core,Go,77
 10721619,hajimehoshi/ebiten,Go,32
-147886080,crossplane/crossplane,Go,47
-371564104,megaease/easegress,Go,185
+147886080,crossplane/crossplane,Go,49
+371564104,megaease/easegress,Go,186
 170411418,kedacore/keda,Go,47
 143965255,apache/dubbo-go,Go,116
 162460220,drk1wi/Modlishka,Go,39

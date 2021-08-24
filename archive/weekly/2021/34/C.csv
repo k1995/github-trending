@@ -1,18 +1,18 @@
 id,name,lang,new stars
 10744183,netdata/netdata,C,106
-36502,git/git,C,112
-102578345,coolsnowwolf/lede,C,127
-7634677,openssl/openssl,C,35
-15337142,micropython/micropython,C,39
-34921116,iovisor/bcc,C,70
+36502,git/git,C,114
+102578345,coolsnowwolf/lede,C,126
+7634677,openssl/openssl,C,36
+15337142,micropython/micropython,C,38
+34921116,iovisor/bcc,C,68
 15583310,SoftEtherVPN/SoftEtherVPN,C,31
-3299208,videolan/vlc,C,37
+3299208,videolan/vlc,C,36
 7408108,RT-Thread/rt-thread,C,26
 689344,libretro/RetroArch,C,36
-190845267,n64decomp/sm64,C,79
+190845267,n64decomp/sm64,C,78
 59771425,zephyrproject-rtos/zephyr,C,25
-3349840,hak5darren/USB-Rubber-Ducky,C,144
-37060852,betaflight/betaflight,C,12
+3349840,hak5darren/USB-Rubber-Ducky,C,158
+37060852,betaflight/betaflight,C,11
 5805256,lua/lua,C,31
 6687936,ARMmbed/mbedtls,C,14
 68751856,gnea/grbl,C,12
@@ -20,7 +20,7 @@ id,name,lang,new stars
 40556106,wazuh/wazuh,C,38
 220449772,open-sdr/openwifi,C,75
 194269070,skyline-emu/skyline,C,290
-176278485,sqlite/sqlite,C,24
-214011414,kingToolbox/WindTerm,C,50
+176278485,sqlite/sqlite,C,23
+214011414,kingToolbox/WindTerm,C,49
 172523426,xdp-project/xdp-tutorial,C,12
 394877197,bytedance/bhook,C,179

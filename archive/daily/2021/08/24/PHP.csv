@@ -1,9 +1,9 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,3
-1864363,composer/composer,PHP,3
+1864363,composer/composer,PHP,4
 2253830,PHPMailer/PHPMailer,PHP,3
 1548202,matomo-org/matomo,PHP,3
-11323319,erusev/parsedown,PHP,5
+11323319,erusev/parsedown,PHP,4
 3431193,yiisoft/yii2,PHP,5
 82238168,monicahq/monica,PHP,5
 12615154,barryvdh/laravel-debugbar,PHP,3
@@ -13,7 +13,7 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,0
 656494,cakephp/cakephp,PHP,0
 11467667,typecho/typecho,PHP,6
-3817881,zircote/swagger-php,PHP,0
+3817881,zircote/swagger-php,PHP,1
 159606650,hyperf/hyperf,PHP,3
 61802818,spatie/laravel-activitylog,PHP,5
 18842338,facebookarchive/php-graph-sdk,PHP,0
