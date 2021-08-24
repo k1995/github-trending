@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,13
-3482588,danielmiessler/SecLists,PHP,23
-2579314,fzaninotto/Faker,PHP,6
-60243197,nextcloud/server,PHP,5
+1863329,laravel/laravel,PHP,14
+3482588,danielmiessler/SecLists,PHP,28
+2579314,fzaninotto/Faker,PHP,7
+60243197,nextcloud/server,PHP,6
 82238168,monicahq/monica,PHP,2
 11467667,typecho/typecho,PHP,7
-21298446,firefly-iii/firefly-iii,PHP,9
+21298446,firefly-iii/firefly-iii,PHP,10
 14716368,invoiceninja/invoiceninja,PHP,4
 42261096,fuzzdb-project/fuzzdb,PHP,5
 4242230,PHPOffice/PHPWord,PHP,3
@@ -19,7 +19,7 @@ id,name,lang,new stars
 60457385,vtrois/kratos,PHP,1
 57463067,AzuraCast/AzuraCast,PHP,0
 174021137,inertiajs/pingcrm,PHP,3
-216849756,v2board/v2board,PHP,2
+216849756,v2board/v2board,PHP,3
 36526302,pentestmonkey/php-reverse-shell,PHP,4
 59355182,OpenSID/OpenSID,PHP,1
 184538454,yankovalenko94/Webdev2019,PHP,0
