@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,61
-65252,jekyll/jekyll,Ruby,65
-53238813,Homebrew/brew,Ruby,92
+8514,rails/rails,Ruby,62
+65252,jekyll/jekyll,Ruby,66
+53238813,Homebrew/brew,Ruby,90
 13840241,freeCodeCamp/devdocs,Ruby,60
 2293158,rapid7/metasploit-framework,Ruby,68
-308770,heartcombo/devise,Ruby,9
+308770,heartcombo/devise,Ruby,10
 4095287,rubocop/rubocop,Ruby,12
-3195124,mperham/sidekiq,Ruby,13
-52855516,Homebrew/homebrew-core,Ruby,47
-96395,faker-ruby/faker,Ruby,10
+3195124,mperham/sidekiq,Ruby,14
+52855516,Homebrew/homebrew-core,Ruby,48
+96395,faker-ruby/faker,Ruby,9
 611921,activeadmin/activeadmin,Ruby,1
 15435,Shopify/liquid,Ruby,17
 21829,thoughtbot/factory_bot,Ruby,8
@@ -21,6 +21,6 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,14
 103766152,github/explore,Ruby,17
 8472417,Shopify/identity_cache,Ruby,1
-161399160,Shopify/shopify-cli,Ruby,7
-13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,26
+161399160,Shopify/shopify-cli,Ruby,6
+13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,27
 47709851,instacart/amountable,Ruby,0
