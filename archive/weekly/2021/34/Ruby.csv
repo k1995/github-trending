@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,59
-65252,jekyll/jekyll,Ruby,62
+8514,rails/rails,Ruby,58
+65252,jekyll/jekyll,Ruby,60
 27442967,fastlane/fastlane,Ruby,41
-53238813,Homebrew/brew,Ruby,78
-52281283,mastodon/mastodon,Ruby,43
-308770,heartcombo/devise,Ruby,11
+53238813,Homebrew/brew,Ruby,79
+52281283,mastodon/mastodon,Ruby,41
+308770,heartcombo/devise,Ruby,10
 1090311,elastic/logstash,Ruby,11
 4095287,rubocop/rubocop,Ruby,10
-3195124,mperham/sidekiq,Ruby,15
+3195124,mperham/sidekiq,Ruby,16
 52855516,Homebrew/homebrew-core,Ruby,50
 96395,faker-ruby/faker,Ruby,8
-1725199,github/linguist,Ruby,29
+1725199,github/linguist,Ruby,30
 15435,Shopify/liquid,Ruby,21
-21829,thoughtbot/factory_bot,Ruby,8
+21829,thoughtbot/factory_bot,Ruby,9
 16549503,github/scientist,Ruby,6
 535266,vcr/vcr,Ruby,11
 30985840,solidusio/solidus,Ruby,9
@@ -20,7 +20,7 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,14
 8472417,Shopify/identity_cache,Ruby,1
 17228890,Shopify/shipit-engine,Ruby,2
-356878986,TrashUwU/PokeAssistant,Ruby,60
+356878986,TrashUwU/PokeAssistant,Ruby,57
 161399160,Shopify/shopify-cli,Ruby,6
 13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,28
 47709851,instacart/amountable,Ruby,1
