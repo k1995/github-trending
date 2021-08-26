@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,60
+8514,rails/rails,Ruby,61
 65252,jekyll/jekyll,Ruby,66
-53238813,Homebrew/brew,Ruby,89
+53238813,Homebrew/brew,Ruby,86
 13840241,freeCodeCamp/devdocs,Ruby,60
 2293158,rapid7/metasploit-framework,Ruby,68
 308770,heartcombo/devise,Ruby,10
 4095287,rubocop/rubocop,Ruby,12
-3195124,mperham/sidekiq,Ruby,15
-52855516,Homebrew/homebrew-core,Ruby,47
+3195124,mperham/sidekiq,Ruby,16
+52855516,Homebrew/homebrew-core,Ruby,46
 96395,faker-ruby/faker,Ruby,8
 611921,activeadmin/activeadmin,Ruby,2
 15435,Shopify/liquid,Ruby,17
 21829,thoughtbot/factory_bot,Ruby,8
 26018608,github-changelog-generator/github-changelog-generator,Ruby,13
-16549503,github/scientist,Ruby,8
+16549503,github/scientist,Ruby,7
 75785147,rails/webpacker,Ruby,9
 355893,github/markup,Ruby,8
 535266,vcr/vcr,Ruby,12
@@ -22,5 +22,5 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,17
 8472417,Shopify/identity_cache,Ruby,1
 161399160,Shopify/shopify-cli,Ruby,5
-13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,26
+13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,25
 47709851,instacart/amountable,Ruby,0
