@@ -1,15 +1,15 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,7
-308770,heartcombo/devise,Ruby,5
-37382858,kilimchoi/engineering-blogs,Ruby,10
-2203645,CocoaPods/CocoaPods,Ruby,2
-1090311,elastic/logstash,Ruby,1
-4095287,rubocop/rubocop,Ruby,0
+308770,heartcombo/devise,Ruby,7
+37382858,kilimchoi/engineering-blogs,Ruby,15
+2203645,CocoaPods/CocoaPods,Ruby,1
+1090311,elastic/logstash,Ruby,0
+4095287,rubocop/rubocop,Ruby,1
 3314,spree/spree,Ruby,0
-88740103,postalserver/postal,Ruby,4
+88740103,postalserver/postal,Ruby,5
 1918677,fluent/fluentd,Ruby,5
-202291859,chatwoot/chatwoot,Ruby,4
-52855516,Homebrew/homebrew-core,Ruby,5
+202291859,chatwoot/chatwoot,Ruby,3
+52855516,Homebrew/homebrew-core,Ruby,3
 1333863,kaminari/kaminari,Ruby,1
 451035,heartcombo/simple_form,Ruby,0
 6529205,varvet/pundit,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 156555906,testdouble/standard,Ruby,7
 7983886,timdorr/tesla-api,Ruby,3
 49878403,zendesk/ruby-kafka,Ruby,1
-222777351,DannyBen/bashly,Ruby,138
+222777351,DannyBen/bashly,Ruby,154
 13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,9
 364649518,turingschool-examples/set_list_tutorial,Ruby,0
