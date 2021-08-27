@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,67
-65252,jekyll/jekyll,Ruby,59
+8514,rails/rails,Ruby,65
+65252,jekyll/jekyll,Ruby,58
 27442967,fastlane/fastlane,Ruby,48
 53238813,Homebrew/brew,Ruby,83
-52281283,mastodon/mastodon,Ruby,38
-481872,hashicorp/vagrant,Ruby,41
+52281283,mastodon/mastodon,Ruby,39
+481872,hashicorp/vagrant,Ruby,42
 308770,heartcombo/devise,Ruby,13
-37382858,kilimchoi/engineering-blogs,Ruby,66
+37382858,kilimchoi/engineering-blogs,Ruby,74
 538746,ruby/ruby,Ruby,12
 1090311,elastic/logstash,Ruby,11
-4095287,rubocop/rubocop,Ruby,10
-3195124,mperham/sidekiq,Ruby,16
+4095287,rubocop/rubocop,Ruby,11
+3195124,mperham/sidekiq,Ruby,17
 52855516,Homebrew/homebrew-core,Ruby,45
 611921,activeadmin/activeadmin,Ruby,4
 1725199,github/linguist,Ruby,29
@@ -23,4 +23,4 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,12
 103766152,github/explore,Ruby,18
 212813096,lewagon/data-setup,Ruby,24
-13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,32
+13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,33
