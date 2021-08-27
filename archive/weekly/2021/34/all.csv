@@ -2,14 +2,14 @@ id,name,lang,new stars
 54346799,public-apis/public-apis,Python,2856
 63476337,TheAlgorithms/Python,Python,1370
 15634981,godotengine/godot,C++,489
-22067521,ocornut/imgui,C++,356
+22067521,ocornut/imgui,C++,368
 49609581,PowerShell/PowerShell,C#,205
 72495579,go-gitea/gitea,Go,289
 364474335,google/zx,JavaScript,1529
 160083795,SerenityOS/serenity,C++,547
-14981376,dogecoin/dogecoin,C++,258
-192025001,Qv2ray/Qv2ray,C++,215
-42332863,filebrowser/filebrowser,Go,1047
+14981376,dogecoin/dogecoin,C++,259
+192025001,Qv2ray/Qv2ray,C++,199
+42332863,filebrowser/filebrowser,Go,1100
 135201145,RustPython/RustPython,Python,820
 299628763,Asabeneh/30-Days-Of-React,JavaScript,230
 265122478,ManimCommunity/manim,Python,1601
@@ -19,7 +19,7 @@ id,name,lang,new stars
 248032165,spring-projects/spring-authorization-server,Java,204
 193519496,DIGITALCRIMINAL/OnlyFans,Python,561
 396474980,AsuharietYgvar/AppleNeuralHash2ONNX,Python,378
-329265320,zxbu/webdav-aliyundriver,Java,312
+329265320,zxbu/webdav-aliyundriver,Java,291
 366352205,zero205/JD_tencent_scf,JavaScript,113
 358917318,apache/arrow-datafusion,Rust,172
 373186245,metaplex-foundation/metaplex,Rust,58
