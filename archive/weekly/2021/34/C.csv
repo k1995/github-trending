@@ -1,15 +1,15 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,460
-10744183,netdata/netdata,C,110
-36502,git/git,C,121
-102578345,coolsnowwolf/lede,C,127
-29759715,facebook/zstd,C,63
-34921116,iovisor/bcc,C,55
-66150122,jarun/nnn,C,53
+10744183,netdata/netdata,C,111
+36502,git/git,C,125
+102578345,coolsnowwolf/lede,C,126
+29759715,facebook/zstd,C,62
+34921116,iovisor/bcc,C,54
+66150122,jarun/nnn,C,52
 3299208,videolan/vlc,C,32
-3319040,id-Software/DOOM,C,41
-3318027,id-Software/Quake-III-Arena,C,33
-190845267,n64decomp/sm64,C,82
+3319040,id-Software/DOOM,C,42
+3318027,id-Software/Quake-III-Arena,C,34
+190845267,n64decomp/sm64,C,80
 6376337,pocoproject/poco,C,24
 5870069,edenhill/librdkafka,C,17
 3349840,hak5darren/USB-Rubber-Ducky,C,192
@@ -20,7 +20,7 @@ id,name,lang,new stars
 68751856,gnea/grbl,C,15
 40556106,wazuh/wazuh,C,30
 287706896,Tencent/puerts,C,38
-194269070,skyline-emu/skyline,C,481
+194269070,skyline-emu/skyline,C,482
 15333809,open62541/open62541,C,9
 266800505,edk2-porting/edk2-sdm845,C,67
-394877197,bytedance/bhook,C,131
+394877197,bytedance/bhook,C,129
