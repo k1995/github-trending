@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,92
+1863329,laravel/laravel,PHP,93
 458058,symfony/symfony,PHP,36
-7548986,laravel/framework,PHP,43
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,34
-2253830,PHPMailer/PHPMailer,PHP,40
-2889328,WordPress/WordPress,PHP,31
-60243197,nextcloud/server,PHP,136
+7548986,laravel/framework,PHP,42
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,33
+2253830,PHPMailer/PHPMailer,PHP,39
+2889328,WordPress/WordPress,PHP,30
+60243197,nextcloud/server,PHP,187
 82238168,monicahq/monica,PHP,30
 14259390,Maatwebsite/Laravel-Excel,PHP,20
 137515,mockery/mockery,PHP,13
@@ -14,7 +14,7 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,20
 11467667,typecho/typecho,PHP,39
 21298446,firefly-iii/firefly-iii,PHP,35
-14716368,invoiceninja/invoiceninja,PHP,25
+14716368,invoiceninja/invoiceninja,PHP,26
 4242230,PHPOffice/PHPWord,PHP,14
 12204147,mautic/mautic,PHP,8
 6322699,FreshRSS/FreshRSS,PHP,29
