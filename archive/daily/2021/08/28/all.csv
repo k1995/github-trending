@@ -1,26 +1,26 @@
 id,name,lang,new stars
-27193779,nodejs/node,JavaScript,114
-24195339,angular/angular,TypeScript,89
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,309
-33569135,ReactiveX/RxSwift,Swift,170
-4524181,facebook/folly,C++,113
-130688011,meilisearch/MeiliSearch,Rust,398
-32623292,basarat/typescript-book,TypeScript,252
-277168957,eugeneyan/applied-ml,,270
-212639071,bregman-arie/devops-exercises,Python,299
-42332863,filebrowser/filebrowser,Go,209
-281319253,element-plus/element-plus,Vue,81
-135201145,RustPython/RustPython,Python,72
-222751131,Asabeneh/30-Days-Of-Python,Python,155
-74421371,ryanburgess/engineer-manager,JavaScript,190
-93444615,hashicorp/terraform-provider-aws,Go,30
-371881380,AkashSingh3031/The-Complete-FAANG-Preparation,Jupyter Notebook,242
-307260205,yt-dlp/yt-dlp,Python,1198
-344802603,marceloprates/prettymaps,Jupyter Notebook,790
-399495186,tiangolo/sqlmodel,Python,698
-388260535,sysprog21/lkmpg,TeX,318
-397672812,eastlakeside/awesome-productivity-cn,,229
-399821046,varbhat/exatorrent,Go,178
+27193779,nodejs/node,JavaScript,161
+24195339,angular/angular,TypeScript,114
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,307
+33569135,ReactiveX/RxSwift,Swift,180
+4524181,facebook/folly,C++,111
+130688011,meilisearch/MeiliSearch,Rust,329
+32623292,basarat/typescript-book,TypeScript,250
+277168957,eugeneyan/applied-ml,,240
+212639071,bregman-arie/devops-exercises,Python,307
+42332863,filebrowser/filebrowser,Go,203
+281319253,element-plus/element-plus,Vue,102
+135201145,RustPython/RustPython,Python,89
+222751131,Asabeneh/30-Days-Of-Python,Python,122
+74421371,ryanburgess/engineer-manager,JavaScript,152
+93444615,hashicorp/terraform-provider-aws,Go,43
+371881380,AkashSingh3031/The-Complete-FAANG-Preparation,Jupyter Notebook,239
+307260205,yt-dlp/yt-dlp,Python,1014
+344802603,marceloprates/prettymaps,Jupyter Notebook,762
+399495186,tiangolo/sqlmodel,Python,679
+388260535,sysprog21/lkmpg,TeX,262
+397672812,eastlakeside/awesome-productivity-cn,,189
+399821046,varbhat/exatorrent,Go,179
 381453955,hrsh7th/nvim-cmp,Lua,53
-396770997,JingyunLiang/SwinIR,Python,68
-389585704,benyaminahmed/nft-image-generator,Jupyter Notebook,63
+396770997,JingyunLiang/SwinIR,Python,59
+389585704,benyaminahmed/nft-image-generator,Jupyter Notebook,69
