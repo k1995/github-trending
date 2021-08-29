@@ -1,10 +1,10 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,466
-10744183,netdata/netdata,C,101
-111583593,Genymobile/scrcpy,C,300
+10744183,netdata/netdata,C,105
+111583593,Genymobile/scrcpy,C,299
 36502,git/git,C,121
-36836475,tmux/tmux,C,87
-24586308,cfenollosa/os-tutorial,C,75
+36836475,tmux/tmux,C,86
+24586308,cfenollosa/os-tutorial,C,74
 102578345,coolsnowwolf/lede,C,129
 29759715,facebook/zstd,C,63
 34921116,iovisor/bcc,C,55
@@ -13,14 +13,14 @@ id,name,lang,new stars
 3299208,videolan/vlc,C,32
 3319040,id-Software/DOOM,C,49
 3318027,id-Software/Quake-III-Arena,C,35
-190845267,n64decomp/sm64,C,53
+190845267,n64decomp/sm64,C,50
 6376337,pocoproject/poco,C,25
 5870069,edenhill/librdkafka,C,18
 22711503,gcc-mirror/gcc,C,27
-3349840,hak5darren/USB-Rubber-Ducky,C,177
-37060852,betaflight/betaflight,C,12
+3349840,hak5darren/USB-Rubber-Ducky,C,178
+37060852,betaflight/betaflight,C,13
 68751856,gnea/grbl,C,16
-287706896,Tencent/puerts,C,41
-204459250,mit-pdos/xv6-riscv,C,19
-194269070,skyline-emu/skyline,C,479
-266800505,edk2-porting/edk2-sdm845,C,73
+287706896,Tencent/puerts,C,42
+204459250,mit-pdos/xv6-riscv,C,18
+194269070,skyline-emu/skyline,C,478
+266800505,edk2-porting/edk2-sdm845,C,71

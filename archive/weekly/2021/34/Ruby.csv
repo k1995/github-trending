@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,64
 65252,jekyll/jekyll,Ruby,57
-27442967,fastlane/fastlane,Ruby,46
+27442967,fastlane/fastlane,Ruby,45
 308770,heartcombo/devise,Ruby,16
-37382858,kilimchoi/engineering-blogs,Ruby,117
+37382858,kilimchoi/engineering-blogs,Ruby,132
 538746,ruby/ruby,Ruby,16
 1090311,elastic/logstash,Ruby,15
 4095287,rubocop/rubocop,Ruby,12
 3314,spree/spree,Ruby,5
 3195124,mperham/sidekiq,Ruby,17
-1918677,fluent/fluentd,Ruby,27
+1918677,fluent/fluentd,Ruby,26
 52855516,Homebrew/homebrew-core,Ruby,44
 1725199,github/linguist,Ruby,28
 611921,activeadmin/activeadmin,Ruby,4
@@ -17,7 +17,7 @@ id,name,lang,new stars
 535266,vcr/vcr,Ruby,7
 30985840,solidusio/solidus,Ruby,8
 2981455,github/gemoji,Ruby,4
-49515,troessner/reek,Ruby,28
+49515,troessner/reek,Ruby,27
 11426474,github/choosealicense.com,Ruby,13
 103766152,github/explore,Ruby,18
 270054,ffi/ffi,Ruby,4
