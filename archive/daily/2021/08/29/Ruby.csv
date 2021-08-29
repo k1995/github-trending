@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,6
-7569578,discourse/discourse,Ruby,14
+7569578,discourse/discourse,Ruby,13
 27442967,fastlane/fastlane,Ruby,3
-2293158,rapid7/metasploit-framework,Ruby,8
+2293158,rapid7/metasploit-framework,Ruby,7
 2500088,gitlabhq/gitlabhq,Ruby,0
-481872,hashicorp/vagrant,Ruby,4
+481872,hashicorp/vagrant,Ruby,5
 308770,heartcombo/devise,Ruby,2
 37382858,kilimchoi/engineering-blogs,Ruby,43
-4095287,rubocop/rubocop,Ruby,0
-106995,sinatra/sinatra,Ruby,1
+4095287,rubocop/rubocop,Ruby,1
+106995,sinatra/sinatra,Ruby,0
 3314,spree/spree,Ruby,2
 3195124,mperham/sidekiq,Ruby,1
 1918677,fluent/fluentd,Ruby,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,0
 1175581,citation-style-language/styles,Ruby,1
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,1
-222777351,DannyBen/bashly,Ruby,98
+222777351,DannyBen/bashly,Ruby,106
 13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,5
-266574211,basecamp/console1984,Ruby,15
+266574211,basecamp/console1984,Ruby,13
