@@ -1,11 +1,11 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,127
-2253830,PHPMailer/PHPMailer,PHP,34
-60243197,nextcloud/server,PHP,832
+3482588,danielmiessler/SecLists,PHP,143
+2253830,PHPMailer/PHPMailer,PHP,36
+60243197,nextcloud/server,PHP,883
 2889328,WordPress/WordPress,PHP,30
 3431193,yiisoft/yii2,PHP,13
-82238168,monicahq/monica,PHP,36
-23680678,tymondesigns/jwt-auth,PHP,14
+82238168,monicahq/monica,PHP,38
+23680678,tymondesigns/jwt-auth,PHP,13
 14259390,Maatwebsite/Laravel-Excel,PHP,22
 2884111,magento/magento2,PHP,17
 656494,cakephp/cakephp,PHP,8
@@ -21,6 +21,6 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,8
 17253775,zabbix/zabbix,PHP,14
 311448648,laravel/breeze,PHP,12
-216849756,v2board/v2board,PHP,13
+216849756,v2board/v2board,PHP,14
 1430051,TYPO3/typo3,PHP,0
-132122241,apisearch-io/search-server,PHP,17
+132122241,apisearch-io/search-server,PHP,3
