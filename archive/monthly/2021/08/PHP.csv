@@ -1,11 +1,10 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,413
-3482588,danielmiessler/SecLists,PHP,673
-7548986,laravel/framework,PHP,214
+3482588,danielmiessler/SecLists,PHP,675
+7548986,laravel/framework,PHP,216
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,128
-2253830,PHPMailer/PHPMailer,PHP,142
-60243197,nextcloud/server,PHP,1460
-2889328,WordPress/WordPress,PHP,129
+60243197,nextcloud/server,PHP,1478
+2889328,WordPress/WordPress,PHP,128
 1548202,matomo-org/matomo,PHP,147
 3431193,yiisoft/yii2,PHP,41
 79111500,jupeter/clean-code-php,PHP,123
@@ -13,9 +12,10 @@ id,name,lang,new stars
 11467667,typecho/typecho,PHP,116
 10238429,tennc/webshell,PHP,133
 21298446,firefly-iii/firefly-iii,PHP,129
+2141186,opencart/opencart,PHP,50
 13973343,cydrobolt/polr,PHP,112
 60010673,elementor/elementor,PHP,68
-148129143,bagisto/bagisto,PHP,91
+148129143,bagisto/bagisto,PHP,90
 2464908,joomla/joomla-cms,PHP,36
 47508644,pterodactyl/panel,PHP,103
 1957456,Dolibarr/dolibarr,PHP,69
@@ -23,4 +23,4 @@ id,name,lang,new stars
 204114509,solstice23/argon-theme,PHP,124
 131995661,shopware/platform,PHP,35
 75645659,WordPress/wordpress-develop,PHP,33
-380196780,maccmspro/maccms10,PHP,110
+380196780,maccmspro/maccms10,PHP,111
