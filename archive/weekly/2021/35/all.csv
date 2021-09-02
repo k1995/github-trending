@@ -1,26 +1,26 @@
 id,name,lang,new stars
-62607227,yangshun/tech-interview-handbook,JavaScript,301
-15204860,papers-we-love/papers-we-love,Shell,276
-188660663,CorentinJ/Real-Time-Voice-Cloning,Python,351
-246335987,ventoy/Ventoy,C,719
-212613049,cli/cli,Go,702
-231283452,excalidraw/excalidraw,TypeScript,174
-364474335,google/zx,JavaScript,972
-4524181,facebook/folly,C++,409
-218115303,vercel/swr,TypeScript,351
-130688011,meilisearch/MeiliSearch,Rust,1540
-42332863,filebrowser/filebrowser,Go,678
-240315046,jina-ai/jina,Python,1684
-47093357,ant-design/ant-design-mobile,TypeScript,149
-135201145,RustPython/RustPython,Rust,219
-149001365,doocs/leetcode,Java,218
-66156850,TheAlgorithms/Go,Go,91
-307260205,yt-dlp/yt-dlp,Python,2550
-299482335,withfig/autocomplete,TypeScript,436
-385332374,blueedgetechno/windows11,CSS,850
-286488508,chrisleekr/binance-trading-bot,JavaScript,92
-395283401,armosec/kubescape,Go,383
-188299874,input-output-hk/cardano-node,Haskell,60
-375939072,dotnetcore/FastGithub,C#,460
-389585704,benyaminahmed/nft-image-generator,Jupyter Notebook,605
-373186245,metaplex-foundation/metaplex,Rust,204
+13491895,EbookFoundation/free-programming-books,,2432
+576201,mrdoob/three.js,JavaScript,229
+188660663,CorentinJ/Real-Time-Voice-Cloning,Python,358
+246335987,ventoy/Ventoy,C,713
+212613049,cli/cli,Go,681
+4524181,facebook/folly,C++,396
+130688011,meilisearch/MeiliSearch,Rust,1476
+60243197,nextcloud/server,PHP,1732
+42332863,filebrowser/filebrowser,Go,646
+156108442,myspaghetti/macos-virtualbox,Shell,1298
+47093357,ant-design/ant-design-mobile,TypeScript,151
+139914932,quarkusio/quarkus,Java,57
+149001365,doocs/leetcode,Java,225
+66156850,TheAlgorithms/Go,Go,95
+344802603,marceloprates/prettymaps,Jupyter Notebook,2693
+307260205,yt-dlp/yt-dlp,Python,2515
+299482335,withfig/autocomplete,TypeScript,457
+385332374,blueedgetechno/windows11,CSS,858
+121470383,solana-labs/solana,Rust,278
+286488508,chrisleekr/binance-trading-bot,JavaScript,94
+265612440,coqui-ai/TTS,Jupyter Notebook,401
+188299874,input-output-hk/cardano-node,Haskell,59
+375939072,dotnetcore/FastGithub,C#,455
+399821046,varbhat/exatorrent,Go,503
+373186245,metaplex-foundation/metaplex,Rust,212
