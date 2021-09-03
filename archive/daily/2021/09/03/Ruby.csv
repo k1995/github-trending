@@ -1,8 +1,8 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,4
-8681349,huginn/huginn,Ruby,7
-53238813,Homebrew/brew,Ruby,14
-2293158,rapid7/metasploit-framework,Ruby,17
+8681349,huginn/huginn,Ruby,6
+53238813,Homebrew/brew,Ruby,13
+2293158,rapid7/metasploit-framework,Ruby,16
 481872,hashicorp/vagrant,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,3
 911765,diaspora/diaspora,Ruby,0
@@ -18,7 +18,7 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,3
 30985840,solidusio/solidus,Ruby,2
 1952825,Homebrew/homebrew-bundle,Ruby,3
-115859973,ddnexus/pagy,Ruby,3
+115859973,ddnexus/pagy,Ruby,2
 3947396,getsentry/sentry-ruby,Ruby,1
 70830890,bigbluebutton/greenlight,Ruby,0
 379134798,MBoxPlus/mbox,Ruby,19
