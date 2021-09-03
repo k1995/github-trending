@@ -1,25 +1,25 @@
 id,name,lang,new stars
-151834062,doocs/advanced-java,Java,238
-156157055,GokuMohandas/MadeWithML,Jupyter Notebook,134
-49016322,angular/components,TypeScript,31
-63477612,TheAlgorithms/C-Plus-Plus,C++,63
-97086543,TheAlgorithms/Javascript,JavaScript,219
-168799526,rwightman/pytorch-image-models,Python,44
-240315046,jina-ai/jina,Python,301
-109145553,containers/podman,Go,379
-52796596,netbox-community/netbox,Python,45
-120710644,Vonng/ddia,Python,63
-105808767,aws/aws-cdk,TypeScript,38
-138361150,doocs/jvm,Java,142
+151834062,doocs/advanced-java,Java,245
+156157055,GokuMohandas/MadeWithML,Jupyter Notebook,148
+49016322,angular/components,TypeScript,58
+63477612,TheAlgorithms/C-Plus-Plus,C++,94
+97086543,TheAlgorithms/Javascript,JavaScript,218
+168799526,rwightman/pytorch-image-models,Python,63
+240315046,jina-ai/jina,Python,314
+109145553,containers/podman,Go,312
+52796596,netbox-community/netbox,Python,58
+120710644,Vonng/ddia,Python,70
+105808767,aws/aws-cdk,TypeScript,56
+138361150,doocs/jvm,Java,141
 171072967,pedroslopez/whatsapp-web.js,JavaScript,169
-336179614,aaronwangy/Data-Science-Cheatsheet,TeX,45
-153097643,openvinotoolkit/openvino,C++,24
-121859737,ThoughtfulDev/EagleEye,Python,134
-84378779,HowProgrammingWorks/Index,JavaScript,29
-176523594,lucent-sea/Remotely,C#,35
+336179614,aaronwangy/Data-Science-Cheatsheet,TeX,62
+153097643,openvinotoolkit/openvino,C++,36
+121859737,ThoughtfulDev/EagleEye,Python,165
+84378779,HowProgrammingWorks/Index,JavaScript,33
+176523594,lucent-sea/Remotely,C#,45
+80674179,dblalock/bolt,C++,207
 373186245,metaplex-foundation/metaplex,Rust,62
-80674179,dblalock/bolt,C++,192
-387822838,erikalu/omnimatte,Python,63
-391047689,terrarier2111/Leafish,Rust,38
-401967623,h3v0x/CVE-2021-26084_Confluence,Python,32
-399623520,HashLips/generative-art-opensource,JavaScript,22
+387822838,erikalu/omnimatte,Python,73
+391047689,terrarier2111/Leafish,Rust,37
+401967623,h3v0x/CVE-2021-26084_Confluence,Python,30
+399623520,HashLips/generative-art-opensource,JavaScript,26
