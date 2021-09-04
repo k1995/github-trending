@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
+8514,rails/rails,Ruby,9
 27442967,fastlane/fastlane,Ruby,2
 538746,ruby/ruby,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,3
 88740103,postalserver/postal,Ruby,28
 1918677,fluent/fluentd,Ruby,2
-96395,faker-ruby/faker,Ruby,0
+96395,faker-ruby/faker,Ruby,2
 611921,activeadmin/activeadmin,Ruby,0
 15435,Shopify/liquid,Ruby,2
-6688319,DeathKing/Learning-SICP,Ruby,0
+6688319,DeathKing/Learning-SICP,Ruby,1
 451035,heartcombo/simple_form,Ruby,0
 810796,sferik/rails_admin,Ruby,0
 21829,thoughtbot/factory_bot,Ruby,2
@@ -16,11 +16,11 @@ id,name,lang,new stars
 176780,alexreisner/geocoder,Ruby,2
 6899875,opf/openproject,Ruby,3
 1314319,instructure/canvas-lms,Ruby,1
-52316423,luggit/react-native-config,Ruby,1
-103766152,github/explore,Ruby,2
+52316423,luggit/react-native-config,Ruby,0
+103766152,github/explore,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,0
-6485,whomwah/rqrcode,Ruby,4
+6485,whomwah/rqrcode,Ruby,3
 65914086,decidim/decidim,Ruby,0
 3947396,getsentry/sentry-ruby,Ruby,0
 161399160,Shopify/shopify-cli,Ruby,0
-402422776,rails/esbuild-rails,Ruby,29
+402422776,rails/esbuild-rails,Ruby,25
