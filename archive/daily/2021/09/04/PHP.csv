@@ -1,8 +1,8 @@
 id,name,lang,new stars
 1864363,composer/composer,PHP,3
-7548986,laravel/framework,PHP,12
+7548986,laravel/framework,PHP,13
 448045,sebastianbergmann/phpunit,PHP,4
-60243197,nextcloud/server,PHP,130
+60243197,nextcloud/server,PHP,124
 3431193,yiisoft/yii2,PHP,2
 12615154,barryvdh/laravel-debugbar,PHP,2
 22553797,getgrav/grav,PHP,2
@@ -14,7 +14,7 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,4
 97311017,rectorphp/rector,PHP,4
 222873550,bytefury/crater,PHP,1
-60010673,elementor/elementor,PHP,3
+60010673,elementor/elementor,PHP,4
 9077725,giggsey/libphonenumber-for-php,PHP,1
 29126334,EasyCorp/EasyAdminBundle,PHP,0
 31595609,mpdf/mpdf,PHP,2
