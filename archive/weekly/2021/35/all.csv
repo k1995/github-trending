@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,2257
-212613049,cli/cli,Go,395
-4524181,facebook/folly,C++,193
-60243197,nextcloud/server,PHP,1978
-42332863,filebrowser/filebrowser,Go,338
-156108442,myspaghetti/macos-virtualbox,Shell,1258
-240315046,jina-ai/jina,Python,2060
-109145553,containers/podman,Go,804
-47093357,ant-design/ant-design-mobile,TypeScript,153
-41179827,Rapptz/discord.py,Python,394
-344802603,marceloprates/prettymaps,Jupyter Notebook,1370
-307260205,yt-dlp/yt-dlp,Python,1053
-299482335,withfig/autocomplete,TypeScript,609
-399495186,tiangolo/sqlmodel,Python,922
-144849757,fanux/sealos,Go,169
-121470383,solana-labs/solana,Rust,311
+13491895,EbookFoundation/free-programming-books,,2227
+151834062,doocs/advanced-java,Java,715
+3482588,danielmiessler/SecLists,PHP,256
+188660663,CorentinJ/Real-Time-Voice-Cloning,Python,399
+212613049,cli/cli,Go,382
+67702184,topjohnwu/Magisk,C++,373
+60243197,nextcloud/server,PHP,1970
+63477612,TheAlgorithms/C-Plus-Plus,C++,958
+240315046,jina-ai/jina,Python,2082
+109145553,containers/podman,Go,826
+41179827,Rapptz/discord.py,Python,373
+243487250,DayBreak-u/chineseocr_lite,C++,172
+186847792,GTAmodding/re3,C++,145
+344802603,marceloprates/prettymaps,Jupyter Notebook,1288
+121470383,solana-labs/solana,Rust,315
+171072967,pedroslopez/whatsapp-web.js,JavaScript,396
 286488508,chrisleekr/binance-trading-bot,JavaScript,90
-265612440,coqui-ai/TTS,Jupyter Notebook,449
-347404990,whyour/qinglong,TypeScript,378
-197515838,shenzhengfang/kkndme_tianya,,531
+391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,518
+265612440,coqui-ai/TTS,Jupyter Notebook,450
+347404990,whyour/qinglong,TypeScript,375
+197515838,shenzhengfang/kkndme_tianya,,544
 188299874,input-output-hk/cardano-node,Haskell,58
-375939072,dotnetcore/FastGithub,C#,370
-399821046,varbhat/exatorrent,Go,301
-389585704,benyaminahmed/nft-image-generator,Jupyter Notebook,534
-373186245,metaplex-foundation/metaplex,Rust,325
+389585704,benyaminahmed/nft-image-generator,Jupyter Notebook,520
+395536461,mTvare6/hello-world.rs,Rust,352
+373186245,metaplex-foundation/metaplex,Rust,337

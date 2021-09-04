@@ -1,12 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,427
+1863329,laravel/laravel,PHP,424
 3482588,danielmiessler/SecLists,PHP,707
-7548986,laravel/framework,PHP,232
+7548986,laravel/framework,PHP,229
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,131
-2234102,bcit-ci/CodeIgniter,PHP,26
-2253830,PHPMailer/PHPMailer,PHP,147
-60243197,nextcloud/server,PHP,2171
-2889328,WordPress/WordPress,PHP,134
+2253830,PHPMailer/PHPMailer,PHP,145
+60243197,nextcloud/server,PHP,2169
+2889328,WordPress/WordPress,PHP,135
 1548202,matomo-org/matomo,PHP,152
 3431193,yiisoft/yii2,PHP,47
 72069409,the-control-group/voyager,PHP,79
@@ -15,10 +14,11 @@ id,name,lang,new stars
 10238429,tennc/webshell,PHP,139
 21298446,firefly-iii/firefly-iii,PHP,130
 2141186,opencart/opencart,PHP,52
+74386167,vimeo/psalm,PHP,77
 60010673,elementor/elementor,PHP,80
 148129143,bagisto/bagisto,PHP,92
 2464908,joomla/joomla-cms,PHP,40
-6322699,FreshRSS/FreshRSS,PHP,97
+6322699,FreshRSS/FreshRSS,PHP,98
 1957456,Dolibarr/dolibarr,PHP,66
 73781385,orchidsoftware/platform,PHP,146
 204114509,solstice23/argon-theme,PHP,124
