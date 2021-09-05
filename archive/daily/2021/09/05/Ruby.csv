@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,4
+8514,rails/rails,Ruby,6
 27442967,fastlane/fastlane,Ruby,2
-538746,ruby/ruby,Ruby,4
+538746,ruby/ruby,Ruby,2
 2203645,CocoaPods/CocoaPods,Ruby,3
-88740103,postalserver/postal,Ruby,17
+88740103,postalserver/postal,Ruby,15
 1918677,fluent/fluentd,Ruby,0
 96395,faker-ruby/faker,Ruby,2
 611921,activeadmin/activeadmin,Ruby,0
@@ -14,7 +14,7 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,1
 2441517,puma/puma,Ruby,1
 176780,alexreisner/geocoder,Ruby,2
-6899875,opf/openproject,Ruby,2
+6899875,opf/openproject,Ruby,1
 1314319,instructure/canvas-lms,Ruby,2
 52316423,luggit/react-native-config,Ruby,0
 103766152,github/explore,Ruby,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 65914086,decidim/decidim,Ruby,0
 3947396,getsentry/sentry-ruby,Ruby,0
 161399160,Shopify/shopify-cli,Ruby,0
-402422776,rails/esbuild-rails,Ruby,19
+402422776,rails/esbuild-rails,Ruby,20

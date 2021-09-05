@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1129010,blueimp/jQuery-File-Upload,PHP,1
-458058,symfony/symfony,PHP,5
-7548986,laravel/framework,PHP,3
+1129010,blueimp/jQuery-File-Upload,PHP,0
+458058,symfony/symfony,PHP,4
+7548986,laravel/framework,PHP,4
 2253830,PHPMailer/PHPMailer,PHP,3
-82238168,monicahq/monica,PHP,5
+82238168,monicahq/monica,PHP,6
 4916869,ramsey/uuid,PHP,0
 14259390,Maatwebsite/Laravel-Excel,PHP,2
 2884111,magento/magento2,PHP,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 131995661,shopware/platform,PHP,1
 111562942,statamic/cms,PHP,1
 96462257,osiset/laravel-shopify,PHP,0
-274180401,MedicOneSystems/livewire-datatables,PHP,3
+274180401,MedicOneSystems/livewire-datatables,PHP,2
 41410580,ppy/osu-web,PHP,0
 229847129,azjezz/psl,PHP,4
-397376488,spatie/laravel-support-bubble,PHP,22
+397376488,spatie/laravel-support-bubble,PHP,20
