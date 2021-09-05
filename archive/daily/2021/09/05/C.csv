@@ -1,13 +1,13 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,26
-1903522,php/php-src,C,2
-62156403,QSCTech/zju-icicles,C,10
-102578345,coolsnowwolf/lede,C,10
-7634677,openssl/openssl,C,6
-95133665,s-matyukevich/raspberry-pi-os,C,17
+111583593,Genymobile/scrcpy,C,25
+1903522,php/php-src,C,3
+62156403,QSCTech/zju-icicles,C,11
+102578345,coolsnowwolf/lede,C,11
+7634677,openssl/openssl,C,7
+95133665,s-matyukevich/raspberry-pi-os,C,14
 78281075,SpacehuhnTech/esp8266_deauther,C,2
 9524997,glfw/glfw,C,7
-1856976,libevent/libevent,C,2
+1856976,libevent/libevent,C,3
 70127218,espressif/arduino-esp32,C,3
 65899476,espressif/esp-idf,C,2
 18106269,lz4/lz4,C,2
@@ -16,11 +16,11 @@ id,name,lang,new stars
 59771425,zephyrproject-rtos/zephyr,C,3
 6667084,ponylang/ponyc,C,2
 1660127,neutrinolabs/xrdp,C,2
-29933948,fluent/fluent-bit,C,0
+29933948,fluent/fluent-bit,C,2
 13234048,jagt/clumsy,C,2
 27359183,guanzhi/GmSSL,C,0
 128791889,haproxy/haproxy,C,2
 96348842,DPDK/dpdk,C,2
 53432472,Azure/sonic-buildimage,C,0
-51990771,ARM-software/CMSIS_5,C,1
-227585452,riscv/riscv-crypto,C,9
+51990771,ARM-software/CMSIS_5,C,0
+227585452,riscv/riscv-crypto,C,8

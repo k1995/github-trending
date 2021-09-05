@@ -1,17 +1,17 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,22
+100060912,microsoft/terminal,C++,21
 44838949,apple/swift,C++,12
-23357588,protocolbuffers/protobuf,C++,17
-11171548,nlohmann/json,C++,92
-23405758,google/leveldb,C++,11
-120887835,huihut/interview,C++,12
+23357588,protocolbuffers/protobuf,C++,18
+11171548,nlohmann/json,C++,84
+23405758,google/leveldb,C++,12
+120887835,huihut/interview,C++,11
 34864402,apache/incubator-mxnet,C++,2
 63477612,TheAlgorithms/C-Plus-Plus,C++,202
 1062572,catchorg/Catch2,C++,5
 26038648,gabime/spdlog,C++,9
 78483432,TranslucentTB/TranslucentTB,C++,10
 263379,zeromq/libzmq,C++,1
-186847792,GTAmodding/re3,C++,144
+186847792,GTAmodding/re3,C++,143
 7512484,ArduPilot/ardupilot,C++,4
 130068982,taskflow/taskflow,C++,3
 15122806,google/benchmark,C++,3
@@ -19,8 +19,8 @@ id,name,lang,new stars
 2436255,Project-OSRM/osrm-backend,C++,0
 86897963,ZLMediaKit/ZLMediaKit,C++,2
 52882701,prusa3d/PrusaSlicer,C++,3
-189205663,qinguoyi/TinyWebServer,C++,8
-153097643,openvinotoolkit/openvino,C++,18
-80674179,dblalock/bolt,C++,122
-223490876,facebook/CacheLib,C++,27
-394452735,GameTechDev/XeGTAO,C++,4
+189205663,qinguoyi/TinyWebServer,C++,7
+153097643,openvinotoolkit/openvino,C++,15
+80674179,dblalock/bolt,C++,128
+223490876,facebook/CacheLib,C++,26
+394452735,GameTechDev/XeGTAO,C++,5
