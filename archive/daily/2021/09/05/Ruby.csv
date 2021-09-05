@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,5
+8514,rails/rails,Ruby,7
 7569578,discourse/discourse,Ruby,5
-8681349,huginn/huginn,Ruby,11
-2293158,rapid7/metasploit-framework,Ruby,10
-52281283,mastodon/mastodon,Ruby,6
+8681349,huginn/huginn,Ruby,9
+2293158,rapid7/metasploit-framework,Ruby,12
+52281283,mastodon/mastodon,Ruby,4
 308770,heartcombo/devise,Ruby,1
 538746,ruby/ruby,Ruby,2
-2203645,CocoaPods/CocoaPods,Ruby,4
+2203645,CocoaPods/CocoaPods,Ruby,3
 911765,diaspora/diaspora,Ruby,2
 138312,capistrano/capistrano,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
 11423758,mame/quine-relay,Ruby,3
-88740103,postalserver/postal,Ruby,11
-15435,Shopify/liquid,Ruby,3
+88740103,postalserver/postal,Ruby,7
+15435,Shopify/liquid,Ruby,4
 1333863,kaminari/kaminari,Ruby,0
 4994614,wpscanteam/wpscan,Ruby,3
 3898922,zammad/zammad,Ruby,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 502760,danbooru/danbooru,Ruby,1
 17258847,exercism/ruby,Ruby,0
 122759478,cryptopunksnotdead/punks.starter,Ruby,3
-402422776,rails/esbuild-rails,Ruby,13
+402422776,rails/esbuild-rails,Ruby,11
 400611906,anwarmamat/cmsc330fall21,Ruby,0
