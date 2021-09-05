@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,424
-3482588,danielmiessler/SecLists,PHP,706
+3482588,danielmiessler/SecLists,PHP,703
 7548986,laravel/framework,PHP,228
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,130
 2253830,PHPMailer/PHPMailer,PHP,148
@@ -10,11 +10,11 @@ id,name,lang,new stars
 3431193,yiisoft/yii2,PHP,47
 72069409,the-control-group/voyager,PHP,78
 6660366,dompdf/dompdf,PHP,79
-12166778,googleapis/google-api-php-client,PHP,60
+12166778,googleapis/google-api-php-client,PHP,61
 10238429,tennc/webshell,PHP,138
 21298446,firefly-iii/firefly-iii,PHP,133
 2141186,opencart/opencart,PHP,51
-74386167,vimeo/psalm,PHP,76
+74386167,vimeo/psalm,PHP,75
 60010673,elementor/elementor,PHP,80
 148129143,bagisto/bagisto,PHP,89
 2464908,joomla/joomla-cms,PHP,40
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,66
 73781385,orchidsoftware/platform,PHP,146
 204114509,solstice23/argon-theme,PHP,124
-131995661,shopware/platform,PHP,41
+131995661,shopware/platform,PHP,42
 111099392,chrome-php/chrome,PHP,336

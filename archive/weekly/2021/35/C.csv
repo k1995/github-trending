@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,401
-246335987,ventoy/Ventoy,C,558
-7634677,openssl/openssl,C,52
+2325298,torvalds/linux,C,400
+246335987,ventoy/Ventoy,C,552
+7634677,openssl/openssl,C,53
 3784017,alibaba/tengine,C,24
-95133665,s-matyukevich/raspberry-pi-os,C,113
-63477515,TheAlgorithms/C,C,66
-78281075,SpacehuhnTech/esp8266_deauther,C,33
+95133665,s-matyukevich/raspberry-pi-os,C,115
+63477515,TheAlgorithms/C,C,65
+78281075,SpacehuhnTech/esp8266_deauther,C,32
 3199002,raspberrypi/linux,C,33
 7715820,davatorium/rofi,C,94
 70127218,espressif/arduino-esp32,C,48
@@ -15,12 +15,12 @@ id,name,lang,new stars
 3349840,hak5darren/USB-Rubber-Ducky,C,49
 224151065,Immediate-Mode-UI/Nuklear,C,41
 17183871,esnet/iperf,C,9
-59676171,KevinOConnor/klipper,C,73
-55985023,moby/hyperkit,C,21
-97212490,floooh/sokol,C,46
+59676171,KevinOConnor/klipper,C,72
+55985023,moby/hyperkit,C,22
+97212490,floooh/sokol,C,45
 94246344,MiSTer-devel/Main_MiSTer,C,31
 211756905,MarlinFirmware/Configurations,C,16
 228103273,apache/incubator-nuttx,C,10
 396447471,boku7/CobaltStrikeReflectiveLoader,C,64
-339362034,ProjectManticore/Manticore,C,22
+339362034,ProjectManticore/Manticore,C,21
 395348629,bozbez/win-capture-audio,C,30

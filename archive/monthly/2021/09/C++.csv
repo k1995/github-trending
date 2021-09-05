@@ -1,16 +1,16 @@
 id,name,lang,new stars
 65600975,pytorch/pytorch,C++,810
-23357588,protocolbuffers/protobuf,C++,863
-15634981,godotengine/godot,C++,1143
-22067521,ocornut/imgui,C++,775
-74627617,commaai/openpilot,C++,3095
-11171548,nlohmann/json,C++,899
-1116542,aria2/aria2,C++,706
-67702184,topjohnwu/Magisk,C++,958
+23357588,protocolbuffers/protobuf,C++,864
+15634981,godotengine/godot,C++,1139
+22067521,ocornut/imgui,C++,776
+74627617,commaai/openpilot,C++,3083
+11171548,nlohmann/json,C++,907
+1116542,aria2/aria2,C++,705
+67702184,topjohnwu/Magisk,C++,957
 120887835,huihut/interview,C++,591
-4524181,facebook/folly,C++,714
-160083795,SerenityOS/serenity,C++,1150
-63477612,TheAlgorithms/C-Plus-Plus,C++,1291
+4524181,facebook/folly,C++,715
+160083795,SerenityOS/serenity,C++,1152
+63477612,TheAlgorithms/C-Plus-Plus,C++,1302
 196813750,Light-City/CPlusPlusThings,C++,732
 23129458,aseprite/aseprite,C++,361
 14981376,dogecoin/dogecoin,C++,635
@@ -23,4 +23,4 @@ id,name,lang,new stars
 12682212,MultiMC/MultiMC5,C++,147
 178613040,Neargye/magic_enum,C++,115
 83542585,wisdompeak/LeetCode,C++,127
-271154586,AlexandreRouma/SDRPlusPlus,C++,179
+271154586,AlexandreRouma/SDRPlusPlus,C++,177
