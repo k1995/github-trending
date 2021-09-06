@@ -2,12 +2,12 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,13
 2579314,fzaninotto/Faker,PHP,9
 458058,symfony/symfony,PHP,6
-7548986,laravel/framework,PHP,7
+7548986,laravel/framework,PHP,6
 2253830,PHPMailer/PHPMailer,PHP,5
-2889328,WordPress/WordPress,PHP,5
+2889328,WordPress/WordPress,PHP,4
 11323319,erusev/parsedown,PHP,0
 6660366,dompdf/dompdf,PHP,1
-3217621,phpmyadmin/phpmyadmin,PHP,4
+3217621,phpmyadmin/phpmyadmin,PHP,3
 28257573,flarum/core,PHP,3
 33916850,spatie/laravel-medialibrary,PHP,0
 97311017,rectorphp/rector,PHP,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 59355182,OpenSID/OpenSID,PHP,1
 229847129,azjezz/psl,PHP,2
 40585918,discord-php/DiscordPHP,PHP,1
-397376488,spatie/laravel-support-bubble,PHP,15
+397376488,spatie/laravel-support-bubble,PHP,16
 184538454,yankovalenko94/Webdev2019,PHP,0
 296789588,kefu-chat/src,PHP,1
 400248064,zurichat/zc_plugin_todo,Vue,0
