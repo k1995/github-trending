@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,428
+2325298,torvalds/linux,C,425
 7634677,openssl/openssl,C,63
 95133665,s-matyukevich/raspberry-pi-os,C,135
 63477515,TheAlgorithms/C,C,87
 45821540,openwrt/openwrt,C,151
 40217904,swaywm/sway,C,51
-78281075,SpacehuhnTech/esp8266_deauther,C,47
-3199002,raspberrypi/linux,C,31
-7715820,davatorium/rofi,C,77
+78281075,SpacehuhnTech/esp8266_deauther,C,48
+3199002,raspberrypi/linux,C,30
+7715820,davatorium/rofi,C,73
 70127218,espressif/arduino-esp32,C,32
-437011,openzfs/zfs,C,26
+437011,openzfs/zfs,C,27
 54280778,DaveGamble/cJSON,C,37
 105944401,yugabyte/yugabyte-db,C,36
 53614190,eclipse/mosquitto,C,28
@@ -19,8 +19,8 @@ id,name,lang,new stars
 17183871,esnet/iperf,C,8
 55985023,moby/hyperkit,C,38
 97212490,floooh/sokol,C,35
-131710328,CTCaer/hekate,C,31
-94246344,MiSTer-devel/Main_MiSTer,C,30
+131710328,CTCaer/hekate,C,29
+94246344,MiSTer-devel/Main_MiSTer,C,29
 122993186,remzi-arpacidusseau/ostep-code,C,10
-222187361,dankamongmen/notcurses,C,251
+222187361,dankamongmen/notcurses,C,256
 211756905,MarlinFirmware/Configurations,C,12
