@@ -3,13 +3,13 @@ id,name,lang,new stars
 458058,symfony/symfony,PHP,5
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,2
 2253830,PHPMailer/PHPMailer,PHP,6
-82238168,monicahq/monica,PHP,4
+82238168,monicahq/monica,PHP,3
 26730195,CachetHQ/Cachet,PHP,3
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,6
-23680678,tymondesigns/jwt-auth,PHP,3
-49014795,phpstan/phpstan,PHP,7
-2884111,magento/magento2,PHP,1
-29843361,w7corp/easywechat,PHP,2
+23680678,tymondesigns/jwt-auth,PHP,4
+49014795,phpstan/phpstan,PHP,6
+2884111,magento/magento2,PHP,0
+29843361,w7corp/easywechat,PHP,4
 597887,doctrine/orm,PHP,4
 6660366,dompdf/dompdf,PHP,6
 12166778,googleapis/google-api-php-client,PHP,5
@@ -19,7 +19,7 @@ id,name,lang,new stars
 62087941,nWidart/laravel-modules,PHP,5
 29126334,EasyCorp/EasyAdminBundle,PHP,1
 22751672,tecnickcom/TCPDF,PHP,0
-182349597,jqhph/dcat-admin,PHP,10
+182349597,jqhph/dcat-admin,PHP,8
 18628501,lexik/LexikJWTAuthenticationBundle,PHP,1
 521583,symfony/symfony-docs,PHP,0
 131995661,shopware/platform,PHP,0
