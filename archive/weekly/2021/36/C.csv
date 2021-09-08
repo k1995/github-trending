@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,439
+2325298,torvalds/linux,C,438
 95133665,s-matyukevich/raspberry-pi-os,C,140
 63477515,TheAlgorithms/C,C,94
-45821540,openwrt/openwrt,C,158
+45821540,openwrt/openwrt,C,159
 40217904,swaywm/sway,C,44
-78281075,SpacehuhnTech/esp8266_deauther,C,49
+78281075,SpacehuhnTech/esp8266_deauther,C,48
 179354282,acidanthera/OpenCorePkg,C,57
-7715820,davatorium/rofi,C,67
-70127218,espressif/arduino-esp32,C,32
-437011,openzfs/zfs,C,30
-14902556,offensive-security/exploitdb,C,36
+7715820,davatorium/rofi,C,68
+70127218,espressif/arduino-esp32,C,33
+437011,openzfs/zfs,C,29
+14902556,offensive-security/exploitdb,C,32
 54280778,DaveGamble/cJSON,C,38
 53614190,eclipse/mosquitto,C,28
 59771425,zephyrproject-rtos/zephyr,C,33
@@ -21,6 +21,6 @@ id,name,lang,new stars
 94246344,MiSTer-devel/Main_MiSTer,C,24
 39042157,spdk/spdk,C,8
 122993186,remzi-arpacidusseau/ostep-code,C,9
-222187361,dankamongmen/notcurses,C,338
+222187361,dankamongmen/notcurses,C,360
 149233191,binbyu/Reader,C,52
 121516035,nrfconnect/sdk-nrf,C,4
