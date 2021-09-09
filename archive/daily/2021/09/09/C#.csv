@@ -1,8 +1,8 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,110
+184456251,microsoft/PowerToys,C#,106
 49609581,PowerShell/PowerShell,C#,20
 17620347,dotnet/aspnetcore,C#,10
-14964475,AvaloniaUI/Avalonia,C#,9
+14964475,AvaloniaUI/Avalonia,C#,7
 16157746,dotnet/efcore,C#,7
 12201538,aspnetboilerplate/aspnetboilerplate,C#,2
 28239455,dotnet/AspNetCore.Docs,C#,1
@@ -11,7 +11,7 @@ id,name,lang,new stars
 35291446,itinance/react-native-fs,C#,1
 32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,5
 95366680,lucasg/Dependencies,C#,3
-2928944,Azure/azure-sdk-for-net,C#,2
+2928944,Azure/azure-sdk-for-net,C#,0
 85242321,chkr1011/MQTTnet,C#,7
 187499284,Cysharp/UniTask,C#,6
 184286875,actions/runner,C#,2
@@ -19,8 +19,8 @@ id,name,lang,new stars
 138290022,mob-sakai/ParticleEffectForUGUI,C#,2
 262661480,ALIILAPRO/warp-plus-cloudflare,C#,2
 156260788,Azure/azure-cosmos-dotnet-v3,C#,0
-292864750,n00mkrad/cupscale,C#,16
-193856098,GoogleCloudPlatform/iap-desktop,C#,20
+292864750,n00mkrad/cupscale,C#,15
+193856098,GoogleCloudPlatform/iap-desktop,C#,16
 258225166,openbullet/OpenBullet2,C#,1
 281189664,Azure/azure-functions-dotnet-worker,C#,1
-402921096,X-C3LL/xlsxPoison,C#,17
+402921096,X-C3LL/xlsxPoison,C#,16

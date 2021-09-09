@@ -1,12 +1,12 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,714
-458058,symfony/symfony,PHP,162
+458058,symfony/symfony,PHP,163
 7548986,laravel/framework,PHP,232
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,140
-2253830,PHPMailer/PHPMailer,PHP,150
+2253830,PHPMailer/PHPMailer,PHP,149
 60243197,nextcloud/server,PHP,2190
-2889328,WordPress/WordPress,PHP,129
-1548202,matomo-org/matomo,PHP,139
+2889328,WordPress/WordPress,PHP,128
+1548202,matomo-org/matomo,PHP,140
 3431193,yiisoft/yii2,PHP,50
 72069409,the-control-group/voyager,PHP,80
 6660366,dompdf/dompdf,PHP,83
@@ -18,9 +18,9 @@ id,name,lang,new stars
 60010673,elementor/elementor,PHP,80
 2464908,joomla/joomla-cms,PHP,39
 1957456,Dolibarr/dolibarr,PHP,64
-73781385,orchidsoftware/platform,PHP,147
-204114509,solstice23/argon-theme,PHP,116
-131995661,shopware/platform,PHP,37
+73781385,orchidsoftware/platform,PHP,146
+204114509,solstice23/argon-theme,PHP,115
+131995661,shopware/platform,PHP,36
 111099392,chrome-php/chrome,PHP,348
 182036179,szvone/vmqphp,PHP,58
 380196780,maccmspro/maccms10,PHP,105
