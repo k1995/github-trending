@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,7
-27442967,fastlane/fastlane,Ruby,10
-53238813,Homebrew/brew,Ruby,22
+27442967,fastlane/fastlane,Ruby,9
+53238813,Homebrew/brew,Ruby,20
 2500088,gitlabhq/gitlabhq,Ruby,1
-481872,hashicorp/vagrant,Ruby,10
-308770,heartcombo/devise,Ruby,2
+481872,hashicorp/vagrant,Ruby,9
+308770,heartcombo/devise,Ruby,1
 538746,ruby/ruby,Ruby,6
 4095287,rubocop/rubocop,Ruby,5
-3195124,mperham/sidekiq,Ruby,5
-1918677,fluent/fluentd,Ruby,5
+3195124,mperham/sidekiq,Ruby,4
+1918677,fluent/fluentd,Ruby,6
 812393,ruby-grape/grape,Ruby,1
-451035,heartcombo/simple_form,Ruby,1
+451035,heartcombo/simple_form,Ruby,0
 21829,thoughtbot/factory_bot,Ruby,1
 2441517,puma/puma,Ruby,2
 108278,chef/chef,Ruby,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 4523235,asciidoctor/asciidoctor,Ruby,0
 1172597,thoughtbot/shoulda-matchers,Ruby,0
 1953385,stripe/stripe-ruby,Ruby,0
-161399160,Shopify/shopify-cli,Ruby,3
-404019967,rails/cssbundling-rails,Ruby,19
+161399160,Shopify/shopify-cli,Ruby,2
+404019967,rails/cssbundling-rails,Ruby,17
