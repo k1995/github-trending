@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,126
+3482588,danielmiessler/SecLists,PHP,125
 2579314,fzaninotto/Faker,PHP,31
 458058,symfony/symfony,PHP,36
 7548986,laravel/framework,PHP,68
@@ -11,16 +11,16 @@ id,name,lang,new stars
 29843361,w7corp/easywechat,PHP,14
 2699935,squizlabs/PHP_CodeSniffer,PHP,15
 677464,doctrine/dbal,PHP,20
-12166778,googleapis/google-api-php-client,PHP,14
+12166778,googleapis/google-api-php-client,PHP,16
 6763587,PrestaShop/PrestaShop,PHP,12
-6269013,aws/aws-sdk-php,PHP,8
-4565995,phpseclib/phpseclib,PHP,14
+6269013,aws/aws-sdk-php,PHP,5
+4565995,phpseclib/phpseclib,PHP,15
 97311017,rectorphp/rector,PHP,25
 74386167,vimeo/psalm,PHP,14
-76064827,mailcow/mailcow-dockerized,PHP,31
-62087941,nWidart/laravel-modules,PHP,20
-351298555,thedevdojo/wave,PHP,33
+76064827,mailcow/mailcow-dockerized,PHP,30
+62087941,nWidart/laravel-modules,PHP,19
+351298555,thedevdojo/wave,PHP,35
 69691727,pmmp/PocketMine-MP,PHP,12
 139179084,area17/twill,PHP,8
-17253775,zabbix/zabbix,PHP,19
+17253775,zabbix/zabbix,PHP,18
 132122241,apisearch-io/search-server,PHP,109
