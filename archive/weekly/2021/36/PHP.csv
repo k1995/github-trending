@@ -1,19 +1,19 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,136
+3482588,danielmiessler/SecLists,PHP,138
 2579314,fzaninotto/Faker,PHP,30
-458058,symfony/symfony,PHP,33
-7548986,laravel/framework,PHP,68
+458058,symfony/symfony,PHP,34
+7548986,laravel/framework,PHP,66
 3431193,yiisoft/yii2,PHP,12
-82238168,monicahq/monica,PHP,36
+82238168,monicahq/monica,PHP,35
 12615154,barryvdh/laravel-debugbar,PHP,35
-48796179,z-song/laravel-admin,PHP,18
+48796179,z-song/laravel-admin,PHP,16
 29843361,w7corp/easywechat,PHP,15
 677464,doctrine/dbal,PHP,21
-6660366,dompdf/dompdf,PHP,20
-41589337,BookStackApp/BookStack,PHP,31
+6660366,dompdf/dompdf,PHP,18
+41589337,BookStackApp/BookStack,PHP,30
 6763587,PrestaShop/PrestaShop,PHP,12
-74386167,vimeo/psalm,PHP,16
-95011974,akaunting/akaunting,PHP,19
+74386167,vimeo/psalm,PHP,15
+95011974,akaunting/akaunting,PHP,18
 76064827,mailcow/mailcow-dockerized,PHP,31
 62087941,nWidart/laravel-modules,PHP,18
 29126334,EasyCorp/EasyAdminBundle,PHP,12
@@ -21,6 +21,6 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,12
 139179084,area17/twill,PHP,9
 18628501,lexik/LexikJWTAuthenticationBundle,PHP,7
-17253775,zabbix/zabbix,PHP,18
-132122241,apisearch-io/search-server,PHP,109
+17253775,zabbix/zabbix,PHP,19
+132122241,apisearch-io/search-server,PHP,108
 380196780,maccmspro/maccms10,PHP,20
