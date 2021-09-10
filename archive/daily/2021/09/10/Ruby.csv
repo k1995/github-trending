@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
+8514,rails/rails,Ruby,6
 27442967,fastlane/fastlane,Ruby,8
 53238813,Homebrew/brew,Ruby,20
 2500088,gitlabhq/gitlabhq,Ruby,1
-481872,hashicorp/vagrant,Ruby,8
-308770,heartcombo/devise,Ruby,2
+481872,hashicorp/vagrant,Ruby,6
+308770,heartcombo/devise,Ruby,3
 538746,ruby/ruby,Ruby,5
 4095287,rubocop/rubocop,Ruby,3
 3195124,mperham/sidekiq,Ruby,3
-1918677,fluent/fluentd,Ruby,6
+1918677,fluent/fluentd,Ruby,5
 812393,ruby-grape/grape,Ruby,0
 451035,heartcombo/simple_form,Ruby,0
 21829,thoughtbot/factory_bot,Ruby,1
@@ -19,8 +19,8 @@ id,name,lang,new stars
 16994115,CanCanCommunity/cancancan,Ruby,1
 18294,activemerchant/active_merchant,Ruby,0
 52316423,luggit/react-native-config,Ruby,4
-4523235,asciidoctor/asciidoctor,Ruby,0
+4523235,asciidoctor/asciidoctor,Ruby,1
 1172597,thoughtbot/shoulda-matchers,Ruby,0
 1953385,stripe/stripe-ruby,Ruby,0
 161399160,Shopify/shopify-cli,Ruby,1
-404019967,rails/cssbundling-rails,Ruby,16
+404019967,rails/cssbundling-rails,Ruby,15
