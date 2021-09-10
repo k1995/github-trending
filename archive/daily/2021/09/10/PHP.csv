@@ -3,7 +3,7 @@ id,name,lang,new stars
 7548986,laravel/framework,PHP,13
 1420053,guzzle/guzzle,PHP,3
 5724990,briannesbitt/Carbon,PHP,1
-13899674,thephpleague/flysystem,PHP,1
+13899674,thephpleague/flysystem,PHP,0
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,7
 14259390,Maatwebsite/Laravel-Excel,PHP,2
 49014795,phpstan/phpstan,PHP,8
@@ -16,7 +16,7 @@ id,name,lang,new stars
 4551765,thephpleague/oauth2-server,PHP,3
 10883164,barryvdh/laravel-dompdf,PHP,2
 439861,moodle/moodle,PHP,0
-41463886,codeigniter4/CodeIgniter4,PHP,2
+41463886,codeigniter4/CodeIgniter4,PHP,3
 18842338,facebookarchive/php-graph-sdk,PHP,0
 80249302,craftcms/cms,PHP,2
 69691727,pmmp/PocketMine-MP,PHP,1
