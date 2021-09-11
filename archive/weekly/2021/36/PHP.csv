@@ -1,9 +1,9 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,126
-2579314,fzaninotto/Faker,PHP,30
+3482588,danielmiessler/SecLists,PHP,124
+2579314,fzaninotto/Faker,PHP,29
 458058,symfony/symfony,PHP,37
-7548986,laravel/framework,PHP,69
-448045,sebastianbergmann/phpunit,PHP,22
+7548986,laravel/framework,PHP,68
+448045,sebastianbergmann/phpunit,PHP,21
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,28
 49014795,phpstan/phpstan,PHP,33
 48796179,z-song/laravel-admin,PHP,16
@@ -12,15 +12,15 @@ id,name,lang,new stars
 2699935,squizlabs/PHP_CodeSniffer,PHP,17
 677464,doctrine/dbal,PHP,20
 12166778,googleapis/google-api-php-client,PHP,17
-6763587,PrestaShop/PrestaShop,PHP,13
+6763587,PrestaShop/PrestaShop,PHP,12
 6269013,aws/aws-sdk-php,PHP,6
 4565995,phpseclib/phpseclib,PHP,14
-97311017,rectorphp/rector,PHP,26
+97311017,rectorphp/rector,PHP,25
 74386167,vimeo/psalm,PHP,12
-76064827,mailcow/mailcow-dockerized,PHP,28
+76064827,mailcow/mailcow-dockerized,PHP,27
 62087941,nWidart/laravel-modules,PHP,20
-351298555,thedevdojo/wave,PHP,35
+351298555,thedevdojo/wave,PHP,36
 69691727,pmmp/PocketMine-MP,PHP,12
 139179084,area17/twill,PHP,8
-17253775,zabbix/zabbix,PHP,17
+17253775,zabbix/zabbix,PHP,18
 132122241,apisearch-io/search-server,PHP,109

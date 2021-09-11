@@ -1,7 +1,7 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,202
-5108051,opencv/opencv,C++,152
-22067521,ocornut/imgui,C++,171
+5108051,opencv/opencv,C++,151
+22067521,ocornut/imgui,C++,172
 27729880,grpc/grpc,C++,89
 39840932,google/googletest,C++,80
 108110,mongodb/mongo,C++,40
@@ -11,16 +11,16 @@ id,name,lang,new stars
 1062572,catchorg/Catch2,C++,34
 40892817,ethereum/solidity,C++,101
 104231541,abseil/abseil-cpp,C++,152
-78483432,TranslucentTB/TranslucentTB,C++,69
-243487250,DayBreak-u/chineseocr_lite,C++,381
-24494032,mysql/mysql-server,C++,32
-186847792,GTAmodding/re3,C++,769
-283410102,sogou/workflow,C++,91
+78483432,TranslucentTB/TranslucentTB,C++,67
+243487250,DayBreak-u/chineseocr_lite,C++,382
+24494032,mysql/mysql-server,C++,34
+186847792,GTAmodding/re3,C++,766
+283410102,sogou/workflow,C++,90
 52882701,prusa3d/PrusaSlicer,C++,25
-189205663,qinguoyi/TinyWebServer,C++,57
+189205663,qinguoyi/TinyWebServer,C++,56
 223904726,wang-xinyu/tensorrtx,C++,55
 178613040,Neargye/magic_enum,C++,28
-329265231,kdrag0n/safetynet-fix,C++,74
-80674179,dblalock/bolt,C++,443
-384850873,geemion/Khepri,C++,768
-223490876,facebook/CacheLib,C++,127
+329265231,kdrag0n/safetynet-fix,C++,72
+80674179,dblalock/bolt,C++,423
+384850873,geemion/Khepri,C++,792
+223490876,facebook/CacheLib,C++,122
