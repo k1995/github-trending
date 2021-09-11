@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,227
+31792824,flutter/flutter,Dart,229
 62607227,yangshun/tech-interview-handbook,JavaScript,132
 74791366,ryanmcdermott/clean-code-javascript,JavaScript,179
 155220641,huggingface/transformers,Python,38
 23357588,protocolbuffers/protobuf,C++,51
 7508411,ReactiveX/RxJava,Java,8
-152870372,ruanyf/weekly,,10
+152870372,ruanyf/weekly,,31
 250213286,huggingface/datasets,Python,31
-104231541,abseil/abseil-cpp,C++,15
-75990888,dotnet/csharplang,C#,33
+104231541,abseil/abseil-cpp,C++,19
+75990888,dotnet/csharplang,C#,41
 287463830,microsoft/qlib,Python,8
-99919302,apache/incubator-doris,Java,90
-195766483,ffffffff0x/Digital-Privacy,,39
-51040886,Azure/azure-cli,Python,104
-384451028,cloudwego/kitex,Go,155
+99919302,apache/incubator-doris,Java,74
+195766483,ffffffff0x/Digital-Privacy,,84
+51040886,Azure/azure-cli,Python,101
+384451028,cloudwego/kitex,Go,153
 66954973,OWASP/Top10,HTML,156
 383471193,spotify/pedalboard,C++,511
 342158146,cloudwego/netpoll,Go,99
 327719215,DataDog/go-profiler-notes,Jupyter Notebook,104
-399552006,rammcodes/Dopefolio,HTML,283
+399552006,rammcodes/Dopefolio,HTML,217
 394411793,ChoiceCoin/ChoiceCoin.github.io,HTML,55
 390935630,HashLips/generative-art-node,JavaScript,32
-385245208,MoH-Malaysia/covid19-public,,42
+385245208,MoH-Malaysia/covid19-public,,40
 402495001,diegolnasc/kubernetes-best-practices,,167
-404408350,Jack-Cherish/quantitative,Python,5
+404408350,Jack-Cherish/quantitative,Python,10
