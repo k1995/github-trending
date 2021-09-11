@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,241
-63476337,TheAlgorithms/Python,Python,271
-74791366,ryanmcdermott/clean-code-javascript,JavaScript,179
-612230,nvm-sh/nvm,Shell,97
-23357588,protocolbuffers/protobuf,C++,51
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,454
-262296122,PaddlePaddle/PaddleOCR,Python,183
-270171567,freefq/free,,113
-165164444,alex000kim/nsfw_data_scraper,Shell,86
-99919302,apache/incubator-doris,Java,85
-51040886,Azure/azure-cli,Python,97
-384451028,cloudwego/kitex,Go,211
-66954973,OWASP/Top10,HTML,156
-383471193,spotify/pedalboard,C++,511
-286875790,spikecodes/libreddit,Rust,248
-342158146,cloudwego/netpoll,Go,99
-384850873,geemion/Khepri,C++,270
-399552006,rammcodes/Dopefolio,HTML,384
-385245208,MoH-Malaysia/covid19-public,,42
-390833165,ABZ-Aaron/CheatSheets,,137
-284134871,flipperdevices/flipperzero-firmware,C,120
-376842961,polarismesh/polaris,Go,136
-394089041,spiceai/spiceai,Go,156
-403688820,exiled-apes/candy-machine-mint,TypeScript,80
-398794547,AshishJangra27/Skill-India-AI-ML-Scholarship,Jupyter Notebook,51
+31792824,flutter/flutter,Dart,231
+62607227,yangshun/tech-interview-handbook,JavaScript,134
+74791366,ryanmcdermott/clean-code-javascript,JavaScript,207
+155220641,huggingface/transformers,Python,38
+23357588,protocolbuffers/protobuf,C++,69
+7508411,ReactiveX/RxJava,Java,8
+152870372,ruanyf/weekly,,10
+250213286,huggingface/datasets,Python,27
+104231541,abseil/abseil-cpp,C++,23
+75990888,dotnet/csharplang,C#,9
+287463830,microsoft/qlib,Python,9
+99919302,apache/incubator-doris,Java,77
+195766483,ffffffff0x/Digital-Privacy,,36
+51040886,Azure/azure-cli,Python,57
+384451028,cloudwego/kitex,Go,170
+66954973,OWASP/Top10,HTML,168
+383471193,spotify/pedalboard,C++,431
+342158146,cloudwego/netpoll,Go,197
+327719215,DataDog/go-profiler-notes,Jupyter Notebook,104
+399552006,rammcodes/Dopefolio,HTML,388
+394411793,ChoiceCoin/ChoiceCoin.github.io,HTML,55
+390935630,HashLips/generative-art-node,JavaScript,33
+385245208,MoH-Malaysia/covid19-public,,50
+402495001,diegolnasc/kubernetes-best-practices,,167
+404408350,Jack-Cherish/quantitative,Python,5
