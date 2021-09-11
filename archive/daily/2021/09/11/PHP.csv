@@ -1,10 +1,10 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,5
-7548986,laravel/framework,PHP,13
+7548986,laravel/framework,PHP,14
 1376664,Seldaek/monolog,PHP,2
 448045,sebastianbergmann/phpunit,PHP,2
-10157178,egulias/EmailValidator,PHP,1
-49014795,phpstan/phpstan,PHP,3
+10157178,egulias/EmailValidator,PHP,2
+49014795,phpstan/phpstan,PHP,4
 2884111,magento/magento2,PHP,0
 79111500,jupeter/clean-code-php,PHP,7
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
@@ -16,11 +16,11 @@ id,name,lang,new stars
 5508585,YOURLS/YOURLS,PHP,2
 330275,twigphp/Twig,PHP,2
 31295421,guzzle/psr7,PHP,0
-6763587,PrestaShop/PrestaShop,PHP,2
+6763587,PrestaShop/PrestaShop,PHP,1
 4551765,thephpleague/oauth2-server,PHP,0
 14346979,snipe/snipe-it,PHP,4
 33916850,spatie/laravel-medialibrary,PHP,2
-4565995,phpseclib/phpseclib,PHP,3
-1957456,Dolibarr/dolibarr,PHP,4
+4565995,phpseclib/phpseclib,PHP,4
+1957456,Dolibarr/dolibarr,PHP,5
 13914116,librenms/librenms,PHP,0
 2686502,pimcore/pimcore,PHP,0

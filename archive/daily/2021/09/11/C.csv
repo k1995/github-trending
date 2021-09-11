@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,53
-10744183,netdata/netdata,C,13
+2325298,torvalds/linux,C,50
+10744183,netdata/netdata,C,14
 156018,redis/redis,C,13
-569041,curl/curl,C,11
-5101141,stedolan/jq,C,11
-7634677,openssl/openssl,C,14
-196353673,taosdata/TDengine,C,6
-29759715,facebook/zstd,C,3
-613829,openresty/lua-nginx-module,C,4
+569041,curl/curl,C,10
+5101141,stedolan/jq,C,10
+7634677,openssl/openssl,C,13
+196353673,taosdata/TDengine,C,4
+29759715,facebook/zstd,C,4
+613829,openresty/lua-nginx-module,C,5
 1856976,libevent/libevent,C,3
 13310527,jemalloc/jemalloc,C,5
-7408108,RT-Thread/rt-thread,C,5
+7408108,RT-Thread/rt-thread,C,4
 105944401,yugabyte/yugabyte-db,C,2
 5870069,edenhill/librdkafka,C,5
 44781140,greenplum-db/gpdb,C,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 2359378,madler/zlib,C,2
 293316071,bellard/quickjs,C,3
 146155284,SanderMertens/flecs,C,3
-222187361,dankamongmen/notcurses,C,13
-284134871,flipperdevices/flipperzero-firmware,C,98
-105038453,v1cont/yad,C,12
+222187361,dankamongmen/notcurses,C,12
+284134871,flipperdevices/flipperzero-firmware,C,105
+105038453,v1cont/yad,C,10
 116033455,eclipse-cyclonedds/cyclonedds,C,0
