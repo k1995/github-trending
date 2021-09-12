@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,37
+42408804,traefik/traefik,Go,10
+17803236,rclone/rclone,Go,15
+12574344,spf13/cobra,Go,10
+163883279,nektos/act,Go,33
+165041732,go-kratos/kratos,Go,3
+27729907,grpc/grpc-go,Go,3
+72891330,kubernetes/ingress-nginx,Go,8
+16554739,elastic/beats,Go,2
+21405028,ardanlabs/gotraining,Go,7
+205679232,flipped-aurora/gin-vue-admin,Go,16
+36653430,hashicorp/nomad,Go,4
+180687624,aquasecurity/trivy,Go,7
+119190187,zricethezav/gitleaks,Go,52
+92313258,jetstack/cert-manager,Go,1
+135321861,ory/kratos,Go,3
+19608522,googleapis/google-cloud-go,Go,1
+384451028,cloudwego/kitex,Go,153
+154894457,open-policy-agent/gatekeeper,Go,2
+166304026,BishopFox/sliver,Go,3
+193681111,filecoin-project/lotus,Go,1
+342158146,cloudwego/netpoll,Go,177
+136494223,kubernetes-sigs/controller-runtime,Go,0
+394089041,spiceai/spiceai,Go,72
+403521741,xiecat/goblin,Go,25
