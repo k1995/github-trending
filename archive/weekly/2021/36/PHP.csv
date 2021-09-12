@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,104
-3482588,danielmiessler/SecLists,PHP,120
-2579314,fzaninotto/Faker,PHP,25
-458058,symfony/symfony,PHP,34
-7548986,laravel/framework,PHP,69
+1863329,laravel/laravel,PHP,102
+3482588,danielmiessler/SecLists,PHP,119
+2579314,fzaninotto/Faker,PHP,23
+458058,symfony/symfony,PHP,36
+7548986,laravel/framework,PHP,71
 448045,sebastianbergmann/phpunit,PHP,20
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,27
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,28
 49014795,phpstan/phpstan,PHP,31
 48796179,z-song/laravel-admin,PHP,18
 2884111,magento/magento2,PHP,6
@@ -17,10 +17,10 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,17
 6763587,PrestaShop/PrestaShop,PHP,12
 62087941,nWidart/laravel-modules,PHP,20
-351298555,thedevdojo/wave,PHP,39
+351298555,thedevdojo/wave,PHP,40
 139191005,nunomaduro/larastan,PHP,22
 69691727,pmmp/PocketMine-MP,PHP,14
 17253775,zabbix/zabbix,PHP,20
-330980599,yanfeizhang/coder-kung-fu,PHP,47
+330980599,yanfeizhang/coder-kung-fu,PHP,44
 132122241,apisearch-io/search-server,PHP,111
-397376488,spatie/laravel-support-bubble,PHP,56
+397376488,spatie/laravel-support-bubble,PHP,55
