@@ -1,7 +1,7 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,119
-2579314,fzaninotto/Faker,PHP,18
-458058,symfony/symfony,PHP,36
+3482588,danielmiessler/SecLists,PHP,121
+2579314,fzaninotto/Faker,PHP,17
+458058,symfony/symfony,PHP,37
 7548986,laravel/framework,PHP,68
 448045,sebastianbergmann/phpunit,PHP,20
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,27
@@ -9,10 +9,10 @@ id,name,lang,new stars
 48796179,z-song/laravel-admin,PHP,15
 2884111,magento/magento2,PHP,7
 29843361,w7corp/easywechat,PHP,14
-2699935,squizlabs/PHP_CodeSniffer,PHP,17
-597887,doctrine/orm,PHP,23
+2699935,squizlabs/PHP_CodeSniffer,PHP,16
+597887,doctrine/orm,PHP,22
 11340559,deployphp/deployer,PHP,18
-677464,doctrine/dbal,PHP,17
+677464,doctrine/dbal,PHP,18
 12166778,googleapis/google-api-php-client,PHP,17
 2179920,woocommerce/woocommerce,PHP,16
 3817881,zircote/swagger-php,PHP,13
