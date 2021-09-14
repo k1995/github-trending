@@ -1,26 +1,26 @@
 id,name,lang,new stars
+31792824,flutter/flutter,Dart,1110
 63476337,TheAlgorithms/Python,Python,1542
-112507086,30-seconds/30-seconds-of-code,JavaScript,1145
+112507086,30-seconds/30-seconds-of-code,JavaScript,1104
 612230,nvm-sh/nvm,Shell,305
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,2885
-97086543,TheAlgorithms/Javascript,JavaScript,470
-149430917,microsoft/recommenders,Python,188
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,2991
+214587193,supabase/supabase,TypeScript,784
+262296122,PaddlePaddle/PaddleOCR,Python,1110
+106024057,pyg-team/pytorch_geometric,Python,135
+149430917,microsoft/recommenders,Python,185
 250213286,huggingface/datasets,Python,878
-104231541,abseil/abseil-cpp,C++,239
-120710644,Vonng/ddia,Python,295
-159981830,khanhas/spicetify-cli,JavaScript,381
-396193750,VickScarlet/lifeRestart,JavaScript,1921
-186847792,GTAmodding/re3,C++,207
-145050544,LunarVim/LunarVim,Lua,180
-367284699,lima-vm/lima,Go,341
-121470383,solana-labs/solana,Rust,306
+104231541,abseil/abseil-cpp,C++,240
+120710644,Vonng/ddia,Python,297
+159981830,khanhas/spicetify-cli,JavaScript,368
+396193750,VickScarlet/lifeRestart,JavaScript,1832
+367284699,lima-vm/lima,Go,331
+121470383,solana-labs/solana,Rust,286
 99919302,apache/incubator-doris,Java,266
-384451028,cloudwego/kitex,Go,1086
-387326890,xinntao/Real-ESRGAN,Python,964
-373186245,metaplex-foundation/metaplex,Rust,153
+394120836,0voice/Introduction-to-Golang,,807
+51040886,Azure/azure-cli,Python,197
+384451028,cloudwego/kitex,Go,1088
+387326890,xinntao/Real-ESRGAN,Python,929
 390935630,HashLips/generative-art-node,JavaScript,378
-399623520,HashLips/generative-art-opensource,JavaScript,286
-267940560,solana-labs/solana-program-library,Rust,88
-339436799,solana-labs/dapp-scaffold,TypeScript,92
-402298746,lootproject/website,TypeScript,51
-310632133,solana-labs/token-list,TypeScript,22
+374626738,bespoyasov/frontend-clean-architecture,TypeScript,426
+399623520,HashLips/generative-art-opensource,JavaScript,279
+402298746,lootproject/website,TypeScript,45
