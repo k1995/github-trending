@@ -1,19 +1,19 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,119
+3482588,danielmiessler/SecLists,PHP,120
 2579314,fzaninotto/Faker,PHP,18
 458058,symfony/symfony,PHP,46
-7548986,laravel/framework,PHP,52
-1420053,guzzle/guzzle,PHP,26
+7548986,laravel/framework,PHP,54
+1420053,guzzle/guzzle,PHP,25
 448045,sebastianbergmann/phpunit,PHP,19
-49014795,phpstan/phpstan,PHP,33
-42480275,spatie/laravel-permission,PHP,24
-2884111,magento/magento2,PHP,10
-597887,doctrine/orm,PHP,17
-11340559,deployphp/deployer,PHP,13
-2179920,woocommerce/woocommerce,PHP,18
+49014795,phpstan/phpstan,PHP,32
+42480275,spatie/laravel-permission,PHP,23
+2884111,magento/magento2,PHP,12
+597887,doctrine/orm,PHP,16
+11340559,deployphp/deployer,PHP,12
+2179920,woocommerce/woocommerce,PHP,19
 364315,predis/predis,PHP,10
 6269013,aws/aws-sdk-php,PHP,9
-97311017,rectorphp/rector,PHP,34
+97311017,rectorphp/rector,PHP,35
 3817881,zircote/swagger-php,PHP,13
 41463886,codeigniter4/CodeIgniter4,PHP,19
 1740040,pfsense/pfsense,PHP,27
@@ -22,5 +22,5 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,11
 13914116,librenms/librenms,PHP,9
 139179084,area17/twill,PHP,8
-75645659,WordPress/wordpress-develop,PHP,9
-399209910,lepikhinb/laravel-fluent,PHP,79
+75645659,WordPress/wordpress-develop,PHP,8
+399209910,lepikhinb/laravel-fluent,PHP,80
