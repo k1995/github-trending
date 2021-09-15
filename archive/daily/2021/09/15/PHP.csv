@@ -9,10 +9,10 @@ id,name,lang,new stars
 8678290,barryvdh/laravel-ide-helper,PHP,1
 49014795,phpstan/phpstan,PHP,8
 48796179,z-song/laravel-admin,PHP,3
-42480275,spatie/laravel-permission,PHP,5
+42480275,spatie/laravel-permission,PHP,4
 2884111,magento/magento2,PHP,3
 622166,FriendsOfPHP/Goutte,PHP,0
-6660366,dompdf/dompdf,PHP,3
+6660366,dompdf/dompdf,PHP,2
 330275,twigphp/Twig,PHP,2
 4242230,PHPOffice/PHPWord,PHP,2
 10883164,barryvdh/laravel-dompdf,PHP,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 351298555,thedevdojo/wave,PHP,12
 3193843,drush-ops/drush,PHP,0
 129852395,assimon/dujiaoka,PHP,8
-402430332,f9webltd/laravel-api-response-helpers,PHP,66
-404640106,themsaid/ergodnc,PHP,21
+402430332,f9webltd/laravel-api-response-helpers,PHP,64
+404640106,themsaid/ergodnc,PHP,20
 404921727,luolongfei/next-freenom,PHP,3
