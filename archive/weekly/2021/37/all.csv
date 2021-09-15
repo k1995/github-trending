@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,1121
-63476337,TheAlgorithms/Python,Python,1220
-112507086,30-seconds/30-seconds-of-code,JavaScript,873
-612230,nvm-sh/nvm,Shell,294
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3538
+31792824,flutter/flutter,Dart,1124
+112507086,30-seconds/30-seconds-of-code,JavaScript,721
+62607227,yangshun/tech-interview-handbook,JavaScript,1180
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3614
 214587193,supabase/supabase,TypeScript,780
 262296122,PaddlePaddle/PaddleOCR,Python,1060
-106024057,pyg-team/pytorch_geometric,Python,307
-149430917,microsoft/recommenders,Python,174
-250213286,huggingface/datasets,Python,897
-104231541,abseil/abseil-cpp,C++,240
+106024057,pyg-team/pytorch_geometric,Python,368
+104231541,abseil/abseil-cpp,C++,238
 120710644,Vonng/ddia,Python,244
-159981830,khanhas/spicetify-cli,JavaScript,168
-396193750,VickScarlet/lifeRestart,JavaScript,1750
-367284699,lima-vm/lima,Go,305
-121470383,solana-labs/solana,Rust,292
-99919302,apache/incubator-doris,Java,264
-394120836,0voice/Introduction-to-Golang,,651
+187403699,FiloSottile/age,Go,663
+396193750,VickScarlet/lifeRestart,JavaScript,1531
+287463830,microsoft/qlib,Python,703
+185476675,mgdm/htmlq,Rust,1649
+367284699,lima-vm/lima,Go,280
+121470383,solana-labs/solana,Rust,322
+99919302,apache/incubator-doris,Java,265
 51040886,Azure/azure-cli,Python,198
-384451028,cloudwego/kitex,Go,1015
-387326890,xinntao/Real-ESRGAN,Python,868
+384451028,cloudwego/kitex,Go,986
+387326890,xinntao/Real-ESRGAN,Python,814
+402772452,ErickWendel/semana-javascript-expert05,JavaScript,709
 390935630,HashLips/generative-art-node,JavaScript,399
-374626738,bespoyasov/frontend-clean-architecture,TypeScript,232
-399623520,HashLips/generative-art-opensource,JavaScript,193
-402298746,lootproject/website,TypeScript,41
+385245208,MoH-Malaysia/covid19-public,,181
+399623520,HashLips/generative-art-opensource,JavaScript,184
+403252103,andrecronje/rarity,Solidity,241
+310632133,solana-labs/token-list,TypeScript,17
