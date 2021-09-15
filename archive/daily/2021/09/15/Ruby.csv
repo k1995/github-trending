@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,6
-2293158,rapid7/metasploit-framework,Ruby,19
-52281283,mastodon/mastodon,Ruby,7
-481872,hashicorp/vagrant,Ruby,6
-73648678,forem/forem,Ruby,10
-2203645,CocoaPods/CocoaPods,Ruby,3
+8514,rails/rails,Ruby,5
+2293158,rapid7/metasploit-framework,Ruby,16
+52281283,mastodon/mastodon,Ruby,9
+481872,hashicorp/vagrant,Ruby,8
+73648678,forem/forem,Ruby,8
+2203645,CocoaPods/CocoaPods,Ruby,2
 1090311,elastic/logstash,Ruby,1
 4095287,rubocop/rubocop,Ruby,3
 3314,spree/spree,Ruby,1
@@ -12,15 +12,15 @@ id,name,lang,new stars
 18486300,lewagon/setup,Ruby,3
 812393,ruby-grape/grape,Ruby,2
 108278,chef/chef,Ruby,1
-6899875,opf/openproject,Ruby,4
+6899875,opf/openproject,Ruby,5
 2889230,rails-api/active_model_serializers,Ruby,1
 137805,redis/redis-rb,Ruby,0
 2050163,aws/aws-sdk-ruby,Ruby,0
-1175581,citation-style-language/styles,Ruby,1
-200302808,github/view_component,Ruby,1
+1175581,citation-style-language/styles,Ruby,0
+200302808,github/view_component,Ruby,2
 9831101,elastic/elasticsearch-ruby,Ruby,0
 29151578,rswag/rswag,Ruby,0
 644899,onelogin/ruby-saml,Ruby,0
-209731662,ruby/debug,Ruby,16
+209731662,ruby/debug,Ruby,14
 223915944,lewagon/rails-garden-manager,Ruby,0
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0
