@@ -2,13 +2,13 @@ id,name,lang,new stars
 31792824,flutter/flutter,Dart,1053
 62607227,yangshun/tech-interview-handbook,JavaScript,1263
 7508411,ReactiveX/RxJava,Java,153
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3915
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3914
 214587193,supabase/supabase,TypeScript,781
 262296122,PaddlePaddle/PaddleOCR,Python,699
 19205896,restic/restic,Go,96
 106024057,pyg-team/pytorch_geometric,Python,500
 104231541,abseil/abseil-cpp,C++,207
-287463830,microsoft/qlib,Python,818
+287463830,microsoft/qlib,Python,819
 128479644,esphome/esphome,C++,358
 121470383,solana-labs/solana,Rust,298
 334274271,opensearch-project/OpenSearch,Java,64
@@ -16,7 +16,7 @@ id,name,lang,new stars
 99919302,apache/incubator-doris,Java,213
 51040886,Azure/azure-cli,Python,194
 384451028,cloudwego/kitex,Go,744
-387326890,xinntao/Real-ESRGAN,Python,674
+387326890,xinntao/Real-ESRGAN,Python,634
 342158146,cloudwego/netpoll,Go,640
 402772452,ErickWendel/semana-javascript-expert05,JavaScript,411
 390935630,HashLips/generative-art-node,JavaScript,398
