@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,205
+2325298,torvalds/linux,C,159
 62156403,QSCTech/zju-icicles,C,14
 569041,curl/curl,C,13
 1357796,emscripten-core/emscripten,C,5
@@ -8,7 +8,7 @@ id,name,lang,new stars
 84240850,timescale/timescaledb,C,14
 184981,memcached/memcached,C,3
 5254557,cloudwu/skynet,C,4
-63477515,TheAlgorithms/C,C,21
+63477515,TheAlgorithms/C,C,20
 32873313,systemd/systemd,C,8
 1856976,libevent/libevent,C,5
 70127218,espressif/arduino-esp32,C,4
@@ -19,8 +19,8 @@ id,name,lang,new stars
 40556106,wazuh/wazuh,C,8
 83160811,littlefs-project/littlefs,C,1
 76599439,FRRouting/frr,C,3
-117704656,remzi-arpacidusseau/ostep-projects,C,4
+117704656,remzi-arpacidusseau/ostep-projects,C,3
 43013346,aws/aws-iot-device-sdk-embedded-C,C,0
 320717050,lockedbyte/CVE-Exploits,C,1
 70934373,Azure/azure-iot-sdk-c,C,0
-405896996,outflanknl/PrintNightmare,C,18
+405896996,outflanknl/PrintNightmare,C,37
