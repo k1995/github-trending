@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,55
+8514,rails/rails,Ruby,54
 8681349,huginn/huginn,Ruby,72
 2293158,rapid7/metasploit-framework,Ruby,60
-52281283,mastodon/mastodon,Ruby,59
+52281283,mastodon/mastodon,Ruby,60
 308770,heartcombo/devise,Ruby,19
 538746,ruby/ruby,Ruby,39
 73648678,forem/forem,Ruby,48
 2203645,CocoaPods/CocoaPods,Ruby,16
 3314,spree/spree,Ruby,19
-3195124,mperham/sidekiq,Ruby,14
-18486300,lewagon/setup,Ruby,74
+3195124,mperham/sidekiq,Ruby,15
+18486300,lewagon/setup,Ruby,73
 108278,chef/chef,Ruby,9
 211588,paper-trail-gem/paper_trail,Ruby,8
-16994115,CanCanCommunity/cancancan,Ruby,10
+16994115,CanCanCommunity/cancancan,Ruby,11
 30337170,rmosolgo/graphql-ruby,Ruby,9
 839336,simplecov-ruby/simplecov,Ruby,3
 30985840,solidusio/solidus,Ruby,6
@@ -20,7 +20,7 @@ id,name,lang,new stars
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,3
 229187949,shivammathur/homebrew-php,Ruby,15
 43709699,microsoft/OMS-Agent-for-Linux,Ruby,4
-403641521,rails/jsbundling-rails,Ruby,54
+403641521,rails/jsbundling-rails,Ruby,53
 66497320,DataDog/dd-trace-rb,Ruby,2
 223915944,lewagon/rails-garden-manager,Ruby,0
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,1

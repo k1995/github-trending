@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,16
+8514,rails/rails,Ruby,15
 7569578,discourse/discourse,Ruby,20
-3623050,Homebrew/homebrew-cask,Ruby,4
-538746,ruby/ruby,Ruby,8
+3623050,Homebrew/homebrew-cask,Ruby,3
+538746,ruby/ruby,Ruby,6
 1090311,elastic/logstash,Ruby,0
-4095287,rubocop/rubocop,Ruby,2
+4095287,rubocop/rubocop,Ruby,1
 3314,spree/spree,Ruby,2
 106995,sinatra/sinatra,Ruby,3
 3195124,mperham/sidekiq,Ruby,3
@@ -16,11 +16,11 @@ id,name,lang,new stars
 1548802,activerecord-hackery/ransack,Ruby,0
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,1
-43347873,danger/danger,Ruby,3
-30985840,solidusio/solidus,Ruby,1
+43347873,danger/danger,Ruby,4
+30985840,solidusio/solidus,Ruby,0
 52316423,luggit/react-native-config,Ruby,3
-103766152,github/explore,Ruby,10
+103766152,github/explore,Ruby,8
 81134943,Shopify/bootsnap,Ruby,0
-200302808,github/view_component,Ruby,3
+200302808,github/view_component,Ruby,2
 165262778,fxn/zeitwerk,Ruby,5
 66497320,DataDog/dd-trace-rb,Ruby,0
