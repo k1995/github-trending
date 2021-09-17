@@ -1,15 +1,15 @@
 id,name,lang,new stars
-23096959,golang/go,Go,42
-17728164,hashicorp/terraform,Go,26
+23096959,golang/go,Go,43
+17728164,hashicorp/terraform,Go,27
 6247705,stretchr/testify,Go,14
 66573241,hyperledger/fabric,Go,137
-5179099,go-redis/redis,Go,10
+5179099,go-redis/redis,Go,12
 100982449,argoproj/argo-workflows,Go,9
 119419195,GoogleContainerTools/kaniko,Go,4
 11206255,Shopify/sarama,Go,3
-75785240,authelia/authelia,Go,22
-120896210,argoproj/argo-cd,Go,14
-40916314,dexidp/dex,Go,3
+75785240,authelia/authelia,Go,21
+120896210,argoproj/argo-cd,Go,13
+40916314,dexidp/dex,Go,6
 193833307,knadh/listmonk,Go,9
 140412864,kgretzky/evilginx2,Go,7
 157245200,twpayne/chezmoi,Go,24
