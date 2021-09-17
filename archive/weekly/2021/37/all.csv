@@ -1,26 +1,26 @@
 id,name,lang,new stars
 31792824,flutter/flutter,Dart,1005
 62607227,yangshun/tech-interview-handbook,JavaScript,1279
-7508411,ReactiveX/RxJava,Java,153
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3909
+7508411,ReactiveX/RxJava,Java,154
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3904
 214587193,supabase/supabase,TypeScript,778
 262296122,PaddlePaddle/PaddleOCR,Python,565
 19205896,restic/restic,Go,96
-106024057,pyg-team/pytorch_geometric,Python,514
-104231541,abseil/abseil-cpp,C++,185
-287463830,microsoft/qlib,Python,821
+106024057,pyg-team/pytorch_geometric,Python,517
+104231541,abseil/abseil-cpp,C++,171
+287463830,microsoft/qlib,Python,822
+121470383,solana-labs/solana,Rust,281
 128479644,esphome/esphome,C++,356
-121470383,solana-labs/solana,Rust,282
-334274271,opensearch-project/OpenSearch,Java,65
-391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,397
-99919302,apache/incubator-doris,Java,204
-51040886,Azure/azure-cli,Python,193
-384451028,cloudwego/kitex,Go,691
-387326890,xinntao/Real-ESRGAN,Python,595
+334274271,opensearch-project/OpenSearch,Java,66
+391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,403
+99919302,apache/incubator-doris,Java,200
+51040886,Azure/azure-cli,Python,192
+384451028,cloudwego/kitex,Go,690
+387326890,xinntao/Real-ESRGAN,Python,589
 342158146,cloudwego/netpoll,Go,638
 402772452,ErickWendel/semana-javascript-expert05,JavaScript,351
-390935630,HashLips/generative-art-node,JavaScript,386
-399623520,HashLips/generative-art-opensource,JavaScript,125
-267940560,solana-labs/solana-program-library,Rust,80
+390935630,HashLips/generative-art-node,JavaScript,380
+399623520,HashLips/generative-art-opensource,JavaScript,123
+267940560,solana-labs/solana-program-library,Rust,78
 403252103,andrecronje/rarity,Solidity,173
 310632133,solana-labs/token-list,TypeScript,19
