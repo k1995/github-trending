@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,2043
-36502,git/git,C,455
+2325298,torvalds/linux,C,2037
+36502,git/git,C,458
 5101141,stedolan/jq,C,297
 7634677,openssl/openssl,C,292
-15337142,micropython/micropython,C,149
+15337142,micropython/micropython,C,147
 95133665,s-matyukevich/raspberry-pi-os,C,247
-47409672,hashcat/hashcat,C,195
-63477515,TheAlgorithms/C,C,336
-45821540,openwrt/openwrt,C,326
-40217904,swaywm/sway,C,151
+47409672,hashcat/hashcat,C,197
+63477515,TheAlgorithms/C,C,340
+45821540,openwrt/openwrt,C,325
+40217904,swaywm/sway,C,152
 78281075,SpacehuhnTech/esp8266_deauther,C,149
 3199002,raspberrypi/linux,C,128
 179354282,acidanthera/OpenCorePkg,C,293
@@ -17,10 +17,10 @@ id,name,lang,new stars
 13836499,raysan5/raylib,C,227
 60667730,lvgl/lvgl,C,238
 54280778,DaveGamble/cJSON,C,167
-22711503,gcc-mirror/gcc,C,126
+22711503,gcc-mirror/gcc,C,129
 3349840,hak5darren/USB-Rubber-Ducky,C,358
-40556106,wazuh/wazuh,C,118
-330008801,libsdl-org/SDL,C,157
+40556106,wazuh/wazuh,C,120
+330008801,libsdl-org/SDL,C,156
 194269070,skyline-emu/skyline,C,621
-204459250,mit-pdos/xv6-riscv,C,96
+204459250,mit-pdos/xv6-riscv,C,98
 222187361,dankamongmen/notcurses,C,542
