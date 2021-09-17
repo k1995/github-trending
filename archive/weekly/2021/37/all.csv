@@ -1,18 +1,18 @@
 id,name,lang,new stars
 13491895,EbookFoundation/free-programming-books,,1864
 31792824,flutter/flutter,Dart,855
-126577260,trekhleb/javascript-algorithms,JavaScript,1605
+126577260,trekhleb/javascript-algorithms,JavaScript,1636
 62607227,yangshun/tech-interview-handbook,JavaScript,986
-7508411,ReactiveX/RxJava,Java,155
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3771
+7508411,ReactiveX/RxJava,Java,154
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3681
 214587193,supabase/supabase,TypeScript,742
 186024298,nushell/nushell,Rust,313
 19205896,restic/restic,Go,96
 106024057,pyg-team/pytorch_geometric,Python,520
-202787876,Rigellute/spotify-tui,Rust,892
+202787876,Rigellute/spotify-tui,Rust,900
 104231541,abseil/abseil-cpp,C++,171
 350360184,calendso/calendso,TypeScript,530
-287463830,microsoft/qlib,Python,822
+287463830,microsoft/qlib,Python,826
 109872620,paritytech/substrate,Rust,42
 145050544,LunarVim/LunarVim,Lua,188
 121470383,solana-labs/solana,Rust,281
@@ -20,7 +20,7 @@ id,name,lang,new stars
 387326890,xinntao/Real-ESRGAN,Python,589
 384451028,cloudwego/kitex,Go,505
 342158146,cloudwego/netpoll,Go,638
-390935630,HashLips/generative-art-node,JavaScript,372
-376842961,polarismesh/polaris,Go,241
-267940560,solana-labs/solana-program-library,Rust,77
+390935630,HashLips/generative-art-node,JavaScript,363
+376842961,polarismesh/polaris,Go,221
+267940560,solana-labs/solana-program-library,Rust,75
 403252103,andrecronje/rarity,Solidity,151
