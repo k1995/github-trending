@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,60
 65252,jekyll/jekyll,Ruby,42
-7569578,discourse/discourse,Ruby,66
-2293158,rapid7/metasploit-framework,Ruby,66
+7569578,discourse/discourse,Ruby,67
+2293158,rapid7/metasploit-framework,Ruby,65
 308770,heartcombo/devise,Ruby,17
-538746,ruby/ruby,Ruby,37
+538746,ruby/ruby,Ruby,36
 73648678,forem/forem,Ruby,46
 1090311,elastic/logstash,Ruby,17
 3314,spree/spree,Ruby,19
-3195124,mperham/sidekiq,Ruby,17
+3195124,mperham/sidekiq,Ruby,16
 18486300,lewagon/setup,Ruby,54
 211588,paper-trail-gem/paper_trail,Ruby,8
 16994115,CanCanCommunity/cancancan,Ruby,11
@@ -19,7 +19,7 @@ id,name,lang,new stars
 17228890,Shopify/shipit-engine,Ruby,1
 229187949,shivammathur/homebrew-php,Ruby,15
 43709699,microsoft/OMS-Agent-for-Linux,Ruby,5
-403641521,rails/jsbundling-rails,Ruby,53
+403641521,rails/jsbundling-rails,Ruby,52
 66497320,DataDog/dd-trace-rb,Ruby,2
 404019967,rails/cssbundling-rails,Ruby,34
 62409417,department-of-veterans-affairs/vets-api,Ruby,1
