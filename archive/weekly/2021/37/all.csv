@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,2044
-126577260,trekhleb/javascript-algorithms,JavaScript,1762
-112507086,30-seconds/30-seconds-of-code,JavaScript,917
-62607227,yangshun/tech-interview-handbook,JavaScript,946
-157616880,iptv-org/iptv,JavaScript,756
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3542
+13491895,EbookFoundation/free-programming-books,,2194
+126577260,trekhleb/javascript-algorithms,JavaScript,1726
+112507086,30-seconds/30-seconds-of-code,JavaScript,938
+62607227,yangshun/tech-interview-handbook,JavaScript,897
+157616880,iptv-org/iptv,JavaScript,753
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3463
 92443980,jgraph/drawio-desktop,JavaScript,453
-214587193,supabase/supabase,TypeScript,703
-186024298,nushell/nushell,Rust,315
-19205896,restic/restic,Go,117
-106024057,pyg-team/pytorch_geometric,Python,536
-202787876,Rigellute/spotify-tui,Rust,905
-350360184,calendso/calendso,TypeScript,710
+214587193,supabase/supabase,TypeScript,723
+186024298,nushell/nushell,Rust,316
+19205896,restic/restic,Go,115
+106024057,pyg-team/pytorch_geometric,Python,523
+202787876,Rigellute/spotify-tui,Rust,910
+350360184,calendso/calendso,TypeScript,774
 39487546,vector-im/element-web,HTML,46
 287463830,microsoft/qlib,Python,826
-109872620,paritytech/substrate,Rust,44
-145050544,LunarVim/LunarVim,Lua,152
-121470383,solana-labs/solana,Rust,276
-128479644,esphome/esphome,C++,359
-387326890,xinntao/Real-ESRGAN,Python,449
-384451028,cloudwego/kitex,Go,413
-342158146,cloudwego/netpoll,Go,501
+109872620,paritytech/substrate,Rust,43
+145050544,LunarVim/LunarVim,Lua,143
+121470383,solana-labs/solana,Rust,270
+128479644,esphome/esphome,C++,360
+387326890,xinntao/Real-ESRGAN,Python,459
+384451028,cloudwego/kitex,Go,380
+342158146,cloudwego/netpoll,Go,434
 403928729,mmazzarolo/react-native-universal-monorepo,JavaScript,190
-403252103,andrecronje/rarity,Solidity,145
-403688820,exiled-apes/candy-machine-mint,TypeScript,134
+403252103,andrecronje/rarity,Solidity,148
+403688820,exiled-apes/candy-machine-mint,TypeScript,135
