@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,2044
-31792824,flutter/flutter,Dart,781
-126577260,trekhleb/javascript-algorithms,JavaScript,1684
-62607227,yangshun/tech-interview-handbook,JavaScript,965
-7508411,ReactiveX/RxJava,Java,152
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3542
-214587193,supabase/supabase,TypeScript,708
-186024298,nushell/nushell,Rust,309
+13491895,EbookFoundation/free-programming-books,,2018
+31792824,flutter/flutter,Dart,734
+126577260,trekhleb/javascript-algorithms,JavaScript,1728
+62607227,yangshun/tech-interview-handbook,JavaScript,959
+7508411,ReactiveX/RxJava,Java,154
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3554
+214587193,supabase/supabase,TypeScript,709
+186024298,nushell/nushell,Rust,312
 19205896,restic/restic,Go,113
 106024057,pyg-team/pytorch_geometric,Python,523
-202787876,Rigellute/spotify-tui,Rust,905
+202787876,Rigellute/spotify-tui,Rust,912
 104231541,abseil/abseil-cpp,C++,138
 350360184,calendso/calendso,TypeScript,710
-287463830,microsoft/qlib,Python,826
+287463830,microsoft/qlib,Python,828
 109872620,paritytech/substrate,Rust,44
-145050544,LunarVim/LunarVim,Lua,174
-121470383,solana-labs/solana,Rust,276
-128479644,esphome/esphome,C++,359
-387326890,xinntao/Real-ESRGAN,Python,452
-384451028,cloudwego/kitex,Go,413
-342158146,cloudwego/netpoll,Go,501
-390935630,HashLips/generative-art-node,JavaScript,359
-376842961,polarismesh/polaris,Go,168
+145050544,LunarVim/LunarVim,Lua,170
+121470383,solana-labs/solana,Rust,273
+128479644,esphome/esphome,C++,360
+387326890,xinntao/Real-ESRGAN,Python,451
+384451028,cloudwego/kitex,Go,452
+342158146,cloudwego/netpoll,Go,472
+390935630,HashLips/generative-art-node,JavaScript,355
+376842961,polarismesh/polaris,Go,156
 267940560,solana-labs/solana-program-library,Rust,75
-403252103,andrecronje/rarity,Solidity,148
+403252103,andrecronje/rarity,Solidity,152

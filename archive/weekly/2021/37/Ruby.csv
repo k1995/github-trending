@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,54
-8681349,huginn/huginn,Ruby,64
-2293158,rapid7/metasploit-framework,Ruby,64
-52281283,mastodon/mastodon,Ruby,61
-308770,heartcombo/devise,Ruby,20
-538746,ruby/ruby,Ruby,33
+8514,rails/rails,Ruby,55
+8681349,huginn/huginn,Ruby,63
+2293158,rapid7/metasploit-framework,Ruby,68
+52281283,mastodon/mastodon,Ruby,60
+308770,heartcombo/devise,Ruby,19
+538746,ruby/ruby,Ruby,34
 73648678,forem/forem,Ruby,47
 2203645,CocoaPods/CocoaPods,Ruby,14
-3314,spree/spree,Ruby,20
+3314,spree/spree,Ruby,19
 3195124,mperham/sidekiq,Ruby,17
-18486300,lewagon/setup,Ruby,70
+18486300,lewagon/setup,Ruby,69
 108278,chef/chef,Ruby,7
 211588,paper-trail-gem/paper_trail,Ruby,8
 16994115,CanCanCommunity/cancancan,Ruby,11
@@ -17,10 +17,10 @@ id,name,lang,new stars
 839336,simplecov-ruby/simplecov,Ruby,3
 30985840,solidusio/solidus,Ruby,5
 17228890,Shopify/shipit-engine,Ruby,2
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,4
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,2
 229187949,shivammathur/homebrew-php,Ruby,13
 43709699,microsoft/OMS-Agent-for-Linux,Ruby,5
-403641521,rails/jsbundling-rails,Ruby,54
+403641521,rails/jsbundling-rails,Ruby,55
 66497320,DataDog/dd-trace-rb,Ruby,2
 223915944,lewagon/rails-garden-manager,Ruby,0
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0
