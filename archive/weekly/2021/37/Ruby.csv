@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,60
-65252,jekyll/jekyll,Ruby,42
+8514,rails/rails,Ruby,61
+65252,jekyll/jekyll,Ruby,44
 7569578,discourse/discourse,Ruby,67
-2293158,rapid7/metasploit-framework,Ruby,65
+2293158,rapid7/metasploit-framework,Ruby,66
 308770,heartcombo/devise,Ruby,17
-538746,ruby/ruby,Ruby,36
+538746,ruby/ruby,Ruby,35
 73648678,forem/forem,Ruby,46
-1090311,elastic/logstash,Ruby,17
-3314,spree/spree,Ruby,19
+1090311,elastic/logstash,Ruby,16
+3314,spree/spree,Ruby,20
 3195124,mperham/sidekiq,Ruby,16
 18486300,lewagon/setup,Ruby,54
 211588,paper-trail-gem/paper_trail,Ruby,8
 16994115,CanCanCommunity/cancancan,Ruby,11
 30337170,rmosolgo/graphql-ruby,Ruby,8
-43347873,danger/danger,Ruby,14
+43347873,danger/danger,Ruby,15
 30985840,solidusio/solidus,Ruby,6
 5144181,jnunemaker/flipper,Ruby,8
 17228890,Shopify/shipit-engine,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 43709699,microsoft/OMS-Agent-for-Linux,Ruby,5
 403641521,rails/jsbundling-rails,Ruby,52
 66497320,DataDog/dd-trace-rb,Ruby,2
-404019967,rails/cssbundling-rails,Ruby,34
+404019967,rails/cssbundling-rails,Ruby,35
 62409417,department-of-veterans-affairs/vets-api,Ruby,1
 223915944,lewagon/rails-garden-manager,Ruby,0

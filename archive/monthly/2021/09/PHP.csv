@@ -1,8 +1,8 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,679
+3482588,danielmiessler/SecLists,PHP,680
 7548986,laravel/framework,PHP,240
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,140
-60243197,nextcloud/server,PHP,2218
+60243197,nextcloud/server,PHP,2217
 2889328,WordPress/WordPress,PHP,134
 1548202,matomo-org/matomo,PHP,135
 3431193,yiisoft/yii2,PHP,49
@@ -21,6 +21,6 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,41
 13914116,librenms/librenms,PHP,31
 17253775,zabbix/zabbix,PHP,69
-111562942,statamic/cms,PHP,81
+111562942,statamic/cms,PHP,82
 36526302,pentestmonkey/php-reverse-shell,PHP,46
 1430051,TYPO3/typo3,PHP,4
