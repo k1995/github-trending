@@ -1,20 +1,20 @@
 id,name,lang,new stars
 13491895,EbookFoundation/free-programming-books,,2276
-60493101,jwasham/coding-interview-university,,1751
+60493101,jwasham/coding-interview-university,,1759
 126577260,trekhleb/javascript-algorithms,JavaScript,1746
 112507086,30-seconds/30-seconds-of-code,JavaScript,1006
 62607227,yangshun/tech-interview-handbook,JavaScript,792
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3267
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3129
 92443980,jgraph/drawio-desktop,JavaScript,463
 214587193,supabase/supabase,TypeScript,698
 19205896,restic/restic,Go,118
-106024057,pyg-team/pytorch_geometric,Python,542
+106024057,pyg-team/pytorch_geometric,Python,545
 143455116,google/filament,C++,74
 67778031,seaswalker/spring-analysis,Java,192
-202787876,Rigellute/spotify-tui,Rust,928
+202787876,Rigellute/spotify-tui,Rust,929
 350360184,calendso/calendso,TypeScript,1014
-39487546,vector-im/element-web,HTML,45
-287463830,microsoft/qlib,Python,756
+39487546,vector-im/element-web,HTML,46
+287463830,microsoft/qlib,Python,707
 109872620,paritytech/substrate,Rust,47
 121470383,solana-labs/solana,Rust,270
 273839530,Python-World/python-mini-projects,Python,2292
@@ -22,5 +22,5 @@ id,name,lang,new stars
 399552006,rammcodes/Dopefolio,HTML,547
 163114545,pablokbs/peladonerd,JavaScript,16
 268786553,SudhanPlayz/Discord-MusicBot,JavaScript,323
-403928729,mmazzarolo/react-native-universal-monorepo,JavaScript,178
+403928729,mmazzarolo/react-native-universal-monorepo,JavaScript,167
 403688820,exiled-apes/candy-machine-mint,TypeScript,123
