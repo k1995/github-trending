@@ -1,11 +1,11 @@
 id,name,lang,new stars
-156018,redis/redis,C,17
-246335987,ventoy/Ventoy,C,135
-36836475,tmux/tmux,C,24
+156018,redis/redis,C,15
+246335987,ventoy/Ventoy,C,152
+36836475,tmux/tmux,C,25
 569041,curl/curl,C,14
-20159867,nothings/stb,C,8
+20159867,nothings/stb,C,6
 196353673,taosdata/TDengine,C,4
-29759715,facebook/zstd,C,2
+29759715,facebook/zstd,C,5
 18496166,gentilkiwi/mimikatz,C,5
 184981,memcached/memcached,C,1
 63477515,TheAlgorithms/C,C,39
@@ -14,13 +14,13 @@ id,name,lang,new stars
 5870069,edenhill/librdkafka,C,1
 7370241,RIOT-OS/RIOT,C,0
 8270972,ARMmbed/mbed-os,C,3
-131710328,CTCaer/hekate,C,19
+131710328,CTCaer/hekate,C,14
 146397768,ithewei/libhv,C,17
 40556106,wazuh/wazuh,C,1
 34807561,nanopb/nanopb,C,3
 19403028,saki4510t/UVCCamera,C,2
-117704656,remzi-arpacidusseau/ostep-projects,C,1
+117704656,remzi-arpacidusseau/ostep-projects,C,2
 122993186,remzi-arpacidusseau/ostep-code,C,1
-190453050,alephsecurity/xnu-qemu-arm64,C,18
+190453050,alephsecurity/xnu-qemu-arm64,C,11
 70934373,Azure/azure-iot-sdk-c,C,0
-383940088,ShadowMario/FNF-PsychEngine,C,1
+383940088,ShadowMario/FNF-PsychEngine,C,2
