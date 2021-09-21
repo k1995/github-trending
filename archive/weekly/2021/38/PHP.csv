@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,103
 2579314,fzaninotto/Faker,PHP,29
-458058,symfony/symfony,PHP,41
+458058,symfony/symfony,PHP,43
 1864363,composer/composer,PHP,19
-7548986,laravel/framework,PHP,56
-1420053,guzzle/guzzle,PHP,21
+7548986,laravel/framework,PHP,58
+1420053,guzzle/guzzle,PHP,20
 1376664,Seldaek/monolog,PHP,13
-61490598,PHPOffice/PhpSpreadsheet,PHP,32
-49014795,phpstan/phpstan,PHP,30
+61490598,PHPOffice/PhpSpreadsheet,PHP,31
+49014795,phpstan/phpstan,PHP,29
 2884111,magento/magento2,PHP,21
 2699935,squizlabs/PHP_CodeSniffer,PHP,16
 622166,FriendsOfPHP/Goutte,PHP,18
@@ -16,11 +16,11 @@ id,name,lang,new stars
 6269013,aws/aws-sdk-php,PHP,11
 222873550,bytefury/crater,PHP,21
 145865941,laravel/telescope,PHP,10
-159606650,hyperf/hyperf,PHP,34
-1740040,pfsense/pfsense,PHP,18
+159606650,hyperf/hyperf,PHP,32
+1740040,pfsense/pfsense,PHP,17
 351298555,thedevdojo/wave,PHP,32
 96284790,prasathmani/tinyfilemanager,PHP,15
-129852395,assimon/dujiaoka,PHP,18
-374132359,krayin/laravel-crm,PHP,273
-380196780,maccmspro/maccms10,PHP,52
-404640106,themsaid/ergodnc,PHP,49
+129852395,assimon/dujiaoka,PHP,19
+374132359,krayin/laravel-crm,PHP,287
+380196780,maccmspro/maccms10,PHP,53
+404640106,themsaid/ergodnc,PHP,48

@@ -1,18 +1,18 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,31
-13233158,obsproject/obs-studio,C,12
+111583593,Genymobile/scrcpy,C,30
+13233158,obsproject/obs-studio,C,16
 74627617,commaai/openpilot,C,10
 246335987,ventoy/Ventoy,C,155
 36836475,tmux/tmux,C,10
 14812739,libuv/libuv,C,5
 102578345,coolsnowwolf/lede,C,16
-80286288,arendst/Tasmota,C,11
+80286288,arendst/Tasmota,C,10
 2810292,pbatard/rufus,C,8
 4869294,radareorg/radare2,C,8
 63477515,TheAlgorithms/C,C,17
 9524997,glfw/glfw,C,5
 179354282,acidanthera/OpenCorePkg,C,7
-7077690,darlinghq/darling,C,35
+7077690,darlinghq/darling,C,24
 70127218,espressif/arduino-esp32,C,7
 13836499,raysan5/raylib,C,9
 8180677,libimobiledevice/libimobiledevice,C,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 130012942,iqiyi/xHook,C,6
 198869255,google/AFL,C,6
 194269070,skyline-emu/skyline,C,79
-297071139,haileys/doslinux,C,30
+297071139,haileys/doslinux,C,29
 211756905,MarlinFirmware/Configurations,C,3
 351809060,Orange-OpenSource/bmc-cache,C,16
 80117269,gabessolo/SIM-TOOLS,C,4
