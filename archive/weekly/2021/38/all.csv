@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,2379
-60493101,jwasham/coding-interview-university,,1833
-126577260,trekhleb/javascript-algorithms,JavaScript,1371
-112507086,30-seconds/30-seconds-of-code,JavaScript,1646
+13491895,EbookFoundation/free-programming-books,,2373
+60493101,jwasham/coding-interview-university,,1828
+126577260,trekhleb/javascript-algorithms,JavaScript,1295
+112507086,30-seconds/30-seconds-of-code,JavaScript,1684
 23083156,mui-org/material-ui,JavaScript,620
-62607227,yangshun/tech-interview-handbook,JavaScript,594
-220809393,willmcgugan/rich,Python,476
+62607227,yangshun/tech-interview-handbook,JavaScript,570
+220809393,willmcgugan/rich,Python,474
 110058856,LeCoupa/awesome-cheatsheets,JavaScript,1327
-212639071,bregman-arie/devops-exercises,Python,2533
+212639071,bregman-arie/devops-exercises,Python,2542
 19205896,restic/restic,Go,101
 54360307,uNetworking/uWebSockets,C++,65
-143455116,google/filament,C++,75
+143455116,google/filament,C++,71
 67778031,seaswalker/spring-analysis,Java,249
-63477515,TheAlgorithms/C,C,213
-202787876,Rigellute/spotify-tui,Rust,969
-350360184,calendso/calendso,TypeScript,1408
-109872620,paritytech/substrate,Rust,46
-121470383,solana-labs/solana,Rust,242
-273839530,Python-World/python-mini-projects,Python,1815
-352933140,ToolJet/ToolJet,JavaScript,197
-65681319,jagrosh/MusicBot,Java,673
-405152543,lockedbyte/CVE-2021-40444,HTML,295
-389803219,smartcontractkit/full-blockchain-solidity-course-py,,550
-401780066,girlscript/winter-of-contributing,Jupyter Notebook,379
-405008178,input-output-hk/lobster-challenge,Haskell,92
+63477515,TheAlgorithms/C,C,217
+202787876,Rigellute/spotify-tui,Rust,804
+350360184,calendso/calendso,TypeScript,1427
+109872620,paritytech/substrate,Rust,41
+121470383,solana-labs/solana,Rust,243
+273839530,Python-World/python-mini-projects,Python,2095
+352933140,ToolJet/ToolJet,JavaScript,181
+65681319,jagrosh/MusicBot,Java,656
+405152543,lockedbyte/CVE-2021-40444,HTML,277
+389803219,smartcontractkit/full-blockchain-solidity-course-py,,512
+401780066,girlscript/winter-of-contributing,Jupyter Notebook,383
+405008178,input-output-hk/lobster-challenge,Haskell,84
