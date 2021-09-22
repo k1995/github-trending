@@ -1,18 +1,18 @@
 id,name,lang,new stars
 184456251,microsoft/PowerToys,C#,41
-49609581,PowerShell/PowerShell,C#,9
-70104825,dotnet-architecture/eShopOnContainers,C#,8
+49609581,PowerShell/PowerShell,C#,10
+70104825,dotnet-architecture/eShopOnContainers,C#,7
 29078997,dotnet/roslyn,C#,4
 164140756,files-community/Files,C#,20
-161012019,jellyfin/jellyfin,C#,7
+161012019,jellyfin/jellyfin,C#,8
 120231691,Ryujinx/Ryujinx,C#,1
-28239455,dotnet/AspNetCore.Docs,C#,2
-46755185,bitwarden/server,C#,8
+28239455,dotnet/AspNetCore.Docs,C#,1
+46755185,bitwarden/server,C#,7
 132021166,dotnet/machinelearning,C#,1
-210716005,dotnet/runtime,C#,8
+210716005,dotnet/runtime,C#,10
 2465723,Sonarr/Sonarr,C#,0
-203892454,kgrzybek/modular-monolith-with-ddd,C#,5
-189676777,JasonStein/Notepads,C#,10
+203892454,kgrzybek/modular-monolith-with-ddd,C#,4
+189676777,JasonStein/Notepads,C#,9
 19216825,xamarin/xamarin-forms-samples,C#,2
 10601208,umbraco/Umbraco-CMS,C#,0
 117102183,ChilliCream/hotchocolate,C#,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 274175324,iammukeshm/CleanArchitecture.WebApi,C#,5
 131026794,Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,2
 156260788,Azure/azure-cosmos-dotnet-v3,C#,0
-398181340,fullstackhero/dotnet-webapi-boilerplate,C#,13
-406987674,tbhaxor/csharp-and-infosec,C#,5
+398181340,fullstackhero/dotnet-webapi-boilerplate,C#,12
+406987674,tbhaxor/csharp-and-infosec,C#,4
