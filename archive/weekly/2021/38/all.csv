@@ -4,16 +4,16 @@ id,name,lang,new stars
 126577260,trekhleb/javascript-algorithms,JavaScript,1219
 112507086,30-seconds/30-seconds-of-code,JavaScript,1755
 23083156,mui-org/material-ui,JavaScript,637
-62607227,yangshun/tech-interview-handbook,JavaScript,567
+62607227,yangshun/tech-interview-handbook,JavaScript,570
 220809393,willmcgugan/rich,Python,484
 110058856,LeCoupa/awesome-cheatsheets,JavaScript,1472
 212639071,bregman-arie/devops-exercises,Python,2506
 19205896,restic/restic,Go,98
-54360307,uNetworking/uWebSockets,C++,65
-143455116,google/filament,C++,71
-67778031,seaswalker/spring-analysis,Java,249
+54360307,uNetworking/uWebSockets,C++,64
+143455116,google/filament,C++,69
+67778031,seaswalker/spring-analysis,Java,267
 63477515,TheAlgorithms/C,C,222
-202787876,Rigellute/spotify-tui,Rust,698
+202787876,Rigellute/spotify-tui,Rust,664
 350360184,calendso/calendso,TypeScript,1454
 109872620,paritytech/substrate,Rust,37
 121470383,solana-labs/solana,Rust,200
@@ -21,6 +21,6 @@ id,name,lang,new stars
 352933140,ToolJet/ToolJet,JavaScript,146
 65681319,jagrosh/MusicBot,Java,602
 389803219,smartcontractkit/full-blockchain-solidity-course-py,,400
-405152543,lockedbyte/CVE-2021-40444,HTML,223
-401780066,girlscript/winter-of-contributing,Jupyter Notebook,378
+405152543,lockedbyte/CVE-2021-40444,HTML,209
+401780066,girlscript/winter-of-contributing,Jupyter Notebook,377
 405008178,input-output-hk/lobster-challenge,Haskell,62
