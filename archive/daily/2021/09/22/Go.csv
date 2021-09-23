@@ -1,13 +1,13 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,43
 16563587,cockroachdb/cockroach,Go,10
-31288958,hashicorp/vault,Go,11
+31288958,hashicorp/vault,Go,9
 26337322,rancher/rancher,Go,10
 118654121,GoogleContainerTools/skaffold,Go,10
-285864199,zeromicro/go-zero,Go,79
+285864199,zeromicro/go-zero,Go,80
 33258973,influxdata/telegraf,Go,6
 72477752,pulumi/pulumi,Go,14
-75785240,authelia/authelia,Go,351
+75785240,authelia/authelia,Go,381
 36653430,hashicorp/nomad,Go,11
 119190187,zricethezav/gitleaks,Go,4
 62799996,fluxcd/flux,Go,2
@@ -15,7 +15,7 @@ id,name,lang,new stars
 18950460,concourse/concourse,Go,3
 50629145,google/pprof,Go,7
 80134675,containers/buildah,Go,7
-43225113,mikefarah/yq,Go,9
+43225113,mikefarah/yq,Go,7
 367284699,lima-vm/lima,Go,44
 53553027,nginxinc/kubernetes-ingress,Go,1
 215654064,temporalio/temporal,Go,6

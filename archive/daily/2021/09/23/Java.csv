@@ -1,9 +1,9 @@
 id,name,lang,new stars
-2211243,apache/kafka,Java,8
-20773773,bazelbuild/bazel,Java,6
-41889031,TeamNewPipe/NewPipe,Java,12
+2211243,apache/kafka,Java,9
+20773773,bazelbuild/bazel,Java,8
+41889031,TeamNewPipe/NewPipe,Java,11
 11125589,keycloak/keycloak,Java,7
-133134007,OpenAPITools/openapi-generator,Java,14
+133134007,OpenAPITools/openapi-generator,Java,15
 36817565,zaproxy/zaproxy,Java,4
 1272129,dropwizard/dropwizard,Java,2
 3148979,spring-projects/spring-security,Java,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 136858657,airsquared/blobsaver,Java,6
 341631350,apache/lucene,Java,2
 296471971,FIRST-Tech-Challenge/FtcRobotController,Java,1
-406318039,rubyangxg/jd-qinglong,Java,18
+406318039,rubyangxg/jd-qinglong,Java,17

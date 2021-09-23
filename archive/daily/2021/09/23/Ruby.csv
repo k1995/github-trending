@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,9
-27442967,fastlane/fastlane,Ruby,4
-481872,hashicorp/vagrant,Ruby,4
+27442967,fastlane/fastlane,Ruby,5
+481872,hashicorp/vagrant,Ruby,3
 308770,heartcombo/devise,Ruby,4
 73648678,forem/forem,Ruby,2
 2203645,CocoaPods/CocoaPods,Ruby,0
 1090311,elastic/logstash,Ruby,1
 4095287,rubocop/rubocop,Ruby,4
-202291859,chatwoot/chatwoot,Ruby,6
+202291859,chatwoot/chatwoot,Ruby,162
 96395,faker-ruby/faker,Ruby,2
 812393,ruby-grape/grape,Ruby,1
 611921,activeadmin/activeadmin,Ruby,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 9500075,ytti/oxidized,Ruby,0
 644899,onelogin/ruby-saml,Ruby,0
 43709699,microsoft/OMS-Agent-for-Linux,Ruby,2
-404019967,rails/cssbundling-rails,Ruby,5
-407852490,rails/propshaft,Ruby,12
+404019967,rails/cssbundling-rails,Ruby,4
+407852490,rails/propshaft,Ruby,31

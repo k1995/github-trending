@@ -1,10 +1,10 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,18
+17620347,dotnet/aspnetcore,C#,19
 29078997,dotnet/roslyn,C#,2
 16157746,dotnet/efcore,C#,2
 28239455,dotnet/AspNetCore.Docs,C#,1
 193681686,netchx/netch,C#,14
-46755185,bitwarden/server,C#,5
+46755185,bitwarden/server,C#,4
 210716005,dotnet/runtime,C#,17
 17369361,jbogard/MediatR,C#,7
 62256097,ThreeMammals/Ocelot,C#,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 184286875,actions/runner,C#,2
 72554578,confluentinc/confluent-kafka-dotnet,C#,0
 119571446,dotnet/samples,C#,1
-372096057,Richasy/Bili.Uwp,C#,196
+372096057,Richasy/Bili.Uwp,C#,267
 274175324,iammukeshm/CleanArchitecture.WebApi,C#,9
 298347380,Unity-Technologies/Unity-Robotics-Hub,C#,1
-398181340,fullstackhero/dotnet-webapi-boilerplate,C#,8
+398181340,fullstackhero/dotnet-webapi-boilerplate,C#,7
