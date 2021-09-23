@@ -1,5 +1,5 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
+8514,rails/rails,Ruby,10
 27442967,fastlane/fastlane,Ruby,5
 481872,hashicorp/vagrant,Ruby,5
 308770,heartcombo/devise,Ruby,3
@@ -7,7 +7,7 @@ id,name,lang,new stars
 2203645,CocoaPods/CocoaPods,Ruby,0
 1090311,elastic/logstash,Ruby,1
 4095287,rubocop/rubocop,Ruby,5
-202291859,chatwoot/chatwoot,Ruby,162
+202291859,chatwoot/chatwoot,Ruby,154
 96395,faker-ruby/faker,Ruby,2
 812393,ruby-grape/grape,Ruby,1
 611921,activeadmin/activeadmin,Ruby,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 1145832,pry/pry,Ruby,1
 75785147,rails/webpacker,Ruby,1
 1548802,activerecord-hackery/ransack,Ruby,2
-1314319,instructure/canvas-lms,Ruby,2
+1314319,instructure/canvas-lms,Ruby,3
 3898922,zammad/zammad,Ruby,2
 9500075,ytti/oxidized,Ruby,0
 644899,onelogin/ruby-saml,Ruby,0
 43709699,microsoft/OMS-Agent-for-Linux,Ruby,2
-404019967,rails/cssbundling-rails,Ruby,4
-407852490,rails/propshaft,Ruby,31
+404019967,rails/cssbundling-rails,Ruby,3
+407852490,rails/propshaft,Ruby,38
