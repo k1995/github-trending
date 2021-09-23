@@ -1,18 +1,18 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,670
+3482588,danielmiessler/SecLists,PHP,668
 458058,symfony/symfony,PHP,161
-7548986,laravel/framework,PHP,247
+7548986,laravel/framework,PHP,246
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,151
-448045,sebastianbergmann/phpunit,PHP,87
-60243197,nextcloud/server,PHP,2218
+448045,sebastianbergmann/phpunit,PHP,86
+60243197,nextcloud/server,PHP,2219
 2889328,WordPress/WordPress,PHP,140
 1548202,matomo-org/matomo,PHP,141
 49014795,phpstan/phpstan,PHP,119
-42480275,spatie/laravel-permission,PHP,154
+42480275,spatie/laravel-permission,PHP,155
 2884111,magento/magento2,PHP,64
 2699935,squizlabs/PHP_CodeSniffer,PHP,73
 6660366,dompdf/dompdf,PHP,82
-11467667,typecho/typecho,PHP,129
+11467667,typecho/typecho,PHP,131
 12166778,googleapis/google-api-php-client,PHP,64
 6763587,PrestaShop/PrestaShop,PHP,51
 4565995,phpseclib/phpseclib,PHP,72
@@ -21,6 +21,6 @@ id,name,lang,new stars
 351298555,thedevdojo/wave,PHP,132
 1957456,Dolibarr/dolibarr,PHP,67
 17253775,zabbix/zabbix,PHP,70
-111562942,statamic/cms,PHP,85
+111562942,statamic/cms,PHP,86
 75645659,WordPress/wordpress-develop,PHP,40
-374132359,krayin/laravel-crm,PHP,374
+374132359,krayin/laravel-crm,PHP,377
