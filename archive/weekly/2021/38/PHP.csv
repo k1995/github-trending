@@ -1,16 +1,16 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,32
-7548986,laravel/framework,PHP,55
-1376664,Seldaek/monolog,PHP,26
-2253830,PHPMailer/PHPMailer,PHP,32
+458058,symfony/symfony,PHP,33
+7548986,laravel/framework,PHP,54
+1376664,Seldaek/monolog,PHP,28
+2253830,PHPMailer/PHPMailer,PHP,31
 2889328,WordPress/WordPress,PHP,30
-1631570,nikic/PHP-Parser,PHP,31
-12615154,barryvdh/laravel-debugbar,PHP,39
-8708394,filp/whoops,PHP,32
-61490598,PHPOffice/PhpSpreadsheet,PHP,29
+1631570,nikic/PHP-Parser,PHP,32
+12615154,barryvdh/laravel-debugbar,PHP,41
+8708394,filp/whoops,PHP,30
+61490598,PHPOffice/PhpSpreadsheet,PHP,30
 2699935,squizlabs/PHP_CodeSniffer,PHP,13
 11340559,deployphp/deployer,PHP,19
-330275,twigphp/Twig,PHP,16
+330275,twigphp/Twig,PHP,17
 2179920,woocommerce/woocommerce,PHP,17
 2141186,opencart/opencart,PHP,11
 6269013,aws/aws-sdk-php,PHP,14
@@ -20,7 +20,7 @@ id,name,lang,new stars
 47508644,pterodactyl/panel,PHP,28
 96284790,prasathmani/tinyfilemanager,PHP,15
 69691727,pmmp/PocketMine-MP,PHP,17
-111562942,statamic/cms,PHP,23
+111562942,statamic/cms,PHP,21
 96462257,osiset/laravel-shopify,PHP,15
-380196780,maccmspro/maccms10,PHP,54
+380196780,maccmspro/maccms10,PHP,53
 128732084,woocommerce/woocommerce-admin,PHP,1

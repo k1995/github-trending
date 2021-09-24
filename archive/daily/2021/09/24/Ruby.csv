@@ -1,16 +1,16 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,6
 27442967,fastlane/fastlane,Ruby,9
-2293158,rapid7/metasploit-framework,Ruby,11
-481872,hashicorp/vagrant,Ruby,5
-73648678,forem/forem,Ruby,2
+2293158,rapid7/metasploit-framework,Ruby,10
+481872,hashicorp/vagrant,Ruby,8
+73648678,forem/forem,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,2
 2336578,twbs/bootstrap-sass,Ruby,0
-1090311,elastic/logstash,Ruby,5
+1090311,elastic/logstash,Ruby,4
 3195124,mperham/sidekiq,Ruby,3
 1918677,fluent/fluentd,Ruby,4
-202291859,chatwoot/chatwoot,Ruby,11
-96395,faker-ruby/faker,Ruby,2
+202291859,chatwoot/chatwoot,Ruby,85
+96395,faker-ruby/faker,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,1
 22059578,ankane/pghero,Ruby,6
 2889230,rails-api/active_model_serializers,Ruby,1
