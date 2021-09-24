@@ -1,16 +1,16 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,3
+27442967,fastlane/fastlane,Ruby,5
 2293158,rapid7/metasploit-framework,Ruby,12
 308770,heartcombo/devise,Ruby,2
-538746,ruby/ruby,Ruby,5
-73648678,forem/forem,Ruby,3
+538746,ruby/ruby,Ruby,4
+73648678,forem/forem,Ruby,4
 138312,capistrano/capistrano,Ruby,0
-4095287,rubocop/rubocop,Ruby,1
+4095287,rubocop/rubocop,Ruby,0
 3314,spree/spree,Ruby,1
 3195124,mperham/sidekiq,Ruby,4
-88740103,postalserver/postal,Ruby,5
+88740103,postalserver/postal,Ruby,6
 1918677,fluent/fluentd,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,127
+202291859,chatwoot/chatwoot,Ruby,89
 52855516,Homebrew/homebrew-core,Ruby,7
 96395,faker-ruby/faker,Ruby,3
 1725199,github/linguist,Ruby,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,1
 20343475,googleapis/google-cloud-ruby,Ruby,0
 161399160,Shopify/shopify-cli,Ruby,1
-407852490,rails/propshaft,Ruby,20
+407852490,rails/propshaft,Ruby,15

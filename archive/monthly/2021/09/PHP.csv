@@ -1,20 +1,20 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,662
+3482588,danielmiessler/SecLists,PHP,663
 458058,symfony/symfony,PHP,160
-7548986,laravel/framework,PHP,246
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,151
+7548986,laravel/framework,PHP,247
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,152
 448045,sebastianbergmann/phpunit,PHP,87
 60243197,nextcloud/server,PHP,2219
 2889328,WordPress/WordPress,PHP,138
 1548202,matomo-org/matomo,PHP,140
 49014795,phpstan/phpstan,PHP,118
 42480275,spatie/laravel-permission,PHP,152
-2699935,squizlabs/PHP_CodeSniffer,PHP,69
-11340559,deployphp/deployer,PHP,61
+2699935,squizlabs/PHP_CodeSniffer,PHP,68
+11340559,deployphp/deployer,PHP,62
 6660366,dompdf/dompdf,PHP,84
-11467667,typecho/typecho,PHP,127
+11467667,typecho/typecho,PHP,128
 12166778,googleapis/google-api-php-client,PHP,67
-6763587,PrestaShop/PrestaShop,PHP,54
+6763587,PrestaShop/PrestaShop,PHP,55
 4565995,phpseclib/phpseclib,PHP,73
 97311017,rectorphp/rector,PHP,122
 74386167,vimeo/psalm,PHP,73
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,67
 17253775,zabbix/zabbix,PHP,68
 111562942,statamic/cms,PHP,90
-374132359,krayin/laravel-crm,PHP,382
+374132359,krayin/laravel-crm,PHP,383
