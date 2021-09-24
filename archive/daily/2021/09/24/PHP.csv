@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1548202,matomo-org/matomo,PHP,6
 1631570,nikic/PHP-Parser,PHP,5
-12615154,barryvdh/laravel-debugbar,PHP,5
+12615154,barryvdh/laravel-debugbar,PHP,4
 61490598,PHPOffice/PhpSpreadsheet,PHP,7
-10157178,egulias/EmailValidator,PHP,2
+10157178,egulias/EmailValidator,PHP,3
 42480275,spatie/laravel-permission,PHP,2
 597887,doctrine/orm,PHP,1
-212659,sebastianbergmann/php-code-coverage,PHP,3
-16238673,kanboard/kanboard,PHP,2
+212659,sebastianbergmann/php-code-coverage,PHP,4
+16238673,kanboard/kanboard,PHP,3
 6763587,PrestaShop/PrestaShop,PHP,3
 677467,doctrine/common,PHP,1
 97311017,rectorphp/rector,PHP,4
@@ -15,12 +15,12 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,3
 439861,moodle/moodle,PHP,4
 1398629,symfony/config,PHP,1
-19386515,spatie/browsershot,PHP,1
+19386515,spatie/browsershot,PHP,2
 47508644,pterodactyl/panel,PHP,5
 13044600,salesagility/SuiteCRM,PHP,3
 69691727,pmmp/PocketMine-MP,PHP,3
-141720301,dr5hn/countries-states-cities-database,PHP,11
+141720301,dr5hn/countries-states-cities-database,PHP,12
 17253775,zabbix/zabbix,PHP,1
-96462257,osiset/laravel-shopify,PHP,3
+96462257,osiset/laravel-shopify,PHP,4
 399209910,lepikhinb/laravel-fluent,PHP,21
 184538454,yankovalenko94/Webdev2019,PHP,0
