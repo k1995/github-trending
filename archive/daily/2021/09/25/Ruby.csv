@@ -1,6 +1,6 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,3
-27442967,fastlane/fastlane,Ruby,8
+27442967,fastlane/fastlane,Ruby,7
 2293158,rapid7/metasploit-framework,Ruby,11
 481872,hashicorp/vagrant,Ruby,9
 73648678,forem/forem,Ruby,7
@@ -8,9 +8,9 @@ id,name,lang,new stars
 2336578,twbs/bootstrap-sass,Ruby,0
 1090311,elastic/logstash,Ruby,3
 3195124,mperham/sidekiq,Ruby,3
-202291859,chatwoot/chatwoot,Ruby,138
+202291859,chatwoot/chatwoot,Ruby,155
 1918677,fluent/fluentd,Ruby,3
-96395,faker-ruby/faker,Ruby,3
+96395,faker-ruby/faker,Ruby,4
 21829,thoughtbot/factory_bot,Ruby,1
 22059578,ankane/pghero,Ruby,2
 2889230,rails-api/active_model_serializers,Ruby,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 5144181,jnunemaker/flipper,Ruby,0
 200302808,github/view_component,Ruby,0
 9831101,elastic/elasticsearch-ruby,Ruby,0
-34840276,elastic/ansible-elasticsearch,Ruby,2
+34840276,elastic/ansible-elasticsearch,Ruby,4
 56942570,Homebrew/linuxbrew-core,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 48370306,elastic/ansible-beats,Ruby,0

@@ -1,15 +1,15 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,4
-1420053,guzzle/guzzle,PHP,6
+458058,symfony/symfony,PHP,5
+1420053,guzzle/guzzle,PHP,2
 448045,sebastianbergmann/phpunit,PHP,2
-2253830,PHPMailer/PHPMailer,PHP,6
-5724990,briannesbitt/Carbon,PHP,3
+2253830,PHPMailer/PHPMailer,PHP,4
+5724990,briannesbitt/Carbon,PHP,2
 3431193,yiisoft/yii2,PHP,2
-12615154,barryvdh/laravel-debugbar,PHP,8
+12615154,barryvdh/laravel-debugbar,PHP,5
 4916869,ramsey/uuid,PHP,2
 61490598,PHPOffice/PhpSpreadsheet,PHP,3
-2699935,squizlabs/PHP_CodeSniffer,PHP,3
-11340559,deployphp/deployer,PHP,7
+2699935,squizlabs/PHP_CodeSniffer,PHP,2
+11340559,deployphp/deployer,PHP,6
 212659,sebastianbergmann/php-code-coverage,PHP,2
 12166778,googleapis/google-api-php-client,PHP,1
 2179920,woocommerce/woocommerce,PHP,2
@@ -18,9 +18,9 @@ id,name,lang,new stars
 9826184,elastic/elasticsearch-php,PHP,2
 76064827,mailcow/mailcow-dockerized,PHP,6
 439861,moodle/moodle,PHP,2
-41463886,codeigniter4/CodeIgniter4,PHP,1
+41463886,codeigniter4/CodeIgniter4,PHP,0
 32482750,phpro/grumphp,PHP,5
 182349597,jqhph/dcat-admin,PHP,1
-330980599,yanfeizhang/coder-kung-fu,PHP,5
+330980599,yanfeizhang/coder-kung-fu,PHP,6
 96462257,osiset/laravel-shopify,PHP,1
-260729799,knuckleswtf/scribe,PHP,2
+260729799,knuckleswtf/scribe,PHP,3
