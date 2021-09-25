@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3774328,wg/wrk,C,10
-569041,curl/curl,C,6
+3774328,wg/wrk,C,9
+569041,curl/curl,C,11
 1357796,emscripten-core/emscripten,C,4
 102578345,coolsnowwolf/lede,C,16
 95879426,Tencent/ncnn,C,5
-63477515,TheAlgorithms/C,C,36
+63477515,TheAlgorithms/C,C,32
 5254557,cloudwu/skynet,C,1
 45821540,openwrt/openwrt,C,6
 179354282,acidanthera/OpenCorePkg,C,2
 1856976,libevent/libevent,C,2
 5414488,cesanta/mongoose,C,7
 75811015,Tencent/xLua,C,2
-60667730,lvgl/lvgl,C,7
+60667730,lvgl/lvgl,C,8
 13310527,jemalloc/jemalloc,C,4
 97556265,catboost/catboost,C,1
 16734696,meetecho/janus-gateway,C,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 5805256,lua/lua,C,1
 537699,Kitware/CMake,C,1
 6687936,ARMmbed/mbedtls,C,0
-6331631,axboe/fio,C,5
-5410234,OISF/suricata,C,1
-213346952,cesanta/elk,C,118
-409642174,flatz/pkg_pfs_tool,C,4
+6331631,axboe/fio,C,3
+5410234,OISF/suricata,C,3
+213346952,cesanta/elk,C,110
+409642174,flatz/pkg_pfs_tool,C,2
