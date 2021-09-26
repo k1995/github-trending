@@ -3,14 +3,14 @@ id,name,lang,new stars
 17803236,rclone/rclone,Go,8
 8989842,unknwon/the-way-to-go_ZH_CN,Go,128
 56353740,kubernetes/minikube,Go,9
-181461073,v2fly/v2ray-core,Go,22
+181461073,v2fly/v2ray-core,Go,20
 153099672,inancgumus/learngo,Go,10
 36653430,hashicorp/nomad,Go,127
 158645957,OpenDiablo2/OpenDiablo2,Go,2
 65434192,tidwall/gjson,Go,14
 62712899,AdguardTeam/AdGuardHome,Go,14
-136505169,tinygo-org/tinygo,Go,23
-311315731,XTLS/Xray-core,Go,15
+136505169,tinygo-org/tinygo,Go,14
+311315731,XTLS/Xray-core,Go,14
 154643390,sundowndev/phoneinfoga,Go,9
 49765480,lightningnetwork/lnd,Go,3
 150954997,VictoriaMetrics/VictoriaMetrics,Go,80
@@ -19,7 +19,7 @@ id,name,lang,new stars
 248025303,p4gefau1t/trojan-go,Go,5
 281765424,microsoft/CBL-Mariner,Go,2
 357885318,datreeio/datree,Go,1370
-258469100,fluxcd/flux2,Go,7
+258469100,fluxcd/flux2,Go,6
 216103835,v2rayA/v2rayA,Go,7
 145102495,ElrondNetwork/elrond-go,Go,3
 181355200,reugn/go-quartz,Go,28
