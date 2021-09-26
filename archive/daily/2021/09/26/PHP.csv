@@ -1,16 +1,16 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,1
-1420053,guzzle/guzzle,PHP,5
-60243197,nextcloud/server,PHP,5
+1420053,guzzle/guzzle,PHP,6
+60243197,nextcloud/server,PHP,6
 10157178,egulias/EmailValidator,PHP,0
 2884111,magento/magento2,PHP,3
-79111500,jupeter/clean-code-php,PHP,3
+79111500,jupeter/clean-code-php,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,1
 11340559,deployphp/deployer,PHP,4
 37216840,phpDocumentor/TypeResolver,PHP,0
 6660366,dompdf/dompdf,PHP,1
 1398648,symfony/http-foundation,PHP,0
-7550057,doctrine/cache,PHP,2
+7550057,doctrine/cache,PHP,0
 6763587,PrestaShop/PrestaShop,PHP,2
 4551765,thephpleague/oauth2-server,PHP,0
 4242230,PHPOffice/PHPWord,PHP,0
@@ -19,8 +19,8 @@ id,name,lang,new stars
 677467,doctrine/common,PHP,0
 70288750,symfony/flex,PHP,0
 32482750,phpro/grumphp,PHP,1
-350018351,laravel/octane,PHP,1
-182349597,jqhph/dcat-admin,PHP,0
+350018351,laravel/octane,PHP,2
+182349597,jqhph/dcat-admin,PHP,1
 69691727,pmmp/PocketMine-MP,PHP,2
-281640234,5ime/video_spider,PHP,0
-275778855,protonemedia/laravel-cross-eloquent-search,PHP,27
+281640234,5ime/video_spider,PHP,1
+275778855,protonemedia/laravel-cross-eloquent-search,PHP,28
