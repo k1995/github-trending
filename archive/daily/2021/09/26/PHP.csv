@@ -3,8 +3,8 @@ id,name,lang,new stars
 1420053,guzzle/guzzle,PHP,4
 60243197,nextcloud/server,PHP,5
 10157178,egulias/EmailValidator,PHP,1
-2884111,magento/magento2,PHP,2
-79111500,jupeter/clean-code-php,PHP,2
+2884111,magento/magento2,PHP,3
+79111500,jupeter/clean-code-php,PHP,3
 2699935,squizlabs/PHP_CodeSniffer,PHP,1
 11340559,deployphp/deployer,PHP,4
 37216840,phpDocumentor/TypeResolver,PHP,1
@@ -16,7 +16,7 @@ id,name,lang,new stars
 4242230,PHPOffice/PHPWord,PHP,0
 16685462,humhub/humhub,PHP,3
 6269013,aws/aws-sdk-php,PHP,1
-677467,doctrine/common,PHP,1
+677467,doctrine/common,PHP,0
 70288750,symfony/flex,PHP,0
 32482750,phpro/grumphp,PHP,2
 350018351,laravel/octane,PHP,1
