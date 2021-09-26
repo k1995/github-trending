@@ -1,19 +1,19 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,52
-1420053,guzzle/guzzle,PHP,31
+1420053,guzzle/guzzle,PHP,32
 1376664,Seldaek/monolog,PHP,26
-2253830,PHPMailer/PHPMailer,PHP,25
+2253830,PHPMailer/PHPMailer,PHP,24
 2889328,WordPress/WordPress,PHP,29
 1631570,nikic/PHP-Parser,PHP,35
-82238168,monicahq/monica,PHP,37
+82238168,monicahq/monica,PHP,38
 12615154,barryvdh/laravel-debugbar,PHP,43
-8708394,filp/whoops,PHP,22
+8708394,filp/whoops,PHP,21
 23680678,tymondesigns/jwt-auth,PHP,17
-11340559,deployphp/deployer,PHP,23
+11340559,deployphp/deployer,PHP,25
 212659,sebastianbergmann/php-code-coverage,PHP,14
 330275,twigphp/Twig,PHP,13
-2179920,woocommerce/woocommerce,PHP,17
-2141186,opencart/opencart,PHP,12
+2179920,woocommerce/woocommerce,PHP,18
+2141186,opencart/opencart,PHP,11
 6269013,aws/aws-sdk-php,PHP,14
 14346979,snipe/snipe-it,PHP,13
 95011974,akaunting/akaunting,PHP,57
@@ -21,6 +21,6 @@ id,name,lang,new stars
 47508644,pterodactyl/panel,PHP,29
 13044600,salesagility/SuiteCRM,PHP,9
 69691727,pmmp/PocketMine-MP,PHP,18
-374132359,krayin/laravel-crm,PHP,217
-380196780,maccmspro/maccms10,PHP,58
+374132359,krayin/laravel-crm,PHP,214
+380196780,maccmspro/maccms10,PHP,57
 128732084,woocommerce/woocommerce-admin,PHP,0

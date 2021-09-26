@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,2024
+2325298,torvalds/linux,C,2019
 111583593,Genymobile/scrcpy,C,1608
-7634677,openssl/openssl,C,299
+7634677,openssl/openssl,C,300
 95133665,s-matyukevich/raspberry-pi-os,C,249
-63477515,TheAlgorithms/C,C,610
-45821540,openwrt/openwrt,C,328
+63477515,TheAlgorithms/C,C,619
+45821540,openwrt/openwrt,C,330
 927442,postgres/postgres,C,159
 3199002,raspberrypi/linux,C,116
 179354282,acidanthera/OpenCorePkg,C,296
@@ -12,15 +12,15 @@ id,name,lang,new stars
 7715820,davatorium/rofi,C,251
 54280778,DaveGamble/cJSON,C,170
 3349840,hak5darren/USB-Rubber-Ducky,C,196
-59771425,zephyrproject-rtos/zephyr,C,115
-40504480,mit-pdos/xv6-public,C,102
+59771425,zephyrproject-rtos/zephyr,C,114
+40504480,mit-pdos/xv6-public,C,101
 59676171,Klipper3d/klipper,C,169
-114948816,uber/h3,C,128
+114948816,uber/h3,C,129
 131710328,CTCaer/hekate,C,199
 198869255,google/AFL,C,80
-194269070,skyline-emu/skyline,C,461
+194269070,skyline-emu/skyline,C,428
 204459250,mit-pdos/xv6-riscv,C,111
-222187361,dankamongmen/notcurses,C,534
+222187361,dankamongmen/notcurses,C,533
 385037052,ahrm/sioyek,C,445
-284134871,flipperdevices/flipperzero-firmware,C,493
+284134871,flipperdevices/flipperzero-firmware,C,492
 180590388,trezor/trezor-firmware,C,26
