@@ -1,18 +1,18 @@
 id,name,lang,new stars
 13233158,obsproject/obs-studio,C,20
 74627617,commaai/openpilot,C,4
-246335987,ventoy/Ventoy,C,29
+246335987,ventoy/Ventoy,C,26
 1357796,emscripten-core/emscripten,C,1
 102578345,coolsnowwolf/lede,C,12
-6201092,mpv-player/mpv,C,12
-63477515,TheAlgorithms/C,C,26
+6201092,mpv-player/mpv,C,14
+63477515,TheAlgorithms/C,C,22
 27737393,qmk/qmk_firmware,C,6
 45821540,openwrt/openwrt,C,8
 40217904,swaywm/sway,C,11
 3299208,videolan/vlc,C,2
 35930805,EZLippi/Tinyhttpd,C,5
 32921736,audacity/audacity,C,6
-5383731,qemu/qemu,C,5
+5383731,qemu/qemu,C,4
 40504480,mit-pdos/xv6-public,C,3
 68082730,Ralim/IronOS,C,2
 59676171,Klipper3d/klipper,C,6
@@ -20,7 +20,7 @@ id,name,lang,new stars
 11233590,coreutils/coreutils,C,5
 330008801,libsdl-org/SDL,C,3
 3374554,landley/toybox,C,73
-213346952,cesanta/elk,C,86
-331381105,raspberrypi/pico-examples,C,1
+213346952,cesanta/elk,C,142
+331381105,raspberrypi/pico-examples,C,0
 401256895,google/hiba,C,134
-306672101,TUDSSL/BFree,C,13
+306672101,TUDSSL/BFree,C,16

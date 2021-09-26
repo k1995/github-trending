@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,67
-65252,jekyll/jekyll,Ruby,41
-7569578,discourse/discourse,Ruby,62
+8514,rails/rails,Ruby,65
+65252,jekyll/jekyll,Ruby,40
+7569578,discourse/discourse,Ruby,60
 27442967,fastlane/fastlane,Ruby,48
-53238813,Homebrew/brew,Ruby,82
-13840241,freeCodeCamp/devdocs,Ruby,63
-2293158,rapid7/metasploit-framework,Ruby,64
-481872,hashicorp/vagrant,Ruby,41
+53238813,Homebrew/brew,Ruby,79
+13840241,freeCodeCamp/devdocs,Ruby,61
+2293158,rapid7/metasploit-framework,Ruby,68
+481872,hashicorp/vagrant,Ruby,42
 308770,heartcombo/devise,Ruby,25
 1090311,elastic/logstash,Ruby,15
 4095287,rubocop/rubocop,Ruby,16
@@ -14,12 +14,12 @@ id,name,lang,new stars
 18486300,lewagon/setup,Ruby,63
 202291859,chatwoot/chatwoot,Ruby,570
 96395,faker-ruby/faker,Ruby,16
-21829,thoughtbot/factory_bot,Ruby,5
-2441517,puma/puma,Ruby,15
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,35
+21829,thoughtbot/factory_bot,Ruby,4
+2441517,puma/puma,Ruby,13
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,38
 1548802,activerecord-hackery/ransack,Ruby,9
 30985840,solidusio/solidus,Ruby,12
-52316423,luggit/react-native-config,Ruby,13
+52316423,luggit/react-native-config,Ruby,12
 3898922,zammad/zammad,Ruby,17
 103766152,github/explore,Ruby,23
 43709699,microsoft/OMS-Agent-for-Linux,Ruby,8
