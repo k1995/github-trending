@@ -1,19 +1,19 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,79
-161012019,jellyfin/jellyfin,C#,62
+17620347,dotnet/aspnetcore,C#,80
+161012019,jellyfin/jellyfin,C#,63
 28239455,dotnet/AspNetCore.Docs,C#,20
 46755185,bitwarden/server,C#,41
 22456440,ppy/osu,C#,64
-210716005,dotnet/runtime,C#,76
+210716005,dotnet/runtime,C#,77
 64753043,Perfare/AssetStudio,C#,41
-213460285,jasontaylordev/CleanArchitecture,C#,54
+213460285,jasontaylordev/CleanArchitecture,C#,53
 135050219,TGSAN/CMWTAT_Digital_Edition,C#,184
 203892454,kgrzybek/modular-monolith-with-ddd,C#,35
-189676777,JasonStein/Notepads,C#,50
-152370823,davidfowl/AspNetCoreDiagnosticScenarios,C#,521
+189676777,JasonStein/Notepads,C#,49
+152370823,davidfowl/AspNetCoreDiagnosticScenarios,C#,533
 19216825,xamarin/xamarin-forms-samples,C#,10
 243854166,dotnet/tye,C#,12
-304230333,BluePointLilac/ContextMenuManager,C#,97
+304230333,BluePointLilac/ContextMenuManager,C#,98
 2928944,Azure/azure-sdk-for-net,C#,15
 166270225,dotnet-presentations/blazor-workshop,C#,21
 184286875,actions/runner,C#,30
@@ -23,4 +23,4 @@ id,name,lang,new stars
 254354309,Richasy/BiliBili-UWP,C#,61
 274175324,iammukeshm/CleanArchitecture.WebApi,C#,25
 181356258,aspnetrun/run-aspnetcore-microservices,C#,20
-398181340,fullstackhero/dotnet-webapi-boilerplate,C#,40
+398181340,fullstackhero/dotnet-webapi-boilerplate,C#,41

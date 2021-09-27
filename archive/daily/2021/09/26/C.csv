@@ -3,8 +3,8 @@ id,name,lang,new stars
 74627617,commaai/openpilot,C,4
 246335987,ventoy/Ventoy,C,26
 1357796,emscripten-core/emscripten,C,1
-102578345,coolsnowwolf/lede,C,12
-6201092,mpv-player/mpv,C,14
+102578345,coolsnowwolf/lede,C,11
+6201092,mpv-player/mpv,C,13
 63477515,TheAlgorithms/C,C,22
 27737393,qmk/qmk_firmware,C,6
 45821540,openwrt/openwrt,C,8
@@ -13,7 +13,7 @@ id,name,lang,new stars
 35930805,EZLippi/Tinyhttpd,C,5
 32921736,audacity/audacity,C,6
 5383731,qemu/qemu,C,4
-40504480,mit-pdos/xv6-public,C,3
+40504480,mit-pdos/xv6-public,C,1
 68082730,Ralim/IronOS,C,2
 59676171,Klipper3d/klipper,C,6
 108568638,hanwckf/rt-n56u,C,2
