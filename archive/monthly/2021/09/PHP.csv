@@ -1,12 +1,12 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,653
+3482588,danielmiessler/SecLists,PHP,652
 458058,symfony/symfony,PHP,155
 7548986,laravel/framework,PHP,249
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,142
-448045,sebastianbergmann/phpunit,PHP,80
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,143
+448045,sebastianbergmann/phpunit,PHP,79
 60243197,nextcloud/server,PHP,2226
-2889328,WordPress/WordPress,PHP,132
-1548202,matomo-org/matomo,PHP,131
+2889328,WordPress/WordPress,PHP,131
+1548202,matomo-org/matomo,PHP,130
 82238168,monicahq/monica,PHP,150
 8708394,filp/whoops,PHP,64
 49014795,phpstan/phpstan,PHP,116
@@ -23,4 +23,4 @@ id,name,lang,new stars
 351298555,thedevdojo/wave,PHP,132
 75645659,WordPress/wordpress-develop,PHP,41
 374132359,krayin/laravel-crm,PHP,386
-380196780,maccmspro/maccms10,PHP,159
+380196780,maccmspro/maccms10,PHP,160
