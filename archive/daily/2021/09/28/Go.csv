@@ -1,17 +1,17 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,34
+20580498,kubernetes/kubernetes,Go,35
 6838921,prometheus/prometheus,Go,24
-5271882,astaxie/build-web-application-with-golang,Go,20
+5271882,astaxie/build-web-application-with-golang,Go,21
 15452919,ethereum/go-ethereum,Go,25
-41986369,pingcap/tidb,Go,12
-8989842,unknwon/the-way-to-go_ZH_CN,Go,74
-31504491,labstack/echo,Go,16
-97533102,halfrost/LeetCode-Go,Go,41
+41986369,pingcap/tidb,Go,13
+8989842,unknwon/the-way-to-go_ZH_CN,Go,68
+31504491,labstack/echo,Go,17
+97533102,halfrost/LeetCode-Go,Go,43
 156084530,ehang-io/nps,Go,15
 119160553,photoprism/photoprism,Go,16
 66573241,hyperledger/fabric,Go,9
 21233191,ipfs/go-ipfs,Go,5
-181461073,v2fly/v2ray-core,Go,20
+181461073,v2fly/v2ray-core,Go,19
 205679232,flipped-aurora/gin-vue-admin,Go,55
 201658460,geektutu/7days-golang,Go,14
 208728772,milvus-io/milvus,Go,18
@@ -19,7 +19,7 @@ id,name,lang,new stars
 95761244,gogf/gf,Go,14
 154643390,sundowndev/phoneinfoga,Go,3
 197914161,drakkan/sftpgo,Go,6
-357885318,datreeio/datree,Go,181
+357885318,datreeio/datree,Go,182
 203927039,xinliangnote/go-gin-api,Go,4
 173227087,gin-gonic/examples,Go,2
 286729329,zu1k/proxypool,Go,7
