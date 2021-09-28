@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
-2293158,rapid7/metasploit-framework,Ruby,9
+8514,rails/rails,Ruby,8
+2293158,rapid7/metasploit-framework,Ruby,11
 2500088,gitlabhq/gitlabhq,Ruby,1
-481872,hashicorp/vagrant,Ruby,5
-308770,heartcombo/devise,Ruby,4
+481872,hashicorp/vagrant,Ruby,7
+308770,heartcombo/devise,Ruby,3
 1090311,elastic/logstash,Ruby,1
-4095287,rubocop/rubocop,Ruby,3
-52855516,Homebrew/homebrew-core,Ruby,8
+4095287,rubocop/rubocop,Ruby,2
+52855516,Homebrew/homebrew-core,Ruby,6
 812393,ruby-grape/grape,Ruby,1
 611921,activeadmin/activeadmin,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,0
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1172597,thoughtbot/shoulda-matchers,Ruby,0
 14238949,elastic/elasticsearch-rails,Ruby,2
 9831101,elastic/elasticsearch-ruby,Ruby,1
-1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,2
-502760,danbooru/danbooru,Ruby,1
+1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,0
+502760,danbooru/danbooru,Ruby,2
 6968490,elastic/puppet-elasticsearch,Ruby,0
-410458386,dogweather/asset_ram,Ruby,6
+410458386,dogweather/asset_ram,Ruby,4
