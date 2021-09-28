@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,68
-65252,jekyll/jekyll,Ruby,41
-7569578,discourse/discourse,Ruby,51
+65252,jekyll/jekyll,Ruby,42
+7569578,discourse/discourse,Ruby,50
 27442967,fastlane/fastlane,Ruby,47
-53238813,Homebrew/brew,Ruby,88
-13840241,freeCodeCamp/devdocs,Ruby,60
+53238813,Homebrew/brew,Ruby,87
+13840241,freeCodeCamp/devdocs,Ruby,59
 2293158,rapid7/metasploit-framework,Ruby,78
-481872,hashicorp/vagrant,Ruby,41
-308770,heartcombo/devise,Ruby,21
+481872,hashicorp/vagrant,Ruby,42
+308770,heartcombo/devise,Ruby,23
 73648678,forem/forem,Ruby,24
 4095287,rubocop/rubocop,Ruby,17
 3195124,mperham/sidekiq,Ruby,15
@@ -17,7 +17,7 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,3
 2441517,puma/puma,Ruby,7
 26018608,github-changelog-generator/github-changelog-generator,Ruby,10
-22059578,ankane/pghero,Ruby,18
+22059578,ankane/pghero,Ruby,19
 1548802,activerecord-hackery/ransack,Ruby,9
 30985840,solidusio/solidus,Ruby,13
 103766152,github/explore,Ruby,24
