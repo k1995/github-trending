@@ -1,21 +1,21 @@
 id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,750
-5108051,opencv/opencv,C++,711
+5108051,opencv/opencv,C++,712
 65600975,pytorch/pytorch,C++,754
-15634981,godotengine/godot,C++,1071
+15634981,godotengine/godot,C++,1072
 108110,mongodb/mongo,C++,192
-31522041,vnpy/vnpy,C++,608
-63477612,TheAlgorithms/C-Plus-Plus,C++,2024
-196813750,Light-City/CPlusPlusThings,C++,920
-40892817,ethereum/solidity,C++,468
+31522041,vnpy/vnpy,C++,607
+63477612,TheAlgorithms/C-Plus-Plus,C++,2025
+196813750,Light-City/CPlusPlusThings,C++,919
+40892817,ethereum/solidity,C++,469
 143455116,google/filament,C++,300
-3925242,bkaradzic/bgfx,C++,211
+3925242,bkaradzic/bgfx,C++,210
 104231541,abseil/abseil-cpp,C++,382
-117948953,Atmosphere-NX/Atmosphere,C++,845
+117948953,Atmosphere-NX/Atmosphere,C++,846
 186847792,GTAmodding/re3,C++,1127
-76990209,Aircoookie/WLED,C++,374
+76990209,Aircoookie/WLED,C++,376
 146459443,vesoft-inc/nebula,C++,141
-153866232,TheCherno/Hazel,C++,239
+153866232,TheCherno/Hazel,C++,240
 346871538,microsoft/wslg,C++,1377
 35129809,transmission/transmission,C++,255
 283410102,sogou/workflow,C++,623
@@ -23,4 +23,4 @@ id,name,lang,new stars
 128479644,esphome/esphome,C++,433
 189205663,qinguoyi/TinyWebServer,C++,264
 145406928,RikkaApps/Riru,C++,153
-384850873,geemion/Khepri,C++,1012
+384850873,geemion/Khepri,C++,1011

@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1971
-36836475,tmux/tmux,C,394
-569041,curl/curl,C,331
-20159867,nothings/stb,C,267
+2325298,torvalds/linux,C,1967
+36836475,tmux/tmux,C,393
+569041,curl/curl,C,330
+20159867,nothings/stb,C,268
 7634677,openssl/openssl,C,295
 95133665,s-matyukevich/raspberry-pi-os,C,255
 63477515,TheAlgorithms/C,C,647
 45821540,openwrt/openwrt,C,329
-40217904,swaywm/sway,C,185
-179354282,acidanthera/OpenCorePkg,C,294
+40217904,swaywm/sway,C,187
+179354282,acidanthera/OpenCorePkg,C,292
 21294600,huangz1990/redis-3.0-annotated,C,233
 7715820,davatorium/rofi,C,255
 437011,openzfs/zfs,C,100
 54280778,DaveGamble/cJSON,C,160
-59771425,zephyrproject-rtos/zephyr,C,110
+59771425,zephyrproject-rtos/zephyr,C,111
 40504480,mit-pdos/xv6-public,C,101
 59676171,Klipper3d/klipper,C,174
 114948816,uber/h3,C,133
@@ -22,5 +22,5 @@ id,name,lang,new stars
 198869255,google/AFL,C,84
 204459250,mit-pdos/xv6-riscv,C,110
 222187361,dankamongmen/notcurses,C,537
-284134871,flipperdevices/flipperzero-firmware,C,483
+284134871,flipperdevices/flipperzero-firmware,C,484
 180590388,trezor/trezor-firmware,C,28
