@@ -1,6 +1,6 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,17
-7548986,laravel/framework,PHP,48
+7548986,laravel/framework,PHP,44
 1420053,guzzle/guzzle,PHP,32
 1376664,Seldaek/monolog,PHP,31
 2253830,PHPMailer/PHPMailer,PHP,32
@@ -11,16 +11,16 @@ id,name,lang,new stars
 11340559,deployphp/deployer,PHP,22
 2179920,woocommerce/woocommerce,PHP,22
 3217621,phpmyadmin/phpmyadmin,PHP,14
-6269013,aws/aws-sdk-php,PHP,13
+6269013,aws/aws-sdk-php,PHP,14
 11935508,RSS-Bridge/rss-bridge,PHP,89
 29126334,EasyCorp/EasyAdminBundle,PHP,8
-119047018,linuxserver/Heimdall,PHP,24
+119047018,linuxserver/Heimdall,PHP,23
 350018351,laravel/octane,PHP,27
 47508644,pterodactyl/panel,PHP,25
-69691727,pmmp/PocketMine-MP,PHP,19
-286645686,yuantuo666/baiduwp-php,PHP,43
+69691727,pmmp/PocketMine-MP,PHP,18
+286645686,yuantuo666/baiduwp-php,PHP,44
 39182755,glpi-project/glpi,PHP,9
 96462257,osiset/laravel-shopify,PHP,10
-374132359,krayin/laravel-crm,PHP,53
-380196780,maccmspro/maccms10,PHP,63
-399209910,lepikhinb/laravel-fluent,PHP,123
+374132359,krayin/laravel-crm,PHP,54
+380196780,maccmspro/maccms10,PHP,62
+399209910,lepikhinb/laravel-fluent,PHP,122
