@@ -1,13 +1,12 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,1962
-36836475,tmux/tmux,C,396
-569041,curl/curl,C,330
+569041,curl/curl,C,332
 20159867,nothings/stb,C,270
-7634677,openssl/openssl,C,301
+7634677,openssl/openssl,C,304
 95133665,s-matyukevich/raspberry-pi-os,C,256
-63477515,TheAlgorithms/C,C,678
+63477515,TheAlgorithms/C,C,691
 45821540,openwrt/openwrt,C,330
-40217904,swaywm/sway,C,187
+927442,postgres/postgres,C,165
 179354282,acidanthera/OpenCorePkg,C,292
 21294600,huangz1990/redis-3.0-annotated,C,237
 7715820,davatorium/rofi,C,255
@@ -15,12 +14,13 @@ id,name,lang,new stars
 54280778,DaveGamble/cJSON,C,160
 59771425,zephyrproject-rtos/zephyr,C,113
 40504480,mit-pdos/xv6-public,C,100
-59676171,Klipper3d/klipper,C,178
+59676171,Klipper3d/klipper,C,180
 114948816,uber/h3,C,134
 131710328,CTCaer/hekate,C,209
-146397768,ithewei/libhv,C,246
+146397768,ithewei/libhv,C,248
 198869255,google/AFL,C,86
+5410234,OISF/suricata,C,57
+194269070,skyline-emu/skyline,C,372
 204459250,mit-pdos/xv6-riscv,C,113
-222187361,dankamongmen/notcurses,C,537
-284134871,flipperdevices/flipperzero-firmware,C,484
+222187361,dankamongmen/notcurses,C,538
 180590388,trezor/trezor-firmware,C,29
