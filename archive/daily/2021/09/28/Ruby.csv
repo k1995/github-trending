@@ -8,7 +8,7 @@ id,name,lang,new stars
 4095287,rubocop/rubocop,Ruby,1
 52855516,Homebrew/homebrew-core,Ruby,7
 812393,ruby-grape/grape,Ruby,1
-611921,activeadmin/activeadmin,Ruby,1
+611921,activeadmin/activeadmin,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,0
 910744,puppetlabs/puppet,Ruby,1
 2889230,rails-api/active_model_serializers,Ruby,0
@@ -18,8 +18,8 @@ id,name,lang,new stars
 447184,rspec/rspec-rails,Ruby,0
 18294,activemerchant/active_merchant,Ruby,0
 1172597,thoughtbot/shoulda-matchers,Ruby,0
-14238949,elastic/elasticsearch-rails,Ruby,3
-9831101,elastic/elasticsearch-ruby,Ruby,1
+14238949,elastic/elasticsearch-rails,Ruby,4
+9831101,elastic/elasticsearch-ruby,Ruby,0
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,0
 502760,danbooru/danbooru,Ruby,2
 6968490,elastic/puppet-elasticsearch,Ruby,0
