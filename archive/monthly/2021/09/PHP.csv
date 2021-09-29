@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,656
+3482588,danielmiessler/SecLists,PHP,657
 2579314,fzaninotto/Faker,PHP,103
 458058,symfony/symfony,PHP,155
 7548986,laravel/framework,PHP,249
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,145
 448045,sebastianbergmann/phpunit,PHP,79
-60243197,nextcloud/server,PHP,2015
+60243197,nextcloud/server,PHP,1983
 2889328,WordPress/WordPress,PHP,131
-1548202,matomo-org/matomo,PHP,131
-82238168,monicahq/monica,PHP,149
+1548202,matomo-org/matomo,PHP,129
+82238168,monicahq/monica,PHP,148
 8708394,filp/whoops,PHP,65
 49014795,phpstan/phpstan,PHP,116
-2884111,magento/magento2,PHP,62
+2884111,magento/magento2,PHP,61
 2699935,squizlabs/PHP_CodeSniffer,PHP,67
 11340559,deployphp/deployer,PHP,72
 6660366,dompdf/dompdf,PHP,83
@@ -20,7 +20,7 @@ id,name,lang,new stars
 4565995,phpseclib/phpseclib,PHP,65
 97311017,rectorphp/rector,PHP,118
 119047018,linuxserver/Heimdall,PHP,101
-351298555,thedevdojo/wave,PHP,133
+351298555,thedevdojo/wave,PHP,132
 1957456,Dolibarr/dolibarr,PHP,65
-75645659,WordPress/wordpress-develop,PHP,43
-380196780,maccmspro/maccms10,PHP,172
+75645659,WordPress/wordpress-develop,PHP,42
+380196780,maccmspro/maccms10,PHP,173
