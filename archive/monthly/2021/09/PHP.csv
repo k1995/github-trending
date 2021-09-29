@@ -1,11 +1,11 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,654
-2579314,fzaninotto/Faker,PHP,103
+3482588,danielmiessler/SecLists,PHP,657
+2579314,fzaninotto/Faker,PHP,102
 458058,symfony/symfony,PHP,154
-7548986,laravel/framework,PHP,248
+7548986,laravel/framework,PHP,249
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,145
 448045,sebastianbergmann/phpunit,PHP,79
-60243197,nextcloud/server,PHP,2069
+60243197,nextcloud/server,PHP,2050
 2889328,WordPress/WordPress,PHP,131
 1548202,matomo-org/matomo,PHP,131
 82238168,monicahq/monica,PHP,149
@@ -14,8 +14,8 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,62
 2699935,squizlabs/PHP_CodeSniffer,PHP,68
 11340559,deployphp/deployer,PHP,72
-6660366,dompdf/dompdf,PHP,82
-12166778,googleapis/google-api-php-client,PHP,65
+6660366,dompdf/dompdf,PHP,83
+12166778,googleapis/google-api-php-client,PHP,64
 6763587,PrestaShop/PrestaShop,PHP,57
 4565995,phpseclib/phpseclib,PHP,65
 97311017,rectorphp/rector,PHP,117

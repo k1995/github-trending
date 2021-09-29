@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,746
-5108051,opencv/opencv,C++,725
-65600975,pytorch/pytorch,C++,750
-15634981,godotengine/godot,C++,1066
-108110,mongodb/mongo,C++,196
+1181927,bitcoin/bitcoin,C++,744
+5108051,opencv/opencv,C++,724
+65600975,pytorch/pytorch,C++,751
+15634981,godotengine/godot,C++,1065
+108110,mongodb/mongo,C++,198
 31522041,vnpy/vnpy,C++,614
-63477612,TheAlgorithms/C-Plus-Plus,C++,2047
-196813750,Light-City/CPlusPlusThings,C++,916
+63477612,TheAlgorithms/C-Plus-Plus,C++,2044
+196813750,Light-City/CPlusPlusThings,C++,915
 18503721,facebook/yoga,C++,100
-40892817,ethereum/solidity,C++,490
+40892817,ethereum/solidity,C++,492
 143455116,google/filament,C++,293
 104231541,abseil/abseil-cpp,C++,382
 117948953,Atmosphere-NX/Atmosphere,C++,844
 9647856,zerotier/ZeroTierOne,C++,238
 186847792,GTAmodding/re3,C++,1132
-76990209,Aircoookie/WLED,C++,385
+76990209,Aircoookie/WLED,C++,386
 146459443,vesoft-inc/nebula,C++,148
 153866232,TheCherno/Hazel,C++,246
 346871538,microsoft/wslg,C++,1375
@@ -23,4 +23,4 @@ id,name,lang,new stars
 128479644,esphome/esphome,C++,435
 52882701,prusa3d/PrusaSlicer,C++,81
 189205663,qinguoyi/TinyWebServer,C++,321
-145406928,RikkaApps/Riru,C++,153
+145406928,RikkaApps/Riru,C++,154
