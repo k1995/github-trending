@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,13
-2293158,rapid7/metasploit-framework,Ruby,12
+8514,rails/rails,Ruby,12
+2293158,rapid7/metasploit-framework,Ruby,15
 2500088,gitlabhq/gitlabhq,Ruby,2
 481872,hashicorp/vagrant,Ruby,7
 308770,heartcombo/devise,Ruby,4
 1090311,elastic/logstash,Ruby,2
-4095287,rubocop/rubocop,Ruby,1
-52855516,Homebrew/homebrew-core,Ruby,8
+4095287,rubocop/rubocop,Ruby,2
+52855516,Homebrew/homebrew-core,Ruby,9
 812393,ruby-grape/grape,Ruby,1
 611921,activeadmin/activeadmin,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,0
