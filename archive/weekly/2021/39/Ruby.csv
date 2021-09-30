@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,66
-65252,jekyll/jekyll,Ruby,44
-27442967,fastlane/fastlane,Ruby,47
-53238813,Homebrew/brew,Ruby,84
-13840241,freeCodeCamp/devdocs,Ruby,64
-2293158,rapid7/metasploit-framework,Ruby,90
+8514,rails/rails,Ruby,64
+65252,jekyll/jekyll,Ruby,43
+27442967,fastlane/fastlane,Ruby,49
+53238813,Homebrew/brew,Ruby,85
+13840241,freeCodeCamp/devdocs,Ruby,63
+2293158,rapid7/metasploit-framework,Ruby,89
 481872,hashicorp/vagrant,Ruby,44
-73648678,forem/forem,Ruby,30
-1090311,elastic/logstash,Ruby,13
+73648678,forem/forem,Ruby,28
+1090311,elastic/logstash,Ruby,12
 4095287,rubocop/rubocop,Ruby,15
 18486300,lewagon/setup,Ruby,36
 202291859,chatwoot/chatwoot,Ruby,296
-96395,faker-ruby/faker,Ruby,11
+96395,faker-ruby/faker,Ruby,10
 611921,activeadmin/activeadmin,Ruby,9
-1548802,activerecord-hackery/ransack,Ruby,6
+1548802,activerecord-hackery/ransack,Ruby,7
 2185269,busyloop/lolcat,Ruby,23
 30985840,solidusio/solidus,Ruby,10
 14238949,elastic/elasticsearch-rails,Ruby,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 34840276,elastic/ansible-elasticsearch,Ruby,7
 238983,rspec/rspec-mocks,Ruby,1
 6968490,elastic/puppet-elasticsearch,Ruby,0
-43709699,microsoft/OMS-Agent-for-Linux,Ruby,8
+43709699,microsoft/OMS-Agent-for-Linux,Ruby,7
 353751959,learn-co-curriculum/phase-3-active-record-theater-work,Ruby,0
 388209199,learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker,Ruby,0
