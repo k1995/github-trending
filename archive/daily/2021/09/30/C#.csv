@@ -1,9 +1,9 @@
 id,name,lang,new stars
-262395224,dotnet/maui,C#,13
+262395224,dotnet/maui,C#,11
 12201538,aspnetboilerplate/aspnetboilerplate,C#,2
-120231691,Ryujinx/Ryujinx,C#,11
-9864166,App-vNext/Polly,C#,4
-791611,mono/mono,C#,3
+120231691,Ryujinx/Ryujinx,C#,10
+9864166,App-vNext/Polly,C#,5
+791611,mono/mono,C#,2
 46652227,IdentityServer/IdentityServer4,C#,7
 11920542,HangfireIO/Hangfire,C#,7
 75505125,abpframework/abp,C#,13
@@ -12,12 +12,12 @@ id,name,lang,new stars
 132453438,unoplatform/uno,C#,6
 35291446,itinance/react-native-fs,C#,2
 95366680,lucasg/Dependencies,C#,3
-321682465,SteamTools-Team/SteamTools,C#,26
+321682465,SteamTools-Team/SteamTools,C#,94
 2928944,Azure/azure-sdk-for-net,C#,2
 137433882,Unity-Technologies/arfoundation-samples,C#,2
 288428676,MudBlazor/MudBlazor,C#,6
 924562,rabbitmq/rabbitmq-dotnet-client,C#,0
-282637924,nilaoda/BBDown,C#,49
+282637924,nilaoda/BBDown,C#,50
 131026794,Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,1
 162993816,ntminer/NtMiner,C#,3
 27212980,stakira/OpenUtau,C#,6

@@ -1,7 +1,7 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,46
-23357588,protocolbuffers/protobuf,C++,14
-27729880,grpc/grpc,C++,7
+45717250,tensorflow/tensorflow,C++,44
+23357588,protocolbuffers/protobuf,C++,15
+27729880,grpc/grpc,C++,8
 23405758,google/leveldb,C++,12
 39840932,google/googletest,C++,15
 6934395,facebook/rocksdb,C++,11
@@ -15,12 +15,12 @@ id,name,lang,new stars
 8162615,PointCloudLibrary/pcl,C++,3
 15122806,google/benchmark,C++,3
 46374199,IntelRealSense/librealsense,C++,2
-15463953,duilib/duilib,C++,11
+15463953,duilib/duilib,C++,12
 189205663,qinguoyi/TinyWebServer,C++,24
 36781769,arvidn/libtorrent,C++,7
 15920273,supertuxkart/stk-code,C++,9
-365005377,aristocratos/btop,C++,107
+365005377,aristocratos/btop,C++,104
 24677392,CGAL/cgal,C++,3
-402945349,StarRocks/starrocks,C++,45
-23063680,easymodo/qimgv,C++,9
-410679652,mgeeky/ThreadStackSpoofer,C++,28
+402945349,StarRocks/starrocks,C++,46
+23063680,easymodo/qimgv,C++,10
+410679652,mgeeky/ThreadStackSpoofer,C++,64
