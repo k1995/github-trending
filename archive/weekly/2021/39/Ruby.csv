@@ -1,19 +1,19 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,68
-65252,jekyll/jekyll,Ruby,42
-27442967,fastlane/fastlane,Ruby,47
-53238813,Homebrew/brew,Ruby,91
-13840241,freeCodeCamp/devdocs,Ruby,61
+65252,jekyll/jekyll,Ruby,44
+27442967,fastlane/fastlane,Ruby,46
+53238813,Homebrew/brew,Ruby,89
+13840241,freeCodeCamp/devdocs,Ruby,62
 2293158,rapid7/metasploit-framework,Ruby,88
-481872,hashicorp/vagrant,Ruby,44
+481872,hashicorp/vagrant,Ruby,46
 73648678,forem/forem,Ruby,30
 1090311,elastic/logstash,Ruby,15
 4095287,rubocop/rubocop,Ruby,15
-3195124,mperham/sidekiq,Ruby,15
+3195124,mperham/sidekiq,Ruby,16
 18486300,lewagon/setup,Ruby,36
-202291859,chatwoot/chatwoot,Ruby,370
+202291859,chatwoot/chatwoot,Ruby,347
 96395,faker-ruby/faker,Ruby,11
-21829,thoughtbot/factory_bot,Ruby,2
+21829,thoughtbot/factory_bot,Ruby,3
 2185269,busyloop/lolcat,Ruby,24
 30985840,solidusio/solidus,Ruby,9
 14238949,elastic/elasticsearch-rails,Ruby,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 34840276,elastic/ansible-elasticsearch,Ruby,7
 161399160,Shopify/shopify-cli,Ruby,12
 6968490,elastic/puppet-elasticsearch,Ruby,0
-43709699,microsoft/OMS-Agent-for-Linux,Ruby,7
-407852490,rails/propshaft,Ruby,25
+43709699,microsoft/OMS-Agent-for-Linux,Ruby,8
+407852490,rails/propshaft,Ruby,21
 388209199,learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker,Ruby,0

@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,651
+3482588,danielmiessler/SecLists,PHP,652
 2579314,fzaninotto/Faker,PHP,106
 458058,symfony/symfony,PHP,157
 7548986,laravel/framework,PHP,252
@@ -11,14 +11,14 @@ id,name,lang,new stars
 49014795,phpstan/phpstan,PHP,117
 42480275,spatie/laravel-permission,PHP,142
 2884111,magento/magento2,PHP,62
-29843361,w7corp/easywechat,PHP,48
-11340559,deployphp/deployer,PHP,70
-12166778,googleapis/google-api-php-client,PHP,62
+29843361,w7corp/easywechat,PHP,47
+11340559,deployphp/deployer,PHP,69
+12166778,googleapis/google-api-php-client,PHP,64
 6763587,PrestaShop/PrestaShop,PHP,55
-97311017,rectorphp/rector,PHP,115
-76064827,mailcow/mailcow-dockerized,PHP,122
-119047018,linuxserver/Heimdall,PHP,104
-351298555,thedevdojo/wave,PHP,133
+97311017,rectorphp/rector,PHP,113
+76064827,mailcow/mailcow-dockerized,PHP,121
+119047018,linuxserver/Heimdall,PHP,105
+351298555,thedevdojo/wave,PHP,134
 1957456,Dolibarr/dolibarr,PHP,66
 69691727,pmmp/PocketMine-MP,PHP,47
 330980599,yanfeizhang/coder-kung-fu,PHP,172
