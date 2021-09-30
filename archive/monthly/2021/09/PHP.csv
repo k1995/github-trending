@@ -1,13 +1,13 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,652
-2579314,fzaninotto/Faker,PHP,107
-458058,symfony/symfony,PHP,155
-7548986,laravel/framework,PHP,253
+3482588,danielmiessler/SecLists,PHP,651
+2579314,fzaninotto/Faker,PHP,106
+458058,symfony/symfony,PHP,157
+7548986,laravel/framework,PHP,252
 448045,sebastianbergmann/phpunit,PHP,85
-2889328,WordPress/WordPress,PHP,131
-82238168,monicahq/monica,PHP,160
+2889328,WordPress/WordPress,PHP,132
+82238168,monicahq/monica,PHP,159
 12615154,barryvdh/laravel-debugbar,PHP,159
-8708394,filp/whoops,PHP,63
+8708394,filp/whoops,PHP,65
 49014795,phpstan/phpstan,PHP,117
 42480275,spatie/laravel-permission,PHP,142
 2884111,magento/magento2,PHP,62
@@ -15,11 +15,11 @@ id,name,lang,new stars
 11340559,deployphp/deployer,PHP,70
 12166778,googleapis/google-api-php-client,PHP,62
 6763587,PrestaShop/PrestaShop,PHP,55
-97311017,rectorphp/rector,PHP,116
-76064827,mailcow/mailcow-dockerized,PHP,123
+97311017,rectorphp/rector,PHP,115
+76064827,mailcow/mailcow-dockerized,PHP,122
 119047018,linuxserver/Heimdall,PHP,104
 351298555,thedevdojo/wave,PHP,133
-1957456,Dolibarr/dolibarr,PHP,65
+1957456,Dolibarr/dolibarr,PHP,66
 69691727,pmmp/PocketMine-MP,PHP,47
 330980599,yanfeizhang/coder-kung-fu,PHP,172
 75645659,WordPress/wordpress-develop,PHP,42
