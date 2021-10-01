@@ -1,7 +1,7 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-52281283,mastodon/mastodon,Ruby,7
-481872,hashicorp/vagrant,Ruby,9
+8514,rails/rails,Ruby,6
+52281283,mastodon/mastodon,Ruby,8
+481872,hashicorp/vagrant,Ruby,7
 308770,heartcombo/devise,Ruby,1
 4095287,rubocop/rubocop,Ruby,0
 3314,spree/spree,Ruby,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 56942570,Homebrew/linuxbrew-core,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 209731662,ruby/debug,Ruby,4
-359492191,Shopify/yjit,Ruby,13
+359492191,Shopify/yjit,Ruby,14
