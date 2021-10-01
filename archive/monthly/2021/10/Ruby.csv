@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,258
-7569578,discourse/discourse,Ruby,259
+7569578,discourse/discourse,Ruby,257
 8681349,huginn/huginn,Ruby,242
-13840241,freeCodeCamp/devdocs,Ruby,256
-2293158,rapid7/metasploit-framework,Ruby,284
-308770,heartcombo/devise,Ruby,86
-538746,ruby/ruby,Ruby,123
+13840241,freeCodeCamp/devdocs,Ruby,255
+2293158,rapid7/metasploit-framework,Ruby,288
+308770,heartcombo/devise,Ruby,87
+538746,ruby/ruby,Ruby,122
 1090311,elastic/logstash,Ruby,67
-4095287,rubocop/rubocop,Ruby,59
-3195124,mperham/sidekiq,Ruby,63
-202291859,chatwoot/chatwoot,Ruby,728
-52855516,Homebrew/homebrew-core,Ruby,172
+4095287,rubocop/rubocop,Ruby,60
+3195124,mperham/sidekiq,Ruby,62
+202291859,chatwoot/chatwoot,Ruby,727
+52855516,Homebrew/homebrew-core,Ruby,170
 96395,faker-ruby/faker,Ruby,50
 15435,Shopify/liquid,Ruby,77
 26018608,github-changelog-generator/github-changelog-generator,Ruby,28
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1314319,instructure/canvas-lms,Ruby,57
 30985840,solidusio/solidus,Ruby,44
 103766152,github/explore,Ruby,94
-194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,72
+194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,71
 321647551,hotwired/hotwire-rails,Ruby,46
 161399160,Shopify/shopify-cli,Ruby,48
 229187949,shivammathur/homebrew-php,Ruby,44
