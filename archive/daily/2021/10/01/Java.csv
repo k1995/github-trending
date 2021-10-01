@@ -1,18 +1,18 @@
 id,name,lang,new stars
-22790488,iluwatar/java-design-patterns,Java,17
-63477660,TheAlgorithms/Java,Java,31
+22790488,iluwatar/java-design-patterns,Java,16
+63477660,TheAlgorithms/Java,Java,33
 892275,square/retrofit,Java,5
 9754983,eugenp/tutorials,Java,10
 128018428,alibaba/Sentinel,Java,8
-11125589,keycloak/keycloak,Java,23
-133134007,OpenAPITools/openapi-generator,Java,13
+11125589,keycloak/keycloak,Java,22
+133134007,OpenAPITools/openapi-generator,Java,12
 139914932,quarkusio/quarkus,Java,7
 36793280,resilience4j/resilience4j,Java,7
-269137265,google/tsunami-security-scanner,Java,12
+269137265,google/tsunami-security-scanner,Java,11
 81226206,intuit/karate,Java,2
-190964861,gyoogle/tech-interview-for-developer,Java,14
+190964861,gyoogle/tech-interview-for-developer,Java,15
 13536393,alibaba/transmittable-thread-local,Java,6
-166515022,trinodb/trino,Java,3
+166515022,trinodb/trino,Java,2
 89986770,Javen205/IJPay,Java,16
 256589781,androidx/androidx,Java,7
 27911088,apache/nifi,Java,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 148059143,tchiotludo/akhq,Java,5
 17170044,prometheus/jmx_exporter,Java,0
 27790789,confluentinc/schema-registry,Java,0
-332357698,YunaiV/ruoyi-vue-pro,Java,49
+332357698,YunaiV/ruoyi-vue-pro,Java,46
 160156999,quarkusio/quarkus-quickstarts,Java,1
 408733796,catvod/CatVodTVSpider,Java,15

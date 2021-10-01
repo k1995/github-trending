@@ -1,6 +1,6 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,7
-52281283,mastodon/mastodon,Ruby,7
+52281283,mastodon/mastodon,Ruby,8
 481872,hashicorp/vagrant,Ruby,10
 308770,heartcombo/devise,Ruby,1
 4095287,rubocop/rubocop,Ruby,0
@@ -13,7 +13,7 @@ id,name,lang,new stars
 451035,heartcombo/simple_form,Ruby,0
 108278,chef/chef,Ruby,0
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
-30337170,rmosolgo/graphql-ruby,Ruby,1
+30337170,rmosolgo/graphql-ruby,Ruby,3
 43347873,danger/danger,Ruby,3
 32841259,dtan4/terraforming,Ruby,1
 168370,jruby/jruby,Ruby,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,0
 56942570,Homebrew/linuxbrew-core,Ruby,2
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
-209731662,ruby/debug,Ruby,3
+209731662,ruby/debug,Ruby,4
 359492191,Shopify/yjit,Ruby,13
