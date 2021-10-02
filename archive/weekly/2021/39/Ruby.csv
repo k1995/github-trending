@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,57
 27442967,fastlane/fastlane,Ruby,60
-13840241,freeCodeCamp/devdocs,Ruby,56
-2293158,rapid7/metasploit-framework,Ruby,83
+13840241,freeCodeCamp/devdocs,Ruby,53
+2293158,rapid7/metasploit-framework,Ruby,82
 52281283,mastodon/mastodon,Ruby,47
 481872,hashicorp/vagrant,Ruby,44
-73648678,forem/forem,Ruby,36
+73648678,forem/forem,Ruby,35
 2203645,CocoaPods/CocoaPods,Ruby,14
 1090311,elastic/logstash,Ruby,11
-4095287,rubocop/rubocop,Ruby,13
-18486300,lewagon/setup,Ruby,97
+4095287,rubocop/rubocop,Ruby,14
+18486300,lewagon/setup,Ruby,112
 96395,faker-ruby/faker,Ruby,7
 611921,activeadmin/activeadmin,Ruby,5
 108278,chef/chef,Ruby,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 161399160,Shopify/shopify-cli,Ruby,6
 70830890,bigbluebutton/greenlight,Ruby,0
 6968490,elastic/puppet-elasticsearch,Ruby,0
-212813096,lewagon/data-setup,Ruby,45
+212813096,lewagon/data-setup,Ruby,55
 359492191,Shopify/yjit,Ruby,50
 388209199,learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker,Ruby,0
