@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,3
-3482588,danielmiessler/SecLists,PHP,17
-2579314,fzaninotto/Faker,PHP,2
+1863329,laravel/laravel,PHP,2
+3482588,danielmiessler/SecLists,PHP,16
+2579314,fzaninotto/Faker,PHP,1
 458058,symfony/symfony,PHP,3
 7548986,laravel/framework,PHP,5
 1420053,guzzle/guzzle,PHP,2
 2253830,PHPMailer/PHPMailer,PHP,6
 60243197,nextcloud/server,PHP,10
-82238168,monicahq/monica,PHP,412
+82238168,monicahq/monica,PHP,401
 3431193,yiisoft/yii2,PHP,2
-8678290,barryvdh/laravel-ide-helper,PHP,4
+8678290,barryvdh/laravel-ide-helper,PHP,3
 2884111,magento/magento2,PHP,1
 79111500,jupeter/clean-code-php,PHP,4
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,1
 60010673,elementor/elementor,PHP,3
 13914116,librenms/librenms,PHP,0
-153069455,collabnix/dockerlabs,PHP,10
+153069455,collabnix/dockerlabs,PHP,11
 131995661,shopware/platform,PHP,3
