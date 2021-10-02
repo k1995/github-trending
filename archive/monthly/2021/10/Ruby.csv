@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,257
+8514,rails/rails,Ruby,256
 7569578,discourse/discourse,Ruby,258
-8681349,huginn/huginn,Ruby,244
-13840241,freeCodeCamp/devdocs,Ruby,253
-2293158,rapid7/metasploit-framework,Ruby,285
-308770,heartcombo/devise,Ruby,87
-538746,ruby/ruby,Ruby,122
+8681349,huginn/huginn,Ruby,243
+13840241,freeCodeCamp/devdocs,Ruby,245
+2293158,rapid7/metasploit-framework,Ruby,284
+308770,heartcombo/devise,Ruby,86
+538746,ruby/ruby,Ruby,121
 1090311,elastic/logstash,Ruby,68
 4095287,rubocop/rubocop,Ruby,58
 3195124,mperham/sidekiq,Ruby,63
-202291859,chatwoot/chatwoot,Ruby,723
-52855516,Homebrew/homebrew-core,Ruby,170
-96395,faker-ruby/faker,Ruby,50
+202291859,chatwoot/chatwoot,Ruby,725
+52855516,Homebrew/homebrew-core,Ruby,167
+96395,faker-ruby/faker,Ruby,51
 15435,Shopify/liquid,Ruby,75
 26018608,github-changelog-generator/github-changelog-generator,Ruby,28
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,163
@@ -22,5 +22,5 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,93
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,71
 321647551,hotwired/hotwire-rails,Ruby,46
-161399160,Shopify/shopify-cli,Ruby,49
-229187949,shivammathur/homebrew-php,Ruby,43
+161399160,Shopify/shopify-cli,Ruby,48
+229187949,shivammathur/homebrew-php,Ruby,42
