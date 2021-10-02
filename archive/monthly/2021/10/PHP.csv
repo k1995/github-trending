@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,513
+3482588,danielmiessler/SecLists,PHP,515
 2579314,fzaninotto/Faker,PHP,99
 458058,symfony/symfony,PHP,148
 7548986,laravel/framework,PHP,249
@@ -8,19 +8,19 @@ id,name,lang,new stars
 448045,sebastianbergmann/phpunit,PHP,81
 2889328,WordPress/WordPress,PHP,119
 1548202,matomo-org/matomo,PHP,127
-82238168,monicahq/monica,PHP,937
+82238168,monicahq/monica,PHP,976
 8708394,filp/whoops,PHP,65
 49014795,phpstan/phpstan,PHP,107
 48796179,z-song/laravel-admin,PHP,58
-2884111,magento/magento2,PHP,63
+2884111,magento/magento2,PHP,64
 11340559,deployphp/deployer,PHP,66
 6660366,dompdf/dompdf,PHP,84
 12166778,googleapis/google-api-php-client,PHP,56
 6763587,PrestaShop/PrestaShop,PHP,46
 97311017,rectorphp/rector,PHP,104
 76064827,mailcow/mailcow-dockerized,PHP,110
-119047018,linuxserver/Heimdall,PHP,106
-351298555,thedevdojo/wave,PHP,139
-1957456,Dolibarr/dolibarr,PHP,67
+119047018,linuxserver/Heimdall,PHP,107
+351298555,thedevdojo/wave,PHP,140
+1957456,Dolibarr/dolibarr,PHP,66
 330980599,yanfeizhang/coder-kung-fu,PHP,167
 380196780,maccmspro/maccms10,PHP,194
