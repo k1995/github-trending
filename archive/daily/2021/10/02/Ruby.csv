@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,6
+8514,rails/rails,Ruby,7
 7569578,discourse/discourse,Ruby,4
-27442967,fastlane/fastlane,Ruby,11
-481872,hashicorp/vagrant,Ruby,1
-308770,heartcombo/devise,Ruby,3
+27442967,fastlane/fastlane,Ruby,13
+481872,hashicorp/vagrant,Ruby,0
+308770,heartcombo/devise,Ruby,4
 37382858,kilimchoi/engineering-blogs,Ruby,9
 538746,ruby/ruby,Ruby,2
-73648678,forem/forem,Ruby,10
+73648678,forem/forem,Ruby,6
 911765,diaspora/diaspora,Ruby,1
 4095287,rubocop/rubocop,Ruby,1
-3195124,mperham/sidekiq,Ruby,3
-18486300,lewagon/setup,Ruby,87
-1918677,fluent/fluentd,Ruby,3
+3195124,mperham/sidekiq,Ruby,2
+18486300,lewagon/setup,Ruby,89
+1918677,fluent/fluentd,Ruby,4
 1333863,kaminari/kaminari,Ruby,2
 6529205,varvet/pundit,Ruby,0
 20552964,realm/jazzy,Ruby,0
@@ -20,7 +20,7 @@ id,name,lang,new stars
 5144181,jnunemaker/flipper,Ruby,0
 11426474,github/choosealicense.com,Ruby,1
 200302808,github/view_component,Ruby,1
-3444030,chef/omnibus,Ruby,2
+3444030,chef/omnibus,Ruby,1
 2147447,ruby/www.ruby-lang.org,Ruby,0
 70830890,bigbluebutton/greenlight,Ruby,0
-212813096,lewagon/data-setup,Ruby,35
+212813096,lewagon/data-setup,Ruby,40
