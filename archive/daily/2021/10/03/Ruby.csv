@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-7569578,discourse/discourse,Ruby,2
-27442967,fastlane/fastlane,Ruby,10
+8514,rails/rails,Ruby,6
+7569578,discourse/discourse,Ruby,4
+27442967,fastlane/fastlane,Ruby,7
 481872,hashicorp/vagrant,Ruby,1
 308770,heartcombo/devise,Ruby,3
 37382858,kilimchoi/engineering-blogs,Ruby,9
-538746,ruby/ruby,Ruby,4
-73648678,forem/forem,Ruby,7
+538746,ruby/ruby,Ruby,3
+73648678,forem/forem,Ruby,6
 911765,diaspora/diaspora,Ruby,0
 4095287,rubocop/rubocop,Ruby,1
 3195124,mperham/sidekiq,Ruby,2
-18486300,lewagon/setup,Ruby,87
+18486300,lewagon/setup,Ruby,85
 1918677,fluent/fluentd,Ruby,2
 1333863,kaminari/kaminari,Ruby,1
 6529205,varvet/pundit,Ruby,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,1
 200302808,github/view_component,Ruby,2
 3444030,chef/omnibus,Ruby,0
-2147447,ruby/www.ruby-lang.org,Ruby,0
+2147447,ruby/www.ruby-lang.org,Ruby,1
 70830890,bigbluebutton/greenlight,Ruby,0
-212813096,lewagon/data-setup,Ruby,40
+212813096,lewagon/data-setup,Ruby,39

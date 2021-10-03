@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,57
-27442967,fastlane/fastlane,Ruby,62
-13840241,freeCodeCamp/devdocs,Ruby,48
+8514,rails/rails,Ruby,58
+27442967,fastlane/fastlane,Ruby,61
+13840241,freeCodeCamp/devdocs,Ruby,46
 2293158,rapid7/metasploit-framework,Ruby,78
 52281283,mastodon/mastodon,Ruby,48
-481872,hashicorp/vagrant,Ruby,43
+481872,hashicorp/vagrant,Ruby,42
 73648678,forem/forem,Ruby,37
 2203645,CocoaPods/CocoaPods,Ruby,13
-1090311,elastic/logstash,Ruby,11
+1090311,elastic/logstash,Ruby,10
 4095287,rubocop/rubocop,Ruby,13
-18486300,lewagon/setup,Ruby,114
-96395,faker-ruby/faker,Ruby,7
+18486300,lewagon/setup,Ruby,112
+96395,faker-ruby/faker,Ruby,8
 611921,activeadmin/activeadmin,Ruby,5
 108278,chef/chef,Ruby,3
 26018608,github-changelog-generator/github-changelog-generator,Ruby,9
@@ -22,5 +22,5 @@ id,name,lang,new stars
 70830890,bigbluebutton/greenlight,Ruby,0
 212813096,lewagon/data-setup,Ruby,62
 6968490,elastic/puppet-elasticsearch,Ruby,0
-359492191,Shopify/yjit,Ruby,51
+359492191,Shopify/yjit,Ruby,50
 388209199,learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker,Ruby,0
