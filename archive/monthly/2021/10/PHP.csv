@@ -1,14 +1,14 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,507
+3482588,danielmiessler/SecLists,PHP,505
 2579314,fzaninotto/Faker,PHP,98
-458058,symfony/symfony,PHP,145
-7548986,laravel/framework,PHP,244
+458058,symfony/symfony,PHP,146
+7548986,laravel/framework,PHP,243
 1420053,guzzle/guzzle,PHP,113
-1376664,Seldaek/monolog,PHP,91
+1376664,Seldaek/monolog,PHP,92
 448045,sebastianbergmann/phpunit,PHP,77
-2889328,WordPress/WordPress,PHP,115
+2889328,WordPress/WordPress,PHP,114
 1548202,matomo-org/matomo,PHP,127
-82238168,monicahq/monica,PHP,1143
+82238168,monicahq/monica,PHP,1155
 3431193,yiisoft/yii2,PHP,41
 12615154,barryvdh/laravel-debugbar,PHP,145
 49014795,phpstan/phpstan,PHP,109
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,64
 153069455,collabnix/dockerlabs,PHP,105
 330980599,yanfeizhang/coder-kung-fu,PHP,166
-380196780,maccmspro/maccms10,PHP,196
+380196780,maccmspro/maccms10,PHP,195

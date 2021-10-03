@@ -1,14 +1,14 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,14
-17728164,hashicorp/terraform,Go,75
+11180687,gohugoio/hugo,Go,15
+17728164,hashicorp/terraform,Go,65
 15045751,docker/compose,Go,23
 37448451,mattermost/mattermost-server,Go,12
-26337322,rancher/rancher,Go,4
+26337322,rancher/rancher,Go,5
 153099672,inancgumus/learngo,Go,14
-72891330,kubernetes/ingress-nginx,Go,9
+72891330,kubernetes/ingress-nginx,Go,8
 109145553,containers/podman,Go,17
 27576132,aws/aws-sdk-go,Go,3
-120896210,argoproj/argo-cd,Go,2
+120896210,argoproj/argo-cd,Go,1
 93444615,hashicorp/terraform-provider-aws,Go,4
 49765480,lightningnetwork/lnd,Go,3
 246903803,earthly/earthly,Go,3
@@ -18,9 +18,9 @@ id,name,lang,new stars
 120519269,runatlantis/atlantis,Go,2
 125619154,ory/keto,Go,7
 318476701,containerd/nerdctl,Go,8
-111423359,ardanlabs/service,Go,11
-358841284,tharsis/ethermint,Go,5
+111423359,ardanlabs/service,Go,9
+358841284,tharsis/ethermint,Go,66
 335952417,sigstore/cosign,Go,4
-396856161,authzed/spicedb,Go,216
-411212454,tharsis/evmos,Go,69
-389591183,ovotech/gitoops,Go,40
+396856161,authzed/spicedb,Go,218
+411212454,tharsis/evmos,Go,45
+389591183,ovotech/gitoops,Go,43
