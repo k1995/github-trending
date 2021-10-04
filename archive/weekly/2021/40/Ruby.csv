@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,60
+8514,rails/rails,Ruby,59
 65252,jekyll/jekyll,Ruby,51
-27442967,fastlane/fastlane,Ruby,62
+27442967,fastlane/fastlane,Ruby,61
 8681349,huginn/huginn,Ruby,61
-53238813,Homebrew/brew,Ruby,88
+53238813,Homebrew/brew,Ruby,90
 2293158,rapid7/metasploit-framework,Ruby,74
-52281283,mastodon/mastodon,Ruby,42
-481872,hashicorp/vagrant,Ruby,41
-73648678,forem/forem,Ruby,43
+52281283,mastodon/mastodon,Ruby,39
+481872,hashicorp/vagrant,Ruby,40
+73648678,forem/forem,Ruby,45
 2203645,CocoaPods/CocoaPods,Ruby,13
 1090311,elastic/logstash,Ruby,8
-585285,gollum/gollum,Ruby,375
+585285,gollum/gollum,Ruby,389
 4095287,rubocop/rubocop,Ruby,15
 3195124,mperham/sidekiq,Ruby,18
 18486300,lewagon/setup,Ruby,110
@@ -21,6 +21,6 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,11
 14238949,elastic/elasticsearch-rails,Ruby,7
 9831101,elastic/elasticsearch-ruby,Ruby,4
-34840276,elastic/ansible-elasticsearch,Ruby,3
+34840276,elastic/ansible-elasticsearch,Ruby,4
 359492191,Shopify/yjit,Ruby,51
 388209199,learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker,Ruby,0
