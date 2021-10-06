@@ -1,19 +1,19 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,166
-100060912,microsoft/terminal,C++,27
-22067521,ocornut/imgui,C++,46
+9384267,electron/electron,C++,159
+100060912,microsoft/terminal,C++,26
+22067521,ocornut/imgui,C++,44
 65214191,envoyproxy/envoy,C++,4
 19374812,telegramdesktop/tdesktop,C++,10
 90902132,flameshot-org/flameshot,C++,8
 64991887,microsoft/LightGBM,C++,8
-47690142,CoatiSoftware/Sourcetrail,C++,14
+47690142,CoatiSoftware/Sourcetrail,C++,12
 2200856,MarlinFirmware/Marlin,C++,9
-114187903,apple/foundationdb,C++,1
+114187903,apple/foundationdb,C++,2
 136780445,kitao/pyxel,C++,11
 23202799,microsoft/cpprestsdk,C++,0
 5298790,PX4/PX4-Autopilot,C++,1
 143324737,diasurgical/devilutionX,C++,4
-98470332,sebastianstarke/AI4Animation,C++,26
+98470332,sebastianstarke/AI4Animation,C++,25
 1049088,openscad/openscad,C++,1
 354743391,o3de/o3de,C++,8
 22660515,onqtam/doctest,C++,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 87443396,Haivision/srt,C++,2
 200492112,tony9402/baekjoon,C++,3
 64340188,ros-planning/moveit,C++,0
-408525324,PlummersSoftwareLLC/NightDriverStrip,C++,96
+408525324,PlummersSoftwareLLC/NightDriverStrip,C++,106
 278614006,ahampriyanshu/algo-ds-101,C++,3
 411763797,manisha069/HacktoberFest21,C++,8

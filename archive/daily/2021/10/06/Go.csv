@@ -1,10 +1,10 @@
 id,name,lang,new stars
-14712850,syncthing/syncthing,Go,22
-17803236,rclone/rclone,Go,17
-13124802,influxdata/influxdb,Go,5
+14712850,syncthing/syncthing,Go,23
+17803236,rclone/rclone,Go,16
+13124802,influxdata/influxdb,Go,6
 37448451,mattermost/mattermost-server,Go,10
 8966356,hashicorp/packer,Go,1
-24977535,dutchcoders/transfer.sh,Go,16
+24977535,dutchcoders/transfer.sh,Go,17
 72891330,kubernetes/ingress-nginx,Go,7
 16554739,elastic/beats,Go,2
 10270722,google/go-github,Go,13
@@ -12,9 +12,9 @@ id,name,lang,new stars
 49765480,lightningnetwork/lnd,Go,2
 59522149,gruntwork-io/terragrunt,Go,2
 246903803,earthly/earthly,Go,14
-141089889,berty/berty,Go,30
+141089889,berty/berty,Go,29
 86367047,elastic/go-elasticsearch,Go,1
-215654064,temporalio/temporal,Go,9
+215654064,temporalio/temporal,Go,10
 71487396,terraform-linters/tflint,Go,2
 120181748,kiali/kiali,Go,1
 84610043,kubernetes-sigs/aws-load-balancer-controller,Go,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 59514412,awslabs/amazon-ecr-credential-helper,Go,3
 202018792,aws/copilot-cli,Go,10
 358841284,tharsis/ethermint,Go,16
-157554479,meshery/meshery,Go,6
+157554479,meshery/meshery,Go,5
 67680905,DataDog/dd-trace-go,Go,1
