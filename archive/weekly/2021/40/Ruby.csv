@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,49
-65252,jekyll/jekyll,Ruby,43
-27442967,fastlane/fastlane,Ruby,58
-8681349,huginn/huginn,Ruby,50
-2293158,rapid7/metasploit-framework,Ruby,76
-52281283,mastodon/mastodon,Ruby,50
-481872,hashicorp/vagrant,Ruby,40
-73648678,forem/forem,Ruby,55
+8514,rails/rails,Ruby,47
+65252,jekyll/jekyll,Ruby,42
+27442967,fastlane/fastlane,Ruby,56
+8681349,huginn/huginn,Ruby,46
+2293158,rapid7/metasploit-framework,Ruby,74
+52281283,mastodon/mastodon,Ruby,48
+481872,hashicorp/vagrant,Ruby,41
+73648678,forem/forem,Ruby,54
 2203645,CocoaPods/CocoaPods,Ruby,9
-585285,gollum/gollum,Ruby,474
-4095287,rubocop/rubocop,Ruby,12
+585285,gollum/gollum,Ruby,476
+4095287,rubocop/rubocop,Ruby,13
 18486300,lewagon/setup,Ruby,479
 3195124,mperham/sidekiq,Ruby,20
 52855516,Homebrew/homebrew-core,Ruby,53
@@ -23,4 +23,4 @@ id,name,lang,new stars
 34840276,elastic/ansible-elasticsearch,Ruby,3
 49878403,zendesk/ruby-kafka,Ruby,1
 70830890,bigbluebutton/greenlight,Ruby,1
-359492191,Shopify/yjit,Ruby,48
+359492191,Shopify/yjit,Ruby,45
