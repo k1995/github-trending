@@ -1,26 +1,26 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,29
-65600975,pytorch/pytorch,C++,13
-22887094,tesseract-ocr/tesseract,C++,4
+100060912,microsoft/terminal,C++,28
+65600975,pytorch/pytorch,C++,14
+22887094,tesseract-ocr/tesseract,C++,8
 6452529,rethinkdb/rethinkdb,C++,1
-39840932,google/googletest,C++,6
+39840932,google/googletest,C++,5
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,14
-16587283,dmlc/xgboost,C++,6
-98771110,zhongyang219/TrafficMonitor,C++,45
-3351871,qbittorrent/qBittorrent,C++,18
+16587283,dmlc/xgboost,C++,5
+98771110,zhongyang219/TrafficMonitor,C++,43
+3351871,qbittorrent/qBittorrent,C++,12
 51905353,apache/arrow,C++,5
 153866232,TheCherno/Hazel,C++,8
-7512484,ArduPilot/ardupilot,C++,1
-88327406,xmrig/xmrig,C++,7
+7512484,ArduPilot/ardupilot,C++,2
+88327406,xmrig/xmrig,C++,6
 1690480,qgis/QGIS,C++,5
-3386088,NixOS/nix,C++,6
-2436255,Project-OSRM/osrm-backend,C++,3
-124976393,oatpp/oatpp,C++,101
-309512982,vectorizedio/redpanda,C++,5
-153097643,openvinotoolkit/openvino,C++,4
-11489037,rathena/rathena,C++,3
+3386088,NixOS/nix,C++,7
+2436255,Project-OSRM/osrm-backend,C++,4
+124976393,oatpp/oatpp,C++,82
+309512982,vectorizedio/redpanda,C++,6
+153097643,openvinotoolkit/openvino,C++,5
+11489037,rathena/rathena,C++,2
 224908244,WasmEdge/WasmEdge,C++,18
-197211881,alvr-org/ALVR,C++,2
-401508496,M2Team/NanaZip,C++,142
-408525324,PlummersSoftwareLLC/NightDriverStrip,C++,50
-411731644,dscgecbsp/Hacktoberfest-2021,Jupyter Notebook,11
+197211881,alvr-org/ALVR,C++,4
+401508496,M2Team/NanaZip,C++,125
+408525324,PlummersSoftwareLLC/NightDriverStrip,C++,39
+411731644,dscgecbsp/Hacktoberfest-2021,Jupyter Notebook,10
