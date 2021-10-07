@@ -1,20 +1,20 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,54
-65252,jekyll/jekyll,Ruby,47
-27442967,fastlane/fastlane,Ruby,61
+65252,jekyll/jekyll,Ruby,45
+27442967,fastlane/fastlane,Ruby,62
 8681349,huginn/huginn,Ruby,45
 2293158,rapid7/metasploit-framework,Ruby,69
-52281283,mastodon/mastodon,Ruby,49
+52281283,mastodon/mastodon,Ruby,47
 481872,hashicorp/vagrant,Ruby,39
 73648678,forem/forem,Ruby,56
-585285,gollum/gollum,Ruby,484
+585285,gollum/gollum,Ruby,485
 4095287,rubocop/rubocop,Ruby,12
-3314,spree/spree,Ruby,16
+3314,spree/spree,Ruby,15
 18486300,lewagon/setup,Ruby,479
-52855516,Homebrew/homebrew-core,Ruby,59
+52855516,Homebrew/homebrew-core,Ruby,57
 96395,faker-ruby/faker,Ruby,13
 611921,activeadmin/activeadmin,Ruby,3
-108278,chef/chef,Ruby,6
+108278,chef/chef,Ruby,7
 30337170,rmosolgo/graphql-ruby,Ruby,9
 30985840,solidusio/solidus,Ruby,17
 14238949,elastic/elasticsearch-rails,Ruby,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 49878403,zendesk/ruby-kafka,Ruby,1
 70830890,bigbluebutton/greenlight,Ruby,1
 212813096,lewagon/data-setup,Ruby,233
-359492191,Shopify/yjit,Ruby,25
+359492191,Shopify/yjit,Ruby,24
