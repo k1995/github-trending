@@ -1,17 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,63
-62156403,QSCTech/zju-icicles,C,22
-2810292,pbatard/rufus,C,5
-84240850,timescale/timescaledb,C,10
+2325298,torvalds/linux,C,60
+62156403,QSCTech/zju-icicles,C,30
+2810292,pbatard/rufus,C,6
+84240850,timescale/timescaledb,C,11
 184981,memcached/memcached,C,2
-27737393,qmk/qmk_firmware,C,6
+27737393,qmk/qmk_firmware,C,4
 45821540,openwrt/openwrt,C,6
+3199002,raspberrypi/linux,C,4
 36749153,microsoft/react-native-code-push,C,4
-65899476,espressif/esp-idf,C,7
-39242894,coturn/coturn,C,4
+65899476,espressif/esp-idf,C,8
+60667730,lvgl/lvgl,C,236
+39242894,coturn/coturn,C,3
 105944401,yugabyte/yugabyte-db,C,5
 59771425,zephyrproject-rtos/zephyr,C,3
-41107037,unicorn-engine/unicorn,C,5
+41107037,unicorn-engine/unicorn,C,4
 68751856,gnea/grbl,C,0
 205423,apache/httpd,C,2
 40556106,wazuh/wazuh,C,3
@@ -19,5 +21,6 @@ id,name,lang,new stars
 25676773,rsta2/circle,C,3
 270692521,zmkfirmware/zmk,C,3
 70934373,Azure/azure-iot-sdk-c,C,0
-394318710,valinet/ExplorerPatcher,C,29
-413414752,isage/sorr-vita,C,2
+394318710,valinet/ExplorerPatcher,C,26
+300799247,1dharode/Hacktoberfest2021,C,1
+413414752,isage/sorr-vita,C,1
