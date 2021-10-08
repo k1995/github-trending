@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,79
-3482588,danielmiessler/SecLists,PHP,102
+1863329,laravel/laravel,PHP,78
+3482588,danielmiessler/SecLists,PHP,100
 458058,symfony/symfony,PHP,25
 7548986,laravel/framework,PHP,63
-1420053,guzzle/guzzle,PHP,19
-2253830,PHPMailer/PHPMailer,PHP,35
-82238168,monicahq/monica,PHP,1345
+1420053,guzzle/guzzle,PHP,18
+2253830,PHPMailer/PHPMailer,PHP,34
+82238168,monicahq/monica,PHP,1292
 3431193,yiisoft/yii2,PHP,7
-12615154,barryvdh/laravel-debugbar,PHP,35
+12615154,barryvdh/laravel-debugbar,PHP,36
 7769432,vlucas/phpdotenv,PHP,14
 2699935,squizlabs/PHP_CodeSniffer,PHP,21
 597887,doctrine/orm,PHP,14
@@ -20,7 +20,7 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,16
 33916850,spatie/laravel-medialibrary,PHP,11
 61802818,spatie/laravel-activitylog,PHP,19
-62087941,nWidart/laravel-modules,PHP,27
-153069455,collabnix/dockerlabs,PHP,39
+62087941,nWidart/laravel-modules,PHP,25
+153069455,collabnix/dockerlabs,PHP,38
 131995661,shopware/platform,PHP,9
 174021137,inertiajs/pingcrm,PHP,13

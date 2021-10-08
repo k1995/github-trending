@@ -1,14 +1,14 @@
 id,name,lang,new stars
-13233158,obsproject/obs-studio,C,276
-569041,curl/curl,C,96
-11715753,robertdavidgraham/masscan,C,326
+13233158,obsproject/obs-studio,C,256
+569041,curl/curl,C,95
+11715753,robertdavidgraham/masscan,C,309
 2810292,pbatard/rufus,C,69
 4869294,radareorg/radare2,C,53
 84240850,timescale/timescaledb,C,55
 47409672,hashcat/hashcat,C,35
-13836499,raysan5/raylib,C,38
+13836499,raysan5/raylib,C,39
 105944401,yugabyte/yugabyte-db,C,18
-53614190,eclipse/mosquitto,C,276
+53614190,eclipse/mosquitto,C,273
 254327261,sandboxie-plus/Sandboxie,C,78
 187922067,microsoft/WSL2-Linux-Kernel,C,23
 59771425,zephyrproject-rtos/zephyr,C,24
@@ -22,5 +22,5 @@ id,name,lang,new stars
 205423,apache/httpd,C,16
 226167620,InfiniTimeOrg/InfiniTime,C,29
 241270996,mborgerson/xemu,C,50
-394318710,valinet/ExplorerPatcher,C,91
+394318710,valinet/ExplorerPatcher,C,93
 366909942,bigtreetech/BIGTREETECH-OCTOPUS-V1.0,C,11
