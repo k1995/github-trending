@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,255
+8514,rails/rails,Ruby,256
 65252,jekyll/jekyll,Ruby,192
 7569578,discourse/discourse,Ruby,241
 27442967,fastlane/fastlane,Ruby,211
-2293158,rapid7/metasploit-framework,Ruby,289
-308770,heartcombo/devise,Ruby,85
-538746,ruby/ruby,Ruby,115
+2293158,rapid7/metasploit-framework,Ruby,290
+308770,heartcombo/devise,Ruby,84
+538746,ruby/ruby,Ruby,116
 73648678,forem/forem,Ruby,159
-585285,gollum/gollum,Ruby,545
-4095287,rubocop/rubocop,Ruby,65
+585285,gollum/gollum,Ruby,546
+4095287,rubocop/rubocop,Ruby,64
 18486300,lewagon/setup,Ruby,627
-3195124,mperham/sidekiq,Ruby,66
-202291859,chatwoot/chatwoot,Ruby,739
+3195124,mperham/sidekiq,Ruby,65
+202291859,chatwoot/chatwoot,Ruby,738
 52855516,Homebrew/homebrew-core,Ruby,179
 96395,faker-ruby/faker,Ruby,48
 611921,activeadmin/activeadmin,Ruby,20
@@ -22,5 +22,5 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,52
 614070,rubygems/rubygems,Ruby,21
 61203,Shopify/shopify_app,Ruby,14
-161399160,Shopify/shopify-cli,Ruby,43
-212813096,lewagon/data-setup,Ruby,264
+161399160,Shopify/shopify-cli,Ruby,42
+212813096,lewagon/data-setup,Ruby,265

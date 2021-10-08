@@ -1,11 +1,11 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,4
-448045,sebastianbergmann/phpunit,PHP,3
+458058,symfony/symfony,PHP,5
+448045,sebastianbergmann/phpunit,PHP,4
 10157178,egulias/EmailValidator,PHP,1
-2699935,squizlabs/PHP_CodeSniffer,PHP,5
+2699935,squizlabs/PHP_CodeSniffer,PHP,4
 6660366,dompdf/dompdf,PHP,3
 330275,twigphp/Twig,PHP,2
-14346979,snipe/snipe-it,PHP,3
+14346979,snipe/snipe-it,PHP,4
 10883164,barryvdh/laravel-dompdf,PHP,1
 97311017,rectorphp/rector,PHP,4
 3055234,cakephp/phinx,PHP,1
@@ -13,14 +13,14 @@ id,name,lang,new stars
 1367484,Behat/Behat,PHP,0
 100695,drupal/drupal,PHP,0
 885517,doctrine-extensions/DoctrineExtensions,PHP,0
-8077402,MISP/MISP,PHP,2
+8077402,MISP/MISP,PHP,3
 3193843,drush-ops/drush,PHP,0
-3614664,PHPCompatibility/PHPCompatibility,PHP,7
-15231212,Automattic/jetpack,PHP,0
+3614664,PHPCompatibility/PHPCompatibility,PHP,4
+15231212,Automattic/jetpack,PHP,1
 138328462,freescout-helpdesk/freescout,PHP,0
-211499617,mm0r1/exploits,PHP,28
+211499617,mm0r1/exploits,PHP,25
 34407154,cweagans/composer-patches,PHP,0
 12452145,hechoendrupal/drupal-console,PHP,0
 27249479,EC-CUBE/ec-cube,PHP,0
-11733164,georgringer/news,PHP,1
-386079424,pricecurrent/laravel-eloquent-filters,PHP,9
+11733164,georgringer/news,PHP,0
+386079424,pricecurrent/laravel-eloquent-filters,PHP,7
