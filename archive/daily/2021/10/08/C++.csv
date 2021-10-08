@@ -1,26 +1,26 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,29
-65600975,pytorch/pytorch,C++,16
-22887094,tesseract-ocr/tesseract,C++,13
-6452529,rethinkdb/rethinkdb,C++,2
-39840932,google/googletest,C++,7
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,14
-16587283,dmlc/xgboost,C++,9
-98771110,zhongyang219/TrafficMonitor,C++,39
-3351871,qbittorrent/qBittorrent,C++,10
-51905353,apache/arrow,C++,4
-153866232,TheCherno/Hazel,C++,7
-7512484,ArduPilot/ardupilot,C++,4
-88327406,xmrig/xmrig,C++,8
+100060912,microsoft/terminal,C++,28
+65600975,pytorch/pytorch,C++,15
+22887094,tesseract-ocr/tesseract,C++,12
+6452529,rethinkdb/rethinkdb,C++,3
+39840932,google/googletest,C++,8
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,16
+16587283,dmlc/xgboost,C++,10
+98771110,zhongyang219/TrafficMonitor,C++,40
+3351871,qbittorrent/qBittorrent,C++,9
+51905353,apache/arrow,C++,3
+153866232,TheCherno/Hazel,C++,6
+7512484,ArduPilot/ardupilot,C++,3
+88327406,xmrig/xmrig,C++,7
 1690480,qgis/QGIS,C++,6
-3386088,NixOS/nix,C++,6
+3386088,NixOS/nix,C++,5
 2436255,Project-OSRM/osrm-backend,C++,4
-124976393,oatpp/oatpp,C++,39
-309512982,vectorizedio/redpanda,C++,6
-153097643,openvinotoolkit/openvino,C++,1
+124976393,oatpp/oatpp,C++,23
+309512982,vectorizedio/redpanda,C++,7
+153097643,openvinotoolkit/openvino,C++,2
 11489037,rathena/rathena,C++,1
-224908244,WasmEdge/WasmEdge,C++,16
-197211881,alvr-org/ALVR,C++,7
-401508496,M2Team/NanaZip,C++,96
+224908244,WasmEdge/WasmEdge,C++,18
+197211881,alvr-org/ALVR,C++,8
+401508496,M2Team/NanaZip,C++,74
 408525324,PlummersSoftwareLLC/NightDriverStrip,C++,54
-411731644,dscgecbsp/Hacktoberfest-2021,Jupyter Notebook,10
+411731644,dscgecbsp/Hacktoberfest-2021,Jupyter Notebook,11

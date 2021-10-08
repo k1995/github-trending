@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
+8514,rails/rails,Ruby,11
 2293158,rapid7/metasploit-framework,Ruby,13
-481872,hashicorp/vagrant,Ruby,4
-308770,heartcombo/devise,Ruby,4
-2203645,CocoaPods/CocoaPods,Ruby,1
-4095287,rubocop/rubocop,Ruby,5
+481872,hashicorp/vagrant,Ruby,3
+308770,heartcombo/devise,Ruby,3
+2203645,CocoaPods/CocoaPods,Ruby,0
+4095287,rubocop/rubocop,Ruby,6
 3195124,mperham/sidekiq,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,7
-1918677,fluent/fluentd,Ruby,6
+202291859,chatwoot/chatwoot,Ruby,10
+1918677,fluent/fluentd,Ruby,4
 96395,faker-ruby/faker,Ruby,2
 451035,heartcombo/simple_form,Ruby,1
 6529205,varvet/pundit,Ruby,0
@@ -18,9 +18,9 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,7
 1462,ctran/annotate_models,Ruby,0
 229006,mileszs/wicked_pdf,Ruby,2
-3898922,zammad/zammad,Ruby,4
-11426474,github/choosealicense.com,Ruby,0
-93163073,dependabot/dependabot-core,Ruby,0
-189010173,Hackplayers/evil-winrm,Ruby,1
+3898922,zammad/zammad,Ruby,3
+11426474,github/choosealicense.com,Ruby,1
+93163073,dependabot/dependabot-core,Ruby,1
+189010173,Hackplayers/evil-winrm,Ruby,2
 161399160,Shopify/shopify-cli,Ruby,1
 229187949,shivammathur/homebrew-php,Ruby,0
