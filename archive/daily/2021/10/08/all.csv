@@ -1,8 +1,8 @@
 id,name,lang,new stars
-24195339,angular/angular,TypeScript,53
-612230,nvm-sh/nvm,Shell,113
+24195339,angular/angular,TypeScript,58
+612230,nvm-sh/nvm,Shell,115
 23357588,protocolbuffers/protobuf,C++,13
-55076063,Hack-with-Github/Awesome-Hacking,,61
+55076063,Hack-with-Github/Awesome-Hacking,,102
 14712850,syncthing/syncthing,Go,23
 49609581,PowerShell/PowerShell,C#,24
 58842707,trailofbits/algo,Python,134
@@ -10,17 +10,17 @@ id,name,lang,new stars
 129283183,facebook/flipper,TypeScript,62
 25310522,tristanhimmelman/ObjectMapper,Swift,1
 139199684,PrefectHQ/prefect,Python,166
-60667730,lvgl/lvgl,C,129
-120896210,argoproj/argo-cd,Go,12
+60667730,lvgl/lvgl,C,119
+120896210,argoproj/argo-cd,Go,23
 382496361,louislam/uptime-kuma,JavaScript,584
-21329550,wireshark/wireshark,C,42
+21329550,wireshark/wireshark,C,65
 82208127,arkenfox/user.js,JavaScript,44
 3030065,gnuradio/gnuradio,C++,22
 232630362,hashicorp/boundary,Go,13
-105802846,aws/jsii,TypeScript,8
-279028703,isometimes/rpi4-osdev,C,331
+279028703,isometimes/rpi4-osdev,C,220
+105802846,aws/jsii,TypeScript,42
 387149158,peregrine-lang/Peregrine,V,224
 275646881,raywenderlich/flta-materials,Dart,150
-401508496,M2Team/NanaZip,C++,78
+401508496,M2Team/NanaZip,C++,96
+412071168,WordPress/twentytwentytwo,HTML,41
 410615714,opencodeiiita/Collaborative-Web,JavaScript,12
-412071168,WordPress/twentytwentytwo,HTML,30
