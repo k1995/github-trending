@@ -1,19 +1,19 @@
 id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,43
-39840932,google/googletest,C++,12
-16587283,dmlc/xgboost,C++,4
-4524181,facebook/folly,C++,5
+39840932,google/googletest,C++,10
+16587283,dmlc/xgboost,C++,5
+4524181,facebook/folly,C++,6
 102692863,onnx/onnx,C++,5
-38581626,pybind/pybind11,C++,7
-1204412,TrinityCore/TrinityCore,C++,2
-108102826,carla-simulator/carla,C++,6
+38581626,pybind/pybind11,C++,8
+1204412,TrinityCore/TrinityCore,C++,1
+108102826,carla-simulator/carla,C++,8
 23086893,google/re2,C++,4
-88327406,xmrig/xmrig,C++,3
+88327406,xmrig/xmrig,C++,2
 1320594,SpiderLabs/ModSecurity,C++,3
-124976393,oatpp/oatpp,C++,16
+124976393,oatpp/oatpp,C++,13
 33200340,react-native-linear-gradient/react-native-linear-gradient,C++,1
 3030065,gnuradio/gnuradio,C++,110
-105566333,google/oboe,C++,2
+105566333,google/oboe,C++,3
 153097643,openvinotoolkit/openvino,C++,2
 39283837,HowardHinnant/date,C++,2
 9571473,gflags/gflags,C++,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 631615,Kitware/VTK,C++,2
 36057261,OSGeo/PROJ,C++,1
 52399959,intel/linux-sgx,C++,0
-135363400,ros-planning/navigation2,C++,2
+135363400,ros-planning/navigation2,C++,3
 401508496,M2Team/NanaZip,C++,123
 53515475,Azure/sonic-swss,C++,0

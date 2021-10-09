@@ -1,18 +1,18 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,75
-70104825,dotnet-architecture/eShopOnContainers,C#,6
-29078997,dotnet/roslyn,C#,3
-164140756,files-community/Files,C#,71
+70104825,dotnet-architecture/eShopOnContainers,C#,7
+29078997,dotnet/roslyn,C#,5
+164140756,files-community/Files,C#,67
 262395224,dotnet/maui,C#,9
 715082,reactiveui/ReactiveUI,C#,8
 54213490,xamarin/Xamarin.Forms,C#,0
-19216825,xamarin/xamarin-forms-samples,C#,3
-2928944,Azure/azure-sdk-for-net,C#,2
-117102183,ChilliCream/hotchocolate,C#,4
-49673872,sshnet/SSH.NET,C#,7
-372096057,Richasy/Bili.Uwp,C#,77
-187499284,Cysharp/UniTask,C#,0
-184286875,actions/runner,C#,1
+19216825,xamarin/xamarin-forms-samples,C#,2
+2928944,Azure/azure-sdk-for-net,C#,1
+117102183,ChilliCream/hotchocolate,C#,5
+49673872,sshnet/SSH.NET,C#,8
+372096057,Richasy/Bili.Uwp,C#,69
+187499284,Cysharp/UniTask,C#,1
+184286875,actions/runner,C#,2
 53052789,microsoft/azure-pipelines-agent,C#,0
 138646782,Azure/iotedge,C#,0
 35752188,dotnet/Nerdbank.GitVersioning,C#,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 156260788,Azure/azure-cosmos-dotnet-v3,C#,0
 101895131,DataDog/dd-trace-dotnet,C#,0
 281189664,Azure/azure-functions-dotnet-worker,C#,0
-413109336,CptWesley/NewWorldMinimap,C#,8
+413109336,CptWesley/NewWorldMinimap,C#,9
