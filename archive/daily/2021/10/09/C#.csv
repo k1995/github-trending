@@ -1,16 +1,16 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,24
+49609581,PowerShell/PowerShell,C#,75
 70104825,dotnet-architecture/eShopOnContainers,C#,6
 29078997,dotnet/roslyn,C#,3
-164140756,files-community/Files,C#,80
+164140756,files-community/Files,C#,78
 262395224,dotnet/maui,C#,10
 715082,reactiveui/ReactiveUI,C#,7
-54213490,xamarin/Xamarin.Forms,C#,1
-19216825,xamarin/xamarin-forms-samples,C#,2
+54213490,xamarin/Xamarin.Forms,C#,0
+19216825,xamarin/xamarin-forms-samples,C#,3
 2928944,Azure/azure-sdk-for-net,C#,2
 117102183,ChilliCream/hotchocolate,C#,3
 49673872,sshnet/SSH.NET,C#,5
-372096057,Richasy/Bili.Uwp,C#,113
+372096057,Richasy/Bili.Uwp,C#,107
 187499284,Cysharp/UniTask,C#,1
 184286875,actions/runner,C#,1
 53052789,microsoft/azure-pipelines-agent,C#,0
@@ -19,7 +19,7 @@ id,name,lang,new stars
 131026794,Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,1
 56740275,dotnet/project-system,C#,2
 93190658,Azure/azure-functions-durable-extension,C#,0
-173170791,dotnet/SqlClient,C#,0
+173170791,dotnet/SqlClient,C#,1
 156260788,Azure/azure-cosmos-dotnet-v3,C#,0
 101895131,DataDog/dd-trace-dotnet,C#,0
 281189664,Azure/azure-functions-dotnet-worker,C#,0
