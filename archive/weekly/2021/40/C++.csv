@@ -1,19 +1,19 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,190
-9384267,electron/electron,C++,961
-100060912,microsoft/terminal,C++,168
+9384267,electron/electron,C++,929
+100060912,microsoft/terminal,C++,169
 22067521,ocornut/imgui,C++,209
-1116542,aria2/aria2,C++,65
-19374812,telegramdesktop/tdesktop,C++,69
-116167731,yuzu-emu/yuzu,C++,62
-125098880,ValveSoftware/Proton,C++,86
-98771110,zhongyang219/TrafficMonitor,C++,218
+1116542,aria2/aria2,C++,64
+19374812,telegramdesktop/tdesktop,C++,68
+116167731,yuzu-emu/yuzu,C++,63
+125098880,ValveSoftware/Proton,C++,85
+98771110,zhongyang219/TrafficMonitor,C++,219
 32969220,esp8266/Arduino,C++,26
 1217614,xbmc/xbmc,C++,33
 2200856,MarlinFirmware/Marlin,C++,37
 5736080,FreeCAD/FreeCAD,C++,44
 59212953,polybar/polybar,C++,46
-136780445,kitao/pyxel,C++,77
+136780445,kitao/pyxel,C++,76
 6486826,hrydgard/ppsspp,C++,37
 88327406,xmrig/xmrig,C++,40
 1690480,qgis/QGIS,C++,28
@@ -22,5 +22,5 @@ id,name,lang,new stars
 2436255,Project-OSRM/osrm-backend,C++,18
 124976393,oatpp/oatpp,C++,208
 283280154,jomjol/AI-on-the-edge-device,C++,19
-317710554,facebook/mariana-trench,C++,169
+317710554,facebook/mariana-trench,C++,168
 411628041,mgeeky/ShellcodeFluctuation,C++,71
