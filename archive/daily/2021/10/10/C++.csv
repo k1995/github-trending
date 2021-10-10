@@ -1,19 +1,19 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,27
+45717250,tensorflow/tensorflow,C++,22
 65600975,pytorch/pytorch,C++,24
 23357588,protocolbuffers/protobuf,C++,41
 12791642,BVLC/caffe,C++,4
-11171548,nlohmann/json,C++,54
+11171548,nlohmann/json,C++,53
 39840932,google/googletest,C++,9
 16587283,dmlc/xgboost,C++,8
 4524181,facebook/folly,C++,8
 24420506,v8/v8,C++,5
-34777562,ossrs/srs,C++,16
-191820100,google/mediapipe,C++,16
+34777562,ossrs/srs,C++,17
+191820100,google/mediapipe,C++,17
 26038648,gabime/spdlog,C++,10
 29397594,ssloy/tinyrenderer,C++,7
 8162615,PointCloudLibrary/pcl,C++,4
-108102826,carla-simulator/carla,C++,9
+108102826,carla-simulator/carla,C++,8
 346871538,microsoft/wslg,C++,21
 21530861,open-source-parsers/jsoncpp,C++,1
 156939672,microsoft/onnxruntime,C++,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 151636194,triton-inference-server/server,C++,2
 6148317,OSGeo/gdal,C++,0
 153097643,openvinotoolkit/openvino,C++,0
-384306145,0voice/cpp_new_features,C++,34
-401508496,M2Team/NanaZip,C++,119
+384306145,0voice/cpp_new_features,C++,33
+401508496,M2Team/NanaZip,C++,117
 256975093,fletcherjiang/ssm-alipay,C++,39
