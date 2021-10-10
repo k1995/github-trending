@@ -1,15 +1,15 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,11
-27442967,fastlane/fastlane,Ruby,7
-8681349,huginn/huginn,Ruby,7
-13840241,freeCodeCamp/devdocs,Ruby,15
+27442967,fastlane/fastlane,Ruby,5
+8681349,huginn/huginn,Ruby,6
+13840241,freeCodeCamp/devdocs,Ruby,12
 308770,heartcombo/devise,Ruby,1
 4095287,rubocop/rubocop,Ruby,5
 3195124,mperham/sidekiq,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,8
+202291859,chatwoot/chatwoot,Ruby,9
 1918677,fluent/fluentd,Ruby,2
 812393,ruby-grape/grape,Ruby,1
-15435,Shopify/liquid,Ruby,4
+15435,Shopify/liquid,Ruby,5
 451035,heartcombo/simple_form,Ruby,1
 6529205,varvet/pundit,Ruby,0
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 390548093,rails/importmap-rails,Ruby,2
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,0
-3336350,mikeyzhe/shareapi_china,Ruby,8
+3336350,mikeyzhe/shareapi_china,Ruby,7
