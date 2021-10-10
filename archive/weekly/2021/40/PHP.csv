@@ -4,7 +4,7 @@ id,name,lang,new stars
 7548986,laravel/framework,PHP,60
 2253830,PHPMailer/PHPMailer,PHP,35
 2889328,WordPress/WordPress,PHP,44
-1548202,matomo-org/matomo,PHP,48
+1548202,matomo-org/matomo,PHP,49
 82238168,monicahq/monica,PHP,676
 12615154,barryvdh/laravel-debugbar,PHP,34
 47495360,koel/koel,PHP,34
@@ -15,7 +15,7 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,18
 2179920,woocommerce/woocommerce,PHP,21
 9791525,digininja/DVWA,PHP,18
-148129143,bagisto/bagisto,PHP,23
+148129143,bagisto/bagisto,PHP,24
 1543827,moneyphp/money,PHP,24
 62937181,PrivateBin/PrivateBin,PHP,27
 38200433,jeroennoten/Laravel-AdminLTE,PHP,17
@@ -23,4 +23,4 @@ id,name,lang,new stars
 71485542,kevinpapst/kimai2,PHP,16
 111562942,statamic/cms,PHP,15
 174021137,inertiajs/pingcrm,PHP,15
-410524724,nunomaduro/termwind,PHP,149
+410524724,nunomaduro/termwind,PHP,147
