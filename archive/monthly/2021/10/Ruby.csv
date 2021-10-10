@@ -1,14 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,261
+8514,rails/rails,Ruby,260
 65252,jekyll/jekyll,Ruby,188
-7569578,discourse/discourse,Ruby,239
-27442967,fastlane/fastlane,Ruby,210
+7569578,discourse/discourse,Ruby,240
+27442967,fastlane/fastlane,Ruby,208
 13840241,freeCodeCamp/devdocs,Ruby,229
-2293158,rapid7/metasploit-framework,Ruby,284
+2293158,rapid7/metasploit-framework,Ruby,285
 52281283,mastodon/mastodon,Ruby,205
 481872,hashicorp/vagrant,Ruby,171
 308770,heartcombo/devise,Ruby,82
-538746,ruby/ruby,Ruby,118
 73648678,forem/forem,Ruby,177
 585285,gollum/gollum,Ruby,552
 4095287,rubocop/rubocop,Ruby,65
@@ -17,10 +16,11 @@ id,name,lang,new stars
 202291859,chatwoot/chatwoot,Ruby,740
 52855516,Homebrew/homebrew-core,Ruby,175
 96395,faker-ruby/faker,Ruby,48
-611921,activeadmin/activeadmin,Ruby,20
 16549503,github/scientist,Ruby,72
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,147
-30985840,solidusio/solidus,Ruby,50
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,146
+30985840,solidusio/solidus,Ruby,49
+61203,Shopify/shopify_app,Ruby,13
 161399160,Shopify/shopify-cli,Ruby,42
+70830890,bigbluebutton/greenlight,Ruby,3
 212813096,lewagon/data-setup,Ruby,265
 66497320,DataDog/dd-trace-rb,Ruby,4
