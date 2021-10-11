@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,67
+8514,rails/rails,Ruby,69
 65252,jekyll/jekyll,Ruby,42
-2293158,rapid7/metasploit-framework,Ruby,76
+2293158,rapid7/metasploit-framework,Ruby,75
 52281283,mastodon/mastodon,Ruby,64
 481872,hashicorp/vagrant,Ruby,39
 73648678,forem/forem,Ruby,70
-585285,gollum/gollum,Ruby,141
+585285,gollum/gollum,Ruby,140
 4095287,rubocop/rubocop,Ruby,21
-18486300,lewagon/setup,Ruby,381
+18486300,lewagon/setup,Ruby,380
 52855516,Homebrew/homebrew-core,Ruby,58
 96395,faker-ruby/faker,Ruby,13
 2441517,puma/puma,Ruby,5
@@ -16,7 +16,7 @@ id,name,lang,new stars
 1548802,activerecord-hackery/ransack,Ruby,8
 2802565,doorkeeper-gem/doorkeeper,Ruby,5
 30985840,solidusio/solidus,Ruby,21
-69813387,iberianpig/fusuma,Ruby,34
+69813387,iberianpig/fusuma,Ruby,35
 11426474,github/choosealicense.com,Ruby,14
 189010173,Hackplayers/evil-winrm,Ruby,21
 200302808,github/view_component,Ruby,8
