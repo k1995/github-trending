@@ -1,13 +1,13 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,30
 1864363,composer/composer,PHP,30
-7548986,laravel/framework,PHP,60
+7548986,laravel/framework,PHP,59
 2253830,PHPMailer/PHPMailer,PHP,35
 2889328,WordPress/WordPress,PHP,43
-1548202,matomo-org/matomo,PHP,50
-82238168,monicahq/monica,PHP,592
+1548202,matomo-org/matomo,PHP,52
+82238168,monicahq/monica,PHP,589
 12615154,barryvdh/laravel-debugbar,PHP,33
-47495360,koel/koel,PHP,34
+47495360,koel/koel,PHP,35
 49014795,phpstan/phpstan,PHP,37
 14259390,Maatwebsite/Laravel-Excel,PHP,25
 2699935,squizlabs/PHP_CodeSniffer,PHP,28
@@ -22,5 +22,5 @@ id,name,lang,new stars
 29501260,api-platform/core,PHP,3
 71485542,kevinpapst/kimai2,PHP,16
 111562942,statamic/cms,PHP,14
-174021137,inertiajs/pingcrm,PHP,15
-410524724,nunomaduro/termwind,PHP,143
+174021137,inertiajs/pingcrm,PHP,14
+410524724,nunomaduro/termwind,PHP,140

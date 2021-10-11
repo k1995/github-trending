@@ -1,17 +1,17 @@
 id,name,lang,new stars
 23096959,golang/go,Go,36
 48378947,fatedier/frp,Go,50
-14712850,syncthing/syncthing,Go,25
-15452919,ethereum/go-ethereum,Go,21
+14712850,syncthing/syncthing,Go,24
+15452919,ethereum/go-ethereum,Go,20
 41986369,pingcap/tidb,Go,8
 8989842,unknwon/the-way-to-go_ZH_CN,Go,15
 97533102,halfrost/LeetCode-Go,Go,22
-136815833,Dreamacro/clash,Go,23
+136815833,Dreamacro/clash,Go,22
 156084530,ehang-io/nps,Go,10
 165041732,go-kratos/kratos,Go,6
-192632000,dapr/dapr,Go,7
-285864199,zeromicro/go-zero,Go,50
-205679232,flipped-aurora/gin-vue-admin,Go,9
+192632000,dapr/dapr,Go,8
+285864199,zeromicro/go-zero,Go,45
+205679232,flipped-aurora/gin-vue-admin,Go,11
 201658460,geektutu/7days-golang,Go,11
 208728772,milvus-io/milvus,Go,14
 130430977,kubesphere/kubesphere,Go,8
@@ -19,8 +19,8 @@ id,name,lang,new stars
 106704041,cosmtrek/air,Go,22
 367758176,yedf/dtm,Go,17
 232630362,hashicorp/boundary,Go,8
-384451028,cloudwego/kitex,Go,10
-193681111,filecoin-project/lotus,Go,17
-111423359,ardanlabs/service,Go,20
+384451028,cloudwego/kitex,Go,11
+193681111,filecoin-project/lotus,Go,14
+111423359,ardanlabs/service,Go,18
 308485332,lotusirous/go-concurrency-patterns,Go,29
 405828058,go-kratos/gateway,Go,5
