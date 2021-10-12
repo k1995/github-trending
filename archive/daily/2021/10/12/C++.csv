@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,61
-67702184,topjohnwu/Magisk,C++,24
+1181927,bitcoin/bitcoin,C++,66
+67702184,topjohnwu/Magisk,C++,25
 74660642,taichi-dev/taichi,C++,16
 196813750,Light-City/CPlusPlusThings,C++,16
-3351871,qbittorrent/qBittorrent,C++,7
-2200856,MarlinFirmware/Marlin,C++,6
+3351871,qbittorrent/qBittorrent,C++,8
+2200856,MarlinFirmware/Marlin,C++,5
 2701888,mawww/kakoune,C++,3
-648332,assimp/assimp,C++,3
+648332,assimp/assimp,C++,4
 7512484,ArduPilot/ardupilot,C++,6
 130068982,taskflow/taskflow,C++,3
 5973855,CleverRaven/Cataclysm-DDA,C++,5
-235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,16
+235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,17
 115883761,tdlib/td,C++,5
 189205663,qinguoyi/TinyWebServer,C++,14
 52882701,prusa3d/PrusaSlicer,C++,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 384306145,0voice/cpp_new_features,C++,23
 401508496,M2Team/NanaZip,C++,53
 403328350,Uahh/slscq,C++,22
-393650279,peng-zhihui/Ctrl-FOC-Lite,C++,11
-256975093,fletcherjiang/ssm-alipay,C++,39
+393650279,peng-zhihui/Ctrl-FOC-Lite,C++,10
+256975093,fletcherjiang/ssm-alipay,C++,40

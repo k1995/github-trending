@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,74
+8514,rails/rails,Ruby,73
 65252,jekyll/jekyll,Ruby,51
 2293158,rapid7/metasploit-framework,Ruby,73
 52281283,mastodon/mastodon,Ruby,59
 481872,hashicorp/vagrant,Ruby,39
 2500088,gitlabhq/gitlabhq,Ruby,7
-73648678,forem/forem,Ruby,72
+73648678,forem/forem,Ruby,73
 4095287,rubocop/rubocop,Ruby,20
-18486300,lewagon/setup,Ruby,127
+18486300,lewagon/setup,Ruby,126
 52855516,Homebrew/homebrew-core,Ruby,53
-96395,faker-ruby/faker,Ruby,13
+96395,faker-ruby/faker,Ruby,11
 910744,puppetlabs/puppet,Ruby,9
 1548802,activerecord-hackery/ransack,Ruby,8
 2802565,doorkeeper-gem/doorkeeper,Ruby,5
@@ -18,9 +18,9 @@ id,name,lang,new stars
 69813387,iberianpig/fusuma,Ruby,38
 3898922,zammad/zammad,Ruby,12
 5144181,jnunemaker/flipper,Ruby,8
-11426474,github/choosealicense.com,Ruby,14
+11426474,github/choosealicense.com,Ruby,13
 93163073,dependabot/dependabot-core,Ruby,9
 9831101,elastic/elasticsearch-ruby,Ruby,1
 70830890,bigbluebutton/greenlight,Ruby,0
-212813096,lewagon/data-setup,Ruby,35
+212813096,lewagon/data-setup,Ruby,36
 66497320,DataDog/dd-trace-rb,Ruby,0
