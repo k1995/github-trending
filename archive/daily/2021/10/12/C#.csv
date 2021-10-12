@@ -1,17 +1,17 @@
 id,name,lang,new stars
-70104825,dotnet-architecture/eShopOnContainers,C#,11
+70104825,dotnet-architecture/eShopOnContainers,C#,13
 120231691,Ryujinx/Ryujinx,C#,16
 28239455,dotnet/AspNetCore.Docs,C#,1
-46755185,bitwarden/server,C#,8
+46755185,bitwarden/server,C#,11
 28232663,dotnet/orleans,C#,6
 12191244,dotnet/BenchmarkDotNet,C#,3
-75505125,abpframework/abp,C#,10
-4213474,Humanizr/Humanizer,C#,6
-500093,winsw/winsw,C#,12
-203892454,kgrzybek/modular-monolith-with-ddd,C#,4
+75505125,abpframework/abp,C#,9
+4213474,Humanizr/Humanizer,C#,5
+500093,winsw/winsw,C#,11
+203892454,kgrzybek/modular-monolith-with-ddd,C#,3
 743436,egametang/ET,C#,6
-159548561,grpc/grpc-dotnet,C#,1
-117102183,ChilliCream/hotchocolate,C#,5
+159548561,grpc/grpc-dotnet,C#,2
+117102183,ChilliCream/hotchocolate,C#,6
 187499284,Cysharp/UniTask,C#,5
 375939072,dotnetcore/FastGithub,C#,5
 176523594,lucent-sea/Remotely,C#,1
@@ -19,8 +19,7 @@ id,name,lang,new stars
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,2
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,1
 131026794,Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,0
-387542412,builtbybel/ThisIsWin11,C#,22
-370188376,torchgm/RoundedTB,C#,13
+387542412,builtbybel/ThisIsWin11,C#,20
+370188376,torchgm/RoundedTB,C#,15
 166789045,donet5/WebFirst,C#,3
-414723881,coofcookie/Windows11Upgrade,C#,24
-398479154,TastSong/CrazyCar,C#,7
+414723881,coofcookie/Windows11Upgrade,C#,25
