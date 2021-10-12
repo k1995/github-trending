@@ -1,9 +1,9 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,9
-7569578,discourse/discourse,Ruby,6
+65252,jekyll/jekyll,Ruby,10
+7569578,discourse/discourse,Ruby,7
 27442967,fastlane/fastlane,Ruby,8
-8681349,huginn/huginn,Ruby,12
-2293158,rapid7/metasploit-framework,Ruby,9
+8681349,huginn/huginn,Ruby,13
+2293158,rapid7/metasploit-framework,Ruby,11
 52281283,mastodon/mastodon,Ruby,7
 911765,diaspora/diaspora,Ruby,0
 138312,capistrano/capistrano,Ruby,1
@@ -13,7 +13,7 @@ id,name,lang,new stars
 451035,heartcombo/simple_form,Ruby,0
 910744,puppetlabs/puppet,Ruby,1
 6899875,opf/openproject,Ruby,4
-11426474,github/choosealicense.com,Ruby,1
+11426474,github/choosealicense.com,Ruby,0
 117646,rubygems/rubygems.org,Ruby,3
 8154497,rubysec/ruby-advisory-db,Ruby,0
 287024,flori/json,Ruby,0
