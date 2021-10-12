@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,71
-65252,jekyll/jekyll,Ruby,54
-2293158,rapid7/metasploit-framework,Ruby,72
+8514,rails/rails,Ruby,68
+65252,jekyll/jekyll,Ruby,55
+2293158,rapid7/metasploit-framework,Ruby,71
 52281283,mastodon/mastodon,Ruby,58
-481872,hashicorp/vagrant,Ruby,35
-2500088,gitlabhq/gitlabhq,Ruby,7
+481872,hashicorp/vagrant,Ruby,36
+2500088,gitlabhq/gitlabhq,Ruby,8
 73648678,forem/forem,Ruby,75
-4095287,rubocop/rubocop,Ruby,21
-18486300,lewagon/setup,Ruby,126
+4095287,rubocop/rubocop,Ruby,20
+18486300,lewagon/setup,Ruby,123
 52855516,Homebrew/homebrew-core,Ruby,49
 96395,faker-ruby/faker,Ruby,12
 910744,puppetlabs/puppet,Ruby,8
@@ -15,12 +15,12 @@ id,name,lang,new stars
 2802565,doorkeeper-gem/doorkeeper,Ruby,5
 30337170,rmosolgo/graphql-ruby,Ruby,4
 30985840,solidusio/solidus,Ruby,20
-69813387,iberianpig/fusuma,Ruby,37
+69813387,iberianpig/fusuma,Ruby,36
 3898922,zammad/zammad,Ruby,12
 5144181,jnunemaker/flipper,Ruby,8
 11426474,github/choosealicense.com,Ruby,12
 93163073,dependabot/dependabot-core,Ruby,9
 9831101,elastic/elasticsearch-ruby,Ruby,1
-70830890,bigbluebutton/greenlight,Ruby,0
+70830890,bigbluebutton/greenlight,Ruby,1
 212813096,lewagon/data-setup,Ruby,34
 66497320,DataDog/dd-trace-rb,Ruby,0
