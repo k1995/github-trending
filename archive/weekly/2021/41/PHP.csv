@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,105
-3482588,danielmiessler/SecLists,PHP,133
+1863329,laravel/laravel,PHP,106
+3482588,danielmiessler/SecLists,PHP,134
 1864363,composer/composer,PHP,27
-7548986,laravel/framework,PHP,42
+7548986,laravel/framework,PHP,46
 1420053,guzzle/guzzle,PHP,21
-2253830,PHPMailer/PHPMailer,PHP,36
+2253830,PHPMailer/PHPMailer,PHP,35
 2889328,WordPress/WordPress,PHP,48
 1548202,matomo-org/matomo,PHP,53
-47495360,koel/koel,PHP,36
-8678290,barryvdh/laravel-ide-helper,PHP,26
+47495360,koel/koel,PHP,37
+8678290,barryvdh/laravel-ide-helper,PHP,27
 2699935,squizlabs/PHP_CodeSniffer,PHP,30
 622166,FriendsOfPHP/Goutte,PHP,27
 6660366,dompdf/dompdf,PHP,23
 2179920,woocommerce/woocommerce,PHP,24
 6763587,PrestaShop/PrestaShop,PHP,14
-95011974,akaunting/akaunting,PHP,32
+95011974,akaunting/akaunting,PHP,33
 222873550,bytefury/crater,PHP,35
 1543827,moneyphp/money,PHP,26
 10728912,corcel/corcel,PHP,29
@@ -23,4 +23,4 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,10
 29501260,api-platform/core,PHP,4
 111562942,statamic/cms,PHP,17
-174021137,inertiajs/pingcrm,PHP,10
+174021137,inertiajs/pingcrm,PHP,11
