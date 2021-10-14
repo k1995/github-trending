@@ -4,7 +4,7 @@ id,name,lang,new stars
 1357796,emscripten-core/emscripten,C,6
 2810292,pbatard/rufus,C,32
 5254557,cloudwu/skynet,C,3
-45821540,openwrt/openwrt,C,7
+45821540,openwrt/openwrt,C,6
 1856976,libevent/libevent,C,3
 65899476,espressif/esp-idf,C,5
 105944401,yugabyte/yugabyte-db,C,4
@@ -17,10 +17,10 @@ id,name,lang,new stars
 349490770,FASTSHIFT/X-TRACK,C,20
 83160811,littlefs-project/littlefs,C,2
 76599439,FRRouting/frr,C,1
-117704656,remzi-arpacidusseau/ostep-projects,C,3
+117704656,remzi-arpacidusseau/ostep-projects,C,4
 26537135,u-boot/u-boot,C,1
 204459250,mit-pdos/xv6-riscv,C,4
 15333809,open62541/open62541,C,0
-415492224,peng-zhihui/Peak,C,90
-394318710,valinet/ExplorerPatcher,C,28
+415492224,peng-zhihui/Peak,C,89
+394318710,valinet/ExplorerPatcher,C,29
 51990771,ARM-software/CMSIS_5,C,1

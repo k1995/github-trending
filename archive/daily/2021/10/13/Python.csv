@@ -1,12 +1,12 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,100
-123458551,jackfrued/Python-100-Days,Python,104
-21289110,vinta/awesome-python,Python,109
-262296122,PaddlePaddle/PaddleOCR,Python,66
+83222441,donnemartin/system-design-primer,Python,95
+123458551,jackfrued/Python-100-Days,Python,162
+21289110,vinta/awesome-python,Python,111
+262296122,PaddlePaddle/PaddleOCR,Python,68
 16479108,wagtail/wagtail,Python,10
-91594105,ansible/awx,Python,4
-387326890,xinntao/Real-ESRGAN,Python,453
-273839530,Python-World/python-mini-projects,Python,54
+91594105,ansible/awx,Python,3
+387326890,xinntao/Real-ESRGAN,Python,452
+273839530,Python-World/python-mini-projects,Python,52
 209120637,Netflix/metaflow,Python,5
 114054873,espnet/espnet,Python,8
 167349656,FederatedAI/FATE,Python,7
@@ -18,9 +18,9 @@ id,name,lang,new stars
 414545335,NVlabs/stylegan3,Python,560
 24000265,PyCQA/flake8,Python,11
 325491766,muguruzawang/jd_maotai_seckill,Python,3
-225634372,Hackndo/lsassy,Python,31
+225634372,Hackndo/lsassy,Python,32
 412005579,thunlp/OpenPrompt,Python,32
-408162426,martinet101/ElevenClock,Python,33
+408162426,martinet101/ElevenClock,Python,40
 411806026,ptswarm/reFlutter,Python,39
 405059928,Amaindex/asyncio-socks-server,Python,4
 394155542,gato-louco/exitlag-account-activator,Python,3

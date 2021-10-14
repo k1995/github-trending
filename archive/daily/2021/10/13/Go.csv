@@ -1,7 +1,7 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,34
-20904437,gin-gonic/gin,Go,30
-48378947,fatedier/frp,Go,143
+20580498,kubernetes/kubernetes,Go,32
+20904437,gin-gonic/gin,Go,31
+48378947,fatedier/frp,Go,139
 42408804,traefik/traefik,Go,18
 29261473,minio/minio,Go,36
 74175805,istio/istio,Go,16
@@ -12,9 +12,9 @@ id,name,lang,new stars
 66573241,hyperledger/fabric,Go,9
 285864199,zeromicro/go-zero,Go,38
 72891330,kubernetes/ingress-nginx,Go,8
-208728772,milvus-io/milvus,Go,78
-68964263,prometheus-operator/prometheus-operator,Go,5
-47859258,goplus/gop,Go,51
+208728772,milvus-io/milvus,Go,89
+68964263,prometheus-operator/prometheus-operator,Go,4
+47859258,goplus/gop,Go,53
 12332444,onsi/ginkgo,Go,4
 367284699,lima-vm/lima,Go,15
 81497153,kubernetes-sigs/external-dns,Go,8
