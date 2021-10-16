@@ -1,11 +1,11 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,8
 7569578,discourse/discourse,Ruby,6
-27442967,fastlane/fastlane,Ruby,8
-308770,heartcombo/devise,Ruby,1
-538746,ruby/ruby,Ruby,4
-73648678,forem/forem,Ruby,32
-2203645,CocoaPods/CocoaPods,Ruby,2
+27442967,fastlane/fastlane,Ruby,7
+308770,heartcombo/devise,Ruby,2
+538746,ruby/ruby,Ruby,5
+73648678,forem/forem,Ruby,31
+2203645,CocoaPods/CocoaPods,Ruby,1
 4095287,rubocop/rubocop,Ruby,2
 3195124,mperham/sidekiq,Ruby,2
 88740103,postalserver/postal,Ruby,3
@@ -13,10 +13,10 @@ id,name,lang,new stars
 1725199,github/linguist,Ruby,3
 611921,activeadmin/activeadmin,Ruby,0
 1333863,kaminari/kaminari,Ruby,2
-451035,heartcombo/simple_form,Ruby,1
+451035,heartcombo/simple_form,Ruby,0
 21829,thoughtbot/factory_bot,Ruby,0
 2441517,puma/puma,Ruby,0
-108278,chef/chef,Ruby,2
+108278,chef/chef,Ruby,0
 4994614,wpscanteam/wpscan,Ruby,0
 5144181,jnunemaker/flipper,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,0
