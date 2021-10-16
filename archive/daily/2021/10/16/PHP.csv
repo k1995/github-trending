@@ -1,17 +1,17 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,3
-458058,symfony/symfony,PHP,6
-7548986,laravel/framework,PHP,11
-1420053,guzzle/guzzle,PHP,4
+458058,symfony/symfony,PHP,5
+7548986,laravel/framework,PHP,8
+1420053,guzzle/guzzle,PHP,3
 448045,sebastianbergmann/phpunit,PHP,1
 3431193,yiisoft/yii2,PHP,3
-12615154,barryvdh/laravel-debugbar,PHP,7
-14259390,Maatwebsite/Laravel-Excel,PHP,3
+12615154,barryvdh/laravel-debugbar,PHP,5
+14259390,Maatwebsite/Laravel-Excel,PHP,2
 2884111,magento/magento2,PHP,1
-622166,FriendsOfPHP/Goutte,PHP,4
+622166,FriendsOfPHP/Goutte,PHP,3
 12166778,googleapis/google-api-php-client,PHP,2
-41589337,BookStackApp/BookStack,PHP,13
-6763587,PrestaShop/PrestaShop,PHP,2
+41589337,BookStackApp/BookStack,PHP,14
+6763587,PrestaShop/PrestaShop,PHP,4
 4242230,PHPOffice/PHPWord,PHP,2
 14346979,snipe/snipe-it,PHP,3
 12204147,mautic/mautic,PHP,3
@@ -19,8 +19,8 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,2
 351298555,thedevdojo/wave,PHP,3
 1509011,FriendsOfSymfony/FOSRestBundle,PHP,0
-141720301,dr5hn/countries-states-cities-database,PHP,8
+141720301,dr5hn/countries-states-cities-database,PHP,7
 34407154,cweagans/composer-patches,PHP,1
-281640234,5ime/video_spider,PHP,1
-410524724,nunomaduro/termwind,PHP,15
+281640234,5ime/video_spider,PHP,0
+410524724,nunomaduro/termwind,PHP,14
 184538454,yankovalenko94/Webdev2019,PHP,0
