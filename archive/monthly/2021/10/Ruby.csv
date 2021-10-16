@@ -1,20 +1,20 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,275
+8514,rails/rails,Ruby,274
 65252,jekyll/jekyll,Ruby,195
-7569578,discourse/discourse,Ruby,237
-27442967,fastlane/fastlane,Ruby,217
-13840241,freeCodeCamp/devdocs,Ruby,241
+7569578,discourse/discourse,Ruby,236
+27442967,fastlane/fastlane,Ruby,216
+13840241,freeCodeCamp/devdocs,Ruby,244
 2293158,rapid7/metasploit-framework,Ruby,306
-52281283,mastodon/mastodon,Ruby,197
-308770,heartcombo/devise,Ruby,77
-73648678,forem/forem,Ruby,261
-1090311,elastic/logstash,Ruby,51
+52281283,mastodon/mastodon,Ruby,196
+308770,heartcombo/devise,Ruby,76
+73648678,forem/forem,Ruby,259
+1090311,elastic/logstash,Ruby,50
 585285,gollum/gollum,Ruby,590
 4095287,rubocop/rubocop,Ruby,67
 18486300,lewagon/setup,Ruby,670
-3195124,mperham/sidekiq,Ruby,66
-202291859,chatwoot/chatwoot,Ruby,730
-52855516,Homebrew/homebrew-core,Ruby,173
+3195124,mperham/sidekiq,Ruby,67
+202291859,chatwoot/chatwoot,Ruby,727
+52855516,Homebrew/homebrew-core,Ruby,174
 96395,faker-ruby/faker,Ruby,50
 2441517,puma/puma,Ruby,32
 16549503,github/scientist,Ruby,69
@@ -23,4 +23,4 @@ id,name,lang,new stars
 161399160,Shopify/shopify-cli,Ruby,40
 70830890,bigbluebutton/greenlight,Ruby,5
 212813096,lewagon/data-setup,Ruby,282
-66497320,DataDog/dd-trace-rb,Ruby,3
+66497320,DataDog/dd-trace-rb,Ruby,2
