@@ -1,17 +1,17 @@
 id,name,lang,new stars
 23096959,golang/go,Go,44
-20580498,kubernetes/kubernetes,Go,28
-48378947,fatedier/frp,Go,45
-5271882,astaxie/build-web-application-with-golang,Go,7
-74175805,istio/istio,Go,6
-13628513,sirupsen/logrus,Go,11
-12080551,tsenart/vegeta,Go,8
+20580498,kubernetes/kubernetes,Go,24
+48378947,fatedier/frp,Go,40
+5271882,astaxie/build-web-application-with-golang,Go,6
+74175805,istio/istio,Go,7
+13628513,sirupsen/logrus,Go,9
+12080551,tsenart/vegeta,Go,6
 135516270,k3s-io/k3s,Go,13
 50613991,goharbor/harbor,Go,5
 29371034,micro/micro,Go,24
 72477752,pulumi/pulumi,Go,5
-31558937,gravitational/teleport,Go,5
-48109239,cilium/cilium,Go,9
+31558937,gravitational/teleport,Go,6
+48109239,cilium/cilium,Go,11
 208728772,milvus-io/milvus,Go,15
 159540440,google/wire,Go,7
 47859258,goplus/gop,Go,156
