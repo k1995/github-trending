@@ -1,17 +1,17 @@
 id,name,lang,new stars
 48378947,fatedier/frp,Go,639
-157616880,iptv-org/iptv,JavaScript,519
-49609581,PowerShell/PowerShell,C#,140
+157616880,iptv-org/iptv,JavaScript,472
+49609581,PowerShell/PowerShell,C#,141
 11171548,nlohmann/json,C++,165
-42920477,sentsin/layui,JavaScript,323
+42920477,sentsin/layui,JavaScript,325
 58842707,trailofbits/algo,Python,1101
 19745004,odoo/odoo,JavaScript,132
-68720867,firstcontributions/first-contributions,,168
+68720867,firstcontributions/first-contributions,,173
 126178683,halo-dev/halo,Java,102
 34777562,ossrs/srs,C++,378
 168799526,rwightman/pytorch-image-models,Python,257
 129283183,facebook/flipper,TypeScript,288
-393571599,babysor/MockingBird,JavaScript,1236
+393571599,babysor/MockingBird,JavaScript,1233
 307260205,yt-dlp/yt-dlp,Python,836
 382496361,louislam/uptime-kuma,JavaScript,1688
 139199684,PrefectHQ/prefect,Python,92
@@ -23,4 +23,4 @@ id,name,lang,new stars
 116457726,ethereum/ethereum-org-website,JavaScript,194
 412132838,googleprojectzero/weggli,Rust,174
 381453955,hrsh7th/nvim-cmp,Lua,119
-409892817,Slurmio/school-dev-k8s,Mustache,112
+409892817,Slurmio/school-dev-k8s,Mustache,113
