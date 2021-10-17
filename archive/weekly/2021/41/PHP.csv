@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,150
-1864363,composer/composer,PHP,25
+3482588,danielmiessler/SecLists,PHP,151
+1864363,composer/composer,PHP,26
 1420053,guzzle/guzzle,PHP,17
 2889328,WordPress/WordPress,PHP,36
 1548202,matomo-org/matomo,PHP,35
-47495360,koel/koel,PHP,24
+47495360,koel/koel,PHP,23
 48796179,z-song/laravel-admin,PHP,12
 2699935,squizlabs/PHP_CodeSniffer,PHP,24
-622166,FriendsOfPHP/Goutte,PHP,31
-6660366,dompdf/dompdf,PHP,19
+622166,FriendsOfPHP/Goutte,PHP,32
+6660366,dompdf/dompdf,PHP,20
 2179920,woocommerce/woocommerce,PHP,18
 41589337,BookStackApp/BookStack,PHP,102
-21298446,firefly-iii/firefly-iii,PHP,53
+21298446,firefly-iii/firefly-iii,PHP,52
 2717549,Sylius/Sylius,PHP,15
 6763587,PrestaShop/PrestaShop,PHP,11
 4242230,PHPOffice/PHPWord,PHP,17
@@ -19,8 +19,8 @@ id,name,lang,new stars
 8077402,MISP/MISP,PHP,20
 38200433,jeroennoten/Laravel-AdminLTE,PHP,9
 69691727,pmmp/PocketMine-MP,PHP,12
-139179084,area17/twill,PHP,34
+139179084,area17/twill,PHP,35
 29501260,api-platform/core,PHP,3
-211499617,mm0r1/exploits,PHP,46
+211499617,mm0r1/exploits,PHP,45
 75645659,WordPress/wordpress-develop,PHP,10
-410524724,nunomaduro/termwind,PHP,155
+410524724,nunomaduro/termwind,PHP,156
