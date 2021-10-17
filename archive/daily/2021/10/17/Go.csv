@@ -1,15 +1,15 @@
 id,name,lang,new stars
 23096959,golang/go,Go,39
-20580498,kubernetes/kubernetes,Go,24
+20580498,kubernetes/kubernetes,Go,28
 48378947,fatedier/frp,Go,36
-5271882,astaxie/build-web-application-with-golang,Go,8
-74175805,istio/istio,Go,9
-13628513,sirupsen/logrus,Go,9
-12080551,tsenart/vegeta,Go,5
-135516270,k3s-io/k3s,Go,14
+5271882,astaxie/build-web-application-with-golang,Go,10
+74175805,istio/istio,Go,12
+13628513,sirupsen/logrus,Go,10
+12080551,tsenart/vegeta,Go,4
+135516270,k3s-io/k3s,Go,8
 50613991,goharbor/harbor,Go,5
-29371034,micro/micro,Go,25
-72477752,pulumi/pulumi,Go,6
+29371034,micro/micro,Go,18
+72477752,pulumi/pulumi,Go,9
 31558937,gravitational/teleport,Go,5
 48109239,cilium/cilium,Go,9
 208728772,milvus-io/milvus,Go,20
@@ -22,5 +22,5 @@ id,name,lang,new stars
 81497153,kubernetes-sigs/external-dns,Go,3
 367758176,yedf/dtm,Go,16
 54503347,opencontainers/image-spec,Go,0
-49970739,DataDog/datadog-agent,Go,0
 392596825,ddosify/ddosify,Go,288
+49970739,DataDog/datadog-agent,Go,0

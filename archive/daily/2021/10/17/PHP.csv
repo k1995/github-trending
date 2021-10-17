@@ -1,20 +1,20 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,1
 458058,symfony/symfony,PHP,3
-7548986,laravel/framework,PHP,12
+7548986,laravel/framework,PHP,11
 1420053,guzzle/guzzle,PHP,0
-448045,sebastianbergmann/phpunit,PHP,1
-3431193,yiisoft/yii2,PHP,1
+448045,sebastianbergmann/phpunit,PHP,3
+3431193,yiisoft/yii2,PHP,2
 12615154,barryvdh/laravel-debugbar,PHP,2
 14259390,Maatwebsite/Laravel-Excel,PHP,4
-2884111,magento/magento2,PHP,2
+2884111,magento/magento2,PHP,1
 622166,FriendsOfPHP/Goutte,PHP,3
-12166778,googleapis/google-api-php-client,PHP,5
-41589337,BookStackApp/BookStack,PHP,11
+12166778,googleapis/google-api-php-client,PHP,6
+41589337,BookStackApp/BookStack,PHP,10
 6763587,PrestaShop/PrestaShop,PHP,0
 4242230,PHPOffice/PHPWord,PHP,0
 14346979,snipe/snipe-it,PHP,5
-12204147,mautic/mautic,PHP,4
+12204147,mautic/mautic,PHP,5
 576099,doctrine/migrations,PHP,0
 439861,moodle/moodle,PHP,1
 351298555,thedevdojo/wave,PHP,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 141720301,dr5hn/countries-states-cities-database,PHP,3
 34407154,cweagans/composer-patches,PHP,0
 281640234,5ime/video_spider,PHP,2
-410524724,nunomaduro/termwind,PHP,7
+410524724,nunomaduro/termwind,PHP,9
 184538454,yankovalenko94/Webdev2019,PHP,0
