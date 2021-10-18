@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
-7569578,discourse/discourse,Ruby,8
+8514,rails/rails,Ruby,8
+7569578,discourse/discourse,Ruby,9
 27442967,fastlane/fastlane,Ruby,3
 308770,heartcombo/devise,Ruby,0
-538746,ruby/ruby,Ruby,4
-73648678,forem/forem,Ruby,19
-2203645,CocoaPods/CocoaPods,Ruby,1
-4095287,rubocop/rubocop,Ruby,0
+538746,ruby/ruby,Ruby,2
+73648678,forem/forem,Ruby,24
+2203645,CocoaPods/CocoaPods,Ruby,2
+4095287,rubocop/rubocop,Ruby,1
 3195124,mperham/sidekiq,Ruby,0
 88740103,postalserver/postal,Ruby,0
-1918677,fluent/fluentd,Ruby,1
+1918677,fluent/fluentd,Ruby,4
 1725199,github/linguist,Ruby,1
 611921,activeadmin/activeadmin,Ruby,0
 1333863,kaminari/kaminari,Ruby,1
@@ -17,9 +17,9 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,0
 2441517,puma/puma,Ruby,3
 108278,chef/chef,Ruby,1
-4994614,wpscanteam/wpscan,Ruby,5
+4994614,wpscanteam/wpscan,Ruby,7
 5144181,jnunemaker/flipper,Ruby,1
-93163073,dependabot/dependabot-core,Ruby,2
+93163073,dependabot/dependabot-core,Ruby,0
 1953385,stripe/stripe-ruby,Ruby,0
 321647551,hotwired/hotwire-rails,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
