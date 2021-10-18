@@ -1,19 +1,19 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,76
+121395510,CyC2018/CS-Notes,Java,78
 132464395,Snailclimb/JavaGuide,Java,42
-148736243,qiurunze123/miaosha,Java,61
+148736243,qiurunze123/miaosha,Java,42
 120395176,alibaba/easyexcel,Java,5
 163387337,seata/seata,Java,6
 7587038,alibaba/canal,Java,6
 45721011,apache/skywalking,Java,6
-128018428,alibaba/Sentinel,Java,6
+128018428,alibaba/Sentinel,Java,7
 20587599,apache/flink,Java,4
-41889031,TeamNewPipe/NewPipe,Java,13
+41889031,TeamNewPipe/NewPipe,Java,14
 88970564,Tencent/QMUI_Android,Java,2
 65987043,baomidou/mybatis-plus,Java,3
-11125589,keycloak/keycloak,Java,6
-715605,redis/jedis,Java,4
-75277003,thingsboard/thingsboard,Java,130
+11125589,keycloak/keycloak,Java,7
+715605,redis/jedis,Java,5
+75277003,thingsboard/thingsboard,Java,121
 27729926,grpc/grpc-java,Java,1
 10981994,OpenFeign/feign,Java,4
 12499251,checkstyle/checkstyle,Java,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1381673,kiegroup/drools,Java,0
 99919302,apache/incubator-doris,Java,2
 222578036,WeiYe-Jing/datax-web,Java,4
-45096760,widdix/aws-cf-templates,Java,3
+45096760,widdix/aws-cf-templates,Java,2
 38829639,fabric8io/kubernetes-client,Java,1

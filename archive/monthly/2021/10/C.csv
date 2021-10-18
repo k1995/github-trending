@@ -1,17 +1,17 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1640
-13233158,obsproject/obs-studio,C,873
+2325298,torvalds/linux,C,1641
+13233158,obsproject/obs-studio,C,874
 62156403,QSCTech/zju-icicles,C,419
 569041,curl/curl,C,440
 11715753,robertdavidgraham/masscan,C,1989
-20159867,nothings/stb,C,230
+20159867,nothings/stb,C,228
 7634677,openssl/openssl,C,236
-2810292,pbatard/rufus,C,438
-4869294,radareorg/radare2,C,203
+2810292,pbatard/rufus,C,439
+4869294,radareorg/radare2,C,204
 63477515,TheAlgorithms/C,C,849
 40217904,swaywm/sway,C,193
 927442,postgres/postgres,C,150
-184909163,koekeishiya/yabai,C,289
+184909163,koekeishiya/yabai,C,288
 60667730,lvgl/lvgl,C,811
 65899476,espressif/esp-idf,C,195
 4151993,OpenVPN/openvpn,C,98
@@ -23,4 +23,4 @@ id,name,lang,new stars
 305248398,peng-zhihui/HDMI-PI,C,270
 131710328,CTCaer/hekate,C,162
 146397768,ithewei/libhv,C,253
-325609012,lwfinger/rtw89,C,79
+325609012,lwfinger/rtw89,C,78

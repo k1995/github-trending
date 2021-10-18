@@ -1,20 +1,20 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,591
-132464395,Snailclimb/JavaGuide,Java,486
+121395510,CyC2018/CS-Notes,Java,592
+132464395,Snailclimb/JavaGuide,Java,482
 22790488,iluwatar/java-design-patterns,Java,164
-127988011,macrozheng/mall,Java,233
-63477660,TheAlgorithms/Java,Java,217
-173228436,NationalSecurityAgency/ghidra,Java,229
+127988011,macrozheng/mall,Java,232
+63477660,TheAlgorithms/Java,Java,216
+173228436,NationalSecurityAgency/ghidra,Java,230
 267775629,geekxh/hello-algorithm,Java,108
 146633589,alibaba/arthas,Java,79
 44662669,dbeaver/dbeaver,Java,199
 148736243,qiurunze123/miaosha,Java,381
 120395176,alibaba/easyexcel,Java,114
 126178683,halo-dev/halo,Java,103
-128018428,alibaba/Sentinel,Java,126
-75164823,apache/rocketmq,Java,90
+128018428,alibaba/Sentinel,Java,125
+75164823,apache/rocketmq,Java,87
 27954927,ben-manes/caffeine,Java,41
-75277003,thingsboard/thingsboard,Java,561
+75277003,thingsboard/thingsboard,Java,565
 223881576,macrozheng/mall-swarm,Java,62
 283046497,airbytehq/airbyte,Java,83
 46398090,linkedin/datahub,Java,42
@@ -22,5 +22,5 @@ id,name,lang,new stars
 222578036,WeiYe-Jing/datax-web,Java,35
 76474200,apache/hudi,Java,44
 212488700,pytorch/serve,Java,42
-302575005,abhpd/hacktoberfest2021,Java,71
+302575005,abhpd/hacktoberfest2021,Java,72
 276025804,openlookeng/hetu-core,Java,2
