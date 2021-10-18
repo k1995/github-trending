@@ -1,12 +1,12 @@
 id,name,lang,new stars
 48378947,fatedier/frp,Go,570
 157616880,iptv-org/iptv,JavaScript,458
-49609581,PowerShell/PowerShell,C#,141
+49609581,PowerShell/PowerShell,C#,144
 11171548,nlohmann/json,C++,135
 42920477,sentsin/layui,JavaScript,328
 58842707,trailofbits/algo,Python,809
 19745004,odoo/odoo,JavaScript,125
-68720867,firstcontributions/first-contributions,,159
+68720867,firstcontributions/first-contributions,,161
 126178683,halo-dev/halo,Java,99
 34777562,ossrs/srs,C++,317
 168799526,rwightman/pytorch-image-models,Python,253
@@ -23,4 +23,4 @@ id,name,lang,new stars
 116457726,ethereum/ethereum-org-website,JavaScript,191
 412132838,googleprojectzero/weggli,Rust,164
 381453955,hrsh7th/nvim-cmp,Lua,124
-409892817,Slurmio/school-dev-k8s,Mustache,92
+409892817,Slurmio/school-dev-k8s,Mustache,93

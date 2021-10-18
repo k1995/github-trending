@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,57
-65252,jekyll/jekyll,Ruby,55
-8681349,huginn/huginn,Ruby,54
-21600440,bayandin/awesome-awesomeness,Ruby,67
+8514,rails/rails,Ruby,59
+65252,jekyll/jekyll,Ruby,53
+8681349,huginn/huginn,Ruby,55
+21600440,bayandin/awesome-awesomeness,Ruby,66
 13840241,freeCodeCamp/devdocs,Ruby,72
-2293158,rapid7/metasploit-framework,Ruby,77
-52281283,mastodon/mastodon,Ruby,46
+2293158,rapid7/metasploit-framework,Ruby,79
+52281283,mastodon/mastodon,Ruby,45
 2500088,gitlabhq/gitlabhq,Ruby,12
-308770,heartcombo/devise,Ruby,12
-73648678,forem/forem,Ruby,143
+308770,heartcombo/devise,Ruby,11
+73648678,forem/forem,Ruby,142
 4095287,rubocop/rubocop,Ruby,10
 3195124,mperham/sidekiq,Ruby,14
 88740103,postalserver/postal,Ruby,50
 1725199,github/linguist,Ruby,22
-910744,puppetlabs/puppet,Ruby,7
+910744,puppetlabs/puppet,Ruby,8
 4994614,wpscanteam/wpscan,Ruby,25
 30985840,solidusio/solidus,Ruby,11
 69813387,iberianpig/fusuma,Ruby,24
@@ -22,5 +22,5 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,10
 189010173,Hackplayers/evil-winrm,Ruby,11
 390548093,rails/importmap-rails,Ruby,11
-66497320,DataDog/dd-trace-rb,Ruby,0
+66497320,DataDog/dd-trace-rb,Ruby,1
 248407953,rubyforgood/casa,Ruby,1
