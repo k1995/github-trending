@@ -1,15 +1,15 @@
 id,name,lang,new stars
-123458551,jackfrued/Python-100-Days,Python,69
-21289110,vinta/awesome-python,Python,100
-32689863,3b1b/manim,Python,44
-71220757,swisskyrepo/PayloadsAllTheThings,Python,51
+123458551,jackfrued/Python-100-Days,Python,70
+21289110,vinta/awesome-python,Python,101
+32689863,3b1b/manim,Python,48
+71220757,swisskyrepo/PayloadsAllTheThings,Python,56
 105919803,facebookresearch/Detectron,Python,8
 206660580,facebookresearch/detectron2,Python,30
 262296122,PaddlePaddle/PaddleOCR,Python,27
 145670234,open-mmlab/mmdetection,Python,15
-136202695,mlflow/mlflow,Python,9
-266417772,pittcsc/Summer2022-Internships,Python,26
-387326890,xinntao/Real-ESRGAN,Python,34
+136202695,mlflow/mlflow,Python,10
+266417772,pittcsc/Summer2022-Internships,Python,27
+387326890,xinntao/Real-ESRGAN,Python,41
 351432397,microsoft/Swin-Transformer,Python,99
 72473727,kubernetes-client/python,Python,3
 103528129,kenshohara/3D-ResNets-PyTorch,Python,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 325873493,3b1b/videos,Python,81
 225634372,Hackndo/lsassy,Python,8
 412005579,thunlp/OpenPrompt,Python,19
-411806026,ptswarm/reFlutter,Python,12
+411806026,ptswarm/reFlutter,Python,10
 410951326,emalderson/ThePhish,Python,5
