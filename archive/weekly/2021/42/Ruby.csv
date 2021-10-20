@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,58
-65252,jekyll/jekyll,Ruby,67
+8514,rails/rails,Ruby,57
+65252,jekyll/jekyll,Ruby,64
 27442967,fastlane/fastlane,Ruby,40
-53238813,Homebrew/brew,Ruby,75
-13840241,freeCodeCamp/devdocs,Ruby,68
+53238813,Homebrew/brew,Ruby,73
+13840241,freeCodeCamp/devdocs,Ruby,69
 2293158,rapid7/metasploit-framework,Ruby,82
 2500088,gitlabhq/gitlabhq,Ruby,12
-308770,heartcombo/devise,Ruby,17
-73648678,forem/forem,Ruby,164
+308770,heartcombo/devise,Ruby,16
+73648678,forem/forem,Ruby,158
 106995,sinatra/sinatra,Ruby,11
 1918677,fluent/fluentd,Ruby,25
 96395,faker-ruby/faker,Ruby,15
@@ -16,11 +16,11 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,7
 4994614,wpscanteam/wpscan,Ruby,27
 30337170,rmosolgo/graphql-ruby,Ruby,9
-5144181,jnunemaker/flipper,Ruby,8
-103766152,github/explore,Ruby,19
+5144181,jnunemaker/flipper,Ruby,7
+103766152,github/explore,Ruby,17
 11426474,github/choosealicense.com,Ruby,13
-189010173,Hackplayers/evil-winrm,Ruby,14
-1953385,stripe/stripe-ruby,Ruby,5
+189010173,Hackplayers/evil-winrm,Ruby,13
+1953385,stripe/stripe-ruby,Ruby,6
 161399160,Shopify/shopify-cli,Ruby,14
 229187949,shivammathur/homebrew-php,Ruby,19
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
