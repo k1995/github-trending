@@ -1,16 +1,16 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,28
+184456251,microsoft/PowerToys,C#,31
 262395224,dotnet/maui,C#,11
-102904613,Unity-Technologies/ml-agents,C#,11
-198071756,huiyadanli/RevokeMsgPatcher,C#,13
-16157746,dotnet/efcore,C#,5
-69673033,ardalis/CleanArchitecture,C#,12
-17369361,jbogard/MediatR,C#,3
+102904613,Unity-Technologies/ml-agents,C#,10
+198071756,huiyadanli/RevokeMsgPatcher,C#,11
+16157746,dotnet/efcore,C#,7
+69673033,ardalis/CleanArchitecture,C#,14
+17369361,jbogard/MediatR,C#,2
 213460285,jasontaylordev/CleanArchitecture,C#,15
 203892454,kgrzybek/modular-monolith-with-ddd,C#,8
 224109382,ant-design-blazor/ant-design-blazor,C#,2
-73864802,danielgerlag/workflow-core,C#,8
-83187656,EllanJiang/GameFramework,C#,3
+73864802,danielgerlag/workflow-core,C#,7
+83187656,EllanJiang/GameFramework,C#,4
 66709088,ClosedXML/ClosedXML,C#,5
 176523594,lucent-sea/Remotely,C#,3
 138290022,mob-sakai/ParticleEffectForUGUI,C#,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 279369201,atmosgames/SuperSimple2DKit,C#,2
 111510915,dotnet/dotnet-api-docs,C#,0
 412417510,X-Lucifer/AI-Lossless-Zoomer,C#,5
-414499865,plackyhacker/Suspended-Thread-Injection,C#,4
-398287289,DelvUI/DelvUI,C#,4
+414499865,plackyhacker/Suspended-Thread-Injection,C#,3
+398287289,DelvUI/DelvUI,C#,5
