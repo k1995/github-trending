@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1864363,composer/composer,PHP,143
+1864363,composer/composer,PHP,144
 7548986,laravel/framework,PHP,254
 1420053,guzzle/guzzle,PHP,108
-1376664,Seldaek/monolog,PHP,117
+1376664,Seldaek/monolog,PHP,118
 2253830,PHPMailer/PHPMailer,PHP,141
 2889328,WordPress/WordPress,PHP,135
 1548202,matomo-org/matomo,PHP,160
-82238168,monicahq/monica,PHP,2011
+82238168,monicahq/monica,PHP,2012
 79111500,jupeter/clean-code-php,PHP,152
 2699935,squizlabs/PHP_CodeSniffer,PHP,76
 11340559,deployphp/deployer,PHP,77
@@ -21,6 +21,6 @@ id,name,lang,new stars
 9826184,elastic/elasticsearch-php,PHP,38
 351298555,thedevdojo/wave,PHP,127
 153069455,collabnix/dockerlabs,PHP,120
-141720301,dr5hn/countries-states-cities-database,PHP,180
+141720301,dr5hn/countries-states-cities-database,PHP,181
 75645659,WordPress/wordpress-develop,PHP,44
-380196780,maccmspro/maccms10,PHP,230
+380196780,maccmspro/maccms10,PHP,229
