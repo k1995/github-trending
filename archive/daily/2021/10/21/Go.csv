@@ -1,17 +1,17 @@
 id,name,lang,new stars
 15452919,ethereum/go-ethereum,Go,14
-138547797,FiloSottile/mkcert,Go,22
+138547797,FiloSottile/mkcert,Go,24
 17728164,hashicorp/terraform,Go,16
 14125254,hashicorp/consul,Go,10
 37448451,mattermost/mattermost-server,Go,27
-165041732,go-kratos/kratos,Go,35
+165041732,go-kratos/kratos,Go,33
 52034309,uber-go/zap,Go,7
 72891330,kubernetes/ingress-nginx,Go,5
 120156076,cloudreve/Cloudreve,Go,184
-33258973,influxdata/telegraf,Go,4
+33258973,influxdata/telegraf,Go,5
 23247808,rqlite/rqlite,Go,5
-180687624,aquasecurity/trivy,Go,13
-146641150,tektoncd/pipeline,Go,1
+180687624,aquasecurity/trivy,Go,11
+146641150,tektoncd/pipeline,Go,2
 184490584,GoogleCloudPlatform/terraformer,Go,13
 27146054,golang/tools,Go,6
 357885318,datreeio/datree,Go,467
@@ -21,6 +21,6 @@ id,name,lang,new stars
 120181748,kiali/kiali,Go,4
 103084166,accurics/terrascan,Go,8
 111455867,smartcontractkit/chainlink,Go,7
-83363132,CrunchyData/postgres-operator,Go,12
-381235608,xfs-network/xfsgo,Go,19
-403020531,abiosoft/colima,Go,21
+83363132,CrunchyData/postgres-operator,Go,11
+381235608,xfs-network/xfsgo,Go,22
+403020531,abiosoft/colima,Go,19
