@@ -1,8 +1,8 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,163
+54346799,public-apis/public-apis,Python,165
 114747226,deepfakes/faceswap,Python,15
 160919119,tiangolo/fastapi,Python,50
-71220757,swisskyrepo/PayloadsAllTheThings,Python,50
+71220757,swisskyrepo/PayloadsAllTheThings,Python,48
 136026789,iperov/DeepFaceLab,Python,49
 125266328,psf/black,Python,23
 178626720,PyTorchLightning/pytorch-lightning,Python,18
@@ -12,7 +12,7 @@ id,name,lang,new stars
 130474497,eriklindernoren/PyTorch-GAN,Python,16
 90194616,samuelcolvin/pydantic,Python,12
 2014929,scikit-image/scikit-image,Python,4
-174698235,thunil/TecoGAN,Python,77
+174698235,thunil/TecoGAN,Python,75
 155376283,nccgroup/ScoutSuite,Python,5
 2410676,urllib3/urllib3,Python,6
 246183538,TCM-Course-Resources/Practical-Ethical-Hacking-Resources,Python,38
@@ -22,5 +22,5 @@ id,name,lang,new stars
 382756807,TechXueXi/TechXueXi,Python,45
 416630768,Footsiefat/zspotify,Python,116
 418137974,p0dalirius/LDAPmonitor,Python,20
-368915773,bigscience-workshop/promptsource,Python,45
+368915773,bigscience-workshop/promptsource,Python,46
 418159211,ShiqiYu/OpenGait,Python,27

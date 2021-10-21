@@ -1,16 +1,16 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,6
-7548986,laravel/framework,PHP,8
+7548986,laravel/framework,PHP,7
 1420053,guzzle/guzzle,PHP,11
-448045,sebastianbergmann/phpunit,PHP,9
+448045,sebastianbergmann/phpunit,PHP,10
 3431193,yiisoft/yii2,PHP,1
 61490598,PHPOffice/PhpSpreadsheet,PHP,4
-10157178,egulias/EmailValidator,PHP,4
-597887,doctrine/orm,PHP,5
-677464,doctrine/dbal,PHP,5
+10157178,egulias/EmailValidator,PHP,5
+597887,doctrine/orm,PHP,6
+677464,doctrine/dbal,PHP,6
 1398648,symfony/http-foundation,PHP,2
 2179920,woocommerce/woocommerce,PHP,5
-7577142,doctrine/annotations,PHP,3
+7577142,doctrine/annotations,PHP,4
 14346979,snipe/snipe-it,PHP,4
 10883164,barryvdh/laravel-dompdf,PHP,3
 33916850,spatie/laravel-medialibrary,PHP,2
