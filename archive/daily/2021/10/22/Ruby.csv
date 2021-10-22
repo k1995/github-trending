@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,10
+7569578,discourse/discourse,Ruby,11
 27442967,fastlane/fastlane,Ruby,4
 2293158,rapid7/metasploit-framework,Ruby,9
 481872,hashicorp/vagrant,Ruby,9
@@ -8,14 +8,14 @@ id,name,lang,new stars
 2203645,CocoaPods/CocoaPods,Ruby,1
 1090311,elastic/logstash,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
-106995,sinatra/sinatra,Ruby,3
-3195124,mperham/sidekiq,Ruby,25
+106995,sinatra/sinatra,Ruby,4
+3195124,mperham/sidekiq,Ruby,24
 1918677,fluent/fluentd,Ruby,3
 812393,ruby-grape/grape,Ruby,2
 47087,carrierwaveuploader/carrierwave,Ruby,0
 6529205,varvet/pundit,Ruby,0
 108278,chef/chef,Ruby,1
-6899875,opf/openproject,Ruby,0
+6899875,opf/openproject,Ruby,1
 2889230,rails-api/active_model_serializers,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,2
 488514,rubygems/bundler,Ruby,0
