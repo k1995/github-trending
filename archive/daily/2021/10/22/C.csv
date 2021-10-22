@@ -1,11 +1,11 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,18
+10744183,netdata/netdata,C,19
 156018,redis/redis,C,15
-18666758,pjreddie/darknet,C,5
-14812739,libuv/libuv,C,7
-196353673,taosdata/TDengine,C,244
-29759715,facebook/zstd,C,4
-66150122,jarun/nnn,C,15
+18666758,pjreddie/darknet,C,4
+14812739,libuv/libuv,C,5
+196353673,taosdata/TDengine,C,243
+29759715,facebook/zstd,C,3
+66150122,jarun/nnn,C,14
 105627846,reactos/reactos,C,2
 613829,openresty/lua-nginx-module,C,3
 70127218,espressif/arduino-esp32,C,6
@@ -16,11 +16,11 @@ id,name,lang,new stars
 44781140,greenplum-db/gpdb,C,5
 38617,sqlcipher/sqlcipher,C,2
 8270972,ARMmbed/mbed-os,C,0
-59676171,Klipper3d/klipper,C,3
-400501136,deepmind/mujoco,C,205
+59676171,Klipper3d/klipper,C,4
+400501136,deepmind/mujoco,C,195
 321154,libffi/libffi,C,3
 5410234,OISF/suricata,C,3
-370529505,ApsaraDB/PolarDB-for-PostgreSQL,C,9
+370529505,ApsaraDB/PolarDB-for-PostgreSQL,C,8
 26537135,u-boot/u-boot,C,1
-127023441,NVIDIA/cuda-samples,C,2
+127023441,NVIDIA/cuda-samples,C,1
 207354223,FreeRTOS/FreeRTOS-Kernel,C,1

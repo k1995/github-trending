@@ -1,20 +1,20 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,613
-132464395,Snailclimb/JavaGuide,Java,427
-1148753,spring-projects/spring-framework,Java,109
+121395510,CyC2018/CS-Notes,Java,611
+132464395,Snailclimb/JavaGuide,Java,428
+1148753,spring-projects/spring-framework,Java,110
 146633589,alibaba/arthas,Java,81
 159152904,jeecgboot/jeecg-boot,Java,120
-2700474,alibaba/fastjson,Java,31
-148736243,qiurunze123/miaosha,Java,427
+2700474,alibaba/fastjson,Java,30
+148736243,qiurunze123/miaosha,Java,426
 7613257,SeleniumHQ/selenium,Java,65
 120395176,alibaba/easyexcel,Java,92
-163387337,seata/seata,Java,67
-126178683,halo-dev/halo,Java,104
+163387337,seata/seata,Java,66
+126178683,halo-dev/halo,Java,103
 5373551,libgdx/libgdx,Java,52
 2993595,medcl/elasticsearch-analysis-ik,Java,36
-5349565,prestodb/presto,Java,28
-75277003,thingsboard/thingsboard,Java,656
-60294682,barteksc/AndroidPdfViewer,Java,26
+5349565,prestodb/presto,Java,27
+75277003,thingsboard/thingsboard,Java,634
+60294682,barteksc/AndroidPdfViewer,Java,25
 115414519,lenve/VBlog,Java,23
 13421878,pentaho/pentaho-kettle,Java,13
 38602457,graphql-java/graphql-java,Java,35
@@ -23,4 +23,4 @@ id,name,lang,new stars
 222578036,WeiYe-Jing/datax-web,Java,44
 226096934,jeecgboot/JimuReport,Java,25
 282994686,ververica/flink-cdc-connectors,Java,22
-408733796,catvod/CatVodTVSpider,Java,33
+408733796,catvod/CatVodTVSpider,Java,32
