@@ -1,11 +1,11 @@
 id,name,lang,new stars
 10744183,netdata/netdata,C,19
 156018,redis/redis,C,15
-18666758,pjreddie/darknet,C,4
-14812739,libuv/libuv,C,5
+18666758,pjreddie/darknet,C,3
+14812739,libuv/libuv,C,4
 196353673,taosdata/TDengine,C,243
 29759715,facebook/zstd,C,3
-66150122,jarun/nnn,C,17
+66150122,jarun/nnn,C,19
 105627846,reactos/reactos,C,4
 613829,openresty/lua-nginx-module,C,4
 70127218,espressif/arduino-esp32,C,6
@@ -17,7 +17,7 @@ id,name,lang,new stars
 38617,sqlcipher/sqlcipher,C,1
 8270972,ARMmbed/mbed-os,C,1
 59676171,Klipper3d/klipper,C,4
-400501136,deepmind/mujoco,C,185
+400501136,deepmind/mujoco,C,180
 321154,libffi/libffi,C,3
 5410234,OISF/suricata,C,2
 370529505,ApsaraDB/PolarDB-for-PostgreSQL,C,9
