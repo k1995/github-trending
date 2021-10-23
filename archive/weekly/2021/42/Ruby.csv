@@ -1,14 +1,14 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,68
-27442967,fastlane/fastlane,Ruby,37
-53238813,Homebrew/brew,Ruby,77
-13840241,freeCodeCamp/devdocs,Ruby,64
-2293158,rapid7/metasploit-framework,Ruby,75
-52281283,mastodon/mastodon,Ruby,267
-2500088,gitlabhq/gitlabhq,Ruby,13
+65252,jekyll/jekyll,Ruby,69
+27442967,fastlane/fastlane,Ruby,36
+53238813,Homebrew/brew,Ruby,76
+13840241,freeCodeCamp/devdocs,Ruby,62
+2293158,rapid7/metasploit-framework,Ruby,76
+52281283,mastodon/mastodon,Ruby,286
+2500088,gitlabhq/gitlabhq,Ruby,12
 308770,heartcombo/devise,Ruby,18
-538746,ruby/ruby,Ruby,24
-73648678,forem/forem,Ruby,134
+538746,ruby/ruby,Ruby,22
+73648678,forem/forem,Ruby,138
 106995,sinatra/sinatra,Ruby,11
 3195124,mperham/sidekiq,Ruby,58
 15435,Shopify/liquid,Ruby,14
@@ -16,9 +16,9 @@ id,name,lang,new stars
 43347873,danger/danger,Ruby,18
 103766152,github/explore,Ruby,14
 11426474,github/choosealicense.com,Ruby,13
-189010173,Hackplayers/evil-winrm,Ruby,12
+189010173,Hackplayers/evil-winrm,Ruby,11
 17228890,Shopify/shipit-engine,Ruby,4
-161399160,Shopify/shopify-cli,Ruby,16
+161399160,Shopify/shopify-cli,Ruby,17
 229187949,shivammathur/homebrew-php,Ruby,19
 31323121,elastic/docs,Ruby,0
 24210186,bigbinary/wheel,Ruby,2

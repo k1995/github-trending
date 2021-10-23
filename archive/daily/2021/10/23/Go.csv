@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8989842,unknwon/the-way-to-go_ZH_CN,Go,17
+8989842,unknwon/the-way-to-go_ZH_CN,Go,16
 31288958,hashicorp/vault,Go,6
 134017286,jesseduffield/lazygit,Go,18
 77144337,openfaas/faas,Go,9
-26337322,rancher/rancher,Go,7
+26337322,rancher/rancher,Go,8
 72891330,kubernetes/ingress-nginx,Go,9
-120156076,cloudreve/Cloudreve,Go,52
-33258973,influxdata/telegraf,Go,6
+120156076,cloudreve/Cloudreve,Go,67
+33258973,influxdata/telegraf,Go,5
 44344606,go-chi/chi,Go,3
-1380117,getlantern/lantern,Go,6
+1380117,getlantern/lantern,Go,5
 23664475,Shopify/toxiproxy,Go,35
-53174289,gruntwork-io/terratest,Go,1
+53174289,gruntwork-io/terratest,Go,2
 156681830,ffuf/ffuf,Go,4
-199763479,bfenetworks/bfe,Go,2
-10166531,mitchellh/mapstructure,Go,1
+199763479,bfenetworks/bfe,Go,3
+10166531,mitchellh/mapstructure,Go,2
 395283401,armosec/kubescape,Go,29
 58821882,grpc-ecosystem/go-grpc-middleware,Go,2
 124157517,kubernetes-sigs/cluster-api,Go,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 272394704,google/security-research,Go,7
 252745692,timescale/promscale,Go,10
 411212454,tharsis/evmos,Go,11
-419090330,Tylous/ZipExec,Go,63
+419090330,Tylous/ZipExec,Go,64
 381235608,xfs-network/xfsgo,Go,24
 369062160,KubeOperator/KubePi,Go,23
