@@ -1,11 +1,11 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,257
 65252,jekyll/jekyll,Ruby,221
-27442967,fastlane/fastlane,Ruby,200
+27442967,fastlane/fastlane,Ruby,201
 53238813,Homebrew/brew,Ruby,332
 13840241,freeCodeCamp/devdocs,Ruby,263
 2293158,rapid7/metasploit-framework,Ruby,319
-52281283,mastodon/mastodon,Ruby,550
+52281283,mastodon/mastodon,Ruby,563
 481872,hashicorp/vagrant,Ruby,173
 3623050,Homebrew/homebrew-cask,Ruby,86
 538746,ruby/ruby,Ruby,103
@@ -18,7 +18,7 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,50
 1725199,github/linguist,Ruby,88
 108278,chef/chef,Ruby,32
-16549503,github/scientist,Ruby,72
+16549503,github/scientist,Ruby,71
 30985840,solidusio/solidus,Ruby,57
 70830890,bigbluebutton/greenlight,Ruby,7
 212813096,lewagon/data-setup,Ruby,286
