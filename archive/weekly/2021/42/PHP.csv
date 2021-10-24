@@ -1,18 +1,18 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,184
-458058,symfony/symfony,PHP,42
+3482588,danielmiessler/SecLists,PHP,186
+458058,symfony/symfony,PHP,41
 1864363,composer/composer,PHP,48
-7548986,laravel/framework,PHP,66
+7548986,laravel/framework,PHP,63
 1420053,guzzle/guzzle,PHP,41
 1376664,Seldaek/monolog,PHP,40
-448045,sebastianbergmann/phpunit,PHP,37
-2253830,PHPMailer/PHPMailer,PHP,103
+448045,sebastianbergmann/phpunit,PHP,38
+2253830,PHPMailer/PHPMailer,PHP,112
 3431193,yiisoft/yii2,PHP,15
 2884111,magento/magento2,PHP,16
 79111500,jupeter/clean-code-php,PHP,50
 677464,doctrine/dbal,PHP,31
 12166778,googleapis/google-api-php-client,PHP,19
-2179920,woocommerce/woocommerce,PHP,18
+2179920,woocommerce/woocommerce,PHP,19
 2717549,Sylius/Sylius,PHP,19
 10371103,Laravel-Lang/lang,PHP,27
 14346979,snipe/snipe-it,PHP,40
@@ -23,4 +23,4 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,14
 41463886,codeigniter4/CodeIgniter4,PHP,19
 13914116,librenms/librenms,PHP,10
-17253775,zabbix/zabbix,PHP,24
+17253775,zabbix/zabbix,PHP,25
