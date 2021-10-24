@@ -1,11 +1,11 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,36
+3482588,danielmiessler/SecLists,PHP,33
 1420053,guzzle/guzzle,PHP,4
-2253830,PHPMailer/PHPMailer,PHP,11
-60243197,nextcloud/server,PHP,15
-1305114,roots/sage,PHP,2
+2253830,PHPMailer/PHPMailer,PHP,53
+60243197,nextcloud/server,PHP,16
+1305114,roots/sage,PHP,4
 61490598,PHPOffice/PhpSpreadsheet,PHP,2
-2884111,magento/magento2,PHP,2
+2884111,magento/magento2,PHP,3
 6660366,dompdf/dompdf,PHP,1
 12166778,googleapis/google-api-php-client,PHP,3
 330275,twigphp/Twig,PHP,4
@@ -17,10 +17,10 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,11
 10883164,barryvdh/laravel-dompdf,PHP,0
 60010673,elementor/elementor,PHP,4
-2464908,joomla/joomla-cms,PHP,12
-1957456,Dolibarr/dolibarr,PHP,2
+2464908,joomla/joomla-cms,PHP,10
+1957456,Dolibarr/dolibarr,PHP,3
 13914116,librenms/librenms,PHP,0
-2686502,pimcore/pimcore,PHP,0
+2686502,pimcore/pimcore,PHP,1
 39182755,glpi-project/glpi,PHP,1
 15231212,Automattic/jetpack,PHP,0
 36526302,pentestmonkey/php-reverse-shell,PHP,1
