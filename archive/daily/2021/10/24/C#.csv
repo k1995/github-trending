@@ -1,15 +1,15 @@
 id,name,lang,new stars
 199570071,2dust/v2rayN,C#,28
-22456440,ppy/osu,C#,3
-210716005,dotnet/runtime,C#,8
-75505125,abpframework/abp,C#,7
+22456440,ppy/osu,C#,2
+210716005,dotnet/runtime,C#,7
+75505125,abpframework/abp,C#,8
 443962,FluentValidation/FluentValidation,C#,4
 165548191,carlospolop/PEASS-ng,C#,12
 132453438,unoplatform/uno,C#,7
-460848,mRemoteNG/mRemoteNG,C#,5
+460848,mRemoteNG/mRemoteNG,C#,7
 130160795,HMBSbige/ShadowsocksR-Windows,C#,7
 21611723,quasar/Quasar,C#,2
-1208824,quartznet/quartznet,C#,6
+1208824,quartznet/quartznet,C#,7
 20304390,HearthSim/Hearthstone-Deck-Tracker,C#,2
 245235133,microsoft/reverse-proxy,C#,5
 10601208,umbraco/Umbraco-CMS,C#,2
@@ -18,7 +18,7 @@ id,name,lang,new stars
 150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,1
 72268885,robinrodricks/FluentFTP,C#,1
 46884929,Jessecar96/SteamDesktopAuthenticator,C#,0
-50355666,scriban/scriban,C#,2
+50355666,scriban/scriban,C#,1
 63984307,dotnet/sdk,C#,82
 116385203,Unity-Technologies/com.unity.netcode.gameobjects,C#,3
 131026794,Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,0

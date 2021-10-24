@@ -1,7 +1,7 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,33
-1420053,guzzle/guzzle,PHP,4
-2253830,PHPMailer/PHPMailer,PHP,53
+1420053,guzzle/guzzle,PHP,3
+2253830,PHPMailer/PHPMailer,PHP,54
 60243197,nextcloud/server,PHP,16
 1305114,roots/sage,PHP,4
 61490598,PHPOffice/PhpSpreadsheet,PHP,2
@@ -16,11 +16,11 @@ id,name,lang,new stars
 9131292,jenssegers/laravel-mongodb,PHP,3
 14346979,snipe/snipe-it,PHP,11
 10883164,barryvdh/laravel-dompdf,PHP,0
-60010673,elementor/elementor,PHP,4
-2464908,joomla/joomla-cms,PHP,10
+60010673,elementor/elementor,PHP,6
+2464908,joomla/joomla-cms,PHP,8
 1957456,Dolibarr/dolibarr,PHP,3
 13914116,librenms/librenms,PHP,0
 2686502,pimcore/pimcore,PHP,1
 39182755,glpi-project/glpi,PHP,1
 15231212,Automattic/jetpack,PHP,0
-36526302,pentestmonkey/php-reverse-shell,PHP,1
+36526302,pentestmonkey/php-reverse-shell,PHP,2
