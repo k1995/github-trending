@@ -1,19 +1,19 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,190
-458058,symfony/symfony,PHP,39
-1864363,composer/composer,PHP,46
-7548986,laravel/framework,PHP,61
+458058,symfony/symfony,PHP,40
+1864363,composer/composer,PHP,45
+7548986,laravel/framework,PHP,60
 1420053,guzzle/guzzle,PHP,41
-1376664,Seldaek/monolog,PHP,39
-448045,sebastianbergmann/phpunit,PHP,38
-2253830,PHPMailer/PHPMailer,PHP,120
-3431193,yiisoft/yii2,PHP,14
+1376664,Seldaek/monolog,PHP,38
+448045,sebastianbergmann/phpunit,PHP,37
+2253830,PHPMailer/PHPMailer,PHP,121
+3431193,yiisoft/yii2,PHP,13
 4702560,PHPOffice/PHPExcel,PHP,4
 2884111,magento/magento2,PHP,16
-79111500,jupeter/clean-code-php,PHP,48
+79111500,jupeter/clean-code-php,PHP,46
 677464,doctrine/dbal,PHP,30
-12166778,googleapis/google-api-php-client,PHP,18
-2179920,woocommerce/woocommerce,PHP,21
+12166778,googleapis/google-api-php-client,PHP,17
+2179920,woocommerce/woocommerce,PHP,20
 2717549,Sylius/Sylius,PHP,20
 10371103,Laravel-Lang/lang,PHP,28
 14346979,snipe/snipe-it,PHP,40
@@ -23,4 +23,4 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,14
 69691727,pmmp/PocketMine-MP,PHP,13
 13914116,librenms/librenms,PHP,9
-17253775,zabbix/zabbix,PHP,25
+17253775,zabbix/zabbix,PHP,23
