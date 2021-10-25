@@ -1,13 +1,13 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,30
+3482588,danielmiessler/SecLists,PHP,29
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,6
-60243197,nextcloud/server,PHP,2
-82238168,monicahq/monica,PHP,7
+60243197,nextcloud/server,PHP,3
+82238168,monicahq/monica,PHP,3
 1631570,nikic/PHP-Parser,PHP,0
-28628034,flarum/flarum,PHP,10
+28628034,flarum/flarum,PHP,11
 1305114,roots/sage,PHP,5
-10157178,egulias/EmailValidator,PHP,1
-56728437,docker/labs,PHP,81
+10157178,egulias/EmailValidator,PHP,0
+56728437,docker/labs,PHP,83
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
 597887,doctrine/orm,PHP,1
 656494,cakephp/cakephp,PHP,0
@@ -16,8 +16,8 @@ id,name,lang,new stars
 4046328,ratchetphp/Ratchet,PHP,0
 30915528,spatie/laravel-backup,PHP,2
 76064827,mailcow/mailcow-dockerized,PHP,1
-60010673,elementor/elementor,PHP,14
-148129143,bagisto/bagisto,PHP,6
+60010673,elementor/elementor,PHP,16
+148129143,bagisto/bagisto,PHP,4
 2464908,joomla/joomla-cms,PHP,0
 11935508,RSS-Bridge/rss-bridge,PHP,5
 31425145,RaspAP/raspap-webgui,PHP,2
