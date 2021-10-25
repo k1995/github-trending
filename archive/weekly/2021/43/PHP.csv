@@ -1,11 +1,11 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,193
 458058,symfony/symfony,PHP,37
-1864363,composer/composer,PHP,38
-7548986,laravel/framework,PHP,60
+1864363,composer/composer,PHP,39
+7548986,laravel/framework,PHP,61
 1420053,guzzle/guzzle,PHP,39
 1376664,Seldaek/monolog,PHP,36
-448045,sebastianbergmann/phpunit,PHP,36
+448045,sebastianbergmann/phpunit,PHP,35
 2253830,PHPMailer/PHPMailer,PHP,122
 3431193,yiisoft/yii2,PHP,11
 4702560,PHPOffice/PHPExcel,PHP,5
@@ -16,11 +16,11 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,21
 2717549,Sylius/Sylius,PHP,18
 10371103,Laravel-Lang/lang,PHP,26
-14346979,snipe/snipe-it,PHP,41
-60010673,elementor/elementor,PHP,32
+14346979,snipe/snipe-it,PHP,40
+60010673,elementor/elementor,PHP,31
 148129143,bagisto/bagisto,PHP,41
 2464908,joomla/joomla-cms,PHP,25
 439861,moodle/moodle,PHP,14
-69691727,pmmp/PocketMine-MP,PHP,13
-13914116,librenms/librenms,PHP,10
+69691727,pmmp/PocketMine-MP,PHP,14
+13914116,librenms/librenms,PHP,9
 17253775,zabbix/zabbix,PHP,21
