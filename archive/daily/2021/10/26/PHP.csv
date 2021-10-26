@@ -1,8 +1,8 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,24
+3482588,danielmiessler/SecLists,PHP,26
 2579314,fzaninotto/Faker,PHP,5
 49014795,phpstan/phpstan,PHP,5
-56728437,docker/labs,PHP,44
+56728437,docker/labs,PHP,38
 4549925,bobthecow/psysh,PHP,1
 622166,FriendsOfPHP/Goutte,PHP,2
 11467667,typecho/typecho,PHP,4
@@ -13,8 +13,8 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,1
 74386167,vimeo/psalm,PHP,1
 60010673,elementor/elementor,PHP,12
-11935508,RSS-Bridge/rss-bridge,PHP,3
-351298555,thedevdojo/wave,PHP,2
+11935508,RSS-Bridge/rss-bridge,PHP,4
+351298555,thedevdojo/wave,PHP,1
 69691727,pmmp/PocketMine-MP,PHP,1
 36526302,pentestmonkey/php-reverse-shell,PHP,1
 274912708,ZainCheung/netease-cloud-api,PHP,0

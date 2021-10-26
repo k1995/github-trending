@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,192
-458058,symfony/symfony,PHP,40
+3482588,danielmiessler/SecLists,PHP,193
+458058,symfony/symfony,PHP,41
 1864363,composer/composer,PHP,38
-7548986,laravel/framework,PHP,59
+7548986,laravel/framework,PHP,57
 1420053,guzzle/guzzle,PHP,39
-1376664,Seldaek/monolog,PHP,35
+1376664,Seldaek/monolog,PHP,33
 448045,sebastianbergmann/phpunit,PHP,34
-2253830,PHPMailer/PHPMailer,PHP,127
+2253830,PHPMailer/PHPMailer,PHP,129
 1548202,matomo-org/matomo,PHP,41
-56728437,docker/labs,PHP,157
-2884111,magento/magento2,PHP,14
+56728437,docker/labs,PHP,160
+2884111,magento/magento2,PHP,13
 79111500,jupeter/clean-code-php,PHP,41
 677464,doctrine/dbal,PHP,31
 2179920,woocommerce/woocommerce,PHP,22
@@ -20,7 +20,7 @@ id,name,lang,new stars
 60010673,elementor/elementor,PHP,41
 148129143,bagisto/bagisto,PHP,43
 2464908,joomla/joomla-cms,PHP,21
-439861,moodle/moodle,PHP,14
+439861,moodle/moodle,PHP,17
 69691727,pmmp/PocketMine-MP,PHP,14
 13914116,librenms/librenms,PHP,9
-17253775,zabbix/zabbix,PHP,18
+17253775,zabbix/zabbix,PHP,19
