@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,610
-458058,symfony/symfony,PHP,150
-1864363,composer/composer,PHP,140
+3482588,danielmiessler/SecLists,PHP,612
+458058,symfony/symfony,PHP,149
+1864363,composer/composer,PHP,141
 7548986,laravel/framework,PHP,260
-1420053,guzzle/guzzle,PHP,103
-1376664,Seldaek/monolog,PHP,113
-2253830,PHPMailer/PHPMailer,PHP,233
-1548202,matomo-org/matomo,PHP,164
-82238168,monicahq/monica,PHP,2045
+1420053,guzzle/guzzle,PHP,104
+1376664,Seldaek/monolog,PHP,115
+2253830,PHPMailer/PHPMailer,PHP,236
+1548202,matomo-org/matomo,PHP,165
+82238168,monicahq/monica,PHP,2046
+79111500,jupeter/clean-code-php,PHP,170
 2884111,magento/magento2,PHP,66
-79111500,jupeter/clean-code-php,PHP,167
 2699935,squizlabs/PHP_CodeSniffer,PHP,78
-597887,doctrine/orm,PHP,71
+597887,doctrine/orm,PHP,73
 6660366,dompdf/dompdf,PHP,91
 12166778,googleapis/google-api-php-client,PHP,65
 2179920,woocommerce/woocommerce,PHP,79
@@ -20,7 +20,7 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,51
 14346979,snipe/snipe-it,PHP,147
 222873550,bytefury/crater,PHP,95
-60010673,elementor/elementor,PHP,74
+60010673,elementor/elementor,PHP,75
 4224042,roundcube/roundcubemail,PHP,50
 351298555,thedevdojo/wave,PHP,122
 141720301,dr5hn/countries-states-cities-database,PHP,160
