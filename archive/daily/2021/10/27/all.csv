@@ -1,10 +1,10 @@
 id,name,lang,new stars
 23088740,axios/axios,JavaScript,32
 74293321,sveltejs/svelte,TypeScript,36
-157616880,iptv-org/iptv,JavaScript,46
-114747226,deepfakes/faceswap,Python,53
+157616880,iptv-org/iptv,JavaScript,115
+114747226,deepfakes/faceswap,Python,67
 206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Java,32
-50824485,processhacker/processhacker,C,162
+50824485,processhacker/processhacker,C,132
 4118776,mltframework/shotcut,C++,8
 197515838,shengcaishizhan/kkndme_tianya,,80
 223953992,htr-tech/zphisher,Hack,19
@@ -12,15 +12,15 @@ id,name,lang,new stars
 368522797,nuta/kerla,Rust,624
 409749889,KilledByAPixel/LittleJS,JavaScript,141
 341442985,dgiot/dgiot,Erlang,20
-419991646,mli/paper-reading,,240
-420459569,github/copilot-docs,Python,232
+419991646,mli/paper-reading,,245
+420459569,github/copilot-docs,Python,252
 420171604,slidoooor/computer_book_list,,92
 417686747,VirgilClyne/iRingo,JavaScript,229
-377365832,cheatsheet1999/FrontEndCollection,JavaScript,72
-392565553,IntelLabs/control-flag,C++,82
-266562133,czj2369/jd_tb_auto,JavaScript,213
-420812152,LinusHenze/Fugu14,Swift,69
-369062160,KubeOperator/KubePi,Go,67
+377365832,cheatsheet1999/FrontEndCollection,JavaScript,200
+392565553,IntelLabs/control-flag,C++,92
+420812152,LinusHenze/Fugu14,Swift,70
+266562133,czj2369/jd_tb_auto,JavaScript,217
+369062160,KubeOperator/KubePi,Go,72
 405013901,momo0853/kkndme,HTML,21
 331595472,liuhuigmail/GrowingBugRepository,Perl,17
 419022427,mattleong/CosmicNvim,Lua,2
