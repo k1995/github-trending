@@ -1,10 +1,10 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,28
-16563587,cockroachdb/cockroach,Go,10
+20580498,kubernetes/kubernetes,Go,32
+16563587,cockroachdb/cockroach,Go,11
 56353740,kubernetes/minikube,Go,13
-26337322,rancher/rancher,Go,2
+26337322,rancher/rancher,Go,3
 50613991,goharbor/harbor,Go,17
-107286889,schollz/croc,Go,62
+107286889,schollz/croc,Go,59
 7083242,go-sql-driver/mysql,Go,5
 16554739,elastic/beats,Go,2
 46089560,containerd/containerd,Go,8
@@ -12,15 +12,15 @@ id,name,lang,new stars
 93444615,hashicorp/terraform-provider-aws,Go,10
 184490584,GoogleCloudPlatform/terraformer,Go,13
 18495400,StackExchange/blackbox,Go,5
-33452903,RichardKnop/machinery,Go,4
+33452903,RichardKnop/machinery,Go,6
 19799491,tendermint/tendermint,Go,2
 147886080,crossplane/crossplane,Go,6
-83252983,go-task/task,Go,19
+83252983,go-task/task,Go,18
 53553027,nginxinc/kubernetes-ingress,Go,5
-43332504,GoogleCloudPlatform/golang-samples,Go,12
+43332504,GoogleCloudPlatform/golang-samples,Go,11
 215654064,temporalio/temporal,Go,7
-163722349,pomerium/pomerium,Go,7
+163722349,pomerium/pomerium,Go,6
 117156031,prysmaticlabs/prysm,Go,4
-170803235,magma/magma,Go,2
+170803235,magma/magma,Go,1
 369062160,KubeOperator/KubePi,Go,126
 339993112,matrixorigin/matrixone,Go,6

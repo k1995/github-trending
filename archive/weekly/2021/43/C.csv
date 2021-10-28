@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,403
-111583593,Genymobile/scrcpy,C,338
-156018,redis/redis,C,107
+2325298,torvalds/linux,C,402
+111583593,Genymobile/scrcpy,C,336
+156018,redis/redis,C,109
 62156403,QSCTech/zju-icicles,C,298
-196353673,taosdata/TDengine,C,531
-80286288,arendst/Tasmota,C,42
-6201092,mpv-player/mpv,C,85
-95879426,Tencent/ncnn,C,82
+196353673,taosdata/TDengine,C,529
+6201092,mpv-player/mpv,C,87
+80286288,arendst/Tasmota,C,40
+95879426,Tencent/ncnn,C,81
 5254557,cloudwu/skynet,C,28
 179354282,acidanthera/OpenCorePkg,C,72
 70127218,espressif/arduino-esp32,C,33
@@ -16,11 +16,11 @@ id,name,lang,new stars
 6376337,pocoproject/poco,C,40
 44781140,greenplum-db/gpdb,C,19
 38617,sqlcipher/sqlcipher,C,14
-59676171,Klipper3d/klipper,C,30
+59676171,Klipper3d/klipper,C,29
 131710328,CTCaer/hekate,C,42
-400501136,deepmind/mujoco,C,498
+400501136,deepmind/mujoco,C,480
 321154,libffi/libffi,C,13
 12046604,projectM-visualizer/projectm,C,506
-290808391,atc1441/ATC_MiThermometer,C,28
-394318710,valinet/ExplorerPatcher,C,228
+290808391,atc1441/ATC_MiThermometer,C,29
+394318710,valinet/ExplorerPatcher,C,230
 383940088,ShadowMario/FNF-PsychEngine,C,18
