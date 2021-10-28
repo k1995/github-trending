@@ -1,14 +1,14 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,8
 8681349,huginn/huginn,Ruby,13
-53238813,Homebrew/brew,Ruby,11
+53238813,Homebrew/brew,Ruby,10
 13840241,freeCodeCamp/devdocs,Ruby,8
-52281283,mastodon/mastodon,Ruby,10
-481872,hashicorp/vagrant,Ruby,14
+52281283,mastodon/mastodon,Ruby,8
+481872,hashicorp/vagrant,Ruby,16
 1090311,elastic/logstash,Ruby,1
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,6
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,5
 6899875,opf/openproject,Ruby,0
-95798441,athityakumar/colorls,Ruby,1
+95798441,athityakumar/colorls,Ruby,2
 93163073,dependabot/dependabot-core,Ruby,0
 284190,camping/camping,Ruby,0
 421170067,ayushn21/maintenance_job,Ruby,0
@@ -16,8 +16,8 @@ id,name,lang,new stars
 148833222,learn-co-curriculum/jwt-auth-rails,Ruby,0
 5214213,mwermuth/deutschebahn-gem,Ruby,0
 4918249,wheeyls/linkbait,Ruby,0
-3896776,gurureoul/demo_app,Ruby,0
 5065988,PavelPenkov/indexed_table,Ruby,0
+3896776,gurureoul/demo_app,Ruby,0
 3878398,yuenduncan/first_app,Ruby,0
 4811468,mdspandauer/demo_app,Ruby,0
 4697996,sj26/rubygems.rc,Ruby,0
