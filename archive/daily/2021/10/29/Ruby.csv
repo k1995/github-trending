@@ -1,10 +1,10 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,6
-27442967,fastlane/fastlane,Ruby,10
-53238813,Homebrew/brew,Ruby,20
-13840241,freeCodeCamp/devdocs,Ruby,14
+7569578,discourse/discourse,Ruby,8
+27442967,fastlane/fastlane,Ruby,9
+53238813,Homebrew/brew,Ruby,21
+13840241,freeCodeCamp/devdocs,Ruby,16
 481872,hashicorp/vagrant,Ruby,9
-3623050,Homebrew/homebrew-cask,Ruby,8
+3623050,Homebrew/homebrew-cask,Ruby,6
 538746,ruby/ruby,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,2
 1090311,elastic/logstash,Ruby,5
@@ -13,14 +13,14 @@ id,name,lang,new stars
 47087,carrierwaveuploader/carrierwave,Ruby,0
 108278,chef/chef,Ruby,4
 1145832,pry/pry,Ruby,2
-2889230,rails-api/active_model_serializers,Ruby,1
-30337170,rmosolgo/graphql-ruby,Ruby,2
+2889230,rails-api/active_model_serializers,Ruby,0
+30337170,rmosolgo/graphql-ruby,Ruby,1
 30985840,solidusio/solidus,Ruby,1
-52316423,luggit/react-native-config,Ruby,2
+52316423,luggit/react-native-config,Ruby,0
 1952825,Homebrew/homebrew-bundle,Ruby,6
-3898922,zammad/zammad,Ruby,4
+3898922,zammad/zammad,Ruby,3
 103766152,github/explore,Ruby,5
-34840276,elastic/ansible-elasticsearch,Ruby,2
-190878115,CombineCommunity/rxswift-to-combine-cheatsheet,Ruby,3
+34840276,elastic/ansible-elasticsearch,Ruby,1
+190878115,CombineCommunity/rxswift-to-combine-cheatsheet,Ruby,1
 29151578,rswag/rswag,Ruby,0
 644899,onelogin/ruby-saml,Ruby,0
