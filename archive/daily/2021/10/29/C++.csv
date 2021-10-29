@@ -3,16 +3,16 @@ id,name,lang,new stars
 6934395,facebook/rocksdb,C++,9
 108110,mongodb/mongo,C++,3
 4524181,facebook/folly,C++,16
-74660642,taichi-dev/taichi,C++,20
+74660642,taichi-dev/taichi,C++,23
 1062572,catchorg/Catch2,C++,7
-54360307,uNetworking/uWebSockets,C++,6
+54360307,uNetworking/uWebSockets,C++,7
 117948953,Atmosphere-NX/Atmosphere,C++,11
 204593825,microsoft/STL,C++,2
 154201259,facebook/hermes,C++,10
 108102826,carla-simulator/carla,C++,4
-130068982,taskflow/taskflow,C++,5
+130068982,taskflow/taskflow,C++,6
 46374199,IntelRealSense/librealsense,C++,1
-4118776,mltframework/shotcut,C++,97
+4118776,mltframework/shotcut,C++,86
 138754790,duckdb/duckdb,C++,12
 223904726,wang-xinyu/tensorrtx,C++,9
 280608729,UZ-SLAMLab/ORB_SLAM3,C++,9
@@ -22,5 +22,5 @@ id,name,lang,new stars
 57061619,odriverobotics/ODrive,C++,3
 571708,c-ares/c-ares,C++,2
 158065193,ShahjalalShohag/code-library,C++,17
-246939908,Slicer/Slicer,C++,1
+246939908,Slicer/Slicer,C++,2
 356055024,tensorflow/tflite-micro,C++,1
