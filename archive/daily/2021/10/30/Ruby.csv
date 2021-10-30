@@ -1,11 +1,11 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,5
+7569578,discourse/discourse,Ruby,6
 27442967,fastlane/fastlane,Ruby,13
-53238813,Homebrew/brew,Ruby,18
+53238813,Homebrew/brew,Ruby,19
 13840241,freeCodeCamp/devdocs,Ruby,10
-481872,hashicorp/vagrant,Ruby,8
+481872,hashicorp/vagrant,Ruby,9
 3623050,Homebrew/homebrew-cask,Ruby,10
-538746,ruby/ruby,Ruby,4
+538746,ruby/ruby,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,3
 1090311,elastic/logstash,Ruby,3
 1918677,fluent/fluentd,Ruby,2
@@ -15,7 +15,7 @@ id,name,lang,new stars
 1145832,pry/pry,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,2
-30985840,solidusio/solidus,Ruby,1
+30985840,solidusio/solidus,Ruby,0
 52316423,luggit/react-native-config,Ruby,1
 1952825,Homebrew/homebrew-bundle,Ruby,5
 3898922,zammad/zammad,Ruby,2
