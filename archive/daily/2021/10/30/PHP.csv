@@ -1,11 +1,11 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,9
+458058,symfony/symfony,PHP,8
 448045,sebastianbergmann/phpunit,PHP,0
-60243197,nextcloud/server,PHP,6
-1548202,matomo-org/matomo,PHP,4
-1631570,nikic/PHP-Parser,PHP,2
-7704544,Intervention/image,PHP,3
-42480275,spatie/laravel-permission,PHP,6
+60243197,nextcloud/server,PHP,7
+1548202,matomo-org/matomo,PHP,3
+1631570,nikic/PHP-Parser,PHP,1
+7704544,Intervention/image,PHP,2
+42480275,spatie/laravel-permission,PHP,7
 2699935,squizlabs/PHP_CodeSniffer,PHP,3
 622166,FriendsOfPHP/Goutte,PHP,0
 11467667,typecho/typecho,PHP,5
@@ -13,14 +13,14 @@ id,name,lang,new stars
 12166778,googleapis/google-api-php-client,PHP,3
 41589337,BookStackApp/BookStack,PHP,4
 12204147,mautic/mautic,PHP,0
-97311017,rectorphp/rector,PHP,4
-95011974,akaunting/akaunting,PHP,6
+97311017,rectorphp/rector,PHP,3
+95011974,akaunting/akaunting,PHP,3
 69691727,pmmp/PocketMine-MP,PHP,3
 112659734,brefphp/bref,PHP,2
 3193843,drush-ops/drush,PHP,0
-153069455,collabnix/dockerlabs,PHP,3
-141720301,dr5hn/countries-states-cities-database,PHP,1
+153069455,collabnix/dockerlabs,PHP,1
+141720301,dr5hn/countries-states-cities-database,PHP,0
 15231212,Automattic/jetpack,PHP,0
 11654443,mailgun/mailgun-php,PHP,0
-5367323,akeneo/pim-community-dev,PHP,0
+5367323,akeneo/pim-community-dev,PHP,1
 27249479,EC-CUBE/ec-cube,PHP,1

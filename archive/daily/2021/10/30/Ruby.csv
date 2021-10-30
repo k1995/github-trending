@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,7
-65252,jekyll/jekyll,Ruby,6
-27442967,fastlane/fastlane,Ruby,9
-53238813,Homebrew/brew,Ruby,14
-2293158,rapid7/metasploit-framework,Ruby,17
-481872,hashicorp/vagrant,Ruby,11
-3623050,Homebrew/homebrew-cask,Ruby,10
-2203645,CocoaPods/CocoaPods,Ruby,2
+65252,jekyll/jekyll,Ruby,4
+27442967,fastlane/fastlane,Ruby,8
+53238813,Homebrew/brew,Ruby,10
+2293158,rapid7/metasploit-framework,Ruby,16
+481872,hashicorp/vagrant,Ruby,12
+3623050,Homebrew/homebrew-cask,Ruby,8
+2203645,CocoaPods/CocoaPods,Ruby,1
 3314,spree/spree,Ruby,0
-18486300,lewagon/setup,Ruby,14
-1918677,fluent/fluentd,Ruby,1
-52855516,Homebrew/homebrew-core,Ruby,8
+18486300,lewagon/setup,Ruby,13
+1918677,fluent/fluentd,Ruby,2
+52855516,Homebrew/homebrew-core,Ruby,6
 96395,faker-ruby/faker,Ruby,2
 611921,activeadmin/activeadmin,Ruby,0
 6529205,varvet/pundit,Ruby,1
@@ -18,8 +18,8 @@ id,name,lang,new stars
 108278,chef/chef,Ruby,0
 910744,puppetlabs/puppet,Ruby,0
 211588,paper-trail-gem/paper_trail,Ruby,0
-9906653,ankane/chartkick,Ruby,2
-52316423,luggit/react-native-config,Ruby,1
+9906653,ankane/chartkick,Ruby,1
+52316423,luggit/react-native-config,Ruby,2
 1462,ctran/annotate_models,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,1
 9831101,elastic/elasticsearch-ruby,Ruby,2
