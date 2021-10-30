@@ -1,14 +1,14 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,6
-27442967,fastlane/fastlane,Ruby,11
+7569578,discourse/discourse,Ruby,7
+27442967,fastlane/fastlane,Ruby,10
 53238813,Homebrew/brew,Ruby,16
 13840241,freeCodeCamp/devdocs,Ruby,10
-481872,hashicorp/vagrant,Ruby,9
-3623050,Homebrew/homebrew-cask,Ruby,10
+481872,hashicorp/vagrant,Ruby,7
+3623050,Homebrew/homebrew-cask,Ruby,9
 538746,ruby/ruby,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,2
 1090311,elastic/logstash,Ruby,2
-1918677,fluent/fluentd,Ruby,1
+1918677,fluent/fluentd,Ruby,2
 611921,activeadmin/activeadmin,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,2
 108278,chef/chef,Ruby,0
@@ -18,7 +18,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,0
 52316423,luggit/react-native-config,Ruby,1
 1952825,Homebrew/homebrew-bundle,Ruby,4
-3898922,zammad/zammad,Ruby,2
+3898922,zammad/zammad,Ruby,1
 103766152,github/explore,Ruby,7
 34840276,elastic/ansible-elasticsearch,Ruby,0
 190878115,CombineCommunity/rxswift-to-combine-cheatsheet,Ruby,2
