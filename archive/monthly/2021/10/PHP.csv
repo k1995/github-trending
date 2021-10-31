@@ -1,17 +1,17 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,647
 458058,symfony/symfony,PHP,154
-1864363,composer/composer,PHP,152
+1864363,composer/composer,PHP,151
 7548986,laravel/framework,PHP,254
 1420053,guzzle/guzzle,PHP,107
 1376664,Seldaek/monolog,PHP,123
 448045,sebastianbergmann/phpunit,PHP,94
-2253830,PHPMailer/PHPMailer,PHP,241
+2253830,PHPMailer/PHPMailer,PHP,242
 1548202,matomo-org/matomo,PHP,169
-82238168,monicahq/monica,PHP,1847
+82238168,monicahq/monica,PHP,1772
 56728437,docker/labs,PHP,244
 14259390,Maatwebsite/Laravel-Excel,PHP,93
-79111500,jupeter/clean-code-php,PHP,179
+79111500,jupeter/clean-code-php,PHP,177
 2699935,squizlabs/PHP_CodeSniffer,PHP,91
 677464,doctrine/dbal,PHP,77
 6660366,dompdf/dompdf,PHP,87
@@ -21,6 +21,6 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,153
 222873550,bytefury/crater,PHP,113
 60010673,elementor/elementor,PHP,88
-141720301,dr5hn/countries-states-cities-database,PHP,146
-75645659,WordPress/wordpress-develop,PHP,41
-410524724,nunomaduro/termwind,PHP,583
+141720301,dr5hn/countries-states-cities-database,PHP,147
+75645659,WordPress/wordpress-develop,PHP,42
+410524724,nunomaduro/termwind,PHP,549
