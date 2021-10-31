@@ -1,10 +1,10 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,159
+3482588,danielmiessler/SecLists,PHP,157
 458058,symfony/symfony,PHP,37
-1548202,matomo-org/matomo,PHP,39
+1548202,matomo-org/matomo,PHP,37
 1305114,roots/sage,PHP,19
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,15
-56728437,docker/labs,PHP,157
+56728437,docker/labs,PHP,154
 23680678,tymondesigns/jwt-auth,PHP,18
 2884111,magento/magento2,PHP,11
 597887,doctrine/orm,PHP,21
@@ -14,13 +14,13 @@ id,name,lang,new stars
 4242230,PHPOffice/PHPWord,PHP,19
 14346979,snipe/snipe-it,PHP,29
 30915528,spatie/laravel-backup,PHP,14
-60010673,elementor/elementor,PHP,46
+60010673,elementor/elementor,PHP,45
 159606650,hyperf/hyperf,PHP,29
 2464908,joomla/joomla-cms,PHP,5
 439861,moodle/moodle,PHP,18
 117567334,spatie/laravel-query-builder,PHP,17
 47508644,pterodactyl/panel,PHP,28
 69691727,pmmp/PocketMine-MP,PHP,10
-13914116,librenms/librenms,PHP,13
+13914116,librenms/librenms,PHP,14
 521583,symfony/symfony-docs,PHP,5
 75645659,WordPress/wordpress-develop,PHP,10

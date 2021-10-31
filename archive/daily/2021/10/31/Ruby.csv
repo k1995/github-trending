@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-65252,jekyll/jekyll,Ruby,4
-27442967,fastlane/fastlane,Ruby,3
-53238813,Homebrew/brew,Ruby,11
-2293158,rapid7/metasploit-framework,Ruby,13
-481872,hashicorp/vagrant,Ruby,8
-3623050,Homebrew/homebrew-cask,Ruby,6
+8514,rails/rails,Ruby,8
+65252,jekyll/jekyll,Ruby,5
+27442967,fastlane/fastlane,Ruby,2
+53238813,Homebrew/brew,Ruby,10
+2293158,rapid7/metasploit-framework,Ruby,14
+481872,hashicorp/vagrant,Ruby,7
+3623050,Homebrew/homebrew-cask,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,0
 3314,spree/spree,Ruby,2
 18486300,lewagon/setup,Ruby,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 9906653,ankane/chartkick,Ruby,2
 52316423,luggit/react-native-config,Ruby,1
 1462,ctran/annotate_models,Ruby,0
-93163073,dependabot/dependabot-core,Ruby,1
+93163073,dependabot/dependabot-core,Ruby,0
 9831101,elastic/elasticsearch-ruby,Ruby,1
 422124462,ko1/rspec-debug,Ruby,1
