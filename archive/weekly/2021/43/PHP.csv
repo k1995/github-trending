@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,157
-458058,symfony/symfony,PHP,37
-1548202,matomo-org/matomo,PHP,37
+3482588,danielmiessler/SecLists,PHP,154
+458058,symfony/symfony,PHP,38
+1548202,matomo-org/matomo,PHP,35
 1305114,roots/sage,PHP,19
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,15
-56728437,docker/labs,PHP,154
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,14
+56728437,docker/labs,PHP,148
 23680678,tymondesigns/jwt-auth,PHP,18
 2884111,magento/magento2,PHP,11
 597887,doctrine/orm,PHP,21
-11467667,typecho/typecho,PHP,27
-2179920,woocommerce/woocommerce,PHP,21
-6763587,PrestaShop/PrestaShop,PHP,12
-4242230,PHPOffice/PHPWord,PHP,19
+11467667,typecho/typecho,PHP,29
+2179920,woocommerce/woocommerce,PHP,20
+6763587,PrestaShop/PrestaShop,PHP,11
+4242230,PHPOffice/PHPWord,PHP,18
 14346979,snipe/snipe-it,PHP,29
 30915528,spatie/laravel-backup,PHP,14
 60010673,elementor/elementor,PHP,45

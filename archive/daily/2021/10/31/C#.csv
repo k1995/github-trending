@@ -1,18 +1,18 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,138
+184456251,microsoft/PowerToys,C#,167
 54086969,thangchung/awesome-dotnet-core,C#,11
-14964475,AvaloniaUI/Avalonia,C#,16
-1135454,cefsharp/CefSharp,C#,0
+14964475,AvaloniaUI/Avalonia,C#,14
+1135454,cefsharp/CefSharp,C#,1
 69673033,ardalis/CleanArchitecture,C#,8
-213460285,jasontaylordev/CleanArchitecture,C#,5
+213460285,jasontaylordev/CleanArchitecture,C#,4
 23315232,mbdavid/LiteDB,C#,4
-26884725,OrchardCMS/OrchardCore,C#,5
+26884725,OrchardCMS/OrchardCore,C#,7
 54213490,xamarin/Xamarin.Forms,C#,0
 76445704,dotnetcore/CAP,C#,2
 152370823,davidfowl/AspNetCoreDiagnosticScenarios,C#,4
 286490065,UnityTechnologies/open-project-1,C#,4
 19216825,xamarin/xamarin-forms-samples,C#,0
-243854166,dotnet/tye,C#,3
+243854166,dotnet/tye,C#,4
 134363073,HandyOrg/HandyControl,C#,8
 2928944,Azure/azure-sdk-for-net,C#,4
 372096057,Richasy/Bili.Uwp,C#,21
@@ -22,5 +22,5 @@ id,name,lang,new stars
 337897094,beto-rodriguez/LiveCharts2,C#,7
 93301055,Regalis11/Barotrauma,C#,5
 156260788,Azure/azure-cosmos-dotnet-v3,C#,1
-278114481,homuler/MediaPipeUnityPlugin,C#,2
+278114481,homuler/MediaPipeUnityPlugin,C#,3
 281189664,Azure/azure-functions-dotnet-worker,C#,0

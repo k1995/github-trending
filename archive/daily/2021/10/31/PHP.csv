@@ -1,19 +1,19 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,6
 448045,sebastianbergmann/phpunit,PHP,0
-60243197,nextcloud/server,PHP,7
-1548202,matomo-org/matomo,PHP,4
+60243197,nextcloud/server,PHP,6
+1548202,matomo-org/matomo,PHP,3
 1631570,nikic/PHP-Parser,PHP,1
 7704544,Intervention/image,PHP,4
-42480275,spatie/laravel-permission,PHP,4
+42480275,spatie/laravel-permission,PHP,3
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
 622166,FriendsOfPHP/Goutte,PHP,1
-11467667,typecho/typecho,PHP,6
+11467667,typecho/typecho,PHP,7
 212659,sebastianbergmann/php-code-coverage,PHP,0
 12166778,googleapis/google-api-php-client,PHP,2
 41589337,BookStackApp/BookStack,PHP,6
-12204147,mautic/mautic,PHP,2
-97311017,rectorphp/rector,PHP,2
+12204147,mautic/mautic,PHP,3
+97311017,rectorphp/rector,PHP,1
 95011974,akaunting/akaunting,PHP,5
 69691727,pmmp/PocketMine-MP,PHP,2
 112659734,brefphp/bref,PHP,2
