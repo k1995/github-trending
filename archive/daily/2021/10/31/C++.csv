@@ -1,18 +1,18 @@
 id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,54
-19374812,telegramdesktop/tdesktop,C++,11
-116167731,yuzu-emu/yuzu,C++,18
-74660642,taichi-dev/taichi,C++,72
-125098880,ValveSoftware/Proton,C++,8
+19374812,telegramdesktop/tdesktop,C++,12
+116167731,yuzu-emu/yuzu,C++,19
+74660642,taichi-dev/taichi,C++,71
+125098880,ValveSoftware/Proton,C++,9
 14981376,dogecoin/dogecoin,C++,5
 1217614,xbmc/xbmc,C++,5
-117948953,Atmosphere-NX/Atmosphere,C++,6
+117948953,Atmosphere-NX/Atmosphere,C++,5
 153866232,TheCherno/Hazel,C++,4
 88327406,xmrig/xmrig,C++,6
-36810120,tzapu/WiFiManager,C++,1
+36810120,tzapu/WiFiManager,C++,0
 124976393,oatpp/oatpp,C++,14
-52882701,prusa3d/PrusaSlicer,C++,20
-138754790,duckdb/duckdb,C++,13
+52882701,prusa3d/PrusaSlicer,C++,21
+138754790,duckdb/duckdb,C++,12
 61246596,crosire/reshade,C++,3
 48289924,me-no-dev/ESPAsyncWebServer,C++,1
 61980658,azerothcore/azerothcore-wotlk,C++,11
@@ -21,6 +21,6 @@ id,name,lang,new stars
 245268140,ndeadly/MissionControl,C++,0
 215877724,Huntereb/Awoo-Installer,C++,1
 395348629,bozbez/win-capture-audio,C++,11
-411555862,Rishabh062/Hacktoberfest2021,C++,3
+411555862,Rishabh062/Hacktoberfest2021,C++,2
 416649448,HerMajestyDrMona/Windows11DragAndDropToTaskbarFix,C++,13
 420125537,klinix5/ProfSvcLPE,C++,3
