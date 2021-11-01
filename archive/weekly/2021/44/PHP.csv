@@ -1,20 +1,20 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,142
+3482588,danielmiessler/SecLists,PHP,139
 458058,symfony/symfony,PHP,37
-1548202,matomo-org/matomo,PHP,36
+1548202,matomo-org/matomo,PHP,38
 1305114,roots/sage,PHP,15
-56728437,docker/labs,PHP,79
+56728437,docker/labs,PHP,70
 2884111,magento/magento2,PHP,13
-11467667,typecho/typecho,PHP,32
+11467667,typecho/typecho,PHP,31
 12166778,googleapis/google-api-php-client,PHP,17
 2179920,woocommerce/woocommerce,PHP,19
 6763587,PrestaShop/PrestaShop,PHP,11
 4242230,PHPOffice/PHPWord,PHP,18
 9131292,jenssegers/laravel-mongodb,PHP,27
 3817881,zircote/swagger-php,PHP,7
-60010673,elementor/elementor,PHP,32
-159606650,hyperf/hyperf,PHP,27
-2464908,joomla/joomla-cms,PHP,6
+60010673,elementor/elementor,PHP,30
+159606650,hyperf/hyperf,PHP,28
+2464908,joomla/joomla-cms,PHP,7
 439861,moodle/moodle,PHP,17
 117567334,spatie/laravel-query-builder,PHP,17
 47508644,pterodactyl/panel,PHP,30
@@ -23,4 +23,4 @@ id,name,lang,new stars
 521583,symfony/symfony-docs,PHP,5
 75645659,WordPress/wordpress-develop,PHP,8
 260729799,knuckleswtf/scribe,PHP,27
-411823343,rappasoft/laravel-authentication-log,PHP,63
+411823343,rappasoft/laravel-authentication-log,PHP,62
