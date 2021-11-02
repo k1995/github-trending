@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,262
 83222441,donnemartin/system-design-primer,Python,145
-121395510,CyC2018/CS-Notes,Java,63
-184456251,microsoft/PowerToys,C#,193
-1181927,bitcoin/bitcoin,C++,91
-79162682,laurent22/joplin,TypeScript,74
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,317
-107286889,schollz/croc,Go,270
+14098069,justjavac/free-programming-books-zh_CN,,54
+184456251,microsoft/PowerToys,C#,194
+12888993,home-assistant/core,Python,28
+206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Java,97
+101138315,d2l-ai/d2l-zh,Python,61
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,239
+152870372,ruanyf/weekly,,23
 74660642,taichi-dev/taichi,C++,131
-6201092,mpv-player/mpv,C,113
 416195474,WorkerLivesMatter/WorkingTime,,581
-32969220,esp8266/Arduino,C++,33
-40892817,ethereum/solidity,C++,72
-40276274,ziglang/zig,Zig,66
-189621607,github/docs,JavaScript,87
-128636610,Koenkk/zigbee2mqtt,JavaScript,60
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,551
+110178895,brave/brave-browser,JavaScript,7
+244620269,visenger/awesome-mlops,,96
+128636610,Koenkk/zigbee2mqtt,JavaScript,58
+344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,544
+1259258,klange/toaruos,C,64
+47042287,codebasics/py,Jupyter Notebook,7
+260869160,LaravelDaily/laravel-tips,,30
+164419238,bregman-arie/devops-resources,Groovy,7
 370977430,OpenIMSDK/Open-IM-Server,Go,504
-400215964,notifirehq/notifire,TypeScript,559
-401508496,M2Team/NanaZip,C++,73
-414585797,0x192/universal-android-debloater,Rust,96
-382252060,KhaosT/MacVM,Swift,64
-421458616,EtherDream/http-server-online,JavaScript,106
-392065373,BNYMellon/spring-kata,Java,63
-335458581,Kameldieb/raytracing_demo,C++,38
+135897748,NebuTech/NBMiner,,18
+400215964,notifirehq/notifire,TypeScript,552
+409475063,lihaoyun6/PD-Runner,,82
+392065373,BNYMellon/spring-kata,Java,51
+417141259,ethereum-boilerplate/ethereum-boilerplate,JavaScript,51
+422274596,hpcaitech/ColossalAI,Python,32

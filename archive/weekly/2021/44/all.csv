@@ -1,26 +1,26 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,449
-70107786,vercel/next.js,JavaScript,982
-34526884,ant-design/ant-design,TypeScript,226
-54173593,storybookjs/storybook,TypeScript,267
-7691631,moby/moby,Go,81
-155220641,huggingface/transformers,Python,399
-612230,nvm-sh/nvm,Shell,278
-1148753,spring-projects/spring-framework,Java,119
-39464018,apache/superset,Python,366
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,335
-53238813,Homebrew/brew,Ruby,127
-52281283,mastodon/mastodon,Ruby,149
-264818686,ultralytics/yolov5,Python,316
-115110181,swc-project/swc,Rust,862
-120156076,cloudreve/Cloudreve,Go,282
-196613241,edeng23/binance-trade-bot,Python,166
-197515838,shengcaishizhan/kkndme_tianya,,585
-253044228,projectdiscovery/nuclei-templates,Python,105
-416630768,Footsiefat/zspotify,Python,244
-382378702,modern-js-dev/modern.js,TypeScript,1426
-400476704,ifzhang/ByteTrack,Python,339
-406091035,HashLips/hashlips_art_engine,JavaScript,181
-392565553,IntelLabs/control-flag,C++,257
-366352205,zero205/JD_tencent_scf,JavaScript,202
-418093699,CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins,Python,88
+31792824,flutter/flutter,Dart,305
+70107786,vercel/next.js,JavaScript,995
+34526884,ant-design/ant-design,TypeScript,228
+54173593,storybookjs/storybook,TypeScript,263
+155220641,huggingface/transformers,Python,395
+612230,nvm-sh/nvm,Shell,277
+16408992,neovim/neovim,Vim script,324
+101138315,d2l-ai/d2l-zh,Python,350
+151619717,google-research/google-research,Jupyter Notebook,119
+179613976,PKUanonym/REKCARC-TSC-UHT,HTML,198
+115110181,swc-project/swc,Rust,865
+102523304,fchollet/deep-learning-with-python-notebooks,Jupyter Notebook,127
+23929024,jessfraz/dockerfiles,Dockerfile,311
+120156076,cloudreve/Cloudreve,Go,283
+179354282,acidanthera/OpenCorePkg,C,121
+287463830,microsoft/qlib,Python,125
+50824485,processhacker/processhacker,C,562
+196613241,edeng23/binance-trade-bot,Python,168
+197515838,shengcaishizhan/kkndme_tianya,,556
+223953992,htr-tech/zphisher,Hack,422
+370977430,OpenIMSDK/Open-IM-Server,Go,1166
+382378702,modern-js-dev/modern.js,TypeScript,1395
+400476704,ifzhang/ByteTrack,Python,324
+420812152,LinusHenze/Fugu14,Swift,263
+366352205,zero205/JD_tencent_scf,JavaScript,195
