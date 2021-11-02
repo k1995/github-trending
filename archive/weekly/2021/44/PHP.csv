@@ -1,12 +1,12 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,140
-458058,symfony/symfony,PHP,41
+458058,symfony/symfony,PHP,40
 1864363,composer/composer,PHP,43
 1631570,nikic/PHP-Parser,PHP,23
 7704544,Intervention/image,PHP,23
 1305114,roots/sage,PHP,13
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,14
-56728437,docker/labs,PHP,53
+56728437,docker/labs,PHP,51
 4549925,bobthecow/psysh,PHP,9
 597887,doctrine/orm,PHP,24
 36597039,phpDocumentor/ReflectionCommon,PHP,14
@@ -16,9 +16,9 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,18
 4242230,PHPOffice/PHPWord,PHP,17
 3817881,zircote/swagger-php,PHP,7
-60010673,elementor/elementor,PHP,26
-159606650,hyperf/hyperf,PHP,22
-439861,moodle/moodle,PHP,18
+60010673,elementor/elementor,PHP,25
+159606650,hyperf/hyperf,PHP,23
+439861,moodle/moodle,PHP,15
 47508644,pterodactyl/panel,PHP,31
 278929867,antonkomarev/github-profile-views-counter,PHP,28
 330622402,mochat-cloud/mochat,PHP,25
