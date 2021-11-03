@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
-2293158,rapid7/metasploit-framework,Ruby,13
-481872,hashicorp/vagrant,Ruby,9
+8514,rails/rails,Ruby,10
+2293158,rapid7/metasploit-framework,Ruby,11
+481872,hashicorp/vagrant,Ruby,8
 308770,heartcombo/devise,Ruby,2
-73648678,forem/forem,Ruby,33
-2203645,CocoaPods/CocoaPods,Ruby,3
+73648678,forem/forem,Ruby,34
+2203645,CocoaPods/CocoaPods,Ruby,4
 1090311,elastic/logstash,Ruby,2
-3314,spree/spree,Ruby,5
+3314,spree/spree,Ruby,4
 106995,sinatra/sinatra,Ruby,0
-52855516,Homebrew/homebrew-core,Ruby,28
+52855516,Homebrew/homebrew-core,Ruby,31
 96395,faker-ruby/faker,Ruby,6
 812393,ruby-grape/grape,Ruby,3
 611921,activeadmin/activeadmin,Ruby,1
@@ -16,7 +16,7 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,2
 355893,github/markup,Ruby,2
 18294,activemerchant/active_merchant,Ruby,0
-3898922,zammad/zammad,Ruby,2
+3898922,zammad/zammad,Ruby,1
 200302808,github/view_component,Ruby,2
 9831101,elastic/elasticsearch-ruby,Ruby,1
 34840276,elastic/ansible-elasticsearch,Ruby,2
