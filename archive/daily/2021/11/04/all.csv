@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,325
-3402537,h5bp/Front-end-Developer-Interview-Questions,Nunjucks,39
-12888993,home-assistant/core,Python,139
-101138315,d2l-ai/d2l-zh,Python,60
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,306
-152870372,ruanyf/weekly,,134
-3606738,CesiumGS/cesium,JavaScript,3
-377851948,deepmind/alphafold,Python,35
-23664475,Shopify/toxiproxy,Go,241
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,385
-144140342,paritytech/polkadot,Rust,10
-370977430,OpenIMSDK/Open-IM-Server,Go,430
-112751115,naganandy/graph-based-deep-learning-literature,Jupyter Notebook,8
+83222441,donnemartin/system-design-primer,Python,324
+3402537,h5bp/Front-end-Developer-Interview-Questions,Nunjucks,77
+12888993,home-assistant/core,Python,125
+101138315,d2l-ai/d2l-zh,Python,82
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,330
+152870372,ruanyf/weekly,,138
+3606738,CesiumGS/cesium,JavaScript,41
+377851948,deepmind/alphafold,Python,46
+23664475,Shopify/toxiproxy,Go,200
+344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,325
+144140342,paritytech/polkadot,Rust,26
+370977430,OpenIMSDK/Open-IM-Server,Go,321
+112751115,naganandy/graph-based-deep-learning-literature,Jupyter Notebook,20
 260869160,LaravelDaily/laravel-tips,,50
-51193526,cosmos/cosmos-sdk,Go,5
-422821402,MangoDB-io/MangoDB,Go,345
-416625384,darglein/ADOP,C++,79
-381843949,nickboucher/trojan-source,SCSS,163
-393390354,motor-admin/motor-admin,Ruby,95
-421787720,foxsen/archbase,TeX,111
+51193526,cosmos/cosmos-sdk,Go,20
+422821402,MangoDB-io/MangoDB,Go,380
+416625384,darglein/ADOP,C++,117
+381843949,nickboucher/trojan-source,SCSS,180
+393390354,motor-admin/motor-admin,Ruby,109
+421787720,foxsen/archbase,TeX,131
 422998569,sberbank-ai/ru-dalle,Jupyter Notebook,98
-422351772,kenp-io/not-for-iphone-usb-c,,127
+422351772,kenp-io/not-for-iphone-usb-c,,129
 365754202,sgoulas/pdpProject,TypeScript,27
 423186256,Azure-Samples/container-apps-store-api-microservice,Shell,25
-418311699,Drunkmars/BypassUAC,,10
+418311699,Drunkmars/BypassUAC,,16
