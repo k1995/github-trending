@@ -1,20 +1,20 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,12
+10744183,netdata/netdata,C,11
 156018,redis/redis,C,22
 36836475,tmux/tmux,C,8
-5101141,stedolan/jq,C,17
-14812739,libuv/libuv,C,10
-6201092,mpv-player/mpv,C,15
+5101141,stedolan/jq,C,16
+14812739,libuv/libuv,C,11
+6201092,mpv-player/mpv,C,14
 34921116,iovisor/bcc,C,4
 613829,openresty/lua-nginx-module,C,2
 65899476,espressif/esp-idf,C,18
 13310527,jemalloc/jemalloc,C,10
 54280778,DaveGamble/cJSON,C,7
-105944401,yugabyte/yugabyte-db,C,12
-31791482,microsoft/Windows-driver-samples,C,2
-1259258,klange/toaruos,C,94
-86245815,pygame/pygame,C,15
-17183871,esnet/iperf,C,12
+105944401,yugabyte/yugabyte-db,C,13
+31791482,microsoft/Windows-driver-samples,C,3
+1259258,klange/toaruos,C,89
+86245815,pygame/pygame,C,12
+17183871,esnet/iperf,C,11
 2359378,madler/zlib,C,4
 114948816,uber/h3,C,3
 39760454,libjpeg-turbo/libjpeg-turbo,C,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 121516035,nrfconnect/sdk-nrf,C,0
 53432472,Azure/sonic-buildimage,C,0
 391402552,Kameldieb/terminal_minecraft,C,17
-422751904,zdharma-continuum/zinit,C,20
+422751904,zdharma-continuum/zinit,C,22
