@@ -1,24 +1,26 @@
 id,name,lang,new stars
-21289110,vinta/awesome-python,Python,3095
-70107786,vercel/next.js,JavaScript,2368
-1181927,bitcoin/bitcoin,C++,1242
-52281283,mastodon/mastodon,Ruby,917
+21289110,vinta/awesome-python,Python,3110
+70107786,vercel/next.js,JavaScript,2373
+1181927,bitcoin/bitcoin,C++,1244
+52281283,mastodon/mastodon,Ruby,919
 42920477,sentsin/layui,JavaScript,741
 148736243,qiurunze123/miaosha,Java,1052
-264818686,ultralytics/yolov5,Python,1276
+264818686,ultralytics/yolov5,Python,1275
 168799526,rwightman/pytorch-image-models,Python,1060
-120156076,cloudreve/Cloudreve,Go,1015
+120156076,cloudreve/Cloudreve,Go,1021
 129283183,facebook/flipper,TypeScript,1229
-382496361,louislam/uptime-kuma,JavaScript,5258
+382496361,louislam/uptime-kuma,JavaScript,5251
 60667730,lvgl/lvgl,C,913
-47859258,goplus/gop,Go,2158
-109872620,paritytech/substrate,Rust,309
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,4258
+47859258,goplus/gop,Go,2159
+109872620,paritytech/substrate,Rust,312
+344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,4232
+370977430,OpenIMSDK/Open-IM-Server,Go,2385
 253044228,projectdiscovery/nuclei-templates,Python,372
-162028712,leerob/leerob.io,TypeScript,539
-381453955,hrsh7th/nvim-cmp,Lua,505
-382756807,TechXueXi/TechXueXi,Python,854
-406091035,HashLips/hashlips_art_engine,JavaScript,645
-394689163,WebDevSimplified/useful-custom-react-hooks,JavaScript,526
-409892817,Slurmio/school-dev-k8s,Mustache,613
-338102540,john-smilga/node-express-course,JavaScript,250
+162028712,leerob/leerob.io,TypeScript,541
+313501668,wenet-e2e/wenet,C++,169
+381453955,hrsh7th/nvim-cmp,Lua,507
+382756807,TechXueXi/TechXueXi,Python,861
+406091035,HashLips/hashlips_art_engine,JavaScript,644
+394689163,WebDevSimplified/useful-custom-react-hooks,JavaScript,527
+409892817,Slurmio/school-dev-k8s,Mustache,606
+338102540,john-smilga/node-express-course,JavaScript,253
