@@ -1,26 +1,26 @@
 id,name,lang,new stars
-126577260,trekhleb/javascript-algorithms,JavaScript,4847
+126577260,trekhleb/javascript-algorithms,JavaScript,4842
 2325298,torvalds/linux,C,1865
-21289110,vinta/awesome-python,Python,3202
-70107786,vercel/next.js,JavaScript,2425
-1181927,bitcoin/bitcoin,C++,1263
-155220641,huggingface/transformers,Python,1582
-42920477,sentsin/layui,JavaScript,753
-58842707,trailofbits/algo,Python,2441
-264818686,ultralytics/yolov5,Python,1300
-116167731,yuzu-emu/yuzu,C++,444
-168799526,rwightman/pytorch-image-models,Python,1047
-120156076,cloudreve/Cloudreve,Go,1062
-241215865,blitz-js/blitz,JavaScript,561
-382496361,louislam/uptime-kuma,JavaScript,5233
+70107786,vercel/next.js,JavaScript,2435
+1181927,bitcoin/bitcoin,C++,1262
+155220641,huggingface/transformers,Python,1578
+16408992,neovim/neovim,Vim script,1019
+80276391,GitSquared/edex-ui,JavaScript,688
+42920477,sentsin/layui,JavaScript,755
+148736243,qiurunze123/miaosha,Java,1069
+179613976,PKUanonym/REKCARC-TSC-UHT,HTML,704
+264818686,ultralytics/yolov5,Python,1301
+116167731,yuzu-emu/yuzu,C++,450
+168799526,rwightman/pytorch-image-models,Python,1045
+120156076,cloudreve/Cloudreve,Go,1066
+382496361,louislam/uptime-kuma,JavaScript,5224
 47859258,goplus/gop,Go,2174
-189621607,github/docs,JavaScript,729
-128636610,Koenkk/zigbee2mqtt,JavaScript,421
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,4109
-109872620,paritytech/substrate,Rust,323
-370977430,OpenIMSDK/Open-IM-Server,Go,2704
-253044228,projectdiscovery/nuclei-templates,Python,383
+344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,4096
+109872620,paritytech/substrate,Rust,325
+88327406,xmrig/xmrig,C++,242
+82208127,arkenfox/user.js,JavaScript,580
+370977430,OpenIMSDK/Open-IM-Server,Go,2747
+275646881,raywenderlich/flta-materials,Dart,1373
 313501668,wenet-e2e/wenet,C++,188
-381453955,hrsh7th/nvim-cmp,Lua,509
-406091035,HashLips/hashlips_art_engine,JavaScript,646
-409892817,Slurmio/school-dev-k8s,Mustache,561
+381453955,hrsh7th/nvim-cmp,Lua,508
+406091035,HashLips/hashlips_art_engine,JavaScript,650
