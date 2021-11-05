@@ -1,17 +1,17 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,2
-1090311,elastic/logstash,Ruby,4
+27442967,fastlane/fastlane,Ruby,3
+1090311,elastic/logstash,Ruby,3
 3314,spree/spree,Ruby,1
 52855516,Homebrew/homebrew-core,Ruby,8
-96395,faker-ruby/faker,Ruby,10
+96395,faker-ruby/faker,Ruby,9
 1725199,github/linguist,Ruby,3
 393390354,motor-admin/motor-admin,Ruby,162
-191175986,braintree/runbook,Ruby,3
-230088868,pawurb/rails-pg-extras,Ruby,3
+191175986,braintree/runbook,Ruby,2
+230088868,pawurb/rails-pg-extras,Ruby,2
 5125538,VendaTech/chef-cookbook-ssl,Ruby,0
 1293444,lance/torquebox-appliances,Ruby,0
+372206541,learn-co-curriculum/phase-4-controller-exception-handling,Ruby,1
 367693821,learn-co-curriculum/phase-4-adding-react-to-rails,Ruby,0
-372206541,learn-co-curriculum/phase-4-controller-exception-handling,Ruby,0
 365005065,learn-co-curriculum/phase-4-active-record-associations-review-readme,Ruby,0
 364555312,learn-co-curriculum/phase-4-rails-resources-destroy,Ruby,0
 347108023,learn-co-curriculum/phase-3-ruby-oo-self-cash-register-lab,Ruby,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 364558516,learn-co-curriculum/phase-4-controller-validations-lab,Ruby,0
 347108164,learn-co-curriculum/phase-3-ruby-oo-self-person-lab,Ruby,0
 4532993,kentoku24/recommend,Ruby,0
-347107040,learn-co-curriculum/phase-3-ruby-oo-class-variables-and-class-methods-lab,Ruby,0
 364558038,learn-co-curriculum/phase-4-active-record-validations-lab,Ruby,0
+347107040,learn-co-curriculum/phase-3-ruby-oo-class-variables-and-class-methods-lab,Ruby,0
