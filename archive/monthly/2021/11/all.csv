@@ -1,26 +1,26 @@
 id,name,lang,new stars
-126577260,trekhleb/javascript-algorithms,JavaScript,4842
+126577260,trekhleb/javascript-algorithms,JavaScript,4846
 2325298,torvalds/linux,C,1865
-70107786,vercel/next.js,JavaScript,2435
-1181927,bitcoin/bitcoin,C++,1262
-155220641,huggingface/transformers,Python,1578
-16408992,neovim/neovim,Vim script,1019
-80276391,GitSquared/edex-ui,JavaScript,688
-42920477,sentsin/layui,JavaScript,755
-148736243,qiurunze123/miaosha,Java,1069
-179613976,PKUanonym/REKCARC-TSC-UHT,HTML,704
-264818686,ultralytics/yolov5,Python,1301
-116167731,yuzu-emu/yuzu,C++,450
+70107786,vercel/next.js,JavaScript,2441
+1181927,bitcoin/bitcoin,C++,1263
+155220641,huggingface/transformers,Python,1577
+16408992,neovim/neovim,Vim script,1022
+80276391,GitSquared/edex-ui,JavaScript,690
+42920477,sentsin/layui,JavaScript,751
+148736243,qiurunze123/miaosha,Java,1070
+179613976,PKUanonym/REKCARC-TSC-UHT,HTML,703
+264818686,ultralytics/yolov5,Python,1307
+116167731,yuzu-emu/yuzu,C++,446
 168799526,rwightman/pytorch-image-models,Python,1045
-120156076,cloudreve/Cloudreve,Go,1066
-382496361,louislam/uptime-kuma,JavaScript,5224
-47859258,goplus/gop,Go,2174
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,4096
+120156076,cloudreve/Cloudreve,Go,1070
+382496361,louislam/uptime-kuma,JavaScript,5215
+47859258,goplus/gop,Go,2179
+344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,4032
 109872620,paritytech/substrate,Rust,325
 88327406,xmrig/xmrig,C++,242
-82208127,arkenfox/user.js,JavaScript,580
-370977430,OpenIMSDK/Open-IM-Server,Go,2747
-275646881,raywenderlich/flta-materials,Dart,1373
+82208127,arkenfox/user.js,JavaScript,581
+370977430,OpenIMSDK/Open-IM-Server,Go,2769
+275646881,raywenderlich/flta-materials,Dart,1376
 313501668,wenet-e2e/wenet,C++,188
-381453955,hrsh7th/nvim-cmp,Lua,508
-406091035,HashLips/hashlips_art_engine,JavaScript,650
+381453955,hrsh7th/nvim-cmp,Lua,509
+406091035,HashLips/hashlips_art_engine,JavaScript,652
