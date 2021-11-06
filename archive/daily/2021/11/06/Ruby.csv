@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
-27442967,fastlane/fastlane,Ruby,7
-481872,hashicorp/vagrant,Ruby,10
-308770,heartcombo/devise,Ruby,5
+8514,rails/rails,Ruby,13
+27442967,fastlane/fastlane,Ruby,8
+481872,hashicorp/vagrant,Ruby,8
+308770,heartcombo/devise,Ruby,4
 4095287,rubocop/rubocop,Ruby,2
 3195124,mperham/sidekiq,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,11
+202291859,chatwoot/chatwoot,Ruby,9
 96395,faker-ruby/faker,Ruby,3
 47087,carrierwaveuploader/carrierwave,Ruby,1
 6899875,opf/openproject,Ruby,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 61203,Shopify/shopify_app,Ruby,0
 225463,Shopify/shopify_api,Ruby,0
 3947396,getsentry/sentry-ruby,Ruby,0
-393390354,motor-admin/motor-admin,Ruby,97
+393390354,motor-admin/motor-admin,Ruby,81
 1795802,Shopify/money,Ruby,0
-344056520,safesword/WebExp,Ruby,15
+344056520,safesword/WebExp,Ruby,10
