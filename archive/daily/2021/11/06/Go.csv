@@ -1,16 +1,16 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,31
-14712850,syncthing/syncthing,Go,28
-15452919,ethereum/go-ethereum,Go,13
-17728164,hashicorp/terraform,Go,14
+20580498,kubernetes/kubernetes,Go,28
+14712850,syncthing/syncthing,Go,30
+15452919,ethereum/go-ethereum,Go,15
+17728164,hashicorp/terraform,Go,13
 74175805,istio/istio,Go,7
-31288958,hashicorp/vault,Go,11
-26337322,rancher/rancher,Go,6
+31288958,hashicorp/vault,Go,9
+26337322,rancher/rancher,Go,4
 50613991,goharbor/harbor,Go,7
-192632000,dapr/dapr,Go,27
+192632000,dapr/dapr,Go,25
 120896210,argoproj/argo-cd,Go,10
 27576132,aws/aws-sdk-go,Go,1
-23664475,Shopify/toxiproxy,Go,121
+23664475,Shopify/toxiproxy,Go,101
 66156850,TheAlgorithms/Go,Go,27
 146641150,tektoncd/pipeline,Go,9
 118828329,knative/serving,Go,6
@@ -19,8 +19,8 @@ id,name,lang,new stars
 53553027,nginxinc/kubernetes-ingress,Go,7
 154894457,open-policy-agent/gatekeeper,Go,7
 422821402,MangoDB-io/MangoDB,Go,387
-170803235,magma/magma,Go,6
-329821568,EdgeSecurityTeam/EHole,Go,4
-238797860,ethereum-optimism/optimism,Go,11
+170803235,magma/magma,Go,5
+329821568,EdgeSecurityTeam/EHole,Go,6
+238797860,ethereum-optimism/optimism,Go,12
 333772078,evilsocket/ditto,Go,7
-274450818,tendermint/starport,Go,10
+274450818,tendermint/starport,Go,11
