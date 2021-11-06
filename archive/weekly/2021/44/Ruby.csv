@@ -1,13 +1,13 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,49
+65252,jekyll/jekyll,Ruby,48
 27442967,fastlane/fastlane,Ruby,46
 53238813,Homebrew/brew,Ruby,113
 481872,hashicorp/vagrant,Ruby,52
-3623050,Homebrew/homebrew-cask,Ruby,25
-538746,ruby/ruby,Ruby,38
+3623050,Homebrew/homebrew-cask,Ruby,24
+538746,ruby/ruby,Ruby,37
 2203645,CocoaPods/CocoaPods,Ruby,19
 1090311,elastic/logstash,Ruby,15
-4095287,rubocop/rubocop,Ruby,15
+4095287,rubocop/rubocop,Ruby,14
 52855516,Homebrew/homebrew-core,Ruby,84
 96395,faker-ruby/faker,Ruby,34
 6529205,varvet/pundit,Ruby,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 356878986,TrashUwU/PokeAssistant,Ruby,79
 55288882,d12frosted/homebrew-emacs-plus,Ruby,10
 20343475,googleapis/google-cloud-ruby,Ruby,1
-229187949,shivammathur/homebrew-php,Ruby,21
+229187949,shivammathur/homebrew-php,Ruby,20
 48370306,elastic/ansible-beats,Ruby,0
 212272090,CMSgov/price-transparency-guide,Ruby,7
 347104426,learn-co-curriculum/phase-3-nested-hash-iteration,Ruby,0
