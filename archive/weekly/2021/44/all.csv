@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,947
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,348
-115110181,swc-project/swc,Rust,483
-107286889,schollz/croc,Go,1162
-74660642,taichi-dev/taichi,C++,655
+34526884,ant-design/ant-design,TypeScript,214
+184456251,microsoft/PowerToys,C#,939
+5483330,soimort/you-get,Python,88
+188660663,CorentinJ/Real-Time-Voice-Cloning,Python,257
+101138315,d2l-ai/d2l-zh,Python,643
+13584262,webtorrent/webtorrent,JavaScript,315
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1749
+196284711,microsoft/cascadia-code,Python,92
+107286889,schollz/croc,Go,1115
+74660642,taichi-dev/taichi,C++,646
 91629816,freqtrade/freqtrade,Python,171
-179354282,acidanthera/OpenCorePkg,C,68
 128636610,Koenkk/zigbee2mqtt,JavaScript,335
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,2612
-19257422,questdb/questdb,Java,919
-196613241,edeng23/binance-trade-bot,Python,227
-420459569,github/copilot-docs,Python,2579
-421001366,DouyinFE/semi-design,TypeScript,650
-327859577,juicedata/juicefs,Go,200
-370977430,OpenIMSDK/Open-IM-Server,Go,2213
-347404990,whyour/qinglong,TypeScript,350
-375563752,shufflewzc/faker2,JavaScript,150
-382378702,modern-js-dev/modern.js,TypeScript,347
-201978761,Superalgos/Superalgos,JavaScript,94
-420868305,arco-design/arco-design,TypeScript,345
-419446329,github/copilot.vim,Vim script,520
-288524849,devMEremenko/XcodeBenchmark,Swift,134
-382756807,TechXueXi/TechXueXi,Python,191
+344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,2604
+19257422,questdb/questdb,Java,937
+420459569,github/copilot-docs,Python,2598
+370977430,OpenIMSDK/Open-IM-Server,Go,2216
+347404990,whyour/qinglong,TypeScript,356
+372172254,tokio-rs/axum,Rust,220
+201978761,Superalgos/Superalgos,JavaScript,96
+419446329,github/copilot.vim,Vim script,510
+288524849,devMEremenko/XcodeBenchmark,Swift,129
+387532152,apple/swift-markdown,Swift,335
+416625384,darglein/ADOP,C++,354
 366352205,zero205/JD_tencent_scf,JavaScript,191
-386017669,iterativv/NostalgiaForInfinity,Python,88
+386017669,iterativv/NostalgiaForInfinity,Python,87
