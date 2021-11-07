@@ -1,18 +1,18 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,485
-156018,redis/redis,C,113
-102578345,coolsnowwolf/lede,C,101
-6201092,mpv-player/mpv,C,292
-179354282,acidanthera/OpenCorePkg,C,69
-184909163,koekeishiya/yabai,C,107
-9524997,glfw/glfw,C,41
+2325298,torvalds/linux,C,477
+156018,redis/redis,C,109
+102578345,coolsnowwolf/lede,C,103
+6201092,mpv-player/mpv,C,274
+179354282,acidanthera/OpenCorePkg,C,68
+184909163,koekeishiya/yabai,C,108
+9524997,glfw/glfw,C,40
 1856976,libevent/libevent,C,35
-65899476,espressif/esp-idf,C,51
+65899476,espressif/esp-idf,C,50
 54280778,DaveGamble/cJSON,C,36
 18106269,lz4/lz4,C,33
-105944401,yugabyte/yugabyte-db,C,51
+105944401,yugabyte/yugabyte-db,C,50
 241659610,OpenIntelWireless/itlwm,C,39
-34431834,xmake-io/xmake,C,51
+34431834,xmake-io/xmake,C,49
 86245815,pygame/pygame,C,67
 59676171,Klipper3d/klipper,C,48
 205810121,CloverHackyColor/CloverBootloader,C,19
@@ -23,4 +23,4 @@ id,name,lang,new stars
 330008801,libsdl-org/SDL,C,31
 154525111,signalwire/freeswitch,C,27
 127023441,NVIDIA/cuda-samples,C,24
-391402552,Kameldieb/terminal_minecraft,C,145
+391402552,Kameldieb/terminal_minecraft,C,137
