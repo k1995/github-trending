@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,475
-3482588,danielmiessler/SecLists,PHP,687
-458058,symfony/symfony,PHP,169
+1863329,laravel/laravel,PHP,476
+3482588,danielmiessler/SecLists,PHP,689
+458058,symfony/symfony,PHP,170
 1864363,composer/composer,PHP,163
 7548986,laravel/framework,PHP,237
 1420053,guzzle/guzzle,PHP,119
 1376664,Seldaek/monolog,PHP,134
 2234102,bcit-ci/CodeIgniter,PHP,37
 448045,sebastianbergmann/phpunit,PHP,109
-2253830,PHPMailer/PHPMailer,PHP,234
+2253830,PHPMailer/PHPMailer,PHP,232
 61490598,PHPOffice/PhpSpreadsheet,PHP,113
-56728437,docker/labs,PHP,254
+56728437,docker/labs,PHP,255
 79111500,jupeter/clean-code-php,PHP,371
 597887,doctrine/orm,PHP,84
 677464,doctrine/dbal,PHP,91
@@ -22,5 +22,5 @@ id,name,lang,new stars
 60010673,elementor/elementor,PHP,88
 4224042,roundcube/roundcubemail,PHP,59
 139191005,nunomaduro/larastan,PHP,270
-75645659,WordPress/wordpress-develop,PHP,126
-412071168,WordPress/twentytwentytwo,PHP,300
+75645659,WordPress/wordpress-develop,PHP,140
+412071168,WordPress/twentytwentytwo,PHP,296
