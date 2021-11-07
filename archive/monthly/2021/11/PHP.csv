@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,475
-3482588,danielmiessler/SecLists,PHP,691
-458058,symfony/symfony,PHP,170
+1863329,laravel/laravel,PHP,477
+3482588,danielmiessler/SecLists,PHP,688
+458058,symfony/symfony,PHP,171
 1864363,composer/composer,PHP,162
 7548986,laravel/framework,PHP,236
 1420053,guzzle/guzzle,PHP,119
 1376664,Seldaek/monolog,PHP,133
-2234102,bcit-ci/CodeIgniter,PHP,36
+2234102,bcit-ci/CodeIgniter,PHP,37
 448045,sebastianbergmann/phpunit,PHP,108
 2253830,PHPMailer/PHPMailer,PHP,231
-61490598,PHPOffice/PhpSpreadsheet,PHP,113
+61490598,PHPOffice/PhpSpreadsheet,PHP,112
 56728437,docker/labs,PHP,256
 79111500,jupeter/clean-code-php,PHP,371
 597887,doctrine/orm,PHP,83
@@ -20,7 +20,7 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,149
 576099,doctrine/migrations,PHP,49
 60010673,elementor/elementor,PHP,88
-4224042,roundcube/roundcubemail,PHP,59
-139191005,nunomaduro/larastan,PHP,270
-75645659,WordPress/wordpress-develop,PHP,155
+4224042,roundcube/roundcubemail,PHP,60
+139191005,nunomaduro/larastan,PHP,272
+75645659,WordPress/wordpress-develop,PHP,160
 412071168,WordPress/twentytwentytwo,PHP,287

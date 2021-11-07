@@ -1,26 +1,26 @@
 id,name,lang,new stars
-34526884,ant-design/ant-design,TypeScript,213
-184456251,microsoft/PowerToys,C#,745
+83222441,donnemartin/system-design-primer,Python,1216
+34526884,ant-design/ant-design,TypeScript,207
+184456251,microsoft/PowerToys,C#,717
 5483330,soimort/you-get,Python,95
-188660663,CorentinJ/Real-Time-Voice-Cloning,Python,240
-101138315,d2l-ai/d2l-zh,Python,697
-13584262,webtorrent/webtorrent,JavaScript,329
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,2039
-196284711,microsoft/cascadia-code,Python,109
-107286889,schollz/croc,Go,830
-74660642,taichi-dev/taichi,C++,481
-91629816,freqtrade/freqtrade,Python,181
-128636610,Koenkk/zigbee2mqtt,JavaScript,330
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,2394
-19257422,questdb/questdb,Java,988
-420459569,github/copilot-docs,Python,2636
-370977430,OpenIMSDK/Open-IM-Server,Go,2154
-347404990,whyour/qinglong,TypeScript,358
-372172254,tokio-rs/axum,Rust,220
-201978761,Superalgos/Superalgos,JavaScript,102
-419446329,github/copilot.vim,Vim script,445
-288524849,devMEremenko/XcodeBenchmark,Swift,119
+101138315,d2l-ai/d2l-zh,Python,700
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,2072
+13584262,webtorrent/webtorrent,JavaScript,333
+13862381,DrKLO/Telegram,Java,162
+74660642,taichi-dev/taichi,C++,459
+91629816,freqtrade/freqtrade,Python,182
+40892817,ethereum/solidity,C++,267
+110178895,brave/brave-browser,JavaScript,207
+344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,2354
+19257422,questdb/questdb,Java,1010
+420459569,github/copilot-docs,Python,2649
+370977430,OpenIMSDK/Open-IM-Server,Go,2138
+347404990,whyour/qinglong,TypeScript,365
+244694174,project-chip/connectedhomeip,C++,64
+372172254,tokio-rs/axum,Rust,222
+201978761,Superalgos/Superalgos,JavaScript,104
+419446329,github/copilot.vim,Vim script,438
 387532152,apple/swift-markdown,Swift,339
-416625384,darglein/ADOP,C++,344
-366352205,zero205/JD_tencent_scf,JavaScript,189
-386017669,iterativv/NostalgiaForInfinity,Python,86
+416625384,darglein/ADOP,C++,342
+366352205,zero205/JD_tencent_scf,JavaScript,184
+386017669,iterativv/NostalgiaForInfinity,Python,80
