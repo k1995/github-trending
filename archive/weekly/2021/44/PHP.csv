@@ -1,14 +1,14 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,141
+3482588,danielmiessler/SecLists,PHP,145
 458058,symfony/symfony,PHP,39
-2234102,bcit-ci/CodeIgniter,PHP,6
-60243197,nextcloud/server,PHP,74
+2234102,bcit-ci/CodeIgniter,PHP,7
+60243197,nextcloud/server,PHP,79
 1631570,nikic/PHP-Parser,PHP,33
 79111500,jupeter/clean-code-php,PHP,223
-2884111,magento/magento2,PHP,19
+2884111,magento/magento2,PHP,18
 6936773,php-fig/log,PHP,20
 1398630,symfony/console,PHP,17
-11467667,typecho/typecho,PHP,18
+11467667,typecho/typecho,PHP,14
 1398640,symfony/event-dispatcher,PHP,17
 1398641,symfony/finder,PHP,17
 31295421,guzzle/psr7,PHP,20
@@ -17,10 +17,10 @@ id,name,lang,new stars
 20704453,php-fig/http-message,PHP,16
 6763587,PrestaShop/PrestaShop,PHP,17
 10883164,barryvdh/laravel-dompdf,PHP,22
-159606650,hyperf/hyperf,PHP,14
+159606650,hyperf/hyperf,PHP,15
 139191005,nunomaduro/larastan,PHP,217
 47508644,pterodactyl/panel,PHP,28
-1957456,Dolibarr/dolibarr,PHP,16
-286645686,yuantuo666/baiduwp-php,PHP,45
-75645659,WordPress/wordpress-develop,PHP,83
+1957456,Dolibarr/dolibarr,PHP,17
+286645686,yuantuo666/baiduwp-php,PHP,44
+75645659,WordPress/wordpress-develop,PHP,122
 260729799,knuckleswtf/scribe,PHP,23
