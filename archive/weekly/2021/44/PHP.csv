@@ -1,10 +1,10 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,40
+458058,symfony/symfony,PHP,39
 1420053,guzzle/guzzle,PHP,31
-2234102,bcit-ci/CodeIgniter,PHP,8
-60243197,nextcloud/server,PHP,80
+2234102,bcit-ci/CodeIgniter,PHP,9
+60243197,nextcloud/server,PHP,83
 1631570,nikic/PHP-Parser,PHP,33
-48796179,z-song/laravel-admin,PHP,12
+48796179,z-song/laravel-admin,PHP,13
 79111500,jupeter/clean-code-php,PHP,223
 2884111,magento/magento2,PHP,18
 6936773,php-fig/log,PHP,20
@@ -14,13 +14,13 @@ id,name,lang,new stars
 1398651,symfony/http-kernel,PHP,13
 31295421,guzzle/psr7,PHP,20
 31295389,guzzle/promises,PHP,19
-21298446,firefly-iii/firefly-iii,PHP,98
-20704453,php-fig/http-message,PHP,16
+21298446,firefly-iii/firefly-iii,PHP,100
+20704453,php-fig/http-message,PHP,15
 159606650,hyperf/hyperf,PHP,15
 4224042,roundcube/roundcubemail,PHP,15
 41463886,codeigniter4/CodeIgniter4,PHP,10
-139191005,nunomaduro/larastan,PHP,219
-47508644,pterodactyl/panel,PHP,27
+139191005,nunomaduro/larastan,PHP,231
+47508644,pterodactyl/panel,PHP,26
 286645686,yuantuo666/baiduwp-php,PHP,45
-74026995,CodelyTV/php-ddd-example,PHP,12
-75645659,WordPress/wordpress-develop,PHP,127
+74026995,CodelyTV/php-ddd-example,PHP,11
+75645659,WordPress/wordpress-develop,PHP,128
