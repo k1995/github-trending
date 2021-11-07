@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,73
+8514,rails/rails,Ruby,72
 27442967,fastlane/fastlane,Ruby,48
-53238813,Homebrew/brew,Ruby,114
-481872,hashicorp/vagrant,Ruby,53
+53238813,Homebrew/brew,Ruby,116
+481872,hashicorp/vagrant,Ruby,54
 3623050,Homebrew/homebrew-cask,Ruby,27
-538746,ruby/ruby,Ruby,38
+538746,ruby/ruby,Ruby,39
 1090311,elastic/logstash,Ruby,16
 4095287,rubocop/rubocop,Ruby,14
 3314,spree/spree,Ruby,13
 52855516,Homebrew/homebrew-core,Ruby,88
-96395,faker-ruby/faker,Ruby,34
+96395,faker-ruby/faker,Ruby,35
 355893,github/markup,Ruby,12
 1952825,Homebrew/homebrew-bundle,Ruby,21
 14238949,elastic/elasticsearch-rails,Ruby,0
@@ -17,7 +17,7 @@ id,name,lang,new stars
 15171934,Homebrew/homebrew-cask-fonts,Ruby,9
 200302808,github/view_component,Ruby,11
 9831101,elastic/elasticsearch-ruby,Ruby,4
-356878986,TrashUwU/PokeAssistant,Ruby,82
+356878986,TrashUwU/PokeAssistant,Ruby,79
 229187949,shivammathur/homebrew-php,Ruby,18
 1795802,Shopify/money,Ruby,1
 48370306,elastic/ansible-beats,Ruby,0
