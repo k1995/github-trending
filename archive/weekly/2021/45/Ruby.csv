@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,65
-27442967,fastlane/fastlane,Ruby,44
+8514,rails/rails,Ruby,67
+27442967,fastlane/fastlane,Ruby,46
 53238813,Homebrew/brew,Ruby,113
-481872,hashicorp/vagrant,Ruby,57
+481872,hashicorp/vagrant,Ruby,56
 308770,heartcombo/devise,Ruby,21
-3623050,Homebrew/homebrew-cask,Ruby,28
-538746,ruby/ruby,Ruby,33
+3623050,Homebrew/homebrew-cask,Ruby,29
+538746,ruby/ruby,Ruby,34
 1090311,elastic/logstash,Ruby,19
 4095287,rubocop/rubocop,Ruby,14
-52855516,Homebrew/homebrew-core,Ruby,88
-96395,faker-ruby/faker,Ruby,35
+52855516,Homebrew/homebrew-core,Ruby,89
+96395,faker-ruby/faker,Ruby,34
 15435,Shopify/liquid,Ruby,18
 6529205,varvet/pundit,Ruby,10
 355893,github/markup,Ruby,10
@@ -19,7 +19,7 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,10
 200302808,github/view_component,Ruby,13
 9831101,elastic/elasticsearch-ruby,Ruby,2
-356878986,TrashUwU/PokeAssistant,Ruby,66
+356878986,TrashUwU/PokeAssistant,Ruby,68
 229187949,shivammathur/homebrew-php,Ruby,22
 48370306,elastic/ansible-beats,Ruby,1
 419827947,joemasilotti/railsdevs.io,Ruby,17
