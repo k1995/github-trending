@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,71
-65252,jekyll/jekyll,Ruby,42
+8514,rails/rails,Ruby,70
+65252,jekyll/jekyll,Ruby,41
 27442967,fastlane/fastlane,Ruby,52
-53238813,Homebrew/brew,Ruby,114
+53238813,Homebrew/brew,Ruby,113
 481872,hashicorp/vagrant,Ruby,55
-3623050,Homebrew/homebrew-cask,Ruby,28
-538746,ruby/ruby,Ruby,35
+3623050,Homebrew/homebrew-cask,Ruby,29
+538746,ruby/ruby,Ruby,36
 1090311,elastic/logstash,Ruby,16
 4095287,rubocop/rubocop,Ruby,16
 52855516,Homebrew/homebrew-core,Ruby,86
@@ -17,10 +17,10 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,12
 9831101,elastic/elasticsearch-ruby,Ruby,3
 356878986,TrashUwU/PokeAssistant,Ruby,69
-229187949,shivammathur/homebrew-php,Ruby,21
+229187949,shivammathur/homebrew-php,Ruby,22
 3276877,ThrowTheSwitch/Ceedling,Ruby,2
 1795802,Shopify/money,Ruby,2
 48370306,elastic/ansible-beats,Ruby,0
-419827947,joemasilotti/railsdevs.io,Ruby,19
+419827947,joemasilotti/railsdevs.io,Ruby,18
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
 347104426,learn-co-curriculum/phase-3-nested-hash-iteration,Ruby,0

@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
-65252,jekyll/jekyll,Ruby,3
+8514,rails/rails,Ruby,9
+65252,jekyll/jekyll,Ruby,4
 7569578,discourse/discourse,Ruby,7
-8681349,huginn/huginn,Ruby,8
-52281283,mastodon/mastodon,Ruby,20
+8681349,huginn/huginn,Ruby,7
+52281283,mastodon/mastodon,Ruby,21
 2293158,rapid7/metasploit-framework,Ruby,10
-481872,hashicorp/vagrant,Ruby,7
+481872,hashicorp/vagrant,Ruby,8
 3623050,Homebrew/homebrew-cask,Ruby,5
 538746,ruby/ruby,Ruby,4
 2203645,CocoaPods/CocoaPods,Ruby,1
@@ -18,7 +18,7 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,1
 356878986,TrashUwU/PokeAssistant,Ruby,4
 242765280,bensheldon/good_job,Ruby,0
-13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,2
+13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,1
 66497320,DataDog/dd-trace-rb,Ruby,0
 62409417,department-of-veterans-affairs/vets-api,Ruby,0
 419827947,joemasilotti/railsdevs.io,Ruby,3
