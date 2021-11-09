@@ -1,16 +1,16 @@
 id,name,lang,new stars
 11180687,gohugoio/hugo,Go,31
-14712850,syncthing/syncthing,Go,21
+14712850,syncthing/syncthing,Go,19
 41912791,v2ray/v2ray-core,Go,13
-136815833,Dreamacro/clash,Go,88
+136815833,Dreamacro/clash,Go,89
 53632140,zyedidia/micro,Go,46
-119160553,photoprism/photoprism,Go,50
-123572362,quii/learn-go-with-tests,Go,13
+119160553,photoprism/photoprism,Go,51
+123572362,quii/learn-go-with-tests,Go,14
 19205896,restic/restic,Go,20
-181461073,v2fly/v2ray-core,Go,127
+181461073,v2fly/v2ray-core,Go,121
 75785240,authelia/authelia,Go,15
-136505169,tinygo-org/tinygo,Go,9
-156681830,ffuf/ffuf,Go,4
+136505169,tinygo-org/tinygo,Go,7
+156681830,ffuf/ffuf,Go,5
 10721619,hajimehoshi/ebiten,Go,9
 135321861,ory/kratos,Go,13
 248025303,p4gefau1t/trojan-go,Go,8
@@ -18,9 +18,9 @@ id,name,lang,new stars
 242329748,Jrohy/trojan,Go,6
 45356931,bwmarrin/discordgo,Go,4
 220588935,naiba/nezha,Go,17
-232041572,tidb-incubator/tinykv,Go,22
+232041572,tidb-incubator/tinykv,Go,23
 246387644,ava-labs/avalanchego,Go,4
 188836864,ledgerwatch/erigon,Go,4
 231384404,tidb-incubator/tinysql,Go,11
-411212454,tharsis/evmos,Go,7
+411212454,tharsis/evmos,Go,6
 401299493,cdle/sillyGirl,Go,10
