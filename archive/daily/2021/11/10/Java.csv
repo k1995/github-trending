@@ -1,16 +1,16 @@
 id,name,lang,new stars
-507775,elastic/elasticsearch,Java,26
+507775,elastic/elasticsearch,Java,25
 2700159,alibaba/druid,Java,4
-13862381,DrKLO/Telegram,Java,86
+13862381,DrKLO/Telegram,Java,84
 128018428,alibaba/Sentinel,Java,10
 6358188,apache/druid,Java,2
 77993578,LuckSiege/PictureSelector,Java,3
-501687,antlr/antlr4,Java,5
+501687,antlr/antlr4,Java,7
 27729926,grpc/grpc-java,Java,4
-96704265,MindorksOpenSource/android-interview-questions,Java,6
+96704265,MindorksOpenSource/android-interview-questions,Java,7
 57147349,firebase/quickstart-android,Java,5
 237940592,dromara/Sa-Token,Java,35
-19257422,questdb/questdb,Java,244
+19257422,questdb/questdb,Java,243
 50205233,debezium/debezium,Java,7
 3786237,hazelcast/hazelcast,Java,3
 69400326,confluentinc/ksql,Java,4
@@ -19,8 +19,8 @@ id,name,lang,new stars
 19961085,apache/pinot,Java,5
 8686380,j-easy/easy-rules,Java,4
 58194180,strimzi/strimzi-kafka-operator,Java,8
-76474200,apache/hudi,Java,6
-282994686,ververica/flink-cdc-connectors,Java,6
+76474200,apache/hudi,Java,8
+282994686,ververica/flink-cdc-connectors,Java,7
 281170954,spring-projects/spring-graphql,Java,5
-425167138,EmYiQing/JSPHorse,Java,64
-424452546,Skykai521/AndroidDeveloperAdvancedManual,Java,56
+424452546,Skykai521/AndroidDeveloperAdvancedManual,Java,54
+425167138,EmYiQing/JSPHorse,Java,63

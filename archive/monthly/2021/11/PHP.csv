@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,480
+1863329,laravel/laravel,PHP,481
 3482588,danielmiessler/SecLists,PHP,701
 458058,symfony/symfony,PHP,170
 1864363,composer/composer,PHP,162
 7548986,laravel/framework,PHP,241
-1420053,guzzle/guzzle,PHP,123
+1420053,guzzle/guzzle,PHP,122
 1376664,Seldaek/monolog,PHP,135
 448045,sebastianbergmann/phpunit,PHP,104
 2253830,PHPMailer/PHPMailer,PHP,235
@@ -12,10 +12,10 @@ id,name,lang,new stars
 79111500,jupeter/clean-code-php,PHP,391
 2884111,magento/magento2,PHP,66
 597887,doctrine/orm,PHP,87
-2179920,woocommerce/woocommerce,PHP,81
-21298446,firefly-iii/firefly-iii,PHP,235
-2717549,Sylius/Sylius,PHP,78
-6763587,PrestaShop/PrestaShop,PHP,57
+2179920,woocommerce/woocommerce,PHP,82
+21298446,firefly-iii/firefly-iii,PHP,234
+2717549,Sylius/Sylius,PHP,77
+6763587,PrestaShop/PrestaShop,PHP,58
 14346979,snipe/snipe-it,PHP,142
 30915528,spatie/laravel-backup,PHP,55
 76064827,mailcow/mailcow-dockerized,PHP,83
@@ -23,4 +23,4 @@ id,name,lang,new stars
 60010673,elementor/elementor,PHP,91
 4224042,roundcube/roundcubemail,PHP,66
 139191005,nunomaduro/larastan,PHP,336
-75645659,WordPress/wordpress-develop,PHP,162
+75645659,WordPress/wordpress-develop,PHP,163
