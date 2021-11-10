@@ -1,14 +1,14 @@
 id,name,lang,new stars
 5108051,opencv/opencv,C++,21
 23357588,protocolbuffers/protobuf,C++,14
-27729880,grpc/grpc,C++,13
-39840932,google/googletest,C++,12
-6934395,facebook/rocksdb,C++,8
+27729880,grpc/grpc,C++,12
+39840932,google/googletest,C++,11
+6934395,facebook/rocksdb,C++,10
 90902132,flameshot-org/flameshot,C++,44
 149111813,Tencent/MMKV,C++,7
 14981376,dogecoin/dogecoin,C++,48
 17391973,Tencent/rapidjson,C++,3
-311683390,WerWolv/ImHex,C++,33
+311683390,WerWolv/ImHex,C++,30
 26255337,cameron314/concurrentqueue,C++,8
 283410102,sogou/workflow,C++,5
 193305104,barry-ran/QtScrcpy,C++,6
@@ -16,11 +16,11 @@ id,name,lang,new stars
 143324737,diasurgical/devilutionX,C++,14
 189205663,qinguoyi/TinyWebServer,C++,18
 10160141,doxygen/doxygen,C++,5
-3542607,leethomason/tinyxml2,C++,4
+3542607,leethomason/tinyxml2,C++,3
 22660515,onqtam/doctest,C++,3
 33100064,jbeder/yaml-cpp,C++,4
-9693534,PowerDNS/pdns,C++,5
-10599951,emilybache/GildedRose-Refactoring-Kata,C++,2
-9880335,qt/qtbase,C++,0
+9693534,PowerDNS/pdns,C++,4
+10599951,emilybache/GildedRose-Refactoring-Kata,C++,1
+9880335,qt/qtbase,C++,1
 313501668,wenet-e2e/wenet,C++,14
 237020873,bupticybee/TexasSolver,C++,18

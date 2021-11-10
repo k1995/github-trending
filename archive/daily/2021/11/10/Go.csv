@@ -1,7 +1,7 @@
 id,name,lang,new stars
 29261473,minio/minio,Go,44
 56353740,kubernetes/minikube,Go,12
-97533102,halfrost/LeetCode-Go,Go,77
+97533102,halfrost/LeetCode-Go,Go,102
 136815833,Dreamacro/clash,Go,81
 163883279,nektos/act,Go,54
 50613991,goharbor/harbor,Go,10
@@ -12,7 +12,7 @@ id,name,lang,new stars
 44350607,kubernetes/dashboard,Go,10
 86981606,halfrost/Halfrost-Field,Go,32
 48109239,cilium/cilium,Go,6
-11206255,Shopify/sarama,Go,6
+11206255,Shopify/sarama,Go,8
 93444615,hashicorp/terraform-provider-aws,Go,4
 41288708,sourcegraph/sourcegraph,Go,8
 86367047,elastic/go-elasticsearch,Go,4
