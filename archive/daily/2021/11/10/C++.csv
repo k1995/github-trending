@@ -1,12 +1,12 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,23
-23357588,protocolbuffers/protobuf,C++,15
+5108051,opencv/opencv,C++,21
+23357588,protocolbuffers/protobuf,C++,14
 27729880,grpc/grpc,C++,13
-39840932,google/googletest,C++,13
+39840932,google/googletest,C++,12
 6934395,facebook/rocksdb,C++,8
-90902132,flameshot-org/flameshot,C++,47
+90902132,flameshot-org/flameshot,C++,44
 149111813,Tencent/MMKV,C++,7
-14981376,dogecoin/dogecoin,C++,50
+14981376,dogecoin/dogecoin,C++,48
 17391973,Tencent/rapidjson,C++,3
 311683390,WerWolv/ImHex,C++,33
 26255337,cameron314/concurrentqueue,C++,8

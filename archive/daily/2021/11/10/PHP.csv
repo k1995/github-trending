@@ -1,11 +1,11 @@
 id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,5
-458058,symfony/symfony,PHP,2
+458058,symfony/symfony,PHP,1
 1864363,composer/composer,PHP,6
 1420053,guzzle/guzzle,PHP,7
 5724990,briannesbitt/Carbon,PHP,3
 3431193,yiisoft/yii2,PHP,1
-12615154,barryvdh/laravel-debugbar,PHP,5
+12615154,barryvdh/laravel-debugbar,PHP,3
 47495360,koel/koel,PHP,5
 2884111,magento/magento2,PHP,3
 2699935,squizlabs/PHP_CodeSniffer,PHP,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 60010673,elementor/elementor,PHP,3
 8077402,MISP/MISP,PHP,0
 1953386,stripe/stripe-php,PHP,2
-2686502,pimcore/pimcore,PHP,3
-28938624,kreait/firebase-php,PHP,3
+2686502,pimcore/pimcore,PHP,2
+28938624,kreait/firebase-php,PHP,2
 5367323,akeneo/pim-community-dev,PHP,0
 1318892,silverstripe/silverstripe-framework,PHP,2

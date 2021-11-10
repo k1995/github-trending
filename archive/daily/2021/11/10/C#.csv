@@ -1,11 +1,11 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,39
-17620347,dotnet/aspnetcore,C#,16
-29078997,dotnet/roslyn,C#,10
-164140756,files-community/Files,C#,42
-262395224,dotnet/maui,C#,38
+49609581,PowerShell/PowerShell,C#,38
+17620347,dotnet/aspnetcore,C#,17
+29078997,dotnet/roslyn,C#,9
+164140756,files-community/Files,C#,100
+262395224,dotnet/maui,C#,37
 75990888,dotnet/csharplang,C#,8
-210716005,dotnet/runtime,C#,20
+210716005,dotnet/runtime,C#,19
 153711945,dotnet/wpf,C#,4
 19216825,xamarin/xamarin-forms-samples,C#,1
 2928944,Azure/azure-sdk-for-net,C#,2
@@ -16,11 +16,11 @@ id,name,lang,new stars
 184286875,actions/runner,C#,7
 150035938,GhostPack/Rubeus,C#,6
 158405551,microsoft/Git-Credential-Manager-Core,C#,6
-264454828,VeriorPies/ParrelSync,C#,4
-414723881,coofcookie/Windows11Upgrade,C#,95
+264454828,VeriorPies/ParrelSync,C#,3
+414723881,coofcookie/Windows11Upgrade,C#,92
 362583987,davidortinau/WeatherTwentyOne,C#,7
-285618804,Kyome22/RunCat_for_windows,C#,80
+285618804,Kyome22/RunCat_for_windows,C#,79
 416917474,misterokaygo/MapAssist,C#,1
-425349532,Maoni0/realmon,C#,12
+425349532,Maoni0/realmon,C#,11
 423730375,chr0n1k/AH2021Workshop,C#,11
 316031811,kontur-courses/challenge-tdd,C#,0
