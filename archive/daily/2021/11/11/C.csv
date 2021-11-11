@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1903522,php/php-src,C,494
-3774328,wg/wrk,C,14
-246335987,ventoy/Ventoy,C,21
-569041,curl/curl,C,3
+1903522,php/php-src,C,374
+3774328,wg/wrk,C,15
+246335987,ventoy/Ventoy,C,22
+569041,curl/curl,C,4
 1357796,emscripten-core/emscripten,C,11
 14812739,libuv/libuv,C,13
 196353673,taosdata/TDengine,C,2
-613829,openresty/lua-nginx-module,C,2
-13836499,raysan5/raylib,C,37
+613829,openresty/lua-nginx-module,C,1
+13836499,raysan5/raylib,C,32
 5414488,cesanta/mongoose,C,8
-3319040,id-Software/DOOM,C,7
-53614190,eclipse/mosquitto,C,5
+3319040,id-Software/DOOM,C,5
+53614190,eclipse/mosquitto,C,6
 5870069,edenhill/librdkafka,C,2
 5805256,lua/lua,C,4
 8270972,ARMmbed/mbed-os,C,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 19403028,saki4510t/UVCCamera,C,1
 194269070,skyline-emu/skyline,C,6
 238539562,checkra1n/pongoOS,C,7
-31374735,fwupd/fwupd,C,2
-157359627,espressif/esp32-camera,C,1
+31374735,fwupd/fwupd,C,1
+157359627,espressif/esp32-camera,C,3
 190275430,libusb/hidapi,C,1
 116033455,eclipse-cyclonedds/cyclonedds,C,0
