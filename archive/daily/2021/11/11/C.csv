@@ -1,17 +1,17 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,65
-10446890,bilibili/ijkplayer,C,3
-62156403,QSCTech/zju-icicles,C,12
-1357796,emscripten-core/emscripten,C,13
+2325298,torvalds/linux,C,66
+10446890,bilibili/ijkplayer,C,4
+62156403,QSCTech/zju-icicles,C,11
+1357796,emscripten-core/emscripten,C,14
 102578345,coolsnowwolf/lede,C,19
-14812739,libuv/libuv,C,8
-7634677,openssl/openssl,C,8
-5254557,cloudwu/skynet,C,5
+14812739,libuv/libuv,C,9
+7634677,openssl/openssl,C,7
+5254557,cloudwu/skynet,C,4
 13836499,raysan5/raylib,C,60
-3319040,id-Software/DOOM,C,10
+3319040,id-Software/DOOM,C,9
 65899476,espressif/esp-idf,C,4
 7408108,RT-Thread/rt-thread,C,3
-68291988,miloyip/json-tutorial,C,6
+68291988,miloyip/json-tutorial,C,7
 31791482,microsoft/Windows-driver-samples,C,3
 21329550,wireshark/wireshark,C,5
 18257358,edenhill/kcat,C,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 3649922,linux-test-project/ltp,C,2
 122993186,remzi-arpacidusseau/ostep-code,C,4
 15333809,open62541/open62541,C,0
-238539562,checkra1n/pongoOS,C,6
+238539562,checkra1n/pongoOS,C,9
 343862270,Mr-Un1k0d3r/EDRs,C,2
 325609012,lwfinger/rtw89,C,2

@@ -1,11 +1,11 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,249
-13807606,junegunn/fzf,Go,163
+13807606,junegunn/fzf,Go,161
 15452919,ethereum/go-ethereum,Go,151
 29261473,minio/minio,Go,290
 17728164,hashicorp/terraform,Go,104
 97533102,halfrost/LeetCode-Go,Go,327
-136815833,Dreamacro/clash,Go,483
+136815833,Dreamacro/clash,Go,488
 156084530,ehang-io/nps,Go,107
 53632140,zyedidia/micro,Go,331
 192632000,dapr/dapr,Go,161
@@ -14,13 +14,13 @@ id,name,lang,new stars
 86981606,halfrost/Halfrost-Field,Go,193
 11206255,Shopify/sarama,Go,41
 23664475,Shopify/toxiproxy,Go,448
-146641150,tektoncd/pipeline,Go,46
+146641150,tektoncd/pipeline,Go,45
 10721619,hajimehoshi/ebiten,Go,62
 370977430,OpenIMSDK/Open-IM-Server,Go,1218
 206213815,chaos-mesh/chaos-mesh,Go,47
 51193526,cosmos/cosmos-sdk,Go,120
-318476701,containerd/nerdctl,Go,111
+318476701,containerd/nerdctl,Go,108
 422821402,MangoDB-io/MangoDB,Go,1114
-286729329,zu1k/proxypool,Go,60
+286729329,zu1k/proxypool,Go,64
 220588935,naiba/nezha,Go,76
-265775217,binance-chain/bsc,Go,21
+265775217,binance-chain/bsc,Go,22

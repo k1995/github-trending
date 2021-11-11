@@ -1,18 +1,18 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,11
+7569578,discourse/discourse,Ruby,10
 27442967,fastlane/fastlane,Ruby,10
 481872,hashicorp/vagrant,Ruby,16
 308770,heartcombo/devise,Ruby,4
 538746,ruby/ruby,Ruby,6
 2203645,CocoaPods/CocoaPods,Ruby,1
 3314,spree/spree,Ruby,0
-106995,sinatra/sinatra,Ruby,1
+106995,sinatra/sinatra,Ruby,2
 3195124,mperham/sidekiq,Ruby,3
 202291859,chatwoot/chatwoot,Ruby,7
 1918677,fluent/fluentd,Ruby,2
-96395,faker-ruby/faker,Ruby,3
+96395,faker-ruby/faker,Ruby,2
 812393,ruby-grape/grape,Ruby,1
-47087,carrierwaveuploader/carrierwave,Ruby,1
+47087,carrierwaveuploader/carrierwave,Ruby,0
 451035,heartcombo/simple_form,Ruby,0
 108278,chef/chef,Ruby,1
 2802565,doorkeeper-gem/doorkeeper,Ruby,1
