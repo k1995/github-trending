@@ -1,17 +1,20 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,48
 41912791,v2ray/v2ray-core,Go,11
-11225014,etcd-io/etcd,Go,28
+11225014,etcd-io/etcd,Go,22
 29261473,minio/minio,Go,109
 13124802,influxdata/influxdb,Go,3
+97533102,halfrost/LeetCode-Go,Go,30
 136815833,Dreamacro/clash,Go,79
 115857954,chai2010/advanced-go-programming-book,Go,6
-56342508,jaegertracing/jaeger,Go,9
+56342508,jaegertracing/jaeger,Go,11
 86981606,halfrost/Halfrost-Field,Go,71
 109162639,thanos-io/thanos,Go,14
+100982449,argoproj/argo-workflows,Go,8
 27051771,golang/protobuf,Go,3
 120896210,argoproj/argo-cd,Go,17
 19537979,TykTechnologies/tyk,Go,3
+49765480,lightningnetwork/lnd,Go,6
 41288708,sourcegraph/sourcegraph,Go,9
 87990209,kubernetes/autoscaler,Go,2
 86367047,elastic/go-elasticsearch,Go,1

@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,70
+8514,rails/rails,Ruby,71
 65252,jekyll/jekyll,Ruby,44
-53238813,Homebrew/brew,Ruby,108
+53238813,Homebrew/brew,Ruby,109
 481872,hashicorp/vagrant,Ruby,75
-308770,heartcombo/devise,Ruby,27
-3623050,Homebrew/homebrew-cask,Ruby,33
+308770,heartcombo/devise,Ruby,25
+3623050,Homebrew/homebrew-cask,Ruby,32
 1090311,elastic/logstash,Ruby,19
-4095287,rubocop/rubocop,Ruby,12
+4095287,rubocop/rubocop,Ruby,10
 52855516,Homebrew/homebrew-core,Ruby,70
-96395,faker-ruby/faker,Ruby,23
-1725199,github/linguist,Ruby,31
+96395,faker-ruby/faker,Ruby,22
+1725199,github/linguist,Ruby,32
 15435,Shopify/liquid,Ruby,20
-4994614,wpscanteam/wpscan,Ruby,26
+4994614,wpscanteam/wpscan,Ruby,25
 6899875,opf/openproject,Ruby,17
 30337170,rmosolgo/graphql-ruby,Ruby,10
 30985840,solidusio/solidus,Ruby,10
@@ -19,8 +19,8 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,21
 1175581,citation-style-language/styles,Ruby,10
 93163073,dependabot/dependabot-core,Ruby,20
-200302808,github/view_component,Ruby,14
-87380483,socketry/async,Ruby,125
-393390354,motor-admin/motor-admin,Ruby,278
+200302808,github/view_component,Ruby,15
+87380483,socketry/async,Ruby,122
+393390354,motor-admin/motor-admin,Ruby,245
 16006666,turingschool/ruby-exercises,Ruby,0
 419827947,joemasilotti/railsdevs.io,Ruby,21
