@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,487
-3482588,danielmiessler/SecLists,PHP,707
+1863329,laravel/laravel,PHP,489
+3482588,danielmiessler/SecLists,PHP,708
 458058,symfony/symfony,PHP,170
 1864363,composer/composer,PHP,165
-7548986,laravel/framework,PHP,255
+7548986,laravel/framework,PHP,258
 1420053,guzzle/guzzle,PHP,125
 2234102,bcit-ci/CodeIgniter,PHP,36
 448045,sebastianbergmann/phpunit,PHP,103
@@ -12,15 +12,15 @@ id,name,lang,new stars
 79111500,jupeter/clean-code-php,PHP,391
 2884111,magento/magento2,PHP,67
 597887,doctrine/orm,PHP,88
-2179920,woocommerce/woocommerce,PHP,83
+2179920,woocommerce/woocommerce,PHP,82
 2717549,Sylius/Sylius,PHP,77
-6763587,PrestaShop/PrestaShop,PHP,59
+6763587,PrestaShop/PrestaShop,PHP,58
 14346979,snipe/snipe-it,PHP,144
 30915528,spatie/laravel-backup,PHP,54
 576099,doctrine/migrations,PHP,55
-60010673,elementor/elementor,PHP,93
+60010673,elementor/elementor,PHP,94
 4224042,roundcube/roundcubemail,PHP,67
-41463886,codeigniter4/CodeIgniter4,PHP,66
-139191005,nunomaduro/larastan,PHP,341
+41463886,codeigniter4/CodeIgniter4,PHP,65
+139191005,nunomaduro/larastan,PHP,344
 15836700,phoronix-test-suite/phoronix-test-suite,PHP,46
 75645659,WordPress/wordpress-develop,PHP,165

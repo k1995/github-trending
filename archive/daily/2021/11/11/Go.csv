@@ -1,0 +1,26 @@
+id,name,lang,new stars
+11225014,etcd-io/etcd,Go,23
+29261473,minio/minio,Go,122
+14125254,hashicorp/consul,Go,8
+136815833,Dreamacro/clash,Go,96
+44498957,valyala/fasthttp,Go,8
+129717717,grafana/loki,Go,10
+167596393,derailed/k9s,Go,12
+44350607,kubernetes/dashboard,Go,11
+86981606,halfrost/Halfrost-Field,Go,85
+109162639,thanos-io/thanos,Go,15
+184490584,GoogleCloudPlatform/terraformer,Go,8
+69020281,wercker/stern,Go,6
+41288708,sourcegraph/sourcegraph,Go,11
+66509131,kubernetes/client-go,Go,7
+248025303,p4gefau1t/trojan-go,Go,5
+170411418,kedacore/keda,Go,10
+91074692,zalando/postgres-operator,Go,5
+93446075,hashicorp/terraform-provider-google,Go,1
+236736020,actions-runner-controller/actions-runner-controller,Go,2
+232041572,tidb-incubator/tinykv,Go,23
+390982669,lwch/natpass,Go,190
+188836864,ledgerwatch/erigon,Go,4
+296542581,orijtech/structslop,Go,21
+401299493,cdle/sillyGirl,Go,3
+425105062,trufflesecurity/driftwood,Go,14
