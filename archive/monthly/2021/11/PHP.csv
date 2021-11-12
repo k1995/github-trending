@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,482
+1863329,laravel/laravel,PHP,481
 3482588,danielmiessler/SecLists,PHP,716
-458058,symfony/symfony,PHP,168
+458058,symfony/symfony,PHP,167
 1864363,composer/composer,PHP,169
-7548986,laravel/framework,PHP,310
+7548986,laravel/framework,PHP,319
 1420053,guzzle/guzzle,PHP,128
 2234102,bcit-ci/CodeIgniter,PHP,33
 448045,sebastianbergmann/phpunit,PHP,105
 2253830,PHPMailer/PHPMailer,PHP,236
-61490598,PHPOffice/PhpSpreadsheet,PHP,112
+61490598,PHPOffice/PhpSpreadsheet,PHP,111
 56728437,docker/labs,PHP,266
-79111500,jupeter/clean-code-php,PHP,397
+79111500,jupeter/clean-code-php,PHP,396
 597887,doctrine/orm,PHP,87
 2179920,woocommerce/woocommerce,PHP,80
 21298446,firefly-iii/firefly-iii,PHP,234
@@ -18,9 +18,9 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,57
 14346979,snipe/snipe-it,PHP,140
 576099,doctrine/migrations,PHP,54
-60010673,elementor/elementor,PHP,96
+60010673,elementor/elementor,PHP,95
 4224042,roundcube/roundcubemail,PHP,63
 439861,moodle/moodle,PHP,72
-41463886,codeigniter4/CodeIgniter4,PHP,69
-139191005,nunomaduro/larastan,PHP,346
-75645659,WordPress/wordpress-develop,PHP,165
+41463886,codeigniter4/CodeIgniter4,PHP,70
+139191005,nunomaduro/larastan,PHP,345
+75645659,WordPress/wordpress-develop,PHP,166
