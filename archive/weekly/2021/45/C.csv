@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,460
+2325298,torvalds/linux,C,456
 13233158,obsproject/obs-studio,C,620
-1903522,php/php-src,C,762
+1903522,php/php-src,C,763
 1357796,emscripten-core/emscripten,C,42
-102578345,coolsnowwolf/lede,C,143
-15337142,micropython/micropython,C,46
+102578345,coolsnowwolf/lede,C,145
+15337142,micropython/micropython,C,47
 5254557,cloudwu/skynet,C,32
-45821540,openwrt/openwrt,C,48
+45821540,openwrt/openwrt,C,49
 184909163,koekeishiya/yabai,C,100
-3199002,raspberrypi/linux,C,35
-13836499,raysan5/raylib,C,344
+3199002,raspberrypi/linux,C,34
+13836499,raysan5/raylib,C,342
 70127218,espressif/arduino-esp32,C,49
 437011,openzfs/zfs,C,23
 187922067,microsoft/WSL2-Linux-Kernel,C,40
-37060852,betaflight/betaflight,C,9
+37060852,betaflight/betaflight,C,10
 59676171,Klipper3d/klipper,C,37
 68082730,Ralim/IronOS,C,34
 48296177,libfuse/libfuse,C,11
@@ -23,4 +23,4 @@ id,name,lang,new stars
 176278485,sqlite/sqlite,C,35
 228103273,apache/incubator-nuttx,C,12
 423070914,extremecodetv/ExtremeCodeOS,C,66
-356098390,WyvernTKC/cpuminer-gr-avx2,C,31
+356098390,WyvernTKC/cpuminer-gr-avx2,C,35

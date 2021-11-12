@@ -1,15 +1,15 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,14
-27442967,fastlane/fastlane,Ruby,9
+65252,jekyll/jekyll,Ruby,16
+27442967,fastlane/fastlane,Ruby,11
 308770,heartcombo/devise,Ruby,1
 3623050,Homebrew/homebrew-cask,Ruby,3
-538746,ruby/ruby,Ruby,5
+538746,ruby/ruby,Ruby,6
 3195124,mperham/sidekiq,Ruby,3
-202291859,chatwoot/chatwoot,Ruby,6
-1918677,fluent/fluentd,Ruby,4
+202291859,chatwoot/chatwoot,Ruby,8
+1918677,fluent/fluentd,Ruby,3
 611921,activeadmin/activeadmin,Ruby,1
-451035,heartcombo/simple_form,Ruby,1
-2441517,puma/puma,Ruby,3
+451035,heartcombo/simple_form,Ruby,0
+2441517,puma/puma,Ruby,2
 108278,chef/chef,Ruby,2
 6899875,opf/openproject,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,1
@@ -17,10 +17,10 @@ id,name,lang,new stars
 2861056,rails/jbuilder,Ruby,3
 52316423,luggit/react-native-config,Ruby,0
 3277842,googleapis/google-api-ruby-client,Ruby,1
-41571541,inspec/inspec,Ruby,2
+41571541,inspec/inspec,Ruby,1
 174796313,ruby/rbs,Ruby,2
 32104924,rails/sprockets,Ruby,0
 3947396,getsentry/sentry-ruby,Ruby,0
 217547293,ruby-next/ruby-next,Ruby,4
 1784628,rails/sprockets-rails,Ruby,0
-212272090,CMSgov/price-transparency-guide,Ruby,1
+212272090,CMSgov/price-transparency-guide,Ruby,0
