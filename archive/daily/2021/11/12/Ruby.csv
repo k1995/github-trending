@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,6
-7569578,discourse/discourse,Ruby,5
+8514,rails/rails,Ruby,7
+7569578,discourse/discourse,Ruby,6
 27442967,fastlane/fastlane,Ruby,12
-481872,hashicorp/vagrant,Ruby,10
-2500088,gitlabhq/gitlabhq,Ruby,1
+481872,hashicorp/vagrant,Ruby,9
+2500088,gitlabhq/gitlabhq,Ruby,2
 538746,ruby/ruby,Ruby,4
 1090311,elastic/logstash,Ruby,3
-3314,spree/spree,Ruby,0
+3314,spree/spree,Ruby,1
 11423758,mame/quine-relay,Ruby,4
-3195124,mperham/sidekiq,Ruby,3
+3195124,mperham/sidekiq,Ruby,4
 202291859,chatwoot/chatwoot,Ruby,4
 1918677,fluent/fluentd,Ruby,4
 52855516,Homebrew/homebrew-core,Ruby,9
@@ -17,10 +17,10 @@ id,name,lang,new stars
 108278,chef/chef,Ruby,1
 6899875,opf/openproject,Ruby,3
 30337170,rmosolgo/graphql-ruby,Ruby,2
-43347873,danger/danger,Ruby,2
+43347873,danger/danger,Ruby,3
 115859973,ddnexus/pagy,Ruby,2
 138776049,sorbet/sorbet,Ruby,1
 142874880,microsoft/code-with-engineering-playbook,Ruby,2
 32104924,rails/sprockets,Ruby,0
-209731662,ruby/debug,Ruby,4
+209731662,ruby/debug,Ruby,6
 212272090,CMSgov/price-transparency-guide,Ruby,1

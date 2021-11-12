@@ -3,7 +3,7 @@ id,name,lang,new stars
 19872456,remix-run/react-router,TypeScript,238
 74627617,commaai/openpilot,Python,496
 238316428,CSSEGISandData/COVID-19,,101
-101138315,d2l-ai/d2l-zh,Python,549
+101138315,d2l-ai/d2l-zh,Python,515
 343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1020
 13584262,webtorrent/webtorrent,JavaScript,224
 481872,hashicorp/vagrant,Ruby,76
@@ -13,14 +13,14 @@ id,name,lang,new stars
 302322,gradle/gradle,Groovy,144
 19257422,questdb/questdb,Java,1260
 273839530,Python-World/python-mini-projects,Python,1245
-420459569,github/copilot-docs,Python,1245
-370977430,OpenIMSDK/Open-IM-Server,Go,996
+420459569,github/copilot-docs,Python,1242
+370977430,OpenIMSDK/Open-IM-Server,Go,999
 268424739,helix-editor/helix,Rust,349
 389803219,smartcontractkit/full-blockchain-solidity-course-py,,351
-422821402,MangoDB-io/MangoDB,Go,756
+422821402,MangoDB-io/MangoDB,Go,764
 148821256,Roblox/luau,C++,618
 247288642,adiwajshing/Baileys,JavaScript,49
-366352205,zero205/JD_tencent_scf,JavaScript,159
+366352205,zero205/JD_tencent_scf,JavaScript,161
 417141259,ethereum-boilerplate/ethereum-boilerplate,JavaScript,248
 422998569,sberbank-ai/ru-dalle,Jupyter Notebook,202
 310632133,solana-labs/token-list,TypeScript,93
