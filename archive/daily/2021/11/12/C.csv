@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1903522,php/php-src,C,206
+1903522,php/php-src,C,198
 3774328,wg/wrk,C,14
-246335987,ventoy/Ventoy,C,24
-569041,curl/curl,C,5
+246335987,ventoy/Ventoy,C,21
+569041,curl/curl,C,6
 1357796,emscripten-core/emscripten,C,6
-14812739,libuv/libuv,C,13
+14812739,libuv/libuv,C,12
 196353673,taosdata/TDengine,C,2
 613829,openresty/lua-nginx-module,C,1
 13836499,raysan5/raylib,C,26
@@ -14,12 +14,12 @@ id,name,lang,new stars
 5870069,edenhill/librdkafka,C,3
 5805256,lua/lua,C,4
 8270972,ARMmbed/mbed-os,C,0
-68082730,Ralim/IronOS,C,4
+68082730,Ralim/IronOS,C,3
 23007417,colmap/colmap,C,1
-6687936,ARMmbed/mbedtls,C,3
+6687936,ARMmbed/mbedtls,C,2
 19403028,saki4510t/UVCCamera,C,2
-194269070,skyline-emu/skyline,C++,8
-238539562,checkra1n/pongoOS,C,7
+194269070,skyline-emu/skyline,C++,9
+238539562,checkra1n/pongoOS,C,6
 31374735,fwupd/fwupd,C,1
 157359627,espressif/esp32-camera,C,2
 190275430,libusb/hidapi,C,1
