@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,70
-27442967,fastlane/fastlane,Ruby,54
-53238813,Homebrew/brew,Ruby,114
-481872,hashicorp/vagrant,Ruby,76
-308770,heartcombo/devise,Ruby,21
-3623050,Homebrew/homebrew-cask,Ruby,34
+8514,rails/rails,Ruby,71
+27442967,fastlane/fastlane,Ruby,53
+53238813,Homebrew/brew,Ruby,115
+481872,hashicorp/vagrant,Ruby,73
+308770,heartcombo/devise,Ruby,20
+3623050,Homebrew/homebrew-cask,Ruby,31
 1090311,elastic/logstash,Ruby,21
-52855516,Homebrew/homebrew-core,Ruby,65
+52855516,Homebrew/homebrew-core,Ruby,63
 96395,faker-ruby/faker,Ruby,22
 15435,Shopify/liquid,Ruby,20
-4994614,wpscanteam/wpscan,Ruby,23
+4994614,wpscanteam/wpscan,Ruby,20
 6899875,opf/openproject,Ruby,15
 30337170,rmosolgo/graphql-ruby,Ruby,11
 30985840,solidusio/solidus,Ruby,7
@@ -18,9 +18,9 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,8
 93163073,dependabot/dependabot-core,Ruby,17
 10088951,TheOdinProject/theodinproject,Ruby,11
-87380483,socketry/async,Ruby,84
-393390354,motor-admin/motor-admin,Ruby,131
+87380483,socketry/async,Ruby,78
+393390354,motor-admin/motor-admin,Ruby,129
 161399160,Shopify/shopify-cli,Ruby,5
 424243883,r0eXpeR/fingerprint,Ruby,26
 212272090,CMSgov/price-transparency-guide,Ruby,4
-419827947,joemasilotti/railsdevs.io,Ruby,20
+419827947,joemasilotti/railsdevs.io,Ruby,19

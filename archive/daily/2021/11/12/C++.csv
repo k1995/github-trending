@@ -3,9 +3,9 @@ id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,18
 22067521,ocornut/imgui,C++,20
 27729880,grpc/grpc,C++,10
-23405758,google/leveldb,C++,11
+23405758,google/leveldb,C++,10
 39840932,google/googletest,C++,10
-24420506,v8/v8,C++,9
+24420506,v8/v8,C++,7
 34777562,ossrs/srs,C++,12
 1062572,catchorg/Catch2,C++,3
 64991887,microsoft/LightGBM,C++,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 35440404,aws/aws-sdk-cpp,C++,1
 12007030,lammps/lammps,C++,5
 350375089,DefTruth/lite.ai.toolkit,C++,5
-419490750,sail-sg/envpool,C++,14
-424496189,samteck/LED-Fireworks,C++,3
+419490750,sail-sg/envpool,C++,11
+424496189,samteck/LED-Fireworks,C++,4
