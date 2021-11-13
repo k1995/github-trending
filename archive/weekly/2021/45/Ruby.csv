@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,68
 27442967,fastlane/fastlane,Ruby,52
-53238813,Homebrew/brew,Ruby,117
-481872,hashicorp/vagrant,Ruby,76
+53238813,Homebrew/brew,Ruby,119
+481872,hashicorp/vagrant,Ruby,78
 308770,heartcombo/devise,Ruby,21
-3623050,Homebrew/homebrew-cask,Ruby,31
+3623050,Homebrew/homebrew-cask,Ruby,29
 1090311,elastic/logstash,Ruby,21
 52855516,Homebrew/homebrew-core,Ruby,63
-96395,faker-ruby/faker,Ruby,22
+96395,faker-ruby/faker,Ruby,23
 15435,Shopify/liquid,Ruby,21
-4994614,wpscanteam/wpscan,Ruby,21
+4994614,wpscanteam/wpscan,Ruby,23
 6899875,opf/openproject,Ruby,16
 30337170,rmosolgo/graphql-ruby,Ruby,10
 30985840,solidusio/solidus,Ruby,7
@@ -18,9 +18,9 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,8
 93163073,dependabot/dependabot-core,Ruby,18
 10088951,TheOdinProject/theodinproject,Ruby,9
-87380483,socketry/async,Ruby,73
-393390354,motor-admin/motor-admin,Ruby,126
+87380483,socketry/async,Ruby,72
+393390354,motor-admin/motor-admin,Ruby,125
 161399160,Shopify/shopify-cli,Ruby,5
 424243883,r0eXpeR/fingerprint,Ruby,26
 212272090,CMSgov/price-transparency-guide,Ruby,4
-419827947,joemasilotti/railsdevs.io,Ruby,19
+419827947,joemasilotti/railsdevs.io,Ruby,20
