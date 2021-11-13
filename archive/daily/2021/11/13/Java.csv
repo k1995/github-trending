@@ -1,16 +1,16 @@
 id,name,lang,new stars
 22790488,iluwatar/java-design-patterns,Java,21
-20300177,google/guava,Java,12
+20300177,google/guava,Java,13
 892275,square/retrofit,Java,5
 110211147,xkcoding/spring-boot-demo,Java,5
 44662669,dbeaver/dbeaver,Java,17
 55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,0
-112785414,alibaba/spring-cloud-alibaba,Java,4
+112785414,alibaba/spring-cloud-alibaba,Java,7
 75164823,apache/rocketmq,Java,5
 5349565,prestodb/presto,Java,70
 148496687,YunaiV/SpringBoot-Labs,Java,4
-133134007,OpenAPITools/openapi-generator,Java,8
-12499251,checkstyle/checkstyle,Java,22
+133134007,OpenAPITools/openapi-generator,Java,7
+12499251,checkstyle/checkstyle,Java,38
 120463532,alibaba/COLA,Java,5
 140543886,apache/incubator-shenyu,Java,5
 81226206,karatelabs/karate,Java,8
@@ -18,9 +18,9 @@ id,name,lang,new stars
 99919302,apache/incubator-doris,Java,0
 87859908,micrometer-metrics/micrometer,Java,1
 212488700,pytorch/serve,Java,1
-158975124,apache/iotdb,Java,3
+158975124,apache/iotdb,Java,4
 252474685,NekoX-Dev/NekoX,Java,7
 2928948,Azure/azure-sdk-for-java,Java,1
-281866198,lyrric/seckill,Java,10
-312830970,648540858/wvp-GB28181-pro,Java,2
+281866198,lyrric/seckill,Java,15
+312830970,648540858/wvp-GB28181-pro,Java,1
 317776340,gh0stkey/CaA,Java,18
