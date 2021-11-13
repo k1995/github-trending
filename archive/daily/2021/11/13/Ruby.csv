@@ -1,12 +1,12 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,16
+65252,jekyll/jekyll,Ruby,15
 27442967,fastlane/fastlane,Ruby,9
 308770,heartcombo/devise,Ruby,2
 3623050,Homebrew/homebrew-cask,Ruby,1
-538746,ruby/ruby,Ruby,6
+538746,ruby/ruby,Ruby,7
 3195124,mperham/sidekiq,Ruby,2
 202291859,chatwoot/chatwoot,Ruby,8
-1918677,fluent/fluentd,Ruby,3
+1918677,fluent/fluentd,Ruby,2
 611921,activeadmin/activeadmin,Ruby,2
 451035,heartcombo/simple_form,Ruby,0
 2441517,puma/puma,Ruby,3
@@ -17,7 +17,7 @@ id,name,lang,new stars
 2861056,rails/jbuilder,Ruby,4
 52316423,luggit/react-native-config,Ruby,0
 3277842,googleapis/google-api-ruby-client,Ruby,1
-41571541,inspec/inspec,Ruby,1
+41571541,inspec/inspec,Ruby,0
 174796313,ruby/rbs,Ruby,0
 32104924,rails/sprockets,Ruby,0
 3947396,getsentry/sentry-ruby,Ruby,0

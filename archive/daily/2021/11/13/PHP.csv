@@ -1,12 +1,12 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,12
-3482588,danielmiessler/SecLists,PHP,21
+3482588,danielmiessler/SecLists,PHP,22
 1864363,composer/composer,PHP,11
-7548986,laravel/framework,PHP,40
+7548986,laravel/framework,PHP,37
 1420053,guzzle/guzzle,PHP,4
 1376664,Seldaek/monolog,PHP,7
-448045,sebastianbergmann/phpunit,PHP,6
-2253830,PHPMailer/PHPMailer,PHP,12
+448045,sebastianbergmann/phpunit,PHP,5
+2253830,PHPMailer/PHPMailer,PHP,11
 5724990,briannesbitt/Carbon,PHP,4
 13899674,thephpleague/flysystem,PHP,4
 61490598,PHPOffice/PhpSpreadsheet,PHP,2
@@ -15,12 +15,12 @@ id,name,lang,new stars
 4549925,bobthecow/psysh,PHP,0
 2699935,squizlabs/PHP_CodeSniffer,PHP,0
 622166,FriendsOfPHP/Goutte,PHP,6
-6660366,dompdf/dompdf,PHP,1
-364315,predis/predis,PHP,3
+6660366,dompdf/dompdf,PHP,2
+364315,predis/predis,PHP,4
 361718,sebastianbergmann/php-token-stream,PHP,0
-4242230,PHPOffice/PHPWord,PHP,29
+4242230,PHPOffice/PHPWord,PHP,27
 9131292,jenssegers/laravel-mongodb,PHP,3
 14346979,snipe/snipe-it,PHP,2
 33916850,spatie/laravel-medialibrary,PHP,5
 13176870,lazychaser/laravel-nestedset,PHP,7
-174021137,inertiajs/pingcrm,PHP,3
+174021137,inertiajs/pingcrm,PHP,2
