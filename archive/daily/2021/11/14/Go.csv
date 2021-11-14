@@ -1,15 +1,15 @@
 id,name,lang,new stars
-48378947,fatedier/frp,Go,24
-41912791,v2ray/v2ray-core,Go,12
+48378947,fatedier/frp,Go,25
+41912791,v2ray/v2ray-core,Go,8
 15452919,ethereum/go-ethereum,Go,25
 16607898,drone/drone,Go,11
 97533102,halfrost/LeetCode-Go,Go,125
 115857954,chai2010/advanced-go-programming-book,Go,11
 16554739,elastic/beats,Go,1
 31558937,gravitational/teleport,Go,15
-86981606,halfrost/Halfrost-Field,Go,140
+86981606,halfrost/Halfrost-Field,Go,142
 1380117,getlantern/lantern,Go,6
-48109239,cilium/cilium,Go,7
+48109239,cilium/cilium,Go,6
 187403699,FiloSottile/age,Go,28
 130430977,kubesphere/kubesphere,Go,10
 93444615,hashicorp/terraform-provider-aws,Go,2
@@ -17,8 +17,8 @@ id,name,lang,new stars
 49765480,lightningnetwork/lnd,Go,0
 144708327,zhenghaoz/gorse,Go,20
 177010499,google/ko,Go,18
-281694167,Mrs4s/go-cqhttp,Go,10
-392596825,ddosify/ddosify,Go,23
+281694167,Mrs4s/go-cqhttp,Go,11
+392596825,ddosify/ddosify,Go,20
 224588420,wxbool/video-srt-windows,Go,4
 390982669,lwch/natpass,Go,16
 294825566,denverquane/automuteus,Go,0

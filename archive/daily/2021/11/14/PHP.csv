@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,20
+3482588,danielmiessler/SecLists,PHP,17
 1420053,guzzle/guzzle,PHP,2
 60243197,nextcloud/server,PHP,11
 82238168,monicahq/monica,PHP,4
@@ -10,16 +10,16 @@ id,name,lang,new stars
 8678290,barryvdh/laravel-ide-helper,PHP,0
 7549096,doctrine/inflector,PHP,1
 14259390,Maatwebsite/Laravel-Excel,PHP,1
-2699935,squizlabs/PHP_CodeSniffer,PHP,1
-21298446,firefly-iii/firefly-iii,PHP,6
+2699935,squizlabs/PHP_CodeSniffer,PHP,2
+21298446,firefly-iii/firefly-iii,PHP,5
 7577142,doctrine/annotations,PHP,1
 2141186,opencart/opencart,PHP,1
 41463886,codeigniter4/CodeIgniter4,PHP,3
-8933498,ampache/ampache,PHP,1
+8933498,ampache/ampache,PHP,2
 47508644,pterodactyl/panel,PHP,2
-57961433,openmediavault/openmediavault,PHP,1
+57961433,openmediavault/openmediavault,PHP,0
 69691727,pmmp/PocketMine-MP,PHP,1
-286645686,yuantuo666/baiduwp-php,PHP,4
+286645686,yuantuo666/baiduwp-php,PHP,3
 152772568,wisp-x/lsky-pro,PHP,2
 57463067,AzuraCast/AzuraCast,PHP,3
 355522545,kalcaddle/kodbox,PHP,3
