@@ -1,16 +1,16 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,438
-13233158,obsproject/obs-studio,C,620
+13233158,obsproject/obs-studio,C,622
 1903522,php/php-src,C,783
 102578345,coolsnowwolf/lede,C,143
 14812739,libuv/libuv,C,49
-15337142,micropython/micropython,C,51
-66150122,jarun/nnn,C,124
+15337142,micropython/micropython,C,50
+66150122,jarun/nnn,C,125
 5254557,cloudwu/skynet,C,33
 184909163,koekeishiya/yabai,C,108
-3199002,raspberrypi/linux,C,30
+3199002,raspberrypi/linux,C,28
 15583310,SoftEtherVPN/SoftEtherVPN,C,23
-13836499,raysan5/raylib,C,326
+13836499,raysan5/raylib,C,327
 70127218,espressif/arduino-esp32,C,46
 437011,openzfs/zfs,C,26
 187922067,microsoft/WSL2-Linux-Kernel,C,40
@@ -22,5 +22,5 @@ id,name,lang,new stars
 220449772,open-sdr/openwifi,C,29
 330008801,libsdl-org/SDL,C,41
 176278485,sqlite/sqlite,C,35
-228103273,apache/incubator-nuttx,C,13
+228103273,apache/incubator-nuttx,C,12
 356098390,WyvernTKC/cpuminer-gr-avx2,C,79

@@ -1,16 +1,16 @@
 id,name,lang,new stars
-22790488,iluwatar/java-design-patterns,Java,17
+22790488,iluwatar/java-design-patterns,Java,19
 20300177,google/guava,Java,14
 892275,square/retrofit,Java,4
-110211147,xkcoding/spring-boot-demo,Java,6
-44662669,dbeaver/dbeaver,Java,11
+110211147,xkcoding/spring-boot-demo,Java,5
+44662669,dbeaver/dbeaver,Java,10
 55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,0
 112785414,alibaba/spring-cloud-alibaba,Java,7
-75164823,apache/rocketmq,Java,2
-5349565,prestodb/presto,Java,40
+75164823,apache/rocketmq,Java,3
+5349565,prestodb/presto,Java,37
 148496687,YunaiV/SpringBoot-Labs,Java,5
 133134007,OpenAPITools/openapi-generator,Java,7
-12499251,checkstyle/checkstyle,Java,52
+12499251,checkstyle/checkstyle,Java,59
 120463532,alibaba/COLA,Java,5
 140543886,apache/incubator-shenyu,Java,5
 81226206,karatelabs/karate,Java,7
@@ -23,4 +23,4 @@ id,name,lang,new stars
 2928948,Azure/azure-sdk-for-java,Java,4
 281866198,lyrric/seckill,Java,17
 312830970,648540858/wvp-GB28181-pro,Java,1
-317776340,gh0stkey/CaA,Java,10
+317776340,gh0stkey/CaA,Java,8

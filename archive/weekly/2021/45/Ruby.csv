@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,66
+8514,rails/rails,Ruby,64
 65252,jekyll/jekyll,Ruby,58
-27442967,fastlane/fastlane,Ruby,51
-53238813,Homebrew/brew,Ruby,127
-481872,hashicorp/vagrant,Ruby,75
+27442967,fastlane/fastlane,Ruby,52
+53238813,Homebrew/brew,Ruby,124
+481872,hashicorp/vagrant,Ruby,74
 308770,heartcombo/devise,Ruby,19
 3623050,Homebrew/homebrew-cask,Ruby,27
 538746,ruby/ruby,Ruby,30
@@ -14,7 +14,7 @@ id,name,lang,new stars
 1725199,github/linguist,Ruby,27
 451035,heartcombo/simple_form,Ruby,6
 6899875,opf/openproject,Ruby,16
-30337170,rmosolgo/graphql-ruby,Ruby,11
+30337170,rmosolgo/graphql-ruby,Ruby,12
 30985840,solidusio/solidus,Ruby,7
 138776049,sorbet/sorbet,Ruby,12
 103766152,github/explore,Ruby,17
