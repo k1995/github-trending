@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,9
-65252,jekyll/jekyll,Ruby,6
+65252,jekyll/jekyll,Ruby,7
 7569578,discourse/discourse,Ruby,8
-27442967,fastlane/fastlane,Ruby,5
-2293158,rapid7/metasploit-framework,Ruby,6
-2500088,gitlabhq/gitlabhq,Ruby,6
+27442967,fastlane/fastlane,Ruby,4
+2293158,rapid7/metasploit-framework,Ruby,5
+2500088,gitlabhq/gitlabhq,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,3
 3314,spree/spree,Ruby,1
 106995,sinatra/sinatra,Ruby,1
 3195124,mperham/sidekiq,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,10
+202291859,chatwoot/chatwoot,Ruby,9
 96395,faker-ruby/faker,Ruby,3
 611921,activeadmin/activeadmin,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1314319,instructure/canvas-lms,Ruby,0
 614070,rubygems/rubygems,Ruby,0
 200302808,github/view_component,Ruby,4
-283022742,excid3/noticed,Ruby,4
+283022742,excid3/noticed,Ruby,5
 32104924,rails/sprockets,Ruby,0
 644899,onelogin/ruby-saml,Ruby,1
 292469226,ybdt/poc-hub,Ruby,1
