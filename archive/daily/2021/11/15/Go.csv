@@ -11,7 +11,7 @@ id,name,lang,new stars
 21233191,ipfs/go-ipfs,Go,6
 109145553,containers/podman,Go,24
 86981606,halfrost/Halfrost-Field,Go,40
-77071454,goreleaser/goreleaser,Go,52
+77071454,goreleaser/goreleaser,Go,50
 187403699,FiloSottile/age,Go,20
 222172014,slackhq/nebula,Go,40
 66156850,TheAlgorithms/Go,Go,16
@@ -22,5 +22,5 @@ id,name,lang,new stars
 175405157,JanDeDobbeleer/oh-my-posh,Go,14
 392596825,ddosify/ddosify,Go,23
 52481933,navidrome/navidrome,Go,5
-242879301,lc/gau,Go,19
+242879301,lc/gau,Go,22
 425524682,ycd/dstp,Go,119
