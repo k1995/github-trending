@@ -1,16 +1,16 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,4
+65252,jekyll/jekyll,Ruby,5
 7569578,discourse/discourse,Ruby,6
 8681349,huginn/huginn,Ruby,7
-53238813,Homebrew/brew,Ruby,18
-2293158,rapid7/metasploit-framework,Ruby,11
+53238813,Homebrew/brew,Ruby,14
+2293158,rapid7/metasploit-framework,Ruby,9
 2500088,gitlabhq/gitlabhq,Ruby,1
 73648678,forem/forem,Ruby,6
 911765,diaspora/diaspora,Ruby,1
 3314,spree/spree,Ruby,2
-106995,sinatra/sinatra,Ruby,3
-202291859,chatwoot/chatwoot,Ruby,3
-96395,faker-ruby/faker,Ruby,3
+106995,sinatra/sinatra,Ruby,4
+202291859,chatwoot/chatwoot,Ruby,5
+96395,faker-ruby/faker,Ruby,2
 1333863,kaminari/kaminari,Ruby,1
 2441517,puma/puma,Ruby,1
 108278,chef/chef,Ruby,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 189010173,Hackplayers/evil-winrm,Ruby,0
 10088951,TheOdinProject/theodinproject,Ruby,2
 8154497,rubysec/ruby-advisory-db,Ruby,0
-214601088,arosh/ublacklist-stackoverflow-translation,Ruby,4
+214601088,arosh/ublacklist-stackoverflow-translation,Ruby,5
 616448,mustache/spec,Ruby,0
 21707247,nickhammond/ansible-logrotate,Ruby,0
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0

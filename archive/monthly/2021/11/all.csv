@@ -1,26 +1,26 @@
 id,name,lang,new stars
-126577260,trekhleb/javascript-algorithms,JavaScript,4599
+126577260,trekhleb/javascript-algorithms,JavaScript,4578
 70107786,vercel/next.js,JavaScript,2227
-1181927,bitcoin/bitcoin,C++,1295
-155220641,huggingface/transformers,Python,1682
-19872456,remix-run/react-router,TypeScript,566
-101138315,d2l-ai/d2l-zh,Python,1513
-13862381,DrKLO/Telegram,Java,543
-264818686,ultralytics/yolov5,Python,1364
-115110181,swc-project/swc,Rust,1816
-196353673,taosdata/TDengine,C,1025
-168799526,rwightman/pytorch-image-models,Python,841
-45680749,kholia/OSX-KVM,Python,364
-120156076,cloudreve/Cloudreve,Go,1152
-130430977,kubesphere/kubesphere,Go,796
+1181927,bitcoin/bitcoin,C++,1298
+155220641,huggingface/transformers,Python,1680
+19872456,remix-run/react-router,TypeScript,564
+101138315,d2l-ai/d2l-zh,Python,1518
+13862381,DrKLO/Telegram,Java,542
+264818686,ultralytics/yolov5,Python,1367
+115110181,swc-project/swc,Rust,1813
+196353673,taosdata/TDengine,C,965
+168799526,rwightman/pytorch-image-models,Python,839
+45680749,kholia/OSX-KVM,Python,360
+120156076,cloudreve/Cloudreve,Go,1157
+130430977,kubesphere/kubesphere,Go,797
 19257422,questdb/questdb,Java,2086
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,3522
-109872620,paritytech/substrate,Rust,374
-88327406,xmrig/xmrig,C++,309
-144140342,paritytech/polkadot,Rust,377
-370977430,OpenIMSDK/Open-IM-Server,Go,3457
-348822769,nuxt/framework,TypeScript,1566
-406091035,HashLips/hashlips_art_engine,JavaScript,728
-366352205,zero205/JD_tencent_scf,JavaScript,740
+344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,3521
+109872620,paritytech/substrate,Rust,376
+88327406,xmrig/xmrig,C++,314
+144140342,paritytech/polkadot,Rust,378
+370977430,OpenIMSDK/Open-IM-Server,Go,3470
+348822769,nuxt/framework,TypeScript,1539
+406091035,HashLips/hashlips_art_engine,JavaScript,730
+366352205,zero205/JD_tencent_scf,JavaScript,760
 338102540,john-smilga/node-express-course,JavaScript,247
 310632133,solana-labs/token-list,TypeScript,146
