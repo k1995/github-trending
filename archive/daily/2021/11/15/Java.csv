@@ -1,19 +1,19 @@
 id,name,lang,new stars
-121395510,CyC2018/CS-Notes,Java,36
+121395510,CyC2018/CS-Notes,Java,32
 22790488,iluwatar/java-design-patterns,Java,32
-20300177,google/guava,Java,22
-62117812,apache/pulsar,Java,6
-173335706,apache/dolphinscheduler,Java,1
+20300177,google/guava,Java,23
+62117812,apache/pulsar,Java,4
+173335706,apache/dolphinscheduler,Java,3
 140543886,apache/incubator-shenyu,Java,4
 391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,30
-83799439,LawnchairLauncher/lawnchair,Java,4
+83799439,LawnchairLauncher/lawnchair,Java,3
 154309083,getActivity/AndroidProject,Java,1
-143175496,cabaletta/baritone,Java,30
+143175496,cabaletta/baritone,Java,31
 75882172,Netflix/conductor,Java,4
 57461213,runelite/runelite,Java,3
 283211901,yuliskov/SmartTubeNext,Java,10
-206483,apache/maven,Java,0
-65681319,jagrosh/MusicBot,Java,5
+206483,apache/maven,Java,1
+65681319,jagrosh/MusicBot,Java,4
 206378,apache/commons-lang,Java,3
 944926,EngineHub/WorldEdit,Java,3
 246464565,PojavLauncherTeam/PojavLauncher,Java,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 130612700,Querz/mcaselector,Java,3
 281866198,lyrric/seckill,Java,37
 59951566,smarques84/MockLocationDetector,Java,1
-426307770,shatyuka/Killergram,Java,21
+426307770,shatyuka/Killergram,Java,19
 296471971,FIRST-Tech-Challenge/FtcRobotController,Java,0

@@ -1,26 +1,26 @@
 id,name,lang,new stars
-126577260,trekhleb/javascript-algorithms,JavaScript,4623
+126577260,trekhleb/javascript-algorithms,JavaScript,4614
 70107786,vercel/next.js,JavaScript,2227
-1181927,bitcoin/bitcoin,C++,1270
-155220641,huggingface/transformers,Python,1679
-19872456,remix-run/react-router,TypeScript,563
+1181927,bitcoin/bitcoin,C++,1295
+155220641,huggingface/transformers,Python,1681
+19872456,remix-run/react-router,TypeScript,564
 101138315,d2l-ai/d2l-zh,Python,1507
-13862381,DrKLO/Telegram,Java,543
-264818686,ultralytics/yolov5,Python,1371
-115110181,swc-project/swc,Rust,1805
+13862381,DrKLO/Telegram,Java,544
+264818686,ultralytics/yolov5,Python,1370
+115110181,swc-project/swc,Rust,1809
 196353673,taosdata/TDengine,C,1069
-168799526,rwightman/pytorch-image-models,Python,846
-45680749,kholia/OSX-KVM,Python,362
-120156076,cloudreve/Cloudreve,Go,1145
-130430977,kubesphere/kubesphere,Go,790
-19257422,questdb/questdb,Java,2083
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,3509
-109872620,paritytech/substrate,Rust,369
-88327406,xmrig/xmrig,C++,280
-144140342,paritytech/polkadot,Rust,376
+168799526,rwightman/pytorch-image-models,Python,843
+45680749,kholia/OSX-KVM,Python,360
+120156076,cloudreve/Cloudreve,Go,1146
+130430977,kubesphere/kubesphere,Go,791
+19257422,questdb/questdb,Java,2086
+344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,3516
+109872620,paritytech/substrate,Rust,372
+88327406,xmrig/xmrig,C++,309
+144140342,paritytech/polkadot,Rust,378
 370977430,OpenIMSDK/Open-IM-Server,Go,3453
-348822769,nuxt/framework,TypeScript,1628
+348822769,nuxt/framework,TypeScript,1599
 406091035,HashLips/hashlips_art_engine,JavaScript,726
-366352205,zero205/JD_tencent_scf,JavaScript,715
-338102540,john-smilga/node-express-course,JavaScript,255
-310632133,solana-labs/token-list,TypeScript,145
+366352205,zero205/JD_tencent_scf,JavaScript,716
+338102540,john-smilga/node-express-course,JavaScript,247
+310632133,solana-labs/token-list,TypeScript,146
