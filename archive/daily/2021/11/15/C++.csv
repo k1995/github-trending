@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,60
-15634981,godotengine/godot,C++,48
-67702184,topjohnwu/Magisk,C++,26
-19374812,telegramdesktop/tdesktop,C++,68
-74660642,taichi-dev/taichi,C++,89
+15634981,godotengine/godot,C++,49
+67702184,topjohnwu/Magisk,C++,27
+19374812,telegramdesktop/tdesktop,C++,57
+74660642,taichi-dev/taichi,C++,60
 125098880,ValveSoftware/Proton,C++,15
 26038648,gabime/spdlog,C++,14
-2200856,MarlinFirmware/Marlin,C++,7
-76990209,Aircoookie/WLED,C++,9
+2200856,MarlinFirmware/Marlin,C++,6
+76990209,Aircoookie/WLED,C++,6
 106558568,doitsujin/dxvk,C++,12
 153866232,TheCherno/Hazel,C++,25
 2168780,minetest/minetest,C++,5
@@ -15,12 +15,12 @@ id,name,lang,new stars
 15122806,google/benchmark,C++,5
 15379620,PCSX2/pcsx2,C++,6
 14303048,mamedev/mame,C++,1
-14268809,FastLED/FastLED,C++,5
+14268809,FastLED/FastLED,C++,4
 10289758,Nevcairiel/LAVFilters,C++,3
 115883761,tdlib/td,C++,2
 53357782,acidanthera/AppleALC,C++,3
 194269070,skyline-emu/skyline,C++,4
-188601229,love2d/love,C++,4
+188601229,love2d/love,C++,7
 339217472,td512/re3,C++,9
-427466145,CCob/lsarelayx,C++,79
+427466145,CCob/lsarelayx,C++,76
 342290338,Raptor3um/raptoreum,C++,29

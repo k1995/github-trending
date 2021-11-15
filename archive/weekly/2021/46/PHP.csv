@@ -1,6 +1,6 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,129
-60243197,nextcloud/server,PHP,74
+60243197,nextcloud/server,PHP,75
 5724990,briannesbitt/Carbon,PHP,17
 1631570,nikic/PHP-Parser,PHP,28
 3431193,yiisoft/yii2,PHP,9
@@ -8,19 +8,19 @@ id,name,lang,new stars
 7769432,vlucas/phpdotenv,PHP,20
 72069409,the-control-group/voyager,PHP,20
 48796179,z-song/laravel-admin,PHP,17
-2884111,magento/magento2,PHP,18
+2884111,magento/magento2,PHP,19
 4549925,bobthecow/psysh,PHP,19
-11340559,deployphp/deployer,PHP,17
+11340559,deployphp/deployer,PHP,16
 622166,FriendsOfPHP/Goutte,PHP,27
-41589337,BookStackApp/BookStack,PHP,70
+41589337,BookStackApp/BookStack,PHP,69
 2179920,woocommerce/woocommerce,PHP,24
-16238673,kanboard/kanboard,PHP,15
-4242230,PHPOffice/PHPWord,PHP,129
-60010673,elementor/elementor,PHP,19
+16238673,kanboard/kanboard,PHP,14
+4242230,PHPOffice/PHPWord,PHP,128
+60010673,elementor/elementor,PHP,16
 159606650,hyperf/hyperf,PHP,16
 41463886,codeigniter4/CodeIgniter4,PHP,29
-139191005,nunomaduro/larastan,PHP,57
+139191005,nunomaduro/larastan,PHP,55
 38200433,jeroennoten/Laravel-AdminLTE,PHP,8
-286645686,yuantuo666/baiduwp-php,PHP,39
+286645686,yuantuo666/baiduwp-php,PHP,40
 29501260,api-platform/core,PHP,6
 174021137,inertiajs/pingcrm,PHP,14
