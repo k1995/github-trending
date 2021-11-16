@@ -1,21 +1,21 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,61
-65252,jekyll/jekyll,Ruby,57
+8514,rails/rails,Ruby,62
+65252,jekyll/jekyll,Ruby,56
 27442967,fastlane/fastlane,Ruby,50
-53238813,Homebrew/brew,Ruby,139
+53238813,Homebrew/brew,Ruby,136
 2293158,rapid7/metasploit-framework,Ruby,60
-481872,hashicorp/vagrant,Ruby,70
+481872,hashicorp/vagrant,Ruby,68
 2500088,gitlabhq/gitlabhq,Ruby,19
 2203645,CocoaPods/CocoaPods,Ruby,16
 1090311,elastic/logstash,Ruby,20
-3314,spree/spree,Ruby,12
+3314,spree/spree,Ruby,10
 106995,sinatra/sinatra,Ruby,14
 3195124,mperham/sidekiq,Ruby,18
 52855516,Homebrew/homebrew-core,Ruby,57
 96395,faker-ruby/faker,Ruby,25
 1725199,github/linguist,Ruby,24
 451035,heartcombo/simple_form,Ruby,5
-6899875,opf/openproject,Ruby,19
+6899875,opf/openproject,Ruby,21
 43347873,danger/danger,Ruby,13
 30985840,solidusio/solidus,Ruby,6
 138776049,sorbet/sorbet,Ruby,8
@@ -23,4 +23,4 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,25
 200302808,github/view_component,Ruby,26
 32104924,rails/sprockets,Ruby,1
-212272090,CMSgov/price-transparency-guide,Ruby,5
+212272090,CMSgov/price-transparency-guide,Ruby,6
