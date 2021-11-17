@@ -1,11 +1,11 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,7
-7569578,discourse/discourse,Ruby,15
-27442967,fastlane/fastlane,Ruby,3
-53238813,Homebrew/brew,Ruby,27
+65252,jekyll/jekyll,Ruby,9
+7569578,discourse/discourse,Ruby,11
+27442967,fastlane/fastlane,Ruby,4
+53238813,Homebrew/brew,Ruby,28
 481872,hashicorp/vagrant,Ruby,4
 3623050,Homebrew/homebrew-cask,Ruby,3
-73648678,forem/forem,Ruby,13
+73648678,forem/forem,Ruby,16
 585285,gollum/gollum,Ruby,2
 3314,spree/spree,Ruby,1
 3195124,mperham/sidekiq,Ruby,3
@@ -16,7 +16,7 @@ id,name,lang,new stars
 2889230,rails-api/active_model_serializers,Ruby,1
 52316423,luggit/react-native-config,Ruby,3
 14238949,elastic/elasticsearch-rails,Ruby,0
-103766152,github/explore,Ruby,5
+103766152,github/explore,Ruby,4
 93163073,dependabot/dependabot-core,Ruby,3
 200302808,github/view_component,Ruby,0
 1953385,stripe/stripe-ruby,Ruby,1
