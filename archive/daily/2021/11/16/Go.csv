@@ -2,7 +2,7 @@ id,name,lang,new stars
 48378947,fatedier/frp,Go,65
 11225014,etcd-io/etcd,Go,20
 8989842,unknwon/the-way-to-go_ZH_CN,Go,13
-13624859,gorilla/websocket,Go,7
+13624859,gorilla/websocket,Go,8
 165041732,go-kratos/kratos,Go,11
 19205896,restic/restic,Go,67
 21233191,ipfs/go-ipfs,Go,11
@@ -18,9 +18,9 @@ id,name,lang,new stars
 17451182,go-yaml/yaml,Go,4
 50629145,google/pprof,Go,4
 144708327,zhenghaoz/gorse,Go,43
-5425992,nats-io/nats.go,Go,2
+5425992,nats-io/nats.go,Go,4
 281694167,Mrs4s/go-cqhttp,Go,26
-384451028,cloudwego/kitex,Go,20
-392596825,ddosify/ddosify,Go,23
+384451028,cloudwego/kitex,Go,54
+392596825,ddosify/ddosify,Go,25
 93446075,hashicorp/terraform-provider-google,Go,1
-425524682,ycd/dstp,Go,152
+425524682,ycd/dstp,Go,136

@@ -1,10 +1,10 @@
 id,name,lang,new stars
 17620347,dotnet/aspnetcore,C#,19
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,2
-28239455,dotnet/AspNetCore.Docs,C#,4
+28239455,dotnet/AspNetCore.Docs,C#,3
 46652227,IdentityServer/IdentityServer4,C#,4
-17369361,jbogard/MediatR,C#,8
-83380995,dotnet-architecture/eShopOnWeb,C#,5
+17369361,jbogard/MediatR,C#,6
+83380995,dotnet-architecture/eShopOnWeb,C#,4
 500093,winsw/winsw,C#,5
 54213490,xamarin/Xamarin.Forms,C#,0
 130160795,HMBSbige/ShadowsocksR-Windows,C#,6
@@ -12,13 +12,13 @@ id,name,lang,new stars
 152370823,davidfowl/AspNetCoreDiagnosticScenarios,C#,5
 103086697,thangchung/clean-code-dotnet,C#,12
 243854166,dotnet/tye,C#,5
-10601208,umbraco/Umbraco-CMS,C#,1
+10601208,umbraco/Umbraco-CMS,C#,2
 57049212,XINCGer/Unity3DTraining,C#,7
-49673872,sshnet/SSH.NET,C#,2
-151148482,elsa-workflows/elsa-core,C#,4
+49673872,sshnet/SSH.NET,C#,3
+151148482,elsa-workflows/elsa-core,C#,5
 216050620,Kinnara/ModernWpf,C#,7
-285618804,Kyome22/RunCat_for_windows,C#,329
-370188376,torchgm/RoundedTB,C#,27
+285618804,Kyome22/RunCat_for_windows,C#,317
+370188376,torchgm/RoundedTB,C#,28
 211680342,Webreaper/Damselfly,C#,7
 156260788,Azure/azure-cosmos-dotnet-v3,C#,2
 267164115,MicrosoftLearning/AZ500-AzureSecurityTechnologies,C#,3
