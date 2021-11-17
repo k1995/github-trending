@@ -1,14 +1,14 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,10
-7569578,discourse/discourse,Ruby,13
-27442967,fastlane/fastlane,Ruby,4
-53238813,Homebrew/brew,Ruby,28
+65252,jekyll/jekyll,Ruby,11
+7569578,discourse/discourse,Ruby,11
+27442967,fastlane/fastlane,Ruby,6
+53238813,Homebrew/brew,Ruby,30
 481872,hashicorp/vagrant,Ruby,4
-3623050,Homebrew/homebrew-cask,Ruby,3
+3623050,Homebrew/homebrew-cask,Ruby,6
 73648678,forem/forem,Ruby,15
 585285,gollum/gollum,Ruby,2
 3314,spree/spree,Ruby,1
-3195124,mperham/sidekiq,Ruby,3
+3195124,mperham/sidekiq,Ruby,4
 202291859,chatwoot/chatwoot,Ruby,9
 88740103,postalserver/postal,Ruby,6
 21829,thoughtbot/factory_bot,Ruby,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,1
 1953385,stripe/stripe-ruby,Ruby,1
 10088951,TheOdinProject/theodinproject,Ruby,0
-34840276,elastic/ansible-elasticsearch,Ruby,1
+34840276,elastic/ansible-elasticsearch,Ruby,0
 1784628,rails/sprockets-rails,Ruby,0
 880770,puppetlabs/puppetlabs-apache,Ruby,0
