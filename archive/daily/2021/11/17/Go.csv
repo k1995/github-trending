@@ -1,6 +1,6 @@
 id,name,lang,new stars
 48378947,fatedier/frp,Go,93
-11225014,etcd-io/etcd,Go,18
+11225014,etcd-io/etcd,Go,21
 8989842,unknwon/the-way-to-go_ZH_CN,Go,14
 13624859,gorilla/websocket,Go,7
 165041732,go-kratos/kratos,Go,11
@@ -8,19 +8,19 @@ id,name,lang,new stars
 21233191,ipfs/go-ipfs,Go,12
 33352201,grpc-ecosystem/grpc-gateway,Go,12
 109145553,containers/podman,Go,18
-4925652,robfig/cron,Go,10
+4925652,robfig/cron,Go,14
 222172014,slackhq/nebula,Go,66
 10270722,google/go-github,Go,5
-130430977,kubesphere/kubesphere,Go,15
+130430977,kubesphere/kubesphere,Go,19
 9524057,prometheus/node_exporter,Go,6
 68964263,prometheus-operator/prometheus-operator,Go,6
 12332444,onsi/ginkgo,Go,8
 17451182,go-yaml/yaml,Go,5
-144708327,zhenghaoz/gorse,Go,107
+144708327,zhenghaoz/gorse,Go,123
 50629145,google/pprof,Go,5
 5425992,nats-io/nats.go,Go,5
+384451028,cloudwego/kitex,Go,81
 281694167,Mrs4s/go-cqhttp,Go,26
-384451028,cloudwego/kitex,Go,59
 392596825,ddosify/ddosify,Go,32
-93446075,hashicorp/terraform-provider-google,Go,1
-425524682,ycd/dstp,Go,131
+93446075,hashicorp/terraform-provider-google,Go,0
+425524682,ycd/dstp,Go,96
