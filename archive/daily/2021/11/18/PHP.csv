@@ -1,18 +1,18 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,11
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,2
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,3
 1376664,Seldaek/monolog,PHP,3
 448045,sebastianbergmann/phpunit,PHP,3
-60243197,nextcloud/server,PHP,6
+60243197,nextcloud/server,PHP,7
 2889328,WordPress/WordPress,PHP,8
 3431193,yiisoft/yii2,PHP,1
-14259390,Maatwebsite/Laravel-Excel,PHP,3
-5627682,serbanghita/Mobile-Detect,PHP,3
+14259390,Maatwebsite/Laravel-Excel,PHP,2
+5627682,serbanghita/Mobile-Detect,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,1
-597887,doctrine/orm,PHP,3
+597887,doctrine/orm,PHP,2
 11340559,deployphp/deployer,PHP,3
-677464,doctrine/dbal,PHP,2
-6763587,PrestaShop/PrestaShop,PHP,2
+677464,doctrine/dbal,PHP,1
+6763587,PrestaShop/PrestaShop,PHP,1
 12204147,mautic/mautic,PHP,6
 95011974,akaunting/akaunting,PHP,1
 74386167,vimeo/psalm,PHP,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 2686502,pimcore/pimcore,PHP,1
 166299071,archtechx/tenancy,PHP,10
 204472210,facade/ignition,PHP,0
-68595316,rebing/graphql-laravel,PHP,2
-248372441,laravel-filament/filament,PHP,15
+68595316,rebing/graphql-laravel,PHP,3
+248372441,laravel-filament/filament,PHP,14
 424928370,bilfeldt/laravel-request-logger,PHP,1
