@@ -1,16 +1,16 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,46
-7548986,laravel/framework,PHP,126
-60243197,nextcloud/server,PHP,79
-11323319,erusev/parsedown,PHP,17
+7548986,laravel/framework,PHP,124
+60243197,nextcloud/server,PHP,80
+11323319,erusev/parsedown,PHP,15
 3431193,yiisoft/yii2,PHP,11
-12615154,barryvdh/laravel-debugbar,PHP,22
+12615154,barryvdh/laravel-debugbar,PHP,21
 11340559,deployphp/deployer,PHP,32
 622166,FriendsOfPHP/Goutte,PHP,23
 677464,doctrine/dbal,PHP,21
-41589337,BookStackApp/BookStack,PHP,68
+41589337,BookStackApp/BookStack,PHP,65
 2179920,woocommerce/woocommerce,PHP,22
-4242230,PHPOffice/PHPWord,PHP,93
+4242230,PHPOffice/PHPWord,PHP,86
 6269013,aws/aws-sdk-php,PHP,9
 12204147,mautic/mautic,PHP,16
 97311017,rectorphp/rector,PHP,46
@@ -19,8 +19,8 @@ id,name,lang,new stars
 4380514,Audi-1/sqli-labs,PHP,20
 31425145,RaspAP/raspap-webgui,PHP,18
 13176870,lazychaser/laravel-nestedset,PHP,34
-286645686,yuantuo666/baiduwp-php,PHP,41
-330980599,yanfeizhang/coder-kung-fu,PHP,33
+286645686,yuantuo666/baiduwp-php,PHP,40
+330980599,yanfeizhang/coder-kung-fu,PHP,35
 174021137,inertiajs/pingcrm,PHP,18
 58202827,woocommerce/woocommerce-gateway-stripe,PHP,2
 420016824,youyingxiang/Discover,PHP,35
