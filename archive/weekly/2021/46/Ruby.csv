@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,49
+8514,rails/rails,Ruby,50
 65252,jekyll/jekyll,Ruby,59
-27442967,fastlane/fastlane,Ruby,45
+27442967,fastlane/fastlane,Ruby,44
 53238813,Homebrew/brew,Ruby,152
 2293158,rapid7/metasploit-framework,Ruby,74
 481872,hashicorp/vagrant,Ruby,46
 2500088,gitlabhq/gitlabhq,Ruby,19
 96395,faker-ruby/faker,Ruby,19
-1725199,github/linguist,Ruby,21
+1725199,github/linguist,Ruby,22
 611921,activeadmin/activeadmin,Ruby,5
-810796,railsadminteam/rails_admin,Ruby,5
+810796,railsadminteam/rails_admin,Ruby,4
 6899875,opf/openproject,Ruby,24
 7050,prawnpdf/prawn,Ruby,2
 2861056,rails/jbuilder,Ruby,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,23
 1953385,stripe/stripe-ruby,Ruby,4
 10088951,TheOdinProject/theodinproject,Ruby,11
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,21
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,20
 3947396,getsentry/sentry-ruby,Ruby,2
 1784628,rails/sprockets-rails,Ruby,0
 279271772,DataDog/datadog-api-client-ruby,Ruby,0

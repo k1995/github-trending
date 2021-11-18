@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,5
-27442967,fastlane/fastlane,Ruby,11
-8681349,huginn/huginn,Ruby,12
-52281283,mastodon/mastodon,Ruby,9
-308770,heartcombo/devise,Ruby,4
-3623050,Homebrew/homebrew-cask,Ruby,7
-73648678,forem/forem,Ruby,27
+8514,rails/rails,Ruby,6
+27442967,fastlane/fastlane,Ruby,10
+8681349,huginn/huginn,Ruby,8
+52281283,mastodon/mastodon,Ruby,11
+308770,heartcombo/devise,Ruby,3
+3623050,Homebrew/homebrew-cask,Ruby,6
+73648678,forem/forem,Ruby,29
 2203645,CocoaPods/CocoaPods,Ruby,1
 3195124,mperham/sidekiq,Ruby,2
 812393,ruby-grape/grape,Ruby,0
@@ -15,12 +15,12 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,1
 108278,chef/chef,Ruby,2
 1145832,pry/pry,Ruby,2
-355893,github/markup,Ruby,3
+355893,github/markup,Ruby,2
 2889230,rails-api/active_model_serializers,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,2
 1172597,thoughtbot/shoulda-matchers,Ruby,1
-5144181,jnunemaker/flipper,Ruby,2
+5144181,jnunemaker/flipper,Ruby,3
 200302808,github/view_component,Ruby,4
 1953385,stripe/stripe-ruby,Ruby,1
 34840276,elastic/ansible-elasticsearch,Ruby,1
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,4
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,2
