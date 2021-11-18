@@ -1,26 +1,26 @@
 id,name,lang,new stars
-6498492,airbnb/javascript,JavaScript,706
-612230,nvm-sh/nvm,Shell,250
-48378947,fatedier/frp,Go,436
-1903522,php/php-src,C,311
-49609581,PowerShell/PowerShell,C#,448
-97533102,halfrost/LeetCode-Go,Go,343
-136815833,Dreamacro/clash,Go,301
+83222441,donnemartin/system-design-primer,Python,1010
+6498492,airbnb/javascript,JavaScript,707
+111583593,Genymobile/scrcpy,C,841
+612230,nvm-sh/nvm,Shell,248
+48378947,fatedier/frp,Go,444
+60630844,microsoft/monaco-editor,JavaScript,121
+97533102,halfrost/LeetCode-Go,Go,342
 108761645,nocodb/nocodb,Vue,652
-269336148,sickcodes/Docker-OSX,Shell,957
-186024298,nushell/nushell,Rust,126
-19205896,restic/restic,Go,480
-262395224,dotnet/maui,C#,441
-229764465,Asabeneh/30-Days-Of-JavaScript,JavaScript,500
-184909163,koekeishiya/yabai,C,403
-273839530,Python-World/python-mini-projects,Python,1633
-131881622,NVIDIA/DeepLearningExamples,Jupyter Notebook,348
-372240402,alan2207/bulletproof-react,TypeScript,1046
+269336148,sickcodes/Docker-OSX,Shell,1207
+186024298,nushell/nushell,Rust,121
+19205896,restic/restic,Go,472
+137154114,yichengchen/clashX,Swift,164
+262395224,dotnet/maui,C#,440
+229764465,Asabeneh/30-Days-Of-JavaScript,JavaScript,420
+221809776,Kr328/ClashForAndroid,Kotlin,167
+187403699,FiloSottile/age,Go,258
+184909163,koekeishiya/yabai,C,416
+273839530,Python-World/python-mini-projects,Python,1599
+372240402,alan2207/bulletproof-react,TypeScript,1028
+153866232,TheCherno/Hazel,C++,207
 88327406,xmrig/xmrig,C++,209
-58168143,PixarAnimationStudios/USD,C++,47
-375939072,dotnetcore/FastGithub,C#,342
-424736444,Shopify/hydrogen,TypeScript,609
-247288642,adiwajshing/Baileys,JavaScript,92
 412741449,Kholid060/automa,Vue,588
-339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,281
-366352205,zero205/JD_tencent_scf,JavaScript,343
+247288642,adiwajshing/Baileys,JavaScript,90
+339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,282
+366352205,zero205/JD_tencent_scf,JavaScript,339
