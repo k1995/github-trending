@@ -1,12 +1,12 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,186
+54346799,public-apis/public-apis,Python,268
 83222441,donnemartin/system-design-primer,Python,235
 54173593,storybookjs/storybook,TypeScript,85
-111583593,Genymobile/scrcpy,C,179
+111583593,Genymobile/scrcpy,C,215
 612230,nvm-sh/nvm,Shell,75
-74175805,istio/istio,Go,63
+74175805,istio/istio,Go,131
 277168957,eugeneyan/applied-ml,,196
-269336148,sickcodes/Docker-OSX,Shell,453
+269336148,sickcodes/Docker-OSX,Shell,454
 212773802,izackwu/TeachYourselfCS-CN,,147
 180481986,apache/apisix,Lua,98
 372240402,alan2207/bulletproof-react,TypeScript,185
@@ -14,12 +14,12 @@ id,name,lang,new stars
 261515636,matplotlib/cheatsheets,Python,96
 202693400,rougier/scientific-visualization-book,Python,439
 377496562,AppFlowy-IO/appflowy,Rust,1551
-285618804,Kyome22/RunCat_for_windows,C#,288
-357362803,jonmatthis/freemocap,Python,56
-401572203,alshdavid/BorrowScript,,97
-390327676,Janspiry/Image-Super-Resolution-via-Iterative-Refinement,Python,190
+285618804,Kyome22/RunCat_for_windows,C#,291
+357362803,jonmatthis/freemocap,Python,73
 233293023,riramar/Web-Attack-Cheat-Sheet,,337
+401572203,alshdavid/BorrowScript,,97
 425159471,sunym1993/flash-linux0.11-talk,HTML,251
+390327676,Janspiry/Image-Super-Resolution-via-Iterative-Refinement,Python,186
 165670309,tannerlinsley/react-location,TypeScript,178
 427625642,pengzhiliang/MAE-pytorch,Python,107
 281059645,upb-lea/reinforcement_learning_course_materials,Jupyter Notebook,27

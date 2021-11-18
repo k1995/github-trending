@@ -1,16 +1,16 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,11
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,3
+458058,symfony/symfony,PHP,8
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,2
 1376664,Seldaek/monolog,PHP,3
 448045,sebastianbergmann/phpunit,PHP,3
-60243197,nextcloud/server,PHP,7
-2889328,WordPress/WordPress,PHP,8
-3431193,yiisoft/yii2,PHP,1
+60243197,nextcloud/server,PHP,8
+2889328,WordPress/WordPress,PHP,7
+3431193,yiisoft/yii2,PHP,0
 14259390,Maatwebsite/Laravel-Excel,PHP,2
-5627682,serbanghita/Mobile-Detect,PHP,2
-2699935,squizlabs/PHP_CodeSniffer,PHP,1
+5627682,serbanghita/Mobile-Detect,PHP,3
+2699935,squizlabs/PHP_CodeSniffer,PHP,2
 597887,doctrine/orm,PHP,2
-11340559,deployphp/deployer,PHP,3
+11340559,deployphp/deployer,PHP,4
 677464,doctrine/dbal,PHP,1
 6763587,PrestaShop/PrestaShop,PHP,1
 12204147,mautic/mautic,PHP,6
@@ -19,8 +19,8 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,2
 29126334,EasyCorp/EasyAdminBundle,PHP,3
 2686502,pimcore/pimcore,PHP,1
-166299071,archtechx/tenancy,PHP,10
+166299071,archtechx/tenancy,PHP,9
 204472210,facade/ignition,PHP,0
 68595316,rebing/graphql-laravel,PHP,3
-248372441,laravel-filament/filament,PHP,14
-424928370,bilfeldt/laravel-request-logger,PHP,1
+248372441,laravel-filament/filament,PHP,13
+424928370,bilfeldt/laravel-request-logger,PHP,2

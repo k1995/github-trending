@@ -1,20 +1,20 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,46
 7548986,laravel/framework,PHP,126
-60243197,nextcloud/server,PHP,75
+60243197,nextcloud/server,PHP,79
 11323319,erusev/parsedown,PHP,17
-3431193,yiisoft/yii2,PHP,12
+3431193,yiisoft/yii2,PHP,11
 12615154,barryvdh/laravel-debugbar,PHP,22
-11340559,deployphp/deployer,PHP,31
-622166,FriendsOfPHP/Goutte,PHP,22
+11340559,deployphp/deployer,PHP,32
+622166,FriendsOfPHP/Goutte,PHP,23
 677464,doctrine/dbal,PHP,21
-41589337,BookStackApp/BookStack,PHP,70
+41589337,BookStackApp/BookStack,PHP,68
 2179920,woocommerce/woocommerce,PHP,22
-4242230,PHPOffice/PHPWord,PHP,101
+4242230,PHPOffice/PHPWord,PHP,93
 6269013,aws/aws-sdk-php,PHP,9
 12204147,mautic/mautic,PHP,16
 97311017,rectorphp/rector,PHP,46
-159606650,hyperf/hyperf,PHP,17
+159606650,hyperf/hyperf,PHP,16
 41463886,codeigniter4/CodeIgniter4,PHP,18
 4380514,Audi-1/sqli-labs,PHP,20
 31425145,RaspAP/raspap-webgui,PHP,18
@@ -23,4 +23,4 @@ id,name,lang,new stars
 330980599,yanfeizhang/coder-kung-fu,PHP,33
 174021137,inertiajs/pingcrm,PHP,18
 58202827,woocommerce/woocommerce-gateway-stripe,PHP,2
-420016824,youyingxiang/Discover,PHP,34
+420016824,youyingxiang/Discover,PHP,35
