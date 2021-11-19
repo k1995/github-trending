@@ -6,12 +6,12 @@ id,name,lang,new stars
 74293321,sveltejs/svelte,TypeScript,884
 48378947,fatedier/frp,Go,449
 97533102,halfrost/LeetCode-Go,Go,342
-136815833,Dreamacro/clash,Go,293
+136815833,Dreamacro/clash,Go,295
 269336148,sickcodes/Docker-OSX,Shell,1373
-74660642,taichi-dev/taichi,C++,332
+74660642,taichi-dev/taichi,C++,328
 186024298,nushell/nushell,Rust,129
-19205896,restic/restic,Go,498
-262395224,dotnet/maui,C#,344
+19205896,restic/restic,Go,516
+262395224,dotnet/maui,C#,293
 148496687,YunaiV/SpringBoot-Labs,Java,139
 221809776,Kr328/ClashForAndroid,Kotlin,165
 184909163,koekeishiya/yabai,C,470
@@ -19,8 +19,8 @@ id,name,lang,new stars
 372240402,alan2207/bulletproof-react,TypeScript,961
 153866232,TheCherno/Hazel,C++,208
 311315731,XTLS/Xray-core,Go,156
-88327406,xmrig/xmrig,C++,218
+88327406,xmrig/xmrig,C++,219
 412741449,Kholid060/automa,Vue,462
 282994686,ververica/flink-cdc-connectors,Java,114
 366352205,zero205/JD_tencent_scf,JavaScript,352
-411212454,tharsis/evmos,Go,24
+411212454,tharsis/evmos,Go,52
