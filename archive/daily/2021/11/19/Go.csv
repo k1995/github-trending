@@ -5,7 +5,7 @@ id,name,lang,new stars
 14125254,hashicorp/consul,Go,7
 16563587,cockroachdb/cockroach,Go,11
 56353740,kubernetes/minikube,Go,13
-13624859,gorilla/websocket,Go,19
+13624859,gorilla/websocket,Go,20
 123572362,quii/learn-go-with-tests,Go,27
 165041732,go-kratos/kratos,Go,19
 6247705,stretchr/testify,Go,17
@@ -13,12 +13,12 @@ id,name,lang,new stars
 7083242,go-sql-driver/mysql,Go,5
 72477752,pulumi/pulumi,Go,22
 100982449,argoproj/argo-workflows,Go,11
-120896210,argoproj/argo-cd,Go,10
+120896210,argoproj/argo-cd,Go,11
 144708327,zhenghaoz/gorse,Go,15
 92702519,bitnami-labs/sealed-secrets,Go,9
 5425992,nats-io/nats.go,Go,6
 384451028,cloudwego/kitex,Go,19
-193425521,mlogclub/bbs-go,Go,32
+193425521,mlogclub/bbs-go,Go,21
 93446075,hashicorp/terraform-provider-google,Go,4
 185861173,open-telemetry/opentelemetry-collector,Go,5
 267054247,anchore/grype,Go,11

@@ -1,19 +1,19 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,246
-48378947,fatedier/frp,Go,449
+48378947,fatedier/frp,Go,454
 41912791,v2ray/v2ray-core,Go,87
 11225014,etcd-io/etcd,Go,94
 97533102,halfrost/LeetCode-Go,Go,342
-136815833,Dreamacro/clash,Go,298
+136815833,Dreamacro/clash,Go,299
 13628513,sirupsen/logrus,Go,168
 192632000,dapr/dapr,Go,143
 19205896,restic/restic,Go,498
 109145553,containers/podman,Go,103
-72477752,pulumi/pulumi,Go,109
-86981606,halfrost/Halfrost-Field,Go,374
+72477752,pulumi/pulumi,Go,110
+86981606,halfrost/Halfrost-Field,Go,369
 1380117,getlantern/lantern,Go,90
 21405028,ardanlabs/gotraining,Go,68
-100982449,argoproj/argo-workflows,Go,65
+100982449,argoproj/argo-workflows,Go,66
 180687624,aquasecurity/trivy,Go,136
 187403699,FiloSottile/age,Go,268
 311315731,XTLS/Xray-core,Go,154
@@ -21,6 +21,6 @@ id,name,lang,new stars
 384451028,cloudwego/kitex,Go,189
 281694167,Mrs4s/go-cqhttp,Go,103
 57333709,kubernetes/test-infra,Go,65
-390982669,lwch/natpass,Go,414
+390982669,lwch/natpass,Go,409
 411212454,tharsis/evmos,Go,21
 310632133,solana-labs/token-list,Go,33
