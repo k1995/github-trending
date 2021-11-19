@@ -1,17 +1,17 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,57
-70104825,dotnet-architecture/eShopOnContainers,C#,12
-88064357,QL-Win/QuickLook,C#,13
+184456251,microsoft/PowerToys,C#,59
+70104825,dotnet-architecture/eShopOnContainers,C#,13
+88064357,QL-Win/QuickLook,C#,12
 28239455,dotnet/AspNetCore.Docs,C#,2
-69673033,ardalis/CleanArchitecture,C#,44
+69673033,ardalis/CleanArchitecture,C#,45
 165548191,carlospolop/PEASS-ng,C#,8
 142480903,microsoft/microsoft-ui-xaml,C#,6
 778828,MassTransit/MassTransit,C#,6
 2928944,Azure/azure-sdk-for-net,C#,9
-151148482,elsa-workflows/elsa-core,C#,3
+151148482,elsa-workflows/elsa-core,C#,4
 109916954,gibbed/SteamAchievementManager,C#,4
-341704034,microsoft/Power-Fx,C#,148
-285618804,Kyome22/RunCat_for_windows,C#,236
+341704034,microsoft/Power-Fx,C#,152
+285618804,Kyome22/RunCat_for_windows,C#,233
 184286875,actions/runner,C#,2
 176523594,immense/Remotely,C#,6
 63812838,stefanprodan/AspNetCoreRateLimit,C#,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 121407928,ardalis/Specification,C#,6
 173170791,dotnet/SqlClient,C#,2
 111510915,dotnet/dotnet-api-docs,C#,2
-419415576,CommunityToolkit/dotnet,C#,97
+419415576,CommunityToolkit/dotnet,C#,105
