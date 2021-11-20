@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,64
-10744183,netdata/netdata,C,13
-156018,redis/redis,C,16
-13233158,obsproject/obs-studio,C,167
-1357796,emscripten-core/emscripten,C,4
-14812739,libuv/libuv,C,6
-19994257,go-delve/delve,C,11
-196353673,taosdata/TDengine,C,24
-7634677,openssl/openssl,C,9
+2325298,torvalds/linux,C,58
+10744183,netdata/netdata,C,11
+156018,redis/redis,C,14
+13233158,obsproject/obs-studio,C,190
+1357796,emscripten-core/emscripten,C,5
+14812739,libuv/libuv,C,5
+19994257,go-delve/delve,C,14
+196353673,taosdata/TDengine,C,22
+7634677,openssl/openssl,C,7
 613829,openresty/lua-nginx-module,C,1
-65899476,espressif/esp-idf,C,7
-254327261,sandboxie-plus/Sandboxie,C,14
+65899476,espressif/esp-idf,C,6
+254327261,sandboxie-plus/Sandboxie,C,13
 6376337,pocoproject/poco,C,5
 59771425,zephyrproject-rtos/zephyr,C,7
 21329550,wireshark/wireshark,C,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 228103273,apache/incubator-nuttx,C,2
 209527239,HansKristian-Work/vkd3d-proton,C,0
 70934373,Azure/azure-iot-sdk-c,C,0
-423515916,NVIDIAGameWorks/NVIDIAImageScaling,C,18
-427676542,securifybv/Visual-Studio-BOF-template,C,6
+423515916,NVIDIAGameWorks/NVIDIAImageScaling,C,17
+427676542,securifybv/Visual-Studio-BOF-template,C,7

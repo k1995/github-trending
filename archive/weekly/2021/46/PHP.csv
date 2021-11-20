@@ -1,16 +1,16 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,44
-7548986,laravel/framework,PHP,69
+458058,symfony/symfony,PHP,46
+7548986,laravel/framework,PHP,70
 1420053,guzzle/guzzle,PHP,17
 1376664,Seldaek/monolog,PHP,18
 60243197,nextcloud/server,PHP,80
 2889328,WordPress/WordPress,PHP,18
 3431193,yiisoft/yii2,PHP,13
-12615154,barryvdh/laravel-debugbar,PHP,27
-2884111,magento/magento2,PHP,17
+12615154,barryvdh/laravel-debugbar,PHP,28
+2884111,magento/magento2,PHP,16
 29843361,w7corp/easywechat,PHP,8
-15020102,walkor/Workerman,PHP,16
-622166,FriendsOfPHP/Goutte,PHP,16
+15020102,walkor/Workerman,PHP,19
+622166,FriendsOfPHP/Goutte,PHP,15
 677464,doctrine/dbal,PHP,16
 41589337,BookStackApp/BookStack,PHP,58
 33904351,laravel/lumen,PHP,11
@@ -22,5 +22,5 @@ id,name,lang,new stars
 17722440,Rudloff/alltube,PHP,47
 248372441,laravel-filament/filament,PHP,83
 330980599,yanfeizhang/coder-kung-fu,PHP,41
-174021137,inertiajs/pingcrm,PHP,16
+174021137,inertiajs/pingcrm,PHP,17
 420016824,youyingxiang/Discover,PHP,42
