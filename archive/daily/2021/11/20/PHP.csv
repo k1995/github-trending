@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,14
-3482588,danielmiessler/SecLists,PHP,24
+1863329,laravel/laravel,PHP,9
+3482588,danielmiessler/SecLists,PHP,22
 2253830,PHPMailer/PHPMailer,PHP,8
-61490598,PHPOffice/PhpSpreadsheet,PHP,4
-10157178,egulias/EmailValidator,PHP,3
+61490598,PHPOffice/PhpSpreadsheet,PHP,5
+10157178,egulias/EmailValidator,PHP,2
 42480275,spatie/laravel-permission,PHP,3
 2884111,magento/magento2,PHP,0
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
 656494,cakephp/cakephp,PHP,0
-6660366,dompdf/dompdf,PHP,3
+6660366,dompdf/dompdf,PHP,4
 12166778,googleapis/google-api-php-client,PHP,5
 33904351,laravel/lumen,PHP,4
 364315,predis/predis,PHP,3
-42261096,fuzzdb-project/fuzzdb,PHP,1
+42261096,fuzzdb-project/fuzzdb,PHP,2
 6763587,PrestaShop/PrestaShop,PHP,2
 14346979,snipe/snipe-it,PHP,8
 9826184,elastic/elasticsearch-php,PHP,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 2686502,pimcore/pimcore,PHP,2
 3193843,drush-ops/drush,PHP,0
 3614664,PHPCompatibility/PHPCompatibility,PHP,0
-248372441,laravel-filament/filament,PHP,8
+248372441,laravel-filament/filament,PHP,9
 131995661,shopware/platform,PHP,1
 34407154,cweagans/composer-patches,PHP,1
