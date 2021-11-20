@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,50
-65252,jekyll/jekyll,Ruby,52
-7569578,discourse/discourse,Ruby,59
+65252,jekyll/jekyll,Ruby,53
+7569578,discourse/discourse,Ruby,60
 27442967,fastlane/fastlane,Ruby,45
-53238813,Homebrew/brew,Ruby,145
-21600440,bayandin/awesome-awesomeness,Ruby,29
-2293158,rapid7/metasploit-framework,Ruby,77
-73648678,forem/forem,Ruby,108
+53238813,Homebrew/brew,Ruby,146
+21600440,bayandin/awesome-awesomeness,Ruby,27
+2293158,rapid7/metasploit-framework,Ruby,79
+73648678,forem/forem,Ruby,109
 611921,activeadmin/activeadmin,Ruby,4
 810796,railsadminteam/rails_admin,Ruby,5
 21829,thoughtbot/factory_bot,Ruby,9
@@ -14,9 +14,9 @@ id,name,lang,new stars
 2889230,rails-api/active_model_serializers,Ruby,4
 30985840,solidusio/solidus,Ruby,9
 103766152,github/explore,Ruby,29
-11426474,github/choosealicense.com,Ruby,9
+11426474,github/choosealicense.com,Ruby,8
 93163073,dependabot/dependabot-core,Ruby,26
-200302808,github/view_component,Ruby,18
+200302808,github/view_component,Ruby,19
 9500075,ytti/oxidized,Ruby,3
 1953385,stripe/stripe-ruby,Ruby,3
 10088951,TheOdinProject/theodinproject,Ruby,13
