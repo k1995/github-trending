@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,63
-10744183,netdata/netdata,C,11
-156018,redis/redis,C,17
-13233158,obsproject/obs-studio,C,158
+2325298,torvalds/linux,C,64
+10744183,netdata/netdata,C,13
+156018,redis/redis,C,16
+13233158,obsproject/obs-studio,C,167
 1357796,emscripten-core/emscripten,C,4
-14812739,libuv/libuv,C,5
+14812739,libuv/libuv,C,6
 19994257,go-delve/delve,C,11
 196353673,taosdata/TDengine,C,24
 7634677,openssl/openssl,C,9
-613829,openresty/lua-nginx-module,C,2
+613829,openresty/lua-nginx-module,C,1
 65899476,espressif/esp-idf,C,7
 254327261,sandboxie-plus/Sandboxie,C,14
 6376337,pocoproject/poco,C,5
@@ -16,11 +16,11 @@ id,name,lang,new stars
 21329550,wireshark/wireshark,C,4
 2359378,madler/zlib,C,0
 34807561,nanopb/nanopb,C,1
-394318710,valinet/ExplorerPatcher,C,21
+394318710,valinet/ExplorerPatcher,C,20
 23780138,riscv-collab/riscv-gnu-toolchain,C,4
 74781866,GiacomoLaw/Keylogger,C,3
 228103273,apache/incubator-nuttx,C,2
-209527239,HansKristian-Work/vkd3d-proton,C,1
+209527239,HansKristian-Work/vkd3d-proton,C,0
 70934373,Azure/azure-iot-sdk-c,C,0
-423515916,NVIDIAGameWorks/NVIDIAImageScaling,C,19
+423515916,NVIDIAGameWorks/NVIDIAImageScaling,C,18
 427676542,securifybv/Visual-Studio-BOF-template,C,6

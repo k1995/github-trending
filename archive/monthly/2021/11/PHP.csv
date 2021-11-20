@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,470
-3482588,danielmiessler/SecLists,PHP,714
-458058,symfony/symfony,PHP,169
+1863329,laravel/laravel,PHP,468
+3482588,danielmiessler/SecLists,PHP,711
+458058,symfony/symfony,PHP,168
 7548986,laravel/framework,PHP,318
 1305114,roots/sage,PHP,63
 56728437,docker/labs,PHP,266
 23680678,tymondesigns/jwt-auth,PHP,60
-79111500,jupeter/clean-code-php,PHP,417
+79111500,jupeter/clean-code-php,PHP,416
 2884111,magento/magento2,PHP,68
 11340559,deployphp/deployer,PHP,95
-677464,doctrine/dbal,PHP,100
-2179920,woocommerce/woocommerce,PHP,86
+677464,doctrine/dbal,PHP,99
+2179920,woocommerce/woocommerce,PHP,85
 21298446,firefly-iii/firefly-iii,PHP,232
 4242230,PHPOffice/PHPWord,PHP,182
 9791525,digininja/DVWA,PHP,92
-14346979,snipe/snipe-it,PHP,108
+14346979,snipe/snipe-it,PHP,109
 60010673,elementor/elementor,PHP,109
 159606650,hyperf/hyperf,PHP,81
 4224042,roundcube/roundcubemail,PHP,58
@@ -22,5 +22,5 @@ id,name,lang,new stars
 139191005,nunomaduro/larastan,PHP,374
 29501260,api-platform/core,PHP,27
 521583,symfony/symfony-docs,PHP,21
-74026995,CodelyTV/php-ddd-example,PHP,41
+74026995,CodelyTV/php-ddd-example,PHP,42
 75645659,WordPress/wordpress-develop,PHP,155
