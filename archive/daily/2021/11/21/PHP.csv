@@ -3,7 +3,7 @@ id,name,lang,new stars
 2579314,fzaninotto/Faker,PHP,2
 1864363,composer/composer,PHP,7
 1376664,Seldaek/monolog,PHP,3
-60243197,nextcloud/server,PHP,8
+60243197,nextcloud/server,PHP,9
 3431193,yiisoft/yii2,PHP,1
 13899674,thephpleague/flysystem,PHP,4
 2699935,squizlabs/PHP_CodeSniffer,PHP,1
@@ -18,7 +18,7 @@ id,name,lang,new stars
 1367484,Behat/Behat,PHP,1
 139191005,nunomaduro/larastan,PHP,1
 52596904,teamtnt/tntsearch,PHP,12
-69691727,pmmp/PocketMine-MP,PHP,3
+69691727,pmmp/PocketMine-MP,PHP,2
 74026995,CodelyTV/php-ddd-example,PHP,1
 34407154,cweagans/composer-patches,PHP,1
 36024079,symfony/psr-http-message-bridge,PHP,0

@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,272
+8514,rails/rails,Ruby,273
 65252,jekyll/jekyll,Ruby,244
-7569578,discourse/discourse,Ruby,233
+7569578,discourse/discourse,Ruby,231
 27442967,fastlane/fastlane,Ruby,212
 53238813,Homebrew/brew,Ruby,536
-13840241,freeCodeCamp/devdocs,Ruby,274
+13840241,freeCodeCamp/devdocs,Ruby,276
 52281283,mastodon/mastodon,Ruby,979
-2293158,rapid7/metasploit-framework,Ruby,303
-481872,hashicorp/vagrant,Ruby,242
+2293158,rapid7/metasploit-framework,Ruby,301
+481872,hashicorp/vagrant,Ruby,241
 3623050,Homebrew/homebrew-cask,Ruby,134
-538746,ruby/ruby,Ruby,133
-73648678,forem/forem,Ruby,485
+538746,ruby/ruby,Ruby,132
+73648678,forem/forem,Ruby,487
 911765,diaspora/diaspora,Ruby,87
 1090311,elastic/logstash,Ruby,63
-52855516,Homebrew/homebrew-core,Ruby,290
+52855516,Homebrew/homebrew-core,Ruby,288
 96395,faker-ruby/faker,Ruby,101
 1725199,github/linguist,Ruby,108
 15435,Shopify/liquid,Ruby,84
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,36
 93163073,dependabot/dependabot-core,Ruby,78
 200302808,github/view_component,Ruby,64
-55288882,d12frosted/homebrew-emacs-plus,Ruby,48
-229187949,shivammathur/homebrew-php,Ruby,69
+55288882,d12frosted/homebrew-emacs-plus,Ruby,49
+229187949,shivammathur/homebrew-php,Ruby,70
