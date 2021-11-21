@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,13
+3482588,danielmiessler/SecLists,PHP,11
 2579314,fzaninotto/Faker,PHP,2
 1864363,composer/composer,PHP,7
 1376664,Seldaek/monolog,PHP,4
-60243197,nextcloud/server,PHP,9
+60243197,nextcloud/server,PHP,10
 3431193,yiisoft/yii2,PHP,1
 13899674,thephpleague/flysystem,PHP,3
-2699935,squizlabs/PHP_CodeSniffer,PHP,1
-6660366,dompdf/dompdf,PHP,6
+2699935,squizlabs/PHP_CodeSniffer,PHP,2
+6660366,dompdf/dompdf,PHP,5
 212659,sebastianbergmann/php-code-coverage,PHP,1
-10238429,tennc/webshell,PHP,1
+10238429,tennc/webshell,PHP,2
 31295421,guzzle/psr7,PHP,1
 31295389,guzzle/promises,PHP,1
 75178811,phar-io/version,PHP,3
@@ -19,7 +19,7 @@ id,name,lang,new stars
 139191005,nunomaduro/larastan,PHP,1
 52596904,teamtnt/tntsearch,PHP,12
 69691727,pmmp/PocketMine-MP,PHP,2
-74026995,CodelyTV/php-ddd-example,PHP,1
+74026995,CodelyTV/php-ddd-example,PHP,2
 34407154,cweagans/composer-patches,PHP,1
 36024079,symfony/psr-http-message-bridge,PHP,0
 111507969,lonnieezell/myth-auth,PHP,0
