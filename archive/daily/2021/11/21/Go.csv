@@ -1,9 +1,9 @@
 id,name,lang,new stars
 41912791,v2ray/v2ray-core,Go,7
 15452919,ethereum/go-ethereum,Go,26
-61137153,evanw/esbuild,Go,32
+61137153,evanw/esbuild,Go,29
 3577919,beego/beego,Go,4
-119160553,photoprism/photoprism,Go,21
+119160553,photoprism/photoprism,Go,19
 107286889,schollz/croc,Go,18
 105279544,gocolly/colly,Go,10
 21233191,ipfs/go-ipfs,Go,4
@@ -12,7 +12,7 @@ id,name,lang,new stars
 62921553,rook/rook,Go,4
 136505169,tinygo-org/tinygo,Go,6
 311315731,XTLS/Xray-core,Go,13
-30219994,adonovan/gopl.io,Go,3
+30219994,adonovan/gopl.io,Go,2
 157245200,twpayne/chezmoi,Go,11
 93808874,bxcodec/go-clean-arch,Go,3
 291485614,XIU2/CloudflareSpeedTest,Go,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 188836864,ledgerwatch/erigon,Go,4
 191266671,algorand/go-algorand,Go,2
 411212454,tharsis/evmos,Go,6
-145102495,ElrondNetwork/elrond-go,Go,2
+145102495,ElrondNetwork/elrond-go,Go,0
 310632133,solana-labs/token-list,Go,6

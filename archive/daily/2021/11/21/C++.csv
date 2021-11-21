@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,31
+1181927,bitcoin/bitcoin,C++,35
 44838949,apple/swift,C++,11
 33791743,x64dbg/x64dbg,C++,8
 22067521,ocornut/imgui,C++,42
 116167731,yuzu-emu/yuzu,C++,11
-196813750,Light-City/CPlusPlusThings,C++,25
+196813750,Light-City/CPlusPlusThings,C++,36
 160083795,SerenityOS/serenity,C++,87
-3351871,qbittorrent/qBittorrent,C++,7
+3351871,qbittorrent/qBittorrent,C++,8
 26038648,gabime/spdlog,C++,46
-1217614,xbmc/xbmc,C++,4
+1217614,xbmc/xbmc,C++,3
 2200856,MarlinFirmware/Marlin,C++,4
 164782828,USTC-Resource/USTC-Course,C++,5
 6520784,RPCS3/rpcs3,C++,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 7512484,ArduPilot/ardupilot,C++,22
 5973855,CleverRaven/Cataclysm-DDA,C++,3
 14303048,mamedev/mame,C++,2
-143324737,diasurgical/devilutionX,C++,6
+143324737,diasurgical/devilutionX,C++,4
 10289758,Nevcairiel/LAVFilters,C++,7
-243394576,pixie-io/pixie,C++,20
-392565553,IntelLabs/control-flag,C++,11
+243394576,pixie-io/pixie,C++,19
+392565553,IntelLabs/control-flag,C++,10
 407814259,davidrmiller/biosim4,C++,107
-427967028,Kofybrek/Super-Mario-Bros,C++,80
+427967028,Kofybrek/Super-Mario-Bros,C++,81
 427460706,oXis/GPUSleep,C++,17
