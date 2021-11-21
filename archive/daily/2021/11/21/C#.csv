@@ -1,18 +1,18 @@
 id,name,lang,new stars
-29078997,dotnet/roslyn,C#,5
+29078997,dotnet/roslyn,C#,6
 198071756,huiyadanli/RevokeMsgPatcher,C#,16
-28239455,dotnet/AspNetCore.Docs,C#,4
-69673033,ardalis/CleanArchitecture,C#,88
+28239455,dotnet/AspNetCore.Docs,C#,5
+69673033,ardalis/CleanArchitecture,C#,84
 75505125,abpframework/abp,C#,4
 27251463,QuantConnect/Lean,C#,1
 54213490,xamarin/Xamarin.Forms,C#,0
-31335300,PrismLibrary/Prism,C#,2
+31335300,PrismLibrary/Prism,C#,1
 61403402,CommunityToolkit/WindowsCommunityToolkit,C#,7
-778828,MassTransit/MassTransit,C#,6
+778828,MassTransit/MassTransit,C#,5
 19216825,xamarin/xamarin-forms-samples,C#,0
 2928944,Azure/azure-sdk-for-net,C#,2
 151148482,elsa-workflows/elsa-core,C#,4
-341704034,microsoft/Power-Fx,C#,17
+341704034,microsoft/Power-Fx,C#,16
 21311240,kwsch/PKHeX,C#,17
 54377519,PiranhaCMS/piranha.core,C#,1
 239233346,ardalis/ApiEndpoints,C#,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 17496194,AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet,C#,0
 121407928,ardalis/Specification,C#,2
 173170791,dotnet/SqlClient,C#,0
-307049136,badamczewski/PowerUp,C#,19
+307049136,badamczewski/PowerUp,C#,21
 280840278,yaronzz/Tidal-Media-Downloader-PRO,C#,2
 419415576,CommunityToolkit/dotnet,C#,9
 349653337,laomms/KmsTool,C#,2
