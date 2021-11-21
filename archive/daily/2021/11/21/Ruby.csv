@@ -1,18 +1,18 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,11
-7569578,discourse/discourse,Ruby,7
+65252,jekyll/jekyll,Ruby,10
+7569578,discourse/discourse,Ruby,5
 8681349,huginn/huginn,Ruby,9
-53238813,Homebrew/brew,Ruby,23
+53238813,Homebrew/brew,Ruby,28
 21600440,bayandin/awesome-awesomeness,Ruby,5
-2293158,rapid7/metasploit-framework,Ruby,6
+2293158,rapid7/metasploit-framework,Ruby,4
 2500088,gitlabhq/gitlabhq,Ruby,1
-308770,heartcombo/devise,Ruby,1
-3623050,Homebrew/homebrew-cask,Ruby,4
+308770,heartcombo/devise,Ruby,2
+3623050,Homebrew/homebrew-cask,Ruby,3
 538746,ruby/ruby,Ruby,4
 1090311,elastic/logstash,Ruby,2
 4095287,rubocop/rubocop,Ruby,2
 3314,spree/spree,Ruby,0
-202291859,chatwoot/chatwoot,Ruby,4
+202291859,chatwoot/chatwoot,Ruby,5
 1918677,fluent/fluentd,Ruby,1
 96395,faker-ruby/faker,Ruby,4
 2441517,puma/puma,Ruby,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,0
 950915,urbanadventurer/WhatWeb,Ruby,0
 69813387,iberianpig/fusuma,Ruby,2
-103766152,github/explore,Ruby,3
-161399160,Shopify/shopify-cli,Ruby,1
+103766152,github/explore,Ruby,2
+161399160,Shopify/shopify-cli,Ruby,0
 109134055,elastic/apm-agent-ruby,Ruby,0
 48370306,elastic/ansible-beats,Ruby,0
