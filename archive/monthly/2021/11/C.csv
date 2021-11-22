@@ -1,20 +1,20 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1870
-111583593,Genymobile/scrcpy,C,1902
+2325298,torvalds/linux,C,1868
+111583593,Genymobile/scrcpy,C,1906
 36502,git/git,C,451
-13233158,obsproject/obs-studio,C,1576
+13233158,obsproject/obs-studio,C,1578
 1903522,php/php-src,C,990
 1614410,FFmpeg/FFmpeg,C,474
 62156403,QSCTech/zju-icicles,C,594
 102578345,coolsnowwolf/lede,C,495
 196353673,taosdata/TDengine,C,846
-6201092,mpv-player/mpv,C,593
-66150122,jarun/nnn,C,506
+6201092,mpv-player/mpv,C,592
+66150122,jarun/nnn,C,505
 5254557,cloudwu/skynet,C,114
-184909163,koekeishiya/yabai,C,1097
+184909163,koekeishiya/yabai,C,1098
 179354282,acidanthera/OpenCorePkg,C,313
 13836499,raysan5/raylib,C,624
-70127218,espressif/arduino-esp32,C,178
+70127218,espressif/arduino-esp32,C,177
 18106269,lz4/lz4,C,109
 192805335,microsoft/mimalloc,C,176
 187922067,microsoft/WSL2-Linux-Kernel,C,126
@@ -23,4 +23,4 @@ id,name,lang,new stars
 127023441,NVIDIA/cuda-samples,C,79
 238539562,checkra1n/pongoOS,C,79
 16648618,bitcoin-core/secp256k1,C,67
-356098390,WyvernTKC/cpuminer-gr-avx2,C,243
+356098390,WyvernTKC/cpuminer-gr-avx2,C,244
