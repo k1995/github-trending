@@ -3,16 +3,16 @@ id,name,lang,new stars
 12888993,home-assistant/core,Python,11
 5483330,soimort/you-get,Python,15
 114747226,deepfakes/faceswap,Python,8
-45680749,kholia/OSX-KVM,Python,14
-93947448,twintproject/twint,Python,12
-307260205,yt-dlp/yt-dlp,Python,68
+45680749,kholia/OSX-KVM,Python,12
+93947448,twintproject/twint,Python,14
+307260205,yt-dlp/yt-dlp,Python,67
 197153676,Chia-Network/chia-blockchain,Python,10
 640534,sympy/sympy,Python,5
 287463830,microsoft/qlib,Python,14
 62743585,spotDL/spotify-downloader,Python,13
 351432397,microsoft/Swin-Transformer,Python,18
 216525919,biancangming/wtv,Python,9
-235434204,benbusby/whoogle-search,Python,23
+235434204,benbusby/whoogle-search,Python,24
 19784232,mesonbuild/meson,Python,4
 188673950,yoshiko2/AV_Data_Capture,Python,5
 416630768,Footsiefat/zspotify,Python,11
@@ -22,5 +22,5 @@ id,name,lang,new stars
 315490189,dortania/OpenCore-Legacy-Patcher,Python,6
 396770997,JingyunLiang/SwinIR,Python,30
 402024218,Zy143L/wskey,Python,5
-394772335,tensorflow/gnn,Python,26
+394772335,tensorflow/gnn,Python,29
 416947996,mpcabete/bombcrypto-bot,Python,14

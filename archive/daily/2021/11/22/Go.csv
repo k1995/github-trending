@@ -3,11 +3,11 @@ id,name,lang,new stars
 15452919,ethereum/go-ethereum,Go,34
 61137153,evanw/esbuild,Go,14
 3577919,beego/beego,Go,3
-119160553,photoprism/photoprism,Go,21
+119160553,photoprism/photoprism,Go,22
 107286889,schollz/croc,Go,19
-105279544,gocolly/colly,Go,13
+105279544,gocolly/colly,Go,14
 21233191,ipfs/go-ipfs,Go,8
-116576783,bettercap/bettercap,Go,7
+116576783,bettercap/bettercap,Go,6
 62712899,AdguardTeam/AdGuardHome,Go,30
 62921553,rook/rook,Go,3
 136505169,tinygo-org/tinygo,Go,8
@@ -16,10 +16,10 @@ id,name,lang,new stars
 157245200,twpayne/chezmoi,Go,18
 93808874,bxcodec/go-clean-arch,Go,8
 291485614,XIU2/CloudflareSpeedTest,Go,3
-323965659,Xhofe/alist,Go,6
+323965659,Xhofe/alist,Go,9
 265775217,binance-chain/bsc,Go,9
 246387644,ava-labs/avalanchego,Go,52
-188836864,ledgerwatch/erigon,Go,5
+188836864,ledgerwatch/erigon,Go,6
 191266671,algorand/go-algorand,Go,5
 411212454,tharsis/evmos,Go,5
 145102495,ElrondNetwork/elrond-go,Go,1
