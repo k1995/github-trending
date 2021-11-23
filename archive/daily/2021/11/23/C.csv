@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,74
-10744183,netdata/netdata,C,12
-1903522,php/php-src,C,44
-3774328,wg/wrk,C,14
-1357796,emscripten-core/emscripten,C,9
+2325298,torvalds/linux,C,70
+10744183,netdata/netdata,C,15
+1903522,php/php-src,C,43
+3774328,wg/wrk,C,15
+1357796,emscripten-core/emscripten,C,10
 102578345,coolsnowwolf/lede,C,30
 184981,memcached/memcached,C,4
-65899476,espressif/esp-idf,C,4
+65899476,espressif/esp-idf,C,5
 16734696,meetecho/janus-gateway,C,9
-537699,Kitware/CMake,C,3
+537699,Kitware/CMake,C,5
 108110706,tporadowski/redis,C,6
 146397768,ithewei/libhv,C,11
 327491895,peng-zhihui/HoloCubic,C,11
@@ -17,10 +17,10 @@ id,name,lang,new stars
 34807561,nanopb/nanopb,C,1
 214011414,kingToolbox/WindTerm,C,6
 401508496,M2Team/NanaZip,C,11
-265237968,nining377/dolby_beta,C,12
-343862270,Mr-Un1k0d3r/EDRs,C,16
+265237968,nining377/dolby_beta,C,13
+343862270,Mr-Un1k0d3r/EDRs,C,20
 403204180,peng-zhihui/OpenHeat,C,3
 121516035,nrfconnect/sdk-nrf,C,0
 110072728,DeepBCI/Deep-BCI,C,0
-383940088,ShadowMario/FNF-PsychEngine,C,4
+383940088,ShadowMario/FNF-PsychEngine,C,5
 430216978,z64proto/sw97,C,14
