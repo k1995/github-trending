@@ -4,7 +4,7 @@ id,name,lang,new stars
 458058,symfony/symfony,PHP,168
 7548986,laravel/framework,PHP,324
 1631570,nikic/PHP-Parser,PHP,116
-1305114,roots/sage,PHP,65
+1305114,roots/sage,PHP,64
 79111500,jupeter/clean-code-php,PHP,413
 15020102,walkor/Workerman,PHP,79
 11467667,typecho/typecho,PHP,109
@@ -12,10 +12,10 @@ id,name,lang,new stars
 21298446,firefly-iii/firefly-iii,PHP,238
 6763587,PrestaShop/PrestaShop,PHP,61
 4242230,PHPOffice/PHPWord,PHP,180
-9791525,digininja/DVWA,PHP,96
-97311017,rectorphp/rector,PHP,144
-60010673,elementor/elementor,PHP,99
-159606650,hyperf/hyperf,PHP,86
+9791525,digininja/DVWA,PHP,98
+97311017,rectorphp/rector,PHP,143
+60010673,elementor/elementor,PHP,100
+159606650,hyperf/hyperf,PHP,85
 4224042,roundcube/roundcubemail,PHP,56
 41463886,codeigniter4/CodeIgniter4,PHP,71
 139191005,nunomaduro/larastan,PHP,385
