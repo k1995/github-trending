@@ -1,16 +1,16 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,63
-7569578,discourse/discourse,Ruby,67
-27442967,fastlane/fastlane,Ruby,53
-53238813,Homebrew/brew,Ruby,173
+7569578,discourse/discourse,Ruby,68
+27442967,fastlane/fastlane,Ruby,56
+53238813,Homebrew/brew,Ruby,174
 21600440,bayandin/awesome-awesomeness,Ruby,33
-2293158,rapid7/metasploit-framework,Ruby,74
-3623050,Homebrew/homebrew-cask,Ruby,34
-1090311,elastic/logstash,Ruby,10
-4095287,rubocop/rubocop,Ruby,14
+2293158,rapid7/metasploit-framework,Ruby,72
+3623050,Homebrew/homebrew-cask,Ruby,35
+1090311,elastic/logstash,Ruby,11
+4095287,rubocop/rubocop,Ruby,15
 202291859,chatwoot/chatwoot,Ruby,50
-96395,faker-ruby/faker,Ruby,18
-15435,Shopify/liquid,Ruby,27
+96395,faker-ruby/faker,Ruby,19
+15435,Shopify/liquid,Ruby,29
 611921,activeadmin/activeadmin,Ruby,4
 1548802,activerecord-hackery/ransack,Ruby,12
 30337170,rmosolgo/graphql-ruby,Ruby,11
@@ -19,7 +19,7 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,10
 103766152,github/explore,Ruby,26
 11426474,github/choosealicense.com,Ruby,13
-93163073,dependabot/dependabot-core,Ruby,24
+93163073,dependabot/dependabot-core,Ruby,23
 200302808,github/view_component,Ruby,18
 34840276,elastic/ansible-elasticsearch,Ruby,4
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,10
