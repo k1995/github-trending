@@ -1,13 +1,13 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,243
+65252,jekyll/jekyll,Ruby,241
 7569578,discourse/discourse,Ruby,235
 27442967,fastlane/fastlane,Ruby,226
-53238813,Homebrew/brew,Ruby,608
-13840241,freeCodeCamp/devdocs,Ruby,275
-481872,hashicorp/vagrant,Ruby,240
+53238813,Homebrew/brew,Ruby,610
+13840241,freeCodeCamp/devdocs,Ruby,273
+481872,hashicorp/vagrant,Ruby,242
 3623050,Homebrew/homebrew-cask,Ruby,137
-538746,ruby/ruby,Ruby,135
-73648678,forem/forem,Ruby,483
+538746,ruby/ruby,Ruby,136
+73648678,forem/forem,Ruby,481
 1090311,elastic/logstash,Ruby,64
 4095287,rubocop/rubocop,Ruby,48
 52855516,Homebrew/homebrew-core,Ruby,290
@@ -17,7 +17,7 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,79
 1952825,Homebrew/homebrew-bundle,Ruby,72
 103766152,github/explore,Ruby,98
-93163073,dependabot/dependabot-core,Ruby,85
+93163073,dependabot/dependabot-core,Ruby,86
 15171934,Homebrew/homebrew-cask-fonts,Ruby,27
 200302808,github/view_component,Ruby,65
 55288882,d12frosted/homebrew-emacs-plus,Ruby,51
