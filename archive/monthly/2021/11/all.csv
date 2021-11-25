@@ -1,26 +1,26 @@
 id,name,lang,new stars
-6498492,airbnb/javascript,JavaScript,1640
 70107786,vercel/next.js,JavaScript,2412
 1181927,bitcoin/bitcoin,C++,1472
+111583593,Genymobile/scrcpy,C,1942
 19872456,remix-run/react-router,TypeScript,727
-53238813,Homebrew/brew,Ruby,610
-101138315,d2l-ai/d2l-zh,Python,1892
-13862381,DrKLO/Telegram,Java,561
-115110181,swc-project/swc,Rust,2169
+101138315,d2l-ai/d2l-zh,Python,1891
+13862381,DrKLO/Telegram,Java,559
+115110181,swc-project/swc,Rust,2167
 14981376,dogecoin/dogecoin,C++,483
 184909163,koekeishiya/yabai,C,1218
-69673033,ardalis/CleanArchitecture,C#,701
 130430977,kubesphere/kubesphere,Go,895
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,3790
+344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,3792
 19257422,questdb/questdb,Java,2246
-128636610,Koenkk/zigbee2mqtt,JavaScript,492
+128636610,Koenkk/zigbee2mqtt,JavaScript,491
+42009758,MetaMask/metamask-extension,JavaScript,383
 88327406,xmrig/xmrig,C++,436
-370977430,OpenIMSDK/Open-IM-Server,Go,3618
-421001366,DouyinFE/semi-design,TypeScript,4625
+370977430,OpenIMSDK/Open-IM-Server,Go,3622
+421001366,DouyinFE/semi-design,TypeScript,4627
 382378702,modern-js-dev/modern.js,TypeScript,1674
-247288642,adiwajshing/Baileys,JavaScript,302
-406091035,HashLips/hashlips_art_engine,JavaScript,805
-382756807,TechXueXi/TechXueXi,Python,619
-366352205,zero205/JD_tencent_scf,JavaScript,989
-390327676,Janspiry/Image-Super-Resolution-via-Iterative-Refinement,Python,1200
-310632133,solana-labs/token-list,Go,199
+420868305,arco-design/arco-design,TypeScript,2125
+247288642,adiwajshing/Baileys,JavaScript,303
+406091035,HashLips/hashlips_art_engine,JavaScript,803
+288524849,devMEremenko/XcodeBenchmark,Swift,579
+366352205,zero205/JD_tencent_scf,JavaScript,988
+265775217,binance-chain/bsc,Go,153
+310632133,solana-labs/token-list,Go,200
