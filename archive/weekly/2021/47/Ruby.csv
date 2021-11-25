@@ -1,15 +1,15 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,58
-7569578,discourse/discourse,Ruby,70
-27442967,fastlane/fastlane,Ruby,54
-53238813,Homebrew/brew,Ruby,176
-21600440,bayandin/awesome-awesomeness,Ruby,34
-2293158,rapid7/metasploit-framework,Ruby,71
-3623050,Homebrew/homebrew-cask,Ruby,35
+7569578,discourse/discourse,Ruby,69
+27442967,fastlane/fastlane,Ruby,53
+53238813,Homebrew/brew,Ruby,177
+21600440,bayandin/awesome-awesomeness,Ruby,35
+2293158,rapid7/metasploit-framework,Ruby,73
+3623050,Homebrew/homebrew-cask,Ruby,37
 1090311,elastic/logstash,Ruby,11
 4095287,rubocop/rubocop,Ruby,15
 202291859,chatwoot/chatwoot,Ruby,50
-96395,faker-ruby/faker,Ruby,18
+96395,faker-ruby/faker,Ruby,19
 15435,Shopify/liquid,Ruby,30
 611921,activeadmin/activeadmin,Ruby,4
 1548802,activerecord-hackery/ransack,Ruby,12
@@ -17,7 +17,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,11
 2981455,github/gemoji,Ruby,5
 614070,rubygems/rubygems,Ruby,10
-103766152,github/explore,Ruby,27
+103766152,github/explore,Ruby,26
 11426474,github/choosealicense.com,Ruby,12
 93163073,dependabot/dependabot-core,Ruby,24
 200302808,github/view_component,Ruby,18
