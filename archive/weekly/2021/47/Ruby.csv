@@ -1,14 +1,14 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,58
-7569578,discourse/discourse,Ruby,67
+65252,jekyll/jekyll,Ruby,56
+7569578,discourse/discourse,Ruby,65
 27442967,fastlane/fastlane,Ruby,52
-53238813,Homebrew/brew,Ruby,178
-21600440,bayandin/awesome-awesomeness,Ruby,36
-2293158,rapid7/metasploit-framework,Ruby,71
+53238813,Homebrew/brew,Ruby,177
+21600440,bayandin/awesome-awesomeness,Ruby,37
+2293158,rapid7/metasploit-framework,Ruby,69
 3623050,Homebrew/homebrew-cask,Ruby,36
-1090311,elastic/logstash,Ruby,11
+1090311,elastic/logstash,Ruby,10
 4095287,rubocop/rubocop,Ruby,15
-202291859,chatwoot/chatwoot,Ruby,49
+202291859,chatwoot/chatwoot,Ruby,47
 96395,faker-ruby/faker,Ruby,19
 15435,Shopify/liquid,Ruby,29
 611921,activeadmin/activeadmin,Ruby,4
@@ -17,10 +17,10 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,11
 2981455,github/gemoji,Ruby,5
 614070,rubygems/rubygems,Ruby,10
-103766152,github/explore,Ruby,26
+103766152,github/explore,Ruby,24
 11426474,github/choosealicense.com,Ruby,11
-93163073,dependabot/dependabot-core,Ruby,25
-200302808,github/view_component,Ruby,17
-34840276,elastic/ansible-elasticsearch,Ruby,4
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,8
+93163073,dependabot/dependabot-core,Ruby,23
+200302808,github/view_component,Ruby,16
+34840276,elastic/ansible-elasticsearch,Ruby,3
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,7
 48370306,elastic/ansible-beats,Ruby,1
