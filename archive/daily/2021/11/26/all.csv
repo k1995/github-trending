@@ -1,26 +1,26 @@
 id,name,lang,new stars
-70107786,vercel/next.js,JavaScript,198
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,279
-1903522,php/php-src,C,98
-17728164,hashicorp/terraform,Go,133
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,303
-7548986,laravel/framework,PHP,72
-64700934,OpenZeppelin/openzeppelin-contracts,JavaScript,77
-143455116,google/filament,C++,238
-192147515,fangzesheng/free-api,,397
-42009758,MetaMask/metamask-extension,JavaScript,77
-307489284,remix-run/remix,TypeScript,768
-217475193,PaddlePaddle/PaddleDetection,Python,192
-234739976,medusajs/medusa,JavaScript,320
-89033556,firebase/firebase-ios-sdk,Objective-C,35
-153097643,openvinotoolkit/openvino,C++,39
-423249525,AsyncBanana/microdiff,JavaScript,89
-339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,72
-401446691,saic-mdal/lama,Jupyter Notebook,96
-379635294,Shopify/dawn,Liquid,69
-430474165,klinix5/InstallerFileTakeOver,C++,203
-417141259,ethereum-boilerplate/ethereum-boilerplate,JavaScript,58
-111565250,mRs-/Black-Friday-Deals,Swift,56
-248697283,ethereum/remix-project,JavaScript,39
-427260190,toitlang/toit,C++,94
-427532379,ming1016/SwiftPamphletApp,Swift,53
+70107786,vercel/next.js,JavaScript,172
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,278
+1903522,php/php-src,C,99
+17728164,hashicorp/terraform,Go,110
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,340
+7548986,laravel/framework,PHP,62
+64700934,OpenZeppelin/openzeppelin-contracts,JavaScript,82
+143455116,google/filament,C++,263
+192147515,fangzesheng/free-api,,417
+42009758,MetaMask/metamask-extension,JavaScript,60
+307489284,remix-run/remix,TypeScript,764
+217475193,PaddlePaddle/PaddleDetection,Python,195
+234739976,medusajs/medusa,JavaScript,322
+89033556,firebase/firebase-ios-sdk,Objective-C,9
+153097643,openvinotoolkit/openvino,C++,46
+423249525,AsyncBanana/microdiff,JavaScript,111
+339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,65
+401446691,saic-mdal/lama,Jupyter Notebook,100
+379635294,Shopify/dawn,Liquid,48
+430474165,klinix5/InstallerFileTakeOver,C++,207
+417141259,ethereum-boilerplate/ethereum-boilerplate,JavaScript,53
+111565250,mRs-/Black-Friday-Deals,Swift,89
+248697283,ethereum/remix-project,JavaScript,53
+427260190,toitlang/toit,C++,103
+427532379,ming1016/SwiftPamphletApp,Swift,81
