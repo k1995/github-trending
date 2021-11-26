@@ -1,9 +1,9 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,2
+2579314,fzaninotto/Faker,PHP,1
 458058,symfony/symfony,PHP,9
-7548986,laravel/framework,PHP,62
-1420053,guzzle/guzzle,PHP,3
-1376664,Seldaek/monolog,PHP,9
+7548986,laravel/framework,PHP,72
+1420053,guzzle/guzzle,PHP,4
+1376664,Seldaek/monolog,PHP,8
 448045,sebastianbergmann/phpunit,PHP,8
 1631570,nikic/PHP-Parser,PHP,7
 3431193,yiisoft/yii2,PHP,4
@@ -19,8 +19,8 @@ id,name,lang,new stars
 4242230,PHPOffice/PHPWord,PHP,1
 74386167,vimeo/psalm,PHP,4
 60010673,elementor/elementor,PHP,0
-159606650,hyperf/hyperf,PHP,4
+159606650,hyperf/hyperf,PHP,3
 14735403,yajra/laravel-datatables,PHP,2
-439861,moodle/moodle,PHP,0
+439861,moodle/moodle,PHP,1
 73220421,aonez/Keka,PHP,10
-330980599,yanfeizhang/coder-kung-fu,PHP,13
+330980599,yanfeizhang/coder-kung-fu,PHP,11

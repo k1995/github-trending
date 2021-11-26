@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,93
-3482588,danielmiessler/SecLists,PHP,165
+1863329,laravel/laravel,PHP,94
+3482588,danielmiessler/SecLists,PHP,164
 1420053,guzzle/guzzle,PHP,30
 1376664,Seldaek/monolog,PHP,38
-60243197,nextcloud/server,PHP,78
+60243197,nextcloud/server,PHP,80
 1631570,nikic/PHP-Parser,PHP,33
 12615154,barryvdh/laravel-debugbar,PHP,29
 1305114,roots/sage,PHP,25
@@ -14,10 +14,10 @@ id,name,lang,new stars
 12166778,googleapis/google-api-php-client,PHP,24
 33904351,laravel/lumen,PHP,19
 2179920,woocommerce/woocommerce,PHP,20
-291805291,laravel/jetstream,PHP,12
+291805291,laravel/jetstream,PHP,13
 38200433,jeroennoten/Laravel-AdminLTE,PHP,13
-182349597,jqhph/dcat-admin,PHP,17
-73781385,orchidsoftware/platform,PHP,20
+182349597,jqhph/dcat-admin,PHP,16
+73781385,orchidsoftware/platform,PHP,19
 39182755,glpi-project/glpi,PHP,14
 74026995,CodelyTV/php-ddd-example,PHP,18
 248372441,laravel-filament/filament,PHP,42
