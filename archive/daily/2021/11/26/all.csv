@@ -1,26 +1,26 @@
 id,name,lang,new stars
-70107786,vercel/next.js,JavaScript,172
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,278
-1903522,php/php-src,C,99
-17728164,hashicorp/terraform,Go,110
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,340
-7548986,laravel/framework,PHP,62
-64700934,OpenZeppelin/openzeppelin-contracts,JavaScript,82
-143455116,google/filament,C++,263
+75104123,prettier/prettier,JavaScript,14
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,260
+8859474,skylot/jadx,Java,27
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,322
+458058,symfony/symfony,PHP,8
+134017286,jesseduffield/lazygit,Go,179
+92807616,byoungd/English-level-up-tips-for-Chinese,,84
+179613976,PKUanonym/REKCARC-TSC-UHT,HTML,42
+144705602,didi/DoraemonKit,Java,5
+85541218,ascoders/weekly,JavaScript,70
+143455116,google/filament,C++,238
 192147515,fangzesheng/free-api,,417
-42009758,MetaMask/metamask-extension,JavaScript,60
-307489284,remix-run/remix,TypeScript,764
-217475193,PaddlePaddle/PaddleDetection,Python,195
-234739976,medusajs/medusa,JavaScript,322
-89033556,firebase/firebase-ios-sdk,Objective-C,9
+44971752,ethereum/EIPs,Solidity,20
+227978903,vueuse/vueuse,TypeScript,26
+307489284,remix-run/remix,TypeScript,775
+217475193,PaddlePaddle/PaddleDetection,Python,176
+419991646,mli/paper-reading,,90
+234739976,medusajs/medusa,JavaScript,316
+89033556,firebase/firebase-ios-sdk,Objective-C,36
 153097643,openvinotoolkit/openvino,C++,46
-423249525,AsyncBanana/microdiff,JavaScript,111
-339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,65
-401446691,saic-mdal/lama,Jupyter Notebook,100
-379635294,Shopify/dawn,Liquid,48
+431433455,phoboslab/qoi,C,325
 430474165,klinix5/InstallerFileTakeOver,C++,207
-417141259,ethereum-boilerplate/ethereum-boilerplate,JavaScript,53
-111565250,mRs-/Black-Friday-Deals,Swift,89
-248697283,ethereum/remix-project,JavaScript,53
-427260190,toitlang/toit,C++,103
-427532379,ming1016/SwiftPamphletApp,Swift,81
+295369297,sogou/srpc,C++,19
+384111310,merico-dev/lake,Go,141
+413177641,jvdutra/open-source-rpg,JavaScript,14

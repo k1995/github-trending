@@ -1,26 +1,26 @@
 id,name,lang,new stars
-123458551,jackfrued/Python-100-Days,Python,898
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,1365
-203587744,hoppscotch/hoppscotch,Vue,995
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1268
+123458551,jackfrued/Python-100-Days,Python,895
+203587744,hoppscotch/hoppscotch,Vue,973
+60630844,microsoft/monaco-editor,JavaScript,187
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1281
 196813750,Light-City/CPlusPlusThings,C++,420
-160083795,SerenityOS/serenity,C++,336
-65848095,Requarks/wiki,Vue,704
+160083795,SerenityOS/serenity,C++,315
+143455116,google/filament,C++,507
 148496687,YunaiV/SpringBoot-Labs,Java,163
-184909163,koekeishiya/yabai,C,380
-377496562,AppFlowy-IO/appflowy,Rust,3536
-287463830,microsoft/qlib,Python,218
-190729906,Budibase/budibase,JavaScript,1090
+184909163,koekeishiya/yabai,C,487
+69673033,ardalis/CleanArchitecture,C#,434
+130375797,dmlc/dgl,Python,123
+377496562,AppFlowy-IO/appflowy,Rust,3520
+287463830,microsoft/qlib,Python,220
+190729906,Budibase/budibase,JavaScript,1108
 83380995,dotnet-architecture/eShopOnWeb,C#,133
-301793434,mattermost/focalboard,TypeScript,604
+301793434,mattermost/focalboard,TypeScript,591
 202693400,rougier/scientific-visualization-book,Python,1082
-123807729,jaakkopasanen/AutoEq,Jupyter Notebook,248
-245235133,microsoft/reverse-proxy,C#,222
-234739976,medusajs/medusa,JavaScript,1776
-285618804,Kyome22/RunCat_for_windows,C#,447
-425159471,sunym1993/flash-linux0.11-talk,C,792
-285840886,TachibanaYoshino/AnimeGANv2,Python,620
-165670309,tannerlinsley/react-location,TypeScript,354
-265775217,binance-chain/bsc,Go,65
-411212454,tharsis/evmos,Go,103
-341376033,OlympusDAO/olympus-contracts,Solidity,61
+123807729,jaakkopasanen/AutoEq,Jupyter Notebook,251
+234739976,medusajs/medusa,JavaScript,1822
+365739812,tldraw/tldraw,TypeScript,2214
+285840886,TachibanaYoshino/AnimeGANv2,Python,587
+165670309,tannerlinsley/react-location,TypeScript,361
+407814259,davidrmiller/biosim4,C++,747
+246387644,ava-labs/avalanchego,Go,236
+341376033,OlympusDAO/olympus-contracts,Solidity,60
