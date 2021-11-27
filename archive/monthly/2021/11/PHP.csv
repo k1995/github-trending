@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,450
+1863329,laravel/laravel,PHP,449
 3482588,danielmiessler/SecLists,PHP,671
-458058,symfony/symfony,PHP,200
-7548986,laravel/framework,PHP,419
+458058,symfony/symfony,PHP,203
+7548986,laravel/framework,PHP,418
 60243197,nextcloud/server,PHP,325
 1631570,nikic/PHP-Parser,PHP,125
 1305114,roots/sage,PHP,66
 79111500,jupeter/clean-code-php,PHP,410
 2884111,magento/magento2,PHP,73
 15020102,walkor/Workerman,PHP,83
-677464,doctrine/dbal,PHP,91
+677464,doctrine/dbal,PHP,92
 11467667,typecho/typecho,PHP,111
 2179920,woocommerce/woocommerce,PHP,87
 21298446,firefly-iii/firefly-iii,PHP,232
@@ -22,5 +22,5 @@ id,name,lang,new stars
 41463886,codeigniter4/CodeIgniter4,PHP,72
 139191005,nunomaduro/larastan,PHP,385
 286645686,yuantuo666/baiduwp-php,PHP,164
-29501260,api-platform/core,PHP,32
+29501260,api-platform/core,PHP,33
 75645659,WordPress/wordpress-develop,PHP,154

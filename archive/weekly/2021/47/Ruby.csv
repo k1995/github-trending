@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,50
-65252,jekyll/jekyll,Ruby,54
+65252,jekyll/jekyll,Ruby,55
 7569578,discourse/discourse,Ruby,65
 27442967,fastlane/fastlane,Ruby,43
-53238813,Homebrew/brew,Ruby,165
-21600440,bayandin/awesome-awesomeness,Ruby,34
-2293158,rapid7/metasploit-framework,Ruby,60
-481872,hashicorp/vagrant,Ruby,44
+53238813,Homebrew/brew,Ruby,166
+21600440,bayandin/awesome-awesomeness,Ruby,35
+2293158,rapid7/metasploit-framework,Ruby,61
+481872,hashicorp/vagrant,Ruby,43
 308770,heartcombo/devise,Ruby,24
-538746,ruby/ruby,Ruby,41
+538746,ruby/ruby,Ruby,40
 1090311,elastic/logstash,Ruby,16
-4095287,rubocop/rubocop,Ruby,13
+4095287,rubocop/rubocop,Ruby,12
 96395,faker-ruby/faker,Ruby,14
 15435,Shopify/liquid,Ruby,22
 451035,heartcombo/simple_form,Ruby,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,13
 200302808,github/view_component,Ruby,15
 34840276,elastic/ansible-elasticsearch,Ruby,3
-161399160,Shopify/shopify-cli,Ruby,8
+161399160,Shopify/shopify-cli,Ruby,11
