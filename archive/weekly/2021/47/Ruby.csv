@@ -1,18 +1,18 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,50
 65252,jekyll/jekyll,Ruby,55
-7569578,discourse/discourse,Ruby,63
+7569578,discourse/discourse,Ruby,62
 27442967,fastlane/fastlane,Ruby,41
 53238813,Homebrew/brew,Ruby,166
-21600440,bayandin/awesome-awesomeness,Ruby,35
-2293158,rapid7/metasploit-framework,Ruby,60
-481872,hashicorp/vagrant,Ruby,43
-308770,heartcombo/devise,Ruby,22
-538746,ruby/ruby,Ruby,39
+21600440,bayandin/awesome-awesomeness,Ruby,37
+2293158,rapid7/metasploit-framework,Ruby,59
+481872,hashicorp/vagrant,Ruby,44
+308770,heartcombo/devise,Ruby,21
+538746,ruby/ruby,Ruby,38
 1090311,elastic/logstash,Ruby,16
 4095287,rubocop/rubocop,Ruby,12
 96395,faker-ruby/faker,Ruby,13
-15435,Shopify/liquid,Ruby,21
+15435,Shopify/liquid,Ruby,22
 451035,heartcombo/simple_form,Ruby,4
 6899875,opf/openproject,Ruby,13
 1548802,activerecord-hackery/ransack,Ruby,11
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,13
 200302808,github/view_component,Ruby,14
 34840276,elastic/ansible-elasticsearch,Ruby,3
-161399160,Shopify/shopify-cli,Ruby,14
+161399160,Shopify/shopify-cli,Ruby,18
