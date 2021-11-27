@@ -1,26 +1,26 @@
 id,name,lang,new stars
-70107786,vercel/next.js,JavaScript,2531
+70107786,vercel/next.js,JavaScript,2527
 1181927,bitcoin/bitcoin,C++,1494
-19872456,remix-run/react-router,TypeScript,753
-101138315,d2l-ai/d2l-zh,Python,1925
+19872456,remix-run/react-router,TypeScript,756
+101138315,d2l-ai/d2l-zh,Python,1922
 13862381,DrKLO/Telegram,Java,566
-115110181,swc-project/swc,Rust,2026
-107286889,schollz/croc,Go,2204
-196813750,Light-City/CPlusPlusThings,C++,973
-14981376,dogecoin/dogecoin,C++,483
-184909163,koekeishiya/yabai,C,1222
+115110181,swc-project/swc,Rust,2008
+107286889,schollz/croc,Go,2205
+196813750,Light-City/CPlusPlusThings,C++,972
+14981376,dogecoin/dogecoin,C++,484
+184909163,koekeishiya/yabai,C,1226
 69673033,ardalis/CleanArchitecture,C#,729
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,3814
-19257422,questdb/questdb,Java,2267
-128636610,Koenkk/zigbee2mqtt,JavaScript,494
-420459569,github/copilot-docs,Python,5681
-42009758,MetaMask/metamask-extension,JavaScript,479
-88327406,xmrig/xmrig,C,437
-370977430,OpenIMSDK/Open-IM-Server,Go,3650
-420868305,arco-design/arco-design,TypeScript,1575
-247288642,adiwajshing/Baileys,JavaScript,309
-406091035,HashLips/hashlips_art_engine,JavaScript,772
-366352205,zero205/JD_tencent_scf,JavaScript,948
-288524849,devMEremenko/XcodeBenchmark,Swift,513
+344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,3815
+19257422,questdb/questdb,Java,2272
+128636610,Koenkk/zigbee2mqtt,JavaScript,496
+420459569,github/copilot-docs,Python,5616
+42009758,MetaMask/metamask-extension,JavaScript,480
+88327406,xmrig/xmrig,C,439
+370977430,OpenIMSDK/Open-IM-Server,Go,3646
+420868305,arco-design/arco-design,TypeScript,1505
+247288642,adiwajshing/Baileys,JavaScript,310
+406091035,HashLips/hashlips_art_engine,JavaScript,770
+366352205,zero205/JD_tencent_scf,JavaScript,934
+288524849,devMEremenko/XcodeBenchmark,Swift,502
 265775217,binance-chain/bsc,Go,158
 310632133,solana-labs/token-list,Go,203

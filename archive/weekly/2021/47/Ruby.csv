@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,50
-65252,jekyll/jekyll,Ruby,55
-7569578,discourse/discourse,Ruby,62
-27442967,fastlane/fastlane,Ruby,41
-53238813,Homebrew/brew,Ruby,166
-21600440,bayandin/awesome-awesomeness,Ruby,37
-2293158,rapid7/metasploit-framework,Ruby,59
-481872,hashicorp/vagrant,Ruby,44
+8514,rails/rails,Ruby,48
+65252,jekyll/jekyll,Ruby,54
+7569578,discourse/discourse,Ruby,61
+27442967,fastlane/fastlane,Ruby,42
+53238813,Homebrew/brew,Ruby,163
+21600440,bayandin/awesome-awesomeness,Ruby,38
+2293158,rapid7/metasploit-framework,Ruby,60
+481872,hashicorp/vagrant,Ruby,43
 308770,heartcombo/devise,Ruby,21
 538746,ruby/ruby,Ruby,38
 1090311,elastic/logstash,Ruby,16
@@ -17,10 +17,10 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,13
 1548802,activerecord-hackery/ransack,Ruby,11
 30337170,rmosolgo/graphql-ruby,Ruby,10
-30985840,solidusio/solidus,Ruby,12
-103766152,github/explore,Ruby,18
+30985840,solidusio/solidus,Ruby,13
+103766152,github/explore,Ruby,19
 81134943,Shopify/bootsnap,Ruby,6
 1175581,citation-style-language/styles,Ruby,13
 200302808,github/view_component,Ruby,14
 34840276,elastic/ansible-elasticsearch,Ruby,3
-161399160,Shopify/shopify-cli,Ruby,18
+161399160,Shopify/shopify-cli,Ruby,19
