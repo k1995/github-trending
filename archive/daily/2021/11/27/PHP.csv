@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2579314,fzaninotto/Faker,PHP,2
+2579314,fzaninotto/Faker,PHP,3
 458058,symfony/symfony,PHP,42
-7548986,laravel/framework,PHP,54
-1376664,Seldaek/monolog,PHP,8
+7548986,laravel/framework,PHP,37
+1376664,Seldaek/monolog,PHP,9
 448045,sebastianbergmann/phpunit,PHP,5
 2253830,PHPMailer/PHPMailer,PHP,9
 1548202,matomo-org/matomo,PHP,2
@@ -14,13 +14,13 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,3
 677464,doctrine/dbal,PHP,4
 6660366,dompdf/dompdf,PHP,1
-330275,twigphp/Twig,PHP,7
-2717549,Sylius/Sylius,PHP,2
+330275,twigphp/Twig,PHP,6
+2717549,Sylius/Sylius,PHP,1
 10371103,Laravel-Lang/lang,PHP,5
 6763587,PrestaShop/PrestaShop,PHP,1
 95011974,akaunting/akaunting,PHP,3
 74386167,vimeo/psalm,PHP,4
-41463886,codeigniter4/CodeIgniter4,PHP,4
+41463886,codeigniter4/CodeIgniter4,PHP,3
 29501260,api-platform/core,PHP,3
 74026995,CodelyTV/php-ddd-example,PHP,3
-330980599,yanfeizhang/coder-kung-fu,PHP,7
+330980599,yanfeizhang/coder-kung-fu,PHP,6
