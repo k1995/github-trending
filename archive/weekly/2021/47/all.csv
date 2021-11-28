@@ -1,7 +1,7 @@
 id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,175
 15204860,papers-we-love/papers-we-love,Shell,251
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,1652
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,1643
 343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1782
 160083795,SerenityOS/serenity,C++,176
 202367615,lyswhut/lx-music-desktop,JavaScript,143
@@ -11,16 +11,16 @@ id,name,lang,new stars
 377496562,AppFlowy-IO/appflowy,Rust,1797
 299482335,withfig/autocomplete,TypeScript,396
 287463830,microsoft/qlib,Python,244
-283410102,sogou/workflow,C++,158
-123807729,jaakkopasanen/AutoEq,Jupyter Notebook,285
+283410102,sogou/workflow,C++,157
+123807729,jaakkopasanen/AutoEq,Jupyter Notebook,288
 217475193,PaddlePaddle/PaddleDetection,Python,611
 234739976,medusajs/medusa,JavaScript,2063
-365739812,tldraw/tldraw,TypeScript,1514
-89033556,firebase/firebase-ios-sdk,Objective-C,95
+365739812,tldraw/tldraw,TypeScript,1366
+89033556,firebase/firebase-ios-sdk,Objective-C,94
 339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,648
 345944794,dreamhead/patterns-of-distributed-systems,,1182
 401446691,saic-mdal/lama,Jupyter Notebook,554
-407814259,davidrmiller/biosim4,C++,516
-427625642,pengzhiliang/MAE-pytorch,Python,321
-394772335,tensorflow/gnn,Python,182
+407814259,davidrmiller/biosim4,C++,499
+427625642,pengzhiliang/MAE-pytorch,Python,311
+394772335,tensorflow/gnn,Python,172
 341376033,OlympusDAO/olympus-contracts,Solidity,66
