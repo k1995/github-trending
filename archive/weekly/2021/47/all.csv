@@ -1,26 +1,26 @@
 id,name,lang,new stars
-23357588,protocolbuffers/protobuf,C++,175
-15204860,papers-we-love/papers-we-love,Shell,251
+23357588,protocolbuffers/protobuf,C++,174
+15204860,papers-we-love/papers-we-love,Shell,252
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,1656
 343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1782
-160083795,SerenityOS/serenity,C++,176
-202367615,lyswhut/lx-music-desktop,JavaScript,143
-143455116,google/filament,C++,771
-307260205,yt-dlp/yt-dlp,Python,871
+160083795,SerenityOS/serenity,C++,162
+202367615,lyswhut/lx-music-desktop,JavaScript,142
+143455116,google/filament,C++,772
+307260205,yt-dlp/yt-dlp,Python,872
 130375797,dmlc/dgl,Python,128
-377496562,AppFlowy-IO/appflowy,Rust,1797
-299482335,withfig/autocomplete,TypeScript,378
-287463830,microsoft/qlib,Python,244
-283410102,sogou/workflow,C++,158
+377496562,AppFlowy-IO/appflowy,Rust,1670
+299482335,withfig/autocomplete,TypeScript,355
+287463830,microsoft/qlib,Python,245
+283410102,sogou/workflow,C++,159
 123807729,jaakkopasanen/AutoEq,Jupyter Notebook,285
-217475193,PaddlePaddle/PaddleDetection,Python,611
-234739976,medusajs/medusa,JavaScript,2064
-365739812,tldraw/tldraw,TypeScript,1514
+217475193,PaddlePaddle/PaddleDetection,Python,607
+234739976,medusajs/medusa,JavaScript,2063
+365739812,tldraw/tldraw,TypeScript,1510
 89033556,firebase/firebase-ios-sdk,Objective-C,95
-339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,648
-345944794,dreamhead/patterns-of-distributed-systems,,1182
-401446691,saic-mdal/lama,Jupyter Notebook,554
-407814259,davidrmiller/biosim4,C++,562
+339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,661
+345944794,dreamhead/patterns-of-distributed-systems,,1171
+401446691,saic-mdal/lama,Jupyter Notebook,553
+407814259,davidrmiller/biosim4,C++,567
 427625642,pengzhiliang/MAE-pytorch,Python,321
 394772335,tensorflow/gnn,Python,182
 341376033,OlympusDAO/olympus-contracts,Solidity,66
