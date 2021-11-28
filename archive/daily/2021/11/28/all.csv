@@ -7,13 +7,13 @@ id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,169
 132750724,danistefanovic/build-your-own-x,,172
 19415064,ossu/computer-science,,114
-35955666,jlevy/the-art-of-command-line,,120
+35955666,jlevy/the-art-of-command-line,,157
 52631841,gothinkster/realworld,Shell,64
 62607227,yangshun/tech-interview-handbook,JavaScript,103
 138393139,trimstray/the-book-of-secret-knowledge,,158
 32484381,ripienaar/free-for-dev,HTML,79
 44882201,MunGell/awesome-for-beginners,,68
-181461073,v2fly/v2ray-core,Go,29
+181461073,v2fly/v2ray-core,Go,43
 135201145,RustPython/RustPython,Rust,6
 78240897,CoreyMSchafer/code_snippets,Jupyter Notebook,5
 44971752,ethereum/EIPs,Solidity,14
@@ -21,6 +21,6 @@ id,name,lang,new stars
 431433455,phoboslab/qoi,C,135
 116210568,ScottPlot/ScottPlot,C#,39
 410430370,IceWhaleTech/CasaOS,Go,197
-424157023,microsoft/NUWA,,222
-386017669,iterativv/NostalgiaForInfinity,Python,8
+424157023,microsoft/NUWA,,201
+386017669,iterativv/NostalgiaForInfinity,Python,21
 430600608,0voice/learning_mind_map,,125
