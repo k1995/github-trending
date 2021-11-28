@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1116542,aria2/aria2,C++,10
+1116542,aria2/aria2,C++,9
 60246359,ClickHouse/ClickHouse,C++,22
 31522041,vnpy/vnpy,C++,6
-63477612,TheAlgorithms/C-Plus-Plus,C++,19
+63477612,TheAlgorithms/C-Plus-Plus,C++,20
 149111813,Tencent/MMKV,C++,5
 95879426,Tencent/ncnn,C++,3
-143455116,google/filament,C++,136
-102343794,apache/incubator-brpc,C++,3
+143455116,google/filament,C++,124
+102343794,apache/incubator-brpc,C++,4
 20570214,google/tink,C++,5
 5736080,FreeCAD/FreeCAD,C++,7
 161292091,Tencent/matrix,C++,2
@@ -14,13 +14,13 @@ id,name,lang,new stars
 1605598,bulletphysics/bullet3,C++,6
 8162615,PointCloudLibrary/pcl,C++,2
 6486826,hrydgard/ppsspp,C++,2
-5909706,yhirose/cpp-httplib,C++,2
+5909706,yhirose/cpp-httplib,C++,3
 5298790,PX4/PX4-Autopilot,C++,3
-27918697,versatica/mediasoup,C++,3
-153097643,openvinotoolkit/openvino,C++,33
+27918697,versatica/mediasoup,C++,2
+153097643,openvinotoolkit/openvino,C++,34
 9693534,PowerDNS/pdns,C++,1
 204009988,google/tcmalloc,C++,6
 200492112,tony9402/baekjoon,C++,0
-295369297,sogou/srpc,C++,29
-32209998,WheretIB/nullc,C++,5
+295369297,sogou/srpc,C++,22
+32209998,WheretIB/nullc,C++,4
 406711704,StarCrossPortal/bug-hunting-101,C++,13
