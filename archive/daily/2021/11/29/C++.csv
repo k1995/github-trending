@@ -1,19 +1,19 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,21
+9384267,electron/electron,C++,24
 1181927,bitcoin/bitcoin,C++,48
-15634981,godotengine/godot,C++,43
+15634981,godotengine/godot,C++,44
 67702184,topjohnwu/Magisk,C++,18
-116167731,yuzu-emu/yuzu,C++,19
-125098880,ValveSoftware/Proton,C++,18
-3351871,qbittorrent/qBittorrent,C++,14
+116167731,yuzu-emu/yuzu,C++,17
+125098880,ValveSoftware/Proton,C++,16
+3351871,qbittorrent/qBittorrent,C++,15
 32969220,esp8266/Arduino,C++,5
-143455116,google/filament,C++,21
+143455116,google/filament,C++,20
 1335132,ninja-build/ninja,C++,7
 76990209,Aircoookie/WLED,C++,14
 1204412,TrinityCore/TrinityCore,C++,3
 153866232,TheCherno/Hazel,C++,11
 143324737,diasurgical/devilutionX,C++,2
-10289758,Nevcairiel/LAVFilters,C++,7
+10289758,Nevcairiel/LAVFilters,C++,6
 128479644,esphome/esphome,C++,6
 138754790,duckdb/duckdb,C++,3
 36781769,arvidn/libtorrent,C++,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 207245092,stenzek/duckstation,C++,8
 12682212,MultiMC/Launcher,C++,4
 131449222,moonlight-stream/moonlight-qt,C++,9
-194269070,skyline-emu/skyline,C++,13
-197211881,alvr-org/ALVR,C++,5
+194269070,skyline-emu/skyline,C++,14
+197211881,alvr-org/ALVR,C++,6
