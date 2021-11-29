@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,9
-3482588,danielmiessler/SecLists,PHP,14
-458058,symfony/symfony,PHP,2
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,7
+1863329,laravel/laravel,PHP,10
+3482588,danielmiessler/SecLists,PHP,13
+458058,symfony/symfony,PHP,3
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,6
 60243197,nextcloud/server,PHP,20
-1548202,matomo-org/matomo,PHP,2
+1548202,matomo-org/matomo,PHP,3
 677464,doctrine/dbal,PHP,2
 1398648,symfony/http-foundation,PHP,2
-41589337,BookStackApp/BookStack,PHP,5
+41589337,BookStackApp/BookStack,PHP,6
 1398651,symfony/http-kernel,PHP,2
 10883164,barryvdh/laravel-dompdf,PHP,4
 2464908,joomla/joomla-cms,PHP,3
@@ -16,11 +16,11 @@ id,name,lang,new stars
 1398636,symfony/dependency-injection,PHP,1
 1740040,pfsense/pfsense,PHP,2
 47508644,pterodactyl/panel,PHP,2
-1957456,Dolibarr/dolibarr,PHP,3
-129852395,assimon/dujiaoka,PHP,6
+1957456,Dolibarr/dolibarr,PHP,4
+129852395,assimon/dujiaoka,PHP,5
 232599652,laravel/sanctum,PHP,2
 239137434,symfony/deprecation-contracts,PHP,3
 216849756,v2board/v2board,PHP,2
 274912708,ZainCheung/netease-cloud-api,PHP,6
 36888692,spatie/package-skeleton-laravel,PHP,1
-3242728,php/web-php,PHP,2
+3242728,php/web-php,PHP,3
