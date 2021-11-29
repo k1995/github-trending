@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,249
-65252,jekyll/jekyll,Ruby,233
-7569578,discourse/discourse,Ruby,225
-53238813,Homebrew/brew,Ruby,575
+8514,rails/rails,Ruby,248
+65252,jekyll/jekyll,Ruby,232
+7569578,discourse/discourse,Ruby,226
+53238813,Homebrew/brew,Ruby,573
 481872,hashicorp/vagrant,Ruby,225
-2500088,gitlabhq/gitlabhq,Ruby,62
+2500088,gitlabhq/gitlabhq,Ruby,61
 3623050,Homebrew/homebrew-cask,Ruby,130
 538746,ruby/ruby,Ruby,139
 73648678,forem/forem,Ruby,459
 1090311,elastic/logstash,Ruby,61
-52855516,Homebrew/homebrew-core,Ruby,268
+52855516,Homebrew/homebrew-core,Ruby,269
 96395,faker-ruby/faker,Ruby,111
-1725199,github/linguist,Ruby,103
+1725199,github/linguist,Ruby,105
 15435,Shopify/liquid,Ruby,87
 355893,github/markup,Ruby,40
 1952825,Homebrew/homebrew-bundle,Ruby,59
@@ -21,6 +21,6 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,86
 15171934,Homebrew/homebrew-cask-fonts,Ruby,28
 200302808,github/view_component,Ruby,67
-55288882,d12frosted/homebrew-emacs-plus,Ruby,46
-161399160,Shopify/shopify-cli,Ruby,40
-229187949,shivammathur/homebrew-php,Ruby,88
+55288882,d12frosted/homebrew-emacs-plus,Ruby,45
+161399160,Shopify/shopify-cli,Ruby,41
+229187949,shivammathur/homebrew-php,Ruby,89

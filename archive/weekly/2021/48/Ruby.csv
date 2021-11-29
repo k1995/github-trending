@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,49
-65252,jekyll/jekyll,Ruby,52
+8514,rails/rails,Ruby,50
+65252,jekyll/jekyll,Ruby,51
 27442967,fastlane/fastlane,Ruby,39
-8681349,huginn/huginn,Ruby,59
-53238813,Homebrew/brew,Ruby,120
+8681349,huginn/huginn,Ruby,61
+53238813,Homebrew/brew,Ruby,117
 2293158,rapid7/metasploit-framework,Ruby,62
-2500088,gitlabhq/gitlabhq,Ruby,17
+2500088,gitlabhq/gitlabhq,Ruby,18
 308770,heartcombo/devise,Ruby,19
 1090311,elastic/logstash,Ruby,14
 1918677,fluent/fluentd,Ruby,22
@@ -14,13 +14,13 @@ id,name,lang,new stars
 611921,activeadmin/activeadmin,Ruby,4
 451035,heartcombo/simple_form,Ruby,3
 6899875,opf/openproject,Ruby,17
-1548802,activerecord-hackery/ransack,Ruby,11
-30985840,solidusio/solidus,Ruby,12
+1548802,activerecord-hackery/ransack,Ruby,10
+30985840,solidusio/solidus,Ruby,11
 103766152,github/explore,Ruby,14
 11426474,github/choosealicense.com,Ruby,11
 81134943,Shopify/bootsnap,Ruby,4
 1175581,citation-style-language/styles,Ruby,15
-93163073,dependabot/dependabot-core,Ruby,17
-142874880,microsoft/code-with-engineering-playbook,Ruby,102
-229187949,shivammathur/homebrew-php,Ruby,35
-1784628,rails/sprockets-rails,Ruby,2
+93163073,dependabot/dependabot-core,Ruby,15
+142874880,microsoft/code-with-engineering-playbook,Ruby,106
+229187949,shivammathur/homebrew-php,Ruby,37
+1784628,rails/sprockets-rails,Ruby,3
