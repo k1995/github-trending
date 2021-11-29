@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1903522,php/php-src,C,281
-1357796,emscripten-core/emscripten,C,49
+1903522,php/php-src,C,282
+1357796,emscripten-core/emscripten,C,51
 102578345,coolsnowwolf/lede,C,143
 196353673,taosdata/TDengine,C,105
 15337142,micropython/micropython,C,47
@@ -9,8 +9,8 @@ id,name,lang,new stars
 32921736,audacity/audacity,C,53
 37060852,betaflight/betaflight,C,28
 537699,Kitware/CMake,C,21
-59676171,Klipper3d/klipper,C,38
-15120676,libusb/libusb,C,15
+59676171,Klipper3d/klipper,C,37
+15120676,libusb/libusb,C,16
 27788471,mgba-emu/mgba,C,85
 146397768,ithewei/libhv,C,51
 40556106,wazuh/wazuh,C,287
@@ -22,5 +22,5 @@ id,name,lang,new stars
 257113637,jdah/minecraft-weekend,C,39
 26537135,u-boot/u-boot,C,15
 265237968,nining377/dolby_beta,C,60
-247875738,zeldaret/oot,C,236
+247875738,zeldaret/oot,C,235
 383940088,ShadowMario/FNF-PsychEngine,Haxe,22

@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,49
-65252,jekyll/jekyll,Ruby,50
+65252,jekyll/jekyll,Ruby,49
 7569578,discourse/discourse,Ruby,57
 27442967,fastlane/fastlane,Ruby,41
-53238813,Homebrew/brew,Ruby,138
+53238813,Homebrew/brew,Ruby,135
 2293158,rapid7/metasploit-framework,Ruby,60
 2500088,gitlabhq/gitlabhq,Ruby,18
 308770,heartcombo/devise,Ruby,20
-538746,ruby/ruby,Ruby,36
+538746,ruby/ruby,Ruby,37
 2203645,CocoaPods/CocoaPods,Ruby,11
 1090311,elastic/logstash,Ruby,15
 3314,spree/spree,Ruby,10
@@ -22,5 +22,5 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,13
 81134943,Shopify/bootsnap,Ruby,4
 1175581,citation-style-language/styles,Ruby,14
-93163073,dependabot/dependabot-core,Ruby,21
-142874880,microsoft/code-with-engineering-playbook,Ruby,85
+93163073,dependabot/dependabot-core,Ruby,20
+142874880,microsoft/code-with-engineering-playbook,Ruby,86
