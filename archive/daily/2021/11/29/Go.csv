@@ -1,9 +1,9 @@
 id,name,lang,new stars
 136815833,Dreamacro/clash,Go,36
-181461073,v2fly/v2ray-core,Go,74
-21233191,ipfs/go-ipfs,Go,18
+181461073,v2fly/v2ray-core,Go,69
+21233191,ipfs/go-ipfs,Go,16
 153099672,inancgumus/learngo,Go,11
-44344606,go-chi/chi,Go,5
+44344606,go-chi/chi,Go,4
 11753762,cheat/cheat,Go,20
 219616873,charmbracelet/glow,Go,27
 140457254,OWASP/Amass,Go,3
@@ -14,13 +14,13 @@ id,name,lang,new stars
 367284699,lima-vm/lima,Go,33
 193160679,kyleconroy/sqlc,Go,24
 197914161,drakkan/sftpgo,Go,45
-291485614,XIU2/CloudflareSpeedTest,Go,19
+291485614,XIU2/CloudflareSpeedTest,Go,18
 120821432,DominicBreuker/pspy,Go,5
 220588935,naiba/nezha,Go,9
 410430370,IceWhaleTech/CasaOS,Go,439
 80073079,mysteriumnetwork/node,Go,5
 278954673,fluid-cloudnative/fluid,Go,1
-374587785,clusternet/clusternet,Go,20
+374587785,clusternet/clusternet,Go,21
 397377751,kubernetes-sigs/kube-scheduler-simulator,Go,29
-430655122,zyylhn/zscan,Go,73
-428645338,liamg/memit,Go,43
+430655122,zyylhn/zscan,Go,74
+428645338,liamg/memit,Go,46

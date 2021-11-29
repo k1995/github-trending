@@ -1,26 +1,26 @@
 id,name,lang,new stars
 2126244,twbs/bootstrap,JavaScript,190
-23357588,protocolbuffers/protobuf,C++,179
-15204860,papers-we-love/papers-we-love,Shell,311
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1867
-269336148,sickcodes/Docker-OSX,Shell,440
+23357588,protocolbuffers/protobuf,C++,175
+15204860,papers-we-love/papers-we-love,Shell,268
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1857
+269336148,sickcodes/Docker-OSX,Shell,449
 196813750,Light-City/CPlusPlusThings,C++,326
 160083795,SerenityOS/serenity,C++,154
-143455116,google/filament,C++,788
-299482335,withfig/autocomplete,TypeScript,394
-287463830,microsoft/qlib,Python,246
+143455116,google/filament,C++,775
+299482335,withfig/autocomplete,TypeScript,393
+287463830,microsoft/qlib,Python,250
 32921736,audacity/audacity,C,48
 42009758,MetaMask/metamask-extension,JavaScript,200
 123807729,jaakkopasanen/AutoEq,Jupyter Notebook,291
 245235133,microsoft/reverse-proxy,C#,195
-234739976,medusajs/medusa,JavaScript,2103
-365739812,tldraw/tldraw,TypeScript,1286
-89033556,firebase/firebase-ios-sdk,Objective-C,91
-237553513,CaffeineMC/sodium-fabric,Java,37
-285840886,TachibanaYoshino/AnimeGANv2,Python,690
-345944794,dreamhead/patterns-of-distributed-systems,,1167
-401446691,saic-mdal/lama,Jupyter Notebook,485
-407814259,davidrmiller/biosim4,C++,422
+234739976,medusajs/medusa,JavaScript,2170
+365739812,tldraw/tldraw,TypeScript,1285
+89033556,firebase/firebase-ios-sdk,Objective-C,94
+237553513,CaffeineMC/sodium-fabric,Java,35
+285840886,TachibanaYoshino/AnimeGANv2,Python,687
+345944794,dreamhead/patterns-of-distributed-systems,,1161
+401446691,saic-mdal/lama,Jupyter Notebook,475
+407814259,davidrmiller/biosim4,C++,485
 246387644,ava-labs/avalanchego,Go,154
-427625642,pengzhiliang/MAE-pytorch,Python,311
-427490867,cloudflare/production-saas,TypeScript,206
+427625642,pengzhiliang/MAE-pytorch,Python,294
+427490867,cloudflare/production-saas,TypeScript,239
