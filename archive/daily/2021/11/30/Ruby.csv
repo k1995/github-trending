@@ -1,6 +1,6 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,8
-8681349,huginn/huginn,Ruby,9
+8681349,huginn/huginn,Ruby,7
 13840241,freeCodeCamp/devdocs,Ruby,11
 52281283,mastodon/mastodon,Ruby,6
 2293158,rapid7/metasploit-framework,Ruby,13
@@ -11,11 +11,11 @@ id,name,lang,new stars
 4095287,rubocop/rubocop,Ruby,2
 88740103,postalserver/postal,Ruby,4
 1918677,fluent/fluentd,Ruby,3
-52855516,Homebrew/homebrew-core,Ruby,10
-1725199,github/linguist,Ruby,12
+52855516,Homebrew/homebrew-core,Ruby,13
+1725199,github/linguist,Ruby,14
 108278,chef/chef,Ruby,1
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,3
-614070,rubygems/rubygems,Ruby,2
+614070,rubygems/rubygems,Ruby,1
 103766152,github/explore,Ruby,2
 11426474,github/choosealicense.com,Ruby,1
 6673802,24pullrequests/24pullrequests,Ruby,2
