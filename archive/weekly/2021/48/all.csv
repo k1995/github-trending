@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,1350
+13491895,EbookFoundation/free-programming-books,,1349
 2126244,twbs/bootstrap,JavaScript,200
-15204860,papers-we-love/papers-we-love,Shell,370
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1758
+15204860,papers-we-love/papers-we-love,Shell,451
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1550
 458058,symfony/symfony,PHP,104
 143455116,google/filament,C++,820
-313330998,bradtraversy/50projects50days,CSS,185
-44971752,ethereum/EIPs,Solidity,196
-287463830,microsoft/qlib,Python,252
-307489284,remix-run/remix,TypeScript,4648
-191744942,Tencent/Shadow,Java,157
-123807729,jaakkopasanen/AutoEq,Jupyter Notebook,291
-217475193,PaddlePaddle/PaddleDetection,Python,620
-50160261,PaperMC/Paper,Java,59
-234739976,medusajs/medusa,JavaScript,1892
+313330998,bradtraversy/50projects50days,CSS,184
+44971752,ethereum/EIPs,Solidity,195
+287463830,microsoft/qlib,Python,212
+307489284,remix-run/remix,TypeScript,4061
+191744942,Tencent/Shadow,Java,161
+123807729,jaakkopasanen/AutoEq,Jupyter Notebook,294
+217475193,PaddlePaddle/PaddleDetection,Python,612
+50160261,PaperMC/Paper,Java,67
+234739976,medusajs/medusa,JavaScript,1973
 89033556,firebase/firebase-ios-sdk,Objective-C,95
-237553513,CaffeineMC/sodium-fabric,Java,37
-285840886,TachibanaYoshino/AnimeGANv2,Python,657
-345944794,dreamhead/patterns-of-distributed-systems,,939
-407814259,davidrmiller/biosim4,C++,332
-246387644,ava-labs/avalanchego,Go,123
-427625642,pengzhiliang/MAE-pytorch,Python,287
-248697283,ethereum/remix-project,JavaScript,106
-386017669,iterativv/NostalgiaForInfinity,Python,165
-416947996,mpcabete/bombcrypto-bot,Python,47
+237553513,CaffeineMC/sodium-fabric,Java,38
+285840886,TachibanaYoshino/AnimeGANv2,Python,627
+345944794,dreamhead/patterns-of-distributed-systems,,1095
+407814259,davidrmiller/biosim4,C++,296
+246387644,ava-labs/avalanchego,Go,89
+427625642,pengzhiliang/MAE-pytorch,Python,289
+248697283,ethereum/remix-project,JavaScript,105
+386017669,iterativv/NostalgiaForInfinity,Python,173
+416947996,mpcabete/bombcrypto-bot,Python,45
