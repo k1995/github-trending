@@ -1,10 +1,10 @@
 id,name,lang,new stars
 448045,sebastianbergmann/phpunit,PHP,6
-82238168,monicahq/monica,PHP,4
-12615154,barryvdh/laravel-debugbar,PHP,10
-22553797,getgrav/grav,PHP,3
-56728437,docker/labs,PHP,1
-2699935,squizlabs/PHP_CodeSniffer,PHP,3
+82238168,monicahq/monica,PHP,7
+12615154,barryvdh/laravel-debugbar,PHP,8
+22553797,getgrav/grav,PHP,4
+56728437,docker/labs,PHP,4
+2699935,squizlabs/PHP_CodeSniffer,PHP,4
 1398648,symfony/http-foundation,PHP,1
 1398640,symfony/event-dispatcher,PHP,1
 1398641,symfony/finder,PHP,1
@@ -14,13 +14,13 @@ id,name,lang,new stars
 1398634,symfony/css-selector,PHP,2
 3119126,symfony/filesystem,PHP,4
 2464908,joomla/joomla-cms,PHP,1
-11935508,RSS-Bridge/rss-bridge,PHP,11
+11935508,RSS-Bridge/rss-bridge,PHP,7
 1381983,symfony/yaml,PHP,2
-47508644,pterodactyl/panel,PHP,0
+47508644,pterodactyl/panel,PHP,1
 151089715,symfony/polyfill-intl-idn,PHP,1
-57961433,openmediavault/openmediavault,PHP,2
-69691727,pmmp/PocketMine-MP,PHP,2
-274912708,ZainCheung/netease-cloud-api,PHP,4
+57961433,openmediavault/openmediavault,PHP,3
+69691727,pmmp/PocketMine-MP,PHP,3
+274912708,ZainCheung/netease-cloud-api,PHP,5
 80719637,MiczFlor/RPi-Jukebox-RFID,PHP,4
 312596796,BadApple9/speedtest-x,PHP,8
-355880249,Power-Components/livewire-powergrid,PHP,6
+355880249,Power-Components/livewire-powergrid,PHP,8
