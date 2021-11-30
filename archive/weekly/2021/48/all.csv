@@ -1,26 +1,26 @@
 id,name,lang,new stars
+13491895,EbookFoundation/free-programming-books,,1349
 2126244,twbs/bootstrap,JavaScript,200
-23357588,protocolbuffers/protobuf,C++,181
 15204860,papers-we-love/papers-we-love,Shell,370
 343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1758
-269336148,sickcodes/Docker-OSX,Shell,407
-196813750,Light-City/CPlusPlusThings,C++,323
-160083795,SerenityOS/serenity,C++,142
+458058,symfony/symfony,PHP,104
 143455116,google/filament,C++,820
-299482335,withfig/autocomplete,TypeScript,394
-287463830,microsoft/qlib,Python,212
-32921736,audacity/audacity,C,51
-42009758,MetaMask/metamask-extension,JavaScript,212
+313330998,bradtraversy/50projects50days,CSS,185
+44971752,ethereum/EIPs,Solidity,195
+287463830,microsoft/qlib,Python,252
+307489284,remix-run/remix,TypeScript,4646
+191744942,Tencent/Shadow,Java,157
 123807729,jaakkopasanen/AutoEq,Jupyter Notebook,291
-234739976,medusajs/medusa,JavaScript,1973
-245235133,microsoft/reverse-proxy,C#,149
-365739812,tldraw/tldraw,TypeScript,946
+217475193,PaddlePaddle/PaddleDetection,Python,620
+50160261,PaperMC/Paper,Java,59
+234739976,medusajs/medusa,JavaScript,1852
 89033556,firebase/firebase-ios-sdk,Objective-C,95
 237553513,CaffeineMC/sodium-fabric,Java,37
-285840886,TachibanaYoshino/AnimeGANv2,Python,657
-345944794,dreamhead/patterns-of-distributed-systems,,1095
-401446691,saic-mdal/lama,Jupyter Notebook,473
+285840886,TachibanaYoshino/AnimeGANv2,Python,637
+345944794,dreamhead/patterns-of-distributed-systems,,932
 407814259,davidrmiller/biosim4,C++,349
-246387644,ava-labs/avalanchego,Go,123
-427625642,pengzhiliang/MAE-pytorch,Python,289
-427490867,cloudflare/production-saas,TypeScript,119
+246387644,ava-labs/avalanchego,Go,109
+427625642,pengzhiliang/MAE-pytorch,Python,290
+248697283,ethereum/remix-project,JavaScript,106
+386017669,iterativv/NostalgiaForInfinity,Python,165
+416947996,mpcabete/bombcrypto-bot,Python,48
