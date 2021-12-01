@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,26
+3482588,danielmiessler/SecLists,PHP,21
 7548986,laravel/framework,PHP,14
-60243197,nextcloud/server,PHP,6
-1548202,matomo-org/matomo,PHP,9
+60243197,nextcloud/server,PHP,5
+1548202,matomo-org/matomo,PHP,11
 3431193,yiisoft/yii2,PHP,1
 11340559,deployphp/deployer,PHP,7
-12166778,googleapis/google-api-php-client,PHP,4
+12166778,googleapis/google-api-php-client,PHP,3
 4242230,PHPOffice/PHPWord,PHP,1
-10883164,barryvdh/laravel-dompdf,PHP,1
+10883164,barryvdh/laravel-dompdf,PHP,3
 12204147,mautic/mautic,PHP,1
-222873550,crater-invoice/crater,PHP,7
+222873550,crater-invoice/crater,PHP,6
 2797951,doctrine/DoctrineBundle,PHP,5
 60010673,elementor/elementor,PHP,6
 29126334,EasyCorp/EasyAdminBundle,PHP,4
@@ -18,9 +18,9 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,2
 2686502,pimcore/pimcore,PHP,3
 17253775,zabbix/zabbix,PHP,2
-143975804,LycheeOrg/Lychee,PHP,4
-312596796,BadApple9/speedtest-x,PHP,8
+143975804,LycheeOrg/Lychee,PHP,7
+312596796,BadApple9/speedtest-x,PHP,7
 54476408,Smile-SA/elasticsuite,PHP,1
-432767611,CuyZ/Valinor,PHP,44
+432767611,CuyZ/Valinor,PHP,45
 420016824,youyingxiang/Discover,PHP,0
 416060973,SallaApp/ZATCA,PHP,1
