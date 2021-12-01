@@ -1,12 +1,12 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,14
-481872,hashicorp/vagrant,Ruby,2
+27442967,fastlane/fastlane,Ruby,13
+481872,hashicorp/vagrant,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,2
 4095287,rubocop/rubocop,Ruby,4
 18486300,lewagon/setup,Ruby,1
 3195124,mperham/sidekiq,Ruby,4
-52855516,Homebrew/homebrew-core,Ruby,14
-1725199,github/linguist,Ruby,11
+52855516,Homebrew/homebrew-core,Ruby,11
+1725199,github/linguist,Ruby,9
 810796,railsadminteam/rails_admin,Ruby,2
 6529205,varvet/pundit,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,1
 5144181,jnunemaker/flipper,Ruby,3
 81134943,Shopify/bootsnap,Ruby,1
-93163073,dependabot/dependabot-core,Ruby,3
-142874880,microsoft/code-with-engineering-playbook,Ruby,10
-431230739,tenderlove/asmrepl,Ruby,324
+93163073,dependabot/dependabot-core,Ruby,2
+142874880,microsoft/code-with-engineering-playbook,Ruby,9
+431230739,tenderlove/asmrepl,Ruby,301

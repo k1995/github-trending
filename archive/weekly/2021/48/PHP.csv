@@ -1,21 +1,21 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,147
-458058,symfony/symfony,PHP,109
-7548986,laravel/framework,PHP,150
+458058,symfony/symfony,PHP,111
+7548986,laravel/framework,PHP,152
 1376664,Seldaek/monolog,PHP,38
 448045,sebastianbergmann/phpunit,PHP,37
-60243197,nextcloud/server,PHP,76
+60243197,nextcloud/server,PHP,77
 2889328,WordPress/WordPress,PHP,28
 1631570,nikic/PHP-Parser,PHP,31
-3431193,yiisoft/yii2,PHP,13
+3431193,yiisoft/yii2,PHP,14
 12615154,barryvdh/laravel-debugbar,PHP,38
-1305114,roots/sage,PHP,18
-2884111,magento/magento2,PHP,21
+1305114,roots/sage,PHP,17
+2884111,magento/magento2,PHP,22
 2699935,squizlabs/PHP_CodeSniffer,PHP,17
 597887,doctrine/orm,PHP,30
 6660366,dompdf/dompdf,PHP,29
 1398648,symfony/http-foundation,PHP,18
-41589337,BookStackApp/BookStack,PHP,73
+41589337,BookStackApp/BookStack,PHP,68
 330275,twigphp/Twig,PHP,17
 16896584,nikic/FastRoute,PHP,12
 74386167,vimeo/psalm,PHP,26
@@ -23,4 +23,4 @@ id,name,lang,new stars
 11935508,RSS-Bridge/rss-bridge,PHP,29
 70288750,symfony/flex,PHP,14
 74026995,CodelyTV/php-ddd-example,PHP,13
-429990289,web3-php/web3,PHP,112
+429990289,web3-php/web3,PHP,106
