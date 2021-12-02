@@ -1,7 +1,7 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,142
-458058,symfony/symfony,PHP,112
-1864363,composer/composer,PHP,47
+458058,symfony/symfony,PHP,111
+1864363,composer/composer,PHP,48
 7548986,laravel/framework,PHP,149
 1376664,Seldaek/monolog,PHP,36
 448045,sebastianbergmann/phpunit,PHP,36
@@ -16,11 +16,11 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,24
 1398648,symfony/http-foundation,PHP,17
 41589337,BookStackApp/BookStack,PHP,66
-330275,twigphp/Twig,PHP,16
+330275,twigphp/Twig,PHP,15
 74386167,vimeo/psalm,PHP,26
-2464908,joomla/joomla-cms,PHP,26
+2464908,joomla/joomla-cms,PHP,27
 11935508,RSS-Bridge/rss-bridge,PHP,33
-70288750,symfony/flex,PHP,14
-69691727,pmmp/PocketMine-MP,PHP,9
-74026995,CodelyTV/php-ddd-example,PHP,14
-429990289,web3-php/web3,PHP,88
+70288750,symfony/flex,PHP,15
+69691727,pmmp/PocketMine-MP,PHP,8
+74026995,CodelyTV/php-ddd-example,PHP,13
+429990289,web3-php/web3,PHP,87
