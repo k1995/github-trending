@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1807
+2325298,torvalds/linux,C,1803
 111583593,Genymobile/scrcpy,C,1891
-13233158,obsproject/obs-studio,C,1708
-1903522,php/php-src,C,1237
+13233158,obsproject/obs-studio,C,1710
+1903522,php/php-src,C,1238
 1614410,FFmpeg/FFmpeg,C,475
 1357796,emscripten-core/emscripten,C,182
 102578345,coolsnowwolf/lede,C,561
-14812739,libuv/libuv,C,199
+14812739,libuv/libuv,C,198
 15337142,micropython/micropython,C,176
 184909163,koekeishiya/yabai,C,1228
 3199002,raspberrypi/linux,C,126
@@ -21,6 +21,6 @@ id,name,lang,new stars
 40556106,wazuh/wazuh,C,383
 257113637,jdah/minecraft-weekend,C,151
 189044704,AFLplusplus/AFLplusplus,C,125
-330008801,libsdl-org/SDL,C,157
-394318710,valinet/ExplorerPatcher,C,707
+330008801,libsdl-org/SDL,C,158
+394318710,valinet/ExplorerPatcher,C,709
 127023441,NVIDIA/cuda-samples,C,93
