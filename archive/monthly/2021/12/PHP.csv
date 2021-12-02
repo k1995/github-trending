@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,423
+1863329,laravel/laravel,PHP,422
 3482588,danielmiessler/SecLists,PHP,652
 1129010,blueimp/jQuery-File-Upload,PHP,38
 458058,symfony/symfony,PHP,235
-7548986,laravel/framework,PHP,424
-60243197,nextcloud/server,PHP,325
+7548986,laravel/framework,PHP,423
+60243197,nextcloud/server,PHP,320
 1631570,nikic/PHP-Parser,PHP,127
-79111500,jupeter/clean-code-php,PHP,396
-2884111,magento/magento2,PHP,79
-15020102,walkor/Workerman,PHP,79
+79111500,jupeter/clean-code-php,PHP,394
+2884111,magento/magento2,PHP,78
+15020102,walkor/Workerman,PHP,80
 677464,doctrine/dbal,PHP,89
-11467667,typecho/typecho,PHP,97
+11467667,typecho/typecho,PHP,96
 6763587,PrestaShop/PrestaShop,PHP,65
 4242230,PHPOffice/PHPWord,PHP,169
 9791525,digininja/DVWA,PHP,98
@@ -19,8 +19,8 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,79
 4224042,roundcube/roundcubemail,PHP,56
 41463886,codeigniter4/CodeIgniter4,PHP,71
-139191005,nunomaduro/larastan,PHP,367
+139191005,nunomaduro/larastan,PHP,365
 29501260,api-platform/core,PHP,37
-74026995,CodelyTV/php-ddd-example,PHP,57
-330980599,yanfeizhang/coder-kung-fu,PHP,213
+74026995,CodelyTV/php-ddd-example,PHP,56
+330980599,yanfeizhang/coder-kung-fu,PHP,215
 75645659,WordPress/wordpress-develop,PHP,154
