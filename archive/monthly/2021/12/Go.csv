@@ -1,11 +1,11 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,1057
-48378947,fatedier/frp,Go,1220
-13807606,junegunn/fzf,Go,686
-41912791,v2ray/v2ray-core,Go,353
-15452919,ethereum/go-ethereum,Go,785
+48378947,fatedier/frp,Go,1222
+13807606,junegunn/fzf,Go,685
+41912791,v2ray/v2ray-core,Go,352
+15452919,ethereum/go-ethereum,Go,786
 17728164,hashicorp/terraform,Go,638
-41986369,pingcap/tidb,Go,344
+41986369,pingcap/tidb,Go,345
 74175805,istio/istio,Go,505
 97533102,halfrost/LeetCode-Go,Go,1076
 136815833,Dreamacro/clash,Go,1352
@@ -14,13 +14,13 @@ id,name,lang,new stars
 19205896,restic/restic,Go,868
 181461073,v2fly/v2ray-core,Go,883
 130430977,kubesphere/kubesphere,Go,629
-66156850,TheAlgorithms/Go,Go,472
+66156850,TheAlgorithms/Go,Go,473
 311315731,XTLS/Xray-core,Go,438
-370977430,OpenIMSDK/Open-IM-Server,Go,2632
-175405157,JanDeDobbeleer/oh-my-posh,Go,679
+370977430,OpenIMSDK/Open-IM-Server,Go,2627
+175405157,JanDeDobbeleer/oh-my-posh,Go,680
 51193526,cosmos/cosmos-sdk,Go,212
 203927039,xinliangnote/go-gin-api,Go,182
-422821402,FerretDB/FerretDB,Go,1993
-246387644,ava-labs/avalanchego,Go,328
-265775217,binance-chain/bsc,Go,176
-310632133,solana-labs/token-list,Go,206
+422821402,FerretDB/FerretDB,Go,1990
+246387644,ava-labs/avalanchego,Go,329
+265775217,binance-chain/bsc,Go,177
+310632133,solana-labs/token-list,Go,207
