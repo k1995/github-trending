@@ -1,11 +1,11 @@
 id,name,lang,new stars
 1129010,blueimp/jQuery-File-Upload,PHP,1
-458058,symfony/symfony,PHP,7
+458058,symfony/symfony,PHP,8
 2253830,PHPMailer/PHPMailer,PHP,8
-1548202,matomo-org/matomo,PHP,9
-1631570,nikic/PHP-Parser,PHP,5
+1548202,matomo-org/matomo,PHP,10
+1631570,nikic/PHP-Parser,PHP,6
 7769432,vlucas/phpdotenv,PHP,6
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,5
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,7
 61490598,PHPOffice/PhpSpreadsheet,PHP,6
 2717549,Sylius/Sylius,PHP,2
 9131292,jenssegers/laravel-mongodb,PHP,1
@@ -15,12 +15,12 @@ id,name,lang,new stars
 148129143,bagisto/bagisto,PHP,6
 1367484,Behat/Behat,PHP,1
 63073734,laravel/passport,PHP,0
-69691727,pmmp/PocketMine-MP,PHP,4
+69691727,pmmp/PocketMine-MP,PHP,5
 2686502,pimcore/pimcore,PHP,2
 3193843,drush-ops/drush,PHP,2
 17388759,laravel/cashier-stripe,PHP,1
 29501260,api-platform/core,PHP,2
-32315619,DarkaOnLine/L5-Swagger,PHP,0
-330980599,yanfeizhang/coder-kung-fu,PHP,17
+32315619,DarkaOnLine/L5-Swagger,PHP,3
+330980599,yanfeizhang/coder-kung-fu,PHP,16
 231147064,laminas/laminas-code,PHP,7
 59355182,OpenSID/OpenSID,PHP,1
