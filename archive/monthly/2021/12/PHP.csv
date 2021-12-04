@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,418
-3482588,danielmiessler/SecLists,PHP,739
+1863329,laravel/laravel,PHP,416
+3482588,danielmiessler/SecLists,PHP,764
 1129010,blueimp/jQuery-File-Upload,PHP,41
-458058,symfony/symfony,PHP,239
-7548986,laravel/framework,PHP,420
+458058,symfony/symfony,PHP,246
+7548986,laravel/framework,PHP,421
 60243197,nextcloud/server,PHP,326
-1631570,nikic/PHP-Parser,PHP,130
+1631570,nikic/PHP-Parser,PHP,129
 1305114,roots/sage,PHP,63
-2884111,magento/magento2,PHP,74
-15020102,walkor/Workerman,PHP,87
+2884111,magento/magento2,PHP,73
+15020102,walkor/Workerman,PHP,86
 677464,doctrine/dbal,PHP,83
 11467667,typecho/typecho,PHP,101
 12166778,googleapis/google-api-php-client,PHP,59
-2179920,woocommerce/woocommerce,PHP,79
+2179920,woocommerce/woocommerce,PHP,78
 6763587,PrestaShop/PrestaShop,PHP,69
 9791525,digininja/DVWA,PHP,99
 97311017,rectorphp/rector,PHP,152
@@ -20,7 +20,7 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,81
 4224042,roundcube/roundcubemail,PHP,57
 41463886,codeigniter4/CodeIgniter4,PHP,74
-139191005,nunomaduro/larastan,PHP,272
+139191005,nunomaduro/larastan,PHP,269
 29501260,api-platform/core,PHP,40
-330980599,yanfeizhang/coder-kung-fu,PHP,267
+330980599,yanfeizhang/coder-kung-fu,PHP,268
 75645659,WordPress/wordpress-develop,PHP,153

@@ -1,8 +1,8 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,26
-65600975,pytorch/pytorch,C++,29
-23357588,protocolbuffers/protobuf,C++,25
-22887094,tesseract-ocr/tesseract,C++,38
+100060912,microsoft/terminal,C++,25
+65600975,pytorch/pytorch,C++,30
+23357588,protocolbuffers/protobuf,C++,58
+22887094,tesseract-ocr/tesseract,C++,39
 11171548,nlohmann/json,C++,15
 39840932,google/googletest,C++,9
 4524181,facebook/folly,C++,11
@@ -17,10 +17,10 @@ id,name,lang,new stars
 15122806,google/benchmark,C++,5
 46374199,IntelRealSense/librealsense,C++,4
 124976393,oatpp/oatpp,C++,4
-115883761,tdlib/td,C++,8
+115883761,tdlib/td,C++,7
 37482419,mmp/pbrt-v3,C++,1
-354743391,o3de/o3de,C++,83
+354743391,o3de/o3de,C++,82
 223904726,wang-xinyu/tensorrtx,C++,7
 178613040,Neargye/magic_enum,C++,7
-148821256,Roblox/luau,C++,14
+148821256,Roblox/luau,C++,12
 52400453,IntelRealSense/realsense-ros,C++,3
