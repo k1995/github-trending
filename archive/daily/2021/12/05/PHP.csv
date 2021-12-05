@@ -1,10 +1,10 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,10
-3482588,danielmiessler/SecLists,PHP,167
+3482588,danielmiessler/SecLists,PHP,180
 2579314,fzaninotto/Faker,PHP,1
 7548986,laravel/framework,PHP,3
 1420053,guzzle/guzzle,PHP,2
-60243197,nextcloud/server,PHP,28
+60243197,nextcloud/server,PHP,29
 5724990,briannesbitt/Carbon,PHP,1
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,2
 15020102,walkor/Workerman,PHP,3
@@ -14,13 +14,13 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,1
 14346979,snipe/snipe-it,PHP,3
 97311017,rectorphp/rector,PHP,4
-222873550,crater-invoice/crater,PHP,24
+222873550,crater-invoice/crater,PHP,91
 3817881,zircote/swagger-php,PHP,2
 1398636,symfony/dependency-injection,PHP,0
 2686502,pimcore/pimcore,PHP,4
 3193843,drush-ops/drush,PHP,0
 330980599,yanfeizhang/coder-kung-fu,PHP,14
 15231212,Automattic/jetpack,PHP,1
-83971055,cybercog/laravel-ban,PHP,8
+83971055,cybercog/laravel-ban,PHP,9
 412071168,WordPress/twentytwentytwo,PHP,1
 184538454,yankovalenko94/Webdev2019,PHP,1

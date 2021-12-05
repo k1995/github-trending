@@ -1,19 +1,19 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,22
-9384267,electron/electron,C++,20
+9384267,electron/electron,C++,22
 5108051,opencv/opencv,C++,13
-23357588,protocolbuffers/protobuf,C++,23
-39840932,google/googletest,C++,8
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,14
-108110,mongodb/mongo,C++,15
-4524181,facebook/folly,C++,7
+23357588,protocolbuffers/protobuf,C++,22
+39840932,google/googletest,C++,10
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,11
+108110,mongodb/mongo,C++,8
+4524181,facebook/folly,C++,38
 19374812,telegramdesktop/tdesktop,C++,13
-19953044,google/flatbuffers,C++,6
+19953044,google/flatbuffers,C++,7
 34777562,ossrs/srs,C++,4
 126412363,simdjson/simdjson,C++,5
-7056202,fmtlib/fmt,C++,8
+7056202,fmtlib/fmt,C++,5
 102692863,onnx/onnx,C++,5
-1204412,TrinityCore/TrinityCore,C++,2
+1204412,TrinityCore/TrinityCore,C++,3
 108102826,carla-simulator/carla,C++,8
 283410102,sogou/workflow,C++,5
 86337343,skypjack/entt,C++,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 86897963,ZLMediaKit/ZLMediaKit,C++,7
 5298790,PX4/PX4-Autopilot,C++,5
 115883761,tdlib/td,C++,4
-354743391,o3de/o3de,C++,22
+354743391,o3de/o3de,C++,23
 148821256,Roblox/luau,C++,6
 131630299,onnx/onnx-tensorrt,C++,1
