@@ -1,10 +1,10 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,4
 13840241,freeCodeCamp/devdocs,Ruby,2
-52281283,mastodon/mastodon,Ruby,5
-481872,hashicorp/vagrant,Ruby,5
+52281283,mastodon/mastodon,Ruby,7
+481872,hashicorp/vagrant,Ruby,3
 308770,heartcombo/devise,Ruby,2
-73648678,forem/forem,Ruby,11
+73648678,forem/forem,Ruby,8
 1090311,elastic/logstash,Ruby,1
 585285,gollum/gollum,Ruby,2
 4095287,rubocop/rubocop,Ruby,0
@@ -19,7 +19,7 @@ id,name,lang,new stars
 1548802,activerecord-hackery/ransack,Ruby,1
 417862,octokit/octokit.rb,Ruby,3
 1172597,thoughtbot/shoulda-matchers,Ruby,1
-103766152,github/explore,Ruby,55
+103766152,github/explore,Ruby,46
 9500075,ytti/oxidized,Ruby,0
 29151578,rswag/rswag,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,1
