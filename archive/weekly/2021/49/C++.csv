@@ -1,19 +1,19 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,204
-5108051,opencv/opencv,C++,197
+45717250,tensorflow/tensorflow,C++,208
+5108051,opencv/opencv,C++,199
 65600975,pytorch/pytorch,C++,179
-23357588,protocolbuffers/protobuf,C++,188
-15634981,godotengine/godot,C++,302
-22887094,tesseract-ocr/tesseract,C++,185
+23357588,protocolbuffers/protobuf,C++,187
+15634981,godotengine/godot,C++,301
+22887094,tesseract-ocr/tesseract,C++,186
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,89
 4524181,facebook/folly,C++,143
 31522041,vnpy/vnpy,C++,84
-81227005,facebookresearch/faiss,C++,66
+81227005,facebookresearch/faiss,C++,67
 191820100,google/mediapipe,C++,104
 47690142,CoatiSoftware/Sourcetrail,C++,55
 52422583,kyleneideck/BackgroundMusic,C++,67
 1605598,bulletphysics/bullet3,C++,34
-79317191,typesense/typesense,C++,121
+79317191,typesense/typesense,C++,120
 8162615,PointCloudLibrary/pcl,C++,31
 32736639,JoeyDeVries/LearnOpenGL,C++,44
 15122806,google/benchmark,C++,31
@@ -21,6 +21,6 @@ id,name,lang,new stars
 104208128,PaddlePaddle/Paddle-Lite,C++,9
 39211337,flutter/engine,C++,18
 115883761,tdlib/td,C++,30
-354743391,o3de/o3de,C++,219
+354743391,o3de/o3de,C++,222
 52882701,prusa3d/PrusaSlicer,C++,31
-416649448,HerMajestyDrMona/Windows11DragAndDropToTaskbarFix,C++,115
+416649448,HerMajestyDrMona/Windows11DragAndDropToTaskbarFix,C++,114

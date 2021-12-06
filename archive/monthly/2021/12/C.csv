@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1728
-111583593,Genymobile/scrcpy,C,1903
-13233158,obsproject/obs-studio,C,1723
-1903522,php/php-src,C,1257
+2325298,torvalds/linux,C,1732
+111583593,Genymobile/scrcpy,C,1904
+13233158,obsproject/obs-studio,C,1726
+1903522,php/php-src,C,1256
 1614410,FFmpeg/FFmpeg,C,452
 1357796,emscripten-core/emscripten,C,182
 102578345,coolsnowwolf/lede,C,563
@@ -11,16 +11,16 @@ id,name,lang,new stars
 15337142,micropython/micropython,C,170
 5254557,cloudwu/skynet,C,115
 184909163,koekeishiya/yabai,C,1229
-13836499,raysan5/raylib,C,632
-70127218,espressif/arduino-esp32,C,171
+13836499,raysan5/raylib,C,630
+70127218,espressif/arduino-esp32,C,172
 65899476,espressif/esp-idf,C,191
-88327406,xmrig/xmrig,C,443
-59771425,zephyrproject-rtos/zephyr,C,163
+88327406,xmrig/xmrig,C,441
+59771425,zephyrproject-rtos/zephyr,C,164
 37060852,betaflight/betaflight,C,91
 68082730,Ralim/IronOS,C,138
 27788471,mgba-emu/mgba,C,191
 40556106,wazuh/wazuh,C,382
-257113637,jdah/minecraft-weekend,C,155
-394318710,valinet/ExplorerPatcher,C,681
+257113637,jdah/minecraft-weekend,C,154
+394318710,valinet/ExplorerPatcher,C,679
 127023441,NVIDIA/cuda-samples,C,92
 283149635,tanersener/ffmpeg-kit,C,156
