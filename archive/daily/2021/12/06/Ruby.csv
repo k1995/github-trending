@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,7
-65252,jekyll/jekyll,Ruby,8
-27442967,fastlane/fastlane,Ruby,5
-8681349,huginn/huginn,Ruby,7
-53238813,Homebrew/brew,Ruby,16
-13840241,freeCodeCamp/devdocs,Ruby,4
-52281283,mastodon/mastodon,Ruby,8
-2293158,rapid7/metasploit-framework,Ruby,15
-481872,hashicorp/vagrant,Ruby,6
+65252,jekyll/jekyll,Ruby,7
+27442967,fastlane/fastlane,Ruby,4
+8681349,huginn/huginn,Ruby,9
+53238813,Homebrew/brew,Ruby,15
+13840241,freeCodeCamp/devdocs,Ruby,6
+52281283,mastodon/mastodon,Ruby,9
+2293158,rapid7/metasploit-framework,Ruby,17
+481872,hashicorp/vagrant,Ruby,8
 308770,heartcombo/devise,Ruby,5
 538746,ruby/ruby,Ruby,4
 73648678,forem/forem,Ruby,7
@@ -15,10 +15,10 @@ id,name,lang,new stars
 202291859,chatwoot/chatwoot,Ruby,4
 88740103,postalserver/postal,Ruby,2
 1918677,fluent/fluentd,Ruby,2
-52855516,Homebrew/homebrew-core,Ruby,5
+52855516,Homebrew/homebrew-core,Ruby,4
 1548802,activerecord-hackery/ransack,Ruby,2
-1952825,Homebrew/homebrew-bundle,Ruby,3
-103766152,github/explore,Ruby,17
+1952825,Homebrew/homebrew-bundle,Ruby,8
+103766152,github/explore,Ruby,11
 6673802,24pullrequests/24pullrequests,Ruby,1
 8154497,rubysec/ruby-advisory-db,Ruby,0
 62409417,department-of-veterans-affairs/vets-api,Ruby,0
