@@ -2,8 +2,8 @@ id,name,lang,new stars
 13491895,EbookFoundation/free-programming-books,,217
 60493101,jwasham/coding-interview-university,,192
 85077558,kamranahmedse/developer-roadmap,TypeScript,484
-54346799,public-apis/public-apis,Python,315
-83222441,donnemartin/system-design-primer,Python,414
+54346799,public-apis/public-apis,Python,300
+83222441,donnemartin/system-design-primer,Python,273
 126577260,trekhleb/javascript-algorithms,JavaScript,306
 132750724,danistefanovic/build-your-own-x,,210
 206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Java,76
@@ -13,7 +13,7 @@ id,name,lang,new stars
 234231371,gofiber/fiber,Go,39
 393571599,babysor/MockingBird,JavaScript,305
 196613241,edeng23/binance-trade-bot,Python,15
-370977430,OpenIMSDK/Open-IM-Server,Go,48
+370977430,OpenIMSDK/Open-IM-Server,Go,58
 336648397,mehdihadeli/awesome-software-architecture,,398
 434218673,prabhatsharma/zinc,Vue,810
 414835328,yeemachine/kalidokit,TypeScript,49
@@ -23,4 +23,4 @@ id,name,lang,new stars
 67623961,loveispapapa/txt_files,,92
 353494486,iron-fish/ironfish,TypeScript,14
 432828271,SummitRoute/csp_security_mistakes,,64
-435135756,glibg10b/ltt-linux-challenge-issues,,47
+435135756,glibg10b/ltt-linux-challenge-issues,,46
