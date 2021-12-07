@@ -1,19 +1,19 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,50
 7569578,discourse/discourse,Ruby,58
-27442967,fastlane/fastlane,Ruby,42
-8681349,huginn/huginn,Ruby,65
-52281283,mastodon/mastodon,Ruby,67
-2293158,rapid7/metasploit-framework,Ruby,75
-308770,heartcombo/devise,Ruby,23
-73648678,forem/forem,Ruby,65
+27442967,fastlane/fastlane,Ruby,38
+8681349,huginn/huginn,Ruby,68
+52281283,mastodon/mastodon,Ruby,66
+2293158,rapid7/metasploit-framework,Ruby,76
+308770,heartcombo/devise,Ruby,22
+73648678,forem/forem,Ruby,67
 911765,diaspora/diaspora,Ruby,9
-3195124,mperham/sidekiq,Ruby,10
+3195124,mperham/sidekiq,Ruby,11
 1918677,fluent/fluentd,Ruby,25
-1725199,github/linguist,Ruby,24
-1333863,kaminari/kaminari,Ruby,15
-355893,github/markup,Ruby,8
-30337170,rmosolgo/graphql-ruby,Ruby,2
+1725199,github/linguist,Ruby,25
+1333863,kaminari/kaminari,Ruby,16
+355893,github/markup,Ruby,7
+30337170,rmosolgo/graphql-ruby,Ruby,1
 30985840,solidusio/solidus,Ruby,11
 1172597,thoughtbot/shoulda-matchers,Ruby,9
 614070,rubygems/rubygems,Ruby,14
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,9
 64552869,LionSec/xerosploit,Ruby,12
 49878403,zendesk/ruby-kafka,Ruby,5
-431230739,tenderlove/asmrepl,Ruby,279
+431230739,tenderlove/asmrepl,Ruby,217
 430797589,learn-co-students/Phase-3-movie_app_101121,Ruby,0
