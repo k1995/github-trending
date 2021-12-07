@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1420053,guzzle/guzzle,PHP,3
-2253830,PHPMailer/PHPMailer,PHP,5
-597887,doctrine/orm,PHP,1
+1420053,guzzle/guzzle,PHP,2
+2253830,PHPMailer/PHPMailer,PHP,6
+597887,doctrine/orm,PHP,4
 10238429,tennc/webshell,PHP,2
 364315,predis/predis,PHP,1
-6269013,aws/aws-sdk-php,PHP,1
+6269013,aws/aws-sdk-php,PHP,2
 9826184,elastic/elasticsearch-php,PHP,3
 74386167,vimeo/psalm,PHP,3
 3817881,zircote/swagger-php,PHP,1
@@ -12,15 +12,15 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,3
 2464908,joomla/joomla-cms,PHP,1
 885517,doctrine-extensions/DoctrineExtensions,PHP,1
-119047018,linuxserver/Heimdall,PHP,9
-22751672,tecnickcom/TCPDF,PHP,2
-1957456,Dolibarr/dolibarr,PHP,3
+119047018,linuxserver/Heimdall,PHP,8
+22751672,tecnickcom/TCPDF,PHP,3
+1957456,Dolibarr/dolibarr,PHP,4
 52319036,passbolt/passbolt_api,PHP,5
-141720301,dr5hn/countries-states-cities-database,PHP,7
+141720301,dr5hn/countries-states-cities-database,PHP,8
 3193843,drush-ops/drush,PHP,1
 1095228,sonata-project/SonataAdminBundle,PHP,1
-61838413,danog/MadelineProto,PHP,1
+61838413,danog/MadelineProto,PHP,0
 3614664,PHPCompatibility/PHPCompatibility,PHP,2
 54476408,Smile-SA/elasticsuite,PHP,0
 412071168,WordPress/twentytwentytwo,PHP,0
-365598442,JeffreyWay/Laravel-From-Scratch-Blog-Project,PHP,3
+365598442,JeffreyWay/Laravel-From-Scratch-Blog-Project,PHP,2
