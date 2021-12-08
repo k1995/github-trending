@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,53
-7569578,discourse/discourse,Ruby,59
+8514,rails/rails,Ruby,54
+7569578,discourse/discourse,Ruby,60
 27442967,fastlane/fastlane,Ruby,35
 8681349,huginn/huginn,Ruby,68
-52281283,mastodon/mastodon,Ruby,65
-2293158,rapid7/metasploit-framework,Ruby,76
+52281283,mastodon/mastodon,Ruby,68
+2293158,rapid7/metasploit-framework,Ruby,74
 308770,heartcombo/devise,Ruby,22
-73648678,forem/forem,Ruby,67
+73648678,forem/forem,Ruby,66
 911765,diaspora/diaspora,Ruby,9
 3195124,mperham/sidekiq,Ruby,11
 1918677,fluent/fluentd,Ruby,25
@@ -18,9 +18,9 @@ id,name,lang,new stars
 1172597,thoughtbot/shoulda-matchers,Ruby,9
 614070,rubygems/rubygems,Ruby,12
 103766152,github/explore,Ruby,123
-5144181,jnunemaker/flipper,Ruby,9
+5144181,jnunemaker/flipper,Ruby,8
 1175581,citation-style-language/styles,Ruby,8
-64552869,LionSec/xerosploit,Ruby,14
+64552869,LionSec/xerosploit,Ruby,15
 49878403,zendesk/ruby-kafka,Ruby,6
-431230739,tenderlove/asmrepl,Ruby,194
+431230739,tenderlove/asmrepl,Ruby,187
 430797589,learn-co-students/Phase-3-movie_app_101121,Ruby,0
