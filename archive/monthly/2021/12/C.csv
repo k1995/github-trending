@@ -1,18 +1,18 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1731
-111583593,Genymobile/scrcpy,C,1945
-13233158,obsproject/obs-studio,C,1470
-1903522,php/php-src,C,1275
-1614410,FFmpeg/FFmpeg,C,462
-1357796,emscripten-core/emscripten,C,196
-102578345,coolsnowwolf/lede,C,571
-14812739,libuv/libuv,C,205
+2325298,torvalds/linux,C,1728
+111583593,Genymobile/scrcpy,C,1942
+13233158,obsproject/obs-studio,C,1442
+1903522,php/php-src,C,1276
+1614410,FFmpeg/FFmpeg,C,465
+1357796,emscripten-core/emscripten,C,197
+102578345,coolsnowwolf/lede,C,563
+14812739,libuv/libuv,C,202
 196353673,taosdata/TDengine,C,461
-20159867,nothings/stb,C,354
-80286288,arendst/Tasmota,C,193
-15337142,micropython/micropython,C,169
-184909163,koekeishiya/yabai,C,1242
-3199002,raspberrypi/linux,C,112
+20159867,nothings/stb,C,356
+80286288,arendst/Tasmota,C,197
+15337142,micropython/micropython,C,170
+184909163,koekeishiya/yabai,C,1247
+3199002,raspberrypi/linux,C,114
 70127218,espressif/arduino-esp32,C,165
 88327406,xmrig/xmrig,C,457
 59771425,zephyrproject-rtos/zephyr,C,166
@@ -23,4 +23,4 @@ id,name,lang,new stars
 189044704,AFLplusplus/AFLplusplus,C,123
 127023441,NVIDIA/cuda-samples,C,94
 283149635,tanersener/ffmpeg-kit,C,160
-356098390,WyvernTKC/cpuminer-gr-avx2,C,270
+356098390,WyvernTKC/cpuminer-gr-avx2,C,271
