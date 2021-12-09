@@ -1,10 +1,10 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,38
-27729880,grpc/grpc,C++,15
+45717250,tensorflow/tensorflow,C++,36
+27729880,grpc/grpc,C++,70
 1200050,ariya/phantomjs,C++,7
 6934395,facebook/rocksdb,C++,11
 60246359,ClickHouse/ClickHouse,C++,23
-96246170,ApolloAuto/apollo,C++,10
+96246170,ApolloAuto/apollo,C++,9
 81227005,facebookresearch/faiss,C++,13
 1062572,catchorg/Catch2,C++,6
 40892817,ethereum/solidity,C++,28
@@ -15,7 +15,7 @@ id,name,lang,new stars
 51905353,apache/arrow,C++,6
 1204412,TrinityCore/TrinityCore,C++,5
 156939672,microsoft/onnxruntime,C++,5
-86897963,ZLMediaKit/ZLMediaKit,C++,12
+86897963,ZLMediaKit/ZLMediaKit,C++,13
 115765590,OAID/Tengine,C++,7
 33100064,jbeder/yaml-cpp,C++,3
 166181797,tencentyun/TIMSDK,C++,3
