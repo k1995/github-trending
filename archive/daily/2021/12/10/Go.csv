@@ -1,18 +1,18 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,32
+20904437,gin-gonic/gin,Go,40
 29261473,minio/minio,Go,39
-41986369,pingcap/tidb,Go,12
+41986369,pingcap/tidb,Go,9
 74175805,istio/istio,Go,12
 31288958,hashicorp/vault,Go,13
-165041732,go-kratos/kratos,Go,20
+165041732,go-kratos/kratos,Go,17
 120227732,fyne-io/fyne,Go,130
 6247705,stretchr/testify,Go,14
 285864199,zeromicro/go-zero,Go,33
 44350607,kubernetes/dashboard,Go,10
-62921553,rook/rook,Go,17
+62921553,rook/rook,Go,10
 11206255,Shopify/sarama,Go,5
 9524057,prometheus/node_exporter,Go,10
-18950460,concourse/concourse,Go,10
+18950460,concourse/concourse,Go,8
 370977430,OpenIMSDK/Open-IM-Server,Go,22
 14128006,hashicorp/raft,Go,11
 7515336,davecgh/go-spew,Go,9
@@ -20,7 +20,7 @@ id,name,lang,new stars
 86367047,elastic/go-elasticsearch,Go,5
 63196359,confluentinc/confluent-kafka-go,Go,4
 22700054,hashicorp/golang-lru,Go,11
-267713284,projectdiscovery/httpx,Go,8
+267713284,projectdiscovery/httpx,Go,9
 105711679,envoyproxy/protoc-gen-validate,Go,3
 323965659,Xhofe/alist,Go,18
 155447233,Azure/aks-engine,Go,1
