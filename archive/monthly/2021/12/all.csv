@@ -1,26 +1,26 @@
 id,name,lang,new stars
-19872456,remix-run/react-router,TypeScript,684
-3482588,danielmiessler/SecLists,PHP,1194
-1903522,php/php-src,C,1282
-134017286,jesseduffield/lazygit,Go,2905
-77213120,Eugeny/tabby,TypeScript,3021
-269336148,sickcodes/Docker-OSX,Shell,3059
-45680749,kholia/OSX-KVM,Python,785
+85077558,kamranahmedse/developer-roadmap,TypeScript,4543
+123458551,jackfrued/Python-100-Days,Python,2069
+3482588,danielmiessler/SecLists,PHP,1205
+33263118,gorhill/uBlock,JavaScript,875
+134017286,jesseduffield/lazygit,Go,2904
+214587193,supabase/supabase,TypeScript,3180
+77213120,Eugeny/tabby,TypeScript,2847
+269336148,sickcodes/Docker-OSX,Shell,3060
 148496687,YunaiV/SpringBoot-Labs,Java,520
-184909163,koekeishiya/yabai,C,1247
 69673033,ardalis/CleanArchitecture,C#,870
-190729906,Budibase/budibase,JavaScript,2626
-372240402,alan2207/bulletproof-react,TypeScript,1857
-293498508,JetBrains/compose-jb,Kotlin,808
+190729906,Budibase/budibase,JavaScript,2621
+372240402,alan2207/bulletproof-react,TypeScript,1855
+293498508,JetBrains/compose-jb,Kotlin,809
 88327406,xmrig/xmrig,C,469
-123807729,jaakkopasanen/AutoEq,Jupyter Notebook,742
-349321229,TencentARC/GFPGAN,Python,1602
+123807729,jaakkopasanen/AutoEq,Jupyter Notebook,746
+349321229,TencentARC/GFPGAN,Python,1717
 50160261,PaperMC/Paper,Java,311
-234739976,medusajs/medusa,JavaScript,3387
-339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,1644
-366352205,zero205/JD_tencent_scf,JavaScript,782
-417141259,ethereum-boilerplate/ethereum-boilerplate,JavaScript,577
+234739976,medusajs/medusa,JavaScript,3392
+422821402,FerretDB/FerretDB,Go,1569
+412741449,Kholid060/automa,Vue,1610
+339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,1628
+417141259,ethereum-boilerplate/ethereum-boilerplate,JavaScript,575
 246387644,ava-labs/avalanchego,Go,341
 265775217,binance-chain/bsc,Go,216
-310632133,solana-labs/token-list,Go,208
-341376033,OlympusDAO/olympus-contracts,Solidity,185
+341376033,OlympusDAO/olympus-contracts,Solidity,184
