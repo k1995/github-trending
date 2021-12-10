@@ -1,19 +1,19 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,37
-29261473,minio/minio,Go,39
+29261473,minio/minio,Go,25
 41986369,pingcap/tidb,Go,13
 74175805,istio/istio,Go,15
 31288958,hashicorp/vault,Go,13
 165041732,go-kratos/kratos,Go,17
 120227732,fyne-io/fyne,Go,133
 6247705,stretchr/testify,Go,16
-285864199,zeromicro/go-zero,Go,30
+285864199,zeromicro/go-zero,Go,23
 44350607,kubernetes/dashboard,Go,5
-62921553,rook/rook,Go,12
+62921553,rook/rook,Go,6
 11206255,Shopify/sarama,Go,5
 9524057,prometheus/node_exporter,Go,6
 18950460,concourse/concourse,Go,11
-370977430,OpenIMSDK/Open-IM-Server,Go,19
+370977430,OpenIMSDK/Open-IM-Server,Go,34
 14128006,hashicorp/raft,Go,10
 7515336,davecgh/go-spew,Go,10
 53356367,containers/skopeo,Go,6
