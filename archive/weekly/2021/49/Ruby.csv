@@ -2,11 +2,11 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,80
 65252,jekyll/jekyll,Ruby,54
 27442967,fastlane/fastlane,Ruby,38
-52281283,mastodon/mastodon,Ruby,77
-2293158,rapid7/metasploit-framework,Ruby,77
+52281283,mastodon/mastodon,Ruby,76
+2293158,rapid7/metasploit-framework,Ruby,79
 308770,heartcombo/devise,Ruby,20
 538746,ruby/ruby,Ruby,27
-2203645,CocoaPods/CocoaPods,Ruby,16
+2203645,CocoaPods/CocoaPods,Ruby,15
 1090311,elastic/logstash,Ruby,14
 202291859,chatwoot/chatwoot,Ruby,91
 88740103,postalserver/postal,Ruby,42
@@ -16,10 +16,10 @@ id,name,lang,new stars
 1333863,kaminari/kaminari,Ruby,8
 355893,github/markup,Ruby,7
 1548802,activerecord-hackery/ransack,Ruby,6
-1314319,instructure/canvas-lms,Ruby,16
+1314319,instructure/canvas-lms,Ruby,15
 30985840,solidusio/solidus,Ruby,17
 1952825,Homebrew/homebrew-bundle,Ruby,27
-103766152,github/explore,Ruby,112
+103766152,github/explore,Ruby,110
 200302808,github/view_component,Ruby,23
 9500075,ytti/oxidized,Ruby,5
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,2

@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,418
-3482588,danielmiessler/SecLists,PHP,1206
+1863329,laravel/laravel,PHP,416
+3482588,danielmiessler/SecLists,PHP,1205
 1129010,blueimp/jQuery-File-Upload,PHP,41
 458058,symfony/symfony,PHP,251
-7548986,laravel/framework,PHP,396
+7548986,laravel/framework,PHP,392
 1420053,guzzle/guzzle,PHP,116
 60243197,nextcloud/server,PHP,368
 2889328,WordPress/WordPress,PHP,108
 1631570,nikic/PHP-Parser,PHP,125
-1305114,roots/sage,PHP,78
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,94
+1305114,roots/sage,PHP,79
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,95
 29843361,w7corp/easywechat,PHP,52
 677464,doctrine/dbal,PHP,84
 12166778,googleapis/google-api-php-client,PHP,65
@@ -19,7 +19,7 @@ id,name,lang,new stars
 2464908,joomla/joomla-cms,PHP,55
 69691727,pmmp/PocketMine-MP,PHP,53
 74026995,CodelyTV/php-ddd-example,PHP,55
-248372441,laravel-filament/filament,PHP,384
+248372441,laravel-filament/filament,PHP,391
 61838413,danog/MadelineProto,PHP,47
 330980599,yanfeizhang/coder-kung-fu,PHP,392
 75645659,WordPress/wordpress-develop,PHP,30
