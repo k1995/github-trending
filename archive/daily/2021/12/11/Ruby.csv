@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,22
+8514,rails/rails,Ruby,20
 27442967,fastlane/fastlane,Ruby,6
-481872,hashicorp/vagrant,Ruby,5
+481872,hashicorp/vagrant,Ruby,4
 308770,heartcombo/devise,Ruby,2
 911765,diaspora/diaspora,Ruby,3
 1090311,elastic/logstash,Ruby,1
 4095287,rubocop/rubocop,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,38
-3195124,mperham/sidekiq,Ruby,4
+202291859,chatwoot/chatwoot,Ruby,37
+3195124,mperham/sidekiq,Ruby,3
 96395,faker-ruby/faker,Ruby,3
-1333863,kaminari/kaminari,Ruby,1
+1333863,kaminari/kaminari,Ruby,0
 108278,chef/chef,Ruby,3
-4994614,wpscanteam/wpscan,Ruby,2
+4994614,wpscanteam/wpscan,Ruby,3
 30985840,solidusio/solidus,Ruby,5
 52316423,luggit/react-native-config,Ruby,2
 137805,redis/redis-rb,Ruby,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 161399160,Shopify/shopify-cli,Ruby,1
 390548093,rails/importmap-rails,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,1
-221249571,seven1m/natalie,Ruby,16
+221249571,seven1m/natalie,Ruby,17
 44681900,turingschool-examples/erroneous_creatures,Ruby,0
