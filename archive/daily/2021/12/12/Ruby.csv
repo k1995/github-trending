@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,12
-27442967,fastlane/fastlane,Ruby,4
+8514,rails/rails,Ruby,11
+27442967,fastlane/fastlane,Ruby,3
 911765,diaspora/diaspora,Ruby,2
-1090311,elastic/logstash,Ruby,1
-4095287,rubocop/rubocop,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,8
-3195124,mperham/sidekiq,Ruby,3
+1090311,elastic/logstash,Ruby,2
+4095287,rubocop/rubocop,Ruby,1
+202291859,chatwoot/chatwoot,Ruby,10
+3195124,mperham/sidekiq,Ruby,2
 47087,carrierwaveuploader/carrierwave,Ruby,0
 2441517,puma/puma,Ruby,2
 108278,chef/chef,Ruby,1
@@ -17,7 +17,7 @@ id,name,lang,new stars
 34840276,elastic/ansible-elasticsearch,Ruby,1
 29151578,rswag/rswag,Ruby,2
 17228890,Shopify/shipit-engine,Ruby,1
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,2
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,1
 161399160,Shopify/shopify-cli,Ruby,0
 644899,onelogin/ruby-saml,Ruby,2
 221249571,seven1m/natalie,Ruby,5
