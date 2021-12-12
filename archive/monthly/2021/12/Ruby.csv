@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,236
+8514,rails/rails,Ruby,234
 65252,jekyll/jekyll,Ruby,219
 7569578,discourse/discourse,Ruby,246
 27442967,fastlane/fastlane,Ruby,178
-8681349,huginn/huginn,Ruby,248
-53238813,Homebrew/brew,Ruby,537
-2293158,rapid7/metasploit-framework,Ruby,291
+8681349,huginn/huginn,Ruby,247
+53238813,Homebrew/brew,Ruby,538
+2293158,rapid7/metasploit-framework,Ruby,295
 3623050,Homebrew/homebrew-cask,Ruby,120
-538746,ruby/ruby,Ruby,115
+538746,ruby/ruby,Ruby,114
 1090311,elastic/logstash,Ruby,50
-202291859,chatwoot/chatwoot,Ruby,265
-52855516,Homebrew/homebrew-core,Ruby,214
+202291859,chatwoot/chatwoot,Ruby,266
+52855516,Homebrew/homebrew-core,Ruby,217
 96395,faker-ruby/faker,Ruby,79
 1725199,github/linguist,Ruby,111
 15435,Shopify/liquid,Ruby,95
@@ -20,7 +20,7 @@ id,name,lang,new stars
 81134943,Shopify/bootsnap,Ruby,18
 1175581,citation-style-language/styles,Ruby,37
 93163073,dependabot/dependabot-core,Ruby,85
-200302808,github/view_component,Ruby,72
+200302808,github/view_component,Ruby,73
 55288882,d12frosted/homebrew-emacs-plus,Ruby,39
 161399160,Shopify/shopify-cli,Ruby,39
 229187949,shivammathur/homebrew-php,Ruby,103
