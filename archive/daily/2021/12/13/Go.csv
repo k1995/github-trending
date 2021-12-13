@@ -7,14 +7,14 @@ id,name,lang,new stars
 48109239,cilium/cilium,Go,78
 13021798,git-lfs/git-lfs,Go,5
 311315731,XTLS/Xray-core,Go,15
-140457254,OWASP/Amass,Go,11
+140457254,OWASP/Amass,Go,15
 172292744,panjf2000/gnet,Go,20
 14128006,hashicorp/raft,Go,22
 175405157,JanDeDobbeleer/oh-my-posh,Go,24
 413918947,vercel/turborepo,Go,368
 193681111,filecoin-project/lotus,Go,10
 286729329,zu1k/proxypool,Go,17
-267054247,anchore/grype,Go,98
+267054247,anchore/grype,Go,123
 367633459,cshum/imagor,Go,152
 391209033,charmbracelet/soft-serve,Go,48
 334169919,projectdiscovery/interactsh,Go,34
@@ -22,5 +22,5 @@ id,name,lang,new stars
 310632133,solana-labs/token-list,Go,10
 401299493,cdle/sillyGirl,Go,5
 301345449,c9s/bbgo,Go,5
-436432048,tkestack/kstone,Go,38
-228942508,charmbracelet/wish,Go,22
+436432048,tkestack/kstone,Go,21
+228942508,charmbracelet/wish,Go,18
