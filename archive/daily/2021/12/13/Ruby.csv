@@ -1,5 +1,5 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,7
+65252,jekyll/jekyll,Ruby,6
 7569578,discourse/discourse,Ruby,8
 8681349,huginn/huginn,Ruby,9
 52281283,mastodon/mastodon,Ruby,8
@@ -9,8 +9,8 @@ id,name,lang,new stars
 911765,diaspora/diaspora,Ruby,2
 1090311,elastic/logstash,Ruby,3
 4095287,rubocop/rubocop,Ruby,0
-3314,spree/spree,Ruby,3
-202291859,chatwoot/chatwoot,Ruby,7
+3314,spree/spree,Ruby,2
+202291859,chatwoot/chatwoot,Ruby,6
 3195124,mperham/sidekiq,Ruby,2
 88740103,postalserver/postal,Ruby,9
 96395,faker-ruby/faker,Ruby,0
