@@ -1,14 +1,14 @@
 id,name,lang,new stars
-246335987,ventoy/Ventoy,C,54
-1614410,FFmpeg/FFmpeg,C,18
+246335987,ventoy/Ventoy,C,56
+1614410,FFmpeg/FFmpeg,C,21
 80286288,arendst/Tasmota,C,10
-66150122,jarun/nnn,C,11
-45821540,openwrt/openwrt,C,6
-32873313,systemd/systemd,C,11
+66150122,jarun/nnn,C,12
+45821540,openwrt/openwrt,C,7
+32873313,systemd/systemd,C,10
 179354282,acidanthera/OpenCorePkg,C,4
-9524997,glfw/glfw,C,7
-1856976,libevent/libevent,C,5
-13836499,raysan5/raylib,C,9
+9524997,glfw/glfw,C,8
+1856976,libevent/libevent,C,3
+13836499,raysan5/raylib,C,8
 70127218,espressif/arduino-esp32,C,4
 437011,openzfs/zfs,C,1
 2328181,freebsd/freebsd-src,C,2
@@ -18,9 +18,9 @@ id,name,lang,new stars
 181894913,chrismaltby/gb-studio,C,7
 3565909,raspberrypi/firmware,C,3
 97212490,floooh/sokol,C,9
-92203868,nullgemm/ly,C,3
+92203868,nullgemm/ly,C,4
 117704656,remzi-arpacidusseau/ostep-projects,C,2
-401508496,M2Team/NanaZip,C,26
-45734719,enjoy-digital/litex,C,6
+401508496,M2Team/NanaZip,C,24
+45734719,enjoy-digital/litex,C,8
+390802393,tsherif/space-shooter.c,C,300
 362586600,jdah/jdh-8,C,14
-390802393,tsherif/space-shooter.c,C,308
