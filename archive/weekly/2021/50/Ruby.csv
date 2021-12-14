@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,85
-7569578,discourse/discourse,Ruby,60
-27442967,fastlane/fastlane,Ruby,38
-13840241,freeCodeCamp/devdocs,Ruby,58
+8514,rails/rails,Ruby,86
+7569578,discourse/discourse,Ruby,59
+27442967,fastlane/fastlane,Ruby,39
+13840241,freeCodeCamp/devdocs,Ruby,56
 52281283,mastodon/mastodon,Ruby,69
 2293158,rapid7/metasploit-framework,Ruby,72
 308770,heartcombo/devise,Ruby,18
 1090311,elastic/logstash,Ruby,23
-202291859,chatwoot/chatwoot,Ruby,115
-88740103,postalserver/postal,Ruby,94
-1918677,fluent/fluentd,Ruby,21
+202291859,chatwoot/chatwoot,Ruby,117
+88740103,postalserver/postal,Ruby,96
+1918677,fluent/fluentd,Ruby,20
 1725199,github/linguist,Ruby,33
 108278,chef/chef,Ruby,12
 75785147,rails/webpacker,Ruby,7
@@ -20,7 +20,7 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,18
 9831101,elastic/elasticsearch-ruby,Ruby,4
 8472417,Shopify/identity_cache,Ruby,1
-64552869,LionSec/xerosploit,Ruby,8
+64552869,LionSec/xerosploit,Ruby,7
 34840276,elastic/ansible-elasticsearch,Ruby,5
 161399160,Shopify/shopify-cli,Ruby,3
 1795802,Shopify/money,Ruby,3
