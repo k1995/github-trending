@@ -1,8 +1,8 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,12
-70104825,dotnet-architecture/eShopOnContainers,C#,8
+49609581,PowerShell/PowerShell,C#,13
+70104825,dotnet-architecture/eShopOnContainers,C#,9
 262395224,dotnet/maui,C#,15
-14964475,AvaloniaUI/Avalonia,C#,5
+14964475,AvaloniaUI/Avalonia,C#,6
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,3
 132453438,unoplatform/uno,C#,3
 54213490,xamarin/Xamarin.Forms,C#,0
@@ -10,7 +10,7 @@ id,name,lang,new stars
 8198511,serilog/serilog,C#,5
 5844474,EventStore/EventStore,C#,4
 2928944,Azure/azure-sdk-for-net,C#,2
-117102183,ChilliCream/hotchocolate,C#,0
+117102183,ChilliCream/hotchocolate,C#,1
 121049045,skoruba/IdentityServer4.Admin,C#,3
 70555871,QianMo/Unity-Design-Pattern,C#,36
 187499284,Cysharp/UniTask,C#,7
@@ -20,7 +20,7 @@ id,name,lang,new stars
 234068197,MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,C#,0
 158311266,mob-sakai/SoftMaskForUGUI,C#,1
 131026794,Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,1
-437370545,cube0x0/noPac,C#,121
+437370545,cube0x0/noPac,C#,89
 29002406,rottytooth/Folders,C#,9
 426551932,keijiro/Bibcam,C#,1
 428552452,keijiro/BibcamVfx,C#,1
