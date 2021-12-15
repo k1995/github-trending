@@ -4,8 +4,8 @@ id,name,lang,new stars
 261039251,pointfreeco/swift-composable-architecture,Swift,39
 268424739,helix-editor/helix,Rust,77
 412776131,QianMo/Real-Time-Rendering-4th-Bibliography-Collection,HTML,262
-42580311,rolling-scopes-school/tasks,JavaScript,112
 437729997,fullhunt/log4j-scan,Python,328
+42580311,rolling-scopes-school/tasks,JavaScript,112
 437470348,NCSC-NL/log4shell,,422
 437254922,inconvergent/weird,Common Lisp,169
 437264961,Neo23x0/log4shell-detector,Python,124
@@ -13,10 +13,10 @@ id,name,lang,new stars
 437314230,WazeHell/sam-the-admin,Python,116
 426152354,i5ting/rust-fe,,77
 437426386,corretto/hotpatch-for-apache-log4j2,Java,75
-437261211,logpresso/CVE-2021-44228-Scanner,Java,64
 437040154,parallel101/course,C++,47
-437419010,mergebase/log4j-detector,Java,54
+437261211,logpresso/CVE-2021-44228-Scanner,Java,64
 419661684,DataTalksClub/data-engineering-zoomcamp,,46
+437419010,mergebase/log4j-detector,Java,54
 437139341,kozmer/log4j-shell-poc,Java,55
 436900024,leonjza/log4jpwn,Python,60
 437325263,hillu/local-log4j-vuln-scanner,Go,41
