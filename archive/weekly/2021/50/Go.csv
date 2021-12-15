@@ -1,18 +1,18 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,287
 20904437,gin-gonic/gin,Go,232
-42408804,traefik/traefik,Go,146
+42408804,traefik/traefik,Go,150
 135516270,k3s-io/k3s,Go,89
-234231371,gofiber/fiber,Go,184
+234231371,gofiber/fiber,Go,185
 123572362,quii/learn-go-with-tests,Go,101
 165041732,go-kratos/kratos,Go,109
-6051812,gorilla/mux,Go,72
-120227732,fyne-io/fyne,Go,332
+6051812,gorilla/mux,Go,74
+120227732,fyne-io/fyne,Go,317
 205679232,flipped-aurora/gin-vue-admin,Go,112
-31558937,gravitational/teleport,Go,67
-36653430,hashicorp/nomad,Go,35
+31558937,gravitational/teleport,Go,65
+36653430,hashicorp/nomad,Go,36
 48109239,cilium/cilium,Go,438
-180687624,aquasecurity/trivy,Go,132
+180687624,aquasecurity/trivy,Go,134
 95761244,gogf/gf,Go,61
 252813491,projectdiscovery/nuclei,Go,202
 172292744,panjf2000/gnet,Go,103
@@ -23,4 +23,4 @@ id,name,lang,new stars
 193681111,filecoin-project/lotus,Go,43
 262126497,anchore/syft,Go,644
 170803235,magma/magma,Go,16
-424027493,coinbase/kryptology,Go,346
+424027493,coinbase/kryptology,Go,348
