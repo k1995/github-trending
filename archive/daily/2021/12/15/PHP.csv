@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1129010,blueimp/jQuery-File-Upload,PHP,2
-458058,symfony/symfony,PHP,9
-1376664,Seldaek/monolog,PHP,3
+1129010,blueimp/jQuery-File-Upload,PHP,0
+458058,symfony/symfony,PHP,8
+1376664,Seldaek/monolog,PHP,2
 448045,sebastianbergmann/phpunit,PHP,2
-82238168,monicahq/monica,PHP,6
-7769432,vlucas/phpdotenv,PHP,5
+82238168,monicahq/monica,PHP,5
+7769432,vlucas/phpdotenv,PHP,4
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
 622166,FriendsOfPHP/Goutte,PHP,2
 656494,cakephp/cakephp,PHP,3
@@ -13,14 +13,14 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,0
 148129143,bagisto/bagisto,PHP,9
 8077402,MISP/MISP,PHP,1
-47508644,pterodactyl/panel,PHP,2
-1957456,Dolibarr/dolibarr,PHP,6
+47508644,pterodactyl/panel,PHP,1
+1957456,Dolibarr/dolibarr,PHP,7
 39182755,glpi-project/glpi,PHP,0
 175168121,changeweb/Unifiedtransform,PHP,1
-248372441,laravel-filament/filament,PHP,30
+248372441,laravel-filament/filament,PHP,33
 29501260,api-platform/core,PHP,3
 111099392,chrome-php/chrome,PHP,0
-355522545,kalcaddle/kodbox,PHP,3
-400984450,kuaifan/dootask,PHP,45
-428315972,spatie/laravel-health,PHP,26
+355522545,kalcaddle/kodbox,PHP,2
+400984450,kuaifan/dootask,PHP,65
+428315972,spatie/laravel-health,PHP,22
 184538454,yankovalenko94/Webdev2019,PHP,0
