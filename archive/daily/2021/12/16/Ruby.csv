@@ -1,9 +1,9 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,3
+27442967,fastlane/fastlane,Ruby,4
 53238813,Homebrew/brew,Ruby,10
-308770,heartcombo/devise,Ruby,2
+308770,heartcombo/devise,Ruby,1
 2203645,CocoaPods/CocoaPods,Ruby,1
-3314,spree/spree,Ruby,1
+3314,spree/spree,Ruby,2
 3195124,mperham/sidekiq,Ruby,2
 96395,faker-ruby/faker,Ruby,3
 8393,thoughtbot/paperclip,Ruby,1
@@ -11,16 +11,16 @@ id,name,lang,new stars
 6529205,varvet/pundit,Ruby,3
 6899875,opf/openproject,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,3
-2802565,doorkeeper-gem/doorkeeper,Ruby,1
-1734,aasm/aasm,Ruby,6
+2802565,doorkeeper-gem/doorkeeper,Ruby,2
+1734,aasm/aasm,Ruby,3
 52316423,luggit/react-native-config,Ruby,1
 168370,jruby/jruby,Ruby,3
-614070,rubygems/rubygems,Ruby,1
+614070,rubygems/rubygems,Ruby,0
 3654364,roo-rb/roo,Ruby,4
 3277842,googleapis/google-api-ruby-client,Ruby,1
 1175581,citation-style-language/styles,Ruby,2
 93163073,dependabot/dependabot-core,Ruby,5
-15042048,toptal/chewy,Ruby,1
+15042048,toptal/chewy,Ruby,2
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,0
 34840276,elastic/ansible-elasticsearch,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,0

@@ -1,26 +1,26 @@
 id,name,lang,new stars
 121395510,CyC2018/CS-Notes,Java,94
-14098069,justjavac/free-programming-books-zh_CN,,103
+14098069,justjavac/free-programming-books-zh_CN,,105
 261039251,pointfreeco/swift-composable-architecture,Swift,49
-268424739,helix-editor/helix,Rust,99
+268424739,helix-editor/helix,Rust,102
 412776131,QianMo/Real-Time-Rendering-4th-Bibliography-Collection,HTML,274
 437729997,fullhunt/log4j-scan,Python,364
-42580311,rolling-scopes-school/tasks,JavaScript,60
+42580311,rolling-scopes-school/tasks,JavaScript,61
 437470348,NCSC-NL/log4shell,,433
-437254922,inconvergent/weird,Common Lisp,143
+437254922,inconvergent/weird,Common Lisp,142
 437264961,Neo23x0/log4shell-detector,Python,103
-437058534,ChendoChap/pOOBs4,JavaScript,109
+437058534,ChendoChap/pOOBs4,JavaScript,106
 437314230,WazeHell/sam-the-admin,Python,74
-426152354,i5ting/rust-fe,,83
-437426386,corretto/hotpatch-for-apache-log4j2,Java,92
-437261211,logpresso/CVE-2021-44228-Scanner,Java,87
+426152354,i5ting/rust-fe,,84
 437040154,parallel101/course,C++,60
+437426386,corretto/hotpatch-for-apache-log4j2,Java,90
+437261211,logpresso/CVE-2021-44228-Scanner,Java,97
 437419010,mergebase/log4j-detector,Java,61
 419661684,DataTalksClub/data-engineering-zoomcamp,,53
 437139341,kozmer/log4j-shell-poc,Java,138
 437325263,hillu/local-log4j-vuln-scanner,Go,61
 436900024,leonjza/log4jpwn,Python,35
 437674455,Diverto/nse-log4shell,Lua,70
-437438829,alexandre-lavoie/python-log4rce,Python,29
+437438829,alexandre-lavoie/python-log4rce,Python,30
 395785535,solana-labs/spl-zk-token,Rust,19
 437706967,cloudera/cloudera-scripts-for-log4j,Shell,10
