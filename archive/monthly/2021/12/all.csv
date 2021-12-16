@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,5150
+13491895,EbookFoundation/free-programming-books,,5180
 85077558,kamranahmedse/developer-roadmap,TypeScript,4931
-123458551,jackfrued/Python-100-Days,Python,2104
-3482588,danielmiessler/SecLists,PHP,1243
-203587744,hoppscotch/hoppscotch,Vue,1894
-214587193,supabase/supabase,TypeScript,3418
-134017286,jesseduffield/lazygit,Go,2962
+3482588,danielmiessler/SecLists,PHP,1247
+214587193,supabase/supabase,TypeScript,3414
+134017286,jesseduffield/lazygit,Go,2963
 77213120,Eugeny/tabby,TypeScript,4546
-143455116,google/filament,C++,1131
-377496562,AppFlowy-IO/appflowy,Rust,12077
-148496687,YunaiV/SpringBoot-Labs,Java,524
-281975310,type-challenges/type-challenges,TypeScript,1851
-349321229,TencentARC/GFPGAN,Python,6381
+179613976,PKUanonym/REKCARC-TSC-UHT,HTML,1240
+377496562,AppFlowy-IO/appflowy,Rust,11774
+281975310,type-challenges/type-challenges,TypeScript,1850
+48109239,cilium/cilium,Go,678
+349321229,TencentARC/GFPGAN,Python,6442
 69673033,ardalis/CleanArchitecture,C#,877
+190729906,Budibase/budibase,JavaScript,2757
 293498508,JetBrains/compose-jb,Kotlin,887
-123807729,jaakkopasanen/AutoEq,Jupyter Notebook,760
-107833072,flame-engine/flame,Dart,598
+123807729,jaakkopasanen/AutoEq,Jupyter Notebook,756
 50160261,PaperMC/Paper,Java,534
-234739976,medusajs/medusa,JavaScript,3544
-422821402,FerretDB/FerretDB,Go,1557
-339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,1509
-425159471,sunym1993/flash-linux0.11-talk,C,2011
+234739976,medusajs/medusa,JavaScript,3557
+422821402,FerretDB/FerretDB,Go,1556
+285618804,Kyome22/RunCat_for_windows,C#,1739
+339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,1504
+414835328,yeemachine/kalidokit,TypeScript,1191
+425159471,sunym1993/flash-linux0.11-talk,C,1971
 246387644,ava-labs/avalanchego,Go,360
 265775217,binance-chain/bsc,Go,241
-341376033,OlympusDAO/olympus-contracts,Solidity,197
+341376033,OlympusDAO/olympus-contracts,Solidity,202
