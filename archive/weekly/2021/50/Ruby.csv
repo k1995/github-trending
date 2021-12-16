@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,84
-7569578,discourse/discourse,Ruby,61
-27442967,fastlane/fastlane,Ruby,33
-52281283,mastodon/mastodon,Ruby,66
-2293158,rapid7/metasploit-framework,Ruby,65
+8514,rails/rails,Ruby,89
+7569578,discourse/discourse,Ruby,60
+27442967,fastlane/fastlane,Ruby,34
+52281283,mastodon/mastodon,Ruby,65
+2293158,rapid7/metasploit-framework,Ruby,67
 308770,heartcombo/devise,Ruby,19
 2203645,CocoaPods/CocoaPods,Ruby,16
 911765,diaspora/diaspora,Ruby,16
 1090311,elastic/logstash,Ruby,29
-202291859,chatwoot/chatwoot,Ruby,113
+202291859,chatwoot/chatwoot,Ruby,115
 3195124,mperham/sidekiq,Ruby,20
-88740103,postalserver/postal,Ruby,109
-1918677,fluent/fluentd,Ruby,18
+88740103,postalserver/postal,Ruby,108
+1918677,fluent/fluentd,Ruby,19
 108278,chef/chef,Ruby,11
-75785147,rails/webpacker,Ruby,6
+75785147,rails/webpacker,Ruby,7
 18294,activemerchant/active_merchant,Ruby,4
 30985840,solidusio/solidus,Ruby,13
 14238949,elastic/elasticsearch-rails,Ruby,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 34840276,elastic/ansible-elasticsearch,Ruby,6
 61203,Shopify/shopify_app,Ruby,0
 1784628,rails/sprockets-rails,Ruby,0
-48370306,elastic/ansible-beats,Ruby,1
+48370306,elastic/ansible-beats,Ruby,0

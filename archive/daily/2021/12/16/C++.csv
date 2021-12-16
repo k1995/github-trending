@@ -1,20 +1,20 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,18
-23357588,protocolbuffers/protobuf,C++,24
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,8
-19953044,google/flatbuffers,C++,5
+23357588,protocolbuffers/protobuf,C++,30
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,10
+19953044,google/flatbuffers,C++,8
 31522041,vnpy/vnpy,C++,11
 251383553,electronicarts/CnC_Remastered_Collection,C++,14
-81227005,facebookresearch/faiss,C++,150
-191820100,google/mediapipe,C++,27
-14981376,dogecoin/dogecoin,C++,10
-102692863,onnx/onnx,C++,7
-311683390,WerWolv/ImHex,C++,43
-17391973,Tencent/rapidjson,C++,6
+81227005,facebookresearch/faiss,C++,97
+191820100,google/mediapipe,C++,33
+14981376,dogecoin/dogecoin,C++,9
+102692863,onnx/onnx,C++,9
+311683390,WerWolv/ImHex,C++,48
+17391973,Tencent/rapidjson,C++,4
 2345629,zaphoyd/websocketpp,C++,6
 8096326,openMVG/openMVG,C++,3
 280608729,UZ-SLAMLab/ORB_SLAM3,C++,3
-153097643,openvinotoolkit/openvino,C++,6
+153097643,openvinotoolkit/openvino,C++,7
 224908244,WasmEdge/WasmEdge,C++,26
 35825593,cdcseacave/openMVS,C++,2
 49978193,valhalla/valhalla,C++,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 207663235,cmu-db/bustub,C++,5
 221101274,github/securitylab,C++,3
 135363400,ros-planning/navigation2,C++,3
-320748014,MacgyverLin/GLSLRayMarching,C++,85
+320748014,MacgyverLin/GLSLRayMarching,C++,80
 437040154,parallel101/course,C++,60
