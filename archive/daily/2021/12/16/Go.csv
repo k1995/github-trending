@@ -13,11 +13,11 @@ id,name,lang,new stars
 53553027,nginxinc/kubernetes-ingress,Go,3
 229030654,go-git/go-git,Go,9
 192178626,marcel-dempers/docker-development-youtube-series,Go,4
-299832860,livekit/livekit-server,Go,16
+299832860,livekit/livekit-server,Go,15
 267054247,anchore/grype,Go,146
 113404957,kata-containers/kata-containers,Go,7
 41317079,prometheus-community/postgres_exporter,Go,3
-262126497,anchore/syft,Go,84
+262126497,anchore/syft,Go,82
 133830411,argoproj/argo-events,Go,2
 334169919,projectdiscovery/interactsh,Go,38
 424027493,coinbase/kryptology,Go,34

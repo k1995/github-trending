@@ -1,15 +1,15 @@
 id,name,lang,new stars
 1129010,blueimp/jQuery-File-Upload,PHP,1
 458058,symfony/symfony,PHP,6
-7548986,laravel/framework,PHP,18
-60243197,nextcloud/server,PHP,20
-2253830,PHPMailer/PHPMailer,PHP,4
-12615154,barryvdh/laravel-debugbar,PHP,3
-2884111,magento/magento2,PHP,1
-2179920,woocommerce/woocommerce,PHP,5
+7548986,laravel/framework,PHP,13
+60243197,nextcloud/server,PHP,19
+2253830,PHPMailer/PHPMailer,PHP,3
+12615154,barryvdh/laravel-debugbar,PHP,1
+2884111,magento/magento2,PHP,2
+2179920,woocommerce/woocommerce,PHP,4
 14346979,snipe/snipe-it,PHP,4
 33916850,spatie/laravel-medialibrary,PHP,0
-97311017,rectorphp/rector,PHP,7
+97311017,rectorphp/rector,PHP,9
 76064827,mailcow/mailcow-dockerized,PHP,1
 60010673,elementor/elementor,PHP,0
 2464908,joomla/joomla-cms,PHP,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 311448648,laravel/breeze,PHP,4
 4698175,composer/installers,PHP,1
 1430051,TYPO3/typo3,PHP,2
-222903503,LaravelDaily/laravel-invoices,PHP,3
-400984450,kuaifan/dootask,PHP,42
-428315972,spatie/laravel-health,PHP,18
+222903503,LaravelDaily/laravel-invoices,PHP,4
+400984450,kuaifan/dootask,PHP,30
+428315972,spatie/laravel-health,PHP,17
