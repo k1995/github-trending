@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,116
+8514,rails/rails,Ruby,128
 27442967,fastlane/fastlane,Ruby,33
-308770,heartcombo/devise,Ruby,17
+308770,heartcombo/devise,Ruby,15
 2203645,CocoaPods/CocoaPods,Ruby,14
 1090311,elastic/logstash,Ruby,32
-202291859,chatwoot/chatwoot,Ruby,83
-3195124,mperham/sidekiq,Ruby,24
-88740103,postalserver/postal,Ruby,112
+202291859,chatwoot/chatwoot,Ruby,78
+3195124,mperham/sidekiq,Ruby,25
+88740103,postalserver/postal,Ruby,110
 1918677,fluent/fluentd,Ruby,16
 611921,activeadmin/activeadmin,Ruby,4
-6529205,varvet/pundit,Ruby,10
+6529205,varvet/pundit,Ruby,9
 2441517,puma/puma,Ruby,11
 108278,chef/chef,Ruby,12
 75785147,rails/webpacker,Ruby,4
@@ -19,8 +19,8 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,28
 200302808,github/view_component,Ruby,12
 34840276,elastic/ansible-elasticsearch,Ruby,5
-29151578,rswag/rswag,Ruby,13
-390548093,rails/importmap-rails,Ruby,26
-221249571,seven1m/natalie,Ruby,25
+29151578,rswag/rswag,Ruby,11
+390548093,rails/importmap-rails,Ruby,27
+221249571,seven1m/natalie,Ruby,22
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
 347104426,learn-co-curriculum/phase-3-nested-hash-iteration,Ruby,0
