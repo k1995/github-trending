@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,31
+8514,rails/rails,Ruby,29
 27442967,fastlane/fastlane,Ruby,6
-2500088,gitlabhq/gitlabhq,Ruby,4
+2500088,gitlabhq/gitlabhq,Ruby,3
 73648678,forem/forem,Ruby,7
 1090311,elastic/logstash,Ruby,7
-11423758,mame/quine-relay,Ruby,12
-4095287,rubocop/rubocop,Ruby,1
+11423758,mame/quine-relay,Ruby,10
+4095287,rubocop/rubocop,Ruby,2
 3314,spree/spree,Ruby,3
 3195124,mperham/sidekiq,Ruby,3
 611921,activeadmin/activeadmin,Ruby,1
-451035,heartcombo/simple_form,Ruby,2
+451035,heartcombo/simple_form,Ruby,1
 6529205,varvet/pundit,Ruby,1
-2441517,puma/puma,Ruby,5
+2441517,puma/puma,Ruby,4
 108278,chef/chef,Ruby,0
-910744,puppetlabs/puppet,Ruby,4
+910744,puppetlabs/puppet,Ruby,3
 535266,vcr/vcr,Ruby,0
 1548802,activerecord-hackery/ransack,Ruby,2
 30337170,rmosolgo/graphql-ruby,Ruby,0

@@ -1,15 +1,15 @@
 id,name,lang,new stars
-6296790,spring-projects/spring-boot,Java,699
+6296790,spring-projects/spring-boot,Java,700
 507775,elastic/elasticsearch,Java,572
 206462776,kon9chunkit/GitHub-Chinese-Top-Charts,Java,1277
-173228436,NationalSecurityAgency/ghidra,Java,749
+173228436,NationalSecurityAgency/ghidra,Java,748
 64558143,Blankj/AndroidUtilCode,Java,197
-9754983,eugenp/tutorials,Java,481
+9754983,eugenp/tutorials,Java,480
 159152904,jeecgboot/jeecg-boot,Java,620
-112785414,alibaba/spring-cloud-alibaba,Java,335
+112785414,alibaba/spring-cloud-alibaba,Java,336
 137451403,alibaba/nacos,Java,429
-2211243,apache/kafka,Java,304
-47023603,xuxueli/xxl-job,Java,316
+2211243,apache/kafka,Java,305
+47023603,xuxueli/xxl-job,Java,315
 1103607,jenkinsci/jenkins,Java,180
 75164823,apache/rocketmq,Java,289
 148496687,YunaiV/SpringBoot-Labs,Java,524
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1051476,plantuml/plantuml,Java,217
 29955458,frohoff/ysoserial,Java,149
 46398090,linkedin/datahub,Java,448
-306449955,IrisShaders/Iris,Java,189
+306449955,IrisShaders/Iris,Java,188
 377354200,acmenlt/dynamic-threadpool,Java,954
