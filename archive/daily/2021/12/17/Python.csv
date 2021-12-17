@@ -1,10 +1,10 @@
 id,name,lang,new stars
 1039520,ytdl-org/youtube-dl,Python,57
-873328,getsentry/sentry,Python,17
+873328,getsentry/sentry,Python,20
 125266328,psf/black,Python,16
 145670234,open-mmlab/mmdetection,Python,8
 178626720,PyTorchLightning/pytorch-lightning,Python,16
-42625970,tzutalin/labelImg,Python,11
+42625970,tzutalin/labelImg,Python,9
 154739597,google/jax,Python,25
 145693916,kornia/kornia,Python,13
 259710503,speechbrain/speechbrain,Python,6
@@ -19,6 +19,6 @@ id,name,lang,new stars
 431112752,HeisenbergEmpire/studynote,Python,96
 436900024,leonjza/log4jpwn,Python,18
 438203240,fox-it/log4j-finder,Python,87
-438053162,ly4k/Pachine,Python,22
+438053162,ly4k/Pachine,Python,20
 438005548,cyberstruggle/L4sh,Python,39
 422175049,zabbix/community-templates,Python,11
