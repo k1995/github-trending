@@ -1,7 +1,7 @@
 id,name,lang,new stars
 121395510,CyC2018/CS-Notes,Java,93
-6296790,spring-projects/spring-boot,Java,21
-1148753,spring-projects/spring-framework,Java,16
+6296790,spring-projects/spring-boot,Java,23
+1148753,spring-projects/spring-framework,Java,15
 44662669,dbeaver/dbeaver,Java,29
 6766558,Netflix/Hystrix,Java,8
 148496687,YunaiV/SpringBoot-Labs,Java,21
@@ -9,18 +9,18 @@ id,name,lang,new stars
 33082868,sqshq/piggymetrics,Java,12
 221862,projectlombok/lombok,Java,0
 209921402,newbee-ltd/newbee-mall,Java,10
-237867883,metersphere/metersphere,Java,33
+237867883,metersphere/metersphere,Java,34
 391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,3
 27911088,apache/nifi,Java,1
 76400426,spring-cloud/spring-cloud-kubernetes,Java,1
 332357698,YunaiV/ruoyi-vue-pro,Java,15
 282994686,ververica/flink-cdc-connectors,Java,6
 312830970,648540858/wvp-GB28181-pro,Java,7
-437261211,logpresso/CVE-2021-44228-Scanner,Java,112
-437426386,corretto/hotpatch-for-apache-log4j2,Java,61
-437139341,kozmer/log4j-shell-poc,Python,109
-437419010,mergebase/log4j-detector,Java,66
-437884964,woodpecker-appstore/log4j-payload-generator,Java,26
+437261211,logpresso/CVE-2021-44228-Scanner,Java,103
+437426386,corretto/hotpatch-for-apache-log4j2,Java,62
+437139341,kozmer/log4j-shell-poc,Java,94
+437419010,mergebase/log4j-detector,Java,54
+437884964,woodpecker-appstore/log4j-payload-generator,Java,27
 437354791,huntresslabs/log4shell-tester,Java,27
 433755027,xpc1024/easy-es,Java,10
 437582859,nccgroup/log4j-jndi-be-gone,Java,8
