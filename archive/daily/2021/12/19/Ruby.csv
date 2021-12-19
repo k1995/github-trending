@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,35
+8514,rails/rails,Ruby,33
 27442967,fastlane/fastlane,Ruby,2
 481872,hashicorp/vagrant,Ruby,1
 538746,ruby/ruby,Ruby,1
 4095287,rubocop/rubocop,Ruby,0
-3195124,mperham/sidekiq,Ruby,2
+3195124,mperham/sidekiq,Ruby,3
 96395,faker-ruby/faker,Ruby,1
 611921,activeadmin/activeadmin,Ruby,1
 451035,heartcombo/simple_form,Ruby,0
@@ -19,7 +19,7 @@ id,name,lang,new stars
 1462,ctran/annotate_models,Ruby,1
 11426474,github/choosealicense.com,Ruby,1
 165262778,fxn/zeitwerk,Ruby,3
-393390354,motor-admin/motor-admin,Ruby,10
+393390354,motor-admin/motor-admin,Ruby,9
 390548093,rails/importmap-rails,Ruby,2
 403641521,rails/jsbundling-rails,Ruby,2
 404019967,rails/cssbundling-rails,Ruby,0
