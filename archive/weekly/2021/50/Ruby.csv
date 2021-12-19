@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,165
-27442967,fastlane/fastlane,Ruby,30
-2293158,rapid7/metasploit-framework,Ruby,75
-308770,heartcombo/devise,Ruby,18
+8514,rails/rails,Ruby,167
+27442967,fastlane/fastlane,Ruby,29
+2293158,rapid7/metasploit-framework,Ruby,76
+308770,heartcombo/devise,Ruby,19
 2203645,CocoaPods/CocoaPods,Ruby,13
 1090311,elastic/logstash,Ruby,41
-202291859,chatwoot/chatwoot,Ruby,69
+202291859,chatwoot/chatwoot,Ruby,68
 3195124,mperham/sidekiq,Ruby,24
 88740103,postalserver/postal,Ruby,99
 1918677,fluent/fluentd,Ruby,20
@@ -19,7 +19,7 @@ id,name,lang,new stars
 14238949,elastic/elasticsearch-rails,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,26
 34840276,elastic/ansible-elasticsearch,Ruby,4
-165262778,fxn/zeitwerk,Ruby,16
+165262778,fxn/zeitwerk,Ruby,15
 29151578,rswag/rswag,Ruby,10
 390548093,rails/importmap-rails,Ruby,30
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
