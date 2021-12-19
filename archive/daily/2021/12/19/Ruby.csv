@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,19
+8514,rails/rails,Ruby,9
 27442967,fastlane/fastlane,Ruby,3
 481872,hashicorp/vagrant,Ruby,1
-538746,ruby/ruby,Ruby,2
+538746,ruby/ruby,Ruby,3
 4095287,rubocop/rubocop,Ruby,0
-3195124,mperham/sidekiq,Ruby,3
+3195124,mperham/sidekiq,Ruby,4
 96395,faker-ruby/faker,Ruby,1
 611921,activeadmin/activeadmin,Ruby,1
 451035,heartcombo/simple_form,Ruby,0
@@ -14,13 +14,13 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,1
 33739333,thoughtbot/administrate,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,0
-1548802,activerecord-hackery/ransack,Ruby,0
+1548802,activerecord-hackery/ransack,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,4
 1462,ctran/annotate_models,Ruby,0
-11426474,github/choosealicense.com,Ruby,1
+11426474,github/choosealicense.com,Ruby,0
 165262778,fxn/zeitwerk,Ruby,2
-393390354,motor-admin/motor-admin,Ruby,7
-390548093,rails/importmap-rails,Ruby,2
+393390354,motor-admin/motor-admin,Ruby,4
+390548093,rails/importmap-rails,Ruby,1
 403641521,rails/jsbundling-rails,Ruby,2
 404019967,rails/cssbundling-rails,Ruby,1
 374113809,learn-co-curriculum/phase-4-mock-challenge-camping-fun,Ruby,0

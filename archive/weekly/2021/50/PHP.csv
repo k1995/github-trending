@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,105
+1863329,laravel/laravel,PHP,103
 2579314,fzaninotto/Faker,PHP,23
-7548986,laravel/framework,PHP,87
+7548986,laravel/framework,PHP,85
 1376664,Seldaek/monolog,PHP,31
-60243197,nextcloud/server,PHP,94
+60243197,nextcloud/server,PHP,95
 2253830,PHPMailer/PHPMailer,PHP,39
 2889328,WordPress/WordPress,PHP,35
 47495360,koel/koel,PHP,36
@@ -15,12 +15,12 @@ id,name,lang,new stars
 222873550,crater-invoice/crater,PHP,116
 76064827,mailcow/mailcow-dockerized,PHP,34
 3817881,zircote/swagger-php,PHP,9
-11935508,RSS-Bridge/rss-bridge,PHP,132
+11935508,RSS-Bridge/rss-bridge,PHP,134
 47508644,pterodactyl/panel,PHP,22
 1957456,Dolibarr/dolibarr,PHP,32
 182349597,jqhph/dcat-admin,PHP,18
 153069455,collabnix/dockerlabs,PHP,20
-248372441,laravel-filament/filament,PHP,194
+248372441,laravel-filament/filament,PHP,182
 17253775,zabbix/zabbix,PHP,15
-400984450,kuaifan/dootask,PHP,266
+400984450,kuaifan/dootask,PHP,265
 428315972,spatie/laravel-health,PHP,86

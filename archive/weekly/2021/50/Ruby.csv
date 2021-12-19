@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,166
-27442967,fastlane/fastlane,Ruby,31
-2293158,rapid7/metasploit-framework,Ruby,73
+8514,rails/rails,Ruby,164
+27442967,fastlane/fastlane,Ruby,28
+2293158,rapid7/metasploit-framework,Ruby,75
 481872,hashicorp/vagrant,Ruby,34
 308770,heartcombo/devise,Ruby,18
 2203645,CocoaPods/CocoaPods,Ruby,13
 1090311,elastic/logstash,Ruby,41
-3195124,mperham/sidekiq,Ruby,23
-88740103,postalserver/postal,Ruby,101
+3195124,mperham/sidekiq,Ruby,24
+88740103,postalserver/postal,Ruby,99
 1918677,fluent/fluentd,Ruby,20
 96395,faker-ruby/faker,Ruby,15
 611921,activeadmin/activeadmin,Ruby,4
@@ -15,7 +15,7 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,8
 108278,chef/chef,Ruby,8
 75785147,rails/webpacker,Ruby,6
-1548802,activerecord-hackery/ransack,Ruby,5
+1548802,activerecord-hackery/ransack,Ruby,6
 14238949,elastic/elasticsearch-rails,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,26
 34840276,elastic/ansible-elasticsearch,Ruby,4
