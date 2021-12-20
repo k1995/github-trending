@@ -1,21 +1,21 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,417
-3482588,danielmiessler/SecLists,PHP,1228
+1863329,laravel/laravel,PHP,418
+3482588,danielmiessler/SecLists,PHP,1230
 1129010,blueimp/jQuery-File-Upload,PHP,49
-458058,symfony/symfony,PHP,259
+458058,symfony/symfony,PHP,258
 7548986,laravel/framework,PHP,360
 1376664,Seldaek/monolog,PHP,129
-60243197,nextcloud/server,PHP,389
+60243197,nextcloud/server,PHP,392
 2889328,WordPress/WordPress,PHP,130
-1631570,nikic/PHP-Parser,PHP,118
+1631570,nikic/PHP-Parser,PHP,119
 53783664,easychen/howto-make-more-money,PHP,103
 47495360,koel/koel,PHP,125
-1305114,roots/sage,PHP,78
+1305114,roots/sage,PHP,77
 2884111,magento/magento2,PHP,72
-29843361,w7corp/easywechat,PHP,52
+29843361,w7corp/easywechat,PHP,50
 12166778,googleapis/google-api-php-client,PHP,81
-222873550,crater-invoice/crater,PHP,500
-76064827,mailcow/mailcow-dockerized,PHP,98
+222873550,crater-invoice/crater,PHP,499
+76064827,mailcow/mailcow-dockerized,PHP,97
 2464908,joomla/joomla-cms,PHP,62
 47508644,pterodactyl/panel,PHP,75
 69691727,pmmp/PocketMine-MP,PHP,52
@@ -23,4 +23,4 @@ id,name,lang,new stars
 39182755,glpi-project/glpi,PHP,62
 248372441,laravel-filament/filament,PHP,625
 61838413,danog/MadelineProto,PHP,57
-330980599,yanfeizhang/coder-kung-fu,PHP,412
+330980599,yanfeizhang/coder-kung-fu,PHP,413
