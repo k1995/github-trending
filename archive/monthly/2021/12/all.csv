@@ -1,26 +1,26 @@
 id,name,lang,new stars
 13491895,EbookFoundation/free-programming-books,,5350
-85077558,kamranahmedse/developer-roadmap,TypeScript,5010
-1039520,ytdl-org/youtube-dl,Python,1518
+85077558,kamranahmedse/developer-roadmap,TypeScript,5009
+1039520,ytdl-org/youtube-dl,Python,1488
+14098069,justjavac/free-programming-books-zh_CN,,1415
 54173593,storybookjs/storybook,TypeScript,1272
-507775,elastic/elasticsearch,Java,592
-3482588,danielmiessler/SecLists,PHP,1233
-214587193,supabase/supabase,TypeScript,3476
-134017286,jesseduffield/lazygit,Go,3027
-179613976,PKUanonym/REKCARC-TSC-UHT,HTML,1745
-377496562,AppFlowy-IO/appflowy,Rust,7422
-349321229,TencentARC/GFPGAN,Python,7931
-281975310,type-challenges/type-challenges,TypeScript,1794
-48109239,cilium/cilium,Go,700
-293498508,JetBrains/compose-jb,Kotlin,922
-107833072,flame-engine/flame,Dart,627
+507775,elastic/elasticsearch,Java,591
+3482588,danielmiessler/SecLists,PHP,1232
+214587193,supabase/supabase,TypeScript,3469
+134017286,jesseduffield/lazygit,Go,3036
+179613976,PKUanonym/REKCARC-TSC-UHT,HTML,1750
+307260205,yt-dlp/yt-dlp,Python,3235
+377496562,AppFlowy-IO/appflowy,Rust,7319
+143455116,google/filament,C++,1133
+349321229,TencentARC/GFPGAN,Python,8013
+281975310,type-challenges/type-challenges,TypeScript,1803
+48109239,cilium/cilium,Go,701
+293498508,JetBrains/compose-jb,Kotlin,931
+107833072,flame-engine/flame,Dart,628
 234739976,medusajs/medusa,JavaScript,3639
-50160261,PaperMC/Paper,Java,573
-365739812,tldraw/tldraw,TypeScript,2682
-422821402,FerretDB/FerretDB,Go,1576
-339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,1476
-412776131,QianMo/Real-Time-Rendering-4th-Bibliography-Collection,HTML,1162
-407814259,davidrmiller/biosim4,C++,913
+365739812,tldraw/tldraw,TypeScript,2635
+422821402,FerretDB/FerretDB,Go,1580
+339378016,bryandlee/animegan2-pytorch,Jupyter Notebook,1477
+412776131,QianMo/Real-Time-Rendering-4th-Bibliography-Collection,HTML,1168
+407814259,davidrmiller/biosim4,C++,899
 246387644,ava-labs/avalanchego,Go,364
-265775217,binance-chain/bsc,Go,223
-341376033,OlympusDAO/olympus-contracts,Solidity,202
