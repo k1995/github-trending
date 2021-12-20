@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,368
+20904437,gin-gonic/gin,Go,236
+42408804,traefik/traefik,Go,149
+61137153,evanw/esbuild,Go,213
+18369373,spf13/viper,Go,108
+6051812,gorilla/mux,Go,83
+8966356,hashicorp/packer,Go,44
+48109239,cilium/cilium,Go,261
+62712899,AdguardTeam/AdGuardHome,Go,109
+180687624,aquasecurity/trivy,Go,206
+252813491,projectdiscovery/nuclei,Go,154
+172292744,panjf2000/gnet,Go,104
+14128006,hashicorp/raft,Go,75
+327859577,juicedata/juicefs,Go,55
+413918947,vercel/turborepo,Go,1687
+63882194,projectcalico/calico,Go,27
+267713284,projectdiscovery/httpx,Go,41
+267054247,anchore/grype,Go,948
+193681111,filecoin-project/lotus,Go,18
+262126497,anchore/syft,Go,759
+49970739,DataDog/datadog-agent,Go,17
+367633459,cshum/imagor,Go,305
+424027493,coinbase/kryptology,Go,327
+310632133,solana-labs/token-list,Go,48
+425785077,alibaba/ilogtail,Go,72
