@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,26
+1181927,bitcoin/bitcoin,C++,25
 15634981,godotengine/godot,C++,62
-1116542,aria2/aria2,C++,11
+1116542,aria2/aria2,C++,10
 67702184,topjohnwu/Magisk,C++,18
-116167731,yuzu-emu/yuzu,C++,10
+116167731,yuzu-emu/yuzu,C++,7
 3351871,qbittorrent/qBittorrent,C++,13
 32969220,esp8266/Arduino,C++,1
 2200856,MarlinFirmware/Marlin,C++,5
@@ -11,16 +11,16 @@ id,name,lang,new stars
 204593825,microsoft/STL,C++,5
 1204412,TrinityCore/TrinityCore,C++,7
 153866232,TheCherno/Hazel,C++,13
-2168780,minetest/minetest,C++,3
-86337343,skypjack/entt,C++,12
-365005377,aristocratos/btop,C++,66
+2168780,minetest/minetest,C++,4
+86337343,skypjack/entt,C++,11
+365005377,aristocratos/btop,C++,63
 143324737,diasurgical/devilutionX,C++,3
 14268809,FastLED/FastLED,C++,4
 207245092,stenzek/duckstation,C++,5
-53357782,acidanthera/AppleALC,C++,2
-12682212,MultiMC/Launcher,C++,6
+53357782,acidanthera/AppleALC,C++,1
+12682212,MultiMC/Launcher,C++,5
 8207159,ValveSoftware/halflife,C++,2
 83542585,wisdompeak/LeetCode,C++,2
 150774287,danielkrupinski/Osiris,C++,1
-283280154,jomjol/AI-on-the-edge-device,C++,15
+283280154,jomjol/AI-on-the-edge-device,C++,16
 38279227,google/omaha,C++,3
