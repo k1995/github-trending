@@ -1,7 +1,7 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,771
+5108051,opencv/opencv,C++,770
 65600975,pytorch/pytorch,C++,736
-23357588,protocolbuffers/protobuf,C++,611
+23357588,protocolbuffers/protobuf,C++,614
 22887094,tesseract-ocr/tesseract,C++,555
 39840932,google/googletest,C++,229
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,351
@@ -10,17 +10,17 @@ id,name,lang,new stars
 196813750,Light-City/CPlusPlusThings,C++,972
 160083795,SerenityOS/serenity,C++,545
 81227005,facebookresearch/faiss,C++,569
-191820100,google/mediapipe,C++,733
+191820100,google/mediapipe,C++,738
 98771110,zhongyang219/TrafficMonitor,C++,659
 40892817,ethereum/solidity,C++,600
-143455116,google/filament,C++,1132
-102692863,onnx/onnx,C++,158
+143455116,google/filament,C++,1134
+102692863,onnx/onnx,C++,159
 76990209,Aircoookie/WLED,C++,359
-283410102,sogou/workflow,C++,521
+283410102,sogou/workflow,C++,523
 5973855,CleverRaven/Cataclysm-DDA,C++,127
-15379620,PCSX2/pcsx2,C++,216
+15379620,PCSX2/pcsx2,C++,215
 39211337,flutter/engine,C++,74
 86897963,ZLMediaKit/ZLMediaKit,C++,265
-299510783,rui314/mold,C++,1242
+299510783,rui314/mold,C++,1254
 52882701,prusa3d/PrusaSlicer,C++,136
-407814259,davidrmiller/biosim4,C++,927
+407814259,davidrmiller/biosim4,C++,913
