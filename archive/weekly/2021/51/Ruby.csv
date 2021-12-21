@@ -1,20 +1,20 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,189
-27442967,fastlane/fastlane,Ruby,31
-53238813,Homebrew/brew,Ruby,97
-2293158,rapid7/metasploit-framework,Ruby,81
+8514,rails/rails,Ruby,192
+27442967,fastlane/fastlane,Ruby,32
+53238813,Homebrew/brew,Ruby,93
+2293158,rapid7/metasploit-framework,Ruby,80
 308770,heartcombo/devise,Ruby,12
 2203645,CocoaPods/CocoaPods,Ruby,18
 1090311,elastic/logstash,Ruby,38
-3195124,mperham/sidekiq,Ruby,22
-96395,faker-ruby/faker,Ruby,17
+3195124,mperham/sidekiq,Ruby,21
+96395,faker-ruby/faker,Ruby,18
 611921,activeadmin/activeadmin,Ruby,3
-108278,chef/chef,Ruby,10
+108278,chef/chef,Ruby,11
 75785147,rails/webpacker,Ruby,3
 1548802,activerecord-hackery/ransack,Ruby,12
 30337170,rmosolgo/graphql-ruby,Ruby,12
 447184,rspec/rspec-rails,Ruby,7
-1462,ctran/annotate_models,Ruby,16
+1462,ctran/annotate_models,Ruby,15
 38867,svenfuchs/rails-i18n,Ruby,7
 904810,rubysherpas/paranoia,Ruby,3
 200302808,github/view_component,Ruby,14
@@ -22,5 +22,5 @@ id,name,lang,new stars
 165262778,fxn/zeitwerk,Ruby,12
 29151578,rswag/rswag,Ruby,9
 212813096,lewagon/data-setup,Ruby,1
-390548093,rails/importmap-rails,Ruby,42
+390548093,rails/importmap-rails,Ruby,43
 48370306,elastic/ansible-beats,Ruby,0

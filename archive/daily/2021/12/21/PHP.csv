@@ -1,8 +1,8 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,22
-3482588,danielmiessler/SecLists,PHP,24
-458058,symfony/symfony,PHP,7
-7548986,laravel/framework,PHP,10
+3482588,danielmiessler/SecLists,PHP,22
+458058,symfony/symfony,PHP,9
+7548986,laravel/framework,PHP,7
 1420053,guzzle/guzzle,PHP,6
 1631570,nikic/PHP-Parser,PHP,5
 61490598,PHPOffice/PhpSpreadsheet,PHP,4
@@ -12,7 +12,7 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,3
 212659,sebastianbergmann/php-code-coverage,PHP,2
 41589337,BookStackApp/BookStack,PHP,8
-9791525,digininja/DVWA,PHP,2
+9791525,digininja/DVWA,PHP,3
 10883164,barryvdh/laravel-dompdf,PHP,3
 3817881,zircote/swagger-php,PHP,1
 62937181,PrivateBin/PrivateBin,PHP,4
