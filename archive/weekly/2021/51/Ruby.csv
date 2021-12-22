@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,195
-27442967,fastlane/fastlane,Ruby,32
-53238813,Homebrew/brew,Ruby,94
+8514,rails/rails,Ruby,193
+27442967,fastlane/fastlane,Ruby,33
+53238813,Homebrew/brew,Ruby,93
 2293158,rapid7/metasploit-framework,Ruby,79
-308770,heartcombo/devise,Ruby,12
+308770,heartcombo/devise,Ruby,11
 2203645,CocoaPods/CocoaPods,Ruby,18
 1090311,elastic/logstash,Ruby,38
 3195124,mperham/sidekiq,Ruby,21
-96395,faker-ruby/faker,Ruby,18
+96395,faker-ruby/faker,Ruby,20
 611921,activeadmin/activeadmin,Ruby,4
-108278,chef/chef,Ruby,11
+108278,chef/chef,Ruby,12
 75785147,rails/webpacker,Ruby,3
 1548802,activerecord-hackery/ransack,Ruby,12
 30337170,rmosolgo/graphql-ruby,Ruby,12
@@ -22,5 +22,5 @@ id,name,lang,new stars
 165262778,fxn/zeitwerk,Ruby,12
 29151578,rswag/rswag,Ruby,9
 212813096,lewagon/data-setup,Ruby,1
-390548093,rails/importmap-rails,Ruby,43
+390548093,rails/importmap-rails,Ruby,44
 48370306,elastic/ansible-beats,Ruby,0
