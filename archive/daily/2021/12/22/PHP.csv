@@ -1,8 +1,8 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,21
-3482588,danielmiessler/SecLists,PHP,33
-458058,symfony/symfony,PHP,6
-7548986,laravel/framework,PHP,6
+3482588,danielmiessler/SecLists,PHP,32
+458058,symfony/symfony,PHP,5
+7548986,laravel/framework,PHP,7
 1420053,guzzle/guzzle,PHP,5
 1631570,nikic/PHP-Parser,PHP,5
 61490598,PHPOffice/PhpSpreadsheet,PHP,2
@@ -11,8 +11,8 @@ id,name,lang,new stars
 42480275,spatie/laravel-permission,PHP,4
 6660366,dompdf/dompdf,PHP,2
 212659,sebastianbergmann/php-code-coverage,PHP,2
-41589337,BookStackApp/BookStack,PHP,8
-9791525,digininja/DVWA,PHP,4
+41589337,BookStackApp/BookStack,PHP,9
+9791525,digininja/DVWA,PHP,3
 10883164,barryvdh/laravel-dompdf,PHP,2
 3817881,zircote/swagger-php,PHP,1
 62937181,PrivateBin/PrivateBin,PHP,6
@@ -20,7 +20,7 @@ id,name,lang,new stars
 59965104,nuwave/lighthouse,PHP,3
 73781385,orchidsoftware/platform,PHP,4
 12063996,osTicket/osTicket,PHP,4
-248372441,laravel-filament/filament,PHP,20
+248372441,laravel-filament/filament,PHP,19
 330622402,mochat-cloud/mochat,PHP,5
-400984450,kuaifan/dootask,PHP,73
+400984450,kuaifan/dootask,PHP,147
 314646531,karam-mustafa/laravel-geographical-calculator,PHP,10
