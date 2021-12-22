@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,22
-3482588,danielmiessler/SecLists,PHP,31
+1863329,laravel/laravel,PHP,21
+3482588,danielmiessler/SecLists,PHP,33
 458058,symfony/symfony,PHP,6
 7548986,laravel/framework,PHP,6
-1420053,guzzle/guzzle,PHP,4
+1420053,guzzle/guzzle,PHP,5
 1631570,nikic/PHP-Parser,PHP,5
-61490598,PHPOffice/PhpSpreadsheet,PHP,3
+61490598,PHPOffice/PhpSpreadsheet,PHP,2
 56728437,docker/labs,PHP,9
 48796179,z-song/laravel-admin,PHP,2
-42480275,spatie/laravel-permission,PHP,5
+42480275,spatie/laravel-permission,PHP,4
 6660366,dompdf/dompdf,PHP,2
 212659,sebastianbergmann/php-code-coverage,PHP,2
 41589337,BookStackApp/BookStack,PHP,8
 9791525,digininja/DVWA,PHP,4
 10883164,barryvdh/laravel-dompdf,PHP,2
-3817881,zircote/swagger-php,PHP,0
+3817881,zircote/swagger-php,PHP,1
 62937181,PrivateBin/PrivateBin,PHP,6
 38200433,jeroennoten/Laravel-AdminLTE,PHP,4
 59965104,nuwave/lighthouse,PHP,3
