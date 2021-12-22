@@ -1,14 +1,14 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,1255
 1129010,blueimp/jQuery-File-Upload,PHP,47
-458058,symfony/symfony,PHP,265
-1864363,composer/composer,PHP,187
+458058,symfony/symfony,PHP,266
+1864363,composer/composer,PHP,188
 7548986,laravel/framework,PHP,362
 1376664,Seldaek/monolog,PHP,135
-60243197,nextcloud/server,PHP,400
-2889328,WordPress/WordPress,PHP,124
+60243197,nextcloud/server,PHP,398
+2889328,WordPress/WordPress,PHP,123
 1631570,nikic/PHP-Parser,PHP,127
-53783664,easychen/howto-make-more-money,PHP,108
+53783664,easychen/howto-make-more-money,PHP,109
 1305114,roots/sage,PHP,80
 2884111,magento/magento2,PHP,77
 29843361,w7corp/easywechat,PHP,49
@@ -21,6 +21,6 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,52
 2686502,pimcore/pimcore,PHP,52
 39182755,glpi-project/glpi,PHP,62
-248372441,laravel-filament/filament,PHP,662
+248372441,laravel-filament/filament,PHP,663
 61838413,danog/MadelineProto,PHP,59
 330980599,yanfeizhang/coder-kung-fu,PHP,418
