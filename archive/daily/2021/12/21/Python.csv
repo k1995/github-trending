@@ -10,12 +10,12 @@ id,name,lang,new stars
 120710644,Vonng/ddia,Python,40
 197153676,Chia-Network/chia-blockchain,Python,8
 24774658,boto/boto3,Python,6
-203465734,facebookresearch/SlowFast,Python,7
+203465734,facebookresearch/SlowFast,Python,9
 259710503,speechbrain/speechbrain,Python,22
 47648925,awslabs/aws-cloudformation-templates,Python,3
 203999962,open-mmlab/mmediting,Python,6
 41279279,jsvine/pdfplumber,Python,4
-110688239,PaddlePaddle/PaddleSpeech,Python,146
+110688239,PaddlePaddle/PaddleSpeech,Python,156
 10259118,scottrogowski/code2flow,Python,23
 325873493,3b1b/videos,Python,10
 106949285,bottlesdevs/Bottles,Python,190
@@ -23,4 +23,4 @@ id,name,lang,new stars
 432587463,cckuailong/reapoc,Python,10
 438505580,wjf5203/SeqFormer,Python,17
 299041732,SecuProject/ADenum,Python,14
-404973348,huawei-noah/HEBO,Python,19
+404973348,huawei-noah/HEBO,Python,15
