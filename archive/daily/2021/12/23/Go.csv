@@ -1,11 +1,11 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,37
-7691631,moby/moby,Go,11
-17728164,hashicorp/terraform,Go,20
-72495579,go-gitea/gitea,Go,20
-192632000,dapr/dapr,Go,21
-165041732,go-kratos/kratos,Go,17
-19205896,restic/restic,Go,24
+20580498,kubernetes/kubernetes,Go,38
+7691631,moby/moby,Go,12
+17728164,hashicorp/terraform,Go,18
+72495579,go-gitea/gitea,Go,19
+192632000,dapr/dapr,Go,19
+165041732,go-kratos/kratos,Go,18
+19205896,restic/restic,Go,22
 56342508,jaegertracing/jaeger,Go,19
 21827146,chrislusf/seaweedfs,Go,34
 285864199,zeromicro/go-zero,Go,41
@@ -14,13 +14,13 @@ id,name,lang,new stars
 11206255,Shopify/sarama,Go,4
 68964263,prometheus-operator/prometheus-operator,Go,5
 7039626,olivere/elastic,Go,4
-184490584,GoogleCloudPlatform/terraformer,Go,14
-370977430,OpenIMSDK/Open-IM-Server,Go,16
+184490584,GoogleCloudPlatform/terraformer,Go,13
+370977430,OpenIMSDK/Open-IM-Server,Go,19
 161951219,wailsapp/wails,Go,28
 220186120,codenotary/immudb,Go,360
-206213815,chaos-mesh/chaos-mesh,Go,13
+206213815,chaos-mesh/chaos-mesh,Go,10
 33429211,containernetworking/cni,Go,4
 175592968,volcano-sh/volcano,Go,2
 76279648,src-d/hercules,Go,17
-437325270,proferosec/log4jScanner,Go,50
+437325270,proferosec/log4jScanner,Go,48
 201455508,pingcap/tiflow,Go,1
