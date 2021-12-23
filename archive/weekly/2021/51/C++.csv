@@ -1,10 +1,10 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,395
+100060912,microsoft/terminal,C++,379
 15634981,godotengine/godot,C++,326
-23405758,google/leveldb,C++,89
+23405758,google/leveldb,C++,88
 60246359,ClickHouse/ClickHouse,C++,151
 34777562,ossrs/srs,C++,89
-191820100,google/mediapipe,C++,352
+191820100,google/mediapipe,C++,350
 95879426,Tencent/ncnn,C++,67
 2200856,MarlinFirmware/Marlin,C++,101
 95114723,nasa/fprime,C++,27
@@ -13,14 +13,14 @@ id,name,lang,new stars
 1204412,TrinityCore/TrinityCore,C++,22
 153866232,TheCherno/Hazel,C++,79
 86337343,skypjack/entt,C++,158
-5973855,CleverRaven/Cataclysm-DDA,C++,41
+5973855,CleverRaven/Cataclysm-DDA,C++,40
 365005377,aristocratos/btop,C++,570
-299510783,rui314/mold,C++,871
+299510783,rui314/mold,C++,844
 280608729,UZ-SLAMLab/ORB_SLAM3,C++,54
-283280154,jomjol/AI-on-the-edge-device,C++,68
-328893373,LANDrop/LANDrop,C++,180
-170738310,trustwallet/wallet-core,C++,31
-395348629,bozbez/win-capture-audio,C++,115
-437040154,parallel101/course,C++,185
-388946490,facebookincubator/velox,C++,46
-436366606,loveBabbar/CodeHelp-DSA-Busted-Series,C++,39
+283280154,jomjol/AI-on-the-edge-device,C++,72
+328893373,LANDrop/LANDrop,C++,177
+170738310,trustwallet/wallet-core,C++,32
+395348629,bozbez/win-capture-audio,C++,124
+437040154,parallel101/course,C++,184
+388946490,facebookincubator/velox,C++,43
+436366606,loveBabbar/CodeHelp-DSA-Busted-Series,C++,40
