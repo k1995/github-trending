@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,14
-3482588,danielmiessler/SecLists,PHP,28
+1863329,laravel/laravel,PHP,13
+3482588,danielmiessler/SecLists,PHP,26
 1129010,blueimp/jQuery-File-Upload,PHP,1
-1420053,guzzle/guzzle,PHP,4
+1420053,guzzle/guzzle,PHP,5
 1305114,roots/sage,PHP,5
 4916869,ramsey/uuid,PHP,3
-61490598,PHPOffice/PhpSpreadsheet,PHP,6
+61490598,PHPOffice/PhpSpreadsheet,PHP,5
 56728437,docker/labs,PHP,1
 42480275,spatie/laravel-permission,PHP,1
-2884111,magento/magento2,PHP,5
-3951767,phpDocumentor/ReflectionDocBlock,PHP,4
+2884111,magento/magento2,PHP,4
+3951767,phpDocumentor/ReflectionDocBlock,PHP,3
 36597039,phpDocumentor/ReflectionCommon,PHP,3
 6660366,dompdf/dompdf,PHP,3
 4242230,PHPOffice/PHPWord,PHP,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 139179084,area17/twill,PHP,4
 2686502,pimcore/pimcore,PHP,3
 12063996,osTicket/osTicket,PHP,4
-400984450,kuaifan/dootask,PHP,157
-428315972,spatie/laravel-health,PHP,19
+400984450,kuaifan/dootask,PHP,155
+428315972,spatie/laravel-health,PHP,18

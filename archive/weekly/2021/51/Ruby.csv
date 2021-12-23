@@ -1,5 +1,5 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,193
+8514,rails/rails,Ruby,192
 27442967,fastlane/fastlane,Ruby,35
 53238813,Homebrew/brew,Ruby,96
 2293158,rapid7/metasploit-framework,Ruby,82
@@ -8,12 +8,12 @@ id,name,lang,new stars
 1090311,elastic/logstash,Ruby,36
 3195124,mperham/sidekiq,Ruby,20
 1918677,fluent/fluentd,Ruby,19
-96395,faker-ruby/faker,Ruby,20
-1725199,github/linguist,Ruby,28
+96395,faker-ruby/faker,Ruby,19
+1725199,github/linguist,Ruby,26
 611921,activeadmin/activeadmin,Ruby,5
-108278,chef/chef,Ruby,10
+108278,chef/chef,Ruby,11
 1548802,activerecord-hackery/ransack,Ruby,11
-30337170,rmosolgo/graphql-ruby,Ruby,10
+30337170,rmosolgo/graphql-ruby,Ruby,9
 1462,ctran/annotate_models,Ruby,18
 38867,svenfuchs/rails-i18n,Ruby,7
 3662248,git/git-scm.com,Ruby,6
