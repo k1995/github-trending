@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,13
-3482588,danielmiessler/SecLists,PHP,26
+1863329,laravel/laravel,PHP,12
+3482588,danielmiessler/SecLists,PHP,22
 1129010,blueimp/jQuery-File-Upload,PHP,1
-1420053,guzzle/guzzle,PHP,5
+1420053,guzzle/guzzle,PHP,4
 1305114,roots/sage,PHP,4
 4916869,ramsey/uuid,PHP,3
-61490598,PHPOffice/PhpSpreadsheet,PHP,5
+61490598,PHPOffice/PhpSpreadsheet,PHP,6
 56728437,docker/labs,PHP,2
-42480275,spatie/laravel-permission,PHP,1
+42480275,spatie/laravel-permission,PHP,2
 2884111,magento/magento2,PHP,6
-3951767,phpDocumentor/ReflectionDocBlock,PHP,3
+3951767,phpDocumentor/ReflectionDocBlock,PHP,4
 36597039,phpDocumentor/ReflectionCommon,PHP,4
 6660366,dompdf/dompdf,PHP,3
-4242230,PHPOffice/PHPWord,PHP,2
+4242230,PHPOffice/PHPWord,PHP,3
 14346979,snipe/snipe-it,PHP,2
 74386167,vimeo/psalm,PHP,2
 2880469,Codeception/Codeception,PHP,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 73781385,orchidsoftware/platform,PHP,2
 139179084,area17/twill,PHP,4
 2686502,pimcore/pimcore,PHP,3
-12063996,osTicket/osTicket,PHP,4
-400984450,kuaifan/dootask,PHP,124
+12063996,osTicket/osTicket,PHP,3
+400984450,kuaifan/dootask,PHP,96
 428315972,spatie/laravel-health,PHP,18
