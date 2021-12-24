@@ -1,8 +1,8 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,8
-27442967,fastlane/fastlane,Ruby,9
-52281283,mastodon/mastodon,Ruby,8
-481872,hashicorp/vagrant,Ruby,1
+27442967,fastlane/fastlane,Ruby,8
+52281283,mastodon/mastodon,Ruby,7
+481872,hashicorp/vagrant,Ruby,2
 308770,heartcombo/devise,Ruby,1
 4095287,rubocop/rubocop,Ruby,3
 202291859,chatwoot/chatwoot,Ruby,9
@@ -22,5 +22,5 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,2
 14238949,elastic/elasticsearch-rails,Ruby,0
 200302808,github/view_component,Ruby,0
-212272090,CMSgov/price-transparency-guide,Ruby,1
+212272090,CMSgov/price-transparency-guide,Ruby,0
 439363348,SDBoahen/ar-p-c,Ruby,0
