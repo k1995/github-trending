@@ -1,18 +1,18 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,6
-27442967,fastlane/fastlane,Ruby,1
+27442967,fastlane/fastlane,Ruby,2
 2500088,gitlabhq/gitlabhq,Ruby,1
 538746,ruby/ruby,Ruby,0
 2203645,CocoaPods/CocoaPods,Ruby,1
 4095287,rubocop/rubocop,Ruby,2
 3314,spree/spree,Ruby,1
 3195124,mperham/sidekiq,Ruby,0
-1918677,fluent/fluentd,Ruby,5
-6688319,DeathKing/Learning-SICP,Ruby,7
-1333863,kaminari/kaminari,Ruby,1
-810796,railsadminteam/rails_admin,Ruby,1
+1918677,fluent/fluentd,Ruby,4
+6688319,DeathKing/Learning-SICP,Ruby,6
+1333863,kaminari/kaminari,Ruby,2
+810796,railsadminteam/rails_admin,Ruby,0
 6529205,varvet/pundit,Ruby,1
-910744,puppetlabs/puppet,Ruby,1
+910744,puppetlabs/puppet,Ruby,0
 211588,paper-trail-gem/paper_trail,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 137805,redis/redis-rb,Ruby,1
 21333814,lynndylanhurley/devise_token_auth,Ruby,1
 14238949,elastic/elasticsearch-rails,Ruby,1
-93163073,dependabot/dependabot-core,Ruby,1
+93163073,dependabot/dependabot-core,Ruby,0
 1953385,stripe/stripe-ruby,Ruby,0
 212272090,CMSgov/price-transparency-guide,Ruby,0
