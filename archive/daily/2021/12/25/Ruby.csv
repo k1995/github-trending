@@ -2,12 +2,12 @@ id,name,lang,new stars
 7569578,discourse/discourse,Ruby,6
 27442967,fastlane/fastlane,Ruby,1
 2500088,gitlabhq/gitlabhq,Ruby,1
-538746,ruby/ruby,Ruby,1
+538746,ruby/ruby,Ruby,0
 2203645,CocoaPods/CocoaPods,Ruby,2
 4095287,rubocop/rubocop,Ruby,2
-3314,spree/spree,Ruby,2
-3195124,mperham/sidekiq,Ruby,1
-1918677,fluent/fluentd,Ruby,6
+3314,spree/spree,Ruby,1
+3195124,mperham/sidekiq,Ruby,0
+1918677,fluent/fluentd,Ruby,5
 6688319,DeathKing/Learning-SICP,Ruby,7
 1333863,kaminari/kaminari,Ruby,0
 810796,railsadminteam/rails_admin,Ruby,1
@@ -16,7 +16,7 @@ id,name,lang,new stars
 211588,paper-trail-gem/paper_trail,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,3
-30985840,solidusio/solidus,Ruby,3
+30985840,solidusio/solidus,Ruby,2
 52316423,luggit/react-native-config,Ruby,0
 137805,redis/redis-rb,Ruby,1
 21333814,lynndylanhurley/devise_token_auth,Ruby,2

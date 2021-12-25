@@ -1,26 +1,26 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,157
+8514,rails/rails,Ruby,120
 13233158,obsproject/obs-studio,C,602
-77213120,Eugeny/tabby,TypeScript,1360
-151619717,google-research/google-research,Jupyter Notebook,259
-179613976,PKUanonym/REKCARC-TSC-UHT,HTML,609
-165041732,go-kratos/kratos,Go,100
-91629816,freqtrade/freqtrade,Python,848
-349321229,TencentARC/GFPGAN,Python,2788
-89822531,Anuken/Mindustry,Java,257
+77213120,Eugeny/tabby,TypeScript,1350
+151619717,google-research/google-research,Jupyter Notebook,257
+179613976,PKUanonym/REKCARC-TSC-UHT,HTML,605
+165041732,go-kratos/kratos,Go,99
+91629816,freqtrade/freqtrade,Python,863
+349321229,TencentARC/GFPGAN,Python,2800
+89822531,Anuken/Mindustry,Java,258
 302603001,qier222/YesPlayMusic,JavaScript,401
-120710644,Vonng/ddia,Python,531
+120710644,Vonng/ddia,Python,537
 120463532,alibaba/COLA,Java,108
-220186120,codenotary/immudb,Go,1832
-299510783,rui314/mold,C++,624
-389803219,smartcontractkit/full-blockchain-solidity-course-py,,200
+220186120,codenotary/immudb,Go,1835
+299510783,rui314/mold,C++,611
+389803219,smartcontractkit/full-blockchain-solidity-course-py,,201
 371564104,megaease/easegress,Go,66
-250512612,ssssssss-team/spider-flow,Java,960
-425159471,sunym1993/flash-linux0.11-talk,C,603
-221892711,picocss/pico,SCSS,859
-400984450,kuaifan/dootask,PHP,615
-437139341,kozmer/log4j-shell-poc,Python,592
-437915726,cisagov/log4j-affected-db,,288
-437040154,parallel101/course,C++,152
-438203240,fox-it/log4j-finder,Python,143
-437325263,hillu/local-log4j-vuln-scanner,Go,55
+250512612,ssssssss-team/spider-flow,Java,964
+425159471,sunym1993/flash-linux0.11-talk,C,598
+221892711,picocss/pico,SCSS,814
+400984450,kuaifan/dootask,PHP,616
+437139341,kozmer/log4j-shell-poc,Python,454
+437915726,cisagov/log4j-affected-db,,271
+437040154,parallel101/course,C++,149
+438203240,fox-it/log4j-finder,Python,138
+437325263,hillu/local-log4j-vuln-scanner,Go,53
