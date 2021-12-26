@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,430
-3482588,danielmiessler/SecLists,PHP,1229
+1863329,laravel/laravel,PHP,427
+3482588,danielmiessler/SecLists,PHP,1231
 1129010,blueimp/jQuery-File-Upload,PHP,47
-458058,symfony/symfony,PHP,254
-7548986,laravel/framework,PHP,325
+458058,symfony/symfony,PHP,253
+7548986,laravel/framework,PHP,312
 60243197,nextcloud/server,PHP,387
-2889328,WordPress/WordPress,PHP,125
+2889328,WordPress/WordPress,PHP,124
 53783664,easychen/howto-make-more-money,PHP,115
 47495360,koel/koel,PHP,118
-1305114,roots/sage,PHP,76
+1305114,roots/sage,PHP,70
 2884111,magento/magento2,PHP,74
 29843361,w7corp/easywechat,PHP,53
 12166778,googleapis/google-api-php-client,PHP,75
@@ -23,4 +23,4 @@ id,name,lang,new stars
 2686502,pimcore/pimcore,PHP,54
 248372441,laravel-filament/filament,PHP,663
 61838413,danog/MadelineProto,PHP,59
-330980599,yanfeizhang/coder-kung-fu,PHP,377
+330980599,yanfeizhang/coder-kung-fu,PHP,378
