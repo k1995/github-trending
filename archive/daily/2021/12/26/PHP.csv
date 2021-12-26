@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,7
+1863329,laravel/laravel,PHP,6
 2253830,PHPMailer/PHPMailer,PHP,5
 1548202,matomo-org/matomo,PHP,3
 5724990,briannesbitt/Carbon,PHP,1
@@ -11,7 +11,7 @@ id,name,lang,new stars
 15020102,walkor/workerman,PHP,1
 11467667,typecho/typecho,PHP,4
 2141186,opencart/opencart,PHP,1
-86350964,the-benchmarker/web-frameworks,PHP,3
+86350964,the-benchmarker/web-frameworks,PHP,5
 4242230,PHPOffice/PHPWord,PHP,2
 9131292,jenssegers/laravel-mongodb,PHP,0
 97311017,rectorphp/rector,PHP,2
@@ -19,8 +19,8 @@ id,name,lang,new stars
 76064827,mailcow/mailcow-dockerized,PHP,4
 60010673,elementor/elementor,PHP,4
 41463886,codeigniter4/CodeIgniter4,PHP,2
-14724954,opensourcepos/opensourcepos,PHP,2
+14724954,opensourcepos/opensourcepos,PHP,1
 39698170,pi-hole/AdminLTE,PHP,0
-438857216,easychen/pushdeer,PHP,31
-317845207,TheDragonCode/laravel-migration-actions,PHP,3
-438660076,wpengine/themes,PHP,10
+438857216,easychen/pushdeer,PHP,35
+317845207,TheDragonCode/laravel-migration-actions,PHP,2
+438660076,wpengine/themes,PHP,11
