@@ -1,15 +1,15 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,9
-8681349,huginn/huginn,Ruby,7
+65252,jekyll/jekyll,Ruby,10
+8681349,huginn/huginn,Ruby,9
 52281283,mastodon/mastodon,Ruby,1
-481872,hashicorp/vagrant,Ruby,0
-308770,heartcombo/devise,Ruby,4
-538746,ruby/ruby,Ruby,8
+481872,hashicorp/vagrant,Ruby,1
+308770,heartcombo/devise,Ruby,5
+538746,ruby/ruby,Ruby,7
 73648678,forem/forem,Ruby,3
 911765,diaspora/diaspora,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
-3314,spree/spree,Ruby,2
-3195124,mperham/sidekiq,Ruby,2
+3314,spree/spree,Ruby,1
+3195124,mperham/sidekiq,Ruby,1
 88740103,postalserver/postal,Ruby,6
 96395,faker-ruby/faker,Ruby,3
 611921,activeadmin/activeadmin,Ruby,1
@@ -17,9 +17,9 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,0
 1314319,instructure/canvas-lms,Ruby,2
 1462,ctran/annotate_models,Ruby,0
-103766152,github/explore,Ruby,5
+103766152,github/explore,Ruby,6
 11426474,github/choosealicense.com,Ruby,1
-174796313,ruby/rbs,Ruby,7
+174796313,ruby/rbs,Ruby,4
 229187949,shivammathur/homebrew-php,Ruby,2
 136781582,rubocop/rubocop-rails,Ruby,0
 209731662,ruby/debug,Ruby,18
