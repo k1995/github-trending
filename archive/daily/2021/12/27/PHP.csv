@@ -1,11 +1,11 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,14
+3482588,danielmiessler/SecLists,PHP,20
 1129010,blueimp/jQuery-File-Upload,PHP,1
-1420053,guzzle/guzzle,PHP,3
-60243197,nextcloud/server,PHP,13
+1420053,guzzle/guzzle,PHP,2
+60243197,nextcloud/server,PHP,12
 2253830,PHPMailer/PHPMailer,PHP,3
-82238168,monicahq/monica,PHP,6
-12615154,barryvdh/laravel-debugbar,PHP,7
+82238168,monicahq/monica,PHP,7
+12615154,barryvdh/laravel-debugbar,PHP,8
 47495360,koel/koel,PHP,1
 23680678,tymondesigns/jwt-auth,PHP,7
 5508585,YOURLS/YOURLS,PHP,11
@@ -19,8 +19,8 @@ id,name,lang,new stars
 286645686,yuantuo666/baiduwp-php,PHP,2
 141720301,dr5hn/countries-states-cities-database,PHP,7
 93982796,Tuhinshubhra/RED_HAWK,PHP,1
-204114509,solstice23/argon-theme,PHP,3
+204114509,solstice23/argon-theme,PHP,4
 174021137,inertiajs/pingcrm,PHP,1
 66762220,nextcloud/mail,PHP,1
 184538454,yankovalenko94/Webdev2019,PHP,0
-438660076,wpengine/themes,PHP,5
+438660076,wpengine/themes,PHP,4
