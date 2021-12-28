@@ -1,9 +1,9 @@
 id,name,lang,new stars
-6838921,prometheus/prometheus,Go,14
+6838921,prometheus/prometheus,Go,18
 97533102,halfrost/LeetCode-Go,Go,26
 50709152,kataras/iris,Go,10
 122734569,iawia002/annie,Go,25
-123572362,quii/learn-go-with-tests,Go,19
+123572362,quii/learn-go-with-tests,Go,21
 285864199,zeromicro/go-zero,Go,68
 120156076,cloudreve/Cloudreve,Go,15
 87617508,casbin/casbin,Go,12
@@ -11,16 +11,16 @@ id,name,lang,new stars
 47859258,goplus/gop,Go,6
 23664475,Shopify/toxiproxy,Go,15
 18906266,shirou/gopsutil,Go,7
-144849757,fanux/sealos,Go,266
-220186120,codenotary/immudb,Go,597
-70646781,maxence-charriere/go-app,Go,48
-156768326,ThreeDotsLabs/watermill,Go,14
-202018792,aws/copilot-cli,Go,18
-384722773,Supercycled/cake_sniper,Go,5
-310632133,solana-labs/token-list,Go,5
+144849757,fanux/sealos,Go,273
+220186120,codenotary/immudb,Go,513
+70646781,maxence-charriere/go-app,Go,43
+156768326,ThreeDotsLabs/watermill,Go,18
+202018792,aws/copilot-cli,Go,19
+384722773,Supercycled/cake_sniper,Go,6
+310632133,solana-labs/token-list,Go,25
 401299493,cdle/sillyGirl,Go,5
 194645908,apache/apisix-dashboard,Go,3
 435477309,iyear/pure-live-core,Go,56
-348742617,Hackmanit/Web-Cache-Vulnerability-Scanner,Go,73
+348742617,Hackmanit/Web-Cache-Vulnerability-Scanner,Go,64
 218343552,maticnetwork/bor,Go,1
-441060107,EmYiQing/JNDIScan,Go,7
+441060107,EmYiQing/JNDIScan,Go,8
