@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,16
+8514,rails/rails,Ruby,17
 65252,jekyll/jekyll,Ruby,9
-7569578,discourse/discourse,Ruby,7
-8681349,huginn/huginn,Ruby,8
+7569578,discourse/discourse,Ruby,8
+8681349,huginn/huginn,Ruby,10
 13840241,freeCodeCamp/devdocs,Ruby,15
 52281283,mastodon/mastodon,Ruby,10
 308770,heartcombo/devise,Ruby,5
 538746,ruby/ruby,Ruby,7
 2203645,CocoaPods/CocoaPods,Ruby,4
 138312,capistrano/capistrano,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,16
-88740103,postalserver/postal,Ruby,4
+202291859,chatwoot/chatwoot,Ruby,21
+88740103,postalserver/postal,Ruby,3
 611921,activeadmin/activeadmin,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,1
 108278,chef/chef,Ruby,2
@@ -19,8 +19,8 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,1
 115859973,ddnexus/pagy,Ruby,1
 10088951,TheOdinProject/theodinproject,Ruby,2
-12357002,ondrejbartas/sidekiq-cron,Ruby,2
+12357002,ondrejbartas/sidekiq-cron,Ruby,3
 174796313,ruby/rbs,Ruby,1
 3947396,getsentry/sentry-ruby,Ruby,0
-136781582,rubocop/rubocop-rails,Ruby,1
-209731662,ruby/debug,Ruby,13
+136781582,rubocop/rubocop-rails,Ruby,2
+209731662,ruby/debug,Ruby,14
