@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1129010,blueimp/jQuery-File-Upload,PHP,1
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,6
-60243197,nextcloud/server,PHP,11
+60243197,nextcloud/server,PHP,13
 2889328,WordPress/WordPress,PHP,4
 1548202,matomo-org/matomo,PHP,5
 82238168,monicahq/monica,PHP,13
@@ -10,9 +10,9 @@ id,name,lang,new stars
 1398671,symfony/translation,PHP,0
 9791525,digininja/DVWA,PHP,5
 28257573,flarum/core,PHP,4
-222873550,crater-invoice/crater,PHP,41
-74386167,vimeo/psalm,PHP,2
-351298555,thedevdojo/wave,PHP,2
+222873550,crater-invoice/crater,PHP,43
+74386167,vimeo/psalm,PHP,1
+351298555,thedevdojo/wave,PHP,1
 47508644,pterodactyl/panel,PHP,2
 73781385,orchidsoftware/platform,PHP,5
 141720301,dr5hn/countries-states-cities-database,PHP,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 75645659,WordPress/wordpress-develop,PHP,1
 36526302,pentestmonkey/php-reverse-shell,PHP,2
 412071168,WordPress/twentytwentytwo,PHP,1
-438660076,wpengine/themes,PHP,7
+438660076,wpengine/themes,PHP,6
 436780153,michael-rubel/laravel-auto-binder,PHP,7
