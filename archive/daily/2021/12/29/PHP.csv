@@ -1,18 +1,18 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,11
+458058,symfony/symfony,PHP,10
 1420053,guzzle/guzzle,PHP,3
-1631570,nikic/PHP-Parser,PHP,2
+1631570,nikic/PHP-Parser,PHP,1
 2854337,phalcon/cphalcon,PHP,1
 23680678,tymondesigns/jwt-auth,PHP,2
 2884111,magento/magento2,PHP,3
 29843361,w7corp/easywechat,PHP,8
-597887,doctrine/orm,PHP,4
-677464,doctrine/dbal,PHP,1
+597887,doctrine/orm,PHP,6
+677464,doctrine/dbal,PHP,2
 6660366,dompdf/dompdf,PHP,2
-4242230,PHPOffice/PHPWord,PHP,5
+4242230,PHPOffice/PHPWord,PHP,4
 14346979,snipe/snipe-it,PHP,4
-28257573,flarum/core,PHP,6
-222873550,crater-invoice/crater,PHP,117
+28257573,flarum/core,PHP,5
+222873550,crater-invoice/crater,PHP,127
 10883164,barryvdh/laravel-dompdf,PHP,2
 12204147,mautic/mautic,PHP,5
 33916850,spatie/laravel-medialibrary,PHP,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,1
 41463886,codeigniter4/CodeIgniter4,PHP,4
 47508644,pterodactyl/panel,PHP,8
-32792088,symfony/demo,PHP,1
+32792088,symfony/demo,PHP,0
 143703053,rajkumardusad/IP-Tracer,PHP,1
-397134075,roach-php/core,PHP,142
+397134075,roach-php/core,PHP,144
