@@ -7,11 +7,11 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,4
 29843361,w7corp/easywechat,PHP,8
 622166,FriendsOfPHP/Goutte,PHP,1
-14716368,invoiceninja/invoiceninja,PHP,3
-6763587,PrestaShop/PrestaShop,PHP,6
+14716368,invoiceninja/invoiceninja,PHP,2
+6763587,PrestaShop/PrestaShop,PHP,7
 9131292,jenssegers/laravel-mongodb,PHP,4
-9791525,digininja/DVWA,PHP,5
-28257573,flarum/core,PHP,7
+9791525,digininja/DVWA,PHP,3
+28257573,flarum/core,PHP,6
 222873550,crater-invoice/crater,PHP,117
 95011974,akaunting/akaunting,PHP,7
 2797951,doctrine/DoctrineBundle,PHP,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 17722440,Rudloff/alltube,PHP,6
 104077768,wususu/effective-resourses,PHP,5
 174021137,inertiajs/pingcrm,PHP,3
-436780153,michael-rubel/laravel-auto-binder,PHP,6
+436780153,michael-rubel/laravel-auto-binder,PHP,7
