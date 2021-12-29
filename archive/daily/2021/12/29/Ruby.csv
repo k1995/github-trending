@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,17
 65252,jekyll/jekyll,Ruby,10
-7569578,discourse/discourse,Ruby,7
-8681349,huginn/huginn,Ruby,14
+7569578,discourse/discourse,Ruby,6
+8681349,huginn/huginn,Ruby,13
 13840241,freeCodeCamp/devdocs,Ruby,14
-52281283,mastodon/mastodon,Ruby,10
-308770,heartcombo/devise,Ruby,4
+52281283,mastodon/mastodon,Ruby,9
+308770,heartcombo/devise,Ruby,5
 538746,ruby/ruby,Ruby,7
-2203645,CocoaPods/CocoaPods,Ruby,4
+2203645,CocoaPods/CocoaPods,Ruby,3
 138312,capistrano/capistrano,Ruby,4
-202291859,chatwoot/chatwoot,Ruby,24
+202291859,chatwoot/chatwoot,Ruby,25
 88740103,postalserver/postal,Ruby,3
 611921,activeadmin/activeadmin,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 174796313,ruby/rbs,Ruby,0
 3947396,getsentry/sentry-ruby,Ruby,0
 136781582,rubocop/rubocop-rails,Ruby,2
-209731662,ruby/debug,Ruby,9
+209731662,ruby/debug,Ruby,7

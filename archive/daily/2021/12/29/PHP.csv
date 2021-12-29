@@ -1,8 +1,8 @@
 id,name,lang,new stars
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,6
 448045,sebastianbergmann/phpunit,PHP,3
-60243197,nextcloud/server,PHP,13
-82238168,monicahq/monica,PHP,10
+60243197,nextcloud/server,PHP,10
+82238168,monicahq/monica,PHP,12
 12615154,barryvdh/laravel-debugbar,PHP,5
 2884111,magento/magento2,PHP,4
 29843361,w7corp/easywechat,PHP,7
@@ -12,8 +12,8 @@ id,name,lang,new stars
 9131292,jenssegers/laravel-mongodb,PHP,4
 9791525,digininja/DVWA,PHP,5
 28257573,flarum/core,PHP,9
-222873550,crater-invoice/crater,PHP,97
-95011974,akaunting/akaunting,PHP,5
+222873550,crater-invoice/crater,PHP,98
+95011974,akaunting/akaunting,PHP,6
 2797951,doctrine/DoctrineBundle,PHP,2
 291805291,laravel/jetstream,PHP,1
 1953386,stripe/stripe-php,PHP,3
