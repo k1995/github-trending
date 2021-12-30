@@ -1,17 +1,17 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,569
-21289110,vinta/awesome-python,Python,198
+21289110,vinta/awesome-python,Python,206
 84533158,yunjey/pytorch-tutorial,Python,37
-82729529,google/python-fire,Python,213
-168799526,rwightman/pytorch-image-models,Python,22
-43160685,zulip/zulip,Python,3
-273839530,Python-World/python-mini-projects,Python,26
-15333471,ocrmypdf/OCRmyPDF,Python,20
-259842566,Jack-Cherish/PythonPark,Python,29
-29918975,python-attrs/attrs,Python,22
-305316768,RangiLyu/nanodet,Python,31
+82729529,google/python-fire,Python,250
+168799526,rwightman/pytorch-image-models,Python,21
+43160685,zulip/zulip,Python,6
+273839530,Python-World/python-mini-projects,Python,27
+15333471,ocrmypdf/OCRmyPDF,Python,23
+259842566,Jack-Cherish/PythonPark,Python,24
+29918975,python-attrs/attrs,Python,27
+305316768,RangiLyu/nanodet,Python,29
 253044228,projectdiscovery/nuclei-templates,Python,12
-336274588,PaddlePaddle/PaddleNLP,Python,38
+336274588,PaddlePaddle/PaddleNLP,Python,32
 118317539,freqtrade/freqtrade-strategies,Python,8
 46975254,robcarver17/pysystemtrade,Python,8
 435340119,78778443/QingScan,Python,23
