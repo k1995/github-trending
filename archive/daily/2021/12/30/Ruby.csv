@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,17
+8514,rails/rails,Ruby,14
 27442967,fastlane/fastlane,Ruby,5
-8681349,huginn/huginn,Ruby,13
-13840241,freeCodeCamp/devdocs,Ruby,10
-52281283,mastodon/mastodon,Ruby,7
-481872,hashicorp/vagrant,Ruby,7
-2500088,gitlabhq/gitlabhq,Ruby,3
+8681349,huginn/huginn,Ruby,11
+13840241,freeCodeCamp/devdocs,Ruby,11
+52281283,mastodon/mastodon,Ruby,9
+481872,hashicorp/vagrant,Ruby,8
+2500088,gitlabhq/gitlabhq,Ruby,4
 308770,heartcombo/devise,Ruby,2
 538746,ruby/ruby,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,0
 138312,capistrano/capistrano,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,27
+202291859,chatwoot/chatwoot,Ruby,21
 3314,spree/spree,Ruby,1
 106995,sinatra/sinatra,Ruby,1
 3195124,mperham/sidekiq,Ruby,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 2889230,rails-api/active_model_serializers,Ruby,1
 1314319,instructure/canvas-lms,Ruby,0
 417862,octokit/octokit.rb,Ruby,1
-435649432,hack-different/apple-knowledge,Ruby,5
+435649432,hack-different/apple-knowledge,Ruby,6
