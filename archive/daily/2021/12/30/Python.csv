@@ -1,18 +1,18 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,530
-21289110,vinta/awesome-python,Python,222
+83222441,donnemartin/system-design-primer,Python,509
+21289110,vinta/awesome-python,Python,227
 84533158,yunjey/pytorch-tutorial,Python,38
-82729529,google/python-fire,Python,261
-168799526,rwightman/pytorch-image-models,Python,19
+82729529,google/python-fire,Python,310
+168799526,rwightman/pytorch-image-models,Python,20
 43160685,zulip/zulip,Python,6
 273839530,Python-World/python-mini-projects,Python,29
-15333471,ocrmypdf/OCRmyPDF,Python,24
+15333471,ocrmypdf/OCRmyPDF,Python,33
 259842566,Jack-Cherish/PythonPark,Python,24
-29918975,python-attrs/attrs,Python,27
+29918975,python-attrs/attrs,Python,29
 305316768,RangiLyu/nanodet,Python,28
 253044228,projectdiscovery/nuclei-templates,Python,13
 336274588,PaddlePaddle/PaddleNLP,Python,30
 118317539,freqtrade/freqtrade-strategies,Python,8
 46975254,robcarver17/pysystemtrade,Python,6
-435340119,78778443/QingScan,Python,51
-436908695,gh0stkey/Log4j2-RCE-Scanner,Python,7
+435340119,78778443/QingScan,Python,86
+436908695,gh0stkey/Log4j2-RCE-Scanner,Python,6
