@@ -1,10 +1,10 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,11
+458058,symfony/symfony,PHP,12
 1420053,guzzle/guzzle,PHP,2
-1631570,nikic/PHP-Parser,PHP,2
+1631570,nikic/PHP-Parser,PHP,1
 2854337,phalcon/cphalcon,PHP,1
 23680678,tymondesigns/jwt-auth,PHP,4
-2884111,magento/magento2,PHP,3
+2884111,magento/magento2,PHP,4
 29843361,w7corp/easywechat,PHP,4
 597887,doctrine/orm,PHP,9
 677464,doctrine/dbal,PHP,2
@@ -12,10 +12,10 @@ id,name,lang,new stars
 4242230,PHPOffice/PHPWord,PHP,3
 14346979,snipe/snipe-it,PHP,2
 28257573,flarum/core,PHP,3
-222873550,crater-invoice/crater,PHP,84
+222873550,crater-invoice/crater,PHP,76
 10883164,barryvdh/laravel-dompdf,PHP,3
 12204147,mautic/mautic,PHP,6
-33916850,spatie/laravel-medialibrary,PHP,5
+33916850,spatie/laravel-medialibrary,PHP,4
 74386167,vimeo/psalm,PHP,4
 3817881,zircote/swagger-php,PHP,1
 159606650,hyperf/hyperf,PHP,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 47508644,pterodactyl/panel,PHP,5
 32792088,symfony/demo,PHP,1
 143703053,rajkumardusad/IP-Tracer,PHP,1
-397134075,roach-php/core,PHP,33
+397134075,roach-php/core,PHP,29

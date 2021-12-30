@@ -1,19 +1,19 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,91
 1864363,composer/composer,PHP,30
-2889328,WordPress/WordPress,PHP,31
-82238168,monicahq/monica,PHP,55
+2889328,WordPress/WordPress,PHP,30
+82238168,monicahq/monica,PHP,56
 11323319,erusev/parsedown,PHP,12
-7704544,Intervention/image,PHP,24
+7704544,Intervention/image,PHP,23
 23680678,tymondesigns/jwt-auth,PHP,23
 42480275,spatie/laravel-permission,PHP,17
 2884111,magento/magento2,PHP,21
 29843361,w7corp/easywechat,PHP,25
 11467667,typecho/typecho,PHP,26
-21298446,firefly-iii/firefly-iii,PHP,42
-2141186,opencart/opencart,PHP,10
-222873550,crater-invoice/crater,PHP,231
-97311017,rectorphp/rector,PHP,45
+21298446,firefly-iii/firefly-iii,PHP,40
+2141186,opencart/opencart,PHP,9
+222873550,crater-invoice/crater,PHP,233
+97311017,rectorphp/rector,PHP,44
 95011974,akaunting/akaunting,PHP,31
 148129143,bagisto/bagisto,PHP,33
 57961433,openmediavault/openmediavault,PHP,24
@@ -23,4 +23,4 @@ id,name,lang,new stars
 66029201,rodber/chevereto-free,PHP,15
 17722440,Rudloff/alltube,PHP,100
 400984450,kuaifan/dootask,PHP,243
-428315972,spatie/laravel-health,PHP,60
+428315972,spatie/laravel-health,PHP,59
