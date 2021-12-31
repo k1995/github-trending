@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,11
-458058,symfony/symfony,PHP,7
+458058,symfony/symfony,PHP,6
 60243197,nextcloud/server,PHP,15
 1548202,matomo-org/matomo,PHP,6
 61490598,PHPOffice/PhpSpreadsheet,PHP,6
@@ -9,18 +9,18 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,5
 5550552,owncloud/core,PHP,2
 6763587,PrestaShop/PrestaShop,PHP,3
-222873550,crater-invoice/crater,PHP,20
+222873550,crater-invoice/crater,PHP,21
 12204147,mautic/mautic,PHP,4
-97311017,rectorphp/rector,PHP,8
+97311017,rectorphp/rector,PHP,7
 74386167,vimeo/psalm,PHP,1
 148129143,bagisto/bagisto,PHP,5
 41463886,codeigniter4/CodeIgniter4,PHP,2
 6322699,FreshRSS/FreshRSS,PHP,6
-119047018,linuxserver/Heimdall,PHP,8
+119047018,linuxserver/Heimdall,PHP,7
 182349597,jqhph/dcat-admin,PHP,4
 69691727,pmmp/PocketMine-MP,PHP,1
 56836583,postaddictme/instagram-php-scraper,PHP,2
-57463067,AzuraCast/AzuraCast,PHP,9
-345315720,swagkarna/Rafel-Rat,PHP,16
-397134075,roach-php/core,PHP,26
+57463067,AzuraCast/AzuraCast,PHP,10
+345315720,swagkarna/Rafel-Rat,PHP,14
+397134075,roach-php/core,PHP,30
 442404126,symfony/html-sanitizer,PHP,8

@@ -1,26 +1,23 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,1528
-126577260,trekhleb/javascript-algorithms,JavaScript,1339
-112507086,30-seconds/30-seconds-of-code,JavaScript,1269
-110446844,marktext/marktext,JavaScript,2158
+83222441,donnemartin/system-design-primer,Python,1669
+126577260,trekhleb/javascript-algorithms,JavaScript,1508
+112507086,30-seconds/30-seconds-of-code,JavaScript,1276
+110446844,marktext/marktext,JavaScript,1967
 228016443,youngyangyang04/leetcode-master,,973
-192925833,prisma/prisma,TypeScript,726
-83516498,norvig/pytudes,Jupyter Notebook,592
-393571599,babysor/MockingBird,JavaScript,1875
-40484398,discordjs/discord.js,JavaScript,135
-41889031,TeamNewPipe/NewPipe,Java,261
-89822531,Anuken/Mindustry,Java,403
-285864199,zeromicro/go-zero,Go,344
-120710644,Vonng/ddia,Python,647
-399495186,tiangolo/sqlmodel,Python,399
-220186120,codenotary/immudb,Go,1464
-250512612,ssssssss-team/spider-flow,Java,1035
-367758176,dtm-labs/dtm,Go,158
-110688239,PaddlePaddle/PaddleSpeech,Python,306
-351648401,EmbarkStudios/kajiya,Rust,846
-437090199,openai/glide-text2im,Python,566
-440580214,cisagov/log4j-scanner,Java,600
-415694324,sxyu/svox2,Python,434
-438507738,LunarVim/Neovim-from-scratch,Lua,161
-70942762,danielyxie/bitburner,JavaScript,166
-416947996,mpcabete/bombcrypto-bot,Python,167
+192925833,prisma/prisma,TypeScript,624
+83516498,norvig/pytudes,Jupyter Notebook,603
+393571599,babysor/MockingBird,JavaScript,1982
+41889031,TeamNewPipe/NewPipe,Java,259
+89822531,Anuken/Mindustry,Java,363
+120710644,Vonng/ddia,Python,558
+220186120,codenotary/immudb,Go,1328
+250512612,ssssssss-team/spider-flow,Java,1033
+367758176,dtm-labs/dtm,Go,155
+110688239,PaddlePaddle/PaddleSpeech,Python,287
+351648401,EmbarkStudios/kajiya,Rust,781
+437090199,openai/glide-text2im,Python,536
+440580214,cisagov/log4j-scanner,Java,588
+415694324,sxyu/svox2,Python,439
+438507738,LunarVim/Neovim-from-scratch,Lua,164
+70942762,danielyxie/bitburner,JavaScript,161
+416947996,mpcabete/bombcrypto-bot,Python,164

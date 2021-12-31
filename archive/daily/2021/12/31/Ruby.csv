@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,17
-27442967,fastlane/fastlane,Ruby,2
-8681349,huginn/huginn,Ruby,5
+27442967,fastlane/fastlane,Ruby,3
+8681349,huginn/huginn,Ruby,4
 53238813,Homebrew/brew,Ruby,12
 481872,hashicorp/vagrant,Ruby,6
 3623050,Homebrew/homebrew-cask,Ruby,1
 538746,ruby/ruby,Ruby,5
 911765,diaspora/diaspora,Ruby,2
 1090311,elastic/logstash,Ruby,3
-202291859,chatwoot/chatwoot,Ruby,10
+202291859,chatwoot/chatwoot,Ruby,9
 4095287,rubocop/rubocop,Ruby,1
 3195124,mperham/sidekiq,Ruby,3
 1918677,fluent/fluentd,Ruby,4
@@ -17,7 +17,7 @@ id,name,lang,new stars
 451035,heartcombo/simple_form,Ruby,0
 108278,chef/chef,Ruby,0
 75785147,rails/webpacker,Ruby,1
-2889230,rails-api/active_model_serializers,Ruby,1
+2889230,rails-api/active_model_serializers,Ruby,0
 79352,mikel/mail,Ruby,0
 10088951,TheOdinProject/theodinproject,Ruby,3
 34840276,elastic/ansible-elasticsearch,Ruby,1
