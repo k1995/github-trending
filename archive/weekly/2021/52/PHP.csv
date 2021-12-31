@@ -1,21 +1,21 @@
 id,name,lang,new stars
 2234102,bcit-ci/CodeIgniter,PHP,6
 60243197,nextcloud/server,PHP,88
-1548202,matomo-org/matomo,PHP,30
-82238168,monicahq/monica,PHP,62
+1548202,matomo-org/matomo,PHP,29
+82238168,monicahq/monica,PHP,64
 23680678,tymondesigns/jwt-auth,PHP,22
 42480275,spatie/laravel-permission,PHP,16
 2884111,magento/magento2,PHP,17
 29843361,w7corp/easywechat,PHP,30
-11467667,typecho/typecho,PHP,28
+11467667,typecho/typecho,PHP,30
 21298446,firefly-iii/firefly-iii,PHP,44
-222873550,crater-invoice/crater,PHP,255
+222873550,crater-invoice/crater,PHP,257
 33916850,spatie/laravel-medialibrary,PHP,15
-95011974,akaunting/akaunting,PHP,29
+95011974,akaunting/akaunting,PHP,28
 76064827,mailcow/mailcow-dockerized,PHP,32
-159606650,hyperf/hyperf,PHP,19
-148129143,bagisto/bagisto,PHP,37
-119047018,linuxserver/Heimdall,PHP,27
+159606650,hyperf/hyperf,PHP,20
+148129143,bagisto/bagisto,PHP,36
+119047018,linuxserver/Heimdall,PHP,28
 182349597,jqhph/dcat-admin,PHP,20
 73781385,orchidsoftware/platform,PHP,29
 56836583,postaddictme/instagram-php-scraper,PHP,10
@@ -23,4 +23,4 @@ id,name,lang,new stars
 66029201,rodber/chevereto-free,PHP,14
 17722440,Rudloff/alltube,PHP,108
 204114509,solstice23/argon-theme,PHP,28
-438857216,easychen/pushdeer,PHP,117
+438857216,easychen/pushdeer,PHP,112

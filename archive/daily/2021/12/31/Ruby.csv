@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,14
+8514,rails/rails,Ruby,13
 65252,jekyll/jekyll,Ruby,11
 27442967,fastlane/fastlane,Ruby,4
-52281283,mastodon/mastodon,Ruby,6
-2293158,rapid7/metasploit-framework,Ruby,10
-481872,hashicorp/vagrant,Ruby,5
-308770,heartcombo/devise,Ruby,1
+52281283,mastodon/mastodon,Ruby,5
+2293158,rapid7/metasploit-framework,Ruby,11
+481872,hashicorp/vagrant,Ruby,6
+308770,heartcombo/devise,Ruby,3
 538746,ruby/ruby,Ruby,2
 73648678,forem/forem,Ruby,1
 2336578,twbs/bootstrap-sass,Ruby,0
-1090311,elastic/logstash,Ruby,4
+1090311,elastic/logstash,Ruby,5
 138312,capistrano/capistrano,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,8
+202291859,chatwoot/chatwoot,Ruby,7
 3314,spree/spree,Ruby,0
 3195124,mperham/sidekiq,Ruby,2
 361310,teamcapybara/capybara,Ruby,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 2889230,rails-api/active_model_serializers,Ruby,0
 30985840,solidusio/solidus,Ruby,0
 115859973,ddnexus/pagy,Ruby,1
-200302808,github/view_component,Ruby,2
+200302808,github/view_component,Ruby,3
 1953385,stripe/stripe-ruby,Ruby,0
-29151578,rswag/rswag,Ruby,0
+29151578,rswag/rswag,Ruby,1
