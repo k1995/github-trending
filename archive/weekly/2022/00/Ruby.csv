@@ -1,18 +1,18 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,76
-65252,jekyll/jekyll,Ruby,57
+65252,jekyll/jekyll,Ruby,56
 27442967,fastlane/fastlane,Ruby,24
 8681349,huginn/huginn,Ruby,60
-53238813,Homebrew/brew,Ruby,85
-21600440,bayandin/awesome-awesomeness,Ruby,43
-13840241,freeCodeCamp/devdocs,Ruby,85
+53238813,Homebrew/brew,Ruby,86
+21600440,bayandin/awesome-awesomeness,Ruby,42
+13840241,freeCodeCamp/devdocs,Ruby,84
 52281283,mastodon/mastodon,Ruby,41
 2293158,rapid7/metasploit-framework,Ruby,64
-481872,hashicorp/vagrant,Ruby,32
-538746,ruby/ruby,Ruby,36
+481872,hashicorp/vagrant,Ruby,35
+538746,ruby/ruby,Ruby,34
 911765,diaspora/diaspora,Ruby,10
-202291859,chatwoot/chatwoot,Ruby,83
-4095287,rubocop/rubocop,Ruby,7
+202291859,chatwoot/chatwoot,Ruby,85
+4095287,rubocop/rubocop,Ruby,8
 275604,resque/resque,Ruby,13
 1333863,kaminari/kaminari,Ruby,7
 108278,chef/chef,Ruby,10
@@ -23,4 +23,4 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,14
 11980558,github/pages-gem,Ruby,2
 10088951,TheOdinProject/theodinproject,Ruby,11
-209731662,ruby/debug,Ruby,54
+209731662,ruby/debug,Ruby,51
