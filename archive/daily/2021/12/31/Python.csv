@@ -1,12 +1,12 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,321
-21289110,vinta/awesome-python,Python,100
+83222441,donnemartin/system-design-primer,Python,311
+21289110,vinta/awesome-python,Python,99
 12888993,home-assistant/core,Python,24
 71220757,swisskyrepo/PayloadsAllTheThings,Python,29
 57222302,openai/gym,Python,11
 82729529,google/python-fire,Python,261
-4008931,StevenBlack/hosts,Python,27
-31522041,vnpy/vnpy,Python,32
+4008931,StevenBlack/hosts,Python,25
+31522041,vnpy/vnpy,Python,33
 70908208,RasaHQ/rasa,Python,11
 164471183,pjialin/py12306,Python,18
 136202695,mlflow/mlflow,Python,16
@@ -22,4 +22,4 @@ id,name,lang,new stars
 433296683,Mas0nShi/typoraCracker,Python,33
 423126761,ELS-RD/transformer-deploy,Python,33
 435340119,78778443/QingScan,Python,59
-440888894,c3c/ADExplorerSnapshot.py,Python,43
+440888894,c3c/ADExplorerSnapshot.py,Python,38
