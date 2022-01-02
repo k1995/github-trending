@@ -1,20 +1,20 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,74
-65252,jekyll/jekyll,Ruby,59
+65252,jekyll/jekyll,Ruby,57
 27442967,fastlane/fastlane,Ruby,27
-8681349,huginn/huginn,Ruby,59
-21600440,bayandin/awesome-awesomeness,Ruby,41
-13840241,freeCodeCamp/devdocs,Ruby,82
-52281283,mastodon/mastodon,Ruby,48
+8681349,huginn/huginn,Ruby,57
+21600440,bayandin/awesome-awesomeness,Ruby,43
+13840241,freeCodeCamp/devdocs,Ruby,81
+52281283,mastodon/mastodon,Ruby,49
 2293158,rapid7/metasploit-framework,Ruby,67
-481872,hashicorp/vagrant,Ruby,37
+481872,hashicorp/vagrant,Ruby,36
 538746,ruby/ruby,Ruby,31
 911765,diaspora/diaspora,Ruby,10
-202291859,chatwoot/chatwoot,Ruby,90
+202291859,chatwoot/chatwoot,Ruby,92
 3314,spree/spree,Ruby,11
 108278,chef/chef,Ruby,10
 30985840,solidusio/solidus,Ruby,12
-309009,mongodb/mongoid,Ruby,3
+309009,mongodb/mongoid,Ruby,4
 21333814,lynndylanhurley/devise_token_auth,Ruby,2
 614070,rubygems/rubygems,Ruby,7
 103766152,github/explore,Ruby,15
@@ -22,5 +22,5 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,15
 10088951,TheOdinProject/theodinproject,Ruby,9
 136781582,rubocop/rubocop-rails,Ruby,2
-209731662,ruby/debug,Ruby,39
+209731662,ruby/debug,Ruby,38
 39648183,18F/open-source-guide,Ruby,3
