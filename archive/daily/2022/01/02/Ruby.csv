@@ -1,8 +1,8 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,6
 65252,jekyll/jekyll,Ruby,8
-7569578,discourse/discourse,Ruby,10
-27442967,fastlane/fastlane,Ruby,6
+7569578,discourse/discourse,Ruby,7
+27442967,fastlane/fastlane,Ruby,7
 8681349,huginn/huginn,Ruby,4
 52281283,mastodon/mastodon,Ruby,11
 2293158,rapid7/metasploit-framework,Ruby,8
@@ -10,17 +10,17 @@ id,name,lang,new stars
 2500088,gitlabhq/gitlabhq,Ruby,2
 73648678,forem/forem,Ruby,3
 911765,diaspora/diaspora,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,9
+202291859,chatwoot/chatwoot,Ruby,8
 4095287,rubocop/rubocop,Ruby,2
 88740103,postalserver/postal,Ruby,5
-1918677,fluent/fluentd,Ruby,2
+1918677,fluent/fluentd,Ruby,1
 1333863,kaminari/kaminari,Ruby,2
 4994614,wpscanteam/wpscan,Ruby,4
 39706711,hartator/wayback-machine-downloader,Ruby,0
 103766152,github/explore,Ruby,5
-11426474,github/choosealicense.com,Ruby,1
-93163073,dependabot/dependabot-core,Ruby,1
-189010173,Hackplayers/evil-winrm,Ruby,4
+11426474,github/choosealicense.com,Ruby,0
+93163073,dependabot/dependabot-core,Ruby,2
+189010173,Hackplayers/evil-winrm,Ruby,2
 390548093,rails/importmap-rails,Ruby,0
 10504658,publiclab/spectral-workbench,Ruby,1
 387924838,learn-co-curriculum/phase-3-sinatra-react-project,Ruby,0
