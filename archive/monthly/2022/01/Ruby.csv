@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,427
-7569578,discourse/discourse,Ruby,208
+8514,rails/rails,Ruby,429
+7569578,discourse/discourse,Ruby,207
 27442967,fastlane/fastlane,Ruby,138
-8681349,huginn/huginn,Ruby,242
-13840241,freeCodeCamp/devdocs,Ruby,276
+8681349,huginn/huginn,Ruby,239
+13840241,freeCodeCamp/devdocs,Ruby,275
 2293158,rapid7/metasploit-framework,Ruby,312
-308770,heartcombo/devise,Ruby,70
-538746,ruby/ruby,Ruby,118
-2203645,CocoaPods/CocoaPods,Ruby,65
-1090311,elastic/logstash,Ruby,138
-202291859,chatwoot/chatwoot,Ruby,313
+308770,heartcombo/devise,Ruby,68
+538746,ruby/ruby,Ruby,119
+2203645,CocoaPods/CocoaPods,Ruby,66
+1090311,elastic/logstash,Ruby,137
+202291859,chatwoot/chatwoot,Ruby,312
 88740103,postalserver/postal,Ruby,220
 1918677,fluent/fluentd,Ruby,93
 1725199,github/linguist,Ruby,109
@@ -18,7 +18,7 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,24
 30985840,solidusio/solidus,Ruby,44
 38867,svenfuchs/rails-i18n,Ruby,15
-103766152,github/explore,Ruby,184
+103766152,github/explore,Ruby,186
 11426474,github/choosealicense.com,Ruby,55
 200302808,github/view_component,Ruby,62
 34840276,elastic/ansible-elasticsearch,Ruby,16
