@@ -12,8 +12,8 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,1
 330275,twigphp/Twig,PHP,1
 74386167,vimeo/psalm,PHP,3
-11935508,RSS-Bridge/rss-bridge,PHP,32
-4224042,roundcube/roundcubemail,PHP,1
+11935508,RSS-Bridge/rss-bridge,PHP,33
+4224042,roundcube/roundcubemail,PHP,2
 439861,moodle/moodle,PHP,3
 41463886,codeigniter4/CodeIgniter4,PHP,3
 6322699,FreshRSS/FreshRSS,PHP,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 291805291,laravel/jetstream,PHP,2
 18842338,facebookarchive/php-graph-sdk,PHP,1
 69691727,pmmp/PocketMine-MP,PHP,2
-248372441,laravel-filament/filament,PHP,5
+248372441,laravel-filament/filament,PHP,4
 131995661,shopware/platform,PHP,2
 353093114,wire-elements/modal,PHP,4
