@@ -4,11 +4,11 @@ id,name,lang,new stars
 1148753,spring-projects/spring-framework,Java,15
 238316428,CSSEGISandData/COVID-19,,18
 364474335,google/zx,JavaScript,102
-39840932,google/googletest,C++,59
+39840932,google/googletest,C++,63
 4524181,facebook/folly,C++,9
 85541218,ascoders/weekly,JavaScript,61
 302603001,qier222/YesPlayMusic,JavaScript,120
-229764465,Asabeneh/30-Days-Of-JavaScript,JavaScript,264
+229764465,Asabeneh/30-Days-Of-JavaScript,JavaScript,272
 34407651,Azure/azure-quickstart-templates,Shell,4
 307489284,remix-run/remix,TypeScript,75
 183874244,baidu/amis,TypeScript,34
@@ -18,9 +18,9 @@ id,name,lang,new stars
 136401408,terraform-aws-modules/terraform-aws-eks,HCL,7
 329782568,DioxusLabs/dioxus,Rust,346
 359419233,up9inc/mizu,Go,145
-442433063,Tencent/CodeAnalysis,Python,257
+442433063,Tencent/CodeAnalysis,Python,255
 287584589,arainho/awesome-api-security,,62
-365367120,sunflower-farmers/sunflower-farmers,TypeScript,138
-441903012,MichaelCade/90DaysOfDevOps,,232
+365367120,sunflower-farmers/sunflower-farmers,TypeScript,139
+441903012,MichaelCade/90DaysOfDevOps,,229
 444633382,Marak/faker.js,,364
 444659813,withshepherd/faker.js,JavaScript,122
