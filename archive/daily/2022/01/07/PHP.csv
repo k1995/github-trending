@@ -1,15 +1,15 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,16
-458058,symfony/symfony,PHP,5
+458058,symfony/symfony,PHP,4
 2579314,fzaninotto/Faker,PHP,4
 1864363,composer/composer,PHP,5
-7548986,laravel/framework,PHP,13
+7548986,laravel/framework,PHP,11
 1420053,guzzle/guzzle,PHP,2
 448045,sebastianbergmann/phpunit,PHP,6
 5724990,briannesbitt/Carbon,PHP,4
 13899674,thephpleague/flysystem,PHP,4
-28628034,flarum/flarum,PHP,8
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,7
+28628034,flarum/flarum,PHP,9
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,10
 61490598,PHPOffice/PhpSpreadsheet,PHP,5
 2854337,phalcon/cphalcon,PHP,0
 2884111,magento/magento2,PHP,4
@@ -19,8 +19,8 @@ id,name,lang,new stars
 330275,twigphp/Twig,PHP,0
 2717549,Sylius/Sylius,PHP,2
 10883164,barryvdh/laravel-dompdf,PHP,0
-1953386,stripe/stripe-php,PHP,1
-39182755,glpi-project/glpi,PHP,1
+1953386,stripe/stripe-php,PHP,2
+39182755,glpi-project/glpi,PHP,2
 74026995,CodelyTV/php-ddd-example,PHP,0
-405968905,rezaamini-ir/migrator,PHP,22
-443244261,wupco/PHP_INCLUDE_TO_SHELL_CHAR_DICT,PHP,8
+405968905,rezaamini-ir/migrator,PHP,20
+443244261,wupco/PHP_INCLUDE_TO_SHELL_CHAR_DICT,PHP,7
