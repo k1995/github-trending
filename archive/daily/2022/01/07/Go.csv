@@ -1,8 +1,8 @@
 id,name,lang,new stars
-23096959,golang/go,Go,51
+23096959,golang/go,Go,50
 7691631,moby/moby,Go,11
 12574344,spf13/cobra,Go,12
-16563587,cockroachdb/cockroach,Go,117
+16563587,cockroachdb/cockroach,Go,111
 13124802,influxdata/influxdb,Go,9
 37448451,mattermost/mattermost-server,Go,13
 24268127,coreybutler/nvm-windows,Go,21
@@ -11,16 +11,16 @@ id,name,lang,new stars
 180687624,aquasecurity/trivy,Go,20
 11206255,Shopify/sarama,Go,8
 27576132,aws/aws-sdk-go,Go,4
-184490584,GoogleCloudPlatform/terraformer,Go,13
+184490584,GoogleCloudPlatform/terraformer,Go,14
 66509131,kubernetes/client-go,Go,9
-87990209,kubernetes/autoscaler,Go,34
+87990209,kubernetes/autoscaler,Go,31
 51193526,cosmos/cosmos-sdk,Go,7
-63882194,projectcalico/calico,Go,6
-351486934,gravitl/netmaker,Go,165
-125253663,google/go-containerregistry,Go,5
+63882194,projectcalico/calico,Go,5
+351486934,gravitl/netmaker,Go,159
+125253663,google/go-containerregistry,Go,6
 49970739,DataDog/datadog-agent,Go,1
 101120466,tomnomnom/hacks,Go,7
 133830411,argoproj/argo-events,Go,1
-359419233,up9inc/mizu,Go,130
-432717637,duke-git/lancet,Go,25
-363042924,Arks7/Go_Bypass,Go,27
+359419233,up9inc/mizu,Go,132
+432717637,duke-git/lancet,Go,24
+363042924,Arks7/Go_Bypass,Go,25
