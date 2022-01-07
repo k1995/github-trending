@@ -1,10 +1,10 @@
 id,name,lang,new stars
 1864363,composer/composer,PHP,31
-2889328,WordPress/WordPress,PHP,24
+2889328,WordPress/WordPress,PHP,23
 2699935,squizlabs/PHP_CodeSniffer,PHP,22
 330275,twigphp/Twig,PHP,9
 21298446,firefly-iii/firefly-iii,PHP,66
-14716368,invoiceninja/invoiceninja,PHP,18
+14716368,invoiceninja/invoiceninja,PHP,17
 12204147,mautic/mautic,PHP,20
 11935508,RSS-Bridge/rss-bridge,PHP,313
 159606650,hyperf/hyperf,PHP,21
@@ -12,15 +12,15 @@ id,name,lang,new stars
 4224042,roundcube/roundcubemail,PHP,10
 41463886,codeigniter4/CodeIgniter4,PHP,14
 6322699,FreshRSS/FreshRSS,PHP,45
-119047018,linuxserver/Heimdall,PHP,45
-351298555,thedevdojo/wave,PHP,24
+119047018,linuxserver/Heimdall,PHP,46
+351298555,thedevdojo/wave,PHP,23
 47508644,pterodactyl/panel,PHP,23
 57961433,openmediavault/openmediavault,PHP,31
-73781385,orchidsoftware/platform,PHP,20
+73781385,orchidsoftware/platform,PHP,18
 3193843,drush-ops/drush,PHP,1
-74026995,CodelyTV/php-ddd-example,PHP,11
-278929867,antonkomarev/github-profile-views-counter,PHP,14
+74026995,CodelyTV/php-ddd-example,PHP,10
+278929867,antonkomarev/github-profile-views-counter,PHP,13
 412071168,WordPress/twentytwentytwo,PHP,6
-345315720,swagkarna/Rafel-Rat,PHP,19
+345315720,swagkarna/Rafel-Rat,PHP,18
 397134075,roach-php/core,PHP,42
-438660076,wpengine/themes,PHP,36
+438660076,wpengine/themes,PHP,34
