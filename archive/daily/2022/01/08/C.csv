@@ -1,17 +1,17 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,58
-111583593,Genymobile/scrcpy,C,64
+2325298,torvalds/linux,C,57
+111583593,Genymobile/scrcpy,C,62
 156018,redis/redis,C,33
-1614410,FFmpeg/FFmpeg,C,20
+1614410,FFmpeg/FFmpeg,C,21
 1357796,emscripten-core/emscripten,C,2
-7634677,openssl/openssl,C,7
+7634677,openssl/openssl,C,6
 5254557,cloudwu/skynet,C,3
-7077690,darlinghq/darling,C,82
+7077690,darlinghq/darling,C,80
 60667730,lvgl/lvgl,C,9
-75811015,Tencent/xLua,C,5
-14049216,cockpit-project/cockpit,C,5
+75811015,Tencent/xLua,C,4
+14049216,cockpit-project/cockpit,C,6
 105944401,yugabyte/yugabyte-db,C,4
-5870069,edenhill/librdkafka,C,4
+5870069,edenhill/librdkafka,C,2
 59771425,zephyrproject-rtos/zephyr,C,5
 2755696,mattn/go-sqlite3,C,9
 17183871,esnet/iperf,C,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 3276860,ThrowTheSwitch/Unity,C,0
 127023441,NVIDIA/cuda-samples,C,2
 24107001,open-mpi/ompi,C,2
-390802393,tsherif/space-shooter.c,C,6
+390802393,tsherif/space-shooter.c,C,5
 65394199,avem-labs/Avem,C,2
-396447471,boku7/BokuLoader,C,9
+396447471,boku7/BokuLoader,C,11
 236677896,gnbdev/opengnb,C,5
