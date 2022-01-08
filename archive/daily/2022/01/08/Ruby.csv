@@ -1,20 +1,20 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,25
-7569578,discourse/discourse,Ruby,9
-27442967,fastlane/fastlane,Ruby,5
+8514,rails/rails,Ruby,26
+7569578,discourse/discourse,Ruby,10
+27442967,fastlane/fastlane,Ruby,4
 8681349,huginn/huginn,Ruby,8
-53238813,Homebrew/brew,Ruby,11
-2293158,rapid7/metasploit-framework,Ruby,10
+53238813,Homebrew/brew,Ruby,10
+2293158,rapid7/metasploit-framework,Ruby,12
 481872,hashicorp/vagrant,Ruby,1
-308770,heartcombo/devise,Ruby,4
+308770,heartcombo/devise,Ruby,3
 37382858,kilimchoi/engineering-blogs,Ruby,5
-2203645,CocoaPods/CocoaPods,Ruby,2
+2203645,CocoaPods/CocoaPods,Ruby,3
 4095287,rubocop/rubocop,Ruby,1
 106995,sinatra/sinatra,Ruby,2
 3195124,mperham/sidekiq,Ruby,0
-1918677,fluent/fluentd,Ruby,1
+1918677,fluent/fluentd,Ruby,2
 96395,faker-ruby/faker,Ruby,2
-611921,activeadmin/activeadmin,Ruby,0
+611921,activeadmin/activeadmin,Ruby,1
 1333863,kaminari/kaminari,Ruby,0
 451035,heartcombo/simple_form,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1462,ctran/annotate_models,Ruby,0
 417862,octokit/octokit.rb,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,4
-229187949,shivammathur/homebrew-php,Ruby,3
-209731662,ruby/debug,Ruby,10
+229187949,shivammathur/homebrew-php,Ruby,4
+209731662,ruby/debug,Ruby,8
