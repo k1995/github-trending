@@ -1,21 +1,21 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,17
+8514,rails/rails,Ruby,18
 8681349,huginn/huginn,Ruby,6
-13840241,freeCodeCamp/devdocs,Ruby,7
-308770,heartcombo/devise,Ruby,5
+13840241,freeCodeCamp/devdocs,Ruby,8
+308770,heartcombo/devise,Ruby,3
 73648678,forem/forem,Ruby,2
 1090311,elastic/logstash,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,6
+202291859,chatwoot/chatwoot,Ruby,8
 4095287,rubocop/rubocop,Ruby,4
-18486300,lewagon/setup,Ruby,17
+18486300,lewagon/setup,Ruby,19
 3195124,mperham/sidekiq,Ruby,0
-1918677,fluent/fluentd,Ruby,2
-96395,faker-ruby/faker,Ruby,3
+1918677,fluent/fluentd,Ruby,1
+96395,faker-ruby/faker,Ruby,4
 361310,teamcapybara/capybara,Ruby,0
 277089,flyerhzm/bullet,Ruby,4
 75785147,rails/webpacker,Ruby,0
-33739333,thoughtbot/administrate,Ruby,1
-30337170,rmosolgo/graphql-ruby,Ruby,1
+33739333,thoughtbot/administrate,Ruby,2
+30337170,rmosolgo/graphql-ruby,Ruby,0
 1314319,instructure/canvas-lms,Ruby,1
 30985840,solidusio/solidus,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 29151578,rswag/rswag,Ruby,0
 238983,rspec/rspec-mocks,Ruby,1
 212813096,lewagon/data-setup,Ruby,12
-209731662,ruby/debug,Ruby,5
+209731662,ruby/debug,Ruby,4

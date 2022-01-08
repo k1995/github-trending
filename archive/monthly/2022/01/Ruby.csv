@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,452
-65252,jekyll/jekyll,Ruby,215
+8514,rails/rails,Ruby,453
+65252,jekyll/jekyll,Ruby,214
 7569578,discourse/discourse,Ruby,225
-8681349,huginn/huginn,Ruby,224
-53238813,Homebrew/brew,Ruby,408
-13840241,freeCodeCamp/devdocs,Ruby,298
-2293158,rapid7/metasploit-framework,Ruby,312
-538746,ruby/ruby,Ruby,134
+8681349,huginn/huginn,Ruby,225
+53238813,Homebrew/brew,Ruby,404
+13840241,freeCodeCamp/devdocs,Ruby,299
+2293158,rapid7/metasploit-framework,Ruby,315
+538746,ruby/ruby,Ruby,132
 2203645,CocoaPods/CocoaPods,Ruby,60
 1090311,elastic/logstash,Ruby,141
-202291859,chatwoot/chatwoot,Ruby,361
+202291859,chatwoot/chatwoot,Ruby,363
 11423758,mame/quine-relay,Ruby,112
-88740103,postalserver/postal,Ruby,223
-96395,faker-ruby/faker,Ruby,64
+88740103,postalserver/postal,Ruby,222
+96395,faker-ruby/faker,Ruby,65
 611921,activeadmin/activeadmin,Ruby,21
 1333863,kaminari/kaminari,Ruby,31
 30337170,rmosolgo/graphql-ruby,Ruby,32
@@ -22,5 +22,5 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,72
 93163073,dependabot/dependabot-core,Ruby,77
 390548093,rails/importmap-rails,Ruby,86
-221249571,seven1m/natalie,Ruby,215
-419827947,joemasilotti/railsdevs.com,Ruby,54
+221249571,seven1m/natalie,Ruby,214
+419827947,joemasilotti/railsdevs.com,Ruby,56
