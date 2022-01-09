@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,18
-8681349,huginn/huginn,Ruby,4
+8681349,huginn/huginn,Ruby,5
 13840241,freeCodeCamp/devdocs,Ruby,8
 308770,heartcombo/devise,Ruby,3
 73648678,forem/forem,Ruby,2
 1090311,elastic/logstash,Ruby,2
 202291859,chatwoot/chatwoot,Ruby,6
 4095287,rubocop/rubocop,Ruby,3
-18486300,lewagon/setup,Ruby,23
+18486300,lewagon/setup,Ruby,22
 3195124,mperham/sidekiq,Ruby,0
 1918677,fluent/fluentd,Ruby,1
 96395,faker-ruby/faker,Ruby,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 29151578,rswag/rswag,Ruby,0
 238983,rspec/rspec-mocks,Ruby,1
 212813096,lewagon/data-setup,Ruby,12
-209731662,ruby/debug,Ruby,3
+209731662,ruby/debug,Ruby,2
