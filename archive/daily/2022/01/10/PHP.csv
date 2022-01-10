@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,17
-3482588,danielmiessler/SecLists,PHP,20
+1863329,laravel/laravel,PHP,16
+3482588,danielmiessler/SecLists,PHP,19
 1420053,guzzle/guzzle,PHP,2
-60243197,nextcloud/server,PHP,12
+60243197,nextcloud/server,PHP,11
 82238168,monicahq/monica,PHP,4
 72069409,the-control-group/voyager,PHP,2
 622166,FriendsOfPHP/Goutte,PHP,0
-41589337,BookStackApp/BookStack,PHP,284
+41589337,BookStackApp/BookStack,PHP,158
 10238429,tennc/webshell,PHP,5
 95011974,akaunting/akaunting,PHP,6
 291805291,laravel/jetstream,PHP,1
@@ -15,12 +15,12 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,2
 14724954,opensourcepos/opensourcepos,PHP,1
 66029201,rodber/chevereto-free,PHP,2
-57463067,AzuraCast/AzuraCast,PHP,2
+57463067,AzuraCast/AzuraCast,PHP,3
 211499617,mm0r1/exploits,PHP,3
 400984450,kuaifan/dootask,PHP,9
 111753905,web3p/web3.php,PHP,0
 404921727,luolongfei/freenom,PHP,8
-407215279,novaspirit/pi-hosted,PHP,2
+407215279,novaspirit/pi-hosted,PHP,3
 365598442,JeffreyWay/Laravel-From-Scratch-Blog-Project,PHP,1
 443850534,Label84/laravel-hours-helper,PHP,12
 433324746,forgingblock/ForgingBlock-php-lib,PHP,2
