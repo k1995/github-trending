@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
+8514,rails/rails,Ruby,11
 65252,jekyll/jekyll,Ruby,9
-7569578,discourse/discourse,Ruby,8
-8681349,huginn/huginn,Ruby,9
-52281283,mastodon/mastodon,Ruby,15
+7569578,discourse/discourse,Ruby,9
+8681349,huginn/huginn,Ruby,8
+52281283,mastodon/mastodon,Ruby,16
 2293158,rapid7/metasploit-framework,Ruby,8
-481872,hashicorp/vagrant,Ruby,5
+481872,hashicorp/vagrant,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,1
 4095287,rubocop/rubocop,Ruby,2
-18486300,lewagon/setup,Ruby,36
+18486300,lewagon/setup,Ruby,49
 52855516,Homebrew/homebrew-core,Ruby,7
-96395,faker-ruby/faker,Ruby,3
-1725199,github/linguist,Ruby,6
-21829,thoughtbot/factory_bot,Ruby,2
+96395,faker-ruby/faker,Ruby,4
+1725199,github/linguist,Ruby,5
+21829,thoughtbot/factory_bot,Ruby,1
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,4
 11426474,github/choosealicense.com,Ruby,6
 117646,rubygems/rubygems.org,Ruby,1
