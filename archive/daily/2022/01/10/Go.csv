@@ -4,10 +4,10 @@ id,name,lang,new stars
 5271882,astaxie/build-web-application-with-golang,Go,11
 41912791,v2ray/v2ray-core,Go,10
 15452919,ethereum/go-ethereum,Go,27
-17803236,rclone/rclone,Go,17
+17803236,rclone/rclone,Go,18
 72495579,go-gitea/gitea,Go,27
 134017286,jesseduffield/lazygit,Go,12
-136815833,Dreamacro/clash,Go,23
+136815833,Dreamacro/clash,Go,24
 187335810,jesseduffield/lazydocker,Go,17
 119160553,photoprism/photoprism,Go,27
 120227732,fyne-io/fyne,Go,17
@@ -21,6 +21,6 @@ id,name,lang,new stars
 154894457,open-policy-agent/gatekeeper,Go,5
 359419233,up9inc/mizu,Go,100
 428517991,wirekang/mouseable,Go,83
-444831620,sairson/Yasso,Go,51
+444831620,sairson/Yasso,Go,53
 442674809,GoMinerProxy/GoMinerProxy,Go,1
 445369537,summerblue/gohub,Go,4
