@@ -1,16 +1,16 @@
 id,name,lang,new stars
-14712850,syncthing/syncthing,Go,266
+14712850,syncthing/syncthing,Go,264
 13807606,junegunn/fzf,Go,224
 15452919,ethereum/go-ethereum,Go,222
 72495579,go-gitea/gitea,Go,186
-16563587,cockroachdb/cockroach,Go,318
+16563587,cockroachdb/cockroach,Go,320
 56353740,kubernetes/minikube,Go,70
 136815833,Dreamacro/clash,Go,282
 181461073,v2fly/v2ray-core,Go,156
-153099672,inancgumus/learngo,Go,233
-109145553,containers/podman,Go,167
-66841911,qax-os/excelize,Go,177
-10721619,hajimehoshi/ebiten,Go,128
+153099672,inancgumus/learngo,Go,232
+109145553,containers/podman,Go,169
+66841911,qax-os/excelize,Go,176
+10721619,hajimehoshi/ebiten,Go,111
 87990209,kubernetes/autoscaler,Go,172
 173785481,aquasecurity/tfsec,Go,37
 93446042,hashicorp/terraform-provider-azurerm,Go,16
@@ -23,4 +23,4 @@ id,name,lang,new stars
 191266671,algorand/go-algorand,Go,38
 411212454,tharsis/evmos,Go,82
 348742617,Hackmanit/Web-Cache-Vulnerability-Scanner,Go,96
-443089517,symfony-cli/symfony-cli,Go,61
+443089517,symfony-cli/symfony-cli,Go,58
