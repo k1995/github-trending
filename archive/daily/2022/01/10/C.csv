@@ -1,15 +1,15 @@
 id,name,lang,new stars
 10744183,netdata/netdata,C,16
 6201092,mpv-player/mpv,C,102
-80286288,arendst/Tasmota,C,56
+80286288,arendst/Tasmota,C,61
 66150122,jarun/nnn,C,8
-27737393,qmk/qmk_firmware,C,8
-45821540,openwrt/openwrt,C,6
+27737393,qmk/qmk_firmware,C,11
+45821540,openwrt/openwrt,C,7
 7715820,davatorium/rofi,C,5
 689344,libretro/RetroArch,C,4
 19112091,vanhauser-thc/thc-hydra,C,4
 91493088,ValdikSS/GoodbyeDPI,C,12
-40504480,mit-pdos/xv6-public,C,3
+40504480,mit-pdos/xv6-public,C,2
 86245815,pygame/pygame,C,4
 59676171,Klipper3d/klipper,C,7
 425159471,sunym1993/flash-linux0.11-talk,C,102
@@ -22,5 +22,5 @@ id,name,lang,new stars
 349848460,FastVM/minivm,C,171
 197141607,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,1
 424577444,solo-io/bumblebee,C,58
-396447471,boku7/BokuLoader,C,3
+396447471,boku7/BokuLoader,C,2
 435959472,CTA-Ripple/Ripple-v.0,C,17
