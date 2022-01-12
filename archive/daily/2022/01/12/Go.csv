@@ -1,5 +1,5 @@
 id,name,lang,new stars
-42408804,traefik/traefik,Go,15
+42408804,traefik/traefik,Go,22
 14125254,hashicorp/consul,Go,11
 107286889,schollz/croc,Go,27
 50613991,goharbor/harbor,Go,7
@@ -9,14 +9,14 @@ id,name,lang,new stars
 208728772,milvus-io/milvus,Go,17
 130430977,kubesphere/kubesphere,Go,10
 92313258,jetstack/cert-manager,Go,9
-11206255,Shopify/sarama,Go,4
+11206255,Shopify/sarama,Go,5
 233130089,charmbracelet/bubbletea,Go,28
 146641150,tektoncd/pipeline,Go,10
 252813491,projectdiscovery/nuclei,Go,23
-370977430,OpenIMSDK/Open-IM-Server,Go,32
-99143276,vmware-tanzu/velero,Go,6
+370977430,OpenIMSDK/Open-IM-Server,Go,33
+99143276,vmware-tanzu/velero,Go,7
 247032621,go-admin-team/go-admin,Go,10
-105262714,oauth2-proxy/oauth2-proxy,Go,22
+105262714,oauth2-proxy/oauth2-proxy,Go,23
 215654064,temporalio/temporal,Go,8
 93446042,hashicorp/terraform-provider-azurerm,Go,3
 166304026,BishopFox/sliver,Go,7
