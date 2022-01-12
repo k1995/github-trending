@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,8
+7569578,discourse/discourse,Ruby,11
 27442967,fastlane/fastlane,Ruby,6
 53238813,Homebrew/brew,Ruby,20
 2500088,gitlabhq/gitlabhq,Ruby,0
@@ -10,9 +10,9 @@ id,name,lang,new stars
 18486300,lewagon/setup,Ruby,19
 4095287,rubocop/rubocop,Ruby,2
 3314,spree/spree,Ruby,5
-3195124,mperham/sidekiq,Ruby,1
+3195124,mperham/sidekiq,Ruby,2
 1918677,fluent/fluentd,Ruby,3
-96395,faker-ruby/faker,Ruby,1
+96395,faker-ruby/faker,Ruby,2
 611921,activeadmin/activeadmin,Ruby,2
 6899875,opf/openproject,Ruby,4
 447184,rspec/rspec-rails,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 270054,ffi/ffi,Ruby,1
 1953385,stripe/stripe-ruby,Ruby,1
 212813096,lewagon/data-setup,Ruby,9
-136781582,rubocop/rubocop-rails,Ruby,1
+136781582,rubocop/rubocop-rails,Ruby,2
 375314104,learn-co-curriculum/postwork-data-structures-and-algorithms,Ruby,1
 445053289,hrishikesh1990/resume-builder,Ruby,3

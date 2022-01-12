@@ -1,8 +1,8 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,270
-17620347,dotnet/aspnetcore,C#,18
-164140756,files-community/Files,C#,54
-262395224,dotnet/maui,C#,9
+184456251,microsoft/PowerToys,C#,214
+17620347,dotnet/aspnetcore,C#,17
+164140756,files-community/Files,C#,59
+262395224,dotnet/maui,C#,10
 14964475,AvaloniaUI/Avalonia,C#,9
 16157746,dotnet/efcore,C#,2
 28239455,dotnet/AspNetCore.Docs,C#,8
@@ -12,15 +12,15 @@ id,name,lang,new stars
 75990888,dotnet/csharplang,C#,5
 132021166,dotnet/machinelearning,C#,2
 17369361,jbogard/MediatR,C#,9
-36990723,bchavez/Bogus,C#,7
+36990723,bchavez/Bogus,C#,9
 31335300,PrismLibrary/Prism,C#,1
 26732453,louthy/language-ext,C#,8
-83187656,EllanJiang/GameFramework,C#,4
-11718424,fluentassertions/fluentassertions,C#,9
+83187656,EllanJiang/GameFramework,C#,3
+11718424,fluentassertions/fluentassertions,C#,10
 184286875,actions/runner,C#,4
 158405551,GitCredentialManager/git-credential-manager,C#,6
 169556401,radzenhq/radzen-blazor,C#,8
 252826419,Unity-Technologies/Graphics,C#,2
 122214315,jbogard/ContosoUniversityDotNetCore-Pages,C#,2
-446083884,cube0x0/ParallelSyscalls,C#,21
-444218938,thomhurst/EnumerableAsyncProcessor,C#,12
+446083884,cube0x0/ParallelSyscalls,C#,17
+444218938,thomhurst/EnumerableAsyncProcessor,C#,11
