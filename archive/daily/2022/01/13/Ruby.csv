@@ -1,11 +1,11 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,17
+7569578,discourse/discourse,Ruby,16
 27442967,fastlane/fastlane,Ruby,4
 53238813,Homebrew/brew,Ruby,10
-2293158,rapid7/metasploit-framework,Ruby,13
-18486300,lewagon/setup,Ruby,3
+2293158,rapid7/metasploit-framework,Ruby,12
+18486300,lewagon/setup,Ruby,4
 3314,spree/spree,Ruby,0
-1918677,fluent/fluentd,Ruby,9
+1918677,fluent/fluentd,Ruby,10
 812393,ruby-grape/grape,Ruby,3
 611921,activeadmin/activeadmin,Ruby,3
 451035,heartcombo/simple_form,Ruby,2
@@ -18,7 +18,7 @@ id,name,lang,new stars
 115859973,ddnexus/pagy,Ruby,9
 3898922,zammad/zammad,Ruby,2
 143489,DatabaseCleaner/database_cleaner,Ruby,1
-11426474,github/choosealicense.com,Ruby,6
+11426474,github/choosealicense.com,Ruby,7
 904810,rubysherpas/paranoia,Ruby,2
 93163073,dependabot/dependabot-core,Ruby,4
 34840276,elastic/ansible-elasticsearch,Ruby,1

@@ -1,16 +1,16 @@
 id,name,lang,new stars
 10744183,netdata/netdata,C,18
-569041,curl/curl,C,11
-5101141,stedolan/jq,C,17
+569041,curl/curl,C,9
+5101141,stedolan/jq,C,16
 80286288,arendst/Tasmota,C,15
 29759715,facebook/zstd,C,5
-41215835,HandBrake/HandBrake,C,19
+41215835,HandBrake/HandBrake,C,17
 179354282,acidanthera/OpenCorePkg,C,19
 1856976,libevent/libevent,C,6
 16734696,meetecho/janus-gateway,C,4
 59771425,zephyrproject-rtos/zephyr,C,9
-7037996,VirusTotal/yara,C,10
-425159471,sunym1993/flash-linux0.11-talk,C,219
+7037996,VirusTotal/yara,C,9
+425159471,sunym1993/flash-linux0.11-talk,C,218
 59676171,Klipper3d/klipper,C,9
 58132544,RediSearch/RediSearch,C,10
 29933948,fluent/fluent-bit,C,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 444330186,0voice/ffmpeg_develop_doc,C,17
 445669577,openglonmetal/MGL,C,12
 438747534,Qualys/log4jscanwin,C,2
-445934531,paranoidninja/EtwTi-Syscall-Hook,C,32
+445934531,paranoidninja/EtwTi-Syscall-Hook,C,30
 379369147,mike-rankin/ESP32_USB-C_Power_Supply,C,4
