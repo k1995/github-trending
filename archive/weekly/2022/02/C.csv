@@ -1,17 +1,17 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,411
-111583593,Genymobile/scrcpy,C,319
+2325298,torvalds/linux,C,409
+111583593,Genymobile/scrcpy,C,325
 10744183,netdata/netdata,C,109
-156018,redis/redis,C,181
-569041,curl/curl,C,77
+156018,redis/redis,C,174
+569041,curl/curl,C,76
 1357796,emscripten-core/emscripten,C,38
-6201092,mpv-player/mpv,C,178
-7634677,openssl/openssl,C,62
-80286288,arendst/Tasmota,C,150
+6201092,mpv-player/mpv,C,179
+7634677,openssl/openssl,C,61
+80286288,arendst/Tasmota,C,151
 45821540,openwrt/openwrt,C,55
-41215835,HandBrake/HandBrake,C,83
-179354282,acidanthera/OpenCorePkg,C,51
-75811015,Tencent/xLua,C,31
+41215835,HandBrake/HandBrake,C,86
+179354282,acidanthera/OpenCorePkg,C,49
+75811015,Tencent/xLua,C,32
 50824485,processhacker/processhacker,C,50
 105944401,yugabyte/yugabyte-db,C,36
 425159471,sunym1993/flash-linux0.11-talk,C,975
@@ -20,7 +20,7 @@ id,name,lang,new stars
 288082909,htop-dev/htop,C,97
 45703884,olikraus/u8g2,C,17
 189044704,AFLplusplus/AFLplusplus,C,27
-144465372,RfidResearchGroup/proxmark3,C,27
+144465372,RfidResearchGroup/proxmark3,C,26
 47219545,GStreamer/gstreamer,C,9
 396447471,boku7/BokuLoader,C,46
-325609012,lwfinger/rtw89,C,16
+325609012,lwfinger/rtw89,C,18

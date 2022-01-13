@@ -1,5 +1,5 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,921
+100060912,microsoft/terminal,C++,923
 15634981,godotengine/godot,C++,1012
 22067521,ocornut/imgui,C++,626
 23405758,google/leveldb,C++,425
@@ -7,20 +7,20 @@ id,name,lang,new stars
 19374812,telegramdesktop/tdesktop,C++,322
 81227005,facebookresearch/faiss,C++,629
 3351871,qbittorrent/qBittorrent,C++,381
-1217614,xbmc/xbmc,C++,204
+1217614,xbmc/xbmc,C++,205
 7056202,fmtlib/fmt,C++,660
 2200856,MarlinFirmware/Marlin,C++,263
-104732438,rizinorg/cutter,C++,576
+104732438,rizinorg/cutter,C++,578
 6520784,RPCS3/rpcs3,C++,222
 5736080,FreeCAD/FreeCAD,C++,215
 76990209,Aircoookie/WLED,C++,380
 153866232,TheCherno/Hazel,C++,273
 5973855,CleverRaven/Cataclysm-DDA,C++,531
 86337343,skypjack/entt,C++,259
-299510783,rui314/mold,C++,2337
+299510783,rui314/mold,C++,2340
 86897963,ZLMediaKit/ZLMediaKit,C++,306
 280608729,UZ-SLAMLab/ORB_SLAM3,C++,159
-194269070,skyline-emu/skyline,C++,437
-402945349,StarRocks/starrocks,C++,278
+194269070,skyline-emu/skyline,C++,442
+402945349,StarRocks/starrocks,C++,279
 283280154,jomjol/AI-on-the-edge-device,C++,241
-395348629,bozbez/win-capture-audio,C++,393
+395348629,bozbez/win-capture-audio,C++,394
