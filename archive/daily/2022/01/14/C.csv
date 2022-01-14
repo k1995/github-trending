@@ -1,6 +1,6 @@
 id,name,lang,new stars
-156018,redis/redis,C,40
-1357796,emscripten-core/emscripten,C,6
+156018,redis/redis,C,38
+1357796,emscripten-core/emscripten,C,7
 5101141,stedolan/jq,C,20
 7634677,openssl/openssl,C,8
 184981,memcached/memcached,C,3
@@ -17,10 +17,10 @@ id,name,lang,new stars
 214011414,kingToolbox/WindTerm,C,6
 34807561,nanopb/nanopb,C,3
 217654199,microsoft/msquic,C,7
-128791889,haproxy/haproxy,C,5
+128791889,haproxy/haproxy,C,4
 5410234,OISF/suricata,C,4
 1031235,strongswan/strongswan,C,2
 8890645,Xilinx/linux-xlnx,C,3
 270692521,zmkfirmware/zmk,C,7
-445669577,openglonmetal/MGL,C,40
+445669577,openglonmetal/MGL,C,32
 445934531,paranoidninja/EtwTi-Syscall-Hook,C,12
