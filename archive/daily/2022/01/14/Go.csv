@@ -9,7 +9,7 @@ id,name,lang,new stars
 165041732,go-kratos/kratos,Go,21
 129717717,grafana/loki,Go,12
 86733463,ahmetb/kubectx,Go,11
-72891330,kubernetes/ingress-nginx,Go,11
+72891330,kubernetes/ingress-nginx,Go,14
 120896210,argoproj/argo-cd,Go,7
 37334619,golang/mock,Go,5
 28366058,distribution/distribution,Go,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 403020531,abiosoft/colima,Go,40
 446613820,multiprocessio/dsq,Go,132
 310632133,solana-labs/token-list,Go,3
-445585163,nikochiko/autosaved,Go,20
+445585163,nikochiko/autosaved,Go,13
