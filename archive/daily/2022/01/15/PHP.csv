@@ -1,5 +1,5 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,8
+458058,symfony/symfony,PHP,7
 7548986,laravel/framework,PHP,9
 1420053,guzzle/guzzle,PHP,3
 1548202,matomo-org/matomo,PHP,7
@@ -8,19 +8,19 @@ id,name,lang,new stars
 14259390,SpartnerNL/Laravel-Excel,PHP,5
 23680678,tymondesigns/jwt-auth,PHP,4
 42480275,spatie/laravel-permission,PHP,9
-2699935,squizlabs/PHP_CodeSniffer,PHP,4
+2699935,squizlabs/PHP_CodeSniffer,PHP,6
 597887,doctrine/orm,PHP,3
-2179920,woocommerce/woocommerce,PHP,6
-6763587,PrestaShop/PrestaShop,PHP,1
+2179920,woocommerce/woocommerce,PHP,8
+6763587,PrestaShop/PrestaShop,PHP,2
 222873550,crater-invoice/crater,PHP,83
 10883164,barryvdh/laravel-dompdf,PHP,0
 12204147,mautic/mautic,PHP,4
 97311017,rectorphp/rector,PHP,14
-74386167,vimeo/psalm,PHP,5
+74386167,vimeo/psalm,PHP,6
 148129143,bagisto/bagisto,PHP,2
 439861,moodle/moodle,PHP,4
 2686502,pimcore/pimcore,PHP,2
 17722440,Rudloff/alltube,PHP,7
 17388759,laravel/cashier-stripe,PHP,2
 131995661,shopware/platform,PHP,3
-75645659,WordPress/wordpress-develop,PHP,2
+75645659,WordPress/wordpress-develop,PHP,3
