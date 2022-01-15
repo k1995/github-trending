@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,6
-7569578,discourse/discourse,Ruby,12
+7569578,discourse/discourse,Ruby,8
 27442967,fastlane/fastlane,Ruby,4
 308770,heartcombo/devise,Ruby,2
 73648678,forem/forem,Ruby,7
 1090311,elastic/logstash,Ruby,0
 3314,spree/spree,Ruby,3
-1918677,fluent/fluentd,Ruby,2
+1918677,fluent/fluentd,Ruby,1
 96395,faker-ruby/faker,Ruby,3
 812393,ruby-grape/grape,Ruby,1
-15435,Shopify/liquid,Ruby,1
+15435,Shopify/liquid,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,0
 1333863,kaminari/kaminari,Ruby,1
 6529205,varvet/pundit,Ruby,0
@@ -17,10 +17,10 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,1
 108278,chef/chef,Ruby,3
 75785147,rails/webpacker,Ruby,0
-417389,lostisland/faraday,Ruby,5
+417389,lostisland/faraday,Ruby,3
 30337170,rmosolgo/graphql-ruby,Ruby,1
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
 1462,ctran/annotate_models,Ruby,1
 51164398,oracle/truffleruby,Ruby,2
-200302808,github/view_component,Ruby,2
+200302808,github/view_component,Ruby,3
 442600677,itjuana-bootcamp/DevOps,Ruby,0
