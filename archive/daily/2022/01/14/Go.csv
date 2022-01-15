@@ -1,13 +1,13 @@
 id,name,lang,new stars
 7691631,moby/moby,Go,15
-20904437,gin-gonic/gin,Go,43
-61137153,evanw/esbuild,Go,34
-56353740,kubernetes/minikube,Go,10
+20904437,gin-gonic/gin,Go,41
+61137153,evanw/esbuild,Go,30
+56353740,kubernetes/minikube,Go,14
 31288958,hashicorp/vault,Go,12
 163883279,nektos/act,Go,41
 11393110,urfave/cli,Go,10
 165041732,go-kratos/kratos,Go,21
-129717717,grafana/loki,Go,15
+129717717,grafana/loki,Go,14
 86733463,ahmetb/kubectx,Go,10
 72891330,kubernetes/ingress-nginx,Go,15
 120896210,argoproj/argo-cd,Go,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 311639195,karmada-io/karmada,Go,13
 323965659,Xhofe/alist,Go,66
 390982669,jkstack/natpass,Go,37
-403020531,abiosoft/colima,Go,42
+403020531,abiosoft/colima,Go,41
 446613820,multiprocessio/dsq,Go,175
 310632133,solana-labs/token-list,Go,3
 445585163,nikochiko/autosaved,Go,13

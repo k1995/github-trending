@@ -1,16 +1,16 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,28
-23357588,protocolbuffers/protobuf,C++,57
-23405758,google/leveldb,C++,139
+9384267,electron/electron,C++,29
+23357588,protocolbuffers/protobuf,C++,56
+23405758,google/leveldb,C++,162
 6934395,facebook/rocksdb,C++,15
-60246359,ClickHouse/ClickHouse,C++,33
+60246359,ClickHouse/ClickHouse,C++,37
 96246170,ApolloAuto/apollo,C++,12
-191820100,google/mediapipe,C++,20
+191820100,google/mediapipe,C++,19
 26038648,gabime/spdlog,C++,13
 102343794,apache/incubator-brpc,C++,6
 81887991,microsoft/AirSim,C++,4
 2649214,arangodb/arangodb,C++,5
-38581626,pybind/pybind11,C++,7
+38581626,pybind/pybind11,C++,8
 161292091,Tencent/matrix,C++,7
 12756992,opencv/opencv_contrib,C++,2
 50255244,raulmur/ORB_SLAM2,C++,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 21530861,open-source-parsers/jsoncpp,C++,2
 75662387,google/draco,C++,5
 8096326,openMVG/openMVG,C++,2
-153097643,openvinotoolkit/openvino,C++,7
+153097643,openvinotoolkit/openvino,C++,6
 11489037,rathena/rathena,C++,3
-433542330,windowjs/windowjs,C++,355
+433542330,windowjs/windowjs,C++,353
 384520418,MistEO/MeoAssistantArknights,C++,9
