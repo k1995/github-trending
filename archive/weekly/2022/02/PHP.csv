@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,136
+1863329,laravel/laravel,PHP,137
 2579314,fzaninotto/Faker,PHP,27
-7548986,laravel/framework,PHP,78
+7548986,laravel/framework,PHP,77
 2253830,PHPMailer/PHPMailer,PHP,34
 1548202,matomo-org/matomo,PHP,40
 8678290,barryvdh/laravel-ide-helper,PHP,32
@@ -10,16 +10,16 @@ id,name,lang,new stars
 14259390,SpartnerNL/Laravel-Excel,PHP,22
 137515,mockery/mockery,PHP,17
 5627682,serbanghita/Mobile-Detect,PHP,16
-2884111,magento/magento2,PHP,9
-2699935,squizlabs/PHP_CodeSniffer,PHP,23
+2884111,magento/magento2,PHP,10
+2699935,squizlabs/PHP_CodeSniffer,PHP,24
 597887,doctrine/orm,PHP,32
 6660366,dompdf/dompdf,PHP,27
-41589337,BookStackApp/BookStack,PHP,560
+41589337,BookStackApp/BookStack,PHP,561
 2179920,woocommerce/woocommerce,PHP,55
-9791525,digininja/DVWA,PHP,22
+9791525,digininja/DVWA,PHP,21
 97311017,rectorphp/rector,PHP,51
 3817881,zircote/swagger-php,PHP,20
-4224042,roundcube/roundcubemail,PHP,13
+4224042,roundcube/roundcubemail,PHP,14
 291805291,laravel/jetstream,PHP,15
 1957456,Dolibarr/dolibarr,PHP,23
 75645659,WordPress/wordpress-develop,PHP,118
