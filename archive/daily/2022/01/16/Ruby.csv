@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,5
-7569578,discourse/discourse,Ruby,7
+8514,rails/rails,Ruby,6
+7569578,discourse/discourse,Ruby,9
 27442967,fastlane/fastlane,Ruby,5
 308770,heartcombo/devise,Ruby,2
 73648678,forem/forem,Ruby,6
 1090311,elastic/logstash,Ruby,0
 3314,spree/spree,Ruby,2
 1918677,fluent/fluentd,Ruby,1
-96395,faker-ruby/faker,Ruby,3
+96395,faker-ruby/faker,Ruby,2
 812393,ruby-grape/grape,Ruby,1
 15435,Shopify/liquid,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,0
@@ -17,7 +17,7 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,1
 108278,chef/chef,Ruby,3
 75785147,rails/webpacker,Ruby,0
-417389,lostisland/faraday,Ruby,4
+417389,lostisland/faraday,Ruby,2
 30337170,rmosolgo/graphql-ruby,Ruby,1
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
 1462,ctran/annotate_models,Ruby,1
