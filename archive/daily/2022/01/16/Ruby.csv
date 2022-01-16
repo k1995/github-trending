@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-7569578,discourse/discourse,Ruby,9
-27442967,fastlane/fastlane,Ruby,4
+8514,rails/rails,Ruby,8
+7569578,discourse/discourse,Ruby,10
+27442967,fastlane/fastlane,Ruby,3
 308770,heartcombo/devise,Ruby,1
 73648678,forem/forem,Ruby,7
 1090311,elastic/logstash,Ruby,2
 3314,spree/spree,Ruby,2
-1918677,fluent/fluentd,Ruby,0
+1918677,fluent/fluentd,Ruby,1
 96395,faker-ruby/faker,Ruby,2
-812393,ruby-grape/grape,Ruby,2
+812393,ruby-grape/grape,Ruby,3
 15435,Shopify/liquid,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,0
 1333863,kaminari/kaminari,Ruby,0
 6529205,varvet/pundit,Ruby,0
-21829,thoughtbot/factory_bot,Ruby,0
+21829,thoughtbot/factory_bot,Ruby,1
 2441517,puma/puma,Ruby,0
 108278,chef/chef,Ruby,3
 75785147,rails/webpacker,Ruby,0
