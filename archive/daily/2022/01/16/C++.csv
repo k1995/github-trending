@@ -1,10 +1,10 @@
 id,name,lang,new stars
-23357588,protocolbuffers/protobuf,C++,21
+23357588,protocolbuffers/protobuf,C++,20
 22067521,ocornut/imgui,C++,22
-23405758,google/leveldb,C++,108
-168008797,microsoft/calculator,C++,11
-60246359,ClickHouse/ClickHouse,C++,35
-6934395,facebook/rocksdb,C++,5
+23405758,google/leveldb,C++,105
+168008797,microsoft/calculator,C++,10
+60246359,ClickHouse/ClickHouse,C++,88
+6934395,facebook/rocksdb,C++,7
 191820100,google/mediapipe,C++,4
 1062572,catchorg/Catch2,C++,1
 38581626,pybind/pybind11,C++,6
@@ -13,14 +13,14 @@ id,name,lang,new stars
 4118776,mltframework/shotcut,C++,10
 86897963,ZLMediaKit/ZLMediaKit,C++,6
 31197250,google/glog,C++,2
-146842101,iovisor/bpftrace,C++,8
+146842101,iovisor/bpftrace,C++,6
 36831874,microsoft/DirectX-Graphics-Samples,C++,3
 67641996,oneapi-src/oneTBB,C++,7
 153097643,openvinotoolkit/openvino,C++,3
-183564981,BlackINT3/OpenArk,C++,7
+183564981,BlackINT3/OpenArk,C++,6
 105010691,nextcloud/desktop,C++,0
 61980658,azerothcore/azerothcore-wotlk,C++,2
 9880335,qt/qtbase,C++,8
-433542330,windowjs/windowjs,C++,243
+433542330,windowjs/windowjs,C++,223
 384520418,MistEO/MeoAssistantArknights,C++,8
-443738863,klinix5/ReverseRDP_RCE,C++,9
+443738863,klinix5/ReverseRDP_RCE,C++,15
