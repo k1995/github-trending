@@ -1,12 +1,12 @@
 id,name,lang,new stars
-15634981,godotengine/godot,C++,1088
+15634981,godotengine/godot,C++,1091
 22067521,ocornut/imgui,C++,620
-11171548,nlohmann/json,C++,600
-23405758,google/leveldb,C++,826
+11171548,nlohmann/json,C++,599
+23405758,google/leveldb,C++,827
 4524181,facebook/folly,C++,457
 19374812,telegramdesktop/tdesktop,C++,330
-23129458,aseprite/aseprite,C++,672
-3351871,qbittorrent/qBittorrent,C++,411
+23129458,aseprite/aseprite,C++,687
+3351871,qbittorrent/qBittorrent,C++,414
 1217614,xbmc/xbmc,C++,209
 7056202,fmtlib/fmt,C++,666
 2200856,MarlinFirmware/Marlin,C++,267
@@ -16,11 +16,11 @@ id,name,lang,new stars
 106558568,doitsujin/dxvk,C++,145
 5973855,CleverRaven/Cataclysm-DDA,C++,536
 86337343,skypjack/entt,C++,258
-299510783,rui314/mold,C++,1766
+299510783,rui314/mold,C++,1721
 86897963,ZLMediaKit/ZLMediaKit,C++,298
 36781769,arvidn/libtorrent,C++,84
 280608729,UZ-SLAMLab/ORB_SLAM3,C++,152
-194269070,skyline-emu/skyline,C++,478
-402945349,StarRocks/starrocks,C++,276
-328893373,LANDrop/LANDrop,C++,689
-283280154,jomjol/AI-on-the-edge-device,C++,256
+194269070,skyline-emu/skyline,C++,476
+402945349,StarRocks/starrocks,C++,279
+328893373,LANDrop/LANDrop,C++,661
+283280154,jomjol/AI-on-the-edge-device,C++,257
