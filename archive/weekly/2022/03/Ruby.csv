@@ -1,12 +1,12 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,86
+7569578,discourse/discourse,Ruby,85
 27442967,fastlane/fastlane,Ruby,49
-53238813,Homebrew/brew,Ruby,113
-481872,hashicorp/vagrant,Ruby,41
+53238813,Homebrew/brew,Ruby,111
+481872,hashicorp/vagrant,Ruby,42
 308770,heartcombo/devise,Ruby,20
-18486300,lewagon/setup,Ruby,166
+18486300,lewagon/setup,Ruby,168
 4095287,rubocop/rubocop,Ruby,12
-3195124,mperham/sidekiq,Ruby,16
+3195124,mperham/sidekiq,Ruby,18
 1918677,fluent/fluentd,Ruby,32
 96395,faker-ruby/faker,Ruby,23
 15435,Shopify/liquid,Ruby,22
@@ -19,7 +19,7 @@ id,name,lang,new stars
 447184,rspec/rspec-rails,Ruby,4
 6768710,redmine/redmine,Ruby,14
 30985840,solidusio/solidus,Ruby,12
-11426474,github/choosealicense.com,Ruby,25
+11426474,github/choosealicense.com,Ruby,24
 200302808,github/view_component,Ruby,13
 270054,ffi/ffi,Ruby,7
 66497320,DataDog/dd-trace-rb,Ruby,0
