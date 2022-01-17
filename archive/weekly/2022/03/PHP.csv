@@ -2,7 +2,7 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,124
 2579314,fzaninotto/Faker,PHP,29
 7548986,laravel/framework,PHP,75
-2889328,WordPress/WordPress,PHP,39
+2889328,WordPress/WordPress,PHP,38
 1548202,matomo-org/matomo,PHP,42
 13899674,thephpleague/flysystem,PHP,36
 8678290,barryvdh/laravel-ide-helper,PHP,32
@@ -13,7 +13,7 @@ id,name,lang,new stars
 2699935,squizlabs/PHP_CodeSniffer,PHP,28
 597887,doctrine/orm,PHP,34
 6660366,dompdf/dompdf,PHP,23
-41589337,BookStackApp/BookStack,PHP,201
+41589337,BookStackApp/BookStack,PHP,198
 2179920,woocommerce/woocommerce,PHP,59
 17452080,lcobucci/jwt,PHP,14
 9791525,digininja/DVWA,PHP,22
@@ -23,4 +23,4 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,17
 131995661,shopware/platform,PHP,16
 75645659,WordPress/wordpress-develop,PHP,117
-440577490,getcandy/getcandy,PHP,57
+440577490,getcandy/getcandy,PHP,56

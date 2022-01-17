@@ -1,14 +1,14 @@
 id,name,lang,new stars
 156018,redis/redis,C,18
 246335987,ventoy/Ventoy,C,26
-1614410,FFmpeg/FFmpeg,C,22
+1614410,FFmpeg/FFmpeg,C,21
 24586308,cfenollosa/os-tutorial,C,7
 102578345,coolsnowwolf/lede,C,23
 20159867,nothings/stb,C,12
-80286288,arendst/Tasmota,C,9
+80286288,arendst/Tasmota,C,10
 27737393,qmk/qmk_firmware,C,8
 5254557,cloudwu/skynet,C,3
-105627846,reactos/reactos,C,11
+105627846,reactos/reactos,C,10
 40217904,swaywm/sway,C,7
 613829,openresty/lua-nginx-module,C,1
 41215835,HandBrake/HandBrake,C,8
@@ -16,8 +16,8 @@ id,name,lang,new stars
 7715820,davatorium/rofi,C,3
 35930805,EZLippi/Tinyhttpd,C,10
 65899476,espressif/esp-idf,C,3
-37060852,betaflight/betaflight,C,4
-59676171,Klipper3d/klipper,C,4
+37060852,betaflight/betaflight,C,5
+59676171,Klipper3d/klipper,C,3
 34807561,nanopb/nanopb,C,3
 204459250,mit-pdos/xv6-riscv,C,3
 82754556,Bodmer/TFT_eSPI,C,3
