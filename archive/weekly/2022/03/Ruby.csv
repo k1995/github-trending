@@ -1,14 +1,14 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,83
-27442967,fastlane/fastlane,Ruby,46
-53238813,Homebrew/brew,Ruby,109
+7569578,discourse/discourse,Ruby,81
+27442967,fastlane/fastlane,Ruby,47
+53238813,Homebrew/brew,Ruby,112
 481872,hashicorp/vagrant,Ruby,43
 2500088,gitlabhq/gitlabhq,Ruby,10
 308770,heartcombo/devise,Ruby,22
-18486300,lewagon/setup,Ruby,449
-202291859,chatwoot/chatwoot,Ruby,76
+18486300,lewagon/setup,Ruby,440
+202291859,chatwoot/chatwoot,Ruby,81
 4095287,rubocop/rubocop,Ruby,12
-3195124,mperham/sidekiq,Ruby,17
+3195124,mperham/sidekiq,Ruby,18
 1918677,fluent/fluentd,Ruby,30
 96395,faker-ruby/faker,Ruby,24
 15435,Shopify/liquid,Ruby,20
@@ -19,7 +19,7 @@ id,name,lang,new stars
 417389,lostisland/faraday,Ruby,14
 30985840,solidusio/solidus,Ruby,12
 11426474,github/choosealicense.com,Ruby,25
-81134943,Shopify/bootsnap,Ruby,5
+81134943,Shopify/bootsnap,Ruby,6
 200302808,github/view_component,Ruby,14
 270054,ffi/ffi,Ruby,6
 161399160,Shopify/shopify-cli,Ruby,8
