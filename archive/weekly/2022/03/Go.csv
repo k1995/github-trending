@@ -1,11 +1,11 @@
 id,name,lang,new stars
-6838921,prometheus/prometheus,Go,120
+6838921,prometheus/prometheus,Go,119
 74175805,istio/istio,Go,123
 15045751,docker/compose,Go,101
-56353740,kubernetes/minikube,Go,118
+56353740,kubernetes/minikube,Go,116
 31288958,hashicorp/vault,Go,62
-129717717,grafana/loki,Go,76
-72891330,kubernetes/ingress-nginx,Go,59
+129717717,grafana/loki,Go,77
+72891330,kubernetes/ingress-nginx,Go,60
 36653430,hashicorp/nomad,Go,33
 134012064,pion/webrtc,Go,71
 120896210,argoproj/argo-cd,Go,69
@@ -14,13 +14,13 @@ id,name,lang,new stars
 21306961,fsnotify/fsnotify,Go,61
 156681830,ffuf/ffuf,Go,62
 434218673,prabhatsharma/zinc,Go,598
-135321861,ory/kratos,Go,78
+135321861,ory/kratos,Go,77
 259191284,hashicorp/waypoint,Go,21
 22485114,hashicorp/hcl,Go,25
-281765424,microsoft/CBL-Mariner,Go,40
+281765424,microsoft/CBL-Mariner,Go,41
 258469100,fluxcd/flux2,Go,64
 323965659,Xhofe/alist,Go,470
-403020531,abiosoft/colima,Go,189
-441903012,MichaelCade/90DaysOfDevOps,Go,448
-411212454,tharsis/evmos,Go,88
-444831620,sairson/Yasso,Go,367
+441903012,MichaelCade/90DaysOfDevOps,Go,454
+403020531,abiosoft/colima,Go,190
+411212454,tharsis/evmos,Go,87
+444831620,sairson/Yasso,Go,365
