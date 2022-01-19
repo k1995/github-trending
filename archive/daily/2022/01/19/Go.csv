@@ -1,13 +1,13 @@
 id,name,lang,new stars
-48378947,fatedier/frp,Go,45
-29261473,minio/minio,Go,20
+48378947,fatedier/frp,Go,50
+29261473,minio/minio,Go,31
 134017286,jesseduffield/lazygit,Go,18
 15045751,docker/compose,Go,17
 10379607,buger/goreplay,Go,31
 285864199,zeromicro/go-zero,Go,38
 109145553,containers/podman,Go,23
 33258973,influxdata/telegraf,Go,5
-100982449,argoproj/argo-workflows,Go,10
+100982449,argoproj/argo-workflows,Go,12
 65434192,tidwall/gjson,Go,18
 220186120,codenotary/immudb,Go,33
 31311037,jpillora/chisel,Go,15
@@ -20,7 +20,7 @@ id,name,lang,new stars
 335952417,sigstore/cosign,Go,11
 306366900,casdoor/casdoor,Go,15
 67908757,Versent/saml2aws,Go,2
-441903012,MichaelCade/90DaysOfDevOps,Go,219
+441903012,MichaelCade/90DaysOfDevOps,Go,191
 238797860,ethereum-optimism/optimism,Go,3
-304841810,osmosis-labs/osmosis,Go,1
+304841810,osmosis-labs/osmosis,Go,4
 290724437,IBAX-io/go-ibax,Go,0
