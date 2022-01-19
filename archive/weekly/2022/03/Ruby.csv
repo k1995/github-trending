@@ -1,18 +1,18 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,83
-27442967,fastlane/fastlane,Ruby,51
-481872,hashicorp/vagrant,Ruby,42
-308770,heartcombo/devise,Ruby,26
+7569578,discourse/discourse,Ruby,79
+27442967,fastlane/fastlane,Ruby,50
+481872,hashicorp/vagrant,Ruby,43
+308770,heartcombo/devise,Ruby,27
 18486300,lewagon/setup,Ruby,154
 202291859,chatwoot/chatwoot,Ruby,90
 4095287,rubocop/rubocop,Ruby,14
-3195124,mperham/sidekiq,Ruby,22
+3195124,mperham/sidekiq,Ruby,24
 1918677,fluent/fluentd,Ruby,37
 96395,faker-ruby/faker,Ruby,24
 15435,Shopify/liquid,Ruby,23
 611921,activeadmin/activeadmin,Ruby,11
 21829,thoughtbot/factory_bot,Ruby,5
-2441517,puma/puma,Ruby,11
+2441517,puma/puma,Ruby,10
 108278,chef/chef,Ruby,14
 417389,lostisland/faraday,Ruby,11
 6768710,redmine/redmine,Ruby,14
@@ -22,5 +22,5 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,21
 81134943,Shopify/bootsnap,Ruby,6
 8472417,Shopify/identity_cache,Ruby,5
-161399160,Shopify/shopify-cli,Ruby,7
-435649432,hack-different/apple-knowledge,Ruby,68
+161399160,Shopify/shopify-cli,Ruby,8
+435649432,hack-different/apple-knowledge,Ruby,67

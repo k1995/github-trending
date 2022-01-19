@@ -7,10 +7,10 @@ id,name,lang,new stars
 285864199,zeromicro/go-zero,Go,38
 109145553,containers/podman,Go,23
 33258973,influxdata/telegraf,Go,5
-100982449,argoproj/argo-workflows,Go,9
+100982449,argoproj/argo-workflows,Go,10
 65434192,tidwall/gjson,Go,18
-220186120,codenotary/immudb,Go,34
-31311037,jpillora/chisel,Go,16
+220186120,codenotary/immudb,Go,33
+31311037,jpillora/chisel,Go,15
 395283401,armosec/kubescape,Go,12
 83252983,go-task/task,Go,10
 175192867,chaosblade-io/chaosblade,Go,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 335952417,sigstore/cosign,Go,11
 306366900,casdoor/casdoor,Go,15
 67908757,Versent/saml2aws,Go,2
-441903012,MichaelCade/90DaysOfDevOps,Go,218
+441903012,MichaelCade/90DaysOfDevOps,Go,219
 238797860,ethereum-optimism/optimism,Go,3
 304841810,osmosis-labs/osmosis,Go,1
 290724437,IBAX-io/go-ibax,Go,0
