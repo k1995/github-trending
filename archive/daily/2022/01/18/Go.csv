@@ -6,8 +6,8 @@ id,name,lang,new stars
 10379607,buger/goreplay,Go,33
 285864199,zeromicro/go-zero,Go,39
 109145553,containers/podman,Go,25
-33258973,influxdata/telegraf,Go,4
-100982449,argoproj/argo-workflows,Go,9
+33258973,influxdata/telegraf,Go,5
+100982449,argoproj/argo-workflows,Go,10
 65434192,tidwall/gjson,Go,14
 220186120,codenotary/immudb,Go,30
 31311037,jpillora/chisel,Go,14
@@ -17,10 +17,10 @@ id,name,lang,new stars
 14179252,kelseyhightower/envconfig,Go,4
 212465715,bufbuild/buf,Go,6
 51193526,cosmos/cosmos-sdk,Go,7
-335952417,sigstore/cosign,Go,10
+335952417,sigstore/cosign,Go,13
 306366900,casdoor/casdoor,Go,12
 67908757,Versent/saml2aws,Go,4
-441903012,MichaelCade/90DaysOfDevOps,Go,254
+441903012,MichaelCade/90DaysOfDevOps,Go,232
 238797860,ethereum-optimism/optimism,Go,2
-304841810,osmosis-labs/osmosis,Go,2
-290724437,IBAX-io/go-ibax,Go,1
+304841810,osmosis-labs/osmosis,Go,1
+290724437,IBAX-io/go-ibax,Go,0
