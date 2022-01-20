@@ -1,20 +1,20 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,350
-65252,jekyll/jekyll,Ruby,230
-7569578,discourse/discourse,Ruby,257
-8681349,huginn/huginn,Ruby,242
+65252,jekyll/jekyll,Ruby,232
+7569578,discourse/discourse,Ruby,258
+8681349,huginn/huginn,Ruby,241
 13840241,freeCodeCamp/devdocs,Ruby,342
-308770,heartcombo/devise,Ruby,88
-538746,ruby/ruby,Ruby,126
+308770,heartcombo/devise,Ruby,87
+538746,ruby/ruby,Ruby,125
 18486300,lewagon/setup,Ruby,586
-202291859,chatwoot/chatwoot,Ruby,342
+202291859,chatwoot/chatwoot,Ruby,340
 4095287,rubocop/rubocop,Ruby,56
-96395,faker-ruby/faker,Ruby,74
+96395,faker-ruby/faker,Ruby,75
 611921,activeadmin/activeadmin,Ruby,30
-1333863,kaminari/kaminari,Ruby,31
+1333863,kaminari/kaminari,Ruby,32
 417389,lostisland/faraday,Ruby,28
 30985840,solidusio/solidus,Ruby,48
-1462,ctran/annotate_models,Ruby,22
+1462,ctran/annotate_models,Ruby,21
 38867,svenfuchs/rails-i18n,Ruby,18
 138776049,sorbet/sorbet,Ruby,88
 614070,rubygems/rubygems,Ruby,40
@@ -22,5 +22,5 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,85
 93163073,dependabot/dependabot-core,Ruby,66
 10088951,TheOdinProject/theodinproject,Ruby,59
-209731662,ruby/debug,Ruby,124
+209731662,ruby/debug,Ruby,125
 419827947,joemasilotti/railsdevs.com,Ruby,77
