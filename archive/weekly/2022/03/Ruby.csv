@@ -1,14 +1,14 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,69
-27442967,fastlane/fastlane,Ruby,63
+7569578,discourse/discourse,Ruby,67
+27442967,fastlane/fastlane,Ruby,151
 53238813,Homebrew/brew,Ruby,105
 481872,hashicorp/vagrant,Ruby,43
-308770,heartcombo/devise,Ruby,29
-2203645,CocoaPods/CocoaPods,Ruby,16
-18486300,lewagon/setup,Ruby,143
-202291859,chatwoot/chatwoot,Ruby,88
+308770,heartcombo/devise,Ruby,28
+2203645,CocoaPods/CocoaPods,Ruby,17
+18486300,lewagon/setup,Ruby,142
+202291859,chatwoot/chatwoot,Ruby,87
 4095287,rubocop/rubocop,Ruby,12
-3195124,mperham/sidekiq,Ruby,28
+3195124,mperham/sidekiq,Ruby,26
 1918677,fluent/fluentd,Ruby,30
 96395,faker-ruby/faker,Ruby,23
 15435,Shopify/liquid,Ruby,18
@@ -22,5 +22,5 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,10
 1462,ctran/annotate_models,Ruby,3
 46698467,ankane/strong_migrations,Ruby,18
-10088951,TheOdinProject/theodinproject,Ruby,17
+10088951,TheOdinProject/theodinproject,Ruby,18
 212272090,CMSgov/price-transparency-guide,Ruby,3

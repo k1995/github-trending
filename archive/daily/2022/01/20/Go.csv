@@ -4,10 +4,10 @@ id,name,lang,new stars
 74175805,istio/istio,Go,14
 14125254,hashicorp/consul,Go,7
 120227732,fyne-io/fyne,Go,13
-205679232,flipped-aurora/gin-vue-admin,Go,36
+205679232,flipped-aurora/gin-vue-admin,Go,25
 48109239,cilium/cilium,Go,17
-16554739,elastic/beats,Go,4
-36653430,hashicorp/nomad,Go,4
+16554739,elastic/beats,Go,5
+36653430,hashicorp/nomad,Go,14
 100982449,argoproj/argo-workflows,Go,7
 62921553,rook/rook,Go,7
 367284699,lima-vm/lima,Go,41

@@ -1,11 +1,11 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,25
-39840932,google/googletest,C++,13
+45717250,tensorflow/tensorflow,C++,26
+39840932,google/googletest,C++,12
 4524181,facebook/folly,C++,14
 65214191,envoyproxy/envoy,C++,8
 191820100,google/mediapipe,C++,15
 1062572,catchorg/Catch2,C++,2
-26038648,gabime/spdlog,C++,21
+26038648,gabime/spdlog,C++,22
 64991887,microsoft/LightGBM,C++,5
 114187903,apple/foundationdb,C++,2
 1204412,TrinityCore/TrinityCore,C++,4
@@ -13,14 +13,14 @@ id,name,lang,new stars
 156939672,microsoft/onnxruntime,C++,14
 6083843,progschj/ThreadPool,C++,7
 1413319,mumble-voip/mumble,C++,18
-4930716,zeek/zeek,C++,5
-223904726,wang-xinyu/tensorrtx,C++,5
-151636194,triton-inference-server/server,C++,13
+4930716,zeek/zeek,C++,4
+223904726,wang-xinyu/tensorrtx,C++,6
+151636194,triton-inference-server/server,C++,12
 81634683,Oneflow-Inc/oneflow,C++,2
 24677392,CGAL/cgal,C++,6
-48289924,me-no-dev/ESPAsyncWebServer,C++,4
+48289924,me-no-dev/ESPAsyncWebServer,C++,3
 358678977,NVlabs/tiny-cuda-nn,C++,19
 356055024,tensorflow/tflite-micro,C++,9
-379771313,FaqT0tum/Orbion_Space_Mouse,C++,71
+379771313,FaqT0tum/Orbion_Space_Mouse,C++,109
 409109530,vooidzero/B23Downloader,C++,97
-295195550,kasmtech/KasmVNC,C++,11
+295195550,kasmtech/KasmVNC,C++,13
