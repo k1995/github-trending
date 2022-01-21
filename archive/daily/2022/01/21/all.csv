@@ -3,7 +3,7 @@ id,name,lang,new stars
 54346799,public-apis/public-apis,Python,408
 34526884,ant-design/ant-design,TypeScript,67
 62607227,yangshun/tech-interview-handbook,JavaScript,196
-74791366,ryanmcdermott/clean-code-javascript,JavaScript,212
+74791366,ryanmcdermott/clean-code-javascript,JavaScript,223
 65600975,pytorch/pytorch,C++,34
 27442967,fastlane/fastlane,Ruby,167
 14125254,hashicorp/consul,Go,14
@@ -13,8 +13,8 @@ id,name,lang,new stars
 367284699,lima-vm/lima,Go,65
 239760033,sivan/heti,SCSS,326
 93446042,hashicorp/terraform-provider-azurerm,Go,4
-143822069,sunface/rust-course,Rust,155
 274724694,dendronhq/dendron,TypeScript,24
+143822069,sunface/rust-course,Rust,155
 441903012,MichaelCade/90DaysOfDevOps,Go,264
 164466028,fireship-io/fireship.io,TypeScript,17
 416829986,libffcv/ffcv,Python,246
