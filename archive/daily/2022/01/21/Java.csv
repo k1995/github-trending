@@ -1,5 +1,5 @@
 id,name,lang,new stars
-206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,56
+206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,46
 20300177,google/guava,Java,30
 9754983,eugenp/tutorials,Java,14
 146633589,alibaba/arthas,Java,17
@@ -8,19 +8,19 @@ id,name,lang,new stars
 87624870,forezp/SpringCloudLearning,Java,14
 5901900,LMAX-Exchange/disruptor,Java,6
 117965972,alibaba/DataX,Java,9
-62117812,apache/pulsar,Java,5
+62117812,apache/pulsar,Java,3
 149001365,doocs/leetcode,Java,31
-6650539,neo4j/neo4j,Java,8
-7276954,Alluxio/alluxio,Java,2
-166515022,trinodb/trino,Java,9
+6650539,neo4j/neo4j,Java,9
+7276954,Alluxio/alluxio,Java,1
+166515022,trinodb/trino,Java,8
 329265320,zxbu/webdav-aliyundriver,Java,17
 58194180,strimzi/strimzi-kafka-operator,Java,3
 231329990,jetlinks/jetlinks-community,Java,7
-158256479,apache/iceberg,Java,5
+158256479,apache/iceberg,Java,9
 38829639,fabric8io/kubernetes-client,Java,9
 281866198,lyrric/seckill,Java,53
-156627365,itwanger/toBeBetterJavaer,Java,14
-2928948,Azure/azure-sdk-for-java,Java,2
+156627365,itwanger/toBeBetterJavaer,Java,17
+2928948,Azure/azure-sdk-for-java,Java,1
 210933087,open-telemetry/opentelemetry-java-instrumentation,Java,1
 437131550,Puliczek/CVE-2021-44228-PoC-log4j-bypass-words,Java,12
 438643028,datastaxdevs/bootcamp-fullstack-apps-with-cassandra,Java,0
