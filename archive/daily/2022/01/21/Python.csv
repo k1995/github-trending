@@ -1,7 +1,7 @@
 id,name,lang,new stars
 54346799,public-apis/public-apis,Python,408
 51117837,tensorflow/models,Python,15
-843222,scikit-learn/scikit-learn,Python,17
+843222,scikit-learn/scikit-learn,Python,16
 160919119,tiangolo/fastapi,Python,47
 71948498,localstack/localstack,Python,27
 21467110,explosion/spaCy,Python,12
@@ -9,17 +9,17 @@ id,name,lang,new stars
 349321229,TencentARC/GFPGAN,Python,67
 168799526,rwightman/pytorch-image-models,Python,36
 101782647,pytorch/fairseq,Python,171
-43160685,zulip/zulip,Python,15
+43160685,zulip/zulip,Python,14
 12271469,mail-in-a-box/mailinabox,Python,12
-52796596,netbox-community/netbox,Python,7
-90194616,samuelcolvin/pydantic,Python,23
+52796596,netbox-community/netbox,Python,6
+90194616,samuelcolvin/pydantic,Python,21
 355959597,Textualize/textual,Python,94
 103071520,great-expectations/great_expectations,Python,7
-72523920,cupy/cupy,Python,4
+72523920,cupy/cupy,Python,8
 3757435,pytube/pytube,Python,5
 182067506,kedro-org/kedro,Python,101
 224386599,bridgecrewio/checkov,Python,7
-414545335,NVlabs/stylegan3,Python,12
+414545335,NVlabs/stylegan3,Python,11
 178592227,tebelorg/RPA-Python,Python,8
 249088403,hunshcn/gh-proxy,Python,13
 416829986,libffcv/ffcv,Python,246
