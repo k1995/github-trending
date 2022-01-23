@@ -1,15 +1,15 @@
 id,name,lang,new stars
 41912791,v2ray/v2ray-core,Go,9
-72495579,go-gitea/gitea,Go,22
+72495579,go-gitea/gitea,Go,19
 134017286,jesseduffield/lazygit,Go,15
-14125254,hashicorp/consul,Go,87
+14125254,hashicorp/consul,Go,85
 56353740,kubernetes/minikube,Go,9
 136815833,Dreamacro/clash,Go,38
-234231371,gofiber/fiber,Go,23
+234231371,gofiber/fiber,Go,26
 8966356,hashicorp/packer,Go,3
-75785240,authelia/authelia,Go,16
+75785240,authelia/authelia,Go,17
 31558937,gravitational/teleport,Go,8
-136505169,tinygo-org/tinygo,Go,8
+136505169,tinygo-org/tinygo,Go,10
 311315731,XTLS/Xray-core,Go,10
 233130089,charmbracelet/bubbletea,Go,23
 140457254,OWASP/Amass,Go,9
@@ -19,8 +19,8 @@ id,name,lang,new stars
 45356931,bwmarrin/discordgo,Go,2
 351486934,gravitl/netmaker,Go,26
 216103835,v2rayA/v2rayA,Go,6
-52481933,navidrome/navidrome,Go,4
+52481933,navidrome/navidrome,Go,6
 359419233,up9inc/mizu,Go,41
+444980921,akutz/go-generics-the-hard-way,Go,175
 401299493,cdle/sillyGirl,Go,6
-444980921,akutz/go-generics-the-hard-way,Go,156
-446826327,ConduitIO/conduit,Go,5
+446826327,ConduitIO/conduit,Go,7
