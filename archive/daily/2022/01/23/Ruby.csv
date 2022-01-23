@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,6
-27442967,fastlane/fastlane,Ruby,96
+27442967,fastlane/fastlane,Ruby,94
 52281283,mastodon/mastodon,Ruby,10
-2293158,rapid7/metasploit-framework,Ruby,10
-481872,hashicorp/vagrant,Ruby,7
+2293158,rapid7/metasploit-framework,Ruby,6
+481872,hashicorp/vagrant,Ruby,8
 308770,heartcombo/devise,Ruby,1
 73648678,forem/forem,Ruby,3
 4095287,rubocop/rubocop,Ruby,2
 106995,sinatra/sinatra,Ruby,1
-3195124,mperham/sidekiq,Ruby,2
+3195124,mperham/sidekiq,Ruby,1
 1918677,fluent/fluentd,Ruby,1
 611921,activeadmin/activeadmin,Ruby,1
 451035,heartcombo/simple_form,Ruby,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 115859973,ddnexus/pagy,Ruby,1
 156555906,testdouble/standard,Ruby,1
 403641521,rails/jsbundling-rails,Ruby,3
-404019967,rails/cssbundling-rails,Ruby,5
-419827947,joemasilotti/railsdevs.com,Ruby,3
+404019967,rails/cssbundling-rails,Ruby,4
+419827947,joemasilotti/railsdevs.com,Ruby,1
