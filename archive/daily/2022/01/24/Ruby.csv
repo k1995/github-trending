@@ -1,13 +1,13 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,3
-27442967,fastlane/fastlane,Ruby,39
-8681349,huginn/huginn,Ruby,10
+65252,jekyll/jekyll,Ruby,2
+27442967,fastlane/fastlane,Ruby,31
+8681349,huginn/huginn,Ruby,87
 13840241,freeCodeCamp/devdocs,Ruby,16
-52281283,mastodon/mastodon,Ruby,5
+52281283,mastodon/mastodon,Ruby,4
 2293158,rapid7/metasploit-framework,Ruby,8
 2500088,gitlabhq/gitlabhq,Ruby,1
 1090311,elastic/logstash,Ruby,4
-202291859,chatwoot/chatwoot,Ruby,6
+202291859,chatwoot/chatwoot,Ruby,7
 4095287,rubocop/rubocop,Ruby,3
 3314,spree/spree,Ruby,4
 451035,heartcombo/simple_form,Ruby,0
@@ -17,9 +17,9 @@ id,name,lang,new stars
 8154497,rubysec/ruby-advisory-db,Ruby,0
 129891715,Homebrew/formulae.brew.sh,Ruby,0
 403641521,rails/jsbundling-rails,Ruby,0
-404019967,rails/cssbundling-rails,Ruby,1
+404019967,rails/cssbundling-rails,Ruby,0
 449773569,testdouble/maybe_later,Ruby,7
-450580080,rails/dartsass-rails,Ruby,1
+450580080,rails/dartsass-rails,Ruby,2
 445053289,hrishikesh1990/resume-builder,Ruby,1
 276178202,appdev-projects/each-chapter,Ruby,0
 276178340,appdev-projects/our-own-classes-chapter,Ruby,0
