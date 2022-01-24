@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,2986
-99598595,parcel-bundler/parcel,JavaScript,122
-220809393,Textualize/rich,Python,986
+54346799,public-apis/public-apis,Python,2984
+99598595,parcel-bundler/parcel,JavaScript,125
+220809393,Textualize/rich,Python,882
 27442967,fastlane/fastlane,Ruby,437
-196701619,tauri-apps/tauri,Rust,1451
+196701619,tauri-apps/tauri,Rust,1430
 14125254,hashicorp/consul,Go,241
 116167731,yuzu-emu/yuzu,C++,389
-74962515,gchq/CyberChef,JavaScript,1054
-307489284,remix-run/remix,TypeScript,600
-301793434,mattermost/focalboard,TypeScript,1581
-425159471,sunym1993/flash-linux0.11-talk,C,1185
-239760033,sivan/heti,SCSS,2088
-143822069,sunface/rust-course,Rust,1244
-445599288,faker-js/faker,TypeScript,1010
-221546437,TandoorRecipes/recipes,HTML,365
-419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,1190
-290724437,IBAX-io/go-ibax,Go,2047
-444886996,NVlabs/instant-ngp,Cuda,788
-430673290,imcuttle/mometa,TypeScript,1052
-304243554,craftzdog/dotfiles-public,Vim script,74
-297535677,Tencent/libpag,C++,268
-200611314,revoxhere/duino-coin,Python,110
-445897115,hannahcode/wordle,TypeScript,288
+74962515,gchq/CyberChef,JavaScript,1020
+307489284,remix-run/remix,TypeScript,601
+301793434,mattermost/focalboard,TypeScript,1583
+425159471,sunym1993/flash-linux0.11-talk,C,1003
+239760033,sivan/heti,SCSS,1904
+143822069,sunface/rust-course,Rust,1181
+445599288,faker-js/faker,TypeScript,1004
+221546437,TandoorRecipes/recipes,HTML,361
+419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,1217
+290724437,IBAX-io/go-ibax,Go,1827
+444886996,NVlabs/instant-ngp,Cuda,728
+430673290,imcuttle/mometa,TypeScript,1053
+304243554,craftzdog/dotfiles-public,Vim script,75
+297535677,Tencent/libpag,C++,314
+200611314,revoxhere/duino-coin,Python,111
+445897115,hannahcode/wordle,TypeScript,290
 304841810,osmosis-labs/osmosis,Go,32
-443720442,andrecronje/solidly,Solidity,167
+443720442,andrecronje/solidly,Solidity,169
