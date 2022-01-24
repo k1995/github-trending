@@ -1,0 +1,26 @@
+id,name,lang,new stars
+17728164,hashicorp/terraform,Go,115
+74175805,istio/istio,Go,88
+15045751,docker/compose,Go,98
+14125254,hashicorp/consul,Go,237
+13124802,influxdata/influxdb,Go,59
+31288958,hashicorp/vault,Go,60
+163883279,nektos/act,Go,217
+165041732,go-kratos/kratos,Go,134
+54400687,grafana/k6,Go,102
+109145553,containers/podman,Go,134
+72891330,kubernetes/ingress-nginx,Go,59
+75785240,authelia/authelia,Go,120
+36653430,hashicorp/nomad,Go,62
+62921553,rook/rook,Go,34
+120896210,argoproj/argo-cd,Go,78
+31311037,jpillora/chisel,Go,63
+21306961,fsnotify/fsnotify,Go,78
+367284699,lima-vm/lima,Go,433
+259191284,hashicorp/waypoint,Go,27
+93446042,hashicorp/terraform-provider-azurerm,Go,38
+410430370,IceWhaleTech/CasaOS,Go,316
+441903012,MichaelCade/90DaysOfDevOps,Go,1402
+290724437,IBAX-io/go-ibax,Go,1759
+313628863,external-secrets/external-secrets,Go,23
+304841810,osmosis-labs/osmosis,Go,32

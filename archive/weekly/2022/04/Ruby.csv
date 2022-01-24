@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,68
+7569578,discourse/discourse,Ruby,69
 27442967,fastlane/fastlane,Ruby,438
 52281283,mastodon/mastodon,Ruby,59
 481872,hashicorp/vagrant,Ruby,42
@@ -9,11 +9,11 @@ id,name,lang,new stars
 4095287,rubocop/rubocop,Ruby,20
 3195124,mperham/sidekiq,Ruby,32
 1918677,fluent/fluentd,Ruby,31
-15435,Shopify/liquid,Ruby,23
+15435,Shopify/liquid,Ruby,24
 611921,activeadmin/activeadmin,Ruby,11
 21829,thoughtbot/factory_bot,Ruby,11
 2441517,puma/puma,Ruby,10
-108278,chef/chef,Ruby,10
+108278,chef/chef,Ruby,11
 6899875,opf/openproject,Ruby,22
 1314319,instructure/canvas-lms,Ruby,9
 30985840,solidusio/solidus,Ruby,18
