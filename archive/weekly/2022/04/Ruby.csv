@@ -1,19 +1,19 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,61
+7569578,discourse/discourse,Ruby,64
 27442967,fastlane/fastlane,Ruby,437
-53238813,Homebrew/brew,Ruby,105
+53238813,Homebrew/brew,Ruby,104
 52281283,mastodon/mastodon,Ruby,59
 2293158,rapid7/metasploit-framework,Ruby,71
-481872,hashicorp/vagrant,Ruby,47
+481872,hashicorp/vagrant,Ruby,46
 308770,heartcombo/devise,Ruby,23
 37382858,kilimchoi/engineering-blogs,Ruby,39
-73648678,forem/forem,Ruby,28
+73648678,forem/forem,Ruby,29
 4095287,rubocop/rubocop,Ruby,21
-3195124,mperham/sidekiq,Ruby,29
+3195124,mperham/sidekiq,Ruby,27
 1918677,fluent/fluentd,Ruby,32
 15435,Shopify/liquid,Ruby,25
 611921,activeadmin/activeadmin,Ruby,11
-21829,thoughtbot/factory_bot,Ruby,14
+21829,thoughtbot/factory_bot,Ruby,15
 2441517,puma/puma,Ruby,12
 6899875,opf/openproject,Ruby,18
 6768710,redmine/redmine,Ruby,12
@@ -21,6 +21,6 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,19
 1462,ctran/annotate_models,Ruby,1
 3898922,zammad/zammad,Ruby,21
-10088951,TheOdinProject/theodinproject,Ruby,18
+10088951,TheOdinProject/theodinproject,Ruby,17
 29151578,rswag/rswag,Ruby,17
 390548093,rails/importmap-rails,Ruby,21

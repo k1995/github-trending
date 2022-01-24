@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,2984
-99598595,parcel-bundler/parcel,JavaScript,125
-220809393,Textualize/rich,Python,882
+54346799,public-apis/public-apis,Python,3090
+99598595,parcel-bundler/parcel,JavaScript,126
+220809393,Textualize/rich,Python,1034
 27442967,fastlane/fastlane,Ruby,437
-196701619,tauri-apps/tauri,Rust,1430
-14125254,hashicorp/consul,Go,241
-116167731,yuzu-emu/yuzu,C++,389
-74962515,gchq/CyberChef,JavaScript,1020
-307489284,remix-run/remix,TypeScript,601
-301793434,mattermost/focalboard,TypeScript,1583
-425159471,sunym1993/flash-linux0.11-talk,C,1003
-239760033,sivan/heti,SCSS,1904
-143822069,sunface/rust-course,Rust,1189
-445599288,faker-js/faker,TypeScript,1004
-419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,1217
-221546437,TandoorRecipes/recipes,HTML,361
-290724437,IBAX-io/go-ibax,Go,1827
-444886996,NVlabs/instant-ngp,Cuda,728
-430673290,imcuttle/mometa,TypeScript,1053
-304243554,craftzdog/dotfiles-public,Vim script,75
+196701619,tauri-apps/tauri,Rust,1436
+14125254,hashicorp/consul,Go,243
+116167731,yuzu-emu/yuzu,C++,397
+74962515,gchq/CyberChef,JavaScript,1048
+307489284,remix-run/remix,TypeScript,626
+301793434,mattermost/focalboard,TypeScript,1587
+425159471,sunym1993/flash-linux0.11-talk,C,910
+239760033,sivan/heti,SCSS,1823
+143822069,sunface/rust-course,Rust,1239
+445599288,faker-js/faker,TypeScript,999
+419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,832
+290724437,IBAX-io/go-ibax,Go,2236
+221546437,TandoorRecipes/recipes,HTML,364
+444886996,NVlabs/instant-ngp,Cuda,1051
+430673290,imcuttle/mometa,TypeScript,1025
+304243554,craftzdog/dotfiles-public,Vim script,78
 297535677,Tencent/libpag,C++,314
-200611314,revoxhere/duino-coin,Python,111
-445897115,hannahcode/wordle,TypeScript,290
-304841810,osmosis-labs/osmosis,Go,32
-443720442,andrecronje/solidly,Solidity,169
+200611314,revoxhere/duino-coin,Python,113
+445897115,hannahcode/wordle,TypeScript,296
+443720442,andrecronje/solidly,Solidity,154
+304841810,osmosis-labs/osmosis,Go,31
