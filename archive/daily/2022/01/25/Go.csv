@@ -1,15 +1,15 @@
 id,name,lang,new stars
 23096959,golang/go,Go,47
-20580498,kubernetes/kubernetes,Go,42
+20580498,kubernetes/kubernetes,Go,43
 17728164,hashicorp/terraform,Go,24
-163883279,nektos/act,Go,148
+163883279,nektos/act,Go,167
 6247705,stretchr/testify,Go,10
 8966356,hashicorp/packer,Go,5
 103126070,snail007/goproxy,Go,9
 136505169,tinygo-org/tinygo,Go,11
-219616873,charmbracelet/glow,Go,53
+219616873,charmbracelet/glow,Go,47
 233130089,charmbracelet/bubbletea,Go,390
-68964263,prometheus-operator/prometheus-operator,Go,3
+68964263,prometheus-operator/prometheus-operator,Go,5
 21306961,fsnotify/fsnotify,Go,9
 92702519,bitnami-labs/sealed-secrets,Go,7
 343533419,charmbracelet/lipgloss,Go,39
@@ -18,8 +18,8 @@ id,name,lang,new stars
 351486934,gravitl/netmaker,Go,20
 74891203,rebuy-de/aws-nuke,Go,10
 80910170,gokrazy/gokrazy,Go,33
-166304026,BishopFox/sliver,Go,35
-52481933,navidrome/navidrome,Go,17
+166304026,BishopFox/sliver,Go,28
+52481933,navidrome/navidrome,Go,13
 169108858,kyverno/kyverno,Go,14
 185861173,open-telemetry/opentelemetry-collector,Go,9
 444980921,akutz/go-generics-the-hard-way,Go,130
