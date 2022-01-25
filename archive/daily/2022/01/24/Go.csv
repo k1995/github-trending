@@ -7,15 +7,15 @@ id,name,lang,new stars
 87617508,casbin/casbin,Go,13
 136505169,tinygo-org/tinygo,Go,13
 219616873,charmbracelet/glow,Go,175
-233130089,charmbracelet/bubbletea,Go,512
+233130089,charmbracelet/bubbletea,Go,476
 41288708,sourcegraph/sourcegraph,Go,4
 357885318,datreeio/datree,Go,10
 110027931,metallb/metallb,Go,7
 422821402,FerretDB/FerretDB,Go,23
 291485614,XIU2/CloudflareSpeedTest,Go,21
 273871859,juanfont/headscale,Go,41
-351486934,gravitl/netmaker,Go,35
 290724437,IBAX-io/go-ibax,Go,1573
+351486934,gravitl/netmaker,Go,35
 80910170,gokrazy/gokrazy,Go,150
 318972528,flower-corp/rosedb,Go,5
 52481933,navidrome/navidrome,Go,18

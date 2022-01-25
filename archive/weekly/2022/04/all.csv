@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,3090
-99598595,parcel-bundler/parcel,JavaScript,126
-220809393,Textualize/rich,Python,1034
-27442967,fastlane/fastlane,Ruby,437
-196701619,tauri-apps/tauri,Rust,1436
-14125254,hashicorp/consul,Go,243
-116167731,yuzu-emu/yuzu,C++,397
-74962515,gchq/CyberChef,JavaScript,1048
-307489284,remix-run/remix,TypeScript,626
-301793434,mattermost/focalboard,TypeScript,1587
-425159471,sunym1993/flash-linux0.11-talk,C,910
-239760033,sivan/heti,SCSS,1823
-143822069,sunface/rust-course,Rust,1239
-445599288,faker-js/faker,TypeScript,999
-419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,832
-290724437,IBAX-io/go-ibax,Go,2236
-221546437,TandoorRecipes/recipes,HTML,364
-444886996,NVlabs/instant-ngp,Cuda,1051
-430673290,imcuttle/mometa,TypeScript,1025
-304243554,craftzdog/dotfiles-public,Vim script,78
-297535677,Tencent/libpag,C++,314
-200611314,revoxhere/duino-coin,Python,113
-445897115,hannahcode/wordle,TypeScript,296
-443720442,andrecronje/solidly,Solidity,154
-304841810,osmosis-labs/osmosis,Go,31
+54346799,public-apis/public-apis,Python,3125
+99598595,parcel-bundler/parcel,JavaScript,142
+220809393,Textualize/rich,Python,823
+27442967,fastlane/fastlane,Ruby,439
+196701619,tauri-apps/tauri,Rust,1446
+14125254,hashicorp/consul,Go,251
+116167731,yuzu-emu/yuzu,C++,504
+74962515,gchq/CyberChef,JavaScript,1092
+307489284,remix-run/remix,TypeScript,629
+301793434,mattermost/focalboard,TypeScript,1611
+425159471,sunym1993/flash-linux0.11-talk,C,901
+239760033,sivan/heti,SCSS,1768
+143822069,sunface/rust-course,Rust,1175
+445599288,faker-js/faker,TypeScript,785
+290724437,IBAX-io/go-ibax,Go,2601
+419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,794
+221546437,TandoorRecipes/recipes,HTML,252
+444886996,NVlabs/instant-ngp,Cuda,643
+430673290,imcuttle/mometa,TypeScript,1062
+304243554,craftzdog/dotfiles-public,Vim script,77
+297535677,Tencent/libpag,C++,261
+200611314,revoxhere/duino-coin,Python,111
+445897115,hannahcode/wordle,TypeScript,286
+443720442,andrecronje/solidly,Solidity,164
+304841810,osmosis-labs/osmosis,Go,34
