@@ -1,12 +1,12 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,66
 27442967,fastlane/fastlane,Ruby,439
-53238813,Homebrew/brew,Ruby,102
-52281283,mastodon/mastodon,Ruby,65
+53238813,Homebrew/brew,Ruby,104
+52281283,mastodon/mastodon,Ruby,66
 2293158,rapid7/metasploit-framework,Ruby,77
-481872,hashicorp/vagrant,Ruby,45
-308770,heartcombo/devise,Ruby,21
-37382858,kilimchoi/engineering-blogs,Ruby,36
+481872,hashicorp/vagrant,Ruby,44
+308770,heartcombo/devise,Ruby,23
+37382858,kilimchoi/engineering-blogs,Ruby,35
 73648678,forem/forem,Ruby,30
 4095287,rubocop/rubocop,Ruby,23
 3195124,mperham/sidekiq,Ruby,27
@@ -23,4 +23,4 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,20
 10088951,TheOdinProject/theodinproject,Ruby,18
 29151578,rswag/rswag,Ruby,17
-390548093,rails/importmap-rails,Ruby,19
+390548093,rails/importmap-rails,Ruby,16
