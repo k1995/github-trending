@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,17
-27442967,fastlane/fastlane,Ruby,20
+8514,rails/rails,Ruby,20
+27442967,fastlane/fastlane,Ruby,19
 8681349,huginn/huginn,Ruby,152
-2293158,rapid7/metasploit-framework,Ruby,12
-481872,hashicorp/vagrant,Ruby,11
-308770,heartcombo/devise,Ruby,5
+2293158,rapid7/metasploit-framework,Ruby,11
+481872,hashicorp/vagrant,Ruby,12
+308770,heartcombo/devise,Ruby,3
 3623050,Homebrew/homebrew-cask,Ruby,4
 1090311,elastic/logstash,Ruby,4
 3195124,mperham/sidekiq,Ruby,1
-96395,faker-ruby/faker,Ruby,3
+96395,faker-ruby/faker,Ruby,4
 812393,ruby-grape/grape,Ruby,2
 6529205,varvet/pundit,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,3
@@ -17,10 +17,10 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,2
 52316423,luggit/react-native-config,Ruby,1
 1462,ctran/annotate_models,Ruby,0
-950915,urbanadventurer/WhatWeb,Ruby,3
-115859973,ddnexus/pagy,Ruby,3
+950915,urbanadventurer/WhatWeb,Ruby,4
+115859973,ddnexus/pagy,Ruby,4
 229006,mileszs/wicked_pdf,Ruby,0
 14238949,elastic/elasticsearch-rails,Ruby,0
 3654364,roo-rb/roo,Ruby,1
-450768773,masasron/chrome-bandit,Ruby,18
-445053289,hrishikesh1990/resume-builder,Ruby,1
+450768773,masasron/chrome-bandit,Ruby,17
+445053289,hrishikesh1990/resume-builder,Ruby,2
