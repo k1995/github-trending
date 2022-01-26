@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,17
-458058,symfony/symfony,PHP,4
+1863329,laravel/laravel,PHP,23
+458058,symfony/symfony,PHP,6
 2579314,fzaninotto/Faker,PHP,5
 7548986,laravel/framework,PHP,14
 13899674,thephpleague/flysystem,PHP,5
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,4
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,3
 61490598,PHPOffice/PhpSpreadsheet,PHP,3
 56728437,docker/labs,PHP,5
 48796179,z-song/laravel-admin,PHP,2
 2884111,magento/magento2,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,6
-11340559,deployphp/deployer,PHP,5
+11340559,deployphp/deployer,PHP,4
 3217621,phpmyadmin/phpmyadmin,PHP,11
 41463886,codeigniter4/CodeIgniter4,PHP,5
 47508644,pterodactyl/panel,PHP,10
@@ -21,6 +21,6 @@ id,name,lang,new stars
 74026995,CodelyTV/php-ddd-example,PHP,2
 131995661,shopware/platform,PHP,11
 71485542,kevinpapst/kimai2,PHP,6
-405968905,rezaamini-ir/migrator,PHP,3
+405968905,rezaamini-ir/migrator,PHP,2
 448457498,osuuu/LightPicture,PHP,7
 440053142,thecodeholic/laravel-vue-survey,PHP,7
