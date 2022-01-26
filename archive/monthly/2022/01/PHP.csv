@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,465
-2579314,fzaninotto/Faker,PHP,92
-7548986,laravel/framework,PHP,287
+1863329,laravel/laravel,PHP,468
+2579314,fzaninotto/Faker,PHP,93
+7548986,laravel/framework,PHP,290
 2253830,PHPMailer/PHPMailer,PHP,136
 2889328,WordPress/WordPress,PHP,142
 7704544,Intervention/image,PHP,94
-13899674,thephpleague/flysystem,PHP,98
-61490598,PHPOffice/PhpSpreadsheet,PHP,131
+13899674,thephpleague/flysystem,PHP,97
+61490598,PHPOffice/PhpSpreadsheet,PHP,134
 29843361,w7corp/easywechat,PHP,65
-2699935,squizlabs/PHP_CodeSniffer,PHP,106
-6660366,dompdf/dompdf,PHP,87
+2699935,squizlabs/PHP_CodeSniffer,PHP,107
+6660366,dompdf/dompdf,PHP,86
 41589337,BookStackApp/BookStack,PHP,745
 2179920,woocommerce/woocommerce,PHP,113
 14716368,invoiceninja/invoiceninja,PHP,73
@@ -17,7 +17,7 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,192
 11935508,RSS-Bridge/rss-bridge,PHP,476
 148129143,bagisto/bagisto,PHP,113
-119047018,linuxserver/Heimdall,PHP,150
+119047018,linuxserver/Heimdall,PHP,151
 47508644,pterodactyl/panel,PHP,132
 1957456,Dolibarr/dolibarr,PHP,99
 73781385,orchidsoftware/platform,PHP,110
