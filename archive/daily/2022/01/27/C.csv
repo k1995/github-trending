@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,325
+2325298,torvalds/linux,C,334
 1903522,php/php-src,C,10
 1357796,emscripten-core/emscripten,C,3
 102578345,coolsnowwolf/lede,C,14
-29759715,facebook/zstd,C,20
+29759715,facebook/zstd,C,19
 4869294,radareorg/radare2,C,6
 34921116,iovisor/bcc,C,14
 45821540,openwrt/openwrt,C,10
-927442,postgres/postgres,C,11
+927442,postgres/postgres,C,12
 3199002,raspberrypi/linux,C,6
 1856976,libevent/libevent,C,4
-50824485,processhacker/processhacker,C,8
+50824485,processhacker/processhacker,C,9
 1979797,FreeRDP/FreeRDP,C,7
 59771425,zephyrproject-rtos/zephyr,C,3
 673267,redis/hiredis,C,5
@@ -20,7 +20,7 @@ id,name,lang,new stars
 29933948,fluent/fluent-bit,C,2
 40556106,wazuh/wazuh,C,2
 128791889,haproxy/haproxy,C,3
-151064439,ExpressLRS/ExpressLRS,C,4
+151064439,ExpressLRS/ExpressLRS,C,2
 35725043,dzavalishin/phantomuserland,C,6
 348566357,TUGOhost/anti_Android,C,4
-446789208,TheOnlines/tool-php-extension,C,3
+446789208,TheOnlines/tool-php-extension,C,2
