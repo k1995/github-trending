@@ -8,7 +8,7 @@ id,name,lang,new stars
 109145553,containers/podman,Go,27
 33258973,influxdata/telegraf,Go,3
 31558937,gravitational/teleport,Go,8
-180687624,aquasecurity/trivy,Go,17
+180687624,aquasecurity/trivy,Go,19
 233130089,charmbracelet/bubbletea,Go,272
 133067498,kubernetes-sigs/kustomize,Go,6
 68964263,prometheus-operator/prometheus-operator,Go,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 105711679,envoyproxy/protoc-gen-validate,Go,5
 113404957,kata-containers/kata-containers,Go,6
 403020531,abiosoft/colima,Go,88
-93446075,hashicorp/terraform-provider-google,Go,3
+93446075,hashicorp/terraform-provider-google,Go,6
 411212454,tharsis/evmos,Go,1
 363232643,ariga/atlas,Go,129
 270942530,postgres-ai/database-lab-engine,Go,75
