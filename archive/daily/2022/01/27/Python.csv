@@ -1,20 +1,20 @@
 id,name,lang,new stars
 54346799,public-apis/public-apis,Python,197
 83222441,donnemartin/system-design-primer,Python,207
-3638964,ansible/ansible,Python,140
+3638964,ansible/ansible,Python,147
 71948498,localstack/localstack,Python,40
-212639071,bregman-arie/devops-exercises,Python,46
+212639071,bregman-arie/devops-exercises,Python,44
 101782647,pytorch/fairseq,Python,29
 54376220,AtsushiSakai/PythonRobotics,Python,22
 152166877,d2l-ai/d2l-en,Python,12
 7053637,python/mypy,Python,14
-250213286,huggingface/datasets,Python,19
+250213286,huggingface/datasets,Python,18
 139199684,PrefectHQ/prefect,Python,19
 70746484,apache/tvm,Python,2
 107760466,utkuozbulak/pytorch-cnn-visualizations,Python,9
 182067506,kedro-org/kedro,Python,182
 217433767,facebookresearch/pytorch3d,Python,5
-273913340,khuedoan/homelab,Python,136
+273913340,khuedoan/homelab,Python,135
 186647681,amundsen-io/amundsen,Python,20
 188710490,davidteather/TikTok-Api,Python,9
 219680516,craigsdennis/intro-to-apis-course,Python,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 187111341,remzi-arpacidusseau/ostep-homework,Python,6
 133306580,perfectblue/ctf-writeups,Python,6
 339780644,zetane/viewer,Python,24
-445268713,trakBan/spongebob-cli,Python,112
+445268713,trakBan/spongebob-cli,Python,106
 344428800,Potato-py/Potato,Python,7
