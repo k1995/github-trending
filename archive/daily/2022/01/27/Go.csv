@@ -3,7 +3,7 @@ id,name,lang,new stars
 7691631,moby/moby,Go,18
 6838921,prometheus/prometheus,Go,17
 135516270,k3s-io/k3s,Go,22
-129717717,grafana/loki,Go,10
+129717717,grafana/loki,Go,11
 118654121,GoogleContainerTools/skaffold,Go,5
 109145553,containers/podman,Go,27
 33258973,influxdata/telegraf,Go,3
@@ -11,7 +11,7 @@ id,name,lang,new stars
 180687624,aquasecurity/trivy,Go,19
 233130089,charmbracelet/bubbletea,Go,272
 133067498,kubernetes-sigs/kustomize,Go,6
-68964263,prometheus-operator/prometheus-operator,Go,8
+68964263,prometheus-operator/prometheus-operator,Go,5
 93928882,swaggo/swag,Go,7
 290724437,IBAX-io/go-ibax,Go,689
 16607984,DATA-DOG/go-sqlmock,Go,3
