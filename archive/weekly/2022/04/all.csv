@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,2478
+54346799,public-apis/public-apis,Python,2433
 62607227,yangshun/tech-interview-handbook,JavaScript,1357
 27442967,fastlane/fastlane,Ruby,373
-8681349,huginn/huginn,Ruby,954
-14125254,hashicorp/consul,Go,286
-163883279,nektos/act,Go,428
-116167731,yuzu-emu/yuzu,C++,679
-97086543,TheAlgorithms/Javascript,JavaScript,287
-4844734,wesm/pydata-book,Jupyter Notebook,220
-101782647,pytorch/fairseq,Python,549
-74962515,gchq/CyberChef,JavaScript,519
-102523304,fchollet/deep-learning-with-python-notebooks,Jupyter Notebook,217
-109145553,containers/podman,Go,181
-307489284,remix-run/remix,TypeScript,639
+8681349,huginn/huginn,Ruby,957
+14125254,hashicorp/consul,Go,285
+163883279,nektos/act,Go,431
+116167731,yuzu-emu/yuzu,C++,681
+97086543,TheAlgorithms/Javascript,JavaScript,326
+4844734,wesm/pydata-book,Jupyter Notebook,222
+101782647,pytorch/fairseq,Python,519
+74962515,gchq/CyberChef,JavaScript,533
+102523304,fchollet/deep-learning-with-python-notebooks,Jupyter Notebook,177
+109145553,containers/podman,Go,190
+307489284,remix-run/remix,TypeScript,636
 120231691,Ryujinx/Ryujinx,C#,335
-301793434,mattermost/focalboard,TypeScript,1008
-190729906,Budibase/budibase,JavaScript,196
-355959597,Textualize/textual,Python,208
-367284699,lima-vm/lima,Go,358
-106586124,redcanaryco/atomic-red-team,PowerShell,43
-286179743,DustinBrett/daedalOS,JavaScript,866
-143822069,sunface/rust-course,Rust,844
-430673290,imcuttle/mometa,TypeScript,746
+301793434,mattermost/focalboard,TypeScript,982
+190729906,Budibase/budibase,JavaScript,186
+355959597,Textualize/textual,Python,205
+367284699,lima-vm/lima,Go,337
+106586124,redcanaryco/atomic-red-team,PowerShell,48
+286179743,DustinBrett/daedalOS,JavaScript,878
+143822069,sunface/rust-course,Rust,866
+430673290,imcuttle/mometa,TypeScript,766
 416829986,libffcv/ffcv,Python,458
-304243554,craftzdog/dotfiles-public,Vim script,92
+304243554,craftzdog/dotfiles-public,Vim script,93
