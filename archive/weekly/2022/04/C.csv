@@ -1,17 +1,17 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1236
-36502,git/git,C,121
-1903522,php/php-src,C,66
-569041,curl/curl,C,143
+2325298,torvalds/linux,C,1221
+36502,git/git,C,124
+1903522,php/php-src,C,63
+569041,curl/curl,C,142
 29759715,facebook/zstd,C,77
-4869294,radareorg/radare2,C,174
-45821540,openwrt/openwrt,C,60
+4869294,radareorg/radare2,C,173
+45821540,openwrt/openwrt,C,61
 65899476,espressif/esp-idf,C,50
-689344,libretro/RetroArch,C,38
+689344,libretro/RetroArch,C,39
 50874442,citusdata/citus,C,52
-59771425,zephyrproject-rtos/zephyr,C,31
+59771425,zephyrproject-rtos/zephyr,C,29
 3349840,hak5darren/USB-Rubber-Ducky,C,27
-59676171,Klipper3d/klipper,C,72
+59676171,Klipper3d/klipper,C,70
 131710328,CTCaer/hekate,C,43
 2359378,madler/zlib,C,42
 394318710,valinet/ExplorerPatcher,C,175
@@ -22,5 +22,5 @@ id,name,lang,new stars
 122993186,remzi-arpacidusseau/ostep-code,C,19
 45734719,enjoy-digital/litex,C,24
 266800505,edk2-porting/edk2-sdm845,C,41
-443879482,fholger/vrperfkit,C,51
+443879482,fholger/vrperfkit,C,52
 446789208,TheOnlines/tool-php-extension,C,38

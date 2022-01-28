@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,2478
-2325298,torvalds/linux,C,1109
-62607227,yangshun/tech-interview-handbook,JavaScript,1357
-15204860,papers-we-love/papers-we-love,Shell,807
-8681349,huginn/huginn,Ruby,966
-14125254,hashicorp/consul,Go,261
+54346799,public-apis/public-apis,Python,2481
+2325298,torvalds/linux,C,1221
+62607227,yangshun/tech-interview-handbook,JavaScript,1362
+15204860,papers-we-love/papers-we-love,Shell,798
+8681349,huginn/huginn,Ruby,968
+14125254,hashicorp/consul,Go,284
 269336148,sickcodes/Docker-OSX,Shell,1107
-116167731,yuzu-emu/yuzu,C++,687
-97086543,TheAlgorithms/Javascript,JavaScript,287
-74962515,gchq/CyberChef,JavaScript,480
-102523304,fchollet/deep-learning-with-python-notebooks,Jupyter Notebook,140
-109145553,containers/podman,Go,190
-307489284,remix-run/remix,TypeScript,635
-120231691,Ryujinx/Ryujinx,C#,335
-301793434,mattermost/focalboard,TypeScript,968
-190729906,Budibase/budibase,JavaScript,196
-367284699,lima-vm/lima,Go,358
-286179743,DustinBrett/daedalOS,JavaScript,876
-306701996,rancher-sandbox/rancher-desktop,TypeScript,288
-430673290,imcuttle/mometa,TypeScript,707
-164466028,fireship-io/fireship.io,TypeScript,271
-416829986,libffcv/ffcv,Python,458
-304243554,craftzdog/dotfiles-public,Vim script,96
+116167731,yuzu-emu/yuzu,C++,684
+97086543,TheAlgorithms/Javascript,JavaScript,369
+74962515,gchq/CyberChef,JavaScript,422
+102523304,fchollet/deep-learning-with-python-notebooks,Jupyter Notebook,219
+307489284,remix-run/remix,TypeScript,617
+109145553,containers/podman,Go,191
+120231691,Ryujinx/Ryujinx,C#,336
+301793434,mattermost/focalboard,TypeScript,1013
+190729906,Budibase/budibase,JavaScript,197
+367284699,lima-vm/lima,Go,316
+286179743,DustinBrett/daedalOS,JavaScript,846
+306701996,rancher-sandbox/rancher-desktop,TypeScript,316
+430673290,imcuttle/mometa,TypeScript,766
+164466028,fireship-io/fireship.io,TypeScript,272
+416829986,libffcv/ffcv,Python,340
+304243554,craftzdog/dotfiles-public,Vim script,95
 429851205,ciderapp/Cider,JavaScript,92
 444615967,jacob-ebey/remix-ecommerce,TypeScript,73
