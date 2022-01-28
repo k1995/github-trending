@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,352
-65252,jekyll/jekyll,Ruby,249
-7569578,discourse/discourse,Ruby,296
-27442967,fastlane/fastlane,Ruby,610
+8514,rails/rails,Ruby,350
+65252,jekyll/jekyll,Ruby,250
+7569578,discourse/discourse,Ruby,298
+27442967,fastlane/fastlane,Ruby,614
 8681349,huginn/huginn,Ruby,1150
-53238813,Homebrew/brew,Ruby,463
-2293158,rapid7/metasploit-framework,Ruby,326
-308770,heartcombo/devise,Ruby,90
-538746,ruby/ruby,Ruby,109
+53238813,Homebrew/brew,Ruby,461
+2293158,rapid7/metasploit-framework,Ruby,325
+308770,heartcombo/devise,Ruby,89
+538746,ruby/ruby,Ruby,108
 18486300,lewagon/setup,Ruby,609
-202291859,chatwoot/chatwoot,Ruby,375
+202291859,chatwoot/chatwoot,Ruby,377
 4095287,rubocop/rubocop,Ruby,67
-3195124,mperham/sidekiq,Ruby,85
-96395,faker-ruby/faker,Ruby,85
+3195124,mperham/sidekiq,Ruby,86
+96395,faker-ruby/faker,Ruby,86
 611921,activeadmin/activeadmin,Ruby,33
 2441517,puma/puma,Ruby,35
 75785147,rails/webpacker,Ruby,20
@@ -22,5 +22,5 @@ id,name,lang,new stars
 138776049,sorbet/sorbet,Ruby,95
 614070,rubygems/rubygems,Ruby,43
 93163073,dependabot/dependabot-core,Ruby,66
-29151578,rswag/rswag,Ruby,35
+29151578,rswag/rswag,Ruby,36
 419827947,joemasilotti/railsdevs.com,Ruby,83
