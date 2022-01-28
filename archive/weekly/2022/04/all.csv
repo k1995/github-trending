@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,2583
-62607227,yangshun/tech-interview-handbook,JavaScript,1426
-27442967,fastlane/fastlane,Ruby,457
-8681349,huginn/huginn,Ruby,934
-14125254,hashicorp/consul,Go,277
-163883279,nektos/act,Go,416
-116167731,yuzu-emu/yuzu,C++,667
-97086543,TheAlgorithms/Javascript,JavaScript,212
-4844734,wesm/pydata-book,Jupyter Notebook,217
-101782647,pytorch/fairseq,Python,577
-74962515,gchq/CyberChef,JavaScript,565
-102523304,fchollet/deep-learning-with-python-notebooks,Jupyter Notebook,286
-109145553,containers/podman,Go,171
-307489284,remix-run/remix,TypeScript,636
-120231691,Ryujinx/Ryujinx,C#,325
-301793434,mattermost/focalboard,TypeScript,1119
-190729906,Budibase/budibase,JavaScript,199
-355959597,Textualize/textual,Python,228
-367284699,lima-vm/lima,Go,415
-106586124,redcanaryco/atomic-red-team,PowerShell,49
-143822069,sunface/rust-course,Rust,845
-286179743,DustinBrett/daedalOS,JavaScript,736
-430673290,imcuttle/mometa,TypeScript,801
-416829986,libffcv/ffcv,Python,561
-304243554,craftzdog/dotfiles-public,Vim script,89
+54346799,public-apis/public-apis,Python,2477
+62607227,yangshun/tech-interview-handbook,JavaScript,1357
+27442967,fastlane/fastlane,Ruby,373
+8681349,huginn/huginn,Ruby,954
+14125254,hashicorp/consul,Go,283
+163883279,nektos/act,Go,428
+116167731,yuzu-emu/yuzu,C++,679
+97086543,TheAlgorithms/Javascript,JavaScript,285
+4844734,wesm/pydata-book,Jupyter Notebook,220
+101782647,pytorch/fairseq,Python,549
+74962515,gchq/CyberChef,JavaScript,533
+102523304,fchollet/deep-learning-with-python-notebooks,Jupyter Notebook,217
+109145553,containers/podman,Go,178
+307489284,remix-run/remix,TypeScript,643
+120231691,Ryujinx/Ryujinx,C#,335
+301793434,mattermost/focalboard,TypeScript,1028
+190729906,Budibase/budibase,JavaScript,196
+355959597,Textualize/textual,Python,225
+367284699,lima-vm/lima,Go,358
+106586124,redcanaryco/atomic-red-team,PowerShell,43
+143822069,sunface/rust-course,Rust,844
+286179743,DustinBrett/daedalOS,JavaScript,846
+430673290,imcuttle/mometa,TypeScript,766
+416829986,libffcv/ffcv,Python,458
+304243554,craftzdog/dotfiles-public,Vim script,93
