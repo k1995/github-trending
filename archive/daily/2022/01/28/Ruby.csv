@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,14
-27442967,fastlane/fastlane,Ruby,15
-8681349,huginn/huginn,Ruby,89
+8514,rails/rails,Ruby,13
+27442967,fastlane/fastlane,Ruby,21
+8681349,huginn/huginn,Ruby,82
 308770,heartcombo/devise,Ruby,2
 1090311,elastic/logstash,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,6
+202291859,chatwoot/chatwoot,Ruby,7
 1918677,fluent/fluentd,Ruby,3
 96395,faker-ruby/faker,Ruby,7
 6529205,varvet/pundit,Ruby,1
-108278,chef/chef,Ruby,2
+108278,chef/chef,Ruby,1
 6899875,opf/openproject,Ruby,6
 417389,lostisland/faraday,Ruby,1
 1548802,activerecord-hackery/ransack,Ruby,0
@@ -17,10 +17,10 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,2
 46698467,ankane/strong_migrations,Ruby,2
 11426474,github/choosealicense.com,Ruby,3
-93163073,dependabot/dependabot-core,Ruby,3
+93163073,dependabot/dependabot-core,Ruby,2
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,2
 165262778,fxn/zeitwerk,Ruby,1
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,4
-229187949,shivammathur/homebrew-php,Ruby,3
-161399160,Shopify/shopify-cli,Ruby,1
+229187949,shivammathur/homebrew-php,Ruby,2
+161399160,Shopify/shopify-cli,Ruby,0
 121513081,tradingview/charting-library-examples,Ruby,1

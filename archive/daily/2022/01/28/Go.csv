@@ -1,8 +1,8 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,53
 7691631,moby/moby,Go,14
-6838921,prometheus/prometheus,Go,98
-135516270,k3s-io/k3s,Go,19
+6838921,prometheus/prometheus,Go,106
+135516270,k3s-io/k3s,Go,15
 129717717,grafana/loki,Go,11
 118654121,GoogleContainerTools/skaffold,Go,11
 109145553,containers/podman,Go,31
@@ -16,10 +16,10 @@ id,name,lang,new stars
 290724437,IBAX-io/go-ibax,Go,783
 16607984,DATA-DOG/go-sqlmock,Go,0
 281694167,Mrs4s/go-cqhttp,Go,23
-166304026,BishopFox/sliver,Go,6
+166304026,BishopFox/sliver,Go,9
 105711679,envoyproxy/protoc-gen-validate,Go,2
 113404957,kata-containers/kata-containers,Go,8
-403020531,abiosoft/colima,Go,112
+403020531,abiosoft/colima,Go,113
 93446075,hashicorp/terraform-provider-google,Go,6
 411212454,tharsis/evmos,Go,1
 363232643,ariga/atlas,Go,127
