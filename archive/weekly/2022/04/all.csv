@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,2079
-2325298,torvalds/linux,C,1428
-62607227,yangshun/tech-interview-handbook,JavaScript,1046
-15204860,papers-we-love/papers-we-love,Shell,811
-8681349,huginn/huginn,Ruby,979
-14125254,hashicorp/consul,Go,209
+54346799,public-apis/public-apis,Python,2097
+2325298,torvalds/linux,C,1316
+62607227,yangshun/tech-interview-handbook,JavaScript,1014
+843222,scikit-learn/scikit-learn,Python,237
+8681349,huginn/huginn,Ruby,977
+221981891,microsoft/playwright,TypeScript,821
+14125254,hashicorp/consul,Go,198
 269336148,sickcodes/Docker-OSX,Shell,1110
 116167731,yuzu-emu/yuzu,C++,711
-97086543,TheAlgorithms/Javascript,JavaScript,387
-74962515,gchq/CyberChef,JavaScript,366
-102523304,fchollet/deep-learning-with-python-notebooks,Jupyter Notebook,113
-307489284,remix-run/remix,TypeScript,631
-109145553,containers/podman,Go,209
+97086543,TheAlgorithms/Javascript,JavaScript,391
+101782647,pytorch/fairseq,Python,391
 120231691,Ryujinx/Ryujinx,C#,347
-301793434,mattermost/focalboard,TypeScript,696
-190729906,Budibase/budibase,JavaScript,183
-367284699,lima-vm/lima,Go,285
-286179743,DustinBrett/daedalOS,JavaScript,1070
-306701996,rancher-sandbox/rancher-desktop,TypeScript,405
-430673290,imcuttle/mometa,TypeScript,661
-164466028,fireship-io/fireship.io,TypeScript,145
-416829986,libffcv/ffcv,Python,278
-304243554,craftzdog/dotfiles-public,Vim script,97
-429851205,ciderapp/Cider,JavaScript,114
-444615967,jacob-ebey/remix-ecommerce,TypeScript,58
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,464
+182067506,kedro-org/kedro,Python,1297
+411493648,veler/DevToys,C#,4267
+171072967,pedroslopez/whatsapp-web.js,JavaScript,327
+248032165,spring-projects/spring-authorization-server,Java,156
+306701996,rancher-sandbox/rancher-desktop,TypeScript,357
+430673290,imcuttle/mometa,TypeScript,662
+393045142,flxzt/rnote,Rust,944
+164466028,fireship-io/fireship.io,TypeScript,184
+304243554,craftzdog/dotfiles-public,Vim script,98
+449942590,vercel/platforms,JavaScript,768
+444980921,akutz/go-generics-the-hard-way,Go,773
+429851205,ciderapp/Cider,JavaScript,113
