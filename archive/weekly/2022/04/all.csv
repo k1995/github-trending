@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,2481
-2325298,torvalds/linux,C,1221
-62607227,yangshun/tech-interview-handbook,JavaScript,1362
-15204860,papers-we-love/papers-we-love,Shell,798
-8681349,huginn/huginn,Ruby,968
-14125254,hashicorp/consul,Go,284
-269336148,sickcodes/Docker-OSX,Shell,1107
-116167731,yuzu-emu/yuzu,C++,684
-97086543,TheAlgorithms/Javascript,JavaScript,369
-74962515,gchq/CyberChef,JavaScript,422
-102523304,fchollet/deep-learning-with-python-notebooks,Jupyter Notebook,219
-307489284,remix-run/remix,TypeScript,617
-109145553,containers/podman,Go,191
-120231691,Ryujinx/Ryujinx,C#,336
-301793434,mattermost/focalboard,TypeScript,1013
-190729906,Budibase/budibase,JavaScript,197
-367284699,lima-vm/lima,Go,316
-286179743,DustinBrett/daedalOS,JavaScript,846
-306701996,rancher-sandbox/rancher-desktop,TypeScript,316
-430673290,imcuttle/mometa,TypeScript,766
-164466028,fireship-io/fireship.io,TypeScript,272
-416829986,libffcv/ffcv,Python,340
+54346799,public-apis/public-apis,Python,2176
+2325298,torvalds/linux,C,1316
+62607227,yangshun/tech-interview-handbook,JavaScript,1099
+15204860,papers-we-love/papers-we-love,Shell,806
+8681349,huginn/huginn,Ruby,974
+14125254,hashicorp/consul,Go,239
+269336148,sickcodes/Docker-OSX,Shell,1110
+116167731,yuzu-emu/yuzu,C++,706
+97086543,TheAlgorithms/Javascript,JavaScript,376
+74962515,gchq/CyberChef,JavaScript,390
+102523304,fchollet/deep-learning-with-python-notebooks,Jupyter Notebook,116
+307489284,remix-run/remix,TypeScript,623
+109145553,containers/podman,Go,201
+120231691,Ryujinx/Ryujinx,C#,338
+301793434,mattermost/focalboard,TypeScript,708
+190729906,Budibase/budibase,JavaScript,180
+367284699,lima-vm/lima,Go,299
+286179743,DustinBrett/daedalOS,JavaScript,1005
+306701996,rancher-sandbox/rancher-desktop,TypeScript,352
+430673290,imcuttle/mometa,TypeScript,653
+164466028,fireship-io/fireship.io,TypeScript,191
+416829986,libffcv/ffcv,Python,317
 304243554,craftzdog/dotfiles-public,Vim script,95
-429851205,ciderapp/Cider,JavaScript,92
-444615967,jacob-ebey/remix-ecommerce,TypeScript,73
+429851205,ciderapp/Cider,JavaScript,109
+444615967,jacob-ebey/remix-ecommerce,TypeScript,61

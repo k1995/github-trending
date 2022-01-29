@@ -1,12 +1,12 @@
 id,name,lang,new stars
-13840241,freeCodeCamp/devdocs,Ruby,7
+13840241,freeCodeCamp/devdocs,Ruby,9
 481872,hashicorp/vagrant,Ruby,4
 308770,heartcombo/devise,Ruby,2
-2203645,CocoaPods/CocoaPods,Ruby,4
+2203645,CocoaPods/CocoaPods,Ruby,3
 1090311,elastic/logstash,Ruby,1
 4095287,rubocop/rubocop,Ruby,0
-3195124,mperham/sidekiq,Ruby,6
-96395,faker-ruby/faker,Ruby,7
+3195124,mperham/sidekiq,Ruby,5
+96395,faker-ruby/faker,Ruby,111
 812393,ruby-grape/grape,Ruby,0
 611921,activeadmin/activeadmin,Ruby,1
 1333863,kaminari/kaminari,Ruby,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,4
 904810,rubysherpas/paranoia,Ruby,0
 3277842,googleapis/google-api-ruby-client,Ruby,2
-212620037,jsonapi-serializer/jsonapi-serializer,Ruby,1
+212620037,jsonapi-serializer/jsonapi-serializer,Ruby,0
 403641521,rails/jsbundling-rails,Ruby,4

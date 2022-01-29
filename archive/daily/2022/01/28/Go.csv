@@ -9,13 +9,13 @@ id,name,lang,new stars
 180687624,aquasecurity/trivy,Go,27
 187403699,FiloSottile/age,Go,15
 77071454,goreleaser/goreleaser,Go,25
-92648433,gwuhaolin/livego,Go,14
+92648433,gwuhaolin/livego,Go,17
 95761244,gogf/gf,Go,10
 184490584,GoogleCloudPlatform/terraformer,Go,11
 94897336,imgproxy/imgproxy,Go,17
 290724437,IBAX-io/go-ibax,Go,784
 43225113,mikefarah/yq,Go,6
-274625369,infracost/infracost,Go,26
+274625369,infracost/infracost,Go,28
 92702519,bitnami-labs/sealed-secrets,Go,45
 273132277,moonD4rk/HackBrowserData,Go,8
 318476701,containerd/nerdctl,Go,18
