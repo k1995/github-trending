@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,122
-1864363,composer/composer,PHP,37
-7548986,laravel/framework,PHP,75
+1863329,laravel/laravel,PHP,121
+1864363,composer/composer,PHP,35
+7548986,laravel/framework,PHP,76
 2253830,PHPMailer/PHPMailer,PHP,39
 1548202,matomo-org/matomo,PHP,46
-12615154,barryvdh/laravel-debugbar,PHP,30
-61490598,PHPOffice/PhpSpreadsheet,PHP,27
-2884111,magento/magento2,PHP,18
+12615154,barryvdh/laravel-debugbar,PHP,29
+61490598,PHPOffice/PhpSpreadsheet,PHP,28
+2884111,magento/magento2,PHP,17
 2699935,squizlabs/PHP_CodeSniffer,PHP,30
-6660366,dompdf/dompdf,PHP,40
-2717549,Sylius/Sylius,PHP,25
+6660366,dompdf/dompdf,PHP,41
+2717549,Sylius/Sylius,PHP,24
 2141186,opencart/opencart,PHP,11
 6763587,PrestaShop/PrestaShop,PHP,18
 14346979,snipe/snipe-it,PHP,20
@@ -18,9 +18,9 @@ id,name,lang,new stars
 139191005,nunomaduro/larastan,PHP,32
 19386515,spatie/browsershot,PHP,67
 9395939,ZoneMinder/zoneminder,PHP,17
-47508644,pterodactyl/panel,PHP,49
+47508644,pterodactyl/panel,PHP,50
 73781385,orchidsoftware/platform,PHP,38
 56836583,postaddictme/instagram-php-scraper,PHP,8
 39182755,glpi-project/glpi,PHP,22
-153069455,collabnix/dockerlabs,PHP,16
-415122668,Sammyjo20/Saloon,PHP,120
+153069455,collabnix/dockerlabs,PHP,15
+415122668,Sammyjo20/Saloon,PHP,115
