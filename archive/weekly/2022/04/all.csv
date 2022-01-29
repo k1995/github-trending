@@ -1,14 +1,14 @@
 id,name,lang,new stars
 54346799,public-apis/public-apis,Python,2176
-2325298,torvalds/linux,C,1316
+2325298,torvalds/linux,C,1351
 62607227,yangshun/tech-interview-handbook,JavaScript,1099
 15204860,papers-we-love/papers-we-love,Shell,806
-8681349,huginn/huginn,Ruby,974
-14125254,hashicorp/consul,Go,239
+8681349,huginn/huginn,Ruby,975
+14125254,hashicorp/consul,Go,233
 269336148,sickcodes/Docker-OSX,Shell,1110
-116167731,yuzu-emu/yuzu,C++,706
-97086543,TheAlgorithms/Javascript,JavaScript,376
-74962515,gchq/CyberChef,JavaScript,390
+116167731,yuzu-emu/yuzu,C++,711
+97086543,TheAlgorithms/Javascript,JavaScript,377
+74962515,gchq/CyberChef,JavaScript,386
 102523304,fchollet/deep-learning-with-python-notebooks,Jupyter Notebook,116
 307489284,remix-run/remix,TypeScript,623
 109145553,containers/podman,Go,201
@@ -21,6 +21,6 @@ id,name,lang,new stars
 430673290,imcuttle/mometa,TypeScript,653
 164466028,fireship-io/fireship.io,TypeScript,191
 416829986,libffcv/ffcv,Python,317
-304243554,craftzdog/dotfiles-public,Vim script,95
+304243554,craftzdog/dotfiles-public,Vim script,96
 429851205,ciderapp/Cider,JavaScript,109
 444615967,jacob-ebey/remix-ecommerce,TypeScript,61
