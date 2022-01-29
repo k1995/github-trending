@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,346
-65252,jekyll/jekyll,Ruby,254
-7569578,discourse/discourse,Ruby,294
+65252,jekyll/jekyll,Ruby,255
+7569578,discourse/discourse,Ruby,295
 27442967,fastlane/fastlane,Ruby,627
-8681349,huginn/huginn,Ruby,1166
-53238813,Homebrew/brew,Ruby,457
-308770,heartcombo/devise,Ruby,87
-3623050,Homebrew/homebrew-cask,Ruby,110
-538746,ruby/ruby,Ruby,103
-18486300,lewagon/setup,Ruby,609
-202291859,chatwoot/chatwoot,Ruby,340
-4095287,rubocop/rubocop,Ruby,67
+8681349,huginn/huginn,Ruby,1169
+53238813,Homebrew/brew,Ruby,459
+308770,heartcombo/devise,Ruby,89
+3623050,Homebrew/homebrew-cask,Ruby,112
+538746,ruby/ruby,Ruby,104
+18486300,lewagon/setup,Ruby,613
+202291859,chatwoot/chatwoot,Ruby,338
+4095287,rubocop/rubocop,Ruby,66
 3195124,mperham/sidekiq,Ruby,88
 96395,faker-ruby/faker,Ruby,252
 15435,Shopify/liquid,Ruby,88
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1462,ctran/annotate_models,Ruby,15
 138776049,sorbet/sorbet,Ruby,95
 93163073,dependabot/dependabot-core,Ruby,71
-29151578,rswag/rswag,Ruby,39
+29151578,rswag/rswag,Ruby,37
 229187949,shivammathur/homebrew-php,Ruby,92
 419827947,joemasilotti/railsdevs.com,Ruby,82

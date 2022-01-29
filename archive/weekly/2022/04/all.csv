@@ -1,26 +1,26 @@
 id,name,lang,new stars
 54346799,public-apis/public-apis,Python,2047
-2325298,torvalds/linux,C,1470
+2325298,torvalds/linux,C,1574
 62607227,yangshun/tech-interview-handbook,JavaScript,1020
-843222,scikit-learn/scikit-learn,Python,236
-8681349,huginn/huginn,Ruby,983
+843222,scikit-learn/scikit-learn,Python,235
+8681349,huginn/huginn,Ruby,991
 221981891,microsoft/playwright,TypeScript,780
-14125254,hashicorp/consul,Go,177
+14125254,hashicorp/consul,Go,163
 269336148,sickcodes/Docker-OSX,Shell,1111
 116167731,yuzu-emu/yuzu,C++,714
 97086543,TheAlgorithms/Javascript,JavaScript,387
-101782647,pytorch/fairseq,Python,383
+101782647,pytorch/fairseq,Python,358
 120231691,Ryujinx/Ryujinx,C#,346
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,538
-182067506,kedro-org/kedro,Python,1204
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,572
+182067506,kedro-org/kedro,Python,1085
 411493648,veler/DevToys,C#,4296
 171072967,pedroslopez/whatsapp-web.js,JavaScript,353
-248032165,spring-projects/spring-authorization-server,Java,156
-306701996,rancher-sandbox/rancher-desktop,TypeScript,425
-430673290,imcuttle/mometa,TypeScript,659
-393045142,flxzt/rnote,Rust,935
-164466028,fireship-io/fireship.io,TypeScript,136
-304243554,craftzdog/dotfiles-public,Vim script,101
-449942590,vercel/platforms,JavaScript,674
-444980921,akutz/go-generics-the-hard-way,Go,724
+248032165,spring-projects/spring-authorization-server,Java,159
+306701996,rancher-sandbox/rancher-desktop,TypeScript,442
+430673290,imcuttle/mometa,TypeScript,658
+393045142,flxzt/rnote,Rust,902
+164466028,fireship-io/fireship.io,TypeScript,129
+304243554,craftzdog/dotfiles-public,Vim script,103
+449942590,vercel/platforms,JavaScript,623
+444980921,akutz/go-generics-the-hard-way,Go,708
 429851205,ciderapp/Cider,JavaScript,114
