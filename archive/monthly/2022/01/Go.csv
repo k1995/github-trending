@@ -1,12 +1,12 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,1159
-15452919,ethereum/go-ethereum,Go,839
-14125254,hashicorp/consul,Go,453
-16563587,cockroachdb/cockroach,Go,574
-153099672,inancgumus/learngo,Go,879
+20580498,kubernetes/kubernetes,Go,1158
+15452919,ethereum/go-ethereum,Go,837
+14125254,hashicorp/consul,Go,455
+16563587,cockroachdb/cockroach,Go,575
+153099672,inancgumus/learngo,Go,880
 109145553,containers/podman,Go,657
-233130089,charmbracelet/bubbletea,Go,1738
-92648433,gwuhaolin/livego,Go,186
+233130089,charmbracelet/bubbletea,Go,1740
+92648433,gwuhaolin/livego,Go,185
 31311037,jpillora/chisel,Go,194
 367284699,lima-vm/lima,Go,932
 19799491,tendermint/tendermint,Go,108
@@ -17,10 +17,10 @@ id,name,lang,new stars
 281765424,microsoft/CBL-Mariner,Go,76
 93446042,hashicorp/terraform-provider-azurerm,Go,82
 351486934,gravitl/netmaker,Go,819
-52481933,navidrome/navidrome,Go,221
-306366900,casdoor/casdoor,Go,325
-442545507,google/log4jscanner,Go,1265
+52481933,navidrome/navidrome,Go,220
+306366900,casdoor/casdoor,Go,324
+442545507,google/log4jscanner,Go,1216
 411212454,tharsis/evmos,Go,249
 191266671,algorand/go-algorand,Go,89
-423466379,V4NSH4J/discord-mass-DM-GO,Go,210
+423466379,V4NSH4J/discord-mass-DM-GO,Go,208
 304841810,osmosis-labs/osmosis,Go,75
