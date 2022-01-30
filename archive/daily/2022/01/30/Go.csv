@@ -1,15 +1,15 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,50
-136815833,Dreamacro/clash,Go,38
+136815833,Dreamacro/clash,Go,43
 56353740,kubernetes/minikube,Go,12
 41349039,dgraph-io/dgraph,Go,26
 285864199,zeromicro/go-zero,Go,9
 66573241,hyperledger/fabric,Go,7
 80087836,dgraph-io/badger,Go,8
 191655189,ent/ent,Go,11
-136505169,tinygo-org/tinygo,Go,20
+136505169,tinygo-org/tinygo,Go,17
 116739828,DNSCrypt/dnscrypt-proxy,Go,6
-311315731,XTLS/Xray-core,Go,13
+311315731,XTLS/Xray-core,Go,12
 252813491,projectdiscovery/nuclei,Go,7
 290724437,IBAX-io/go-ibax,Go,823
 49765480,lightningnetwork/lnd,Go,3
@@ -17,10 +17,10 @@ id,name,lang,new stars
 206649463,cilium/ebpf,Go,13
 196978139,xinliangnote/Go,Go,3
 382379200,cue-lang/cue,Go,6
-135951540,stashapp/stash,Go,1
+135951540,stashapp/stash,Go,2
 231019989,AllenDang/giu,Go,8
 310632133,solana-labs/token-list,Go,2
 445524190,DataDog/stratus-red-team,Go,58
-450664461,nikolaydubina/go-binsize-treemap,Go,55
+450664461,nikolaydubina/go-binsize-treemap,Go,52
 439684660,Mathieu-Desrochers/Learning-Go,Go,20
 402748325,Egida/kek,Go,4
