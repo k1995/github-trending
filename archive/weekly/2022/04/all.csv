@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,1752
-2325298,torvalds/linux,C,1631
-62607227,yangshun/tech-interview-handbook,JavaScript,898
+54346799,public-apis/public-apis,Python,1756
+2325298,torvalds/linux,C,1607
+62607227,yangshun/tech-interview-handbook,JavaScript,880
 843222,scikit-learn/scikit-learn,Python,239
 8681349,huginn/huginn,Ruby,993
-221981891,microsoft/playwright,TypeScript,1021
-14125254,hashicorp/consul,Go,140
-269336148,sickcodes/Docker-OSX,Shell,1102
-116167731,yuzu-emu/yuzu,C++,639
-97086543,TheAlgorithms/Javascript,JavaScript,408
-101782647,pytorch/fairseq,Python,329
+221981891,microsoft/playwright,TypeScript,1045
+14125254,hashicorp/consul,Go,137
+269336148,sickcodes/Docker-OSX,Shell,1103
+116167731,yuzu-emu/yuzu,C++,569
+97086543,TheAlgorithms/Javascript,JavaScript,415
+101782647,pytorch/fairseq,Python,315
 120231691,Ryujinx/Ryujinx,C#,360
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,584
-182067506,kedro-org/kedro,Python,957
-411493648,veler/DevToys,C#,3658
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,656
+182067506,kedro-org/kedro,Python,937
+411493648,veler/DevToys,C#,3772
 171072967,pedroslopez/whatsapp-web.js,JavaScript,362
-248032165,spring-projects/spring-authorization-server,Java,159
-306701996,rancher-sandbox/rancher-desktop,TypeScript,456
-430673290,imcuttle/mometa,TypeScript,654
+248032165,spring-projects/spring-authorization-server,Java,163
+306701996,rancher-sandbox/rancher-desktop,TypeScript,445
+430673290,imcuttle/mometa,TypeScript,651
 393045142,flxzt/rnote,Rust,874
-164466028,fireship-io/fireship.io,TypeScript,127
-304243554,craftzdog/dotfiles-public,Vim script,106
-449942590,vercel/platforms,JavaScript,541
-444980921,akutz/go-generics-the-hard-way,Go,665
+164466028,fireship-io/fireship.io,TypeScript,128
+304243554,craftzdog/dotfiles-public,Vim script,105
+449942590,vercel/platforms,JavaScript,545
+444980921,akutz/go-generics-the-hard-way,Go,655
 429851205,ciderapp/Cider,JavaScript,132
