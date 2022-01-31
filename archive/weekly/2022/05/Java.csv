@@ -1,16 +1,16 @@
 id,name,lang,new stars
 9754983,eugenp/tutorials,Java,80
-2211243,apache/kafka,Java,70
+2211243,apache/kafka,Java,69
 20773773,bazelbuild/bazel,Java,58
 149001365,doocs/leetcode,Java,1831
-11125589,keycloak/keycloak,Java,75
-6220644,OpenRefine/OpenRefine,Java,27
+11125589,keycloak/keycloak,Java,76
+6220644,OpenRefine/OpenRefine,Java,29
 140543886,apache/incubator-shenyu,Java,25
-283046497,airbytehq/airbyte,Java,94
+283046497,airbytehq/airbyte,Java,93
 70780002,flowable/flowable-engine,Java,31
-334274271,opensearch-project/OpenSearch,Java,41
-206317,apache/camel,Java,18
-143175496,cabaletta/baritone,Java,44
+334274271,opensearch-project/OpenSearch,Java,42
+206317,apache/camel,Java,19
+143175496,cabaletta/baritone,Java,45
 256589781,androidx/androidx,Java,51
 320785435,LSPosed/LSPosed,Java,125
 248032165,spring-projects/spring-authorization-server,Java,165
@@ -20,7 +20,7 @@ id,name,lang,new stars
 156819424,javastacks/spring-boot-best-practice,Java,52
 2928948,Azure/azure-sdk-for-java,Java,12
 309730396,MeteorDevelopment/meteor-client,Java,23
-249151155,karma9874/AndroRAT,Java,22
-365695049,ag2s20150909/TTS,Java,109
+249151155,karma9874/AndroRAT,Java,23
+365695049,ag2s20150909/TTS,Java,108
 210579021,apache/hop,Java,45
 395252741,snumrl/TimeCriticalResponse,Java,91
