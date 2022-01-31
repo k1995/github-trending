@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,349
-65252,jekyll/jekyll,Ruby,257
-7569578,discourse/discourse,Ruby,296
-8681349,huginn/huginn,Ruby,1190
+8514,rails/rails,Ruby,350
+65252,jekyll/jekyll,Ruby,258
+7569578,discourse/discourse,Ruby,295
+8681349,huginn/huginn,Ruby,1188
 27442967,fastlane/fastlane,Ruby,628
-481872,hashicorp/vagrant,Ruby,180
+481872,hashicorp/vagrant,Ruby,181
 308770,heartcombo/devise,Ruby,93
 3623050,Homebrew/homebrew-cask,Ruby,114
-538746,ruby/ruby,Ruby,100
+538746,ruby/ruby,Ruby,99
 18486300,lewagon/setup,Ruby,614
 202291859,chatwoot/chatwoot,Ruby,333
 4095287,rubocop/rubocop,Ruby,67
 3195124,mperham/sidekiq,Ruby,86
-96395,faker-ruby/faker,Ruby,253
+96395,faker-ruby/faker,Ruby,252
 15435,Shopify/liquid,Ruby,86
 611921,activeadmin/activeadmin,Ruby,36
 2441517,puma/puma,Ruby,41
@@ -23,4 +23,4 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,68
 29151578,rswag/rswag,Ruby,39
 229187949,shivammathur/homebrew-php,Ruby,94
-419827947,joemasilotti/railsdevs.com,Ruby,83
+419827947,joemasilotti/railsdevs.com,Ruby,84
