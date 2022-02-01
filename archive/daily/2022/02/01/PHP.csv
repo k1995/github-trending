@@ -1,7 +1,7 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,20
+3482588,danielmiessler/SecLists,PHP,19
 448045,sebastianbergmann/phpunit,PHP,1
-60243197,nextcloud/server,PHP,13
+60243197,nextcloud/server,PHP,14
 11323319,erusev/parsedown,PHP,2
 22553797,getgrav/grav,PHP,1
 10157178,egulias/EmailValidator,PHP,2
@@ -17,8 +17,8 @@ id,name,lang,new stars
 31425145,RaspAP/raspap-webgui,PHP,4
 265782973,hlmd/Postman-cn,PHP,4
 1957456,Dolibarr/dolibarr,PHP,1
-69691727,pmmp/PocketMine-MP,PHP,3
-248372441,laravel-filament/filament,PHP,47
+69691727,pmmp/PocketMine-MP,PHP,2
+248372441,laravel-filament/filament,PHP,45
 93982796,Tuhinshubhra/RED_HAWK,PHP,2
 75645659,WordPress/wordpress-develop,PHP,2
 143703053,rajkumardusad/IP-Tracer,PHP,0
