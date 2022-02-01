@@ -1,15 +1,15 @@
 id,name,lang,new stars
-70104825,dotnet-architecture/eShopOnContainers,C#,60
-54086969,thangchung/awesome-dotnet-core,C#,90
-198071756,huiyadanli/RevokeMsgPatcher,C#,144
-120231691,Ryujinx/Ryujinx,C#,204
+70104825,dotnet-architecture/eShopOnContainers,C#,61
+54086969,thangchung/awesome-dotnet-core,C#,89
+198071756,huiyadanli/RevokeMsgPatcher,C#,141
+120231691,Ryujinx/Ryujinx,C#,190
 16157746,dotnet/efcore,C#,35
-3476845,JamesNK/Newtonsoft.Json,C#,16
+3476845,JamesNK/Newtonsoft.Json,C#,15
 213460285,jasontaylordev/CleanArchitecture,C#,77
-17369361,jbogard/MediatR,C#,41
-12191244,dotnet/BenchmarkDotNet,C#,41
-18586705,nopSolutions/nopCommerce,C#,22
-411493648,veler/DevToys,C#,2154
+17369361,jbogard/MediatR,C#,40
+12191244,dotnet/BenchmarkDotNet,C#,42
+18586705,nopSolutions/nopCommerce,C#,23
+411493648,veler/DevToys,C#,2024
 17941520,neuecc/UniRx,C#,22
 41822320,RicoSuter/NSwag,C#,20
 50605426,microsoft/MixedRealityToolkit-Unity,C#,22
@@ -17,9 +17,9 @@ id,name,lang,new stars
 117102183,ChilliCream/hotchocolate,C#,18
 23891194,Azure/azure-powershell,C#,13
 187499284,Cysharp/UniTask,C#,25
-159973917,Megabit/Blazorise,C#,25
+159973917,Megabit/Blazorise,C#,24
 121067132,BepInEx/BepInEx,C#,32
-116385203,Unity-Technologies/com.unity.netcode.gameobjects,C#,12
+116385203,Unity-Technologies/com.unity.netcode.gameobjects,C#,13
 68534745,goatcorp/FFXIVQuickLauncher,C#,24
 337897094,beto-rodriguez/LiveCharts2,C#,83
 131026794,Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,6
