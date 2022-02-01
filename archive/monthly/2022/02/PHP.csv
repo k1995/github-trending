@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,484
+1863329,laravel/laravel,PHP,483
 2579314,fzaninotto/Faker,PHP,97
 7548986,laravel/framework,PHP,293
 2253830,PHPMailer/PHPMailer,PHP,143
 2889328,WordPress/WordPress,PHP,135
-7704544,Intervention/image,PHP,90
+7704544,Intervention/image,PHP,91
 13899674,thephpleague/flysystem,PHP,112
 61490598,PHPOffice/PhpSpreadsheet,PHP,141
-2884111,magento/magento2,PHP,58
+2884111,magento/magento2,PHP,57
 2699935,squizlabs/PHP_CodeSniffer,PHP,112
 6660366,dompdf/dompdf,PHP,111
 41589337,BookStackApp/BookStack,PHP,746
@@ -21,6 +21,6 @@ id,name,lang,new stars
 119047018,linuxserver/Heimdall,PHP,147
 47508644,pterodactyl/panel,PHP,134
 1957456,Dolibarr/dolibarr,PHP,95
-39182755,glpi-project/glpi,PHP,63
+39182755,glpi-project/glpi,PHP,64
 138328462,freescout-helpdesk/freescout,PHP,57
-75645659,WordPress/wordpress-develop,PHP,149
+75645659,WordPress/wordpress-develop,PHP,150
