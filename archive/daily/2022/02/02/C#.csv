@@ -1,14 +1,14 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,72
-17620347,dotnet/aspnetcore,C#,11
-164140756,files-community/Files,C#,226
+184456251,microsoft/PowerToys,C#,73
+17620347,dotnet/aspnetcore,C#,10
+164140756,files-community/Files,C#,231
 16157746,dotnet/efcore,C#,2
 12201538,aspnetboilerplate/aspnetboilerplate,C#,5
 9864166,App-vNext/Polly,C#,4
 28239455,dotnet/AspNetCore.Docs,C#,5
 69673033,ardalis/CleanArchitecture,C#,17
 46652227,IdentityServer/IdentityServer4,C#,1
-75990888,dotnet/csharplang,C#,4
+75990888,dotnet/csharplang,C#,3
 1579990,MonoGame/MonoGame,C#,5
 210716005,dotnet/runtime,C#,10
 64290739,dodyg/practical-aspnetcore,C#,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 158405551,GitCredentialManager/git-credential-manager,C#,6
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,2
 331187187,DGP-Studio/Snap.Genshin,C#,45
-156260788,Azure/azure-cosmos-dotnet-v3,C#,3
-452833426,xoofx/dotnet-releaser,C#,23
-453628628,dosxuz/DefenderStop,C#,11
+156260788,Azure/azure-cosmos-dotnet-v3,C#,4
+452833426,xoofx/dotnet-releaser,C#,20
+453628628,dosxuz/DefenderStop,C#,13

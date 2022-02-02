@@ -1,7 +1,7 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
+8514,rails/rails,Ruby,6
 7569578,discourse/discourse,Ruby,13
-53238813,Homebrew/brew,Ruby,14
+53238813,Homebrew/brew,Ruby,12
 37382858,kilimchoi/engineering-blogs,Ruby,4
 1090311,elastic/logstash,Ruby,1
 138312,capistrano/capistrano,Ruby,0
@@ -13,10 +13,10 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,1
 611921,activeadmin/activeadmin,Ruby,0
 6529205,varvet/pundit,Ruby,6
-2441517,puma/puma,Ruby,3
+2441517,puma/puma,Ruby,2
 108278,chef/chef,Ruby,0
-4994614,wpscanteam/wpscan,Ruby,3
-11412473,ankane/searchkick,Ruby,3
+4994614,wpscanteam/wpscan,Ruby,2
+11412473,ankane/searchkick,Ruby,2
 535266,vcr/vcr,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,1
 1462,ctran/annotate_models,Ruby,1
