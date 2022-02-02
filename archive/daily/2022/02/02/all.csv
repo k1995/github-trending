@@ -1,26 +1,26 @@
 id,name,lang,new stars
 31792824,flutter/flutter,Dart,48
-29028775,facebook/react-native,JavaScript,29
-27193779,nodejs/node,JavaScript,72
+29028775,facebook/react-native,JavaScript,35
+27193779,nodejs/node,JavaScript,81
 184456251,microsoft/PowerToys,C#,81
-612230,nvm-sh/nvm,Shell,37
-191529732,lydiahallie/javascript-questions,,105
-35866694,RocketChat/Rocket.Chat,JavaScript,29
-52773157,typeorm/typeorm,TypeScript,17
-125266328,psf/black,Python,225
-307260205,yt-dlp/yt-dlp,Python,207
-41889031,TeamNewPipe/NewPipe,Java,80
+612230,nvm-sh/nvm,Shell,48
+191529732,lydiahallie/javascript-questions,,120
+35866694,RocketChat/Rocket.Chat,JavaScript,51
+52773157,typeorm/typeorm,TypeScript,40
+125266328,psf/black,Python,207
+307260205,yt-dlp/yt-dlp,Python,203
+41889031,TeamNewPipe/NewPipe,Java,88
 34407651,Azure/azure-quickstart-templates,Shell,7
 197153676,Chia-Network/chia-blockchain,Python,140
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,240
-355959597,Textualize/textual,Python,49
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,221
+355959597,Textualize/textual,Python,93
 130879558,gitpod-io/gitpod,TypeScript,30
-2928948,Azure/azure-sdk-for-java,Java,6
-445897115,hannahcode/word-guessing-game,TypeScript,134
-443977141,Kindelia/HVM,Rust,492
+2928948,Azure/azure-sdk-for-java,Java,13
+445897115,hannahcode/word-guessing-game,TypeScript,130
+443977141,Kindelia/HVM,Rust,451
 270504039,Jxck-S/plane-notify,Python,440
-323977990,flashbots/simple-arbitrage,TypeScript,11
-418771317,solana-labs/solana-pay,TypeScript,103
-394088077,reprise99/Sentinel-Queries,,8
-422121708,nlp-with-transformers/notebooks,Jupyter Notebook,43
-444792603,vopani/jaxton,Jupyter Notebook,13
+323977990,flashbots/simple-arbitrage,TypeScript,13
+418771317,solana-labs/solana-pay,TypeScript,143
+422121708,nlp-with-transformers/notebooks,Jupyter Notebook,70
+394088077,reprise99/Sentinel-Queries,,13
+444792603,vopani/jaxton,Jupyter Notebook,17
