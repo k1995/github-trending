@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,6
-7569578,discourse/discourse,Ruby,13
-53238813,Homebrew/brew,Ruby,12
+8514,rails/rails,Ruby,5
+7569578,discourse/discourse,Ruby,11
+53238813,Homebrew/brew,Ruby,13
 37382858,kilimchoi/engineering-blogs,Ruby,4
 1090311,elastic/logstash,Ruby,1
 138312,capistrano/capistrano,Ruby,0
-3314,spree/spree,Ruby,2
-4095287,rubocop/rubocop,Ruby,3
-3195124,mperham/sidekiq,Ruby,3
+3314,spree/spree,Ruby,1
+4095287,rubocop/rubocop,Ruby,2
+3195124,mperham/sidekiq,Ruby,4
 106995,sinatra/sinatra,Ruby,0
 52855516,Homebrew/homebrew-core,Ruby,4
 96395,faker-ruby/faker,Ruby,1
@@ -15,12 +15,12 @@ id,name,lang,new stars
 6529205,varvet/pundit,Ruby,6
 2441517,puma/puma,Ruby,2
 108278,chef/chef,Ruby,0
-4994614,wpscanteam/wpscan,Ruby,2
+4994614,wpscanteam/wpscan,Ruby,1
 11412473,ankane/searchkick,Ruby,2
 535266,vcr/vcr,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,1
-1462,ctran/annotate_models,Ruby,1
-614070,rubygems/rubygems,Ruby,3
+1462,ctran/annotate_models,Ruby,2
+614070,rubygems/rubygems,Ruby,2
 14000045,que-rb/que,Ruby,3
 270054,ffi/ffi,Ruby,0
 5188602,mhenrixon/sidekiq-unique-jobs,Ruby,0
