@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,5
+8514,rails/rails,Ruby,4
 7569578,discourse/discourse,Ruby,4
 27442967,fastlane/fastlane,Ruby,3
-53238813,Homebrew/brew,Ruby,12
-481872,hashicorp/vagrant,Ruby,12
-308770,heartcombo/devise,Ruby,4
+53238813,Homebrew/brew,Ruby,17
+481872,hashicorp/vagrant,Ruby,11
+308770,heartcombo/devise,Ruby,3
 538746,ruby/ruby,Ruby,6
 3314,spree/spree,Ruby,4
 4095287,rubocop/rubocop,Ruby,0
@@ -15,7 +15,7 @@ id,name,lang,new stars
 108278,chef/chef,Ruby,3
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,3
 5160706,bkeepers/dotenv,Ruby,0
-11412473,ankane/searchkick,Ruby,1
+11412473,ankane/searchkick,Ruby,0
 52316423,luggit/react-native-config,Ruby,4
 1462,ctran/annotate_models,Ruby,0
 46698467,ankane/strong_migrations,Ruby,6
@@ -23,4 +23,4 @@ id,name,lang,new stars
 81134943,Shopify/bootsnap,Ruby,0
 9500075,ytti/oxidized,Ruby,0
 267199858,Joscelinrocha/Learning-R-Resources,Ruby,0
-354713589,thoughtbot/hotwire-example-template,Ruby,13
+354713589,thoughtbot/hotwire-example-template,Ruby,17
