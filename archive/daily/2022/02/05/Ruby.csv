@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,182
-27442967,fastlane/fastlane,Ruby,6
+8681349,huginn/huginn,Ruby,153
+27442967,fastlane/fastlane,Ruby,5
 52281283,mastodon/mastodon,Ruby,11
-308770,heartcombo/devise,Ruby,2
-538746,ruby/ruby,Ruby,5
+308770,heartcombo/devise,Ruby,3
+538746,ruby/ruby,Ruby,4
 4095287,rubocop/rubocop,Ruby,1
 1918677,fluent/fluentd,Ruby,3
 52855516,Homebrew/homebrew-core,Ruby,6
@@ -15,12 +15,12 @@ id,name,lang,new stars
 2802565,doorkeeper-gem/doorkeeper,Ruby,1
 1734,aasm/aasm,Ruby,1
 30985840,solidusio/solidus,Ruby,1
-115859973,ddnexus/pagy,Ruby,3
+115859973,ddnexus/pagy,Ruby,2
 46698467,ankane/strong_migrations,Ruby,3
-200302808,github/view_component,Ruby,3
-258750,theforeman/foreman,Ruby,2
-20388420,markdownlint/markdownlint,Ruby,2
-65914086,decidim/decidim,Ruby,2
+200302808,github/view_component,Ruby,2
+258750,theforeman/foreman,Ruby,3
+20388420,markdownlint/markdownlint,Ruby,1
+65914086,decidim/decidim,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 880770,puppetlabs/puppetlabs-apache,Ruby,1
-354713589,thoughtbot/hotwire-example-template,Ruby,21
+354713589,thoughtbot/hotwire-example-template,Ruby,20
