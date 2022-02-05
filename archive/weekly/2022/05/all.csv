@@ -1,25 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,1323
-2325298,torvalds/linux,C,857
+60493101,jwasham/coding-interview-university,,1344
 157616880,iptv-org/iptv,JavaScript,719
-34302698,serverless/serverless,JavaScript,313
-35866694,RocketChat/Rocket.Chat,JavaScript,232
-71583602,Developer-Y/cs-video-courses,,3114
+71583602,Developer-Y/cs-video-courses,,2874
 125266328,psf/black,Python,735
-17372733,OAI/OpenAPI-Specification,JavaScript,55
+17372733,OAI/OpenAPI-Specification,JavaScript,57
 41889031,TeamNewPipe/NewPipe,Java,449
-11847500,uutils/coreutils,Rust,840
-190729906,Budibase/budibase,JavaScript,764
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,1229
-420459569,github/copilot-docs,Python,530
-66156850,TheAlgorithms/Go,Go,709
-355959597,Textualize/textual,Python,513
+92111509,zadam/trilium,JavaScript,185
+299482335,withfig/autocomplete,TypeScript,295
+266231149,logseq/logseq,Clojure,764
+190729906,Budibase/budibase,JavaScript,801
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,1198
+420459569,github/copilot-docs,Python,529
+355959597,Textualize/textual,Python,516
+123807729,jaakkopasanen/AutoEq,Jupyter Notebook,71
 259354262,scaffold-eth/scaffold-eth,CSS,301
-428202741,RunaCapital/awesome-oss-alternatives,Python,1733
-422005902,ThioJoe/YT-Spammer-Purge,Python,1822
-329265231,kdrag0n/safetynet-fix,C++,256
-445897115,hannahcode/word-guessing-game,TypeScript,547
-452081015,berdav/CVE-2021-4034,C,221
-452298460,michiganrobotics/rob501,,323
-429851205,ciderapp/Cider,JavaScript,630
-446951373,chiru-labs/ERC721A,Solidity,169
+360522116,nextui-org/nextui,TypeScript,2084
+306701996,rancher-sandbox/rancher-desktop,TypeScript,317
+445897115,hannahcode/word-guessing-game,TypeScript,550
+270504039,Jxck-S/plane-notify,Python,955
+429851205,ciderapp/Cider,JavaScript,639
+423466379,V4NSH4J/discord-mass-DM-GO,Go,71
+446951373,chiru-labs/ERC721A,Solidity,170
+452306200,ly4k/PwnKit,C,140
+397974623,derekbanas/Python4Finance,Jupyter Notebook,35
+450850663,bedimcode/responsive-portfolio-website-Ansel,CSS,31
