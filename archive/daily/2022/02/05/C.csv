@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3774328,wg/wrk,C,4
+3774328,wg/wrk,C,3
 1357796,emscripten-core/emscripten,C,6
-20159867,nothings/stb,C,11
+20159867,nothings/stb,C,12
 23029617,h2o/h2o,C,3
 65899476,espressif/esp-idf,C,6
 437011,openzfs/zfs,C,5
 254327261,sandboxie-plus/Sandboxie,C,7
-59771425,zephyrproject-rtos/zephyr,C,7
-59676171,Klipper3d/klipper,C,5
-21977691,seL4/seL4,C,8
-247875738,zeldaret/oot,C,7
+59771425,zephyrproject-rtos/zephyr,C,6
+59676171,Klipper3d/klipper,C,4
+21977691,seL4/seL4,C,9
+247875738,zeldaret/oot,C,9
 29933948,fluent/fluent-bit,C,1
 97212490,floooh/sokol,C,6
 34807561,nanopb/nanopb,C,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 127023441,NVIDIA/cuda-samples,C,6
 331380723,raspberrypi/pico-sdk,C,4
 191266671,algorand/go-algorand,C,1
-270692521,zmkfirmware/zmk,C,1
+270692521,zmkfirmware/zmk,C,0
 121516035,nrfconnect/sdk-nrf,C,1
 51990771,ARM-software/CMSIS_5,C,1
 454532454,thefLink/RecycledGate,C,31

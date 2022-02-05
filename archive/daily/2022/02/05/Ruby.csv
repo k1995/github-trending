@@ -1,5 +1,5 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,139
+8681349,huginn/huginn,Ruby,107
 27442967,fastlane/fastlane,Ruby,5
 52281283,mastodon/mastodon,Ruby,11
 308770,heartcombo/devise,Ruby,3
@@ -7,7 +7,7 @@ id,name,lang,new stars
 4095287,rubocop/rubocop,Ruby,2
 1918677,fluent/fluentd,Ruby,3
 52855516,Homebrew/homebrew-core,Ruby,5
-611921,activeadmin/activeadmin,Ruby,0
+611921,activeadmin/activeadmin,Ruby,1
 6529205,varvet/pundit,Ruby,0
 21829,thoughtbot/factory_bot,Ruby,0
 108278,chef/chef,Ruby,0
@@ -16,11 +16,11 @@ id,name,lang,new stars
 1734,aasm/aasm,Ruby,1
 30985840,solidusio/solidus,Ruby,1
 115859973,ddnexus/pagy,Ruby,1
-46698467,ankane/strong_migrations,Ruby,2
+46698467,ankane/strong_migrations,Ruby,1
 200302808,github/view_component,Ruby,2
-258750,theforeman/foreman,Ruby,3
-20388420,markdownlint/markdownlint,Ruby,1
+258750,theforeman/foreman,Ruby,4
+20388420,markdownlint/markdownlint,Ruby,2
 65914086,decidim/decidim,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 880770,puppetlabs/puppetlabs-apache,Ruby,1
-354713589,thoughtbot/hotwire-example-template,Ruby,18
+354713589,thoughtbot/hotwire-example-template,Ruby,13
