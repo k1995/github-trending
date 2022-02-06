@@ -1,18 +1,18 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,260
-7569578,discourse/discourse,Ruby,274
-8681349,huginn/huginn,Ruby,1553
-27442967,fastlane/fastlane,Ruby,632
-53238813,Homebrew/brew,Ruby,465
+65252,jekyll/jekyll,Ruby,262
+7569578,discourse/discourse,Ruby,275
+8681349,huginn/huginn,Ruby,1572
+27442967,fastlane/fastlane,Ruby,633
+53238813,Homebrew/brew,Ruby,463
 52281283,mastodon/mastodon,Ruby,273
-2293158,rapid7/metasploit-framework,Ruby,313
-481872,hashicorp/vagrant,Ruby,187
+2293158,rapid7/metasploit-framework,Ruby,309
+481872,hashicorp/vagrant,Ruby,186
 308770,heartcombo/devise,Ruby,91
-3623050,Homebrew/homebrew-cask,Ruby,116
+3623050,Homebrew/homebrew-cask,Ruby,118
 18486300,lewagon/setup,Ruby,613
 4095287,rubocop/rubocop,Ruby,64
-3195124,mperham/sidekiq,Ruby,85
-96395,faker-ruby/faker,Ruby,260
+3195124,mperham/sidekiq,Ruby,86
+96395,faker-ruby/faker,Ruby,259
 15435,Shopify/liquid,Ruby,94
 611921,activeadmin/activeadmin,Ruby,38
 21829,thoughtbot/factory_bot,Ruby,41
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1462,ctran/annotate_models,Ruby,26
 138776049,sorbet/sorbet,Ruby,106
 29151578,rswag/rswag,Ruby,40
-419827947,joemasilotti/railsdevs.com,Ruby,81
+419827947,joemasilotti/railsdevs.com,Ruby,79
