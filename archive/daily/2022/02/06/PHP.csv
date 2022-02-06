@@ -1,13 +1,13 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,18
-2253830,PHPMailer/PHPMailer,PHP,7
+3482588,danielmiessler/SecLists,PHP,20
+2253830,PHPMailer/PHPMailer,PHP,8
 26730195,CachetHQ/Cachet,PHP,3
 14259390,SpartnerNL/Laravel-Excel,PHP,3
 2884111,magento/magento2,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,0
-41589337,BookStackApp/BookStack,PHP,10
+41589337,BookStackApp/BookStack,PHP,11
 330275,twigphp/Twig,PHP,0
-16238673,kanboard/kanboard,PHP,3
+16238673,kanboard/kanboard,PHP,2
 12204147,mautic/mautic,PHP,4
 74386167,vimeo/psalm,PHP,2
 6322699,FreshRSS/FreshRSS,PHP,1
@@ -15,12 +15,12 @@ id,name,lang,new stars
 8077402,MISP/MISP,PHP,3
 29126334,EasyCorp/EasyAdminBundle,PHP,3
 22751672,tecnickcom/TCPDF,PHP,1
-39182755,glpi-project/glpi,PHP,5
+39182755,glpi-project/glpi,PHP,4
 42912130,ampproject/amp-wp,PHP,0
 71485542,kevinpapst/kimai2,PHP,1
 143975804,LycheeOrg/Lychee,PHP,3
-138328462,freescout-helpdesk/freescout,PHP,2
+138328462,freescout-helpdesk/freescout,PHP,3
 75645659,WordPress/wordpress-develop,PHP,3
 5367323,akeneo/pim-community-dev,PHP,0
 260729799,knuckleswtf/scribe,PHP,4
-454203710,tonysm/tailwindcss-laravel,PHP,33
+454203710,tonysm/tailwindcss-laravel,PHP,30
