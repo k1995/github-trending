@@ -1,20 +1,20 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,118
-3482588,danielmiessler/SecLists,PHP,146
-458058,symfony/symfony,PHP,41
+3482588,danielmiessler/SecLists,PHP,145
+458058,symfony/symfony,PHP,39
 7548986,laravel/framework,PHP,75
-1376664,Seldaek/monolog,PHP,22
+1376664,Seldaek/monolog,PHP,21
 2253830,PHPMailer/PHPMailer,PHP,45
-82238168,monicahq/monica,PHP,37
-12615154,barryvdh/laravel-debugbar,PHP,36
-26730195,CachetHQ/Cachet,PHP,19
-79111500,jupeter/clean-code-php,PHP,57
+82238168,monicahq/monica,PHP,38
+12615154,barryvdh/laravel-debugbar,PHP,33
+26730195,CachetHQ/Cachet,PHP,20
+79111500,jupeter/clean-code-php,PHP,59
 677464,doctrine/dbal,PHP,12
-21298446,firefly-iii/firefly-iii,PHP,54
+21298446,firefly-iii/firefly-iii,PHP,51
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,17
-16238673,kanboard/kanboard,PHP,28
-6763587,PrestaShop/PrestaShop,PHP,17
-14346979,snipe/snipe-it,PHP,37
+16238673,kanboard/kanboard,PHP,29
+6763587,PrestaShop/PrestaShop,PHP,19
+14346979,snipe/snipe-it,PHP,36
 627735,vrana/adminer,PHP,15
 12204147,mautic/mautic,PHP,13
 76064827,mailcow/mailcow-dockerized,PHP,35
@@ -23,4 +23,4 @@ id,name,lang,new stars
 2686502,pimcore/pimcore,PHP,12
 39182755,glpi-project/glpi,PHP,19
 74026995,CodelyTV/php-ddd-example,PHP,9
-174021137,inertiajs/pingcrm,PHP,13
+174021137,inertiajs/pingcrm,PHP,12
