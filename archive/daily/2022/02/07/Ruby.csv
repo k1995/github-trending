@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,13
-65252,jekyll/jekyll,Ruby,11
-7569578,discourse/discourse,Ruby,9
+8514,rails/rails,Ruby,11
+65252,jekyll/jekyll,Ruby,10
+7569578,discourse/discourse,Ruby,10
 8681349,huginn/huginn,Ruby,172
-52281283,mastodon/mastodon,Ruby,3
+52281283,mastodon/mastodon,Ruby,7
 2293158,rapid7/metasploit-framework,Ruby,12
 308770,heartcombo/devise,Ruby,4
 3623050,Homebrew/homebrew-cask,Ruby,1
@@ -12,15 +12,15 @@ id,name,lang,new stars
 911765,diaspora/diaspora,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
 3195124,mperham/sidekiq,Ruby,0
-106995,sinatra/sinatra,Ruby,1
+106995,sinatra/sinatra,Ruby,2
 1725199,github/linguist,Ruby,3
 611921,activeadmin/activeadmin,Ruby,1
-138776049,sorbet/sorbet,Ruby,0
+138776049,sorbet/sorbet,Ruby,1
 103766152,github/explore,Ruby,1
 1175581,citation-style-language/styles,Ruby,0
 10088951,TheOdinProject/theodinproject,Ruby,1
 8154497,rubysec/ruby-advisory-db,Ruby,2
-354713589,thoughtbot/hotwire-example-template,Ruby,10
+354713589,thoughtbot/hotwire-example-template,Ruby,8
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
 87049040,wix/homebrew-brew,Ruby,0
 281785843,appdev-projects/refactoring-fortune-teller,Ruby,0
