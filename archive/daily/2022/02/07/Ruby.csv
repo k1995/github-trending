@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,13
+8514,rails/rails,Ruby,15
 65252,jekyll/jekyll,Ruby,11
 7569578,discourse/discourse,Ruby,8
-8681349,huginn/huginn,Ruby,124
+8681349,huginn/huginn,Ruby,172
 52281283,mastodon/mastodon,Ruby,2
-2293158,rapid7/metasploit-framework,Ruby,10
+2293158,rapid7/metasploit-framework,Ruby,11
 308770,heartcombo/devise,Ruby,4
-3623050,Homebrew/homebrew-cask,Ruby,3
+3623050,Homebrew/homebrew-cask,Ruby,2
 538746,ruby/ruby,Ruby,2
 73648678,forem/forem,Ruby,6
 911765,diaspora/diaspora,Ruby,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,0
 10088951,TheOdinProject/theodinproject,Ruby,1
 8154497,rubysec/ruby-advisory-db,Ruby,2
-354713589,thoughtbot/hotwire-example-template,Ruby,17
+354713589,thoughtbot/hotwire-example-template,Ruby,15
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
 87049040,wix/homebrew-brew,Ruby,0
 281785843,appdev-projects/refactoring-fortune-teller,Ruby,0

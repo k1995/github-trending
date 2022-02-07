@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,117
+1863329,laravel/laravel,PHP,116
 3482588,danielmiessler/SecLists,PHP,146
-458058,symfony/symfony,PHP,39
+458058,symfony/symfony,PHP,38
 7548986,laravel/framework,PHP,76
 1376664,Seldaek/monolog,PHP,22
 2253830,PHPMailer/PHPMailer,PHP,48
 82238168,monicahq/monica,PHP,32
-12615154,barryvdh/laravel-debugbar,PHP,37
-79111500,jupeter/clean-code-php,PHP,60
+12615154,barryvdh/laravel-debugbar,PHP,35
+79111500,jupeter/clean-code-php,PHP,61
 11340559,deployphp/deployer,PHP,20
 677464,doctrine/dbal,PHP,11
 21298446,firefly-iii/firefly-iii,PHP,52
@@ -20,7 +20,7 @@ id,name,lang,new stars
 76064827,mailcow/mailcow-dockerized,PHP,37
 74386167,vimeo/psalm,PHP,18
 2464908,joomla/joomla-cms,PHP,17
-248372441,laravel-filament/filament,PHP,92
+248372441,laravel-filament/filament,PHP,89
 2686502,pimcore/pimcore,PHP,11
 39182755,glpi-project/glpi,PHP,18
 174021137,inertiajs/pingcrm,PHP,13
