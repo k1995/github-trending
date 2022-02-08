@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,123
-3482588,danielmiessler/SecLists,PHP,151
-458058,symfony/symfony,PHP,41
-7548986,laravel/framework,PHP,77
+1863329,laravel/laravel,PHP,124
+3482588,danielmiessler/SecLists,PHP,153
+458058,symfony/symfony,PHP,40
+7548986,laravel/framework,PHP,78
 1376664,Seldaek/monolog,PHP,23
-2253830,PHPMailer/PHPMailer,PHP,49
-82238168,monicahq/monica,PHP,49
-12615154,barryvdh/laravel-debugbar,PHP,35
-26730195,CachetHQ/Cachet,PHP,22
-79111500,jupeter/clean-code-php,PHP,60
+2253830,PHPMailer/PHPMailer,PHP,48
+82238168,monicahq/monica,PHP,48
+12615154,barryvdh/laravel-debugbar,PHP,36
+26730195,CachetHQ/Cachet,PHP,23
+79111500,jupeter/clean-code-php,PHP,61
 677464,doctrine/dbal,PHP,13
 21298446,firefly-iii/firefly-iii,PHP,53
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,17
@@ -19,8 +19,8 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,16
 76064827,mailcow/mailcow-dockerized,PHP,40
 47508644,pterodactyl/panel,PHP,23
-248372441,laravel-filament/filament,PHP,55
+248372441,laravel-filament/filament,PHP,54
 2686502,pimcore/pimcore,PHP,12
-39182755,glpi-project/glpi,PHP,19
+39182755,glpi-project/glpi,PHP,18
 74026995,CodelyTV/php-ddd-example,PHP,11
 174021137,inertiajs/pingcrm,PHP,14
