@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,52
+1863329,laravel/laravel,PHP,54
 1129010,blueimp/jQuery-File-Upload,PHP,0
 458058,symfony/symfony,PHP,8
-7548986,laravel/framework,PHP,38
+7548986,laravel/framework,PHP,37
 1420053,guzzle/guzzle,PHP,2
-82238168,monicahq/monica,PHP,15
-26730195,CachetHQ/Cachet,PHP,5
+82238168,monicahq/monica,PHP,14
+26730195,CachetHQ/Cachet,PHP,6
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,4
 2884111,magento/magento2,PHP,4
 11340559,deployphp/deployer,PHP,2
@@ -18,7 +18,7 @@ id,name,lang,new stars
 29219291,box/spout,PHP,11
 885517,doctrine-extensions/DoctrineExtensions,PHP,0
 22751672,tecnickcom/TCPDF,PHP,3
-3193843,drush-ops/drush,PHP,1
+3193843,drush-ops/drush,PHP,0
 27195711,alextselegidis/easyappointments,PHP,2
 204114509,solstice23/argon-theme,PHP,3
 80719637,MiczFlor/RPi-Jukebox-RFID,PHP,0

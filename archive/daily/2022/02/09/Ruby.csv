@@ -1,5 +1,5 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,10
+27442967,fastlane/fastlane,Ruby,11
 52281283,mastodon/mastodon,Ruby,11
 481872,hashicorp/vagrant,Ruby,8
 308770,heartcombo/devise,Ruby,4
@@ -8,7 +8,7 @@ id,name,lang,new stars
 2203645,CocoaPods/CocoaPods,Ruby,3
 911765,diaspora/diaspora,Ruby,2
 1090311,elastic/logstash,Ruby,4
-202291859,chatwoot/chatwoot,Ruby,8
+202291859,chatwoot/chatwoot,Ruby,7
 3195124,mperham/sidekiq,Ruby,6
 1918677,fluent/fluentd,Ruby,2
 52855516,Homebrew/homebrew-core,Ruby,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 34840276,elastic/ansible-elasticsearch,Ruby,1
 49878403,zendesk/ruby-kafka,Ruby,0
 32104924,rails/sprockets,Ruby,0
-3276877,ThrowTheSwitch/Ceedling,Ruby,1
+3276877,ThrowTheSwitch/Ceedling,Ruby,2
