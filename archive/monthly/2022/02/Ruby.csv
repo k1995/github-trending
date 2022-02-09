@@ -1,18 +1,18 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,272
+65252,jekyll/jekyll,Ruby,273
 7569578,discourse/discourse,Ruby,274
-8681349,huginn/huginn,Ruby,1815
+8681349,huginn/huginn,Ruby,1820
 27442967,fastlane/fastlane,Ruby,652
 53238813,Homebrew/brew,Ruby,478
-52281283,mastodon/mastodon,Ruby,283
-2293158,rapid7/metasploit-framework,Ruby,310
-481872,hashicorp/vagrant,Ruby,188
-308770,heartcombo/devise,Ruby,98
-37382858,kilimchoi/engineering-blogs,Ruby,151
+52281283,mastodon/mastodon,Ruby,282
+2293158,rapid7/metasploit-framework,Ruby,311
+481872,hashicorp/vagrant,Ruby,187
+308770,heartcombo/devise,Ruby,99
+37382858,kilimchoi/engineering-blogs,Ruby,150
 3623050,Homebrew/homebrew-cask,Ruby,114
 4095287,rubocop/rubocop,Ruby,66
-3195124,mperham/sidekiq,Ruby,89
-106995,sinatra/sinatra,Ruby,39
+3195124,mperham/sidekiq,Ruby,90
+106995,sinatra/sinatra,Ruby,40
 52855516,Homebrew/homebrew-core,Ruby,166
 96395,faker-ruby/faker,Ruby,259
 15435,Shopify/liquid,Ruby,96
@@ -20,7 +20,7 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,39
 2441517,puma/puma,Ruby,53
 108278,chef/chef,Ruby,52
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,152
-1314319,instructure/canvas-lms,Ruby,46
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,151
+1314319,instructure/canvas-lms,Ruby,47
 1462,ctran/annotate_models,Ruby,29
 29151578,rswag/rswag,Ruby,45
