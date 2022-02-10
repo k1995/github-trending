@@ -4,12 +4,12 @@ id,name,lang,new stars
 2500088,gitlabhq/gitlabhq,Ruby,2
 2203645,CocoaPods/CocoaPods,Ruby,3
 1090311,elastic/logstash,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,4
+202291859,chatwoot/chatwoot,Ruby,5
 4095287,rubocop/rubocop,Ruby,2
-3195124,mperham/sidekiq,Ruby,3
-88740103,postalserver/postal,Ruby,6
+3195124,mperham/sidekiq,Ruby,4
+88740103,postalserver/postal,Ruby,7
 361310,teamcapybara/capybara,Ruby,0
-611921,activeadmin/activeadmin,Ruby,3
+611921,activeadmin/activeadmin,Ruby,2
 1333863,kaminari/kaminari,Ruby,1
 451035,heartcombo/simple_form,Ruby,2
 6529205,varvet/pundit,Ruby,0
@@ -19,7 +19,7 @@ id,name,lang,new stars
 1548802,activerecord-hackery/ransack,Ruby,2
 488514,rubygems/bundler,Ruby,2
 52316423,luggit/react-native-config,Ruby,3
-4523235,asciidoctor/asciidoctor,Ruby,5
+4523235,asciidoctor/asciidoctor,Ruby,4
 614070,rubygems/rubygems,Ruby,0
 200302808,github/view_component,Ruby,2
 29151578,rswag/rswag,Ruby,4

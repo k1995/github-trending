@@ -1,12 +1,12 @@
 id,name,lang,new stars
-23096959,golang/go,Go,58
+23096959,golang/go,Go,56
 5271882,astaxie/build-web-application-with-golang,Go,7
 11225014,etcd-io/etcd,Go,21
 8989842,unknwon/the-way-to-go_ZH_CN,Go,16
 14125254,hashicorp/consul,Go,6
-136815833,Dreamacro/clash,Go,38
+136815833,Dreamacro/clash,Go,35
 97533102,halfrost/LeetCode-Go,Go,27
-24268127,coreybutler/nvm-windows,Go,23
+24268127,coreybutler/nvm-windows,Go,24
 26337322,rancher/rancher,Go,11
 165041732,go-kratos/kratos,Go,19
 285864199,zeromicro/go-zero,Go,38
@@ -20,7 +20,7 @@ id,name,lang,new stars
 105262714,oauth2-proxy/oauth2-proxy,Go,10
 367758176,dtm-labs/dtm,Go,21
 74499101,roboll/helmfile,Go,4
-79585104,matrix-org/dendrite,Go,10
+79585104,matrix-org/dendrite,Go,13
 220588935,naiba/nezha,Go,11
 236736020,actions-runner-controller/actions-runner-controller,Go,9
-440220648,Mikaelemmmm/go-zero-looklook,Go,22
+440220648,Mikaelemmmm/go-zero-looklook,Go,25

@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,160
-3482588,danielmiessler/SecLists,PHP,159
+1863329,laravel/laravel,PHP,161
+3482588,danielmiessler/SecLists,PHP,162
 458058,symfony/symfony,PHP,42
 7548986,laravel/framework,PHP,106
-60243197,nextcloud/server,PHP,87
+60243197,nextcloud/server,PHP,90
 82238168,monicahq/monica,PHP,55
 12615154,barryvdh/laravel-debugbar,PHP,38
-79111500,jupeter/clean-code-php,PHP,50
-21298446,firefly-iii/firefly-iii,PHP,47
-16238673,kanboard/kanboard,PHP,29
-6763587,PrestaShop/PrestaShop,PHP,21
+79111500,jupeter/clean-code-php,PHP,49
+21298446,firefly-iii/firefly-iii,PHP,46
+16238673,kanboard/kanboard,PHP,27
+6763587,PrestaShop/PrestaShop,PHP,19
 14346979,snipe/snipe-it,PHP,43
 14075080,roots/bedrock,PHP,13
-6269013,aws/aws-sdk-php,PHP,13
+6269013,aws/aws-sdk-php,PHP,12
 627735,vrana/adminer,PHP,16
 76064827,mailcow/mailcow-dockerized,PHP,34
 29219291,box/spout,PHP,75
@@ -23,4 +23,4 @@ id,name,lang,new stars
 39182755,glpi-project/glpi,PHP,17
 74026995,CodelyTV/php-ddd-example,PHP,13
 311448648,laravel/breeze,PHP,12
-449622001,PGYER/codefever,PHP,428
+449622001,PGYER/codefever,PHP,435
