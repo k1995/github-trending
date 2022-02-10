@@ -1,15 +1,15 @@
 id,name,lang,new stars
-569041,curl/curl,C,13
+569041,curl/curl,C,15
 1357796,emscripten-core/emscripten,C,2
 102578345,coolsnowwolf/lede,C,12
 14812739,libuv/libuv,C,7
 5254557,cloudwu/skynet,C,2
-45821540,openwrt/openwrt,C,10
-480080,openresty/openresty,C,5
-65899476,espressif/esp-idf,C,9
+45821540,openwrt/openwrt,C,7
+480080,openresty/openresty,C,6
+65899476,espressif/esp-idf,C,7
 75811015,Tencent/xLua,C,4
-54280778,DaveGamble/cJSON,C,76
-272457606,jart/cosmopolitan,C,1
+54280778,DaveGamble/cJSON,C,66
+272457606,jart/cosmopolitan,C,2
 105944401,yugabyte/yugabyte-db,C,7
 6376337,pocoproject/poco,C,4
 2755696,mattn/go-sqlite3,C,3
@@ -17,9 +17,9 @@ id,name,lang,new stars
 8180677,libimobiledevice/libimobiledevice,C,7
 6687936,ARMmbed/mbedtls,C,3
 29933948,fluent/fluent-bit,C,5
-40556106,wazuh/wazuh,C,4
-1613176,tianocore/edk2,C,4
-217654199,microsoft/msquic,C,4
+40556106,wazuh/wazuh,C,6
+1613176,tianocore/edk2,C,5
+217654199,microsoft/msquic,C,2
 5092588,eggert/tz,C,4
 127718181,espressif/esp-adf,C,1
 413590276,apple-oss-distributions/dyld,C,33
