@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,76
+8514,rails/rails,Ruby,77
 65252,jekyll/jekyll,Ruby,64
-7569578,discourse/discourse,Ruby,44
-8681349,huginn/huginn,Ruby,644
-53238813,Homebrew/brew,Ruby,119
-52281283,mastodon/mastodon,Ruby,83
-2293158,rapid7/metasploit-framework,Ruby,75
-308770,heartcombo/devise,Ruby,29
-3314,spree/spree,Ruby,22
-3195124,mperham/sidekiq,Ruby,18
+7569578,discourse/discourse,Ruby,46
+8681349,huginn/huginn,Ruby,608
+53238813,Homebrew/brew,Ruby,118
+52281283,mastodon/mastodon,Ruby,74
+2293158,rapid7/metasploit-framework,Ruby,74
+308770,heartcombo/devise,Ruby,30
+3314,spree/spree,Ruby,23
+3195124,mperham/sidekiq,Ruby,20
 106995,sinatra/sinatra,Ruby,9
-52855516,Homebrew/homebrew-core,Ruby,44
+52855516,Homebrew/homebrew-core,Ruby,45
 1725199,github/linguist,Ruby,34
 1548802,activerecord-hackery/ransack,Ruby,10
 30337170,rmosolgo/graphql-ruby,Ruby,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,15
 9500075,ytti/oxidized,Ruby,11
 29151578,rswag/rswag,Ruby,9
-354713589,thoughtbot/hotwire-example-template,Ruby,82
+354713589,thoughtbot/hotwire-example-template,Ruby,83
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
