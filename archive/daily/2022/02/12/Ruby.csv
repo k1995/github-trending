@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,12
-7569578,discourse/discourse,Ruby,10
+8514,rails/rails,Ruby,10
+7569578,discourse/discourse,Ruby,9
 27442967,fastlane/fastlane,Ruby,5
-52281283,mastodon/mastodon,Ruby,14
+52281283,mastodon/mastodon,Ruby,10
 308770,heartcombo/devise,Ruby,6
-73648678,forem/forem,Ruby,7
+73648678,forem/forem,Ruby,8
 2203645,CocoaPods/CocoaPods,Ruby,3
 4095287,rubocop/rubocop,Ruby,2
 3195124,mperham/sidekiq,Ruby,4
-88740103,postalserver/postal,Ruby,3
-1918677,fluent/fluentd,Ruby,5
+88740103,postalserver/postal,Ruby,4
+1918677,fluent/fluentd,Ruby,4
 1217404,jordansissel/fpm,Ruby,0
 1725199,github/linguist,Ruby,7
 611921,activeadmin/activeadmin,Ruby,2
@@ -17,9 +17,9 @@ id,name,lang,new stars
 451035,heartcombo/simple_form,Ruby,2
 6529205,varvet/pundit,Ruby,2
 52316423,luggit/react-native-config,Ruby,3
-4523235,asciidoctor/asciidoctor,Ruby,5
-614070,rubygems/rubygems,Ruby,2
-46698467,ankane/strong_migrations,Ruby,8
+4523235,asciidoctor/asciidoctor,Ruby,4
+614070,rubygems/rubygems,Ruby,3
+46698467,ankane/strong_migrations,Ruby,7
 93163073,dependabot/dependabot-core,Ruby,2
 12357002,ondrejbartas/sidekiq-cron,Ruby,3
 29151578,rswag/rswag,Ruby,1

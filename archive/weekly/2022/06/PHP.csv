@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,319
+1863329,laravel/laravel,PHP,323
 3482588,danielmiessler/SecLists,PHP,170
 458058,symfony/symfony,PHP,46
-7548986,laravel/framework,PHP,100
-60243197,nextcloud/server,PHP,98
-82238168,monicahq/monica,PHP,60
+7548986,laravel/framework,PHP,102
+60243197,nextcloud/server,PHP,99
+82238168,monicahq/monica,PHP,61
 12615154,barryvdh/laravel-debugbar,PHP,39
 26730195,CachetHQ/Cachet,PHP,32
-79111500,jupeter/clean-code-php,PHP,43
+79111500,jupeter/clean-code-php,PHP,40
 11340559,deployphp/deployer,PHP,23
 16238673,kanboard/kanboard,PHP,21
 14346979,snipe/snipe-it,PHP,34
@@ -17,7 +17,7 @@ id,name,lang,new stars
 29219291,box/spout,PHP,77
 30367229,LaravelCollective/html,PHP,7
 73781385,orchidsoftware/platform,PHP,31
-248372441,laravel-filament/filament,PHP,106
+248372441,laravel-filament/filament,PHP,107
 69691727,pmmp/PocketMine-MP,PHP,21
 39182755,glpi-project/glpi,PHP,18
 74026995,CodelyTV/php-ddd-example,PHP,19
