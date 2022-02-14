@@ -1,8 +1,8 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
+8514,rails/rails,Ruby,12
 7569578,discourse/discourse,Ruby,18
 27442967,fastlane/fastlane,Ruby,6
-52281283,mastodon/mastodon,Ruby,15
+52281283,mastodon/mastodon,Ruby,16
 308770,heartcombo/devise,Ruby,3
 73648678,forem/forem,Ruby,10
 2203645,CocoaPods/CocoaPods,Ruby,2
@@ -19,8 +19,8 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,1
 4523235,asciidoctor/asciidoctor,Ruby,3
 614070,rubygems/rubygems,Ruby,2
-46698467,ankane/strong_migrations,Ruby,23
+46698467,ankane/strong_migrations,Ruby,21
 93163073,dependabot/dependabot-core,Ruby,2
-12357002,ondrejbartas/sidekiq-cron,Ruby,3
+12357002,ondrejbartas/sidekiq-cron,Ruby,2
 29151578,rswag/rswag,Ruby,2
 3947396,getsentry/sentry-ruby,Ruby,1

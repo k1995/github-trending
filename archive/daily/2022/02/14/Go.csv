@@ -14,11 +14,11 @@ id,name,lang,new stars
 5179099,go-redis/redis,Go,6
 205679232,flipped-aurora/gin-vue-admin,Go,7
 33258973,influxdata/telegraf,Go,4
-16554739,elastic/beats,Go,6
+16554739,elastic/beats,Go,4
 130430977,kubesphere/kubesphere,Go,6
 66509131,kubernetes/client-go,Go,7
 206213815,chaos-mesh/chaos-mesh,Go,8
-22485114,hashicorp/hcl,Go,5
+22485114,hashicorp/hcl,Go,6
 79585104,matrix-org/dendrite,Go,12
 351486934,gravitl/netmaker,Go,18
 441903012,MichaelCade/90DaysOfDevOps,Go,19
