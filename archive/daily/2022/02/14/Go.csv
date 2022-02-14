@@ -1,8 +1,8 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,33
-20904437,gin-gonic/gin,Go,33
+20580498,kubernetes/kubernetes,Go,38
+20904437,gin-gonic/gin,Go,40
 15452919,ethereum/go-ethereum,Go,30
-29261473,minio/minio,Go,23
+29261473,minio/minio,Go,24
 8989842,unknwon/the-way-to-go_ZH_CN,Go,8
 136815833,Dreamacro/clash,Go,106
 13124802,influxdata/influxdb,Go,11
@@ -10,14 +10,14 @@ id,name,lang,new stars
 26337322,rancher/rancher,Go,11
 29217054,asim/go-micro,Go,12
 6247705,stretchr/testify,Go,11
-285864199,zeromicro/go-zero,Go,28
+285864199,zeromicro/go-zero,Go,48
 5179099,go-redis/redis,Go,6
 205679232,flipped-aurora/gin-vue-admin,Go,12
 33258973,influxdata/telegraf,Go,4
 16554739,elastic/beats,Go,5
-130430977,kubesphere/kubesphere,Go,14
+130430977,kubesphere/kubesphere,Go,16
 66509131,kubernetes/client-go,Go,4
-206213815,chaos-mesh/chaos-mesh,Go,5
+206213815,chaos-mesh/chaos-mesh,Go,8
 22485114,hashicorp/hcl,Go,6
 79585104,matrix-org/dendrite,Go,7
 351486934,gravitl/netmaker,Go,18
