@@ -1,5 +1,5 @@
 id,name,lang,new stars
-569041,curl/curl,C,11
+569041,curl/curl,C,14
 1357796,emscripten-core/emscripten,C,4
 102578345,coolsnowwolf/lede,C,18
 14812739,libuv/libuv,C,1
@@ -8,19 +8,19 @@ id,name,lang,new stars
 480080,openresty/openresty,C,1
 65899476,espressif/esp-idf,C,6
 75811015,Tencent/xLua,C,2
-54280778,DaveGamble/cJSON,C,69
-272457606,jart/cosmopolitan,C,9
+54280778,DaveGamble/cJSON,C,70
+272457606,jart/cosmopolitan,C,10
 105944401,yugabyte/yugabyte-db,C,5
 6376337,pocoproject/poco,C,2
 2755696,mattn/go-sqlite3,C,0
-31791482,microsoft/Windows-driver-samples,C,3
+31791482,microsoft/Windows-driver-samples,C,4
 8180677,libimobiledevice/libimobiledevice,C,3
 6687936,ARMmbed/mbedtls,C,3
-40556106,wazuh/wazuh,C,2
+40556106,wazuh/wazuh,C,3
 29933948,fluent/fluent-bit,C,6
 1613176,tianocore/edk2,C,4
 217654199,microsoft/msquic,C,4
 5092588,eggert/tz,C,2
 127718181,espressif/esp-adf,C,2
-413590276,apple-oss-distributions/dyld,C,40
-120317722,nrfconnect/sdk-zephyr,C,1
+413590276,apple-oss-distributions/dyld,C,38
+120317722,nrfconnect/sdk-zephyr,C,2

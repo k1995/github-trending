@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,69
+1863329,laravel/laravel,PHP,71
 458058,symfony/symfony,PHP,5
-7548986,laravel/framework,PHP,10
+7548986,laravel/framework,PHP,12
 2889328,WordPress/WordPress,PHP,3
 53783664,easychen/howto-make-more-money,PHP,2
 12615154,barryvdh/laravel-debugbar,PHP,6
@@ -9,7 +9,7 @@ id,name,lang,new stars
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
 597887,doctrine/orm,PHP,1
 10371103,Laravel-Lang/lang,PHP,2
-158374929,beyondcode/laravel-websockets,PHP,4
+158374929,beyondcode/laravel-websockets,PHP,3
 2784293,php-amqplib/php-amqplib,PHP,0
 9077725,giggsey/libphonenumber-for-php,PHP,4
 139191005,nunomaduro/larastan,PHP,7

@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,404
+1863329,laravel/laravel,PHP,409
 3482588,danielmiessler/SecLists,PHP,174
 458058,symfony/symfony,PHP,47
 7548986,laravel/framework,PHP,102
@@ -13,8 +13,8 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,33
 6269013,aws/aws-sdk-php,PHP,10
 627735,vrana/adminer,PHP,14
-76064827,mailcow/mailcow-dockerized,PHP,31
-29219291,box/spout,PHP,44
+76064827,mailcow/mailcow-dockerized,PHP,32
+29219291,box/spout,PHP,41
 30367229,LaravelCollective/html,PHP,7
 73781385,orchidsoftware/platform,PHP,28
 248372441,laravel-filament/filament,PHP,105
