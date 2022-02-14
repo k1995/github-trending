@@ -9,7 +9,7 @@ id,name,lang,new stars
 33884891,apache/airflow,Python,23
 262296122,PaddlePaddle/PaddleOCR,Python,21
 145670234,open-mmlab/mmdetection,Python,17
-22844864,matrix-org/synapse,Python,12
+22844864,matrix-org/synapse,Python,10
 103071520,great-expectations/great_expectations,Python,9
 143328315,mindsdb/mindsdb,Python,38
 12550138,PyCQA/isort,Python,13
@@ -20,7 +20,7 @@ id,name,lang,new stars
 141445563,gquere/pwn_jenkins,Python,12
 379581563,jinfagang/yolov7,Python,14
 457073969,mgeeky/PackMyPayload,Python,17
-456573106,Audiobahn/CVE-2022-20699,Python,34
 389461512,patrick-kidger/diffrax,Python,13
+456573106,Audiobahn/CVE-2022-20699,Python,34
 438198027,janvarev/Irene-Voice-Assistant,Python,3
 456510364,SliShady/BingDwenDwen,Python,1
