@@ -1,11 +1,11 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,798
-14125254,hashicorp/consul,Go,458
-56353740,kubernetes/minikube,Go,384
-401025,github/hub,Go,115
-163883279,nektos/act,Go,1074
+11180687,gohugoio/hugo,Go,797
+14125254,hashicorp/consul,Go,460
+56353740,kubernetes/minikube,Go,381
+401025,github/hub,Go,114
+163883279,nektos/act,Go,1075
 41349039,dgraph-io/dgraph,Go,421
-109145553,containers/podman,Go,627
+109145553,containers/podman,Go,628
 75785240,authelia/authelia,Go,440
 16554739,elastic/beats,Go,198
 233130089,charmbracelet/bubbletea,Go,1968
@@ -13,14 +13,14 @@ id,name,lang,new stars
 120896210,argoproj/argo-cd,Go,379
 92313258,cert-manager/cert-manager,Go,196
 67382094,Jguer/yay,Go,294
-367284699,lima-vm/lima,Go,1243
+367284699,lima-vm/lima,Go,1245
 93444615,hashicorp/terraform-provider-aws,Go,154
 237523442,tailscale/tailscale,Go,298
-273871859,juanfont/headscale,Go,387
-318476701,containerd/nerdctl,Go,387
+273871859,juanfont/headscale,Go,389
+318476701,containerd/nerdctl,Go,389
 63882194,projectcalico/calico,Go,123
 79585104,matrix-org/dendrite,Go,195
-441903012,MichaelCade/90DaysOfDevOps,Go,1907
+441903012,MichaelCade/90DaysOfDevOps,Go,1914
 403020531,abiosoft/colima,Go,1310
 192178626,marcel-dempers/docker-development-youtube-series,Go,207
-423466379,V4NSH4J/discord-mass-DM-GO,Go,259
+423466379,V4NSH4J/discord-mass-DM-GO,Go,257
