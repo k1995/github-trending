@@ -1,13 +1,13 @@
 id,name,lang,new stars
 3470471,FortAwesome/Font-Awesome,JavaScript,186
 157616880,iptv-org/iptv,JavaScript,61
-32689863,3b1b/manim,Python,147
+32689863,3b1b/manim,Python,149
 22067521,ocornut/imgui,C++,99
 20619036,pi-hole/pi-hole,Shell,22
-196701619,tauri-apps/tauri,Rust,133
+196701619,tauri-apps/tauri,Rust,123
 85031442,poteto/hiring-without-whiteboards,JavaScript,24
 67702184,topjohnwu/Magisk,C++,27
-306977633,AMAI-GmbH/AI-Expert-Roadmap,JavaScript,308
+306977633,AMAI-GmbH/AI-Expert-Roadmap,JavaScript,295
 299354207,rustdesk/rustdesk,Rust,96
 243838973,fastai/fastbook,Jupyter Notebook,11
 234798675,bevyengine/bevy,Rust,16
@@ -16,7 +16,7 @@ id,name,lang,new stars
 50894333,pi-hole/docker-pi-hole,Shell,1
 128479644,esphome/esphome,C++,2
 234033679,hehonghui/the-economist-ebooks,CSS,18
-302827809,datafuselabs/databend,Rust,16
+302827809,datafuselabs/databend,Rust,14
 38255391,aquasecurity/cloudsploit,JavaScript,4
 365098852,bilibili/ailab,Python,166
 361079646,PaulJuliusMartinez/jless,Rust,147

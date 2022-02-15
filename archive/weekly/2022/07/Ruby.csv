@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,74
+8514,rails/rails,Ruby,73
 13840241,freeCodeCamp/devdocs,Ruby,65
-52281283,mastodon/mastodon,Ruby,91
-481872,hashicorp/vagrant,Ruby,43
+52281283,mastodon/mastodon,Ruby,94
+481872,hashicorp/vagrant,Ruby,42
 308770,heartcombo/devise,Ruby,32
-73648678,forem/forem,Ruby,59
-585285,gollum/gollum,Ruby,24
+73648678,forem/forem,Ruby,60
+585285,gollum/gollum,Ruby,25
 3195124,mperham/sidekiq,Ruby,26
 106995,sinatra/sinatra,Ruby,7
-52855516,Homebrew/homebrew-core,Ruby,36
-1725199,github/linguist,Ruby,34
-812393,ruby-grape/grape,Ruby,8
+52855516,Homebrew/homebrew-core,Ruby,37
+1725199,github/linguist,Ruby,33
+812393,ruby-grape/grape,Ruby,7
 611921,activeadmin/activeadmin,Ruby,10
 6529205,varvet/pundit,Ruby,16
-355893,github/markup,Ruby,4
+355893,github/markup,Ruby,5
 33739333,thoughtbot/administrate,Ruby,8
 1548802,activerecord-hackery/ransack,Ruby,8
 30985840,solidusio/solidus,Ruby,21
@@ -21,6 +21,6 @@ id,name,lang,new stars
 4523235,asciidoctor/asciidoctor,Ruby,20
 1462,ctran/annotate_models,Ruby,20
 46698467,ankane/strong_migrations,Ruby,53
-200302808,github/view_component,Ruby,14
-61203,Shopify/shopify_app,Ruby,2
+200302808,github/view_component,Ruby,15
+61203,Shopify/shopify_app,Ruby,1
 161399160,Shopify/shopify-cli,Ruby,6

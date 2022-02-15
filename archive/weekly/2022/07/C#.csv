@@ -1,16 +1,16 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,407
+184456251,microsoft/PowerToys,C#,406
 7600409,shadowsocks/shadowsocks-windows,C#,84
-17620347,dotnet/aspnetcore,C#,87
+17620347,dotnet/aspnetcore,C#,89
 29078997,dotnet/roslyn,C#,48
-262395224,dotnet/maui,C#,661
+262395224,dotnet/maui,C#,662
 198071756,huiyadanli/RevokeMsgPatcher,C#,198
 46755185,bitwarden/server,C#,61
 75990888,dotnet/csharplang,C#,38
-28232663,dotnet/orleans,C#,21
-210716005,dotnet/runtime,C#,88
-165548191,carlospolop/PEASS-ng,C#,82
-182095352,nilaoda/N_m3u8DL-CLI,C#,99
+28232663,dotnet/orleans,C#,20
+210716005,dotnet/runtime,C#,89
+165548191,carlospolop/PEASS-ng,C#,83
+182095352,nilaoda/N_m3u8DL-CLI,C#,98
 27251463,QuantConnect/Lean,C#,39
 743436,egametang/ET,C#,41
 72174164,SixLabors/ImageSharp,C#,59
@@ -18,9 +18,9 @@ id,name,lang,new stars
 286490065,UnityTechnologies/open-project-1,C#,30
 372096057,Richasy/Bili.Uwp,C#,81
 324473895,leiurayer/downkyi,C#,114
-184286875,actions/runner,C#,33
+184286875,actions/runner,C#,34
 185478059,open-telemetry/opentelemetry-dotnet,C#,16
-398181340,fullstackhero/dotnet-webapi-boilerplate,C#,42
+398181340,fullstackhero/dotnet-webapi-boilerplate,C#,44
 350426188,Sophia-Community/SophiApp,C#,21
-455976796,RumbleMike/Assist,C#,36
+455976796,RumbleMike/Assist,C#,35
 101895131,DataDog/dd-trace-dotnet,C#,1
