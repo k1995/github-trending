@@ -1,17 +1,17 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,436
-3482588,danielmiessler/SecLists,PHP,153
-458058,symfony/symfony,PHP,52
-7548986,laravel/framework,PHP,90
-60243197,nextcloud/server,PHP,106
+3482588,danielmiessler/SecLists,PHP,156
+458058,symfony/symfony,PHP,53
+7548986,laravel/framework,PHP,92
+60243197,nextcloud/server,PHP,103
 1548202,matomo-org/matomo,PHP,55
 82238168,monicahq/monica,PHP,139
-53783664,easychen/howto-make-more-money,PHP,49
+53783664,easychen/howto-make-more-money,PHP,50
 3431193,yiisoft/yii2,PHP,16
 12615154,barryvdh/laravel-debugbar,PHP,42
 8678290,barryvdh/laravel-ide-helper,PHP,31
-23680678,tymondesigns/jwt-auth,PHP,25
-2699935,squizlabs/PHP_CodeSniffer,PHP,26
+23680678,tymondesigns/jwt-auth,PHP,24
+2699935,squizlabs/PHP_CodeSniffer,PHP,28
 14346979,snipe/snipe-it,PHP,30
 159606650,hyperf/hyperf,PHP,31
 158374929,beyondcode/laravel-websockets,PHP,30
@@ -20,7 +20,7 @@ id,name,lang,new stars
 291805291,laravel/jetstream,PHP,22
 13176870,lazychaser/laravel-nestedset,PHP,13
 73781385,orchidsoftware/platform,PHP,23
-248372441,laravel-filament/filament,PHP,77
-69691727,pmmp/PocketMine-MP,PHP,15
+248372441,laravel-filament/filament,PHP,68
+69691727,pmmp/PocketMine-MP,PHP,16
 166299071,archtechx/tenancy,PHP,26
-449622001,PGYER/codefever,PHP,263
+449622001,PGYER/codefever,PHP,207
