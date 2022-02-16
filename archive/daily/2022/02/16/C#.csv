@@ -1,18 +1,18 @@
 id,name,lang,new stars
 64713769,NickeManarin/ScreenToGif,C#,14
 1613345,DapperLib/Dapper,C#,9
-262395224,dotnet/maui,C#,19
-102904613,Unity-Technologies/ml-agents,C#,6
+262395224,dotnet/maui,C#,16
+102904613,Unity-Technologies/ml-agents,C#,7
 46652227,IdentityServer/IdentityServer4,C#,1
 75505125,abpframework/abp,C#,4
 83380995,dotnet-architecture/eShopOnWeb,C#,5
-23315232,mbdavid/LiteDB,C#,12
+23315232,mbdavid/LiteDB,C#,11
 85953,gitextensions/gitextensions,C#,10
 153711945,dotnet/wpf,C#,5
-743436,egametang/ET,C#,6
+743436,egametang/ET,C#,7
 5780416,NLog/NLog,C#,2
 41822320,RicoSuter/NSwag,C#,6
-778828,MassTransit/MassTransit,C#,4
+778828,MassTransit/MassTransit,C#,5
 441460974,wmjordan/PDFPatcher,C#,25
 285618804,Kyome22/RunCat_for_windows,C#,10
 2928944,Azure/azure-sdk-for-net,C#,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 53052789,microsoft/azure-pipelines-agent,C#,1
 334600956,Justin62628/Squirrel-RIFE,Python,16
 156260788,Azure/azure-cosmos-dotnet-v3,C#,1
-161588836,microsoft/PowerPlatformConnectors,C#,3
+161588836,microsoft/PowerPlatformConnectors,C#,2
