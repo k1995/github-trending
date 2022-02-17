@@ -1,15 +1,15 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,837
-7548986,laravel/framework,PHP,360
-60243197,nextcloud/server,PHP,362
-448045,sebastianbergmann/phpunit,PHP,91
+7548986,laravel/framework,PHP,361
+60243197,nextcloud/server,PHP,361
+448045,sebastianbergmann/phpunit,PHP,92
 2253830,PHPMailer/PHPMailer,PHP,157
-2889328,WordPress/WordPress,PHP,139
+2889328,WordPress/WordPress,PHP,140
 82238168,monicahq/monica,PHP,292
 79111500,jupeter/clean-code-php,PHP,165
-2699935,squizlabs/PHP_CodeSniffer,PHP,106
-2179920,woocommerce/woocommerce,PHP,90
-21298446,firefly-iii/firefly-iii,PHP,227
+2699935,squizlabs/PHP_CodeSniffer,PHP,107
+2179920,woocommerce/woocommerce,PHP,91
+21298446,firefly-iii/firefly-iii,PHP,228
 16238673,kanboard/kanboard,PHP,90
 6763587,PrestaShop/PrestaShop,PHP,76
 14346979,snipe/snipe-it,PHP,136
@@ -17,7 +17,7 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,146
 76064827,mailcow/mailcow-dockerized,PHP,153
 439861,moodle/moodle,PHP,61
-291805291,laravel/jetstream,PHP,60
+291805291,laravel/jetstream,PHP,62
 47508644,pterodactyl/panel,PHP,137
 73781385,orchidsoftware/platform,PHP,122
 69691727,pmmp/PocketMine-MP,PHP,60
