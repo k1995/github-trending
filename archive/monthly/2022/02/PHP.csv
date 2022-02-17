@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,838
-7548986,laravel/framework,PHP,363
+1863329,laravel/laravel,PHP,837
+7548986,laravel/framework,PHP,360
 60243197,nextcloud/server,PHP,362
-448045,sebastianbergmann/phpunit,PHP,90
+448045,sebastianbergmann/phpunit,PHP,91
 2253830,PHPMailer/PHPMailer,PHP,157
 2889328,WordPress/WordPress,PHP,139
 82238168,monicahq/monica,PHP,292
-79111500,jupeter/clean-code-php,PHP,166
+79111500,jupeter/clean-code-php,PHP,165
 2699935,squizlabs/PHP_CodeSniffer,PHP,106
 2179920,woocommerce/woocommerce,PHP,90
-21298446,firefly-iii/firefly-iii,PHP,226
+21298446,firefly-iii/firefly-iii,PHP,227
 16238673,kanboard/kanboard,PHP,90
 6763587,PrestaShop/PrestaShop,PHP,76
 14346979,snipe/snipe-it,PHP,136
@@ -21,6 +21,6 @@ id,name,lang,new stars
 47508644,pterodactyl/panel,PHP,137
 73781385,orchidsoftware/platform,PHP,122
 69691727,pmmp/PocketMine-MP,PHP,60
-39182755,glpi-project/glpi,PHP,84
+39182755,glpi-project/glpi,PHP,85
 174021137,inertiajs/pingcrm,PHP,52
 75645659,WordPress/wordpress-develop,PHP,53
