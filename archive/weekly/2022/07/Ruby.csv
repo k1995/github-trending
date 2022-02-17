@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,64
+8514,rails/rails,Ruby,66
 7569578,discourse/discourse,Ruby,81
 13840241,freeCodeCamp/devdocs,Ruby,71
 52281283,mastodon/mastodon,Ruby,80
-481872,hashicorp/vagrant,Ruby,48
-308770,heartcombo/devise,Ruby,30
-3623050,Homebrew/homebrew-cask,Ruby,21
+481872,hashicorp/vagrant,Ruby,46
+308770,heartcombo/devise,Ruby,31
+3623050,Homebrew/homebrew-cask,Ruby,22
 538746,ruby/ruby,Ruby,27
 73648678,forem/forem,Ruby,58
-52855516,Homebrew/homebrew-core,Ruby,52
-1725199,github/linguist,Ruby,30
+52855516,Homebrew/homebrew-core,Ruby,53
+1725199,github/linguist,Ruby,29
 611921,activeadmin/activeadmin,Ruby,7
-451035,heartcombo/simple_form,Ruby,9
-6529205,varvet/pundit,Ruby,20
+451035,heartcombo/simple_form,Ruby,11
+6529205,varvet/pundit,Ruby,19
 2441517,puma/puma,Ruby,12
 355893,github/markup,Ruby,7
 30337170,rmosolgo/graphql-ruby,Ruby,5
