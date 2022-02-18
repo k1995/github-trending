@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,62
 17728164,hashicorp/terraform,Go,26
-61137153,evanw/esbuild,Go,28
+61137153,evanw/esbuild,Go,25
 192632000,dapr/dapr,Go,18
 46806184,helm/charts,Go,3
 33352201,grpc-ecosystem/grpc-gateway,Go,9
@@ -18,8 +18,8 @@ id,name,lang,new stars
 215654064,temporalio/temporal,Go,14
 276822250,oam-dev/kubevela,Go,20
 201546443,trustwallet/assets,Go,14
-202478438,link1st/go-stress-testing,Go,2
-401299493,cdle/sillyGirl,Go,8
+202478438,link1st/go-stress-testing,Go,6
+401299493,cdle/sillyGirl,Go,10
 442078436,heiyeluren/XMM,Go,117
 428363460,MarcoLucidi01/ytcast,Go,56
 451405549,italiaremote/awesome-italia-remote,Go,159
