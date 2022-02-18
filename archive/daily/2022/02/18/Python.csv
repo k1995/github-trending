@@ -4,10 +4,10 @@ id,name,lang,new stars
 319029846,beurtschipper/Depix,Python,62
 21484781,jumpserver/jumpserver,Python,13
 178626720,PyTorchLightning/pytorch-lightning,Python,12
-349321229,TencentARC/GFPGAN,Python,10
+349321229,TencentARC/GFPGAN,Python,11
 168799526,rwightman/pytorch-image-models,Python,27
 101782647,pytorch/fairseq,Python,30
-7053637,python/mypy,Python,88
+7053637,python/mypy,Python,90
 250213286,huggingface/datasets,Python,182
 90194616,samuelcolvin/pydantic,Python,27
 69648386,OWASP/owasp-mstg,Python,10
@@ -20,7 +20,7 @@ id,name,lang,new stars
 365098852,bilibili/ailab,Python,234
 4127088,Azure/azure-sdk-for-python,Python,5
 241296160,deepmind/dm-haiku,Python,3
-334412452,obss/sahi,Python,112
+334412452,obss/sahi,Python,113
 431546588,facebookresearch/Mask2Former,Python,2
 458976157,4ra1n/JavaSecInterview,Python,174
 459508869,antx-code/CVE-2022-22536,Python,7
