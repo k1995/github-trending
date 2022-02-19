@@ -1,20 +1,20 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,71
-7569578,discourse/discourse,Ruby,80
+7569578,discourse/discourse,Ruby,79
 53238813,Homebrew/brew,Ruby,119
-13840241,freeCodeCamp/devdocs,Ruby,77
-52281283,mastodon/mastodon,Ruby,73
-2293158,rapid7/metasploit-framework,Ruby,85
-308770,heartcombo/devise,Ruby,32
+13840241,freeCodeCamp/devdocs,Ruby,78
+52281283,mastodon/mastodon,Ruby,72
+2293158,rapid7/metasploit-framework,Ruby,84
+308770,heartcombo/devise,Ruby,31
 73648678,forem/forem,Ruby,50
 1090311,elastic/logstash,Ruby,13
-3195124,mperham/sidekiq,Ruby,31
+3195124,mperham/sidekiq,Ruby,30
 52855516,Homebrew/homebrew-core,Ruby,55
 812393,ruby-grape/grape,Ruby,8
-6529205,varvet/pundit,Ruby,19
-910744,puppetlabs/puppet,Ruby,8
+6529205,varvet/pundit,Ruby,18
+910744,puppetlabs/puppet,Ruby,6
 211588,paper-trail-gem/paper_trail,Ruby,9
-30337170,rmosolgo/graphql-ruby,Ruby,9
+30337170,rmosolgo/graphql-ruby,Ruby,8
 1462,ctran/annotate_models,Ruby,10
 950915,urbanadventurer/WhatWeb,Ruby,17
 46698467,ankane/strong_migrations,Ruby,49
@@ -22,5 +22,5 @@ id,name,lang,new stars
 12357002,ondrejbartas/sidekiq-cron,Ruby,6
 17228890,Shopify/shipit-engine,Ruby,4
 161399160,Shopify/shopify-cli,Ruby,11
-407852490,rails/propshaft,Ruby,65
+407852490,rails/propshaft,Ruby,63
 66497320,DataDog/dd-trace-rb,Ruby,2
