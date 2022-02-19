@@ -1,19 +1,19 @@
 id,name,lang,new stars
 1864363,composer/composer,PHP,9
 1420053,guzzle/guzzle,PHP,1
-448045,sebastianbergmann/phpunit,PHP,4
-2253830,PHPMailer/PHPMailer,PHP,107
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,6
-42480275,spatie/laravel-permission,PHP,9
+448045,sebastianbergmann/phpunit,PHP,5
+2253830,PHPMailer/PHPMailer,PHP,120
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,5
+42480275,spatie/laravel-permission,PHP,7
 137515,mockery/mockery,PHP,3
-2884111,magento/magento2,PHP,3
+2884111,magento/magento2,PHP,5
 2699935,squizlabs/PHP_CodeSniffer,PHP,4
 597887,doctrine/orm,PHP,3
 11340559,deployphp/deployer,PHP,1
-622166,FriendsOfPHP/Goutte,PHP,1
-6660366,dompdf/dompdf,PHP,6
+622166,FriendsOfPHP/Goutte,PHP,0
+6660366,dompdf/dompdf,PHP,4
 677464,doctrine/dbal,PHP,3
-10238429,tennc/webshell,PHP,3
+10238429,tennc/webshell,PHP,2
 2179920,woocommerce/woocommerce,PHP,2
 31295421,guzzle/psr7,PHP,2
 31295389,guzzle/promises,PHP,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 4551765,thephpleague/oauth2-server,PHP,3
 14346979,snipe/snipe-it,PHP,12
 60010673,elementor/elementor,PHP,3
-131995661,shopware/platform,PHP,2
-155852027,uvdesk/community-skeleton,PHP,5
+131995661,shopware/platform,PHP,1
+155852027,uvdesk/community-skeleton,PHP,3
