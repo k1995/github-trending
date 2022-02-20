@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,66
-7569578,discourse/discourse,Ruby,77
-53238813,Homebrew/brew,Ruby,109
-13840241,freeCodeCamp/devdocs,Ruby,80
-52281283,mastodon/mastodon,Ruby,71
+8514,rails/rails,Ruby,65
+7569578,discourse/discourse,Ruby,74
+53238813,Homebrew/brew,Ruby,110
+13840241,freeCodeCamp/devdocs,Ruby,79
+52281283,mastodon/mastodon,Ruby,70
 538746,ruby/ruby,Ruby,25
 73648678,forem/forem,Ruby,48
-1090311,elastic/logstash,Ruby,15
+1090311,elastic/logstash,Ruby,16
 3195124,mperham/sidekiq,Ruby,30
 106995,sinatra/sinatra,Ruby,11
 52855516,Homebrew/homebrew-core,Ruby,60
@@ -17,10 +17,10 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,9
 38867,svenfuchs/rails-i18n,Ruby,4
 950915,urbanadventurer/WhatWeb,Ruby,18
-46698467,ankane/strong_migrations,Ruby,36
+46698467,ankane/strong_migrations,Ruby,33
 93163073,dependabot/dependabot-core,Ruby,20
-12357002,ondrejbartas/sidekiq-cron,Ruby,6
+12357002,ondrejbartas/sidekiq-cron,Ruby,5
 61203,Shopify/shopify_app,Ruby,0
-161399160,Shopify/shopify-cli,Ruby,12
-407852490,rails/propshaft,Ruby,51
+161399160,Shopify/shopify-cli,Ruby,13
+407852490,rails/propshaft,Ruby,50
 66497320,DataDog/dd-trace-rb,Ruby,2
