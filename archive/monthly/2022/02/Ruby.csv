@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,337
-65252,jekyll/jekyll,Ruby,266
+65252,jekyll/jekyll,Ruby,267
 7569578,discourse/discourse,Ruby,264
-8681349,huginn/huginn,Ruby,1853
+8681349,huginn/huginn,Ruby,1854
 27442967,fastlane/fastlane,Ruby,647
-53238813,Homebrew/brew,Ruby,465
+53238813,Homebrew/brew,Ruby,464
 52281283,mastodon/mastodon,Ruby,312
-481872,hashicorp/vagrant,Ruby,185
+481872,hashicorp/vagrant,Ruby,184
 308770,heartcombo/devise,Ruby,103
-3623050,Homebrew/homebrew-cask,Ruby,114
+3623050,Homebrew/homebrew-cask,Ruby,115
 3195124,mperham/sidekiq,Ruby,98
 106995,sinatra/sinatra,Ruby,42
 52855516,Homebrew/homebrew-core,Ruby,181
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1314319,instructure/canvas-lms,Ruby,54
 2050163,aws/aws-sdk-ruby,Ruby,13
 11426474,github/choosealicense.com,Ruby,60
-93163073,dependabot/dependabot-core,Ruby,73
-10088951,TheOdinProject/theodinproject,Ruby,62
+93163073,dependabot/dependabot-core,Ruby,74
+10088951,TheOdinProject/theodinproject,Ruby,63
 403641521,rails/jsbundling-rails,Ruby,59
