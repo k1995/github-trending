@@ -1,7 +1,7 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,47
 11180687,gohugoio/hugo,Go,29
-41912791,v2ray/v2ray-core,Go,13
+41912791,v2ray/v2ray-core,Go,11
 61137153,evanw/esbuild,Go,93
 212613049,cli/cli,Go,8
 56353740,kubernetes/minikube,Go,10
@@ -10,10 +10,10 @@ id,name,lang,new stars
 109145553,containers/podman,Go,13
 180687624,aquasecurity/trivy,Go,19
 233130089,charmbracelet/bubbletea,Go,24
-32575637,ginuerzh/gost,Go,9
+32575637,ginuerzh/gost,Go,12
 246903803,earthly/earthly,Go,30
 413918947,vercel/turborepo,Go,30
-140412864,kgretzky/evilginx2,Go,43
+140412864,kgretzky/evilginx2,Go,48
 301830590,benbjohnson/litestream,Go,8
 281694167,Mrs4s/go-cqhttp,Go,10
 162460220,drk1wi/Modlishka,Go,23
@@ -21,6 +21,6 @@ id,name,lang,new stars
 323965659,Xhofe/alist,Go,29
 192178626,marcel-dempers/docker-development-youtube-series,Go,11
 193681111,filecoin-project/lotus,Go,34
-201546443,trustwallet/assets,Go,8
+201546443,trustwallet/assets,Go,26
 135951540,stashapp/stash,Go,2
 423466379,V4NSH4J/discord-mass-DM-GO,Go,12
