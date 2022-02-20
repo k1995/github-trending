@@ -1,15 +1,15 @@
 id,name,lang,new stars
-22067521,ocornut/imgui,C++,81
+22067521,ocornut/imgui,C++,80
 39840932,google/googletest,C++,65
 116167731,yuzu-emu/yuzu,C++,15
 4279682,fish-shell/fish-shell,C++,17
 40892817,ethereum/solidity,C++,31
 2200856,MarlinFirmware/Marlin,C++,5
-186309296,lettier/3d-game-shaders-for-beginners,C++,58
+186309296,lettier/3d-game-shaders-for-beginners,C++,57
 106558568,doitsujin/dxvk,C++,6
-32944298,Z3Prover/z3,C++,2
-131236938,drogonframework/drogon,C++,7
-11986447,xournalpp/xournalpp,C++,9
+32944298,Z3Prover/z3,C++,3
+131236938,drogonframework/drogon,C++,4
+11986447,xournalpp/xournalpp,C++,5
 3386088,NixOS/nix,C++,8
 189205663,qinguoyi/TinyWebServer,C++,13
 1049088,openscad/openscad,C++,5
@@ -17,10 +17,10 @@ id,name,lang,new stars
 1182756,mosra/magnum,C++,4
 320921453,yamashi/CyberEngineTweaks,C++,11
 58168143,PixarAnimationStudios/USD,C++,6
-29811166,JonathanSalwan/Triton,C++,7
+29811166,JonathanSalwan/Triton,C++,8
 150774287,danielkrupinski/Osiris,C++,3
 409109530,vooidzero/B23Downloader,C++,60
-202277409,contour-terminal/contour,C++,16
+202277409,contour-terminal/contour,C++,12
 414548115,DISTRHO/Cardinal,C++,13
-397504146,rutura/The-C-20-Masterclass-Source-Code,C++,23
+397504146,rutura/The-C-20-Masterclass-Source-Code,C++,24
 460823945,midisec/BypassAnti-Virus,C++,12
