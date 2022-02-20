@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,241
+1863329,laravel/laravel,PHP,237
 3482588,danielmiessler/SecLists,PHP,163
-7548986,laravel/framework,PHP,136
+7548986,laravel/framework,PHP,141
 1420053,guzzle/guzzle,PHP,26
-60243197,nextcloud/server,PHP,103
-2253830,PHPMailer/PHPMailer,PHP,157
+60243197,nextcloud/server,PHP,105
+2253830,PHPMailer/PHPMailer,PHP,160
 2889328,WordPress/WordPress,PHP,36
 82238168,monicahq/monica,PHP,160
 53783664,easychen/howto-make-more-money,PHP,25
@@ -14,13 +14,13 @@ id,name,lang,new stars
 212659,sebastianbergmann/php-code-coverage,PHP,15
 14346979,snipe/snipe-it,PHP,44
 97311017,rectorphp/rector,PHP,32
-158374929,beyondcode/laravel-websockets,PHP,16
+158374929,beyondcode/laravel-websockets,PHP,15
 2464908,joomla/joomla-cms,PHP,29
 62087941,nWidart/laravel-modules,PHP,19
 265782973,hlmd/Postman-cn,PHP,70
 291805291,laravel/jetstream,PHP,29
-39182755,glpi-project/glpi,PHP,21
+39182755,glpi-project/glpi,PHP,22
 204114509,solstice23/argon-theme,PHP,36
 131995661,shopware/platform,PHP,55
-57463067,AzuraCast/AzuraCast,PHP,27
-189104054,laravel/ui,PHP,28
+57463067,AzuraCast/AzuraCast,PHP,21
+189104054,laravel/ui,PHP,27
