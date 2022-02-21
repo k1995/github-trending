@@ -1,10 +1,10 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,73
+7569578,discourse/discourse,Ruby,72
 53238813,Homebrew/brew,Ruby,103
 13840241,freeCodeCamp/devdocs,Ruby,77
 52281283,mastodon/mastodon,Ruby,64
 538746,ruby/ruby,Ruby,27
-73648678,forem/forem,Ruby,45
+73648678,forem/forem,Ruby,46
 1090311,elastic/logstash,Ruby,19
 18486300,lewagon/setup,Ruby,44
 52855516,Homebrew/homebrew-core,Ruby,62
@@ -22,5 +22,5 @@ id,name,lang,new stars
 34840276,elastic/ansible-elasticsearch,Ruby,1
 161399160,Shopify/shopify-cli,Ruby,12
 13247147,pedrib/PoC,Ruby,23
-407852490,rails/propshaft,Ruby,53
+407852490,rails/propshaft,Ruby,52
 66497320,DataDog/dd-trace-rb,Ruby,2
