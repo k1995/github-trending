@@ -1,17 +1,17 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,764
+9384267,electron/electron,C++,762
 100060912,microsoft/terminal,C++,1438
 22067521,ocornut/imgui,C++,1609
-39840932,google/googletest,C++,424
+39840932,google/googletest,C++,426
 67702184,topjohnwu/Magisk,C++,1180
 6934395,facebook/rocksdb,C++,267
-116167731,yuzu-emu/yuzu,C++,1527
+116167731,yuzu-emu/yuzu,C++,1529
 74660642,taichi-dev/taichi,C++,450
-160083795,SerenityOS/serenity,C++,915
+160083795,SerenityOS/serenity,C++,916
 19953044,google/flatbuffers,C++,192
-90902132,flameshot-org/flameshot,C++,664
-33014811,notepad-plus-plus/notepad-plus-plus,C++,287
-40892817,ethereum/solidity,C++,681
+90902132,flameshot-org/flameshot,C++,666
+33014811,notepad-plus-plus/notepad-plus-plus,C++,286
+40892817,ethereum/solidity,C++,684
 1062572,catchorg/Catch2,C++,151
 51905353,apache/arrow,C++,207
 235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,411
@@ -21,6 +21,6 @@ id,name,lang,new stars
 329265231,kdrag0n/safetynet-fix,C++,645
 150774287,danielkrupinski/Osiris,C++,198
 110198384,brave/brave-core,C++,73
-409109530,vooidzero/B23Downloader,C++,1109
-284887921,ic005k/OCAuxiliaryTools,C++,106
-404804373,scrtwpns/pigment-mixing,C++,551
+409109530,vooidzero/B23Downloader,C++,1110
+284887921,ic005k/OCAuxiliaryTools,C++,107
+404804373,scrtwpns/pigment-mixing,C++,542
