@@ -1,26 +1,26 @@
 id,name,lang,new stars
 28457823,freeCodeCamp/freeCodeCamp,JavaScript,202
-83222441,donnemartin/system-design-primer,Python,197
-16408992,neovim/neovim,Vim script,57
-71220757,swisskyrepo/PayloadsAllTheThings,Python,150
+83222441,donnemartin/system-design-primer,Python,305
+16408992,neovim/neovim,Vim script,82
+71220757,swisskyrepo/PayloadsAllTheThings,Python,82
 214587193,supabase/supabase,TypeScript,90
-57222302,openai/gym,Python,31
-39840932,google/googletest,C++,61
-319029846,beurtschipper/Depix,Python,101
-299482335,withfig/autocomplete,TypeScript,111
-316836816,saadeghi/daisyui,Svelte,196
+57222302,openai/gym,Python,65
+39840932,google/googletest,C++,60
+319029846,beurtschipper/Depix,Python,102
+299482335,withfig/autocomplete,TypeScript,216
+316836816,saadeghi/daisyui,Svelte,214
 1856976,libevent/libevent,C,69
-165522651,emilk/egui,Rust,28
-7517918,spring-projects/spring-petclinic,CSS,33
+165522651,emilk/egui,Rust,55
 243950408,Anduin2017/HowToCook,,877
-444886996,NVlabs/instant-ngp,Cuda,244
-83160811,littlefs-project/littlefs,C,93
-420161012,BishopFox/unredacter,TypeScript,312
-74583692,odin-lang/Odin,Odin,195
-192521247,metowolf/vCards,JavaScript,38
-201546443,trustwallet/assets,Go,43
-284947581,harmonoid/harmonoid,Dart,78
-460514332,lwthiker/curl-impersonate,Dockerfile,104
-423775360,openvinotoolkit/anomalib,Python,72
-460506872,iranremote/awesome-iran-remote,,31
-453512526,cryptotwinsbr/spacecrypto-bot,Python,20
+7517918,spring-projects/spring-petclinic,CSS,50
+444886996,NVlabs/instant-ngp,Cuda,268
+83160811,littlefs-project/littlefs,C,92
+420161012,BishopFox/unredacter,TypeScript,351
+74583692,odin-lang/Odin,Odin,163
+192521247,metowolf/vCards,JavaScript,52
+201546443,trustwallet/assets,Go,42
+284947581,harmonoid/harmonoid,Dart,41
+460514332,lwthiker/curl-impersonate,Dockerfile,105
+423775360,openvinotoolkit/anomalib,Python,97
+460506872,iranremote/awesome-iran-remote,,36
+453512526,cryptotwinsbr/spacecrypto-bot,Python,35

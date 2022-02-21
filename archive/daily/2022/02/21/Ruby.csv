@@ -1,17 +1,17 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,16
+65252,jekyll/jekyll,Ruby,13
 8681349,huginn/huginn,Ruby,17
 52281283,mastodon/mastodon,Ruby,13
-2293158,rapid7/metasploit-framework,Ruby,7
-2500088,gitlabhq/gitlabhq,Ruby,3
+2293158,rapid7/metasploit-framework,Ruby,9
+2500088,gitlabhq/gitlabhq,Ruby,2
 308770,heartcombo/devise,Ruby,2
-37382858,kilimchoi/engineering-blogs,Ruby,11
-538746,ruby/ruby,Ruby,6
-73648678,forem/forem,Ruby,9
+37382858,kilimchoi/engineering-blogs,Ruby,12
+538746,ruby/ruby,Ruby,5
+73648678,forem/forem,Ruby,10
 1090311,elastic/logstash,Ruby,3
-18486300,lewagon/setup,Ruby,2
-1918677,fluent/fluentd,Ruby,3
-15435,Shopify/liquid,Ruby,3
+18486300,lewagon/setup,Ruby,3
+1918677,fluent/fluentd,Ruby,6
+15435,Shopify/liquid,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,1
 108278,chef/chef,Ruby,1
 39706711,hartator/wayback-machine-downloader,Ruby,0
