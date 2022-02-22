@@ -1,13 +1,13 @@
 id,name,lang,new stars
 13840241,freeCodeCamp/devdocs,Ruby,72
-2293158,rapid7/metasploit-framework,Ruby,81
-538746,ruby/ruby,Ruby,26
-73648678,forem/forem,Ruby,46
+2293158,rapid7/metasploit-framework,Ruby,79
+538746,ruby/ruby,Ruby,25
+73648678,forem/forem,Ruby,45
 1090311,elastic/logstash,Ruby,17
 18486300,lewagon/setup,Ruby,13
-106995,sinatra/sinatra,Ruby,12
+106995,sinatra/sinatra,Ruby,13
 52855516,Homebrew/homebrew-core,Ruby,69
-810796,railsadminteam/rails_admin,Ruby,11
+810796,railsadminteam/rails_admin,Ruby,12
 6529205,varvet/pundit,Ruby,14
 21829,thoughtbot/factory_bot,Ruby,13
 2441517,puma/puma,Ruby,28
@@ -21,6 +21,6 @@ id,name,lang,new stars
 12357002,ondrejbartas/sidekiq-cron,Ruby,4
 34840276,elastic/ansible-elasticsearch,Ruby,1
 161399160,Shopify/shopify-cli,Ruby,10
-13247147,pedrib/PoC,Ruby,15
+13247147,pedrib/PoC,Ruby,14
 407852490,rails/propshaft,Ruby,55
 66497320,DataDog/dd-trace-rb,Ruby,2
