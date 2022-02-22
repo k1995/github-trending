@@ -1,12 +1,12 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,9
+27442967,fastlane/fastlane,Ruby,8
 52281283,mastodon/mastodon,Ruby,27
-481872,hashicorp/vagrant,Ruby,9
-308770,heartcombo/devise,Ruby,6
-202291859,chatwoot/chatwoot,Ruby,8
-1918677,fluent/fluentd,Ruby,5
+481872,hashicorp/vagrant,Ruby,7
+308770,heartcombo/devise,Ruby,8
+202291859,chatwoot/chatwoot,Ruby,7
+1918677,fluent/fluentd,Ruby,3
 611921,activeadmin/activeadmin,Ruby,1
-6529205,varvet/pundit,Ruby,5
+6529205,varvet/pundit,Ruby,6
 587311,omniauth/omniauth,Ruby,0
 21829,thoughtbot/factory_bot,Ruby,1
 108278,chef/chef,Ruby,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,3
 46698467,ankane/strong_migrations,Ruby,5
 9500075,ytti/oxidized,Ruby,0
-572993,rubyconfig/config,Ruby,9
+572993,rubyconfig/config,Ruby,10
 10088951,TheOdinProject/theodinproject,Ruby,5
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,2
 29151578,rswag/rswag,Ruby,3
-65914086,decidim/decidim,Ruby,0
+65914086,decidim/decidim,Ruby,1
 15820215,asciidoctor/asciidoctor-pdf,Ruby,1
-445702063,fatkodima/online_migrations,Ruby,9
+445702063,fatkodima/online_migrations,Ruby,10
