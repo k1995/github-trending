@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,11
+8514,rails/rails,Ruby,10
 65252,jekyll/jekyll,Ruby,11
-7569578,discourse/discourse,Ruby,11
-8681349,huginn/huginn,Ruby,12
-21600440,bayandin/awesome-awesomeness,Ruby,4
-52281283,mastodon/mastodon,Ruby,24
+7569578,discourse/discourse,Ruby,12
+8681349,huginn/huginn,Ruby,11
+21600440,bayandin/awesome-awesomeness,Ruby,3
+52281283,mastodon/mastodon,Ruby,25
 2293158,rapid7/metasploit-framework,Ruby,10
 2500088,gitlabhq/gitlabhq,Ruby,0
 308770,heartcombo/devise,Ruby,3
-37382858,kilimchoi/engineering-blogs,Ruby,6
-538746,ruby/ruby,Ruby,3
-73648678,forem/forem,Ruby,9
+37382858,kilimchoi/engineering-blogs,Ruby,7
+538746,ruby/ruby,Ruby,2
+73648678,forem/forem,Ruby,8
 2203645,CocoaPods/CocoaPods,Ruby,1
 1090311,elastic/logstash,Ruby,2
 3314,spree/spree,Ruby,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 10088951,TheOdinProject/theodinproject,Ruby,4
 229187949,shivammathur/homebrew-php,Ruby,1
 8154497,rubysec/ruby-advisory-db,Ruby,0
-445702063,fatkodima/online_migrations,Ruby,28
+445702063,fatkodima/online_migrations,Ruby,24
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
 347104680,learn-co-curriculum/phase-3-parrot-ruby,Ruby,0
 347103250,learn-co-curriculum/phase-3-countdown-to-midnight,Ruby,0
