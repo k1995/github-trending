@@ -1,10 +1,10 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,17
-60243197,nextcloud/server,PHP,16
+3482588,danielmiessler/SecLists,PHP,19
+60243197,nextcloud/server,PHP,15
 448045,sebastianbergmann/phpunit,PHP,0
-61490598,PHPOffice/PhpSpreadsheet,PHP,2
+61490598,PHPOffice/PhpSpreadsheet,PHP,4
 14259390,SpartnerNL/Laravel-Excel,PHP,2
-622166,FriendsOfPHP/Goutte,PHP,2
+622166,FriendsOfPHP/Goutte,PHP,1
 14716368,invoiceninja/invoiceninja,PHP,5
 4242230,PHPOffice/PHPWord,PHP,4
 13612575,fruitcake/laravel-cors,PHP,1
@@ -14,13 +14,13 @@ id,name,lang,new stars
 18842338,facebookarchive/php-graph-sdk,PHP,2
 38200433,jeroennoten/Laravel-AdminLTE,PHP,1
 248372441,laravel-filament/filament,PHP,13
-166299071,archtechx/tenancy,PHP,13
+166299071,archtechx/tenancy,PHP,12
 3193843,drush-ops/drush,PHP,1
 17722440,Rudloff/alltube,PHP,2
-75645659,WordPress/wordpress-develop,PHP,0
+75645659,WordPress/wordpress-develop,PHP,1
 449622001,PGYER/codefever,PHP,12
 404921727,luolongfei/freenom,PHP,3
 407215279,novaspirit/pi-hosted,PHP,5
-453952491,worksome/envy,PHP,13
+453952491,worksome/envy,PHP,12
 432587463,cckuailong/reapoc,PHP,0
-450457021,hmones/laravel-digest,PHP,8
+450457021,hmones/laravel-digest,PHP,7

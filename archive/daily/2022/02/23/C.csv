@@ -12,7 +12,7 @@ id,name,lang,new stars
 44781140,greenplum-db/gpdb,C,6
 130578889,pymumu/smartdns,C,12
 6687936,ARMmbed/mbedtls,C,1
-40556106,wazuh/wazuh,C,11
+40556106,wazuh/wazuh,C,13
 29933948,fluent/fluent-bit,C,1
 39760454,libjpeg-turbo/libjpeg-turbo,C,1
 117704656,remzi-arpacidusseau/ostep-projects,C,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 203759896,immortalwrt/immortalwrt,C,4
 106411071,helloexp/0day,C,43
 461355119,Cracked5pider/ShellcodeTemplate,C,23
-460881511,parsdefense/CVE-2021-1965,C,18
+460881511,parsdefense/CVE-2021-1965,C,17
 461042486,pedker/OLED-BongoCat-Revision,C,13
 458937061,billziss-gh/arduino-6502ctl,C,6
