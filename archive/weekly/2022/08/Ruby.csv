@@ -1,20 +1,20 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,70
 13840241,freeCodeCamp/devdocs,Ruby,69
-52281283,mastodon/mastodon,Ruby,170
-2293158,rapid7/metasploit-framework,Ruby,75
-308770,heartcombo/devise,Ruby,28
+52281283,mastodon/mastodon,Ruby,171
+2293158,rapid7/metasploit-framework,Ruby,74
+308770,heartcombo/devise,Ruby,29
 538746,ruby/ruby,Ruby,20
 73648678,forem/forem,Ruby,48
 1090311,elastic/logstash,Ruby,13
 3314,spree/spree,Ruby,16
 3195124,mperham/sidekiq,Ruby,34
-52855516,Homebrew/homebrew-core,Ruby,62
-810796,railsadminteam/rails_admin,Ruby,12
+52855516,Homebrew/homebrew-core,Ruby,59
+810796,railsadminteam/rails_admin,Ruby,13
 6529205,varvet/pundit,Ruby,19
 21829,thoughtbot/factory_bot,Ruby,12
 22059578,ankane/pghero,Ruby,15
-5160706,bkeepers/dotenv,Ruby,9
+5160706,bkeepers/dotenv,Ruby,8
 33739333,thoughtbot/administrate,Ruby,8
 52316423,luggit/react-native-config,Ruby,12
 38867,svenfuchs/rails-i18n,Ruby,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 10088951,TheOdinProject/theodinproject,Ruby,17
 12357002,ondrejbartas/sidekiq-cron,Ruby,3
 61203,Shopify/shopify_app,Ruby,0
-407852490,rails/propshaft,Ruby,56
+407852490,rails/propshaft,Ruby,55
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
