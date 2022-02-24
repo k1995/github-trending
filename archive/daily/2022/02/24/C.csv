@@ -1,11 +1,11 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,143
-102578345,coolsnowwolf/lede,C,16
-7634677,openssl/openssl,C,7
+10744183,netdata/netdata,C,128
+102578345,coolsnowwolf/lede,C,15
+7634677,openssl/openssl,C,10
 34921116,iovisor/bcc,C,11
 84240850,timescale/timescaledb,C,29
 35517126,borgbackup/borg,C,12
-54280778,DaveGamble/cJSON,C,8
+54280778,DaveGamble/cJSON,C,7
 13310527,jemalloc/jemalloc,C,4
 1979797,FreeRDP/FreeRDP,C,8
 105944401,yugabyte/yugabyte-db,C,6
@@ -13,14 +13,14 @@ id,name,lang,new stars
 44781140,greenplum-db/gpdb,C,3
 6687936,ARMmbed/mbedtls,C,1
 8046269,warmcat/libwebsockets,C,2
-40556106,wazuh/wazuh,C,6
+40556106,wazuh/wazuh,C,5
 29933948,fluent/fluent-bit,C,1
 287706896,Tencent/puerts,C,9
-3276860,ThrowTheSwitch/Unity,C,3
+3276860,ThrowTheSwitch/Unity,C,2
 39042157,spdk/spdk,C,4
 438857216,easychen/pushdeer,C,19
 15333809,open62541/open62541,C,1
-149233191,binbyu/Reader,C,1
+149233191,binbyu/Reader,C,4
 106411071,helloexp/0day,C,33
-122687054,FDOS/kernel,C,9
-406925846,dekuNukem/USB4VC,C,5
+122687054,FDOS/kernel,C,11
+406925846,dekuNukem/USB4VC,C,6
