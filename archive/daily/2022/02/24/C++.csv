@@ -1,18 +1,18 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,41
+45717250,tensorflow/tensorflow,C++,42
 9384267,electron/electron,C++,37
 5108051,opencv/opencv,C++,29
-65600975,pytorch/pytorch,C++,30
+65600975,pytorch/pytorch,C++,31
 120887835,huihut/interview,C++,48
 60246359,ClickHouse/ClickHouse,C++,25
 4524181,facebook/folly,C++,15
-18503721,facebook/yoga,C++,4
+18503721,facebook/yoga,C++,3
 102343794,apache/incubator-brpc,C++,6
-81887991,microsoft/AirSim,C++,4
+81887991,microsoft/AirSim,C++,3
 38581626,pybind/pybind11,C++,7
 8162615,PointCloudLibrary/pcl,C++,6
 299510783,rui314/mold,C++,50
-15122806,google/benchmark,C++,5
+15122806,google/benchmark,C++,6
 1690480,qgis/QGIS,C++,4
 119961591,linyacool/WebServer,C++,4
 67641996,oneapi-src/oneTBB,C++,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 208145128,google/iree,C++,11
 114006193,deepmodeling/deepmd-kit,C++,2
 241597051,encrypted-def/basic-algo-lecture,C++,2
-460823945,midisec/BypassAnti-Virus,C++,91
-366986186,tildearrow/furnace,C++,9
-377337761,LSPosed/LSPlant,C++,9
+460823945,midisec/BypassAnti-Virus,C++,90
+366986186,tildearrow/furnace,C++,5
+377337761,LSPosed/LSPlant,C++,8

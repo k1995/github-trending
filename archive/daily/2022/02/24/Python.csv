@@ -1,8 +1,8 @@
 id,name,lang,new stars
-160919119,tiangolo/fastapi,Python,77
+160919119,tiangolo/fastapi,Python,83
 220809393,Textualize/rich,Python,40
 71220757,swisskyrepo/PayloadsAllTheThings,Python,127
-74627617,commaai/openpilot,Python,209
+74627617,commaai/openpilot,Python,207
 4578002,faif/python-patterns,Python,51
 33884891,apache/airflow,Python,29
 307260205,yt-dlp/yt-dlp,Python,68
@@ -14,9 +14,9 @@ id,name,lang,new stars
 131881622,NVIDIA/DeepLearningExamples,Python,20
 72473727,kubernetes-client/python,Python,7
 167349656,FederatedAI/FATE,Python,13
-321659062,iperov/DeepFaceLive,Python,85
-379581563,jinfagang/yolov7,Python,13
-460464085,danielbeach/data-engineering-practice,Python,52
+321659062,iperov/DeepFaceLive,Python,123
+379581563,jinfagang/yolov7,Python,15
+460464085,danielbeach/data-engineering-practice,Python,56
 451600935,SkywalkerJi/mdt,Python,11
 454114715,yuval-alaluf/stylegan3-editing,Python,15
 443531336,carlospolop/PurplePanda,Python,12
