@@ -1,18 +1,18 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,68
-13840241,freeCodeCamp/devdocs,Ruby,68
+65252,jekyll/jekyll,Ruby,69
+13840241,freeCodeCamp/devdocs,Ruby,71
 52281283,mastodon/mastodon,Ruby,181
-2293158,rapid7/metasploit-framework,Ruby,76
-2500088,gitlabhq/gitlabhq,Ruby,13
-538746,ruby/ruby,Ruby,21
+2293158,rapid7/metasploit-framework,Ruby,75
+2500088,gitlabhq/gitlabhq,Ruby,12
+538746,ruby/ruby,Ruby,20
 73648678,forem/forem,Ruby,47
 1090311,elastic/logstash,Ruby,17
-3314,spree/spree,Ruby,18
+3314,spree/spree,Ruby,17
 1918677,fluent/fluentd,Ruby,25
 611921,activeadmin/activeadmin,Ruby,6
 810796,railsadminteam/rails_admin,Ruby,9
 6529205,varvet/pundit,Ruby,18
-21829,thoughtbot/factory_bot,Ruby,11
+21829,thoughtbot/factory_bot,Ruby,9
 108278,chef/chef,Ruby,10
 4994614,wpscanteam/wpscan,Ruby,21
 22059578,ankane/pghero,Ruby,15
@@ -22,5 +22,5 @@ id,name,lang,new stars
 10088951,TheOdinProject/theodinproject,Ruby,15
 12357002,ondrejbartas/sidekiq-cron,Ruby,4
 61203,Shopify/shopify_app,Ruby,0
-407852490,rails/propshaft,Ruby,52
+407852490,rails/propshaft,Ruby,50
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
