@@ -1,8 +1,8 @@
 id,name,lang,new stars
 160919119,tiangolo/fastapi,Python,83
-220809393,Textualize/rich,Python,40
-71220757,swisskyrepo/PayloadsAllTheThings,Python,127
-74627617,commaai/openpilot,Python,207
+220809393,Textualize/rich,Python,44
+71220757,swisskyrepo/PayloadsAllTheThings,Python,90
+74627617,commaai/openpilot,Python,191
 4578002,faif/python-patterns,Python,51
 33884891,apache/airflow,Python,29
 307260205,yt-dlp/yt-dlp,Python,68
@@ -20,7 +20,7 @@ id,name,lang,new stars
 451600935,SkywalkerJi/mdt,Python,11
 454114715,yuval-alaluf/stylegan3-editing,Python,15
 443531336,carlospolop/PurplePanda,Python,12
-461353485,J0hnbX/RedTeam-Resources,Python,54
+461353485,J0hnbX/RedTeam-Resources,Python,84
 408700430,gokulapap/Reconator,Python,13
 458961766,brohrer/sharpened_cosine_similarity_torch,Python,23
 459821110,simonw/google-drive-to-sqlite,Python,8
