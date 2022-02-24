@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,22
+1863329,laravel/laravel,PHP,21
 8678290,barryvdh/laravel-ide-helper,PHP,7
 1305114,roots/sage,PHP,4
 1398648,symfony/http-foundation,PHP,1
 2179920,woocommerce/woocommerce,PHP,3
 364315,predis/predis,PHP,3
-9193949,wallabag/wallabag,PHP,15
+9193949,wallabag/wallabag,PHP,14
 6763587,PrestaShop/PrestaShop,PHP,3
 4242230,PHPOffice/PHPWord,PHP,4
 10883164,barryvdh/laravel-dompdf,PHP,3
@@ -13,12 +13,12 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,4
 60010673,elementor/elementor,PHP,2
 439861,moodle/moodle,PHP,1
-62087941,nWidart/laravel-modules,PHP,4
+62087941,nWidart/laravel-modules,PHP,2
 182349597,jqhph/dcat-admin,PHP,6
-248372441,laravel-filament/filament,PHP,8
-141720301,dr5hn/countries-states-cities-database,PHP,8
+248372441,laravel-filament/filament,PHP,6
+141720301,dr5hn/countries-states-cities-database,PHP,6
 166299071,archtechx/tenancy,PHP,11
-111562942,statamic/cms,PHP,4
+111562942,statamic/cms,PHP,8
 17694277,nette/php-generator,PHP,8
 15231212,Automattic/jetpack,PHP,1
 75645659,WordPress/wordpress-develop,PHP,2
