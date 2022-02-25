@@ -1,12 +1,12 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,3
-8681349,huginn/huginn,Ruby,13
+8681349,huginn/huginn,Ruby,11
 27442967,fastlane/fastlane,Ruby,5
-52281283,mastodon/mastodon,Ruby,36
+52281283,mastodon/mastodon,Ruby,45
 481872,hashicorp/vagrant,Ruby,3
-308770,heartcombo/devise,Ruby,2
-73648678,forem/forem,Ruby,8
-2203645,CocoaPods/CocoaPods,Ruby,5
+308770,heartcombo/devise,Ruby,3
+73648678,forem/forem,Ruby,9
+2203645,CocoaPods/CocoaPods,Ruby,6
 2336578,twbs/bootstrap-sass,Ruby,0
 202291859,chatwoot/chatwoot,Ruby,5
 1918677,fluent/fluentd,Ruby,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 46698467,ankane/strong_migrations,Ruby,2
 5144181,jnunemaker/flipper,Ruby,3
 29151578,rswag/rswag,Ruby,1
-34945282,eliotsykes/real-world-rails,Ruby,10
+34945282,eliotsykes/real-world-rails,Ruby,9
 50386243,18F/identity-idp,Ruby,3
