@@ -1,11 +1,11 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,269
 7569578,discourse/discourse,Ruby,268
-8681349,huginn/huginn,Ruby,1444
-53238813,Homebrew/brew,Ruby,464
-13840241,freeCodeCamp/devdocs,Ruby,289
-52281283,mastodon/mastodon,Ruby,461
-481872,hashicorp/vagrant,Ruby,179
+8681349,huginn/huginn,Ruby,1446
+53238813,Homebrew/brew,Ruby,463
+13840241,freeCodeCamp/devdocs,Ruby,288
+52281283,mastodon/mastodon,Ruby,465
+481872,hashicorp/vagrant,Ruby,182
 308770,heartcombo/devise,Ruby,115
 3623050,Homebrew/homebrew-cask,Ruby,115
 73648678,forem/forem,Ruby,198
@@ -22,5 +22,5 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,29
 1314319,instructure/canvas-lms,Ruby,54
 93163073,dependabot/dependabot-core,Ruby,76
-10088951,TheOdinProject/theodinproject,Ruby,65
+10088951,TheOdinProject/theodinproject,Ruby,66
 66497320,DataDog/dd-trace-rb,Ruby,5

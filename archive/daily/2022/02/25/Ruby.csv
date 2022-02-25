@@ -1,18 +1,18 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,3
+7569578,discourse/discourse,Ruby,2
 8681349,huginn/huginn,Ruby,12
 27442967,fastlane/fastlane,Ruby,5
-52281283,mastodon/mastodon,Ruby,48
-481872,hashicorp/vagrant,Ruby,3
+52281283,mastodon/mastodon,Ruby,55
+481872,hashicorp/vagrant,Ruby,6
 308770,heartcombo/devise,Ruby,2
-73648678,forem/forem,Ruby,8
+73648678,forem/forem,Ruby,6
 2203645,CocoaPods/CocoaPods,Ruby,6
 2336578,twbs/bootstrap-sass,Ruby,0
 202291859,chatwoot/chatwoot,Ruby,5
-1918677,fluent/fluentd,Ruby,2
+1918677,fluent/fluentd,Ruby,3
 451035,heartcombo/simple_form,Ruby,0
 910744,puppetlabs/puppet,Ruby,0
-11412473,ankane/searchkick,Ruby,2
+11412473,ankane/searchkick,Ruby,3
 6899875,opf/openproject,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,2
 43347873,danger/danger,Ruby,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,1
 14238949,elastic/elasticsearch-rails,Ruby,0
 46698467,ankane/strong_migrations,Ruby,2
-5144181,jnunemaker/flipper,Ruby,4
+5144181,jnunemaker/flipper,Ruby,3
 29151578,rswag/rswag,Ruby,1
 34945282,eliotsykes/real-world-rails,Ruby,8
 50386243,18F/identity-idp,Ruby,3

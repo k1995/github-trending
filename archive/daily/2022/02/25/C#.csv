@@ -1,19 +1,19 @@
 id,name,lang,new stars
-262395224,dotnet/maui,C#,7
-16157746,dotnet/efcore,C#,4
+262395224,dotnet/maui,C#,6
+16157746,dotnet/efcore,C#,3
 28239455,dotnet/AspNetCore.Docs,C#,8
 46652227,IdentityServer/IdentityServer4,C#,5
 75990888,dotnet/csharplang,C#,11
-210716005,dotnet/runtime,C#,11
+210716005,dotnet/runtime,C#,9
 203892454,kgrzybek/modular-monolith-with-ddd,C#,3
-334515155,coding-horror/basic-computer-games,C#,179
+334515155,coding-horror/basic-computer-games,C#,163
 743436,egametang/ET,C#,7
-375939072,dotnetcore/FastGithub,C#,19
+375939072,dotnetcore/FastGithub,C#,23
 19216825,xamarin/xamarin-forms-samples,C#,5
 16139210,autofac/Autofac,C#,5
-2928944,Azure/azure-sdk-for-net,C#,3
-117102183,ChilliCream/hotchocolate,C#,9
-23891194,Azure/azure-powershell,C#,2
+2928944,Azure/azure-sdk-for-net,C#,0
+117102183,ChilliCream/hotchocolate,C#,8
+23891194,Azure/azure-powershell,C#,3
 288428676,MudBlazor/MudBlazor,C#,7
 326826023,QuestPDF/QuestPDF,C#,16
 116385203,Unity-Technologies/com.unity.netcode.gameobjects,C#,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 131026794,Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,1
 134756928,Azure/azure-api-management-devops-resource-kit,C#,5
 156260788,Azure/azure-cosmos-dotnet-v3,C#,1
-161588836,microsoft/PowerPlatformConnectors,C#,2
-155946625,pungin/Beanfun,C#,2
-456926347,builtbybel/TweakUIX,C#,14
+161588836,microsoft/PowerPlatformConnectors,C#,3
+155946625,pungin/Beanfun,C#,1
+456926347,builtbybel/TweakUIX,C#,15

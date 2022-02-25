@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,867
-7548986,laravel/framework,PHP,449
+7548986,laravel/framework,PHP,453
 60243197,nextcloud/server,PHP,422
 2253830,PHPMailer/PHPMailer,PHP,295
 2889328,WordPress/WordPress,PHP,141
@@ -17,10 +17,10 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,78
 76064827,mailcow/mailcow-dockerized,PHP,146
 2464908,joomla/joomla-cms,PHP,73
-62937181,PrivateBin/PrivateBin,PHP,86
+62937181,PrivateBin/PrivateBin,PHP,87
 291805291,laravel/jetstream,PHP,78
 73781385,orchidsoftware/platform,PHP,119
 39182755,glpi-project/glpi,PHP,86
 131995661,shopware/platform,PHP,117
-174021137,inertiajs/pingcrm,PHP,50
-75645659,WordPress/wordpress-develop,PHP,56
+174021137,inertiajs/pingcrm,PHP,49
+75645659,WordPress/wordpress-develop,PHP,58
