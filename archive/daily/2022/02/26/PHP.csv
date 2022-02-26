@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,14
+1863329,laravel/laravel,PHP,13
 458058,symfony/symfony,PHP,7
 2579314,fzaninotto/Faker,PHP,3
 3431193,yiisoft/yii2,PHP,1
-7704544,Intervention/image,PHP,6
+7704544,Intervention/image,PHP,5
 14259390,SpartnerNL/Laravel-Excel,PHP,5
 23680678,tymondesigns/jwt-auth,PHP,1
 597887,doctrine/orm,PHP,2
@@ -17,9 +17,9 @@ id,name,lang,new stars
 31595609,mpdf/mpdf,PHP,4
 38200433,jeroennoten/Laravel-AdminLTE,PHP,3
 80249302,craftcms/cms,PHP,0
-141720301,dr5hn/countries-states-cities-database,PHP,11
+141720301,dr5hn/countries-states-cities-database,PHP,10
 13914116,librenms/librenms,PHP,1
-39182755,glpi-project/glpi,PHP,3
+39182755,glpi-project/glpi,PHP,2
 258773185,laravel-frontend-presets/tall,PHP,3
 806201,modxcms/revolution,PHP,1
 75645659,WordPress/wordpress-develop,PHP,4

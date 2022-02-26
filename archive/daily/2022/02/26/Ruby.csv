@@ -1,20 +1,20 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,10
-481872,hashicorp/vagrant,Ruby,5
+27442967,fastlane/fastlane,Ruby,7
+481872,hashicorp/vagrant,Ruby,7
 308770,heartcombo/devise,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,2
 1090311,elastic/logstash,Ruby,4
-202291859,chatwoot/chatwoot,Ruby,9
+202291859,chatwoot/chatwoot,Ruby,10
 3314,spree/spree,Ruby,1
 3195124,mperham/sidekiq,Ruby,3
 106995,sinatra/sinatra,Ruby,3
-15435,Shopify/liquid,Ruby,5
+15435,Shopify/liquid,Ruby,3
 611921,activeadmin/activeadmin,Ruby,2
 47087,carrierwaveuploader/carrierwave,Ruby,0
 417389,lostisland/faraday,Ruby,1
-1548802,activerecord-hackery/ransack,Ruby,2
-6768710,redmine/redmine,Ruby,4
-30985840,solidusio/solidus,Ruby,2
+1548802,activerecord-hackery/ransack,Ruby,3
+6768710,redmine/redmine,Ruby,6
+30985840,solidusio/solidus,Ruby,1
 52316423,luggit/react-native-config,Ruby,1
 229006,mileszs/wicked_pdf,Ruby,2
 200302808,github/view_component,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1953385,stripe/stripe-ruby,Ruby,2
 3947396,getsentry/sentry-ruby,Ruby,1
 17608126,magento/devdocs,Ruby,0
-354713589,thoughtbot/hotwire-example-template,Ruby,8
+354713589,thoughtbot/hotwire-example-template,Ruby,6
 442914604,shayonj/pg-osc,Ruby,10
