@@ -1,19 +1,19 @@
 id,name,lang,new stars
 241576270,labuladong/fucking-algorithm,Markdown,184
 23083156,mui/material-ui,JavaScript,47
-138393139,trimstray/the-book-of-secret-knowledge,,120
-206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,18
+138393139,trimstray/the-book-of-secret-knowledge,,130
+206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,25
 4524181,facebook/folly,C++,65
 30794868,sampotts/plyr,JavaScript,56
-377496562,AppFlowy-IO/AppFlowy,Rust,61
-149001365,doocs/leetcode,Java,35
-186726606,nusr/hacker-laws-zh,,183
+377496562,AppFlowy-IO/AppFlowy,Rust,72
+149001365,doocs/leetcode,Java,41
+186726606,nusr/hacker-laws-zh,,179
 146327667,vectordotdev/vector,Rust,8
 90916769,cat-milk/Anime-Girls-Holding-Programming-Books,,286
-39575101,phil-opp/blog_os,HTML,178
-26850443,rust-lang/rust-clippy,Rust,10
+39575101,phil-opp/blog_os,HTML,205
 421357495,LSPosed/MagiskOnWSA,,102
-286295150,antfu/vitesse,TypeScript,38
+26850443,rust-lang/rust-clippy,Rust,10
+286295150,antfu/vitesse,TypeScript,33
 286108332,prometheus-community/helm-charts,Mustache,6
 436336333,planetscale/beam,TypeScript,288
 303802588,MHProDev/MHDDoS,Python,19
@@ -22,5 +22,5 @@ id,name,lang,new stars
 407023726,dj-nitehawk/FastEndpoints,C#,96
 345480693,krol3/container-security-checklist,,24
 313684224,KumarRobotics/kr_autonomous_flight,C++,86
-385408663,pytorch/torchrec,Python,37
-454015097,Azure/AlwaysOn,,17
+385408663,pytorch/torchrec,Python,40
+454015097,Azure/AlwaysOn,,28

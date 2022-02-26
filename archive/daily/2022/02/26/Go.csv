@@ -1,6 +1,6 @@
 id,name,lang,new stars
-23096959,golang/go,Go,49
-14712850,syncthing/syncthing,Go,28
+23096959,golang/go,Go,35
+14712850,syncthing/syncthing,Go,24
 29261473,minio/minio,Go,24
 8989842,unknwon/the-way-to-go_ZH_CN,Go,10
 72495579,go-gitea/gitea,Go,17
@@ -9,7 +9,7 @@ id,name,lang,new stars
 46806184,helm/charts,Go,1
 52034309,uber-go/zap,Go,14
 129717717,grafana/loki,Go,9
-36653430,hashicorp/nomad,Go,4
+36653430,hashicorp/nomad,Go,5
 208728772,milvus-io/milvus,Go,20
 159540440,google/wire,Go,4
 252813491,projectdiscovery/nuclei,Go,11
@@ -21,6 +21,6 @@ id,name,lang,new stars
 306366900,casdoor/casdoor,Go,8
 403559729,YaoApp/yao,Go,195
 440220648,Mikaelemmmm/go-zero-looklook,Go,3
-261403263,argoproj/applicationset,Go,1
+261403263,argoproj/applicationset,Go,2
 304841810,osmosis-labs/osmosis,Go,1
 434059318,Char1esOrz/minerProxy,Go,7
