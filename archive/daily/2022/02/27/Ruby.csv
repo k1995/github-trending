@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,5
+8514,rails/rails,Ruby,6
 27442967,fastlane/fastlane,Ruby,4
 53238813,Homebrew/brew,Ruby,15
-481872,hashicorp/vagrant,Ruby,5
-2500088,gitlabhq/gitlabhq,Ruby,1
+481872,hashicorp/vagrant,Ruby,4
+2500088,gitlabhq/gitlabhq,Ruby,0
 308770,heartcombo/devise,Ruby,1
 538746,ruby/ruby,Ruby,2
 1090311,elastic/logstash,Ruby,1
 18486300,lewagon/setup,Ruby,23
-202291859,chatwoot/chatwoot,Ruby,3
+202291859,chatwoot/chatwoot,Ruby,4
 4095287,rubocop/rubocop,Ruby,0
 3195124,mperham/sidekiq,Ruby,1
-1918677,fluent/fluentd,Ruby,4
+1918677,fluent/fluentd,Ruby,3
 15435,Shopify/liquid,Ruby,3
 611921,activeadmin/activeadmin,Ruby,0
 1333863,kaminari/kaminari,Ruby,2
@@ -19,8 +19,8 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,2
 6768710,redmine/redmine,Ruby,4
-12656803,MiniProfiler/rack-mini-profiler,Ruby,1
+12656803,MiniProfiler/rack-mini-profiler,Ruby,2
 229006,mileszs/wicked_pdf,Ruby,2
-5144181,jnunemaker/flipper,Ruby,4
-15042048,toptal/chewy,Ruby,3
+5144181,jnunemaker/flipper,Ruby,6
+15042048,toptal/chewy,Ruby,4
 3276877,ThrowTheSwitch/Ceedling,Ruby,0

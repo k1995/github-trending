@@ -1,11 +1,11 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,258
+65252,jekyll/jekyll,Ruby,256
 7569578,discourse/discourse,Ruby,264
-8681349,huginn/huginn,Ruby,1084
+8681349,huginn/huginn,Ruby,1079
 53238813,Homebrew/brew,Ruby,473
-13840241,freeCodeCamp/devdocs,Ruby,287
-52281283,mastodon/mastodon,Ruby,474
-481872,hashicorp/vagrant,Ruby,174
+13840241,freeCodeCamp/devdocs,Ruby,286
+52281283,mastodon/mastodon,Ruby,478
+481872,hashicorp/vagrant,Ruby,172
 308770,heartcombo/devise,Ruby,113
 73648678,forem/forem,Ruby,192
 585285,gollum/gollum,Ruby,74
@@ -21,6 +21,6 @@ id,name,lang,new stars
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,162
 30337170,rmosolgo/graphql-ruby,Ruby,32
 1314319,instructure/canvas-lms,Ruby,54
-93163073,dependabot/dependabot-core,Ruby,75
-10088951,TheOdinProject/theodinproject,Ruby,66
+93163073,dependabot/dependabot-core,Ruby,74
+10088951,TheOdinProject/theodinproject,Ruby,67
 61203,Shopify/shopify_app,Ruby,10
