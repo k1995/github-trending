@@ -1,7 +1,7 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,2
-1548202,matomo-org/matomo,PHP,3
-1631570,nikic/PHP-Parser,PHP,3
+1548202,matomo-org/matomo,PHP,2
+1631570,nikic/PHP-Parser,PHP,2
 10157178,egulias/EmailValidator,PHP,1
 14259390,SpartnerNL/Laravel-Excel,PHP,1
 15020102,walkor/workerman,PHP,2
@@ -9,16 +9,16 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,2
 12166778,googleapis/google-api-php-client,PHP,1
 2179920,woocommerce/woocommerce,PHP,2
-21298446,firefly-iii/firefly-iii,PHP,5
+21298446,firefly-iii/firefly-iii,PHP,3
 2141186,opencart/opencart,PHP,1
 6763587,PrestaShop/PrestaShop,PHP,2
-14346979,snipe/snipe-it,PHP,2
+14346979,snipe/snipe-it,PHP,1
 10883164,barryvdh/laravel-dompdf,PHP,0
 76064827,mailcow/mailcow-dockerized,PHP,3
 9826184,elastic/elasticsearch-php,PHP,0
-31595609,mpdf/mpdf,PHP,2
+31595609,mpdf/mpdf,PHP,3
 22751672,tecnickcom/TCPDF,PHP,1
-17253775,zabbix/zabbix,PHP,0
+17253775,zabbix/zabbix,PHP,1
 15231212,Automattic/jetpack,PHP,0
 75645659,WordPress/wordpress-develop,PHP,2
 216849756,v2board/v2board,PHP,3
