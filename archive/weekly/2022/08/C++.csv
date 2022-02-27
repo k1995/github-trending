@@ -1,19 +1,19 @@
 id,name,lang,new stars
 5108051,opencv/opencv,C++,176
-23357588,protocolbuffers/protobuf,C++,113
+23357588,protocolbuffers/protobuf,C++,114
 22887094,tesseract-ocr/tesseract,C++,100
-22067521,ocornut/imgui,C++,386
-23405758,google/leveldb,C++,86
-39840932,google/googletest,C++,154
-120887835,huihut/interview,C++,207
+22067521,ocornut/imgui,C++,379
+23405758,google/leveldb,C++,85
+39840932,google/googletest,C++,144
+120887835,huihut/interview,C++,204
 4524181,facebook/folly,C++,195
-196813750,Light-City/CPlusPlusThings,C++,190
-125098880,ValveSoftware/Proton,C++,107
+196813750,Light-City/CPlusPlusThings,C++,191
+125098880,ValveSoftware/Proton,C++,106
 191820100,google/mediapipe,C++,119
-186309296,lettier/3d-game-shaders-for-beginners,C++,105
+186309296,lettier/3d-game-shaders-for-beginners,C++,101
 102692863,onnx/onnx,C++,45
-153866232,TheCherno/Hazel,C++,83
-181436799,alibaba/MNN,C++,29
+153866232,TheCherno/Hazel,C++,75
+181436799,alibaba/MNN,C++,28
 130068982,taskflow/taskflow,C++,46
 86897963,ZLMediaKit/ZLMediaKit,C++,76
 189205663,qinguoyi/TinyWebServer,C++,120
@@ -23,4 +23,4 @@ id,name,lang,new stars
 20293077,ethz-asl/kalibr,C++,24
 110198384,brave/brave-core,C++,23
 414548115,DISTRHO/Cardinal,C++,26
-397504146,rutura/The-C-20-Masterclass-Source-Code,C++,65
+397504146,rutura/The-C-20-Masterclass-Source-Code,C++,62

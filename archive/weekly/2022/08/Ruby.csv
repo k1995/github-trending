@@ -2,13 +2,13 @@ id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,57
 7569578,discourse/discourse,Ruby,67
 52281283,mastodon/mastodon,Ruby,240
-2293158,rapid7/metasploit-framework,Ruby,73
+2293158,rapid7/metasploit-framework,Ruby,71
 2500088,gitlabhq/gitlabhq,Ruby,12
 308770,heartcombo/devise,Ruby,24
-538746,ruby/ruby,Ruby,22
+538746,ruby/ruby,Ruby,21
 73648678,forem/forem,Ruby,42
 1090311,elastic/logstash,Ruby,18
-3314,spree/spree,Ruby,17
+3314,spree/spree,Ruby,15
 1918677,fluent/fluentd,Ruby,28
 15435,Shopify/liquid,Ruby,21
 810796,railsadminteam/rails_admin,Ruby,10
@@ -19,7 +19,7 @@ id,name,lang,new stars
 33739333,thoughtbot/administrate,Ruby,7
 30337170,rmosolgo/graphql-ruby,Ruby,12
 12656803,MiniProfiler/rack-mini-profiler,Ruby,4
-3898922,zammad/zammad,Ruby,16
+3898922,zammad/zammad,Ruby,17
 5144181,jnunemaker/flipper,Ruby,16
 200302808,github/view_component,Ruby,19
 10088951,TheOdinProject/theodinproject,Ruby,23

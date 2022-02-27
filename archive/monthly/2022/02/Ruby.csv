@@ -1,18 +1,18 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,256
-7569578,discourse/discourse,Ruby,264
-8681349,huginn/huginn,Ruby,1079
-53238813,Homebrew/brew,Ruby,473
-13840241,freeCodeCamp/devdocs,Ruby,286
-52281283,mastodon/mastodon,Ruby,478
-481872,hashicorp/vagrant,Ruby,172
+65252,jekyll/jekyll,Ruby,255
+7569578,discourse/discourse,Ruby,263
+8681349,huginn/huginn,Ruby,1072
+53238813,Homebrew/brew,Ruby,472
+13840241,freeCodeCamp/devdocs,Ruby,284
+52281283,mastodon/mastodon,Ruby,479
+481872,hashicorp/vagrant,Ruby,169
 308770,heartcombo/devise,Ruby,113
 73648678,forem/forem,Ruby,192
 585285,gollum/gollum,Ruby,74
 3314,spree/spree,Ruby,78
-3195124,mperham/sidekiq,Ruby,103
+3195124,mperham/sidekiq,Ruby,102
 106995,sinatra/sinatra,Ruby,46
-52855516,Homebrew/homebrew-core,Ruby,207
+52855516,Homebrew/homebrew-core,Ruby,206
 96395,faker-ruby/faker,Ruby,241
 1725199,github/linguist,Ruby,125
 15435,Shopify/liquid,Ruby,91
@@ -21,6 +21,6 @@ id,name,lang,new stars
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,162
 30337170,rmosolgo/graphql-ruby,Ruby,32
 1314319,instructure/canvas-lms,Ruby,54
-93163073,dependabot/dependabot-core,Ruby,74
+93163073,dependabot/dependabot-core,Ruby,73
 10088951,TheOdinProject/theodinproject,Ruby,67
 61203,Shopify/shopify_app,Ruby,10

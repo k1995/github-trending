@@ -1,18 +1,18 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,76
-199570071,2dust/v2rayN,C#,239
-70104825,dotnet-architecture/eShopOnContainers,C#,83
+17620347,dotnet/aspnetcore,C#,80
+199570071,2dust/v2rayN,C#,240
+70104825,dotnet-architecture/eShopOnContainers,C#,84
 262395224,dotnet/maui,C#,91
-161012019,jellyfin/jellyfin,C#,90
-193681686,netchx/netch,C#,64
+161012019,jellyfin/jellyfin,C#,88
+193681686,netchx/netch,C#,65
 46755185,bitwarden/server,C#,78
 75990888,dotnet/csharplang,C#,63
-165548191,carlospolop/PEASS-ng,C#,124
+165548191,carlospolop/PEASS-ng,C#,122
 132021166,dotnet/machinelearning,C#,18
 75505125,abpframework/abp,C#,33
-334515155,coding-horror/basic-computer-games,C#,1022
+334515155,coding-horror/basic-computer-games,C#,1023
 743436,egametang/ET,C#,35
-245235133,microsoft/reverse-proxy,C#,541
+245235133,microsoft/reverse-proxy,C#,539
 375939072,dotnetcore/FastGithub,C#,144
 997491,sta/websocket-sharp,C#,22
 19216825,xamarin/xamarin-forms-samples,C#,16
@@ -20,7 +20,7 @@ id,name,lang,new stars
 2928944,Azure/azure-sdk-for-net,C#,24
 151148482,elsa-workflows/elsa-core,C#,45
 138290022,mob-sakai/ParticleEffectForUGUI,C#,27
-398181340,fullstackhero/dotnet-webapi-boilerplate,C#,49
+398181340,fullstackhero/dotnet-webapi-boilerplate,C#,48
 181356258,aspnetrun/run-aspnetcore-microservices,C#,32
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,12
-426700184,microsoft/dotnet-podcasts,C#,26
+426700184,microsoft/dotnet-podcasts,C#,29
