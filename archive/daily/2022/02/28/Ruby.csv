@@ -1,6 +1,6 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,32
-53238813,Homebrew/brew,Ruby,22
+8681349,huginn/huginn,Ruby,37
+53238813,Homebrew/brew,Ruby,21
 2293158,rapid7/metasploit-framework,Ruby,11
 481872,hashicorp/vagrant,Ruby,10
 308770,heartcombo/devise,Ruby,2
@@ -9,7 +9,7 @@ id,name,lang,new stars
 585285,gollum/gollum,Ruby,3
 18486300,lewagon/setup,Ruby,1
 1918677,fluent/fluentd,Ruby,5
-52855516,Homebrew/homebrew-core,Ruby,8
+52855516,Homebrew/homebrew-core,Ruby,9
 96395,faker-ruby/faker,Ruby,3
 15435,Shopify/liquid,Ruby,2
 611921,activeadmin/activeadmin,Ruby,0
@@ -19,8 +19,8 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,1
 6768710,redmine/redmine,Ruby,0
 39706711,hartator/wayback-machine-downloader,Ruby,0
-93163073,dependabot/dependabot-core,Ruby,4
+93163073,dependabot/dependabot-core,Ruby,5
 200302808,github/view_component,Ruby,2
 354713589,thoughtbot/hotwire-example-template,Ruby,1
-462315662,howlrapp/howlr-server,Ruby,3
+462315662,howlrapp/howlr-server,Ruby,5
 38355082,saasbook/hw-rails-intro,Ruby,0
