@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,830
-3482588,danielmiessler/SecLists,PHP,621
-7548986,laravel/framework,PHP,420
+1863329,laravel/laravel,PHP,834
+3482588,danielmiessler/SecLists,PHP,624
+7548986,laravel/framework,PHP,418
 60243197,nextcloud/server,PHP,377
-2253830,PHPMailer/PHPMailer,PHP,261
+2253830,PHPMailer/PHPMailer,PHP,260
 82238168,monicahq/monica,PHP,299
-12615154,barryvdh/laravel-debugbar,PHP,143
+12615154,barryvdh/laravel-debugbar,PHP,142
 79111500,jupeter/clean-code-php,PHP,157
 5627682,serbanghita/Mobile-Detect,PHP,50
 2699935,squizlabs/PHP_CodeSniffer,PHP,84
 21298446,firefly-iii/firefly-iii,PHP,233
 16238673,kanboard/kanboard,PHP,83
-14346979,snipe/snipe-it,PHP,142
+14346979,snipe/snipe-it,PHP,141
 76064827,mailcow/mailcow-dockerized,PHP,122
 439861,moodle/moodle,PHP,55
 291805291,laravel/jetstream,PHP,69
@@ -22,5 +22,5 @@ id,name,lang,new stars
 311448648,laravel/breeze,PHP,45
 131995661,shopware/platform,PHP,101
 174021137,inertiajs/pingcrm,PHP,40
-449622001,PGYER/codefever,PHP,730
+449622001,PGYER/codefever,PHP,735
 75645659,WordPress/wordpress-develop,PHP,53
