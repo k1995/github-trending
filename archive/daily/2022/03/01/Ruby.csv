@@ -1,19 +1,19 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,5
-8681349,huginn/huginn,Ruby,35
-53238813,Homebrew/brew,Ruby,15
-2293158,rapid7/metasploit-framework,Ruby,14
-481872,hashicorp/vagrant,Ruby,6
-538746,ruby/ruby,Ruby,10
+65252,jekyll/jekyll,Ruby,6
+8681349,huginn/huginn,Ruby,31
+53238813,Homebrew/brew,Ruby,19
+2293158,rapid7/metasploit-framework,Ruby,10
+481872,hashicorp/vagrant,Ruby,7
+538746,ruby/ruby,Ruby,8
 4095287,rubocop/rubocop,Ruby,0
 106995,sinatra/sinatra,Ruby,0
-96395,faker-ruby/faker,Ruby,3
+96395,faker-ruby/faker,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,1
 108278,chef/chef,Ruby,0
 910744,puppetlabs/puppet,Ruby,1
-4994614,wpscanteam/wpscan,Ruby,3
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,4
-103766152,github/explore,Ruby,2
+4994614,wpscanteam/wpscan,Ruby,1
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,5
+103766152,github/explore,Ruby,1
 69813387,iberianpig/fusuma,Ruby,2
 1175581,citation-style-language/styles,Ruby,0
 8133216,rubysec/bundler-audit,Ruby,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 8154497,rubysec/ruby-advisory-db,Ruby,0
 121513081,tradingview/charting-library-examples,Ruby,1
 294306071,TheOdinProject/ruby-exercises,Ruby,0
-462315662,howlrapp/howlr-server,Ruby,2
+462315662,howlrapp/howlr-server,Ruby,0
 38355082,saasbook/hw-rails-intro,Ruby,0
 386891251,TheOdinProject/custom_enumerable_project,Ruby,0
