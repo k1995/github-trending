@@ -1,14 +1,14 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,251
-7569578,discourse/discourse,Ruby,263
-8681349,huginn/huginn,Ruby,1022
+65252,jekyll/jekyll,Ruby,252
+7569578,discourse/discourse,Ruby,264
+8681349,huginn/huginn,Ruby,1031
 53238813,Homebrew/brew,Ruby,472
-52281283,mastodon/mastodon,Ruby,498
-2293158,rapid7/metasploit-framework,Ruby,317
+52281283,mastodon/mastodon,Ruby,503
+2293158,rapid7/metasploit-framework,Ruby,320
 481872,hashicorp/vagrant,Ruby,176
 308770,heartcombo/devise,Ruby,115
 3623050,Homebrew/homebrew-cask,Ruby,116
-73648678,forem/forem,Ruby,187
+73648678,forem/forem,Ruby,186
 585285,gollum/gollum,Ruby,76
 3314,spree/spree,Ruby,77
 3195124,mperham/sidekiq,Ruby,93
@@ -16,11 +16,11 @@ id,name,lang,new stars
 52855516,Homebrew/homebrew-core,Ruby,210
 1725199,github/linguist,Ruby,132
 15435,Shopify/liquid,Ruby,87
-6529205,varvet/pundit,Ruby,56
+6529205,varvet/pundit,Ruby,58
 2441517,puma/puma,Ruby,62
-30337170,rmosolgo/graphql-ruby,Ruby,33
+30337170,rmosolgo/graphql-ruby,Ruby,36
 1314319,instructure/canvas-lms,Ruby,52
 93163073,dependabot/dependabot-core,Ruby,77
-10088951,TheOdinProject/theodinproject,Ruby,68
+10088951,TheOdinProject/theodinproject,Ruby,66
 61203,Shopify/shopify_app,Ruby,10
 66497320,DataDog/dd-trace-rb,Ruby,5
