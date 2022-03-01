@@ -1,10 +1,10 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,5
-8681349,huginn/huginn,Ruby,39
+8681349,huginn/huginn,Ruby,35
 53238813,Homebrew/brew,Ruby,15
 2293158,rapid7/metasploit-framework,Ruby,14
-481872,hashicorp/vagrant,Ruby,7
-538746,ruby/ruby,Ruby,8
+481872,hashicorp/vagrant,Ruby,6
+538746,ruby/ruby,Ruby,10
 4095287,rubocop/rubocop,Ruby,0
 106995,sinatra/sinatra,Ruby,0
 96395,faker-ruby/faker,Ruby,3
@@ -12,7 +12,7 @@ id,name,lang,new stars
 108278,chef/chef,Ruby,0
 910744,puppetlabs/puppet,Ruby,1
 4994614,wpscanteam/wpscan,Ruby,3
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,6
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,4
 103766152,github/explore,Ruby,2
 69813387,iberianpig/fusuma,Ruby,2
 1175581,citation-style-language/styles,Ruby,0
