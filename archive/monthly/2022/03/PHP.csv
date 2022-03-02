@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,831
+1863329,laravel/laravel,PHP,829
 3482588,danielmiessler/SecLists,PHP,617
 7548986,laravel/framework,PHP,426
 60243197,nextcloud/server,PHP,376
-2253830,PHPMailer/PHPMailer,PHP,260
+2253830,PHPMailer/PHPMailer,PHP,259
 82238168,monicahq/monica,PHP,298
-12615154,barryvdh/laravel-debugbar,PHP,136
-79111500,jupeter/clean-code-php,PHP,153
+12615154,barryvdh/laravel-debugbar,PHP,137
+79111500,jupeter/clean-code-php,PHP,152
 2699935,squizlabs/PHP_CodeSniffer,PHP,82
 21298446,firefly-iii/firefly-iii,PHP,237
-16238673,kanboard/kanboard,PHP,83
-14346979,snipe/snipe-it,PHP,144
-76064827,mailcow/mailcow-dockerized,PHP,123
-60010673,elementor/elementor,PHP,50
+16238673,kanboard/kanboard,PHP,81
+14346979,snipe/snipe-it,PHP,143
+76064827,mailcow/mailcow-dockerized,PHP,125
+60010673,elementor/elementor,PHP,48
 439861,moodle/moodle,PHP,56
 8077402,MISP/MISP,PHP,77
 291805291,laravel/jetstream,PHP,68
@@ -22,5 +22,5 @@ id,name,lang,new stars
 166299071,archtechx/tenancy,PHP,102
 311448648,laravel/breeze,PHP,43
 131995661,shopware/platform,PHP,100
-449622001,PGYER/codefever,PHP,771
+449622001,PGYER/codefever,PHP,773
 75645659,WordPress/wordpress-develop,PHP,50
