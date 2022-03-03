@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,64
-53238813,Homebrew/brew,Ruby,109
-52281283,mastodon/mastodon,Ruby,135
+8514,rails/rails,Ruby,66
+53238813,Homebrew/brew,Ruby,110
+52281283,mastodon/mastodon,Ruby,128
 2293158,rapid7/metasploit-framework,Ruby,74
 2500088,gitlabhq/gitlabhq,Ruby,15
 538746,ruby/ruby,Ruby,38
-1090311,elastic/logstash,Ruby,17
-202291859,chatwoot/chatwoot,Ruby,39
+1090311,elastic/logstash,Ruby,18
+202291859,chatwoot/chatwoot,Ruby,40
 3195124,mperham/sidekiq,Ruby,22
 15435,Shopify/liquid,Ruby,22
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,44
@@ -14,7 +14,7 @@ id,name,lang,new stars
 12656803,MiniProfiler/rack-mini-profiler,Ruby,9
 103766152,github/explore,Ruby,16
 614070,rubygems/rubygems,Ruby,6
-3898922,zammad/zammad,Ruby,10
+3898922,zammad/zammad,Ruby,12
 200302808,github/view_component,Ruby,16
 10088951,TheOdinProject/theodinproject,Ruby,23
 34840276,elastic/ansible-elasticsearch,Ruby,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 3698608,moove-it/sidekiq-scheduler,Ruby,7
 17608126,magento/devdocs,Ruby,1
 66497320,DataDog/dd-trace-rb,Ruby,2
-212272090,CMSgov/price-transparency-guide,Ruby,1
+212272090,CMSgov/price-transparency-guide,Ruby,2
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
