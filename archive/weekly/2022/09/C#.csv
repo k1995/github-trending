@@ -1,18 +1,18 @@
 id,name,lang,new stars
 7600409,shadowsocks/shadowsocks-windows,C#,83
 49609581,PowerShell/PowerShell,C#,66
-199570071,2dust/v2rayN,C#,240
+199570071,2dust/v2rayN,C#,238
 15315789,Wox-launcher/Wox,C#,42
 70104825,dotnet-architecture/eShopOnContainers,C#,75
 1327739,icsharpcode/ILSpy,C#,63
 262395224,dotnet/maui,C#,67
 193681686,netchx/netch,C#,69
 959908,OpenRA/OpenRA,C#,71
-46755185,bitwarden/server,C#,61
+46755185,bitwarden/server,C#,62
 165548191,carlospolop/PEASS-ng,C#,78
 75505125,abpframework/abp,C#,35
-334515155,coding-horror/basic-computer-games,C#,584
-743436,egametang/ET,C#,36
+334515155,coding-horror/basic-computer-games,C#,568
+743436,egametang/ET,C#,34
 21611723,quasar/Quasar,C#,30
 375939072,dotnetcore/FastGithub,C#,116
 372096057,Richasy/Bili.Uwp,C#,76
@@ -23,4 +23,4 @@ id,name,lang,new stars
 398181340,fullstackhero/dotnet-webapi-boilerplate,C#,82
 181356258,aspnetrun/run-aspnetcore-microservices,C#,31
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,13
-426700184,microsoft/dotnet-podcasts,C#,33
+426700184,microsoft/dotnet-podcasts,C#,34
