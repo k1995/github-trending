@@ -1,5 +1,5 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2130
+184456251,microsoft/PowerToys,C#,2129
 17620347,dotnet/aspnetcore,C#,328
 29078997,dotnet/roslyn,C#,148
 262395224,dotnet/maui,C#,909
@@ -7,11 +7,11 @@ id,name,lang,new stars
 14964475,AvaloniaUI/Avalonia,C#,322
 28239455,dotnet/AspNetCore.Docs,C#,125
 46755185,bitwarden/server,C#,249
-75990888,dotnet/csharplang,C#,247
+75990888,dotnet/csharplang,C#,239
 210716005,dotnet/runtime,C#,292
 165548191,carlospolop/PEASS-ng,C#,381
 213460285,jasontaylordev/CleanArchitecture,C#,316
-334515155,coding-horror/basic-computer-games,C#,2343
+334515155,coding-horror/basic-computer-games,C#,2335
 72174164,SixLabors/ImageSharp,C#,132
 245235133,microsoft/reverse-proxy,C#,612
 372096057,Richasy/Bili.Uwp,C#,260
@@ -19,7 +19,7 @@ id,name,lang,new stars
 151148482,elsa-workflows/elsa-core,C#,152
 288428676,MudBlazor/MudBlazor,C#,239
 52166327,Franiac/TwitchLeecher,C#,63
-184286875,actions/runner,C#,98
+184286875,actions/runner,C#,99
 398181340,fullstackhero/dotnet-webapi-boilerplate,C#,215
 414591409,meysamhadeli/awesome-dotnet-tips,C#,488
 331187187,DGP-Studio/Snap.Genshin,C#,358
