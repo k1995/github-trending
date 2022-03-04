@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1420053,guzzle/guzzle,PHP,2
-12615154,barryvdh/laravel-debugbar,PHP,5
+12615154,barryvdh/laravel-debugbar,PHP,4
 13899674,thephpleague/flysystem,PHP,1
 7549096,doctrine/inflector,PHP,1
-7579180,doctrine/lexer,PHP,1
+7579180,doctrine/lexer,PHP,2
 22726901,doctrine/instantiator,PHP,1
 597887,doctrine/orm,PHP,1
 41589337,BookStackApp/BookStack,PHP,8
-1398648,symfony/http-foundation,PHP,1
+1398648,symfony/http-foundation,PHP,2
 2179920,woocommerce/woocommerce,PHP,0
 7550057,doctrine/cache,PHP,0
 7577142,doctrine/annotations,PHP,0
@@ -15,12 +15,12 @@ id,name,lang,new stars
 23217993,sebastianbergmann/global-state,PHP,1
 7577612,doctrine/collections,PHP,0
 677467,doctrine/common,PHP,0
-97311017,rectorphp/rector,PHP,7
-12204147,mautic/mautic,PHP,2
+97311017,rectorphp/rector,PHP,8
+12204147,mautic/mautic,PHP,1
 76064827,mailcow/mailcow-dockerized,PHP,5
-13914116,librenms/librenms,PHP,2
+13914116,librenms/librenms,PHP,3
 131995661,shopware/platform,PHP,1
-453952491,worksome/envy,PHP,15
-429853818,def-studio/telegraph,PHP,33
-443605948,pablouser1/ProxiTok,PHP,2
+453952491,worksome/envy,PHP,18
+429853818,def-studio/telegraph,PHP,34
+443605948,pablouser1/ProxiTok,PHP,5
 464620942,vnestoruk/ban-dera,PHP,1
