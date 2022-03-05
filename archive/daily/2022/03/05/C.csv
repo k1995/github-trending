@@ -3,10 +3,10 @@ id,name,lang,new stars
 1903522,php/php-src,C,8
 246335987,ventoy/Ventoy,C,32
 10446890,bilibili/ijkplayer,C,6
-18666758,pjreddie/darknet,C,6
+18666758,pjreddie/darknet,C,7
 1357796,emscripten-core/emscripten,C,7
 5101141,stedolan/jq,C,6
-63477515,TheAlgorithms/C,C,20
+63477515,TheAlgorithms/C,C,22
 105627846,reactos/reactos,C,10
 613829,openresty/lua-nginx-module,C,2
 3319040,id-Software/DOOM,C,3
@@ -14,7 +14,7 @@ id,name,lang,new stars
 240507922,mytechnotalent/Reverse-Engineering,C,8
 47057247,Wind4/vlmcsd,C,5
 59771425,zephyrproject-rtos/zephyr,C,7
-91493088,ValdikSS/GoodbyeDPI,C,62
+91493088,ValdikSS/GoodbyeDPI,C,67
 2359378,madler/zlib,C,2
 3276860,ThrowTheSwitch/Unity,C,4
 239665453,Lojii/Knot,C,57
@@ -23,4 +23,4 @@ id,name,lang,new stars
 70934373,Azure/azure-iot-sdk-c,C,2
 403562266,aaaddress1/PR0CESS,C,11
 456351764,pico-coder/sigrok-pico,C,16
-390024694,NVIDIA/DLSS,C,5
+390024694,NVIDIA/DLSS,C,2

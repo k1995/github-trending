@@ -1,10 +1,10 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,346
-10744183,netdata/netdata,C,196
-3774328,wg/wrk,C,80
+111583593,Genymobile/scrcpy,C,348
+10744183,netdata/netdata,C,180
+3774328,wg/wrk,C,77
 18666758,pjreddie/darknet,C,51
 102578345,coolsnowwolf/lede,C,121
-14812739,libuv/libuv,C,62
+14812739,libuv/libuv,C,63
 11715753,robertdavidgraham/masscan,C,64
 20159867,nothings/stb,C,61
 7634677,openssl/openssl,C,86
@@ -12,7 +12,7 @@ id,name,lang,new stars
 45821540,openwrt/openwrt,C,95
 23029617,h2o/h2o,C,101
 927442,postgres/postgres,C,46
-14902556,offensive-security/exploitdb,C,49
+14902556,offensive-security/exploitdb,C,47
 414577657,peng-zhihui/Dummy-Robot,C,87
 47057247,Wind4/vlmcsd,C,36
 91493088,ValdikSS/GoodbyeDPI,C,162
@@ -23,4 +23,4 @@ id,name,lang,new stars
 2359378,madler/zlib,C,12
 438857216,easychen/pushdeer,C,324
 149233191,binbyu/Reader,C,13
-448868245,0voice/kernel_new_features,C,119
+448868245,0voice/kernel_new_features,C,109
