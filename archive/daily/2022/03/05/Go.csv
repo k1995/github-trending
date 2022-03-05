@@ -1,18 +1,18 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,27
-6838921,prometheus/prometheus,Go,18
-15452919,ethereum/go-ethereum,Go,8
+6838921,prometheus/prometheus,Go,17
+15452919,ethereum/go-ethereum,Go,7
 61137153,evanw/esbuild,Go,18
 74175805,istio/istio,Go,12
-13855476,go-gorm/gorm,Go,13
+13855476,go-gorm/gorm,Go,14
 31288958,hashicorp/vault,Go,12
-44498957,valyala/fasthttp,Go,23
-85371712,txthinking/brook,Go,4
+44498957,valyala/fasthttp,Go,24
+85371712,txthinking/brook,Go,3
 109145553,containers/podman,Go,14
-33258973,influxdata/telegraf,Go,6
-130430977,kubesphere/kubesphere,Go,6
+33258973,influxdata/telegraf,Go,5
+130430977,kubesphere/kubesphere,Go,9
 68964263,prometheus-operator/prometheus-operator,Go,3
-413918947,vercel/turborepo,Go,29
+413918947,vercel/turborepo,Go,26
 50629145,google/pprof,Go,4
 53356367,containers/skopeo,Go,4
 173785481,aquasecurity/tfsec,Go,5
@@ -20,7 +20,7 @@ id,name,lang,new stars
 276822250,oam-dev/kubevela,Go,1
 91074692,zalando/postgres-operator,Go,6
 133830411,argoproj/argo-events,Go,6
-451405549,italiaremote/awesome-italia-remote,Go,15
-465303307,samber/lo,Go,235
+451405549,italiaremote/awesome-italia-remote,Go,13
+465303307,samber/lo,Go,227
 463855335,Arriven/db1000n,Go,127
-465344326,projectdiscovery/uncover,Go,18
+465344326,projectdiscovery/uncover,Go,25

@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,28
+1863329,laravel/laravel,PHP,27
 1420053,guzzle/guzzle,PHP,3
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,1
 60243197,nextcloud/server,PHP,7
 2234102,bcit-ci/CodeIgniter,PHP,2
-8678290,barryvdh/laravel-ide-helper,PHP,3
+8678290,barryvdh/laravel-ide-helper,PHP,2
 2884111,magento/magento2,PHP,5
 11340559,deployphp/deployer,PHP,3
 622166,FriendsOfPHP/Goutte,PHP,1
@@ -12,15 +12,15 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,1
 14346979,snipe/snipe-it,PHP,1
 12204147,mautic/mautic,PHP,2
-119047018,linuxserver/Heimdall,PHP,20
-248372441,laravel-filament/filament,PHP,7
-69691727,pmmp/PocketMine-MP,PHP,3
-1934695,xdebug/xdebug,PHP,3
-2686502,pimcore/pimcore,PHP,1
+119047018,linuxserver/Heimdall,PHP,18
+248372441,laravel-filament/filament,PHP,4
+69691727,pmmp/PocketMine-MP,PHP,1
+1934695,xdebug/xdebug,PHP,2
+2686502,pimcore/pimcore,PHP,0
 166299071,archtechx/tenancy,PHP,3
-32315619,DarkaOnLine/L5-Swagger,PHP,2
+32315619,DarkaOnLine/L5-Swagger,PHP,0
 111562942,statamic/cms,PHP,7
 216849756,v2board/v2board,PHP,2
 307018731,DenverCoder1/github-readme-streak-stats,PHP,4
 184538454,yankovalenko94/Webdev2019,PHP,0
-462800272,spatie/global-ray,PHP,18
+462800272,spatie/global-ray,PHP,13
