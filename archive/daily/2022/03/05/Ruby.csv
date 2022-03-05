@@ -1,20 +1,20 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,10
-27442967,fastlane/fastlane,Ruby,9
+27442967,fastlane/fastlane,Ruby,11
 481872,hashicorp/vagrant,Ruby,13
 911765,diaspora/diaspora,Ruby,2
 1090311,elastic/logstash,Ruby,3
-4095287,rubocop/rubocop,Ruby,3
+4095287,rubocop/rubocop,Ruby,2
 3195124,mperham/sidekiq,Ruby,4
 1918677,fluent/fluentd,Ruby,2
 15435,Shopify/liquid,Ruby,6
 8393,thoughtbot/paperclip,Ruby,0
-1333863,kaminari/kaminari,Ruby,3
+1333863,kaminari/kaminari,Ruby,1
 451035,heartcombo/simple_form,Ruby,0
-810796,railsadminteam/rails_admin,Ruby,2
-108278,chef/chef,Ruby,2
+810796,railsadminteam/rails_admin,Ruby,1
+108278,chef/chef,Ruby,0
 1314319,instructure/canvas-lms,Ruby,1
-30985840,solidusio/solidus,Ruby,1
+30985840,solidusio/solidus,Ruby,4
 3898922,zammad/zammad,Ruby,2
 7362671,rails/spring,Ruby,0
 200302808,github/view_component,Ruby,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 3698608,moove-it/sidekiq-scheduler,Ruby,0
 32104924,rails/sprockets,Ruby,0
 407852490,rails/propshaft,Ruby,5
-3276877,ThrowTheSwitch/Ceedling,Ruby,0
+3276877,ThrowTheSwitch/Ceedling,Ruby,1
 363999965,emileypalmquist/coffee-shop,Ruby,0
