@@ -1,17 +1,17 @@
 id,name,lang,new stars
 196353673,taosdata/TDengine,C,11
 80286288,arendst/Tasmota,C,5
-37912398,nginx/nginx,C,5
+37912398,nginx/nginx,C,6
 60667730,lvgl/lvgl,C,5
 65899476,espressif/esp-idf,C,8
 7408108,RT-Thread/rt-thread,C,15
-91493088,ValdikSS/GoodbyeDPI,C,76
+91493088,ValdikSS/GoodbyeDPI,C,69
 130578889,pymumu/smartdns,C,8
 8270972,ARMmbed/mbed-os,C,5
-214011414,kingToolbox/WindTerm,C,33
+214011414,kingToolbox/WindTerm,C,31
 135348215,TelegramMessenger/MTProxy,C,2
 146397768,ithewei/libhv,C,5
-1377037,gluster/glusterfs,C,4
+1377037,gluster/glusterfs,C,5
 6687936,ARMmbed/mbedtls,C,0
 4988795,acassen/keepalived,C,3
 151870364,xiaorouji/openwrt-passwall,C,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 100118525,earlephilhower/ESP8266Audio,C,2
 207354223,FreeRTOS/FreeRTOS-Kernel,C,4
 336719229,TrungNguyen1909/qemu-t8030,C,123
-403562266,aaaddress1/PR0CESS,C,6
-457052429,xerpi/vita2hos,C,168
+403562266,aaaddress1/PR0CESS,C,5
+457052429,xerpi/vita2hos,C,182
 465574029,RedTeamOperations/Journey-to-McAfee,C,10

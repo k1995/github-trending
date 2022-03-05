@@ -1,16 +1,16 @@
 id,name,lang,new stars
-44838949,apple/swift,C++,12
+44838949,apple/swift,C++,10
 23357588,protocolbuffers/protobuf,C++,7
-12791642,BVLC/caffe,C++,4
-11171548,nlohmann/json,C++,15
+12791642,BVLC/caffe,C++,6
+11171548,nlohmann/json,C++,14
 39840932,google/googletest,C++,13
-60246359,ClickHouse/ClickHouse,C++,16
-63477612,TheAlgorithms/C-Plus-Plus,C++,30
-90902132,flameshot-org/flameshot,C++,40
+60246359,ClickHouse/ClickHouse,C++,15
+63477612,TheAlgorithms/C-Plus-Plus,C++,29
+90902132,flameshot-org/flameshot,C++,32
 197275130,microsoft/winget-cli,C++,17
-1217614,xbmc/xbmc,C++,5
-51905353,apache/arrow,C++,5
-1605598,bulletphysics/bullet3,C++,4
+1217614,xbmc/xbmc,C++,4
+51905353,apache/arrow,C++,4
+1605598,bulletphysics/bullet3,C++,3
 26255337,cameron314/concurrentqueue,C++,1
 75413130,isl-org/Open3D,C++,5
 776621,BYVoid/OpenCC,C++,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 86362856,borglab/gtsam,C++,0
 64838142,cartographer-project/cartographer_ros,C++,0
 303308200,hku-mars/FAST_LIO,C++,0
-315035371,amnezia-vpn/desktop-client,C++,16
-331519359,Lakhankumawat/LearnCPP,C++,28
-465303123,Cracked5pider/conti_locker,C++,6
+315035371,amnezia-vpn/desktop-client,C++,14
+331519359,Lakhankumawat/LearnCPP,C++,27
+465303123,Cracked5pider/conti_locker,C++,4
