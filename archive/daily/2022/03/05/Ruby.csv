@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
-65252,jekyll/jekyll,Ruby,12
+8514,rails/rails,Ruby,7
+65252,jekyll/jekyll,Ruby,6
 27442967,fastlane/fastlane,Ruby,12
-21600440,bayandin/awesome-awesomeness,Ruby,6
+21600440,bayandin/awesome-awesomeness,Ruby,5
 481872,hashicorp/vagrant,Ruby,13
 308770,heartcombo/devise,Ruby,4
 538746,ruby/ruby,Ruby,6
 1090311,elastic/logstash,Ruby,3
 3314,spree/spree,Ruby,6
-3195124,mperham/sidekiq,Ruby,5
+3195124,mperham/sidekiq,Ruby,4
 106995,sinatra/sinatra,Ruby,2
 15435,Shopify/liquid,Ruby,6
 6529205,varvet/pundit,Ruby,2
@@ -19,8 +19,8 @@ id,name,lang,new stars
 2050163,aws/aws-sdk-ruby,Ruby,0
 138776049,sorbet/sorbet,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,2
-200302808,github/view_component,Ruby,5
+200302808,github/view_component,Ruby,4
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,0
 29151578,rswag/rswag,Ruby,0
-334416586,rails/kredis,Ruby,14
+334416586,rails/kredis,Ruby,11
 403641521,rails/jsbundling-rails,Ruby,7
