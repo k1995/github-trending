@@ -2,13 +2,13 @@ id,name,lang,new stars
 13491895,EbookFoundation/free-programming-books,,380
 60493101,jwasham/coding-interview-university,,280
 11730342,vuejs/vue,JavaScript,46
-10270250,facebook/react,JavaScript,263
+10270250,facebook/react,JavaScript,171
 54346799,public-apis/public-apis,Python,509
 83222441,donnemartin/system-design-primer,Python,173
 63476337,TheAlgorithms/Python,Python,253
 184456251,microsoft/PowerToys,C#,178
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,208
-196701619,tauri-apps/tauri,Rust,112
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,354
+196701619,tauri-apps/tauri,Rust,183
 931135,Leaflet/Leaflet,JavaScript,25
 31288958,hashicorp/vault,Go,61
 128565937,iamadamdev/bypass-paywalls-chrome,JavaScript,367
@@ -19,7 +19,7 @@ id,name,lang,new stars
 433655415,skydoves/android-developer-roadmap,Kotlin,36
 336719229,TrungNguyen1909/qemu-t8030,C,128
 464172545,opengs/uashield,TypeScript,127
-465614975,mattn/awesome-twitter-communities,Shell,40
+465614975,mattn/awesome-twitter-communities,Shell,78
 356266608,nkallen/plasticity,TypeScript,33
 463855335,Arriven/db1000n,Go,154
 464065100,hpcaitech/FastFold,Python,43

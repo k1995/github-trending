@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,22
+1863329,laravel/laravel,PHP,21
 1420053,guzzle/guzzle,PHP,3
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,0
 60243197,nextcloud/server,PHP,9
 2234102,bcit-ci/CodeIgniter,PHP,1
 8678290,barryvdh/laravel-ide-helper,PHP,1
-2884111,magento/magento2,PHP,4
+2884111,magento/magento2,PHP,3
 11340559,deployphp/deployer,PHP,2
 622166,FriendsOfPHP/Goutte,PHP,0
 9193949,wallabag/wallabag,PHP,5
-6763587,PrestaShop/PrestaShop,PHP,2
+6763587,PrestaShop/PrestaShop,PHP,0
 14346979,snipe/snipe-it,PHP,0
 12204147,mautic/mautic,PHP,3
 119047018,linuxserver/Heimdall,PHP,14
@@ -19,8 +19,8 @@ id,name,lang,new stars
 2686502,pimcore/pimcore,PHP,0
 166299071,archtechx/tenancy,PHP,2
 32315619,DarkaOnLine/L5-Swagger,PHP,0
-111562942,statamic/cms,PHP,9
-216849756,v2board/v2board,PHP,3
-307018731,DenverCoder1/github-readme-streak-stats,PHP,2
+111562942,statamic/cms,PHP,2
+216849756,v2board/v2board,PHP,2
+307018731,DenverCoder1/github-readme-streak-stats,PHP,1
 184538454,yankovalenko94/Webdev2019,PHP,0
-462800272,spatie/global-ray,PHP,21
+462800272,spatie/global-ray,PHP,10

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,26
+6838921,prometheus/prometheus,Go,13
+15452919,ethereum/go-ethereum,Go,12
+61137153,evanw/esbuild,Go,12
+74175805,istio/istio,Go,9
+13855476,go-gorm/gorm,Go,11
+31288958,hashicorp/vault,Go,97
+44498957,valyala/fasthttp,Go,18
+109145553,containers/podman,Go,21
+85371712,txthinking/brook,Go,2
+33258973,influxdata/telegraf,Go,4
+130430977,kubesphere/kubesphere,Go,12
+68964263,prometheus-operator/prometheus-operator,Go,7
+413918947,vercel/turborepo,Go,23
+50629145,google/pprof,Go,4
+53356367,containers/skopeo,Go,6
+173785481,aquasecurity/tfsec,Go,6
+318476701,containerd/nerdctl,Go,4
+276822250,oam-dev/kubevela,Go,2
+91074692,zalando/postgres-operator,Go,6
+133830411,argoproj/argo-events,Go,4
+465303307,samber/lo,Go,283
+451405549,italiaremote/awesome-italia-remote,Go,15
+463855335,Arriven/db1000n,Go,109
+465344326,projectdiscovery/uncover,Go,38
