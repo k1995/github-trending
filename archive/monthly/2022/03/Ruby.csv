@@ -1,8 +1,8 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,252
-8681349,huginn/huginn,Ruby,649
+8681349,huginn/huginn,Ruby,630
 13840241,freeCodeCamp/devdocs,Ruby,276
-52281283,mastodon/mastodon,Ruby,485
+52281283,mastodon/mastodon,Ruby,486
 2293158,rapid7/metasploit-framework,Ruby,316
 481872,hashicorp/vagrant,Ruby,166
 2500088,gitlabhq/gitlabhq,Ruby,46
@@ -18,7 +18,7 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,82
 33739333,thoughtbot/administrate,Ruby,29
 30337170,rmosolgo/graphql-ruby,Ruby,29
-1314319,instructure/canvas-lms,Ruby,53
+1314319,instructure/canvas-lms,Ruby,51
 3898922,zammad/zammad,Ruby,43
 5144181,jnunemaker/flipper,Ruby,39
 200302808,github/view_component,Ruby,70
