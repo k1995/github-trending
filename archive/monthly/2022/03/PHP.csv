@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,846
-3482588,danielmiessler/SecLists,PHP,631
-7548986,laravel/framework,PHP,420
-60243197,nextcloud/server,PHP,383
+1863329,laravel/laravel,PHP,848
+3482588,danielmiessler/SecLists,PHP,632
+7548986,laravel/framework,PHP,419
+60243197,nextcloud/server,PHP,382
 2253830,PHPMailer/PHPMailer,PHP,248
-82238168,monicahq/monica,PHP,293
+82238168,monicahq/monica,PHP,292
 53783664,easychen/howto-make-more-money,PHP,115
 3431193,yiisoft/yii2,PHP,50
-12615154,barryvdh/laravel-debugbar,PHP,137
-2699935,squizlabs/PHP_CodeSniffer,PHP,82
+12615154,barryvdh/laravel-debugbar,PHP,138
+2699935,squizlabs/PHP_CodeSniffer,PHP,83
 212659,sebastianbergmann/php-code-coverage,PHP,45
 33904351,laravel/lumen,PHP,53
 21298446,firefly-iii/firefly-iii,PHP,229
-16238673,kanboard/kanboard,PHP,72
+16238673,kanboard/kanboard,PHP,74
 14346979,snipe/snipe-it,PHP,127
 76064827,mailcow/mailcow-dockerized,PHP,115
 60010673,elementor/elementor,PHP,51
@@ -20,7 +20,7 @@ id,name,lang,new stars
 8077402,MISP/MISP,PHP,80
 291805291,laravel/jetstream,PHP,61
 73781385,orchidsoftware/platform,PHP,121
-39182755,glpi-project/glpi,PHP,68
-166299071,archtechx/tenancy,PHP,107
+39182755,glpi-project/glpi,PHP,67
+166299071,archtechx/tenancy,PHP,108
 131995661,shopware/platform,PHP,100
 449622001,PGYER/codefever,PHP,848

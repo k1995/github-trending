@@ -1,16 +1,16 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,7
-27442967,fastlane/fastlane,Ruby,12
-53238813,Homebrew/brew,Ruby,14
-52281283,mastodon/mastodon,Ruby,10
-2293158,rapid7/metasploit-framework,Ruby,12
-308770,heartcombo/devise,Ruby,3
+27442967,fastlane/fastlane,Ruby,4
+53238813,Homebrew/brew,Ruby,13
+52281283,mastodon/mastodon,Ruby,7
+2293158,rapid7/metasploit-framework,Ruby,9
+308770,heartcombo/devise,Ruby,4
 3623050,Homebrew/homebrew-cask,Ruby,4
-538746,ruby/ruby,Ruby,3
-911765,diaspora/diaspora,Ruby,3
-1090311,elastic/logstash,Ruby,1
-585285,gollum/gollum,Ruby,2
-18486300,lewagon/setup,Ruby,0
+538746,ruby/ruby,Ruby,2
+911765,diaspora/diaspora,Ruby,4
+1090311,elastic/logstash,Ruby,2
+585285,gollum/gollum,Ruby,3
+18486300,lewagon/setup,Ruby,1
 3314,spree/spree,Ruby,2
 88740103,postalserver/postal,Ruby,2
 1918677,fluent/fluentd,Ruby,3
@@ -19,8 +19,8 @@ id,name,lang,new stars
 910744,puppetlabs/puppet,Ruby,1
 2185269,busyloop/lolcat,Ruby,3
 6768710,redmine/redmine,Ruby,1
-1952825,Homebrew/homebrew-bundle,Ruby,1
+1952825,Homebrew/homebrew-bundle,Ruby,0
 4523235,asciidoctor/asciidoctor,Ruby,2
 103766152,github/explore,Ruby,1
 614070,rubygems/rubygems,Ruby,2
-407852490,rails/propshaft,Ruby,2
+407852490,rails/propshaft,Ruby,3
