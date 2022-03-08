@@ -1,17 +1,17 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,497
+13491895,EbookFoundation/free-programming-books,,500
 60493101,jwasham/coding-interview-university,,272
 54346799,public-apis/public-apis,Python,412
-83222441,donnemartin/system-design-primer,Python,196
+83222441,donnemartin/system-design-primer,Python,198
 132750724,danistefanovic/build-your-own-x,,157
-63476337,TheAlgorithms/Python,Python,309
+63476337,TheAlgorithms/Python,Python,314
 15634981,godotengine/godot,C++,72
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,360
 139824423,Avik-Jain/100-Days-Of-ML-Code,,168
 238316428,CSSEGISandData/COVID-19,,10
 67702184,topjohnwu/Magisk,C++,96
-40484398,discordjs/discord.js,JavaScript,221
-75785240,authelia/authelia,Go,204
+40484398,discordjs/discord.js,JavaScript,202
+75785240,authelia/authelia,Go,246
 37346186,termux/termux-packages,Shell,49
 433655415,skydoves/android-developer-roadmap,Kotlin,117
 465303307,samber/lo,Go,647
@@ -22,5 +22,5 @@ id,name,lang,new stars
 465887466,codez0mb1e/resistance,,63
 464516549,alexmon1989/russia_ddos,Python,56
 451764887,hashlips-lab/nft-erc721-collection,TypeScript,11
-445770900,solidlyexchange/solidly.exchange,JavaScript,36
-453099264,jlop007/FreeCodeCamp-NewsFlash,HTML,32
+445770900,solidlyexchange/solidly.exchange,JavaScript,43
+453099264,jlop007/FreeCodeCamp-NewsFlash,HTML,34
