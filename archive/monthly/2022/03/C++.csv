@@ -1,10 +1,10 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,673
-100060912,microsoft/terminal,C++,1170
-23357588,protocolbuffers/protobuf,C++,498
-22067521,ocornut/imgui,C++,1808
+100060912,microsoft/terminal,C++,1155
+23357588,protocolbuffers/protobuf,C++,501
+22067521,ocornut/imgui,C++,1814
 27729880,grpc/grpc,C++,319
-39840932,google/googletest,C++,428
+39840932,google/googletest,C++,431
 120887835,huihut/interview,C++,784
 6934395,facebook/rocksdb,C++,265
 74660642,taichi-dev/taichi,C++,368
@@ -15,12 +15,12 @@ id,name,lang,new stars
 186309296,lettier/3d-game-shaders-for-beginners,C++,364
 108102826,carla-simulator/carla,C++,216
 23086893,google/re2,C++,126
-235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,382
-189205663,qinguoyi/TinyWebServer,C++,557
-58168143,PixarAnimationStudios/USD,C++,67
+235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,380
+189205663,qinguoyi/TinyWebServer,C++,568
+58168143,PixarAnimationStudios/USD,C++,66
 257596449,epezent/implot,C++,104
 10599951,emilybache/GildedRose-Refactoring-Kata,C++,47
 409109530,vooidzero/B23Downloader,C++,858
 208145128,google/iree,C++,90
 358678977,NVlabs/tiny-cuda-nn,C++,251
-404800870,mit-dci/opencbdc-tx,C++,323
+404800870,mit-dci/opencbdc-tx,C++,309
