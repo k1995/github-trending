@@ -1,13 +1,13 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,156
+3482588,danielmiessler/SecLists,PHP,154
 458058,symfony/symfony,PHP,44
 7548986,laravel/framework,PHP,81
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,30
 448045,sebastianbergmann/phpunit,PHP,14
 2234102,bcit-ci/CodeIgniter,PHP,12
-2884111,magento/magento2,PHP,35
+2884111,magento/magento2,PHP,34
 6763587,PrestaShop/PrestaShop,PHP,29
-9791525,digininja/DVWA,PHP,27
+9791525,digininja/DVWA,PHP,26
 12204147,mautic/mautic,PHP,18
 76064827,mailcow/mailcow-dockerized,PHP,32
 159606650,hyperf/hyperf,PHP,26
@@ -20,7 +20,7 @@ id,name,lang,new stars
 129852395,assimon/dujiaoka,PHP,23
 17722440,Rudloff/alltube,PHP,21
 17253775,zabbix/zabbix,PHP,20
-111562942,statamic/cms,PHP,30
-449622001,PGYER/codefever,PHP,204
+111562942,statamic/cms,PHP,29
+449622001,PGYER/codefever,PHP,197
 216849756,v2board/v2board,PHP,20
 249877309,mirai-mamori/Sakurairo,PHP,28

@@ -1,5 +1,5 @@
 id,name,lang,new stars
-18666758,pjreddie/darknet,C,64
+18666758,pjreddie/darknet,C,65
 102578345,coolsnowwolf/lede,C,107
 20159867,nothings/stb,C,74
 7634677,openssl/openssl,C,85
@@ -12,15 +12,15 @@ id,name,lang,new stars
 7408108,RT-Thread/rt-thread,C,44
 47057247,Wind4/vlmcsd,C,48
 59771425,zephyrproject-rtos/zephyr,C,43
-91493088,ValdikSS/GoodbyeDPI,C,218
-7037996,VirusTotal/yara,C,28
+91493088,ValdikSS/GoodbyeDPI,C,219
+7037996,VirusTotal/yara,C,26
 44781140,greenplum-db/gpdb,C,19
 34431834,xmake-io/xmake,C,55
-86245815,pygame/pygame,C,53
+86245815,pygame/pygame,C,51
 214011414,kingToolbox/WindTerm,C,211
-200321698,rui314/chibicc,C,162
+200321698,rui314/chibicc,C,148
 2359378,madler/zlib,C,16
 151870364,xiaorouji/openwrt-passwall,C,34
 34807561,nanopb/nanopb,C,18
 3276860,ThrowTheSwitch/Unity,C,16
-256105296,fw876/helloworld,C,30
+256105296,fw876/helloworld,C,31

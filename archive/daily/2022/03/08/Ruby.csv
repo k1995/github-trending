@@ -1,11 +1,11 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,14
+65252,jekyll/jekyll,Ruby,11
 481872,hashicorp/vagrant,Ruby,11
-308770,heartcombo/devise,Ruby,3
+308770,heartcombo/devise,Ruby,2
 37382858,kilimchoi/engineering-blogs,Ruby,33
 1090311,elastic/logstash,Ruby,3
 18486300,lewagon/setup,Ruby,0
-4095287,rubocop/rubocop,Ruby,1
+4095287,rubocop/rubocop,Ruby,2
 88740103,postalserver/postal,Ruby,5
 361310,teamcapybara/capybara,Ruby,2
 812393,ruby-grape/grape,Ruby,1
@@ -14,13 +14,13 @@ id,name,lang,new stars
 451035,heartcombo/simple_form,Ruby,1
 6529205,varvet/pundit,Ruby,0
 21829,thoughtbot/factory_bot,Ruby,1
-535266,vcr/vcr,Ruby,2
+535266,vcr/vcr,Ruby,3
 2802565,doorkeeper-gem/doorkeeper,Ruby,1
 137805,redis/redis-rb,Ruby,0
-115859973,ddnexus/pagy,Ruby,3
+115859973,ddnexus/pagy,Ruby,2
 229006,mileszs/wicked_pdf,Ruby,0
 3898922,zammad/zammad,Ruby,1
 46698467,ankane/strong_migrations,Ruby,6
 93163073,dependabot/dependabot-core,Ruby,4
 136781582,rubocop/rubocop-rails,Ruby,0
-1784628,rails/sprockets-rails,Ruby,1
+1784628,rails/sprockets-rails,Ruby,2
