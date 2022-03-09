@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,70
+2325298,torvalds/linux,C,74
 569041,curl/curl,C,7
 18666758,pjreddie/darknet,C,16
-14812739,libuv/libuv,C,9
+14812739,libuv/libuv,C,7
 196353673,taosdata/TDengine,C,6
-5254557,cloudwu/skynet,C,5
+5254557,cloudwu/skynet,C,4
 613829,openresty/lua-nginx-module,C,6
 32873313,systemd/systemd,C,2
-179354282,acidanthera/OpenCorePkg,C,12
+179354282,acidanthera/OpenCorePkg,C,10
 1856976,libevent/libevent,C,4
 254327261,sandboxie-plus/Sandboxie,C,10
 673267,redis/hiredis,C,2
@@ -19,8 +19,8 @@ id,name,lang,new stars
 321154,libffi/libffi,C,2
 122993186,remzi-arpacidusseau/ostep-code,C,2
 238539562,checkra1n/PongoOS,C,29
-23780138,riscv-collab/riscv-gnu-toolchain,C,1
+23780138,riscv-collab/riscv-gnu-toolchain,C,0
 331380723,raspberrypi/pico-sdk,C,3
-32760969,kuba--/zip,C,7
+32760969,kuba--/zip,C,9
 121516035,nrfconnect/sdk-nrf,C,0
-466896108,SecIdiot/bootkit,C,6
+466896108,SecIdiot/bootkit,C,7
