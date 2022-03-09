@@ -1,14 +1,14 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,166
+3482588,danielmiessler/SecLists,PHP,163
 458058,symfony/symfony,PHP,45
 7548986,laravel/framework,PHP,79
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,31
 448045,sebastianbergmann/phpunit,PHP,12
 2234102,bcit-ci/CodeIgniter,PHP,11
 2884111,magento/magento2,PHP,31
-41589337,BookStackApp/BookStack,PHP,42
+41589337,BookStackApp/BookStack,PHP,43
 6763587,PrestaShop/PrestaShop,PHP,27
-9791525,digininja/DVWA,PHP,28
+9791525,digininja/DVWA,PHP,27
 12204147,mautic/mautic,PHP,20
 76064827,mailcow/mailcow-dockerized,PHP,35
 159606650,hyperf/hyperf,PHP,26
@@ -18,9 +18,9 @@ id,name,lang,new stars
 13044600,salesagility/SuiteCRM,PHP,13
 39182755,glpi-project/glpi,PHP,15
 129852395,assimon/dujiaoka,PHP,22
-17722440,Rudloff/alltube,PHP,26
-111562942,statamic/cms,PHP,29
-8189133,aws/aws-sdk-php-laravel,PHP,3
+17722440,Rudloff/alltube,PHP,27
+111562942,statamic/cms,PHP,30
+8189133,aws/aws-sdk-php-laravel,PHP,4
 216849756,v2board/v2board,PHP,21
 249877309,mirai-mamori/Sakurairo,PHP,29
 120242779,3masterplus/book,PHP,14
