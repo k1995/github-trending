@@ -6,12 +6,12 @@ id,name,lang,new stars
 16752620,gogs/gogs,Go,68
 17728164,hashicorp/terraform,Go,110
 41986369,pingcap/tidb,Go,101
-31288958,hashicorp/vault,Go,357
+31288958,hashicorp/vault,Go,339
 119160553,photoprism/photoprism,Go,144
 165041732,go-kratos/kratos,Go,160
 75785240,authelia/authelia,Go,420
-62712899,AdguardTeam/AdGuardHome,Go,97
-1380117,getlantern/lantern,Go,63
+62712899,AdguardTeam/AdGuardHome,Go,95
+1380117,getlantern/lantern,Go,64
 93444615,hashicorp/terraform-provider-aws,Go,47
 95761244,gogf/gf,Go,75
 370977430,OpenIMSDK/Open-IM-Server,Go,129
