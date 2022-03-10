@@ -2,13 +2,13 @@ id,name,lang,new stars
 65600975,pytorch/pytorch,C++,33
 23357588,protocolbuffers/protobuf,C++,28
 22067521,ocornut/imgui,C++,25
-27729880,grpc/grpc,C++,19
+27729880,grpc/grpc,C++,17
 76222419,Tencent/mars,C++,3
 1062572,catchorg/Catch2,C++,2
 17391973,Tencent/rapidjson,C++,11
 2310495,ceph/ceph,C++,4
-51905353,apache/arrow,C++,10
-31102092,google/or-tools,C++,9
+51905353,apache/arrow,C++,11
+31102092,google/or-tools,C++,10
 146459443,vesoft-inc/nebula,C++,9
 8162615,PointCloudLibrary/pcl,C++,6
 7512484,ArduPilot/ardupilot,C++,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 267792621,Tencent/TNN,C++,3
 239043195,microsoft/GW-BASIC,C++,21
 35440404,aws/aws-sdk-cpp,C++,1
-37287688,mfem/mfem,C++,3
+37287688,mfem/mfem,C++,4
 356055024,tensorflow/tflite-micro,C++,3
 389726829,adi3120/Fazen-A-Command-Prompt-Graphics-Engine,C++,19
 465896293,tuffee88/d3d12ProxyEdrDx11_0,C++,12
