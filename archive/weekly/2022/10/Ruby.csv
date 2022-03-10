@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,72
-65252,jekyll/jekyll,Ruby,68
+65252,jekyll/jekyll,Ruby,67
 27442967,fastlane/fastlane,Ruby,65
-21600440,bayandin/awesome-awesomeness,Ruby,39
+21600440,bayandin/awesome-awesomeness,Ruby,40
 13840241,freeCodeCamp/devdocs,Ruby,80
-2293158,rapid7/metasploit-framework,Ruby,86
-481872,hashicorp/vagrant,Ruby,59
+2293158,rapid7/metasploit-framework,Ruby,87
+481872,hashicorp/vagrant,Ruby,61
 37382858,kilimchoi/engineering-blogs,Ruby,75
-1090311,elastic/logstash,Ruby,20
+1090311,elastic/logstash,Ruby,19
 4095287,rubocop/rubocop,Ruby,16
 3195124,mperham/sidekiq,Ruby,25
 88740103,postalserver/postal,Ruby,29
@@ -17,7 +17,7 @@ id,name,lang,new stars
 138776049,sorbet/sorbet,Ruby,9
 103766152,github/explore,Ruby,17
 1175581,citation-style-language/styles,Ruby,8
-200302808,github/view_component,Ruby,22
+200302808,github/view_component,Ruby,21
 390548093,rails/importmap-rails,Ruby,11
 403641521,rails/jsbundling-rails,Ruby,18
 407852490,rails/propshaft,Ruby,19
