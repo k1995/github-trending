@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,821
-3482588,danielmiessler/SecLists,PHP,616
+1863329,laravel/laravel,PHP,816
+3482588,danielmiessler/SecLists,PHP,614
 7548986,laravel/framework,PHP,403
-60243197,nextcloud/server,PHP,381
-2253830,PHPMailer/PHPMailer,PHP,257
+60243197,nextcloud/server,PHP,375
+2253830,PHPMailer/PHPMailer,PHP,260
 82238168,monicahq/monica,PHP,277
-53783664,easychen/howto-make-more-money,PHP,103
-3431193,yiisoft/yii2,PHP,53
-12615154,barryvdh/laravel-debugbar,PHP,130
+53783664,easychen/howto-make-more-money,PHP,99
+3431193,yiisoft/yii2,PHP,49
+12615154,barryvdh/laravel-debugbar,PHP,129
 2699935,squizlabs/PHP_CodeSniffer,PHP,86
 212659,sebastianbergmann/php-code-coverage,PHP,44
 2179920,woocommerce/woocommerce,PHP,70
@@ -17,10 +17,10 @@ id,name,lang,new stars
 60010673,elementor/elementor,PHP,50
 62937181,PrivateBin/PrivateBin,PHP,81
 8077402,MISP/MISP,PHP,87
-265782973,hlmd/Postman-cn,PHP,196
+265782973,hlmd/Postman-cn,PHP,194
 291805291,laravel/jetstream,PHP,59
 39182755,glpi-project/glpi,PHP,72
-166299071,archtechx/tenancy,PHP,109
-131995661,shopware/platform,PHP,96
-449622001,PGYER/codefever,PHP,550
+166299071,archtechx/tenancy,PHP,108
+131995661,shopware/platform,PHP,93
+449622001,PGYER/codefever,PHP,500
 174021137,inertiajs/pingcrm,PHP,34
