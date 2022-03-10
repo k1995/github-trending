@@ -1,14 +1,14 @@
 id,name,lang,new stars
 74627617,commaai/openpilot,Python,20
 118861276,gto76/python-cheatsheet,Python,24
-33884891,apache/airflow,Python,10
-264818686,ultralytics/yolov5,Python,77
+33884891,apache/airflow,Python,11
+264818686,ultralytics/yolov5,Python,69
 21467110,explosion/spaCy,Python,17
 123303402,python-poetry/poetry,Python,16
-65711522,PaddlePaddle/Paddle,Python,8
+65711522,PaddlePaddle/Paddle,Python,7
 250213286,huggingface/datasets,Python,49
 136202695,mlflow/mlflow,Python,6
-91594105,ansible/awx,Python,5
+91594105,ansible/awx,Python,4
 197153676,Chia-Network/chia-blockchain,Python,9
 41179827,Rapptz/discord.py,Python,94
 3544490,PyGithub/PyGithub,Python,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 243744018,man-group/notebooker,Python,28
 431946427,VHellendoorn/Code-LMs,Python,177
 432054324,royorel/StyleSDF,Python,28
-467214598,joshpatten/PVE-VDIClient,Python,14
+467214598,joshpatten/PVE-VDIClient,Python,12
