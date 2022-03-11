@@ -1,11 +1,11 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,79
+132464395,Snailclimb/JavaGuide,Java,80
 1148753,spring-projects/spring-framework,Java,13
 44662669,dbeaver/dbeaver,Java,37
 6766558,Netflix/Hystrix,Java,6
 7587038,alibaba/canal,Java,23
 18723836,dromara/hutool,Java,10
-137451403,alibaba/nacos,Java,17
+137451403,alibaba/nacos,Java,18
 20818126,google/ExoPlayer,Java,7
 149121954,openjdk/jdk,Java,18
 77993578,LuckSiege/PictureSelector,Java,5
@@ -14,10 +14,10 @@ id,name,lang,new stars
 206424,apache/cassandra,Java,2
 12499251,checkstyle/checkstyle,Java,25
 391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,11
-191744942,Tencent/Shadow,Java,4
+191744942,Tencent/Shadow,Java,3
 283046497,airbytehq/airbyte,Java,11
 33816473,testcontainers/testcontainers-java,Java,4
-50904245,apache/beam,Java,6
+50904245,apache/beam,Java,4
 69400326,confluentinc/ksql,Java,1
 5663857,jeremylong/DependencyCheck,Java,2
 76474200,apache/hudi,Java,3
