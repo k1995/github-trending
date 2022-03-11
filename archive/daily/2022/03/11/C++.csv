@@ -1,18 +1,18 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,31
-65600975,pytorch/pytorch,C++,35
-23357588,protocolbuffers/protobuf,C++,22
-11171548,nlohmann/json,C++,22
+65600975,pytorch/pytorch,C++,30
+23357588,protocolbuffers/protobuf,C++,24
+11171548,nlohmann/json,C++,18
 4524181,facebook/folly,C++,10
 65214191,envoyproxy/envoy,C++,9
 196813750,Light-City/CPlusPlusThings,C++,36
-160083795,SerenityOS/serenity,C++,16
+160083795,SerenityOS/serenity,C++,18
 1062572,catchorg/Catch2,C++,12
 95879426,Tencent/ncnn,C++,8
 7056202,fmtlib/fmt,C++,22
-146459443,vesoft-inc/nebula,C++,13
+146459443,vesoft-inc/nebula,C++,14
 299510783,rui314/mold,C++,21
-86897963,ZLMediaKit/ZLMediaKit,C++,11
+86897963,ZLMediaKit/ZLMediaKit,C++,9
 1690480,qgis/QGIS,C++,3
 98470332,sebastianstarke/AI4Animation,C++,12
 354743391,o3de/o3de,C++,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 22660515,doctest/doctest,C++,0
 244694174,project-chip/connectedhomeip,C++,1
 1368195,chriskohlhoff/asio,C++,0
-153097643,openvinotoolkit/openvino,C++,5
-178613040,Neargye/magic_enum,C++,3
-83542585,wisdompeak/LeetCode,C++,6
-350375089,DefTruth/lite.ai.toolkit,C++,14
+153097643,openvinotoolkit/openvino,C++,4
+178613040,Neargye/magic_enum,C++,7
+83542585,wisdompeak/LeetCode,C++,5
+350375089,DefTruth/lite.ai.toolkit,C++,17
