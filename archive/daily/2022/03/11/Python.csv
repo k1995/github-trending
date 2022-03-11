@@ -7,12 +7,12 @@ id,name,lang,new stars
 212639071,bregman-arie/devops-exercises,Python,18
 262296122,PaddlePaddle/PaddleOCR,Python,23
 253601257,alievk/avatarify-python,Python,78
-13595305,searx/searx,Python,27
+13595305,searx/searx,Python,36
 90194616,samuelcolvin/pydantic,Python,8
 377851948,deepmind/alphafold,Python,10
-192640529,heartexlabs/label-studio,Python,8
+192640529,heartexlabs/label-studio,Python,10
 117772329,MVIG-SJTU/AlphaPose,Python,2
-159271175,sqlalchemy/sqlalchemy,Python,8
+159271175,sqlalchemy/sqlalchemy,Python,16
 72473727,kubernetes-client/python,Python,1
 155376283,nccgroup/ScoutSuite,Python,6
 244024353,PantsuDango/Dango-Translator,Python,13
@@ -23,4 +23,4 @@ id,name,lang,new stars
 281770989,google-research/kubric,Python,127
 431946427,VHellendoorn/Code-LMs,Python,106
 312485832,larymak/Python-project-Scripts,Python,7
-467496548,TeoCalvo/sql_gc,Python,26
+467496548,TeoCalvo/sql_gc,Python,17

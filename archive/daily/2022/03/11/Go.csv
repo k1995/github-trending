@@ -1,12 +1,12 @@
 id,name,lang,new stars
-23096959,golang/go,Go,62
-20580498,kubernetes/kubernetes,Go,48
-7691631,moby/moby,Go,17
+23096959,golang/go,Go,54
+20580498,kubernetes/kubernetes,Go,46
+7691631,moby/moby,Go,19
 15452919,ethereum/go-ethereum,Go,27
-56353740,kubernetes/minikube,Go,15
+56353740,kubernetes/minikube,Go,14
 50613991,goharbor/harbor,Go,13
 123572362,quii/learn-go-with-tests,Go,20
-5179099,go-redis/redis,Go,10
+5179099,go-redis/redis,Go,11
 8966356,hashicorp/packer,Go,6
 7083242,go-sql-driver/mysql,Go,7
 87617508,casbin/casbin,Go,17
@@ -14,13 +14,13 @@ id,name,lang,new stars
 46089560,containerd/containerd,Go,10
 201658460,geektutu/7days-golang,Go,9
 119190187,zricethezav/gitleaks,Go,24
-120896210,argoproj/argo-cd,Go,12
+120896210,argoproj/argo-cd,Go,9
 92313258,cert-manager/cert-manager,Go,8
 413918947,vercel/turborepo,Go,20
 105262714,oauth2-proxy/oauth2-proxy,Go,7
-150713223,kubeedge/kubeedge,Go,7
+150713223,kubeedge/kubeedge,Go,6
 332424498,liamg/traitor,Go,94
-74499101,roboll/helmfile,Go,5
-57333709,kubernetes/test-infra,Go,1
-203927039,xinliangnote/go-gin-api,Go,11
-403559729,YaoApp/yao,Go,325
+74499101,roboll/helmfile,Go,4
+57333709,kubernetes/test-infra,Go,0
+203927039,xinliangnote/go-gin-api,Go,10
+403559729,YaoApp/yao,Go,421
