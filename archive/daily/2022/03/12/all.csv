@@ -1,26 +1,26 @@
 id,name,lang,new stars
 60493101,jwasham/coding-interview-university,,255
-35955666,jlevy/the-art-of-command-line,,232
-9384267,electron/electron,C++,39
-20929025,microsoft/TypeScript,TypeScript,97
-23083156,mui/material-ui,JavaScript,109
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,200
+23088740,axios/axios,JavaScript,34
 31629751,cypress-io/cypress,JavaScript,111
-33486016,onevcat/Kingfisher,Swift,43
-123572362,quii/learn-go-with-tests,Go,101
-180328715,pmndrs/zustand,TypeScript,172
+56969116,ngosang/trackerslist,,32
+33263118,gorhill/uBlock,JavaScript,46
+118861276,gto76/python-cheatsheet,Python,85
+37448451,mattermost/mattermost-server,Go,11
+152870372,ruanyf/weekly,,19
+33486016,onevcat/Kingfisher,Swift,45
 317836248,GorvGoyl/Clone-Wars,,41
-34407651,Azure/azure-quickstart-templates,Shell,55
+100061716,nrwl/nx,TypeScript,12
 196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,262
-13595305,searx/searx,Python,90
-72343657,mifi/lossless-cut,JavaScript,136
-12499251,checkstyle/checkstyle,Java,119
+131881622,NVIDIA/DeepLearningExamples,Python,17
+419991646,mli/paper-reading,,18
 194269070,skyline-emu/skyline,C++,121
 332424498,liamg/traitor,Go,100
-403559729,YaoApp/yao,Go,189
-145183271,Azure/Azure-Sentinel,Jupyter Notebook,26
-358917318,apache/arrow-datafusion,Rust,38
-422274596,hpcaitech/ColossalAI,Python,101
-328770750,vavkamil/awesome-bugbounty-tools,,94
-431946427,VHellendoorn/Code-LMs,Python,45
-466669864,J0o1ey/BountyHunterInChina,,66
+151870364,xiaorouji/openwrt-passwall,C,5
+282994686,ververica/flink-cdc-connectors,Java,6
+322608016,giltayar/proposal-types-as-comments,JavaScript,204
+266052652,sysdream/ligolo,Go,32
+396327436,devkodeio/the-dom-challenge,HTML,21
+465195923,darbra/sperm,,10
+440301490,facebookresearch/StyleNeRF,Python,59
+432137963,deepmind/ithaca,Jupyter Notebook,38
+430536935,loggie-io/loggie,Go,22
