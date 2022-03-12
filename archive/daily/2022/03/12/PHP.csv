@@ -1,8 +1,8 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,7
-1420053,guzzle/guzzle,PHP,10
-60243197,nextcloud/server,PHP,12
-2253830,PHPMailer/PHPMailer,PHP,4
+1420053,guzzle/guzzle,PHP,4
+60243197,nextcloud/server,PHP,14
+2253830,PHPMailer/PHPMailer,PHP,5
 1548202,matomo-org/matomo,PHP,4
 5724990,briannesbitt/Carbon,PHP,6
 1631570,nikic/PHP-Parser,PHP,2
@@ -10,17 +10,17 @@ id,name,lang,new stars
 61490598,PHPOffice/PhpSpreadsheet,PHP,4
 23680678,tymondesigns/jwt-auth,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,5
-10238429,tennc/webshell,PHP,3
+10238429,tennc/webshell,PHP,2
 2179920,woocommerce/woocommerce,PHP,2
 2141186,opencart/opencart,PHP,1
-9791525,digininja/DVWA,PHP,4
+9791525,digininja/DVWA,PHP,3
 14346979,snipe/snipe-it,PHP,2
 10883164,barryvdh/laravel-dompdf,PHP,0
-76064827,mailcow/mailcow-dockerized,PHP,7
-159606650,hyperf/hyperf,PHP,3
+76064827,mailcow/mailcow-dockerized,PHP,6
+159606650,hyperf/hyperf,PHP,2
 60010673,elementor/elementor,PHP,2
 13914116,librenms/librenms,PHP,4
 17253775,zabbix/zabbix,PHP,1
-39682214,Piwigo/Piwigo,PHP,10
-75645659,WordPress/wordpress-develop,PHP,5
-432587463,cckuailong/reapoc,PHP,2
+39682214,Piwigo/Piwigo,PHP,11
+75645659,WordPress/wordpress-develop,PHP,3
+432587463,cckuailong/reapoc,PHP,0

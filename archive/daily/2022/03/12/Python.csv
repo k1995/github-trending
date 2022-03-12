@@ -1,12 +1,12 @@
 id,name,lang,new stars
-155220641,huggingface/transformers,Python,46
-74627617,commaai/openpilot,Python,21
+155220641,huggingface/transformers,Python,49
+74627617,commaai/openpilot,Python,25
 118861276,gto76/python-cheatsheet,Python,85
-24976755,hankcs/HanLP,Python,15
+24976755,hankcs/HanLP,Python,11
 21467110,explosion/spaCy,Python,43
-212639071,bregman-arie/devops-exercises,Python,21
+212639071,bregman-arie/devops-exercises,Python,22
 262296122,PaddlePaddle/PaddleOCR,Python,13
-253601257,alievk/avatarify-python,Python,43
+253601257,alievk/avatarify-python,Python,41
 13595305,searx/searx,Python,90
 90194616,samuelcolvin/pydantic,Python,14
 377851948,deepmind/alphafold,Python,10
@@ -14,13 +14,13 @@ id,name,lang,new stars
 117772329,MVIG-SJTU/AlphaPose,Python,5
 159271175,sqlalchemy/sqlalchemy,Python,15
 72473727,kubernetes-client/python,Python,6
-155376283,nccgroup/ScoutSuite,Python,9
-244024353,PantsuDango/Dango-Translator,Python,14
-190823163,Datalux/Osintgram,Python,14
+155376283,nccgroup/ScoutSuite,Python,10
+244024353,PantsuDango/Dango-Translator,Python,12
+190823163,Datalux/Osintgram,Python,13
 51040886,Azure/azure-cli,Python,2
 416829986,libffcv/ffcv,Python,19
-422274596,hpcaitech/ColossalAI,Python,96
+422274596,hpcaitech/ColossalAI,Python,101
 281770989,google-research/kubric,Python,63
-431946427,VHellendoorn/Code-LMs,Python,54
+431946427,VHellendoorn/Code-LMs,Python,45
 312485832,larymak/Python-project-Scripts,Python,11
 467496548,TeoCalvo/sql_gc,Python,8
