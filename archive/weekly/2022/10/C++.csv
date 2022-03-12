@@ -1,18 +1,18 @@
 id,name,lang,new stars
-65600975,pytorch/pytorch,C++,200
+65600975,pytorch/pytorch,C++,197
 23357588,protocolbuffers/protobuf,C++,127
 15634981,godotengine/godot,C++,288
 27729880,grpc/grpc,C++,109
 11171548,nlohmann/json,C++,120
-39840932,google/googletest,C++,64
+39840932,google/googletest,C++,65
 67702184,topjohnwu/Magisk,C++,304
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,70
 196813750,Light-City/CPlusPlusThings,C++,264
-63477612,TheAlgorithms/C-Plus-Plus,C++,227
-19374812,telegramdesktop/tdesktop,C++,64
-197275130,microsoft/winget-cli,C++,73
+63477612,TheAlgorithms/C-Plus-Plus,C++,225
+19374812,telegramdesktop/tdesktop,C++,63
+197275130,microsoft/winget-cli,C++,71
 26038648,gabime/spdlog,C++,76
-102692863,onnx/onnx,C++,39
+102692863,onnx/onnx,C++,35
 299510783,rui314/mold,C++,146
 21530861,open-source-parsers/jsoncpp,C++,29
 189205663,qinguoyi/TinyWebServer,C++,259
@@ -21,6 +21,6 @@ id,name,lang,new stars
 178613040,Neargye/magic_enum,C++,38
 313501668,wenet-e2e/wenet,C++,40
 112542515,NVIDIA/cutlass,C++,34
-191796209,waymo-research/waymo-open-dataset,C++,19
+191796209,waymo-research/waymo-open-dataset,C++,21
 125687069,axstin/rbxfpsunlocker,C++,16
-315035371,amnezia-vpn/desktop-client,C++,42
+315035371,amnezia-vpn/desktop-client,C++,41
