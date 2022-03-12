@@ -1,19 +1,19 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,11
+7569578,discourse/discourse,Ruby,12
 27442967,fastlane/fastlane,Ruby,7
 2293158,rapid7/metasploit-framework,Ruby,12
 2500088,gitlabhq/gitlabhq,Ruby,0
-308770,heartcombo/devise,Ruby,5
-73648678,forem/forem,Ruby,23
-202291859,chatwoot/chatwoot,Ruby,6
+308770,heartcombo/devise,Ruby,4
+73648678,forem/forem,Ruby,24
+202291859,chatwoot/chatwoot,Ruby,5
 4095287,rubocop/rubocop,Ruby,1
-3195124,mperham/sidekiq,Ruby,2
-1918677,fluent/fluentd,Ruby,7
+3195124,mperham/sidekiq,Ruby,1
+1918677,fluent/fluentd,Ruby,3
 96395,faker-ruby/faker,Ruby,2
 361310,teamcapybara/capybara,Ruby,1
-15435,Shopify/liquid,Ruby,4
+15435,Shopify/liquid,Ruby,3
 611921,activeadmin/activeadmin,Ruby,1
-47087,carrierwaveuploader/carrierwave,Ruby,1
+47087,carrierwaveuploader/carrierwave,Ruby,0
 6529205,varvet/pundit,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,0
 1145832,pry/pry,Ruby,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,1
 5144181,jnunemaker/flipper,Ruby,2
 200302808,github/view_component,Ruby,3
-10088951,TheOdinProject/theodinproject,Ruby,3
+10088951,TheOdinProject/theodinproject,Ruby,5
 328128780,rails/tailwindcss-rails,Ruby,3
