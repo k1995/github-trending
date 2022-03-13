@@ -1,14 +1,14 @@
 id,name,lang,new stars
 64558143,Blankj/AndroidUtilCode,Java,5
 44662669,dbeaver/dbeaver,Java,17
-55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,1
-18723836,dromara/hutool,Java,12
+55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,0
+18723836,dromara/hutool,Java,15
 137451403,alibaba/nacos,Java,12
 15823460,redisson/redisson,Java,9
 73614722,CarGuo/GSYVideoPlayer,Java,3
 75643096,material-components/material-components-android,Java,0
 6358188,apache/druid,Java,2
-5198041,Netflix/eureka,Java,1
+5198041,Netflix/eureka,Java,2
 173335706,apache/dolphinscheduler,Java,3
 237867883,metersphere/metersphere,Java,6
 12499251,checkstyle/checkstyle,Java,57
@@ -18,9 +18,9 @@ id,name,lang,new stars
 5663857,jeremylong/DependencyCheck,Java,0
 256589781,androidx/androidx,Java,3
 332357698,YunaiV/ruoyi-vue-pro,Java,23
-58194180,strimzi/strimzi-kafka-operator,Java,2
+58194180,strimzi/strimzi-kafka-operator,Java,3
 38829639,fabric8io/kubernetes-client,Java,3
-282994686,ververica/flink-cdc-connectors,Java,28
+282994686,ververica/flink-cdc-connectors,Java,30
 317887,liferay/liferay-portal,Java,0
-272493701,rbmonster/learning-note,Java,8
-2928948,Azure/azure-sdk-for-java,Java,2
+272493701,rbmonster/learning-note,Java,7
+2928948,Azure/azure-sdk-for-java,Java,3
