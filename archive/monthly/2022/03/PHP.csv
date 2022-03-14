@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,576
-3482588,danielmiessler/SecLists,PHP,612
-7548986,laravel/framework,PHP,396
-60243197,nextcloud/server,PHP,387
+1863329,laravel/laravel,PHP,573
+3482588,danielmiessler/SecLists,PHP,613
+7548986,laravel/framework,PHP,397
+60243197,nextcloud/server,PHP,388
 2253830,PHPMailer/PHPMailer,PHP,262
 82238168,monicahq/monica,PHP,263
-3431193,yiisoft/yii2,PHP,50
-12615154,barryvdh/laravel-debugbar,PHP,129
+3431193,yiisoft/yii2,PHP,49
+12615154,barryvdh/laravel-debugbar,PHP,128
 47495360,koel/koel,PHP,104
 2699935,squizlabs/PHP_CodeSniffer,PHP,87
-212659,sebastianbergmann/php-code-coverage,PHP,46
+212659,sebastianbergmann/php-code-coverage,PHP,45
 2179920,woocommerce/woocommerce,PHP,79
-33904351,laravel/lumen,PHP,45
+33904351,laravel/lumen,PHP,44
 14346979,snipe/snipe-it,PHP,107
 76064827,mailcow/mailcow-dockerized,PHP,121
 60010673,elementor/elementor,PHP,52
@@ -19,8 +19,8 @@ id,name,lang,new stars
 265782973,hlmd/Postman-cn,PHP,201
 291805291,laravel/jetstream,PHP,48
 39182755,glpi-project/glpi,PHP,80
-17253775,zabbix/zabbix,PHP,68
-449622001,PGYER/codefever,PHP,615
+17253775,zabbix/zabbix,PHP,67
+449622001,PGYER/codefever,PHP,629
 131995661,shopware/platform,PHP,77
 216849756,v2board/v2board,PHP,67
 96462257,osiset/laravel-shopify,PHP,61
