@@ -1,15 +1,15 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,156
 458058,symfony/symfony,PHP,44
-7548986,laravel/framework,PHP,84
+7548986,laravel/framework,PHP,85
 1420053,guzzle/guzzle,PHP,69
 60243197,nextcloud/server,PHP,105
 448045,sebastianbergmann/phpunit,PHP,19
 1305114,roots/sage,PHP,29
-41589337,BookStackApp/BookStack,PHP,48
+41589337,BookStackApp/BookStack,PHP,50
 2179920,woocommerce/woocommerce,PHP,22
 9791525,digininja/DVWA,PHP,25
-95011974,akaunting/akaunting,PHP,24
+95011974,akaunting/akaunting,PHP,26
 159606650,hyperf/hyperf,PHP,28
 60010673,elementor/elementor,PHP,16
 4224042,roundcube/roundcubemail,PHP,18
@@ -22,5 +22,5 @@ id,name,lang,new stars
 17722440,Rudloff/alltube,PHP,67
 449622001,PGYER/codefever,PHP,303
 216849756,v2board/v2board,PHP,20
-443605948,pablouser1/ProxiTok,PHP,45
-462800272,spatie/global-ray,PHP,53
+443605948,pablouser1/ProxiTok,PHP,43
+462800272,spatie/global-ray,PHP,54

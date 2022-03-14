@@ -1,17 +1,17 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,6
-7569578,discourse/discourse,Ruby,8
+65252,jekyll/jekyll,Ruby,8
+7569578,discourse/discourse,Ruby,9
 8681349,huginn/huginn,Ruby,11
-27442967,fastlane/fastlane,Ruby,8
-53238813,Homebrew/brew,Ruby,13
-52281283,mastodon/mastodon,Ruby,14
-2293158,rapid7/metasploit-framework,Ruby,15
+27442967,fastlane/fastlane,Ruby,7
+53238813,Homebrew/brew,Ruby,14
+52281283,mastodon/mastodon,Ruby,13
+2293158,rapid7/metasploit-framework,Ruby,13
 481872,hashicorp/vagrant,Ruby,9
 308770,heartcombo/devise,Ruby,3
-3623050,Homebrew/homebrew-cask,Ruby,1
-538746,ruby/ruby,Ruby,4
+3623050,Homebrew/homebrew-cask,Ruby,0
+538746,ruby/ruby,Ruby,3
 73648678,forem/forem,Ruby,9
-3314,spree/spree,Ruby,0
+3314,spree/spree,Ruby,2
 1918677,fluent/fluentd,Ruby,2
 96395,faker-ruby/faker,Ruby,1
 8393,thoughtbot/paperclip,Ruby,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,2
 10088951,TheOdinProject/theodinproject,Ruby,9
 641512,openstreetmap/openstreetmap-website,Ruby,1
-328128780,rails/tailwindcss-rails,Ruby,1
+328128780,rails/tailwindcss-rails,Ruby,0
 386891251,TheOdinProject/custom_enumerable_project,Ruby,0

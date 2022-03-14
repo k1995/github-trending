@@ -1,14 +1,14 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,43
+111583593,Genymobile/scrcpy,C,41
 13233158,obsproject/obs-studio,C,29
 246335987,ventoy/Ventoy,C,37
 102578345,coolsnowwolf/lede,C,13
 20159867,nothings/stb,C,9
-6201092,mpv-player/mpv,C,16
+6201092,mpv-player/mpv,C,17
 2810292,pbatard/rufus,C,17
-80286288,arendst/Tasmota,C,4
+80286288,arendst/Tasmota,C,5
 15337142,micropython/micropython,C,7
-27737393,qmk/qmk_firmware,C,4
+27737393,qmk/qmk_firmware,C,5
 45821540,openwrt/openwrt,C,11
 105627846,reactos/reactos,C,1
 3299208,videolan/vlc,C,9
@@ -16,11 +16,11 @@ id,name,lang,new stars
 437011,openzfs/zfs,C,6
 88327406,xmrig/xmrig,C,4
 192805335,microsoft/mimalloc,C,24
-91493088,ValdikSS/GoodbyeDPI,C,25
-151870364,xiaorouji/openwrt-passwall,C,24
+91493088,ValdikSS/GoodbyeDPI,C,27
+151870364,xiaorouji/openwrt-passwall,C,25
 108568638,hanwckf/rt-n56u,C,4
 79160357,citizenfx/fivem,C,0
 330980599,yanfeizhang/coder-kung-fu,C,21
 47648456,espeak-ng/espeak-ng,C,6
-284134871,flipperdevices/flipperzero-firmware,C,9
+284134871,flipperdevices/flipperzero-firmware,C,12
 440436833,baidu/dperf,C,18

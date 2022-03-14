@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,584
-3482588,danielmiessler/SecLists,PHP,613
+1863329,laravel/laravel,PHP,576
+3482588,danielmiessler/SecLists,PHP,612
 7548986,laravel/framework,PHP,400
-60243197,nextcloud/server,PHP,392
-2253830,PHPMailer/PHPMailer,PHP,261
-82238168,monicahq/monica,PHP,264
-3431193,yiisoft/yii2,PHP,51
-12615154,barryvdh/laravel-debugbar,PHP,130
-47495360,koel/koel,PHP,103
+60243197,nextcloud/server,PHP,389
+2253830,PHPMailer/PHPMailer,PHP,262
+82238168,monicahq/monica,PHP,263
+3431193,yiisoft/yii2,PHP,50
+12615154,barryvdh/laravel-debugbar,PHP,131
+47495360,koel/koel,PHP,105
 2699935,squizlabs/PHP_CodeSniffer,PHP,88
 212659,sebastianbergmann/php-code-coverage,PHP,46
 2179920,woocommerce/woocommerce,PHP,79
@@ -18,7 +18,7 @@ id,name,lang,new stars
 8077402,MISP/MISP,PHP,79
 265782973,hlmd/Postman-cn,PHP,201
 291805291,laravel/jetstream,PHP,49
-39182755,glpi-project/glpi,PHP,77
+39182755,glpi-project/glpi,PHP,78
 17253775,zabbix/zabbix,PHP,67
 449622001,PGYER/codefever,PHP,615
 131995661,shopware/platform,PHP,77
