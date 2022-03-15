@@ -1,10 +1,10 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,48
+45717250,tensorflow/tensorflow,C++,54
 1181927,bitcoin/bitcoin,C++,22
-33791743,x64dbg/x64dbg,C++,7
+33791743,x64dbg/x64dbg,C++,5
 22067521,ocornut/imgui,C++,48
-67702184,topjohnwu/Magisk,C++,29
-116167731,yuzu-emu/yuzu,C++,12
+67702184,topjohnwu/Magisk,C++,36
+116167731,yuzu-emu/yuzu,C++,11
 4279682,fish-shell/fish-shell,C++,57
 19374812,telegramdesktop/tdesktop,C++,23
 23129458,aseprite/aseprite,C++,23
@@ -13,14 +13,14 @@ id,name,lang,new stars
 104231541,abseil/abseil-cpp,C++,7
 76990209,Aircoookie/WLED,C++,11
 106558568,doitsujin/dxvk,C++,12
-50255244,raulmur/ORB_SLAM2,C++,5
+50255244,raulmur/ORB_SLAM2,C++,7
 32736639,JoeyDeVries/LearnOpenGL,C++,12
 36451925,lltcggie/waifu2x-caffe,C++,11
 2168780,minetest/minetest,C++,4
-15379620,PCSX2/pcsx2,C++,5
+15379620,PCSX2/pcsx2,C++,4
 52882701,prusa3d/PrusaSlicer,C++,5
 197211881,alvr-org/ALVR,C++,8
 150774287,danielkrupinski/Osiris,C++,2
 420580521,scottbez1/smartknob,C++,359
-359624909,pytorch/functorch,C++,15
-439448087,PolyMC/PolyMC,C++,11
+359624909,pytorch/functorch,C++,16
+439448087,PolyMC/PolyMC,C++,9
