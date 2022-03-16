@@ -1,7 +1,7 @@
 id,name,lang,new stars
 21289110,vinta/awesome-python,Python,180
 32689863,3b1b/manim,Python,110
-125266328,psf/black,Python,27
+125266328,psf/black,Python,31
 262296122,PaddlePaddle/PaddleOCR,Python,21
 349321229,TencentARC/GFPGAN,Python,63
 21484781,jumpserver/jumpserver,Python,8
@@ -11,16 +11,16 @@ id,name,lang,new stars
 38067078,healthchecks/healthchecks,Python,34
 1864194,frappe/frappe,Python,16
 321659062,iperov/DeepFaceLive,Python,24
-133100880,kubeflow/pipelines,Python,4
+133100880,kubeflow/pipelines,Python,6
 4127088,Azure/azure-sdk-for-python,Python,4
 181846371,MIC-DKFZ/nnUNet,Python,4
 155565856,FeeiCN/Security-PPT,Python,22
-315490189,dortania/OpenCore-Legacy-Patcher,Python,14
+315490189,dortania/OpenCore-Legacy-Patcher,Python,13
 291753529,YTVanced/Vanced,Python,45
 343809502,zju3dv/NeuralRecon,Python,75
 436614104,chen310/NeteaseCloudMusicTasks,Python,23
 447002181,FirmWire/FirmWire,Python,64
-467679579,simonw/shot-scraper,Python,58
+467679579,simonw/shot-scraper,Python,51
 468617602,mborgerson/mdec,Python,61
 461524378,v4d1/Dome,Python,14
-468174413,acl-org/aclpubcheck,Python,19
+468174413,acl-org/aclpubcheck,Python,16
