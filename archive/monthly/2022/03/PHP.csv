@@ -1,15 +1,15 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,522
-3482588,danielmiessler/SecLists,PHP,668
-7548986,laravel/framework,PHP,386
-60243197,nextcloud/server,PHP,387
+3482588,danielmiessler/SecLists,PHP,665
+7548986,laravel/framework,PHP,382
+60243197,nextcloud/server,PHP,385
 2253830,PHPMailer/PHPMailer,PHP,263
 3431193,yiisoft/yii2,PHP,50
 12615154,barryvdh/laravel-debugbar,PHP,127
-47495360,koel/koel,PHP,110
+47495360,koel/koel,PHP,109
 8678290,barryvdh/laravel-ide-helper,PHP,98
-2179920,woocommerce/woocommerce,PHP,79
-9193949,wallabag/wallabag,PHP,252
+2179920,woocommerce/woocommerce,PHP,81
+9193949,wallabag/wallabag,PHP,251
 6763587,PrestaShop/PrestaShop,PHP,89
 9791525,digininja/DVWA,PHP,89
 14346979,snipe/snipe-it,PHP,104
@@ -18,9 +18,9 @@ id,name,lang,new stars
 62937181,PrivateBin/PrivateBin,PHP,89
 8077402,MISP/MISP,PHP,79
 265782973,hlmd/Postman-cn,PHP,188
-39182755,glpi-project/glpi,PHP,81
-17253775,zabbix/zabbix,PHP,64
+39182755,glpi-project/glpi,PHP,80
+17253775,zabbix/zabbix,PHP,63
 449622001,PGYER/codefever,PHP,634
-131995661,shopware/platform,PHP,56
+131995661,shopware/platform,PHP,55
 216849756,v2board/v2board,PHP,69
 96462257,osiset/laravel-shopify,PHP,40
