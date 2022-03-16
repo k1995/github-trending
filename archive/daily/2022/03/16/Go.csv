@@ -1,17 +1,17 @@
 id,name,lang,new stars
-31504491,labstack/echo,Go,18
+31504491,labstack/echo,Go,19
 129717717,grafana/loki,Go,13
 5179099,go-redis/redis,Go,15
-109145553,containers/podman,Go,18
+109145553,containers/podman,Go,17
 7877397,jmoiron/sqlx,Go,7
-118105436,golang-migrate/migrate,Go,10
+118105436,golang-migrate/migrate,Go,14
 113106184,linkerd/linkerd2,Go,6
-62088377,kubernetes/kompose,Go,10
+62088377,kubernetes/kompose,Go,12
 68964263,prometheus-operator/prometheus-operator,Go,3
 81355383,mongodb/mongo-go-driver,Go,5
 94897336,imgproxy/imgproxy,Go,5
 120519269,runatlantis/atlantis,Go,6
-65616765,gokcehan/lf,Go,16
+65616765,gokcehan/lf,Go,18
 384451028,cloudwego/kitex,Go,15
 134539560,weaveworks/eksctl,Go,3
 14008364,jinzhu/copier,Go,14
@@ -19,8 +19,8 @@ id,name,lang,new stars
 127364556,yjjnls/awesome-blockchain,Go,22
 279592699,harvester/harvester,Go,14
 178079595,kubecost/cost-model,Go,6
-173009358,deepmap/oapi-codegen,Go,9
+173009358,deepmap/oapi-codegen,Go,13
 349221212,winfsp/hubfs,Go,204
-165021340,Altinity/clickhouse-operator,Go,3
+165021340,Altinity/clickhouse-operator,Go,5
 261403263,argoproj/applicationset,Go,2
 430536935,loggie-io/loggie,Go,48
