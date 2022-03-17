@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,550
+2325298,torvalds/linux,C,549
 111583593,Genymobile/scrcpy,C,372
 246335987,ventoy/Ventoy,C,472
-1614410,FFmpeg/FFmpeg,C,111
+1614410,FFmpeg/FFmpeg,C,113
 18666758,pjreddie/darknet,C,85
 93205465,apple/darwin-xnu,C,54
-179354282,acidanthera/OpenCorePkg,C,50
+179354282,acidanthera/OpenCorePkg,C,51
 414577657,peng-zhihui/Dummy-Robot,C,426
 273689548,peng-zhihui/L-ink_Card,C,45
 91493088,ValdikSS/GoodbyeDPI,C,136
@@ -20,7 +20,7 @@ id,name,lang,new stars
 22711802,wine-mirror/wine,C,13
 47648456,espeak-ng/espeak-ng,C,34
 5092588,eggert/tz,C,23
-467221382,Arinerron/CVE-2022-0847-DirtyPipe-Exploit,C,206
+467221382,Arinerron/CVE-2022-0847-DirtyPipe-Exploit,C,188
 51990771,ARM-software/CMSIS_5,C,18
 367809992,hepingood/ssd1306,C,44
 366090376,hepingood/dht11,C,18
