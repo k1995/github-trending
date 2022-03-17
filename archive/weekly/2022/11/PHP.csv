@@ -1,19 +1,19 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,223
-7548986,laravel/framework,PHP,71
-1420053,guzzle/guzzle,PHP,56
+7548986,laravel/framework,PHP,66
+1420053,guzzle/guzzle,PHP,63
 47495360,koel/koel,PHP,40
 22553797,getgrav/grav,PHP,16
 26730195,CachetHQ/Cachet,PHP,16
-1305114,roots/sage,PHP,21
+1305114,roots/sage,PHP,18
 2699935,squizlabs/PHP_CodeSniffer,PHP,23
 2179920,woocommerce/woocommerce,PHP,20
 2717549,Sylius/Sylius,PHP,19
 2141186,opencart/opencart,PHP,17
-76064827,mailcow/mailcow-dockerized,PHP,34
+76064827,mailcow/mailcow-dockerized,PHP,33
 60010673,elementor/elementor,PHP,20
-119047018,linuxserver/Heimdall,PHP,34
-141720301,dr5hn/countries-states-cities-database,PHP,47
+119047018,linuxserver/Heimdall,PHP,35
+141720301,dr5hn/countries-states-cities-database,PHP,48
 139179084,area17/twill,PHP,21
 39182755,glpi-project/glpi,PHP,25
 2686502,pimcore/pimcore,PHP,12
@@ -22,5 +22,5 @@ id,name,lang,new stars
 17722440,Rudloff/alltube,PHP,54
 27195711,alextselegidis/easyappointments,PHP,16
 39682214,Piwigo/Piwigo,PHP,48
-449622001,PGYER/codefever,PHP,235
+449622001,PGYER/codefever,PHP,236
 359687154,DenverCoder1/readme-typing-svg,PHP,39
