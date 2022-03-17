@@ -1,17 +1,17 @@
 id,name,lang,new stars
 23096959,golang/go,Go,1354
-21540759,avelino/awesome-go,Go,1759
+21540759,avelino/awesome-go,Go,1767
 20904437,gin-gonic/gin,Go,1045
-48378947,fatedier/frp,Go,930
-14712850,syncthing/syncthing,Go,659
+48378947,fatedier/frp,Go,926
+14712850,syncthing/syncthing,Go,655
 16752620,gogs/gogs,Go,253
-29261473,minio/minio,Go,516
+29261473,minio/minio,Go,515
 72495579,go-gitea/gitea,Go,589
-13855476,go-gorm/gorm,Go,395
+13855476,go-gorm/gorm,Go,394
 31288958,hashicorp/vault,Go,744
-26337322,rancher/rancher,Go,201
+26337322,rancher/rancher,Go,202
 44498957,valyala/fasthttp,Go,479
-123572362,quii/learn-go-with-tests,Go,490
+123572362,quii/learn-go-with-tests,Go,489
 165041732,go-kratos/kratos,Go,602
 75785240,authelia/authelia,Go,620
 205679232,flipped-aurora/gin-vue-admin,Go,571
@@ -20,7 +20,7 @@ id,name,lang,new stars
 46089560,containerd/containerd,Go,236
 95761244,gogf/gf,Go,210
 370977430,OpenIMSDK/Open-IM-Server,Go,418
-127519518,projectdiscovery/subfinder,Go,237
+127519518,projectdiscovery/subfinder,Go,239
 276822250,oam-dev/kubevela,Go,188
 193681111,filecoin-project/lotus,Go,111
 313628863,external-secrets/external-secrets,Go,151
