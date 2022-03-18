@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,57
 7569578,discourse/discourse,Ruby,74
-27442967,fastlane/fastlane,Ruby,56
-53238813,Homebrew/brew,Ruby,110
+27442967,fastlane/fastlane,Ruby,55
+53238813,Homebrew/brew,Ruby,111
 52281283,mastodon/mastodon,Ruby,126
-2293158,rapid7/metasploit-framework,Ruby,73
+2293158,rapid7/metasploit-framework,Ruby,70
 308770,heartcombo/devise,Ruby,31
-1090311,elastic/logstash,Ruby,22
+1090311,elastic/logstash,Ruby,23
 4095287,rubocop/rubocop,Ruby,19
-1918677,fluent/fluentd,Ruby,29
-52855516,Homebrew/homebrew-core,Ruby,52
+1918677,fluent/fluentd,Ruby,30
+52855516,Homebrew/homebrew-core,Ruby,55
 15435,Shopify/liquid,Ruby,17
 611921,activeadmin/activeadmin,Ruby,13
 21829,thoughtbot/factory_bot,Ruby,3
@@ -17,8 +17,8 @@ id,name,lang,new stars
 2889230,rails-api/active_model_serializers,Ruby,3
 30337170,rmosolgo/graphql-ruby,Ruby,14
 447184,rspec/rspec-rails,Ruby,9
-1175581,citation-style-language/styles,Ruby,12
-10088951,TheOdinProject/theodinproject,Ruby,48
+1175581,citation-style-language/styles,Ruby,11
+10088951,TheOdinProject/theodinproject,Ruby,41
 136781582,rubocop/rubocop-rails,Ruby,3
 354713589,thoughtbot/hotwire-example-template,Ruby,105
 16006666,turingschool/ruby-exercises,Ruby,2
