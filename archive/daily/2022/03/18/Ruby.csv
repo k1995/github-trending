@@ -1,18 +1,18 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,6
+65252,jekyll/jekyll,Ruby,7
 27442967,fastlane/fastlane,Ruby,10
-21600440,bayandin/awesome-awesomeness,Ruby,8
+21600440,bayandin/awesome-awesomeness,Ruby,5
 538746,ruby/ruby,Ruby,4
-2203645,CocoaPods/CocoaPods,Ruby,3
+2203645,CocoaPods/CocoaPods,Ruby,2
 1090311,elastic/logstash,Ruby,4
 3195124,mperham/sidekiq,Ruby,3
-52855516,Homebrew/homebrew-core,Ruby,7
+52855516,Homebrew/homebrew-core,Ruby,8
 15435,Shopify/liquid,Ruby,5
 1333863,kaminari/kaminari,Ruby,2
-6529205,varvet/pundit,Ruby,3
+6529205,varvet/pundit,Ruby,2
 108278,chef/chef,Ruby,1
-6899875,opf/openproject,Ruby,4
-30337170,rmosolgo/graphql-ruby,Ruby,5
+6899875,opf/openproject,Ruby,2
+30337170,rmosolgo/graphql-ruby,Ruby,3
 1314319,instructure/canvas-lms,Ruby,1
 614070,rubygems/rubygems,Ruby,2
 14238949,elastic/elasticsearch-rails,Ruby,0
@@ -20,7 +20,7 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,4
 61203,Shopify/shopify_app,Ruby,0
 230088868,pawurb/rails-pg-extras,Ruby,4
-3276877,ThrowTheSwitch/Ceedling,Ruby,0
-354713589,thoughtbot/hotwire-example-template,Ruby,81
-1795802,Shopify/money,Ruby,0
+354713589,thoughtbot/hotwire-example-template,Ruby,88
+3276877,ThrowTheSwitch/Ceedling,Ruby,1
+1795802,Shopify/money,Ruby,1
 212272090,CMSgov/price-transparency-guide,Ruby,0
