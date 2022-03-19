@@ -1,18 +1,18 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,103
-83222441,donnemartin/system-design-primer,Python,133
+54346799,public-apis/public-apis,Python,116
+83222441,donnemartin/system-design-primer,Python,127
 21289110,vinta/awesome-python,Python,113
 123458551,jackfrued/Python-100-Days,Python,83
-21872392,josephmisiti/awesome-machine-learning,Python,25
-160919119,tiangolo/fastapi,Python,31
+21872392,josephmisiti/awesome-machine-learning,Python,24
+160919119,tiangolo/fastapi,Python,37
 873328,getsentry/sentry,Python,7
 125266328,psf/black,Python,82
 519832,mitmproxy/mitmproxy,Python,18
 21484781,jumpserver/jumpserver,Python,4
 197153676,Chia-Network/chia-blockchain,Python,58
 70746484,apache/tvm,Python,4
-202693400,rougier/scientific-visualization-book,Python,3
-103071520,great-expectations/great_expectations,Python,7
+202693400,rougier/scientific-visualization-book,Python,4
+103071520,great-expectations/great_expectations,Python,5
 216525919,biancangming/wtv,Python,11
 321659062,iperov/DeepFaceLive,Python,40
 151636194,triton-inference-server/server,Python,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 147892666,alexandreborges/malwoverview,Python,13
 436614104,chen310/NeteaseCloudMusicTasks,Python,23
 287210747,Unknow101/FuckThatPacker,Python,60
-395395252,AsahiLinux/asahi-installer,Python,11
 467212329,microsoft/routeros-scanner,Python,61
+395395252,AsahiLinux/asahi-installer,Python,11
 469740705,diphosphane/CodeCraft2022-benchmark,Python,18
