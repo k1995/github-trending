@@ -1,18 +1,18 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,27
+5108051,opencv/opencv,C++,23
 23357588,protocolbuffers/protobuf,C++,28
-11171548,nlohmann/json,C++,14
-60246359,ClickHouse/ClickHouse,C++,18
-96246170,ApolloAuto/apollo,C++,7
-34864402,apache/incubator-mxnet,C++,3
+11171548,nlohmann/json,C++,12
+60246359,ClickHouse/ClickHouse,C++,16
+96246170,ApolloAuto/apollo,C++,6
+34864402,apache/incubator-mxnet,C++,2
 11892946,uglide/RedisDesktopManager,C++,7
-81227005,facebookresearch/faiss,C++,10
+81227005,facebookresearch/faiss,C++,11
 1093228,cocos2d/cocos2d-x,C++,4
 1062572,catchorg/Catch2,C++,7
 7056202,fmtlib/fmt,C++,8
-29397594,ssloy/tinyrenderer,C++,65
-17391973,Tencent/rapidjson,C++,3
-6520784,RPCS3/rpcs3,C++,4
+29397594,ssloy/tinyrenderer,C++,61
+17391973,Tencent/rapidjson,C++,1
+6520784,RPCS3/rpcs3,C++,5
 310611,apache/thrift,C++,2
 1204412,TrinityCore/TrinityCore,C++,2
 1690480,qgis/QGIS,C++,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 244694174,project-chip/connectedhomeip,C++,16
 1368195,chriskohlhoff/asio,C++,0
 148821256,Roblox/luau,C++,5
-456878057,wjakob/nanobind,C++,28
-454188645,blawar/ooot,C++,26
+456878057,wjakob/nanobind,C++,25
+454188645,blawar/ooot,C++,20
