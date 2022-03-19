@@ -1,8 +1,8 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,4
+458058,symfony/symfony,PHP,3
 2579314,fzaninotto/Faker,PHP,3
-1864363,composer/composer,PHP,2
-448045,sebastianbergmann/phpunit,PHP,4
+1864363,composer/composer,PHP,4
+448045,sebastianbergmann/phpunit,PHP,3
 2884111,magento/magento2,PHP,1
 29843361,w7corp/easywechat,PHP,5
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,3
 119047018,linuxserver/Heimdall,PHP,11
 885517,doctrine-extensions/DoctrineExtensions,PHP,0
-47508644,pterodactyl/panel,PHP,4
+47508644,pterodactyl/panel,PHP,5
 1957456,Dolibarr/dolibarr,PHP,0
 13914116,librenms/librenms,PHP,1
 400984450,kuaifan/dootask,PHP,7
 100866078,nafiesl/SimpleCrudGenerator,PHP,3
-463924176,vildanbina/livewire-wizard,PHP,13
-464620942,vnestoruk/ban-dera,PHP,4
+463924176,vildanbina/livewire-wizard,PHP,9
+464620942,vnestoruk/ban-dera,PHP,3
