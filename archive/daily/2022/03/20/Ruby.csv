@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
-65252,jekyll/jekyll,Ruby,7
-7569578,discourse/discourse,Ruby,63
-8681349,huginn/huginn,Ruby,18
-52281283,mastodon/mastodon,Ruby,7
+8514,rails/rails,Ruby,6
+65252,jekyll/jekyll,Ruby,5
+7569578,discourse/discourse,Ruby,44
+8681349,huginn/huginn,Ruby,19
+52281283,mastodon/mastodon,Ruby,6
 2293158,rapid7/metasploit-framework,Ruby,12
-2500088,gitlabhq/gitlabhq,Ruby,2
-308770,heartcombo/devise,Ruby,3
-37382858,kilimchoi/engineering-blogs,Ruby,12
-3623050,Homebrew/homebrew-cask,Ruby,5
+2500088,gitlabhq/gitlabhq,Ruby,3
+308770,heartcombo/devise,Ruby,7
+37382858,kilimchoi/engineering-blogs,Ruby,10
+3623050,Homebrew/homebrew-cask,Ruby,4
 73648678,forem/forem,Ruby,5
 911765,diaspora/diaspora,Ruby,4
 52855516,Homebrew/homebrew-core,Ruby,3
@@ -16,7 +16,7 @@ id,name,lang,new stars
 13761875,greatghoul/remote-working,Ruby,1
 355893,github/markup,Ruby,2
 39706711,hartator/wayback-machine-downloader,Ruby,2
-200302808,github/view_component,Ruby,3
+200302808,github/view_component,Ruby,0
 9500075,ytti/oxidized,Ruby,1
 55288882,d12frosted/homebrew-emacs-plus,Ruby,2
 8154497,rubysec/ruby-advisory-db,Ruby,0

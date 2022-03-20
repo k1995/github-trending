@@ -1,19 +1,19 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,246
-123458551,jackfrued/Python-100-Days,Python,502
+45717250,tensorflow/tensorflow,C++,248
+123458551,jackfrued/Python-100-Days,Python,501
 133442384,denoland/deno,Rust,235
-36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,761
-52631841,gothinkster/realworld,Shell,326
-114466145,yewstack/yew,Rust,345
-349321229,TencentARC/GFPGAN,Python,401
+36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,752
+52631841,gothinkster/realworld,Shell,349
+114466145,yewstack/yew,Rust,351
+349321229,TencentARC/GFPGAN,Python,397
 49217007,hwdsl2/setup-ipsec-vpn,Shell,360
 41889031,TeamNewPipe/NewPipe,Java,861
 54168759,SergioBenitez/Rocket,Rust,270
-317836248,GorvGoyl/Clone-Wars,,1241
+317836248,GorvGoyl/Clone-Wars,,1094
 281975310,type-challenges/type-challenges,TypeScript,384
-197018189,wbkd/react-flow,TypeScript,249
+197018189,wbkd/react-flow,TypeScript,252
 120425779,lapce/lapce,Rust,1844
-247263904,YTVanced/VancedManager,Kotlin,631
+247263904,TeamVanced/VancedManager,Kotlin,631
 414577657,peng-zhihui/Dummy-Robot,C,529
 249995750,AmruthPillai/Reactive-Resume,TypeScript,1696
 273642731,cuixiaorui/mini-vue,TypeScript,797
@@ -23,4 +23,4 @@ id,name,lang,new stars
 420580521,scottbez1/smartknob,C++,1386
 422274596,hpcaitech/ColossalAI,Python,365
 356266608,nkallen/plasticity,TypeScript,750
-458648791,paperless-ngx/paperless-ngx,Python,279
+458648791,paperless-ngx/paperless-ngx,Python,287

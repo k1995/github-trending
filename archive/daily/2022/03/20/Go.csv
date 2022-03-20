@@ -1,10 +1,10 @@
 id,name,lang,new stars
 11180687,gohugoio/hugo,Go,20
 14712850,syncthing/syncthing,Go,13
-41912791,v2ray/v2ray-core,Go,6
+41912791,v2ray/v2ray-core,Go,5
 15452919,ethereum/go-ethereum,Go,31
 17803236,rclone/rclone,Go,26
-134017286,jesseduffield/lazygit,Go,25
+134017286,jesseduffield/lazygit,Go,26
 136815833,Dreamacro/clash,Go,33
 181461073,v2fly/v2ray-core,Go,16
 21827146,chrislusf/seaweedfs,Go,12
@@ -13,14 +13,14 @@ id,name,lang,new stars
 1380117,getlantern/lantern,Go,7
 66156850,TheAlgorithms/Go,Go,28
 370977430,OpenIMSDK/Open-IM-Server,Go,20
-237523442,tailscale/tailscale,Go,10
-154643390,sundowndev/phoneinfoga,Go,7
+237523442,tailscale/tailscale,Go,13
+154643390,sundowndev/phoneinfoga,Go,9
 78869430,heroiclabs/nakama,Go,4
 121746465,eddycjy/go-gin-example,Go,5
 281694167,Mrs4s/go-cqhttp,Go,6
-34795642,coocood/freecache,Go,44
+34795642,coocood/freecache,Go,40
 38029983,go-telegram-bot-api/telegram-bot-api,Go,5
 106867604,cloudflare/cloudflared,Go,6
-201546443,trustwallet/assets,Go,7
+201546443,trustwallet/assets,Go,9
 463855335,Arriven/db1000n,Go,10
 343839686,CosmosContracts/juno,Go,3

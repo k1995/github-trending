@@ -1,9 +1,9 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,669
 7548986,laravel/framework,PHP,306
-60243197,nextcloud/server,PHP,345
+60243197,nextcloud/server,PHP,342
 47495360,koel/koel,PHP,106
-8678290,barryvdh/laravel-ide-helper,PHP,102
+8678290,barryvdh/laravel-ide-helper,PHP,103
 48796179,z-song/laravel-admin,PHP,72
 2179920,woocommerce/woocommerce,PHP,73
 9193949,wallabag/wallabag,PHP,251
@@ -14,7 +14,7 @@ id,name,lang,new stars
 60010673,elementor/elementor,PHP,58
 119047018,linuxserver/Heimdall,PHP,198
 62937181,PrivateBin/PrivateBin,PHP,93
-8077402,MISP/MISP,PHP,83
+8077402,MISP/MISP,PHP,78
 265782973,hlmd/Postman-cn,PHP,182
 291805291,laravel/jetstream,PHP,24
 182349597,jqhph/dcat-admin,PHP,52
@@ -22,5 +22,5 @@ id,name,lang,new stars
 129852395,assimon/dujiaoka,PHP,79
 166299071,archtechx/tenancy,PHP,89
 17253775,zabbix/zabbix,PHP,54
-449622001,PGYER/codefever,PHP,629
+449622001,PGYER/codefever,PHP,630
 216849756,v2board/v2board,PHP,73
