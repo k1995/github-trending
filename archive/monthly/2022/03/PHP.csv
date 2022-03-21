@@ -1,8 +1,8 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,669
-7548986,laravel/framework,PHP,306
-60243197,nextcloud/server,PHP,342
-47495360,koel/koel,PHP,106
+3482588,danielmiessler/SecLists,PHP,681
+7548986,laravel/framework,PHP,307
+60243197,nextcloud/server,PHP,344
+47495360,koel/koel,PHP,111
 8678290,barryvdh/laravel-ide-helper,PHP,103
 48796179,z-song/laravel-admin,PHP,72
 2179920,woocommerce/woocommerce,PHP,73
@@ -12,15 +12,15 @@ id,name,lang,new stars
 9791525,digininja/DVWA,PHP,91
 76064827,mailcow/mailcow-dockerized,PHP,129
 60010673,elementor/elementor,PHP,58
-119047018,linuxserver/Heimdall,PHP,198
-62937181,PrivateBin/PrivateBin,PHP,93
-8077402,MISP/MISP,PHP,78
-265782973,hlmd/Postman-cn,PHP,182
-291805291,laravel/jetstream,PHP,24
+119047018,linuxserver/Heimdall,PHP,200
+62937181,PrivateBin/PrivateBin,PHP,87
+8077402,MISP/MISP,PHP,77
+265782973,hlmd/Postman-cn,PHP,181
+291805291,laravel/jetstream,PHP,23
 182349597,jqhph/dcat-admin,PHP,52
 39182755,glpi-project/glpi,PHP,81
 129852395,assimon/dujiaoka,PHP,79
 166299071,archtechx/tenancy,PHP,89
-17253775,zabbix/zabbix,PHP,54
+17253775,zabbix/zabbix,PHP,55
 449622001,PGYER/codefever,PHP,630
 216849756,v2board/v2board,PHP,73
