@@ -1,16 +1,16 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,244
-123458551,jackfrued/Python-100-Days,Python,510
+123458551,jackfrued/Python-100-Days,Python,520
 133442384,denoland/deno,Rust,259
 36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,749
-52631841,gothinkster/realworld,Shell,349
+52631841,gothinkster/realworld,Shell,347
 114466145,yewstack/yew,Rust,365
-349321229,TencentARC/GFPGAN,Python,337
-49217007,hwdsl2/setup-ipsec-vpn,Shell,335
+349321229,TencentARC/GFPGAN,Python,315
+49217007,hwdsl2/setup-ipsec-vpn,Shell,300
 41889031,TeamNewPipe/NewPipe,Java,796
-54168759,SergioBenitez/Rocket,Rust,268
+54168759,SergioBenitez/Rocket,Rust,264
 317836248,GorvGoyl/Clone-Wars,,1041
-281975310,type-challenges/type-challenges,TypeScript,392
+281975310,type-challenges/type-challenges,TypeScript,395
 197018189,wbkd/react-flow,TypeScript,266
 120425779,lapce/lapce,Rust,2116
 247263904,TeamVanced/VancedManager,Kotlin,488
@@ -22,5 +22,5 @@ id,name,lang,new stars
 191902863,Yin-Hongwei/music-website,Vue,177
 420580521,scottbez1/smartknob,C++,1283
 422274596,hpcaitech/ColossalAI,Python,350
-356266608,nkallen/plasticity,TypeScript,763
-458648791,paperless-ngx/paperless-ngx,Python,307
+356266608,nkallen/plasticity,TypeScript,773
+458648791,paperless-ngx/paperless-ngx,Python,339

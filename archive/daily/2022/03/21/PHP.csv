@@ -1,9 +1,9 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,21
 1420053,guzzle/guzzle,PHP,4
-60243197,nextcloud/server,PHP,12
+60243197,nextcloud/server,PHP,15
 82238168,monicahq/monica,PHP,7
-22553797,getgrav/grav,PHP,2
+22553797,getgrav/grav,PHP,1
 26730195,CachetHQ/Cachet,PHP,3
 4916869,ramsey/uuid,PHP,3
 14716368,invoiceninja/invoiceninja,PHP,2
@@ -14,13 +14,13 @@ id,name,lang,new stars
 95011974,akaunting/akaunting,PHP,2
 47508644,pterodactyl/panel,PHP,6
 69691727,pmmp/PocketMine-MP,PHP,1
-66029201,rodber/chevereto-free,PHP,4
 129852395,assimon/dujiaoka,PHP,2
-204114509,solstice23/argon-theme,PHP,4
+66029201,rodber/chevereto-free,PHP,4
+204114509,solstice23/argon-theme,PHP,2
 278929867,antonkomarev/github-profile-views-counter,PHP,4
 71485542,kevinpapst/kimai2,PHP,7
 75645659,WordPress/wordpress-develop,PHP,2
 274912708,ZainCheung/netease-cloud-api,PHP,0
-307018731,DenverCoder1/github-readme-streak-stats,PHP,6
+307018731,DenverCoder1/github-readme-streak-stats,PHP,5
 355522545,kalcaddle/kodbox,PHP,7
-469883331,positive-security/dompdf-rce,PHP,8
+469883331,positive-security/dompdf-rce,PHP,9
