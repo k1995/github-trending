@@ -1,13 +1,13 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,670
-7548986,laravel/framework,PHP,305
-60243197,nextcloud/server,PHP,332
+7548986,laravel/framework,PHP,303
+60243197,nextcloud/server,PHP,329
 12615154,barryvdh/laravel-debugbar,PHP,121
 47495360,koel/koel,PHP,109
 8678290,barryvdh/laravel-ide-helper,PHP,112
 48796179,z-song/laravel-admin,PHP,71
 2179920,woocommerce/woocommerce,PHP,73
-9193949,wallabag/wallabag,PHP,251
+9193949,wallabag/wallabag,PHP,229
 6763587,PrestaShop/PrestaShop,PHP,95
 9791525,digininja/DVWA,PHP,91
 76064827,mailcow/mailcow-dockerized,PHP,135
@@ -18,9 +18,9 @@ id,name,lang,new stars
 291805291,laravel/jetstream,PHP,25
 39182755,glpi-project/glpi,PHP,79
 129852395,assimon/dujiaoka,PHP,80
-166299071,archtechx/tenancy,PHP,77
+166299071,archtechx/tenancy,PHP,75
 17722440,Rudloff/alltube,PHP,101
 17253775,zabbix/zabbix,PHP,53
-449622001,PGYER/codefever,PHP,617
+449622001,PGYER/codefever,PHP,616
 111562942,statamic/cms,PHP,91
-216849756,v2board/v2board,PHP,75
+216849756,v2board/v2board,PHP,74
