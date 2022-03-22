@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,19
+1863329,laravel/laravel,PHP,18
 1420053,guzzle/guzzle,PHP,3
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,3
 60243197,nextcloud/server,PHP,8
-82238168,monicahq/monica,PHP,10
+82238168,monicahq/monica,PHP,17
 1631570,nikic/PHP-Parser,PHP,5
-11323319,erusev/parsedown,PHP,2
+11323319,erusev/parsedown,PHP,1
 47495360,koel/koel,PHP,3
-7704544,Intervention/image,PHP,4
+7704544,Intervention/image,PHP,3
 79111500,jupeter/clean-code-php,PHP,21
 6936773,php-fig/log,PHP,3
 42261096,fuzzdb-project/fuzzdb,PHP,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 291805291,laravel/jetstream,PHP,2
 75645659,WordPress/wordpress-develop,PHP,3
 195836215,magicblack/maccms10,PHP,1
-463924176,vildanbina/livewire-wizard,PHP,23
-469883331,positive-security/dompdf-rce,PHP,6
+463924176,vildanbina/livewire-wizard,PHP,24
+469883331,positive-security/dompdf-rce,PHP,7
