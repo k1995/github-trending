@@ -1,21 +1,21 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,227
 1181927,bitcoin/bitcoin,C++,325
-5108051,opencv/opencv,C++,203
-44838949,apple/swift,C++,147
+5108051,opencv/opencv,C++,205
+44838949,apple/swift,C++,145
 65600975,pytorch/pytorch,C++,181
 23357588,protocolbuffers/protobuf,C++,126
 15634981,godotengine/godot,C++,198
-22067521,ocornut/imgui,C++,379
+22067521,ocornut/imgui,C++,378
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,86
 96246170,ApolloAuto/apollo,C++,65
 196813750,Light-City/CPlusPlusThings,C++,260
 23129458,aseprite/aseprite,C++,120
-29397594,ssloy/tinyrenderer,C++,372
-5736080,FreeCAD/FreeCAD,C++,73
-6520784,RPCS3/rpcs3,C++,46
+29397594,ssloy/tinyrenderer,C++,332
+5736080,FreeCAD/FreeCAD,C++,78
+6520784,RPCS3/rpcs3,C++,50
 117948953,Atmosphere-NX/Atmosphere,C++,112
-1204412,TrinityCore/TrinityCore,C++,20
+1204412,TrinityCore/TrinityCore,C++,19
 15379620,PCSX2/pcsx2,C++,42
 354743391,o3de/o3de,C++,48
 24936365,lava/matplotlib-cpp,C++,15
@@ -23,4 +23,4 @@ id,name,lang,new stars
 420580521,scottbez1/smartknob,C++,692
 251212498,wondertrader/wondertrader,C++,54
 454188645,blawar/ooot,C++,155
-274611759,topling/toplingdb,C++,74
+274611759,topling/toplingdb,C++,89
