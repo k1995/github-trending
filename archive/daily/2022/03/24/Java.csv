@@ -2,7 +2,7 @@ id,name,lang,new stars
 127988011,macrozheng/mall,Java,38
 19148949,PhilJay/MPAndroidChart,Java,6
 9754983,eugenp/tutorials,Java,13
-53127403,apolloconfig/apollo,Java,11
+53127403,apolloconfig/apollo,Java,12
 44662669,dbeaver/dbeaver,Java,33
 131789494,wuyouzhuguli/SpringAll,Java,26
 47023603,xuxueli/xxl-job,Java,10
@@ -16,11 +16,11 @@ id,name,lang,new stars
 140543886,apache/incubator-shenyu,Java,2
 3786237,hazelcast/hazelcast,Java,23
 46251204,line/armeria,Java,4
-99412308,apache/incubator-seatunnel,Java,8
-58194180,strimzi/strimzi-kafka-operator,Java,1
-76474200,apache/hudi,Java,9
+99412308,apache/incubator-seatunnel,Java,4
+58194180,strimzi/strimzi-kafka-operator,Java,0
+76474200,apache/hudi,Java,12
 158256479,apache/iceberg,Java,4
 2928948,Azure/azure-sdk-for-java,Java,1
 259598970,algorithmzuo/algorithmbasic2020,Java,3
 375260798,DataLinkDC/dlink,Java,3
-470487478,alibaba/SREWorks,Java,31
+470487478,alibaba/SREWorks,Java,26
