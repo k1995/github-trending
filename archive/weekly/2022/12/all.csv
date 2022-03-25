@@ -1,9 +1,12 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,1654
+36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,1765
 52631841,gothinkster/realworld,Shell,365
-17803236,rclone/rclone,Go,166
-136815833,Dreamacro/clash,Go,510
+172953845,coder/code-server,TypeScript,196
+203587744,hoppscotch/hoppscotch,Vue,1899
+130688011,meilisearch/meilisearch,Rust,1707
 180190854,appwrite/appwrite,JavaScript,1896
+420459569,github/copilot-docs,Python,847
+197018189,wbkd/react-flow,TypeScript,374
 66156850,TheAlgorithms/Go,Go,178
 22456440,ppy/osu,C#,188
 120425779,lapce/lapce,Rust,1852
@@ -11,16 +14,13 @@ id,name,lang,new stars
 414577657,peng-zhihui/Dummy-Robot,C,215
 321682465,BeyondDimension/SteamTools,C#,418
 249995750,AmruthPillai/Reactive-Resume,TypeScript,572
-273642731,cuixiaorui/mini-vue,TypeScript,313
-417600655,arthurspk/guiadevbrasil,,650
-265612440,coqui-ai/TTS,Python,102
+468515960,CodeEditApp/CodeEdit,Swift,3998
 441903012,MichaelCade/90DaysOfDevOps,Shell,618
-443343128,DulLabs/bhai-lang,TypeScript,764
-420580521,scottbez1/smartknob,C++,604
-404320053,gakonst/foundry,Rust,112
-356266608,nkallen/plasticity,TypeScript,340
+333483116,dgtlmoon/changedetection.io,Python,166
+440079558,alibaba/lowcode-engine,TypeScript,1061
 451661540,Frontesque/VueTube,Vue,461
 470251843,mrd0x/BITB,JavaScript,819
 281770989,google-research/kubric,Python,324
 469303019,ehids/ecapture,C,348
-449205872,openmlsys/openmlsys-zh,TeX,701
+467212329,microsoft/routeros-scanner,Python,549
+462597790,aptos-labs/aptos-core,Rust,147
