@@ -11,11 +11,11 @@ id,name,lang,new stars
 48714685,open-policy-agent/opa,Go,9
 3087541,patrickmn/go-cache,Go,11
 274625369,infracost/infracost,Go,59
-332424498,liamg/traitor,Go,95
-125275487,kubernetes-sigs/kubebuilder,Go,8
-79954708,dominikh/go-tools,Go,13
+332424498,liamg/traitor,Go,71
+125275487,kubernetes-sigs/kubebuilder,Go,9
+79954708,dominikh/go-tools,Go,14
 51193526,cosmos/cosmos-sdk,Go,45
-351486934,gravitl/netmaker,Go,71
+351486934,gravitl/netmaker,Go,68
 107555654,kubeapps/kubeapps,Go,7
 107600830,aws/aws-lambda-go,Go,3
 201546443,trustwallet/assets,Go,54

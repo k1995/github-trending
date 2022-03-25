@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,12
+8514,rails/rails,Ruby,11
 481872,hashicorp/vagrant,Ruby,10
 2500088,gitlabhq/gitlabhq,Ruby,1
 308770,heartcombo/devise,Ruby,4
 2203645,CocoaPods/CocoaPods,Ruby,3
 4095287,rubocop/rubocop,Ruby,1
-3195124,mperham/sidekiq,Ruby,5
+3195124,mperham/sidekiq,Ruby,6
 96395,faker-ruby/faker,Ruby,4
 812393,ruby-grape/grape,Ruby,0
 810796,railsadminteam/rails_admin,Ruby,5
@@ -20,7 +20,7 @@ id,name,lang,new stars
 229006,mileszs/wicked_pdf,Ruby,1
 1172597,thoughtbot/shoulda-matchers,Ruby,0
 5144181,jnunemaker/flipper,Ruby,4
-904810,rubysherpas/paranoia,Ruby,1
-93163073,dependabot/dependabot-core,Ruby,2
+904810,rubysherpas/paranoia,Ruby,2
+93163073,dependabot/dependabot-core,Ruby,3
 41571541,inspec/inspec,Ruby,1
 43709699,microsoft/OMS-Agent-for-Linux,Ruby,1
