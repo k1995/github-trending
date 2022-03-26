@@ -4,7 +4,7 @@ id,name,lang,new stars
 71220757,swisskyrepo/PayloadsAllTheThings,Python,28
 33884891,apache/airflow,Python,10
 123303402,python-poetry/poetry,Python,141
-1377867,locustio/locust,Python,9
+1377867,locustio/locust,Python,13
 178626720,PyTorchLightning/pytorch-lightning,Python,9
 420459569,github/copilot-docs,Python,406
 157198623,jina-ai/clip-as-service,Python,12
@@ -13,14 +13,14 @@ id,name,lang,new stars
 204380779,PaddlePaddle/PaddleSeg,Python,4
 435653386,facebookresearch/mae,Python,14
 336274588,PaddlePaddle/PaddleNLP,Python,12
-265911693,orchest/orchest,Python,19
+265911693,orchest/orchest,Python,30
 216628419,flyteorg/flyte,Python,15
 249263371,cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions,Python,6
 274782881,acantril/learn-cantrill-io-labs,Python,15
 386017669,iterativv/NostalgiaForInfinity,Python,4
 451707403,googlefonts/morisawa-biz-ud-gothic,Python,45
 158850832,getmanfred/mac,Python,15
-471828970,jonkpirateboy/Pass-fur-alle,Python,34
-459729112,NVlabs/sionna,Python,43
+471828970,jonkpirateboy/Pass-fur-alle,Python,31
+459729112,NVlabs/sionna,Python,40
 452765845,icyguider/ICMP-TransferTools,Python,16
 465011945,codeyso/CodeTest,Python,5

@@ -1,19 +1,19 @@
 id,name,lang,new stars
 10744183,netdata/netdata,C,569
-246335987,ventoy/Ventoy,C,1064
+246335987,ventoy/Ventoy,C,1068
 11715753,robertdavidgraham/masscan,C,205
-20159867,nothings/stb,C,269
+20159867,nothings/stb,C,271
 7634677,openssl/openssl,C,306
-2810292,pbatard/rufus,C,437
-47409672,hashcat/hashcat,C,212
+2810292,pbatard/rufus,C,435
+47409672,hashcat/hashcat,C,211
 45821540,openwrt/openwrt,C,316
-15583310,SoftEtherVPN/SoftEtherVPN,C,127
+15583310,SoftEtherVPN/SoftEtherVPN,C,129
 14902556,offensive-security/exploitdb,C,128
-4151993,OpenVPN/openvpn,C,126
-414577657,peng-zhihui/Dummy-Robot,C,883
-240507922,mytechnotalent/Reverse-Engineering,C,152
+4151993,OpenVPN/openvpn,C,125
+414577657,peng-zhihui/Dummy-Robot,C,888
+240507922,mytechnotalent/Reverse-Engineering,C,151
 273689548,peng-zhihui/L-ink_Card,C,128
-91493088,ValdikSS/GoodbyeDPI,C,591
+91493088,ValdikSS/GoodbyeDPI,C,587
 59771425,zephyrproject-rtos/zephyr,C,142
 305248398,peng-zhihui/HDMI-PI,C,169
 394318710,valinet/ExplorerPatcher,C,728
@@ -21,6 +21,6 @@ id,name,lang,new stars
 327491895,peng-zhihui/HoloCubic,C,190
 29933948,fluent/fluent-bit,C,82
 198869255,google/AFL,C,69
-330980599,yanfeizhang/coder-kung-fu,C,435
+330980599,yanfeizhang/coder-kung-fu,C,436
 238539562,checkra1n/PongoOS,C,213
-329707886,AsahiLinux/m1n1,C,275
+329707886,AsahiLinux/m1n1,C,276

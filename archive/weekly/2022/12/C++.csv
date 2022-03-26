@@ -1,21 +1,21 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,232
 1181927,bitcoin/bitcoin,C++,338
-5108051,opencv/opencv,C++,192
-65600975,pytorch/pytorch,C++,186
-23357588,protocolbuffers/protobuf,C++,117
-15634981,godotengine/godot,C++,217
-22067521,ocornut/imgui,C++,391
+5108051,opencv/opencv,C++,193
+65600975,pytorch/pytorch,C++,189
+23357588,protocolbuffers/protobuf,C++,113
+15634981,godotengine/godot,C++,231
+22067521,ocornut/imgui,C++,393
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,88
 3351871,qbittorrent/qBittorrent,C++,137
 52729242,keepassxreboot/keepassxc,C++,131
-2310495,ceph/ceph,C++,28
-117948953,Atmosphere-NX/Atmosphere,C++,253
-1204412,TrinityCore/TrinityCore,C++,18
+2310495,ceph/ceph,C++,25
+117948953,Atmosphere-NX/Atmosphere,C++,251
+1204412,TrinityCore/TrinityCore,C++,17
 8162615,PointCloudLibrary/pcl,C++,35
-6486826,hrydgard/ppsspp,C++,37
+6486826,hrydgard/ppsspp,C++,38
 130068982,taskflow/taskflow,C++,45
-15379620,PCSX2/pcsx2,C++,48
+15379620,PCSX2/pcsx2,C++,55
 36810120,tzapu/WiFiManager,C++,21
 354743391,o3de/o3de,C++,46
 24936365,lava/matplotlib-cpp,C++,17
@@ -23,4 +23,4 @@ id,name,lang,new stars
 420580521,scottbez1/smartknob,C++,572
 256913495,osrf/gazebo,C++,12
 454188645,blawar/ooot,C++,57
-274611759,topling/toplingdb,C++,92
+274611759,topling/toplingdb,C++,93
