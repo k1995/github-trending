@@ -1,7 +1,7 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,43
-11225014,etcd-io/etcd,Go,22
-29207621,caddyserver/caddy,Go,18
+20580498,kubernetes/kubernetes,Go,47
+11225014,etcd-io/etcd,Go,18
+29207621,caddyserver/caddy,Go,17
 61137153,evanw/esbuild,Go,14
 134017286,jesseduffield/lazygit,Go,23
 120156076,cloudreve/Cloudreve,Go,101
@@ -15,9 +15,9 @@ id,name,lang,new stars
 244694886,didi/nightingale,Go,3
 351486934,gravitl/netmaker,Go,29
 323965659,Xhofe/alist,Go,33
-403020531,abiosoft/colima,Go,16
+403020531,abiosoft/colima,Go,17
 93446042,hashicorp/terraform-provider-azurerm,Go,4
-107555654,kubeapps/kubeapps,Go,6
+107555654,kubeapps/kubeapps,Go,9
 94166852,httprunner/httprunner,Go,2
 175425051,kumahq/kuma,Go,5
 306366900,casdoor/casdoor,Go,13
