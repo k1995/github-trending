@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,113
-1420053,guzzle/guzzle,PHP,66
+1420053,guzzle/guzzle,PHP,68
 60243197,nextcloud/server,PHP,72
 82238168,monicahq/monica,PHP,70
 47495360,koel/koel,PHP,37
@@ -12,15 +12,15 @@ id,name,lang,new stars
 12166778,googleapis/google-api-php-client,PHP,18
 2179920,woocommerce/woocommerce,PHP,17
 31295421,guzzle/psr7,PHP,10
-11935508,RSS-Bridge/rss-bridge,PHP,36
+11935508,RSS-Bridge/rss-bridge,PHP,35
 3817881,zircote/swagger-php,PHP,11
 885517,doctrine-extensions/DoctrineExtensions,PHP,5
 47508644,pterodactyl/panel,PHP,25
-291805291,laravel/jetstream,PHP,15
+291805291,laravel/jetstream,PHP,16
 74026995,CodelyTV/php-ddd-example,PHP,16
 278929867,antonkomarev/github-profile-views-counter,PHP,24
 71485542,kevinpapst/kimai2,PHP,18
 75645659,WordPress/wordpress-develop,PHP,17
 359687154,DenverCoder1/readme-typing-svg,PHP,35
 355522545,kalcaddle/kodbox,PHP,25
-469883331,positive-security/dompdf-rce,PHP,27
+469883331,positive-security/dompdf-rce,PHP,25
