@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,113
-458058,symfony/symfony,PHP,42
-1420053,guzzle/guzzle,PHP,66
-82238168,monicahq/monica,PHP,64
-47495360,koel/koel,PHP,30
+1863329,laravel/laravel,PHP,114
+458058,symfony/symfony,PHP,43
+1420053,guzzle/guzzle,PHP,65
+82238168,monicahq/monica,PHP,65
+47495360,koel/koel,PHP,32
 8678290,barryvdh/laravel-ide-helper,PHP,30
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,26
 79111500,jupeter/clean-code-php,PHP,49
 2699935,squizlabs/PHP_CodeSniffer,PHP,26
 597887,doctrine/orm,PHP,17
 6660366,dompdf/dompdf,PHP,28
-12166778,googleapis/google-api-php-client,PHP,19
-2179920,woocommerce/woocommerce,PHP,17
+12166778,googleapis/google-api-php-client,PHP,20
+2179920,woocommerce/woocommerce,PHP,16
 31295421,guzzle/psr7,PHP,10
 14346979,snipe/snipe-it,PHP,26
 11935508,RSS-Bridge/rss-bridge,PHP,35
@@ -19,8 +19,8 @@ id,name,lang,new stars
 60010673,elementor/elementor,PHP,17
 885517,doctrine-extensions/DoctrineExtensions,PHP,5
 47508644,pterodactyl/panel,PHP,22
-2686502,pimcore/pimcore,PHP,10
+2686502,pimcore/pimcore,PHP,9
 75645659,WordPress/wordpress-develop,PHP,16
 279739423,Licoy/wordpress-theme-puock,PHP,31
-355522545,kalcaddle/kodbox,PHP,21
+355522545,kalcaddle/kodbox,PHP,20
 469883331,positive-security/dompdf-rce,PHP,19
