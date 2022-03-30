@@ -1,18 +1,18 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,48
-1420053,guzzle/guzzle,PHP,56
-60243197,nextcloud/server,PHP,72
+458058,symfony/symfony,PHP,49
+1420053,guzzle/guzzle,PHP,55
+60243197,nextcloud/server,PHP,71
 2889328,WordPress/WordPress,PHP,29
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,25
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,26
 2884111,magento/magento2,PHP,16
 2699935,squizlabs/PHP_CodeSniffer,PHP,26
-11340559,deployphp/deployer,PHP,21
+11340559,deployphp/deployer,PHP,20
 11467667,typecho/typecho,PHP,36
-12166778,googleapis/google-api-php-client,PHP,18
+12166778,googleapis/google-api-php-client,PHP,17
 2179920,woocommerce/woocommerce,PHP,18
-31295421,guzzle/psr7,PHP,11
+31295421,guzzle/psr7,PHP,10
 14346979,snipe/snipe-it,PHP,30
-11935508,RSS-Bridge/rss-bridge,PHP,35
+11935508,RSS-Bridge/rss-bridge,PHP,34
 74386167,vimeo/psalm,PHP,12
 3817881,zircote/swagger-php,PHP,15
 60010673,elementor/elementor,PHP,23
@@ -22,5 +22,5 @@ id,name,lang,new stars
 129852395,assimon/dujiaoka,PHP,29
 74026995,CodelyTV/php-ddd-example,PHP,15
 142127816,zhuifengshaonianhanlu/pikachu,PHP,23
-400984450,kuaifan/dootask,PHP,62
+400984450,kuaifan/dootask,PHP,60
 279739423,Licoy/wordpress-theme-puock,PHP,42
