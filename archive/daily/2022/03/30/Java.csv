@@ -1,12 +1,12 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,77
-1148753,spring-projects/spring-framework,Java,79
-267775629,geekxh/hello-algorithm,Java,53
+132464395,Snailclimb/JavaGuide,Java,73
+1148753,spring-projects/spring-framework,Java,75
+267775629,geekxh/hello-algorithm,Java,44
 159152904,jeecgboot/jeecg-boot,Java,17
 7613257,SeleniumHQ/selenium,Java,5
 137451403,alibaba/nacos,Java,30
 128018428,alibaba/Sentinel,Java,11
-74359442,Tencent/APIJSON,Java,24
+74359442,Tencent/APIJSON,Java,26
 133134007,OpenAPITools/openapi-generator,Java,19
 118497841,GoogleContainerTools/jib,Java,6
 173335706,apache/dolphinscheduler,Java,10
@@ -17,9 +17,9 @@ id,name,lang,new stars
 46398090,datahub-project/datahub,Java,21
 283211901,yuliskov/SmartTubeNext,Java,19
 206444,apache/hive,Java,3
-127906883,DTStack/chunjun,Java,7
+127906883,DTStack/chunjun,Java,6
 95247959,aws/aws-sdk-java-v2,Java,4
-341631350,apache/lucene,Java,3
+341631350,apache/lucene,Java,5
 375260798,DataLinkDC/dlink,Java,25
 455584258,dromara/hertzbeat,Java,33
 474287265,cckuailong/spring-cloud-function-SpEL-RCE,Java,38
