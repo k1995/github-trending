@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,310
-63476337,TheAlgorithms/Python,Python,179
-14098069,justjavac/free-programming-books-zh_CN,,341
+13491895,EbookFoundation/free-programming-books,,341
+63476337,TheAlgorithms/Python,Python,245
+14098069,justjavac/free-programming-books-zh_CN,,295
 62607227,yangshun/tech-interview-handbook,JavaScript,139
-7691631,moby/moby,Go,10
-19205896,restic/restic,Go,38
-420459569,github/copilot-docs,Python,454
-254832799,Z4nzu/hackingtool,Python,696
-217475193,PaddlePaddle/PaddleDetection,Python,16
-444886996,NVlabs/instant-ngp,Cuda,159
-380191749,dair-ai/ML-YouTube-Courses,,91
-372096057,Richasy/Bili.Uwp,C#,88
-282653872,AI4Finance-Foundation/FinRL,Jupyter Notebook,221
-420580521,scottbez1/smartknob,C++,326
-469303019,ehids/ecapture,C,333
-444443265,liyupi/mianshiya-public,TypeScript,391
-409094972,wangyuan389/mall-cook,Vue,185
-446595498,apple/swift-async-algorithms,Swift,257
+7691631,moby/moby,Go,42
+19205896,restic/restic,Go,42
+420459569,github/copilot-docs,Python,462
+254832799,Z4nzu/hackingtool,Python,593
+217475193,PaddlePaddle/PaddleDetection,Python,33
+444886996,NVlabs/instant-ngp,Cuda,154
+380191749,dair-ai/ML-YouTube-Courses,,333
+372096057,Richasy/Bili.Uwp,C#,87
+282653872,AI4Finance-Foundation/FinRL,Jupyter Notebook,166
+420580521,scottbez1/smartknob,C++,239
+469303019,ehids/ecapture,C,324
+444443265,liyupi/mianshiya-public,TypeScript,209
+409094972,wangyuan389/mall-cook,Vue,139
+446595498,apple/swift-async-algorithms,Swift,271
 438565846,NVlabs/eg3d,,72
 474553205,JD331/JD331,,125
-458991305,mtlynch/picoshare,Go,58
+458991305,mtlynch/picoshare,Go,145
 474473639,Bonfee/CVE-2022-0995,C,114
-467296689,bullet-train-co/bullet_train,Ruby,70
-474238072,techno-tim/k3s-ansible,Jinja,62
-471623567,breakthecode2/neo,SCSS,25
+467296689,bullet-train-co/bullet_train,Ruby,80
+474238072,techno-tim/k3s-ansible,Jinja,115
+471623567,breakthecode2/neo,SCSS,31
