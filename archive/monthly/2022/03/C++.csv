@@ -1,11 +1,11 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,771
 5108051,opencv/opencv,C++,761
-65600975,pytorch/pytorch,C++,832
+65600975,pytorch/pytorch,C++,828
 23357588,protocolbuffers/protobuf,C++,488
-15634981,godotengine/godot,C++,1184
+15634981,godotengine/godot,C++,1187
 27729880,grpc/grpc,C++,389
-11171548,nlohmann/json,C++,466
+39840932,google/googletest,C++,276
 67702184,topjohnwu/Magisk,C++,982
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,357
 120887835,huihut/interview,C++,862
@@ -13,14 +13,14 @@ id,name,lang,new stars
 196813750,Light-City/CPlusPlusThings,C++,1024
 125098880,ValveSoftware/Proton,C++,364
 33014811,notepad-plus-plus/notepad-plus-plus,C++,312
+95879426,Tencent/ncnn,C++,286
 29397594,ssloy/tinyrenderer,C++,1201
 648343,chenshuo/muduo,C++,219
 117948953,Atmosphere-NX/Atmosphere,C++,380
-193305104,barry-ran/QtScrcpy,C++,223
 189205663,qinguoyi/TinyWebServer,C++,713
 64987779,Alinshans/MyTinySTL,C++,359
-194269070,skyline-emu/skyline,C++,1249
-99919302,apache/incubator-doris,C++,152
+194269070,skyline-emu/skyline,C++,1264
 271154586,AlexandreRouma/SDRPlusPlus,C++,140
 441467833,open-mmlab/mmdeploy,C++,108
+424792530,AfterEarthLTD/Solder-Reflow-Plate,C++,258
 454188645,blawar/ooot,C++,211
