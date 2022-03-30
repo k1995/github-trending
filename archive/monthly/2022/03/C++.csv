@@ -3,7 +3,7 @@ id,name,lang,new stars
 5108051,opencv/opencv,C++,761
 65600975,pytorch/pytorch,C++,832
 23357588,protocolbuffers/protobuf,C++,488
-15634981,godotengine/godot,C++,1189
+15634981,godotengine/godot,C++,1184
 27729880,grpc/grpc,C++,389
 11171548,nlohmann/json,C++,466
 67702184,topjohnwu/Magisk,C++,982
@@ -22,5 +22,5 @@ id,name,lang,new stars
 194269070,skyline-emu/skyline,C++,1249
 99919302,apache/incubator-doris,C++,152
 271154586,AlexandreRouma/SDRPlusPlus,C++,140
-441467833,open-mmlab/mmdeploy,C++,110
+441467833,open-mmlab/mmdeploy,C++,108
 454188645,blawar/ooot,C++,211
