@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,783
+3482588,danielmiessler/SecLists,PHP,785
 458058,symfony/symfony,PHP,184
 7548986,laravel/framework,PHP,320
 1420053,guzzle/guzzle,PHP,169
@@ -11,8 +11,8 @@ id,name,lang,new stars
 9131292,jenssegers/laravel-mongodb,PHP,61
 9791525,digininja/DVWA,PHP,108
 76064827,mailcow/mailcow-dockerized,PHP,155
-159606650,hyperf/hyperf,PHP,101
-3817881,zircote/swagger-php,PHP,47
+159606650,hyperf/hyperf,PHP,100
+3817881,zircote/swagger-php,PHP,45
 60010673,elementor/elementor,PHP,70
 119047018,linuxserver/Heimdall,PHP,237
 265782973,hlmd/Postman-cn,PHP,210
@@ -22,5 +22,5 @@ id,name,lang,new stars
 17722440,Rudloff/alltube,PHP,109
 17253775,zabbix/zabbix,PHP,71
 142127816,zhuifengshaonianhanlu/pikachu,PHP,89
-111562942,statamic/cms,PHP,96
+111562942,statamic/cms,PHP,95
 216849756,v2board/v2board,PHP,77
