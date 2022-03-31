@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,77
-29759715,facebook/zstd,C,5
+2325298,torvalds/linux,C,83
+29759715,facebook/zstd,C,4
 34921116,iovisor/bcc,C,8
 47409672,hashcat/hashcat,C,23
 927442,postgres/postgres,C,6
 60667730,lvgl/lvgl,C,6
-70127218,espressif/arduino-esp32,C,11
+70127218,espressif/arduino-esp32,C,12
 18106269,lz4/lz4,C,11
 53614190,eclipse/mosquitto,C,6
 8270972,ARMmbed/mbed-os,C,2
@@ -13,10 +13,10 @@ id,name,lang,new stars
 29933948,fluent/fluent-bit,C,4
 2359378,madler/zlib,C,19
 34807561,nanopb/nanopb,C,2
-27584181,espressif/ESP8266_RTOS_SDK,C,3
+27584181,espressif/ESP8266_RTOS_SDK,C,2
 469303019,ehids/ecapture,C,217
 96348842,DPDK/dpdk,C,1
-80611216,open5gs/open5gs,C,14
+80611216,open5gs/open5gs,C,16
 373449678,brutal-org/brutal,C,20
 51990771,ARM-software/CMSIS_5,C,0
 121516035,nrfconnect/sdk-nrf,C,0
