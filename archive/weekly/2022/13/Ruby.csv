@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,57
-65252,jekyll/jekyll,Ruby,78
-53238813,Homebrew/brew,Ruby,119
+8514,rails/rails,Ruby,58
+65252,jekyll/jekyll,Ruby,80
+53238813,Homebrew/brew,Ruby,120
 13840241,freeCodeCamp/devdocs,Ruby,90
-2293158,rapid7/metasploit-framework,Ruby,79
+2293158,rapid7/metasploit-framework,Ruby,80
 481872,hashicorp/vagrant,Ruby,48
 538746,ruby/ruby,Ruby,28
 1090311,elastic/logstash,Ruby,22
-202291859,chatwoot/chatwoot,Ruby,66
+202291859,chatwoot/chatwoot,Ruby,64
 106995,sinatra/sinatra,Ruby,15
-52855516,Homebrew/homebrew-core,Ruby,46
+52855516,Homebrew/homebrew-core,Ruby,44
 96395,faker-ruby/faker,Ruby,19
-6688319,DeathKing/Learning-SICP,Ruby,36
+6688319,DeathKing/Learning-SICP,Ruby,35
 611921,activeadmin/activeadmin,Ruby,8
 810796,railsadminteam/rails_admin,Ruby,16
 21829,thoughtbot/factory_bot,Ruby,12
@@ -20,7 +20,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,12
 138776049,sorbet/sorbet,Ruby,31
 93163073,dependabot/dependabot-core,Ruby,32
-915844,redis/redis-doc,Ruby,5
+915844,redis/redis-doc,Ruby,6
 55288882,d12frosted/homebrew-emacs-plus,Ruby,13
 161399160,Shopify/shopify-cli,Ruby,10
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0

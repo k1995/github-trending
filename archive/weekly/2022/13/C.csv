@@ -11,12 +11,12 @@ id,name,lang,new stars
 65899476,espressif/esp-idf,C,52
 7408108,RT-Thread/rt-thread,C,35
 5870069,edenhill/librdkafka,C,56
-187922067,microsoft/WSL2-Linux-Kernel,C,28
+187922067,microsoft/WSL2-Linux-Kernel,C,30
 40504480,mit-pdos/xv6-public,C,33
-394318710,valinet/ExplorerPatcher,C,168
+394318710,valinet/ExplorerPatcher,C,169
 247875738,zeldaret/oot,C,29
 8046269,warmcat/libwebsockets,C,17
-97212490,floooh/sokol,C,97
+97212490,floooh/sokol,C,94
 2359378,madler/zlib,C,50
 79160357,citizenfx/fivem,C,16
 469303019,ehids/ecapture,C,1140
