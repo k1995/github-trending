@@ -1,19 +1,19 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,16
 3482588,danielmiessler/SecLists,PHP,30
-458058,symfony/symfony,PHP,4
+458058,symfony/symfony,PHP,5
 7548986,laravel/framework,PHP,13
-1864363,composer/composer,PHP,7
-2253830,PHPMailer/PHPMailer,PHP,10
-82238168,monicahq/monica,PHP,9
+1864363,composer/composer,PHP,8
+2253830,PHPMailer/PHPMailer,PHP,11
+82238168,monicahq/monica,PHP,8
 3431193,yiisoft/yii2,PHP,1
-137515,mockery/mockery,PHP,4
+137515,mockery/mockery,PHP,2
 15020102,walkor/workerman,PHP,8
 41589337,BookStackApp/BookStack,PHP,18
-31295421,guzzle/psr7,PHP,4
+31295421,guzzle/psr7,PHP,3
 4242230,PHPOffice/PHPWord,PHP,1
 97311017,rectorphp/rector,PHP,1
-74386167,vimeo/psalm,PHP,3
+74386167,vimeo/psalm,PHP,2
 2464908,joomla/joomla-cms,PHP,2
 439861,moodle/moodle,PHP,2
 248372441,laravel-filament/filament,PHP,17
@@ -21,6 +21,6 @@ id,name,lang,new stars
 129852395,assimon/dujiaoka,PHP,7
 232599652,laravel/sanctum,PHP,4
 3193843,drush-ops/drush,PHP,0
-58001483,laravel/valet,PHP,7
-138328462,freescout-helpdesk/freescout,PHP,7
+58001483,laravel/valet,PHP,6
+138328462,freescout-helpdesk/freescout,PHP,6
 47045207,Jsitech/JShielder,PHP,3

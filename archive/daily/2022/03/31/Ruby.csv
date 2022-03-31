@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,6
-52281283,mastodon/mastodon,Ruby,25
+8514,rails/rails,Ruby,7
+52281283,mastodon/mastodon,Ruby,30
 481872,hashicorp/vagrant,Ruby,7
-308770,heartcombo/devise,Ruby,4
-1090311,elastic/logstash,Ruby,4
-96395,faker-ruby/faker,Ruby,1
+308770,heartcombo/devise,Ruby,2
+1090311,elastic/logstash,Ruby,5
+96395,faker-ruby/faker,Ruby,2
 361310,teamcapybara/capybara,Ruby,0
 15435,Shopify/liquid,Ruby,4
-611921,activeadmin/activeadmin,Ruby,0
+611921,activeadmin/activeadmin,Ruby,1
 8393,thoughtbot/paperclip,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,0
 21829,thoughtbot/factory_bot,Ruby,0
@@ -16,11 +16,11 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,0
 1548802,activerecord-hackery/ransack,Ruby,2
 30985840,solidusio/solidus,Ruby,4
-52316423,luggit/react-native-config,Ruby,3
+52316423,luggit/react-native-config,Ruby,1
 5543112,lobsters/lobsters,Ruby,1
-138776049,sorbet/sorbet,Ruby,11
-14238949,elastic/elasticsearch-rails,Ruby,1
+138776049,sorbet/sorbet,Ruby,9
+14238949,elastic/elasticsearch-rails,Ruby,0
 10088951,TheOdinProject/theodinproject,Ruby,3
 3947396,getsentry/sentry-ruby,Ruby,0
-467296689,bullet-train-co/bullet_train,Ruby,19
+467296689,bullet-train-co/bullet_train,Ruby,15
 66497320,DataDog/dd-trace-rb,Ruby,0
