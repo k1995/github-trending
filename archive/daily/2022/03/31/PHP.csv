@@ -1,16 +1,16 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,16
 3482588,danielmiessler/SecLists,PHP,30
-458058,symfony/symfony,PHP,5
+458058,symfony/symfony,PHP,4
 7548986,laravel/framework,PHP,13
 1864363,composer/composer,PHP,7
-2253830,PHPMailer/PHPMailer,PHP,9
-82238168,monicahq/monica,PHP,11
+2253830,PHPMailer/PHPMailer,PHP,10
+82238168,monicahq/monica,PHP,9
 3431193,yiisoft/yii2,PHP,1
 137515,mockery/mockery,PHP,4
 15020102,walkor/workerman,PHP,8
 41589337,BookStackApp/BookStack,PHP,18
-31295421,guzzle/psr7,PHP,5
+31295421,guzzle/psr7,PHP,4
 4242230,PHPOffice/PHPWord,PHP,1
 97311017,rectorphp/rector,PHP,1
 74386167,vimeo/psalm,PHP,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 129852395,assimon/dujiaoka,PHP,7
 232599652,laravel/sanctum,PHP,4
 3193843,drush-ops/drush,PHP,0
-58001483,laravel/valet,PHP,8
-138328462,freescout-helpdesk/freescout,PHP,5
+58001483,laravel/valet,PHP,7
+138328462,freescout-helpdesk/freescout,PHP,7
 47045207,Jsitech/JShielder,PHP,3
