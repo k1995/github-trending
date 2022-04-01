@@ -1,14 +1,14 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,8
 27442967,fastlane/fastlane,Ruby,14
-53238813,Homebrew/brew,Ruby,15
-52281283,mastodon/mastodon,Ruby,30
+53238813,Homebrew/brew,Ruby,19
+52281283,mastodon/mastodon,Ruby,24
 308770,heartcombo/devise,Ruby,3
 1090311,elastic/logstash,Ruby,5
 3314,spree/spree,Ruby,0
 3195124,mperham/sidekiq,Ruby,1
 1918677,fluent/fluentd,Ruby,4
-96395,faker-ruby/faker,Ruby,3
+96395,faker-ruby/faker,Ruby,2
 15435,Shopify/liquid,Ruby,3
 2441517,puma/puma,Ruby,0
 865250,presidentbeef/brakeman,Ruby,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 12357002,ondrejbartas/sidekiq-cron,Ruby,0
 13247147,pedrib/PoC,Ruby,2
 27940263,WikiEducationFoundation/WikiEduDashboard,Ruby,0
-212272090,CMSgov/price-transparency-guide,Ruby,2
+212272090,CMSgov/price-transparency-guide,Ruby,0
