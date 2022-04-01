@@ -1,26 +1,26 @@
 id,name,lang,new stars
-10270250,facebook/react,JavaScript,160
-22790488,iluwatar/java-design-patterns,Java,50
-1148753,spring-projects/spring-framework,Java,88
-257485422,vitejs/vite,TypeScript,132
-143615438,MLEveryday/100-Days-Of-ML-Code,Jupyter Notebook,171
-113928488,Sycnex/Windows10Debloater,PowerShell,115
+83222441,donnemartin/system-design-primer,Python,409
+31792824,flutter/flutter,Dart,41
+54173593,storybookjs/storybook,TypeScript,35
+172562475,florinpop17/app-ideas,,60
+22458259,Alamofire/Alamofire,Swift,7
+52281283,mastodon/mastodon,Ruby,24
 420459569,github/copilot-docs,Python,470
 254832799,Z4nzu/hackingtool,Python,713
-87699760,vulhub/vulhub,Dockerfile,55
 323048702,OpenBB-finance/OpenBBTerminal,Python,166
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,351
 425159471,sunym1993/flash-linux0.11-talk,HTML,292
-162276894,Wilfred/difftastic,Rust,918
 268424739,helix-editor/helix,Rust,127
-190416463,actions/virtual-environments,PowerShell,54
 420580521,scottbez1/smartknob,C++,456
 352520596,vandadnp/flutter-tips-and-tricks,Dart,112
-323965659,Xhofe/alist,Go,83
-265513067,LandGrey/SpringBootVulExploit,Java,23
-429851205,ciderapp/Cider,JavaScript,295
-469303019,ehids/ecapture,C,148
-375260798,DataLinkDC/dlink,Java,35
-474212748,hktalent/spring-spel-0day-poc,,44
+200321698,rui314/chibicc,C,147
+222824662,dagger/dagger,Go,496
+385634291,grafana/mimir,Go,239
+451405549,italiaremote/awesome-italia-remote,Go,19
+475949017,craig/SpringCore0day,Python,95
+475858588,cleanlock/VideoAdBlockForTwitch,JavaScript,47
+475776212,BobTheShoplifter/Spring4Shell-POC,Python,48
 431420791,NVlabs/nvdiffrec,Python,77
-471259481,bobangajicsm/react-portfolio-website,JavaScript,27
+474843778,chaosec2021/Spring-cloud-function-SpEL-RCE,Python,19
+476041461,Retrospected/spring-rce-poc,Python,21
+475726184,dinosn/CVE-2022-22963,Python,13
+475841116,fengguangbin/spring-rce-war,Java,9
