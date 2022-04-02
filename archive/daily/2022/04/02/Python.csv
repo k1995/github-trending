@@ -1,8 +1,8 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,472
-155220641,huggingface/transformers,Python,56
-71220757,swisskyrepo/PayloadsAllTheThings,Python,28
-264818686,ultralytics/yolov5,Python,68
+155220641,huggingface/transformers,Python,59
+71220757,swisskyrepo/PayloadsAllTheThings,Python,33
+264818686,ultralytics/yolov5,Python,69
 101782647,pytorch/fairseq,Python,18
 43160685,zulip/zulip,Python,25
 254832799,Z4nzu/hackingtool,Python,668
@@ -10,17 +10,17 @@ id,name,lang,new stars
 323048702,OpenBB-finance/OpenBBTerminal,Python,436
 300996055,lucidrains/vit-pytorch,Python,14
 131619646,dagster-io/dagster,Python,6
-147583941,crytic/slither,Python,6
-458648791,paperless-ngx/paperless-ngx,Python,58
+147583941,crytic/slither,Python,5
+458648791,paperless-ngx/paperless-ngx,Python,61
 278810244,open-mmlab/mmaction2,Python,9
-422274596,hpcaitech/ColossalAI,Python,20
+422274596,hpcaitech/ColossalAI,Python,22
 475949017,craig/SpringCore0day,Python,60
-439452526,BugAlertDotOrg/bugalert,Python,6
-475174123,salesforce/CodeGen,Python,58
+439452526,BugAlertDotOrg/bugalert,Python,7
+475174123,salesforce/CodeGen,Python,63
 467919246,SysCV/transfiner,Python,16
 475776212,BobTheShoplifter/Spring4Shell-POC,Python,35
-431420791,NVlabs/nvdiffrec,Python,115
+431420791,NVlabs/nvdiffrec,Python,89
 474843778,chaosec2021/Spring-cloud-function-SpEL-RCE,Python,17
 476041461,Retrospected/spring-rce-poc,Python,7
 475726184,dinosn/CVE-2022-22963,Python,12
-475945125,dinosn/spring-core-rce,Python,6
+475945125,dinosn/spring-core-rce,Python,5
