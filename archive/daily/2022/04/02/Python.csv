@@ -1,0 +1,26 @@
+id,name,lang,new stars
+83222441,donnemartin/system-design-primer,Python,505
+155220641,huggingface/transformers,Python,60
+71220757,swisskyrepo/PayloadsAllTheThings,Python,29
+264818686,ultralytics/yolov5,Python,71
+101782647,pytorch/fairseq,Python,17
+43160685,zulip/zulip,Python,31
+254832799,Z4nzu/hackingtool,Python,693
+420459569,github/copilot-docs,Python,514
+323048702,OpenBB-finance/OpenBBTerminal,Python,436
+300996055,lucidrains/vit-pytorch,Python,14
+131619646,dagster-io/dagster,Python,8
+147583941,crytic/slither,Python,6
+458648791,paperless-ngx/paperless-ngx,Python,60
+278810244,open-mmlab/mmaction2,Python,10
+422274596,hpcaitech/ColossalAI,Python,22
+475949017,craig/SpringCore0day,Python,60
+439452526,BugAlertDotOrg/bugalert,Python,6
+475174123,salesforce/CodeGen,Python,60
+467919246,SysCV/transfiner,Python,16
+475776212,BobTheShoplifter/Spring4Shell-POC,Python,35
+431420791,NVlabs/nvdiffrec,Python,115
+474843778,chaosec2021/Spring-cloud-function-SpEL-RCE,Python,17
+476041461,Retrospected/spring-rce-poc,Python,7
+475726184,dinosn/CVE-2022-22963,Python,12
+475945125,dinosn/spring-core-rce,Python,6
