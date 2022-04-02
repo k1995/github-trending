@@ -2,9 +2,9 @@ id,name,lang,new stars
 2325298,torvalds/linux,C,525
 156018,redis/redis,C,148
 246335987,ventoy/Ventoy,C,350
-7634677,openssl/openssl,C,73
+7634677,openssl/openssl,C,72
 47409672,hashcat/hashcat,C,239
-184909163,koekeishiya/yabai,C,118
+184909163,koekeishiya/yabai,C,116
 13836499,raysan5/raylib,C,242
 39242894,coturn/coturn,C,35
 18106269,lz4/lz4,C,54
@@ -12,8 +12,8 @@ id,name,lang,new stars
 5870069,edenhill/librdkafka,C,37
 40504480,mit-pdos/xv6-public,C,32
 200321698,rui314/chibicc,C,578
-29933948,fluent/fluent-bit,C,26
-2359378,madler/zlib,C,50
+29933948,fluent/fluent-bit,C,25
+2359378,madler/zlib,C,49
 198869255,google/AFL,C,29
 469303019,ehids/ecapture,C,1383
 51868010,containers/bubblewrap,C,228
@@ -21,6 +21,6 @@ id,name,lang,new stars
 15991457,openssh/openssh-portable,C,15
 329707886,AsahiLinux/m1n1,C,145
 226167620,InfiniTimeOrg/InfiniTime,C,30
-472575717,HarbourMasters/Shipwright,C,111
+472575717,HarbourMasters/Shipwright,C,109
 53432472,Azure/sonic-buildimage,C,3
 473467406,polygraphene/DirtyPipe-Android,C,121

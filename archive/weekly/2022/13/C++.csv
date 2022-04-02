@@ -1,7 +1,7 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,256
-9384267,electron/electron,C++,156
-5108051,opencv/opencv,C++,178
+45717250,tensorflow/tensorflow,C++,258
+9384267,electron/electron,C++,154
+5108051,opencv/opencv,C++,177
 23357588,protocolbuffers/protobuf,C++,126
 15634981,godotengine/godot,C++,440
 27729880,grpc/grpc,C++,107
@@ -14,10 +14,10 @@ id,name,lang,new stars
 283410102,sogou/workflow,C++,106
 2168780,minetest/minetest,C++,233
 15122806,google/benchmark,C++,41
-420580521,scottbez1/smartknob,C++,2539
+420580521,scottbez1/smartknob,C++,2570
 309512982,redpanda-data/redpanda,C++,68
 248058818,wolfpld/tracy,C++,61
-167828165,ArthurSonzogni/FTXUI,C++,56
+167828165,ArthurSonzogni/FTXUI,C++,54
 271154586,AlexandreRouma/SDRPlusPlus,C++,50
 170738310,trustwallet/wallet-core,C++,32
 192413931,mit-biomimetics/Cheetah-Software,C++,41
