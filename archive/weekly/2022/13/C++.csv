@@ -1,13 +1,13 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,253
 9384267,electron/electron,C++,151
-5108051,opencv/opencv,C++,180
+5108051,opencv/opencv,C++,179
 23357588,protocolbuffers/protobuf,C++,126
 15634981,godotengine/godot,C++,440
 27729880,grpc/grpc,C++,110
 39840932,google/googletest,C++,68
 160083795,SerenityOS/serenity,C++,289
-191820100,google/mediapipe,C++,130
+191820100,google/mediapipe,C++,127
 14981376,dogecoin/dogecoin,C++,36
 311683390,WerWolv/ImHex,C++,70
 2310495,ceph/ceph,C++,46
@@ -16,11 +16,11 @@ id,name,lang,new stars
 15122806,google/benchmark,C++,42
 420580521,scottbez1/smartknob,C++,2255
 309512982,redpanda-data/redpanda,C++,68
-248058818,wolfpld/tracy,C++,64
+248058818,wolfpld/tracy,C++,66
 167828165,ArthurSonzogni/FTXUI,C++,58
 271154586,AlexandreRouma/SDRPlusPlus,C++,51
 170738310,trustwallet/wallet-core,C++,31
-192413931,mit-biomimetics/Cheetah-Software,C++,48
-446669267,focus-creative-games/huatuo,C++,282
+192413931,mit-biomimetics/Cheetah-Software,C++,41
+446669267,focus-creative-games/huatuo,C++,284
 356055024,tensorflow/tflite-micro,C++,34
 399752957,XaFF-XaFF/Cronos-Rootkit,C++,74

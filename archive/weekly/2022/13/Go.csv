@@ -17,10 +17,10 @@ id,name,lang,new stars
 67793333,cortexproject/cortex,Go,27
 90798757,segmentio/kafka-go,Go,60
 134539560,weaveworks/eksctl,Go,39
-323965659,Xhofe/alist,Go,554
+323965659,Xhofe/alist,Go,558
 403020531,abiosoft/colima,Go,167
-93446042,hashicorp/terraform-provider-azurerm,Go,57
+93446042,hashicorp/terraform-provider-azurerm,Go,53
 109451092,siderolabs/talos,Go,100
 187086161,open-telemetry/opentelemetry-go,Go,42
 303802332,vmware-tanzu/community-edition,Go,22
-438128602,flower-corp/lotusdb,Go,219
+438128602,flower-corp/lotusdb,Go,201

@@ -6,12 +6,12 @@ id,name,lang,new stars
 39840932,google/googletest,C++,12
 60246359,ClickHouse/ClickHouse,C++,39
 160083795,SerenityOS/serenity,C++,88
-19953044,google/flatbuffers,C++,5
 34777562,ossrs/srs,C++,14
-149111813,Tencent/MMKV,C++,5
+19953044,google/flatbuffers,C++,5
+149111813,Tencent/MMKV,C++,4
 81887991,microsoft/AirSim,C++,6
 283410102,sogou/workflow,C++,21
-15122806,google/benchmark,C++,15
+15122806,google/benchmark,C++,11
 17253131,baldurk/renderdoc,C++,3
 46374199,IntelRealSense/librealsense,C++,5
 10160141,doxygen/doxygen,C++,3
