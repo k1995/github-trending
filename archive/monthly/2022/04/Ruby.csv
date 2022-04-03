@@ -3,8 +3,9 @@ id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,296
 7569578,discourse/discourse,Ruby,362
 27442967,fastlane/fastlane,Ruby,239
-53238813,Homebrew/brew,Ruby,475
+53238813,Homebrew/brew,Ruby,476
 13840241,freeCodeCamp/devdocs,Ruby,345
+52281283,mastodon/mastodon,Ruby,484
 2293158,rapid7/metasploit-framework,Ruby,337
 2500088,gitlabhq/gitlabhq,Ruby,56
 37382858,kilimchoi/engineering-blogs,Ruby,179
@@ -14,7 +15,6 @@ id,name,lang,new stars
 138312,capistrano/capistrano,Ruby,32
 52855516,Homebrew/homebrew-core,Ruby,207
 1725199,github/linguist,Ruby,123
-15435,Shopify/liquid,Ruby,83
 6688319,DeathKing/Learning-SICP,Ruby,114
 16549503,github/scientist,Ruby,103
 535266,vcr/vcr,Ruby,31
