@@ -1,13 +1,13 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,13
+5108051,opencv/opencv,C++,14
 23357588,protocolbuffers/protobuf,C++,17
 27729880,grpc/grpc,C++,9
-11171548,nlohmann/json,C++,11
-39840932,google/googletest,C++,11
-60246359,ClickHouse/ClickHouse,C++,23
-160083795,SerenityOS/serenity,C++,19
+11171548,nlohmann/json,C++,9
+39840932,google/googletest,C++,7
+60246359,ClickHouse/ClickHouse,C++,15
+160083795,SerenityOS/serenity,C++,18
 34777562,ossrs/srs,C++,17
-19953044,google/flatbuffers,C++,5
+19953044,google/flatbuffers,C++,6
 149111813,Tencent/MMKV,C++,2
 81887991,microsoft/AirSim,C++,7
 283410102,sogou/workflow,C++,23
@@ -20,7 +20,7 @@ id,name,lang,new stars
 83542585,wisdompeak/LeetCode,C++,4
 313501668,wenet-e2e/wenet,C++,4
 446669267,focus-creative-games/huatuo,C++,31
-356055024,tensorflow/tflite-micro,C++,4
+356055024,tensorflow/tflite-micro,C++,3
 167499157,pingcap/tiflash,C++,76
-449826010,Speek-App/Speek,C++,16
+449826010,Speek-App/Speek,C++,17
 467216107,ForrestKnight/Wrestling-Simulation,C++,11
