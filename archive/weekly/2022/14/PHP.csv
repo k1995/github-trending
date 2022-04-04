@@ -1,8 +1,8 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,199
+3482588,danielmiessler/SecLists,PHP,198
 1129010,blueimp/jQuery-File-Upload,PHP,18
-458058,symfony/symfony,PHP,44
-7548986,laravel/framework,PHP,76
+458058,symfony/symfony,PHP,42
+7548986,laravel/framework,PHP,77
 3431193,yiisoft/yii2,PHP,6
 597887,doctrine/orm,PHP,9
 41589337,BookStackApp/BookStack,PHP,81
@@ -11,7 +11,7 @@ id,name,lang,new stars
 21298446,firefly-iii/firefly-iii,PHP,69
 31295421,guzzle/psr7,PHP,17
 4242230,PHPOffice/PHPWord,PHP,16
-9791525,digininja/DVWA,PHP,30
+9791525,digininja/DVWA,PHP,29
 10883164,barryvdh/laravel-dompdf,PHP,12
 74386167,vimeo/psalm,PHP,19
 38200433,jeroennoten/Laravel-AdminLTE,PHP,17
@@ -23,4 +23,4 @@ id,name,lang,new stars
 58001483,laravel/valet,PHP,36
 74026995,CodelyTV/php-ddd-example,PHP,14
 250246992,rappasoft/laravel-livewire-tables,PHP,23
-467827371,spatie/visit,PHP,94
+467827371,spatie/visit,PHP,95
