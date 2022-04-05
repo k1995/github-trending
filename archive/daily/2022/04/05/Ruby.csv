@@ -1,12 +1,12 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,9
-7569578,discourse/discourse,Ruby,7
-53238813,Homebrew/brew,Ruby,18
-13840241,freeCodeCamp/devdocs,Ruby,8
-52281283,mastodon/mastodon,Ruby,68
+7569578,discourse/discourse,Ruby,8
+53238813,Homebrew/brew,Ruby,17
+13840241,freeCodeCamp/devdocs,Ruby,5
+52281283,mastodon/mastodon,Ruby,81
 2293158,rapid7/metasploit-framework,Ruby,8
-481872,hashicorp/vagrant,Ruby,3
-2500088,gitlabhq/gitlabhq,Ruby,3
+481872,hashicorp/vagrant,Ruby,4
+2500088,gitlabhq/gitlabhq,Ruby,2
 538746,ruby/ruby,Ruby,4
 73648678,forem/forem,Ruby,8
 911765,diaspora/diaspora,Ruby,3
@@ -15,12 +15,12 @@ id,name,lang,new stars
 275604,resque/resque,Ruby,1
 2441517,puma/puma,Ruby,1
 26018608,github-changelog-generator/github-changelog-generator,Ruby,2
-4994614,wpscanteam/wpscan,Ruby,4
+4994614,wpscanteam/wpscan,Ruby,3
 1145832,pry/pry,Ruby,1
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,10
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,11
 5160706,bkeepers/dotenv,Ruby,1
 6899875,opf/openproject,Ruby,5
 275303,grosser/parallel,Ruby,4
-103766152,github/explore,Ruby,4
+103766152,github/explore,Ruby,3
 10088951,TheOdinProject/theodinproject,Ruby,0
-10504669,publiclab/plots2,Ruby,0
+10504669,publiclab/plots2,Ruby,1
