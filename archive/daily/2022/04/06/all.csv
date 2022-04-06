@@ -1,16 +1,16 @@
 id,name,lang,new stars
 70107786,vercel/next.js,JavaScript,52
-3482588,danielmiessler/SecLists,PHP,45
+3482588,danielmiessler/SecLists,PHP,44
 243950408,Anduin2017/HowToCook,JavaScript,413
 275993885,appsmithorg/appsmith,TypeScript,190
 202498093,tgbot-collection/YYeTsBot,Python,101
 117948953,Atmosphere-NX/Atmosphere,C++,20
-72685026,MicrosoftDocs/azure-docs,PowerShell,6
+72685026,MicrosoftDocs/azure-docs,PowerShell,14
 77726177,trufflesecurity/trufflehog,Go,242
 441903012,MichaelCade/90DaysOfDevOps,Shell,165
 123631418,Lissy93/personal-security-checklist,,326
 2928944,Azure/azure-sdk-for-net,C#,19
-401446691,saic-mdal/lama,Jupyter Notebook,48
+401446691,saic-mdal/lama,Jupyter Notebook,67
 27631673,microsoft/azure-pipelines-tasks,TypeScript,1
 204164353,kestra-io/kestra,Java,186
 471627548,s0md3v/Smap,Go,193
@@ -21,6 +21,6 @@ id,name,lang,new stars
 477119039,arthurspk/guiadobackend,,60
 477716001,zbroyar/mass_killings,,23
 476243907,NCSC-NL/spring4shell,Python,21
-477400933,codeedu/imersao-7-codepix,Go,17
+477400933,codeedu/imersao-7-codepix,Go,20
 475015128,shuax/edge_plus,C++,22
 477253530,shuax/chrome_plus,C++,19
