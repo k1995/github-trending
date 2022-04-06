@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,216
-458058,symfony/symfony,PHP,36
-7548986,laravel/framework,PHP,71
+3482588,danielmiessler/SecLists,PHP,214
+458058,symfony/symfony,PHP,35
+7548986,laravel/framework,PHP,68
 1864363,composer/composer,PHP,43
 2253830,PHPMailer/PHPMailer,PHP,50
-82238168,monicahq/monica,PHP,73
+82238168,monicahq/monica,PHP,69
 5724990,briannesbitt/Carbon,PHP,19
 3431193,yiisoft/yii2,PHP,6
-14259390,SpartnerNL/Laravel-Excel,PHP,23
-2884111,magento/magento2,PHP,10
-41589337,BookStackApp/BookStack,PHP,81
+14259390,SpartnerNL/Laravel-Excel,PHP,24
+2884111,magento/magento2,PHP,11
+41589337,BookStackApp/BookStack,PHP,78
 11467667,typecho/typecho,PHP,117
 21298446,firefly-iii/firefly-iii,PHP,70
 4242230,PHPOffice/PHPWord,PHP,17
@@ -18,9 +18,9 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,23
 2464908,joomla/joomla-cms,PHP,12
 47508644,pterodactyl/panel,PHP,24
-248372441,laravel-filament/filament,PHP,66
+248372441,laravel-filament/filament,PHP,64
 129852395,assimon/dujiaoka,PHP,32
 58001483,laravel/valet,PHP,40
-74026995,CodelyTV/php-ddd-example,PHP,13
-138328462,freescout-helpdesk/freescout,PHP,17
+74026995,CodelyTV/php-ddd-example,PHP,14
+138328462,freescout-helpdesk/freescout,PHP,16
 467827371,spatie/visit,PHP,89
