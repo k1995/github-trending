@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,122
-1039520,ytdl-org/youtube-dl,Python,39
-51117837,tensorflow/models,Python,11
+54346799,public-apis/public-apis,Python,126
+1039520,ytdl-org/youtube-dl,Python,38
+51117837,tensorflow/models,Python,13
 12888993,home-assistant/core,Python,25
-81598961,python/cpython,Python,43
-220809393,Textualize/rich,Python,36
-29749635,donnemartin/data-science-ipython-notebooks,Python,19
-154739597,google/jax,Python,30
-42625970,tzutalin/labelImg,Python,18
-55626935,microsoft/WSL,Python,8
-16479108,wagtail/wagtail,Python,12
-202498093,tgbot-collection/YYeTsBot,Python,152
-305144746,geohot/tinygrad,Python,42
+81598961,python/cpython,Python,40
+220809393,Textualize/rich,Python,34
+29749635,donnemartin/data-science-ipython-notebooks,Python,17
+154739597,google/jax,Python,27
+42625970,tzutalin/labelImg,Python,16
+55626935,microsoft/WSL,Python,7
+16479108,wagtail/wagtail,Python,9
+202498093,tgbot-collection/YYeTsBot,Python,153
+305144746,geohot/tinygrad,Python,37
 45271904,drivendata/cookiecutter-data-science,Python,9
-259842566,Jack-Cherish/PythonPark,Python,52
-65924871,probml/pyprobml,Jupyter Notebook,13
-422005902,ThioJoe/YT-Spammer-Purge,Python,11
-390536799,mlfoundations/open_clip,Python,20
-437796389,yu-steven/openit,Python,45
-468601503,TJU-DRL-LAB/AI-Optimizer,Python,21
+259842566,Jack-Cherish/PythonPark,Python,53
+65924871,probml/pyprobml,Jupyter Notebook,12
+422005902,ThioJoe/YT-Spammer-Purge,Python,14
+390536799,mlfoundations/open_clip,Python,19
+437796389,yu-steven/openit,Python,42
+468601503,TJU-DRL-LAB/AI-Optimizer,Python,16
 61572326,DataDog/dd-trace-py,Python,5
-331360188,neetcode-gh/leetcode,Python,27
+331360188,neetcode-gh/leetcode,Python,28
 19059875,wangtai/django_render,Python,5
 445102078,huzongxiang/CrystalNetwork,Python,4
-470249381,ankurchavda/streamify,Python,10
+470249381,ankurchavda/streamify,Python,11

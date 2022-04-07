@@ -1,18 +1,18 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,291
+3482588,danielmiessler/SecLists,PHP,292
 458058,symfony/symfony,PHP,35
 7548986,laravel/framework,PHP,65
 1864363,composer/composer,PHP,40
 2253830,PHPMailer/PHPMailer,PHP,51
-82238168,monicahq/monica,PHP,53
-7769432,vlucas/phpdotenv,PHP,21
+82238168,monicahq/monica,PHP,54
+7769432,vlucas/phpdotenv,PHP,22
 14259390,SpartnerNL/Laravel-Excel,PHP,21
 2884111,magento/magento2,PHP,4
-41589337,BookStackApp/BookStack,PHP,56
+41589337,BookStackApp/BookStack,PHP,55
 11467667,typecho/typecho,PHP,120
 5508585,YOURLS/YOURLS,PHP,28
-21298446,firefly-iii/firefly-iii,PHP,60
-31295421,guzzle/psr7,PHP,15
+21298446,firefly-iii/firefly-iii,PHP,59
+31295421,guzzle/psr7,PHP,16
 222873550,crater-invoice/crater,PHP,38
 6269013,aws/aws-sdk-php,PHP,9
 10883164,barryvdh/laravel-dompdf,PHP,12
@@ -20,7 +20,7 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,21
 2464908,joomla/joomla-cms,PHP,10
 1957456,Dolibarr/dolibarr,PHP,19
-13044600,salesagility/SuiteCRM,PHP,23
-58001483,laravel/valet,PHP,29
-131995661,shopware/platform,PHP,17
+13044600,salesagility/SuiteCRM,PHP,22
+58001483,laravel/valet,PHP,28
+131995661,shopware/platform,PHP,16
 138328462,freescout-helpdesk/freescout,PHP,9
