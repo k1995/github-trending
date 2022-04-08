@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,148
-1039520,ytdl-org/youtube-dl,Python,37
-51117837,tensorflow/models,Python,12
-12888993,home-assistant/core,Python,34
-81598961,python/cpython,Python,37
+54346799,public-apis/public-apis,Python,147
+1039520,ytdl-org/youtube-dl,Python,41
+51117837,tensorflow/models,Python,13
+12888993,home-assistant/core,Python,36
+81598961,python/cpython,Python,35
 220809393,Textualize/rich,Python,39
-29749635,donnemartin/data-science-ipython-notebooks,Python,18
-154739597,google/jax,Python,25
+29749635,donnemartin/data-science-ipython-notebooks,Python,16
+154739597,google/jax,Python,22
 42625970,tzutalin/labelImg,Python,17
 55626935,microsoft/WSL,Python,7
 16479108,wagtail/wagtail,Python,10
 202498093,tgbot-collection/YYeTsBot,Python,336
-305144746,geohot/tinygrad,Python,36
-45271904,drivendata/cookiecutter-data-science,Python,10
-259842566,Jack-Cherish/PythonPark,Python,50
-65924871,probml/pyprobml,Jupyter Notebook,14
-422005902,ThioJoe/YT-Spammer-Purge,Python,22
-390536799,mlfoundations/open_clip,Python,19
-437796389,yu-steven/openit,Python,36
-468601503,TJU-DRL-LAB/AI-Optimizer,Python,11
-61572326,DataDog/dd-trace-py,Python,3
-331360188,neetcode-gh/leetcode,Python,29
+305144746,geohot/tinygrad,Python,27
+45271904,drivendata/cookiecutter-data-science,Python,11
+259842566,Jack-Cherish/PythonPark,Python,52
+65924871,probml/pyprobml,Jupyter Notebook,13
+422005902,ThioJoe/YT-Spammer-Purge,Python,21
+390536799,mlfoundations/open_clip,Python,14
+437796389,yu-steven/openit,Python,33
+468601503,TJU-DRL-LAB/AI-Optimizer,Python,6
+61572326,DataDog/dd-trace-py,Python,1
+331360188,neetcode-gh/leetcode,Python,24
 19059875,wangtai/django_render,Python,4
-445102078,huzongxiang/CrystalNetwork,Python,4
-470249381,ankurchavda/streamify,Python,12
+445102078,huzongxiang/CrystalNetwork,Python,2
+470249381,ankurchavda/streamify,Python,13
