@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,144
-1039520,ytdl-org/youtube-dl,Python,38
-51117837,tensorflow/models,Python,17
-12888993,home-assistant/core,Python,40
-81598961,python/cpython,Python,28
-220809393,Textualize/rich,Python,34
-29749635,donnemartin/data-science-ipython-notebooks,Python,16
+54346799,public-apis/public-apis,Python,135
+1039520,ytdl-org/youtube-dl,Python,42
+51117837,tensorflow/models,Python,18
+12888993,home-assistant/core,Python,42
+81598961,python/cpython,Python,21
+220809393,Textualize/rich,Python,35
+29749635,donnemartin/data-science-ipython-notebooks,Python,17
 154739597,google/jax,Python,22
-42625970,tzutalin/labelImg,Python,18
+42625970,tzutalin/labelImg,Python,17
 55626935,microsoft/WSL,Python,13
-16479108,wagtail/wagtail,Python,19
+16479108,wagtail/wagtail,Python,18
 202498093,tgbot-collection/YYeTsBot,Python,336
-305144746,geohot/tinygrad,Python,24
-45271904,drivendata/cookiecutter-data-science,Python,11
-259842566,Jack-Cherish/PythonPark,Python,36
-65924871,probml/pyprobml,Jupyter Notebook,15
-422005902,ThioJoe/YT-Spammer-Purge,Python,26
-390536799,mlfoundations/open_clip,Python,16
-437796389,yu-steven/openit,Python,27
-468601503,TJU-DRL-LAB/AI-Optimizer,Python,8
-61572326,DataDog/dd-trace-py,Python,1
-331360188,neetcode-gh/leetcode,Python,26
+305144746,geohot/tinygrad,Python,21
+45271904,drivendata/cookiecutter-data-science,Python,9
+259842566,Jack-Cherish/PythonPark,Python,35
+65924871,probml/pyprobml,Jupyter Notebook,17
+422005902,ThioJoe/YT-Spammer-Purge,Python,24
+390536799,mlfoundations/open_clip,Python,17
+437796389,yu-steven/openit,Python,26
+468601503,TJU-DRL-LAB/AI-Optimizer,Python,10
+61572326,DataDog/dd-trace-py,Python,3
+331360188,neetcode-gh/leetcode,Python,21
 19059875,wangtai/django_render,Python,1
-445102078,huzongxiang/CrystalNetwork,Python,2
+445102078,huzongxiang/CrystalNetwork,Python,3
 470249381,ankurchavda/streamify,Python,12
