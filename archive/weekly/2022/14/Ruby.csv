@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,69
-65252,jekyll/jekyll,Ruby,57
+8514,rails/rails,Ruby,72
+65252,jekyll/jekyll,Ruby,54
 13840241,freeCodeCamp/devdocs,Ruby,70
-52281283,mastodon/mastodon,Ruby,261
-481872,hashicorp/vagrant,Ruby,38
+52281283,mastodon/mastodon,Ruby,260
+481872,hashicorp/vagrant,Ruby,39
 308770,heartcombo/devise,Ruby,17
-18486300,lewagon/setup,Ruby,51
+18486300,lewagon/setup,Ruby,55
 96395,faker-ruby/faker,Ruby,11
 15435,Shopify/liquid,Ruby,12
 1333863,kaminari/kaminari,Ruby,7
@@ -16,11 +16,11 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,12
 138776049,sorbet/sorbet,Ruby,12
 103766152,github/explore,Ruby,27
-11426474,github/choosealicense.com,Ruby,11
-189010173,Hackplayers/evil-winrm,Ruby,24
+11426474,github/choosealicense.com,Ruby,12
+189010173,Hackplayers/evil-winrm,Ruby,25
 3698608,moove-it/sidekiq-scheduler,Ruby,8
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,5
-10504669,publiclab/plots2,Ruby,16
+10504669,publiclab/plots2,Ruby,14
 467296689,bullet-train-co/bullet_train,Ruby,21
 66497320,DataDog/dd-trace-rb,Ruby,1
 212272090,CMSgov/price-transparency-guide,Ruby,5
