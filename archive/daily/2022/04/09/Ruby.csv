@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,11
-27442967,fastlane/fastlane,Ruby,8
-2293158,rapid7/metasploit-framework,Ruby,16
+8514,rails/rails,Ruby,12
+27442967,fastlane/fastlane,Ruby,7
+2293158,rapid7/metasploit-framework,Ruby,12
 481872,hashicorp/vagrant,Ruby,5
 308770,heartcombo/devise,Ruby,2
 3623050,Homebrew/homebrew-cask,Ruby,4
-2203645,CocoaPods/CocoaPods,Ruby,1
+2203645,CocoaPods/CocoaPods,Ruby,2
 3314,spree/spree,Ruby,0
 4095287,rubocop/rubocop,Ruby,0
 3195124,mperham/sidekiq,Ruby,3
@@ -13,14 +13,14 @@ id,name,lang,new stars
 611921,activeadmin/activeadmin,Ruby,0
 6529205,varvet/pundit,Ruby,2
 2441517,puma/puma,Ruby,3
-6899875,opf/openproject,Ruby,6
+6899875,opf/openproject,Ruby,5
 2889230,rails-api/active_model_serializers,Ruby,2
 52316423,luggit/react-native-config,Ruby,0
 200302808,github/view_component,Ruby,1
 9831101,elastic/elasticsearch-ruby,Ruby,1
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,0
-10504669,publiclab/plots2,Ruby,2
+10504669,publiclab/plots2,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,1
 66497320,DataDog/dd-trace-rb,Ruby,0
-212272090,CMSgov/price-transparency-guide,Ruby,1
+212272090,CMSgov/price-transparency-guide,Ruby,2
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
