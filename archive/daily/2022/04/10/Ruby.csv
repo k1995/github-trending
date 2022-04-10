@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,11
-7569578,discourse/discourse,Ruby,7
+8514,rails/rails,Ruby,10
+7569578,discourse/discourse,Ruby,8
 27442967,fastlane/fastlane,Ruby,3
 2293158,rapid7/metasploit-framework,Ruby,9
-37382858,kilimchoi/engineering-blogs,Ruby,9
+37382858,kilimchoi/engineering-blogs,Ruby,21
 538746,ruby/ruby,Ruby,6
 18486300,lewagon/setup,Ruby,21
 3314,spree/spree,Ruby,0
@@ -11,7 +11,7 @@ id,name,lang,new stars
 3195124,mperham/sidekiq,Ruby,2
 96395,faker-ruby/faker,Ruby,0
 611921,activeadmin/activeadmin,Ruby,0
-451035,heartcombo/simple_form,Ruby,1
+451035,heartcombo/simple_form,Ruby,2
 810796,railsadminteam/rails_admin,Ruby,0
 6529205,varvet/pundit,Ruby,0
 2441517,puma/puma,Ruby,0
