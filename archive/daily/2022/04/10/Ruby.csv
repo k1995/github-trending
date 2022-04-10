@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
+8514,rails/rails,Ruby,13
 7569578,discourse/discourse,Ruby,8
 27442967,fastlane/fastlane,Ruby,3
-2293158,rapid7/metasploit-framework,Ruby,9
-37382858,kilimchoi/engineering-blogs,Ruby,21
-538746,ruby/ruby,Ruby,6
-18486300,lewagon/setup,Ruby,21
+2293158,rapid7/metasploit-framework,Ruby,8
+37382858,kilimchoi/engineering-blogs,Ruby,14
+538746,ruby/ruby,Ruby,3
+18486300,lewagon/setup,Ruby,17
 3314,spree/spree,Ruby,0
-4095287,rubocop/rubocop,Ruby,2
+4095287,rubocop/rubocop,Ruby,1
 3195124,mperham/sidekiq,Ruby,2
 96395,faker-ruby/faker,Ruby,0
 611921,activeadmin/activeadmin,Ruby,0
-451035,heartcombo/simple_form,Ruby,2
+451035,heartcombo/simple_form,Ruby,1
 810796,railsadminteam/rails_admin,Ruby,0
 6529205,varvet/pundit,Ruby,0
 2441517,puma/puma,Ruby,0
@@ -20,7 +20,7 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,1
 12656803,MiniProfiler/rack-mini-profiler,Ruby,0
 1953385,stripe/stripe-ruby,Ruby,1
-29151578,rswag/rswag,Ruby,1
+29151578,rswag/rswag,Ruby,2
 20343475,googleapis/google-cloud-ruby,Ruby,0
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,1
 66497320,DataDog/dd-trace-rb,Ruby,0

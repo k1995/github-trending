@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,350
-458058,symfony/symfony,PHP,48
-7548986,laravel/framework,PHP,65
+3482588,danielmiessler/SecLists,PHP,351
+458058,symfony/symfony,PHP,47
+7548986,laravel/framework,PHP,67
 2579314,fzaninotto/Faker,PHP,26
 11323319,erusev/parsedown,PHP,16
 14259390,SpartnerNL/Laravel-Excel,PHP,20
 79111500,jupeter/clean-code-php,PHP,56
 42480275,spatie/laravel-permission,PHP,30
-2884111,magento/magento2,PHP,8
+2884111,magento/magento2,PHP,9
 597887,doctrine/orm,PHP,17
-11467667,typecho/typecho,PHP,58
+11467667,typecho/typecho,PHP,61
 21298446,firefly-iii/firefly-iii,PHP,46
 10371103,Laravel-Lang/lang,PHP,23
 9791525,digininja/DVWA,PHP,20
@@ -18,9 +18,9 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,23
 74386167,vimeo/psalm,PHP,19
 8077402,MISP/MISP,PHP,17
+248372441,laravel-filament/filament,PHP,59
 1953386,stripe/stripe-php,PHP,5
-248372441,laravel-filament/filament,PHP,56
-204114509,solstice23/argon-theme,PHP,52
+204114509,solstice23/argon-theme,PHP,49
 131995661,shopware/platform,PHP,18
 254024234,henrywhitaker3/Speedtest-Tracker,PHP,20
 471359149,bradtraversy/php-crash,PHP,16
