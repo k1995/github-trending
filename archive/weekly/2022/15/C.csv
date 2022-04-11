@@ -1,6 +1,6 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,181
-36502,git/git,C,126
+10744183,netdata/netdata,C,180
+36502,git/git,C,128
 1903522,php/php-src,C,60
 102578345,coolsnowwolf/lede,C,118
 20159867,nothings/stb,C,102
@@ -8,19 +8,19 @@ id,name,lang,new stars
 18496166,gentilkiwi/mimikatz,C,53
 78281075,SpacehuhnTech/esp8266_deauther,C,34
 179354282,acidanthera/OpenCorePkg,C,46
-65899476,espressif/esp-idf,C,38
+65899476,espressif/esp-idf,C,40
 5414488,cesanta/mongoose,C,49
 7037996,VirusTotal/yara,C,27
-431433455,phoboslab/qoi,C,266
-44781140,greenplum-db/gpdb,C,16
-59676171,Klipper3d/klipper,C,30
+431433455,phoboslab/qoi,C,248
+44781140,greenplum-db/gpdb,C,13
+59676171,Klipper3d/klipper,C,31
 114102,grbl/grbl,C,21
 327491895,peng-zhihui/HoloCubic,C,92
 131710328,CTCaer/hekate,C,34
 45703884,olikraus/u8g2,C,27
 217654199,microsoft/msquic,C,20
-37350472,ElementsProject/lightning,C,21
+37350472,ElementsProject/lightning,C,22
 61964127,86Box/86Box,C,32
-410567459,mytechnotalent/Hacking-Windows,C,382
+410567459,mytechnotalent/Hacking-Windows,C,356
 195199001,0015/ThatProject,C,12
 476936527,pqlx/CVE-2022-1015,C,40
