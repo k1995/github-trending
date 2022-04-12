@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,74
 7569578,discourse/discourse,Ruby,57
-52281283,mastodon/mastodon,Ruby,120
-2293158,rapid7/metasploit-framework,Ruby,103
-481872,hashicorp/vagrant,Ruby,39
+52281283,mastodon/mastodon,Ruby,115
+2293158,rapid7/metasploit-framework,Ruby,104
+481872,hashicorp/vagrant,Ruby,41
 37382858,kilimchoi/engineering-blogs,Ruby,80
-2203645,CocoaPods/CocoaPods,Ruby,15
+2203645,CocoaPods/CocoaPods,Ruby,14
 18486300,lewagon/setup,Ruby,332
-4095287,rubocop/rubocop,Ruby,11
+4095287,rubocop/rubocop,Ruby,12
 3195124,mperham/sidekiq,Ruby,23
 96395,faker-ruby/faker,Ruby,12
 812393,ruby-grape/grape,Ruby,9
@@ -17,10 +17,10 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,24
 5144181,jnunemaker/flipper,Ruby,13
 189010173,Hackplayers/evil-winrm,Ruby,20
-12357002,ondrejbartas/sidekiq-cron,Ruby,4
+12357002,ondrejbartas/sidekiq-cron,Ruby,5
 55288882,d12frosted/homebrew-emacs-plus,Ruby,14
-161399160,Shopify/shopify-cli,Ruby,11
-10504669,publiclab/plots2,Ruby,18
-66497320,DataDog/dd-trace-rb,Ruby,2
+161399160,Shopify/shopify-cli,Ruby,12
+10504669,publiclab/plots2,Ruby,17
+66497320,DataDog/dd-trace-rb,Ruby,3
 212272090,CMSgov/price-transparency-guide,Ruby,5
 347104426,learn-co-curriculum/phase-3-nested-hash-iteration,Ruby,0
