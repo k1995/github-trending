@@ -3,7 +3,7 @@ id,name,lang,new stars
 72477752,pulumi/pulumi,Go,107
 180687624,aquasecurity/trivy,Go,130
 311315731,XTLS/Xray-core,Go,88
-77726177,trufflesecurity/trufflehog,Go,1366
+77726177,trufflesecurity/trufflehog,Go,1365
 252813491,projectdiscovery/nuclei,Go,159
 413918947,vercel/turborepo,Go,303
 93808874,bxcodec/go-clean-arch,Go,87
@@ -19,7 +19,7 @@ id,name,lang,new stars
 382379200,cue-lang/cue,Go,101
 173009358,deepmap/oapi-codegen,Go,41
 417230885,dlvhdr/gh-dash,Go,493
-471627548,s0md3v/Smap,Go,699
+471627548,s0md3v/Smap,Go,698
 303802332,vmware-tanzu/community-edition,Go,16
 434017296,stackrox/stackrox,Go,239
 470472185,koordinator-sh/koordinator,Go,222

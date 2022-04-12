@@ -1,7 +1,7 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,179
-36502,git/git,C,129
-1903522,php/php-src,C,59
+10744183,netdata/netdata,C,181
+36502,git/git,C,127
+1903522,php/php-src,C,60
 102578345,coolsnowwolf/lede,C,115
 20159867,nothings/stb,C,105
 6201092,mpv-player/mpv,C,73
@@ -10,13 +10,13 @@ id,name,lang,new stars
 179354282,acidanthera/OpenCorePkg,C,46
 65899476,espressif/esp-idf,C,40
 5414488,cesanta/mongoose,C,49
-7037996,VirusTotal/yara,C,26
+7037996,VirusTotal/yara,C,25
 431433455,phoboslab/qoi,C,234
-44781140,greenplum-db/gpdb,C,13
+44781140,greenplum-db/gpdb,C,14
 59676171,Klipper3d/klipper,C,33
 114102,grbl/grbl,C,21
 327491895,peng-zhihui/HoloCubic,C,93
-131710328,CTCaer/hekate,C,39
+131710328,CTCaer/hekate,C,38
 45703884,olikraus/u8g2,C,27
 217654199,microsoft/msquic,C,19
 37350472,ElementsProject/lightning,C,23
