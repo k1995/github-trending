@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,711
+184456251,microsoft/PowerToys,C#,761
 3228505,atom/atom,JavaScript,202
 612230,nvm-sh/nvm,Shell,264
-15204860,papers-we-love/papers-we-love,Shell,2521
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,591
-11171548,nlohmann/json,C++,251
-269336148,sickcodes/Docker-OSX,Shell,191
-65233633,vercel/pkg,JavaScript,576
+15204860,papers-we-love/papers-we-love,Shell,2291
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,622
+11171548,nlohmann/json,C++,245
+269336148,sickcodes/Docker-OSX,Shell,186
+65233633,vercel/pkg,JavaScript,590
 154739597,google/jax,Python,129
-420459569,github/copilot-docs,Python,1451
+420459569,github/copilot-docs,Python,1439
 275993885,appsmithorg/appsmith,TypeScript,1242
-161012019,jellyfin/jellyfin,C#,191
-191051391,redwoodjs/redwood,TypeScript,403
-77726177,trufflesecurity/trufflehog,Go,1338
-268424739,helix-editor/helix,Rust,767
-441903012,MichaelCade/90DaysOfDevOps,Shell,1850
-51732606,jhu-ep-coursera/fullstack-course4,JavaScript,87
-194269070,skyline-emu/skyline,C++,504
-175405157,JanDeDobbeleer/oh-my-posh,Go,174
+161012019,jellyfin/jellyfin,C#,192
+191051391,redwoodjs/redwood,TypeScript,427
+77726177,trufflesecurity/trufflehog,Go,1261
+268424739,helix-editor/helix,Rust,790
+441903012,MichaelCade/90DaysOfDevOps,Shell,1849
+51732606,jhu-ep-coursera/fullstack-course4,JavaScript,77
+194269070,skyline-emu/skyline,C++,556
+175405157,JanDeDobbeleer/oh-my-posh,Go,181
 2928944,Azure/azure-sdk-for-net,C#,226
 27631673,microsoft/azure-pipelines-tasks,TypeScript,158
-204164353,kestra-io/kestra,Java,716
+204164353,kestra-io/kestra,Java,766
 434017296,stackrox/stackrox,Go,98
 463013407,megaease/easeprobe,Go,98
-463337778,alembics/disco-diffusion,Jupyter Notebook,170
+463337778,alembics/disco-diffusion,Jupyter Notebook,169
