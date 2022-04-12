@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,121
+1863329,laravel/laravel,PHP,117
 3482588,danielmiessler/SecLists,PHP,348
-458058,symfony/symfony,PHP,48
+458058,symfony/symfony,PHP,49
 7548986,laravel/framework,PHP,67
 11323319,erusev/parsedown,PHP,17
 79111500,jupeter/clean-code-php,PHP,54
@@ -16,11 +16,11 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,20
 9826184,elastic/elasticsearch-php,PHP,8
 74386167,vimeo/psalm,PHP,12
-70239358,cytopia/devilbox,PHP,12
+70239358,cytopia/devilbox,PHP,13
 8077402,MISP/MISP,PHP,15
 47508644,pterodactyl/panel,PHP,24
 22751672,tecnickcom/TCPDF,PHP,11
 248372441,laravel-filament/filament,PHP,66
 204114509,solstice23/argon-theme,PHP,46
-131995661,shopware/platform,PHP,19
-307018731,DenverCoder1/github-readme-streak-stats,PHP,33
+131995661,shopware/platform,PHP,17
+307018731,DenverCoder1/github-readme-streak-stats,PHP,32
