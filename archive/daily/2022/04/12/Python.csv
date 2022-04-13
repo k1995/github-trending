@@ -4,7 +4,7 @@ id,name,lang,new stars
 155220641,huggingface/transformers,Python,69
 81598961,python/cpython,Python,42
 212639071,bregman-arie/devops-exercises,Python,31
-145670234,open-mmlab/mmdetection,Python,22
+145670234,open-mmlab/mmdetection,Python,21
 135673451,microsoft/nni,Python,12
 157198623,jina-ai/clip-as-service,Python,15
 89266735,facebookresearch/ParlAI,Python,5
@@ -15,7 +15,7 @@ id,name,lang,new stars
 195914972,uber/causalml,Python,4
 186872119,awslabs/gluon-ts,Python,6
 8568252,pinry/pinry,Python,81
-422274596,hpcaitech/ColossalAI,Python,43
+422274596,hpcaitech/ColossalAI,Python,44
 334412452,obss/sahi,Python,12
 441467833,open-mmlab/mmdeploy,Python,10
 478823173,lucidrains/DALLE2-pytorch,Python,147

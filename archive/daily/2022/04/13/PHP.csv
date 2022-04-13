@@ -2,14 +2,14 @@ id,name,lang,new stars
 1420053,guzzle/guzzle,PHP,3
 8708394,filp/whoops,PHP,3
 61490598,PHPOffice/PhpSpreadsheet,PHP,5
-677464,doctrine/dbal,PHP,2
-1398648,symfony/http-foundation,PHP,3
+677464,doctrine/dbal,PHP,1
+1398648,symfony/http-foundation,PHP,1
 12166778,googleapis/google-api-php-client,PHP,1
 2179920,woocommerce/woocommerce,PHP,2
 330275,twigphp/Twig,PHP,0
-7550057,doctrine/cache,PHP,2
+7550057,doctrine/cache,PHP,0
 1398656,symfony/process,PHP,1
-7577142,doctrine/annotations,PHP,2
+7577142,doctrine/annotations,PHP,0
 14346979,snipe/snipe-it,PHP,5
 7577612,doctrine/collections,PHP,1
 677467,doctrine/common,PHP,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 111562942,statamic/cms,PHP,1
 15231212,Automattic/jetpack,PHP,0
 5367323,akeneo/pim-community-dev,PHP,0
-203848279,MarceauKa/shaark,PHP,8
+203848279,MarceauKa/shaark,PHP,4
