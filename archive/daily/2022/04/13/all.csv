@@ -1,6 +1,6 @@
 id,name,lang,new stars
-132750724,danistefanovic/build-your-own-x,,250
-21289110,vinta/awesome-python,Python,143
+132750724,danistefanovic/build-your-own-x,,328
+21289110,vinta/awesome-python,Python,154
 20580498,kubernetes/kubernetes,Go,45
 103633984,goldbergyoni/nodebestpractices,JavaScript,117
 145553672,fighting41love/funNLP,Python,46
@@ -8,18 +8,18 @@ id,name,lang,new stars
 195226340,goldbergyoni/javascript-testing-best-practices,JavaScript,514
 129717717,grafana/loki,Go,19
 58590700,tc39/proposals,,11
-441903012,MichaelCade/90DaysOfDevOps,Shell,474
+441903012,MichaelCade/90DaysOfDevOps,Shell,333
 127519518,projectdiscovery/subfinder,Go,12
-477528511,ekzhang/bore,Rust,754
-129712017,robmarkcole/satellite-image-deep-learning,,173
+477528511,ekzhang/bore,Rust,611
+129712017,robmarkcole/satellite-image-deep-learning,,160
 4127088,Azure/azure-sdk-for-python,Python,3
 404320053,gakonst/foundry,Rust,23
 446951373,chiru-labs/ERC721A,JavaScript,16
-478823173,lucidrains/DALLE2-pytorch,Python,109
-465344326,projectdiscovery/uncover,Go,58
-148566613,mlcommons/inference,Python,9
-472006661,ern0/howto-wasm-minimal,C++,62
-479721048,JannsenYang/dingdong-helper,Java,43
+478823173,lucidrains/DALLE2-pytorch,Python,83
+465344326,projectdiscovery/uncover,Go,96
+148566613,mlcommons/inference,Python,1
+472006661,ern0/howto-wasm-minimal,C++,60
+479721048,JannsenYang/dingdong-helper,Java,53
 467750575,oneThousand1000/non-hair-FFHQ,,26
 457498892,archway-network/testnets,,24
 479902391,Sjj1024/QiangCai,Python,14

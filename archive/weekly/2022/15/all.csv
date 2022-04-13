@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,778
-3228505,atom/atom,JavaScript,214
-15204860,papers-we-love/papers-we-love,Shell,2715
-243950408,Anduin2017/HowToCook,JavaScript,2909
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,703
+184456251,microsoft/PowerToys,C#,776
+3228505,atom/atom,JavaScript,208
+15204860,papers-we-love/papers-we-love,Shell,3068
+243950408,Anduin2017/HowToCook,JavaScript,2487
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,803
 11171548,nlohmann/json,C++,256
-269336148,sickcodes/Docker-OSX,Shell,196
-420459569,github/copilot-docs,Python,1410
-275993885,appsmithorg/appsmith,TypeScript,1118
-161012019,jellyfin/jellyfin,C#,154
-202498093,tgbot-collection/YYeTsBot,Python,1144
-302800491,vxunderground/MalwareSourceCode,Assembly,718
-441903012,MichaelCade/90DaysOfDevOps,Shell,2123
-77726177,trufflesecurity/trufflehog,Go,1207
+269336148,sickcodes/Docker-OSX,Shell,203
+420459569,github/copilot-docs,Python,1398
+275993885,appsmithorg/appsmith,TypeScript,1104
+161012019,jellyfin/jellyfin,C#,148
+202498093,tgbot-collection/YYeTsBot,Python,1094
+302800491,vxunderground/MalwareSourceCode,Assembly,744
+441903012,MichaelCade/90DaysOfDevOps,Shell,2122
+77726177,trufflesecurity/trufflehog,Go,976
 268424739,helix-editor/helix,Rust,721
-123631418,Lissy93/personal-security-checklist,,2356
-194269070,skyline-emu/skyline,C++,579
-341714203,openai/DALL-E,Python,507
-2928944,Azure/azure-sdk-for-net,C#,225
+123631418,Lissy93/personal-security-checklist,,2315
+194269070,skyline-emu/skyline,C++,677
+341714203,openai/DALL-E,Python,502
+2928944,Azure/azure-sdk-for-net,C#,215
 267713284,projectdiscovery/httpx,Go,54
 129712017,robmarkcole/satellite-image-deep-learning,,341
-471960338,BoomingTech/Pilot,C++,939
-440244590,CompVis/latent-diffusion,Jupyter Notebook,589
+471960338,BoomingTech/Pilot,C++,914
+440244590,CompVis/latent-diffusion,Jupyter Notebook,537
 463337778,alembics/disco-diffusion,Jupyter Notebook,184
-476728008,sean529/robFood,JavaScript,193
+476728008,sean529/robFood,JavaScript,128
