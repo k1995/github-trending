@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,760
-3228505,atom/atom,JavaScript,211
-612230,nvm-sh/nvm,Shell,251
-15204860,papers-we-love/papers-we-love,Shell,2727
+184456251,microsoft/PowerToys,C#,762
+3228505,atom/atom,JavaScript,205
+612230,nvm-sh/nvm,Shell,263
+15204860,papers-we-love/papers-we-love,Shell,2715
 343965132,microsoft/ML-For-Beginners,Jupyter Notebook,703
-11171548,nlohmann/json,C++,250
+11171548,nlohmann/json,C++,256
 269336148,sickcodes/Docker-OSX,Shell,196
-65233633,vercel/pkg,JavaScript,617
-154739597,google/jax,Python,140
-420459569,github/copilot-docs,Python,1402
-275993885,appsmithorg/appsmith,TypeScript,1100
-161012019,jellyfin/jellyfin,C#,193
-191051391,redwoodjs/redwood,TypeScript,382
+65233633,vercel/pkg,JavaScript,624
+154739597,google/jax,Python,142
+420459569,github/copilot-docs,Python,1410
+275993885,appsmithorg/appsmith,TypeScript,1118
+161012019,jellyfin/jellyfin,C#,154
+191051391,redwoodjs/redwood,TypeScript,383
 77726177,trufflesecurity/trufflehog,Go,1207
-268424739,helix-editor/helix,Rust,719
-441903012,MichaelCade/90DaysOfDevOps,Shell,2129
+268424739,helix-editor/helix,Rust,721
+441903012,MichaelCade/90DaysOfDevOps,Shell,2123
 51732606,jhu-ep-coursera/fullstack-course4,JavaScript,90
-194269070,skyline-emu/skyline,C++,540
-175405157,JanDeDobbeleer/oh-my-posh,Go,175
-2928944,Azure/azure-sdk-for-net,C#,215
+194269070,skyline-emu/skyline,C++,579
+175405157,JanDeDobbeleer/oh-my-posh,Go,180
+2928944,Azure/azure-sdk-for-net,C#,225
 27631673,microsoft/azure-pipelines-tasks,TypeScript,157
-204164353,kestra-io/kestra,Java,648
-434017296,stackrox/stackrox,Go,81
+204164353,kestra-io/kestra,Java,618
+434017296,stackrox/stackrox,Go,80
 463013407,megaease/easeprobe,Go,100
 463337778,alembics/disco-diffusion,Jupyter Notebook,184

@@ -1,5 +1,5 @@
 id,name,lang,new stars
-6838921,prometheus/prometheus,Go,21
+6838921,prometheus/prometheus,Go,23
 11225014,etcd-io/etcd,Go,13
 42408804,traefik/traefik,Go,20
 74175805,istio/istio,Go,7
@@ -18,9 +18,9 @@ id,name,lang,new stars
 150713223,kubeedge/kubeedge,Go,7
 43465675,libp2p/go-libp2p,Go,5
 63882194,projectcalico/calico,Go,7
-57912964,kubernetes/enhancements,Go,2
+57912964,kubernetes/enhancements,Go,1
 105711679,envoyproxy/protoc-gen-validate,Go,3
 248386471,kubesphere/kubekey,Go,5
-465344326,projectdiscovery/uncover,Go,28
+465344326,projectdiscovery/uncover,Go,29
 460053762,real-web-world/hh-lol-prophet,Go,15
 478749491,yakuter/gossl,Go,19
