@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,116
+1863329,laravel/laravel,PHP,112
 3482588,danielmiessler/SecLists,PHP,290
+458058,symfony/symfony,PHP,54
 7548986,laravel/framework,PHP,66
-458058,symfony/symfony,PHP,56
 2889328,WordPress/WordPress,PHP,33
-79111500,jupeter/clean-code-php,PHP,37
+79111500,jupeter/clean-code-php,PHP,35
 2884111,magento/magento2,PHP,19
 597887,doctrine/orm,PHP,17
 1398630,symfony/console,PHP,19
@@ -16,11 +16,11 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,15
 12204147,mautic/mautic,PHP,13
 74386167,vimeo/psalm,PHP,14
-62937181,PrivateBin/PrivateBin,PHP,33
+62937181,PrivateBin/PrivateBin,PHP,36
 4380514,Audi-1/sqli-labs,PHP,22
 22751672,tecnickcom/TCPDF,PHP,10
 248372441,laravel-filament/filament,PHP,53
 204114509,solstice23/argon-theme,PHP,45
-131995661,shopware/platform,PHP,12
+131995661,shopware/platform,PHP,11
 15231212,Automattic/jetpack,PHP,3
-307018731,DenverCoder1/github-readme-streak-stats,PHP,30
+307018731,DenverCoder1/github-readme-streak-stats,PHP,31
