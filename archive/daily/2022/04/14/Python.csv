@@ -6,14 +6,14 @@ id,name,lang,new stars
 145553672,fighting41love/funNLP,Python,90
 21467110,explosion/spaCy,Python,9
 1377867,locustio/locust,Python,16
-74762106,jhao104/proxy_pool,Python,19
+74762106,jhao104/proxy_pool,Python,23
 41179827,Rapptz/discord.py,Python,7
 222751131,Asabeneh/30-Days-Of-Python,Python,18
 38441254,automl/auto-sklearn,Python,18
-217433767,facebookresearch/pytorch3d,Python,11
+217433767,facebookresearch/pytorch3d,Python,10
 435653386,facebookresearch/mae,Python,19
-172615836,awslabs/aws-data-wrangler,Python,7
 4127088,Azure/azure-sdk-for-python,Python,59
+172615836,awslabs/aws-data-wrangler,Python,7
 186872119,awslabs/gluon-ts,Python,13
 3544424,httpie/httpie,Python,38
 478823173,lucidrains/DALLE2-pytorch,Python,93
@@ -22,5 +22,5 @@ id,name,lang,new stars
 419058448,torrinworx/Blend_My_NFTs,Python,6
 474598050,cider-security-research/cicd-goat,Python,50
 462976341,rly0nheart/octosuite,Python,18
-479902391,Sjj1024/QiangCai,Python,21
-475822746,azhan1998/sam_buy,Python,9
+479902391,Sjj1024/QiangCai,Python,34
+475822746,azhan1998/sam_buy,Python,8

@@ -1,12 +1,12 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,92
+20580498,kubernetes/kubernetes,Go,93
 97533102,halfrost/LeetCode-Go,Go,18
 43723161,helm/helm,Go,12
-165041732,go-kratos/kratos,Go,15
+165041732,go-kratos/kratos,Go,18
 6247705,stretchr/testify,Go,12
-129717717,grafana/loki,Go,94
+129717717,grafana/loki,Go,99
 66841911,qax-os/excelize,Go,47
-208728772,milvus-io/milvus,Go,19
+208728772,milvus-io/milvus,Go,17
 130430977,kubesphere/kubesphere,Go,20
 37334619,golang/mock,Go,11
 28366058,distribution/distribution,Go,6
@@ -19,8 +19,8 @@ id,name,lang,new stars
 105711679,envoyproxy/protoc-gen-validate,Go,13
 257434373,HyNetwork/hysteria,Go,14
 158890222,cbeuw/Cloak,Go,7
-411212454,tharsis/evmos,Go,5
+411212454,tharsis/evmos,Go,4
 312360662,projectdiscovery/dnsx,Go,10
-465344326,projectdiscovery/uncover,Go,115
+465344326,projectdiscovery/uncover,Go,131
 480189587,zc2638/ddshop,Go,22
 454824300,archway-network/testnet-signer,Go,38
