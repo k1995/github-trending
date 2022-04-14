@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,782
+184456251,microsoft/PowerToys,C#,780
 3228505,atom/atom,JavaScript,211
-15204860,papers-we-love/papers-we-love,Shell,3088
-243950408,Anduin2017/HowToCook,JavaScript,2348
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1206
-11171548,nlohmann/json,C++,261
-269336148,sickcodes/Docker-OSX,Shell,218
-420459569,github/copilot-docs,Python,1174
-275993885,appsmithorg/appsmith,TypeScript,804
-161012019,jellyfin/jellyfin,C#,125
-202498093,tgbot-collection/YYeTsBot,Python,1008
+15204860,papers-we-love/papers-we-love,Shell,3139
+243950408,Anduin2017/HowToCook,JavaScript,2180
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1197
+11171548,nlohmann/json,C++,260
+269336148,sickcodes/Docker-OSX,Shell,222
+420459569,github/copilot-docs,Python,1113
+275993885,appsmithorg/appsmith,TypeScript,806
+161012019,jellyfin/jellyfin,C#,126
+202498093,tgbot-collection/YYeTsBot,Python,1044
 302800491,vxunderground/MalwareSourceCode,Assembly,746
-441903012,MichaelCade/90DaysOfDevOps,Shell,2544
-77726177,trufflesecurity/trufflehog,Go,848
-268424739,helix-editor/helix,Rust,622
-123631418,Lissy93/personal-security-checklist,,2002
-194269070,skyline-emu/skyline,C++,688
-341714203,openai/DALL-E,Python,525
+441903012,MichaelCade/90DaysOfDevOps,Shell,2516
+77726177,trufflesecurity/trufflehog,Go,918
+268424739,helix-editor/helix,Rust,621
+123631418,Lissy93/personal-security-checklist,,2038
+194269070,skyline-emu/skyline,C++,675
+341714203,openai/DALL-E,Python,518
 2928944,Azure/azure-sdk-for-net,C#,148
-267713284,projectdiscovery/httpx,Go,64
-129712017,robmarkcole/satellite-image-deep-learning,,406
+129712017,robmarkcole/satellite-image-deep-learning,,408
+267713284,projectdiscovery/httpx,Go,68
 471960338,BoomingTech/Pilot,C++,816
-440244590,CompVis/latent-diffusion,Jupyter Notebook,496
+440244590,CompVis/latent-diffusion,Jupyter Notebook,564
 463337778,alembics/disco-diffusion,Jupyter Notebook,193
 476728008,sean529/robFood,JavaScript,107
