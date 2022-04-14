@@ -1,12 +1,12 @@
 id,name,lang,new stars
-22790488,iluwatar/java-design-patterns,Java,19
+22790488,iluwatar/java-design-patterns,Java,20
 159152904,jeecgboot/jeecg-boot,Java,27
-53127403,apolloconfig/apollo,Java,4
+53127403,apolloconfig/apollo,Java,8
 93152223,scwang90/SmartRefreshLayout,Java,4
 137451403,alibaba/nacos,Java,17
-5373551,libgdx/libgdx,Java,11
+5373551,libgdx/libgdx,Java,9
 144705602,didi/DoraemonKit,Java,13
-4576305,openzipkin/zipkin,Java,6
+4576305,openzipkin/zipkin,Java,7
 5349565,prestodb/presto,Java,6
 6358188,apache/druid,Java,3
 20275545,google/guice,Java,19
@@ -14,13 +14,13 @@ id,name,lang,new stars
 181012406,macrozheng/mall-learning,Java,8
 120463532,alibaba/COLA,Java,17
 237867883,metersphere/metersphere,Java,9
-33166041,react-native-video/react-native-video,Java,2
+33166041,react-native-video/react-native-video,Java,1
 29955458,frohoff/ysoserial,Java,3
 1381673,kiegroup/drools,Java,3
 222578036,WeiYe-Jing/datax-web,Java,0
-248032165,spring-projects/spring-authorization-server,Java,10
-21193524,apache/calcite,Java,4
-212488700,pytorch/serve,Java,4
+248032165,spring-projects/spring-authorization-server,Java,9
+21193524,apache/calcite,Java,3
+212488700,pytorch/serve,Java,3
 277485800,exadel-inc/CompreFace,Java,7
 455584258,dromara/hertzbeat,Java,14
 479721048,JannsenYang/dingdong-helper,Java,164
