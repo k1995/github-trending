@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,1003
+3482588,danielmiessler/SecLists,PHP,1005
 458058,symfony/symfony,PHP,187
 1420053,guzzle/guzzle,PHP,141
 60243197,nextcloud/server,PHP,326
@@ -8,13 +8,13 @@ id,name,lang,new stars
 47495360,koel/koel,PHP,146
 29843361,w7corp/easywechat,PHP,48
 11467667,typecho/typecho,PHP,246
-12166778,googleapis/google-api-php-client,PHP,68
+12166778,googleapis/google-api-php-client,PHP,70
 31295421,guzzle/psr7,PHP,43
-9791525,digininja/DVWA,PHP,103
-11935508,RSS-Bridge/rss-bridge,PHP,137
+9791525,digininja/DVWA,PHP,102
+11935508,RSS-Bridge/rss-bridge,PHP,136
 3817881,zircote/swagger-php,PHP,52
 60010673,elementor/elementor,PHP,62
-119047018,linuxserver/Heimdall,PHP,217
+119047018,linuxserver/Heimdall,PHP,218
 4380514,Audi-1/sqli-labs,PHP,74
 129852395,assimon/dujiaoka,PHP,129
 204114509,solstice23/argon-theme,PHP,153
@@ -22,5 +22,5 @@ id,name,lang,new stars
 142127816,zhuifengshaonianhanlu/pikachu,PHP,88
 400984450,kuaifan/dootask,PHP,198
 216849756,v2board/v2board,PHP,75
-359687154,DenverCoder1/readme-typing-svg,PHP,132
+359687154,DenverCoder1/readme-typing-svg,PHP,129
 274940489,Blair2004/NexoPOS-4x,PHP,142
