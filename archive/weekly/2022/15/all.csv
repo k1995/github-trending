@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21289110,vinta/awesome-python,Python,1175
-184456251,microsoft/PowerToys,C#,778
+21289110,vinta/awesome-python,Python,1090
+184456251,microsoft/PowerToys,C#,782
 3228505,atom/atom,JavaScript,215
-15204860,papers-we-love/papers-we-love,Shell,3300
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1592
+15204860,papers-we-love/papers-we-love,Shell,3299
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,1448
 11171548,nlohmann/json,C++,259
-191051391,redwoodjs/redwood,TypeScript,369
+191051391,redwoodjs/redwood,TypeScript,399
 348060227,withastro/astro,TypeScript,143
 302800491,vxunderground/MalwareSourceCode,Assembly,736
-300996055,lucidrains/vit-pytorch,Python,155
-441903012,MichaelCade/90DaysOfDevOps,Shell,2921
-77726177,trufflesecurity/trufflehog,Go,538
-194269070,skyline-emu/skyline,C++,706
-127519518,projectdiscovery/subfinder,Go,273
-341714203,openai/DALL-E,Python,418
-2928944,Azure/azure-sdk-for-net,C#,102
+300996055,lucidrains/vit-pytorch,Python,153
+441903012,MichaelCade/90DaysOfDevOps,Shell,2858
+77726177,trufflesecurity/trufflehog,Go,652
+194269070,skyline-emu/skyline,C++,695
+127519518,projectdiscovery/subfinder,Go,282
+341714203,openai/DALL-E,Python,460
+2928944,Azure/azure-sdk-for-net,C#,109
 384219990,warpdotdev/Warp,,887
-267713284,projectdiscovery/httpx,Go,81
-471960338,BoomingTech/Pilot,C++,559
-440244590,CompVis/latent-diffusion,Jupyter Notebook,352
-477939688,Skykai521/DingDongHelper,Kotlin,735
-426700184,microsoft/dotnet-podcasts,C#,50
-476728008,sean529/robFood,JavaScript,84
-477400933,codeedu/imersao-7-codepix,TypeScript,92
-478554949,lambda765/robFoodDD,Go,76
+267713284,projectdiscovery/httpx,Go,88
+471960338,BoomingTech/Pilot,C++,449
+440244590,CompVis/latent-diffusion,Jupyter Notebook,401
+477939688,Skykai521/DingDongHelper,Kotlin,738
+426700184,microsoft/dotnet-podcasts,C#,53
+476728008,sean529/robFood,JavaScript,63
+477400933,codeedu/imersao-7-codepix,TypeScript,122
+478554949,lambda765/robFoodDD,Go,46

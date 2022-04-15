@@ -1,6 +1,6 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,18
-100060912,microsoft/terminal,C++,24
+9384267,electron/electron,C++,21
+100060912,microsoft/terminal,C++,18
 23357588,protocolbuffers/protobuf,C++,22
 22067521,ocornut/imgui,C++,19
 12791642,BVLC/caffe,C++,17
@@ -12,15 +12,15 @@ id,name,lang,new stars
 40892817,ethereum/solidity,C++,25
 186309296,lettier/3d-game-shaders-for-beginners,C++,8
 6520784,RPCS3/rpcs3,C++,6
-38581626,pybind/pybind11,C++,9
+38581626,pybind/pybind11,C++,10
 161292091,Tencent/matrix,C++,7
 1605598,bulletphysics/bullet3,C++,9
-75413130,isl-org/Open3D,C++,5
+75413130,isl-org/Open3D,C++,4
 15122806,google/benchmark,C++,1
 143324737,diasurgical/devilutionX,C++,7
 223904726,wang-xinyu/tensorrtx,C++,5
 67641996,oneapi-src/oneTBB,C++,6
 324829379,organicmaps/organicmaps,C++,4
-47440536,cocos/cocos-engine,C++,6
+47440536,cocos/cocos-engine,C++,12
 313501668,wenet-e2e/wenet,C++,3
 398863403,bdring/FluidNC,C++,1
