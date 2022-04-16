@@ -1,5 +1,5 @@
 id,name,lang,new stars
-36502,git/git,C,105
+36502,git/git,C,101
 1903522,php/php-src,C,51
 1614410,FFmpeg/FFmpeg,C,121
 18666758,pjreddie/darknet,C,45
@@ -9,18 +9,18 @@ id,name,lang,new stars
 179354282,acidanthera/OpenCorePkg,C,41
 901662,libgit2/libgit2,C,17
 7408108,RT-Thread/rt-thread,C,42
-190845267,n64decomp/sm64,C,36
-277194804,lawl/NoiseTorch,C,61
+190845267,n64decomp/sm64,C,35
+277194804,lawl/NoiseTorch,C,62
 59771425,zephyrproject-rtos/zephyr,C,43
-394318710,valinet/ExplorerPatcher,C,188
+394318710,valinet/ExplorerPatcher,C,189
 59676171,Klipper3d/klipper,C,32
-23007417,colmap/colmap,C,35
-7705639,merbanan/rtl_433,C,62
+23007417,colmap/colmap,C,37
+7705639,merbanan/rtl_433,C,61
 27275442,telekom-security/tpotce,C,41
-6687936,Mbed-TLS/mbedtls,C,21
+6687936,Mbed-TLS/mbedtls,C,20
 45703884,olikraus/u8g2,C,27
 27359183,guanzhi/GmSSL,C,22
-204459250,mit-pdos/xv6-riscv,C,27
-122993186,remzi-arpacidusseau/ostep-code,C,21
-61964127,86Box/86Box,C,14
+204459250,mit-pdos/xv6-riscv,C,26
+122993186,remzi-arpacidusseau/ostep-code,C,20
+61964127,86Box/86Box,C,13
 475870202,kris-nova/boopkit,C,157
