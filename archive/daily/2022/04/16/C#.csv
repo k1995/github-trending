@@ -1,9 +1,9 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,10
-17620347,dotnet/aspnetcore,C#,15
-262395224,dotnet/maui,C#,22
+17620347,dotnet/aspnetcore,C#,36
+262395224,dotnet/maui,C#,23
 210716005,dotnet/runtime,C#,9
-75990888,dotnet/csharplang,C#,5
+75990888,dotnet/csharplang,C#,6
 505380,AutoMapper/AutoMapper,C#,5
 1135454,cefsharp/CefSharp,C#,2
 132021166,dotnet/machinelearning,C#,6
@@ -12,7 +12,7 @@ id,name,lang,new stars
 38992233,donet5/SqlSugar,C#,4
 219113096,k8gege/Ladon,C#,10
 187499284,Cysharp/UniTask,C#,3
-138290022,mob-sakai/ParticleEffectForUGUI,C#,1
+138290022,mob-sakai/ParticleEffectForUGUI,C#,2
 119571446,dotnet/samples,C#,3
 185478059,open-telemetry/opentelemetry-dotnet,C#,3
 68534745,goatcorp/FFXIVQuickLauncher,C#,14
@@ -20,7 +20,7 @@ id,name,lang,new stars
 337897094,beto-rodriguez/LiveCharts2,C#,13
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,1
 298347380,Unity-Technologies/Unity-Robotics-Hub,C#,3
-426700184,microsoft/dotnet-podcasts,C#,27
+426700184,microsoft/dotnet-podcasts,C#,19
 209989682,goatcorp/Dalamud,C#,7
-481258640,engindemirog/NorthwindWithCleanArchitecture,C#,16
+481258640,engindemirog/NorthwindWithCleanArchitecture,C#,10
 397823527,Mayyhem/SharpSCCM,C#,13
