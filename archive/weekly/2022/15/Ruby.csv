@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,60
+8514,rails/rails,Ruby,63
 7569578,discourse/discourse,Ruby,46
 27442967,fastlane/fastlane,Ruby,296
 13840241,freeCodeCamp/devdocs,Ruby,111
 52281283,mastodon/mastodon,Ruby,90
 2293158,rapid7/metasploit-framework,Ruby,111
 308770,heartcombo/devise,Ruby,26
-37382858,kilimchoi/engineering-blogs,Ruby,57
+37382858,kilimchoi/engineering-blogs,Ruby,56
 2203645,CocoaPods/CocoaPods,Ruby,15
 18486300,lewagon/setup,Ruby,369
 3195124,mperham/sidekiq,Ruby,26
 88740103,postalserver/postal,Ruby,29
-96395,faker-ruby/faker,Ruby,16
+96395,faker-ruby/faker,Ruby,17
 910744,puppetlabs/puppet,Ruby,12
 6899875,opf/openproject,Ruby,28
 33739333,thoughtbot/administrate,Ruby,12
@@ -22,5 +22,5 @@ id,name,lang,new stars
 189010173,Hackplayers/evil-winrm,Ruby,23
 12357002,ondrejbartas/sidekiq-cron,Ruby,13
 61203,Shopify/shopify_app,Ruby,4
-502760,danbooru/danbooru,Ruby,13
+502760,danbooru/danbooru,Ruby,14
 10504669,publiclab/plots2,Ruby,12
