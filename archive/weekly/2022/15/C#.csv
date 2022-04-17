@@ -1,12 +1,12 @@
 id,name,lang,new stars
 184456251,microsoft/PowerToys,C#,696
 17620347,dotnet/aspnetcore,C#,166
-38380854,dnSpy/dnSpy,C#,64
-262395224,dotnet/maui,C#,140
+38380854,dnSpy/dnSpy,C#,63
+262395224,dotnet/maui,C#,139
 75990888,dotnet/csharplang,C#,33
-375939072,dotnetcore/FastGithub,C#,158
+375939072,dotnetcore/FastGithub,C#,161
 245235133,microsoft/reverse-proxy,C#,26
-152370823,davidfowl/AspNetCoreDiagnosticScenarios,C#,54
+152370823,davidfowl/AspNetCoreDiagnosticScenarios,C#,53
 366663429,jynew/jynew,C#,65
 324473895,leiurayer/downkyi,C#,141
 38992233,donet5/SqlSugar,C#,23
@@ -15,12 +15,12 @@ id,name,lang,new stars
 153711830,dotnet/winforms,C#,12
 219113096,k8gege/Ladon,C#,41
 288428676,MudBlazor/MudBlazor,C#,73
-158405551,GitCredentialManager/git-credential-manager,C#,129
+158405551,GitCredentialManager/git-credential-manager,C#,123
 68534745,goatcorp/FFXIVQuickLauncher,C#,49
 5616877,Revolutionary-Games/Thrive,C#,23
 283168306,robvdpol/RaceControl,C#,79
 426700184,microsoft/dotnet-podcasts,C#,83
 307848141,Unity-Technologies/com.unity.multiplayer.samples.coop,C#,14
-436286849,RayWangQvQ/BiliBiliToolPro,C#,61
+436286849,RayWangQvQ/BiliBiliToolPro,C#,58
 425766154,UnamSanctam/SilentCryptoMiner,C#,18
 101895131,DataDog/dd-trace-dotnet,C#,3

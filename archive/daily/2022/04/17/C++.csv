@@ -1,13 +1,13 @@
 id,name,lang,new stars
-15634981,godotengine/godot,C++,25
+15634981,godotengine/godot,C++,23
 12791642,BVLC/caffe,C++,35
-67702184,topjohnwu/Magisk,C++,37
+67702184,topjohnwu/Magisk,C++,32
 4524181,facebook/folly,C++,10
 160083795,SerenityOS/serenity,C++,18
-74660642,taichi-dev/taichi,C++,21
+74660642,taichi-dev/taichi,C++,20
 65711522,PaddlePaddle/Paddle,C++,8
-40892817,ethereum/solidity,C++,100
-18503721,facebook/yoga,C++,6
+40892817,ethereum/solidity,C++,110
+18503721,facebook/yoga,C++,5
 102692863,onnx/onnx,C++,6
 153866232,TheCherno/Hazel,C++,7
 299510783,rui314/mold,C++,19
@@ -19,8 +19,8 @@ id,name,lang,new stars
 184657328,NVIDIA/TensorRT,C++,5
 33157169,libcpr/cpr,C++,9
 99919302,apache/incubator-doris,C++,1
-47440536,cocos/cocos-engine,C++,11
+47440536,cocos/cocos-engine,C++,5
 350375089,DefTruth/lite.ai.toolkit,C++,5
-475015128,shuax/edge_plus,C++,14
+475015128,shuax/edge_plus,C++,13
 284449702,bitshares-cnvote/newbitshares-core,C++,4
 446587510,eidosmontreal/unreal-vdb,C++,10

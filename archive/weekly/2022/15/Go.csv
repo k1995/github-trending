@@ -1,6 +1,6 @@
 id,name,lang,new stars
-23096959,golang/go,Go,428
-14712850,syncthing/syncthing,Go,169
+23096959,golang/go,Go,422
+14712850,syncthing/syncthing,Go,171
 6838921,prometheus/prometheus,Go,126
 11225014,etcd-io/etcd,Go,112
 29207621,caddyserver/caddy,Go,375
@@ -12,9 +12,9 @@ id,name,lang,new stars
 205679232,flipped-aurora/gin-vue-admin,Go,140
 66841911,qax-os/excelize,Go,233
 219616873,charmbracelet/glow,Go,126
-77726177,trufflesecurity/trufflehog,Go,337
+77726177,trufflesecurity/trufflehog,Go,329
 252813491,projectdiscovery/nuclei,Go,122
-413918947,vercel/turborepo,Go,210
+413918947,vercel/turborepo,Go,212
 367758176,dtm-labs/dtm,Go,180
 175405157,JanDeDobbeleer/oh-my-posh,Go,146
 127519518,projectdiscovery/subfinder,Go,300
@@ -23,4 +23,4 @@ id,name,lang,new stars
 105711679,envoyproxy/protoc-gen-validate,Go,43
 125253663,google/go-containerregistry,Go,36
 460053762,real-web-world/hh-lol-prophet,Go,107
-478554949,lambda765/robFoodDD,Go,25
+478554949,lambda765/robFoodDD,Go,16
