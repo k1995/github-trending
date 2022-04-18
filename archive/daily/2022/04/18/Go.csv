@@ -1,9 +1,9 @@
 id,name,lang,new stars
 11180687,gohugoio/hugo,Go,25
-48378947,fatedier/frp,Go,32
+48378947,fatedier/frp,Go,34
 14712850,syncthing/syncthing,Go,27
 41912791,v2ray/v2ray-core,Go,11
-136815833,Dreamacro/clash,Go,42
+136815833,Dreamacro/clash,Go,39
 120227732,fyne-io/fyne,Go,15
 181461073,v2fly/v2ray-core,Go,21
 31558937,gravitational/teleport,Go,16
@@ -14,13 +14,13 @@ id,name,lang,new stars
 111364256,miniflux/v2,Go,9
 201546443,trustwallet/assets,Go,7
 157402758,safing/portmaster,Go,32
-116392590,stefanprodan/podinfo,Go,10
+116392590,stefanprodan/podinfo,Go,15
 135951540,stashapp/stash,Go,3
 257434373,HyNetwork/hysteria,Go,26
 463855335,Arriven/db1000n,Go,4
-310632133,solana-labs/token-list,Go,3
+310632133,solana-labs/token-list,Go,2
 423466379,V4NSH4J/discord-mass-DM-GO,Go,16
 347554518,XrayR-project/XrayR,Go,6
 480189587,zc2638/ddshop,Go,71
 481051865,robGoods/sams,Go,31
-481431238,maaslalani/draw,Go,24
+481431238,maaslalani/draw,Go,18
