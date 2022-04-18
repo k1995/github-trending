@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,1322
-21289110,vinta/awesome-python,Python,1297
-184456251,microsoft/PowerToys,C#,483
-15204860,papers-we-love/papers-we-love,Shell,2110
-145553672,fighting41love/funNLP,Python,995
-27442967,fastlane/fastlane,Ruby,365
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,2720
-11171548,nlohmann/json,C++,154
-195226340,goldbergyoni/javascript-testing-best-practices,JavaScript,1320
-40892817,ethereum/solidity,C++,427
-331926236,itdevbooks/pdf,,635
+83222441,donnemartin/system-design-primer,Python,2991
+15204860,papers-we-love/papers-we-love,Shell,2112
+145553672,fighting41love/funNLP,Python,996
+27442967,fastlane/fastlane,Ruby,364
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,2831
+262296122,PaddlePaddle/PaddleOCR,Python,179
+195226340,goldbergyoni/javascript-testing-best-practices,JavaScript,1435
+40892817,ethereum/solidity,C++,430
+3544424,httpie/httpie,Python,12467
 191051391,redwoodjs/redwood,TypeScript,335
 163591278,GitHubDaily/GitHubDaily,,1042
-234739976,medusajs/medusa,JavaScript,1009
-302800491,vxunderground/MalwareSourceCode,Assembly,605
-441903012,MichaelCade/90DaysOfDevOps,Shell,2835
-194269070,skyline-emu/skyline,C++,641
-127519518,projectdiscovery/subfinder,Go,309
+234739976,medusajs/medusa,JavaScript,1000
+441903012,MichaelCade/90DaysOfDevOps,Shell,2837
+115039706,rust-lang/rust-analyzer,Rust,305
+194269070,skyline-emu/skyline,C++,560
+477528511,ekzhang/bore,Rust,2614
 375345894,pystardust/ani-cli,Shell,218
-440244590,CompVis/latent-diffusion,Jupyter Notebook,201
-477939688,Skykai521/DingDongHelper,Kotlin,236
+267713284,projectdiscovery/httpx,Go,134
+235468657,PipedreamHQ/pipedream,JavaScript,129
+440244590,CompVis/latent-diffusion,Jupyter Notebook,187
+478823173,lucidrains/DALLE2-pytorch,Python,793
 426700184,microsoft/dotnet-podcasts,C#,89
-474759499,a-little-org-called-mario/a-little-game-called-mario,GDScript,541
-452327893,ClemensElflein/OpenMower,HTML,688
-479059555,fullhunt/spring4shell-scan,Python,112
+474759499,a-little-org-called-mario/a-little-game-called-mario,GDScript,536
+383059197,jCodeLife/mind-map,,143
+479059555,fullhunt/spring4shell-scan,Python,108
