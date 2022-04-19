@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,67
-246335987,ventoy/Ventoy,C,27
+2325298,torvalds/linux,C,57
+246335987,ventoy/Ventoy,C,23
 102578345,coolsnowwolf/lede,C,21
-6201092,mpv-player/mpv,C,14
+6201092,mpv-player/mpv,C,12
 66150122,jarun/nnn,C,9
-27737393,qmk/qmk_firmware,C,11
-41215835,HandBrake/HandBrake,C,11
+27737393,qmk/qmk_firmware,C,8
+41215835,HandBrake/HandBrake,C,14
 3299208,videolan/vlc,C,4
 254327261,sandboxie-plus/Sandboxie,C,9
 2997204,openwall/john,C,4
@@ -19,7 +19,7 @@ id,name,lang,new stars
 79160357,citizenfx/fivem,C,0
 22711802,wine-mirror/wine,C,2
 265237968,nining377/dolby_beta,C,1
-331380723,raspberrypi/pico-sdk,C,3
+331380723,raspberrypi/pico-sdk,C,4
 331381105,raspberrypi/pico-examples,C,2
 61964127,86Box/86Box,C,3
 360531511,Shopify/javy,C,9
