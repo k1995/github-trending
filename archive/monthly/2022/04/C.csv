@@ -1,13 +1,13 @@
 id,name,lang,new stars
-36502,git/git,C,463
-1614410,FFmpeg/FFmpeg,C,520
-36836475,tmux/tmux,C,376
+36502,git/git,C,464
+1614410,FFmpeg/FFmpeg,C,522
+36836475,tmux/tmux,C,377
 102578345,coolsnowwolf/lede,C,572
-20159867,nothings/stb,C,351
+20159867,nothings/stb,C,352
 196353673,taosdata/TDengine,C,211
-47409672,hashcat/hashcat,C,489
-45821540,openwrt/openwrt,C,331
-13836499,raysan5/raylib,C,424
+47409672,hashcat/hashcat,C,490
+45821540,openwrt/openwrt,C,332
+13836499,raysan5/raylib,C,421
 70127218,espressif/arduino-esp32,C,173
 7408108,RT-Thread/rt-thread,C,167
 5870069,edenhill/librdkafka,C,130
@@ -17,10 +17,10 @@ id,name,lang,new stars
 108110706,tporadowski/redis,C,238
 3681392,greatscottgadgets/hackrf,C,78
 327491895,peng-zhihui/HoloCubic,C,277
-23007417,colmap/colmap,C,122
+23007417,colmap/colmap,C,123
 2359378,madler/zlib,C,102
 27359183,guanzhi/GmSSL,C,81
 469303019,ehids/ecapture,C,2017
 198869255,google/AFL,C,99
-204459250,mit-pdos/xv6-riscv,C,137
-226167620,InfiniTimeOrg/InfiniTime,C,104
+204459250,mit-pdos/xv6-riscv,C,138
+226167620,InfiniTimeOrg/InfiniTime,C,105
