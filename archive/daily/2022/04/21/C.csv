@@ -1,7 +1,7 @@
 id,name,lang,new stars
-569041,curl/curl,C,13
+569041,curl/curl,C,15
 7634677,openssl/openssl,C,9
-184981,memcached/memcached,C,51
+184981,memcached/memcached,C,32
 613829,openresty/lua-nginx-module,C,4
 65899476,espressif/esp-idf,C,15
 39242894,coturn/coturn,C,3
@@ -12,15 +12,15 @@ id,name,lang,new stars
 5870069,edenhill/librdkafka,C,5
 214011414,kingToolbox/WindTerm,C,28
 23007417,colmap/colmap,C,6
-146397768,ithewei/libhv,C,12
+146397768,ithewei/libhv,C,11
 29933948,fluent/fluent-bit,C,6
 469303019,ehids/ecapture,C,23
 206121828,FreeRTOS/FreeRTOS,C,4
 3276860,ThrowTheSwitch/Unity,C,1
-2928164,NixOS/patchelf,C,4
-13352949,civetweb/civetweb,C,2
-39042157,spdk/spdk,C,2
+2928164,NixOS/patchelf,C,5
+13352949,civetweb/civetweb,C,4
+39042157,spdk/spdk,C,3
 172523426,xdp-project/xdp-tutorial,C,1
 152338895,libbpf/libbpf,C,7
 442041737,jimgraygit/Onion,C,5
-360531511,Shopify/javy,C,60
+360531511,Shopify/javy,C,46
