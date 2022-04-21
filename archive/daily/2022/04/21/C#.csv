@@ -1,19 +1,19 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,9
-70104825,dotnet-architecture/eShopOnContainers,C#,14
-69662720,mxgmn/WaveFunctionCollapse,C#,36
+70104825,dotnet-architecture/eShopOnContainers,C#,15
+69662720,mxgmn/WaveFunctionCollapse,C#,49
 29078997,dotnet/roslyn,C#,5
 1613345,DapperLib/Dapper,C#,10
 16157746,dotnet/efcore,C#,6
 3476845,JamesNK/Newtonsoft.Json,C#,3
-75990888,dotnet/csharplang,C#,7
-213460285,jasontaylordev/CleanArchitecture,C#,12
+75990888,dotnet/csharplang,C#,6
+213460285,jasontaylordev/CleanArchitecture,C#,13
 321682465,BeyondDimension/SteamTools,C#,14
-113807330,migueldeicaza/gui.cs,C#,6
-27251463,QuantConnect/Lean,C#,1
+113807330,migueldeicaza/gui.cs,C#,7
+27251463,QuantConnect/Lean,C#,5
 50605426,microsoft/MixedRealityToolkit-Unity,C#,1
 1208824,quartznet/quartznet,C#,4
-441460974,wmjordan/PDFPatcher,C#,15
+441460974,wmjordan/PDFPatcher,C#,14
 162222002,dotnetcore/FreeSql,C#,2
 85242321,dotnet/MQTTnet,C#,5
 129934884,dotnet/command-line-api,C#,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 116385203,Unity-Technologies/com.unity.netcode.gameobjects,C#,4
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,0
 320936145,Kareadita/Kavita,C#,7
-252171165,imchillin/Anamnesis,C#,41
+252171165,imchillin/Anamnesis,C#,39
 111510915,dotnet/dotnet-api-docs,C#,0
