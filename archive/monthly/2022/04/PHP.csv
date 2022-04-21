@@ -1,20 +1,20 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,949
-7548986,laravel/framework,PHP,289
+3482588,danielmiessler/SecLists,PHP,957
+7548986,laravel/framework,PHP,290
 458058,symfony/symfony,PHP,194
 60243197,nextcloud/server,PHP,306
 2889328,WordPress/WordPress,PHP,137
 2884111,magento/magento2,PHP,62
-11467667,typecho/typecho,PHP,239
-10238429,tennc/webshell,PHP,108
+11467667,typecho/typecho,PHP,240
+10238429,tennc/webshell,PHP,107
 21298446,firefly-iii/firefly-iii,PHP,203
 31295421,guzzle/psr7,PHP,48
-9791525,digininja/DVWA,PHP,97
-222873550,crater-invoice/crater,PHP,149
+9791525,digininja/DVWA,PHP,98
+222873550,crater-invoice/crater,PHP,150
 3817881,zircote/swagger-php,PHP,52
 60010673,elementor/elementor,PHP,63
 119047018,linuxserver/Heimdall,PHP,192
-62937181,PrivateBin/PrivateBin,PHP,116
+62937181,PrivateBin/PrivateBin,PHP,117
 4380514,Audi-1/sqli-labs,PHP,84
 31595609,mpdf/mpdf,PHP,75
 129852395,assimon/dujiaoka,PHP,137
@@ -22,5 +22,5 @@ id,name,lang,new stars
 58001483,laravel/valet,PHP,74
 142127816,zhuifengshaonianhanlu/pikachu,PHP,85
 138328462,freescout-helpdesk/freescout,PHP,44
-216849756,v2board/v2board,PHP,78
+216849756,v2board/v2board,PHP,79
 355522545,kalcaddle/kodbox,PHP,71
