@@ -1,9 +1,9 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,14
-481872,hashicorp/vagrant,Ruby,5
-538746,ruby/ruby,Ruby,9
+65252,jekyll/jekyll,Ruby,11
+481872,hashicorp/vagrant,Ruby,7
+538746,ruby/ruby,Ruby,4
 1090311,elastic/logstash,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,28
+202291859,chatwoot/chatwoot,Ruby,19
 4095287,rubocop/rubocop,Ruby,3
 1918677,fluent/fluentd,Ruby,1
 1333863,kaminari/kaminari,Ruby,2
@@ -11,16 +11,16 @@ id,name,lang,new stars
 810796,railsadminteam/rails_admin,Ruby,0
 6529205,varvet/pundit,Ruby,1
 108278,chef/chef,Ruby,0
-910744,puppetlabs/puppet,Ruby,3
+910744,puppetlabs/puppet,Ruby,4
 1145832,pry/pry,Ruby,0
 211588,paper-trail-gem/paper_trail,Ruby,4
-75785147,rails/webpacker,Ruby,2
-30985840,solidusio/solidus,Ruby,2
+75785147,rails/webpacker,Ruby,0
+30985840,solidusio/solidus,Ruby,4
 229006,mileszs/wicked_pdf,Ruby,0
 1172597,thoughtbot/shoulda-matchers,Ruby,1
-24666294,ankane/blazer,Ruby,21
-138776049,sorbet/sorbet,Ruby,3
-5144181,jnunemaker/flipper,Ruby,2
+24666294,ankane/blazer,Ruby,12
+138776049,sorbet/sorbet,Ruby,2
+5144181,jnunemaker/flipper,Ruby,1
 270054,ffi/ffi,Ruby,0
-3698608,moove-it/sidekiq-scheduler,Ruby,13
+3698608,moove-it/sidekiq-scheduler,Ruby,10
 49878403,zendesk/ruby-kafka,Ruby,0
