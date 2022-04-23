@@ -2,7 +2,7 @@ id,name,lang,new stars
 21540759,avelino/awesome-go,Go,67
 20904437,gin-gonic/gin,Go,72
 48378947,fatedier/frp,Go,66
-72495579,go-gitea/gitea,Go,29
+72495579,go-gitea/gitea,Go,23
 12574344,spf13/cobra,Go,27
 31504491,labstack/echo,Go,17
 118945118,antonmedv/fx,Go,134
@@ -16,7 +16,7 @@ id,name,lang,new stars
 434218673,zinclabs/zinc,Go,182
 40916314,dexidp/dex,Go,4
 33452903,RichardKnop/machinery,Go,8
-10166531,mitchellh/mapstructure,Go,11
+10166531,mitchellh/mapstructure,Go,10
 92969352,moby/buildkit,Go,10
 222824662,dagger/dagger,Go,56
 384451028,cloudwego/kitex,Go,15

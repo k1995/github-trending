@@ -1,6 +1,6 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,957
-1129010,blueimp/jQuery-File-Upload,PHP,41
+3482588,danielmiessler/SecLists,PHP,954
+1129010,blueimp/jQuery-File-Upload,PHP,42
 7548986,laravel/framework,PHP,286
 458058,symfony/symfony,PHP,192
 2889328,WordPress/WordPress,PHP,136
@@ -8,10 +8,10 @@ id,name,lang,new stars
 11467667,typecho/typecho,PHP,237
 10238429,tennc/webshell,PHP,107
 31295421,guzzle/psr7,PHP,48
-9791525,digininja/DVWA,PHP,101
+9791525,digininja/DVWA,PHP,102
 60010673,elementor/elementor,PHP,65
-62937181,PrivateBin/PrivateBin,PHP,118
-4380514,Audi-1/sqli-labs,PHP,86
+62937181,PrivateBin/PrivateBin,PHP,116
+4380514,Audi-1/sqli-labs,PHP,87
 8077402,MISP/MISP,PHP,83
 31595609,mpdf/mpdf,PHP,78
 69691727,pmmp/PocketMine-MP,PHP,79
@@ -20,6 +20,6 @@ id,name,lang,new stars
 66029201,rodber/chevereto-free,PHP,62
 58001483,laravel/valet,PHP,71
 142127816,zhuifengshaonianhanlu/pikachu,PHP,87
-216849756,v2board/v2board,PHP,75
+216849756,v2board/v2board,PHP,76
 355522545,kalcaddle/kodbox,PHP,73
 333209627,stripe-samples/accept-a-payment,PHP,20
