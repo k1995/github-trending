@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
-21600440,bayandin/awesome-awesomeness,Ruby,8
+8514,rails/rails,Ruby,11
+21600440,bayandin/awesome-awesomeness,Ruby,5
 481872,hashicorp/vagrant,Ruby,7
 1090311,elastic/logstash,Ruby,3
-202291859,chatwoot/chatwoot,Ruby,11
+202291859,chatwoot/chatwoot,Ruby,10
 4095287,rubocop/rubocop,Ruby,3
-3195124,mperham/sidekiq,Ruby,5
+3195124,mperham/sidekiq,Ruby,6
 96395,faker-ruby/faker,Ruby,0
 361310,teamcapybara/capybara,Ruby,0
-15435,Shopify/liquid,Ruby,5
+15435,Shopify/liquid,Ruby,2
 611921,activeadmin/activeadmin,Ruby,0
 1333863,kaminari/kaminari,Ruby,2
 2441517,puma/puma,Ruby,2
@@ -18,9 +18,9 @@ id,name,lang,new stars
 447184,rspec/rspec-rails,Ruby,0
 4523235,asciidoctor/asciidoctor,Ruby,1
 79352,mikel/mail,Ruby,0
-24666294,ankane/blazer,Ruby,3
-614070,rubygems/rubygems,Ruby,0
-93163073,dependabot/dependabot-core,Ruby,5
+24666294,ankane/blazer,Ruby,2
+614070,rubygems/rubygems,Ruby,1
+93163073,dependabot/dependabot-core,Ruby,4
 3698608,moove-it/sidekiq-scheduler,Ruby,3
-467296689,bullet-train-co/bullet_train,Ruby,2
-453820778,dewyze/vim-tada,Ruby,15
+467296689,bullet-train-co/bullet_train,Ruby,1
+453820778,dewyze/vim-tada,Ruby,10
