@@ -1,11 +1,11 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,60
-458058,symfony/symfony,PHP,42
+7548986,laravel/framework,PHP,62
+458058,symfony/symfony,PHP,43
 1376664,Seldaek/monolog,PHP,35
-60243197,nextcloud/server,PHP,60
+60243197,nextcloud/server,PHP,59
 15020102,walkor/workerman,PHP,28
 597887,doctrine/orm,PHP,22
-41589337,BookStackApp/BookStack,PHP,91
+41589337,BookStackApp/BookStack,PHP,88
 2179920,woocommerce/woocommerce,PHP,23
 21298446,firefly-iii/firefly-iii,PHP,71
 330275,twigphp/Twig,PHP,16
@@ -13,14 +13,14 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,19
 97311017,rectorphp/rector,PHP,27
 9826184,elastic/elasticsearch-php,PHP,13
-148129143,bagisto/bagisto,PHP,28
+148129143,bagisto/bagisto,PHP,27
 439861,moodle/moodle,PHP,14
 41463886,codeigniter4/CodeIgniter4,PHP,24
 8077402,MISP/MISP,PHP,42
-22751672,tecnickcom/TCPDF,PHP,14
-248372441,laravel-filament/filament,PHP,69
-141720301,dr5hn/countries-states-cities-database,PHP,39
+22751672,tecnickcom/TCPDF,PHP,15
+248372441,laravel-filament/filament,PHP,71
+141720301,dr5hn/countries-states-cities-database,PHP,38
 69691727,pmmp/PocketMine-MP,PHP,60
 13914116,librenms/librenms,PHP,20
-74026995,CodelyTV/php-ddd-example,PHP,22
-404921727,luolongfei/freenom,PHP,46
+74026995,CodelyTV/php-ddd-example,PHP,21
+404921727,luolongfei/freenom,PHP,47
