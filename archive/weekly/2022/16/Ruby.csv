@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,62
-27442967,fastlane/fastlane,Ruby,103
-53238813,Homebrew/brew,Ruby,116
-13840241,freeCodeCamp/devdocs,Ruby,219
-52281283,mastodon/mastodon,Ruby,101
-308770,heartcombo/devise,Ruby,30
+8514,rails/rails,Ruby,63
+65252,jekyll/jekyll,Ruby,62
+27442967,fastlane/fastlane,Ruby,94
+53238813,Homebrew/brew,Ruby,117
+13840241,freeCodeCamp/devdocs,Ruby,209
+308770,heartcombo/devise,Ruby,29
 538746,ruby/ruby,Ruby,56
 202291859,chatwoot/chatwoot,Ruby,91
 18486300,lewagon/setup,Ruby,214
@@ -12,15 +12,15 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,10
 1725199,github/linguist,Ruby,22
 15435,Shopify/liquid,Ruby,21
-1548802,activerecord-hackery/ransack,Ruby,7
+1333863,kaminari/kaminari,Ruby,8
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,39
 30985840,solidusio/solidus,Ruby,13
-103766152,github/explore,Ruby,18
+103766152,github/explore,Ruby,17
 5144181,jnunemaker/flipper,Ruby,18
 11426474,github/choosealicense.com,Ruby,22
 200302808,github/view_component,Ruby,7
+9500075,ytti/oxidized,Ruby,15
 8472417,Shopify/identity_cache,Ruby,4
-61203,Shopify/shopify_app,Ruby,4
 20208662,zendesk/samson,Ruby,2
-17228890,Shopify/shipit-engine,Ruby,3
 1795802,Shopify/money,Ruby,0
 212272090,CMSgov/price-transparency-guide,Ruby,1
