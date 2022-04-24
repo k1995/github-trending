@@ -1,26 +1,26 @@
 id,name,lang,new stars
 151834062,doocs/advanced-java,Java,51
-23357588,protocolbuffers/protobuf,C++,42
-71948498,localstack/localstack,Python,218
-243950408,Anduin2017/HowToCook,JavaScript,146
+23357588,protocolbuffers/protobuf,C++,23
+71948498,localstack/localstack,Python,199
+243950408,Anduin2017/HowToCook,JavaScript,165
 178991158,starship/starship,Rust,95
-11393110,urfave/cli,Go,71
-69662720,mxgmn/WaveFunctionCollapse,C#,81
+11393110,urfave/cli,Go,33
+69662720,mxgmn/WaveFunctionCollapse,C#,66
 299482335,withfig/autocomplete,TypeScript,96
-1062572,catchorg/Catch2,C++,40
-197153676,Chia-Network/chia-blockchain,Python,49
+1062572,catchorg/Catch2,C++,43
+197153676,Chia-Network/chia-blockchain,Python,26
 482152820,geekan/HowToLiveLonger,,926
 41609775,diesel-rs/diesel,Rust,43
-321960447,openai/CLIP,Jupyter Notebook,104
-479491550,bloomberg/memray,Python,452
+321960447,openai/CLIP,Jupyter Notebook,119
+479491550,bloomberg/memray,Python,442
 234033679,hehonghui/the-economist-ebooks,CSS,208
-384219990,warpdotdev/Warp,,373
+384219990,warpdotdev/Warp,,191
 417686747,VirgilClyne/iRingo,JavaScript,53
 83542585,wisdompeak/LeetCode,C++,39
-452327893,ClemensElflein/OpenMower,HTML,161
+452327893,ClemensElflein/OpenMower,HTML,150
 474472472,dair-ai/ML-Notebooks,,177
-453717720,AykutSarac/jsonvisio.com,TypeScript,378
-482520194,Grasscutters/Grasscutter,Java,475
+453717720,AykutSarac/jsonvisio.com,TypeScript,161
+482520194,Grasscutters/Grasscutter,Java,398
 430107674,Courseplay/Courseplay_FS22,Lua,8
 483817548,hakivvi/CVE-2022-29464,Python,41
 478502789,CodinGame/SpringChallenge2022,Java,10
