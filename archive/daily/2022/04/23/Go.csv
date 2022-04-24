@@ -2,8 +2,8 @@ id,name,lang,new stars
 20904437,gin-gonic/gin,Go,72
 138547797,FiloSottile/mkcert,Go,16
 61137153,evanw/esbuild,Go,7
-212613049,cli/cli,Go,31
-135516270,k3s-io/k3s,Go,8
+212613049,cli/cli,Go,39
+135516270,k3s-io/k3s,Go,10
 11393110,urfave/cli,Go,4
 27729907,grpc/grpc-go,Go,10
 46806184,helm/charts,Go,0
@@ -11,9 +11,9 @@ id,name,lang,new stars
 33352201,grpc-ecosystem/grpc-gateway,Go,12
 180687624,aquasecurity/trivy,Go,23
 48109239,cilium/cilium,Go,9
-36653430,hashicorp/nomad,Go,6
+36653430,hashicorp/nomad,Go,7
 66156850,TheAlgorithms/Go,Go,38
-77726177,trufflesecurity/trufflehog,Go,33
+77726177,trufflesecurity/trufflehog,Go,17
 159540440,google/wire,Go,14
 434218673,zinclabs/zinc,Go,65
 33452903,RichardKnop/machinery,Go,8

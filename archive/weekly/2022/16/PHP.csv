@@ -1,12 +1,12 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,46
+458058,symfony/symfony,PHP,45
 1376664,Seldaek/monolog,PHP,34
-60243197,nextcloud/server,PHP,62
+60243197,nextcloud/server,PHP,60
 448045,sebastianbergmann/phpunit,PHP,31
 15020102,walkor/workerman,PHP,27
-597887,doctrine/orm,PHP,25
+597887,doctrine/orm,PHP,24
 41589337,BookStackApp/BookStack,PHP,88
-2179920,woocommerce/woocommerce,PHP,24
+2179920,woocommerce/woocommerce,PHP,23
 21298446,firefly-iii/firefly-iii,PHP,63
 330275,twigphp/Twig,PHP,16
 42261096,fuzzdb-project/fuzzdb,PHP,63
@@ -14,9 +14,9 @@ id,name,lang,new stars
 148129143,bagisto/bagisto,PHP,28
 10855394,itsgoingd/clockwork,PHP,31
 439861,moodle/moodle,PHP,14
-62937181,PrivateBin/PrivateBin,PHP,28
-8077402,MISP/MISP,PHP,40
-248372441,laravel-filament/filament,PHP,67
+62937181,PrivateBin/PrivateBin,PHP,26
+8077402,MISP/MISP,PHP,41
+248372441,laravel-filament/filament,PHP,66
 141720301,dr5hn/countries-states-cities-database,PHP,39
 69691727,pmmp/PocketMine-MP,PHP,59
 74026995,CodelyTV/php-ddd-example,PHP,23
