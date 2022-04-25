@@ -1,15 +1,15 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,8
-7569578,discourse/discourse,Ruby,7
-52281283,mastodon/mastodon,Ruby,9
-2293158,rapid7/metasploit-framework,Ruby,11
+7569578,discourse/discourse,Ruby,5
+52281283,mastodon/mastodon,Ruby,33
+2293158,rapid7/metasploit-framework,Ruby,13
 481872,hashicorp/vagrant,Ruby,4
 3623050,Homebrew/homebrew-cask,Ruby,7
-18486300,lewagon/setup,Ruby,41
-202291859,chatwoot/chatwoot,Ruby,10
+18486300,lewagon/setup,Ruby,46
+202291859,chatwoot/chatwoot,Ruby,12
 4095287,rubocop/rubocop,Ruby,1
-52855516,Homebrew/homebrew-core,Ruby,5
-96395,faker-ruby/faker,Ruby,3
+52855516,Homebrew/homebrew-core,Ruby,4
+96395,faker-ruby/faker,Ruby,2
 910744,puppetlabs/puppet,Ruby,4
 43347873,danger/danger,Ruby,3
 103766152,github/explore,Ruby,5
@@ -18,9 +18,9 @@ id,name,lang,new stars
 8154497,rubysec/ruby-advisory-db,Ruby,0
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
 243031226,michaeleisel/homebrew-zld,Ruby,0
-484658749,dsh0416/iptv-utils,Ruby,0
+484658749,dsh0416/iptv-utils,Ruby,1
 364373674,learn-co-curriculum/phase-4-rails-route-params-lab,Ruby,0
 364373717,learn-co-curriculum/phase-4-rails-route-params-readme,Ruby,0
-364373944,learn-co-curriculum/phase-4-rails-routing-basics-readme,Ruby,0
 347103288,learn-co-curriculum/phase-3-debugging-with-pry,Ruby,0
+364373944,learn-co-curriculum/phase-4-rails-routing-basics-readme,Ruby,0
 364373895,learn-co-curriculum/phase-4-rails-routing-basics-lab,Ruby,0
