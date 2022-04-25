@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,19
+3482588,danielmiessler/SecLists,PHP,21
 458058,symfony/symfony,PHP,3
 1420053,guzzle/guzzle,PHP,2
 60243197,nextcloud/server,PHP,7
@@ -8,17 +8,17 @@ id,name,lang,new stars
 1548202,matomo-org/matomo,PHP,4
 47495360,koel/koel,PHP,7
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
-622166,FriendsOfPHP/Goutte,PHP,4
+622166,FriendsOfPHP/Goutte,PHP,2
 5508585,YOURLS/YOURLS,PHP,9
 21298446,firefly-iii/firefly-iii,PHP,12
 1398634,symfony/css-selector,PHP,0
 9193949,wallabag/wallabag,PHP,2
 97311017,rectorphp/rector,PHP,6
-11935508,RSS-Bridge/rss-bridge,PHP,8
+11935508,RSS-Bridge/rss-bridge,PHP,9
 119047018,linuxserver/Heimdall,PHP,8
 18842338,facebookarchive/php-graph-sdk,PHP,0
 69691727,pmmp/PocketMine-MP,PHP,2
-13914116,librenms/librenms,PHP,3
+13914116,librenms/librenms,PHP,4
 216849756,v2board/v2board,PHP,4
 195836215,magicblack/maccms10,PHP,1
 404921727,luolongfei/freenom,PHP,4

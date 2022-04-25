@@ -1,16 +1,16 @@
 id,name,lang,new stars
-23096959,golang/go,Go,391
+23096959,golang/go,Go,388
 21540759,avelino/awesome-go,Go,574
-20904437,gin-gonic/gin,Go,492
+20904437,gin-gonic/gin,Go,490
 48378947,fatedier/frp,Go,339
-14712850,syncthing/syncthing,Go,164
+14712850,syncthing/syncthing,Go,162
 29207621,caddyserver/caddy,Go,417
 37448451,mattermost/mattermost-server,Go,232
 31504491,labstack/echo,Go,117
 234231371,gofiber/fiber,Go,163
 66573241,hyperledger/fabric,Go,52
-33352201,grpc-ecosystem/grpc-gateway,Go,87
-205679232,flipped-aurora/gin-vue-admin,Go,150
+33352201,grpc-ecosystem/grpc-gateway,Go,86
+205679232,flipped-aurora/gin-vue-admin,Go,146
 31558937,gravitational/teleport,Go,96
 100982449,argoproj/argo-workflows,Go,63
 62921553,rook/rook,Go,42
@@ -21,6 +21,6 @@ id,name,lang,new stars
 201546443,trustwallet/assets,Go,266
 166304026,BishopFox/sliver,Go,25
 257434373,HyNetwork/hysteria,Go,223
-395943715,Azure/aztfy,Go,107
+395943715,Azure/aztfy,Go,92
 480189587,zc2638/ddshop,Go,144
 481051865,robGoods/sams,Go,215
