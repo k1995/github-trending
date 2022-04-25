@@ -1,19 +1,19 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,960
+3482588,danielmiessler/SecLists,PHP,962
 7548986,laravel/framework,PHP,292
-458058,symfony/symfony,PHP,191
+458058,symfony/symfony,PHP,192
 2889328,WordPress/WordPress,PHP,133
 2884111,magento/magento2,PHP,59
-11467667,typecho/typecho,PHP,231
+11467667,typecho/typecho,PHP,230
 10238429,tennc/webshell,PHP,113
-9791525,digininja/DVWA,PHP,102
+9791525,digininja/DVWA,PHP,104
 62937181,PrivateBin/PrivateBin,PHP,114
-4380514,Audi-1/sqli-labs,PHP,85
+4380514,Audi-1/sqli-labs,PHP,84
 8077402,MISP/MISP,PHP,86
 31595609,mpdf/mpdf,PHP,82
 69691727,pmmp/PocketMine-MP,PHP,81
-286645686,yuantuo666/baiduwp-php,PHP,109
-129852395,assimon/dujiaoka,PHP,139
+286645686,yuantuo666/baiduwp-php,PHP,110
+129852395,assimon/dujiaoka,PHP,141
 66029201,rodber/chevereto-free,PHP,63
 58001483,laravel/valet,PHP,70
 74026995,CodelyTV/php-ddd-example,PHP,61
@@ -21,5 +21,5 @@ id,name,lang,new stars
 216849756,v2board/v2board,PHP,82
 312596796,BadApple9/speedtest-x,PHP,68
 36526302,pentestmonkey/php-reverse-shell,PHP,44
-404921727,luolongfei/freenom,PHP,164
+404921727,luolongfei/freenom,PHP,169
 333209627,stripe-samples/accept-a-payment,PHP,21
