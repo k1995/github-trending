@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
-65252,jekyll/jekyll,Ruby,8
-53238813,Homebrew/brew,Ruby,24
-2293158,rapid7/metasploit-framework,Ruby,9
-308770,heartcombo/devise,Ruby,2
-3623050,Homebrew/homebrew-cask,Ruby,10
-202291859,chatwoot/chatwoot,Ruby,10
+8514,rails/rails,Ruby,7
+65252,jekyll/jekyll,Ruby,10
+53238813,Homebrew/brew,Ruby,23
+2293158,rapid7/metasploit-framework,Ruby,11
+308770,heartcombo/devise,Ruby,1
+3623050,Homebrew/homebrew-cask,Ruby,9
+202291859,chatwoot/chatwoot,Ruby,8
 4095287,rubocop/rubocop,Ruby,3
 1725199,github/linguist,Ruby,2
 2441517,puma/puma,Ruby,1
@@ -16,7 +16,7 @@ id,name,lang,new stars
 1952825,Homebrew/homebrew-bundle,Ruby,0
 103766152,github/explore,Ruby,3
 9500075,ytti/oxidized,Ruby,2
-502760,danbooru/danbooru,Ruby,5
+502760,danbooru/danbooru,Ruby,4
 8154497,rubysec/ruby-advisory-db,Ruby,0
 79951574,Homebrew/homebrew-cask-drivers,Ruby,0
 616448,mustache/spec,Ruby,2
