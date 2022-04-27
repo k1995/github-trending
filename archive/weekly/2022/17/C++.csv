@@ -1,10 +1,10 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,318
+100060912,microsoft/terminal,C++,313
 23357588,protocolbuffers/protobuf,C++,314
 22067521,ocornut/imgui,C++,268
-27729880,grpc/grpc,C++,95
-11171548,nlohmann/json,C++,153
-60246359,ClickHouse/ClickHouse,C++,152
+27729880,grpc/grpc,C++,99
+11171548,nlohmann/json,C++,154
+60246359,ClickHouse/ClickHouse,C++,153
 125098880,ValveSoftware/Proton,C++,119
 1062572,catchorg/Catch2,C++,112
 27500243,google/libphonenumber,C++,185
@@ -14,13 +14,13 @@ id,name,lang,new stars
 86897963,ZLMediaKit/ZLMediaKit,C++,66
 83542585,wisdompeak/LeetCode,C++,369
 87443396,Haivision/srt,C++,22
-130312164,CytopiaTeam/Cytopia,C++,100
-439448087,PolyMC/PolyMC,C++,101
-382912430,hexops/mach,C++,68
-330097131,maHidaka/ros_face,C++,153
-455922808,probonopd/MiniDexed,C++,126
+130312164,CytopiaTeam/Cytopia,C++,94
+439448087,PolyMC/PolyMC,C++,102
+382912430,hexops/mach,C++,48
+330097131,maHidaka/ros_face,C++,143
+455922808,probonopd/MiniDexed,C++,123
 480221480,TheCherno/Walnut,C++,48
-399752957,XaFF-XaFF/Cronos-Rootkit,C++,164
+399752957,XaFF-XaFF/Cronos-Rootkit,C++,165
 464119098,CallowBlack/genshin-cheat,C++,78
 446587510,eidosmontreal/unreal-vdb,C++,33
 459693490,ClemensElflein/open_mower_ros,C++,61
