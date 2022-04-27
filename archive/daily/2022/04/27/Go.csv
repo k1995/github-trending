@@ -1,0 +1,26 @@
+id,name,lang,new stars
+29207621,caddyserver/caddy,Go,146
+29261473,minio/minio,Go,48
+12574344,spf13/cobra,Go,24
+43723161,helm/helm,Go,9
+11393110,urfave/cli,Go,35
+52034309,uber-go/zap,Go,15
+8966356,hashicorp/packer,Go,3
+31558937,gravitational/teleport,Go,6
+118105436,golang-migrate/migrate,Go,9
+77726177,trufflesecurity/trufflehog,Go,34
+237523442,tailscale/tailscale,Go,19
+246903803,earthly/earthly,Go,17
+120650407,operator-framework/operator-sdk,Go,2
+81497153,kubernetes-sigs/external-dns,Go,5
+134539560,weaveworks/eksctl,Go,4
+276822250,oam-dev/kubevela,Go,10
+111455867,smartcontractkit/chainlink,Go,8
+107555654,vmware-tanzu/kubeapps,Go,8
+19608522,googleapis/google-cloud-go,Go,2
+83623770,databus23/helm-diff,Go,6
+440220648,Mikaelemmmm/go-zero-looklook,Go,18
+347554518,XrayR-project/XrayR,Go,13
+313628863,external-secrets/external-secrets,Go,10
+341813963,unionj-cloud/go-doudou,Go,22
+483689504,hakluke/hakip2host,Go,17
