@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,45
-44838949,apple/swift,C++,17
-65600975,pytorch/pytorch,C++,20
-39840932,google/googletest,C++,13
-4524181,facebook/folly,C++,13
+1181927,bitcoin/bitcoin,C++,37
+44838949,apple/swift,C++,20
+65600975,pytorch/pytorch,C++,21
+39840932,google/googletest,C++,14
+4524181,facebook/folly,C++,14
 26038648,gabime/spdlog,C++,14
 14981376,dogecoin/dogecoin,C++,6
-143455116,google/filament,C++,9
-102692863,onnx/onnx,C++,9
+143455116,google/filament,C++,10
+102692863,onnx/onnx,C++,8
 1605598,bulletphysics/bullet3,C++,6
 283410102,sogou/workflow,C++,18
 23086893,google/re2,C++,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 1690480,qgis/QGIS,C++,8
 99302204,wangyu-/udp2raw,C++,8
 244694174,project-chip/connectedhomeip,C++,8
-81634683,Oneflow-Inc/oneflow,C++,30
+81634683,Oneflow-Inc/oneflow,C++,29
 153097643,openvinotoolkit/openvino,C++,6
-83542585,wisdompeak/LeetCode,C++,19
+83542585,wisdompeak/LeetCode,C++,41
 58414589,oneapi-src/oneDNN,C++,0
-48289924,me-no-dev/ESPAsyncWebServer,C++,2
+48289924,me-no-dev/ESPAsyncWebServer,C++,1
 131630299,onnx/onnx-tensorrt,C++,2
-108592307,eclipse/sumo,C++,6
+108592307,eclipse/sumo,C++,5

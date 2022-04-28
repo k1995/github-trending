@@ -1,0 +1,25 @@
+id,name,lang,new stars
+6838921,prometheus/prometheus,Go,29
+29207621,caddyserver/caddy,Go,132
+29261473,minio/minio,Go,30
+163883279,nektos/act,Go,52
+43723161,helm/helm,Go,13
+11393110,urfave/cli,Go,62
+6051812,gorilla/mux,Go,14
+167596393,derailed/k9s,Go,10
+56342508,jaegertracing/jaeger,Go,11
+119419195,GoogleContainerTools/kaniko,Go,9
+208728772,milvus-io/milvus,Go,11
+120896210,argoproj/argo-cd,Go,13
+184490584,GoogleCloudPlatform/terraformer,Go,15
+93444615,hashicorp/terraform-provider-aws,Go,5
+7039626,olivere/elastic,Go,3
+11452538,prometheus/alertmanager,Go,5
+19608522,googleapis/google-cloud-go,Go,5
+39468142,klauspost/compress,Go,32
+83363132,CrunchyData/postgres-operator,Go,30
+83623770,databus23/helm-diff,Go,3
+440220648,Mikaelemmmm/go-zero-looklook,Go,12
+411212454,tharsis/evmos,Go,7
+196414933,open-telemetry/opentelemetry-collector-contrib,Go,18
+481937257,firefart/stunner,Go,29
