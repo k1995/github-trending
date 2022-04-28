@@ -1,18 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,264
+8514,rails/rails,Ruby,266
 65252,jekyll/jekyll,Ruby,262
 27442967,fastlane/fastlane,Ruby,562
-53238813,Homebrew/brew,Ruby,480
-13840241,freeCodeCamp/devdocs,Ruby,518
+53238813,Homebrew/brew,Ruby,479
+13840241,freeCodeCamp/devdocs,Ruby,519
 52281283,mastodon/mastodon,Ruby,1208
 2293158,rapid7/metasploit-framework,Ruby,385
-37382858,kilimchoi/engineering-blogs,Ruby,217
+2500088,gitlabhq/gitlabhq,Ruby,50
+37382858,kilimchoi/engineering-blogs,Ruby,218
 538746,ruby/ruby,Ruby,143
 18486300,lewagon/setup,Ruby,715
 202291859,chatwoot/chatwoot,Ruby,276
-88740103,postalserver/postal,Ruby,120
-15435,Shopify/liquid,Ruby,83
-22059578,ankane/pghero,Ruby,64
+22059578,ankane/pghero,Ruby,63
 138776049,sorbet/sorbet,Ruby,87
 103766152,github/explore,Ruby,90
 11426474,github/choosealicense.com,Ruby,65
@@ -24,3 +23,4 @@ id,name,lang,new stars
 55288882,d12frosted/homebrew-emacs-plus,Ruby,57
 66497320,DataDog/dd-trace-rb,Ruby,8
 212272090,CMSgov/price-transparency-guide,Ruby,12
+375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,5
