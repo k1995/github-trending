@@ -1,14 +1,14 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,71
+65252,jekyll/jekyll,Ruby,72
 7569578,discourse/discourse,Ruby,61
-27442967,fastlane/fastlane,Ruby,55
-52281283,mastodon/mastodon,Ruby,642
-538746,ruby/ruby,Ruby,28
+27442967,fastlane/fastlane,Ruby,60
+52281283,mastodon/mastodon,Ruby,666
+538746,ruby/ruby,Ruby,27
 1090311,elastic/logstash,Ruby,19
 202291859,chatwoot/chatwoot,Ruby,90
 4095287,rubocop/rubocop,Ruby,16
-1918677,fluent/fluentd,Ruby,23
-1725199,github/linguist,Ruby,22
+1918677,fluent/fluentd,Ruby,22
+1725199,github/linguist,Ruby,21
 15435,Shopify/liquid,Ruby,26
 1333863,kaminari/kaminari,Ruby,10
 1548802,activerecord-hackery/ransack,Ruby,8
@@ -19,7 +19,7 @@ id,name,lang,new stars
 3277842,googleapis/google-api-ruby-client,Ruby,2
 200302808,github/view_component,Ruby,15
 9500075,ytti/oxidized,Ruby,16
-8472417,Shopify/identity_cache,Ruby,3
+8472417,Shopify/identity_cache,Ruby,2
 502760,danbooru/danbooru,Ruby,14
 49878403,zendesk/ruby-kafka,Ruby,1
 212272090,CMSgov/price-transparency-guide,Ruby,0

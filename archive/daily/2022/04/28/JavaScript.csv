@@ -1,12 +1,12 @@
 id,name,lang,new stars
-6498492,airbnb/javascript,JavaScript,41
-23088740,axios/axios,JavaScript,73
+6498492,airbnb/javascript,JavaScript,46
+23088740,axios/axios,JavaScript,77
 167174,jquery/jquery,JavaScript,6
 6988020,SheetJS/sheetjs,JavaScript,17
-97249406,denysdovhan/wtfjs,JavaScript,19
-402046,parallax/jsPDF,JavaScript,11
-61715431,Binaryify/NeteaseCloudMusicApi,JavaScript,25
-181807583,haizlin/fe-interview,JavaScript,18
+97249406,denysdovhan/wtfjs,JavaScript,18
+402046,parallax/jsPDF,JavaScript,17
+61715431,Binaryify/NeteaseCloudMusicApi,JavaScript,31
+181807583,haizlin/fe-interview,JavaScript,21
 382496361,louislam/uptime-kuma,JavaScript,51
 92570536,emotion-js/emotion,JavaScript,11
 190729906,Budibase/budibase,JavaScript,21
@@ -15,7 +15,7 @@ id,name,lang,new stars
 61204547,wix/Detox,JavaScript,7
 94811188,r-spacex/SpaceX-API,JavaScript,11
 27786663,exceljs/exceljs,JavaScript,10
-171072967,pedroslopez/whatsapp-web.js,JavaScript,55
+171072967,pedroslopez/whatsapp-web.js,JavaScript,56
 200966984,cteamx/Thief,JavaScript,13
 260907244,yogeshojha/rengine,JavaScript,23
 47250070,panva/node-oidc-provider,JavaScript,6
@@ -23,4 +23,4 @@ id,name,lang,new stars
 437441663,alainbryden/bitburner-scripts,JavaScript,0
 483436350,Grasscutters/GrassClipper,JavaScript,9
 479832166,ektogamat/threejs-andy-bolierplate,JavaScript,29
-480096951,adrianhajdin/ecommerce_sanity_stripe,JavaScript,38
+480096951,adrianhajdin/ecommerce_sanity_stripe,JavaScript,30
