@@ -1,6 +1,6 @@
 id,name,lang,new stars
-7691631,moby/moby,Go,37
-29207621,caddyserver/caddy,Go,49
+7691631,moby/moby,Go,20
+29207621,caddyserver/caddy,Go,46
 43723161,helm/helm,Go,8
 13628513,sirupsen/logrus,Go,10
 6051812,gorilla/mux,Go,11
@@ -8,7 +8,7 @@ id,name,lang,new stars
 36071697,ory/hydra,Go,5
 180687624,aquasecurity/trivy,Go,13
 208728772,milvus-io/milvus,Go,16
-233130089,charmbracelet/bubbletea,Go,133
+233130089,charmbracelet/bubbletea,Go,151
 54378638,github/gh-ost,Go,15
 121086193,99designs/gqlgen,Go,6
 184490584,GoogleCloudPlatform/terraformer,Go,18
