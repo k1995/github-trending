@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,37
+29207621,caddyserver/caddy,Go,49
+43723161,helm/helm,Go,8
+13628513,sirupsen/logrus,Go,10
+6051812,gorilla/mux,Go,11
+11008207,vitessio/vitess,Go,5
+36071697,ory/hydra,Go,5
+180687624,aquasecurity/trivy,Go,13
+208728772,milvus-io/milvus,Go,16
+233130089,charmbracelet/bubbletea,Go,133
+54378638,github/gh-ost,Go,15
+121086193,99designs/gqlgen,Go,6
+184490584,GoogleCloudPlatform/terraformer,Go,18
+146641150,tektoncd/pipeline,Go,4
+41561105,go-resty/resty,Go,9
+170411418,kedacore/keda,Go,50
+139727567,stakater/Reloader,Go,13
+39468142,klauspost/compress,Go,30
+136314388,phachon/mm-wiki,Go,28
+124157517,kubernetes-sigs/cluster-api,Go,1
+238797860,ethereum-optimism/optimism,Go,7
+313628863,external-secrets/external-secrets,Go,6
+196414933,open-telemetry/opentelemetry-collector-contrib,Go,1
+481648663,sari3l/sams_helper,Go,7
+482560316,ahutsunshine/dingdong-grabber,Go,9

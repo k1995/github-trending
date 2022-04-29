@@ -1,13 +1,13 @@
 id,name,lang,new stars
-20300177,google/guava,Java,12
+20300177,google/guava,Java,13
 7587038,alibaba/canal,Java,13
-137451403,alibaba/nacos,Java,15
+137451403,alibaba/nacos,Java,14
 15823460,redisson/redisson,Java,9
 20587599,apache/flink,Java,11
 49876476,apache/shardingsphere,Java,4
-149001365,doocs/leetcode,Java,29
-23418517,apache/hadoop,Java,6
-133134007,OpenAPITools/openapi-generator,Java,3
+149001365,doocs/leetcode,Java,30
+23418517,apache/hadoop,Java,9
+133134007,OpenAPITools/openapi-generator,Java,4
 221862,projectlombok/lombok,Java,9
 117965972,alibaba/DataX,Java,14
 62117812,apache/pulsar,Java,6
@@ -18,9 +18,9 @@ id,name,lang,new stars
 66023605,awsdocs/aws-doc-sdk-examples,Java,16
 334274271,opensearch-project/OpenSearch,Java,23
 206905065,macrozheng/springcloud-learning,Java,2
-27911088,apache/nifi,Java,2
+27911088,apache/nifi,Java,4
 206483,apache/maven,Java,4
 212488700,pytorch/serve,Java,0
 198368711,apache/incubator-linkis,Java,0
-283325,qos-ch/logback,Java,3
+283325,qos-ch/logback,Java,5
 312830970,648540858/wvp-GB28181-pro,Java,6
