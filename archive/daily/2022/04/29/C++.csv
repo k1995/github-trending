@@ -3,7 +3,7 @@ id,name,lang,new stars
 65600975,pytorch/pytorch,C++,26
 11171548,nlohmann/json,C++,25
 39840932,google/googletest,C++,10
-16587283,dmlc/xgboost,C++,6
+16587283,dmlc/xgboost,C++,5
 196813750,Light-City/CPlusPlusThings,C++,69
 65214191,envoyproxy/envoy,C++,8
 197275130,microsoft/winget-cli,C++,6
@@ -14,7 +14,7 @@ id,name,lang,new stars
 184657328,NVIDIA/TensorRT,C++,9
 99919302,apache/incubator-doris,C++,7
 143131,danmar/cppcheck,C++,2
-309512982,redpanda-data/redpanda,C++,33
+309512982,redpanda-data/redpanda,C++,35
 46072655,LordNoteworthy/al-khaser,C++,10
 244694174,project-chip/connectedhomeip,C++,5
 81634683,Oneflow-Inc/oneflow,C++,15
