@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,260
-65252,jekyll/jekyll,Ruby,249
-27442967,fastlane/fastlane,Ruby,563
-53238813,Homebrew/brew,Ruby,475
-52281283,mastodon/mastodon,Ruby,1611
-13840241,freeCodeCamp/devdocs,Ruby,512
-2293158,rapid7/metasploit-framework,Ruby,394
+65252,jekyll/jekyll,Ruby,247
+27442967,fastlane/fastlane,Ruby,562
+53238813,Homebrew/brew,Ruby,477
+52281283,mastodon/mastodon,Ruby,1668
+13840241,freeCodeCamp/devdocs,Ruby,513
+2293158,rapid7/metasploit-framework,Ruby,396
 481872,hashicorp/vagrant,Ruby,180
-2500088,gitlabhq/gitlabhq,Ruby,53
+2500088,gitlabhq/gitlabhq,Ruby,52
 37382858,kilimchoi/engineering-blogs,Ruby,226
 538746,ruby/ruby,Ruby,143
 73648678,forem/forem,Ruby,184
@@ -21,6 +21,6 @@ id,name,lang,new stars
 10088951,TheOdinProject/theodinproject,Ruby,65
 12357002,ondrejbartas/sidekiq-cron,Ruby,39
 55288882,d12frosted/homebrew-emacs-plus,Ruby,57
-419827947,joemasilotti/railsdevs.com,Ruby,43
+419827947,joemasilotti/railsdevs.com,Ruby,45
 66497320,DataDog/dd-trace-rb,Ruby,8
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,6
