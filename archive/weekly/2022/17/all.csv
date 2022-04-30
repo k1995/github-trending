@@ -1,26 +1,26 @@
 id,name,lang,new stars
-23088740,axios/axios,JavaScript,381
+23088740,axios/axios,JavaScript,386
 151834062,doocs/advanced-java,Java,595
 48378947,fatedier/frp,Go,343
-220809393,Textualize/rich,Python,393
-146633589,alibaba/arthas,Java,130
-52281283,mastodon/mastodon,Ruby,998
+220809393,Textualize/rich,Python,387
+146633589,alibaba/arthas,Java,131
+52281283,mastodon/mastodon,Ruby,983
 212639071,bregman-arie/devops-exercises,Python,1089
-69662720,mxgmn/WaveFunctionCollapse,C#,395
+69662720,mxgmn/WaveFunctionCollapse,C#,393
 482152820,geekan/HowToLiveLonger,,4338
 47409672,hashcat/hashcat,C,1415
-313330998,bradtraversy/50projects50days,CSS,499
-479924503,The-Run-Philosophy-Organization/run,,3061
-221723816,WZMIAOMIAO/deep-learning-for-image-processing,Python,268
-234033679,hehonghui/the-economist-ebooks,CSS,2211
-479491550,bloomberg/memray,Python,1589
-348822769,nuxt/framework,TypeScript,935
-453717720,AykutSarac/jsonvisio.com,TypeScript,1815
-136401408,terraform-aws-modules/terraform-aws-eks,HCL,49
-482520194,Grasscutters/Grasscutter,Java,2281
-284134871,flipperdevices/flipperzero-firmware,C,61
-365367120,sunflower-land/sunflower-land,TypeScript,139
-463337778,alembics/disco-diffusion,Jupyter Notebook,374
-474228289,KeenSecurityLab/BinAbsInspector,Java,200
-461191708,FBlackBox/BlackBox,,273
-319466912,Dimbreath/GenshinData,,235
+479924503,The-Run-Philosophy-Organization/run,,3049
+313330998,bradtraversy/50projects50days,CSS,497
+221723816,WZMIAOMIAO/deep-learning-for-image-processing,Python,265
+234033679,hehonghui/the-economist-ebooks,CSS,2186
+479491550,bloomberg/memray,Python,1818
+348822769,nuxt/framework,TypeScript,932
+453717720,AykutSarac/jsonvisio.com,TypeScript,1816
+136401408,terraform-aws-modules/terraform-aws-eks,HCL,52
+482520194,Grasscutters/Grasscutter,Java,2278
+284134871,flipperdevices/flipperzero-firmware,C,60
+365367120,sunflower-land/sunflower-land,TypeScript,138
+463337778,alembics/disco-diffusion,Jupyter Notebook,376
+474228289,KeenSecurityLab/BinAbsInspector,Java,211
+461191708,FBlackBox/BlackBox,,280
+319466912,Dimbreath/GenshinData,,237
