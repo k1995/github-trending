@@ -1,11 +1,11 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,57
-53238813,Homebrew/brew,Ruby,118
-52281283,mastodon/mastodon,Ruby,1096
-2293158,rapid7/metasploit-framework,Ruby,95
-1090311,elastic/logstash,Ruby,17
+65252,jekyll/jekyll,Ruby,55
+53238813,Homebrew/brew,Ruby,119
+52281283,mastodon/mastodon,Ruby,1106
+2293158,rapid7/metasploit-framework,Ruby,94
+1090311,elastic/logstash,Ruby,18
 202291859,chatwoot/chatwoot,Ruby,56
-4095287,rubocop/rubocop,Ruby,15
+4095287,rubocop/rubocop,Ruby,14
 52855516,Homebrew/homebrew-core,Ruby,48
 1918677,fluent/fluentd,Ruby,24
 96395,faker-ruby/faker,Ruby,15
@@ -18,7 +18,7 @@ id,name,lang,new stars
 1548802,activerecord-hackery/ransack,Ruby,13
 52316423,luggit/react-native-config,Ruby,7
 229006,mileszs/wicked_pdf,Ruby,4
-103766152,github/explore,Ruby,19
+103766152,github/explore,Ruby,20
 11426474,github/choosealicense.com,Ruby,8
 200302808,github/view_component,Ruby,17
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,4
