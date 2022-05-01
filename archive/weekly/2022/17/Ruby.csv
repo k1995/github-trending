@@ -1,16 +1,16 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,59
-53238813,Homebrew/brew,Ruby,121
-52281283,mastodon/mastodon,Ruby,1075
+7569578,discourse/discourse,Ruby,56
+53238813,Homebrew/brew,Ruby,119
+52281283,mastodon/mastodon,Ruby,1079
 2293158,rapid7/metasploit-framework,Ruby,100
-3623050,Homebrew/homebrew-cask,Ruby,32
-1090311,elastic/logstash,Ruby,18
-202291859,chatwoot/chatwoot,Ruby,60
+3623050,Homebrew/homebrew-cask,Ruby,30
+1090311,elastic/logstash,Ruby,17
+202291859,chatwoot/chatwoot,Ruby,59
 4095287,rubocop/rubocop,Ruby,15
-52855516,Homebrew/homebrew-core,Ruby,51
+52855516,Homebrew/homebrew-core,Ruby,50
 1918677,fluent/fluentd,Ruby,24
 812393,ruby-grape/grape,Ruby,7
-6688319,DeathKing/Learning-SICP,Ruby,48
+6688319,DeathKing/Learning-SICP,Ruby,50
 1333863,kaminari/kaminari,Ruby,12
 21829,thoughtbot/factory_bot,Ruby,13
 2441517,puma/puma,Ruby,12
@@ -20,7 +20,7 @@ id,name,lang,new stars
 43347873,danger/danger,Ruby,14
 229006,mileszs/wicked_pdf,Ruby,4
 103766152,github/explore,Ruby,19
-11426474,github/choosealicense.com,Ruby,11
+11426474,github/choosealicense.com,Ruby,9
 200302808,github/view_component,Ruby,17
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,4
 95896046,stone-payments/ansible-winlogbeat,Ruby,0

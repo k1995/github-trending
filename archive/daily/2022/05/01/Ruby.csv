@@ -1,15 +1,15 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,5
-21600440,bayandin/awesome-awesomeness,Ruby,8
-52281283,mastodon/mastodon,Ruby,86
-13840241,freeCodeCamp/devdocs,Ruby,7
-481872,hashicorp/vagrant,Ruby,2
+27442967,fastlane/fastlane,Ruby,4
+21600440,bayandin/awesome-awesomeness,Ruby,7
+52281283,mastodon/mastodon,Ruby,78
+13840241,freeCodeCamp/devdocs,Ruby,10
+481872,hashicorp/vagrant,Ruby,1
 2500088,gitlabhq/gitlabhq,Ruby,0
 308770,heartcombo/devise,Ruby,3
-538746,ruby/ruby,Ruby,4
+538746,ruby/ruby,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,0
 3314,spree/spree,Ruby,1
-3195124,mperham/sidekiq,Ruby,2
+3195124,mperham/sidekiq,Ruby,4
 96395,faker-ruby/faker,Ruby,2
 1725199,github/linguist,Ruby,2
 47087,carrierwaveuploader/carrierwave,Ruby,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 18294,activemerchant/active_merchant,Ruby,0
 1314319,instructure/canvas-lms,Ruby,1
 1172597,thoughtbot/shoulda-matchers,Ruby,0
-9831101,elastic/elasticsearch-ruby,Ruby,0
+9831101,elastic/elasticsearch-ruby,Ruby,1
 34840276,elastic/ansible-elasticsearch,Ruby,0
 178828146,KrauseFx/FxLifeSheet,Ruby,28
