@@ -1,21 +1,22 @@
 id,name,lang,new stars
-15204860,papers-we-love/papers-we-love,Shell,327
-58028038,521xueweihan/HelloGitHub,Python,68
-49609581,PowerShell/PowerShell,C#,108
-136815833,Dreamacro/clash,Go,72
+15204860,papers-we-love/papers-we-love,Shell,372
+58028038,521xueweihan/HelloGitHub,Python,91
+49609581,PowerShell/PowerShell,C#,104
+136815833,Dreamacro/clash,Go,78
 20587599,apache/flink,Java,28
 959908,OpenRA/OpenRA,C#,147
-317029148,ml-tooling/best-of-ml-python,Python,422
+317029148,ml-tooling/best-of-ml-python,Python,402
 410749029,spacedriveapp/spacedrive,TypeScript,960
 170411418,kedacore/keda,Go,96
 39468142,klauspost/compress,Go,26
 301244405,ellie/atuin,Rust,89
 471960338,BoomingTech/Pilot,C++,54
-440909617,google/wireit,TypeScript,296
+440909617,google/wireit,TypeScript,272
 442071289,Wechat-ggGitHub/Awesome-GitHub-Repo,,65
 248812668,ddangelov/Top2Vec,Python,41
+486160485,BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset,Python,220
 453068084,singularity-data/risingwave,Rust,123
-464827989,jsonhero-io/jsonhero-web,TypeScript,347
+464827989,jsonhero-io/jsonhero-web,TypeScript,343
 188779637,streamxhub/streamx,Scala,66
 185841694,CoreWCF/CoreWCF,C#,33
 238797860,ethereum-optimism/optimism,Go,36
@@ -23,4 +24,3 @@ id,name,lang,new stars
 169170146,ganelson/inform,C,130
 460314453,Tencent/tmagic-editor,TypeScript,48
 477598926,why20021008/hand-write,Python,66
-486160485,BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset,Python,200
