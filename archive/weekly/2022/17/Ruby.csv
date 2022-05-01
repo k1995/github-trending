@@ -1,11 +1,11 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,58
-53238813,Homebrew/brew,Ruby,117
-52281283,mastodon/mastodon,Ruby,1000
+7569578,discourse/discourse,Ruby,59
+53238813,Homebrew/brew,Ruby,120
+52281283,mastodon/mastodon,Ruby,1070
 2293158,rapid7/metasploit-framework,Ruby,100
 3623050,Homebrew/homebrew-cask,Ruby,33
 1090311,elastic/logstash,Ruby,18
-202291859,chatwoot/chatwoot,Ruby,63
+202291859,chatwoot/chatwoot,Ruby,62
 4095287,rubocop/rubocop,Ruby,15
 52855516,Homebrew/homebrew-core,Ruby,51
 1918677,fluent/fluentd,Ruby,24
@@ -21,6 +21,6 @@ id,name,lang,new stars
 229006,mileszs/wicked_pdf,Ruby,4
 103766152,github/explore,Ruby,20
 11426474,github/choosealicense.com,Ruby,11
-200302808,github/view_component,Ruby,16
+200302808,github/view_component,Ruby,17
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,4
 95896046,stone-payments/ansible-winlogbeat,Ruby,0
