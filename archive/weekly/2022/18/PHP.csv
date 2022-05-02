@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,103
-7548986,laravel/framework,PHP,74
+1863329,laravel/laravel,PHP,102
+7548986,laravel/framework,PHP,75
 1420053,guzzle/guzzle,PHP,81
 60243197,nextcloud/server,PHP,80
 3431193,yiisoft/yii2,PHP,15
-47495360,koel/koel,PHP,61
+47495360,koel/koel,PHP,62
 2884111,magento/magento2,PHP,7
-15020102,walkor/workerman,PHP,24
+15020102,walkor/workerman,PHP,23
 11340559,deployphp/deployer,PHP,25
 622166,FriendsOfPHP/Goutte,PHP,13
 5508585,YOURLS/YOURLS,PHP,40
@@ -19,7 +19,7 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,8
 129829848,pixelfed/pixelfed,PHP,36
 47508644,pterodactyl/panel,PHP,55
-248372441,laravel-filament/filament,PHP,57
+248372441,laravel-filament/filament,PHP,56
 73781385,orchidsoftware/platform,PHP,22
 131995661,shopware/platform,PHP,8
 216849756,v2board/v2board,PHP,20
