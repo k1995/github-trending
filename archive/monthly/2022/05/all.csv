@@ -1,26 +1,24 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,9052
-15204860,papers-we-love/papers-we-love,Shell,5394
+15204860,papers-we-love/papers-we-love,Shell,5444
 145553672,fighting41love/funNLP,Python,2439
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,4276
-11171548,nlohmann/json,C++,718
-169677297,vlang/v,V,1030
-52281283,mastodon/mastodon,Ruby,1617
-3544424,httpie/httpie,Python,18562
-420459569,github/copilot-docs,Python,3416
-254832799,Z4nzu/hackingtool,Python,4689
-275993885,appsmithorg/appsmith,TypeScript,2934
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,4281
+11171548,nlohmann/json,C++,716
+169677297,vlang/v,V,1026
+3544424,httpie/httpie,Python,18581
+420459569,github/copilot-docs,Python,3397
+254832799,Z4nzu/hackingtool,Python,4601
+275993885,appsmithorg/appsmith,TypeScript,2980
 191051391,redwoodjs/redwood,TypeScript,1143
-323048702,OpenBB-finance/OpenBBTerminal,Python,1950
-299628763,Asabeneh/30-Days-Of-React,JavaScript,1176
-355959597,Textualize/textual,Python,1511
-268424739,helix-editor/helix,Rust,2173
-234033679,hehonghui/the-economist-ebooks,CSS,3431
-321960447,openai/CLIP,Jupyter Notebook,812
+323048702,OpenBB-finance/OpenBBTerminal,Python,1927
+299628763,Asabeneh/30-Days-Of-React,JavaScript,1175
+355959597,Textualize/textual,Python,1520
+268424739,helix-editor/helix,Rust,2163
+234033679,hehonghui/the-economist-ebooks,CSS,3432
+321960447,openai/CLIP,Jupyter Notebook,811
 217475193,PaddlePaddle/PaddleDetection,Python,832
-3757435,pytube/pytube,Python,797
-194269070,skyline-emu/skyline,C++,1708
+3757435,pytube/pytube,Python,798
+194269070,skyline-emu/skyline,C++,1712
 175405157,JanDeDobbeleer/oh-my-posh,Go,663
-462597790,aptos-labs/aptos-core,Rust,856
-365367120,sunflower-land/sunflower-land,TypeScript,296
-426700184,microsoft/dotnet-podcasts,C#,213
+462597790,aptos-labs/aptos-core,Rust,861
+365367120,sunflower-land/sunflower-land,TypeScript,297
+476793605,rdeepak2002/reddit-place-script-2022,Python,820
