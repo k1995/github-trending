@@ -1,19 +1,19 @@
 id,name,lang,new stars
-52281283,mastodon/mastodon,Ruby,888
+52281283,mastodon/mastodon,Ruby,862
 13840241,freeCodeCamp/devdocs,Ruby,64
-1090311,elastic/logstash,Ruby,16
+1090311,elastic/logstash,Ruby,14
 4095287,rubocop/rubocop,Ruby,14
 3195124,mperham/sidekiq,Ruby,19
 106995,sinatra/sinatra,Ruby,3
-52855516,Homebrew/homebrew-core,Ruby,37
+52855516,Homebrew/homebrew-core,Ruby,36
 1918677,fluent/fluentd,Ruby,14
 96395,faker-ruby/faker,Ruby,19
-1725199,github/linguist,Ruby,36
+1725199,github/linguist,Ruby,34
 812393,ruby-grape/grape,Ruby,7
-6688319,DeathKing/Learning-SICP,Ruby,37
+6688319,DeathKing/Learning-SICP,Ruby,35
 1333863,kaminari/kaminari,Ruby,10
 21829,thoughtbot/factory_bot,Ruby,13
-26018608,github-changelog-generator/github-changelog-generator,Ruby,17
+26018608,github-changelog-generator/github-changelog-generator,Ruby,15
 1548802,activerecord-hackery/ransack,Ruby,15
 417862,octokit/octokit.rb,Ruby,9
 229006,mileszs/wicked_pdf,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,13
 49878403,zendesk/ruby-kafka,Ruby,0
 231339,net-ssh/net-ssh,Ruby,1
-419827947,joemasilotti/railsdevs.com,Ruby,18
+419827947,joemasilotti/railsdevs.com,Ruby,17
 212272090,CMSgov/price-transparency-guide,Ruby,1
