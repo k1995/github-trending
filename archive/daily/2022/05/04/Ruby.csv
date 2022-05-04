@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
-481872,hashicorp/vagrant,Ruby,6
+8514,rails/rails,Ruby,9
+481872,hashicorp/vagrant,Ruby,5
 538746,ruby/ruby,Ruby,5
 73648678,forem/forem,Ruby,8
 2203645,CocoaPods/CocoaPods,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,6
+202291859,chatwoot/chatwoot,Ruby,4
 106995,sinatra/sinatra,Ruby,1
 96395,faker-ruby/faker,Ruby,3
 611921,activeadmin/activeadmin,Ruby,1
@@ -17,7 +17,7 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,1
 7050,prawnpdf/prawn,Ruby,0
 1462,ctran/annotate_models,Ruby,1
-115859973,ddnexus/pagy,Ruby,3
+115859973,ddnexus/pagy,Ruby,2
 10088951,TheOdinProject/theodinproject,Ruby,5
 1262785,pivotal/LicenseFinder,Ruby,2
 238983,rspec/rspec-mocks,Ruby,0
