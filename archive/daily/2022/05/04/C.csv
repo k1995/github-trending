@@ -1,15 +1,15 @@
 id,name,lang,new stars
-246335987,ventoy/Ventoy,C,80
+246335987,ventoy/Ventoy,C,70
 1357796,emscripten-core/emscripten,C,7
-102578345,coolsnowwolf/lede,C,26
+102578345,coolsnowwolf/lede,C,27
 11715753,robertdavidgraham/masscan,C,11
 15337142,micropython/micropython,C,3
-140656,jonas/tig,C,5
+140656,jonas/tig,C,2
 13836499,raysan5/raylib,C,7
-70127218,espressif/arduino-esp32,C,11
-105944401,yugabyte/yugabyte-db,C,3
-59771425,zephyrproject-rtos/zephyr,C,3
-40556106,wazuh/wazuh,C,5
+70127218,espressif/arduino-esp32,C,12
+105944401,yugabyte/yugabyte-db,C,4
+59771425,zephyrproject-rtos/zephyr,C,4
+40556106,wazuh/wazuh,C,6
 77920383,nesbox/TIC-80,C,4
 469303019,ehids/ecapture,C,24
 4434428,kokke/tiny-AES-c,C,3
@@ -17,10 +17,10 @@ id,name,lang,new stars
 204459250,mit-pdos/xv6-riscv,C,6
 71525630,mackron/miniaudio,C,1
 32148604,iNavFlight/inav,C,4
-19881421,joncampbell123/dosbox-x,C,4
-45734719,enjoy-digital/litex,C,3
+19881421,joncampbell123/dosbox-x,C,3
+45734719,enjoy-digital/litex,C,4
 1031235,strongswan/strongswan,C,2
 191266671,algorand/go-algorand,C,2
 270692521,zmkfirmware/zmk,C,1
-484046432,CN-annotation-team/redis7.0-chinese-annotated,C,15
+484046432,CN-annotation-team/redis7.0-chinese-annotated,C,14
 452171455,dnomd343/shadowsocks-bootstrap,C,9
