@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,53
-53238813,Homebrew/brew,Ruby,98
-52281283,mastodon/mastodon,Ruby,708
-13840241,freeCodeCamp/devdocs,Ruby,59
-1090311,elastic/logstash,Ruby,15
-3195124,mperham/sidekiq,Ruby,23
+53238813,Homebrew/brew,Ruby,95
+52281283,mastodon/mastodon,Ruby,691
+13840241,freeCodeCamp/devdocs,Ruby,58
+1090311,elastic/logstash,Ruby,14
+3195124,mperham/sidekiq,Ruby,24
 106995,sinatra/sinatra,Ruby,4
 96395,faker-ruby/faker,Ruby,19
-6688319,DeathKing/Learning-SICP,Ruby,26
+6688319,DeathKing/Learning-SICP,Ruby,27
 611921,activeadmin/activeadmin,Ruby,4
 1333863,kaminari/kaminari,Ruby,9
-21829,thoughtbot/factory_bot,Ruby,10
+21829,thoughtbot/factory_bot,Ruby,9
 26018608,github-changelog-generator/github-changelog-generator,Ruby,14
 1548802,activerecord-hackery/ransack,Ruby,14
 30985840,solidusio/solidus,Ruby,45
@@ -19,7 +19,7 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,14
 11426474,github/choosealicense.com,Ruby,12
 588600,brianmario/mysql2,Ruby,4
-10088951,TheOdinProject/theodinproject,Ruby,18
+10088951,TheOdinProject/theodinproject,Ruby,17
 9735707,stripe-ruby-mock/stripe-ruby-mock,Ruby,2
 419827947,joemasilotti/railsdevs.com,Ruby,17
 212272090,CMSgov/price-transparency-guide,Ruby,1
