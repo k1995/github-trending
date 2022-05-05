@@ -1,18 +1,18 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,917
+3482588,danielmiessler/SecLists,PHP,918
 458058,symfony/symfony,PHP,182
-60243197,nextcloud/server,PHP,296
+60243197,nextcloud/server,PHP,294
 2889328,WordPress/WordPress,PHP,145
 2884111,magento/magento2,PHP,55
 15020102,walkor/workerman,PHP,82
 597887,doctrine/orm,PHP,61
 10238429,tennc/webshell,PHP,123
-21298446,firefly-iii/firefly-iii,PHP,242
+21298446,firefly-iii/firefly-iii,PHP,241
 42261096,fuzzdb-project/fuzzdb,PHP,133
-16685462,humhub/humhub,PHP,78
+16685462,humhub/humhub,PHP,85
 12204147,mautic/mautic,PHP,80
 6322699,FreshRSS/FreshRSS,PHP,113
-41463886,codeigniter4/CodeIgniter4,PHP,61
+41463886,codeigniter4/CodeIgniter4,PHP,62
 62937181,PrivateBin/PrivateBin,PHP,127
 4380514,Audi-1/sqli-labs,PHP,78
 8077402,MISP/MISP,PHP,89
@@ -21,6 +21,6 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,86
 129852395,assimon/dujiaoka,PHP,124
 142127816,zhuifengshaonianhanlu/pikachu,PHP,73
-216849756,v2board/v2board,PHP,88
-404921727,luolongfei/freenom,PHP,176
-433383766,nextcloud/all-in-one,PHP,76
+216849756,v2board/v2board,PHP,87
+404921727,luolongfei/freenom,PHP,178
+433383766,nextcloud/all-in-one,PHP,78
