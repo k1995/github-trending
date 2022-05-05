@@ -1,5 +1,5 @@
 id,name,lang,new stars
-246335987,ventoy/Ventoy,C,63
+246335987,ventoy/Ventoy,C,59
 1357796,emscripten-core/emscripten,C,9
 102578345,coolsnowwolf/lede,C,25
 11715753,robertdavidgraham/masscan,C,8
@@ -7,7 +7,7 @@ id,name,lang,new stars
 140656,jonas/tig,C,2
 13836499,raysan5/raylib,C,9
 70127218,espressif/arduino-esp32,C,10
-105944401,yugabyte/yugabyte-db,C,6
+105944401,yugabyte/yugabyte-db,C,5
 59771425,zephyrproject-rtos/zephyr,C,4
 40556106,wazuh/wazuh,C,4
 77920383,nesbox/TIC-80,C,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 45734719,enjoy-digital/litex,C,4
 1031235,strongswan/strongswan,C,2
 191266671,algorand/go-algorand,C,2
-270692521,zmkfirmware/zmk,C,1
+270692521,zmkfirmware/zmk,C,3
 484046432,CN-annotation-team/redis7.0-chinese-annotated,C,15
 452171455,dnomd343/shadowsocks-bootstrap,C,9
