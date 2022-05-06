@@ -1,11 +1,11 @@
 id,name,lang,new stars
 36502,git/git,C,470
-1614410,FFmpeg/FFmpeg,C,518
+1614410,FFmpeg/FFmpeg,C,516
 20159867,nothings/stb,C,358
-6201092,mpv-player/mpv,C,330
-196353673,taosdata/TDengine,C,276
+6201092,mpv-player/mpv,C,329
+196353673,taosdata/TDengine,C,277
+47409672,hashcat/hashcat,C,1883
 66150122,jarun/nnn,C,276
-47409672,hashcat/hashcat,C,1881
 63477515,TheAlgorithms/C,C,480
 27737393,qmk/qmk_firmware,C,263
 90320494,ish-app/ish,C,239
@@ -13,14 +13,14 @@ id,name,lang,new stars
 70127218,espressif/arduino-esp32,C,208
 65899476,espressif/esp-idf,C,193
 7408108,RT-Thread/rt-thread,C,171
-277194804,lawl/NoiseTorch,C,336
+277194804,lawl/NoiseTorch,C,335
 19330466,Cyan4973/xxHash,C,101
-190845267,n64decomp/sm64,C,114
-394318710,valinet/ExplorerPatcher,C,793
+190845267,n64decomp/sm64,C,116
+394318710,valinet/ExplorerPatcher,C,792
 94530674,Syllo/nvtop,C,101
 27359183,guanzhi/GmSSL,C,111
-330008801,libsdl-org/SDL,C,180
+330008801,libsdl-org/SDL,C,179
 204459250,mit-pdos/xv6-riscv,C,156
 66966208,openbsd/src,C,55
-284134871,flipperdevices/flipperzero-firmware,C,143
-475870202,kris-nova/boopkit,C,545
+284134871,flipperdevices/flipperzero-firmware,C,144
+475870202,kris-nova/boopkit,C,538
