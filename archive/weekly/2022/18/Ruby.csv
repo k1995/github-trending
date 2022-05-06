@@ -1,12 +1,12 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,47
-53238813,Homebrew/brew,Ruby,97
-52281283,mastodon/mastodon,Ruby,592
-13840241,freeCodeCamp/devdocs,Ruby,63
-308770,heartcombo/devise,Ruby,17
-3623050,Homebrew/homebrew-cask,Ruby,29
-538746,ruby/ruby,Ruby,36
-3195124,mperham/sidekiq,Ruby,26
+7569578,discourse/discourse,Ruby,46
+53238813,Homebrew/brew,Ruby,95
+52281283,mastodon/mastodon,Ruby,576
+13840241,freeCodeCamp/devdocs,Ruby,64
+308770,heartcombo/devise,Ruby,16
+3623050,Homebrew/homebrew-cask,Ruby,28
+538746,ruby/ruby,Ruby,35
+3195124,mperham/sidekiq,Ruby,25
 106995,sinatra/sinatra,Ruby,5
 88740103,postalserver/postal,Ruby,29
 96395,faker-ruby/faker,Ruby,18
@@ -15,8 +15,8 @@ id,name,lang,new stars
 1333863,kaminari/kaminari,Ruby,8
 1548802,activerecord-hackery/ransack,Ruby,10
 30985840,solidusio/solidus,Ruby,44
-138776049,sorbet/sorbet,Ruby,8
-200302808,github/view_component,Ruby,18
+138776049,sorbet/sorbet,Ruby,9
+200302808,github/view_component,Ruby,17
 588600,brianmario/mysql2,Ruby,5
 2113660,Shopify/statsd-instrument,Ruby,0
 419827947,joemasilotti/railsdevs.com,Ruby,15
