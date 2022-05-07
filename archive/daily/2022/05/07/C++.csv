@@ -1,17 +1,17 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,24
-65600975,pytorch/pytorch,C++,26
+65600975,pytorch/pytorch,C++,27
 12791642,BVLC/caffe,C++,7
 39840932,google/googletest,C++,9
 6934395,facebook/rocksdb,C++,12
-40892817,ethereum/solidity,C++,19
+40892817,ethereum/solidity,C++,18
 7056202,fmtlib/fmt,C++,9
 38581626,pybind/pybind11,C++,7
 310611,apache/thrift,C++,0
 23641816,google/sanitizers,C++,12
 32944298,Z3Prover/z3,C++,4
 16309670,gperftools/gperftools,C++,8
-156939672,microsoft/onnxruntime,C++,6
+156939672,microsoft/onnxruntime,C++,5
 21530861,open-source-parsers/jsoncpp,C++,5
 354743391,o3de/o3de,C++,8
 244694174,project-chip/connectedhomeip,C++,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 148821256,Roblox/luau,C++,9
 328893373,LANDrop/LANDrop,C++,20
 313501668,wenet-e2e/wenet,C++,3
-202483348,apache/incubator-kvrocks,C++,18
+202483348,apache/incubator-kvrocks,C++,17
 446669267,focus-creative-games/huatuo,C++,10
-224468265,dail8859/NotepadNext,C++,30
+224468265,dail8859/NotepadNext,C++,32
