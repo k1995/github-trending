@@ -1,14 +1,14 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,60
-52281283,mastodon/mastodon,Ruby,351
-308770,heartcombo/devise,Ruby,15
+7569578,discourse/discourse,Ruby,58
+52281283,mastodon/mastodon,Ruby,348
+308770,heartcombo/devise,Ruby,16
 3195124,mperham/sidekiq,Ruby,21
 106995,sinatra/sinatra,Ruby,7
 88740103,postalserver/postal,Ruby,34
-96395,faker-ruby/faker,Ruby,20
+96395,faker-ruby/faker,Ruby,21
 1725199,github/linguist,Ruby,35
 15435,Shopify/liquid,Ruby,19
-6529205,varvet/pundit,Ruby,8
+6529205,varvet/pundit,Ruby,7
 229006,mileszs/wicked_pdf,Ruby,1
 138776049,sorbet/sorbet,Ruby,10
 103766152,github/explore,Ruby,12
@@ -16,10 +16,10 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,16
 200302808,github/view_component,Ruby,17
 10088951,TheOdinProject/theodinproject,Ruby,19
-178828146,KrauseFx/FxLifeSheet,Ruby,112
+178828146,KrauseFx/FxLifeSheet,Ruby,110
 2113660,Shopify/statsd-instrument,Ruby,0
 16006666,turingschool/ruby-exercises,Ruby,1
-66497320,DataDog/dd-trace-rb,Ruby,3
+66497320,DataDog/dd-trace-rb,Ruby,2
 212272090,CMSgov/price-transparency-guide,Ruby,3
 77154536,mercadolibre/mobile-dependencies_whitelist,Ruby,0
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0
