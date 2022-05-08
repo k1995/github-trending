@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1903522,php/php-src,C,3
-10446890,bilibili/ijkplayer,C,2
-1614410,FFmpeg/FFmpeg,C,24
-569041,curl/curl,C,9
-1357796,emscripten-core/emscripten,C,14
+1903522,php/php-src,C,4
+10446890,bilibili/ijkplayer,C,3
+1614410,FFmpeg/FFmpeg,C,22
+569041,curl/curl,C,11
+1357796,emscripten-core/emscripten,C,12
 196353673,taosdata/TDengine,C,10
 5254557,cloudwu/skynet,C,2
-13836499,raysan5/raylib,C,13
+13836499,raysan5/raylib,C,14
 60667730,lvgl/lvgl,C,13
-3299208,videolan/vlc,C,4
+3299208,videolan/vlc,C,5
 39242894,coturn/coturn,C,8
-54280778,DaveGamble/cJSON,C,4
+54280778,DaveGamble/cJSON,C,3
 2755696,mattn/go-sqlite3,C,7
 8180677,libimobiledevice/libimobiledevice,C,3
 59676171,Klipper3d/klipper,C,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 5128084,Cisco-Talos/clamav,C,3
 298133717,PortAudio/portaudio,C,6
 448941447,simonbs/Runestone,C,35
-378529353,emqx/neuron,C,19
-457889366,nop-tech/OSED,C,5
+378529353,emqx/neuron,C,12
+457889366,nop-tech/OSED,C,4
