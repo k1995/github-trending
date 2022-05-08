@@ -1,14 +1,14 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,173
-60243197,nextcloud/server,PHP,305
+60243197,nextcloud/server,PHP,308
 2889328,WordPress/WordPress,PHP,142
 15020102,walkor/workerman,PHP,84
-41589337,BookStackApp/BookStack,PHP,332
-597887,doctrine/orm,PHP,66
-10238429,tennc/webshell,PHP,116
+41589337,BookStackApp/BookStack,PHP,337
+597887,doctrine/orm,PHP,68
+10238429,tennc/webshell,PHP,117
 21298446,firefly-iii/firefly-iii,PHP,241
-16685462,humhub/humhub,PHP,117
-76064827,mailcow/mailcow-dockerized,PHP,149
+16685462,humhub/humhub,PHP,118
+76064827,mailcow/mailcow-dockerized,PHP,148
 12204147,mautic/mautic,PHP,81
 6322699,FreshRSS/FreshRSS,PHP,114
 439861,moodle/moodle,PHP,48
@@ -16,11 +16,11 @@ id,name,lang,new stars
 62937181,PrivateBin/PrivateBin,PHP,133
 4380514,Audi-1/sqli-labs,PHP,75
 8077402,MISP/MISP,PHP,81
-129829848,pixelfed/pixelfed,PHP,108
+129829848,pixelfed/pixelfed,PHP,109
 47508644,pterodactyl/panel,PHP,146
 248372441,laravel-filament/filament,PHP,216
-69691727,pmmp/PocketMine-MP,PHP,87
+69691727,pmmp/PocketMine-MP,PHP,85
 57463067,AzuraCast/AzuraCast,PHP,148
-216849756,v2board/v2board,PHP,91
-404921727,luolongfei/freenom,PHP,186
-433383766,nextcloud/all-in-one,PHP,107
+216849756,v2board/v2board,PHP,90
+404921727,luolongfei/freenom,PHP,185
+433383766,nextcloud/all-in-one,PHP,112

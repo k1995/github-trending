@@ -1,12 +1,12 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,59
+7569578,discourse/discourse,Ruby,60
 52281283,mastodon/mastodon,Ruby,351
 308770,heartcombo/devise,Ruby,15
 3195124,mperham/sidekiq,Ruby,21
 106995,sinatra/sinatra,Ruby,7
 88740103,postalserver/postal,Ruby,34
-96395,faker-ruby/faker,Ruby,19
-1725199,github/linguist,Ruby,36
+96395,faker-ruby/faker,Ruby,20
+1725199,github/linguist,Ruby,35
 15435,Shopify/liquid,Ruby,19
 6529205,varvet/pundit,Ruby,8
 229006,mileszs/wicked_pdf,Ruby,1
@@ -15,8 +15,8 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,11
 93163073,dependabot/dependabot-core,Ruby,16
 200302808,github/view_component,Ruby,17
-10088951,TheOdinProject/theodinproject,Ruby,20
-178828146,KrauseFx/FxLifeSheet,Ruby,118
+10088951,TheOdinProject/theodinproject,Ruby,19
+178828146,KrauseFx/FxLifeSheet,Ruby,112
 2113660,Shopify/statsd-instrument,Ruby,0
 16006666,turingschool/ruby-exercises,Ruby,1
 66497320,DataDog/dd-trace-rb,Ruby,3
