@@ -1,14 +1,14 @@
 id,name,lang,new stars
-246335987,ventoy/Ventoy,C,559
-1357796,emscripten-core/emscripten,C,45
+246335987,ventoy/Ventoy,C,562
+1357796,emscripten-core/emscripten,C,48
 102578345,coolsnowwolf/lede,C,133
 20159867,nothings/stb,C,77
 7634677,openssl/openssl,C,77
-63477515,TheAlgorithms/C,C,137
-27737393,qmk/qmk_firmware,C,67
+63477515,TheAlgorithms/C,C,141
+27737393,qmk/qmk_firmware,C,66
 13836499,raysan5/raylib,C,61
 60667730,lvgl/lvgl,C,91
-70127218,espressif/arduino-esp32,C,60
+70127218,espressif/arduino-esp32,C,62
 105944401,yugabyte/yugabyte-db,C,29
 19330466,Cyan4973/xxHash,C,40
 59771425,zephyrproject-rtos/zephyr,C,45
@@ -17,10 +17,10 @@ id,name,lang,new stars
 146397768,ithewei/libhv,C,63
 236648333,flightlessmango/MangoHud,C,53
 146155284,SanderMertens/flecs,C,43
-481977,stephane/libmodbus,C,46
+481977,stephane/libmodbus,C,47
 266800505,edk2-porting/edk2-sdm845,C,15
-19881421,joncampbell123/dosbox-x,C,20
+19881421,joncampbell123/dosbox-x,C,19
 284134871,flipperdevices/flipperzero-firmware,C,40
-210099248,rvaiya/warpd,C,84
-169170146,ganelson/inform,C,200
+210099248,rvaiya/warpd,C,81
+169170146,ganelson/inform,C,182
 387449953,siduck/chadwm,C,31
