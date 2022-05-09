@@ -1,9 +1,9 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,17
-2579314,fzaninotto/Faker,PHP,3
-1376664,Seldaek/monolog,PHP,3
-9004802,phpspec/prophecy,PHP,1
-212659,sebastianbergmann/php-code-coverage,PHP,1
+2579314,fzaninotto/Faker,PHP,2
+1376664,Seldaek/monolog,PHP,4
+9004802,phpspec/prophecy,PHP,2
+212659,sebastianbergmann/php-code-coverage,PHP,2
 330275,twigphp/Twig,PHP,0
 8155345,sebastianbergmann/diff,PHP,1
 361639,sebastianbergmann/php-file-iterator,PHP,1
@@ -12,15 +12,15 @@ id,name,lang,new stars
 23217993,sebastianbergmann/global-state,PHP,1
 29690340,sebastianbergmann/recursion-context,PHP,1
 7456035,sebastianbergmann/version,PHP,1
-222873550,crater-invoice/crater,PHP,2
+222873550,crater-invoice/crater,PHP,1
 145865941,laravel/telescope,PHP,1
-119047018,linuxserver/Heimdall,PHP,10
+119047018,linuxserver/Heimdall,PHP,9
 47508644,pterodactyl/panel,PHP,6
-248372441,laravel-filament/filament,PHP,6
-38116958,php-telegram-bot/core,PHP,4
+248372441,laravel-filament/filament,PHP,8
+38116958,php-telegram-bot/core,PHP,2
 57961433,openmediavault/openmediavault,PHP,3
-359687154,DenverCoder1/readme-typing-svg,PHP,5
+359687154,DenverCoder1/readme-typing-svg,PHP,4
 40141239,NamelessMC/Nameless,PHP,1
-393234666,Cats-Team/AdRules,PHP,3
-433383766,nextcloud/all-in-one,PHP,7
+393234666,Cats-Team/AdRules,PHP,2
+433383766,nextcloud/all-in-one,PHP,3
 278767494,maxdenaro/maxgraph-youtube-source,PHP,0
