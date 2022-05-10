@@ -1,9 +1,9 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,16
+3482588,danielmiessler/SecLists,PHP,24
 2579314,fzaninotto/Faker,PHP,2
 1376664,Seldaek/monolog,PHP,5
 9004802,phpspec/prophecy,PHP,2
-212659,sebastianbergmann/php-code-coverage,PHP,2
+212659,sebastianbergmann/php-code-coverage,PHP,3
 330275,twigphp/Twig,PHP,0
 8155345,sebastianbergmann/diff,PHP,2
 361639,sebastianbergmann/php-file-iterator,PHP,1
@@ -15,11 +15,11 @@ id,name,lang,new stars
 222873550,crater-invoice/crater,PHP,0
 145865941,laravel/telescope,PHP,1
 119047018,linuxserver/Heimdall,PHP,9
-47508644,pterodactyl/panel,PHP,5
-248372441,laravel-filament/filament,PHP,9
+47508644,pterodactyl/panel,PHP,4
+248372441,laravel-filament/filament,PHP,10
 38116958,php-telegram-bot/core,PHP,2
-57961433,openmediavault/openmediavault,PHP,5
-359687154,DenverCoder1/readme-typing-svg,PHP,4
+57961433,openmediavault/openmediavault,PHP,7
+359687154,DenverCoder1/readme-typing-svg,PHP,3
 40141239,NamelessMC/Nameless,PHP,1
 393234666,Cats-Team/AdRules,PHP,3
 433383766,nextcloud/all-in-one,PHP,5

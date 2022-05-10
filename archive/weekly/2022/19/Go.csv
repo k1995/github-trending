@@ -1,13 +1,13 @@
 id,name,lang,new stars
-16752620,gogs/gogs,Go,538
+16752620,gogs/gogs,Go,631
 17728164,hashicorp/terraform,Go,148
-133251103,wagoodman/dive,Go,463
+133251103,wagoodman/dive,Go,466
 136815833,Dreamacro/clash,Go,287
 122734569,iawia002/lux,Go,89
 6051812,gorilla/mux,Go,68
-40808571,yudai/gotty,Go,83
+40808571,yudai/gotty,Go,84
 8966356,hashicorp/packer,Go,26
-21233191,ipfs/go-ipfs,Go,218
+21233191,ipfs/go-ipfs,Go,220
 72477752,pulumi/pulumi,Go,162
 48109239,cilium/cilium,Go,95
 237523442,tailscale/tailscale,Go,130
@@ -17,7 +17,7 @@ id,name,lang,new stars
 302670797,ossf/scorecard,Go,25
 342728683,replicate/cog,Go,526
 335952417,sigstore/cosign,Go,84
-257434373,HyNetwork/hysteria,Go,339
+257434373,HyNetwork/hysteria,Go,335
 49970739,DataDog/datadog-agent,Go,15
 411212454,tharsis/evmos,Go,13
 334215717,gnolang/gno,Go,73
