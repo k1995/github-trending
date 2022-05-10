@@ -1,7 +1,7 @@
 id,name,lang,new stars
 155220641,huggingface/transformers,Python,118
 843222,scikit-learn/scikit-learn,Python,18
-307260205,yt-dlp/yt-dlp,Python,160
+307260205,yt-dlp/yt-dlp,Python,137
 393571599,babysor/MockingBird,Python,51
 145670234,open-mmlab/mmdetection,Python,18
 247266215,JaidedAI/EasyOCR,Python,31
@@ -11,12 +11,12 @@ id,name,lang,new stars
 140614233,PySimpleGUI/PySimpleGUI,Python,24
 222751131,Asabeneh/30-Days-Of-Python,Python,43
 130375797,dmlc/dgl,Python,32
-112070198,KurtBestor/Hitomi-Downloader,Python,27
+112070198,KurtBestor/Hitomi-Downloader,Python,31
 202693400,rougier/scientific-visualization-book,Python,11
 253044228,projectdiscovery/nuclei-templates,Python,16
-96698133,Python3WebSpider/ProxyPool,Python,18
-382756807,TechXueXi/TechXueXi,Python,6
-137276052,RhinoSecurityLabs/pacu,Python,17
+96698133,Python3WebSpider/ProxyPool,Python,19
+382756807,TechXueXi/TechXueXi,Python,7
+137276052,RhinoSecurityLabs/pacu,Python,13
 258034494,Azure/Stormspotter,Python,16
 457763204,avinassh/py-caskdb,Python,66
 394541647,WhaleFell/SMSBoom,Python,61

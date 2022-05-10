@@ -4,7 +4,7 @@ id,name,lang,new stars
 8989842,unknwon/the-way-to-go_ZH_CN,Go,20
 50709152,kataras/iris,Go,7
 18369373,spf13/viper,Go,19
-165041732,go-kratos/kratos,Go,96
+165041732,go-kratos/kratos,Go,101
 27729907,grpc/grpc-go,Go,12
 7083242,go-sql-driver/mysql,Go,5
 208728772,milvus-io/milvus,Go,14
@@ -13,14 +13,14 @@ id,name,lang,new stars
 95761244,gogf/gf,Go,5
 301830590,benbjohnson/litestream,Go,315
 120650407,operator-framework/operator-sdk,Go,3
-140412864,kgretzky/evilginx2,Go,5
+140412864,kgretzky/evilginx2,Go,6
 323965659,Xhofe/alist,Go,158
 384451028,cloudwego/kitex,Go,1
 31333618,shopspring/decimal,Go,6
 175592968,volcano-sh/volcano,Go,7
-257434373,HyNetwork/hysteria,Go,21
+257434373,HyNetwork/hysteria,Go,20
 133830411,argoproj/argo-events,Go,3
 310632133,solana-labs/token-list,Go,1
-332606283,lcvvvv/kscan,Go,19
+332606283,lcvvvv/kscan,Go,20
 438518303,zyedidia/generic,Go,84
 464642335,pojntfx/weron,Go,91

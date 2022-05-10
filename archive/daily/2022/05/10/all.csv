@@ -4,7 +4,7 @@ id,name,lang,new stars
 196701619,tauri-apps/tauri,Rust,563
 37958358,naptha/tesseract.js,JavaScript,348
 39840932,google/googletest,C++,13
-165041732,go-kratos/kratos,Go,96
+165041732,go-kratos/kratos,Go,101
 11007313,BabylonJS/Babylon.js,TypeScript,26
 116392709,digitalocean/nginxconfig.io,JavaScript,26
 240215314,docker/awesome-compose,HTML,111
@@ -21,4 +21,5 @@ id,name,lang,new stars
 419662458,DataTalksClub/mlops-zoomcamp,Jupyter Notebook,295
 482425877,alibaba/fastjson2,Java,21
 487502777,HIT-UG-Group/DeepLearning-MuLi-Notes,Jupyter Notebook,138
+489691894,meysamhadeli/booking-microservices-sample,C#,17
 464642335,pojntfx/weron,Go,91
