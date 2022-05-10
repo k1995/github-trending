@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,243
+8514,rails/rails,Ruby,245
 65252,jekyll/jekyll,Ruby,225
 27442967,fastlane/fastlane,Ruby,564
 53238813,Homebrew/brew,Ruby,450
 52281283,mastodon/mastodon,Ruby,1688
-13840241,freeCodeCamp/devdocs,Ruby,498
-2293158,rapid7/metasploit-framework,Ruby,373
+13840241,freeCodeCamp/devdocs,Ruby,499
+2293158,rapid7/metasploit-framework,Ruby,372
 2500088,gitlabhq/gitlabhq,Ruby,47
 538746,ruby/ruby,Ruby,142
-2203645,CocoaPods/CocoaPods,Ruby,52
+2203645,CocoaPods/CocoaPods,Ruby,51
 911765,diaspora/diaspora,Ruby,54
-18486300,lewagon/setup,Ruby,635
+18486300,lewagon/setup,Ruby,634
 202291859,chatwoot/chatwoot,Ruby,255
 88740103,postalserver/postal,Ruby,121
 96395,faker-ruby/faker,Ruby,68
@@ -19,7 +19,7 @@ id,name,lang,new stars
 24666294,ankane/blazer,Ruby,78
 103766152,github/explore,Ruby,70
 11426474,github/choosealicense.com,Ruby,65
-189010173,Hackplayers/evil-winrm,Ruby,89
+189010173,Hackplayers/evil-winrm,Ruby,88
 3662248,git/git-scm.com,Ruby,20
 10088951,TheOdinProject/theodinproject,Ruby,71
 212813096,lewagon/data-setup,Ruby,323
