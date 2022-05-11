@@ -1,25 +1,26 @@
 id,name,lang,new stars
+121395510,CyC2018/CS-Notes,,150
+29028775,facebook/react-native,JavaScript,30
+23083156,mui/material-ui,JavaScript,53
+172562475,florinpop17/app-ideas,,249
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,535
-16752620,gogs/gogs,Go,246
-196701619,tauri-apps/tauri,Rust,433
-37958358,naptha/tesseract.js,JavaScript,255
+160919119,tiangolo/fastapi,Python,60
+29207621,caddyserver/caddy,Go,44
+196701619,tauri-apps/tauri,Rust,408
+214587193,supabase/supabase,TypeScript,92
 39840932,google/googletest,C++,25
-165041732,go-kratos/kratos,Go,104
-11007313,BabylonJS/Babylon.js,TypeScript,42
-116392709,digitalocean/nginxconfig.io,JavaScript,84
-240215314,docker/awesome-compose,HTML,159
-120710644,Vonng/ddia,Python,79
-441903012,MichaelCade/90DaysOfDevOps,Shell,96
-169371413,MoienTajik/AspNetCore-Developer-Roadmap,,32
-130430977,kubesphere/kubesphere,Go,31
-253044228,projectdiscovery/nuclei-templates,Python,21
+32578467,danielgindi/Charts,Swift,6
+168008797,microsoft/calculator,C++,31
+262296122,PaddlePaddle/PaddleOCR,Python,339
+306977633,AMAI-GmbH/AI-Expert-Roadmap,JavaScript,68
+266231149,logseq/logseq,Clojure,62
+233130089,charmbracelet/bubbletea,Go,642
+301830590,benbjohnson/litestream,Go,205
+253044228,projectdiscovery/nuclei-templates,Python,33
 135897748,NebuTech/NBMiner,,45
-256401220,alexeygrigorev/mlbookcamp-code,Jupyter Notebook,19
-470962649,dair-ai/ML-Course-Notes,,321
-460314453,Tencent/tmagic-editor,TypeScript,96
-419662458,DataTalksClub/mlops-zoomcamp,Jupyter Notebook,234
-329411620,paulgp/applied-methods-phd,TeX,23
+119336293,purocean/yn,TypeScript,38
 482425877,alibaba/fastjson2,Java,41
+487576737,theVakhovskeIsTaken/holoiso,Shell,74
 487502777,HIT-UG-Group/DeepLearning-MuLi-Notes,Jupyter Notebook,134
-489691894,meysamhadeli/booking-microservices-sample,C#,32
-464642335,pojntfx/weron,Go,90
+178150311,wolfogre/go-pprof-practice,Go,17
+490259731,horizon3ai/CVE-2022-1388,Python,32
