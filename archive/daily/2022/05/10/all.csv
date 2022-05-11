@@ -4,8 +4,8 @@ id,name,lang,new stars
 196701619,tauri-apps/tauri,Rust,563
 37958358,naptha/tesseract.js,JavaScript,348
 39840932,google/googletest,C++,13
-165041732,go-kratos/kratos,Go,101
-11007313,BabylonJS/Babylon.js,TypeScript,26
+165041732,go-kratos/kratos,Go,45
+11007313,BabylonJS/Babylon.js,TypeScript,25
 116392709,digitalocean/nginxconfig.io,JavaScript,26
 240215314,docker/awesome-compose,HTML,111
 120710644,Vonng/ddia,Python,162
@@ -15,7 +15,7 @@ id,name,lang,new stars
 253044228,projectdiscovery/nuclei-templates,Python,16
 135897748,NebuTech/NBMiner,,40
 256401220,alexeygrigorev/mlbookcamp-code,Jupyter Notebook,20
-470962649,dair-ai/ML-Course-Notes,,720
+470962649,dair-ai/ML-Course-Notes,,713
 460314453,Tencent/tmagic-editor,TypeScript,152
 329411620,paulgp/applied-methods-phd,TeX,10
 419662458,DataTalksClub/mlops-zoomcamp,Jupyter Notebook,295

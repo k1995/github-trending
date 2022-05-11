@@ -1,14 +1,14 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,16
-911765,diaspora/diaspora,Ruby,4
+27442967,fastlane/fastlane,Ruby,17
+911765,diaspora/diaspora,Ruby,5
 18486300,lewagon/setup,Ruby,1
 1090311,elastic/logstash,Ruby,13
-202291859,chatwoot/chatwoot,Ruby,4
+202291859,chatwoot/chatwoot,Ruby,3
 11423758,mame/quine-relay,Ruby,2
 3195124,mperham/sidekiq,Ruby,2
 3314,spree/spree,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
-1157388,tmuxinator/tmuxinator,Ruby,5
+1157388,tmuxinator/tmuxinator,Ruby,6
 1918677,fluent/fluentd,Ruby,6
 96395,faker-ruby/faker,Ruby,1
 812393,ruby-grape/grape,Ruby,1
@@ -16,7 +16,7 @@ id,name,lang,new stars
 47087,carrierwaveuploader/carrierwave,Ruby,2
 108278,chef/chef,Ruby,4
 6899875,opf/openproject,Ruby,4
-1548802,activerecord-hackery/ransack,Ruby,2
+1548802,activerecord-hackery/ransack,Ruby,3
 16994115,CanCanCommunity/cancancan,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,1
 6768710,redmine/redmine,Ruby,1
