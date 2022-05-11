@@ -1,17 +1,17 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,53
-2293158,rapid7/metasploit-framework,Ruby,68
-308770,heartcombo/devise,Ruby,17
+7569578,discourse/discourse,Ruby,54
+2293158,rapid7/metasploit-framework,Ruby,67
+308770,heartcombo/devise,Ruby,18
 1090311,elastic/logstash,Ruby,25
-3195124,mperham/sidekiq,Ruby,19
+3195124,mperham/sidekiq,Ruby,21
 106995,sinatra/sinatra,Ruby,10
-88740103,postalserver/postal,Ruby,33
-96395,faker-ruby/faker,Ruby,16
-1725199,github/linguist,Ruby,32
-361310,teamcapybara/capybara,Ruby,2
-15435,Shopify/liquid,Ruby,21
-108278,chef/chef,Ruby,14
-355893,github/markup,Ruby,6
+88740103,postalserver/postal,Ruby,30
+96395,faker-ruby/faker,Ruby,17
+1725199,github/linguist,Ruby,31
+361310,teamcapybara/capybara,Ruby,1
+15435,Shopify/liquid,Ruby,20
+108278,chef/chef,Ruby,13
+355893,github/markup,Ruby,5
 417389,lostisland/faraday,Ruby,11
 52316423,luggit/react-native-config,Ruby,10
 229006,mileszs/wicked_pdf,Ruby,2
@@ -19,7 +19,7 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,13
 200302808,github/view_component,Ruby,13
 34840276,elastic/ansible-elasticsearch,Ruby,1
-3698608,moove-it/sidekiq-scheduler,Ruby,12
+3698608,moove-it/sidekiq-scheduler,Ruby,13
 66497320,DataDog/dd-trace-rb,Ruby,4
 48370306,elastic/ansible-beats,Ruby,0
 77154536,mercadolibre/mobile-dependencies_whitelist,Ruby,1
