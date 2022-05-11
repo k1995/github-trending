@@ -1,10 +1,10 @@
 id,name,lang,new stars
 22887094,tesseract-ocr/tesseract,C++,29
 39840932,google/googletest,C++,25
-168008797,microsoft/calculator,C++,119
-120887835,huihut/interview,C++,30
+168008797,microsoft/calculator,C++,116
+120887835,huihut/interview,C++,29
 60246359,ClickHouse/ClickHouse,C++,17
-4524181,facebook/folly,C++,12
+4524181,facebook/folly,C++,13
 19374812,telegramdesktop/tdesktop,C++,9
 34777562,ossrs/srs,C++,13
 98771110,zhongyang219/TrafficMonitor,C++,85
@@ -20,7 +20,7 @@ id,name,lang,new stars
 223904726,wang-xinyu/tensorrtx,C++,8
 67641996,oneapi-src/oneTBB,C++,3
 81634683,Oneflow-Inc/oneflow,C++,13
-110688239,PaddlePaddle/PaddleSpeech,C++,11
+110688239,PaddlePaddle/PaddleSpeech,C++,12
 446669267,focus-creative-games/huatuo,C++,12
 215649623,Xilinx/Vitis-AI,C++,3
 356055024,tensorflow/tflite-micro,C++,3
