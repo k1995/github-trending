@@ -10,7 +10,7 @@ id,name,lang,new stars
 148545807,kubernetes-sigs/kind,Go,9
 120896210,argoproj/argo-cd,Go,14
 27051771,golang/protobuf,Go,3
-95761244,gogf/gf,Go,7
+95761244,gogf/gf,Go,6
 301830590,benbjohnson/litestream,Go,158
 120519269,runatlantis/atlantis,Go,5
 403559729,YaoApp/yao,Go,16
@@ -21,6 +21,6 @@ id,name,lang,new stars
 362675427,sealerio/sealer,Go,24
 313628863,external-secrets/external-secrets,Go,9
 442716595,clickvisual/clickvisual,Go,148
-346323211,1340691923/ElasticView,Go,18
+346323211,1340691923/ElasticView,Go,20
 486834885,Misaka-blog/XrayR,Go,5
 178150311,wolfogre/go-pprof-practice,Go,23
