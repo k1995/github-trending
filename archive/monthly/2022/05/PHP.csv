@@ -1,19 +1,19 @@
 id,name,lang,new stars
-60243197,nextcloud/server,PHP,331
-82238168,monicahq/monica,PHP,436
-2889328,WordPress/WordPress,PHP,146
+60243197,nextcloud/server,PHP,333
+82238168,monicahq/monica,PHP,434
+2889328,WordPress/WordPress,PHP,145
 47495360,koel/koel,PHP,168
 2884111,magento/magento2,PHP,62
-15020102,walkor/workerman,PHP,83
+15020102,walkor/workerman,PHP,84
 41589337,BookStackApp/BookStack,PHP,359
 10238429,tennc/webshell,PHP,126
 21298446,firefly-iii/firefly-iii,PHP,246
-16685462,humhub/humhub,PHP,129
+16685462,humhub/humhub,PHP,130
 76064827,mailcow/mailcow-dockerized,PHP,152
 12204147,mautic/mautic,PHP,80
-6322699,FreshRSS/FreshRSS,PHP,110
-41463886,codeigniter4/CodeIgniter4,PHP,66
-62937181,PrivateBin/PrivateBin,PHP,124
+6322699,FreshRSS/FreshRSS,PHP,108
+41463886,codeigniter4/CodeIgniter4,PHP,65
+62937181,PrivateBin/PrivateBin,PHP,123
 8077402,MISP/MISP,PHP,82
 129829848,pixelfed/pixelfed,PHP,133
 47508644,pterodactyl/panel,PHP,157
@@ -22,5 +22,5 @@ id,name,lang,new stars
 57463067,AzuraCast/AzuraCast,PHP,164
 216849756,v2board/v2board,PHP,91
 404921727,luolongfei/freenom,PHP,189
-188228357,icret/EasyImages2.0,PHP,142
-433383766,nextcloud/all-in-one,PHP,127
+188228357,icret/EasyImages2.0,PHP,143
+433383766,nextcloud/all-in-one,PHP,128

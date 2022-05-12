@@ -1,13 +1,13 @@
 id,name,lang,new stars
-151834062,doocs/advanced-java,Java,30
+151834062,doocs/advanced-java,Java,28
 507775,elastic/elasticsearch,Java,16
 892275,square/retrofit,Java,7
 19148949,PhilJay/MPAndroidChart,Java,5
 112785414,alibaba/spring-cloud-alibaba,Java,14
-163387337,seata/seata,Java,6
+163387337,seata/seata,Java,7
 5373551,libgdx/libgdx,Java,6
 15823460,redisson/redisson,Java,12
-75164823,apache/rocketmq,Java,11
+75164823,apache/rocketmq,Java,12
 13404515,brettwooldridge/HikariCP,Java,4
 89822531,Anuken/Mindustry,Java,7
 149001365,doocs/leetcode,Java,17
@@ -15,12 +15,12 @@ id,name,lang,new stars
 117965972,alibaba/DataX,Java,11
 62117812,apache/pulsar,Java,7
 25062303,android/testing-samples,Java,0
-217943361,doocs/source-code-hunter,Java,38
+217943361,doocs/source-code-hunter,Java,37
 33816473,testcontainers/testcontainers-java,Java,5
 50904245,apache/beam,Java,2
 83799439,LawnchairLauncher/lawnchair,Java,7
-334274271,opensearch-project/OpenSearch,Java,5
-175650201,alipay/SoloPi,Java,7
-265513067,LandGrey/SpringBootVulExploit,Java,5
+334274271,opensearch-project/OpenSearch,Java,6
+175650201,alipay/SoloPi,Java,8
+265513067,LandGrey/SpringBootVulExploit,Java,4
 58194180,strimzi/strimzi-kafka-operator,Java,2
-482425877,alibaba/fastjson2,Java,149
+482425877,alibaba/fastjson2,Java,151

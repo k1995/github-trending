@@ -1,10 +1,10 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,52
-2293158,rapid7/metasploit-framework,Ruby,66
+2293158,rapid7/metasploit-framework,Ruby,63
 308770,heartcombo/devise,Ruby,18
-1090311,elastic/logstash,Ruby,24
+1090311,elastic/logstash,Ruby,23
 3195124,mperham/sidekiq,Ruby,20
-106995,sinatra/sinatra,Ruby,10
+106995,sinatra/sinatra,Ruby,9
 88740103,postalserver/postal,Ruby,28
 96395,faker-ruby/faker,Ruby,16
 1725199,github/linguist,Ruby,31
@@ -14,10 +14,10 @@ id,name,lang,new stars
 355893,github/markup,Ruby,5
 417389,lostisland/faraday,Ruby,11
 52316423,luggit/react-native-config,Ruby,12
-229006,mileszs/wicked_pdf,Ruby,2
+229006,mileszs/wicked_pdf,Ruby,3
 614070,rubygems/rubygems,Ruby,8
 11426474,github/choosealicense.com,Ruby,13
-200302808,github/view_component,Ruby,12
+200302808,github/view_component,Ruby,11
 34840276,elastic/ansible-elasticsearch,Ruby,1
 3698608,moove-it/sidekiq-scheduler,Ruby,13
 66497320,DataDog/dd-trace-rb,Ruby,4

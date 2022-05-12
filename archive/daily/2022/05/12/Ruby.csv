@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,11
-65252,jekyll/jekyll,Ruby,12
-27442967,fastlane/fastlane,Ruby,7
+65252,jekyll/jekyll,Ruby,9
+27442967,fastlane/fastlane,Ruby,8
 481872,hashicorp/vagrant,Ruby,8
 308770,heartcombo/devise,Ruby,5
 1090311,elastic/logstash,Ruby,2
 3195124,mperham/sidekiq,Ruby,4
 3314,spree/spree,Ruby,1
-4095287,rubocop/rubocop,Ruby,3
+4095287,rubocop/rubocop,Ruby,2
 106995,sinatra/sinatra,Ruby,1
-52855516,Homebrew/homebrew-core,Ruby,10
+52855516,Homebrew/homebrew-core,Ruby,11
 1918677,fluent/fluentd,Ruby,5
 96395,faker-ruby/faker,Ruby,1
 361310,teamcapybara/capybara,Ruby,1
@@ -19,7 +19,7 @@ id,name,lang,new stars
 108278,chef/chef,Ruby,1
 22059578,ankane/pghero,Ruby,2
 75785147,rails/webpacker,Ruby,0
-229006,mileszs/wicked_pdf,Ruby,0
+229006,mileszs/wicked_pdf,Ruby,1
 200302808,github/view_component,Ruby,1
 432559985,turingschool-examples/each,Ruby,0
 375321926,learn-co-curriculum/phase-4-deploying-demo-app,Ruby,0
