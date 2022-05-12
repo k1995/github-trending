@@ -1,16 +1,16 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,76
-60243197,nextcloud/server,PHP,102
+60243197,nextcloud/server,PHP,104
 2253830,PHPMailer/PHPMailer,PHP,42
 82238168,monicahq/monica,PHP,288
-1631570,nikic/PHP-Parser,PHP,25
-42480275,spatie/laravel-permission,PHP,21
-41589337,BookStackApp/BookStack,PHP,109
-597887,doctrine/orm,PHP,20
+1631570,nikic/PHP-Parser,PHP,23
+42480275,spatie/laravel-permission,PHP,22
+41589337,BookStackApp/BookStack,PHP,110
+597887,doctrine/orm,PHP,21
 2717549,Sylius/Sylius,PHP,18
 9791525,digininja/DVWA,PHP,32
-16685462,humhub/humhub,PHP,49
-76064827,mailcow/mailcow-dockerized,PHP,30
+16685462,humhub/humhub,PHP,48
+76064827,mailcow/mailcow-dockerized,PHP,29
 159606650,hyperf/hyperf,PHP,30
 119047018,linuxserver/Heimdall,PHP,64
 439861,moodle/moodle,PHP,15
@@ -18,9 +18,9 @@ id,name,lang,new stars
 129829848,pixelfed/pixelfed,PHP,54
 47508644,pterodactyl/panel,PHP,28
 1957456,Dolibarr/dolibarr,PHP,19
-57961433,openmediavault/openmediavault,PHP,32
+57961433,openmediavault/openmediavault,PHP,31
 6495081,wikimedia/mediawiki,PHP,16
 39182755,glpi-project/glpi,PHP,17
-17253775,zabbix/zabbix,PHP,22
-57463067,AzuraCast/AzuraCast,PHP,62
+17253775,zabbix/zabbix,PHP,21
+57463067,AzuraCast/AzuraCast,PHP,59
 433383766,nextcloud/all-in-one,PHP,54
