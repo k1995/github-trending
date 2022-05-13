@@ -3,7 +3,7 @@ id,name,lang,new stars
 29207621,caddyserver/caddy,Go,123
 11225014,etcd-io/etcd,Go,20
 48003886,tmrts/go-patterns,Go,37
-165041732,go-kratos/kratos,Go,24
+165041732,go-kratos/kratos,Go,25
 87617508,casbin/casbin,Go,6
 233130089,charmbracelet/bubbletea,Go,393
 62921553,rook/rook,Go,4
@@ -16,11 +16,11 @@ id,name,lang,new stars
 403559729,YaoApp/yao,Go,15
 93446042,hashicorp/terraform-provider-azurerm,Go,4
 281765424,microsoft/CBL-Mariner,Go,6
-154894457,open-policy-agent/gatekeeper,Go,5
+154894457,open-policy-agent/gatekeeper,Go,7
 78678862,ClickHouse/clickhouse-go,Go,2
-362675427,sealerio/sealer,Go,25
+362675427,sealerio/sealer,Go,26
 313628863,external-secrets/external-secrets,Go,9
 442716595,clickvisual/clickvisual,Go,131
 346323211,1340691923/ElasticView,Go,20
-486834885,Misaka-blog/XrayR,Go,4
+486834885,Misaka-blog/XrayR,Go,5
 178150311,wolfogre/go-pprof-practice,Go,41
