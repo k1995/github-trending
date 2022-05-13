@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-65252,jekyll/jekyll,Ruby,11
-27442967,fastlane/fastlane,Ruby,7
-481872,hashicorp/vagrant,Ruby,6
-308770,heartcombo/devise,Ruby,4
+8514,rails/rails,Ruby,6
+65252,jekyll/jekyll,Ruby,8
+27442967,fastlane/fastlane,Ruby,5
+481872,hashicorp/vagrant,Ruby,5
+308770,heartcombo/devise,Ruby,2
 538746,ruby/ruby,Ruby,6
 2203645,CocoaPods/CocoaPods,Ruby,3
 202291859,chatwoot/chatwoot,Ruby,7
@@ -19,7 +19,7 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,0
 4523235,asciidoctor/asciidoctor,Ruby,1
 138776049,sorbet/sorbet,Ruby,1
-3898922,zammad/zammad,Ruby,1
+3898922,zammad/zammad,Ruby,2
 200302808,github/view_component,Ruby,0
 10088951,TheOdinProject/theodinproject,Ruby,4
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,2
