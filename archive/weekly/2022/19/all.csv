@@ -1,12 +1,12 @@
 id,name,lang,new stars
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,2880
-196701619,tauri-apps/tauri,Rust,2998
+196701619,tauri-apps/tauri,Rust,2761
 16752620,gogs/gogs,Go,911
-168008797,microsoft/calculator,C++,430
+168008797,microsoft/calculator,C++,455
 275993885,appsmithorg/appsmith,TypeScript,626
 165041732,go-kratos/kratos,Go,305
 299354207,rustdesk/rustdesk,Rust,645
-92111509,zadam/trilium,JavaScript,177
+92111509,zadam/trilium,JavaScript,167
 240215314,docker/awesome-compose,HTML,449
 120710644,Vonng/ddia,Python,604
 461710233,pyscript/pyscript,HTML,3239
@@ -23,4 +23,4 @@ id,name,lang,new stars
 460314453,Tencent/tmagic-editor,TypeScript,997
 482425877,alibaba/fastjson2,Java,453
 480480380,education/GitHubGraduation-2022,JavaScript,297
-484623572,Koko-boya/Grasscutter_Resources,Lua,189
+484623572,Koko-boya/Grasscutter_Resources,Lua,175
