@@ -1,12 +1,12 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,55
-481872,hashicorp/vagrant,Ruby,45
+481872,hashicorp/vagrant,Ruby,43
 308770,heartcombo/devise,Ruby,21
 911765,diaspora/diaspora,Ruby,30
 1090311,elastic/logstash,Ruby,24
 3195124,mperham/sidekiq,Ruby,15
 3314,spree/spree,Ruby,11
-106995,sinatra/sinatra,Ruby,13
+106995,sinatra/sinatra,Ruby,14
 96395,faker-ruby/faker,Ruby,18
 1725199,github/linguist,Ruby,32
 361310,teamcapybara/capybara,Ruby,5
@@ -15,11 +15,11 @@ id,name,lang,new stars
 355893,github/markup,Ruby,6
 417389,lostisland/faraday,Ruby,9
 52316423,luggit/react-native-config,Ruby,11
-229006,mileszs/wicked_pdf,Ruby,4
+229006,mileszs/wicked_pdf,Ruby,3
 11426474,github/choosealicense.com,Ruby,13
-200302808,github/view_component,Ruby,9
-3698608,moove-it/sidekiq-scheduler,Ruby,12
-79618507,fluent/fluentd-kubernetes-daemonset,Ruby,6
+200302808,github/view_component,Ruby,8
+3698608,moove-it/sidekiq-scheduler,Ruby,11
+79618507,fluent/fluentd-kubernetes-daemonset,Ruby,7
 2113660,Shopify/statsd-instrument,Ruby,2
 16006666,turingschool/ruby-exercises,Ruby,4
 66497320,DataDog/dd-trace-rb,Ruby,4
