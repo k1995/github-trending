@@ -1,15 +1,15 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,8
-458058,symfony/symfony,PHP,6
+458058,symfony/symfony,PHP,5
 1420053,guzzle/guzzle,PHP,4
 1376664,Seldaek/monolog,PHP,5
-60243197,nextcloud/server,PHP,16
+60243197,nextcloud/server,PHP,18
 448045,sebastianbergmann/phpunit,PHP,1
-1548202,matomo-org/matomo,PHP,8
+1548202,matomo-org/matomo,PHP,7
 2889328,WordPress/WordPress,PHP,6
 1631570,nikic/PHP-Parser,PHP,0
-61490598,PHPOffice/PhpSpreadsheet,PHP,8
-10157178,egulias/EmailValidator,PHP,4
+61490598,PHPOffice/PhpSpreadsheet,PHP,7
+10157178,egulias/EmailValidator,PHP,5
 48796179,z-song/laravel-admin,PHP,4
 2699935,squizlabs/PHP_CodeSniffer,PHP,5
 6660366,dompdf/dompdf,PHP,3
@@ -17,10 +17,10 @@ id,name,lang,new stars
 12166778,googleapis/google-api-php-client,PHP,5
 2179920,woocommerce/woocommerce,PHP,4
 330275,twigphp/Twig,PHP,0
-31295421,guzzle/psr7,PHP,0
+31295421,guzzle/psr7,PHP,1
 60010673,elementor/elementor,PHP,2
-439861,moodle/moodle,PHP,2
-248372441,laravel-filament/filament,PHP,8
-291805291,laravel/jetstream,PHP,2
+439861,moodle/moodle,PHP,1
+248372441,laravel-filament/filament,PHP,7
+291805291,laravel/jetstream,PHP,3
 1957456,Dolibarr/dolibarr,PHP,3
 184538454,yankovalenko94/Webdev2019,PHP,0

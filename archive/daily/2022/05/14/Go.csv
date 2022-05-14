@@ -1,8 +1,8 @@
 id,name,lang,new stars
-6838921,prometheus/prometheus,Go,28
-29207621,caddyserver/caddy,Go,68
+6838921,prometheus/prometheus,Go,24
+29207621,caddyserver/caddy,Go,65
 11225014,etcd-io/etcd,Go,16
-48003886,tmrts/go-patterns,Go,33
+48003886,tmrts/go-patterns,Go,34
 165041732,go-kratos/kratos,Go,17
 233130089,charmbracelet/bubbletea,Go,367
 87617508,casbin/casbin,Go,14
@@ -16,9 +16,9 @@ id,name,lang,new stars
 403559729,YaoApp/yao,Go,18
 93446042,hashicorp/terraform-provider-azurerm,Go,3
 281765424,microsoft/CBL-Mariner,Go,6
-154894457,open-policy-agent/gatekeeper,Go,4
+154894457,open-policy-agent/gatekeeper,Go,3
 78678862,ClickHouse/clickhouse-go,Go,6
-362675427,sealerio/sealer,Go,10
+362675427,sealerio/sealer,Go,9
 313628863,external-secrets/external-secrets,Go,10
 442716595,clickvisual/clickvisual,Go,23
 178150311,wolfogre/go-pprof-practice,Go,51

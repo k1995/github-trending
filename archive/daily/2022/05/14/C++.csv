@@ -1,10 +1,10 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,40
-5108051,opencv/opencv,C++,25
+100060912,microsoft/terminal,C++,39
+5108051,opencv/opencv,C++,27
 39840932,google/googletest,C++,111
 168008797,microsoft/calculator,C++,33
 4524181,facebook/folly,C++,5
-108110,mongodb/mongo,C++,9
+108110,mongodb/mongo,C++,6
 65214191,envoyproxy/envoy,C++,6
 65711522,PaddlePaddle/Paddle,C++,9
 191820100,google/mediapipe,C++,14
@@ -12,15 +12,15 @@ id,name,lang,new stars
 1062572,catchorg/Catch2,C++,6
 7056202,fmtlib/fmt,C++,9
 27500243,google/libphonenumber,C++,5
-102692863,onnx/onnx,C++,8
+102692863,onnx/onnx,C++,9
 17391973,Tencent/rapidjson,C++,4
 18348651,OpenRCT2/OpenRCT2,C++,2
 299510783,rui314/mold,C++,10
-15122806,google/benchmark,C++,6
+15122806,google/benchmark,C++,5
 184657328,NVIDIA/TensorRT,C++,6
-99919302,apache/incubator-doris,C++,8
+99919302,apache/incubator-doris,C++,7
 58414589,oneapi-src/oneDNN,C++,6
 178613040,Neargye/magic_enum,C++,6
 456549280,ydb-platform/ydb,C++,16
-392565553,IntelLabs/control-flag,C++,8
-364871330,EdgeTX/edgetx,C++,2
+392565553,IntelLabs/control-flag,C++,9
+364871330,EdgeTX/edgetx,C++,1
