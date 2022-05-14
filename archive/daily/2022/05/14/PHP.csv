@@ -3,7 +3,7 @@ id,name,lang,new stars
 458058,symfony/symfony,PHP,6
 1420053,guzzle/guzzle,PHP,4
 1376664,Seldaek/monolog,PHP,5
-60243197,nextcloud/server,PHP,12
+60243197,nextcloud/server,PHP,16
 448045,sebastianbergmann/phpunit,PHP,1
 1548202,matomo-org/matomo,PHP,8
 2889328,WordPress/WordPress,PHP,6
@@ -14,13 +14,13 @@ id,name,lang,new stars
 2699935,squizlabs/PHP_CodeSniffer,PHP,5
 6660366,dompdf/dompdf,PHP,3
 212659,sebastianbergmann/php-code-coverage,PHP,1
-12166778,googleapis/google-api-php-client,PHP,4
-2179920,woocommerce/woocommerce,PHP,5
+12166778,googleapis/google-api-php-client,PHP,5
+2179920,woocommerce/woocommerce,PHP,4
 330275,twigphp/Twig,PHP,0
 31295421,guzzle/psr7,PHP,0
-60010673,elementor/elementor,PHP,1
+60010673,elementor/elementor,PHP,2
 439861,moodle/moodle,PHP,2
-248372441,laravel-filament/filament,PHP,7
-291805291,laravel/jetstream,PHP,1
+248372441,laravel-filament/filament,PHP,8
+291805291,laravel/jetstream,PHP,2
 1957456,Dolibarr/dolibarr,PHP,3
 184538454,yankovalenko94/Webdev2019,PHP,0
