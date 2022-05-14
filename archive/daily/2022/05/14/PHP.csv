@@ -1,18 +1,18 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,9
-458058,symfony/symfony,PHP,5
+458058,symfony/symfony,PHP,3
 1420053,guzzle/guzzle,PHP,1
 1376664,Seldaek/monolog,PHP,3
-60243197,nextcloud/server,PHP,18
+60243197,nextcloud/server,PHP,15
 448045,sebastianbergmann/phpunit,PHP,2
-1548202,matomo-org/matomo,PHP,7
-2889328,WordPress/WordPress,PHP,5
+1548202,matomo-org/matomo,PHP,6
+2889328,WordPress/WordPress,PHP,10
 1631570,nikic/PHP-Parser,PHP,2
-61490598,PHPOffice/PhpSpreadsheet,PHP,3
+61490598,PHPOffice/PhpSpreadsheet,PHP,2
 10157178,egulias/EmailValidator,PHP,2
-48796179,z-song/laravel-admin,PHP,3
+48796179,z-song/laravel-admin,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,0
-6660366,dompdf/dompdf,PHP,3
+6660366,dompdf/dompdf,PHP,1
 212659,sebastianbergmann/php-code-coverage,PHP,1
 12166778,googleapis/google-api-php-client,PHP,1
 2179920,woocommerce/woocommerce,PHP,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,1
 248372441,laravel-filament/filament,PHP,9
 291805291,laravel/jetstream,PHP,2
-1957456,Dolibarr/dolibarr,PHP,3
+1957456,Dolibarr/dolibarr,PHP,2
 184538454,yankovalenko94/Webdev2019,PHP,0
