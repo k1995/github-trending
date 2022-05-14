@@ -1,12 +1,12 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,8
-458058,symfony/symfony,PHP,5
+7548986,laravel/framework,PHP,7
+458058,symfony/symfony,PHP,4
 1420053,guzzle/guzzle,PHP,4
-1376664,Seldaek/monolog,PHP,5
-60243197,nextcloud/server,PHP,18
+1376664,Seldaek/monolog,PHP,4
+60243197,nextcloud/server,PHP,17
 448045,sebastianbergmann/phpunit,PHP,1
-1548202,matomo-org/matomo,PHP,7
-2889328,WordPress/WordPress,PHP,6
+1548202,matomo-org/matomo,PHP,8
+2889328,WordPress/WordPress,PHP,5
 1631570,nikic/PHP-Parser,PHP,0
 61490598,PHPOffice/PhpSpreadsheet,PHP,7
 10157178,egulias/EmailValidator,PHP,5
@@ -15,7 +15,7 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,3
 212659,sebastianbergmann/php-code-coverage,PHP,1
 12166778,googleapis/google-api-php-client,PHP,5
-2179920,woocommerce/woocommerce,PHP,4
+2179920,woocommerce/woocommerce,PHP,2
 330275,twigphp/Twig,PHP,0
 31295421,guzzle/psr7,PHP,1
 60010673,elementor/elementor,PHP,2

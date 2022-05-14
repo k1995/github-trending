@@ -1,8 +1,8 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
+8514,rails/rails,Ruby,9
 65252,jekyll/jekyll,Ruby,6
-27442967,fastlane/fastlane,Ruby,4
-481872,hashicorp/vagrant,Ruby,4
+27442967,fastlane/fastlane,Ruby,3
+481872,hashicorp/vagrant,Ruby,5
 308770,heartcombo/devise,Ruby,0
 538746,ruby/ruby,Ruby,4
 2203645,CocoaPods/CocoaPods,Ruby,2
@@ -12,7 +12,7 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,4
 812393,ruby-grape/grape,Ruby,0
 15435,Shopify/liquid,Ruby,4
-611921,activeadmin/activeadmin,Ruby,0
+611921,activeadmin/activeadmin,Ruby,1
 47087,carrierwaveuploader/carrierwave,Ruby,0
 2441517,puma/puma,Ruby,3
 6899875,opf/openproject,Ruby,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 138776049,sorbet/sorbet,Ruby,0
 3898922,zammad/zammad,Ruby,2
 200302808,github/view_component,Ruby,2
-10088951,TheOdinProject/theodinproject,Ruby,3
+10088951,TheOdinProject/theodinproject,Ruby,4
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,0
-225463,Shopify/shopify_api,Ruby,0
+225463,Shopify/shopify_api,Ruby,1

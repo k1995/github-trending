@@ -3,7 +3,7 @@ id,name,lang,new stars
 29207621,caddyserver/caddy,Go,65
 11225014,etcd-io/etcd,Go,16
 48003886,tmrts/go-patterns,Go,34
-165041732,go-kratos/kratos,Go,17
+165041732,go-kratos/kratos,Go,16
 233130089,charmbracelet/bubbletea,Go,367
 87617508,casbin/casbin,Go,14
 62921553,rook/rook,Go,11
@@ -18,9 +18,9 @@ id,name,lang,new stars
 281765424,microsoft/CBL-Mariner,Go,6
 154894457,open-policy-agent/gatekeeper,Go,3
 78678862,ClickHouse/clickhouse-go,Go,6
-362675427,sealerio/sealer,Go,9
+362675427,sealerio/sealer,Go,5
 313628863,external-secrets/external-secrets,Go,10
 442716595,clickvisual/clickvisual,Go,23
 178150311,wolfogre/go-pprof-practice,Go,51
 346323211,1340691923/ElasticView,Go,13
-486834885,Misaka-blog/XrayR,Go,9
+486834885,Misaka-blog/XrayR,Go,10
