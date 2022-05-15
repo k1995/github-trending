@@ -1,4 +1,5 @@
 id,name,lang,new stars
+11180687,gohugoio/hugo,Go,26
 48378947,fatedier/frp,Go,33
 136815833,Dreamacro/clash,Go,41
 19205896,restic/restic,Go,4
@@ -6,7 +7,7 @@ id,name,lang,new stars
 52595226,xtaci/kcptun,Go,3
 1380117,getlantern/lantern,Go,5
 291485614,XIU2/CloudflareSpeedTest,Go,28
-248025303,p4gefau1t/trojan-go,Go,5
+248025303,p4gefau1t/trojan-go,Go,6
 403559729,YaoApp/yao,Go,32
 201546443,trustwallet/assets,Go,3
 318972528,flower-corp/rosedb,Go,12
@@ -16,7 +17,7 @@ id,name,lang,new stars
 423466379,V4NSH4J/discord-mass-DM-GO,Go,7
 280658081,v2fly/domain-list-community,Go,8
 430430380,luk4z7/go-concurrency-guide,Go,67
-474070793,SnellerInc/sneller,Go,31
+474070793,SnellerInc/sneller,Go,34
 473981351,bloznelis/typioca,Go,19
 386155002,cloudwego/kitex-examples,Go,2
 489536578,OutlawQAQ/MinerProxy,Go,17
