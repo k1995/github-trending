@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
-65252,jekyll/jekyll,Ruby,11
-481872,hashicorp/vagrant,Ruby,6
-308770,heartcombo/devise,Ruby,2
-538746,ruby/ruby,Ruby,9
-2203645,CocoaPods/CocoaPods,Ruby,0
-202291859,chatwoot/chatwoot,Ruby,4
+8514,rails/rails,Ruby,11
+65252,jekyll/jekyll,Ruby,10
+481872,hashicorp/vagrant,Ruby,4
+308770,heartcombo/devise,Ruby,3
+538746,ruby/ruby,Ruby,7
+2203645,CocoaPods/CocoaPods,Ruby,1
+202291859,chatwoot/chatwoot,Ruby,5
 4095287,rubocop/rubocop,Ruby,1
 1918677,fluent/fluentd,Ruby,1
 96395,faker-ruby/faker,Ruby,1
 812393,ruby-grape/grape,Ruby,1
 15435,Shopify/liquid,Ruby,1
 611921,activeadmin/activeadmin,Ruby,1
-47087,carrierwaveuploader/carrierwave,Ruby,0
+47087,carrierwaveuploader/carrierwave,Ruby,1
 2441517,puma/puma,Ruby,3
 6899875,opf/openproject,Ruby,1
 52316423,luggit/react-native-config,Ruby,1
@@ -21,5 +21,5 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,0
 200302808,github/view_component,Ruby,0
 10088951,TheOdinProject/theodinproject,Ruby,1
-1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,0
+1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,1
 225463,Shopify/shopify_api,Ruby,0
