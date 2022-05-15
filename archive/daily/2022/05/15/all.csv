@@ -1,17 +1,17 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,160
+31792824,flutter/flutter,Dart,170
 172562475,florinpop17/app-ideas,,251
 214587193,supabase/supabase,TypeScript,211
-17620347,dotnet/aspnetcore,C#,52
+17620347,dotnet/aspnetcore,C#,50
 32578467,danielgindi/Charts,Swift,22
-262296122,PaddlePaddle/PaddleOCR,Python,119
+262296122,PaddlePaddle/PaddleOCR,Python,112
 116392709,digitalocean/nginxconfig.io,JavaScript,259
-1390248,saltstack/salt,Python,60
-233130089,charmbracelet/bubbletea,Go,288
+1390248,saltstack/salt,Python,54
+233130089,charmbracelet/bubbletea,Go,235
 136667574,flutter/samples,Dart,99
 83603533,felipefialho/frontend-challenges,,202
 90218953,jojoldu/junior-recruit-scheduler,JavaScript,16
-419347358,PKUFlyingPig/cs-self-learning,HTML,123
+419347358,PKUFlyingPig/cs-self-learning,HTML,112
 190416463,actions/virtual-environments,PowerShell,59
 198350484,microsoft/unilm,Python,69
 253044228,projectdiscovery/nuclei-templates,Python,60
@@ -21,4 +21,4 @@ id,name,lang,new stars
 158107419,terra-money/core,JavaScript,42
 462900266,flutter/pinball,Dart,227
 178150311,wolfogre/go-pprof-practice,Go,30
-422630541,databricks-academy/data-engineering-with-databricks,Python,46
+422630541,databricks-academy/data-engineering-with-databricks,Python,38

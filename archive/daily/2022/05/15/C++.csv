@@ -1,5 +1,5 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,24
+100060912,microsoft/terminal,C++,21
 5108051,opencv/opencv,C++,23
 168008797,microsoft/calculator,C++,16
 4524181,facebook/folly,C++,5
@@ -16,10 +16,10 @@ id,name,lang,new stars
 18348651,OpenRCT2/OpenRCT2,C++,5
 299510783,rui314/mold,C++,5
 15122806,google/benchmark,C++,2
-184657328,NVIDIA/TensorRT,C++,7
-99919302,apache/incubator-doris,C++,3
+184657328,NVIDIA/TensorRT,C++,9
+99919302,apache/incubator-doris,C++,4
 58414589,oneapi-src/oneDNN,C++,1
 178613040,Neargye/magic_enum,C++,4
 456549280,ydb-platform/ydb,C++,3
-392565553,IntelLabs/control-flag,C++,3
+392565553,IntelLabs/control-flag,C++,1
 364871330,EdgeTX/edgetx,C++,0

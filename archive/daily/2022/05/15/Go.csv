@@ -1,20 +1,20 @@
 id,name,lang,new stars
 6838921,prometheus/prometheus,Go,19
 29207621,caddyserver/caddy,Go,24
-11225014,etcd-io/etcd,Go,11
+11225014,etcd-io/etcd,Go,12
 48003886,tmrts/go-patterns,Go,15
 165041732,go-kratos/kratos,Go,15
-233130089,charmbracelet/bubbletea,Go,288
+233130089,charmbracelet/bubbletea,Go,235
 87617508,casbin/casbin,Go,13
 62921553,rook/rook,Go,8
-148545807,kubernetes-sigs/kind,Go,7
+148545807,kubernetes-sigs/kind,Go,6
 120896210,argoproj/argo-cd,Go,10
 27051771,golang/protobuf,Go,2
 95761244,gogf/gf,Go,10
 301830590,benbjohnson/litestream,Go,44
 120519269,runatlantis/atlantis,Go,7
 403559729,YaoApp/yao,Go,24
-93446042,hashicorp/terraform-provider-azurerm,Go,3
+93446042,hashicorp/terraform-provider-azurerm,Go,2
 281765424,microsoft/CBL-Mariner,Go,5
 154894457,open-policy-agent/gatekeeper,Go,6
 78678862,ClickHouse/clickhouse-go,Go,3
