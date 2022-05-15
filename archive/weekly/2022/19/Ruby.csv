@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,62
-53238813,Homebrew/brew,Ruby,75
+8514,rails/rails,Ruby,60
+53238813,Homebrew/brew,Ruby,74
 2203645,CocoaPods/CocoaPods,Ruby,14
 1090311,elastic/logstash,Ruby,21
 3195124,mperham/sidekiq,Ruby,16
-3314,spree/spree,Ruby,9
-4095287,rubocop/rubocop,Ruby,13
-52855516,Homebrew/homebrew-core,Ruby,47
-96395,faker-ruby/faker,Ruby,15
-1725199,github/linguist,Ruby,33
+3314,spree/spree,Ruby,8
+4095287,rubocop/rubocop,Ruby,14
+52855516,Homebrew/homebrew-core,Ruby,46
+96395,faker-ruby/faker,Ruby,14
+1725199,github/linguist,Ruby,32
 361310,teamcapybara/capybara,Ruby,6
-15435,Shopify/liquid,Ruby,17
-108278,chef/chef,Ruby,13
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,52
+15435,Shopify/liquid,Ruby,18
+108278,chef/chef,Ruby,12
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,51
 355893,github/markup,Ruby,6
 16994115,CanCanCommunity/cancancan,Ruby,8
 30337170,rmosolgo/graphql-ruby,Ruby,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 229006,mileszs/wicked_pdf,Ruby,4
 11426474,github/choosealicense.com,Ruby,14
 200302808,github/view_component,Ruby,6
-79618507,fluent/fluentd-kubernetes-daemonset,Ruby,4
+79618507,fluent/fluentd-kubernetes-daemonset,Ruby,5
 1795802,Shopify/money,Ruby,0
