@@ -1,22 +1,23 @@
 id,name,lang,new stars
-52281283,mastodon/mastodon,Ruby,1726
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3867
+52281283,mastodon/mastodon,Ruby,1725
 169677297,vlang/v,V,993
-262296122,PaddlePaddle/PaddleOCR,Python,1951
-3544424,httpie/httpie,Python,11906
-275993885,appsmithorg/appsmith,TypeScript,3046
-299354207,rustdesk/rustdesk,Rust,1216
-234798675,bevyengine/bevy,Rust,952
-479924503,The-Run-Philosophy-Organization/run,,9057
-313330998,bradtraversy/50projects50days,CSS,1026
-355959597,Textualize/textual,Python,1831
-234033679,hehonghui/the-economist-ebooks,CSS,3896
-318341089,facebook/lexical,JavaScript,3721
-217475193,PaddlePaddle/PaddleDetection,Python,775
-3757435,pytube/pytube,Python,1061
-301830590,benbjohnson/litestream,Go,1262
-341714203,openai/DALL-E,Python,758
-478823173,lucidrains/DALLE2-pytorch,Python,3470
-462682958,SebLague/Geographical-Adventures,C#,1536
-462597790,aptos-labs/aptos-core,Rust,1515
-463337778,alembics/disco-diffusion,Jupyter Notebook,1307
+262296122,PaddlePaddle/PaddleOCR,Python,1956
+3544424,httpie/httpie,Python,12284
+107505869,firecracker-microvm/firecracker,Rust,329
+275993885,appsmithorg/appsmith,TypeScript,3051
+299354207,rustdesk/rustdesk,Rust,1235
+479924503,The-Run-Philosophy-Organization/run,,8999
+313330998,bradtraversy/50projects50days,CSS,1029
+280363952,mikecao/umami,JavaScript,735
+355959597,Textualize/textual,Python,1832
+234033679,hehonghui/the-economist-ebooks,CSS,3902
+217475193,PaddlePaddle/PaddleDetection,Python,781
+3757435,pytube/pytube,Python,1051
+341714203,openai/DALL-E,Python,755
+478823173,lucidrains/DALLE2-pytorch,Python,3469
+462682958,SebLague/Geographical-Adventures,C#,1537
+462597790,aptos-labs/aptos-core,Rust,1531
+463337778,alembics/disco-diffusion,Jupyter Notebook,1306
+284134871,flipperdevices/flipperzero-firmware,C,207
 365367120,sunflower-land/sunflower-land,TypeScript,324
