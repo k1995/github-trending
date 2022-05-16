@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,64
-2293158,rapid7/metasploit-framework,Ruby,64
+8514,rails/rails,Ruby,63
+2293158,rapid7/metasploit-framework,Ruby,60
 2203645,CocoaPods/CocoaPods,Ruby,15
-1090311,elastic/logstash,Ruby,22
+1090311,elastic/logstash,Ruby,23
 3195124,mperham/sidekiq,Ruby,16
-4095287,rubocop/rubocop,Ruby,15
+4095287,rubocop/rubocop,Ruby,16
 52855516,Homebrew/homebrew-core,Ruby,48
 1918677,fluent/fluentd,Ruby,21
-96395,faker-ruby/faker,Ruby,11
+96395,faker-ruby/faker,Ruby,12
 1725199,github/linguist,Ruby,30
 361310,teamcapybara/capybara,Ruby,5
 15435,Shopify/liquid,Ruby,23
-108278,chef/chef,Ruby,11
+108278,chef/chef,Ruby,9
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,48
 355893,github/markup,Ruby,8
 96071,rack/rack,Ruby,8
