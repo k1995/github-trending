@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-481872,hashicorp/vagrant,Ruby,6
+8514,rails/rails,Ruby,6
+481872,hashicorp/vagrant,Ruby,4
 308770,heartcombo/devise,Ruby,2
-1090311,elastic/logstash,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,13
+1090311,elastic/logstash,Ruby,1
+202291859,chatwoot/chatwoot,Ruby,15
 3195124,mperham/sidekiq,Ruby,4
-4095287,rubocop/rubocop,Ruby,4
+4095287,rubocop/rubocop,Ruby,3
 88740103,postalserver/postal,Ruby,14
 1918677,fluent/fluentd,Ruby,4
 96395,faker-ruby/faker,Ruby,3
@@ -13,11 +13,11 @@ id,name,lang,new stars
 6529205,varvet/pundit,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,0
 2441517,puma/puma,Ruby,2
-11412473,ankane/searchkick,Ruby,4
+11412473,ankane/searchkick,Ruby,5
 6899875,opf/openproject,Ruby,3
 75785147,rails/webpacker,Ruby,0
-1548802,activerecord-hackery/ransack,Ruby,3
-30985840,solidusio/solidus,Ruby,1
+1548802,activerecord-hackery/ransack,Ruby,2
+30985840,solidusio/solidus,Ruby,2
 1172597,thoughtbot/shoulda-matchers,Ruby,2
 14238949,elastic/elasticsearch-rails,Ruby,0
 34840276,elastic/ansible-elasticsearch,Ruby,0
