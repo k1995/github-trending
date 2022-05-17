@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,24
-22067521,ocornut/imgui,C++,29
-1116542,aria2/aria2,C++,10
+1181927,bitcoin/bitcoin,C++,26
+22067521,ocornut/imgui,C++,46
+1116542,aria2/aria2,C++,9
 67702184,topjohnwu/Magisk,C++,40
 108110,mongodb/mongo,C++,3
 160083795,SerenityOS/serenity,C++,13
-19374812,telegramdesktop/tdesktop,C++,11
-23129458,aseprite/aseprite,C++,16
+19374812,telegramdesktop/tdesktop,C++,10
+23129458,aseprite/aseprite,C++,18
 40892817,ethereum/solidity,C++,18
 3351871,qbittorrent/qBittorrent,C++,9
 2200856,MarlinFirmware/Marlin,C++,5
-186309296,lettier/3d-game-shaders-for-beginners,C++,27
+186309296,lettier/3d-game-shaders-for-beginners,C++,26
 204593825,microsoft/STL,C++,1
 1204412,TrinityCore/TrinityCore,C++,0
 2168780,minetest/minetest,C++,3
@@ -19,5 +19,5 @@ id,name,lang,new stars
 126225160,ValveSoftware/GameNetworkingSockets,C++,17
 85591067,wwmm/easyeffects,C++,6
 436366606,loveBabbar/CodeHelp-DSA-Busted-Series,C++,2
-470730648,vaxerski/Hyprland,C++,16
-441507687,Amanhacker/Aman-Barnwal-Leetcode-Solutions,C++,42
+470730648,vaxerski/Hyprland,C++,18
+441507687,Amanhacker/Aman-Barnwal-Leetcode-Solutions,C++,40
