@@ -1,18 +1,19 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,13
+49609581,PowerShell/PowerShell,C#,11
+199570071,2dust/v2rayN,C#,37
 17620347,dotnet/aspnetcore,C#,12
-161012019,jellyfin/jellyfin,C#,101
-14964475,AvaloniaUI/Avalonia,C#,18
+161012019,jellyfin/jellyfin,C#,65
+14964475,AvaloniaUI/Avalonia,C#,20
 193681686,netchx/netch,C#,11
-16157746,dotnet/efcore,C#,4
-22456440,ppy/osu,C#,12
+16157746,dotnet/efcore,C#,3
+22456440,ppy/osu,C#,8
 3476845,JamesNK/Newtonsoft.Json,C#,8
-75990888,dotnet/csharplang,C#,5
-64753043,Perfare/AssetStudio,C#,14
-321682465,BeyondDimension/SteamTools,C#,41
+75990888,dotnet/csharplang,C#,6
+64753043,Perfare/AssetStudio,C#,9
+321682465,BeyondDimension/SteamTools,C#,40
 8835057,xupefei/Locale-Emulator,C#,5
 27251463,QuantConnect/Lean,C#,5
-324473895,leiurayer/downkyi,C#,39
+324473895,leiurayer/downkyi,C#,31
 31335300,PrismLibrary/Prism,C#,1
 157858597,Tyrrrz/YoutubeDownloader,C#,6
 40171496,discord-net/Discord.Net,C#,3
@@ -21,4 +22,4 @@ id,name,lang,new stars
 92001425,space-wizards/space-station-14,C#,2
 436286849,RayWangQvQ/BiliBiliToolPro,C#,9
 345354985,Eisbison/TheOtherRoles,C#,6
-346786715,MoralisWeb3/youtube-tutorials,C#,2
+346786715,MoralisWeb3/youtube-tutorials,C#,3
