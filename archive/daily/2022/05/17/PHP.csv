@@ -1,10 +1,10 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,13
+3482588,danielmiessler/SecLists,PHP,14
 458058,symfony/symfony,PHP,9
-1864363,composer/composer,PHP,5
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,2
-60243197,nextcloud/server,PHP,16
-448045,sebastianbergmann/phpunit,PHP,3
+1864363,composer/composer,PHP,4
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,3
+60243197,nextcloud/server,PHP,18
+448045,sebastianbergmann/phpunit,PHP,4
 82238168,monicahq/monica,PHP,1
 1631570,nikic/PHP-Parser,PHP,4
 47495360,koel/koel,PHP,4
@@ -13,12 +13,12 @@ id,name,lang,new stars
 42261096,fuzzdb-project/fuzzdb,PHP,5
 14346979,snipe/snipe-it,PHP,10
 11935508,RSS-Bridge/rss-bridge,PHP,1
-159606650,hyperf/hyperf,PHP,6
+159606650,hyperf/hyperf,PHP,7
 60010673,elementor/elementor,PHP,3
-6322699,FreshRSS/FreshRSS,PHP,4
-119047018,linuxserver/Heimdall,PHP,11
+6322699,FreshRSS/FreshRSS,PHP,3
+119047018,linuxserver/Heimdall,PHP,10
 41463886,codeigniter4/CodeIgniter4,PHP,3
-47508644,pterodactyl/panel,PHP,6
+47508644,pterodactyl/panel,PHP,7
 404921727,luolongfei/freenom,PHP,7
 36526302,pentestmonkey/php-reverse-shell,PHP,0
 333209627,stripe-samples/accept-a-payment,PHP,1
