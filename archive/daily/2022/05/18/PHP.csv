@@ -1,14 +1,14 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,10
-3482588,danielmiessler/SecLists,PHP,23
+3482588,danielmiessler/SecLists,PHP,27
 458058,symfony/symfony,PHP,8
 448045,sebastianbergmann/phpunit,PHP,3
-2253830,PHPMailer/PHPMailer,PHP,4
+2253830,PHPMailer/PHPMailer,PHP,5
 12615154,barryvdh/laravel-debugbar,PHP,5
 42480275,spatie/laravel-permission,PHP,3
 2884111,magento/magento2,PHP,0
 6936773,php-fig/log,PHP,5
-2699935,squizlabs/PHP_CodeSniffer,PHP,2
+2699935,squizlabs/PHP_CodeSniffer,PHP,3
 597887,doctrine/orm,PHP,4
 1398630,symfony/console,PHP,5
 677464,doctrine/dbal,PHP,4
