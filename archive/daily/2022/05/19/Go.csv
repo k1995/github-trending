@@ -1,18 +1,18 @@
 id,name,lang,new stars
-23096959,golang/go,Go,48
+23096959,golang/go,Go,52
 20904437,gin-gonic/gin,Go,57
-42408804,traefik/traefik,Go,62
+42408804,traefik/traefik,Go,61
 15452919,ethereum/go-ethereum,Go,25
 17728164,hashicorp/terraform,Go,23
-74175805,istio/istio,Go,12
-12574344,spf13/cobra,Go,29
+74175805,istio/istio,Go,11
+12574344,spf13/cobra,Go,25
 16563587,cockroachdb/cockroach,Go,22
-50709152,kataras/iris,Go,3
+50709152,kataras/iris,Go,1
 234231371,gofiber/fiber,Go,16
 192632000,dapr/dapr,Go,22
 109145553,containers/podman,Go,19
-75785240,authelia/authelia,Go,24
-180687624,aquasecurity/trivy,Go,21
+75785240,authelia/authelia,Go,22
+180687624,aquasecurity/trivy,Go,25
 10270722,google/go-github,Go,6
 26726495,go-swagger/go-swagger,Go,6
 93928882,swaggo/swag,Go,11
@@ -21,6 +21,6 @@ id,name,lang,new stars
 228192593,hakluke/hakrawler,Go,16
 91074692,zalando/postgres-operator,Go,1
 173009358,deepmap/oapi-codegen,Go,4
-330616364,evrone/go-clean-template,Go,185
-480634883,newpanjing/gofound,Go,94
+330616364,evrone/go-clean-template,Go,184
+480634883,newpanjing/gofound,Go,93
 386155002,cloudwego/kitex-examples,Go,16

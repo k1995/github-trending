@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,60
-7569578,discourse/discourse,Ruby,67
+7569578,discourse/discourse,Ruby,68
 2293158,rapid7/metasploit-framework,Ruby,71
 73648678,forem/forem,Ruby,44
-2203645,CocoaPods/CocoaPods,Ruby,14
+2203645,CocoaPods/CocoaPods,Ruby,15
 1090311,elastic/logstash,Ruby,12
 4095287,rubocop/rubocop,Ruby,18
-3314,spree/spree,Ruby,10
-106995,sinatra/sinatra,Ruby,11
+3314,spree/spree,Ruby,11
+106995,sinatra/sinatra,Ruby,12
 88740103,postalserver/postal,Ruby,49
-52855516,Homebrew/homebrew-core,Ruby,42
+52855516,Homebrew/homebrew-core,Ruby,40
 1918677,fluent/fluentd,Ruby,20
 96395,faker-ruby/faker,Ruby,16
 15435,Shopify/liquid,Ruby,19
@@ -21,6 +21,6 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,10
 10088951,TheOdinProject/theodinproject,Ruby,15
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,8
-1795802,Shopify/money,Ruby,1
+1795802,Shopify/money,Ruby,2
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
 347104426,learn-co-curriculum/phase-3-nested-hash-iteration,Ruby,1
