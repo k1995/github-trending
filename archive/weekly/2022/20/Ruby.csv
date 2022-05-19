@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,58
-7569578,discourse/discourse,Ruby,65
-2293158,rapid7/metasploit-framework,Ruby,72
+8514,rails/rails,Ruby,60
+7569578,discourse/discourse,Ruby,64
+2293158,rapid7/metasploit-framework,Ruby,71
 73648678,forem/forem,Ruby,44
-2203645,CocoaPods/CocoaPods,Ruby,16
-1090311,elastic/logstash,Ruby,13
+2203645,CocoaPods/CocoaPods,Ruby,14
+1090311,elastic/logstash,Ruby,14
 4095287,rubocop/rubocop,Ruby,18
-3314,spree/spree,Ruby,12
-106995,sinatra/sinatra,Ruby,12
-88740103,postalserver/postal,Ruby,48
-52855516,Homebrew/homebrew-core,Ruby,38
+3314,spree/spree,Ruby,10
+106995,sinatra/sinatra,Ruby,10
+88740103,postalserver/postal,Ruby,50
+52855516,Homebrew/homebrew-core,Ruby,35
 1918677,fluent/fluentd,Ruby,20
 96395,faker-ruby/faker,Ruby,15
 15435,Shopify/liquid,Ruby,19
@@ -20,7 +20,7 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,5
 200302808,github/view_component,Ruby,11
 10088951,TheOdinProject/theodinproject,Ruby,13
-79618507,fluent/fluentd-kubernetes-daemonset,Ruby,8
+79618507,fluent/fluentd-kubernetes-daemonset,Ruby,9
 1795802,Shopify/money,Ruby,2
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
 347104426,learn-co-curriculum/phase-3-nested-hash-iteration,Ruby,1

@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1864363,composer/composer,PHP,10
+1864363,composer/composer,PHP,12
 448045,sebastianbergmann/phpunit,PHP,6
-1631570,nikic/PHP-Parser,PHP,7
-12615154,barryvdh/laravel-debugbar,PHP,9
+1631570,nikic/PHP-Parser,PHP,6
+12615154,barryvdh/laravel-debugbar,PHP,7
 597887,doctrine/orm,PHP,3
 36597039,phpDocumentor/ReflectionCommon,PHP,5
 2179920,woocommerce/woocommerce,PHP,0
@@ -11,16 +11,16 @@ id,name,lang,new stars
 24498056,symfony/var-dumper,PHP,5
 6763587,PrestaShop/PrestaShop,PHP,0
 7577142,doctrine/annotations,PHP,3
-14346979,snipe/snipe-it,PHP,7
+14346979,snipe/snipe-it,PHP,4
 97311017,rectorphp/rector,PHP,3
 1398636,symfony/dependency-injection,PHP,3
 1381983,symfony/yaml,PHP,4
 350018351,laravel/octane,PHP,1
-80249302,craftcms/cms,PHP,4
+80249302,craftcms/cms,PHP,3
 1398663,symfony/serializer,PHP,3
 131995661,shopware/platform,PHP,0
-404921727,luolongfei/freenom,PHP,5
-359687154,DenverCoder1/readme-typing-svg,PHP,5
-492530920,stokry/wp-sqlite,PHP,35
-137579092,aaemnnosttv/wp-sqlite-db,PHP,4
-490765883,stephenjude/laravel-wallet,PHP,28
+404921727,luolongfei/freenom,PHP,10
+359687154,DenverCoder1/readme-typing-svg,PHP,6
+492530920,stokry/wp-sqlite,PHP,31
+137579092,aaemnnosttv/wp-sqlite-db,PHP,3
+490765883,stephenjude/laravel-wallet,PHP,22
