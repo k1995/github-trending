@@ -1,8 +1,8 @@
 id,name,lang,new stars
-22790488,iluwatar/java-design-patterns,Java,25
-44662669,dbeaver/dbeaver,Java,29
+22790488,iluwatar/java-design-patterns,Java,29
+44662669,dbeaver/dbeaver,Java,30
 137451403,alibaba/nacos,Java,20
-163387337,seata/seata,Java,11
+163387337,seata/seata,Java,10
 49876476,apache/shardingsphere,Java,2
 75643096,material-components/material-components-android,Java,6
 85371262,williamfiset/Algorithms,Java,12
@@ -10,17 +10,17 @@ id,name,lang,new stars
 6358188,apache/druid,Java,9
 75277003,thingsboard/thingsboard,Java,5
 117965972,alibaba/DataX,Java,11
-33166041,react-native-video/react-native-video,Java,1
-46398090,datahub-project/datahub,Java,8
+33166041,react-native-video/react-native-video,Java,0
+46398090,datahub-project/datahub,Java,7
 13536393,alibaba/transmittable-thread-local,Java,12
 53330030,quartz-scheduler/quartz,Java,2
 206444,apache/hive,Java,0
 222578036,WeiYe-Jing/datax-web,Java,6
 204388092,pig-mesh/pig,Java,14
-158256479,apache/iceberg,Java,4
+158256479,apache/iceberg,Java,5
 38829639,fabric8io/kubernetes-client,Java,1
-10416648,bcgit/bc-java,Java,3
-2928948,Azure/azure-sdk-for-java,Java,4
-367217461,lilishop/lilishop,Java,25
+10416648,bcgit/bc-java,Java,2
+2928948,Azure/azure-sdk-for-java,Java,5
+367217461,lilishop/lilishop,Java,24
 235013588,in28minutes/devops-master-class,Java,3
 492562714,LeadCoding/FrazArmy,Java,2
