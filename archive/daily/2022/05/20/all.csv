@@ -1,26 +1,26 @@
 id,name,lang,new stars
-11730342,vuejs/vue,TypeScript,54
-54346799,public-apis/public-apis,Python,168
+11730342,vuejs/vue,TypeScript,105
+54346799,public-apis/public-apis,Python,157
 19415064,ossu/computer-science,,162
 20904437,gin-gonic/gin,Go,122
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,232
-257485422,vitejs/vite,TypeScript,61
-7613257,SeleniumHQ/selenium,Java,8
-299354207,rustdesk/rustdesk,Rust,128
-307489284,remix-run/remix,TypeScript,79
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,409
+257485422,vitejs/vite,TypeScript,104
+7613257,SeleniumHQ/selenium,Java,109
+299354207,rustdesk/rustdesk,Rust,194
+307489284,remix-run/remix,TypeScript,109
 479924503,The-Run-Philosophy-Organization/run,,156
-1062572,catchorg/Catch2,C++,32
-263556058,521xueweihan/GitHub520,Python,239
+1062572,catchorg/Catch2,C++,72
 344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,85
-52728517,programthink/zhao,Python,16
-468515960,CodeEditApp/CodeEdit,Swift,297
-29445122,skyline75489/what-happens-when-zh_CN,,65
-32887098,googleapis/googleapis,Starlark,6
-486160485,BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset,Python,48
-330616364,evrone/go-clean-template,Go,232
-448941447,simonbs/Runestone,Swift,98
+263556058,521xueweihan/GitHub520,Python,192
+52728517,programthink/zhao,Python,43
+468515960,CodeEditApp/CodeEdit,Swift,380
+29445122,skyline75489/what-happens-when-zh_CN,,110
+32887098,googleapis/googleapis,Starlark,58
+330616364,evrone/go-clean-template,Go,220
+486160485,BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset,Python,69
+448941447,simonbs/Runestone,Swift,241
 57972074,sanni/cartreader,C++,12
-489265239,chainfeeds/RSSAggregatorforWeb3,Python,115
-493348763,BohemiaInteractive/Arma-Reforger-Samples,Standard ML,23
+489265239,chainfeeds/RSSAggregatorforWeb3,Python,149
+493348763,BohemiaInteractive/Arma-Reforger-Samples,Standard ML,53
 493017749,StunlockStudios/vrising-dedicated-server-instructions,,12
-484584638,microsoft/GlobalMLBuildingFootprints,,63
+484584638,microsoft/GlobalMLBuildingFootprints,,89

@@ -1,25 +1,25 @@
 id,name,lang,new stars
-52281283,mastodon/mastodon,Ruby,1754
-39840932,google/googletest,C++,800
+52281283,mastodon/mastodon,Ruby,1748
+39840932,google/googletest,C++,805
 28751632,0xAX/linux-insides,Python,1455
-212639071,bregman-arie/devops-exercises,Python,2049
+212639071,bregman-arie/devops-exercises,Python,2051
 262296122,PaddlePaddle/PaddleOCR,Python,2039
-275993885,appsmithorg/appsmith,TypeScript,3052
-299354207,rustdesk/rustdesk,Rust,1649
-482152820,geekan/HowToLiveLonger,,11432
-479924503,The-Run-Philosophy-Organization/run,,7162
-47409672,hashcat/hashcat,C,2096
-120710644,Vonng/ddia,Python,1424
-136667574,flutter/samples,Dart,714
-355959597,Textualize/textual,Python,2025
-234033679,hehonghui/the-economist-ebooks,CSS,3605
-479491550,bloomberg/memray,Python,8272
-301830590,benbjohnson/litestream,Go,1424
+275993885,appsmithorg/appsmith,TypeScript,3058
+299354207,rustdesk/rustdesk,Rust,1687
+482152820,geekan/HowToLiveLonger,,11322
+479924503,The-Run-Philosophy-Organization/run,,7169
+47409672,hashcat/hashcat,C,2082
+120710644,Vonng/ddia,Python,1426
+136667574,flutter/samples,Dart,716
+355959597,Textualize/textual,Python,2032
+234033679,hehonghui/the-economist-ebooks,CSS,3582
+479491550,bloomberg/memray,Python,8269
+301830590,benbjohnson/litestream,Go,1426
 341714203,openai/DALL-E,Python,694
-478823173,lucidrains/DALLE2-pytorch,Python,3302
-336274588,PaddlePaddle/PaddleNLP,Python,944
-419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,763
-462597790,aptos-labs/aptos-core,Rust,1396
-463337778,alembics/disco-diffusion,Jupyter Notebook,1183
-284134871,flipperdevices/flipperzero-firmware,C,260
+478823173,lucidrains/DALLE2-pytorch,Python,3306
+336274588,PaddlePaddle/PaddleNLP,Python,945
+419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,768
+462597790,aptos-labs/aptos-core,Rust,1376
+463337778,alembics/disco-diffusion,Jupyter Notebook,1182
+284134871,flipperdevices/flipperzero-firmware,C,262
 365367120,sunflower-land/sunflower-land,TypeScript,325
