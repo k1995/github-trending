@@ -1,11 +1,11 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,10
-27442967,fastlane/fastlane,Ruby,5
+27442967,fastlane/fastlane,Ruby,4
 481872,hashicorp/vagrant,Ruby,6
 1090311,elastic/logstash,Ruby,1
 4095287,rubocop/rubocop,Ruby,4
 106995,sinatra/sinatra,Ruby,1
-1157388,tmuxinator/tmuxinator,Ruby,6
+1157388,tmuxinator/tmuxinator,Ruby,4
 52855516,Homebrew/homebrew-core,Ruby,1
 1918677,fluent/fluentd,Ruby,3
 96395,faker-ruby/faker,Ruby,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 229006,mileszs/wicked_pdf,Ruby,1
 200302808,github/view_component,Ruby,1
 12357002,ondrejbartas/sidekiq-cron,Ruby,2
-20343475,googleapis/google-cloud-ruby,Ruby,0
-225463,Shopify/shopify_api,Ruby,1
+20343475,googleapis/google-cloud-ruby,Ruby,1
+225463,Shopify/shopify_api,Ruby,2
 66497320,DataDog/dd-trace-rb,Ruby,0

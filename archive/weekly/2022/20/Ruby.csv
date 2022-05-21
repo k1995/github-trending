@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,58
-65252,jekyll/jekyll,Ruby,65
-2293158,rapid7/metasploit-framework,Ruby,76
+8514,rails/rails,Ruby,57
+65252,jekyll/jekyll,Ruby,64
+2293158,rapid7/metasploit-framework,Ruby,74
 308770,heartcombo/devise,Ruby,15
-73648678,forem/forem,Ruby,50
+73648678,forem/forem,Ruby,51
 1090311,elastic/logstash,Ruby,15
-202291859,chatwoot/chatwoot,Ruby,55
+202291859,chatwoot/chatwoot,Ruby,53
 3314,spree/spree,Ruby,13
 88740103,postalserver/postal,Ruby,49
-52855516,Homebrew/homebrew-core,Ruby,35
+52855516,Homebrew/homebrew-core,Ruby,34
 1918677,fluent/fluentd,Ruby,23
 96395,faker-ruby/faker,Ruby,13
 361310,teamcapybara/capybara,Ruby,6
@@ -18,7 +18,7 @@ id,name,lang,new stars
 6768710,redmine/redmine,Ruby,9
 1172597,thoughtbot/shoulda-matchers,Ruby,3
 103766152,github/explore,Ruby,21
-11426474,github/choosealicense.com,Ruby,13
+11426474,github/choosealicense.com,Ruby,12
 200302808,github/view_component,Ruby,13
 66497320,DataDog/dd-trace-rb,Ruby,1
 212272090,CMSgov/price-transparency-guide,Ruby,1
