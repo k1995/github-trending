@@ -1,5 +1,5 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,484
+20904437,gin-gonic/gin,Go,495
 15452919,ethereum/go-ethereum,Go,156
 72495579,go-gitea/gitea,Go,206
 136815833,Dreamacro/clash,Go,305
@@ -12,7 +12,7 @@ id,name,lang,new stars
 48714685,open-policy-agent/opa,Go,31
 301830590,benbjohnson/litestream,Go,377
 281694167,Mrs4s/go-cqhttp,Go,264
-29778781,slack-go/slack,Go,18
+29778781,slack-go/slack,Go,17
 63882194,projectcalico/calico,Go,35
 93446042,hashicorp/terraform-provider-azurerm,Go,22
 258469100,fluxcd/flux2,Go,74
@@ -21,6 +21,6 @@ id,name,lang,new stars
 330616364,evrone/go-clean-template,Go,1228
 155368246,elastic/cloud-on-k8s,Go,17
 440220648,Mikaelemmmm/go-zero-looklook,Go,79
-430430380,luk4z7/go-concurrency-guide,Go,676
+430430380,luk4z7/go-concurrency-guide,Go,664
 480634883,newpanjing/gofound,Go,554
 304841810,osmosis-labs/osmosis,Go,13

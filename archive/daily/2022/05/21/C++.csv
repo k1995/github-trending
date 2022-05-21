@@ -1,13 +1,13 @@
 id,name,lang,new stars
-65600975,pytorch/pytorch,C++,30
+65600975,pytorch/pytorch,C++,26
 27729880,grpc/grpc,C++,13
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,8
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,10
 60246359,ClickHouse/ClickHouse,C++,11
 65214191,envoyproxy/envoy,C++,5
 65711522,PaddlePaddle/Paddle,C++,7
 40892817,ethereum/solidity,C++,18
 1062572,catchorg/Catch2,C++,67
-143455116,google/filament,C++,10
+143455116,google/filament,C++,11
 283410102,sogou/workflow,C++,12
 1204412,TrinityCore/TrinityCore,C++,0
 7512484,ArduPilot/ardupilot,C++,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 402945349,StarRocks/starrocks,C++,8
 57972074,sanni/cartreader,C++,49
 328447750,anhkgg/SuperRDP,C++,35
-167499157,pingcap/tiflash,C++,1
+167499157,pingcap/tiflash,C++,2
 446170987,Seneca-244200/OOP-Workshops,C++,1
-488566549,SysSec-KAIST/sigover_injector,C++,3
+488566549,SysSec-KAIST/sigover_injector,C++,5
 493419506,HadesW/mhy_exp,C++,7
