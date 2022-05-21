@@ -1,7 +1,7 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,57
 1903522,php/php-src,C,4
-1357796,emscripten-core/emscripten,C,7
+1357796,emscripten-core/emscripten,C,6
 184909163,koekeishiya/yabai,C,10
 613829,openresty/lua-nginx-module,C,4
 13836499,raysan5/raylib,C,10
@@ -10,17 +10,17 @@ id,name,lang,new stars
 47057247,Wind4/vlmcsd,C,4
 5870069,edenhill/librdkafka,C,3
 101866073,alibaba/AliOS-Things,C,3
-58132544,RediSearch/RediSearch,C,3
+58132544,RediSearch/RediSearch,C,2
 40556106,wazuh/wazuh,C,2
 2359378,madler/zlib,C,4
-40306512,LuaJIT/LuaJIT,C,4
+40306512,LuaJIT/LuaJIT,C,3
 34807561,nanopb/nanopb,C,2
 6860771,hathach/tinyusb,C,2
 284134871,flipperdevices/flipperzero-firmware,C,9
 241270996,mborgerson/xemu,C,3
 448941447,simonbs/Runestone,Swift,213
-473137633,cilium/tetragon,C,77
-114296710,ValveSoftware/wine,C,8
+473137633,cilium/tetragon,C,75
+114296710,ValveSoftware/wine,C,6
 51990771,ARM-software/CMSIS_5,C,1
 53432472,Azure/sonic-buildimage,C,0
 493394197,jovanlanik/gtklock,C,6

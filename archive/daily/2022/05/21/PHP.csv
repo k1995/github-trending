@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,10
+1863329,laravel/laravel,PHP,11
 458058,symfony/symfony,PHP,12
 2579314,fzaninotto/Faker,PHP,0
 1420053,guzzle/guzzle,PHP,2
@@ -16,10 +16,10 @@ id,name,lang,new stars
 677464,doctrine/dbal,PHP,2
 2179920,woocommerce/woocommerce,PHP,2
 14346979,snipe/snipe-it,PHP,2
-97311017,rectorphp/rector,PHP,3
+97311017,rectorphp/rector,PHP,2
 76064827,mailcow/mailcow-dockerized,PHP,6
 576099,doctrine/migrations,PHP,3
-248372441,laravel-filament/filament,PHP,6
-42622303,JosephSilber/bouncer,PHP,36
+248372441,laravel-filament/filament,PHP,7
+42622303,JosephSilber/bouncer,PHP,31
 57463067,AzuraCast/AzuraCast,PHP,2
-230895883,munafio/chatify,PHP,23
+230895883,munafio/chatify,PHP,24
