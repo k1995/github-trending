@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,13
-7548986,laravel/framework,PHP,11
-458058,symfony/symfony,PHP,9
+1863329,laravel/laravel,PHP,16
+7548986,laravel/framework,PHP,7
+458058,symfony/symfony,PHP,8
 12615154,barryvdh/laravel-debugbar,PHP,6
-2884111,magento/magento2,PHP,1
+2884111,magento/magento2,PHP,6
 2699935,squizlabs/PHP_CodeSniffer,PHP,6
 18673522,dingo/api,PHP,0
-6660366,dompdf/dompdf,PHP,1
+6660366,dompdf/dompdf,PHP,2
 2179920,woocommerce/woocommerce,PHP,2
 28257573,flarum/framework,PHP,2
 74386167,vimeo/psalm,PHP,1
@@ -15,11 +15,11 @@ id,name,lang,new stars
 248372441,laravel-filament/filament,PHP,7
 38200433,jeroennoten/Laravel-AdminLTE,PHP,3
 1953386,stripe/stripe-php,PHP,2
-42622303,JosephSilber/bouncer,PHP,15
-69691727,pmmp/PocketMine-MP,PHP,2
+42622303,JosephSilber/bouncer,PHP,41
+69691727,pmmp/PocketMine-MP,PHP,4
 2686502,pimcore/pimcore,PHP,1
 3193843,drush-ops/drush,PHP,0
 131995661,shopware/platform,PHP,6
 299514,twilio/twilio-php,PHP,1
-29745084,Leantime/leantime,PHP,5
-493550477,FOSSBilling/FOSSBilling,PHP,6
+29745084,Leantime/leantime,PHP,4
+493550477,FOSSBilling/FOSSBilling,PHP,7

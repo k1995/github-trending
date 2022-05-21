@@ -1,18 +1,18 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,40
-20904437,gin-gonic/gin,Go,135
-11225014,etcd-io/etcd,Go,11
-29261473,minio/minio,Go,29
-17728164,hashicorp/terraform,Go,23
-31288958,hashicorp/vault,Go,10
+20904437,gin-gonic/gin,Go,115
+11225014,etcd-io/etcd,Go,10
+29261473,minio/minio,Go,36
+17728164,hashicorp/terraform,Go,29
+31288958,hashicorp/vault,Go,8
 11393110,urfave/cli,Go,32
-54400687,grafana/k6,Go,22
+54400687,grafana/k6,Go,19
 52034309,uber-go/zap,Go,4
-180687624,aquasecurity/trivy,Go,17
-33258973,influxdata/telegraf,Go,6
+180687624,aquasecurity/trivy,Go,23
+33258973,influxdata/telegraf,Go,3
 191655189,ent/ent,Go,12
 434218673,zinclabs/zinc,Go,24
-413918947,vercel/turborepo,Go,24
+413918947,vercel/turborepo,Go,20
 68964263,prometheus-operator/prometheus-operator,Go,37
 175405157,JanDeDobbeleer/oh-my-posh,Go,27
 222824662,dagger/dagger,Go,8
@@ -22,5 +22,5 @@ id,name,lang,new stars
 330616364,evrone/go-clean-template,Go,214
 188836864,ledgerwatch/erigon,Go,3
 238797860,ethereum-optimism/optimism,Go,7
-480634883,newpanjing/gofound,Go,17
+480634883,newpanjing/gofound,Go,28
 475208896,sethvargo/ratchet,Go,60
