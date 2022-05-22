@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,246
-53238813,Homebrew/brew,Ruby,379
+8514,rails/rails,Ruby,249
 52281283,mastodon/mastodon,Ruby,1746
+308770,heartcombo/devise,Ruby,73
 2203645,CocoaPods/CocoaPods,Ruby,56
-911765,diaspora/diaspora,Ruby,56
-202291859,chatwoot/chatwoot,Ruby,217
+911765,diaspora/diaspora,Ruby,57
 3314,spree/spree,Ruby,42
 106995,sinatra/sinatra,Ruby,34
 88740103,postalserver/postal,Ruby,138
+52855516,Homebrew/homebrew-core,Ruby,162
 96395,faker-ruby/faker,Ruby,65
 15435,Shopify/liquid,Ruby,91
 355893,github/markup,Ruby,34
@@ -17,10 +17,10 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,49
 11426474,github/choosealicense.com,Ruby,56
 200302808,github/view_component,Ruby,58
+502760,danbooru/danbooru,Ruby,41
+17228890,Shopify/shipit-engine,Ruby,13
 14159669,Homebrew/homebrew-cask-versions,Ruby,17
-225463,Shopify/shopify_api,Ruby,12
 419827947,joemasilotti/railsdevs.com,Ruby,43
 66497320,DataDog/dd-trace-rb,Ruby,8
 77154536,mercadolibre/mobile-dependencies_whitelist,Ruby,1
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,7
-95896046,stone-payments/ansible-winlogbeat,Ruby,1
