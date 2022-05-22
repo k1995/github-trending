@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,17
+1863329,laravel/laravel,PHP,20
 7548986,laravel/framework,PHP,9
 458058,symfony/symfony,PHP,6
 12615154,barryvdh/laravel-debugbar,PHP,5
@@ -12,7 +12,7 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,0
 3817881,zircote/swagger-php,PHP,0
 576099,doctrine/migrations,PHP,2
-248372441,laravel-filament/filament,PHP,6
+248372441,laravel-filament/filament,PHP,5
 38200433,jeroennoten/Laravel-AdminLTE,PHP,1
 1953386,stripe/stripe-php,PHP,2
 42622303,JosephSilber/bouncer,PHP,12
