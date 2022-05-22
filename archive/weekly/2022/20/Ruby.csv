@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,62
-2293158,rapid7/metasploit-framework,Ruby,80
+8514,rails/rails,Ruby,67
+2293158,rapid7/metasploit-framework,Ruby,83
 308770,heartcombo/devise,Ruby,16
 1090311,elastic/logstash,Ruby,17
-4095287,rubocop/rubocop,Ruby,23
+4095287,rubocop/rubocop,Ruby,22
 3314,spree/spree,Ruby,16
-88740103,postalserver/postal,Ruby,49
+88740103,postalserver/postal,Ruby,50
 1918677,fluent/fluentd,Ruby,20
 96395,faker-ruby/faker,Ruby,15
 361310,teamcapybara/capybara,Ruby,8
@@ -15,9 +15,9 @@ id,name,lang,new stars
 355893,github/markup,Ruby,15
 1548802,activerecord-hackery/ransack,Ruby,10
 1172597,thoughtbot/shoulda-matchers,Ruby,3
-103766152,github/explore,Ruby,19
-11426474,github/choosealicense.com,Ruby,11
-200302808,github/view_component,Ruby,18
+103766152,github/explore,Ruby,18
+11426474,github/choosealicense.com,Ruby,12
+200302808,github/view_component,Ruby,19
 34840276,elastic/ansible-elasticsearch,Ruby,2
 419827947,joemasilotti/railsdevs.com,Ruby,5
 66497320,DataDog/dd-trace-rb,Ruby,1
