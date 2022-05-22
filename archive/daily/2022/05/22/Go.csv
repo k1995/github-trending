@@ -1,12 +1,12 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,51
 29207621,caddyserver/caddy,Go,34
-41912791,v2ray/v2ray-core,Go,3
-15452919,ethereum/go-ethereum,Go,15
+41912791,v2ray/v2ray-core,Go,4
+15452919,ethereum/go-ethereum,Go,16
 18369373,spf13/viper,Go,9
 311315731,XTLS/Xray-core,Go,11
 252813491,projectdiscovery/nuclei,Go,9
-434218673,zinclabs/zinc,Go,29
+434218673,zinclabs/zinc,Go,27
 67382094,Jguer/yay,Go,8
 114379163,rivo/tview,Go,6
 172292744,panjf2000/gnet,Go,9
@@ -20,7 +20,7 @@ id,name,lang,new stars
 334215717,gnolang/gno,Go,1
 481051865,robGoods/sams,Go,4
 463027648,zan8in/afrog,Go,6
-475208896,sethvargo/ratchet,Go,113
+475208896,sethvargo/ratchet,Go,59
 481648663,sari3l/sams_helper,Go,6
 493491173,nathants/libaws,Go,24
 478159789,haoxie666/HxMinerProxy,Go,11
