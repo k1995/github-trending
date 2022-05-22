@@ -1,10 +1,10 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,543
-15452919,ethereum/go-ethereum,Go,155
+15452919,ethereum/go-ethereum,Go,157
 72495579,go-gitea/gitea,Go,204
 43723161,helm/helm,Go,70
 54400687,grafana/k6,Go,103
-27729907,grpc/grpc-go,Go,75
+27729907,grpc/grpc-go,Go,74
 7083242,go-sql-driver/mysql,Go,49
 48109239,cilium/cilium,Go,132
 26639347,OJ/gobuster,Go,47
@@ -15,12 +15,12 @@ id,name,lang,new stars
 29778781,slack-go/slack,Go,21
 63882194,projectcalico/calico,Go,36
 93446042,hashicorp/terraform-provider-azurerm,Go,20
-299832860,livekit/livekit,Go,689
-330616364,evrone/go-clean-template,Go,1331
+299832860,livekit/livekit,Go,721
+330616364,evrone/go-clean-template,Go,1364
 155368246,elastic/cloud-on-k8s,Go,18
 440220648,Mikaelemmmm/go-zero-looklook,Go,82
-430430380,luk4z7/go-concurrency-guide,Go,615
+430430380,luk4z7/go-concurrency-guide,Go,614
 480634883,newpanjing/gofound,Go,551
 304841810,osmosis-labs/osmosis,Go,15
 346323211,1340691923/ElasticView,Go,128
-489536578,OutlawQAQ/MinerProxy,Go,129
+489536578,OutlawQAQ/MinerProxy,Go,130

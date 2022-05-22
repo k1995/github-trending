@@ -1,17 +1,17 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,58
 65252,jekyll/jekyll,Ruby,61
-2293158,rapid7/metasploit-framework,Ruby,82
+2293158,rapid7/metasploit-framework,Ruby,83
 308770,heartcombo/devise,Ruby,17
-73648678,forem/forem,Ruby,50
+73648678,forem/forem,Ruby,51
 1090311,elastic/logstash,Ruby,15
 202291859,chatwoot/chatwoot,Ruby,53
 4095287,rubocop/rubocop,Ruby,22
 3314,spree/spree,Ruby,15
-88740103,postalserver/postal,Ruby,51
+88740103,postalserver/postal,Ruby,50
 1918677,fluent/fluentd,Ruby,21
-96395,faker-ruby/faker,Ruby,14
-2441517,puma/puma,Ruby,14
+96395,faker-ruby/faker,Ruby,15
+2441517,puma/puma,Ruby,15
 16549503,github/scientist,Ruby,58
 11412473,ankane/searchkick,Ruby,14
 355893,github/markup,Ruby,14
@@ -19,7 +19,7 @@ id,name,lang,new stars
 1172597,thoughtbot/shoulda-matchers,Ruby,3
 103766152,github/explore,Ruby,21
 11426474,github/choosealicense.com,Ruby,12
-200302808,github/view_component,Ruby,16
+200302808,github/view_component,Ruby,17
 66497320,DataDog/dd-trace-rb,Ruby,1
 212272090,CMSgov/price-transparency-guide,Ruby,2
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
