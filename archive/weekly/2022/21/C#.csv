@@ -1,8 +1,8 @@
 id,name,lang,new stars
-161012019,jellyfin/jellyfin,C#,293
+161012019,jellyfin/jellyfin,C#,291
 14964475,AvaloniaUI/Avalonia,C#,88
 193681686,netchx/netch,C#,91
-16157746,dotnet/efcore,C#,25
+16157746,dotnet/efcore,C#,24
 12201538,aspnetboilerplate/aspnetboilerplate,C#,22
 69673033,ardalis/CleanArchitecture,C#,77
 213460285,jasontaylordev/CleanArchitecture,C#,57
@@ -12,7 +12,7 @@ id,name,lang,new stars
 34023916,microsoft/WPF-Samples,C#,12
 400501136,deepmind/mujoco,C#,17
 187499284,Cysharp/UniTask,C#,50
-158405551,GitCredentialManager/git-credential-manager,C#,40
+158405551,GitCredentialManager/git-credential-manager,C#,42
 142192459,GhostPack/Seatbelt,C#,18
 119571446,dotnet/samples,C#,19
 154637304,FastReports/FastReport,C#,18
