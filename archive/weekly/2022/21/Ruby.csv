@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,76
+8514,rails/rails,Ruby,79
 65252,jekyll/jekyll,Ruby,61
-2293158,rapid7/metasploit-framework,Ruby,83
-308770,heartcombo/devise,Ruby,16
+2293158,rapid7/metasploit-framework,Ruby,84
+308770,heartcombo/devise,Ruby,14
 1090311,elastic/logstash,Ruby,15
-3314,spree/spree,Ruby,19
-88740103,postalserver/postal,Ruby,53
+3314,spree/spree,Ruby,20
+88740103,postalserver/postal,Ruby,45
 96395,faker-ruby/faker,Ruby,15
 451035,heartcombo/simple_form,Ruby,4
 6529205,varvet/pundit,Ruby,14
 2441517,puma/puma,Ruby,17
 355893,github/markup,Ruby,14
 1548802,activerecord-hackery/ransack,Ruby,10
-1172597,thoughtbot/shoulda-matchers,Ruby,3
+1172597,thoughtbot/shoulda-matchers,Ruby,4
 103766152,github/explore,Ruby,17
 93163073,dependabot/dependabot-core,Ruby,22
 200302808,github/view_component,Ruby,20
