@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,99
+1863329,laravel/laravel,PHP,97
 7548986,laravel/framework,PHP,54
 458058,symfony/symfony,PHP,55
 2579314,fzaninotto/Faker,PHP,22
-60243197,nextcloud/server,PHP,92
+60243197,nextcloud/server,PHP,90
 448045,sebastianbergmann/phpunit,PHP,27
 1631570,nikic/PHP-Parser,PHP,29
 53783664,easychen/howto-make-more-money,PHP,37
-12615154,barryvdh/laravel-debugbar,PHP,45
+12615154,barryvdh/laravel-debugbar,PHP,44
 7549096,doctrine/inflector,PHP,22
 2884111,magento/magento2,PHP,18
-2699935,squizlabs/PHP_CodeSniffer,PHP,22
+2699935,squizlabs/PHP_CodeSniffer,PHP,23
 597887,doctrine/orm,PHP,24
 1398630,symfony/console,PHP,26
 330275,twigphp/Twig,PHP,17
@@ -19,7 +19,7 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,27
 3817881,zircote/swagger-php,PHP,12
 248372441,laravel-filament/filament,PHP,56
-182349597,jqhph/dcat-admin,PHP,13
+182349597,jqhph/dcat-admin,PHP,12
 4006755,nelmio/NelmioApiDocBundle,PHP,3
 131995661,shopware/platform,PHP,24
 359687154,DenverCoder1/readme-typing-svg,PHP,32
