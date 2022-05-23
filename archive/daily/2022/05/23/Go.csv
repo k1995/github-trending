@@ -1,18 +1,18 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,50
-29207621,caddyserver/caddy,Go,38
+21540759,avelino/awesome-go,Go,49
+29207621,caddyserver/caddy,Go,37
 41912791,v2ray/v2ray-core,Go,4
-15452919,ethereum/go-ethereum,Go,17
-18369373,spf13/viper,Go,9
+15452919,ethereum/go-ethereum,Go,16
+18369373,spf13/viper,Go,10
 311315731,XTLS/Xray-core,Go,13
 252813491,projectdiscovery/nuclei,Go,10
-434218673,zinclabs/zinc,Go,35
+434218673,zinclabs/zinc,Go,33
 67382094,Jguer/yay,Go,6
 114379163,rivo/tview,Go,10
 172292744,panjf2000/gnet,Go,14
 34854605,Terry-Mao/goim,Go,3
-323965659,Xhofe/alist,Go,15
-299832860,livekit/livekit,Go,32
+323965659,Xhofe/alist,Go,17
+299832860,livekit/livekit,Go,50
 143846881,okteto/okteto,Go,10
 384111310,apache/incubator-devlake,Go,3
 310632133,solana-labs/token-list,Go,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 334215717,gnolang/gno,Go,3
 481051865,robGoods/sams,Go,3
 463027648,zan8in/afrog,Go,8
-475208896,sethvargo/ratchet,Go,46
+475208896,sethvargo/ratchet,Go,89
 481648663,sari3l/sams_helper,Go,3
 493491173,nathants/libaws,Go,21
-478159789,haoxie666/HxMinerProxy,Go,13
+478159789,haoxie666/HxMinerProxy,Go,11
