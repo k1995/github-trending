@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,262
-52281283,mastodon/mastodon,Ruby,1750
+8514,rails/rails,Ruby,264
+52281283,mastodon/mastodon,Ruby,1748
 308770,heartcombo/devise,Ruby,72
 2203645,CocoaPods/CocoaPods,Ruby,58
 911765,diaspora/diaspora,Ruby,58
-3314,spree/spree,Ruby,43
+3314,spree/spree,Ruby,45
 106995,sinatra/sinatra,Ruby,34
-88740103,postalserver/postal,Ruby,142
-52855516,Homebrew/homebrew-core,Ruby,165
+88740103,postalserver/postal,Ruby,145
+52855516,Homebrew/homebrew-core,Ruby,163
 96395,faker-ruby/faker,Ruby,66
 15435,Shopify/liquid,Ruby,88
 355893,github/markup,Ruby,35
@@ -16,8 +16,8 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,75
 3898922,zammad/zammad,Ruby,51
 11426474,github/choosealicense.com,Ruby,54
-200302808,github/view_component,Ruby,59
-502760,danbooru/danbooru,Ruby,41
+200302808,github/view_component,Ruby,60
+502760,danbooru/danbooru,Ruby,42
 17228890,Shopify/shipit-engine,Ruby,12
 14159669,Homebrew/homebrew-cask-versions,Ruby,17
 419827947,joemasilotti/railsdevs.com,Ruby,44
