@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,27
-15634981,godotengine/godot,C++,18
+1181927,bitcoin/bitcoin,C++,29
+15634981,godotengine/godot,C++,16
 22067521,ocornut/imgui,C++,31
 67702184,topjohnwu/Magisk,C++,24
 116167731,yuzu-emu/yuzu,C++,19
-160083795,SerenityOS/serenity,C++,22
+160083795,SerenityOS/serenity,C++,21
 3351871,qbittorrent/qBittorrent,C++,9
 1217614,xbmc/xbmc,C++,4
 311683390,WerWolv/ImHex,C++,15
@@ -14,10 +14,10 @@ id,name,lang,new stars
 194269070,skyline-emu/skyline,C++,33
 19866730,citra-emu/citra,C++,7
 1204412,TrinityCore/TrinityCore,C++,2
-2168780,minetest/minetest,C++,3
+2168780,minetest/minetest,C++,4
 5973855,CleverRaven/Cataclysm-DDA,C++,1
 3030065,gnuradio/gnuradio,C++,1
-471960338,BoomingTech/Pilot,C++,12
+471960338,BoomingTech/Pilot,C++,14
 150774287,danielkrupinski/Osiris,C++,2
 384520418,MaaAssistantArknights/MaaAssistantArknights,C++,28
 439448087,PolyMC/PolyMC,C++,11
