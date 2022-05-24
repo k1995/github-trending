@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,19
+8514,rails/rails,Ruby,21
 65252,jekyll/jekyll,Ruby,10
 7569578,discourse/discourse,Ruby,14
 53238813,Homebrew/brew,Ruby,9
 52281283,mastodon/mastodon,Ruby,11
 2293158,rapid7/metasploit-framework,Ruby,7
 481872,hashicorp/vagrant,Ruby,6
-37382858,kilimchoi/engineering-blogs,Ruby,3
+37382858,kilimchoi/engineering-blogs,Ruby,2
 911765,diaspora/diaspora,Ruby,1
 1090311,elastic/logstash,Ruby,1
 138312,capistrano/capistrano,Ruby,0
-4095287,rubocop/rubocop,Ruby,0
+4095287,rubocop/rubocop,Ruby,1
 3314,spree/spree,Ruby,3
 1725199,github/linguist,Ruby,8
 2441517,puma/puma,Ruby,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,0
 189010173,Hackplayers/evil-winrm,Ruby,3
 10088951,TheOdinProject/theodinproject,Ruby,1
-8154497,rubysec/ruby-advisory-db,Ruby,2
+8154497,rubysec/ruby-advisory-db,Ruby,0
 467296689,bullet-train-co/bullet_train,Ruby,4
 6119450,qqinxl/rails_blog_with_todo,Ruby,0

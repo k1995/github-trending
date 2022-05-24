@@ -1,6 +1,6 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,44
-13233158,obsproject/obs-studio,C,28
+111583593,Genymobile/scrcpy,C,43
+13233158,obsproject/obs-studio,C,27
 246335987,ventoy/Ventoy,C,36
 102578345,coolsnowwolf/lede,C,18
 6201092,mpv-player/mpv,C,11
@@ -9,18 +9,18 @@ id,name,lang,new stars
 15337142,micropython/micropython,C,4
 66150122,jarun/nnn,C,13
 27737393,qmk/qmk_firmware,C,12
-93205465,apple/darwin-xnu,C,2
+93205465,apple/darwin-xnu,C,1
 13836499,raysan5/raylib,C,6
 60667730,lvgl/lvgl,C,8
 179354282,acidanthera/OpenCorePkg,C,3
-9524997,glfw/glfw,C,8
+9524997,glfw/glfw,C,9
 5414488,cesanta/mongoose,C,13
-277194804,noisetorch/NoiseTorch,Go,110
+277194804,noisetorch/NoiseTorch,Go,103
 19112091,vanhauser-thc/thc-hydra,C,5
 59676171,Klipper3d/klipper,C,3
 79160357,citizenfx/fivem,C,2
 256105296,fw876/helloworld,C,5
-211756905,MarlinFirmware/Configurations,C,4
+211756905,MarlinFirmware/Configurations,C,3
 191266671,algorand/go-algorand,C,1
-494666336,taviso/123elf,C,48
-491769512,QiuhaoLi/CVE-2021-3929-3947,C,16
+494666336,taviso/123elf,C,62
+491769512,QiuhaoLi/CVE-2021-3929-3947,C,27
