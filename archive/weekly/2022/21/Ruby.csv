@@ -1,5 +1,5 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,81
+8514,rails/rails,Ruby,83
 27442967,fastlane/fastlane,Ruby,46
 2293158,rapid7/metasploit-framework,Ruby,82
 481872,hashicorp/vagrant,Ruby,39
@@ -7,17 +7,17 @@ id,name,lang,new stars
 1090311,elastic/logstash,Ruby,16
 202291859,chatwoot/chatwoot,Ruby,36
 3195124,mperham/sidekiq,Ruby,15
-3314,spree/spree,Ruby,17
-88740103,postalserver/postal,Ruby,32
+3314,spree/spree,Ruby,16
+88740103,postalserver/postal,Ruby,30
 96395,faker-ruby/faker,Ruby,10
-451035,heartcombo/simple_form,Ruby,8
+451035,heartcombo/simple_form,Ruby,9
 2441517,puma/puma,Ruby,15
-11412473,ankane/searchkick,Ruby,14
+11412473,ankane/searchkick,Ruby,13
 355893,github/markup,Ruby,11
-2889230,rails-api/active_model_serializers,Ruby,2
+2889230,rails-api/active_model_serializers,Ruby,1
 1548802,activerecord-hackery/ransack,Ruby,7
 1172597,thoughtbot/shoulda-matchers,Ruby,5
-93163073,dependabot/dependabot-core,Ruby,21
+93163073,dependabot/dependabot-core,Ruby,20
 200302808,github/view_component,Ruby,18
 467296689,bullet-train-co/bullet_train,Ruby,22
 419827947,joemasilotti/railsdevs.com,Ruby,5
