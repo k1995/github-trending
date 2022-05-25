@@ -1,20 +1,20 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,280
+60493101,jwasham/coding-interview-university,,276
 45717250,tensorflow/tensorflow,C++,40
-126577260,trekhleb/javascript-algorithms,JavaScript,135
-6498492,airbnb/javascript,JavaScript,50
-15045751,docker/compose,Go,23
+126577260,trekhleb/javascript-algorithms,JavaScript,262
+6498492,airbnb/javascript,JavaScript,57
+15045751,docker/compose,Go,20
 16587283,dmlc/xgboost,C++,9
 204086862,streamlit/streamlit,Python,17
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,274
+344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,73
 16554739,elastic/beats,Go,6
 129283183,facebook/flipper,TypeScript,8
 410749029,spacedriveapp/spacedrive,TypeScript,375
-317029148,ml-tooling/best-of-ml-python,Python,160
+317029148,ml-tooling/best-of-ml-python,Python,162
 216581567,github/super-linter,Shell,5
-432886173,ja-netfilter/ja-netfilter,Java,42
+432886173,ja-netfilter/ja-netfilter,Java,57
 445599288,faker-js/faker,TypeScript,21
-400501136,deepmind/mujoco,C,124
+400501136,deepmind/mujoco,C,146
 494567206,ansh/bionic-reading,JavaScript,587
 306829688,nocobase/nocobase,TypeScript,85
 494763031,dair-ai/Mathematics-for-ML,,237
