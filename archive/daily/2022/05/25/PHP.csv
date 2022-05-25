@@ -1,5 +1,5 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,8
+458058,symfony/symfony,PHP,7
 1864363,composer/composer,PHP,4
 2579314,fzaninotto/Faker,PHP,5
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,4
@@ -7,17 +7,17 @@ id,name,lang,new stars
 2889328,WordPress/WordPress,PHP,6
 12615154,barryvdh/laravel-debugbar,PHP,4
 3431193,yiisoft/yii2,PHP,0
-28628034,flarum/flarum,PHP,5
+28628034,flarum/flarum,PHP,4
 7704544,Intervention/image,PHP,1
-1305114,roots/sage,PHP,2
-4916869,ramsey/uuid,PHP,1
+1305114,roots/sage,PHP,3
+4916869,ramsey/uuid,PHP,0
 61490598,PHPOffice/PhpSpreadsheet,PHP,3
 2699935,squizlabs/PHP_CodeSniffer,PHP,6
-9131292,jenssegers/laravel-mongodb,PHP,0
+9131292,jenssegers/laravel-mongodb,PHP,1
 97311017,rectorphp/rector,PHP,4
 159606650,hyperf/hyperf,PHP,2
 3817881,zircote/swagger-php,PHP,1
-439861,moodle/moodle,PHP,6
+439861,moodle/moodle,PHP,5
 29219291,box/spout,PHP,2
 142127816,zhuifengshaonianhanlu/pikachu,PHP,6
 75645659,WordPress/wordpress-develop,PHP,2
