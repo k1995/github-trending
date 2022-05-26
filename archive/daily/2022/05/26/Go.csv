@@ -2,9 +2,9 @@ id,name,lang,new stars
 212613049,cli/cli,Go,21
 15045751,docker/compose,Go,54
 14125254,hashicorp/consul,Go,12
-56353740,kubernetes/minikube,Go,19
+56353740,kubernetes/minikube,Go,22
 30215630,go-kit/kit,Go,7
-43723161,helm/helm,Go,22
+43723161,helm/helm,Go,23
 129717717,grafana/loki,Go,26
 5179099,go-redis/redis,Go,22
 46089560,containerd/containerd,Go,9
@@ -15,9 +15,9 @@ id,name,lang,new stars
 66509131,kubernetes/client-go,Go,9
 87990209,kubernetes/autoscaler,Go,9
 16907502,fatih/color,Go,11
-44087204,google/syzkaller,Go,6
-53553027,nginxinc/kubernetes-ingress,Go,6
-312629343,shadow1ng/fscan,Go,22
+44087204,google/syzkaller,Go,8
+53553027,nginxinc/kubernetes-ingress,Go,5
+312629343,shadow1ng/fscan,Go,25
 262126497,anchore/syft,Go,28
 91074692,zalando/postgres-operator,Go,4
 105711679,envoyproxy/protoc-gen-validate,Go,13
