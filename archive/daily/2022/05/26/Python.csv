@@ -2,13 +2,13 @@ id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,142
 155220641,huggingface/transformers,Python,79
 58028038,521xueweihan/HelloGitHub,Python,42
-160919119,tiangolo/fastapi,Python,55
+160919119,tiangolo/fastapi,Python,57
 33884891,apache/airflow,Python,34
 262296122,PaddlePaddle/PaddleOCR,Python,64
-204086862,streamlit/streamlit,Python,210
+204086862,streamlit/streamlit,Python,178
 420459569,github/copilot-docs,Python,273
-300592907,mxrch/GHunt,Python,8
-197261780,Ciphey/Ciphey,Python,17
+300592907,mxrch/GHunt,Python,11
+197261780,Ciphey/Ciphey,Python,18
 317029148,ml-tooling/best-of-ml-python,Python,152
 341714203,openai/DALL-E,Python,34
 317380990,PeterL1n/BackgroundMattingV2,Python,38
@@ -19,8 +19,8 @@ id,name,lang,new stars
 29013480,tokland/youtube-upload,Python,6
 412005579,thunlp/OpenPrompt,Python,12
 412876502,anasty17/mirror-leech-telegram-bot,Python,41
-290373506,lucidrains/denoising-diffusion-pytorch,Python,11
 495587598,lucidrains/imagen-pytorch,Python,487
+290373506,lucidrains/denoising-diffusion-pytorch,Python,11
 422630541,databricks-academy/data-engineering-with-databricks,Python,67
 429080848,facebookresearch/myosuite,Python,41
 494095541,globaldothealth/monkeypox,Python,6
