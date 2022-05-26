@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,267
-45717250,tensorflow/tensorflow,C++,53
-126577260,trekhleb/javascript-algorithms,JavaScript,265
-6498492,airbnb/javascript,JavaScript,70
-15045751,docker/compose,Go,38
-16587283,dmlc/xgboost,C++,29
-204086862,streamlit/streamlit,Python,63
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,63
-16554739,elastic/beats,Go,24
+83222441,donnemartin/system-design-primer,Python,142
+126577260,trekhleb/javascript-algorithms,JavaScript,232
+1148753,spring-projects/spring-framework,Java,24
+191529732,lydiahallie/javascript-questions,,22
+17620347,dotnet/aspnetcore,C#,15
+202890778,chakra-ui/chakra-ui,TypeScript,39
+2700474,alibaba/fastjson,Java,17
+157166750,lensapp/lens,TypeScript,10
 129283183,facebook/flipper,TypeScript,54
-410749029,spacedriveapp/spacedrive,TypeScript,344
 317029148,ml-tooling/best-of-ml-python,Python,152
-216581567,github/super-linter,Shell,29
-432886173,ja-netfilter/ja-netfilter,Java,48
-445599288,faker-js/faker,TypeScript,66
-400501136,deepmind/mujoco,C,157
-494567206,ansh/bionic-reading,JavaScript,496
-306829688,nocobase/nocobase,TypeScript,137
+37334619,golang/mock,Go,10
+341714203,openai/DALL-E,Python,34
+77276660,SigmaHQ/sigma,Python,8
+400501136,deepmind/mujoco,C,194
+110688239,PaddlePaddle/PaddleSpeech,C++,146
+145148726,Azure/MachineLearningNotebooks,Jupyter Notebook,2
+453068084,singularity-data/risingwave,Rust,107
+327089870,payloadcms/payload,TypeScript,310
 494763031,dair-ai/Mathematics-for-ML,,609
-341772600,neargle/my-re0-k8s-security,Shell,151
+485348105,guchangan1/All-Defense-Tool,,85
 456170084,adrianhajdin/project_syncfusion_dashboard,JavaScript,73
-464654186,dotnet-presentations/dotnet-maui-workshop,C#,32
-494258143,kentcdodds/advanced-remix,TypeScript,69
-422630541,databricks-academy/data-engineering-with-databricks,Python,52
+427306303,InoriRus/Kyty,C++,87
+464654186,dotnet-presentations/dotnet-maui-workshop,C#,61
+449826010,Speek-App/Speek,C++,30
 492677199,terra-money/core,JavaScript,66
