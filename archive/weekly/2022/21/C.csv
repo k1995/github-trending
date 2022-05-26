@@ -1,13 +1,13 @@
 id,name,lang,new stars
-13233158,obsproject/obs-studio,C,192
-1614410,FFmpeg/FFmpeg,C,140
-11715753,robertdavidgraham/masscan,C,80
+13233158,obsproject/obs-studio,C,188
+1614410,FFmpeg/FFmpeg,C,134
+11715753,robertdavidgraham/masscan,C,82
 13836499,raysan5/raylib,C,63
-60667730,lvgl/lvgl,C,87
-70127218,espressif/arduino-esp32,C,42
+60667730,lvgl/lvgl,C,88
+70127218,espressif/arduino-esp32,C,41
 5414488,cesanta/mongoose,C,67
 54280778,DaveGamble/cJSON,C,32
-14049216,cockpit-project/cockpit,C,110
+14049216,cockpit-project/cockpit,C,109
 105944401,yugabyte/yugabyte-db,C,29
 59771425,zephyrproject-rtos/zephyr,C,27
 293316071,bellard/quickjs,C,32
@@ -15,12 +15,12 @@ id,name,lang,new stars
 400501136,deepmind/mujoco,C,375
 83160811,littlefs-project/littlefs,C,18
 6860771,hathach/tinyusb,C,102
-92203868,fairyglade/ly,C,202
-470739558,MrGlockenspiel/activate-linux,C,563
+92203868,fairyglade/ly,C,197
+470739558,MrGlockenspiel/activate-linux,C,529
 4065980,libopencm3/libopencm3,C,10
-284134871,flipperdevices/flipperzero-firmware,C,68
+284134871,flipperdevices/flipperzero-firmware,C,69
 15768646,vedderb/bldc,C,20
 473137633,cilium/tetragon,C,475
 466575180,lambertjamesd/portal64,C,142
 442041737,jimgraygit/Onion,C,40
-311798324,tezc/sc,C,116
+311798324,tezc/sc,C,111

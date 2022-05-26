@@ -1,7 +1,7 @@
 id,name,lang,new stars
 54346799,public-apis/public-apis,Python,203
 155220641,huggingface/transformers,Python,74
-3638964,ansible/ansible,Python,13
+3638964,ansible/ansible,Python,17
 843222,scikit-learn/scikit-learn,Python,18
 160919119,tiangolo/fastapi,Python,48
 220809393,Textualize/rich,Python,36
@@ -12,7 +12,7 @@ id,name,lang,new stars
 204086862,streamlit/streamlit,Python,63
 420459569,github/copilot-docs,Python,126
 149430917,microsoft/recommenders,Python,13
-1390248,saltstack/salt,Python,5
+1390248,saltstack/salt,Python,8
 222751131,Asabeneh/30-Days-Of-Python,Python,52
 317029148,ml-tooling/best-of-ml-python,Python,152
 478823173,lucidrains/DALLE2-pytorch,Python,71
