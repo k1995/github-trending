@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,2155
-52281283,mastodon/mastodon,Ruby,1761
-39840932,google/googletest,C++,822
-33884891,apache/airflow,Python,497
+31792824,flutter/flutter,Dart,2167
+52281283,mastodon/mastodon,Ruby,1705
+39840932,google/googletest,C++,821
+33884891,apache/airflow,Python,500
 212639071,bregman-arie/devops-exercises,Python,1996
-262296122,PaddlePaddle/PaddleOCR,Python,2104
-299354207,rustdesk/rustdesk,Rust,3824
-275993885,appsmithorg/appsmith,TypeScript,3116
-281975310,type-challenges/type-challenges,TypeScript,1964
-120710644,Vonng/ddia,Python,1430
+262296122,PaddlePaddle/PaddleOCR,Python,2107
+299354207,rustdesk/rustdesk,Rust,3834
+275993885,appsmithorg/appsmith,TypeScript,3115
+281975310,type-challenges/type-challenges,TypeScript,1960
+120710644,Vonng/ddia,Python,1431
 280363952,mikecao/umami,JavaScript,798
-299628763,Asabeneh/30-Days-Of-React,JavaScript,1277
-482520194,Grasscutters/Grasscutter,Java,5027
-360522116,nextui-org/nextui,TypeScript,579
-301830590,benbjohnson/litestream,Go,1429
-478823173,lucidrains/DALLE2-pytorch,Python,3369
-419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,849
-336274588,PaddlePaddle/PaddleNLP,Python,1049
-453717720,AykutSarac/jsonvisio.com,TypeScript,2361
-119336293,purocean/yn,TypeScript,968
-462597790,aptos-labs/aptos-core,Rust,1196
-463337778,alembics/disco-diffusion,Jupyter Notebook,1208
-284134871,flipperdevices/flipperzero-firmware,C,274
-319466912,Dimbreath/GenshinData,,461
-158107419,terra-money/classic-core,JavaScript,292
+299628763,Asabeneh/30-Days-Of-React,JavaScript,1269
+482520194,Grasscutters/Grasscutter,Java,5018
+360522116,nextui-org/nextui,TypeScript,582
+301830590,benbjohnson/litestream,Go,1425
+478823173,lucidrains/DALLE2-pytorch,Python,3363
+419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,850
+336274588,PaddlePaddle/PaddleNLP,Python,1051
+453717720,AykutSarac/jsonvisio.com,TypeScript,2317
+119336293,purocean/yn,TypeScript,972
+462597790,aptos-labs/aptos-core,Rust,1193
+463337778,alembics/disco-diffusion,Jupyter Notebook,1206
+284134871,flipperdevices/flipperzero-firmware,C,272
+319466912,Dimbreath/GenshinData,,458
+158107419,terra-money/classic-core,JavaScript,293

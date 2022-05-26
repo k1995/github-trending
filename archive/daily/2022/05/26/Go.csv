@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,25
+13855476,go-gorm/gorm,Go,14
+15045751,docker/compose,Go,54
+163883279,nektos/act,Go,37
+59239347,portainer/portainer,Go,16
+43723161,helm/helm,Go,19
+129717717,grafana/loki,Go,27
+46806184,helm/charts,Go,2
+5179099,go-redis/redis,Go,58
+109145553,containers/podman,Go,8
+16554739,elastic/beats,Go,24
+208728772,milvus-io/milvus,Go,8
+40684033,mozilla/sops,Go,28
+413918947,vercel/turborepo,Go,20
+93444615,hashicorp/terraform-provider-aws,Go,4
+40916314,dexidp/dex,Go,10
+323965659,Xhofe/alist,Go,38
+51193526,cosmos/cosmos-sdk,Go,4
+276822250,kubevela/kubevela,Go,5
+312629343,shadow1ng/fscan,Go,16
+98671007,kubernetes-sigs/descheduler,Go,2
+49970739,DataDog/datadog-agent,Go,3
+188836864,ledgerwatch/erigon,Go,3
+493491173,nathants/libaws,Go,55
+492404540,zero-proxy/zero-proxy,Go,12
