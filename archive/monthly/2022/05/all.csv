@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,2168
+31792824,flutter/flutter,Dart,2164
 52281283,mastodon/mastodon,Ruby,1713
-39840932,google/googletest,C++,822
+39840932,google/googletest,C++,823
 33884891,apache/airflow,Python,500
-212639071,bregman-arie/devops-exercises,Python,2003
-262296122,PaddlePaddle/PaddleOCR,Python,2123
-299354207,rustdesk/rustdesk,Rust,3912
-275993885,appsmithorg/appsmith,TypeScript,3115
-281975310,type-challenges/type-challenges,TypeScript,1958
-120710644,Vonng/ddia,Python,1403
-280363952,mikecao/umami,JavaScript,805
-299628763,Asabeneh/30-Days-Of-React,JavaScript,1261
-482520194,Grasscutters/Grasscutter,Java,4932
-360522116,nextui-org/nextui,TypeScript,593
-301830590,benbjohnson/litestream,Go,1422
-478823173,lucidrains/DALLE2-pytorch,Python,3374
+212639071,bregman-arie/devops-exercises,Python,2007
+262296122,PaddlePaddle/PaddleOCR,Python,2125
+299354207,rustdesk/rustdesk,Rust,3929
+275993885,appsmithorg/appsmith,TypeScript,3109
+281975310,type-challenges/type-challenges,TypeScript,1962
+120710644,Vonng/ddia,Python,1378
+280363952,mikecao/umami,JavaScript,803
+299628763,Asabeneh/30-Days-Of-React,JavaScript,1260
+482520194,Grasscutters/Grasscutter,Java,4877
+360522116,nextui-org/nextui,TypeScript,597
+301830590,benbjohnson/litestream,Go,1417
+478823173,lucidrains/DALLE2-pytorch,Python,3375
 419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,853
-336274588,PaddlePaddle/PaddleNLP,Python,1056
-453717720,AykutSarac/jsonvisio.com,TypeScript,2209
-119336293,purocean/yn,TypeScript,974
-462597790,aptos-labs/aptos-core,Rust,1186
-463337778,alembics/disco-diffusion,Jupyter Notebook,1202
-284134871,flipperdevices/flipperzero-firmware,C,271
-319466912,Dimbreath/GenshinData,,433
-158107419,terra-money/classic-core,JavaScript,293
+336274588,PaddlePaddle/PaddleNLP,Python,1063
+453717720,AykutSarac/jsonvisio.com,TypeScript,2138
+119336293,purocean/yn,TypeScript,972
+462597790,aptos-labs/aptos-core,Rust,1185
+463337778,alembics/disco-diffusion,Jupyter Notebook,1204
+284134871,flipperdevices/flipperzero-firmware,C,272
+319466912,Dimbreath/GenshinData,,425
+158107419,terra-money/classic-core,JavaScript,292
