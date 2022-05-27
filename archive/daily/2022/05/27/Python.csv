@@ -1,19 +1,19 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,144
+83222441,donnemartin/system-design-primer,Python,152
 155220641,huggingface/transformers,Python,75
-58028038,521xueweihan/HelloGitHub,Python,38
+58028038,521xueweihan/HelloGitHub,Python,37
 160919119,tiangolo/fastapi,Python,50
 33884891,apache/airflow,Python,27
-262296122,PaddlePaddle/PaddleOCR,Python,59
+262296122,PaddlePaddle/PaddleOCR,Python,54
 204086862,streamlit/streamlit,Python,117
 420459569,github/copilot-docs,Python,267
-300592907,mxrch/GHunt,Python,11
-317029148,ml-tooling/best-of-ml-python,Python,211
+300592907,mxrch/GHunt,Python,13
+317029148,ml-tooling/best-of-ml-python,Python,207
 197261780,Ciphey/Ciphey,Python,30
-341714203,openai/DALL-E,Python,36
+341714203,openai/DALL-E,Python,44
 317380990,PeterL1n/BackgroundMattingV2,Python,43
-478823173,lucidrains/DALLE2-pytorch,Python,83
-77276660,SigmaHQ/sigma,Python,11
+478823173,lucidrains/DALLE2-pytorch,Python,76
+77276660,SigmaHQ/sigma,Python,10
 333483116,dgtlmoon/changedetection.io,Python,19
 314197645,zenml-io/zenml,Python,30
 29013480,tokland/youtube-upload,Python,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 412876502,anasty17/mirror-leech-telegram-bot,Python,23
 495587598,lucidrains/imagen-pytorch,Python,806
 290373506,lucidrains/denoising-diffusion-pytorch,Python,14
-422630541,databricks-academy/data-engineering-with-databricks,Python,31
-429080848,facebookresearch/myosuite,Python,40
+422630541,databricks-academy/data-engineering-with-databricks,Python,30
+429080848,facebookresearch/myosuite,Python,33
 494095541,globaldothealth/monkeypox,Python,7
