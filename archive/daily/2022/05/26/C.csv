@@ -6,7 +6,7 @@ id,name,lang,new stars
 65899476,espressif/esp-idf,C,7
 69828680,jgamblin/Mirai-Source-Code,C,3
 16734696,meetecho/janus-gateway,C,2
-5383731,qemu/qemu,C,2
+5383731,qemu/qemu,C,3
 5870069,edenhill/librdkafka,C,3
 7037996,VirusTotal/yara,C,10
 5805256,lua/lua,C,5
@@ -20,7 +20,7 @@ id,name,lang,new stars
 53432472,Azure/sonic-buildimage,C,1
 384673180,sakumisu/CherryUSB,C,5
 364051298,stecman/hw-boot-selection,C,6
-480829924,microsoft/xdp-for-windows,C,18
+480829924,microsoft/xdp-for-windows,C,19
 399731335,u17701703484823/PolThmk,C,12
 495997511,thefLink/DeepSleep,C,33
 399714754,xt34498380002003/Gauravrandheerq,C,12
