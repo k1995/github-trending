@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,80
-27442967,fastlane/fastlane,Ruby,42
-2293158,rapid7/metasploit-framework,Ruby,75
-481872,hashicorp/vagrant,Ruby,42
-2500088,gitlabhq/gitlabhq,Ruby,12
+8514,rails/rails,Ruby,79
+27442967,fastlane/fastlane,Ruby,40
+2293158,rapid7/metasploit-framework,Ruby,74
+481872,hashicorp/vagrant,Ruby,44
+2500088,gitlabhq/gitlabhq,Ruby,11
 308770,heartcombo/devise,Ruby,18
-538746,ruby/ruby,Ruby,34
+538746,ruby/ruby,Ruby,35
 1090311,elastic/logstash,Ruby,12
 3314,spree/spree,Ruby,17
 1918677,fluent/fluentd,Ruby,20
@@ -13,7 +13,7 @@ id,name,lang,new stars
 1725199,github/linguist,Ruby,38
 21829,thoughtbot/factory_bot,Ruby,8
 2441517,puma/puma,Ruby,13
-11412473,ankane/searchkick,Ruby,14
+11412473,ankane/searchkick,Ruby,15
 355893,github/markup,Ruby,9
 1172597,thoughtbot/shoulda-matchers,Ruby,4
 103766152,github/explore,Ruby,22
