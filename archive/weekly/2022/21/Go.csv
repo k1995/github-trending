@@ -1,6 +1,6 @@
 id,name,lang,new stars
 23096959,golang/go,Go,301
-20580498,kubernetes/kubernetes,Go,242
+20580498,kubernetes/kubernetes,Go,236
 29261473,minio/minio,Go,146
 18369373,spf13/viper,Go,106
 6247705,stretchr/testify,Go,92
@@ -10,12 +10,12 @@ id,name,lang,new stars
 5179099,go-redis/redis,Go,186
 16554739,elastic/beats,Go,86
 80087836,dgraph-io/badger,Go,55
-434218673,zinclabs/zinc,Go,228
+434218673,zinclabs/zinc,Go,235
 413918947,vercel/turborepo,Go,157
 37334619,golang/mock,Go,164
 277194804,noisetorch/NoiseTorch,Go,332
 93928882,swaggo/swag,Go,68
-147886080,crossplane/crossplane,Go,81
+147886080,crossplane/crossplane,Go,83
 32351944,google/gopacket,Go,17
 299832860,livekit/livekit,Go,288
 330616364,evrone/go-clean-template,Go,566
