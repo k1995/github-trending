@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,71
-27442967,fastlane/fastlane,Ruby,38
-2293158,rapid7/metasploit-framework,Ruby,76
-481872,hashicorp/vagrant,Ruby,45
+27442967,fastlane/fastlane,Ruby,37
+2293158,rapid7/metasploit-framework,Ruby,75
+481872,hashicorp/vagrant,Ruby,46
 2500088,gitlabhq/gitlabhq,Ruby,13
-308770,heartcombo/devise,Ruby,19
-538746,ruby/ruby,Ruby,30
+308770,heartcombo/devise,Ruby,20
+538746,ruby/ruby,Ruby,29
 1090311,elastic/logstash,Ruby,13
-3195124,mperham/sidekiq,Ruby,24
-3314,spree/spree,Ruby,17
-52855516,Homebrew/homebrew-core,Ruby,46
+3195124,mperham/sidekiq,Ruby,25
+3314,spree/spree,Ruby,16
+52855516,Homebrew/homebrew-core,Ruby,43
 1918677,fluent/fluentd,Ruby,20
 96395,faker-ruby/faker,Ruby,19
 1725199,github/linguist,Ruby,35
@@ -17,7 +17,7 @@ id,name,lang,new stars
 6529205,varvet/pundit,Ruby,9
 2441517,puma/puma,Ruby,11
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,48
-11412473,ankane/searchkick,Ruby,14
+11412473,ankane/searchkick,Ruby,12
 96071,rack/rack,Ruby,8
 30985840,solidusio/solidus,Ruby,23
 21333814,lynndylanhurley/devise_token_auth,Ruby,2
