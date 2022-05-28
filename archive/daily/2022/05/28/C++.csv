@@ -1,7 +1,7 @@
 id,name,lang,new stars
 65600975,pytorch/pytorch,C++,13
 23357588,protocolbuffers/protobuf,C++,12
-23405758,google/leveldb,C++,9
+23405758,google/leveldb,C++,3
 6934395,facebook/rocksdb,C++,71
 96246170,ApolloAuto/apollo,C++,6
 11892946,uglide/RedisDesktopManager,C++,5
@@ -15,7 +15,7 @@ id,name,lang,new stars
 14303048,mamedev/mame,C++,5
 138368259,neutralinojs/neutralinojs,C++,11
 223904726,wang-xinyu/tensorrtx,C++,5
-110688239,PaddlePaddle/PaddleSpeech,C++,107
+110688239,PaddlePaddle/PaddleSpeech,C++,105
 243394576,pixie-io/pixie,C++,2
 178613040,Neargye/magic_enum,C++,2
 5421296,tinyobjloader/tinyobjloader,C++,4
