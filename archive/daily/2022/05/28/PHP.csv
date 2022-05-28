@@ -1,9 +1,9 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,9
+7548986,laravel/framework,PHP,8
 1864363,composer/composer,PHP,8
 1420053,guzzle/guzzle,PHP,5
-2253830,PHPMailer/PHPMailer,PHP,10
-2889328,WordPress/WordPress,PHP,4
+2253830,PHPMailer/PHPMailer,PHP,6
+2889328,WordPress/WordPress,PHP,6
 8678290,barryvdh/laravel-ide-helper,PHP,6
 61490598,PHPOffice/PhpSpreadsheet,PHP,4
 14259390,SpartnerNL/Laravel-Excel,PHP,1
@@ -11,16 +11,16 @@ id,name,lang,new stars
 4549925,bobthecow/psysh,PHP,3
 656494,cakephp/cakephp,PHP,2
 12166778,googleapis/google-api-php-client,PHP,3
-2179920,woocommerce/woocommerce,PHP,1
+2179920,woocommerce/woocommerce,PHP,3
 2141186,opencart/opencart,PHP,1
-3217621,phpmyadmin/phpmyadmin,PHP,5
+3217621,phpmyadmin/phpmyadmin,PHP,4
 12204147,mautic/mautic,PHP,2
-2272514,php-webdriver/php-webdriver,PHP,2
-60010673,elementor/elementor,PHP,1
-9395939,ZoneMinder/zoneminder,PHP,3
+2272514,php-webdriver/php-webdriver,PHP,4
+60010673,elementor/elementor,PHP,0
+9395939,ZoneMinder/zoneminder,PHP,2
 1953386,stripe/stripe-php,PHP,4
 153069455,collabnix/dockerlabs,PHP,2
-32315619,DarkaOnLine/L5-Swagger,PHP,2
+32315619,DarkaOnLine/L5-Swagger,PHP,3
 75645659,WordPress/wordpress-develop,PHP,2
-41926317,xero/figlet-fonts,PHP,3
+41926317,xero/figlet-fonts,PHP,2
 184538454,yankovalenko94/Webdev2019,PHP,1
