@@ -2,7 +2,7 @@ id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,48
 102578345,coolsnowwolf/lede,C,14
 14812739,libuv/libuv,C,15
-196353673,taosdata/TDengine,C,8
+196353673,taosdata/TDengine,C,7
 80286288,arendst/Tasmota,C,4
 184981,memcached/memcached,C,2
 65899476,espressif/esp-idf,C,4
@@ -11,15 +11,15 @@ id,name,lang,new stars
 59771425,zephyrproject-rtos/zephyr,C,7
 200321698,rui314/chibicc,C,10
 34431834,xmake-io/xmake,C,10
-400501136,deepmind/mujoco,C,61
+400501136,deepmind/mujoco,C,58
 58132544,RediSearch/RediSearch,C,1
 1418941,ultrajson/ultrajson,C,8
-1613176,tianocore/edk2,C,2
+1613176,tianocore/edk2,C,1
 34807561,nanopb/nanopb,C,2
 18383364,openvswitch/ovs,C,4
 14521001,westes/flex,C,3
 5410234,OISF/suricata,C,2
-154525111,signalwire/freeswitch,C,1
+154525111,signalwire/freeswitch,C,2
 53432472,Azure/sonic-buildimage,C,0
 480829924,microsoft/xdp-for-windows,C,15
 495997511,thefLink/DeepSleep,C,13

@@ -1,12 +1,12 @@
 id,name,lang,new stars
-156018,redis/redis,C,558
+156018,redis/redis,C,556
 246335987,ventoy/Ventoy,C,1364
-1614410,FFmpeg/FFmpeg,C,601
-102578345,coolsnowwolf/lede,C,549
-7634677,openssl/openssl,C,297
-34921116,iovisor/bcc,C,287
-47409672,hashcat/hashcat,C,1171
-66150122,jarun/nnn,C,258
+1614410,FFmpeg/FFmpeg,C,600
+102578345,coolsnowwolf/lede,C,548
+7634677,openssl/openssl,C,298
+34921116,iovisor/bcc,C,286
+47409672,hashcat/hashcat,C,1148
+66150122,jarun/nnn,C,254
 13836499,raysan5/raylib,C,260
 60667730,lvgl/lvgl,C,457
 70127218,espressif/arduino-esp32,C,206
@@ -16,11 +16,11 @@ id,name,lang,new stars
 19330466,Cyan4973/xxHash,C,143
 37060852,betaflight/betaflight,C,108
 101866073,alibaba/AliOS-Things,C,36
-400501136,deepmind/mujoco,C,620
+400501136,deepmind/mujoco,C,621
 34807561,nanopb/nanopb,C,61
-470739558,MrGlockenspiel/activate-linux,C,2575
-92203868,fairyglade/ly,C,569
+470739558,MrGlockenspiel/activate-linux,C,2577
+92203868,fairyglade/ly,C,570
 204459250,mit-pdos/xv6-riscv,C,137
-481977,stephane/libmodbus,C,88
-284134871,flipperdevices/flipperzero-firmware,C,290
-387449953,siduck/chadwm,C,106
+481977,stephane/libmodbus,C,89
+284134871,flipperdevices/flipperzero-firmware,C,288
+387449953,siduck/chadwm,C,105
