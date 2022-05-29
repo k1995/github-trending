@@ -1,18 +1,18 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,324
-9384267,electron/electron,C++,149
-65600975,pytorch/pytorch,C++,193
-23357588,protocolbuffers/protobuf,C++,122
+45717250,tensorflow/tensorflow,C++,325
+9384267,electron/electron,C++,150
+65600975,pytorch/pytorch,C++,196
+23357588,protocolbuffers/protobuf,C++,123
 23405758,google/leveldb,C++,71
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,73
 6934395,facebook/rocksdb,C++,131
-4524181,facebook/folly,C++,49
-160083795,SerenityOS/serenity,C++,226
-66088979,changkun/modern-cpp-tutorial,C++,114
-40892817,ethereum/solidity,C++,115
+4524181,facebook/folly,C++,48
+160083795,SerenityOS/serenity,C++,224
+66088979,changkun/modern-cpp-tutorial,C++,113
+40892817,ethereum/solidity,C++,112
 149111813,Tencent/MMKV,C++,31
 156939672,microsoft/onnxruntime,C++,50
-15379620,PCSX2/pcsx2,C++,74
+15379620,PCSX2/pcsx2,C++,76
 14303048,mamedev/mame,C++,36
 2345629,zaphoyd/websocketpp,C++,22
 146842101,iovisor/bpftrace,C++,61
@@ -23,4 +23,4 @@ id,name,lang,new stars
 153097643,openvinotoolkit/openvino,C++,22
 313501668,wenet-e2e/wenet,C++,28
 439448087,PolyMC/PolyMC,C++,107
-493029626,Akebi-Group/Akebi-GC,C++,52
+493029626,Akebi-Group/Akebi-GC,C++,53
