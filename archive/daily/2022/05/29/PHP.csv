@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,23
-7548986,laravel/framework,PHP,13
+3482588,danielmiessler/SecLists,PHP,19
+7548986,laravel/framework,PHP,8
 458058,symfony/symfony,PHP,4
 1864363,composer/composer,PHP,2
-1420053,guzzle/guzzle,PHP,2
-1376664,Seldaek/monolog,PHP,4
+1420053,guzzle/guzzle,PHP,3
+1376664,Seldaek/monolog,PHP,3
 2253830,PHPMailer/PHPMailer,PHP,6
 61490598,PHPOffice/PhpSpreadsheet,PHP,2
-79111500,jupeter/clean-code-php,PHP,3
-2884111,magento/magento2,PHP,4
+79111500,jupeter/clean-code-php,PHP,2
+2884111,magento/magento2,PHP,5
 11340559,deployphp/deployer,PHP,4
 1398630,symfony/console,PHP,0
-6660366,dompdf/dompdf,PHP,5
+6660366,dompdf/dompdf,PHP,1
 1398648,symfony/http-foundation,PHP,1
 1398651,symfony/http-kernel,PHP,0
 364315,predis/predis,PHP,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 151089715,symfony/polyfill-intl-idn,PHP,0
 60457385,seatonjiang/kratos,PHP,2
 15231212,Automattic/jetpack,PHP,1
-278726910,doctrine/deprecations,PHP,2
+278726910,doctrine/deprecations,PHP,0
 6990814,GoogleCloudPlatform/php-docs-samples,PHP,1
