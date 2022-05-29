@@ -1,6 +1,6 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,56
-156018,redis/redis,C,13
+2325298,torvalds/linux,C,57
+156018,redis/redis,C,14
 36836475,tmux/tmux,C,15
 1357796,emscripten-core/emscripten,C,6
 102578345,coolsnowwolf/lede,C,25
@@ -9,18 +9,18 @@ id,name,lang,new stars
 13310527,jemalloc/jemalloc,C,4
 1291410,libvips/libvips,C,5
 1979797,FreeRDP/FreeRDP,C,47
-59771425,zephyrproject-rtos/zephyr,C,18
+59771425,zephyrproject-rtos/zephyr,C,17
 394318710,valinet/ExplorerPatcher,C,17
 59676171,Klipper3d/klipper,C,2
 217654199,microsoft/msquic,C,2
 189044704,AFLplusplus/AFLplusplus,C,4
-385037052,ahrm/sioyek,C,28
+385037052,ahrm/sioyek,C,30
 25708163,zyantific/zydis,C,2
-32148604,iNavFlight/inav,C,4
-126983399,eradman/entr,C,26
+32148604,iNavFlight/inav,C,1
+126983399,eradman/entr,C,27
 138679609,cppla/ServerStatus,C,23
-284134871,flipperdevices/flipperzero-firmware,C,8
+284134871,flipperdevices/flipperzero-firmware,C,9
 19881421,joncampbell123/dosbox-x,C,2
 487223563,yanull/os-guide-cn,C,15
-400402817,BtwefKang/Shubham-Nimase,C,19
-400473868,taogkuk315/CloudLabsAI-Azure9,C,11
+400402817,BtwefKang/Shubham-Nimase,C,10
+400473868,taogkuk315/CloudLabsAI-Azure9,C,10

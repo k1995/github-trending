@@ -1,16 +1,16 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,103
-3482588,danielmiessler/SecLists,PHP,148
+3482588,danielmiessler/SecLists,PHP,145
 7548986,laravel/framework,PHP,61
 2579314,fzaninotto/Faker,PHP,24
 1376664,Seldaek/monolog,PHP,28
-2889328,WordPress/WordPress,PHP,35
+2889328,WordPress/WordPress,PHP,36
 12615154,barryvdh/laravel-debugbar,PHP,30
 3431193,yiisoft/yii2,PHP,4
-28628034,flarum/flarum,PHP,39
+28628034,flarum/flarum,PHP,38
 7704544,Intervention/image,PHP,14
-14259390,SpartnerNL/Laravel-Excel,PHP,12
-79111500,jupeter/clean-code-php,PHP,24
+14259390,SpartnerNL/Laravel-Excel,PHP,13
+79111500,jupeter/clean-code-php,PHP,23
 23680678,tymondesigns/jwt-auth,PHP,18
 11340559,deployphp/deployer,PHP,25
 6660366,dompdf/dompdf,PHP,22
@@ -21,6 +21,6 @@ id,name,lang,new stars
 41463886,codeigniter4/CodeIgniter4,PHP,19
 139191005,nunomaduro/larastan,PHP,28
 189104054,laravel/ui,PHP,15
-230895883,munafio/chatify,PHP,39
+230895883,munafio/chatify,PHP,40
 75645659,WordPress/wordpress-develop,PHP,15
-29745084,Leantime/leantime,PHP,40
+29745084,Leantime/leantime,PHP,39

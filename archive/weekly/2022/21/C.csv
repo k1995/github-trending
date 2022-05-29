@@ -1,16 +1,16 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,329
-36502,git/git,C,106
-13233158,obsproject/obs-studio,C,194
+111583593,Genymobile/scrcpy,C,331
+36502,git/git,C,108
+13233158,obsproject/obs-studio,C,195
 569041,curl/curl,C,112
-14812739,libuv/libuv,C,61
-34921116,iovisor/bcc,C,66
-613829,openresty/lua-nginx-module,C,17
-13836499,raysan5/raylib,C,61
-70127218,espressif/arduino-esp32,C,49
-5414488,cesanta/mongoose,C,73
-59771425,zephyrproject-rtos/zephyr,C,75
-394318710,valinet/ExplorerPatcher,C,139
+14812739,libuv/libuv,C,60
+34921116,iovisor/bcc,C,67
+613829,openresty/lua-nginx-module,C,16
+13836499,raysan5/raylib,C,60
+70127218,espressif/arduino-esp32,C,48
+5414488,cesanta/mongoose,C,68
+59771425,zephyrproject-rtos/zephyr,C,76
+394318710,valinet/ExplorerPatcher,C,138
 7037996,VirusTotal/yara,C,32
 59676171,Klipper3d/klipper,C,26
 5057173,AdAway/AdAway,C,29
@@ -20,7 +20,7 @@ id,name,lang,new stars
 284134871,flipperdevices/flipperzero-firmware,C,75
 1638129,simh/simh,C,14
 473137633,cilium/tetragon,C,269
-15768646,vedderb/bldc,C,18
+15768646,vedderb/bldc,C,17
 68456226,linux-rdma/rdma-core,C,4
 153930005,MaJerle/stm32-usart-uart-dma-rx-tx,C,43
-442041737,jimgraygit/Onion,C,30
+442041737,jimgraygit/Onion,C,31
