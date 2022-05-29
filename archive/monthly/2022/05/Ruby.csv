@@ -1,9 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,249
-52281283,mastodon/mastodon,Ruby,977
+8514,rails/rails,Ruby,250
+2293158,rapid7/metasploit-framework,Ruby,311
 308770,heartcombo/devise,Ruby,77
-202291859,chatwoot/chatwoot,Ruby,177
-3195124,mperham/sidekiq,Ruby,88
+911765,diaspora/diaspora,Ruby,57
+202291859,chatwoot/chatwoot,Ruby,175
+11423758,mame/quine-relay,Ruby,187
+3195124,mperham/sidekiq,Ruby,87
 3314,spree/spree,Ruby,50
 106995,sinatra/sinatra,Ruby,36
 88740103,postalserver/postal,Ruby,135
@@ -11,16 +13,14 @@ id,name,lang,new stars
 1725199,github/linguist,Ruby,133
 15435,Shopify/liquid,Ruby,77
 16549503,github/scientist,Ruby,104
-6899875,opf/openproject,Ruby,86
+6899875,opf/openproject,Ruby,87
 355893,github/markup,Ruby,39
-52316423,luggit/react-native-config,Ruby,26
 103766152,github/explore,Ruby,78
 11426474,github/choosealicense.com,Ruby,55
 200302808,github/view_component,Ruby,63
-10088951,TheOdinProject/theodinproject,Ruby,63
+10088951,TheOdinProject/theodinproject,Ruby,64
 17228890,Shopify/shipit-engine,Ruby,10
-178828146,KrauseFx/FxLifeSheet,Ruby,262
-419827947,joemasilotti/railsdevs.com,Ruby,45
+178828146,KrauseFx/FxLifeSheet,Ruby,250
+419827947,joemasilotti/railsdevs.com,Ruby,44
 66497320,DataDog/dd-trace-rb,Ruby,10
 62409417,department-of-veterans-affairs/vets-api,Ruby,4
-77154536,mercadolibre/mobile-dependencies_whitelist,Ruby,3
