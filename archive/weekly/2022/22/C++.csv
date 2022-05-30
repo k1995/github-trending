@@ -1,10 +1,10 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,324
-9384267,electron/electron,C++,147
-65600975,pytorch/pytorch,C++,196
+45717250,tensorflow/tensorflow,C++,322
+9384267,electron/electron,C++,148
+65600975,pytorch/pytorch,C++,194
 23357588,protocolbuffers/protobuf,C++,123
 23405758,google/leveldb,C++,76
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,74
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,71
 6934395,facebook/rocksdb,C++,131
 4524181,facebook/folly,C++,47
 160083795,SerenityOS/serenity,C++,222
@@ -12,7 +12,7 @@ id,name,lang,new stars
 40892817,ethereum/solidity,C++,112
 149111813,Tencent/MMKV,C++,31
 156939672,microsoft/onnxruntime,C++,50
-15379620,PCSX2/pcsx2,C++,75
+15379620,PCSX2/pcsx2,C++,76
 14303048,mamedev/mame,C++,37
 2345629,zaphoyd/websocketpp,C++,22
 146842101,iovisor/bpftrace,C++,61
