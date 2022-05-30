@@ -1,15 +1,15 @@
 id,name,lang,new stars
-41912791,v2ray/v2ray-core,Go,9
+41912791,v2ray/v2ray-core,Go,7
 3577919,beego/beego,Go,5
 4307108,nsqio/nsq,Go,2
 119160553,photoprism/photoprism,Go,25
-19205896,restic/restic,Go,15
+19205896,restic/restic,Go,16
 181461073,v2fly/v2ray-core,Go,18
-62712899,AdguardTeam/AdGuardHome,Go,25
+62712899,AdguardTeam/AdGuardHome,Go,17
 311315731,XTLS/Xray-core,Go,14
-434218673,zinclabs/zinc,Go,97
+434218673,zinclabs/zinc,Go,101
 370977430,OpenIMSDK/Open-IM-Server,Go,40
-413918947,vercel/turborepo,Go,19
+413918947,vercel/turborepo,Go,22
 106704041,cosmtrek/air,Go,61
 157245200,twpayne/chezmoi,Go,13
 61153677,m3db/m3,Go,16
@@ -17,10 +17,10 @@ id,name,lang,new stars
 201546443,trustwallet/assets,Go,32
 106867604,cloudflare/cloudflared,Go,8
 166304026,BishopFox/sliver,Go,39
-257434373,HyNetwork/hysteria,Go,7
-212965919,eko/gocache,Go,23
+257434373,HyNetwork/hysteria,Go,8
+212965919,eko/gocache,Go,27
 372232781,allanpk716/ChineseSubFinder,Go,6
 238797860,ethereum-optimism/optimism,Go,3
 495645548,rocboss/paopao-ce,Go,122
-189921280,richardartoul/tsdb-layer,Go,44
+189921280,richardartoul/tsdb-layer,Go,33
 478159789,haoxie666/HxMinerProxy,Go,10
