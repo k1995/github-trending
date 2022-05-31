@@ -3,8 +3,8 @@ id,name,lang,new stars
 3577919,beego/beego,Go,5
 4307108,nsqio/nsq,Go,11
 119160553,photoprism/photoprism,Go,24
-19205896,restic/restic,Go,19
-181461073,v2fly/v2ray-core,Go,18
+19205896,restic/restic,Go,20
+181461073,v2fly/v2ray-core,Go,17
 62712899,AdguardTeam/AdGuardHome,Go,16
 311315731,XTLS/Xray-core,Go,13
 434218673,zinclabs/zinc,Go,104
@@ -16,11 +16,11 @@ id,name,lang,new stars
 157402758,safing/portmaster,Go,33
 201546443,trustwallet/assets,Go,19
 106867604,cloudflare/cloudflared,Go,9
-166304026,BishopFox/sliver,Go,51
+166304026,BishopFox/sliver,Go,69
 257434373,HyNetwork/hysteria,Go,8
 212965919,eko/gocache,Go,28
 372232781,allanpk716/ChineseSubFinder,Go,6
-238797860,ethereum-optimism/optimism,Go,2
-495645548,rocboss/paopao-ce,Go,428
+238797860,ethereum-optimism/optimism,Go,3
+495645548,rocboss/paopao-ce,Go,426
 189921280,richardartoul/tsdb-layer,Go,29
-478159789,haoxie666/HxMinerProxy,Go,15
+478159789,haoxie666/HxMinerProxy,Go,11
