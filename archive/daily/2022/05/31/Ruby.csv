@@ -1,19 +1,19 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,12
-52281283,mastodon/mastodon,Ruby,14
-21600440,bayandin/awesome-awesomeness,Ruby,8
-2293158,rapid7/metasploit-framework,Ruby,11
-308770,heartcombo/devise,Ruby,6
+52281283,mastodon/mastodon,Ruby,12
+21600440,bayandin/awesome-awesomeness,Ruby,7
+2293158,rapid7/metasploit-framework,Ruby,12
+308770,heartcombo/devise,Ruby,5
 37382858,kilimchoi/engineering-blogs,Ruby,26
 538746,ruby/ruby,Ruby,5
-73648678,forem/forem,Ruby,12
+73648678,forem/forem,Ruby,10
 2203645,CocoaPods/CocoaPods,Ruby,3
 1090311,elastic/logstash,Ruby,3
 18486300,lewagon/setup,Ruby,4
 202291859,chatwoot/chatwoot,Ruby,4
 3314,spree/spree,Ruby,3
-88740103,postalserver/postal,Ruby,4
-52855516,Homebrew/homebrew-core,Ruby,5
+88740103,postalserver/postal,Ruby,5
+52855516,Homebrew/homebrew-core,Ruby,4
 26018608,github-changelog-generator/github-changelog-generator,Ruby,3
 10088951,TheOdinProject/theodinproject,Ruby,2
 641512,openstreetmap/openstreetmap-website,Ruby,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 8154497,rubysec/ruby-advisory-db,Ruby,2
 467296689,bullet-train-co/bullet_train,Ruby,1
 419827947,joemasilotti/railsdevs.com,Ruby,2
-408850827,testdouble/mocktail,Ruby,10
+408850827,testdouble/mocktail,Ruby,9
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
 24851632,lewagon/active-record-boilerplate,Ruby,0
