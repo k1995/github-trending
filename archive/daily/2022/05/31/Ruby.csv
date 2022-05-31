@@ -1,17 +1,17 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,11
-52281283,mastodon/mastodon,Ruby,9
+52281283,mastodon/mastodon,Ruby,12
 21600440,bayandin/awesome-awesomeness,Ruby,7
-2293158,rapid7/metasploit-framework,Ruby,15
+2293158,rapid7/metasploit-framework,Ruby,17
 308770,heartcombo/devise,Ruby,6
-37382858,kilimchoi/engineering-blogs,Ruby,27
-538746,ruby/ruby,Ruby,5
-73648678,forem/forem,Ruby,9
+37382858,kilimchoi/engineering-blogs,Ruby,18
+538746,ruby/ruby,Ruby,6
+73648678,forem/forem,Ruby,10
 2203645,CocoaPods/CocoaPods,Ruby,3
-1090311,elastic/logstash,Ruby,4
 18486300,lewagon/setup,Ruby,3
+1090311,elastic/logstash,Ruby,4
 202291859,chatwoot/chatwoot,Ruby,3
-3314,spree/spree,Ruby,2
+3314,spree/spree,Ruby,3
 88740103,postalserver/postal,Ruby,7
 52855516,Homebrew/homebrew-core,Ruby,3
 26018608,github-changelog-generator/github-changelog-generator,Ruby,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 55288882,d12frosted/homebrew-emacs-plus,Ruby,1
 8154497,rubysec/ruby-advisory-db,Ruby,2
 467296689,bullet-train-co/bullet_train,Ruby,1
-419827947,joemasilotti/railsdevs.com,Ruby,2
-408850827,testdouble/mocktail,Ruby,7
+419827947,joemasilotti/railsdevs.com,Ruby,3
+408850827,testdouble/mocktail,Ruby,5
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
 24851632,lewagon/active-record-boilerplate,Ruby,0
