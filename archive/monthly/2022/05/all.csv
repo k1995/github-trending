@@ -1,23 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,2208
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,5748
-196701619,tauri-apps/tauri,Rust,4674
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,2875
-168008797,microsoft/calculator,C++,741
-262296122,PaddlePaddle/PaddleOCR,Python,2186
-281975310,type-challenges/type-challenges,TypeScript,2120
-120710644,Vonng/ddia,Python,1220
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,2518
-461710233,pyscript/pyscript,TypeScript,12056
-299628763,Asabeneh/30-Days-Of-React,JavaScript,1468
-345368765,NvChad/NvChad,Lua,1226
-386524895,mvt-project/mvt,Python,743
-482520194,Grasscutters/Grasscutter,Java,4703
-419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,894
-336274588,PaddlePaddle/PaddleNLP,Python,1131
-464827989,jsonhero-io/jsonhero-web,TypeScript,1555
-462597790,aptos-labs/aptos-core,Rust,1130
-463337778,alembics/disco-diffusion,Jupyter Notebook,1173
-482425877,alibaba/fastjson2,Java,973
-319466912,Dimbreath/GenshinData,,433
+31792824,flutter/flutter,Dart,2211
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,5759
+196701619,tauri-apps/tauri,Rust,4681
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,2912
+168008797,microsoft/calculator,C++,747
+262296122,PaddlePaddle/PaddleOCR,Python,2182
+299354207,rustdesk/rustdesk,Rust,4433
+281975310,type-challenges/type-challenges,TypeScript,2126
+120710644,Vonng/ddia,Python,1222
+344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,2558
+461710233,pyscript/pyscript,TypeScript,12079
+299628763,Asabeneh/30-Days-Of-React,JavaScript,1543
+345368765,NvChad/NvChad,Lua,1232
+386524895,mvt-project/mvt,Python,745
+482520194,Grasscutters/Grasscutter,Java,4695
+301830590,benbjohnson/litestream,Go,1457
+419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,896
+336274588,PaddlePaddle/PaddleNLP,Python,1134
+400501136,deepmind/mujoco,C,781
+464827989,jsonhero-io/jsonhero-web,TypeScript,1504
+462597790,aptos-labs/aptos-core,Rust,1129
+463337778,alembics/disco-diffusion,Jupyter Notebook,1169
+482425877,alibaba/fastjson2,Java,972
+319466912,Dimbreath/GenshinData,,431
 334215717,gnolang/gno,Go,222
