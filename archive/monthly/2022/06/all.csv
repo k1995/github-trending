@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,2229
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,5785
-196701619,tauri-apps/tauri,Rust,4694
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,3089
-168008797,microsoft/calculator,C++,762
-262296122,PaddlePaddle/PaddleOCR,Python,2193
-299354207,rustdesk/rustdesk,Rust,4479
-281975310,type-challenges/type-challenges,TypeScript,2147
-120710644,Vonng/ddia,Python,1235
-344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,2764
-461710233,pyscript/pyscript,TypeScript,11457
-299628763,Asabeneh/30-Days-Of-React,JavaScript,1775
-345368765,NvChad/NvChad,Lua,1247
-482520194,Grasscutters/Grasscutter,Java,4651
-386524895,mvt-project/mvt,Python,755
-301830590,benbjohnson/litestream,Go,1466
-419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,897
-336274588,PaddlePaddle/PaddleNLP,Python,1153
-400501136,deepmind/mujoco,C,796
-464827989,jsonhero-io/jsonhero-web,TypeScript,1307
-462597790,aptos-labs/aptos-core,Rust,1132
-463337778,alembics/disco-diffusion,Jupyter Notebook,1171
-482425877,alibaba/fastjson2,Java,968
-319466912,Dimbreath/GenshinData,,427
-334215717,gnolang/gno,Go,222
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,5792
+196701619,tauri-apps/tauri,Rust,4709
+39840932,google/googletest,C++,840
+262296122,PaddlePaddle/PaddleOCR,Python,2197
+299354207,rustdesk/rustdesk,Rust,4488
+281975310,type-challenges/type-challenges,TypeScript,2156
+157166750,lensapp/lens,TypeScript,1019
+120710644,Vonng/ddia,Python,1236
+136667574,flutter/samples,Dart,937
+461710233,pyscript/pyscript,TypeScript,11320
+299628763,Asabeneh/30-Days-Of-React,JavaScript,1809
+52728517,programthink/zhao,Python,698
+345368765,NvChad/NvChad,Lua,1248
+482520194,Grasscutters/Grasscutter,Java,4623
+301830590,benbjohnson/litestream,Go,1467
+419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,895
+336274588,PaddlePaddle/PaddleNLP,Python,1155
+400501136,deepmind/mujoco,C,798
+464827989,jsonhero-io/jsonhero-web,TypeScript,1277
+462597790,aptos-labs/aptos-core,Rust,1130
+462682958,SebLague/Geographical-Adventures,C#,1701
+463337778,alembics/disco-diffusion,Jupyter Notebook,1169
+460314453,Tencent/tmagic-editor,TypeScript,1721
+482425877,alibaba/fastjson2,Java,969
+319466912,Dimbreath/GenshinData,,426
