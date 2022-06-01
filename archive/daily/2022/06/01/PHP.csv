@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1864363,composer/composer,PHP,4
-448045,sebastianbergmann/phpunit,PHP,4
-1631570,nikic/PHP-Parser,PHP,2
+1864363,composer/composer,PHP,6
+448045,sebastianbergmann/phpunit,PHP,5
+1631570,nikic/PHP-Parser,PHP,3
 61490598,PHPOffice/PhpSpreadsheet,PHP,5
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,3
-14259390,SpartnerNL/Laravel-Excel,PHP,7
+14259390,SpartnerNL/Laravel-Excel,PHP,8
 2699935,squizlabs/PHP_CodeSniffer,PHP,1
 37216840,phpDocumentor/TypeResolver,PHP,0
 212659,sebastianbergmann/php-code-coverage,PHP,0
-21298446,firefly-iii/firefly-iii,PHP,43
+21298446,firefly-iii/firefly-iii,PHP,34
 8155345,sebastianbergmann/diff,PHP,0
 1398634,symfony/css-selector,PHP,0
 16699803,sebastianbergmann/environment,PHP,0
@@ -18,9 +18,9 @@ id,name,lang,new stars
 7456035,sebastianbergmann/version,PHP,0
 10883164,barryvdh/laravel-dompdf,PHP,4
 22751672,tecnickcom/TCPDF,PHP,4
-96284790,prasathmani/tinyfilemanager,PHP,4
-39182755,glpi-project/glpi,PHP,5
-2686502,pimcore/pimcore,PHP,2
+96284790,prasathmani/tinyfilemanager,PHP,5
+39182755,glpi-project/glpi,PHP,4
+2686502,pimcore/pimcore,PHP,1
 3193843,drush-ops/drush,PHP,1
-138328462,freescout-helpdesk/freescout,PHP,1
-497038217,spatie/laravel-login-link,PHP,25
+138328462,freescout-helpdesk/freescout,PHP,3
+497038217,spatie/laravel-login-link,PHP,26
