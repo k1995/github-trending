@@ -1,19 +1,19 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,153
-7548986,laravel/framework,PHP,55
-2579314,fzaninotto/Faker,PHP,25
-1420053,guzzle/guzzle,PHP,28
+3482588,danielmiessler/SecLists,PHP,155
+7548986,laravel/framework,PHP,54
+2579314,fzaninotto/Faker,PHP,24
+1420053,guzzle/guzzle,PHP,29
 1376664,Seldaek/monolog,PHP,28
 2889328,WordPress/WordPress,PHP,30
-3431193,yiisoft/yii2,PHP,5
-7704544,Intervention/image,PHP,18
+3431193,yiisoft/yii2,PHP,4
+7704544,Intervention/image,PHP,17
 72069409,the-control-group/voyager,PHP,14
 11340559,deployphp/deployer,PHP,25
 6660366,dompdf/dompdf,PHP,17
-21298446,firefly-iii/firefly-iii,PHP,266
+21298446,firefly-iii/firefly-iii,PHP,269
 2179920,woocommerce/woocommerce,PHP,20
-10371103,Laravel-Lang/lang,PHP,17
-2141186,opencart/opencart,PHP,14
+10371103,Laravel-Lang/lang,PHP,18
+2141186,opencart/opencart,PHP,13
 14346979,snipe/snipe-it,PHP,29
 6269013,aws/aws-sdk-php,PHP,8
 97311017,rectorphp/rector,PHP,62
@@ -21,6 +21,6 @@ id,name,lang,new stars
 139191005,nunomaduro/larastan,PHP,32
 248372441,laravel-filament/filament,PHP,52
 2686502,pimcore/pimcore,PHP,18
-189104054,laravel/ui,PHP,15
+189104054,laravel/ui,PHP,14
 75645659,WordPress/wordpress-develop,PHP,14
-307018731,DenverCoder1/github-readme-streak-stats,PHP,35
+307018731,DenverCoder1/github-readme-streak-stats,PHP,33

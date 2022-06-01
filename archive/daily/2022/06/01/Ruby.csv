@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,13
+8514,rails/rails,Ruby,12
 308770,heartcombo/devise,Ruby,3
 37382858,kilimchoi/engineering-blogs,Ruby,2
 73648678,forem/forem,Ruby,5
-2203645,CocoaPods/CocoaPods,Ruby,1
-18486300,lewagon/setup,Ruby,6
+2203645,CocoaPods/CocoaPods,Ruby,2
+18486300,lewagon/setup,Ruby,5
 1090311,elastic/logstash,Ruby,2
 202291859,chatwoot/chatwoot,Ruby,3
 585285,gollum/gollum,Ruby,6
 4095287,rubocop/rubocop,Ruby,1
-1918677,fluent/fluentd,Ruby,7
+1918677,fluent/fluentd,Ruby,6
 96395,faker-ruby/faker,Ruby,2
 812393,ruby-grape/grape,Ruby,0
 611921,activeadmin/activeadmin,Ruby,1
-451035,heartcombo/simple_form,Ruby,1
+451035,heartcombo/simple_form,Ruby,2
 26018608,github-changelog-generator/github-changelog-generator,Ruby,3
 6899875,opf/openproject,Ruby,1
 52316423,luggit/react-native-config,Ruby,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 3698608,moove-it/sidekiq-scheduler,Ruby,0
 3444030,chef/omnibus,Ruby,1
 161399160,Shopify/shopify-cli,Ruby,1
-497499035,AlexMKX/mrvpn,Ruby,38
+497499035,AlexMKX/mrvpn,Ruby,34
