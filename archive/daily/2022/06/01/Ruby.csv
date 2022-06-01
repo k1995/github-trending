@@ -1,20 +1,20 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,12
+8514,rails/rails,Ruby,11
 308770,heartcombo/devise,Ruby,3
 37382858,kilimchoi/engineering-blogs,Ruby,2
-73648678,forem/forem,Ruby,5
+73648678,forem/forem,Ruby,2
 2203645,CocoaPods/CocoaPods,Ruby,2
 18486300,lewagon/setup,Ruby,5
 1090311,elastic/logstash,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,3
+202291859,chatwoot/chatwoot,Ruby,5
 585285,gollum/gollum,Ruby,6
-4095287,rubocop/rubocop,Ruby,1
+4095287,rubocop/rubocop,Ruby,3
 1918677,fluent/fluentd,Ruby,6
 96395,faker-ruby/faker,Ruby,2
 812393,ruby-grape/grape,Ruby,0
 611921,activeadmin/activeadmin,Ruby,1
 451035,heartcombo/simple_form,Ruby,2
-26018608,github-changelog-generator/github-changelog-generator,Ruby,3
+26018608,github-changelog-generator/github-changelog-generator,Ruby,4
 6899875,opf/openproject,Ruby,1
 52316423,luggit/react-native-config,Ruby,0
 229006,mileszs/wicked_pdf,Ruby,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 10088951,TheOdinProject/theodinproject,Ruby,1
 3698608,moove-it/sidekiq-scheduler,Ruby,0
 3444030,chef/omnibus,Ruby,1
-161399160,Shopify/shopify-cli,Ruby,1
+161399160,Shopify/shopify-cli,Ruby,0
 497499035,AlexMKX/mrvpn,Ruby,34
