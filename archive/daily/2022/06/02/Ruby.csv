@@ -4,11 +4,11 @@ id,name,lang,new stars
 2293158,rapid7/metasploit-framework,Ruby,7
 3195124,mperham/sidekiq,Ruby,2
 3314,spree/spree,Ruby,6
-1918677,fluent/fluentd,Ruby,3
+1918677,fluent/fluentd,Ruby,2
 812393,ruby-grape/grape,Ruby,2
 611921,activeadmin/activeadmin,Ruby,1
 451035,heartcombo/simple_form,Ruby,2
-2441517,puma/puma,Ruby,1
+2441517,puma/puma,Ruby,0
 211588,paper-trail-gem/paper_trail,Ruby,0
 11412473,ankane/searchkick,Ruby,1
 75785147,rails/webpacker,Ruby,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 32104924,rails/sprockets,Ruby,0
 136781582,rubocop/rubocop-rails,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
-497499035,AlexMKX/mrvpn,Ruby,29
+497499035,AlexMKX/mrvpn,Ruby,26
 387924838,learn-co-curriculum/phase-3-sinatra-react-project,Ruby,0
