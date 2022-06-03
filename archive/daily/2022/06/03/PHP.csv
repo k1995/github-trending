@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,19
+1863329,laravel/laravel,PHP,18
 1864363,composer/composer,PHP,10
 448045,sebastianbergmann/phpunit,PHP,10
 2253830,PHPMailer/PHPMailer,PHP,8
 1631570,nikic/PHP-Parser,PHP,8
 12615154,barryvdh/laravel-debugbar,PHP,10
-61490598,PHPOffice/PhpSpreadsheet,PHP,3
-14259390,SpartnerNL/Laravel-Excel,PHP,7
+61490598,PHPOffice/PhpSpreadsheet,PHP,4
+14259390,SpartnerNL/Laravel-Excel,PHP,8
 2699935,squizlabs/PHP_CodeSniffer,PHP,1
-656494,cakephp/cakephp,PHP,6
-5508585,YOURLS/YOURLS,PHP,3
+656494,cakephp/cakephp,PHP,7
+5508585,YOURLS/YOURLS,PHP,4
 330275,twigphp/Twig,PHP,3
 6763587,PrestaShop/PrestaShop,PHP,3
 12204147,mautic/mautic,PHP,3
@@ -18,7 +18,7 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,4
 141720301,dr5hn/countries-states-cities-database,PHP,10
 182349597,jqhph/dcat-admin,PHP,3
-39182755,glpi-project/glpi,PHP,6
+39182755,glpi-project/glpi,PHP,7
 96090745,ambionics/phpggc,PHP,6
 111562942,statamic/cms,PHP,4
 131995661,shopware/platform,PHP,1
