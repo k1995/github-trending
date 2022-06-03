@@ -1,6 +1,6 @@
 id,name,lang,new stars
 70104825,dotnet-architecture/eShopOnContainers,C#,15
-69662720,mxgmn/WaveFunctionCollapse,C#,83
+69662720,mxgmn/WaveFunctionCollapse,C#,80
 29078997,dotnet/roslyn,C#,5
 1613345,DapperLib/Dapper,C#,6
 28239455,dotnet/AspNetCore.Docs,C#,7
@@ -11,10 +11,10 @@ id,name,lang,new stars
 103086697,thangchung/clean-code-dotnet,C#,4
 19216825,xamarin/xamarin-forms-samples,C#,0
 10601208,umbraco/Umbraco-CMS,C#,1
-117102183,ChilliCream/hotchocolate,C#,14
+117102183,ChilliCream/hotchocolate,C#,15
 151148482,elsa-workflows/elsa-core,C#,6
 288428676,MudBlazor/MudBlazor,C#,8
-187499284,Cysharp/UniTask,C#,7
+187499284,Cysharp/UniTask,C#,8
 66709088,ClosedXML/ClosedXML,C#,4
 107134451,dbrizov/NaughtyAttributes,C#,6
 119571446,dotnet/samples,C#,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 373274891,CommunityToolkit/Maui,C#,9
 464409464,amantinband/throw,C#,13
 248440034,SeppPenner/awesome-german-piracy,C#,5
-377619517,Raicuparta/two-forks-vr,C#,8
-361647299,Cratesmith/Cratesmith.AssetUI,C#,15
+377619517,Raicuparta/two-forks-vr,C#,7
+361647299,Cratesmith/Cratesmith.AssetUI,C#,16

@@ -1,17 +1,17 @@
 id,name,lang,new stars
 132464395,Snailclimb/JavaGuide,Java,40
-507775,elastic/elasticsearch,Java,17
+507775,elastic/elasticsearch,Java,16
 44662669,dbeaver/dbeaver,Java,20
-120395176,alibaba/easyexcel,Java,18
+120395176,alibaba/easyexcel,Java,17
 1103607,jenkinsci/jenkins,Java,10
-6207167,mockito/mockito,Java,16
+6207167,mockito/mockito,Java,15
 23418517,apache/hadoop,Java,3
 133134007,OpenAPITools/openapi-generator,Java,17
 501687,antlr/antlr4,Java,12
 75277003,thingsboard/thingsboard,Java,7
 217943361,doocs/source-code-hunter,Java,46
-156317154,theonedev/onedev,Java,13
-391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,13
+156317154,theonedev/onedev,Java,14
+391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,12
 688352,apache/jmeter,Java,6
 203183673,zhaojun1998/zfile,Java,8
 53330030,quartz-scheduler/quartz,Java,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 196475719,springdoc/springdoc-openapi,Java,9
 307894865,alibaba/GraphScope,Java,4
 341631350,apache/lucene,Java,2
-120970441,GoogleCloudPlatform/DataflowTemplates,Java,0
+120970441,GoogleCloudPlatform/DataflowTemplates,Java,1
