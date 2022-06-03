@@ -1,26 +1,26 @@
 id,name,lang,new stars
+31792824,flutter/flutter,Dart,2466
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,5855
-4578002,faif/python-patterns,Python,1897
-39840932,google/googletest,C++,849
-262296122,PaddlePaddle/PaddleOCR,Python,2215
-299354207,rustdesk/rustdesk,Rust,4631
-281975310,type-challenges/type-challenges,TypeScript,2215
-157166750,lensapp/lens,TypeScript,1071
-120710644,Vonng/ddia,Python,1201
-299628763,Asabeneh/30-Days-Of-React,JavaScript,2108
-461710233,pyscript/pyscript,TypeScript,9144
-52728517,programthink/zhao,Python,688
-345368765,NvChad/NvChad,Lua,1300
-482520194,Grasscutters/Grasscutter,Java,4277
+196701619,tauri-apps/tauri,Rust,4750
+4578002,faif/python-patterns,Python,1919
+39840932,google/googletest,C++,850
+262296122,PaddlePaddle/PaddleOCR,Python,2217
+299354207,rustdesk/rustdesk,Rust,4643
+281975310,type-challenges/type-challenges,TypeScript,2220
+157166750,lensapp/lens,TypeScript,1073
+120710644,Vonng/ddia,Python,1199
+299628763,Asabeneh/30-Days-Of-React,JavaScript,2130
+461710233,pyscript/pyscript,TypeScript,8946
+52728517,programthink/zhao,Python,680
+345368765,NvChad/NvChad,Lua,1309
+482520194,Grasscutters/Grasscutter,Java,4245
 301830590,benbjohnson/litestream,Go,1474
-419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,912
-336274588,PaddlePaddle/PaddleNLP,Python,1178
-400501136,deepmind/mujoco,C,833
-422274596,hpcaitech/ColossalAI,Python,1359
-481732253,microsoft/Microsoft-3D-Movie-Maker,SWIG,3402
-464827989,jsonhero-io/jsonhero-web,TypeScript,1244
-488004650,facebookresearch/metaseq,Python,3103
+419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,915
+336274588,PaddlePaddle/PaddleNLP,Python,1180
+400501136,deepmind/mujoco,C,836
+422274596,hpcaitech/ColossalAI,Python,1365
+488004650,facebookresearch/metaseq,Python,3105
 462597790,aptos-labs/aptos-core,Rust,1118
-463337778,alembics/disco-diffusion,Jupyter Notebook,1121
-460314453,Tencent/tmagic-editor,TypeScript,1721
-482425877,alibaba/fastjson2,Java,965
+460314453,Tencent/tmagic-editor,TypeScript,1708
+482425877,alibaba/fastjson2,Java,966
+480480380,education/GitHubGraduation-2022,JavaScript,1240
