@@ -1,21 +1,21 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,18
-1864363,composer/composer,PHP,10
+1863329,laravel/laravel,PHP,19
+1864363,composer/composer,PHP,9
 448045,sebastianbergmann/phpunit,PHP,10
-2253830,PHPMailer/PHPMailer,PHP,8
-1631570,nikic/PHP-Parser,PHP,8
+2253830,PHPMailer/PHPMailer,PHP,7
+1631570,nikic/PHP-Parser,PHP,7
 12615154,barryvdh/laravel-debugbar,PHP,10
 61490598,PHPOffice/PhpSpreadsheet,PHP,4
 14259390,SpartnerNL/Laravel-Excel,PHP,8
 2699935,squizlabs/PHP_CodeSniffer,PHP,1
-656494,cakephp/cakephp,PHP,7
+656494,cakephp/cakephp,PHP,8
 5508585,YOURLS/YOURLS,PHP,4
 330275,twigphp/Twig,PHP,3
 6763587,PrestaShop/PrestaShop,PHP,3
+95011974,akaunting/akaunting,PHP,59
 12204147,mautic/mautic,PHP,3
-95011974,akaunting/akaunting,PHP,70
-439861,moodle/moodle,PHP,4
-1957456,Dolibarr/dolibarr,PHP,4
+439861,moodle/moodle,PHP,3
+1957456,Dolibarr/dolibarr,PHP,5
 141720301,dr5hn/countries-states-cities-database,PHP,10
 182349597,jqhph/dcat-admin,PHP,3
 39182755,glpi-project/glpi,PHP,7
@@ -23,4 +23,4 @@ id,name,lang,new stars
 111562942,statamic/cms,PHP,4
 131995661,shopware/platform,PHP,1
 493337810,hasinhayder/hydra,PHP,15
-497038217,spatie/laravel-login-link,PHP,6
+497038217,spatie/laravel-login-link,PHP,5
