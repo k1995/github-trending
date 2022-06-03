@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-7569578,discourse/discourse,Ruby,8
-27442967,fastlane/fastlane,Ruby,6
+8514,rails/rails,Ruby,6
+7569578,discourse/discourse,Ruby,6
+27442967,fastlane/fastlane,Ruby,7
 53238813,Homebrew/brew,Ruby,11
-481872,hashicorp/vagrant,Ruby,7
-2500088,gitlabhq/gitlabhq,Ruby,2
+481872,hashicorp/vagrant,Ruby,10
+2500088,gitlabhq/gitlabhq,Ruby,4
 1090311,elastic/logstash,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,9
+202291859,chatwoot/chatwoot,Ruby,8
 3314,spree/spree,Ruby,2
 1918677,fluent/fluentd,Ruby,1
 96395,faker-ruby/faker,Ruby,0
@@ -16,8 +16,8 @@ id,name,lang,new stars
 451035,heartcombo/simple_form,Ruby,0
 21829,thoughtbot/factory_bot,Ruby,0
 108278,chef/chef,Ruby,2
-75785147,rails/webpacker,Ruby,1
-103766152,github/explore,Ruby,2
+75785147,rails/webpacker,Ruby,0
+103766152,github/explore,Ruby,1
 14238949,elastic/elasticsearch-rails,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,2
 200302808,github/view_component,Ruby,3
