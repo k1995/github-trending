@@ -1,16 +1,16 @@
 id,name,lang,new stars
-156018,redis/redis,C,540
+156018,redis/redis,C,538
 1357796,emscripten-core/emscripten,C,170
-102578345,coolsnowwolf/lede,C,643
-7634677,openssl/openssl,C,298
-34921116,iovisor/bcc,C,290
-27737393,qmk/qmk_firmware,C,329
-13836499,raysan5/raylib,C,281
+102578345,coolsnowwolf/lede,C,641
+7634677,openssl/openssl,C,295
+34921116,iovisor/bcc,C,291
+27737393,qmk/qmk_firmware,C,330
+13836499,raysan5/raylib,C,280
 60667730,lvgl/lvgl,C,360
 70127218,espressif/arduino-esp32,C,202
-6041301,sumatrapdfreader/sumatrapdf,C,264
+6041301,sumatrapdfreader/sumatrapdf,C,263
 54280778,DaveGamble/cJSON,C,146
-254327261,sandboxie-plus/Sandboxie,C,393
+254327261,sandboxie-plus/Sandboxie,C,389
 13310527,jemalloc/jemalloc,C,121
 1979797,FreeRDP/FreeRDP,C,500
 150354367,Meituan-Dianping/Logan,C,106
@@ -19,8 +19,8 @@ id,name,lang,new stars
 83160811,littlefs-project/littlefs,C,63
 92203868,fairyglade/ly,C,597
 34807561,nanopb/nanopb,C,64
-470739558,MrGlockenspiel/activate-linux,C,2636
+470739558,MrGlockenspiel/activate-linux,C,2637
 128791889,haproxy/haproxy,C,93
-284134871,flipperdevices/flipperzero-firmware,C,292
+284134871,flipperdevices/flipperzero-firmware,C,293
 15768646,vedderb/bldc,C,56
 195199001,0015/ThatProject,C,103
