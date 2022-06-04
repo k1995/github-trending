@@ -1,11 +1,11 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,22
-100060912,microsoft/terminal,C++,22
-1181927,bitcoin/bitcoin,C++,22
-22887094,tesseract-ocr/tesseract,C++,8
-11171548,nlohmann/json,C++,15
+9384267,electron/electron,C++,20
+100060912,microsoft/terminal,C++,21
+1181927,bitcoin/bitcoin,C++,19
+22887094,tesseract-ocr/tesseract,C++,9
+11171548,nlohmann/json,C++,14
 39840932,google/googletest,C++,7
-60246359,ClickHouse/ClickHouse,C++,15
+60246359,ClickHouse/ClickHouse,C++,16
 81227005,facebookresearch/faiss,C++,10
 7056202,fmtlib/fmt,C++,13
 27500243,google/libphonenumber,C++,5
@@ -15,12 +15,12 @@ id,name,lang,new stars
 5298790,PX4/PX4-Autopilot,C++,5
 99919302,apache/incubator-doris,C++,2
 153097643,openvinotoolkit/openvino,C++,5
-112542515,NVIDIA/cutlass,C++,8
+112542515,NVIDIA/cutlass,C++,7
 276269866,TixiaoShan/LIO-SAM,C++,0
 6659299,ros-planning/navigation,C++,2
 446669267,focus-creative-games/huatuo,C++,9
 35440404,aws/aws-sdk-cpp,C++,0
-494232964,HazyResearch/flash-attention,C++,26
-493029626,Akebi-Group/Akebi-GC,C++,40
-436532699,PJLab-ADG/SensorsCalibration,C++,61
+494232964,HazyResearch/flash-attention,C++,24
+493029626,Akebi-Group/Akebi-GC,C++,34
+436532699,PJLab-ADG/SensorsCalibration,C++,62
 447968748,datamallchain/dmchain_contract,C++,11
