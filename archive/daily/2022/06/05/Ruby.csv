@@ -1,8 +1,8 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
+8514,rails/rails,Ruby,9
 65252,jekyll/jekyll,Ruby,10
-27442967,fastlane/fastlane,Ruby,28
-481872,hashicorp/vagrant,Ruby,5
+27442967,fastlane/fastlane,Ruby,27
+481872,hashicorp/vagrant,Ruby,6
 308770,heartcombo/devise,Ruby,3
 538746,ruby/ruby,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,0
@@ -11,7 +11,7 @@ id,name,lang,new stars
 3195124,mperham/sidekiq,Ruby,2
 1918677,fluent/fluentd,Ruby,2
 1725199,github/linguist,Ruby,2
-451035,heartcombo/simple_form,Ruby,2
+451035,heartcombo/simple_form,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,2
 2441517,puma/puma,Ruby,1
 108278,chef/chef,Ruby,1
