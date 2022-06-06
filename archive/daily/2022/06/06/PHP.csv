@@ -1,13 +1,13 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,8
 2253830,PHPMailer/PHPMailer,PHP,6
-2889328,WordPress/WordPress,PHP,2
+2889328,WordPress/WordPress,PHP,3
 12615154,barryvdh/laravel-debugbar,PHP,1
 47495360,koel/koel,PHP,6
-56728437,docker/labs,PHP,1
-2699935,squizlabs/PHP_CodeSniffer,PHP,1
+56728437,docker/labs,PHP,2
+2699935,squizlabs/PHP_CodeSniffer,PHP,2
 6763587,PrestaShop/PrestaShop,PHP,2
-14346979,snipe/snipe-it,PHP,6
+14346979,snipe/snipe-it,PHP,4
 3217621,phpmyadmin/phpmyadmin,PHP,4
 31541210,aimeos/aimeos-laravel,PHP,2
 11935508,RSS-Bridge/rss-bridge,PHP,5
@@ -16,11 +16,11 @@ id,name,lang,new stars
 38200433,jeroennoten/Laravel-AdminLTE,PHP,0
 69691727,pmmp/PocketMine-MP,PHP,0
 14724954,opensourcepos/opensourcepos,PHP,0
-204114509,solstice23/argon-theme,PHP,0
-61838413,danog/MadelineProto,PHP,1
+204114509,solstice23/argon-theme,PHP,1
+61838413,danog/MadelineProto,PHP,2
 75645659,WordPress/wordpress-develop,PHP,3
 278767494,maxdenaro/maxgraph-youtube-source,PHP,0
 184538454,yankovalenko94/Webdev2019,PHP,0
-447497930,mantoufan/alipay-global-sdk-php,PHP,0
-409306556,usualtool/framework,PHP,0
-497224505,Mosasauroidea/GazellePW,PHP,14
+447497930,mantoufan/alipay-global-sdk-php,PHP,2
+409306556,usualtool/framework,PHP,2
+497224505,Mosasauroidea/GazellePW,PHP,15
