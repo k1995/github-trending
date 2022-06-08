@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,5
-53238813,Homebrew/brew,Ruby,12
-481872,hashicorp/vagrant,Ruby,10
+8514,rails/rails,Ruby,4
+53238813,Homebrew/brew,Ruby,14
+481872,hashicorp/vagrant,Ruby,11
 308770,heartcombo/devise,Ruby,4
 538746,ruby/ruby,Ruby,2
-73648678,forem/forem,Ruby,6
+73648678,forem/forem,Ruby,7
 202291859,chatwoot/chatwoot,Ruby,4
 3195124,mperham/sidekiq,Ruby,3
 96395,faker-ruby/faker,Ruby,4
@@ -18,7 +18,7 @@ id,name,lang,new stars
 1172597,thoughtbot/shoulda-matchers,Ruby,1
 103766152,github/explore,Ruby,2
 93163073,dependabot/dependabot-core,Ruby,1
-10088951,TheOdinProject/theodinproject,Ruby,4
+10088951,TheOdinProject/theodinproject,Ruby,3
 9831101,elastic/elasticsearch-ruby,Ruby,0
 1953385,stripe/stripe-ruby,Ruby,2
 12357002,ondrejbartas/sidekiq-cron,Ruby,0
