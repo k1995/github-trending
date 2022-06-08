@@ -1,14 +1,14 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,28
+45717250,tensorflow/tensorflow,C++,27
 9384267,electron/electron,C++,24
-22067521,ocornut/imgui,C++,78
-27729880,grpc/grpc,C++,15
+22067521,ocornut/imgui,C++,76
+27729880,grpc/grpc,C++,13
 60246359,ClickHouse/ClickHouse,C++,16
 4524181,facebook/folly,C++,10
-108110,mongodb/mongo,C++,7
+108110,mongodb/mongo,C++,6
 96246170,ApolloAuto/apollo,C++,10
 5133949,swoole/swoole-src,C++,10
-2200856,MarlinFirmware/Marlin,C++,60
+2200856,MarlinFirmware/Marlin,C++,56
 204593825,microsoft/STL,C++,7
 12756992,opencv/opencv_contrib,C++,4
 156939672,microsoft/onnxruntime,C++,9
@@ -16,10 +16,10 @@ id,name,lang,new stars
 184657328,NVIDIA/TensorRT,C++,7
 103626963,applenob/Cpp_Primer_Practice,C++,61
 244694174,project-chip/connectedhomeip,C++,34
-33100064,jbeder/yaml-cpp,C++,5
-20293077,ethz-asl/kalibr,C++,1
+33100064,jbeder/yaml-cpp,C++,6
+20293077,ethz-asl/kalibr,C++,2
 206791328,google/highway,C++,157
 2408045,zrax/pycdc,C++,3
-467157951,filecxx/FileCentipede,C++,19
-497617084,Idov31/Nidhogg,C++,44
-491862462,keith2018/SoftGLRender,C++,20
+467157951,filecxx/FileCentipede,C++,20
+497617084,Idov31/Nidhogg,C++,43
+491862462,keith2018/SoftGLRender,C++,21
