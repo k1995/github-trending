@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
+8514,rails/rails,Ruby,10
 27442967,fastlane/fastlane,Ruby,4
-2293158,rapid7/metasploit-framework,Ruby,9
-481872,hashicorp/vagrant,Ruby,10
+2293158,rapid7/metasploit-framework,Ruby,7
+481872,hashicorp/vagrant,Ruby,11
 2500088,gitlabhq/gitlabhq,Ruby,1
 308770,heartcombo/devise,Ruby,6
-1090311,elastic/logstash,Ruby,4
+1090311,elastic/logstash,Ruby,3
 4095287,rubocop/rubocop,Ruby,1
 96395,faker-ruby/faker,Ruby,4
 15435,Shopify/liquid,Ruby,7
-611921,activeadmin/activeadmin,Ruby,2
+611921,activeadmin/activeadmin,Ruby,1
 11412473,ankane/searchkick,Ruby,3
-6899875,opf/openproject,Ruby,4
+6899875,opf/openproject,Ruby,3
 535266,vcr/vcr,Ruby,2
 1548802,activerecord-hackery/ransack,Ruby,1
 16994115,CanCanCommunity/cancancan,Ruby,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 70830890,bigbluebutton/greenlight,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,0
-478303154,monade/paramoid,Ruby,3
+478303154,monade/paramoid,Ruby,5
 279271772,DataDog/datadog-api-client-ruby,Ruby,0
