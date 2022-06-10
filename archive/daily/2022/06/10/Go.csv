@@ -1,10 +1,10 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,86
+20904437,gin-gonic/gin,Go,88
 29261473,minio/minio,Go,21
 26337322,rancher/rancher,Go,12
 129717717,grafana/loki,Go,9
 36071697,ory/hydra,Go,16
-180687624,aquasecurity/trivy,Go,73
+180687624,aquasecurity/trivy,Go,56
 36653430,hashicorp/nomad,Go,6
 201658460,geektutu/7days-golang,Go,14
 222172014,slackhq/nebula,Go,12
@@ -18,9 +18,9 @@ id,name,lang,new stars
 147886080,crossplane/crossplane,Go,6
 92969352,moby/buildkit,Go,12
 31333618,shopspring/decimal,Go,9
-58184885,kubernetes/kube-state-metrics,Go,3
+58184885,kubernetes/kube-state-metrics,Go,4
 94166852,httprunner/httprunner,Go,17
 311639195,karmada-io/karmada,Go,7
 100061496,spiffe/spire,Go,6
 480634883,newpanjing/gofound,Go,17
-498831802,knadh/dns.toys,Go,96
+498831802,knadh/dns.toys,Go,98

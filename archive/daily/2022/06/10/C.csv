@@ -1,18 +1,18 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,28
+10744183,netdata/netdata,C,29
 10446890,bilibili/ijkplayer,C,7
-569041,curl/curl,C,18
+569041,curl/curl,C,17
 1357796,emscripten-core/emscripten,C,9
 7634677,openssl/openssl,C,9
 15337142,micropython/micropython,C,5
-28515839,skywind3000/kcp,C,5
+28515839,skywind3000/kcp,C,6
 13836499,raysan5/raylib,C,7
 1856976,libevent/libevent,C,4
 105944401,yugabyte/yugabyte-db,C,1
 59771425,zephyrproject-rtos/zephyr,C,2
-3318027,id-Software/Quake-III-Arena,C,2
-394318710,valinet/ExplorerPatcher,C,25
-213916896,blender/blender,C,15
+3318027,id-Software/Quake-III-Arena,C,0
+394318710,valinet/ExplorerPatcher,C,24
+213916896,blender/blender,C,13
 673267,redis/hiredis,C,0
 18257358,edenhill/kcat,C,8
 7705639,merbanan/rtl_433,C,3
