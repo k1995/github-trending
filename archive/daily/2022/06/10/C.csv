@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,58
+2325298,torvalds/linux,C,57
 10744183,netdata/netdata,C,18
 1903522,php/php-src,C,11
 1357796,emscripten-core/emscripten,C,4
 63477515,TheAlgorithms/C,C,7
 84240850,timescale/timescaledb,C,3
-184981,memcached/memcached,C,6
+184981,memcached/memcached,C,5
 6041301,sumatrapdfreader/sumatrapdf,C,9
-437011,openzfs/zfs,C,4
+437011,openzfs/zfs,C,3
 53614190,eclipse/mosquitto,C,4
-394318710,valinet/ExplorerPatcher,C,24
-7037996,VirusTotal/yara,C,1
+394318710,valinet/ExplorerPatcher,C,23
+7037996,VirusTotal/yara,C,2
 213916896,blender/blender,C,12
 44781140,greenplum-db/gpdb,C,4
-214011414,kingToolbox/WindTerm,C,14
+214011414,kingToolbox/WindTerm,C,15
 38617,sqlcipher/sqlcipher,C,1
 18257358,edenhill/kcat,C,4
 29933948,fluent/fluent-bit,C,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 217654199,microsoft/msquic,C,5
 256105296,fw876/helloworld,C,3
 51990771,ARM-software/CMSIS_5,C,1
-478027888,dangiu/PicoMemcard,C,3
-501384340,Fluvian/tpp,C,9
+478027888,dangiu/PicoMemcard,C,2
+501384340,Fluvian/tpp,C,7
 500674038,tr3ee/CVE-2022-23222,C,37

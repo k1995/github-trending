@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,30
+6838921,prometheus/prometheus,Go,17
+11225014,etcd-io/etcd,Go,19
+31288958,hashicorp/vault,Go,8
+37448451,mattermost/mattermost-server,Go,8
+13628513,sirupsen/logrus,Go,12
+19205896,restic/restic,Go,6
+129717717,grafana/loki,Go,30
+21827146,chrislusf/seaweedfs,Go,9
+109145553,containers/podman,Go,22
+66573241,hyperledger/fabric,Go,0
+180687624,aquasecurity/trivy,Go,81
+48109239,cilium/cilium,Go,12
+33258973,influxdata/telegraf,Go,13
+16554739,elastic/beats,Go,2
+208728772,milvus-io/milvus,Go,13
+11206255,Shopify/sarama,Go,10
+135321861,ory/kratos,Go,405
+18765044,golang/oauth2,Go,13
+92132038,kubernetes-sigs/metrics-server,Go,7
+125619154,ory/keto,Go,8
+278480393,aws/karpenter,Go,5
+257434373,HyNetwork/hysteria,Go,9
+105711679,envoyproxy/protoc-gen-validate,Go,1
+100061496,spiffe/spire,Go,6
