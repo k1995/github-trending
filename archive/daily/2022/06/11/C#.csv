@@ -1,5 +1,5 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,124
+184456251,microsoft/PowerToys,C#,127
 262395224,dotnet/maui,C#,19
 193681686,netchx/netch,C#,16
 1135454,cefsharp/CefSharp,C#,0
@@ -7,10 +7,10 @@ id,name,lang,new stars
 201188122,rocksdanister/lively,C#,13
 203892454,kgrzybek/modular-monolith-with-ddd,C#,4
 5780416,NLog/NLog,C#,1
-50605426,microsoft/MixedRealityToolkit-Unity,C#,8
-778828,MassTransit/MassTransit,C#,12
+50605426,microsoft/MixedRealityToolkit-Unity,C#,6
+778828,MassTransit/MassTransit,C#,11
 19216825,xamarin/xamarin-forms-samples,C#,2
-2928944,Azure/azure-sdk-for-net,C#,6
+2928944,Azure/azure-sdk-for-net,C#,5
 100711978,btcpayserver/btcpayserver,C#,1
 103574336,Siccity/xNode,C#,3
 119571446,dotnet/samples,C#,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 161588836,microsoft/PowerPlatformConnectors,C#,2
 111510915,dotnet/dotnet-api-docs,C#,0
 346786715,MoralisWeb3/youtube-tutorials,C#,1
-493022945,apple/unityplugins,C#,19
+493022945,apple/unityplugins,C#,21
 360509005,devncore/leagueoflegends,C#,35
