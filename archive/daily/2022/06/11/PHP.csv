@@ -1,13 +1,13 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,12
-1420053,guzzle/guzzle,PHP,4
-1376664,Seldaek/monolog,PHP,6
-448045,sebastianbergmann/phpunit,PHP,3
-28628034,flarum/flarum,PHP,18
-8678290,barryvdh/laravel-ide-helper,PHP,1
-79111500,jupeter/clean-code-php,PHP,36
+1420053,guzzle/guzzle,PHP,3
+1376664,Seldaek/monolog,PHP,5
+448045,sebastianbergmann/phpunit,PHP,7
+28628034,flarum/flarum,PHP,15
+8678290,barryvdh/laravel-ide-helper,PHP,2
+79111500,jupeter/clean-code-php,PHP,34
 2884111,magento/magento2,PHP,4
-597887,doctrine/orm,PHP,4
+597887,doctrine/orm,PHP,2
 6660366,dompdf/dompdf,PHP,2
 677464,doctrine/dbal,PHP,3
 31295421,guzzle/psr7,PHP,0
@@ -17,10 +17,10 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,2
 9826184,elastic/elasticsearch-php,PHP,1
 4565995,phpseclib/phpseclib,PHP,1
-1953386,stripe/stripe-php,PHP,1
-69691727,pmmp/PocketMine-MP,PHP,4
+1953386,stripe/stripe-php,PHP,0
+69691727,pmmp/PocketMine-MP,PHP,3
 2641404,symfony/monolog-bundle,PHP,3
 74026995,CodelyTV/php-ddd-example,PHP,2
-131995661,shopware/platform,PHP,3
-400984450,kuaifan/dootask,PHP,13
+131995661,shopware/platform,PHP,2
+400984450,kuaifan/dootask,PHP,5
 455481266,daledavies/jump,PHP,7
