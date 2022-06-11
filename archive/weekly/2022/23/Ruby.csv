@@ -1,9 +1,9 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,56
-65252,jekyll/jekyll,Ruby,55
-27442967,fastlane/fastlane,Ruby,68
-53238813,Homebrew/brew,Ruby,99
-481872,hashicorp/vagrant,Ruby,40
+65252,jekyll/jekyll,Ruby,56
+27442967,fastlane/fastlane,Ruby,64
+53238813,Homebrew/brew,Ruby,98
+481872,hashicorp/vagrant,Ruby,39
 308770,heartcombo/devise,Ruby,29
 1090311,elastic/logstash,Ruby,19
 3195124,mperham/sidekiq,Ruby,17
@@ -13,7 +13,7 @@ id,name,lang,new stars
 4994614,wpscanteam/wpscan,Ruby,30
 30985840,solidusio/solidus,Ruby,16
 1172597,thoughtbot/shoulda-matchers,Ruby,2
-103766152,github/explore,Ruby,14
+103766152,github/explore,Ruby,15
 5144181,jnunemaker/flipper,Ruby,28
 14238949,elastic/elasticsearch-rails,Ruby,1
 200302808,github/view_component,Ruby,11
