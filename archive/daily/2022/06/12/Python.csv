@@ -1,25 +1,25 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,115
-155220641,huggingface/transformers,Python,69
-160919119,tiangolo/fastapi,Python,30
+83222441,donnemartin/system-design-primer,Python,111
+155220641,huggingface/transformers,Python,70
+160919119,tiangolo/fastapi,Python,36
 154739597,google/jax,Python,13
 253601257,alievk/avatarify-python,Python,15
-70908208,RasaHQ/rasa,Python,91
-267176885,facebookresearch/detr,Python,18
-70746484,apache/tvm,Python,6
+70908208,RasaHQ/rasa,Python,52
+267176885,facebookresearch/detr,Python,30
+70746484,apache/tvm,Python,5
 202693400,rougier/scientific-visualization-book,Python,13
 341714203,openai/DALL-E,Python,162
-382680786,borisdayma/dalle-mini,Python,585
+382680786,borisdayma/dalle-mini,Python,590
 414545335,NVlabs/stylegan3,Python,4
-495587598,lucidrains/imagen-pytorch,Python,43
-245837930,giswqs/geemap,Python,38
+495587598,lucidrains/imagen-pytorch,Python,45
+245837930,giswqs/geemap,Python,19
 222110214,huawei-noah/CV-Backbones,Python,10
-416157128,mosaicml/composer,Python,57
-487309566,jina-ai/dalle-flow,Jupyter Notebook,132
-438565846,NVlabs/eg3d,Python,77
-489384246,p1ngul1n0/blackbird,Python,11
-476121078,Nefcore/CRLFsuite,Python,35
-492277169,carykh/lazykh,Python,21
+416157128,mosaicml/composer,Python,86
+487309566,jina-ai/dalle-flow,Jupyter Notebook,131
+438565846,NVlabs/eg3d,Python,73
+489384246,p1ngul1n0/blackbird,Python,12
+476121078,Nefcore/CRLFsuite,Python,33
+492277169,carykh/lazykh,Python,20
 499127993,komomon/CVE-2022-30190-follina-Office-MSDT-Fixed,Python,25
 501034346,aaronsvk/CVE-2022-30075,Python,17
 501380780,chungyiweng/humannerf,Python,16
