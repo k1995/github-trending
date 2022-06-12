@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,48
-10744183,netdata/netdata,C,12
+2325298,torvalds/linux,C,51
+10744183,netdata/netdata,C,16
 1614410,FFmpeg/FFmpeg,C,27
 5101141,stedolan/jq,C,3
 102578345,coolsnowwolf/lede,C,18
-7634677,openssl/openssl,C,6
+7634677,openssl/openssl,C,8
 184981,memcached/memcached,C,2
-927442,postgres/postgres,C,8
+927442,postgres/postgres,C,11
 613829,openresty/lua-nginx-module,C,2
 39242894,coturn/coturn,C,6
 6376337,pocoproject/poco,C,1
@@ -14,9 +14,9 @@ id,name,lang,new stars
 31791482,microsoft/Windows-driver-samples,C,1
 59676171,Klipper3d/klipper,C,1
 293316071,bellard/quickjs,C,5
-29933948,fluent/fluent-bit,C,2
+29933948,fluent/fluent-bit,C,1
 97212490,floooh/sokol,C,5
-469303019,ehids/ecapture,C,16
+469303019,ehids/ecapture,C,19
 1613176,tianocore/edk2,C,2
 146155284,SanderMertens/flecs,C,6
 48345674,neomutt/neomutt,C,1

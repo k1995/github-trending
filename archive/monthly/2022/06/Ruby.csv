@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,273
+8514,rails/rails,Ruby,274
 65252,jekyll/jekyll,Ruby,288
-2293158,rapid7/metasploit-framework,Ruby,307
+2293158,rapid7/metasploit-framework,Ruby,306
 308770,heartcombo/devise,Ruby,95
 1090311,elastic/logstash,Ruby,65
 11423758,mame/quine-relay,Ruby,192
-3195124,mperham/sidekiq,Ruby,80
+3195124,mperham/sidekiq,Ruby,79
 3314,spree/spree,Ruby,66
 88740103,postalserver/postal,Ruby,138
-52855516,Homebrew/homebrew-core,Ruby,160
-1918677,fluent/fluentd,Ruby,79
-96395,faker-ruby/faker,Ruby,62
+52855516,Homebrew/homebrew-core,Ruby,157
+1918677,fluent/fluentd,Ruby,80
+96395,faker-ruby/faker,Ruby,63
 1725199,github/linguist,Ruby,111
 21829,thoughtbot/factory_bot,Ruby,38
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,160
@@ -19,7 +19,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,70
 103766152,github/explore,Ruby,81
 11426474,github/choosealicense.com,Ruby,56
-200302808,github/view_component,Ruby,64
+200302808,github/view_component,Ruby,65
 419827947,joemasilotti/railsdevs.com,Ruby,43
 66497320,DataDog/dd-trace-rb,Ruby,6
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
