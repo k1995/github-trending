@@ -1,10 +1,10 @@
 id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,27
-36502,git/git,C,16
-13233158,obsproject/obs-studio,C,30
+36502,git/git,C,14
+13233158,obsproject/obs-studio,C,32
 102578345,coolsnowwolf/lede,C,24
-196353673,taosdata/TDengine,C,4
-80286288,arendst/Tasmota,C,1
+196353673,taosdata/TDengine,C,5
+80286288,arendst/Tasmota,C,3
 27737393,qmk/qmk_firmware,C,10
 45821540,openwrt/openwrt,C,14
 41215835,HandBrake/HandBrake,C,10
@@ -12,15 +12,15 @@ id,name,lang,new stars
 437011,openzfs/zfs,C,8
 254327261,sandboxie-plus/Sandboxie,C,11
 97556265,catboost/catboost,C,5
-37060852,betaflight/betaflight,C,3
+37060852,betaflight/betaflight,C,4
 5805256,lua/lua,C,4
-241659610,OpenIntelWireless/itlwm,C,7
-40556106,wazuh/wazuh,C,34
-97212490,floooh/sokol,C,5
+241659610,OpenIntelWireless/itlwm,C,10
+40556106,wazuh/wazuh,C,31
+97212490,floooh/sokol,C,7
 469303019,ehids/ecapture,C,21
 151870364,xiaorouji/openwrt-passwall,C,6
 40306512,LuaJIT/LuaJIT,C,4
-470739558,MrGlockenspiel/activate-linux,C,30
-96348842,DPDK/dpdk,C,3
+470739558,MrGlockenspiel/activate-linux,C,25
+96348842,DPDK/dpdk,C,0
 473137633,cilium/tetragon,C,10
 382113989,medusalix/xone,C,6
