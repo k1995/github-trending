@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,111
-155220641,huggingface/transformers,Python,70
-160919119,tiangolo/fastapi,Python,36
+83222441,donnemartin/system-design-primer,Python,118
+155220641,huggingface/transformers,Python,71
+160919119,tiangolo/fastapi,Python,34
 154739597,google/jax,Python,13
-253601257,alievk/avatarify-python,Python,15
+253601257,alievk/avatarify-python,Python,16
 70908208,RasaHQ/rasa,Python,52
-267176885,facebookresearch/detr,Python,30
+267176885,facebookresearch/detr,Python,29
 70746484,apache/tvm,Python,5
 202693400,rougier/scientific-visualization-book,Python,13
-341714203,openai/DALL-E,Python,162
-382680786,borisdayma/dalle-mini,Python,590
+341714203,openai/DALL-E,Python,164
+382680786,borisdayma/dalle-mini,Python,578
 414545335,NVlabs/stylegan3,Python,4
-495587598,lucidrains/imagen-pytorch,Python,45
-245837930,giswqs/geemap,Python,19
-222110214,huawei-noah/CV-Backbones,Python,10
-416157128,mosaicml/composer,Python,86
-487309566,jina-ai/dalle-flow,Jupyter Notebook,131
-438565846,NVlabs/eg3d,Python,73
-489384246,p1ngul1n0/blackbird,Python,12
+495587598,lucidrains/imagen-pytorch,Python,46
+245837930,giswqs/geemap,Python,18
+222110214,huawei-noah/CV-Backbones,Python,9
+416157128,mosaicml/composer,Python,67
+487309566,jina-ai/dalle-flow,Jupyter Notebook,134
+438565846,NVlabs/eg3d,Python,63
+489384246,p1ngul1n0/blackbird,Python,10
 476121078,Nefcore/CRLFsuite,Python,33
-492277169,carykh/lazykh,Python,20
-499127993,komomon/CVE-2022-30190-follina-Office-MSDT-Fixed,Python,25
+492277169,carykh/lazykh,Python,21
+499127993,komomon/CVE-2022-30190-follina-Office-MSDT-Fixed,Python,20
 501034346,aaronsvk/CVE-2022-30075,Python,17
 501380780,chungyiweng/humannerf,Python,16
-500423675,oli233/corona-analysis,Python,22
+500423675,oli233/corona-analysis,Python,19

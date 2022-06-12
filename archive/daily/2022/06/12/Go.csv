@@ -1,10 +1,10 @@
 id,name,lang,new stars
-23096959,golang/go,Go,57
-20904437,gin-gonic/gin,Go,25
-6838921,prometheus/prometheus,Go,17
-156084530,ehang-io/nps,Go,9
+23096959,golang/go,Go,48
+20904437,gin-gonic/gin,Go,27
+6838921,prometheus/prometheus,Go,19
+156084530,ehang-io/nps,Go,10
 285864199,zeromicro/go-zero,Go,33
-165041732,go-kratos/kratos,Go,10
+165041732,go-kratos/kratos,Go,11
 120227732,fyne-io/fyne,Go,18
 129717717,grafana/loki,Go,50
 27729907,grpc/grpc-go,Go,11
@@ -14,13 +14,13 @@ id,name,lang,new stars
 184490584,GoogleCloudPlatform/terraformer,Go,6
 93444615,hashicorp/terraform-provider-aws,Go,3
 135321861,ory/kratos,Go,255
-10721619,hajimehoshi/ebiten,Go,9
+10721619,hajimehoshi/ebiten,Go,11
 120650407,operator-framework/operator-sdk,Go,6
 244694886,ccfos/nightingale,Go,2
 410430370,IceWhaleTech/CasaOS,Go,13
-83363132,CrunchyData/postgres-operator,Go,5
-329821568,EdgeSecurityTeam/EHole,Go,5
+83363132,CrunchyData/postgres-operator,Go,7
+329821568,EdgeSecurityTeam/EHole,Go,7
 100061496,spiffe/spire,Go,0
 299054922,alpkeskin/mosint,Go,6
-498831802,knadh/dns.toys,Go,182
-440752086,coder/coder,Go,65
+498831802,knadh/dns.toys,Go,241
+440752086,coder/coder,Go,208

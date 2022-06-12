@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
+8514,rails/rails,Ruby,8
 27442967,fastlane/fastlane,Ruby,7
-52281283,mastodon/mastodon,Ruby,7
+52281283,mastodon/mastodon,Ruby,9
 481872,hashicorp/vagrant,Ruby,2
-3623050,Homebrew/homebrew-cask,Ruby,2
+3623050,Homebrew/homebrew-cask,Ruby,1
 2203645,CocoaPods/CocoaPods,Ruby,0
 18486300,lewagon/setup,Ruby,9
 1090311,elastic/logstash,Ruby,0
-202291859,chatwoot/chatwoot,Ruby,9
+202291859,chatwoot/chatwoot,Ruby,10
 3195124,mperham/sidekiq,Ruby,1
 1918677,fluent/fluentd,Ruby,1
 611921,activeadmin/activeadmin,Ruby,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1953385,stripe/stripe-ruby,Ruby,1
 225463,Shopify/shopify_api,Ruby,1
 66497320,DataDog/dd-trace-rb,Ruby,0
-500916676,github/entitlements-app,Ruby,57
+500916676,github/entitlements-app,Ruby,58
