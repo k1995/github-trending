@@ -1,7 +1,7 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,50
-48378947,fatedier/frp,Go,26
-17728164,hashicorp/terraform,Go,9
+21540759,avelino/awesome-go,Go,55
+48378947,fatedier/frp,Go,27
+17728164,hashicorp/terraform,Go,12
 136815833,Dreamacro/clash,Go,41
 15045751,docker/compose,Go,9
 120227732,fyne-io/fyne,Go,18
@@ -9,18 +9,18 @@ id,name,lang,new stars
 187403699,FiloSottile/age,Go,42
 144849757,labring/sealos,Go,6
 311315731,XTLS/Xray-core,Go,15
-135321861,ory/kratos,Go,259
+135321861,ory/kratos,Go,255
 10721619,hajimehoshi/ebiten,Go,9
 384451028,cloudwego/kitex,Go,3
 410430370,IceWhaleTech/CasaOS,Go,13
 201546443,trustwallet/assets,Go,4
-108967484,sensepost/gowitness,Go,13
+108967484,sensepost/gowitness,Go,14
 310632133,solana-labs/token-list,Go,2
-498831802,knadh/dns.toys,Go,189
+498831802,knadh/dns.toys,Go,182
 286530881,FloatTech/ZeroBot-Plugin,Go,4
 491573171,sigstore/gitsign,Go,15
-449462826,RistBS/Awesome-RedTeam-Cheatsheet,Go,37
-440752086,coder/coder,Go,73
-457233024,mp303eth/MinerProxy303,Go,8
+457233024,GoMinerTool/MinerProxy303,Go,8
+449462826,RistBS/Awesome-RedTeam-Cheatsheet,Go,36
+440752086,coder/coder,Go,65
 429509802,Azure/draft,Go,3
 481147569,mongofs/scache,Go,12
