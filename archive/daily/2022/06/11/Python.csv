@@ -1,26 +1,26 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,130
-155220641,huggingface/transformers,Python,111
-160919119,tiangolo/fastapi,Python,50
+155220641,huggingface/transformers,Python,109
+160919119,tiangolo/fastapi,Python,38
 154739597,google/jax,Python,12
 253601257,alievk/avatarify-python,Python,26
-70908208,RasaHQ/rasa,Python,184
+70908208,RasaHQ/rasa,Python,180
 267176885,facebookresearch/detr,Python,11
 70746484,apache/tvm,Python,8
-202693400,rougier/scientific-visualization-book,Python,14
+202693400,rougier/scientific-visualization-book,Python,16
 341714203,openai/DALL-E,Python,108
 382680786,borisdayma/dalle-mini,Python,645
 414545335,NVlabs/stylegan3,Python,10
-495587598,lucidrains/imagen-pytorch,Python,44
+495587598,lucidrains/imagen-pytorch,Python,43
 245837930,giswqs/geemap,Python,34
 222110214,huawei-noah/CV-Backbones,Python,12
-416157128,mosaicml/composer,Python,88
-487309566,jina-ai/dalle-flow,Jupyter Notebook,224
-438565846,NVlabs/eg3d,Python,73
+416157128,mosaicml/composer,Python,75
+487309566,jina-ai/dalle-flow,Jupyter Notebook,111
+438565846,NVlabs/eg3d,Python,74
 489384246,p1ngul1n0/blackbird,Python,15
 476121078,Nefcore/CRLFsuite,Python,15
 492277169,carykh/lazykh,Python,18
-499127993,komomon/CVE-2022-30190-follina-Office-MSDT-Fixed,Python,69
-501034346,aaronsvk/CVE-2022-30075,Python,12
+499127993,komomon/CVE-2022-30190-follina-Office-MSDT-Fixed,Python,25
+501034346,aaronsvk/CVE-2022-30075,Python,14
 501380780,chungyiweng/humannerf,Python,17
-500423675,oli233/corona-analysis,Python,25
+500423675,oli233/corona-analysis,Python,26
