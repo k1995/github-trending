@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
-65252,jekyll/jekyll,Ruby,6
+8514,rails/rails,Ruby,8
+65252,jekyll/jekyll,Ruby,7
 7569578,discourse/discourse,Ruby,9
-52281283,mastodon/mastodon,Ruby,7
+52281283,mastodon/mastodon,Ruby,8
 2293158,rapid7/metasploit-framework,Ruby,16
-481872,hashicorp/vagrant,Ruby,7
-3623050,Homebrew/homebrew-cask,Ruby,5
-538746,ruby/ruby,Ruby,3
+481872,hashicorp/vagrant,Ruby,6
+3623050,Homebrew/homebrew-cask,Ruby,4
+538746,ruby/ruby,Ruby,4
 3314,spree/spree,Ruby,5
 2441517,puma/puma,Ruby,1
-103766152,github/explore,Ruby,3
+103766152,github/explore,Ruby,2
 614070,rubygems/rubygems,Ruby,1
 11426474,github/choosealicense.com,Ruby,2
 189010173,Hackplayers/evil-winrm,Ruby,4
@@ -18,7 +18,7 @@ id,name,lang,new stars
 1338040,otwcode/otwarchive,Ruby,0
 8154497,rubysec/ruby-advisory-db,Ruby,0
 419827947,joemasilotti/railsdevs.com,Ruby,1
-500916676,github/entitlements-app,Ruby,25
+500916676,github/entitlements-app,Ruby,27
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
 120533059,Azure-Samples/cognitive-services-ruby-sdk-samples,Ruby,0
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
