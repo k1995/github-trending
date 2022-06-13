@@ -1,7 +1,7 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,274
+8514,rails/rails,Ruby,281
 65252,jekyll/jekyll,Ruby,287
-2293158,rapid7/metasploit-framework,Ruby,314
+2293158,rapid7/metasploit-framework,Ruby,312
 308770,heartcombo/devise,Ruby,94
 1090311,elastic/logstash,Ruby,64
 11423758,mame/quine-relay,Ruby,190
@@ -10,13 +10,13 @@ id,name,lang,new stars
 88740103,postalserver/postal,Ruby,140
 52855516,Homebrew/homebrew-core,Ruby,157
 1918677,fluent/fluentd,Ruby,79
-96395,faker-ruby/faker,Ruby,63
-1725199,github/linguist,Ruby,111
+96395,faker-ruby/faker,Ruby,62
+1725199,github/linguist,Ruby,108
 8393,thoughtbot/paperclip,Ruby,6
 21829,thoughtbot/factory_bot,Ruby,36
 1548802,activerecord-hackery/ransack,Ruby,33
 30985840,solidusio/solidus,Ruby,71
-103766152,github/explore,Ruby,80
+103766152,github/explore,Ruby,79
 200302808,github/view_component,Ruby,69
 419827947,joemasilotti/railsdevs.com,Ruby,50
 66497320,DataDog/dd-trace-rb,Ruby,6
