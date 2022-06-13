@@ -2,12 +2,12 @@ id,name,lang,new stars
 21540759,avelino/awesome-go,Go,63
 48378947,fatedier/frp,Go,33
 136815833,Dreamacro/clash,Go,36
-119160553,photoprism/photoprism,Go,15
+119160553,photoprism/photoprism,Go,9
 19205896,restic/restic,Go,15
 62091339,kubernetes/kops,Go,3
 233130089,charmbracelet/bubbletea,Go,14
 116576783,bettercap/bettercap,Go,9
-187403699,FiloSottile/age,Go,24
+187403699,FiloSottile/age,Go,19
 116739828,DNSCrypt/dnscrypt-proxy,Go,5
 135321861,ory/kratos,Go,161
 10721619,hajimehoshi/ebiten,Go,9
@@ -23,4 +23,4 @@ id,name,lang,new stars
 498831802,knadh/dns.toys,Go,203
 440752086,coder/coder,Go,46
 502349596,sheepla/pingu,Go,116
-454922559,TBD54566975/ssi-sdk,Go,6
+454922559,TBD54566975/ssi-sdk,Go,5
