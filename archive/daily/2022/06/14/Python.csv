@@ -6,8 +6,8 @@ id,name,lang,new stars
 155220641,huggingface/transformers,Python,110
 12888993,home-assistant/core,Python,151
 5483330,soimort/you-get,Python,15
-74627617,commaai/openpilot,Python,20
-136026789,iperov/DeepFaceLab,Python,29
+74627617,commaai/openpilot,Python,16
+136026789,iperov/DeepFaceLab,Python,35
 162998479,sherlock-project/sherlock,Python,66
 307260205,yt-dlp/yt-dlp,Python,51
 212639071,bregman-arie/devops-exercises,Python,37
@@ -19,8 +19,8 @@ id,name,lang,new stars
 112070198,KurtBestor/Hitomi-Downloader,Python,21
 341714203,openai/DALL-E,Python,137
 382680786,borisdayma/dalle-mini,Python,709
-188673950,yoshiko2/Movie_Data_Capture,Python,7
+188673950,yoshiko2/Movie_Data_Capture,Python,11
 495587598,lucidrains/imagen-pytorch,Python,96
-416157128,mosaicml/composer,Python,25
+416157128,mosaicml/composer,Python,32
 500590187,UCSC-VLAA/RobustCNN,Python,7
 501034346,aaronsvk/CVE-2022-30075,Python,22
