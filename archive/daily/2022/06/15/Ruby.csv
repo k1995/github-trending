@@ -1,7 +1,7 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,7
-308770,heartcombo/devise,Ruby,2
-2203645,CocoaPods/CocoaPods,Ruby,4
+65252,jekyll/jekyll,Ruby,6
+308770,heartcombo/devise,Ruby,4
+2203645,CocoaPods/CocoaPods,Ruby,3
 18486300,lewagon/setup,Ruby,2
 1090311,elastic/logstash,Ruby,6
 202291859,chatwoot/chatwoot,Ruby,2
@@ -9,13 +9,13 @@ id,name,lang,new stars
 3314,spree/spree,Ruby,1
 52855516,Homebrew/homebrew-core,Ruby,1
 1918677,fluent/fluentd,Ruby,2
-1725199,github/linguist,Ruby,6
+1725199,github/linguist,Ruby,5
 812393,ruby-grape/grape,Ruby,1
 108278,chef/chef,Ruby,1
 277089,flyerhzm/bullet,Ruby,3
 355893,github/markup,Ruby,1
 535266,vcr/vcr,Ruby,1
-18294,activemerchant/active_merchant,Ruby,0
+18294,activemerchant/active_merchant,Ruby,1
 1314319,instructure/canvas-lms,Ruby,0
 29151578,rswag/rswag,Ruby,1
 229187949,shivammathur/homebrew-php,Ruby,3
