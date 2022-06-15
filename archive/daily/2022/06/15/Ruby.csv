@@ -1,19 +1,19 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,5
-53238813,Homebrew/brew,Ruby,11
-52281283,mastodon/mastodon,Ruby,10
+7569578,discourse/discourse,Ruby,9
+53238813,Homebrew/brew,Ruby,8
+52281283,mastodon/mastodon,Ruby,6
 2293158,rapid7/metasploit-framework,Ruby,11
-538746,ruby/ruby,Ruby,7
+538746,ruby/ruby,Ruby,8
 2203645,CocoaPods/CocoaPods,Ruby,1
-1090311,elastic/logstash,Ruby,8
-11423758,mame/quine-relay,Ruby,4
+1090311,elastic/logstash,Ruby,9
+11423758,mame/quine-relay,Ruby,6
 3195124,mperham/sidekiq,Ruby,3
 3314,spree/spree,Ruby,1
-88740103,postalserver/postal,Ruby,4
-1725199,github/linguist,Ruby,4
+88740103,postalserver/postal,Ruby,2
+1725199,github/linguist,Ruby,6
 812393,ruby-grape/grape,Ruby,1
 611921,activeadmin/activeadmin,Ruby,0
-13761875,greatghoul/remote-working,Ruby,122
+13761875,greatghoul/remote-working,Ruby,84
 21829,thoughtbot/factory_bot,Ruby,2
 2441517,puma/puma,Ruby,0
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,8
@@ -21,6 +21,6 @@ id,name,lang,new stars
 839336,simplecov-ruby/simplecov,Ruby,1
 30985840,solidusio/solidus,Ruby,3
 1462,ctran/annotate_models,Ruby,0
-14238949,elastic/elasticsearch-rails,Ruby,1
-200302808,github/view_component,Ruby,1
+14238949,elastic/elasticsearch-rails,Ruby,0
+200302808,github/view_component,Ruby,2
 136781582,rubocop/rubocop-rails,Ruby,2

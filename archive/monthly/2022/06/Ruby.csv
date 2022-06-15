@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,278
-65252,jekyll/jekyll,Ruby,285
+65252,jekyll/jekyll,Ruby,284
 2293158,rapid7/metasploit-framework,Ruby,323
 308770,heartcombo/devise,Ruby,101
 2203645,CocoaPods/CocoaPods,Ruby,57
-1090311,elastic/logstash,Ruby,72
-11423758,mame/quine-relay,Ruby,190
+1090311,elastic/logstash,Ruby,79
+11423758,mame/quine-relay,Ruby,192
 3195124,mperham/sidekiq,Ruby,83
 3314,spree/spree,Ruby,68
 52855516,Homebrew/homebrew-core,Ruby,152
 1918677,fluent/fluentd,Ruby,83
-96395,faker-ruby/faker,Ruby,59
+96395,faker-ruby/faker,Ruby,63
 1725199,github/linguist,Ruby,114
 21829,thoughtbot/factory_bot,Ruby,38
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,157
@@ -19,7 +19,7 @@ id,name,lang,new stars
 21333814,lynndylanhurley/devise_token_auth,Ruby,15
 103766152,github/explore,Ruby,77
 200302808,github/view_component,Ruby,71
-419827947,joemasilotti/railsdevs.com,Ruby,48
+419827947,joemasilotti/railsdevs.com,Ruby,49
 66497320,DataDog/dd-trace-rb,Ruby,7
 212272090,CMSgov/price-transparency-guide,Ruby,4
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
