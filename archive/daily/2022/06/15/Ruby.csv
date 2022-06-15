@@ -1,13 +1,13 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,7
-308770,heartcombo/devise,Ruby,3
-2203645,CocoaPods/CocoaPods,Ruby,5
-18486300,lewagon/setup,Ruby,3
+308770,heartcombo/devise,Ruby,2
+2203645,CocoaPods/CocoaPods,Ruby,4
+18486300,lewagon/setup,Ruby,2
 1090311,elastic/logstash,Ruby,6
 202291859,chatwoot/chatwoot,Ruby,2
 3195124,mperham/sidekiq,Ruby,4
 3314,spree/spree,Ruby,1
-52855516,Homebrew/homebrew-core,Ruby,4
+52855516,Homebrew/homebrew-core,Ruby,1
 1918677,fluent/fluentd,Ruby,2
 1725199,github/linguist,Ruby,6
 812393,ruby-grape/grape,Ruby,1
@@ -18,7 +18,7 @@ id,name,lang,new stars
 18294,activemerchant/active_merchant,Ruby,0
 1314319,instructure/canvas-lms,Ruby,0
 29151578,rswag/rswag,Ruby,1
-229187949,shivammathur/homebrew-php,Ruby,4
+229187949,shivammathur/homebrew-php,Ruby,3
 238986,rspec/rspec-expectations,Ruby,0
 238983,rspec/rspec-mocks,Ruby,0
 419827947,joemasilotti/railsdevs.com,Ruby,0
