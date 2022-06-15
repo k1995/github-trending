@@ -1,7 +1,7 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,135
 63476337,TheAlgorithms/Python,Python,599
-12888993,home-assistant/core,Python,96
+12888993,home-assistant/core,Python,75
 21467110,explosion/spaCy,Python,11
 204086862,streamlit/streamlit,Python,12
 136202695,mlflow/mlflow,Python,16
@@ -10,17 +10,17 @@ id,name,lang,new stars
 386811486,Megvii-BaseDetection/YOLOX,Python,12
 8277372,spulec/moto,Python,5
 259710503,speechbrain/speechbrain,Python,13
-150677832,hhyo/Archery,Python,14
+150677832,hhyo/Archery,Python,13
 251201169,PaddlePaddle/PaddleClas,Python,78
 495587598,lucidrains/imagen-pytorch,Python,77
-488004650,facebookresearch/metaseq,Python,12
+488004650,facebookresearch/metaseq,Python,13
 168772474,aws-samples/aws-cdk-examples,Python,5
-344554014,TomSchimansky/CustomTkinter,Python,31
+344554014,TomSchimansky/CustomTkinter,Python,39
 438565846,NVlabs/eg3d,Python,19
 312259012,PaddlePaddle/PaddleVideo,Python,7
 261373023,DLR-RM/rl-baselines3-zoo,Python,8
-475869888,zhiqi-li/BEVFormer,Python,23
+475869888,zhiqi-li/BEVFormer,Python,25
 106580024,Azure/azure-cli-extensions,Python,5
 495594528,cene555/Imagen-pytorch,Python,10
-298537574,paulgavrikov/visualkeras,Python,10
+298537574,paulgavrikov/visualkeras,Python,13
 491539517,GamehunterKaan/AutoPWN-Suite,Python,13

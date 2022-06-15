@@ -1,9 +1,9 @@
 id,name,lang,new stars
 42408804,traefik/traefik,Go,16
-15452919,ethereum/go-ethereum,Go,32
+15452919,ethereum/go-ethereum,Go,31
 29217054,asim/go-micro,Go,38
 6247705,stretchr/testify,Go,14
-7877397,jmoiron/sqlx,Go,17
+7877397,jmoiron/sqlx,Go,18
 16554739,elastic/beats,Go,6
 92313258,cert-manager/cert-manager,Go,7
 118105436,golang-migrate/migrate,Go,6
@@ -11,8 +11,8 @@ id,name,lang,new stars
 9120526,jackc/pgx,Go,5
 83252983,go-task/task,Go,17
 175192867,chaosblade-io/chaosblade,Go,11
-54435102,benthosdev/benthos,Go,10
-197914161,drakkan/sftpgo,Go,9
+54435102,benthosdev/benthos,Go,11
+197914161,drakkan/sftpgo,Go,10
 86367047,elastic/go-elasticsearch,Go,1
 156768326,ThreeDotsLabs/watermill,Go,118
 7823926,prometheus/client_golang,Go,10

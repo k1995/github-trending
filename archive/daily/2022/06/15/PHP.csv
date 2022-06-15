@@ -1,19 +1,19 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,4
-1420053,guzzle/guzzle,PHP,3
+458058,symfony/symfony,PHP,3
+1420053,guzzle/guzzle,PHP,4
 448045,sebastianbergmann/phpunit,PHP,3
 1548202,matomo-org/matomo,PHP,8
 14259390,SpartnerNL/Laravel-Excel,PHP,8
-2699935,squizlabs/PHP_CodeSniffer,PHP,4
+2699935,squizlabs/PHP_CodeSniffer,PHP,5
 2179920,woocommerce/woocommerce,PHP,3
 6763587,PrestaShop/PrestaShop,PHP,2
-31541210,aimeos/aimeos-laravel,PHP,2
+31541210,aimeos/aimeos-laravel,PHP,5
 10883164,barryvdh/laravel-dompdf,PHP,3
 439861,moodle/moodle,PHP,1
 139191005,nunomaduro/larastan,PHP,10
-19386515,spatie/browsershot,PHP,1
-47508644,pterodactyl/panel,PHP,6
-248372441,laravel-filament/filament,PHP,14
+19386515,spatie/browsershot,PHP,2
+47508644,pterodactyl/panel,PHP,7
+248372441,laravel-filament/filament,PHP,12
 13914116,librenms/librenms,PHP,1
 2686502,pimcore/pimcore,PHP,1
 3193843,drush-ops/drush,PHP,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 155852027,uvdesk/community-skeleton,PHP,1
 443605948,pablouser1/ProxiTok,PHP,53
 485064852,bradtraversy/laragigs,PHP,2
-423320216,tinyphporg/tinyphp,PHP,5
+423320216,tinyphporg/tinyphp,PHP,7
