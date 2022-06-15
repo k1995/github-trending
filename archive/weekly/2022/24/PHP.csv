@@ -1,13 +1,13 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,152
-7548986,laravel/framework,PHP,76
+3482588,danielmiessler/SecLists,PHP,150
+7548986,laravel/framework,PHP,77
 458058,symfony/symfony,PHP,29
 1864363,composer/composer,PHP,40
-1420053,guzzle/guzzle,PHP,26
-1376664,Seldaek/monolog,PHP,25
+1420053,guzzle/guzzle,PHP,27
+1376664,Seldaek/monolog,PHP,24
 2253830,PHPMailer/PHPMailer,PHP,49
-28628034,flarum/flarum,PHP,194
-8678290,barryvdh/laravel-ide-helper,PHP,30
+28628034,flarum/flarum,PHP,193
+8678290,barryvdh/laravel-ide-helper,PHP,31
 14259390,SpartnerNL/Laravel-Excel,PHP,29
 79111500,jupeter/clean-code-php,PHP,136
 42480275,spatie/laravel-permission,PHP,19
@@ -17,10 +17,10 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,22
 14716368,invoiceninja/invoiceninja,PHP,14
 2141186,opencart/opencart,PHP,9
-222873550,crater-invoice/crater,PHP,116
-41463886,codeigniter4/CodeIgniter4,PHP,17
-139191005,nunomaduro/larastan,PHP,30
-141720301,dr5hn/countries-states-cities-database,PHP,51
+222873550,crater-invoice/crater,PHP,115
+41463886,codeigniter4/CodeIgniter4,PHP,18
+139191005,nunomaduro/larastan,PHP,29
+141720301,dr5hn/countries-states-cities-database,PHP,48
 69691727,pmmp/PocketMine-MP,PHP,18
-175168121,changeweb/Unifiedtransform,PHP,15
-307018731,DenverCoder1/github-readme-streak-stats,PHP,41
+175168121,changeweb/Unifiedtransform,PHP,13
+307018731,DenverCoder1/github-readme-streak-stats,PHP,40
