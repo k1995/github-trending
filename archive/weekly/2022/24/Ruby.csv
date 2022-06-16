@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,64
-27442967,fastlane/fastlane,Ruby,35
-53238813,Homebrew/brew,Ruby,91
-2293158,rapid7/metasploit-framework,Ruby,73
-3623050,Homebrew/homebrew-cask,Ruby,22
+8514,rails/rails,Ruby,63
+27442967,fastlane/fastlane,Ruby,36
+53238813,Homebrew/brew,Ruby,92
+2293158,rapid7/metasploit-framework,Ruby,74
+3623050,Homebrew/homebrew-cask,Ruby,21
 18486300,lewagon/setup,Ruby,44
-1090311,elastic/logstash,Ruby,27
+1090311,elastic/logstash,Ruby,26
 202291859,chatwoot/chatwoot,Ruby,42
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,45
 6768710,redmine/redmine,Ruby,5
@@ -18,7 +18,7 @@ id,name,lang,new stars
 3698608,moove-it/sidekiq-scheduler,Ruby,1
 49878403,zendesk/ruby-kafka,Ruby,4
 136781582,rubocop/rubocop-rails,Ruby,2
-419827947,joemasilotti/railsdevs.com,Ruby,18
+419827947,joemasilotti/railsdevs.com,Ruby,19
 66497320,DataDog/dd-trace-rb,Ruby,1
 279271772,DataDog/datadog-api-client-ruby,Ruby,0
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
