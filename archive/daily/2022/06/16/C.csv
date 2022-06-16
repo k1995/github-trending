@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,62
-10744183,netdata/netdata,C,17
-156018,redis/redis,C,40
-102578345,coolsnowwolf/lede,C,26
-14812739,libuv/libuv,C,4
+2325298,torvalds/linux,C,70
+10744183,netdata/netdata,C,15
+156018,redis/redis,C,34
+102578345,coolsnowwolf/lede,C,21
+14812739,libuv/libuv,C,5
 80286288,arendst/Tasmota,C,12
-34921116,iovisor/bcc,C,13
-3199002,raspberrypi/linux,C,3
+34921116,iovisor/bcc,C,8
+3199002,raspberrypi/linux,C,5
 65899476,espressif/esp-idf,C,3
-50824485,winsiderss/systeminformer,C,145
+50824485,winsiderss/systeminformer,C,116
 1979797,FreeRDP/FreeRDP,C,9
 19330466,Cyan4973/xxHash,C,3
 1660127,neutrinolabs/xrdp,C,8
@@ -16,11 +16,11 @@ id,name,lang,new stars
 330980599,yanfeizhang/coder-kung-fu,C,27
 34807561,nanopb/nanopb,C,4
 127023441,NVIDIA/cuda-samples,C,5
-228103273,apache/incubator-nuttx,C,1
+228103273,apache/incubator-nuttx,C,0
 41126332,tpm2-software/tpm2-tools,C,0
-26473165,free-audio/clap,C,183
+26473165,free-audio/clap,C,151
 53432472,Azure/sonic-buildimage,C,0
 120317722,nrfconnect/sdk-zephyr,C,0
 478027888,dangiu/PicoMemcard,C,28
 502431258,marcelobarrosalmeida/kved,C,16
-502749865,circuitvalley/USB_C_Industrial_Camera_FPGA_USB3,C,32
+502749865,circuitvalley/USB_C_Industrial_Camera_FPGA_USB3,C,25
