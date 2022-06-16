@@ -1,17 +1,17 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,439
-20904437,gin-gonic/gin,Go,262
-15452919,ethereum/go-ethereum,Go,167
-17728164,hashicorp/terraform,Go,120
+21540759,avelino/awesome-go,Go,440
+20904437,gin-gonic/gin,Go,253
+15452919,ethereum/go-ethereum,Go,173
+17728164,hashicorp/terraform,Go,119
 31288958,hashicorp/vault,Go,64
-29217054,asim/go-micro,Go,187
+29217054,asim/go-micro,Go,185
 285864199,zeromicro/go-zero,Go,316
 192632000,dapr/dapr,Go,123
-120227732,fyne-io/fyne,Go,132
-129717717,grafana/loki,Go,167
+120227732,fyne-io/fyne,Go,135
+129717717,grafana/loki,Go,168
 21233191,ipfs/go-ipfs,Go,62
-36071697,ory/hydra,Go,50
-180687624,aquasecurity/trivy,Go,238
+36071697,ory/hydra,Go,52
+180687624,aquasecurity/trivy,Go,239
 92313258,cert-manager/cert-manager,Go,33
 135321861,ory/kratos,Go,1281
 10721619,hajimehoshi/ebiten,Go,76
