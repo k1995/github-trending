@@ -1,16 +1,16 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,29
-9384267,electron/electron,C++,28
-5108051,opencv/opencv,C++,35
-65600975,pytorch/pytorch,C++,35
+9384267,electron/electron,C++,25
+5108051,opencv/opencv,C++,33
+65600975,pytorch/pytorch,C++,36
 23357588,protocolbuffers/protobuf,C++,18
 15634981,godotengine/godot,C++,33
 108110,mongodb/mongo,C++,6
 54360307,uNetworking/uWebSockets,C++,12
 5736080,FreeCAD/FreeCAD,C++,17
-28449431,scylladb/scylla,C++,6
+28449431,scylladb/scylla,C++,5
 437245741,dragonflydb/dragonfly,C++,67
-299510783,rui314/mold,C++,19
+299510783,rui314/mold,C++,23
 7512484,ArduPilot/ardupilot,C++,4
 86897963,ZLMediaKit/ZLMediaKit,C++,10
 39211337,flutter/engine,C++,4

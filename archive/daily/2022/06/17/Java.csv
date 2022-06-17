@@ -1,7 +1,7 @@
 id,name,lang,new stars
-151834062,doocs/advanced-java,Java,26
-507775,elastic/elasticsearch,Java,10
-1148753,spring-projects/spring-framework,Java,18
+151834062,doocs/advanced-java,Java,23
+507775,elastic/elasticsearch,Java,13
+1148753,spring-projects/spring-framework,Java,21
 63477660,TheAlgorithms/Java,Java,34
 9754983,eugenp/tutorials,Java,22
 7613257,SeleniumHQ/selenium,Java,13
@@ -11,8 +11,8 @@ id,name,lang,new stars
 75164823,apache/rocketmq,Java,9
 133134007,OpenAPITools/openapi-generator,Java,14
 501687,antlr/antlr4,Java,4
-120463532,alibaba/COLA,Java,23
-66023605,awsdocs/aws-doc-sdk-examples,Java,11
+120463532,alibaba/COLA,Java,24
+66023605,awsdocs/aws-doc-sdk-examples,Java,10
 70780002,flowable/flowable-engine,Java,7
 143175496,cabaletta/baritone,Java,5
 45903621,reactor/reactor-core,Java,4
