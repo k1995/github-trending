@@ -1,7 +1,7 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
-7569578,discourse/discourse,Ruby,12
-8681349,huginn/huginn,Ruby,8
+8514,rails/rails,Ruby,10
+7569578,discourse/discourse,Ruby,11
+8681349,huginn/huginn,Ruby,9
 27442967,fastlane/fastlane,Ruby,4
 52281283,mastodon/mastodon,Ruby,15
 308770,heartcombo/devise,Ruby,1
@@ -15,9 +15,9 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,4
 1725199,github/linguist,Ruby,6
 812393,ruby-grape/grape,Ruby,1
-13761875,greatghoul/remote-working,Ruby,44
+13761875,greatghoul/remote-working,Ruby,46
 21829,thoughtbot/factory_bot,Ruby,1
-22059578,ankane/pghero,Ruby,4
+22059578,ankane/pghero,Ruby,3
 75785147,rails/webpacker,Ruby,0
 30985840,solidusio/solidus,Ruby,2
 2861056,rails/jbuilder,Ruby,2

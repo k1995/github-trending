@@ -2,9 +2,9 @@ id,name,lang,new stars
 10270250,facebook/react,JavaScript,74
 23088740,axios/axios,JavaScript,29
 70107786,vercel/next.js,JavaScript,63
-23083156,mui/material-ui,JavaScript,29
+23083156,mui/material-ui,JavaScript,34
 74791366,ryanmcdermott/clean-code-javascript,JavaScript,58
-3678731,webpack/webpack,JavaScript,10
+3678731,webpack/webpack,JavaScript,8
 75104123,prettier/prettier,JavaScript,214
 9852918,TryGhost/Ghost,JavaScript,6
 31629751,cypress-io/cypress,JavaScript,15
@@ -14,7 +14,7 @@ id,name,lang,new stars
 43695474,quasarframework/quasar,JavaScript,10
 65866559,getify/Functional-Light-JS,JavaScript,9
 9603889,NodeBB/NodeBB,JavaScript,8
-243546335,tabler/tabler-icons,JavaScript,18
+243546335,tabler/tabler-icons,JavaScript,22
 352933140,ToolJet/ToolJet,JavaScript,16
 8629417,mapbox/mapbox-gl-js,JavaScript,95
 163639063,seanprashad/leetcode-patterns,JavaScript,37
