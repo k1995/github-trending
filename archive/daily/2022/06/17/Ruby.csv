@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
-7569578,discourse/discourse,Ruby,7
-538746,ruby/ruby,Ruby,3
-3195124,mperham/sidekiq,Ruby,5
+8514,rails/rails,Ruby,10
+7569578,discourse/discourse,Ruby,6
+538746,ruby/ruby,Ruby,4
+3195124,mperham/sidekiq,Ruby,6
 3314,spree/spree,Ruby,3
-88740103,postalserver/postal,Ruby,10
+88740103,postalserver/postal,Ruby,8
 52855516,Homebrew/homebrew-core,Ruby,3
 1918677,fluent/fluentd,Ruby,1
 96395,faker-ruby/faker,Ruby,2
 611921,activeadmin/activeadmin,Ruby,0
-1333863,kaminari/kaminari,Ruby,0
+1333863,kaminari/kaminari,Ruby,1
 108278,chef/chef,Ruby,0
 22059578,ankane/pghero,Ruby,3
 30337170,rmosolgo/graphql-ruby,Ruby,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,2
 10088951,TheOdinProject/theodinproject,Ruby,1
 212620037,jsonapi-serializer/jsonapi-serializer,Ruby,1
-419827947,joemasilotti/railsdevs.com,Ruby,4
+419827947,joemasilotti/railsdevs.com,Ruby,2
 66497320,DataDog/dd-trace-rb,Ruby,0
 480488256,betalantz/cosmic_travel_v2,Ruby,0
