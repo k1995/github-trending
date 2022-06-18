@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,56
+2325298,torvalds/linux,C,58
 196353673,taosdata/TDengine,C,13
-80286288,arendst/Tasmota,C,6
+80286288,arendst/Tasmota,C,4
 34921116,iovisor/bcc,C,15
 100781035,webview/webview,C,8
 50824485,winsiderss/systeminformer,C,16
 4151993,OpenVPN/openvpn,C,3
-272457606,jart/cosmopolitan,C,101
+272457606,jart/cosmopolitan,C,97
 13310527,jemalloc/jemalloc,C,4
 105944401,yugabyte/yugabyte-db,C,5
 50874442,citusdata/citus,C,247
 5383731,qemu/qemu,C,10
 86245815,pygame/pygame,C,6
-101866073,alibaba/AliOS-Things,C,4
-330980599,yanfeizhang/coder-kung-fu,C,61
+101866073,alibaba/AliOS-Things,C,5
+330980599,yanfeizhang/coder-kung-fu,C,65
 1613176,tianocore/edk2,C,0
 206121828,FreeRTOS/FreeRTOS,C,1
 23780138,riscv-collab/riscv-gnu-toolchain,C,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 26473165,free-audio/clap,C,71
 491831557,LDrakura/Remote_ShellcodeLoader,C,8
 503544782,vxunderground/VX-API,C,16
-478027888,dangiu/PicoMemcard,C,4
+478027888,dangiu/PicoMemcard,C,1
 502749865,circuitvalley/USB_C_Industrial_Camera_FPGA_USB3,C,10
