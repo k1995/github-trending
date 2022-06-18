@@ -8,7 +8,7 @@ id,name,lang,new stars
 178626720,Lightning-AI/lightning,Python,40
 154739597,google/jax,Python,198
 16479108,wagtail/wagtail,Python,13
-73328905,pytorch/vision,Python,24
+73328905,pytorch/vision,Python,74
 172227885,tiangolo/full-stack-fastapi-postgresql,Python,12
 28710753,sphinx-doc/sphinx,Python,6
 110688239,PaddlePaddle/PaddleSpeech,Python,10
@@ -18,7 +18,7 @@ id,name,lang,new stars
 331361562,lxgr-linux/pokete,Python,218
 184420323,ranaroussi/quantstats,Python,4
 498761556,grafana/oncall,Python,373
-392603437,jxxghp/nas-tools,Python,16
+392603437,jxxghp/nas-tools,Python,13
 475869888,zhiqi-li/BEVFormer,Python,26
 485320771,THUDM/CogView2,Python,71
 498011141,huggingface/diffusers,Python,89
