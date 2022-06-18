@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,65
+8514,rails/rails,Ruby,66
 2293158,rapid7/metasploit-framework,Ruby,74
-21696302,matteocrippa/awesome-swift,Ruby,42
+21696302,matteocrippa/awesome-swift,Ruby,43
 2203645,CocoaPods/CocoaPods,Ruby,13
-18486300,lewagon/setup,Ruby,28
+18486300,lewagon/setup,Ruby,16
 1090311,elastic/logstash,Ruby,27
-202291859,chatwoot/chatwoot,Ruby,42
-3195124,mperham/sidekiq,Ruby,25
+202291859,chatwoot/chatwoot,Ruby,41
+3195124,mperham/sidekiq,Ruby,22
 88740103,postalserver/postal,Ruby,45
 1725199,github/linguist,Ruby,33
-812393,ruby-grape/grape,Ruby,4
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,39
+812393,ruby-grape/grape,Ruby,5
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,40
 30985840,solidusio/solidus,Ruby,13
-103766152,github/explore,Ruby,18
+103766152,github/explore,Ruby,17
 46698467,ankane/strong_migrations,Ruby,13
 5144181,jnunemaker/flipper,Ruby,15
 189010173,Hackplayers/evil-winrm,Ruby,30
@@ -20,6 +20,6 @@ id,name,lang,new stars
 9831101,elastic/elasticsearch-ruby,Ruby,1
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,3
 136781582,rubocop/rubocop-rails,Ruby,2
-419827947,joemasilotti/railsdevs.com,Ruby,19
+419827947,joemasilotti/railsdevs.com,Ruby,20
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
 374113809,learn-co-curriculum/phase-4-mock-challenge-camping-fun,Ruby,0

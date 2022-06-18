@@ -1,0 +1,26 @@
+id,name,lang,new stars
+21540759,avelino/awesome-go,Go,58
+14125254,hashicorp/consul,Go,11
+43723161,helm/helm,Go,7
+50613991,goharbor/harbor,Go,11
+13624859,gorilla/websocket,Go,14
+167596393,derailed/k9s,Go,13
+7877397,jmoiron/sqlx,Go,13
+16554739,elastic/beats,Go,2
+109162639,thanos-io/thanos,Go,16
+23247808,rqlite/rqlite,Go,9
+161951219,wailsapp/wails,Go,290
+111431261,fullstorydev/grpcurl,Go,16
+274625369,infracost/infracost,Go,51
+14128006,hashicorp/raft,Go,16
+325724738,pyroscope-io/pyroscope,Go,26
+50629145,google/pprof,Go,7
+120519269,runatlantis/atlantis,Go,10
+206213815,chaos-mesh/chaos-mesh,Go,8
+84610043,kubernetes-sigs/aws-load-balancer-controller,Go,2
+105711679,envoyproxy/protoc-gen-validate,Go,3
+135951540,stashapp/stash,Go,15
+502349596,sheepla/pingu,Go,97
+136494223,kubernetes-sigs/controller-runtime,Go,2
+303802332,vmware-tanzu/community-edition,Go,113
+480303698,tensorchord/envd,Go,37
