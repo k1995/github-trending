@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,106
+1863329,laravel/laravel,PHP,110
 7548986,laravel/framework,PHP,62
 458058,symfony/symfony,PHP,33
-1420053,guzzle/guzzle,PHP,24
-2253830,PHPMailer/PHPMailer,PHP,40
+1420053,guzzle/guzzle,PHP,22
+2253830,PHPMailer/PHPMailer,PHP,39
 1548202,matomo-org/matomo,PHP,30
 61490598,PHPOffice/PhpSpreadsheet,PHP,20
 14259390,SpartnerNL/Laravel-Excel,PHP,33
-79111500,jupeter/clean-code-php,PHP,55
-42480275,spatie/laravel-permission,PHP,20
+79111500,jupeter/clean-code-php,PHP,64
+42480275,spatie/laravel-permission,PHP,22
 2884111,magento/magento2,PHP,11
 29843361,w7corp/easywechat,PHP,13
-2179920,woocommerce/woocommerce,PHP,16
-14716368,invoiceninja/invoiceninja,PHP,15
-222873550,crater-invoice/crater,PHP,82
+2179920,woocommerce/woocommerce,PHP,13
+14716368,invoiceninja/invoiceninja,PHP,14
+222873550,crater-invoice/crater,PHP,70
 31541210,aimeos/aimeos-laravel,PHP,26
 139191005,nunomaduro/larastan,PHP,31
 47508644,pterodactyl/panel,PHP,45
@@ -21,6 +21,6 @@ id,name,lang,new stars
 6495081,wikimedia/mediawiki,PHP,10
 69691727,pmmp/PocketMine-MP,PHP,9
 175168121,changeweb/Unifiedtransform,PHP,13
-400984450,kuaifan/dootask,PHP,55
-443605948,pablouser1/ProxiTok,PHP,210
-491456510,zidansec/CloudPeler,PHP,41
+400984450,kuaifan/dootask,PHP,54
+443605948,pablouser1/ProxiTok,PHP,211
+491456510,zidansec/CloudPeler,PHP,40

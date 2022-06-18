@@ -1,15 +1,15 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,29
+20904437,gin-gonic/gin,Go,28
 29261473,minio/minio,Go,17
-31504491,labstack/echo,Go,17
-18369373,spf13/viper,Go,12
+31504491,labstack/echo,Go,11
+18369373,spf13/viper,Go,13
 11393110,urfave/cli,Go,6
-13624859,gorilla/websocket,Go,10
+13624859,gorilla/websocket,Go,12
 42332863,filebrowser/filebrowser,Go,35
 33352201,grpc-ecosystem/grpc-gateway,Go,11
 31558937,gravitational/teleport,Go,12
 93444615,hashicorp/terraform-provider-aws,Go,2
-161951219,wailsapp/wails,Go,217
+161951219,wailsapp/wails,Go,290
 146641150,tektoncd/pipeline,Go,4
 21306961,fsnotify/fsnotify,Go,2
 150954997,VictoriaMetrics/VictoriaMetrics,Go,9
