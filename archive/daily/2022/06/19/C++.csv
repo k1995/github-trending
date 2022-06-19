@@ -5,12 +5,12 @@ id,name,lang,new stars
 168008797,microsoft/calculator,C++,5
 196813750,Light-City/CPlusPlusThings,C++,23
 108110,mongodb/mongo,C++,28
-191820100,google/mediapipe,C++,10
-1062572,catchorg/Catch2,C++,2
+191820100,google/mediapipe,C++,9
+1062572,catchorg/Catch2,C++,3
 149111813,Tencent/MMKV,C++,5
 143455116,google/filament,C++,4
 283410102,sogou/workflow,C++,21
-8162615,PointCloudLibrary/pcl,C++,2
+8162615,PointCloudLibrary/pcl,C++,3
 181436799,alibaba/MNN,C++,3
 184657328,NVIDIA/TensorRT,C++,5
 354743391,o3de/o3de,C++,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 388946490,facebookincubator/velox,C++,2
 342120988,earlephilhower/arduino-pico,C++,3
 460219895,IVProjects/Engineering_Projects,C++,36
-504072503,nelfo/Milfuscator,C++,4
+504072503,nelfo/Milfuscator,C++,6
