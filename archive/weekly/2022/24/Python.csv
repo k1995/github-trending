@@ -1,15 +1,15 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,885
+83222441,donnemartin/system-design-primer,Python,878
 63476337,TheAlgorithms/Python,Python,1890
 21289110,vinta/awesome-python,Python,794
-155220641,huggingface/transformers,Python,568
-4164482,django/django,Python,155
-12888993,home-assistant/core,Python,443
-188660663,CorentinJ/Real-Time-Voice-Cloning,Python,129
+155220641,huggingface/transformers,Python,565
+4164482,django/django,Python,157
+12888993,home-assistant/core,Python,429
+188660663,CorentinJ/Real-Time-Voice-Cloning,Python,131
 264818686,ultralytics/yolov5,Python,302
 178626720,Lightning-AI/lightning,Python,134
 154739597,google/jax,Python,566
-16479108,wagtail/wagtail,Python,43
+16479108,wagtail/wagtail,Python,42
 363150,redis/redis-py,Python,109
 382680786,borisdayma/dalle-mini,Python,3249
 377851948,deepmind/alphafold,Python,40
@@ -22,5 +22,5 @@ id,name,lang,new stars
 331361562,lxgr-linux/pokete,Python,1014
 261898494,google/skywater-pdk,Python,39
 274782881,acantril/learn-cantrill-io-labs,Python,136
-416157128,mosaicml/composer,Python,97
+416157128,mosaicml/composer,Python,98
 438565846,NVlabs/eg3d,Python,155
