@@ -1,9 +1,9 @@
 id,name,lang,new stars
 41912791,v2ray/v2ray-core,Go,11
 212613049,cli/cli,Go,16
-136815833,Dreamacro/clash,Go,33
-119160553,photoprism/photoprism,Go,16
-120227732,fyne-io/fyne,Go,47
+136815833,Dreamacro/clash,Go,28
+119160553,photoprism/photoprism,Go,18
+120227732,fyne-io/fyne,Go,76
 181461073,v2fly/v2ray-core,Go,30
 233130089,charmbracelet/bubbletea,Go,68
 62712899,AdguardTeam/AdGuardHome,Go,15
@@ -23,4 +23,4 @@ id,name,lang,new stars
 493181533,alibaba/IOC-golang,Go,45
 460893504,palomachain/paloma,Go,11
 496515764,shivamMg/trie,Go,4
-490982392,deadpixi/rope,Go,12
+490982392,deadpixi/rope,Go,10
