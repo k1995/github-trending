@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,5
-65252,jekyll/jekyll,Ruby,12
-7569578,discourse/discourse,Ruby,7
-8681349,huginn/huginn,Ruby,9
-52281283,mastodon/mastodon,Ruby,4
+8514,rails/rails,Ruby,6
+65252,jekyll/jekyll,Ruby,10
+7569578,discourse/discourse,Ruby,14
+8681349,huginn/huginn,Ruby,11
+52281283,mastodon/mastodon,Ruby,10
 2293158,rapid7/metasploit-framework,Ruby,9
-481872,hashicorp/vagrant,Ruby,8
-37382858,kilimchoi/engineering-blogs,Ruby,4
+481872,hashicorp/vagrant,Ruby,7
+37382858,kilimchoi/engineering-blogs,Ruby,5
 73648678,forem/forem,Ruby,3
 538746,ruby/ruby,Ruby,6
 3314,spree/spree,Ruby,1
@@ -14,7 +14,7 @@ id,name,lang,new stars
 4994614,wpscanteam/wpscan,Ruby,1
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,3
 5160706,bkeepers/dotenv,Ruby,0
-6899875,opf/openproject,Ruby,1
+6899875,opf/openproject,Ruby,6
 39706711,hartator/wayback-machine-downloader,Ruby,2
 103766152,github/explore,Ruby,3
 11426474,github/choosealicense.com,Ruby,4
