@@ -1,12 +1,12 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,120
-83222441,donnemartin/system-design-primer,Python,143
+54346799,public-apis/public-apis,Python,109
+83222441,donnemartin/system-design-primer,Python,142
 1039520,ytdl-org/youtube-dl,Python,34
 843222,scikit-learn/scikit-learn,Python,16
 74627617,commaai/openpilot,Python,114
 136026789,iperov/DeepFaceLab,Python,32
-307260205,yt-dlp/yt-dlp,Python,45
-211124697,deezer/spleeter,Python,28
+307260205,yt-dlp/yt-dlp,Python,49
+211124697,deezer/spleeter,Python,24
 38696925,python-telegram-bot/python-telegram-bot,Python,26
 254832799,Z4nzu/hackingtool,Python,28
 1385122,matplotlib/matplotlib,Python,9
@@ -17,9 +17,9 @@ id,name,lang,new stars
 41179827,Rapptz/discord.py,Python,6
 640534,sympy/sympy,Python,10
 62743585,spotDL/spotify-downloader,Python,35
-276785864,datawhalechina/easy-rl,Python,11
-496680191,elebumm/RedditVideoMakerBot,Python,145
-412850368,clementchadebec/benchmark_VAE,Python,45
-476800169,arshsisodiya/helios-mirror,Python,5
-503035329,nicohmje/PID-ballonplate,Python,30
-504839957,Wh04m1001/DFSCoerce,Python,60
+276785864,datawhalechina/easy-rl,Python,12
+496680191,elebumm/RedditVideoMakerBot,Python,146
+412850368,clementchadebec/benchmark_VAE,Python,43
+476800169,arshsisodiya/helios-mirror,Python,3
+503035329,nicohmje/PID-ballonplate,Python,31
+504839957,Wh04m1001/DFSCoerce,Python,62
