@@ -1,12 +1,12 @@
 id,name,lang,new stars
 29261473,minio/minio,Go,23
-163883279,nektos/act,Go,81
+163883279,nektos/act,Go,76
 11393110,urfave/cli,Go,9
 165041732,go-kratos/kratos,Go,12
 181461073,v2fly/v2ray-core,Go,60
-6247705,stretchr/testify,Go,15
+6247705,stretchr/testify,Go,16
 205679232,flipped-aurora/gin-vue-admin,Go,21
-44344606,go-chi/chi,Go,11
+44344606,go-chi/chi,Go,8
 323965659,alist-org/alist,Go,38
 94779471,aquasecurity/kube-bench,Go,17
 222258954,dstotijn/hetty,Go,39
@@ -19,8 +19,8 @@ id,name,lang,new stars
 93446075,hashicorp/terraform-provider-google,Go,3
 329821568,EdgeSecurityTeam/EHole,Go,8
 272663924,techschool/simplebank,Go,26
-141109175,gookit/validate,Go,20
+141109175,gookit/validate,Go,22
 465143795,ethminerpro/minerproxy,Go,11
-415188495,devstream-io/devstream,Go,20
+415188495,devstream-io/devstream,Go,13
 493181533,alibaba/IOC-golang,Go,67
 415270079,alajmo/sake,Go,33
