@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,59
-65252,jekyll/jekyll,Ruby,50
-7569578,discourse/discourse,Ruby,59
-8681349,huginn/huginn,Ruby,82
-27442967,fastlane/fastlane,Ruby,28
+65252,jekyll/jekyll,Ruby,49
+7569578,discourse/discourse,Ruby,60
+8681349,huginn/huginn,Ruby,80
+27442967,fastlane/fastlane,Ruby,29
 2293158,rapid7/metasploit-framework,Ruby,63
-481872,hashicorp/vagrant,Ruby,43
-538746,ruby/ruby,Ruby,36
+481872,hashicorp/vagrant,Ruby,42
+538746,ruby/ruby,Ruby,35
 2203645,CocoaPods/CocoaPods,Ruby,9
 1090311,elastic/logstash,Ruby,30
 202291859,chatwoot/chatwoot,Ruby,37
@@ -16,9 +16,9 @@ id,name,lang,new stars
 812393,ruby-grape/grape,Ruby,5
 21829,thoughtbot/factory_bot,Ruby,8
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,38
-16994115,CanCanCommunity/cancancan,Ruby,4
+16994115,CanCanCommunity/cancancan,Ruby,2
 30985840,solidusio/solidus,Ruby,14
-103766152,github/explore,Ruby,20
+103766152,github/explore,Ruby,21
 10088951,TheOdinProject/theodinproject,Ruby,17
 9831101,elastic/elasticsearch-ruby,Ruby,1
 136781582,rubocop/rubocop-rails,Ruby,4
