@@ -1,17 +1,17 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,9
 481872,hashicorp/vagrant,Ruby,9
-308770,heartcombo/devise,Ruby,6
-1090311,elastic/logstash,Ruby,3
+308770,heartcombo/devise,Ruby,7
+1090311,elastic/logstash,Ruby,4
 3314,spree/spree,Ruby,0
 96395,faker-ruby/faker,Ruby,3
-15435,Shopify/liquid,Ruby,2
+15435,Shopify/liquid,Ruby,1
 611921,activeadmin/activeadmin,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,0
 108278,chef/chef,Ruby,2
 33739333,thoughtbot/administrate,Ruby,6
 2889230,rails-api/active_model_serializers,Ruby,0
-1548802,activerecord-hackery/ransack,Ruby,2
+1548802,activerecord-hackery/ransack,Ruby,3
 30337170,rmosolgo/graphql-ruby,Ruby,2
 447184,rspec/rspec-rails,Ruby,0
 7050,prawnpdf/prawn,Ruby,0
@@ -19,8 +19,8 @@ id,name,lang,new stars
 229006,mileszs/wicked_pdf,Ruby,1
 1404127,jwt/ruby-jwt,Ruby,0
 3898922,zammad/zammad,Ruby,2
-93163073,dependabot/dependabot-core,Ruby,6
-3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,0
+93163073,dependabot/dependabot-core,Ruby,5
+3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,2
 238983,rspec/rspec-mocks,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,0

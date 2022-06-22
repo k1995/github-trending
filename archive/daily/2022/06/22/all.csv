@@ -2,13 +2,13 @@ id,name,lang,new stars
 22458259,Alamofire/Alamofire,Swift,21
 27442967,fastlane/fastlane,Ruby,9
 13855476,go-gorm/gorm,Go,11
-39840932,google/googletest,C++,10
+39840932,google/googletest,C++,11
 17372733,OAI/OpenAPI-Specification,JavaScript,9
-237791077,mingrammer/diagrams,Python,989
+237791077,mingrammer/diagrams,Python,1087
 36653430,hashicorp/nomad,Go,7
 208728772,milvus-io/milvus,Go,12
-30822337,WenchaoD/FSCalendar,Objective-C,0
 318341089,facebook/lexical,TypeScript,79
+30822337,WenchaoD/FSCalendar,Objective-C,0
 139199684,PrefectHQ/prefect,Python,6
 266417772,pittcsc/Summer2023-Internships,Python,30
 2179920,woocommerce/woocommerce,PHP,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 241176242,girliemac/a-picture-is-worth-a-1000-words,,762
 2928948,Azure/azure-sdk-for-java,Java,0
 104858991,terraform-aws-modules/terraform-aws-alb,HCL,0
-487329768,Reiten966/Polyformer,,16
-505370202,Technawi/SOC-Analyst-Diploma,,10
+487329768,Reiten966/Polyformer,,32
 505398821,codeedu/imersao8,TypeScript,34
+505370202,Technawi/SOC-Analyst-Diploma,,10

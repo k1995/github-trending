@@ -1,9 +1,9 @@
 id,name,lang,new stars
-7691631,moby/moby,Go,21
+7691631,moby/moby,Go,17
 13855476,go-gorm/gorm,Go,11
 43723161,helm/helm,Go,14
-6247705,stretchr/testify,Go,23
-52034309,uber-go/zap,Go,14
+6247705,stretchr/testify,Go,20
+52034309,uber-go/zap,Go,13
 36653430,hashicorp/nomad,Go,7
 208728772,milvus-io/milvus,Go,12
 27051771,golang/protobuf,Go,3
@@ -15,12 +15,12 @@ id,name,lang,new stars
 22485114,hashicorp/hcl,Go,1
 50128165,hashicorp/go-plugin,Go,1
 19608522,googleapis/google-cloud-go,Go,4
-117377862,gardener/gardener,Go,2
-20073531,hashicorp/yamux,Go,1
+117377862,gardener/gardener,Go,3
+20073531,hashicorp/yamux,Go,2
 265775217,bnb-chain/bsc,Go,2
-96004375,aws/aws-sdk-go-v2,Go,2
+96004375,aws/aws-sdk-go-v2,Go,1
 95368512,hashicorp/terraform-provider-helm,Go,1
 93446113,cloudflare/terraform-provider-cloudflare,Go,1
-380270062,vmware-tanzu/tanzu-framework,Go,2
+380270062,vmware-tanzu/tanzu-framework,Go,3
 505398821,codeedu/imersao8,TypeScript,34
-186900087,hashicorp/raft-snapshot,Go,0
+186900087,hashicorp/raft-snapshot,Go,1
