@@ -1,10 +1,10 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,51
-481872,hashicorp/vagrant,Ruby,10
-308770,heartcombo/devise,Ruby,4
+27442967,fastlane/fastlane,Ruby,87
+481872,hashicorp/vagrant,Ruby,9
+308770,heartcombo/devise,Ruby,5
 1090311,elastic/logstash,Ruby,2
 3314,spree/spree,Ruby,0
-96395,faker-ruby/faker,Ruby,1
+96395,faker-ruby/faker,Ruby,2
 15435,Shopify/liquid,Ruby,2
 611921,activeadmin/activeadmin,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,0
@@ -18,7 +18,7 @@ id,name,lang,new stars
 2861056,rails/jbuilder,Ruby,0
 229006,mileszs/wicked_pdf,Ruby,0
 1404127,jwt/ruby-jwt,Ruby,0
-3898922,zammad/zammad,Ruby,3
+3898922,zammad/zammad,Ruby,2
 93163073,dependabot/dependabot-core,Ruby,1
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,2
 238983,rspec/rspec-mocks,Ruby,0
