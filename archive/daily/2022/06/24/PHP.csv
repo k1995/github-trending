@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,12
-1864363,composer/composer,PHP,4
-1420053,guzzle/guzzle,PHP,2
+1863329,laravel/laravel,PHP,15
+1864363,composer/composer,PHP,5
+1420053,guzzle/guzzle,PHP,3
 60243197,nextcloud/server,PHP,4
-2253830,PHPMailer/PHPMailer,PHP,4
+2253830,PHPMailer/PHPMailer,PHP,6
 1631570,nikic/PHP-Parser,PHP,3
-3431193,yiisoft/yii2,PHP,6
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,6
+3431193,yiisoft/yii2,PHP,5
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,4
 7579180,doctrine/lexer,PHP,0
 2699935,squizlabs/PHP_CodeSniffer,PHP,15
 622166,FriendsOfPHP/Goutte,PHP,4
@@ -19,8 +19,8 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,2
 148129143,bagisto/bagisto,PHP,0
 1398636,symfony/dependency-injection,PHP,0
-248372441,filamentphp/filament,PHP,9
+248372441,filamentphp/filament,PHP,8
 13914116,librenms/librenms,PHP,0
 2686502,pimcore/pimcore,PHP,1
 3193843,drush-ops/drush,PHP,0
-504284316,spatie/laravel-onboard,PHP,44
+504284316,spatie/laravel-onboard,PHP,42
