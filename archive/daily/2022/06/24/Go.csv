@@ -1,11 +1,11 @@
 id,name,lang,new stars
-7691631,moby/moby,Go,16
+7691631,moby/moby,Go,17
 6838921,prometheus/prometheus,Go,16
 17728164,hashicorp/terraform,Go,14
 56353740,kubernetes/minikube,Go,32
 43723161,helm/helm,Go,13
 6247705,stretchr/testify,Go,35
-72891330,kubernetes/ingress-nginx,Go,9
+72891330,kubernetes/ingress-nginx,Go,10
 33258973,influxdata/telegraf,Go,4
 36653430,hashicorp/nomad,Go,175
 208728772,milvus-io/milvus,Go,118
