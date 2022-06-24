@@ -1,7 +1,7 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,8
-27442967,fastlane/fastlane,Ruby,51
-53238813,Homebrew/brew,Ruby,16
+27442967,fastlane/fastlane,Ruby,144
+53238813,Homebrew/brew,Ruby,17
 481872,hashicorp/vagrant,Ruby,3
 2500088,gitlabhq/gitlabhq,Ruby,2
 308770,heartcombo/devise,Ruby,6
@@ -9,9 +9,9 @@ id,name,lang,new stars
 2203645,CocoaPods/CocoaPods,Ruby,2
 1090311,elastic/logstash,Ruby,0
 4095287,rubocop/rubocop,Ruby,1
-52855516,Homebrew/homebrew-core,Ruby,2
+52855516,Homebrew/homebrew-core,Ruby,3
 611921,activeadmin/activeadmin,Ruby,0
-6529205,varvet/pundit,Ruby,1
+6529205,varvet/pundit,Ruby,2
 810796,railsadminteam/rails_admin,Ruby,1
 277089,flyerhzm/bullet,Ruby,1
 33739333,thoughtbot/administrate,Ruby,3
