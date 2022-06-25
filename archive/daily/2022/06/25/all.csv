@@ -1,19 +1,19 @@
 id,name,lang,new stars
 943149,d3/d3,JavaScript,6
 138393139,trimstray/the-book-of-secret-knowledge,,108
-17372733,OAI/OpenAPI-Specification,JavaScript,73
+17372733,OAI/OpenAPI-Specification,JavaScript,74
 102578345,coolsnowwolf/lede,C,12
 275993885,appsmithorg/appsmith,TypeScript,24
 85541218,ascoders/weekly,JavaScript,14
 90902132,flameshot-org/flameshot,C++,25
-198683574,dolthub/dolt,Go,148
-208728772,milvus-io/milvus,Go,111
-420580521,scottbez1/smartknob,C++,135
+198683574,dolthub/dolt,Go,208
+208728772,milvus-io/milvus,Go,113
+420580521,scottbez1/smartknob,C++,133
 20206590,rougier/numpy-100,Python,30
 506323402,yandex/YaLM-100B,Python,383
-390607649,Tencent/spring-cloud-tencent,Java,260
-414451422,Cpp-Club/Cxx_HOPL4_zh,,47
-501076075,meituan/YOLOv6,Python,302
+390607649,Tencent/spring-cloud-tencent,Java,259
+414451422,Cpp-Club/Cxx_HOPL4_zh,,45
+501076075,meituan/YOLOv6,Python,184
 478007857,p0dalirius/Awesome-RCE-techniques,Dockerfile,32
 94652781,still-scene/t3,C#,35
 505336286,easychen/lean-side-bussiness,,290
@@ -22,5 +22,5 @@ id,name,lang,new stars
 505462535,soypat/gopherlings,Go,30
 505961479,responsible-financial-innovation-act22/RFIA-bill,,51
 506356072,openai/Video-Pre-Training,Python,78
-505984181,optiv/Mangle,Go,42
+505984181,optiv/Mangle,Go,64
 504024171,google-research/parti,,56

@@ -1,18 +1,18 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,257
-65252,jekyll/jekyll,Ruby,274
+65252,jekyll/jekyll,Ruby,273
 27442967,fastlane/fastlane,Ruby,531
-53238813,Homebrew/brew,Ruby,380
+53238813,Homebrew/brew,Ruby,377
 2293158,rapid7/metasploit-framework,Ruby,316
-308770,heartcombo/devise,Ruby,104
-73648678,forem/forem,Ruby,197
+308770,heartcombo/devise,Ruby,103
+73648678,forem/forem,Ruby,199
 1090311,elastic/logstash,Ruby,85
 11423758,mame/quine-relay,Ruby,169
-3195124,mperham/sidekiq,Ruby,79
-88740103,postalserver/postal,Ruby,134
-52855516,Homebrew/homebrew-core,Ruby,139
-96395,faker-ruby/faker,Ruby,61
-1725199,github/linguist,Ruby,111
+3195124,mperham/sidekiq,Ruby,78
+88740103,postalserver/postal,Ruby,133
+52855516,Homebrew/homebrew-core,Ruby,136
+96395,faker-ruby/faker,Ruby,60
+1725199,github/linguist,Ruby,113
 21829,thoughtbot/factory_bot,Ruby,36
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,158
 1548802,activerecord-hackery/ransack,Ruby,36
@@ -20,7 +20,7 @@ id,name,lang,new stars
 21333814,lynndylanhurley/devise_token_auth,Ruby,12
 103766152,github/explore,Ruby,75
 5144181,jnunemaker/flipper,Ruby,55
-200302808,github/view_component,Ruby,67
+200302808,github/view_component,Ruby,68
 9831101,elastic/elasticsearch-ruby,Ruby,3
-419827947,joemasilotti/railsdevs.com,Ruby,53
+419827947,joemasilotti/railsdevs.com,Ruby,54
 66497320,DataDog/dd-trace-rb,Ruby,8
