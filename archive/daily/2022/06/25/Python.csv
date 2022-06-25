@@ -1,14 +1,14 @@
 id,name,lang,new stars
 3638964,ansible/ansible,Python,19
 264818686,ultralytics/yolov5,Python,34
-307260205,yt-dlp/yt-dlp,Python,49
+307260205,yt-dlp/yt-dlp,Python,44
 138331573,sebastianruder/NLP-progress,Python,11
 349321229,TencentARC/GFPGAN,Python,3
 43160685,zulip/zulip,Python,38
 136202695,mlflow/mlflow,Python,4
 20206590,rougier/numpy-100,Python,30
 72523920,cupy/cupy,Python,8
-148657183,unit8co/darts,Python,20
+148657183,unit8co/darts,Python,11
 145670155,open-mmlab/mmcv,Python,8
 488004650,facebookresearch/metaseq,Python,24
 330914717,unifyai/ivy,Python,16
@@ -17,10 +17,10 @@ id,name,lang,new stars
 266941405,GreaterWMS/GreaterWMS,Python,21
 506323402,yandex/YaLM-100B,Python,383
 379581563,jinfagang/yolov7,Python,14
-431420791,NVlabs/nvdiffrec,Python,40
+431420791,NVlabs/nvdiffrec,Python,6
 501076075,meituan/YOLOv6,Python,184
 382817371,opendilab/DI-star,Python,29
 467151498,datafold/data-diff,Python,54
 495057543,CFandR-github/PHP-binary-bugs,Python,12
-506404806,lucidrains/parti-pytorch,Python,26
+506404806,lucidrains/parti-pytorch,Python,27
 506356072,openai/Video-Pre-Training,Python,78
