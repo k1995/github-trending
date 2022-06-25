@@ -1,8 +1,8 @@
 id,name,lang,new stars
 123458551,jackfrued/Python-100-Days,Python,38
-237791077,mingrammer/diagrams,Python,677
-420459569,github/copilot-docs,Python,94
-266417772,pittcsc/Summer2023-Internships,Python,39
+237791077,mingrammer/diagrams,Python,692
+420459569,github/copilot-docs,Python,89
+266417772,pittcsc/Summer2023-Internships,Python,38
 139199684,PrefectHQ/prefect,Python,11
 106080065,shenweichen/DeepCTR,Python,6
 72523920,cupy/cupy,Python,8
@@ -10,16 +10,16 @@ id,name,lang,new stars
 155790228,sqlfluff/sqlfluff,Python,13
 148657183,unit8co/darts,Python,20
 145670155,open-mmlab/mmcv,Python,9
-190823163,Datalux/Osintgram,Python,10
-488004650,facebookresearch/metaseq,Python,28
+190823163,Datalux/Osintgram,Python,13
+488004650,facebookresearch/metaseq,Python,41
 2410676,urllib3/urllib3,Python,11
-416157128,mosaicml/composer,Python,166
-266941405,GreaterWMS/GreaterWMS,Python,21
-178075572,kserve/kserve,Python,0
+416157128,mosaicml/composer,Python,169
+266941405,GreaterWMS/GreaterWMS,Python,16
+178075572,kserve/kserve,Python,4
 250117402,bigb0sss/RedTeam-OffensiveSecurity,Python,5
 431420791,NVlabs/nvdiffrec,Python,40
 483289068,kraanzu/dooit,Python,19
-501076075,meituan/YOLOv6,Python,293
+501076075,meituan/YOLOv6,Python,302
 61572326,DataDog/dd-trace-py,Python,2
 106580024,Azure/azure-cli-extensions,Python,0
 412850368,clementchadebec/benchmark_VAE,Python,39
