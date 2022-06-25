@@ -10,7 +10,7 @@ id,name,lang,new stars
 155790228,sqlfluff/sqlfluff,Python,13
 148657183,unit8co/darts,Python,20
 145670155,open-mmlab/mmcv,Python,8
-190823163,Datalux/Osintgram,Python,9
+190823163,Datalux/Osintgram,Python,11
 488004650,facebookresearch/metaseq,Python,24
 2410676,urllib3/urllib3,Python,11
 416157128,mosaicml/composer,Python,169
@@ -19,8 +19,8 @@ id,name,lang,new stars
 250117402,bigb0sss/RedTeam-OffensiveSecurity,Python,5
 431420791,NVlabs/nvdiffrec,Python,40
 483289068,kraanzu/dooit,Python,18
-501076075,meituan/YOLOv6,Python,293
-61572326,DataDog/dd-trace-py,Python,2
+501076075,meituan/YOLOv6,Python,184
+61572326,DataDog/dd-trace-py,Python,1
 106580024,Azure/azure-cli-extensions,Python,0
 412850368,clementchadebec/benchmark_VAE,Python,39
 360427259,vcheckzen/KeepAliveE5,Python,8
