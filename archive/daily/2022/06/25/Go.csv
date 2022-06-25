@@ -3,7 +3,7 @@ id,name,lang,new stars
 6838921,prometheus/prometheus,Go,16
 17728164,hashicorp/terraform,Go,24
 56353740,kubernetes/minikube,Go,23
-43723161,helm/helm,Go,11
+43723161,helm/helm,Go,9
 6247705,stretchr/testify,Go,46
 72891330,kubernetes/ingress-nginx,Go,10
 33258973,influxdata/telegraf,Go,5

@@ -7,7 +7,7 @@ id,name,lang,new stars
 26337322,rancher/rancher,Go,55
 120227732,fyne-io/fyne,Go,293
 181461073,v2fly/v2ray-core,Go,302
-6247705,stretchr/testify,Go,174
+6247705,stretchr/testify,Go,180
 36653430,hashicorp/nomad,Go,452
 159540440,google/wire,Go,83
 161951219,wailsapp/wails,Go,361
@@ -16,7 +16,7 @@ id,name,lang,new stars
 120519269,runatlantis/atlantis,Go,30
 22485114,hashicorp/hcl,Go,64
 410430370,IceWhaleTech/CasaOS,Go,97
-109451092,siderolabs/talos,Go,102
+109451092,siderolabs/talos,Go,104
 236055696,grafana/tempo,Go,30
 502349596,sheepla/pingu,Go,183
 303802332,vmware-tanzu/community-edition,Go,31
