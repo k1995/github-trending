@@ -1,8 +1,8 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,18
+3482588,danielmiessler/SecLists,PHP,17
 1420053,guzzle/guzzle,PHP,2
-2889328,WordPress/WordPress,PHP,2
-28628034,flarum/flarum,PHP,3
+2889328,WordPress/WordPress,PHP,4
+28628034,flarum/flarum,PHP,5
 8678290,barryvdh/laravel-ide-helper,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
 11467667,typecho/typecho,PHP,2
@@ -12,15 +12,15 @@ id,name,lang,new stars
 95011974,akaunting/akaunting,PHP,3
 159606650,hyperf/hyperf,PHP,1
 148129143,bagisto/bagisto,PHP,2
-6322699,FreshRSS/FreshRSS,PHP,7
-248372441,filamentphp/filament,PHP,8
+6322699,FreshRSS/FreshRSS,PHP,6
+248372441,filamentphp/filament,PHP,9
 47508644,pterodactyl/panel,PHP,2
 129852395,assimon/dujiaoka,PHP,2
-968839,microweber/microweber,PHP,1
+968839,microweber/microweber,PHP,2
 32315619,DarkaOnLine/L5-Swagger,PHP,1
 311448648,laravel/breeze,PHP,1
-75645659,WordPress/wordpress-develop,PHP,3
+75645659,WordPress/wordpress-develop,PHP,4
 493337810,hasinhayder/hydra,PHP,4
-345315720,swagkarna/Rafel-Rat,PHP,4
+345315720,swagkarna/Rafel-Rat,PHP,2
 278767494,maxdenaro/maxgraph-youtube-source,PHP,0
-462253415,jyxjjj/Telegram-Bot,PHP,20
+462253415,jyxjjj/Telegram-Bot,PHP,16
