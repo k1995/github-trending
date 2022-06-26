@@ -3,10 +3,10 @@ id,name,lang,new stars
 14125254,hashicorp/consul,Go,10
 56353740,kubernetes/minikube,Go,7
 37448451,mattermost/mattermost-server,Go,18
-6247705,stretchr/testify,Go,21
+6247705,stretchr/testify,Go,19
 27729907,grpc/grpc-go,Go,8
 24977535,dutchcoders/transfer.sh,Go,10
-198683574,dolthub/dolt,Go,257
+198683574,dolthub/dolt,Go,273
 36653430,hashicorp/nomad,Go,56
 100982449,argoproj/argo-workflows,Go,5
 208728772,milvus-io/milvus,Go,81
@@ -23,4 +23,4 @@ id,name,lang,new stars
 491539130,cloudwego/hertz,Go,83
 505462535,soypat/gopherlings,Go,73
 493077843,redhuntlabs/HTTPLoot,Go,21
-505984181,optiv/Mangle,Go,84
+505984181,optiv/Mangle,Go,95
