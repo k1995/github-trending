@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,50
+8514,rails/rails,Ruby,52
 65252,jekyll/jekyll,Ruby,55
 7569578,discourse/discourse,Ruby,53
-8681349,huginn/huginn,Ruby,61
-27442967,fastlane/fastlane,Ruby,379
+8681349,huginn/huginn,Ruby,60
+27442967,fastlane/fastlane,Ruby,384
 481872,hashicorp/vagrant,Ruby,41
-308770,heartcombo/devise,Ruby,18
-538746,ruby/ruby,Ruby,38
-1090311,elastic/logstash,Ruby,21
-1157388,tmuxinator/tmuxinator,Ruby,30
+308770,heartcombo/devise,Ruby,19
+538746,ruby/ruby,Ruby,39
+1090311,elastic/logstash,Ruby,19
+1157388,tmuxinator/tmuxinator,Ruby,29
 96395,faker-ruby/faker,Ruby,14
 1548802,activerecord-hackery/ransack,Ruby,10
 30337170,rmosolgo/graphql-ruby,Ruby,5
@@ -17,7 +17,7 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,17
 3898922,zammad/zammad,Ruby,14
 93163073,dependabot/dependabot-core,Ruby,21
-200302808,github/view_component,Ruby,16
+200302808,github/view_component,Ruby,15
 10088951,TheOdinProject/theodinproject,Ruby,21
 34840276,elastic/ansible-elasticsearch,Ruby,0
 32104924,rails/sprockets,Ruby,1
