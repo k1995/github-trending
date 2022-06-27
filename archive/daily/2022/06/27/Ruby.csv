@@ -1,13 +1,13 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,9
+65252,jekyll/jekyll,Ruby,7
 7569578,discourse/discourse,Ruby,12
 52281283,mastodon/mastodon,Ruby,11
 13840241,freeCodeCamp/devdocs,Ruby,14
-481872,hashicorp/vagrant,Ruby,6
+481872,hashicorp/vagrant,Ruby,5
 308770,heartcombo/devise,Ruby,3
 37382858,kilimchoi/engineering-blogs,Ruby,6
 538746,ruby/ruby,Ruby,6
-1090311,elastic/logstash,Ruby,5
+1090311,elastic/logstash,Ruby,4
 3195124,mperham/sidekiq,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
 1725199,github/linguist,Ruby,4
@@ -16,7 +16,7 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,2
 11426474,github/choosealicense.com,Ruby,4
 93163073,dependabot/dependabot-core,Ruby,1
-10088951,TheOdinProject/theodinproject,Ruby,4
+10088951,TheOdinProject/theodinproject,Ruby,3
 11980558,github/pages-gem,Ruby,0
 8154497,rubysec/ruby-advisory-db,Ruby,0
 136781582,rubocop/rubocop-rails,Ruby,0
