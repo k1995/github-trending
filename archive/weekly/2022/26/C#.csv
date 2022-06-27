@@ -1,17 +1,17 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,127
 29078997,dotnet/roslyn,C#,35
-30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,38
-16157746,dotnet/efcore,C#,28
-28239455,dotnet/AspNetCore.Docs,C#,29
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,37
+16157746,dotnet/efcore,C#,27
+28239455,dotnet/AspNetCore.Docs,C#,28
 3476845,JamesNK/Newtonsoft.Json,C#,37
-201188122,rocksdanister/lively,C#,76
-375939072,dotnetcore/FastGithub,C#,210
-245235133,microsoft/reverse-proxy,C#,38
+201188122,rocksdanister/lively,C#,77
+375939072,dotnetcore/FastGithub,C#,205
+245235133,microsoft/reverse-proxy,C#,36
 17748183,StackExchange/StackExchange.Redis,C#,21
-224109382,ant-design-blazor/ant-design-blazor,C#,21
+224109382,ant-design-blazor/ant-design-blazor,C#,22
 19216825,xamarin/xamarin-forms-samples,C#,10
-81770291,neuecc/MessagePack-CSharp,C#,29
+81770291,neuecc/MessagePack-CSharp,C#,30
 2928944,Azure/azure-sdk-for-net,C#,19
 57452143,bitwarden/mobile,C#,27
 10601208,umbraco/Umbraco-CMS,C#,10
@@ -20,7 +20,7 @@ id,name,lang,new stars
 76100575,Cysharp/MagicOnion,C#,26
 138290022,mob-sakai/ParticleEffectForUGUI,C#,21
 119571446,dotnet/samples,C#,19
-137433882,Unity-Technologies/arfoundation-samples,C#,18
-385118073,AssetRipper/AssetRipper,C#,36
+137433882,Unity-Technologies/arfoundation-samples,C#,17
+385118073,AssetRipper/AssetRipper,C#,35
 94652781,still-scene/t3,C#,474
-491611289,zeroruka/GI_Assets,C#,48
+491611289,zeroruka/GI_Assets,C#,46

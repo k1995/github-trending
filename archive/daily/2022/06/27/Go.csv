@@ -1,10 +1,10 @@
 id,name,lang,new stars
 14712850,syncthing/syncthing,Go,20
 41912791,v2ray/v2ray-core,Go,11
-153099672,inancgumus/learngo,Go,10
+153099672,inancgumus/learngo,Go,7
 24977535,dutchcoders/transfer.sh,Go,14
 198683574,dolthub/dolt,Go,156
-36653430,hashicorp/nomad,Go,19
+36653430,hashicorp/nomad,Go,23
 208728772,milvus-io/milvus,Go,65
 32575637,ginuerzh/gost,Go,5
 297165998,muesli/duf,Go,17
@@ -14,8 +14,8 @@ id,name,lang,new stars
 221849341,hibiken/asynq,Go,32
 306366900,casdoor/casdoor,Go,48
 201546443,trustwallet/assets,Go,7
-178079595,kubecost/opencost,Go,11
-255027515,hahwul/dalfox,Go,14
+178079595,kubecost/opencost,Go,14
+255027515,hahwul/dalfox,Go,15
 188836864,ledgerwatch/erigon,Go,2
 491539130,cloudwego/hertz,Go,15
 503408858,greycodee/wechat-backup,Go,58
