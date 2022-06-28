@@ -1,14 +1,14 @@
 id,name,lang,new stars
-196701619,tauri-apps/tauri,Rust,1149
+196701619,tauri-apps/tauri,Rust,1116
 27442967,fastlane/fastlane,Ruby,392
 17372733,OAI/OpenAPI-Specification,JavaScript,283
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,313
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,317
 323048702,OpenBB-finance/OpenBBTerminal,Python,144
 350360184,calcom/cal.com,TypeScript,102
 352933140,ToolJet/ToolJet,JavaScript,636
 36653430,hashicorp/nomad,Go,531
 208728772,milvus-io/milvus,Go,492
-150891532,cloudflare/quiche,Rust,78
+150891532,cloudflare/quiche,Rust,79
 241176242,girliemac/a-picture-is-worth-a-1000-words,,1909
 107422373,elastic/eui,TypeScript,452
 22485114,hashicorp/hcl,Go,71
@@ -17,7 +17,7 @@ id,name,lang,new stars
 455229168,alextran1502/immich,Dart,179
 390607649,Tencent/spring-cloud-tencent,Java,1037
 461824274,rxyhn/dotfiles,CSS,649
-397334149,TGX-Android/Telegram-X,Java,300
+397334149,TGX-Android/Telegram-X,Java,260
 94652781,still-scene/t3,C#,673
 483289068,kraanzu/dooit,Python,423
 431420791,NVlabs/nvdiffrec,Python,124
