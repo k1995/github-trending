@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,12
-3482588,danielmiessler/SecLists,PHP,20
-82238168,monicahq/monica,PHP,5
-1631570,nikic/PHP-Parser,PHP,5
-47495360,koel/koel,PHP,2
-41589337,BookStackApp/BookStack,PHP,6
+1863329,laravel/laravel,PHP,14
+3482588,danielmiessler/SecLists,PHP,23
+82238168,monicahq/monica,PHP,6
+1631570,nikic/PHP-Parser,PHP,4
+47495360,koel/koel,PHP,1
+41589337,BookStackApp/BookStack,PHP,5
 3951767,phpDocumentor/ReflectionDocBlock,PHP,3
 37216840,phpDocumentor/TypeResolver,PHP,3
 36597039,phpDocumentor/ReflectionCommon,PHP,3
@@ -14,13 +14,13 @@ id,name,lang,new stars
 7577612,doctrine/collections,PHP,2
 10883164,barryvdh/laravel-dompdf,PHP,6
 74386167,vimeo/psalm,PHP,3
-248372441,filamentphp/filament,PHP,17
-47508644,pterodactyl/panel,PHP,12
+248372441,filamentphp/filament,PHP,20
+47508644,pterodactyl/panel,PHP,8
 129829848,pixelfed/pixelfed,PHP,1
 96284790,prasathmani/tinyfilemanager,PHP,4
 151089715,symfony/polyfill-intl-idn,PHP,2
-142127816,zhuifengshaonianhanlu/pikachu,PHP,4
+142127816,zhuifengshaonianhanlu/pikachu,PHP,6
 36526302,pentestmonkey/php-reverse-shell,PHP,2
-462253415,jyxjjj/Telegram-Bot,PHP,20
-506690782,dcblogdev/laravel-db-sync,PHP,8
+462253415,jyxjjj/Telegram-Bot,PHP,21
+506690782,dcblogdev/laravel-db-sync,PHP,7
 423320216,tinyphporg/tinyphp,PHP,7
