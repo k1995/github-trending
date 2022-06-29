@@ -1,17 +1,17 @@
 id,name,lang,new stars
 3774328,wg/wrk,C,8
-569041,curl/curl,C,13
+569041,curl/curl,C,14
 24586308,cfenollosa/os-tutorial,C,11
-102578345,coolsnowwolf/lede,C,18
+102578345,coolsnowwolf/lede,C,22
 7634677,openssl/openssl,C,11
-2810292,pbatard/rufus,C,55
+2810292,pbatard/rufus,C,56
 32873313,systemd/systemd,C,4
-179354282,acidanthera/OpenCorePkg,C,7
+179354282,acidanthera/OpenCorePkg,C,6
 1482997,phpredis/phpredis,C,2
 65899476,espressif/esp-idf,C,7
 105944401,yugabyte/yugabyte-db,C,1
-5383731,qemu/qemu,C,5
-59676171,Klipper3d/klipper,C,2
+5383731,qemu/qemu,C,6
+59676171,Klipper3d/klipper,C,3
 40556106,wazuh/wazuh,C,10
 146397768,ithewei/libhv,C,2
 23007417,colmap/colmap,C,7
@@ -19,8 +19,8 @@ id,name,lang,new stars
 58132544,RediSearch/RediSearch,C,1
 321154,libffi/libffi,C,2
 71525630,mackron/miniaudio,C,6
-200663555,axboe/liburing,C,7
-61964127,86Box/86Box,C,3
+200663555,axboe/liburing,C,8
+61964127,86Box/86Box,C,2
 51990771,ARM-software/CMSIS_5,C,2
 70934373,Azure/azure-iot-sdk-c,C,0
 53432472,Azure/sonic-buildimage,C,0

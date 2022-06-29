@@ -1,10 +1,10 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,134
+49609581,PowerShell/PowerShell,C#,133
 29078997,dotnet/roslyn,C#,41
-14964475,AvaloniaUI/Avalonia,C#,55
+14964475,AvaloniaUI/Avalonia,C#,53
 16157746,dotnet/efcore,C#,27
 3476845,JamesNK/Newtonsoft.Json,C#,39
-165548191,carlospolop/PEASS-ng,C#,214
+165548191,carlospolop/PEASS-ng,C#,222
 321682465,BeyondDimension/SteamTools,C#,326
 44897462,JustArchiNET/ArchiSteamFarm,C#,111
 201188122,rocksdanister/lively,C#,148
@@ -12,15 +12,15 @@ id,name,lang,new stars
 17748183,StackExchange/StackExchange.Redis,C#,21
 125612271,Unity-Technologies/EntityComponentSystemSamples,C#,20
 224109382,ant-design-blazor/ant-design-blazor,C#,23
-81770291,neuecc/MessagePack-CSharp,C#,31
+81770291,neuecc/MessagePack-CSharp,C#,32
 57452143,bitwarden/mobile,C#,17
 10601208,umbraco/Umbraco-CMS,C#,11
 117102183,ChilliCream/hotchocolate,C#,46
-23891194,Azure/azure-powershell,C#,20
+23891194,Azure/azure-powershell,C#,21
 85242321,dotnet/MQTTnet,C#,14
 76100575,Cysharp/MagicOnion,C#,26
-158405551,GitCredentialManager/git-credential-manager,C#,58
-39425864,tModLoader/tModLoader,C#,29
-94652781,still-scene/t3,C#,668
+158405551,GitCredentialManager/git-credential-manager,C#,54
+39425864,tModLoader/tModLoader,C#,28
+94652781,still-scene/t3,C#,823
 307848141,Unity-Technologies/com.unity.multiplayer.samples.coop,C#,7
-491611289,zeroruka/GI_Assets,C#,49
+491611289,zeroruka/GI_Assets,C#,50
