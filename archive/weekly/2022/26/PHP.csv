@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,111
-7548986,laravel/framework,PHP,62
+1863329,laravel/laravel,PHP,112
+7548986,laravel/framework,PHP,58
 458058,symfony/symfony,PHP,27
-1420053,guzzle/guzzle,PHP,26
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,22
-2253830,PHPMailer/PHPMailer,PHP,36
-1548202,matomo-org/matomo,PHP,31
+1420053,guzzle/guzzle,PHP,25
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,21
+2253830,PHPMailer/PHPMailer,PHP,37
+1548202,matomo-org/matomo,PHP,30
 12615154,barryvdh/laravel-debugbar,PHP,32
 13899674,thephpleague/flysystem,PHP,11
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,38
@@ -14,13 +14,13 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,15
 6660366,dompdf/dompdf,PHP,34
 2179920,woocommerce/woocommerce,PHP,145
-14346979,snipe/snipe-it,PHP,35
-10883164,barryvdh/laravel-dompdf,PHP,20
+14346979,snipe/snipe-it,PHP,34
+10883164,barryvdh/laravel-dompdf,PHP,19
 76064827,mailcow/mailcow-dockerized,PHP,31
 74386167,vimeo/psalm,PHP,16
-4565995,phpseclib/phpseclib,PHP,8
+4565995,phpseclib/phpseclib,PHP,7
 60010673,elementor/elementor,PHP,7
 248372441,filamentphp/filament,PHP,89
 1430051,TYPO3/typo3,PHP,4
 491456510,zidansec/CloudPeler,PHP,24
-423320216,tinyphporg/tinyphp,PHP,57
+423320216,tinyphporg/tinyphp,PHP,58
