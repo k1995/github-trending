@@ -1,25 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,229
-54346799,public-apis/public-apis,Python,320
-126577260,trekhleb/javascript-algorithms,JavaScript,178
-24195339,angular/angular,TypeScript,95
-88011908,practical-tutorials/project-based-learning,,237
-58028038,521xueweihan/HelloGitHub,Python,65
-55076063,Hack-with-Github/Awesome-Hacking,,127
-4578002,faif/python-patterns,Python,134
+70107786,vercel/next.js,JavaScript,68
+54173593,storybookjs/storybook,TypeScript,54
+55076063,Hack-with-Github/Awesome-Hacking,,104
+206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,17
+191529732,lydiahallie/javascript-questions,,31
 40997482,vim/vim,Vim script,76
-212639071,bregman-arie/devops-exercises,Python,450
-4524181,facebook/folly,C++,43
-165548191,carlospolop/PEASS-ng,C#,61
-365739812,tldraw/tldraw,TypeScript,81
-148641954,TheAlgorithms/Rust,Rust,188
-164419238,bregman-arie/devops-resources,Groovy,45
-327089870,payloadcms/payload,TypeScript,57
-47508644,pterodactyl/panel,PHP,43
+212639071,bregman-arie/devops-exercises,Python,451
+4524181,facebook/folly,C++,45
+85541218,ascoders/weekly,JavaScript,58
+307489284,remix-run/remix,TypeScript,21
+7122594,directus/directus,TypeScript,36
+262395224,dotnet/maui,C#,13
+441903012,MichaelCade/90DaysOfDevOps,Shell,15
+43613404,kubernetes-sigs/kubespray,Jinja,2
+182849188,delta-io/delta,Scala,12
 365263843,denoland/fresh,TypeScript,607
-501076075,meituan/YOLOv6,Python,361
-505385703,edoardottt/awesome-hacker-search-engines,,601
+470962649,dair-ai/ML-Course-Notes,,38
+507972385,kuprel/min-dalle,Python,308
+505385703,edoardottt/awesome-hacker-search-engines,,600
+379581563,jinfagang/yolov7,Python,68
 432640857,qiangmzsx/Software-Engineering-at-Google,HTML,227
-480417179,D3Ext/WEF,Hack,113
+480417179,D3Ext/WEF,Hack,114
 289334021,Azure/azureml-examples,Jupyter Notebook,82
-490577985,liu673cn/mao,HTML,31
+336566063,qq8e/qq,CSS,30
+506319109,aolofsson/awesome-opensource-hardware,Python,12
