@@ -1,7 +1,7 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,14
+10744183,netdata/netdata,C,15
 569041,curl/curl,C,14
-2810292,pbatard/rufus,C,24
+2810292,pbatard/rufus,C,23
 15337142,micropython/micropython,C,16
 60667730,lvgl/lvgl,C,5
 7408108,RT-Thread/rt-thread,C,5
@@ -11,14 +11,14 @@ id,name,lang,new stars
 203957456,OpenAtomFoundation/TencentOS-tiny,C,8
 214011414,kingToolbox/WindTerm,C,21
 44781140,greenplum-db/gpdb,C,1
-5390156,fontforge/fontforge,C,20
+5390156,fontforge/fontforge,C,18
 17183871,esnet/iperf,C,2
 40556106,wazuh/wazuh,C,15
 23007417,colmap/colmap,C,3
 184654298,bytecodealliance/wasm-micro-runtime,C,2
 6860771,hathach/tinyusb,C,2
 5410234,OISF/suricata,C,0
-3276860,ThrowTheSwitch/Unity,C,4
+3276860,ThrowTheSwitch/Unity,C,3
 481977,stephane/libmodbus,C,0
 26537135,u-boot/u-boot,C,2
 299867499,rizinorg/rizin,C,15

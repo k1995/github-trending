@@ -1,13 +1,13 @@
 id,name,lang,new stars
 29078997,dotnet/roslyn,C#,5
-262395224,dotnet/maui,C#,15
+262395224,dotnet/maui,C#,14
 16157746,dotnet/efcore,C#,3
 28239455,dotnet/AspNetCore.Docs,C#,7
 210716005,dotnet/runtime,C#,18
-165548191,carlospolop/PEASS-ng,C#,67
+165548191,carlospolop/PEASS-ng,C#,61
 201188122,rocksdanister/lively,C#,45
 500093,winsw/winsw,C#,9
-203892454,kgrzybek/modular-monolith-with-ddd,C#,5
+203892454,kgrzybek/modular-monolith-with-ddd,C#,4
 85953,gitextensions/gitextensions,C#,2
 743436,egametang/ET,C#,4
 8198511,serilog/serilog,C#,5
@@ -17,8 +17,8 @@ id,name,lang,new stars
 109514840,commandlineparser/commandline,C#,3
 942613,elastic/elasticsearch-net,C#,1
 16897008,tmenier/Flurl,C#,4
-185478059,open-telemetry/opentelemetry-dotnet,C#,1
-94652781,still-scene/t3,C#,106
+185478059,open-telemetry/opentelemetry-dotnet,C#,2
+94652781,still-scene/t3,C#,77
 209623885,thebookisclosed/ViVe,C#,12
 173170791,dotnet/SqlClient,C#,0
 491611289,zeroruka/GI_Assets,C#,7
