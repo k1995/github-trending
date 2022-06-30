@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
+8514,rails/rails,Ruby,10
 7569578,discourse/discourse,Ruby,9
 52281283,mastodon/mastodon,Ruby,7
-2500088,gitlabhq/gitlabhq,Ruby,1
+2500088,gitlabhq/gitlabhq,Ruby,2
 308770,heartcombo/devise,Ruby,6
-37382858,kilimchoi/engineering-blogs,Ruby,31
+37382858,kilimchoi/engineering-blogs,Ruby,24
 2203645,CocoaPods/CocoaPods,Ruby,0
 202291859,chatwoot/chatwoot,Ruby,6
 3195124,mperham/sidekiq,Ruby,1
-1725199,github/linguist,Ruby,5
+1725199,github/linguist,Ruby,7
 812393,ruby-grape/grape,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,3
 2441517,puma/puma,Ruby,1
-108278,chef/chef,Ruby,2
+108278,chef/chef,Ruby,3
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,4
 910744,puppetlabs/puppet,Ruby,3
 211588,paper-trail-gem/paper_trail,Ruby,1
