@@ -1,14 +1,14 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,12
+7548986,laravel/framework,PHP,10
 458058,symfony/symfony,PHP,6
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,8
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,7
 1376664,Seldaek/monolog,PHP,2
-4916869,ramsey/uuid,PHP,2
+4916869,ramsey/uuid,PHP,1
 61490598,PHPOffice/PhpSpreadsheet,PHP,2
 2884111,magento/magento2,PHP,8
 364315,predis/predis,PHP,1
-6269013,aws/aws-sdk-php,PHP,1
-47508644,pterodactyl/panel,PHP,97
+6269013,aws/aws-sdk-php,PHP,0
+47508644,pterodactyl/panel,PHP,91
 885517,doctrine-extensions/DoctrineExtensions,PHP,1
 182349597,jqhph/dcat-admin,PHP,2
 80249302,craftcms/cms,PHP,5
@@ -18,9 +18,9 @@ id,name,lang,new stars
 17253775,zabbix/zabbix,PHP,2
 311448648,laravel/breeze,PHP,0
 55690447,spatie/laravel-translatable,PHP,1
-75645659,WordPress/wordpress-develop,PHP,2
+75645659,WordPress/wordpress-develop,PHP,1
 404921727,luolongfei/freenom,PHP,17
 5367323,akeneo/pim-community-dev,PHP,0
 443605948,pablouser1/ProxiTok,PHP,8
 211234387,avi7611/Oscp-Cheat-Sheet,PHP,1
-497031668,packagit/packagit,PHP,11
+497031668,packagit/packagit,PHP,16
