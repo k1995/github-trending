@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,13
-65252,jekyll/jekyll,Ruby,11
-27442967,fastlane/fastlane,Ruby,8
-538746,ruby/ruby,Ruby,7
+65252,jekyll/jekyll,Ruby,10
+27442967,fastlane/fastlane,Ruby,7
+538746,ruby/ruby,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,3
 1090311,elastic/logstash,Ruby,0
 202291859,chatwoot/chatwoot,Ruby,5
-3195124,mperham/sidekiq,Ruby,2
+3195124,mperham/sidekiq,Ruby,1
 1918677,fluent/fluentd,Ruby,3
 96395,faker-ruby/faker,Ruby,4
 15435,Shopify/liquid,Ruby,1
@@ -15,12 +15,12 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,0
 1314319,instructure/canvas-lms,Ruby,0
 30985840,solidusio/solidus,Ruby,2
-46698467,ankane/strong_migrations,Ruby,2
-93163073,dependabot/dependabot-core,Ruby,5
-200302808,github/view_component,Ruby,2
+46698467,ankane/strong_migrations,Ruby,1
+93163073,dependabot/dependabot-core,Ruby,4
+200302808,github/view_component,Ruby,1
 588600,brianmario/mysql2,Ruby,0
 1953385,stripe/stripe-ruby,Ruby,1
-242765280,bensheldon/good_job,Ruby,25
+242765280,bensheldon/good_job,Ruby,18
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,1
 506466358,husky-misc/husky-academy,Ruby,8
