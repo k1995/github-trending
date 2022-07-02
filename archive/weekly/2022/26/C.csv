@@ -1,17 +1,17 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,412
-36502,git/git,C,131
-246335987,ventoy/Ventoy,C,311
-24586308,cfenollosa/os-tutorial,C,57
-2810292,pbatard/rufus,C,276
+2325298,torvalds/linux,C,411
+36502,git/git,C,128
+246335987,ventoy/Ventoy,C,308
+24586308,cfenollosa/os-tutorial,C,58
+2810292,pbatard/rufus,C,281
 7634677,openssl/openssl,C,75
-15337142,micropython/micropython,C,243
-60667730,lvgl/lvgl,C,55
+15337142,micropython/micropython,C,245
+60667730,lvgl/lvgl,C,54
 1856976,libevent/libevent,C,28
-65899476,espressif/esp-idf,C,44
+65899476,espressif/esp-idf,C,45
 200321698,rui314/chibicc,C,154
 214011414,kingToolbox/WindTerm,C,100
-5390156,fontforge/fontforge,C,87
+5390156,fontforge/fontforge,C,86
 7705639,merbanan/rtl_433,C,22
 6331631,axboe/fio,C,15
 7476948,troydhanson/uthash,C,19
@@ -21,6 +21,6 @@ id,name,lang,new stars
 331380723,raspberrypi/pico-sdk,C,40
 200663555,axboe/liburing,C,37
 8890645,Xilinx/linux-xlnx,C,3
-426733235,helpsystems/nanodump,C,14
+426733235,helpsystems/nanodump,C,15
 232157758,emanuele-f/PCAPdroid,C,19
-506164578,GPUOpen-Effects/FidelityFX-FSR2,C,151
+506164578,GPUOpen-Effects/FidelityFX-FSR2,C,150
