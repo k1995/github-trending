@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,246
+8514,rails/rails,Ruby,248
 65252,jekyll/jekyll,Ruby,234
 7569578,discourse/discourse,Ruby,221
 27442967,fastlane/fastlane,Ruby,555
-53238813,Homebrew/brew,Ruby,378
-481872,hashicorp/vagrant,Ruby,170
+53238813,Homebrew/brew,Ruby,379
+481872,hashicorp/vagrant,Ruby,169
 308770,heartcombo/devise,Ruby,92
 2203645,CocoaPods/CocoaPods,Ruby,55
 1090311,elastic/logstash,Ruby,79
-52855516,Homebrew/homebrew-core,Ruby,106
+52855516,Homebrew/homebrew-core,Ruby,107
 1918677,fluent/fluentd,Ruby,75
-96395,faker-ruby/faker,Ruby,61
+96395,faker-ruby/faker,Ruby,60
 1725199,github/linguist,Ruby,117
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,155
 30337170,rmosolgo/graphql-ruby,Ruby,26
@@ -18,7 +18,7 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,33
 103766152,github/explore,Ruby,64
 5144181,jnunemaker/flipper,Ruby,57
-200302808,github/view_component,Ruby,66
+200302808,github/view_component,Ruby,67
 10088951,TheOdinProject/theodinproject,Ruby,73
 9831101,elastic/elasticsearch-ruby,Ruby,7
 66497320,DataDog/dd-trace-rb,Ruby,6
