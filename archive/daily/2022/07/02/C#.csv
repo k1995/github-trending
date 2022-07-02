@@ -1,9 +1,9 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,26
-70104825,dotnet-architecture/eShopOnContainers,C#,7
-69662720,mxgmn/WaveFunctionCollapse,C#,8
-29078997,dotnet/roslyn,C#,4
-262395224,dotnet/maui,C#,31
+184456251,microsoft/PowerToys,C#,27
+70104825,dotnet-architecture/eShopOnContainers,C#,8
+69662720,mxgmn/WaveFunctionCollapse,C#,7
+29078997,dotnet/roslyn,C#,5
+262395224,dotnet/maui,C#,22
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,5
 210716005,dotnet/runtime,C#,13
 46652227,IdentityServer/IdentityServer4,C#,2
@@ -11,15 +11,15 @@ id,name,lang,new stars
 500093,winsw/winsw,C#,3
 26884725,OrchardCMS/OrchardCore,C#,3
 743436,egametang/ET,C#,6
-372096057,Richasy/Bili.Uwp,C#,20
-8198511,serilog/serilog,C#,5
+372096057,Richasy/Bili.Uwp,C#,17
+8198511,serilog/serilog,C#,8
 441460974,wmjordan/PDFPatcher,C#,136
 7400815,nissl-lab/npoi,C#,5
 2928944,Azure/azure-sdk-for-net,C#,2
 10601208,umbraco/Umbraco-CMS,C#,0
 33010673,microsoft/perfview,C#,5
-184286875,actions/runner,C#,1
-119571446,dotnet/samples,C#,1
+184286875,actions/runner,C#,2
+119571446,dotnet/samples,C#,2
 80280403,oskardudycz/EventSourcing.NetCore,C#,17
 209623885,thebookisclosed/ViVe,C#,24
 126898329,microsoft/PowerApps-Samples,C#,0
