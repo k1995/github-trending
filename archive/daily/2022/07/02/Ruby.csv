@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,5
-65252,jekyll/jekyll,Ruby,7
-538746,ruby/ruby,Ruby,2
-2203645,CocoaPods/CocoaPods,Ruby,2
-3195124,mperham/sidekiq,Ruby,1
+65252,jekyll/jekyll,Ruby,5
+538746,ruby/ruby,Ruby,1
+2203645,CocoaPods/CocoaPods,Ruby,1
+3195124,mperham/sidekiq,Ruby,2
 3314,spree/spree,Ruby,1
 1918677,fluent/fluentd,Ruby,4
-96395,faker-ruby/faker,Ruby,5
+96395,faker-ruby/faker,Ruby,4
 15435,Shopify/liquid,Ruby,2
 611921,activeadmin/activeadmin,Ruby,0
 2441517,puma/puma,Ruby,0
@@ -19,8 +19,8 @@ id,name,lang,new stars
 588600,brianmario/mysql2,Ruby,0
 3662248,git/git-scm.com,Ruby,1
 12357002,ondrejbartas/sidekiq-cron,Ruby,1
-242765280,bensheldon/good_job,Ruby,10
+242765280,bensheldon/good_job,Ruby,8
 209731662,ruby/debug,Ruby,2
-170321215,DmitryTsepelev/store_model,Ruby,6
+170321215,DmitryTsepelev/store_model,Ruby,5
 66497320,DataDog/dd-trace-rb,Ruby,0
 506466358,husky-misc/husky-academy,Ruby,5
