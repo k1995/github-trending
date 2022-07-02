@@ -1,26 +1,26 @@
 id,name,lang,new stars
-40997482,vim/vim,Vim script,344
-212639071,bregman-arie/devops-exercises,Python,1610
-4524181,facebook/folly,C++,262
-254832799,Z4nzu/hackingtool,Python,1242
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,353
-323048702,OpenBB-finance/OpenBBTerminal,Python,194
-316836816,saadeghi/daisyui,Svelte,352
-350360184,calcom/cal.com,TypeScript,140
-208728772,milvus-io/milvus,Go,235
-365263843,denoland/fresh,TypeScript,2823
-182849188,delta-io/delta,Scala,235
-47508644,pterodactyl/panel,PHP,216
-501076075,meituan/YOLOv6,Python,2129
-506323402,yandex/YaLM-100B,Python,637
-390607649,Tencent/spring-cloud-tencent,Java,687
+13491895,EbookFoundation/free-programming-books,,1647
+14098069,justjavac/free-programming-books-zh_CN,,447
+23405758,google/leveldb,C++,111
+40997482,vim/vim,Vim script,346
+212639071,bregman-arie/devops-exercises,Python,1615
+4524181,facebook/folly,C++,265
+254832799,Z4nzu/hackingtool,Python,1234
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,355
+323048702,OpenBB-finance/OpenBBTerminal,Python,192
+350360184,calcom/cal.com,TypeScript,143
+208728772,milvus-io/milvus,Go,226
+365263843,denoland/fresh,TypeScript,2872
+182849188,delta-io/delta,Scala,243
+47508644,pterodactyl/panel,PHP,214
+501076075,meituan/YOLOv6,Python,2107
+390607649,Tencent/spring-cloud-tencent,Java,676
 429104828,opensumi/core,TypeScript,429
-461824274,rxyhn/dotfiles,CSS,219
-503236212,laravel/pint,PHP,343
-94652781,still-scene/t3,C#,799
-406555580,aqlaboratory/openfold,Python,151
-496605552,sigoden/dufs,Rust,258
-491539130,cloudwego/hertz,Go,291
-231533573,apache/inlong,Java,50
-289334021,Azure/azureml-examples,Jupyter Notebook,258
-503947256,LunarVim/nvim-basic-ide,Lua,81
+503236212,laravel/pint,PHP,338
+94652781,still-scene/t3,C#,784
+406555580,aqlaboratory/openfold,Python,150
+467151498,datafold/data-diff,Python,478
+506449138,CatVodTVOfficial/TVBoxOSC,Java,554
+289334021,Azure/azureml-examples,Jupyter Notebook,261
+503947256,LunarVim/nvim-basic-ide,Lua,79
+505398821,codeedu/imersao8,TypeScript,40
