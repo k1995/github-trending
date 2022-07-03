@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,169
-60493101,jwasham/coding-interview-university,,174
-85077558,kamranahmedse/developer-roadmap,TypeScript,181
+13491895,EbookFoundation/free-programming-books,,193
+60493101,jwasham/coding-interview-university,,173
+85077558,kamranahmedse/developer-roadmap,TypeScript,169
 83222441,donnemartin/system-design-primer,Python,296
 132750724,codecrafters-io/build-your-own-x,,198
-112507086,30-seconds/30-seconds-of-code,JavaScript,246
-88011908,practical-tutorials/project-based-learning,,236
-74293321,sveltejs/svelte,TypeScript,68
+112507086,30-seconds/30-seconds-of-code,JavaScript,247
+88011908,practical-tutorials/project-based-learning,,162
+74293321,sveltejs/svelte,TypeScript,44
 101296881,mtdvio/every-programmer-should-know,,315
 45723377,charlax/professional-programming,Python,234
-128636610,Koenkk/zigbee2mqtt,JavaScript,10
-365263843,denoland/fresh,TypeScript,410
-273871859,juanfont/headscale,Go,106
-397618589,messense/aliyundrive-webdav,Rust,79
-470962649,dair-ai/ML-Course-Notes,,248
+128636610,Koenkk/zigbee2mqtt,JavaScript,3
+365263843,denoland/fresh,TypeScript,438
+273871859,juanfont/headscale,Go,118
+397618589,messense/aliyundrive-webdav,Rust,70
+470962649,dair-ai/ML-Course-Notes,,237
 184064793,decalage2/awesome-security-hardening,,162
-331380723,raspberrypi/pico-sdk,C,13
-394541647,WhaleFell/SMSBoom,Python,252
-357241735,searxng/searxng,Python,157
-440224087,Shopify/flash-list,TypeScript,199
-437113064,libevm/subway,Solidity,41
-507984804,michaelgutmann/ml-pen-and-paper-exercises,TeX,170
-313602872,deepmind/educational,Jupyter Notebook,170
-509153572,jina-ai/discoart,Python,140
-509470139,tihmstar/jbinit,C,17
+331380723,raspberrypi/pico-sdk,C,4
+394541647,WhaleFell/SMSBoom,Python,173
+357241735,searxng/searxng,Python,131
+440224087,Shopify/flash-list,TypeScript,190
+437113064,libevm/subway,Solidity,34
+507984804,michaelgutmann/ml-pen-and-paper-exercises,TeX,191
+313602872,deepmind/educational,Jupyter Notebook,162
+509153572,jina-ai/discoart,Python,120
+509470139,tihmstar/jbinit,C,12
