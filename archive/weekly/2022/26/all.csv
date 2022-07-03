@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,1641
-14098069,justjavac/free-programming-books-zh_CN,,402
-23405758,google/leveldb,C++,118
-40997482,vim/vim,Vim script,347
-212639071,bregman-arie/devops-exercises,Python,1641
-4524181,facebook/folly,C++,271
-254832799,Z4nzu/hackingtool,Python,1170
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,355
-323048702,OpenBB-finance/OpenBBTerminal,Python,189
-350360184,calcom/cal.com,TypeScript,139
-208728772,milvus-io/milvus,Go,146
-365263843,denoland/fresh,TypeScript,3234
-182849188,delta-io/delta,Scala,302
-47508644,pterodactyl/panel,PHP,224
-501076075,meituan/YOLOv6,Python,1961
-390607649,Tencent/spring-cloud-tencent,Java,608
-429104828,opensumi/core,TypeScript,418
-503236212,laravel/pint,PHP,288
-94652781,still-scene/t3,C#,616
-406555580,aqlaboratory/openfold,Python,142
-467151498,datafold/data-diff,Python,390
-506449138,CatVodTVOfficial/TVBoxOSC,Java,486
-289334021,Azure/azureml-examples,Jupyter Notebook,264
-503947256,LunarVim/nvim-basic-ide,Lua,77
-505398821,codeedu/imersao8,TypeScript,35
+13491895,EbookFoundation/free-programming-books,,1631
+126577260,trekhleb/javascript-algorithms,JavaScript,952
+88011908,practical-tutorials/project-based-learning,,1549
+74791366,ryanmcdermott/clean-code-javascript,JavaScript,300
+16408992,neovim/neovim,Vim script,336
+40997482,vim/vim,Vim script,348
+212639071,bregman-arie/devops-exercises,Python,1633
+254832799,Z4nzu/hackingtool,Python,1151
+323048702,OpenBB-finance/OpenBBTerminal,Python,188
+44971752,ethereum/EIPs,Solidity,67
+148641954,TheAlgorithms/Rust,Rust,748
+365263843,denoland/fresh,TypeScript,3276
+182849188,delta-io/delta,Scala,303
+47508644,pterodactyl/panel,PHP,226
+501076075,meituan/YOLOv6,Python,1936
+446669267,focus-creative-games/huatuo,C++,184
+390607649,Tencent/spring-cloud-tencent,Java,598
+429104828,opensumi/core,TypeScript,415
+94652781,still-scene/t3,C#,607
+505336286,easychen/lean-side-bussiness,,498
+406555580,aqlaboratory/openfold,Python,144
+394541647,WhaleFell/SMSBoom,Python,420
+467151498,datafold/data-diff,Python,385
+506449138,CatVodTVOfficial/TVBoxOSC,Java,467
+503947256,LunarVim/nvim-basic-ide,Lua,74
