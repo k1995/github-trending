@@ -13,8 +13,8 @@ id,name,lang,new stars
 9131292,jenssegers/laravel-mongodb,PHP,2
 97311017,rectorphp/rector,PHP,4
 159606650,hyperf/hyperf,PHP,2
-38200433,jeroennoten/Laravel-AdminLTE,PHP,0
-69691727,pmmp/PocketMine-MP,PHP,2
+38200433,jeroennoten/Laravel-AdminLTE,PHP,1
+69691727,pmmp/PocketMine-MP,PHP,1
 39182755,glpi-project/glpi,PHP,2
 3193843,drush-ops/drush,PHP,0
 131995661,shopware/platform,PHP,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 27249479,EC-CUBE/ec-cube,PHP,0
 337565235,innocenzi/laravel-vite,PHP,5
 212625433,ivan-sincek/penetration-testing-cheat-sheet,PHP,3
-504284316,spatie/laravel-onboard,PHP,11
+504284316,spatie/laravel-onboard,PHP,10
 462253415,jyxjjj/Telegram-Bot,PHP,17
