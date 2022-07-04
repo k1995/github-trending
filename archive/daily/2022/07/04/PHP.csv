@@ -1,20 +1,20 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,22
-2253830,PHPMailer/PHPMailer,PHP,3
+3482588,danielmiessler/SecLists,PHP,23
+2253830,PHPMailer/PHPMailer,PHP,4
 2889328,WordPress/WordPress,PHP,4
 22553797,getgrav/grav,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,4
 4549925,bobthecow/psysh,PHP,0
 42261096,fuzzdb-project/fuzzdb,PHP,2
-14716368,invoiceninja/invoiceninja,PHP,1
-14346979,snipe/snipe-it,PHP,5
-95011974,akaunting/akaunting,PHP,2
-6322699,FreshRSS/FreshRSS,PHP,2
+14716368,invoiceninja/invoiceninja,PHP,2
+14346979,snipe/snipe-it,PHP,3
+95011974,akaunting/akaunting,PHP,3
+6322699,FreshRSS/FreshRSS,PHP,1
 119047018,linuxserver/Heimdall,PHP,2
-248372441,filamentphp/filament,PHP,5
+248372441,filamentphp/filament,PHP,6
 291805291,laravel/jetstream,PHP,0
-96284790,prasathmani/tinyfilemanager,PHP,2
-6495081,wikimedia/mediawiki,PHP,1
+96284790,prasathmani/tinyfilemanager,PHP,3
+6495081,wikimedia/mediawiki,PHP,2
 286645686,yuantuo666/baiduwp-php,PHP,1
 69691727,pmmp/PocketMine-MP,PHP,3
 129852395,assimon/dujiaoka,PHP,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 279739423,Licoy/wordpress-theme-puock,PHP,0
 337565235,innocenzi/laravel-vite,PHP,3
 485064852,bradtraversy/laragigs,PHP,0
-423320216,tinyphporg/tinyphp,PHP,8
-509192298,spatie/laravel-sql-commenter,PHP,18
+423320216,tinyphporg/tinyphp,PHP,7
+509192298,spatie/laravel-sql-commenter,PHP,19
