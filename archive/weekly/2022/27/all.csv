@@ -1,25 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,1664
-126577260,trekhleb/javascript-algorithms,JavaScript,1012
-88011908,practical-tutorials/project-based-learning,,1637
-74791366,ryanmcdermott/clean-code-javascript,JavaScript,268
-16408992,neovim/neovim,Vim script,324
-40997482,vim/vim,Vim script,361
-212639071,bregman-arie/devops-exercises,Python,1520
-254832799,Z4nzu/hackingtool,Python,863
-323048702,OpenBB-finance/OpenBBTerminal,Python,173
-44971752,ethereum/EIPs,Solidity,79
-148641954,TheAlgorithms/Rust,Rust,681
-365263843,denoland/fresh,TypeScript,3650
-47508644,pterodactyl/panel,PHP,229
-501076075,meituan/YOLOv6,Python,1499
-446669267,focus-creative-games/huatuo,C++,208
-390607649,Tencent/spring-cloud-tencent,Java,377
+13491895,EbookFoundation/free-programming-books,,1663
+126577260,trekhleb/javascript-algorithms,JavaScript,1017
+16408992,neovim/neovim,Vim script,315
+169677297,vlang/v,V,375
+40997482,vim/vim,Vim script,357
+212639071,bregman-arie/devops-exercises,Python,1479
+85541218,ascoders/weekly,JavaScript,455
+254832799,Z4nzu/hackingtool,Python,830
+71487058,TanStack/table,TypeScript,217
+148641954,TheAlgorithms/Rust,Rust,658
+14508450,gophish/gophish,Go,294
+365263843,denoland/fresh,TypeScript,3720
+182849188,delta-io/delta,Scala,333
+47508644,pterodactyl/panel,PHP,233
+501076075,meituan/YOLOv6,Python,1410
+446669267,tuyoogame/huatuo,C++,205
+390607649,Tencent/spring-cloud-tencent,Java,362
 429104828,opensumi/core,TypeScript,376
-94652781,still-scene/t3,C#,514
-505336286,easychen/lean-side-bussiness,,333
+480592980,insidegui/VirtualBuddy,Swift,789
+94652781,still-scene/t3,C#,497
+505336286,easychen/lean-side-bussiness,,316
 406555580,aqlaboratory/openfold,Python,127
-394541647,WhaleFell/SMSBoom,Python,930
-467151498,datafold/data-diff,Python,359
-506449138,CatVodTVOfficial/TVBoxOSC,Java,350
-503947256,LunarVim/nvim-basic-ide,Lua,74
+467151498,datafold/data-diff,Python,353
+506449138,CatVodTVOfficial/TVBoxOSC,Java,337
+506356072,openai/Video-Pre-Training,Python,106

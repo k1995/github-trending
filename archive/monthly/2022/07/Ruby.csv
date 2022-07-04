@@ -1,12 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,248
-65252,jekyll/jekyll,Ruby,228
+8514,rails/rails,Ruby,249
+65252,jekyll/jekyll,Ruby,226
 7569578,discourse/discourse,Ruby,222
-53238813,Homebrew/brew,Ruby,377
-481872,hashicorp/vagrant,Ruby,168
-308770,heartcombo/devise,Ruby,93
+53238813,Homebrew/brew,Ruby,379
+481872,hashicorp/vagrant,Ruby,170
+308770,heartcombo/devise,Ruby,92
 2203645,CocoaPods/CocoaPods,Ruby,54
 1090311,elastic/logstash,Ruby,81
+3195124,mperham/sidekiq,Ruby,66
 52855516,Homebrew/homebrew-core,Ruby,109
 96395,faker-ruby/faker,Ruby,69
 1725199,github/linguist,Ruby,121
@@ -14,13 +15,12 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,24
 52316423,luggit/react-native-config,Ruby,31
 103766152,github/explore,Ruby,64
-93163073,dependabot/dependabot-core,Ruby,64
+93163073,dependabot/dependabot-core,Ruby,65
 200302808,github/view_component,Ruby,61
 10088951,TheOdinProject/theodinproject,Ruby,73
 9831101,elastic/elasticsearch-ruby,Ruby,7
 66497320,DataDog/dd-trace-rb,Ruby,6
 212272090,CMSgov/price-transparency-guide,Ruby,7
-294306071,TheOdinProject/ruby-exercises,Ruby,8
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,1
 347104426,learn-co-curriculum/phase-3-nested-hash-iteration,Ruby,0
 374113809,learn-co-curriculum/phase-4-mock-challenge-camping-fun,Ruby,1
