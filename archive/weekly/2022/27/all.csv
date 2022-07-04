@@ -1,26 +1,25 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,1656
-126577260,trekhleb/javascript-algorithms,JavaScript,992
-88011908,practical-tutorials/project-based-learning,,1617
-74791366,ryanmcdermott/clean-code-javascript,JavaScript,272
-16408992,neovim/neovim,Vim script,323
-40997482,vim/vim,Vim script,356
-212639071,bregman-arie/devops-exercises,Python,1537
-254832799,Z4nzu/hackingtool,Python,903
-323048702,OpenBB-finance/OpenBBTerminal,Python,170
+13491895,EbookFoundation/free-programming-books,,1664
+126577260,trekhleb/javascript-algorithms,JavaScript,1012
+88011908,practical-tutorials/project-based-learning,,1637
+74791366,ryanmcdermott/clean-code-javascript,JavaScript,268
+16408992,neovim/neovim,Vim script,324
+40997482,vim/vim,Vim script,361
+212639071,bregman-arie/devops-exercises,Python,1520
+254832799,Z4nzu/hackingtool,Python,863
+323048702,OpenBB-finance/OpenBBTerminal,Python,173
 44971752,ethereum/EIPs,Solidity,79
-148641954,TheAlgorithms/Rust,Rust,692
-365263843,denoland/fresh,TypeScript,3587
-182849188,delta-io/delta,Scala,319
+148641954,TheAlgorithms/Rust,Rust,681
+365263843,denoland/fresh,TypeScript,3650
 47508644,pterodactyl/panel,PHP,229
-501076075,meituan/YOLOv6,Python,1633
-446669267,focus-creative-games/huatuo,C++,203
-390607649,Tencent/spring-cloud-tencent,Java,427
-429104828,opensumi/core,TypeScript,393
-94652781,still-scene/t3,C#,524
-505336286,easychen/lean-side-bussiness,,363
-406555580,aqlaboratory/openfold,Python,132
-394541647,WhaleFell/SMSBoom,Python,792
+501076075,meituan/YOLOv6,Python,1499
+446669267,focus-creative-games/huatuo,C++,208
+390607649,Tencent/spring-cloud-tencent,Java,377
+429104828,opensumi/core,TypeScript,376
+94652781,still-scene/t3,C#,514
+505336286,easychen/lean-side-bussiness,,333
+406555580,aqlaboratory/openfold,Python,127
+394541647,WhaleFell/SMSBoom,Python,930
 467151498,datafold/data-diff,Python,359
-506449138,CatVodTVOfficial/TVBoxOSC,Java,372
+506449138,CatVodTVOfficial/TVBoxOSC,Java,350
 503947256,LunarVim/nvim-basic-ide,Lua,74
