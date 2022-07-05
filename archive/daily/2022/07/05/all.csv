@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,263
-112507086,30-seconds/30-seconds-of-code,JavaScript,246
-74293321,sveltejs/svelte,TypeScript,160
-596892,pallets/flask,Python,105
-101296881,mtdvio/every-programmer-should-know,,351
+132750724,codecrafters-io/build-your-own-x,,121
+63476337,TheAlgorithms/Python,Python,96
+2325298,torvalds/linux,C,54
+112507086,30-seconds/30-seconds-of-code,JavaScript,231
+612230,nvm-sh/nvm,Shell,28
+101296881,mtdvio/every-programmer-should-know,,349
+63539055,jaywcjlove/awesome-mac,JavaScript,79
 5483330,soimort/you-get,Python,164
 162998479,sherlock-project/sherlock,Python,111
-79162682,laurent22/joplin,TypeScript,119
-136815833,Dreamacro/clash,Go,104
-307260205,yt-dlp/yt-dlp,Python,136
+9754983,eugenp/tutorials,Java,18
+393571599,babysor/MockingBird,Python,22
+77912349,qianguyihao/Web,,39
+160083795,SerenityOS/serenity,C++,27
 130884470,solidjs/solid,TypeScript,131
-160124067,zergtant/pytorch-handbook,Jupyter Notebook,74
-3351871,qbittorrent/qBittorrent,C++,68
-13595305,searx/searx,Python,53
-3791835,darktable-org/darktable,C,100
-148686316,gfx-rs/wgpu,Rust,70
-74891203,rebuy-de/aws-nuke,Go,159
-496680191,elebumm/RedditVideoMakerBot,Python,76
-402945349,StarRocks/starrocks,C++,44
-470962649,dair-ai/ML-Course-Notes,,150
-357241735,searxng/searxng,Python,225
-394541647,WhaleFell/SMSBoom,Python,687
+1062572,catchorg/Catch2,C++,6
+202291859,chatwoot/chatwoot,Ruby,10
+386811486,Megvii-BaseDetection/YOLOX,Python,10
+21331090,4ian/GDevelop,JavaScript,13
+394541647,WhaleFell/SMSBoom,Python,699
+495836457,t3-oss/create-t3-app,TypeScript,427
+357241735,searxng/searxng,Python,150
+507942304,LearningOS/rust-based-os-comp2022,Rust,99
 476035218,webhdx/PicoBoot,Python,80
-509143786,fiveoutofnine/cool-contracts,,79
-490256909,chvancooten/maldev-for-dummies,C#,96
+508950989,kwea123/ngp_pl,Jupyter Notebook,42
+359384070,searxng/searxng-docker,Shell,13
