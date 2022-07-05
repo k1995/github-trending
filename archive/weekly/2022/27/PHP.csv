@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,100
-3482588,danielmiessler/SecLists,PHP,147
+1863329,laravel/laravel,PHP,99
+3482588,danielmiessler/SecLists,PHP,143
 7548986,laravel/framework,PHP,61
 53783664,easychen/howto-make-more-money,PHP,54
 2884111,magento/magento2,PHP,18
 41589337,BookStackApp/BookStack,PHP,40
 14346979,snipe/snipe-it,PHP,39
-74386167,vimeo/psalm,PHP,14
-47508644,pterodactyl/panel,PHP,239
-248372441,filamentphp/filament,PHP,61
-141720301,dr5hn/countries-states-cities-database,PHP,45
-96284790,prasathmani/tinyfilemanager,PHP,25
+74386167,vimeo/psalm,PHP,15
+47508644,pterodactyl/panel,PHP,237
+248372441,filamentphp/filament,PHP,62
+141720301,dr5hn/countries-states-cities-database,PHP,46
+96284790,prasathmani/tinyfilemanager,PHP,26
 73220421,aonez/Keka,PHP,22
 129852395,assimon/dujiaoka,PHP,30
 39182755,glpi-project/glpi,PHP,14
@@ -19,7 +19,7 @@ id,name,lang,new stars
 131995661,shopware/platform,PHP,11
 311448648,laravel/breeze,PHP,12
 27249479,EC-CUBE/ec-cube,PHP,4
-433383766,nextcloud/all-in-one,PHP,19
-504284316,spatie/laravel-onboard,PHP,101
-462253415,jyxjjj/Telegram-Bot,PHP,95
-423320216,tinyphporg/tinyphp,PHP,46
+433383766,nextcloud/all-in-one,PHP,20
+504284316,spatie/laravel-onboard,PHP,100
+462253415,jyxjjj/Telegram-Bot,PHP,91
+423320216,tinyphporg/tinyphp,PHP,45
