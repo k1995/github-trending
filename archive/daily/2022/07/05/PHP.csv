@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,14
-3482588,danielmiessler/SecLists,PHP,22
-7548986,laravel/framework,PHP,8
-1420053,guzzle/guzzle,PHP,5
+1863329,laravel/laravel,PHP,17
+3482588,danielmiessler/SecLists,PHP,21
+7548986,laravel/framework,PHP,10
+1420053,guzzle/guzzle,PHP,6
 82238168,monicahq/monica,PHP,3
 1548202,matomo-org/matomo,PHP,6
-12615154,barryvdh/laravel-debugbar,PHP,5
+12615154,barryvdh/laravel-debugbar,PHP,6
 28628034,flarum/flarum,PHP,5
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,3
 2699935,squizlabs/PHP_CodeSniffer,PHP,4
-9791525,digininja/DVWA,PHP,3
+9791525,digininja/DVWA,PHP,4
 95011974,akaunting/akaunting,PHP,3
 11935508,RSS-Bridge/rss-bridge,PHP,1
 60010673,elementor/elementor,PHP,4
@@ -19,8 +19,8 @@ id,name,lang,new stars
 93982796,Tuhinshubhra/RED_HAWK,PHP,1
 57463067,AzuraCast/AzuraCast,PHP,1
 143975804,LycheeOrg/Lychee,PHP,3
-174021137,inertiajs/pingcrm,PHP,1
+174021137,inertiajs/pingcrm,PHP,2
 36888692,spatie/package-skeleton-laravel,PHP,1
-27249479,EC-CUBE/ec-cube,PHP,0
-423320216,tinyphporg/tinyphp,PHP,8
-509192298,spatie/laravel-sql-commenter,PHP,24
+27249479,EC-CUBE/ec-cube,PHP,1
+423320216,tinyphporg/tinyphp,PHP,6
+509192298,spatie/laravel-sql-commenter,PHP,25
