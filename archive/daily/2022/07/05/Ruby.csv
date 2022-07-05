@@ -1,17 +1,17 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,5
-8681349,huginn/huginn,Ruby,11
-52281283,mastodon/mastodon,Ruby,5
+65252,jekyll/jekyll,Ruby,4
+8681349,huginn/huginn,Ruby,10
+52281283,mastodon/mastodon,Ruby,6
 2293158,rapid7/metasploit-framework,Ruby,6
 308770,heartcombo/devise,Ruby,2
-73648678,forem/forem,Ruby,3
-3623050,Homebrew/homebrew-cask,Ruby,2
+73648678,forem/forem,Ruby,4
+3623050,Homebrew/homebrew-cask,Ruby,3
 911765,diaspora/diaspora,Ruby,2
 3314,spree/spree,Ruby,1
 88740103,postalserver/postal,Ruby,1
 52855516,Homebrew/homebrew-core,Ruby,2
 1725199,github/linguist,Ruby,1
-4994614,wpscanteam/wpscan,Ruby,1
+4994614,wpscanteam/wpscan,Ruby,2
 39706711,hartator/wayback-machine-downloader,Ruby,3
 103766152,github/explore,Ruby,2
 614070,rubygems/rubygems,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 10088951,TheOdinProject/theodinproject,Ruby,4
 6673802,24pullrequests/24pullrequests,Ruby,0
 8154497,rubysec/ruby-advisory-db,Ruby,0
-467296689,bullet-train-co/bullet_train,Ruby,1
+467296689,bullet-train-co/bullet_train,Ruby,2
 616448,mustache/spec,Ruby,0
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
