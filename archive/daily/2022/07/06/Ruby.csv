@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,11
+8514,rails/rails,Ruby,10
 65252,jekyll/jekyll,Ruby,6
 7569578,discourse/discourse,Ruby,11
-27442967,fastlane/fastlane,Ruby,9
+27442967,fastlane/fastlane,Ruby,8
 52281283,mastodon/mastodon,Ruby,8
 481872,hashicorp/vagrant,Ruby,5
-2500088,gitlabhq/gitlabhq,Ruby,1
+2500088,gitlabhq/gitlabhq,Ruby,2
 308770,heartcombo/devise,Ruby,3
 538746,ruby/ruby,Ruby,7
 2203645,CocoaPods/CocoaPods,Ruby,2
@@ -17,8 +17,8 @@ id,name,lang,new stars
 6529205,varvet/pundit,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,1
 30985840,solidusio/solidus,Ruby,4
-52316423,luggit/react-native-config,Ruby,1
-79352,mikel/mail,Ruby,0
+52316423,luggit/react-native-config,Ruby,2
+79352,mikel/mail,Ruby,1
 5144181,jnunemaker/flipper,Ruby,1
 7362671,rails/spring,Ruby,0
 200302808,github/view_component,Ruby,2
