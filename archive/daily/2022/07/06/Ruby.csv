@@ -1,20 +1,20 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,15
-7569578,discourse/discourse,Ruby,10
-27442967,fastlane/fastlane,Ruby,11
+8514,rails/rails,Ruby,14
+7569578,discourse/discourse,Ruby,11
+27442967,fastlane/fastlane,Ruby,9
 481872,hashicorp/vagrant,Ruby,2
-21696302,matteocrippa/awesome-swift,Ruby,11
+21696302,matteocrippa/awesome-swift,Ruby,10
 18486300,lewagon/setup,Ruby,2
 202291859,chatwoot/chatwoot,Ruby,104
-3195124,mperham/sidekiq,Ruby,0
+3195124,mperham/sidekiq,Ruby,1
 52855516,Homebrew/homebrew-core,Ruby,5
 611921,activeadmin/activeadmin,Ruby,0
-1333863,kaminari/kaminari,Ruby,2
+1333863,kaminari/kaminari,Ruby,1
 810796,railsadminteam/rails_admin,Ruby,1
 1548802,activerecord-hackery/ransack,Ruby,0
 6768710,redmine/redmine,Ruby,1
 96071,rack/rack,Ruby,0
-30985840,solidusio/solidus,Ruby,5
+30985840,solidusio/solidus,Ruby,6
 52316423,luggit/react-native-config,Ruby,3
 15171934,Homebrew/homebrew-cask-fonts,Ruby,1
 9500075,ytti/oxidized,Ruby,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 12357002,ondrejbartas/sidekiq-cron,Ruby,0
 34840276,elastic/ansible-elasticsearch,Ruby,0
 212813096,lewagon/data-setup,Ruby,2
-225463,Shopify/shopify-api-ruby,Ruby,1
+225463,Shopify/shopify-api-ruby,Ruby,0
 279271772,DataDog/datadog-api-client-ruby,Ruby,0
