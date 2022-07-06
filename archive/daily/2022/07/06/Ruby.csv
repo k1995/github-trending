@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,15
+8514,rails/rails,Ruby,16
 7569578,discourse/discourse,Ruby,9
-27442967,fastlane/fastlane,Ruby,11
-481872,hashicorp/vagrant,Ruby,3
+27442967,fastlane/fastlane,Ruby,12
+481872,hashicorp/vagrant,Ruby,2
 21696302,matteocrippa/awesome-swift,Ruby,9
 18486300,lewagon/setup,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,10
+202291859,chatwoot/chatwoot,Ruby,103
 3195124,mperham/sidekiq,Ruby,0
 52855516,Homebrew/homebrew-core,Ruby,4
 611921,activeadmin/activeadmin,Ruby,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1953385,stripe/stripe-ruby,Ruby,0
 12357002,ondrejbartas/sidekiq-cron,Ruby,0
 34840276,elastic/ansible-elasticsearch,Ruby,0
-212813096,lewagon/data-setup,Ruby,3
+212813096,lewagon/data-setup,Ruby,2
 225463,Shopify/shopify-api-ruby,Ruby,1
 279271772,DataDog/datadog-api-client-ruby,Ruby,0

@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,20
+3482588,danielmiessler/SecLists,PHP,21
 1864363,composer/composer,PHP,3
 1420053,guzzle/guzzle,PHP,5
 448045,sebastianbergmann/phpunit,PHP,3
@@ -15,7 +15,7 @@ id,name,lang,new stars
 60010673,elementor/elementor,PHP,1
 4013840,PHP-FFMpeg/PHP-FFMpeg,PHP,4
 139191005,nunomaduro/larastan,PHP,5
-141720301,dr5hn/countries-states-cities-database,PHP,10
+141720301,dr5hn/countries-states-cities-database,PHP,9
 139179084,area17/twill,PHP,3
 2686502,pimcore/pimcore,PHP,5
 17253775,zabbix/zabbix,PHP,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 189104054,laravel/ui,PHP,2
 34407154,cweagans/composer-patches,PHP,2
 258453091,sh377c0d3/Payloads,PHP,12
-508483613,ssddanbrown/rss,PHP,22
+508483613,ssddanbrown/rss,PHP,21

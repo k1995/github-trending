@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,74
+2325298,torvalds/linux,C,95
 1903522,php/php-src,C,4
 1357796,emscripten-core/emscripten,C,4
 196353673,taosdata/TDengine,C,11
@@ -7,20 +7,20 @@ id,name,lang,new stars
 3199002,raspberrypi/linux,C,0
 35930805,EZLippi/Tinyhttpd,C,4
 5414488,cesanta/mongoose,C,6
-3791835,darktable-org/darktable,C,65
+3791835,darktable-org/darktable,C,62
 91493088,ValdikSS/GoodbyeDPI,C,9
 53614190,eclipse/mosquitto,C,6
-47057247,Wind4/vlmcsd,C,4
-5805256,lua/lua,C,5
+47057247,Wind4/vlmcsd,C,3
+5805256,lua/lua,C,4
 40504480,mit-pdos/xv6-public,C,1
-400501136,deepmind/mujoco,C,8
+400501136,deepmind/mujoco,C,9
 469303019,ehids/ecapture,C,14
 4434428,kokke/tiny-AES-c,C,5
 34807561,nanopb/nanopb,C,1
 98257850,intel/haxm,C,1
 452081015,berdav/CVE-2021-4034,C,5
-331380723,raspberrypi/pico-sdk,C,6
+331380723,raspberrypi/pico-sdk,C,5
 207354223,FreeRTOS/FreeRTOS-Kernel,C,1
 442041737,jimgraygit/Onion,C,3
-509239164,triforce-percent/triforce-percent,C,19
+509239164,triforce-percent/triforce-percent,C,21
 497288167,singul4ri7y/promit,C,2
