@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,1371
-85077558,kamranahmedse/developer-roadmap,TypeScript,1336
-126577260,trekhleb/javascript-algorithms,JavaScript,906
-16408992,neovim/neovim,Vim script,327
-169677297,vlang/v,V,404
-40997482,vim/vim,Vim script,339
-212639071,bregman-arie/devops-exercises,Python,933
-254832799,Z4nzu/hackingtool,Python,431
-71487058,TanStack/table,TypeScript,280
-117965972,alibaba/DataX,Java,92
-14508450,gophish/gophish,Go,138
-365263843,denoland/fresh,TypeScript,3750
+85077558,kamranahmedse/developer-roadmap,TypeScript,1346
+74293321,sveltejs/svelte,TypeScript,532
+596892,pallets/flask,Python,389
+101296881,mtdvio/every-programmer-should-know,,2250
+246335987,ventoy/Ventoy,C,268
+169677297,vlang/v,V,407
+264818686,ultralytics/yolov5,Python,310
+40997482,vim/vim,Vim script,336
+180190854,appwrite/appwrite,JavaScript,374
+441903012,MichaelCade/90DaysOfDevOps,Shell,355
+365263843,denoland/fresh,TypeScript,3707
+305144746,geohot/tinygrad,Python,83
 144140342,paritytech/polkadot,Rust,65
-41331761,autowarefoundation/autoware,Shell,68
-182849188,delta-io/delta,Scala,365
-47508644,pterodactyl/panel,PHP,236
-501076075,meituan/YOLOv6,Python,812
-394541647,WhaleFell/SMSBoom,Python,2122
+41331761,autowarefoundation/autoware,Shell,69
+182849188,delta-io/delta,Scala,362
+375345894,pystardust/ani-cli,Shell,234
+47508644,pterodactyl/panel,PHP,232
+501076075,meituan/YOLOv6,Python,763
+394541647,WhaleFell/SMSBoom,Python,2220
+402945349,StarRocks/starrocks,C++,190
+505385703,edoardottt/awesome-hacker-search-engines,,1198
 446669267,tuyoogame/huatuo,C++,202
-429104828,opensumi/core,TypeScript,181
-480592980,insidegui/VirtualBuddy,Swift,389
-94652781,still-scene/t3,C#,212
-467151498,datafold/data-diff,Python,335
-506449138,CatVodTVOfficial/TVBoxOSC,Java,210
-289334021,Azure/azureml-examples,Jupyter Notebook,190
+357241735,searxng/searxng,Python,896
+429104828,opensumi/core,TypeScript,162
+289334021,Azure/azureml-examples,Jupyter Notebook,178
