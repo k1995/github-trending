@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,69
-7569578,discourse/discourse,Ruby,62
+8514,rails/rails,Ruby,68
+7569578,discourse/discourse,Ruby,64
 8681349,huginn/huginn,Ruby,79
-27442967,fastlane/fastlane,Ruby,45
-53238813,Homebrew/brew,Ruby,76
+27442967,fastlane/fastlane,Ruby,46
+53238813,Homebrew/brew,Ruby,77
 308770,heartcombo/devise,Ruby,18
-538746,ruby/ruby,Ruby,25
-202291859,chatwoot/chatwoot,Ruby,340
+538746,ruby/ruby,Ruby,23
+202291859,chatwoot/chatwoot,Ruby,347
 18486300,lewagon/setup,Ruby,47
 52855516,Homebrew/homebrew-core,Ruby,27
-1918677,fluent/fluentd,Ruby,21
+1918677,fluent/fluentd,Ruby,22
 96395,faker-ruby/faker,Ruby,23
-1725199,github/linguist,Ruby,30
+1725199,github/linguist,Ruby,28
 15435,Shopify/liquid,Ruby,16
 1548802,activerecord-hackery/ransack,Ruby,11
 96071,rack/rack,Ruby,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1953385,stripe/stripe-ruby,Ruby,2
 12357002,ondrejbartas/sidekiq-cron,Ruby,1
 61203,Shopify/shopify_app,Ruby,5
-225463,Shopify/shopify-api-ruby,Ruby,2
+225463,Shopify/shopify-api-ruby,Ruby,1
 212272090,CMSgov/price-transparency-guide,Ruby,8
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
 374113809,learn-co-curriculum/phase-4-mock-challenge-camping-fun,Ruby,0
