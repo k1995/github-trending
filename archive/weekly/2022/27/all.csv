@@ -1,26 +1,26 @@
 id,name,lang,new stars
-85077558,kamranahmedse/developer-roadmap,TypeScript,1403
+21737465,sindresorhus/awesome,,1215
+85077558,kamranahmedse/developer-roadmap,TypeScript,1413
+133442384,denoland/deno,Rust,403
 74293321,sveltejs/svelte,TypeScript,549
-596892,pallets/flask,Python,401
-101296881,mtdvio/every-programmer-should-know,,3066
-246335987,ventoy/Ventoy,C,264
-169677297,vlang/v,V,417
-264818686,ultralytics/yolov5,Python,325
-40997482,vim/vim,Vim script,246
-180190854,appwrite/appwrite,JavaScript,374
-441903012,MichaelCade/90DaysOfDevOps,Shell,404
-365263843,denoland/fresh,TypeScript,2893
-305144746,geohot/tinygrad,Python,137
-144140342,paritytech/polkadot,Rust,64
-41331761,autowarefoundation/autoware,Shell,79
-182849188,delta-io/delta,Scala,371
-375345894,pystardust/ani-cli,Shell,236
-47508644,pterodactyl/panel,PHP,117
-394541647,OpenEthan/SMSBoom,Python,2615
-501076075,meituan/YOLOv6,Python,609
-402945349,StarRocks/starrocks,C++,193
-505385703,edoardottt/awesome-hacker-search-engines,,784
-446669267,tuyoogame/huatuo,C++,192
-357241735,searxng/searxng,Python,930
-429104828,opensumi/core,TypeScript,142
-289334021,Azure/azureml-examples,Jupyter Notebook,107
+101296881,mtdvio/every-programmer-should-know,,3151
+67186968,chinese-poetry/chinese-poetry,JavaScript,171
+162998479,sherlock-project/sherlock,Python,665
+169677297,vlang/v,V,405
+264818686,ultralytics/yolov5,Python,328
+40997482,vim/vim,Vim script,239
+180190854,appwrite/appwrite,JavaScript,370
+393571599,babysor/MockingBird,Python,399
+122734569,iawia002/lux,Go,151
+365263843,denoland/fresh,TypeScript,2806
+305144746,geohot/tinygrad,Python,141
+144140342,paritytech/polkadot,Rust,65
+41331761,autowarefoundation/autoware,Shell,81
+375345894,pystardust/ani-cli,Shell,237
+47508644,pterodactyl/panel,PHP,107
+470962649,dair-ai/ML-Course-Notes,,733
+394541647,OpenEthan/SMSBoom,Python,2693
+501076075,meituan/YOLOv6,Python,593
+446669267,tuyoogame/huatuo,C++,189
+357241735,searxng/searxng,Python,934
+336566063,qq8e/qq,CSS,513
