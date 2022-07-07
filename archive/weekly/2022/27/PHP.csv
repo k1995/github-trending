@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,93
-3482588,danielmiessler/SecLists,PHP,144
-7548986,laravel/framework,PHP,61
+1863329,laravel/laravel,PHP,91
+3482588,danielmiessler/SecLists,PHP,142
+7548986,laravel/framework,PHP,60
 1864363,composer/composer,PHP,22
-1420053,guzzle/guzzle,PHP,23
+1420053,guzzle/guzzle,PHP,25
 448045,sebastianbergmann/phpunit,PHP,14
-2889328,WordPress/WordPress,PHP,27
+2889328,WordPress/WordPress,PHP,28
 13899674,thephpleague/flysystem,PHP,5
 2884111,magento/magento2,PHP,17
-2717549,Sylius/Sylius,PHP,16
-14346979,snipe/snipe-it,PHP,44
+2717549,Sylius/Sylius,PHP,17
+14346979,snipe/snipe-it,PHP,45
 33916850,spatie/laravel-medialibrary,PHP,10
-47508644,pterodactyl/panel,PHP,159
+47508644,pterodactyl/panel,PHP,139
 291805291,laravel/jetstream,PHP,12
 96284790,prasathmani/tinyfilemanager,PHP,25
 2686502,pimcore/pimcore,PHP,12
@@ -19,7 +19,8 @@ id,name,lang,new stars
 111562942,statamic/cms,PHP,10
 131995661,shopware/platform,PHP,12
 311448648,laravel/breeze,PHP,10
+27249479,EC-CUBE/ec-cube,PHP,3
 337565235,innocenzi/laravel-vite,PHP,15
 504284316,spatie/laravel-onboard,PHP,93
-462253415,jyxjjj/Telegram-Bot,PHP,66
-423320216,tinyphporg/tinyphp,PHP,47
+462253415,jyxjjj/Telegram-Bot,PHP,65
+423320216,tinyphporg/tinyphp,PHP,48
