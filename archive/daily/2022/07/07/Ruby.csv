@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,9
-65252,jekyll/jekyll,Ruby,10
-7569578,discourse/discourse,Ruby,12
-27442967,fastlane/fastlane,Ruby,9
-52281283,mastodon/mastodon,Ruby,4
-481872,hashicorp/vagrant,Ruby,9
+8514,rails/rails,Ruby,10
+65252,jekyll/jekyll,Ruby,9
+7569578,discourse/discourse,Ruby,10
+27442967,fastlane/fastlane,Ruby,11
+52281283,mastodon/mastodon,Ruby,2
+481872,hashicorp/vagrant,Ruby,11
 2500088,gitlabhq/gitlabhq,Ruby,3
 308770,heartcombo/devise,Ruby,4
 538746,ruby/ruby,Ruby,5
-2203645,CocoaPods/CocoaPods,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,152
+2203645,CocoaPods/CocoaPods,Ruby,3
+202291859,chatwoot/chatwoot,Ruby,155
 1090311,elastic/logstash,Ruby,0
 812393,ruby-grape/grape,Ruby,2
 611921,activeadmin/activeadmin,Ruby,0
@@ -19,7 +19,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,3
 52316423,luggit/react-native-config,Ruby,2
 79352,mikel/mail,Ruby,1
-5144181,jnunemaker/flipper,Ruby,1
+5144181,jnunemaker/flipper,Ruby,0
 7362671,rails/spring,Ruby,1
 200302808,github/view_component,Ruby,3
 225463,Shopify/shopify-api-ruby,Ruby,0
