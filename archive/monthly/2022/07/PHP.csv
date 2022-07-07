@@ -1,13 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,431
-7548986,laravel/framework,PHP,262
+1863329,laravel/laravel,PHP,430
+7548986,laravel/framework,PHP,260
+458058,symfony/symfony,PHP,129
 1420053,guzzle/guzzle,PHP,94
-2253830,PHPMailer/PHPMailer,PHP,164
+2253830,PHPMailer/PHPMailer,PHP,165
 12615154,barryvdh/laravel-debugbar,PHP,131
 28628034,flarum/flarum,PHP,297
 4702560,PHPOffice/PHPExcel,PHP,24
-14259390,SpartnerNL/Laravel-Excel,PHP,97
-79111500,jupeter/clean-code-php,PHP,243
+14259390,SpartnerNL/Laravel-Excel,PHP,96
+79111500,jupeter/clean-code-php,PHP,245
 42480275,spatie/laravel-permission,PHP,93
 2884111,magento/magento2,PHP,63
 29843361,w7corp/easywechat,PHP,48
@@ -15,10 +16,11 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,103
 2179920,woocommerce/woocommerce,PHP,197
 14716368,invoiceninja/invoiceninja,PHP,57
-14346979,snipe/snipe-it,PHP,136
+14346979,snipe/snipe-it,PHP,138
+222873550,crater-invoice/crater,PHP,184
 74386167,vimeo/psalm,PHP,52
-41463886,codeigniter4/CodeIgniter4,PHP,54
-47508644,pterodactyl/panel,PHP,370
-248372441,filamentphp/filament,PHP,290
-291805291,laravel/jetstream,PHP,35
-141720301,dr5hn/countries-states-cities-database,PHP,196
+41463886,codeigniter4/CodeIgniter4,PHP,55
+47508644,pterodactyl/panel,PHP,372
+248372441,filamentphp/filament,PHP,291
+291805291,laravel/jetstream,PHP,34
+141720301,dr5hn/countries-states-cities-database,PHP,197

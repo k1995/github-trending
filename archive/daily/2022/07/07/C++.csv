@@ -1,5 +1,5 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,21
+100060912,microsoft/terminal,C++,20
 5108051,opencv/opencv,C++,25
 23357588,protocolbuffers/protobuf,C++,19
 39840932,google/googletest,C++,5
@@ -7,7 +7,7 @@ id,name,lang,new stars
 96246170,ApolloAuto/apollo,C++,8
 160083795,SerenityOS/serenity,C++,54
 90902132,flameshot-org/flameshot,C++,17
-1062572,catchorg/Catch2,C++,13
+1062572,catchorg/Catch2,C++,14
 7056202,fmtlib/fmt,C++,15
 16331291,davisking/dlib,C++,2
 18348651,OpenRCT2/OpenRCT2,C++,6
@@ -17,10 +17,10 @@ id,name,lang,new stars
 2436255,Project-OSRM/osrm-backend,C++,2
 49986046,falcosecurity/falco,C++,2
 244694174,project-chip/connectedhomeip,C++,6
-48185587,lballabio/QuantLib,C++,3
-6148317,OSGeo/gdal,C++,3
+48185587,lballabio/QuantLib,C++,2
+6148317,OSGeo/gdal,C++,4
 402945349,StarRocks/starrocks,C++,8
 171396748,cubefs/cubefs,C++,22
 202178302,eclipse-iceoryx/iceoryx,C++,4
-510313729,focus-creative-games/hybridclr,C++,111
+510313729,focus-creative-games/hybridclr,C++,112
 510116998,awesomekling/ladybird,C++,67
