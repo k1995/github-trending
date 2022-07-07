@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,28
-21600440,bayandin/awesome-awesomeness,Ruby,8
+8681349,huginn/huginn,Ruby,22
+21600440,bayandin/awesome-awesomeness,Ruby,7
 308770,heartcombo/devise,Ruby,3
-2203645,CocoaPods/CocoaPods,Ruby,3
-202291859,chatwoot/chatwoot,Ruby,110
+2203645,CocoaPods/CocoaPods,Ruby,4
+202291859,chatwoot/chatwoot,Ruby,94
 3195124,mperham/sidekiq,Ruby,2
-4095287,rubocop/rubocop,Ruby,15
-1918677,fluent/fluentd,Ruby,4
+4095287,rubocop/rubocop,Ruby,16
+1918677,fluent/fluentd,Ruby,2
 96395,faker-ruby/faker,Ruby,1
 15435,Shopify/liquid,Ruby,0
 611921,activeadmin/activeadmin,Ruby,1
@@ -14,7 +14,7 @@ id,name,lang,new stars
 211588,paper-trail-gem/paper_trail,Ruby,0
 75785147,rails/webpacker,Ruby,1
 2889230,rails-api/active_model_serializers,Ruby,1
-447184,rspec/rspec-rails,Ruby,3
+447184,rspec/rspec-rails,Ruby,2
 7050,prawnpdf/prawn,Ruby,0
 79352,mikel/mail,Ruby,2
 1172597,thoughtbot/shoulda-matchers,Ruby,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 20343475,googleapis/google-cloud-ruby,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,0
-212272090,CMSgov/price-transparency-guide,Ruby,3
+212272090,CMSgov/price-transparency-guide,Ruby,2
 433104944,turingschool-examples/intro_to_testing,Ruby,0
