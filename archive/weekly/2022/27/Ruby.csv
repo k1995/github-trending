@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,63
+8514,rails/rails,Ruby,64
 7569578,discourse/discourse,Ruby,58
-8681349,huginn/huginn,Ruby,86
-53238813,Homebrew/brew,Ruby,76
-13840241,freeCodeCamp/devdocs,Ruby,58
-308770,heartcombo/devise,Ruby,21
+8681349,huginn/huginn,Ruby,87
+53238813,Homebrew/brew,Ruby,78
+13840241,freeCodeCamp/devdocs,Ruby,57
+308770,heartcombo/devise,Ruby,20
 3623050,Homebrew/homebrew-cask,Ruby,25
-2203645,CocoaPods/CocoaPods,Ruby,11
-202291859,chatwoot/chatwoot,Ruby,357
+2203645,CocoaPods/CocoaPods,Ruby,12
+202291859,chatwoot/chatwoot,Ruby,359
 18486300,lewagon/setup,Ruby,48
 4095287,rubocop/rubocop,Ruby,39
 52855516,Homebrew/homebrew-core,Ruby,28
 1918677,fluent/fluentd,Ruby,22
-96395,faker-ruby/faker,Ruby,21
+96395,faker-ruby/faker,Ruby,20
 1725199,github/linguist,Ruby,23
 15435,Shopify/liquid,Ruby,19
 611921,activeadmin/activeadmin,Ruby,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,19
 12357002,ondrejbartas/sidekiq-cron,Ruby,4
 225463,Shopify/shopify-api-ruby,Ruby,2
-212272090,CMSgov/price-transparency-guide,Ruby,11
+212272090,CMSgov/price-transparency-guide,Ruby,12
