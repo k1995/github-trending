@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,21
-21600440,bayandin/awesome-awesomeness,Ruby,4
+8681349,huginn/huginn,Ruby,19
+21600440,bayandin/awesome-awesomeness,Ruby,3
 308770,heartcombo/devise,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,4
-202291859,chatwoot/chatwoot,Ruby,83
+202291859,chatwoot/chatwoot,Ruby,77
 3195124,mperham/sidekiq,Ruby,2
-4095287,rubocop/rubocop,Ruby,18
+4095287,rubocop/rubocop,Ruby,19
 1918677,fluent/fluentd,Ruby,2
 96395,faker-ruby/faker,Ruby,1
 15435,Shopify/liquid,Ruby,0
@@ -18,7 +18,7 @@ id,name,lang,new stars
 7050,prawnpdf/prawn,Ruby,0
 79352,mikel/mail,Ruby,3
 1172597,thoughtbot/shoulda-matchers,Ruby,0
-200302808,github/view_component,Ruby,2
+200302808,github/view_component,Ruby,1
 20343475,googleapis/google-cloud-ruby,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,0

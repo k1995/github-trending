@@ -1,10 +1,10 @@
 id,name,lang,new stars
-65600975,pytorch/pytorch,C++,20
-23357588,protocolbuffers/protobuf,C++,20
+65600975,pytorch/pytorch,C++,19
+23357588,protocolbuffers/protobuf,C++,19
 160083795,SerenityOS/serenity,C++,14
-1062572,catchorg/Catch2,C++,5
+1062572,catchorg/Catch2,C++,4
 7056202,fmtlib/fmt,C++,15
-311683390,WerWolv/ImHex,C++,379
+311683390,WerWolv/ImHex,C++,361
 102692863,onnx/onnx,C++,6
 271714,wkhtmltopdf/wkhtmltopdf,C++,4
 51905353,apache/arrow,C++,4
@@ -19,8 +19,8 @@ id,name,lang,new stars
 456549280,ydb-platform/ydb,C++,5
 87443396,Haivision/srt,C++,2
 49978193,valhalla/valhalla,C++,6
-331360188,neetcode-gh/leetcode,C++,28
+331360188,neetcode-gh/leetcode,C++,27
 303308200,hku-mars/FAST_LIO,C++,1
 202178302,eclipse-iceoryx/iceoryx,C++,6
-510313729,focus-creative-games/hybridclr,C++,76
-510116998,awesomekling/ladybird,C++,79
+510313729,focus-creative-games/hybridclr,C++,78
+510116998,awesomekling/ladybird,C++,82
