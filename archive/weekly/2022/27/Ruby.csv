@@ -2,12 +2,12 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,63
 7569578,discourse/discourse,Ruby,58
 8681349,huginn/huginn,Ruby,86
-53238813,Homebrew/brew,Ruby,74
-13840241,freeCodeCamp/devdocs,Ruby,59
-308770,heartcombo/devise,Ruby,20
+53238813,Homebrew/brew,Ruby,76
+13840241,freeCodeCamp/devdocs,Ruby,58
+308770,heartcombo/devise,Ruby,21
 3623050,Homebrew/homebrew-cask,Ruby,25
 2203645,CocoaPods/CocoaPods,Ruby,11
-202291859,chatwoot/chatwoot,Ruby,356
+202291859,chatwoot/chatwoot,Ruby,357
 18486300,lewagon/setup,Ruby,48
 4095287,rubocop/rubocop,Ruby,39
 52855516,Homebrew/homebrew-core,Ruby,28
@@ -16,7 +16,7 @@ id,name,lang,new stars
 1725199,github/linguist,Ruby,23
 15435,Shopify/liquid,Ruby,19
 611921,activeadmin/activeadmin,Ruby,4
-1548802,activerecord-hackery/ransack,Ruby,8
+1548802,activerecord-hackery/ransack,Ruby,7
 96071,rack/rack,Ruby,5
 229006,mileszs/wicked_pdf,Ruby,1
 103766152,github/explore,Ruby,16
