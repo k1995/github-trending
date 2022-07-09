@@ -1,13 +1,13 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,22
+9384267,electron/electron,C++,21
 100060912,microsoft/terminal,C++,26
 22887094,tesseract-ocr/tesseract,C++,20
 11171548,nlohmann/json,C++,17
 96246170,ApolloAuto/apollo,C++,6
-191820100,google/mediapipe,C++,12
-81227005,facebookresearch/faiss,C++,10
+191820100,google/mediapipe,C++,13
+81227005,facebookresearch/faiss,C++,9
 26038648,gabime/spdlog,C++,5
-311683390,WerWolv/ImHex,C++,101
+311683390,WerWolv/ImHex,C++,98
 5909706,yhirose/cpp-httplib,C++,9
 156939672,microsoft/onnxruntime,C++,9
 86897963,ZLMediaKit/ZLMediaKit,C++,11
@@ -20,7 +20,7 @@ id,name,lang,new stars
 33100064,jbeder/yaml-cpp,C++,4
 384520418,MaaAssistantArknights/MaaAssistantArknights,C++,13
 313501668,wenet-e2e/wenet,C++,6
-354138793,NVIDIA/FasterTransformer,C++,12
+354138793,NVIDIA/FasterTransformer,C++,10
 356055024,tensorflow/tflite-micro,C++,2
-510313729,focus-creative-games/hybridclr,C++,90
-510116998,awesomekling/ladybird,C++,37
+510313729,focus-creative-games/hybridclr,C++,89
+510116998,awesomekling/ladybird,C++,33

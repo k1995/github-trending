@@ -1,10 +1,10 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,5
 8681349,huginn/huginn,Ruby,11
-27442967,fastlane/fastlane,Ruby,4
+27442967,fastlane/fastlane,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,3
 202291859,chatwoot/chatwoot,Ruby,12
-4095287,rubocop/rubocop,Ruby,12
+4095287,rubocop/rubocop,Ruby,11
 611921,activeadmin/activeadmin,Ruby,0
 1333863,kaminari/kaminari,Ruby,1
 810796,railsadminteam/rails_admin,Ruby,0
@@ -12,8 +12,8 @@ id,name,lang,new stars
 2889230,rails-api/active_model_serializers,Ruby,0
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
 30985840,solidusio/solidus,Ruby,2
-115859973,ddnexus/pagy,Ruby,9
-93163073,dependabot/dependabot-core,Ruby,3
+115859973,ddnexus/pagy,Ruby,8
+93163073,dependabot/dependabot-core,Ruby,4
 9500075,ytti/oxidized,Ruby,0
 136781582,rubocop/rubocop-rails,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,2

@@ -1,6 +1,6 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,8
-1420053,guzzle/guzzle,PHP,4
+1420053,guzzle/guzzle,PHP,3
 60243197,nextcloud/server,PHP,6
 2253830,PHPMailer/PHPMailer,PHP,2
 72069409,the-control-group/voyager,PHP,0
@@ -10,17 +10,17 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,2
 10883164,barryvdh/laravel-dompdf,PHP,3
 12204147,mautic/mautic,PHP,1
-9826184,elastic/elasticsearch-php,PHP,2
+9826184,elastic/elasticsearch-php,PHP,1
 74386167,vimeo/psalm,PHP,2
 265782973,hlmd/Postman-cn,PHP,8
 248372441,filamentphp/filament,PHP,18
 291805291,laravel/jetstream,PHP,1
 7895524,thephpleague/oauth2-client,PHP,1
-39182755,glpi-project/glpi,PHP,3
+39182755,glpi-project/glpi,PHP,2
 12063996,osTicket/osTicket,PHP,2
 29501260,api-platform/core,PHP,0
 111562942,statamic/cms,PHP,3
 247825643,imanghafoori1/laravel-microscope,PHP,1
 119990860,DataDog/dd-trace-php,PHP,0
 506690782,dcblogdev/laravel-db-sync,PHP,9
-508226844,spatie/laravel-ciphersweet,PHP,17
+508226844,spatie/laravel-ciphersweet,PHP,18
