@@ -1,6 +1,6 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,231
-29261473,minio/minio,Go,130
+29261473,minio/minio,Go,127
 41986369,pingcap/tidb,Go,80
 72495579,go-gitea/gitea,Go,161
 97533102,halfrost/LeetCode-Go,Go,118
@@ -15,7 +15,7 @@ id,name,lang,new stars
 62921553,rook/rook,Go,39
 297165998,muesli/duf,Go,169
 274625369,infracost/infracost,Go,217
-273871859,juanfont/headscale,Go,294
+273871859,juanfont/headscale,Go,292
 32351944,google/gopacket,Go,30
 312629343,shadow1ng/fscan,Go,77
 74891203,rebuy-de/aws-nuke,Go,502
