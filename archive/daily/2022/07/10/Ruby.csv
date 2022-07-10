@@ -1,12 +1,12 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,3
-27442967,fastlane/fastlane,Ruby,4
+27442967,fastlane/fastlane,Ruby,5
 52281283,mastodon/mastodon,Ruby,5
-481872,hashicorp/vagrant,Ruby,7
+481872,hashicorp/vagrant,Ruby,8
 2203645,CocoaPods/CocoaPods,Ruby,0
 3195124,mperham/sidekiq,Ruby,1
 4095287,rubocop/rubocop,Ruby,0
-88740103,postalserver/postal,Ruby,6
+88740103,postalserver/postal,Ruby,5
 47087,carrierwaveuploader/carrierwave,Ruby,1
 1333863,kaminari/kaminari,Ruby,0
 810796,railsadminteam/rails_admin,Ruby,1
@@ -16,7 +16,7 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,1
 1175581,citation-style-language/styles,Ruby,0
 622911,oauth-xx/oauth2,Ruby,0
-556060,ice-cube-ruby/ice_cube,Ruby,2
+556060,ice-cube-ruby/ice_cube,Ruby,1
 9831101,elastic/elasticsearch-ruby,Ruby,1
 66497320,DataDog/dd-trace-rb,Ruby,1
 506824096,payalgulati909/appium-ruby-cucumber-multipleapps,Ruby,0
