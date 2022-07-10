@@ -7,10 +7,10 @@ id,name,lang,new stars
 613829,openresty/lua-nginx-module,C,0
 65899476,espressif/esp-idf,C,2
 59771425,zephyrproject-rtos/zephyr,C,2
-41107037,unicorn-engine/unicorn,C,5
+41107037,unicorn-engine/unicorn,C,4
 31791482,microsoft/Windows-driver-samples,C,4
-469303019,ehids/ecapture,C,5
-27275442,telekom-security/tpotce,C,2
+469303019,ehids/ecapture,C,6
+27275442,telekom-security/tpotce,C,1
 29933948,fluent/fluent-bit,C,1
 330980599,yanfeizhang/coder-kung-fu,C,8
 83160811,littlefs-project/littlefs,C,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 152338895,libbpf/libbpf,C,3
 53432472,Azure/sonic-buildimage,C,0
 499088609,cocos/cocomat,C,5
-509773800,wagiminator/ATtiny412-PocketRadio,C,8
+509773800,wagiminator/ATtiny412-PocketRadio,C,6

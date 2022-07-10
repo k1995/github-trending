@@ -1,21 +1,21 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,491
+2325298,torvalds/linux,C,494
 246335987,ventoy/Ventoy,C,224
 18666758,pjreddie/darknet,C,47
-2810292,pbatard/rufus,C,142
+2810292,pbatard/rufus,C,143
 196353673,taosdata/TDengine,C,46
-15337142,micropython/micropython,C,87
-45363955,lionsoul2014/ip2region,C,136
-192805335,microsoft/mimalloc,C,55
-3791835,darktable-org/darktable,C,246
+15337142,micropython/micropython,C,83
+45363955,lionsoul2014/ip2region,C,137
+192805335,microsoft/mimalloc,C,53
+3791835,darktable-org/darktable,C,236
 394318710,valinet/ExplorerPatcher,C,145
-59771425,zephyrproject-rtos/zephyr,C,37
+59771425,zephyrproject-rtos/zephyr,C,38
 7037996,VirusTotal/yara,C,29
 673267,redis/hiredis,C,11
-59676171,Klipper3d/klipper,C,29
+59676171,Klipper3d/klipper,C,27
 400501136,deepmind/mujoco,C,54
 83160811,littlefs-project/littlefs,C,15
-32148604,iNavFlight/inav,C,11
+32148604,iNavFlight/inav,C,12
 284134871,flipperdevices/flipperzero-firmware,C,41
 151064439,ExpressLRS/ExpressLRS,C,17
 452081015,berdav/CVE-2021-4034,C,15
@@ -23,4 +23,4 @@ id,name,lang,new stars
 331381105,raspberrypi/pico-examples,C,22
 152338895,libbpf/libbpf,C,17
 53432472,Azure/sonic-buildimage,C,2
-509470139,tihmstar/jbinit,C,59
+509470139,tihmstar/jbinit,C,58

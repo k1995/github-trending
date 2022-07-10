@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,258
-65252,jekyll/jekyll,Ruby,219
-7569578,discourse/discourse,Ruby,231
+8514,rails/rails,Ruby,261
+65252,jekyll/jekyll,Ruby,220
+7569578,discourse/discourse,Ruby,229
 8681349,huginn/huginn,Ruby,266
 27442967,fastlane/fastlane,Ruby,520
-53238813,Homebrew/brew,Ruby,370
+53238813,Homebrew/brew,Ruby,369
 481872,hashicorp/vagrant,Ruby,175
 308770,heartcombo/devise,Ruby,81
 2203645,CocoaPods/CocoaPods,Ruby,56
 202291859,chatwoot/chatwoot,Ruby,478
-1090311,elastic/logstash,Ruby,79
+1090311,elastic/logstash,Ruby,78
 4095287,rubocop/rubocop,Ruby,67
 52855516,Homebrew/homebrew-core,Ruby,104
 1918677,fluent/fluentd,Ruby,79
@@ -19,8 +19,8 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,22
 103766152,github/explore,Ruby,66
 200302808,github/view_component,Ruby,65
-10088951,TheOdinProject/theodinproject,Ruby,70
+10088951,TheOdinProject/theodinproject,Ruby,69
 9831101,elastic/elasticsearch-ruby,Ruby,10
 212813096,lewagon/data-setup,Ruby,55
 66497320,DataDog/dd-trace-rb,Ruby,9
-212272090,CMSgov/price-transparency-guide,Ruby,18
+212272090,CMSgov/price-transparency-guide,Ruby,19
