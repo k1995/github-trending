@@ -1,26 +1,26 @@
 id,name,lang,new stars
-19415064,ossu/computer-science,,4737
-112507086,30-seconds/30-seconds-of-code,JavaScript,2592
-16408992,neovim/neovim,Vim script,1374
-196701619,tauri-apps/tauri,Rust,4317
-162998479,sherlock-project/sherlock,Python,1609
+112507086,30-seconds/30-seconds-of-code,JavaScript,2601
+16408992,neovim/neovim,Vim script,1371
+196701619,tauri-apps/tauri,Rust,4321
+162998479,sherlock-project/sherlock,Python,1611
 364474335,google/zx,JavaScript,1482
-237791077,mingrammer/diagrams,Python,5789
+40997482,vim/vim,Vim script,703
+237791077,mingrammer/diagrams,Python,5793
 4524181,facebook/folly,C++,589
-116392709,digitalocean/nginxconfig.io,JavaScript,3083
-154739597,google/jax,Python,1657
-101782647,facebookresearch/fairseq,Python,1057
-144590939,VSCodium/vscodium,Shell,895
-352933140,ToolJet/ToolJet,JavaScript,1979
-372240402,alan2207/bulletproof-react,TypeScript,1526
-382680786,borisdayma/dalle-mini,Python,6825
+154739597,google/jax,Python,1660
+101782647,facebookresearch/fairseq,Python,1069
+144590939,VSCodium/vscodium,Shell,893
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,1041
+352933140,ToolJet/ToolJet,JavaScript,1981
+372240402,alan2207/bulletproof-react,TypeScript,1528
+382680786,borisdayma/dalle-mini,Python,6747
 161951219,wailsapp/wails,Go,1781
-280557054,trpc/trpc,TypeScript,1864
-341714203,openai/DALL-E,Python,1494
-291438522,siyuan-note/siyuan,TypeScript,1995
-107422373,elastic/eui,TypeScript,1584
-182849188,delta-io/delta,Scala,489
-368917877,BuilderIO/qwik,TypeScript,1064
-496680191,elebumm/RedditVideoMakerBot,Python,1333
-405929837,saharmor/dalle-playground,JavaScript,1497
-470730648,hyprwm/Hyprland,C++,841
+280557054,trpc/trpc,TypeScript,1871
+291438522,siyuan-note/siyuan,TypeScript,1994
+107422373,elastic/eui,TypeScript,1586
+182849188,delta-io/delta,Scala,490
+368917877,BuilderIO/qwik,TypeScript,1070
+496680191,elebumm/RedditVideoMakerBot,Python,1327
+405929837,saharmor/dalle-playground,JavaScript,1481
+470730648,hyprwm/Hyprland,C++,823
+299354666,rustdesk/rustdesk-server,Rust,458
