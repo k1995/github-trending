@@ -7,14 +7,14 @@ id,name,lang,new stars
 101296881,mtdvio/every-programmer-should-know,,3500
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,1095
 3402537,h5bp/Front-end-Developer-Interview-Questions,Nunjucks,519
-5483330,soimort/you-get,Python,525
+5483330,soimort/you-get,Python,503
 20619036,pi-hole/pi-hole,Shell,275
 162998479,sherlock-project/sherlock,Python,1006
 393571599,babysor/MockingBird,Python,833
 160083795,SerenityOS/serenity,C++,165
 3351871,qbittorrent/qBittorrent,C++,162
 40276274,ziglang/zig,Zig,901
-202291859,chatwoot/chatwoot,Ruby,363
+202291859,chatwoot/chatwoot,Ruby,365
 129283183,facebook/flipper,TypeScript,178
 373855820,TuSimple/naive-ui,TypeScript,107
 305144746,geohot/tinygrad,Python,160
@@ -22,5 +22,5 @@ id,name,lang,new stars
 394541647,OpenEthan/SMSBoom,Python,3193
 379581563,jinfagang/yolov7,Python,617
 357241735,searxng/searxng,Python,707
-440224087,Shopify/flash-list,TypeScript,397
+440224087,Shopify/flash-list,TypeScript,367
 507942304,LearningOS/rust-based-os-comp2022,Rust,312
