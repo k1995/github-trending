@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,223
 14712850,syncthing/syncthing,Go,121
-41986369,pingcap/tidb,Go,72
+41986369,pingcap/tidb,Go,71
 72495579,go-gitea/gitea,Go,175
 30215630,go-kit/kit,Go,79
 119160553,photoprism/photoprism,Go,111
@@ -12,15 +12,15 @@ id,name,lang,new stars
 153099672,inancgumus/learngo,Go,126
 65434192,tidwall/gjson,Go,60
 62921553,rook/rook,Go,36
-297165998,muesli/duf,Go,148
-274625369,infracost/infracost,Go,224
+297165998,muesli/duf,Go,131
+274625369,infracost/infracost,Go,227
 120650407,operator-framework/operator-sdk,Go,83
-273871859,juanfont/headscale,Go,186
-32351944,google/gopacket,Go,33
+273871859,juanfont/headscale,Go,166
+32351944,google/gopacket,Go,35
 51193526,cosmos/cosmos-sdk,Go,52
 312629343,shadow1ng/fscan,Go,80
 166304026,BishopFox/sliver,Go,78
 192178626,marcel-dempers/docker-development-youtube-series,Go,46
-235431922,go-rod/rod,Go,48
+235431922,go-rod/rod,Go,45
 463027648,zan8in/afrog,Go,91
-491440930,aquasecurity/chain-bench,Go,196
+491440930,aquasecurity/chain-bench,Go,199

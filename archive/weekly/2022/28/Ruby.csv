@@ -1,10 +1,10 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,71
 65252,jekyll/jekyll,Ruby,40
-7569578,discourse/discourse,Ruby,57
-8681349,huginn/huginn,Ruby,82
-27442967,fastlane/fastlane,Ruby,47
-2293158,rapid7/metasploit-framework,Ruby,51
+7569578,discourse/discourse,Ruby,59
+8681349,huginn/huginn,Ruby,85
+27442967,fastlane/fastlane,Ruby,49
+2293158,rapid7/metasploit-framework,Ruby,52
 481872,hashicorp/vagrant,Ruby,53
 308770,heartcombo/devise,Ruby,22
 2203645,CocoaPods/CocoaPods,Ruby,10
@@ -23,4 +23,4 @@ id,name,lang,new stars
 12357002,ondrejbartas/sidekiq-cron,Ruby,5
 225463,Shopify/shopify-api-ruby,Ruby,2
 212272090,CMSgov/price-transparency-guide,Ruby,14
-506466358,husky-misc/husky-academy,Ruby,12
+506466358,husky-misc/husky-academy,Ruby,11
