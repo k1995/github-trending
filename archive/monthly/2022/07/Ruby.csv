@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,266
+8514,rails/rails,Ruby,267
 65252,jekyll/jekyll,Ruby,215
-7569578,discourse/discourse,Ruby,230
-8681349,huginn/huginn,Ruby,280
+7569578,discourse/discourse,Ruby,228
+8681349,huginn/huginn,Ruby,279
 27442967,fastlane/fastlane,Ruby,518
 481872,hashicorp/vagrant,Ruby,180
 308770,heartcombo/devise,Ruby,88
-37382858,kilimchoi/engineering-blogs,Ruby,187
-2203645,CocoaPods/CocoaPods,Ruby,54
+37382858,kilimchoi/engineering-blogs,Ruby,186
+2203645,CocoaPods/CocoaPods,Ruby,55
 202291859,chatwoot/chatwoot,Ruby,479
 1090311,elastic/logstash,Ruby,76
 4095287,rubocop/rubocop,Ruby,69
@@ -19,7 +19,7 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,65
 10088951,TheOdinProject/theodinproject,Ruby,70
 9831101,elastic/elasticsearch-ruby,Ruby,10
-212813096,lewagon/data-setup,Ruby,55
+212813096,lewagon/data-setup,Ruby,52
 66497320,DataDog/dd-trace-rb,Ruby,9
 212272090,CMSgov/price-transparency-guide,Ruby,20
 279271772,DataDog/datadog-api-client-ruby,Ruby,0
