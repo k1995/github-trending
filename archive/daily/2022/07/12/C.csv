@@ -1,19 +1,19 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,47
-246335987,ventoy/Ventoy,C,35
+111583593,Genymobile/scrcpy,C,46
+246335987,ventoy/Ventoy,C,32
 102578345,coolsnowwolf/lede,C,22
-6201092,mpv-player/mpv,C,8
+6201092,mpv-player/mpv,C,7
 80286288,arendst/Tasmota,C,4
-66150122,jarun/nnn,C,13
+66150122,jarun/nnn,C,12
 27737393,qmk/qmk_firmware,C,10
-488002779,NVIDIA/open-gpu-kernel-modules,C,11
+488002779,NVIDIA/open-gpu-kernel-modules,C,13
 179354282,acidanthera/OpenCorePkg,C,5
-9524997,glfw/glfw,C,10
+9524997,glfw/glfw,C,9
 70127218,espressif/arduino-esp32,C,4
 88327406,xmrig/xmrig,C,1
-37060852,betaflight/betaflight,C,6
-86245815,pygame/pygame,C,7
-7705639,merbanan/rtl_433,C,10
+37060852,betaflight/betaflight,C,7
+86245815,pygame/pygame,C,6
+7705639,merbanan/rtl_433,C,12
 97212490,floooh/sokol,C,4
 45703884,olikraus/u8g2,C,2
 124678204,aircrack-ng/aircrack-ng,C,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 74630515,TASEmulators/desmume,C,7
 331381105,raspberrypi/pico-examples,C,1
 472575717,HarbourMasters/Shipwright,C,15
-511851210,netero1010/RDPHijack-BOF,C,19
+511851210,netero1010/RDPHijack-BOF,C,18
