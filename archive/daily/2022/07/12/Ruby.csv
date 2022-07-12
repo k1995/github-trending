@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,19
-65252,jekyll/jekyll,Ruby,7
-8681349,huginn/huginn,Ruby,14
-27442967,fastlane/fastlane,Ruby,5
-52281283,mastodon/mastodon,Ruby,5
+8514,rails/rails,Ruby,16
+65252,jekyll/jekyll,Ruby,6
+8681349,huginn/huginn,Ruby,11
+27442967,fastlane/fastlane,Ruby,7
+52281283,mastodon/mastodon,Ruby,4
 2293158,rapid7/metasploit-framework,Ruby,8
-481872,hashicorp/vagrant,Ruby,8
-308770,heartcombo/devise,Ruby,3
+481872,hashicorp/vagrant,Ruby,7
+308770,heartcombo/devise,Ruby,2
 538746,ruby/ruby,Ruby,3
 1090311,elastic/logstash,Ruby,2
 11423758,mame/quine-relay,Ruby,4
@@ -14,7 +14,7 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,2
 614070,rubygems/rubygems,Ruby,3
 11426474,github/choosealicense.com,Ruby,2
-10088951,TheOdinProject/theodinproject,Ruby,3
+10088951,TheOdinProject/theodinproject,Ruby,2
 20343475,googleapis/google-cloud-ruby,Ruby,0
 1294210,QueueClassic/queue_classic,Ruby,0
 8154497,rubysec/ruby-advisory-db,Ruby,0
