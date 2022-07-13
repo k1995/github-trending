@@ -1,26 +1,26 @@
 id,name,lang,new stars
-112507086,30-seconds/30-seconds-of-code,JavaScript,2700
-16408992,neovim/neovim,Vim script,1403
-196701619,tauri-apps/tauri,Rust,4437
-162998479,sherlock-project/sherlock,Python,1734
-364474335,google/zx,JavaScript,1533
-40997482,vim/vim,Vim script,711
-237791077,mingrammer/diagrams,Python,5888
-154739597,google/jax,Python,1680
-101782647,facebookresearch/fairseq,Python,1210
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,1073
-40276274,ziglang/zig,Zig,1502
-352933140,ToolJet/ToolJet,JavaScript,2036
-372240402,alan2207/bulletproof-react,TypeScript,1727
-382680786,borisdayma/dalle-mini,Python,5136
+13491895,EbookFoundation/free-programming-books,,5869
+112507086,30-seconds/30-seconds-of-code,JavaScript,2710
+16408992,neovim/neovim,Vim script,1405
+196701619,tauri-apps/tauri,Rust,4442
+162998479,sherlock-project/sherlock,Python,1724
+40997482,vim/vim,Vim script,713
+237791077,mingrammer/diagrams,Python,5898
+101782647,facebookresearch/fairseq,Python,1217
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,1074
+40276274,ziglang/zig,Zig,1510
+323048702,OpenBB-finance/OpenBBTerminal,Python,568
+352933140,ToolJet/ToolJet,JavaScript,2037
+372240402,alan2207/bulletproof-react,TypeScript,1746
+300592907,mxrch/GHunt,Python,343
+382680786,borisdayma/dalle-mini,Python,5073
 161951219,wailsapp/wails,Go,1849
-280557054,trpc/trpc,TypeScript,2029
-291438522,siyuan-note/siyuan,TypeScript,1613
+280557054,trpc/trpc,TypeScript,2033
 107422373,elastic/eui,TypeScript,1611
-182849188,delta-io/delta,Scala,500
-368917877,BuilderIO/qwik,TypeScript,1073
-496680191,elebumm/RedditVideoMakerBot,Python,1214
-274782881,acantril/learn-cantrill-io-labs,Python,423
-405929837,saharmor/dalle-playground,JavaScript,941
-461824274,rxyhn/dotfiles,CSS,935
+182849188,delta-io/delta,Scala,498
+368917877,BuilderIO/qwik,TypeScript,1072
+190823163,Datalux/Osintgram,Python,293
+496680191,elebumm/RedditVideoMakerBot,Python,1212
+461824274,rxyhn/dotfiles,CSS,939
 331360188,neetcode-gh/leetcode,Python,432
+426075845,MystenLabs/sui,Rust,221
