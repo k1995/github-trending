@@ -1,19 +1,19 @@
 id,name,lang,new stars
-64558143,Blankj/AndroidUtilCode,Java,7
-112785414,alibaba/spring-cloud-alibaba,Java,23
-20587599,apache/flink,Java,13
-49876476,apache/shardingsphere,Java,18
-74359442,Tencent/APIJSON,Java,14
-501687,antlr/antlr4,Java,7
-2352744,apereo/cas,Java,2
+64558143,Blankj/AndroidUtilCode,Java,8
+112785414,alibaba/spring-cloud-alibaba,Java,24
+20587599,apache/flink,Java,11
+49876476,apache/shardingsphere,Java,17
+74359442,Tencent/APIJSON,Java,15
+501687,antlr/antlr4,Java,8
+2352744,apereo/cas,Java,1
 482520194,Grasscutters/Grasscutter,Java,32
 173335706,apache/dolphinscheduler,Java,11
-237867883,metersphere/metersphere,Java,11
+237867883,metersphere/metersphere,Java,12
 120463532,alibaba/COLA,Java,8
-113983289,kekingcn/kkFileView,Java,11
+113983289,kekingcn/kkFileView,Java,12
 2003641,swagger-api/swagger-core,Java,1
 203183673,zhaojun1998/zfile,Java,58
-34039690,apache/groovy,Java,1
+34039690,apache/groovy,Java,0
 248032165,spring-projects/spring-authorization-server,Java,4
 99412308,apache/incubator-seatunnel,Java,6
 87859908,micrometer-metrics/micrometer,Java,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 223748401,WeBankFinTech/DataSphereStudio,Java,7
 27790789,confluentinc/schema-registry,Java,1
 188779637,streamxhub/streamx,Java,4
-197545351,Creators-of-Create/Create,Java,13
+197545351,Creators-of-Create/Create,Java,14
 375260798,DataLinkDC/dlink,Java,5
