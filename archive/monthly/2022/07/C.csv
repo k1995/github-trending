@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1884
-111583593,Genymobile/scrcpy,C,1435
-2810292,pbatard/rufus,C,597
-80286288,arendst/Tasmota,C,236
-29759715,facebook/zstd,C,225
-15337142,micropython/micropython,C,431
+2325298,torvalds/linux,C,1883
+111583593,Genymobile/scrcpy,C,1438
+2810292,pbatard/rufus,C,596
+80286288,arendst/Tasmota,C,237
+29759715,facebook/zstd,C,224
+15337142,micropython/micropython,C,429
 5254557,cloudwu/skynet,C,97
 45363955,lionsoul2014/ip2region,C,348
 65899476,espressif/esp-idf,C,198
-50824485,winsiderss/systeminformer,C,411
-272457606,jart/cosmopolitan,C,437
-3791835,darktable-org/darktable,C,338
+50824485,winsiderss/systeminformer,C,412
+272457606,jart/cosmopolitan,C,436
+3791835,darktable-org/darktable,C,337
 50874442,citusdata/citus,C,657
 59771425,zephyrproject-rtos/zephyr,C,148
-200321698,rui314/chibicc,C,398
+200321698,rui314/chibicc,C,397
 108110706,tporadowski/redis,C,202
 469303019,ehids/ecapture,C,588
 157590294,TelegramMessenger/Telegram-iOS,C,95
@@ -22,5 +22,5 @@ id,name,lang,new stars
 151064439,ExpressLRS/ExpressLRS,C,68
 331380723,raspberrypi/pico-sdk,C,131
 331381105,raspberrypi/pico-examples,C,74
-207354223,FreeRTOS/FreeRTOS-Kernel,C,50
+207354223,FreeRTOS/FreeRTOS-Kernel,C,51
 53432472,Azure/sonic-buildimage,C,11
