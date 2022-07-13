@@ -1,13 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
-27442967,fastlane/fastlane,Ruby,9
+8514,rails/rails,Ruby,8
 52281283,mastodon/mastodon,Ruby,9
-73648678,forem/forem,Ruby,7
+73648678,forem/forem,Ruby,10
 3195124,mperham/sidekiq,Ruby,5
-96395,faker-ruby/faker,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,0
 211588,paper-trail-gem/paper_trail,Ruby,1
-6899875,opf/openproject,Ruby,1
 404319,rest-client/rest-client,Ruby,1
 7050,prawnpdf/prawn,Ruby,0
 52316423,luggit/react-native-config,Ruby,0
@@ -15,12 +12,10 @@ id,name,lang,new stars
 2050163,aws/aws-sdk-ruby,Ruby,0
 229006,mileszs/wicked_pdf,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,3
-70121,RubyMoney/money,Ruby,1
+70121,RubyMoney/money,Ruby,0
 588600,brianmario/mysql2,Ruby,0
-229187949,shivammathur/homebrew-php,Ruby,3
 20343475,googleapis/google-cloud-ruby,Ruby,0
-209731662,ruby/debug,Ruby,3
 43709699,microsoft/OMS-Agent-for-Linux,Ruby,1
 26582723,voxpupuli/puppet-systemd,Ruby,0
-267735390,jcsalterego/jqq,Ruby,23
+267735390,jcsalterego/jqq,Ruby,18
 506466358,husky-misc/husky-academy,Ruby,2
