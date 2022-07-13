@@ -1,6 +1,6 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,6
-1864363,composer/composer,PHP,5
+1864363,composer/composer,PHP,7
 2579314,fzaninotto/Faker,PHP,3
 448045,sebastianbergmann/phpunit,PHP,4
 1631570,nikic/PHP-Parser,PHP,2
@@ -14,13 +14,13 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,1
 9826184,elastic/elasticsearch-php,PHP,1
 9077725,giggsey/libphonenumber-for-php,PHP,2
-2784293,php-amqplib/php-amqplib,PHP,3
+2784293,php-amqplib/php-amqplib,PHP,2
 29126334,EasyCorp/EasyAdminBundle,PHP,3
 1957456,Dolibarr/dolibarr,PHP,1
-400984450,kuaifan/dootask,PHP,2
-1415827,ApiGen/ApiGen,PHP,3
-39682214,Piwigo/Piwigo,PHP,3
+400984450,kuaifan/dootask,PHP,1
+1415827,ApiGen/ApiGen,PHP,2
+39682214,Piwigo/Piwigo,PHP,2
 34407154,cweagans/composer-patches,PHP,1
-345315720,swagkarna/Rafel-Rat,PHP,6
-499717126,flucont/btcloud,PHP,1
-460592324,hnhx/librex,PHP,3
+345315720,swagkarna/Rafel-Rat,PHP,5
+499717126,flucont/btcloud,PHP,0
+460592324,hnhx/librex,PHP,2

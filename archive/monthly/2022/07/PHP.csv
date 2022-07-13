@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,463
+1863329,laravel/laravel,PHP,466
 7548986,laravel/framework,PHP,262
-458058,symfony/symfony,PHP,125
-1864363,composer/composer,PHP,135
+458058,symfony/symfony,PHP,126
+1864363,composer/composer,PHP,137
 1420053,guzzle/guzzle,PHP,89
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,116
-2253830,PHPMailer/PHPMailer,PHP,145
+2253830,PHPMailer/PHPMailer,PHP,146
 12615154,barryvdh/laravel-debugbar,PHP,141
-13899674,thephpleague/flysystem,PHP,40
+13899674,thephpleague/flysystem,PHP,41
 14259390,SpartnerNL/Laravel-Excel,PHP,96
 42480275,spatie/laravel-permission,PHP,89
 29843361,w7corp/easywechat,PHP,42
@@ -19,7 +19,7 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,139
 9826184,elastic/elasticsearch-php,PHP,32
 74386167,vimeo/psalm,PHP,57
-47508644,pterodactyl/panel,PHP,377
-248372441,filamentphp/filament,PHP,309
+47508644,pterodactyl/panel,PHP,376
+248372441,filamentphp/filament,PHP,308
 291805291,laravel/jetstream,PHP,39
-141720301,dr5hn/countries-states-cities-database,PHP,177
+141720301,dr5hn/countries-states-cities-database,PHP,180

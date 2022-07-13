@@ -1,18 +1,18 @@
 id,name,lang,new stars
-31288958,hashicorp/vault,Go,8
-165041732,go-kratos/kratos,Go,20
+31288958,hashicorp/vault,Go,9
+165041732,go-kratos/kratos,Go,16
 205679232,flipped-aurora/gin-vue-admin,Go,19
 72891330,kubernetes/ingress-nginx,Go,11
 72477752,pulumi/pulumi,Go,26
 208728772,milvus-io/milvus,Go,14
 6443435,nats-io/nats-server,Go,16
-132145189,golangci/golangci-lint,Go,13
+132145189,golangci/golangci-lint,Go,14
 77071454,goreleaser/goreleaser,Go,12
 4925652,robfig/cron,Go,4
 11206255,Shopify/sarama,Go,24
 21306961,fsnotify/fsnotify,Go,3
-510607652,pocketbase/pocketbase,Go,709
-86367047,elastic/go-elasticsearch,Go,5
+510607652,pocketbase/pocketbase,Go,759
+86367047,elastic/go-elasticsearch,Go,4
 51193526,cosmos/cosmos-sdk,Go,4
 330616364,evrone/go-clean-template,Go,14
 257434373,HyNetwork/hysteria,Go,32
@@ -21,6 +21,6 @@ id,name,lang,new stars
 382379200,cue-lang/cue,Go,10
 236736020,actions-runner-controller/actions-runner-controller,Go,7
 332606283,lcvvvv/kscan,Go,47
-71583866,cloudflare/gokey,Go,64
-440752086,coder/coder,Go,94
+71583866,cloudflare/gokey,Go,73
+440752086,coder/coder,Go,67
 93446053,DataDog/terraform-provider-datadog,Go,3

@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-8681349,huginn/huginn,Ruby,12
+8514,rails/rails,Ruby,8
+8681349,huginn/huginn,Ruby,11
 2500088,gitlabhq/gitlabhq,Ruby,1
 308770,heartcombo/devise,Ruby,2
-2203645,CocoaPods/CocoaPods,Ruby,1
-18486300,lewagon/setup,Ruby,11
+2203645,CocoaPods/CocoaPods,Ruby,2
+18486300,lewagon/setup,Ruby,10
 1090311,elastic/logstash,Ruby,3
-1918677,fluent/fluentd,Ruby,2
+1918677,fluent/fluentd,Ruby,3
 1217404,jordansissel/fpm,Ruby,2
 96395,faker-ruby/faker,Ruby,1
-1725199,github/linguist,Ruby,3
+1725199,github/linguist,Ruby,2
 812393,ruby-grape/grape,Ruby,0
 451035,heartcombo/simple_form,Ruby,0
 108278,chef/chef,Ruby,1
@@ -18,8 +18,8 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,2
 93163073,dependabot/dependabot-core,Ruby,3
 10088951,TheOdinProject/theodinproject,Ruby,4
-212813096,lewagon/data-setup,Ruby,4
-258990911,avo-hq/avo,Ruby,3
+212813096,lewagon/data-setup,Ruby,3
+258990911,avo-hq/avo,Ruby,2
 209731662,ruby/debug,Ruby,3
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,0
