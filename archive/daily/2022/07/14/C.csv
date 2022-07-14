@@ -1,12 +1,12 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,59
+2325298,torvalds/linux,C,58
 36502,git/git,C,18
-1903522,php/php-src,C,5
+1903522,php/php-src,C,6
 1357796,emscripten-core/emscripten,C,3
-5101141,stedolan/jq,C,12
+5101141,stedolan/jq,C,13
 102578345,coolsnowwolf/lede,C,12
 184981,memcached/memcached,C,3
-13836499,raysan5/raylib,C,50
+13836499,raysan5/raylib,C,51
 50874442,citusdata/citus,C,5
 6376337,pocoproject/poco,C,2
 5870069,edenhill/librdkafka,C,1
@@ -14,13 +14,13 @@ id,name,lang,new stars
 6687936,Mbed-TLS/mbedtls,C,2
 34807561,nanopb/nanopb,C,2
 206121828,FreeRTOS/FreeRTOS,C,2
-9858718,mtoyoda/sl,C,5
+9858718,mtoyoda/sl,C,4
 15991457,openssh/openssh-portable,C,0
-284134871,flipperdevices/flipperzero-firmware,C,12
+284134871,flipperdevices/flipperzero-firmware,C,10
 8890645,Xilinx/linux-xlnx,C,1
-48721582,wuzhouhui/misc,C,17
-285721510,exo-lang/exo,C,10
-512974086,hd-zero/hdzero-vtx,C,10
+48721582,wuzhouhui/misc,C,18
+285721510,exo-lang/exo,C,12
+512974086,hd-zero/hdzero-vtx,C,8
 117596757,Seneca-144100/IPC-Workshops,C,0
 496502838,hepingood/mifare_classic,C,6
-512515070,kgsws/doom-in-doom,C,40
+512515070,kgsws/doom-in-doom,C,41
