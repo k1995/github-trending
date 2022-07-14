@@ -1,18 +1,18 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,33
+45717250,tensorflow/tensorflow,C++,32
 39840932,google/googletest,C++,12
-60246359,ClickHouse/ClickHouse,C++,18
-4524181,facebook/folly,C++,11
+60246359,ClickHouse/ClickHouse,C++,19
+4524181,facebook/folly,C++,12
 81227005,facebookresearch/faiss,C++,5
 1062572,catchorg/Catch2,C++,4
-95879426,Tencent/ncnn,C++,6
+95879426,Tencent/ncnn,C++,8
 102343794,apache/incubator-brpc,C++,32
 102692863,onnx/onnx,C++,6
-51905353,apache/arrow,C++,23
-437245741,dragonflydb/dragonfly,C++,41
+51905353,apache/arrow,C++,21
+437245741,dragonflydb/dragonfly,C++,42
 184657328,NVIDIA/TensorRT,C++,4
 244694174,project-chip/connectedhomeip,C++,6
-52909975,facontidavide/PlotJuggler,C++,5
+52909975,facontidavide/PlotJuggler,C++,4
 287706896,Tencent/puerts,C++,7
 204009988,google/tcmalloc,C++,4
 56971819,Chlumsky/msdfgen,C++,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 57061619,odriverobotics/ODrive,C++,2
 52400453,IntelRealSense/realsense-ros,C++,4
 135363400,ros-planning/navigation2,C++,0
-414548115,DISTRHO/Cardinal,C++,28
-410270557,tiltedphoques/TiltedEvolution,C++,41
+414548115,DISTRHO/Cardinal,C++,26
+410270557,tiltedphoques/TiltedEvolution,C++,35

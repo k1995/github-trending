@@ -1,14 +1,14 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,10
 448045,sebastianbergmann/phpunit,PHP,4
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,3
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,2
 2854337,phalcon/cphalcon,PHP,0
 2884111,magento/magento2,PHP,2
 597887,doctrine/orm,PHP,0
 622166,FriendsOfPHP/Goutte,PHP,5
 2032813,DevinVinson/WordPress-Plugin-Boilerplate,PHP,0
-14346979,snipe/snipe-it,PHP,2
-76064827,mailcow/mailcow-dockerized,PHP,5
+14346979,snipe/snipe-it,PHP,24
+76064827,mailcow/mailcow-dockerized,PHP,7
 7413451,timber/timber,PHP,1
 74386167,vimeo/psalm,PHP,1
 439861,moodle/moodle,PHP,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 3193843,drush-ops/drush,PHP,0
 131995661,shopware/platform,PHP,2
 15231212,Automattic/jetpack,PHP,1
-29745084,Leantime/leantime,PHP,2
+29745084,Leantime/leantime,PHP,3
 34407154,cweagans/composer-patches,PHP,4
 231147753,laminas/laminas-diactoros,PHP,2
