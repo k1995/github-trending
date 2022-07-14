@@ -1,6 +1,6 @@
 id,name,lang,new stars
 569041,curl/curl,C,14
-5101141,stedolan/jq,C,11
+5101141,stedolan/jq,C,10
 84240850,timescale/timescaledb,C,2
 5254557,cloudwu/skynet,C,1
 11178512,happyfish100/fastdfs,C,5
@@ -13,7 +13,7 @@ id,name,lang,new stars
 59771425,zephyrproject-rtos/zephyr,C,4
 38617,sqlcipher/sqlcipher,C,1
 29933948,fluent/fluent-bit,C,3
-6687936,Mbed-TLS/mbedtls,C,3
+6687936,Mbed-TLS/mbedtls,C,4
 27359183,guanzhi/GmSSL,C,0
 34807561,nanopb/nanopb,C,2
 7730829,psycopg/psycopg2,C,3
