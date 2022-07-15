@@ -1,7 +1,7 @@
 id,name,lang,new stars
-151834062,doocs/advanced-java,Java,20
+151834062,doocs/advanced-java,Java,21
 6296790,spring-projects/spring-boot,Java,17
-173228436,NationalSecurityAgency/ghidra,Java,18
+173228436,NationalSecurityAgency/ghidra,Java,17
 137451403,alibaba/nacos,Java,17
 112785414,alibaba/spring-cloud-alibaba,Java,17
 55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,6
@@ -10,17 +10,17 @@ id,name,lang,new stars
 11125589,keycloak/keycloak,Java,15
 27954927,ben-manes/caffeine,Java,10
 27729926,grpc/grpc-java,Java,2
-482520194,Grasscutters/Grasscutter,Java,70
-206424,apache/cassandra,Java,8
+482520194,Grasscutters/Grasscutter,Java,69
+206424,apache/cassandra,Java,6
 113983289,kekingcn/kkFileView,Java,25
-2493904,apache/tomcat,Java,7
-203183673,zhaojun1998/zfile,Java,129
+2493904,apache/tomcat,Java,6
+203183673,zhaojun1998/zfile,Java,133
 206905065,macrozheng/springcloud-learning,Java,9
 58194180,strimzi/strimzi-kafka-operator,Java,2
-27911088,apache/nifi,Java,2
-282994686,ververica/flink-cdc-connectors,Java,11
+27911088,apache/nifi,Java,1
+282994686,ververica/flink-cdc-connectors,Java,12
 38829639,fabric8io/kubernetes-client,Java,2
-195184058,gz-yami/mall4j,Java,19
+195184058,gz-yami/mall4j,Java,18
 392529477,gz-yami/mall4cloud,Vue,35
-188779637,streamxhub/streamx,Java,85
-508988893,veo/wsMemShell,Java,13
+188779637,streamxhub/streamx,Java,77
+508988893,veo/wsMemShell,Java,12

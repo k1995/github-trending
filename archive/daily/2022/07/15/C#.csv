@@ -1,17 +1,17 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,13
-262395224,dotnet/maui,C#,38
+17620347,dotnet/aspnetcore,C#,14
+262395224,dotnet/maui,C#,37
 29078997,dotnet/roslyn,C#,5
-198071756,huiyadanli/RevokeMsgPatcher,C#,19
+198071756,huiyadanli/RevokeMsgPatcher,C#,20
 102904613,Unity-Technologies/ml-agents,C#,7
-16157746,dotnet/efcore,C#,6
-28239455,dotnet/AspNetCore.Docs,C#,9
+16157746,dotnet/efcore,C#,7
+28239455,dotnet/AspNetCore.Docs,C#,5
 132453438,unoplatform/uno,C#,4
 23315232,mbdavid/LiteDB,C#,6
 11591313,reactiveui/refit,C#,17
-366663429,jynew/jynew,C#,27
+366663429,jynew/jynew,C#,26
 142480903,microsoft/microsoft-ui-xaml,C#,5
-26732453,louthy/language-ext,C#,10
+26732453,louthy/language-ext,C#,9
 2928944,Azure/azure-sdk-for-net,C#,1
 187499284,Cysharp/UniTask,C#,25
 219113096,k8gege/Ladon,C#,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 252826419,Unity-Technologies/Graphics,C#,2
 430330681,miroslavpejic85/p2p,C#,7
 485145295,Dec0ne/KrbRelayUp,C#,1
-498824328,microsoft/sbom-tool,C#,90
+498824328,microsoft/sbom-tool,C#,84
 101895131,DataDog/dd-trace-dotnet,C#,0
 512543715,m3rcer/Chisel-Strike,C#,19
