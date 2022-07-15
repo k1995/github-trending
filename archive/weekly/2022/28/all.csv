@@ -1,26 +1,26 @@
 id,name,lang,new stars
 13491895,EbookFoundation/free-programming-books,,2457
-60493101,jwasham/coding-interview-university,,1256
+60493101,jwasham/coding-interview-university,,1238
 21737465,sindresorhus/awesome,,1921
 241576270,labuladong/fucking-algorithm,Markdown,305
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,898
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,852
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,784
 20619036,pi-hole/pi-hole,Shell,669
 162998479,sherlock-project/sherlock,Python,551
-357728969,oven-sh/bun,Zig,11143
-119160553,photoprism/photoprism,Go,154
-202367615,lyswhut/lx-music-desktop,JavaScript,222
-101782647,facebookresearch/fairseq,Python,479
-40276274,ziglang/zig,Zig,863
-394541647,OpenEthan/SMSBoom,Python,1339
-330914717,unifyai/ivy,Python,596
+357728969,oven-sh/bun,Zig,11145
+202367615,lyswhut/lx-music-desktop,JavaScript,257
+40276274,ziglang/zig,Zig,862
+372240402,alan2207/bulletproof-react,TypeScript,656
+52728517,programthink/zhao,Python,103
+367758176,dtm-labs/dtm,Go,116
+129990396,sunface/rust-by-practice,Rust,1305
+394541647,OpenEthan/SMSBoom,Python,891
+330914717,unifyai/ivy,Python,655
 129558668,NomicFoundation/hardhat,TypeScript,90
-495836457,t3-oss/create-t3-app,TypeScript,843
+511187726,WongKinYiu/yolov7,Jupyter Notebook,1485
 432640857,qiangmzsx/Software-Engineering-at-Google,HTML,727
-357241735,searxng/searxng,Python,344
 379581563,jinfagang/yolov7,Python,483
-195184058,gz-yami/mall4j,Java,107
+195184058,gz-yami/mall4j,Java,108
 392529477,gz-yami/mall4cloud,Vue,262
 421918747,h3xduck/TripleCross,C,269
 426075845,MystenLabs/sui,Rust,204
-510116998,awesomekling/ladybird,C++,86
-508749336,getify/youperiod.app,JavaScript,68
