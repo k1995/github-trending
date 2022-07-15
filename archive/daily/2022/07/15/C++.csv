@@ -1,18 +1,18 @@
 id,name,lang,new stars
-44838949,apple/swift,C++,18
-39840932,google/googletest,C++,46
+44838949,apple/swift,C++,20
+39840932,google/googletest,C++,40
 60246359,ClickHouse/ClickHouse,C++,21
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,7
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,8
 6934395,facebook/rocksdb,C++,9
 65214191,envoyproxy/envoy,C++,8
-19953044,google/flatbuffers,C++,9
+19953044,google/flatbuffers,C++,10
 81227005,facebookresearch/faiss,C++,13
-32944298,Z3Prover/z3,C++,21
-7512484,ArduPilot/ardupilot,C++,2
+32944298,Z3Prover/z3,C++,18
+7512484,ArduPilot/ardupilot,C++,4
 4454793,musescore/MuseScore,C++,5
 23086893,google/re2,C++,4
 26255337,cameron314/concurrentqueue,C++,2
-3386088,NixOS/nix,C++,10
+3386088,NixOS/nix,C++,9
 36810120,tzapu/WiFiManager,C++,2
 99919302,apache/doris,C++,13
 309512982,redpanda-data/redpanda,C++,6
