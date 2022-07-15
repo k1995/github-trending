@@ -1,9 +1,9 @@
 id,name,lang,new stars
 151834062,doocs/advanced-java,Java,21
 6296790,spring-projects/spring-boot,Java,16
-173228436,NationalSecurityAgency/ghidra,Java,14
-137451403,alibaba/nacos,Java,17
-112785414,alibaba/spring-cloud-alibaba,Java,17
+173228436,NationalSecurityAgency/ghidra,Java,19
+137451403,alibaba/nacos,Java,15
+112785414,alibaba/spring-cloud-alibaba,Java,16
 55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,6
 6766558,Netflix/Hystrix,Java,5
 149001365,doocs/leetcode,Java,20
@@ -15,12 +15,12 @@ id,name,lang,new stars
 113983289,kekingcn/kkFileView,Java,24
 2493904,apache/tomcat,Java,5
 203183673,zhaojun1998/zfile,Java,125
-206905065,macrozheng/springcloud-learning,Java,23
+206905065,macrozheng/springcloud-learning,Java,27
 58194180,strimzi/strimzi-kafka-operator,Java,2
 27911088,apache/nifi,Java,2
 282994686,ververica/flink-cdc-connectors,Java,11
 38829639,fabric8io/kubernetes-client,Java,2
 195184058,gz-yami/mall4j,Java,20
-392529477,gz-yami/mall4cloud,Vue,63
-188779637,streamxhub/streamx,Java,74
+392529477,gz-yami/mall4cloud,Vue,53
+188779637,streamxhub/streamx,Java,57
 508988893,veo/wsMemShell,Java,13
