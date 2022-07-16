@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,75
+8514,rails/rails,Ruby,77
 65252,jekyll/jekyll,Ruby,41
-8681349,huginn/huginn,Ruby,65
-27442967,fastlane/fastlane,Ruby,47
-52281283,mastodon/mastodon,Ruby,52
+8681349,huginn/huginn,Ruby,66
+27442967,fastlane/fastlane,Ruby,45
+52281283,mastodon/mastodon,Ruby,51
 13840241,freeCodeCamp/devdocs,Ruby,57
 308770,heartcombo/devise,Ruby,30
 18486300,lewagon/setup,Ruby,416
 4095287,rubocop/rubocop,Ruby,17
-96395,faker-ruby/faker,Ruby,15
+96395,faker-ruby/faker,Ruby,14
 15435,Shopify/liquid,Ruby,19
 1333863,kaminari/kaminari,Ruby,4
 21829,thoughtbot/factory_bot,Ruby,12
@@ -16,10 +16,10 @@ id,name,lang,new stars
 417389,lostisland/faraday,Ruby,11
 417862,octokit/octokit.rb,Ruby,9
 115859973,ddnexus/pagy,Ruby,12
-103766152,github/explore,Ruby,11
-614070,rubygems/rubygems,Ruby,13
+103766152,github/explore,Ruby,12
+614070,rubygems/rubygems,Ruby,12
 11426474,github/choosealicense.com,Ruby,10
-93163073,dependabot/dependabot-core,Ruby,17
+93163073,dependabot/dependabot-core,Ruby,18
 212813096,lewagon/data-setup,Ruby,95
 20343475,googleapis/google-cloud-ruby,Ruby,2
 66497320,DataDog/dd-trace-rb,Ruby,1
