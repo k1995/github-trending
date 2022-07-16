@@ -5,13 +5,13 @@ id,name,lang,new stars
 43723161,helm/helm,Go,5
 109145553,containers/podman,Go,12
 8966356,hashicorp/packer,Go,4
-36653430,hashicorp/nomad,Go,106
+36653430,hashicorp/nomad,Go,97
 33258973,influxdata/telegraf,Go,11
 100982449,argoproj/argo-workflows,Go,3
 434218673,zinclabs/zinc,Go,10
 118105436,golang-migrate/migrate,Go,10
 11206255,Shopify/sarama,Go,23
-66509131,kubernetes/client-go,Go,3
+66509131,kubernetes/client-go,Go,5
 140412864,kgretzky/evilginx2,Go,6
 43332504,GoogleCloudPlatform/golang-samples,Go,4
 333303663,bytebase/bytebase,Go,13
