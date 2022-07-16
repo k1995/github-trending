@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,122
+1863329,laravel/laravel,PHP,120
 7548986,laravel/framework,PHP,66
-458058,symfony/symfony,PHP,43
+458058,symfony/symfony,PHP,44
 1864363,composer/composer,PHP,35
 448045,sebastianbergmann/phpunit,PHP,28
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,30
@@ -9,18 +9,18 @@ id,name,lang,new stars
 622166,FriendsOfPHP/Goutte,PHP,24
 14346979,snipe/snipe-it,PHP,191
 9791525,digininja/DVWA,PHP,34
-10883164,barryvdh/laravel-dompdf,PHP,25
+10883164,barryvdh/laravel-dompdf,PHP,27
 9826184,elastic/elasticsearch-php,PHP,6
 148129143,bagisto/bagisto,PHP,22
-60010673,elementor/elementor,PHP,15
+60010673,elementor/elementor,PHP,16
 439861,moodle/moodle,PHP,15
-62937181,PrivateBin/PrivateBin,PHP,22
+62937181,PrivateBin/PrivateBin,PHP,23
 248372441,filamentphp/filament,PHP,94
-69691727,pmmp/PocketMine-MP,PHP,16
+69691727,pmmp/PocketMine-MP,PHP,15
 12063996,osTicket/osTicket,PHP,11
 311448648,laravel/breeze,PHP,15
-359687154,DenverCoder1/readme-typing-svg,PHP,30
+359687154,DenverCoder1/readme-typing-svg,PHP,31
 345315720,swagkarna/Rafel-Rat,PHP,19
-433383766,nextcloud/all-in-one,PHP,20
-449470351,hammerstonedev/fast-paginate,PHP,207
-511745355,wibyweb/wiby,PHP,55
+433383766,nextcloud/all-in-one,PHP,22
+449470351,hammerstonedev/fast-paginate,PHP,199
+511745355,wibyweb/wiby,PHP,46
