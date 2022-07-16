@@ -1,25 +1,25 @@
 id,name,lang,new stars
-177736533,996icu/996.ICU,,80
+177736533,996icu/996.ICU,,78
 60493101,jwasham/coding-interview-university,,231
 184456251,microsoft/PowerToys,C#,67
-243950408,Anduin2017/HowToCook,Shell,47
-67962648,vuetifyjs/vuetify,TypeScript,23
-61893399,brillout/awesome-react-components,,88
-97086543,TheAlgorithms/JavaScript,JavaScript,101
-33702544,plotly/dash,Python,92
-49876476,apache/shardingsphere,Java,45
-441903012,MichaelCade/90DaysOfDevOps,Shell,322
-36653430,hashicorp/nomad,Go,45
-197515838,shengcaishizhan/kkndme_tianya,,86
-280557054,trpc/trpc,TypeScript,160
-14346979,snipe/snipe-it,PHP,11
-44424200,vasanthk/how-web-works,,259
-99919302,apache/doris,C++,39
-330914717,unifyai/ivy,Python,135
-89033556,firebase/firebase-ios-sdk,Objective-C,4
+243950408,Anduin2017/HowToCook,Shell,45
+67962648,vuetifyjs/vuetify,TypeScript,25
+61893399,brillout/awesome-react-components,,93
+97086543,TheAlgorithms/JavaScript,JavaScript,104
+33702544,plotly/dash,Python,41
+49876476,apache/shardingsphere,Java,38
+441903012,MichaelCade/90DaysOfDevOps,Shell,327
+36653430,hashicorp/nomad,Go,89
+197515838,shengcaishizhan/kkndme_tianya,,98
+280557054,trpc/trpc,TypeScript,177
+14346979,snipe/snipe-it,PHP,15
+44424200,vasanthk/how-web-works,,243
+99919302,apache/doris,C++,27
+330914717,unifyai/ivy,Python,136
+89033556,firebase/firebase-ios-sdk,Objective-C,10
 253461233,tw93/MiaoYan,Swift,40
-512867291,srush/GPU-Puzzles,Jupyter Notebook,408
+512867291,srush/GPU-Puzzles,Jupyter Notebook,468
 426075845,MystenLabs/sui,Rust,39
-493029626,Akebi-Group/Akebi-GC,C++,27
-490465859,UberGuidoZ/Flipper,Python,56
-498824328,microsoft/sbom-tool,C#,76
+493029626,Akebi-Group/Akebi-GC,C++,40
+490465859,UberGuidoZ/Flipper,Python,52
+498824328,microsoft/sbom-tool,C#,82
