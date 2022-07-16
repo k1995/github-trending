@@ -1,7 +1,7 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-27442967,fastlane/fastlane,Ruby,2
-52281283,mastodon/mastodon,Ruby,7
+8514,rails/rails,Ruby,6
+27442967,fastlane/fastlane,Ruby,1
+52281283,mastodon/mastodon,Ruby,6
 13840241,freeCodeCamp/devdocs,Ruby,4
 2500088,gitlabhq/gitlabhq,Ruby,1
 308770,heartcombo/devise,Ruby,1
@@ -10,11 +10,11 @@ id,name,lang,new stars
 1725199,github/linguist,Ruby,3
 361310,teamcapybara/capybara,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,1
-108278,chef/chef,Ruby,4
+108278,chef/chef,Ruby,3
 910744,puppetlabs/puppet,Ruby,1
-6899875,opf/openproject,Ruby,2
-75785147,rails/webpacker,Ruby,2
-417389,lostisland/faraday,Ruby,2
+6899875,opf/openproject,Ruby,4
+75785147,rails/webpacker,Ruby,1
+417389,lostisland/faraday,Ruby,1
 30985840,solidusio/solidus,Ruby,2
 294972,fnando/i18n-js,Ruby,1
 138776049,sorbet/sorbet,Ruby,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,1
 242765280,bensheldon/good_job,Ruby,1
 390548093,rails/importmap-rails,Ruby,1
-51142818,danini-the-panini/mittsu,Ruby,4
-15701893,Data-Liberation-Front/csvlint.rb,Ruby,0
+51142818,danini-the-panini/mittsu,Ruby,5
+15701893,Data-Liberation-Front/csvlint.rb,Ruby,2

@@ -1,25 +1,25 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,231
-11730342,vuejs/vue,TypeScript,46
+60493101,jwasham/coding-interview-university,,208
+11730342,vuejs/vue,TypeScript,50
 160919119,tiangolo/fastapi,Python,43
 152870372,ruanyf/weekly,,14
-307489284,remix-run/remix,TypeScript,19
+307489284,remix-run/remix,TypeScript,24
 49876476,apache/shardingsphere,Java,38
-36653430,hashicorp/nomad,Go,70
+36653430,hashicorp/nomad,Go,87
 189621607,github/docs,JavaScript,6
-11206255,Shopify/sarama,Go,39
-280557054,trpc/trpc,TypeScript,249
-272457606,jart/cosmopolitan,C,29
+11206255,Shopify/sarama,Go,23
+280557054,trpc/trpc,TypeScript,177
+272457606,jart/cosmopolitan,C,26
 380191749,dair-ai/ML-YouTube-Courses,,205
-49412556,quickwit-oss/tantivy,Rust,15
-44424200,vasanthk/how-web-works,,259
-206905065,macrozheng/springcloud-learning,Java,39
+49412556,quickwit-oss/tantivy,Rust,37
+44424200,vasanthk/how-web-works,,243
+206905065,macrozheng/springcloud-learning,Java,63
 330914717,unifyai/ivy,Python,136
-89033556,firebase/firebase-ios-sdk,Objective-C,17
-512867291,srush/GPU-Puzzles,Jupyter Notebook,427
-395075992,amd64fox/SpotX,PowerShell,28
+89033556,firebase/firebase-ios-sdk,Objective-C,10
+512867291,srush/GPU-Puzzles,Jupyter Notebook,244
+395075992,amd64fox/SpotX,PowerShell,29
 378310716,logto-io/logto,TypeScript,77
-498824328,microsoft/sbom-tool,C#,74
-491724326,farcasterxyz/protocol,,9
+498824328,microsoft/sbom-tool,C#,82
+491724326,farcasterxyz/protocol,,24
 512913150,near/stakewars-iii,,6
-513735662,hackerhouse-opensource/iscsicpl_bypassUAC,C++,30
+513735662,hackerhouse-opensource/iscsicpl_bypassUAC,C++,55

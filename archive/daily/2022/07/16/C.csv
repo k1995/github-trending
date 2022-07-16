@@ -1,11 +1,11 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,50
-156018,redis/redis,C,12
-5101141,stedolan/jq,C,11
+156018,redis/redis,C,14
+5101141,stedolan/jq,C,9
 2810292,pbatard/rufus,C,10
-24993138,google/brotli,C,22
-105627846,reactos/reactos,C,7
-13836499,raysan5/raylib,C,15
+24993138,google/brotli,C,16
+105627846,reactos/reactos,C,5
+13836499,raysan5/raylib,C,14
 1856976,libevent/libevent,C,4
 65899476,espressif/esp-idf,C,5
 54280778,DaveGamble/cJSON,C,4
@@ -14,13 +14,13 @@ id,name,lang,new stars
 40504480,mit-pdos/xv6-public,C,2
 23007417,colmap/colmap,C,8
 27275442,telekom-security/tpotce,C,6
-29933948,fluent/fluent-bit,C,3
+29933948,fluent/fluent-bit,C,2
 2359378,madler/zlib,C,2
-68751856,gnea/grbl,C,5
+68751856,gnea/grbl,C,4
 6860771,hathach/tinyusb,C,9
 15333809,open62541/open62541,C,1
-144465372,RfidResearchGroup/proxmark3,C,7
+144465372,RfidResearchGroup/proxmark3,C,8
 331381105,raspberrypi/pico-examples,C,4
-513706475,Robert-van-Engelen/tinylisp,C,53
+513706475,Robert-van-Engelen/tinylisp,C,50
 505872974,comsec-group/retbleed,C,8
-53371980,holbertonschool/make_magic_happen,C,1
+53371980,holbertonschool/make_magic_happen,C,2
