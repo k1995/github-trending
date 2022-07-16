@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,13
-27442967,fastlane/fastlane,Ruby,9
+8514,rails/rails,Ruby,12
+27442967,fastlane/fastlane,Ruby,8
 53238813,Homebrew/brew,Ruby,16
-52281283,mastodon/mastodon,Ruby,9
+52281283,mastodon/mastodon,Ruby,8
 308770,heartcombo/devise,Ruby,6
 73648678,forem/forem,Ruby,7
-3195124,mperham/sidekiq,Ruby,3
+3195124,mperham/sidekiq,Ruby,2
 96395,faker-ruby/faker,Ruby,3
-1725199,github/linguist,Ruby,10
-15435,Shopify/liquid,Ruby,5
+1725199,github/linguist,Ruby,9
+15435,Shopify/liquid,Ruby,4
 812393,ruby-grape/grape,Ruby,0
-277089,flyerhzm/bullet,Ruby,1
+277089,flyerhzm/bullet,Ruby,0
 5160706,bkeepers/dotenv,Ruby,0
 6899875,opf/openproject,Ruby,4
 43347873,danger/danger,Ruby,1
@@ -18,7 +18,7 @@ id,name,lang,new stars
 38867,svenfuchs/rails-i18n,Ruby,0
 614070,rubygems/rubygems,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,3
-200302808,github/view_component,Ruby,1
+200302808,github/view_component,Ruby,0
 34840276,elastic/ansible-elasticsearch,Ruby,0
 242765280,bensheldon/good_job,Ruby,4
 32104924,rails/sprockets,Ruby,1
