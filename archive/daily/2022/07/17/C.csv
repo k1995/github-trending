@@ -1,18 +1,18 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,47
+2325298,torvalds/linux,C,46
 156018,redis/redis,C,13
 5101141,stedolan/jq,C,8
 2810292,pbatard/rufus,C,7
-24993138,google/brotli,C,14
+24993138,google/brotli,C,13
 105627846,reactos/reactos,C,5
 13836499,raysan5/raylib,C,14
-1856976,libevent/libevent,C,3
+1856976,libevent/libevent,C,4
 65899476,espressif/esp-idf,C,5
 54280778,DaveGamble/cJSON,C,4
-272457606,jart/cosmopolitan,C,30
+272457606,jart/cosmopolitan,C,25
 192805335,microsoft/mimalloc,C,8
 40504480,mit-pdos/xv6-public,C,3
-23007417,colmap/colmap,C,7
+23007417,colmap/colmap,C,6
 27275442,telekom-security/tpotce,C,3
 29933948,fluent/fluent-bit,C,2
 2359378,madler/zlib,C,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 144465372,RfidResearchGroup/proxmark3,C,7
 331381105,raspberrypi/pico-examples,C,8
 513706475,Robert-van-Engelen/tinylisp,C,46
-505872974,comsec-group/retbleed,C,7
+505872974,comsec-group/retbleed,C,6
 53371980,holbertonschool/make_magic_happen,C,3
