@@ -1,26 +1,25 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,6281
 21737465,sindresorhus/awesome,,5376
-112507086,30-seconds/30-seconds-of-code,JavaScript,2768
+112507086,30-seconds/30-seconds-of-code,JavaScript,2774
 16408992,neovim/neovim,Vim script,1421
-162998479,sherlock-project/sherlock,Python,1622
+162998479,sherlock-project/sherlock,Python,1619
 40997482,vim/vim,Vim script,701
-237791077,mingrammer/diagrams,Python,6027
+237791077,mingrammer/diagrams,Python,6031
 101782647,facebookresearch/fairseq,Python,1250
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,1106
-40276274,ziglang/zig,Zig,1676
-323048702,OpenBB-finance/OpenBBTerminal,Python,745
-352933140,ToolJet/ToolJet,JavaScript,1916
-372240402,alan2207/bulletproof-react,TypeScript,1613
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,1109
+40276274,ziglang/zig,Zig,1680
+323048702,OpenBB-finance/OpenBBTerminal,Python,747
+372240402,alan2207/bulletproof-react,TypeScript,1591
+352933140,ToolJet/ToolJet,JavaScript,1876
 36653430,hashicorp/nomad,Go,807
-300592907,mxrch/GHunt,Python,405
-161951219,wailsapp/wails,Go,1617
-365263843,denoland/fresh,TypeScript,5511
-182849188,delta-io/delta,Scala,523
+300592907,mxrch/GHunt,Python,407
+161951219,wailsapp/wails,Go,1601
+365263843,denoland/fresh,TypeScript,5472
+182849188,delta-io/delta,Scala,525
 368917877,BuilderIO/qwik,TypeScript,1086
-330914717,unifyai/ivy,Python,1451
+330914717,unifyai/ivy,Python,1453
 402945349,StarRocks/starrocks,C++,311
-461824274,rxyhn/dotfiles,Lua,983
-331360188,neetcode-gh/leetcode,Python,474
-26473165,free-audio/clap,C,474
-426075845,MystenLabs/sui,Rust,383
+461824274,rxyhn/dotfiles,Lua,986
+331360188,neetcode-gh/leetcode,Python,475
+26473165,free-audio/clap,C,468
+426075845,MystenLabs/sui,Rust,385

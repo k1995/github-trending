@@ -1,10 +1,10 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,251
-133251103,wagoodman/dive,Go,116
+133251103,wagoodman/dive,Go,112
 119160553,photoprism/photoprism,Go,171
-165041732,go-kratos/kratos,Go,91
+165041732,go-kratos/kratos,Go,92
 109145553,containers/podman,Go,99
-153099672,inancgumus/learngo,Go,144
+153099672,inancgumus/learngo,Go,134
 205679232,flipped-aurora/gin-vue-admin,Go,141
 72891330,kubernetes/ingress-nginx,Go,52
 120896210,argoproj/argo-cd,Go,88
@@ -12,15 +12,15 @@ id,name,lang,new stars
 11206255,Shopify/sarama,Go,166
 367758176,dtm-labs/dtm,Go,127
 510607652,pocketbase/pocketbase,Go,3597
-140412864,kgretzky/evilginx2,Go,55
-51193526,cosmos/cosmos-sdk,Go,47
+140412864,kgretzky/evilginx2,Go,58
+51193526,cosmos/cosmos-sdk,Go,44
 482621452,livebud/bud,Go,324
 257434373,HyNetwork/hysteria,Go,202
 209313689,aquasecurity/tracee,Go,40
 332606283,lcvvvv/kscan,Go,263
-432717637,duke-git/lancet,Go,65
+432717637,duke-git/lancet,Go,72
 456197375,kt007007/KTMinerProxy,Go,92
-463027648,zan8in/afrog,Go,58
+463027648,zan8in/afrog,Go,56
 509338898,teamssix/cf,Go,216
 330802289,openshift/hypershift,Go,56
 510279645,inccleo/go-zero-shop,Go,16
