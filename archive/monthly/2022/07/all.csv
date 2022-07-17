@@ -1,25 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,5376
-112507086,30-seconds/30-seconds-of-code,JavaScript,2774
-16408992,neovim/neovim,Vim script,1421
-162998479,sherlock-project/sherlock,Python,1619
+13491895,EbookFoundation/free-programming-books,,6269
+21737465,sindresorhus/awesome,,5369
+112507086,30-seconds/30-seconds-of-code,JavaScript,2790
+133442384,denoland/deno,Rust,1244
+16408992,neovim/neovim,Vim script,1427
+162998479,sherlock-project/sherlock,Python,1625
 40997482,vim/vim,Vim script,701
-237791077,mingrammer/diagrams,Python,6031
-101782647,facebookresearch/fairseq,Python,1250
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,1109
-40276274,ziglang/zig,Zig,1680
+237791077,mingrammer/diagrams,Python,6033
+101782647,facebookresearch/fairseq,Python,1253
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,1111
+40276274,ziglang/zig,Zig,1684
 323048702,OpenBB-finance/OpenBBTerminal,Python,747
-372240402,alan2207/bulletproof-react,TypeScript,1591
-352933140,ToolJet/ToolJet,JavaScript,1876
+372240402,alan2207/bulletproof-react,TypeScript,1565
+352933140,ToolJet/ToolJet,JavaScript,1852
 36653430,hashicorp/nomad,Go,807
-300592907,mxrch/GHunt,Python,407
-161951219,wailsapp/wails,Go,1601
-365263843,denoland/fresh,TypeScript,5472
+300592907,mxrch/GHunt,Python,408
+365263843,denoland/fresh,TypeScript,5443
 182849188,delta-io/delta,Scala,525
-368917877,BuilderIO/qwik,TypeScript,1086
-330914717,unifyai/ivy,Python,1453
-402945349,StarRocks/starrocks,C++,311
+368917877,BuilderIO/qwik,TypeScript,1088
+330914717,unifyai/ivy,Python,1455
+390607649,Tencent/spring-cloud-tencent,Java,1658
 461824274,rxyhn/dotfiles,Lua,986
-331360188,neetcode-gh/leetcode,Python,475
-26473165,free-audio/clap,C,468
-426075845,MystenLabs/sui,Rust,385
+289585720,open-goal/jak-project,Common Lisp,880
+331360188,neetcode-gh/leetcode,Python,481
+426075845,MystenLabs/sui,Rust,386
