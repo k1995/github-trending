@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,43
+7691631,moby/moby,Go,12
+14125254,hashicorp/consul,Go,9
+43723161,helm/helm,Go,10
+109145553,containers/podman,Go,15
+8966356,hashicorp/packer,Go,7
+36653430,hashicorp/nomad,Go,101
+33258973,influxdata/telegraf,Go,4
+100982449,argoproj/argo-workflows,Go,6
+434218673,zinclabs/zinc,Go,13
+118105436,golang-migrate/migrate,Go,8
+11206255,Shopify/sarama,Go,15
+66509131,kubernetes/client-go,Go,3
+140412864,kgretzky/evilginx2,Go,12
+43332504,GoogleCloudPlatform/golang-samples,Go,5
+333303663,bytebase/bytebase,Go,17
+228192593,hakluke/hakrawler,Go,4
+178079595,opencost/opencost,Go,1
+330405184,turbot/steampipe,Go,24
+124260244,banzaicloud/bank-vaults,Go,4
+332606283,lcvvvv/kscan,Go,15
+208908993,GoogleContainerTools/kpt,Go,3
+219058535,kubernetes-sigs/gateway-api,Go,8
+509338898,teamssix/cf,Go,15
+508330030,vincentbernat/akvorado,Go,25
