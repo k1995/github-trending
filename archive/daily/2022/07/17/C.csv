@@ -1,19 +1,19 @@
 id,name,lang,new stars
-246335987,ventoy/Ventoy,C,30
-20159867,nothings/stb,C,10
+246335987,ventoy/Ventoy,C,28
+20159867,nothings/stb,C,7
 6201092,mpv-player/mpv,C,4
 80286288,arendst/Tasmota,C,3
 27737393,qmk/qmk_firmware,C,11
 24993138,google/brotli,C,14
-13836499,raysan5/raylib,C,14
-179354282,acidanthera/OpenCorePkg,C,10
+13836499,raysan5/raylib,C,10
+179354282,acidanthera/OpenCorePkg,C,9
 9524997,glfw/glfw,C,6
 3199002,raspberrypi/linux,C,1
 437011,openzfs/zfs,C,5
-254327261,sandboxie-plus/Sandboxie,C,8
+254327261,sandboxie-plus/Sandboxie,C,6
 272457606,jart/cosmopolitan,C,30
 18106269,lz4/lz4,C,6
-13310527,jemalloc/jemalloc,C,11
+13310527,jemalloc/jemalloc,C,10
 689344,libretro/RetroArch,C,4
 394318710,valinet/ExplorerPatcher,C,18
 19112091,vanhauser-thc/thc-hydra,C,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 97212490,floooh/sokol,C,7
 330008801,libsdl-org/SDL,C,6
 284134871,flipperdevices/flipperzero-firmware,C,7
-211756905,MarlinFirmware/Configurations,C,1
+211756905,MarlinFirmware/Configurations,C,0
 472575717,HarbourMasters/Shipwright,C,7
