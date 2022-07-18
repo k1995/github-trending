@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,6275
-21737465,sindresorhus/awesome,,5412
-112507086,30-seconds/30-seconds-of-code,JavaScript,2865
-133442384,denoland/deno,Rust,1245
-16408992,neovim/neovim,Vim script,1430
-162998479,sherlock-project/sherlock,Python,1640
-40997482,vim/vim,Vim script,694
-237791077,mingrammer/diagrams,Python,6073
-101782647,facebookresearch/fairseq,Python,1269
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,1121
-40276274,ziglang/zig,Zig,1729
-323048702,OpenBB-finance/OpenBBTerminal,Python,770
-372240402,alan2207/bulletproof-react,TypeScript,1419
-352933140,ToolJet/ToolJet,JavaScript,1850
-36653430,hashicorp/nomad,Go,841
-300592907,mxrch/GHunt,Python,428
-365263843,denoland/fresh,TypeScript,5374
+13491895,EbookFoundation/free-programming-books,,6334
+60493101,jwasham/coding-interview-university,,4186
+21737465,sindresorhus/awesome,,5435
+112507086,30-seconds/30-seconds-of-code,JavaScript,2893
+16408992,neovim/neovim,Vim script,1432
+162998479,sherlock-project/sherlock,Python,1638
+40997482,vim/vim,Vim script,695
+42489829,rust-lang/rustlings,Rust,1670
+237791077,mingrammer/diagrams,Python,6083
+101782647,facebookresearch/fairseq,Python,1274
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,1129
+40276274,ziglang/zig,Zig,1708
+153099672,inancgumus/learngo,Go,482
+323048702,OpenBB-finance/OpenBBTerminal,Python,771
+372240402,alan2207/bulletproof-react,TypeScript,1403
+36653430,hashicorp/nomad,Go,842
+365263843,denoland/fresh,TypeScript,5364
 182849188,delta-io/delta,Scala,528
-368917877,BuilderIO/qwik,TypeScript,1087
-330914717,unifyai/ivy,Python,1473
-390607649,Tencent/spring-cloud-tencent,Java,1616
-461824274,rxyhn/dotfiles,Lua,1001
-289585720,open-goal/jak-project,Common Lisp,758
+368917877,BuilderIO/qwik,TypeScript,1086
+330914717,unifyai/ivy,Python,1481
+402945349,StarRocks/starrocks,C++,312
+390607649,Tencent/spring-cloud-tencent,Java,1611
+461824274,rxyhn/dotfiles,Lua,1004
 331360188,neetcode-gh/leetcode,Python,489
-426075845,MystenLabs/sui,Rust,399
+490465859,UberGuidoZ/Flipper,Python,264
