@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,112
+1863329,laravel/laravel,PHP,110
 7548986,laravel/framework,PHP,70
 458058,symfony/symfony,PHP,44
 448045,sebastianbergmann/phpunit,PHP,24
-5724990,briannesbitt/Carbon,PHP,24
+5724990,briannesbitt/Carbon,PHP,25
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,30
 10157178,egulias/EmailValidator,PHP,18
 48796179,z-song/laravel-admin,PHP,13
 622166,FriendsOfPHP/Goutte,PHP,21
 14346979,snipe/snipe-it,PHP,197
-9791525,digininja/DVWA,PHP,27
+9791525,digininja/DVWA,PHP,26
 97311017,rectorphp/rector,PHP,24
 10883164,barryvdh/laravel-dompdf,PHP,28
 148129143,bagisto/bagisto,PHP,21
@@ -22,5 +22,5 @@ id,name,lang,new stars
 359687154,DenverCoder1/readme-typing-svg,PHP,32
 337565235,innocenzi/laravel-vite,PHP,12
 345315720,swagkarna/Rafel-Rat,PHP,17
-449470351,hammerstonedev/fast-paginate,PHP,117
-433383766,nextcloud/all-in-one,PHP,24
+449470351,hammerstonedev/fast-paginate,PHP,108
+433383766,nextcloud/all-in-one,PHP,23
