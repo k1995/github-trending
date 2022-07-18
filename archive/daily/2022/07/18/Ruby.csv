@@ -1,15 +1,15 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,9
-7569578,discourse/discourse,Ruby,8
+65252,jekyll/jekyll,Ruby,8
+7569578,discourse/discourse,Ruby,7
 52281283,mastodon/mastodon,Ruby,8
 2293158,rapid7/metasploit-framework,Ruby,15
 481872,hashicorp/vagrant,Ruby,4
-2500088,gitlabhq/gitlabhq,Ruby,1
+2500088,gitlabhq/gitlabhq,Ruby,2
 308770,heartcombo/devise,Ruby,1
-4095287,rubocop/rubocop,Ruby,0
+4095287,rubocop/rubocop,Ruby,1
 106995,sinatra/sinatra,Ruby,0
 1725199,github/linguist,Ruby,2
-108278,chef/chef,Ruby,2
+108278,chef/chef,Ruby,3
 4994614,wpscanteam/wpscan,Ruby,4
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,5
 39706711,hartator/wayback-machine-downloader,Ruby,1
@@ -18,9 +18,9 @@ id,name,lang,new stars
 10088951,TheOdinProject/theodinproject,Ruby,3
 502760,danbooru/danbooru,Ruby,2
 212813096,lewagon/data-setup,Ruby,1
-8451893,gjtorikian/html-proofer,Ruby,1
+8451893,gjtorikian/html-proofer,Ruby,2
 141314250,rubycdp/cuprite,Ruby,1
 8154497,rubysec/ruby-advisory-db,Ruby,0
-122619878,toptal/granite,Ruby,1
+122619878,toptal/granite,Ruby,2
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
 6219783,erithmetic/conversationalist,Ruby,0
