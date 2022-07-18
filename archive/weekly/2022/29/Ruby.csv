@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,70
-65252,jekyll/jekyll,Ruby,53
-8681349,huginn/huginn,Ruby,68
+65252,jekyll/jekyll,Ruby,54
+8681349,huginn/huginn,Ruby,67
 27442967,fastlane/fastlane,Ruby,45
 52281283,mastodon/mastodon,Ruby,52
 13840241,freeCodeCamp/devdocs,Ruby,55
-308770,heartcombo/devise,Ruby,31
-73648678,forem/forem,Ruby,41
+308770,heartcombo/devise,Ruby,25
+73648678,forem/forem,Ruby,42
 18486300,lewagon/setup,Ruby,414
-11423758,mame/quine-relay,Ruby,23
+11423758,mame/quine-relay,Ruby,19
 52855516,Homebrew/homebrew-core,Ruby,31
 1725199,github/linguist,Ruby,34
 15435,Shopify/liquid,Ruby,19
@@ -17,7 +17,7 @@ id,name,lang,new stars
 16549503,github/scientist,Ruby,35
 417389,lostisland/faraday,Ruby,9
 52316423,luggit/react-native-config,Ruby,11
-138776049,sorbet/sorbet,Ruby,8
+138776049,sorbet/sorbet,Ruby,7
 614070,rubygems/rubygems,Ruby,13
 11426474,github/choosealicense.com,Ruby,10
 212813096,lewagon/data-setup,Ruby,112

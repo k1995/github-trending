@@ -1,13 +1,13 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,16
-82238168,monicahq/monica,PHP,7
+3482588,danielmiessler/SecLists,PHP,14
+82238168,monicahq/monica,PHP,6
 5724990,briannesbitt/Carbon,PHP,1
 3431193,yiisoft/yii2,PHP,0
-10157178,egulias/EmailValidator,PHP,2
-21298446,firefly-iii/firefly-iii,PHP,5
+10157178,egulias/EmailValidator,PHP,1
+21298446,firefly-iii/firefly-iii,PHP,7
 1398634,symfony/css-selector,PHP,2
 14346979,snipe/snipe-it,PHP,8
-97311017,rectorphp/rector,PHP,3
+97311017,rectorphp/rector,PHP,4
 95011974,akaunting/akaunting,PHP,2
 74386167,vimeo/psalm,PHP,2
 6322699,FreshRSS/FreshRSS,PHP,5
@@ -16,7 +16,7 @@ id,name,lang,new stars
 248372441,filamentphp/filament,PHP,15
 9395939,ZoneMinder/zoneminder,PHP,1
 96284790,prasathmani/tinyfilemanager,PHP,0
-69691727,pmmp/PocketMine-MP,PHP,3
+69691727,pmmp/PocketMine-MP,PHP,2
 204114509,solstice23/argon-theme,PHP,3
 404921727,luolongfei/freenom,PHP,8
 174021137,inertiajs/pingcrm,PHP,1
