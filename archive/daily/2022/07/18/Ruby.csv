@@ -1,18 +1,18 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,5
+65252,jekyll/jekyll,Ruby,3
 7569578,discourse/discourse,Ruby,8
-8681349,huginn/huginn,Ruby,11
-52281283,mastodon/mastodon,Ruby,12
-2293158,rapid7/metasploit-framework,Ruby,11
-538746,ruby/ruby,Ruby,4
+8681349,huginn/huginn,Ruby,12
+52281283,mastodon/mastodon,Ruby,10
+2293158,rapid7/metasploit-framework,Ruby,10
+538746,ruby/ruby,Ruby,3
 202291859,chatwoot/chatwoot,Ruby,4
 1090311,elastic/logstash,Ruby,5
-138312,capistrano/capistrano,Ruby,4
+138312,capistrano/capistrano,Ruby,3
 4095287,rubocop/rubocop,Ruby,2
-88740103,postalserver/postal,Ruby,3
+88740103,postalserver/postal,Ruby,1
 106995,sinatra/sinatra,Ruby,2
-1918677,fluent/fluentd,Ruby,3
-1725199,github/linguist,Ruby,2
+1918677,fluent/fluentd,Ruby,2
+1725199,github/linguist,Ruby,1
 108278,chef/chef,Ruby,4
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,6
 103766152,github/explore,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 55288882,d12frosted/homebrew-emacs-plus,Ruby,0
 502760,danbooru/danbooru,Ruby,3
 294306071,TheOdinProject/ruby-exercises,Ruby,0
-267735390,jcsalterego/jqq,Ruby,13
+267735390,jcsalterego/jqq,Ruby,14
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
