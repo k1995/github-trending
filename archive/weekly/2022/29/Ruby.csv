@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,63
-65252,jekyll/jekyll,Ruby,50
+65252,jekyll/jekyll,Ruby,49
 52281283,mastodon/mastodon,Ruby,53
-13840241,freeCodeCamp/devdocs,Ruby,55
+13840241,freeCodeCamp/devdocs,Ruby,56
 308770,heartcombo/devise,Ruby,24
-73648678,forem/forem,Ruby,41
-18486300,lewagon/setup,Ruby,188
+73648678,forem/forem,Ruby,40
+18486300,lewagon/setup,Ruby,179
 52855516,Homebrew/homebrew-core,Ruby,30
-1725199,github/linguist,Ruby,32
-15435,Shopify/liquid,Ruby,17
+1725199,github/linguist,Ruby,30
+15435,Shopify/liquid,Ruby,18
 1333863,kaminari/kaminari,Ruby,6
 21829,thoughtbot/factory_bot,Ruby,11
 108278,chef/chef,Ruby,15
@@ -17,9 +17,9 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,10
 417862,octokit/octokit.rb,Ruby,9
 11426474,github/choosealicense.com,Ruby,8
-93163073,dependabot/dependabot-core,Ruby,15
+93163073,dependabot/dependabot-core,Ruby,14
 200302808,github/view_component,Ruby,6
-212813096,lewagon/data-setup,Ruby,79
+212813096,lewagon/data-setup,Ruby,78
 20343475,googleapis/google-cloud-ruby,Ruby,2
 161399160,Shopify/shopify-cli,Ruby,3
 209731662,ruby/debug,Ruby,9
