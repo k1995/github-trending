@@ -1,10 +1,10 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,62
-65252,jekyll/jekyll,Ruby,49
-52281283,mastodon/mastodon,Ruby,51
-13840241,freeCodeCamp/devdocs,Ruby,56
+65252,jekyll/jekyll,Ruby,50
+52281283,mastodon/mastodon,Ruby,52
+13840241,freeCodeCamp/devdocs,Ruby,60
 308770,heartcombo/devise,Ruby,24
-73648678,forem/forem,Ruby,40
+73648678,forem/forem,Ruby,38
 18486300,lewagon/setup,Ruby,181
 52855516,Homebrew/homebrew-core,Ruby,29
 1725199,github/linguist,Ruby,31
@@ -15,12 +15,12 @@ id,name,lang,new stars
 16549503,github/scientist,Ruby,12
 211588,paper-trail-gem/paper_trail,Ruby,8
 52316423,luggit/react-native-config,Ruby,10
-417862,octokit/octokit.rb,Ruby,10
+417862,octokit/octokit.rb,Ruby,9
 11426474,github/choosealicense.com,Ruby,9
 93163073,dependabot/dependabot-core,Ruby,14
 200302808,github/view_component,Ruby,7
-212813096,lewagon/data-setup,Ruby,76
+212813096,lewagon/data-setup,Ruby,75
 20343475,googleapis/google-cloud-ruby,Ruby,2
-161399160,Shopify/shopify-cli,Ruby,3
+161399160,Shopify/shopify-cli,Ruby,2
 209731662,ruby/debug,Ruby,8
 66497320,DataDog/dd-trace-rb,Ruby,1
