@@ -1,12 +1,12 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,3
 1864363,composer/composer,PHP,3
-2579314,fzaninotto/Faker,PHP,3
+2579314,fzaninotto/Faker,PHP,2
 2253830,PHPMailer/PHPMailer,PHP,3
 26730195,CachetHQ/Cachet,PHP,1
 61490598,PHPOffice/PhpSpreadsheet,PHP,8
 72069409,the-control-group/voyager,PHP,2
-14259390,SpartnerNL/Laravel-Excel,PHP,6
+14259390,SpartnerNL/Laravel-Excel,PHP,5
 330275,twigphp/Twig,PHP,2
 14716368,invoiceninja/invoiceninja,PHP,3
 6763587,PrestaShop/PrestaShop,PHP,1
@@ -14,13 +14,13 @@ id,name,lang,new stars
 885517,doctrine-extensions/DoctrineExtensions,PHP,0
 38200433,jeroennoten/Laravel-AdminLTE,PHP,0
 96284790,prasathmani/tinyfilemanager,PHP,1
-13914116,librenms/librenms,PHP,0
+13914116,librenms/librenms,PHP,1
 1934695,xdebug/xdebug,PHP,1
 4006755,nelmio/NelmioApiDocBundle,PHP,0
 3614664,PHPCompatibility/PHPCompatibility,PHP,1
 3244931,getsentry/sentry-php,PHP,0
-15231212,Automattic/jetpack,PHP,0
+15231212,Automattic/jetpack,PHP,1
 184538454,yankovalenko94/Webdev2019,PHP,1
-347977932,Shopify/shopify-api-php,PHP,1
+347977932,Shopify/shopify-api-php,PHP,2
 485064852,bradtraversy/laragigs,PHP,1
 272978304,juzaweb/juzacms,PHP,2
