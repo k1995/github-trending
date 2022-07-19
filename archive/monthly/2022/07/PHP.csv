@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,450
+1863329,laravel/laravel,PHP,451
 7548986,laravel/framework,PHP,263
-458058,symfony/symfony,PHP,132
-1864363,composer/composer,PHP,132
+458058,symfony/symfony,PHP,133
+1864363,composer/composer,PHP,130
 2253830,PHPMailer/PHPMailer,PHP,136
-12615154,barryvdh/laravel-debugbar,PHP,135
+12615154,barryvdh/laravel-debugbar,PHP,136
 13899674,thephpleague/flysystem,PHP,45
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,115
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,116
 2884111,magento/magento2,PHP,62
 6660366,dompdf/dompdf,PHP,106
 2179920,woocommerce/woocommerce,PHP,194
@@ -15,11 +15,11 @@ id,name,lang,new stars
 9826184,elastic/elasticsearch-php,PHP,29
 74386167,vimeo/psalm,PHP,62
 148129143,bagisto/bagisto,PHP,73
-60010673,elementor/elementor,PHP,51
+60010673,elementor/elementor,PHP,52
 47508644,pterodactyl/panel,PHP,370
-248372441,filamentphp/filament,PHP,351
+248372441,filamentphp/filament,PHP,352
 291805291,laravel/jetstream,PHP,38
-141720301,dr5hn/countries-states-cities-database,PHP,167
+141720301,dr5hn/countries-states-cities-database,PHP,168
 69691727,pmmp/PocketMine-MP,PHP,46
-12063996,osTicket/osTicket,PHP,34
+12063996,osTicket/osTicket,PHP,33
 311448648,laravel/breeze,PHP,50
