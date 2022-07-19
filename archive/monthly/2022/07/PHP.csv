@@ -1,8 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,461
 7548986,laravel/framework,PHP,270
 458058,symfony/symfony,PHP,132
-1864363,composer/composer,PHP,135
+1864363,composer/composer,PHP,136
 2253830,PHPMailer/PHPMailer,PHP,136
 13899674,thephpleague/flysystem,PHP,47
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,120
@@ -10,16 +9,15 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,106
 2179920,woocommerce/woocommerce,PHP,195
 14716368,invoiceninja/invoiceninja,PHP,55
-14346979,snipe/snipe-it,PHP,316
+14346979,snipe/snipe-it,PHP,313
 6269013,aws/aws-sdk-php,PHP,31
 9826184,elastic/elasticsearch-php,PHP,30
 74386167,vimeo/psalm,PHP,62
-148129143,bagisto/bagisto,PHP,78
+148129143,bagisto/bagisto,PHP,77
 60010673,elementor/elementor,PHP,52
-47508644,pterodactyl/panel,PHP,372
+47508644,pterodactyl/panel,PHP,371
 248372441,filamentphp/filament,PHP,352
-141720301,dr5hn/countries-states-cities-database,PHP,167
 69691727,pmmp/PocketMine-MP,PHP,46
 12063996,osTicket/osTicket,PHP,33
 311448648,laravel/breeze,PHP,51
-423320216,tinyphporg/tinyphp,PHP,144
+423320216,tinyphporg/tinyphp,PHP,143
