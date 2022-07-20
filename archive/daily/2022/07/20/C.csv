@@ -1,15 +1,15 @@
 id,name,lang,new stars
 102578345,coolsnowwolf/lede,C,26
-6201092,mpv-player/mpv,C,48
-7634677,openssl/openssl,C,9
-66150122,jarun/nnn,C,17
+6201092,mpv-player/mpv,C,38
+7634677,openssl/openssl,C,10
+66150122,jarun/nnn,C,16
 3199002,raspberrypi/linux,C,1
 70127218,espressif/arduino-esp32,C,5
 3319040,id-Software/DOOM,C,8
-18106269,lz4/lz4,C,8
+18106269,lz4/lz4,C,9
 13310527,jemalloc/jemalloc,C,10
 19330466,Cyan4973/xxHash,C,5
-214011414,kingToolbox/WindTerm,C,21
+214011414,kingToolbox/WindTerm,C,19
 1286805,xianyi/OpenBLAS,C,2
 23007417,colmap/colmap,C,5
 27788471,mgba-emu/mgba,C,4
@@ -17,7 +17,7 @@ id,name,lang,new stars
 189044704,AFLplusplus/AFLplusplus,C,3
 39042157,spdk/spdk,C,1
 284134871,flipperdevices/flipperzero-firmware,C,14
-23780138,riscv-collab/riscv-gnu-toolchain,C,1
+23780138,riscv-collab/riscv-gnu-toolchain,C,2
 70934373,Azure/azure-iot-sdk-c,C,0
 121516035,nrfconnect/sdk-nrf,C,1
 403314395,48d31kh413k/1337-Piscine-42,C,2

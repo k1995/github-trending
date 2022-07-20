@@ -1,7 +1,7 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,287
+83222441,donnemartin/system-design-primer,Python,272
 4578002,faif/python-patterns,Python,33
-84533158,yunjey/pytorch-tutorial,Python,52
+84533158,yunjey/pytorch-tutorial,Python,44
 91629816,freqtrade/freqtrade,Python,143
 45723377,charlax/professional-programming,Python,505
 143328315,mindsdb/mindsdb,Python,85
@@ -22,5 +22,5 @@ id,name,lang,new stars
 454288517,kraanzu/termtyper,Python,54
 511262077,hkchengrex/XMem,Python,102
 502180027,oppsec/Pinkerton,Python,23
-507577392,PwnFunction/v8-randomness-predictor,Python,8
+507577392,PwnFunction/v8-randomness-predictor,Python,7
 433298785,fossabot/typoraCracker,Python,62
