@@ -1,0 +1,26 @@
+id,name,lang,new stars
+48378947,fatedier/frp,Go,44
+13855476,go-gorm/gorm,Go,25
+12574344,spf13/cobra,Go,42
+14125254,hashicorp/consul,Go,11
+31288958,hashicorp/vault,Go,12
+18369373,spf13/viper,Go,26
+8966356,hashicorp/packer,Go,5
+118654121,GoogleContainerTools/skaffold,Go,6
+33258973,influxdata/telegraf,Go,5
+46089560,containerd/containerd,Go,8
+161951219,wailsapp/wails,Go,323
+146641150,tektoncd/pipeline,Go,5
+92969352,moby/buildkit,Go,3
+206213815,chaos-mesh/chaos-mesh,Go,9
+25872841,spf13/afero,Go,14
+44087204,google/syzkaller,Go,3
+333303663,bytebase/bytebase,Go,25
+278480393,aws/karpenter,Go,5
+136494223,kubernetes-sigs/controller-runtime,Go,3
+188836864,ledgerwatch/erigon,Go,8
+509987354,loov/lensm,Go,313
+503167251,kevwan/tproxy,Go,67
+465143795,ethminerpro/minerproxy,Go,7
+505278571,hktalent/scan4all,Go,59
+449811452,dominikbraun/graph,Go,23
