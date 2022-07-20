@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,267
-65252,jekyll/jekyll,Ruby,201
-7569578,discourse/discourse,Ruby,230
+8514,rails/rails,Ruby,266
+65252,jekyll/jekyll,Ruby,203
+7569578,discourse/discourse,Ruby,227
 27442967,fastlane/fastlane,Ruby,539
-53238813,Homebrew/brew,Ruby,390
-481872,hashicorp/vagrant,Ruby,186
+53238813,Homebrew/brew,Ruby,391
+481872,hashicorp/vagrant,Ruby,184
 308770,heartcombo/devise,Ruby,95
-37382858,kilimchoi/engineering-blogs,Ruby,187
-2203645,CocoaPods/CocoaPods,Ruby,53
-18486300,lewagon/setup,Ruby,675
+37382858,kilimchoi/engineering-blogs,Ruby,188
+2203645,CocoaPods/CocoaPods,Ruby,52
+18486300,lewagon/setup,Ruby,670
 202291859,chatwoot/chatwoot,Ruby,502
-1090311,elastic/logstash,Ruby,65
+1090311,elastic/logstash,Ruby,66
 4095287,rubocop/rubocop,Ruby,80
 52855516,Homebrew/homebrew-core,Ruby,106
-1918677,fluent/fluentd,Ruby,103
+1918677,fluent/fluentd,Ruby,101
 96395,faker-ruby/faker,Ruby,70
 1725199,github/linguist,Ruby,123
 52316423,luggit/react-native-config,Ruby,44
@@ -21,6 +21,6 @@ id,name,lang,new stars
 10088951,TheOdinProject/theodinproject,Ruby,71
 9831101,elastic/elasticsearch-ruby,Ruby,8
 212813096,lewagon/data-setup,Ruby,190
-66497320,DataDog/dd-trace-rb,Ruby,10
+66497320,DataDog/dd-trace-rb,Ruby,11
 212272090,CMSgov/price-transparency-guide,Ruby,28
 279271772,DataDog/datadog-api-client-ruby,Ruby,1
