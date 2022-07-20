@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,63
+8514,rails/rails,Ruby,62
 65252,jekyll/jekyll,Ruby,48
-53238813,Homebrew/brew,Ruby,97
-52281283,mastodon/mastodon,Ruby,51
-73648678,forem/forem,Ruby,41
-3195124,mperham/sidekiq,Ruby,10
-52855516,Homebrew/homebrew-core,Ruby,28
-96395,faker-ruby/faker,Ruby,13
+53238813,Homebrew/brew,Ruby,98
+52281283,mastodon/mastodon,Ruby,49
+73648678,forem/forem,Ruby,40
+3195124,mperham/sidekiq,Ruby,11
+52855516,Homebrew/homebrew-core,Ruby,30
+96395,faker-ruby/faker,Ruby,14
 1725199,github/linguist,Ruby,35
 15435,Shopify/liquid,Ruby,21
 21829,thoughtbot/factory_bot,Ruby,10
@@ -16,11 +16,11 @@ id,name,lang,new stars
 1952825,Homebrew/homebrew-bundle,Ruby,13
 417862,octokit/octokit.rb,Ruby,10
 5144181,jnunemaker/flipper,Ruby,9
-11426474,github/choosealicense.com,Ruby,11
+11426474,github/choosealicense.com,Ruby,12
 93163073,dependabot/dependabot-core,Ruby,12
 200302808,github/view_component,Ruby,8
 20343475,googleapis/google-cloud-ruby,Ruby,2
 161399160,Shopify/shopify-cli,Ruby,1
 209731662,ruby/debug,Ruby,5
 66497320,DataDog/dd-trace-rb,Ruby,2
-267735390,jcsalterego/jqq,Ruby,68
+267735390,jcsalterego/jqq,Ruby,67
