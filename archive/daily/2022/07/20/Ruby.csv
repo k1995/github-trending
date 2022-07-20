@@ -1,10 +1,10 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,9
-13840241,freeCodeCamp/devdocs,Ruby,14
-2293158,rapid7/metasploit-framework,Ruby,15
+27442967,fastlane/fastlane,Ruby,10
+13840241,freeCodeCamp/devdocs,Ruby,12
+2293158,rapid7/metasploit-framework,Ruby,10
 308770,heartcombo/devise,Ruby,4
 37382858,kilimchoi/engineering-blogs,Ruby,5
-1090311,elastic/logstash,Ruby,1
+1090311,elastic/logstash,Ruby,2
 3195124,mperham/sidekiq,Ruby,3
 3314,spree/spree,Ruby,2
 1918677,fluent/fluentd,Ruby,3
@@ -13,14 +13,14 @@ id,name,lang,new stars
 451035,heartcombo/simple_form,Ruby,0
 2441517,puma/puma,Ruby,0
 108278,chef/chef,Ruby,2
-865250,presidentbeef/brakeman,Ruby,2
-11412473,ankane/searchkick,Ruby,2
+865250,presidentbeef/brakeman,Ruby,3
+11412473,ankane/searchkick,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,1
 52316423,luggit/react-native-config,Ruby,0
-46698467,ankane/strong_migrations,Ruby,8
+46698467,ankane/strong_migrations,Ruby,6
 14238949,elastic/elasticsearch-rails,Ruby,0
 7362671,rails/spring,Ruby,0
-200302808,github/view_component,Ruby,3
+200302808,github/view_component,Ruby,2
 20388420,markdownlint/markdownlint,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,1
