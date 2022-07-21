@@ -11,7 +11,7 @@ id,name,lang,new stars
 198683574,dolthub/dolt,Go,16
 66841911,qax-os/excelize,Go,10
 46089560,containerd/containerd,Go,17
-100982449,argoproj/argo-workflows,Go,8
+100982449,argoproj/argo-workflows,Go,7
 148545807,kubernetes-sigs/kind,Go,7
 161951219,wailsapp/wails,Go,320
 79921099,chromedp/chromedp,Go,11
@@ -20,7 +20,7 @@ id,name,lang,new stars
 52481933,navidrome/navidrome,Go,25
 79585104,matrix-org/dendrite,Go,9
 335952417,sigstore/cosign,Go,3
-432717637,duke-git/lancet,Go,56
 503167251,kevwan/tproxy,Go,233
-505278571,hktalent/scan4all,Go,87
+432717637,duke-git/lancet,Go,56
+505278571,hktalent/scan4all,Go,94
 462985126,TERITORI/teritori-chain,Go,4

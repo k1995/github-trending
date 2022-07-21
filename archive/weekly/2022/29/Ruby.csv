@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,64
+8514,rails/rails,Ruby,62
 65252,jekyll/jekyll,Ruby,48
 53238813,Homebrew/brew,Ruby,93
 52281283,mastodon/mastodon,Ruby,50
 2500088,gitlabhq/gitlabhq,Ruby,15
-73648678,forem/forem,Ruby,32
+73648678,forem/forem,Ruby,34
 18486300,lewagon/setup,Ruby,175
-138312,capistrano/capistrano,Ruby,16
+138312,capistrano/capistrano,Ruby,14
 52855516,Homebrew/homebrew-core,Ruby,28
 1725199,github/linguist,Ruby,37
 15435,Shopify/liquid,Ruby,20
@@ -18,7 +18,7 @@ id,name,lang,new stars
 1952825,Homebrew/homebrew-bundle,Ruby,13
 11426474,github/choosealicense.com,Ruby,12
 904810,rubysherpas/paranoia,Ruby,1
-200302808,github/view_component,Ruby,8
+200302808,github/view_component,Ruby,7
 20343475,googleapis/google-cloud-ruby,Ruby,2
 161399160,Shopify/shopify-cli,Ruby,2
 66497320,DataDog/dd-trace-rb,Ruby,3
