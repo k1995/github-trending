@@ -1,26 +1,26 @@
 id,name,lang,new stars
 13491895,EbookFoundation/free-programming-books,,6593
-60493101,jwasham/coding-interview-university,,4604
+60493101,jwasham/coding-interview-university,,4640
 21737465,sindresorhus/awesome,,5569
-112507086,30-seconds/30-seconds-of-code,JavaScript,3605
+112507086,30-seconds/30-seconds-of-code,JavaScript,3631
 16408992,neovim/neovim,Vim script,1414
 257485422,vitejs/vite,TypeScript,1752
-162998479,sherlock-project/sherlock,Python,1689
+162998479,sherlock-project/sherlock,Python,1691
 40997482,vim/vim,Vim script,708
-42489829,rust-lang/rustlings,Rust,2132
-237791077,mingrammer/diagrams,Python,5158
-101782647,facebookresearch/fairseq,Python,1325
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,1133
+42489829,rust-lang/rustlings,Rust,2133
+237791077,mingrammer/diagrams,Python,4974
+101782647,facebookresearch/fairseq,Python,1326
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,1134
 40276274,ziglang/zig,Zig,1918
-323048702,OpenBB-finance/OpenBBTerminal,Python,813
-372240402,alan2207/bulletproof-react,TypeScript,1437
-208728772,milvus-io/milvus,Go,775
-161951219,wailsapp/wails,Go,2195
-365263843,denoland/fresh,TypeScript,5309
-241176242,girliemac/a-picture-is-worth-a-1000-words,,3529
-182849188,delta-io/delta,Scala,548
-330914717,unifyai/ivy,Python,1548
-402945349,StarRocks/starrocks,C++,339
-390607649,Tencent/spring-cloud-tencent,Java,1499
-461824274,rxyhn/dotfiles,Lua,1037
-490465859,UberGuidoZ/Flipper,Python,348
+323048702,OpenBB-finance/OpenBBTerminal,Python,843
+372240402,alan2207/bulletproof-react,TypeScript,1449
+208728772,milvus-io/milvus,Go,776
+161951219,wailsapp/wails,Go,2211
+365263843,denoland/fresh,TypeScript,5325
+241176242,girliemac/a-picture-is-worth-a-1000-words,,3462
+182849188,delta-io/delta,Scala,545
+330914717,unifyai/ivy,Python,1546
+402945349,StarRocks/starrocks,C++,342
+390607649,Tencent/spring-cloud-tencent,Java,1488
+461824274,rxyhn/dotfiles,Lua,1038
+490465859,UberGuidoZ/Flipper,Python,352
