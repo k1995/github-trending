@@ -1,17 +1,17 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,5
+27442967,fastlane/fastlane,Ruby,4
 2293158,rapid7/metasploit-framework,Ruby,13
-481872,hashicorp/vagrant,Ruby,10
+481872,hashicorp/vagrant,Ruby,11
 308770,heartcombo/devise,Ruby,1
-538746,ruby/ruby,Ruby,2
+538746,ruby/ruby,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,7
+202291859,chatwoot/chatwoot,Ruby,10
 1090311,elastic/logstash,Ruby,3
 3195124,mperham/sidekiq,Ruby,2
-4095287,rubocop/rubocop,Ruby,0
+4095287,rubocop/rubocop,Ruby,1
 3314,spree/spree,Ruby,1
-1918677,fluent/fluentd,Ruby,3
-15435,Shopify/liquid,Ruby,1
+1918677,fluent/fluentd,Ruby,4
+15435,Shopify/liquid,Ruby,2
 611921,activeadmin/activeadmin,Ruby,1
 47087,carrierwaveuploader/carrierwave,Ruby,0
 451035,heartcombo/simple_form,Ruby,0
@@ -20,7 +20,7 @@ id,name,lang,new stars
 16994115,CanCanCommunity/cancancan,Ruby,2
 1462,ctran/annotate_models,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,1
-641512,openstreetmap/openstreetmap-website,Ruby,2
+641512,openstreetmap/openstreetmap-website,Ruby,1
 238972,rspec/rspec-core,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 188880371,Shopify/tapioca,Ruby,0
