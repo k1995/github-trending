@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,6658
-21737465,sindresorhus/awesome,,5714
-132750724,codecrafters-io/build-your-own-x,,12104
-112507086,30-seconds/30-seconds-of-code,JavaScript,3823
-16408992,neovim/neovim,Vim script,1384
-257485422,vitejs/vite,TypeScript,1797
-162998479,sherlock-project/sherlock,Python,1707
+13491895,EbookFoundation/free-programming-books,,6660
+21737465,sindresorhus/awesome,,5728
+132750724,codecrafters-io/build-your-own-x,,12200
+112507086,30-seconds/30-seconds-of-code,JavaScript,3840
+16408992,neovim/neovim,Vim script,1385
+257485422,vitejs/vite,TypeScript,1803
+162998479,sherlock-project/sherlock,Python,1713
 40997482,vim/vim,Vim script,715
-42489829,rust-lang/rustlings,Rust,2193
+42489829,rust-lang/rustlings,Rust,2206
 101782647,facebookresearch/fairseq,Python,1357
-40276274,ziglang/zig,Zig,1996
-323048702,OpenBB-finance/OpenBBTerminal,Python,1856
-372240402,alan2207/bulletproof-react,TypeScript,1508
+40276274,ziglang/zig,Zig,2009
+323048702,OpenBB-finance/OpenBBTerminal,Python,1920
+372240402,alan2207/bulletproof-react,TypeScript,1520
 45363955,lionsoul2014/ip2region,Java,540
-197515838,shengcaishizhan/kkndme_tianya,,1317
+197515838,shengcaishizhan/kkndme_tianya,,1323
 161951219,wailsapp/wails,Go,2271
-365263843,denoland/fresh,TypeScript,5345
-182849188,delta-io/delta,Scala,553
+365263843,denoland/fresh,TypeScript,5338
+182849188,delta-io/delta,Scala,556
 330914717,unifyai/ivy,Python,1561
-506323402,yandex/YaLM-100B,Python,2948
-390607649,Tencent/spring-cloud-tencent,Java,1348
-503236212,laravel/pint,PHP,1903
-94652781,still-scene/t3,C#,1197
-491539130,cloudwego/hertz,Go,1037
-490465859,UberGuidoZ/Flipper,Python,381
+506323402,yandex/YaLM-100B,Python,2949
+390607649,Tencent/spring-cloud-tencent,Java,1340
+503236212,laravel/pint,PHP,1822
+94652781,still-scene/t3,C#,1205
+491539130,cloudwego/hertz,Go,1022
+490465859,UberGuidoZ/Flipper,Python,382
