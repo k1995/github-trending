@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,20
-3482588,danielmiessler/SecLists,PHP,26
+1863329,laravel/laravel,PHP,19
+3482588,danielmiessler/SecLists,PHP,23
 7548986,laravel/framework,PHP,19
 458058,symfony/symfony,PHP,9
 2579314,fzaninotto/Faker,PHP,1
-1376664,Seldaek/monolog,PHP,0
+1376664,Seldaek/monolog,PHP,1
 448045,sebastianbergmann/phpunit,PHP,1
 7704544,Intervention/image,PHP,3
 2884111,magento/magento2,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,4
 11340559,deployphp/deployer,PHP,3
 330275,twigphp/Twig,PHP,2
-9791525,digininja/DVWA,PHP,4
+9791525,digininja/DVWA,PHP,5
 4242230,PHPOffice/PHPWord,PHP,5
 28257573,flarum/framework,PHP,4
 6269013,aws/aws-sdk-php,PHP,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 129852395,assimon/dujiaoka,PHP,15
 56836583,postaddictme/instagram-php-scraper,PHP,5
 12063996,osTicket/osTicket,PHP,3
-400984450,kuaifan/dootask,PHP,3
-410524724,nunomaduro/termwind,PHP,26
-449470351,hammerstonedev/fast-paginate,PHP,5
+400984450,kuaifan/dootask,PHP,4
+410524724,nunomaduro/termwind,PHP,23
+449470351,hammerstonedev/fast-paginate,PHP,6
