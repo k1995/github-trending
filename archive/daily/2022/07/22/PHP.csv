@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,22
-3482588,danielmiessler/SecLists,PHP,26
+1863329,laravel/laravel,PHP,21
+3482588,danielmiessler/SecLists,PHP,25
 7548986,laravel/framework,PHP,20
 458058,symfony/symfony,PHP,8
-2579314,fzaninotto/Faker,PHP,2
+2579314,fzaninotto/Faker,PHP,1
 1376664,Seldaek/monolog,PHP,0
 448045,sebastianbergmann/phpunit,PHP,1
 7704544,Intervention/image,PHP,2
@@ -12,15 +12,15 @@ id,name,lang,new stars
 11340559,deployphp/deployer,PHP,3
 330275,twigphp/Twig,PHP,3
 9791525,digininja/DVWA,PHP,4
-4242230,PHPOffice/PHPWord,PHP,3
-28257573,flarum/framework,PHP,4
+4242230,PHPOffice/PHPWord,PHP,4
+28257573,flarum/framework,PHP,3
 6269013,aws/aws-sdk-php,PHP,1
 159606650,hyperf/hyperf,PHP,4
-291805291,laravel/jetstream,PHP,1
+291805291,laravel/jetstream,PHP,0
 18842338,facebookarchive/php-graph-sdk,PHP,0
 129852395,assimon/dujiaoka,PHP,15
 56836583,postaddictme/instagram-php-scraper,PHP,4
-12063996,osTicket/osTicket,PHP,4
-400984450,kuaifan/dootask,PHP,2
-410524724,nunomaduro/termwind,PHP,24
+12063996,osTicket/osTicket,PHP,3
+400984450,kuaifan/dootask,PHP,1
+410524724,nunomaduro/termwind,PHP,25
 449470351,hammerstonedev/fast-paginate,PHP,4
