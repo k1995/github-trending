@@ -1,13 +1,13 @@
 id,name,lang,new stars
 81598961,python/cpython,Python,46
 264818686,ultralytics/yolov5,Python,36
-28751632,0xAX/linux-insides,Python,14
+28751632,0xAX/linux-insides,Python,10
 206660580,facebookresearch/detectron2,Python,17
 123303402,python-poetry/poetry,Python,18
-45723377,charlax/professional-programming,Python,193
-70908208,RasaHQ/rasa,Python,7
+45723377,charlax/professional-programming,Python,151
+70908208,RasaHQ/rasa,Python,11
 323048702,OpenBB-finance/OpenBBTerminal,Python,846
-91594105,ansible/awx,Python,6
+91594105,ansible/awx,Python,9
 222751131,Asabeneh/30-Days-Of-Python,Python,52
 287463830,microsoft/qlib,Python,100
 131881622,NVIDIA/DeepLearningExamples,Python,132
@@ -17,7 +17,7 @@ id,name,lang,new stars
 56217288,confluentinc/confluent-kafka-python,Python,2
 324295142,TurboWay/bigdata_analyse,Python,30
 438565846,NVlabs/eg3d,Python,32
-291783502,facebookresearch/esm,Python,9
+291783502,facebookresearch/esm,Python,7
 510380884,code-kern-ai/refinery,Python,73
 429570359,facebookresearch/theseus,Python,81
 511262077,hkchengrex/XMem,Python,124
