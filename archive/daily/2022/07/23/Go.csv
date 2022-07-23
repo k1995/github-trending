@@ -1,0 +1,26 @@
+id,name,lang,new stars
+12574344,spf13/cobra,Go,33
+31288958,hashicorp/vault,Go,161
+37448451,mattermost/mattermost-server,Go,14
+129717717,grafana/loki,Go,12
+198683574,dolthub/dolt,Go,19
+48109239,cilium/cilium,Go,17
+7877397,jmoiron/sqlx,Go,10
+66841911,qax-os/excelize,Go,20
+208728772,milvus-io/milvus,Go,11
+144849757,labring/sealos,Go,20
+27576132,aws/aws-sdk-go,Go,12
+93444615,hashicorp/terraform-provider-aws,Go,6
+21306961,fsnotify/fsnotify,Go,13
+150954997,VictoriaMetrics/VictoriaMetrics,Go,19
+273871859,juanfont/headscale,Go,50
+44087204,google/syzkaller,Go,4
+52481933,navidrome/navidrome,Go,36
+93446042,hashicorp/terraform-provider-azurerm,Go,3
+267713284,projectdiscovery/httpx,Go,10
+187086161,open-telemetry/opentelemetry-go,Go,12
+385634291,grafana/mimir,Go,7
+503167251,kevwan/tproxy,Go,116
+93446075,hashicorp/terraform-provider-google,Go,1
+432717637,duke-git/lancet,Go,22
+505278571,hktalent/scan4all,Go,106
