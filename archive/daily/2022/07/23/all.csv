@@ -5,14 +5,14 @@ id,name,lang,new stars
 52631841,gothinkster/realworld,Shell,108
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,82
 172953845,coder/code-server,TypeScript,47
-229764465,Asabeneh/30-Days-Of-JavaScript,JavaScript,124
-17372733,OAI/OpenAPI-Specification,JavaScript,51
+229764465,Asabeneh/30-Days-Of-JavaScript,JavaScript,125
+17372733,OAI/OpenAPI-Specification,JavaScript,50
 41592744,AllThingsSmitty/css-protips,,39
-85541218,ascoders/weekly,JavaScript,21
+85541218,ascoders/weekly,JavaScript,33
 313330998,bradtraversy/50projects50days,CSS,78
 262395224,dotnet/maui,C#,8
-323048702,OpenBB-finance/OpenBBTerminal,Python,613
-259463685,carbon-language/carbon-lang,C++,2657
+323048702,OpenBB-finance/OpenBBTerminal,Python,614
+259463685,carbon-language/carbon-lang,C++,2809
 372240402,alan2207/bulletproof-react,TypeScript,68
 96395,faker-ruby/faker,Ruby,4
 66474729,prowler-cloud/prowler,Shell,45
@@ -21,6 +21,6 @@ id,name,lang,new stars
 438565846,NVlabs/eg3d,Python,39
 498011141,huggingface/diffusers,Python,93
 509642428,eryajf/HowToStartOpenSource,JavaScript,51
-513948490,Celthi/effective-debugging-zh,,25
+513948490,Celthi/effective-debugging-zh,,26
 358178748,anlingyi/xechat-idea,Java,1
 515581938,randorisec/CVE-2022-34918-LPE-PoC,C,23
