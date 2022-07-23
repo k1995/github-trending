@@ -1,6 +1,6 @@
 id,name,lang,new stars
 23096959,golang/go,Go,301
-7691631,moby/moby,Go,82
+7691631,moby/moby,Go,81
 11180687,gohugoio/hugo,Go,250
 8989842,unknwon/the-way-to-go_ZH_CN,Go,266
 134017286,jesseduffield/lazygit,Go,161
@@ -8,7 +8,7 @@ id,name,lang,new stars
 14125254,hashicorp/consul,Go,57
 31288958,hashicorp/vault,Go,481
 8966356,hashicorp/packer,Go,33
-20653934,google/cadvisor,Go,44
+20653934,google/cadvisor,Go,47
 48109239,cilium/cilium,Go,75
 161951219,wailsapp/wails,Go,1284
 11753762,cheat/cheat,Go,56

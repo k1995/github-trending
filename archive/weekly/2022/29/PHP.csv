@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,106
 7548986,laravel/framework,PHP,77
-458058,symfony/symfony,PHP,41
+458058,symfony/symfony,PHP,40
 2579314,fzaninotto/Faker,PHP,24
 60243197,nextcloud/server,PHP,44
 3431193,yiisoft/yii2,PHP,8
@@ -10,15 +10,15 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,21
 11340559,deployphp/deployer,PHP,19
 21298446,firefly-iii/firefly-iii,PHP,42
-14346979,snipe/snipe-it,PHP,63
-9791525,digininja/DVWA,PHP,28
+14346979,snipe/snipe-it,PHP,53
+9791525,digininja/DVWA,PHP,27
 148129143,bagisto/bagisto,PHP,32
-139191005,nunomaduro/larastan,PHP,16
-248372441,filamentphp/filament,PHP,83
+139191005,nunomaduro/larastan,PHP,15
+248372441,filamentphp/filament,PHP,81
 8077402,MISP/MISP,PHP,19
 291805291,laravel/jetstream,PHP,8
 182349597,jqhph/dcat-admin,PHP,17
-12063996,osTicket/osTicket,PHP,12
+12063996,osTicket/osTicket,PHP,11
 96090745,ambionics/phpggc,PHP,13
 174021137,inertiajs/pingcrm,PHP,5
 433383766,nextcloud/all-in-one,PHP,19
