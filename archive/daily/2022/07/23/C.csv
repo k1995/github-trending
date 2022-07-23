@@ -1,9 +1,9 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,68
-10446890,bilibili/ijkplayer,C,6
-14812739,libuv/libuv,C,8
+10446890,bilibili/ijkplayer,C,4
+14812739,libuv/libuv,C,7
 196353673,taosdata/TDengine,C,1
-1856976,libevent/libevent,C,4
+1856976,libevent/libevent,C,5
 70127218,espressif/arduino-esp32,C,5
 65899476,espressif/esp-idf,C,8
 5383731,qemu/qemu,C,8
@@ -14,7 +14,7 @@ id,name,lang,new stars
 44781140,greenplum-db/gpdb,C,2
 469303019,ehids/ecapture,C,8
 58132544,RediSearch/RediSearch,C,4
-27359183,guanzhi/GmSSL,C,22
+27359183,guanzhi/GmSSL,C,13
 128909919,FeralInteractive/gamemode,C,16
 34807561,nanopb/nanopb,C,5
 11233590,coreutils/coreutils,C,6
