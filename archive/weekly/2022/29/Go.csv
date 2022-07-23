@@ -1,13 +1,13 @@
 id,name,lang,new stars
-23096959,golang/go,Go,301
+23096959,golang/go,Go,293
 7691631,moby/moby,Go,81
 11180687,gohugoio/hugo,Go,250
 8989842,unknwon/the-way-to-go_ZH_CN,Go,266
 134017286,jesseduffield/lazygit,Go,161
 12574344,spf13/cobra,Go,212
 14125254,hashicorp/consul,Go,57
-31288958,hashicorp/vault,Go,481
-8966356,hashicorp/packer,Go,33
+31288958,hashicorp/vault,Go,524
+8966356,hashicorp/packer,Go,30
 20653934,google/cadvisor,Go,47
 48109239,cilium/cilium,Go,75
 161951219,wailsapp/wails,Go,1284
@@ -15,8 +15,8 @@ id,name,lang,new stars
 144849757,labring/sealos,Go,90
 11206255,Shopify/sarama,Go,110
 206213815,chaos-mesh/chaos-mesh,Go,44
-482621452,livebud/bud,Go,207
-79585104,matrix-org/dendrite,Go,70
+482621452,livebud/bud,JavaScript,207
+79585104,matrix-org/dendrite,Go,71
 187086161,open-telemetry/opentelemetry-go,Go,41
 503167251,kevwan/tproxy,Go,893
 432717637,duke-git/lancet,Go,206
