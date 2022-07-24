@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,33
+8989842,unknwon/the-way-to-go_ZH_CN,Go,24
+163883279,nektos/act,Go,30
+31288958,hashicorp/vault,Go,67
+43723161,helm/helm,Go,8
+156084530,ehang-io/nps,Go,10
+13628513,sirupsen/logrus,Go,9
+52034309,uber-go/zap,Go,12
+5179099,go-redis/redis,Go,10
+33352201,grpc-ecosystem/grpc-gateway,Go,5
+198683574,dolthub/dolt,Go,50
+33258973,influxdata/telegraf,Go,2
+11593442,golang/groupcache,Go,8
+16554739,elastic/beats,Go,0
+201658460,geektutu/7days-golang,Go,9
+93444615,hashicorp/terraform-provider-aws,Go,1
+274625369,infracost/infracost,Go,7
+21306961,fsnotify/fsnotify,Go,14
+273871859,juanfont/headscale,Go,26
+54435102,benthosdev/benthos,Go,8
+93446042,hashicorp/terraform-provider-azurerm,Go,21
+267713284,projectdiscovery/httpx,Go,15
+311639195,karmada-io/karmada,Go,1
+385634291,grafana/mimir,Go,7
+505278571,hktalent/scan4all,Go,93
