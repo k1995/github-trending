@@ -1,18 +1,18 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1796
-111583593,Genymobile/scrcpy,C,1361
+2325298,torvalds/linux,C,1797
+111583593,Genymobile/scrcpy,C,1357
 1614410,FFmpeg/FFmpeg,C,532
-6201092,mpv-player/mpv,C,400
+6201092,mpv-player/mpv,C,399
 2810292,pbatard/rufus,C,626
 15337142,micropython/micropython,C,435
 65899476,espressif/esp-idf,C,183
-272457606,jart/cosmopolitan,C,460
+272457606,jart/cosmopolitan,C,461
 91493088,ValdikSS/GoodbyeDPI,C,474
-394318710,valinet/ExplorerPatcher,C,622
+394318710,valinet/ExplorerPatcher,C,623
 105944401,yugabyte/yugabyte-db,C,123
 3671479,nmap/nmap,C,137
 5870069,edenhill/librdkafka,C,58
-214011414,kingToolbox/WindTerm,C,653
+214011414,kingToolbox/WindTerm,C,657
 5805256,lua/lua,C,139
 7705639,merbanan/rtl_433,C,106
 385037052,ahrm/sioyek,C,783
@@ -21,6 +21,6 @@ id,name,lang,new stars
 331380723,raspberrypi/pico-sdk,C,146
 331381105,raspberrypi/pico-examples,C,89
 207354223,FreeRTOS/FreeRTOS-Kernel,C,57
-506164578,GPUOpen-Effects/FidelityFX-FSR2,C,361
+506164578,GPUOpen-Effects/FidelityFX-FSR2,C,339
 329933755,pimoroni/pimoroni-pico,C,47
 53432472,Azure/sonic-buildimage,C,12

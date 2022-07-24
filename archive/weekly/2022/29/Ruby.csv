@@ -1,5 +1,5 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,52
+8514,rails/rails,Ruby,54
 65252,jekyll/jekyll,Ruby,45
 27442967,fastlane/fastlane,Ruby,31
 13840241,freeCodeCamp/devdocs,Ruby,82
@@ -7,11 +7,11 @@ id,name,lang,new stars
 18486300,lewagon/setup,Ruby,141
 1090311,elastic/logstash,Ruby,22
 3195124,mperham/sidekiq,Ruby,11
-4095287,rubocop/rubocop,Ruby,11
+4095287,rubocop/rubocop,Ruby,12
 106995,sinatra/sinatra,Ruby,6
 15435,Shopify/liquid,Ruby,20
 812393,ruby-grape/grape,Ruby,4
-6529205,varvet/pundit,Ruby,9
+6529205,varvet/pundit,Ruby,8
 21829,thoughtbot/factory_bot,Ruby,9
 108278,chef/chef,Ruby,16
 447184,rspec/rspec-rails,Ruby,2

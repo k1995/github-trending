@@ -7,7 +7,7 @@ id,name,lang,new stars
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,1
 14259390,SpartnerNL/Laravel-Excel,PHP,3
 48796179,z-song/laravel-admin,PHP,2
-2699935,squizlabs/PHP_CodeSniffer,PHP,2
+2699935,squizlabs/PHP_CodeSniffer,PHP,3
 622166,FriendsOfPHP/Goutte,PHP,0
 364315,predis/predis,PHP,2
 6269013,aws/aws-sdk-php,PHP,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 3193843,drush-ops/drush,PHP,0
 75645659,WordPress/wordpress-develop,PHP,1
 34407154,cweagans/composer-patches,PHP,2
-499717126,flucont/btcloud,PHP,7
+499717126,flucont/btcloud,PHP,5
 161527394,magento/magento-coding-standard,PHP,0
