@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,112
+1863329,laravel/laravel,PHP,110
 7548986,laravel/framework,PHP,83
 458058,symfony/symfony,PHP,41
 60243197,nextcloud/server,PHP,46
@@ -8,13 +8,13 @@ id,name,lang,new stars
 14259390,SpartnerNL/Laravel-Excel,PHP,23
 2884111,magento/magento2,PHP,18
 6936773,php-fig/log,PHP,13
-1398634,symfony/css-selector,PHP,12
+1398634,symfony/css-selector,PHP,11
 2717549,Sylius/Sylius,PHP,13
 9791525,digininja/DVWA,PHP,28
-97311017,rectorphp/rector,PHP,30
+97311017,rectorphp/rector,PHP,29
 9826184,elastic/elasticsearch-php,PHP,6
 159606650,hyperf/hyperf,PHP,25
-148129143,bagisto/bagisto,PHP,30
+148129143,bagisto/bagisto,PHP,29
 8077402,MISP/MISP,PHP,20
 291805291,laravel/jetstream,PHP,7
 129852395,assimon/dujiaoka,PHP,46
