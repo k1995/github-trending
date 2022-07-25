@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,20
-3482588,danielmiessler/SecLists,PHP,18
+1863329,laravel/laravel,PHP,23
+3482588,danielmiessler/SecLists,PHP,20
 60243197,nextcloud/server,PHP,4
 448045,sebastianbergmann/phpunit,PHP,0
 1548202,matomo-org/matomo,PHP,8
 1631570,nikic/PHP-Parser,PHP,0
-11323319,erusev/parsedown,PHP,3
-10157178,egulias/EmailValidator,PHP,1
+11323319,erusev/parsedown,PHP,4
+10157178,egulias/EmailValidator,PHP,3
 6936773,php-fig/log,PHP,0
 1398634,symfony/css-selector,PHP,0
-14346979,snipe/snipe-it,PHP,4
+14346979,snipe/snipe-it,PHP,5
 12204147,mautic/mautic,PHP,2
-34877308,paragonie/awesome-appsec,PHP,8
-60010673,elementor/elementor,PHP,1
-47508644,pterodactyl/panel,PHP,0
+34877308,paragonie/awesome-appsec,PHP,7
+60010673,elementor/elementor,PHP,2
+47508644,pterodactyl/panel,PHP,2
 69691727,pmmp/PocketMine-MP,PHP,0
 189104054,laravel/ui,PHP,1
 216849756,v2board/v2board,PHP,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 143703053,rajkumardusad/IP-Tracer,PHP,1
 443605948,pablouser1/ProxiTok,PHP,3
 499717126,flucont/btcloud,PHP,3
-516667071,protonemedia/laravel-splade,PHP,19
+516667071,protonemedia/laravel-splade,PHP,17
 132146783,koillection/koillection,PHP,6
 512430444,deaaprizal/laract9,PHP,8
