@@ -1,8 +1,8 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,242
+11180687,gohugoio/hugo,Go,241
 41912791,v2ray/v2ray-core,Go,124
 8989842,unknwon/the-way-to-go_ZH_CN,Go,274
-134017286,jesseduffield/lazygit,Go,160
+134017286,jesseduffield/lazygit,Go,162
 12574344,spf13/cobra,Go,212
 14125254,hashicorp/consul,Go,55
 31288958,hashicorp/vault,Go,568
@@ -11,7 +11,7 @@ id,name,lang,new stars
 8966356,hashicorp/packer,Go,28
 20653934,google/cadvisor,Go,47
 7877397,jmoiron/sqlx,Go,44
-161951219,wailsapp/wails,Go,1059
+161951219,wailsapp/wails,Go,1058
 26516975,tylertreat/comcast,Go,342
 184490584,GoogleCloudPlatform/terraformer,Go,88
 10166531,mitchellh/mapstructure,Go,43
@@ -22,5 +22,5 @@ id,name,lang,new stars
 76686583,kubevirt/kubevirt,Go,18
 187086161,open-telemetry/opentelemetry-go,Go,41
 509987354,loov/lensm,Go,1483
-503167251,kevwan/tproxy,Go,937
+503167251,kevwan/tproxy,Go,936
 505278571,hktalent/scan4all,Go,658
