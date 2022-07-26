@@ -1,13 +1,13 @@
 id,name,lang,new stars
-23096959,golang/go,Go,285
+23096959,golang/go,Go,284
 8989842,unknwon/the-way-to-go_ZH_CN,Go,286
-134017286,jesseduffield/lazygit,Go,168
-12574344,spf13/cobra,Go,219
+134017286,jesseduffield/lazygit,Go,167
+12574344,spf13/cobra,Go,212
 14125254,hashicorp/consul,Go,50
 31288958,hashicorp/vault,Go,576
 107286889,schollz/croc,Go,97
-18369373,spf13/viper,Go,142
-8966356,hashicorp/packer,Go,26
+18369373,spf13/viper,Go,139
+8966356,hashicorp/packer,Go,28
 7877397,jmoiron/sqlx,Go,47
 31660590,emirpasic/gods,Go,114
 40684033,mozilla/sops,Go,71
@@ -23,4 +23,4 @@ id,name,lang,new stars
 509987354,loov/lensm,Go,857
 503167251,kevwan/tproxy,Go,907
 254594123,seata/seata-go,Go,38
-505278571,hktalent/scan4all,Go,679
+505278571,hktalent/scan4all,Go,682
