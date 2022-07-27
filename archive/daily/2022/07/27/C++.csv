@@ -1,19 +1,19 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,31
-65600975,pytorch/pytorch,C++,28
-22067521,ocornut/imgui,C++,30
+65600975,pytorch/pytorch,C++,26
+22067521,ocornut/imgui,C++,26
 39840932,google/googletest,C++,14
 98771110,zhongyang219/TrafficMonitor,C++,203
 259463685,carbon-language/carbon-lang,C++,1634
 22394357,osquery/osquery,C++,15
 149111813,Tencent/MMKV,C++,3
-7056202,fmtlib/fmt,C++,4
-311683390,WerWolv/ImHex,C++,37
-420580521,scottbez1/smartknob,C++,31
-59212953,polybar/polybar,C++,15
+7056202,fmtlib/fmt,C++,2
+311683390,WerWolv/ImHex,C++,41
+420580521,scottbez1/smartknob,C++,36
+59212953,polybar/polybar,C++,13
 104231541,abseil/abseil-cpp,C++,5
 267649918,hoffstadt/DearPyGui,C++,9
-131236938,drogonframework/drogon,C++,12
+131236938,drogonframework/drogon,C++,14
 189205663,qinguoyi/TinyWebServer,C++,7
 1204412,TrinityCore/TrinityCore,C++,1
 5973855,CleverRaven/Cataclysm-DDA,C++,26
@@ -23,4 +23,4 @@ id,name,lang,new stars
 135363400,ros-planning/navigation2,C++,1
 362484572,mitsuba-renderer/mitsuba3,C++,29
 441354843,alibaba/DeepRec,C++,1
-441596690,sam-astro/Z-Sharp,C++,9
+441596690,sam-astro/Z-Sharp,C++,13

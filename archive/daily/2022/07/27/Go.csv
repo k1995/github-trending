@@ -1,5 +1,5 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,35
+20580498,kubernetes/kubernetes,Go,36
 17728164,hashicorp/terraform,Go,11
 3577919,beego/beego,Go,46
 6247705,stretchr/testify,Go,12
@@ -15,12 +15,12 @@ id,name,lang,new stars
 66509131,kubernetes/client-go,Go,9
 86164982,gonum/gonum,Go,9
 9120526,jackc/pgx,Go,8
-19799491,tendermint/tendermint,Go,4
+19799491,tendermint/tendermint,Go,2
 120519269,runatlantis/atlantis,Go,13
 77689140,thoas/go-funk,Go,8
-220588935,naiba/nezha,Go,5
-261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,8
+220588935,naiba/nezha,Go,4
+261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,7
 370912548,marmotedu/iam,Go,7
-313628863,external-secrets/external-secrets,Go,9
+313628863,external-secrets/external-secrets,Go,10
 238797860,ethereum-optimism/optimism,Go,8
 391811592,bufbuild/connect-go,Go,7
