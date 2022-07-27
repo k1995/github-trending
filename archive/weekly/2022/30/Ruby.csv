@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,47
+8514,rails/rails,Ruby,45
 65252,jekyll/jekyll,Ruby,48
 7569578,discourse/discourse,Ruby,43
-13840241,freeCodeCamp/devdocs,Ruby,90
-2293158,rapid7/metasploit-framework,Ruby,69
+13840241,freeCodeCamp/devdocs,Ruby,92
+2293158,rapid7/metasploit-framework,Ruby,70
 538746,ruby/ruby,Ruby,31
 1090311,elastic/logstash,Ruby,17
 3195124,mperham/sidekiq,Ruby,14
-4095287,rubocop/rubocop,Ruby,11
-96395,faker-ruby/faker,Ruby,118
-1725199,github/linguist,Ruby,30
+4095287,rubocop/rubocop,Ruby,12
+96395,faker-ruby/faker,Ruby,119
+1725199,github/linguist,Ruby,28
 15435,Shopify/liquid,Ruby,16
 361310,teamcapybara/capybara,Ruby,3
 47087,carrierwaveuploader/carrierwave,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 138776049,sorbet/sorbet,Ruby,3
 11426474,github/choosealicense.com,Ruby,6
 200302808,github/view_component,Ruby,16
-238983,rspec/rspec-mocks,Ruby,0
+238983,rspec/rspec-mocks,Ruby,1
 365723058,learn-co-curriculum/phase-4-creating-a-rails-api,Ruby,0
