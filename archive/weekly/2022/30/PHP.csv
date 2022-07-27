@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,117
-3482588,danielmiessler/SecLists,PHP,147
-7548986,laravel/framework,PHP,89
+3482588,danielmiessler/SecLists,PHP,150
+7548986,laravel/framework,PHP,90
 458058,symfony/symfony,PHP,49
 2889328,WordPress/WordPress,PHP,38
 5724990,briannesbitt/Carbon,PHP,20
@@ -13,14 +13,14 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,37
 12204147,mautic/mautic,PHP,16
 159606650,hyperf/hyperf,PHP,22
-148129143,bagisto/bagisto,PHP,20
+148129143,bagisto/bagisto,PHP,21
 60010673,elementor/elementor,PHP,21
 8077402,MISP/MISP,PHP,21
 291805291,laravel/jetstream,PHP,4
 13044600,salesagility/SuiteCRM,PHP,13
-129852395,assimon/dujiaoka,PHP,47
-12063996,osTicket/osTicket,PHP,12
+129852395,assimon/dujiaoka,PHP,48
+12063996,osTicket/osTicket,PHP,11
 96090745,ambionics/phpggc,PHP,22
 138328462,freescout-helpdesk/freescout,PHP,10
 36526302,pentestmonkey/php-reverse-shell,PHP,18
-499717126,flucont/btcloud,PHP,32
+499717126,flucont/btcloud,PHP,33

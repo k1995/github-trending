@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1613345,DapperLib/Dapper,C#,5
-14964475,AvaloniaUI/Avalonia,C#,9
+1613345,DapperLib/Dapper,C#,6
+14964475,AvaloniaUI/Avalonia,C#,10
 120231691,Ryujinx/Ryujinx,C#,7
 165548191,carlospolop/PEASS-ng,C#,10
 210716005,dotnet/runtime,C#,10
@@ -9,18 +9,18 @@ id,name,lang,new stars
 85953,gitextensions/gitextensions,C#,2
 2928944,Azure/azure-sdk-for-net,C#,2
 10601208,umbraco/Umbraco-CMS,C#,1
-326826023,QuestPDF/QuestPDF,C#,10
+326826023,QuestPDF/QuestPDF,C#,13
 184286875,actions/runner,C#,3
-158405551,GitCredentialManager/git-credential-manager,C#,6
-20342794,MapsterMapper/Mapster,C#,7
+158405551,GitCredentialManager/git-credential-manager,C#,5
+20342794,MapsterMapper/Mapster,C#,8
 342637264,blazorhero/CleanArchitecture,C#,3
 150035938,GhostPack/Rubeus,C#,0
 119571446,dotnet/samples,C#,0
-72268885,robinrodricks/FluentFTP,C#,2
-63984307,dotnet/sdk,C#,2
+72268885,robinrodricks/FluentFTP,C#,3
+63984307,dotnet/sdk,C#,3
 199628708,microsoft/RulesEngine,C#,4
 169556401,radzenhq/radzen-blazor,C#,5
-170988906,testcontainers/testcontainers-dotnet,C#,128
+170988906,testcontainers/testcontainers-dotnet,C#,123
 305202189,dorssel/usbipd-win,C#,8
-145907688,microsoft/fhir-server,C#,3
+145907688,microsoft/fhir-server,C#,2
 515170776,xiaoye97/DinkumChinese,C#,5
