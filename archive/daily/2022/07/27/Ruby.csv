@@ -1,8 +1,8 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,4
-53238813,Homebrew/brew,Ruby,14
-481872,hashicorp/vagrant,Ruby,6
-308770,heartcombo/devise,Ruby,2
+53238813,Homebrew/brew,Ruby,16
+481872,hashicorp/vagrant,Ruby,5
+308770,heartcombo/devise,Ruby,1
 2203645,CocoaPods/CocoaPods,Ruby,2
 202291859,chatwoot/chatwoot,Ruby,4
 3195124,mperham/sidekiq,Ruby,3
@@ -18,7 +18,7 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,0
 16994115,CanCanCommunity/cancancan,Ruby,0
 30985840,solidusio/solidus,Ruby,1
-115859973,ddnexus/pagy,Ruby,3
+115859973,ddnexus/pagy,Ruby,2
 21333814,lynndylanhurley/devise_token_auth,Ruby,0
 614070,rubygems/rubygems,Ruby,0
 3898922,zammad/zammad,Ruby,2
