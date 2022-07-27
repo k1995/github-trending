@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,6639
-21737465,sindresorhus/awesome,,6005
-16408992,neovim/neovim,Vim script,1338
-257485422,vitejs/vite,TypeScript,1852
-58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1082
-162998479,sherlock-project/sherlock,Python,1820
-40997482,vim/vim,Vim script,740
-42489829,rust-lang/rustlings,Rust,2340
-97086543,TheAlgorithms/JavaScript,JavaScript,1033
-101782647,facebookresearch/fairseq,Python,1402
-40276274,ziglang/zig,Zig,2163
-323048702,OpenBB-finance/OpenBBTerminal,Python,2523
+13491895,EbookFoundation/free-programming-books,,6641
+21737465,sindresorhus/awesome,,6009
+85077558,kamranahmedse/developer-roadmap,TypeScript,5774
+132750724,codecrafters-io/build-your-own-x,,13162
+16408992,neovim/neovim,Vim script,1335
+257485422,vitejs/vite,TypeScript,1857
+58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1101
+162998479,sherlock-project/sherlock,Python,1823
+42489829,rust-lang/rustlings,Rust,2327
+97086543,TheAlgorithms/JavaScript,JavaScript,1035
+101782647,facebookresearch/fairseq,Python,1403
+40276274,ziglang/zig,Zig,2177
+323048702,OpenBB-finance/OpenBBTerminal,Python,2529
 372240402,alan2207/bulletproof-react,TypeScript,1633
-45363955,lionsoul2014/ip2region,Java,750
-197515838,shengcaishizhan/kkndme_tianya,,1451
-161951219,wailsapp/wails,Go,2291
-365263843,denoland/fresh,TypeScript,5369
-182849188,delta-io/delta,Scala,572
-330914717,unifyai/ivy,Python,1638
-501076075,meituan/YOLOv6,Jupyter Notebook,2198
-480592980,insidegui/VirtualBuddy,Swift,1226
-438565846,NVlabs/eg3d,Python,416
-506449138,CatVodTVOfficial/TVBoxOSC,Java,715
-426075845,MystenLabs/sui,Rust,512
-490465859,UberGuidoZ/Flipper,Python,493
+45363955,lionsoul2014/ip2region,Java,707
+197515838,shengcaishizhan/kkndme_tianya,,1452
+161951219,wailsapp/wails,Go,2282
+365263843,denoland/fresh,TypeScript,5371
+182849188,delta-io/delta,Scala,571
+330914717,unifyai/ivy,Python,1642
+501076075,meituan/YOLOv6,Jupyter Notebook,2099
+284134871,flipperdevices/flipperzero-firmware,C,484
+438565846,NVlabs/eg3d,Python,414
+426075845,MystenLabs/sui,Rust,513
+490465859,UberGuidoZ/Flipper,Python,499
