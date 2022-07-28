@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,21
+1863329,laravel/laravel,PHP,19
 3482588,danielmiessler/SecLists,PHP,46
 458058,symfony/symfony,PHP,27
 1420053,guzzle/guzzle,PHP,9
-448045,sebastianbergmann/phpunit,PHP,6
-2253830,PHPMailer/PHPMailer,PHP,3
+448045,sebastianbergmann/phpunit,PHP,5
+2253830,PHPMailer/PHPMailer,PHP,5
 12615154,barryvdh/laravel-debugbar,PHP,6
 2884111,magento/magento2,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,4
@@ -13,14 +13,14 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,3
 6763587,PrestaShop/PrestaShop,PHP,1
 9131292,jenssegers/laravel-mongodb,PHP,0
-97311017,rectorphp/rector,PHP,5
+97311017,rectorphp/rector,PHP,4
 41463886,codeigniter4/CodeIgniter4,PHP,2
-248372441,filamentphp/filament,PHP,12
-13914116,librenms/librenms,PHP,3
-17253775,zabbix/zabbix,PHP,5
-74026995,CodelyTV/php-ddd-example,PHP,8
+248372441,filamentphp/filament,PHP,14
+13914116,librenms/librenms,PHP,2
+17253775,zabbix/zabbix,PHP,4
+74026995,CodelyTV/php-ddd-example,PHP,7
 3193843,drush-ops/drush,PHP,0
 131995661,shopware/platform,PHP,1
 75645659,WordPress/wordpress-develop,PHP,0
 422113720,likeyun/liKeYun_Dwz,PHP,2
-512430444,deaaprizal/laract9,PHP,1
+512430444,deaaprizal/laract9,PHP,2
