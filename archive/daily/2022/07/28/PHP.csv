@@ -1,21 +1,21 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,21
-3482588,danielmiessler/SecLists,PHP,35
-458058,symfony/symfony,PHP,11
+1863329,laravel/laravel,PHP,23
+3482588,danielmiessler/SecLists,PHP,46
+458058,symfony/symfony,PHP,27
 1420053,guzzle/guzzle,PHP,9
 448045,sebastianbergmann/phpunit,PHP,6
-2253830,PHPMailer/PHPMailer,PHP,6
+2253830,PHPMailer/PHPMailer,PHP,5
 12615154,barryvdh/laravel-debugbar,PHP,6
 2884111,magento/magento2,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,4
-11340559,deployphp/deployer,PHP,21
+11340559,deployphp/deployer,PHP,27
 597887,doctrine/orm,PHP,3
 2179920,woocommerce/woocommerce,PHP,3
 6763587,PrestaShop/PrestaShop,PHP,2
 9131292,jenssegers/laravel-mongodb,PHP,0
 97311017,rectorphp/rector,PHP,5
 41463886,codeigniter4/CodeIgniter4,PHP,1
-248372441,filamentphp/filament,PHP,14
+248372441,filamentphp/filament,PHP,12
 13914116,librenms/librenms,PHP,3
 17253775,zabbix/zabbix,PHP,5
 74026995,CodelyTV/php-ddd-example,PHP,8

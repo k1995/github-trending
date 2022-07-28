@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,6547
-21737465,sindresorhus/awesome,,6039
-85077558,kamranahmedse/developer-roadmap,TypeScript,5781
-132750724,codecrafters-io/build-your-own-x,,13228
-16408992,neovim/neovim,Vim script,1329
-257485422,vitejs/vite,TypeScript,1864
-58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1103
-162998479,sherlock-project/sherlock,Python,1828
+13491895,EbookFoundation/free-programming-books,,6499
+21737465,sindresorhus/awesome,,6045
+85077558,kamranahmedse/developer-roadmap,TypeScript,5755
+132750724,codecrafters-io/build-your-own-x,,13246
+16408992,neovim/neovim,Vim script,1324
+257485422,vitejs/vite,TypeScript,1869
+58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1122
+162998479,sherlock-project/sherlock,Python,1825
 42489829,rust-lang/rustlings,Rust,2349
-97086543,TheAlgorithms/JavaScript,JavaScript,1033
-101782647,facebookresearch/fairseq,Python,1407
-40276274,ziglang/zig,Zig,2179
+97086543,TheAlgorithms/JavaScript,JavaScript,1037
+101782647,facebookresearch/fairseq,Python,1408
+40276274,ziglang/zig,Zig,2183
 323048702,OpenBB-finance/OpenBBTerminal,Python,2551
-372240402,alan2207/bulletproof-react,TypeScript,1637
+372240402,alan2207/bulletproof-react,TypeScript,1639
 45363955,lionsoul2014/ip2region,Java,761
 197515838,shengcaishizhan/kkndme_tianya,,1454
-161951219,wailsapp/wails,Go,2289
-365263843,denoland/fresh,TypeScript,5380
+161951219,wailsapp/wails,Go,2290
+365263843,denoland/fresh,TypeScript,5382
 182849188,delta-io/delta,Scala,569
-330914717,unifyai/ivy,Python,1638
-501076075,meituan/YOLOv6,Jupyter Notebook,1943
-284134871,flipperdevices/flipperzero-firmware,C,510
-438565846,NVlabs/eg3d,Python,419
-426075845,MystenLabs/sui,Rust,521
-490465859,UberGuidoZ/Flipper,Python,511
+330914717,unifyai/ivy,Python,1639
+501076075,meituan/YOLOv6,Jupyter Notebook,1925
+284134871,flipperdevices/flipperzero-firmware,C,517
+438565846,NVlabs/eg3d,Python,420
+426075845,MystenLabs/sui,Rust,522
+490465859,UberGuidoZ/Flipper,Python,514
