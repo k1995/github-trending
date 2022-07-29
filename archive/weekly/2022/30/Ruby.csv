@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,48
-65252,jekyll/jekyll,Ruby,47
-7569578,discourse/discourse,Ruby,41
+8514,rails/rails,Ruby,47
+65252,jekyll/jekyll,Ruby,45
+7569578,discourse/discourse,Ruby,39
 13840241,freeCodeCamp/devdocs,Ruby,83
 2293158,rapid7/metasploit-framework,Ruby,70
-538746,ruby/ruby,Ruby,25
-1090311,elastic/logstash,Ruby,13
-3195124,mperham/sidekiq,Ruby,14
+538746,ruby/ruby,Ruby,27
+1090311,elastic/logstash,Ruby,11
+3195124,mperham/sidekiq,Ruby,16
 4095287,rubocop/rubocop,Ruby,12
 96395,faker-ruby/faker,Ruby,121
 1725199,github/linguist,Ruby,25
@@ -14,11 +14,11 @@ id,name,lang,new stars
 361310,teamcapybara/capybara,Ruby,4
 47087,carrierwaveuploader/carrierwave,Ruby,4
 21829,thoughtbot/factory_bot,Ruby,9
-355893,github/markup,Ruby,5
+355893,github/markup,Ruby,4
 535266,vcr/vcr,Ruby,7
-16994115,CanCanCommunity/cancancan,Ruby,4
-839336,simplecov-ruby/simplecov,Ruby,4
-21333814,lynndylanhurley/devise_token_auth,Ruby,1
+16994115,CanCanCommunity/cancancan,Ruby,3
+839336,simplecov-ruby/simplecov,Ruby,5
+21333814,lynndylanhurley/devise_token_auth,Ruby,2
 138776049,sorbet/sorbet,Ruby,5
 11426474,github/choosealicense.com,Ruby,9
 200302808,github/view_component,Ruby,16
