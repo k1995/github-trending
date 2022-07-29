@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,6326
-21737465,sindresorhus/awesome,,6139
-85077558,kamranahmedse/developer-roadmap,TypeScript,5761
-132750724,codecrafters-io/build-your-own-x,,13480
-16408992,neovim/neovim,Vim script,1321
-257485422,vitejs/vite,TypeScript,1915
-58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1164
-162998479,sherlock-project/sherlock,Python,1837
+13491895,EbookFoundation/free-programming-books,,6276
+85077558,kamranahmedse/developer-roadmap,TypeScript,5751
+58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1168
+20619036,pi-hole/pi-hole,Shell,1027
+162998479,sherlock-project/sherlock,Python,1840
 42489829,rust-lang/rustlings,Rust,2351
+393571599,babysor/MockingBird,Python,1344
+4524181,facebook/folly,C++,514
 97086543,TheAlgorithms/JavaScript,JavaScript,1045
-101782647,facebookresearch/fairseq,Python,1433
-40276274,ziglang/zig,Zig,2237
-323048702,OpenBB-finance/OpenBBTerminal,Python,2568
-372240402,alan2207/bulletproof-react,TypeScript,1670
+101782647,facebookresearch/fairseq,Python,1434
+40276274,ziglang/zig,Zig,2236
+323048702,OpenBB-finance/OpenBBTerminal,Python,2571
+372240402,alan2207/bulletproof-react,TypeScript,1669
+222751131,Asabeneh/30-Days-Of-Python,Python,1766
 45363955,lionsoul2014/ip2region,Java,790
 197515838,shengcaishizhan/kkndme_tianya,,1484
-161951219,wailsapp/wails,Go,2258
-365263843,denoland/fresh,TypeScript,4785
-182849188,delta-io/delta,Scala,548
-330914717,unifyai/ivy,Python,1579
-501076075,meituan/YOLOv6,Jupyter Notebook,1219
-284134871,flipperdevices/flipperzero-firmware,C,604
-438565846,NVlabs/eg3d,Python,430
-426075845,MystenLabs/sui,Rust,577
-490465859,UberGuidoZ/Flipper,Python,541
+161951219,wailsapp/wails,Go,2259
+365263843,denoland/fresh,TypeScript,4633
+235860204,microsoft/DeepSpeed,Python,351
+41331761,autowarefoundation/autoware,Shell,403
+394541647,OpenEthan/SMSBoom,Python,4811
+330914717,unifyai/ivy,Python,1573
+284134871,flipperdevices/flipperzero-firmware,C,609
+426075845,MystenLabs/sui,Rust,578
+490465859,UberGuidoZ/Flipper,Python,543
