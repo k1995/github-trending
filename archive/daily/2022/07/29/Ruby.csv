@@ -1,7 +1,7 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,9
-481872,hashicorp/vagrant,Ruby,6
-308770,heartcombo/devise,Ruby,9
+8681349,huginn/huginn,Ruby,8
+481872,hashicorp/vagrant,Ruby,5
+308770,heartcombo/devise,Ruby,10
 2203645,CocoaPods/CocoaPods,Ruby,1
 202291859,chatwoot/chatwoot,Ruby,6
 4095287,rubocop/rubocop,Ruby,1
@@ -15,12 +15,12 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,2
 2050163,aws/aws-sdk-ruby,Ruby,0
 614070,rubygems/rubygems,Ruby,1
-200302808,github/view_component,Ruby,3
+200302808,github/view_component,Ruby,2
 9831101,elastic/elasticsearch-ruby,Ruby,0
-229187949,shivammathur/homebrew-php,Ruby,6
+229187949,shivammathur/homebrew-php,Ruby,7
 32104924,rails/sprockets,Ruby,0
 3947396,getsentry/sentry-ruby,Ruby,0
-390548093,rails/importmap-rails,Ruby,1
+390548093,rails/importmap-rails,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,1
 212272090,CMSgov/price-transparency-guide,Ruby,0
 279271772,DataDog/datadog-api-client-ruby,Ruby,0
