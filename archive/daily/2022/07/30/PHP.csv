@@ -1,10 +1,10 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,8
-1420053,guzzle/guzzle,PHP,4
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,3
-448045,sebastianbergmann/phpunit,PHP,4
-12615154,barryvdh/laravel-debugbar,PHP,6
-3431193,yiisoft/yii2,PHP,0
+458058,symfony/symfony,PHP,6
+1420053,guzzle/guzzle,PHP,3
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,4
+448045,sebastianbergmann/phpunit,PHP,2
+12615154,barryvdh/laravel-debugbar,PHP,5
+3431193,yiisoft/yii2,PHP,1
 13899674,thephpleague/flysystem,PHP,1
 7769432,vlucas/phpdotenv,PHP,2
 4702560,PHPOffice/PHPExcel,PHP,1
@@ -13,11 +13,11 @@ id,name,lang,new stars
 33916850,spatie/laravel-medialibrary,PHP,3
 248372441,filamentphp/filament,PHP,19
 38200433,jeroennoten/Laravel-AdminLTE,PHP,1
-129852395,assimon/dujiaoka,PHP,5
-69691727,pmmp/PocketMine-MP,PHP,3
-232599652,laravel/sanctum,PHP,2
-27195711,alextselegidis/easyappointments,PHP,3
-75645659,WordPress/wordpress-develop,PHP,1
+129852395,assimon/dujiaoka,PHP,6
+69691727,pmmp/PocketMine-MP,PHP,4
+232599652,laravel/sanctum,PHP,1
+27195711,alextselegidis/easyappointments,PHP,4
+75645659,WordPress/wordpress-develop,PHP,0
 15231212,Automattic/jetpack,PHP,0
 29745084,Leantime/leantime,PHP,3
 27249479,EC-CUBE/ec-cube,PHP,0
