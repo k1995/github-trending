@@ -1,6 +1,6 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,7
-7569578,discourse/discourse,Ruby,8
+7569578,discourse/discourse,Ruby,5
 27442967,fastlane/fastlane,Ruby,7
 481872,hashicorp/vagrant,Ruby,3
 308770,heartcombo/devise,Ruby,2
@@ -12,11 +12,11 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,1
 611921,activeadmin/activeadmin,Ruby,2
 47087,carrierwaveuploader/carrierwave,Ruby,0
-1333863,kaminari/kaminari,Ruby,0
+1333863,kaminari/kaminari,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,1
 6899875,opf/openproject,Ruby,2
 30985840,solidusio/solidus,Ruby,2
-614070,rubygems/rubygems,Ruby,2
+614070,rubygems/rubygems,Ruby,1
 3898922,zammad/zammad,Ruby,2
 46698467,ankane/strong_migrations,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,4

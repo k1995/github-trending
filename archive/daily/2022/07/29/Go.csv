@@ -1,19 +1,19 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,81
-20904437,gin-gonic/gin,Go,43
-74175805,istio/istio,Go,13
+20904437,gin-gonic/gin,Go,40
+74175805,istio/istio,Go,15
 4307108,nsqio/nsq,Go,5
-21827146,seaweedfs/seaweedfs,Go,18
+21827146,seaweedfs/seaweedfs,Go,19
 62091339,kubernetes/kops,Go,3
 72477752,pulumi/pulumi,Go,6
 180687624,aquasecurity/trivy,Go,21
 31558937,gravitational/teleport,Go,8
 119190187,zricethezav/gitleaks,Go,24
-26516975,tylertreat/comcast,Go,165
+26516975,tylertreat/comcast,Go,107
 27051771,golang/protobuf,Go,6
 87990209,kubernetes/autoscaler,Go,4
-50629145,google/pprof,Go,3
-244694886,ccfos/nightingale,Go,6
+50629145,google/pprof,Go,4
+244694886,ccfos/nightingale,Go,7
 38029983,go-telegram-bot-api/telegram-bot-api,Go,3
 306366900,casdoor/casdoor,Go,19
 278480393,aws/karpenter,Go,1
