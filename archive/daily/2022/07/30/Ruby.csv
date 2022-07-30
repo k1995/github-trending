@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,6
-7569578,discourse/discourse,Ruby,3
-27442967,fastlane/fastlane,Ruby,8
-481872,hashicorp/vagrant,Ruby,3
+8514,rails/rails,Ruby,7
+7569578,discourse/discourse,Ruby,7
+27442967,fastlane/fastlane,Ruby,6
+481872,hashicorp/vagrant,Ruby,5
 308770,heartcombo/devise,Ruby,2
 1090311,elastic/logstash,Ruby,4
-3195124,mperham/sidekiq,Ruby,5
+3195124,mperham/sidekiq,Ruby,3
 106995,sinatra/sinatra,Ruby,0
-52855516,Homebrew/homebrew-core,Ruby,3
-1918677,fluent/fluentd,Ruby,1
+52855516,Homebrew/homebrew-core,Ruby,2
+1918677,fluent/fluentd,Ruby,0
 96395,faker-ruby/faker,Ruby,2
 611921,activeadmin/activeadmin,Ruby,2
 47087,carrierwaveuploader/carrierwave,Ruby,0
@@ -19,8 +19,8 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,0
 3898922,zammad/zammad,Ruby,2
 46698467,ankane/strong_migrations,Ruby,0
-93163073,dependabot/dependabot-core,Ruby,5
-200302808,github/view_component,Ruby,4
-10088951,TheOdinProject/theodinproject,Ruby,2
+93163073,dependabot/dependabot-core,Ruby,4
+200302808,github/view_component,Ruby,6
+10088951,TheOdinProject/theodinproject,Ruby,1
 66497320,DataDog/dd-trace-rb,Ruby,0
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0
