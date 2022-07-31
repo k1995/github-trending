@@ -2,7 +2,7 @@ id,name,lang,new stars
 9384267,electron/electron,C++,85
 1181927,bitcoin/bitcoin,C++,14
 15634981,godotengine/godot,C++,48
-22067521,ocornut/imgui,C++,43
+22067521,ocornut/imgui,C++,39
 1116542,aria2/aria2,C++,7
 116167731,yuzu-emu/yuzu,C++,15
 311683390,WerWolv/ImHex,C++,659
@@ -17,7 +17,7 @@ id,name,lang,new stars
 2168780,minetest/minetest,C++,45
 14303048,mamedev/mame,C++,4
 143324737,diasurgical/devilutionX,C++,6
-128479644,esphome/esphome,C++,4
+128479644,esphome/esphome,C++,5
 1764646,wxWidgets/wxWidgets,C++,3
 105010691,nextcloud/desktop,C++,2
 514533667,Omyyyy/pycom,C++,220
