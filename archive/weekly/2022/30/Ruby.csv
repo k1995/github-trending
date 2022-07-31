@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,46
+8514,rails/rails,Ruby,42
 27442967,fastlane/fastlane,Ruby,26
-53238813,Homebrew/brew,Ruby,92
-52281283,mastodon/mastodon,Ruby,51
-13840241,freeCodeCamp/devdocs,Ruby,79
+53238813,Homebrew/brew,Ruby,93
+52281283,mastodon/mastodon,Ruby,50
+13840241,freeCodeCamp/devdocs,Ruby,78
 2293158,rapid7/metasploit-framework,Ruby,70
-308770,heartcombo/devise,Ruby,26
-21696302,matteocrippa/awesome-swift,Ruby,33
+308770,heartcombo/devise,Ruby,27
+21696302,matteocrippa/awesome-swift,Ruby,32
 3195124,mperham/sidekiq,Ruby,17
 4095287,rubocop/rubocop,Ruby,13
-96395,faker-ruby/faker,Ruby,48
+96395,faker-ruby/faker,Ruby,37
 15435,Shopify/liquid,Ruby,20
 47087,carrierwaveuploader/carrierwave,Ruby,2
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,23
@@ -17,7 +17,7 @@ id,name,lang,new stars
 11412473,ankane/searchkick,Ruby,8
 2889230,rails-api/active_model_serializers,Ruby,2
 21333814,lynndylanhurley/devise_token_auth,Ruby,3
-11426474,github/choosealicense.com,Ruby,8
+11426474,github/choosealicense.com,Ruby,9
 14238949,elastic/elasticsearch-rails,Ruby,2
 200302808,github/view_component,Ruby,18
 9831101,elastic/elasticsearch-ruby,Ruby,4

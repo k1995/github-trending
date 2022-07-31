@@ -1,17 +1,17 @@
 id,name,lang,new stars
-123458551,jackfrued/Python-100-Days,Python,33
+123458551,jackfrued/Python-100-Days,Python,31
 58028038,521xueweihan/HelloGitHub,Python,19
 33015583,keras-team/keras,Python,10
 873328,getsentry/sentry,Python,10
 264818686,ultralytics/yolov5,Python,22
 123303402,python-poetry/poetry,Python,16
-349321229,TencentARC/GFPGAN,Python,85
-222751131,Asabeneh/30-Days-Of-Python,Python,314
+349321229,TencentARC/GFPGAN,Python,84
+222751131,Asabeneh/30-Days-Of-Python,Python,295
 202498093,tgbot-collection/YYeTsBot,Python,10
 89266735,facebookresearch/ParlAI,Python,3
-377851948,deepmind/alphafold,Python,41
-8277372,spulec/moto,Python,3
-272599346,DA-southampton/NLP_ability,Python,14
+377851948,deepmind/alphafold,Python,38
+8277372,spulec/moto,Python,2
+272599346,DA-southampton/NLP_ability,Python,16
 86031674,wandb/wandb,Python,10
 178976529,bentoml/BentoML,Python,11
 56251096,ethereum/web3.py,Python,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 147733573,diffgram/diffgram,Python,34
 241095326,adap/flower,Python,7
 88978363,netbox-community/netbox-docker,Python,4
-478484453,alibaba/EasyNLP,Python,7
+478484453,alibaba/EasyNLP,Python,9
 421880637,tlkh/asitop,Python,30
 490223339,rgl-epfl/differentiable-sdf-rendering,Python,12
-515759292,Relento/lego_release,Python,25
+515759292,Relento/lego_release,Python,12
