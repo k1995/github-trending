@@ -1,16 +1,16 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,22
-1864363,composer/composer,PHP,9
-926544,slimphp/Slim,PHP,0
+1864363,composer/composer,PHP,11
+926544,slimphp/Slim,PHP,2
 23680678,tymondesigns/jwt-auth,PHP,1
 41589337,BookStackApp/BookStack,PHP,3
 4549925,bobthecow/psysh,PHP,2
-11467667,typecho/typecho,PHP,5
-1398648,symfony/http-foundation,PHP,1
-32015820,webmozarts/assert,PHP,3
-95011974,akaunting/akaunting,PHP,1
+11467667,typecho/typecho,PHP,4
+1398648,symfony/http-foundation,PHP,0
+32015820,webmozarts/assert,PHP,2
+95011974,akaunting/akaunting,PHP,0
 2464908,joomla/joomla-cms,PHP,1
-248372441,filamentphp/filament,PHP,6
+248372441,filamentphp/filament,PHP,8
 47508644,pterodactyl/panel,PHP,6
 57961433,openmediavault/openmediavault,PHP,2
 96284790,prasathmani/tinyfilemanager,PHP,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 29745084,Leantime/leantime,PHP,5
 359687154,DenverCoder1/readme-typing-svg,PHP,4
 59355182,OpenSID/OpenSID,PHP,1
-202195881,davidjconnelly/trongate-framework,PHP,13
+202195881,davidjconnelly/trongate-framework,PHP,14
 485064852,bradtraversy/laragigs,PHP,4
 480505326,mitthu786/TS-JioTV,PHP,0
