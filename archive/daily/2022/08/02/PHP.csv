@@ -2,7 +2,7 @@ id,name,lang,new stars
 448045,sebastianbergmann/phpunit,PHP,3
 82238168,monicahq/monica,PHP,8
 1631570,nikic/PHP-Parser,PHP,2
-10157178,egulias/EmailValidator,PHP,3
+10157178,egulias/EmailValidator,PHP,2
 7579180,doctrine/lexer,PHP,1
 3951767,phpDocumentor/ReflectionDocBlock,PHP,1
 622166,FriendsOfPHP/Goutte,PHP,2
@@ -10,7 +10,7 @@ id,name,lang,new stars
 212659,sebastianbergmann/php-code-coverage,PHP,1
 5550552,owncloud/core,PHP,2
 44745130,symfony/polyfill-mbstring,PHP,1
-9193949,wallabag/wallabag,PHP,5
+9193949,wallabag/wallabag,PHP,4
 32015820,webmozarts/assert,PHP,2
 16699803,sebastianbergmann/environment,PHP,1
 23217993,sebastianbergmann/global-state,PHP,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 141720301,dr5hn/countries-states-cities-database,PHP,8
 151089715,symfony/polyfill-intl-idn,PHP,1
 69691727,pmmp/PocketMine-MP,PHP,2
-153069455,collabnix/dockerlabs,PHP,11
+153069455,collabnix/dockerlabs,PHP,10
 93982796,Tuhinshubhra/RED_HAWK,PHP,3
