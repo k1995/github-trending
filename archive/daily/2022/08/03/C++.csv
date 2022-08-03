@@ -1,18 +1,18 @@
 id,name,lang,new stars
-65600975,pytorch/pytorch,C++,25
-15634981,godotengine/godot,C++,40
-196813750,Light-City/CPlusPlusThings,C++,39
-311683390,WerWolv/ImHex,C++,527
+65600975,pytorch/pytorch,C++,24
+15634981,godotengine/godot,C++,38
+196813750,Light-City/CPlusPlusThings,C++,38
+311683390,WerWolv/ImHex,C++,525
 66088979,changkun/modern-cpp-tutorial,C++,9
 18503721,facebook/yoga,C++,11
-102343794,apache/incubator-brpc,C++,5
+102343794,apache/incubator-brpc,C++,6
 51905353,apache/arrow,C++,6
-108102826,carla-simulator/carla,C++,7
-131236938,drogonframework/drogon,C++,23
-2168780,minetest/minetest,C++,92
+108102826,carla-simulator/carla,C++,8
+131236938,drogonframework/drogon,C++,22
+2168780,minetest/minetest,C++,87
 156939672,microsoft/onnxruntime,C++,8
 181436799,alibaba/MNN,C++,4
-64987779,Alinshans/MyTinySTL,C++,5
+64987779,Alinshans/MyTinySTL,C++,4
 46374199,IntelRealSense/librealsense,C++,2
 75662387,google/draco,C++,4
 99919302,apache/doris,C++,12
@@ -22,5 +22,5 @@ id,name,lang,new stars
 402945349,StarRocks/starrocks,C++,5
 7454197,YosysHQ/yosys,C++,0
 224468265,dail8859/NotepadNext,C++,16
-439011383,userver-framework/userver,C++,114
+439011383,userver-framework/userver,C++,113
 450854006,mriscoc/Ender3V2S1,C++,3

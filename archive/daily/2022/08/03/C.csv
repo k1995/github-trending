@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,69
+2325298,torvalds/linux,C,67
 156018,redis/redis,C,22
-246335987,ventoy/Ventoy,C,86
+246335987,ventoy/Ventoy,C,79
 10446890,bilibili/ijkplayer,C,4
 102578345,coolsnowwolf/lede,C,6
 29759715,facebook/zstd,C,17
-613829,openresty/lua-nginx-module,C,7
+613829,openresty/lua-nginx-module,C,8
 179354282,acidanthera/OpenCorePkg,C,8
 3199002,raspberrypi/linux,C,0
 1856976,libevent/libevent,C,4
 254327261,sandboxie-plus/Sandboxie,C,20
-91493088,ValdikSS/GoodbyeDPI,C,18
+91493088,ValdikSS/GoodbyeDPI,C,17
 192805335,microsoft/mimalloc,C,5
 50874442,citusdata/citus,C,6
 40556106,wazuh/wazuh,C,5
@@ -18,9 +18,9 @@ id,name,lang,new stars
 114948816,uber/h3,C,2
 117704656,remzi-arpacidusseau/ostep-projects,C,7
 22711802,wine-mirror/wine,C,2
-329707886,AsahiLinux/m1n1,C,18
-519467582,peng-zhihui/HelloWord-Keyboard,C,297
+329707886,AsahiLinux/m1n1,C,17
+519467582,peng-zhihui/HelloWord-Keyboard,C,298
 43013346,aws/aws-iot-device-sdk-embedded-C,C,3
 53432472,sonic-net/sonic-buildimage,C,0
-517884928,HVML/PurC,C,185
+517884928,HVML/PurC,C,188
 519282591,tastypepperoni/RunAsWinTcb,C,8
