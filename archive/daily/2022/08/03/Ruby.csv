@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,5
+8514,rails/rails,Ruby,6
 2500088,gitlabhq/gitlabhq,Ruby,0
-308770,heartcombo/devise,Ruby,4
-3623050,Homebrew/homebrew-cask,Ruby,4
+308770,heartcombo/devise,Ruby,2
+3623050,Homebrew/homebrew-cask,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,5
+202291859,chatwoot/chatwoot,Ruby,4
 1090311,elastic/logstash,Ruby,4
-3195124,mperham/sidekiq,Ruby,2
+3195124,mperham/sidekiq,Ruby,1
 611921,activeadmin/activeadmin,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,1
 277089,flyerhzm/bullet,Ruby,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 588600,brianmario/mysql2,Ruby,1
 29151578,rswag/rswag,Ruby,1
 225463,Shopify/shopify-api-ruby,Ruby,1
-403641521,rails/jsbundling-rails,Ruby,3
-188880371,Shopify/tapioca,Ruby,1
+403641521,rails/jsbundling-rails,Ruby,4
+188880371,Shopify/tapioca,Ruby,2
 66497320,DataDog/dd-trace-rb,Ruby,0
