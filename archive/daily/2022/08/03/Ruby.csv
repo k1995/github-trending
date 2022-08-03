@@ -1,15 +1,15 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,4
+27442967,fastlane/fastlane,Ruby,3
 308770,heartcombo/devise,Ruby,3
-37382858,kilimchoi/engineering-blogs,Ruby,7
+37382858,kilimchoi/engineering-blogs,Ruby,6
 3623050,Homebrew/homebrew-cask,Ruby,6
 202291859,chatwoot/chatwoot,Ruby,6
 1090311,elastic/logstash,Ruby,1
 138312,capistrano/capistrano,Ruby,1
-1918677,fluent/fluentd,Ruby,1
-96395,faker-ruby/faker,Ruby,2
+1918677,fluent/fluentd,Ruby,3
+96395,faker-ruby/faker,Ruby,3
 812393,ruby-grape/grape,Ruby,2
-611921,activeadmin/activeadmin,Ruby,3
+611921,activeadmin/activeadmin,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,2
 2441517,puma/puma,Ruby,1
 1548802,activerecord-hackery/ransack,Ruby,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,4
 200302808,github/view_component,Ruby,1
 9500075,ytti/oxidized,Ruby,2
-55288882,d12frosted/homebrew-emacs-plus,Ruby,2
+55288882,d12frosted/homebrew-emacs-plus,Ruby,3
 225463,Shopify/shopify-api-ruby,Ruby,1
 357000,weppos/publicsuffix-ruby,Ruby,2
 3276877,ThrowTheSwitch/Ceedling,Ruby,2
