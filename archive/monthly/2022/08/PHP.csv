@@ -1,21 +1,21 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,489
-3482588,danielmiessler/SecLists,PHP,792
-7548986,laravel/framework,PHP,318
-458058,symfony/symfony,PHP,322
+1863329,laravel/laravel,PHP,488
+3482588,danielmiessler/SecLists,PHP,790
+7548986,laravel/framework,PHP,315
+458058,symfony/symfony,PHP,321
 3431193,yiisoft/yii2,PHP,39
 61490598,PHPOffice/PhpSpreadsheet,PHP,118
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,104
 2884111,magento/magento2,PHP,66
 11340559,deployphp/deployer,PHP,124
-2717549,Sylius/Sylius,PHP,69
+2717549,Sylius/Sylius,PHP,70
 6763587,PrestaShop/PrestaShop,PHP,40
-97311017,rectorphp/rector,PHP,181
-9826184,elastic/elasticsearch-php,PHP,34
+97311017,rectorphp/rector,PHP,183
+9826184,elastic/elasticsearch-php,PHP,35
 148129143,bagisto/bagisto,PHP,82
 60010673,elementor/elementor,PHP,69
 62087941,nWidart/laravel-modules,PHP,111
-248372441,filamentphp/filament,PHP,364
+248372441,filamentphp/filament,PHP,362
 291805291,laravel/jetstream,PHP,41
 129852395,assimon/dujiaoka,PHP,147
 69691727,pmmp/PocketMine-MP,PHP,52
@@ -23,4 +23,4 @@ id,name,lang,new stars
 12063996,osTicket/osTicket,PHP,41
 311448648,laravel/breeze,PHP,63
 359687154,DenverCoder1/readme-typing-svg,PHP,136
-119990860,DataDog/dd-trace-php,PHP,10
+119990860,DataDog/dd-trace-php,PHP,9
