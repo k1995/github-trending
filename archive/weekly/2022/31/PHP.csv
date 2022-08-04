@@ -1,8 +1,8 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,246
-458058,symfony/symfony,PHP,141
-60243197,nextcloud/server,PHP,47
-2253830,PHPMailer/PHPMailer,PHP,32
+3482588,danielmiessler/SecLists,PHP,241
+458058,symfony/symfony,PHP,135
+60243197,nextcloud/server,PHP,45
+2253830,PHPMailer/PHPMailer,PHP,30
 5724990,briannesbitt/Carbon,PHP,19
 3431193,yiisoft/yii2,PHP,11
 7704544,Intervention/image,PHP,25
@@ -10,14 +10,14 @@ id,name,lang,new stars
 23680678,tymondesigns/jwt-auth,PHP,18
 137515,mockery/mockery,PHP,10
 2699935,squizlabs/PHP_CodeSniffer,PHP,19
-11340559,deployphp/deployer,PHP,51
+11340559,deployphp/deployer,PHP,49
 212659,sebastianbergmann/php-code-coverage,PHP,7
 2179920,woocommerce/woocommerce,PHP,22
-97311017,rectorphp/rector,PHP,83
+97311017,rectorphp/rector,PHP,84
 6269013,aws/aws-sdk-php,PHP,11
-12204147,mautic/mautic,PHP,75
-62087941,nWidart/laravel-modules,PHP,66
-248372441,filamentphp/filament,PHP,77
+12204147,mautic/mautic,PHP,84
+62087941,nWidart/laravel-modules,PHP,60
+248372441,filamentphp/filament,PHP,75
 69691727,pmmp/PocketMine-MP,PHP,16
 153069455,collabnix/dockerlabs,PHP,38
 232599652,laravel/sanctum,PHP,9
