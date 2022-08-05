@@ -1,12 +1,12 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,2
-7569578,discourse/discourse,Ruby,8
-53238813,Homebrew/brew,Ruby,16
+7569578,discourse/discourse,Ruby,7
+53238813,Homebrew/brew,Ruby,14
 308770,heartcombo/devise,Ruby,4
-202291859,chatwoot/chatwoot,Ruby,5
-1090311,elastic/logstash,Ruby,7
+202291859,chatwoot/chatwoot,Ruby,4
+1090311,elastic/logstash,Ruby,6
 3195124,mperham/sidekiq,Ruby,0
-4095287,rubocop/rubocop,Ruby,2
+4095287,rubocop/rubocop,Ruby,1
 3314,spree/spree,Ruby,1
 52855516,Homebrew/homebrew-core,Ruby,2
 1918677,fluent/fluentd,Ruby,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 21333814,lynndylanhurley/devise_token_auth,Ruby,1
 614070,rubygems/rubygems,Ruby,1
 46698467,ankane/strong_migrations,Ruby,4
-3898922,zammad/zammad,Ruby,0
+3898922,zammad/zammad,Ruby,1
 1953385,stripe/stripe-ruby,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,0
