@@ -1,16 +1,16 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,5
+27442967,fastlane/fastlane,Ruby,4
 2293158,rapid7/metasploit-framework,Ruby,7
 481872,hashicorp/vagrant,Ruby,4
 308770,heartcombo/devise,Ruby,4
-37382858,kilimchoi/engineering-blogs,Ruby,6
-202291859,chatwoot/chatwoot,Ruby,3
+37382858,kilimchoi/engineering-blogs,Ruby,8
+202291859,chatwoot/chatwoot,Ruby,5
 1090311,elastic/logstash,Ruby,5
 96395,faker-ruby/faker,Ruby,2
-6529205,varvet/pundit,Ruby,2
+6529205,varvet/pundit,Ruby,3
 108278,chef/chef,Ruby,0
 5219382,rack/rack-attack,Ruby,2
-30337170,rmosolgo/graphql-ruby,Ruby,0
+30337170,rmosolgo/graphql-ruby,Ruby,1
 1734,aasm/aasm,Ruby,2
 30985840,solidusio/solidus,Ruby,2
 5144181,jnunemaker/flipper,Ruby,1
@@ -19,7 +19,7 @@ id,name,lang,new stars
 9831101,elastic/elasticsearch-ruby,Ruby,0
 61203,Shopify/shopify_app,Ruby,3
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,0
-161399160,Shopify/shopify-cli,Ruby,1
+161399160,Shopify/shopify-cli,Ruby,2
 225463,Shopify/shopify-api-ruby,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 188880371,Shopify/tapioca,Ruby,2
