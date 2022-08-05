@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,46
-53238813,Homebrew/brew,Ruby,82
-13840241,freeCodeCamp/devdocs,Ruby,63
-538746,ruby/ruby,Ruby,25
+53238813,Homebrew/brew,Ruby,85
+13840241,freeCodeCamp/devdocs,Ruby,60
+538746,ruby/ruby,Ruby,26
 1090311,elastic/logstash,Ruby,21
 3195124,mperham/sidekiq,Ruby,14
 3314,spree/spree,Ruby,9
 106995,sinatra/sinatra,Ruby,7
-15435,Shopify/liquid,Ruby,26
+15435,Shopify/liquid,Ruby,28
 812393,ruby-grape/grape,Ruby,4
 611921,activeadmin/activeadmin,Ruby,7
-21829,thoughtbot/factory_bot,Ruby,7
+21829,thoughtbot/factory_bot,Ruby,6
 4994614,wpscanteam/wpscan,Ruby,34
 5160706,bkeepers/dotenv,Ruby,7
 138776049,sorbet/sorbet,Ruby,6
@@ -20,7 +20,7 @@ id,name,lang,new stars
 200302808,github/view_component,Ruby,16
 81134943,Shopify/bootsnap,Ruby,4
 9500075,ytti/oxidized,Ruby,12
-55288882,d12frosted/homebrew-emacs-plus,Ruby,15
+55288882,d12frosted/homebrew-emacs-plus,Ruby,16
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0
 279271772,DataDog/datadog-api-client-ruby,Ruby,0
 387924838,learn-co-curriculum/phase-3-sinatra-react-project,Ruby,0
