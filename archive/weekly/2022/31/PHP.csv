@@ -1,6 +1,6 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,166
-7548986,laravel/framework,PHP,53
+3482588,danielmiessler/SecLists,PHP,165
+7548986,laravel/framework,PHP,55
 458058,symfony/symfony,PHP,43
 2253830,PHPMailer/PHPMailer,PHP,29
 2889328,WordPress/WordPress,PHP,33
@@ -8,19 +8,19 @@ id,name,lang,new stars
 61490598,PHPOffice/PhpSpreadsheet,PHP,26
 137515,mockery/mockery,PHP,13
 2884111,magento/magento2,PHP,19
-41589337,BookStackApp/BookStack,PHP,41
-2699935,squizlabs/PHP_CodeSniffer,PHP,21
+41589337,BookStackApp/BookStack,PHP,40
+2699935,squizlabs/PHP_CodeSniffer,PHP,22
 11340559,deployphp/deployer,PHP,34
 2179920,woocommerce/woocommerce,PHP,27
-97311017,rectorphp/rector,PHP,93
-12204147,mautic/mautic,PHP,107
-33916850,spatie/laravel-medialibrary,PHP,12
-9826184,elastic/elasticsearch-php,PHP,14
-248372441,filamentphp/filament,PHP,72
-141720301,dr5hn/countries-states-cities-database,PHP,40
+97311017,rectorphp/rector,PHP,94
+12204147,mautic/mautic,PHP,108
+33916850,spatie/laravel-medialibrary,PHP,11
+9826184,elastic/elasticsearch-php,PHP,15
+248372441,filamentphp/filament,PHP,74
+141720301,dr5hn/countries-states-cities-database,PHP,41
 182349597,jqhph/dcat-admin,PHP,17
 153069455,collabnix/dockerlabs,PHP,47
 14724954,opensourcepos/opensourcepos,PHP,4
 232599652,laravel/sanctum,PHP,10
 75645659,WordPress/wordpress-develop,PHP,11
-29745084,Leantime/leantime,PHP,23
+29745084,Leantime/leantime,PHP,24
