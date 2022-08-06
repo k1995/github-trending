@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,50
-65252,jekyll/jekyll,Ruby,53
-53238813,Homebrew/brew,Ruby,86
-13840241,freeCodeCamp/devdocs,Ruby,57
+8514,rails/rails,Ruby,53
+65252,jekyll/jekyll,Ruby,49
+53238813,Homebrew/brew,Ruby,88
+13840241,freeCodeCamp/devdocs,Ruby,56
 2293158,rapid7/metasploit-framework,Ruby,59
-308770,heartcombo/devise,Ruby,20
+308770,heartcombo/devise,Ruby,19
 538746,ruby/ruby,Ruby,27
 3623050,Homebrew/homebrew-cask,Ruby,28
 1090311,elastic/logstash,Ruby,19
 3195124,mperham/sidekiq,Ruby,9
-15435,Shopify/liquid,Ruby,31
+15435,Shopify/liquid,Ruby,30
 812393,ruby-grape/grape,Ruby,3
 4994614,wpscanteam/wpscan,Ruby,37
 1314319,instructure/canvas-lms,Ruby,10
@@ -20,7 +20,7 @@ id,name,lang,new stars
 81134943,Shopify/bootsnap,Ruby,4
 9500075,ytti/oxidized,Ruby,13
 11980558,github/pages-gem,Ruby,3
-1953385,stripe/stripe-ruby,Ruby,8
+1953385,stripe/stripe-ruby,Ruby,9
 188880371,Shopify/tapioca,Ruby,13
 122619878,toptal/granite,Ruby,0
 387924838,learn-co-curriculum/phase-3-sinatra-react-project,Ruby,0

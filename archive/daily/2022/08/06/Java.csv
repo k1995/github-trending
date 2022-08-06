@@ -1,8 +1,8 @@
 id,name,lang,new stars
 892275,square/retrofit,Java,10
 159152904,jeecgboot/jeecg-boot,Java,12
-146633589,alibaba/arthas,Java,24
-7587038,alibaba/canal,Java,10
+146633589,alibaba/arthas,Java,26
+7587038,alibaba/canal,Java,11
 126178683,halo-dev/halo,Java,17
 15823460,redisson/redisson,Java,10
 20773773,bazelbuild/bazel,Java,10
@@ -13,7 +13,7 @@ id,name,lang,new stars
 19257422,questdb/questdb,Java,10
 173335706,apache/dolphinscheduler,Java,11
 60294682,barteksc/AndroidPdfViewer,Java,3
-50205233,debezium/debezium,Java,39
+50205233,debezium/debezium,Java,37
 33166041,react-native-video/react-native-video,Java,3
 49820627,react-native-svg/react-native-svg,Java,4
 19961085,apache/pinot,Java,2
