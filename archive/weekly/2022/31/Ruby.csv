@@ -1,11 +1,11 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,54
-53238813,Homebrew/brew,Ruby,87
+53238813,Homebrew/brew,Ruby,83
 538746,ruby/ruby,Ruby,28
-3623050,Homebrew/homebrew-cask,Ruby,31
-1090311,elastic/logstash,Ruby,20
-3195124,mperham/sidekiq,Ruby,10
-6688319,DeathKing/Learning-SICP,Ruby,49
+3623050,Homebrew/homebrew-cask,Ruby,32
+1090311,elastic/logstash,Ruby,19
+3195124,mperham/sidekiq,Ruby,11
+6688319,DeathKing/Learning-SICP,Ruby,50
 15435,Shopify/liquid,Ruby,29
 812393,ruby-grape/grape,Ruby,3
 2441517,puma/puma,Ruby,4
@@ -15,11 +15,11 @@ id,name,lang,new stars
 363163,bblimke/webmock,Ruby,4
 21333814,lynndylanhurley/devise_token_auth,Ruby,5
 614070,rubygems/rubygems,Ruby,9
-93163073,dependabot/dependabot-core,Ruby,14
+93163073,dependabot/dependabot-core,Ruby,13
 81134943,Shopify/bootsnap,Ruby,4
-9500075,ytti/oxidized,Ruby,12
+9500075,ytti/oxidized,Ruby,13
 11980558,github/pages-gem,Ruby,3
-1953385,stripe/stripe-ruby,Ruby,9
+1953385,stripe/stripe-ruby,Ruby,10
 55288882,d12frosted/homebrew-emacs-plus,Ruby,15
 188880371,Shopify/tapioca,Ruby,13
 122619878,toptal/granite,Ruby,0
