@@ -1,16 +1,16 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,167
-7548986,laravel/framework,PHP,51
+3482588,danielmiessler/SecLists,PHP,169
+7548986,laravel/framework,PHP,52
 458058,symfony/symfony,PHP,42
 2253830,PHPMailer/PHPMailer,PHP,32
-2889328,WordPress/WordPress,PHP,35
-47495360,koel/koel,PHP,38
+2889328,WordPress/WordPress,PHP,34
+47495360,koel/koel,PHP,36
 28628034,flarum/flarum,PHP,134
 1305114,roots/sage,PHP,18
 61490598,PHPOffice/PhpSpreadsheet,PHP,24
-137515,mockery/mockery,PHP,13
+137515,mockery/mockery,PHP,12
 2884111,magento/magento2,PHP,20
-41589337,BookStackApp/BookStack,PHP,34
+41589337,BookStackApp/BookStack,PHP,33
 2699935,squizlabs/PHP_CodeSniffer,PHP,24
 11340559,deployphp/deployer,PHP,36
 212659,sebastianbergmann/php-code-coverage,PHP,10
@@ -20,7 +20,7 @@ id,name,lang,new stars
 141720301,dr5hn/countries-states-cities-database,PHP,42
 182349597,jqhph/dcat-admin,PHP,16
 13914116,librenms/librenms,PHP,4
-153069455,collabnix/dockerlabs,PHP,47
+153069455,collabnix/dockerlabs,PHP,48
 400984450,kuaifan/dootask,PHP,58
 75645659,WordPress/wordpress-develop,PHP,13
-29745084,Leantime/leantime,PHP,21
+29745084,Leantime/leantime,PHP,19
