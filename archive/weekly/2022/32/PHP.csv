@@ -1,13 +1,13 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,173
+3482588,danielmiessler/SecLists,PHP,172
 7548986,laravel/framework,PHP,54
 458058,symfony/symfony,PHP,35
 1376664,Seldaek/monolog,PHP,13
-2253830,PHPMailer/PHPMailer,PHP,34
-2889328,WordPress/WordPress,PHP,32
-47495360,koel/koel,PHP,41
-28628034,flarum/flarum,PHP,146
-61490598,PHPOffice/PhpSpreadsheet,PHP,27
+2253830,PHPMailer/PHPMailer,PHP,35
+2889328,WordPress/WordPress,PHP,31
+47495360,koel/koel,PHP,42
+28628034,flarum/flarum,PHP,150
+61490598,PHPOffice/PhpSpreadsheet,PHP,26
 137515,mockery/mockery,PHP,15
 2884111,magento/magento2,PHP,19
 2699935,squizlabs/PHP_CodeSniffer,PHP,24
@@ -15,12 +15,12 @@ id,name,lang,new stars
 677464,doctrine/dbal,PHP,14
 212659,sebastianbergmann/php-code-coverage,PHP,8
 2179920,woocommerce/woocommerce,PHP,28
-97311017,rectorphp/rector,PHP,100
-12204147,mautic/mautic,PHP,108
+97311017,rectorphp/rector,PHP,102
+12204147,mautic/mautic,PHP,109
 9826184,elastic/elasticsearch-php,PHP,15
 141720301,dr5hn/countries-states-cities-database,PHP,42
 182349597,jqhph/dcat-admin,PHP,14
-153069455,collabnix/dockerlabs,PHP,41
-400984450,kuaifan/dootask,PHP,62
+153069455,collabnix/dockerlabs,PHP,40
+400984450,kuaifan/dootask,PHP,65
 75645659,WordPress/wordpress-develop,PHP,11
 29745084,Leantime/leantime,PHP,15

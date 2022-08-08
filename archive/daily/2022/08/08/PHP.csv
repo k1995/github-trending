@@ -1,11 +1,11 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,25
-60243197,nextcloud/server,PHP,6
-2253830,PHPMailer/PHPMailer,PHP,6
+60243197,nextcloud/server,PHP,5
+2253830,PHPMailer/PHPMailer,PHP,7
 82238168,monicahq/monica,PHP,2
 1548202,matomo-org/matomo,PHP,4
 2889328,WordPress/WordPress,PHP,2
-28628034,flarum/flarum,PHP,17
+28628034,flarum/flarum,PHP,20
 2699935,squizlabs/PHP_CodeSniffer,PHP,3
 622166,FriendsOfPHP/Goutte,PHP,1
 37216840,phpDocumentor/TypeResolver,PHP,1
@@ -13,14 +13,14 @@ id,name,lang,new stars
 24498056,symfony/var-dumper,PHP,0
 14346979,snipe/snipe-it,PHP,4
 11935508,RSS-Bridge/rss-bridge,PHP,6
-248372441,filamentphp/filament,PHP,12
-47508644,pterodactyl/panel,PHP,5
-9395939,ZoneMinder/zoneminder,PHP,5
-96284790,prasathmani/tinyfilemanager,PHP,1
+248372441,filamentphp/filament,PHP,6
+47508644,pterodactyl/panel,PHP,3
+9395939,ZoneMinder/zoneminder,PHP,4
+96284790,prasathmani/tinyfilemanager,PHP,2
 69691727,pmmp/PocketMine-MP,PHP,2
 39182755,glpi-project/glpi,PHP,2
-404921727,luolongfei/freenom,PHP,7
+404921727,luolongfei/freenom,PHP,5
 75645659,WordPress/wordpress-develop,PHP,0
 485064852,bradtraversy/laragigs,PHP,3
-443775406,bezhanSalleh/filament-shield,PHP,8
+443775406,bezhanSalleh/filament-shield,PHP,7
 512430444,deaaprizal/cuyuniverse-forum,PHP,1
