@@ -3,17 +3,17 @@ id,name,lang,new stars
 47495360,koel/koel,PHP,5
 8678290,barryvdh/laravel-ide-helper,PHP,2
 56728437,docker/labs,PHP,3
-2699935,squizlabs/PHP_CodeSniffer,PHP,3
+2699935,squizlabs/PHP_CodeSniffer,PHP,2
 10371103,Laravel-Lang/lang,PHP,4
 9791525,digininja/DVWA,PHP,8
 95011974,akaunting/akaunting,PHP,2
-60010673,elementor/elementor,PHP,0
+60010673,elementor/elementor,PHP,1
 4224042,roundcube/roundcubemail,PHP,0
 2464908,joomla/joomla-cms,PHP,3
 248372441,filamentphp/filament,PHP,9
-47508644,pterodactyl/panel,PHP,5
+47508644,pterodactyl/panel,PHP,4
 9395939,ZoneMinder/zoneminder,PHP,1
-38200433,jeroennoten/Laravel-AdminLTE,PHP,7
+38200433,jeroennoten/Laravel-AdminLTE,PHP,6
 129852395,assimon/dujiaoka,PHP,6
 69691727,pmmp/PocketMine-MP,PHP,0
 142127816,zhuifengshaonianhanlu/pikachu,PHP,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 8240600,ndeet/unzipper,PHP,1
 202195881,davidjconnelly/trongate-framework,PHP,13
 184538454,yankovalenko94/Webdev2019,PHP,0
-514958295,statix-php/server,PHP,7
+514958295,statix-php/server,PHP,8

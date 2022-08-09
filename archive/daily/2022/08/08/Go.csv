@@ -1,15 +1,15 @@
 id,name,lang,new stars
-14712850,syncthing/syncthing,Go,16
+14712850,syncthing/syncthing,Go,15
 5271882,astaxie/build-web-application-with-golang,Go,12
-136815833,Dreamacro/clash,Go,35
-59239347,portainer/portainer,Go,3
-119160553,photoprism/photoprism,Go,16
-234231371,gofiber/fiber,Go,59
-123572362,quii/learn-go-with-tests,Go,6
-19205896,restic/restic,Go,28
-75785240,authelia/authelia,Go,6
-66156850,TheAlgorithms/Go,Go,7
-134012064,pion/webrtc,Go,10
+136815833,Dreamacro/clash,Go,36
+59239347,portainer/portainer,Go,4
+119160553,photoprism/photoprism,Go,18
+234231371,gofiber/fiber,Go,58
+123572362,quii/learn-go-with-tests,Go,7
+19205896,restic/restic,Go,29
+75785240,authelia/authelia,Go,9
+66156850,TheAlgorithms/Go,Go,9
+134012064,pion/webrtc,Go,9
 510607652,pocketbase/pocketbase,Go,41
 323965659,alist-org/alist,Go,28
 156681830,ffuf/ffuf,Go,21
@@ -20,7 +20,7 @@ id,name,lang,new stars
 286729329,zu1k/proxypool,Go,4
 255437195,ViRb3/wgcf,Go,4
 440752086,coder/coder,Go,17
-377697824,veo/vscan,Go,10
-521398087,serhack/pdf-diff,Go,102
-484208174,acorn-io/acorn,Go,61
-244008754,cosmos/relayer,Go,4
+377697824,veo/vscan,Go,9
+521398087,serhack/pdf-diff,Go,93
+484208174,acorn-io/acorn,Go,62
+244008754,cosmos/relayer,Go,3
