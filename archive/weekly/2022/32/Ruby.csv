@@ -1,15 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,60
-53238813,Homebrew/brew,Ruby,86
+8514,rails/rails,Ruby,59
+53238813,Homebrew/brew,Ruby,87
 52281283,mastodon/mastodon,Ruby,77
-2293158,rapid7/metasploit-framework,Ruby,61
+2293158,rapid7/metasploit-framework,Ruby,63
 308770,heartcombo/devise,Ruby,23
-3623050,Homebrew/homebrew-cask,Ruby,32
+3623050,Homebrew/homebrew-cask,Ruby,31
 1090311,elastic/logstash,Ruby,21
-3195124,mperham/sidekiq,Ruby,13
+3195124,mperham/sidekiq,Ruby,12
 4095287,rubocop/rubocop,Ruby,21
+6688319,DeathKing/Learning-SICP,Ruby,71
 15435,Shopify/liquid,Ruby,34
-6529205,varvet/pundit,Ruby,11
+6529205,varvet/pundit,Ruby,10
 4994614,wpscanteam/wpscan,Ruby,23
 22059578,ankane/pghero,Ruby,15
 417389,lostisland/faraday,Ruby,16
@@ -19,7 +20,7 @@ id,name,lang,new stars
 21333814,lynndylanhurley/devise_token_auth,Ruby,6
 614070,rubygems/rubygems,Ruby,9
 11426474,github/choosealicense.com,Ruby,11
-93163073,dependabot/dependabot-core,Ruby,13
+93163073,dependabot/dependabot-core,Ruby,12
 200302808,github/view_component,Ruby,11
 1953385,stripe/stripe-ruby,Ruby,3
 55288882,d12frosted/homebrew-emacs-plus,Ruby,14
