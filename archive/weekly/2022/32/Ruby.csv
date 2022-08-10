@@ -1,20 +1,20 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,63
-53238813,Homebrew/brew,Ruby,88
-52281283,mastodon/mastodon,Ruby,77
-2293158,rapid7/metasploit-framework,Ruby,64
+8514,rails/rails,Ruby,64
+53238813,Homebrew/brew,Ruby,87
+52281283,mastodon/mastodon,Ruby,82
+2293158,rapid7/metasploit-framework,Ruby,67
 308770,heartcombo/devise,Ruby,22
 3623050,Homebrew/homebrew-cask,Ruby,29
 1090311,elastic/logstash,Ruby,20
 3195124,mperham/sidekiq,Ruby,12
-4095287,rubocop/rubocop,Ruby,23
+4095287,rubocop/rubocop,Ruby,22
 6688319,DeathKing/Learning-SICP,Ruby,71
-15435,Shopify/liquid,Ruby,34
+15435,Shopify/liquid,Ruby,35
 6529205,varvet/pundit,Ruby,12
-4994614,wpscanteam/wpscan,Ruby,23
+4994614,wpscanteam/wpscan,Ruby,24
 22059578,ankane/pghero,Ruby,15
 417389,lostisland/faraday,Ruby,16
-1314319,instructure/canvas-lms,Ruby,9
+1314319,instructure/canvas-lms,Ruby,8
 30985840,solidusio/solidus,Ruby,13
 363163,bblimke/webmock,Ruby,5
 21333814,lynndylanhurley/devise_token_auth,Ruby,6
@@ -23,4 +23,4 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,10
 200302808,github/view_component,Ruby,10
 1953385,stripe/stripe-ruby,Ruby,3
-55288882,d12frosted/homebrew-emacs-plus,Ruby,12
+55288882,d12frosted/homebrew-emacs-plus,Ruby,13
