@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,67
-246335987,ventoy/Ventoy,C,134
+2325298,torvalds/linux,C,64
+246335987,ventoy/Ventoy,C,122
 1357796,emscripten-core/emscripten,C,2
 196353673,taosdata/TDengine,C,2
-70777180,Foundry376/Mailspring,C,13
+70777180,Foundry376/Mailspring,C,14
 184981,memcached/memcached,C,4
 65899476,espressif/esp-idf,C,5
 3319040,id-Software/DOOM,C,6
 36749153,microsoft/react-native-code-push,C,3
 5383731,qemu/qemu,C,3
-6376337,pocoproject/poco,C,3
-7037996,VirusTotal/yara,C,5
+6376337,pocoproject/poco,C,4
+7037996,VirusTotal/yara,C,4
 86245815,pygame/pygame,C,5
 58132544,RediSearch/RediSearch,C,1
 29933948,fluent/fluent-bit,C,6
@@ -18,9 +18,9 @@ id,name,lang,new stars
 473137633,cilium/tetragon,C,3
 28928522,wolfSSL/wolfssl,C,0
 191266671,algorand/go-algorand,C,5
-70934373,Azure/azure-iot-sdk-c,C,1
+70934373,Azure/azure-iot-sdk-c,C,0
 340547709,espressif/esp-csi,C,11
-67323213,CoolerVoid/codewarrior,C,5
-55718601,Bithack/principia,C,6
-496502838,hepingood/mifare_classic,C,5
+67323213,CoolerVoid/codewarrior,C,7
+55718601,Bithack/principia,C,5
+496502838,hepingood/mifare_classic,C,4
 522477264,fail0verflow/bootmii,C,7

@@ -1,17 +1,17 @@
 id,name,lang,new stars
 6296790,spring-projects/spring-boot,Java,24
 507775,elastic/elasticsearch,Java,15
-1148753,spring-projects/spring-framework,Java,13
+1148753,spring-projects/spring-framework,Java,14
 159152904,jeecgboot/jeecg-boot,Java,10
-44662669,dbeaver/dbeaver,Java,24
-13404515,brettwooldridge/HikariCP,Java,10
-49876476,apache/shardingsphere,Java,24
+44662669,dbeaver/dbeaver,Java,23
+13404515,brettwooldridge/HikariCP,Java,9
+49876476,apache/shardingsphere,Java,23
 65987043,baomidou/mybatis-plus,Java,12
-133134007,OpenAPITools/openapi-generator,Java,7
+133134007,OpenAPITools/openapi-generator,Java,6
 75277003,thingsboard/thingsboard,Java,9
-237940592,dromara/Sa-Token,Java,19
-335164964,dataease/dataease,Java,24
-46398090,datahub-project/datahub,Java,7
+237940592,dromara/Sa-Token,Java,11
+335164964,dataease/dataease,Java,27
+46398090,datahub-project/datahub,Java,17
 204388092,pig-mesh/pig,Java,5
 99412308,apache/incubator-seatunnel,Java,2
 27911088,apache/nifi,Java,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 90675730,kubernetes-client/java,Java,2
 482425877,alibaba/fastjson2,Java,6
 2928948,Azure/azure-sdk-for-java,Java,0
-471590708,elonlit/Genesis,Java,83
-470487478,alibaba/SREWorks,Java,11
+471590708,elonlit/Genesis,Java,77
+470487478,alibaba/SREWorks,Java,12
 280458791,icei-pucminas/aeds2,Java,1
