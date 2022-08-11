@@ -1,12 +1,12 @@
 id,name,lang,new stars
 63476337,TheAlgorithms/Python,Python,124
-58028038,521xueweihan/HelloGitHub,Python,42
-21872392,josephmisiti/awesome-machine-learning,Python,124
+58028038,521xueweihan/HelloGitHub,Python,45
+21872392,josephmisiti/awesome-machine-learning,Python,89
 71220757,swisskyrepo/PayloadsAllTheThings,Python,30
-178626720,Lightning-AI/lightning,Python,12
+178626720,Lightning-AI/lightning,Python,14
 149430917,microsoft/recommenders,Python,14
+287463830,microsoft/qlib,Python,21
 89266735,facebookresearch/ParlAI,Python,39
-287463830,microsoft/qlib,Python,32
 17689377,pre-commit/pre-commit,Python,7
 321659062,iperov/DeepFaceLive,Python,15
 386811486,Megvii-BaseDetection/YOLOX,Python,8
@@ -15,11 +15,11 @@ id,name,lang,new stars
 362806180,openreplay/openreplay,Python,18
 161151882,shmilylty/OneForAll,Python,5
 131619646,dagster-io/dagster,Python,13
-4127088,Azure/azure-sdk-for-python,Python,2
-315977578,evidentlyai/evidently,Python,1
+4127088,Azure/azure-sdk-for-python,Python,4
+315977578,evidentlyai/evidently,Python,3
 509153572,jina-ai/discoart,Python,133
-329620403,zju3dv/EasyMocap,Python,26
-230630989,openairplay/airplay2-receiver,Python,78
+329620403,zju3dv/EasyMocap,Python,23
+230630989,openairplay/airplay2-receiver,Python,75
 498011141,huggingface/diffusers,Python,14
 374917397,onekey-sec/unblob,Python,97
 434220897,google-research/jax3d,Python,12

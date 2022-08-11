@@ -1,11 +1,11 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,64
-246335987,ventoy/Ventoy,C,122
+246335987,ventoy/Ventoy,C,107
 1357796,emscripten-core/emscripten,C,2
-196353673,taosdata/TDengine,C,2
-70777180,Foundry376/Mailspring,C,14
+196353673,taosdata/TDengine,C,3
+70777180,Foundry376/Mailspring,C,12
 184981,memcached/memcached,C,4
-65899476,espressif/esp-idf,C,5
+65899476,espressif/esp-idf,C,6
 3319040,id-Software/DOOM,C,6
 36749153,microsoft/react-native-code-push,C,3
 5383731,qemu/qemu,C,3
@@ -15,12 +15,12 @@ id,name,lang,new stars
 58132544,RediSearch/RediSearch,C,1
 29933948,fluent/fluent-bit,C,6
 1613176,tianocore/edk2,C,4
-473137633,cilium/tetragon,C,3
+473137633,cilium/tetragon,C,2
 28928522,wolfSSL/wolfssl,C,0
 191266671,algorand/go-algorand,C,5
 70934373,Azure/azure-iot-sdk-c,C,0
 340547709,espressif/esp-csi,C,11
-67323213,CoolerVoid/codewarrior,C,7
+67323213,CoolerVoid/codewarrior,C,9
 55718601,Bithack/principia,C,5
 496502838,hepingood/mifare_classic,C,4
-522477264,fail0verflow/bootmii,C,7
+522477264,fail0verflow/bootmii,C,5
