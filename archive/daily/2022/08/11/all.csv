@@ -1,24 +1,24 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,337
+60493101,jwasham/coding-interview-university,,335
 83222441,donnemartin/system-design-primer,Python,118
-63476337,TheAlgorithms/Python,Python,124
+63476337,TheAlgorithms/Python,Python,281
 155220641,huggingface/transformers,Python,55
-21872392,josephmisiti/awesome-machine-learning,Python,33
+21872392,josephmisiti/awesome-machine-learning,Python,124
 157616880,iptv-org/iptv,JavaScript,265
 22670857,enaqx/awesome-react,,47
 17620347,dotnet/aspnetcore,C#,14
-569041,curl/curl,C,49
-130884470,solidjs/solid,TypeScript,84
-277168957,eugeneyan/applied-ml,,180
-348060227,withastro/astro,TypeScript,585
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,94
-437245741,dragonflydb/dragonfly,C++,161
+569041,curl/curl,C,23
+130884470,solidjs/solid,TypeScript,59
+277168957,eugeneyan/applied-ml,,176
+348060227,withastro/astro,TypeScript,525
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,93
+437245741,dragonflydb/dragonfly,C++,124
 46398090,datahub-project/datahub,Java,17
 327859577,juicedata/juicefs,Go,18
-400215964,novuhq/novu,TypeScript,178
-304243554,craftzdog/dotfiles-public,Lua,74
-514395914,pacocoursey/cmdk,TypeScript,376
-415489170,Baiyuetribe/paper2gui,Jupyter Notebook,475
+400215964,novuhq/novu,TypeScript,140
+514395914,pacocoursey/cmdk,TypeScript,393
+304243554,craftzdog/dotfiles-public,Lua,185
+415489170,Baiyuetribe/paper2gui,Jupyter Notebook,257
 344190478,microsoft/AI-For-Beginners,Jupyter Notebook,46
 439491516,ange-yaghi/engine-sim,C++,643
 519127961,imbushuo/EnergyStar,C#,33
