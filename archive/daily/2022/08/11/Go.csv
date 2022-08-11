@@ -1,8 +1,8 @@
 id,name,lang,new stars
-136815833,Dreamacro/clash,Go,74
+136815833,Dreamacro/clash,Go,58
 234231371,gofiber/fiber,Go,59
 107286889,schollz/croc,Go,35
-123572362,quii/learn-go-with-tests,Go,10
+123572362,quii/learn-go-with-tests,Go,8
 6051812,gorilla/mux,Go,10
 21827146,seaweedfs/seaweedfs,Go,11
 66573241,hyperledger/fabric,Go,6
@@ -20,7 +20,7 @@ id,name,lang,new stars
 63882194,projectcalico/calico,Go,9
 154894457,open-policy-agent/gatekeeper,Go,4
 311639195,karmada-io/karmada,Go,9
-202018792,aws/copilot-cli,Go,7
+202018792,aws/copilot-cli,Go,8
 440220648,Mikaelemmmm/go-zero-looklook,Go,6
 49970739,DataDog/datadog-agent,Go,3
 318491505,Mirantis/cri-dockerd,Go,2
