@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,337
+60493101,jwasham/coding-interview-university,,335
+83222441,donnemartin/system-design-primer,Python,118
 63476337,TheAlgorithms/Python,Python,124
+155220641,huggingface/transformers,Python,55
+21872392,josephmisiti/awesome-machine-learning,Python,124
 157616880,iptv-org/iptv,JavaScript,265
-71583602,Developer-Y/cs-video-courses,,58
-137724480,hasura/graphql-engine,Haskell,17
-234231371,gofiber/fiber,Go,59
-277168957,eugeneyan/applied-ml,,180
-299628763,Asabeneh/30-Days-Of-React,JavaScript,132
-348060227,withastro/astro,TypeScript,585
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,94
-287463830,microsoft/qlib,Python,21
-493934907,InterviewReady/system-design-resources,,265
+22670857,enaqx/awesome-react,,47
+17620347,dotnet/aspnetcore,C#,14
+569041,curl/curl,C,23
+130884470,solidjs/solid,TypeScript,59
+277168957,eugeneyan/applied-ml,,176
+348060227,withastro/astro,TypeScript,799
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,93
+437245741,dragonflydb/dragonfly,C++,124
 46398090,datahub-project/datahub,Java,17
-138754790,duckdb/duckdb,C++,52
-519859998,toeverything/AFFiNE,TypeScript,695
-303802588,MatrixTM/MHDDoS,Python,197
+327859577,juicedata/juicefs,Go,18
+400215964,novuhq/novu,TypeScript,140
 304243554,craftzdog/dotfiles-public,Lua,74
-514395914,pacocoursey/cmdk,TypeScript,376
+514395914,pacocoursey/cmdk,TypeScript,393
 415489170,Baiyuetribe/paper2gui,Jupyter Notebook,257
-230630989,openairplay/airplay2-receiver,Python,75
-494822191,RalfJung/minirust,,48
-374917397,onekey-sec/unblob,Python,97
-219164711,leochen-g/wechat-assistant-pro,JavaScript,16
-522652638,Alcibiades-Capital/mev_bundle_generator,Rust,30
-521921309,rad9800/TamperingSyscalls,C++,42
+344190478,microsoft/AI-For-Beginners,Jupyter Notebook,46
+519127961,imbushuo/EnergyStar,C#,33
+439491516,ange-yaghi/engine-sim,C++,643
+515495663,punk-security/dnsReaper,Python,118
+485523585,nv-tlabs/ASE,Python,21
