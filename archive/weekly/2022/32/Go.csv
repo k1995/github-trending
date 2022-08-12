@@ -1,11 +1,11 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,251
+20580498,kubernetes/kubernetes,Go,252
 21540759,avelino/awesome-go,Go,466
 16752620,gogs/gogs,Go,75
 17803236,rclone/rclone,Go,127
-136815833,Dreamacro/clash,Go,355
+136815833,Dreamacro/clash,Go,354
 234231371,gofiber/fiber,Go,390
-285864199,zeromicro/go-zero,Go,227
+285864199,zeromicro/go-zero,Go,224
 19205896,restic/restic,Go,98
 42194129,docker-slim/docker-slim,Go,182
 75785240,authelia/authelia,Go,71
@@ -23,4 +23,4 @@ id,name,lang,new stars
 94166852,httprunner/httprunner,Go,45
 57912964,kubernetes/enhancements,Go,8
 474521466,helmfile/helmfile,Go,42
-429165235,flashbots/mev-boost,Go,42
+429165235,flashbots/mev-boost,Go,44
