@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,230
-83222441,donnemartin/system-design-primer,Python,150
-63476337,TheAlgorithms/Python,Python,274
-155220641,huggingface/transformers,Python,84
-21872392,josephmisiti/awesome-machine-learning,Python,30
-157616880,iptv-org/iptv,JavaScript,138
-22670857,enaqx/awesome-react,,61
-17620347,dotnet/aspnetcore,C#,19
-569041,curl/curl,C,67
-130884470,solidjs/solid,TypeScript,73
-277168957,eugeneyan/applied-ml,,182
-348060227,withastro/astro,TypeScript,542
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,189
-437245741,dragonflydb/dragonfly,C++,176
-46398090,datahub-project/datahub,Java,82
-400215964,novuhq/novu,TypeScript,250
-327859577,juicedata/juicefs,Go,55
-514395914,pacocoursey/cmdk,TypeScript,609
-304243554,craftzdog/dotfiles-public,Lua,173
-415489170,Baiyuetribe/paper2gui,Jupyter Notebook,472
-344190478,microsoft/AI-For-Beginners,Jupyter Notebook,137
-439491516,ange-yaghi/engine-sim,C++,748
-519127961,imbushuo/EnergyStar,C#,38
-515495663,punk-security/dnsReaper,Python,72
-485523585,nv-tlabs/ASE,Python,36
+63476337,TheAlgorithms/Python,Python,253
+147350463,leonardomso/33-js-concepts,JavaScript,23
+84811466,mqyqingfeng/Blog,,21
+4524181,facebook/folly,C++,11
+89822531,Anuken/Mindustry,Java,202
+95879426,Tencent/ncnn,C++,16
+348060227,withastro/astro,TypeScript,552
+16157746,dotnet/efcore,C#,8
+437245741,dragonflydb/dragonfly,C++,236
+72685026,MicrosoftDocs/azure-docs,PowerShell,6
+400215964,novuhq/novu,TypeScript,368
+46398090,datahub-project/datahub,Java,83
+303802588,MatrixTM/MHDDoS,Python,215
+99919302,apache/doris,C++,45
+153097643,openvinotoolkit/openvino,C++,3
+35890081,dotnet/docs,Dockerfile,7
+304243554,craftzdog/dotfiles-public,Lua,150
+390896426,microsoft/fluentui-emoji,,1270
+415489170,Baiyuetribe/paper2gui,Jupyter Notebook,449
+439491516,ange-yaghi/engine-sim,C++,739
+523379232,CompVis/stable-diffusion,Jupyter Notebook,460
+522646351,redballoonsecurity/ofrak,Python,163
+522554571,GetStream/whatsApp-clone-compose,Kotlin,46
+301337849,Unity-Technologies/com.unity.demoteam.hair,C#,31
+482159051,ocsf/ocsf-schema,,90
