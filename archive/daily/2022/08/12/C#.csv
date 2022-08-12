@@ -1,6 +1,6 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,14
-262395224,dotnet/maui,C#,12
+17620347,dotnet/aspnetcore,C#,19
+262395224,dotnet/maui,C#,13
 29078997,dotnet/roslyn,C#,9
 14964475,AvaloniaUI/Avalonia,C#,6
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,7
@@ -11,16 +11,16 @@ id,name,lang,new stars
 132453438,unoplatform/uno,C#,7
 743436,egametang/ET,C#,9
 50605426,microsoft/MixedRealityToolkit-Unity,C#,3
-778828,MassTransit/MassTransit,C#,8
-2928944,Azure/azure-sdk-for-net,C#,5
+778828,MassTransit/MassTransit,C#,7
+2928944,Azure/azure-sdk-for-net,C#,3
 117102183,ChilliCream/hotchocolate,C#,7
-10601208,umbraco/Umbraco-CMS,C#,1
+10601208,umbraco/Umbraco-CMS,C#,2
 64677873,Klocman/Bulk-Crap-Uninstaller,C#,15
 57153744,JosefPihrt/Roslynator,C#,4
 138290022,mob-sakai/ParticleEffectForUGUI,C#,4
 119571446,dotnet/samples,C#,2
-426700184,microsoft/dotnet-podcasts,C#,9
+426700184,microsoft/dotnet-podcasts,C#,8
 255952484,dotnet/maui-samples,C#,15
-519127961,imbushuo/EnergyStar,C#,33
+519127961,imbushuo/EnergyStar,C#,38
 101895131,DataDog/dd-trace-dotnet,C#,1
-301337849,Unity-Technologies/com.unity.demoteam.hair,C#,42
+301337849,Unity-Technologies/com.unity.demoteam.hair,C#,41
