@@ -1,0 +1,26 @@
+id,name,lang,new stars
+6838921,prometheus/prometheus,Go,26
+61137153,evanw/esbuild,Go,21
+56353740,kubernetes/minikube,Go,12
+43723161,helm/helm,Go,7
+234231371,gofiber/fiber,Go,38
+6247705,stretchr/testify,Go,10
+5179099,go-redis/redis,Go,10
+109145553,containers/podman,Go,46
+31660590,emirpasic/gods,Go,24
+208728772,milvus-io/milvus,Go,9
+100982449,argoproj/argo-workflows,Go,7
+11206255,Shopify/sarama,Go,5
+370977430,OpenIMSDK/Open-IM-Server,Go,14
+510607652,pocketbase/pocketbase,Go,64
+327859577,juicedata/juicefs,Go,86
+141089889,berty/berty,Go,14
+291485614,XIU2/CloudflareSpeedTest,Go,16
+7515336,davecgh/go-spew,Go,12
+14179252,kelseyhightower/envconfig,Go,11
+58184885,kubernetes/kube-state-metrics,Go,5
+299832860,livekit/livekit,Go,11
+93446042,hashicorp/terraform-provider-azurerm,Go,4
+333303663,Bytebase/Bytebase,Go,18
+236055696,grafana/tempo,Go,5
+440752086,coder/coder,Go,55
