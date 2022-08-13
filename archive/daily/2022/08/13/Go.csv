@@ -1,6 +1,6 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,31
-11180687,gohugoio/hugo,Go,142
+11180687,gohugoio/hugo,Go,149
 6838921,prometheus/prometheus,Go,26
 77071454,goreleaser/goreleaser,Go,5
 120896210,argoproj/argo-cd,Go,9
@@ -9,13 +9,13 @@ id,name,lang,new stars
 133067498,kubernetes-sigs/kustomize,Go,5
 135321861,ory/kratos,Go,7
 10721619,hajimehoshi/ebiten,Go,11
-327859577,juicedata/juicefs,Go,83
+327859577,juicedata/juicefs,Go,86
 147886080,crossplane/crossplane,Go,5
 291485614,XIU2/CloudflareSpeedTest,Go,16
 3802828,elazarl/goproxy,Go,5
-14179252,kelseyhightower/envconfig,Go,12
+14179252,kelseyhightower/envconfig,Go,11
 58184885,kubernetes/kube-state-metrics,Go,5
-333303663,Bytebase/Bytebase,Go,23
+333303663,Bytebase/Bytebase,Go,18
 14008364,jinzhu/copier,Go,2
 257434373,HyNetwork/hysteria,Go,12
 196978139,xinliangnote/Go,Go,3
