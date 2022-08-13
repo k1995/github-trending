@@ -1,17 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,239
+8514,rails/rails,Ruby,238
 7569578,discourse/discourse,Ruby,224
 27442967,fastlane/fastlane,Ruby,148
-53238813,Homebrew/brew,Ruby,386
 13840241,freeCodeCamp/devdocs,Ruby,310
-2293158,rapid7/metasploit-framework,Ruby,298
+2293158,rapid7/metasploit-framework,Ruby,293
 538746,ruby/ruby,Ruby,108
 202291859,chatwoot/chatwoot,Ruby,169
-1090311,elastic/logstash,Ruby,75
 4095287,rubocop/rubocop,Ruby,62
 96395,faker-ruby/faker,Ruby,172
 1725199,github/linguist,Ruby,120
-15435,Shopify/liquid,Ruby,109
 417389,lostisland/faraday,Ruby,43
 1952825,Homebrew/homebrew-bundle,Ruby,44
 21333814,lynndylanhurley/devise_token_auth,Ruby,15
@@ -19,7 +16,7 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,42
 14238949,elastic/elasticsearch-rails,Ruby,9
 200302808,github/view_component,Ruby,53
-1953385,stripe/stripe-ruby,Ruby,18
+1953385,stripe/stripe-ruby,Ruby,19
 55288882,d12frosted/homebrew-emacs-plus,Ruby,46
 161399160,Shopify/shopify-cli,Ruby,19
 3947396,getsentry/sentry-ruby,Ruby,9
