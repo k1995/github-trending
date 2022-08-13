@@ -2,14 +2,14 @@ id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,241
 21540759,avelino/awesome-go,Go,474
 14712850,syncthing/syncthing,Go,109
-16752620,gogs/gogs,Go,64
+16752620,gogs/gogs,Go,63
 136815833,Dreamacro/clash,Go,344
-134017286,jesseduffield/lazygit,Go,181
+134017286,jesseduffield/lazygit,Go,182
 16563587,cockroachdb/cockroach,Go,70
 234231371,gofiber/fiber,Go,419
-285864199,zeromicro/go-zero,Go,226
+285864199,zeromicro/go-zero,Go,227
 19205896,restic/restic,Go,114
-109145553,containers/podman,Go,185
+109145553,containers/podman,Go,186
 31660590,emirpasic/gods,Go,152
 66156850,TheAlgorithms/Go,Go,114
 311315731,XTLS/Xray-core,Go,79
@@ -22,4 +22,4 @@ id,name,lang,new stars
 247714750,zitadel/zitadel,Go,70
 474521466,helmfile/helmfile,Go,40
 484208174,acorn-io/acorn,Go,216
-318491505,Mirantis/cri-dockerd,Go,16
+318491505,Mirantis/cri-dockerd,Go,17

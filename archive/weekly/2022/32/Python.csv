@@ -1,17 +1,17 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,1052
-63476337,TheAlgorithms/Python,Python,813
+54346799,public-apis/public-apis,Python,1035
+63476337,TheAlgorithms/Python,Python,821
 123458551,jackfrued/Python-100-Days,Python,512
-155220641,huggingface/transformers,Python,426
-21872392,josephmisiti/awesome-machine-learning,Python,402
-355959597,Textualize/textual,Python,298
-192640529,heartexlabs/label-studio,Python,129
+155220641,huggingface/transformers,Python,427
+21872392,josephmisiti/awesome-machine-learning,Python,404
+355959597,Textualize/textual,Python,267
+192640529,heartexlabs/label-studio,Python,127
 139199684,PrefectHQ/prefect,Python,77
 89266735,facebookresearch/ParlAI,Python,364
-341714203,openai/DALL-E,Python,107
+341714203,openai/DALL-E,Python,110
 303802588,MatrixTM/MHDDoS,Python,944
 362806180,openreplay/openreplay,Python,114
-190823163,Datalux/Osintgram,Python,206
+190823163,Datalux/Osintgram,Python,205
 520708737,moyix/fauxpilot,Python,2159
 495587598,lucidrains/imagen-pytorch,Python,300
 509153572,jina-ai/discoart,Python,1016
@@ -21,6 +21,6 @@ id,name,lang,new stars
 489384246,p1ngul1n0/blackbird,Python,162
 370055539,Womsxd/AutoMihoyoBBS,Python,111
 516904877,google-research/multinerf,Python,234
-515792028,clovaai/donut,Python,70
-515485093,lwd-temp/anti-ip-attribution,Python,127
+515792028,clovaai/donut,Python,69
+515485093,lwd-temp/anti-ip-attribution,Python,128
 516457982,HeliXonProtein/OmegaFold,Python,75
