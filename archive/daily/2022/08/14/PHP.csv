@@ -1,12 +1,12 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,14
-3482588,danielmiessler/SecLists,PHP,17
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,2
-60243197,nextcloud/server,PHP,6
+3482588,danielmiessler/SecLists,PHP,12
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,3
+60243197,nextcloud/server,PHP,5
 82238168,monicahq/monica,PHP,2
 1631570,nikic/PHP-Parser,PHP,4
-22553797,getgrav/grav,PHP,1
-4549925,bobthecow/psysh,PHP,1
+22553797,getgrav/grav,PHP,0
+4549925,bobthecow/psysh,PHP,2
 212659,sebastianbergmann/php-code-coverage,PHP,3
 1398656,symfony/process,PHP,0
 14127912,sebastianbergmann/comparator,PHP,1
@@ -15,12 +15,12 @@ id,name,lang,new stars
 29690340,sebastianbergmann/recursion-context,PHP,0
 159606650,hyperf/hyperf,PHP,2
 3119126,symfony/filesystem,PHP,0
-73781385,orchidsoftware/platform,PHP,4
+73781385,orchidsoftware/platform,PHP,2
 69691727,pmmp/PocketMine-MP,PHP,0
 17253775,zabbix/zabbix,PHP,2
-404921727,luolongfei/freenom,PHP,8
+404921727,luolongfei/freenom,PHP,7
 75645659,WordPress/wordpress-develop,PHP,3
 143703053,rajkumardusad/IP-Tracer,PHP,2
-433383766,nextcloud/all-in-one,PHP,5
+433383766,nextcloud/all-in-one,PHP,4
 499717126,flucont/btcloud,PHP,2
 512430444,deaaprizal/cuyuniverse-forum,PHP,1
