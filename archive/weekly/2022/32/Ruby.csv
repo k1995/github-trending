@@ -1,8 +1,8 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,65
+8514,rails/rails,Ruby,63
 8681349,huginn/huginn,Ruby,55
-52281283,mastodon/mastodon,Ruby,74
-2293158,rapid7/metasploit-framework,Ruby,70
+52281283,mastodon/mastodon,Ruby,75
+2293158,rapid7/metasploit-framework,Ruby,69
 481872,hashicorp/vagrant,Ruby,46
 308770,heartcombo/devise,Ruby,20
 3623050,Homebrew/homebrew-cask,Ruby,20
@@ -12,8 +12,8 @@ id,name,lang,new stars
 1725199,github/linguist,Ruby,30
 15435,Shopify/liquid,Ruby,28
 6529205,varvet/pundit,Ruby,13
-22059578,ankane/pghero,Ruby,16
-6899875,opf/openproject,Ruby,30
+22059578,ankane/pghero,Ruby,15
+6899875,opf/openproject,Ruby,31
 1314319,instructure/canvas-lms,Ruby,7
 6768710,redmine/redmine,Ruby,8
 52316423,luggit/react-native-config,Ruby,9

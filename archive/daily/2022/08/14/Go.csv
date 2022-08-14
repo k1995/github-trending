@@ -1,7 +1,7 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,35
 11180687,gohugoio/hugo,Go,98
-6838921,prometheus/prometheus,Go,10
+6838921,prometheus/prometheus,Go,11
 77071454,goreleaser/goreleaser,Go,6
 120896210,argoproj/argo-cd,Go,5
 434218673,zinclabs/zinc,Go,10
@@ -13,7 +13,7 @@ id,name,lang,new stars
 147886080,crossplane/crossplane,Go,7
 291485614,XIU2/CloudflareSpeedTest,Go,22
 3802828,elazarl/goproxy,Go,8
-14179252,kelseyhightower/envconfig,Go,6
+14179252,kelseyhightower/envconfig,Go,7
 58184885,kubernetes/kube-state-metrics,Go,2
 333303663,Bytebase/Bytebase,Go,23
 14008364,jinzhu/copier,Go,3
