@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,15
+1863329,laravel/laravel,PHP,14
 458058,symfony/symfony,PHP,5
-60243197,nextcloud/server,PHP,10
-2253830,PHPMailer/PHPMailer,PHP,6
-82238168,monicahq/monica,PHP,4
-3431193,yiisoft/yii2,PHP,1
+60243197,nextcloud/server,PHP,11
+2253830,PHPMailer/PHPMailer,PHP,5
+82238168,monicahq/monica,PHP,3
+3431193,yiisoft/yii2,PHP,2
 22553797,getgrav/grav,PHP,2
 61490598,PHPOffice/PhpSpreadsheet,PHP,5
 72069409,the-control-group/voyager,PHP,0
 6660366,dompdf/dompdf,PHP,2
-42261096,fuzzdb-project/fuzzdb,PHP,3
-14346979,snipe/snipe-it,PHP,5
-4242230,PHPOffice/PHPWord,PHP,4
+42261096,fuzzdb-project/fuzzdb,PHP,0
+14346979,snipe/snipe-it,PHP,6
+4242230,PHPOffice/PHPWord,PHP,3
 10883164,barryvdh/laravel-dompdf,PHP,2
 439861,moodle/moodle,PHP,2
 31595609,mpdf/mpdf,PHP,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 400984450,kuaifan/dootask,PHP,4
 111562942,statamic/cms,PHP,2
 34407154,cweagans/composer-patches,PHP,0
-325478523,codeigniter4/shield,PHP,0
+325478523,codeigniter4/shield,PHP,1
