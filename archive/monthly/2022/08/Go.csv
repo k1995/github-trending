@@ -1,6 +1,6 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,1075
-21540759,avelino/awesome-go,Go,2055
+21540759,avelino/awesome-go,Go,2056
 11180687,gohugoio/hugo,Go,949
 29261473,minio/minio,Go,541
 72495579,go-gitea/gitea,Go,776
@@ -8,19 +8,19 @@ id,name,lang,new stars
 134017286,jesseduffield/lazygit,Go,741
 31288958,hashicorp/vault,Go,815
 4307108,nsqio/nsq,Go,1045
-156084530,ehang-io/nps,Go,426
-234231371,gofiber/fiber,Go,773
+156084530,ehang-io/nps,Go,424
+234231371,gofiber/fiber,Go,772
 21827146,seaweedfs/seaweedfs,Go,261
-72891330,kubernetes/ingress-nginx,Go,214
-31660590,emirpasic/gods,Go,530
+72891330,kubernetes/ingress-nginx,Go,212
+31660590,emirpasic/gods,Go,531
 66156850,TheAlgorithms/Go,Go,311
 161951219,wailsapp/wails,Go,2038
-11206255,Shopify/sarama,Go,275
-413918947,vercel/turborepo,Go,457
+11206255,Shopify/sarama,Go,276
+413918947,vercel/turborepo,Go,456
 184490584,GoogleCloudPlatform/terraformer,Go,394
-273871859,juanfont/headscale,Go,692
-327859577,juicedata/juicefs,Go,433
+273871859,juanfont/headscale,Go,691
+327859577,juicedata/juicefs,Go,451
 93446042,hashicorp/terraform-provider-azurerm,Go,96
 201546443,trustwallet/assets,Go,159
-187086161,open-telemetry/opentelemetry-go,Go,184
-503167251,kevwan/tproxy,Go,1408
+187086161,open-telemetry/opentelemetry-go,Go,183
+503167251,kevwan/tproxy,Go,1406
