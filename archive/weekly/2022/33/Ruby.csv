@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,61
-8681349,huginn/huginn,Ruby,52
-52281283,mastodon/mastodon,Ruby,65
-2293158,rapid7/metasploit-framework,Ruby,72
-481872,hashicorp/vagrant,Ruby,47
-308770,heartcombo/devise,Ruby,19
+8681349,huginn/huginn,Ruby,55
+52281283,mastodon/mastodon,Ruby,63
+2293158,rapid7/metasploit-framework,Ruby,71
+481872,hashicorp/vagrant,Ruby,46
+308770,heartcombo/devise,Ruby,18
 2203645,CocoaPods/CocoaPods,Ruby,11
-202291859,chatwoot/chatwoot,Ruby,38
+202291859,chatwoot/chatwoot,Ruby,39
 3195124,mperham/sidekiq,Ruby,10
-4095287,rubocop/rubocop,Ruby,10
+4095287,rubocop/rubocop,Ruby,9
 3314,spree/spree,Ruby,13
-1725199,github/linguist,Ruby,32
+1725199,github/linguist,Ruby,35
 15435,Shopify/liquid,Ruby,23
 6529205,varvet/pundit,Ruby,13
 6899875,opf/openproject,Ruby,31
@@ -21,6 +21,6 @@ id,name,lang,new stars
 138776049,sorbet/sorbet,Ruby,10
 11426474,github/choosealicense.com,Ruby,10
 209731662,ruby/debug,Ruby,7
-498774921,joeldrapper/phlex,Ruby,53
+498774921,joeldrapper/phlex,Ruby,51
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
 347104426,learn-co-curriculum/phase-3-nested-hash-iteration,Ruby,0
