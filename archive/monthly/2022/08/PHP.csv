@@ -1,12 +1,13 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,463
-3482588,danielmiessler/SecLists,PHP,790
-7548986,laravel/framework,PHP,290
+3482588,danielmiessler/SecLists,PHP,789
+7548986,laravel/framework,PHP,289
 458058,symfony/symfony,PHP,314
-60243197,nextcloud/server,PHP,213
-2889328,WordPress/WordPress,PHP,140
-5724990,briannesbitt/Carbon,PHP,90
+60243197,nextcloud/server,PHP,215
+2889328,WordPress/WordPress,PHP,139
+5724990,briannesbitt/Carbon,PHP,89
 7704544,Intervention/image,PHP,90
+4916869,ramsey/uuid,PHP,74
 61490598,PHPOffice/PhpSpreadsheet,PHP,116
 2884111,magento/magento2,PHP,70
 11340559,deployphp/deployer,PHP,135
@@ -14,13 +15,12 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,42
 9791525,digininja/DVWA,PHP,137
 97311017,rectorphp/rector,PHP,229
-12204147,mautic/mautic,PHP,158
-148129143,bagisto/bagisto,PHP,83
 60010673,elementor/elementor,PHP,70
-69691727,pmmp/PocketMine-MP,PHP,44
+62087941,nWidart/laravel-modules,PHP,113
+129852395,assimon/dujiaoka,PHP,149
 153069455,collabnix/dockerlabs,PHP,118
 12063996,osTicket/osTicket,PHP,35
 29745084,Leantime/leantime,PHP,262
-359687154,DenverCoder1/readme-typing-svg,PHP,157
+359687154,DenverCoder1/readme-typing-svg,PHP,156
 36526302,pentestmonkey/php-reverse-shell,PHP,52
-485064852,bradtraversy/laragigs,PHP,34
+485064852,bradtraversy/laragigs,PHP,33
