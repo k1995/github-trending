@@ -1,19 +1,19 @@
 id,name,lang,new stars
 11180687,gohugoio/hugo,Go,64
-14712850,syncthing/syncthing,Go,33
+14712850,syncthing/syncthing,Go,35
 41912791,v2ray/v2ray-core,Go,4
 17803236,rclone/rclone,Go,19
 212613049,cli/cli,Go,11
-97533102,halfrost/LeetCode-Go,Go,14
+97533102,halfrost/LeetCode-Go,Go,15
 119160553,photoprism/photoprism,Go,15
-122734569,iawia002/lux,Go,29
-434218673,zinclabs/zinc,Go,29
+122734569,iawia002/lux,Go,33
+434218673,zinclabs/zinc,Go,23
 67382094,Jguer/yay,Go,2
 323965659,alist-org/alist,Go,36
 140457254,OWASP/Amass,Go,10
 154643390,sundowndev/phoneinfoga,Go,11
-327859577,juicedata/juicefs,Go,27
-141089889,berty/berty,Go,38
+327859577,juicedata/juicefs,Go,26
+141089889,berty/berty,Go,34
 273132277,moonD4rk/HackBrowserData,Go,129
 351486934,gravitl/netmaker,Go,15
 52481933,navidrome/navidrome,Go,32
@@ -23,4 +23,4 @@ id,name,lang,new stars
 45356931,bwmarrin/discordgo,Go,5
 257434373,HyNetwork/hysteria,Go,5
 135951540,stashapp/stash,Go,5
-5538962,grafov/hulk,Go,6
+5538962,grafov/hulk,Go,8
