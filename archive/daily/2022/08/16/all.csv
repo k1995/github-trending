@@ -1,26 +1,25 @@
 id,name,lang,new stars
-126577260,trekhleb/javascript-algorithms,JavaScript,150
-1181927,bitcoin/bitcoin,C++,43
-1861458,hakimel/reveal.js,JavaScript,216
-147350463,leonardomso/33-js-concepts,JavaScript,85
-26898879,awesomedata/awesome-public-datasets,,79
-191529732,lydiahallie/javascript-questions,,87
-51980455,alacritty/alacritty,Rust,62
-9393759,photonstorm/phaser,JavaScript,40
-79162682,laurent22/joplin,TypeScript,149
-164554832,ageron/handson-ml2,Jupyter Notebook,64
-40484398,discordjs/discord.js,JavaScript,42
-43807251,tachiyomiorg/tachiyomi,Kotlin,42
-323048702,OpenBB-finance/OpenBBTerminal,Python,166
-71056775,kovidgoyal/kitty,Python,46
-45821540,openwrt/openwrt,C,30
-25129800,mikf/gallery-dl,Python,82
-523379232,CompVis/stable-diffusion,Jupyter Notebook,546
-111210856,aiogram/aiogram,Python,29
-206300925,PathOfBuildingCommunity/PathOfBuilding,Lua,21
-402267605,kenjihiranabe/The-Art-of-Linear-Algebra,TeX,452
+126577260,trekhleb/javascript-algorithms,JavaScript,155
+62607227,yangshun/tech-interview-handbook,JavaScript,80
+1861458,hakimel/reveal.js,JavaScript,220
+31504491,labstack/echo,Go,87
+85541218,ascoders/weekly,JavaScript,12
+168799526,rwightman/pytorch-image-models,Python,22
+196353673,taosdata/TDengine,C,16
+323048702,OpenBB-finance/OpenBBTerminal,Python,169
+266417772,pittcsc/Summer2023-Internships,Python,103
+46089560,containerd/containerd,Go,14
+365263843,denoland/fresh,TypeScript,38
+273871859,juanfont/headscale,Go,177
+375111441,coderQuad/New-Grad-Positions-2023,,56
+523379232,CompVis/stable-diffusion,Jupyter Notebook,552
+455229168,immich-app/immich,Dart,40
+402267605,kenjihiranabe/The-Art-of-Linear-Algebra,TeX,442
 523365444,erg-lang/erg,Rust,327
-426075845,MystenLabs/sui,Rust,28
-522646351,redballoonsecurity/ofrak,Python,156
-523652966,pintariching/rustle,Rust,79
-523942647,q164749/weixin,Python,34
+524595482,notpresident35/learn-awesome-gamedev,,144
+524596709,LSPosed/MagiskOnWSALocal,Shell,94
+520209902,KULeuven-COSIC/Starlink-FI,HTML,59
+520483837,davidbombal/python-keylogger,Python,40
+522573405,adrianhajdin/project_hoobank,JavaScript,40
+524458904,tyranid/blackhat-usa-2022-demos,PowerShell,49
+520482351,davidbombal/express-server-basic,JavaScript,16
