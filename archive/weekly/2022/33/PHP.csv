@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,119
-458058,symfony/symfony,PHP,38
-60243197,nextcloud/server,PHP,66
+1863329,laravel/laravel,PHP,120
+458058,symfony/symfony,PHP,37
+60243197,nextcloud/server,PHP,67
 82238168,monicahq/monica,PHP,68
 2889328,WordPress/WordPress,PHP,33
-12615154,barryvdh/laravel-debugbar,PHP,30
-4916869,ramsey/uuid,PHP,19
+12615154,barryvdh/laravel-debugbar,PHP,28
+4916869,ramsey/uuid,PHP,20
 41589337,BookStackApp/BookStack,PHP,47
 597887,doctrine/orm,PHP,12
 6660366,dompdf/dompdf,PHP,18
@@ -13,14 +13,14 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,15
 14346979,snipe/snipe-it,PHP,27
 2141186,opencart/opencart,PHP,12
-6269013,aws/aws-sdk-php,PHP,12
-351298555,thedevdojo/wave,PHP,24
+6269013,aws/aws-sdk-php,PHP,14
+351298555,thedevdojo/wave,PHP,23
 141720301,dr5hn/countries-states-cities-database,PHP,30
-1957456,Dolibarr/dolibarr,PHP,15
+1957456,Dolibarr/dolibarr,PHP,17
 69691727,pmmp/PocketMine-MP,PHP,11
 400984450,kuaifan/dootask,PHP,37
-111562942,statamic/cms,PHP,15
+111562942,statamic/cms,PHP,16
 189104054,laravel/ui,PHP,24
-404921727,luolongfei/freenom,PHP,70
-29745084,Leantime/leantime,PHP,212
+404921727,luolongfei/freenom,PHP,72
+29745084,Leantime/leantime,PHP,216
 485064852,bradtraversy/laragigs,PHP,9
