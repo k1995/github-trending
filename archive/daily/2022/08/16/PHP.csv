@@ -1,19 +1,19 @@
 id,name,lang,new stars
 60243197,nextcloud/server,PHP,11
-79111500,jupeter/clean-code-php,PHP,3
+79111500,jupeter/clean-code-php,PHP,2
 2884111,magento/magento2,PHP,1
 622166,FriendsOfPHP/Goutte,PHP,0
 5508585,YOURLS/YOURLS,PHP,6
-14346979,snipe/snipe-it,PHP,8
-14716368,invoiceninja/invoiceninja,PHP,4
-13612575,fruitcake/laravel-cors,PHP,1
+14346979,snipe/snipe-it,PHP,7
+14716368,invoiceninja/invoiceninja,PHP,3
+13612575,fruitcake/laravel-cors,PHP,0
 97311017,rectorphp/rector,PHP,3
 33916850,spatie/laravel-medialibrary,PHP,1
 159606650,hyperf/hyperf,PHP,5
-62087941,nWidart/laravel-modules,PHP,1
-248372441,filamentphp/filament,PHP,10
+62087941,nWidart/laravel-modules,PHP,0
+248372441,filamentphp/filament,PHP,9
 22751672,tecnickcom/TCPDF,PHP,2
-117567334,spatie/laravel-query-builder,PHP,5
+117567334,spatie/laravel-query-builder,PHP,4
 38200433,jeroennoten/Laravel-AdminLTE,PHP,3
 182349597,jqhph/dcat-admin,PHP,1
 17253775,zabbix/zabbix,PHP,6
@@ -23,4 +23,4 @@ id,name,lang,new stars
 204518880,owen0o0/WebStack,PHP,1
 433383766,nextcloud/all-in-one,PHP,2
 278767494,maxdenaro/maxgraph-youtube-source,PHP,1
-459059484,regnerisch/laravel-beyond,PHP,13
+459059484,regnerisch/laravel-beyond,PHP,12
