@@ -1,17 +1,17 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,51
-507775,elastic/elasticsearch,Java,22
-7508411,ReactiveX/RxJava,Java,11
-120395176,alibaba/easyexcel,Java,15
+132464395,Snailclimb/JavaGuide,Java,54
+507775,elastic/elasticsearch,Java,21
+7508411,ReactiveX/RxJava,Java,12
+120395176,alibaba/easyexcel,Java,17
 112785414,alibaba/spring-cloud-alibaba,Java,17
 20818126,google/ExoPlayer,Java,6
 75164823,apache/rocketmq,Java,8
 13404515,brettwooldridge/HikariCP,Java,4
 6207167,mockito/mockito,Java,10
-25459400,pinpoint-apm/pinpoint,Java,3
-45363955,lionsoul2014/ip2region,Java,13
+25459400,pinpoint-apm/pinpoint,Java,2
+45363955,lionsoul2014/ip2region,Java,11
 173335706,apache/dolphinscheduler,Java,9
-66023605,awsdocs/aws-doc-sdk-examples,Java,8
+66023605,awsdocs/aws-doc-sdk-examples,Java,10
 19641638,lettuce-io/lettuce-core,Java,2
 20089857,apache/hbase,Java,1
 248416273,didi/KnowStreaming,Java,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 158256479,apache/iceberg,Java,10
 131394823,apache/dubbo-samples,Java,1
 2928948,Azure/azure-sdk-for-java,Java,0
-279543583,alibaba/compileflow,Java,7
-103694377,OpenLiberty/open-liberty,Java,0
-2543687,geogebra/geogebra,Java,0
+279543583,alibaba/compileflow,Java,8
+103694377,OpenLiberty/open-liberty,Java,1
+2543687,geogebra/geogebra,Java,1
 64339521,AzureAD/microsoft-authentication-library-for-android,Java,0
