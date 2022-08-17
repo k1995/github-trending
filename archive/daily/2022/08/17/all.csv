@@ -1,25 +1,26 @@
 id,name,lang,new stars
-126577260,trekhleb/javascript-algorithms,JavaScript,276
-62607227,yangshun/tech-interview-handbook,JavaScript,119
-1861458,hakimel/reveal.js,JavaScript,196
-31504491,labstack/echo,Go,91
-85541218,ascoders/weekly,JavaScript,21
-168799526,rwightman/pytorch-image-models,Python,27
-196353673,taosdata/TDengine,C,33
-323048702,OpenBB-finance/OpenBBTerminal,Python,177
-266417772,pittcsc/Summer2023-Internships,Python,75
-46089560,containerd/containerd,Go,38
-365263843,denoland/fresh,TypeScript,119
-273871859,juanfont/headscale,Go,161
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1133
-375111441,coderQuad/New-Grad-Positions-2023,,56
-455229168,immich-app/immich,Dart,107
-402267605,kenjihiranabe/The-Art-of-Linear-Algebra,TeX,298
-523365444,erg-lang/erg,Rust,227
-524595482,notpresident35/learn-awesome-gamedev,,137
-520209902,KULeuven-COSIC/Starlink-FI,HTML,75
-524596709,LSPosed/MagiskOnWSALocal,Shell,91
-520483837,davidbombal/python-keylogger,Python,51
-522573405,adrianhajdin/project_hoobank,JavaScript,52
-524458904,tyranid/blackhat-usa-2022-demos,PowerShell,54
-520482351,davidbombal/express-server-basic,JavaScript,15
+126577260,trekhleb/javascript-algorithms,JavaScript,277
+9384267,electron/electron,C++,25
+26898879,awesomedata/awesome-public-datasets,,130
+31629751,cypress-io/cypress,JavaScript,28
+9393759,photonstorm/phaser,JavaScript,31
+115110181,swc-project/swc,Rust,25
+61722736,Kotlin/kotlinx.coroutines,Kotlin,3
+118105436,golang-migrate/migrate,Go,6
+72685026,MicrosoftDocs/azure-docs,PowerShell,6
+121647248,roboticcam/machine-learning-notes,Jupyter Notebook,40
+273871859,juanfont/headscale,Go,162
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1013
+248416273,didi/KnowStreaming,Java,8
+463337778,alembics/disco-diffusion,Jupyter Notebook,37
+425845325,Shopify/react-native-skia,TypeScript,29
+243478241,adi1090x/rofi,Shell,34
+117408191,Authing/Authing,,103
+386913925,ayntgl/discordo,Go,77
+517645892,movingparts-io/Pow,Swift,69
+524196484,engenheiracoelho/curriculo,,65
+508097028,Flangvik/TeamFiltration,C#,50
+524744625,CodeXTF2/Burp2Malleable,Python,19
+524967108,codeedu/imersao9,TypeScript,26
+505430663,lapras-inc/exam-swe-template,HTML,3
+517317376,SinicaGroup/Class-agnostic-Few-shot-Object-Counting,Python,11
