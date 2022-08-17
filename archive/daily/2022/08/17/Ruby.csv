@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,6
-52281283,mastodon/mastodon,Ruby,8
+8514,rails/rails,Ruby,8
+52281283,mastodon/mastodon,Ruby,6
 481872,hashicorp/vagrant,Ruby,9
 2500088,gitlabhq/gitlabhq,Ruby,3
-308770,heartcombo/devise,Ruby,3
-3195124,mperham/sidekiq,Ruby,3
+308770,heartcombo/devise,Ruby,2
+3195124,mperham/sidekiq,Ruby,4
 1918677,fluent/fluentd,Ruby,8
-15435,Shopify/liquid,Ruby,2
+15435,Shopify/liquid,Ruby,4
 611921,activeadmin/activeadmin,Ruby,0
 275604,resque/resque,Ruby,1
 6529205,varvet/pundit,Ruby,1
 6899875,opf/openproject,Ruby,2
 75785147,rails/webpacker,Ruby,0
-1548802,activerecord-hackery/ransack,Ruby,0
+1548802,activerecord-hackery/ransack,Ruby,1
 200302808,github/view_component,Ruby,3
 33225130,helpyio/helpy,Ruby,1
 588600,brianmario/mysql2,Ruby,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 20343475,googleapis/google-cloud-ruby,Ruby,0
 209731662,ruby/debug,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,0
-477217087,Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts,Ruby,10
+477217087,Digital-Forensics-Discord-Server/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts,Ruby,8

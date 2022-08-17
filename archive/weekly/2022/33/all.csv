@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,297
+31792824,flutter/flutter,Dart,300
 133442384,denoland/deno,Rust,249
-14712850,syncthing/syncthing,Go,161
+14712850,syncthing/syncthing,Go,175
 9393759,photonstorm/phaser,JavaScript,212
-79162682,laurent22/joplin,TypeScript,393
+79162682,laurent22/joplin,TypeScript,396
 4524181,facebook/folly,C++,121
-41889031,TeamNewPipe/NewPipe,Java,367
-196353673,taosdata/TDengine,C,209
-40892817,ethereum/solidity,C++,144
-348060227,withastro/astro,TypeScript,2592
-44804216,termux/termux-app,Java,278
+41889031,TeamNewPipe/NewPipe,Java,364
+196353673,taosdata/TDengine,C,218
+40892817,ethereum/solidity,C++,130
+348060227,withastro/astro,TypeScript,2174
+44804216,termux/termux-app,Java,234
 316836816,saadeghi/daisyui,Svelte,172
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,639
-437245741,dragonflydb/dragonfly,C++,1515
-13836499,raysan5/raylib,C,158
-519859998,toeverything/AFFiNE,TypeScript,2798
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,600
+437245741,dragonflydb/dragonfly,C++,1517
+13836499,raysan5/raylib,C,175
+519859998,toeverything/AFFiNE,TypeScript,2461
 400215964,novuhq/novu,TypeScript,2444
 273871859,juanfont/headscale,Go,405
-303802588,MatrixTM/MHDDoS,Python,784
-514395914,pacocoursey/cmdk,TypeScript,1400
+303802588,MatrixTM/MHDDoS,Python,650
+514395914,pacocoursey/cmdk,TypeScript,1267
 35890081,dotnet/docs,Dockerfile,42
-304243554,craftzdog/dotfiles-public,Lua,593
-440244590,CompVis/latent-diffusion,Jupyter Notebook,196
+304243554,craftzdog/dotfiles-public,Lua,551
+440244590,CompVis/latent-diffusion,Jupyter Notebook,202
 362242108,openai/guided-diffusion,Python,67
-440752086,coder/coder,Go,306
+440752086,coder/coder,Go,318
