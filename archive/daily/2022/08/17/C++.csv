@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,52
-22067521,ocornut/imgui,C++,35
-11171548,nlohmann/json,C++,22
-67702184,topjohnwu/Magisk,C++,30
-39840932,google/googletest,C++,8
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,10
-311683390,WerWolv/ImHex,C++,56
-19953044,google/flatbuffers,C++,16
+1181927,bitcoin/bitcoin,C++,50
+22067521,ocornut/imgui,C++,34
+11171548,nlohmann/json,C++,20
+67702184,topjohnwu/Magisk,C++,29
+39840932,google/googletest,C++,7
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,13
+311683390,WerWolv/ImHex,C++,54
+19953044,google/flatbuffers,C++,12
 1062572,catchorg/Catch2,C++,2
 194269070,skyline-emu/skyline,C++,27
 243487250,DayBreak-u/chineseocr_lite,C++,8
@@ -16,11 +16,11 @@ id,name,lang,new stars
 23496542,openai/triton,C++,5
 37770961,turanszkij/WickedEngine,C++,4
 139385800,baidu/lac,C++,5
-147106288,OneLoneCoder/olcPixelGameEngine,C++,5
+147106288,OneLoneCoder/olcPixelGameEngine,C++,3
 39283837,HowardHinnant/date,C++,0
 49244766,unicode-org/icu,C++,1
 510313729,focus-creative-games/hybridclr,C++,20
 439011383,userver-framework/userver,C++,4
 362484572,mitsuba-renderer/mitsuba3,C++,10
-70791926,kimci86/bkcrack,C++,9
-523364927,mandiant/STrace,C++,25
+70791926,kimci86/bkcrack,C++,11
+523364927,mandiant/STrace,C++,24

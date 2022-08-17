@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,124
-3482588,danielmiessler/SecLists,PHP,147
+1863329,laravel/laravel,PHP,125
+3482588,danielmiessler/SecLists,PHP,165
 1376664,Seldaek/monolog,PHP,17
 60243197,nextcloud/server,PHP,66
 82238168,monicahq/monica,PHP,71
 3431193,yiisoft/yii2,PHP,8
 4916869,ramsey/uuid,PHP,21
-41589337,BookStackApp/BookStack,PHP,40
+41589337,BookStackApp/BookStack,PHP,37
 597887,doctrine/orm,PHP,12
 677464,doctrine/dbal,PHP,16
 2179920,woocommerce/woocommerce,PHP,17
@@ -15,12 +15,12 @@ id,name,lang,new stars
 6269013,aws/aws-sdk-php,PHP,14
 11935508,RSS-Bridge/rss-bridge,PHP,34
 159606650,hyperf/hyperf,PHP,19
-439861,moodle/moodle,PHP,12
+439861,moodle/moodle,PHP,11
 351298555,thedevdojo/wave,PHP,20
 1957456,Dolibarr/dolibarr,PHP,20
 69691727,pmmp/PocketMine-MP,PHP,9
 131995661,shopware/platform,PHP,14
 404921727,luolongfei/freenom,PHP,52
-29745084,Leantime/leantime,PHP,168
-359687154,DenverCoder1/readme-typing-svg,PHP,40
-202195881,davidjconnelly/trongate-framework,PHP,47
+29745084,Leantime/leantime,PHP,139
+359687154,DenverCoder1/readme-typing-svg,PHP,39
+202195881,davidjconnelly/trongate-framework,PHP,44

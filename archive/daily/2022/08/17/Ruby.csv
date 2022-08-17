@@ -1,9 +1,9 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,14
 65252,jekyll/jekyll,Ruby,7
-52281283,mastodon/mastodon,Ruby,6
+52281283,mastodon/mastodon,Ruby,8
 37382858,kilimchoi/engineering-blogs,Ruby,4
-538746,ruby/ruby,Ruby,3
+538746,ruby/ruby,Ruby,5
 3623050,Homebrew/homebrew-cask,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,1
 18486300,lewagon/setup,Ruby,0
@@ -14,7 +14,7 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,5
 33739333,thoughtbot/administrate,Ruby,2
 1314319,instructure/canvas-lms,Ruby,1
-115859973,ddnexus/pagy,Ruby,3
+115859973,ddnexus/pagy,Ruby,1
 2050163,aws/aws-sdk-ruby,Ruby,0
 46698467,ankane/strong_migrations,Ruby,2
 200302808,github/view_component,Ruby,1
