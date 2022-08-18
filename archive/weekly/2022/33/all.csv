@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,300
+31792824,flutter/flutter,Dart,295
 133442384,denoland/deno,Rust,264
 14712850,syncthing/syncthing,Go,176
-9393759,photonstorm/phaser,JavaScript,268
+9393759,photonstorm/phaser,JavaScript,267
 79162682,laurent22/joplin,TypeScript,405
 4524181,facebook/folly,C++,120
-41889031,TeamNewPipe/NewPipe,Java,385
+41889031,TeamNewPipe/NewPipe,Java,376
 196353673,taosdata/TDengine,C,220
 40892817,ethereum/solidity,C++,124
-348060227,withastro/astro,TypeScript,2069
+348060227,withastro/astro,TypeScript,2076
 44804216,termux/termux-app,Java,230
-316836816,saadeghi/daisyui,Svelte,199
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,565
+316836816,saadeghi/daisyui,Svelte,179
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,566
 437245741,dragonflydb/dragonfly,C++,1365
 13836499,raysan5/raylib,C,178
 519859998,toeverything/AFFiNE,TypeScript,2403
-400215964,novuhq/novu,TypeScript,2464
-273871859,juanfont/headscale,Go,527
-303802588,MatrixTM/MHDDoS,Python,615
-514395914,pacocoursey/cmdk,TypeScript,1142
+400215964,novuhq/novu,TypeScript,2461
+273871859,juanfont/headscale,Go,525
+303802588,MatrixTM/MHDDoS,Python,616
+514395914,pacocoursey/cmdk,TypeScript,1154
 35890081,dotnet/docs,Dockerfile,43
-304243554,craftzdog/dotfiles-public,Lua,519
+304243554,craftzdog/dotfiles-public,Lua,521
 440244590,CompVis/latent-diffusion,Jupyter Notebook,199
 362242108,openai/guided-diffusion,Python,68
 440752086,coder/coder,Go,323
