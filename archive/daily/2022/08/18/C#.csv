@@ -1,16 +1,16 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,16
-262395224,dotnet/maui,C#,22
+49609581,PowerShell/PowerShell,C#,15
+262395224,dotnet/maui,C#,20
 29078997,dotnet/roslyn,C#,9
 14964475,AvaloniaUI/Avalonia,C#,13
 28239455,dotnet/AspNetCore.Docs,C#,3
-75505125,abpframework/abp,C#,6
+75505125,abpframework/abp,C#,4
 11591313,reactiveui/refit,C#,6
 35291446,itinance/react-native-fs,C#,2
 81770291,neuecc/MessagePack-CSharp,C#,4
-2928944,Azure/azure-sdk-for-net,C#,3
+2928944,Azure/azure-sdk-for-net,C#,4
 187499284,Cysharp/UniTask,C#,10
-141745943,vis2k/Mirror,C#,4
+141745943,vis2k/Mirror,C#,5
 166270225,dotnet-presentations/blazor-workshop,C#,2
 138646782,Azure/iotedge,C#,1
 73510119,aws/aws-lambda-dotnet,C#,1
@@ -19,7 +19,7 @@ id,name,lang,new stars
 281804942,a1xd/rawaccel,C#,8
 173170791,dotnet/SqlClient,C#,0
 156260788,Azure/azure-cosmos-dotnet-v3,C#,1
-508097028,Flangvik/TeamFiltration,C#,50
+508097028,Flangvik/TeamFiltration,C#,46
 525075757,engindemirog/nArchitecture,C#,31
 101895131,DataDog/dd-trace-dotnet,C#,2
 281189664,Azure/azure-functions-dotnet-worker,C#,0

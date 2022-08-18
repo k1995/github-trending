@@ -1,19 +1,19 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,159
-7548986,laravel/framework,PHP,11
+3482588,danielmiessler/SecLists,PHP,157
+7548986,laravel/framework,PHP,12
 448045,sebastianbergmann/phpunit,PHP,1
 8678290,barryvdh/laravel-ide-helper,PHP,4
 14259390,SpartnerNL/Laravel-Excel,PHP,2
 2884111,magento/magento2,PHP,3
 2699935,squizlabs/PHP_CodeSniffer,PHP,1
 6660366,dompdf/dompdf,PHP,2
-622166,FriendsOfPHP/Goutte,PHP,2
+622166,FriendsOfPHP/Goutte,PHP,3
 6269013,aws/aws-sdk-php,PHP,1
 33916850,spatie/laravel-medialibrary,PHP,3
 9826184,elastic/elasticsearch-php,PHP,0
 159606650,hyperf/hyperf,PHP,7
-60010673,elementor/elementor,PHP,1
-139191005,nunomaduro/larastan,PHP,3
+60010673,elementor/elementor,PHP,2
+139191005,nunomaduro/larastan,PHP,4
 1398629,symfony/config,PHP,2
 1957456,Dolibarr/dolibarr,PHP,0
 153069455,collabnix/dockerlabs,PHP,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 15231212,Automattic/jetpack,PHP,2
 1588858,FriendsOfSymfony/FOSElasticaBundle,PHP,0
 27249479,EC-CUBE/ec-cube,PHP,2
-459059484,regnerisch/laravel-beyond,PHP,6
+459059484,regnerisch/laravel-beyond,PHP,7

@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,239
-7569578,discourse/discourse,Ruby,224
+8514,rails/rails,Ruby,237
+7569578,discourse/discourse,Ruby,223
 27442967,fastlane/fastlane,Ruby,139
 52281283,mastodon/mastodon,Ruby,249
-13840241,freeCodeCamp/devdocs,Ruby,309
+13840241,freeCodeCamp/devdocs,Ruby,311
 2293158,rapid7/metasploit-framework,Ruby,293
 538746,ruby/ruby,Ruby,110
-202291859,chatwoot/chatwoot,Ruby,164
-1090311,elastic/logstash,Ruby,73
+202291859,chatwoot/chatwoot,Ruby,165
+1090311,elastic/logstash,Ruby,72
 3195124,mperham/sidekiq,Ruby,62
-4095287,rubocop/rubocop,Ruby,61
-96395,faker-ruby/faker,Ruby,172
+4095287,rubocop/rubocop,Ruby,60
+96395,faker-ruby/faker,Ruby,173
 1725199,github/linguist,Ruby,122
 15435,Shopify/liquid,Ruby,109
 4994614,wpscanteam/wpscan,Ruby,116
@@ -18,9 +18,9 @@ id,name,lang,new stars
 417389,lostisland/faraday,Ruby,38
 1952825,Homebrew/homebrew-bundle,Ruby,41
 21333814,lynndylanhurley/devise_token_auth,Ruby,15
-14238949,elastic/elasticsearch-rails,Ruby,10
-200302808,github/view_component,Ruby,61
-1953385,stripe/stripe-ruby,Ruby,23
+14238949,elastic/elasticsearch-rails,Ruby,9
+200302808,github/view_component,Ruby,62
+1953385,stripe/stripe-ruby,Ruby,24
 55288882,d12frosted/homebrew-emacs-plus,Ruby,50
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
 365723058,learn-co-curriculum/phase-4-creating-a-rails-api,Ruby,0
