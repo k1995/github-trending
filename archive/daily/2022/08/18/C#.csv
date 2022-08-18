@@ -1,17 +1,17 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,11
-262395224,dotnet/maui,C#,17
-29078997,dotnet/roslyn,C#,8
-14964475,AvaloniaUI/Avalonia,C#,15
+49609581,PowerShell/PowerShell,C#,15
+262395224,dotnet/maui,C#,16
+29078997,dotnet/roslyn,C#,9
+14964475,AvaloniaUI/Avalonia,C#,13
 28239455,dotnet/AspNetCore.Docs,C#,3
-75505125,abpframework/abp,C#,2
-11591313,reactiveui/refit,C#,5
+75505125,abpframework/abp,C#,5
+11591313,reactiveui/refit,C#,6
 35291446,itinance/react-native-fs,C#,3
 81770291,neuecc/MessagePack-CSharp,C#,4
 2928944,Azure/azure-sdk-for-net,C#,3
-187499284,Cysharp/UniTask,C#,9
-141745943,vis2k/Mirror,C#,5
-166270225,dotnet-presentations/blazor-workshop,C#,2
+187499284,Cysharp/UniTask,C#,8
+141745943,vis2k/Mirror,C#,7
+166270225,dotnet-presentations/blazor-workshop,C#,1
 138646782,Azure/iotedge,C#,1
 73510119,aws/aws-lambda-dotnet,C#,2
 92001425,space-wizards/space-station-14,C#,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 173170791,dotnet/SqlClient,C#,0
 156260788,Azure/azure-cosmos-dotnet-v3,C#,0
 508097028,Flangvik/TeamFiltration,C#,46
-525075757,engindemirog/nArchitecture,C#,33
+525075757,engindemirog/nArchitecture,C#,30
 101895131,DataDog/dd-trace-dotnet,C#,1
 281189664,Azure/azure-functions-dotnet-worker,C#,0
-393389928,Redth/ZXing.Net.Maui,C#,5
+393389928,Redth/ZXing.Net.Maui,C#,4

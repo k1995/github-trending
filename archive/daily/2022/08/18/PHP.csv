@@ -1,11 +1,11 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,151
-7548986,laravel/framework,PHP,11
+3482588,danielmiessler/SecLists,PHP,136
+7548986,laravel/framework,PHP,13
 448045,sebastianbergmann/phpunit,PHP,1
 8678290,barryvdh/laravel-ide-helper,PHP,3
-14259390,SpartnerNL/Laravel-Excel,PHP,2
+14259390,SpartnerNL/Laravel-Excel,PHP,3
 2884111,magento/magento2,PHP,4
-2699935,squizlabs/PHP_CodeSniffer,PHP,1
+2699935,squizlabs/PHP_CodeSniffer,PHP,2
 6660366,dompdf/dompdf,PHP,3
 622166,FriendsOfPHP/Goutte,PHP,1
 6269013,aws/aws-sdk-php,PHP,0
@@ -14,13 +14,13 @@ id,name,lang,new stars
 159606650,hyperf/hyperf,PHP,7
 60010673,elementor/elementor,PHP,3
 139191005,nunomaduro/larastan,PHP,3
-1398629,symfony/config,PHP,2
+1398629,symfony/config,PHP,1
 1957456,Dolibarr/dolibarr,PHP,0
-153069455,collabnix/dockerlabs,PHP,4
+153069455,collabnix/dockerlabs,PHP,5
 3193843,drush-ops/drush,PHP,0
 111562942,statamic/cms,PHP,1
-131995661,shopware/platform,PHP,2
-15231212,Automattic/jetpack,PHP,3
+131995661,shopware/platform,PHP,3
+15231212,Automattic/jetpack,PHP,2
 1588858,FriendsOfSymfony/FOSElasticaBundle,PHP,0
 27249479,EC-CUBE/ec-cube,PHP,2
-459059484,regnerisch/laravel-beyond,PHP,7
+459059484,regnerisch/laravel-beyond,PHP,5
