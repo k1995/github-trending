@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,296
+31792824,flutter/flutter,Dart,299
 133442384,denoland/deno,Rust,264
-14712850,syncthing/syncthing,Go,176
-9393759,photonstorm/phaser,JavaScript,268
+3482588,danielmiessler/SecLists,PHP,330
+9393759,photonstorm/phaser,JavaScript,267
 79162682,laurent22/joplin,TypeScript,405
 4524181,facebook/folly,C++,120
+234231371,gofiber/fiber,Go,202
 41889031,TeamNewPipe/NewPipe,Java,385
-196353673,taosdata/TDengine,C,220
-40892817,ethereum/solidity,C++,124
-348060227,withastro/astro,TypeScript,2069
+348060227,withastro/astro,TypeScript,2071
 44804216,termux/termux-app,Java,230
-316836816,saadeghi/daisyui,Svelte,206
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,565
-437245741,dragonflydb/dragonfly,C++,1365
+266417772,pittcsc/Summer2023-Internships,Python,530
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,566
+437245741,dragonflydb/dragonfly,C++,1364
 13836499,raysan5/raylib,C,178
-519859998,toeverything/AFFiNE,TypeScript,2403
 400215964,novuhq/novu,TypeScript,2464
-273871859,juanfont/headscale,Go,527
-303802588,MatrixTM/MHDDoS,Python,615
-514395914,pacocoursey/cmdk,TypeScript,1142
-35890081,dotnet/docs,Dockerfile,41
-304243554,craftzdog/dotfiles-public,Lua,519
+292014229,zellij-org/zellij,Rust,492
+273871859,juanfont/headscale,Go,525
+303802588,MatrixTM/MHDDoS,Python,616
+523379232,CompVis/stable-diffusion,Jupyter Notebook,4081
+439491516,ange-yaghi/engine-sim,C++,2247
+455229168,immich-app/immich,Dart,571
 440244590,CompVis/latent-diffusion,Jupyter Notebook,199
-362242108,openai/guided-diffusion,Python,68
+149554797,ethereum/consensus-specs,Python,23
 440752086,coder/coder,Go,323
+498011141,huggingface/diffusers,Python,241
