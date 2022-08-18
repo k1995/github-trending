@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,292
+31792824,flutter/flutter,Dart,295
 133442384,denoland/deno,Rust,264
-3482588,danielmiessler/SecLists,PHP,330
-9393759,photonstorm/phaser,JavaScript,268
-79162682,laurent22/joplin,TypeScript,405
+3482588,danielmiessler/SecLists,PHP,343
+9393759,photonstorm/phaser,JavaScript,267
+79162682,laurent22/joplin,TypeScript,410
 4524181,facebook/folly,C++,120
-234231371,gofiber/fiber,Go,202
-41889031,TeamNewPipe/NewPipe,Java,385
-348060227,withastro/astro,TypeScript,1854
+234231371,gofiber/fiber,Go,199
+41889031,TeamNewPipe/NewPipe,Java,376
+348060227,withastro/astro,TypeScript,1756
 44804216,termux/termux-app,Java,230
-266417772,pittcsc/Summer2023-Internships,Python,530
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,565
-437245741,dragonflydb/dragonfly,C++,1279
-13836499,raysan5/raylib,C,178
-400215964,novuhq/novu,TypeScript,2421
+266417772,pittcsc/Summer2023-Internships,Python,527
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,454
+437245741,dragonflydb/dragonfly,C++,1365
+13836499,raysan5/raylib,C,191
+400215964,novuhq/novu,TypeScript,2461
 292014229,zellij-org/zellij,Rust,492
-273871859,juanfont/headscale,Go,527
-303802588,MatrixTM/MHDDoS,Python,615
+273871859,juanfont/headscale,Go,653
+303802588,MatrixTM/MHDDoS,Python,449
 523379232,CompVis/stable-diffusion,Jupyter Notebook,4081
 439491516,ange-yaghi/engine-sim,C++,2247
 455229168,immich-app/immich,Dart,565
-440244590,CompVis/latent-diffusion,Jupyter Notebook,199
+440244590,CompVis/latent-diffusion,Jupyter Notebook,217
 149554797,ethereum/consensus-specs,Python,23
-440752086,coder/coder,Go,323
-498011141,huggingface/diffusers,Python,241
+440752086,coder/coder,Go,349
+498011141,huggingface/diffusers,Python,250

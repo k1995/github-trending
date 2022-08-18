@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,14
+8514,rails/rails,Ruby,11
 308770,heartcombo/devise,Ruby,2
-73648678,forem/forem,Ruby,10
+73648678,forem/forem,Ruby,9
 2203645,CocoaPods/CocoaPods,Ruby,0
 1090311,elastic/logstash,Ruby,1
-3195124,mperham/sidekiq,Ruby,4
-1918677,fluent/fluentd,Ruby,5
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,6
+3195124,mperham/sidekiq,Ruby,3
+1918677,fluent/fluentd,Ruby,4
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,4
 137805,redis/redis-rb,Ruby,0
 21333814,lynndylanhurley/devise_token_auth,Ruby,0
 46698467,ankane/strong_migrations,Ruby,4
@@ -14,13 +14,13 @@ id,name,lang,new stars
 14238949,elastic/elasticsearch-rails,Ruby,0
 200302808,github/view_component,Ruby,1
 117646,rubygems/rubygems.org,Ruby,2
-9500075,ytti/oxidized,Ruby,1
-29151578,rswag/rswag,Ruby,0
-39947871,karafka/karafka,Ruby,4
+9500075,ytti/oxidized,Ruby,0
+29151578,rswag/rswag,Ruby,1
+39947871,karafka/karafka,Ruby,3
 3947396,getsentry/sentry-ruby,Ruby,1
 70830890,bigbluebutton/greenlight,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 43709699,microsoft/OMS-Agent-for-Linux,Ruby,0
-3475088,derrickreimer/sequenced,Ruby,3
+3475088,derrickreimer/sequenced,Ruby,2
 212272090,CMSgov/price-transparency-guide,Ruby,0
 481257784,brewchetta/phase-3-practice-code-challenge-animal-shelter,Ruby,0
