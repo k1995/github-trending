@@ -1,10 +1,10 @@
 id,name,lang,new stars
 36502,git/git,C,19
 1903522,php/php-src,C,7
-196353673,taosdata/TDengine,C,16
-29759715,facebook/zstd,C,17
-18496166,gentilkiwi/mimikatz,C,9
-184909163,koekeishiya/yabai,C,29
+196353673,taosdata/TDengine,C,14
+29759715,facebook/zstd,C,16
+18496166,gentilkiwi/mimikatz,C,10
+184909163,koekeishiya/yabai,C,27
 60667730,lvgl/lvgl,C,10
 39242894,coturn/coturn,C,3
 214011414,kingToolbox/WindTerm,C,92
@@ -16,11 +16,11 @@ id,name,lang,new stars
 2341146,dunst-project/dunst,C,1
 45703884,olikraus/u8g2,C,1
 34807561,nanopb/nanopb,C,4
-34194075,ntop/nDPI,C,4
+34194075,ntop/nDPI,C,6
 49822610,cboxdoerfer/fsearch,C,15
 15991457,openssh/openssh-portable,C,2
 28928522,wolfSSL/wolfssl,C,4
 76305806,mcu-tools/mcuboot,C,6
 240153744,Rubberduckycooly/Sonic-Mania-Decompilation,C,33
-522642478,sipeed/TinyMaix,C,33
+522642478,sipeed/TinyMaix,C,31
 525383681,firedancer-io/firedancer,C,6

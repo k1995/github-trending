@@ -1,11 +1,11 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,236
-11180687,gohugoio/hugo,Go,480
-14712850,syncthing/syncthing,Go,183
-15452919,ethereum/go-ethereum,Go,128
+20904437,gin-gonic/gin,Go,233
+11180687,gohugoio/hugo,Go,481
+14712850,syncthing/syncthing,Go,184
+15452919,ethereum/go-ethereum,Go,129
 212613049,cli/cli,Go,92
 56353740,kubernetes/minikube,Go,51
-31504491,labstack/echo,Go,414
+31504491,labstack/echo,Go,415
 234231371,gofiber/fiber,Go,196
 123572362,quii/learn-go-with-tests,Go,81
 75785240,authelia/authelia,Go,64
