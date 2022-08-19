@@ -1,6 +1,6 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,8
-8681349,huginn/huginn,Ruby,8
+8681349,huginn/huginn,Ruby,10
 27442967,fastlane/fastlane,Ruby,9
 308770,heartcombo/devise,Ruby,2
 37382858,kilimchoi/engineering-blogs,Ruby,4
@@ -9,17 +9,17 @@ id,name,lang,new stars
 1090311,elastic/logstash,Ruby,0
 3195124,mperham/sidekiq,Ruby,3
 4095287,rubocop/rubocop,Ruby,2
-1918677,fluent/fluentd,Ruby,6
-96395,faker-ruby/faker,Ruby,5
-1725199,github/linguist,Ruby,3
+1918677,fluent/fluentd,Ruby,7
+96395,faker-ruby/faker,Ruby,6
+1725199,github/linguist,Ruby,2
 6529205,varvet/pundit,Ruby,2
 2889230,rails-api/active_model_serializers,Ruby,1
 30985840,solidusio/solidus,Ruby,1
-115859973,ddnexus/pagy,Ruby,0
+115859973,ddnexus/pagy,Ruby,2
 21333814,lynndylanhurley/devise_token_auth,Ruby,1
 14238949,elastic/elasticsearch-rails,Ruby,0
 34840276,elastic/ansible-elasticsearch,Ruby,0
-29151578,rswag/rswag,Ruby,0
+29151578,rswag/rswag,Ruby,1
 3947396,getsentry/sentry-ruby,Ruby,1
 387924838,learn-co-curriculum/phase-3-sinatra-react-project,Ruby,0
 481257784,brewchetta/phase-3-practice-code-challenge-animal-shelter,Ruby,0
