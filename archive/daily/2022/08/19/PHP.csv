@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,78
+3482588,danielmiessler/SecLists,PHP,71
 7548986,laravel/framework,PHP,10
 1864363,composer/composer,PHP,3
 61490598,PHPOffice/PhpSpreadsheet,PHP,5
@@ -9,18 +9,18 @@ id,name,lang,new stars
 656494,cakephp/cakephp,PHP,2
 10238429,tennc/webshell,PHP,6
 364315,predis/predis,PHP,1
-222873550,crater-invoice/crater,PHP,15
+222873550,crater-invoice/crater,PHP,17
 97311017,rectorphp/rector,PHP,14
 10883164,barryvdh/laravel-dompdf,PHP,0
 74386167,vimeo/psalm,PHP,1
 148129143,bagisto/bagisto,PHP,4
 4224042,roundcube/roundcubemail,PHP,4
-8077402,MISP/MISP,PHP,3
+8077402,MISP/MISP,PHP,2
 142127816,zhuifengshaonianhanlu/pikachu,PHP,3
 3193843,drush-ops/drush,PHP,0
 679584,openemr/openemr,PHP,0
 75645659,WordPress/wordpress-develop,PHP,0
 34407154,cweagans/composer-patches,PHP,4
-449470351,hammerstonedev/fast-paginate,PHP,8
+449470351,hammerstonedev/fast-paginate,PHP,9
 39181895,Adyen/adyen-magento2,PHP,0
 384016959,seata/seata-php,PHP,2

@@ -3,14 +3,14 @@ id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,40
 8681349,huginn/huginn,Ruby,49
 2293158,rapid7/metasploit-framework,Ruby,64
-481872,hashicorp/vagrant,Ruby,46
+481872,hashicorp/vagrant,Ruby,43
 2203645,CocoaPods/CocoaPods,Ruby,12
-202291859,chatwoot/chatwoot,Ruby,39
+202291859,chatwoot/chatwoot,Ruby,41
 3195124,mperham/sidekiq,Ruby,15
 3314,spree/spree,Ruby,17
 88740103,postalserver/postal,Ruby,17
 106995,sinatra/sinatra,Ruby,14
-1725199,github/linguist,Ruby,39
+1725199,github/linguist,Ruby,40
 451035,heartcombo/simple_form,Ruby,2
 6529205,varvet/pundit,Ruby,12
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,30
@@ -18,7 +18,7 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,26
 30985840,solidusio/solidus,Ruby,18
 103766152,github/explore,Ruby,14
-138776049,sorbet/sorbet,Ruby,9
+138776049,sorbet/sorbet,Ruby,8
 39947871,karafka/karafka,Ruby,25
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,4
 209731662,ruby/debug,Ruby,7
