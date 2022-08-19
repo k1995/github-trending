@@ -1,10 +1,11 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,70
-100060912,microsoft/terminal,C++,31
+100060912,microsoft/terminal,C++,32
 23357588,protocolbuffers/protobuf,C++,18
 11171548,nlohmann/json,C++,16
-39840932,google/googletest,C++,15
-160083795,SerenityOS/serenity,C++,13
+1200050,ariya/phantomjs,C++,3
+39840932,google/googletest,C++,16
+160083795,SerenityOS/serenity,C++,14
 19953044,google/flatbuffers,C++,11
 125098880,ValveSoftware/Proton,C++,15
 7056202,fmtlib/fmt,C++,7
@@ -13,13 +14,13 @@ id,name,lang,new stars
 51905353,apache/arrow,C++,4
 19866730,citra-emu/citra,C++,2
 181436799,alibaba/MNN,C++,4
-7232856,AGWA/git-crypt,C++,4
+7232856,AGWA/git-crypt,C++,6
 223904726,wang-xinyu/tensorrtx,C++,2
 153097643,openvinotoolkit/openvino,C++,2
 471960338,BoomingTech/Piccolo,C++,9
-47440536,cocos/cocos-engine,C++,10
+47440536,cocos/cocos-engine,C++,11
 52400453,IntelRealSense/realsense-ros,C++,3
-135363400,ros-planning/navigation2,C++,1
+135363400,ros-planning/navigation2,C++,0
 497837654,microsoft/proxy,C++,21
 471439077,grindylow/ahoy,C++,2
-500449747,Rubberduckycooly/RSDKv5-Decompilation,C++,11
+500449747,Rubberduckycooly/RSDKv5-Decompilation,C++,12
