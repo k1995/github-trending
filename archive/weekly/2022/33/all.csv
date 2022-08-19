@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,286
+126577260,trekhleb/javascript-algorithms,JavaScript,1354
 133442384,denoland/deno,Rust,290
 3482588,danielmiessler/SecLists,PHP,353
+31629751,cypress-io/cypress,JavaScript,255
 9393759,photonstorm/phaser,JavaScript,327
-79162682,laurent22/joplin,TypeScript,413
-4524181,facebook/folly,C++,116
-234231371,gofiber/fiber,Go,196
+79162682,laurent22/joplin,TypeScript,421
 41889031,TeamNewPipe/NewPipe,Java,393
-348060227,withastro/astro,TypeScript,1796
-44804216,termux/termux-app,Java,224
-266417772,pittcsc/Summer2023-Internships,Python,537
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,425
+348060227,withastro/astro,TypeScript,1794
+316836816,saadeghi/daisyui,Svelte,208
+180687624,aquasecurity/trivy,Go,289
+266417772,pittcsc/Summer2023-Internships,Python,508
 437245741,dragonflydb/dragonfly,C++,1173
-13836499,raysan5/raylib,C,190
-400215964,novuhq/novu,TypeScript,2171
-292014229,zellij-org/zellij,Rust,517
-273871859,juanfont/headscale,Go,664
-303802588,MatrixTM/MHDDoS,Python,384
+13836499,raysan5/raylib,C,196
+400215964,novuhq/novu,TypeScript,1886
+273871859,juanfont/headscale,Go,663
+327859577,juicedata/juicefs,Go,256
 523379232,CompVis/stable-diffusion,Jupyter Notebook,3919
-439491516,ange-yaghi/engine-sim,C++,1809
-455229168,immich-app/immich,Dart,606
-440244590,CompVis/latent-diffusion,Jupyter Notebook,216
+390896426,microsoft/fluentui-emoji,,2097
+243478241,adi1090x/rofi,Shell,411
+304243554,craftzdog/dotfiles-public,Lua,354
+439491516,ange-yaghi/engine-sim,C++,1810
+455229168,immich-app/immich,Dart,592
 149554797,ethereum/consensus-specs,Python,29
-440752086,coder/coder,Go,360
-498011141,huggingface/diffusers,Python,259
+498011141,huggingface/diffusers,Python,276
+522646351,redballoonsecurity/ofrak,Python,635
