@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,103
+1863329,laravel/laravel,PHP,102
 3482588,danielmiessler/SecLists,PHP,381
-7548986,laravel/framework,PHP,59
+7548986,laravel/framework,PHP,58
 60243197,nextcloud/server,PHP,59
 2253830,PHPMailer/PHPMailer,PHP,32
 82238168,monicahq/monica,PHP,49
@@ -12,10 +12,10 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,24
 14716368,invoiceninja/invoiceninja,PHP,16
 2141186,opencart/opencart,PHP,10
-222873550,crater-invoice/crater,PHP,73
+222873550,crater-invoice/crater,PHP,72
 97311017,rectorphp/rector,PHP,54
 10883164,barryvdh/laravel-dompdf,PHP,14
-11935508,RSS-Bridge/rss-bridge,PHP,29
+11935508,RSS-Bridge/rss-bridge,PHP,30
 159606650,hyperf/hyperf,PHP,25
 60010673,elementor/elementor,PHP,16
 1957456,Dolibarr/dolibarr,PHP,14
@@ -23,4 +23,4 @@ id,name,lang,new stars
 142127816,zhuifengshaonianhanlu/pikachu,PHP,30
 131995661,shopware/platform,PHP,11
 449470351,hammerstonedev/fast-paginate,PHP,63
-433383766,nextcloud/all-in-one,PHP,27
+433383766,nextcloud/all-in-one,PHP,28
