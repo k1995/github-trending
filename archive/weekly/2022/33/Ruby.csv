@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,62
 8681349,huginn/huginn,Ruby,51
-2293158,rapid7/metasploit-framework,Ruby,65
+2293158,rapid7/metasploit-framework,Ruby,64
 73648678,forem/forem,Ruby,42
 202291859,chatwoot/chatwoot,Ruby,44
 3195124,mperham/sidekiq,Ruby,16
-3314,spree/spree,Ruby,18
-106995,sinatra/sinatra,Ruby,11
+3314,spree/spree,Ruby,16
+106995,sinatra/sinatra,Ruby,12
 52855516,Homebrew/homebrew-core,Ruby,31
 611921,activeadmin/activeadmin,Ruby,3
 451035,heartcombo/simple_form,Ruby,2
@@ -14,10 +14,10 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,4
 910744,puppetlabs/puppet,Ruby,14
 211588,paper-trail-gem/paper_trail,Ruby,5
-6899875,opf/openproject,Ruby,26
+6899875,opf/openproject,Ruby,27
 417389,lostisland/faraday,Ruby,1
 1314319,instructure/canvas-lms,Ruby,7
-30985840,solidusio/solidus,Ruby,18
+30985840,solidusio/solidus,Ruby,17
 363163,bblimke/webmock,Ruby,2
 11426474,github/choosealicense.com,Ruby,15
 29151578,rswag/rswag,Ruby,6
