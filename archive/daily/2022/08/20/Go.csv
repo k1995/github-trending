@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,35
+15045751,docker/compose,Go,13
+26337322,rancher/rancher,Go,10
+11008207,vitessio/vitess,Go,11
+180687624,aquasecurity/trivy,Go,34
+66841911,qax-os/excelize,Go,7
+33258973,influxdata/telegraf,Go,1
+30711774,go-playground/validator,Go,11
+109162639,thanos-io/thanos,Go,2
+119419195,GoogleContainerTools/kaniko,Go,10
+148545807,kubernetes-sigs/kind,Go,2
+118105436,golang-migrate/migrate,Go,18
+252813491,projectdiscovery/nuclei,Go,58
+48714685,open-policy-agent/opa,Go,5
+273871859,juanfont/headscale,Go,67
+403020531,abiosoft/colima,Go,22
+318476701,containerd/nerdctl,Go,15
+134539560,weaveworks/eksctl,Go,1
+57333709,kubernetes/test-infra,Go,5
+175592968,volcano-sh/volcano,Go,8
+116392590,stefanprodan/podinfo,Go,8
+124157517,kubernetes-sigs/cluster-api,Go,4
+158012967,argoproj/argo-rollouts,Go,7
+325214621,forPelevin/gomoji,Go,112
+494426870,flashbots/mev-boost-relay,Go,34
