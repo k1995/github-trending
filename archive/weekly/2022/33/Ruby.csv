@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,64
-65252,jekyll/jekyll,Ruby,46
+8514,rails/rails,Ruby,65
+65252,jekyll/jekyll,Ruby,47
 8681349,huginn/huginn,Ruby,59
-53238813,Homebrew/brew,Ruby,96
-37382858,kilimchoi/engineering-blogs,Ruby,36
+53238813,Homebrew/brew,Ruby,97
+37382858,kilimchoi/engineering-blogs,Ruby,34
 538746,ruby/ruby,Ruby,28
 202291859,chatwoot/chatwoot,Ruby,47
 3195124,mperham/sidekiq,Ruby,16
 3314,spree/spree,Ruby,19
 106995,sinatra/sinatra,Ruby,11
-52855516,Homebrew/homebrew-core,Ruby,34
+52855516,Homebrew/homebrew-core,Ruby,32
 1918677,fluent/fluentd,Ruby,31
 611921,activeadmin/activeadmin,Ruby,3
 6529205,varvet/pundit,Ruby,8
@@ -19,7 +19,7 @@ id,name,lang,new stars
 1314319,instructure/canvas-lms,Ruby,8
 30985840,solidusio/solidus,Ruby,17
 21333814,lynndylanhurley/devise_token_auth,Ruby,5
-194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,18
+194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,19
 29151578,rswag/rswag,Ruby,7
 39947871,karafka/karafka,Ruby,15
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,3
