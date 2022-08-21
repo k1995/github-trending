@@ -1,21 +1,21 @@
 id,name,lang,new stars
-23096959,golang/go,Go,296
-20580498,kubernetes/kubernetes,Go,252
-48378947,fatedier/frp,Go,244
+23096959,golang/go,Go,298
+20580498,kubernetes/kubernetes,Go,250
+48378947,fatedier/frp,Go,253
 14712850,syncthing/syncthing,Go,184
 31504491,labstack/echo,Go,402
-234231371,gofiber/fiber,Go,193
+234231371,gofiber/fiber,Go,201
 26337322,rancher/rancher,Go,48
 122734569,iawia002/lux,Go,163
-180687624,aquasecurity/trivy,Go,314
+180687624,aquasecurity/trivy,Go,316
 62712899,AdguardTeam/AdGuardHome,Go,100
 46089560,containerd/containerd,Go,166
 118105436,golang-migrate/migrate,Go,165
-252813491,projectdiscovery/nuclei,Go,213
+252813491,projectdiscovery/nuclei,Go,216
 237523442,tailscale/tailscale,Go,107
 273871859,juanfont/headscale,Go,722
 40539602,99designs/aws-vault,Go,108
-327859577,juicedata/juicefs,Go,174
+327859577,juicedata/juicefs,Go,141
 94779471,aquasecurity/kube-bench,Go,28
 410430370,IceWhaleTech/CasaOS,Go,108
 52481933,navidrome/navidrome,Go,137
@@ -23,4 +23,4 @@ id,name,lang,new stars
 45356931,bwmarrin/discordgo,Go,33
 332606283,lcvvvv/kscan,Go,86
 440752086,coder/coder,Go,320
-93446075,hashicorp/terraform-provider-google,Go,12
+93446075,hashicorp/terraform-provider-google,Go,13

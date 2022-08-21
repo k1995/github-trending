@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,431
+2325298,torvalds/linux,C,434
 10744183,netdata/netdata,C,122
-13233158,obsproject/obs-studio,C,234
-246335987,ventoy/Ventoy,C,381
-24586308,cfenollosa/os-tutorial,C,65
-102578345,coolsnowwolf/lede,C,99
-14812739,libuv/libuv,C,47
+13233158,obsproject/obs-studio,C,235
+246335987,ventoy/Ventoy,C,378
+24586308,cfenollosa/os-tutorial,C,66
+102578345,coolsnowwolf/lede,C,98
+14812739,libuv/libuv,C,48
 196353673,taosdata/TDengine,C,228
 80286288,arendst/Tasmota,C,75
-34921116,iovisor/bcc,C,64
+34921116,iovisor/bcc,C,65
 45821540,openwrt/openwrt,C,132
 13836499,raysan5/raylib,C,182
 7715820,davatorium/rofi,C,79
@@ -18,9 +18,9 @@ id,name,lang,new stars
 18106269,lz4/lz4,C,86
 3565909,raspberrypi/firmware,C,7
 247875738,zeldaret/oot,C,18
-2359378,madler/zlib,C,16
+2359378,madler/zlib,C,18
 34807561,nanopb/nanopb,C,19
-184654298,bytecodealliance/wasm-micro-runtime,C,19
+184654298,bytecodealliance/wasm-micro-runtime,C,17
 61231339,raysan5/raygui,C,20
 203759896,immortalwrt/immortalwrt,C,20
-514823055,hepingood/mpu6050,C,45
+514823055,hepingood/mpu6050,C,43
