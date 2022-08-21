@@ -1,5 +1,5 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,32
+20580498,kubernetes/kubernetes,Go,35
 7691631,moby/moby,Go,19
 48378947,fatedier/frp,Go,22
 13855476,go-gorm/gorm,Go,8
@@ -7,20 +7,20 @@ id,name,lang,new stars
 135516270,k3s-io/k3s,Go,11
 285864199,zeromicro/go-zero,Go,15
 26337322,rancher/rancher,Go,10
-192632000,dapr/dapr,Go,7
-27729907,grpc/grpc-go,Go,10
-33352201,grpc-ecosystem/grpc-gateway,Go,10
-191655189,ent/ent,Go,6
+192632000,dapr/dapr,Go,14
+27729907,grpc/grpc-go,Go,8
+33352201,grpc-ecosystem/grpc-gateway,Go,13
+191655189,ent/ent,Go,9
 434218673,zinclabs/zinc,Go,119
 367284699,lima-vm/lima,Go,7
-274625369,infracost/infracost,Go,17
-19537979,TykTechnologies/tyk,Go,7
+274625369,infracost/infracost,Go,11
+19537979,TykTechnologies/tyk,Go,8
 66509131,kubernetes/client-go,Go,4
 384451028,cloudwego/kitex,Go,13
-51193526,cosmos/cosmos-sdk,Go,4
+51193526,cosmos/cosmos-sdk,Go,7
 306366900,casdoor/casdoor,Go,7
-175592968,volcano-sh/volcano,Go,7
+175592968,volcano-sh/volcano,Go,8
 105711679,envoyproxy/protoc-gen-validate,Go,8
 491539130,cloudwego/hertz,Go,6
-524270841,MadAppGang/httplog,Go,15
+524270841,MadAppGang/httplog,Go,11
 523372474,awslabs/soci-snapshotter,Go,12
