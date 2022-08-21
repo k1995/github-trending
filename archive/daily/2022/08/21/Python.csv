@@ -1,17 +1,17 @@
 id,name,lang,new stars
 71948498,localstack/localstack,Python,102
 71220757,swisskyrepo/PayloadsAllTheThings,Python,60
-74627617,commaai/openpilot,Python,14
+74627617,commaai/openpilot,Python,13
 264818686,ultralytics/yolov5,Python,25
 262296122,PaddlePaddle/PaddleOCR,Python,11
 2909429,nicolargo/glances,Python,39
 168799526,rwightman/pytorch-image-models,Python,8
-184460,celery/celery,Python,7
+184460,celery/celery,Python,9
 48623558,chubin/wttr.in,Python,18
 240315046,jina-ai/jina,Python,35
 387326890,xinntao/Real-ESRGAN,Python,65
 136202695,mlflow/mlflow,Python,3
-22844864,matrix-org/synapse,Python,5
+22844864,matrix-org/synapse,Python,6
 267176885,facebookresearch/detr,Python,8
 479491550,bloomberg/memray,Python,12
 70746484,apache/tvm,Python,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 370055539,Womsxd/AutoMihoyoBBS,Python,6
 516054113,apple/ml-neuman,Python,12
 520969009,mouredev/Hello-Python,Python,9
-373674258,TimDettmers/bitsandbytes,Python,23
+373674258,TimDettmers/bitsandbytes,Python,22

@@ -4,14 +4,14 @@ id,name,lang,new stars
 7634677,openssl/openssl,C,8
 80286288,arendst/Tasmota,C,18
 7710647,jedisct1/libsodium,C,5
-65899476,espressif/esp-idf,C,8
+65899476,espressif/esp-idf,C,7
 214011414,kingToolbox/WindTerm,C,46
 54280778,DaveGamble/cJSON,C,10
 16734696,meetecho/janus-gateway,C,3
 2359378,madler/zlib,C,1
 6687936,Mbed-TLS/mbedtls,C,1
 330008801,libsdl-org/SDL,C,11
-334777857,ravynsoft/ravynos,C,112
+334777857,ravynsoft/ravynos,C,109
 34807561,nanopb/nanopb,C,2
 128791889,haproxy/haproxy,C,4
 6860771,hathach/tinyusb,C,1
