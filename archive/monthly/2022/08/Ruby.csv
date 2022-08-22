@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,236
-52281283,mastodon/mastodon,Ruby,244
-13840241,freeCodeCamp/devdocs,Ruby,294
-2293158,rapid7/metasploit-framework,Ruby,283
-202291859,chatwoot/chatwoot,Ruby,172
-3195124,mperham/sidekiq,Ruby,59
-4095287,rubocop/rubocop,Ruby,60
-15435,Shopify/liquid,Ruby,102
-611921,activeadmin/activeadmin,Ruby,22
+8514,rails/rails,Ruby,238
+52281283,mastodon/mastodon,Ruby,245
+13840241,freeCodeCamp/devdocs,Ruby,293
+2293158,rapid7/metasploit-framework,Ruby,280
+202291859,chatwoot/chatwoot,Ruby,171
+3195124,mperham/sidekiq,Ruby,60
+4095287,rubocop/rubocop,Ruby,58
+15435,Shopify/liquid,Ruby,103
+611921,activeadmin/activeadmin,Ruby,21
 6529205,varvet/pundit,Ruby,40
 4994614,wpscanteam/wpscan,Ruby,114
-211588,paper-trail-gem/paper_trail,Ruby,27
+211588,paper-trail-gem/paper_trail,Ruby,25
 6899875,opf/openproject,Ruby,84
 1952825,Homebrew/homebrew-bundle,Ruby,42
 950915,urbanadventurer/WhatWeb,Ruby,72
@@ -18,8 +18,8 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,45
 189010173,Hackplayers/evil-winrm,Ruby,90
 200302808,github/view_component,Ruby,65
-1953385,stripe/stripe-ruby,Ruby,24
-55288882,d12frosted/homebrew-emacs-plus,Ruby,53
+1953385,stripe/stripe-ruby,Ruby,23
+55288882,d12frosted/homebrew-emacs-plus,Ruby,52
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,2
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
