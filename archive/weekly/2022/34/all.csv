@@ -1,26 +1,26 @@
 id,name,lang,new stars
-126577260,trekhleb/javascript-algorithms,JavaScript,1466
-133442384,denoland/deno,Rust,319
-31629751,cypress-io/cypress,JavaScript,286
-214587193,supabase/supabase,TypeScript,987
-67186968,chinese-poetry/chinese-poetry,JavaScript,152
-9393759,photonstorm/phaser,JavaScript,376
-31504491,labstack/echo,Go,404
+126577260,trekhleb/javascript-algorithms,JavaScript,1445
+9384267,electron/electron,C++,242
+133442384,denoland/deno,Rust,322
+214587193,supabase/supabase,TypeScript,1076
+9393759,photonstorm/phaser,JavaScript,381
+31504491,labstack/echo,Go,341
+234231371,gofiber/fiber,Go,208
 196353673,taosdata/TDengine,C,215
-80286288,arendst/Tasmota,C,107
-348060227,withastro/astro,TypeScript,1571
-316836816,saadeghi/daisyui,Svelte,265
-437245741,dragonflydb/dragonfly,C++,620
-304344049,sveltejs/kit,JavaScript,298
-237523442,tailscale/tailscale,Go,124
-120463532,alibaba/COLA,Java,107
-72685026,MicrosoftDocs/azure-docs,PowerShell,171
-273871859,juanfont/headscale,Go,738
-523379232,CompVis/stable-diffusion,Jupyter Notebook,3564
-390896426,microsoft/fluentui-emoji,,1120
-439491516,ange-yaghi/engine-sim,C++,1045
-462597790,aptos-labs/aptos-core,Rust,220
-304243554,craftzdog/dotfiles-public,Lua,247
-455229168,immich-app/immich,Dart,540
-440244590,CompVis/latent-diffusion,Jupyter Notebook,213
-498011141,huggingface/diffusers,Python,279
+80286288,arendst/Tasmota,C,108
+348060227,withastro/astro,TypeScript,1508
+316836816,saadeghi/daisyui,Svelte,264
+437245741,dragonflydb/dragonfly,C++,622
+434218673,zinclabs/zinc,Go,621
+304344049,sveltejs/kit,JavaScript,300
+237523442,tailscale/tailscale,Go,125
+72685026,MicrosoftDocs/azure-docs,PowerShell,175
+273871859,juanfont/headscale,Go,753
+523379232,CompVis/stable-diffusion,Jupyter Notebook,3781
+390896426,microsoft/fluentui-emoji,,1095
+243478241,adi1090x/rofi,Shell,320
+462597790,aptos-labs/aptos-core,Rust,217
+455229168,immich-app/immich,Dart,546
+440244590,CompVis/latent-diffusion,Jupyter Notebook,226
+498011141,huggingface/diffusers,Python,270
+500289888,snoopForms/snoopforms,TypeScript,241
