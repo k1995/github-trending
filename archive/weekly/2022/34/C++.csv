@@ -1,14 +1,14 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,248
-100060912,microsoft/terminal,C++,215
-1181927,bitcoin/bitcoin,C++,172
-196813750,Light-City/CPlusPlusThings,C++,189
-160083795,SerenityOS/serenity,C++,80
-19953044,google/flatbuffers,C++,82
+100060912,microsoft/terminal,C++,216
+1181927,bitcoin/bitcoin,C++,171
+196813750,Light-City/CPlusPlusThings,C++,188
+160083795,SerenityOS/serenity,C++,82
+19953044,google/flatbuffers,C++,81
 125098880,ValveSoftware/Proton,C++,263
 40892817,ethereum/solidity,C++,92
 7056202,fmtlib/fmt,C++,240
-437245741,dragonflydb/dragonfly,C++,722
+437245741,dragonflydb/dragonfly,C++,620
 194269070,skyline-emu/skyline,C++,149
 28449431,scylladb/scylladb,C++,56
 19316619,monero-project/monero,C++,39
@@ -16,9 +16,9 @@ id,name,lang,new stars
 39211337,flutter/engine,C++,22
 52882701,prusa3d/PrusaSlicer,C++,42
 372536760,oceanbase/oceanbase,C++,37
-23496542,openai/triton,C++,39
+23496542,openai/triton,C++,38
 58168143,PixarAnimationStudios/USD,C++,26
-439491516,ange-yaghi/engine-sim,C++,1170
+439491516,ange-yaghi/engine-sim,C++,1045
 471960338,BoomingTech/Piccolo,C++,52
 47440536,cocos/cocos-engine,C++,44
 283280154,jomjol/AI-on-the-edge-device,C++,34
