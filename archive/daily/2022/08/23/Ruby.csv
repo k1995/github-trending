@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,12
+8681349,huginn/huginn,Ruby,13
 27442967,fastlane/fastlane,Ruby,1
-53238813,Homebrew/brew,Ruby,13
+53238813,Homebrew/brew,Ruby,14
 481872,hashicorp/vagrant,Ruby,7
-308770,heartcombo/devise,Ruby,4
+308770,heartcombo/devise,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,10
+202291859,chatwoot/chatwoot,Ruby,9
 3195124,mperham/sidekiq,Ruby,2
-4095287,rubocop/rubocop,Ruby,3
+4095287,rubocop/rubocop,Ruby,2
 96395,faker-ruby/faker,Ruby,0
-361310,teamcapybara/capybara,Ruby,3
-812393,ruby-grape/grape,Ruby,0
+361310,teamcapybara/capybara,Ruby,2
+812393,ruby-grape/grape,Ruby,1
 47087,carrierwaveuploader/carrierwave,Ruby,1
 277089,flyerhzm/bullet,Ruby,0
 52316423,luggit/react-native-config,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,1
 14238949,elastic/elasticsearch-rails,Ruby,1
 143489,DatabaseCleaner/database_cleaner,Ruby,0
-253024215,hahwul/WebHackersWeapons,Ruby,10
+253024215,hahwul/WebHackersWeapons,Ruby,8
 29151578,rswag/rswag,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,1
