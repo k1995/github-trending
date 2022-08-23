@@ -1,26 +1,26 @@
 id,name,lang,new stars
-126577260,trekhleb/javascript-algorithms,JavaScript,1261
-9384267,electron/electron,C++,243
-133442384,denoland/deno,Rust,298
+126577260,trekhleb/javascript-algorithms,JavaScript,1207
+6498492,airbnb/javascript,JavaScript,729
+9384267,electron/electron,C++,249
+7508411,ReactiveX/RxJava,Java,34
+31629751,cypress-io/cypress,JavaScript,268
 214587193,supabase/supabase,TypeScript,1203
 9393759,photonstorm/phaser,JavaScript,321
-31504491,labstack/echo,Go,255
-234231371,gofiber/fiber,Go,212
-196353673,taosdata/TDengine,C,192
+234231371,gofiber/fiber,Go,215
 80286288,arendst/Tasmota,C,131
+125098880,ValveSoftware/Proton,C++,271
+29759715,facebook/zstd,C,436
 348060227,withastro/astro,TypeScript,1490
-316836816,saadeghi/daisyui,Svelte,288
-437245741,dragonflydb/dragonfly,C++,575
-434218673,zinclabs/zinc,Go,966
-304344049,sveltejs/kit,JavaScript,305
-237523442,tailscale/tailscale,Go,126
+65750241,expo/expo,Objective-C,91
+434218673,zinclabs/zinc,Go,1052
+304344049,sveltejs/kit,JavaScript,306
+148641954,TheAlgorithms/Rust,Rust,791
+272457606,jart/cosmopolitan,C,384
 72685026,MicrosoftDocs/azure-docs,PowerShell,179
 523379232,CompVis/stable-diffusion,Jupyter Notebook,3579
 273871859,juanfont/headscale,Go,625
-390896426,microsoft/fluentui-emoji,,886
-243478241,adi1090x/rofi,Shell,293
+463337778,alembics/disco-diffusion,Jupyter Notebook,265
 462597790,aptos-labs/aptos-core,Rust,285
-455229168,immich-app/immich,Dart,564
+455229168,immich-app/immich,Dart,533
 440244590,CompVis/latent-diffusion,Jupyter Notebook,223
 498011141,huggingface/diffusers,Python,329
-500289888,snoopForms/snoopforms,TypeScript,251
