@@ -1,6 +1,6 @@
 id,name,lang,new stars
-11225014,etcd-io/etcd,Go,17
-15452919,ethereum/go-ethereum,Go,27
+11225014,etcd-io/etcd,Go,19
+15452919,ethereum/go-ethereum,Go,26
 234231371,gofiber/fiber,Go,35
 285864199,zeromicro/go-zero,Go,65
 6247705,stretchr/testify,Go,13
@@ -21,6 +21,6 @@ id,name,lang,new stars
 180954037,itchyny/gojq,Go,57
 291384232,blugelabs/bluge,Go,15
 523428811,google/yamlfmt,Go,56
-524753010,ThrillQuks/Pitraix,Go,115
+524753010,ThrillQuks/Pitraix,Go,94
 509091576,SagerNet/sing-box,Go,8
 486038209,XrayR-project/XrayR,Go,5
