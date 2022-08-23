@@ -1,13 +1,13 @@
 id,name,lang,new stars
 60243197,nextcloud/server,PHP,5
 448045,sebastianbergmann/phpunit,PHP,6
-1548202,matomo-org/matomo,PHP,3
+1548202,matomo-org/matomo,PHP,4
 2889328,WordPress/WordPress,PHP,5
-47495360,koel/koel,PHP,4
+47495360,koel/koel,PHP,3
 10157178,egulias/EmailValidator,PHP,2
 21298446,firefly-iii/firefly-iii,PHP,12
 9791525,digininja/DVWA,PHP,4
-222873550,crater-invoice/crater,PHP,10
+222873550,crater-invoice/crater,PHP,9
 95011974,akaunting/akaunting,PHP,6
 6322699,FreshRSS/FreshRSS,PHP,11
 60010673,elementor/elementor,PHP,3
@@ -21,5 +21,5 @@ id,name,lang,new stars
 359687154,DenverCoder1/readme-typing-svg,PHP,7
 345315720,swagkarna/Rafel-Rat,PHP,8
 433383766,nextcloud/all-in-one,PHP,4
-524886955,opcodesio/log-viewer,PHP,180
-514260591,smortexa/laravel-arkitect,PHP,3
+524886955,opcodesio/log-viewer,PHP,156
+514260591,smortexa/laravel-arkitect,PHP,5
