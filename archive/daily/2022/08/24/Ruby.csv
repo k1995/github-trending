@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,12
+8681349,huginn/huginn,Ruby,13
 27442967,fastlane/fastlane,Ruby,2
-53238813,Homebrew/brew,Ruby,12
+53238813,Homebrew/brew,Ruby,11
 481872,hashicorp/vagrant,Ruby,7
 308770,heartcombo/devise,Ruby,4
 2203645,CocoaPods/CocoaPods,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,6
+202291859,chatwoot/chatwoot,Ruby,7
 3195124,mperham/sidekiq,Ruby,1
 4095287,rubocop/rubocop,Ruby,1
 96395,faker-ruby/faker,Ruby,0
 361310,teamcapybara/capybara,Ruby,1
-812393,ruby-grape/grape,Ruby,0
+812393,ruby-grape/grape,Ruby,1
 47087,carrierwaveuploader/carrierwave,Ruby,1
-277089,flyerhzm/bullet,Ruby,0
+277089,flyerhzm/bullet,Ruby,1
 52316423,luggit/react-native-config,Ruby,2
 79352,mikel/mail,Ruby,0
 21333814,lynndylanhurley/devise_token_auth,Ruby,0
