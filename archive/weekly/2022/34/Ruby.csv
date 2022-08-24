@@ -1,18 +1,18 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,62
-65252,jekyll/jekyll,Ruby,50
+65252,jekyll/jekyll,Ruby,49
 8681349,huginn/huginn,Ruby,62
-27442967,fastlane/fastlane,Ruby,41
-53238813,Homebrew/brew,Ruby,89
-481872,hashicorp/vagrant,Ruby,40
+27442967,fastlane/fastlane,Ruby,40
+53238813,Homebrew/brew,Ruby,88
+481872,hashicorp/vagrant,Ruby,43
 73648678,forem/forem,Ruby,46
 538746,ruby/ruby,Ruby,26
 18486300,lewagon/setup,Ruby,21
 202291859,chatwoot/chatwoot,Ruby,53
-3195124,mperham/sidekiq,Ruby,14
+3195124,mperham/sidekiq,Ruby,13
 3314,spree/spree,Ruby,19
-88740103,postalserver/postal,Ruby,29
-106995,sinatra/sinatra,Ruby,12
+88740103,postalserver/postal,Ruby,31
+106995,sinatra/sinatra,Ruby,11
 1918677,fluent/fluentd,Ruby,36
 611921,activeadmin/activeadmin,Ruby,6
 587311,omniauth/omniauth,Ruby,5
@@ -21,6 +21,6 @@ id,name,lang,new stars
 21333814,lynndylanhurley/devise_token_auth,Ruby,2
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,21
 61203,Shopify/shopify_app,Ruby,4
-29151578,rswag/rswag,Ruby,4
+29151578,rswag/rswag,Ruby,3
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
 374113809,learn-co-curriculum/phase-4-mock-challenge-camping-fun,Ruby,0

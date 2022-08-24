@@ -1,6 +1,6 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,231
-83222441,donnemartin/system-design-primer,Python,226
+54346799,public-apis/public-apis,Python,255
+83222441,donnemartin/system-design-primer,Python,230
 212639071,bregman-arie/devops-exercises,Python,44
 168799526,rwightman/pytorch-image-models,Python,20
 184460,celery/celery,Python,6
@@ -15,7 +15,7 @@ id,name,lang,new stars
 204380779,PaddlePaddle/PaddleSeg,Python,8
 330914717,unifyai/ivy,Python,71
 186872119,awslabs/gluon-ts,Python,15
-498011141,huggingface/diffusers,Python,459
+498011141,huggingface/diffusers,Python,480
 362242108,openai/guided-diffusion,Python,8
 477570603,gmh5225/awesome-game-security,Python,46
 291783502,facebookresearch/esm,Python,27

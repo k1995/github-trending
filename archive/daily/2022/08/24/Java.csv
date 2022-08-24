@@ -1,14 +1,14 @@
 id,name,lang,new stars
-63477660,TheAlgorithms/Java,Java,21
+63477660,TheAlgorithms/Java,Java,23
 44662669,dbeaver/dbeaver,Java,18
 7587038,alibaba/canal,Java,13
-137451403,alibaba/nacos,Java,17
+137451403,alibaba/nacos,Java,16
 20818126,google/ExoPlayer,Java,7
 15823460,redisson/redisson,Java,8
-149001365,doocs/leetcode,Java,45
+149001365,doocs/leetcode,Java,63
 11125589,keycloak/keycloak,Java,8
-117965972,alibaba/DataX,Java,12
-482520194,Grasscutters/Grasscutter,Java,52
+117965972,alibaba/DataX,Java,14
+482520194,Grasscutters/Grasscutter,Java,45
 156317154,theonedev/onedev,Java,7
 391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,14
 120463532,alibaba/COLA,Java,18
@@ -19,7 +19,7 @@ id,name,lang,new stars
 27911088,apache/nifi,Java,4
 34685800,diffplug/spotless,Java,3
 482425877,alibaba/fastjson2,Java,7
-312830970,648540858/wvp-GB28181-pro,Java,8
+312830970,648540858/wvp-GB28181-pro,Java,9
 104705553,vladmihalcea/hibernate-types,Java,2
 375260798,DataLinkDC/dlink,Java,7
 470324030,revanced/revanced-integrations,Java,1
