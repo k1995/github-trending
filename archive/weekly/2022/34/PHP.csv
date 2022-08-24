@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,251
+3482588,danielmiessler/SecLists,PHP,239
 448045,sebastianbergmann/phpunit,PHP,18
-2253830,PHPMailer/PHPMailer,PHP,40
-82238168,monicahq/monica,PHP,58
+2253830,PHPMailer/PHPMailer,PHP,39
+82238168,monicahq/monica,PHP,57
 12615154,barryvdh/laravel-debugbar,PHP,37
 3431193,yiisoft/yii2,PHP,11
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,29
 2884111,magento/magento2,PHP,17
-41589337,BookStackApp/BookStack,PHP,44
-622166,FriendsOfPHP/Goutte,PHP,12
+41589337,BookStackApp/BookStack,PHP,43
+622166,FriendsOfPHP/Goutte,PHP,13
 2179920,woocommerce/woocommerce,PHP,15
-222873550,crater-invoice/crater,PHP,77
-97311017,rectorphp/rector,PHP,55
+222873550,crater-invoice/crater,PHP,76
+97311017,rectorphp/rector,PHP,56
 10883164,barryvdh/laravel-dompdf,PHP,16
 159606650,hyperf/hyperf,PHP,17
 60010673,elementor/elementor,PHP,19
@@ -19,8 +19,8 @@ id,name,lang,new stars
 2464908,joomla/joomla-cms,PHP,8
 38116958,php-telegram-bot/core,PHP,22
 1953386,stripe/stripe-php,PHP,10
-6495081,wikimedia/mediawiki,PHP,12
+6495081,wikimedia/mediawiki,PHP,13
 69691727,pmmp/PocketMine-MP,PHP,12
 142127816,zhuifengshaonianhanlu/pikachu,PHP,34
 27249479,EC-CUBE/ec-cube,PHP,7
-433383766,nextcloud/all-in-one,PHP,27
+433383766,nextcloud/all-in-one,PHP,26
