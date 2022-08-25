@@ -1,16 +1,16 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,7
+7548986,laravel/framework,PHP,6
 1420053,guzzle/guzzle,PHP,4
 448045,sebastianbergmann/phpunit,PHP,2
-2253830,PHPMailer/PHPMailer,PHP,4
-5724990,briannesbitt/Carbon,PHP,5
+2253830,PHPMailer/PHPMailer,PHP,5
+5724990,briannesbitt/Carbon,PHP,4
 1631570,nikic/PHP-Parser,PHP,2
 3431193,yiisoft/yii2,PHP,1
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,4
 42480275,spatie/laravel-permission,PHP,7
-2884111,magento/magento2,PHP,3
+2884111,magento/magento2,PHP,4
 10371103,Laravel-Lang/lang,PHP,1
-14346979,snipe/snipe-it,PHP,1
+14346979,snipe/snipe-it,PHP,2
 97311017,rectorphp/rector,PHP,6
 10883164,barryvdh/laravel-dompdf,PHP,1
 12204147,mautic/mautic,PHP,1

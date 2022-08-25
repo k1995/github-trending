@@ -1,10 +1,10 @@
 id,name,lang,new stars
 17620347,dotnet/aspnetcore,C#,9
-262395224,dotnet/maui,C#,9
-14964475,AvaloniaUI/Avalonia,C#,24
+262395224,dotnet/maui,C#,8
+14964475,AvaloniaUI/Avalonia,C#,25
 28239455,dotnet/AspNetCore.Docs,C#,4
-213460285,jasontaylordev/CleanArchitecture,C#,13
-75990888,dotnet/csharplang,C#,1
+213460285,jasontaylordev/CleanArchitecture,C#,12
+75990888,dotnet/csharplang,C#,2
 46652227,IdentityServer/IdentityServer4,C#,1
 743436,egametang/ET,C#,6
 50605426,microsoft/MixedRealityToolkit-Unity,C#,0
@@ -18,8 +18,8 @@ id,name,lang,new stars
 184286875,actions/runner,C#,10
 119571446,dotnet/samples,C#,2
 398181340,fullstackhero/dotnet-webapi-boilerplate,C#,2
-68534745,goatcorp/FFXIVQuickLauncher,C#,22
-255952484,dotnet/maui-samples,C#,5
+68534745,goatcorp/FFXIVQuickLauncher,C#,20
+255952484,dotnet/maui-samples,C#,3
 126898329,microsoft/PowerApps-Samples,C#,2
 93190658,Azure/azure-functions-durable-extension,C#,1
 527181009,Idov31/Sandman,C#,33
