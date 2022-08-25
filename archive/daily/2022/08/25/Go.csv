@@ -1,7 +1,7 @@
 id,name,lang,new stars
-15452919,ethereum/go-ethereum,Go,27
-37448451,mattermost/mattermost-server,Go,7
-285864199,zeromicro/go-zero,Go,31
+15452919,ethereum/go-ethereum,Go,22
+37448451,mattermost/mattermost-server,Go,4
+285864199,zeromicro/go-zero,Go,30
 6247705,stretchr/testify,Go,14
 52034309,uber-go/zap,Go,17
 118654121,GoogleContainerTools/skaffold,Go,6
@@ -19,7 +19,7 @@ id,name,lang,new stars
 187086161,open-telemetry/opentelemetry-go,Go,2
 84610043,kubernetes-sigs/aws-load-balancer-controller,Go,2
 238553537,gofiber/recipes,Go,8
-362675427,sealerio/sealer,Go,14
+362675427,sealerio/sealer,Go,13
 107708884,envoyproxy/go-control-plane,Go,1
 281075863,ntt360/pmon2,Go,15
 332335016,disksing/sao-gen-gen,Go,27
