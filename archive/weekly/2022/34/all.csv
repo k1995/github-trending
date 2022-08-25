@@ -2,7 +2,7 @@ id,name,lang,new stars
 21289110,vinta/awesome-python,Python,1095
 6498492,airbnb/javascript,JavaScript,943
 71948498,localstack/localstack,Python,317
-214587193,supabase/supabase,TypeScript,1211
+214587193,supabase/supabase,TypeScript,1160
 67186968,chinese-poetry/chinese-poetry,JavaScript,174
 130688011,meilisearch/meilisearch,Rust,279
 80286288,arendst/Tasmota,C,161
@@ -22,5 +22,5 @@ id,name,lang,new stars
 498011141,huggingface/diffusers,Python,1285
 440244590,CompVis/latent-diffusion,Jupyter Notebook,223
 516904877,google-research/multinerf,Python,620
-291783502,facebookresearch/esm,Python,129
+291783502,facebookresearch/esm,Python,134
 524967108,codeedu/imersao9,TypeScript,50
