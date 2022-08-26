@@ -1,6 +1,6 @@
 id,name,lang,new stars
 70107786,vercel/next.js,JavaScript,67
-23083156,mui/material-ui,JavaScript,33
+23083156,mui/material-ui,JavaScript,28
 43441403,strapi/strapi,JavaScript,34
 46629305,NARKOZ/hacker-scripts,JavaScript,8
 67186968,chinese-poetry/chinese-poetry,JavaScript,37
@@ -9,9 +9,9 @@ id,name,lang,new stars
 19745004,odoo/odoo,JavaScript,12
 59996401,YMFE/yapi,JavaScript,9
 17372733,OAI/OpenAPI-Specification,JavaScript,10
-116392709,digitalocean/nginxconfig.io,JavaScript,62
-712530,fabricjs/fabric.js,JavaScript,11
-52113921,facebook/draft-js,JavaScript,3
+116392709,digitalocean/nginxconfig.io,JavaScript,64
+712530,fabricjs/fabric.js,JavaScript,10
+52113921,facebook/draft-js,JavaScript,7
 82040650,shimohq/chinese-programmer-wrong-pronunciation,JavaScript,150
 242754476,tailwindlabs/heroicons,JavaScript,63
 352933140,ToolJet/ToolJet,JavaScript,19
@@ -23,4 +23,4 @@ id,name,lang,new stars
 338994046,biuuu/genshin-wish-export,JavaScript,21
 527519851,itorr/sakana,JavaScript,210
 273333566,canove/whaticket,JavaScript,3
-319973650,zachgoll/fullstack-roadmap-series,JavaScript,7
+319973650,zachgoll/fullstack-roadmap-series,JavaScript,15
