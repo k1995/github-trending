@@ -1,14 +1,14 @@
 id,name,lang,new stars
-6296790,spring-projects/spring-boot,Java,160
-63477660,TheAlgorithms/Java,Java,144
+6296790,spring-projects/spring-boot,Java,158
+63477660,TheAlgorithms/Java,Java,145
 44662669,dbeaver/dbeaver,Java,146
-7587038,alibaba/canal,Java,72
+7587038,alibaba/canal,Java,71
 2211243,apache/kafka,Java,115
-149001365,doocs/leetcode,Java,336
-482520194,Grasscutters/Grasscutter,Java,262
-391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,150
-120463532,alibaba/COLA,Java,132
-16446099,cryptomator/cryptomator,Java,292
+149001365,doocs/leetcode,Java,396
+482520194,Grasscutters/Grasscutter,Java,263
+391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,149
+120463532,alibaba/COLA,Java,133
+16446099,cryptomator/cryptomator,Java,291
 248416273,didi/KnowStreaming,Java,151
 1944709,JSQLParser/JSqlParser,Java,32
 131364545,baomidou/dynamic-datasource-spring-boot-starter,Java,30
@@ -17,9 +17,9 @@ id,name,lang,new stars
 188779637,streamxhub/streampark,Java,22
 317887,liferay/liferay-portal,Java,4
 156819424,javastacks/spring-boot-best-practice,Java,95
-397334149,TGX-Android/Telegram-X,Java,23
+397334149,TGX-Android/Telegram-X,Java,24
 469438213,cuynu/ytvanced,Java,29
-499359479,HummerRisk/HummerRisk,Java,73
+499359479,HummerRisk/HummerRisk,Java,77
 525331973,InterviewReady/Low-Level-Design,Java,73
 458798878,Hicores/QTool,Java,25
 521469174,ydzhao-reyes/weixin-tuisong,Java,28

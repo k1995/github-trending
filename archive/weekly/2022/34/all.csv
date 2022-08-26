@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21289110,vinta/awesome-python,Python,1095
-6498492,airbnb/javascript,JavaScript,943
-71948498,localstack/localstack,Python,317
-214587193,supabase/supabase,TypeScript,1160
-67186968,chinese-poetry/chinese-poetry,JavaScript,174
-130688011,meilisearch/meilisearch,Rust,279
-80286288,arendst/Tasmota,C,161
-29759715,facebook/zstd,C,466
-348060227,withastro/astro,TypeScript,1442
-149001365,doocs/leetcode,Java,318
-387326890,xinntao/Real-ESRGAN,Python,397
-434218673,zinclabs/zinc,Go,1203
-148641954,TheAlgorithms/Rust,Rust,1113
-523379232,CompVis/stable-diffusion,Jupyter Notebook,3931
-272457606,jart/cosmopolitan,C,451
-120463532,alibaba/COLA,Java,132
-525105056,karanpratapsingh/system-design,,6160
-72685026,MicrosoftDocs/azure-docs,PowerShell,150
-273871859,juanfont/headscale,Go,341
-462597790,aptos-labs/aptos-core,Rust,334
-498011141,huggingface/diffusers,Python,1285
-440244590,CompVis/latent-diffusion,Jupyter Notebook,223
-516904877,google-research/multinerf,Python,620
+21289110,vinta/awesome-python,Python,928
+6498492,airbnb/javascript,JavaScript,966
+71948498,localstack/localstack,Python,321
+214587193,supabase/supabase,TypeScript,1113
+67186968,chinese-poetry/chinese-poetry,JavaScript,195
+130688011,meilisearch/meilisearch,Rust,281
+80286288,arendst/Tasmota,C,164
+29759715,facebook/zstd,C,478
+348060227,withastro/astro,TypeScript,1308
+149001365,doocs/leetcode,Java,396
+387326890,xinntao/Real-ESRGAN,Python,423
+434218673,zinclabs/zinc,Go,1317
+148641954,TheAlgorithms/Rust,Rust,1206
+523379232,CompVis/stable-diffusion,Jupyter Notebook,4164
+272457606,jart/cosmopolitan,C,470
+120463532,alibaba/COLA,Java,133
+525105056,karanpratapsingh/system-design,,4986
+72685026,MicrosoftDocs/azure-docs,PowerShell,132
+273871859,juanfont/headscale,Go,330
+462597790,aptos-labs/aptos-core,Rust,344
+498011141,huggingface/diffusers,Python,1597
+440244590,CompVis/latent-diffusion,Jupyter Notebook,215
+516904877,google-research/multinerf,Python,690
 291783502,facebookresearch/esm,Python,134
-524967108,codeedu/imersao9,TypeScript,50
+524967108,codeedu/imersao9,TypeScript,43

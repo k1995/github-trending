@@ -19,8 +19,8 @@ id,name,lang,new stars
 9120526,jackc/pgx,Go,5
 58184885,kubernetes/kube-state-metrics,Go,3
 53553027,nginxinc/kubernetes-ingress,Go,3
-139727567,stakater/Reloader,Go,31
+139727567,stakater/Reloader,Go,25
 229030654,go-git/go-git,Go,9
 19608522,googleapis/google-cloud-go,Go,2
-173009358,deepmap/oapi-codegen,Go,3
-133830411,argoproj/argo-events,Go,1
+173009358,deepmap/oapi-codegen,Go,5
+133830411,argoproj/argo-events,Go,3
