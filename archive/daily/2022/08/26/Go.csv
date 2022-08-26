@@ -2,7 +2,7 @@ id,name,lang,new stars
 29261473,minio/minio,Go,69
 5179099,go-redis/redis,Go,5
 118654121,GoogleContainerTools/skaffold,Go,2
-7083242,go-sql-driver/mysql,Go,5
+7083242,go-sql-driver/mysql,Go,6
 46089560,containerd/containerd,Go,11
 33258973,influxdata/telegraf,Go,0
 208728772,milvus-io/milvus,Go,52
@@ -12,7 +12,7 @@ id,name,lang,new stars
 395283401,kubescape/kubescape,Go,133
 87990209,kubernetes/autoscaler,Go,6
 170411418,kedacore/keda,Go,9
-403559729,YaoApp/yao,Go,14
+403559729,YaoApp/yao,Go,16
 221849341,hibiken/asynq,Go,24
 139727567,stakater/Reloader,Go,30
 93446042,hashicorp/terraform-provider-azurerm,Go,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 107708884,envoyproxy/go-control-plane,Go,2
 332335016,disksing/sao-gen-gen,Go,10
 179141420,cosmos/gaia,Go,6
-517278683,chen3feng/stl4go,Go,20
+517278683,chen3feng/stl4go,Go,26
