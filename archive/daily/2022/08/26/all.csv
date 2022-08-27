@@ -1,19 +1,19 @@
 id,name,lang,new stars
-88011908,practical-tutorials/project-based-learning,,150
+88011908,practical-tutorials/project-based-learning,,157
 169677297,vlang/v,V,29
 479924503,The-Run-Philosophy-Organization/run,,159
-149001365,doocs/leetcode,Java,98
+149001365,doocs/leetcode,Java,93
 40518025,graphql/graphiql,TypeScript,12
-523379232,CompVis/stable-diffusion,Jupyter Notebook,691
-510607652,pocketbase/pocketbase,Go,99
-66670819,apify/crawlee,TypeScript,169
+523379232,CompVis/stable-diffusion,Jupyter Notebook,666
+510607652,pocketbase/pocketbase,Go,126
+66670819,apify/crawlee,TypeScript,171
 68534745,goatcorp/FFXIVQuickLauncher,C#,5
 527719753,cemu-project/Cemu,C++,382
-516904877,google-research/multinerf,Python,261
-521747987,rxrw/daily_morning,Python,646
-493029626,Akebi-Group/Akebi-GC,C++,79
+516904877,google-research/multinerf,Python,260
+521747987,rxrw/daily_morning,Python,628
+493029626,Akebi-Group/Akebi-GC,C++,78
 528339561,total-typescript/beginners-typescript,TypeScript,303
-468957086,blacklanternsecurity/bbot,Python,222
+468957086,blacklanternsecurity/bbot,Python,205
 527519851,itorr/sakana,JavaScript,210
 523544748,snesrev/zelda3,C++,126
 527583905,runsidekick/sidekick,Java,261
@@ -22,5 +22,5 @@ id,name,lang,new stars
 507503389,bittentech/Bug-Bounty-Beginner-Roadmap,,38
 527359569,Stability-AI/stability-sdk,Jupyter Notebook,83
 528152092,cmdr2/stable-diffusion-ui,HTML,29
-527419188,limoest/daily_reminder,Python,39
+527419188,limoest/daily_reminder,Python,44
 527104373,matchy233/chi-cv-template,TeX,14
