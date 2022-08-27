@@ -1,13 +1,13 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,7
+7548986,laravel/framework,PHP,10
 458058,symfony/symfony,PHP,4
-1864363,composer/composer,PHP,4
-1420053,guzzle/guzzle,PHP,4
-2253830,PHPMailer/PHPMailer,PHP,3
+1864363,composer/composer,PHP,5
+1420053,guzzle/guzzle,PHP,3
+2253830,PHPMailer/PHPMailer,PHP,4
 82238168,monicahq/monica,PHP,9
 14259390,SpartnerNL/Laravel-Excel,PHP,3
-2699935,squizlabs/PHP_CodeSniffer,PHP,4
-11340559,deployphp/deployer,PHP,5
+2699935,squizlabs/PHP_CodeSniffer,PHP,3
+11340559,deployphp/deployer,PHP,4
 12166778,googleapis/google-api-php-client,PHP,1
 2179920,woocommerce/woocommerce,PHP,1
 330275,twigphp/Twig,PHP,2
@@ -17,7 +17,7 @@ id,name,lang,new stars
 248372441,filamentphp/filament,PHP,8
 22751672,tecnickcom/TCPDF,PHP,3
 129852395,assimon/dujiaoka,PHP,3
-39182755,glpi-project/glpi,PHP,5
+39182755,glpi-project/glpi,PHP,4
 166299071,archtechx/tenancy,PHP,2
 16185196,consolidation/robo,PHP,5
 96462257,osiset/laravel-shopify,PHP,1
