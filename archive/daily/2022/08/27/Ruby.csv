@@ -1,13 +1,13 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,18
-52281283,mastodon/mastodon,Ruby,14
-21696302,matteocrippa/awesome-swift,Ruby,7
+7569578,discourse/discourse,Ruby,16
+52281283,mastodon/mastodon,Ruby,12
+21696302,matteocrippa/awesome-swift,Ruby,5
 37382858,kilimchoi/engineering-blogs,Ruby,5
 73648678,forem/forem,Ruby,6
-538746,ruby/ruby,Ruby,5
+538746,ruby/ruby,Ruby,7
 202291859,chatwoot/chatwoot,Ruby,5
 3195124,mperham/sidekiq,Ruby,2
-4095287,rubocop/rubocop,Ruby,2
+4095287,rubocop/rubocop,Ruby,1
 96395,faker-ruby/faker,Ruby,2
 1725199,github/linguist,Ruby,5
 15435,Shopify/liquid,Ruby,1
@@ -16,11 +16,11 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,0
 211588,paper-trail-gem/paper_trail,Ruby,1
 6899875,opf/openproject,Ruby,4
-16994115,CanCanCommunity/cancancan,Ruby,2
+16994115,CanCanCommunity/cancancan,Ruby,3
 1404127,jwt/ruby-jwt,Ruby,1
 138776049,sorbet/sorbet,Ruby,3
-5144181,jnunemaker/flipper,Ruby,3
-200302808,github/view_component,Ruby,0
+5144181,jnunemaker/flipper,Ruby,1
+200302808,github/view_component,Ruby,1
 622911,oauth-xx/oauth2,Ruby,0
 61203,Shopify/shopify_app,Ruby,1
 66497320,DataDog/dd-trace-rb,Ruby,0

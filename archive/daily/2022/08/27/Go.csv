@@ -1,7 +1,7 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,57
 29261473,minio/minio,Go,75
-36653430,hashicorp/nomad,Go,4
+36653430,hashicorp/nomad,Go,6
 208728772,milvus-io/milvus,Go,127
 33258973,influxdata/telegraf,Go,5
 136505169,tinygo-org/tinygo,Go,4
@@ -16,8 +16,8 @@ id,name,lang,new stars
 105262714,oauth2-proxy/oauth2-proxy,Go,6
 31333618,shopspring/decimal,Go,4
 221849341,hibiken/asynq,Go,36
-111455867,smartcontractkit/chainlink,Go,3
-166304026,BishopFox/sliver,Go,71
+111455867,smartcontractkit/chainlink,Go,6
+166304026,BishopFox/sliver,Go,40
 93446042,hashicorp/terraform-provider-azurerm,Go,4
 396856161,authzed/spicedb,Go,16
 526363266,jetpack-io/devbox,Go,878
