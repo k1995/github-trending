@@ -1,10 +1,10 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,9
+65252,jekyll/jekyll,Ruby,6
 8681349,huginn/huginn,Ruby,6
-7569578,discourse/discourse,Ruby,13
-53238813,Homebrew/brew,Ruby,13
+7569578,discourse/discourse,Ruby,14
+53238813,Homebrew/brew,Ruby,15
 2500088,gitlabhq/gitlabhq,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,5
+202291859,chatwoot/chatwoot,Ruby,4
 3195124,mperham/sidekiq,Ruby,3
 4095287,rubocop/rubocop,Ruby,3
 96395,faker-ruby/faker,Ruby,2
@@ -13,9 +13,9 @@ id,name,lang,new stars
 1333863,kaminari/kaminari,Ruby,0
 451035,heartcombo/simple_form,Ruby,2
 910744,puppetlabs/puppet,Ruby,3
-11412473,ankane/searchkick,Ruby,1
+11412473,ankane/searchkick,Ruby,2
 52316423,luggit/react-native-config,Ruby,0
-4523235,asciidoctor/asciidoctor,Ruby,3
+4523235,asciidoctor/asciidoctor,Ruby,2
 1462,ctran/annotate_models,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,0
 3277842,googleapis/google-api-ruby-client,Ruby,0
