@@ -5,13 +5,13 @@ id,name,lang,new stars
 208728772,milvus-io/milvus,Go,127
 33258973,influxdata/telegraf,Go,5
 136505169,tinygo-org/tinygo,Go,4
-12418999,gopherjs/gopherjs,Go,24
+12418999,gopherjs/gopherjs,Go,31
 16554739,elastic/beats,Go,1
 148545807,kubernetes-sigs/kind,Go,7
 510607652,pocketbase/pocketbase,Go,270
 150954997,VictoriaMetrics/VictoriaMetrics,Go,0
 93928882,swaggo/swag,Go,9
-49765480,lightningnetwork/lnd,Go,1
+49765480,lightningnetwork/lnd,Go,4
 87990209,kubernetes/autoscaler,Go,8
 105262714,oauth2-proxy/oauth2-proxy,Go,6
 31333618,shopspring/decimal,Go,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 93446042,hashicorp/terraform-provider-azurerm,Go,4
 396856161,authzed/spicedb,Go,16
 526363266,jetpack-io/devbox,Go,878
-136494223,kubernetes-sigs/controller-runtime,Go,2
+136494223,kubernetes-sigs/controller-runtime,Go,3
 320818962,teivah/100-go-mistakes,Go,137
 517278683,chen3feng/stl4go,Go,30
