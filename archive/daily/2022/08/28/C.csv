@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,67
+2325298,torvalds/linux,C,69
 10744183,netdata/netdata,C,16
-36502,git/git,C,13
+36502,git/git,C,8
 102578345,coolsnowwolf/lede,C,19
-34921116,iovisor/bcc,C,5
+34921116,iovisor/bcc,C,4
 3299208,videolan/vlc,C,8
 70127218,espressif/arduino-esp32,C,7
-1856976,libevent/libevent,C,3
+1856976,libevent/libevent,C,4
 5414488,cesanta/mongoose,C,5
-5805256,lua/lua,C,8
-34431834,xmake-io/xmake,C,32
+5805256,lua/lua,C,10
+34431834,xmake-io/xmake,C,27
 31806094,akopytov/sysbench,C,1
 293316071,bellard/quickjs,C,7
-23007417,colmap/colmap,C,1
-29933948,fluent/fluent-bit,C,2
+23007417,colmap/colmap,C,2
+29933948,fluent/fluent-bit,C,1
 6860771,hathach/tinyusb,C,7
 206121828,FreeRTOS/FreeRTOS,C,6
 284134871,flipperdevices/flipperzero-firmware,C,8
