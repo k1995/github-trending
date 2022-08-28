@@ -1,6 +1,6 @@
 id,name,lang,new stars
-3638964,ansible/ansible,Python,9
-160919119,tiangolo/fastapi,Python,30
+3638964,ansible/ansible,Python,8
+160919119,tiangolo/fastapi,Python,28
 33884891,apache/airflow,Python,9
 349321229,TencentARC/GFPGAN,Python,39
 178626720,Lightning-AI/lightning,Python,14
@@ -13,14 +13,14 @@ id,name,lang,new stars
 117772329,MVIG-SJTU/AlphaPose,Python,5
 155790228,sqlfluff/sqlfluff,Python,10
 179163124,hummingbot/hummingbot,Python,14
-110688239,PaddlePaddle/PaddleSpeech,Python,7
+110688239,PaddlePaddle/PaddleSpeech,Python,8
 305316768,RangiLyu/nanodet,Python,9
-249263371,cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions,Python,9
 521747987,rxrw/daily_morning,Python,704
+249263371,cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions,Python,12
 516904877,google-research/multinerf,Python,97
 385532537,towhee-io/towhee,Python,21
+512472057,t3l3machus/hoaxshell,Python,109
 97406952,dbt-labs/dbt-utils,Python,0
-512472057,t3l3machus/hoaxshell,Python,83
-520969009,mouredev/Hello-Python,Python,15
+520969009,mouredev/Hello-Python,Python,13
 527419188,limoest/daily_reminder,Python,43
 436146387,POSTECH-CVLab/PeRFception,Python,23

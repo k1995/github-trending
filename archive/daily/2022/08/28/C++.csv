@@ -1,15 +1,15 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,35
-9384267,electron/electron,C++,19
+9384267,electron/electron,C++,21
 44838949,apple/swift,C++,10
-23357588,protocolbuffers/protobuf,C++,10
+23357588,protocolbuffers/protobuf,C++,11
 27729880,grpc/grpc,C++,9
 65711522,PaddlePaddle/Paddle,C++,4
 1062572,catchorg/Catch2,C++,9
 26038648,gabime/spdlog,C++,7
 267649918,hoffstadt/DearPyGui,C++,9
 28449431,scylladb/scylladb,C++,2
-5909706,yhirose/cpp-httplib,C++,5
+5909706,yhirose/cpp-httplib,C++,4
 130068982,taskflow/taskflow,C++,5
 14303048,mamedev/mame,C++,5
 10160141,doxygen/doxygen,C++,2
@@ -18,7 +18,7 @@ id,name,lang,new stars
 402945349,StarRocks/starrocks,C++,2
 2567844,mavlink/qgroundcontrol,C++,2
 527719753,cemu-project/Cemu,C++,264
-112542515,NVIDIA/cutlass,C++,4
+112542515,NVIDIA/cutlass,C++,5
 52400453,IntelRealSense/realsense-ros,C++,3
 493029626,Akebi-Group/Akebi-GC,C++,32
 326441188,PetoiCamp/OpenCat,C++,3

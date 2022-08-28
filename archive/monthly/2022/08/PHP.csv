@@ -1,12 +1,12 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,438
-3482588,danielmiessler/SecLists,PHP,999
-458058,symfony/symfony,PHP,271
+3482588,danielmiessler/SecLists,PHP,990
+458058,symfony/symfony,PHP,262
 60243197,nextcloud/server,PHP,232
-82238168,monicahq/monica,PHP,226
-2889328,WordPress/WordPress,PHP,132
-47495360,koel/koel,PHP,142
-2884111,magento/magento2,PHP,68
+82238168,monicahq/monica,PHP,225
+2889328,WordPress/WordPress,PHP,133
+47495360,koel/koel,PHP,143
+2884111,magento/magento2,PHP,67
 597887,doctrine/orm,PHP,52
 677464,doctrine/dbal,PHP,59
 364315,predis/predis,PHP,55
@@ -17,7 +17,7 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,159
 60010673,elementor/elementor,PHP,67
 248372441,filamentphp/filament,PHP,327
-2464908,joomla/joomla-cms,PHP,35
+2464908,joomla/joomla-cms,PHP,36
 141720301,dr5hn/countries-states-cities-database,PHP,147
 153069455,collabnix/dockerlabs,PHP,128
 189104054,laravel/ui,PHP,80
