@@ -1,22 +1,22 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,247
-15452919,ethereum/go-ethereum,Go,154
+15452919,ethereum/go-ethereum,Go,153
 212613049,cli/cli,Go,117
 77144337,openfaas/faas,Go,63
 234231371,gofiber/fiber,Go,187
 285864199,zeromicro/go-zero,Go,227
 129717717,grafana/loki,Go,80
 127227141,wtfutil/wtf,Go,109
-66841911,qax-os/excelize,Go,212
+66841911,qax-os/excelize,Go,213
 62712899,AdguardTeam/AdGuardHome,Go,137
-36653430,hashicorp/nomad,Go,38
+36653430,hashicorp/nomad,Go,37
 208728772,milvus-io/milvus,Go,374
 33258973,influxdata/telegraf,Go,83
 434218673,zinclabs/zinc,Go,1170
-510607652,pocketbase/pocketbase,Go,818
+510607652,pocketbase/pocketbase,Go,824
 27576132,aws/aws-sdk-go,Go,27
 93444615,hashicorp/terraform-provider-aws,Go,28
-48714685,open-policy-agent/opa,Go,42
+48714685,open-policy-agent/opa,Go,41
 395283401,kubescape/kubescape,Go,545
 120519269,runatlantis/atlantis,Go,33
 384451028,cloudwego/kitex,Go,75
