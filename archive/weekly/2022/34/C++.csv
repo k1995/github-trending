@@ -1,15 +1,15 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,175
-5108051,opencv/opencv,C++,158
-44838949,apple/swift,C++,86
-65600975,pytorch/pytorch,C++,183
+9384267,electron/electron,C++,178
+5108051,opencv/opencv,C++,153
+44838949,apple/swift,C++,85
+65600975,pytorch/pytorch,C++,178
 27729880,grpc/grpc,C++,81
-23405758,google/leveldb,C++,157
-39840932,google/googletest,C++,66
-6934395,facebook/rocksdb,C++,86
+23405758,google/leveldb,C++,158
+39840932,google/googletest,C++,65
+6934395,facebook/rocksdb,C++,85
 160083795,SerenityOS/serenity,C++,96
-65750241,expo/expo,C++,81
-7056202,fmtlib/fmt,C++,107
+65750241,expo/expo,C++,82
+7056202,fmtlib/fmt,C++,101
 102692863,onnx/onnx,C++,47
 114187903,apple/foundationdb,C++,67
 104231541,abseil/abseil-cpp,C++,42
@@ -18,9 +18,9 @@ id,name,lang,new stars
 7550637,xenia-project/xenia,C++,45
 49986046,falcosecurity/falco,C++,38
 467157951,filecxx/FileCentipede,C++,203
-427306303,InoriRus/Kyty,C++,189
+427306303,InoriRus/Kyty,C++,190
 52400453,IntelRealSense/realsense-ros,C++,13
 493029626,Akebi-Group/Akebi-GC,C++,275
 436366606,loveBabbar/CodeHelp-DSA-Busted-Series,C++,40
-236361938,nickrehm/dRehmFlight,C++,65
-500449747,Rubberduckycooly/RSDKv5-Decompilation,C++,34
+236361938,nickrehm/dRehmFlight,C++,64
+500449747,Rubberduckycooly/RSDKv5-Decompilation,C++,33

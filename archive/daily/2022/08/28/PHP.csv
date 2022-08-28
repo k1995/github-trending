@@ -1,11 +1,11 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,8
-458058,symfony/symfony,PHP,7
+7548986,laravel/framework,PHP,5
+458058,symfony/symfony,PHP,6
 1420053,guzzle/guzzle,PHP,2
 82238168,monicahq/monica,PHP,6
 1631570,nikic/PHP-Parser,PHP,1
 53783664,easychen/howto-make-more-money,PHP,3
-3431193,yiisoft/yii2,PHP,0
+3431193,yiisoft/yii2,PHP,1
 61490598,PHPOffice/PhpSpreadsheet,PHP,1
 7549096,doctrine/inflector,PHP,0
 7579180,doctrine/lexer,PHP,0
@@ -16,11 +16,11 @@ id,name,lang,new stars
 212659,sebastianbergmann/php-code-coverage,PHP,2
 1398634,symfony/css-selector,PHP,0
 14346979,snipe/snipe-it,PHP,2
-6763587,PrestaShop/PrestaShop,PHP,0
+6763587,PrestaShop/PrestaShop,PHP,1
 7577142,doctrine/annotations,PHP,1
-12204147,mautic/mautic,PHP,5
-248372441,filamentphp/filament,PHP,18
+12204147,mautic/mautic,PHP,4
+248372441,filamentphp/filament,PHP,19
 8077402,MISP/MISP,PHP,0
-39182755,glpi-project/glpi,PHP,2
+39182755,glpi-project/glpi,PHP,1
 75645659,WordPress/wordpress-develop,PHP,1
-527655785,peter-tharwat/countries,PHP,8
+527655785,peter-tharwat/countries,PHP,6

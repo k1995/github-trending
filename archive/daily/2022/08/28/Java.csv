@@ -1,20 +1,20 @@
 id,name,lang,new stars
-6296790,spring-projects/spring-boot,Java,12
+6296790,spring-projects/spring-boot,Java,14
 20300177,google/guava,Java,25
-19148949,PhilJay/MPAndroidChart,Java,3
+19148949,PhilJay/MPAndroidChart,Java,1
 173228436,NationalSecurityAgency/ghidra,Java,13
 159152904,jeecgboot/jeecg-boot,Java,10
 146633589,alibaba/arthas,Java,11
 2700159,alibaba/druid,Java,5
 126178683,halo-dev/halo,Java,16
-55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,1
+55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,0
 128018428,alibaba/Sentinel,Java,2
-75164823,apache/rocketmq,Java,5
-149001365,doocs/leetcode,Java,155
+75164823,apache/rocketmq,Java,6
+149001365,doocs/leetcode,Java,156
 11125589,keycloak/keycloak,Java,12
 139914932,quarkusio/quarkus,Java,4
-2352744,apereo/cas,Java,1
-46251204,line/armeria,Java,7
+2352744,apereo/cas,Java,3
+46251204,line/armeria,Java,5
 99412308,apache/incubator-seatunnel,Java,5
 27911088,apache/nifi,Java,6
 158256479,apache/iceberg,Java,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 2928948,Azure/azure-sdk-for-java,Java,0
 206875901,android/connectivity-samples,Java,3
 470487478,alibaba/SREWorks,Java,1
-527583905,runsidekick/sidekick,Java,154
+527583905,runsidekick/sidekick,Java,155
 522464169,cvzhanshi-ursula/wechatpush,Java,0
