@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,57
+2325298,torvalds/linux,C,65
 10744183,netdata/netdata,C,15
 36502,git/git,C,13
-102578345,coolsnowwolf/lede,C,19
+102578345,coolsnowwolf/lede,C,20
 34921116,iovisor/bcc,C,6
 3299208,videolan/vlc,C,8
-70127218,espressif/arduino-esp32,C,6
+70127218,espressif/arduino-esp32,C,7
 1856976,libevent/libevent,C,3
 5414488,cesanta/mongoose,C,5
 5805256,lua/lua,C,8
@@ -16,11 +16,11 @@ id,name,lang,new stars
 29933948,fluent/fluent-bit,C,2
 6860771,hathach/tinyusb,C,6
 206121828,FreeRTOS/FreeRTOS,C,6
-284134871,flipperdevices/flipperzero-firmware,C,8
+284134871,flipperdevices/flipperzero-firmware,C,9
 99199151,xiph/rnnoise,C,8
 28928522,wolfSSL/wolfssl,C,3
 203759896,immortalwrt/immortalwrt,C,2
-7287136,onetrueawk/awk,C,28
-48721582,wuzhouhui/misc,C,2
+7287136,onetrueawk/awk,C,27
+48721582,wuzhouhui/misc,C,1
 203257714,barimehdi77/42-piscine-exam,C,1
 528286745,theori-io/CVE-2022-32250-exploit,C,6
