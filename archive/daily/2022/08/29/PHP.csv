@@ -1,15 +1,15 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,27
+3482588,danielmiessler/SecLists,PHP,29
 7548986,laravel/framework,PHP,14
 458058,symfony/symfony,PHP,6
-2253830,PHPMailer/PHPMailer,PHP,5
-82238168,monicahq/monica,PHP,9
+2253830,PHPMailer/PHPMailer,PHP,7
+82238168,monicahq/monica,PHP,8
 1548202,matomo-org/matomo,PHP,5
 47495360,koel/koel,PHP,6
-28628034,flarum/flarum,PHP,2
+28628034,flarum/flarum,PHP,3
 212659,sebastianbergmann/php-code-coverage,PHP,0
 330275,twigphp/Twig,PHP,3
-119047018,linuxserver/Heimdall,PHP,12
+119047018,linuxserver/Heimdall,PHP,11
 248372441,filamentphp/filament,PHP,13
 47508644,pterodactyl/panel,PHP,6
 129852395,assimon/dujiaoka,PHP,1
@@ -17,10 +17,10 @@ id,name,lang,new stars
 404921727,luolongfei/freenom,PHP,9
 189104054,laravel/ui,PHP,2
 216849756,v2board/v2board,PHP,4
-359687154,DenverCoder1/readme-typing-svg,PHP,4
+359687154,DenverCoder1/readme-typing-svg,PHP,7
 254024234,henrywhitaker3/Speedtest-Tracker,PHP,6
 3242728,php/web-php,PHP,0
 485064852,bradtraversy/laragigs,PHP,2
-491456510,zidansec/CloudPeler,PHP,8
-527655785,peter-tharwat/countries,PHP,5
-454468876,denilsonbonatti/toshiro-shibakita,PHP,2
+491456510,zidansec/CloudPeler,PHP,6
+527655785,peter-tharwat/countries,PHP,4
+454468876,denilsonbonatti/toshiro-shibakita,PHP,5
