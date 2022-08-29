@@ -1,8 +1,8 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,172
+9384267,electron/electron,C++,171
 5108051,opencv/opencv,C++,153
-65600975,pytorch/pytorch,C++,171
-27729880,grpc/grpc,C++,82
+65600975,pytorch/pytorch,C++,172
+27729880,grpc/grpc,C++,83
 23405758,google/leveldb,C++,151
 39840932,google/googletest,C++,61
 160083795,SerenityOS/serenity,C++,101
@@ -11,16 +11,16 @@ id,name,lang,new stars
 104231541,abseil/abseil-cpp,C++,39
 15379620,PCSX2/pcsx2,C++,38
 35129809,transmission/transmission,C++,32
-7550637,xenia-project/xenia,C++,32
-470730648,hyprwm/Hyprland,C++,126
+7550637,xenia-project/xenia,C++,31
+470730648,hyprwm/Hyprland,C++,124
 467157951,filecxx/FileCentipede,C++,196
 201692465,tranek/GASDocumentation,C++,21
-427306303,InoriRus/Kyty,C++,182
+427306303,InoriRus/Kyty,C++,181
 52400453,IntelRealSense/realsense-ros,C++,13
 493029626,Akebi-Group/Akebi-GC,C++,297
 436366606,loveBabbar/CodeHelp-DSA-Busted-Series,C++,44
 388946490,facebookincubator/velox,C++,22
 303308200,hku-mars/FAST_LIO,C++,19
 236361938,nickrehm/dRehmFlight,C++,51
-469173545,TonyBrobston/yet-another-smart-vent,C++,121
+469173545,TonyBrobston/yet-another-smart-vent,C++,120
 500449747,Rubberduckycooly/RSDKv5-Decompilation,C++,30
