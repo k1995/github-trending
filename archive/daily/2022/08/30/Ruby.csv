@@ -1,16 +1,16 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,6
+65252,jekyll/jekyll,Ruby,8
 7569578,discourse/discourse,Ruby,6
-52281283,mastodon/mastodon,Ruby,12
-481872,hashicorp/vagrant,Ruby,5
-308770,heartcombo/devise,Ruby,7
-538746,ruby/ruby,Ruby,2
-2203645,CocoaPods/CocoaPods,Ruby,1
-3195124,mperham/sidekiq,Ruby,4
+52281283,mastodon/mastodon,Ruby,13
+481872,hashicorp/vagrant,Ruby,3
+308770,heartcombo/devise,Ruby,6
+538746,ruby/ruby,Ruby,3
+2203645,CocoaPods/CocoaPods,Ruby,2
+3195124,mperham/sidekiq,Ruby,3
 3314,spree/spree,Ruby,2
-1918677,fluent/fluentd,Ruby,5
+1918677,fluent/fluentd,Ruby,4
 96395,faker-ruby/faker,Ruby,5
-812393,ruby-grape/grape,Ruby,3
+812393,ruby-grape/grape,Ruby,2
 6529205,varvet/pundit,Ruby,1
 211588,paper-trail-gem/paper_trail,Ruby,0
 137805,redis/redis-rb,Ruby,0
@@ -19,8 +19,8 @@ id,name,lang,new stars
 5144181,jnunemaker/flipper,Ruby,0
 11426474,github/choosealicense.com,Ruby,1
 200302808,github/view_component,Ruby,2
-3277842,googleapis/google-api-ruby-client,Ruby,0
+3277842,googleapis/google-api-ruby-client,Ruby,1
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
-529029423,hopsoft/turbo_ready,Ruby,24
+529029423,hopsoft/turbo_ready,Ruby,19
 347104426,learn-co-curriculum/phase-3-nested-hash-iteration,Ruby,0
