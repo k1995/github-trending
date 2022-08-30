@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,13
-3482588,danielmiessler/SecLists,PHP,21
+1863329,laravel/laravel,PHP,12
+3482588,danielmiessler/SecLists,PHP,20
 7548986,laravel/framework,PHP,8
 458058,symfony/symfony,PHP,5
 1420053,guzzle/guzzle,PHP,7
-60243197,nextcloud/server,PHP,6
+60243197,nextcloud/server,PHP,8
 82238168,monicahq/monica,PHP,4
 4549925,bobthecow/psysh,PHP,0
 6660366,dompdf/dompdf,PHP,4
 330275,twigphp/Twig,PHP,2
 9193949,wallabag/wallabag,PHP,8
-10371103,Laravel-Lang/lang,PHP,6
+10371103,Laravel-Lang/lang,PHP,5
 3217621,phpmyadmin/phpmyadmin,PHP,2
 119047018,linuxserver/Heimdall,PHP,8
 47508644,pterodactyl/panel,PHP,7
@@ -19,8 +19,8 @@ id,name,lang,new stars
 216849756,v2board/v2board,PHP,1
 258753939,blade-ui-kit/blade-heroicons,PHP,2
 278767494,maxdenaro/maxgraph-youtube-source,PHP,1
-491456510,zidansec/CloudPeler,PHP,8
+491456510,zidansec/CloudPeler,PHP,7
 526967803,friend-nicen/nicen-localize-image,PHP,2
 524261144,YorCreative/Laravel-UrlShortener,PHP,3
-529282966,spatie/laravel-dynamic-servers,PHP,17
+529282966,spatie/laravel-dynamic-servers,PHP,18
 454468876,denilsonbonatti/toshiro-shibakita,PHP,4
