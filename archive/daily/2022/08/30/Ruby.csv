@@ -1,15 +1,15 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,8
+65252,jekyll/jekyll,Ruby,9
 7569578,discourse/discourse,Ruby,6
-52281283,mastodon/mastodon,Ruby,13
-481872,hashicorp/vagrant,Ruby,3
+52281283,mastodon/mastodon,Ruby,9
+481872,hashicorp/vagrant,Ruby,4
 308770,heartcombo/devise,Ruby,6
-538746,ruby/ruby,Ruby,3
-2203645,CocoaPods/CocoaPods,Ruby,2
+538746,ruby/ruby,Ruby,2
+2203645,CocoaPods/CocoaPods,Ruby,1
 3195124,mperham/sidekiq,Ruby,3
-3314,spree/spree,Ruby,2
-1918677,fluent/fluentd,Ruby,4
-96395,faker-ruby/faker,Ruby,5
+3314,spree/spree,Ruby,1
+1918677,fluent/fluentd,Ruby,2
+96395,faker-ruby/faker,Ruby,6
 812393,ruby-grape/grape,Ruby,2
 6529205,varvet/pundit,Ruby,1
 211588,paper-trail-gem/paper_trail,Ruby,0
@@ -19,8 +19,8 @@ id,name,lang,new stars
 5144181,jnunemaker/flipper,Ruby,0
 11426474,github/choosealicense.com,Ruby,1
 200302808,github/view_component,Ruby,2
-3277842,googleapis/google-api-ruby-client,Ruby,1
+3277842,googleapis/google-api-ruby-client,Ruby,2
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
-529029423,hopsoft/turbo_ready,Ruby,19
+529029423,hopsoft/turbo_ready,Ruby,14
 347104426,learn-co-curriculum/phase-3-nested-hash-iteration,Ruby,0
