@@ -1,9 +1,9 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,37
-27442967,fastlane/fastlane,Ruby,4
+7569578,discourse/discourse,Ruby,26
+27442967,fastlane/fastlane,Ruby,3
 52281283,mastodon/mastodon,Ruby,10
-13840241,freeCodeCamp/devdocs,Ruby,7
-2293158,rapid7/metasploit-framework,Ruby,15
+13840241,freeCodeCamp/devdocs,Ruby,8
+2293158,rapid7/metasploit-framework,Ruby,12
 538746,ruby/ruby,Ruby,3
 3623050,Homebrew/homebrew-cask,Ruby,1
 11423758,mame/quine-relay,Ruby,5
@@ -11,10 +11,10 @@ id,name,lang,new stars
 106995,sinatra/sinatra,Ruby,0
 1918677,fluent/fluentd,Ruby,6
 1725199,github/linguist,Ruby,7
-6899875,opf/openproject,Ruby,2
+6899875,opf/openproject,Ruby,3
 103766152,github/explore,Ruby,4
 15171934,Homebrew/homebrew-cask-fonts,Ruby,1
-529029423,hopsoft/turbo_ready,Ruby,28
+529029423,hopsoft/turbo_ready,Ruby,24
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
 506377996,human-se/rails-demos-n-deets-2023-apps,Ruby,0
