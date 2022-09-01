@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,17
+6838921,prometheus/prometheus,Go,23
+14712850,syncthing/syncthing,Go,20
+29261473,minio/minio,Go,20
+17728164,hashicorp/terraform,Go,17
+13124802,influxdata/influxdb,Go,9
+12574344,spf13/cobra,Go,19
+31288958,hashicorp/vault,Go,8
+13628513,sirupsen/logrus,Go,18
+13624859,gorilla/websocket,Go,8
+6247705,stretchr/testify,Go,12
+97533102,halfrost/LeetCode-Go,Go,183
+234231371,gofiber/fiber,Go,39
+33352201,grpc-ecosystem/grpc-gateway,Go,8
+109162639,thanos-io/thanos,Go,4
+148545807,kubernetes-sigs/kind,Go,9
+95761244,gogf/gf,Go,62
+48714685,open-policy-agent/opa,Go,5
+11452538,prometheus/alertmanager,Go,3
+9120526,jackc/pgx,Go,9
+206213815,chaos-mesh/chaos-mesh,Go,11
+7823926,prometheus/client_golang,Go,2
+63196359,confluentinc/confluent-kafka-go,Go,1
+23586998,vektra/mockery,Go,2
+111455867,smartcontractkit/chainlink,Go,3

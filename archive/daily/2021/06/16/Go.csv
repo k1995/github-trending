@@ -1,0 +1,26 @@
+id,name,lang,new stars
+12574344,spf13/cobra,Go,16
+31288958,hashicorp/vault,Go,14
+8966356,hashicorp/packer,Go,5
+42332863,filebrowser/filebrowser,Go,8
+44350607,kubernetes/dashboard,Go,2
+109162639,thanos-io/thanos,Go,101
+109145553,containers/podman,Go,15
+132145189,golangci/golangci-lint,Go,13
+11206255,Shopify/sarama,Go,5
+18906266,shirou/gopsutil,Go,10
+130430977,kubesphere/kubesphere,Go,6
+55637575,lucas-clemente/quic-go,Go,8
+120650407,operator-framework/operator-sdk,Go,6
+63625434,securego/gosec,Go,6
+247032621,go-admin-team/go-admin,Go,6
+9120526,jackc/pgx,Go,2
+11452538,prometheus/alertmanager,Go,3
+29778781,slack-go/slack,Go,3
+83252983,go-task/task,Go,13
+176379662,derailed/popeye,Go,27
+93446042,terraform-providers/terraform-provider-azurerm,Go,4
+19608522,googleapis/google-cloud-go,Go,6
+193681111,filecoin-project/lotus,Go,5
+234530887,ethersphere/bee,Go,14
+238797860,ethereum-optimism/optimism,Go,0

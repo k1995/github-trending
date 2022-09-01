@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,324
+20580498,kubernetes/kubernetes,Go,258
+11225014,etcd-io/etcd,Go,125
+138547797,FiloSottile/mkcert,Go,217
+133251103,wagoodman/dive,Go,232
+13124802,influxdata/influxdb,Go,63
+31288958,hashicorp/vault,Go,77
+61137153,evanw/esbuild,Go,532
+107286889,schollz/croc,Go,87
+62921553,rook/rook,Go,42
+36653430,hashicorp/nomad,Go,322
+162920291,inlets/inlets,Go,315
+23247808,rqlite/rqlite,Go,695
+148545807,kubernetes-sigs/kind,Go,94
+68964263,prometheus-operator/prometheus-operator,Go,47
+27483832,gogo/protobuf,Go,43
+80134675,containers/buildah,Go,59
+156681830,ffuf/ffuf,Go,115
+150713223,kubeedge/kubeedge,Go,72
+93446042,terraform-providers/terraform-provider-azurerm,Go,6
+273132277,moonD4rk/HackBrowserData,Go,469
+276822250,oam-dev/kubevela,Go,101
+310247011,cdk-team/CDK,Go,601
+96004375,aws/aws-sdk-go-v2,Go,25
+135951540,stashapp/stash,Go,76

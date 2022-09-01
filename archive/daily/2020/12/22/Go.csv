@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,20
+42408804,traefik/traefik,Go,21
+16563587,cockroachdb/cockroach,Go,2
+135516270,k3s-io/k3s,Go,16
+29217054,asim/go-micro,Go,12
+27729907,grpc/grpc-go,Go,12
+30245748,gizak/termui,Go,9
+167304464,cortexlabs/cortex,Go,46
+11206255,Shopify/sarama,Go,12
+153099672,inancgumus/learngo,Go,10
+134012064,pion/webrtc,Go,11
+18906266,shirou/gopsutil,Go,12
+68964263,prometheus-operator/prometheus-operator,Go,5
+120650407,operator-framework/operator-sdk,Go,12
+175192867,chaosblade-io/chaosblade,Go,3
+127519518,projectdiscovery/subfinder,Go,5
+90798757,segmentio/kafka-go,Go,6
+43225113,mikefarah/yq,Go,16
+134539560,weaveworks/eksctl,Go,5
+252813491,projectdiscovery/nuclei,Go,80
+266445736,owncast/owncast,Go,546
+22883982,vmware/govmomi,Go,2
+51023040,eclipse/paho.mqtt.golang,Go,1
+193681111,filecoin-project/lotus,Go,3
+103084166,accurics/terrascan,Go,8

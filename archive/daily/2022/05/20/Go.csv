@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,120
+29261473,minio/minio,Go,25
+17728164,hashicorp/terraform,Go,19
+31288958,hashicorp/vault,Go,7
+43723161,helm/helm,Go,12
+54400687,grafana/k6,Go,14
+48109239,cilium/cilium,Go,25
+180687624,aquasecurity/trivy,Go,31
+367284699,lima-vm/lima,Go,16
+27576132,aws/aws-sdk-go,Go,6
+68964263,prometheus-operator/prometheus-operator,Go,19
+93928882,swaggo/swag,Go,6
+150713223,kubeedge/kubeedge,Go,9
+258469100,fluxcd/flux2,Go,12
+157402758,safing/portmaster,Go,49
+299832860,livekit/livekit,Go,399
+117156031,prysmaticlabs/prysm,Go,5
+91074692,zalando/postgres-operator,Go,1
+143846881,okteto/okteto,Go,2
+330616364,evrone/go-clean-template,Go,231
+385634291,grafana/mimir,Go,9
+49970739,DataDog/datadog-agent,Go,6
+133830411,argoproj/argo-events,Go,0
+440220648,Mikaelemmmm/go-zero-looklook,Go,13
+434017296,stackrox/stackrox,Go,21

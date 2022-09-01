@@ -1,0 +1,26 @@
+id,name,lang,new stars
+42408804,traefik/traefik,Go,17
+14125254,hashicorp/consul,Go,9
+107286889,schollz/croc,Go,30
+50613991,goharbor/harbor,Go,6
+46806184,helm/charts,Go,3
+285864199,zeromicro/go-zero,Go,39
+119419195,GoogleContainerTools/kaniko,Go,4
+208728772,milvus-io/milvus,Go,15
+130430977,kubesphere/kubesphere,Go,9
+92313258,jetstack/cert-manager,Go,8
+11206255,Shopify/sarama,Go,2
+233130089,charmbracelet/bubbletea,Go,19
+146641150,tektoncd/pipeline,Go,8
+252813491,projectdiscovery/nuclei,Go,36
+370977430,OpenIMSDK/Open-IM-Server,Go,23
+99143276,vmware-tanzu/velero,Go,6
+247032621,go-admin-team/go-admin,Go,14
+105262714,oauth2-proxy/oauth2-proxy,Go,14
+215654064,temporalio/temporal,Go,10
+93446042,hashicorp/terraform-provider-azurerm,Go,3
+166304026,BishopFox/sliver,Go,5
+105711679,envoyproxy/protoc-gen-validate,Go,3
+411212454,tharsis/evmos,Go,52
+442967758,XmirrorSecurity/OpenSCA-cli,Go,97
+444831620,sairson/Yasso,Go,100

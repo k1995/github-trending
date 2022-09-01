@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,32
+119160553,photoprism/photoprism,Go,194
+6247705,stretchr/testify,Go,17
+54378638,github/gh-ost,Go,5
+136505169,tinygo-org/tinygo,Go,13
+132145189,golangci/golangci-lint,Go,18
+27576132,aws/aws-sdk-go,Go,2
+48643510,pkg/errors,Go,15
+67382094,Jguer/yay,Go,16
+21306961,fsnotify/fsnotify,Go,1
+3087541,patrickmn/go-cache,Go,9
+1966991,tealeg/xlsx,Go,5
+17451182,go-yaml/yaml,Go,6
+63625434,securego/gosec,Go,4
+10757154,satori/go.uuid,Go,2
+11452538,prometheus/alertmanager,Go,3
+170411418,kedacore/keda,Go,8
+63196359,confluentinc/confluent-kafka-go,Go,1
+125619154,ory/keto,Go,4
+111455867,smartcontractkit/chainlink,Go,3
+124157517,kubernetes-sigs/cluster-api,Go,1
+51023040,eclipse/paho.mqtt.golang,Go,2
+83623770,databus23/helm-diff,Go,4
+371564104,megaease/easegress,Go,115
+318972528,roseduan/rosedb,Go,52

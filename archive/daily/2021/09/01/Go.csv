@@ -1,0 +1,26 @@
+id,name,lang,new stars
+17728164,hashicorp/terraform,Go,21
+133251103,wagoodman/dive,Go,18
+13628513,sirupsen/logrus,Go,9
+234231371,gofiber/fiber,Go,27
+10379607,buger/goreplay,Go,11
+27729907,grpc/grpc-go,Go,20
+62091339,kubernetes/kops,Go,3
+285864199,tal-tech/go-zero,Go,24
+87617508,casbin/casbin,Go,17
+66841911,qax-os/excelize,Go,32
+109145553,containers/podman,Go,73
+27051771,golang/protobuf,Go,2
+11206255,Shopify/sarama,Go,3
+9524057,prometheus/node_exporter,Go,6
+93444615,hashicorp/terraform-provider-aws,Go,10
+99143276,vmware-tanzu/velero,Go,5
+80134675,containers/buildah,Go,13
+33055762,bouk/monkey,Go,4
+312629343,shadow1ng/fscan,Go,12
+154894457,open-policy-agent/gatekeeper,Go,4
+202018792,aws/copilot-cli,Go,6
+193681111,filecoin-project/lotus,Go,2
+261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,10
+200710337,OffchainLabs/arbitrum,Go,14
+67680905,DataDog/dd-trace-go,Go,1

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,51
+7691631,moby/moby,Go,13
+17728164,hashicorp/terraform,Go,22
+29261473,minio/minio,Go,21
+17803236,rclone/rclone,Go,34
+26337322,rancher/rancher,Go,20
+46806184,helm/charts,Go,9
+4059138,dgrijalva/jwt-go,Go,10
+44344606,go-chi/chi,Go,12
+22442668,openshift/origin,Go,6
+54400687,loadimpact/k6,Go,16
+169948217,crawlab-team/crawlab,Go,12
+27576132,aws/aws-sdk-go,Go,1
+30711774,go-playground/validator,Go,23
+26726495,go-swagger/go-swagger,Go,10
+62799996,fluxcd/flux,Go,7
+99143276,vmware-tanzu/velero,Go,5
+120650407,operator-framework/operator-sdk,Go,9
+48714685,open-policy-agent/opa,Go,4
+160626997,uber/kraken,Go,3
+120896210,argoproj/argo-cd,Go,6
+118828329,knative/serving,Go,7
+197914161,drakkan/sftpgo,Go,42
+107597148,aws/amazon-vpc-cni-k8s,Go,4
+124157517,kubernetes-sigs/cluster-api,Go,3

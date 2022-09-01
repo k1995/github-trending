@@ -1,0 +1,26 @@
+id,name,lang,new stars
+29207621,caddyserver/caddy,Go,25
+401025,github/hub,Go,6
+13124802,influxdata/influxdb,Go,11
+26337322,rancher/rancher,Go,5
+135516270,k3s-io/k3s,Go,17
+44498957,valyala/fasthttp,Go,9
+54400687,loadimpact/k6,Go,48
+71297170,Netflix/chaosmonkey,Go,8
+163883279,nektos/act,Go,29
+7877397,jmoiron/sqlx,Go,5
+86733463,ahmetb/kubectx,Go,8
+192632000,dapr/dapr,Go,10
+109162639,thanos-io/thanos,Go,121
+4925652,robfig/cron,Go,9
+48109239,cilium/cilium,Go,11
+167304464,cortexlabs/cortex,Go,63
+11206255,Shopify/sarama,Go,9
+153099672,inancgumus/learngo,Go,10
+180687624,aquasecurity/trivy,Go,20
+201658460,geektutu/7days-golang,Go,11
+81355383,mongodb/mongo-go-driver,Go,3
+50629145,google/pprof,Go,8
+140412864,kgretzky/evilginx2,Go,7
+107600830,aws/aws-lambda-go,Go,5
+102390943,google/cel-spec,Go,41

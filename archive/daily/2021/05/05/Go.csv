@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,8
+14712850,syncthing/syncthing,Go,18
+29207621,caddyserver/caddy,Go,17
+16563587,cockroachdb/cockroach,Go,2
+26337322,rancher/rancher,Go,4
+46089560,containerd/containerd,Go,6
+109162639,thanos-io/thanos,Go,67
+119419195,GoogleContainerTools/kaniko,Go,13
+133067498,kubernetes-sigs/kustomize,Go,10
+134012064,pion/webrtc,Go,2
+113106184,linkerd/linkerd2,Go,6
+68964263,prometheus-operator/prometheus-operator,Go,2
+48714685,open-policy-agent/opa,Go,7
+40539602,99designs/aws-vault,Go,3
+49766020,mvdan/sh,Go,4
+206213815,chaos-mesh/chaos-mesh,Go,5
+105262714,oauth2-proxy/oauth2-proxy,Go,8
+74499101,roboll/helmfile,Go,25
+93619165,alecthomas/chroma,Go,42
+111455867,smartcontractkit/chainlink,Go,8
+83363132,CrunchyData/postgres-operator,Go,3
+192178626,marcel-dempers/docker-development-youtube-series,Go,2
+246387644,ava-labs/avalanchego,Go,3
+334169919,projectdiscovery/interactsh,Go,33
+349049899,rosetta-dogecoin/rosetta-dogecoin,Go,2

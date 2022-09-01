@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,8
+6838921,prometheus/prometheus,Go,18
+138547797,FiloSottile/mkcert,Go,22
+12574344,spf13/cobra,Go,16
+29217054,asim/go-micro,Go,10
+6247705,stretchr/testify,Go,15
+33258973,influxdata/telegraf,Go,9
+100982449,argoproj/argo-workflows,Go,7
+65434192,tidwall/gjson,Go,9
+205679232,flipped-aurora/gin-vue-admin,Go,14
+132145189,golangci/golangci-lint,Go,10
+27051771,golang/protobuf,Go,6
+27576132,aws/aws-sdk-go,Go,0
+68964263,prometheus-operator/prometheus-operator,Go,5
+27146054,golang/tools,Go,5
+49765480,lightningnetwork/lnd,Go,6
+150954997,VictoriaMetrics/VictoriaMetrics,Go,7
+252813491,projectdiscovery/nuclei,Go,13
+19799491,tendermint/tendermint,Go,4
+110027931,metallb/metallb,Go,4
+173785481,tfsec/tfsec,Go,1
+364729022,maaslalani/slides,Go,417
+124157517,kubernetes-sigs/cluster-api,Go,1
+192178626,marcel-dempers/docker-development-youtube-series,Go,6
+170803235,magma/magma,Go,0

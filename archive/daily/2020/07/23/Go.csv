@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,61
+6838921,prometheus/prometheus,Go,25
+29207621,caddyserver/caddy,Go,20
+41986369,pingcap/tidb,Go,20
+74175805,istio/istio,Go,13
+17728164,hashicorp/terraform,Go,16
+13124802,influxdata/influxdb,Go,14
+31288958,hashicorp/vault,Go,13
+156084530,ehang-io/nps,Go,24
+13624859,gorilla/websocket,Go,18
+56342508,jaegertracing/jaeger,Go,16
+6247705,stretchr/testify,Go,16
+4059138,dgrijalva/jwt-go,Go,5
+21405028,ardanlabs/gotraining,Go,132
+62799996,fluxcd/flux,Go,9
+18906266,shirou/gopsutil,Go,7
+93444615,terraform-providers/terraform-provider-aws,Go,7
+99143276,vmware-tanzu/velero,Go,8
+53174289,gruntwork-io/terratest,Go,8
+41288708,sourcegraph/sourcegraph,Go,7
+93446042,terraform-providers/terraform-provider-azurerm,Go,3
+243518322,douyu/jupiter,Go,27
+276077594,upmasked/number-verifier,Go,175
+193681111,filecoin-project/lotus,Go,3
+199482477,fluxcd/helm-operator,Go,6

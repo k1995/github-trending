@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,40
+29207621,caddyserver/caddy,Go,23
+15452919,ethereum/go-ethereum,Go,55
+41986369,pingcap/tidb,Go,17
+29261473,minio/minio,Go,25
+74175805,istio/istio,Go,10
+31288958,hashicorp/vault,Go,6
+30215630,go-kit/kit,Go,17
+18369373,spf13/viper,Go,9
+27729907,grpc/grpc-go,Go,10
+129717717,grafana/loki,Go,11
+5179099,go-redis/redis,Go,11
+33352201,grpc-ecosystem/grpc-gateway,Go,6
+66841911,360EntSecGroup-Skylar/excelize,Go,9
+285864199,tal-tech/go-zero,Go,30
+9524057,prometheus/node_exporter,Go,5
+134018330,panjf2000/ants,Go,27
+30219994,adonovan/gopl.io,Go,10
+154643390,sundowndev/phoneinfoga,Go,18
+172292744,panjf2000/gnet,Go,182
+86367047,elastic/go-elasticsearch,Go,8
+41964498,prometheus/blackbox_exporter,Go,2
+312629343,shadow1ng/fscan,Go,13
+311639195,karmada-io/karmada,Go,16
+136494223,kubernetes-sigs/controller-runtime,Go,2

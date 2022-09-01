@@ -1,0 +1,26 @@
+id,name,lang,new stars
+74175805,istio/istio,Go,25
+135516270,k3s-io/k3s,Go,25
+29371034,micro/micro,Go,17
+31558937,gravitational/teleport,Go,7
+18858585,mailhog/MailHog,Go,14
+36653430,hashicorp/nomad,Go,147
+109162639,thanos-io/thanos,Go,152
+9524057,prometheus/node_exporter,Go,4
+93444615,hashicorp/terraform-provider-aws,Go,10
+68964263,prometheus-operator/prometheus-operator,Go,37
+99143276,vmware-tanzu/velero,Go,42
+17451182,go-yaml/yaml,Go,38
+120896210,argoproj/argo-cd,Go,7
+120650407,operator-framework/operator-sdk,Go,4
+80134675,containers/buildah,Go,22
+58821882,grpc-ecosystem/go-grpc-middleware,Go,8
+149515625,weaveworks/flagger,Go,6
+264154402,crowdsecurity/crowdsec,Go,103
+93446042,terraform-providers/terraform-provider-azurerm,Go,2
+229030654,go-git/go-git,Go,13
+98671007,kubernetes-sigs/descheduler,Go,1
+111455867,smartcontractkit/chainlink,Go,3
+236055696,grafana/tempo,Go,5
+107708884,envoyproxy/go-control-plane,Go,4
+80172100,kubernetes-sigs/cri-tools,Go,7

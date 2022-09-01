@@ -1,0 +1,26 @@
+id,name,lang,new stars
+45717250,tensorflow/tensorflow,C++,36
+65600975,pytorch/pytorch,C++,37
+22887094,tesseract-ocr/tesseract,C++,13
+27729880,grpc/grpc,C++,13
+39840932,google/googletest,C++,13
+76222419,Tencent/mars,C++,3
+149111813,Tencent/MMKV,C++,12
+17391973,Tencent/rapidjson,C++,6
+52729242,keepassxreboot/keepassxc,C++,12
+102692863,onnx/onnx,C++,6
+146459443,vesoft-inc/nebula,C++,5
+117948953,Atmosphere-NX/Atmosphere,C++,70
+131881622,NVIDIA/DeepLearningExamples,C++,5
+46374199,IntelRealSense/librealsense,C++,9
+11469439,apache/mesos,C++,0
+156939672,microsoft/onnxruntime,C++,6
+143324737,diasurgical/devilutionX,C++,18
+86897963,xia-chu/ZLMediaKit,C++,12
+3030065,gnuradio/gnuradio,C++,1
+6148317,OSGeo/gdal,C++,5
+10599951,emilybache/GildedRose-Refactoring-Kata,C++,3
+52400453,IntelRealSense/realsense-ros,C++,1
+349522340,google/lyra,C++,397
+283280154,jomjol/AI-on-the-edge-device,C++,1
+354842738,atomic14/esp32-walkie-talkie,C++,7

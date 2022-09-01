@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,88
+11225014,etcd-io/etcd,Go,140
+29261473,minio/minio,Go,340
+14125254,hashicorp/consul,Go,71
+12574344,spf13/cobra,Go,114
+31288958,hashicorp/vault,Go,78
+61137153,evanw/esbuild,Go,488
+50613991,goharbor/harbor,Go,79
+234231371,gofiber/fiber,Go,140
+33258973,influxdata/telegraf,Go,45
+16554739,elastic/beats,Go,30
+162920291,inlets/inlets,Go,190
+27051771,golang/protobuf,Go,33
+23247808,rqlite/rqlite,Go,636
+26726495,go-swagger/go-swagger,Go,31
+120896210,argoproj/argo-cd,Go,172
+53174289,gruntwork-io/terratest,Go,199
+87990209,kubernetes/autoscaler,Go,24
+94779471,aquasecurity/kube-bench,Go,30
+58184885,kubernetes/kube-state-metrics,Go,25
+93446042,terraform-providers/terraform-provider-azurerm,Go,19
+173785481,tfsec/tfsec,Go,35
+22883982,vmware/govmomi,Go,18
+187086161,open-telemetry/opentelemetry-go,Go,18
+96004375,aws/aws-sdk-go-v2,Go,38

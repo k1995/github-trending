@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,40
+13807606,junegunn/fzf,Go,47
+138547797,FiloSottile/mkcert,Go,27
+17728164,hashicorp/terraform,Go,31
+14125254,hashicorp/consul,Go,16
+37448451,mattermost/mattermost-server,Go,9
+43723161,helm/helm,Go,5
+72477752,pulumi/pulumi,Go,14
+180687624,aquasecurity/trivy,Go,25
+222172014,slackhq/nebula,Go,10
+120896210,argoproj/argo-cd,Go,15
+77726177,trufflesecurity/trufflehog,Go,339
+93808874,bxcodec/go-clean-arch,Go,7
+175405157,JanDeDobbeleer/oh-my-posh,Go,26
+147886080,crossplane/crossplane,Go,8
+16019737,Masterminds/squirrel,Go,13
+120519269,runatlantis/atlantis,Go,12
+57333709,kubernetes/test-infra,Go,2
+106867604,cloudflare/cloudflared,Go,8
+173009358,deepmap/oapi-codegen,Go,9
+236736020,actions-runner-controller/actions-runner-controller,Go,10
+471627548,s0md3v/Smap,Go,190
+93446053,DataDog/terraform-provider-datadog,Go,2
+476092121,ferreiraklet/Jeeves,Go,6
+477400933,codeedu/imersao-7-codepix,Go,19

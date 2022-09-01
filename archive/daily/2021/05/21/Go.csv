@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,40
+7691631,moby/moby,Go,13
+6838921,prometheus/prometheus,Go,22
+29261473,minio/minio,Go,145
+74175805,istio/istio,Go,9
+43723161,helm/helm,Go,13
+135516270,k3s-io/k3s,Go,12
+13624859,gorilla/websocket,Go,8
+234231371,gofiber/fiber,Go,26
+72891330,kubernetes/ingress-nginx,Go,11
+48109239,cilium/cilium,Go,7
+148545807,kubernetes-sigs/kind,Go,58
+27051771,golang/protobuf,Go,3
+180687624,aquasecurity/trivy,Go,10
+93444615,hashicorp/terraform-provider-aws,Go,6
+81355383,mongodb/mongo-go-driver,Go,5
+21306961,fsnotify/fsnotify,Go,5
+43225113,mikefarah/yq,Go,10
+158171016,KubeOperator/KubeOperator,Go,6
+327859577,juicedata/juicefs,Go,4
+170411418,kedacore/keda,Go,9
+57333709,kubernetes/test-infra,Go,3
+196414933,open-telemetry/opentelemetry-collector-contrib,Go,0
+366489526,dominikbraun/timetrace,Go,11
+347920955,detectify/ugly-duckling,Go,5

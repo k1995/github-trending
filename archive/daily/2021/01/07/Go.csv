@@ -1,0 +1,26 @@
+id,name,lang,new stars
+17728164,hashicorp/terraform,Go,14
+14125254,hashicorp/consul,Go,10
+16563587,cockroachdb/cockroach,Go,15
+26337322,rancher/rancher,Go,11
+6247705,stretchr/testify,Go,14
+129717717,grafana/loki,Go,12
+11008207,vitessio/vitess,Go,6
+54400687,loadimpact/k6,Go,13
+158645957,OpenDiablo2/OpenDiablo2,Go,34
+26836182,therecipe/qt,Go,21
+109162639,thanos-io/thanos,Go,7
+48109239,cilium/cilium,Go,8
+26726495,go-swagger/go-swagger,Go,6
+62799996,fluxcd/flux,Go,2
+28366058,docker/distribution,Go,53
+93444615,hashicorp/terraform-provider-aws,Go,8
+68964263,prometheus-operator/prometheus-operator,Go,2
+37334619,golang/mock,Go,9
+17451182,go-yaml/yaml,Go,4
+87990209,kubernetes/autoscaler,Go,8
+23586998,vektra/mockery,Go,5
+178999736,geohot/minikeyvalue,Go,74
+185861173,open-telemetry/opentelemetry-collector,Go,4
+325862596,ztino/helloworld,Go,230
+325519108,zqjzqj/mtSecKill,Go,82

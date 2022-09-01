@@ -1,0 +1,26 @@
+id,name,lang,new stars
+17728164,hashicorp/terraform,Go,11
+16563587,cockroachdb/cockroach,Go,11
+31288958,hashicorp/vault,Go,8
+43723161,helm/helm,Go,6
+11593442,golang/groupcache,Go,4
+10270722,google/go-github,Go,5
+180687624,aquasecurity/trivy,Go,18
+68964263,prometheus-operator/prometheus-operator,Go,10
+99143276,vmware-tanzu/velero,Go,4
+40539602,99designs/aws-vault,Go,12
+121746465,eddycjy/go-gin-example,Go,7
+93928882,swaggo/swag,Go,7
+285864199,tal-tech/go-zero,Go,84
+125275487,kubernetes-sigs/kubebuilder,Go,16
+244694886,didi/nightingale,Go,22
+57333709,kubernetes/test-infra,Go,3
+93446042,terraform-providers/terraform-provider-azurerm,Go,5
+252813491,projectdiscovery/nuclei,Go,35
+73098043,foxcpp/maddy,Go,208
+111455867,smartcontractkit/chainlink,Go,2
+165042306,Bios-Marcel/cordless,Go,21
+258469100,fluxcd/flux2,Go,20
+276822250,oam-dev/kubevela,Go,68
+314763206,utkusen/urlhunter,Go,86
+314823175,kochampsy/fractal,Go,41

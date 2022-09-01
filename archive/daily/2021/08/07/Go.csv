@@ -1,0 +1,26 @@
+id,name,lang,new stars
+21540759,avelino/awesome-go,Go,83
+48378947,fatedier/frp,Go,83
+6838921,prometheus/prometheus,Go,47
+15452919,ethereum/go-ethereum,Go,49
+17728164,hashicorp/terraform,Go,39
+46806184,helm/charts,Go,6
+129717717,grafana/loki,Go,21
+7083242,go-sql-driver/mysql,Go,14
+72891330,kubernetes/ingress-nginx,Go,20
+36653430,hashicorp/nomad,Go,6
+40684033,mozilla/sops,Go,21
+54230994,coredns/coredns,Go,15
+191655189,ent/ent,Go,62
+134012064,pion/webrtc,Go,14
+62088377,kubernetes/kompose,Go,61
+79921099,chromedp/chromedp,Go,21
+44087204,google/syzkaller,Go,13
+170411418,kedacore/keda,Go,20
+93446042,terraform-providers/terraform-provider-azurerm,Go,6
+60978152,terraform-docs/terraform-docs,Go,8
+103084166,accurics/terrascan,Go,7
+299832860,livekit/livekit-server,Go,22
+127765544,Kong/kubernetes-ingress-controller,Go,4
+124260244,banzaicloud/bank-vaults,Go,3
+378374701,chenjiandongx/mandodb,Go,151

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+6838921,prometheus/prometheus,Go,127
+15452919,ethereum/go-ethereum,Go,213
+74175805,istio/istio,Go,116
+14125254,hashicorp/consul,Go,53
+56353740,kubernetes/minikube,Go,98
+37448451,mattermost/mattermost-server,Go,45
+163883279,nektos/act,Go,196
+54378638,github/gh-ost,Go,31
+92313258,jetstack/cert-manager,Go,40
+120896210,argoproj/argo-cd,Go,66
+118105436,golang-migrate/migrate,Go,56
+146641150,tektoncd/pipeline,Go,27
+93444615,hashicorp/terraform-provider-aws,Go,35
+21306961,fsnotify/fsnotify,Go,41
+156681830,ffuf/ffuf,Go,70
+22485114,hashicorp/hcl,Go,24
+281765424,microsoft/CBL-Mariner,Go,33
+258469100,fluxcd/flux2,Go,56
+323965659,Xhofe/alist,Go,418
+403020531,abiosoft/colima,Go,202
+442967758,XmirrorSecurity/OpenSCA-cli,Go,687
+411212454,tharsis/evmos,Go,140
+188836864,ledgerwatch/erigon,Go,30
+441903012,MichaelCade/90DaysOfDevOps,Go,217
+444831620,sairson/Yasso,Go,460

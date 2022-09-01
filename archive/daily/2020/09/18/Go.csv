@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,17
+74175805,istio/istio,Go,117
+56353740,kubernetes/minikube,Go,9
+31288958,hashicorp/vault,Go,185
+11393110,urfave/cli,Go,8
+46806184,helm/charts,Go,14
+135516270,rancher/k3s,Go,13
+212613049,cli/cli,Go,1118
+21233191,ipfs/go-ipfs,Go,3
+11593442,golang/groupcache,Go,5
+66841911,360EntSecGroup-Skylar/excelize,Go,10
+72477752,pulumi/pulumi,Go,16
+167304464,cortexlabs/cortex,Go,124
+191655189,facebook/ent,Go,26
+93444615,terraform-providers/terraform-provider-aws,Go,25
+68964263,prometheus-operator/prometheus-operator,Go,11
+27483832,gogo/protobuf,Go,6
+87990209,kubernetes/autoscaler,Go,8
+143965255,apache/dubbo-go,Go,8
+155658556,smallstep/certificates,Go,4
+93446042,terraform-providers/terraform-provider-azurerm,Go,3
+61687013,go-ozzo/ozzo-validation,Go,16
+141339868,cockroachdb/pebble,Go,69
+237391530,free5gc/free5gc,Go,0
+294825566,denverquane/amongusdiscord,Go,17

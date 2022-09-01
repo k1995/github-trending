@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23357588,protocolbuffers/protobuf,C++,20
+27729880,grpc/grpc,C++,12
+39840932,google/googletest,C++,9
+16587283,dmlc/xgboost,C++,6
+5133949,swoole/swoole-src,C++,7
+81227005,facebookresearch/faiss,C++,21
+149111813,Tencent/MMKV,C++,9
+164782828,USTC-Resource/USTC-Course,C++,110
+6520784,RPCS3/rpcs3,C++,30
+31102092,google/or-tools,C++,4
+108102826,carla-simulator/carla,C++,8
+5909706,yhirose/cpp-httplib,C++,10
+64732358,cartographer-project/cartographer,C++,4
+56894212,jvm-profiling-tools/async-profiler,C++,2
+267792621,Tencent/TNN,C++,4
+151636194,triton-inference-server/server,C++,15
+244694174,project-chip/connectedhomeip,C++,18
+369408234,CodingGay/BlackDex,C++,16
+153097643,openvinotoolkit/openvino,C++,10
+167828165,ArthurSonzogni/FTXUI,C++,26
+402945349,StarRocks/starrocks,C++,23
+170738310,trustwallet/wallet-core,C++,5
+356055024,tensorflow/tflite-micro,C++,2
+441398743,ishitatsuyuki/LatencyFleX,C++,32
+132416338,aers/EngineFixesSkyrim64,C++,5

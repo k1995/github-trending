@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,51
+20580498,kubernetes/kubernetes,Go,43
+29207621,caddyserver/caddy,Go,54
+212613049,cli/cli,Go,17
+56353740,kubernetes/minikube,Go,9
+18369373,spf13/viper,Go,12
+11393110,urfave/cli,Go,19
+27729907,grpc/grpc-go,Go,12
+129717717,grafana/loki,Go,12
+52034309,uber-go/zap,Go,18
+205679232,flipped-aurora/gin-vue-admin,Go,25
+103126070,snail007/goproxy,Go,10
+33258973,influxdata/telegraf,Go,4
+39038086,containrrr/watchtower,Go,11
+118105436,golang-migrate/migrate,Go,8
+11206255,Shopify/sarama,Go,11
+127519518,projectdiscovery/subfinder,Go,30
+267713284,projectdiscovery/httpx,Go,33
+78678862,ClickHouse/clickhouse-go,Go,3
+155368246,elastic/cloud-on-k8s,Go,1
+125253663,google/go-containerregistry,Go,7
+165021340,Altinity/clickhouse-operator,Go,3
+395943715,Azure/aztfy,Go,43
+480189587,zc2638/ddshop,Go,95
+424130108,tonight-ac/flow,Go,0

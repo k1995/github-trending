@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,34
+48378947,fatedier/frp,Go,29
+11225014,etcd-io/etcd,Go,18
+42408804,containous/traefik,Go,20
+37448451,mattermost/mattermost-server,Go,2
+61137153,evanw/esbuild,Go,24
+129717717,grafana/loki,Go,17
+11008207,vitessio/vitess,Go,9
+5179099,go-redis/redis,Go,11
+11593442,golang/groupcache,Go,5
+33352201,grpc-ecosystem/grpc-gateway,Go,13
+7877397,jmoiron/sqlx,Go,9
+72891330,kubernetes/ingress-nginx,Go,12
+4925652,robfig/cron,Go,8
+48109239,cilium/cilium,Go,73
+62799996,fluxcd/flux,Go,9
+18950460,concourse/concourse,Go,0
+109145553,containers/podman,Go,7
+40539602,99designs/aws-vault,Go,2
+52589524,mailru/easyjson,Go,8
+75785240,authelia/authelia,Go,13
+175592968,volcano-sh/volcano,Go,4
+243213207,alexellis/arkade,Go,8
+187078631,shellhub-io/shellhub,Go,41
+235685125,omriharel/deej,Go,13

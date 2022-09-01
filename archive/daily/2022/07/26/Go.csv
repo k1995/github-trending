@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,33
+17728164,hashicorp/terraform,Go,19
+3577919,beego/beego,Go,18
+6247705,stretchr/testify,Go,14
+6051812,gorilla/mux,Go,11
+27729907,grpc/grpc-go,Go,6
+6443435,nats-io/nats-server,Go,4
+80087836,dgraph-io/badger,Go,14
+134012064,pion/webrtc,Go,10
+118105436,golang-migrate/migrate,Go,13
+370977430,OpenIMSDK/Open-IM-Server,Go,11
+37334619,golang/mock,Go,10
+99143276,vmware-tanzu/velero,Go,4
+66509131,kubernetes/client-go,Go,9
+86164982,gonum/gonum,Go,3
+9120526,jackc/pgx,Go,8
+19799491,tendermint/tendermint,Go,4
+120519269,runatlantis/atlantis,Go,12
+77689140,thoas/go-funk,Go,6
+220588935,naiba/nezha,Go,6
+261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,8
+370912548,marmotedu/iam,Go,9
+313628863,external-secrets/external-secrets,Go,11
+238797860,ethereum-optimism/optimism,Go,8
+391811592,bufbuild/connect-go,Go,10

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,15
+42408804,containous/traefik,Go,32
+17728164,hashicorp/terraform,Go,22
+13124802,influxdata/influxdb,Go,8
+13855476,jinzhu/gorm,Go,19
+13628513,sirupsen/logrus,Go,12
+18369373,spf13/viper,Go,18
+62091339,kubernetes/kops,Go,14
+66573241,hyperledger/fabric,Go,10
+31558937,gravitational/teleport,Go,7
+27576132,aws/aws-sdk-go,Go,2
+48109239,cilium/cilium,Go,13
+26726495,go-swagger/go-swagger,Go,3
+167304464,cortexlabs/cortex,Go,19
+234231371,gofiber/fiber,Go,76
+121086193,99designs/gqlgen,Go,9
+81355383,mongodb/mongo-go-driver,Go,7
+27483832,gogo/protobuf,Go,7
+120650407,operator-framework/operator-sdk,Go,6
+95761244,gogf/gf,Go,15
+93808874,bxcodec/go-clean-arch,Go,62
+7823926,prometheus/client_golang,Go,6
+155368246,elastic/cloud-on-k8s,Go,4
+207685110,geph-official/geph2,Go,9
+242879301,lc/gau,Go,25

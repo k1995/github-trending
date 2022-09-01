@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,38
+7691631,moby/moby,Go,16
+16563587,cockroachdb/cockroach,Go,106
+163883279,nektos/act,Go,130
+46806184,helm/charts,Go,2
+129717717,grafana/loki,Go,8
+19205896,restic/restic,Go,8
+33258973,influxdata/telegraf,Go,7
+92313258,jetstack/cert-manager,Go,10
+130430977,kubesphere/kubesphere,Go,15
+311315731,XTLS/Xray-core,Go,64
+72875399,luraproject/lura,Go,8
+93446042,hashicorp/terraform-provider-azurerm,Go,1
+111455867,smartcontractkit/chainlink,Go,4
+384451028,cloudwego/kitex,Go,264
+342158146,cloudwego/netpoll,Go,56
+133830411,argoproj/argo-events,Go,2
+136494223,kubernetes-sigs/controller-runtime,Go,3
+158012967,argoproj/argo-rollouts,Go,3
+335952417,sigstore/cosign,Go,7
+388260896,aws/eks-anywhere,Go,102
+376842961,polarismesh/polaris,Go,48
+394089041,spiceai/spiceai,Go,108
+303049486,vxunderground/VXUG-Papers,Go,6
+384080245,1makarov/binance-nft-buy,Go,6

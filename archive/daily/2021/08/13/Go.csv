@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,41
+21540759,avelino/awesome-go,Go,54
+6838921,prometheus/prometheus,Go,28
+29261473,minio/minio,Go,25
+17728164,hashicorp/terraform,Go,104
+13855476,go-gorm/gorm,Go,18
+14125254,hashicorp/consul,Go,4
+135516270,k3s-io/k3s,Go,13
+48003886,tmrts/go-patterns,Go,144
+50613991,goharbor/harbor,Go,9
+192632000,dapr/dapr,Go,13
+129717717,grafana/loki,Go,14
+66573241,hyperledger/fabric,Go,3
+131212638,google/gvisor,Go,6
+16554739,elastic/beats,Go,4
+48109239,cilium/cilium,Go,18
+26661222,tinode/chat,Go,26
+9524057,prometheus/node_exporter,Go,3
+37334619,golang/mock,Go,10
+150713223,kubeedge/kubeedge,Go,5
+120519269,runatlantis/atlantis,Go,3
+83363132,CrunchyData/postgres-operator,Go,5
+386384568,sniptt-official/ots,Go,208
+173009358,deepmap/oapi-codegen,Go,18
+370773729,ossf/allstar,Go,93

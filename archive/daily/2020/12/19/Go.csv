@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,79
+14125254,hashicorp/consul,Go,132
+13124802,influxdata/influxdb,Go,14
+13628513,sirupsen/logrus,Go,10
+61137153,evanw/esbuild,Go,30
+41349039,dgraph-io/dgraph,Go,20
+8966356,hashicorp/packer,Go,233
+97533102,halfrost/LeetCode-Go,Go,83
+163883279,nektos/act,Go,44
+4022652,gomodule/redigo,Go,7
+72477752,pulumi/pulumi,Go,9
+100982449,argoproj/argo,Go,14
+10270722,google/go-github,Go,7
+27576132,aws/aws-sdk-go,Go,7
+99143276,vmware-tanzu/velero,Go,7
+53174289,gruntwork-io/terratest,Go,8
+32153390,jung-kurt/gofpdf,Go,6
+16607984,DATA-DOG/go-sqlmock,Go,8
+271250363,k0sproject/k0s,Go,114
+74499101,roboll/helmfile,Go,8
+43237167,gdamore/tcell,Go,8
+93446042,terraform-providers/terraform-provider-azurerm,Go,3
+51193526,cosmos/cosmos-sdk,Go,3
+74891203,rebuy-de/aws-nuke,Go,7
+279592699,rancher/harvester,Go,87

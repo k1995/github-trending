@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,43
+48378947,fatedier/frp,Go,23
+17803236,rclone/rclone,Go,12
+74175805,istio/istio,Go,11
+26337322,rancher/rancher,Go,12
+46806184,helm/charts,Go,6
+129717717,grafana/loki,Go,11
+33352201,grpc-ecosystem/grpc-gateway,Go,7
+33258973,influxdata/telegraf,Go,2
+285864199,tal-tech/go-zero,Go,40
+11206255,Shopify/sarama,Go,1
+27576132,aws/aws-sdk-go,Go,3
+26661222,tinode/chat,Go,300
+80134675,containers/buildah,Go,5
+67793333,cortexproject/cortex,Go,2
+371564104,megaease/easegress,Go,87
+144708327,zhenghaoz/gorse,Go,515
+95363214,instrumenta/kubeval,Go,2
+131317137,google/google-ctf,Go,12
+281765424,microsoft/CBL-Mariner,Go,253
+78678862,ClickHouse/clickhouse-go,Go,3
+158012967,argoproj/argo-rollouts,Go,2
+157554479,meshery/meshery,Go,3
+367758176,yedf/dtm,Go,93
+334851928,megaease/easemesh,Go,14

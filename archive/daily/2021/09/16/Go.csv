@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,45
+17728164,hashicorp/terraform,Go,26
+6247705,stretchr/testify,Go,15
+66573241,hyperledger/fabric,Go,6
+5179099,go-redis/redis,Go,10
+100982449,argoproj/argo-workflows,Go,9
+119419195,GoogleContainerTools/kaniko,Go,4
+11206255,Shopify/sarama,Go,3
+75785240,authelia/authelia,Go,21
+120896210,argoproj/argo-cd,Go,14
+40916314,dexidp/dex,Go,3
+193833307,knadh/listmonk,Go,9
+140412864,kgretzky/evilginx2,Go,7
+157245200,twpayne/chezmoi,Go,25
+81497153,kubernetes-sigs/external-dns,Go,4
+94779471,aquasecurity/kube-bench,Go,2
+43332504,GoogleCloudPlatform/golang-samples,Go,3
+344676663,erda-project/erda,Go,19
+116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,4
+196978139,xinliangnote/Go,Go,11
+93446075,hashicorp/terraform-provider-google,Go,2
+93446115,hashicorp/terraform-provider-kubernetes,Go,2
+135951540,stashapp/stash,Go,3
+335952417,sigstore/cosign,Go,7
+357698637,segmentio/asm,Go,39

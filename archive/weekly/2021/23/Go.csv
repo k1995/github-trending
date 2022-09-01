@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,74
+48378947,fatedier/frp,Go,262
+17728164,hashicorp/terraform,Go,584
+12574344,spf13/cobra,Go,114
+13124802,influxdata/influxdb,Go,68
+5179099,go-redis/redis,Go,103
+33352201,grpc-ecosystem/grpc-gateway,Go,56
+4059138,dgrijalva/jwt-go,Go,57
+87617508,casbin/casbin,Go,65
+100982449,argoproj/argo-workflows,Go,56
+36653430,hashicorp/nomad,Go,49
+18858585,mailhog/MailHog,Go,49
+48109239,cilium/cilium,Go,183
+109145553,containers/podman,Go,67
+27051771,golang/protobuf,Go,30
+191655189,ent/ent,Go,72
+67382094,Jguer/yay,Go,73
+93444615,hashicorp/terraform-provider-aws,Go,34
+154643390,sundowndev/phoneinfoga,Go,136
+93446042,terraform-providers/terraform-provider-azurerm,Go,15
+105711679,envoyproxy/protoc-gen-validate,Go,22
+192178626,marcel-dempers/docker-development-youtube-series,Go,58
+233408177,darjun/go-daily-lib,Go,112
+286729329,zu1k/proxypool,Go,153
+370912548,marmotedu/iam,Go,116

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,36
+20580498,kubernetes/kubernetes,Go,56
+7691631,moby/moby,Go,12
+20904437,gin-gonic/gin,Go,43
+11225014,etcd-io/etcd,Go,28
+31288958,hashicorp/vault,Go,13
+13628513,sirupsen/logrus,Go,9
+50613991,goharbor/harbor,Go,13
+6247705,stretchr/testify,Go,13
+61137153,evanw/esbuild,Go,27
+16554739,elastic/beats,Go,3
+27051771,golang/protobuf,Go,8
+36653430,hashicorp/nomad,Go,5
+27576132,aws/aws-sdk-go,Go,8
+133067498,kubernetes-sigs/kustomize,Go,8
+62799996,fluxcd/flux,Go,8
+81355383,mongodb/mongo-go-driver,Go,5
+37334619,golang/mock,Go,9
+27483832,gogo/protobuf,Go,4
+127519518,projectdiscovery/subfinder,Go,11
+27096595,googleapis/google-api-go-client,Go,11
+74499101,roboll/helmfile,Go,7
+74496173,kubernetes/kubeadm,Go,6
+105125456,godcong/fate,Go,24
+111455867,smartcontractkit/chainlink,Go,5

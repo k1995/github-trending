@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,47
+135516270,rancher/k3s,Go,16
+129717717,grafana/loki,Go,30
+7083242,go-sql-driver/mysql,Go,4
+33352201,grpc-ecosystem/grpc-gateway,Go,8
+117472496,claudiodangelis/qrcp,Go,15
+87617508,casbin/casbin,Go,21
+11206255,Shopify/sarama,Go,6
+77071454,goreleaser/goreleaser,Go,11
+132145189,golangci/golangci-lint,Go,16
+153099672,inancgumus/learngo,Go,100
+146641150,tektoncd/pipeline,Go,7
+93444615,terraform-providers/terraform-provider-aws,Go,8
+180687624,aquasecurity/trivy,Go,16
+120896210,argoproj/argo-cd,Go,9
+87990209,kubernetes/autoscaler,Go,4
+47859258,goplus/gop,Go,125
+29778781,slack-go/slack,Go,3
+105262714,oauth2-proxy/oauth2-proxy,Go,5
+51193526,cosmos/cosmos-sdk,Go,6
+276976140,augmentable-dev/gitqlite,Go,181
+235431922,go-rod/rod,Go,33
+193681111,filecoin-project/lotus,Go,4
+199482477,fluxcd/helm-operator,Go,3
+277099526,bnkamalesh/goapp,Go,40

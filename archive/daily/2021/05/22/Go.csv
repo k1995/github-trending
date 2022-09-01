@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,140
+20580498,kubernetes/kubernetes,Go,43
+6838921,prometheus/prometheus,Go,24
+41986369,pingcap/tidb,Go,12
+29261473,minio/minio,Go,114
+17728164,hashicorp/terraform,Go,20
+61137153,evanw/esbuild,Go,50
+13124802,influxdata/influxdb,Go,16
+31288958,hashicorp/vault,Go,263
+53632140,zyedidia/micro,Go,53
+234231371,gofiber/fiber,Go,42
+6443435,nats-io/nats-server,Go,14
+36653430,hashicorp/nomad,Go,6
+109162639,thanos-io/thanos,Go,8
+65434192,tidwall/gjson,Go,7
+77071454,goreleaser/goreleaser,Go,6
+136505169,tinygo-org/tinygo,Go,19
+11206255,Shopify/sarama,Go,6
+120896210,argoproj/argo-cd,Go,5
+93444615,hashicorp/terraform-provider-aws,Go,7
+193833307,knadh/listmonk,Go,79
+43225113,mikefarah/yq,Go,18
+19608522,googleapis/google-cloud-go,Go,3
+108133503,GoogleCloudPlatform/cloud-builders-community,Go,1
+234530887,ethersphere/bee,Go,32

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,38
+48378947,fatedier/frp,Go,46
+61137153,evanw/esbuild,Go,21
+14125254,hashicorp/consul,Go,8
+16563587,cockroachdb/cockroach,Go,9
+56353740,kubernetes/minikube,Go,9
+13624859,gorilla/websocket,Go,17
+123572362,quii/learn-go-with-tests,Go,16
+165041732,go-kratos/kratos,Go,17
+6247705,stretchr/testify,Go,11
+167596393,derailed/k9s,Go,25
+7083242,go-sql-driver/mysql,Go,5
+72477752,pulumi/pulumi,Go,22
+100982449,argoproj/argo-workflows,Go,16
+120896210,argoproj/argo-cd,Go,11
+144708327,zhenghaoz/gorse,Go,16
+92702519,bitnami-labs/sealed-secrets,Go,8
+5425992,nats-io/nats.go,Go,6
+384451028,cloudwego/kitex,Go,23
+193425521,mlogclub/bbs-go,Go,6
+93446075,hashicorp/terraform-provider-google,Go,3
+185861173,open-telemetry/opentelemetry-collector,Go,6
+267054247,anchore/grype,Go,9
+411212454,tharsis/evmos,Go,5
+420392988,rehacktive/caffeine,Go,63

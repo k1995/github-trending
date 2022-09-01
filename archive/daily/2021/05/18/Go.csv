@@ -1,0 +1,26 @@
+id,name,lang,new stars
+14712850,syncthing/syncthing,Go,273
+29261473,minio/minio,Go,18
+3577919,beego/beego,Go,10
+14125254,hashicorp/consul,Go,6
+26337322,rancher/rancher,Go,5
+192632000,dapr/dapr,Go,33
+20653934,google/cadvisor,Go,10
+272035489,greyireland/algorithm-pattern,Go,27
+72891330,kubernetes/ingress-nginx,Go,8
+48109239,cilium/cilium,Go,16
+92313258,jetstack/cert-manager,Go,7
+3087541,patrickmn/go-cache,Go,5
+193833307,knadh/listmonk,Go,30
+24898177,hashicorp/consul-template,Go,1
+81497153,kubernetes-sigs/external-dns,Go,2
+125275487,kubernetes-sigs/kubebuilder,Go,2
+93446042,terraform-providers/terraform-provider-azurerm,Go,23
+367284699,AkihiroSuda/lima,Go,302
+91074692,zalando/postgres-operator,Go,6
+22883982,vmware/govmomi,Go,4
+1780633,bits-and-blooms/bloom,Go,17
+355946670,loft-sh/vcluster,Go,150
+234530887,ethersphere/bee,Go,65
+196414933,open-telemetry/opentelemetry-collector-contrib,Go,3
+366731421,tpanum/hjem,Go,13

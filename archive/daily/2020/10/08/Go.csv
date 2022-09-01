@@ -1,0 +1,26 @@
+id,name,lang,new stars
+14125254,hashicorp/consul,Go,7
+31288958,hashicorp/vault,Go,17
+26337322,rancher/rancher,Go,46
+46806184,helm/charts,Go,6
+13624859,gorilla/websocket,Go,5
+6051812,gorilla/mux,Go,7
+56342508,jaegertracing/jaeger,Go,6
+5179099,go-redis/redis,Go,5
+234231371,gofiber/fiber,Go,20
+62921553,rook/rook,Go,18
+109145553,containers/podman,Go,4
+18906266,shirou/gopsutil,Go,2
+40684033,mozilla/sops,Go,10
+9524057,prometheus/node_exporter,Go,5
+68964263,prometheus-operator/prometheus-operator,Go,4
+53174289,gruntwork-io/terratest,Go,4
+66156850,TheAlgorithms/Go,Go,24
+11452538,prometheus/alertmanager,Go,4
+120519269,runatlantis/atlantis,Go,5
+57333709,kubernetes/test-infra,Go,3
+30621185,go-jira/jira,Go,8
+91074692,zalando/postgres-operator,Go,3
+280232135,screego/server,Go,360
+133830411,argoproj/argo-events,Go,4
+252745692,timescale/promscale,Go,11

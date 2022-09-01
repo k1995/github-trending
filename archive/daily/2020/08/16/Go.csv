@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,54
+21540759,avelino/awesome-go,Go,38
+13807606,junegunn/fzf,Go,25
+42408804,containous/traefik,Go,23
+41986369,pingcap/tidb,Go,30
+17728164,hashicorp/terraform,Go,33
+29217054,micro/go-micro,Go,19
+212613049,cli/cli,Go,44
+7083242,go-sql-driver/mysql,Go,4
+5179099,go-redis/redis,Go,13
+167596393,derailed/k9s,Go,12
+29371034,micro/micro,Go,15
+27051771,golang/protobuf,Go,1
+10270722,google/go-github,Go,166
+152058245,XiaoMi/soar,Go,33
+93444615,terraform-providers/terraform-provider-aws,Go,7
+68964263,prometheus-operator/prometheus-operator,Go,4
+53174289,gruntwork-io/terratest,Go,4
+53553027,nginxinc/kubernetes-ingress,Go,5
+16607984,DATA-DOG/go-sqlmock,Go,2
+58184885,kubernetes/kube-state-metrics,Go,5
+57333709,kubernetes/test-infra,Go,16
+206320938,google/differential-privacy,Go,33
+93446042,terraform-providers/terraform-provider-azurerm,Go,3
+53311716,pingcap/pd,Go,7

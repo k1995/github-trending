@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,45
+17728164,hashicorp/terraform,Go,16
+46806184,helm/charts,Go,13
+27729907,grpc/grpc-go,Go,12
+122734569,iawia002/annie,Go,124
+118654121,GoogleContainerTools/skaffold,Go,13
+7877397,jmoiron/sqlx,Go,15
+119419195,GoogleContainerTools/kaniko,Go,8
+11206255,Shopify/sarama,Go,11
+28366058,docker/distribution,Go,0
+121086193,99designs/gqlgen,Go,8
+91851756,docker/docker-ce,Go,11
+21034555,asaskevich/govalidator,Go,13
+117710726,twitchtv/twirp,Go,7
+41288708,sourcegraph/sourcegraph,Go,9
+19799491,tendermint/tendermint,Go,5
+87990209,kubernetes/autoscaler,Go,8
+118828329,knative/serving,Go,2
+93808874,bxcodec/go-clean-arch,Go,27
+49766020,mvdan/sh,Go,21
+147886080,crossplane/crossplane,Go,16
+93446042,terraform-providers/terraform-provider-azurerm,Go,4
+12223350,cloudfoundry/cli,Go,2
+258469100,fluxcd/toolkit,Go,9
+287313420,jetstack/version-checker,Go,15

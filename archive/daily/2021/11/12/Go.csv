@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,52
+15452919,ethereum/go-ethereum,Go,21
+29261473,minio/minio,Go,27
+14125254,hashicorp/consul,Go,6
+13628513,sirupsen/logrus,Go,12
+129717717,grafana/loki,Go,9
+62091339,kubernetes/kops,Go,5
+11593442,golang/groupcache,Go,8
+16554739,elastic/beats,Go,7
+4059138,dgrijalva/jwt-go,Go,4
+86981606,halfrost/Halfrost-Field,Go,98
+1380117,getlantern/lantern,Go,17
+109162639,thanos-io/thanos,Go,9
+180687624,aquasecurity/trivy,Go,46
+208728772,milvus-io/milvus,Go,20
+19537979,TykTechnologies/tyk,Go,15
+93444615,hashicorp/terraform-provider-aws,Go,4
+41288708,sourcegraph/sourcegraph,Go,7
+92969352,moby/buildkit,Go,5
+150713223,kubeedge/kubeedge,Go,7
+170411418,kedacore/keda,Go,9
+84610043,kubernetes-sigs/aws-load-balancer-controller,Go,4
+390982669,lwch/natpass,Go,118
+238797860,ethereum-optimism/optimism,Go,5
+374587785,clusternet/clusternet,Go,81

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+45717250,tensorflow/tensorflow,C++,50
+23357588,protocolbuffers/protobuf,C++,23
+27729880,grpc/grpc,C++,11
+23405758,google/leveldb,C++,233
+11171548,nlohmann/json,C++,70
+39840932,google/googletest,C++,10
+1357796,emscripten-core/emscripten,C++,6
+96246170,ApolloAuto/apollo,C++,10
+60273704,mozilla/DeepSpeech,C++,16
+4524181,facebook/folly,C++,21
+65214191,envoyproxy/envoy,C++,13
+1062572,catchorg/Catch2,C++,6
+26038648,gabime/spdlog,C++,11
+196813750,Light-City/CPlusPlusThings,C++,83
+2310495,ceph/ceph,C++,7
+50461701,tensorflow/serving,C++,5
+14981376,dogecoin/dogecoin,C++,34
+156939672,microsoft/onnxruntime,C++,9
+88327406,xmrig/xmrig,C++,15
+184657328,NVIDIA/TensorRT,C++,16
+1368195,chriskohlhoff/asio,C++,4
+321853986,Tencent/Tendis,C++,11
+161376600,facebookresearch/flashlight,C++,2
+305089628,Serial-Studio/Serial-Studio,C++,119
+336914859,artivis/kalmanif,C++,12

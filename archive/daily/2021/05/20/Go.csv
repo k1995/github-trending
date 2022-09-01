@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,36
+7691631,moby/moby,Go,12
+20904437,gin-gonic/gin,Go,29
+29261473,minio/minio,Go,133
+212613049,cli/cli,Go,24
+43723161,helm/helm,Go,8
+13628513,sirupsen/logrus,Go,7
+46806184,helm/charts,Go,4
+234231371,gofiber/fiber,Go,22
+192632000,dapr/dapr,Go,28
+72891330,kubernetes/ingress-nginx,Go,9
+109162639,thanos-io/thanos,Go,8
+148545807,kubernetes-sigs/kind,Go,7
+92313258,jetstack/cert-manager,Go,6
+27576132,aws/aws-sdk-go,Go,4
+91851756,docker/docker-ce,Go,3
+48714685,open-policy-agent/opa,Go,6
+17451182,go-yaml/yaml,Go,3
+193833307,knadh/listmonk,Go,12
+11452538,prometheus/alertmanager,Go,6
+79585104,matrix-org/dendrite,Go,10
+202018792,aws/copilot-cli,Go,6
+133830411,argoproj/argo-events,Go,4
+234530887,ethersphere/bee,Go,21
+368575326,bitclout/core,Go,15

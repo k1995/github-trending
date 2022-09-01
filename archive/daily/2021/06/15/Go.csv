@@ -1,0 +1,26 @@
+id,name,lang,new stars
+74175805,istio/istio,Go,3
+31288958,hashicorp/vault,Go,5
+163883279,nektos/act,Go,29
+4059138,dgrijalva/jwt-go,Go,5
+13021798,git-lfs/git-lfs,Go,6
+109162639,thanos-io/thanos,Go,114
+109145553,containers/podman,Go,12
+40684033,mozilla/sops,Go,13
+180687624,aquasecurity/trivy,Go,17
+10270722,google/go-github,Go,4
+92313258,jetstack/cert-manager,Go,5
+27576132,aws/aws-sdk-go,Go,2
+120896210,argoproj/argo-cd,Go,12
+18950460,concourse/concourse,Go,4
+37334619,golang/mock,Go,5
+120650407,operator-framework/operator-sdk,Go,7
+140412864,kgretzky/evilginx2,Go,4
+252813491,projectdiscovery/nuclei,Go,12
+67793333,cortexproject/cortex,Go,4
+83252983,go-task/task,Go,30
+74499101,roboll/helmfile,Go,3
+111455867,smartcontractkit/chainlink,Go,4
+103084166,accurics/terrascan,Go,9
+246387644,ava-labs/avalanchego,Go,1
+357897199,wiretrustee/wiretrustee,Go,11

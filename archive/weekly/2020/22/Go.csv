@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,242
+7691631,moby/moby,Go,78
+20904437,gin-gonic/gin,Go,246
+41912791,v2ray/v2ray-core,Go,666
+11225014,etcd-io/etcd,Go,136
+74175805,istio/istio,Go,106
+17728164,hashicorp/terraform,Go,143
+31288958,hashicorp/vault,Go,103
+13628513,sirupsen/logrus,Go,82
+26337322,rancher/rancher,Go,61
+5179099,go-redis/redis,Go,67
+44350607,kubernetes/dashboard,Go,62
+167596393,derailed/k9s,Go,549
+36653430,hashicorp/nomad,Go,52
+120156076,cloudreve/Cloudreve,Go,218
+18950460,concourse/concourse,Go,49
+93444615,terraform-providers/terraform-provider-aws,Go,42
+99143276,vmware-tanzu/velero,Go,43
+107417113,cookieY/Yearning,Go,63
+130430977,kubesphere/kubesphere,Go,65
+120896210,argoproj/argo-cd,Go,58
+250927119,shomali11/go-interview,Go,737
+248025303,p4gefau1t/trojan-go,Go,449
+242329748,Jrohy/trojan,Go,74
+237391530,free5gc/free5gc,Go,281

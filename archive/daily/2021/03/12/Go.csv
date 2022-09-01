@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,22
+41986369,pingcap/tidb,Go,19
+17728164,hashicorp/terraform,Go,11
+14125254,hashicorp/consul,Go,74
+14376285,matryer/xbar,Go,19
+123572362,quii/learn-go-with-tests,Go,289
+20653934,google/cadvisor,Go,4
+72891330,kubernetes/ingress-nginx,Go,6
+36653430,hashicorp/nomad,Go,3
+148545807,kubernetes-sigs/kind,Go,7
+11206255,Shopify/sarama,Go,5
+180687624,aquasecurity/trivy,Go,20
+113106184,linkerd/linkerd2,Go,6
+285864199,tal-tech/go-zero,Go,15
+93444615,hashicorp/terraform-provider-aws,Go,13
+59522149,gruntwork-io/terragrunt,Go,3
+75785240,authelia/authelia,Go,347
+78869430,heroiclabs/nakama,Go,15
+172292744,panjf2000/gnet,Go,6
+118828329,knative/serving,Go,4
+91074692,zalando/postgres-operator,Go,2
+54503347,opencontainers/image-spec,Go,3
+335952417,sigstore/cosign,Go,51
+346078570,h4x0r-dz/CVE-2021-26855,Go,9
+346279056,alibaba/accelerated-container-image,Go,9

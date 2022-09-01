@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,36
+48378947,fatedier/frp,Go,29
+6838921,prometheus/prometheus,Go,24
+37448451,mattermost/mattermost-server,Go,10
+46806184,helm/charts,Go,5
+19205896,restic/restic,Go,11
+234231371,gofiber/fiber,Go,23
+7083242,go-sql-driver/mysql,Go,10
+11593442,golang/groupcache,Go,8
+33258973,influxdata/telegraf,Go,8
+7877397,jmoiron/sqlx,Go,5
+191655189,facebook/ent,Go,8
+26726495,go-swagger/go-swagger,Go,4
+7039626,olivere/elastic,Go,6
+81355383,mongodb/mongo-go-driver,Go,2
+815644,miekg/dns,Go,9
+173785481,tfsec/tfsec,Go,2
+311315731,XTLS/Xray-core,Go,25
+79585104,matrix-org/dendrite,Go,12
+34498446,brianvoe/gofakeit,Go,39
+111455867,smartcontractkit/chainlink,Go,7
+187086161,open-telemetry/opentelemetry-go,Go,2
+220588935,naiba/nezha,Go,27
+297622945,cloudskiff/driftctl,Go,32
+329834563,fabpot/local-php-security-checker,Go,19

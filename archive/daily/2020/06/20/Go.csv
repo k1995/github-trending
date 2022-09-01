@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,27
+20904437,gin-gonic/gin,Go,40
+6838921,prometheus/prometheus,Go,16
+41986369,pingcap/tidb,Go,17
+17728164,hashicorp/terraform,Go,14
+6247705,stretchr/testify,Go,10
+8966356,hashicorp/packer,Go,5
+109162639,thanos-io/thanos,Go,8
+158645957,OpenDiablo2/OpenDiablo2,Go,71
+109145553,containers/libpod,Go,7
+93928882,swaggo/swag,Go,10
+272035489,greyireland/algorithm-pattern,Go,917
+134539560,weaveworks/eksctl,Go,3
+93446042,terraform-providers/terraform-provider-azurerm,Go,2
+47859258,qiniu/goplus,Go,403
+117377862,gardener/gardener,Go,1
+60978152,segmentio/terraform-docs,Go,4
+243518322,douyu/jupiter,Go,73
+22883982,vmware/govmomi,Go,0
+57912964,kubernetes/enhancements,Go,7
+188968112,zgoat/goatcounter,Go,41
+187086161,open-telemetry/opentelemetry-go,Go,3
+254089906,lithdew/flatend,Go,84
+266515261,shuveb/containers-the-hard-way,Go,75
+50734768,kubermatic/kubermatic,Go,48

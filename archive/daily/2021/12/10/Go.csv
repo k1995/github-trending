@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,52
+14125254,hashicorp/consul,Go,11
+31288958,hashicorp/vault,Go,14
+43723161,helm/helm,Go,15
+165041732,go-kratos/kratos,Go,16
+46806184,helm/charts,Go,4
+120227732,fyne-io/fyne,Go,107
+6247705,stretchr/testify,Go,14
+8966356,hashicorp/packer,Go,4
+5179099,go-redis/redis,Go,6
+120156076,cloudreve/Cloudreve,Go,17
+48109239,cilium/cilium,Go,60
+208728772,milvus-io/milvus,Go,13
+233130089,charmbracelet/bubbletea,Go,20
+14128006,hashicorp/raft,Go,24
+357885318,datreeio/datree,Go,5
+87990209,kubernetes/autoscaler,Go,6
+7515336,davecgh/go-spew,Go,6
+147886080,crossplane/crossplane,Go,10
+58821882,grpc-ecosystem/go-grpc-middleware,Go,5
+134539560,weaveworks/eksctl,Go,4
+212465715,bufbuild/buf,Go,13
+170803235,magma/magma,Go,3
+391209033,charmbracelet/soft-serve,Go,109
+401299493,cdle/sillyGirl,Go,7

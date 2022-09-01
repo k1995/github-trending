@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,52
+6838921,prometheus/prometheus,Go,19
+74175805,istio/istio,Go,12
+31504491,labstack/echo,Go,10
+234231371,gofiber/fiber,Go,20
+36071697,ory/hydra,Go,6
+48109239,cilium/cilium,Go,5
+118105436,golang-migrate/migrate,Go,14
+27051771,golang/protobuf,Go,6
+274625369,infracost/infracost,Go,54
+91054480,rs/zerolog,Go,18
+120519269,runatlantis/atlantis,Go,7
+280232135,screego/server,Go,50
+222258954,dstotijn/hetty,Go,45
+93446042,hashicorp/terraform-provider-azurerm,Go,4
+103084166,tenable/terrascan,Go,8
+94831761,hyperledger/fabric-samples,Go,1
+113404957,kata-containers/kata-containers,Go,6
+280292779,zu1k/nali,Go,15
+49970739,DataDog/datadog-agent,Go,4
+67680905,DataDog/dd-trace-go,Go,1
+93446053,DataDog/terraform-provider-datadog,Go,0
+506916699,karanpratapsingh/go-course,Go,28
+502623865,MinerProxyBTC/GoMinerTool,Go,22
+468476004,AdminTurnedDevOps/kubernetes-examples,Go,9

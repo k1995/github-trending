@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,83
+7691631,moby/moby,Go,14
+5271882,astaxie/build-web-application-with-golang,Go,12
+13807606,junegunn/fzf,Go,33
+31288958,hashicorp/vault,Go,9
+37448451,mattermost/mattermost-server,Go,9
+31504491,labstack/echo,Go,15
+5179099,go-redis/redis,Go,11
+11593442,golang/groupcache,Go,5
+16554739,elastic/beats,Go,5
+4059138,dgrijalva/jwt-go,Go,12
+181461073,v2fly/v2ray-core,Go,27
+48109239,cilium/cilium,Go,8
+48643510,pkg/errors,Go,10
+18906266,shirou/gopsutil,Go,5
+21306961,fsnotify/fsnotify,Go,71
+134018330,panjf2000/ants,Go,9
+37334619,golang/mock,Go,9
+3087541,patrickmn/go-cache,Go,5
+27483832,gogo/protobuf,Go,5
+10757154,satori/go.uuid,Go,3
+206213815,chaos-mesh/chaos-mesh,Go,6
+19608522,googleapis/google-cloud-go,Go,1
+215654064,temporalio/temporal,Go,15
+311639195,karmada-io/karmada,Go,12

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,52
+7691631,moby/moby,Go,14
+21540759,avelino/awesome-go,Go,43
+42408804,containous/traefik,Go,23
+15452919,ethereum/go-ethereum,Go,7
+17728164,hashicorp/terraform,Go,27
+13124802,influxdata/influxdb,Go,17
+43723161,helm/helm,Go,21
+12574344,spf13/cobra,Go,14
+13628513,sirupsen/logrus,Go,11
+50613991,goharbor/harbor,Go,26
+27729907,grpc/grpc-go,Go,10
+52034309,uber-go/zap,Go,13
+118654121,GoogleContainerTools/skaffold,Go,12
+129717717,grafana/loki,Go,16
+33352201,grpc-ecosystem/grpc-gateway,Go,16
+212613049,cli/cli,Go,89
+46140633,quay/clair,Go,5
+62799996,fluxcd/flux,Go,16
+93444615,terraform-providers/terraform-provider-aws,Go,12
+48714685,open-policy-agent/opa,Go,17
+74499101,roboll/helmfile,Go,6
+93446042,terraform-providers/terraform-provider-azurerm,Go,6
+104394093,nikitavoloboev/knowledge,Go,62
+262760847,yolossn/Prometheus-Basics,Go,140

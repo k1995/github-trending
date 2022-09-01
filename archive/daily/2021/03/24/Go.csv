@@ -1,0 +1,26 @@
+id,name,lang,new stars
+41986369,pingcap/tidb,Go,19
+29261473,minio/minio,Go,17
+14125254,hashicorp/consul,Go,10
+46806184,helm/charts,Go,3
+56342508,jaegertracing/jaeger,Go,14
+163883279,nektos/act,Go,83
+33352201,grpc-ecosystem/grpc-gateway,Go,19
+33258973,influxdata/telegraf,Go,4
+16554739,elastic/beats,Go,13
+36653430,hashicorp/nomad,Go,14
+109145553,containers/podman,Go,12
+10270722,google/go-github,Go,5
+92313258,jetstack/cert-manager,Go,10
+68964263,prometheus-operator/prometheus-operator,Go,5
+53174289,gruntwork-io/terratest,Go,5
+99143276,vmware-tanzu/velero,Go,2
+120650407,operator-framework/operator-sdk,Go,3
+78869430,heroiclabs/nakama,Go,12
+50629145,google/pprof,Go,0
+150713223,kubeedge/kubeedge,Go,4
+175192867,chaosblade-io/chaosblade,Go,5
+51193526,cosmos/cosmos-sdk,Go,4
+116392590,stefanprodan/podinfo,Go,8
+136494223,kubernetes-sigs/controller-runtime,Go,0
+350007655,mattn/go-generics-example,Go,27

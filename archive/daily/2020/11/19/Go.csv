@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,35
+42408804,traefik/traefik,Go,19
+41986369,pingcap/tidb,Go,41
+8989842,unknwon/the-way-to-go_ZH_CN,Go,50
+14125254,hashicorp/consul,Go,17
+31288958,hashicorp/vault,Go,4
+29217054,asim/nitro,Go,48
+46806184,helm/charts,Go,2
+24268127,coreybutler/nvm-windows,Go,20
+18369373,spf13/viper,Go,18
+33258973,influxdata/telegraf,Go,6
+7877397,jmoiron/sqlx,Go,9
+42332863,filebrowser/filebrowser,Go,32
+100982449,argoproj/argo,Go,13
+109162639,thanos-io/thanos,Go,15
+201658460,geektutu/7days-golang,Go,16
+205679232,flipped-aurora/gin-vue-admin,Go,23
+113473682,googleforgames/agones,Go,8
+83252983,go-task/task,Go,8
+134539560,weaveworks/eksctl,Go,3
+76686583,kubevirt/kubevirt,Go,3
+264154402,crowdsecurity/crowdsec,Go,15
+271250363,k0sproject/k0s,Go,152
+57912964,kubernetes/enhancements,Go,1
+196414933,open-telemetry/opentelemetry-collector-contrib,Go,0

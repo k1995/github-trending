@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,18
+17728164,hashicorp/terraform,Go,32
+13124802,influxdata/influxdb,Go,126
+46806184,helm/charts,Go,2
+8966356,hashicorp/packer,Go,10
+54400687,loadimpact/k6,Go,16
+7083242,go-sql-driver/mysql,Go,5
+16554739,elastic/beats,Go,2
+4059138,dgrijalva/jwt-go,Go,7
+11206255,Shopify/sarama,Go,3
+133067498,kubernetes-sigs/kustomize,Go,6
+27576132,aws/aws-sdk-go,Go,83
+93444615,hashicorp/terraform-provider-aws,Go,5
+18950460,concourse/concourse,Go,7
+1966991,tealeg/xlsx,Go,7
+80134675,containers/buildah,Go,2
+19799491,tendermint/tendermint,Go,1
+332361864,achannarasappa/ticker,Go,14
+7823926,prometheus/client_golang,Go,36
+124157517,kubernetes-sigs/cluster-api,Go,1
+107597148,aws/amazon-vpc-cni-k8s,Go,3
+64954128,stellar/go,Go,2
+170803235,magma/magma,Go,0
+185861173,open-telemetry/opentelemetry-collector,Go,3
+340090062,Narasimha1997/fake-sms,Go,20

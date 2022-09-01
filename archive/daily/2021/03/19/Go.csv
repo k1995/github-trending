@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,54
+20580498,kubernetes/kubernetes,Go,35
+42408804,traefik/traefik,Go,22
+29207621,caddyserver/caddy,Go,14
+138547797,FiloSottile/mkcert,Go,28
+133251103,wagoodman/dive,Go,79
+37448451,mattermost/mattermost-server,Go,18
+8966356,hashicorp/packer,Go,6
+129717717,grafana/loki,Go,16
+5179099,go-redis/redis,Go,9
+67213524,rakyll/hey,Go,21
+36071697,ory/hydra,Go,7
+33258973,influxdata/telegraf,Go,4
+6443435,nats-io/nats-server,Go,1
+119419195,GoogleContainerTools/kaniko,Go,17
+27051771,golang/protobuf,Go,4
+148545807,kubernetes-sigs/kind,Go,16
+40916314,dexidp/dex,Go,6
+115436884,spiral/roadrunner,Go,101
+27483832,gogo/protobuf,Go,2
+83363132,CrunchyData/postgres-operator,Go,4
+258469100,fluxcd/flux2,Go,15
+187086161,open-telemetry/opentelemetry-go,Go,5
+136494223,kubernetes-sigs/controller-runtime,Go,2
+308485332,lotusirous/go-concurrency-patterns,Go,99

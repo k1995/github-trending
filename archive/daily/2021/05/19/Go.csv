@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,43
+16752620,gogs/gogs,Go,15
+6838921,prometheus/prometheus,Go,21
+16607898,drone/drone,Go,18
+43723161,helm/helm,Go,9
+13628513,sirupsen/logrus,Go,12
+192632000,dapr/dapr,Go,31
+272035489,greyireland/algorithm-pattern,Go,24
+7083242,go-sql-driver/mysql,Go,4
+100982449,argoproj/argo-workflows,Go,9
+18858585,mailhog/MailHog,Go,6
+65434192,tidwall/gjson,Go,5
+22442668,openshift/origin,Go,3
+148545807,kubernetes-sigs/kind,Go,9
+180687624,aquasecurity/trivy,Go,13
+113106184,linkerd/linkerd2,Go,7
+68964263,prometheus-operator/prometheus-operator,Go,4
+130430977,kubesphere/kubesphere,Go,5
+193833307,knadh/listmonk,Go,37
+121746465,eddycjy/go-gin-example,Go,4
+87990209,kubernetes/autoscaler,Go,5
+127519518,projectdiscovery/subfinder,Go,8
+93446042,terraform-providers/terraform-provider-azurerm,Go,27
+355946670,loft-sh/vcluster,Go,36
+234530887,ethersphere/bee,Go,78

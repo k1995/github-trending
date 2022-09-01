@@ -1,0 +1,26 @@
+id,name,lang,new stars
+17728164,hashicorp/terraform,Go,14
+43723161,helm/helm,Go,11
+26337322,rancher/rancher,Go,9
+6247705,stretchr/testify,Go,3
+44344606,go-chi/chi,Go,10
+62921553,rook/rook,Go,5
+167304464,cortexlabs/cortex,Go,41
+62799996,fluxcd/flux,Go,8
+118105436,golang-migrate/migrate,Go,9
+93444615,terraform-providers/terraform-provider-aws,Go,16
+53174289,gruntwork-io/terratest,Go,5
+9646845,go-pg/pg,Go,5
+26661222,tinode/chat,Go,7
+81497153,kubernetes-sigs/external-dns,Go,0
+134539560,weaveworks/eksctl,Go,2
+144036833,arduino/arduino-cli,Go,4
+19608522,googleapis/google-cloud-go,Go,1
+74499101,roboll/helmfile,Go,1
+22861717,jasonlvhit/gocron,Go,15
+105262714,oauth2-proxy/oauth2-proxy,Go,4
+206320938,google/differential-privacy,Go,5
+124157517,kubernetes-sigs/cluster-api,Go,1
+154894457,open-policy-agent/gatekeeper,Go,4
+274135349,felixge/fgprof,Go,221
+193681111,filecoin-project/lotus,Go,3

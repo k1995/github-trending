@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,24
+17728164,hashicorp/terraform,Go,110
+14125254,hashicorp/consul,Go,7
+13124802,influxdata/influxdb,Go,10
+31288958,hashicorp/vault,Go,9
+43723161,helm/helm,Go,4
+46806184,helm/charts,Go,6
+129717717,grafana/loki,Go,9
+62091339,kubernetes/kops,Go,4
+5179099,go-redis/redis,Go,16
+33258973,influxdata/telegraf,Go,8
+116576783,bettercap/bettercap,Go,10
+72477752,pulumi/pulumi,Go,34
+120156076,cloudreve/Cloudreve,Go,23
+18858585,mailhog/MailHog,Go,12
+133067498,kubernetes-sigs/kustomize,Go,6
+150713223,kubeedge/kubeedge,Go,2
+33429211,containernetworking/cni,Go,2
+7823926,prometheus/client_golang,Go,3
+297436961,porter-dev/porter,Go,17
+124157517,kubernetes-sigs/cluster-api,Go,2
+105711679,envoyproxy/protoc-gen-validate,Go,2
+364729022,maaslalani/slides,Go,401
+136494223,kubernetes-sigs/controller-runtime,Go,0
+370704639,huayu8/JDC,Go,23

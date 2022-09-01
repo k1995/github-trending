@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,18
+41986369,pingcap/tidb,Go,14
+13628513,sirupsen/logrus,Go,19
+26337322,rancher/rancher,Go,14
+135516270,rancher/k3s,Go,42
+120227732,fyne-io/fyne,Go,26
+167596393,derailed/k9s,Go,33
+40684033,mozilla/sops,Go,108
+81355383,mongodb/mongo-go-driver,Go,9
+93444615,hashicorp/terraform-provider-aws,Go,11
+68964263,prometheus-operator/prometheus-operator,Go,9
+37334619,golang/mock,Go,10
+120896210,argoproj/argo-cd,Go,45
+81497153,kubernetes-sigs/external-dns,Go,7
+16607984,DATA-DOG/go-sqlmock,Go,6
+280232135,screego/server,Go,27
+134539560,weaveworks/eksctl,Go,5
+206213815,chaos-mesh/chaos-mesh,Go,14
+74499101,roboll/helmfile,Go,11
+88013053,docker/cli,Go,7
+93446042,terraform-providers/terraform-provider-azurerm,Go,3
+104394093,nikitavoloboev/knowledge,Go,44
+198683574,dolthub/dolt,Go,21
+273132277,moonD4rk/HackBrowserData,Go,214
+281694167,Mrs4s/go-cqhttp,Go,14

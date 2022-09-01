@@ -1,0 +1,26 @@
+id,name,lang,new stars
+6838921,prometheus/prometheus,Go,33
+13124802,influxdata/influxdb,Go,11
+46806184,helm/charts,Go,18
+6051812,gorilla/mux,Go,15
+13624859,gorilla/websocket,Go,11
+56342508,jaegertracing/jaeger,Go,11
+8966356,hashicorp/packer,Go,6
+118654121,GoogleContainerTools/skaffold,Go,11
+7083242,go-sql-driver/mysql,Go,12
+5179099,go-redis/redis,Go,12
+167596393,derailed/k9s,Go,36
+54400687,loadimpact/k6,Go,6
+192632000,dapr/dapr,Go,80
+28366058,docker/distribution,Go,1
+68964263,coreos/prometheus-operator,Go,11
+93444615,terraform-providers/terraform-provider-aws,Go,13
+153099672,inancgumus/learngo,Go,796
+120896210,argoproj/argo-cd,Go,15
+67793333,cortexproject/cortex,Go,6
+93808874,bxcodec/go-clean-arch,Go,4
+66156850,TheAlgorithms/Go,Go,51
+53553027,nginxinc/kubernetes-ingress,Go,4
+22883982,vmware/govmomi,Go,4
+116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,6
+220186120,codenotary/immudb,Go,138

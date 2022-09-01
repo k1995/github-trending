@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,43
+6838921,prometheus/prometheus,Go,29
+74175805,istio/istio,Go,20
+14125254,hashicorp/consul,Go,12
+31288958,hashicorp/vault,Go,7
+46806184,helm/charts,Go,8
+56342508,jaegertracing/jaeger,Go,6
+62091339,kubernetes/kops,Go,5
+107286889,schollz/croc,Go,40
+93444615,hashicorp/terraform-provider-aws,Go,6
+187403699,FiloSottile/age,Go,26
+14128006,hashicorp/raft,Go,14
+63625434,securego/gosec,Go,0
+67793333,cortexproject/cortex,Go,12
+61153677,m3db/m3,Go,3
+271250363,k0sproject/k0s,Go,7
+67828134,cri-o/cri-o,Go,2
+7823926,prometheus/client_golang,Go,6
+242329748,Jrohy/trojan,Go,7
+111455867,smartcontractkit/chainlink,Go,2
+193681111,filecoin-project/lotus,Go,5
+258469100,fluxcd/flux2,Go,5
+332361864,achannarasappa/ticker,Go,352
+329834563,fabpot/local-php-security-checker,Go,12
+332576508,nikoksr/notify,Go,41

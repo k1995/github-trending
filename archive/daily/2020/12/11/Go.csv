@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,44
+7691631,moby/moby,Go,18
+31288958,hashicorp/vault,Go,13
+135516270,k3s-io/k3s,Go,16
+165041732,go-kratos/kratos,Go,29
+33258973,influxdata/telegraf,Go,4
+16554739,elastic/beats,Go,4
+109162639,thanos-io/thanos,Go,114
+100982449,argoproj/argo,Go,15
+4925652,robfig/cron,Go,10
+55850689,open-falcon/falcon-plus,Go,5
+191655189,facebook/ent,Go,43
+180687624,aquasecurity/trivy,Go,17
+120896210,argoproj/argo-cd,Go,8
+19799491,tendermint/tendermint,Go,3
+81497153,kubernetes-sigs/external-dns,Go,6
+67793333,cortexproject/cortex,Go,5
+82515080,ouqiang/gocron,Go,7
+206213815,chaos-mesh/chaos-mesh,Go,7
+244694886,didi/nightingale,Go,17
+264154402,crowdsecurity/crowdsec,Go,89
+76686583,kubevirt/kubevirt,Go,6
+111455867,smartcontractkit/chainlink,Go,4
+105711679,envoyproxy/protoc-gen-validate,Go,2
+253522878,docker/compose-cli,Go,11

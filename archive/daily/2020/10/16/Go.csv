@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,43
+7691631,moby/moby,Go,6
+6838921,prometheus/prometheus,Go,18
+17728164,hashicorp/terraform,Go,29
+30215630,go-kit/kit,Go,11
+46806184,helm/charts,Go,12
+27729907,grpc/grpc-go,Go,8
+33352201,grpc-ecosystem/grpc-gateway,Go,64
+87617508,casbin/casbin,Go,10
+36960321,opencontainers/runc,Go,8
+109162639,thanos-io/thanos,Go,9
+109145553,containers/podman,Go,35
+93444615,terraform-providers/terraform-provider-aws,Go,6
+82700090,uber/cadence,Go,16
+11452538,prometheus/alertmanager,Go,1
+81497153,kubernetes-sigs/external-dns,Go,2
+9120526,jackc/pgx,Go,7
+134539560,weaveworks/eksctl,Go,3
+88013053,docker/cli,Go,2
+244694886,didi/nightingale,Go,43
+232630362,hashicorp/boundary,Go,311
+193681111,filecoin-project/lotus,Go,24
+185861173,open-telemetry/opentelemetry-collector,Go,0
+215654064,temporalio/temporal,Go,79
+302770035,americanexpress/earlybird,Go,33

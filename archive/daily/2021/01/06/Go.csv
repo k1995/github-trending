@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,40
+7691631,moby/moby,Go,8
+11180687,gohugoio/hugo,Go,24
+138547797,FiloSottile/mkcert,Go,21
+17728164,hashicorp/terraform,Go,26
+13124802,influxdata/influxdb,Go,10
+43723161,helm/helm,Go,10
+13628513,sirupsen/logrus,Go,6
+46806184,helm/charts,Go,6
+56342508,jaegertracing/jaeger,Go,16
+6247705,stretchr/testify,Go,14
+11008207,vitessio/vitess,Go,14
+119160553,photoprism/photoprism,Go,327
+16554739,elastic/beats,Go,4
+44350607,kubernetes/dashboard,Go,5
+100982449,argoproj/argo,Go,9
+28366058,docker/distribution,Go,51
+118105436,golang-migrate/migrate,Go,5
+9524057,prometheus/node_exporter,Go,4
+68964263,prometheus-operator/prometheus-operator,Go,9
+66509131,kubernetes/client-go,Go,5
+91054480,rs/zerolog,Go,8
+63625434,securego/gosec,Go,4
+93446042,terraform-providers/terraform-provider-azurerm,Go,4
+325862596,ztino/helloworld,Go,215

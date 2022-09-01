@@ -1,0 +1,26 @@
+id,name,lang,new stars
+15452919,ethereum/go-ethereum,Go,27
+29261473,minio/minio,Go,30
+133251103,wagoodman/dive,Go,36
+41986369,pingcap/tidb,Go,12
+31288958,hashicorp/vault,Go,8
+129717717,grafana/loki,Go,12
+27729907,grpc/grpc-go,Go,4
+66573241,hyperledger/fabric,Go,5
+109162639,thanos-io/thanos,Go,2
+148545807,kubernetes-sigs/kind,Go,7
+510607652,pocketbase/pocketbase,Go,36
+27576132,aws/aws-sdk-go,Go,4
+146641150,tektoncd/pipeline,Go,3
+21306961,fsnotify/fsnotify,Go,8
+48714685,open-policy-agent/opa,Go,6
+93928882,swaggo/swag,Go,13
+395283401,kubescape/kubescape,Go,60
+9120526,jackc/pgx,Go,5
+58184885,kubernetes/kube-state-metrics,Go,3
+53553027,nginxinc/kubernetes-ingress,Go,3
+139727567,stakater/Reloader,Go,25
+229030654,go-git/go-git,Go,9
+19608522,googleapis/google-cloud-go,Go,2
+173009358,deepmap/oapi-codegen,Go,5
+133830411,argoproj/argo-events,Go,3

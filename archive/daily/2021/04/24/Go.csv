@@ -1,0 +1,26 @@
+id,name,lang,new stars
+11180687,gohugoio/hugo,Go,21
+29261473,minio/minio,Go,30
+17728164,hashicorp/terraform,Go,14
+13124802,influxdata/influxdb,Go,10
+31288958,hashicorp/vault,Go,7
+119160553,photoprism/photoprism,Go,304
+33352201,grpc-ecosystem/grpc-gateway,Go,5
+16554739,elastic/beats,Go,2
+48109239,cilium/cilium,Go,14
+136505169,tinygo-org/tinygo,Go,16
+12261520,smartystreets/goconvey,Go,0
+120896210,argoproj/argo-cd,Go,8
+95761244,gogf/gf,Go,15
+53174289,gruntwork-io/terratest,Go,7
+17451182,go-yaml/yaml,Go,3
+14128006,hashicorp/raft,Go,35
+87990209,kubernetes/autoscaler,Go,7
+325724738,pyroscope-io/pyroscope,Go,22
+244694886,didi/nightingale,Go,4
+63196359,confluentinc/confluent-kafka-go,Go,5
+128089774,storj/storj,Go,35
+354015172,RH12503/triangula,Go,611
+95058978,swaggo/gin-swagger,Go,2
+103084166,accurics/terrascan,Go,6
+348310601,gruntwork-io/git-xargs,Go,25

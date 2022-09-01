@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,33
+7691631,moby/moby,Go,19
+11180687,gohugoio/hugo,Go,37
+6838921,prometheus/prometheus,Go,22
+46806184,helm/charts,Go,5
+29217054,asim/nitro,Go,33
+36960321,opencontainers/runc,Go,3
+132145189,golangci/golangci-lint,Go,13
+27576132,aws/aws-sdk-go,Go,5
+21704134,coreos/flannel,Go,3
+62799996,fluxcd/flux,Go,11
+93444615,hashicorp/terraform-provider-aws,Go,5
+68964263,prometheus-operator/prometheus-operator,Go,5
+21034555,asaskevich/govalidator,Go,10
+66156850,TheAlgorithms/Go,Go,21
+63625434,securego/gosec,Go,14
+294556570,chriswalz/bit,Go,124
+184490584,GoogleCloudPlatform/terraformer,Go,9
+118828329,knative/serving,Go,7
+16607984,DATA-DOG/go-sqlmock,Go,1
+177010499,google/ko,Go,15
+93446042,terraform-providers/terraform-provider-azurerm,Go,0
+163356901,hantmac/Mastering_Go_ZH_CN,Go,73
+215654064,temporalio/temporal,Go,9
+296373527,pterm/pterm,Go,54

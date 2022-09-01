@@ -1,0 +1,26 @@
+id,name,lang,new stars
+14125254,hashicorp/consul,Go,7
+19205896,restic/restic,Go,17
+77419377,bcicen/ctop,Go,27
+116576783,bettercap/bettercap,Go,13
+198683574,dolthub/dolt,Go,37
+36653430,hashicorp/nomad,Go,7
+46140633,quay/clair,Go,7
+109145553,containers/podman,Go,2
+62712899,AdguardTeam/AdGuardHome,Go,16
+121086193,99designs/gqlgen,Go,12
+37334619,golang/mock,Go,3
+233130089,charmbracelet/bubbletea,Go,64
+9120526,jackc/pgx,Go,4
+157245200,twpayne/chezmoi,Go,29
+29778781,slack-go/slack,Go,8
+83252983,go-task/task,Go,13
+107600830,aws/aws-lambda-go,Go,3
+343533419,charmbracelet/lipgloss,Go,514
+116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,3
+258469100,fluxcd/flux2,Go,9
+311917934,climech/grit,Go,214
+253846879,determined-ai/determined,Go,4
+18127628,hashicorp/go-version,Go,16
+226737538,securitybunker/databunker,Go,161
+335952417,sigstore/cosign,Go,7

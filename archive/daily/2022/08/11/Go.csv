@@ -1,0 +1,26 @@
+id,name,lang,new stars
+29207621,caddyserver/caddy,Go,20
+29261473,minio/minio,Go,15
+234231371,gofiber/fiber,Go,124
+167596393,derailed/k9s,Go,29
+109145553,containers/podman,Go,103
+72477752,pulumi/pulumi,Go,14
+62921553,rook/rook,Go,9
+510607652,pocketbase/pocketbase,Go,44
+93444615,hashicorp/terraform-provider-aws,Go,2
+327859577,juicedata/juicefs,Go,18
+140412864,kgretzky/evilginx2,Go,11
+150713223,kubeedge/kubeedge,Go,3
+7515336,davecgh/go-spew,Go,6
+120519269,runatlantis/atlantis,Go,8
+94779471,aquasecurity/kube-bench,Go,6
+14179252,kelseyhightower/envconfig,Go,4
+134539560,weaveworks/eksctl,Go,4
+63882194,projectcalico/calico,Go,6
+299832860,livekit/livekit,Go,20
+262126497,anchore/syft,Go,9
+78678862,ClickHouse/clickhouse-go,Go,6
+440752086,coder/coder,Go,23
+411212454,evmos/evmos,Go,1
+194645908,apache/apisix-dashboard,Go,7
+469828818,teamhanko/hanko,Go,104

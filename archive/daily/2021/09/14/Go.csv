@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,49
+20904437,gin-gonic/gin,Go,44
+29207621,caddyserver/caddy,Go,13
+15452919,ethereum/go-ethereum,Go,25
+41986369,pingcap/tidb,Go,18
+8989842,unknwon/the-way-to-go_ZH_CN,Go,15
+14125254,hashicorp/consul,Go,11
+13124802,influxdata/influxdb,Go,5
+192632000,dapr/dapr,Go,23
+285864199,tal-tech/go-zero,Go,19
+208728772,milvus-io/milvus,Go,13
+11206255,Shopify/sarama,Go,4
+120896210,argoproj/argo-cd,Go,13
+93444615,hashicorp/terraform-provider-aws,Go,7
+81355383,mongodb/mongo-go-driver,Go,4
+11452538,prometheus/alertmanager,Go,3
+110027931,metallb/metallb,Go,3
+86367047,elastic/go-elasticsearch,Go,8
+155658556,smallstep/certificates,Go,7
+344676663,erda-project/erda,Go,14
+193681111,filecoin-project/lotus,Go,4
+155368246,elastic/cloud-on-k8s,Go,2
+192178626,marcel-dempers/docker-development-youtube-series,Go,5
+188836864,ledgerwatch/erigon,Go,9
+403521741,xiecat/goblin,Go,171

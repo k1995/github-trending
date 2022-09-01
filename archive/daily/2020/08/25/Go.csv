@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,55
+42408804,containous/traefik,Go,25
+29261473,minio/minio,Go,25
+29217054,micro/go-micro,Go,25
+10379607,buger/goreplay,Go,12
+50613991,goharbor/harbor,Go,24
+8966356,hashicorp/packer,Go,7
+165041732,go-kratos/kratos,Go,9
+272035489,greyireland/algorithm-pattern,Go,104
+22442668,openshift/origin,Go,3
+87617508,casbin/casbin,Go,5
+9524057,prometheus/node_exporter,Go,7
+68964263,prometheus-operator/prometheus-operator,Go,6
+191655189,facebook/ent,Go,155
+140457254,OWASP/Amass,Go,26
+120896210,argoproj/argo-cd,Go,10
+81497153,kubernetes-sigs/external-dns,Go,3
+7823926,prometheus/client_golang,Go,5
+31333618,shopspring/decimal,Go,4
+75785240,authelia/authelia,Go,24
+155368246,elastic/cloud-on-k8s,Go,1
+193681111,filecoin-project/lotus,Go,7
+285864199,tal-tech/go-zero,Go,32
+289206722,knownsec/ksubdomain,Go,52
+204756427,hashicorp/vault-k8s,Go,3

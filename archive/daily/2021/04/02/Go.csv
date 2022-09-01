@@ -1,0 +1,26 @@
+id,name,lang,new stars
+6838921,prometheus/prometheus,Go,21
+29207621,caddyserver/caddy,Go,16
+41986369,pingcap/tidb,Go,18
+12574344,spf13/cobra,Go,17
+134017286,jesseduffield/lazygit,Go,25
+41349039,dgraph-io/dgraph,Go,15
+11593442,golang/groupcache,Go,22
+33258973,influxdata/telegraf,Go,0
+4059138,dgrijalva/jwt-go,Go,12
+30711774,go-playground/validator,Go,21
+222172014,slackhq/nebula,Go,23
+180687624,aquasecurity/trivy,Go,8
+75785240,authelia/authelia,Go,21
+140412864,kgretzky/evilginx2,Go,5
+93928882,swaggo/swag,Go,8
+67793333,cortexproject/cortex,Go,12
+247032621,go-admin-team/go-admin,Go,16
+118828329,knative/serving,Go,2
+57333709,kubernetes/test-infra,Go,3
+93446042,terraform-providers/terraform-provider-azurerm,Go,1
+227895834,openservicemesh/osm,Go,13
+113219518,filecoin-project/venus,Go,2
+276822250,oam-dev/kubevela,Go,6
+193681111,filecoin-project/lotus,Go,10
+236736020,summerwind/actions-runner-controller,Go,7

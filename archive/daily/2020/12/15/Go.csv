@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,53
+41986369,pingcap/tidb,Go,20
+3577919,beego/beego,Go,38
+17728164,hashicorp/terraform,Go,12
+31288958,hashicorp/vault,Go,7
+43723161,helm/helm,Go,13
+46806184,helm/charts,Go,5
+27729907,grpc/grpc-go,Go,11
+21827146,chrislusf/seaweedfs,Go,10
+71297170,Netflix/chaosmonkey,Go,13
+11593442,golang/groupcache,Go,12
+72891330,kubernetes/ingress-nginx,Go,8
+4059138,dgrijalva/jwt-go,Go,10
+119190187,zricethezav/gitleaks,Go,55
+201658460,geektutu/7days-golang,Go,42
+93444615,hashicorp/terraform-provider-aws,Go,5
+94897336,imgproxy/imgproxy,Go,5
+259191284,hashicorp/waypoint,Go,10
+237523442,tailscale/tailscale,Go,12
+206213815,chaos-mesh/chaos-mesh,Go,7
+173785481,tfsec/tfsec,Go,12
+51193526,cosmos/cosmos-sdk,Go,2
+320848715,n7olkachev/imgdiff,Go,207
+316539944,projectdiscovery/proxify,Go,136
+5567243,gosnmp/gosnmp,Go,6

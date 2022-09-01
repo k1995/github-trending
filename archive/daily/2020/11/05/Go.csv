@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,38
+41986369,pingcap/tidb,Go,10
+29261473,minio/minio,Go,24
+17728164,hashicorp/terraform,Go,12
+13628513,sirupsen/logrus,Go,23
+29217054,asim/nitro,Go,32
+129717717,grafana/loki,Go,18
+16554739,elastic/beats,Go,8
+72891330,kubernetes/ingress-nginx,Go,11
+22442668,openshift/origin,Go,2
+109162639,thanos-io/thanos,Go,7
+148545807,kubernetes-sigs/kind,Go,12
+92313258,jetstack/cert-manager,Go,10
+27576132,aws/aws-sdk-go,Go,8
+134012064,pion/webrtc,Go,6
+37334619,golang/mock,Go,7
+120896210,argoproj/argo-cd,Go,11
+103995895,hybridgroup/gocv,Go,6
+9120526,jackc/pgx,Go,10
+93928882,swaggo/swag,Go,16
+237523442,tailscale/tailscale,Go,3
+16607984,DATA-DOG/go-sqlmock,Go,7
+215654064,temporalio/temporal,Go,7
+273132277,moonD4rk/HackBrowserData,Go,72
+185861173,open-telemetry/opentelemetry-collector,Go,4

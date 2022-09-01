@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,55
+6838921,prometheus/prometheus,Go,21
+31288958,hashicorp/vault,Go,11
+46806184,helm/charts,Go,6
+13624859,gorilla/websocket,Go,8
+6051812,gorilla/mux,Go,8
+8966356,hashicorp/packer,Go,5
+66573241,hyperledger/fabric,Go,10
+29371034,micro/micro,Go,56
+7877397,jmoiron/sqlx,Go,9
+36653430,hashicorp/nomad,Go,4
+36960321,opencontainers/runc,Go,4
+48109239,cilium/cilium,Go,8
+109145553,containers/podman,Go,15
+148545807,kubernetes-sigs/kind,Go,11
+93444615,hashicorp/terraform-provider-aws,Go,9
+19799491,tendermint/tendermint,Go,5
+11452538,prometheus/alertmanager,Go,5
+51193526,cosmos/cosmos-sdk,Go,1
+273132277,moonD4rk/HackBrowserData,Go,88
+215654064,temporalio/temporal,Go,4
+116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,2
+105711679,envoyproxy/protoc-gen-validate,Go,1
+93446115,hashicorp/terraform-provider-kubernetes,Go,1
+310247011,cdk-team/CDK,Go,167

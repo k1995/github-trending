@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,47
+13124802,influxdata/influxdb,Go,7
+16563587,cockroachdb/cockroach,Go,16
+8966356,hashicorp/packer,Go,5
+7877397,jmoiron/sqlx,Go,6
+62921553,rook/rook,Go,9
+36653430,hashicorp/nomad,Go,69
+10270722,google/go-github,Go,3
+132145189,golangci/golangci-lint,Go,13
+92313258,jetstack/cert-manager,Go,6
+11206255,Shopify/sarama,Go,3
+27576132,aws/aws-sdk-go,Go,4
+159540440,google/wire,Go,6
+120896210,argoproj/argo-cd,Go,20
+27483832,gogo/protobuf,Go,6
+80134675,containers/buildah,Go,3
+156681830,ffuf/ffuf,Go,25
+150713223,kubeedge/kubeedge,Go,18
+104394093,nikitavoloboev/knowledge,Go,11
+95363214,instrumenta/kubeval,Go,3
+273132277,moonD4rk/HackBrowserData,Go,176
+215654064,temporalio/temporal,Go,5
+86742497,kubernetes/kubectl,Go,4
+310247011,cdk-team/CDK,Go,154
+196414933,open-telemetry/opentelemetry-collector-contrib,Go,2

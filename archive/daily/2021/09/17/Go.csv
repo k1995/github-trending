@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,41
+11225014,etcd-io/etcd,Go,14
+17728164,hashicorp/terraform,Go,11
+44498957,valyala/fasthttp,Go,12
+165041732,go-kratos/kratos,Go,14
+6247705,stretchr/testify,Go,13
+56342508,jaegertracing/jaeger,Go,11
+66573241,hyperledger/fabric,Go,119
+62712899,AdguardTeam/AdGuardHome,Go,20
+191655189,ent/ent,Go,21
+46140633,quay/clair,Go,8
+75785240,authelia/authelia,Go,20
+120896210,argoproj/argo-cd,Go,6
+93444615,hashicorp/terraform-provider-aws,Go,3
+68964263,prometheus-operator/prometheus-operator,Go,6
+3087541,patrickmn/go-cache,Go,8
+14128006,hashicorp/raft,Go,10
+41561105,go-resty/resty,Go,13
+11452538,prometheus/alertmanager,Go,5
+125275487,kubernetes-sigs/kubebuilder,Go,4
+150713223,kubeedge/kubeedge,Go,2
+147886080,crossplane/crossplane,Go,23
+107556189,kubernetes/sample-controller,Go,2
+287336275,stackrox/kube-linter,Go,5
+384080245,1makarov/binance-nft-buy,Go,2

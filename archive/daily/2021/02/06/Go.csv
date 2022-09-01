@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,48
+17728164,hashicorp/terraform,Go,26
+12574344,spf13/cobra,Go,16
+21233191,ipfs/go-ipfs,Go,18
+5179099,go-redis/redis,Go,13
+7877397,jmoiron/sqlx,Go,9
+36653430,hashicorp/nomad,Go,8
+46140633,quay/clair,Go,7
+146641150,tektoncd/pipeline,Go,4
+28366058,distribution/distribution,Go,62
+93444615,hashicorp/terraform-provider-aws,Go,9
+53174289,gruntwork-io/terratest,Go,6
+125275487,kubernetes-sigs/kubebuilder,Go,5
+43225113,mikefarah/yq,Go,38
+16607984,DATA-DOG/go-sqlmock,Go,6
+27096595,googleapis/google-api-go-client,Go,4
+19608522,googleapis/google-cloud-go,Go,7
+309781884,progrium/macdriver,Go,594
+51193526,cosmos/cosmos-sdk,Go,4
+117377862,gardener/gardener,Go,3
+253846879,determined-ai/determined,Go,5
+170803235,magma/magma,Go,17
+158012967,argoproj/argo-rollouts,Go,0
+332607310,optiv/ScareCrow,Go,109
+332576508,nikoksr/notify,Go,67

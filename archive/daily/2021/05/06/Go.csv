@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,45
+20580498,kubernetes/kubernetes,Go,34
+6838921,prometheus/prometheus,Go,26
+15452919,ethereum/go-ethereum,Go,45
+17728164,hashicorp/terraform,Go,13
+12574344,spf13/cobra,Go,18
+50613991,goharbor/harbor,Go,73
+167596393,derailed/k9s,Go,17
+21233191,ipfs/go-ipfs,Go,10
+33258973,influxdata/telegraf,Go,6
+109162639,thanos-io/thanos,Go,110
+119419195,GoogleContainerTools/kaniko,Go,14
+54230994,coredns/coredns,Go,7
+133067498,kubernetes-sigs/kustomize,Go,6
+83678416,xo/usql,Go,24
+62799996,fluxcd/flux,Go,5
+75785240,authelia/authelia,Go,11
+48714685,open-policy-agent/opa,Go,12
+87990209,kubernetes/autoscaler,Go,6
+93619165,alecthomas/chroma,Go,10
+41964498,prometheus/blackbox_exporter,Go,3
+111455867,smartcontractkit/chainlink,Go,4
+308210713,samuelkarp/runj,Go,2
+196414933,open-telemetry/opentelemetry-collector-contrib,Go,2
+306538237,ipinfo/cli,Go,28

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+11225014,etcd-io/etcd,Go,11
+212613049,cli/cli,Go,32
+56353740,kubernetes/minikube,Go,9
+31288958,hashicorp/vault,Go,12
+27729907,grpc/grpc-go,Go,13
+118654121,GoogleContainerTools/skaffold,Go,8
+16554739,elastic/beats,Go,8
+162920291,inlets/inlets,Go,44
+48109239,cilium/cilium,Go,10
+23247808,rqlite/rqlite,Go,365
+133067498,kubernetes-sigs/kustomize,Go,9
+113106184,linkerd/linkerd2,Go,13
+146641150,tektoncd/pipeline,Go,6
+120896210,argoproj/argo-cd,Go,44
+3087541,patrickmn/go-cache,Go,5
+41288708,sourcegraph/sourcegraph,Go,7
+120650407,operator-framework/operator-sdk,Go,4
+87990209,kubernetes/autoscaler,Go,6
+7823926,prometheus/client_golang,Go,2
+143965255,apache/dubbo-go,Go,6
+232630362,hashicorp/boundary,Go,7
+163722349,pomerium/pomerium,Go,30
+105711679,envoyproxy/protoc-gen-validate,Go,5
+96004375,aws/aws-sdk-go-v2,Go,4
+144494851,tulir/mautrix-whatsapp,Go,9

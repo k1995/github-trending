@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,43
+20904437,gin-gonic/gin,Go,30
+48378947,fatedier/frp,Go,62
+17728164,hashicorp/terraform,Go,17
+41986369,pingcap/tidb,Go,5
+14125254,hashicorp/consul,Go,13
+37448451,mattermost/mattermost-server,Go,20
+77144337,openfaas/faas,Go,7
+26337322,rancher/rancher,Go,8
+50613991,goharbor/harbor,Go,4
+5179099,go-redis/redis,Go,8
+7083242,go-sql-driver/mysql,Go,3
+120156076,cloudreve/Cloudreve,Go,155
+100982449,argoproj/argo-workflows,Go,6
+68964263,prometheus-operator/prometheus-operator,Go,1
+117710726,twitchtv/twirp,Go,14
+357885318,datreeio/datree,Go,455
+11452538,prometheus/alertmanager,Go,4
+118828329,knative/serving,Go,1
+120181748,kiali/kiali,Go,4
+83363132,CrunchyData/postgres-operator,Go,3
+117377862,gardener/gardener,Go,1
+111423359,ardanlabs/service,Go,3
+419090330,Tylous/ZipExec,Go,98
+381235608,xfs-network/xfsgo,Go,25

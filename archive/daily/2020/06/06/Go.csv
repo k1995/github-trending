@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,58
+17728164,hashicorp/terraform,Go,26
+13628513,sirupsen/logrus,Go,15
+8966356,hashicorp/packer,Go,12
+120227732,fyne-io/fyne,Go,31
+5179099,go-redis/redis,Go,16
+33258973,influxdata/telegraf,Go,6
+22442668,openshift/origin,Go,5
+27051771,golang/protobuf,Go,10
+192632000,dapr/dapr,Go,15
+36653430,hashicorp/nomad,Go,6
+10270722,google/go-github,Go,8
+27576132,aws/aws-sdk-go,Go,5
+113106184,linkerd/linkerd2,Go,6
+30711774,go-playground/validator,Go,9
+93444615,terraform-providers/terraform-provider-aws,Go,14
+201658460,geektutu/7days-golang,Go,12
+48714685,open-policy-agent/opa,Go,6
+136770331,statping/statping,Go,47
+93446042,terraform-providers/terraform-provider-azurerm,Go,3
+118105591,gojek/heimdall,Go,40
+268666171,2020PB/police-brutality,Go,190
+93446115,terraform-providers/terraform-provider-kubernetes,Go,0
+237391530,free5gc/free5gc,Go,208
+199482477,fluxcd/helm-operator,Go,2

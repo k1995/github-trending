@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,58
+7691631,moby/moby,Go,13
+20904437,gin-gonic/gin,Go,41
+42408804,containous/traefik,Go,20
+74175805,istio/istio,Go,17
+17728164,hashicorp/terraform,Go,23
+14125254,hashicorp/consul,Go,11
+31288958,hashicorp/vault,Go,9
+46806184,helm/charts,Go,13
+131371773,hoanhan101/ultimate-go,Go,287
+56342508,jaegertracing/jaeger,Go,11
+8966356,hashicorp/packer,Go,236
+5179099,go-redis/redis,Go,13
+33258973,influxdata/telegraf,Go,3
+21405028,ardanlabs/gotraining,Go,7
+4022652,gomodule/redigo,Go,5
+54400687,loadimpact/k6,Go,4
+109162639,thanos-io/thanos,Go,14
+167304464,cortexlabs/cortex,Go,18
+93444615,terraform-providers/terraform-provider-aws,Go,2
+99143276,vmware-tanzu/velero,Go,8
+53174289,gruntwork-io/terratest,Go,4
+7823926,prometheus/client_golang,Go,5
+49970739,DataDog/datadog-agent,Go,4
+289147118,lian/msfs2020-go,Go,16

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,37
+6838921,prometheus/prometheus,Go,22
+17728164,hashicorp/terraform,Go,25
+31288958,hashicorp/vault,Go,18
+46806184,helm/charts,Go,9
+165041732,go-kratos/kratos,Go,17
+54400687,loadimpact/k6,Go,389
+191655189,facebook/ent,Go,49
+180687624,aquasecurity/trivy,Go,17
+9524057,prometheus/node_exporter,Go,11
+26661222,tinode/chat,Go,5
+107417113,cookieY/Yearning,Go,17
+17451182,go-yaml/yaml,Go,2
+41288708,sourcegraph/sourcegraph,Go,21
+27579614,goadesign/goa,Go,3
+285864199,tal-tech/go-zero,Go,82
+4141925,streadway/amqp,Go,5
+58184885,kubernetes/kube-state-metrics,Go,6
+31333618,shopspring/decimal,Go,3
+135321861,ory/kratos,Go,63
+51023040,eclipse/paho.mqtt.golang,Go,2
+287336275,stackrox/kube-linter,Go,19
+314763206,utkusen/urlhunter,Go,101
+311315731,XTLS/Xray-core,Go,113
+315848971,tal-tech/cds,Go,118

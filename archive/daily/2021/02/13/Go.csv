@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,42
+212613049,cli/cli,Go,24
+14125254,hashicorp/consul,Go,7
+31288958,hashicorp/vault,Go,159
+46806184,helm/charts,Go,4
+234231371,gofiber/fiber,Go,30
+167596393,derailed/k9s,Go,15
+163883279,nektos/act,Go,31
+153099672,inancgumus/learngo,Go,114
+109162639,thanos-io/thanos,Go,1
+48109239,cilium/cilium,Go,11
+77071454,goreleaser/goreleaser,Go,20
+181461073,v2fly/v2ray-core,Go,30
+27576132,aws/aws-sdk-go,Go,9
+93444615,hashicorp/terraform-provider-aws,Go,55
+120650407,operator-framework/operator-sdk,Go,4
+74499101,roboll/helmfile,Go,9
+16511484,olekukonko/tablewriter,Go,3
+107600830,aws/aws-lambda-go,Go,2
+232630362,hashicorp/boundary,Go,4
+120181748,kiali/kiali,Go,4
+93446042,terraform-providers/terraform-provider-azurerm,Go,4
+301830590,benbjohnson/litestream,Go,477
+117377862,gardener/gardener,Go,0
+83363132,CrunchyData/postgres-operator,Go,3

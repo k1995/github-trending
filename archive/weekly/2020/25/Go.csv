@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,325
+20580498,kubernetes/kubernetes,Go,308
+11180687,gohugoio/hugo,Go,212
+17728164,hashicorp/terraform,Go,117
+46806184,helm/charts,Go,79
+48003886,tmrts/go-patterns,Go,61
+27729907,grpc/grpc-go,Go,86
+6247705,stretchr/testify,Go,74
+11008207,vitessio/vitess,Go,108
+61137153,evanw/esbuild,Go,520
+129717717,grafana/loki,Go,108
+158645957,OpenDiablo2/OpenDiablo2,Go,2128
+27576132,aws/aws-sdk-go,Go,26
+272035489,greyireland/algorithm-pattern,Go,2853
+118105436,golang-migrate/migrate,Go,54
+93444615,terraform-providers/terraform-provider-aws,Go,65
+41288708,sourcegraph/sourcegraph,Go,48
+10721619,hajimehoshi/ebiten,Go,60
+9120526,jackc/pgx,Go,32
+47859258,qiniu/goplus,Go,863
+94831761,hyperledger/fabric-samples,Go,19
+266515261,shuveb/containers-the-hard-way,Go,227
+271051683,yahoo/vssh,Go,307
+193681111,filecoin-project/lotus,Go,21
+50734768,kubermatic/kubermatic,Go,122

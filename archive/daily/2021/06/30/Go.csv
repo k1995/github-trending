@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,49
+7691631,moby/moby,Go,13
+74175805,istio/istio,Go,11
+61137153,evanw/esbuild,Go,29
+26337322,rancher/rancher,Go,5
+6247705,stretchr/testify,Go,14
+52034309,uber-go/zap,Go,18
+7083242,go-sql-driver/mysql,Go,2
+5594766,PuerkitoBio/goquery,Go,9
+153099672,inancgumus/learngo,Go,78
+48109239,cilium/cilium,Go,8
+191655189,ent/ent,Go,11
+208728772,milvus-io/milvus,Go,83
+297165998,muesli/duf,Go,29
+9524057,prometheus/node_exporter,Go,2
+159540440,google/wire,Go,9
+40916314,dexidp/dex,Go,7
+68964263,prometheus-operator/prometheus-operator,Go,6
+82933315,telepresenceio/telepresence,Go,8
+232630362,hashicorp/boundary,Go,4
+76686583,kubevirt/kubevirt,Go,3
+318972528,roseduan/rosedb,Go,28
+83623770,databus23/helm-diff,Go,2
+134918912,rs/curlie,Go,13
+357897199,wiretrustee/wiretrustee,Go,123

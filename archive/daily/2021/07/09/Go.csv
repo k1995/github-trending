@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,136
+7691631,moby/moby,Go,36
+6838921,prometheus/prometheus,Go,85
+74175805,istio/istio,Go,41
+14125254,hashicorp/consul,Go,31
+31288958,hashicorp/vault,Go,35
+37448451,mattermost/mattermost-server,Go,23
+43723161,helm/helm,Go,36
+56342508,jaegertracing/jaeger,Go,36
+165041732,go-kratos/kratos,Go,60
+24977535,dutchcoders/transfer.sh,Go,566
+42332863,filebrowser/filebrowser,Go,104
+46089560,containerd/containerd,Go,30
+132145189,golangci/golangci-lint,Go,40
+133067498,kubernetes-sigs/kustomize,Go,28
+27576132,aws/aws-sdk-go,Go,9
+93444615,hashicorp/terraform-provider-aws,Go,22
+192779991,vmware-tanzu/octant,Go,18
+1966991,tealeg/xlsx,Go,6
+66509131,kubernetes/client-go,Go,26
+67793333,cortexproject/cortex,Go,15
+86367047,elastic/go-elasticsearch,Go,11
+7823926,prometheus/client_golang,Go,10
+360107267,SmartKeyerror/Psyduck,Go,1122
+158012967,argoproj/argo-rollouts,Go,12

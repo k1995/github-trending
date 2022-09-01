@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,46
+20580498,kubernetes/kubernetes,Go,65
+74175805,istio/istio,Go,11
+14125254,hashicorp/consul,Go,5
+4307108,nsqio/nsq,Go,12
+13628513,sirupsen/logrus,Go,8
+26337322,rancher/rancher,Go,37
+27729907,grpc/grpc-go,Go,13
+6247705,stretchr/testify,Go,14
+4059138,dgrijalva/jwt-go,Go,6
+5724223,tomnomnom/gron,Go,46
+109162639,thanos-io/thanos,Go,86
+10270722,google/go-github,Go,5
+48643510,pkg/errors,Go,6
+120896210,argoproj/argo-cd,Go,6
+9524057,prometheus/node_exporter,Go,3
+68964263,prometheus-operator/prometheus-operator,Go,8
+37334619,golang/mock,Go,8
+48714685,open-policy-agent/opa,Go,4
+50629145,google/pprof,Go,3
+93446042,terraform-providers/terraform-provider-azurerm,Go,2
+193681111,filecoin-project/lotus,Go,5
+128950203,Rhymen/go-whatsapp,Go,3
+125253663,google/go-containerregistry,Go,1
+234530887,ethersphere/bee,Go,73

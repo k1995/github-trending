@@ -1,0 +1,26 @@
+id,name,lang,new stars
+11225014,etcd-io/etcd,Go,30
+6838921,prometheus/prometheus,Go,26
+17728164,hashicorp/terraform,Go,72
+31288958,hashicorp/vault,Go,137
+26337322,rancher/rancher,Go,7
+6247705,stretchr/testify,Go,20
+136815833,Dreamacro/clash,Go,52
+13021798,git-lfs/git-lfs,Go,2
+4059138,dgrijalva/jwt-go,Go,5
+21405028,ardanlabs/gotraining,Go,114
+158645957,OpenDiablo2/OpenDiablo2,Go,29
+46140633,quay/clair,Go,7
+109162639,thanos-io/thanos,Go,11
+815644,miekg/dns,Go,10
+120896210,argoproj/argo-cd,Go,7
+120519269,runatlantis/atlantis,Go,8
+53553027,nginxinc/kubernetes-ingress,Go,2
+156681830,ffuf/ffuf,Go,17
+140654872,mosn/mosn,Go,28
+252093005,umi-top/umi-core,Go,1737
+22700054,hashicorp/golang-lru,Go,5
+22855240,Azure/azure-sdk-for-go,Go,0
+107708884,envoyproxy/go-control-plane,Go,5
+193681111,filecoin-project/lotus,Go,5
+259751605,lyft/clutch,Go,73

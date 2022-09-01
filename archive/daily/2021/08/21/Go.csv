@@ -1,0 +1,26 @@
+id,name,lang,new stars
+42408804,traefik/traefik,Go,27
+14125254,hashicorp/consul,Go,15
+135516270,k3s-io/k3s,Go,21
+26337322,rancher/rancher,Go,14
+6247705,stretchr/testify,Go,18
+54400687,grafana/k6,Go,40
+11008207,vitessio/vitess,Go,12
+5179099,go-redis/redis,Go,19
+7083242,go-sql-driver/mysql,Go,131
+148545807,kubernetes-sigs/kind,Go,15
+208728772,milvus-io/milvus,Go,8
+19537979,TykTechnologies/tyk,Go,17
+49765480,lightningnetwork/lnd,Go,15
+37038121,go-acme/lego,Go,14
+120519269,runatlantis/atlantis,Go,9
+147886080,crossplane/crossplane,Go,14
+11440704,golang/glog,Go,69
+367758176,yedf/dtm,Go,123
+396907667,praetorian-inc/gokart,Go,610
+170803235,magma/magma,Go,1
+119106012,edgexfoundry/edgex-go,Go,5
+350007655,mattn/go-generics-example,Go,91
+344711168,gitsrc/IceFireDB,Go,218
+395283401,armosec/kubescape,Go,301
+274450818,tendermint/starport,Go,4

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,54
+7691631,moby/moby,Go,9
+17728164,hashicorp/terraform,Go,15
+13855476,go-gorm/gorm,Go,16
+13124802,influxdata/influxdb,Go,5
+31504491,labstack/echo,Go,17
+4307108,nsqio/nsq,Go,81
+26337322,rancher/rancher,Go,9
+46806184,helm/charts,Go,0
+42194129,docker-slim/docker-slim,Go,271
+30711774,go-playground/validator,Go,14
+132145189,golangci/golangci-lint,Go,15
+121086193,99designs/gqlgen,Go,12
+68964263,prometheus-operator/prometheus-operator,Go,6
+10721619,hajimehoshi/ebiten,Go,16
+107417113,cookieY/Yearning,Go,35
+9120526,jackc/pgx,Go,9
+90798757,segmentio/kafka-go,Go,11
+206213815,chaos-mesh/chaos-mesh,Go,8
+110027931,metallb/metallb,Go,8
+149515625,fluxcd/flagger,Go,7
+187086161,open-telemetry/opentelemetry-go,Go,37
+49970739,DataDog/datadog-agent,Go,0
+321485314,gioui/gio,Go,47
+474521466,helmfile/helmfile,Go,7

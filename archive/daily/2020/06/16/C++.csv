@@ -1,0 +1,26 @@
+id,name,lang,new stars
+45717250,tensorflow/tensorflow,C++,58
+9384267,electron/electron,C++,28
+23357588,protocolbuffers/protobuf,C++,18
+27729880,grpc/grpc,C++,14
+11171548,nlohmann/json,C++,51
+96246170,ApolloAuto/apollo,C++,14
+39840932,google/googletest,C++,19
+17391973,Tencent/rapidjson,C++,5
+31102092,google/or-tools,C++,5
+50255244,raulmur/ORB_SLAM2,C++,1
+75821432,llvm/llvm-project,C++,5
+108102826,carla-simulator/carla,C++,3
+15122806,google/benchmark,C++,3
+46374199,IntelRealSense/librealsense,C++,8
+31197250,google/glog,C++,3
+1320594,SpiderLabs/ModSecurity,C++,3
+5298790,PX4/Firmware,C++,0
+64561753,dusty-nv/jetson-inference,C++,6
+56894212,jvm-profiling-tools/async-profiler,C++,4
+146459443,vesoft-inc/nebula,C++,12
+156939672,microsoft/onnxruntime,C++,4
+11489037,rathena/rathena,C++,26
+153097643,openvinotoolkit/openvino,C++,7
+75978731,microsoft/AdaptiveCards,C++,1
+223904726,wang-xinyu/tensorrtx,C++,4

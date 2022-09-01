@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,54
+15452919,ethereum/go-ethereum,Go,14
+13124802,influxdata/influxdb,Go,9
+56353740,kubernetes/minikube,Go,8
+50709152,kataras/iris,Go,18
+12080551,tsenart/vegeta,Go,15
+13624859,gorilla/websocket,Go,13
+62091339,kubernetes/kops,Go,10
+131371773,hoanhan101/ultimate-go,Go,18
+33258973,influxdata/telegraf,Go,10
+33352201,grpc-ecosystem/grpc-gateway,Go,10
+21405028,ardanlabs/gotraining,Go,42
+22442668,openshift/origin,Go,2
+109162639,thanos-io/thanos,Go,9
+10270722,google/go-github,Go,6
+93444615,terraform-providers/terraform-provider-aws,Go,5
+54539060,allegro/bigcache,Go,6
+59522149,gruntwork-io/terragrunt,Go,5
+87990209,kubernetes/autoscaler,Go,4
+107600830,aws/aws-lambda-go,Go,3
+93446042,terraform-providers/terraform-provider-azurerm,Go,5
+116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,6
+155368246,elastic/cloud-on-k8s,Go,4
+243213207,alexellis/arkade,Go,28
+276077594,upmasked/number-verifier,Go,70

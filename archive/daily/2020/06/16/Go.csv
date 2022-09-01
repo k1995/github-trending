@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,40
+31288958,hashicorp/vault,Go,17
+41349039,dgraph-io/dgraph,Go,8
+129717717,grafana/loki,Go,26
+36071697,ory/hydra,Go,10
+4059138,dgrijalva/jwt-go,Go,5
+126250425,google/go-cloud,Go,3
+27051771,golang/protobuf,Go,3
+10270722,google/go-github,Go,3
+167304464,cortexlabs/cortex,Go,64
+153099672,inancgumus/learngo,Go,69
+12332444,onsi/ginkgo,Go,4
+48714685,open-policy-agent/opa,Go,9
+120896210,argoproj/argo-cd,Go,8
+125275487,kubernetes-sigs/kubebuilder,Go,5
+175070907,pion/ion,Go,20
+57333709,kubernetes/test-infra,Go,5
+51193526,cosmos/cosmos-sdk,Go,3
+260064828,google/exposure-notifications-server,Go,15
+95143992,wal-g/wal-g,Go,5
+47859258,qiniu/goplus,Go,16
+136633680,openshift/installer,Go,0
+124951822,knative/eventing,Go,2
+185861173,open-telemetry/opentelemetry-collector,Go,3
+250313707,jckuester/awsls,Go,24

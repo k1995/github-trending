@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,33
+61137153,evanw/esbuild,Go,75
+27729907,grpc/grpc-go,Go,14
+6247705,stretchr/testify,Go,11
+167596393,derailed/k9s,Go,19
+72891330,kubernetes/ingress-nginx,Go,4
+31558937,gravitational/teleport,Go,14
+6443435,nats-io/nats-server,Go,9
+18858585,mailhog/MailHog,Go,5
+54230994,coredns/coredns,Go,9
+11206255,Shopify/sarama,Go,5
+222172014,slackhq/nebula,Go,34
+180687624,aquasecurity/trivy,Go,6
+68964263,prometheus-operator/prometheus-operator,Go,4
+37334619,golang/mock,Go,4
+78869430,heroiclabs/nakama,Go,21
+30828052,yuin/gopher-lua,Go,5
+11452538,prometheus/alertmanager,Go,7
+29778781,slack-go/slack,Go,4
+16607984,DATA-DOG/go-sqlmock,Go,7
+327859577,juicedata/juicefs,Go,409
+108337180,rancher/rke,Go,4
+74891203,rebuy-de/aws-nuke,Go,2
+276822250,oam-dev/kubevela,Go,23
+279592699,rancher/harvester,Go,4

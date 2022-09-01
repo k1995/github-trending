@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,301
+43723161,helm/helm,Go,70
+234231371,gofiber/fiber,Go,574
+13624859,gorilla/websocket,Go,72
+165041732,go-kratos/kratos,Go,105
+120227732,fyne-io/fyne,Go,386
+8966356,hashicorp/packer,Go,28
+205679232,flipped-aurora/gin-vue-admin,Go,129
+31558937,gravitational/teleport,Go,48
+48109239,cilium/cilium,Go,314
+252813491,projectdiscovery/nuclei,Go,196
+14128006,hashicorp/raft,Go,111
+259191284,hashicorp/waypoint,Go,15
+422821402,FerretDB/FerretDB,Go,729
+134539560,weaveworks/eksctl,Go,23
+258469100,fluxcd/flux2,Go,43
+267713284,projectdiscovery/httpx,Go,60
+193681111,filecoin-project/lotus,Go,42
+278480393,aws/karpenter,Go,291
+116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,19
+247350713,m1k1o/neko,Go,263
+170803235,magma/magma,Go,11
+262126497,anchore/syft,Go,120
+248386471,kubesphere/kubekey,Go,15
+425785077,alibaba/ilogtail,Go,247

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,17
+17728164,hashicorp/terraform,Go,17
+13124802,influxdata/influxdb,Go,5
+46806184,helm/charts,Go,14
+27729907,grpc/grpc-go,Go,11
+6247705,stretchr/testify,Go,13
+11008207,vitessio/vitess,Go,38
+61137153,evanw/esbuild,Go,124
+5179099,go-redis/redis,Go,4
+33258973,influxdata/telegraf,Go,6
+36960321,opencontainers/runc,Go,1
+158645957,OpenDiablo2/OpenDiablo2,Go,340
+27576132,aws/aws-sdk-go,Go,2
+62799996,fluxcd/flux,Go,7
+93444615,terraform-providers/terraform-provider-aws,Go,6
+12332444,onsi/ginkgo,Go,4
+11452538,prometheus/alertmanager,Go,5
+14179252,kelseyhightower/envconfig,Go,9
+10721619,hajimehoshi/ebiten,Go,7
+144849757,fanux/sealos,Go,5
+90905599,gruntwork-io/cloud-nuke,Go,4
+84575398,containernetworking/plugins,Go,2
+184463891,open-telemetry/opentelemetry-specification,Go,3
+269495508,sethvargo/go-envconfig,Go,68
+250313707,jckuester/awsls,Go,25

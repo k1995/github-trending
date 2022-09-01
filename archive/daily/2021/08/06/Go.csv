@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,48
+7691631,moby/moby,Go,16
+20904437,gin-gonic/gin,Go,89
+5271882,astaxie/build-web-application-with-golang,Go,24
+29261473,minio/minio,Go,32
+74175805,istio/istio,Go,25
+8989842,unknwon/the-way-to-go_ZH_CN,Go,24
+129717717,grafana/loki,Go,16
+5179099,go-redis/redis,Go,19
+6443435,nats-io/nats-server,Go,20
+205679232,flipped-aurora/gin-vue-admin,Go,26
+132145189,golangci/golangci-lint,Go,25
+62088377,kubernetes/kompose,Go,57
+63625434,securego/gosec,Go,318
+71133469,reviewdog/reviewdog,Go,157
+120519269,runatlantis/atlantis,Go,8
+206213815,chaos-mesh/chaos-mesh,Go,30
+8425622,BurntSushi/toml,Go,5
+5425992,nats-io/nats.go,Go,5
+28838478,kardianos/service,Go,11
+43332504,GoogleCloudPlatform/golang-samples,Go,22
+93446042,terraform-providers/terraform-provider-azurerm,Go,8
+302670797,ossf/scorecard,Go,28
+340102737,DataHenHQ/till,Go,136
+341551718,sjlleo/netflix-verify,Go,22

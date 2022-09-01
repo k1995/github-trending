@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,46
+7691631,moby/moby,Go,15
+138547797,FiloSottile/mkcert,Go,24
+74175805,istio/istio,Go,18
+14125254,hashicorp/consul,Go,12
+31288958,hashicorp/vault,Go,208
+27729907,grpc/grpc-go,Go,9
+80087836,dgraph-io/badger,Go,9
+27051771,golang/protobuf,Go,4
+72477752,pulumi/pulumi,Go,15
+167304464,cortexlabs/cortex,Go,206
+27576132,aws/aws-sdk-go,Go,4
+93444615,terraform-providers/terraform-provider-aws,Go,7
+68964263,prometheus-operator/prometheus-operator,Go,9
+27146054,golang/tools,Go,8
+53174289,gruntwork-io/terratest,Go,3
+93446042,terraform-providers/terraform-provider-azurerm,Go,2
+41964498,prometheus/blackbox_exporter,Go,1
+12311467,flosch/pongo2,Go,3
+61687013,go-ozzo/ozzo-validation,Go,6
+22883982,vmware/govmomi,Go,2
+141339868,cockroachdb/pebble,Go,84
+185861173,open-telemetry/opentelemetry-collector,Go,6
+294825566,denverquane/amongusdiscord,Go,12
+295415931,chhabraamit/2048,Go,10

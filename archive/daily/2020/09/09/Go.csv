@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,14
+29261473,minio/minio,Go,25
+43723161,helm/helm,Go,15
+26337322,rancher/rancher,Go,9
+46806184,helm/charts,Go,20
+11008207,vitessio/vitess,Go,5
+21233191,ipfs/go-ipfs,Go,10
+5179099,go-redis/redis,Go,12
+11593442,golang/groupcache,Go,8
+234231371,gofiber/fiber,Go,43
+36960321,opencontainers/runc,Go,12
+54230994,coredns/coredns,Go,6
+92313258,jetstack/cert-manager,Go,7
+107286889,schollz/croc,Go,487
+7039626,olivere/elastic,Go,5
+68964263,prometheus-operator/prometheus-operator,Go,11
+54539060,allegro/bigcache,Go,8
+40539602,99designs/aws-vault,Go,10
+14128006,hashicorp/raft,Go,10
+120519269,runatlantis/atlantis,Go,6
+7823926,prometheus/client_golang,Go,10
+252813491,projectdiscovery/nuclei,Go,32
+25279567,go-ldap/ldap,Go,2
+187086161,open-telemetry/opentelemetry-go,Go,11
+193681111,filecoin-project/lotus,Go,9

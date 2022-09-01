@@ -1,0 +1,26 @@
+id,name,lang,new stars
+1357796,emscripten-core/emscripten,C,5
+7634677,openssl/openssl,C,8
+95879426,Tencent/ncnn,C,12
+5414488,cesanta/mongoose,C,5
+65899476,espressif/esp-idf,C,4
+60667730,lvgl/lvgl,C,11
+16734696,meetecho/janus-gateway,C,4
+1979797,FreeRDP/FreeRDP,C,5
+7037996,VirusTotal/yara,C,5
+8270972,ARMmbed/mbed-os,C,0
+305248398,peng-zhihui/HDMI-PI,C,10
+21329550,wireshark/wireshark,C,3
+59676171,KevinOConnor/klipper,C,1
+40556106,wazuh/wazuh,C,3
+11233590,coreutils/coreutils,C,3
+327491895,peng-zhihui/HoloCubic,C,83
+206121828,FreeRTOS/FreeRTOS,C,3
+28928522,wolfSSL/wolfssl,C,3
+369852087,madMAx43v3r/chia-plotter,C,373
+2276287,riscv/riscv-isa-sim,C,3
+70908474,whitecatboard/Lua-RTOS-ESP32,C,16
+8890645,Xilinx/linux-xlnx,C,0
+207354223,FreeRTOS/FreeRTOS-Kernel,C,1
+137416811,lnis-uofu/OpenFPGA,C,1
+375256648,mavillon1/CVE-2021-33739-POC,C,11

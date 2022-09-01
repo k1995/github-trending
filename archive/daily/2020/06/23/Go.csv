@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,42
+20904437,gin-gonic/gin,Go,38
+17728164,hashicorp/terraform,Go,20
+13124802,influxdata/influxdb,Go,5
+26337322,rancher/rancher,Go,11
+46806184,helm/charts,Go,16
+21233191,ipfs/go-ipfs,Go,7
+5179099,go-redis/redis,Go,11
+4022652,gomodule/redigo,Go,8
+11206255,Shopify/sarama,Go,4
+27576132,aws/aws-sdk-go,Go,4
+158645957,OpenDiablo2/OpenDiablo2,Go,210
+118105436,golang-migrate/migrate,Go,9
+33452903,RichardKnop/machinery,Go,3
+41288708,sourcegraph/sourcegraph,Go,4
+87990209,kubernetes/autoscaler,Go,6
+206690330,eth0izzle/shhgit,Go,9
+7823926,prometheus/client_golang,Go,6
+71133469,reviewdog/reviewdog,Go,22
+94831761,hyperledger/fabric-samples,Go,5
+173785481,liamg/tfsec,Go,16
+93446075,terraform-providers/terraform-provider-google,Go,3
+154894457,open-policy-agent/gatekeeper,Go,1
+105711679,envoyproxy/protoc-gen-validate,Go,5
+271051683,yahoo/vssh,Go,31

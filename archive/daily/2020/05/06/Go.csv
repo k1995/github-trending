@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,15
+14712850,syncthing/syncthing,Go,12
+29207621,caddyserver/caddy,Go,347
+112567264,iikira/BaiduPCS-Go,Go,49
+29261473,minio/minio,Go,47
+43723161,helm/helm,Go,11
+30215630,go-kit/kit,Go,22
+46806184,helm/charts,Go,19
+135516270,rancher/k3s,Go,27
+123572362,quii/learn-go-with-tests,Go,28
+6247705,stretchr/testify,Go,14
+8966356,hashicorp/packer,Go,16
+129717717,grafana/loki,Go,8
+44350607,kubernetes/dashboard,Go,7
+22442668,openshift/origin,Go,2
+61137153,evanw/esbuild,Go,384
+192632000,dapr/dapr,Go,18
+27576132,aws/aws-sdk-go,Go,4
+133067498,kubernetes-sigs/kustomize,Go,10
+40539602,99designs/aws-vault,Go,12
+50629145,google/pprof,Go,4
+80134675,containers/buildah,Go,1
+29329884,minio/mc,Go,12
+135321861,ory/kratos,Go,42
+161966225,esrrhs/pingtunnel,Go,40

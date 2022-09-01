@@ -1,0 +1,26 @@
+id,name,lang,new stars
+45717250,tensorflow/tensorflow,C++,39
+1181927,bitcoin/bitcoin,C++,78
+65600975,pytorch/pytorch,C++,22
+23357588,protocolbuffers/protobuf,C++,24
+27729880,grpc/grpc,C++,22
+11171548,nlohmann/json,C++,12
+39840932,google/googletest,C++,15
+6934395,facebook/rocksdb,C++,3
+108110,mongodb/mongo,C++,10
+65214191,envoyproxy/envoy,C++,15
+60246359,ClickHouse/ClickHouse,C++,22
+160083795,SerenityOS/serenity,C++,38
+102343794,apache/incubator-brpc,C++,3
+102692863,onnx/onnx,C++,7
+104208128,PaddlePaddle/Paddle-Lite,C++,2
+46374199,IntelRealSense/librealsense,C++,9
+64561753,dusty-nv/jetson-inference,C++,2
+5298790,PX4/PX4-Autopilot,C++,2
+267792621,Tencent/TNN,C++,4
+178613040,Neargye/magic_enum,C++,6
+364705340,google/fully-homomorphic-encryption,C++,418
+6659299,ros-planning/navigation,C++,1
+66033005,mortennobel/cpp-cheatsheet,C++,10
+139863328,RobustFieldAutonomyLab/LeGO-LOAM,C++,2
+375735762,Maff1t/WindowsPermsPoC,C++,3

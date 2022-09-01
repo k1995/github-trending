@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,60
+3577919,beego/beego,Go,15
+212613049,cli/cli,Go,17
+46806184,helm/charts,Go,4
+6247705,stretchr/testify,Go,11
+33352201,grpc-ecosystem/grpc-gateway,Go,13
+42332863,filebrowser/filebrowser,Go,26
+33258973,influxdata/telegraf,Go,5
+6443435,nats-io/nats-server,Go,4
+46089560,containerd/containerd,Go,10
+109145553,containers/podman,Go,17
+22442668,openshift/origin,Go,1
+27051771,golang/protobuf,Go,2
+27576132,aws/aws-sdk-go,Go,9
+68964263,prometheus-operator/prometheus-operator,Go,2
+94897336,imgproxy/imgproxy,Go,12
+9120526,jackc/pgx,Go,7
+23338323,alda-lang/alda,Go,26
+150713223,kubeedge/kubeedge,Go,2
+162460220,drk1wi/Modlishka,Go,12
+54435102,Jeffail/benthos,Go,6
+58184885,kubernetes/kube-state-metrics,Go,4
+368683828,golang-jwt/jwt,Go,7
+393500902,Tylous/SourcePoint,Go,22
+395536519,supersonictw/popcat-echo,Go,0

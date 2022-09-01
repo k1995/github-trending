@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23357588,protocolbuffers/protobuf,C++,15
+65600975,pytorch/pytorch,C++,27
+27729880,grpc/grpc,C++,12
+11171548,nlohmann/json,C++,14
+16587283,dmlc/xgboost,C++,12
+81227005,facebookresearch/faiss,C++,6
+68312233,microsoft/vcpkg,C++,10
+34777562,ossrs/srs,C++,12
+648332,assimp/assimp,C++,5
+24494032,mysql/mysql-server,C++,5
+23086893,google/re2,C++,3
+108102826,carla-simulator/carla,C++,10
+112928128,relativty/Relativty,C++,9
+15122806,google/benchmark,C++,4
+146459443,vesoft-inc/nebula,C++,13
+262296122,PaddlePaddle/PaddleOCR,C++,33
+27358084,sysown/proxysql,C++,4
+156939672,microsoft/onnxruntime,C++,7
+143131,danmar/cppcheck,C++,3
+184657328,NVIDIA/TensorRT,C++,6
+58414589,oneapi-src/oneDNN,C++,0
+85565658,lewissbaker/cppcoro,C++,3
+156228018,cyberbotics/webots,C++,1
+131630299,onnx/onnx-tensorrt,C++,4
+161214378,microsoft/Azure-Kinect-Sensor-SDK,C++,1

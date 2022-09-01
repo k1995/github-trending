@@ -1,0 +1,26 @@
+id,name,lang,new stars
+13124802,influxdata/influxdb,Go,81
+37448451,mattermost/mattermost-server,Go,6
+6247705,stretchr/testify,Go,10
+4059138,dgrijalva/jwt-go,Go,14
+6443435,nats-io/nats-server,Go,7
+22442668,openshift/origin,Go,2
+100982449,argoproj/argo-workflows,Go,65
+11206255,Shopify/sarama,Go,4
+27576132,aws/aws-sdk-go,Go,49
+18906266,shirou/gopsutil,Go,43
+18950460,concourse/concourse,Go,2
+81355383,mongodb/mongo-go-driver,Go,56
+1966991,tealeg/xlsx,Go,5
+17451182,go-yaml/yaml,Go,4
+80134675,containers/buildah,Go,0
+11452538,prometheus/alertmanager,Go,7
+9120526,jackc/pgx,Go,4
+16607984,DATA-DOG/go-sqlmock,Go,8
+107600830,aws/aws-lambda-go,Go,1
+41681600,influxdata/kapacitor,Go,3
+22883982,vmware/govmomi,Go,3
+41317079,prometheus-community/postgres_exporter,Go,8
+83623770,databus23/helm-diff,Go,2
+64954128,stellar/go,Go,6
+170803235,magma/magma,Go,3

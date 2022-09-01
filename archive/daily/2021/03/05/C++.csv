@@ -1,0 +1,26 @@
+id,name,lang,new stars
+45717250,tensorflow/tensorflow,C++,39
+65600975,pytorch/pytorch,C++,64
+23357588,protocolbuffers/protobuf,C++,15
+27729880,grpc/grpc,C++,9
+22067521,ocornut/imgui,C++,25
+11171548,nlohmann/json,C++,12
+39840932,google/googletest,C++,97
+81227005,facebookresearch/faiss,C++,25
+63477612,TheAlgorithms/C-Plus-Plus,C++,17
+26038648,gabime/spdlog,C++,11
+95879426,Tencent/ncnn,C++,12
+2310495,ceph/ceph,C++,8
+7512484,ArduPilot/ardupilot,C++,6
+208728772,milvus-io/milvus,C++,12
+156939672,microsoft/onnxruntime,C++,5
+56894212,jvm-profiling-tools/async-profiler,C++,2
+8270972,ARMmbed/mbed-os,C++,2
+6148317,OSGeo/gdal,C++,1
+153097643,openvinotoolkit/openvino,C++,3
+151636194,triton-inference-server/server,C++,5
+7454197,YosysHQ/yosys,C++,3
+161376600,facebookresearch/flashlight,C++,0
+11081909,otland/forgottenserver,C++,4
+108592307,eclipse/sumo,C++,3
+334047972,bytemaster/clarion,C++,28

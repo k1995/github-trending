@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,55
+17728164,hashicorp/terraform,Go,17
+31288958,hashicorp/vault,Go,12
+16563587,cockroachdb/cockroach,Go,13
+119160553,photoprism/photoprism,Go,250
+176963109,peterq/pan-light,Go,56
+87617508,casbin/casbin,Go,10
+72477752,pulumi/pulumi,Go,17
+48109239,cilium/cilium,Go,9
+10270722,google/go-github,Go,8
+201658460,geektutu/7days-golang,Go,4
+208728772,milvus-io/milvus,Go,20
+95761244,gogf/gf,Go,20
+48714685,open-policy-agent/opa,Go,10
+150954997,VictoriaMetrics/VictoriaMetrics,Go,9
+9120526,jackc/pgx,Go,8
+81497153,kubernetes-sigs/external-dns,Go,8
+325724738,pyroscope-io/pyroscope,Go,49
+128089774,storj/storj,Go,108
+236055696,grafana/tempo,Go,8
+312629343,shadow1ng/fscan,Go,32
+354015172,RH12503/triangula,Go,449
+185861173,open-telemetry/opentelemetry-collector,Go,2
+126576769,Velocidex/velociraptor,Go,8
+267054247,anchore/grype,Go,13

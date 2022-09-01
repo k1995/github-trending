@@ -1,0 +1,26 @@
+id,name,lang,new stars
+6838921,prometheus/prometheus,Go,24
+42408804,containous/traefik,Go,26
+41986369,pingcap/tidb,Go,19
+17728164,hashicorp/terraform,Go,21
+129717717,grafana/loki,Go,6
+11008207,vitessio/vitess,Go,5
+5179099,go-redis/redis,Go,13
+16554739,elastic/beats,Go,7
+54400687,loadimpact/k6,Go,8
+36653430,hashicorp/nomad,Go,5
+100982449,argoproj/argo,Go,11
+10270722,google/go-github,Go,6
+26726495,go-swagger/go-swagger,Go,7
+7039626,olivere/elastic,Go,5
+109145553,containers/podman,Go,10
+93444615,terraform-providers/terraform-provider-aws,Go,6
+17451182,go-yaml/yaml,Go,6
+11452538,prometheus/alertmanager,Go,2
+67793333,cortexproject/cortex,Go,3
+150954997,VictoriaMetrics/VictoriaMetrics,Go,9
+93446042,terraform-providers/terraform-provider-azurerm,Go,5
+43982667,hpcng/singularity,Go,2
+111455867,smartcontractkit/chainlink,Go,12
+285012857,ksensehq/eventnative,Go,102
+94801963,IBM-Cloud/terraform-provider-ibm,Go,0

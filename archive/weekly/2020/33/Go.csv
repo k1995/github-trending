@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,257
+7691631,moby/moby,Go,104
+41986369,pingcap/tidb,Go,108
+43723161,helm/helm,Go,60
+29217054,micro/go-micro,Go,81
+135516270,rancher/k3s,Go,126
+122734569,iawia002/annie,Go,532
+66573241,hyperledger/fabric,Go,271
+192632000,dapr/dapr,Go,96
+10270722,google/go-github,Go,293
+48109239,cilium/cilium,Go,103
+148545807,kubernetes-sigs/kind,Go,64
+62712899,AdguardTeam/AdGuardHome,Go,117
+81355383,mongodb/mongo-go-driver,Go,33
+97533102,halfrost/LeetCode-Go,Go,1370
+191655189,facebook/ent,Go,916
+19799491,tendermint/tendermint,Go,28
+87990209,kubernetes/autoscaler,Go,90
+93808874,bxcodec/go-clean-arch,Go,87
+237523442,tailscale/tailscale,Go,51
+147886080,crossplane/crossplane,Go,90
+57912964,kubernetes/enhancements,Go,12
+111455867,smartcontractkit/chainlink,Go,55
+193681111,filecoin-project/lotus,Go,32
+285864199,tal-tech/go-zero,Go,141

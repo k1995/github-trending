@@ -1,0 +1,26 @@
+id,name,lang,new stars
+17728164,hashicorp/terraform,Go,24
+12574344,spf13/cobra,Go,14
+43723161,helm/helm,Go,3
+41349039,dgraph-io/dgraph,Go,9
+165041732,go-kratos/kratos,Go,8
+118654121,GoogleContainerTools/skaffold,Go,6
+72891330,kubernetes/ingress-nginx,Go,14
+13021798,git-lfs/git-lfs,Go,10
+109162639,thanos-io/thanos,Go,1
+75785240,authelia/authelia,Go,49
+93444615,hashicorp/terraform-provider-aws,Go,6
+120896210,argoproj/argo-cd,Go,78
+68964263,prometheus-operator/prometheus-operator,Go,10
+23664475,Shopify/toxiproxy,Go,16
+66509131,kubernetes/client-go,Go,8
+125275487,kubernetes-sigs/kubebuilder,Go,3
+53553027,nginxinc/kubernetes-ingress,Go,0
+135321861,ory/kratos,Go,15
+93446042,terraform-providers/terraform-provider-azurerm,Go,2
+117377862,gardener/gardener,Go,2
+98671007,kubernetes-sigs/descheduler,Go,3
+125619154,ory/keto,Go,228
+195619075,vdaas/vald,Go,64
+353070039,adonovan/spaghetti,Go,58
+226832620,argoproj-labs/argocd-notifications,Go,0

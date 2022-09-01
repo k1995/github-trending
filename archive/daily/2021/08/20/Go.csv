@@ -1,0 +1,26 @@
+id,name,lang,new stars
+74175805,istio/istio,Go,9
+31288958,hashicorp/vault,Go,10
+46806184,helm/charts,Go,3
+27729907,grpc/grpc-go,Go,5
+54400687,grafana/k6,Go,32
+167596393,derailed/k9s,Go,13
+7083242,go-sql-driver/mysql,Go,60
+72891330,kubernetes/ingress-nginx,Go,11
+285864199,tal-tech/go-zero,Go,20
+100982449,argoproj/argo-workflows,Go,16
+11206255,Shopify/sarama,Go,5
+133067498,kubernetes-sigs/kustomize,Go,8
+130430977,kubesphere/kubesphere,Go,11
+23664475,Shopify/toxiproxy,Go,6
+66509131,kubernetes/client-go,Go,5
+53553027,nginxinc/kubernetes-ingress,Go,3
+93446042,hashicorp/terraform-provider-azurerm,Go,2
+367758176,yedf/dtm,Go,82
+95143992,wal-g/wal-g,Go,3
+185861173,open-telemetry/opentelemetry-collector,Go,9
+396907667,praetorian-inc/gokart,Go,355
+236736020,actions-runner-controller/actions-runner-controller,Go,6
+395917032,sachaos/viddy,Go,145
+344711168,gitsrc/IceFireDB,Go,77
+395283401,armosec/kubescape,Go,45

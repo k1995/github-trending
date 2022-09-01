@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,42
+7691631,moby/moby,Go,18
+17728164,hashicorp/terraform,Go,16
+72495579,go-gitea/gitea,Go,32
+192632000,dapr/dapr,Go,19
+165041732,go-kratos/kratos,Go,15
+19205896,restic/restic,Go,25
+56342508,jaegertracing/jaeger,Go,12
+21827146,chrislusf/seaweedfs,Go,31
+285864199,zeromicro/go-zero,Go,23
+33258973,influxdata/telegraf,Go,8
+40684033,mozilla/sops,Go,8
+11206255,Shopify/sarama,Go,5
+68964263,prometheus-operator/prometheus-operator,Go,7
+7039626,olivere/elastic,Go,2
+184490584,GoogleCloudPlatform/terraformer,Go,11
+370977430,OpenIMSDK/Open-IM-Server,Go,19
+161951219,wailsapp/wails,Go,31
+220186120,codenotary/immudb,Go,438
+206213815,chaos-mesh/chaos-mesh,Go,6
+33429211,containernetworking/cni,Go,2
+175592968,volcano-sh/volcano,Go,2
+76279648,src-d/hercules,Go,14
+437325270,proferosec/log4jScanner,Go,122
+201455508,pingcap/tiflow,Go,0

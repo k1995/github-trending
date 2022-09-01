@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,1612
+20580498,kubernetes/kubernetes,Go,946
+6838921,prometheus/prometheus,Go,587
+15452919,ethereum/go-ethereum,Go,695
+17728164,hashicorp/terraform,Go,453
+12574344,spf13/cobra,Go,435
+61137153,evanw/esbuild,Go,2723
+31288958,hashicorp/vault,Go,1260
+41349039,dgraph-io/dgraph,Go,770
+6051812,gorilla/mux,Go,293
+192632000,dapr/dapr,Go,2514
+100982449,argoproj/argo-workflows,Go,290
+77071454,goreleaser/goreleaser,Go,754
+48109239,cilium/cilium,Go,237
+93444615,hashicorp/terraform-provider-aws,Go,231
+66156850,TheAlgorithms/Go,Go,264
+184490584,GoogleCloudPlatform/terraformer,Go,146
+92702519,bitnami-labs/sealed-secrets,Go,132
+273132277,moonD4rk/HackBrowserData,Go,720
+173785481,tfsec/tfsec,Go,201
+51193526,cosmos/cosmos-sdk,Go,216
+111455867,smartcontractkit/chainlink,Go,139
+170803235,magma/magma,Go,96
+185861173,open-telemetry/opentelemetry-collector,Go,67
+145102495,ElrondNetwork/elrond-go,Go,100

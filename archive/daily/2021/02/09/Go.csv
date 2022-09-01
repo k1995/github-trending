@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,30
+7691631,moby/moby,Go,15
+17728164,hashicorp/terraform,Go,18
+31288958,hashicorp/vault,Go,271
+30215630,go-kit/kit,Go,14
+123572362,quii/learn-go-with-tests,Go,20
+21233191,ipfs/go-ipfs,Go,11
+16554739,elastic/beats,Go,4
+192632000,dapr/dapr,Go,13
+6443435,nats-io/nats-server,Go,7
+153099672,inancgumus/learngo,Go,89
+36653430,hashicorp/nomad,Go,7
+65434192,tidwall/gjson,Go,8
+23247808,rqlite/rqlite,Go,9
+180687624,aquasecurity/trivy,Go,10
+6098927,robertkrimen/otto,Go,7
+93444615,hashicorp/terraform-provider-aws,Go,6
+140457254,OWASP/Amass,Go,5
+48714685,open-policy-agent/opa,Go,8
+16607984,DATA-DOG/go-sqlmock,Go,10
+53356367,containers/skopeo,Go,7
+135321861,ory/kratos,Go,14
+335925753,iann0036/iamlive,Go,106
+145102495,ElrondNetwork/elrond-go,Go,12
+332576508,nikoksr/notify,Go,29

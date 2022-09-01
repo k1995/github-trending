@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,44
+20580498,kubernetes/kubernetes,Go,81
+20904437,gin-gonic/gin,Go,34
+17728164,hashicorp/terraform,Go,20
+72495579,go-gitea/gitea,Go,193
+27051771,golang/protobuf,Go,4
+46140633,quay/clair,Go,8
+36653430,hashicorp/nomad,Go,4
+100982449,argoproj/argo,Go,11
+119419195,GoogleContainerTools/kaniko,Go,9
+109162639,thanos-io/thanos,Go,5
+109145553,containers/podman,Go,111
+18950460,concourse/concourse,Go,5
+59101986,smallnest/rpcx,Go,9
+53174289,gruntwork-io/terratest,Go,5
+66509131,kubernetes/client-go,Go,6
+80134675,containers/buildah,Go,34
+67828134,cri-o/cri-o,Go,55
+93446042,terraform-providers/terraform-provider-azurerm,Go,7
+117156031,prysmaticlabs/prysm,Go,45
+117377862,gardener/gardener,Go,0
+111455867,smartcontractkit/chainlink,Go,3
+193681111,filecoin-project/lotus,Go,5
+312360662,projectdiscovery/dnsx,Go,12
+315763280,aws/aws-lambda-runtime-interface-emulator,Go,16

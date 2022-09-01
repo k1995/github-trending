@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,48
+11180687,gohugoio/hugo,Go,15
+17728164,hashicorp/terraform,Go,16
+212613049,cli/cli,Go,21
+56353740,kubernetes/minikube,Go,7
+43723161,helm/helm,Go,8
+6247705,stretchr/testify,Go,8
+19205896,restic/restic,Go,9
+52034309,uber-go/zap,Go,12
+167596393,derailed/k9s,Go,30
+153099672,inancgumus/learngo,Go,43
+208728772,milvus-io/milvus,Go,16
+120896210,argoproj/argo-cd,Go,8
+40916314,dexidp/dex,Go,55
+17451182,go-yaml/yaml,Go,5
+41561105,go-resty/resty,Go,10
+118828329,knative/serving,Go,3
+327859577,juicedata/juicefs,Go,7
+232630362,hashicorp/boundary,Go,9
+154894457,open-policy-agent/gatekeeper,Go,3
+318972528,roseduan/rosedb,Go,33
+311639195,karmada-io/karmada,Go,7
+125253663,google/go-containerregistry,Go,5
+158012967,argoproj/argo-rollouts,Go,7
+380295867,irsl/gcp-dhcp-takeover-code-exec,Go,43

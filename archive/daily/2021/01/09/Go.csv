@@ -1,0 +1,26 @@
+id,name,lang,new stars
+6838921,prometheus/prometheus,Go,20
+15452919,ethereum/go-ethereum,Go,25
+74175805,istio/istio,Go,11
+31288958,hashicorp/vault,Go,11
+46806184,helm/charts,Go,4
+6051812,gorilla/mux,Go,15
+6247705,stretchr/testify,Go,13
+5179099,go-redis/redis,Go,13
+33258973,influxdata/telegraf,Go,4
+7877397,jmoiron/sqlx,Go,9
+6443435,nats-io/nats-server,Go,9
+46140633,quay/clair,Go,9
+100982449,argoproj/argo,Go,14
+40684033,mozilla/sops,Go,16
+27576132,aws/aws-sdk-go,Go,21
+48714685,open-policy-agent/opa,Go,8
+66509131,kubernetes/client-go,Go,9
+74499101,roboll/helmfile,Go,7
+63196359,confluentinc/confluent-kafka-go,Go,5
+51193526,cosmos/cosmos-sdk,Go,7
+187086161,open-telemetry/opentelemetry-go,Go,3
+325862596,ztino/helloworld,Go,167
+258469100,fluxcd/flux2,Go,4
+325519108,zqjzqj/mtSecKill,Go,227
+171933613,keep-network/tbtc,Go,12

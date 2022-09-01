@@ -1,0 +1,26 @@
+id,name,lang,new stars
+11008207,vitessio/vitess,Go,14
+33352201,grpc-ecosystem/grpc-gateway,Go,12
+33258973,influxdata/telegraf,Go,10
+109162639,thanos-io/thanos,Go,138
+146641150,tektoncd/pipeline,Go,4
+44739044,src-d/go-git,Go,0
+49765480,lightningnetwork/lnd,Go,3
+99143276,vmware-tanzu/velero,Go,6
+120896210,argoproj/argo-cd,Go,11
+17451182,go-yaml/yaml,Go,21
+11931032,btcsuite/btcd,Go,1
+87990209,kubernetes/autoscaler,Go,4
+16907502,fatih/color,Go,14
+80134675,containers/buildah,Go,24
+61153677,m3db/m3,Go,5
+58821882,grpc-ecosystem/go-grpc-middleware,Go,6
+93446042,terraform-providers/terraform-provider-azurerm,Go,4
+88608345,weaveworks/kured,Go,25
+83623770,databus23/helm-diff,Go,5
+170803235,magma/magma,Go,72
+133830411,argoproj/argo-events,Go,4
+107708884,envoyproxy/go-control-plane,Go,4
+80172100,kubernetes-sigs/cri-tools,Go,5
+137362393,influxdata/flux,Go,5
+281765424,microsoft/CBL-Mariner,Go,1

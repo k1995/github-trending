@@ -1,0 +1,26 @@
+id,name,lang,new stars
+2325298,torvalds/linux,C,64
+10744183,netdata/netdata,C,25
+2810455,ggreer/the_silver_searcher,C,15
+569041,curl/curl,C,21
+196353673,taosdata/TDengine,C,4
+102578345,coolsnowwolf/lede,C,18
+37912398,nginx/nginx,C,15
+246335987,ventoy/Ventoy,C,40
+15337142,micropython/micropython,C,6
+47409672,hashcat/hashcat,C,8
+32873313,systemd/systemd,C,11
+45821540,openwrt/openwrt,C,12
+41215835,HandBrake/HandBrake,C,10
+5414488,cesanta/mongoose,C,5
+65899476,espressif/esp-idf,C,3
+13310527,jemalloc/jemalloc,C,9
+2328181,freebsd/freebsd,C,6
+192805335,microsoft/mimalloc,C,7
+58132544,RediSearch/RediSearch,C,2
+205810121,CloverHackyColor/CloverBootloader,C,9
+43681824,varnishcache/varnish-cache,C,4
+27584181,espressif/ESP8266_RTOS_SDK,C,3
+15333809,open62541/open62541,C,4
+134182484,NVIDIA/gpu-monitoring-tools,C,2
+261611628,intel/kernel-fuzzer-for-xen-project,C,19

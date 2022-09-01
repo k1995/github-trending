@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,41
+6838921,prometheus/prometheus,Go,26
+50709152,kataras/iris,Go,18
+18369373,spf13/viper,Go,15
+13624859,gorilla/websocket,Go,14
+56342508,jaegertracing/jaeger,Go,13
+5179099,go-redis/redis,Go,12
+5594766,PuerkitoBio/goquery,Go,6
+36653430,hashicorp/nomad,Go,5
+109145553,containers/podman,Go,9
+30711774,go-playground/validator,Go,14
+113106184,linkerd/linkerd2,Go,11
+120896210,argoproj/argo-cd,Go,19
+41288708,sourcegraph/sourcegraph,Go,9
+87990209,kubernetes/autoscaler,Go,5
+19799491,tendermint/tendermint,Go,3
+67828134,cri-o/cri-o,Go,7
+154643390,sundowndev/PhoneInfoga,Go,112
+134539560,weaveworks/eksctl,Go,4
+51193526,cosmos/cosmos-sdk,Go,4
+16345015,prometheus/pushgateway,Go,3
+124157517,kubernetes-sigs/cluster-api,Go,2
+325519108,zqjzqj/mtSecKill,Go,306
+327859577,juicedata/juicefs,Go,387
+279592699,rancher/harvester,Go,3

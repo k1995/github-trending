@@ -1,0 +1,26 @@
+id,name,lang,new stars
+6838921,prometheus/prometheus,Go,13
+42408804,traefik/traefik,Go,19
+29207621,caddyserver/caddy,Go,12
+17728164,hashicorp/terraform,Go,21
+31288958,hashicorp/vault,Go,19
+44498957,valyala/fasthttp,Go,24
+50613991,goharbor/harbor,Go,12
+8966356,hashicorp/packer,Go,5
+11008207,vitessio/vitess,Go,10
+33352201,grpc-ecosystem/grpc-gateway,Go,11
+33258973,influxdata/telegraf,Go,3
+72477752,pulumi/pulumi,Go,14
+134012064,pion/webrtc,Go,9
+93444615,terraform-providers/terraform-provider-aws,Go,6
+21034555,asaskevich/govalidator,Go,3
+48714685,open-policy-agent/opa,Go,16
+181461073,v2fly/v2ray-core,Go,86
+7823926,prometheus/client_golang,Go,2
+88013053,docker/cli,Go,3
+233130089,charmbracelet/bubbletea,Go,174
+93446042,terraform-providers/terraform-provider-azurerm,Go,2
+91074692,zalando/postgres-operator,Go,5
+170803235,magma/magma,Go,1
+215654064,temporalio/temporal,Go,41
+253522878,docker/compose-cli,Go,6

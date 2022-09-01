@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,43
+42408804,traefik/traefik,Go,20
+15452919,ethereum/go-ethereum,Go,19
+74175805,istio/istio,Go,20
+13124802,influxdata/influxdb,Go,12
+12574344,spf13/cobra,Go,24
+37448451,mattermost/mattermost-server,Go,4
+13628513,sirupsen/logrus,Go,13
+46806184,helm/charts,Go,9
+6247705,stretchr/testify,Go,11
+4059138,dgrijalva/jwt-go,Go,8
+100982449,argoproj/argo,Go,8
+27051771,golang/protobuf,Go,3
+28366058,distribution/distribution,Go,6
+59522149,gruntwork-io/terragrunt,Go,6
+61153677,m3db/m3,Go,5
+74499101,roboll/helmfile,Go,2
+57333709,kubernetes/test-infra,Go,1
+58654489,google/trillian,Go,13
+19608522,googleapis/google-cloud-go,Go,4
+332361864,achannarasappa/ticker,Go,360
+74891203,rebuy-de/aws-nuke,Go,6
+22883982,vmware/govmomi,Go,1
+93446075,hashicorp/terraform-provider-google,Go,3
+334749893,codeedu/imersao-fullstack-fullcycle,Go,92

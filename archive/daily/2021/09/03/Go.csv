@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,44
+56353740,kubernetes/minikube,Go,11
+26337322,rancher/rancher,Go,11
+6247705,stretchr/testify,Go,7
+109162639,thanos-io/thanos,Go,7
+109145553,containers/podman,Go,268
+205679232,flipped-aurora/gin-vue-admin,Go,22
+119419195,GoogleContainerTools/kaniko,Go,15
+11206255,Shopify/sarama,Go,6
+19537979,TykTechnologies/tyk,Go,4
+146641150,tektoncd/pipeline,Go,4
+193833307,knadh/listmonk,Go,46
+23664475,Shopify/toxiproxy,Go,8
+82933315,telepresenceio/telepresence,Go,11
+371564104,megaease/easegress,Go,22
+53356367,containers/skopeo,Go,7
+367284699,lima-vm/lima,Go,74
+281765424,microsoft/CBL-Mariner,Go,8
+91074692,zalando/postgres-operator,Go,1
+106867604,cloudflare/cloudflared,Go,5
+318476701,containerd/nerdctl,Go,36
+279592699,harvester/harvester,Go,3
+133830411,argoproj/argo-events,Go,3
+158012967,argoproj/argo-rollouts,Go,6
+401299493,cdle/sillyGirl,Go,9

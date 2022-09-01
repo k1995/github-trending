@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,46
+29261473,minio/minio,Go,23
+26337322,rancher/rancher,Go,6
+27729907,grpc/grpc-go,Go,10
+8966356,hashicorp/packer,Go,4
+20653934,google/cadvisor,Go,5
+71297170,Netflix/chaosmonkey,Go,18
+11593442,golang/groupcache,Go,14
+44344606,go-chi/chi,Go,13
+27051771,golang/protobuf,Go,3
+100982449,argoproj/argo,Go,6
+92313258,jetstack/cert-manager,Go,11
+27576132,aws/aws-sdk-go,Go,2
+120896210,argoproj/argo-cd,Go,9
+4141925,streadway/amqp,Go,4
+79954708,dominikh/go-tools,Go,4
+118828329,knative/serving,Go,4
+165092572,go-echarts/go-echarts,Go,15
+106928408,ilanyu/ReverseProxy,Go,17
+147886080,crossplane/crossplane,Go,5
+57333709,kubernetes/test-infra,Go,4
+135321861,ory/kratos,Go,9
+315063189,geektutu/high-performance-go,Go,176
+313853293,cloudquery/cloudquery,Go,202
+309706190,mattermost/xml-roundtrip-validator,Go,4

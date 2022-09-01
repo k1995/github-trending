@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,57
+20580498,kubernetes/kubernetes,Go,33
+42408804,traefik/traefik,Go,17
+15452919,ethereum/go-ethereum,Go,17
+13124802,influxdata/influxdb,Go,4
+12574344,spf13/cobra,Go,16
+43723161,helm/helm,Go,6
+272035489,greyireland/algorithm-pattern,Go,38
+33258973,influxdata/telegraf,Go,3
+109162639,thanos-io/thanos,Go,7
+11206255,Shopify/sarama,Go,12
+180687624,aquasecurity/trivy,Go,33
+27576132,aws/aws-sdk-go,Go,2
+146641150,tektoncd/pipeline,Go,3
+68964263,prometheus-operator/prometheus-operator,Go,6
+114379163,rivo/tview,Go,28
+130430977,kubesphere/kubesphere,Go,25
+184490584,GoogleCloudPlatform/terraformer,Go,12
+10721619,hajimehoshi/ebiten,Go,11
+120519269,runatlantis/atlantis,Go,4
+22581723,pseudomuto/protoc-gen-doc,Go,4
+203927039,xinliangnote/go-gin-api,Go,34
+170803235,magma/magma,Go,3
+204571899,storj/drpc,Go,123
+196414933,open-telemetry/opentelemetry-collector-contrib,Go,3

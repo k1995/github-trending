@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,49
+7691631,moby/moby,Go,20
+6838921,prometheus/prometheus,Go,35
+29207621,caddyserver/caddy,Go,17
+74175805,istio/istio,Go,19
+13855476,go-gorm/gorm,Go,29
+56353740,kubernetes/minikube,Go,28
+31288958,hashicorp/vault,Go,9
+26337322,rancher/rancher,Go,17
+27729907,grpc/grpc-go,Go,21
+31558937,gravitational/teleport,Go,39
+36653430,hashicorp/nomad,Go,3
+27576132,aws/aws-sdk-go,Go,8
+48109239,cilium/cilium,Go,8
+109145553,containers/podman,Go,11
+130430977,kubesphere/kubesphere,Go,17
+120896210,argoproj/argo-cd,Go,13
+71133469,reviewdog/reviewdog,Go,10
+160272948,chai2010/go-ast-book,Go,31
+176379662,derailed/popeye,Go,7
+91074692,zalando/postgres-operator,Go,4
+202018792,aws/copilot-cli,Go,122
+185861173,open-telemetry/opentelemetry-collector,Go,3
+276266698,cockroachdb/copyist,Go,120
+254648511,docker/ecs-plugin,Go,55

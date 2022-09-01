@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,50
+74175805,istio/istio,Go,22
+13124802,influxdata/influxdb,Go,10
+61137153,evanw/esbuild,Go,80
+6247705,stretchr/testify,Go,11
+129717717,grafana/loki,Go,16
+131212638,google/gvisor,Go,8
+33258973,influxdata/telegraf,Go,9
+6443435,nats-io/nats-server,Go,10
+109162639,thanos-io/thanos,Go,8
+54230994,coredns/coredns,Go,7
+109145553,containers/podman,Go,27
+11206255,Shopify/sarama,Go,9
+62712899,AdguardTeam/AdGuardHome,Go,15
+134012064,pion/webrtc,Go,21
+18906266,shirou/gopsutil,Go,11
+93444615,hashicorp/terraform-provider-aws,Go,10
+68964263,prometheus-operator/prometheus-operator,Go,8
+53174289,gruntwork-io/terratest,Go,7
+16907502,fatih/color,Go,2
+11452538,prometheus/alertmanager,Go,9
+67828134,cri-o/cri-o,Go,5
+173785481,tfsec/tfsec,Go,8
+281694167,Mrs4s/go-cqhttp,Go,17
+246387644,ava-labs/avalanchego,Go,1

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,356
+15452919,ethereum/go-ethereum,Go,255
+17728164,hashicorp/terraform,Go,121
+31288958,hashicorp/vault,Go,1074
+61137153,evanw/esbuild,Go,517
+6051812,gorilla/mux,Go,72
+123572362,quii/learn-go-with-tests,Go,78
+153099672,inancgumus/learngo,Go,586
+109145553,containers/podman,Go,105
+92313258,jetstack/cert-manager,Go,49
+62712899,AdguardTeam/AdGuardHome,Go,103
+180687624,aquasecurity/trivy,Go,291
+93444615,hashicorp/terraform-provider-aws,Go,110
+22485114,hashicorp/hcl,Go,20
+74499101,roboll/helmfile,Go,60
+93446042,terraform-providers/terraform-provider-azurerm,Go,20
+135321861,ory/kratos,Go,86
+51193526,cosmos/cosmos-sdk,Go,135
+45356931,bwmarrin/discordgo,Go,23
+258469100,fluxcd/flux2,Go,42
+170803235,magma/magma,Go,34
+246387644,ava-labs/avalanchego,Go,29
+332607310,optiv/ScareCrow,Go,177
+145102495,ElrondNetwork/elrond-go,Go,48
+332576508,nikoksr/notify,Go,242

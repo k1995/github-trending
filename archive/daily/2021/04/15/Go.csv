@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,48
+20580498,kubernetes/kubernetes,Go,111
+74175805,istio/istio,Go,21
+43723161,helm/helm,Go,7
+50613991,goharbor/harbor,Go,15
+27729907,grpc/grpc-go,Go,14
+6247705,stretchr/testify,Go,11
+192632000,dapr/dapr,Go,36
+165041732,go-kratos/kratos,Go,48
+86733463,ahmetb/kubectx,Go,26
+120156076,cloudreve/Cloudreve,Go,19
+109145553,containers/podman,Go,7
+118105436,golang-migrate/migrate,Go,12
+146641150,tektoncd/pipeline,Go,10
+68964263,prometheus-operator/prometheus-operator,Go,5
+48714685,open-policy-agent/opa,Go,21
+90798757,segmentio/kafka-go,Go,9
+276822250,oam-dev/kubevela,Go,16
+111455867,smartcontractkit/chainlink,Go,8
+287336275,stackrox/kube-linter,Go,13
+339786950,encoredev/encore,Go,357
+55072677,semi-technologies/weaviate,Go,245
+312629343,shadow1ng/fscan,Go,12
+352438471,umputun/reproxy,Go,99
+355200354,baidu/EasyFaaS,Go,26

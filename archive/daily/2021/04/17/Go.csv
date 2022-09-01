@@ -1,0 +1,26 @@
+id,name,lang,new stars
+29261473,minio/minio,Go,16
+212613049,cli/cli,Go,354
+14125254,hashicorp/consul,Go,12
+135516270,k3s-io/k3s,Go,19
+27729907,grpc/grpc-go,Go,22
+30245748,gizak/termui,Go,10
+29371034,micro/micro,Go,24
+120156076,cloudreve/Cloudreve,Go,54
+109162639,thanos-io/thanos,Go,9
+119190187,zricethezav/gitleaks,Go,22
+68964263,prometheus-operator/prometheus-operator,Go,9
+111431261,fullstorydev/grpcurl,Go,16
+14128006,hashicorp/raft,Go,11
+332361864,achannarasappa/ticker,Go,13
+90798757,segmentio/kafka-go,Go,10
+175070907,pion/ion,Go,17
+57333709,kubernetes/test-infra,Go,3
+63196359,confluentinc/confluent-kafka-go,Go,3
+93446042,terraform-providers/terraform-provider-azurerm,Go,25
+258469100,fluxcd/flux2,Go,8
+116165188,GoogleCloudPlatform/spark-on-k8s-operator,Go,2
+216631734,aws/aws-node-termination-handler,Go,8
+287094253,giongto35/cloud-morph,Go,92
+341944825,caoyingjunz/kubez-autoscaler,Go,6
+356840350,frontierdotxyz/frontier-chain,Go,1

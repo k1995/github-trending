@@ -1,0 +1,26 @@
+id,name,lang,new stars
+16752620,gogs/gogs,Go,17
+72495579,go-gitea/gitea,Go,177
+14125254,hashicorp/consul,Go,10
+16563587,cockroachdb/cockroach,Go,15
+43723161,helm/helm,Go,11
+61137153,evanw/esbuild,Go,65
+6247705,stretchr/testify,Go,21
+167596393,derailed/k9s,Go,27
+87617508,casbin/casbin,Go,19
+46089560,containerd/containerd,Go,171
+109145553,containers/podman,Go,171
+159038012,microsoft/ethr,Go,244
+53174289,gruntwork-io/terratest,Go,6
+137854081,GoAdminGroup/go-admin,Go,45
+80134675,containers/buildah,Go,47
+120519269,runatlantis/atlantis,Go,7
+67828134,cri-o/cri-o,Go,55
+7823926,prometheus/client_golang,Go,8
+58184885,kubernetes/kube-state-metrics,Go,8
+93446042,terraform-providers/terraform-provider-azurerm,Go,5
+27522241,golang/crypto,Go,4
+154894457,open-policy-agent/gatekeeper,Go,6
+311315731,XTLS/Xray-core,Go,53
+54714794,rabbitstack/fibratus,Go,96
+185861173,open-telemetry/opentelemetry-collector,Go,6

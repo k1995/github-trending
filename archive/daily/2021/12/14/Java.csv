@@ -1,0 +1,26 @@
+id,name,lang,new stars
+507775,elastic/elasticsearch,Java,28
+173228436,NationalSecurityAgency/ghidra,Java,46
+4576305,openzipkin/zipkin,Java,6
+5663857,jeremylong/DependencyCheck,Java,13
+436666301,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,Java,382
+92047350,mbechler/marshalsec,Java,59
+10637896,apache/logging-log4j2,Java,175
+214062806,welk1n/JNDI-Injection-Exploit,Java,62
+437132269,Cybereason/Logout4Shell,Java,334
+436871971,whwlsfb/Log4j2Scan,Java,172
+206384,apache/log4j,Java,8
+436974241,christophetd/log4shell-vulnerable-app,Java,151
+221522659,veracode-research/rogue-jndi,Java,22
+437131550,Puliczek/CVE-2021-44228-PoC-log4j-bypass-words,Java,114
+189190071,welk1n/JNDI-Injection-Bypass,Java,10
+437216363,tangxiaofeng7/BurpLog4j2Scan,Java,59
+437426386,corretto/hotpatch-for-apache-log4j2,Java,69
+437261211,logpresso/CVE-2021-44228-Scanner,Java,63
+437354791,huntresslabs/log4shell-tester,Java,69
+437215271,f0ng/log4j2burpscanner,Java,47
+436900024,leonjza/log4jpwn,Python,63
+437139341,kozmer/log4j-shell-poc,Java,22
+437179234,EmYiQing/LDAPKit,Java,25
+154173243,niumoo/lab-notes,Java,12
+436890559,ilsubyeega/log4j2-exploits,Java,6

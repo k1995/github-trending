@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,74
+20904437,gin-gonic/gin,Go,52
+13807606,junegunn/fzf,Go,35
+11225014,etcd-io/etcd,Go,22
+212613049,cli/cli,Go,23
+43723161,helm/helm,Go,14
+50613991,goharbor/harbor,Go,15
+123572362,quii/learn-go-with-tests,Go,18
+6247705,stretchr/testify,Go,19
+52034309,uber-go/zap,Go,22
+5179099,go-redis/redis,Go,17
+44344606,go-chi/chi,Go,21
+72477752,pulumi/pulumi,Go,20
+36653430,hashicorp/nomad,Go,11
+48109239,cilium/cilium,Go,13
+10270722,google/go-github,Go,8
+113106184,linkerd/linkerd2,Go,9
+27576132,aws/aws-sdk-go,Go,5
+93444615,hashicorp/terraform-provider-aws,Go,11
+95761244,gogf/gf,Go,19
+79954708,dominikh/go-tools,Go,9
+74499101,roboll/helmfile,Go,5
+176379662,derailed/popeye,Go,13
+111455867,smartcontractkit/chainlink,Go,4
+376186782,kris-nova/naml,Go,120

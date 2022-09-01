@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,36
+20904437,gin-gonic/gin,Go,48
+41986369,pingcap/tidb,Go,18
+29261473,minio/minio,Go,16
+74175805,istio/istio,Go,27
+72495579,go-gitea/gitea,Go,31
+13628513,sirupsen/logrus,Go,12
+6247705,stretchr/testify,Go,4
+46089560,containerd/containerd,Go,7
+109162639,thanos-io/thanos,Go,4
+285864199,tal-tech/go-zero,Go,39
+201658460,geektutu/7days-golang,Go,9
+47859258,goplus/gop,Go,66
+7823926,prometheus/client_golang,Go,2
+41964498,prometheus/blackbox_exporter,Go,3
+117377862,gardener/gardener,Go,5
+276822250,oam-dev/kubevela,Go,21
+111455867,smartcontractkit/chainlink,Go,5
+91074692,zalando/postgres-operator,Go,6
+25279567,go-ldap/ldap,Go,12
+312629343,shadow1ng/fscan,Go,24
+356531994,inbug-team/InScan,Go,83
+355407223,assetnote/kiterunner,Go,89
+352438471,umputun/reproxy,Go,53
+355200354,baidu/EasyFaaS,Go,43

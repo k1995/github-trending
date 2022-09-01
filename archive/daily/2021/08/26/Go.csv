@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,40
+212613049,cli/cli,Go,30
+56353740,kubernetes/minikube,Go,7
+37448451,mattermost/mattermost-server,Go,5
+107286889,schollz/croc,Go,12
+165041732,go-kratos/kratos,Go,11
+42332863,filebrowser/filebrowser,Go,334
+72891330,kubernetes/ingress-nginx,Go,14
+13021798,git-lfs/git-lfs,Go,3
+10270722,google/go-github,Go,4
+134012064,pion/webrtc,Go,6
+208728772,milvus-io/milvus,Go,15
+120896210,argoproj/argo-cd,Go,8
+146641150,tektoncd/pipeline,Go,3
+14128006,hashicorp/raft,Go,5
+246903803,earthly/earthly,Go,14
+144708327,zhenghaoz/gorse,Go,13
+88013053,docker/cli,Go,3
+57333709,kubernetes/test-infra,Go,1
+84610043,kubernetes-sigs/aws-load-balancer-controller,Go,1
+395283401,armosec/kubescape,Go,185
+116825580,kubernetes-sigs/kubefed,Go,4
+173009358,deepmap/oapi-codegen,Go,4
+158012967,argoproj/argo-rollouts,Go,4
+362675427,alibaba/sealer,Go,5

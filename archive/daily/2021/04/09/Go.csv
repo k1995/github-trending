@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,38
+43723161,helm/helm,Go,7
+26337322,rancher/rancher,Go,11
+46806184,helm/charts,Go,3
+165041732,go-kratos/kratos,Go,12
+16554739,elastic/beats,Go,58
+65434192,tidwall/gjson,Go,8
+100982449,argoproj/argo-workflows,Go,4
+109162639,thanos-io/thanos,Go,4
+134012064,pion/webrtc,Go,11
+118105436,golang-migrate/migrate,Go,9
+7039626,olivere/elastic,Go,5
+120896210,argoproj/argo-cd,Go,32
+48714685,open-policy-agent/opa,Go,11
+17451182,go-yaml/yaml,Go,3
+11452538,prometheus/alertmanager,Go,4
+67793333,cortexproject/cortex,Go,4
+118828329,knative/serving,Go,9
+67828134,cri-o/cri-o,Go,7
+92702519,bitnami-labs/sealed-secrets,Go,21
+58184885,kubernetes/kube-state-metrics,Go,5
+43982667,hpcng/singularity,Go,2
+125619154,ory/keto,Go,286
+105711679,envoyproxy/protoc-gen-validate,Go,7
+332607310,optiv/ScareCrow,Go,8

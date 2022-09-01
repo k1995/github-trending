@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,44
+6838921,prometheus/prometheus,Go,20
+41986369,pingcap/tidb,Go,25
+74175805,istio/istio,Go,23
+17728164,hashicorp/terraform,Go,11
+13855476,go-gorm/gorm,Go,25
+14125254,hashicorp/consul,Go,11
+31288958,hashicorp/vault,Go,8
+18369373,spf13/viper,Go,17
+129717717,grafana/loki,Go,23
+33258973,influxdata/telegraf,Go,7
+7877397,jmoiron/sqlx,Go,11
+62921553,rook/rook,Go,5
+42332863,filebrowser/filebrowser,Go,36
+27051771,golang/protobuf,Go,4
+48109239,cilium/cilium,Go,13
+109162639,thanos-io/thanos,Go,9
+77071454,goreleaser/goreleaser,Go,7
+11206255,Shopify/sarama,Go,5
+120896210,argoproj/argo-cd,Go,11
+206213815,chaos-mesh/chaos-mesh,Go,12
+134539560,weaveworks/eksctl,Go,4
+93446042,terraform-providers/terraform-provider-azurerm,Go,8
+276822250,oam-dev/kubevela,Go,66
+313824529,rsc/rf,Go,31

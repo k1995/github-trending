@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,44
+7691631,moby/moby,Go,8
+31288958,hashicorp/vault,Go,9
+30215630,go-kit/kit,Go,18
+43723161,helm/helm,Go,11
+27729907,grpc/grpc-go,Go,13
+129717717,grafana/loki,Go,12
+5179099,go-redis/redis,Go,14
+6443435,nats-io/nats-server,Go,5
+27051771,golang/protobuf,Go,4
+201658460,geektutu/7days-golang,Go,70
+27576132,aws/aws-sdk-go,Go,1
+146641150,tektoncd/pipeline,Go,2
+7039626,olivere/elastic,Go,4
+172292744,panjf2000/gnet,Go,105
+11452538,prometheus/alertmanager,Go,5
+72875399,luraproject/lura,Go,58
+79954708,dominikh/go-tools,Go,11
+202523140,alexellis/k3sup,Go,12
+244694886,didi/nightingale,Go,7
+22883982,vmware/govmomi,Go,3
+312629343,shadow1ng/fscan,Go,26
+78678862,ClickHouse/clickhouse-go,Go,7
+84575398,containernetworking/plugins,Go,2
+311639195,karmada-io/karmada,Go,16

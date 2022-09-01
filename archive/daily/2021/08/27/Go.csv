@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,46
+7691631,moby/moby,Go,10
+11225014,etcd-io/etcd,Go,8
+212613049,cli/cli,Go,185
+26337322,rancher/rancher,Go,12
+44498957,valyala/fasthttp,Go,9
+42332863,filebrowser/filebrowser,Go,223
+118654121,GoogleContainerTools/skaffold,Go,3
+72891330,kubernetes/ingress-nginx,Go,13
+31558937,gravitational/teleport,Go,5
+6443435,nats-io/nats-server,Go,7
+72477752,pulumi/pulumi,Go,11
+208728772,milvus-io/milvus,Go,15
+120896210,argoproj/argo-cd,Go,8
+40916314,dexidp/dex,Go,3
+93444615,hashicorp/terraform-provider-aws,Go,7
+91851756,docker/docker-ce,Go,1
+206213815,chaos-mesh/chaos-mesh,Go,6
+57333709,kubernetes/test-infra,Go,4
+258469100,fluxcd/flux2,Go,2
+107597148,aws/amazon-vpc-cni-k8s,Go,1
+311639195,karmada-io/karmada,Go,24
+192178626,marcel-dempers/docker-development-youtube-series,Go,3
+399821046,varbhat/exatorrent,Go,152
+341551718,sjlleo/netflix-verify,Go,7

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,11
+31288958,hashicorp/vault,Go,10
+46806184,helm/charts,Go,5
+163883279,nektos/act,Go,63
+167596393,derailed/k9s,Go,16
+72891330,kubernetes/ingress-nginx,Go,8
+285864199,tal-tech/go-zero,Go,49
+134012064,pion/webrtc,Go,13
+120896210,argoproj/argo-cd,Go,14
+1966991,tealeg/xlsx,Go,3
+120650407,operator-framework/operator-sdk,Go,5
+141089889,berty/berty,Go,12
+92969352,moby/buildkit,Go,3
+16607984,DATA-DOG/go-sqlmock,Go,2
+53553027,nginxinc/kubernetes-ingress,Go,4
+135321861,ory/kratos,Go,12
+281694167,Mrs4s/go-cqhttp,Go,10
+116825580,kubernetes-sigs/kubefed,Go,0
+187086161,open-telemetry/opentelemetry-go,Go,3
+83623770,databus23/helm-diff,Go,6
+185861173,open-telemetry/opentelemetry-collector,Go,4
+311216458,fogleman/physarum,Go,41
+288755599,Tylous/Limelighter,Go,29
+351622243,terorie/cve-2021-3449,Go,28
+242202166,open-telemetry/opentelemetry-go-contrib,Go,1

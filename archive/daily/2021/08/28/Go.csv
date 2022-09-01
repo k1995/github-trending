@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,39
+15452919,ethereum/go-ethereum,Go,22
+17728164,hashicorp/terraform,Go,7
+212613049,cli/cli,Go,156
+12574344,spf13/cobra,Go,10
+14125254,hashicorp/consul,Go,5
+31288958,hashicorp/vault,Go,3
+6247705,stretchr/testify,Go,7
+21827146,chrislusf/seaweedfs,Go,4
+153099672,inancgumus/learngo,Go,27
+72477752,pulumi/pulumi,Go,6
+109145553,containers/podman,Go,6
+11206255,Shopify/sarama,Go,3
+208728772,milvus-io/milvus,Go,5
+93444615,hashicorp/terraform-provider-aws,Go,26
+199763479,bfenetworks/bfe,Go,18
+144849757,fanux/sealos,Go,29
+150713223,kubeedge/kubeedge,Go,13
+118828329,knative/serving,Go,1
+82515080,ouqiang/gocron,Go,17
+149515625,fluxcd/flagger,Go,3
+84610043,kubernetes-sigs/aws-load-balancer-controller,Go,1
+127765544,Kong/kubernetes-ingress-controller,Go,1
+185861173,open-telemetry/opentelemetry-collector,Go,2
+265775217,binance-chain/bsc,Go,35

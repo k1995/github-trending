@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,53
+7691631,moby/moby,Go,11
+17728164,hashicorp/terraform,Go,16
+16563587,cockroachdb/cockroach,Go,14
+61137153,evanw/esbuild,Go,71
+27729907,grpc/grpc-go,Go,10
+20653934,google/cadvisor,Go,12
+272035489,greyireland/algorithm-pattern,Go,20
+7083242,go-sql-driver/mysql,Go,11
+29371034,micro/micro,Go,11
+54378638,github/gh-ost,Go,9
+146641150,tektoncd/pipeline,Go,9
+180687624,aquasecurity/trivy,Go,20
+53174289,gruntwork-io/terratest,Go,8
+181461073,v2fly/v2ray-core,Go,42
+48714685,open-policy-agent/opa,Go,5
+92648433,gwuhaolin/livego,Go,17
+193833307,knadh/listmonk,Go,9
+67793333,cortexproject/cortex,Go,4
+19608522,googleapis/google-cloud-go,Go,2
+93446042,terraform-providers/terraform-provider-azurerm,Go,3
+253024215,hahwul/WebHackersWeapons,Go,16
+287336275,stackrox/kube-linter,Go,187
+123866297,cybercongress/go-cyber,Go,9
+267054247,anchore/grype,Go,10

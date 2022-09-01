@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,14
+17728164,hashicorp/terraform,Go,23
+31288958,hashicorp/vault,Go,226
+16554739,elastic/beats,Go,2
+4059138,dgrijalva/jwt-go,Go,3
+153099672,inancgumus/learngo,Go,103
+36653430,hashicorp/nomad,Go,7
+109145553,containers/podman,Go,6
+92313258,jetstack/cert-manager,Go,10
+27576132,aws/aws-sdk-go,Go,3
+180687624,aquasecurity/trivy,Go,92
+26726495,go-swagger/go-swagger,Go,3
+93444615,hashicorp/terraform-provider-aws,Go,8
+34659664,weaveworks/scope,Go,4
+59522149,gruntwork-io/terragrunt,Go,4
+53356367,containers/skopeo,Go,7
+92702519,bitnami-labs/sealed-secrets,Go,5
+74499101,roboll/helmfile,Go,7
+93446042,terraform-providers/terraform-provider-azurerm,Go,1
+135321861,ory/kratos,Go,11
+43982667,hpcng/singularity,Go,4
+54503347,opencontainers/image-spec,Go,5
+132129752,microsoft/presidio,Go,6
+258469100,fluxcd/flux2,Go,7
+145102495,ElrondNetwork/elrond-go,Go,13

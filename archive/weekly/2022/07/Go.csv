@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,311
+20580498,kubernetes/kubernetes,Go,301
+20904437,gin-gonic/gin,Go,259
+14712850,syncthing/syncthing,Go,149
+29207621,caddyserver/caddy,Go,452
+61137153,evanw/esbuild,Go,225
+13855476,go-gorm/gorm,Go,118
+16563587,cockroachdb/cockroach,Go,395
+192632000,dapr/dapr,Go,125
+205679232,flipped-aurora/gin-vue-admin,Go,116
+33258973,influxdata/telegraf,Go,40
+180687624,aquasecurity/trivy,Go,283
+222172014,slackhq/nebula,Go,148
+27576132,aws/aws-sdk-go,Go,103
+93444615,hashicorp/terraform-provider-aws,Go,37
+325724738,pyroscope-io/pyroscope,Go,123
+367758176,dtm-labs/dtm,Go,281
+44087204,google/syzkaller,Go,36
+86367047,elastic/go-elasticsearch,Go,20
+351486934,gravitl/netmaker,Go,182
+154894457,open-policy-agent/gatekeeper,Go,41
+193681111,filecoin-project/lotus,Go,62
+306366900,casdoor/casdoor,Go,137
+265775217,bnb-chain/bsc,Go,16
+313628863,external-secrets/external-secrets,Go,41

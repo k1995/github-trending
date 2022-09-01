@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,22
+16563587,cockroachdb/cockroach,Go,6
+43723161,helm/helm,Go,5
+167596393,derailed/k9s,Go,14
+192632000,dapr/dapr,Go,18
+36653430,hashicorp/nomad,Go,72
+100982449,argoproj/argo,Go,7
+27576132,aws/aws-sdk-go,Go,1
+62799996,fluxcd/flux,Go,1
+66050533,fission/fission,Go,102
+191655189,facebook/ent,Go,28
+18950460,concourse/concourse,Go,3
+180687624,aquasecurity/trivy,Go,7
+53174289,gruntwork-io/terratest,Go,2
+120519269,runatlantis/atlantis,Go,2
+134539560,weaveworks/eksctl,Go,1
+27096595,googleapis/google-api-go-client,Go,0
+93446042,terraform-providers/terraform-provider-azurerm,Go,3
+41964498,prometheus/blackbox_exporter,Go,4
+248025303,p4gefau1t/trojan-go,Go,32
+135321861,ory/kratos,Go,13
+296573191,elsaland/elsa,Go,87
+246903803,earthly/earthly,Go,50
+161628176,infracloudio/botkube,Go,4
+208038454,treeverse/lakeFS,Go,9

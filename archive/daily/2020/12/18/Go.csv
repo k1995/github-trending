@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,34
+14125254,hashicorp/consul,Go,12
+401025,github/hub,Go,3
+50709152,kataras/iris,Go,16
+16563587,cockroachdb/cockroach,Go,12
+31288958,hashicorp/vault,Go,9
+46806184,helm/charts,Go,4
+8966356,hashicorp/packer,Go,290
+6247705,stretchr/testify,Go,8
+72891330,kubernetes/ingress-nginx,Go,12
+4059138,dgrijalva/jwt-go,Go,5
+4022652,gomodule/redigo,Go,4
+36653430,hashicorp/nomad,Go,6
+27051771,golang/protobuf,Go,6
+815644,miekg/dns,Go,3
+53174289,gruntwork-io/terratest,Go,4
+10721619,hajimehoshi/ebiten,Go,11
+79954708,dominikh/go-tools,Go,7
+150954997,VictoriaMetrics/VictoriaMetrics,Go,9
+271250363,k0sproject/k0s,Go,86
+74499101,roboll/helmfile,Go,18
+135321861,ory/kratos,Go,28
+40659385,gotk3/gotk3,Go,3
+193681111,filecoin-project/lotus,Go,3
+185861173,open-telemetry/opentelemetry-collector,Go,3

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,250
+48378947,fatedier/frp,Go,253
+14712850,syncthing/syncthing,Go,175
+15452919,ethereum/go-ethereum,Go,127
+212613049,cli/cli,Go,90
+31504491,labstack/echo,Go,398
+234231371,gofiber/fiber,Go,210
+26337322,rancher/rancher,Go,50
+180687624,aquasecurity/trivy,Go,320
+62712899,AdguardTeam/AdGuardHome,Go,112
+46089560,containerd/containerd,Go,167
+434218673,zinclabs/zinc,Go,498
+118105436,golang-migrate/migrate,Go,170
+252813491,projectdiscovery/nuclei,Go,216
+237523442,tailscale/tailscale,Go,109
+273871859,juanfont/headscale,Go,722
+40539602,99designs/aws-vault,Go,109
+80134675,containers/buildah,Go,36
+94779471,aquasecurity/kube-bench,Go,28
+410430370,IceWhaleTech/CasaOS,Go,118
+52481933,navidrome/navidrome,Go,127
+318476701,containerd/nerdctl,Go,67
+257434373,HyNetwork/hysteria,Go,54
+332606283,lcvvvv/kscan,Go,85
+93446075,hashicorp/terraform-provider-google,Go,13

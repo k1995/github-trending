@@ -1,0 +1,26 @@
+id,name,lang,new stars
+15452919,ethereum/go-ethereum,Go,9
+29261473,minio/minio,Go,23
+17728164,hashicorp/terraform,Go,11
+14125254,hashicorp/consul,Go,9
+13124802,influxdata/influxdb,Go,12
+31288958,hashicorp/vault,Go,73
+13628513,sirupsen/logrus,Go,12
+61137153,evanw/esbuild,Go,26
+33258973,influxdata/telegraf,Go,15
+27051771,golang/protobuf,Go,4
+72477752,pulumi/pulumi,Go,10
+148545807,kubernetes-sigs/kind,Go,16
+30711774,go-playground/validator,Go,11
+27576132,aws/aws-sdk-go,Go,5
+146641150,tektoncd/pipeline,Go,5
+191655189,facebook/ent,Go,13
+180687624,aquasecurity/trivy,Go,13
+93444615,terraform-providers/terraform-provider-aws,Go,7
+120896210,argoproj/argo-cd,Go,10
+134539560,weaveworks/eksctl,Go,3
+63196359,confluentinc/confluent-kafka-go,Go,2
+84610043,kubernetes-sigs/aws-alb-ingress-controller,Go,2
+22883982,vmware/govmomi,Go,4
+271811979,nkanaev/yarr,Go,34
+294825566,denverquane/amongusdiscord,Go,20

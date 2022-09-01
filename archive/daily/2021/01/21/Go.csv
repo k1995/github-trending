@@ -1,0 +1,26 @@
+id,name,lang,new stars
+6838921,prometheus/prometheus,Go,21
+42408804,traefik/traefik,Go,16
+29261473,minio/minio,Go,175
+14125254,hashicorp/consul,Go,13
+13124802,influxdata/influxdb,Go,9
+31288958,hashicorp/vault,Go,10
+46806184,helm/charts,Go,5
+41349039,dgraph-io/dgraph,Go,19
+8966356,hashicorp/packer,Go,8
+15345331,boltdb/bolt,Go,6
+33352201,grpc-ecosystem/grpc-gateway,Go,10
+16554739,elastic/beats,Go,2
+72891330,kubernetes/ingress-nginx,Go,16
+116576783,bettercap/bettercap,Go,15
+48109239,cilium/cilium,Go,12
+53174289,gruntwork-io/terratest,Go,8
+59522149,gruntwork-io/terragrunt,Go,5
+67793333,cortexproject/cortex,Go,4
+172292744,panjf2000/gnet,Go,10
+22485114,hashicorp/hcl,Go,4
+134539560,weaveworks/eksctl,Go,4
+7823926,prometheus/client_golang,Go,4
+22883982,vmware/govmomi,Go,6
+193681111,filecoin-project/lotus,Go,5
+125253663,google/go-containerregistry,Go,2

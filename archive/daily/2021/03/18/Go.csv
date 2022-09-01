@@ -1,0 +1,26 @@
+id,name,lang,new stars
+7691631,moby/moby,Go,8
+6838921,prometheus/prometheus,Go,32
+42408804,traefik/traefik,Go,18
+29207621,caddyserver/caddy,Go,20
+72495579,go-gitea/gitea,Go,18
+13124802,influxdata/influxdb,Go,7
+26337322,rancher/rancher,Go,9
+6247705,stretchr/testify,Go,14
+234231371,gofiber/fiber,Go,40
+11008207,vitessio/vitess,Go,11
+7877397,jmoiron/sqlx,Go,10
+116576783,bettercap/bettercap,Go,168
+65434192,tidwall/gjson,Go,18
+119419195,GoogleContainerTools/kaniko,Go,13
+27051771,golang/protobuf,Go,9
+118105436,golang-migrate/migrate,Go,13
+40916314,dexidp/dex,Go,6
+140457254,OWASP/Amass,Go,9
+154643390,sundowndev/PhoneInfoga,Go,144
+294836885,nakabonne/ali,Go,18
+93446042,terraform-providers/terraform-provider-azurerm,Go,4
+93446075,hashicorp/terraform-provider-google,Go,3
+193681111,filecoin-project/lotus,Go,6
+308485332,lotusirous/go-concurrency-patterns,Go,232
+207167221,bench-routes/bench-routes,Go,2

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+43723161,helm/helm,Go,11
+31288958,hashicorp/vault,Go,11
+66573241,hyperledger/fabric,Go,8
+5179099,go-redis/redis,Go,10
+100982449,argoproj/argo,Go,18
+48109239,cilium/cilium,Go,32
+27576132,aws/aws-sdk-go,Go,4
+133067498,kubernetes-sigs/kustomize,Go,8
+81355383,mongodb/mongo-go-driver,Go,6
+41288708,sourcegraph/sourcegraph,Go,18
+48714685,open-policy-agent/opa,Go,8
+10166531,mitchellh/mapstructure,Go,6
+87990209,kubernetes/autoscaler,Go,10
+191655189,facebook/ent,Go,114
+7823926,prometheus/client_golang,Go,1
+108462822,projectcontour/contour,Go,6
+76686583,kubevirt/kubevirt,Go,4
+84610043,kubernetes-sigs/aws-alb-ingress-controller,Go,4
+34933072,minio/minio-go,Go,6
+217622305,aws/aws-controllers-k8s,Go,102
+193681111,filecoin-project/lotus,Go,3
+103084166,accurics/terrascan,Go,7
+281694167,Mrs4s/go-cqhttp,Go,10
+183197059,BBVA/kapow,Go,28
+265190306,google/go-safeweb,Go,26

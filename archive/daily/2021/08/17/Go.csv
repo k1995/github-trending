@@ -1,0 +1,26 @@
+id,name,lang,new stars
+6838921,prometheus/prometheus,Go,23
+212613049,cli/cli,Go,26
+26337322,rancher/rancher,Go,11
+11393110,urfave/cli,Go,10
+107286889,schollz/croc,Go,57
+42332863,filebrowser/filebrowser,Go,40
+33258973,influxdata/telegraf,Go,8
+44350607,kubernetes/dashboard,Go,5
+109162639,thanos-io/thanos,Go,4
+65434192,tidwall/gjson,Go,11
+27051771,golang/protobuf,Go,6
+18950460,concourse/concourse,Go,3
+184490584,GoogleCloudPlatform/terraformer,Go,16
+40539602,99designs/aws-vault,Go,1
+50629145,google/pprof,Go,6
+7515336,davecgh/go-spew,Go,7
+11452538,prometheus/alertmanager,Go,4
+120519269,runatlantis/atlantis,Go,5
+162460220,drk1wi/Modlishka,Go,13
+371564104,megaease/easegress,Go,68
+193160679,kyleconroy/sqlc,Go,7
+46904685,opentracing/opentracing-go,Go,1
+281765424,microsoft/CBL-Mariner,Go,21
+136494223,kubernetes-sigs/controller-runtime,Go,0
+196414933,open-telemetry/opentelemetry-collector-contrib,Go,1

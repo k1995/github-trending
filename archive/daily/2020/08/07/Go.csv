@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,39
+7691631,moby/moby,Go,11
+20904437,gin-gonic/gin,Go,27
+6838921,prometheus/prometheus,Go,31
+29261473,minio/minio,Go,33
+56353740,kubernetes/minikube,Go,15
+31288958,hashicorp/vault,Go,8
+46806184,helm/charts,Go,38
+10379607,buger/goreplay,Go,20
+6247705,stretchr/testify,Go,12
+33258973,influxdata/telegraf,Go,3
+44350607,kubernetes/dashboard,Go,4
+125642885,talkgo/night,Go,13
+4022652,gomodule/redigo,Go,4
+11206255,Shopify/sarama,Go,5
+132145189,golangci/golangci-lint,Go,10
+62799996,fluxcd/flux,Go,8
+50629145,google/pprof,Go,11
+4141925,streadway/amqp,Go,3
+25872841,spf13/afero,Go,7
+144849757,fanux/sealos,Go,7
+243518322,douyu/jupiter,Go,116
+227895834,openservicemesh/osm,Go,338
+26111255,miguelmota/streamhut,Go,16
+282311579,profclems/glab,Go,38

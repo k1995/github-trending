@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,45
+20580498,kubernetes/kubernetes,Go,33
+37448451,mattermost/mattermost-server,Go,8
+43723161,helm/helm,Go,7
+26337322,rancher/rancher,Go,13
+56342508,jaegertracing/jaeger,Go,8
+6247705,stretchr/testify,Go,11
+165041732,go-kratos/kratos,Go,8
+5179099,go-redis/redis,Go,10
+72891330,kubernetes/ingress-nginx,Go,10
+153099672,inancgumus/learngo,Go,61
+109145553,containers/podman,Go,11
+208728772,milvus-io/milvus,Go,17
+37334619,golang/mock,Go,4
+40539602,99designs/aws-vault,Go,7
+17451182,go-yaml/yaml,Go,2
+12332444,onsi/ginkgo,Go,5
+10166531,mitchellh/mapstructure,Go,6
+93928882,swaggo/swag,Go,13
+150713223,kubeedge/kubeedge,Go,5
+327859577,juicedata/juicefs,Go,6
+71487396,terraform-linters/tflint,Go,6
+175592968,volcano-sh/volcano,Go,4
+189705577,HDT3213/godis,Go,35
+342158146,cloudwego/netpoll,Go,8

@@ -1,0 +1,26 @@
+id,name,lang,new stars
+17728164,hashicorp/terraform,Go,19
+26337322,rancher/rancher,Go,8
+46806184,helm/charts,Go,11
+27729907,grpc/grpc-go,Go,7
+105279544,gocolly/colly,Go,17
+118654121,GoogleContainerTools/skaffold,Go,7
+21233191,ipfs/go-ipfs,Go,2
+97533102,halfrost/LeetCode-Go,Go,132
+72891330,kubernetes/ingress-nginx,Go,15
+18858585,mailhog/MailHog,Go,12
+46089560,containerd/containerd,Go,6
+180687624,aquasecurity/trivy,Go,8
+160626997,uber/kraken,Go,11
+125275487,kubernetes-sigs/kubebuilder,Go,6
+259191284,hashicorp/waypoint,Go,9
+5425992,nats-io/nats.go,Go,1
+165092572,go-echarts/go-echarts,Go,27
+86367047,elastic/go-elasticsearch,Go,6
+106704041,cosmtrek/air,Go,16
+93446042,terraform-providers/terraform-provider-azurerm,Go,5
+264154402,crowdsecurity/crowdsec,Go,46
+135321861,ory/kratos,Go,22
+271250363,k0sproject/k0s,Go,709
+206214867,TwinProduction/gatus,Go,47
+185861173,open-telemetry/opentelemetry-collector,Go,4

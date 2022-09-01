@@ -1,0 +1,26 @@
+id,name,lang,new stars
+100060912,microsoft/terminal,C++,23
+5108051,opencv/opencv,C++,25
+23357588,protocolbuffers/protobuf,C++,28
+65600975,pytorch/pytorch,C++,27
+11171548,nlohmann/json,C++,217
+6934395,facebook/rocksdb,C++,5
+65214191,envoyproxy/envoy,C++,12
+125098880,ValveSoftware/Proton,C++,25
+1062572,catchorg/Catch2,C++,7
+26038648,gabime/spdlog,C++,13
+17391973,Tencent/rapidjson,C++,24
+34777562,ossrs/srs,C++,11
+191820100,google/mediapipe,C++,52
+6930489,facebook/watchman,C++,6
+196813750,Light-City/CPlusPlusThings,C++,25
+104231541,abseil/abseil-cpp,C++,3
+28449431,scylladb/scylla,C++,3
+2436255,Project-OSRM/osrm-backend,C++,0
+156939672,microsoft/onnxruntime,C++,9
+146842101,iovisor/bpftrace,C++,7
+49986046,falcosecurity/falco,C++,5
+52909975,facontidavide/PlotJuggler,C++,173
+151636194,triton-inference-server/server,C++,6
+257596449,epezent/implot,C++,8
+313445559,google/atheris,C++,66

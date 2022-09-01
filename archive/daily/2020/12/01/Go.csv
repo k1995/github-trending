@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,47
+74175805,istio/istio,Go,14
+33258973,influxdata/telegraf,Go,7
+29371034,micro/micro,Go,9
+31558937,gravitational/teleport,Go,8
+10270722,google/go-github,Go,9
+48643510,pkg/errors,Go,15
+27576132,aws/aws-sdk-go,Go,3
+62799996,fluxcd/flux,Go,4
+18950460,concourse/concourse,Go,5
+187403699,FiloSottile/age,Go,42
+94897336,imgproxy/imgproxy,Go,12
+16019737,Masterminds/squirrel,Go,7
+134539560,weaveworks/eksctl,Go,2
+58184885,kubernetes/kube-state-metrics,Go,6
+279297541,lanyulei/ferry,Go,17
+41964498,prometheus/blackbox_exporter,Go,4
+155368246,elastic/cloud-on-k8s,Go,3
+316099858,kallydev/privacy,,464
+153484854,suyashkumar/dicom,Go,16
+316504138,redcode-labs/Neurax,Go,143
+315934293,nakabonne/pbgopy,Go,104
+280643640,jointwt/twtxt,Go,15
+313853293,cloudquery/cloudquery,Go,35
+93446099,terraform-providers/terraform-provider-github,Go,4

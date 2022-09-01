@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,42
+20580498,kubernetes/kubernetes,Go,31
+20904437,gin-gonic/gin,Go,34
+74175805,istio/istio,Go,19
+29261473,minio/minio,Go,20
+13124802,influxdata/influxdb,Go,6
+31288958,hashicorp/vault,Go,20
+13628513,sirupsen/logrus,Go,13
+18369373,spf13/viper,Go,13
+33258973,influxdata/telegraf,Go,7
+87617508,casbin/casbin,Go,16
+62921553,rook/rook,Go,18
+48109239,cilium/cilium,Go,9
+27576132,aws/aws-sdk-go,Go,3
+815644,miekg/dns,Go,9
+55637575,lucas-clemente/quic-go,Go,8
+66156850,TheAlgorithms/Go,Go,54
+50629145,google/pprof,Go,6
+87990209,kubernetes/autoscaler,Go,6
+181461073,v2fly/v2ray-core,Go,38
+247032621,go-admin-team/go-admin,Go,33
+280232135,screego/server,Go,540
+285864199,tal-tech/go-zero,Go,24
+279297541,lanyulei/ferry,Go,81
+193681111,filecoin-project/lotus,Go,5

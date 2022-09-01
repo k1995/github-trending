@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,57
+20904437,gin-gonic/gin,Go,43
+15452919,ethereum/go-ethereum,Go,14
+43723161,helm/helm,Go,12
+27729907,grpc/grpc-go,Go,10
+234231371,gofiber/fiber,Go,34
+11593442,golang/groupcache,Go,9
+29371034,micro/micro,Go,62
+36960321,opencontainers/runc,Go,7
+48109239,cilium/cilium,Go,25
+18906266,shirou/gopsutil,Go,6
+99143276,vmware-tanzu/velero,Go,3
+120896210,argoproj/argo-cd,Go,9
+111431261,fullstorydev/grpcurl,Go,18
+87990209,kubernetes/autoscaler,Go,8
+76221943,Tencent/bk-cmdb,Go,4
+79954708,dominikh/go-tools,Go,8
+18765044,golang/oauth2,Go,38
+44087204,google/syzkaller,Go,8
+93446042,terraform-providers/terraform-provider-azurerm,Go,3
+59514412,awslabs/amazon-ecr-credential-helper,Go,2
+170803235,magma/magma,Go,7
+302670797,ossf/scorecard,Go,52
+310677628,redcode-labs/Coldfire,Go,26
+310680081,Vlad-Shevliakov/ASCII-render,Go,4
