@@ -1,8 +1,8 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,4
+27442967,fastlane/fastlane,Ruby,5
 481872,hashicorp/vagrant,Ruby,1
-308770,heartcombo/devise,Ruby,6
-37382858,kilimchoi/engineering-blogs,Ruby,32
+308770,heartcombo/devise,Ruby,17
+37382858,kilimchoi/engineering-blogs,Ruby,27
 538746,ruby/ruby,Ruby,4
 3195124,mperham/sidekiq,Ruby,5
 1918677,fluent/fluentd,Ruby,5
@@ -10,8 +10,8 @@ id,name,lang,new stars
 15435,Shopify/liquid,Ruby,9
 8393,thoughtbot/paperclip,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,0
-2441517,puma/puma,Ruby,2
-6899875,opf/openproject,Ruby,3
+2441517,puma/puma,Ruby,1
+6899875,opf/openproject,Ruby,4
 75785147,rails/webpacker,Ruby,2
 52316423,luggit/react-native-config,Ruby,1
 138776049,sorbet/sorbet,Ruby,3
@@ -19,7 +19,7 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,2
 200302808,ViewComponent/view_component,Ruby,4
 8472417,Shopify/identity_cache,Ruby,0
-61203,Shopify/shopify_app,Ruby,2
+61203,Shopify/shopify_app,Ruby,1
 17228890,Shopify/shipit-engine,Ruby,0
 2113660,Shopify/statsd-instrument,Ruby,0
 1795802,Shopify/money,Ruby,1
