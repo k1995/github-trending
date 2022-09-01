@@ -1,11 +1,11 @@
 id,name,lang,new stars
 123458551,jackfrued/Python-100-Days,Python,69
 58028038,521xueweihan/HelloGitHub,Python,61
-349321229,TencentARC/GFPGAN,Python,114
-80990461,eriklindernoren/ML-From-Scratch,Python,13
+349321229,TencentARC/GFPGAN,Python,87
+80990461,eriklindernoren/ML-From-Scratch,Python,23
 123303402,python-poetry/poetry,Python,29
 130375797,dmlc/dgl,Python,8
-162405963,gradio-app/gradio,Python,54
+162405963,gradio-app/gradio,Python,60
 399495186,tiangolo/sqlmodel,Python,149
 394541647,OpenEthan/SMSBoom,Python,237
 69709572,pytorch/tutorials,Python,6
@@ -17,10 +17,10 @@ id,name,lang,new stars
 174772426,khast3x/Redcloud,Python,119
 514085646,MasterBin-IIAU/Unicorn,Python,11
 97406952,dbt-labs/dbt-utils,Python,3
-528167656,bes-dev/stable_diffusion.openvino,Python,272
+528167656,bes-dev/stable_diffusion.openvino,Python,152
 528600699,hlky/sd-enable-textual-inversion,Python,173
 444800849,njustkmg/PaddleMM,Python,13
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,80
-476918521,alibaba/EasyCV,Python,18
+476918521,alibaba/EasyCV,Python,29
 527826544,smallevilbeast/ntchat,Python,11
 529988734,shellward/StablenderDiffusion,Python,9

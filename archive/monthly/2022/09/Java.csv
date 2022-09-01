@@ -1,13 +1,13 @@
 id,name,lang,new stars
 7508411,ReactiveX/RxJava,Java,171
-20300177,google/guava,Java,403
-173228436,NationalSecurityAgency/ghidra,Java,465
+20300177,google/guava,Java,404
+173228436,NationalSecurityAgency/ghidra,Java,464
 146633589,alibaba/arthas,Java,562
-44662669,dbeaver/dbeaver,Java,529
+44662669,dbeaver/dbeaver,Java,528
 137451403,alibaba/nacos,Java,419
-41889031,TeamNewPipe/NewPipe,Java,815
+41889031,TeamNewPipe/NewPipe,Java,816
 20773773,bazelbuild/bazel,Java,217
-149001365,doocs/leetcode,Java,1805
+149001365,doocs/leetcode,Java,1804
 89822531,Anuken/Mindustry,Java,685
 44804216,termux/termux-app,Java,1019
 11125589,keycloak/keycloak,Java,378
@@ -22,5 +22,5 @@ id,name,lang,new stars
 320785435,LSPosed/LSPosed,Java,398
 46398090,datahub-project/datahub,Java,411
 69400326,confluentinc/ksql,Java,78
-248416273,didi/KnowStreaming,Java,483
+248416273,didi/KnowStreaming,Java,484
 375260798,DataLinkDC/dlink,Java,140
