@@ -104,6 +104,8 @@ popular_langs = [
     'Python',
     'Ruby',
     'PHP',
+    'TypeScript',
+    'Rust'
 ]
 
 try:
