@@ -1,18 +1,18 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,66
 7569578,discourse/discourse,Ruby,136
-8681349,huginn/huginn,Ruby,63
+8681349,huginn/huginn,Ruby,64
 13840241,freeCodeCamp/devdocs,Ruby,50
 481872,hashicorp/vagrant,Ruby,30
 2500088,gitlabhq/gitlabhq,Ruby,14
-308770,heartcombo/devise,Ruby,32
-21696302,matteocrippa/awesome-swift,Ruby,46
-37382858,kilimchoi/engineering-blogs,Ruby,169
+308770,heartcombo/devise,Ruby,34
+21696302,matteocrippa/awesome-swift,Ruby,45
+37382858,kilimchoi/engineering-blogs,Ruby,172
 538746,ruby/ruby,Ruby,25
 202291859,chatwoot/chatwoot,Ruby,31
-3195124,mperham/sidekiq,Ruby,18
+3195124,mperham/sidekiq,Ruby,20
 88740103,postalserver/postal,Ruby,33
-96395,faker-ruby/faker,Ruby,17
+96395,faker-ruby/faker,Ruby,19
 1725199,github/linguist,Ruby,29
 6529205,varvet/pundit,Ruby,11
 1314319,instructure/canvas-lms,Ruby,14
@@ -20,7 +20,7 @@ id,name,lang,new stars
 137805,redis/redis-rb,Ruby,3
 1404127,jwt/ruby-jwt,Ruby,8
 103766152,github/explore,Ruby,22
-253024215,hahwul/WebHackersWeapons,Ruby,68
+253024215,hahwul/WebHackersWeapons,Ruby,64
 61203,Shopify/shopify_app,Ruby,5
 225463,Shopify/shopify-api-ruby,Ruby,1
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
