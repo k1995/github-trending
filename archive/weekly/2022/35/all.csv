@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,1216
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,903
-67186968,chinese-poetry/chinese-poetry,JavaScript,217
-169677297,vlang/v,V,225
-39840932,google/googletest,C++,165
-479924503,The-Run-Philosophy-Organization/run,,422
-149001365,doocs/leetcode,Java,1051
-523379232,CompVis/stable-diffusion,Jupyter Notebook,4694
-387326890,xinntao/Real-ESRGAN,Python,459
-468515960,CodeEditApp/CodeEdit,Swift,964
-266417772,pittcsc/Summer2023-Internships,Python,441
-510607652,pocketbase/pocketbase,Go,817
-162405963,gradio-app/gradio,Python,330
-394541647,OpenEthan/SMSBoom,Python,732
-395283401,kubescape/kubescape,Go,150
+21737465,sindresorhus/awesome,,1217
+36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,1274
+32484381,ripienaar/free-for-dev,HTML,1755
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,918
+169677297,vlang/v,V,217
+39840932,google/googletest,C++,166
+123303402,python-poetry/poetry,Python,277
+479924503,The-Run-Philosophy-Organization/run,,420
+149001365,doocs/leetcode,Java,1016
+523379232,CompVis/stable-diffusion,Jupyter Notebook,4732
+387326890,xinntao/Real-ESRGAN,Python,461
+468515960,CodeEditApp/CodeEdit,Swift,1003
+453717720,AykutSarac/jsoncrack.com,TypeScript,2765
+394541647,OpenEthan/SMSBoom,Python,736
+66670819,apify/crawlee,TypeScript,1388
 498011141,huggingface/diffusers,Python,964
-166304026,BishopFox/sliver,Go,362
-436658287,surrealdb/surrealdb,Rust,584
-527719753,cemu-project/Cemu,C++,845
-516904877,google-research/multinerf,Python,371
-388946490,facebookincubator/velox,C++,222
-523544748,snesrev/zelda3,C,350
-524596709,LSPosed/MagiskOnWSALocal,Shell,256
+519577891,upscayl/upscayl,JavaScript,3177
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,3047
+521747987,rxrw/daily_morning,Python,2648
+527719753,cemu-project/Cemu,C++,798
+388946490,facebookincubator/velox,C++,230
+524596709,LSPosed/MagiskOnWSALocal,Shell,251
+523544748,snesrev/zelda3,C,335
 520601970,rinongal/textual_inversion,Jupyter Notebook,318
-527767366,digitalinnovationone/semana-frontend-mundo-invertido,HTML,41
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,139
