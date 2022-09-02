@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,88
-36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,244
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,233
+31792824,flutter/flutter,Dart,95
+36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,250
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,241
 9754983,eugenp/tutorials,Java,21
-39840932,google/googletest,C++,41
-17372733,OAI/OpenAPI-Specification,JavaScript,30
-308770,heartcombo/devise,Ruby,18
-123303402,python-poetry/poetry,Python,85
-523379232,CompVis/stable-diffusion,Jupyter Notebook,707
-468515960,CodeEditApp/CodeEdit,Swift,284
-87699760,vulhub/vulhub,Dockerfile,84
-399495186,tiangolo/sqlmodel,Python,85
-241176242,girliemac/a-picture-is-worth-a-1000-words,,169
-159385677,priyankavergadia/google-cloud-4-words,,64
-99919302,apache/doris,C++,57
-440244590,CompVis/latent-diffusion,Jupyter Notebook,49
+39840932,google/googletest,C++,48
+17372733,OAI/OpenAPI-Specification,JavaScript,33
+308770,heartcombo/devise,Ruby,19
+123303402,python-poetry/poetry,Python,97
+523379232,CompVis/stable-diffusion,Jupyter Notebook,720
+468515960,CodeEditApp/CodeEdit,Swift,276
+87699760,vulhub/vulhub,Dockerfile,82
+399495186,tiangolo/sqlmodel,Python,89
+241176242,girliemac/a-picture-is-worth-a-1000-words,,163
+159385677,priyankavergadia/google-cloud-4-words,,81
+99919302,apache/doris,C++,65
+440244590,CompVis/latent-diffusion,Jupyter Notebook,56
 39093389,Azure/azure-rest-api-specs,TypeScript,7
-162015573,EvanLi/Github-Ranking,Python,115
-286403281,mstrYoda/kubernetes-kitap,,111
-528167656,bes-dev/stable_diffusion.openvino,Python,139
-520680969,apple/swift-book,Markdown,150
-529476628,Joshua-Ashton/VPhysics-Jolt,C++,92
-528629042,altryne/awesome-ai-art-image-synthesis,,133
-530609478,total-typescript/typescript-generics-tutorial,TypeScript,101
-530052872,altryne/sd-webui-colab,Jupyter Notebook,40
+162015573,EvanLi/Github-Ranking,Python,120
+286403281,mstrYoda/kubernetes-kitap,,113
+528167656,bes-dev/stable_diffusion.openvino,Python,136
+520680969,apple/swift-book,Markdown,155
+529476628,Joshua-Ashton/VPhysics-Jolt,C++,80
+528629042,altryne/awesome-ai-art-image-synthesis,,152
+530609478,total-typescript/typescript-generics-tutorial,TypeScript,110
+530052872,altryne/sd-webui-colab,Jupyter Notebook,41
