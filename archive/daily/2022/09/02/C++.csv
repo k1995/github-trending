@@ -1,17 +1,17 @@
 id,name,lang,new stars
-44838949,apple/swift,C++,13
+44838949,apple/swift,C++,12
 39840932,google/googletest,C++,49
-4524181,facebook/folly,C++,10
-34777562,ossrs/srs,C++,12
+4524181,facebook/folly,C++,9
+34777562,ossrs/srs,C++,13
 7056202,fmtlib/fmt,C++,15
-437245741,dragonflydb/dragonfly,C++,57
+437245741,dragonflydb/dragonfly,C++,56
 310611,apache/thrift,C++,4
 5909706,yhirose/cpp-httplib,C++,4
-14627445,s3fs-fuse/s3fs-fuse,C++,4
-138754790,duckdb/duckdb,C++,53
+14627445,s3fs-fuse/s3fs-fuse,C++,3
+138754790,duckdb/duckdb,C++,57
 39211337,flutter/engine,C++,10
-184657328,NVIDIA/TensorRT,C++,6
-99919302,apache/doris,C++,92
+184657328,NVIDIA/TensorRT,C++,7
+99919302,apache/doris,C++,89
 439491516,ange-yaghi/engine-sim,C++,144
 153097643,openvinotoolkit/openvino,C++,5
 70434365,obsproject/obs-websocket,C++,3
@@ -19,7 +19,7 @@ id,name,lang,new stars
 38064932,KhronosGroup/glslang,C++,0
 52400453,IntelRealSense/realsense-ros,C++,0
 207663235,cmu-db/bustub,C++,7
-388946490,facebookincubator/velox,C++,74
+388946490,facebookincubator/velox,C++,59
 20296703,eProsima/Fast-DDS,C++,1
 404724835,hku-mars/r3live,C++,0
 68405620,COVESA/vsomeip,C++,0
