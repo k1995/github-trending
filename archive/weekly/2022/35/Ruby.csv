@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,68
+8514,rails/rails,Ruby,67
 7569578,discourse/discourse,Ruby,127
 52281283,mastodon/mastodon,Ruby,62
-308770,heartcombo/devise,Ruby,52
-21696302,matteocrippa/awesome-swift,Ruby,44
-37382858,kilimchoi/engineering-blogs,Ruby,193
-538746,ruby/ruby,Ruby,22
-3195124,mperham/sidekiq,Ruby,19
-88740103,postalserver/postal,Ruby,37
+308770,heartcombo/devise,Ruby,55
+21696302,matteocrippa/awesome-swift,Ruby,46
+37382858,kilimchoi/engineering-blogs,Ruby,196
+538746,ruby/ruby,Ruby,20
+3195124,mperham/sidekiq,Ruby,18
+88740103,postalserver/postal,Ruby,39
 96395,faker-ruby/faker,Ruby,22
 1725199,github/linguist,Ruby,29
 275604,resque/resque,Ruby,8
-47087,carrierwaveuploader/carrierwave,Ruby,3
+47087,carrierwaveuploader/carrierwave,Ruby,2
 6529205,varvet/pundit,Ruby,10
 1314319,instructure/canvas-lms,Ruby,17
 137805,redis/redis-rb,Ruby,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 200302808,ViewComponent/view_component,Ruby,14
 253024215,hahwul/WebHackersWeapons,Ruby,37
 61203,Shopify/shopify_app,Ruby,4
-209731662,ruby/debug,Ruby,4
+209731662,ruby/debug,Ruby,5
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
 365723058,learn-co-curriculum/phase-4-creating-a-rails-api,Ruby,0
