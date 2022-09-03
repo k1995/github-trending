@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,64
-13233158,obsproject/obs-studio,C,86
-5101141,stedolan/jq,C,10
-102578345,coolsnowwolf/lede,C,19
+2325298,torvalds/linux,C,69
+13233158,obsproject/obs-studio,C,84
+5101141,stedolan/jq,C,9
+102578345,coolsnowwolf/lede,C,17
 34921116,iovisor/bcc,C,16
 84240850,timescale/timescaledb,C,9
 90320494,ish-app/ish,C,5
@@ -11,16 +11,16 @@ id,name,lang,new stars
 5870069,edenhill/librdkafka,C,3
 44781140,greenplum-db/gpdb,C,1
 23007417,colmap/colmap,C,6
-385037052,ahrm/sioyek,C,76
+385037052,ahrm/sioyek,C,78
 6687936,Mbed-TLS/mbedtls,C,0
-27359183,guanzhi/GmSSL,C,23
+27359183,guanzhi/GmSSL,C,22
 189044704,AFLplusplus/AFLplusplus,C,4
-3276860,ThrowTheSwitch/Unity,C,3
+3276860,ThrowTheSwitch/Unity,C,2
 71643008,Palakis/obs-ndi,C,5
 28928522,wolfSSL/wolfssl,C,8
 24571059,ARMmbed/DAPLink,C,7
-336719229,TrungNguyen1909/qemu-t8030,C,58
+336719229,TrungNguyen1909/qemu-t8030,C,55
 190275430,libusb/hidapi,C,3
-483170176,StaZhu/enable-chromium-hevc-hardware-decoding,C,141
+483170176,StaZhu/enable-chromium-hevc-hardware-decoding,C,143
 522642478,sipeed/TinyMaix,C,8
 526863912,hepingood/mpu9250,C,8
