@@ -1,10 +1,10 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,4
 27442967,fastlane/fastlane,Ruby,6
-481872,hashicorp/vagrant,Ruby,6
+481872,hashicorp/vagrant,Ruby,7
 308770,heartcombo/devise,Ruby,8
-73648678,forem/forem,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,5
+73648678,forem/forem,Ruby,3
+202291859,chatwoot/chatwoot,Ruby,4
 1090311,elastic/logstash,Ruby,1
 1918677,fluent/fluentd,Ruby,3
 96395,faker-ruby/faker,Ruby,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 1795802,Shopify/money,Ruby,0
 241714553,Shopify/app_profiler,Ruby,0
-421445876,cuber-cloud/cuber-gem,Ruby,4
+421445876,cuber-cloud/cuber-gem,Ruby,3
 526362201,umd-cmsc330/fall2022,Ruby,2

@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,149
+31792824,flutter/flutter,Dart,124
 132464395,Snailclimb/JavaGuide,Java,52
-80945428,nestjs/nest,TypeScript,134
-42489829,rust-lang/rustlings,Rust,51
+80945428,nestjs/nest,TypeScript,136
+42489829,rust-lang/rustlings,Rust,65
 152870372,ruanyf/weekly,,27
-60243197,nextcloud/server,PHP,15
-523379232,CompVis/stable-diffusion,Jupyter Notebook,948
-468515960,CodeEditApp/CodeEdit,Swift,216
-268424739,helix-editor/helix,Rust,185
-241176242,girliemac/a-picture-is-worth-a-1000-words,,251
-335164964,dataease/dataease,Java,22
-511187726,WongKinYiu/yolov7,Jupyter Notebook,20
-463337778,alembics/disco-diffusion,Jupyter Notebook,34
-320636477,WebKit/WebKit,,146
-301573344,community/community,,38
-107555654,vmware-tanzu/kubeapps,Go,2
-162015573,EvanLi/Github-Ranking,Python,105
-39093389,Azure/azure-rest-api-specs,TypeScript,10
-524886955,opcodesio/log-viewer,PHP,133
-241095326,adap/flower,Python,3
-530393473,alyssaxuu/motionity,JavaScript,474
-520680969,apple/swift-book,Markdown,164
-476918521,alibaba/EasyCV,Python,39
-530609478,total-typescript/typescript-generics-tutorial,TypeScript,42
-528766495,TuGraph-db/tugraph-db,C++,30
+60243197,nextcloud/server,PHP,9
+523379232,CompVis/stable-diffusion,Jupyter Notebook,609
+468515960,CodeEditApp/CodeEdit,Swift,305
+268424739,helix-editor/helix,Rust,195
+241176242,girliemac/a-picture-is-worth-a-1000-words,,271
+335164964,dataease/dataease,Java,10
+511187726,WongKinYiu/yolov7,Jupyter Notebook,28
+463337778,alembics/disco-diffusion,Jupyter Notebook,33
+320636477,WebKit/WebKit,,141
+301573344,community/community,,42
+107555654,vmware-tanzu/kubeapps,Go,30
+162015573,EvanLi/Github-Ranking,Python,51
+39093389,Azure/azure-rest-api-specs,TypeScript,2
+524886955,opcodesio/log-viewer,PHP,208
+241095326,adap/flower,Python,63
+530393473,alyssaxuu/motionity,JavaScript,457
+520680969,apple/swift-book,Markdown,99
+476918521,alibaba/EasyCV,Python,20
+530609478,total-typescript/typescript-generics-tutorial,TypeScript,69
+528766495,TuGraph-db/tugraph-db,C++,29
