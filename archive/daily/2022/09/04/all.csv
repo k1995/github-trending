@@ -1,26 +1,26 @@
 id,name,lang,new stars
-31792824,flutter/flutter,Dart,148
-132464395,Snailclimb/JavaGuide,Java,59
-80945428,nestjs/nest,TypeScript,87
-42489829,rust-lang/rustlings,Rust,94
-152870372,ruanyf/weekly,,57
-60243197,nextcloud/server,PHP,87
-523379232,CompVis/stable-diffusion,Jupyter Notebook,563
-468515960,CodeEditApp/CodeEdit,Swift,144
-268424739,helix-editor/helix,Rust,190
-241176242,girliemac/a-picture-is-worth-a-1000-words,,163
-335164964,dataease/dataease,Java,54
-511187726,WongKinYiu/yolov7,Jupyter Notebook,48
+31792824,flutter/flutter,Dart,140
+132464395,Snailclimb/JavaGuide,Java,54
+80945428,nestjs/nest,TypeScript,80
+42489829,rust-lang/rustlings,Rust,125
+152870372,ruanyf/weekly,,71
+60243197,nextcloud/server,PHP,85
+523379232,CompVis/stable-diffusion,Jupyter Notebook,562
+468515960,CodeEditApp/CodeEdit,Swift,148
+268424739,helix-editor/helix,Rust,189
+241176242,girliemac/a-picture-is-worth-a-1000-words,,197
+335164964,dataease/dataease,Java,60
+511187726,WongKinYiu/yolov7,Jupyter Notebook,47
 463337778,alembics/disco-diffusion,Jupyter Notebook,36
-320636477,WebKit/WebKit,,141
-301573344,community/community,,43
-107555654,vmware-tanzu/kubeapps,Go,147
-162015573,EvanLi/Github-Ranking,Python,206
-39093389,Azure/azure-rest-api-specs,TypeScript,24
-530393473,alyssaxuu/motionity,JavaScript,289
-524886955,opcodesio/log-viewer,PHP,104
-241095326,adap/flower,Python,75
-520680969,apple/swift-book,Markdown,68
-476918521,alibaba/EasyCV,Python,84
+320636477,WebKit/WebKit,,185
+301573344,community/community,,53
+107555654,vmware-tanzu/kubeapps,Go,148
+162015573,EvanLi/Github-Ranking,Python,151
+39093389,Azure/azure-rest-api-specs,TypeScript,21
+530393473,alyssaxuu/motionity,JavaScript,312
+524886955,opcodesio/log-viewer,PHP,105
+241095326,adap/flower,Python,90
+520680969,apple/swift-book,Markdown,63
+476918521,alibaba/EasyCV,Python,75
 530609478,total-typescript/typescript-generics-tutorial,TypeScript,86
-528766495,TuGraph-db/tugraph-db,C++,59
+528766495,TuGraph-db/tugraph-db,C++,71
