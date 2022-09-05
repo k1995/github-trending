@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,425
-13233158,obsproject/obs-studio,C,470
-102578345,coolsnowwolf/lede,C,107
-29759715,facebook/zstd,C,134
+2325298,torvalds/linux,C,426
+13233158,obsproject/obs-studio,C,454
+102578345,coolsnowwolf/lede,C,106
+29759715,facebook/zstd,C,136
 34921116,iovisor/bcc,C,75
 93205465,apple/darwin-xnu,C,33
 70127218,espressif/arduino-esp32,C,36
 3199002,raspberrypi/linux,C,24
-41107037,unicorn-engine/unicorn,C,118
-34431834,xmake-io/xmake,C,47
+41107037,unicorn-engine/unicorn,C,119
+34431834,xmake-io/xmake,C,45
 59676171,Klipper3d/klipper,C,27
-146397768,ithewei/libhv,C,37
+146397768,ithewei/libhv,C,36
 2359378,madler/zlib,C,20
 13405986,LongSoft/UEFITool,C,25
-151064439,ExpressLRS/ExpressLRS,C,21
+151064439,ExpressLRS/ExpressLRS,C,20
 15333809,open62541/open62541,C,11
 646423,pgbouncer/pgbouncer,C,15
 283149635,tanersener/ffmpeg-kit,C,44
@@ -22,5 +22,5 @@ id,name,lang,new stars
 424947551,alibaba/xquic,C,17
 207354223,FreeRTOS/FreeRTOS-Kernel,C,23
 152338895,libbpf/libbpf,C,22
-523544748,snesrev/zelda3,C,247
+523544748,snesrev/zelda3,C,249
 526863912,hepingood/mpu9250,C,72
