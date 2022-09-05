@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,1308
-36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,1355
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,974
-39840932,google/googletest,C++,171
-123303402,python-poetry/poetry,Python,420
-479924503,The-Run-Philosophy-Organization/run,,290
-149001365,doocs/leetcode,Java,554
-523379232,CompVis/stable-diffusion,Jupyter Notebook,5435
-468515960,CodeEditApp/CodeEdit,Swift,1452
-387326890,xinntao/Real-ESRGAN,Python,389
-453717720,AykutSarac/jsoncrack.com,TypeScript,2574
-394541647,OpenEthan/SMSBoom,Python,687
-66670819,apify/crawlee,TypeScript,490
-498011141,huggingface/diffusers,Python,1005
-521747987,rxrw/daily_morning,Python,1400
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1204
-166304026,BishopFox/sliver,Go,331
-320818962,teivah/100-go-mistakes,Go,755
-527719753,cemu-project/Cemu,C++,333
-528378201,hlky/stable-diffusion-webui,Python,1155
-388946490,facebookincubator/velox,C++,295
+32484381,ripienaar/free-for-dev,HTML,1416
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,976
+39840932,google/googletest,C++,172
+123303402,python-poetry/poetry,Python,425
+479924503,The-Run-Philosophy-Organization/run,,292
+149001365,doocs/leetcode,Java,532
+523379232,CompVis/stable-diffusion,Jupyter Notebook,5470
+468515960,CodeEditApp/CodeEdit,Swift,1460
+387326890,xinntao/Real-ESRGAN,Python,387
+453717720,AykutSarac/jsoncrack.com,TypeScript,2544
+394541647,OpenEthan/SMSBoom,Python,662
+498011141,huggingface/diffusers,Python,998
+320636477,WebKit/WebKit,,1578
+519577891,upscayl/upscayl,JavaScript,2134
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1199
+166304026,BishopFox/sliver,Go,326
+440244590,CompVis/latent-diffusion,Jupyter Notebook,333
+320818962,teivah/100-go-mistakes,Go,715
+528378201,hlky/stable-diffusion-webui,Python,1154
+388946490,facebookincubator/velox,C++,298
+286403281,mstrYoda/kubernetes-kitap,,528
+523244338,hunar4321/particle-life,C++,780
 524596709,LSPosed/MagiskOnWSALocal,Shell,264
 520601970,rinongal/textual_inversion,Jupyter Notebook,255
-506033104,crowsonkb/k-diffusion,Python,64
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,77
+506033104,crowsonkb/k-diffusion,Python,65
