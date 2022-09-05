@@ -1,17 +1,17 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,49
 65252,jekyll/jekyll,Ruby,46
-7569578,discourse/discourse,Ruby,51
-8681349,huginn/huginn,Ruby,64
-2293158,rapid7/metasploit-framework,Ruby,66
-481872,hashicorp/vagrant,Ruby,40
+7569578,discourse/discourse,Ruby,53
+8681349,huginn/huginn,Ruby,62
+2293158,rapid7/metasploit-framework,Ruby,67
+481872,hashicorp/vagrant,Ruby,41
 308770,heartcombo/devise,Ruby,60
-37382858,kilimchoi/engineering-blogs,Ruby,208
-538746,ruby/ruby,Ruby,19
-3195124,mperham/sidekiq,Ruby,20
+37382858,kilimchoi/engineering-blogs,Ruby,210
+538746,ruby/ruby,Ruby,18
+3195124,mperham/sidekiq,Ruby,19
 96395,faker-ruby/faker,Ruby,25
-1725199,github/linguist,Ruby,26
-15435,Shopify/liquid,Ruby,25
+1725199,github/linguist,Ruby,25
+15435,Shopify/liquid,Ruby,24
 275604,resque/resque,Ruby,12
 6529205,varvet/pundit,Ruby,8
 1314319,instructure/canvas-lms,Ruby,19
@@ -19,7 +19,7 @@ id,name,lang,new stars
 229006,mileszs/wicked_pdf,Ruby,2
 103766152,github/explore,Ruby,14
 138776049,sorbet/sorbet,Ruby,6
-200302808,ViewComponent/view_component,Ruby,11
+200302808,ViewComponent/view_component,Ruby,10
 10088951,TheOdinProject/theodinproject,Ruby,20
 34840276,elastic/ansible-elasticsearch,Ruby,2
 188880371,Shopify/tapioca,Ruby,2
