@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,1388
-36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,1216
+21737465,sindresorhus/awesome,,1380
 123303402,python-poetry/poetry,Python,460
-74962515,gchq/CyberChef,JavaScript,922
-523379232,CompVis/stable-diffusion,Jupyter Notebook,5829
-240215314,docker/awesome-compose,HTML,705
-120425779,lapce/lapce,Rust,993
-468515960,CodeEditApp/CodeEdit,Swift,1253
-387326890,xinntao/Real-ESRGAN,Python,361
-410749029,spacedriveapp/spacedrive,TypeScript,207
-453717720,AykutSarac/jsoncrack.com,TypeScript,1666
-394541647,OpenEthan/SMSBoom,Python,381
-498011141,huggingface/diffusers,Python,908
-320636477,WebKit/WebKit,,1829
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,976
-166304026,BishopFox/sliver,Go,286
-440244590,CompVis/latent-diffusion,Jupyter Notebook,311
-320818962,teivah/100-go-mistakes,Go,367
-528378201,sd-webui/stable-diffusion-webui,Python,1028
-388946490,facebookincubator/velox,C++,329
-523244338,hunar4321/particle-life,HTML,412
-524596709,LSPosed/MagiskOnWSALocal,Shell,311
-520601970,rinongal/textual_inversion,Jupyter Notebook,216
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,371
-506033104,crowsonkb/k-diffusion,Python,90
+523379232,CompVis/stable-diffusion,Jupyter Notebook,5817
+74962515,gchq/CyberChef,JavaScript,934
+240215314,docker/awesome-compose,HTML,707
+120425779,lapce/lapce,Rust,1052
+468515960,CodeEditApp/CodeEdit,Swift,1218
+387326890,xinntao/Real-ESRGAN,Python,370
+87699760,vulhub/vulhub,Dockerfile,297
+453717720,AykutSarac/jsoncrack.com,TypeScript,1615
+394541647,OpenEthan/SMSBoom,Python,369
+327089870,payloadcms/payload,TypeScript,546
+335164964,dataease/dataease,Java,345
+498011141,huggingface/diffusers,Python,877
+320636477,WebKit/WebKit,,1837
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,979
+166304026,BishopFox/sliver,Go,271
+440244590,CompVis/latent-diffusion,Jupyter Notebook,310
+528378201,sd-webui/stable-diffusion-webui,Python,1014
+388946490,facebookincubator/velox,C++,332
+523244338,hunar4321/particle-life,HTML,390
+524596709,LSPosed/MagiskOnWSALocal,Shell,307
+520601970,rinongal/textual_inversion,Jupyter Notebook,217
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,386
+528167656,bes-dev/stable_diffusion.openvino,Python,353
