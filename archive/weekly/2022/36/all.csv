@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,1359
-123303402,python-poetry/poetry,Python,458
-523379232,CompVis/stable-diffusion,Jupyter Notebook,5796
-74962515,gchq/CyberChef,JavaScript,946
-240215314,docker/awesome-compose,HTML,670
-120425779,lapce/lapce,Rust,1175
-468515960,CodeEditApp/CodeEdit,Swift,1151
-387326890,xinntao/Real-ESRGAN,Python,428
-87699760,vulhub/vulhub,Dockerfile,280
-453717720,AykutSarac/jsoncrack.com,TypeScript,1551
-394541647,OpenEthan/SMSBoom,Python,346
-327089870,payloadcms/payload,TypeScript,537
+21737465,sindresorhus/awesome,,1349
+123303402,python-poetry/poetry,Python,459
+523379232,CompVis/stable-diffusion,Jupyter Notebook,5813
+74962515,gchq/CyberChef,JavaScript,950
+240215314,docker/awesome-compose,HTML,653
+120425779,lapce/lapce,Rust,1226
+468515960,CodeEditApp/CodeEdit,Swift,1123
+387326890,xinntao/Real-ESRGAN,Python,440
+87699760,vulhub/vulhub,Dockerfile,274
+453717720,AykutSarac/jsoncrack.com,TypeScript,1539
+394541647,OpenEthan/SMSBoom,Python,344
+327089870,payloadcms/payload,TypeScript,470
 335164964,dataease/dataease,Java,351
-498011141,huggingface/diffusers,Python,811
-320636477,WebKit/WebKit,,1851
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1031
-166304026,BishopFox/sliver,Go,254
-440244590,CompVis/latent-diffusion,Jupyter Notebook,310
-528378201,sd-webui/stable-diffusion-webui,Python,987
-388946490,facebookincubator/velox,C++,327
-523244338,hunar4321/particle-life,HTML,378
-524596709,LSPosed/MagiskOnWSALocal,Shell,309
+498011141,huggingface/diffusers,Python,795
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1045
+320636477,WebKit/WebKit,,1799
+166304026,BishopFox/sliver,Go,253
+440244590,CompVis/latent-diffusion,Jupyter Notebook,309
+528378201,sd-webui/stable-diffusion-webui,Python,998
+388946490,facebookincubator/velox,C++,316
+523244338,hunar4321/particle-life,HTML,372
+524596709,LSPosed/MagiskOnWSALocal,Shell,306
 520601970,rinongal/textual_inversion,Jupyter Notebook,214
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,474
-528167656,bes-dev/stable_diffusion.openvino,Python,307
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,500
+528167656,bes-dev/stable_diffusion.openvino,Python,294

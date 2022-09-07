@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,131
-123458551,jackfrued/Python-100-Days,Python,154
-33884891,apache/airflow,Python,45
+83222441,donnemartin/system-design-primer,Python,121
+123458551,jackfrued/Python-100-Days,Python,157
+33884891,apache/airflow,Python,50
 152870372,ruanyf/weekly,,144
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1240
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1115
 120425779,lapce/lapce,Rust,464
-280363952,umami-software/umami,JavaScript,106
-241176242,girliemac/a-picture-is-worth-a-1000-words,,242
-265612440,coqui-ai/TTS,Python,61
+280363952,umami-software/umami,JavaScript,146
+241176242,girliemac/a-picture-is-worth-a-1000-words,,230
+265612440,coqui-ai/TTS,Python,79
 53548867,dbt-labs/dbt-core,Python,50
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,184
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,197
 107555654,vmware-tanzu/kubeapps,Go,135
-256401220,alexeygrigorev/mlbookcamp-code,Jupyter Notebook,86
+256401220,alexeygrigorev/mlbookcamp-code,Jupyter Notebook,80
 42580311,rolling-scopes-school/tasks,JavaScript,15
-532580161,Sanakan8472/copy-dialog-lunar-lander,C#,342
-153316914,BehaviorTree/BehaviorTree.CPP,C++,45
-531976789,opa334/TrollStore,C,150
+532580161,Sanakan8472/copy-dialog-lunar-lander,C#,323
+153316914,BehaviorTree/BehaviorTree.CPP,C++,50
+531976789,opa334/TrollStore,C,143
 518770724,Nickyie/Cybersecurity-Resources,,28
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,173
-442194005,MaikKlein/unreal-rust,Rust,152
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,198
+442194005,MaikKlein/unreal-rust,Rust,161
 450114994,valence-rs/valence,Rust,253
-506482582,devsuperior/sds-dsmeta,,16
-532511232,JoelGMSec/EvilnoVNC,JavaScript,55
-517191221,DroidKaigi/conference-app-2022,Kotlin,38
-531675821,gndx/javascript-challenges,JavaScript,13
+506482582,devsuperior/sds-dsmeta,,18
+532511232,JoelGMSec/EvilnoVNC,JavaScript,71
+517191221,DroidKaigi/conference-app-2022,Kotlin,44
+531675821,gndx/javascript-challenges,JavaScript,18
