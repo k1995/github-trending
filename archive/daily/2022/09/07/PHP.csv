@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1864363,composer/composer,PHP,8
-60243197,nextcloud/server,PHP,11
-82238168,monicahq/monica,PHP,6
+60243197,nextcloud/server,PHP,10
+82238168,monicahq/monica,PHP,7
 1631570,nikic/PHP-Parser,PHP,6
 12615154,barryvdh/laravel-debugbar,PHP,5
 10157178,egulias/EmailValidator,PHP,7
@@ -10,17 +10,17 @@ id,name,lang,new stars
 2699935,squizlabs/PHP_CodeSniffer,PHP,4
 622166,FriendsOfPHP/Goutte,PHP,2
 16238673,kanboard/kanboard,PHP,3
-6763587,PrestaShop/PrestaShop,PHP,68
-97311017,rectorphp/rector,PHP,5
+6763587,PrestaShop/PrestaShop,PHP,70
+97311017,rectorphp/rector,PHP,6
 76064827,mailcow/mailcow-dockerized,PHP,8
 9826184,elastic/elasticsearch-php,PHP,1
 41463886,codeigniter4/CodeIgniter4,PHP,3
 400984450,kuaifan/dootask,PHP,3
-12063996,osTicket/osTicket,PHP,2
+12063996,osTicket/osTicket,PHP,1
 175168121,changeweb/Unifiedtransform,PHP,2
 3193843,drush-ops/drush,PHP,1
 503236212,laravel/pint,PHP,5
-143975804,LycheeOrg/Lychee,PHP,8
-174021137,inertiajs/pingcrm,PHP,2
-524886955,opcodesio/log-viewer,PHP,65
+143975804,LycheeOrg/Lychee,PHP,7
+174021137,inertiajs/pingcrm,PHP,1
+524886955,opcodesio/log-viewer,PHP,66
 39698170,pi-hole/AdminLTE,PHP,4
