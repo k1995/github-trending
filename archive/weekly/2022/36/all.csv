@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,1380
+21737465,sindresorhus/awesome,,1362
 123303402,python-poetry/poetry,Python,460
-523379232,CompVis/stable-diffusion,Jupyter Notebook,5817
-74962515,gchq/CyberChef,JavaScript,934
-240215314,docker/awesome-compose,HTML,707
-120425779,lapce/lapce,Rust,1052
-468515960,CodeEditApp/CodeEdit,Swift,1218
-387326890,xinntao/Real-ESRGAN,Python,370
+523379232,CompVis/stable-diffusion,Jupyter Notebook,5801
+74962515,gchq/CyberChef,JavaScript,943
+240215314,docker/awesome-compose,HTML,703
+120425779,lapce/lapce,Rust,1121
+468515960,CodeEditApp/CodeEdit,Swift,1184
+387326890,xinntao/Real-ESRGAN,Python,413
 87699760,vulhub/vulhub,Dockerfile,297
-453717720,AykutSarac/jsoncrack.com,TypeScript,1615
-394541647,OpenEthan/SMSBoom,Python,369
-327089870,payloadcms/payload,TypeScript,546
-335164964,dataease/dataease,Java,345
-498011141,huggingface/diffusers,Python,877
-320636477,WebKit/WebKit,,1837
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,979
-166304026,BishopFox/sliver,Go,271
-440244590,CompVis/latent-diffusion,Jupyter Notebook,310
-528378201,sd-webui/stable-diffusion-webui,Python,1014
-388946490,facebookincubator/velox,C++,332
-523244338,hunar4321/particle-life,HTML,390
-524596709,LSPosed/MagiskOnWSALocal,Shell,307
-520601970,rinongal/textual_inversion,Jupyter Notebook,217
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,386
-528167656,bes-dev/stable_diffusion.openvino,Python,353
+453717720,AykutSarac/jsoncrack.com,TypeScript,1571
+394541647,OpenEthan/SMSBoom,Python,359
+327089870,payloadcms/payload,TypeScript,547
+335164964,dataease/dataease,Java,347
+498011141,huggingface/diffusers,Python,842
+320636477,WebKit/WebKit,,1843
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1007
+166304026,BishopFox/sliver,Go,257
+440244590,CompVis/latent-diffusion,Jupyter Notebook,312
+528378201,sd-webui/stable-diffusion-webui,Python,999
+388946490,facebookincubator/velox,C++,333
+523244338,hunar4321/particle-life,HTML,379
+524596709,LSPosed/MagiskOnWSALocal,Shell,311
+520601970,rinongal/textual_inversion,Jupyter Notebook,213
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,433
+528167656,bes-dev/stable_diffusion.openvino,Python,328
