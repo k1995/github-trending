@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,121
-123458551,jackfrued/Python-100-Days,Python,145
-33884891,apache/airflow,Python,34
-152870372,ruanyf/weekly,,137
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1229
-120425779,lapce/lapce,Rust,450
-280363952,umami-software/umami,JavaScript,94
-241176242,girliemac/a-picture-is-worth-a-1000-words,,245
-265612440,coqui-ai/TTS,Python,53
-53548867,dbt-labs/dbt-core,Python,41
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,175
-107555654,vmware-tanzu/kubeapps,Go,140
-256401220,alexeygrigorev/mlbookcamp-code,Jupyter Notebook,95
-42580311,rolling-scopes-school/tasks,JavaScript,13
-532580161,Sanakan8472/copy-dialog-lunar-lander,C#,349
-153316914,BehaviorTree/BehaviorTree.CPP,C++,34
-531976789,opa334/TrollStore,C,156
-518770724,Nickyie/Cybersecurity-Resources,,23
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,164
-442194005,MaikKlein/unreal-rust,Rust,146
-450114994,valence-rs/valence,Rust,262
-506482582,devsuperior/sds-dsmeta,,19
-517191221,DroidKaigi/conference-app-2022,Kotlin,34
-532511232,JoelGMSec/EvilnoVNC,JavaScript,45
-531675821,gndx/javascript-challenges,JavaScript,12
+83222441,donnemartin/system-design-primer,Python,131
+123458551,jackfrued/Python-100-Days,Python,154
+33884891,apache/airflow,Python,45
+152870372,ruanyf/weekly,,144
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1240
+120425779,lapce/lapce,Rust,464
+280363952,umami-software/umami,JavaScript,106
+241176242,girliemac/a-picture-is-worth-a-1000-words,,242
+265612440,coqui-ai/TTS,Python,61
+53548867,dbt-labs/dbt-core,Python,50
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,184
+107555654,vmware-tanzu/kubeapps,Go,135
+256401220,alexeygrigorev/mlbookcamp-code,Jupyter Notebook,86
+42580311,rolling-scopes-school/tasks,JavaScript,15
+532580161,Sanakan8472/copy-dialog-lunar-lander,C#,342
+153316914,BehaviorTree/BehaviorTree.CPP,C++,45
+531976789,opa334/TrollStore,C,150
+518770724,Nickyie/Cybersecurity-Resources,,28
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,173
+442194005,MaikKlein/unreal-rust,Rust,152
+450114994,valence-rs/valence,Rust,253
+506482582,devsuperior/sds-dsmeta,,16
+532511232,JoelGMSec/EvilnoVNC,JavaScript,55
+517191221,DroidKaigi/conference-app-2022,Kotlin,38
+531675821,gndx/javascript-challenges,JavaScript,13
