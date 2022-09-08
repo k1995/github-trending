@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,1337
-123303402,python-poetry/poetry,Python,470
-523379232,CompVis/stable-diffusion,Jupyter Notebook,5864
+74791366,ryanmcdermott/clean-code-javascript,JavaScript,628
+152870372,ruanyf/weekly,,725
+123303402,python-poetry/poetry,Python,462
+1234714,elixir-lang/elixir,Elixir,63
+523379232,CompVis/stable-diffusion,Jupyter Notebook,5887
 74962515,gchq/CyberChef,JavaScript,966
-240215314,docker/awesome-compose,HTML,626
-120425779,lapce/lapce,Rust,1427
-468515960,CodeEditApp/CodeEdit,Swift,1011
-387326890,xinntao/Real-ESRGAN,Python,492
-87699760,vulhub/vulhub,Dockerfile,254
-453717720,AykutSarac/jsoncrack.com,TypeScript,1459
-394541647,OpenEthan/SMSBoom,Python,271
-327089870,payloadcms/payload,TypeScript,407
-335164964,dataease/dataease,Java,378
-498011141,huggingface/diffusers,Python,728
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1132
-320636477,WebKit/WebKit,,1242
-166304026,BishopFox/sliver,Go,209
-440244590,CompVis/latent-diffusion,Jupyter Notebook,305
-528378201,sd-webui/stable-diffusion-webui,Python,1027
-388946490,facebookincubator/velox,C++,305
-523244338,hunar4321/particle-life,HTML,338
-524596709,LSPosed/MagiskOnWSALocal,Shell,287
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,629
-520601970,rinongal/textual_inversion,Jupyter Notebook,209
-528167656,bes-dev/stable_diffusion.openvino,Python,228
+240215314,docker/awesome-compose,HTML,624
+120425779,lapce/lapce,Rust,1473
+468515960,CodeEditApp/CodeEdit,Swift,974
+387326890,xinntao/Real-ESRGAN,Python,501
+87699760,vulhub/vulhub,Dockerfile,244
+453717720,AykutSarac/jsoncrack.com,TypeScript,1455
+327089870,payloadcms/payload,TypeScript,391
+335164964,dataease/dataease,Java,390
+498011141,huggingface/diffusers,Python,720
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1146
+440244590,CompVis/latent-diffusion,Jupyter Notebook,311
+528378201,sd-webui/stable-diffusion-webui,Python,1052
+388946490,facebookincubator/velox,C++,279
+524596709,LSPosed/MagiskOnWSALocal,Shell,285
+520680969,apple/swift-book,Markdown,619
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,666
+520601970,rinongal/textual_inversion,Jupyter Notebook,211
+528167656,bes-dev/stable_diffusion.openvino,Python,213
+506033104,crowsonkb/k-diffusion,Python,81

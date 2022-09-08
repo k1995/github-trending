@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,127
-123458551,jackfrued/Python-100-Days,Python,166
-33884891,apache/airflow,Python,100
-152870372,ruanyf/weekly,,143
-523379232,CompVis/stable-diffusion,Jupyter Notebook,904
-120425779,lapce/lapce,Rust,462
-280363952,umami-software/umami,JavaScript,308
-241176242,girliemac/a-picture-is-worth-a-1000-words,,188
-265612440,coqui-ai/TTS,Python,102
-53548867,dbt-labs/dbt-core,Python,73
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,213
+21289110,vinta/awesome-python,Python,236
+123458551,jackfrued/Python-100-Days,Python,208
+184456251,microsoft/PowerToys,C#,101
+152870372,ruanyf/weekly,,136
+523379232,CompVis/stable-diffusion,Jupyter Notebook,990
+120425779,lapce/lapce,Rust,463
+162276894,Wilfred/difftastic,Rust,394
+221723816,WZMIAOMIAO/deep-learning-for-image-processing,Python,26
+28239455,dotnet/AspNetCore.Docs,C#,8
+190416463,actions/runner-images,PowerShell,13
+53548867,dbt-labs/dbt-core,Python,103
 107555654,vmware-tanzu/kubeapps,Go,116
-256401220,alexeygrigorev/mlbookcamp-code,Jupyter Notebook,79
-42580311,rolling-scopes-school/tasks,JavaScript,23
-532580161,Sanakan8472/copy-dialog-lunar-lander,C#,360
-153316914,BehaviorTree/BehaviorTree.CPP,C++,90
-531976789,opa334/TrollStore,C,140
-518770724,Nickyie/Cybersecurity-Resources,,100
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,280
-442194005,MaikKlein/unreal-rust,Rust,181
-450114994,valence-rs/valence,Rust,204
-532511232,JoelGMSec/EvilnoVNC,JavaScript,144
-506482582,devsuperior/sds-dsmeta,,24
-517191221,DroidKaigi/conference-app-2022,Kotlin,70
-531675821,gndx/javascript-challenges,JavaScript,28
+455229168,immich-app/immich,Dart,99
+93381875,microsoft/SynapseML,Scala,19
+522358431,IdreesInc/Monocraft,,949
+528378201,sd-webui/stable-diffusion-webui,Python,264
+188779637,apache/incubator-streampark,Java,15
+153316914,BehaviorTree/BehaviorTree.CPP,C++,99
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,310
+450114994,valence-rs/valence,Rust,149
+530314795,gskinnerTeam/flutter-wonderous-app,Dart,108
+522822986,zhanymkanov/fastapi-best-practices,,65
+528152092,cmdr2/stable-diffusion-ui,HTML,29
+129476879,ElvisQin/thegibook,TeX,63
+532935306,NotCapengeR/ShowHiddenChannelsReturns,JavaScript,22
