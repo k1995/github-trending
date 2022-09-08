@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,115
+1863329,laravel/laravel,PHP,112
 7548986,laravel/framework,PHP,58
-458058,symfony/symfony,PHP,37
+458058,symfony/symfony,PHP,36
 2579314,fzaninotto/Faker,PHP,20
 60243197,nextcloud/server,PHP,220
 2889328,WordPress/WordPress,PHP,31
@@ -10,17 +10,17 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,17
 2699935,squizlabs/PHP_CodeSniffer,PHP,23
 597887,doctrine/orm,PHP,14
-364315,predis/predis,PHP,16
-42261096,fuzzdb-project/fuzzdb,PHP,26
+364315,predis/predis,PHP,15
+42261096,fuzzdb-project/fuzzdb,PHP,25
 6763587,PrestaShop/PrestaShop,PHP,127
-9791525,digininja/DVWA,PHP,33
-76064827,mailcow/mailcow-dockerized,PHP,32
+9791525,digininja/DVWA,PHP,34
+76064827,mailcow/mailcow-dockerized,PHP,33
 9826184,elastic/elasticsearch-php,PHP,7
-60010673,elementor/elementor,PHP,23
-248372441,filamentphp/filament,PHP,57
-439861,moodle/moodle,PHP,13
+60010673,elementor/elementor,PHP,22
+248372441,filamentphp/filament,PHP,56
+439861,moodle/moodle,PHP,11
 41463886,codeigniter4/CodeIgniter4,PHP,17
-141720301,dr5hn/countries-states-cities-database,PHP,37
+141720301,dr5hn/countries-states-cities-database,PHP,36
 1957456,Dolibarr/dolibarr,PHP,21
-524886955,opcodesio/log-viewer,PHP,700
-491456510,zidansec/CloudPeler,PHP,36
+524886955,opcodesio/log-viewer,PHP,692
+491456510,zidansec/CloudPeler,PHP,34

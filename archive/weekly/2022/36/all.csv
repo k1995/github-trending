@@ -1,26 +1,26 @@
 id,name,lang,new stars
 74791366,ryanmcdermott/clean-code-javascript,JavaScript,622
-152870372,ruanyf/weekly,,739
-123303402,python-poetry/poetry,Python,422
+152870372,ruanyf/weekly,,740
+123303402,python-poetry/poetry,Python,407
 1234714,elixir-lang/elixir,Elixir,68
-523379232,CompVis/stable-diffusion,Jupyter Notebook,5891
+523379232,CompVis/stable-diffusion,Jupyter Notebook,5878
 74962515,gchq/CyberChef,JavaScript,980
 240215314,docker/awesome-compose,HTML,619
-120425779,lapce/lapce,Rust,1520
-468515960,CodeEditApp/CodeEdit,Swift,931
+120425779,lapce/lapce,Rust,1544
+468515960,CodeEditApp/CodeEdit,Swift,904
 387326890,xinntao/Real-ESRGAN,Python,512
-87699760,vulhub/vulhub,Dockerfile,223
-453717720,AykutSarac/jsoncrack.com,TypeScript,1532
+87699760,vulhub/vulhub,Dockerfile,211
+453717720,AykutSarac/jsoncrack.com,TypeScript,1576
 327089870,payloadcms/payload,TypeScript,365
 335164964,dataease/dataease,Java,391
-498011141,huggingface/diffusers,Python,694
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1160
-440244590,CompVis/latent-diffusion,Jupyter Notebook,302
-528378201,sd-webui/stable-diffusion-webui,Python,1111
-388946490,facebookincubator/velox,C++,216
-524596709,LSPosed/MagiskOnWSALocal,Shell,281
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,695
-520680969,apple/swift-book,Markdown,564
-520601970,rinongal/textual_inversion,Jupyter Notebook,206
-528167656,bes-dev/stable_diffusion.openvino,Python,189
-506033104,crowsonkb/k-diffusion,Python,80
+498011141,huggingface/diffusers,Python,692
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1166
+440244590,CompVis/latent-diffusion,Jupyter Notebook,299
+528378201,sd-webui/stable-diffusion-webui,Python,1132
+388946490,facebookincubator/velox,C++,199
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,712
+524596709,LSPosed/MagiskOnWSALocal,Shell,276
+520680969,apple/swift-book,Markdown,553
+520601970,rinongal/textual_inversion,Jupyter Notebook,207
+528167656,bes-dev/stable_diffusion.openvino,Python,177
+506033104,crowsonkb/k-diffusion,Python,79
