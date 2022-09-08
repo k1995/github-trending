@@ -1,6 +1,6 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,419
-156018,redis/redis,C,123
+2325298,torvalds/linux,C,417
+156018,redis/redis,C,122
 36502,git/git,C,95
 13233158,obsproject/obs-studio,C,389
 34921116,iovisor/bcc,C,69
@@ -11,16 +11,16 @@ id,name,lang,new stars
 40504480,mit-pdos/xv6-public,C,34
 41107037,unicorn-engine/unicorn,C,56
 59676171,Klipper3d/klipper,C,25
-23007417,colmap/colmap,C,29
-330008801,libsdl-org/SDL,C,52
-6687936,Mbed-TLS/mbedtls,C,13
+23007417,colmap/colmap,C,30
+330008801,libsdl-org/SDL,C,50
+6687936,Mbed-TLS/mbedtls,C,14
 27359183,guanzhi/GmSSL,C,54
-187042471,koute/bytehound,C,129
+187042471,koute/bytehound,C,131
 6860771,hathach/tinyusb,C,21
 26537135,u-boot/u-boot,C,16
-122993186,remzi-arpacidusseau/ostep-code,C,17
-151064439,ExpressLRS/ExpressLRS,C,23
+122993186,remzi-arpacidusseau/ostep-code,C,18
+151064439,ExpressLRS/ExpressLRS,C,22
 15333809,open62541/open62541,C,14
-336719229,TrungNguyen1909/qemu-t8030,C,177
-526863912,hepingood/mpu9250,C,72
-526170874,Tungstend/HMCL-PE,C,13
+336719229,TrungNguyen1909/qemu-t8030,C,179
+526863912,hepingood/mpu9250,C,71
+526170874,Tungstend/HMCL-PE,C,14

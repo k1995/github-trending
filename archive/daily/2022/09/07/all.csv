@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,121
-123458551,jackfrued/Python-100-Days,Python,157
-33884891,apache/airflow,Python,50
-152870372,ruanyf/weekly,,144
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1115
-120425779,lapce/lapce,Rust,464
-280363952,umami-software/umami,JavaScript,146
-241176242,girliemac/a-picture-is-worth-a-1000-words,,230
-265612440,coqui-ai/TTS,Python,79
-53548867,dbt-labs/dbt-core,Python,50
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,197
-107555654,vmware-tanzu/kubeapps,Go,135
-256401220,alexeygrigorev/mlbookcamp-code,Jupyter Notebook,80
-42580311,rolling-scopes-school/tasks,JavaScript,15
-532580161,Sanakan8472/copy-dialog-lunar-lander,C#,323
-153316914,BehaviorTree/BehaviorTree.CPP,C++,50
-531976789,opa334/TrollStore,C,143
-518770724,Nickyie/Cybersecurity-Resources,,28
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,198
-442194005,MaikKlein/unreal-rust,Rust,161
-450114994,valence-rs/valence,Rust,253
-506482582,devsuperior/sds-dsmeta,,18
-532511232,JoelGMSec/EvilnoVNC,JavaScript,71
-517191221,DroidKaigi/conference-app-2022,Kotlin,44
-531675821,gndx/javascript-challenges,JavaScript,18
+83222441,donnemartin/system-design-primer,Python,123
+123458551,jackfrued/Python-100-Days,Python,160
+33884891,apache/airflow,Python,57
+152870372,ruanyf/weekly,,146
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1028
+120425779,lapce/lapce,Rust,461
+280363952,umami-software/umami,JavaScript,192
+241176242,girliemac/a-picture-is-worth-a-1000-words,,218
+265612440,coqui-ai/TTS,Python,98
+53548867,dbt-labs/dbt-core,Python,73
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,205
+107555654,vmware-tanzu/kubeapps,Go,121
+256401220,alexeygrigorev/mlbookcamp-code,Jupyter Notebook,82
+42580311,rolling-scopes-school/tasks,JavaScript,17
+532580161,Sanakan8472/copy-dialog-lunar-lander,C#,315
+153316914,BehaviorTree/BehaviorTree.CPP,C++,55
+531976789,opa334/TrollStore,C,147
+518770724,Nickyie/Cybersecurity-Resources,,54
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,216
+442194005,MaikKlein/unreal-rust,Rust,172
+450114994,valence-rs/valence,Rust,212
+506482582,devsuperior/sds-dsmeta,,20
+532511232,JoelGMSec/EvilnoVNC,JavaScript,83
+517191221,DroidKaigi/conference-app-2022,Kotlin,46
+531675821,gndx/javascript-challenges,JavaScript,19
