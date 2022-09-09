@@ -1,26 +1,26 @@
 id,name,lang,new stars
-90796663,puppeteer/puppeteer,TypeScript,167
-123303402,python-poetry/poetry,Python,293
-523379232,CompVis/stable-diffusion,Jupyter Notebook,5520
+90796663,puppeteer/puppeteer,TypeScript,170
+123303402,python-poetry/poetry,Python,274
+523379232,CompVis/stable-diffusion,Jupyter Notebook,5512
 74962515,gchq/CyberChef,JavaScript,1000
-240215314,docker/awesome-compose,HTML,482
-120425779,lapce/lapce,Rust,1679
-468515960,CodeEditApp/CodeEdit,Swift,679
-387326890,xinntao/Real-ESRGAN,Python,502
-268424739,helix-editor/helix,Rust,755
-453717720,AykutSarac/jsoncrack.com,TypeScript,1948
-321960447,openai/CLIP,Jupyter Notebook,150
-241176242,girliemac/a-picture-is-worth-a-1000-words,,1484
-327089870,payloadcms/payload,TypeScript,305
+240215314,docker/awesome-compose,HTML,452
+120425779,lapce/lapce,Rust,1691
+468515960,CodeEditApp/CodeEdit,Swift,655
+387326890,xinntao/Real-ESRGAN,Python,500
+268424739,helix-editor/helix,Rust,744
+453717720,AykutSarac/jsoncrack.com,TypeScript,1991
+321960447,openai/CLIP,Jupyter Notebook,152
+241176242,girliemac/a-picture-is-worth-a-1000-words,,1458
+327089870,payloadcms/payload,TypeScript,287
 335164964,dataease/dataease,Java,414
-498011141,huggingface/diffusers,Python,661
+498011141,huggingface/diffusers,Python,662
 528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1168
-455229168,immich-app/immich,Dart,750
-440244590,CompVis/latent-diffusion,Jupyter Notebook,267
-528378201,sd-webui/stable-diffusion-webui,Python,1289
-388946490,facebookincubator/velox,C++,156
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,860
-524596709,LSPosed/MagiskOnWSALocal,Shell,276
-520680969,apple/swift-book,Markdown,369
-520601970,rinongal/textual_inversion,Jupyter Notebook,200
-192826426,kaist-cp/cs431,Rust,27
+455229168,immich-app/immich,Dart,777
+440244590,CompVis/latent-diffusion,Jupyter Notebook,266
+528378201,sd-webui/stable-diffusion-webui,Python,1307
+388946490,facebookincubator/velox,C++,154
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,895
+524596709,LSPosed/MagiskOnWSALocal,Shell,277
+520680969,apple/swift-book,Markdown,355
+520601970,rinongal/textual_inversion,Jupyter Notebook,195
+192826426,kaist-cp/cs431,Rust,26
