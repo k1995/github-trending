@@ -1,26 +1,26 @@
 id,name,lang,new stars
-74791366,ryanmcdermott/clean-code-javascript,JavaScript,613
-152870372,ruanyf/weekly,,815
-123303402,python-poetry/poetry,Python,332
-1234714,elixir-lang/elixir,Elixir,73
-523379232,CompVis/stable-diffusion,Jupyter Notebook,5670
-74962515,gchq/CyberChef,JavaScript,993
-240215314,docker/awesome-compose,HTML,615
-120425779,lapce/lapce,Rust,1633
-468515960,CodeEditApp/CodeEdit,Swift,784
-387326890,xinntao/Real-ESRGAN,Python,503
-87699760,vulhub/vulhub,Dockerfile,182
-453717720,AykutSarac/jsoncrack.com,TypeScript,1760
-327089870,payloadcms/payload,TypeScript,368
-335164964,dataease/dataease,Java,416
-498011141,huggingface/diffusers,Python,673
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1153
-440244590,CompVis/latent-diffusion,Jupyter Notebook,267
-528378201,sd-webui/stable-diffusion-webui,Python,1252
-388946490,facebookincubator/velox,C++,168
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,767
-524596709,LSPosed/MagiskOnWSALocal,Shell,277
-520680969,apple/swift-book,Markdown,450
+90796663,puppeteer/puppeteer,TypeScript,159
+123303402,python-poetry/poetry,Python,319
+523379232,CompVis/stable-diffusion,Jupyter Notebook,5624
+74962515,gchq/CyberChef,JavaScript,998
+240215314,docker/awesome-compose,HTML,592
+120425779,lapce/lapce,Rust,1649
+468515960,CodeEditApp/CodeEdit,Swift,748
+387326890,xinntao/Real-ESRGAN,Python,507
+268424739,helix-editor/helix,Rust,802
+453717720,AykutSarac/jsoncrack.com,TypeScript,1823
+321960447,openai/CLIP,Jupyter Notebook,143
+241176242,girliemac/a-picture-is-worth-a-1000-words,,1569
+327089870,payloadcms/payload,TypeScript,350
+335164964,dataease/dataease,Java,419
+498011141,huggingface/diffusers,Python,676
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1161
+455229168,immich-app/immich,Dart,691
+440244590,CompVis/latent-diffusion,Jupyter Notebook,265
+528378201,sd-webui/stable-diffusion-webui,Python,1266
+388946490,facebookincubator/velox,C++,160
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,787
+524596709,LSPosed/MagiskOnWSALocal,Shell,281
+520680969,apple/swift-book,Markdown,422
+192826426,kaist-cp/cs431,Rust,29
 520601970,rinongal/textual_inversion,Jupyter Notebook,204
-528167656,bes-dev/stable_diffusion.openvino,Python,149
-506033104,crowsonkb/k-diffusion,Python,76
