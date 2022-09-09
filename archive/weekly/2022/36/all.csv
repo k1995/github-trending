@@ -1,26 +1,26 @@
 id,name,lang,new stars
-90796663,puppeteer/puppeteer,TypeScript,159
-123303402,python-poetry/poetry,Python,319
-523379232,CompVis/stable-diffusion,Jupyter Notebook,5624
-74962515,gchq/CyberChef,JavaScript,998
-240215314,docker/awesome-compose,HTML,592
-120425779,lapce/lapce,Rust,1649
-468515960,CodeEditApp/CodeEdit,Swift,748
-387326890,xinntao/Real-ESRGAN,Python,507
-268424739,helix-editor/helix,Rust,802
-453717720,AykutSarac/jsoncrack.com,TypeScript,1823
-321960447,openai/CLIP,Jupyter Notebook,143
-241176242,girliemac/a-picture-is-worth-a-1000-words,,1569
-327089870,payloadcms/payload,TypeScript,350
-335164964,dataease/dataease,Java,419
-498011141,huggingface/diffusers,Python,676
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1161
-455229168,immich-app/immich,Dart,691
-440244590,CompVis/latent-diffusion,Jupyter Notebook,265
-528378201,sd-webui/stable-diffusion-webui,Python,1266
-388946490,facebookincubator/velox,C++,160
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,787
+90796663,puppeteer/puppeteer,TypeScript,162
+123303402,python-poetry/poetry,Python,310
+523379232,CompVis/stable-diffusion,Jupyter Notebook,5569
+74962515,gchq/CyberChef,JavaScript,999
+240215314,docker/awesome-compose,HTML,536
+120425779,lapce/lapce,Rust,1670
+468515960,CodeEditApp/CodeEdit,Swift,707
+387326890,xinntao/Real-ESRGAN,Python,505
+268424739,helix-editor/helix,Rust,776
+453717720,AykutSarac/jsoncrack.com,TypeScript,1888
+321960447,openai/CLIP,Jupyter Notebook,144
+241176242,girliemac/a-picture-is-worth-a-1000-words,,1516
+327089870,payloadcms/payload,TypeScript,332
+335164964,dataease/dataease,Java,416
+498011141,huggingface/diffusers,Python,664
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1163
+455229168,immich-app/immich,Dart,728
+440244590,CompVis/latent-diffusion,Jupyter Notebook,266
+528378201,sd-webui/stable-diffusion-webui,Python,1279
+388946490,facebookincubator/velox,C++,161
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,828
 524596709,LSPosed/MagiskOnWSALocal,Shell,281
-520680969,apple/swift-book,Markdown,422
-192826426,kaist-cp/cs431,Rust,29
-520601970,rinongal/textual_inversion,Jupyter Notebook,204
+520680969,apple/swift-book,Markdown,394
+192826426,kaist-cp/cs431,Rust,27
+520601970,rinongal/textual_inversion,Jupyter Notebook,199
