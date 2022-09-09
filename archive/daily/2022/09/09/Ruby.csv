@@ -1,8 +1,8 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,5
-53238813,Homebrew/brew,Ruby,9
+27442967,fastlane/fastlane,Ruby,3
+53238813,Homebrew/brew,Ruby,13
 481872,hashicorp/vagrant,Ruby,3
-73648678,forem/forem,Ruby,7
+73648678,forem/forem,Ruby,8
 2203645,CocoaPods/CocoaPods,Ruby,2
 1090311,elastic/logstash,Ruby,1
 138312,capistrano/capistrano,Ruby,2
@@ -10,16 +10,16 @@ id,name,lang,new stars
 4095287,rubocop/rubocop,Ruby,3
 96395,faker-ruby/faker,Ruby,4
 812393,ruby-grape/grape,Ruby,0
-451035,heartcombo/simple_form,Ruby,1
+451035,heartcombo/simple_form,Ruby,0
 21829,thoughtbot/factory_bot,Ruby,0
-108278,chef/chef,Ruby,3
-910744,puppetlabs/puppet,Ruby,1
-211588,paper-trail-gem/paper_trail,Ruby,3
-37997,jnunemaker/httparty,Ruby,1
+108278,chef/chef,Ruby,2
+910744,puppetlabs/puppet,Ruby,0
+211588,paper-trail-gem/paper_trail,Ruby,2
+37997,jnunemaker/httparty,Ruby,3
 417389,lostisland/faraday,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,0
-96071,rack/rack,Ruby,10
-363163,bblimke/webmock,Ruby,0
+96071,rack/rack,Ruby,11
+363163,bblimke/webmock,Ruby,1
 103766152,github/explore,Ruby,3
 614070,rubygems/rubygems,Ruby,1
 200302808,ViewComponent/view_component,Ruby,1

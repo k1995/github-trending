@@ -1,26 +1,26 @@
 id,name,lang,new stars
-74791366,ryanmcdermott/clean-code-javascript,JavaScript,624
-152870372,ruanyf/weekly,,765
-123303402,python-poetry/poetry,Python,372
-1234714,elixir-lang/elixir,Elixir,71
-523379232,CompVis/stable-diffusion,Jupyter Notebook,5769
+74791366,ryanmcdermott/clean-code-javascript,JavaScript,622
+152870372,ruanyf/weekly,,787
+123303402,python-poetry/poetry,Python,356
+1234714,elixir-lang/elixir,Elixir,74
+523379232,CompVis/stable-diffusion,Jupyter Notebook,5722
 74962515,gchq/CyberChef,JavaScript,990
-240215314,docker/awesome-compose,HTML,616
-120425779,lapce/lapce,Rust,1593
-468515960,CodeEditApp/CodeEdit,Swift,865
+240215314,docker/awesome-compose,HTML,613
+120425779,lapce/lapce,Rust,1609
+468515960,CodeEditApp/CodeEdit,Swift,839
 387326890,xinntao/Real-ESRGAN,Python,517
-87699760,vulhub/vulhub,Dockerfile,202
-453717720,AykutSarac/jsoncrack.com,TypeScript,1656
+87699760,vulhub/vulhub,Dockerfile,193
+453717720,AykutSarac/jsoncrack.com,TypeScript,1682
 327089870,payloadcms/payload,TypeScript,365
-335164964,dataease/dataease,Java,405
-498011141,huggingface/diffusers,Python,692
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1162
-440244590,CompVis/latent-diffusion,Jupyter Notebook,281
-528378201,sd-webui/stable-diffusion-webui,Python,1181
-388946490,facebookincubator/velox,C++,184
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,743
-524596709,LSPosed/MagiskOnWSALocal,Shell,275
-520680969,apple/swift-book,Markdown,502
-520601970,rinongal/textual_inversion,Jupyter Notebook,206
-528167656,bes-dev/stable_diffusion.openvino,Python,164
-506033104,crowsonkb/k-diffusion,Python,77
+335164964,dataease/dataease,Java,410
+498011141,huggingface/diffusers,Python,683
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1159
+440244590,CompVis/latent-diffusion,Jupyter Notebook,282
+528378201,sd-webui/stable-diffusion-webui,Python,1213
+388946490,facebookincubator/velox,C++,172
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,750
+524596709,LSPosed/MagiskOnWSALocal,Shell,274
+520680969,apple/swift-book,Markdown,471
+520601970,rinongal/textual_inversion,Jupyter Notebook,205
+528167656,bes-dev/stable_diffusion.openvino,Python,155
+506033104,crowsonkb/k-diffusion,Python,76

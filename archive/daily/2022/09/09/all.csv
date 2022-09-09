@@ -1,16 +1,16 @@
 id,name,lang,new stars
 21289110,vinta/awesome-python,Python,252
-123458551,jackfrued/Python-100-Days,Python,181
-184456251,microsoft/PowerToys,C#,163
+123458551,jackfrued/Python-100-Days,Python,169
+184456251,microsoft/PowerToys,C#,212
 152870372,ruanyf/weekly,,121
-523379232,CompVis/stable-diffusion,Jupyter Notebook,759
-120425779,lapce/lapce,Rust,327
-162276894,Wilfred/difftastic,Rust,452
+523379232,CompVis/stable-diffusion,Jupyter Notebook,700
+120425779,lapce/lapce,Rust,281
+162276894,Wilfred/difftastic,Rust,493
 221723816,WZMIAOMIAO/deep-learning-for-image-processing,Python,35
 28239455,dotnet/AspNetCore.Docs,C#,17
-190416463,actions/runner-images,PowerShell,18
+190416463,actions/runner-images,PowerShell,28
 53548867,dbt-labs/dbt-core,Python,89
-107555654,vmware-tanzu/kubeapps,Go,105
+107555654,vmware-tanzu/kubeapps,Go,95
 455229168,immich-app/immich,Dart,376
 93381875,microsoft/SynapseML,Scala,60
 522358431,IdreesInc/Monocraft,,754
@@ -18,8 +18,8 @@ id,name,lang,new stars
 188779637,apache/incubator-streampark,Java,44
 153316914,BehaviorTree/BehaviorTree.CPP,C++,82
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,233
-450114994,valence-rs/valence,Rust,108
 522822986,zhanymkanov/fastapi-best-practices,,94
+450114994,valence-rs/valence,Rust,108
 530314795,gskinnerTeam/flutter-wonderous-app,Dart,116
 528152092,cmdr2/stable-diffusion-ui,HTML,73
 129476879,ElvisQin/thegibook,TeX,89
