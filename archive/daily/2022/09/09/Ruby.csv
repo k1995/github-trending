@@ -1,13 +1,13 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,5
-53238813,Homebrew/brew,Ruby,7
-481872,hashicorp/vagrant,Ruby,5
+53238813,Homebrew/brew,Ruby,8
+481872,hashicorp/vagrant,Ruby,4
 73648678,forem/forem,Ruby,6
-2203645,CocoaPods/CocoaPods,Ruby,0
+2203645,CocoaPods/CocoaPods,Ruby,1
 1090311,elastic/logstash,Ruby,1
 138312,capistrano/capistrano,Ruby,2
 3195124,mperham/sidekiq,Ruby,2
-4095287,rubocop/rubocop,Ruby,2
+4095287,rubocop/rubocop,Ruby,1
 96395,faker-ruby/faker,Ruby,1
 812393,ruby-grape/grape,Ruby,0
 451035,heartcombo/simple_form,Ruby,1

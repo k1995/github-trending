@@ -1,0 +1,26 @@
+id,name,lang,new stars
+17728164,hashicorp/terraform,Go,19
+8989842,unknwon/the-way-to-go_ZH_CN,Go,14
+212613049,cli/cli,Go,21
+16563587,cockroachdb/cockroach,Go,21
+6247705,stretchr/testify,Go,12
+27729907,grpc/grpc-go,Go,11
+10379607,buger/goreplay,Go,16
+46806184,helm/charts,Go,3
+72891330,kubernetes/ingress-nginx,Go,8
+7083242,go-sql-driver/mysql,Go,9
+36653430,hashicorp/nomad,Go,5
+6443435,nats-io/nats-server,Go,13
+132145189,golangci/golangci-lint,Go,10
+119190187,zricethezav/gitleaks,Go,10
+62921553,rook/rook,Go,11
+95761244,gogf/gf,Go,17
+91054480,rs/zerolog,Go,7
+66509131,kubernetes/client-go,Go,11
+11452538,prometheus/alertmanager,Go,1
+52481933,navidrome/navidrome,Go,15
+107555654,vmware-tanzu/kubeapps,Go,109
+333303663,bytebase/bytebase,Go,23
+335952417,sigstore/cosign,Go,5
+185861173,open-telemetry/opentelemetry-collector,Go,5
+170343301,rabbitmq/cluster-operator,Go,1

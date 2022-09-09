@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,112
-7548986,laravel/framework,PHP,58
+1863329,laravel/laravel,PHP,111
+7548986,laravel/framework,PHP,59
 458058,symfony/symfony,PHP,36
 2579314,fzaninotto/Faker,PHP,20
 60243197,nextcloud/server,PHP,220
-2889328,WordPress/WordPress,PHP,31
+2889328,WordPress/WordPress,PHP,30
 1631570,nikic/PHP-Parser,PHP,36
-12615154,barryvdh/laravel-debugbar,PHP,27
+12615154,barryvdh/laravel-debugbar,PHP,25
 2884111,magento/magento2,PHP,17
 2699935,squizlabs/PHP_CodeSniffer,PHP,23
 597887,doctrine/orm,PHP,14
@@ -16,11 +16,11 @@ id,name,lang,new stars
 9791525,digininja/DVWA,PHP,34
 76064827,mailcow/mailcow-dockerized,PHP,33
 9826184,elastic/elasticsearch-php,PHP,7
-60010673,elementor/elementor,PHP,22
-248372441,filamentphp/filament,PHP,56
+60010673,elementor/elementor,PHP,20
+248372441,filamentphp/filament,PHP,58
 439861,moodle/moodle,PHP,11
 41463886,codeigniter4/CodeIgniter4,PHP,17
-141720301,dr5hn/countries-states-cities-database,PHP,36
+141720301,dr5hn/countries-states-cities-database,PHP,37
 1957456,Dolibarr/dolibarr,PHP,21
-524886955,opcodesio/log-viewer,PHP,692
+524886955,opcodesio/log-viewer,PHP,681
 491456510,zidansec/CloudPeler,PHP,34
