@@ -2,7 +2,7 @@ id,name,lang,new stars
 7548986,laravel/framework,PHP,1
 458058,symfony/symfony,PHP,2
 60243197,nextcloud/server,PHP,6
-2253830,PHPMailer/PHPMailer,PHP,4
+2253830,PHPMailer/PHPMailer,PHP,3
 448045,sebastianbergmann/phpunit,PHP,0
 3431193,yiisoft/yii2,PHP,1
 22553797,getgrav/grav,PHP,2
@@ -16,7 +16,7 @@ id,name,lang,new stars
 60010673,elementor/elementor,PHP,5
 248372441,filamentphp/filament,PHP,9
 19386515,spatie/browsershot,PHP,0
-1957456,Dolibarr/dolibarr,PHP,4
+1957456,Dolibarr/dolibarr,PHP,3
 7895524,thephpleague/oauth2-client,PHP,0
 128174809,rap2hpoutre/fast-excel,PHP,2
 75645659,WordPress/wordpress-develop,PHP,2
