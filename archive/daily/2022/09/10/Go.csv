@@ -1,10 +1,10 @@
 id,name,lang,new stars
-29207621,caddyserver/caddy,Go,48
+29207621,caddyserver/caddy,Go,46
 16563587,cockroachdb/cockroach,Go,16
 59239347,portainer/portainer,Go,14
 54400687,grafana/k6,Go,22
-33352201,grpc-ecosystem/grpc-gateway,Go,50
-6443435,nats-io/nats-server,Go,12
+33352201,grpc-ecosystem/grpc-gateway,Go,28
+6443435,nats-io/nats-server,Go,11
 65434192,tidwall/gjson,Go,6
 413918947,vercel/turborepo,Go,24
 95761244,gogf/gf,Go,10
@@ -23,4 +23,4 @@ id,name,lang,new stars
 333303663,bytebase/bytebase,Go,24
 71487396,terraform-linters/tflint,Go,3
 489681062,guangzhengli/k8s-tutorials,Go,13
-533579418,fin3ss3g0d/evilgophish,Go,51
+533579418,fin3ss3g0d/evilgophish,Go,47

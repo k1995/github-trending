@@ -1,26 +1,26 @@
 id,name,lang,new stars
-90796663,puppeteer/puppeteer,TypeScript,170
-123303402,python-poetry/poetry,Python,274
-523379232,CompVis/stable-diffusion,Jupyter Notebook,5512
-74962515,gchq/CyberChef,JavaScript,1000
-240215314,docker/awesome-compose,HTML,452
-120425779,lapce/lapce,Rust,1691
-468515960,CodeEditApp/CodeEdit,Swift,655
+90796663,puppeteer/puppeteer,TypeScript,171
+123303402,python-poetry/poetry,Python,265
+523379232,CompVis/stable-diffusion,Jupyter Notebook,5502
+74962515,gchq/CyberChef,JavaScript,1003
+240215314,docker/awesome-compose,HTML,415
+120425779,lapce/lapce,Rust,1698
+468515960,CodeEditApp/CodeEdit,Swift,629
 387326890,xinntao/Real-ESRGAN,Python,500
-268424739,helix-editor/helix,Rust,744
-453717720,AykutSarac/jsoncrack.com,TypeScript,1991
-321960447,openai/CLIP,Jupyter Notebook,152
-241176242,girliemac/a-picture-is-worth-a-1000-words,,1458
-327089870,payloadcms/payload,TypeScript,287
+268424739,helix-editor/helix,Rust,729
+453717720,AykutSarac/jsoncrack.com,TypeScript,2015
+321960447,openai/CLIP,Jupyter Notebook,157
+241176242,girliemac/a-picture-is-worth-a-1000-words,,1434
+327089870,payloadcms/payload,TypeScript,271
 335164964,dataease/dataease,Java,414
-498011141,huggingface/diffusers,Python,662
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1168
-455229168,immich-app/immich,Dart,777
-440244590,CompVis/latent-diffusion,Jupyter Notebook,266
-528378201,sd-webui/stable-diffusion-webui,Python,1307
-388946490,facebookincubator/velox,C++,154
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,895
+498011141,huggingface/diffusers,Python,659
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1175
+455229168,immich-app/immich,Dart,789
+440244590,CompVis/latent-diffusion,Jupyter Notebook,260
+528378201,sd-webui/stable-diffusion-webui,Python,1349
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1010
+388946490,facebookincubator/velox,C++,155
 524596709,LSPosed/MagiskOnWSALocal,Shell,277
-520680969,apple/swift-book,Markdown,355
-520601970,rinongal/textual_inversion,Jupyter Notebook,195
-192826426,kaist-cp/cs431,Rust,26
+520680969,apple/swift-book,Markdown,344
+520601970,rinongal/textual_inversion,Jupyter Notebook,194
+192826426,kaist-cp/cs431,Rust,25
