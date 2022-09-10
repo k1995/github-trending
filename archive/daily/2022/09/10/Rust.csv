@@ -1,13 +1,13 @@
 id,name,lang,new stars
 724712,rust-lang/rust,Rust,37
 130688011,meilisearch/meilisearch,Rust,27
-57167764,xi-editor/xi-editor,Rust,7
+57167764,xi-editor/xi-editor,Rust,6
 121898717,dani-garcia/vaultwarden,Rust,38
-120425779,lapce/lapce,Rust,156
-149026292,cube-js/cube.js,Rust,9
-162276894,Wilfred/difftastic,Rust,409
+120425779,lapce/lapce,Rust,163
+149026292,cube-js/cube.js,Rust,6
+162276894,Wilfred/difftastic,Rust,406
 146327667,vectordotdev/vector,Rust,13
-247725846,extrawurst/gitui,Rust,16
+247725846,extrawurst/gitui,Rust,19
 101767772,bytecodealliance/wasmtime,Rust,6
 109872620,paritytech/substrate,Rust,2
 155783257,linebender/druid,Rust,23
@@ -16,7 +16,7 @@ id,name,lang,new stars
 161045574,johnthagen/min-sized-rust,Rust,21
 36428094,tock/tock,Rust,17
 358917318,apache/arrow-datafusion,Rust,5
-202485012,webrtc-rs/webrtc,Rust,15
+202485012,webrtc-rs/webrtc,Rust,16
 159866229,build-trust/ockam,Rust,17
 426075845,MystenLabs/sui,Rust,9
 266602341,gakonst/ethers-rs,Rust,2
