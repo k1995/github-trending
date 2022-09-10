@@ -1,7 +1,7 @@
 id,name,lang,new stars
 34526884,ant-design/ant-design,TypeScript,11
 90796663,puppeteer/puppeteer,TypeScript,28
-39464018,apache/superset,TypeScript,10
+39464018,apache/superset,TypeScript,7
 214587193,supabase/supabase,TypeScript,59
 67962648,vuetifyjs/vuetify,TypeScript,9
 35866694,RocketChat/Rocket.Chat,TypeScript,9
@@ -10,15 +10,15 @@ id,name,lang,new stars
 281975310,type-challenges/type-challenges,TypeScript,21
 49016322,angular/components,TypeScript,5
 71487058,TanStack/table,TypeScript,6
-52630616,apollographql/apollo-client,TypeScript,3
+52630616,apollographql/apollo-client,TypeScript,2
 236095576,backstage/backstage,TypeScript,16
-7122594,directus/directus,TypeScript,23
+7122594,directus/directus,TypeScript,22
 51575745,conventional-changelog/commitlint,TypeScript,4
 453717720,AykutSarac/jsoncrack.com,TypeScript,528
 365263843,denoland/fresh,TypeScript,44
-316988921,Sairyss/domain-driven-hexagon,TypeScript,38
+316988921,Sairyss/domain-driven-hexagon,TypeScript,26
 119336293,purocean/yn,TypeScript,17
-145880460,aws-amplify/amplify-cli,TypeScript,3
+145880460,aws-amplify/amplify-cli,TypeScript,2
 73453488,erxes/erxes,TypeScript,4
 45130992,mebjas/html5-qrcode,TypeScript,4
 102689445,mattermost/mattermost-webapp,TypeScript,4

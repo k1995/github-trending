@@ -1,7 +1,7 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-27442967,fastlane/fastlane,Ruby,5
-308770,heartcombo/devise,Ruby,3
+8514,rails/rails,Ruby,8
+27442967,fastlane/fastlane,Ruby,6
+308770,heartcombo/devise,Ruby,2
 538746,ruby/ruby,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
 96395,faker-ruby/faker,Ruby,3
@@ -12,15 +12,15 @@ id,name,lang,new stars
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
 1314319,instructure/canvas-lms,Ruby,0
 6768710,redmine/redmine,Ruby,0
-96071,rack/rack,Ruby,6
-138776049,sorbet/sorbet,Ruby,0
-5627139,rouge-ruby/rouge,Ruby,1
-5144181,jnunemaker/flipper,Ruby,4
+96071,rack/rack,Ruby,7
+138776049,sorbet/sorbet,Ruby,1
+5627139,rouge-ruby/rouge,Ruby,0
+5144181,jnunemaker/flipper,Ruby,3
 93163073,dependabot/dependabot-core,Ruby,0
-9500075,ytti/oxidized,Ruby,2
-238983,rspec/rspec-mocks,Ruby,0
+9500075,ytti/oxidized,Ruby,1
+238983,rspec/rspec-mocks,Ruby,1
 121513081,tradingview/charting-library-examples,Ruby,1
 209731662,ruby/debug,Ruby,2
 136781582,rubocop/rubocop-rails,Ruby,0
-384024019,justinhoward/cutoff,Ruby,11
+384024019,justinhoward/cutoff,Ruby,7
 404558022,tric/trick2022,Ruby,4
