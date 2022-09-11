@@ -1,6 +1,6 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,1
-458058,symfony/symfony,PHP,2
+458058,symfony/symfony,PHP,1
 60243197,nextcloud/server,PHP,7
 2253830,PHPMailer/PHPMailer,PHP,3
 448045,sebastianbergmann/phpunit,PHP,0
@@ -13,14 +13,14 @@ id,name,lang,new stars
 14716368,invoiceninja/invoiceninja,PHP,3
 9131292,jenssegers/laravel-mongodb,PHP,3
 6269013,aws/aws-sdk-php,PHP,0
-60010673,elementor/elementor,PHP,5
+60010673,elementor/elementor,PHP,2
 248372441,filamentphp/filament,PHP,10
 19386515,spatie/browsershot,PHP,0
 1957456,Dolibarr/dolibarr,PHP,3
 7895524,thephpleague/oauth2-client,PHP,0
 128174809,rap2hpoutre/fast-excel,PHP,2
-75645659,WordPress/wordpress-develop,PHP,2
+75645659,WordPress/wordpress-develop,PHP,0
 3348788,sendgrid/sendgrid-php,PHP,0
 27249479,EC-CUBE/ec-cube,PHP,0
-424395091,yungifez/skuul,PHP,2
-531415058,unkn0w/disposable-email-domain-list,PHP,8
+424395091,yungifez/skuul,PHP,3
+531415058,unkn0w/disposable-email-domain-list,PHP,4
