@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,263
+8514,rails/rails,Ruby,262
 8681349,huginn/huginn,Ruby,266
-2293158,rapid7/metasploit-framework,Ruby,271
+2293158,rapid7/metasploit-framework,Ruby,267
 2500088,gitlabhq/gitlabhq,Ruby,61
 308770,heartcombo/devise,Ruby,114
-37382858,kilimchoi/engineering-blogs,Ruby,328
-3623050,Homebrew/homebrew-cask,Ruby,88
+37382858,kilimchoi/engineering-blogs,Ruby,329
+3623050,Homebrew/homebrew-cask,Ruby,87
 1090311,elastic/logstash,Ruby,57
 3195124,mperham/sidekiq,Ruby,65
 88740103,postalserver/postal,Ruby,131
@@ -13,12 +13,12 @@ id,name,lang,new stars
 6529205,varvet/pundit,Ruby,43
 587311,omniauth/omniauth,Ruby,19
 2441517,puma/puma,Ruby,36
-6899875,opf/openproject,Ruby,103
+6899875,opf/openproject,Ruby,101
 96071,rack/rack,Ruby,57
 103766152,github/explore,Ruby,69
 138776049,sorbet/sorbet,Ruby,35
 189010173,Hackplayers/evil-winrm,Ruby,90
-200302808,ViewComponent/view_component,Ruby,51
+200302808,ViewComponent/view_component,Ruby,52
 121513081,tradingview/charting-library-examples,Ruby,18
 432559985,turingschool-examples/each,Ruby,0
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
