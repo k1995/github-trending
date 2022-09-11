@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
-27442967,fastlane/fastlane,Ruby,7
-308770,heartcombo/devise,Ruby,3
-538746,ruby/ruby,Ruby,3
+8514,rails/rails,Ruby,11
+27442967,fastlane/fastlane,Ruby,6
+308770,heartcombo/devise,Ruby,4
+538746,ruby/ruby,Ruby,2
 4095287,rubocop/rubocop,Ruby,2
-96395,faker-ruby/faker,Ruby,1
+96395,faker-ruby/faker,Ruby,2
 812393,ruby-grape/grape,Ruby,2
 6529205,varvet/pundit,Ruby,1
 2441517,puma/puma,Ruby,1
@@ -15,12 +15,12 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,2
 138776049,sorbet/sorbet,Ruby,1
 5627139,rouge-ruby/rouge,Ruby,0
-5144181,jnunemaker/flipper,Ruby,1
-93163073,dependabot/dependabot-core,Ruby,2
+5144181,jnunemaker/flipper,Ruby,0
+93163073,dependabot/dependabot-core,Ruby,4
 9500075,ytti/oxidized,Ruby,1
 238983,rspec/rspec-mocks,Ruby,1
-121513081,tradingview/charting-library-examples,Ruby,1
+121513081,tradingview/charting-library-examples,Ruby,0
 209731662,ruby/debug,Ruby,0
 136781582,rubocop/rubocop-rails,Ruby,0
 384024019,justinhoward/cutoff,Ruby,7
-404558022,tric/trick2022,Ruby,3
+404558022,tric/trick2022,Ruby,1
