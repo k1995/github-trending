@@ -1,6 +1,6 @@
 id,name,lang,new stars
 29207621,caddyserver/caddy,Go,23
-15452919,ethereum/go-ethereum,Go,7
+15452919,ethereum/go-ethereum,Go,10
 16607898,harness/drone,Go,8
 181461073,v2fly/v2ray-core,Go,15
 27729907,grpc/grpc-go,Go,7
@@ -15,7 +15,7 @@ id,name,lang,new stars
 327859577,juicedata/juicefs,Go,24
 11452538,prometheus/alertmanager,Go,2
 19799491,tendermint/tendermint,Go,2
-343533419,charmbracelet/lipgloss,Go,9
+343533419,charmbracelet/lipgloss,Go,10
 118828329,knative/serving,Go,2
 258469100,fluxcd/flux2,Go,6
 302670797,ossf/scorecard,Go,3
