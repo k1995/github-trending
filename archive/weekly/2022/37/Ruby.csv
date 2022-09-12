@@ -1,8 +1,8 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,56
+8514,rails/rails,Ruby,64
 8681349,huginn/huginn,Ruby,65
-27442967,fastlane/fastlane,Ruby,47
-53238813,Homebrew/brew,Ruby,95
+27442967,fastlane/fastlane,Ruby,44
+53238813,Homebrew/brew,Ruby,93
 2293158,rapid7/metasploit-framework,Ruby,71
 538746,ruby/ruby,Ruby,23
 1090311,elastic/logstash,Ruby,17
@@ -12,7 +12,7 @@ id,name,lang,new stars
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,38
 96071,rack/rack,Ruby,37
 52316423,luggit/react-native-config,Ruby,10
-103766152,github/explore,Ruby,18
+103766152,github/explore,Ruby,17
 93163073,dependabot/dependabot-core,Ruby,17
 9831101,elastic/elasticsearch-ruby,Ruby,3
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,12
