@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,56
-8681349,huginn/huginn,Ruby,66
-27442967,fastlane/fastlane,Ruby,43
-53238813,Homebrew/brew,Ruby,95
+8514,rails/rails,Ruby,57
+8681349,huginn/huginn,Ruby,64
+27442967,fastlane/fastlane,Ruby,42
+53238813,Homebrew/brew,Ruby,96
 2293158,rapid7/metasploit-framework,Ruby,74
-538746,ruby/ruby,Ruby,21
+538746,ruby/ruby,Ruby,22
 1090311,elastic/logstash,Ruby,18
 3195124,mperham/sidekiq,Ruby,16
-96395,faker-ruby/faker,Ruby,19
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,45
-96071,rack/rack,Ruby,35
+96395,faker-ruby/faker,Ruby,18
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,43
+96071,rack/rack,Ruby,37
 103766152,github/explore,Ruby,20
-11426474,github/choosealicense.com,Ruby,7
+11426474,github/choosealicense.com,Ruby,8
 93163073,dependabot/dependabot-core,Ruby,18
 9500075,ytti/oxidized,Ruby,12
 9831101,elastic/elasticsearch-ruby,Ruby,4
@@ -19,7 +19,7 @@ id,name,lang,new stars
 34840276,elastic/ansible-elasticsearch,Ruby,1
 29151578,rswag/rswag,Ruby,6
 121513081,tradingview/charting-library-examples,Ruby,8
-209731662,ruby/debug,Ruby,14
+209731662,ruby/debug,Ruby,16
 387924838,learn-co-curriculum/phase-3-sinatra-react-project,Ruby,0
 481257784,brewchetta/phase-3-practice-code-challenge-animal-shelter,Ruby,0
 480843250,brewchetta/phase-3-ar-practice-karaoke-mania,Ruby,0

@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,95
+1863329,laravel/laravel,PHP,92
 7548986,laravel/framework,PHP,44
-458058,symfony/symfony,PHP,32
-60243197,nextcloud/server,PHP,87
+458058,symfony/symfony,PHP,30
+60243197,nextcloud/server,PHP,78
 2889328,WordPress/WordPress,PHP,29
 1631570,nikic/PHP-Parser,PHP,31
 22553797,getgrav/grav,PHP,22
@@ -15,12 +15,12 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,15
 364315,predis/predis,PHP,8
 42261096,fuzzdb-project/fuzzdb,PHP,23
-14346979,snipe/snipe-it,PHP,47
+14346979,snipe/snipe-it,PHP,46
 6763587,PrestaShop/PrestaShop,PHP,124
 14716368,invoiceninja/invoiceninja,PHP,20
-9791525,digininja/DVWA,PHP,32
+9791525,digininja/DVWA,PHP,31
 439861,moodle/moodle,PHP,7
-41463886,codeigniter4/CodeIgniter4,PHP,15
+41463886,codeigniter4/CodeIgniter4,PHP,14
 13914116,librenms/librenms,PHP,10
 2686502,pimcore/pimcore,PHP,6
-524886955,opcodesio/log-viewer,PHP,281
+524886955,opcodesio/log-viewer,PHP,254

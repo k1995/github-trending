@@ -1,6 +1,6 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,221
-21540759,avelino/awesome-go,Go,466
+21540759,avelino/awesome-go,Go,467
 14712850,syncthing/syncthing,Go,160
 29207621,caddyserver/caddy,Go,251
 74175805,istio/istio,Go,79
@@ -12,13 +12,13 @@ id,name,lang,new stars
 6443435,nats-io/nats-server,Go,57
 65434192,tidwall/gjson,Go,117
 62921553,rook/rook,Go,34
-32575637,ginuerzh/gost,Go,67
-323965659,alist-org/alist,Go,207
+32575637,ginuerzh/gost,Go,65
+323965659,alist-org/alist,Go,208
 140412864,kgretzky/evilginx2,Go,74
 351486934,gravitl/netmaker,Go,74
-403559729,YaoApp/yao,Go,134
+403559729,YaoApp/yao,Go,135
 107555654,vmware-tanzu/kubeapps,Go,597
-333303663,bytebase/bytebase,Go,165
+333303663,bytebase/bytebase,Go,166
 330616364,evrone/go-clean-template,Go,107
 117156031,prysmaticlabs/prysm,Go,35
 385634291,grafana/mimir,Go,29
