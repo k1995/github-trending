@@ -2,7 +2,7 @@ id,name,lang,new stars
 2325298,torvalds/linux,C,48
 246335987,ventoy/Ventoy,C,74
 102578345,coolsnowwolf/lede,C,18
-6201092,mpv-player/mpv,C,13
+6201092,mpv-player/mpv,C,10
 80286288,arendst/Tasmota,C,7
 27737393,qmk/qmk_firmware,C,7
 45821540,openwrt/openwrt,C,33
@@ -10,7 +10,7 @@ id,name,lang,new stars
 70127218,espressif/arduino-esp32,C,4
 1856976,libevent/libevent,C,2
 5213091,baskerville/bspwm,C,5
-5805256,lua/lua,C,6
+5805256,lua/lua,C,7
 224151065,Immediate-Mode-UI/Nuklear,C,0
 59676171,Klipper3d/klipper,C,6
 86245815,pygame/pygame,C,1
