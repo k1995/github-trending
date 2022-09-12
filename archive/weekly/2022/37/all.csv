@@ -1,20 +1,20 @@
 id,name,lang,new stars
 31792824,flutter/flutter,Dart,427
-21289110,vinta/awesome-python,Python,1209
-184456251,microsoft/PowerToys,C#,961
-152870372,ruanyf/weekly,,767
+21289110,vinta/awesome-python,Python,1275
+184456251,microsoft/PowerToys,C#,977
+152870372,ruanyf/weekly,,617
 123303402,python-poetry/poetry,Python,220
-523379232,CompVis/stable-diffusion,Jupyter Notebook,5107
+523379232,CompVis/stable-diffusion,Jupyter Notebook,4772
 74962515,gchq/CyberChef,JavaScript,707
-120425779,lapce/lapce,Rust,2202
+120425779,lapce/lapce,Rust,2308
 387326890,xinntao/Real-ESRGAN,Python,490
 453717720,AykutSarac/jsoncrack.com,TypeScript,2553
 197515838,shengcaishizhan/kkndme_tianya,,324
-321960447,openai/CLIP,Jupyter Notebook,259
-241176242,girliemac/a-picture-is-worth-a-1000-words,,1224
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1163
+321960447,openai/CLIP,Jupyter Notebook,253
+241176242,girliemac/a-picture-is-worth-a-1000-words,,984
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,1032
 422274596,hpcaitech/ColossalAI,Python,132
-455229168,immich-app/immich,Dart,924
+455229168,immich-app/immich,Dart,938
 107555654,vmware-tanzu/kubeapps,Go,539
 528378201,sd-webui/stable-diffusion-webui,Python,1518
 353775942,streetwriters/notesnook,JavaScript,1680
@@ -23,4 +23,4 @@ id,name,lang,new stars
 531976789,opa334/TrollStore,Objective-C,1068
 530314795,gskinnerTeam/flutter-wonderous-app,Dart,627
 476918521,alibaba/EasyCV,Python,259
-528766495,TuGraph-db/tugraph-db,C++,106
+528766495,TuGraph-db/tugraph-db,C++,58
