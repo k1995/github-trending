@@ -1,16 +1,16 @@
 id,name,lang,new stars
 14712850,syncthing/syncthing,Go,19
-59239347,portainer/portainer,Go,15
+59239347,portainer/portainer,Go,13
 19205896,restic/restic,Go,17
 181461073,v2fly/v2ray-core,Go,17
-21827146,seaweedfs/seaweedfs,Go,11
+21827146,seaweedfs/seaweedfs,Go,12
 510607652,pocketbase/pocketbase,Go,52
 311315731,XTLS/Xray-core,Go,8
-323965659,alist-org/alist,Go,33
+323965659,alist-org/alist,Go,35
 301830590,benbjohnson/litestream,Go,12
 93808874,bxcodec/go-clean-arch,Go,27
 26639347,OJ/gobuster,Go,7
-327859577,juicedata/juicefs,Go,22
+327859577,juicedata/juicefs,Go,18
 343533419,charmbracelet/lipgloss,Go,11
 79585104,matrix-org/dendrite,Go,4
 62147469,alecthomas/participle,Go,12
@@ -19,7 +19,7 @@ id,name,lang,new stars
 286530881,FloatTech/ZeroBot-Plugin,Go,6
 480303698,tensorchord/envd,Go,25
 12426609,oleiade/lane,Go,24
-449811452,dominikbraun/graph,Go,9
+449811452,dominikbraun/graph,Go,7
 509091576,SagerNet/sing-box,Go,3
 534329385,inlets/mixctl,Go,31
 523372474,awslabs/soci-snapshotter,Go,12
