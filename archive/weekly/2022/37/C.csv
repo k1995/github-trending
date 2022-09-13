@@ -1,6 +1,6 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,393
-156018,redis/redis,C,127
+2325298,torvalds/linux,C,398
+156018,redis/redis,C,126
 14812739,libuv/libuv,C,49
 7634677,openssl/openssl,C,45
 18496166,gentilkiwi/mimikatz,C,44
@@ -9,18 +9,18 @@ id,name,lang,new stars
 13310527,jemalloc/jemalloc,C,42
 105944401,yugabyte/yugabyte-db,C,44
 213916896,blender/blender,C,79
-40504480,mit-pdos/xv6-public,C,19
+40504480,mit-pdos/xv6-public,C,18
 3681392,greatscottgadgets/hackrf,C,24
-400501136,deepmind/mujoco,C,30
+400501136,deepmind/mujoco,C,31
 23007417,colmap/colmap,C,19
 97212490,floooh/sokol,C,31
-6687936,Mbed-TLS/mbedtls,C,13
-187042471,koute/bytehound,C,36
-204459250,mit-pdos/xv6-riscv,C,41
-71643008,Palakis/obs-ndi,C,38
+6687936,Mbed-TLS/mbedtls,C,12
+187042471,koute/bytehound,C,34
+204459250,mit-pdos/xv6-riscv,C,39
+71643008,Palakis/obs-ndi,C,36
 122993186,remzi-arpacidusseau/ostep-code,C,23
-151064439,ExpressLRS/ExpressLRS,C,14
+151064439,ExpressLRS/ExpressLRS,C,13
 336719229,TrungNguyen1909/qemu-t8030,C,46
-403314395,48d31kh413k/1337-Piscine-42,C,26
-526863912,hepingood/mpu9250,C,63
-528410655,servetgulnaroglu/cube.c,C,22
+403314395,48d31kh413k/1337-Piscine-42,C,25
+526863912,hepingood/mpu9250,C,67
+528410655,servetgulnaroglu/cube.c,C,21

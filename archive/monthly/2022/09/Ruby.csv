@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,261
-8681349,huginn/huginn,Ruby,264
-2293158,rapid7/metasploit-framework,Ruby,270
+8514,rails/rails,Ruby,260
+8681349,huginn/huginn,Ruby,262
+2293158,rapid7/metasploit-framework,Ruby,272
 2500088,gitlabhq/gitlabhq,Ruby,61
 308770,heartcombo/devise,Ruby,115
-37382858,kilimchoi/engineering-blogs,Ruby,329
-538746,ruby/ruby,Ruby,104
+37382858,kilimchoi/engineering-blogs,Ruby,330
+538746,ruby/ruby,Ruby,105
 3623050,Homebrew/homebrew-cask,Ruby,89
 3195124,mperham/sidekiq,Ruby,66
 88740103,postalserver/postal,Ruby,136
-52855516,Homebrew/homebrew-core,Ruby,137
+52855516,Homebrew/homebrew-core,Ruby,136
 15435,Shopify/liquid,Ruby,83
 6529205,varvet/pundit,Ruby,41
 587311,omniauth/omniauth,Ruby,19
@@ -18,7 +18,7 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,60
 103766152,github/explore,Ruby,71
 138776049,sorbet/sorbet,Ruby,33
-200302808,ViewComponent/view_component,Ruby,51
+200302808,ViewComponent/view_component,Ruby,50
 121513081,tradingview/charting-library-examples,Ruby,20
 209731662,ruby/debug,Ruby,38
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
