@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,13
-7569578,discourse/discourse,Ruby,9
-27442967,fastlane/fastlane,Ruby,8
-2293158,rapid7/metasploit-framework,Ruby,16
-308770,heartcombo/devise,Ruby,6
+8514,rails/rails,Ruby,11
+7569578,discourse/discourse,Ruby,10
+27442967,fastlane/fastlane,Ruby,7
+2293158,rapid7/metasploit-framework,Ruby,17
+308770,heartcombo/devise,Ruby,7
 2203645,CocoaPods/CocoaPods,Ruby,5
 4095287,rubocop/rubocop,Ruby,5
 106995,sinatra/sinatra,Ruby,3
@@ -11,15 +11,15 @@ id,name,lang,new stars
 611921,activeadmin/activeadmin,Ruby,2
 8393,thoughtbot/paperclip,Ruby,0
 810796,railsadminteam/rails_admin,Ruby,0
-2441517,puma/puma,Ruby,4
+2441517,puma/puma,Ruby,5
 75785147,rails/webpacker,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,1
-30337170,rmosolgo/graphql-ruby,Ruby,0
+30337170,rmosolgo/graphql-ruby,Ruby,1
 30985840,solidusio/solidus,Ruby,2
-950915,urbanadventurer/WhatWeb,Ruby,13
+950915,urbanadventurer/WhatWeb,Ruby,8
 38867,svenfuchs/rails-i18n,Ruby,1
-1175581,citation-style-language/styles,Ruby,3
-10088951,TheOdinProject/theodinproject,Ruby,3
+1175581,citation-style-language/styles,Ruby,2
+10088951,TheOdinProject/theodinproject,Ruby,5
 238986,rspec/rspec-expectations,Ruby,0
 136781582,rubocop/rubocop-rails,Ruby,0
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0
