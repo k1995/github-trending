@@ -5,9 +5,9 @@ id,name,lang,new stars
 307260205,yt-dlp/yt-dlp,Python,186
 125266328,psf/black,Python,11
 3544424,httpie/httpie,Python,32
-71932349,ray-project/ray,Python,16
-154739597,google/jax,Python,16
-8162715,saleor/saleor,Python,10
+71932349,ray-project/ray,Python,17
+154739597,google/jax,Python,25
+8162715,saleor/saleor,Python,14
 266417772,pittcsc/Summer2023-Internships,Python,61
 300592907,mxrch/GHunt,Python,7
 139199684,PrefectHQ/prefect,Python,13
@@ -16,11 +16,11 @@ id,name,lang,new stars
 224386599,bridgecrewio/checkov,Python,5
 239201565,serengil/deepface,Python,15
 250184708,aladdinpersson/Machine-Learning-Collection,Python,11
-528378201,sd-webui/stable-diffusion-webui,Python,172
+528378201,sd-webui/stable-diffusion-webui,Python,169
 4127088,Azure/azure-sdk-for-python,Python,3
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,275
 129005655,aws-cloudformation/cfn-lint,Python,7
 513074143,nianticlabs/simplerecon,Python,27
 493054904,bobbyrsec/Microsoft-Teams-GIFShell,Python,26
-534110013,drpancake/chard,Python,22
+534110013,drpancake/chard,Python,19
 524792587,mohamedbenchikh/CVE-2022-27925,Python,8
