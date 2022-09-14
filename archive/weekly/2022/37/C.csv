@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,396
-7634677,openssl/openssl,C,42
+2325298,torvalds/linux,C,399
+7634677,openssl/openssl,C,43
 34921116,iovisor/bcc,C,46
-84240850,timescale/timescaledb,C,40
-45821540,openwrt/openwrt,C,132
-78281075,SpacehuhnTech/esp8266_deauther,C,48
+84240850,timescale/timescaledb,C,42
+45821540,openwrt/openwrt,C,129
+78281075,SpacehuhnTech/esp8266_deauther,C,49
 1856976,libevent/libevent,C,34
-35930805,EZLippi/Tinyhttpd,C,55
+35930805,EZLippi/Tinyhttpd,C,54
 13310527,jemalloc/jemalloc,C,41
-105944401,yugabyte/yugabyte-db,C,43
+105944401,yugabyte/yugabyte-db,C,42
 40504480,mit-pdos/xv6-public,C,19
 3681392,greatscottgadgets/hackrf,C,27
 400501136,deepmind/mujoco,C,35
@@ -18,9 +18,9 @@ id,name,lang,new stars
 2359378,madler/zlib,C,29
 204459250,mit-pdos/xv6-riscv,C,38
 217654199,microsoft/msquic,C,26
-71643008,Palakis/obs-ndi,C,36
-122993186,remzi-arpacidusseau/ostep-code,C,23
-526863912,hepingood/mpu9250,C,71
+71643008,Palakis/obs-ndi,C,34
+122993186,remzi-arpacidusseau/ostep-code,C,22
+526863912,hepingood/mpu9250,C,72
 403314395,48d31kh413k/1337-Piscine-42,C,25
 528410655,servetgulnaroglu/cube.c,C,21
 526170874,Tungstend/HMCL-PE,C,12
