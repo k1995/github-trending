@@ -1,19 +1,19 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,973
+83222441,donnemartin/system-design-primer,Python,972
 63476337,TheAlgorithms/Python,Python,881
-21289110,vinta/awesome-python,Python,1324
+21289110,vinta/awesome-python,Python,1305
 123458551,jackfrued/Python-100-Days,Python,796
 12888993,home-assistant/core,Python,136
-160919119,tiangolo/fastapi,Python,416
+160919119,tiangolo/fastapi,Python,415
 81598961,python/cpython,Python,195
 40416236,minimaxir/big-list-of-naughty-strings,Python,680
 33884891,apache/airflow,Python,171
 123303402,python-poetry/poetry,Python,193
 45723377,charlax/professional-programming,Python,520
-8162715,saleor/saleor,Python,88
-222751131,Asabeneh/30-Days-Of-Python,Python,278
+8162715,saleor/saleor,Python,89
+222751131,Asabeneh/30-Days-Of-Python,Python,280
 387326890,xinntao/Real-ESRGAN,Python,483
-266417772,pittcsc/Summer2023-Internships,Python,387
+266417772,pittcsc/Summer2023-Internships,Python,390
 221723816,WZMIAOMIAO/deep-learning-for-image-processing,Python,273
 288108533,karpathy/minGPT,Python,161
 305144746,geohot/tinygrad,Python,121
@@ -21,6 +21,6 @@ id,name,lang,new stars
 422274596,hpcaitech/ColossalAI,Python,151
 528378201,sd-webui/stable-diffusion-webui,Python,1668
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1957
-476918521,alibaba/EasyCV,Python,182
-522694449,impira/docquery,Python,208
+476918521,alibaba/EasyCV,Python,163
+522694449,impira/docquery,Python,199
 527796682,fboulnois/stable-diffusion-docker,Python,32

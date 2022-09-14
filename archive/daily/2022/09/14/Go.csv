@@ -3,7 +3,7 @@ id,name,lang,new stars
 26337322,rancher/rancher,Go,2
 167596393,derailed/k9s,Go,16
 6247705,stretchr/testify,Go,11
-6051812,gorilla/mux,Go,11
+6051812,gorilla/mux,Go,12
 129717717,grafana/loki,Go,16
 52034309,uber-go/zap,Go,11
 8966356,hashicorp/packer,Go,4
@@ -16,9 +16,9 @@ id,name,lang,new stars
 173785481,aquasecurity/tfsec,Go,12
 267054247,anchore/grype,Go,22
 14179252,kelseyhightower/envconfig,Go,2
-258469100,fluxcd/flux2,Go,7
-201546443,trustwallet/assets,Go,18
-109330128,uber-go/goleak,Go,22
+258469100,fluxcd/flux2,Go,8
+201546443,trustwallet/assets,Go,17
+109330128,uber-go/goleak,Go,24
 117156031,prysmaticlabs/prysm,Go,5
 57912964,kubernetes/enhancements,Go,1
 202018792,aws/copilot-cli,Go,4
