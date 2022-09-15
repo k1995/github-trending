@@ -1,14 +1,14 @@
 id,name,lang,new stars
 262395224,dotnet/maui,C#,10
-161012019,jellyfin/jellyfin,C#,98
+161012019,jellyfin/jellyfin,C#,112
 29078997,dotnet/roslyn,C#,4
-102904613,Unity-Technologies/ml-agents,C#,5
+102904613,Unity-Technologies/ml-agents,C#,6
 16157746,dotnet/efcore,C#,5
 213460285,jasontaylordev/CleanArchitecture,C#,13
 75505125,abpframework/abp,C#,11
 135050219,TGSAN/CMWTAT_Digital_Edition,C#,17
-7560589,JeffreySu/WeiXinMPSDK,C#,6
-132453438,unoplatform/uno,C#,6
+7560589,JeffreySu/WeiXinMPSDK,C#,5
+132453438,unoplatform/uno,C#,5
 460848,mRemoteNG/mRemoteNG,C#,3
 85953,gitextensions/gitextensions,C#,0
 17941520,neuecc/UniRx,C#,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 111941072,essensoft/paylink,C#,4
 278114481,homuler/MediaPipeUnityPlugin,C#,1
 534246469,shmilylty/SharpHostInfo,C#,24
-511657129,PayloadSecurity/Sandbox_Scryer,C#,18
+511657129,PayloadSecurity/Sandbox_Scryer,C#,17
 308507398,dotnet-shashlik/shashlik.eventbus,C#,4

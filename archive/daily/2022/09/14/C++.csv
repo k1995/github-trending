@@ -1,14 +1,14 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,26
-27729880,grpc/grpc,C++,18
-60246359,ClickHouse/ClickHouse,C++,16
+9384267,electron/electron,C++,25
+27729880,grpc/grpc,C++,19
+60246359,ClickHouse/ClickHouse,C++,15
 96246170,ApolloAuto/apollo,C++,12
 160083795,SerenityOS/serenity,C++,209
 1062572,catchorg/Catch2,C++,4
 7056202,fmtlib/fmt,C++,7
 102692863,onnx/onnx,C++,8
-104231541,abseil/abseil-cpp,C++,9
-51905353,apache/arrow,C++,9
+104231541,abseil/abseil-cpp,C++,8
+51905353,apache/arrow,C++,8
 131236938,drogonframework/drogon,C++,11
 7512484,ArduPilot/ardupilot,C++,6
 86897963,ZLMediaKit/ZLMediaKit,C++,8
@@ -19,8 +19,8 @@ id,name,lang,new stars
 354743391,o3de/o3de,C++,5
 161376600,flashlight/flashlight,C++,9
 178545630,ffffffff0x/1earn,C++,14
-153097643,openvinotoolkit/openvino,C++,4
+153097643,openvinotoolkit/openvino,C++,3
 471960338,BoomingTech/Piccolo,C++,10
 208145128,iree-org/iree,C++,1
-510116998,SerenityOS/ladybird,C++,164
+510116998,SerenityOS/ladybird,C++,139
 534218726,A-Normal-User/NtSocket_NtClient_NtServer,C++,4

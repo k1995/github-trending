@@ -1,19 +1,19 @@
 id,name,lang,new stars
-724712,rust-lang/rust,Rust,74
-196701619,tauri-apps/tauri,Rust,55
-115110181,swc-project/swc,Rust,13
+724712,rust-lang/rust,Rust,82
+196701619,tauri-apps/tauri,Rust,59
+115110181,swc-project/swc,Rust,14
 67836789,tokio-rs/tokio,Rust,17
-48833910,tikv/tikv,Rust,9
+48833910,tikv/tikv,Rust,10
 146327667,vectordotdev/vector,Rust,7
 23500865,hyperium/hyper,Rust,6
 31315121,clap-rs/clap,Rust,11
-26850443,rust-lang/rust-clippy,Rust,10
-263727855,pola-rs/polars,Rust,15
-230595891,launchbadge/sqlx,Rust,10
-436658287,surrealdb/surrealdb,Rust,446
-14367737,serde-rs/serde,Rust,4
-414585797,0x192/universal-android-debloater,Rust,17
-296943592,elkowar/eww,Rust,17
+26850443,rust-lang/rust-clippy,Rust,11
+263727855,pola-rs/polars,Rust,14
+230595891,launchbadge/sqlx,Rust,12
+436658287,surrealdb/surrealdb,Rust,471
+14367737,serde-rs/serde,Rust,5
+414585797,0x192/universal-android-debloater,Rust,15
+296943592,elkowar/eww,Rust,18
 212936374,dtolnay/anyhow,Rust,4
 453068084,risingwavelabs/risingwave,Rust,5
 165289175,tokio-rs/tracing,Rust,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 240971104,AleoHQ/snarkOS,Rust,3
 166616185,roc-lang/roc,Rust,6
 403282138,PhilipK/BoilR,Rust,17
-535054699,nik012003/ripdrag,Rust,13
+535054699,nik012003/ripdrag,Rust,24
 416908906,Kudaes/Dumpy,Rust,2
