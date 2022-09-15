@@ -3,7 +3,7 @@ id,name,lang,new stars
 40416236,minimaxir/big-list-of-naughty-strings,Python,89
 125266328,psf/black,Python,11
 24976755,hankcs/HanLP,Python,17
-1377867,locustio/locust,Python,9
+1377867,locustio/locust,Python,11
 101782647,facebookresearch/fairseq,Python,12
 43160685,zulip/zulip,Python,4
 130474497,eriklindernoren/PyTorch-GAN,Python,12
@@ -19,8 +19,8 @@ id,name,lang,new stars
 150677832,hhyo/Archery,Python,11
 360066433,facebookresearch/dino,Python,5
 4127088,Azure/azure-sdk-for-python,Python,6
-291213368,open-mmlab/mmtracking,Python,6
+291213368,open-mmlab/mmtracking,Python,4
 389786846,BlinkDL/AI-Writer,Python,8
-467139740,IDEACVR/DINO,Python,3
+467139740,IDEA-Research/DINO,Python,3
 533571804,saturn-opposition/wechat_analysis,Python,8
 535574348,tahaluindo/Shopee-flashsale,Python,5
