@@ -1,15 +1,15 @@
 id,name,lang,new stars
 22790488,iluwatar/java-design-patterns,Java,32
 159152904,jeecgboot/jeecg-boot,Java,13
-137451403,alibaba/nacos,Java,9
+137451403,alibaba/nacos,Java,10
 93152223,scwang90/SmartRefreshLayout,Java,1
 41889031,TeamNewPipe/NewPipe,Java,22
-128018428,alibaba/Sentinel,Java,6
+128018428,alibaba/Sentinel,Java,4
 20773773,bazelbuild/bazel,Java,12
-149001365,doocs/leetcode,Java,28
+149001365,doocs/leetcode,Java,33
 75277003,thingsboard/thingsboard,Java,7
 118497841,GoogleContainerTools/jib,Java,5
-27729926,grpc/grpc-java,Java,3
+27729926,grpc/grpc-java,Java,2
 33218414,react-native-camera/react-native-camera,Java,4
 96704265,MindorksOpenSource/android-interview-questions,Java,17
 120463532,alibaba/COLA,Java,12
@@ -20,7 +20,7 @@ id,name,lang,new stars
 131364545,baomidou/dynamic-datasource-spring-boot-starter,Java,4
 87859908,micrometer-metrics/micrometer,Java,2
 76474200,apache/hudi,Java,3
-98801926,thombergs/code-examples,Java,6
+98801926,thombergs/code-examples,Java,9
 160156999,quarkusio/quarkus-quickstarts,Java,1
 306977038,OpenLineage/OpenLineage,Java,7
 296471971,FIRST-Tech-Challenge/FtcRobotController,Java,3

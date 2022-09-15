@@ -4,11 +4,11 @@ id,name,lang,new stars
 115110181,swc-project/swc,Rust,14
 67836789,tokio-rs/tokio,Rust,17
 48833910,tikv/tikv,Rust,10
-146327667,vectordotdev/vector,Rust,7
-23500865,hyperium/hyper,Rust,6
-31315121,clap-rs/clap,Rust,11
-26850443,rust-lang/rust-clippy,Rust,11
-263727855,pola-rs/polars,Rust,14
+146327667,vectordotdev/vector,Rust,8
+23500865,hyperium/hyper,Rust,9
+31315121,clap-rs/clap,Rust,8
+26850443,rust-lang/rust-clippy,Rust,12
+263727855,pola-rs/polars,Rust,16
 230595891,launchbadge/sqlx,Rust,12
 436658287,surrealdb/surrealdb,Rust,471
 14367737,serde-rs/serde,Rust,5
