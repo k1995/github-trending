@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,1970
-67186968,chinese-poetry/chinese-poetry,JavaScript,753
-523379232,CompVis/stable-diffusion,Jupyter Notebook,19817
-160083795,SerenityOS/serenity,C++,793
-348060227,withastro/astro,TypeScript,3832
+184456251,microsoft/PowerToys,C#,1975
+67186968,chinese-poetry/chinese-poetry,JavaScript,751
+523379232,CompVis/stable-diffusion,Jupyter Notebook,19828
+160083795,SerenityOS/serenity,C++,796
+348060227,withastro/astro,TypeScript,3799
 74962515,gchq/CyberChef,JavaScript,1335
-149001365,doocs/leetcode,Java,2076
-120425779,lapce/lapce,Rust,3460
-387326890,xinntao/Real-ESRGAN,Python,1758
-468515960,CodeEditApp/CodeEdit,Swift,2166
-266417772,pittcsc/Summer2023-Internships,Python,1739
-268424739,helix-editor/helix,Rust,1472
-148641954,TheAlgorithms/Rust,Rust,1931
-273871859,juanfont/headscale,Go,1545
-198350484,microsoft/unilm,Python,530
-439491516,ange-yaghi/engine-sim,C++,2992
-498011141,huggingface/diffusers,Python,3761
-455229168,immich-app/immich,Dart,2029
-166304026,BishopFox/sliver,Go,745
-440244590,CompVis/latent-diffusion,Jupyter Notebook,1084
-462597790,aptos-labs/aptos-core,Rust,624
-516904877,google-research/multinerf,Python,1531
-388946490,facebookincubator/velox,C++,517
-508576019,Tencent/wujie,TypeScript,701
-476381845,bitnami/containers,Shell,200
+149001365,doocs/leetcode,Java,2075
+120425779,lapce/lapce,Rust,3477
+387326890,xinntao/Real-ESRGAN,Python,1760
+468515960,CodeEditApp/CodeEdit,Swift,2159
+268424739,helix-editor/helix,Rust,1474
+434218673,zinclabs/zinc,Go,1941
+148641954,TheAlgorithms/Rust,Rust,1928
+198350484,microsoft/unilm,Python,527
+439491516,ange-yaghi/engine-sim,C++,2959
+498011141,huggingface/diffusers,Python,3764
+455229168,immich-app/immich,Dart,2031
+166304026,BishopFox/sliver,Go,748
+440244590,CompVis/latent-diffusion,Jupyter Notebook,1085
+462597790,aptos-labs/aptos-core,Rust,619
+516904877,google-research/multinerf,Python,1530
+388946490,facebookincubator/velox,C++,521
+471494981,revanced/revanced-manager,Dart,629
+508576019,Tencent/wujie,TypeScript,700
+476381845,bitnami/containers,Shell,197
