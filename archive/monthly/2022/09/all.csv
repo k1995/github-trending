@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,1994
-67186968,chinese-poetry/chinese-poetry,JavaScript,755
-523379232,CompVis/stable-diffusion,Jupyter Notebook,19653
+184456251,microsoft/PowerToys,C#,2006
+67186968,chinese-poetry/chinese-poetry,JavaScript,754
+523379232,CompVis/stable-diffusion,Jupyter Notebook,19542
 160083795,SerenityOS/serenity,C++,805
-348060227,withastro/astro,TypeScript,3753
-74962515,gchq/CyberChef,JavaScript,1331
-149001365,doocs/leetcode,Java,2081
-120425779,lapce/lapce,Rust,3506
-387326890,xinntao/Real-ESRGAN,Python,1767
-468515960,CodeEditApp/CodeEdit,Swift,2154
-268424739,helix-editor/helix,Rust,1479
-434218673,zinclabs/zinc,Go,1942
+348060227,withastro/astro,TypeScript,3730
+74962515,gchq/CyberChef,JavaScript,1332
+149001365,doocs/leetcode,Java,2083
+120425779,lapce/lapce,Rust,3519
+387326890,xinntao/Real-ESRGAN,Python,1770
+468515960,CodeEditApp/CodeEdit,Swift,2155
+268424739,helix-editor/helix,Rust,1483
+434218673,zinclabs/zinc,Go,1941
 148641954,TheAlgorithms/Rust,Rust,1932
-198350484,microsoft/unilm,Python,527
-439491516,ange-yaghi/engine-sim,C++,2895
-498011141,huggingface/diffusers,Python,3773
-455229168,immich-app/immich,Dart,2031
-166304026,BishopFox/sliver,Go,750
+198350484,microsoft/unilm,Python,526
+439491516,ange-yaghi/engine-sim,C++,2884
+498011141,huggingface/diffusers,Python,3779
+455229168,immich-app/immich,Dart,2036
+166304026,BishopFox/sliver,Go,752
 462597790,aptos-labs/aptos-core,Rust,618
-440244590,CompVis/latent-diffusion,Jupyter Notebook,1077
+440244590,CompVis/latent-diffusion,Jupyter Notebook,1074
 516904877,google-research/multinerf,Python,1530
+471494981,revanced/revanced-manager,Dart,763
 388946490,facebookincubator/velox,C++,523
-471494981,revanced/revanced-manager,Dart,707
-508576019,Tencent/wujie,TypeScript,690
-476381845,bitnami/containers,Shell,197
+508576019,Tencent/wujie,TypeScript,691
+476381845,bitnami/containers,Shell,203
