@@ -1,5 +1,5 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,49
+20580498,kubernetes/kubernetes,Go,47
 20904437,gin-gonic/gin,Go,31
 13855476,go-gorm/gorm,Go,11
 15045751,docker/compose,Go,26
@@ -9,7 +9,7 @@ id,name,lang,new stars
 52034309,uber-go/zap,Go,13
 5179099,go-redis/redis,Go,19
 8966356,hashicorp/packer,Go,2
-72891330,kubernetes/ingress-nginx,Go,11
+72891330,kubernetes/ingress-nginx,Go,10
 510607652,pocketbase/pocketbase,Go,884
 208728772,milvus-io/milvus,Go,19
 30711774,go-playground/validator,Go,13

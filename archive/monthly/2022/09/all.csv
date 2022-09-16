@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2006
-67186968,chinese-poetry/chinese-poetry,JavaScript,754
-523379232,CompVis/stable-diffusion,Jupyter Notebook,19542
-160083795,SerenityOS/serenity,C++,805
-348060227,withastro/astro,TypeScript,3730
-74962515,gchq/CyberChef,JavaScript,1332
-149001365,doocs/leetcode,Java,2083
-120425779,lapce/lapce,Rust,3519
-387326890,xinntao/Real-ESRGAN,Python,1770
+184456251,microsoft/PowerToys,C#,2008
+67186968,chinese-poetry/chinese-poetry,JavaScript,755
+523379232,CompVis/stable-diffusion,Jupyter Notebook,19439
+160083795,SerenityOS/serenity,C++,807
+348060227,withastro/astro,TypeScript,3728
+74962515,gchq/CyberChef,JavaScript,1336
+149001365,doocs/leetcode,Java,2084
+120425779,lapce/lapce,Rust,3528
+387326890,xinntao/Real-ESRGAN,Python,1769
 468515960,CodeEditApp/CodeEdit,Swift,2155
-268424739,helix-editor/helix,Rust,1483
-434218673,zinclabs/zinc,Go,1941
-148641954,TheAlgorithms/Rust,Rust,1932
+268424739,helix-editor/helix,Rust,1486
+434218673,zinclabs/zinc,Go,1942
+148641954,TheAlgorithms/Rust,Rust,1931
 198350484,microsoft/unilm,Python,526
-439491516,ange-yaghi/engine-sim,C++,2884
-498011141,huggingface/diffusers,Python,3779
-455229168,immich-app/immich,Dart,2036
+439491516,ange-yaghi/engine-sim,C++,2873
+498011141,huggingface/diffusers,Python,3781
+455229168,immich-app/immich,Dart,2037
 166304026,BishopFox/sliver,Go,752
+440244590,CompVis/latent-diffusion,Jupyter Notebook,1068
 462597790,aptos-labs/aptos-core,Rust,618
-440244590,CompVis/latent-diffusion,Jupyter Notebook,1074
-516904877,google-research/multinerf,Python,1530
-471494981,revanced/revanced-manager,Dart,763
+516904877,google-research/multinerf,Python,1527
+471494981,revanced/revanced-manager,Dart,811
 388946490,facebookincubator/velox,C++,523
-508576019,Tencent/wujie,TypeScript,691
+508576019,Tencent/wujie,TypeScript,690
 476381845,bitnami/containers,Shell,203
