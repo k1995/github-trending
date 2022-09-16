@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2017
+184456251,microsoft/PowerToys,C#,2022
 67186968,chinese-poetry/chinese-poetry,JavaScript,755
-523379232,CompVis/stable-diffusion,Jupyter Notebook,19216
+523379232,CompVis/stable-diffusion,Jupyter Notebook,19131
 160083795,SerenityOS/serenity,C++,821
-348060227,withastro/astro,TypeScript,3673
+348060227,withastro/astro,TypeScript,3650
 74962515,gchq/CyberChef,JavaScript,1336
-149001365,doocs/leetcode,Java,2091
-120425779,lapce/lapce,Rust,3566
-387326890,xinntao/Real-ESRGAN,Python,1773
-468515960,CodeEditApp/CodeEdit,Swift,2152
-268424739,helix-editor/helix,Rust,1488
-434218673,zinclabs/zinc,Go,1945
-148641954,TheAlgorithms/Rust,Rust,1930
-198350484,microsoft/unilm,Python,527
-439491516,ange-yaghi/engine-sim,C++,2841
-498011141,huggingface/diffusers,Python,3790
-455229168,immich-app/immich,Dart,2135
-166304026,BishopFox/sliver,Go,759
-440244590,CompVis/latent-diffusion,Jupyter Notebook,1068
-462597790,aptos-labs/aptos-core,Rust,617
-516904877,google-research/multinerf,Python,1528
-471494981,revanced/revanced-manager,Dart,883
+149001365,doocs/leetcode,Java,2092
+120425779,lapce/lapce,Rust,3582
+387326890,xinntao/Real-ESRGAN,Python,1779
+468515960,CodeEditApp/CodeEdit,Swift,2145
+268424739,helix-editor/helix,Rust,1489
+434218673,zinclabs/zinc,Go,1944
+148641954,TheAlgorithms/Rust,Rust,1929
+198350484,microsoft/unilm,Python,531
+439491516,ange-yaghi/engine-sim,C++,2823
+498011141,huggingface/diffusers,Python,3787
+455229168,immich-app/immich,Dart,2158
+166304026,BishopFox/sliver,Go,761
+440244590,CompVis/latent-diffusion,Jupyter Notebook,1066
+462597790,aptos-labs/aptos-core,Rust,612
+516904877,google-research/multinerf,Python,1529
+471494981,revanced/revanced-manager,Dart,920
 388946490,facebookincubator/velox,C++,527
-508576019,Tencent/wujie,TypeScript,673
-476381845,bitnami/containers,Shell,204
+508576019,Tencent/wujie,TypeScript,672
+476381845,bitnami/containers,Shell,203
