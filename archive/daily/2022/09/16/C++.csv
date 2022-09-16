@@ -1,14 +1,14 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,35
-1181927,bitcoin/bitcoin,C++,24
-23357588,protocolbuffers/protobuf,C++,57
-15634981,godotengine/godot,C++,57
-116167731,yuzu-emu/yuzu,C++,12
-271714,wkhtmltopdf/wkhtmltopdf,C++,9
-2310495,ceph/ceph,C++,3
-79317191,typesense/typesense,C++,73
-51905353,apache/arrow,C++,4
-31197250,google/glog,C++,63
-23496542,openai/triton,C++,13
-510116998,SerenityOS/ladybird,C++,79
-48593559,nuttyartist/notes,C++,77
+100060912,microsoft/terminal,C++,33
+1181927,bitcoin/bitcoin,C++,26
+23357588,protocolbuffers/protobuf,C++,53
+15634981,godotengine/godot,C++,59
+116167731,yuzu-emu/yuzu,C++,11
+271714,wkhtmltopdf/wkhtmltopdf,C++,4
+2310495,ceph/ceph,C++,5
+79317191,typesense/typesense,C++,71
+51905353,apache/arrow,C++,3
+31197250,google/glog,C++,58
+23496542,openai/triton,C++,14
+48593559,nuttyartist/notes,C++,60
+510116998,SerenityOS/ladybird,C++,104

@@ -1,6 +1,6 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,45
-11225014,etcd-io/etcd,Go,22
+20580498,kubernetes/kubernetes,Go,40
+11225014,etcd-io/etcd,Go,18
 15452919,ethereum/go-ethereum,Go,24
 29261473,minio/minio,Go,25
 31288958,hashicorp/vault,Go,8
@@ -8,10 +8,10 @@ id,name,lang,new stars
 510607652,pocketbase/pocketbase,Go,656
 87617508,casbin/casbin,Go,7
 370977430,OpenIMSDK/Open-IM-Server,Go,29
-48714685,open-policy-agent/opa,Go,10
+48714685,open-policy-agent/opa,Go,9
 53356367,containers/skopeo,Go,8
 105711679,envoyproxy/protoc-gen-validate,Go,3
-280658081,v2fly/domain-list-community,Go,19
+280658081,v2fly/domain-list-community,Go,18
 145433521,v2ray/domain-list-community,Go,57
-534023067,BishopFox/cloudfox,Go,90
-401347836,devploit/dontgo403,Go,24
+534023067,BishopFox/cloudfox,Go,80
+401347836,devploit/dontgo403,Go,25
