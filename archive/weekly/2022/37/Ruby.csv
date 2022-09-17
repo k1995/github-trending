@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,58
+8514,rails/rails,Ruby,60
 27442967,fastlane/fastlane,Ruby,46
-53238813,Homebrew/brew,Ruby,85
-2293158,rapid7/metasploit-framework,Ruby,76
+53238813,Homebrew/brew,Ruby,84
+2293158,rapid7/metasploit-framework,Ruby,77
 73648678,forem/forem,Ruby,49
 538746,ruby/ruby,Ruby,26
-2203645,CocoaPods/CocoaPods,Ruby,14
-18486300,lewagon/setup,Ruby,30
-4095287,rubocop/rubocop,Ruby,18
-15435,Shopify/liquid,Ruby,12
+2203645,CocoaPods/CocoaPods,Ruby,15
+18486300,lewagon/setup,Ruby,32
+4095287,rubocop/rubocop,Ruby,17
+15435,Shopify/liquid,Ruby,14
 6529205,varvet/pundit,Ruby,7
 21829,thoughtbot/factory_bot,Ruby,6
 2441517,puma/puma,Ruby,17
@@ -16,11 +16,11 @@ id,name,lang,new stars
 1314319,instructure/canvas-lms,Ruby,7
 96071,rack/rack,Ruby,17
 30985840,solidusio/solidus,Ruby,13
-950915,urbanadventurer/WhatWeb,Ruby,47
+950915,urbanadventurer/WhatWeb,Ruby,46
 103766152,github/explore,Ruby,15
 5144181,jnunemaker/flipper,Ruby,19
 93163073,dependabot/dependabot-core,Ruby,19
 209731662,ruby/debug,Ruby,9
-463648726,Shopify/ruby-lsp,Ruby,9
+463648726,Shopify/ruby-lsp,Ruby,10
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,1
 387924838,learn-co-curriculum/phase-3-sinatra-react-project,Ruby,1
