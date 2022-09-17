@@ -1,25 +1,20 @@
 id,name,lang,new stars
 63476337,TheAlgorithms/Python,Python,1193
-21289110,vinta/awesome-python,Python,960
-184456251,microsoft/PowerToys,C#,735
-101296881,mtdvio/every-programmer-should-know,,1113
+23357588,protocolbuffers/protobuf,C++,153
 32578467,danielgindi/Charts,Swift,195
 74660642,taichi-dev/taichi,C++,430
-120425779,lapce/lapce,Rust,1673
+120425779,lapce/lapce,Rust,1671
 161012019,jellyfin/jellyfin,C#,345
 510607652,pocketbase/pocketbase,Go,3056
-162276894,Wilfred/difftastic,Rust,571
-453717720,AykutSarac/jsoncrack.com,TypeScript,2633
+280557054,trpc/trpc,TypeScript,555
+453717720,AykutSarac/jsoncrack.com,TypeScript,2622
 130013,akka/akka,Scala,79
-436658287,surrealdb/surrealdb,Rust,5045
-162672577,PaddlePaddle/PaddleHub,Python,840
-21298446,firefly-iii/firefly-iii,PHP,132
-323965659,alist-org/alist,Go,317
-80358070,qazbnm456/awesome-web-security,,783
-495836457,t3-oss/create-t3-app,TypeScript,517
-522358431,IdreesInc/Monocraft,,791
+436658287,surrealdb/surrealdb,Rust,5243
+323965659,alist-org/alist,Go,373
+495836457,t3-oss/create-t3-app,TypeScript,518
+256401220,alexeygrigorev/mlbookcamp-code,Jupyter Notebook,441
 528378201,sd-webui/stable-diffusion-webui,Python,1108
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1576
-188779637,apache/incubator-streampark,Java,264
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1466
 530314795,gskinnerTeam/flutter-wonderous-app,Dart,333
-62907113,holbertonschool/Betty,Perl,47
+505667511,sczhou/CodeFormer,Python,111
+529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,171
