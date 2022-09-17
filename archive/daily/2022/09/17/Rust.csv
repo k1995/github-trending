@@ -1,19 +1,19 @@
 id,name,lang,new stars
-196701619,tauri-apps/tauri,Rust,115
+196701619,tauri-apps/tauri,Rust,110
 21938243,rust-unofficial/awesome-rust,Rust,31
 179164257,diem/diem,Rust,1
 197081291,iced-rs/iced,Rust,17
 48833910,tikv/tikv,Rust,11
-23500865,hyperium/hyper,Rust,35
-436658287,surrealdb/surrealdb,Rust,2217
+23500865,hyperium/hyper,Rust,27
+436658287,surrealdb/surrealdb,Rust,2254
 144140342,paritytech/polkadot,Rust,4
-261124045,slint-ui/slint,Rust,11
+261124045,slint-ui/slint,Rust,12
 302827809,datafuselabs/databend,Rust,8
 351806852,neondatabase/neon,Rust,25
 165289175,tokio-rs/tracing,Rust,3
-139952333,sigp/lighthouse,Rust,8
+139952333,sigp/lighthouse,Rust,4
 480592723,move-language/move,Rust,9
 282684311,wormhole-foundation/wormhole,Rust,2
 252440219,MCHPR/MCHPRS,Rust,55
 424598738,apollographql/router,Rust,3
-35727618,b23r0/Heroinn,Rust,35
+35727618,b23r0/Heroinn,Rust,55
