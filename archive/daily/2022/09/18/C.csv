@@ -2,14 +2,14 @@ id,name,lang,new stars
 10744183,netdata/netdata,C,8
 156018,redis/redis,C,12
 1903522,php/php-src,C,3
-3774328,wg/wrk,C,11
+3774328,wg/wrk,C,10
 569041,curl/curl,C,11
 24586308,cfenollosa/os-tutorial,C,17
 102578345,coolsnowwolf/lede,C,13
 14812739,libuv/libuv,C,11
 80286288,arendst/Tasmota,C,3
-927442,postgres/postgres,C,6
-60667730,lvgl/lvgl,C,8
+927442,postgres/postgres,C,8
+60667730,lvgl/lvgl,C,9
 1856976,libevent/libevent,C,5
 54280778,DaveGamble/cJSON,C,3
 44781140,greenplum-db/gpdb,C,7
@@ -17,7 +17,7 @@ id,name,lang,new stars
 61451917,winfsp/sshfs-win,C,4
 1613176,tianocore/edk2,C,2
 6860771,hathach/tinyusb,C,3
-284134871,flipperdevices/flipperzero-firmware,C,29
+284134871,flipperdevices/flipperzero-firmware,C,31
 206121828,FreeRTOS/FreeRTOS,C,1
 1335680,blackmagic-debug/blackmagic,C,3
 506164578,GPUOpen-Effects/FidelityFX-FSR2,C,2
