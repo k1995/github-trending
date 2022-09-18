@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2065
-523379232,CompVis/stable-diffusion,Jupyter Notebook,18408
-123303402,python-poetry/poetry,Python,880
-160083795,SerenityOS/serenity,C++,840
-348060227,withastro/astro,TypeScript,3447
-74962515,gchq/CyberChef,JavaScript,1350
-149001365,doocs/leetcode,Java,2109
-120425779,lapce/lapce,Rust,3755
-387326890,xinntao/Real-ESRGAN,Python,1784
-468515960,CodeEditApp/CodeEdit,Swift,2133
-268424739,helix-editor/helix,Rust,1503
-434218673,zinclabs/zinc,Go,1956
+184456251,microsoft/PowerToys,C#,2069
+523379232,CompVis/stable-diffusion,Jupyter Notebook,18393
+123303402,python-poetry/poetry,Python,879
+160083795,SerenityOS/serenity,C++,838
+348060227,withastro/astro,TypeScript,3445
+74962515,gchq/CyberChef,JavaScript,1367
+149001365,doocs/leetcode,Java,2111
+120425779,lapce/lapce,Rust,3768
+387326890,xinntao/Real-ESRGAN,Python,1783
+468515960,CodeEditApp/CodeEdit,Swift,2131
+268424739,helix-editor/helix,Rust,1508
+434218673,zinclabs/zinc,Go,1959
 148641954,TheAlgorithms/Rust,Rust,1944
-525105056,karanpratapsingh/system-design,,8810
+525105056,karanpratapsingh/system-design,,8785
 198350484,microsoft/unilm,Python,539
-498011141,huggingface/diffusers,Python,3750
-455229168,immich-app/immich,Dart,1942
-166304026,BishopFox/sliver,Go,768
-440244590,CompVis/latent-diffusion,Jupyter Notebook,1051
+498011141,huggingface/diffusers,Python,3754
+455229168,immich-app/immich,Dart,1940
+166304026,BishopFox/sliver,Go,769
+440244590,CompVis/latent-diffusion,Jupyter Notebook,1052
 462597790,aptos-labs/aptos-core,Rust,591
-516904877,google-research/multinerf,Python,1461
-471494981,revanced/revanced-manager,Dart,1246
+516904877,google-research/multinerf,Python,1454
+471494981,revanced/revanced-manager,Dart,1262
 388946490,facebookincubator/velox,C++,527
 508576019,Tencent/wujie,TypeScript,633
-476381845,bitnami/containers,Shell,205
+476381845,bitnami/containers,Shell,208

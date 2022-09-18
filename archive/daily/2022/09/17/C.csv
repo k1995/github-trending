@@ -2,8 +2,8 @@ id,name,lang,new stars
 10744183,netdata/netdata,C,11
 156018,redis/redis,C,16
 1903522,php/php-src,C,4
-3774328,wg/wrk,C,9
-569041,curl/curl,C,9
+3774328,wg/wrk,C,11
+569041,curl/curl,C,11
 24586308,cfenollosa/os-tutorial,C,17
 102578345,coolsnowwolf/lede,C,14
 14812739,libuv/libuv,C,12
@@ -19,8 +19,8 @@ id,name,lang,new stars
 6860771,hathach/tinyusb,C,2
 284134871,flipperdevices/flipperzero-firmware,C,17
 206121828,FreeRTOS/FreeRTOS,C,1
-1335680,blackmagic-debug/blackmagic,C,4
+1335680,blackmagic-debug/blackmagic,C,3
 506164578,GPUOpen-Effects/FidelityFX-FSR2,C,2
 53432472,sonic-net/sonic-buildimage,C,1
-522642478,sipeed/TinyMaix,C,15
+522642478,sipeed/TinyMaix,C,17
 403314395,48d31kh413k/1337-Piscine-42,C,9

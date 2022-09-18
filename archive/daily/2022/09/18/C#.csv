@@ -1,7 +1,7 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,8
-17620347,dotnet/aspnetcore,C#,7
-262395224,dotnet/maui,C#,15
+49609581,PowerShell/PowerShell,C#,9
+17620347,dotnet/aspnetcore,C#,6
+262395224,dotnet/maui,C#,12
 14964475,AvaloniaUI/Avalonia,C#,13
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,1
 28239455,dotnet/AspNetCore.Docs,C#,6
@@ -21,6 +21,6 @@ id,name,lang,new stars
 119571446,dotnet/samples,C#,2
 56710511,xamarin/xamarin-macios,C#,2
 185478059,open-telemetry/opentelemetry-dotnet,C#,4
-419415576,CommunityToolkit/dotnet,C#,8
+419415576,CommunityToolkit/dotnet,C#,9
 126898329,microsoft/PowerApps-Samples,C#,1
-491611289,zeroruka/GI-Assets,C#,10
+491611289,zeroruka/GI-Assets,C#,9

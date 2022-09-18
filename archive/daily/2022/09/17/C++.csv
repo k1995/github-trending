@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,12
-5108051,opencv/opencv,C++,15
-23357588,protocolbuffers/protobuf,C++,13
+5108051,opencv/opencv,C++,14
+23357588,protocolbuffers/protobuf,C++,12
 15634981,godotengine/godot,C++,43
 39840932,google/googletest,C++,7
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,8
@@ -11,7 +11,7 @@ id,name,lang,new stars
 283410102,sogou/workflow,C++,5
 648332,assimp/assimp,C++,2
 263379,zeromq/libzmq,C++,5
-5909706,yhirose/cpp-httplib,C++,11
+5909706,yhirose/cpp-httplib,C++,12
 86897963,ZLMediaKit/ZLMediaKit,C++,5
 46374199,IntelRealSense/librealsense,C++,0
 2345629,zaphoyd/websocketpp,C++,7
