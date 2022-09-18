@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2067
-523379232,CompVis/stable-diffusion,Jupyter Notebook,18244
-123303402,python-poetry/poetry,Python,880
-160083795,SerenityOS/serenity,C++,844
-348060227,withastro/astro,TypeScript,3369
+184456251,microsoft/PowerToys,C#,2061
+523379232,CompVis/stable-diffusion,Jupyter Notebook,18254
+123303402,python-poetry/poetry,Python,883
+160083795,SerenityOS/serenity,C++,849
+348060227,withastro/astro,TypeScript,3296
 74962515,gchq/CyberChef,JavaScript,1368
 149001365,doocs/leetcode,Java,2118
-120425779,lapce/lapce,Rust,3835
+120425779,lapce/lapce,Rust,3851
 387326890,xinntao/Real-ESRGAN,Python,1778
 468515960,CodeEditApp/CodeEdit,Swift,2122
-268424739,helix-editor/helix,Rust,1519
-434218673,zinclabs/zinc,Go,1959
-148641954,TheAlgorithms/Rust,Rust,1949
-525105056,karanpratapsingh/system-design,,7664
-261039251,pointfreeco/swift-composable-architecture,Swift,264
-198350484,microsoft/unilm,Python,544
-498011141,huggingface/diffusers,Python,3750
-455229168,immich-app/immich,Dart,1920
+268424739,helix-editor/helix,Rust,1520
+434218673,zinclabs/zinc,Go,1957
+148641954,TheAlgorithms/Rust,Rust,1953
+525105056,karanpratapsingh/system-design,,7496
+261039251,pointfreeco/swift-composable-architecture,Swift,263
+198350484,microsoft/unilm,Python,543
+498011141,huggingface/diffusers,Python,3751
+455229168,immich-app/immich,Dart,1921
 166304026,BishopFox/sliver,Go,774
-440244590,CompVis/latent-diffusion,Jupyter Notebook,1025
-471494981,revanced/revanced-manager,Dart,1393
-516904877,google-research/multinerf,Python,1404
-388946490,facebookincubator/velox,C++,526
-508576019,Tencent/wujie,TypeScript,602
-476381845,bitnami/containers,Shell,208
+440244590,CompVis/latent-diffusion,Jupyter Notebook,1027
+471494981,revanced/revanced-manager,Dart,1407
+516904877,google-research/multinerf,Python,1396
+388946490,facebookincubator/velox,C++,527
+508576019,Tencent/wujie,TypeScript,598
+476381845,bitnami/containers,Shell,205
