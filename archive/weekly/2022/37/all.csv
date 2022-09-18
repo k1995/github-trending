@@ -1,20 +1,20 @@
 id,name,lang,new stars
-63476337,TheAlgorithms/Python,Python,1151
-23357588,protocolbuffers/protobuf,C++,149
+63476337,TheAlgorithms/Python,Python,1146
+23357588,protocolbuffers/protobuf,C++,150
 32578467,danielgindi/Charts,Swift,204
-74660642,taichi-dev/taichi,C++,332
-120425779,lapce/lapce,Rust,1480
+74660642,taichi-dev/taichi,C++,327
+120425779,lapce/lapce,Rust,1470
 161012019,jellyfin/jellyfin,C#,354
-510607652,pocketbase/pocketbase,Go,3194
-280557054,trpc/trpc,TypeScript,563
-453717720,AykutSarac/jsoncrack.com,TypeScript,2232
-130013,akka/akka,Scala,50
-436658287,surrealdb/surrealdb,Rust,5842
-323965659,alist-org/alist,Go,418
-495836457,t3-oss/create-t3-app,TypeScript,456
-256401220,alexeygrigorev/mlbookcamp-code,Jupyter Notebook,430
-528378201,sd-webui/stable-diffusion-webui,Python,942
+510607652,pocketbase/pocketbase,Go,3207
+280557054,trpc/trpc,TypeScript,565
+453717720,AykutSarac/jsoncrack.com,TypeScript,2222
+130013,akka/akka,Scala,43
+436658287,surrealdb/surrealdb,Rust,5798
+323965659,alist-org/alist,Go,382
+495836457,t3-oss/create-t3-app,TypeScript,455
+256401220,alexeygrigorev/mlbookcamp-code,Jupyter Notebook,431
+528378201,sd-webui/stable-diffusion-webui,Python,944
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1239
-530314795,gskinnerTeam/flutter-wonderous-app,Dart,328
-505667511,sczhou/CodeFormer,Python,107
-529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,188
+530314795,gskinnerTeam/flutter-wonderous-app,Dart,327
+529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,186
+505667511,sczhou/CodeFormer,Python,109

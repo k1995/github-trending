@@ -1,15 +1,15 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,218
+20580498,kubernetes/kubernetes,Go,225
 14712850,syncthing/syncthing,Go,157
 15452919,ethereum/go-ethereum,Go,216
-17728164,hashicorp/terraform,Go,103
-59239347,portainer/portainer,Go,91
+17728164,hashicorp/terraform,Go,102
+59239347,portainer/portainer,Go,92
 119160553,photoprism/photoprism,Go,139
 21827146,seaweedfs/seaweedfs,Go,79
-510607652,pocketbase/pocketbase,Go,3194
-31558937,gravitational/teleport,Go,84
+510607652,pocketbase/pocketbase,Go,3252
+31558937,gravitational/teleport,Go,81
 161951219,wailsapp/wails,Go,122
-134012064,pion/webrtc,Go,112
+134012064,pion/webrtc,Go,111
 370977430,OpenIMSDK/Open-IM-Server,Go,172
 323965659,alist-org/alist,Go,418
 91054480,rs/zerolog,Go,76
