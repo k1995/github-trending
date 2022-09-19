@@ -13,9 +13,9 @@ id,name,lang,new stars
 436658287,surrealdb/surrealdb,Rust,5913
 162672577,PaddlePaddle/PaddleHub,Python,902
 323965659,alist-org/alist,Go,457
-21298446,firefly-iii/firefly-iii,PHP,127
+21298446,firefly-iii/firefly-iii,PHP,129
 256401220,alexeygrigorev/mlbookcamp-code,Jupyter Notebook,357
-474384591,meienberger/runtipi,TypeScript,1567
+474384591,meienberger/runtipi,TypeScript,1459
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1184
 149554797,ethereum/consensus-specs,Python,30
 534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1596
@@ -23,4 +23,4 @@ id,name,lang,new stars
 490465859,UberGuidoZ/Flipper,HTML,220
 529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,251
 505667511,sczhou/CodeFormer,Python,101
-490751204,OpenRadioss/OpenRadioss,Fortran,68
+490751204,OpenRadioss/OpenRadioss,Fortran,72
