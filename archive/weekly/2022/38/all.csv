@@ -1,26 +1,26 @@
 id,name,lang,new stars
 13491895,EbookFoundation/free-programming-books,,1388
-60493101,jwasham/coding-interview-university,,1798
-63476337,TheAlgorithms/Python,Python,1042
-23357588,protocolbuffers/protobuf,C++,154
+60493101,jwasham/coding-interview-university,,1767
+63476337,TheAlgorithms/Python,Python,967
+23357588,protocolbuffers/protobuf,C++,163
 22458259,Alamofire/Alamofire,Swift,104
-27729880,grpc/grpc,C++,84
+27729880,grpc/grpc,C++,97
 32578467,danielgindi/Charts,Swift,205
-120425779,lapce/lapce,Rust,1222
-510607652,pocketbase/pocketbase,Go,3320
-280557054,trpc/trpc,TypeScript,519
+120425779,lapce/lapce,Rust,1275
+510607652,pocketbase/pocketbase,Go,3353
+280557054,trpc/trpc,TypeScript,522
 208728772,milvus-io/milvus,Go,492
-453717720,AykutSarac/jsoncrack.com,TypeScript,1865
-436658287,surrealdb/surrealdb,Rust,5913
-162672577,PaddlePaddle/PaddleHub,Python,902
-323965659,alist-org/alist,Go,457
-80358070,qazbnm456/awesome-web-security,,736
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1184
+453717720,AykutSarac/jsoncrack.com,TypeScript,1864
+436658287,surrealdb/surrealdb,Rust,5989
+162672577,PaddlePaddle/PaddleHub,Python,901
+323965659,alist-org/alist,Go,548
+80358070,qazbnm456/awesome-web-security,,622
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1088
 149554797,ethereum/consensus-specs,Python,30
-534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1596
-471494981,revanced/revanced-manager,Dart,1107
-490465859,UberGuidoZ/Flipper,HTML,220
+534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1640
+471494981,revanced/revanced-manager,Dart,1152
+490465859,UberGuidoZ/Flipper,HTML,217
 528313152,benphelps/homepage,JavaScript,445
-529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,251
-505667511,sczhou/CodeFormer,Python,101
-490751204,OpenRadioss/OpenRadioss,Fortran,72
+529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,306
+505667511,sczhou/CodeFormer,Python,95
+490751204,OpenRadioss/OpenRadioss,Fortran,69
