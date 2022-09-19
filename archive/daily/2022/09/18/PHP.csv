@@ -1,12 +1,12 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,11
-60243197,nextcloud/server,PHP,6
-82238168,monicahq/monica,PHP,5
-1548202,matomo-org/matomo,PHP,4
+3482588,danielmiessler/SecLists,PHP,18
+60243197,nextcloud/server,PHP,4
+82238168,monicahq/monica,PHP,6
+1548202,matomo-org/matomo,PHP,3
 2889328,WordPress/WordPress,PHP,5
 26730195,CachetHQ/Cachet,PHP,1
-6763587,PrestaShop/PrestaShop,PHP,3
-3217621,phpmyadmin/phpmyadmin,PHP,3
+6763587,PrestaShop/PrestaShop,PHP,1
+3217621,phpmyadmin/phpmyadmin,PHP,2
 95011974,akaunting/akaunting,PHP,3
 12204147,mautic/mautic,PHP,2
 248372441,filamentphp/filament,PHP,11
@@ -15,12 +15,12 @@ id,name,lang,new stars
 129852395,assimon/dujiaoka,PHP,2
 69691727,pmmp/PocketMine-MP,PHP,1
 38957562,leokhoa/laragon,PHP,6
-96090745,ambionics/phpggc,PHP,1
-93982796,Tuhinshubhra/RED_HAWK,PHP,0
+96090745,ambionics/phpggc,PHP,0
+93982796,Tuhinshubhra/RED_HAWK,PHP,1
 29501260,api-platform/core,PHP,0
 404921727,luolongfei/freenom,PHP,5
-174021137,inertiajs/pingcrm,PHP,0
+174021137,inertiajs/pingcrm,PHP,1
 39698170,pi-hole/AdminLTE,PHP,0
 36888692,spatie/package-skeleton-laravel,PHP,2
-222903503,LaravelDaily/laravel-invoices,PHP,1
+222903503,LaravelDaily/laravel-invoices,PHP,0
 433383766,nextcloud/all-in-one,PHP,2
