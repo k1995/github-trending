@@ -1,11 +1,11 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,1262
-60493101,jwasham/coding-interview-university,,1683
 63476337,TheAlgorithms/Python,Python,936
 23357588,protocolbuffers/protobuf,C++,159
-22458259,Alamofire/Alamofire,Swift,105
 27729880,grpc/grpc,C++,103
-32578467,danielgindi/Charts,Swift,205
+35866694,RocketChat/Rocket.Chat,TypeScript,387
+32578467,danielgindi/Charts,Swift,212
+85541218,ascoders/weekly,JavaScript,453
+92111509,zadam/trilium,JavaScript,171
 120425779,lapce/lapce,Rust,1130
 510607652,pocketbase/pocketbase,Go,3383
 453717720,AykutSarac/jsoncrack.com,TypeScript,1709
@@ -14,13 +14,13 @@ id,name,lang,new stars
 436658287,surrealdb/surrealdb,Rust,5911
 162672577,PaddlePaddle/PaddleHub,Python,921
 323965659,alist-org/alist,Go,573
-80358070,qazbnm456/awesome-web-security,,574
+533127272,divamgupta/diffusionbee-stable-diffusion-ui,Jupyter Notebook,1710
+501076075,meituan/YOLOv6,Jupyter Notebook,80
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1084
-149554797,ethereum/consensus-specs,Python,33
 534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1545
 471494981,revanced/revanced-manager,Dart,1256
-490465859,UberGuidoZ/Flipper,HTML,301
+148713303,pichillilorenzo/flutter_inappwebview,Dart,16
+490465859,UberGuidoZ/Flipper,HTML,313
 528313152,benphelps/homepage,JavaScript,370
 529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,328
 505667511,sczhou/CodeFormer,Python,108
-490751204,OpenRadioss/OpenRadioss,Fortran,68
