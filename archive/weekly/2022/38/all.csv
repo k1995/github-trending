@@ -1,26 +1,26 @@
 id,name,lang,new stars
 63476337,TheAlgorithms/Python,Python,1114
-23357588,protocolbuffers/protobuf,C++,162
-27729880,grpc/grpc,C++,103
+23357588,protocolbuffers/protobuf,C++,161
+27729880,grpc/grpc,C++,108
 35866694,RocketChat/Rocket.Chat,TypeScript,388
-32578467,danielgindi/Charts,Swift,210
+32578467,danielgindi/Charts,Swift,205
 85541218,ascoders/weekly,JavaScript,457
 92111509,zadam/trilium,JavaScript,171
 120425779,lapce/lapce,Rust,1130
 510607652,pocketbase/pocketbase,Go,3383
-453717720,AykutSarac/jsoncrack.com,TypeScript,1704
+453717720,AykutSarac/jsoncrack.com,TypeScript,1675
 280557054,trpc/trpc,TypeScript,376
 208728772,milvus-io/milvus,Go,578
 436658287,surrealdb/surrealdb,Rust,5911
 162672577,PaddlePaddle/PaddleHub,Python,921
 323965659,alist-org/alist,Go,573
-533127272,divamgupta/diffusionbee-stable-diffusion-ui,Jupyter Notebook,1624
-501076075,meituan/YOLOv6,Jupyter Notebook,79
+533127272,divamgupta/diffusionbee-stable-diffusion-ui,Jupyter Notebook,1526
+501076075,meituan/YOLOv6,Jupyter Notebook,75
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1084
 534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1545
-471494981,revanced/revanced-manager,Dart,1333
+471494981,revanced/revanced-manager,Dart,1337
 148713303,pichillilorenzo/flutter_inappwebview,Dart,18
-490465859,UberGuidoZ/Flipper,HTML,316
+490465859,UberGuidoZ/Flipper,HTML,319
 528313152,benphelps/homepage,JavaScript,370
 529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,351
 505667511,sczhou/CodeFormer,Python,108
