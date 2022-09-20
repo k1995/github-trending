@@ -1,5 +1,5 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,218
+11180687,gohugoio/hugo,Go,199
 37448451,mattermost/mattermost-server,Go,5
 59239347,portainer/portainer,Go,22
 119160553,photoprism/photoprism,Go,14
@@ -7,18 +7,18 @@ id,name,lang,new stars
 181461073,v2fly/v2ray-core,Go,14
 233130089,charmbracelet/bubbletea,Go,23
 153099672,inancgumus/learngo,Go,10
-208728772,milvus-io/milvus,Go,203
-29371034,micro/micro,Go,7
-311315731,XTLS/Xray-core,Go,8
-323965659,alist-org/alist,Go,157
+208728772,milvus-io/milvus,Go,200
+29371034,micro/micro,Go,9
+311315731,XTLS/Xray-core,Go,9
+323965659,alist-org/alist,Go,160
 67382094,Jguer/yay,Go,7
 395283401,kubescape/kubescape,Go,14
 193160679,kyleconroy/sqlc,Go,11
-140412864,kgretzky/evilginx2,Go,22
-410430370,IceWhaleTech/CasaOS,Go,30
+140412864,kgretzky/evilginx2,Go,21
+410430370,IceWhaleTech/CasaOS,Go,31
 291485614,XIU2/CloudflareSpeedTest,Go,13
 403559729,YaoApp/yao,Go,16
-306366900,casdoor/casdoor,Go,10
+306366900,casdoor/casdoor,Go,7
 201546443,trustwallet/assets,Go,6
 234757030,charmbracelet/bubbles,Go,16
 272663924,techschool/simplebank,Go,22
