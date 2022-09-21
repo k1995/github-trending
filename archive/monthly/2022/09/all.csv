@@ -1,26 +1,26 @@
 id,name,lang,new stars
-27193779,nodejs/node,JavaScript,968
-184456251,microsoft/PowerToys,C#,2125
+27193779,nodejs/node,JavaScript,972
+184456251,microsoft/PowerToys,C#,2134
 523379232,CompVis/stable-diffusion,Jupyter Notebook,18520
 160083795,SerenityOS/serenity,C++,875
 74962515,gchq/CyberChef,JavaScript,1424
-240215314,docker/awesome-compose,HTML,1133
-120425779,lapce/lapce,Rust,4212
-149001365,doocs/leetcode,Java,2166
-387326890,xinntao/Real-ESRGAN,Python,1860
-468515960,CodeEditApp/CodeEdit,Swift,2115
-268424739,helix-editor/helix,Rust,1507
-436658287,surrealdb/surrealdb,Rust,11091
-321960447,openai/CLIP,Jupyter Notebook,653
-241176242,girliemac/a-picture-is-worth-a-1000-words,,2526
+240215314,docker/awesome-compose,HTML,1135
+120425779,lapce/lapce,Rust,4218
+149001365,doocs/leetcode,Java,2167
+387326890,xinntao/Real-ESRGAN,Python,1861
+468515960,CodeEditApp/CodeEdit,Swift,2117
+268424739,helix-editor/helix,Rust,1509
+436658287,surrealdb/surrealdb,Rust,11099
+321960447,openai/CLIP,Jupyter Notebook,659
+241176242,girliemac/a-picture-is-worth-a-1000-words,,2533
 198350484,microsoft/unilm,Python,572
 498011141,huggingface/diffusers,Python,3836
-248416273,didi/KnowStreaming,Java,453
-440244590,CompVis/latent-diffusion,Jupyter Notebook,1043
-116457726,ethereum/ethereum-org-website,Markdown,280
+248416273,didi/KnowStreaming,Java,454
+440244590,CompVis/latent-diffusion,Jupyter Notebook,1044
+116457726,ethereum/ethereum-org-website,Markdown,281
 255231293,karpathy/micrograd,Jupyter Notebook,356
-471494981,revanced/revanced-manager,Dart,1736
+471494981,revanced/revanced-manager,Dart,1742
 516904877,google-research/multinerf,Python,1332
-388946490,facebookincubator/velox,C++,545
-524596709,LSPosed/MagiskOnWSALocal,Shell,1012
-523544748,snesrev/zelda3,C,860
+388946490,facebookincubator/velox,C++,546
+524596709,LSPosed/MagiskOnWSALocal,Shell,1013
+523544748,snesrev/zelda3,C,828

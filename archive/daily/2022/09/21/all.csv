@@ -1,15 +1,15 @@
 id,name,lang,new stars
 63476337,TheAlgorithms/Python,Python,173
 2325298,torvalds/linux,C,66
-212639071,bregman-arie/devops-exercises,Python,267
+212639071,bregman-arie/devops-exercises,Python,266
 33884891,apache/airflow,Python,20
 81227005,facebookresearch/faiss,C++,10
 26038648,gabime/spdlog,C++,10
 453717720,AykutSarac/jsoncrack.com,TypeScript,650
-34407651,Azure/azure-quickstart-templates,Bicep,5
+34407651,Azure/azure-quickstart-templates,Bicep,7
 101767772,bytecodealliance/wasmtime,Rust,267
 394541647,OpenEthan/SMSBoom,Python,20
-368917877,BuilderIO/qwik,TypeScript,1258
+368917877,BuilderIO/qwik,TypeScript,1280
 151636194,triton-inference-server/server,Python,11
 27911088,apache/nifi,Java,2
 34807561,nanopb/nanopb,C,7
@@ -17,10 +17,10 @@ id,name,lang,new stars
 534330590,carson-katri/dream-textures,Python,645
 536650310,nas5w/interview-resources,,190
 418718534,mrdbourke/pytorch-deep-learning,Jupyter Notebook,14
-527612250,coroot/coroot,Go,152
+527612250,coroot/coroot,Go,150
 536867444,divamgupta/stable-diffusion-tensorflow,Python,180
 537406874,liyupi/yulegeyu,TypeScript,219
-109905086,johguse/profanity,C++,11
-537167055,OhMyGuus/I-Dont-Care-About-Cookies,CSS,295
-535509546,brycedrennan/imaginAIry,Python,123
-537942478,ThereforeGames/txt2mask,Python,55
+109905086,johguse/profanity,C++,10
+537167055,OhMyGuus/I-Dont-Care-About-Cookies,CSS,48
+535509546,brycedrennan/imaginAIry,Python,98
+537942478,ThereforeGames/txt2mask,Python,57
