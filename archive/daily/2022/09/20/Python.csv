@@ -1,7 +1,7 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,151
 33015583,keras-team/keras,Python,16
-71220757,swisskyrepo/PayloadsAllTheThings,Python,37
+71220757,swisskyrepo/PayloadsAllTheThings,Python,33
 858127,pandas-dev/pandas,Python,29
 212639071,bregman-arie/devops-exercises,Python,198
 349321229,TencentARC/GFPGAN,Python,53
@@ -15,9 +15,9 @@ id,name,lang,new stars
 138796699,dbolya/yolact,Python,3
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,199
 315490189,dortania/OpenCore-Legacy-Patcher,Python,12
-4127088,Azure/azure-sdk-for-python,Python,4
+4127088,Azure/azure-sdk-for-python,Python,3
 194212327,sissbruecker/linkding,Python,9
-145848899,holoviz/panel,Python,14
+145848899,holoviz/panel,Python,13
 534330590,carson-katri/dream-textures,Python,313
 513074143,nianticlabs/simplerecon,Python,38
 387054552,Ge0rg3/requests-ip-rotator,Python,39

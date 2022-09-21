@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2084
+184456251,microsoft/PowerToys,C#,2087
 523379232,CompVis/stable-diffusion,Jupyter Notebook,18467
-123303402,python-poetry/poetry,Python,884
+123303402,python-poetry/poetry,Python,885
 160083795,SerenityOS/serenity,C++,862
-74962515,gchq/CyberChef,JavaScript,1405
-120425779,lapce/lapce,Rust,4132
-149001365,doocs/leetcode,Java,2147
-387326890,xinntao/Real-ESRGAN,Python,1840
-468515960,CodeEditApp/CodeEdit,Swift,2115
-268424739,helix-editor/helix,Rust,1513
-241176242,girliemac/a-picture-is-worth-a-1000-words,,2492
+74962515,gchq/CyberChef,JavaScript,1413
+120425779,lapce/lapce,Rust,4145
+149001365,doocs/leetcode,Java,2148
+387326890,xinntao/Real-ESRGAN,Python,1847
+468515960,CodeEditApp/CodeEdit,Swift,2113
+268424739,helix-editor/helix,Rust,1514
+241176242,girliemac/a-picture-is-worth-a-1000-words,,2495
 198350484,microsoft/unilm,Python,564
-498011141,huggingface/diffusers,Python,3806
-455229168,immich-app/immich,Dart,1915
-166304026,BishopFox/sliver,Go,789
-440244590,CompVis/latent-diffusion,Jupyter Notebook,1046
+498011141,huggingface/diffusers,Python,3808
+455229168,immich-app/immich,Dart,1922
+166304026,BishopFox/sliver,Go,791
+440244590,CompVis/latent-diffusion,Jupyter Notebook,1043
 116457726,ethereum/ethereum-org-website,Markdown,274
-392603437,jxxghp/nas-tools,Python,994
-471494981,revanced/revanced-manager,Dart,1686
-516904877,google-research/multinerf,Python,1343
-527309421,berthubert/googerteller,C++,1946
+392603437,jxxghp/nas-tools,Python,992
+471494981,revanced/revanced-manager,Dart,1693
+516904877,google-research/multinerf,Python,1340
+527309421,berthubert/googerteller,C++,1951
 388946490,facebookincubator/velox,C++,537
-524596709,LSPosed/MagiskOnWSALocal,Shell,1023
-523544748,snesrev/zelda3,C,1023
-476381845,bitnami/containers,Shell,200
+524596709,LSPosed/MagiskOnWSALocal,Shell,1017
+523544748,snesrev/zelda3,C,1013
+476381845,bitnami/containers,Shell,210
