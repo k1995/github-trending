@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,253
+8514,rails/rails,Ruby,251
 7569578,discourse/discourse,Ruby,294
 8681349,huginn/huginn,Ruby,253
-13840241,freeCodeCamp/devdocs,Ruby,273
-2293158,rapid7/metasploit-framework,Ruby,288
-308770,heartcombo/devise,Ruby,121
-21696302,matteocrippa/awesome-swift,Ruby,156
-37382858,kilimchoi/engineering-blogs,Ruby,356
+13840241,freeCodeCamp/devdocs,Ruby,275
+2293158,rapid7/metasploit-framework,Ruby,291
+308770,heartcombo/devise,Ruby,119
+21696302,matteocrippa/awesome-swift,Ruby,155
+37382858,kilimchoi/engineering-blogs,Ruby,357
 73648678,forem/forem,Ruby,193
 538746,ruby/ruby,Ruby,108
 1090311,elastic/logstash,Ruby,65
@@ -15,7 +15,7 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,84
 138776049,sorbet/sorbet,Ruby,30
 11426474,github/choosealicense.com,Ruby,40
-93163073,dependabot/dependabot-core,Ruby,73
+93163073,dependabot/dependabot-core,Ruby,75
 200302808,ViewComponent/view_component,Ruby,45
 253024215,hahwul/WebHackersWeapons,Ruby,165
 9831101,elastic/elasticsearch-ruby,Ruby,8
