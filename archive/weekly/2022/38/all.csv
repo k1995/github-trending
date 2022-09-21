@@ -1,24 +1,24 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,1009
+13491895,EbookFoundation/free-programming-books,,1011
 60493101,jwasham/coding-interview-university,,1624
-63476337,TheAlgorithms/Python,Python,1087
-23357588,protocolbuffers/protobuf,C++,160
+63476337,TheAlgorithms/Python,Python,1088
+23357588,protocolbuffers/protobuf,C++,159
 22458259,Alamofire/Alamofire,Swift,100
 27729880,grpc/grpc,C++,109
 32578467,danielgindi/Charts,Swift,208
 92111509,zadam/trilium,JavaScript,183
-510607652,pocketbase/pocketbase,Go,2768
+510607652,pocketbase/pocketbase,Go,2782
 208728772,milvus-io/milvus,Go,725
-436658287,surrealdb/surrealdb,Rust,5802
-162672577,PaddlePaddle/PaddleHub,Python,813
-323965659,alist-org/alist,Go,631
+436658287,surrealdb/surrealdb,Rust,5805
+162672577,PaddlePaddle/PaddleHub,Python,811
+323965659,alist-org/alist,Go,632
 368917877,BuilderIO/qwik,TypeScript,1347
-533127272,divamgupta/diffusionbee-stable-diffusion-ui,Jupyter Notebook,1394
+533127272,divamgupta/diffusionbee-stable-diffusion-ui,Jupyter Notebook,1399
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1051
 149554797,ethereum/consensus-specs,Python,34
 117156031,prysmaticlabs/prysm,Go,59
-534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1252
-471494981,revanced/revanced-manager,Dart,1355
+534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1155
+471494981,revanced/revanced-manager,Dart,1354
 148713303,pichillilorenzo/flutter_inappwebview,Dart,18
 490465859,UberGuidoZ/Flipper,HTML,321
 528313152,benphelps/homepage,JavaScript,289
