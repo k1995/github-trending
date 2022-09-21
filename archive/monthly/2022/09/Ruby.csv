@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,256
+8514,rails/rails,Ruby,254
 8681349,huginn/huginn,Ruby,256
-27442967,fastlane/fastlane,Ruby,171
-53238813,Homebrew/brew,Ruby,371
+27442967,fastlane/fastlane,Ruby,170
+53238813,Homebrew/brew,Ruby,368
 2293158,rapid7/metasploit-framework,Ruby,285
 2500088,gitlabhq/gitlabhq,Ruby,63
 308770,heartcombo/devise,Ruby,119
-37382858,kilimchoi/engineering-blogs,Ruby,353
-73648678,forem/forem,Ruby,192
+37382858,kilimchoi/engineering-blogs,Ruby,355
+73648678,forem/forem,Ruby,191
 538746,ruby/ruby,Ruby,109
 3623050,Homebrew/homebrew-cask,Ruby,89
 88740103,postalserver/postal,Ruby,146
@@ -16,9 +16,9 @@ id,name,lang,new stars
 6529205,varvet/pundit,Ruby,36
 2441517,puma/puma,Ruby,50
 22059578,ankane/pghero,Ruby,74
-4523235,asciidoctor/asciidoctor,Ruby,46
+4523235,asciidoctor/asciidoctor,Ruby,47
 103766152,github/explore,Ruby,85
-93163073,dependabot/dependabot-core,Ruby,73
+93163073,dependabot/dependabot-core,Ruby,72
 200302808,ViewComponent/view_component,Ruby,46
 253024215,hahwul/WebHackersWeapons,Ruby,168
 209731662,ruby/debug,Ruby,38
