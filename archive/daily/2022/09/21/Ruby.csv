@@ -1,15 +1,15 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,5
-52281283,mastodon/mastodon,Ruby,5
+52281283,mastodon/mastodon,Ruby,4
 481872,hashicorp/vagrant,Ruby,11
 2500088,gitlabhq/gitlabhq,Ruby,1
 308770,heartcombo/devise,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,2
 18486300,lewagon/setup,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,8
-1090311,elastic/logstash,Ruby,5
-3195124,mperham/sidekiq,Ruby,0
-361310,teamcapybara/capybara,Ruby,1
+202291859,chatwoot/chatwoot,Ruby,9
+1090311,elastic/logstash,Ruby,4
+3195124,mperham/sidekiq,Ruby,1
+361310,teamcapybara/capybara,Ruby,0
 611921,activeadmin/activeadmin,Ruby,0
 108278,chef/chef,Ruby,1
 6899875,opf/openproject,Ruby,2
@@ -17,7 +17,7 @@ id,name,lang,new stars
 79352,mikel/mail,Ruby,0
 200302808,ViewComponent/view_component,Ruby,3
 29151578,rswag/rswag,Ruby,0
-222777351,DannyBen/bashly,Ruby,6
+222777351,DannyBen/bashly,Ruby,4
 419827947,joemasilotti/railsdevs.com,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 212272090,CMSgov/price-transparency-guide,Ruby,0
