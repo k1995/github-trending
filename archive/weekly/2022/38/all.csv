@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,946
+13491895,EbookFoundation/free-programming-books,,894
 60493101,jwasham/coding-interview-university,,1628
 22458259,Alamofire/Alamofire,Swift,87
-32578467,danielgindi/Charts,Swift,151
-281975310,type-challenges/type-challenges,TypeScript,549
+32578467,danielgindi/Charts,Swift,107
+281975310,type-challenges/type-challenges,TypeScript,556
 97086543,TheAlgorithms/JavaScript,JavaScript,238
-153099672,inancgumus/learngo,Go,64
-510607652,pocketbase/pocketbase,Go,1716
-350360184,calcom/cal.com,TypeScript,278
-208728772,milvus-io/milvus,Go,850
-436658287,surrealdb/surrealdb,Rust,5523
-323965659,alist-org/alist,Go,649
-101767772,bytecodealliance/wasmtime,Rust,657
-368917877,BuilderIO/qwik,TypeScript,1928
-533127272,divamgupta/diffusionbee-stable-diffusion-ui,Jupyter Notebook,1175
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1057
-116457726,ethereum/ethereum-org-website,Markdown,175
+153099672,inancgumus/learngo,Go,77
+510607652,pocketbase/pocketbase,Go,1884
+350360184,calcom/cal.com,TypeScript,277
+208728772,milvus-io/milvus,Go,865
+436658287,surrealdb/surrealdb,Rust,5526
+323965659,alist-org/alist,Go,646
+101767772,bytecodealliance/wasmtime,Rust,632
+368917877,BuilderIO/qwik,TypeScript,2290
+533127272,divamgupta/diffusionbee-stable-diffusion-ui,Jupyter Notebook,1081
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1054
+116457726,ethereum/ethereum-org-website,Markdown,170
 149554797,ethereum/consensus-specs,Python,33
 117156031,prysmaticlabs/prysm,Go,55
 534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1053
-490465859,UberGuidoZ/Flipper,HTML,342
-472090226,revanced/revanced-patches,Kotlin,136
-530726721,nadrad/h-m-m,PHP,475
+490465859,UberGuidoZ/Flipper,HTML,344
+472090226,revanced/revanced-patches,Kotlin,140
+530726721,nadrad/h-m-m,PHP,462
 534023067,BishopFox/cloudfox,Go,305
-529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,320
+529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,336

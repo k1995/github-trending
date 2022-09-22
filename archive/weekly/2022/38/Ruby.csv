@@ -1,20 +1,20 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,45
-65252,jekyll/jekyll,Ruby,53
+8514,rails/rails,Ruby,48
+65252,jekyll/jekyll,Ruby,52
 27442967,fastlane/fastlane,Ruby,40
-13840241,freeCodeCamp/devdocs,Ruby,110
-2293158,rapid7/metasploit-framework,Ruby,64
-21696302,matteocrippa/awesome-swift,Ruby,44
+13840241,freeCodeCamp/devdocs,Ruby,114
+2293158,rapid7/metasploit-framework,Ruby,62
+21696302,matteocrippa/awesome-swift,Ruby,40
 73648678,forem/forem,Ruby,55
-2203645,CocoaPods/CocoaPods,Ruby,13
-18486300,lewagon/setup,Ruby,66
+2203645,CocoaPods/CocoaPods,Ruby,12
+18486300,lewagon/setup,Ruby,65
 1090311,elastic/logstash,Ruby,13
 106995,sinatra/sinatra,Ruby,7
 1725199,github/linguist,Ruby,16
 15435,Shopify/liquid,Ruby,24
 21829,thoughtbot/factory_bot,Ruby,7
 108278,chef/chef,Ruby,10
-22059578,ankane/pghero,Ruby,30
+22059578,ankane/pghero,Ruby,31
 103766152,github/explore,Ruby,26
 11426474,github/choosealicense.com,Ruby,11
 93163073,dependabot/dependabot-core,Ruby,17
@@ -22,5 +22,5 @@ id,name,lang,new stars
 212813096,lewagon/data-setup,Ruby,33
 298001192,Shopify/packwerk,Ruby,16
 225463,Shopify/shopify-api-ruby,Ruby,2
-212272090,CMSgov/price-transparency-guide,Ruby,5
+212272090,CMSgov/price-transparency-guide,Ruby,4
 77154536,mercadolibre/mobile-dependencies_whitelist,Ruby,0
