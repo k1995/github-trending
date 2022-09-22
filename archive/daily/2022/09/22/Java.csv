@@ -1,6 +1,6 @@
 id,name,lang,new stars
 132464395,Snailclimb/JavaGuide,Java,31
-151834062,doocs/advanced-java,Java,55
+151834062,doocs/advanced-java,Java,57
 173228436,NationalSecurityAgency/ghidra,Java,75
 146633589,alibaba/arthas,Java,16
 137451403,alibaba/nacos,Java,16
@@ -9,14 +9,14 @@ id,name,lang,new stars
 77993578,LuckSiege/PictureSelector,Java,4
 139914932,quarkusio/quarkus,Java,5
 237867883,metersphere/metersphere,Java,4
-140543886,apache/shenyu,Java,24
+140543886,apache/shenyu,Java,26
 33166041,react-native-video/react-native-video,Java,0
 5663857,jeremylong/DependencyCheck,Java,1
 8426406,mock-server/mockserver,Java,3
 73963835,spring-cloud/spring-cloud-gateway,Java,2
 58194180,strimzi/strimzi-kafka-operator,Java,3
-21193524,apache/calcite,Java,3
 27911088,apache/nifi,Java,21
+21193524,apache/calcite,Java,3
 212488700,pytorch/serve,Java,2
 2928948,Azure/azure-sdk-for-java,Java,2
 210933087,open-telemetry/opentelemetry-java-instrumentation,Java,1
