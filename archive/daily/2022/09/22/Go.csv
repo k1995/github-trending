@@ -1,12 +1,12 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,88
-29207621,caddyserver/caddy,Go,64
-31288958,hashicorp/vault,Go,13
+11180687,gohugoio/hugo,Go,64
+29207621,caddyserver/caddy,Go,62
+31288958,hashicorp/vault,Go,16
 14125254,hashicorp/consul,Go,6
 30215630,go-kit/kit,Go,9
 46806184,helm/charts,Go,2
 153099672,inancgumus/learngo,Go,15
-33352201,grpc-ecosystem/grpc-gateway,Go,11
+33352201,grpc-ecosystem/grpc-gateway,Go,9
 86733463,ahmetb/kubectx,Go,18
 72891330,kubernetes/ingress-nginx,Go,4
 208728772,milvus-io/milvus,Go,141
@@ -19,7 +19,7 @@ id,name,lang,new stars
 221849341,hibiken/asynq,Go,18
 229030654,go-git/go-git,Go,8
 180954037,itchyny/gojq,Go,26
-125253663,google/go-containerregistry,Go,3
+125253663,google/go-containerregistry,Go,4
 489681062,guangzhengli/k8s-tutorials,Go,29
 527612250,coroot/coroot,Go,176
 537923574,felixge/fgtrace,Go,41
