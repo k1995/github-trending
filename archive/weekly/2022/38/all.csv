@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,1009
-60493101,jwasham/coding-interview-university,,1656
-63476337,TheAlgorithms/Python,Python,1087
-23357588,protocolbuffers/protobuf,C++,160
-22458259,Alamofire/Alamofire,Swift,96
-27729880,grpc/grpc,C++,108
-32578467,danielgindi/Charts,Swift,161
-92111509,zadam/trilium,JavaScript,183
-510607652,pocketbase/pocketbase,Go,2768
-208728772,milvus-io/milvus,Go,725
-436658287,surrealdb/surrealdb,Rust,5579
-162672577,PaddlePaddle/PaddleHub,Python,813
-323965659,alist-org/alist,Go,631
-368917877,BuilderIO/qwik,TypeScript,1588
-533127272,divamgupta/diffusionbee-stable-diffusion-ui,Jupyter Notebook,1223
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1051
-149554797,ethereum/consensus-specs,Python,34
-117156031,prysmaticlabs/prysm,Go,59
-534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1075
-471494981,revanced/revanced-manager,Dart,1376
+13491895,EbookFoundation/free-programming-books,,946
+60493101,jwasham/coding-interview-university,,1660
+63476337,TheAlgorithms/Python,Python,1037
+23357588,protocolbuffers/protobuf,C++,157
+22458259,Alamofire/Alamofire,Swift,87
+27729880,grpc/grpc,C++,109
+32578467,danielgindi/Charts,Swift,151
+92111509,zadam/trilium,JavaScript,221
+510607652,pocketbase/pocketbase,Go,1884
+208728772,milvus-io/milvus,Go,850
+436658287,surrealdb/surrealdb,Rust,5526
+162672577,PaddlePaddle/PaddleHub,Python,508
+323965659,alist-org/alist,Go,646
+368917877,BuilderIO/qwik,TypeScript,1928
+533127272,divamgupta/diffusionbee-stable-diffusion-ui,Jupyter Notebook,1175
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1054
+149554797,ethereum/consensus-specs,Python,33
+117156031,prysmaticlabs/prysm,Go,55
+534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1053
+471494981,revanced/revanced-manager,Dart,1342
 148713303,pichillilorenzo/flutter_inappwebview,Dart,22
-490465859,UberGuidoZ/Flipper,HTML,333
-528313152,benphelps/homepage,JavaScript,289
-510116998,SerenityOS/ladybird,C++,215
-529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,352
+490465859,UberGuidoZ/Flipper,HTML,334
+528313152,benphelps/homepage,JavaScript,259
+510116998,SerenityOS/ladybird,C++,193
+529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,336
