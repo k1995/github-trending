@@ -1,17 +1,17 @@
 id,name,lang,new stars
 13491895,EbookFoundation/free-programming-books,,946
-60493101,jwasham/coding-interview-university,,1644
+60493101,jwasham/coding-interview-university,,1631
 63476337,TheAlgorithms/Python,Python,1037
 23357588,protocolbuffers/protobuf,C++,157
 22458259,Alamofire/Alamofire,Swift,87
 27729880,grpc/grpc,C++,109
 32578467,danielgindi/Charts,Swift,151
 92111509,zadam/trilium,JavaScript,221
-510607652,pocketbase/pocketbase,Go,1884
+510607652,pocketbase/pocketbase,Go,1716
 208728772,milvus-io/milvus,Go,850
 436658287,surrealdb/surrealdb,Rust,5523
 162672577,PaddlePaddle/PaddleHub,Python,508
-323965659,alist-org/alist,Go,646
+323965659,alist-org/alist,Go,652
 368917877,BuilderIO/qwik,TypeScript,1928
 533127272,divamgupta/diffusionbee-stable-diffusion-ui,Jupyter Notebook,1175
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1064
@@ -20,7 +20,7 @@ id,name,lang,new stars
 534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1053
 471494981,revanced/revanced-manager,Dart,1342
 148713303,pichillilorenzo/flutter_inappwebview,Dart,22
-490465859,UberGuidoZ/Flipper,HTML,334
+490465859,UberGuidoZ/Flipper,HTML,342
 528313152,benphelps/homepage,JavaScript,259
 510116998,SerenityOS/ladybird,C++,193
-529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,336
+529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,320
