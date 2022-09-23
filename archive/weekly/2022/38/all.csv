@@ -4,14 +4,14 @@ id,name,lang,new stars
 22458259,Alamofire/Alamofire,Swift,66
 32578467,danielgindi/Charts,Swift,91
 281975310,type-challenges/type-challenges,TypeScript,510
-97086543,TheAlgorithms/JavaScript,JavaScript,322
-153099672,inancgumus/learngo,Go,216
-510607652,pocketbase/pocketbase,Go,1386
+97086543,TheAlgorithms/JavaScript,JavaScript,323
+153099672,inancgumus/learngo,Go,397
+510607652,pocketbase/pocketbase,Go,1403
 350360184,calcom/cal.com,TypeScript,281
-208728772,milvus-io/milvus,Go,883
-436658287,surrealdb/surrealdb,Rust,4175
-323965659,alist-org/alist,Go,662
+208728772,milvus-io/milvus,Go,875
+436658287,surrealdb/surrealdb,Rust,4179
 101767772,bytecodealliance/wasmtime,Rust,802
+323965659,alist-org/alist,Go,661
 368917877,BuilderIO/qwik,TypeScript,2403
 533127272,divamgupta/diffusionbee-stable-diffusion-ui,Jupyter Notebook,1023
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1072
@@ -19,8 +19,8 @@ id,name,lang,new stars
 149554797,ethereum/consensus-specs,Python,24
 117156031,prysmaticlabs/prysm,Go,48
 534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,883
-490465859,UberGuidoZ/Flipper,HTML,335
+490465859,UberGuidoZ/Flipper,HTML,334
 472090226,revanced/revanced-patches,Kotlin,141
-530726721,nadrad/h-m-m,PHP,394
-534023067,BishopFox/cloudfox,Go,278
+530726721,nadrad/h-m-m,PHP,395
+534023067,BishopFox/cloudfox,Go,279
 529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,299
