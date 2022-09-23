@@ -1,6 +1,6 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,236
-20904437,gin-gonic/gin,Go,211
+20904437,gin-gonic/gin,Go,210
 11180687,gohugoio/hugo,Go,675
 15452919,ethereum/go-ethereum,Go,209
 17728164,hashicorp/terraform,Go,102
@@ -9,18 +9,18 @@ id,name,lang,new stars
 153099672,inancgumus/learngo,Go,216
 510607652,pocketbase/pocketbase,Go,1386
 208728772,milvus-io/milvus,Go,883
-31558937,gravitational/teleport,Go,66
+31558937,gravitational/teleport,Go,67
 120896210,argoproj/argo-cd,Go,77
-370977430,OpenIMSDK/Open-IM-Server,Go,135
 323965659,alist-org/alist,Go,662
+370977430,OpenIMSDK/Open-IM-Server,Go,132
 23664475,Shopify/toxiproxy,Go,45
-135321861,ory/kratos,Go,58
-154643390,sundowndev/phoneinfoga,Go,47
+135321861,ory/kratos,Go,61
+154643390,sundowndev/phoneinfoga,Go,46
 221849341,hibiken/asynq,Go,126
 93446042,hashicorp/terraform-provider-azurerm,Go,19
 117156031,prysmaticlabs/prysm,Go,48
 330405184,turbot/steampipe,Go,97
-188836864,ledgerwatch/erigon,Go,27
+188836864,ledgerwatch/erigon,Go,26
 280658081,v2fly/domain-list-community,Go,41
 534023067,BishopFox/cloudfox,Go,278
 307882563,hteen/apple-store-helper,Go,76

@@ -1,7 +1,7 @@
 id,name,lang,new stars
 29261473,minio/minio,Go,38
-17728164,hashicorp/terraform,Go,19
-31288958,hashicorp/vault,Go,88
+17728164,hashicorp/terraform,Go,22
+31288958,hashicorp/vault,Go,56
 153099672,inancgumus/learngo,Go,90
 103126070,snail007/goproxy,Go,5
 36653430,hashicorp/nomad,Go,5
@@ -15,12 +15,12 @@ id,name,lang,new stars
 367758176,dtm-labs/dtm,Go,11
 120650407,operator-framework/operator-sdk,Go,7
 17451182,go-yaml/yaml,Go,7
-392596825,ddosify/ddosify,Go,15
-166304026,BishopFox/sliver,Go,11
+392596825,ddosify/ddosify,Go,16
+166304026,BishopFox/sliver,Go,14
 134539560,weaveworks/eksctl,Go,8
-63882194,projectcalico/calico,Go,4
+63882194,projectcalico/calico,Go,5
 41964498,prometheus/blackbox_exporter,Go,2
 187086161,open-telemetry/opentelemetry-go,Go,5
-185861173,open-telemetry/opentelemetry-collector,Go,1
+185861173,open-telemetry/opentelemetry-collector,Go,3
 96004375,aws/aws-sdk-go-v2,Go,2
-527612250,coroot/coroot,Go,180
+527612250,coroot/coroot,Go,175

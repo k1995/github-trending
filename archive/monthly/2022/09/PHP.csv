@@ -1,21 +1,21 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,449
+1863329,laravel/laravel,PHP,448
 3482588,danielmiessler/SecLists,PHP,669
-1420053,guzzle/guzzle,PHP,102
+1420053,guzzle/guzzle,PHP,103
 60243197,nextcloud/server,PHP,432
-82238168,monicahq/monica,PHP,186
+82238168,monicahq/monica,PHP,185
 2889328,WordPress/WordPress,PHP,131
 1631570,nikic/PHP-Parser,PHP,88
 41589337,BookStackApp/BookStack,PHP,208
-21298446,firefly-iii/firefly-iii,PHP,291
+21298446,firefly-iii/firefly-iii,PHP,292
 10238429,tennc/webshell,PHP,117
 2179920,woocommerce/woocommerce,PHP,65
-14346979,snipe/snipe-it,PHP,129
-6763587,PrestaShop/PrestaShop,PHP,172
+14346979,snipe/snipe-it,PHP,130
+6763587,PrestaShop/PrestaShop,PHP,173
 9791525,digininja/DVWA,PHP,151
 76064827,mailcow/mailcow-dockerized,PHP,113
-6322699,FreshRSS/FreshRSS,PHP,149
-60010673,elementor/elementor,PHP,93
+6322699,FreshRSS/FreshRSS,PHP,148
+60010673,elementor/elementor,PHP,96
 248372441,filamentphp/filament,PHP,307
 439861,moodle/moodle,PHP,54
 1957456,Dolibarr/dolibarr,PHP,72
@@ -23,4 +23,4 @@ id,name,lang,new stars
 131995661,shopware/platform,PHP,35
 138328462,freescout-helpdesk/freescout,PHP,65
 75645659,WordPress/wordpress-develop,PHP,36
-433383766,nextcloud/all-in-one,PHP,105
+433383766,nextcloud/all-in-one,PHP,103
