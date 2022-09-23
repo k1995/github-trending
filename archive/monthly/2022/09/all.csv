@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2211
-523379232,CompVis/stable-diffusion,Jupyter Notebook,17422
+184456251,microsoft/PowerToys,C#,2224
+523379232,CompVis/stable-diffusion,Jupyter Notebook,17269
 123303402,python-poetry/poetry,Python,909
-74962515,gchq/CyberChef,JavaScript,1440
-120425779,lapce/lapce,Rust,4301
-149001365,doocs/leetcode,Java,2186
-387326890,xinntao/Real-ESRGAN,Python,1805
-468515960,CodeEditApp/CodeEdit,Swift,2114
-268424739,helix-editor/helix,Rust,1523
-436658287,surrealdb/surrealdb,Rust,10231
-321960447,openai/CLIP,Jupyter Notebook,664
-323965659,alist-org/alist,Go,1305
-198350484,microsoft/unilm,Python,552
-498011141,huggingface/diffusers,Python,3492
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,5330
-166304026,BishopFox/sliver,Go,826
-440244590,CompVis/latent-diffusion,Jupyter Notebook,1007
+74962515,gchq/CyberChef,JavaScript,1444
+120425779,lapce/lapce,Rust,4308
+149001365,doocs/leetcode,Java,2169
+387326890,xinntao/Real-ESRGAN,Python,1794
+468515960,CodeEditApp/CodeEdit,Swift,2111
+268424739,helix-editor/helix,Rust,1526
+436658287,surrealdb/surrealdb,Rust,10092
+321960447,openai/CLIP,Jupyter Notebook,665
+323965659,alist-org/alist,Go,1307
+198350484,microsoft/unilm,Python,549
+498011141,huggingface/diffusers,Python,3379
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,5335
+166304026,BishopFox/sliver,Go,828
+440244590,CompVis/latent-diffusion,Jupyter Notebook,1001
 116457726,ethereum/ethereum-org-website,Markdown,296
-527719753,cemu-project/Cemu,C++,2947
-471494981,revanced/revanced-manager,Dart,1829
-255231293,karpathy/micrograd,Jupyter Notebook,338
+527719753,cemu-project/Cemu,C++,2952
+471494981,revanced/revanced-manager,Dart,1824
+255231293,karpathy/micrograd,Jupyter Notebook,339
 99045602,flutter/packages,Dart,128
-388946490,facebookincubator/velox,C++,557
-524596709,LSPosed/MagiskOnWSALocal,Shell,997
-523544748,snesrev/zelda3,C,761
+388946490,facebookincubator/velox,C++,556
+524596709,LSPosed/MagiskOnWSALocal,Shell,993
+523544748,snesrev/zelda3,C,757

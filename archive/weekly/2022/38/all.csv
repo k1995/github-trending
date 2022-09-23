@@ -3,11 +3,11 @@ id,name,lang,new stars
 19872456,remix-run/react-router,TypeScript,103
 173228436,NationalSecurityAgency/ghidra,Java,229
 35866694,RocketChat/Rocket.Chat,TypeScript,255
-85541218,ascoders/weekly,JavaScript,250
+85541218,ascoders/weekly,JavaScript,241
 92111509,zadam/trilium,JavaScript,304
 48769241,penpot/penpot,Clojure,3503
 453717720,AykutSarac/jsoncrack.com,TypeScript,2249
-510607652,pocketbase/pocketbase,Go,1403
+510607652,pocketbase/pocketbase,Go,1123
 208728772,milvus-io/milvus,Go,875
 290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,250
 436658287,surrealdb/surrealdb,Rust,4179
@@ -20,7 +20,7 @@ id,name,lang,new stars
 330405184,turbot/steampipe,Go,93
 148713303,pichillilorenzo/flutter_inappwebview,Dart,21
 490465859,UberGuidoZ/Flipper,HTML,334
-536457428,Lcry/a-sheep-assistant,Python,595
+536457428,Lcry/a-sheep-assistant,Python,575
 534023067,BishopFox/cloudfox,Go,279
 529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,299
 505667511,sczhou/CodeFormer,Python,126
