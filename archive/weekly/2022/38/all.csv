@@ -1,26 +1,26 @@
 id,name,lang,new stars
 11180687,gohugoio/hugo,Go,676
 19872456,remix-run/react-router,TypeScript,103
-173228436,NationalSecurityAgency/ghidra,Java,227
-35866694,RocketChat/Rocket.Chat,TypeScript,254
-85541218,ascoders/weekly,JavaScript,250
-92111509,zadam/trilium,JavaScript,309
-48769241,penpot/penpot,Clojure,3216
-453717720,AykutSarac/jsoncrack.com,TypeScript,2299
-510607652,pocketbase/pocketbase,Go,1122
-208728772,milvus-io/milvus,Go,883
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,265
-436658287,surrealdb/surrealdb,Rust,4175
-101767772,bytecodealliance/wasmtime,Rust,988
-323965659,alist-org/alist,Go,662
-368917877,BuilderIO/qwik,TypeScript,2622
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1056
-116457726,ethereum/ethereum-org-website,Markdown,121
+173228436,NationalSecurityAgency/ghidra,Java,229
+35866694,RocketChat/Rocket.Chat,TypeScript,255
+85541218,ascoders/weekly,JavaScript,229
+92111509,zadam/trilium,JavaScript,308
+48769241,penpot/penpot,Clojure,3503
+453717720,AykutSarac/jsoncrack.com,TypeScript,2249
+510607652,pocketbase/pocketbase,Go,1123
+208728772,milvus-io/milvus,Go,875
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,250
+436658287,surrealdb/surrealdb,Rust,4179
+101767772,bytecodealliance/wasmtime,Rust,802
+323965659,alist-org/alist,Go,661
+368917877,BuilderIO/qwik,TypeScript,2403
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1072
+116457726,ethereum/ethereum-org-website,Markdown,147
 496768943,facebookincubator/memlab,TypeScript,1269
-330405184,turbot/steampipe,Go,92
-148713303,pichillilorenzo/flutter_inappwebview,Dart,21
-490465859,UberGuidoZ/Flipper,HTML,335
-536457428,Lcry/a-sheep-assistant,Python,572
-534023067,BishopFox/cloudfox,Go,258
-529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,290
+330405184,turbot/steampipe,Go,93
+148713303,pichillilorenzo/flutter_inappwebview,Dart,20
+490465859,UberGuidoZ/Flipper,HTML,334
+536457428,Lcry/a-sheep-assistant,Python,575
+534023067,BishopFox/cloudfox,Go,279
+529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,299
 505667511,sczhou/CodeFormer,Python,126

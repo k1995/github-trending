@@ -1,20 +1,20 @@
 id,name,lang,new stars
-23096959,golang/go,Go,265
+23096959,golang/go,Go,268
 20904437,gin-gonic/gin,Go,206
 11180687,gohugoio/hugo,Go,676
-15452919,ethereum/go-ethereum,Go,181
-31288958,hashicorp/vault,Go,239
+15452919,ethereum/go-ethereum,Go,173
+31288958,hashicorp/vault,Go,240
 59239347,portainer/portainer,Go,110
-21827146,seaweedfs/seaweedfs,Go,110
-153099672,inancgumus/learngo,Go,471
+21827146,seaweedfs/seaweedfs,Go,107
+153099672,inancgumus/learngo,Go,491
 510607652,pocketbase/pocketbase,Go,1123
 208728772,milvus-io/milvus,Go,875
 31558937,gravitational/teleport,Go,71
-119190187,zricethezav/gitleaks,Go,115
-120896210,argoproj/argo-cd,Go,68
+119190187,zricethezav/gitleaks,Go,113
+120896210,argoproj/argo-cd,Go,70
 323965659,alist-org/alist,Go,661
 116739828,DNSCrypt/dnscrypt-proxy,Go,29
-367284699,lima-vm/lima,Go,181
+367284699,lima-vm/lima,Go,178
 23664475,Shopify/toxiproxy,Go,43
 221849341,hibiken/asynq,Go,126
 187086161,open-telemetry/opentelemetry-go,Go,30
@@ -23,4 +23,4 @@ id,name,lang,new stars
 145433521,v2ray/domain-list-community,Go,72
 534023067,BishopFox/cloudfox,Go,279
 307882563,hteen/apple-store-helper,Go,71
-536877890,zc2638/ylgy,Go,201
+536877890,zc2638/ylgy,Go,199
