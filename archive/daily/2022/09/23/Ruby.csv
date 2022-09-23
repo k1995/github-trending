@@ -1,12 +1,12 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,6
-308770,heartcombo/devise,Ruby,5
+308770,heartcombo/devise,Ruby,4
 202291859,chatwoot/chatwoot,Ruby,6
 1090311,elastic/logstash,Ruby,2
 3195124,mperham/sidekiq,Ruby,1
 96395,faker-ruby/faker,Ruby,1
-15435,Shopify/liquid,Ruby,3
-812393,ruby-grape/grape,Ruby,2
+15435,Shopify/liquid,Ruby,2
+812393,ruby-grape/grape,Ruby,1
 8393,thoughtbot/paperclip,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,0
 2441517,puma/puma,Ruby,1
@@ -19,7 +19,7 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,1
 904810,rubysherpas/paranoia,Ruby,1
 7362671,rails/spring,Ruby,0
-12357002,ondrejbartas/sidekiq-cron,Ruby,1
+12357002,ondrejbartas/sidekiq-cron,Ruby,0
 34840276,elastic/ansible-elasticsearch,Ruby,0
 29151578,rswag/rswag,Ruby,1
 238983,rspec/rspec-mocks,Ruby,0

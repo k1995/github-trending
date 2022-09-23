@@ -2,12 +2,12 @@ id,name,lang,new stars
 196813750,Light-City/CPlusPlusThings,C++,22
 108110,mongodb/mongo,C++,8
 76222419,Tencent/mars,C++,3
-26038648,gabime/spdlog,C++,42
+26038648,gabime/spdlog,C++,34
 1062572,catchorg/Catch2,C++,3
 17391973,Tencent/rapidjson,C++,4
-114187903,apple/foundationdb,C++,11
-51905353,apache/arrow,C++,4
-365005377,aristocratos/btop,C++,46
+114187903,apple/foundationdb,C++,10
+51905353,apache/arrow,C++,19
+365005377,aristocratos/btop,C++,47
 108102826,carla-simulator/carla,C++,18
 146459443,vesoft-inc/nebula,C++,7
 86897963,ZLMediaKit/ZLMediaKit,C++,20
@@ -21,6 +21,6 @@ id,name,lang,new stars
 402945349,StarRocks/starrocks,C++,9
 224468265,dail8859/NotepadNext,C++,20
 85237914,doublesymmetry/react-native-track-player,C++,4
-10599951,emilybache/GildedRose-Refactoring-Kata,C++,5
+10599951,emilybache/GildedRose-Refactoring-Kata,C++,4
 493029626,Akebi-Group/Akebi-GC,C++,7
-109905086,johguse/profanity,C++,11
+109905086,johguse/profanity,C++,9

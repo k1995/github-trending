@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1940
+2325298,torvalds/linux,C,1945
 36502,git/git,C,429
-13233158,obsproject/obs-studio,C,1307
+13233158,obsproject/obs-studio,C,1306
 24586308,cfenollosa/os-tutorial,C,323
 102578345,coolsnowwolf/lede,C,455
-20159867,nothings/stb,C,309
-84240850,timescale/timescaledb,C,197
-45821540,openwrt/openwrt,C,339
-78281075,SpacehuhnTech/esp8266_deauther,C,192
-3299208,videolan/vlc,C,193
+20159867,nothings/stb,C,311
+84240850,timescale/timescaledb,C,198
+45821540,openwrt/openwrt,C,341
+78281075,SpacehuhnTech/esp8266_deauther,C,191
+3299208,videolan/vlc,C,194
 65899476,espressif/esp-idf,C,186
-394318710,valinet/ExplorerPatcher,C,668
+394318710,valinet/ExplorerPatcher,C,670
 50874442,citusdata/citus,C,329
 22711503,gcc-mirror/gcc,C,129
-40504480,mit-pdos/xv6-public,C,115
+40504480,mit-pdos/xv6-public,C,114
 41107037,unicorn-engine/unicorn,C,216
 34431834,xmake-io/xmake,C,254
 2359378,madler/zlib,C,103
@@ -22,5 +22,5 @@ id,name,lang,new stars
 184654298,bytecodealliance/wasm-micro-runtime,C,97
 646423,pgbouncer/pgbouncer,C,64
 336719229,TrungNguyen1909/qemu-t8030,C,232
-523544748,snesrev/zelda3,C,769
-403314395,48d31kh413k/1337-Piscine-42,C,83
+523544748,snesrev/zelda3,C,764
+403314395,48d31kh413k/1337-Piscine-42,C,85
