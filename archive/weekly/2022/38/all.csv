@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,870
-60493101,jwasham/coding-interview-university,,1630
-22458259,Alamofire/Alamofire,Swift,66
-32578467,danielgindi/Charts,Swift,91
-281975310,type-challenges/type-challenges,TypeScript,510
-97086543,TheAlgorithms/JavaScript,JavaScript,323
-153099672,inancgumus/learngo,Go,397
+11180687,gohugoio/hugo,Go,676
+19872456,remix-run/react-router,TypeScript,103
+173228436,NationalSecurityAgency/ghidra,Java,229
+35866694,RocketChat/Rocket.Chat,TypeScript,255
+85541218,ascoders/weekly,JavaScript,250
+92111509,zadam/trilium,JavaScript,304
+48769241,penpot/penpot,Clojure,3503
+453717720,AykutSarac/jsoncrack.com,TypeScript,2249
 510607652,pocketbase/pocketbase,Go,1403
-350360184,calcom/cal.com,TypeScript,281
 208728772,milvus-io/milvus,Go,875
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,250
 436658287,surrealdb/surrealdb,Rust,4179
 101767772,bytecodealliance/wasmtime,Rust,802
 323965659,alist-org/alist,Go,661
 368917877,BuilderIO/qwik,TypeScript,2403
-533127272,divamgupta/diffusionbee-stable-diffusion-ui,Jupyter Notebook,1023
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1072
 116457726,ethereum/ethereum-org-website,Markdown,147
-149554797,ethereum/consensus-specs,Python,24
-117156031,prysmaticlabs/prysm,Go,48
-534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,883
+496768943,facebookincubator/memlab,TypeScript,1269
+330405184,turbot/steampipe,Go,93
+148713303,pichillilorenzo/flutter_inappwebview,Dart,21
 490465859,UberGuidoZ/Flipper,HTML,334
-472090226,revanced/revanced-patches,Kotlin,141
-530726721,nadrad/h-m-m,PHP,395
+536457428,Lcry/a-sheep-assistant,Python,595
 534023067,BishopFox/cloudfox,Go,279
 529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,299
+505667511,sczhou/CodeFormer,Python,126

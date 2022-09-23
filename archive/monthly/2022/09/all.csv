@@ -1,26 +1,26 @@
 id,name,lang,new stars
-63476337,TheAlgorithms/Python,Python,3006
-184456251,microsoft/PowerToys,C#,2193
-523379232,CompVis/stable-diffusion,Jupyter Notebook,17553
-123303402,python-poetry/poetry,Python,911
-160083795,SerenityOS/serenity,C++,888
+184456251,microsoft/PowerToys,C#,2211
+523379232,CompVis/stable-diffusion,Jupyter Notebook,17422
+123303402,python-poetry/poetry,Python,909
 74962515,gchq/CyberChef,JavaScript,1440
-120425779,lapce/lapce,Rust,4293
-149001365,doocs/leetcode,Java,2185
-387326890,xinntao/Real-ESRGAN,Python,1810
+120425779,lapce/lapce,Rust,4301
+149001365,doocs/leetcode,Java,2186
+387326890,xinntao/Real-ESRGAN,Python,1805
 468515960,CodeEditApp/CodeEdit,Swift,2114
 268424739,helix-editor/helix,Rust,1523
-436658287,surrealdb/surrealdb,Rust,10337
-241176242,girliemac/a-picture-is-worth-a-1000-words,,2567
-323965659,alist-org/alist,Go,1294
-198350484,microsoft/unilm,Python,560
-498011141,huggingface/diffusers,Python,3514
-166304026,BishopFox/sliver,Go,824
+436658287,surrealdb/surrealdb,Rust,10231
+321960447,openai/CLIP,Jupyter Notebook,664
+323965659,alist-org/alist,Go,1305
+198350484,microsoft/unilm,Python,552
+498011141,huggingface/diffusers,Python,3492
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,5330
+166304026,BishopFox/sliver,Go,826
 440244590,CompVis/latent-diffusion,Jupyter Notebook,1007
-116457726,ethereum/ethereum-org-website,Markdown,297
-527719753,cemu-project/Cemu,C++,2946
-471494981,revanced/revanced-manager,Dart,1820
+116457726,ethereum/ethereum-org-website,Markdown,296
+527719753,cemu-project/Cemu,C++,2947
+471494981,revanced/revanced-manager,Dart,1829
 255231293,karpathy/micrograd,Jupyter Notebook,338
-388946490,facebookincubator/velox,C++,556
-524596709,LSPosed/MagiskOnWSALocal,Shell,996
-523544748,snesrev/zelda3,C,762
+99045602,flutter/packages,Dart,128
+388946490,facebookincubator/velox,C++,557
+524596709,LSPosed/MagiskOnWSALocal,Shell,997
+523544748,snesrev/zelda3,C,761
