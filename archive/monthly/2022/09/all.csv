@@ -1,26 +1,26 @@
 id,name,lang,new stars
-523379232,CompVis/stable-diffusion,Jupyter Notebook,16605
-123303402,python-poetry/poetry,Python,916
-74962515,gchq/CyberChef,JavaScript,1449
-240215314,docker/awesome-compose,HTML,1152
-120425779,lapce/lapce,Rust,4374
-149001365,doocs/leetcode,Java,2001
-387326890,xinntao/Real-ESRGAN,Python,1767
-468515960,CodeEditApp/CodeEdit,Swift,2107
+523379232,CompVis/stable-diffusion,Jupyter Notebook,16506
+123303402,python-poetry/poetry,Python,915
+74962515,gchq/CyberChef,JavaScript,1448
+240215314,docker/awesome-compose,HTML,1151
+120425779,lapce/lapce,Rust,4384
+149001365,doocs/leetcode,Java,1999
+387326890,xinntao/Real-ESRGAN,Python,1766
+468515960,CodeEditApp/CodeEdit,Swift,2106
 268424739,helix-editor/helix,Rust,1518
-436658287,surrealdb/surrealdb,Rust,9621
-323965659,alist-org/alist,Go,1328
-198350484,microsoft/unilm,Python,512
-498011141,huggingface/diffusers,Python,2851
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,5352
-166304026,BishopFox/sliver,Go,841
-440244590,CompVis/latent-diffusion,Jupyter Notebook,995
-116457726,ethereum/ethereum-org-website,Markdown,299
-320818962,teivah/100-go-mistakes,Go,1902
-527719753,cemu-project/Cemu,C++,2588
-471494981,revanced/revanced-manager,Dart,1855
-255231293,karpathy/micrograd,Jupyter Notebook,326
+436658287,surrealdb/surrealdb,Rust,9532
+323965659,alist-org/alist,Go,1334
+198350484,microsoft/unilm,Python,511
+498011141,huggingface/diffusers,Python,2787
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,5333
+166304026,BishopFox/sliver,Go,842
+440244590,CompVis/latent-diffusion,Jupyter Notebook,998
+116457726,ethereum/ethereum-org-website,Markdown,297
+320818962,teivah/100-go-mistakes,Go,1869
+527719753,cemu-project/Cemu,C++,2378
+471494981,revanced/revanced-manager,Dart,1862
+255231293,karpathy/micrograd,Jupyter Notebook,325
 99045602,flutter/packages,Dart,132
 388946490,facebookincubator/velox,C++,558
-524596709,LSPosed/MagiskOnWSALocal,Shell,993
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,535
+524596709,LSPosed/MagiskOnWSALocal,Shell,994
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,536

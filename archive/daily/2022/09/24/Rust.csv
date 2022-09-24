@@ -1,8 +1,8 @@
 id,name,lang,new stars
-133442384,denoland/deno,Rust,16
+133442384,denoland/deno,Rust,15
 724712,rust-lang/rust,Rust,65
-53631945,BurntSushi/ripgrep,Rust,23
-42489829,rust-lang/rustlings,Rust,43
+53631945,BurntSushi/ripgrep,Rust,26
+42489829,rust-lang/rustlings,Rust,35
 299354207,rustdesk/rustdesk,Rust,27
 21938243,rust-unofficial/awesome-rust,Rust,24
 115110181,swc-project/swc,Rust,17
@@ -11,7 +11,7 @@ id,name,lang,new stars
 105379569,actix/actix-web,Rust,7
 148641954,TheAlgorithms/Rust,Rust,21
 143822069,sunface/rust-course,Rust,41
-31315121,clap-rs/clap,Rust,14
+31315121,clap-rs/clap,Rust,12
 101767772,bytecodealliance/wasmtime,Rust,331
 26850443,rust-lang/rust-clippy,Rust,12
 208102250,microsoft/windows-rs,Rust,16
