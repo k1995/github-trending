@@ -1,0 +1,26 @@
+id,name,lang,new stars
+29207621,caddyserver/caddy,Go,44
+17728164,hashicorp/terraform,Go,24
+74175805,istio/istio,Go,12
+13855476,go-gorm/gorm,Go,18
+31288958,hashicorp/vault,Go,88
+50613991,goharbor/harbor,Go,10
+6247705,stretchr/testify,Go,5
+153099672,inancgumus/learngo,Go,329
+434218673,zinclabs/zinc,Go,56
+161951219,wailsapp/wails,Go,295
+16554739,elastic/beats,Go,4
+23247808,rqlite/rqlite,Go,10
+119190187,zricethezav/gitleaks,Go,11
+40684033,mozilla/sops,Go,11
+222172014,slackhq/nebula,Go,8
+134018330,panjf2000/ants,Go,13
+113106184,linkerd/linkerd2,Go,3
+120650407,operator-framework/operator-sdk,Go,4
+94779471,aquasecurity/kube-bench,Go,1
+3802828,elazarl/goproxy,Go,7
+58184885,kubernetes/kube-state-metrics,Go,2
+23586998,vektra/mockery,Go,8
+357897199,netbirdio/netbird,Go,23
+411212454,evmos/evmos,Go,2
+248386471,kubesphere/kubekey,Go,1

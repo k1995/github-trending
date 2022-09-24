@@ -1,13 +1,13 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,5
-1864363,composer/composer,PHP,10
-448045,sebastianbergmann/phpunit,PHP,3
-2889328,WordPress/WordPress,PHP,3
+7548986,laravel/framework,PHP,6
+1864363,composer/composer,PHP,11
+448045,sebastianbergmann/phpunit,PHP,4
+2889328,WordPress/WordPress,PHP,2
 1631570,nikic/PHP-Parser,PHP,2
-12615154,barryvdh/laravel-debugbar,PHP,3
+12615154,barryvdh/laravel-debugbar,PHP,5
 3431193,yiisoft/yii2,PHP,2
-79111500,jupeter/clean-code-php,PHP,10
-15020102,walkor/workerman,PHP,1
+79111500,jupeter/clean-code-php,PHP,11
+15020102,walkor/workerman,PHP,4
 2699935,squizlabs/PHP_CodeSniffer,PHP,4
 597887,doctrine/orm,PHP,2
 6660366,dompdf/dompdf,PHP,3
@@ -18,7 +18,7 @@ id,name,lang,new stars
 14716368,invoiceninja/invoiceninja,PHP,4
 9791525,digininja/DVWA,PHP,7
 4242230,PHPOffice/PHPWord,PHP,2
-97311017,rectorphp/rector,PHP,3
+97311017,rectorphp/rector,PHP,7
 9826184,elastic/elasticsearch-php,PHP,0
 148129143,bagisto/bagisto,PHP,1
 3817881,zircote/swagger-php,PHP,3
