@@ -1,19 +1,19 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,657
+3482588,danielmiessler/SecLists,PHP,662
 1864363,composer/composer,PHP,129
 1420053,guzzle/guzzle,PHP,96
 60243197,nextcloud/server,PHP,429
 2889328,WordPress/WordPress,PHP,127
-1631570,nikic/PHP-Parser,PHP,86
-12615154,barryvdh/laravel-debugbar,PHP,125
+1631570,nikic/PHP-Parser,PHP,85
+12615154,barryvdh/laravel-debugbar,PHP,126
 41589337,BookStackApp/BookStack,PHP,210
-21298446,firefly-iii/firefly-iii,PHP,292
+21298446,firefly-iii/firefly-iii,PHP,290
 10238429,tennc/webshell,PHP,110
 2179920,woocommerce/woocommerce,PHP,64
-14346979,snipe/snipe-it,PHP,131
-6763587,PrestaShop/PrestaShop,PHP,171
+14346979,snipe/snipe-it,PHP,133
+6763587,PrestaShop/PrestaShop,PHP,172
 9791525,digininja/DVWA,PHP,154
-76064827,mailcow/mailcow-dockerized,PHP,110
+76064827,mailcow/mailcow-dockerized,PHP,111
 60010673,elementor/elementor,PHP,90
 248372441,filamentphp/filament,PHP,305
 439861,moodle/moodle,PHP,55
@@ -23,4 +23,4 @@ id,name,lang,new stars
 138328462,freescout-helpdesk/freescout,PHP,68
 75645659,WordPress/wordpress-develop,PHP,38
 433383766,nextcloud/all-in-one,PHP,103
-491456510,zidansec/CloudPeler,PHP,117
+491456510,zidansec/CloudPeler,PHP,116

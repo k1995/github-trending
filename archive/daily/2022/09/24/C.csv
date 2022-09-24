@@ -1,12 +1,12 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,11
-13233158,obsproject/obs-studio,C,36
+10744183,netdata/netdata,C,13
+13233158,obsproject/obs-studio,C,33
 2810292,pbatard/rufus,C,15
 84240850,timescale/timescaledb,C,19
-488002779,NVIDIA/open-gpu-kernel-modules,C,13
+488002779,NVIDIA/open-gpu-kernel-modules,C,17
 24993138,google/brotli,C,2
 60667730,lvgl/lvgl,C,4
-65899476,espressif/esp-idf,C,7
+65899476,espressif/esp-idf,C,6
 214011414,kingToolbox/WindTerm,C,16
 32921736,audacity/audacity,C,14
 54280778,DaveGamble/cJSON,C,6
@@ -16,11 +16,11 @@ id,name,lang,new stars
 59676171,Klipper3d/klipper,C,2
 135348215,TelegramMessenger/MTProxy,C,5
 58132544,RediSearch/RediSearch,C,1
-330008801,libsdl-org/SDL,C,11
+330008801,libsdl-org/SDL,C,10
 15333809,open62541/open62541,C,1
 190119926,matrixcascade/PainterEngine,C,9
 207354223,FreeRTOS/FreeRTOS-Kernel,C,3
-523544748,snesrev/zelda3,C,6
+523544748,snesrev/zelda3,C,5
 470373719,istoreos/istoreos,C,4
 523603879,Markakd/CVE-2022-2588,C,8
 53371980,holbertonschool/make_magic_happen,C,0
