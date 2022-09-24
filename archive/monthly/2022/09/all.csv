@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2242
-523379232,CompVis/stable-diffusion,Jupyter Notebook,16701
-123303402,python-poetry/poetry,Python,919
-74962515,gchq/CyberChef,JavaScript,1448
-120425779,lapce/lapce,Rust,4365
-149001365,doocs/leetcode,Java,2028
-387326890,xinntao/Real-ESRGAN,Python,1774
+523379232,CompVis/stable-diffusion,Jupyter Notebook,16605
+123303402,python-poetry/poetry,Python,916
+74962515,gchq/CyberChef,JavaScript,1449
+240215314,docker/awesome-compose,HTML,1152
+120425779,lapce/lapce,Rust,4374
+149001365,doocs/leetcode,Java,2001
+387326890,xinntao/Real-ESRGAN,Python,1767
 468515960,CodeEditApp/CodeEdit,Swift,2107
 268424739,helix-editor/helix,Rust,1518
-436658287,surrealdb/surrealdb,Rust,9710
-321960447,openai/CLIP,Jupyter Notebook,674
-323965659,alist-org/alist,Go,1326
-198350484,microsoft/unilm,Python,517
-498011141,huggingface/diffusers,Python,2932
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,5369
+436658287,surrealdb/surrealdb,Rust,9621
+323965659,alist-org/alist,Go,1328
+198350484,microsoft/unilm,Python,512
+498011141,huggingface/diffusers,Python,2851
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,5352
 166304026,BishopFox/sliver,Go,841
-440244590,CompVis/latent-diffusion,Jupyter Notebook,996
-116457726,ethereum/ethereum-org-website,Markdown,298
-527719753,cemu-project/Cemu,C++,2774
-471494981,revanced/revanced-manager,Dart,1851
-255231293,karpathy/micrograd,Jupyter Notebook,330
+440244590,CompVis/latent-diffusion,Jupyter Notebook,995
+116457726,ethereum/ethereum-org-website,Markdown,299
+320818962,teivah/100-go-mistakes,Go,1902
+527719753,cemu-project/Cemu,C++,2588
+471494981,revanced/revanced-manager,Dart,1855
+255231293,karpathy/micrograd,Jupyter Notebook,326
 99045602,flutter/packages,Dart,132
 388946490,facebookincubator/velox,C++,558
-524596709,LSPosed/MagiskOnWSALocal,Shell,992
-523544748,snesrev/zelda3,C,727
+524596709,LSPosed/MagiskOnWSALocal,Shell,993
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,535
