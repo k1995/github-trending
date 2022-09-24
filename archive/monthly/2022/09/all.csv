@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2238
-523379232,CompVis/stable-diffusion,Jupyter Notebook,17038
-123303402,python-poetry/poetry,Python,913
+184456251,microsoft/PowerToys,C#,2234
+523379232,CompVis/stable-diffusion,Jupyter Notebook,16916
+123303402,python-poetry/poetry,Python,918
 74962515,gchq/CyberChef,JavaScript,1448
-120425779,lapce/lapce,Rust,4341
-149001365,doocs/leetcode,Java,2129
-387326890,xinntao/Real-ESRGAN,Python,1783
-468515960,CodeEditApp/CodeEdit,Swift,2108
-268424739,helix-editor/helix,Rust,1528
-436658287,surrealdb/surrealdb,Rust,9901
-321960447,openai/CLIP,Jupyter Notebook,669
-323965659,alist-org/alist,Go,1312
-198350484,microsoft/unilm,Python,537
-498011141,huggingface/diffusers,Python,3146
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,5358
-166304026,BishopFox/sliver,Go,832
-440244590,CompVis/latent-diffusion,Jupyter Notebook,1001
-116457726,ethereum/ethereum-org-website,Markdown,297
-527719753,cemu-project/Cemu,C++,2963
-471494981,revanced/revanced-manager,Dart,1841
-255231293,karpathy/micrograd,Jupyter Notebook,336
+120425779,lapce/lapce,Rust,4350
+149001365,doocs/leetcode,Java,2086
+387326890,xinntao/Real-ESRGAN,Python,1779
+468515960,CodeEditApp/CodeEdit,Swift,2107
+268424739,helix-editor/helix,Rust,1524
+436658287,surrealdb/surrealdb,Rust,9838
+321960447,openai/CLIP,Jupyter Notebook,672
+323965659,alist-org/alist,Go,1316
+198350484,microsoft/unilm,Python,529
+498011141,huggingface/diffusers,Python,3076
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,5364
+166304026,BishopFox/sliver,Go,835
+440244590,CompVis/latent-diffusion,Jupyter Notebook,998
+116457726,ethereum/ethereum-org-website,Markdown,298
+527719753,cemu-project/Cemu,C++,2966
+471494981,revanced/revanced-manager,Dart,1842
+255231293,karpathy/micrograd,Jupyter Notebook,335
 99045602,flutter/packages,Dart,132
-388946490,facebookincubator/velox,C++,558
+388946490,facebookincubator/velox,C++,559
 524596709,LSPosed/MagiskOnWSALocal,Shell,996
-523544748,snesrev/zelda3,C,742
+523544748,snesrev/zelda3,C,739

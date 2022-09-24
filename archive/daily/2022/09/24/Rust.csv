@@ -8,7 +8,7 @@ id,name,lang,new stars
 101767772,bytecodealliance/wasmtime,Rust,291
 23560214,BurntSushi/xsv,Rust,3
 26850443,rust-lang/rust-clippy,Rust,12
-208102250,microsoft/windows-rs,Rust,16
+208102250,microsoft/windows-rs,Rust,15
 49412556,quickwit-oss/tantivy,Rust,4
 219035799,huggingface/tokenizers,Rust,11
 201517171,hyperium/tonic,Rust,10
@@ -18,7 +18,7 @@ id,name,lang,new stars
 179135166,WebAssembly/WASI,Rust,4
 357284448,awslabs/aws-sdk-rust,Rust,7
 151331938,near/nearcore,Rust,6
-369828607,nullpo-head/wsl-distrod,Rust,9
+369828607,nullpo-head/wsl-distrod,Rust,10
 240971104,AleoHQ/snarkOS,Rust,12
 358917250,apache/arrow-rs,Rust,1
 166616185,roc-lang/roc,Rust,10
