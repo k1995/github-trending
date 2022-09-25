@@ -1,26 +1,26 @@
 id,name,lang,new stars
-28457823,freeCodeCamp/freeCodeCamp,TypeScript,203
+28457823,freeCodeCamp/freeCodeCamp,TypeScript,207
 155220641,huggingface/transformers,Python,58
-151834062,doocs/advanced-java,Java,135
-29207621,caddyserver/caddy,Go,46
+151834062,doocs/advanced-java,Java,152
+29207621,caddyserver/caddy,Go,44
 377496562,AppFlowy-IO/AppFlowy,Dart,43
 110211147,xkcoding/spring-boot-demo,Java,11
-441903012,MichaelCade/90DaysOfDevOps,Shell,62
+441903012,MichaelCade/90DaysOfDevOps,Shell,70
 1062572,catchorg/Catch2,C++,8
-153099672,inancgumus/learngo,Go,302
+153099672,inancgumus/learngo,Go,329
 87699760,vulhub/vulhub,Dockerfile,8
 434218673,zinclabs/zinc,Go,56
 437245741,dragonflydb/dragonfly,C++,30
 161951219,wailsapp/wails,Go,295
 210716005,dotnet/runtime,C#,9
-101767772,bytecodealliance/wasmtime,Rust,331
+101767772,bytecodealliance/wasmtime,Rust,315
 493934907,InterviewReady/system-design-resources,,18
-537603333,openai/whisper,Jupyter Notebook,2128
-201517171,hyperium/tonic,Rust,10
-96496250,pointfreeco/swift-snapshot-testing,Swift,16
-529708137,steven-tey/dub,TypeScript,244
-207354223,FreeRTOS/FreeRTOS-Kernel,C,3
-528238131,salesforce/LAVIS,Python,85
-539395002,3xp0rt/LockBit-Black-Builder,,65
-536792011,Launch-X-Latam/OnBoarding,,112
+537603333,openai/whisper,Jupyter Notebook,2055
+201517171,hyperium/tonic,Rust,59
+96496250,pointfreeco/swift-snapshot-testing,Swift,14
+529708137,steven-tey/dub,TypeScript,245
+207354223,FreeRTOS/FreeRTOS-Kernel,C,6
+528238131,salesforce/LAVIS,Python,71
+539395002,3xp0rt/LockBit-Black-Builder,,67
+536792011,Launch-X-Latam/OnBoarding,,67
 520014232,IDEA-Research/detrex,Python,28

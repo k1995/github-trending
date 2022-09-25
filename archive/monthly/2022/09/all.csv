@@ -1,26 +1,26 @@
 id,name,lang,new stars
-523379232,CompVis/stable-diffusion,Jupyter Notebook,16365
-123303402,python-poetry/poetry,Python,917
-74962515,gchq/CyberChef,JavaScript,1449
-240215314,docker/awesome-compose,HTML,1157
-120425779,lapce/lapce,Rust,4400
+523379232,CompVis/stable-diffusion,Jupyter Notebook,16305
+123303402,python-poetry/poetry,Python,921
+74962515,gchq/CyberChef,JavaScript,1456
+240215314,docker/awesome-compose,HTML,1159
+120425779,lapce/lapce,Rust,4410
 149001365,doocs/leetcode,Java,2001
-387326890,xinntao/Real-ESRGAN,Python,1766
+387326890,xinntao/Real-ESRGAN,Python,1764
 468515960,CodeEditApp/CodeEdit,Swift,2113
-268424739,helix-editor/helix,Rust,1519
-436658287,surrealdb/surrealdb,Rust,9445
+268424739,helix-editor/helix,Rust,1518
+436658287,surrealdb/surrealdb,Rust,9416
 323965659,alist-org/alist,Go,1336
 198350484,microsoft/unilm,Python,509
-498011141,huggingface/diffusers,Python,2683
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,5316
-166304026,BishopFox/sliver,Go,842
-440244590,CompVis/latent-diffusion,Jupyter Notebook,994
+498011141,huggingface/diffusers,Python,2664
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,5238
+166304026,BishopFox/sliver,Go,839
+440244590,CompVis/latent-diffusion,Jupyter Notebook,990
 116457726,ethereum/ethereum-org-website,Markdown,299
-320818962,teivah/100-go-mistakes,Go,1831
-527719753,cemu-project/Cemu,C++,2036
-471494981,revanced/revanced-manager,Dart,1869
-255231293,karpathy/micrograd,Jupyter Notebook,322
-99045602,flutter/packages,Dart,132
-388946490,facebookincubator/velox,C++,559
-524596709,LSPosed/MagiskOnWSALocal,Shell,997
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,509
+320818962,teivah/100-go-mistakes,Go,1827
+527719753,cemu-project/Cemu,C++,1929
+471494981,revanced/revanced-manager,Dart,1872
+255231293,karpathy/micrograd,Jupyter Notebook,321
+99045602,flutter/packages,Dart,138
+388946490,facebookincubator/velox,C++,558
+524596709,LSPosed/MagiskOnWSALocal,Shell,996
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,506
