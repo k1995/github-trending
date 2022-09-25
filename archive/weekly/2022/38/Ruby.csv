@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,45
+8514,rails/rails,Ruby,46
 65252,jekyll/jekyll,Ruby,46
 27442967,fastlane/fastlane,Ruby,45
-52281283,mastodon/mastodon,Ruby,38
-13840241,freeCodeCamp/devdocs,Ruby,108
-2293158,rapid7/metasploit-framework,Ruby,70
+52281283,mastodon/mastodon,Ruby,42
+13840241,freeCodeCamp/devdocs,Ruby,110
+2293158,rapid7/metasploit-framework,Ruby,69
 18486300,lewagon/setup,Ruby,49
 202291859,chatwoot/chatwoot,Ruby,44
 1090311,elastic/logstash,Ruby,13
@@ -12,7 +12,7 @@ id,name,lang,new stars
 15435,Shopify/liquid,Ruby,27
 6529205,varvet/pundit,Ruby,9
 21829,thoughtbot/factory_bot,Ruby,7
-108278,chef/chef,Ruby,9
+108278,chef/chef,Ruby,8
 4994614,wpscanteam/wpscan,Ruby,18
 103766152,github/explore,Ruby,23
 3898922,zammad/zammad,Ruby,12
