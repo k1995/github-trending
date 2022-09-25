@@ -1,5 +1,5 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,1004
+83222441,donnemartin/system-design-primer,Python,1007
 63476337,TheAlgorithms/Python,Python,1135
 155220641,huggingface/transformers,Python,482
 33015583,keras-team/keras,Python,93
@@ -8,7 +8,7 @@ id,name,lang,new stars
 212639071,bregman-arie/devops-exercises,Python,1072
 33884891,apache/airflow,Python,162
 349321229,TencentARC/GFPGAN,Python,344
-206660580,facebookresearch/detectron2,Python,98
+206660580,facebookresearch/detectron2,Python,97
 145670234,open-mmlab/mmdetection,Python,124
 178626720,Lightning-AI/lightning,Python,84
 20206590,rougier/numpy-100,Python,51
@@ -23,4 +23,4 @@ id,name,lang,new stars
 418776991,relogX/system-design-questions,Python,190
 536457428,Lcry/a-sheep-assistant,Python,385
 505667511,sczhou/CodeFormer,Python,143
-484291308,Gioman101/FlipperAmiibo,Python,28
+484291308,Gioman101/FlipperAmiibo,Python,27

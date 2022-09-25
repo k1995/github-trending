@@ -1,14 +1,14 @@
 id,name,lang,new stars
-155220641,huggingface/transformers,Python,61
-1362490,psf/requests,Python,10
+155220641,huggingface/transformers,Python,60
+1362490,psf/requests,Python,9
 125266328,psf/black,Python,13
 57222302,openai/gym,Python,19
 43160685,zulip/zulip,Python,8
 250213286,huggingface/datasets,Python,16
-221723816,WZMIAOMIAO/deep-learning-for-image-processing,Python,26
-83878269,iterative/dvc,Python,10
-70746484,apache/tvm,Python,3
-167694194,blakeblackshear/frigate,Python,11
+221723816,WZMIAOMIAO/deep-learning-for-image-processing,Python,23
+83878269,iterative/dvc,Python,8
+70746484,apache/tvm,Python,2
+167694194,blakeblackshear/frigate,Python,10
 47671127,PyCQA/pylint,Python,5
 51040886,Azure/azure-cli,Python,3
 4127088,Azure/azure-sdk-for-python,Python,8
@@ -18,7 +18,7 @@ id,name,lang,new stars
 437796389,yu-steven/openit,Python,31
 270611419,Miksus/rocketry,Python,105
 261395799,Sentinel-One/CobaltStrikeParser,Python,10
-528238131,salesforce/LAVIS,Python,94
+528238131,salesforce/LAVIS,Python,109
 537972211,open-mmlab/mmyolo,Python,34
 526969055,krea-ai/open-prompts,Python,28
 520014232,IDEA-Research/detrex,Python,34

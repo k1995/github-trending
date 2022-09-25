@@ -1,26 +1,26 @@
 id,name,lang,new stars
 28457823,freeCodeCamp/freeCodeCamp,TypeScript,127
-155220641,huggingface/transformers,Python,71
-151834062,doocs/advanced-java,Java,162
-29207621,caddyserver/caddy,Go,73
-377496562,AppFlowy-IO/AppFlowy,Dart,68
+155220641,huggingface/transformers,Python,60
+151834062,doocs/advanced-java,Java,158
+29207621,caddyserver/caddy,Go,72
+377496562,AppFlowy-IO/AppFlowy,Dart,69
 110211147,xkcoding/spring-boot-demo,Java,23
-441903012,MichaelCade/90DaysOfDevOps,Shell,133
-1062572,catchorg/Catch2,C++,16
-153099672,inancgumus/learngo,Go,123
+441903012,MichaelCade/90DaysOfDevOps,Shell,127
+1062572,catchorg/Catch2,C++,15
+153099672,inancgumus/learngo,Go,121
 87699760,vulhub/vulhub,Dockerfile,13
 437245741,dragonflydb/dragonfly,C++,58
-434218673,zinclabs/zinc,Go,55
-161951219,wailsapp/wails,Go,341
+434218673,zinclabs/zinc,Go,33
+161951219,wailsapp/wails,Go,353
 210716005,dotnet/runtime,C#,14
-101767772,bytecodealliance/wasmtime,Rust,111
-493934907,InterviewReady/system-design-resources,,52
-537603333,openai/whisper,Jupyter Notebook,1201
+101767772,bytecodealliance/wasmtime,Rust,129
+493934907,InterviewReady/system-design-resources,,50
+537603333,openai/whisper,Jupyter Notebook,1172
 201517171,hyperium/tonic,Rust,39
 96496250,pointfreeco/swift-snapshot-testing,Swift,25
-529708137,steven-tey/dub,TypeScript,230
-207354223,FreeRTOS/FreeRTOS-Kernel,C,26
-528238131,salesforce/LAVIS,Python,93
+529708137,steven-tey/dub,TypeScript,231
+207354223,FreeRTOS/FreeRTOS-Kernel,C,20
+528238131,salesforce/LAVIS,Python,109
 539395002,3xp0rt/LockBit-Black-Builder,,44
 536792011,Launch-X-Latam/OnBoarding,,105
 520014232,IDEA-Research/detrex,Python,34
