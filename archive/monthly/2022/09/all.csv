@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2253
-523379232,CompVis/stable-diffusion,Jupyter Notebook,15960
+184456251,microsoft/PowerToys,C#,2264
+523379232,CompVis/stable-diffusion,Jupyter Notebook,15908
 349321229,TencentARC/GFPGAN,Python,1348
-123303402,python-poetry/poetry,Python,930
+123303402,python-poetry/poetry,Python,929
 74962515,gchq/CyberChef,JavaScript,1457
-120425779,lapce/lapce,Rust,4448
+120425779,lapce/lapce,Rust,4459
 387326890,xinntao/Real-ESRGAN,Python,1742
-468515960,CodeEditApp/CodeEdit,Swift,2116
-268424739,helix-editor/helix,Rust,1530
-436658287,surrealdb/surrealdb,Rust,9215
-101767772,bytecodealliance/wasmtime,Rust,1424
-323965659,alist-org/alist,Go,1342
+468515960,CodeEditApp/CodeEdit,Swift,2114
+268424739,helix-editor/helix,Rust,1532
+436658287,surrealdb/surrealdb,Rust,9188
+101767772,bytecodealliance/wasmtime,Rust,1433
+323965659,alist-org/alist,Go,1348
 198350484,microsoft/unilm,Python,492
-498011141,huggingface/diffusers,Python,2504
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,4985
-528378201,sd-webui/stable-diffusion-webui,Python,4379
-440244590,CompVis/latent-diffusion,Jupyter Notebook,985
-116457726,ethereum/ethereum-org-website,Markdown,304
-320818962,teivah/100-go-mistakes,Go,1780
-392603437,jxxghp/nas-tools,Python,1025
-471494981,revanced/revanced-manager,Dart,1891
+498011141,huggingface/diffusers,Python,2482
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,4931
+528378201,sd-webui/stable-diffusion-webui,Python,4377
+440244590,CompVis/latent-diffusion,Jupyter Notebook,982
+116457726,ethereum/ethereum-org-website,Markdown,303
+320818962,teivah/100-go-mistakes,Go,1777
+392603437,jxxghp/nas-tools,Python,1028
+471494981,revanced/revanced-manager,Dart,1898
 99045602,flutter/packages,Dart,138
+524596709,LSPosed/MagiskOnWSALocal,Shell,992
 388946490,facebookincubator/velox,C++,561
-524596709,LSPosed/MagiskOnWSALocal,Shell,993
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,465
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,449
