@@ -6,9 +6,9 @@ id,name,lang,new stars
 299354207,rustdesk/rustdesk,Rust,40
 21938243,rust-unofficial/awesome-rust,Rust,40
 115110181,swc-project/swc,Rust,16
-114466145,yewstack/yew,Rust,31
+114466145,yewstack/yew,Rust,32
 54168759,SergioBenitez/Rocket,Rust,12
-105379569,actix/actix-web,Rust,9
+105379569,actix/actix-web,Rust,8
 148641954,TheAlgorithms/Rust,Rust,47
 143822069,sunface/rust-course,Rust,31
 101767772,bytecodealliance/wasmtime,Rust,105
@@ -16,7 +16,7 @@ id,name,lang,new stars
 26850443,rust-lang/rust-clippy,Rust,5
 208102250,microsoft/windows-rs,Rust,4
 14367737,serde-rs/serde,Rust,5
-201517171,hyperium/tonic,Rust,80
+201517171,hyperium/tonic,Rust,96
 202485012,webrtc-rs/webrtc,Rust,15
 130174051,graphprotocol/graph-node,Rust,4
 267940560,solana-labs/solana-program-library,Rust,0

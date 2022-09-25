@@ -1,26 +1,26 @@
 id,name,lang,new stars
-523379232,CompVis/stable-diffusion,Jupyter Notebook,16177
-123303402,python-poetry/poetry,Python,924
-74962515,gchq/CyberChef,JavaScript,1457
-240215314,docker/awesome-compose,HTML,1159
-120425779,lapce/lapce,Rust,4424
-149001365,doocs/leetcode,Java,1991
-387326890,xinntao/Real-ESRGAN,Python,1756
-468515960,CodeEditApp/CodeEdit,Swift,2115
-268424739,helix-editor/helix,Rust,1521
-436658287,surrealdb/surrealdb,Rust,9327
-323965659,alist-org/alist,Go,1337
-198350484,microsoft/unilm,Python,505
-498011141,huggingface/diffusers,Python,2605
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,5142
+523379232,CompVis/stable-diffusion,Jupyter Notebook,16083
+123303402,python-poetry/poetry,Python,928
+74962515,gchq/CyberChef,JavaScript,1456
+240215314,docker/awesome-compose,HTML,1165
+120425779,lapce/lapce,Rust,4432
+149001365,doocs/leetcode,Java,1982
+387326890,xinntao/Real-ESRGAN,Python,1755
+468515960,CodeEditApp/CodeEdit,Swift,2117
+268424739,helix-editor/helix,Rust,1523
+436658287,surrealdb/surrealdb,Rust,9253
+323965659,alist-org/alist,Go,1340
+198350484,microsoft/unilm,Python,498
+498011141,huggingface/diffusers,Python,2562
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,5081
 166304026,BishopFox/sliver,Go,840
 440244590,CompVis/latent-diffusion,Jupyter Notebook,988
-116457726,ethereum/ethereum-org-website,Markdown,301
-320818962,teivah/100-go-mistakes,Go,1806
-527719753,cemu-project/Cemu,C++,1773
-471494981,revanced/revanced-manager,Dart,1881
-255231293,karpathy/micrograd,Jupyter Notebook,323
+116457726,ethereum/ethereum-org-website,Markdown,304
+320818962,teivah/100-go-mistakes,Go,1792
+527719753,cemu-project/Cemu,C++,1700
+471494981,revanced/revanced-manager,Dart,1883
+255231293,karpathy/micrograd,Jupyter Notebook,324
 99045602,flutter/packages,Dart,138
-388946490,facebookincubator/velox,C++,560
-524596709,LSPosed/MagiskOnWSALocal,Shell,999
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,498
+388946490,facebookincubator/velox,C++,563
+524596709,LSPosed/MagiskOnWSALocal,Shell,995
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,494
