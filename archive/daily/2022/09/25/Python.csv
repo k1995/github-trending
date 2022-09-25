@@ -5,13 +5,13 @@ id,name,lang,new stars
 57222302,openai/gym,Python,19
 43160685,zulip/zulip,Python,8
 250213286,huggingface/datasets,Python,16
-221723816,WZMIAOMIAO/deep-learning-for-image-processing,Python,28
-83878269,iterative/dvc,Python,8
+221723816,WZMIAOMIAO/deep-learning-for-image-processing,Python,26
+83878269,iterative/dvc,Python,10
 70746484,apache/tvm,Python,3
-167694194,blakeblackshear/frigate,Python,10
+167694194,blakeblackshear/frigate,Python,11
 47671127,PyCQA/pylint,Python,5
 51040886,Azure/azure-cli,Python,3
-4127088,Azure/azure-sdk-for-python,Python,9
+4127088,Azure/azure-sdk-for-python,Python,8
 41279279,jsvine/pdfplumber,Python,10
 308638334,huggingface/accelerate,Python,7
 278810244,open-mmlab/mmaction2,Python,6
