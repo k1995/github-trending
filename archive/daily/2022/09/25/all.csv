@@ -1,26 +1,26 @@
 id,name,lang,new stars
-28457823,freeCodeCamp/freeCodeCamp,TypeScript,127
-155220641,huggingface/transformers,Python,61
-151834062,doocs/advanced-java,Java,120
-29207621,caddyserver/caddy,Go,73
-377496562,AppFlowy-IO/AppFlowy,Dart,68
-110211147,xkcoding/spring-boot-demo,Java,23
+724712,rust-lang/rust,Rust,51
+151834062,doocs/advanced-java,Java,162
+246335987,ventoy/Ventoy,C,32
+102578345,coolsnowwolf/lede,C,15
+97086543,TheAlgorithms/JavaScript,JavaScript,109
+98771110,zhongyang219/TrafficMonitor,C++,20
 441903012,MichaelCade/90DaysOfDevOps,Shell,133
-1062572,catchorg/Catch2,C++,15
-153099672,inancgumus/learngo,Go,121
+58559694,desktop/desktop,TypeScript,12
+153099672,inancgumus/learngo,Go,123
 87699760,vulhub/vulhub,Dockerfile,13
-437245741,dragonflydb/dragonfly,C++,122
-434218673,zinclabs/zinc,Go,33
-161951219,wailsapp/wails,Go,355
-210716005,dotnet/runtime,C#,13
-101767772,bytecodealliance/wasmtime,Rust,105
-493934907,InterviewReady/system-design-resources,,52
-537603333,openai/whisper,Jupyter Notebook,1165
-201517171,hyperium/tonic,Rust,96
-96496250,pointfreeco/swift-snapshot-testing,Swift,25
-529708137,steven-tey/dub,TypeScript,233
-207354223,FreeRTOS/FreeRTOS-Kernel,C,20
-528238131,salesforce/LAVIS,Python,94
-539395002,3xp0rt/LockBit-Black-Builder,,44
-536792011,Launch-X-Latam/OnBoarding,,103
-520014232,IDEA-Research/detrex,Python,34
+1300192,octocat/Spoon-Knife,HTML,5
+537603333,openai/whisper,Jupyter Notebook,1201
+439491516,ange-yaghi/engine-sim,C++,72
+50894333,pi-hole/docker-pi-hole,Shell,11
+415421172,AveYo/MediaCreationTool.bat,Batchfile,21
+493029626,Akebi-Group/Akebi-GC,C++,20
+524596709,LSPosed/MagiskOnWSALocal,Shell,32
+529708137,steven-tey/dub,TypeScript,230
+145658226,Rezmason/matrix,JavaScript,91
+538767566,jzimmerman/langcc,C++,157
+533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,55
+251312202,google/tensorstore,C++,48
+332911364,signalapp/Signal-TLS-Proxy,Dockerfile,24
+536792011,Launch-X-Latam/OnBoarding,,105
+540056860,ahrm/UnstableFusion,Jupyter Notebook,53
