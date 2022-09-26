@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2275
-523379232,CompVis/stable-diffusion,Jupyter Notebook,15777
-349321229,TencentARC/GFPGAN,Python,1363
+184456251,microsoft/PowerToys,C#,2277
+523379232,CompVis/stable-diffusion,Jupyter Notebook,15737
+349321229,TencentARC/GFPGAN,Python,1368
 123303402,python-poetry/poetry,Python,934
 74962515,gchq/CyberChef,JavaScript,1475
-120425779,lapce/lapce,Rust,4488
-387326890,xinntao/Real-ESRGAN,Python,1731
+120425779,lapce/lapce,Rust,4498
+387326890,xinntao/Real-ESRGAN,Python,1732
 468515960,CodeEditApp/CodeEdit,Swift,2117
-268424739,helix-editor/helix,Rust,1535
-436658287,surrealdb/surrealdb,Rust,9107
-101767772,bytecodealliance/wasmtime,Rust,1461
-323965659,alist-org/alist,Go,1365
-198350484,microsoft/unilm,Python,490
-498011141,huggingface/diffusers,Python,2442
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,4834
+268424739,helix-editor/helix,Rust,1537
+436658287,surrealdb/surrealdb,Rust,9088
+101767772,bytecodealliance/wasmtime,Rust,1478
+323965659,alist-org/alist,Go,1369
+198350484,microsoft/unilm,Python,488
+498011141,huggingface/diffusers,Python,2430
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,4811
 528378201,sd-webui/stable-diffusion-webui,Python,4370
 440244590,CompVis/latent-diffusion,Jupyter Notebook,981
 116457726,ethereum/ethereum-org-website,Markdown,303
-320818962,teivah/100-go-mistakes,Go,1758
-392603437,jxxghp/nas-tools,Python,1049
-471494981,revanced/revanced-manager,Dart,1913
+320818962,teivah/100-go-mistakes,Go,1746
+392603437,jxxghp/nas-tools,Python,1052
+471494981,revanced/revanced-manager,Dart,1919
 99045602,flutter/packages,Dart,144
-524596709,LSPosed/MagiskOnWSALocal,Shell,999
+524596709,LSPosed/MagiskOnWSALocal,Shell,1004
 388946490,facebookincubator/velox,C++,558
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,434
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,433
