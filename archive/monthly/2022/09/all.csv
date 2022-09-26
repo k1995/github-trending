@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2265
-523379232,CompVis/stable-diffusion,Jupyter Notebook,15876
-349321229,TencentARC/GFPGAN,Python,1357
-123303402,python-poetry/poetry,Python,930
-74962515,gchq/CyberChef,JavaScript,1457
-120425779,lapce/lapce,Rust,4469
-387326890,xinntao/Real-ESRGAN,Python,1739
-468515960,CodeEditApp/CodeEdit,Swift,2113
-268424739,helix-editor/helix,Rust,1531
-436658287,surrealdb/surrealdb,Rust,9161
-101767772,bytecodealliance/wasmtime,Rust,1438
+184456251,microsoft/PowerToys,C#,2267
+523379232,CompVis/stable-diffusion,Jupyter Notebook,15854
+349321229,TencentARC/GFPGAN,Python,1358
+123303402,python-poetry/poetry,Python,931
+74962515,gchq/CyberChef,JavaScript,1475
+120425779,lapce/lapce,Rust,4473
+387326890,xinntao/Real-ESRGAN,Python,1733
+468515960,CodeEditApp/CodeEdit,Swift,2116
+268424739,helix-editor/helix,Rust,1533
+436658287,surrealdb/surrealdb,Rust,9149
+101767772,bytecodealliance/wasmtime,Rust,1441
 323965659,alist-org/alist,Go,1349
 198350484,microsoft/unilm,Python,492
-498011141,huggingface/diffusers,Python,2476
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,4911
-528378201,sd-webui/stable-diffusion-webui,Python,4369
-440244590,CompVis/latent-diffusion,Jupyter Notebook,983
+498011141,huggingface/diffusers,Python,2471
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,4886
+528378201,sd-webui/stable-diffusion-webui,Python,4361
+440244590,CompVis/latent-diffusion,Jupyter Notebook,982
 116457726,ethereum/ethereum-org-website,Markdown,303
-320818962,teivah/100-go-mistakes,Go,1774
-392603437,jxxghp/nas-tools,Python,1029
-471494981,revanced/revanced-manager,Dart,1903
-99045602,flutter/packages,Dart,138
-524596709,LSPosed/MagiskOnWSALocal,Shell,991
+320818962,teivah/100-go-mistakes,Go,1767
+392603437,jxxghp/nas-tools,Python,1030
+471494981,revanced/revanced-manager,Dart,1906
+99045602,flutter/packages,Dart,144
+524596709,LSPosed/MagiskOnWSALocal,Shell,993
 388946490,facebookincubator/velox,C++,560
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,445
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,441
