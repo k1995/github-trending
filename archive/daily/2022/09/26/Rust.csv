@@ -1,7 +1,7 @@
 id,name,lang,new stars
 724712,rust-lang/rust,Rust,58
 42489829,rust-lang/rustlings,Rust,28
-299354207,rustdesk/rustdesk,Rust,37
+299354207,rustdesk/rustdesk,Rust,39
 21938243,rust-unofficial/awesome-rust,Rust,36
 114466145,yewstack/yew,Rust,32
 121898717,dani-garcia/vaultwarden,Rust,22
@@ -14,13 +14,13 @@ id,name,lang,new stars
 115039706,rust-lang/rust-analyzer,Rust,6
 47854924,rust-lang/book,Rust,14
 14164618,tree-sitter/tree-sitter,Rust,11
-41609775,diesel-rs/diesel,Rust,7
-166905769,pingcap/talent-plan,Rust,14
+41609775,diesel-rs/diesel,Rust,9
+166905769,pingcap/talent-plan,Rust,16
 148686316,gfx-rs/wgpu,Rust,19
 25250913,shadowsocks/shadowsocks-rust,Rust,6
-404320053,foundry-rs/foundry,Rust,8
+404320053,foundry-rs/foundry,Rust,9
 301244405,ellie/atuin,Rust,40
 358917318,apache/arrow-datafusion,Rust,11
-320426156,roapi/roapi,Rust,112
+320426156,roapi/roapi,Rust,110
 225789323,tokio-rs/mini-redis,Rust,21
-518189364,araekiel/jot,Rust,39
+518189364,araekiel/jot,Rust,36
