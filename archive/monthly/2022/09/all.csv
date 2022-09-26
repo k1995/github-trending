@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2277
-523379232,CompVis/stable-diffusion,Jupyter Notebook,15737
-349321229,TencentARC/GFPGAN,Python,1368
+184456251,microsoft/PowerToys,C#,2279
+523379232,CompVis/stable-diffusion,Jupyter Notebook,15688
 123303402,python-poetry/poetry,Python,934
 74962515,gchq/CyberChef,JavaScript,1475
-120425779,lapce/lapce,Rust,4498
+240215314,docker/awesome-compose,HTML,1183
+120425779,lapce/lapce,Rust,4509
+453717720,AykutSarac/jsoncrack.com,TypeScript,10178
 387326890,xinntao/Real-ESRGAN,Python,1732
-468515960,CodeEditApp/CodeEdit,Swift,2117
+468515960,CodeEditApp/CodeEdit,Swift,2111
 268424739,helix-editor/helix,Rust,1537
-436658287,surrealdb/surrealdb,Rust,9088
-101767772,bytecodealliance/wasmtime,Rust,1478
-323965659,alist-org/alist,Go,1369
-198350484,microsoft/unilm,Python,488
-498011141,huggingface/diffusers,Python,2430
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,4811
-528378201,sd-webui/stable-diffusion-webui,Python,4370
-440244590,CompVis/latent-diffusion,Jupyter Notebook,981
-116457726,ethereum/ethereum-org-website,Markdown,303
-320818962,teivah/100-go-mistakes,Go,1746
-392603437,jxxghp/nas-tools,Python,1052
-471494981,revanced/revanced-manager,Dart,1919
+436658287,surrealdb/surrealdb,Rust,9074
+101767772,bytecodealliance/wasmtime,Rust,1485
+198350484,microsoft/unilm,Python,487
+498011141,huggingface/diffusers,Python,2426
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,4717
+122758193,k4yt3x/video2x,Python,540
+528378201,sd-webui/stable-diffusion-webui,Python,4372
+440244590,CompVis/latent-diffusion,Jupyter Notebook,978
+116457726,ethereum/ethereum-org-website,Markdown,302
+320818962,teivah/100-go-mistakes,Go,1739
 99045602,flutter/packages,Dart,144
-524596709,LSPosed/MagiskOnWSALocal,Shell,1004
-388946490,facebookincubator/velox,C++,558
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,433
+524596709,LSPosed/MagiskOnWSALocal,Shell,999
+388946490,facebookincubator/velox,C++,560
+523244338,hunar4321/particle-life,HTML,1508
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,426

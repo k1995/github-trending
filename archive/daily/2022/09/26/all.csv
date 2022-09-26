@@ -1,26 +1,26 @@
 id,name,lang,new stars
-724712,rust-lang/rust,Rust,58
-151834062,doocs/advanced-java,Java,125
-246335987,ventoy/Ventoy,C,53
-102578345,coolsnowwolf/lede,C,13
-97086543,TheAlgorithms/JavaScript,JavaScript,58
-98771110,zhongyang219/TrafficMonitor,C++,26
-441903012,MichaelCade/90DaysOfDevOps,Shell,133
-58559694,desktop/desktop,TypeScript,33
-153099672,inancgumus/learngo,Go,140
-87699760,vulhub/vulhub,Dockerfile,230
-1300192,octocat/Spoon-Knife,HTML,11
-537603333,openai/whisper,Jupyter Notebook,737
-439491516,ange-yaghi/engine-sim,C++,68
-50894333,pi-hole/docker-pi-hole,Shell,32
-415421172,AveYo/MediaCreationTool.bat,Batchfile,32
-529708137,steven-tey/dub,TypeScript,423
-493029626,Akebi-Group/Akebi-GC,C++,25
-524596709,LSPosed/MagiskOnWSALocal,Shell,55
-145658226,Rezmason/matrix,JavaScript,111
-533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,70
-538767566,jzimmerman/langcc,C++,175
-251312202,google/tensorstore,C++,51
-540056860,ahrm/UnstableFusion,Jupyter Notebook,51
-332911364,signalapp/Signal-TLS-Proxy,Dockerfile,27
-536792011,Launch-X-Latam/OnBoarding,,37
+28457823,freeCodeCamp/freeCodeCamp,TypeScript,113
+60493101,jwasham/coding-interview-university,,135
+83222441,donnemartin/system-design-primer,Python,218
+126577260,trekhleb/javascript-algorithms,JavaScript,97
+123458551,jackfrued/Python-100-Days,Python,80
+19415064,ossu/computer-science,,121
+35955666,jlevy/the-art-of-command-line,,123
+138393139,trimstray/the-book-of-secret-knowledge,,289
+151834062,doocs/advanced-java,Java,354
+343965132,microsoft/ML-For-Beginners,Jupyter Notebook,54
+377496562,AppFlowy-IO/AppFlowy,Dart,51
+114466145,yewstack/yew,Rust,46
+441903012,MichaelCade/90DaysOfDevOps,Shell,140
+44804216,termux/termux-app,Java,33
+437245741,dragonflydb/dragonfly,C++,69
+148641954,TheAlgorithms/Rust,Rust,37
+1300192,octocat/Spoon-Knife,HTML,12
+37346186,termux/termux-packages,Shell,4
+527719753,cemu-project/Cemu,C++,22
+529708137,steven-tey/dub,TypeScript,429
+524596709,LSPosed/MagiskOnWSALocal,Shell,34
+533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,75
+538767566,jzimmerman/langcc,C++,185
+534370412,nv-tlabs/GET3D,,182
+536792011,Launch-X-Latam/OnBoarding,,35
