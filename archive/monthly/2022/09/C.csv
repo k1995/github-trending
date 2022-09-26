@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1939
-36502,git/git,C,419
-13233158,obsproject/obs-studio,C,1309
+2325298,torvalds/linux,C,1934
+36502,git/git,C,415
+13233158,obsproject/obs-studio,C,1308
 24586308,cfenollosa/os-tutorial,C,315
-14812739,libuv/libuv,C,206
-20159867,nothings/stb,C,311
-34921116,iovisor/bcc,C,272
-84240850,timescale/timescaledb,C,229
-45821540,openwrt/openwrt,C,339
+14812739,libuv/libuv,C,208
+20159867,nothings/stb,C,313
+34921116,iovisor/bcc,C,271
+84240850,timescale/timescaledb,C,231
+45821540,openwrt/openwrt,C,337
 90320494,ish-app/ish,C,226
 78281075,SpacehuhnTech/esp8266_deauther,C,187
 1856976,libevent/libevent,C,123
@@ -16,11 +16,11 @@ id,name,lang,new stars
 50874442,citusdata/citus,C,337
 22711503,gcc-mirror/gcc,C,136
 40504480,mit-pdos/xv6-public,C,112
-41107037,unicorn-engine/unicorn,C,215
+41107037,unicorn-engine/unicorn,C,216
 2359378,madler/zlib,C,100
 204459250,mit-pdos/xv6-riscv,C,170
 184654298,bytecodealliance/wasm-micro-runtime,C,111
-15333809,open62541/open62541,C,43
-523544748,snesrev/zelda3,C,525
-526863912,hepingood/mpu9250,C,270
+15333809,open62541/open62541,C,42
+523544748,snesrev/zelda3,C,507
+526863912,hepingood/mpu9250,C,269
 403314395,48d31kh413k/1337-Piscine-42,C,79
