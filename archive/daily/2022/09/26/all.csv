@@ -1,10 +1,10 @@
 id,name,lang,new stars
 724712,rust-lang/rust,Rust,60
-151834062,doocs/advanced-java,Java,144
+151834062,doocs/advanced-java,Java,220
 246335987,ventoy/Ventoy,C,83
 102578345,coolsnowwolf/lede,C,13
 97086543,TheAlgorithms/JavaScript,JavaScript,55
-98771110,zhongyang219/TrafficMonitor,C++,33
+98771110,zhongyang219/TrafficMonitor,C++,57
 441903012,MichaelCade/90DaysOfDevOps,Shell,140
 58559694,desktop/desktop,TypeScript,30
 153099672,inancgumus/learngo,Go,139
@@ -22,5 +22,5 @@ id,name,lang,new stars
 538767566,jzimmerman/langcc,C++,185
 251312202,google/tensorstore,C++,50
 332911364,signalapp/Signal-TLS-Proxy,Dockerfile,27
-536792011,Launch-X-Latam/OnBoarding,,35
 540056860,ahrm/UnstableFusion,Jupyter Notebook,49
+536792011,Launch-X-Latam/OnBoarding,,35
