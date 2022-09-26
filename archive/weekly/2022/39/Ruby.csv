@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,45
-65252,jekyll/jekyll,Ruby,43
-27442967,fastlane/fastlane,Ruby,44
+8514,rails/rails,Ruby,46
+65252,jekyll/jekyll,Ruby,44
+27442967,fastlane/fastlane,Ruby,42
 52281283,mastodon/mastodon,Ruby,39
 13840241,freeCodeCamp/devdocs,Ruby,110
-2293158,rapid7/metasploit-framework,Ruby,73
-2203645,CocoaPods/CocoaPods,Ruby,10
-18486300,lewagon/setup,Ruby,42
-202291859,chatwoot/chatwoot,Ruby,93
+2293158,rapid7/metasploit-framework,Ruby,77
+2203645,CocoaPods/CocoaPods,Ruby,11
+18486300,lewagon/setup,Ruby,33
+202291859,chatwoot/chatwoot,Ruby,122
 1090311,elastic/logstash,Ruby,15
 106995,sinatra/sinatra,Ruby,4
-15435,Shopify/liquid,Ruby,28
-361310,teamcapybara/capybara,Ruby,5
-21829,thoughtbot/factory_bot,Ruby,8
+15435,Shopify/liquid,Ruby,27
+361310,teamcapybara/capybara,Ruby,4
+21829,thoughtbot/factory_bot,Ruby,7
 108278,chef/chef,Ruby,7
 4994614,wpscanteam/wpscan,Ruby,17
 103766152,github/explore,Ruby,21
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,7
 34840276,elastic/ansible-elasticsearch,Ruby,2
 24210186,bigbinary/wheel,Ruby,1
-212272090,CMSgov/price-transparency-guide,Ruby,1
+212272090,CMSgov/price-transparency-guide,Ruby,0
 191412561,elastic/homebrew-tap,Ruby,0
 279271772,DataDog/datadog-api-client-ruby,Ruby,0
