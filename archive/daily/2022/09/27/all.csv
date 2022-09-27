@@ -1,26 +1,26 @@
 id,name,lang,new stars
-28457823,freeCodeCamp/freeCodeCamp,TypeScript,98
-60493101,jwasham/coding-interview-university,,137
-83222441,donnemartin/system-design-primer,Python,222
-126577260,trekhleb/javascript-algorithms,JavaScript,98
-123458551,jackfrued/Python-100-Days,Python,83
-19415064,ossu/computer-science,,100
-35955666,jlevy/the-art-of-command-line,,117
-138393139,trimstray/the-book-of-secret-knowledge,,191
-151834062,doocs/advanced-java,Java,270
-343965132,microsoft/ML-For-Beginners,Jupyter Notebook,225
-377496562,AppFlowy-IO/AppFlowy,Dart,107
-114466145,yewstack/yew,Rust,208
-441903012,MichaelCade/90DaysOfDevOps,Shell,187
-44804216,termux/termux-app,Java,36
-437245741,dragonflydb/dragonfly,C++,119
-148641954,TheAlgorithms/Rust,Rust,52
+13491895,EbookFoundation/free-programming-books,,137
+123458551,jackfrued/Python-100-Days,Python,87
+151834062,doocs/advanced-java,Java,354
+21935031,fffaraz/awesome-cpp,,57
+110211147,xkcoding/spring-boot-demo,Java,46
+68720867,firstcontributions/first-contributions,,56
+36891867,angular/angular-cli,TypeScript,4
+33569135,ReactiveX/RxSwift,Swift,3
+222751131,Asabeneh/30-Days-Of-Python,Python,36
+16157746,dotnet/efcore,C#,4
+525105056,karanpratapsingh/system-design,,131
 1300192,octocat/Spoon-Knife,HTML,30
 37346186,termux/termux-packages,Shell,13
-527719753,cemu-project/Cemu,C++,40
+105711679,envoyproxy/protoc-gen-validate,Go,3
 529708137,steven-tey/dub,TypeScript,454
-524596709,LSPosed/MagiskOnWSALocal,Shell,45
-538767566,jzimmerman/langcc,C++,398
+538767566,jzimmerman/langcc,C++,399
 533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,466
-534370412,nv-tlabs/GET3D,,203
-536792011,Launch-X-Latam/OnBoarding,,28
+534370412,nv-tlabs/GET3D,,204
+509091576,SagerNet/sing-box,Go,81
+424565409,anaer/Sub,JavaScript,8
+251312202,google/tensorstore,C++,93
+540056860,ahrm/UnstableFusion,Jupyter Notebook,110
+529027653,WordPress/wordpress-wasm,PHP,68
+540071672,m1guelpf/yt-whisper,Python,49
+540856808,evilsocket/spycast,HTML,13

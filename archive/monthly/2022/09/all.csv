@@ -1,26 +1,26 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2317
-523379232,CompVis/stable-diffusion,Jupyter Notebook,15487
-123303402,python-poetry/poetry,Python,951
-74962515,gchq/CyberChef,JavaScript,1475
-240215314,docker/awesome-compose,HTML,1204
-120425779,lapce/lapce,Rust,4558
-453717720,AykutSarac/jsoncrack.com,TypeScript,10325
-387326890,xinntao/Real-ESRGAN,Python,1720
-468515960,CodeEditApp/CodeEdit,Swift,2110
-268424739,helix-editor/helix,Rust,1543
-436658287,surrealdb/surrealdb,Rust,9086
-101767772,bytecodealliance/wasmtime,Rust,1542
-198350484,microsoft/unilm,Python,489
-498011141,huggingface/diffusers,Python,2390
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,3991
-122758193,k4yt3x/video2x,Python,549
-528378201,sd-webui/stable-diffusion-webui,Python,4276
-440244590,CompVis/latent-diffusion,Jupyter Notebook,980
-116457726,ethereum/ethereum-org-website,Markdown,310
-320818962,teivah/100-go-mistakes,Go,1630
-99045602,flutter/packages,Dart,148
-524596709,LSPosed/MagiskOnWSALocal,Shell,999
-388946490,facebookincubator/velox,C++,566
-523244338,hunar4321/particle-life,HTML,1476
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,400
+523379232,CompVis/stable-diffusion,Jupyter Notebook,15461
+123303402,python-poetry/poetry,Python,953
+74962515,gchq/CyberChef,JavaScript,1476
+120425779,lapce/lapce,Rust,4572
+453717720,AykutSarac/jsoncrack.com,TypeScript,10342
+387326890,xinntao/Real-ESRGAN,Python,1722
+468515960,CodeEditApp/CodeEdit,Swift,2113
+268424739,helix-editor/helix,Rust,1546
+436658287,surrealdb/surrealdb,Rust,9092
+247725846,extrawurst/gitui,Rust,1787
+101767772,bytecodealliance/wasmtime,Rust,1559
+323965659,alist-org/alist,Go,1397
+198350484,microsoft/unilm,Python,487
+498011141,huggingface/diffusers,Python,2382
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,3897
+122758193,k4yt3x/video2x,Python,551
+320636477,WebKit/WebKit,,2133
+528378201,sd-webui/stable-diffusion-webui,Python,4256
+440244590,CompVis/latent-diffusion,Jupyter Notebook,983
+320818962,teivah/100-go-mistakes,Go,1609
+99045602,flutter/packages,Dart,149
+524596709,LSPosed/MagiskOnWSALocal,Shell,994
+388946490,facebookincubator/velox,C++,567
+523244338,hunar4321/particle-life,HTML,1471
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,399
