@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,636
+3482588,danielmiessler/SecLists,PHP,635
 2579314,fzaninotto/Faker,PHP,61
 1420053,guzzle/guzzle,PHP,91
 60243197,nextcloud/server,PHP,443
 2889328,WordPress/WordPress,PHP,131
 1631570,nikic/PHP-Parser,PHP,85
 12615154,barryvdh/laravel-debugbar,PHP,130
-41589337,BookStackApp/BookStack,PHP,217
-21298446,firefly-iii/firefly-iii,PHP,294
+41589337,BookStackApp/BookStack,PHP,216
+21298446,firefly-iii/firefly-iii,PHP,291
 2179920,woocommerce/woocommerce,PHP,60
 6763587,PrestaShop/PrestaShop,PHP,175
 9791525,digininja/DVWA,PHP,154
-6322699,FreshRSS/FreshRSS,PHP,148
+6322699,FreshRSS/FreshRSS,PHP,152
 60010673,elementor/elementor,PHP,90
 248372441,filamentphp/filament,PHP,296
 439861,moodle/moodle,PHP,59
@@ -19,7 +19,7 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,76
 13914116,librenms/librenms,PHP,44
 131995661,shopware/platform,PHP,40
-524886955,opcodesio/log-viewer,PHP,1214
+524886955,opcodesio/log-viewer,PHP,1213
 138328462,freescout-helpdesk/freescout,PHP,69
 75645659,WordPress/wordpress-develop,PHP,43
 433383766,nextcloud/all-in-one,PHP,110
