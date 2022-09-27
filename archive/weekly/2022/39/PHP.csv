@@ -1,18 +1,18 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,48
+7548986,laravel/framework,PHP,49
 458058,symfony/symfony,PHP,30
 1864363,composer/composer,PHP,34
 2579314,fzaninotto/Faker,PHP,7
-60243197,nextcloud/server,PHP,72
+60243197,nextcloud/server,PHP,70
 79111500,jupeter/clean-code-php,PHP,30
-14259390,SpartnerNL/Laravel-Excel,PHP,21
-2884111,magento/magento2,PHP,14
+14259390,SpartnerNL/Laravel-Excel,PHP,20
+2884111,magento/magento2,PHP,16
 597887,doctrine/orm,PHP,11
 6660366,dompdf/dompdf,PHP,24
-2179920,woocommerce/woocommerce,PHP,14
-4242230,PHPOffice/PHPWord,PHP,11
+2179920,woocommerce/woocommerce,PHP,13
+4242230,PHPOffice/PHPWord,PHP,14
 60010673,elementor/elementor,PHP,21
-248372441,filamentphp/filament,PHP,81
+248372441,filamentphp/filament,PHP,82
 3817881,zircote/swagger-php,PHP,11
 4380514,Audi-1/sqli-labs,PHP,16
 182349597,jqhph/dcat-admin,PHP,18
@@ -22,5 +22,5 @@ id,name,lang,new stars
 74026995,CodelyTV/php-ddd-example,PHP,18
 75645659,WordPress/wordpress-develop,PHP,11
 443605948,pablouser1/ProxiTok,PHP,25
-529027653,WordPress/wordpress-wasm,PHP,360
+529027653,WordPress/wordpress-wasm,PHP,361
 485064852,bradtraversy/laragigs,PHP,10
