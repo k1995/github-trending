@@ -1,26 +1,26 @@
 id,name,lang,new stars
-523379232,CompVis/stable-diffusion,Jupyter Notebook,15394
-123303402,python-poetry/poetry,Python,964
+523379232,CompVis/stable-diffusion,Jupyter Notebook,15410
+123303402,python-poetry/poetry,Python,961
 74962515,gchq/CyberChef,JavaScript,1475
-120425779,lapce/lapce,Rust,4628
-453717720,AykutSarac/jsoncrack.com,TypeScript,10512
-387326890,xinntao/Real-ESRGAN,Python,1728
+120425779,lapce/lapce,Rust,4640
+453717720,AykutSarac/jsoncrack.com,TypeScript,10374
+387326890,xinntao/Real-ESRGAN,Python,1733
 468515960,CodeEditApp/CodeEdit,Swift,2115
-268424739,helix-editor/helix,Rust,1673
-436658287,surrealdb/surrealdb,Rust,9113
-247725846,extrawurst/gitui,Rust,1831
-101767772,bytecodealliance/wasmtime,Rust,1612
-323965659,alist-org/alist,Go,1447
-198350484,microsoft/unilm,Python,488
-498011141,huggingface/diffusers,Python,2364
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,3366
-122758193,k4yt3x/video2x,Python,568
-320636477,WebKit/WebKit,,2153
-528378201,sd-webui/stable-diffusion-webui,Python,4044
-440244590,CompVis/latent-diffusion,Jupyter Notebook,978
-320818962,teivah/100-go-mistakes,Go,1495
+268424739,helix-editor/helix,Rust,1695
+436658287,surrealdb/surrealdb,Rust,9122
+368917877,BuilderIO/qwik,TypeScript,3904
+323965659,alist-org/alist,Go,1453
+198350484,microsoft/unilm,Python,489
+498011141,huggingface/diffusers,Python,2365
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,3290
+320636477,WebKit/WebKit,,2156
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4757
+528378201,sd-webui/stable-diffusion-webui,Python,4011
+440244590,CompVis/latent-diffusion,Jupyter Notebook,975
+116457726,ethereum/ethereum-org-website,Markdown,316
 99045602,flutter/packages,Dart,152
-524596709,LSPosed/MagiskOnWSALocal,Shell,995
-388946490,facebookincubator/velox,C++,573
-523244338,hunar4321/particle-life,HTML,1381
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,385
+524596709,LSPosed/MagiskOnWSALocal,Shell,993
+388946490,facebookincubator/velox,C++,575
+510116998,SerenityOS/ladybird,C++,751
+528167656,bes-dev/stable_diffusion.openvino,Python,947
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,387
