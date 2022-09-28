@@ -1,20 +1,20 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,2322
-17620347,dotnet/aspnetcore,C#,357
-70104825,dotnet-architecture/eShopOnContainers,C#,264
+184456251,microsoft/PowerToys,C#,2324
+17620347,dotnet/aspnetcore,C#,358
+70104825,dotnet-architecture/eShopOnContainers,C#,266
 54086969,thangchung/awesome-dotnet-core,C#,231
-161012019,jellyfin/jellyfin,C#,691
+161012019,jellyfin/jellyfin,C#,693
 16157746,dotnet/efcore,C#,138
 28239455,dotnet/AspNetCore.Docs,C#,150
-46755185,bitwarden/server,C#,322
+46755185,bitwarden/server,C#,320
 210716005,dotnet/runtime,C#,337
-213460285,jasontaylordev/CleanArchitecture,C#,326
+213460285,jasontaylordev/CleanArchitecture,C#,327
 75990888,dotnet/csharplang,C#,127
-135050219,TGSAN/CMWTAT_Digital_Edition,C#,280
-12191244,dotnet/BenchmarkDotNet,C#,161
-18586705,nopSolutions/nopCommerce,C#,123
-7560589,JeffreySu/WeiXinMPSDK,C#,77
-113807330,gui-cs/Terminal.Gui,C#,215
+135050219,TGSAN/CMWTAT_Digital_Edition,C#,283
+12191244,dotnet/BenchmarkDotNet,C#,163
+18586705,nopSolutions/nopCommerce,C#,125
+7560589,JeffreySu/WeiXinMPSDK,C#,78
+113807330,gui-cs/Terminal.Gui,C#,216
 2928944,Azure/azure-sdk-for-net,C#,60
 100711978,btcpayserver/btcpayserver,C#,71
 158405551,GitCredentialManager/git-credential-manager,C#,212
@@ -23,4 +23,4 @@ id,name,lang,new stars
 426700184,microsoft/dotnet-podcasts,C#,138
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,55
 373274891,CommunityToolkit/Maui,C#,102
-476687679,2dust/clashN,C#,329
+476687679,2dust/clashN,C#,328
