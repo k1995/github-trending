@@ -11,7 +11,7 @@ id,name,lang,new stars
 33258973,influxdata/telegraf,Go,6
 6443435,nats-io/nats-server,Go,11
 16554739,elastic/beats,Go,2
-119419195,GoogleContainerTools/kaniko,Go,9
+119419195,GoogleContainerTools/kaniko,Go,8
 9524057,prometheus/node_exporter,Go,6
 27576132,aws/aws-sdk-go,Go,3
 9120526,jackc/pgx,Go,8

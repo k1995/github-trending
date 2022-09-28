@@ -1,26 +1,26 @@
 id,name,lang,new stars
-523379232,CompVis/stable-diffusion,Jupyter Notebook,15405
-123303402,python-poetry/poetry,Python,961
-74962515,gchq/CyberChef,JavaScript,1478
-120425779,lapce/lapce,Rust,4657
-453717720,AykutSarac/jsoncrack.com,TypeScript,10056
-387326890,xinntao/Real-ESRGAN,Python,1720
-468515960,CodeEditApp/CodeEdit,Swift,2109
-268424739,helix-editor/helix,Rust,1725
-436658287,surrealdb/surrealdb,Rust,9132
-368917877,BuilderIO/qwik,TypeScript,3936
-323965659,alist-org/alist,Go,1453
+523379232,CompVis/stable-diffusion,Jupyter Notebook,15397
+123303402,python-poetry/poetry,Python,960
+74962515,gchq/CyberChef,JavaScript,1477
+120425779,lapce/lapce,Rust,4662
+453717720,AykutSarac/jsoncrack.com,TypeScript,9973
+387326890,xinntao/Real-ESRGAN,Python,1676
+468515960,CodeEditApp/CodeEdit,Swift,2108
+268424739,helix-editor/helix,Rust,1731
+436658287,surrealdb/surrealdb,Rust,9134
+368917877,BuilderIO/qwik,TypeScript,3957
+323965659,alist-org/alist,Go,1452
 198350484,microsoft/unilm,Python,485
-498011141,huggingface/diffusers,Python,2361
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,3122
-320636477,WebKit/WebKit,,2159
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4813
-528378201,sd-webui/stable-diffusion-webui,Python,3964
-440244590,CompVis/latent-diffusion,Jupyter Notebook,973
-116457726,ethereum/ethereum-org-website,Markdown,318
+498011141,huggingface/diffusers,Python,2363
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,3064
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4823
+320636477,WebKit/WebKit,,2160
+528378201,sd-webui/stable-diffusion-webui,Python,3943
+440244590,CompVis/latent-diffusion,Jupyter Notebook,974
+116457726,ethereum/ethereum-org-website,Markdown,316
 99045602,flutter/packages,Dart,154
-524596709,LSPosed/MagiskOnWSALocal,Shell,990
-388946490,facebookincubator/velox,C++,576
-510116998,SerenityOS/ladybird,C++,752
+524596709,LSPosed/MagiskOnWSALocal,Shell,989
+388946490,facebookincubator/velox,C++,577
+510116998,SerenityOS/ladybird,C++,754
 528167656,bes-dev/stable_diffusion.openvino,Python,949
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,392
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,388
