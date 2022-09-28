@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,157
-126577260,trekhleb/javascript-algorithms,JavaScript,138
-138393139,trimstray/the-book-of-secret-knowledge,,133
-43441403,strapi/strapi,JavaScript,29
+54346799,public-apis/public-apis,Python,153
+126577260,trekhleb/javascript-algorithms,JavaScript,130
+138393139,trimstray/the-book-of-secret-knowledge,,119
+43441403,strapi/strapi,JavaScript,30
 15062869,facebook/jest,TypeScript,13
 11171548,nlohmann/json,C++,14
-377496562,AppFlowy-IO/AppFlowy,Dart,75
+377496562,AppFlowy-IO/AppFlowy,Dart,54
 39840932,google/googletest,C++,17
-68720867,firstcontributions/first-contributions,,252
-192925833,prisma/prisma,TypeScript,31
+68720867,firstcontributions/first-contributions,,108
+192925833,prisma/prisma,TypeScript,32
 33569135,ReactiveX/RxSwift,Swift,22
 196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,51
-441903012,MichaelCade/90DaysOfDevOps,Shell,105
+441903012,MichaelCade/90DaysOfDevOps,Shell,109
 222751131,Asabeneh/30-Days-Of-Python,Python,43
 437245741,dragonflydb/dragonfly,C++,32
-525105056,karanpratapsingh/system-design,,359
+525105056,karanpratapsingh/system-design,,205
 2699935,squizlabs/PHP_CodeSniffer,PHP,6
-72685026,MicrosoftDocs/azure-docs,PowerShell,3
-105944401,yugabyte/yugabyte-db,C,13
-533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,254
-108311273,Azure/azure-sdk-for-js,TypeScript,12
-534370412,nv-tlabs/GET3D,,165
+72685026,MicrosoftDocs/azure-docs,PowerShell,22
+105944401,yugabyte/yugabyte-db,C,62
+533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,253
+108311273,Azure/azure-sdk-for-js,TypeScript,4
+534370412,nv-tlabs/GET3D,,179
 540985730,D1rkMtr/DumpThatLSASS,C++,117
 508972059,huggingface/setfit,Python,30
 463181760,coral-xyz/backpack,TypeScript,20

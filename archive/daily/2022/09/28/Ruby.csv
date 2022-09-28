@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
-7569578,discourse/discourse,Ruby,8
+8514,rails/rails,Ruby,6
+7569578,discourse/discourse,Ruby,9
 27442967,fastlane/fastlane,Ruby,5
-53238813,Homebrew/brew,Ruby,10
-481872,hashicorp/vagrant,Ruby,5
+53238813,Homebrew/brew,Ruby,14
+481872,hashicorp/vagrant,Ruby,6
 308770,heartcombo/devise,Ruby,2
-21696302,matteocrippa/awesome-swift,Ruby,9
-202291859,chatwoot/chatwoot,Ruby,17
+21696302,matteocrippa/awesome-swift,Ruby,8
+202291859,chatwoot/chatwoot,Ruby,16
 1090311,elastic/logstash,Ruby,2
 3195124,mperham/sidekiq,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
@@ -15,12 +15,12 @@ id,name,lang,new stars
 108278,chef/chef,Ruby,0
 6899875,opf/openproject,Ruby,3
 30337170,rmosolgo/graphql-ruby,Ruby,0
-2802565,doorkeeper-gem/doorkeeper,Ruby,1
+2802565,doorkeeper-gem/doorkeeper,Ruby,2
 1314319,instructure/canvas-lms,Ruby,0
 29151578,rswag/rswag,Ruby,3
 70830890,bigbluebutton/greenlight,Ruby,0
 212272090,CMSgov/price-transparency-guide,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,0
-526362201,umd-cmsc330/fall2022,Ruby,1
+526362201,umd-cmsc330/fall2022,OCaml,1
 480843250,brewchetta/phase-3-ar-practice-karaoke-mania,Ruby,0
 481232829,brewchetta/phase-3-practice-code-challenge-aliens-among-us,Ruby,0
