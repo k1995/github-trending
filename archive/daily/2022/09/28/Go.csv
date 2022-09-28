@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,40
+13855476,go-gorm/gorm,Go,14
+12574344,spf13/cobra,Go,25
+14125254,hashicorp/consul,Go,16
+18369373,spf13/viper,Go,15
+6247705,stretchr/testify,Go,11
+5179099,go-redis/redis,Go,10
+153099672,inancgumus/learngo,Go,55
+191655189,ent/ent,Go,9
+6443435,nats-io/nats-server,Go,12
+413918947,vercel/turborepo,Go,18
+11452538,prometheus/alertmanager,Go,1
+16607984,DATA-DOG/go-sqlmock,Go,7
+318476701,containerd/nerdctl,Go,10
+86367047,elastic/go-elasticsearch,Go,7
+44087204,google/syzkaller,Go,5
+107555654,vmware-tanzu/kubeapps,Go,4
+39468142,klauspost/compress,Go,4
+320818962,teivah/100-go-mistakes,Go,30
+169108858,kyverno/kyverno,Go,6
+105711679,envoyproxy/protoc-gen-validate,Go,18
+57912964,kubernetes/enhancements,Go,2
+49970739,DataDog/datadog-agent,Go,1
+509091576,SagerNet/sing-box,Go,98
+533029600,a1phaboy/FastjsonScan,Go,34

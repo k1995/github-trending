@@ -1,10 +1,10 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,14
 65252,jekyll/jekyll,Ruby,10
-27442967,fastlane/fastlane,Ruby,4
+27442967,fastlane/fastlane,Ruby,5
 481872,hashicorp/vagrant,Ruby,7
-538746,ruby/ruby,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,36
+538746,ruby/ruby,Ruby,4
+202291859,chatwoot/chatwoot,Ruby,33
 106995,sinatra/sinatra,Ruby,3
 1918677,fluent/fluentd,Ruby,4
 611921,activeadmin/activeadmin,Ruby,0
@@ -18,7 +18,7 @@ id,name,lang,new stars
 229006,mileszs/wicked_pdf,Ruby,4
 93163073,dependabot/dependabot-core,Ruby,1
 588600,brianmario/mysql2,Ruby,0
-212813096,lewagon/data-setup,Ruby,6
+212813096,lewagon/data-setup,Ruby,5
 297419763,github/india,Ruby,8
 29151578,rswag/rswag,Ruby,2
 238983,rspec/rspec-mocks,Ruby,0
