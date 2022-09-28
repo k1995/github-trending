@@ -5,7 +5,7 @@ id,name,lang,new stars
 14125254,hashicorp/consul,Go,16
 18369373,spf13/viper,Go,15
 6247705,stretchr/testify,Go,11
-5179099,go-redis/redis,Go,10
+5179099,go-redis/redis,Go,11
 153099672,inancgumus/learngo,Go,55
 191655189,ent/ent,Go,9
 6443435,nats-io/nats-server,Go,12
@@ -23,4 +23,4 @@ id,name,lang,new stars
 57912964,kubernetes/enhancements,Go,2
 49970739,DataDog/datadog-agent,Go,1
 509091576,SagerNet/sing-box,Go,98
-533029600,a1phaboy/FastjsonScan,Go,34
+533029600,a1phaboy/FastjsonScan,Go,35
