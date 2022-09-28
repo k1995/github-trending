@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,13
+8514,rails/rails,Ruby,11
 65252,jekyll/jekyll,Ruby,8
 27442967,fastlane/fastlane,Ruby,6
-481872,hashicorp/vagrant,Ruby,7
+481872,hashicorp/vagrant,Ruby,8
 538746,ruby/ruby,Ruby,5
-202291859,chatwoot/chatwoot,Ruby,31
+202291859,chatwoot/chatwoot,Ruby,25
 106995,sinatra/sinatra,Ruby,3
 1918677,fluent/fluentd,Ruby,3
 611921,activeadmin/activeadmin,Ruby,0
@@ -14,13 +14,13 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,0
 447184,rspec/rspec-rails,Ruby,0
 52316423,luggit/react-native-config,Ruby,0
-294972,fnando/i18n-js,Ruby,1
+294972,fnando/i18n-js,Ruby,0
 229006,mileszs/wicked_pdf,Ruby,4
 93163073,dependabot/dependabot-core,Ruby,1
 588600,brianmario/mysql2,Ruby,0
-212813096,lewagon/data-setup,Ruby,4
-297419763,github/india,Ruby,9
-29151578,rswag/rswag,Ruby,2
+212813096,lewagon/data-setup,Ruby,3
+297419763,github/india,Ruby,8
+29151578,rswag/rswag,Ruby,3
 238983,rspec/rspec-mocks,Ruby,0
 540654597,tenderlove/refreshing,Ruby,1
 390711521,learn-co-curriculum/phase-4-rails-practice-challenge-gym,Ruby,0
