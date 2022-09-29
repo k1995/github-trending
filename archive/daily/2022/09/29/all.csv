@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,173
-126577260,trekhleb/javascript-algorithms,JavaScript,135
-138393139,trimstray/the-book-of-secret-knowledge,,178
-43441403,strapi/strapi,JavaScript,88
-15062869,facebook/jest,TypeScript,38
-11171548,nlohmann/json,C++,38
-377496562,AppFlowy-IO/AppFlowy,Dart,86
-39840932,google/googletest,C++,32
-68720867,firstcontributions/first-contributions,,253
-192925833,prisma/prisma,TypeScript,85
-33569135,ReactiveX/RxSwift,Swift,63
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,80
-441903012,MichaelCade/90DaysOfDevOps,Shell,104
-222751131,Asabeneh/30-Days-Of-Python,Python,127
-437245741,dragonflydb/dragonfly,C++,78
-525105056,karanpratapsingh/system-design,,324
-2699935,squizlabs/PHP_CodeSniffer,PHP,24
-72685026,MicrosoftDocs/azure-docs,PowerShell,19
-105944401,yugabyte/yugabyte-db,C,55
+65600975,pytorch/pytorch,C++,26
+9185792,apache/echarts,TypeScript,21
+71583602,Developer-Y/cs-video-courses,,197
+31629751,cypress-io/cypress,JavaScript,15
+229764465,Asabeneh/30-Days-Of-JavaScript,JavaScript,38
+39840932,google/googletest,C++,29
+68720867,firstcontributions/first-contributions,,257
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,72
+222751131,Asabeneh/30-Days-Of-Python,Python,137
+525105056,karanpratapsingh/system-design,,321
+419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,75
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,37
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,224
+384520418,MaaAssistantArknights/MaaAssistantArknights,C++,36
+537085161,cloudflare/workerd,C++,697
+274782881,acantril/learn-cantrill-io-labs,Python,10
 533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,249
-108311273,Azure/azure-sdk-for-js,TypeScript,20
-534370412,nv-tlabs/GET3D,,130
-508972059,huggingface/setfit,Python,56
-540985730,D1rkMtr/DumpThatLSASS,C++,141
-463181760,coral-xyz/backpack,TypeScript,47
+385532537,towhee-io/towhee,Python,42
+313476213,https-deeplearning-ai/machine-learning-engineering-for-production-public,Jupyter Notebook,46
+424565409,anaer/Sub,JavaScript,20
+443815792,nifanfa/MOOS,C#,70
+539536923,optiv/Freeze,Go,158
+532163204,Cysharp/MemoryPack,C#,107
+533029600,a1phaboy/FastjsonScan,Go,54
+493044023,Taiga74164/Akebi-GC,C++,50

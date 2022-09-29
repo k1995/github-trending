@@ -1,26 +1,26 @@
 id,name,lang,new stars
-523379232,CompVis/stable-diffusion,Jupyter Notebook,15240
-123303402,python-poetry/poetry,Python,963
+63476337,TheAlgorithms/Python,Python,3217
+110211147,xkcoding/spring-boot-demo,Java,612
+523379232,CompVis/stable-diffusion,Jupyter Notebook,15175
 74962515,gchq/CyberChef,JavaScript,1484
-120425779,lapce/lapce,Rust,4708
-453717720,AykutSarac/jsoncrack.com,TypeScript,9801
-387326890,xinntao/Real-ESRGAN,Python,1623
-468515960,CodeEditApp/CodeEdit,Swift,2108
-268424739,helix-editor/helix,Rust,1772
-436658287,surrealdb/surrealdb,Rust,9137
-368917877,BuilderIO/qwik,TypeScript,4020
-323965659,alist-org/alist,Go,1466
-198350484,microsoft/unilm,Python,466
-498011141,huggingface/diffusers,Python,2330
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,2789
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4825
-320636477,WebKit/WebKit,,2161
-528378201,sd-webui/stable-diffusion-webui,Python,3867
-440244590,CompVis/latent-diffusion,Jupyter Notebook,971
+120425779,lapce/lapce,Rust,4715
+240215314,docker/awesome-compose,HTML,1211
+453717720,AykutSarac/jsoncrack.com,TypeScript,9737
+387326890,xinntao/Real-ESRGAN,Python,1616
+268424739,helix-editor/helix,Rust,1788
+436658287,surrealdb/surrealdb,Rust,9138
+101767772,bytecodealliance/wasmtime,Rust,1657
+368917877,BuilderIO/qwik,TypeScript,4036
+323965659,alist-org/alist,Go,1464
+198350484,microsoft/unilm,Python,469
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,2731
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4826
+320636477,WebKit/WebKit,,2166
+528378201,sd-webui/stable-diffusion-webui,Python,3843
+440244590,CompVis/latent-diffusion,Jupyter Notebook,966
 116457726,ethereum/ethereum-org-website,Markdown,316
-99045602,flutter/packages,Dart,155
-524596709,LSPosed/MagiskOnWSALocal,Shell,987
-388946490,facebookincubator/velox,C++,576
-510116998,SerenityOS/ladybird,C++,759
-528167656,bes-dev/stable_diffusion.openvino,Python,931
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,399
+524596709,LSPosed/MagiskOnWSALocal,Shell,980
+388946490,facebookincubator/velox,C++,579
+510116998,SerenityOS/ladybird,C++,760
+528167656,bes-dev/stable_diffusion.openvino,Python,926
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,398
