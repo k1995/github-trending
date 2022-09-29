@@ -1,13 +1,13 @@
 id,name,lang,new stars
-569041,curl/curl,C,27
-34921116,iovisor/bcc,C,17
-84240850,timescale/timescaledb,C,12
-184981,memcached/memcached,C,2
-70127218,espressif/arduino-esp32,C,9
+569041,curl/curl,C,26
+34921116,iovisor/bcc,C,18
+84240850,timescale/timescaledb,C,13
+184981,memcached/memcached,C,4
+70127218,espressif/arduino-esp32,C,8
 65899476,espressif/esp-idf,C,6
 5414488,cesanta/mongoose,C,7
-105944401,yugabyte/yugabyte-db,C,55
-673267,redis/hiredis,C,3
+105944401,yugabyte/yugabyte-db,C,101
+673267,redis/hiredis,C,5
 68082730,Ralim/IronOS,C,6
 18257358,edenhill/kcat,C,1
 29933948,fluent/fluent-bit,C,3
@@ -17,10 +17,10 @@ id,name,lang,new stars
 28928522,wolfSSL/wolfssl,C,3
 23097173,xiph/opus,C,3
 16648618,bitcoin-core/secp256k1,C,1
-158113416,ufrisk/MemProcFS,C,7
+158113416,ufrisk/MemProcFS,C,6
 13740589,ARM-software/arm-trusted-firmware,C,2
 227615179,ProtonVPN/android-app,C,6
+541353333,DavidBuchanan314/monomorph,C,125
 121516035,nrfconnect/sdk-nrf,C,3
-541353333,DavidBuchanan314/monomorph,C,138
-541093035,Idov31/Cronos,C,21
+541093035,Idov31/Cronos,C,19
 120317722,nrfconnect/sdk-zephyr,C,3
