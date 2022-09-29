@@ -1,26 +1,26 @@
 id,name,lang,new stars
-523379232,CompVis/stable-diffusion,Jupyter Notebook,15282
-123303402,python-poetry/poetry,Python,962
+523379232,CompVis/stable-diffusion,Jupyter Notebook,15240
+123303402,python-poetry/poetry,Python,963
 74962515,gchq/CyberChef,JavaScript,1484
-120425779,lapce/lapce,Rust,4690
-453717720,AykutSarac/jsoncrack.com,TypeScript,9863
-387326890,xinntao/Real-ESRGAN,Python,1632
-468515960,CodeEditApp/CodeEdit,Swift,2110
-268424739,helix-editor/helix,Rust,1764
-436658287,surrealdb/surrealdb,Rust,9141
-368917877,BuilderIO/qwik,TypeScript,3994
+120425779,lapce/lapce,Rust,4708
+453717720,AykutSarac/jsoncrack.com,TypeScript,9801
+387326890,xinntao/Real-ESRGAN,Python,1623
+468515960,CodeEditApp/CodeEdit,Swift,2108
+268424739,helix-editor/helix,Rust,1772
+436658287,surrealdb/surrealdb,Rust,9137
+368917877,BuilderIO/qwik,TypeScript,4020
 323965659,alist-org/alist,Go,1466
-198350484,microsoft/unilm,Python,474
-498011141,huggingface/diffusers,Python,2336
-528339561,total-typescript/beginners-typescript-tutorial,TypeScript,2880
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4829
-320636477,WebKit/WebKit,,2160
-528378201,sd-webui/stable-diffusion-webui,Python,3891
-440244590,CompVis/latent-diffusion,Jupyter Notebook,973
-116457726,ethereum/ethereum-org-website,Markdown,317
+198350484,microsoft/unilm,Python,466
+498011141,huggingface/diffusers,Python,2330
+528339561,total-typescript/beginners-typescript-tutorial,TypeScript,2789
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4825
+320636477,WebKit/WebKit,,2161
+528378201,sd-webui/stable-diffusion-webui,Python,3867
+440244590,CompVis/latent-diffusion,Jupyter Notebook,971
+116457726,ethereum/ethereum-org-website,Markdown,316
 99045602,flutter/packages,Dart,155
-524596709,LSPosed/MagiskOnWSALocal,Shell,986
+524596709,LSPosed/MagiskOnWSALocal,Shell,987
 388946490,facebookincubator/velox,C++,576
-510116998,SerenityOS/ladybird,C++,757
+510116998,SerenityOS/ladybird,C++,759
 528167656,bes-dev/stable_diffusion.openvino,Python,931
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,391
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,399
