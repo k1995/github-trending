@@ -1,14 +1,14 @@
 id,name,lang,new stars
 569041,curl/curl,C,28
-34921116,iovisor/bcc,C,14
-84240850,timescale/timescaledb,C,11
-184981,memcached/memcached,C,3
-70127218,espressif/arduino-esp32,C,8
-65899476,espressif/esp-idf,C,5
-5414488,cesanta/mongoose,C,5
-105944401,yugabyte/yugabyte-db,C,13
+34921116,iovisor/bcc,C,15
+84240850,timescale/timescaledb,C,12
+184981,memcached/memcached,C,2
+70127218,espressif/arduino-esp32,C,9
+65899476,espressif/esp-idf,C,6
+5414488,cesanta/mongoose,C,7
+105944401,yugabyte/yugabyte-db,C,86
 673267,redis/hiredis,C,3
-68082730,Ralim/IronOS,C,5
+68082730,Ralim/IronOS,C,11
 18257358,edenhill/kcat,C,2
 29933948,fluent/fluent-bit,C,1
 3276860,ThrowTheSwitch/Unity,C,3
@@ -16,7 +16,7 @@ id,name,lang,new stars
 26537135,u-boot/u-boot,C,0
 28928522,wolfSSL/wolfssl,C,2
 23097173,xiph/opus,C,2
-16648618,bitcoin-core/secp256k1,C,1
+16648618,bitcoin-core/secp256k1,C,0
 158113416,ufrisk/MemProcFS,C,9
 13740589,ARM-software/arm-trusted-firmware,C,1
 227615179,ProtonVPN/android-app,C,5
