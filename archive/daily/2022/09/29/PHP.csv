@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,11
+1863329,laravel/laravel,PHP,9
 7548986,laravel/framework,PHP,10
-458058,symfony/symfony,PHP,5
+458058,symfony/symfony,PHP,4
 1420053,guzzle/guzzle,PHP,3
-2253830,PHPMailer/PHPMailer,PHP,8
+2253830,PHPMailer/PHPMailer,PHP,10
 12615154,barryvdh/laravel-debugbar,PHP,6
 61490598,PHPOffice/PhpSpreadsheet,PHP,3
 14259390,SpartnerNL/Laravel-Excel,PHP,0
-2854337,phalcon/cphalcon,PHP,3
+2854337,phalcon/cphalcon,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,24
 597887,doctrine/orm,PHP,1
 10238429,tennc/webshell,PHP,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,6
 6322699,FreshRSS/FreshRSS,PHP,8
 148129143,bagisto/bagisto,PHP,3
-141720301,dr5hn/countries-states-cities-database,PHP,2
-39182755,glpi-project/glpi,PHP,4
-111562942,statamic/cms,PHP,2
+141720301,dr5hn/countries-states-cities-database,PHP,3
+39182755,glpi-project/glpi,PHP,3
+111562942,statamic/cms,PHP,1
 131995661,shopware/platform,PHP,5
 29745084,Leantime/leantime,PHP,4
-529027653,WordPress/wordpress-wasm,PHP,40
-541322916,openai-php/client,PHP,35
+529027653,WordPress/wordpress-wasm,PHP,29
+541322916,openai-php/client,PHP,36
