@@ -1,5 +1,5 @@
 id,name,lang,new stars
-151834062,doocs/advanced-java,Java,1227
+151834062,doocs/advanced-java,Java,1153
 49609581,PowerShell/PowerShell,C#,93
 7548986,laravel/framework,PHP,60
 39840932,google/googletest,C++,152
@@ -9,7 +9,7 @@ id,name,lang,new stars
 97086543,TheAlgorithms/JavaScript,JavaScript,529
 178626720,Lightning-AI/lightning,Python,89
 441903012,MichaelCade/90DaysOfDevOps,Shell,859
-58559694,desktop/desktop,TypeScript,323
+58559694,desktop/desktop,TypeScript,274
 153099672,inancgumus/learngo,Go,832
 537603333,openai/whisper,Jupyter Notebook,4660
 1460385,scipy/scipy,Python,54
@@ -23,4 +23,4 @@ id,name,lang,new stars
 533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,1254
 527359569,Stability-AI/stability-sdk,Jupyter Notebook,171
 537972211,open-mmlab/mmyolo,Python,227
-536792011,Launch-X-Latam/OnBoarding,,260
+536792011,Launch-X-Latam/OnBoarding,,252
