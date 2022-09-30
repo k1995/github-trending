@@ -14,7 +14,7 @@ id,name,lang,new stars
 51905353,apache/arrow,C++,122
 1460385,scipy/scipy,Python,53
 101767772,bytecodealliance/wasmtime,Rust,721
-368917877,BuilderIO/qwik,TypeScript,1436
+368917877,BuilderIO/qwik,TypeScript,1423
 310456670,BuilderIO/mitosis,TypeScript,397
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1095
 200653543,axa-group/Parsr,JavaScript,289
@@ -22,5 +22,5 @@ id,name,lang,new stars
 534330590,carson-katri/dream-textures,Python,612
 533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,1285
 537406874,liyupi/yulegeyu,TypeScript,278
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,178
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,180
 505667511,sczhou/CodeFormer,Python,127
