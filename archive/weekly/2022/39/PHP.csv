@@ -1,6 +1,6 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,152
-7548986,laravel/framework,PHP,58
+3482588,danielmiessler/SecLists,PHP,151
+7548986,laravel/framework,PHP,59
 1864363,composer/composer,PHP,41
 448045,sebastianbergmann/phpunit,PHP,19
 61490598,PHPOffice/PhpSpreadsheet,PHP,19
@@ -9,18 +9,18 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,12
 6660366,dompdf/dompdf,PHP,17
 330275,twigphp/Twig,PHP,8
-6763587,PrestaShop/PrestaShop,PHP,19
+6763587,PrestaShop/PrestaShop,PHP,18
 14716368,invoiceninja/invoiceninja,PHP,14
 9791525,digininja/DVWA,PHP,39
 4242230,PHPOffice/PHPWord,PHP,17
-97311017,rectorphp/rector,PHP,43
+97311017,rectorphp/rector,PHP,44
 95011974,akaunting/akaunting,PHP,24
 60010673,elementor/elementor,PHP,15
-248372441,filamentphp/filament,PHP,75
+248372441,filamentphp/filament,PHP,76
 3817881,zircote/swagger-php,PHP,13
-47508644,pterodactyl/panel,PHP,29
+47508644,pterodactyl/panel,PHP,28
 39182755,glpi-project/glpi,PHP,15
 142127816,zhuifengshaonianhanlu/pikachu,PHP,18
 74026995,CodelyTV/php-ddd-example,PHP,15
 39682214,Piwigo/Piwigo,PHP,60
-529027653,WordPress/wordpress-wasm,PHP,512
+529027653,WordPress/wordpress-wasm,PHP,514
