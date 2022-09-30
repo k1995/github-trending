@@ -1,14 +1,14 @@
 id,name,lang,new stars
 130688011,meilisearch/meilisearch,Rust,43
-186024298,nushell/nushell,Rust,35
+186024298,nushell/nushell,Rust,34
 234798675,bevyengine/bevy,Rust,17
 67836789,tokio-rs/tokio,Rust,20
 268424739,helix-editor/helix,Rust,106
 146327667,vectordotdev/vector,Rust,14
 127553476,rust-embedded/rust-raspberrypi-OS-tutorials,Rust,52
 158927812,Peltoche/lsd,Rust,7
-263727855,pola-rs/polars,Rust,16
-61349723,casey/just,Rust,21
+263727855,pola-rs/polars,Rust,15
+61349723,casey/just,Rust,22
 36323226,XAMPPRocky/tokei,Rust,14
 150891532,cloudflare/quiche,Rust,15
 205326947,espanso/espanso,Rust,34
@@ -21,6 +21,6 @@ id,name,lang,new stars
 423679664,fermyon/spin,Rust,29
 266602341,gakonst/ethers-rs,Rust,4
 480592723,move-language/move,Rust,7
-461280850,shuttle-hq/shuttle,Rust,65
-221058575,open-telemetry/opentelemetry-rust,Rust,7
-480154226,szabodanika/microbin,Rust,31
+461280850,shuttle-hq/shuttle,Rust,64
+221058575,open-telemetry/opentelemetry-rust,Rust,8
+480154226,szabodanika/microbin,Rust,30

@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,12
+1863329,laravel/laravel,PHP,13
 7548986,laravel/framework,PHP,14
 458058,symfony/symfony,PHP,4
 2253830,PHPMailer/PHPMailer,PHP,6
-1305114,roots/sage,PHP,2
-2884111,magento/magento2,PHP,2
+1305114,roots/sage,PHP,3
+2884111,magento/magento2,PHP,1
 41589337,BookStackApp/BookStack,PHP,7
 2699935,squizlabs/PHP_CodeSniffer,PHP,11
 622166,FriendsOfPHP/Goutte,PHP,1
@@ -19,8 +19,8 @@ id,name,lang,new stars
 13914116,librenms/librenms,PHP,4
 39182755,glpi-project/glpi,PHP,2
 12063996,osTicket/osTicket,PHP,0
-74026995,CodelyTV/php-ddd-example,PHP,3
-39682214,Piwigo/Piwigo,PHP,23
+74026995,CodelyTV/php-ddd-example,PHP,4
+39682214,Piwigo/Piwigo,PHP,17
 131995661,shopware/platform,PHP,2
 541322916,openai-php/client,PHP,17
-540358486,Nafezly/payments,PHP,56
+540358486,Nafezly/payments,PHP,54

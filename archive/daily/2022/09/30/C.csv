@@ -7,7 +7,7 @@ id,name,lang,new stars
 60667730,lvgl/lvgl,C,4
 1856976,libevent/libevent,C,4
 5414488,cesanta/mongoose,C,8
-59771425,zephyrproject-rtos/zephyr,C,3
+59771425,zephyrproject-rtos/zephyr,C,4
 673267,redis/hiredis,C,4
 38617,sqlcipher/sqlcipher,C,1
 40556106,wazuh/wazuh,C,12
@@ -18,9 +18,9 @@ id,name,lang,new stars
 226167620,InfiniTimeOrg/InfiniTime,C,6
 24292801,X0rg/CPU-X,C,17
 303049486,vxunderground/VXUG-Papers,C,0
-541353333,DavidBuchanan314/monomorph,C,49
+541353333,DavidBuchanan314/monomorph,C,50
 121516035,nrfconnect/sdk-nrf,C,1
 94684292,skiselkov/BetterPushbackC,C,3
-504681766,intel/xess,C,27
+504681766,intel/xess,C,34
 541895011,ORCx41/KnownDllUnhook,C,10
 541162063,Sanyam-2026/Hacktoberfest2022,C,7
