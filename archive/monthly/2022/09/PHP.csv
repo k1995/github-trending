@@ -1,7 +1,7 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,233
+7548986,laravel/framework,PHP,232
 2579314,fzaninotto/Faker,PHP,67
-60243197,nextcloud/server,PHP,443
+60243197,nextcloud/server,PHP,442
 2889328,WordPress/WordPress,PHP,139
 1631570,nikic/PHP-Parser,PHP,91
 2884111,magento/magento2,PHP,70
@@ -12,15 +12,15 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,178
 9791525,digininja/DVWA,PHP,167
 4242230,PHPOffice/PHPWord,PHP,45
-60010673,elementor/elementor,PHP,87
-248372441,filamentphp/filament,PHP,292
+9826184,elastic/elasticsearch-php,PHP,38
+60010673,elementor/elementor,PHP,85
+248372441,filamentphp/filament,PHP,293
 439861,moodle/moodle,PHP,68
 1957456,Dolibarr/dolibarr,PHP,81
 13914116,librenms/librenms,PHP,51
 39182755,glpi-project/glpi,PHP,60
 111562942,statamic/cms,PHP,115
 131995661,shopware/platform,PHP,50
-524886955,opcodesio/log-viewer,PHP,1213
+524886955,opcodesio/log-viewer,PHP,1211
 138328462,freescout-helpdesk/freescout,PHP,70
 75645659,WordPress/wordpress-develop,PHP,45
-433383766,nextcloud/all-in-one,PHP,112
