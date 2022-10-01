@@ -1,16 +1,16 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,873
+45717250,tensorflow/tensorflow,C++,872
 5108051,opencv/opencv,C++,637
 65600975,pytorch/pytorch,C++,1005
-23357588,protocolbuffers/protobuf,C++,519
-15634981,godotengine/godot,C++,1297
+23357588,protocolbuffers/protobuf,C++,520
+15634981,godotengine/godot,C++,1294
 27729880,grpc/grpc,C++,390
-39840932,google/googletest,C++,490
-120887835,huihut/interview,C++,545
+39840932,google/googletest,C++,493
+120887835,huihut/interview,C++,543
 160083795,SerenityOS/serenity,C++,866
 74660642,taichi-dev/taichi,C++,1143
 26038648,gabime/spdlog,C++,341
-5736080,FreeCAD/FreeCAD,C++,266
+5736080,FreeCAD/FreeCAD,C++,267
 86897963,ZLMediaKit/ZLMediaKit,C++,347
 138754790,duckdb/duckdb,C++,486
 152631182,kamyu104/LeetCode-Solutions,C++,126
@@ -18,9 +18,9 @@ id,name,lang,new stars
 178613040,Neargye/magic_enum,C++,132
 70434365,obsproject/obs-websocket,C++,91
 224468265,dail8859/NotepadNext,C++,547
-271154586,AlexandreRouma/SDRPlusPlus,C++,107
-207663235,cmu-db/bustub,C++,309
-388946490,facebookincubator/velox,C++,578
+271154586,AlexandreRouma/SDRPlusPlus,C++,108
+207663235,cmu-db/bustub,C++,308
+388946490,facebookincubator/velox,C++,577
 354138793,NVIDIA/FasterTransformer,C++,182
-436366606,loveBabbar/CodeHelp-DSA-Busted-Series,C++,188
+436366606,loveBabbar/CodeHelp-DSA-Busted-Series,C++,189
 510116998,SerenityOS/ladybird,C++,765
