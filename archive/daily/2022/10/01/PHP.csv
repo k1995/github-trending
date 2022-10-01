@@ -1,6 +1,6 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,21
-7548986,laravel/framework,PHP,9
+3482588,danielmiessler/SecLists,PHP,17
+7548986,laravel/framework,PHP,10
 2579314,fzaninotto/Faker,PHP,1
 1420053,guzzle/guzzle,PHP,2
 2253830,PHPMailer/PHPMailer,PHP,4
@@ -11,16 +11,16 @@ id,name,lang,new stars
 10371103,Laravel-Lang/lang,PHP,1
 97311017,rectorphp/rector,PHP,7
 6269013,aws/aws-sdk-php,PHP,0
-2272514,php-webdriver/php-webdriver,PHP,2
+2272514,php-webdriver/php-webdriver,PHP,3
 248372441,filamentphp/filament,PHP,9
 39149031,webonyx/graphql-php,PHP,0
 439861,moodle/moodle,PHP,1
-351298555,thedevdojo/wave,PHP,1
-13914116,librenms/librenms,PHP,3
+351298555,thedevdojo/wave,PHP,2
+13914116,librenms/librenms,PHP,2
 2686502,pimcore/pimcore,PHP,1
 3193843,drush-ops/drush,PHP,0
-111562942,statamic/cms,PHP,7
+111562942,statamic/cms,PHP,6
 39682214,Piwigo/Piwigo,PHP,5
 75645659,WordPress/wordpress-develop,PHP,0
-540358486,Nafezly/payments,PHP,19
+540358486,Nafezly/payments,PHP,16
 542479950,lycoxz/AxisForTermux,PHP,0
