@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
+8514,rails/rails,Ruby,7
 65252,jekyll/jekyll,Ruby,7
-8681349,huginn/huginn,Ruby,9
+8681349,huginn/huginn,Ruby,7
 27442967,fastlane/fastlane,Ruby,9
 52281283,mastodon/mastodon,Ruby,6
 13840241,freeCodeCamp/devdocs,Ruby,8
 308770,heartcombo/devise,Ruby,4
 37382858,kilimchoi/engineering-blogs,Ruby,6
-3195124,mperham/sidekiq,Ruby,3
+3195124,mperham/sidekiq,Ruby,2
 4095287,rubocop/rubocop,Ruby,3
 106995,sinatra/sinatra,Ruby,1
 1918677,fluent/fluentd,Ruby,3
@@ -15,12 +15,12 @@ id,name,lang,new stars
 1145832,pry/pry,Ruby,1
 211588,paper-trail-gem/paper_trail,Ruby,1
 2889230,rails-api/active_model_serializers,Ruby,1
-1314319,instructure/canvas-lms,Ruby,3
+1314319,instructure/canvas-lms,Ruby,2
 52316423,luggit/react-native-config,Ruby,2
 79352,mikel/mail,Ruby,1
 1404127,jwt/ruby-jwt,Ruby,1
-11426474,github/choosealicense.com,Ruby,2
-93163073,dependabot/dependabot-core,Ruby,2
+11426474,github/choosealicense.com,Ruby,3
+93163073,dependabot/dependabot-core,Ruby,1
 100425035,titusfortner/webdrivers,Ruby,2
 1784628,rails/sprockets-rails,Ruby,1
-498774921,joeldrapper/phlex,Ruby,14
+498774921,joeldrapper/phlex,Ruby,12
