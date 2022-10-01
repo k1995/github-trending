@@ -1,18 +1,18 @@
 id,name,lang,new stars
 34921116,iovisor/bcc,C,10
-70127218,espressif/arduino-esp32,C,5
-5414488,cesanta/mongoose,C,7
+70127218,espressif/arduino-esp32,C,4
+5414488,cesanta/mongoose,C,5
 13310527,jemalloc/jemalloc,C,3
 105944401,yugabyte/yugabyte-db,C,5
 2328181,freebsd/freebsd-src,C,4
-673267,redis/hiredis,C,2
-3681392,greatscottgadgets/hackrf,C,4
-40556106,wazuh/wazuh,C,10
-29933948,fluent/fluent-bit,C,42
+673267,redis/hiredis,C,1
+3681392,greatscottgadgets/hackrf,C,5
+40556106,wazuh/wazuh,C,9
+29933948,fluent/fluent-bit,C,46
 83160811,littlefs-project/littlefs,C,2
-3276860,ThrowTheSwitch/Unity,C,2
+3276860,ThrowTheSwitch/Unity,C,3
 481977,stephane/libmodbus,C,1
-286175467,Ascotbe/Kernelhub,C,14
+286175467,Ascotbe/Kernelhub,C,11
 473137633,cilium/tetragon,C,4
 1031235,strongswan/strongswan,C,1
 191266671,algorand/go-algorand,C,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 94684292,skiselkov/BetterPushbackC,C,2
 505613691,OnionUI/Onion,C,5
 403314395,48d31kh413k/1337-Piscine-42,C,4
-356948389,DDeGonge/OS-ARM,C,5
-504603731,lethal-guitar/Duke2Reconstructed,C,18
+356948389,DDeGonge/OS-ARM,C,7
+504603731,lethal-guitar/Duke2Reconstructed,C,14

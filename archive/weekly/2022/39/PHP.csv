@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,83
 3482588,danielmiessler/SecLists,PHP,156
-7548986,laravel/framework,PHP,64
+7548986,laravel/framework,PHP,66
 458058,symfony/symfony,PHP,33
-1864363,composer/composer,PHP,32
+1864363,composer/composer,PHP,33
 2253830,PHPMailer/PHPMailer,PHP,39
 448045,sebastianbergmann/phpunit,PHP,17
 79111500,jupeter/clean-code-php,PHP,23
-14259390,SpartnerNL/Laravel-Excel,PHP,18
+14259390,SpartnerNL/Laravel-Excel,PHP,17
 2884111,magento/magento2,PHP,13
 2699935,squizlabs/PHP_CodeSniffer,PHP,54
 597887,doctrine/orm,PHP,12
@@ -17,10 +17,10 @@ id,name,lang,new stars
 9791525,digininja/DVWA,PHP,35
 95011974,akaunting/akaunting,PHP,22
 9826184,elastic/elasticsearch-php,PHP,12
-248372441,filamentphp/filament,PHP,75
-1957456,Dolibarr/dolibarr,PHP,16
+248372441,filamentphp/filament,PHP,76
+1957456,Dolibarr/dolibarr,PHP,17
 39182755,glpi-project/glpi,PHP,16
 74026995,CodelyTV/php-ddd-example,PHP,18
 111562942,statamic/cms,PHP,34
-39682214,Piwigo/Piwigo,PHP,65
-529027653,WordPress/wordpress-wasm,PHP,516
+39682214,Piwigo/Piwigo,PHP,64
+529027653,WordPress/wordpress-wasm,PHP,514
