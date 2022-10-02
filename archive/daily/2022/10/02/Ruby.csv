@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-65252,jekyll/jekyll,Ruby,8
+8514,rails/rails,Ruby,8
+65252,jekyll/jekyll,Ruby,7
 8681349,huginn/huginn,Ruby,8
-27442967,fastlane/fastlane,Ruby,8
+27442967,fastlane/fastlane,Ruby,7
 52281283,mastodon/mastodon,Ruby,6
 13840241,freeCodeCamp/devdocs,Ruby,7
 308770,heartcombo/devise,Ruby,4
-37382858,kilimchoi/engineering-blogs,Ruby,6
+37382858,kilimchoi/engineering-blogs,Ruby,7
 3195124,mperham/sidekiq,Ruby,2
 4095287,rubocop/rubocop,Ruby,3
 106995,sinatra/sinatra,Ruby,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,1
 100425035,titusfortner/webdrivers,Ruby,2
 1784628,rails/sprockets-rails,Ruby,1
-498774921,joeldrapper/phlex,Ruby,12
+498774921,joeldrapper/phlex,Ruby,11

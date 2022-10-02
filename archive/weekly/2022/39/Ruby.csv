@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,56
-65252,jekyll/jekyll,Ruby,57
+8514,rails/rails,Ruby,57
+65252,jekyll/jekyll,Ruby,55
 8681349,huginn/huginn,Ruby,64
-53238813,Homebrew/brew,Ruby,95
+53238813,Homebrew/brew,Ruby,98
 52281283,mastodon/mastodon,Ruby,42
 2293158,rapid7/metasploit-framework,Ruby,78
 538746,ruby/ruby,Ruby,24
-202291859,chatwoot/chatwoot,Ruby,207
+202291859,chatwoot/chatwoot,Ruby,208
 3195124,mperham/sidekiq,Ruby,19
 106995,sinatra/sinatra,Ruby,15
 361310,teamcapybara/capybara,Ruby,6
@@ -17,7 +17,7 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,13
 1175581,citation-style-language/styles,Ruby,6
 200302808,ViewComponent/view_component,Ruby,10
-297419763,github/india,Ruby,56
+297419763,github/india,Ruby,55
 66497320,DataDog/dd-trace-rb,Ruby,4
 279271772,DataDog/datadog-api-client-ruby,Ruby,1
 481257784,brewchetta/phase-3-practice-code-challenge-animal-shelter,Ruby,0
