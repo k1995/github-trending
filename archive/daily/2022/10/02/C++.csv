@@ -1,15 +1,15 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,17
 65600975,pytorch/pytorch,C++,20
-15634981,godotengine/godot,C++,24
-22067521,ocornut/imgui,C++,26
-39840932,google/googletest,C++,53
+15634981,godotengine/godot,C++,27
+22067521,ocornut/imgui,C++,25
+39840932,google/googletest,C++,47
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,7
 4524181,facebook/folly,C++,6
-19953044,google/flatbuffers,C++,7
+19953044,google/flatbuffers,C++,6
 18503721,facebook/yoga,C++,2
 7056202,fmtlib/fmt,C++,7
-102692863,onnx/onnx,C++,9
+102692863,onnx/onnx,C++,10
 420580521,scottbez1/smartknob,C++,4
 59212953,polybar/polybar,C++,6
 194269070,skyline-emu/skyline,C++,15
@@ -21,6 +21,6 @@ id,name,lang,new stars
 67641996,oneapi-src/oneTBB,C++,2
 384520418,MaaAssistantArknights/MaaAssistantArknights,C++,28
 22197389,e-maxx-eng/e-maxx-eng,C++,13
-537085161,cloudflare/workerd,C++,134
+537085161,cloudflare/workerd,C++,128
 135363400,ros-planning/navigation2,C++,3
-493044023,Taiga74164/Akebi-GC,C++,27
+493044023,Taiga74164/Akebi-GC,C++,26

@@ -1,8 +1,8 @@
 id,name,lang,new stars
 1903522,php/php-src,C,3
-1614410,FFmpeg/FFmpeg,C,18
+1614410,FFmpeg/FFmpeg,C,19
 569041,curl/curl,C,11
-14812739,libuv/libuv,C,7
+14812739,libuv/libuv,C,8
 6201092,mpv-player/mpv,C,9
 196353673,taosdata/TDengine,C,3
 63477515,TheAlgorithms/C,C,22
@@ -10,10 +10,10 @@ id,name,lang,new stars
 214011414,kingToolbox/WindTerm,C,19
 7408108,RT-Thread/rt-thread,C,2
 689344,libretro/RetroArch,C,6
-213916896,blender/blender,C,11
+213916896,blender/blender,C,10
 40556106,wazuh/wazuh,C,8
 23007417,colmap/colmap,C,2
-29933948,fluent/fluent-bit,C,27
+29933948,fluent/fluent-bit,C,23
 6687936,Mbed-TLS/mbedtls,C,1
 204459250,mit-pdos/xv6-riscv,C,3
 18383364,openvswitch/ovs,C,0
