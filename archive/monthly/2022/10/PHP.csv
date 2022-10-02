@@ -1,7 +1,7 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,235
-1864363,composer/composer,PHP,126
-2579314,fzaninotto/Faker,PHP,57
+7548986,laravel/framework,PHP,233
+1864363,composer/composer,PHP,125
+2579314,fzaninotto/Faker,PHP,56
 60243197,nextcloud/server,PHP,431
 2889328,WordPress/WordPress,PHP,130
 1631570,nikic/PHP-Parser,PHP,90
@@ -9,18 +9,18 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,61
 41589337,BookStackApp/BookStack,PHP,223
 2699935,squizlabs/PHP_CodeSniffer,PHP,111
-21298446,firefly-iii/firefly-iii,PHP,290
+21298446,firefly-iii/firefly-iii,PHP,292
 12166778,googleapis/google-api-php-client,PHP,69
 2179920,woocommerce/woocommerce,PHP,55
 6763587,PrestaShop/PrestaShop,PHP,176
-9791525,digininja/DVWA,PHP,158
+9791525,digininja/DVWA,PHP,157
 9826184,elastic/elasticsearch-php,PHP,35
 60010673,elementor/elementor,PHP,75
-248372441,filamentphp/filament,PHP,291
+248372441,filamentphp/filament,PHP,292
 439861,moodle/moodle,PHP,62
-39182755,glpi-project/glpi,PHP,58
+39182755,glpi-project/glpi,PHP,57
 111562942,statamic/cms,PHP,114
-131995661,shopware/platform,PHP,46
-524886955,opcodesio/log-viewer,PHP,856
+131995661,shopware/platform,PHP,47
+524886955,opcodesio/log-viewer,PHP,834
 138328462,freescout-helpdesk/freescout,PHP,55
 433383766,nextcloud/all-in-one,PHP,108

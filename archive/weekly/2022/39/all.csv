@@ -1,26 +1,26 @@
 id,name,lang,new stars
-151834062,doocs/advanced-java,Java,957
-31629751,cypress-io/cypress,JavaScript,360
-7548986,laravel/framework,PHP,72
-39840932,google/googletest,C++,234
-68720867,firstcontributions/first-contributions,,1153
-110211147,xkcoding/spring-boot-demo,Java,392
-180190854,appwrite/appwrite,TypeScript,357
-97086543,TheAlgorithms/JavaScript,JavaScript,315
-40892817,ethereum/solidity,C++,109
-58559694,desktop/desktop,TypeScript,214
-153099672,inancgumus/learngo,Go,447
-234739976,medusajs/medusa,TypeScript,180
+151834062,doocs/advanced-java,Java,949
+31629751,cypress-io/cypress,JavaScript,367
+7548986,laravel/framework,PHP,71
+39840932,google/googletest,C++,233
+68720867,firstcontributions/first-contributions,,1165
+110211147,xkcoding/spring-boot-demo,Java,386
+180190854,appwrite/appwrite,TypeScript,358
+97086543,TheAlgorithms/JavaScript,JavaScript,317
+40892817,ethereum/solidity,C++,105
+58559694,desktop/desktop,TypeScript,212
+153099672,inancgumus/learngo,Go,435
+234739976,medusajs/medusa,TypeScript,185
 120896210,argoproj/argo-cd,Go,115
-537603333,openai/whisper,Jupyter Notebook,2917
-368917877,BuilderIO/qwik,TypeScript,1061
-17689377,pre-commit/pre-commit,Python,67
+537603333,openai/whisper,Jupyter Notebook,2855
+368917877,BuilderIO/qwik,TypeScript,1065
+17689377,pre-commit/pre-commit,Python,68
 351669095,vanilla-extract-css/vanilla-extract,TypeScript,78
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1251
-125612271,Unity-Technologies/EntityComponentSystemSamples,C#,40
-529708137,steven-tey/dub,TypeScript,1526
-145658226,Rezmason/matrix,JavaScript,1135
-533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,1409
-251312202,google/tensorstore,C++,508
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,154
-536792011,Launch-X-Latam/OnBoarding,,129
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1258
+125612271,Unity-Technologies/EntityComponentSystemSamples,C#,41
+529708137,steven-tey/dub,TypeScript,1475
+145658226,Rezmason/matrix,JavaScript,1136
+533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,1402
+251312202,google/tensorstore,C++,507
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,157
+536792011,Launch-X-Latam/OnBoarding,,122
