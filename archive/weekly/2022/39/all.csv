@@ -1,26 +1,26 @@
 id,name,lang,new stars
-151834062,doocs/advanced-java,Java,928
-31629751,cypress-io/cypress,JavaScript,378
-7548986,laravel/framework,PHP,71
-39840932,google/googletest,C++,244
-68720867,firstcontributions/first-contributions,,1176
-110211147,xkcoding/spring-boot-demo,Java,381
-180190854,appwrite/appwrite,TypeScript,358
-97086543,TheAlgorithms/JavaScript,JavaScript,315
-40892817,ethereum/solidity,C++,106
-58559694,desktop/desktop,TypeScript,211
-153099672,inancgumus/learngo,Go,411
-234739976,medusajs/medusa,TypeScript,187
-120896210,argoproj/argo-cd,Go,115
-537603333,openai/whisper,Jupyter Notebook,2779
-368917877,BuilderIO/qwik,TypeScript,1056
-17689377,pre-commit/pre-commit,Python,68
-351669095,vanilla-extract-css/vanilla-extract,TypeScript,79
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1271
+28457823,freeCodeCamp/freeCodeCamp,TypeScript,633
+151834062,doocs/advanced-java,Java,911
+31629751,cypress-io/cypress,JavaScript,386
+49609581,PowerShell/PowerShell,C#,104
+7548986,laravel/framework,PHP,72
+39840932,google/googletest,C++,243
+68720867,firstcontributions/first-contributions,,1194
+110211147,xkcoding/spring-boot-demo,Java,377
+180190854,appwrite/appwrite,TypeScript,359
+97086543,TheAlgorithms/JavaScript,JavaScript,307
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,516
+40892817,ethereum/solidity,C++,107
+153099672,inancgumus/learngo,Go,394
+234739976,medusajs/medusa,TypeScript,188
+268424739,helix-editor/helix,Rust,559
+161951219,wailsapp/wails,Go,290
+537603333,openai/whisper,Jupyter Notebook,2699
+368917877,BuilderIO/qwik,TypeScript,1055
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1279
 125612271,Unity-Technologies/EntityComponentSystemSamples,C#,42
-529708137,steven-tey/dub,TypeScript,1429
-145658226,Rezmason/matrix,JavaScript,1141
-533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,1395
-251312202,google/tensorstore,C++,502
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,162
-536792011,Launch-X-Latam/OnBoarding,,119
+330405184,turbot/steampipe,Go,678
+274782881,acantril/learn-cantrill-io-labs,Python,70
+145658226,Rezmason/matrix,JavaScript,1134
+533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,1403
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,163
