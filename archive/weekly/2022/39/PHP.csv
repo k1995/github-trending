@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,83
-3482588,danielmiessler/SecLists,PHP,165
+1863329,laravel/laravel,PHP,84
+3482588,danielmiessler/SecLists,PHP,170
 7548986,laravel/framework,PHP,74
-458058,symfony/symfony,PHP,32
+458058,symfony/symfony,PHP,31
 2253830,PHPMailer/PHPMailer,PHP,38
-448045,sebastianbergmann/phpunit,PHP,16
+448045,sebastianbergmann/phpunit,PHP,17
 1548202,matomo-org/matomo,PHP,40
-3431193,yiisoft/yii2,PHP,11
+3431193,yiisoft/yii2,PHP,10
 1305114,roots/sage,PHP,12
 61490598,PHPOffice/PhpSpreadsheet,PHP,16
 14259390,SpartnerNL/Laravel-Excel,PHP,14
@@ -16,11 +16,11 @@ id,name,lang,new stars
 330275,twigphp/Twig,PHP,7
 12204147,mautic/mautic,PHP,9
 9826184,elastic/elasticsearch-php,PHP,10
-248372441,filamentphp/filament,PHP,77
-47508644,pterodactyl/panel,PHP,27
-39182755,glpi-project/glpi,PHP,16
-74026995,CodelyTV/php-ddd-example,PHP,18
+248372441,filamentphp/filament,PHP,79
+47508644,pterodactyl/panel,PHP,26
+39182755,glpi-project/glpi,PHP,17
+74026995,CodelyTV/php-ddd-example,PHP,19
 111562942,statamic/cms,PHP,35
-143975804,LycheeOrg/Lychee,PHP,256
-36888692,spatie/package-skeleton-laravel,PHP,11
-529027653,WordPress/wordpress-wasm,PHP,302
+143975804,LycheeOrg/Lychee,PHP,265
+36888692,spatie/package-skeleton-laravel,PHP,9
+529027653,WordPress/wordpress-wasm,PHP,283
