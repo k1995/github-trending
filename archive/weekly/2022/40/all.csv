@@ -1,26 +1,26 @@
 id,name,lang,new stars
-28457823,freeCodeCamp/freeCodeCamp,TypeScript,640
-151834062,doocs/advanced-java,Java,364
-31629751,cypress-io/cypress,JavaScript,399
-7548986,laravel/framework,PHP,80
-68720867,firstcontributions/first-contributions,,1549
-39840932,google/googletest,C++,248
-110211147,xkcoding/spring-boot-demo,Java,329
-63477612,TheAlgorithms/C-Plus-Plus,C++,404
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,570
-40892817,ethereum/solidity,C++,97
-441903012,MichaelCade/90DaysOfDevOps,Shell,427
-197081291,iced-rs/iced,Rust,614
-153099672,inancgumus/learngo,Go,233
-190729906,Budibase/budibase,JavaScript,180
-161951219,wailsapp/wails,Go,222
-537603333,openai/whisper,Jupyter Notebook,1591
-368917877,BuilderIO/qwik,TypeScript,810
-400215964,novuhq/novu,TypeScript,839
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1375
-529708137,steven-tey/dub,TypeScript,719
-291787503,NielsRogge/Transformers-Tutorials,Jupyter Notebook,948
-145658226,Rezmason/matrix,JavaScript,899
-533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,907
-531788813,lkwq007/stablediffusion-infinity,Python,784
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,171
+28457823,freeCodeCamp/freeCodeCamp,TypeScript,646
+16408992,neovim/neovim,Vim Script,293
+63477660,TheAlgorithms/Java,Java,184
+31629751,cypress-io/cypress,JavaScript,402
+68720867,firstcontributions/first-contributions,,1562
+39840932,google/googletest,C++,247
+110211147,xkcoding/spring-boot-demo,Java,318
+180190854,appwrite/appwrite,TypeScript,303
+63477612,TheAlgorithms/C-Plus-Plus,C++,421
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,,566
+197081291,iced-rs/iced,Rust,631
+352933140,ToolJet/ToolJet,JavaScript,401
+189621607,github/docs,JavaScript,171
+368917877,BuilderIO/qwik,TypeScript,785
+341714203,openai/DALL-E,Python,100
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1384
+529708137,steven-tey/dub,TypeScript,700
+291787503,NielsRogge/Transformers-Tutorials,Jupyter Notebook,959
+145658226,Rezmason/matrix,JavaScript,897
+533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,883
+531788813,lkwq007/stablediffusion-infinity,Python,807
+538767566,jzimmerman/langcc,C++,263
+428292281,Sanster/lama-cleaner,Python,159
+251312202,google/tensorstore,C++,263
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,176
