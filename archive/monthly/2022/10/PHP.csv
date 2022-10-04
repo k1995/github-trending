@@ -1,9 +1,9 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,235
+7548986,laravel/framework,PHP,236
 2579314,fzaninotto/Faker,PHP,49
-60243197,nextcloud/server,PHP,376
+60243197,nextcloud/server,PHP,368
 1376664,Seldaek/monolog,PHP,73
-2889328,WordPress/WordPress,PHP,127
+2889328,WordPress/WordPress,PHP,128
 1631570,nikic/PHP-Parser,PHP,89
 14259390,SpartnerNL/Laravel-Excel,PHP,65
 2699935,squizlabs/PHP_CodeSniffer,PHP,105
@@ -14,11 +14,11 @@ id,name,lang,new stars
 14716368,invoiceninja/invoiceninja,PHP,58
 9791525,digininja/DVWA,PHP,158
 4242230,PHPOffice/PHPWord,PHP,45
-76064827,mailcow/mailcow-dockerized,PHP,115
+76064827,mailcow/mailcow-dockerized,PHP,116
 9826184,elastic/elasticsearch-php,PHP,34
 60010673,elementor/elementor,PHP,73
-248372441,filamentphp/filament,PHP,289
-439861,moodle/moodle,PHP,62
+248372441,filamentphp/filament,PHP,290
+439861,moodle/moodle,PHP,61
 13914116,librenms/librenms,PHP,49
 39182755,glpi-project/glpi,PHP,61
 111562942,statamic/cms,PHP,105
