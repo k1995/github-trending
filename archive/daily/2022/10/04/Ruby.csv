@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,10
+8681349,huginn/huginn,Ruby,12
 27442967,fastlane/fastlane,Ruby,3
-53238813,Homebrew/brew,Ruby,14
-2293158,rapid7/metasploit-framework,Ruby,8
+53238813,Homebrew/brew,Ruby,15
+2293158,rapid7/metasploit-framework,Ruby,7
 481872,hashicorp/vagrant,Ruby,6
 2500088,gitlabhq/gitlabhq,Ruby,1
 308770,heartcombo/devise,Ruby,3
 73648678,forem/forem,Ruby,6
 538746,ruby/ruby,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,0
-18486300,lewagon/setup,Ruby,87
-202291859,chatwoot/chatwoot,Ruby,9
-1090311,elastic/logstash,Ruby,2
+18486300,lewagon/setup,Ruby,76
+202291859,chatwoot/chatwoot,Ruby,8
+1090311,elastic/logstash,Ruby,3
 88740103,postalserver/postal,Ruby,5
 3314,spree/spree,Ruby,1
 611921,activeadmin/activeadmin,Ruby,1
@@ -19,8 +19,8 @@ id,name,lang,new stars
 6768710,redmine/redmine,Ruby,1
 39706711,hartator/wayback-machine-downloader,Ruby,2
 614070,rubygems/rubygems,Ruby,0
-11426474,github/choosealicense.com,Ruby,2
-10088951,TheOdinProject/theodinproject,Ruby,2
+11426474,github/choosealicense.com,Ruby,3
+10088951,TheOdinProject/theodinproject,Ruby,1
 8154497,rubysec/ruby-advisory-db,Ruby,1
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
 11630162,xieyu33333/badwords,Ruby,0
