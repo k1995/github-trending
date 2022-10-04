@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,419
+2325298,torvalds/linux,C,431
 246335987,ventoy/Ventoy,C,227
-1903522,php/php-src,C,37
+1903522,php/php-src,C,39
 14812739,libuv/libuv,C,48
-80286288,arendst/Tasmota,C,37
-63477515,TheAlgorithms/C,C,101
-13836499,raysan5/raylib,C,65
+80286288,arendst/Tasmota,C,36
+63477515,TheAlgorithms/C,C,100
+13836499,raysan5/raylib,C,64
 70127218,espressif/arduino-esp32,C,48
-394318710,valinet/ExplorerPatcher,C,184
+394318710,valinet/ExplorerPatcher,C,185
 32921736,audacity/audacity,C,54
 105944401,yugabyte/yugabyte-db,C,159
 187922067,microsoft/WSL2-Linux-Kernel,C,22
@@ -15,12 +15,12 @@ id,name,lang,new stars
 3681392,greatscottgadgets/hackrf,C,36
 40556106,wazuh/wazuh,C,45
 29933948,fluent/fluent-bit,C,77
-135348215,TelegramMessenger/MTProxy,C,23
-330008801,libsdl-org/SDL,C,51
+135348215,TelegramMessenger/MTProxy,C,22
+330008801,libsdl-org/SDL,C,50
 10513590,torproject/tor,C,17
 3276860,ThrowTheSwitch/Unity,C,20
-283280154,jomjol/AI-on-the-edge-device,C,36
-481977,stephane/libmodbus,C,14
+283280154,jomjol/AI-on-the-edge-device,C,37
+481977,stephane/libmodbus,C,15
 226167620,InfiniTimeOrg/InfiniTime,C,17
 505613691,OnionUI/Onion,C,35
-541093035,Idov31/Cronos,C,116
+541093035,Idov31/Cronos,C,109
