@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,4
-481872,hashicorp/vagrant,Ruby,6
+8514,rails/rails,Ruby,5
+481872,hashicorp/vagrant,Ruby,5
 308770,heartcombo/devise,Ruby,2
-538746,ruby/ruby,Ruby,2
+538746,ruby/ruby,Ruby,1
 2203645,CocoaPods/CocoaPods,Ruby,1
-18486300,lewagon/setup,Ruby,16
+18486300,lewagon/setup,Ruby,11
 1918677,fluent/fluentd,Ruby,2
 96395,faker-ruby/faker,Ruby,3
 812393,ruby-grape/grape,Ruby,0
-611921,activeadmin/activeadmin,Ruby,0
+611921,activeadmin/activeadmin,Ruby,1
 108278,chef/chef,Ruby,0
 33739333,thoughtbot/administrate,Ruby,1
-535266,vcr/vcr,Ruby,0
-75785147,rails/webpacker,Ruby,1
-30337170,rmosolgo/graphql-ruby,Ruby,2
+535266,vcr/vcr,Ruby,1
+75785147,rails/webpacker,Ruby,2
+30337170,rmosolgo/graphql-ruby,Ruby,1
 52316423,luggit/react-native-config,Ruby,3
 2050163,aws/aws-sdk-ruby,Ruby,2
 21333814,lynndylanhurley/devise_token_auth,Ruby,0
