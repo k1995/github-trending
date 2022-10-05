@@ -1,9 +1,9 @@
 id,name,lang,new stars
-11180687,gohugoio/hugo,Go,31
+11180687,gohugoio/hugo,Go,32
 212613049,cli/cli,Go,14
 181461073,v2fly/v2ray-core,Go,30
 6247705,stretchr/testify,Go,8
-72891330,kubernetes/ingress-nginx,Go,13
+72891330,kubernetes/ingress-nginx,Go,14
 36653430,hashicorp/nomad,Go,3
 10721619,hajimehoshi/ebiten,Go,12
 266445736,owncast/owncast,Go,8
@@ -11,16 +11,16 @@ id,name,lang,new stars
 9120526,jackc/pgx,Go,8
 120519269,runatlantis/atlantis,Go,7
 54435102,benthosdev/benthos,Go,7
-330405184,turbot/steampipe,Go,54
-192178626,marcel-dempers/docker-development-youtube-series,Go,6
-116392590,stefanprodan/podinfo,Go,206
+330405184,turbot/steampipe,Go,50
+192178626,marcel-dempers/docker-development-youtube-series,Go,7
+116392590,stefanprodan/podinfo,Go,209
 61687013,go-ozzo/ozzo-validation,Go,6
-105711679,bufbuild/protoc-gen-validate,Go,28
+105711679,bufbuild/protoc-gen-validate,Go,29
 173009358,deepmap/oapi-codegen,Go,5
-188836864,ledgerwatch/erigon,Go,2
+188836864,ledgerwatch/erigon,Go,1
 313628863,external-secrets/external-secrets,Go,6
-272663924,techschool/simplebank,Go,16
-535304995,HavocFramework/Havoc,Go,261
-286530881,FloatTech/ZeroBot-Plugin,Go,3
+272663924,techschool/simplebank,Go,15
+535304995,HavocFramework/Havoc,Go,271
+286530881,FloatTech/ZeroBot-Plugin,Go,2
 145433521,v2ray/domain-list-community,Go,13
-542861539,projectdiscovery/asnmap,Go,9
+542861539,projectdiscovery/asnmap,Go,8

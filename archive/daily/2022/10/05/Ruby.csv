@@ -1,6 +1,6 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,6
-481872,hashicorp/vagrant,Ruby,5
+8514,rails/rails,Ruby,7
+481872,hashicorp/vagrant,Ruby,4
 308770,heartcombo/devise,Ruby,5
 538746,ruby/ruby,Ruby,1
 2203645,CocoaPods/CocoaPods,Ruby,1
@@ -18,7 +18,7 @@ id,name,lang,new stars
 2050163,aws/aws-sdk-ruby,Ruby,2
 21333814,lynndylanhurley/devise_token_auth,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,1
-904810,rubysherpas/paranoia,Ruby,0
+904810,rubysherpas/paranoia,Ruby,1
 10088951,TheOdinProject/theodinproject,Ruby,2
 212813096,lewagon/data-setup,Ruby,1
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,1
