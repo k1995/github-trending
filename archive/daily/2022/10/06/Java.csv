@@ -1,7 +1,7 @@
 id,name,lang,new stars
 7613257,SeleniumHQ/selenium,Java,8
 6207167,mockito/mockito,Java,4
-482520194,Grasscutters/Grasscutter,Java,18
+482520194,Grasscutters/Grasscutter,Java,17
 139914932,quarkusio/quarkus,Java,5
 1272129,dropwizard/dropwizard,Java,3
 33816473,testcontainers/testcontainers-java,Java,4
@@ -11,11 +11,11 @@ id,name,lang,new stars
 3786237,hazelcast/hazelcast,Java,4
 8161461,ikarus23/MifareClassicTool,Java,4
 246464565,PojavLauncherTeam/PojavLauncher,Java,2
-3038937,FasterXML/jackson-databind,Java,6
+3038937,FasterXML/jackson-databind,Java,5
 212488700,pytorch/serve,Java,3
-52095564,openid/AppAuth-Android,Java,2
+52095564,openid/AppAuth-Android,Java,1
 156599958,corretto/corretto-8,Java,2
-2928948,Azure/azure-sdk-for-java,Java,41
+2928948,Azure/azure-sdk-for-java,Java,43
 21180741,hapifhir/hapi-fhir,Java,0
 78640217,keycloak/keycloak-quickstarts,Java,0
 34428627,confluentinc/kafka-connect-jdbc,Java,0

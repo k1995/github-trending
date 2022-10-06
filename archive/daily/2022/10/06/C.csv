@@ -1,7 +1,7 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,8
+10744183,netdata/netdata,C,9
 36502,git/git,C,20
-394318710,valinet/ExplorerPatcher,C,25
+394318710,valinet/ExplorerPatcher,C,26
 16734696,meetecho/janus-gateway,C,1
 5870069,edenhill/librdkafka,C,2
 33945,sparklemotion/nokogiri,C,0
@@ -11,13 +11,13 @@ id,name,lang,new stars
 3681392,greatscottgadgets/hackrf,C,2
 40556106,wazuh/wazuh,C,3
 23007417,colmap/colmap,C,5
-1660127,neutrinolabs/xrdp,C,8
+1660127,neutrinolabs/xrdp,C,6
 6687936,Mbed-TLS/mbedtls,C,0
 31570906,openvenues/libpostal,C,2
 204459250,mit-pdos/xv6-riscv,C,5
 217654199,microsoft/msquic,C,2
 4065980,libopencm3/libopencm3,C,1
-144465372,RfidResearchGroup/proxmark3,C,1
+144465372,RfidResearchGroup/proxmark3,C,2
 45734719,enjoy-digital/litex,C,3
 10458362,rsyslog/rsyslog,C,2
 270692521,zmkfirmware/zmk,C,1

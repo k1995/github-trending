@@ -1,21 +1,21 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,5
+17620347,dotnet/aspnetcore,C#,6
 262395224,dotnet/maui,C#,8
 791611,mono/mono,C#,7
-17369361,jbogard/MediatR,C#,18
-11591313,reactiveui/refit,C#,3
+17369361,jbogard/MediatR,C#,17
+11591313,reactiveui/refit,C#,4
 778828,MassTransit/MassTransit,C#,4
 19216825,xamarin/xamarin-forms-samples,C#,0
 2928944,Azure/azure-sdk-for-net,C#,4
 184286875,actions/runner,C#,4
 89527614,BornToBeRoot/NETworkManager,C#,3
-85242321,dotnet/MQTTnet,C#,3
+85242321,dotnet/MQTTnet,C#,4
 150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,2
 41173335,openiddict/openiddict-core,C#,6
 46156101,khellang/Scrutor,C#,9
 72554578,confluentinc/confluent-kafka-dotnet,C#,0
 56710511,xamarin/xamarin-macios,C#,0
-1841284,Pryaxis/TShock,C#,9
+1841284,Pryaxis/TShock,C#,10
 155757874,microsoft/WinUI-Gallery,C#,2
 138646782,Azure/iotedge,C#,0
 131026794,Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,0

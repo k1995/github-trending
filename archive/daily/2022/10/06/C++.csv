@@ -1,16 +1,16 @@
 id,name,lang,new stars
-27729880,grpc/grpc,C++,32
+27729880,grpc/grpc,C++,34
 11171548,nlohmann/json,C++,13
 4524181,facebook/folly,C++,4
-63477612,TheAlgorithms/C-Plus-Plus,C++,122
+63477612,TheAlgorithms/C-Plus-Plus,C++,117
 1062572,catchorg/Catch2,C++,5
 25135037,symless/synergy-core,C++,4
-23086893,google/re2,C++,3
+23086893,google/re2,C++,2
 15122806,google/benchmark,C++,2
-18719856,Stellarium/stellarium,C++,21
+18719856,Stellarium/stellarium,C++,19
 153097643,openvinotoolkit/openvino,C++,3
 24677392,CGAL/cgal,C++,2
-256049233,microsoft/WindowsAppSDK,C++,1
+256049233,microsoft/WindowsAppSDK,C++,0
 112542515,NVIDIA/cutlass,C++,4
 170738310,trustwallet/wallet-core,C++,3
 237647258,meshtastic/Meshtastic-device,C++,1
