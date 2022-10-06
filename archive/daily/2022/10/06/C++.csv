@@ -1,13 +1,13 @@
 id,name,lang,new stars
-27729880,grpc/grpc,C++,36
-11171548,nlohmann/json,C++,14
-4524181,facebook/folly,C++,4
-63477612,TheAlgorithms/C-Plus-Plus,C++,114
+27729880,grpc/grpc,C++,43
+11171548,nlohmann/json,C++,13
+4524181,facebook/folly,C++,2
+63477612,TheAlgorithms/C-Plus-Plus,C++,106
 1062572,catchorg/Catch2,C++,5
 25135037,symless/synergy-core,C++,3
 23086893,google/re2,C++,2
 15122806,google/benchmark,C++,1
-18719856,Stellarium/stellarium,C++,20
+18719856,Stellarium/stellarium,C++,18
 153097643,openvinotoolkit/openvino,C++,3
 24677392,CGAL/cgal,C++,2
 256049233,microsoft/WindowsAppSDK,C++,1
@@ -16,10 +16,10 @@ id,name,lang,new stars
 237647258,meshtastic/Meshtastic-device,C++,1
 156293205,pytorch/xla,C++,1
 1799895,zeromq/cppzmq,C++,2
-92912604,commaai/opendbc,C++,2
+92912604,commaai/opendbc,C++,1
 135363400,ros-planning/navigation2,C++,1
 37287688,mfem/mfem,C++,0
-68938580,jtv/libpqxx,C++,4
+68938580,jtv/libpqxx,C++,3
 132549984,ouster-lidar/ouster_example,C++,0
 111009045,awslabs/amazon-kinesis-video-streams-producer-sdk-cpp,C++,1
 429651616,autowarefoundation/autoware.universe,C++,2

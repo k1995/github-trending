@@ -1,16 +1,16 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,6
-262395224,dotnet/maui,C#,8
-791611,mono/mono,C#,6
-17369361,jbogard/MediatR,C#,18
+17620347,dotnet/aspnetcore,C#,5
+262395224,dotnet/maui,C#,7
+791611,mono/mono,C#,7
+17369361,jbogard/MediatR,C#,20
 11591313,reactiveui/refit,C#,5
 778828,MassTransit/MassTransit,C#,4
-19216825,xamarin/xamarin-forms-samples,C#,0
-2928944,Azure/azure-sdk-for-net,C#,3
-184286875,actions/runner,C#,4
+19216825,xamarin/xamarin-forms-samples,C#,1
+2928944,Azure/azure-sdk-for-net,C#,2
+184286875,actions/runner,C#,6
 89527614,BornToBeRoot/NETworkManager,C#,3
-85242321,dotnet/MQTTnet,C#,5
-150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,2
+85242321,dotnet/MQTTnet,C#,4
+150572151,Xabaril/AspNetCore.Diagnostics.HealthChecks,C#,4
 41173335,openiddict/openiddict-core,C#,7
 46156101,khellang/Scrutor,C#,9
 72554578,confluentinc/confluent-kafka-dotnet,C#,0
@@ -19,8 +19,8 @@ id,name,lang,new stars
 155757874,microsoft/WinUI-Gallery,C#,2
 138646782,Azure/iotedge,C#,0
 131026794,Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2,C#,0
-487587678,jie65535/GrasscutterCommandGenerator,C#,10
+487587678,jie65535/GrasscutterCommandGenerator,C#,8
 145907688,microsoft/fhir-server,C#,2
-167568377,jadepeng/XMusicDownloader,C#,32
+167568377,jadepeng/XMusicDownloader,C#,38
 156260788,Azure/azure-cosmos-dotnet-v3,C#,0
-449639308,xunkong/xunkong,C#,10
+449639308,xunkong/xunkong,C#,9
