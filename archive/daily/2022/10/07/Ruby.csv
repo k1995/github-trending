@@ -1,12 +1,12 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,6
-52281283,mastodon/mastodon,Ruby,4
-481872,hashicorp/vagrant,Ruby,8
-308770,heartcombo/devise,Ruby,5
-538746,ruby/ruby,Ruby,12
-2203645,CocoaPods/CocoaPods,Ruby,0
+65252,jekyll/jekyll,Ruby,3
+52281283,mastodon/mastodon,Ruby,5
+481872,hashicorp/vagrant,Ruby,7
+308770,heartcombo/devise,Ruby,4
+538746,ruby/ruby,Ruby,10
+2203645,CocoaPods/CocoaPods,Ruby,1
 1090311,elastic/logstash,Ruby,0
-4095287,rubocop/rubocop,Ruby,3
+4095287,rubocop/rubocop,Ruby,7
 1918677,fluent/fluentd,Ruby,2
 96395,faker-ruby/faker,Ruby,3
 1725199,github/linguist,Ruby,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,1
 79352,mikel/mail,Ruby,1
 229006,mileszs/wicked_pdf,Ruby,0
-138776049,sorbet/sorbet,Ruby,3
-10088951,TheOdinProject/theodinproject,Ruby,3
+138776049,sorbet/sorbet,Ruby,4
+10088951,TheOdinProject/theodinproject,Ruby,4
 9831101,elastic/elasticsearch-ruby,Ruby,0
-502760,danbooru/danbooru,Ruby,3
-3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,2
+502760,danbooru/danbooru,Ruby,4
+3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,1
 375321926,learn-co-curriculum/phase-4-deploying-demo-app,Ruby,0
