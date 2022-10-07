@@ -1,6 +1,6 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,6
-52281283,mastodon/mastodon,Ruby,5
+52281283,mastodon/mastodon,Ruby,4
 481872,hashicorp/vagrant,Ruby,6
 308770,heartcombo/devise,Ruby,6
 538746,ruby/ruby,Ruby,6
@@ -8,7 +8,7 @@ id,name,lang,new stars
 1090311,elastic/logstash,Ruby,0
 4095287,rubocop/rubocop,Ruby,2
 1918677,fluent/fluentd,Ruby,3
-96395,faker-ruby/faker,Ruby,3
+96395,faker-ruby/faker,Ruby,4
 1725199,github/linguist,Ruby,3
 15435,Shopify/liquid,Ruby,3
 812393,ruby-grape/grape,Ruby,1
