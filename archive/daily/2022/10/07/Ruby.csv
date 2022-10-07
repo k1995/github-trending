@@ -1,18 +1,18 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,3
-52281283,mastodon/mastodon,Ruby,5
+65252,jekyll/jekyll,Ruby,5
+52281283,mastodon/mastodon,Ruby,8
 481872,hashicorp/vagrant,Ruby,7
 308770,heartcombo/devise,Ruby,4
-538746,ruby/ruby,Ruby,10
+538746,ruby/ruby,Ruby,8
 2203645,CocoaPods/CocoaPods,Ruby,1
 1090311,elastic/logstash,Ruby,0
 4095287,rubocop/rubocop,Ruby,7
 1918677,fluent/fluentd,Ruby,2
 96395,faker-ruby/faker,Ruby,3
-1725199,github/linguist,Ruby,2
+1725199,github/linguist,Ruby,1
 15435,Shopify/liquid,Ruby,2
 812393,ruby-grape/grape,Ruby,1
-21829,thoughtbot/factory_bot,Ruby,1
+21829,thoughtbot/factory_bot,Ruby,0
 535266,vcr/vcr,Ruby,2
 30337170,rmosolgo/graphql-ruby,Ruby,1
 79352,mikel/mail,Ruby,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 138776049,sorbet/sorbet,Ruby,4
 10088951,TheOdinProject/theodinproject,Ruby,4
 9831101,elastic/elasticsearch-ruby,Ruby,0
-502760,danbooru/danbooru,Ruby,4
+502760,danbooru/danbooru,Ruby,5
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,1
-3276877,ThrowTheSwitch/Ceedling,Ruby,1
+3276877,ThrowTheSwitch/Ceedling,Ruby,2
 375321926,learn-co-curriculum/phase-4-deploying-demo-app,Ruby,0
