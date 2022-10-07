@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,80
-3482588,danielmiessler/SecLists,PHP,161
+1863329,laravel/laravel,PHP,81
+3482588,danielmiessler/SecLists,PHP,160
 7548986,laravel/framework,PHP,71
 458058,symfony/symfony,PHP,31
 2253830,PHPMailer/PHPMailer,PHP,29
-1548202,matomo-org/matomo,PHP,36
+1548202,matomo-org/matomo,PHP,35
 2889328,WordPress/WordPress,PHP,31
 61490598,PHPOffice/PhpSpreadsheet,PHP,26
 14716368,invoiceninja/invoiceninja,PHP,13
@@ -13,14 +13,14 @@ id,name,lang,new stars
 76064827,mailcow/mailcow-dockerized,PHP,26
 74386167,vimeo/psalm,PHP,14
 148129143,bagisto/bagisto,PHP,40
-248372441,filamentphp/filament,PHP,68
+248372441,filamentphp/filament,PHP,70
 439861,moodle/moodle,PHP,13
 47508644,pterodactyl/panel,PHP,27
-351298555,thedevdojo/wave,PHP,24
+351298555,thedevdojo/wave,PHP,25
 141720301,dr5hn/countries-states-cities-database,PHP,35
-39182755,glpi-project/glpi,PHP,19
-74026995,CodelyTV/php-ddd-example,PHP,17
+39182755,glpi-project/glpi,PHP,18
+74026995,CodelyTV/php-ddd-example,PHP,16
 111562942,statamic/cms,PHP,20
 143975804,LycheeOrg/Lychee,PHP,314
-459095253,JulianPrieber/littlelink-custom,PHP,37
-541322916,openai-php/client,PHP,65
+459095253,JulianPrieber/littlelink-custom,PHP,40
+541322916,openai-php/client,PHP,63
