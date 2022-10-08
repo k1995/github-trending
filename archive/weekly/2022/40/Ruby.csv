@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,46
 7569578,discourse/discourse,Ruby,50
-53238813,Homebrew/brew,Ruby,90
-52281283,mastodon/mastodon,Ruby,51
-481872,hashicorp/vagrant,Ruby,39
+53238813,Homebrew/brew,Ruby,89
+52281283,mastodon/mastodon,Ruby,53
+481872,hashicorp/vagrant,Ruby,40
 308770,heartcombo/devise,Ruby,24
-73648678,forem/forem,Ruby,50
+73648678,forem/forem,Ruby,48
 538746,ruby/ruby,Ruby,29
-18486300,lewagon/setup,Ruby,163
+18486300,lewagon/setup,Ruby,160
 3195124,mperham/sidekiq,Ruby,21
 4095287,rubocop/rubocop,Ruby,15
 96395,faker-ruby/faker,Ruby,12
@@ -17,7 +17,7 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,6
 447184,rspec/rspec-rails,Ruby,5
 3898922,zammad/zammad,Ruby,11
-11426474,github/choosealicense.com,Ruby,15
+11426474,github/choosealicense.com,Ruby,14
 200302808,ViewComponent/view_component,Ruby,13
 10088951,TheOdinProject/theodinproject,Ruby,12
 212813096,lewagon/data-setup,Ruby,5

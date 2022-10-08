@@ -1,26 +1,26 @@
 id,name,lang,new stars
-41881900,microsoft/vscode,TypeScript,60
+41881900,microsoft/vscode,TypeScript,90
 23088740,axios/axios,JavaScript,90
-184456251,microsoft/PowerToys,C#,131
-71583602,Developer-Y/cs-video-courses,,353
+184456251,microsoft/PowerToys,C#,127
+71583602,Developer-Y/cs-video-courses,,274
 17728164,hashicorp/terraform,Go,53
 154950925,streamich/react-use,TypeScript,135
-108761645,nocodb/nocodb,TypeScript,239
-125266328,psf/black,Python,78
-44150497,remoteintech/remote-jobs,JavaScript,374
+108761645,nocodb/nocodb,TypeScript,140
+125266328,psf/black,Python,83
+44150497,remoteintech/remote-jobs,JavaScript,366
 323048702,OpenBB-finance/OpenBBTerminal,Python,61
 162405963,gradio-app/gradio,Python,119
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,747
 66474729,prowler-cloud/prowler,Shell,34
-368390355,vaxilu/x-ui,JavaScript,40
+368390355,vaxilu/x-ui,JavaScript,47
 498011141,huggingface/diffusers,Python,68
-331293626,pankod/refine,TypeScript,174
+331293626,pankod/refine,TypeScript,128
 531976789,opa334/TrollStore,Objective-C,109
-102689445,mattermost/mattermost-webapp,TypeScript,12
-265775217,bnb-chain/bsc,Go,21
-539939523,deepmind/alphatensor,Python,190
-546476703,ashawkey/stable-dreamfusion,Python,341
-418718534,mrdbourke/pytorch-deep-learning,Jupyter Notebook,67
-543276238,libsql/libsql,C,264
-402450742,xcad2k/cheat-sheets,,151
-517191221,DroidKaigi/conference-app-2022,Kotlin,14
+102689445,mattermost/mattermost-webapp,TypeScript,34
+265775217,bnb-chain/bsc,Go,23
+539939523,deepmind/alphatensor,Python,171
+546476703,ashawkey/stable-dreamfusion,Python,286
+418718534,mrdbourke/pytorch-deep-learning,Jupyter Notebook,79
+543276238,libsql/libsql,C,241
+402450742,xcad2k/cheat-sheets,,139
+517191221,DroidKaigi/conference-app-2022,Kotlin,15
