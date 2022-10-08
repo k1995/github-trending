@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,146
+2325298,torvalds/linux,C,143
 5101141,stedolan/jq,C,11
 45821540,openwrt/openwrt,C,7
-78281075,SpacehuhnTech/esp8266_deauther,C,7
-179354282,acidanthera/OpenCorePkg,C,6
+78281075,SpacehuhnTech/esp8266_deauther,C,6
+179354282,acidanthera/OpenCorePkg,C,5
 65899476,espressif/esp-idf,C,6
 53614190,eclipse/mosquitto,C,0
 31791482,microsoft/Windows-driver-samples,C,3
 400501136,deepmind/mujoco,C,4
-1252864,nelhage/reptyr,C,9
+1252864,nelhage/reptyr,C,8
 27818365,dokan-dev/dokany,C,4
-21977691,seL4/seL4,C,4
+21977691,seL4/seL4,C,5
 31570906,openvenues/libpostal,C,3
 6860771,hathach/tinyusb,C,2
 189044704,AFLplusplus/AFLplusplus,C,2
@@ -19,7 +19,7 @@ id,name,lang,new stars
 14313288,pgbackrest/pgbackrest,C,2
 33784533,asterisk/asterisk,C,0
 191266671,algorand/go-algorand,C,1
-543276238,libsql/libsql,C,304
+543276238,libsql/libsql,C,296
 342120988,earlephilhower/arduino-pico,C,1
 329933755,pimoroni/pimoroni-pico,C,3
 53432472,sonic-net/sonic-buildimage,C,0
