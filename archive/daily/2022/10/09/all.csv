@@ -1,26 +1,26 @@
 id,name,lang,new stars
-41881900,microsoft/vscode,TypeScript,124
-23088740,axios/axios,JavaScript,86
-184456251,microsoft/PowerToys,C#,121
-71583602,Developer-Y/cs-video-courses,,226
-17728164,hashicorp/terraform,Go,82
-154950925,streamich/react-use,TypeScript,143
-108761645,nocodb/nocodb,TypeScript,149
-125266328,psf/black,Python,78
-44150497,remoteintech/remote-jobs,JavaScript,346
-323048702,OpenBB-finance/OpenBBTerminal,Python,92
-162405963,gradio-app/gradio,Python,111
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,822
-66474729,prowler-cloud/prowler,Shell,93
-368390355,vaxilu/x-ui,JavaScript,48
-498011141,huggingface/diffusers,Python,81
-331293626,pankod/refine,TypeScript,119
-531976789,opa334/TrollStore,Objective-C,122
-102689445,mattermost/mattermost-webapp,TypeScript,58
-265775217,bnb-chain/bsc,Go,31
-546476703,ashawkey/stable-dreamfusion,Python,283
-539939523,deepmind/alphatensor,Python,175
-418718534,mrdbourke/pytorch-deep-learning,Jupyter Notebook,116
-543276238,libsql/libsql,C,226
-402450742,xcad2k/cheat-sheets,,120
-517191221,DroidKaigi/conference-app-2022,Kotlin,23
+13491895,EbookFoundation/free-programming-books,,105
+108761645,nocodb/nocodb,TypeScript,163
+146633589,alibaba/arthas,Java,8
+523379232,CompVis/stable-diffusion,Jupyter Notebook,309
+281975310,type-challenges/type-challenges,TypeScript,33
+18723836,dromara/hutool,Java,16
+349321229,TencentARC/GFPGAN,Python,57
+44150497,remoteintech/remote-jobs,JavaScript,335
+278772719,vbenjs/vue-vben-admin,Vue,28
+16479108,wagtail/wagtail,Python,13
+323965659,alist-org/alist,Go,80
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,844
+35129809,transmission/transmission,C++,60
+332357698,YunaiV/ruoyi-vue-pro,Java,15
+275386910,soxoj/maigret,Python,895
+331293626,pankod/refine,TypeScript,127
+224468265,dail8859/NotepadNext,C++,185
+322324704,CompVis/taming-transformers,Jupyter Notebook,14
+407722319,heejkoo/Awesome-Diffusion-Models,,159
+476957520,AmazingAng/WTF-Solidity,Solidity,80
+102689445,mattermost/mattermost-webapp,TypeScript,69
+546476703,ashawkey/stable-dreamfusion,Python,289
+543276238,libsql/libsql,C,235
+534779800,bloc97/CrossAttentionControl,Jupyter Notebook,27
+547231152,relt-1/czeditor,Python,4
