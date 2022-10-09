@@ -1,19 +1,19 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,10
-52281283,mastodon/mastodon,Ruby,13
+27442967,fastlane/fastlane,Ruby,9
+52281283,mastodon/mastodon,Ruby,17
 481872,hashicorp/vagrant,Ruby,4
-308770,heartcombo/devise,Ruby,1
+308770,heartcombo/devise,Ruby,4
 73648678,forem/forem,Ruby,4
-538746,ruby/ruby,Ruby,3
+538746,ruby/ruby,Ruby,2
 18486300,lewagon/setup,Ruby,50
-11423758,mame/quine-relay,Ruby,10
+11423758,mame/quine-relay,Ruby,14
 138312,capistrano/capistrano,Ruby,0
-3195124,mperham/sidekiq,Ruby,3
+3195124,mperham/sidekiq,Ruby,4
 4095287,rubocop/rubocop,Ruby,0
 812393,ruby-grape/grape,Ruby,0
 451035,heartcombo/simple_form,Ruby,1
 108278,chef/chef,Ruby,3
-6899875,opf/openproject,Ruby,1
+6899875,opf/openproject,Ruby,0
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
 6768710,redmine/redmine,Ruby,1
 2861056,rails/jbuilder,Ruby,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,4
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,0
 212813096,lewagon/data-setup,Ruby,1
-502760,danbooru/danbooru,Ruby,1
+502760,danbooru/danbooru,Ruby,0
 29151578,rswag/rswag,Ruby,1
-537409787,Shopify/pitchfork,Ruby,17
+537409787,Shopify/pitchfork,Ruby,14
