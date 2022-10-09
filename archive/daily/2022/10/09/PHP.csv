@@ -1,8 +1,8 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,6
+7548986,laravel/framework,PHP,7
 458058,symfony/symfony,PHP,2
 2579314,fzaninotto/Faker,PHP,0
-60243197,nextcloud/server,PHP,11
+60243197,nextcloud/server,PHP,10
 1376664,Seldaek/monolog,PHP,2
 448045,sebastianbergmann/phpunit,PHP,4
 47495360,koel/koel,PHP,8
@@ -19,7 +19,7 @@ id,name,lang,new stars
 14716368,invoiceninja/invoiceninja,PHP,4
 4551765,thephpleague/oauth2-server,PHP,1
 248372441,filamentphp/filament,PHP,7
-41463886,codeigniter4/CodeIgniter4,PHP,4
+41463886,codeigniter4/CodeIgniter4,PHP,5
 1398629,symfony/config,PHP,0
 2686502,pimcore/pimcore,PHP,0
 75645659,WordPress/wordpress-develop,PHP,2

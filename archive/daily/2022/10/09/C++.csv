@@ -1,12 +1,12 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,20
-39840932,google/googletest,C++,18
+39840932,google/googletest,C++,19
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,9
-65214191,envoyproxy/envoy,C++,7
+65214191,envoyproxy/envoy,C++,8
 81227005,facebookresearch/faiss,C++,14
-26038648,gabime/spdlog,C++,15
+26038648,gabime/spdlog,C++,14
 81887991,microsoft/AirSim,C++,2
-437245741,dragonflydb/dragonfly,C++,57
+437245741,dragonflydb/dragonfly,C++,56
 51905353,apache/arrow,C++,5
 267649918,hoffstadt/DearPyGui,C++,14
 189205663,qinguoyi/TinyWebServer,C++,16
@@ -17,10 +17,10 @@ id,name,lang,new stars
 156939672,microsoft/onnxruntime,C++,4
 7232856,AGWA/git-crypt,C++,7
 23496542,openai/triton,C++,3
-224468265,dail8859/NotepadNext,C++,34
+224468265,dail8859/NotepadNext,C++,33
 156787357,microsoft/SEAL,C++,1
-388946490,facebookincubator/velox,C++,10
-521191759,ProjectPhysX/FluidX3D,C++,22
+388946490,facebookincubator/velox,C++,9
+521191759,ProjectPhysX/FluidX3D,C++,23
 546448121,D1rkMtr/ObfLoader,C++,24
 543945779,Mridul-1-Sharma/Hacktoberfest2022-DataStructuresAndAlgorithms,C++,5
 374853398,Shubhamlmp/Programming-Practice,C++,9
