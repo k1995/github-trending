@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,48
-7569578,discourse/discourse,Ruby,49
-53238813,Homebrew/brew,Ruby,85
-52281283,mastodon/mastodon,Ruby,59
+8514,rails/rails,Ruby,47
+7569578,discourse/discourse,Ruby,48
+53238813,Homebrew/brew,Ruby,86
+52281283,mastodon/mastodon,Ruby,61
 481872,hashicorp/vagrant,Ruby,41
-308770,heartcombo/devise,Ruby,29
-73648678,forem/forem,Ruby,47
+308770,heartcombo/devise,Ruby,28
+73648678,forem/forem,Ruby,46
 538746,ruby/ruby,Ruby,27
-18486300,lewagon/setup,Ruby,157
-3195124,mperham/sidekiq,Ruby,23
+18486300,lewagon/setup,Ruby,155
+3195124,mperham/sidekiq,Ruby,22
 4095287,rubocop/rubocop,Ruby,16
-96395,faker-ruby/faker,Ruby,13
+96395,faker-ruby/faker,Ruby,12
 361310,teamcapybara/capybara,Ruby,7
 611921,activeadmin/activeadmin,Ruby,4
 21829,thoughtbot/factory_bot,Ruby,7
@@ -21,6 +21,6 @@ id,name,lang,new stars
 200302808,ViewComponent/view_component,Ruby,14
 10088951,TheOdinProject/theodinproject,Ruby,12
 212813096,lewagon/data-setup,Ruby,5
-502760,danbooru/danbooru,Ruby,27
+502760,danbooru/danbooru,Ruby,28
 238986,rspec/rspec-expectations,Ruby,2
 375321926,learn-co-curriculum/phase-4-deploying-demo-app,Ruby,0

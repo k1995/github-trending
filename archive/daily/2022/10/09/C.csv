@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,70
-18666758,pjreddie/darknet,C,3
-29759715,facebook/zstd,C,6
-23515024,octalmage/robotjs,C,4
-60667730,lvgl/lvgl,C,8
-39242894,coturn/coturn,C,3
-4151993,OpenVPN/openvpn,C,3
-14902556,offensive-security/exploitdb,C,3
+2325298,torvalds/linux,C,61
+18666758,pjreddie/darknet,C,7
+29759715,facebook/zstd,C,8
+23515024,octalmage/robotjs,C,3
+60667730,lvgl/lvgl,C,7
+39242894,coturn/coturn,C,2
+4151993,OpenVPN/openvpn,C,4
+14902556,offensive-security/exploitdb,C,2
 2997204,openwall/john,C,6
-200321698,rui314/chibicc,C,11
+200321698,rui314/chibicc,C,12
 5870069,edenhill/librdkafka,C,1
 187922067,microsoft/WSL2-Linux-Kernel,C,4
 59676171,Klipper3d/klipper,C,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 204459250,mit-pdos/xv6-riscv,C,9
 71643008,Palakis/obs-ndi,C,3
 31374735,fwupd/fwupd,C,1
-472575717,HarbourMasters/Shipwright,C,1
-15768646,vedderb/bldc,C,3
+472575717,HarbourMasters/Shipwright,C,2
+15768646,vedderb/bldc,C,4
 543276238,libsql/libsql,C,226
 127718181,espressif/esp-adf,C,0
 53432472,sonic-net/sonic-buildimage,C,1
-423410927,epeth0mus/Fugu15,C,3
+423410927,epeth0mus/Fugu15,C,2
 544296360,Edwinliby/Hacktoberfest2022,C,11

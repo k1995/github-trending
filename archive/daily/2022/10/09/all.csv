@@ -1,26 +1,26 @@
 id,name,lang,new stars
-41881900,microsoft/vscode,TypeScript,102
+41881900,microsoft/vscode,TypeScript,124
 23088740,axios/axios,JavaScript,86
-184456251,microsoft/PowerToys,C#,116
+184456251,microsoft/PowerToys,C#,121
 71583602,Developer-Y/cs-video-courses,,226
-17728164,hashicorp/terraform,Go,76
-154950925,streamich/react-use,TypeScript,122
+17728164,hashicorp/terraform,Go,82
+154950925,streamich/react-use,TypeScript,143
 108761645,nocodb/nocodb,TypeScript,149
-125266328,psf/black,Python,79
+125266328,psf/black,Python,78
 44150497,remoteintech/remote-jobs,JavaScript,346
 323048702,OpenBB-finance/OpenBBTerminal,Python,92
-162405963,gradio-app/gradio,Python,106
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,816
-66474729,prowler-cloud/prowler,Shell,89
-368390355,vaxilu/x-ui,JavaScript,46
-498011141,huggingface/diffusers,Python,77
-331293626,pankod/refine,TypeScript,130
-531976789,opa334/TrollStore,Objective-C,126
-102689445,mattermost/mattermost-webapp,TypeScript,44
-265775217,bnb-chain/bsc,Go,32
-546476703,ashawkey/stable-dreamfusion,Python,286
-539939523,deepmind/alphatensor,Python,174
-418718534,mrdbourke/pytorch-deep-learning,Jupyter Notebook,88
-543276238,libsql/libsql,C,236
-402450742,xcad2k/cheat-sheets,,133
-517191221,DroidKaigi/conference-app-2022,Kotlin,19
+162405963,gradio-app/gradio,Python,111
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,822
+66474729,prowler-cloud/prowler,Shell,93
+368390355,vaxilu/x-ui,JavaScript,48
+498011141,huggingface/diffusers,Python,81
+331293626,pankod/refine,TypeScript,119
+531976789,opa334/TrollStore,Objective-C,122
+102689445,mattermost/mattermost-webapp,TypeScript,58
+265775217,bnb-chain/bsc,Go,31
+546476703,ashawkey/stable-dreamfusion,Python,283
+539939523,deepmind/alphatensor,Python,175
+418718534,mrdbourke/pytorch-deep-learning,Jupyter Notebook,116
+543276238,libsql/libsql,C,226
+402450742,xcad2k/cheat-sheets,,120
+517191221,DroidKaigi/conference-app-2022,Kotlin,23
