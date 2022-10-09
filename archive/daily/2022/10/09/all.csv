@@ -1,26 +1,26 @@
 id,name,lang,new stars
-13491895,EbookFoundation/free-programming-books,,105
+13491895,EbookFoundation/free-programming-books,,140
 108761645,nocodb/nocodb,TypeScript,149
-146633589,alibaba/arthas,Java,8
-523379232,CompVis/stable-diffusion,Jupyter Notebook,308
+146633589,alibaba/arthas,Java,12
+523379232,CompVis/stable-diffusion,Jupyter Notebook,316
 281975310,type-challenges/type-challenges,TypeScript,34
-18723836,dromara/hutool,Java,15
+18723836,dromara/hutool,Java,39
 349321229,TencentARC/GFPGAN,Python,57
-44150497,remoteintech/remote-jobs,JavaScript,346
+44150497,remoteintech/remote-jobs,JavaScript,315
 278772719,vbenjs/vue-vben-admin,Vue,28
-16479108,wagtail/wagtail,Python,13
+16479108,wagtail/wagtail,Python,27
 323965659,alist-org/alist,Go,80
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,816
-35129809,transmission/transmission,C++,60
-332357698,YunaiV/ruoyi-vue-pro,Java,15
-275386910,soxoj/maigret,Python,895
-331293626,pankod/refine,TypeScript,142
+35129809,transmission/transmission,C++,59
+332357698,YunaiV/ruoyi-vue-pro,Java,33
+275386910,soxoj/maigret,Python,569
+331293626,pankod/refine,TypeScript,130
 224468265,dail8859/NotepadNext,C++,185
+407722319,heejkoo/Awesome-Diffusion-Models,,124
 322324704,CompVis/taming-transformers,Jupyter Notebook,14
-407722319,heejkoo/Awesome-Diffusion-Models,,159
-476957520,AmazingAng/WTF-Solidity,Solidity,77
+476957520,AmazingAng/WTF-Solidity,Solidity,74
 102689445,mattermost/mattermost-webapp,TypeScript,69
 546476703,ashawkey/stable-dreamfusion,Python,286
-543276238,libsql/libsql,C,236
-534779800,bloc97/CrossAttentionControl,Jupyter Notebook,27
-547231152,relt-1/czeditor,Python,3
+543276238,libsql/libsql,C,210
+534779800,bloc97/CrossAttentionControl,Jupyter Notebook,42
+547231152,relt-1/czeditor,Python,8
