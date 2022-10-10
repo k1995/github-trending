@@ -1,20 +1,20 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,19
-60243197,nextcloud/server,PHP,7
-2253830,PHPMailer/PHPMailer,PHP,6
+3482588,danielmiessler/SecLists,PHP,22
+60243197,nextcloud/server,PHP,9
+2253830,PHPMailer/PHPMailer,PHP,5
 448045,sebastianbergmann/phpunit,PHP,2
 12615154,barryvdh/laravel-debugbar,PHP,4
 47495360,koel/koel,PHP,7
-26730195,CachetHQ/Cachet,PHP,2
+26730195,CachetHQ/Cachet,PHP,3
 72069409,the-control-group/voyager,PHP,0
-2699935,squizlabs/PHP_CodeSniffer,PHP,3
-11467667,typecho/typecho,PHP,3
+2699935,squizlabs/PHP_CodeSniffer,PHP,5
+11467667,typecho/typecho,PHP,1
 9193949,wallabag/wallabag,PHP,0
-119047018,linuxserver/Heimdall,PHP,9
+119047018,linuxserver/Heimdall,PHP,6
 248372441,filamentphp/filament,PHP,7
 47508644,pterodactyl/panel,PHP,1
-4380514,Audi-1/sqli-labs,PHP,1
-129852395,assimon/dujiaoka,PHP,4
+4380514,Audi-1/sqli-labs,PHP,2
+129852395,assimon/dujiaoka,PHP,2
 286645686,yuantuo666/baiduwp-php,PHP,2
 17722440,Rudloff/alltube,PHP,2
 142127816,zhuifengshaonianhanlu/pikachu,PHP,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 75645659,WordPress/wordpress-develop,PHP,1
 277068533,TheAlgorithms/PHP,PHP,3
 191494531,warifp/FacebookToolkit,PHP,3
-278767494,maxdenaro/maxgraph-youtube-source,PHP,2
+278767494,maxdenaro/maxgraph-youtube-source,PHP,1
