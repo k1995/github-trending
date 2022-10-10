@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,80
-7548986,laravel/framework,PHP,64
+1863329,laravel/laravel,PHP,79
+7548986,laravel/framework,PHP,61
 458058,symfony/symfony,PHP,37
-60243197,nextcloud/server,PHP,66
+60243197,nextcloud/server,PHP,70
 2253830,PHPMailer/PHPMailer,PHP,28
 1548202,matomo-org/matomo,PHP,39
 47495360,koel/koel,PHP,37
 13899674,thephpleague/flysystem,PHP,13
-61490598,PHPOffice/PhpSpreadsheet,PHP,28
+61490598,PHPOffice/PhpSpreadsheet,PHP,27
 11340559,deployphp/deployer,PHP,24
 597887,doctrine/orm,PHP,12
 656494,cakephp/cakephp,PHP,6
@@ -15,12 +15,12 @@ id,name,lang,new stars
 14716368,invoiceninja/invoiceninja,PHP,22
 3217621,phpmyadmin/phpmyadmin,PHP,9
 74386167,vimeo/psalm,PHP,16
-119047018,linuxserver/Heimdall,PHP,49
+119047018,linuxserver/Heimdall,PHP,48
 148129143,bagisto/bagisto,PHP,36
-248372441,filamentphp/filament,PHP,65
-47508644,pterodactyl/panel,PHP,24
-141720301,dr5hn/countries-states-cities-database,PHP,41
+248372441,filamentphp/filament,PHP,63
+47508644,pterodactyl/panel,PHP,22
+141720301,dr5hn/countries-states-cities-database,PHP,42
 39182755,glpi-project/glpi,PHP,16
 307018731,DenverCoder1/github-readme-streak-stats,PHP,31
 410524724,nunomaduro/termwind,PHP,13
-459095253,JulianPrieber/littlelink-custom,PHP,67
+459095253,JulianPrieber/littlelink-custom,PHP,66
