@@ -1,7 +1,7 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,52
-156018,redis/redis,C,16
-246335987,ventoy/Ventoy,C,25
+111583593,Genymobile/scrcpy,C,49
+156018,redis/redis,C,17
+246335987,ventoy/Ventoy,C,28
 6201092,mpv-player/mpv,C,9
 14812739,libuv/libuv,C,4
 37912398,nginx/nginx,C,9
@@ -21,6 +21,6 @@ id,name,lang,new stars
 151870364,xiaorouji/openwrt-passwall,C,4
 204459250,mit-pdos/xv6-riscv,C,6
 61737765,winscp/winscp,C,8
-211756905,MarlinFirmware/Configurations,C,1
 543276238,libsql/libsql,C,207
-270692521,zmkfirmware/zmk,C,2
+211756905,MarlinFirmware/Configurations,C,1
+270692521,zmkfirmware/zmk,C,3

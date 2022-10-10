@@ -1,9 +1,9 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,18
-60243197,nextcloud/server,PHP,7
+3482588,danielmiessler/SecLists,PHP,17
+60243197,nextcloud/server,PHP,8
 2253830,PHPMailer/PHPMailer,PHP,8
 448045,sebastianbergmann/phpunit,PHP,1
-12615154,barryvdh/laravel-debugbar,PHP,5
+12615154,barryvdh/laravel-debugbar,PHP,4
 47495360,koel/koel,PHP,6
 26730195,CachetHQ/Cachet,PHP,1
 72069409,the-control-group/voyager,PHP,0
@@ -11,16 +11,16 @@ id,name,lang,new stars
 11467667,typecho/typecho,PHP,3
 9193949,wallabag/wallabag,PHP,1
 119047018,linuxserver/Heimdall,PHP,8
-248372441,filamentphp/filament,PHP,3
+248372441,filamentphp/filament,PHP,6
 47508644,pterodactyl/panel,PHP,0
 4380514,Audi-1/sqli-labs,PHP,1
 129852395,assimon/dujiaoka,PHP,4
 286645686,yuantuo666/baiduwp-php,PHP,2
 17722440,Rudloff/alltube,PHP,2
-142127816,zhuifengshaonianhanlu/pikachu,PHP,3
-57463067,AzuraCast/AzuraCast,PHP,0
+142127816,zhuifengshaonianhanlu/pikachu,PHP,4
+57463067,AzuraCast/AzuraCast,PHP,3
 404921727,luolongfei/freenom,PHP,4
 75645659,WordPress/wordpress-develop,PHP,1
 277068533,TheAlgorithms/PHP,PHP,4
-191494531,warifp/FacebookToolkit,PHP,2
+191494531,warifp/FacebookToolkit,PHP,3
 278767494,maxdenaro/maxgraph-youtube-source,PHP,2

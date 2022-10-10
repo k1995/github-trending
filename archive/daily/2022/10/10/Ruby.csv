@@ -1,13 +1,13 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,8
+65252,jekyll/jekyll,Ruby,9
 27442967,fastlane/fastlane,Ruby,4
-52281283,mastodon/mastodon,Ruby,16
-13840241,freeCodeCamp/devdocs,Ruby,12
-2293158,rapid7/metasploit-framework,Ruby,10
+52281283,mastodon/mastodon,Ruby,18
+13840241,freeCodeCamp/devdocs,Ruby,13
+2293158,rapid7/metasploit-framework,Ruby,9
 21696302,matteocrippa/awesome-swift,Ruby,3
-538746,ruby/ruby,Ruby,0
+538746,ruby/ruby,Ruby,1
 18486300,lewagon/setup,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,4
+202291859,chatwoot/chatwoot,Ruby,2
 15435,Shopify/liquid,Ruby,2
 108278,chef/chef,Ruby,3
 6899875,opf/openproject,Ruby,3
@@ -18,7 +18,7 @@ id,name,lang,new stars
 212813096,lewagon/data-setup,Ruby,0
 18935740,ifmeorg/ifme,Ruby,1
 8154497,rubysec/ruby-advisory-db,Ruby,0
-6485446,ebobby/has-many-with-set,Ruby,0
+6485446,ebobby/has-many-with-set,Ruby,1
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
 386891251,TheOdinProject/custom_enumerable_project,Ruby,0
 276178071,appdev-projects/if-statements-chapter,Ruby,0

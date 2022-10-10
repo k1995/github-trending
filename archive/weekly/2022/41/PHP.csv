@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,86
+1863329,laravel/laravel,PHP,87
 7548986,laravel/framework,PHP,69
 60243197,nextcloud/server,PHP,69
 2253830,PHPMailer/PHPMailer,PHP,31
-1548202,matomo-org/matomo,PHP,34
-47495360,koel/koel,PHP,31
+1548202,matomo-org/matomo,PHP,37
+47495360,koel/koel,PHP,32
 13899674,thephpleague/flysystem,PHP,11
-7769432,vlucas/phpdotenv,PHP,24
+7769432,vlucas/phpdotenv,PHP,25
 11340559,deployphp/deployer,PHP,25
 597887,doctrine/orm,PHP,9
 656494,cakephp/cakephp,PHP,6
@@ -14,13 +14,13 @@ id,name,lang,new stars
 14716368,invoiceninja/invoiceninja,PHP,23
 3217621,phpmyadmin/phpmyadmin,PHP,10
 74386167,vimeo/psalm,PHP,16
-119047018,linuxserver/Heimdall,PHP,47
+119047018,linuxserver/Heimdall,PHP,49
 148129143,bagisto/bagisto,PHP,41
-248372441,filamentphp/filament,PHP,63
-47508644,pterodactyl/panel,PHP,25
+248372441,filamentphp/filament,PHP,66
+47508644,pterodactyl/panel,PHP,26
 141720301,dr5hn/countries-states-cities-database,PHP,38
 1957456,Dolibarr/dolibarr,PHP,19
 204114509,solstice23/argon-theme,PHP,22
 131995661,shopware/platform,PHP,12
-307018731,DenverCoder1/github-readme-streak-stats,PHP,33
+307018731,DenverCoder1/github-readme-streak-stats,PHP,32
 459095253,JulianPrieber/littlelink-custom,PHP,67

@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,46
-7569578,discourse/discourse,Ruby,49
+8514,rails/rails,Ruby,45
+7569578,discourse/discourse,Ruby,50
 53238813,Homebrew/brew,Ruby,89
-52281283,mastodon/mastodon,Ruby,66
+52281283,mastodon/mastodon,Ruby,72
 481872,hashicorp/vagrant,Ruby,40
-308770,heartcombo/devise,Ruby,25
-73648678,forem/forem,Ruby,40
-538746,ruby/ruby,Ruby,24
-18486300,lewagon/setup,Ruby,144
+308770,heartcombo/devise,Ruby,26
+73648678,forem/forem,Ruby,39
+538746,ruby/ruby,Ruby,25
+18486300,lewagon/setup,Ruby,133
 3195124,mperham/sidekiq,Ruby,20
-96395,faker-ruby/faker,Ruby,14
+96395,faker-ruby/faker,Ruby,15
 611921,activeadmin/activeadmin,Ruby,3
 30337170,rmosolgo/graphql-ruby,Ruby,6
 447184,rspec/rspec-rails,Ruby,6
@@ -17,9 +17,9 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,10
 11426474,github/choosealicense.com,Ruby,16
 93163073,dependabot/dependabot-core,Ruby,18
-10088951,TheOdinProject/theodinproject,Ruby,12
+10088951,TheOdinProject/theodinproject,Ruby,11
 212813096,lewagon/data-setup,Ruby,5
-502760,danbooru/danbooru,Ruby,29
+502760,danbooru/danbooru,Ruby,28
 238986,rspec/rspec-expectations,Ruby,1
 225463,Shopify/shopify-api-ruby,Ruby,3
 433874407,saeloun/miru-web,Ruby,13
