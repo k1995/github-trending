@@ -12,7 +12,7 @@ id,name,lang,new stars
 226408450,neovide/neovide,Rust,12
 372172254,tokio-rs/axum,Rust,18
 129990396,sunface/rust-by-practice,Rust,12
-148686316,gfx-rs/wgpu,Rust,19
+148686316,gfx-rs/wgpu,Rust,21
 414585797,0x192/universal-android-debloater,Rust,46
 329782568,DioxusLabs/dioxus,Rust,16
 302827809,datafuselabs/databend,Rust,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 480592723,move-language/move,Rust,4
 241277775,CleanCut/ultimate_rust_crash_course,Rust,32
 425736647,massalabs/massa,Rust,66
-530993581,DeGatchi/mev-template-rs,Rust,16
+530993581,DeGatchi/mev-template-rs,Rust,14
 547075206,sarah-ek/pulp,Rust,30

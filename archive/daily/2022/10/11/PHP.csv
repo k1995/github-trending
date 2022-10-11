@@ -1,6 +1,6 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,4
-2253830,PHPMailer/PHPMailer,PHP,4
+2253830,PHPMailer/PHPMailer,PHP,5
 1631570,nikic/PHP-Parser,PHP,2
 12615154,barryvdh/laravel-debugbar,PHP,3
 47495360,koel/koel,PHP,8
@@ -12,7 +12,7 @@ id,name,lang,new stars
 9791525,digininja/DVWA,PHP,2
 3217621,phpmyadmin/phpmyadmin,PHP,2
 95011974,akaunting/akaunting,PHP,15
-119047018,linuxserver/Heimdall,PHP,4
+119047018,linuxserver/Heimdall,PHP,5
 6322699,FreshRSS/FreshRSS,PHP,3
 265782973,hlmd/Postman-cn,PHP,3
 47508644,pterodactyl/panel,PHP,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 142127816,zhuifengshaonianhanlu/pikachu,PHP,2
 311448648,laravel/breeze,PHP,0
 279739423,Licoy/wordpress-theme-puock,PHP,3
-433383766,nextcloud/all-in-one,PHP,3
+433383766,nextcloud/all-in-one,PHP,2
 184538454,yankovalenko94/Webdev2019,PHP,0
