@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,15
-458058,symfony/symfony,PHP,1
+1863329,laravel/laravel,PHP,16
+458058,symfony/symfony,PHP,2
 1420053,guzzle/guzzle,PHP,5
-2253830,PHPMailer/PHPMailer,PHP,9
+2253830,PHPMailer/PHPMailer,PHP,8
 82238168,monicahq/monica,PHP,5
 47495360,koel/koel,PHP,9
 61490598,PHPOffice/PhpSpreadsheet,PHP,7
-15020102,walkor/workerman,PHP,4
+15020102,walkor/workerman,PHP,5
 2699935,squizlabs/PHP_CodeSniffer,PHP,6
 597887,doctrine/orm,PHP,0
-6660366,dompdf/dompdf,PHP,5
+6660366,dompdf/dompdf,PHP,4
 622166,FriendsOfPHP/Goutte,PHP,3
 656494,cakephp/cakephp,PHP,2
 2179920,woocommerce/woocommerce,PHP,3
-364315,predis/predis,PHP,2
-6763587,PrestaShop/PrestaShop,PHP,4
+364315,predis/predis,PHP,0
+6763587,PrestaShop/PrestaShop,PHP,3
 9791525,digininja/DVWA,PHP,4
 95011974,akaunting/akaunting,PHP,10
 10883164,barryvdh/laravel-dompdf,PHP,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,2
 75645659,WordPress/wordpress-develop,PHP,3
 66762220,nextcloud/mail,PHP,2
-536956726,devaslanphp/help-desk,PHP,16
+536956726,devaslanphp/help-desk,PHP,12
