@@ -1,19 +1,19 @@
 id,name,lang,new stars
-135786093,typescript-cheatsheets/react,JavaScript,247
+135786093,typescript-cheatsheets/react,JavaScript,243
 154950925,streamich/react-use,TypeScript,1215
 108761645,nocodb/nocodb,TypeScript,909
 68720867,firstcontributions/first-contributions,,709
-37448451,mattermost/mattermost-server,Go,105
+37448451,mattermost/mattermost-server,Go,102
 349321229,TencentARC/GFPGAN,Python,459
 44150497,remoteintech/remote-jobs,JavaScript,1971
 233472199,massgravel/Microsoft-Activation-Scripts,Batchfile,834
 323048702,OpenBB-finance/OpenBBTerminal,Python,466
-197081291,iced-rs/iced,Rust,595
+197081291,iced-rs/iced,Rust,583
 153099672,inancgumus/learngo,Go,424
 268424739,helix-editor/helix,Rust,993
 437245741,dragonflydb/dragonfly,C++,402
 189621607,github/docs,JavaScript,176
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4796
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4908
 162405963,gradio-app/gradio,Python,499
 263727855,pola-rs/polars,Rust,370
 275386910,soxoj/maigret,Python,2890
@@ -22,5 +22,5 @@ id,name,lang,new stars
 514321895,facebookincubator/AITemplate,Python,1258
 265775217,bnb-chain/bsc,Go,95
 418718534,mrdbourke/pytorch-deep-learning,Jupyter Notebook,295
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,215
-534480768,williamyang1991/VToonify,Jupyter Notebook,431
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,212
+534480768,williamyang1991/VToonify,Jupyter Notebook,429
