@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,16
-458058,symfony/symfony,PHP,2
-1420053,guzzle/guzzle,PHP,5
-2253830,PHPMailer/PHPMailer,PHP,8
+1863329,laravel/laravel,PHP,15
+458058,symfony/symfony,PHP,1
+1420053,guzzle/guzzle,PHP,4
+2253830,PHPMailer/PHPMailer,PHP,7
 82238168,monicahq/monica,PHP,5
 47495360,koel/koel,PHP,9
 61490598,PHPOffice/PhpSpreadsheet,PHP,7
@@ -16,7 +16,7 @@ id,name,lang,new stars
 364315,predis/predis,PHP,0
 6763587,PrestaShop/PrestaShop,PHP,3
 9791525,digininja/DVWA,PHP,4
-95011974,akaunting/akaunting,PHP,10
+95011974,akaunting/akaunting,PHP,8
 10883164,barryvdh/laravel-dompdf,PHP,5
 248372441,filamentphp/filament,PHP,8
 62087941,nWidart/laravel-modules,PHP,1
