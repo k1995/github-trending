@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,15
+1863329,laravel/laravel,PHP,14
 458058,symfony/symfony,PHP,2
 1420053,guzzle/guzzle,PHP,6
-2253830,PHPMailer/PHPMailer,PHP,6
+2253830,PHPMailer/PHPMailer,PHP,5
 82238168,monicahq/monica,PHP,7
-47495360,koel/koel,PHP,9
+47495360,koel/koel,PHP,8
 61490598,PHPOffice/PhpSpreadsheet,PHP,6
 15020102,walkor/workerman,PHP,6
 2699935,squizlabs/PHP_CodeSniffer,PHP,6
@@ -12,15 +12,15 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,3
 622166,FriendsOfPHP/Goutte,PHP,4
 656494,cakephp/cakephp,PHP,1
-2179920,woocommerce/woocommerce,PHP,3
+2179920,woocommerce/woocommerce,PHP,1
 364315,predis/predis,PHP,1
 6763587,PrestaShop/PrestaShop,PHP,4
-9791525,digininja/DVWA,PHP,5
+9791525,digininja/DVWA,PHP,6
 95011974,akaunting/akaunting,PHP,9
 10883164,barryvdh/laravel-dompdf,PHP,5
-248372441,filamentphp/filament,PHP,9
+248372441,filamentphp/filament,PHP,10
 62087941,nWidart/laravel-modules,PHP,1
 439861,moodle/moodle,PHP,2
-75645659,WordPress/wordpress-develop,PHP,2
-66762220,nextcloud/mail,PHP,2
+75645659,WordPress/wordpress-develop,PHP,3
+66762220,nextcloud/mail,PHP,3
 536956726,devaslanphp/help-desk,PHP,8

@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,49
-65252,jekyll/jekyll,Ruby,52
+8514,rails/rails,Ruby,46
+65252,jekyll/jekyll,Ruby,51
 7569578,discourse/discourse,Ruby,51
 53238813,Homebrew/brew,Ruby,80
-52281283,mastodon/mastodon,Ruby,77
-2293158,rapid7/metasploit-framework,Ruby,70
+52281283,mastodon/mastodon,Ruby,74
+2293158,rapid7/metasploit-framework,Ruby,72
 481872,hashicorp/vagrant,Ruby,45
 308770,heartcombo/devise,Ruby,23
-73648678,forem/forem,Ruby,37
-18486300,lewagon/setup,Ruby,642
-3195124,mperham/sidekiq,Ruby,21
+73648678,forem/forem,Ruby,36
+18486300,lewagon/setup,Ruby,644
+3195124,mperham/sidekiq,Ruby,20
 106995,sinatra/sinatra,Ruby,13
 1918677,fluent/fluentd,Ruby,22
 96395,faker-ruby/faker,Ruby,22
-1725199,github/linguist,Ruby,33
+1725199,github/linguist,Ruby,34
 361310,teamcapybara/capybara,Ruby,7
 21829,thoughtbot/factory_bot,Ruby,9
 6899875,opf/openproject,Ruby,27
@@ -22,5 +22,5 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,12
 14238949,elastic/elasticsearch-rails,Ruby,8
 212813096,lewagon/data-setup,Ruby,6
-502760,danbooru/danbooru,Ruby,32
+502760,danbooru/danbooru,Ruby,34
 375321926,learn-co-curriculum/phase-4-deploying-demo-app,Ruby,0
