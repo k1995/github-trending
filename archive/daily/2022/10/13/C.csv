@@ -1,13 +1,13 @@
 id,name,lang,new stars
-156018,redis/redis,C,18
+156018,redis/redis,C,19
 10446890,bilibili/ijkplayer,C,2
 569041,curl/curl,C,5
-14812739,libuv/libuv,C,8
+14812739,libuv/libuv,C,6
 196353673,taosdata/TDengine,C,13
 34921116,iovisor/bcc,C,8
-140656,jonas/tig,C,4
+140656,jonas/tig,C,5
 613829,openresty/lua-nginx-module,C,2
-70127218,espressif/arduino-esp32,C,7
+70127218,espressif/arduino-esp32,C,5
 3319040,id-Software/DOOM,C,7
 7408108,RT-Thread/rt-thread,C,2
 13310527,jemalloc/jemalloc,C,4
@@ -15,7 +15,7 @@ id,name,lang,new stars
 5870069,edenhill/librdkafka,C,4
 108110706,tporadowski/redis,C,6
 31791482,microsoft/Windows-driver-samples,C,3
-38617,sqlcipher/sqlcipher,C,3
+38617,sqlcipher/sqlcipher,C,4
 40556106,wazuh/wazuh,C,43
 135348215,TelegramMessenger/MTProxy,C,4
 2359378,madler/zlib,C,2
