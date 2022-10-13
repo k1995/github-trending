@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
-8681349,huginn/huginn,Ruby,10
-7569578,discourse/discourse,Ruby,7
+8514,rails/rails,Ruby,11
+8681349,huginn/huginn,Ruby,9
+7569578,discourse/discourse,Ruby,8
 27442967,fastlane/fastlane,Ruby,7
-2293158,rapid7/metasploit-framework,Ruby,17
-481872,hashicorp/vagrant,Ruby,13
+2293158,rapid7/metasploit-framework,Ruby,18
+481872,hashicorp/vagrant,Ruby,14
 2203645,CocoaPods/CocoaPods,Ruby,1
-1918677,fluent/fluentd,Ruby,3
+1918677,fluent/fluentd,Ruby,2
 96395,faker-ruby/faker,Ruby,2
-1725199,github/linguist,Ruby,6
+1725199,github/linguist,Ruby,7
 15435,Shopify/liquid,Ruby,0
 108278,chef/chef,Ruby,3
 6899875,opf/openproject,Ruby,3
@@ -19,7 +19,7 @@ id,name,lang,new stars
 200302808,ViewComponent/view_component,Ruby,2
 41571541,inspec/inspec,Ruby,0
 70121,RubyMoney/money,Ruby,1
-10504669,publiclab/plots2,Ruby,2
+10504669,publiclab/plots2,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,1
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0
 432559985,turingschool-examples/each,Ruby,0
