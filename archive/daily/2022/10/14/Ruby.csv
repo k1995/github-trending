@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,5
+8514,rails/rails,Ruby,6
 8681349,huginn/huginn,Ruby,8
-27442967,fastlane/fastlane,Ruby,6
-481872,hashicorp/vagrant,Ruby,5
+27442967,fastlane/fastlane,Ruby,5
+481872,hashicorp/vagrant,Ruby,6
 2500088,gitlabhq/gitlabhq,Ruby,0
-308770,heartcombo/devise,Ruby,2
-538746,ruby/ruby,Ruby,6
-3623050,Homebrew/homebrew-cask,Ruby,3
+308770,heartcombo/devise,Ruby,3
+538746,ruby/ruby,Ruby,5
+3623050,Homebrew/homebrew-cask,Ruby,2
 202291859,chatwoot/chatwoot,Ruby,5
-3314,spree/spree,Ruby,4
+3314,spree/spree,Ruby,3
 96395,faker-ruby/faker,Ruby,3
 15435,Shopify/liquid,Ruby,4
 108278,chef/chef,Ruby,1
@@ -19,8 +19,8 @@ id,name,lang,new stars
 1462,ctran/annotate_models,Ruby,0
 46698467,ankane/strong_migrations,Ruby,2
 614070,rubygems/rubygems,Ruby,2
-3898922,zammad/zammad,Ruby,1
-93163073,dependabot/dependabot-core,Ruby,3
+3898922,zammad/zammad,Ruby,2
+93163073,dependabot/dependabot-core,Ruby,2
 9831101,elastic/elasticsearch-ruby,Ruby,0
-10504669,publiclab/plots2,Ruby,0
-537409787,Shopify/pitchfork,Ruby,20
+10504669,publiclab/plots2,Ruby,1
+537409787,Shopify/pitchfork,Ruby,12
