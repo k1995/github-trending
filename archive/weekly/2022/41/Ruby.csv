@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,55
-65252,jekyll/jekyll,Ruby,52
+8514,rails/rails,Ruby,53
+65252,jekyll/jekyll,Ruby,51
 8681349,huginn/huginn,Ruby,62
-52281283,mastodon/mastodon,Ruby,66
-13840241,freeCodeCamp/devdocs,Ruby,70
+52281283,mastodon/mastodon,Ruby,67
+13840241,freeCodeCamp/devdocs,Ruby,72
 2293158,rapid7/metasploit-framework,Ruby,89
 481872,hashicorp/vagrant,Ruby,49
 538746,ruby/ruby,Ruby,34
@@ -11,16 +11,16 @@ id,name,lang,new stars
 106995,sinatra/sinatra,Ruby,16
 96395,faker-ruby/faker,Ruby,24
 108278,chef/chef,Ruby,13
-6899875,opf/openproject,Ruby,19
-1314319,instructure/canvas-lms,Ruby,10
-52316423,luggit/react-native-config,Ruby,7
+6899875,opf/openproject,Ruby,20
+1314319,instructure/canvas-lms,Ruby,11
+52316423,luggit/react-native-config,Ruby,6
 46698467,ankane/strong_migrations,Ruby,41
 3898922,zammad/zammad,Ruby,14
 14238949,elastic/elasticsearch-rails,Ruby,10
 114265475,w181496/Web-CTF-Cheatsheet,Ruby,16
-212813096,lewagon/data-setup,Ruby,6
+212813096,lewagon/data-setup,Ruby,5
 502760,danbooru/danbooru,Ruby,32
-537409787,Shopify/pitchfork,Ruby,153
+537409787,Shopify/pitchfork,Ruby,150
 304237658,ruby/gem_rbs_collection,Ruby,3
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,1
 347104426,learn-co-curriculum/phase-3-nested-hash-iteration,Ruby,0
