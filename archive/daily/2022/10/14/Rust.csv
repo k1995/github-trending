@@ -1,10 +1,10 @@
 id,name,lang,new stars
-299354207,rustdesk/rustdesk,Rust,53
+299354207,rustdesk/rustdesk,Rust,54
 130688011,meilisearch/meilisearch,Rust,66
-21938243,rust-unofficial/awesome-rust,Rust,33
-120425779,lapce/lapce,Rust,148
+21938243,rust-unofficial/awesome-rust,Rust,34
+120425779,lapce/lapce,Rust,142
 268424739,helix-editor/helix,Rust,87
-149026292,cube-js/cube.js,Rust,16
+149026292,cube-js/cube.js,Rust,14
 436658287,surrealdb/surrealdb,Rust,87
 11847500,uutils/coreutils,Rust,23
 143822069,sunface/rust-course,Rust,42
@@ -13,7 +13,7 @@ id,name,lang,new stars
 109872620,paritytech/substrate,Rust,4
 208102250,microsoft/windows-rs,Rust,10
 477528511,ekzhang/bore,Rust,17
-178597005,FyroxEngine/Fyrox,Rust,58
+178597005,FyroxEngine/Fyrox,Rust,56
 462597790,aptos-labs/aptos-core,Rust,8
 453068084,risingwavelabs/risingwave,Rust,9
 52353408,rust-windowing/winit,Rust,10
