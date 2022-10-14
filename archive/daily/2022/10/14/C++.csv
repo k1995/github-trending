@@ -1,16 +1,16 @@
 id,name,lang,new stars
-65600975,pytorch/pytorch,C++,35
+65600975,pytorch/pytorch,C++,33
 11171548,nlohmann/json,C++,16
 39840932,google/googletest,C++,10
 60246359,ClickHouse/ClickHouse,C++,21
-6934395,facebook/rocksdb,C++,10
+6934395,facebook/rocksdb,C++,8
 4524181,facebook/folly,C++,26
 108110,mongodb/mongo,C++,10
 160083795,SerenityOS/serenity,C++,120
-65214191,envoyproxy/envoy,C++,6
+65214191,envoyproxy/envoy,C++,8
 191820100,google/mediapipe,C++,7
 19953044,google/flatbuffers,C++,11
-33014811,notepad-plus-plus/notepad-plus-plus,C++,27
+33014811,notepad-plus-plus/notepad-plus-plus,C++,26
 1062572,catchorg/Catch2,C++,5
 143455116,google/filament,C++,2
 27500243,google/libphonenumber,C++,6

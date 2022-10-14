@@ -11,7 +11,7 @@ id,name,lang,new stars
 33258973,influxdata/telegraf,Go,6
 118105436,golang-migrate/migrate,Go,6
 18906266,shirou/gopsutil,Go,6
-247032621,go-admin-team/go-admin,Go,21
+247032621,go-admin-team/go-admin,Go,20
 91054480,rs/zerolog,Go,10
 66509131,kubernetes/client-go,Go,6
 49765480,lightningnetwork/lnd,Go,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 5425992,nats-io/nats.go,Go,8
 93446042,hashicorp/terraform-provider-azurerm,Go,2
 63196359,confluentinc/confluent-kafka-go,Go,7
-311639195,karmada-io/karmada,Go,13
+311639195,karmada-io/karmada,Go,10
 113404957,kata-containers/kata-containers,Go,39
 272663924,techschool/simplebank,Go,11
 96004375,aws/aws-sdk-go-v2,Go,5
