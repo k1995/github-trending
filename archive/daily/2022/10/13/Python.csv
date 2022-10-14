@@ -2,7 +2,7 @@ id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,108
 123458551,jackfrued/Python-100-Days,Python,54
 155220641,huggingface/transformers,Python,89
-3638964,ansible/ansible,Python,45
+3638964,ansible/ansible,Python,41
 858127,pandas-dev/pandas,Python,19
 21467110,explosion/spaCy,Python,8
 123303402,python-poetry/poetry,Python,17
@@ -12,10 +12,10 @@ id,name,lang,new stars
 106024057,pyg-team/pytorch_geometric,Python,7
 6662075,joke2k/faker,Python,12
 16479108,wagtail/wagtail,Python,19
-73328905,pytorch/vision,Python,5
+73328905,pytorch/vision,Python,4
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,817
 37489525,pytest-dev/pytest,Python,5
-394541647,OpenEthan/SMSBoom,Python,103
+394541647,OpenEthan/SMSBoom,Python,100
 70746484,apache/tvm,Python,3
 20785986,jupyterhub/jupyterhub,Python,8
 285840886,TachibanaYoshino/AnimeGANv2,Python,5
