@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,41
+20904437,gin-gonic/gin,Go,28
+6838921,prometheus/prometheus,Go,29
+11225014,etcd-io/etcd,Go,17
+8989842,unknwon/the-way-to-go_ZH_CN,Go,16
+107286889,schollz/croc,Go,18
+192632000,dapr/dapr,Go,11
+50613991,goharbor/harbor,Go,10
+13624859,gorilla/websocket,Go,9
+153099672,inancgumus/learngo,Go,54
+33352201,grpc-ecosystem/grpc-gateway,Go,12
+180687624,aquasecurity/trivy,Go,15
+36653430,hashicorp/nomad,Go,59
+33258973,influxdata/telegraf,Go,1
+30711774,go-playground/validator,Go,13
+11206255,Shopify/sarama,Go,6
+93444615,hashicorp/terraform-provider-aws,Go,0
+21306961,fsnotify/fsnotify,Go,13
+66509131,kubernetes/client-go,Go,10
+99143276,vmware-tanzu/velero,Go,7
+170411418,kedacore/keda,Go,5
+113404957,kata-containers/kata-containers,Go,61
+491539130,cloudwego/hertz,Go,18
+313628863,external-secrets/external-secrets,Go,7
+22855240,Azure/azure-sdk-for-go,Go,2
