@@ -1,17 +1,17 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,55
-65252,jekyll/jekyll,Ruby,52
-8681349,huginn/huginn,Ruby,62
-52281283,mastodon/mastodon,Ruby,67
-13840241,freeCodeCamp/devdocs,Ruby,71
-2293158,rapid7/metasploit-framework,Ruby,89
-481872,hashicorp/vagrant,Ruby,50
+65252,jekyll/jekyll,Ruby,50
+8681349,huginn/huginn,Ruby,64
+52281283,mastodon/mastodon,Ruby,64
+13840241,freeCodeCamp/devdocs,Ruby,70
+2293158,rapid7/metasploit-framework,Ruby,88
+481872,hashicorp/vagrant,Ruby,51
 538746,ruby/ruby,Ruby,36
-18486300,lewagon/setup,Ruby,645
+18486300,lewagon/setup,Ruby,646
 106995,sinatra/sinatra,Ruby,16
 96395,faker-ruby/faker,Ruby,25
 108278,chef/chef,Ruby,13
-6899875,opf/openproject,Ruby,19
+6899875,opf/openproject,Ruby,20
 1314319,instructure/canvas-lms,Ruby,11
 52316423,luggit/react-native-config,Ruby,7
 46698467,ankane/strong_migrations,Ruby,38
@@ -20,7 +20,7 @@ id,name,lang,new stars
 114265475,w181496/Web-CTF-Cheatsheet,Ruby,17
 212813096,lewagon/data-setup,Ruby,5
 502760,danbooru/danbooru,Ruby,30
-537409787,Shopify/pitchfork,Ruby,145
+537409787,Shopify/pitchfork,Ruby,146
 304237658,ruby/gem_rbs_collection,Ruby,3
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,1
 347104426,learn-co-curriculum/phase-3-nested-hash-iteration,Ruby,0

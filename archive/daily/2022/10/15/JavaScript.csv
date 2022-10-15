@@ -1,5 +1,5 @@
 id,name,lang,new stars
-10270250,facebook/react,JavaScript,63
+10270250,facebook/react,JavaScript,62
 6498492,airbnb/javascript,JavaScript,26
 29028775,facebook/react-native,JavaScript,21
 943149,d3/d3,JavaScript,17
@@ -10,11 +10,11 @@ id,name,lang,new stars
 31629751,cypress-io/cypress,JavaScript,17
 60630844,microsoft/monaco-editor,JavaScript,14
 17372733,OAI/OpenAPI-Specification,JavaScript,3
-13753636,jhipster/generator-jhipster,JavaScript,8
+13753636,jhipster/generator-jhipster,JavaScript,9
 1206546,winstonjs/winston,JavaScript,7
-30102273,MobSF/Mobile-Security-Framework-MobSF,JavaScript,56
+30102273,MobSF/Mobile-Security-Framework-MobSF,JavaScript,86
 61527215,krasimir/react-in-patterns,JavaScript,12
-304344049,sveltejs/kit,JavaScript,49
+304344049,sveltejs/kit,JavaScript,47
 8629417,mapbox/mapbox-gl-js,JavaScript,7
 262342594,obsidianmd/obsidian-releases,JavaScript,30
 139662142,dunwu/nginx-tutorial,JavaScript,73
@@ -23,4 +23,4 @@ id,name,lang,new stars
 220391287,aws-actions/configure-aws-credentials,JavaScript,30
 546421604,toss/slash,JavaScript,260
 485472788,soyHenry/Prep-Course,JavaScript,1
-540856406,codinasion/program,JavaScript,45
+540856406,codinasion/program,JavaScript,23
