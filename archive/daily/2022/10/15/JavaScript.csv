@@ -1,19 +1,19 @@
 id,name,lang,new stars
-10270250,facebook/react,JavaScript,73
+10270250,facebook/react,JavaScript,63
 29028775,facebook/react-native,JavaScript,21
 943149,d3/d3,JavaScript,17
 23083156,mui/material-ui,JavaScript,36
 31629751,cypress-io/cypress,JavaScript,17
 19745004,odoo/odoo,JavaScript,15
-15308499,SortableJS/Sortable,JavaScript,20
+15308499,SortableJS/Sortable,JavaScript,14
 402046,parallax/jsPDF,JavaScript,6
-712530,fabricjs/fabric.js,JavaScript,8
-382496361,louislam/uptime-kuma,JavaScript,36
+712530,fabricjs/fabric.js,JavaScript,6
+382496361,louislam/uptime-kuma,JavaScript,37
 43695474,quasarframework/quasar,JavaScript,10
 92111509,zadam/trilium,JavaScript,28
 261279710,facebookexperimental/Recoil,JavaScript,7
 280363952,umami-software/umami,JavaScript,12
-304344049,sveltejs/kit,JavaScript,47
+304344049,sveltejs/kit,JavaScript,49
 8629417,mapbox/mapbox-gl-js,JavaScript,7
 28964450,ckeditor/ckeditor5,JavaScript,5
 262342594,obsidianmd/obsidian-releases,JavaScript,30
@@ -23,4 +23,4 @@ id,name,lang,new stars
 529837621,midudev/preguntas-entrevista-react,JavaScript,103
 2967233,DataDog/documentation,JavaScript,1
 543428520,hellojuantu/image_border_optimizer,JavaScript,8
-402532455,K8sAcademy/Fundamentals-HandsOn,JavaScript,22
+402532455,K8sAcademy/Fundamentals-HandsOn,JavaScript,23
