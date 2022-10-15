@@ -1,26 +1,26 @@
 id,name,lang,new stars
-41881900,microsoft/vscode,TypeScript,101
-63537249,facebook/create-react-app,JavaScript,36
-151834062,doocs/advanced-java,Java,58
-127988011,macrozheng/mall,Java,30
-19872456,remix-run/react-router,TypeScript,32
-68957920,justjavac/awesome-wechat-weapp,,130
+83222441,donnemartin/system-design-primer,Python,124
+80945428,nestjs/nest,TypeScript,44
+174038031,react-hook-form/react-hook-form,TypeScript,20
 17620347,dotnet/aspnetcore,C#,30
-202890778,chakra-ui/chakra-ui,TypeScript,41
-4524181,facebook/folly,C++,52
-160083795,SerenityOS/serenity,C++,84
-331926236,itdevbooks/pdf,,47
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,756
-261039251,pointfreeco/swift-composable-architecture,Swift,15
-336274588,PaddlePaddle/PaddleNLP,Python,36
-40556106,wazuh/wazuh,C,46
-2928944,Azure/azure-sdk-for-net,,10
-37533525,awesome-devblog/awesome-devblog,,17
-145183271,Azure/Azure-Sentinel,Jupyter Notebook,13
-328770750,vavkamil/awesome-bugbounty-tools,,36
-220391287,aws-actions/configure-aws-credentials,JavaScript,30
+152870372,ruanyf/weekly,,15
+4524181,facebook/folly,C++,55
+49016322,angular/components,TypeScript,5
+479924503,The-Run-Philosophy-Organization/run,,142
+262395224,dotnet/maui,C#,7
+493934907,InterviewReady/system-design-resources,,56
+334448316,lxgw/LxgwWenKai,Batchfile,66
+103071520,great-expectations/great_expectations,Python,15
+469703690,djsime1/awesome-flipperzero,,15
+501990676,SunWeb3Sec/DeFiHackLabs,Solidity,13
 546421604,toss/slash,JavaScript,260
-546466467,koishijs/novelai-bot,TypeScript,271
-520014232,IDEA-Research/detrex,Python,67
+546466467,koishijs/novelai-bot,TypeScript,279
+529837621,midudev/preguntas-entrevista-react,JavaScript,103
 62907113,holbertonschool/Betty,Perl,39
 547113575,smallnest/concurrency-programming-via-rust,Rust,104
+546419811,YuzukiHD/YuzukiLOHCC-PRO,,240
+523716578,Unity-Technologies/game-programming-patterns-demo,C#,46
+532465933,sw-yx/prompt-eng,,64
+548392458,JingShing/novelai-colab-ver,Jupyter Notebook,70
+550911062,horizon3ai/CVE-2022-40684,Python,54
+549802044,rocketseat-education/ignite-lab-design-system,TypeScript,22
