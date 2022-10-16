@@ -5,12 +5,12 @@ id,name,lang,new stars
 15062869,facebook/jest,TypeScript,12
 94911145,facebook/docusaurus,TypeScript,25
 77213120,Eugeny/tabby,TypeScript,47
-35866694,RocketChat/Rocket.Chat,TypeScript,6
+35866694,RocketChat/Rocket.Chat,TypeScript,4
 174038031,react-hook-form/react-hook-form,TypeScript,56
 202890778,chakra-ui/chakra-ui,TypeScript,48
 49016322,angular/components,TypeScript,17
 307489284,remix-run/remix,TypeScript,24
-83050680,eclipse-theia/theia,TypeScript,4
+83050680,eclipse-theia/theia,TypeScript,5
 372240402,alan2207/bulletproof-react,TypeScript,19
 245704608,colinhacks/zod,TypeScript,24
 445599288,faker-js/faker,TypeScript,19
@@ -18,8 +18,8 @@ id,name,lang,new stars
 284031822,gorhom/react-native-bottom-sheet,TypeScript,10
 182299236,actions/toolkit,TypeScript,5
 260037952,Uniswap/v3-core,TypeScript,5
-205262760,actions/github-script,TypeScript,5
-87228090,aws/aws-sdk-js-v3,TypeScript,2
+205262760,actions/github-script,TypeScript,6
+87228090,aws/aws-sdk-js-v3,TypeScript,3
 253846879,determined-ai/determined,TypeScript,2
 546466467,koishijs/novelai-bot,TypeScript,128
 547848931,amotile/stable-diffusion-studio,TypeScript,91
