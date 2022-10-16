@@ -1,7 +1,9 @@
 id,name,lang,new stars
 48378947,fatedier/frp,Go,245
+6838921,prometheus/prometheus,Go,158
 17728164,hashicorp/terraform,Go,115
-136815833,Dreamacro/clash,Go,276
+136815833,Dreamacro/clash,Go,278
+8989842,unknwon/the-way-to-go_ZH_CN,Go,91
 37448451,mattermost/mattermost-server,Go,92
 285864199,zeromicro/go-zero,Go,137
 192632000,dapr/dapr,Go,102
@@ -12,15 +14,13 @@ id,name,lang,new stars
 130430977,kubesphere/kubesphere,Go,76
 323965659,alist-org/alist,Go,575
 311315731,XTLS/Xray-core,Go,102
-95761244,gogf/gf,Go,70
 465303307,samber/lo,Go,110
-247032621,go-admin-team/go-admin,Go,143
+247032621,go-admin-team/go-admin,Go,141
 49765480,lightningnetwork/lnd,Go,86
 384451028,cloudwego/kitex,Go,40
-11931032,btcsuite/btcd,Go,25
+11931032,btcsuite/btcd,Go,24
 318476701,containerd/nerdctl,Go,61
-14008364,jinzhu/copier,Go,36
 311639195,karmada-io/karmada,Go,40
+113404957,kata-containers/kata-containers,Go,171
 491539130,cloudwego/hertz,Go,64
-265775217,bnb-chain/bsc,Go,45
-101988156,cosmos/iavl,Go,6
+265775217,bnb-chain/bsc,Go,43
