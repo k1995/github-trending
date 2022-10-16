@@ -1,12 +1,12 @@
 id,name,lang,new stars
 48378947,fatedier/frp,Go,257
-17728164,hashicorp/terraform,Go,136
+17728164,hashicorp/terraform,Go,135
 136815833,Dreamacro/clash,Go,281
 37448451,mattermost/mattermost-server,Go,95
 285864199,zeromicro/go-zero,Go,145
 192632000,dapr/dapr,Go,104
 181461073,v2fly/v2ray-core,Go,161
-153099672,inancgumus/learngo,Go,592
+153099672,inancgumus/learngo,Go,599
 5179099,go-redis/redis,Go,99
 36653430,hashicorp/nomad,Go,321
 130430977,kubesphere/kubesphere,Go,74
@@ -22,5 +22,5 @@ id,name,lang,new stars
 14008364,jinzhu/copier,Go,35
 311639195,karmada-io/karmada,Go,41
 491539130,cloudwego/hertz,Go,64
-265775217,bnb-chain/bsc,Go,61
+265775217,bnb-chain/bsc,Go,59
 101988156,cosmos/iavl,Go,10

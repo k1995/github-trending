@@ -1,5 +1,5 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,117
+83222441,donnemartin/system-design-primer,Python,116
 33614304,nvbn/thefuck,Python,23
 155220641,huggingface/transformers,Python,60
 160919119,tiangolo/fastapi,Python,43
@@ -7,12 +7,12 @@ id,name,lang,new stars
 71220757,swisskyrepo/PayloadsAllTheThings,Python,28
 33884891,apache/airflow,Python,14
 3544424,httpie/httpie,Python,71
-123303402,python-poetry/poetry,Python,25
+123303402,python-poetry/poetry,Python,24
 162723104,OWASP/CheatSheetSeries,Python,11
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,550
 351432397,microsoft/Swin-Transformer,Python,6
 217475193,PaddlePaddle/PaddleDetection,Python,5
-103071520,great-expectations/great_expectations,Python,61
+103071520,great-expectations/great_expectations,Python,36
 282443202,google/latexify_py,Python,45
 278003645,open-mmlab/mmpose,Python,1
 281519510,FedML-AI/FedML,Python,18
@@ -21,6 +21,6 @@ id,name,lang,new stars
 520014232,IDEA-Research/detrex,Python,29
 537827151,THUDM/CodeGeeX,Python,6
 428295711,startkkkkkk/Beijing_Daxuexi_Simple,Python,8
-550911062,horizon3ai/CVE-2022-40684,Python,39
+550911062,horizon3ai/CVE-2022-40684,Python,38
 548398068,JingShing/NovelAI-installation-tutorial,Python,24
 551028490,carlosevieira/CVE-2022-40684,Python,12
