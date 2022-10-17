@@ -1,10 +1,10 @@
 id,name,lang,new stars
 133442384,denoland/deno,Rust,12
 724712,rust-lang/rust,Rust,47
-196701619,tauri-apps/tauri,Rust,108
+196701619,tauri-apps/tauri,Rust,107
 51980455,alacritty/alacritty,Rust,31
-178991158,starship/starship,Rust,63
-121898717,dani-garcia/vaultwarden,Rust,36
+178991158,starship/starship,Rust,74
+121898717,dani-garcia/vaultwarden,Rust,37
 234798675,bevyengine/bevy,Rust,15
 40508605,facebook/relay,Rust,8
 135201145,RustPython/RustPython,Rust,6
@@ -13,14 +13,14 @@ id,name,lang,new stars
 120568143,wez/wezterm,Rust,10
 25250913,shadowsocks/shadowsocks-rust,Rust,10
 43192623,rust-lang/rustup,Rust,6
-462597790,aptos-labs/aptos-core,Rust,10
+462597790,aptos-labs/aptos-core,Rust,11
 285393031,Morganamilo/paru,Rust,4
 114742422,mullvad/mullvadvpn-app,Rust,6
 523043277,charliermarsh/ruff,Rust,19
 294858647,signalapp/libsignal,Rust,23
 166616185,roc-lang/roc,Rust,17
 500391407,buckyos/CYFS,Rust,13
-547113575,smallnest/concurrency-programming-via-rust,Rust,104
+547113575,smallnest/concurrency-programming-via-rust,Rust,103
 519882617,gbj/leptos,Rust,107
-551376520,tw93/Pake,Rust,106
-539279688,evmar/retrowin32,Rust,17
+551376520,tw93/Pake,Rust,104
+539279688,evmar/retrowin32,Rust,18

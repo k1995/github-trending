@@ -1,26 +1,26 @@
 id,name,lang,new stars
-28457823,freeCodeCamp/freeCodeCamp,TypeScript,95
-85077558,kamranahmedse/developer-roadmap,TypeScript,121
-196701619,tauri-apps/tauri,Rust,108
-199570071,2dust/v2rayN,C#,39
-67702184,topjohnwu/Magisk,C++,27
-178991158,starship/starship,Rust,63
-152870372,ruanyf/weekly,,70
-4524181,facebook/folly,C++,47
-102578345,coolsnowwolf/lede,C,23
-121898717,dani-garcia/vaultwarden,Rust,36
-266231149,logseq/logseq,Clojure,97
+28457823,freeCodeCamp/freeCodeCamp,TypeScript,88
+85077558,kamranahmedse/developer-roadmap,TypeScript,120
+196701619,tauri-apps/tauri,Rust,100
+199570071,2dust/v2rayN,C#,41
+67702184,topjohnwu/Magisk,C++,26
+178991158,starship/starship,Rust,65
+152870372,ruanyf/weekly,,68
+4524181,facebook/folly,C++,49
+102578345,coolsnowwolf/lede,C,24
+121898717,dani-garcia/vaultwarden,Rust,37
+266231149,logseq/logseq,Clojure,99
 47409672,hashcat/hashcat,C,30
-387326890,xinntao/Real-ESRGAN,Python,49
-45821540,openwrt/openwrt,C,17
-482520194,Grasscutters/Grasscutter,Java,27
-320636477,WebKit/WebKit,,33
-281519510,FedML-AI/FedML,Python,43
+387326890,xinntao/Real-ESRGAN,Python,47
+45821540,openwrt/openwrt,C,16
+482520194,Grasscutters/Grasscutter,Java,28
+320636477,WebKit/WebKit,,31
+281519510,FedML-AI/FedML,Python,37
 473949053,dunglas/frankenphp,Go,296
-544975441,cisagov/RedEye,TypeScript,208
-547113575,smallnest/concurrency-programming-via-rust,Rust,104
+544975441,cisagov/RedEye,TypeScript,211
+547113575,smallnest/concurrency-programming-via-rust,Rust,103
 546419811,YuzukiHD/YuzukiLOHCC-PRO,,119
-551376520,tw93/Pake,Rust,106
-548392458,JingShing/novelai-colab-ver,Jupyter Notebook,77
+551376520,tw93/Pake,Rust,103
+548392458,JingShing/novelai-colab-ver,Jupyter Notebook,78
 547848931,amotile/stable-diffusion-studio,TypeScript,52
-535806327,itsnebulalol/deb-to-ipa,,22
+535806327,itsnebulalol/deb-to-ipa,,16
