@@ -1,20 +1,20 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,20
-7548986,laravel/framework,PHP,7
+7548986,laravel/framework,PHP,8
 458058,symfony/symfony,PHP,2
-60243197,nextcloud/server,PHP,10
+60243197,nextcloud/server,PHP,9
 2253830,PHPMailer/PHPMailer,PHP,4
-448045,sebastianbergmann/phpunit,PHP,3
+448045,sebastianbergmann/phpunit,PHP,4
 82238168,monicahq/monica,PHP,22
 2889328,WordPress/WordPress,PHP,6
 597887,doctrine/orm,PHP,1
-622166,FriendsOfPHP/Goutte,PHP,1
+622166,FriendsOfPHP/Goutte,PHP,2
 1398640,symfony/event-dispatcher,PHP,0
 2717549,Sylius/Sylius,PHP,3
 2141186,opencart/opencart,PHP,2
 3217621,phpmyadmin/phpmyadmin,PHP,0
-95011974,akaunting/akaunting,PHP,6
-248372441,filamentphp/filament,PHP,5
+95011974,akaunting/akaunting,PHP,5
+248372441,filamentphp/filament,PHP,4
 57961433,openmediavault/openmediavault,PHP,4
 96284790,prasathmani/tinyfilemanager,PHP,2
 13044600,salesagility/SuiteCRM,PHP,10
