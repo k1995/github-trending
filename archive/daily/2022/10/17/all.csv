@@ -2,7 +2,7 @@ id,name,lang,new stars
 28457823,freeCodeCamp/freeCodeCamp,TypeScript,93
 13491895,EbookFoundation/free-programming-books,,108
 724712,rust-lang/rust,Rust,47
-52631841,gothinkster/realworld,Shell,73
+52631841,gothinkster/realworld,Shell,83
 71583602,Developer-Y/cs-video-courses,,195
 74627617,commaai/openpilot,Python,20
 173228436,NationalSecurityAgency/ghidra,Java,53
@@ -23,4 +23,4 @@ id,name,lang,new stars
 435625572,starlite-api/starlite,Python,34
 544975441,cisagov/RedEye,TypeScript,212
 543573605,fruiframework/frui,Rust,189
-534354967,google/zerocopy,Rust,33
+534354967,google/zerocopy,Rust,46
