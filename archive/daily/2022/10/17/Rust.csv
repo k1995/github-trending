@@ -1,11 +1,11 @@
 id,name,lang,new stars
 724712,rust-lang/rust,Rust,47
-196701619,tauri-apps/tauri,Rust,178
-51980455,alacritty/alacritty,Rust,22
+196701619,tauri-apps/tauri,Rust,162
+51980455,alacritty/alacritty,Rust,21
 42489829,rust-lang/rustlings,Rust,32
 178991158,starship/starship,Rust,65
-121898717,dani-garcia/vaultwarden,Rust,52
-234798675,bevyengine/bevy,Rust,22
+121898717,dani-garcia/vaultwarden,Rust,48
+234798675,bevyengine/bevy,Rust,21
 40508605,facebook/relay,Rust,7
 202787876,Rigellute/spotify-tui,Rust,20
 135201145,RustPython/RustPython,Rust,8
@@ -13,14 +13,14 @@ id,name,lang,new stars
 73169350,fdehau/tui-rs,Rust,13
 120568143,wez/wezterm,Rust,11
 25250913,shadowsocks/shadowsocks-rust,Rust,5
-73012103,serenity-rs/serenity,Rust,7
+73012103,serenity-rs/serenity,Rust,8
 114742422,mullvad/mullvadvpn-app,Rust,6
 279089942,tauri-apps/wry,Rust,9
 294858647,signalapp/libsignal,Rust,16
 166616185,roc-lang/roc,Rust,16
-547113575,smallnest/concurrency-programming-via-rust,Rust,161
+547113575,smallnest/concurrency-programming-via-rust,Rust,158
 551376520,tw93/Pake,Rust,293
-519882617,gbj/leptos,Rust,151
+519882617,gbj/leptos,Rust,155
 543573605,fruiframework/frui,Rust,189
 542884275,wssheldon/osintui,Rust,109
 534354967,google/zerocopy,Rust,13
