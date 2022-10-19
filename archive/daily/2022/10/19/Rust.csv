@@ -1,7 +1,8 @@
 id,name,lang,new stars
-724712,rust-lang/rust,Rust,87
+724712,rust-lang/rust,Rust,88
+196701619,tauri-apps/tauri,Rust,90
 53631945,BurntSushi/ripgrep,Rust,35
-178991158,starship/starship,Rust,105
+178991158,starship/starship,Rust,103
 186024298,nushell/nushell,Rust,14
 234798675,bevyengine/bevy,Rust,30
 202787876,Rigellute/spotify-tui,Rust,16
@@ -14,11 +15,12 @@ id,name,lang,new stars
 358917318,apache/arrow-datafusion,Rust,4
 523043277,charliermarsh/ruff,Rust,11
 279089942,tauri-apps/wry,Rust,11
+507942304,LearningOS/rust-based-os-comp2022,Rust,30
 551376520,tw93/Pake,Rust,286
 547113575,smallnest/concurrency-programming-via-rust,Rust,71
 543573605,fruiframework/frui,Rust,217
-519882617,gbj/leptos,Rust,87
-542884275,wssheldon/osintui,Rust,31
-513511098,fereidani/kanal,Rust,127
+519882617,gbj/leptos,Rust,89
+542884275,wssheldon/osintui,Rust,30
+513511098,fereidani/kanal,Rust,124
 534354967,google/zerocopy,Rust,111
 523470740,AmbiML/sparrow-kata,Rust,35
