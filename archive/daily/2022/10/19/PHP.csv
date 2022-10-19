@@ -1,10 +1,10 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,9
-1864363,composer/composer,PHP,12
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,2
-60243197,nextcloud/server,PHP,13
+1864363,composer/composer,PHP,13
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,3
+60243197,nextcloud/server,PHP,14
 1631570,nikic/PHP-Parser,PHP,4
-7769432,vlucas/phpdotenv,PHP,4
+7769432,vlucas/phpdotenv,PHP,3
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,5
 2884111,magento/magento2,PHP,2
 597887,doctrine/orm,PHP,2
@@ -12,15 +12,15 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,3
 6763587,PrestaShop/PrestaShop,PHP,3
 2141186,opencart/opencart,PHP,0
-4242230,PHPOffice/PHPWord,PHP,3
+4242230,PHPOffice/PHPWord,PHP,4
 248372441,filamentphp/filament,PHP,14
 3817881,zircote/swagger-php,PHP,0
 439861,moodle/moodle,PHP,3
 47508644,pterodactyl/panel,PHP,2
-400984450,kuaifan/dootask,PHP,2
+400984450,kuaifan/dootask,PHP,1
 17253775,zabbix/zabbix,PHP,2
-216849756,v2board/v2board,PHP,9
-410524724,nunomaduro/termwind,PHP,8
+216849756,v2board/v2board,PHP,12
+410524724,nunomaduro/termwind,PHP,10
 34407154,cweagans/composer-patches,PHP,0
 550750404,maldiharyojudanto/Tools-DorTri,PHP,2
 551283771,Sansekai/tembak-three,PHP,1
