@@ -1,13 +1,13 @@
 id,name,lang,new stars
 206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,76
 7587038,alibaba/canal,Java,7
-112785414,alibaba/spring-cloud-alibaba,Java,8
+112785414,alibaba/spring-cloud-alibaba,Java,11
 55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,7
 133134007,OpenAPITools/openapi-generator,Java,84
 11125589,keycloak/keycloak,Java,11
 117965972,alibaba/DataX,Java,14
 221862,projectlombok/lombok,Java,4
-139914932,quarkusio/quarkus,Java,7
+139914932,quarkusio/quarkus,Java,6
 715605,redis/jedis,Java,5
 391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,19
 537800,dropwizard/metrics,Java,0
@@ -19,8 +19,8 @@ id,name,lang,new stars
 156627365,itwanger/toBeBetterJavaer,Java,36
 3038937,FasterXML/jackson-databind,Java,0
 212488700,pytorch/serve,Java,2
-2928948,Azure/azure-sdk-for-java,Java,1
-61399845,synthetichealth/synthea,Java,0
+2928948,Azure/azure-sdk-for-java,Java,2
+61399845,synthetichealth/synthea,Java,1
 172750723,open-telemetry/opentelemetry-java,Java,0
-292135960,lax1dude/eaglercraft,Java,21
+292135960,lax1dude/eaglercraft,Java,24
 298323699,devopshydclub/vprofile-project,Java,5
