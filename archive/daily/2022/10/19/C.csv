@@ -1,5 +1,5 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,6
+10744183,netdata/netdata,C,4
 29759715,facebook/zstd,C,8
 47409672,hashcat/hashcat,C,27
 84240850,timescale/timescaledb,C,16
@@ -7,19 +7,19 @@ id,name,lang,new stars
 1856976,libevent/libevent,C,4
 39242894,coturn/coturn,C,5
 75811015,Tencent/xLua,C,6
-47057247,Wind4/vlmcsd,C,59
-6376337,pocoproject/poco,C,4
-59676171,Klipper3d/klipper,C,6
-27275442,telekom-security/tpotce,C,6
+47057247,Wind4/vlmcsd,C,61
+6376337,pocoproject/poco,C,3
+59676171,Klipper3d/klipper,C,5
+27275442,telekom-security/tpotce,C,4
 2359378,madler/zlib,C,5
-21977691,seL4/seL4,C,42
+21977691,seL4/seL4,C,41
 27359183,guanzhi/GmSSL,C,4
 284134871,flipperdevices/flipperzero-firmware,C,20
 184654298,bytecodealliance/wasm-micro-runtime,C,2
 6860771,hathach/tinyusb,C,0
-217654199,microsoft/msquic,C,11
+217654199,microsoft/msquic,C,9
 3276860,ThrowTheSwitch/Unity,C,3
-154525111,signalwire/freeswitch,C,1
+154525111,signalwire/freeswitch,C,0
 76305806,mcu-tools/mcuboot,C,2
 356689400,joeycastillo/Sensor-Watch,C,11
 443355471,makermoekoe/Picoclick-C3,C,34
