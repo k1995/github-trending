@@ -1,9 +1,9 @@
 id,name,lang,new stars
 10744183,netdata/netdata,C,4
 29759715,facebook/zstd,C,7
-47409672,hashcat/hashcat,C,24
-84240850,timescale/timescaledb,C,15
-60667730,lvgl/lvgl,C,13
+47409672,hashcat/hashcat,C,28
+84240850,timescale/timescaledb,C,14
+60667730,lvgl/lvgl,C,12
 1856976,libevent/libevent,C,5
 39242894,coturn/coturn,C,5
 75811015,Tencent/xLua,C,6
@@ -17,10 +17,10 @@ id,name,lang,new stars
 284134871,flipperdevices/flipperzero-firmware,C,14
 184654298,bytecodealliance/wasm-micro-runtime,C,2
 6860771,hathach/tinyusb,C,0
-217654199,microsoft/msquic,C,6
+217654199,microsoft/msquic,C,5
 3276860,ThrowTheSwitch/Unity,C,3
 154525111,signalwire/freeswitch,C,0
 76305806,mcu-tools/mcuboot,C,2
 356689400,joeycastillo/Sensor-Watch,C,10
-443355471,makermoekoe/Picoclick-C3,C,24
+443355471,makermoekoe/Picoclick-C3,C,15
 196955656,BohemiaInteractive/DayZ-Central-Economy,C,1

@@ -1,8 +1,8 @@
 id,name,lang,new stars
 53631945,BurntSushi/ripgrep,Rust,24
 178991158,starship/starship,Rust,43
-107505869,firecracker-microvm/firecracker,Rust,12
-234798675,bevyengine/bevy,Rust,23
+107505869,firecracker-microvm/firecracker,Rust,13
+234798675,bevyengine/bevy,Rust,26
 179164257,diem/diem,Rust,1
 162276894,Wilfred/difftastic,Rust,12
 165522651,emilk/egui,Rust,33
@@ -13,7 +13,7 @@ id,name,lang,new stars
 351806852,neondatabase/neon,Rust,26
 462597790,aptos-labs/aptos-core,Rust,73
 453068084,risingwavelabs/risingwave,Rust,20
-86106381,libp2p/rust-libp2p,Rust,4
+86106381,libp2p/rust-libp2p,Rust,3
 507942304,LearningOS/rust-based-os-comp2022,Rust,38
 551376520,tw93/Pake,Rust,299
 480592723,move-language/move,Rust,17
@@ -22,5 +22,5 @@ id,name,lang,new stars
 519882617,gbj/leptos,Rust,59
 513511098,fereidani/kanal,Rust,96
 534354967,google/zerocopy,Rust,38
-546823585,AmbiML/sparrow-kata-full,Rust,52
 523470740,AmbiML/sparrow-kata,Rust,43
+546823585,AmbiML/sparrow-kata-full,Rust,51
