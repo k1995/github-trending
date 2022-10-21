@@ -1,9 +1,9 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,177
-7548986,laravel/framework,PHP,66
+3482588,danielmiessler/SecLists,PHP,175
+7548986,laravel/framework,PHP,65
 458058,symfony/symfony,PHP,47
 1864363,composer/composer,PHP,38
-60243197,nextcloud/server,PHP,81
+60243197,nextcloud/server,PHP,79
 82238168,monicahq/monica,PHP,66
 2889328,WordPress/WordPress,PHP,31
 12615154,barryvdh/laravel-debugbar,PHP,31
@@ -13,14 +13,14 @@ id,name,lang,new stars
 2699935,squizlabs/PHP_CodeSniffer,PHP,12
 597887,doctrine/orm,PHP,10
 14346979,snipe/snipe-it,PHP,24
-9791525,digininja/DVWA,PHP,37
-222873550,crater-invoice/crater,PHP,22
-3217621,phpmyadmin/phpmyadmin,PHP,23
+9791525,digininja/DVWA,PHP,36
+222873550,crater-invoice/crater,PHP,21
+3217621,phpmyadmin/phpmyadmin,PHP,24
 119047018,linuxserver/Heimdall,PHP,44
 248372441,filamentphp/filament,PHP,75
 60010673,elementor/elementor,PHP,14
 13044600,salesagility/SuiteCRM,PHP,34
 410524724,nunomaduro/termwind,PHP,33
 433383766,nextcloud/all-in-one,PHP,38
-248544866,ronmarasigan/LavaLust,PHP,11
-546526435,zapellass123/PHP-Project,PHP,143
+248544866,ronmarasigan/LavaLust,PHP,8
+546526435,zapellass123/PHP-Project,PHP,135
