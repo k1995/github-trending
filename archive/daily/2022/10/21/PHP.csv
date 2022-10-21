@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,9
+7548986,laravel/framework,PHP,13
 1420053,guzzle/guzzle,PHP,2
 60243197,nextcloud/server,PHP,14
 2889328,WordPress/WordPress,PHP,5
@@ -11,16 +11,16 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,5
 4551765,thephpleague/oauth2-server,PHP,0
 97311017,rectorphp/rector,PHP,1
-10883164,barryvdh/laravel-dompdf,PHP,1
+10883164,barryvdh/laravel-dompdf,PHP,2
 74386167,vimeo/psalm,PHP,1
-248372441,filamentphp/filament,PHP,9
+248372441,filamentphp/filament,PHP,11
 7895524,thephpleague/oauth2-client,PHP,0
 39182755,glpi-project/glpi,PHP,5
 2686502,pimcore/pimcore,PHP,1
-17253775,zabbix/zabbix,PHP,4
+17253775,zabbix/zabbix,PHP,3
 17722440,Rudloff/alltube,PHP,5
-131995661,shopware/platform,PHP,3
-524886955,opcodesio/log-viewer,PHP,11
+131995661,shopware/platform,PHP,2
+524886955,opcodesio/log-viewer,PHP,10
 216849756,v2board/v2board,PHP,1
-75645659,WordPress/wordpress-develop,PHP,2
-539503175,creagia/laravel-sign-pad,PHP,20
+75645659,WordPress/wordpress-develop,PHP,1
+539503175,creagia/laravel-sign-pad,PHP,19
