@@ -1,15 +1,15 @@
 id,name,lang,new stars
 7691631,moby/moby,Go,20
 20904437,gin-gonic/gin,Go,25
-17728164,hashicorp/terraform,Go,14
+17728164,hashicorp/terraform,Go,13
 61137153,evanw/esbuild,Go,22
 41986369,pingcap/tidb,Go,20
-14125254,hashicorp/consul,Go,8
+14125254,hashicorp/consul,Go,7
 43723161,helm/helm,Go,9
 167596393,derailed/k9s,Go,20
-6247705,stretchr/testify,Go,9
+6247705,stretchr/testify,Go,10
 129717717,grafana/loki,Go,14
-27729907,grpc/grpc-go,Go,11
+27729907,grpc/grpc-go,Go,12
 72477752,pulumi/pulumi,Go,15
 119419195,GoogleContainerTools/kaniko,Go,8
 118105436,golang-migrate/migrate,Go,56
@@ -20,7 +20,7 @@ id,name,lang,new stars
 146641150,tektoncd/pipeline,Go,2
 93928882,swaggo/swag,Go,5
 9120526,jackc/pgx,Go,5
-80134675,containers/buildah,Go,3
+80134675,containers/buildah,Go,4
 299832860,livekit/livekit,Go,10
 206649463,cilium/ebpf,Go,4
-486884451,javtube/javtube-sdk-go,Go,64
+486884451,javtube/javtube-sdk-go,Go,65

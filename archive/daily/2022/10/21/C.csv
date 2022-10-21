@@ -7,10 +7,10 @@ id,name,lang,new stars
 32873313,systemd/systemd,C,3
 65899476,espressif/esp-idf,C,4
 1856976,libevent/libevent,C,8
-54280778,DaveGamble/cJSON,C,5
+54280778,DaveGamble/cJSON,C,4
 5383731,qemu/qemu,C,8
 53614190,eclipse/mosquitto,C,3
-47057247,Wind4/vlmcsd,C,30
+47057247,Wind4/vlmcsd,C,31
 2328181,freebsd/freebsd-src,C,3
 29933948,fluent/fluent-bit,C,6
 247875738,zeldaret/oot,C,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 48130039,eclipse/paho.mqtt.c,C,3
 506164578,GPUOpen-Effects/FidelityFX-FSR2,C,7
 552703938,JuliaPoo/Artfuscator,C,52
-507678095,BrightDaniel/alx-low_level_programming,C,5
+507678095,BrightDaniel/alx-low_level_programming,C,4
