@@ -1,14 +1,14 @@
 id,name,lang,new stars
 7691631,moby/moby,Go,31
-29261473,minio/minio,Go,88
+29261473,minio/minio,Go,101
 41986369,pingcap/tidb,Go,13
-74175805,istio/istio,Go,20
+74175805,istio/istio,Go,21
 26337322,rancher/rancher,Go,30
 29217054,go-micro/go-micro,Go,14
-54400687,grafana/k6,Go,20
+54400687,grafana/k6,Go,15
 72477752,pulumi/pulumi,Go,20
 7877397,jmoiron/sqlx,Go,4
-100982449,argoproj/argo-workflows,Go,40
+100982449,argoproj/argo-workflows,Go,49
 62921553,rook/rook,Go,8
 118105436,golang-migrate/migrate,Go,16
 9524057,prometheus/node_exporter,Go,6
@@ -16,7 +16,7 @@ id,name,lang,new stars
 21306961,fsnotify/fsnotify,Go,21
 66509131,kubernetes/client-go,Go,4
 99143276,vmware-tanzu/velero,Go,9
-127519518,projectdiscovery/subfinder,Go,9
+127519518,projectdiscovery/subfinder,Go,10
 170411418,kedacore/keda,Go,11
 215654064,temporalio/temporal,Go,13
 58821882,grpc-ecosystem/go-grpc-middleware,Go,7

@@ -4,13 +4,13 @@ id,name,lang,new stars
 60243197,nextcloud/server,PHP,6
 12615154,barryvdh/laravel-debugbar,PHP,1
 13899674,thephpleague/flysystem,PHP,1
-61490598,PHPOffice/PhpSpreadsheet,PHP,10
+61490598,PHPOffice/PhpSpreadsheet,PHP,9
 4702560,PHPOffice/PHPExcel,PHP,2
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,3
 14259390,SpartnerNL/Laravel-Excel,PHP,3
 2884111,magento/magento2,PHP,2
 677464,doctrine/dbal,PHP,0
-2179920,woocommerce/woocommerce,PHP,1
+2179920,woocommerce/woocommerce,PHP,2
 330275,twigphp/Twig,PHP,2
 14346979,snipe/snipe-it,PHP,3
 3817881,zircote/swagger-php,PHP,2
@@ -19,7 +19,7 @@ id,name,lang,new stars
 39182755,glpi-project/glpi,PHP,5
 32792088,symfony/demo,PHP,0
 32315619,DarkaOnLine/L5-Swagger,PHP,1
-71485542,kevinpapst/kimai2,PHP,4
+71485542,kevinpapst/kimai2,PHP,5
 174021137,inertiajs/pingcrm,PHP,1
 455787709,orwagodfather/WordList,PHP,1
 184538454,yankovalenko94/Webdev2019,PHP,0
