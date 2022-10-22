@@ -1,15 +1,15 @@
 id,name,lang,new stars
-132750724,codecrafters-io/build-your-own-x,,206
+132750724,codecrafters-io/build-your-own-x,,216
 7691631,moby/moby,Go,31
-23357588,protocolbuffers/protobuf,C++,36
+23357588,protocolbuffers/protobuf,C++,34
 206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,182
 43441403,strapi/strapi,JavaScript,56
-29261473,minio/minio,Go,101
+29261473,minio/minio,Go,110
 229764465,Asabeneh/30-Days-Of-JavaScript,JavaScript,54
 32578467,danielgindi/Charts,Swift,7
 26337322,rancher/rancher,Go,30
 441903012,MichaelCade/90DaysOfDevOps,Shell,134
-100982449,argoproj/argo-workflows,Go,49
+100982449,argoproj/argo-workflows,Go,52
 72685026,MicrosoftDocs/azure-docs,PowerShell,18
 462597790,aptos-labs/aptos-core,Rust,84
 162613268,ethereum-lists/chains,Kotlin,22
@@ -23,4 +23,4 @@ id,name,lang,new stars
 527335176,t3-oss/create-t3-turbo,TypeScript,42
 549165876,rocketseat-education/explorer-lab-01,HTML,51
 523470740,AmbiML/sparrow-kata,Rust,31
-551493426,codeedu/imersao10,TypeScript,22
+551493426,codeedu/imersao10,TypeScript,25
