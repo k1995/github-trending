@@ -1,17 +1,17 @@
 id,name,lang,new stars
 23096959,golang/go,Go,32
 20904437,gin-gonic/gin,Go,28
-29261473,minio/minio,Go,84
+29261473,minio/minio,Go,49
 97533102,halfrost/LeetCode-Go,Go,62
 43723161,helm/helm,Go,10
-26337322,rancher/rancher,Go,30
+26337322,rancher/rancher,Go,55
 165041732,go-kratos/kratos,Go,8
-6247705,stretchr/testify,Go,7
+6247705,stretchr/testify,Go,10
 72477752,pulumi/pulumi,Go,20
 191655189,ent/ent,Go,7
 54808920,future-architect/vuls,Go,3
 27576132,aws/aws-sdk-go,Go,6
-93928882,swaggo/swag,Go,13
+93928882,swaggo/swag,Go,12
 410430370,IceWhaleTech/CasaOS,Go,27
 105262714,oauth2-proxy/oauth2-proxy,Go,5
 80134675,containers/buildah,Go,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 221849341,hibiken/asynq,Go,17
 257434373,HyNetwork/hysteria,Go,24
 84610043,kubernetes-sigs/aws-load-balancer-controller,Go,4
-91074692,zalando/postgres-operator,Go,2
+91074692,zalando/postgres-operator,Go,6
 491539130,cloudwego/hertz,Go,10
-158012967,argoproj/argo-rollouts,Go,4
+158012967,argoproj/argo-rollouts,Go,3
 487018039,nuxui/nuxui,Go,13

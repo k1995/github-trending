@@ -1,18 +1,18 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,171
-5108051,opencv/opencv,C++,154
-11171548,nlohmann/json,C++,94
-168008797,microsoft/calculator,C++,271
+5108051,opencv/opencv,C++,153
+11171548,nlohmann/json,C++,95
+168008797,microsoft/calculator,C++,270
 4524181,facebook/folly,C++,169
 65711522,PaddlePaddle/Paddle,C++,45
-1062572,catchorg/Catch2,C++,85
+1062572,catchorg/Catch2,C++,91
 437245741,dragonflydb/dragonfly,C++,1984
-32969220,esp8266/Arduino,C++,29
-2200856,MarlinFirmware/Marlin,C++,41
-194269070,skyline-emu/skyline,C++,69
-76990209,Aircoookie/WLED,C++,52
+32969220,esp8266/Arduino,C++,30
+2200856,MarlinFirmware/Marlin,C++,40
+194269070,skyline-emu/skyline,C++,71
+76990209,Aircoookie/WLED,C++,53
 31102092,google/or-tools,C++,32
-235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,91
+235070415,AaronFeng753/Waifu2x-Extension-GUI,C++,90
 86897963,ZLMediaKit/ZLMediaKit,C++,61
 19866730,citra-emu/citra,C++,29
 156939672,microsoft/onnxruntime,C++,46
@@ -21,6 +21,6 @@ id,name,lang,new stars
 115883761,tdlib/td,C++,24
 15667250,ceres-solver/ceres-solver,C++,193
 439448087,PolyMC/PolyMC,C++,236
-521191759,ProjectPhysX/FluidX3D,C++,201
-416144775,oceanbase/miniob,C++,118
-506984830,tbnobody/OpenDTU,C++,30
+521191759,ProjectPhysX/FluidX3D,C++,206
+416144775,oceanbase/miniob,C++,117
+506984830,tbnobody/OpenDTU,C++,31

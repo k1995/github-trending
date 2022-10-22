@@ -1,8 +1,8 @@
 id,name,lang,new stars
-299354207,rustdesk/rustdesk,Rust,49
-114466145,yewstack/yew,Rust,25
+299354207,rustdesk/rustdesk,Rust,48
+114466145,yewstack/yew,Rust,24
 54168759,SergioBenitez/Rocket,Rust,11
-165522651,emilk/egui,Rust,31
+165522651,emilk/egui,Rust,50
 23500865,hyperium/hyper,Rust,3
 101767772,bytecodealliance/wasmtime,Rust,8
 166045424,Schniz/fnm,Rust,18
@@ -10,17 +10,17 @@ id,name,lang,new stars
 144140342,paritytech/polkadot,Rust,3
 14367737,serde-rs/serde,Rust,11
 260733299,pretzelhammer/rust-blog,Rust,3
-462597790,aptos-labs/aptos-core,Rust,85
-159866229,build-trust/ockam,Rust,11
+462597790,aptos-labs/aptos-core,Rust,84
+159866229,build-trust/ockam,Rust,8
 299354666,rustdesk/rustdesk-server,Rust,8
 267940560,solana-labs/solana-program-library,Rust,2
 480239936,postgresml/postgresml,Rust,34
 426075845,MystenLabs/sui,Rust,72
-454467716,metalbear-co/mirrord,Rust,40
+454467716,metalbear-co/mirrord,Rust,39
 189174934,matter-labs/zksync,Rust,10
 240971104,AleoHQ/snarkOS,Rust,146
 227265548,gluesql/gluesql,Rust,9
-299026573,eycorsican/leaf,Rust,4
+299026573,eycorsican/leaf,Rust,8
 507942304,LearningOS/rust-based-os-comp2022,Rust,9
-480592723,move-language/move,Rust,15
+480592723,move-language/move,Rust,17
 425736647,massalabs/massa,Rust,51
