@@ -1,12 +1,12 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,0
 1631570,nikic/PHP-Parser,PHP,1
-61490598,PHPOffice/PhpSpreadsheet,PHP,3
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,0
-42480275,spatie/laravel-permission,PHP,1
+61490598,PHPOffice/PhpSpreadsheet,PHP,9
+4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,1
+42480275,spatie/laravel-permission,PHP,2
 2884111,magento/magento2,PHP,3
 41589337,BookStackApp/BookStack,PHP,6
-2699935,squizlabs/PHP_CodeSniffer,PHP,1
+2699935,squizlabs/PHP_CodeSniffer,PHP,5
 11340559,deployphp/deployer,PHP,3
 4551765,thephpleague/oauth2-server,PHP,0
 97311017,rectorphp/rector,PHP,2
@@ -16,11 +16,11 @@ id,name,lang,new stars
 182349597,jqhph/dcat-admin,PHP,0
 69691727,pmmp/PocketMine-MP,PHP,0
 13914116,librenms/librenms,PHP,4
-39182755,glpi-project/glpi,PHP,2
+39182755,glpi-project/glpi,PHP,1
 142127816,zhuifengshaonianhanlu/pikachu,PHP,2
 404921727,luolongfei/freenom,PHP,4
 27965134,opnsense/core,PHP,1
-260729799,knuckleswtf/scribe,PHP,4
-541322916,openai-php/client,PHP,10
-455787709,orwagodfather/WordList,PHP,5
+260729799,knuckleswtf/scribe,PHP,2
+541322916,openai-php/client,PHP,9
+455787709,orwagodfather/WordList,PHP,6
 553853358,beerandcodeteam/olw-1,PHP,2
