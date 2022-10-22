@@ -1,16 +1,16 @@
 id,name,lang,new stars
-21289110,vinta/awesome-python,Python,89
-155220641,huggingface/transformers,Python,93
+21289110,vinta/awesome-python,Python,65
+155220641,huggingface/transformers,Python,65
 12888993,home-assistant/core,Python,22
-212639071,bregman-arie/devops-exercises,Python,20
+212639071,bregman-arie/devops-exercises,Python,23
 262296122,PaddlePaddle/PaddleOCR,Python,64
 154739597,google/jax,Python,13
 136202695,mlflow/mlflow,Python,14
 162672577,PaddlePaddle/PaddleHub,Python,10
 390896426,microsoft/fluentui-emoji,Python,21
 110688239,PaddlePaddle/PaddleSpeech,Python,29
-357241735,searxng/searxng,Python,19
 79848747,ticarpi/jwt_tool,Python,30
+357241735,searxng/searxng,Python,16
 297672263,MaartenGr/BERTopic,Python,13
 355559187,open-mmlab/mmocr,Python,3
 291213368,open-mmlab/mmtracking,Python,1

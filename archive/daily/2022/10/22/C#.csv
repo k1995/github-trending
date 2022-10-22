@@ -1,15 +1,15 @@
 id,name,lang,new stars
 184456251,microsoft/PowerToys,C#,24
 49609581,PowerShell/PowerShell,C#,34
-262395224,dotnet/maui,C#,10
+262395224,dotnet/maui,C#,11
 29078997,dotnet/roslyn,C#,5
 14964475,AvaloniaUI/Avalonia,C#,7
-120231691,Ryujinx/Ryujinx,C#,4
-69673033,ardalis/CleanArchitecture,C#,6
-213460285,jasontaylordev/CleanArchitecture,C#,12
-375939072,dotnetcore/FastGithub,C#,23
+120231691,Ryujinx/Ryujinx,C#,3
+69673033,ardalis/CleanArchitecture,C#,8
+213460285,jasontaylordev/CleanArchitecture,C#,10
+375939072,dotnetcore/FastGithub,C#,22
 28232663,dotnet/orleans,C#,2
-135050219,TGSAN/CMWTAT_Digital_Edition,C#,28
+135050219,TGSAN/CMWTAT_Digital_Edition,C#,26
 75505125,abpframework/abp,C#,1
 44897462,JustArchiNET/ArchiSteamFarm,C#,4
 281360869,spectreconsole/spectre.console,C#,10
@@ -17,10 +17,10 @@ id,name,lang,new stars
 41822320,RicoSuter/NSwag,C#,4
 134363073,HandyOrg/HandyControl,C#,2
 34023916,microsoft/WPF-Samples,C#,2
-103370157,hellzerg/optimizer,C#,17
-80280403,oskardudycz/EventSourcing.NetCore,C#,15
+103370157,hellzerg/optimizer,C#,19
+80280403,oskardudycz/EventSourcing.NetCore,C#,14
 170988906,testcontainers/testcontainers-dotnet,C#,4
-185478059,open-telemetry/opentelemetry-dotnet,C#,4
+185478059,open-telemetry/opentelemetry-dotnet,C#,5
 1841284,Pryaxis/TShock,C#,4
 278114481,homuler/MediaPipeUnityPlugin,C#,2
-418846673,BartoszCichecki/LenovoLegionToolkit,C#,23
+418846673,BartoszCichecki/LenovoLegionToolkit,C#,20
