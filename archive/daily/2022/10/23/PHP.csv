@@ -1,11 +1,11 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,27
-1420053,guzzle/guzzle,PHP,1
+3482588,danielmiessler/SecLists,PHP,28
+1420053,guzzle/guzzle,PHP,2
 60243197,nextcloud/server,PHP,3
 2889328,WordPress/WordPress,PHP,4
-47495360,koel/koel,PHP,3
-41589337,BookStackApp/BookStack,PHP,2
-21298446,firefly-iii/firefly-iii,PHP,5
+47495360,koel/koel,PHP,4
+41589337,BookStackApp/BookStack,PHP,3
+21298446,firefly-iii/firefly-iii,PHP,6
 6763587,PrestaShop/PrestaShop,PHP,3
 3217621,phpmyadmin/phpmyadmin,PHP,3
 62937181,PrivateBin/PrivateBin,PHP,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 345315720,swagkarna/Rafel-Rat,PHP,1
 424534024,peter-tharwat/dashboard,PHP,7
 184538454,yankovalenko94/Webdev2019,PHP,0
-555001574,spatie/laravel-model-flags,PHP,23
+555001574,spatie/laravel-model-flags,PHP,22
 555359587,FriendsOfPHP/well-known-implementations,PHP,3
 553621408,ClickCyber/cve-2022-42889,PHP,2

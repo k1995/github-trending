@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,336
-3482588,danielmiessler/SecLists,PHP,710
-7548986,laravel/framework,PHP,266
+1863329,laravel/laravel,PHP,332
+3482588,danielmiessler/SecLists,PHP,711
+7548986,laravel/framework,PHP,265
 458058,symfony/symfony,PHP,153
 60243197,nextcloud/server,PHP,289
 1376664,Seldaek/monolog,PHP,78
-2253830,PHPMailer/PHPMailer,PHP,132
-1548202,matomo-org/matomo,PHP,155
-2889328,WordPress/WordPress,PHP,136
-12615154,barryvdh/laravel-debugbar,PHP,108
+2253830,PHPMailer/PHPMailer,PHP,134
+1548202,matomo-org/matomo,PHP,154
+2889328,WordPress/WordPress,PHP,137
+12615154,barryvdh/laravel-debugbar,PHP,109
 61490598,PHPOffice/PhpSpreadsheet,PHP,101
 14259390,SpartnerNL/Laravel-Excel,PHP,70
-41589337,BookStackApp/BookStack,PHP,178
+41589337,BookStackApp/BookStack,PHP,177
 2699935,squizlabs/PHP_CodeSniffer,PHP,108
 597887,doctrine/orm,PHP,42
 2179920,woocommerce/woocommerce,PHP,60
@@ -21,6 +21,6 @@ id,name,lang,new stars
 248372441,filamentphp/filament,PHP,284
 148129143,bagisto/bagisto,PHP,111
 439861,moodle/moodle,PHP,59
-141720301,dr5hn/countries-states-cities-database,PHP,150
-39182755,glpi-project/glpi,PHP,66
+141720301,dr5hn/countries-states-cities-database,PHP,152
+39182755,glpi-project/glpi,PHP,64
 111562942,statamic/cms,PHP,88
