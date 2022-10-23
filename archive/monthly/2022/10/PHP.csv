@@ -1,15 +1,15 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,700
-7548986,laravel/framework,PHP,266
+7548986,laravel/framework,PHP,265
 458058,symfony/symfony,PHP,152
 60243197,nextcloud/server,PHP,294
 1376664,Seldaek/monolog,PHP,79
 2253830,PHPMailer/PHPMailer,PHP,135
-82238168,monicahq/monica,PHP,182
+82238168,monicahq/monica,PHP,183
 1548202,matomo-org/matomo,PHP,154
 2889328,WordPress/WordPress,PHP,137
 12615154,barryvdh/laravel-debugbar,PHP,110
-61490598,PHPOffice/PhpSpreadsheet,PHP,102
+61490598,PHPOffice/PhpSpreadsheet,PHP,101
 14259390,SpartnerNL/Laravel-Excel,PHP,71
 2699935,squizlabs/PHP_CodeSniffer,PHP,107
 597887,doctrine/orm,PHP,43
@@ -18,7 +18,7 @@ id,name,lang,new stars
 222873550,crater-invoice/crater,PHP,179
 3217621,phpmyadmin/phpmyadmin,PHP,70
 76064827,mailcow/mailcow-dockerized,PHP,96
-248372441,filamentphp/filament,PHP,287
+248372441,filamentphp/filament,PHP,286
 148129143,bagisto/bagisto,PHP,112
 439861,moodle/moodle,PHP,62
 141720301,dr5hn/countries-states-cities-database,PHP,154
