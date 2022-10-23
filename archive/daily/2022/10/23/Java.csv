@@ -1,13 +1,13 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,23
+132464395,Snailclimb/JavaGuide,Java,22
 6296790,spring-projects/spring-boot,Java,16
 507775,elastic/elasticsearch,Java,9
-206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,168
+206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,122
 20300177,google/guava,Java,9
 4710920,apache/dubbo,Java,7
-159152904,jeecgboot/jeecg-boot,Java,8
+159152904,jeecgboot/jeecg-boot,Java,13
 7587038,alibaba/canal,Java,6
-20818126,google/ExoPlayer,Java,6
+20818126,google/ExoPlayer,Java,8
 75164823,apache/rocketmq,Java,1
 7010724,dianping/cat,Java,2
 75643096,material-components/material-components-android,Java,8
@@ -15,11 +15,11 @@ id,name,lang,new stars
 5793738,Activiti/Activiti,Java,1
 10981994,OpenFeign/feign,Java,2
 7170058,flyway/flyway,Java,4
-33816473,testcontainers/testcontainers-java,Java,4
+33816473,testcontainers/testcontainers-java,Java,3
 50904245,apache/beam,Java,2
 156627365,itwanger/toBeBetterJavaer,Java,14
 2019791,liquibase/liquibase,Java,4
-212488700,pytorch/serve,Java,3
+212488700,pytorch/serve,Java,2
 113922675,awsdocs/aws-lambda-developer-guide,Java,0
 2928948,Azure/azure-sdk-for-java,Java,3
 292135960,lax1dude/eaglercraft,Java,9
