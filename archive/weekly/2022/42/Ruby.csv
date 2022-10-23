@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,56
-65252,jekyll/jekyll,Ruby,57
+8514,rails/rails,Ruby,58
+65252,jekyll/jekyll,Ruby,55
 7569578,discourse/discourse,Ruby,47
 27442967,fastlane/fastlane,Ruby,33
-2293158,rapid7/metasploit-framework,Ruby,80
+2293158,rapid7/metasploit-framework,Ruby,79
 481872,hashicorp/vagrant,Ruby,97
-308770,heartcombo/devise,Ruby,20
-2203645,CocoaPods/CocoaPods,Ruby,14
-4095287,rubocop/rubocop,Ruby,2
+308770,heartcombo/devise,Ruby,19
+2203645,CocoaPods/CocoaPods,Ruby,15
+4095287,rubocop/rubocop,Ruby,3
 1918677,fluent/fluentd,Ruby,12
-96395,faker-ruby/faker,Ruby,14
+96395,faker-ruby/faker,Ruby,13
 361310,teamcapybara/capybara,Ruby,5
 1333863,kaminari/kaminari,Ruby,8
 21829,thoughtbot/factory_bot,Ruby,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,12
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,16
 10088951,TheOdinProject/theodinproject,Ruby,17
-10504669,publiclab/plots2,Ruby,9
+10504669,publiclab/plots2,Ruby,8
 467296689,bullet-train-co/bullet_train,Ruby,16
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
