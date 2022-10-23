@@ -1,10 +1,10 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,18
 1181927,bitcoin/bitcoin,C++,12
-44838949,apple/swift,C++,12
+44838949,apple/swift,C++,9
 65600975,pytorch/pytorch,C++,16
-23357588,protocolbuffers/protobuf,C++,17
-27729880,grpc/grpc,C++,8
+23357588,protocolbuffers/protobuf,C++,15
+27729880,grpc/grpc,C++,7
 39840932,google/googletest,C++,5
 60246359,ClickHouse/ClickHouse,C++,7
 196813750,Light-City/CPlusPlusThings,C++,18
@@ -14,13 +14,13 @@ id,name,lang,new stars
 1062572,catchorg/Catch2,C++,20
 18348651,OpenRCT2/OpenRCT2,C++,8
 76990209,Aircoookie/WLED,C++,3
-5909706,yhirose/cpp-httplib,C++,9
+5909706,yhirose/cpp-httplib,C++,7
 156939672,microsoft/onnxruntime,C++,5
 138754790,duckdb/duckdb,C++,15
 354743391,o3de/o3de,C++,10
 26987049,zcash/zcash,C++,2
 22660515,doctest/doctest,C++,1
-402945349,StarRocks/starrocks,C++,4
+402945349,StarRocks/starrocks,C++,3
 52909975,facontidavide/PlotJuggler,C++,5
 112542515,NVIDIA/cutlass,C++,2
-521191759,ProjectPhysX/FluidX3D,C++,55
+521191759,ProjectPhysX/FluidX3D,C++,49

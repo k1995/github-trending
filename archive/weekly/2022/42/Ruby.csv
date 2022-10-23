@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,56
-65252,jekyll/jekyll,Ruby,55
-7569578,discourse/discourse,Ruby,50
+65252,jekyll/jekyll,Ruby,56
+7569578,discourse/discourse,Ruby,48
 27442967,fastlane/fastlane,Ruby,33
-2293158,rapid7/metasploit-framework,Ruby,78
+2293158,rapid7/metasploit-framework,Ruby,80
 481872,hashicorp/vagrant,Ruby,97
-2500088,gitlabhq/gitlabhq,Ruby,11
+2500088,gitlabhq/gitlabhq,Ruby,13
 308770,heartcombo/devise,Ruby,20
 2203645,CocoaPods/CocoaPods,Ruby,15
 4095287,rubocop/rubocop,Ruby,2
-96395,faker-ruby/faker,Ruby,15
+96395,faker-ruby/faker,Ruby,14
 1725199,github/linguist,Ruby,24
 361310,teamcapybara/capybara,Ruby,5
 21829,thoughtbot/factory_bot,Ruby,2
@@ -19,7 +19,7 @@ id,name,lang,new stars
 447184,rspec/rspec-rails,Ruby,10
 30985840,solidusio/solidus,Ruby,11
 614070,rubygems/rubygems,Ruby,12
-10088951,TheOdinProject/theodinproject,Ruby,18
+10088951,TheOdinProject/theodinproject,Ruby,17
 10504669,publiclab/plots2,Ruby,9
 467296689,bullet-train-co/bullet_train,Ruby,16
 88523514,cncf/gitdm,Ruby,1
