@@ -1,17 +1,17 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,2071
-36502,git/git,C,461
-102578345,coolsnowwolf/lede,C,441
-14812739,libuv/libuv,C,208
+2325298,torvalds/linux,C,2067
+36502,git/git,C,460
+102578345,coolsnowwolf/lede,C,442
+14812739,libuv/libuv,C,207
 18496166,gentilkiwi/mimikatz,C,199
-47409672,hashcat/hashcat,C,471
+47409672,hashcat/hashcat,C,470
 34921116,iovisor/bcc,C,267
-63477515,TheAlgorithms/C,C,370
+63477515,TheAlgorithms/C,C,371
 488002779,NVIDIA/open-gpu-kernel-modules,C,211
 78281075,SpacehuhnTech/esp8266_deauther,C,189
 70127218,espressif/arduino-esp32,C,185
-394318710,valinet/ExplorerPatcher,C,764
-32921736,audacity/audacity,C,230
+394318710,valinet/ExplorerPatcher,C,765
+32921736,audacity/audacity,C,228
 437011,openzfs/zfs,C,131
 105944401,yugabyte/yugabyte-db,C,264
 47057247,Wind4/vlmcsd,C,247
@@ -22,5 +22,5 @@ id,name,lang,new stars
 330008801,libsdl-org/SDL,C,232
 29933948,fluent/fluent-bit,C,144
 127023441,NVIDIA/cuda-samples,C,123
-283280154,jomjol/AI-on-the-edge-device,C,135
+283280154,jomjol/AI-on-the-edge-device,C,136
 200663555,axboe/liburing,C,84

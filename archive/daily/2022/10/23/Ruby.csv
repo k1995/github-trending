@@ -1,6 +1,6 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,4
-8681349,huginn/huginn,Ruby,6
+8681349,huginn/huginn,Ruby,4
 27442967,fastlane/fastlane,Ruby,2
 481872,hashicorp/vagrant,Ruby,10
 308770,heartcombo/devise,Ruby,1
@@ -9,8 +9,8 @@ id,name,lang,new stars
 4095287,rubocop/rubocop,Ruby,0
 1918677,fluent/fluentd,Ruby,1
 812393,ruby-grape/grape,Ruby,0
-2441517,puma/puma,Ruby,11
-108278,chef/chef,Ruby,0
+2441517,puma/puma,Ruby,10
+108278,chef/chef,Ruby,2
 33739333,thoughtbot/administrate,Ruby,0
 535266,vcr/vcr,Ruby,0
 1548802,activerecord-hackery/ransack,Ruby,1
@@ -18,8 +18,8 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,0
 363163,bblimke/webmock,Ruby,1
 103766152,github/explore,Ruby,2
-138776049,sorbet/sorbet,Ruby,2
-13445293,whitesmith/rubycritic,Ruby,2
+138776049,sorbet/sorbet,Ruby,0
+13445293,whitesmith/rubycritic,Ruby,0
 14238949,elastic/elasticsearch-rails,Ruby,0
 200302808,ViewComponent/view_component,Ruby,1
 9831101,elastic/elasticsearch-ruby,Ruby,0

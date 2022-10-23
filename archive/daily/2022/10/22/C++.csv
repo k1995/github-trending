@@ -4,7 +4,7 @@ id,name,lang,new stars
 44838949,apple/swift,C++,12
 65600975,pytorch/pytorch,C++,17
 23357588,protocolbuffers/protobuf,C++,31
-27729880,grpc/grpc,C++,9
+27729880,grpc/grpc,C++,8
 39840932,google/googletest,C++,5
 60246359,ClickHouse/ClickHouse,C++,8
 196813750,Light-City/CPlusPlusThings,C++,17
@@ -13,7 +13,7 @@ id,name,lang,new stars
 26038648,gabime/spdlog,C++,14
 1062572,catchorg/Catch2,C++,9
 18348651,OpenRCT2/OpenRCT2,C++,8
-76990209,Aircoookie/WLED,C++,7
+76990209,Aircoookie/WLED,C++,3
 5909706,yhirose/cpp-httplib,C++,9
 156939672,microsoft/onnxruntime,C++,9
 138754790,duckdb/duckdb,C++,17

@@ -1,11 +1,11 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,157
-7548986,laravel/framework,PHP,66
+3482588,danielmiessler/SecLists,PHP,156
+7548986,laravel/framework,PHP,65
 458058,symfony/symfony,PHP,45
 1864363,composer/composer,PHP,38
-60243197,nextcloud/server,PHP,75
-82238168,monicahq/monica,PHP,67
-2889328,WordPress/WordPress,PHP,27
+60243197,nextcloud/server,PHP,73
+82238168,monicahq/monica,PHP,68
+2889328,WordPress/WordPress,PHP,29
 12615154,barryvdh/laravel-debugbar,PHP,27
 61490598,PHPOffice/PhpSpreadsheet,PHP,30
 4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,23
@@ -13,11 +13,11 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,9
 2179920,woocommerce/woocommerce,PHP,14
 14346979,snipe/snipe-it,PHP,22
-9791525,digininja/DVWA,PHP,35
+9791525,digininja/DVWA,PHP,36
 3217621,phpmyadmin/phpmyadmin,PHP,21
 12204147,mautic/mautic,PHP,16
-60010673,elementor/elementor,PHP,15
-13044600,salesagility/SuiteCRM,PHP,29
+60010673,elementor/elementor,PHP,16
+13044600,salesagility/SuiteCRM,PHP,26
 131995661,shopware/platform,PHP,12
 174021137,inertiajs/pingcrm,PHP,9
 410524724,nunomaduro/termwind,PHP,35
