@@ -1,14 +1,14 @@
 id,name,lang,new stars
-155220641,huggingface/transformers,Python,533
-843222,scikit-learn/scikit-learn,Python,122
+155220641,huggingface/transformers,Python,532
+843222,scikit-learn/scikit-learn,Python,124
 74627617,commaai/openpilot,Python,186
 262296122,PaddlePaddle/PaddleOCR,Python,344
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,2622
-355959597,Textualize/textual,Python,203
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,2609
+355959597,Textualize/textual,Python,226
 143328315,mindsdb/mindsdb,Python,203
 217475193,PaddlePaddle/PaddleDetection,Python,248
 21800813,dwyl/english-words,Python,89
-7386799,OctoPrint/OctoPrint,Python,39
+7386799,OctoPrint/OctoPrint,Python,38
 520708737,moyix/fauxpilot,Python,137
 19130362,geerlingguy/ansible-for-devops,Python,49
 286500101,danielgatis/rembg,Python,342
@@ -17,10 +17,10 @@ id,name,lang,new stars
 291213368,open-mmlab/mmtracking,Python,20
 390700079,alanbobs999/TopFreeProxies,Python,103
 281519510,FedML-AI/FedML,Python,238
-148062266,JustAnotherArchivist/snscrape,Python,120
-512472057,t3l3machus/hoaxshell,Python,199
-435625572,starlite-api/starlite,Python,203
+148062266,JustAnotherArchivist/snscrape,Python,119
+512472057,t3l3machus/hoaxshell,Python,196
+435625572,starlite-api/starlite,Python,200
 229250747,KichangKim/DeepDanbooru,Python,128
-532145731,mingyuan-zhang/MotionDiffuse,Python,70
-550911062,horizon3ai/CVE-2022-40684,Python,60
-543716943,WeAreMahsaAmini/FreeInternet,Python,108
+532145731,mingyuan-zhang/MotionDiffuse,Python,66
+550911062,horizon3ai/CVE-2022-40684,Python,59
+543716943,WeAreMahsaAmini/FreeInternet,Python,109
