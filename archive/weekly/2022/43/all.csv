@@ -1,26 +1,26 @@
 id,name,lang,new stars
-23357588,protocolbuffers/protobuf,C++,145
-49609581,PowerShell/PowerShell,C#,380
+23357588,protocolbuffers/protobuf,C++,148
+49609581,PowerShell/PowerShell,C#,338
 17803236,rclone/rclone,Go,153
-299354207,rustdesk/rustdesk,Rust,846
-30203935,metabase/metabase,Clojure,330
-97533102,halfrost/LeetCode-Go,Go,676
+299354207,rustdesk/rustdesk,Rust,831
+30203935,metabase/metabase,Clojure,345
+97533102,halfrost/LeetCode-Go,Go,677
 262296122,PaddlePaddle/PaddleOCR,Python,567
-481872,hashicorp/vagrant,Ruby,94
+481872,hashicorp/vagrant,Ruby,92
 26337322,rancher/rancher,Go,128
-441903012,MichaelCade/90DaysOfDevOps,Shell,609
+441903012,MichaelCade/90DaysOfDevOps,Shell,608
 355959597,Textualize/textual,Python,782
-410749029,spacedriveapp/spacedrive,Rust,292
-52729242,keepassxreboot/keepassxc,C++,84
-311315731,XTLS/Xray-core,Go,224
-375939072,dotnetcore/FastGithub,C#,205
-354743391,o3de/o3de,C++,81
-462597790,aptos-labs/aptos-core,Rust,395
+410749029,spacedriveapp/spacedrive,Rust,294
+52729242,keepassxreboot/keepassxc,C++,85
+311315731,XTLS/Xray-core,Go,191
+375939072,dotnetcore/FastGithub,C#,185
+354743391,o3de/o3de,C++,85
+462597790,aptos-labs/aptos-core,Rust,444
 257434373,HyNetwork/hysteria,Go,111
-354448161,geerlingguy/internet-pi,Jinja,108
-520362846,marcj/TypeRunner,C++,627
-553135896,PrismLauncher/PrismLauncher,C++,927
-551376520,tw93/Pake,Rust,515
-544831636,google/prompt-to-prompt,Jupyter Notebook,317
-548392458,JingShing/novelai-colab-ver,Jupyter Notebook,168
+354448161,geerlingguy/internet-pi,Jinja,101
+520362846,marcj/TypeRunner,C++,659
+553135896,PrismLauncher/PrismLauncher,C++,889
+551376520,tw93/Pake,Rust,735
+544831636,google/prompt-to-prompt,Jupyter Notebook,425
+548392458,JingShing/novelai-colab-ver,Jupyter Notebook,170
 549758909,DominikDoom/a1111-sd-webui-tagcomplete,JavaScript,77
