@@ -1,26 +1,26 @@
 id,name,lang,new stars
-35955666,jlevy/the-art-of-command-line,,2038
-206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,1071
-77213120,Eugeny/tabby,TypeScript,494
-49609581,PowerShell/PowerShell,C#,360
+23357588,protocolbuffers/protobuf,C++,144
+49609581,PowerShell/PowerShell,C#,367
+17803236,rclone/rclone,Go,153
+299354207,rustdesk/rustdesk,Rust,831
 30203935,metabase/metabase,Clojure,345
 97533102,halfrost/LeetCode-Go,Go,676
 262296122,PaddlePaddle/PaddleOCR,Python,567
-168008797,microsoft/calculator,C++,240
-69495170,fastify/fastify,JavaScript,135
-317836248,GorvGoyl/Clone-Wars,,439
-479924503,The-Run-Philosophy-Organization/run,,476
+481872,hashicorp/vagrant,Ruby,92
 26337322,rancher/rancher,Go,128
-437245741,dragonflydb/dragonfly,C++,874
+441903012,MichaelCade/90DaysOfDevOps,Shell,601
 355959597,Textualize/textual,Python,782
 410749029,spacedriveapp/spacedrive,Rust,282
-311315731,XTLS/Xray-core,Go,215
-375939072,dotnetcore/FastGithub,C#,196
+52729242,keepassxreboot/keepassxc,C++,84
+311315731,XTLS/Xray-core,Go,218
+375939072,dotnetcore/FastGithub,C#,201
 354743391,o3de/o3de,C++,85
 462597790,aptos-labs/aptos-core,Rust,444
+257434373,HyNetwork/hysteria,Go,111
 354448161,geerlingguy/internet-pi,Jinja,101
-426075845,MystenLabs/sui,Rust,451
-551376520,tw93/Pake,Rust,602
-523443314,AmbiML/sparrow-manifest,,584
+520362846,marcj/TypeRunner,C++,659
+553135896,PrismLauncher/PrismLauncher,C++,927
+551376520,tw93/Pake,Rust,566
 544831636,google/prompt-to-prompt,Jupyter Notebook,425
-548392458,JingShing/novelai-colab-ver,Jupyter Notebook,174
+548392458,JingShing/novelai-colab-ver,Jupyter Notebook,171
+549758909,DominikDoom/a1111-sd-webui-tagcomplete,JavaScript,79
