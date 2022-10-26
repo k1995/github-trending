@@ -1,9 +1,9 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,60
 65252,jekyll/jekyll,Ruby,48
-7569578,discourse/discourse,Ruby,50
-27442967,fastlane/fastlane,Ruby,31
-13840241,freeCodeCamp/devdocs,Ruby,74
+7569578,discourse/discourse,Ruby,52
+27442967,fastlane/fastlane,Ruby,32
+13840241,freeCodeCamp/devdocs,Ruby,76
 481872,hashicorp/vagrant,Ruby,92
 2500088,gitlabhq/gitlabhq,Ruby,16
 308770,heartcombo/devise,Ruby,19
@@ -11,15 +11,15 @@ id,name,lang,new stars
 4095287,rubocop/rubocop,Ruby,6
 1918677,fluent/fluentd,Ruby,13
 96395,faker-ruby/faker,Ruby,16
-1725199,github/linguist,Ruby,24
-361310,teamcapybara/capybara,Ruby,5
-451035,heartcombo/simple_form,Ruby,9
+1725199,github/linguist,Ruby,25
+361310,teamcapybara/capybara,Ruby,6
+451035,heartcombo/simple_form,Ruby,8
 21829,thoughtbot/factory_bot,Ruby,6
 2441517,puma/puma,Ruby,41
-30985840,solidusio/solidus,Ruby,11
+30985840,solidusio/solidus,Ruby,12
 103766152,github/explore,Ruby,12
-1175581,citation-style-language/styles,Ruby,9
-10088951,TheOdinProject/theodinproject,Ruby,12
+1175581,citation-style-language/styles,Ruby,8
+10088951,TheOdinProject/theodinproject,Ruby,14
 270054,ffi/ffi,Ruby,1
 66497320,DataDog/dd-trace-rb,Ruby,1
 248407953,rubyforgood/casa,Ruby,1
