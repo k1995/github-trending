@@ -1,26 +1,26 @@
 id,name,lang,new stars
-35955666,jlevy/the-art-of-command-line,,432
+10270250,facebook/react,JavaScript,77
+35955666,jlevy/the-art-of-command-line,,414
+29028775,facebook/react-native,JavaScript,30
 70107786,vercel/next.js,JavaScript,243
-49609581,PowerShell/PowerShell,C#,85
-160083795,SerenityOS/serenity,C++,36
-73561650,jaywcjlove/linux-command,Markdown,233
-299628763,Asabeneh/30-Days-Of-React,JavaScript,138
-172714919,valeriansaliou/sonic,Rust,274
-27291507,asdf-vm/asdf,Shell,30
+103633984,goldbergyoni/nodebestpractices,JavaScript,34
+138393139,trimstray/the-book-of-secret-knowledge,,80
+212639071,bregman-arie/devops-exercises,Python,79
+299354207,rustdesk/rustdesk,Rust,114
+13855476,go-gorm/gorm,Go,23
+270171567,freefq/free,,40
+6247705,stretchr/testify,Go,15
+5179099,go-redis/redis,Go,14
 355959597,Textualize/textual,Python,382
-352933140,ToolJet/ToolJet,JavaScript,159
-413918947,vercel/turbo,Rust,2656
-315490189,dortania/OpenCore-Legacy-Patcher,Python,117
-103084166,tenable/terrascan,Go,141
-27135535,patriciogonzalezvivo/glslViewer,C++,41
-127246132,WalletConnect/web3modal,TypeScript,52
-268046281,MonsterNone/tmall-miao,JavaScript,121
-456258633,mikeroyal/Self-Hosting-Guide,Dockerfile,674
+413918947,vercel/turbo,Rust,2653
+375111441,coderQuad/New-Grad-Positions-2023,,13
+188779637,apache/incubator-streampark,Vue,1
+119571446,dotnet/samples,C#,3
 542931741,answerdev/answer,Go,385
-39093389,Azure/azure-rest-api-specs,,8
-238797860,ethereum-optimism/optimism,Go,29
-537940881,JoePenna/Dreambooth-Stable-Diffusion,Jupyter Notebook,112
+39093389,Azure/azure-rest-api-specs,,12
+537940881,JoePenna/Dreambooth-Stable-Diffusion,Jupyter Notebook,113
+498449014,nerfstudio-project/nerfstudio,Python,78
 539389184,TheLastBen/fast-stable-diffusion,Python,136
-214915273,aheze/OpenFind,Swift,77
-527578222,komodorio/helm-dashboard,Go,61
-553756546,pop-os/cosmic-text,Rust,67
+461147335,ageron/handson-ml3,Jupyter Notebook,59
+543961877,bumble-tech/private-detector,Python,85
+485926312,open-telemetry/opentelemetry-demo,Erlang,21

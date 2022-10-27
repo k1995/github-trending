@@ -1,26 +1,26 @@
 id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,152
-49609581,PowerShell/PowerShell,C#,397
-17803236,rclone/rclone,Go,184
+49609581,PowerShell/PowerShell,C#,429
 299354207,rustdesk/rustdesk,Rust,857
-30203935,metabase/metabase,Clojure,300
-97533102,halfrost/LeetCode-Go,Go,753
-262296122,PaddlePaddle/PaddleOCR,Python,648
-481872,hashicorp/vagrant,Ruby,96
-26337322,rancher/rancher,Go,133
+30203935,metabase/metabase,Clojure,295
+97533102,halfrost/LeetCode-Go,Go,752
+262296122,PaddlePaddle/PaddleOCR,Python,650
+168008797,microsoft/calculator,C++,143
 441903012,MichaelCade/90DaysOfDevOps,Shell,614
 355959597,Textualize/textual,Python,1093
-410749029,spacedriveapp/spacedrive,Rust,301
 52729242,keepassxreboot/keepassxc,C++,89
-311315731,XTLS/Xray-core,Go,227
-375939072,dotnetcore/FastGithub,C#,207
-354743391,o3de/o3de,C++,80
-462597790,aptos-labs/aptos-core,Rust,369
-257434373,HyNetwork/hysteria,Go,120
-354448161,geerlingguy/internet-pi,Jinja,94
-520362846,marcj/TypeRunner,C++,587
-553135896,PrismLauncher/PrismLauncher,C++,723
-551376520,tw93/Pake,Rust,493
-544831636,google/prompt-to-prompt,Jupyter Notebook,295
-548392458,JingShing/novelai-colab-ver,Jupyter Notebook,165
-549758909,DominikDoom/a1111-sd-webui-tagcomplete,JavaScript,80
+413918947,vercel/turbo,Rust,3939
+311315731,XTLS/Xray-core,Go,229
+483402734,android/nowinandroid,Kotlin,145
+368390355,vaxilu/x-ui,JavaScript,228
+462597790,aptos-labs/aptos-core,Rust,365
+338028961,Sangwan5688/BlackHole,Dart,91
+354448161,geerlingguy/internet-pi,Jinja,93
+426075845,MystenLabs/sui,Rust,461
+520362846,marcj/TypeRunner,C++,585
+553135896,PrismLauncher/PrismLauncher,C++,714
+551376520,tw93/Pake,Rust,435
+539389184,TheLastBen/fast-stable-diffusion,Python,377
+523443314,AmbiML/sparrow-manifest,,276
+544831636,google/prompt-to-prompt,Jupyter Notebook,296
+505538251,simeydotme/pokemon-cards-css,CSS,262
