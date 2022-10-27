@@ -1,26 +1,26 @@
 id,name,lang,new stars
 12888993,home-assistant/core,Python,609
-108761645,nocodb/nocodb,TypeScript,1866
+108761645,nocodb/nocodb,TypeScript,1865
 125266328,psf/black,Python,787
 68720867,firstcontributions/first-contributions,,3134
 180190854,appwrite/appwrite,TypeScript,1188
 349321229,TencentARC/GFPGAN,Python,1180
 63477612,TheAlgorithms/C-Plus-Plus,C++,1224
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,12887
-153099672,inancgumus/learngo,Go,1190
-437245741,dragonflydb/dragonfly,C++,3110
-268424739,helix-editor/helix,Rust,2617
-355959597,Textualize/textual,Python,1627
-352933140,ToolJet/ToolJet,JavaScript,1256
-413918947,vercel/turbo,Rust,4638
-368917877,BuilderIO/qwik,TypeScript,3038
-189621607,github/docs,JavaScript,647
-326404870,SigNoz/signoz,TypeScript,2464
-286500101,danielgatis/rembg,Python,1098
-244694174,project-chip/connectedhomeip,C++,512
-537085161,cloudflare/workerd,C++,3215
-533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,1728
-531788813,lkwq007/stablediffusion-infinity,Python,1674
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,12895
+153099672,inancgumus/learngo,Go,1188
+437245741,dragonflydb/dragonfly,C++,3112
+268424739,helix-editor/helix,Rust,2576
+355959597,Textualize/textual,Python,1641
+352933140,ToolJet/ToolJet,JavaScript,1260
+413918947,vercel/turbo,Rust,4704
+368917877,BuilderIO/qwik,TypeScript,3020
+189621607,github/docs,JavaScript,648
+326404870,SigNoz/signoz,TypeScript,2465
+286500101,danielgatis/rembg,Python,1101
+244694174,project-chip/connectedhomeip,C++,511
+537085161,cloudflare/workerd,C++,2964
+533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,1705
+531788813,lkwq007/stablediffusion-infinity,Python,1676
 265775217,bnb-chain/bsc,Go,157
-537940881,JoePenna/Dreambooth-Stable-Diffusion,Jupyter Notebook,1273
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,882
+537940881,JoePenna/Dreambooth-Stable-Diffusion,Jupyter Notebook,1254
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,883

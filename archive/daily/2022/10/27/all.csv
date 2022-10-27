@@ -1,25 +1,25 @@
 id,name,lang,new stars
-10270250,facebook/react,JavaScript,73
-35955666,jlevy/the-art-of-command-line,,432
+10270250,facebook/react,JavaScript,77
+35955666,jlevy/the-art-of-command-line,,414
 29028775,facebook/react-native,JavaScript,30
 70107786,vercel/next.js,JavaScript,243
 103633984,goldbergyoni/nodebestpractices,JavaScript,34
 138393139,trimstray/the-book-of-secret-knowledge,,80
 212639071,bregman-arie/devops-exercises,Python,79
-299354207,rustdesk/rustdesk,Rust,104
+299354207,rustdesk/rustdesk,Rust,114
 13855476,go-gorm/gorm,Go,23
 270171567,freefq/free,,40
-6247705,stretchr/testify,Go,25
+6247705,stretchr/testify,Go,15
 5179099,go-redis/redis,Go,14
 355959597,Textualize/textual,Python,382
-413918947,vercel/turbo,Rust,2656
+413918947,vercel/turbo,Rust,2653
 375111441,coderQuad/New-Grad-Positions-2023,,13
 188779637,apache/incubator-streampark,Vue,1
-119571446,dotnet/samples,C#,3
 542931741,answerdev/answer,Go,385
-39093389,Azure/azure-rest-api-specs,,8
-537940881,JoePenna/Dreambooth-Stable-Diffusion,Jupyter Notebook,121
-498449014,nerfstudio-project/nerfstudio,Python,79
+119571446,dotnet/samples,C#,3
+39093389,Azure/azure-rest-api-specs,,12
+537940881,JoePenna/Dreambooth-Stable-Diffusion,Jupyter Notebook,113
+498449014,nerfstudio-project/nerfstudio,Python,78
 539389184,TheLastBen/fast-stable-diffusion,Python,136
 461147335,ageron/handson-ml3,Jupyter Notebook,59
 543961877,bumble-tech/private-detector,Python,85
