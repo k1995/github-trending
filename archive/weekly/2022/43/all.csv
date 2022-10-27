@@ -1,26 +1,26 @@
 id,name,lang,new stars
-23357588,protocolbuffers/protobuf,C++,142
-49609581,PowerShell/PowerShell,C#,429
-299354207,rustdesk/rustdesk,Rust,857
-30203935,metabase/metabase,Clojure,295
-97533102,halfrost/LeetCode-Go,Go,752
-262296122,PaddlePaddle/PaddleOCR,Python,650
+23357588,protocolbuffers/protobuf,C++,144
+49609581,PowerShell/PowerShell,C#,431
+299354207,rustdesk/rustdesk,Rust,913
+30203935,metabase/metabase,Clojure,300
+97533102,halfrost/LeetCode-Go,Go,765
+262296122,PaddlePaddle/PaddleOCR,Python,668
 168008797,microsoft/calculator,C++,143
-441903012,MichaelCade/90DaysOfDevOps,Shell,614
-355959597,Textualize/textual,Python,1093
+441903012,MichaelCade/90DaysOfDevOps,Shell,585
+355959597,Textualize/textual,Python,1214
+413918947,vercel/turbo,Rust,4095
 52729242,keepassxreboot/keepassxc,C++,100
-413918947,vercel/turbo,Rust,3939
-311315731,XTLS/Xray-core,Go,230
-483402734,android/nowinandroid,Kotlin,150
+311315731,XTLS/Xray-core,Go,227
+483402734,android/nowinandroid,Kotlin,148
 368390355,vaxilu/x-ui,JavaScript,228
-462597790,aptos-labs/aptos-core,Rust,365
+462597790,aptos-labs/aptos-core,Rust,369
 338028961,Sangwan5688/BlackHole,Dart,91
-354448161,geerlingguy/internet-pi,Jinja,93
+354448161,geerlingguy/internet-pi,Jinja,84
 426075845,MystenLabs/sui,Rust,461
-520362846,marcj/TypeRunner,C++,553
-553135896,PrismLauncher/PrismLauncher,C++,588
-551376520,tw93/Pake,Rust,407
-539389184,TheLastBen/fast-stable-diffusion,Python,398
+520362846,marcj/TypeRunner,C++,552
+553135896,PrismLauncher/PrismLauncher,C++,723
+551376520,tw93/Pake,Rust,493
+539389184,TheLastBen/fast-stable-diffusion,Python,397
 523443314,AmbiML/sparrow-manifest,,263
-544831636,google/prompt-to-prompt,Jupyter Notebook,296
-505538251,simeydotme/pokemon-cards-css,CSS,262
+544831636,google/prompt-to-prompt,Jupyter Notebook,245
+505538251,simeydotme/pokemon-cards-css,CSS,268
