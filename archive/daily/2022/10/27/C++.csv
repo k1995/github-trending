@@ -1,11 +1,11 @@
 id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,23
-22887094,tesseract-ocr/tesseract,C++,12
+22887094,tesseract-ocr/tesseract,C++,14
 11171548,nlohmann/json,C++,19
-39840932,google/googletest,C++,15
+39840932,google/googletest,C++,16
 1116542,aria2/aria2,C++,23
-160083795,SerenityOS/serenity,C++,36
-65750241,expo/expo,C++,11
+160083795,SerenityOS/serenity,C++,42
+65750241,expo/expo,C++,10
 1062572,catchorg/Catch2,C++,7
 52729242,keepassxreboot/keepassxc,C++,14
 102343794,apache/incubator-brpc,C++,5
@@ -14,11 +14,11 @@ id,name,lang,new stars
 49986046,falcosecurity/falco,C++,4
 27358084,sysown/proxysql,C++,1
 109291007,finos/perspective,C++,9
-244694174,project-chip/connectedhomeip,C++,17
+244694174,project-chip/connectedhomeip,C++,18
 384520418,MaaAssistantArknights/MaaAssistantArknights,C++,36
 280608729,UZ-SLAMLab/ORB_SLAM3,C++,5
 153097643,openvinotoolkit/openvino,C++,4
-27135535,patriciogonzalezvivo/glslViewer,C++,41
+27135535,patriciogonzalezvivo/glslViewer,C++,54
 119178893,klzgrad/naiveproxy,C++,29
 156228018,cyberbotics/webots,C++,14
 356055024,tensorflow/tflite-micro,C++,7

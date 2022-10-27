@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,10
-2253830,PHPMailer/PHPMailer,PHP,6
+2253830,PHPMailer/PHPMailer,PHP,7
 47495360,koel/koel,PHP,5
 2884111,magento/magento2,PHP,1
 41589337,BookStackApp/BookStack,PHP,6
@@ -9,8 +9,8 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,1
 330275,twigphp/Twig,PHP,3
 97311017,rectorphp/rector,PHP,6
-76064827,mailcow/mailcow-dockerized,PHP,6
-12204147,mautic/mautic,PHP,2
+76064827,mailcow/mailcow-dockerized,PHP,7
+12204147,mautic/mautic,PHP,3
 74386167,vimeo/psalm,PHP,1
 60010673,elementor/elementor,PHP,3
 439861,moodle/moodle,PHP,1
@@ -18,7 +18,7 @@ id,name,lang,new stars
 39182755,glpi-project/glpi,PHP,1
 2686502,pimcore/pimcore,PHP,1
 3193843,drush-ops/drush,PHP,1
-138328462,freescout-helpdesk/freescout,PHP,0
+138328462,freescout-helpdesk/freescout,PHP,1
 34407154,cweagans/composer-patches,PHP,0
 541322916,openai-php/client,PHP,36
 66662684,microsoftgraph/msgraph-sdk-php,PHP,0
