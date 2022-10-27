@@ -1,8 +1,8 @@
 id,name,lang,new stars
-23357588,protocolbuffers/protobuf,C++,22
-22887094,tesseract-ocr/tesseract,C++,12
+23357588,protocolbuffers/protobuf,C++,23
+22887094,tesseract-ocr/tesseract,C++,11
 11171548,nlohmann/json,C++,18
-39840932,google/googletest,C++,16
+39840932,google/googletest,C++,14
 1116542,aria2/aria2,C++,23
 160083795,SerenityOS/serenity,C++,45
 65750241,expo/expo,C++,10
@@ -13,14 +13,14 @@ id,name,lang,new stars
 143324737,diasurgical/devilutionX,C++,2
 49986046,falcosecurity/falco,C++,4
 27358084,sysown/proxysql,C++,1
-109291007,finos/perspective,C++,13
+109291007,finos/perspective,C++,11
 244694174,project-chip/connectedhomeip,C++,17
-384520418,MaaAssistantArknights/MaaAssistantArknights,C++,38
+384520418,MaaAssistantArknights/MaaAssistantArknights,C++,37
 280608729,UZ-SLAMLab/ORB_SLAM3,C++,4
 153097643,openvinotoolkit/openvino,C++,4
 27135535,patriciogonzalezvivo/glslViewer,C++,16
-119178893,klzgrad/naiveproxy,C++,28
-156228018,cyberbotics/webots,C++,14
-356055024,tensorflow/tflite-micro,C++,6
-536540325,jdah/archimedes,C++,41
+119178893,klzgrad/naiveproxy,C++,30
+156228018,cyberbotics/webots,C++,15
+356055024,tensorflow/tflite-micro,C++,7
+536540325,jdah/archimedes,C++,40
 556330756,ReCryptLLC/CVE-2022-42045,C++,1

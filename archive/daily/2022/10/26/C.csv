@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,54
-156018,redis/redis,C,28
+2325298,torvalds/linux,C,55
+156018,redis/redis,C,27
 246335987,ventoy/Ventoy,C,39
 37912398,nginx/nginx,C,8
 34921116,iovisor/bcc,C,8
-184909163,koekeishiya/yabai,C,26
+184909163,koekeishiya/yabai,C,25
 179354282,acidanthera/OpenCorePkg,C,5
-7715820,davatorium/rofi,C,3
+7715820,davatorium/rofi,C,2
 32921736,audacity/audacity,C,4
 59771425,zephyrproject-rtos/zephyr,C,4
 2755696,mattn/go-sqlite3,C,4
 673267,redis/hiredis,C,2
 86245815,pygame/pygame,C,5
 40556106,wazuh/wazuh,C,2
-284134871,flipperdevices/flipperzero-firmware,C,42
+284134871,flipperdevices/flipperzero-firmware,C,43
 128791889,haproxy/haproxy,C,3
 34807561,nanopb/nanopb,C,3
 189044704,AFLplusplus/AFLplusplus,C,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 80611216,open5gs/open5gs,C,4
 51990771,ARM-software/CMSIS_5,C,2
 443326616,ScarredMonk/SysmonSimulator,C,6
-458383624,memtest86plus/memtest86plus,C,43
-20359440,goatshriek/stumpless,C,3
+458383624,memtest86plus/memtest86plus,C,42
+20359440,goatshriek/stumpless,C,2

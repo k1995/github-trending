@@ -1,7 +1,7 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,11
+7569578,discourse/discourse,Ruby,10
 53238813,Homebrew/brew,Ruby,20
-481872,hashicorp/vagrant,Ruby,7
+481872,hashicorp/vagrant,Ruby,9
 2203645,CocoaPods/CocoaPods,Ruby,1
 88740103,postalserver/postal,Ruby,3
 3195124,mperham/sidekiq,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 61203,Shopify/shopify_app,Ruby,0
 34840276,elastic/ansible-elasticsearch,Ruby,0
 29151578,rswag/rswag,Ruby,1
-6257856,openfoodfoundation/openfoodnetwork,Ruby,1
+6257856,openfoodfoundation/openfoodnetwork,Ruby,0
 136781582,rubocop/rubocop-rails,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
