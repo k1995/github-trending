@@ -1,26 +1,26 @@
 id,name,lang,new stars
 12888993,home-assistant/core,Python,607
-108761645,nocodb/nocodb,TypeScript,1869
-125266328,psf/black,Python,793
+108761645,nocodb/nocodb,TypeScript,1874
+125266328,psf/black,Python,797
 68720867,firstcontributions/first-contributions,,3087
-180190854,appwrite/appwrite,TypeScript,1187
-349321229,TencentARC/GFPGAN,Python,1179
+180190854,appwrite/appwrite,TypeScript,1184
+349321229,TencentARC/GFPGAN,Python,1180
 63477612,TheAlgorithms/C-Plus-Plus,C++,1231
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,12943
-153099672,inancgumus/learngo,Go,1177
-437245741,dragonflydb/dragonfly,C++,3114
-268424739,helix-editor/helix,Rust,2532
-355959597,Textualize/textual,Python,1714
-413918947,vercel/turbo,Rust,5003
-352933140,ToolJet/ToolJet,JavaScript,1267
-368917877,BuilderIO/qwik,TypeScript,3002
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,12955
+153099672,inancgumus/learngo,Go,1171
+437245741,dragonflydb/dragonfly,C++,3111
+268424739,helix-editor/helix,Rust,2514
+355959597,Textualize/textual,Python,1735
+413918947,vercel/turbo,Rust,5114
+352933140,ToolJet/ToolJet,JavaScript,1268
+368917877,BuilderIO/qwik,TypeScript,2985
 189621607,github/docs,JavaScript,649
-326404870,SigNoz/signoz,TypeScript,2469
-286500101,danielgatis/rembg,Python,1117
-244694174,project-chip/connectedhomeip,C++,512
-537085161,cloudflare/workerd,C++,2417
-533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,1633
-531788813,lkwq007/stablediffusion-infinity,Python,1677
+326404870,SigNoz/signoz,TypeScript,2473
+286500101,danielgatis/rembg,Python,1123
+244694174,project-chip/connectedhomeip,C++,513
+537085161,cloudflare/workerd,C++,2226
+533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,1603
+531788813,lkwq007/stablediffusion-infinity,Python,1679
 265775217,bnb-chain/bsc,Go,159
-537940881,JoePenna/Dreambooth-Stable-Diffusion,Jupyter Notebook,1241
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,885
+537940881,JoePenna/Dreambooth-Stable-Diffusion,Jupyter Notebook,1232
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,887
