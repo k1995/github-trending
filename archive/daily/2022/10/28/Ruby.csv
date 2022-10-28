@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-7569578,discourse/discourse,Ruby,15
+8514,rails/rails,Ruby,8
+7569578,discourse/discourse,Ruby,18
 27442967,fastlane/fastlane,Ruby,7
 53238813,Homebrew/brew,Ruby,12
-52281283,mastodon/mastodon,Ruby,17
-2293158,rapid7/metasploit-framework,Ruby,6
+52281283,mastodon/mastodon,Ruby,23
+2293158,rapid7/metasploit-framework,Ruby,7
 2500088,gitlabhq/gitlabhq,Ruby,2
-308770,heartcombo/devise,Ruby,5
-37382858,kilimchoi/engineering-blogs,Ruby,4
-73648678,forem/forem,Ruby,11
+308770,heartcombo/devise,Ruby,6
+37382858,kilimchoi/engineering-blogs,Ruby,3
+73648678,forem/forem,Ruby,10
 52855516,Homebrew/homebrew-core,Ruby,7
 1918677,fluent/fluentd,Ruby,3
-96395,faker-ruby/faker,Ruby,3
-1725199,github/linguist,Ruby,4
+96395,faker-ruby/faker,Ruby,2
+1725199,github/linguist,Ruby,14
 75785147,rails/webpacker,Ruby,0
 1314319,instructure/canvas-lms,Ruby,4
 839336,simplecov-ruby/simplecov,Ruby,0
@@ -20,7 +20,7 @@ id,name,lang,new stars
 21333814,lynndylanhurley/devise_token_auth,Ruby,1
 46698467,ankane/strong_migrations,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,0
-200302808,ViewComponent/view_component,Ruby,2
+200302808,ViewComponent/view_component,Ruby,3
 65914086,decidim/decidim,Ruby,0
 136781582,rubocop/rubocop-rails,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,0
