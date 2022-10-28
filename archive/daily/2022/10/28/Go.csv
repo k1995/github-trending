@@ -6,7 +6,7 @@ id,name,lang,new stars
 13855476,go-gorm/gorm,Go,32
 31288958,hashicorp/vault,Go,9
 24268127,coreybutler/nvm-windows,Go,19
-6247705,stretchr/testify,Go,21
+6247705,stretchr/testify,Go,23
 5179099,go-redis/redis,Go,16
 33258973,influxdata/telegraf,Go,7
 119419195,GoogleContainerTools/kaniko,Go,12
@@ -20,7 +20,7 @@ id,name,lang,new stars
 187086161,open-telemetry/opentelemetry-go,Go,6
 19608522,googleapis/google-cloud-go,Go,2
 169108858,kyverno/kyverno,Go,12
-542931741,answerdev/answer,Go,705
+542931741,answerdev/answer,Go,722
 124157517,kubernetes-sigs/cluster-api,Go,4
 98185104,avast/retry-go,Go,25
-527578222,komodorio/helm-dashboard,Go,125
+527578222,komodorio/helm-dashboard,Go,124
