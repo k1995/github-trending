@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,61
-65252,jekyll/jekyll,Ruby,49
-7569578,discourse/discourse,Ruby,57
-27442967,fastlane/fastlane,Ruby,35
-53238813,Homebrew/brew,Ruby,102
-13840241,freeCodeCamp/devdocs,Ruby,69
-481872,hashicorp/vagrant,Ruby,83
-308770,heartcombo/devise,Ruby,17
-37382858,kilimchoi/engineering-blogs,Ruby,43
-3195124,mperham/sidekiq,Ruby,5
+65252,jekyll/jekyll,Ruby,47
+7569578,discourse/discourse,Ruby,55
+27442967,fastlane/fastlane,Ruby,33
+53238813,Homebrew/brew,Ruby,103
+13840241,freeCodeCamp/devdocs,Ruby,70
+481872,hashicorp/vagrant,Ruby,77
+308770,heartcombo/devise,Ruby,18
+37382858,kilimchoi/engineering-blogs,Ruby,42
+3195124,mperham/sidekiq,Ruby,6
 4095287,rubocop/rubocop,Ruby,7
 96395,faker-ruby/faker,Ruby,18
 1725199,github/linguist,Ruby,22
@@ -16,9 +16,9 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,5
 2441517,puma/puma,Ruby,33
 447184,rspec/rspec-rails,Ruby,9
-30985840,solidusio/solidus,Ruby,8
+30985840,solidusio/solidus,Ruby,7
 1175581,citation-style-language/styles,Ruby,9
-200302808,ViewComponent/view_component,Ruby,16
+200302808,ViewComponent/view_component,Ruby,14
 10088951,TheOdinProject/theodinproject,Ruby,12
 270054,ffi/ffi,Ruby,1
 209731662,ruby/debug,Ruby,3
