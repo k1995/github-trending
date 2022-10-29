@@ -1,6 +1,6 @@
 id,name,lang,new stars
 65600975,pytorch/pytorch,C++,26
-39840932,google/googletest,C++,40
+39840932,google/googletest,C++,36
 96246170,ApolloAuto/apollo,C++,6
 65214191,envoyproxy/envoy,C++,7
 34777562,ossrs/srs,C++,19
@@ -9,17 +9,17 @@ id,name,lang,new stars
 1234783,mobile-shell/mosh,C++,6
 51905353,apache/arrow,C++,30
 1690480,qgis/QGIS,C++,4
-224468265,dail8859/NotepadNext,C++,25
+224468265,dail8859/NotepadNext,C++,26
 67641996,oneapi-src/oneTBB,C++,6
 224908244,WasmEdge/WasmEdge,C++,24
 71402842,microsoft/Detours,C++,1
-81634683,Oneflow-Inc/oneflow,C++,1
+81634683,Oneflow-Inc/oneflow,C++,2
 47440536,cocos/cocos-engine,C++,3
-119178893,klzgrad/naiveproxy,C++,25
+119178893,klzgrad/naiveproxy,C++,29
 105010691,nextcloud/desktop,C++,2
 81384578,nodejs/node-addon-api,C++,2
 436366606,loveBabbar/CodeHelp-DSA-Busted-Series,C++,6
-135363400,ros-planning/navigation2,C++,3
+135363400,ros-planning/navigation2,C++,2
 507861208,PaddlePaddle/FastDeploy,C++,8
 75149209,okcashpro/okcash,C++,78
 555646356,alibaba/yalantinglibs,C++,4
