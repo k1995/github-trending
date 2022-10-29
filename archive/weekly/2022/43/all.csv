@@ -1,26 +1,26 @@
 id,name,lang,new stars
-70107786,vercel/next.js,JavaScript,928
+70107786,vercel/next.js,JavaScript,935
+34526884,ant-design/ant-design,TypeScript,150
+243950408,Anduin2017/HowToCook,Shell,256
 49609581,PowerShell/PowerShell,C#,423
-136815833,Dreamacro/clash,Go,300
+136815833,Dreamacro/clash,Go,299
 299354207,rustdesk/rustdesk,Rust,1053
-97533102,halfrost/LeetCode-Go,Go,673
-262296122,PaddlePaddle/PaddleOCR,Python,607
+13855476,go-gorm/gorm,Go,139
+97533102,halfrost/LeetCode-Go,Go,671
 441903012,MichaelCade/90DaysOfDevOps,Shell,451
-299628763,Asabeneh/30-Days-Of-React,JavaScript,436
-355959597,Textualize/textual,Python,1406
+142187665,HarisIqbal88/PlotNeuralNet,TeX,332
+355959597,Textualize/textual,Python,1408
 413918947,vercel/turbo,Rust,5091
-54360307,uNetworking/uWebSockets,C++,413
-311315731,XTLS/Xray-core,Go,235
-261039251,pointfreeco/swift-composable-architecture,Swift,72
-368390355,vaxilu/x-ui,JavaScript,227
+54360307,uNetworking/uWebSockets,C++,415
+52729242,keepassxreboot/keepassxc,C++,111
+483402734,android/nowinandroid,Kotlin,156
 336274588,PaddlePaddle/PaddleNLP,Python,199
 462597790,aptos-labs/aptos-core,Rust,213
-528313152,benphelps/homepage,JavaScript,141
-503760270,Automattic/pocket-casts-android,Kotlin,931
-505538251,simeydotme/pokemon-cards-css,Svelte,869
-539389184,TheLastBen/fast-stable-diffusion,Python,532
+284134871,flipperdevices/flipperzero-firmware,C,206
+426075845,MystenLabs/sui,Rust,382
+503760270,Automattic/pocket-casts-android,Kotlin,912
+505538251,simeydotme/pokemon-cards-css,Svelte,911
+539389184,TheLastBen/fast-stable-diffusion,Python,544
 512754250,Automattic/pocket-casts-ios,Swift,698
-553712848,runwayml/stable-diffusion,Jupyter Notebook,551
+553712848,runwayml/stable-diffusion,Jupyter Notebook,540
 461147335,ageron/handson-ml3,Jupyter Notebook,219
-491861053,nuxt/movies,Vue,119
-507861208,PaddlePaddle/FastDeploy,C++,43
