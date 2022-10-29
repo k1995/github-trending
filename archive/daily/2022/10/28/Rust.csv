@@ -1,12 +1,12 @@
 id,name,lang,new stars
 51980455,alacritty/alacritty,Rust,31
-299354207,rustdesk/rustdesk,Rust,150
+299354207,rustdesk/rustdesk,Rust,149
 115110181,swc-project/swc,Rust,41
 179164257,diem/diem,Rust,29
 193526915,dandavison/delta,Rust,18
 413918947,vercel/turbo,Rust,1216
 149026292,cube-js/cube.js,Rust,10
-148641954,TheAlgorithms/Rust,Rust,36
+148641954,TheAlgorithms/Rust,Rust,37
 23500865,hyperium/hyper,Rust,12
 17420913,rust-lang/cargo,Rust,7
 109872620,paritytech/substrate,Rust,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 482211236,MicroCBer/BetterNCM-Installer,Rust,9
 424598738,apollographql/router,Rust,1
 519132476,asciinema/agg,Rust,12
-553910680,tfpk/macrokata,Rust,57
+553910680,tfpk/macrokata,Rust,58

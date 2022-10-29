@@ -1,13 +1,13 @@
 id,name,lang,new stars
 507775,elastic/elasticsearch,Java,18
-1148753,spring-projects/spring-framework,Java,22
-173228436,NationalSecurityAgency/ghidra,Java,17
-120395176,alibaba/easyexcel,Java,18
+1148753,spring-projects/spring-framework,Java,27
+173228436,NationalSecurityAgency/ghidra,Java,15
+120395176,alibaba/easyexcel,Java,17
 20587599,apache/flink,Java,13
-20773773,bazelbuild/bazel,Java,3
-5349565,prestodb/presto,Java,8
+20773773,bazelbuild/bazel,Java,5
+5349565,prestodb/presto,Java,5
 11125589,keycloak/keycloak,Java,16
-74359442,Tencent/APIJSON,Java,10
+74359442,Tencent/APIJSON,Java,11
 75277003,thingsboard/thingsboard,Java,4
 139914932,quarkusio/quarkus,Java,4
 113983289,kekingcn/kkFileView,Java,11
@@ -16,11 +16,11 @@ id,name,lang,new stars
 226096934,jeecgboot/JimuReport,Java,4
 27911088,apache/nifi,Java,3
 21193524,apache/calcite,Java,3
-231329990,jetlinks/jetlinks-community,Java,25
+231329990,jetlinks/jetlinks-community,Java,49
 90675730,kubernetes-client/java,Java,1
 312830970,648540858/wvp-GB28181-pro,Java,5
-2928948,Azure/azure-sdk-for-java,Java,1
-543010228,bytedance/bitsail,Java,139
-551376746,AbdurRKhalid/Design-Patterns,Java,66
+2928948,Azure/azure-sdk-for-java,Java,0
+543010228,bytedance/bitsail,Java,138
+551376746,AbdurRKhalid/Design-Patterns,Java,97
 553380667,woowacourse-precourse/java-onboarding,Java,14
-521371906,apple/batch-processing-gateway,Java,16
+521371906,apple/batch-processing-gateway,Java,15
