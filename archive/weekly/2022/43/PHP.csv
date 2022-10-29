@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,74
-3482588,danielmiessler/SecLists,PHP,169
+1863329,laravel/laravel,PHP,73
+3482588,danielmiessler/SecLists,PHP,165
 458058,symfony/symfony,PHP,27
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,31
-60243197,nextcloud/server,PHP,66
-2889328,WordPress/WordPress,PHP,31
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,30
+60243197,nextcloud/server,PHP,67
+2889328,WordPress/WordPress,PHP,33
 47495360,koel/koel,PHP,40
 56728437,docker/labs,PHP,18
 42480275,spatie/laravel-permission,PHP,25
@@ -12,13 +12,13 @@ id,name,lang,new stars
 11340559,deployphp/deployer,PHP,17
 6763587,PrestaShop/PrestaShop,PHP,13
 70239358,cytopia/devilbox,PHP,9
-96284790,prasathmani/tinyfilemanager,PHP,21
+96284790,prasathmani/tinyfilemanager,PHP,22
 73220421,aonez/Keka,PHP,32
-129852395,assimon/dujiaoka,PHP,38
+129852395,assimon/dujiaoka,PHP,37
 286645686,yuantuo666/baiduwp-php,PHP,17
 153069455,collabnix/dockerlabs,PHP,17
 57463067,AzuraCast/AzuraCast,PHP,17
-216849756,v2board/v2board,PHP,26
+216849756,v2board/v2board,PHP,25
 260729799,knuckleswtf/scribe,PHP,19
 443605948,pablouser1/ProxiTok,PHP,21
 541322916,openai-php/client,PHP,169

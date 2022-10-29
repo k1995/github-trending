@@ -1,8 +1,8 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
+8514,rails/rails,Ruby,6
 7569578,discourse/discourse,Ruby,12
-27442967,fastlane/fastlane,Ruby,2
-52281283,mastodon/mastodon,Ruby,81
+27442967,fastlane/fastlane,Ruby,1
+52281283,mastodon/mastodon,Ruby,83
 2500088,gitlabhq/gitlabhq,Ruby,3
 308770,heartcombo/devise,Ruby,7
 538746,ruby/ruby,Ruby,6
@@ -10,17 +10,17 @@ id,name,lang,new stars
 106995,sinatra/sinatra,Ruby,2
 1918677,fluent/fluentd,Ruby,3
 96395,faker-ruby/faker,Ruby,0
-1725199,github/linguist,Ruby,31
-812393,ruby-grape/grape,Ruby,3
+1725199,github/linguist,Ruby,21
+812393,ruby-grape/grape,Ruby,2
 611921,activeadmin/activeadmin,Ruby,1
 75785147,rails/webpacker,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,0
 5219382,rack/rack-attack,Ruby,0
 5954,jeremyevans/sequel,Ruby,0
-1314319,instructure/canvas-lms,Ruby,1
+1314319,instructure/canvas-lms,Ruby,2
 46698467,ankane/strong_migrations,Ruby,0
 614070,rubygems/rubygems,Ruby,0
 3898922,zammad/zammad,Ruby,4
 588600,brianmario/mysql2,Ruby,0
-3064003,pglombardo/PasswordPusher,Ruby,4
+3064003,pglombardo/PasswordPusher,Ruby,2
 3276877,ThrowTheSwitch/Ceedling,Ruby,0

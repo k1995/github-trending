@@ -1,16 +1,16 @@
 id,name,lang,new stars
 49609581,PowerShell/PowerShell,C#,21
-69662720,mxgmn/WaveFunctionCollapse,C#,6
-262395224,dotnet/maui,C#,11
-29078997,dotnet/roslyn,C#,9
-120231691,Ryujinx/Ryujinx,C#,13
+69662720,mxgmn/WaveFunctionCollapse,C#,5
+262395224,dotnet/maui,C#,10
+29078997,dotnet/roslyn,C#,8
+120231691,Ryujinx/Ryujinx,C#,15
 16157746,dotnet/efcore,C#,5
-411493648,veler/DevToys,C#,15
-210716005,dotnet/runtime,C#,15
+411493648,veler/DevToys,C#,19
+210716005,dotnet/runtime,C#,12
 75990888,dotnet/csharplang,C#,5
 1135454,cefsharp/CefSharp,C#,5
 75505125,abpframework/abp,C#,5
-12191244,dotnet/BenchmarkDotNet,C#,9
+12191244,dotnet/BenchmarkDotNet,C#,7
 83380995,dotnet-architecture/eShopOnWeb,C#,6
 460848,mRemoteNG/mRemoteNG,C#,3
 11591313,reactiveui/refit,C#,3
@@ -18,9 +18,9 @@ id,name,lang,new stars
 19216825,xamarin/xamarin-forms-samples,C#,0
 187499284,Cysharp/UniTask,C#,7
 453037,JoshClose/CsvHelper,C#,4
-462682958,SebLague/Geographical-Adventures,C#,1
-119571446,dotnet/samples,C#,6
-199628708,microsoft/RulesEngine,C#,14
+462682958,SebLague/Geographical-Adventures,C#,0
+119571446,dotnet/samples,C#,10
+199628708,microsoft/RulesEngine,C#,13
 173170791,dotnet/SqlClient,C#,1
 345354985,TheOtherRolesAU/TheOtherRoles,C#,2
 298677378,goichot/CVE-2020-3433,C#,0
