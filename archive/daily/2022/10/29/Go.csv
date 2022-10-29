@@ -2,8 +2,8 @@ id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,19
 11180687,gohugoio/hugo,Go,23
 11225014,etcd-io/etcd,Go,12
-17728164,hashicorp/terraform,Go,25
-135516270,k3s-io/k3s,Go,4
+17728164,hashicorp/terraform,Go,37
+135516270,k3s-io/k3s,Go,8
 26337322,rancher/rancher,Go,4
 233130089,charmbracelet/bubbletea,Go,18
 11008207,vitessio/vitess,Go,8
@@ -19,7 +19,7 @@ id,name,lang,new stars
 515619101,charmbracelet/vhs,Go,1115
 542931741,answerdev/answer,Go,409
 235431922,go-rod/rod,Go,18
-234757030,charmbracelet/bubbles,Go,4
+234757030,charmbracelet/bubbles,Go,6
 173009358,deepmap/oapi-codegen,Go,2
 491539130,cloudwego/hertz,Go,93
 125253663,google/go-containerregistry,Go,4

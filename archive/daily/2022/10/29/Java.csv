@@ -1,6 +1,6 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,14
-507775,elastic/elasticsearch,Java,11
+132464395,Snailclimb/JavaGuide,Java,18
+507775,elastic/elasticsearch,Java,13
 20818126,google/ExoPlayer,Java,3
 5349565,prestodb/presto,Java,3
 11125589,keycloak/keycloak,Java,13
@@ -10,7 +10,7 @@ id,name,lang,new stars
 283046497,airbytehq/airbyte,Java,16
 113983289,kekingcn/kkFileView,Java,5
 206424,apache/cassandra,Java,1
-66023605,awsdocs/aws-doc-sdk-examples,Java,6
+66023605,awsdocs/aws-doc-sdk-examples,Java,4
 248416273,didi/KnowStreaming,Java,3
 99412308,apache/incubator-seatunnel,Java,4
 27911088,apache/nifi,Java,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 156819424,javastacks/spring-boot-best-practice,Java,6
 2928948,Azure/azure-sdk-for-java,Java,0
 281414496,kkevsekk1/AutoX,Java,9
-235013588,in28minutes/devops-master-class,Java,2
-543010228,bytedance/bitsail,Java,71
-551376746,AbdurRKhalid/Design-Patterns,Java,92
+235013588,in28minutes/devops-master-class,Java,3
+543010228,bytedance/bitsail,Java,86
+551376746,AbdurRKhalid/Design-Patterns,Java,72
