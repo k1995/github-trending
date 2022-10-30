@@ -11,11 +11,11 @@ id,name,lang,new stars
 161951219,wailsapp/wails,Go,16
 41288708,sourcegraph/sourcegraph,Go,5
 281694167,Mrs4s/go-cqhttp,Go,7
-515619101,charmbracelet/vhs,Go,887
+515619101,charmbracelet/vhs,Go,884
 216103835,v2rayA/v2rayA,Go,7
 93446042,hashicorp/terraform-provider-azurerm,Go,6
-201546443,trustwallet/assets,Go,3
 420503947,binwiederhier/ntfy,Go,80
+201546443,trustwallet/assets,Go,3
 235431922,go-rod/rod,Go,19
 293477261,golang-module/carbon,Go,18
 158012967,argoproj/argo-rollouts,Go,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 157554479,meshery/meshery,Go,3
 286530881,FloatTech/ZeroBot-Plugin,Go,2
 486038209,XrayR-project/XrayR,Go,5
-558365686,H4de5-7/geacon_pro,Go,13
+558365686,H4de5-7/geacon_pro,Go,14

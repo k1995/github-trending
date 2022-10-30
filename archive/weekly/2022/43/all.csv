@@ -1,18 +1,18 @@
 id,name,lang,new stars
-70107786,vercel/next.js,JavaScript,1056
-34526884,ant-design/ant-design,TypeScript,146
-49609581,PowerShell/PowerShell,C#,371
+70107786,vercel/next.js,JavaScript,1051
+34526884,ant-design/ant-design,TypeScript,147
+49609581,PowerShell/PowerShell,C#,377
 136815833,Dreamacro/clash,Go,317
-299354207,rustdesk/rustdesk,Rust,917
+299354207,rustdesk/rustdesk,Rust,966
 52281283,mastodon/mastodon,Ruby,295
-13855476,go-gorm/gorm,Go,147
+13855476,go-gorm/gorm,Go,145
 48610662,acmesh-official/acme.sh,Shell,355
-97533102,halfrost/LeetCode-Go,Go,600
+97533102,halfrost/LeetCode-Go,Go,624
 19953044,google/flatbuffers,C++,53
-142187665,HarisIqbal88/PlotNeuralNet,TeX,292
-413918947,vercel/turbo,Rust,5401
-355959597,Textualize/textual,Python,1421
-54360307,uNetworking/uWebSockets,C++,421
+142187665,HarisIqbal88/PlotNeuralNet,TeX,293
+413918947,vercel/turbo,Rust,5396
+355959597,Textualize/textual,Python,1423
+54360307,uNetworking/uWebSockets,C++,422
 352933140,ToolJet/ToolJet,JavaScript,645
 483402734,android/nowinandroid,Kotlin,168
 336274588,PaddlePaddle/PaddleNLP,Python,254
@@ -21,6 +21,6 @@ id,name,lang,new stars
 503760270,Automattic/pocket-casts-android,Kotlin,754
 505538251,simeydotme/pokemon-cards-css,Svelte,1105
 539389184,TheLastBen/fast-stable-diffusion,Python,557
-553712848,runwayml/stable-diffusion,Jupyter Notebook,427
+553712848,runwayml/stable-diffusion,Jupyter Notebook,437
 512754250,Automattic/pocket-casts-ios,Swift,594
 461147335,ageron/handson-ml3,Jupyter Notebook,233
