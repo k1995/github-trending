@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,7
-7548986,laravel/framework,PHP,12
+1863329,laravel/laravel,PHP,8
+7548986,laravel/framework,PHP,8
 458058,symfony/symfony,PHP,5
-1864363,composer/composer,PHP,2
-60243197,nextcloud/server,PHP,3
-2253830,PHPMailer/PHPMailer,PHP,4
+1864363,composer/composer,PHP,1
+60243197,nextcloud/server,PHP,2
+2253830,PHPMailer/PHPMailer,PHP,3
 448045,sebastianbergmann/phpunit,PHP,5
 82238168,monicahq/monica,PHP,6
 1548202,matomo-org/matomo,PHP,8
 3431193,yiisoft/yii2,PHP,1
-2884111,magento/magento2,PHP,1
+2884111,magento/magento2,PHP,0
 622166,FriendsOfPHP/Goutte,PHP,1
 656494,cakephp/cakephp,PHP,0
 2179920,woocommerce/woocommerce,PHP,0
