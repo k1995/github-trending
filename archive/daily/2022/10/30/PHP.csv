@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,6
 7548986,laravel/framework,PHP,12
-458058,symfony/symfony,PHP,6
+458058,symfony/symfony,PHP,4
 1864363,composer/composer,PHP,2
 60243197,nextcloud/server,PHP,4
 2253830,PHPMailer/PHPMailer,PHP,4
@@ -18,7 +18,7 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,4
 14716368,invoiceninja/invoiceninja,PHP,2
 119047018,linuxserver/Heimdall,PHP,7
-248372441,filamentphp/filament,PHP,21
+248372441,filamentphp/filament,PHP,20
 47508644,pterodactyl/panel,PHP,14
 12165811,php-curl-class/php-curl-class,PHP,2
 166299071,archtechx/tenancy,PHP,5

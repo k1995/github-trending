@@ -1,15 +1,15 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,209
-48378947,fatedier/frp,Go,262
-16752620,gogs/gogs,Go,78
+48378947,fatedier/frp,Go,256
+16752620,gogs/gogs,Go,76
 17803236,rclone/rclone,Go,193
 72495579,go-gitea/gitea,Go,148
 136815833,Dreamacro/clash,Go,315
 13855476,go-gorm/gorm,Go,145
 97533102,halfrost/LeetCode-Go,Go,624
 156084530,ehang-io/nps,Go,97
-234231371,gofiber/fiber,Go,127
-181461073,v2fly/v2ray-core,Go,160
+234231371,gofiber/fiber,Go,125
+181461073,v2fly/v2ray-core,Go,161
 6247705,stretchr/testify,Go,168
 120156076,cloudreve/Cloudreve,Go,118
 5179099,go-redis/redis,Go,110
@@ -18,7 +18,7 @@ id,name,lang,new stars
 323965659,alist-org/alist,Go,488
 311315731,XTLS/Xray-core,Go,236
 367284699,lima-vm/lima,Go,92
-273132277,moonD4rk/HackBrowserData,Go,213
+273132277,moonD4rk/HackBrowserData,Go,212
 147886080,crossplane/crossplane,Go,64
 257434373,HyNetwork/hysteria,Go,123
 103084166,tenable/terrascan,Go,350
