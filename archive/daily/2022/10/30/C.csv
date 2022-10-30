@@ -1,11 +1,11 @@
 id,name,lang,new stars
 10446890,bilibili/ijkplayer,C,2
-569041,curl/curl,C,136
+569041,curl/curl,C,64
 1357796,emscripten-core/emscripten,C,3
-6201092,mpv-player/mpv,C,6
-11715753,robertdavidgraham/masscan,C,20
-7634677,openssl/openssl,C,13
-105627846,reactos/reactos,C,4
+6201092,mpv-player/mpv,C,5
+11715753,robertdavidgraham/masscan,C,19
+7634677,openssl/openssl,C,12
+105627846,reactos/reactos,C,5
 93205465,apple/darwin-xnu,C,5
 613829,openresty/lua-nginx-module,C,0
 109762904,leandromoreira/ffmpeg-libav-tutorial,C,5
@@ -20,7 +20,7 @@ id,name,lang,new stars
 18383364,openvswitch/ovs,C,3
 76599439,FRRouting/frr,C,2
 23780138,riscv-collab/riscv-gnu-toolchain,C,1
-2276287,riscv-software-src/riscv-isa-sim,C,1
+2276287,riscv-software-src/riscv-isa-sim,C,0
 270692521,zmkfirmware/zmk,C,1
 53432472,sonic-net/sonic-buildimage,C,0
-524465839,stacksmashing/tamarin-firmware,C,9
+524465839,stacksmashing/tamarin-firmware,C,10
