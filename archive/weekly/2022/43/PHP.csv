@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,75
-3482588,danielmiessler/SecLists,PHP,146
+1863329,laravel/laravel,PHP,74
+3482588,danielmiessler/SecLists,PHP,148
 458058,symfony/symfony,PHP,31
-60243197,nextcloud/server,PHP,66
+60243197,nextcloud/server,PHP,65
 47495360,koel/koel,PHP,44
 56728437,docker/labs,PHP,16
 42480275,spatie/laravel-permission,PHP,28
@@ -10,17 +10,17 @@ id,name,lang,new stars
 42261096,fuzzdb-project/fuzzdb,PHP,29
 14346979,snipe/snipe-it,PHP,38
 6763587,PrestaShop/PrestaShop,PHP,14
-119047018,linuxserver/Heimdall,PHP,42
+119047018,linuxserver/Heimdall,PHP,41
 60010673,elementor/elementor,PHP,16
 117567334,spatie/laravel-query-builder,PHP,12
-73220421,aonez/Keka,PHP,32
+73220421,aonez/Keka,PHP,33
 129852395,assimon/dujiaoka,PHP,36
 286645686,yuantuo666/baiduwp-php,PHP,19
-57463067,AzuraCast/AzuraCast,PHP,10
+57463067,AzuraCast/AzuraCast,PHP,8
 216849756,v2board/v2board,PHP,30
 443605948,pablouser1/ProxiTok,PHP,17
-541322916,openai-php/client,PHP,162
+541322916,openai-php/client,PHP,157
 91593797,magento/inventory,PHP,2
-555001574,spatie/laravel-model-flags,PHP,70
+555001574,spatie/laravel-model-flags,PHP,71
 184538454,yankovalenko94/Webdev2019,PHP,0
 369435742,f1amy/laravel-realworld-example-app,PHP,5
