@@ -1,26 +1,26 @@
 id,name,lang,new stars
 60493101,jwasham/coding-interview-university,,174
-112507086,30-seconds/30-seconds-of-code,JavaScript,48
+112507086,30-seconds/30-seconds-of-code,JavaScript,51
 62607227,yangshun/tech-interview-handbook,TypeScript,241
-32484381,ripienaar/free-for-dev,HTML,107
-22067521,ocornut/imgui,C++,77
-52281283,mastodon/mastodon,Ruby,112
+32484381,ripienaar/free-for-dev,HTML,115
+22067521,ocornut/imgui,C++,38
+52281283,mastodon/mastodon,Ruby,111
 48610662,acmesh-official/acme.sh,Shell,83
 160083795,SerenityOS/serenity,C++,38
-313330998,bradtraversy/50projects50days,CSS,72
-306977633,AMAI-GmbH/AI-Expert-Roadmap,JavaScript,88
+313330998,bradtraversy/50projects50days,CSS,76
+306977633,AMAI-GmbH/AI-Expert-Roadmap,JavaScript,204
 311683390,WerWolv/ImHex,C++,68
 96641209,shieldfy/API-Security-Checklist,,56
-161012019,jellyfin/jellyfin,C#,98
-301793434,mattermost/focalboard,TypeScript,59
-148641954,TheAlgorithms/Rust,Rust,116
+161012019,jellyfin/jellyfin,C#,89
+301793434,mattermost/focalboard,TypeScript,62
+148641954,TheAlgorithms/Rust,Rust,114
 37346186,termux/termux-packages,Shell,8
 380191749,dair-ai/ML-YouTube-Courses,,50
-515619101,charmbracelet/vhs,Go,968
+515619101,charmbracelet/vhs,Go,966
 533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,86
-274782881,acantril/learn-cantrill-io-labs,Python,51
-325283778,dudykr/stc,Rust,405
+274782881,acantril/learn-cantrill-io-labs,Python,46
+325283778,dudykr/stc,Rust,310
 299951448,jupyter-naas/awesome-notebooks,Jupyter Notebook,57
-553759919,shadcn/taxonomy,TypeScript,129
+553759919,shadcn/taxonomy,TypeScript,128
 527578222,komodorio/helm-dashboard,Go,119
 544120483,josean-dev/dev-environment-files,Lua,12
