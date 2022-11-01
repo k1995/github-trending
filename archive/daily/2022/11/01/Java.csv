@@ -1,15 +1,15 @@
 id,name,lang,new stars
-6296790,spring-projects/spring-boot,Java,27
+6296790,spring-projects/spring-boot,Java,30
 81975372,kdn251/interviews,Java,10
 159152904,jeecgboot/jeecg-boot,Java,60
 137451403,alibaba/nacos,Java,13
 7587038,alibaba/canal,Java,9
-112785414,alibaba/spring-cloud-alibaba,Java,13
+112785414,alibaba/spring-cloud-alibaba,Java,12
 55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,5
 20818126,google/ExoPlayer,Java,7
-1103607,jenkinsci/jenkins,Java,12
-75277003,thingsboard/thingsboard,Java,16
-8759133,Netflix/zuul,Java,6
+1103607,jenkinsci/jenkins,Java,11
+75277003,thingsboard/thingsboard,Java,17
+8759133,Netflix/zuul,Java,5
 117965972,alibaba/DataX,Java,9
 237867883,metersphere/metersphere,Java,7
 50160261,PaperMC/Paper,Java,6
@@ -18,9 +18,9 @@ id,name,lang,new stars
 99183902,alibaba/jvm-sandbox,Java,17
 67328052,web3j/web3j,Java,6
 4992906,pmd/pmd,Java,4
-87859908,micrometer-metrics/micrometer,Java,3
+87859908,micrometer-metrics/micrometer,Java,2
 127906883,DTStack/chunjun,Java,6
-282994686,ververica/flink-cdc-connectors,Java,8
-195184058,gz-yami/mall4j,Java,16
+282994686,ververica/flink-cdc-connectors,Java,7
+195184058,gz-yami/mall4j,Java,17
 2928948,Azure/azure-sdk-for-java,Java,2
-447932278,mastodon/mastodon-android,Java,10
+447932278,mastodon/mastodon-android,Java,11
