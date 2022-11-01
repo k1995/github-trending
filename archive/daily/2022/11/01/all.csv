@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,190
-112507086,30-seconds/30-seconds-of-code,JavaScript,127
-62607227,yangshun/tech-interview-handbook,TypeScript,209
-32484381,ripienaar/free-for-dev,HTML,178
-22067521,ocornut/imgui,C++,125
-52281283,mastodon/mastodon,Ruby,242
-48610662,acmesh-official/acme.sh,Shell,68
-160083795,SerenityOS/serenity,C++,62
-313330998,bradtraversy/50projects50days,CSS,111
-306977633,AMAI-GmbH/AI-Expert-Roadmap,JavaScript,210
-311683390,WerWolv/ImHex,C++,218
-96641209,shieldfy/API-Security-Checklist,,217
-161012019,jellyfin/jellyfin,C#,131
-301793434,mattermost/focalboard,TypeScript,175
-148641954,TheAlgorithms/Rust,Rust,113
-380191749,dair-ai/ML-YouTube-Courses,,162
-37346186,termux/termux-packages,Shell,43
-515619101,charmbracelet/vhs,Go,640
-533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,82
-274782881,acantril/learn-cantrill-io-labs,Python,32
-325283778,dudykr/stc,Rust,356
-299951448,jupyter-naas/awesome-notebooks,Jupyter Notebook,137
-553759919,shadcn/taxonomy,TypeScript,360
-527578222,komodorio/helm-dashboard,Go,276
-544120483,josean-dev/dev-environment-files,Lua,58
+60493101,jwasham/coding-interview-university,,199
+126577260,trekhleb/javascript-algorithms,JavaScript,91
+62607227,yangshun/tech-interview-handbook,TypeScript,203
+32484381,ripienaar/free-for-dev,HTML,177
+47018239,DopplerHQ/awesome-interview-questions,,31
+159152904,jeecgboot/jeecg-boot,Java,60
+52281283,mastodon/mastodon,Ruby,229
+306977633,AMAI-GmbH/AI-Expert-Roadmap,JavaScript,191
+311683390,WerWolv/ImHex,C++,224
+64700934,OpenZeppelin/openzeppelin-contracts,JavaScript,18
+161012019,jellyfin/jellyfin,C#,130
+51575745,conventional-changelog/commitlint,TypeScript,6
+23247808,rqlite/rqlite,Go,113
+162672577,PaddlePaddle/PaddleHub,Python,42
+274782881,acantril/learn-cantrill-io-labs,Python,30
+325283778,dudykr/stc,Rust,300
+439447708,bluesky-social/atproto,TypeScript,72
+553759919,shadcn/taxonomy,TypeScript,282
+536013043,carefree0910/carefree-creator,Jupyter Notebook,237
+554807775,facebookresearch/encodec,Python,124
+556191546,milanm/DevOps-Roadmap,,76
+558365686,H4de5-7/geacon_pro,Go,60
+558932728,Anof-cyber/APTRS,Python,58
+558469266,Eilonh/s3crets_scanner,Python,80
+559167081,ORCx41/TerraLdr,C,34
