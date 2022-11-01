@@ -1,26 +1,26 @@
 id,name,lang,new stars
 212639071,bregman-arie/devops-exercises,Python,1914
-108761645,nocodb/nocodb,TypeScript,1922
+108761645,nocodb/nocodb,TypeScript,1926
 125266328,psf/black,Python,826
-68720867,firstcontributions/first-contributions,,2541
+68720867,firstcontributions/first-contributions,,2513
 349321229,TencentARC/GFPGAN,Python,1180
-479924503,The-Run-Philosophy-Organization/run,,1598
-63477612,TheAlgorithms/C-Plus-Plus,C++,1258
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,13151
-197081291,iced-rs/iced,Rust,1755
-413918947,vercel/turbo,Rust,6355
-437245741,dragonflydb/dragonfly,C++,3036
-268424739,helix-editor/helix,Rust,2355
-355959597,Textualize/textual,Python,1944
-368917877,BuilderIO/qwik,TypeScript,2792
-189621607,github/docs,JavaScript,684
-323965659,alist-org/alist,Go,1942
+479924503,The-Run-Philosophy-Organization/run,,1608
+63477612,TheAlgorithms/C-Plus-Plus,C++,1259
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,13163
+197081291,iced-rs/iced,Rust,1760
+413918947,vercel/turbo,Rust,6405
+437245741,dragonflydb/dragonfly,C++,3037
+268424739,helix-editor/helix,Rust,2348
+355959597,Textualize/textual,Python,1955
+368917877,BuilderIO/qwik,TypeScript,2793
+189621607,github/docs,JavaScript,683
+323965659,alist-org/alist,Go,1949
 311315731,XTLS/Xray-core,Go,587
 35129809,transmission/transmission,C++,704
-286500101,danielgatis/rembg,Python,1222
-476957520,AmazingAng/WTF-Solidity,Solidity,1234
-535304995,HavocFramework/Havoc,Go,2119
-531788813,lkwq007/stablediffusion-infinity,Python,1716
-537940881,JoePenna/Dreambooth-Stable-Diffusion,Jupyter Notebook,1032
+286500101,danielgatis/rembg,Python,1231
+476957520,AmazingAng/WTF-Solidity,Solidity,1242
+535304995,HavocFramework/Havoc,Go,2065
+531788813,lkwq007/stablediffusion-infinity,Python,1686
+537940881,JoePenna/Dreambooth-Stable-Diffusion,Jupyter Notebook,1026
 265775217,bnb-chain/bsc,Go,169
-527359569,Stability-AI/stability-sdk,Jupyter Notebook,865
+527359569,Stability-AI/stability-sdk,Jupyter Notebook,870

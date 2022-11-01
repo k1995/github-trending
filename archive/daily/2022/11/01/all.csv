@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,214
-112507086,30-seconds/30-seconds-of-code,JavaScript,112
-62607227,yangshun/tech-interview-handbook,TypeScript,262
-32484381,ripienaar/free-for-dev,HTML,195
-22067521,ocornut/imgui,C++,100
-52281283,mastodon/mastodon,Ruby,244
-48610662,acmesh-official/acme.sh,Shell,77
-160083795,SerenityOS/serenity,C++,49
-313330998,bradtraversy/50projects50days,CSS,112
-306977633,AMAI-GmbH/AI-Expert-Roadmap,JavaScript,212
-311683390,WerWolv/ImHex,C++,188
-96641209,shieldfy/API-Security-Checklist,,143
-161012019,jellyfin/jellyfin,C#,127
-301793434,mattermost/focalboard,TypeScript,170
-148641954,TheAlgorithms/Rust,Rust,134
-380191749,dair-ai/ML-YouTube-Courses,,140
-37346186,termux/termux-packages,Shell,39
-515619101,charmbracelet/vhs,Go,869
-533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,80
-274782881,acantril/learn-cantrill-io-labs,Python,29
-325283778,dudykr/stc,Rust,318
-299951448,jupyter-naas/awesome-notebooks,Jupyter Notebook,130
-553759919,shadcn/taxonomy,TypeScript,390
-527578222,komodorio/helm-dashboard,Go,249
-544120483,josean-dev/dev-environment-files,Lua,40
+60493101,jwasham/coding-interview-university,,190
+112507086,30-seconds/30-seconds-of-code,JavaScript,127
+62607227,yangshun/tech-interview-handbook,TypeScript,209
+32484381,ripienaar/free-for-dev,HTML,178
+22067521,ocornut/imgui,C++,125
+52281283,mastodon/mastodon,Ruby,242
+48610662,acmesh-official/acme.sh,Shell,68
+160083795,SerenityOS/serenity,C++,62
+313330998,bradtraversy/50projects50days,CSS,111
+306977633,AMAI-GmbH/AI-Expert-Roadmap,JavaScript,210
+311683390,WerWolv/ImHex,C++,218
+96641209,shieldfy/API-Security-Checklist,,217
+161012019,jellyfin/jellyfin,C#,131
+301793434,mattermost/focalboard,TypeScript,175
+148641954,TheAlgorithms/Rust,Rust,113
+380191749,dair-ai/ML-YouTube-Courses,,162
+37346186,termux/termux-packages,Shell,43
+515619101,charmbracelet/vhs,Go,640
+533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,82
+274782881,acantril/learn-cantrill-io-labs,Python,32
+325283778,dudykr/stc,Rust,356
+299951448,jupyter-naas/awesome-notebooks,Jupyter Notebook,137
+553759919,shadcn/taxonomy,TypeScript,360
+527578222,komodorio/helm-dashboard,Go,276
+544120483,josean-dev/dev-environment-files,Lua,58
