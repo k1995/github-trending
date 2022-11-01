@@ -1,16 +1,16 @@
 id,name,lang,new stars
 199570071,2dust/v2rayN,C#,37
 38380854,dnSpy/dnSpy,C#,10
-161012019,jellyfin/jellyfin,C#,101
+161012019,jellyfin/jellyfin,C#,98
 262395224,dotnet/maui,C#,8
-102904613,Unity-Technologies/ml-agents,C#,8
-120231691,Ryujinx/Ryujinx,C#,15
+102904613,Unity-Technologies/ml-agents,C#,7
+120231691,Ryujinx/Ryujinx,C#,16
 959908,OpenRA/OpenRA,C#,5
-46755185,bitwarden/server,C#,7
+46755185,bitwarden/server,C#,8
 321682465,BeyondDimension/SteamTools,C#,20
-44897462,JustArchiNET/ArchiSteamFarm,C#,12
-2465723,Sonarr/Sonarr,C#,4
-77323220,Radarr/Radarr,C#,5
+44897462,JustArchiNET/ArchiSteamFarm,C#,11
+2465723,Sonarr/Sonarr,C#,3
+77323220,Radarr/Radarr,C#,4
 27251463,QuantConnect/Lean,C#,2
 366663429,jynew/jynew,C#,8
 35608694,aalhour/C-Sharp-Algorithms,C#,17
@@ -18,9 +18,9 @@ id,name,lang,new stars
 39425864,tModLoader/tModLoader,C#,3
 121067132,BepInEx/BepInEx,C#,2
 59467988,UnigramDev/Unigram,C#,3
-1841284,Pryaxis/TShock,C#,1
+1841284,Pryaxis/TShock,C#,0
 350426188,Sophia-Community/SophiApp,C#,8
 64179137,justcoding121/advanced-algorithms,C#,13
-558771208,Accenture/Spartacus,C#,31
-540359928,redteamsocietegenerale/DLLirant,C#,19
-559254609,Processus-Thief/ETWMonitor,C#,12
+558771208,Accenture/Spartacus,C#,30
+540359928,redteamsocietegenerale/DLLirant,C#,17
+559254609,Processus-Thief/ETWMonitor,C#,11
