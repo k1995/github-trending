@@ -5,7 +5,7 @@ id,name,lang,new stars
 60243197,nextcloud/server,PHP,12
 448045,sebastianbergmann/phpunit,PHP,1
 82238168,monicahq/monica,PHP,6
-2889328,WordPress/WordPress,PHP,5
+2889328,WordPress/WordPress,PHP,6
 2884111,magento/magento2,PHP,6
 11340559,deployphp/deployer,PHP,0
 6660366,dompdf/dompdf,PHP,4
@@ -18,9 +18,9 @@ id,name,lang,new stars
 60010673,elementor/elementor,PHP,0
 41463886,codeigniter4/CodeIgniter4,PHP,4
 351298555,thedevdojo/wave,PHP,4
-129829848,pixelfed/pixelfed,PHP,4
+129829848,pixelfed/pixelfed,PHP,5
 9395939,ZoneMinder/zoneminder,PHP,1
 102767320,BenSampo/laravel-enum,PHP,0
-433383766,nextcloud/all-in-one,PHP,14
+433383766,nextcloud/all-in-one,PHP,15
 440470075,aoaostar/toolbox,PHP,0
 558979448,spatie/laravel-horizon-watcher,PHP,4

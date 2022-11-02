@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,74
-7569578,discourse/discourse,Ruby,72
-27442967,fastlane/fastlane,Ruby,33
-53238813,Homebrew/brew,Ruby,96
-52281283,mastodon/mastodon,Ruby,766
-2293158,rapid7/metasploit-framework,Ruby,76
+8681349,huginn/huginn,Ruby,72
+7569578,discourse/discourse,Ruby,71
+27442967,fastlane/fastlane,Ruby,34
+53238813,Homebrew/brew,Ruby,95
+52281283,mastodon/mastodon,Ruby,783
+2293158,rapid7/metasploit-framework,Ruby,75
 481872,hashicorp/vagrant,Ruby,38
 2500088,gitlabhq/gitlabhq,Ruby,13
 308770,heartcombo/devise,Ruby,28
-37382858,kilimchoi/engineering-blogs,Ruby,63
+37382858,kilimchoi/engineering-blogs,Ruby,61
 2203645,CocoaPods/CocoaPods,Ruby,9
 3195124,mperham/sidekiq,Ruby,17
 52855516,Homebrew/homebrew-core,Ruby,39
@@ -16,8 +16,8 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,16
 1725199,github/linguist,Ruby,59
 361310,teamcapybara/capybara,Ruby,7
-2889230,rails-api/active_model_serializers,Ruby,3
-95798441,athityakumar/colorls,Ruby,12
+2889230,rails-api/active_model_serializers,Ruby,1
+95798441,athityakumar/colorls,Ruby,10
 200302808,ViewComponent/view_component,Ruby,15
 270054,ffi/ffi,Ruby,2
 29151578,rswag/rswag,Ruby,12
