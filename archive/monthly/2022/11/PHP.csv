@@ -1,14 +1,14 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,730
+3482588,danielmiessler/SecLists,PHP,734
 7548986,laravel/framework,PHP,253
-458058,symfony/symfony,PHP,152
+458058,symfony/symfony,PHP,153
 60243197,nextcloud/server,PHP,312
 1548202,matomo-org/matomo,PHP,159
-2889328,WordPress/WordPress,PHP,147
+2889328,WordPress/WordPress,PHP,146
 12615154,barryvdh/laravel-debugbar,PHP,125
 47495360,koel/koel,PHP,139
 13899674,thephpleague/flysystem,PHP,56
-7769432,vlucas/phpdotenv,PHP,68
+7769432,vlucas/phpdotenv,PHP,69
 61490598,PHPOffice/PhpSpreadsheet,PHP,103
 2884111,magento/magento2,PHP,75
 597887,doctrine/orm,PHP,37
@@ -16,11 +16,11 @@ id,name,lang,new stars
 2717549,Sylius/Sylius,PHP,63
 222873550,crater-invoice/crater,PHP,180
 3217621,phpmyadmin/phpmyadmin,PHP,76
-248372441,filamentphp/filament,PHP,281
+248372441,filamentphp/filament,PHP,283
 148129143,bagisto/bagisto,PHP,106
 439861,moodle/moodle,PHP,58
-47508644,pterodactyl/panel,PHP,117
-141720301,dr5hn/countries-states-cities-database,PHP,168
+47508644,pterodactyl/panel,PHP,118
+141720301,dr5hn/countries-states-cities-database,PHP,166
 39182755,glpi-project/glpi,PHP,72
 433383766,nextcloud/all-in-one,PHP,185
 459095253,JulianPrieber/littlelink-custom,PHP,97
