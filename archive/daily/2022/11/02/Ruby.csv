@@ -1,11 +1,11 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,5
+8514,rails/rails,Ruby,6
 27442967,fastlane/fastlane,Ruby,5
-52281283,mastodon/mastodon,Ruby,199
-481872,hashicorp/vagrant,Ruby,7
+52281283,mastodon/mastodon,Ruby,198
+481872,hashicorp/vagrant,Ruby,8
 308770,heartcombo/devise,Ruby,2
 18486300,lewagon/setup,Ruby,0
-202291859,chatwoot/chatwoot,Ruby,4
+202291859,chatwoot/chatwoot,Ruby,5
 3195124,mperham/sidekiq,Ruby,1
 3314,spree/spree,Ruby,2
 96395,faker-ruby/faker,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,6
 29151578,rswag/rswag,Ruby,0
 3947396,getsentry/sentry-ruby,Ruby,0
-99692620,renatolond/mastodon-twitter-poster,Ruby,5
+99692620,renatolond/mastodon-twitter-poster,Ruby,4
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
