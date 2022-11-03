@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,217
+8514,rails/rails,Ruby,220
 65252,jekyll/jekyll,Ruby,216
-8681349,huginn/huginn,Ruby,272
-7569578,discourse/discourse,Ruby,257
+8681349,huginn/huginn,Ruby,271
+7569578,discourse/discourse,Ruby,260
 27442967,fastlane/fastlane,Ruby,146
-53238813,Homebrew/brew,Ruby,388
-52281283,mastodon/mastodon,Ruby,1230
+53238813,Homebrew/brew,Ruby,385
+52281283,mastodon/mastodon,Ruby,1245
 13840241,freeCodeCamp/devdocs,Ruby,286
-2293158,rapid7/metasploit-framework,Ruby,323
-481872,hashicorp/vagrant,Ruby,240
-538746,ruby/ruby,Ruby,131
-18486300,lewagon/setup,Ruby,836
+2293158,rapid7/metasploit-framework,Ruby,324
+481872,hashicorp/vagrant,Ruby,238
+538746,ruby/ruby,Ruby,130
+18486300,lewagon/setup,Ruby,831
 202291859,chatwoot/chatwoot,Ruby,221
 106995,sinatra/sinatra,Ruby,46
-96395,faker-ruby/faker,Ruby,80
+96395,faker-ruby/faker,Ruby,83
 1725199,github/linguist,Ruby,155
 361310,teamcapybara/capybara,Ruby,35
 2441517,puma/puma,Ruby,67
@@ -21,6 +21,6 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,41
 93163073,dependabot/dependabot-core,Ruby,72
 212813096,lewagon/data-setup,Ruby,13
-502760,danbooru/danbooru,Ruby,94
+502760,danbooru/danbooru,Ruby,93
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
 375321926,learn-co-curriculum/phase-4-deploying-demo-app,Ruby,0
