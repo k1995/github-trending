@@ -1,15 +1,15 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,33
-507775,elastic/elasticsearch,Java,17
-159152904,jeecgboot/jeecg-boot,Java,104
+132464395,Snailclimb/JavaGuide,Java,34
+507775,elastic/elasticsearch,Java,18
+159152904,jeecgboot/jeecg-boot,Java,102
 7587038,alibaba/canal,Java,24
 163387337,seata/seata,Java,9
 47023603,xuxueli/xxl-job,Java,11
-41889031,TeamNewPipe/NewPipe,Java,69
+41889031,TeamNewPipe/NewPipe,Java,73
 75164823,apache/rocketmq,Java,8
 49876476,apache/shardingsphere,Java,10
-89822531,Anuken/Mindustry,Java,15
-133134007,OpenAPITools/openapi-generator,Java,13
+89822531,Anuken/Mindustry,Java,14
+133134007,OpenAPITools/openapi-generator,Java,12
 6207167,mockito/mockito,Java,11
 75277003,thingsboard/thingsboard,Java,9
 62117812,apache/pulsar,Java,11
@@ -23,4 +23,4 @@ id,name,lang,new stars
 248032165,spring-projects/spring-authorization-server,Java,5
 282994686,ververica/flink-cdc-connectors,Java,0
 95247959,aws/aws-sdk-java-v2,Java,1
-447932278,mastodon/mastodon-android,Java,9
+447932278,mastodon/mastodon-android,Java,11

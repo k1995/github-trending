@@ -1,16 +1,16 @@
 id,name,lang,new stars
 65600975,pytorch/pytorch,C++,25
-22067521,ocornut/imgui,C++,51
-11171548,nlohmann/json,C++,16
-120887835,huihut/interview,C++,9
-311683390,WerWolv/ImHex,C++,93
-34777562,ossrs/srs,C++,27
+22067521,ocornut/imgui,C++,52
+11171548,nlohmann/json,C++,17
+120887835,huihut/interview,C++,8
+311683390,WerWolv/ImHex,C++,90
+34777562,ossrs/srs,C++,29
 65750241,expo/expo,C++,7
-26038648,gabime/spdlog,C++,12
+26038648,gabime/spdlog,C++,13
 1062572,catchorg/Catch2,C++,6
 149111813,Tencent/MMKV,C++,6
 14981376,dogecoin/dogecoin,C++,3
-194269070,skyline-emu/skyline,C++,14
+194269070,skyline-emu/skyline,C++,15
 189205663,qinguoyi/TinyWebServer,C++,9
 1204412,TrinityCore/TrinityCore,C++,3
 184657328,NVIDIA/TensorRT,C++,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 15920273,supertuxkart/stk-code,C++,10
 152631182,kamyu104/LeetCode-Solutions,C++,8
 287706896,Tencent/puerts,C++,39
-112542515,NVIDIA/cutlass,C++,8
+112542515,NVIDIA/cutlass,C++,7
 303308200,hku-mars/FAST_LIO,C++,5
 544334029,open-obfuscator/o-mvll,C++,29
 559790551,ORCx41/DeleteShadowCopies,C++,10
