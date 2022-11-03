@@ -1,19 +1,19 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,737
-7548986,laravel/framework,PHP,256
+3482588,danielmiessler/SecLists,PHP,738
+7548986,laravel/framework,PHP,258
 458058,symfony/symfony,PHP,157
 60243197,nextcloud/server,PHP,309
-2253830,PHPMailer/PHPMailer,PHP,131
+2253830,PHPMailer/PHPMailer,PHP,133
 1548202,matomo-org/matomo,PHP,160
-2889328,WordPress/WordPress,PHP,146
-12615154,barryvdh/laravel-debugbar,PHP,129
-47495360,koel/koel,PHP,141
+2889328,WordPress/WordPress,PHP,147
+12615154,barryvdh/laravel-debugbar,PHP,130
+47495360,koel/koel,PHP,142
 13899674,thephpleague/flysystem,PHP,58
-1305114,roots/sage,PHP,48
+1305114,roots/sage,PHP,50
 61490598,PHPOffice/PhpSpreadsheet,PHP,106
-2884111,magento/magento2,PHP,77
+2884111,magento/magento2,PHP,78
 2179920,woocommerce/woocommerce,PHP,64
-2717549,Sylius/Sylius,PHP,64
+2717549,Sylius/Sylius,PHP,65
 222873550,crater-invoice/crater,PHP,183
 3217621,phpmyadmin/phpmyadmin,PHP,78
 248372441,filamentphp/filament,PHP,285
@@ -22,5 +22,5 @@ id,name,lang,new stars
 47508644,pterodactyl/panel,PHP,117
 129852395,assimon/dujiaoka,PHP,135
 39182755,glpi-project/glpi,PHP,71
-433383766,nextcloud/all-in-one,PHP,179
-459095253,JulianPrieber/littlelink-custom,PHP,96
+433383766,nextcloud/all-in-one,PHP,178
+459095253,JulianPrieber/littlelink-custom,PHP,97
