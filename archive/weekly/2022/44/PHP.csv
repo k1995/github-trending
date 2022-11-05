@@ -1,20 +1,20 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,83
-7548986,laravel/framework,PHP,61
+7548986,laravel/framework,PHP,59
 458058,symfony/symfony,PHP,25
-448045,sebastianbergmann/phpunit,PHP,23
-82238168,monicahq/monica,PHP,46
-2889328,WordPress/WordPress,PHP,34
+448045,sebastianbergmann/phpunit,PHP,22
+82238168,monicahq/monica,PHP,45
+2889328,WordPress/WordPress,PHP,32
 1631570,nikic/PHP-Parser,PHP,21
 2884111,magento/magento2,PHP,20
-2699935,squizlabs/PHP_CodeSniffer,PHP,15
+2699935,squizlabs/PHP_CodeSniffer,PHP,14
 2179920,woocommerce/woocommerce,PHP,18
-14346979,snipe/snipe-it,PHP,32
-248372441,filamentphp/filament,PHP,84
+14346979,snipe/snipe-it,PHP,28
+248372441,filamentphp/filament,PHP,83
 60010673,elementor/elementor,PHP,14
-265782973,hlmd/Postman-cn,PHP,36
+265782973,hlmd/Postman-cn,PHP,37
 47508644,pterodactyl/panel,PHP,34
-77574863,causefx/Organizr,PHP,21
+77574863,causefx/Organizr,PHP,20
 351298555,thedevdojo/wave,PHP,33
 73781385,orchidsoftware/platform,PHP,19
 30567860,mevdschee/php-crud-api,PHP,26
@@ -22,5 +22,5 @@ id,name,lang,new stars
 69691727,pmmp/PocketMine-MP,PHP,2
 27965134,opnsense/core,PHP,12
 216849756,v2board/v2board,PHP,27
-433383766,nextcloud/all-in-one,PHP,63
+433383766,nextcloud/all-in-one,PHP,62
 184538454,yankovalenko94/Webdev2019,PHP,1

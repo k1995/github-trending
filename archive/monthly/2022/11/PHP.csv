@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,738
+3482588,danielmiessler/SecLists,PHP,739
 7548986,laravel/framework,PHP,251
 458058,symfony/symfony,PHP,152
 60243197,nextcloud/server,PHP,307
@@ -9,18 +9,18 @@ id,name,lang,new stars
 12615154,barryvdh/laravel-debugbar,PHP,132
 47495360,koel/koel,PHP,146
 1305114,roots/sage,PHP,55
-61490598,PHPOffice/PhpSpreadsheet,PHP,99
+61490598,PHPOffice/PhpSpreadsheet,PHP,100
 42480275,spatie/laravel-permission,PHP,88
 2884111,magento/magento2,PHP,78
-2179920,woocommerce/woocommerce,PHP,68
+2179920,woocommerce/woocommerce,PHP,67
 2717549,Sylius/Sylius,PHP,66
-222873550,crater-invoice/crater,PHP,174
+222873550,crater-invoice/crater,PHP,175
 3217621,phpmyadmin/phpmyadmin,PHP,77
-119047018,linuxserver/Heimdall,PHP,185
-248372441,filamentphp/filament,PHP,286
-439861,moodle/moodle,PHP,62
+119047018,linuxserver/Heimdall,PHP,183
+248372441,filamentphp/filament,PHP,285
+439861,moodle/moodle,PHP,61
 129852395,assimon/dujiaoka,PHP,136
 216849756,v2board/v2board,PHP,109
 410524724,nunomaduro/termwind,PHP,82
 433383766,nextcloud/all-in-one,PHP,189
-541322916,openai-php/client,PHP,347
+541322916,openai-php/client,PHP,346
