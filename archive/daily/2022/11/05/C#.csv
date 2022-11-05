@@ -1,12 +1,12 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,192
+184456251,microsoft/PowerToys,C#,184
 17620347,dotnet/aspnetcore,C#,8
-70104825,dotnet-architecture/eShopOnContainers,C#,5
+70104825,dotnet-architecture/eShopOnContainers,C#,6
 198071756,huiyadanli/RevokeMsgPatcher,C#,14
-14964475,AvaloniaUI/Avalonia,C#,8
-28239455,dotnet/AspNetCore.Docs,C#,13
+14964475,AvaloniaUI/Avalonia,C#,7
+28239455,dotnet/AspNetCore.Docs,C#,15
 75505125,abpframework/abp,C#,12
-22636263,duplicati/duplicati,C#,26
+22636263,duplicati/duplicati,C#,23
 27251463,QuantConnect/Lean,C#,6
 85953,gitextensions/gitextensions,C#,6
 26884725,OrchardCMS/OrchardCore,C#,2
@@ -15,7 +15,7 @@ id,name,lang,new stars
 8302181,EsotericSoftware/spine-runtimes,C#,3
 158405551,GitCredentialManager/git-credential-manager,C#,5
 220251820,gerardog/gsudo,C#,24
-170988906,testcontainers/testcontainers-dotnet,C#,22
+170988906,testcontainers/testcontainers-dotnet,C#,21
 185478059,open-telemetry/opentelemetry-dotnet,C#,5
 63984307,dotnet/sdk,C#,1
 331187187,DGP-Studio/Snap.Genshin,C#,3

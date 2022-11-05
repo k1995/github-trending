@@ -1,12 +1,12 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,59
-156018,redis/redis,C,18
-36502,git/git,C,12
+156018,redis/redis,C,17
+36502,git/git,C,13
 1357796,emscripten-core/emscripten,C,5
 1856976,libevent/libevent,C,2
 5414488,cesanta/mongoose,C,5
 35780977,ImageMagick/ImageMagick,C,6
-192805335,microsoft/mimalloc,C,4
+192805335,microsoft/mimalloc,C,3
 59771425,zephyrproject-rtos/zephyr,C,5
 53614190,eclipse/mosquitto,C,7
 5870069,edenhill/librdkafka,C,1
@@ -19,8 +19,8 @@ id,name,lang,new stars
 127023441,NVIDIA/cuda-samples,C,6
 283280154,jomjol/AI-on-the-edge-device,C,9
 35649,FreeRADIUS/freeradius-server,C,4
-27351671,Olde-Skuul/doom3do,C,26
+27351671,Olde-Skuul/doom3do,C,28
 121516035,nrfconnect/sdk-nrf,C,0
 541269386,ggerganov/whisper.cpp,C,8
-557753836,webserver-llc/angie,C,14
-365478128,dillongoostudios/goo-engine,C,18
+557753836,webserver-llc/angie,C,13
+365478128,dillongoostudios/goo-engine,C,19
