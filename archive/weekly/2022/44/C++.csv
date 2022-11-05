@@ -1,20 +1,20 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,231
-5108051,opencv/opencv,C++,167
-65600975,pytorch/pytorch,C++,195
-15634981,godotengine/godot,C++,254
+5108051,opencv/opencv,C++,166
+65600975,pytorch/pytorch,C++,198
+15634981,godotengine/godot,C++,255
 22067521,ocornut/imgui,C++,387
-160083795,SerenityOS/serenity,C++,255
-311683390,WerWolv/ImHex,C++,552
-191820100,google/mediapipe,C++,83
+160083795,SerenityOS/serenity,C++,240
+311683390,WerWolv/ImHex,C++,553
+191820100,google/mediapipe,C++,81
 19953044,google/flatbuffers,C++,73
 149111813,Tencent/MMKV,C++,30
-64991887,microsoft/LightGBM,C++,45
-52729242,keepassxreboot/keepassxc,C++,87
-194269070,skyline-emu/skyline,C++,145
-67031040,upx/upx,C++,116
+64991887,microsoft/LightGBM,C++,43
+52729242,keepassxreboot/keepassxc,C++,83
+194269070,skyline-emu/skyline,C++,143
+67031040,upx/upx,C++,112
 14303048,mamedev/mame,C++,24
-14268809,FastLED/FastLED,C++,14
+14268809,FastLED/FastLED,C++,15
 48289924,me-no-dev/ESPAsyncWebServer,C++,14
 87443396,Haivision/srt,C++,12
 20296703,eProsima/Fast-DDS,C++,11
@@ -23,4 +23,4 @@ id,name,lang,new stars
 488177011,MatsuriDayo/nekoray,C++,79
 75149209,okcashpro/okcash,C++,227
 507861208,PaddlePaddle/FastDeploy,C++,42
-471439077,lumapu/ahoy,C++,20
+471439077,lumapu/ahoy,C++,21
