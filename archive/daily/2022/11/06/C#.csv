@@ -1,17 +1,17 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,124
+184456251,microsoft/PowerToys,C#,128
 7600409,shadowsocks/shadowsocks-windows,C#,2
-199570071,2dust/v2rayN,C#,35
-38380854,dnSpy/dnSpy,C#,7
+199570071,2dust/v2rayN,C#,39
+38380854,dnSpy/dnSpy,C#,9
 198071756,huiyadanli/RevokeMsgPatcher,C#,5
 193681686,netchx/netch,C#,13
-88064357,QL-Win/QuickLook,C#,17
-213460285,jasontaylordev/CleanArchitecture,C#,8
+88064357,QL-Win/QuickLook,C#,18
+213460285,jasontaylordev/CleanArchitecture,C#,10
 64753043,Perfare/AssetStudio,C#,8
-135050219,TGSAN/CMWTAT_Digital_Edition,C#,19
-201188122,rocksdanister/lively,C#,3
-324473895,leiurayer/downkyi,C#,18
-41589439,MathewSachin/Captura,C#,9
+135050219,TGSAN/CMWTAT_Digital_Edition,C#,18
+201188122,rocksdanister/lively,C#,2
+324473895,leiurayer/downkyi,C#,19
+41589439,MathewSachin/Captura,C#,10
 132453438,unoplatform/uno,C#,6
 77323220,Radarr/Radarr,C#,7
 27251463,QuantConnect/Lean,C#,7
@@ -21,6 +21,6 @@ id,name,lang,new stars
 39425864,tModLoader/tModLoader,C#,3
 121067132,BepInEx/BepInEx,C#,3
 476687679,2dust/clashN,C#,8
-491611289,zeroruka/GI-Assets,C#,4
-482734649,DGP-Studio/Snap.Hutao,C#,7
-159564733,dotnet/razor,C#,4
+491611289,zeroruka/GI-Assets,C#,3
+482734649,DGP-Studio/Snap.Hutao,C#,6
+159564733,dotnet/razor,C#,6
