@@ -1,20 +1,20 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,2
 60243197,nextcloud/server,PHP,5
-1376664,Seldaek/monolog,PHP,2
-448045,sebastianbergmann/phpunit,PHP,4
-7769432,vlucas/phpdotenv,PHP,5
+1376664,Seldaek/monolog,PHP,1
+448045,sebastianbergmann/phpunit,PHP,2
+7769432,vlucas/phpdotenv,PHP,4
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,1
 2884111,magento/magento2,PHP,0
-41589337,BookStackApp/BookStack,PHP,6
-15020102,walkor/workerman,PHP,3
+41589337,BookStackApp/BookStack,PHP,9
+15020102,walkor/workerman,PHP,4
 597887,doctrine/orm,PHP,0
 2717549,Sylius/Sylius,PHP,0
 14346979,snipe/snipe-it,PHP,3
 6763587,PrestaShop/PrestaShop,PHP,2
 9791525,digininja/DVWA,PHP,2
-97311017,rectorphp/rector,PHP,5
-12204147,mautic/mautic,PHP,3
+97311017,rectorphp/rector,PHP,6
+12204147,mautic/mautic,PHP,2
 1953386,stripe/stripe-php,PHP,2
 39182755,glpi-project/glpi,PHP,2
 74026995,CodelyTV/php-ddd-example,PHP,3

@@ -1,17 +1,17 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,230
-5108051,opencv/opencv,C++,165
+45717250,tensorflow/tensorflow,C++,228
+5108051,opencv/opencv,C++,164
 65600975,pytorch/pytorch,C++,199
-15634981,godotengine/godot,C++,254
-22067521,ocornut/imgui,C++,389
-160083795,SerenityOS/serenity,C++,230
-311683390,WerWolv/ImHex,C++,553
-191820100,google/mediapipe,C++,85
-19953044,google/flatbuffers,C++,75
+15634981,godotengine/godot,C++,250
+22067521,ocornut/imgui,C++,392
+160083795,SerenityOS/serenity,C++,220
+311683390,WerWolv/ImHex,C++,552
+191820100,google/mediapipe,C++,84
+19953044,google/flatbuffers,C++,74
 149111813,Tencent/MMKV,C++,30
-64991887,microsoft/LightGBM,C++,41
-52729242,keepassxreboot/keepassxc,C++,82
-194269070,skyline-emu/skyline,C++,145
+64991887,microsoft/LightGBM,C++,42
+52729242,keepassxreboot/keepassxc,C++,79
+194269070,skyline-emu/skyline,C++,154
 67031040,upx/upx,C++,114
 14303048,mamedev/mame,C++,25
 14268809,FastLED/FastLED,C++,16
@@ -20,7 +20,7 @@ id,name,lang,new stars
 20296703,eProsima/Fast-DDS,C++,11
 340219494,libjxl/libjxl,C++,40
 493044023,Taiga74164/Akebi-GC,C++,199
-488177011,MatsuriDayo/nekoray,C++,82
+488177011,MatsuriDayo/nekoray,C++,83
 75149209,okcashpro/okcash,C++,227
 507861208,PaddlePaddle/FastDeploy,C++,41
 471439077,lumapu/ahoy,C++,22

@@ -1,18 +1,18 @@
 id,name,lang,new stars
-299354207,rustdesk/rustdesk,Rust,2346
+299354207,rustdesk/rustdesk,Rust,2343
 130688011,meilisearch/meilisearch,Rust,946
-178991158,starship/starship,Rust,1240
-115110181,swc-project/swc,Rust,657
-186024298,nushell/nushell,Rust,599
+178991158,starship/starship,Rust,1238
+115110181,swc-project/swc,Rust,656
+186024298,nushell/nushell,Rust,600
 54168759,SergioBenitez/Rocket,Rust,355
-197081291,iced-rs/iced,Rust,1042
-413918947,vercel/turbo,Rust,7101
-268424739,helix-editor/helix,Rust,2200
+197081291,iced-rs/iced,Rust,1020
+413918947,vercel/turbo,Rust,7103
+268424739,helix-editor/helix,Rust,2199
 410749029,spacedriveapp/spacedrive,Rust,752
 11847500,uutils/coreutils,Rust,240
-143822069,sunface/rust-course,Rust,1020
+143822069,sunface/rust-course,Rust,1018
 263727855,pola-rs/polars,Rust,822
-372172254,tokio-rs/axum,Rust,503
+372172254,tokio-rs/axum,Rust,504
 178597005,FyroxEngine/Fyrox,Rust,478
 351806852,neondatabase/neon,Rust,483
 462597790,aptos-labs/aptos-core,Rust,705
@@ -21,6 +21,6 @@ id,name,lang,new stars
 299354666,rustdesk/rustdesk-server,Rust,303
 426075845,MystenLabs/sui,Rust,735
 240971104,AleoHQ/snarkOS,Rust,408
-507942304,LearningOS/rust-based-os-comp2022,Rust,426
+507942304,LearningOS/rust-based-os-comp2022,Rust,427
 480592723,move-language/move,Rust,258
-531874744,aurae-runtime/aurae,Rust,249
+531874744,aurae-runtime/aurae,Rust,251
