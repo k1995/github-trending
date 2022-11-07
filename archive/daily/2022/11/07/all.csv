@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,236
-184456251,microsoft/PowerToys,C#,181
-12888993,home-assistant/core,Python,97
-20619036,pi-hole/pi-hole,Shell,122
-74627617,commaai/openpilot,Python,130
-173228436,NationalSecurityAgency/ghidra,Java,90
-52281283,mastodon/mastodon,Ruby,537
-97533102,halfrost/LeetCode-Go,Go,80
-197275130,microsoft/winget-cli,C++,48
-190729906,Budibase/budibase,JavaScript,220
-410749029,spacedriveapp/spacedrive,Rust,265
-436658287,surrealdb/surrealdb,Rust,211
-229937405,tiangolo/typer,Python,147
-305144746,geohot/tinygrad,Python,182
-295774370,mdn/content,Markdown,82
-50894333,pi-hole/docker-pi-hole,Shell,50
-75882172,Netflix/conductor,Java,111
-86245815,pygame/pygame,C,69
-135951540,stashapp/stash,Go,381
-539727112,lidangzzz/How-to-run,TypeScript,143
-524596709,LSPosed/MagiskOnWSALocal,Shell,34
-492821014,Ehviewer-Overhauled/Ehviewer,Java,61
-558188628,alibaba/higress,C++,123
-550752161,huggingface/diffusion-models-class,,46
-558852997,rocketseat-education/nlw-copa-ignite,TypeScript,17
+29028775,facebook/react-native,JavaScript,48
+12888993,home-assistant/core,Python,128
+58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,92
+20619036,pi-hole/pi-hole,Shell,167
+212639071,bregman-arie/devops-exercises,Python,130
+52281283,mastodon/mastodon,Ruby,550
+268424739,helix-editor/helix,Rust,211
+436658287,surrealdb/surrealdb,Rust,225
+537603333,openai/whisper,Jupyter Notebook,172
+305144746,geohot/tinygrad,Python,212
+295774370,mdn/content,Markdown,87
+471728341,lensterxyz/lenster,TypeScript,2919
+135951540,stashapp/stash,Go,407
+386017669,iterativv/NostalgiaForInfinity,Python,6
+562011743,trinib/Linux-Bash-Commands,,462
+553119108,MubertAI/Mubert-Text-to-Music,Jupyter Notebook,56
+342854098,superseriousbusiness/gotosocial,Go,42
+558230386,linyiLYi/pose-monitor,Jupyter Notebook,137
+447932278,mastodon/mastodon-android,Java,62
+561637339,diracdeltas/tweets,Shell,188
+558188628,alibaba/higress,C++,194
+406256303,idanya/algo-trader,Python,89
+559577091,CryoByte33/steam-deck-utilities,Shell,60
+365478128,dillongoostudios/goo-engine,C,27
+560387124,rodrigorgtic/nlwcopa-mobile-components,TypeScript,25
