@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,1382
-184456251,microsoft/PowerToys,C#,934
+54346799,public-apis/public-apis,Python,1423
+184456251,microsoft/PowerToys,C#,944
 33015583,keras-team/keras,Python,83
 74627617,commaai/openpilot,Python,497
-52281283,mastodon/mastodon,Ruby,2189
+52281283,mastodon/mastodon,Ruby,2221
 159152904,jeecgboot/jeecg-boot,Java,317
-186024298,nushell/nushell,Rust,359
-307489284,remix-run/remix,TypeScript,546
-7634677,openssl/openssl,C,280
+186024298,nushell/nushell,Rust,344
+307489284,remix-run/remix,TypeScript,542
+7634677,openssl/openssl,C,270
 510607652,pocketbase/pocketbase,Go,894
-305144746,geohot/tinygrad,Python,1362
-295774370,mdn/content,Markdown,281
-331293626,refinedev/refine,TypeScript,1001
-135951540,stashapp/stash,Go,1604
-533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,519
-428292281,Sanster/lama-cleaner,Python,1652
-325283778,dudykr/stc,Rust,433
-553759919,shadcn/taxonomy,TypeScript,461
-439447708,bluesky-social/atproto,TypeScript,393
-539389184,TheLastBen/fast-stable-diffusion,Python,325
-551312158,hellof2e/quark-design,TypeScript,565
-554807775,facebookresearch/encodec,Python,445
-558753496,yyx990803/vite-vs-next-turbo-hmr,JavaScript,211
+305144746,geohot/tinygrad,Python,1365
+295774370,mdn/content,Markdown,288
+331293626,refinedev/refine,TypeScript,996
+135951540,stashapp/stash,Go,1624
+533199740,XavierXiao/Dreambooth-Stable-Diffusion,Jupyter Notebook,504
+428292281,Sanster/lama-cleaner,Python,1656
+325283778,dudykr/stc,Rust,426
+553759919,shadcn/taxonomy,TypeScript,451
+439447708,bluesky-social/atproto,TypeScript,383
+539389184,TheLastBen/fast-stable-diffusion,Python,321
+551312158,hellof2e/quark-design,TypeScript,557
+554807775,facebookresearch/encodec,Python,431
+558753496,yyx990803/vite-vs-next-turbo-hmr,JavaScript,197
 511970027,vercel/app-playground,TypeScript,89
-544120483,josean-dev/dev-environment-files,Lua,57
+544120483,josean-dev/dev-environment-files,Lua,56
