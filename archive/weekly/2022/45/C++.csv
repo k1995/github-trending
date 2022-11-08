@@ -1,14 +1,14 @@
 id,name,lang,new stars
-65600975,pytorch/pytorch,C++,199
-22067521,ocornut/imgui,C++,221
-311683390,WerWolv/ImHex,C++,240
+65600975,pytorch/pytorch,C++,201
+22067521,ocornut/imgui,C++,218
+311683390,WerWolv/ImHex,C++,218
 11892946,RedisInsight/RedisDesktopManager,C++,55
-191820100,google/mediapipe,C++,94
+191820100,google/mediapipe,C++,95
 40892817,ethereum/solidity,C++,83
-197275130,microsoft/winget-cli,C++,126
+197275130,microsoft/winget-cli,C++,127
 26038648,gabime/spdlog,C++,70
-1062572,catchorg/Catch2,C++,29
-194269070,skyline-emu/skyline,C++,214
+1062572,catchorg/Catch2,C++,30
+194269070,skyline-emu/skyline,C++,218
 67031040,upx/upx,C++,73
 76990209,Aircoookie/WLED,C++,54
 9647856,zerotier/ZeroTierOne,C++,63
@@ -17,10 +17,10 @@ id,name,lang,new stars
 384520418,MaaAssistantArknights/MaaAssistantArknights,C++,176
 11110385,cvxpy/cvxpy,C++,27
 81634683,Oneflow-Inc/oneflow,C++,76
-433303514,yuesong-feng/30dayMakeCppServer,C++,232
+433303514,yuesong-feng/30dayMakeCppServer,C++,231
 493044023,Taiga74164/Akebi-GC,C++,216
-488177011,MatsuriDayo/nekoray,C++,71
+488177011,MatsuriDayo/nekoray,C++,69
 75149209,okcashpro/okcash,C++,211
 507861208,PaddlePaddle/FastDeploy,C++,103
-506984830,tbnobody/OpenDTU,C++,45
-471439077,lumapu/ahoy,C++,27
+506984830,tbnobody/OpenDTU,C++,47
+471439077,lumapu/ahoy,C++,28

@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,228
-65252,jekyll/jekyll,Ruby,228
-7569578,discourse/discourse,Ruby,257
-27442967,fastlane/fastlane,Ruby,150
+8514,rails/rails,Ruby,230
+65252,jekyll/jekyll,Ruby,227
+7569578,discourse/discourse,Ruby,262
+27442967,fastlane/fastlane,Ruby,149
 53238813,Homebrew/brew,Ruby,381
-52281283,mastodon/mastodon,Ruby,3085
-2293158,rapid7/metasploit-framework,Ruby,343
-481872,hashicorp/vagrant,Ruby,233
+52281283,mastodon/mastodon,Ruby,3130
+2293158,rapid7/metasploit-framework,Ruby,340
+481872,hashicorp/vagrant,Ruby,231
 2500088,gitlabhq/gitlabhq,Ruby,52
 538746,ruby/ruby,Ruby,130
 2203645,CocoaPods/CocoaPods,Ruby,57
 96395,faker-ruby/faker,Ruby,82
-1725199,github/linguist,Ruby,158
+1725199,github/linguist,Ruby,157
 361310,teamcapybara/capybara,Ruby,36
 13761875,greatghoul/remote-working,Ruby,366
 2441517,puma/puma,Ruby,71
@@ -21,6 +21,6 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,67
 502760,danbooru/danbooru,Ruby,71
 18935740,ifmeorg/ifme,Ruby,31
-537409787,Shopify/pitchfork,Ruby,176
+537409787,Shopify/pitchfork,Ruby,175
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
