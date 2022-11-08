@@ -1,18 +1,18 @@
 id,name,lang,new stars
-15634981,godotengine/godot,C++,42
+15634981,godotengine/godot,C++,41
 67702184,topjohnwu/Magisk,C++,16
-116167731,yuzu-emu/yuzu,C++,21
+116167731,yuzu-emu/yuzu,C++,19
 19374812,telegramdesktop/tdesktop,C++,26
 34864402,apache/mxnet,C++,6
-197275130,microsoft/winget-cli,C++,37
-3351871,qbittorrent/qBittorrent,C++,23
+197275130,microsoft/winget-cli,C++,34
+3351871,qbittorrent/qBittorrent,C++,22
 18348651,OpenRCT2/OpenRCT2,C++,6
 76990209,Aircoookie/WLED,C++,9
 11577304,dolphin-emu/dolphin,C++,6
-299510783,rui314/mold,C++,22
+299510783,rui314/mold,C++,21
 1204412,TrinityCore/TrinityCore,C++,4
 14303048,mamedev/mame,C++,3
-7550637,xenia-project/xenia,C++,9
+7550637,xenia-project/xenia,C++,7
 143324737,diasurgical/devilutionX,C++,3
 128479644,esphome/esphome,C++,3
 527719753,cemu-project/Cemu,C++,15
@@ -20,7 +20,7 @@ id,name,lang,new stars
 95712614,Xaymar/obs-StreamFX,C++,3
 4455628,STEllAR-GROUP/hpx,C++,10
 207663235,cmu-db/bustub,C++,4
-438803890,LizardByte/Sunshine,C++,9
+438803890,LizardByte/Sunshine,C++,10
 503544782,vxunderground/VX-API,C++,4
 558188628,alibaba/higress,C++,184
 506984830,tbnobody/OpenDTU,C++,10
