@@ -1,16 +1,16 @@
 id,name,lang,new stars
-52281283,mastodon/mastodon,Ruby,414
-2293158,rapid7/metasploit-framework,Ruby,10
+52281283,mastodon/mastodon,Ruby,390
+2293158,rapid7/metasploit-framework,Ruby,12
 21696302,matteocrippa/awesome-swift,Ruby,4
 2203645,CocoaPods/CocoaPods,Ruby,2
-3195124,mperham/sidekiq,Ruby,5
+3195124,mperham/sidekiq,Ruby,3
 4095287,rubocop/rubocop,Ruby,1
-96395,faker-ruby/faker,Ruby,5
+96395,faker-ruby/faker,Ruby,4
 611921,activeadmin/activeadmin,Ruby,0
-2441517,puma/puma,Ruby,2
+2441517,puma/puma,Ruby,1
 108278,chef/chef,Ruby,1
 75785147,rails/webpacker,Ruby,0
-1548802,activerecord-hackery/ransack,Ruby,1
+1548802,activerecord-hackery/ransack,Ruby,2
 447184,rspec/rspec-rails,Ruby,0
 6768710,redmine/redmine,Ruby,0
 52316423,luggit/react-native-config,Ruby,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,2
 5144181,jnunemaker/flipper,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,2
-14238949,elastic/elasticsearch-rails,Ruby,1
+14238949,elastic/elasticsearch-rails,Ruby,0
 9500075,ytti/oxidized,Ruby,1
-298001192,Shopify/packwerk,Ruby,4
+298001192,Shopify/packwerk,Ruby,2
 3947396,getsentry/sentry-ruby,Ruby,0
