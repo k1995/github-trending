@@ -1,5 +1,5 @@
 id,name,lang,new stars
-156018,redis/redis,C,18
+156018,redis/redis,C,16
 1614410,FFmpeg/FFmpeg,C,17
 34921116,iovisor/bcc,C,6
 63477515,TheAlgorithms/C,C,8
@@ -11,16 +11,16 @@ id,name,lang,new stars
 86245815,pygame/pygame,C,3
 23007417,colmap/colmap,C,4
 114948816,uber/h3,C,2
-66016134,henrypp/simplewall,C,18
+66016134,henrypp/simplewall,C,17
 1613176,tianocore/edk2,C,3
 64324413,ufrisk/pcileech,C,3
 26537135,u-boot/u-boot,C,1
 24107001,open-mpi/ompi,C,0
 342120988,earlephilhower/arduino-pico,C,1
-541269386,ggerganov/whisper.cpp,C,92
+541269386,ggerganov/whisper.cpp,C,90
 121516035,nrfconnect/sdk-nrf,C,1
 70934373,Azure/azure-iot-sdk-c,C,0
 53432472,sonic-net/sonic-buildimage,C,0
-365478128,dillongoostudios/goo-engine,C,46
+365478128,dillongoostudios/goo-engine,C,42
 533710021,4g3nt47/Striker,C,19
 556909019,johannyren/PowerDisplayHomeAssistant,C,0

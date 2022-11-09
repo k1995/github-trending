@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,13
+7548986,laravel/framework,PHP,12
 458058,symfony/symfony,PHP,6
 1420053,guzzle/guzzle,PHP,4
 2253830,PHPMailer/PHPMailer,PHP,1
@@ -16,7 +16,7 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,3
 74386167,vimeo/psalm,PHP,2
 158374929,beyondcode/laravel-websockets,PHP,2
-129829848,pixelfed/pixelfed,PHP,14
+129829848,pixelfed/pixelfed,PHP,13
 3193843,drush-ops/drush,PHP,3
 189104054,laravel/ui,PHP,1
 34407154,cweagans/composer-patches,PHP,0

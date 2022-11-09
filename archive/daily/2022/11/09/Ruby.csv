@@ -1,6 +1,6 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,4
-52281283,mastodon/mastodon,Ruby,547
+27442967,fastlane/fastlane,Ruby,3
+52281283,mastodon/mastodon,Ruby,535
 308770,heartcombo/devise,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,2
 3195124,mperham/sidekiq,Ruby,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,1
 200302808,ViewComponent/view_component,Ruby,2
 1953385,stripe/stripe-ruby,Ruby,0
-99692620,renatolond/mastodon-twitter-poster,Ruby,8
+99692620,renatolond/mastodon-twitter-poster,Ruby,7
