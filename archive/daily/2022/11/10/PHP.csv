@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,12
+1863329,laravel/laravel,PHP,11
 7548986,laravel/framework,PHP,12
 458058,symfony/symfony,PHP,7
 1420053,guzzle/guzzle,PHP,3
 448045,sebastianbergmann/phpunit,PHP,3
-12615154,barryvdh/laravel-debugbar,PHP,6
+12615154,barryvdh/laravel-debugbar,PHP,5
 7704544,Intervention/image,PHP,5
 13899674,thephpleague/flysystem,PHP,1
 61490598,PHPOffice/PhpSpreadsheet,PHP,5
@@ -18,7 +18,7 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,3
 41463886,codeigniter4/CodeIgniter4,PHP,2
 8077402,MISP/MISP,PHP,1
-129829848,pixelfed/pixelfed,PHP,12
+129829848,pixelfed/pixelfed,PHP,13
 38200433,jeroennoten/Laravel-AdminLTE,PHP,2
 13914116,librenms/librenms,PHP,0
 3193843,drush-ops/drush,PHP,0

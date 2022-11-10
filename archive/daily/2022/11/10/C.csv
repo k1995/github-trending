@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1903522,php/php-src,C,12
-3774328,wg/wrk,C,10
+1903522,php/php-src,C,13
+3774328,wg/wrk,C,11
 196353673,taosdata/TDengine,C,6
 927442,postgres/postgres,C,7
 13836499,raysan5/raylib,C,15
@@ -9,14 +9,14 @@ id,name,lang,new stars
 394318710,valinet/ExplorerPatcher,C,35
 39242894,coturn/coturn,C,4
 254327261,sandboxie-plus/Sandboxie,C,11
-6376337,pocoproject/poco,C,4
+6376337,pocoproject/poco,C,3
 5870069,edenhill/librdkafka,C,1
 2755696,mattn/go-sqlite3,C,5
 34431834,xmake-io/xmake,C,22
-31791482,microsoft/Windows-driver-samples,C,3
+31791482,microsoft/Windows-driver-samples,C,4
 17183871,esnet/iperf,C,1
 150354367,Meituan-Dianping/Logan,C,6
-128791889,haproxy/haproxy,C,4
+128791889,haproxy/haproxy,C,3
 176278485,sqlite/sqlite,C,7
 228103273,apache/incubator-nuttx,C,6
 80611216,open5gs/open5gs,C,3

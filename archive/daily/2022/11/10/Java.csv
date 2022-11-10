@@ -1,16 +1,16 @@
 id,name,lang,new stars
 132464395,Snailclimb/JavaGuide,Java,35
-22790488,iluwatar/java-design-patterns,Java,22
-206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,156
+22790488,iluwatar/java-design-patterns,Java,23
+206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,155
 1148753,spring-projects/spring-framework,Java,15
 1064563,netty/netty,Java,12
 137451403,alibaba/nacos,Java,16
 2211243,apache/kafka,Java,7
-13862381,DrKLO/Telegram,Java,8
+13862381,DrKLO/Telegram,Java,9
 128018428,alibaba/Sentinel,Java,6
-27954927,ben-manes/caffeine,Java,38
-174765647,heibaiying/BigData-Notes,Java,18
-139914932,quarkusio/quarkus,Java,8
+27954927,ben-manes/caffeine,Java,40
+174765647,heibaiying/BigData-Notes,Java,19
+139914932,quarkusio/quarkus,Java,9
 27729926,grpc/grpc-java,Java,2
 33816473,testcontainers/testcontainers-java,Java,3
 45903621,reactor/reactor-core,Java,2
@@ -19,7 +19,7 @@ id,name,lang,new stars
 282994686,ververica/flink-cdc-connectors,Java,8
 76400426,spring-cloud/spring-cloud-kubernetes,Java,1
 506449138,CatVodTVOfficial/TVBoxOSC,Java,9
-447932278,mastodon/mastodon-android,Java,50
+447932278,mastodon/mastodon-android,Java,52
 264695494,cyrildiagne/ar-cptext,Java,2
 89221572,DataDog/dd-trace-java,Java,1
 560302252,Art0white/FastBeeIM,Java,24
