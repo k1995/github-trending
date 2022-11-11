@@ -1,5 +1,5 @@
 id,name,lang,new stars
-18496166,gentilkiwi/mimikatz,C,13
+18496166,gentilkiwi/mimikatz,C,12
 34921116,iovisor/bcc,C,9
 63477515,TheAlgorithms/C,C,9
 613829,openresty/lua-nginx-module,C,1
@@ -11,10 +11,10 @@ id,name,lang,new stars
 34431834,xmake-io/xmake,C,7
 673267,redis/hiredis,C,1
 8180677,libimobiledevice/libimobiledevice,C,4
-1660127,neutrinolabs/xrdp,C,1
+1660127,neutrinolabs/xrdp,C,0
 29933948,fluent/fluent-bit,C,2
 34807561,nanopb/nanopb,C,6
-206121828,FreeRTOS/FreeRTOS,C,3
+206121828,FreeRTOS/FreeRTOS,C,4
 26537135,u-boot/u-boot,C,4
 24107001,open-mpi/ompi,C,2
 228103273,apache/incubator-nuttx,C,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 505613691,OnionUI/Onion,C,4
 116033455,eclipse-cyclonedds/cyclonedds,C,3
 485321986,snlie/WeChat-Hook,C,9
-563400852,uhhhci/immersive-ngp,C,21
+563400852,uhhhci/immersive-ngp,C,22
