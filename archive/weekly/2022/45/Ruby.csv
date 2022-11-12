@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,54
-7569578,discourse/discourse,Ruby,56
-53238813,Homebrew/brew,Ruby,80
-52281283,mastodon/mastodon,Ruby,2667
+7569578,discourse/discourse,Ruby,55
+52281283,mastodon/mastodon,Ruby,2669
+53238813,Homebrew/brew,Ruby,79
 2293158,rapid7/metasploit-framework,Ruby,81
 308770,heartcombo/devise,Ruby,15
-2203645,CocoaPods/CocoaPods,Ruby,14
+2203645,CocoaPods/CocoaPods,Ruby,13
 3195124,mperham/sidekiq,Ruby,24
-52855516,Homebrew/homebrew-core,Ruby,31
-96395,faker-ruby/faker,Ruby,16
+52855516,Homebrew/homebrew-core,Ruby,30
+96395,faker-ruby/faker,Ruby,15
 15435,Shopify/liquid,Ruby,11
 16994115,CanCanCommunity/cancancan,Ruby,2
 30985840,solidusio/solidus,Ruby,10
@@ -16,9 +16,9 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,14
 5144181,jnunemaker/flipper,Ruby,8
 11426474,github/choosealicense.com,Ruby,14
-93163073,dependabot/dependabot-core,Ruby,15
+93163073,dependabot/dependabot-core,Ruby,16
 14238949,elastic/elasticsearch-rails,Ruby,1
-1175581,citation-style-language/styles,Ruby,12
+1175581,citation-style-language/styles,Ruby,11
 270054,ffi/ffi,Ruby,1
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,3
 99692620,renatolond/mastodon-twitter-poster,Ruby,55
