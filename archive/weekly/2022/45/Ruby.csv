@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,52
+8514,rails/rails,Ruby,54
 7569578,discourse/discourse,Ruby,58
-53238813,Homebrew/brew,Ruby,83
-52281283,mastodon/mastodon,Ruby,2663
-2293158,rapid7/metasploit-framework,Ruby,82
+53238813,Homebrew/brew,Ruby,80
+52281283,mastodon/mastodon,Ruby,2667
+2293158,rapid7/metasploit-framework,Ruby,81
 308770,heartcombo/devise,Ruby,15
 2203645,CocoaPods/CocoaPods,Ruby,14
-3195124,mperham/sidekiq,Ruby,26
-52855516,Homebrew/homebrew-core,Ruby,32
+3195124,mperham/sidekiq,Ruby,25
+52855516,Homebrew/homebrew-core,Ruby,31
 96395,faker-ruby/faker,Ruby,16
 15435,Shopify/liquid,Ruby,12
-16994115,CanCanCommunity/cancancan,Ruby,2
+16994115,CanCanCommunity/cancancan,Ruby,3
 30985840,solidusio/solidus,Ruby,10
 52316423,luggit/react-native-config,Ruby,8
 103766152,github/explore,Ruby,13
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,11
 270054,ffi/ffi,Ruby,1
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,3
-99692620,renatolond/mastodon-twitter-poster,Ruby,56
+99692620,renatolond/mastodon-twitter-poster,Ruby,55
 212272090,CMSgov/price-transparency-guide,Ruby,3
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0

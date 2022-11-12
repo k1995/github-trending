@@ -1,10 +1,10 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,95
+184456251,microsoft/PowerToys,C#,94
 49609581,PowerShell/PowerShell,C#,59
 198071756,huiyadanli/RevokeMsgPatcher,C#,26
-262395224,dotnet/maui,C#,43
-29078997,dotnet/roslyn,C#,6
-120231691,Ryujinx/Ryujinx,C#,65
+262395224,dotnet/maui,C#,57
+29078997,dotnet/roslyn,C#,5
+120231691,Ryujinx/Ryujinx,C#,60
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,2
 16157746,dotnet/efcore,C#,4
 28239455,dotnet/AspNetCore.Docs,C#,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,1
 373274891,CommunityToolkit/Maui,C#,6
 546036205,hasantarhan/LeafPhysics,C#,12
-563560648,CCob/Volumiser,C#,1
+563560648,CCob/Volumiser,C#,2

@@ -5,14 +5,14 @@ id,name,lang,new stars
 82238168,monicahq/monica,PHP,5
 1548202,matomo-org/matomo,PHP,4
 1631570,nikic/PHP-Parser,PHP,4
-47495360,koel/koel,PHP,5
-4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,5
+47495360,koel/koel,PHP,4
+4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,4
 14259390,SpartnerNL/Laravel-Excel,PHP,3
 2884111,magento/magento2,PHP,2
-2699935,squizlabs/PHP_CodeSniffer,PHP,1
+2699935,squizlabs/PHP_CodeSniffer,PHP,0
 6660366,dompdf/dompdf,PHP,6
 2179920,woocommerce/woocommerce,PHP,1
-6763587,PrestaShop/PrestaShop,PHP,3
+6763587,PrestaShop/PrestaShop,PHP,2
 9131292,jenssegers/laravel-mongodb,PHP,4
 97311017,rectorphp/rector,PHP,9
 265782973,hlmd/Postman-cn,PHP,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 400984450,kuaifan/dootask,PHP,1
 12063996,osTicket/osTicket,PHP,2
 3193843,drush-ops/drush,PHP,0
-216849756,v2board/v2board,PHP,4
+216849756,v2board/v2board,PHP,3
 34407154,cweagans/composer-patches,PHP,0
