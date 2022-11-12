@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,7
+7548986,laravel/framework,PHP,8
 448045,sebastianbergmann/phpunit,PHP,1
 82238168,monicahq/monica,PHP,3
 1631570,nikic/PHP-Parser,PHP,2
@@ -7,20 +7,20 @@ id,name,lang,new stars
 14259390,SpartnerNL/Laravel-Excel,PHP,2
 7549096,doctrine/inflector,PHP,0
 2884111,magento/magento2,PHP,3
-6660366,dompdf/dompdf,PHP,3
-330275,twigphp/Twig,PHP,0
+6660366,dompdf/dompdf,PHP,5
+330275,twigphp/Twig,PHP,1
 1398634,symfony/css-selector,PHP,0
-9131292,jenssegers/laravel-mongodb,PHP,3
+9131292,jenssegers/laravel-mongodb,PHP,2
 4551765,thephpleague/oauth2-server,PHP,1
-97311017,rectorphp/rector,PHP,9
+97311017,rectorphp/rector,PHP,5
 11935508,RSS-Bridge/rss-bridge,PHP,1
 248372441,filamentphp/filament,PHP,9
 11907506,amphp/amp,PHP,1
 38200433,jeroennoten/Laravel-AdminLTE,PHP,1
-38957562,leokhoa/laragon,PHP,8
+38957562,leokhoa/laragon,PHP,6
 12063996,osTicket/osTicket,PHP,2
 74026995,CodelyTV/php-ddd-example,PHP,2
 27195711,alextselegidis/easyappointments,PHP,2
 15836700,phoronix-test-suite/phoronix-test-suite,PHP,1
 155852027,uvdesk/community-skeleton,PHP,0
-512403918,hacoidev/ophim-core,PHP,13
+512403918,hacoidev/ophim-core,PHP,12

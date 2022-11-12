@@ -6,13 +6,13 @@ id,name,lang,new stars
 2310495,ceph/ceph,C++,3
 161292091,Tencent/matrix,C++,1
 267649918,hoffstadt/DearPyGui,C++,7
-106558568,doitsujin/dxvk,C++,89
-156939672,microsoft/onnxruntime,C++,2
+106558568,doitsujin/dxvk,C++,94
+156939672,microsoft/onnxruntime,C++,1
 1204412,TrinityCore/TrinityCore,C++,0
 130068982,taskflow/taskflow,C++,8
 21530861,open-source-parsers/jsoncpp,C++,3
-372536760,oceanbase/oceanbase,C++,14
-36831874,microsoft/DirectX-Graphics-Samples,C++,0
+372536760,oceanbase/oceanbase,C++,3
+36831874,microsoft/DirectX-Graphics-Samples,C++,1
 280608729,UZ-SLAMLab/ORB_SLAM3,C++,2
 243394576,pixie-io/pixie,C++,1
 470730648,hyprwm/Hyprland,C++,18
@@ -23,4 +23,4 @@ id,name,lang,new stars
 276269866,TixiaoShan/LIO-SAM,C++,1
 24911519,seladb/PcapPlusPlus,C++,6
 9880335,qt/qtbase,C++,0
-125687069,axstin/rbxfpsunlocker,C++,11
+125687069,axstin/rbxfpsunlocker,C++,13
