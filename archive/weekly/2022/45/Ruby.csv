@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,54
+8514,rails/rails,Ruby,53
 7569578,discourse/discourse,Ruby,55
-52281283,mastodon/mastodon,Ruby,2669
-53238813,Homebrew/brew,Ruby,79
-2293158,rapid7/metasploit-framework,Ruby,81
-308770,heartcombo/devise,Ruby,15
-2203645,CocoaPods/CocoaPods,Ruby,13
-3195124,mperham/sidekiq,Ruby,24
+52281283,mastodon/mastodon,Ruby,2667
+53238813,Homebrew/brew,Ruby,80
+2293158,rapid7/metasploit-framework,Ruby,82
+308770,heartcombo/devise,Ruby,14
+2203645,CocoaPods/CocoaPods,Ruby,12
+3195124,mperham/sidekiq,Ruby,23
 52855516,Homebrew/homebrew-core,Ruby,30
 96395,faker-ruby/faker,Ruby,15
 15435,Shopify/liquid,Ruby,11
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,11
 270054,ffi/ffi,Ruby,1
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,3
-99692620,renatolond/mastodon-twitter-poster,Ruby,55
+99692620,renatolond/mastodon-twitter-poster,Ruby,56
 212272090,CMSgov/price-transparency-guide,Ruby,3
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
