@@ -1,15 +1,15 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,103
-49609581,PowerShell/PowerShell,C#,100
-198071756,huiyadanli/RevokeMsgPatcher,C#,25
-262395224,dotnet/maui,C#,25
+184456251,microsoft/PowerToys,C#,95
+49609581,PowerShell/PowerShell,C#,59
+198071756,huiyadanli/RevokeMsgPatcher,C#,26
+262395224,dotnet/maui,C#,43
 29078997,dotnet/roslyn,C#,6
-120231691,Ryujinx/Ryujinx,C#,54
+120231691,Ryujinx/Ryujinx,C#,65
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,2
 16157746,dotnet/efcore,C#,4
 28239455,dotnet/AspNetCore.Docs,C#,2
 210716005,dotnet/runtime,C#,19
-28232663,dotnet/orleans,C#,6
+28232663,dotnet/orleans,C#,7
 12191244,dotnet/BenchmarkDotNet,C#,4
 132021166,dotnet/machinelearning,C#,3
 41822320,RicoSuter/NSwag,C#,7
@@ -18,7 +18,7 @@ id,name,lang,new stars
 153711830,dotnet/winforms,C#,4
 9891249,xunit/xunit,C#,3
 138290022,mob-sakai/ParticleEffectForUGUI,C#,1
-255952484,dotnet/maui-samples,C#,11
+255952484,dotnet/maui-samples,C#,10
 223284876,VerifyTests/Verify,C#,2
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,1
 373274891,CommunityToolkit/Maui,C#,6
