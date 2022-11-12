@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,51
-7569578,discourse/discourse,Ruby,56
-52281283,mastodon/mastodon,Ruby,2663
-2293158,rapid7/metasploit-framework,Ruby,83
-308770,heartcombo/devise,Ruby,12
+8514,rails/rails,Ruby,52
+7569578,discourse/discourse,Ruby,59
+52281283,mastodon/mastodon,Ruby,2667
+2293158,rapid7/metasploit-framework,Ruby,81
+308770,heartcombo/devise,Ruby,13
 2203645,CocoaPods/CocoaPods,Ruby,8
 3195124,mperham/sidekiq,Ruby,24
-52855516,Homebrew/homebrew-core,Ruby,33
+52855516,Homebrew/homebrew-core,Ruby,31
 15435,Shopify/liquid,Ruby,10
 6529205,varvet/pundit,Ruby,4
 810796,railsadminteam/rails_admin,Ruby,5
-4994614,wpscanteam/wpscan,Ruby,16
+4994614,wpscanteam/wpscan,Ruby,14
 108278,chef/chef,Ruby,11
-22059578,ankane/pghero,Ruby,20
+22059578,ankane/pghero,Ruby,21
 75785147,rails/webpacker,Ruby,0
 1548802,activerecord-hackery/ransack,Ruby,6
 6768710,redmine/redmine,Ruby,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,16
 14238949,elastic/elasticsearch-rails,Ruby,1
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,3
-99692620,renatolond/mastodon-twitter-poster,Ruby,54
+99692620,renatolond/mastodon-twitter-poster,Ruby,53
 212272090,CMSgov/price-transparency-guide,Ruby,3

@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,87
-3482588,danielmiessler/SecLists,PHP,174
+1863329,laravel/laravel,PHP,86
+3482588,danielmiessler/SecLists,PHP,173
 7548986,laravel/framework,PHP,56
 458058,symfony/symfony,PHP,36
 2253830,PHPMailer/PHPMailer,PHP,29
 448045,sebastianbergmann/phpunit,PHP,13
 7704544,Intervention/image,PHP,21
 926544,slimphp/Slim,PHP,13
-2884111,magento/magento2,PHP,10
-15020102,walkor/workerman,PHP,19
+2884111,magento/magento2,PHP,12
+15020102,walkor/workerman,PHP,18
 5627682,serbanghita/Mobile-Detect,PHP,7
 2179920,woocommerce/woocommerce,PHP,15
 9131292,jenssegers/laravel-mongodb,PHP,17
@@ -17,10 +17,10 @@ id,name,lang,new stars
 10883164,barryvdh/laravel-dompdf,PHP,18
 74386167,vimeo/psalm,PHP,14
 60010673,elementor/elementor,PHP,9
-129829848,pixelfed/pixelfed,PHP,82
+129829848,pixelfed/pixelfed,PHP,83
 141720301,dr5hn/countries-states-cities-database,PHP,36
 69691727,pmmp/PocketMine-MP,PHP,10
-74026995,CodelyTV/php-ddd-example,PHP,14
+74026995,CodelyTV/php-ddd-example,PHP,12
 216849756,v2board/v2board,PHP,27
-75645659,WordPress/wordpress-develop,PHP,10
-513468803,ine-labs/AWSGoat,PHP,18
+75645659,WordPress/wordpress-develop,PHP,11
+513468803,ine-labs/AWSGoat,PHP,17
