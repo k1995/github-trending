@@ -1,10 +1,10 @@
 id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,19
 15634981,godotengine/godot,C++,18
-22067521,ocornut/imgui,C++,27
+22067521,ocornut/imgui,C++,22
 33791743,x64dbg/x64dbg,C++,6
 67702184,topjohnwu/Magisk,C++,27
-116167731,yuzu-emu/yuzu,C++,20
+116167731,yuzu-emu/yuzu,C++,23
 63477612,TheAlgorithms/C-Plus-Plus,C++,6
 23129458,aseprite/aseprite,C++,10
 1217614,xbmc/xbmc,C++,6
@@ -13,7 +13,7 @@ id,name,lang,new stars
 2200856,MarlinFirmware/Marlin,C++,5
 18348651,OpenRCT2/OpenRCT2,C++,6
 117948953,Atmosphere-NX/Atmosphere,C++,5
-11577304,dolphin-emu/dolphin,C++,6
+11577304,dolphin-emu/dolphin,C++,5
 1524684,SFML/SFML,C++,3
 35129809,transmission/transmission,C++,11
 19866730,citra-emu/citra,C++,2
@@ -21,6 +21,6 @@ id,name,lang,new stars
 115883761,tdlib/td,C++,2
 470730648,hyprwm/Hyprland,C++,19
 144071425,Alexays/Waybar,C++,4
-48289924,me-no-dev/ESPAsyncWebServer,C++,4
-406923731,hsutter/cppfront,C++,89
+48289924,me-no-dev/ESPAsyncWebServer,C++,3
+406923731,hsutter/cppfront,C++,93
 36783367,SnapDragon64/ACMFinalsSolutions,C++,5

@@ -1,8 +1,8 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,85
-3482588,danielmiessler/SecLists,PHP,173
+1863329,laravel/laravel,PHP,84
+3482588,danielmiessler/SecLists,PHP,180
 7548986,laravel/framework,PHP,56
-458058,symfony/symfony,PHP,36
+458058,symfony/symfony,PHP,35
 2253830,PHPMailer/PHPMailer,PHP,30
 448045,sebastianbergmann/phpunit,PHP,14
 7704544,Intervention/image,PHP,19
@@ -11,16 +11,16 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,10
 5627682,serbanghita/Mobile-Detect,PHP,6
 6763587,PrestaShop/PrestaShop,PHP,12
-9791525,digininja/DVWA,PHP,34
+9791525,digininja/DVWA,PHP,35
 9131292,jenssegers/laravel-mongodb,PHP,18
-97311017,rectorphp/rector,PHP,43
+97311017,rectorphp/rector,PHP,42
 11935508,RSS-Bridge/rss-bridge,PHP,20
 74386167,vimeo/psalm,PHP,13
 60010673,elementor/elementor,PHP,13
-158374929,beyondcode/laravel-websockets,PHP,13
-129829848,pixelfed/pixelfed,PHP,82
+158374929,beyondcode/laravel-websockets,PHP,12
+129829848,pixelfed/pixelfed,PHP,83
 38200433,jeroennoten/Laravel-AdminLTE,PHP,11
-38957562,leokhoa/laragon,PHP,28
+38957562,leokhoa/laragon,PHP,29
 74026995,CodelyTV/php-ddd-example,PHP,13
-75645659,WordPress/wordpress-develop,PHP,8
+75645659,WordPress/wordpress-develop,PHP,7
 279739423,Licoy/wordpress-theme-puock,PHP,24
