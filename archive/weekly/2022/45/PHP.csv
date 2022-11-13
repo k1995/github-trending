@@ -1,7 +1,7 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,86
-3482588,danielmiessler/SecLists,PHP,173
-7548986,laravel/framework,PHP,56
+3482588,danielmiessler/SecLists,PHP,169
+7548986,laravel/framework,PHP,55
 458058,symfony/symfony,PHP,36
 2253830,PHPMailer/PHPMailer,PHP,29
 448045,sebastianbergmann/phpunit,PHP,13
@@ -11,16 +11,16 @@ id,name,lang,new stars
 15020102,walkor/workerman,PHP,18
 5627682,serbanghita/Mobile-Detect,PHP,7
 2179920,woocommerce/woocommerce,PHP,15
-9131292,jenssegers/laravel-mongodb,PHP,17
-97311017,rectorphp/rector,PHP,46
+9131292,jenssegers/laravel-mongodb,PHP,18
+97311017,rectorphp/rector,PHP,45
 76064827,mailcow/mailcow-dockerized,PHP,23
 10883164,barryvdh/laravel-dompdf,PHP,18
 74386167,vimeo/psalm,PHP,14
-60010673,elementor/elementor,PHP,9
+60010673,elementor/elementor,PHP,8
 129829848,pixelfed/pixelfed,PHP,83
 141720301,dr5hn/countries-states-cities-database,PHP,36
 69691727,pmmp/PocketMine-MP,PHP,10
 74026995,CodelyTV/php-ddd-example,PHP,12
-216849756,v2board/v2board,PHP,27
+216849756,v2board/v2board,PHP,28
 75645659,WordPress/wordpress-develop,PHP,11
-513468803,ine-labs/AWSGoat,PHP,17
+513468803,ine-labs/AWSGoat,PHP,16

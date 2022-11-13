@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,52
 7569578,discourse/discourse,Ruby,59
-52281283,mastodon/mastodon,Ruby,2667
+52281283,mastodon/mastodon,Ruby,2603
 2293158,rapid7/metasploit-framework,Ruby,81
 308770,heartcombo/devise,Ruby,13
 2203645,CocoaPods/CocoaPods,Ruby,8
 3195124,mperham/sidekiq,Ruby,24
-52855516,Homebrew/homebrew-core,Ruby,31
+52855516,Homebrew/homebrew-core,Ruby,32
 15435,Shopify/liquid,Ruby,10
-6529205,varvet/pundit,Ruby,4
+6529205,varvet/pundit,Ruby,5
 810796,railsadminteam/rails_admin,Ruby,5
 4994614,wpscanteam/wpscan,Ruby,14
 108278,chef/chef,Ruby,11
@@ -19,8 +19,8 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,10
 103766152,github/explore,Ruby,15
 11426474,github/choosealicense.com,Ruby,15
-93163073,dependabot/dependabot-core,Ruby,16
+93163073,dependabot/dependabot-core,Ruby,15
 14238949,elastic/elasticsearch-rails,Ruby,1
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,3
-99692620,renatolond/mastodon-twitter-poster,Ruby,53
+99692620,renatolond/mastodon-twitter-poster,Ruby,55
 212272090,CMSgov/price-transparency-guide,Ruby,3

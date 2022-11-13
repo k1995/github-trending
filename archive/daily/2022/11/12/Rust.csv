@@ -1,20 +1,20 @@
 id,name,lang,new stars
 133442384,denoland/deno,Rust,11
-299354207,rustdesk/rustdesk,Rust,45
+299354207,rustdesk/rustdesk,Rust,48
 178991158,starship/starship,Rust,53
 114466145,yewstack/yew,Rust,8
-241805592,rome/tools,Rust,242
-120425779,lapce/lapce,Rust,52
+241805592,rome/tools,Rust,239
+120425779,lapce/lapce,Rust,49
 121898717,dani-garcia/vaultwarden,Rust,18
 197081291,iced-rs/iced,Rust,48
 179164257,diem/diem,Rust,4
 135201145,RustPython/RustPython,Rust,15
 143822069,sunface/rust-course,Rust,29
 48246447,analysis-tools-dev/static-analysis,Rust,19
-14164618,tree-sitter/tree-sitter,Rust,19
+14164618,tree-sitter/tree-sitter,Rust,22
 263727855,pola-rs/polars,Rust,20
 292014229,zellij-org/zellij,Rust,31
-372172254,tokio-rs/axum,Rust,26
+372172254,tokio-rs/axum,Rust,25
 35566048,crossbeam-rs/crossbeam,Rust,4
 404320053,foundry-rs/foundry,Rust,9
 73012103,serenity-rs/serenity,Rust,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 86106381,libp2p/rust-libp2p,Rust,4
 130174051,graphprotocol/graph-node,Rust,4
 357284448,awslabs/aws-sdk-rust,Rust,3
-563289838,DiamondHunters/NodeInject,Rust,16
+563289838,DiamondHunters/NodeInject,Rust,19
