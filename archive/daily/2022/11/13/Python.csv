@@ -4,14 +4,14 @@ id,name,lang,new stars
 237791077,mingrammer/diagrams,Python,100
 13926404,getredash/redash,Python,26
 168799526,rwightman/pytorch-image-models,Python,12
-204086862,streamlit/streamlit,Python,24
+204086862,streamlit/streamlit,Python,26
 120710644,Vonng/ddia,Python,4
 1460385,scipy/scipy,Python,4
 70746484,apache/tvm,Python,1
 72523920,cupy/cupy,Python,3
 286500101,danielgatis/rembg,Python,56
 422274596,hpcaitech/ColossalAI,Python,208
-188673950,yoshiko2/Movie_Data_Capture,Python,8
+188673950,yoshiko2/Movie_Data_Capture,Python,9
 167349656,FederatedAI/FATE,Python,2
 428292281,Sanster/lama-cleaner,Python,96
 248087594,facebookresearch/moco,Python,3
@@ -19,7 +19,7 @@ id,name,lang,new stars
 322921248,LibreTranslate/LibreTranslate,Python,13
 520969009,mouredev/Hello-Python,Python,46
 493014338,mage-ai/mage-ai,Python,29
-559033997,mli/autocut,Python,105
+559033997,mli/autocut,Python,87
 564058707,timhutton/twitter-archive-parser,Python,135
 563942703,RedditWritesCode/RedditWritesCode,Python,11
 564084778,DaCoolOne/DumbIdeas,Python,5
