@@ -1,18 +1,18 @@
 id,name,lang,new stars
 184456251,microsoft/PowerToys,C#,749
 49609581,PowerShell/PowerShell,C#,253
-17620347,dotnet/aspnetcore,C#,82
-198071756,huiyadanli/RevokeMsgPatcher,C#,160
+17620347,dotnet/aspnetcore,C#,81
+198071756,huiyadanli/RevokeMsgPatcher,C#,158
 262395224,dotnet/maui,C#,181
-102904613,Unity-Technologies/ml-agents,C#,45
-120231691,Ryujinx/Ryujinx,C#,458
-16157746,dotnet/efcore,C#,33
-46755185,bitwarden/server,C#,68
+120231691,Ryujinx/Ryujinx,C#,484
+102904613,Unity-Technologies/ml-agents,C#,47
+16157746,dotnet/efcore,C#,32
+46755185,bitwarden/server,C#,69
 210716005,dotnet/runtime,C#,79
 28232663,dotnet/orleans,C#,46
-75505125,abpframework/abp,C#,80
-17369361,jbogard/MediatR,C#,45
-132021166,dotnet/machinelearning,C#,24
+75505125,abpframework/abp,C#,78
+17369361,jbogard/MediatR,C#,41
+132021166,dotnet/machinelearning,C#,23
 372096057,Richasy/Bili.Uwp,C#,54
 85953,gitextensions/gitextensions,C#,35
 125612271,Unity-Technologies/EntityComponentSystemSamples,C#,34
@@ -21,6 +21,6 @@ id,name,lang,new stars
 23891194,Azure/azure-powershell,C#,18
 63984307,dotnet/sdk,C#,13
 426700184,microsoft/dotnet-podcasts,C#,30
-255952484,dotnet/maui-samples,C#,36
+255952484,dotnet/maui-samples,C#,38
 373274891,CommunityToolkit/Maui,C#,37
 522209863,CjangCjengh/MoeGoe_GUI,C#,57
