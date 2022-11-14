@@ -1,10 +1,10 @@
 id,name,lang,new stars
 21540759,avelino/awesome-go,Go,33
-11180687,gohugoio/hugo,Go,28
-13807606,junegunn/fzf,Go,30
+11180687,gohugoio/hugo,Go,30
+13807606,junegunn/fzf,Go,27
 41912791,v2ray/v2ray-core,Go,9
 136815833,Dreamacro/clash,Go,37
-8989842,unknwon/the-way-to-go_ZH_CN,Go,9
+8989842,unknwon/the-way-to-go_ZH_CN,Go,8
 37448451,mattermost/mattermost-server,Go,7
 156084530,ehang-io/nps,Go,12
 122734569,iawia002/lux,Go,19
@@ -14,13 +14,13 @@ id,name,lang,new stars
 154643390,sundowndev/phoneinfoga,Go,4
 266445736,owncast/owncast,Go,6
 281694167,Mrs4s/go-cqhttp,Go,9
-17451182,go-yaml/yaml,Go,4
-52481933,navidrome/navidrome,Go,4
-267713284,projectdiscovery/httpx,Go,9
+17451182,go-yaml/yaml,Go,2
+52481933,navidrome/navidrome,Go,13
+267713284,projectdiscovery/httpx,Go,11
 93619165,alecthomas/chroma,Go,3
 201546443,trustwallet/assets,Go,4
 86956808,writefreely/writefreely,Go,14
 272663924,techschool/simplebank,Go,7
 332576508,nikoksr/notify,Go,37
-286530881,FloatTech/ZeroBot-Plugin,Go,5
-559279408,go-sonic/sonic,Go,51
+286530881,FloatTech/ZeroBot-Plugin,Go,2
+559279408,go-sonic/sonic,Go,129
