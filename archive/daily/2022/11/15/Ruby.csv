@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,11
+8514,rails/rails,Ruby,12
 27442967,fastlane/fastlane,Ruby,7
 13840241,freeCodeCamp/devdocs,Ruby,6
 481872,hashicorp/vagrant,Ruby,5
 308770,heartcombo/devise,Ruby,3
-3623050,Homebrew/homebrew-cask,Ruby,4
+3623050,Homebrew/homebrew-cask,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,4
 585285,gollum/gollum,Ruby,1
 4095287,rubocop/rubocop,Ruby,0
-3314,spree/spree,Ruby,4
-52855516,Homebrew/homebrew-core,Ruby,6
-106995,sinatra/sinatra,Ruby,1
+3314,spree/spree,Ruby,3
+52855516,Homebrew/homebrew-core,Ruby,7
+106995,sinatra/sinatra,Ruby,2
 1918677,fluent/fluentd,Ruby,1
 1217404,jordansissel/fpm,Ruby,2
 15435,Shopify/liquid,Ruby,2
@@ -18,9 +18,9 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,3
 96071,rack/rack,Ruby,2
 30985840,solidusio/solidus,Ruby,3
-52316423,luggit/react-native-config,Ruby,1
+52316423,luggit/react-native-config,Ruby,0
 363163,bblimke/webmock,Ruby,0
-93163073,dependabot/dependabot-core,Ruby,1
+93163073,dependabot/dependabot-core,Ruby,2
 1953385,stripe/stripe-ruby,Ruby,0
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,1
 136781582,rubocop/rubocop-rails,Ruby,0

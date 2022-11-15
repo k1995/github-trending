@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,59
-7569578,discourse/discourse,Ruby,56
+8514,rails/rails,Ruby,58
+7569578,discourse/discourse,Ruby,52
 27442967,fastlane/fastlane,Ruby,33
-52281283,mastodon/mastodon,Ruby,1698
-53238813,Homebrew/brew,Ruby,88
-2293158,rapid7/metasploit-framework,Ruby,65
-3195124,mperham/sidekiq,Ruby,22
-15435,Shopify/liquid,Ruby,13
-6529205,varvet/pundit,Ruby,4
+52281283,mastodon/mastodon,Ruby,1717
+53238813,Homebrew/brew,Ruby,87
+2293158,rapid7/metasploit-framework,Ruby,64
+3195124,mperham/sidekiq,Ruby,21
+15435,Shopify/liquid,Ruby,12
+6529205,varvet/pundit,Ruby,3
 810796,railsadminteam/rails_admin,Ruby,5
 108278,chef/chef,Ruby,10
 75785147,rails/webpacker,Ruby,1
@@ -17,10 +17,10 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,7
 38867,svenfuchs/rails-i18n,Ruby,2
 103766152,github/explore,Ruby,20
-11426474,github/choosealicense.com,Ruby,13
-93163073,dependabot/dependabot-core,Ruby,13
-1175581,citation-style-language/styles,Ruby,13
-3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,3
+11426474,github/choosealicense.com,Ruby,11
+93163073,dependabot/dependabot-core,Ruby,14
+1175581,citation-style-language/styles,Ruby,12
+3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,2
 3947396,getsentry/sentry-ruby,Ruby,2
 99692620,renatolond/mastodon-twitter-poster,Ruby,46
 212272090,CMSgov/price-transparency-guide,Ruby,5
