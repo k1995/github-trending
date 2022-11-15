@@ -1,17 +1,17 @@
 id,name,lang,new stars
-133442384,denoland/deno,Rust,28
-42489829,rust-lang/rustlings,Rust,38
+133442384,denoland/deno,Rust,32
+42489829,rust-lang/rustlings,Rust,39
 178991158,starship/starship,Rust,41
 114466145,yewstack/yew,Rust,18
 241805592,rome/tools,Rust,235
 234798675,bevyengine/bevy,Rust,88
-121898717,dani-garcia/vaultwarden,Rust,27
+121898717,dani-garcia/vaultwarden,Rust,25
 54168759,SergioBenitez/Rocket,Rust,20
 135201145,RustPython/RustPython,Rust,13
 23500865,hyperium/hyper,Rust,17
 47854924,rust-lang/book,Rust,11
-41609775,diesel-rs/diesel,Rust,9
-292014229,zellij-org/zellij,Rust,12
+41609775,diesel-rs/diesel,Rust,11
+292014229,zellij-org/zellij,Rust,14
 14367737,serde-rs/serde,Rust,5
 148686316,gfx-rs/wgpu,Rust,20
 397618589,messense/aliyundrive-webdav,Rust,15
@@ -20,7 +20,7 @@ id,name,lang,new stars
 23138984,tokio-rs/mio,Rust,7
 57160728,mozilla/sccache,Rust,1
 523043277,charliermarsh/ruff,Rust,89
-240971104,AleoHQ/snarkOS,Rust,55
+240971104,AleoHQ/snarkOS,Rust,51
 440810736,EAimTY/tuic,Rust,30
 482211236,MicroCBer/BetterNCM-Installer,Rust,17
-511310930,godot-rust/gdextension,Rust,51
+511310930,godot-rust/gdextension,Rust,43
