@@ -3,9 +3,9 @@ id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,234
 7569578,discourse/discourse,Ruby,262
 27442967,fastlane/fastlane,Ruby,149
-52281283,mastodon/mastodon,Ruby,4814
-53238813,Homebrew/brew,Ruby,389
-2293158,rapid7/metasploit-framework,Ruby,324
+52281283,mastodon/mastodon,Ruby,4737
+53238813,Homebrew/brew,Ruby,390
+2293158,rapid7/metasploit-framework,Ruby,323
 481872,hashicorp/vagrant,Ruby,206
 2203645,CocoaPods/CocoaPods,Ruby,51
 3195124,mperham/sidekiq,Ruby,79
@@ -14,12 +14,12 @@ id,name,lang,new stars
 1725199,github/linguist,Ruby,153
 361310,teamcapybara/capybara,Ruby,29
 2441517,puma/puma,Ruby,68
-4994614,wpscanteam/wpscan,Ruby,80
+4994614,wpscanteam/wpscan,Ruby,81
 1548802,activerecord-hackery/ransack,Ruby,34
 1314319,instructure/canvas-lms,Ruby,62
 103766152,github/explore,Ruby,62
 93163073,dependabot/dependabot-core,Ruby,67
-1175581,citation-style-language/styles,Ruby,47
+1175581,citation-style-language/styles,Ruby,48
 270054,ffi/ffi,Ruby,6
 66497320,DataDog/dd-trace-rb,Ruby,5
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0

@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
+8514,rails/rails,Ruby,6
 27442967,fastlane/fastlane,Ruby,3
 13840241,freeCodeCamp/devdocs,Ruby,6
 481872,hashicorp/vagrant,Ruby,5
-308770,heartcombo/devise,Ruby,3
+308770,heartcombo/devise,Ruby,2
 3623050,Homebrew/homebrew-cask,Ruby,6
 2203645,CocoaPods/CocoaPods,Ruby,1
 585285,gollum/gollum,Ruby,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 30985840,solidusio/solidus,Ruby,2
 52316423,luggit/react-native-config,Ruby,0
 363163,bblimke/webmock,Ruby,1
-93163073,dependabot/dependabot-core,Ruby,2
+93163073,dependabot/dependabot-core,Ruby,1
 1953385,stripe/stripe-ruby,Ruby,0
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,2
-136781582,rubocop/rubocop-rails,Ruby,0
+136781582,rubocop/rubocop-rails,Ruby,1
