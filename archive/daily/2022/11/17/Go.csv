@@ -1,15 +1,15 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,90
-6838921,prometheus/prometheus,Go,22
+21540759,avelino/awesome-go,Go,87
+6838921,prometheus/prometheus,Go,21
 11225014,etcd-io/etcd,Go,19
-13855476,go-gorm/gorm,Go,18
-12574344,spf13/cobra,Go,14
-31288958,hashicorp/vault,Go,20
+13855476,go-gorm/gorm,Go,20
+12574344,spf13/cobra,Go,16
+31288958,hashicorp/vault,Go,19
 52034309,uber-go/zap,Go,14
-5179099,go-redis/redis,Go,7
+5179099,go-redis/redis,Go,9
 66841911,qax-os/excelize,Go,25
 36653430,hashicorp/nomad,Go,6
-23247808,rqlite/rqlite,Go,35
+23247808,rqlite/rqlite,Go,22
 33258973,influxdata/telegraf,Go,6
 10270722,google/go-github,Go,3
 140457254,OWASP/Amass,Go,10
@@ -17,10 +17,10 @@ id,name,lang,new stars
 140412864,kgretzky/evilginx2,Go,7
 147886080,crossplane/crossplane,Go,4
 50629145,google/pprof,Go,5
-229030654,go-git/go-git,Go,3
+229030654,go-git/go-git,Go,2
 51620247,google/uuid,Go,3
 22700054,hashicorp/golang-lru,Go,7
 105711679,bufbuild/protoc-gen-validate,Go,7
 196414933,open-telemetry/opentelemetry-collector-contrib,Go,3
-299054922,alpkeskin/mosint,Go,28
-425244819,sibprogrammer/xq,Go,34
+299054922,alpkeskin/mosint,Go,29
+425244819,sibprogrammer/xq,Go,33
