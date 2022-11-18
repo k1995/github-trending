@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,376
+1863329,laravel/laravel,PHP,377
 3482588,danielmiessler/SecLists,PHP,752
 7548986,laravel/framework,PHP,237
 458058,symfony/symfony,PHP,144
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,98
-60243197,nextcloud/server,PHP,298
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,97
+60243197,nextcloud/server,PHP,301
 2253830,PHPMailer/PHPMailer,PHP,141
 82238168,monicahq/monica,PHP,327
 2889328,WordPress/WordPress,PHP,146
-47495360,koel/koel,PHP,150
+47495360,koel/koel,PHP,151
 1305114,roots/sage,PHP,67
 61490598,PHPOffice/PhpSpreadsheet,PHP,106
 42480275,spatie/laravel-permission,PHP,106
 2884111,magento/magento2,PHP,68
-2179920,woocommerce/woocommerce,PHP,70
+2179920,woocommerce/woocommerce,PHP,68
 2717549,Sylius/Sylius,PHP,64
 141720301,dr5hn/countries-states-cities-database,PHP,176
 129852395,assimon/dujiaoka,PHP,138
@@ -21,6 +21,6 @@ id,name,lang,new stars
 13914116,librenms/librenms,PHP,45
 39182755,glpi-project/glpi,PHP,59
 12063996,osTicket/osTicket,PHP,29
-216849756,v2board/v2board,PHP,142
-433383766,nextcloud/all-in-one,PHP,188
+216849756,v2board/v2board,PHP,143
+433383766,nextcloud/all-in-one,PHP,191
 541322916,openai-php/client,PHP,355
