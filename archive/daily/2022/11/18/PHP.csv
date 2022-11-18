@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,17
+1863329,laravel/laravel,PHP,16
 7548986,laravel/framework,PHP,7
-60243197,nextcloud/server,PHP,6
-82238168,monicahq/monica,PHP,12
-2889328,WordPress/WordPress,PHP,6
+60243197,nextcloud/server,PHP,9
+82238168,monicahq/monica,PHP,11
+2889328,WordPress/WordPress,PHP,7
 1305114,roots/sage,PHP,1
 61490598,PHPOffice/PhpSpreadsheet,PHP,1
 14259390,SpartnerNL/Laravel-Excel,PHP,5
@@ -16,11 +16,11 @@ id,name,lang,new stars
 6322699,FreshRSS/FreshRSS,PHP,8
 4565995,phpseclib/phpseclib,PHP,2
 148129143,bagisto/bagisto,PHP,4
-129829848,pixelfed/pixelfed,PHP,5
-141720301,dr5hn/countries-states-cities-database,PHP,5
-39182755,glpi-project/glpi,PHP,2
+129829848,pixelfed/pixelfed,PHP,7
+141720301,dr5hn/countries-states-cities-database,PHP,3
+39182755,glpi-project/glpi,PHP,1
 111562942,statamic/cms,PHP,4
 39682214,Piwigo/Piwigo,PHP,4
-513468803,ine-labs/AWSGoat,PHP,17
+513468803,ine-labs/AWSGoat,PHP,18
 184538454,yankovalenko94/Webdev2019,PHP,0
-435030586,monicahq/chandler,PHP,6
+435030586,monicahq/chandler,PHP,5

@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,248
-65252,jekyll/jekyll,Ruby,236
+8514,rails/rails,Ruby,249
+65252,jekyll/jekyll,Ruby,235
 7569578,discourse/discourse,Ruby,267
-27442967,fastlane/fastlane,Ruby,151
+27442967,fastlane/fastlane,Ruby,152
 52281283,mastodon/mastodon,Ruby,5035
-53238813,Homebrew/brew,Ruby,386
+53238813,Homebrew/brew,Ruby,388
 2293158,rapid7/metasploit-framework,Ruby,318
-481872,hashicorp/vagrant,Ruby,207
+481872,hashicorp/vagrant,Ruby,206
 2203645,CocoaPods/CocoaPods,Ruby,48
 3195124,mperham/sidekiq,Ruby,83
 52855516,Homebrew/homebrew-core,Ruby,134
@@ -19,7 +19,7 @@ id,name,lang,new stars
 1314319,instructure/canvas-lms,Ruby,65
 103766152,github/explore,Ruby,61
 93163073,dependabot/dependabot-core,Ruby,65
-1175581,citation-style-language/styles,Ruby,46
+1175581,citation-style-language/styles,Ruby,45
 270054,ffi/ffi,Ruby,6
 16006666,turingschool-examples/ruby-exercises,Ruby,3
 66497320,DataDog/dd-trace-rb,Ruby,5

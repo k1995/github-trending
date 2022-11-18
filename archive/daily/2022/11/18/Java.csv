@@ -1,15 +1,15 @@
 id,name,lang,new stars
-6296790,spring-projects/spring-boot,Java,23
+6296790,spring-projects/spring-boot,Java,21
 1148753,spring-projects/spring-framework,Java,22
 146633589,alibaba/arthas,Java,42
 120395176,alibaba/easyexcel,Java,16
-7613257,SeleniumHQ/selenium,Java,10
+7613257,SeleniumHQ/selenium,Java,9
 7587038,alibaba/canal,Java,7
 126178683,halo-dev/halo,Java,42
 128018428,alibaba/Sentinel,Java,3
 49876476,apache/shardingsphere,Java,6
-11125589,keycloak/keycloak,Java,19
-501687,antlr/antlr4,Java,2
+11125589,keycloak/keycloak,Java,21
+501687,antlr/antlr4,Java,5
 117965972,alibaba/DataX,Java,17
 12499251,checkstyle/checkstyle,Java,2
 66023605,awsdocs/aws-doc-sdk-examples,Java,12
@@ -22,5 +22,5 @@ id,name,lang,new stars
 231329990,jetlinks/jetlinks-community,Java,6
 206459,apache/avro,Java,2
 98801926,thombergs/code-examples,Java,3
-469438213,cuynu/ytvanced,Java,14
+469438213,cuynu/ytvanced,Java,18
 544451965,White-hua/Apt_t00ls,Java,16
