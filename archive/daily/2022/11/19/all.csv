@@ -6,7 +6,7 @@ id,name,lang,new stars
 52281283,mastodon/mastodon,Ruby,255
 152870372,ruanyf/weekly,,10
 19745004,odoo/odoo,JavaScript,69
-36891867,angular/angular-cli,TypeScript,11
+36891867,angular/angular-cli,TypeScript,26
 116392709,digitalocean/nginxconfig.io,JavaScript,64
 222751131,Asabeneh/30-Days-Of-Python,Python,113
 102692863,onnx/onnx,Python,21
@@ -17,8 +17,8 @@ id,name,lang,new stars
 99412308,apache/incubator-seatunnel,Java,32
 58146669,facebook/sapling,Rust,476
 22700054,hashicorp/golang-lru,Go,30
-224515762,0x90n/InfoSec-Black-Friday,,42
 480217156,GreptimeTeam/greptimedb,Rust,396
+224515762,0x90n/InfoSec-Black-Friday,,42
 566274965,paperswithcode/galai,Python,273
 561427129,nathanlesage/academics-on-mastodon,,36
 328077563,raminmh/CfC,Python,53
