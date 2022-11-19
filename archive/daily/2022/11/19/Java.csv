@@ -1,9 +1,9 @@
 id,name,lang,new stars
 6296790,spring-projects/spring-boot,Java,16
-507775,elastic/elasticsearch,Java,14
+507775,elastic/elasticsearch,Java,9
 9754983,eugenp/tutorials,Java,12
 146633589,alibaba/arthas,Java,8
-120395176,alibaba/easyexcel,Java,13
+120395176,alibaba/easyexcel,Java,12
 47023603,xuxueli/xxl-job,Java,9
 163387337,seata/seata,Java,5
 1103607,jenkinsci/jenkins,Java,2
@@ -11,16 +11,16 @@ id,name,lang,new stars
 501687,antlr/antlr4,Java,2
 23418517,apache/hadoop,Java,2
 181012406,macrozheng/mall-learning,Java,3
-27729926,grpc/grpc-java,Java,2
+27729926,grpc/grpc-java,Java,3
 237867883,metersphere/metersphere,Java,3
 12499251,checkstyle/checkstyle,Java,0
 3148979,spring-projects/spring-security,Java,2
-66023605,awsdocs/aws-doc-sdk-examples,Java,7
+66023605,awsdocs/aws-doc-sdk-examples,Java,6
 13536393,alibaba/transmittable-thread-local,Java,0
 3786237,hazelcast/hazelcast,Java,2
 206444,apache/hive,Java,2
 99412308,apache/incubator-seatunnel,Java,13
 231329990,jetlinks/jetlinks-community,Java,2
 100084330,jeequan/jeepay,Java,10
-21180741,hapifhir/hapi-fhir,Java,1
+21180741,hapifhir/hapi-fhir,Java,2
 341631350,apache/lucene,Java,1

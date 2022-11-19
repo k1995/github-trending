@@ -1,7 +1,7 @@
 id,name,lang,new stars
 107505869,firecracker-microvm/firecracker,Rust,17
 101767772,bytecodealliance/wasmtime,Rust,17
-121470383,solana-labs/solana,Rust,4
+121470383,solana-labs/solana,Rust,5
 263727855,pola-rs/polars,Rust,21
 109872620,paritytech/substrate,Rust,6
 179385712,bottlerocket-os/bottlerocket,Rust,7
@@ -9,11 +9,11 @@ id,name,lang,new stars
 205326947,espanso/espanso,Rust,15
 114685405,rustwasm/wasm-bindgen,Rust,9
 443977141,Kindelia/HVM,Rust,11
-77338532,cross-rs/cross,Rust,6
+77338532,cross-rs/cross,Rust,7
 453068084,risingwavelabs/risingwave,Rust,5
 57160728,mozilla/sccache,Rust,1
 58146669,facebook/sapling,Rust,476
-358917318,apache/arrow-datafusion,Rust,7
+358917318,apache/arrow-datafusion,Rust,8
 426075845,MystenLabs/sui,Rust,17
 551376520,tw93/Pake,JavaScript,10
 390873100,LGUG2Z/komorebi,Rust,11
