@@ -2,25 +2,25 @@ id,name,lang,new stars
 54346799,public-apis/public-apis,Python,4090
 62607227,yangshun/tech-interview-handbook,TypeScript,2550
 52281283,mastodon/mastodon,Ruby,5297
-299354207,rustdesk/rustdesk,Rust,2995
-159152904,jeecgboot/jeecg-boot,Java,1164
+299354207,rustdesk/rustdesk,Rust,3001
+159152904,jeecgboot/jeecg-boot,Java,1161
 97533102,halfrost/LeetCode-Go,Go,1489
 73561650,jaywcjlove/linux-command,Markdown,1852
-241805592,rome/tools,Rust,1732
-7634677,openssl/openssl,C,570
-413918947,vercel/turbo,Rust,7676
+241805592,rome/tools,Rust,1737
+7634677,openssl/openssl,C,567
+413918947,vercel/turbo,Rust,7679
 355959597,Textualize/textual,Python,2261
 23247808,rqlite/rqlite,Go,1125
-305144746,geohot/tinygrad,Python,2086
-483402734,android/nowinandroid,Kotlin,765
-368390355,vaxilu/x-ui,JavaScript,871
-222824662,dagger/dagger,Go,867
-422274596,hpcaitech/ColossalAI,Python,1547
-331293626,refinedev/refine,TypeScript,1776
-428292281,Sanster/lama-cleaner,Python,3108
-127049550,material-components/material-web,SCSS,409
-505538251,simeydotme/pokemon-cards-css,Svelte,2501
-426075845,MystenLabs/sui,Rust,835
+305144746,geohot/tinygrad,Python,2091
+483402734,android/nowinandroid,Kotlin,766
+368390355,vaxilu/x-ui,JavaScript,872
+222824662,dagger/dagger,Go,873
+422274596,hpcaitech/ColossalAI,Python,1541
+331293626,refinedev/refine,TypeScript,1779
+428292281,Sanster/lama-cleaner,Python,3118
+127049550,material-components/material-web,SCSS,400
+505538251,simeydotme/pokemon-cards-css,Svelte,2474
+426075845,MystenLabs/sui,Rust,831
 498449014,nerfstudio-project/nerfstudio,Python,1062
-553712848,runwayml/stable-diffusion,Jupyter Notebook,1309
-461147335,ageron/handson-ml3,Jupyter Notebook,531
+553712848,runwayml/stable-diffusion,Jupyter Notebook,1279
+461147335,ageron/handson-ml3,Jupyter Notebook,529
