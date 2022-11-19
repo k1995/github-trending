@@ -1,26 +1,26 @@
 id,name,lang,new stars
-70107786,vercel/next.js,JavaScript,2831
-62607227,yangshun/tech-interview-handbook,TypeScript,2549
-58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1555
-49609581,PowerShell/PowerShell,C#,936
+54346799,public-apis/public-apis,Python,4090
+62607227,yangshun/tech-interview-handbook,TypeScript,2550
 52281283,mastodon/mastodon,Ruby,5297
-299354207,rustdesk/rustdesk,Rust,2997
-159152904,jeecgboot/jeecg-boot,Java,1166
+299354207,rustdesk/rustdesk,Rust,2995
+159152904,jeecgboot/jeecg-boot,Java,1164
 97533102,halfrost/LeetCode-Go,Go,1489
 73561650,jaywcjlove/linux-command,Markdown,1852
-241805592,rome/tools,Rust,1729
-7634677,openssl/openssl,C,567
-413918947,vercel/turbo,Rust,7671
-355959597,Textualize/textual,Python,2260
+241805592,rome/tools,Rust,1732
+7634677,openssl/openssl,C,570
+413918947,vercel/turbo,Rust,7676
+355959597,Textualize/textual,Python,2261
 23247808,rqlite/rqlite,Go,1125
-311315731,XTLS/Xray-core,Go,696
-305144746,geohot/tinygrad,Python,2082
-483402734,android/nowinandroid,Kotlin,763
-222824662,dagger/dagger,Go,863
-422274596,hpcaitech/ColossalAI,Python,1549
-331293626,refinedev/refine,TypeScript,1773
-428292281,Sanster/lama-cleaner,Python,3102
-127049550,material-components/material-web,SCSS,412
-426075845,MystenLabs/sui,Rust,840
-498449014,nerfstudio-project/nerfstudio,Python,1060
+305144746,geohot/tinygrad,Python,2086
+483402734,android/nowinandroid,Kotlin,765
+368390355,vaxilu/x-ui,JavaScript,871
+222824662,dagger/dagger,Go,867
+422274596,hpcaitech/ColossalAI,Python,1547
+331293626,refinedev/refine,TypeScript,1776
+428292281,Sanster/lama-cleaner,Python,3108
+127049550,material-components/material-web,SCSS,409
+505538251,simeydotme/pokemon-cards-css,Svelte,2501
+426075845,MystenLabs/sui,Rust,835
+498449014,nerfstudio-project/nerfstudio,Python,1062
+553712848,runwayml/stable-diffusion,Jupyter Notebook,1309
 461147335,ageron/handson-ml3,Jupyter Notebook,531
