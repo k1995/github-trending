@@ -5,7 +5,7 @@ id,name,lang,new stars
 74627617,commaai/openpilot,Python,38
 162723104,OWASP/CheatSheetSeries,Python,10
 266417772,pittcsc/Summer2023-Internships,Python,42
-102692863,onnx/onnx,Python,33
+102692863,onnx/onnx,Python,21
 6780767,aws/aws-cli,Python,6
 52796596,netbox-community/netbox,Python,8
 163346054,ludwig-ai/ludwig,Python,9
@@ -17,8 +17,8 @@ id,name,lang,new stars
 59370571,electricitymaps/electricitymaps-contrib,Python,8
 24000265,PyCQA/flake8,Python,5
 475174123,salesforce/CodeGen,Python,32
-566274965,paperswithcode/galai,Python,228
-561085909,SHI-Labs/Versatile-Diffusion,Python,104
+566274965,paperswithcode/galai,Python,273
+561085909,SHI-Labs/Versatile-Diffusion,Python,88
 456857425,open-mmlab/mmengine,Python,2
 514304222,zas023/JdBuyer,Python,12
 552643941,zjc062/mind-vis,Python,58
