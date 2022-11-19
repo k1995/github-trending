@@ -1,11 +1,11 @@
 id,name,lang,new stars
-377496562,AppFlowy-IO/AppFlowy,Rust,27
+377496562,AppFlowy-IO/AppFlowy,Rust,30
 115110181,swc-project/swc,Rust,18
 117356231,sharkdp/hyperfine,Rust,30
 48833910,tikv/tikv,Rust,13
 101767772,bytecodealliance/wasmtime,Rust,17
 263727855,pola-rs/polars,Rust,22
-179385712,bottlerocket-os/bottlerocket,Rust,10
+179385712,bottlerocket-os/bottlerocket,Rust,7
 150891532,cloudflare/quiche,Rust,6
 1345495,svenstaro/genact,Rust,21
 148829497,o2sh/onefetch,Rust,20
@@ -13,14 +13,14 @@ id,name,lang,new stars
 302827809,datafuselabs/databend,Rust,8
 462597790,aptos-labs/aptos-core,Rust,5
 453068084,risingwavelabs/risingwave,Rust,10
-523043277,charliermarsh/ruff,Rust,25
 58146669,facebook/sapling,Rust,477
+523043277,charliermarsh/ruff,Rust,25
 358917318,apache/arrow-datafusion,Rust,5
 426075845,MystenLabs/sui,Rust,22
-320370787,arxanas/git-branchless,Rust,23
+320370787,arxanas/git-branchless,Rust,25
 121587348,tummychow/git-absorb,Rust,32
 480217156,GreptimeTeam/greptimedb,Rust,396
-424598738,apollographql/router,Rust,1
-565750987,joamag/boytacean,Rust,27
+424598738,apollographql/router,Rust,2
+565750987,joamag/boytacean,Rust,24
 511008215,andrewmilson/ministark,Rust,9
 566143414,gchandra10/rust_fixme,Rust,2
