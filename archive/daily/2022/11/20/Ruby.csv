@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,11
-7569578,discourse/discourse,Ruby,4
-27442967,fastlane/fastlane,Ruby,2
-52281283,mastodon/mastodon,Ruby,270
-53238813,Homebrew/brew,Ruby,13
-308770,heartcombo/devise,Ruby,4
-538746,ruby/ruby,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,1
+8514,rails/rails,Ruby,10
+7569578,discourse/discourse,Ruby,7
+27442967,fastlane/fastlane,Ruby,1
+52281283,mastodon/mastodon,Ruby,273
+53238813,Homebrew/brew,Ruby,16
+308770,heartcombo/devise,Ruby,5
+538746,ruby/ruby,Ruby,3
+202291859,chatwoot/chatwoot,Ruby,2
 2203645,CocoaPods/CocoaPods,Ruby,1
 911765,diaspora/diaspora,Ruby,1
-3195124,mperham/sidekiq,Ruby,2
-4095287,rubocop/rubocop,Ruby,1
-1918677,fluent/fluentd,Ruby,1
+3195124,mperham/sidekiq,Ruby,5
+4095287,rubocop/rubocop,Ruby,2
+1918677,fluent/fluentd,Ruby,2
 611921,activeadmin/activeadmin,Ruby,1
-211588,paper-trail-gem/paper_trail,Ruby,0
+211588,paper-trail-gem/paper_trail,Ruby,2
 33739333,thoughtbot/administrate,Ruby,3
 2889230,rails-api/active_model_serializers,Ruby,2
 30985840,solidusio/solidus,Ruby,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 588600,brianmario/mysql2,Ruby,0
 61203,Shopify/shopify_app,Ruby,1
 29151578,rswag/rswag,Ruby,0
-99692620,renatolond/mastodon-twitter-poster,Ruby,4
+99692620,renatolond/mastodon-twitter-poster,Ruby,3

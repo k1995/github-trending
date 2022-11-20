@@ -1,5 +1,5 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,576
+21540759,avelino/awesome-go,Go,594
 11225014,etcd-io/etcd,Go,120
 15452919,ethereum/go-ethereum,Go,113
 13855476,go-gorm/gorm,Go,125
@@ -8,8 +8,8 @@ id,name,lang,new stars
 43723161,helm/helm,Go,158
 135516270,k3s-io/k3s,Go,90
 48109239,cilium/cilium,Go,75
-7877397,jmoiron/sqlx,Go,48
-46089560,containerd/containerd,Go,67
+7877397,jmoiron/sqlx,Go,47
+46089560,containerd/containerd,Go,68
 23247808,rqlite/rqlite,Go,504
 6443435,nats-io/nats-server,Go,40
 16554739,elastic/beats,Go,24
@@ -20,7 +20,7 @@ id,name,lang,new stars
 182502850,monkeyWie/gopeed,Go,209
 201546443,trustwallet/assets,Go,40
 105711679,bufbuild/protoc-gen-validate,Go,28
-272663924,techschool/simplebank,Go,61
+272663924,techschool/simplebank,Go,62
 145433521,v2ray/domain-list-community,Go,64
 342854098,superseriousbusiness/gotosocial,Go,178
 559279408,go-sonic/sonic,Go,310
