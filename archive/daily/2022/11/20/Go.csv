@@ -1,7 +1,7 @@
 id,name,lang,new stars
 11180687,gohugoio/hugo,Go,25
 41912791,v2ray/v2ray-core,Go,9
-17803236,rclone/rclone,Go,18
+17803236,rclone/rclone,Go,11
 136815833,Dreamacro/clash,Go,36
 97533102,halfrost/LeetCode-Go,Go,20
 15045751,docker/compose,Go,8
@@ -19,7 +19,7 @@ id,name,lang,new stars
 111364256,miniflux/v2,Go,6
 156946744,j3ssie/osmedeus,Go,4
 192178626,marcel-dempers/docker-development-youtube-series,Go,5
-45356931,bwmarrin/discordgo,Go,2
+45356931,bwmarrin/discordgo,Go,3
 429588481,DrDonk/unlocker,Go,11
 299054922,alpkeskin/mosint,Go,43
 565713957,pingc0y/go_proxy_pool,Go,28
