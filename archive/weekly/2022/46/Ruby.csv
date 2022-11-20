@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,66
-8681349,huginn/huginn,Ruby,71
+8514,rails/rails,Ruby,69
+8681349,huginn/huginn,Ruby,72
 27442967,fastlane/fastlane,Ruby,32
 52281283,mastodon/mastodon,Ruby,1498
-53238813,Homebrew/brew,Ruby,95
-308770,heartcombo/devise,Ruby,23
+53238813,Homebrew/brew,Ruby,96
+308770,heartcombo/devise,Ruby,21
 138312,capistrano/capistrano,Ruby,13
 88740103,postalserver/postal,Ruby,19
-3195124,mperham/sidekiq,Ruby,21
-1918677,fluent/fluentd,Ruby,16
+3195124,mperham/sidekiq,Ruby,22
+1918677,fluent/fluentd,Ruby,15
 1217404,jordansissel/fpm,Ruby,11
 1725199,github/linguist,Ruby,24
 15435,Shopify/liquid,Ruby,15
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1953385,stripe/stripe-ruby,Ruby,4
 29151578,rswag/rswag,Ruby,10
 121513081,tradingview/charting-library-examples,Ruby,3
-99692620,renatolond/mastodon-twitter-poster,Ruby,38
+99692620,renatolond/mastodon-twitter-poster,Ruby,37
 31323121,elastic/docs,Ruby,0
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,1
