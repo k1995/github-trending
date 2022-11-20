@@ -3,11 +3,11 @@ id,name,lang,new stars
 11225014,etcd-io/etcd,Go,120
 15452919,ethereum/go-ethereum,Go,113
 13855476,go-gorm/gorm,Go,125
-12574344,spf13/cobra,Go,158
-31504491,labstack/echo,Go,87
+12574344,spf13/cobra,Go,154
+31504491,labstack/echo,Go,86
 43723161,helm/helm,Go,158
 135516270,k3s-io/k3s,Go,90
-48109239,cilium/cilium,Go,74
+48109239,cilium/cilium,Go,75
 7877397,jmoiron/sqlx,Go,48
 46089560,containerd/containerd,Go,67
 23247808,rqlite/rqlite,Go,504
@@ -17,7 +17,7 @@ id,name,lang,new stars
 291485614,XIU2/CloudflareSpeedTest,Go,141
 326228917,projectdiscovery/katana,Go,929
 22485114,hashicorp/hcl,Go,38
-182502850,monkeyWie/gopeed,Go,206
+182502850,monkeyWie/gopeed,Go,209
 201546443,trustwallet/assets,Go,40
 105711679,bufbuild/protoc-gen-validate,Go,28
 272663924,techschool/simplebank,Go,61
