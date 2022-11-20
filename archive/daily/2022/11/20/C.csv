@@ -1,16 +1,16 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,52
-10744183,netdata/netdata,C,9
+10744183,netdata/netdata,C,8
 2810292,pbatard/rufus,C,10
-18496166,gentilkiwi/mimikatz,C,3
+18496166,gentilkiwi/mimikatz,C,4
 84240850,timescale/timescaledb,C,9
 927442,postgres/postgres,C,8
-65899476,espressif/esp-idf,C,4
-3319040,id-Software/DOOM,C,3
+65899476,espressif/esp-idf,C,3
+3319040,id-Software/DOOM,C,5
 5414488,cesanta/mongoose,C,3
 1979797,FreeRDP/FreeRDP,C,2
 59771425,zephyrproject-rtos/zephyr,C,3
-2755696,mattn/go-sqlite3,C,4
+2755696,mattn/go-sqlite3,C,3
 31791482,microsoft/Windows-driver-samples,C,2
 59676171,Klipper3d/klipper,C,4
 469303019,ehids/ecapture,C,6
@@ -19,7 +19,7 @@ id,name,lang,new stars
 154525111,signalwire/freeswitch,C,1
 42829191,twitter/pelikan,C,5
 317493442,ptitSeb/box64,C,5
-393442632,krenx1983/openctp,C,8
+393442632,krenx1983/openctp,C,10
 211912254,Xilinx/Vitis-Tutorials,C,3
 170185910,SuperIlu/DOjS,C,7
 443655159,tomasz-lisowski/swsim,C,6

@@ -1,6 +1,6 @@
 id,name,lang,new stars
 6296790,spring-projects/spring-boot,Java,15
-507775,elastic/elasticsearch,Java,11
+507775,elastic/elasticsearch,Java,10
 9754983,eugenp/tutorials,Java,8
 146633589,alibaba/arthas,Java,6
 120395176,alibaba/easyexcel,Java,12
@@ -19,7 +19,7 @@ id,name,lang,new stars
 13536393,alibaba/transmittable-thread-local,Java,0
 3786237,hazelcast/hazelcast,Java,1
 206444,apache/hive,Java,0
-99412308,apache/incubator-seatunnel,Java,30
+99412308,apache/incubator-seatunnel,Java,16
 231329990,jetlinks/jetlinks-community,Java,2
 100084330,jeequan/jeepay,Java,10
 21180741,hapifhir/hapi-fhir,Java,2

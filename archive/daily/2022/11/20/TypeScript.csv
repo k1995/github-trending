@@ -4,7 +4,7 @@ id,name,lang,new stars
 34526884,ant-design/ant-design,TypeScript,44
 15111821,grafana/grafana,TypeScript,8
 15062869,facebook/jest,TypeScript,7
-36891867,angular/angular-cli,TypeScript,30
+36891867,angular/angular-cli,TypeScript,23
 49016322,angular/components,TypeScript,12
 236095576,backstage/backstage,TypeScript,14
 13473768,ionic-team/ionicons,TypeScript,7
@@ -12,7 +12,7 @@ id,name,lang,new stars
 245704608,colinhacks/zod,TypeScript,17
 318341089,facebook/lexical,TypeScript,25
 50617428,squidfunk/mkdocs-material,TypeScript,13
-365739812,tldraw/tldraw,TypeScript,56
+365739812,tldraw/tldraw,TypeScript,53
 348822769,nuxt/framework,TypeScript,85
 103071620,nhn/tui.calendar,TypeScript,5
 495836457,t3-oss/create-t3-app,TypeScript,58

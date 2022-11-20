@@ -14,13 +14,13 @@ id,name,lang,new stars
 57160728,mozilla/sccache,Rust,2
 58146669,facebook/sapling,Rust,327
 358917318,apache/arrow-datafusion,Rust,8
-426075845,MystenLabs/sui,Rust,17
-551376520,tw93/Pake,JavaScript,13
+426075845,MystenLabs/sui,Rust,16
+551376520,tw93/Pake,Rust,13
 390873100,LGUG2Z/komorebi,Rust,17
 184341774,cloud-hypervisor/cloud-hypervisor,Rust,12
 320370787,arxanas/git-branchless,Rust,20
 189174934,matter-labs/zksync,Rust,4
-266602341,gakonst/ethers-rs,Rust,0
 480217156,GreptimeTeam/greptimedb,Rust,230
+266602341,gakonst/ethers-rs,Rust,0
 401106376,yoshuawuyts/futures-concurrency,Rust,14
 566143414,gchandra10/rust_fixme,Rust,3
