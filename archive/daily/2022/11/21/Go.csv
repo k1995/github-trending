@@ -2,14 +2,14 @@ id,name,lang,new stars
 11180687,gohugoio/hugo,Go,26
 41912791,v2ray/v2ray-core,Go,13
 17803236,rclone/rclone,Go,13
-136815833,Dreamacro/clash,Go,36
+136815833,Dreamacro/clash,Go,37
 97533102,halfrost/LeetCode-Go,Go,14
 15045751,docker/compose,Go,6
 56353740,kubernetes/minikube,Go,8
 37448451,mattermost/mattermost-server,Go,8
-181461073,v2fly/v2ray-core,Go,48
+181461073,v2fly/v2ray-core,Go,36
 54400687,grafana/k6,Go,7
-510607652,pocketbase/pocketbase,Go,23
+510607652,pocketbase/pocketbase,Go,25
 109145553,containers/podman,Go,8
 323965659,alist-org/alist,Go,36
 66156850,TheAlgorithms/Go,Go,14
@@ -21,6 +21,6 @@ id,name,lang,new stars
 192178626,marcel-dempers/docker-development-youtube-series,Go,5
 45356931,bwmarrin/discordgo,Go,2
 429588481,DrDonk/unlocker,Go,6
-299054922,alpkeskin/mosint,Go,31
+299054922,alpkeskin/mosint,Go,30
 565713957,pingc0y/go_proxy_pool,Go,54
 567807444,flashbots/builder,Go,25
