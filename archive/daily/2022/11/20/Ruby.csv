@@ -1,9 +1,9 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,7
-8681349,huginn/huginn,Ruby,16
+8681349,huginn/huginn,Ruby,18
 52281283,mastodon/mastodon,Ruby,273
-13840241,freeCodeCamp/devdocs,Ruby,6
-2293158,rapid7/metasploit-framework,Ruby,8
+13840241,freeCodeCamp/devdocs,Ruby,7
+2293158,rapid7/metasploit-framework,Ruby,4
 481872,hashicorp/vagrant,Ruby,4
 2500088,gitlabhq/gitlabhq,Ruby,0
 308770,heartcombo/devise,Ruby,3
@@ -15,7 +15,7 @@ id,name,lang,new stars
 950915,urbanadventurer/WhatWeb,Ruby,1
 103766152,github/explore,Ruby,1
 138776049,sorbet/sorbet,Ruby,0
-614070,rubygems/rubygems,Ruby,1
+614070,rubygems/rubygems,Ruby,0
 55288882,d12frosted/homebrew-emacs-plus,Ruby,1
 8154497,rubysec/ruby-advisory-db,Ruby,0
 99692620,renatolond/mastodon-twitter-poster,Ruby,6
