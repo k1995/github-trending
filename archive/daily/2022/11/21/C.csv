@@ -1,19 +1,19 @@
 id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,34
-246335987,ventoy/Ventoy,C,95
-102578345,coolsnowwolf/lede,C,16
-80286288,arendst/Tasmota,C,4
-84240850,timescale/timescaledb,C,4
-27737393,qmk/qmk_firmware,C,12
+246335987,ventoy/Ventoy,C,94
+102578345,coolsnowwolf/lede,C,17
+80286288,arendst/Tasmota,C,3
+84240850,timescale/timescaledb,C,2
+27737393,qmk/qmk_firmware,C,10
 13836499,raysan5/raylib,C,3
-3299208,videolan/vlc,C,5
+3299208,videolan/vlc,C,8
 9524997,glfw/glfw,C,6
-70127218,espressif/arduino-esp32,C,7
+70127218,espressif/arduino-esp32,C,6
 394318710,valinet/ExplorerPatcher,C,26
 437011,openzfs/zfs,C,1
-689344,libretro/RetroArch,C,4
+689344,libretro/RetroArch,C,3
 2328181,freebsd/freebsd-src,C,2
-37060852,betaflight/betaflight,C,4
+37060852,betaflight/betaflight,C,3
 86245815,pygame/pygame,C,3
 330008801,libsdl-org/SDL,C,6
 284134871,flipperdevices/flipperzero-firmware,C,18
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1613176,tianocore/edk2,C,3
 283280154,jomjol/AI-on-the-edge-device,C,8
 226167620,InfiniTimeOrg/InfiniTime,C,3
-541269386,ggerganov/whisper.cpp,C,85
-432891057,liudf0716/xfrpc,C,17
+541269386,ggerganov/whisper.cpp,C,80
+432891057,liudf0716/xfrpc,C,19
 365478128,dillongoostudios/goo-engine,C,5
