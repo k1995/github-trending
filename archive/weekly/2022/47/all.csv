@@ -2,12 +2,12 @@ id,name,lang,new stars
 21540759,avelino/awesome-go,Go,628
 24195339,angular/angular,TypeScript,329
 58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,524
-52281283,mastodon/mastodon,Ruby,1678
+52281283,mastodon/mastodon,Ruby,1685
 281975310,type-challenges/type-challenges,TypeScript,1017
 36891867,angular/angular-cli,TypeScript,78
 116392709,digitalocean/nginxconfig.io,JavaScript,585
 69673033,ardalis/CleanArchitecture,C#,94
-495836457,t3-oss/create-t3-app,TypeScript,835
+495836457,t3-oss/create-t3-app,TypeScript,845
 8629417,mapbox/mapbox-gl-js,JavaScript,200
 77276660,SigmaHQ/sigma,Python,51
 89033556,firebase/firebase-ios-sdk,Objective-C,75
@@ -23,4 +23,4 @@ id,name,lang,new stars
 541269386,ggerganov/whisper.cpp,C,321
 537803484,palera1n/palera1n,Shell,425
 332718082,mastodon/mastodon-ios,Swift,228
-364304792,davidfowl/TodoApi,C#,180
+364304792,davidfowl/TodoApi,C#,169
