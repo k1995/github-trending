@@ -1,8 +1,8 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,281
+54346799,public-apis/public-apis,Python,312
 612230,nvm-sh/nvm,Shell,28
 261787758,bradtraversy/design-resources-for-developers,,81
-74627617,commaai/openpilot,Python,136
+74627617,commaai/openpilot,Python,144
 50613991,goharbor/harbor,Go,16
 44804216,termux/termux-app,Java,53
 419347358,PKUFlyingPig/cs-self-learning,HTML,260
@@ -11,8 +11,8 @@ id,name,lang,new stars
 139156354,opencv/cvat,Open Policy Agent,10
 32939463,corkami/pics,Assembly,57
 260869160,LaravelDaily/laravel-tips,,17
-100711978,btcpayserver/btcpayserver,C#,30
-165670309,TanStack/router,TypeScript,119
+100711978,btcpayserver/btcpayserver,C#,38
+165670309,TanStack/router,TypeScript,105
 129324660,actix/examples,Rust,4
 553759919,shadcn/taxonomy,TypeScript,345
 436297812,usememos/memos,TypeScript,572
@@ -22,5 +22,5 @@ id,name,lang,new stars
 561183031,jart/blink,C,108
 492713876,FlagAI-Open/FlagAI,Python,130
 562857059,AndroidDev-social/MastodonCompose,Kotlin,9
-566477780,chronicle/GCTI,YARA,109
+566477780,chronicle/GCTI,YARA,118
 565229521,rolohaun/Rook,,8

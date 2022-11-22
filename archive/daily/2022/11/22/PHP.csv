@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1864363,composer/composer,PHP,7
+1864363,composer/composer,PHP,8
 3431193,yiisoft/yii2,PHP,2
 10157178,egulias/EmailValidator,PHP,1
 2884111,magento/magento2,PHP,0
-2699935,squizlabs/PHP_CodeSniffer,PHP,3
+2699935,squizlabs/PHP_CodeSniffer,PHP,2
 10238429,tennc/webshell,PHP,2
 2179920,woocommerce/woocommerce,PHP,3
 6763587,PrestaShop/PrestaShop,PHP,3
 9131292,jenssegers/laravel-mongodb,PHP,1
 97311017,rectorphp/rector,PHP,10
-6322699,FreshRSS/FreshRSS,PHP,24
+6322699,FreshRSS/FreshRSS,PHP,16
 62087941,nWidart/laravel-modules,PHP,8
 47508644,pterodactyl/panel,PHP,5
 29126334,EasyCorp/EasyAdminBundle,PHP,0
 182349597,jqhph/dcat-admin,PHP,0
-286645686,yuantuo666/baiduwp-php,PHP,6
+286645686,yuantuo666/baiduwp-php,PHP,4
 13914116,librenms/librenms,PHP,1
 175168121,changeweb/Unifiedtransform,PHP,2
 3193843,drush-ops/drush,PHP,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 195836215,magicblack/maccms10,PHP,2
 561255356,yeswehack/vulnerable-code-snippets,PHP,60
 229153710,Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List,PHP,0
-539659619,MohmmedAshraf/blade-flags,PHP,9
+539659619,MohmmedAshraf/blade-flags,PHP,6
 516948304,eraporsmk/erapor6,PHP,0
