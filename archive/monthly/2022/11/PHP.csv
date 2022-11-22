@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,373
-3482588,danielmiessler/SecLists,PHP,760
-7548986,laravel/framework,PHP,222
+1863329,laravel/laravel,PHP,375
+3482588,danielmiessler/SecLists,PHP,761
+7548986,laravel/framework,PHP,223
 458058,symfony/symfony,PHP,128
 60243197,nextcloud/server,PHP,292
-2253830,PHPMailer/PHPMailer,PHP,133
-82238168,monicahq/monica,PHP,357
-2889328,WordPress/WordPress,PHP,147
-47495360,koel/koel,PHP,149
+2253830,PHPMailer/PHPMailer,PHP,135
+82238168,monicahq/monica,PHP,358
+2889328,WordPress/WordPress,PHP,144
+47495360,koel/koel,PHP,150
 1305114,roots/sage,PHP,66
 42480275,spatie/laravel-permission,PHP,99
 2884111,magento/magento2,PHP,66
-2179920,woocommerce/woocommerce,PHP,66
+2179920,woocommerce/woocommerce,PHP,67
 16238673,kanboard/kanboard,PHP,67
 222873550,crater-invoice/crater,PHP,80
 351298555,thedevdojo/wave,PHP,101
@@ -22,5 +22,5 @@ id,name,lang,new stars
 111562942,statamic/cms,PHP,84
 216849756,v2board/v2board,PHP,145
 75645659,WordPress/wordpress-develop,PHP,43
-433383766,nextcloud/all-in-one,PHP,185
-513468803,ine-labs/AWSGoat,PHP,163
+433383766,nextcloud/all-in-one,PHP,184
+513468803,ine-labs/AWSGoat,PHP,164
