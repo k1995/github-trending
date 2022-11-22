@@ -1,18 +1,17 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,632
-24195339,angular/angular,TypeScript,338
 58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,588
+22458259,Alamofire/Alamofire,Swift,67
 52281283,mastodon/mastodon,Ruby,1693
-281975310,type-challenges/type-challenges,TypeScript,779
+90563585,chubin/cheat.sh,Python,1048
+35969061,google/styleguide,HTML,131
 36891867,angular/angular-cli,TypeScript,81
 116392709,digitalocean/nginxconfig.io,JavaScript,643
 69673033,ardalis/CleanArchitecture,C#,96
 495836457,t3-oss/create-t3-app,TypeScript,879
 8629417,mapbox/mapbox-gl-js,JavaScript,205
 77276660,SigmaHQ/sigma,Python,59
+309512982,redpanda-data/redpanda,C++,150
 89033556,firebase/firebase-ios-sdk,Objective-C,73
-201546443,trustwallet/assets,Go,42
-523043277,charliermarsh/ruff,Rust,287
 540917299,jaywcjlove/reference,CSS,1339
 406923731,hsutter/cppfront,C++,193
 490465859,UberGuidoZ/Flipper,Batchfile,235
@@ -20,6 +19,7 @@ id,name,lang,new stars
 352861350,solidjs/solid-start,TypeScript,256
 559033997,mli/autocut,Python,980
 564058707,timhutton/twitter-archive-parser,Python,748
+342854098,superseriousbusiness/gotosocial,Go,313
 541269386,ggerganov/whisper.cpp,C,429
 537803484,palera1n/palera1n,Shell,365
 332718082,mastodon/mastodon-ios,Swift,275

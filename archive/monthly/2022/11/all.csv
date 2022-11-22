@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,4285
+35955666,jlevy/the-art-of-command-line,,5489
 58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1821
-49609581,PowerShell/PowerShell,C#,921
 52281283,mastodon/mastodon,Ruby,6100
-199570071,2dust/v2rayN,C#,1171
-159152904,jeecgboot/jeecg-boot,Java,1191
-97533102,halfrost/LeetCode-Go,Go,1387
+159152904,jeecgboot/jeecg-boot,Java,1194
+97533102,halfrost/LeetCode-Go,Go,1393
+116392709,digitalocean/nginxconfig.io,JavaScript,1114
 73561650,jaywcjlove/linux-command,Markdown,1893
-241805592,rome/tools,Rust,1840
-7634677,openssl/openssl,C,584
-161012019,jellyfin/jellyfin,C#,1307
-413918947,vercel/turbo,Rust,7735
-355959597,Textualize/textual,Python,2280
-305144746,geohot/tinygrad,Python,2172
-483402734,android/nowinandroid,Kotlin,798
-222824662,dagger/dagger,Go,932
+241805592,rome/tools,Rust,1842
+7634677,openssl/openssl,C,585
+161012019,jellyfin/jellyfin,C#,1308
+413918947,vercel/turbo,Rust,7738
+172714919,valeriansaliou/sonic,Rust,3225
+305144746,geohot/tinygrad,Python,2176
+483402734,android/nowinandroid,Kotlin,800
+222824662,dagger/dagger,Go,935
 422274596,hpcaitech/ColossalAI,Python,1531
-331293626,refinedev/refine,TypeScript,1832
-428292281,Sanster/lama-cleaner,Python,3204
-127049550,material-components/material-web,SCSS,385
-505538251,simeydotme/pokemon-cards-css,Svelte,2328
+331293626,refinedev/refine,TypeScript,1833
+428292281,Sanster/lama-cleaner,Python,3209
+127049550,material-components/material-web,SCSS,382
+505538251,simeydotme/pokemon-cards-css,Svelte,2327
 426075845,MystenLabs/sui,Rust,841
 498449014,nerfstudio-project/nerfstudio,Python,1067
 539389184,TheLastBen/fast-stable-diffusion,Python,1292
-461147335,ageron/handson-ml3,Jupyter Notebook,552
+461147335,ageron/handson-ml3,Jupyter Notebook,554
+502127166,guacsec/guac,Go,467
