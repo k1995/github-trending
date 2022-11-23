@@ -1,26 +1,26 @@
 id,name,lang,new stars
-35955666,jlevy/the-art-of-command-line,,5175
-58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1949
-52281283,mastodon/mastodon,Ruby,6301
-159152904,jeecgboot/jeecg-boot,Java,1209
-97533102,halfrost/LeetCode-Go,Go,1352
-116392709,digitalocean/nginxconfig.io,JavaScript,1148
+54346799,public-apis/public-apis,Python,4782
+35955666,jlevy/the-art-of-command-line,,4999
+58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1989
+52281283,mastodon/mastodon,Ruby,6359
+212639071,bregman-arie/devops-exercises,Python,2148
+159152904,jeecgboot/jeecg-boot,Java,1215
+237791077,mingrammer/diagrams,Python,940
+116392709,digitalocean/nginxconfig.io,JavaScript,1154
 73561650,jaywcjlove/linux-command,Markdown,1866
-241805592,rome/tools,Rust,1877
+241805592,rome/tools,Rust,1884
 7634677,openssl/openssl,C,589
-161012019,jellyfin/jellyfin,C#,1318
-413918947,vercel/turbo,Rust,7693
-172714919,valeriansaliou/sonic,Rust,3255
-305144746,geohot/tinygrad,Python,2205
-483402734,android/nowinandroid,Kotlin,819
-222824662,dagger/dagger,Go,953
-422274596,hpcaitech/ColossalAI,Python,1544
-331293626,refinedev/refine,TypeScript,1860
-428292281,Sanster/lama-cleaner,Python,3231
-127049550,material-components/material-web,SCSS,380
-505538251,simeydotme/pokemon-cards-css,Svelte,2349
-426075845,MystenLabs/sui,Rust,852
-498449014,nerfstudio-project/nerfstudio,Python,1097
-539389184,TheLastBen/fast-stable-diffusion,Python,1301
-461147335,ageron/handson-ml3,Jupyter Notebook,563
-502127166,guacsec/guac,Go,448
+161012019,jellyfin/jellyfin,C#,1323
+413918947,vercel/turbo,Rust,7682
+305144746,geohot/tinygrad,Python,2209
+483402734,android/nowinandroid,Kotlin,820
+222824662,dagger/dagger,Go,956
+422274596,hpcaitech/ColossalAI,Python,1547
+428292281,Sanster/lama-cleaner,Python,3236
+542931741,answerdev/answer,Go,4262
+505538251,simeydotme/pokemon-cards-css,Svelte,2351
+426075845,MystenLabs/sui,Rust,848
+498449014,nerfstudio-project/nerfstudio,Python,1098
+539389184,TheLastBen/fast-stable-diffusion,Python,1302
+553119108,MubertAI/Mubert-Text-to-Music,Jupyter Notebook,1200
+461147335,ageron/handson-ml3,Jupyter Notebook,565
