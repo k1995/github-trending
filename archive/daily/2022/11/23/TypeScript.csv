@@ -1,9 +1,9 @@
 id,name,lang,new stars
 34526884,ant-design/ant-design,TypeScript,40
-54173593,storybookjs/storybook,TypeScript,19
+54173593,storybookjs/storybook,TypeScript,21
 221981891,microsoft/playwright,TypeScript,45
 94911145,facebook/docusaurus,TypeScript,35
-38558578,nativefier/nativefier,TypeScript,39
+38558578,nativefier/nativefier,TypeScript,35
 207645083,TanStack/query,TypeScript,37
 192925833,prisma/prisma,TypeScript,34
 36891867,angular/angular-cli,TypeScript,2
@@ -11,13 +11,13 @@ id,name,lang,new stars
 157166750,lensapp/lens,TypeScript,10
 15225670,jitsi/jitsi-meet,TypeScript,9
 280557054,trpc/trpc,TypeScript,59
-715547,highcharts/highcharts,TypeScript,4
-262862475,amplication/amplication,TypeScript,3
+715547,highcharts/highcharts,TypeScript,6
+262862475,amplication/amplication,TypeScript,6
 471728341,lensterxyz/lenster,TypeScript,67
-94150359,gitname/react-gh-pages,TypeScript,3
+94150359,gitname/react-gh-pages,TypeScript,4
 206509491,rowyio/rowy,TypeScript,17
 165670309,TanStack/router,TypeScript,105
-197814629,actions/checkout,TypeScript,5
+197814629,actions/checkout,TypeScript,6
 436297812,usememos/memos,TypeScript,406
 553759919,shadcn/taxonomy,TypeScript,289
 349372179,lightdash/lightdash,TypeScript,9

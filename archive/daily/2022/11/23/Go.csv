@@ -2,7 +2,7 @@ id,name,lang,new stars
 23096959,golang/go,Go,43
 74175805,istio/istio,Go,11
 181461073,v2fly/v2ray-core,Go,24
-50613991,goharbor/harbor,Go,50
+50613991,goharbor/harbor,Go,51
 208728772,milvus-io/milvus,Go,9
 8966356,hashicorp/packer,Go,4
 201658460,geektutu/7days-golang,Go,15
@@ -13,7 +13,7 @@ id,name,lang,new stars
 9524057,prometheus/node_exporter,Go,7
 146641150,tektoncd/pipeline,Go,7
 48714685,open-policy-agent/opa,Go,4
-170411418,kedacore/keda,Go,6
+170411418,kedacore/keda,Go,5
 11452538,prometheus/alertmanager,Go,2
 86367047,elastic/go-elasticsearch,Go,5
 299832860,livekit/livekit,Go,7
