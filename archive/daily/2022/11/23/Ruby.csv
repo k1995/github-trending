@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
-52281283,mastodon/mastodon,Ruby,207
+8514,rails/rails,Ruby,6
+52281283,mastodon/mastodon,Ruby,206
 27442967,fastlane/fastlane,Ruby,2
-13840241,freeCodeCamp/devdocs,Ruby,21
+13840241,freeCodeCamp/devdocs,Ruby,20
 481872,hashicorp/vagrant,Ruby,3
 308770,heartcombo/devise,Ruby,1
 18486300,lewagon/setup,Ruby,1
-3195124,mperham/sidekiq,Ruby,4
+3195124,mperham/sidekiq,Ruby,3
 3314,spree/spree,Ruby,3
 1918677,fluent/fluentd,Ruby,4
 812393,ruby-grape/grape,Ruby,1
@@ -14,7 +14,7 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,0
 211588,paper-trail-gem/paper_trail,Ruby,2
 16994115,CanCanCommunity/cancancan,Ruby,0
-52316423,luggit/react-native-config,Ruby,2
+52316423,luggit/react-native-config,Ruby,1
 103766152,github/explore,Ruby,3
 229006,mileszs/wicked_pdf,Ruby,0
 904810,rubysherpas/paranoia,Ruby,0
