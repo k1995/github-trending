@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,43
+23096959,golang/go,Go,51
 74175805,istio/istio,Go,11
 181461073,v2fly/v2ray-core,Go,24
 50613991,goharbor/harbor,Go,51
@@ -7,20 +7,20 @@ id,name,lang,new stars
 8966356,hashicorp/packer,Go,4
 201658460,geektutu/7days-golang,Go,15
 252813491,projectdiscovery/nuclei,Go,11
-36960321,opencontainers/runc,Go,8
+36960321,opencontainers/runc,Go,7
 11206255,Shopify/sarama,Go,8
 126250425,google/go-cloud,Go,7
 9524057,prometheus/node_exporter,Go,7
 146641150,tektoncd/pipeline,Go,7
 48714685,open-policy-agent/opa,Go,4
 170411418,kedacore/keda,Go,5
-11452538,prometheus/alertmanager,Go,2
+11452538,prometheus/alertmanager,Go,3
 86367047,elastic/go-elasticsearch,Go,5
 299832860,livekit/livekit,Go,7
-29778781,slack-go/slack,Go,3
+29778781,slack-go/slack,Go,4
 76686583,kubevirt/kubevirt,Go,6
 192178626,marcel-dempers/docker-development-youtube-series,Go,7
-187086161,open-telemetry/opentelemetry-go,Go,4
+187086161,open-telemetry/opentelemetry-go,Go,5
 342854098,superseriousbusiness/gotosocial,Go,84
 178954418,elliotchance/pie,Go,16
 407842945,shijiaoliang/go-sensitive,Go,14

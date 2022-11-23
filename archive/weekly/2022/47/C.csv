@@ -1,17 +1,17 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,423
-246335987,ventoy/Ventoy,C,432
-102578345,coolsnowwolf/lede,C,120
+2325298,torvalds/linux,C,418
+246335987,ventoy/Ventoy,C,433
+102578345,coolsnowwolf/lede,C,121
 2810292,pbatard/rufus,C,97
-6201092,mpv-player/mpv,C,75
-18496166,gentilkiwi/mimikatz,C,51
-60667730,lvgl/lvgl,C,52
+6201092,mpv-player/mpv,C,74
+18496166,gentilkiwi/mimikatz,C,49
+60667730,lvgl/lvgl,C,51
 3299208,videolan/vlc,C,45
-272457606,jart/cosmopolitan,C,266
-394318710,valinet/ExplorerPatcher,C,185
-70127218,espressif/arduino-esp32,C,42
+272457606,jart/cosmopolitan,C,262
+394318710,valinet/ExplorerPatcher,C,184
+70127218,espressif/arduino-esp32,C,44
 65899476,espressif/esp-idf,C,32
-50824485,winsiderss/systeminformer,C,69
+50824485,winsiderss/systeminformer,C,67
 7408108,RT-Thread/rt-thread,C,22
 16734696,meetecho/janus-gateway,C,20
 37060852,betaflight/betaflight,C,31
@@ -22,5 +22,5 @@ id,name,lang,new stars
 400501136,deepmind/mujoco,C,40
 284134871,flipperdevices/flipperzero-firmware,C,121
 541269386,ggerganov/whisper.cpp,C,440
-342120988,earlephilhower/arduino-pico,C,19
+342120988,earlephilhower/arduino-pico,C,18
 502892801,Xinyuan-LilyGO/T-Display-S3,C,15
