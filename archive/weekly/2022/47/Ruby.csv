@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,70
-52281283,mastodon/mastodon,Ruby,1624
-53238813,Homebrew/brew,Ruby,88
-13840241,freeCodeCamp/devdocs,Ruby,107
+8514,rails/rails,Ruby,69
+52281283,mastodon/mastodon,Ruby,1588
+53238813,Homebrew/brew,Ruby,87
+13840241,freeCodeCamp/devdocs,Ruby,109
 308770,heartcombo/devise,Ruby,20
-3623050,Homebrew/homebrew-cask,Ruby,29
+3623050,Homebrew/homebrew-cask,Ruby,30
 202291859,chatwoot/chatwoot,Ruby,52
-88740103,postalserver/postal,Ruby,14
+88740103,postalserver/postal,Ruby,15
 3195124,mperham/sidekiq,Ruby,21
 611921,activeadmin/activeadmin,Ruby,3
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,27
 16549503,github/scientist,Ruby,17
-22059578,ankane/pghero,Ruby,26
+22059578,ankane/pghero,Ruby,25
 6899875,opf/openproject,Ruby,34
 1548802,activerecord-hackery/ransack,Ruby,9
 16994115,CanCanCommunity/cancancan,Ruby,8
@@ -19,7 +19,7 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,16
 46698467,ankane/strong_migrations,Ruby,22
 121513081,tradingview/charting-library-examples,Ruby,2
-99692620,renatolond/mastodon-twitter-poster,Ruby,47
+99692620,renatolond/mastodon-twitter-poster,Ruby,45
 66497320,DataDog/dd-trace-rb,Ruby,0
 88523514,cncf/gitdm,Ruby,0
 562829152,hpi-swt2/bookkeeper-portal-red,Ruby,1
