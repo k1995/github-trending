@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,4973
-35955666,jlevy/the-art-of-command-line,,5007
+54346799,public-apis/public-apis,Python,5001
+35955666,jlevy/the-art-of-command-line,,5214
 58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,2007
 52281283,mastodon/mastodon,Ruby,6432
-212639071,bregman-arie/devops-exercises,Python,2148
-159152904,jeecgboot/jeecg-boot,Java,1242
-116392709,digitalocean/nginxconfig.io,JavaScript,1155
-73561650,jaywcjlove/linux-command,Markdown,1669
-241805592,rome/tools,Rust,1905
-7634677,openssl/openssl,C,599
-161012019,jellyfin/jellyfin,C#,1325
-413918947,vercel/turbo,Rust,7652
+159152904,jeecgboot/jeecg-boot,Java,1247
+116392709,digitalocean/nginxconfig.io,JavaScript,1163
+73561650,jaywcjlove/linux-command,Markdown,1653
+241805592,rome/tools,Rust,1909
+7634677,openssl/openssl,C,600
+161012019,jellyfin/jellyfin,C#,1330
+413918947,vercel/turbo,Rust,7656
 23247808,rqlite/rqlite,Go,1220
-305144746,geohot/tinygrad,Python,2248
-483402734,android/nowinandroid,Kotlin,840
-222824662,dagger/dagger,Go,965
+305144746,geohot/tinygrad,Python,2256
+483402734,android/nowinandroid,Kotlin,844
+222824662,dagger/dagger,Go,973
 422274596,hpcaitech/ColossalAI,Python,1549
-428292281,Sanster/lama-cleaner,Python,3252
-542931741,answerdev/answer,Go,3834
-505538251,simeydotme/pokemon-cards-css,Svelte,2350
+331293626,refinedev/refine,TypeScript,1867
+428292281,Sanster/lama-cleaner,Python,3255
+127049550,material-components/material-web,SCSS,379
+542931741,answerdev/answer,Go,3720
+505538251,simeydotme/pokemon-cards-css,Svelte,2349
 426075845,MystenLabs/sui,Rust,844
-498449014,nerfstudio-project/nerfstudio,Python,1098
-539389184,TheLastBen/fast-stable-diffusion,Python,1304
-553119108,MubertAI/Mubert-Text-to-Music,Jupyter Notebook,1155
-461147335,ageron/handson-ml3,Jupyter Notebook,576
+352861350,solidjs/solid-start,TypeScript,1030
+539389184,TheLastBen/fast-stable-diffusion,Python,1306
+461147335,ageron/handson-ml3,Jupyter Notebook,578
