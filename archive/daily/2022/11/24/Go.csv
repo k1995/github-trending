@@ -4,7 +4,7 @@ id,name,lang,new stars
 18369373,spf13/viper,Go,14
 50613991,goharbor/harbor,Go,59
 6051812,gorilla/mux,Go,5
-129717717,grafana/loki,Go,6
+129717717,grafana/loki,Go,5
 48109239,cilium/cilium,Go,14
 36960321,opencontainers/runc,Go,6
 92313258,cert-manager/cert-manager,Go,5
@@ -20,7 +20,7 @@ id,name,lang,new stars
 88013053,docker/cli,Go,5
 76686583,kubevirt/kubevirt,Go,6
 187086161,open-telemetry/opentelemetry-go,Go,5
-91074692,zalando/postgres-operator,Go,7
-342854098,superseriousbusiness/gotosocial,Go,43
-565010765,maaslalani/nap,Go,86
+91074692,zalando/postgres-operator,Go,6
+342854098,superseriousbusiness/gotosocial,Go,56
+565010765,maaslalani/nap,Go,88
 443495135,kiteco/kiteco-public,Go,74
