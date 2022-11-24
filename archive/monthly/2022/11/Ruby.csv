@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,258
+8514,rails/rails,Ruby,256
 65252,jekyll/jekyll,Ruby,228
-8681349,huginn/huginn,Ruby,279
-7569578,discourse/discourse,Ruby,267
+8681349,huginn/huginn,Ruby,281
+7569578,discourse/discourse,Ruby,265
 52281283,mastodon/mastodon,Ruby,6432
-53238813,Homebrew/brew,Ruby,401
-13840241,freeCodeCamp/devdocs,Ruby,313
-2293158,rapid7/metasploit-framework,Ruby,299
+53238813,Homebrew/brew,Ruby,397
+13840241,freeCodeCamp/devdocs,Ruby,312
+2293158,rapid7/metasploit-framework,Ruby,300
 2203645,CocoaPods/CocoaPods,Ruby,41
-3195124,mperham/sidekiq,Ruby,92
-52855516,Homebrew/homebrew-core,Ruby,132
+3195124,mperham/sidekiq,Ruby,94
+52855516,Homebrew/homebrew-core,Ruby,133
 96395,faker-ruby/faker,Ruby,70
 1725199,github/linguist,Ruby,155
 15435,Shopify/liquid,Ruby,58
@@ -17,7 +17,7 @@ id,name,lang,new stars
 16549503,github/scientist,Ruby,51
 95798441,athityakumar/colorls,Ruby,38
 103766152,github/explore,Ruby,65
-11426474,github/choosealicense.com,Ruby,42
+11426474,github/choosealicense.com,Ruby,43
 93163073,dependabot/dependabot-core,Ruby,66
 14238949,elastic/elasticsearch-rails,Ruby,5
 270054,ffi/ffi,Ruby,10
