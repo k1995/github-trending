@@ -4,15 +4,15 @@ id,name,lang,new stars
 186024298,nushell/nushell,Rust,20
 107505869,firecracker-microvm/firecracker,Rust,4
 268424739,helix-editor/helix,Rust,19
-105379569,actix/actix-web,Rust,19
+105379569,actix/actix-web,Rust,17
 436658287,surrealdb/surrealdb,Rust,34
 152572186,wasmerio/wasmer,Rust,64
-146327667,vectordotdev/vector,Rust,9
+146327667,vectordotdev/vector,Rust,10
 247725846,extrawurst/gitui,Rust,29
 201517171,hyperium/tonic,Rust,11
 329782568,DioxusLabs/dioxus,Rust,14
 136510559,Byron/gitoxide,Rust,33
-183929744,erikgrinaker/toydb,Rust,113
+183929744,erikgrinaker/toydb,Rust,90
 179135166,WebAssembly/WASI,Rust,11
 337322967,SeaQL/sea-orm,Rust,15
 129324660,actix/examples,Rust,23
@@ -23,4 +23,4 @@ id,name,lang,new stars
 531874744,aurae-runtime/aurae,Rust,22
 519895363,GyulyVGC/sniffnet,Rust,118
 540033828,huggingface/safetensors,Rust,11
-568880227,Kudaes/Unwinder,Rust,12
+568880227,Kudaes/Unwinder,Rust,11

@@ -5,7 +5,7 @@ id,name,lang,new stars
 50613991,goharbor/harbor,Go,59
 6051812,gorilla/mux,Go,5
 129717717,grafana/loki,Go,6
-48109239,cilium/cilium,Go,17
+48109239,cilium/cilium,Go,14
 36960321,opencontainers/runc,Go,6
 92313258,cert-manager/cert-manager,Go,5
 121086193,99designs/gqlgen,Go,7
@@ -22,5 +22,5 @@ id,name,lang,new stars
 187086161,open-telemetry/opentelemetry-go,Go,5
 91074692,zalando/postgres-operator,Go,7
 342854098,superseriousbusiness/gotosocial,Go,43
-565010765,maaslalani/nap,Go,88
+565010765,maaslalani/nap,Go,86
 443495135,kiteco/kiteco-public,Go,74
