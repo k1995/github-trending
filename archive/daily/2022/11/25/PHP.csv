@@ -1,6 +1,6 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,32
-7548986,laravel/framework,PHP,10
+3482588,danielmiessler/SecLists,PHP,30
+7548986,laravel/framework,PHP,9
 458058,symfony/symfony,PHP,7
 1420053,guzzle/guzzle,PHP,3
 60243197,nextcloud/server,PHP,17
@@ -15,12 +15,12 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,1
 74386167,vimeo/psalm,PHP,1
 439861,moodle/moodle,PHP,2
-2464908,joomla/joomla-cms,PHP,5
-1957456,Dolibarr/dolibarr,PHP,3
+2464908,joomla/joomla-cms,PHP,4
+1957456,Dolibarr/dolibarr,PHP,2
 153069455,collabnix/dockerlabs,PHP,5
 400984450,kuaifan/dootask,PHP,10
-39682214,Piwigo/Piwigo,PHP,4
+39682214,Piwigo/Piwigo,PHP,5
 29501260,api-platform/core,PHP,2
 32315619,DarkaOnLine/L5-Swagger,PHP,2
-59355182,OpenSID/OpenSID,PHP,2
-568333922,youshandefeiyang/IPTV,PHP,90
+59355182,OpenSID/OpenSID,PHP,1
+568333922,youshandefeiyang/IPTV,PHP,91
