@@ -1,18 +1,18 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,208
-54346799,public-apis/public-apis,Python,329
+21737465,sindresorhus/awesome,,174
+54346799,public-apis/public-apis,Python,335
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,201
 31629751,cypress-io/cypress,JavaScript,24
 54544023,Alvin9999/new-pac,,91
-74627617,commaai/openpilot,Python,110
+74627617,commaai/openpilot,Python,124
 18723836,dromara/hutool,Java,44
 453717720,AykutSarac/jsoncrack.com,TypeScript,88
 82359910,imDazui/Tvlist-awesome-m3u-m3u8,,195
 400215964,novuhq/novu,TypeScript,356
 533087958,terrastruct/d2,Go,1297
-257434373,apernet/hysteria,Go,27
+257434373,apernet/hysteria,Go,85
 553759919,shadcn/taxonomy,TypeScript,138
-482719022,illacloud/illa-builder,TypeScript,322
+482719022,illacloud/illa-builder,TypeScript,345
 324453237,filipedeschamps/tabnews.com.br,HTML,569
 224515762,0x90n/InfoSec-Black-Friday,,118
 519882617,gbj/leptos,Rust,61
@@ -22,5 +22,5 @@ id,name,lang,new stars
 184825074,GoogleCloudPlatform/cloud-foundation-fabric,HCL,8
 561083108,facebookresearch/diplomacy_cicero,Python,121
 529946519,bdebon/choiceof.dev,TypeScript,100
-566477780,chronicle/GCTI,YARA,27
+566477780,chronicle/GCTI,YARA,23
 565730722,baaivision/EVA,Python,26
