@@ -21,12 +21,25 @@ gql = """
         url,
         homepageUrl,
         nameWithOwner,
+        languages(first:10){
+          edges{
+            node{
+              name
+            }
+            size
+          }
+          totalSize
+          totalCount
+        },
         primaryLanguage {
           id,
           name
         },
+        createdAt,
+        updatedAt,
         pushedAt,
         forkCount,
+        isArchived,
         stargazers(first: 0){
           totalCount
         }
@@ -54,20 +67,23 @@ class TrendingSpider(scrapy.Spider):
 
     def start_requests(self):
         # Filter by data range
+        langs = settings.popular_langs + ['chinese']
         for since in ['daily', 'weekly', 'monthly']:
             yield self.build_trending_request(since)
             # Filter by popular language
-            for lang in settings.popular_langs:
+            for lang in langs:
                 yield self.build_trending_request(since, lang)
 
     @staticmethod
     def build_trending_request(date_range, lang_filter='all'):
         if lang_filter == 'all':
             url = "https://github.com/trending?since={}".format(date_range)
+        elif lang_filter == 'chinese':
+            url = "https://github.com/trending?since={}&spoken_language_code=zh".format(date_range)
         else:
             lang_encoded = urllib.parse.quote_plus(lang_filter)
             url = "https://github.com/trending/{}?since={}".format(lang_encoded, date_range)
-        return scrapy.Request(url, meta={'since': date_range, 'lang': lang_filter})
+        return scrapy.Request(url, meta={'since': date_range, 'lang_filter': lang_filter})
 
     def parse(self, response):
         """
@@ -76,6 +92,8 @@ class TrendingSpider(scrapy.Spider):
 
         search_query = ''
         stars_list = {}
+        rank_list = {}
+        rank = 1
         for i in response.css(".Box-row"):
             full_name = i.css(".h3 a::attr(href)").extract_first().lstrip('/')
             # New stars count
@@ -88,8 +106,15 @@ class TrendingSpider(scrapy.Spider):
                 continue
             # Cache the new stars count, we'll use it later
             stars_list[full_name] = stars_inc
+            rank_list[full_name] = rank
             # Construct graphql api query
             search_query += 'repo:' + full_name + ' '
+            rank += 1
+
+        if rank <= 1:
+            print("Empty: " + response.url)
+            return
+
         query = {"query": gql % search_query}
 
         # Request the Graphql API to get detailed information about the repository
@@ -99,8 +124,9 @@ class TrendingSpider(scrapy.Spider):
             callback=self.parse_api_response,
             body=json.dumps(query))
         req.meta['since'] = response.meta['since']
-        req.meta['lang'] = response.meta.get('lang')
+        req.meta['lang_filter'] = response.meta.get('lang_filter')
         req.meta['stars_list'] = stars_list
+        req.meta['rank_list'] = rank_list
         req.headers.setdefault('Authorization', "bearer {}".format(settings.token))
         return req
 
@@ -117,6 +143,7 @@ class TrendingSpider(scrapy.Spider):
         nodes = result['nodes']
         for node in nodes:
             node['since'] = response.meta['since']
-            node['lang'] = response.meta['lang']
+            node['lang_filter'] = response.meta['lang_filter']
             node['stars_inc'] = response.meta['stars_list'][node['nameWithOwner']]
+            node['rank'] = response.meta['rank_list'][node['nameWithOwner']]
             yield node
