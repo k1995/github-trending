@@ -1,14 +1,14 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,25
+45717250,tensorflow/tensorflow,C++,24
 9384267,electron/electron,C++,26
 5108051,opencv/opencv,C++,24
-65600975,pytorch/pytorch,C++,34
-22067521,ocornut/imgui,C++,23
-27729880,grpc/grpc,C++,13
+65600975,pytorch/pytorch,C++,33
+22067521,ocornut/imgui,C++,26
+27729880,grpc/grpc,C++,10
 11171548,nlohmann/json,C++,14
-67702184,topjohnwu/Magisk,C++,21
+67702184,topjohnwu/Magisk,C++,22
 39840932,google/googletest,C++,13
-19953044,google/flatbuffers,C++,78
+19953044,google/flatbuffers,C++,75
 65750241,expo/expo,C++,11
 76222419,Tencent/mars,C++,12
 26038648,gabime/spdlog,C++,21
@@ -18,9 +18,9 @@ id,name,lang,new stars
 146459443,vesoft-inc/nebula,C++,7
 5298790,PX4/PX4-Autopilot,C++,2
 34289265,ValveSoftware/openvr,C++,3
-13266601,urho3d/Urho3D,C++,8
+13266601,urho3d/Urho3D,C++,11
 10599951,emilybache/GildedRose-Refactoring-Kata,C++,0
 85237914,doublesymmetry/react-native-track-player,C++,1
-80064252,CLIUtils/CLI11,C++,3
+80064252,CLIUtils/CLI11,C++,4
 388946490,facebookincubator/velox,C++,4
 330355479,xfangfang/wiliwili,C++,9

@@ -1,13 +1,13 @@
 id,name,lang,new stars
 130688011,meilisearch/meilisearch,Rust,25
-152572186,wasmerio/wasmer,Rust,108
-247725846,extrawurst/gitui,Rust,12
+152572186,wasmerio/wasmer,Rust,107
+247725846,extrawurst/gitui,Rust,13
 183483988,ruffle-rs/ruffle,Rust,7
-14164618,tree-sitter/tree-sitter,Rust,22
-41609775,diesel-rs/diesel,Rust,10
+14164618,tree-sitter/tree-sitter,Rust,20
+41609775,diesel-rs/diesel,Rust,9
 109872620,paritytech/substrate,Rust,2
 372172254,tokio-rs/axum,Rust,25
-144140342,paritytech/polkadot,Rust,4
+144140342,paritytech/polkadot,Rust,5
 201517171,hyperium/tonic,Rust,14
 329782568,DioxusLabs/dioxus,Rust,15
 136510559,Byron/gitoxide,Rust,16
@@ -15,12 +15,12 @@ id,name,lang,new stars
 179135166,WebAssembly/WASI,Rust,9
 426075845,MystenLabs/sui,Rust,10
 113404957,kata-containers/kata-containers,Rust,6
-130174051,graphprotocol/graph-node,Rust,2
-519882617,gbj/leptos,Rust,61
-540976791,1Password/typeshare,Rust,169
+130174051,graphprotocol/graph-node,Rust,4
+519882617,gbj/leptos,Rust,62
+540976791,1Password/typeshare,Rust,164
 295245253,geph-official/geph4-client,Rust,4
 51910783,not-an-aardvark/lucky-commit,Rust,43
 519895363,GyulyVGC/sniffnet,Rust,207
-327140372,akula-bft/akula,Rust,24
-553679728,facebookexperimental/hermit,Rust,71
+327140372,akula-bft/akula,Rust,23
+553679728,facebookexperimental/hermit,Rust,72
 540033828,huggingface/safetensors,Rust,6

@@ -1,9 +1,9 @@
 id,name,lang,new stars
 507775,elastic/elasticsearch,Java,19
 20300177,google/guava,Java,6
-9754983,eugenp/tutorials,Java,11
+9754983,eugenp/tutorials,Java,12
 110211147,xkcoding/spring-boot-demo,Java,47
-18723836,dromara/hutool,Java,44
+18723836,dromara/hutool,Java,43
 20587599,apache/flink,Java,6
 20818126,google/ExoPlayer,Java,8
 20773773,bazelbuild/bazel,Java,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 222578036,WeiYe-Jing/datax-web,Java,3
 248032165,spring-projects/spring-authorization-server,Java,3
 21193524,apache/calcite,Java,5
-56284158,nayuki/QR-Code-generator,Java,5
+56284158,nayuki/QR-Code-generator,Java,6
 38829639,fabric8io/kubernetes-client,Java,2
 90675730,kubernetes-client/java,Java,1
 298323699,devopshydclub/vprofile-project,Java,3
