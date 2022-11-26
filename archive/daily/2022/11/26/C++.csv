@@ -1,12 +1,12 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,21
-27729880,grpc/grpc,C++,14
-60246359,ClickHouse/ClickHouse,C++,14
+27729880,grpc/grpc,C++,10
+60246359,ClickHouse/ClickHouse,C++,15
 108110,mongodb/mongo,C++,9
-34777562,ossrs/srs,C++,25
+34777562,ossrs/srs,C++,15
 19953044,google/flatbuffers,C++,47
 76222419,Tencent/mars,C++,11
-437245741,dragonflydb/dragonfly,C++,21
+437245741,dragonflydb/dragonfly,C++,19
 86337343,skypjack/entt,C++,5
 115883761,tdlib/td,C++,3
 224468265,dail8859/NotepadNext,C++,9
@@ -14,13 +14,13 @@ id,name,lang,new stars
 83542585,wisdompeak/LeetCode,C++,2
 471960338,BoomingTech/Piccolo,C++,15
 119178893,klzgrad/naiveproxy,C++,12
-49177547,ThePhD/sol2,C++,1
+49177547,ThePhD/sol2,C++,0
 20293077,ethz-asl/kalibr,C++,4
 39283837,HowardHinnant/date,C++,2
 10599951,emilybache/GildedRose-Refactoring-Kata,C++,1
 80064252,CLIUtils/CLI11,C++,2
 433303514,yuesong-feng/30dayMakeCppServer,C++,50
 153316914,BehaviorTree/BehaviorTree.CPP,C++,1
-303308200,hku-mars/FAST_LIO,C++,2
+303308200,hku-mars/FAST_LIO,C++,1
 507861208,PaddlePaddle/FastDeploy,C++,18
 469141115,Klafyvel/AVR-FFT,C++,12

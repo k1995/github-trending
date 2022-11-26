@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,49
+2325298,torvalds/linux,C,48
 1903522,php/php-src,C,6
-569041,curl/curl,C,10
-5101141,stedolan/jq,C,26
-14812739,libuv/libuv,C,6
-7634677,openssl/openssl,C,16
+569041,curl/curl,C,9
+5101141,stedolan/jq,C,21
+14812739,libuv/libuv,C,5
+7634677,openssl/openssl,C,15
 196353673,taosdata/TDengine,C,62
 80286288,arendst/Tasmota,C,7
 15337142,micropython/micropython,C,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 275837352,QiuSimons/YAOF,C,1
 228103273,apache/nuttx,C,4
 121516035,nrfconnect/sdk-nrf,C,0
-247759247,NVIDIA/MAXINE-AR-SDK,C,14
+247759247,NVIDIA/MAXINE-AR-SDK,C,16
