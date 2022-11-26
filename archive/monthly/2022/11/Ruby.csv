@@ -1,9 +1,9 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,259
-65252,jekyll/jekyll,Ruby,236
-8681349,huginn/huginn,Ruby,268
-7569578,discourse/discourse,Ruby,251
-52281283,mastodon/mastodon,Ruby,6629
+8514,rails/rails,Ruby,256
+65252,jekyll/jekyll,Ruby,240
+8681349,huginn/huginn,Ruby,266
+7569578,discourse/discourse,Ruby,252
+52281283,mastodon/mastodon,Ruby,6634
 53238813,Homebrew/brew,Ruby,381
 2293158,rapid7/metasploit-framework,Ruby,297
 481872,hashicorp/vagrant,Ruby,143
@@ -12,13 +12,13 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,67
 1725199,github/linguist,Ruby,148
 361310,teamcapybara/capybara,Ruby,27
-16549503,github/scientist,Ruby,53
+16549503,github/scientist,Ruby,54
 1548802,activerecord-hackery/ransack,Ruby,37
 30337170,rmosolgo/graphql-ruby,Ruby,19
 95798441,athityakumar/colorls,Ruby,35
 103766152,github/explore,Ruby,70
-11426474,github/choosealicense.com,Ruby,45
-93163073,dependabot/dependabot-core,Ruby,70
+11426474,github/choosealicense.com,Ruby,43
+93163073,dependabot/dependabot-core,Ruby,69
 270054,ffi/ffi,Ruby,10
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,24
 66497320,DataDog/dd-trace-rb,Ruby,5
