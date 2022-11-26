@@ -5,7 +5,7 @@ id,name,lang,new stars
 60243197,nextcloud/server,PHP,17
 448045,sebastianbergmann/phpunit,PHP,2
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,3
-4702560,PHPOffice/PHPExcel,PHP,0
+4702560,PHPOffice/PHPExcel,PHP,1
 14259390,SpartnerNL/Laravel-Excel,PHP,3
 2699935,squizlabs/PHP_CodeSniffer,PHP,3
 597887,doctrine/orm,PHP,4
@@ -15,12 +15,12 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,4
 6763587,PrestaShop/PrestaShop,PHP,2
 10883164,barryvdh/laravel-dompdf,PHP,0
-33916850,spatie/laravel-medialibrary,PHP,1
+33916850,spatie/laravel-medialibrary,PHP,3
 4565995,phpseclib/phpseclib,PHP,1
 60010673,elementor/elementor,PHP,3
 41463886,codeigniter4/CodeIgniter4,PHP,1
 2464908,joomla/joomla-cms,PHP,3
 400984450,kuaifan/dootask,PHP,11
-75645659,WordPress/wordpress-develop,PHP,2
+75645659,WordPress/wordpress-develop,PHP,3
 568333922,youshandefeiyang/IPTV,PHP,100
-569072798,HuolalaTech/hll-wp-glog,PHP,7
+569072798,HuolalaTech/hll-wp-glog,PHP,6
