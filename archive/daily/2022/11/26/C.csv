@@ -1,10 +1,10 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,49
 111583593,Genymobile/scrcpy,C,55
-10744183,netdata/netdata,C,15
+10744183,netdata/netdata,C,16
 37912398,nginx/nginx,C,9
 34921116,iovisor/bcc,C,4
-11397939,allinurl/goaccess,C,14
+11397939,allinurl/goaccess,C,12
 3784017,alibaba/tengine,C,6
 32873313,systemd/systemd,C,9
 65899476,espressif/esp-idf,C,4
@@ -18,7 +18,7 @@ id,name,lang,new stars
 34807561,nanopb/nanopb,C,4
 6860771,hathach/tinyusb,C,6
 39042157,spdk/spdk,C,2
-473137633,cilium/tetragon,C,6
+473137633,cilium/tetragon,C,5
 203759896,immortalwrt/immortalwrt,C,5
 207354223,FreeRTOS/FreeRTOS-Kernel,C,4
 43677244,pret/pokeemerald,C,4

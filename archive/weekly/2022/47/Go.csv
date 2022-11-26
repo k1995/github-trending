@@ -1,6 +1,6 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,217
-48378947,fatedier/frp,Go,261
+48378947,fatedier/frp,Go,267
 11225014,etcd-io/etcd,Go,80
 14125254,hashicorp/consul,Go,43
 50613991,goharbor/harbor,Go,203
@@ -11,11 +11,11 @@ id,name,lang,new stars
 237523442,tailscale/tailscale,Go,96
 274625369,infracost/infracost,Go,53
 9524057,prometheus/node_exporter,Go,44
-146641150,tektoncd/pipeline,Go,28
+146641150,tektoncd/pipeline,Go,27
 359419233,kubeshark/kubeshark,Go,1359
-19799491,tendermint/tendermint,Go,23
+19799491,tendermint/tendermint,Go,24
 318476701,containerd/nerdctl,Go,105
-22485114,hashicorp/hcl,Go,31
+22485114,hashicorp/hcl,Go,32
 257434373,apernet/hysteria,Go,184
 192178626,marcel-dempers/docker-development-youtube-series,Go,40
 22700054,hashicorp/golang-lru,Go,149
