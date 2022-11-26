@@ -1,6 +1,6 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,48
-111583593,Genymobile/scrcpy,C,54
+111583593,Genymobile/scrcpy,C,51
 10744183,netdata/netdata,C,17
 37912398,nginx/nginx,C,8
 34921116,iovisor/bcc,C,5
@@ -11,13 +11,13 @@ id,name,lang,new stars
 75811015,Tencent/xLua,C,2
 3671479,nmap/nmap,C,5
 59771425,zephyrproject-rtos/zephyr,C,6
-53614190,eclipse/mosquitto,C,2
+53614190,eclipse/mosquitto,C,3
 6376337,pocoproject/poco,C,1
-108110706,tporadowski/redis,C,7
+108110706,tporadowski/redis,C,9
 23007417,colmap/colmap,C,6
-34807561,nanopb/nanopb,C,3
-6860771,hathach/tinyusb,C,4
-39042157,spdk/spdk,C,1
+34807561,nanopb/nanopb,C,4
+6860771,hathach/tinyusb,C,5
+39042157,spdk/spdk,C,2
 473137633,cilium/tetragon,C,5
 203759896,immortalwrt/immortalwrt,C,4
 207354223,FreeRTOS/FreeRTOS-Kernel,C,3
