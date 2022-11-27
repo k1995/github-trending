@@ -1,15 +1,15 @@
 id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,17
-22067521,ocornut/imgui,C++,27
+22067521,ocornut/imgui,C++,25
 259463685,carbon-language/carbon-lang,C++,16
 39840932,google/googletest,C++,6
 160083795,SerenityOS/serenity,C++,14
-116167731,yuzu-emu/yuzu,C++,12
+116167731,yuzu-emu/yuzu,C++,14
 19374812,telegramdesktop/tdesktop,C++,11
-32969220,esp8266/Arduino,C++,2
+32969220,esp8266/Arduino,C++,3
 14981376,dogecoin/dogecoin,C++,2
-2200856,MarlinFirmware/Marlin,C++,9
-194269070,skyline-emu/skyline,C++,23
+2200856,MarlinFirmware/Marlin,C++,6
+194269070,skyline-emu/skyline,C++,21
 78483432,TranslucentTB/TranslucentTB,C++,8
 76990209,Aircoookie/WLED,C++,14
 9090933,capnproto/capnproto,C++,4
@@ -18,7 +18,7 @@ id,name,lang,new stars
 14268809,FastLED/FastLED,C++,4
 128479644,esphome/esphome,C++,7
 103626963,applenob/Cpp_Primer_Practice,C++,5
-207245092,stenzek/duckstation,C++,2
+207245092,stenzek/duckstation,C++,1
 471960338,BoomingTech/Piccolo,C++,7
 67768325,zeux/meshoptimizer,C++,3
 145275555,gaoxiang12/slambook2,C++,1
