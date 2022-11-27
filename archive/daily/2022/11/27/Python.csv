@@ -1,5 +1,5 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,81
+83222441,donnemartin/system-design-primer,Python,73
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,156
 196760810,Ebazhanov/linkedin-skill-assessments-quizzes,Python,23
 8162715,saleor/saleor,Python,46
@@ -8,16 +8,16 @@ id,name,lang,new stars
 498011141,huggingface/diffusers,Python,37
 131706958,jerry-git/learn-python3,Python,12
 155790228,sqlfluff/sqlfluff,Python,9
-19051806,StackStorm/st2,Python,16
-569927055,Stability-AI/stablediffusion,Python,462
+19051806,StackStorm/st2,Python,15
+569927055,Stability-AI/stablediffusion,Python,453
 203999962,open-mmlab/mmediting,Python,3
 520969009,mouredev/Hello-Python,Python,39
 344554014,TomSchimansky/CustomTkinter,Python,79
 258973148,LmeSzinc/AzurLaneAutoScript,Python,6
-390536799,mlfoundations/open_clip,Python,21
-416849738,facebookresearch/xformers,Python,33
-505667511,sczhou/CodeFormer,Python,64
-540842713,chidiwilliams/buzz,Python,64
+390536799,mlfoundations/open_clip,Python,32
+416849738,facebookresearch/xformers,Python,36
+505667511,sczhou/CodeFormer,Python,67
+540842713,chidiwilliams/buzz,Python,79
 561083108,facebookresearch/diplomacy_cicero,Python,106
 557545904,t3l3machus/Villain,Python,27
 567185522,microsoft/torchscale,Python,71

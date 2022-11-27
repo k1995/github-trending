@@ -1,8 +1,8 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,14
+7548986,laravel/framework,PHP,8
 458058,symfony/symfony,PHP,5
-1420053,guzzle/guzzle,PHP,2
-60243197,nextcloud/server,PHP,11
+1420053,guzzle/guzzle,PHP,1
+60243197,nextcloud/server,PHP,9
 2253830,PHPMailer/PHPMailer,PHP,1
 1631570,nikic/PHP-Parser,PHP,5
 2884111,magento/magento2,PHP,3
@@ -11,16 +11,16 @@ id,name,lang,new stars
 1398651,symfony/http-kernel,PHP,1
 1398660,symfony/routing,PHP,2
 24498056,symfony/var-dumper,PHP,3
-9791525,digininja/DVWA,PHP,5
+9791525,digininja/DVWA,PHP,4
 6763587,PrestaShop/PrestaShop,PHP,3
-119047018,linuxserver/Heimdall,PHP,6
+119047018,linuxserver/Heimdall,PHP,5
 74386167,vimeo/psalm,PHP,2
-439861,moodle/moodle,PHP,2
+439861,moodle/moodle,PHP,1
 47508644,pterodactyl/panel,PHP,2
-29126334,EasyCorp/EasyAdminBundle,PHP,2
+29126334,EasyCorp/EasyAdminBundle,PHP,0
 1957456,Dolibarr/dolibarr,PHP,2
-400984450,kuaifan/dootask,PHP,6
+400984450,kuaifan/dootask,PHP,5
 131995661,shopware/platform,PHP,1
 75645659,WordPress/wordpress-develop,PHP,1
-499717126,flucont/btcloud,PHP,6
-568333922,youshandefeiyang/IPTV,PHP,93
+499717126,flucont/btcloud,PHP,5
+568333922,youshandefeiyang/IPTV,PHP,89

@@ -1,15 +1,15 @@
 id,name,lang,new stars
 22790488,iluwatar/java-design-patterns,Java,36
-6296790,spring-projects/spring-boot,Java,43
-64558143,Blankj/AndroidUtilCode,Java,1
-110211147,xkcoding/spring-boot-demo,Java,22
+6296790,spring-projects/spring-boot,Java,56
+64558143,Blankj/AndroidUtilCode,Java,4
+110211147,xkcoding/spring-boot-demo,Java,16
 18723836,dromara/hutool,Java,17
-112785414,alibaba/spring-cloud-alibaba,Java,7
-2990192,signalapp/Signal-Android,Java,11
-20587599,apache/flink,Java,12
+112785414,alibaba/spring-cloud-alibaba,Java,9
+2990192,signalapp/Signal-Android,Java,12
+20587599,apache/flink,Java,13
 128018428,alibaba/Sentinel,Java,0
 13404515,brettwooldridge/HikariCP,Java,7
-237940592,dromara/Sa-Token,Java,12
+237940592,dromara/Sa-Token,Java,13
 120463532,alibaba/COLA,Java,9
 75882172,Netflix/conductor,Java,121
 222578036,WeiYe-Jing/datax-web,Java,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 158975124,apache/iotdb,Java,6
 38829639,fabric8io/kubernetes-client,Java,1
 267702531,googlesamples/mlkit,Java,1
-193518067,isl-org/MiDaS,Java,9
+193518067,isl-org/MiDaS,Java,8
 375260798,DataLinkDC/dlink,Java,3
-568700512,gulihua10010/playPiano,Java,39
+568700512,gulihua10010/playPiano,Java,50
 536100906,MaximilianAnzinger/pgdp2223-tests,Java,2
