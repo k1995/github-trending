@@ -9,9 +9,9 @@ id,name,lang,new stars
 13753636,jhipster/generator-jhipster,TypeScript,3
 453717720,AykutSarac/jsoncrack.com,TypeScript,200
 11007313,BabylonJS/Babylon.js,TypeScript,8
-280557054,trpc/trpc,TypeScript,53
-234739976,medusajs/medusa,TypeScript,33
-245704608,colinhacks/zod,TypeScript,74
+280557054,trpc/trpc,TypeScript,47
+234739976,medusajs/medusa,TypeScript,32
+245704608,colinhacks/zod,TypeScript,83
 400215964,novuhq/novu,TypeScript,202
 197018189,wbkd/react-flow,TypeScript,13
 119162419,nextauthjs/next-auth,TypeScript,17
@@ -23,4 +23,4 @@ id,name,lang,new stars
 320393623,kentcdodds/kentcdodds.com,TypeScript,5
 518004533,LokerL/tts-vue,TypeScript,13
 529946519,bdebon/choiceof.dev,TypeScript,41
-568773422,ipenywis/react-solid,TypeScript,10
+568773422,ipenywis/react-solid,TypeScript,11
