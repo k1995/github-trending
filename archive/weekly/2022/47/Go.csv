@@ -1,6 +1,6 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,217
-48378947,fatedier/frp,Go,263
+48378947,fatedier/frp,Go,265
 136815833,Dreamacro/clash,Go,318
 50613991,goharbor/harbor,Go,202
 21233191,ipfs/kubo,Go,58
@@ -12,14 +12,14 @@ id,name,lang,new stars
 107417113,cookieY/Yearning,Go,49
 359419233,kubeshark/kubeshark,Go,1403
 19799491,tendermint/tendermint,Go,23
-318476701,containerd/nerdctl,Go,123
+318476701,containerd/nerdctl,Go,124
 51193526,cosmos/cosmos-sdk,Go,22
 22485114,hashicorp/hcl,Go,33
-230660669,aler9/rtsp-simple-server,Go,84
+230660669,aler9/rtsp-simple-server,Go,85
 257434373,apernet/hysteria,Go,191
 320818962,teivah/100-go-mistakes,Go,159
 192178626,marcel-dempers/docker-development-youtube-series,Go,38
-22700054,hashicorp/golang-lru,Go,148
+22700054,hashicorp/golang-lru,Go,116
 342854098,superseriousbusiness/gotosocial,Go,401
 299054922,alpkeskin/mosint,Go,159
 429588481,DrDonk/unlocker,Go,47

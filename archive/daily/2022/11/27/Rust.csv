@@ -4,14 +4,14 @@ id,name,lang,new stars
 196701619,tauri-apps/tauri,Rust,39
 114466145,yewstack/yew,Rust,24
 241805592,rome/tools,Rust,52
-197081291,iced-rs/iced,Rust,11
+197081291,iced-rs/iced,Rust,5
 105379569,actix/actix-web,Rust,13
-165522651,emilk/egui,Rust,15
+165522651,emilk/egui,Rust,13
 247725846,extrawurst/gitui,Rust,9
 101767772,bytecodealliance/wasmtime,Rust,36
 14164618,tree-sitter/tree-sitter,Rust,43
 226408450,neovide/neovide,Rust,10
-230595891,launchbadge/sqlx,Rust,13
+230595891,launchbadge/sqlx,Rust,7
 372172254,tokio-rs/axum,Rust,25
 144140342,paritytech/polkadot,Rust,3
 329782568,DioxusLabs/dioxus,Rust,17

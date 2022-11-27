@@ -1,18 +1,18 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,392
-3482588,danielmiessler/SecLists,PHP,752
+3482588,danielmiessler/SecLists,PHP,751
 7548986,laravel/framework,PHP,271
-458058,symfony/symfony,PHP,141
-60243197,nextcloud/server,PHP,319
-2253830,PHPMailer/PHPMailer,PHP,134
-82238168,monicahq/monica,PHP,381
+458058,symfony/symfony,PHP,142
+60243197,nextcloud/server,PHP,320
+2253830,PHPMailer/PHPMailer,PHP,132
+82238168,monicahq/monica,PHP,380
 2889328,WordPress/WordPress,PHP,147
 2884111,magento/magento2,PHP,66
 9791525,digininja/DVWA,PHP,153
 119047018,linuxserver/Heimdall,PHP,169
 47508644,pterodactyl/panel,PHP,136
-351298555,thedevdojo/wave,PHP,109
-141720301,dr5hn/countries-states-cities-database,PHP,181
+351298555,thedevdojo/wave,PHP,108
+141720301,dr5hn/countries-states-cities-database,PHP,180
 1957456,Dolibarr/dolibarr,PHP,74
 96284790,prasathmani/tinyfilemanager,PHP,90
 286645686,yuantuo666/baiduwp-php,PHP,85
@@ -22,5 +22,5 @@ id,name,lang,new stars
 216849756,v2board/v2board,PHP,149
 75645659,WordPress/wordpress-develop,PHP,50
 36526302,pentestmonkey/php-reverse-shell,PHP,33
-433383766,nextcloud/all-in-one,PHP,180
-513468803,ine-labs/AWSGoat,PHP,168
+433383766,nextcloud/all-in-one,PHP,182
+513468803,ine-labs/AWSGoat,PHP,167
