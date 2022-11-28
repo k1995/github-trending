@@ -1,17 +1,17 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,58
-65252,jekyll/jekyll,Ruby,64
-52281283,mastodon/mastodon,Ruby,976
-53238813,Homebrew/brew,Ruby,82
-13840241,freeCodeCamp/devdocs,Ruby,113
-2293158,rapid7/metasploit-framework,Ruby,59
-2500088,gitlabhq/gitlabhq,Ruby,12
-308770,heartcombo/devise,Ruby,13
-3623050,Homebrew/homebrew-cask,Ruby,26
+65252,jekyll/jekyll,Ruby,62
+52281283,mastodon/mastodon,Ruby,948
+53238813,Homebrew/brew,Ruby,80
+13840241,freeCodeCamp/devdocs,Ruby,112
+2293158,rapid7/metasploit-framework,Ruby,58
+2500088,gitlabhq/gitlabhq,Ruby,11
+308770,heartcombo/devise,Ruby,14
+3623050,Homebrew/homebrew-cask,Ruby,24
 18486300,lewagon/setup,Ruby,40
 202291859,chatwoot/chatwoot,Ruby,57
-88740103,postalserver/postal,Ruby,19
-3314,spree/spree,Ruby,16
+88740103,postalserver/postal,Ruby,20
+3314,spree/spree,Ruby,15
 1918677,fluent/fluentd,Ruby,24
 96395,faker-ruby/faker,Ruby,12
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,27
@@ -19,7 +19,7 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,7
 103766152,github/explore,Ruby,21
 229006,mileszs/wicked_pdf,Ruby,1
-3898922,zammad/zammad,Ruby,8
+3898922,zammad/zammad,Ruby,9
 93163073,dependabot/dependabot-core,Ruby,21
 10088951,TheOdinProject/theodinproject,Ruby,12
 641512,openstreetmap/openstreetmap-website,Ruby,5
