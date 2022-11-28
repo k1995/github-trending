@@ -5,7 +5,7 @@ id,name,lang,new stars
 51980455,alacritty/alacritty,Rust,42
 42489829,rust-lang/rustlings,Rust,35
 114466145,yewstack/yew,Rust,31
-241805592,rome/tools,Rust,36
+241805592,rome/tools,Rust,31
 121898717,dani-garcia/vaultwarden,Rust,18
 436658287,surrealdb/surrealdb,Rust,30
 7270538,ankitects/anki,Rust,19
@@ -13,14 +13,14 @@ id,name,lang,new stars
 115039706,rust-lang/rust-analyzer,Rust,7
 101767772,bytecodealliance/wasmtime,Rust,23
 14164618,tree-sitter/tree-sitter,Rust,14
-226408450,neovide/neovide,Rust,10
+226408450,neovide/neovide,Rust,13
 292065578,qarmin/czkawka,Rust,10
-26850443,rust-lang/rust-clippy,Rust,9
+26850443,rust-lang/rust-clippy,Rust,8
 372172254,tokio-rs/axum,Rust,27
 404320053,foundry-rs/foundry,Rust,6
 296943592,elkowar/eww,Rust,12
 52353408,rust-windowing/winit,Rust,0
-290243101,Orange-OpenSource/hurl,Rust,126
-240971104,AleoHQ/snarkOS,Rust,5
+290243101,Orange-OpenSource/hurl,Rust,136
+240971104,AleoHQ/snarkOS,Rust,7
 494059063,starkware-libs/cairo,Rust,65
 468035313,MirrorX-Desktop/MirrorX,Rust,17
