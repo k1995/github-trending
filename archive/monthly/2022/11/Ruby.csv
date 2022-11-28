@@ -1,17 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,250
-65252,jekyll/jekyll,Ruby,246
-8681349,huginn/huginn,Ruby,265
-7569578,discourse/discourse,Ruby,240
+8514,rails/rails,Ruby,251
+65252,jekyll/jekyll,Ruby,248
+8681349,huginn/huginn,Ruby,266
+7569578,discourse/discourse,Ruby,241
 52281283,mastodon/mastodon,Ruby,6754
-53238813,Homebrew/brew,Ruby,380
-2293158,rapid7/metasploit-framework,Ruby,293
-308770,heartcombo/devise,Ruby,78
-3195124,mperham/sidekiq,Ruby,92
-52855516,Homebrew/homebrew-core,Ruby,130
-96395,faker-ruby/faker,Ruby,64
-1725199,github/linguist,Ruby,125
-361310,teamcapybara/capybara,Ruby,25
+53238813,Homebrew/brew,Ruby,381
+2293158,rapid7/metasploit-framework,Ruby,295
+3195124,mperham/sidekiq,Ruby,93
+52855516,Homebrew/homebrew-core,Ruby,131
+96395,faker-ruby/faker,Ruby,65
+1725199,github/linguist,Ruby,123
+361310,teamcapybara/capybara,Ruby,24
 16549503,github/scientist,Ruby,56
 30337170,rmosolgo/graphql-ruby,Ruby,20
 95798441,athityakumar/colorls,Ruby,37
@@ -21,6 +20,7 @@ id,name,lang,new stars
 14238949,elastic/elasticsearch-rails,Ruby,5
 270054,ffi/ffi,Ruby,10
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,25
+31323121,elastic/docs,Ruby,2
 66497320,DataDog/dd-trace-rb,Ruby,5
 365723058,learn-co-curriculum/phase-4-creating-a-rails-api,Ruby,3
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
