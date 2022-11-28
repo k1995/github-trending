@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,251
-65252,jekyll/jekyll,Ruby,242
-8681349,huginn/huginn,Ruby,265
-7569578,discourse/discourse,Ruby,241
+65252,jekyll/jekyll,Ruby,243
+8681349,huginn/huginn,Ruby,264
+7569578,discourse/discourse,Ruby,239
 52281283,mastodon/mastodon,Ruby,6754
-53238813,Homebrew/brew,Ruby,381
-2293158,rapid7/metasploit-framework,Ruby,296
-308770,heartcombo/devise,Ruby,79
+53238813,Homebrew/brew,Ruby,382
+2293158,rapid7/metasploit-framework,Ruby,294
+308770,heartcombo/devise,Ruby,78
 3195124,mperham/sidekiq,Ruby,94
 52855516,Homebrew/homebrew-core,Ruby,129
 96395,faker-ruby/faker,Ruby,63
-1725199,github/linguist,Ruby,140
+1725199,github/linguist,Ruby,134
 361310,teamcapybara/capybara,Ruby,25
 16549503,github/scientist,Ruby,57
 30337170,rmosolgo/graphql-ruby,Ruby,20
@@ -20,7 +20,7 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,73
 14238949,elastic/elasticsearch-rails,Ruby,4
 270054,ffi/ffi,Ruby,10
-1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,24
+1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,25
 66497320,DataDog/dd-trace-rb,Ruby,5
 365723058,learn-co-curriculum/phase-4-creating-a-rails-api,Ruby,3
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
