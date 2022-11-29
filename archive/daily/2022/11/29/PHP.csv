@@ -1,9 +1,9 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,24
+3482588,danielmiessler/SecLists,PHP,16
 2253830,PHPMailer/PHPMailer,PHP,5
 448045,sebastianbergmann/phpunit,PHP,1
 7549096,doctrine/inflector,PHP,2
-21298446,firefly-iii/firefly-iii,PHP,7
+21298446,firefly-iii/firefly-iii,PHP,6
 37216840,phpDocumentor/TypeResolver,PHP,1
 1398648,symfony/http-foundation,PHP,3
 1398640,symfony/event-dispatcher,PHP,1
@@ -13,14 +13,14 @@ id,name,lang,new stars
 8155345,sebastianbergmann/diff,PHP,3
 1398656,symfony/process,PHP,1
 24498056,symfony/var-dumper,PHP,0
-76064827,mailcow/mailcow-dockerized,PHP,5
-6322699,FreshRSS/FreshRSS,PHP,6
-47508644,pterodactyl/panel,PHP,4
-57961433,openmediavault/openmediavault,PHP,4
+76064827,mailcow/mailcow-dockerized,PHP,4
+6322699,FreshRSS/FreshRSS,PHP,5
+47508644,pterodactyl/panel,PHP,3
+57961433,openmediavault/openmediavault,PHP,3
 129852395,assimon/dujiaoka,PHP,13
-286645686,yuantuo666/baiduwp-php,PHP,49
+286645686,yuantuo666/baiduwp-php,PHP,58
 151089715,symfony/polyfill-intl-idn,PHP,1
-216849756,v2board/v2board,PHP,8
+216849756,v2board/v2board,PHP,7
 75645659,WordPress/wordpress-develop,PHP,1
-433383766,nextcloud/all-in-one,PHP,7
-568333922,youshandefeiyang/IPTV,PHP,63
+433383766,nextcloud/all-in-one,PHP,8
+568333922,youshandefeiyang/IPTV,,63

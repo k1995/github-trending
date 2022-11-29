@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,253
 65252,jekyll/jekyll,Ruby,246
-8681349,huginn/huginn,Ruby,269
-7569578,discourse/discourse,Ruby,242
+8681349,huginn/huginn,Ruby,270
+7569578,discourse/discourse,Ruby,241
 52281283,mastodon/mastodon,Ruby,6754
-53238813,Homebrew/brew,Ruby,380
-2293158,rapid7/metasploit-framework,Ruby,297
+53238813,Homebrew/brew,Ruby,382
+2293158,rapid7/metasploit-framework,Ruby,296
 3195124,mperham/sidekiq,Ruby,96
-52855516,Homebrew/homebrew-core,Ruby,133
+52855516,Homebrew/homebrew-core,Ruby,134
 96395,faker-ruby/faker,Ruby,66
-1725199,github/linguist,Ruby,117
+1725199,github/linguist,Ruby,118
 361310,teamcapybara/capybara,Ruby,24
 16549503,github/scientist,Ruby,59
 30337170,rmosolgo/graphql-ruby,Ruby,20
@@ -18,7 +18,7 @@ id,name,lang,new stars
 11426474,github/choosealicense.com,Ruby,44
 93163073,dependabot/dependabot-core,Ruby,75
 14238949,elastic/elasticsearch-rails,Ruby,5
-270054,ffi/ffi,Ruby,10
+270054,ffi/ffi,Ruby,9
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,26
 31323121,elastic/docs,Ruby,2
 66497320,DataDog/dd-trace-rb,Ruby,5
