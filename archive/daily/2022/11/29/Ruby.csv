@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,9
+8681349,huginn/huginn,Ruby,8
 7569578,discourse/discourse,Ruby,5
-53238813,Homebrew/brew,Ruby,12
+53238813,Homebrew/brew,Ruby,11
 308770,heartcombo/devise,Ruby,3
-3195124,mperham/sidekiq,Ruby,5
-52855516,Homebrew/homebrew-core,Ruby,15
+3195124,mperham/sidekiq,Ruby,3
+52855516,Homebrew/homebrew-core,Ruby,13
 106995,sinatra/sinatra,Ruby,0
 1918677,fluent/fluentd,Ruby,1
-96395,faker-ruby/faker,Ruby,1
+96395,faker-ruby/faker,Ruby,0
 361310,teamcapybara/capybara,Ruby,0
 812393,ruby-grape/grape,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 844146,petergoldstein/dalli,Ruby,1
 229187949,shivammathur/homebrew-php,Ruby,2
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,1
-3947396,getsentry/sentry-ruby,Ruby,0
-3276877,ThrowTheSwitch/Ceedling,Ruby,2
+3947396,getsentry/sentry-ruby,Ruby,1
+3276877,ThrowTheSwitch/Ceedling,Ruby,1
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
