@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,256
-65252,jekyll/jekyll,Ruby,250
-8681349,huginn/huginn,Ruby,268
-7569578,discourse/discourse,Ruby,231
+8514,rails/rails,Ruby,255
+65252,jekyll/jekyll,Ruby,252
+8681349,huginn/huginn,Ruby,269
 52281283,mastodon/mastodon,Ruby,6706
-53238813,Homebrew/brew,Ruby,383
-13840241,freeCodeCamp/devdocs,Ruby,306
+7569578,discourse/discourse,Ruby,231
+53238813,Homebrew/brew,Ruby,386
+13840241,freeCodeCamp/devdocs,Ruby,305
 2293158,rapid7/metasploit-framework,Ruby,298
 308770,heartcombo/devise,Ruby,77
-3623050,Homebrew/homebrew-cask,Ruby,104
+3623050,Homebrew/homebrew-cask,Ruby,105
 3195124,mperham/sidekiq,Ruby,94
-52855516,Homebrew/homebrew-core,Ruby,140
+52855516,Homebrew/homebrew-core,Ruby,139
 1918677,fluent/fluentd,Ruby,77
 96395,faker-ruby/faker,Ruby,66
 361310,teamcapybara/capybara,Ruby,24
@@ -18,7 +18,7 @@ id,name,lang,new stars
 95798441,athityakumar/colorls,Ruby,36
 103766152,github/explore,Ruby,72
 11426474,github/choosealicense.com,Ruby,43
-93163073,dependabot/dependabot-core,Ruby,82
+93163073,dependabot/dependabot-core,Ruby,83
 270054,ffi/ffi,Ruby,10
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,25
 66497320,DataDog/dd-trace-rb,Ruby,5

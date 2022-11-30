@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8681349,huginn/huginn,Ruby,9
 7569578,discourse/discourse,Ruby,2
-53238813,Homebrew/brew,Ruby,16
+53238813,Homebrew/brew,Ruby,18
 308770,heartcombo/devise,Ruby,4
 3195124,mperham/sidekiq,Ruby,1
-52855516,Homebrew/homebrew-core,Ruby,9
+52855516,Homebrew/homebrew-core,Ruby,8
 106995,sinatra/sinatra,Ruby,1
 1918677,fluent/fluentd,Ruby,2
 96395,faker-ruby/faker,Ruby,1
 361310,teamcapybara/capybara,Ruby,1
-812393,ruby-grape/grape,Ruby,0
+812393,ruby-grape/grape,Ruby,1
 47087,carrierwaveuploader/carrierwave,Ruby,2
 211588,paper-trail-gem/paper_trail,Ruby,0
 1548802,activerecord-hackery/ransack,Ruby,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,1
 844146,petergoldstein/dalli,Ruby,0
 229187949,shivammathur/homebrew-php,Ruby,2
-79618507,fluent/fluentd-kubernetes-daemonset,Ruby,1
+79618507,fluent/fluentd-kubernetes-daemonset,Ruby,0
 3947396,getsentry/sentry-ruby,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,1
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0
