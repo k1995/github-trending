@@ -1,12 +1,12 @@
 id,name,lang,new stars
-8681349,huginn/huginn,Ruby,13
+8681349,huginn/huginn,Ruby,12
 7569578,discourse/discourse,Ruby,4
-53238813,Homebrew/brew,Ruby,17
+53238813,Homebrew/brew,Ruby,19
 308770,heartcombo/devise,Ruby,6
 3195124,mperham/sidekiq,Ruby,1
-52855516,Homebrew/homebrew-core,Ruby,4
+52855516,Homebrew/homebrew-core,Ruby,3
 106995,sinatra/sinatra,Ruby,1
-1918677,fluent/fluentd,Ruby,2
+1918677,fluent/fluentd,Ruby,1
 96395,faker-ruby/faker,Ruby,1
 361310,teamcapybara/capybara,Ruby,2
 812393,ruby-grape/grape,Ruby,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,0
 2050163,aws/aws-sdk-ruby,Ruby,0
 1172597,thoughtbot/shoulda-matchers,Ruby,1
-614070,rubygems/rubygems,Ruby,1
+614070,rubygems/rubygems,Ruby,0
 844146,petergoldstein/dalli,Ruby,0
-229187949,shivammathur/homebrew-php,Ruby,3
+229187949,shivammathur/homebrew-php,Ruby,4
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,0
 3947396,getsentry/sentry-ruby,Ruby,1
-3276877,ThrowTheSwitch/Ceedling,Ruby,1
+3276877,ThrowTheSwitch/Ceedling,Ruby,0
 362975222,learn-co-curriculum/phase-3-active-record-mechanics,Ruby,0

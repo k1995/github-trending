@@ -1,15 +1,15 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,253
-65252,jekyll/jekyll,Ruby,252
+65252,jekyll/jekyll,Ruby,251
 8681349,huginn/huginn,Ruby,272
 52281283,mastodon/mastodon,Ruby,6707
 7569578,discourse/discourse,Ruby,231
-53238813,Homebrew/brew,Ruby,386
-13840241,freeCodeCamp/devdocs,Ruby,303
-2293158,rapid7/metasploit-framework,Ruby,297
+53238813,Homebrew/brew,Ruby,390
+13840241,freeCodeCamp/devdocs,Ruby,302
+2293158,rapid7/metasploit-framework,Ruby,298
 308770,heartcombo/devise,Ruby,79
 3623050,Homebrew/homebrew-cask,Ruby,105
-3195124,mperham/sidekiq,Ruby,94
+3195124,mperham/sidekiq,Ruby,93
 52855516,Homebrew/homebrew-core,Ruby,139
 1918677,fluent/fluentd,Ruby,77
 96395,faker-ruby/faker,Ruby,66
@@ -17,9 +17,9 @@ id,name,lang,new stars
 16549503,github/scientist,Ruby,61
 95798441,athityakumar/colorls,Ruby,35
 103766152,github/explore,Ruby,72
-11426474,github/choosealicense.com,Ruby,43
-93163073,dependabot/dependabot-core,Ruby,83
-270054,ffi/ffi,Ruby,10
+11426474,github/choosealicense.com,Ruby,42
+93163073,dependabot/dependabot-core,Ruby,81
+270054,ffi/ffi,Ruby,9
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,25
 66497320,DataDog/dd-trace-rb,Ruby,5
 365723058,learn-co-curriculum/phase-4-creating-a-rails-api,Ruby,3
