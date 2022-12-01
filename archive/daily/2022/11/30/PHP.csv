@@ -1,18 +1,18 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,9
+458058,symfony/symfony,PHP,8
 1420053,guzzle/guzzle,PHP,3
 448045,sebastianbergmann/phpunit,PHP,1
 8678290,barryvdh/laravel-ide-helper,PHP,3
-61490598,PHPOffice/PhpSpreadsheet,PHP,5
-41589337,BookStackApp/BookStack,PHP,10
-1398630,symfony/console,PHP,2
-677464,doctrine/dbal,PHP,3
+61490598,PHPOffice/PhpSpreadsheet,PHP,6
+41589337,BookStackApp/BookStack,PHP,12
+1398630,symfony/console,PHP,1
+677464,doctrine/dbal,PHP,4
 5508585,YOURLS/YOURLS,PHP,20
-12166778,googleapis/google-api-php-client,PHP,3
+12166778,googleapis/google-api-php-client,PHP,2
 14716368,invoiceninja/invoiceninja,PHP,2
 222873550,crater-invoice/crater,PHP,2
-9131292,jenssegers/laravel-mongodb,PHP,3
-6269013,aws/aws-sdk-php,PHP,1
+9131292,jenssegers/laravel-mongodb,PHP,2
+6269013,aws/aws-sdk-php,PHP,2
 248372441,filamentphp/filament,PHP,18
 4565995,phpseclib/phpseclib,PHP,1
 60010673,elementor/elementor,PHP,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 139191005,nunomaduro/larastan,PHP,2
 129852395,assimon/dujiaoka,PHP,14
 286645686,yuantuo666/baiduwp-php,PHP,19
-3193843,drush-ops/drush,PHP,1
-230895883,munafio/chatify,PHP,9
-432767611,CuyZ/Valinor,PHP,11
+3193843,drush-ops/drush,PHP,0
+230895883,munafio/chatify,PHP,10
+432767611,CuyZ/Valinor,PHP,12
