@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,44
+2325298,torvalds/linux,C,46
 10744183,netdata/netdata,C,16
-1357796,emscripten-core/emscripten,C,1
+1357796,emscripten-core/emscripten,C,3
 613829,openresty/lua-nginx-module,C,4
-70127218,espressif/arduino-esp32,C,10
+70127218,espressif/arduino-esp32,C,8
 1856976,libevent/libevent,C,3
 36749153,microsoft/react-native-code-push,C,0
-215973962,DoctorWkt/acwj,C,40
+215973962,DoctorWkt/acwj,C,38
 59771425,zephyrproject-rtos/zephyr,C,5
 2328181,freebsd/freebsd-src,C,4
-5870069,edenhill/librdkafka,C,9
+5870069,edenhill/librdkafka,C,10
 31791482,microsoft/Windows-driver-samples,C,4
 44781140,greenplum-db/gpdb,C,3
 29933948,fluent/fluent-bit,C,2
@@ -18,9 +18,9 @@ id,name,lang,new stars
 6687936,Mbed-TLS/mbedtls,C,5
 45703884,olikraus/u8g2,C,2
 26537135,u-boot/u-boot,C,9
-5128084,Cisco-Talos/clamav,C,27
-541269386,ggerganov/whisper.cpp,C,68
-529363465,tsoding/olive.c,C,16
+5128084,Cisco-Talos/clamav,C,20
+541269386,ggerganov/whisper.cpp,C,65
+529363465,tsoding/olive.c,C,14
 329933755,pimoroni/pimoroni-pico,C,3
 473467406,polygraphene/DirtyPipe-Android,C,3
-558589102,cnlohr/mini-rv32ima,C,55
+558589102,cnlohr/mini-rv32ima,C,50
