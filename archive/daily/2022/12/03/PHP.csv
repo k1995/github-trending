@@ -1,18 +1,18 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,20
 3431193,yiisoft/yii2,PHP,2
-61490598,PHPOffice/PhpSpreadsheet,PHP,5
+61490598,PHPOffice/PhpSpreadsheet,PHP,6
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,5
 41589337,BookStackApp/BookStack,PHP,16
 2884111,magento/magento2,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
-1398630,symfony/console,PHP,1
-12166778,googleapis/google-api-php-client,PHP,3
+1398630,symfony/console,PHP,0
+12166778,googleapis/google-api-php-client,PHP,5
 7577142,doctrine/annotations,PHP,0
-4242230,PHPOffice/PHPWord,PHP,3
+4242230,PHPOffice/PHPWord,PHP,2
 76064827,mailcow/mailcow-dockerized,PHP,8
 12204147,mautic/mautic,PHP,3
-248372441,filamentphp/filament,PHP,5
+248372441,filamentphp/filament,PHP,7
 74386167,vimeo/psalm,PHP,5
 2272514,php-webdriver/php-webdriver,PHP,1
 439861,moodle/moodle,PHP,3
