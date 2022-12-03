@@ -1,15 +1,15 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,8
-27442967,fastlane/fastlane,Ruby,5
-481872,hashicorp/vagrant,Ruby,5
+7569578,discourse/discourse,Ruby,5
+27442967,fastlane/fastlane,Ruby,3
+481872,hashicorp/vagrant,Ruby,4
 308770,heartcombo/devise,Ruby,5
-3195124,mperham/sidekiq,Ruby,4
-1918677,fluent/fluentd,Ruby,1
-1217404,jordansissel/fpm,Ruby,2
+3195124,mperham/sidekiq,Ruby,2
+1918677,fluent/fluentd,Ruby,2
+1217404,jordansissel/fpm,Ruby,1
 96395,faker-ruby/faker,Ruby,1
 1725199,github/linguist,Ruby,1
 611921,activeadmin/activeadmin,Ruby,1
-275604,resque/resque,Ruby,4
+275604,resque/resque,Ruby,3
 6529205,varvet/pundit,Ruby,0
 108278,chef/chef,Ruby,2
 11412473,ankane/searchkick,Ruby,2
@@ -18,9 +18,9 @@ id,name,lang,new stars
 229006,mileszs/wicked_pdf,Ruby,1
 12357002,sidekiq-cron/sidekiq-cron,Ruby,1
 174796313,ruby/rbs,Ruby,2
-80657370,pay-rails/pay,Ruby,5
-209731662,ruby/debug,Ruby,1
+80657370,pay-rails/pay,Ruby,3
+209731662,ruby/debug,Ruby,0
 467296689,bullet-train-co/bullet_train,Ruby,1
-3276877,ThrowTheSwitch/Ceedling,Ruby,1
+3276877,ThrowTheSwitch/Ceedling,Ruby,0
 212272090,CMSgov/price-transparency-guide,Ruby,0
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0

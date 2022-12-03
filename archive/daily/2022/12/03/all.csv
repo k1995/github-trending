@@ -1,26 +1,26 @@
 id,name,lang,new stars
-71220757,swisskyrepo/PayloadsAllTheThings,Python,42
-231283452,excalidraw/excalidraw,TypeScript,79
-212639071,bregman-arie/devops-exercises,Python,32
-90563585,chubin/cheat.sh,Python,87
-108761645,nocodb/nocodb,TypeScript,26
-4524181,facebook/folly,C++,40
-254832799,Z4nzu/hackingtool,Python,208
-419347358,PKUFlyingPig/cs-self-learning,HTML,660
-350360184,calcom/cal.com,TypeScript,30
-437011,openzfs/zfs,C,17
-72685026,MicrosoftDocs/azure-docs,PowerShell,18
-46398090,datahub-project/datahub,Java,95
-525592995,invoke-ai/InvokeAI,Jupyter Notebook,259
-54435102,benthosdev/benthos,Go,36
-54109344,charlax/engineering-management,Shell,162
-566576114,apple/ml-stable-diffusion,Python,873
-508131663,hehonghui/awesome-english-ebooks,CSS,60
-240971104,AleoHQ/snarkOS,Rust,51
-159918462,Bogdanp/awesome-advent-of-code,,35
-431319532,Nixtla/statsforecast,Jupyter Notebook,34
-538130130,thangchung/go-coffeeshop,Go,498
-272394704,google/security-research,Go,15
-532163204,Cysharp/MemoryPack,C#,21
-429197393,kotlin-hands-on/advent-of-code-kotlin-template,Kotlin,21
-563325209,bobby-didcoding/drf_course,Dockerfile,6
+71220757,swisskyrepo/PayloadsAllTheThings,Python,50
+231283452,excalidraw/excalidraw,TypeScript,115
+212639071,bregman-arie/devops-exercises,Python,60
+90563585,chubin/cheat.sh,Python,94
+108761645,nocodb/nocodb,TypeScript,37
+4524181,facebook/folly,C++,21
+254832799,Z4nzu/hackingtool,Python,213
+419347358,PKUFlyingPig/cs-self-learning,HTML,570
+350360184,calcom/cal.com,TypeScript,35
+437011,openzfs/zfs,C,32
+72685026,MicrosoftDocs/azure-docs,PowerShell,17
+46398090,datahub-project/datahub,Java,84
+525592995,invoke-ai/InvokeAI,Jupyter Notebook,281
+54435102,benthosdev/benthos,Go,45
+54109344,charlax/engineering-management,Shell,146
+566576114,apple/ml-stable-diffusion,Python,639
+508131663,hehonghui/awesome-english-ebooks,CSS,63
+240971104,AleoHQ/snarkOS,Rust,59
+159918462,Bogdanp/awesome-advent-of-code,,49
+431319532,Nixtla/statsforecast,Jupyter Notebook,47
+538130130,thangchung/go-coffeeshop,Go,425
+272394704,google/security-research,Go,17
+532163204,Cysharp/MemoryPack,C#,33
+429197393,kotlin-hands-on/advent-of-code-kotlin-template,Kotlin,28
+563325209,bobby-didcoding/drf_course,Dockerfile,8
