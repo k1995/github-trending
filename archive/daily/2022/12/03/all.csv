@@ -1,26 +1,26 @@
 id,name,lang,new stars
-612230,nvm-sh/nvm,Shell,37
-15111821,grafana/grafana,TypeScript,120
-83999700,sdmg15/Best-websites-a-programmer-should-visit,,270
-6838921,prometheus/prometheus,Go,55
-35866694,RocketChat/Rocket.Chat,TypeScript,50
-4524181,facebook/folly,C++,21
-254832799,Z4nzu/hackingtool,Python,336
-453717720,AykutSarac/jsoncrack.com,TypeScript,84
-419347358,PKUFlyingPig/cs-self-learning,HTML,662
-118105436,golang-migrate/migrate,Go,36
-72685026,MicrosoftDocs/azure-docs,PowerShell,19
-291438522,siyuan-note/siyuan,TypeScript,121
-420628737,waydabber/BetterDisplay,,221
-464827989,apihero-run/jsonhero-web,TypeScript,139
-46398090,datahub-project/datahub,Java,84
-159271175,sqlalchemy/sqlalchemy,Python,44
-261392630,google/accompanist,Kotlin,54
-337054443,xManager-v2/xManager-Spotify,Java,44
-474839179,hiroi-sora/Umi-OCR,Python,101
-519882617,gbj/leptos,Rust,250
-240971104,AleoHQ/snarkOS,Rust,48
-538130130,thangchung/go-coffeeshop,Go,493
-557545904,t3l3machus/Villain,Python,108
-550752161,huggingface/diffusion-models-class,Jupyter Notebook,65
-537972211,open-mmlab/mmyolo,Python,25
+71220757,swisskyrepo/PayloadsAllTheThings,Python,42
+231283452,excalidraw/excalidraw,TypeScript,79
+212639071,bregman-arie/devops-exercises,Python,18
+90563585,chubin/cheat.sh,Python,75
+108761645,nocodb/nocodb,TypeScript,22
+4524181,facebook/folly,C++,37
+254832799,Z4nzu/hackingtool,Python,213
+419347358,PKUFlyingPig/cs-self-learning,HTML,660
+350360184,calcom/cal.com,TypeScript,30
+437011,openzfs/zfs,C,8
+72685026,MicrosoftDocs/azure-docs,PowerShell,18
+46398090,datahub-project/datahub,Java,92
+525592995,invoke-ai/InvokeAI,Jupyter Notebook,259
+54435102,benthosdev/benthos,Go,36
+54109344,charlax/engineering-management,Shell,169
+566576114,apple/ml-stable-diffusion,Python,1017
+508131663,hehonghui/awesome-english-ebooks,CSS,60
+240971104,AleoHQ/snarkOS,Rust,51
+159918462,Bogdanp/awesome-advent-of-code,,35
+431319532,Nixtla/statsforecast,Jupyter Notebook,34
+538130130,thangchung/go-coffeeshop,Go,498
+272394704,google/security-research,Go,15
+532163204,Cysharp/MemoryPack,C#,21
+429197393,kotlin-hands-on/advent-of-code-kotlin-template,Kotlin,17
+563325209,bobby-didcoding/drf_course,Dockerfile,6
