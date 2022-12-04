@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,625
+1181927,bitcoin/bitcoin,C++,623
 5108051,opencv/opencv,C++,616
-11171548,nlohmann/json,C++,460
+11171548,nlohmann/json,C++,458
 116167731,yuzu-emu/yuzu,C++,609
 19374812,telegramdesktop/tdesktop,C++,379
 191820100,google/mediapipe,C++,379
@@ -10,17 +10,17 @@ id,name,lang,new stars
 33014811,notepad-plus-plus/notepad-plus-plus,C++,379
 76222419,Tencent/mars,C++,101
 32969220,esp8266/Arduino,C++,105
-194269070,skyline-emu/skyline,C++,617
-76990209,Aircoookie/WLED,C++,294
-299510783,rui314/mold,C++,579
+194269070,skyline-emu/skyline,C++,615
+76990209,Aircoookie/WLED,C++,295
+299510783,rui314/mold,C++,578
 106558568,doitsujin/dxvk,C++,416
 1690480,qgis/QGIS,C++,127
-184657328,NVIDIA/TensorRT,C++,176
-309512982,redpanda-data/redpanda,C++,418
+184657328,NVIDIA/TensorRT,C++,177
+309512982,redpanda-data/redpanda,C++,433
 115883761,tdlib/td,C++,112
 372536760,oceanbase/oceanbase,C++,218
-470730648,hyprwm/Hyprland,C++,720
-433303514,yuesong-feng/30dayMakeCppServer,C++,625
+470730648,hyprwm/Hyprland,C++,723
+433303514,yuesong-feng/30dayMakeCppServer,C++,622
 125687069,axstin/rbxfpsunlocker,C++,229
-507861208,PaddlePaddle/FastDeploy,C++,591
-552676144,alibaba/havenask,C++,285
+507861208,PaddlePaddle/FastDeploy,C++,592
+552676144,alibaba/havenask,C++,284
