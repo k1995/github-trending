@@ -1,8 +1,8 @@
 id,name,lang,new stars
 6296790,spring-projects/spring-boot,Java,12
 20300177,google/guava,Java,7
-19148949,PhilJay/MPAndroidChart,Java,5
-146633589,alibaba/arthas,Java,9
+19148949,PhilJay/MPAndroidChart,Java,6
+146633589,alibaba/arthas,Java,10
 2700159,alibaba/druid,Java,5
 75643096,material-components/material-components-android,Java,5
 174765647,heibaiying/BigData-Notes,Java,22
@@ -11,9 +11,9 @@ id,name,lang,new stars
 332357698,YunaiV/ruoyi-vue-pro,Java,11
 3148979,spring-projects/spring-security,Java,3
 46398090,datahub-project/datahub,Java,77
-99919302,apache/doris,Java,6
+99919302,apache/doris,Java,7
 226096934,jeecgboot/JimuReport,Java,4
-337054443,xManager-v2/xManager-Spotify,Java,37
+337054443,xManager-v2/xManager-Spotify,Java,40
 54298946,camunda/zeebe,Java,0
 482425877,alibaba/fastjson2,Java,1
 146941185,firebase/firebase-android-sdk,Java,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 206414745,hyperledger/besu,Java,2
 257262622,stacksimplify/aws-eks-kubernetes-masterclass,Java,1
 341374920,apache/solr,Java,3
-561730219,krahets/hello-algo,Java,34
+561730219,krahets/hello-algo,Java,33
 321533933,gaucho-matrero/altoclef,Java,8

@@ -1,10 +1,10 @@
 id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,44
-49609581,PowerShell/PowerShell,C#,16
-17620347,dotnet/aspnetcore,C#,4
+184456251,microsoft/PowerToys,C#,43
+49609581,PowerShell/PowerShell,C#,15
+17620347,dotnet/aspnetcore,C#,5
 262395224,dotnet/maui,C#,8
 29078997,dotnet/roslyn,C#,2
-14964475,AvaloniaUI/Avalonia,C#,12
+14964475,AvaloniaUI/Avalonia,C#,15
 102904613,Unity-Technologies/ml-agents,C#,4
 126486701,Unity-Technologies/UnityCsReference,C#,2
 28232663,dotnet/orleans,C#,4
@@ -14,13 +14,13 @@ id,name,lang,new stars
 142480903,microsoft/microsoft-ui-xaml,C#,2
 187499284,Cysharp/UniTask,C#,4
 81770291,neuecc/MessagePack-CSharp,C#,5
-66709088,ClosedXML/ClosedXML,C#,5
+66709088,ClosedXML/ClosedXML,C#,4
 1645954,EasyNetQ/EasyNetQ,C#,4
 155757874,microsoft/WinUI-Gallery,C#,2
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,0
 373274891,CommunityToolkit/Maui,C#,7
-532163204,Cysharp/MemoryPack,C#,44
+532163204,Cysharp/MemoryPack,C#,48
 133644276,architdate/PKHeX-Plugins,C#,5
-563560648,CCob/Volumiser,C#,5
+563560648,CCob/Volumiser,C#,4
 112706767,encse/adventofcode,C#,6
 570128635,LegoFigure11/RaidCrawler,C#,4
