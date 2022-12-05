@@ -1,26 +1,26 @@
 id,name,lang,new stars
-22790488,iluwatar/java-design-patterns,Java,316
-157616880,iptv-org/iptv,JavaScript,439
-35866694,RocketChat/Rocket.Chat,TypeScript,385
-163883279,nektos/act,Go,1236
-269336148,sickcodes/Docker-OSX,Shell,329
-4524181,facebook/folly,C++,140
-275993885,appsmithorg/appsmith,TypeScript,319
-419347358,PKUFlyingPig/cs-self-learning,HTML,4181
-196353673,taosdata/TDengine,C,103
-323048702,OpenBB-finance/OpenBBTerminal,Python,419
-76679496,kuchin/awesome-cto,,3631
-120231691,Ryujinx/Ryujinx,C#,653
-190416463,actions/runner-images,PowerShell,67
-525592995,invoke-ai/InvokeAI,Jupyter Notebook,1234
-569927055,Stability-AI/stablediffusion,Python,1070
-392603437,jxxghp/nas-tools,Python,165
-344554014,TomSchimansky/CustomTkinter,Python,661
+22790488,iluwatar/java-design-patterns,Java,303
+157616880,iptv-org/iptv,JavaScript,433
+35866694,RocketChat/Rocket.Chat,TypeScript,383
+163883279,nektos/act,Go,1048
+269336148,sickcodes/Docker-OSX,Shell,342
+4524181,facebook/folly,C++,141
+275993885,appsmithorg/appsmith,TypeScript,320
+254832799,Z4nzu/hackingtool,Python,1560
+419347358,PKUFlyingPig/cs-self-learning,HTML,4156
+323048702,OpenBB-finance/OpenBBTerminal,Python,410
+76679496,kuchin/awesome-cto,,3547
+120231691,Ryujinx/Ryujinx,C#,620
+190416463,actions/runner-images,PowerShell,64
+525592995,invoke-ai/InvokeAI,Jupyter Notebook,1367
+569927055,Stability-AI/stablediffusion,Python,1050
+392603437,jxxghp/nas-tools,Python,167
+344554014,TomSchimansky/CustomTkinter,Python,673
 519882617,gbj/leptos,Rust,1432
-290243101,Orange-OpenSource/hurl,Rust,349
-541269386,ggerganov/whisper.cpp,C,563
-240971104,AleoHQ/snarkOS,Rust,230
-454372510,memphisdev/memphis-broker,Go,450
-519895363,GyulyVGC/sniffnet,Rust,349
-562778457,runfinch/finch,Go,441
-364304792,davidfowl/TodoApi,C#,286
+290243101,Orange-OpenSource/hurl,Rust,346
+541269386,ggerganov/whisper.cpp,C,524
+240971104,AleoHQ/snarkOS,Rust,239
+454372510,memphisdev/memphis-broker,Go,436
+562778457,runfinch/finch,Go,405
+364304792,davidfowl/TodoApi,C#,264
+550752161,huggingface/diffusion-models-class,Jupyter Notebook,698
