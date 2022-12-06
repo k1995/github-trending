@@ -1,21 +1,21 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,618
+1181927,bitcoin/bitcoin,C++,617
 5108051,opencv/opencv,C++,613
-11171548,nlohmann/json,C++,463
+11171548,nlohmann/json,C++,464
 4524181,facebook/folly,C++,279
 116167731,yuzu-emu/yuzu,C++,620
 19374812,telegramdesktop/tdesktop,C++,378
 191820100,google/mediapipe,C++,385
 19953044,google/flatbuffers,C++,486
-65750241,expo/expo,C++,342
-33014811,notepad-plus-plus/notepad-plus-plus,C++,387
+65750241,expo/expo,TypeScript,342
+33014811,notepad-plus-plus/notepad-plus-plus,C++,388
 76222419,Tencent/mars,C++,103
 2200856,MarlinFirmware/Marlin,C++,124
 194269070,skyline-emu/skyline,C++,618
 76990209,Aircoookie/WLED,C++,304
 106558568,doitsujin/dxvk,C++,417
 184657328,NVIDIA/TensorRT,C++,180
-309512982,redpanda-data/redpanda,C++,401
+309512982,redpanda-data/redpanda,C++,402
 115883761,tdlib/td,C++,110
 372536760,oceanbase/oceanbase,C++,222
 224908244,WasmEdge/WasmEdge,C++,670
