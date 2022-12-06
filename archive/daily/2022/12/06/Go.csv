@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,40
+23096959,golang/go,Go,39
 11225014,etcd-io/etcd,Go,12
 30215630,go-kit/kit,Go,7
 43723161,helm/helm,Go,7
@@ -14,7 +14,7 @@ id,name,lang,new stars
 7823926,prometheus/client_golang,Go,3
 58184885,kubernetes/kube-state-metrics,Go,1
 330616364,evrone/go-clean-template,Go,38
-93446042,hashicorp/terraform-provider-azurerm,Go,1
+93446042,hashicorp/terraform-provider-azurerm,Go,2
 19608522,googleapis/google-cloud-go,Go,3
 311639195,karmada-io/karmada,Go,3
 179166439,MariaLetta/free-gophers-pack,Go,43

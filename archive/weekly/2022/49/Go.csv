@@ -1,5 +1,5 @@
 id,name,lang,new stars
-11225014,etcd-io/etcd,Go,83
+11225014,etcd-io/etcd,Go,82
 17803236,rclone/rclone,Go,138
 17728164,hashicorp/terraform,Go,140
 14125254,hashicorp/consul,Go,38
@@ -19,7 +19,7 @@ id,name,lang,new stars
 27096595,googleapis/google-api-go-client,Go,15
 19608522,googleapis/google-cloud-go,Go,10
 57912964,kubernetes/enhancements,Go,15
-454372510,memphisdev/memphis-broker,Go,297
+454372510,memphisdev/memphis-broker,Go,294
 562778457,runfinch/finch,Go,279
 299054922,alpkeskin/mosint,Go,179
 570159378,google/mangle,Go,269

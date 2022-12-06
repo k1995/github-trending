@@ -1,8 +1,8 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,4
 27442967,fastlane/fastlane,Ruby,3
-2293158,rapid7/metasploit-framework,Ruby,12
-481872,hashicorp/vagrant,Ruby,3
+2293158,rapid7/metasploit-framework,Ruby,7
+481872,hashicorp/vagrant,Ruby,4
 308770,heartcombo/devise,Ruby,1
 202291859,chatwoot/chatwoot,Ruby,8
 2203645,CocoaPods/CocoaPods,Ruby,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 200302808,ViewComponent/view_component,Ruby,1
 588600,brianmario/mysql2,Ruby,0
 70148,newrelic/newrelic-ruby-agent,Ruby,0
-467296689,bullet-train-co/bullet_train,Ruby,5
+467296689,bullet-train-co/bullet_train,Ruby,4
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0
