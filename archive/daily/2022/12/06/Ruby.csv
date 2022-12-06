@@ -1,16 +1,16 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,4
 27442967,fastlane/fastlane,Ruby,3
-2293158,rapid7/metasploit-framework,Ruby,10
+2293158,rapid7/metasploit-framework,Ruby,12
 481872,hashicorp/vagrant,Ruby,3
 308770,heartcombo/devise,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,7
+202291859,chatwoot/chatwoot,Ruby,8
 2203645,CocoaPods/CocoaPods,Ruby,1
 3195124,mperham/sidekiq,Ruby,0
-4095287,rubocop/rubocop,Ruby,2
+4095287,rubocop/rubocop,Ruby,1
 812393,ruby-grape/grape,Ruby,0
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,2
-108278,chef/chef,Ruby,4
+108278,chef/chef,Ruby,3
 1145832,pry/pry,Ruby,0
 6899875,opf/openproject,Ruby,4
 447184,rspec/rspec-rails,Ruby,0
@@ -18,8 +18,8 @@ id,name,lang,new stars
 39706711,hartator/wayback-machine-downloader,Ruby,6
 137805,redis/redis-rb,Ruby,1
 79352,mikel/mail,Ruby,1
-46698467,ankane/strong_migrations,Ruby,1
-200302808,ViewComponent/view_component,Ruby,2
+46698467,ankane/strong_migrations,Ruby,2
+200302808,ViewComponent/view_component,Ruby,1
 588600,brianmario/mysql2,Ruby,0
 70148,newrelic/newrelic-ruby-agent,Ruby,0
 467296689,bullet-train-co/bullet_train,Ruby,5
