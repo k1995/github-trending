@@ -1,20 +1,20 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,689
-246335987,ventoy/Ventoy,C,340
+246335987,ventoy/Ventoy,C,397
 1614410,FFmpeg/FFmpeg,C,169
-102578345,coolsnowwolf/lede,C,135
+102578345,coolsnowwolf/lede,C,136
 20159867,nothings/stb,C,94
 196353673,taosdata/TDengine,C,102
 80286288,arendst/Tasmota,C,47
-70127218,espressif/arduino-esp32,C,56
+70127218,espressif/arduino-esp32,C,57
 437011,openzfs/zfs,C,180
 14049216,cockpit-project/cockpit,C,121
 215973962,DoctorWkt/acwj,C,468
 59771425,zephyrproject-rtos/zephyr,C,29
-19112091,vanhauser-thc/thc-hydra,C,49
+19112091,vanhauser-thc/thc-hydra,C,53
 2328181,freebsd/freebsd-src,C,23
-59676171,Klipper3d/klipper,C,92
-40556106,wazuh/wazuh,C,60
+59676171,Klipper3d/klipper,C,91
+40556106,wazuh/wazuh,C,59
 400501136,deepmind/mujoco,C,27
 327491895,peng-zhihui/HoloCubic,C,31
 29933948,fluent/fluent-bit,C,20
@@ -22,5 +22,5 @@ id,name,lang,new stars
 122993186,remzi-arpacidusseau/ostep-code,C,15
 541269386,ggerganov/whisper.cpp,C,437
 331380723,raspberrypi/pico-sdk,C,25
-423747351,google/rune,C,529
+423747351,google/rune,C,448
 511278970,sultim-t/vkquake-rt,C,40
