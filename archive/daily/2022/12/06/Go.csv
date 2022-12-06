@@ -1,13 +1,13 @@
 id,name,lang,new stars
 23096959,golang/go,Go,36
-11225014,etcd-io/etcd,Go,18
+11225014,etcd-io/etcd,Go,14
 30215630,go-kit/kit,Go,6
 43723161,helm/helm,Go,5
 50613991,goharbor/harbor,Go,11
 21827146,seaweedfs/seaweedfs,Go,46
 4925652,robfig/cron,Go,6
 367758176,dtm-labs/dtm,Go,15
-68964263,prometheus-operator/prometheus-operator,Go,9
+68964263,prometheus-operator/prometheus-operator,Go,8
 9120526,jackc/pgx,Go,5
 35003822,johnkerl/miller,Go,10
 299832860,livekit/livekit,Go,1
@@ -18,9 +18,9 @@ id,name,lang,new stars
 19608522,googleapis/google-cloud-go,Go,3
 311639195,karmada-io/karmada,Go,3
 179166439,MariaLetta/free-gophers-pack,Go,9
-440220648,Mikaelemmmm/go-zero-looklook,Go,12
+440220648,Mikaelemmmm/go-zero-looklook,Go,11
 538130130,thangchung/go-coffeeshop,Go,284
-254161684,doitintl/kube-no-trouble,Go,12
+254161684,doitintl/kube-no-trouble,Go,13
 524395590,FxPool/FXMinerProxy,Go,21
 573982889,m1guelpf/chatgpt-telegram,Go,255
-573538566,danielgross/whatsapp-gpt,Go,105
+573538566,danielgross/whatsapp-gpt,Go,94

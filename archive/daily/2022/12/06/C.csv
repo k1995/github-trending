@@ -2,14 +2,14 @@ id,name,lang,new stars
 2325298,torvalds/linux,C,77
 10744183,netdata/netdata,C,17
 156018,redis/redis,C,14
-569041,curl/curl,C,14
-102578345,coolsnowwolf/lede,C,27
+569041,curl/curl,C,13
+102578345,coolsnowwolf/lede,C,25
 1357796,emscripten-core/emscripten,C,7
 78281075,SpacehuhnTech/esp8266_deauther,C,9
-65899476,espressif/esp-idf,C,12
+65899476,espressif/esp-idf,C,4
 1856976,libevent/libevent,C,8
 50874442,citusdata/citus,C,8
-19112091,vanhauser-thc/thc-hydra,C,28
+19112091,vanhauser-thc/thc-hydra,C,27
 16734696,meetecho/janus-gateway,C,3
 59676171,Klipper3d/klipper,C,9
 3681392,greatscottgadgets/hackrf,C,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 178089499,TheWover/donut,C,2
 200663555,axboe/liburing,C,2
 276293034,apache/age,C,21
-12756230,vermaseren/form,C,31
+12756230,vermaseren/form,C,24
 564757991,infraredCoding/cerveur,C,25
 573760166,Wh04m1001/SysmonEoP,C,23
 573328077,antirez/adventofcode2022,C,16
