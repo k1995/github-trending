@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,241
-52281283,mastodon/mastodon,Ruby,5224
-8681349,huginn/huginn,Ruby,251
+8514,rails/rails,Ruby,238
+52281283,mastodon/mastodon,Ruby,5487
+8681349,huginn/huginn,Ruby,253
 7569578,discourse/discourse,Ruby,221
 53238813,Homebrew/brew,Ruby,379
-13840241,freeCodeCamp/devdocs,Ruby,312
-308770,heartcombo/devise,Ruby,75
-3623050,Homebrew/homebrew-cask,Ruby,98
-3195124,mperham/sidekiq,Ruby,82
+13840241,freeCodeCamp/devdocs,Ruby,313
+308770,heartcombo/devise,Ruby,76
+3623050,Homebrew/homebrew-cask,Ruby,97
+3195124,mperham/sidekiq,Ruby,85
 1918677,fluent/fluentd,Ruby,75
-1725199,github/linguist,Ruby,107
-16549503,github/scientist,Ruby,57
+1725199,github/linguist,Ruby,106
+16549503,github/scientist,Ruby,58
 355893,github/markup,Ruby,30
 103766152,github/explore,Ruby,68
 93163073,dependabot/dependabot-core,Ruby,61
@@ -20,7 +20,7 @@ id,name,lang,new stars
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,13
 229187949,shivammathur/homebrew-php,Ruby,54
 467296689,bullet-train-co/bullet_train,Ruby,39
-99692620,renatolond/mastodon-twitter-poster,Ruby,133
+99692620,renatolond/mastodon-twitter-poster,Ruby,135
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,5
 365723058,learn-co-curriculum/phase-4-creating-a-rails-api,Ruby,3
 481257784,brewchetta/phase-3-practice-code-challenge-animal-shelter,Ruby,0
