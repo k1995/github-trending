@@ -1,14 +1,14 @@
 id,name,lang,new stars
-246335987,ventoy/Ventoy,C,54
+246335987,ventoy/Ventoy,C,68
 1903522,php/php-src,C,18
 569041,curl/curl,C,17
 18666758,pjreddie/darknet,C,7
-1357796,emscripten-core/emscripten,C,7
-1856976,libevent/libevent,C,3
+1357796,emscripten-core/emscripten,C,8
+1856976,libevent/libevent,C,8
 39242894,coturn/coturn,C,5
 35780977,ImageMagick/ImageMagick,C,6
-105944401,yugabyte/yugabyte-db,C,7
-19112091,vanhauser-thc/thc-hydra,C,20
+105944401,yugabyte/yugabyte-db,C,4
+19112091,vanhauser-thc/thc-hydra,C,26
 2328181,freebsd/freebsd-src,C,6
 31791482,microsoft/Windows-driver-samples,C,7
 400501136,deepmind/mujoco,C,10
@@ -20,7 +20,7 @@ id,name,lang,new stars
 15333809,open62541/open62541,C,1
 276293034,apache/age,C,24
 142917961,flutter/codelabs,C,3
-564757991,infraredCoding/cerveur,C,27
-573328077,antirez/adventofcode2022,C,16
+564757991,infraredCoding/cerveur,C,23
+573328077,antirez/adventofcode2022,C,14
 117596453,Seneca-144100/IPC-Project,C,0
 552865753,themanoftalent/c_languageBanu,C,4
