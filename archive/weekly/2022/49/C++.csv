@@ -2,9 +2,9 @@ id,name,lang,new stars
 9384267,electron/electron,C++,147
 5108051,opencv/opencv,C++,134
 44838949,apple/swift,C++,92
-65600975,pytorch/pytorch,C++,197
+65600975,pytorch/pytorch,C++,196
 23357588,protocolbuffers/protobuf,C++,97
-15634981,godotengine/godot,C++,246
+15634981,godotengine/godot,C++,243
 22887094,tesseract-ocr/tesseract,C++,96
 11171548,nlohmann/json,C++,100
 39840932,google/googletest,C++,48
@@ -20,7 +20,7 @@ id,name,lang,new stars
 3386088,NixOS/nix,C++,48
 46374199,IntelRealSense/librealsense,C++,22
 52882701,prusa3d/PrusaSlicer,C++,30
-224908244,WasmEdge/WasmEdge,C++,486
-23496542,openai/triton,C++,111
+224908244,WasmEdge/WasmEdge,C++,493
+23496542,openai/triton,C++,120
 183564981,BlackINT3/OpenArk,C++,68
 427306303,InoriRus/Kyty,C++,35
