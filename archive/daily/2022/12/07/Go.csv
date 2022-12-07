@@ -1,10 +1,10 @@
 id,name,lang,new stars
 23096959,golang/go,Go,34
 11225014,etcd-io/etcd,Go,12
-30215630,go-kit/kit,Go,8
-43723161,helm/helm,Go,13
+30215630,go-kit/kit,Go,5
+43723161,helm/helm,Go,14
 50613991,goharbor/harbor,Go,14
-21827146,seaweedfs/seaweedfs,Go,12
+21827146,seaweedfs/seaweedfs,Go,11
 4925652,robfig/cron,Go,10
 367758176,dtm-labs/dtm,Go,16
 68964263,prometheus-operator/prometheus-operator,Go,8
@@ -13,14 +13,14 @@ id,name,lang,new stars
 299832860,livekit/livekit,Go,5
 7823926,prometheus/client_golang,Go,3
 330616364,evrone/go-clean-template,Go,37
-58184885,kubernetes/kube-state-metrics,Go,1
+58184885,kubernetes/kube-state-metrics,Go,3
 93446042,hashicorp/terraform-provider-azurerm,Go,2
-19608522,googleapis/google-cloud-go,Go,3
-311639195,karmada-io/karmada,Go,2
+19608522,googleapis/google-cloud-go,Go,0
+311639195,karmada-io/karmada,Go,3
 179166439,MariaLetta/free-gophers-pack,Go,78
 440220648,Mikaelemmmm/go-zero-looklook,Go,13
 538130130,thangchung/go-coffeeshop,Go,104
-254161684,doitintl/kube-no-trouble,Go,13
+254161684,doitintl/kube-no-trouble,Go,11
 573982889,m1guelpf/chatgpt-telegram,Go,232
 524395590,FxPool/FXMinerProxy,Go,20
 573538566,danielgross/whatsapp-gpt,Go,77

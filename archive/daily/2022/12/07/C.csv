@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,59
+2325298,torvalds/linux,C,65
 10744183,netdata/netdata,C,18
 156018,redis/redis,C,9
 569041,curl/curl,C,18
@@ -7,20 +7,20 @@ id,name,lang,new stars
 1357796,emscripten-core/emscripten,C,7
 78281075,SpacehuhnTech/esp8266_deauther,C,6
 65899476,espressif/esp-idf,C,3
-1856976,libevent/libevent,C,8
+1856976,libevent/libevent,C,3
 50874442,citusdata/citus,C,6
 19112091,vanhauser-thc/thc-hydra,C,20
 16734696,meetecho/janus-gateway,C,0
-59676171,Klipper3d/klipper,C,3
-3681392,greatscottgadgets/hackrf,C,2
+59676171,Klipper3d/klipper,C,4
+3681392,greatscottgadgets/hackrf,C,1
 23007417,colmap/colmap,C,4
 146155284,SanderMertens/flecs,C,1
 34807561,nanopb/nanopb,C,2
-283280154,jomjol/AI-on-the-edge-device,C,8
+283280154,jomjol/AI-on-the-edge-device,C,7
 178089499,TheWover/donut,C,6
 200663555,axboe/liburing,C,1
-276293034,apache/age,C,21
-12756230,vermaseren/form,C,11
-564757991,infraredCoding/cerveur,C,22
-573760166,Wh04m1001/SysmonEoP,C,15
-573328077,antirez/adventofcode2022,C,14
+276293034,apache/age,C,24
+12756230,vermaseren/form,C,8
+564757991,infraredCoding/cerveur,C,27
+573760166,Wh04m1001/SysmonEoP,C,14
+573328077,antirez/adventofcode2022,C,16
