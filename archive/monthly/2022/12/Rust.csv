@@ -1,20 +1,19 @@
 id,name,lang,new stars
-133442384,denoland/deno,Rust,700
+133442384,denoland/deno,Rust,701
 299354207,rustdesk/rustdesk,Rust,2118
 241805592,rome/tools,Rust,2099
 234798675,bevyengine/bevy,Rust,1278
 121898717,dani-garcia/vaultwarden,Rust,726
 67836789,tokio-rs/tokio,Rust,388
+152572186,wasmerio/wasmer,Rust,635
+135201145,RustPython/RustPython,Rust,411
 17420913,rust-lang/cargo,Rust,193
 278933035,RustScan/RustScan,Rust,1084
-109872620,paritytech/substrate,Rust,128
 372172254,tokio-rs/axum,Rust,666
 136510559,Byron/gitoxide,Rust,684
 404320053,foundry-rs/foundry,Rust,235
-183929744,erikgrinaker/toydb,Rust,745
 523043277,charliermarsh/ruff,Rust,962
-268163609,qdrant/qdrant,Rust,371
-337322967,SeaQL/sea-orm,Rust,221
+337322967,SeaQL/sea-orm,Rust,222
 551376520,tw93/Pake,Rust,1221
 519882617,gbj/leptos,Rust,2187
 290243101,Orange-OpenSource/hurl,Rust,1083
@@ -23,4 +22,5 @@ id,name,lang,new stars
 240971104,AleoHQ/snarkOS,Rust,449
 500391407,buckyos/CYFS,Rust,450
 440810736,EAimTY/tuic,Rust,247
+523436104,a16z/helios,Rust,1117
 531874744,aurae-runtime/aurae,Rust,461
