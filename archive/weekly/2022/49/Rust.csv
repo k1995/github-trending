@@ -4,7 +4,7 @@ id,name,lang,new stars
 196701619,tauri-apps/tauri,Rust,388
 130688011,meilisearch/meilisearch,Rust,183
 21938243,rust-unofficial/awesome-rust,Rust,191
-121898717,dani-garcia/vaultwarden,Rust,224
+121898717,dani-garcia/vaultwarden,Rust,226
 107505869,firecracker-microvm/firecracker,Rust,84
 135201145,RustPython/RustPython,Rust,190
 165522651,emilk/egui,Rust,156
@@ -15,7 +15,7 @@ id,name,lang,new stars
 523043277,charliermarsh/ruff,Rust,215
 268163609,qdrant/qdrant,Rust,183
 551376520,tw93/Pake,Rust,588
-165289175,tokio-rs/tracing,Rust,38
+165289175,tokio-rs/tracing,Rust,36
 519882617,gbj/leptos,Rust,966
 240971104,AleoHQ/snarkOS,Rust,277
 279089942,tauri-apps/wry,Rust,25
