@@ -1,8 +1,8 @@
 id,name,lang,new stars
 507775,elastic/elasticsearch,Java,12
-7613257,SeleniumHQ/selenium,Java,10
-149001365,doocs/leetcode,Java,58
-133134007,OpenAPITools/openapi-generator,Java,9
+7613257,SeleniumHQ/selenium,Java,8
+149001365,doocs/leetcode,Java,62
+133134007,OpenAPITools/openapi-generator,Java,10
 118497841,GoogleContainerTools/jib,Java,6
 6358188,apache/druid,Java,7
 173335706,apache/dolphinscheduler,Java,8
@@ -11,16 +11,16 @@ id,name,lang,new stars
 166515022,trinodb/trino,Java,11
 66023605,awsdocs/aws-doc-sdk-examples,Java,11
 50904245,apache/beam,Java,5
-156627365,itwanger/toBeBetterJavaer,Java,43
+156627365,itwanger/toBeBetterJavaer,Java,39
 248032165,spring-projects/spring-authorization-server,Java,3
 247659028,PowerJob/PowerJob,Java,38
 87859908,micrometer-metrics/micrometer,Java,3
 3038937,FasterXML/jackson-databind,Java,2
-158975124,apache/iotdb,Java,15
+158975124,apache/iotdb,Java,20
 98801926,thombergs/code-examples,Java,1
 146941185,firebase/firebase-android-sdk,Java,0
 180028389,rnmapbox/maps,Java,2
 231533573,apache/inlong,Java,5
 298323699,devopshydclub/vprofile-project,Java,3
 295598569,TheoKanning/openai-java,Java,11
-541102231,valterc/ki2,Java,13
+541102231,valterc/ki2,Java,19
