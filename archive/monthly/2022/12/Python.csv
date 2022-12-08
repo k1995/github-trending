@@ -1,5 +1,6 @@
 id,name,lang,new stars
 54346799,public-apis/public-apis,Python,5231
+21289110,vinta/awesome-python,Python,3388
 71220757,swisskyrepo/PayloadsAllTheThings,Python,1043
 188660663,CorentinJ/Real-Time-Voice-Cloning,Python,802
 74627617,commaai/openpilot,Python,1015
@@ -9,9 +10,8 @@ id,name,lang,new stars
 237791077,mingrammer/diagrams,Python,1089
 254832799,Z4nzu/hackingtool,Python,2070
 45723377,charlax/professional-programming,Python,1119
-178626720,Lightning-AI/lightning,Python,389
 65083316,luong-komorebi/Awesome-Linux-Software,Python,395
-305144746,geohot/tinygrad,Python,1066
+93947448,twintproject/twint,Python,202
 422274596,hpcaitech/ColossalAI,Python,1663
 282443202,google/latexify_py,Python,1888
 428292281,Sanster/lama-cleaner,Python,2099
@@ -20,7 +20,7 @@ id,name,lang,new stars
 390536799,mlfoundations/open_clip,Python,416
 505667511,sczhou/CodeFormer,Python,591
 535509546,brycedrennan/imaginAIry,Python,772
+540842713,chidiwilliams/buzz,Python,935
 509850056,Visualize-ML/Book4_Power-of-Matrix,Python,737
-537827151,THUDM/CodeGeeX,Python,550
 307213173,openai/openai-python,Python,246
 468576060,openai/openai-cookbook,Python,472
