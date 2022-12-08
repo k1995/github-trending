@@ -1,7 +1,7 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,692
-10744183,netdata/netdata,C,94
-246335987,ventoy/Ventoy,C,431
+10744183,netdata/netdata,C,89
+246335987,ventoy/Ventoy,C,433
 1614410,FFmpeg/FFmpeg,C,162
 102578345,coolsnowwolf/lede,C,144
 80286288,arendst/Tasmota,C,59
@@ -19,7 +19,7 @@ id,name,lang,new stars
 284134871,flipperdevices/flipperzero-firmware,C,107
 48296177,libfuse/libfuse,C,20
 541269386,ggerganov/whisper.cpp,C,856
-470579591,DarkFlippers/unleashed-firmware,C,306
+470579591,DarkFlippers/unleashed-firmware,C,308
 117704656,remzi-arpacidusseau/ostep-projects,C,14
 331380723,raspberrypi/pico-sdk,C,30
 505613691,OnionUI/Onion,C,21
