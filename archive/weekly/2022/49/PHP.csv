@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,101
+1863329,laravel/laravel,PHP,106
 7548986,laravel/framework,PHP,68
 458058,symfony/symfony,PHP,45
 2579314,fzaninotto/Faker,PHP,19
 1420053,guzzle/guzzle,PHP,20
 60243197,nextcloud/server,PHP,61
-2253830,PHPMailer/PHPMailer,PHP,44
-82238168,monicahq/monica,PHP,594
+2253830,PHPMailer/PHPMailer,PHP,45
+82238168,monicahq/monica,PHP,593
 3431193,yiisoft/yii2,PHP,10
 42480275,spatie/laravel-permission,PHP,19
 41589337,BookStackApp/BookStack,PHP,60
@@ -16,11 +16,11 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,22
 76064827,mailcow/mailcow-dockerized,PHP,38
 74386167,vimeo/psalm,PHP,22
-60010673,elementor/elementor,PHP,12
+60010673,elementor/elementor,PHP,14
 139191005,nunomaduro/larastan,PHP,15
-8077402,MISP/MISP,PHP,13
+8077402,MISP/MISP,PHP,14
 29126334,EasyCorp/EasyAdminBundle,PHP,14
 96284790,prasathmani/tinyfilemanager,PHP,30
-13044600,salesagility/SuiteCRM,PHP,14
+13044600,salesagility/SuiteCRM,PHP,13
 307018731,DenverCoder1/github-readme-streak-stats,PHP,40
 463354076,laravel-workflow/laravel-workflow,PHP,53
