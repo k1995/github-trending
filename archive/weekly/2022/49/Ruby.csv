@@ -2,9 +2,9 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,46
 13840241,freeCodeCamp/devdocs,Ruby,60
 2293158,rapid7/metasploit-framework,Ruby,64
-481872,hashicorp/vagrant,Ruby,32
+481872,hashicorp/vagrant,Ruby,30
 308770,heartcombo/devise,Ruby,18
-538746,ruby/ruby,Ruby,30
+538746,ruby/ruby,Ruby,29
 4095287,rubocop/rubocop,Ruby,12
 106995,sinatra/sinatra,Ruby,10
 611921,activeadmin/activeadmin,Ruby,8
@@ -15,7 +15,7 @@ id,name,lang,new stars
 906150,slim-template/slim,Ruby,4
 10431787,felixonmars/dnsmasq-china-list,Ruby,20
 79352,mikel/mail,Ruby,6
-138776049,sorbet/sorbet,Ruby,10
+138776049,sorbet/sorbet,Ruby,12
 9500075,ytti/oxidized,Ruby,4
 1953385,stripe/stripe-ruby,Ruby,4
 12357002,sidekiq-cron/sidekiq-cron,Ruby,5

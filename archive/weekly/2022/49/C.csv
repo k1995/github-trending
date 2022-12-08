@@ -7,14 +7,14 @@ id,name,lang,new stars
 80286288,arendst/Tasmota,C,59
 45821540,openwrt/openwrt,C,70
 70127218,espressif/arduino-esp32,C,53
-65899476,espressif/esp-idf,C,56
+65899476,espressif/esp-idf,C,58
 1856976,libevent/libevent,C,33
 437011,openzfs/zfs,C,182
 19112091,vanhauser-thc/thc-hydra,C,72
 2328181,freebsd/freebsd-src,C,26
 59676171,Klipper3d/klipper,C,90
 400501136,deepmind/mujoco,C,36
-327491895,peng-zhihui/HoloCubic,C,21
+327491895,peng-zhihui/HoloCubic,C,23
 33031885,hfiref0x/UACME,C,34
 284134871,flipperdevices/flipperzero-firmware,C,107
 541269386,ggerganov/whisper.cpp,C,856

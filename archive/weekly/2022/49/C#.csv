@@ -1,19 +1,19 @@
 id,name,lang,new stars
 199570071,2dust/v2rayN,C#,272
-1327739,icsharpcode/ILSpy,C#,82
+1327739,icsharpcode/ILSpy,C#,80
 959908,OpenRA/OpenRA,C#,61
 22456440,ppy/osu,C#,45
-46755185,bitwarden/server,C#,57
+46755185,bitwarden/server,C#,56
 375939072,dotnetcore/FastGithub,C#,210
-12191244,dotnet/BenchmarkDotNet,C#,45
-64290739,dodyg/practical-aspnetcore,C#,37
+12191244,dotnet/BenchmarkDotNet,C#,43
+64290739,dodyg/practical-aspnetcore,C#,34
 372096057,Richasy/Bili.Uwp,C#,87
 72174164,SixLabors/ImageSharp,C#,26
-245235133,microsoft/reverse-proxy,C#,30
+245235133,microsoft/reverse-proxy,C#,31
 86182490,JosefNemec/Playnite,C#,24
-224109382,ant-design-blazor/ant-design-blazor,C#,31
+224109382,ant-design-blazor/ant-design-blazor,C#,28
 187499284,Cysharp/UniTask,C#,42
-288428676,MudBlazor/MudBlazor,C#,66
+288428676,MudBlazor/MudBlazor,C#,61
 81770291,neuecc/MessagePack-CSharp,C#,37
 151148482,elsa-workflows/elsa-core,C#,22
 387542412,builtbybel/ThisIsWin11,C#,48
@@ -21,6 +21,6 @@ id,name,lang,new stars
 119571446,dotnet/samples,C#,16
 320936145,Kareadita/Kavita,C#,37
 464654186,dotnet-presentations/dotnet-maui-workshop,C#,25
-532163204,Cysharp/MemoryPack,C#,203
+532163204,Cysharp/MemoryPack,C#,200
 373274891,CommunityToolkit/Maui,C#,27
 541615649,ayufan/steam-deck-tools,C#,18
