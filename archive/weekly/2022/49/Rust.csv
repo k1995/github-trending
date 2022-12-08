@@ -1,10 +1,10 @@
 id,name,lang,new stars
 133442384,denoland/deno,Rust,163
 724712,rust-lang/rust,Rust,278
-196701619,tauri-apps/tauri,Rust,386
+196701619,tauri-apps/tauri,Rust,388
 130688011,meilisearch/meilisearch,Rust,183
 21938243,rust-unofficial/awesome-rust,Rust,191
-121898717,dani-garcia/vaultwarden,Rust,225
+121898717,dani-garcia/vaultwarden,Rust,224
 107505869,firecracker-microvm/firecracker,Rust,84
 135201145,RustPython/RustPython,Rust,190
 165522651,emilk/egui,Rust,156
@@ -12,15 +12,15 @@ id,name,lang,new stars
 27029984,Geal/nom,Rust,84
 144140342,paritytech/polkadot,Rust,27
 414585797,0x192/universal-android-debloater,Rust,156
-523043277,charliermarsh/ruff,Rust,216
+523043277,charliermarsh/ruff,Rust,215
 268163609,qdrant/qdrant,Rust,183
 551376520,tw93/Pake,Rust,588
-165289175,tokio-rs/tracing,Rust,41
-519882617,gbj/leptos,Rust,990
-240971104,AleoHQ/snarkOS,Rust,276
+165289175,tokio-rs/tracing,Rust,38
+519882617,gbj/leptos,Rust,966
+240971104,AleoHQ/snarkOS,Rust,277
 279089942,tauri-apps/wry,Rust,25
 519895363,GyulyVGC/sniffnet,Rust,313
-500391407,buckyos/CYFS,Rust,123
+500391407,buckyos/CYFS,Rust,122
 295245253,geph-official/geph4-client,Rust,82
 567004198,linebender/xilem,Rust,233
 449305594,HarukaMa/aleo-prover,Rust,37

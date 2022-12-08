@@ -1,11 +1,11 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,692
 10744183,netdata/netdata,C,94
-246335987,ventoy/Ventoy,C,433
+246335987,ventoy/Ventoy,C,432
 1614410,FFmpeg/FFmpeg,C,162
 102578345,coolsnowwolf/lede,C,144
 80286288,arendst/Tasmota,C,59
-18496166,gentilkiwi/mimikatz,C,48
+18496166,gentilkiwi/mimikatz,C,47
 45821540,openwrt/openwrt,C,70
 70127218,espressif/arduino-esp32,C,53
 437011,openzfs/zfs,C,182
@@ -15,10 +15,10 @@ id,name,lang,new stars
 5870069,edenhill/librdkafka,C,28
 59676171,Klipper3d/klipper,C,90
 400501136,deepmind/mujoco,C,36
-327491895,peng-zhihui/HoloCubic,C,24
+327491895,peng-zhihui/HoloCubic,C,23
 284134871,flipperdevices/flipperzero-firmware,C,107
 48296177,libfuse/libfuse,C,20
-470579591,DarkFlippers/unleashed-firmware,C,308
+470579591,DarkFlippers/unleashed-firmware,C,306
 541269386,ggerganov/whisper.cpp,C,856
 117704656,remzi-arpacidusseau/ostep-projects,C,14
 331380723,raspberrypi/pico-sdk,C,30
