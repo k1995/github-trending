@@ -4,7 +4,7 @@ id,name,lang,new stars
 34921116,iovisor/bcc,C,13
 65899476,espressif/esp-idf,C,5
 39242894,coturn/coturn,C,10
-50874442,citusdata/citus,C,7
+50874442,citusdata/citus,C,10
 13310527,jemalloc/jemalloc,C,1
 105944401,yugabyte/yugabyte-db,C,5
 59771425,zephyrproject-rtos/zephyr,C,4
@@ -14,13 +14,13 @@ id,name,lang,new stars
 94530674,Syllo/nvtop,C,52
 2359378,madler/zlib,C,3
 34807561,nanopb/nanopb,C,1
-541269386,ggerganov/whisper.cpp,C,672
+541269386,ggerganov/whisper.cpp,C,656
 206121828,FreeRTOS/FreeRTOS,C,5
 15333809,open62541/open62541,C,2
 226167620,InfiniTimeOrg/InfiniTime,C,2
-276293034,apache/age,C,9
+276293034,apache/age,C,10
 191266671,algorand/go-algorand,C,1
 149340903,AprilRobotics/apriltag,C,3
-537042935,cpq/bare-metal-programming-guide,C,73
+537042935,cpq/bare-metal-programming-guide,C,69
 53432472,sonic-net/sonic-buildimage,C,0
 564757991,infraredCoding/cerveur,C,26

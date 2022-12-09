@@ -1,6 +1,6 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,179
-5108051,opencv/opencv,C++,156
+5108051,opencv/opencv,C++,161
 44838949,apple/swift,C++,75
 65600975,pytorch/pytorch,C++,202
 23357588,protocolbuffers/protobuf,C++,103
@@ -8,11 +8,11 @@ id,name,lang,new stars
 39840932,google/googletest,C++,63
 4524181,facebook/folly,C++,128
 3351871,qbittorrent/qBittorrent,C++,136
-64991887,microsoft/LightGBM,C++,18
-17391973,Tencent/rapidjson,C++,33
+64991887,microsoft/LightGBM,C++,21
+17391973,Tencent/rapidjson,C++,32
 76990209,Aircoookie/WLED,C++,88
 153866232,TheCherno/Hazel,C++,41
-1204412,TrinityCore/TrinityCore,C++,55
+1204412,TrinityCore/TrinityCore,C++,56
 11986447,xournalpp/xournalpp,C++,137
 20976138,official-stockfish/Stockfish,C++,49
 3386088,NixOS/nix,C++,48

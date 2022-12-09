@@ -1,6 +1,6 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,21
-7548986,laravel/framework,PHP,19
+1863329,laravel/laravel,PHP,22
+7548986,laravel/framework,PHP,16
 1420053,guzzle/guzzle,PHP,1
 60243197,nextcloud/server,PHP,7
 82238168,monicahq/monica,PHP,19
@@ -9,11 +9,11 @@ id,name,lang,new stars
 597887,doctrine/orm,PHP,3
 3951767,phpDocumentor/ReflectionDocBlock,PHP,0
 37216840,phpDocumentor/TypeResolver,PHP,1
-2179920,woocommerce/woocommerce,PHP,4
+2179920,woocommerce/woocommerce,PHP,2
 1398660,symfony/routing,PHP,1
-14346979,snipe/snipe-it,PHP,3
+14346979,snipe/snipe-it,PHP,2
 6763587,PrestaShop/PrestaShop,PHP,1
-97311017,rectorphp/rector,PHP,3
+97311017,rectorphp/rector,PHP,4
 9131292,jenssegers/laravel-mongodb,PHP,3
 6269013,aws/aws-sdk-php,PHP,1
 60010673,elementor/elementor,PHP,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 6266214,paratestphp/paratest,PHP,4
 278726910,doctrine/deprecations,PHP,2
 443605948,pablouser1/ProxiTok,PHP,3
-440520058,orhanerday/open-ai,PHP,16
+440520058,orhanerday/open-ai,PHP,15

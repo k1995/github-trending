@@ -5,12 +5,12 @@ id,name,lang,new stars
 481872,hashicorp/vagrant,Ruby,30
 308770,heartcombo/devise,Ruby,13
 538746,ruby/ruby,Ruby,30
-4095287,rubocop/rubocop,Ruby,9
-106995,sinatra/sinatra,Ruby,11
+4095287,rubocop/rubocop,Ruby,10
+106995,sinatra/sinatra,Ruby,12
 611921,activeadmin/activeadmin,Ruby,9
-108278,chef/chef,Ruby,10
+108278,chef/chef,Ruby,11
 211588,paper-trail-gem/paper_trail,Ruby,7
-1548802,activerecord-hackery/ransack,Ruby,6
+1548802,activerecord-hackery/ransack,Ruby,5
 2889230,rails-api/active_model_serializers,Ruby,1
 906150,slim-template/slim,Ruby,3
 10431787,felixonmars/dnsmasq-china-list,Ruby,20
