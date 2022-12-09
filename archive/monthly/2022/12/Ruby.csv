@@ -1,10 +1,10 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,241
-52281283,mastodon/mastodon,Ruby,4486
+52281283,mastodon/mastodon,Ruby,4476
 8681349,huginn/huginn,Ruby,251
-7569578,discourse/discourse,Ruby,210
-53238813,Homebrew/brew,Ruby,372
-13840241,freeCodeCamp/devdocs,Ruby,310
+7569578,discourse/discourse,Ruby,207
+53238813,Homebrew/brew,Ruby,366
+13840241,freeCodeCamp/devdocs,Ruby,315
 308770,heartcombo/devise,Ruby,72
 3623050,Homebrew/homebrew-cask,Ruby,98
 3195124,mperham/sidekiq,Ruby,82
@@ -15,7 +15,7 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,124
 355893,github/markup,Ruby,28
 6768710,redmine/redmine,Ruby,38
-103766152,github/explore,Ruby,68
+103766152,github/explore,Ruby,69
 79352,mikel/mail,Ruby,14
 1175581,citation-style-language/styles,Ruby,38
 270054,ffi/ffi,Ruby,10

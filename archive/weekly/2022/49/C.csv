@@ -1,12 +1,12 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,719
-246335987,ventoy/Ventoy,C,449
+246335987,ventoy/Ventoy,C,445
 1903522,php/php-src,C,60
 1614410,FFmpeg/FFmpeg,C,153
 102578345,coolsnowwolf/lede,C,148
-18666758,pjreddie/darknet,C,33
+18666758,pjreddie/darknet,C,36
 80286288,arendst/Tasmota,C,63
-18496166,gentilkiwi/mimikatz,C,46
+18496166,gentilkiwi/mimikatz,C,45
 45821540,openwrt/openwrt,C,72
 70127218,espressif/arduino-esp32,C,52
 65899476,espressif/esp-idf,C,54
@@ -18,9 +18,9 @@ id,name,lang,new stars
 33031885,hfiref0x/UACME,C,33
 94530674,Syllo/nvtop,C,116
 284134871,flipperdevices/flipperzero-firmware,C,109
-541269386,ggerganov/whisper.cpp,C,1054
+541269386,ggerganov/whisper.cpp,C,1033
 470579591,DarkFlippers/unleashed-firmware,C,301
 117704656,remzi-arpacidusseau/ostep-projects,C,13
 331380723,raspberrypi/pico-sdk,C,29
-276293034,apache/age,C,81
-558589102,cnlohr/mini-rv32ima,C,215
+276293034,apache/age,C,82
+558589102,cnlohr/mini-rv32ima,C,219
