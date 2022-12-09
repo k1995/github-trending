@@ -1,9 +1,9 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,1963
-111583593,Genymobile/scrcpy,C,1326
+111583593,Genymobile/scrcpy,C,1324
 246335987,ventoy/Ventoy,C,1421
-102578345,coolsnowwolf/lede,C,561
-2810292,pbatard/rufus,C,401
+102578345,coolsnowwolf/lede,C,559
+2810292,pbatard/rufus,C,398
 6201092,mpv-player/mpv,C,409
 20159867,nothings/stb,C,299
 196353673,taosdata/TDengine,C,667
@@ -21,6 +21,6 @@ id,name,lang,new stars
 31791482,microsoft/Windows-driver-samples,C,105
 330008801,libsdl-org/SDL,C,257
 284134871,flipperdevices/flipperzero-firmware,C,478
-541269386,ggerganov/whisper.cpp,C,2471
+541269386,ggerganov/whisper.cpp,C,2489
 470579591,DarkFlippers/unleashed-firmware,C,841
 329933755,pimoroni/pimoroni-pico,C,62
