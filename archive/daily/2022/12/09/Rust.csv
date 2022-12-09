@@ -1,17 +1,17 @@
 id,name,lang,new stars
-196701619,tauri-apps/tauri,Rust,80
+196701619,tauri-apps/tauri,Rust,79
 268424739,helix-editor/helix,Rust,87
 179164257,diem/diem,Rust,1
-436658287,surrealdb/surrealdb,Rust,31
-146327667,vectordotdev/vector,Rust,12
-230595891,launchbadge/sqlx,Rust,5
-44440501,orf/gping,Rust,11
+436658287,surrealdb/surrealdb,Rust,30
+146327667,vectordotdev/vector,Rust,14
+230595891,launchbadge/sqlx,Rust,7
+44440501,orf/gping,Rust,14
 49401416,spacejam/sled,Rust,9
 404320053,foundry-rs/foundry,Rust,9
-352051262,containers/youki,Rust,36
+352051262,containers/youki,Rust,33
 57160728,mozilla/sccache,Rust,10
 15510677,redis-rs/redis-rs,Rust,2
-113404957,kata-containers/kata-containers,Rust,7
+113404957,kata-containers/kata-containers,Rust,6
 130174051,graphprotocol/graph-node,Rust,2
 423679664,fermyon/spin,Rust,6
 413292017,fzyzcjy/flutter_rust_bridge,Rust,11
@@ -19,8 +19,8 @@ id,name,lang,new stars
 358917250,apache/arrow-rs,Rust,3
 181782286,crate-ci/typos,Rust,4
 537233603,paradigmxyz/reth,Rust,127
-456199616,MordechaiHadad/bob,Rust,13
-574034091,sonnylazuardi/chatgpt-desktop,Rust,89
+456199616,MordechaiHadad/bob,Rust,14
+574034091,sonnylazuardi/chatgpt-desktop,Rust,82
 540033828,huggingface/safetensors,Rust,17
-567412157,bluecatengineering/dora,Rust,161
-517191722,betaveros/noulith,Rust,66
+567412157,bluecatengineering/dora,Rust,79
+517191722,betaveros/noulith,Rust,74

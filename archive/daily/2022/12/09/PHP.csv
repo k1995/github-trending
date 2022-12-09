@@ -1,9 +1,9 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,21
-7548986,laravel/framework,PHP,19
+1863329,laravel/laravel,PHP,22
+7548986,laravel/framework,PHP,16
 458058,symfony/symfony,PHP,10
 60243197,nextcloud/server,PHP,7
-448045,sebastianbergmann/phpunit,PHP,1
+448045,sebastianbergmann/phpunit,PHP,2
 3431193,yiisoft/yii2,PHP,1
 61490598,PHPOffice/PhpSpreadsheet,PHP,2
 79111500,jupeter/clean-code-php,PHP,2
@@ -17,10 +17,10 @@ id,name,lang,new stars
 265782973,hlmd/Postman-cn,PHP,3
 9077725,giggsey/libphonenumber-for-php,PHP,0
 1934695,xdebug/xdebug,PHP,1
-29455529,Cacti/cacti,PHP,4
+29455529,Cacti/cacti,PHP,5
 34407154,cweagans/composer-patches,PHP,0
 5367323,akeneo/pim-community-dev,PHP,0
 568333922,youshandefeiyang/IPTV,PHP,7
-440520058,orhanerday/open-ai,PHP,16
+440520058,orhanerday/open-ai,PHP,15
 184538454,yankovalenko94/Webdev2019,PHP,0
 569072798,HuolalaTech/hll-wp-glog,PHP,5

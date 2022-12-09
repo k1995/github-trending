@@ -3,11 +3,11 @@ id,name,lang,new stars
 17728164,hashicorp/terraform,Go,17
 165041732,go-kratos/kratos,Go,8
 54400687,grafana/k6,Go,17
-6051812,gorilla/mux,Go,63
+6051812,gorilla/mux,Go,68
 48109239,cilium/cilium,Go,12
 66841911,qax-os/excelize,Go,6
-46089560,containerd/containerd,Go,9
-252813491,projectdiscovery/nuclei,Go,23
+46089560,containerd/containerd,Go,8
+252813491,projectdiscovery/nuclei,Go,31
 159540440,google/wire,Go,7
 48714685,open-policy-agent/opa,Go,4
 273132277,moonD4rk/HackBrowserData,Go,17
