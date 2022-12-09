@@ -1,9 +1,9 @@
 id,name,lang,new stars
 54346799,public-apis/public-apis,Python,106
 83222441,donnemartin/system-design-primer,Python,123
-12888993,home-assistant/core,Python,30
+12888993,home-assistant/core,Python,31
 3638964,ansible/ansible,Python,14
-57222302,openai/gym,Python,44
+57222302,openai/gym,Python,46
 45723377,charlax/professional-programming,Python,37
 21484781,jumpserver/jumpserver,Python,13
 323048702,OpenBB-finance/OpenBBTerminal,Python,41
@@ -17,10 +17,10 @@ id,name,lang,new stars
 278003645,open-mmlab/mmpose,Python,7
 467151498,datafold/data-diff,Python,34
 117465135,zero-to-mastery/start-here-guidelines,Python,1
-62270443,qwj/python-proxy,Python,18
-574428530,rawandahmad698/PyChatGPT,Python,410
-574385890,bupticybee/ChineseAiDungeonChatGPT,Python,133
+62270443,qwj/python-proxy,Python,29
+574428530,rawandahmad698/PyChatGPT,Python,409
+574385890,bupticybee/ChineseAiDungeonChatGPT,Python,132
 565692172,opendilab/PPOxFamily,Python,45
 573783098,labteral/chatgpt-python,Python,23
 574046356,Zero6992/chatGPT-discord-bot,Python,25
-574354205,A-kirami/nonebot-plugin-chatgpt,Python,13
+574354205,A-kirami/nonebot-plugin-chatgpt,Python,12

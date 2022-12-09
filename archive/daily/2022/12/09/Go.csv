@@ -1,10 +1,10 @@
 id,name,lang,new stars
 7691631,moby/moby,Go,11
 17728164,hashicorp/terraform,Go,17
-165041732,go-kratos/kratos,Go,6
+165041732,go-kratos/kratos,Go,9
 54400687,grafana/k6,Go,17
 6051812,gorilla/mux,Go,63
-48109239,cilium/cilium,Go,11
+48109239,cilium/cilium,Go,8
 66841911,qax-os/excelize,Go,6
 46089560,containerd/containerd,Go,9
 252813491,projectdiscovery/nuclei,Go,23
@@ -14,7 +14,7 @@ id,name,lang,new stars
 87990209,kubernetes/autoscaler,Go,2
 215654064,temporalio/temporal,Go,10
 6701057,emicklei/go-restful,Go,1
-106928408,ilanyu/ReverseProxy,Go,6
+106928408,ilanyu/ReverseProxy,Go,7
 185861173,open-telemetry/opentelemetry-collector,Go,2
 49970739,DataDog/datadog-agent,Go,4
 158012967,argoproj/argo-rollouts,Go,3
