@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1357796,emscripten-core/emscripten,C,4
+1357796,emscripten-core/emscripten,C,5
 7634677,openssl/openssl,C,9
 34921116,iovisor/bcc,C,8
 65899476,espressif/esp-idf,C,9
-39242894,coturn/coturn,C,10
+39242894,coturn/coturn,C,5
 50874442,citusdata/citus,C,6
 13310527,jemalloc/jemalloc,C,3
-105944401,yugabyte/yugabyte-db,C,5
-59771425,zephyrproject-rtos/zephyr,C,4
+105944401,yugabyte/yugabyte-db,C,3
+59771425,zephyrproject-rtos/zephyr,C,3
 203957456,OpenAtomFoundation/TencentOS-tiny,C,10
 31806094,akopytov/sysbench,C,1
 33031885,hfiref0x/UACME,C,10
@@ -15,12 +15,12 @@ id,name,lang,new stars
 2359378,madler/zlib,C,3
 34807561,nanopb/nanopb,C,1
 541269386,ggerganov/whisper.cpp,C,700
-206121828,FreeRTOS/FreeRTOS,C,3
-15333809,open62541/open62541,C,1
-226167620,InfiniTimeOrg/InfiniTime,C,2
-276293034,apache/age,C,14
+206121828,FreeRTOS/FreeRTOS,C,4
+15333809,open62541/open62541,C,2
+226167620,InfiniTimeOrg/InfiniTime,C,3
+276293034,apache/age,C,18
 191266671,algorand/go-algorand,C,1
 149340903,AprilRobotics/apriltag,C,1
 537042935,cpq/bare-metal-programming-guide,C,62
 53432472,sonic-net/sonic-buildimage,C,0
-564757991,infraredCoding/cerveur,C,36
+564757991,infraredCoding/cerveur,C,37
