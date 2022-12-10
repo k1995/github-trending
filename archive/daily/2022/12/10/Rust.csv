@@ -2,7 +2,7 @@ id,name,lang,new stars
 196701619,tauri-apps/tauri,Rust,75
 268424739,helix-editor/helix,Rust,94
 179164257,diem/diem,Rust,0
-436658287,surrealdb/surrealdb,Rust,49
+436658287,surrealdb/surrealdb,Rust,56
 146327667,vectordotdev/vector,Rust,15
 230595891,launchbadge/sqlx,Rust,7
 44440501,orf/gping,Rust,29
@@ -14,11 +14,11 @@ id,name,lang,new stars
 113404957,kata-containers/kata-containers,Rust,7
 130174051,graphprotocol/graph-node,Rust,1
 423679664,fermyon/spin,Rust,8
-413292017,fzyzcjy/flutter_rust_bridge,Rust,14
+413292017,fzyzcjy/flutter_rust_bridge,Rust,15
 266602341,gakonst/ethers-rs,Rust,2
 358917250,apache/arrow-rs,Rust,3
 181782286,crate-ci/typos,Rust,7
-537233603,paradigmxyz/reth,Rust,123
+537233603,paradigmxyz/reth,Rust,122
 574034091,sonnylazuardi/chatgpt-desktop,Rust,62
 456199616,MordechaiHadad/bob,Rust,5
 540033828,huggingface/safetensors,Rust,17

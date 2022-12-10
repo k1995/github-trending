@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,11
+1863329,laravel/laravel,PHP,12
 7548986,laravel/framework,PHP,10
-458058,symfony/symfony,PHP,7
-60243197,nextcloud/server,PHP,9
+458058,symfony/symfony,PHP,8
+60243197,nextcloud/server,PHP,8
 448045,sebastianbergmann/phpunit,PHP,3
 3431193,yiisoft/yii2,PHP,1
-61490598,PHPOffice/PhpSpreadsheet,PHP,5
+61490598,PHPOffice/PhpSpreadsheet,PHP,4
 79111500,jupeter/clean-code-php,PHP,1
 2699935,squizlabs/PHP_CodeSniffer,PHP,3
 597887,doctrine/orm,PHP,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 34407154,cweagans/composer-patches,PHP,0
 5367323,akeneo/pim-community-dev,PHP,0
 568333922,youshandefeiyang/IPTV,PHP,13
-440520058,orhanerday/open-ai,PHP,3
+440520058,orhanerday/open-ai,PHP,7
 184538454,yankovalenko94/Webdev2019,PHP,1
 569072798,HuolalaTech/hll-wp-glog,PHP,4

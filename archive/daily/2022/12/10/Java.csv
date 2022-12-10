@@ -5,13 +5,13 @@ id,name,lang,new stars
 137451403,alibaba/nacos,Java,19
 112785414,alibaba/spring-cloud-alibaba,Java,12
 45721011,apache/skywalking,Java,16
-149001365,doocs/leetcode,Java,459
+149001365,doocs/leetcode,Java,228
 1090311,elastic/logstash,Java,2
-117965972,alibaba/DataX,Java,4
+117965972,alibaba/DataX,Java,3
 118497841,GoogleContainerTools/jib,Java,4
 27729926,grpc/grpc-java,Java,4
 283046497,airbytehq/airbyte,Java,8
-75882172,Netflix/conductor,Java,77
+75882172,Netflix/conductor,Java,71
 166515022,trinodb/trino,Java,8
 99919302,apache/doris,Java,8
 50904245,apache/beam,Java,1
