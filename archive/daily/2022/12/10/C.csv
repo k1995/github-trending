@@ -14,7 +14,7 @@ id,name,lang,new stars
 284134871,flipperdevices/flipperzero-firmware,C,16
 6331631,axboe/fio,C,3
 6687936,Mbed-TLS/mbedtls,C,3
-151870364,xiaorouji/openwrt-passwall,C,3
+151870364,xiaorouji/openwrt-passwall,C,2
 34807561,nanopb/nanopb,C,2
 15991457,openssh/openssh-portable,C,2
 283149635,arthenica/ffmpeg-kit,C,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1031235,strongswan/strongswan,C,3
 270692521,zmkfirmware/zmk,C,2
 53432472,sonic-net/sonic-buildimage,C,0
-148534714,bdbaraban/holbertonschool-low_level_programming,C,2
+148534714,bdbaraban/holbertonschool-low_level_programming,C,3
 573377157,eunomia-bpf/bpf-developer-tutorial,C,8

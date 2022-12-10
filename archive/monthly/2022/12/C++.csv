@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,615
+1181927,bitcoin/bitcoin,C++,617
 5108051,opencv/opencv,C++,628
 23357588,protocolbuffers/protobuf,C++,438
 11171548,nlohmann/json,C++,459
@@ -16,11 +16,11 @@ id,name,lang,new stars
 14268809,FastLED/FastLED,C++,89
 128479644,esphome/esphome,C++,134
 115883761,tdlib/td,C++,105
-52882701,prusa3d/PrusaSlicer,C++,94
-224908244,WasmEdge/WasmEdge,C++,683
+52882701,prusa3d/PrusaSlicer,C++,96
+224908244,WasmEdge/WasmEdge,C++,682
 470730648,hyprwm/Hyprland,C++,737
 433303514,yuesong-feng/30dayMakeCppServer,C++,572
 170738310,trustwallet/wallet-core,C++,187
 208325027,justcallmekoko/ESP32Marauder,C++,148
-125687069,axstin/rbxfpsunlocker,C++,192
+125687069,axstin/rbxfpsunlocker,C++,179
 507861208,PaddlePaddle/FastDeploy,C++,440

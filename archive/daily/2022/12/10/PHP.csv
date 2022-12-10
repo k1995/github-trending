@@ -1,6 +1,6 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,8
-60243197,nextcloud/server,PHP,8
+458058,symfony/symfony,PHP,7
+60243197,nextcloud/server,PHP,4
 448045,sebastianbergmann/phpunit,PHP,3
 2889328,WordPress/WordPress,PHP,6
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,1
@@ -9,11 +9,11 @@ id,name,lang,new stars
 116389886,Anankke/SSPanel-Uim,PHP,2
 2717549,Sylius/Sylius,PHP,0
 14346979,snipe/snipe-it,PHP,4
-6763587,PrestaShop/PrestaShop,PHP,3
-97311017,rectorphp/rector,PHP,6
+6763587,PrestaShop/PrestaShop,PHP,2
+97311017,rectorphp/rector,PHP,9
 248372441,filamentphp/filament,PHP,8
 159606650,hyperf/hyperf,PHP,1
-60010673,elementor/elementor,PHP,22
+60010673,elementor/elementor,PHP,21
 139191005,nunomaduro/larastan,PHP,3
 1953386,stripe/stripe-php,PHP,3
 153069455,collabnix/dockerlabs,PHP,13
@@ -21,6 +21,6 @@ id,name,lang,new stars
 48530411,top-think/framework,PHP,3
 33179341,JetBrains/phpstorm-stubs,PHP,0
 568333922,youshandefeiyang/IPTV,PHP,13
-259296942,InsiderPhD/Generic-University,PHP,2
+259296942,InsiderPhD/Generic-University,PHP,3
 347977932,Shopify/shopify-api-php,PHP,0
 575697561,brendt/php-sparkline,PHP,22

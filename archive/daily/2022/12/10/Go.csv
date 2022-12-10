@@ -1,9 +1,9 @@
 id,name,lang,new stars
 48378947,fatedier/frp,Go,22
-42408804,traefik/traefik,Go,19
-15452919,ethereum/go-ethereum,Go,17
-6051812,gorilla/mux,Go,61
-75785240,authelia/authelia,Go,12
+42408804,traefik/traefik,Go,17
+15452919,ethereum/go-ethereum,Go,18
+6051812,gorilla/mux,Go,33
+75785240,authelia/authelia,Go,16
 191655189,ent/ent,Go,7
 33258973,influxdata/telegraf,Go,2
 159540440,google/wire,Go,11
@@ -13,14 +13,14 @@ id,name,lang,new stars
 281694167,Mrs4s/go-cqhttp,Go,14
 87990209,kubernetes/autoscaler,Go,5
 92969352,moby/buildkit,Go,3
-326228917,projectdiscovery/katana,Go,36
-312629343,shadow1ng/fscan,Go,12
+326228917,projectdiscovery/katana,Go,38
+312629343,shadow1ng/fscan,Go,11
 229030654,go-git/go-git,Go,5
 32550033,ory/dockertest,Go,1
-313853293,cloudquery/cloudquery,Go,3
-573538566,danielgross/whatsapp-gpt,Go,188
+313853293,cloudquery/cloudquery,Go,2
+573538566,danielgross/whatsapp-gpt,Go,183
 219058535,kubernetes-sigs/gateway-api,Go,0
 329229346,eatmoreapple/openwechat,Go,47
-574879283,869413421/wechatbot,Go,145
+574879283,869413421/wechatbot,Go,151
 574390547,icepie/jojo-live,Go,12
-574148155,devfullcycle/imersao11,Go,16
+574148155,devfullcycle/imersao11,Go,14

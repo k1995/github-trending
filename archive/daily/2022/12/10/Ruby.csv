@@ -2,10 +2,10 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,6
 27442967,fastlane/fastlane,Ruby,1
 481872,hashicorp/vagrant,Ruby,10
-308770,heartcombo/devise,Ruby,3
-202291859,chatwoot/chatwoot,Ruby,3
-4095287,rubocop/rubocop,Ruby,2
-3314,spree/spree,Ruby,3
+308770,heartcombo/devise,Ruby,5
+202291859,chatwoot/chatwoot,Ruby,4
+4095287,rubocop/rubocop,Ruby,1
+3314,spree/spree,Ruby,1
 1918677,fluent/fluentd,Ruby,2
 1725199,github/linguist,Ruby,6
 812393,ruby-grape/grape,Ruby,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 229187949,shivammathur/homebrew-php,Ruby,3
 49878403,zendesk/ruby-kafka,Ruby,0
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,0
-3276877,ThrowTheSwitch/Ceedling,Ruby,0
+3276877,ThrowTheSwitch/Ceedling,Ruby,1
