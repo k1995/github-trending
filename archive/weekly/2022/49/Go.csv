@@ -1,12 +1,12 @@
 id,name,lang,new stars
 23096959,golang/go,Go,256
-42408804,traefik/traefik,Go,111
+42408804,traefik/traefik,Go,112
 136815833,Dreamacro/clash,Go,373
 156084530,ehang-io/nps,Go,206
-165041732,go-kratos/kratos,Go,87
+165041732,go-kratos/kratos,Go,86
 123572362,quii/learn-go-with-tests,Go,54
 44498957,valyala/fasthttp,Go,46
-6051812,gorilla/mux,Go,182
+6051812,gorilla/mux,Go,185
 21827146,seaweedfs/seaweedfs,Go,172
 21233191,ipfs/kubo,Go,41
 323965659,alist-org/alist,Go,377
@@ -19,8 +19,8 @@ id,name,lang,new stars
 88013053,docker/cli,Go,16
 440752086,coder/coder,Go,85
 311639195,karmada-io/karmada,Go,33
-440220648,Mikaelemmmm/go-zero-looklook,Go,69
 538130130,thangchung/go-coffeeshop,Go,1029
+440220648,Mikaelemmmm/go-zero-looklook,Go,69
 524395590,FxPool/FXMinerProxy,Go,104
 573538566,danielgross/whatsapp-gpt,Go,689
 477699398,the-zion/matrix-core,Go,119
