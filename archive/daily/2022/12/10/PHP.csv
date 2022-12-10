@@ -1,6 +1,6 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,7
-60243197,nextcloud/server,PHP,4
+60243197,nextcloud/server,PHP,6
 448045,sebastianbergmann/phpunit,PHP,3
 2889328,WordPress/WordPress,PHP,6
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 33179341,JetBrains/phpstorm-stubs,PHP,0
 568333922,youshandefeiyang/IPTV,PHP,13
 259296942,InsiderPhD/Generic-University,PHP,3
-347977932,Shopify/shopify-api-php,PHP,0
+347977932,Shopify/shopify-api-php,PHP,1
 575697561,brendt/php-sparkline,PHP,22
