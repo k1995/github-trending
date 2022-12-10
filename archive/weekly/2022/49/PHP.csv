@@ -4,7 +4,7 @@ id,name,lang,new stars
 458058,symfony/symfony,PHP,46
 2579314,fzaninotto/Faker,PHP,18
 60243197,nextcloud/server,PHP,56
-2253830,PHPMailer/PHPMailer,PHP,50
+2253830,PHPMailer/PHPMailer,PHP,51
 448045,sebastianbergmann/phpunit,PHP,19
 82238168,monicahq/monica,PHP,580
 1631570,nikic/PHP-Parser,PHP,22
@@ -21,6 +21,6 @@ id,name,lang,new stars
 96284790,prasathmani/tinyfilemanager,PHP,35
 13044600,salesagility/SuiteCRM,PHP,17
 14724954,opensourcepos/opensourcepos,PHP,9
-307018731,DenverCoder1/github-readme-streak-stats,PHP,34
+307018731,DenverCoder1/github-readme-streak-stats,PHP,36
 443605948,pablouser1/ProxiTok,PHP,15
 463354076,laravel-workflow/laravel-workflow,PHP,38
