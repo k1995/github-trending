@@ -1,9 +1,9 @@
 id,name,lang,new stars
 54346799,public-apis/public-apis,Python,106
 83222441,donnemartin/system-design-primer,Python,123
-12888993,home-assistant/core,Python,31
+12888993,home-assistant/core,Python,30
 3638964,ansible/ansible,Python,14
-57222302,openai/gym,Python,46
+57222302,openai/gym,Python,25
 45723377,charlax/professional-programming,Python,37
 21484781,jumpserver/jumpserver,Python,13
 323048702,OpenBB-finance/OpenBBTerminal,Python,41
@@ -11,16 +11,16 @@ id,name,lang,new stars
 341714203,openai/DALL-E,Python,17
 569927055,Stability-AI/stablediffusion,Python,101
 200722670,NVIDIA/NeMo,Python,18
-573819845,acheong08/ChatGPT,Python,941
+573819845,acheong08/ChatGPT,Python,942
 315977578,evidentlyai/evidently,Python,31
 400476704,ifzhang/ByteTrack,Python,16
 278003645,open-mmlab/mmpose,Python,7
 467151498,datafold/data-diff,Python,34
-117465135,zero-to-mastery/start-here-guidelines,Python,1
+117465135,zero-to-mastery/start-here-guidelines,Python,8
 62270443,qwj/python-proxy,Python,29
-574428530,rawandahmad698/PyChatGPT,Python,409
-574385890,bupticybee/ChineseAiDungeonChatGPT,Python,132
+574428530,rawandahmad698/PyChatGPT,Python,407
+574385890,bupticybee/ChineseAiDungeonChatGPT,Python,102
 565692172,opendilab/PPOxFamily,Python,45
 573783098,labteral/chatgpt-python,Python,23
 574046356,Zero6992/chatGPT-discord-bot,Python,25
-574354205,A-kirami/nonebot-plugin-chatgpt,Python,12
+574354205,A-kirami/nonebot-plugin-chatgpt,Python,15
