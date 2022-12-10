@@ -2,8 +2,8 @@ id,name,lang,new stars
 1903522,php/php-src,C,8
 3774328,wg/wrk,C,9
 10446890,bilibili/ijkplayer,C,3
-1357796,emscripten-core/emscripten,C,3
-34921116,iovisor/bcc,C,9
+1357796,emscripten-core/emscripten,C,2
+34921116,iovisor/bcc,C,7
 927442,postgres/postgres,C,10
 65899476,espressif/esp-idf,C,9
 50874442,citusdata/citus,C,10
@@ -15,7 +15,7 @@ id,name,lang,new stars
 29933948,fluent/fluent-bit,C,9
 6687936,Mbed-TLS/mbedtls,C,3
 541269386,ggerganov/whisper.cpp,C,237
-189044704,AFLplusplus/AFLplusplus,C,0
+189044704,AFLplusplus/AFLplusplus,C,1
 470579591,DarkFlippers/unleashed-firmware,C,34
 5410234,OISF/suricata,C,1
 142917961,flutter/codelabs,C,1

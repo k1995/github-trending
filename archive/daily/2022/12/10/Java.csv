@@ -1,7 +1,7 @@
 id,name,lang,new stars
 507775,elastic/elasticsearch,Java,15
 64558143,Blankj/AndroidUtilCode,Java,8
-7613257,SeleniumHQ/selenium,Java,9
+7613257,SeleniumHQ/selenium,Java,12
 137451403,alibaba/nacos,Java,19
 112785414,alibaba/spring-cloud-alibaba,Java,12
 45721011,apache/skywalking,Java,16
@@ -11,7 +11,7 @@ id,name,lang,new stars
 118497841,GoogleContainerTools/jib,Java,4
 27729926,grpc/grpc-java,Java,4
 283046497,airbytehq/airbyte,Java,8
-75882172,Netflix/conductor,Java,115
+75882172,Netflix/conductor,Java,77
 166515022,trinodb/trino,Java,8
 99919302,apache/doris,Java,8
 50904245,apache/beam,Java,1
