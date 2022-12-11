@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,103
-3482588,danielmiessler/SecLists,PHP,158
+3482588,danielmiessler/SecLists,PHP,160
 7548986,laravel/framework,PHP,72
 458058,symfony/symfony,PHP,44
 1864363,composer/composer,PHP,28
@@ -22,5 +22,5 @@ id,name,lang,new stars
 60010673,elementor/elementor,PHP,48
 96284790,prasathmani/tinyfilemanager,PHP,30
 151089715,symfony/polyfill-intl-idn,PHP,16
-463354076,laravel-workflow/laravel-workflow,PHP,48
-560298668,muhammadthm/SantaGiftShop,PHP,46
+463354076,laravel-workflow/laravel-workflow,PHP,44
+560298668,muhammadthm/SantaGiftShop,PHP,44

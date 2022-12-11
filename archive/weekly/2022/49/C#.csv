@@ -1,13 +1,13 @@
 id,name,lang,new stars
 184456251,microsoft/PowerToys,C#,575
 199570071,2dust/v2rayN,C#,278
-17620347,dotnet/aspnetcore,C#,77
+17620347,dotnet/aspnetcore,C#,76
 161012019,jellyfin/jellyfin,C#,197
 959908,OpenRA/OpenRA,C#,52
 22456440,ppy/osu,C#,51
 46755185,bitwarden/server,C#,61
-210716005,dotnet/runtime,C#,64
-375939072,dotnetcore/FastGithub,C#,247
+210716005,dotnet/runtime,C#,67
+375939072,dotnetcore/FastGithub,C#,245
 75990888,dotnet/csharplang,C#,43
 75505125,abpframework/abp,C#,41
 12191244,dotnet/BenchmarkDotNet,C#,39
@@ -17,7 +17,7 @@ id,name,lang,new stars
 21611723,quasar/Quasar,C#,36
 366663429,jynew/jynew,C#,49
 125612271,Unity-Technologies/EntityComponentSystemSamples,C#,30
-30830689,naudio/NAudio,C#,23
+30830689,naudio/NAudio,C#,22
 19216825,xamarin/xamarin-forms-samples,C#,5
 151148482,elsa-workflows/elsa-core,C#,22
 337897094,beto-rodriguez/LiveCharts2,C#,30
