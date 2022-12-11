@@ -10,12 +10,12 @@ id,name,lang,new stars
 65899476,espressif/esp-idf,C,60
 1856976,libevent/libevent,C,27
 437011,openzfs/zfs,C,148
-35780977,ImageMagick/ImageMagick,C,40
+35780977,ImageMagick/ImageMagick,C,41
 4151993,OpenVPN/openvpn,C,38
 50874442,citusdata/citus,C,44
 19112091,vanhauser-thc/thc-hydra,C,85
 97556265,catboost/catboost,C,12
-6376337,pocoproject/poco,C,24
+6376337,pocoproject/poco,C,26
 59676171,Klipper3d/klipper,C,87
 284134871,flipperdevices/flipperzero-firmware,C,108
 541269386,ggerganov/whisper.cpp,C,1314

@@ -4,9 +4,9 @@ id,name,lang,new stars
 458058,symfony/symfony,PHP,44
 60243197,nextcloud/server,PHP,55
 2253830,PHPMailer/PHPMailer,PHP,48
-448045,sebastianbergmann/phpunit,PHP,18
+448045,sebastianbergmann/phpunit,PHP,20
 82238168,monicahq/monica,PHP,476
-7769432,vlucas/phpdotenv,PHP,20
+7769432,vlucas/phpdotenv,PHP,19
 61490598,PHPOffice/PhpSpreadsheet,PHP,33
 10157178,egulias/EmailValidator,PHP,25
 42480275,spatie/laravel-permission,PHP,20
@@ -18,7 +18,7 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,15
 60010673,elementor/elementor,PHP,48
 29126334,EasyCorp/EasyAdminBundle,PHP,12
-96284790,prasathmani/tinyfilemanager,PHP,30
+96284790,prasathmani/tinyfilemanager,PHP,29
 13044600,salesagility/SuiteCRM,PHP,16
 151089715,symfony/polyfill-intl-idn,PHP,17
 307018731,DenverCoder1/github-readme-streak-stats,PHP,39

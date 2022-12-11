@@ -1,11 +1,11 @@
 id,name,lang,new stars
 1357796,emscripten-core/emscripten,C,0
 196353673,taosdata/TDengine,C,7
-34921116,iovisor/bcc,C,10
+34921116,iovisor/bcc,C,9
 927442,postgres/postgres,C,10
 60667730,lvgl/lvgl,C,3
-65899476,espressif/esp-idf,C,8
-9330072,fogleman/Craft,C,0
+65899476,espressif/esp-idf,C,9
+9330072,fogleman/Craft,C,1
 1979797,FreeRDP/FreeRDP,C,6
 105944401,yugabyte/yugabyte-db,C,6
 33945,sparklemotion/nokogiri,C,2
@@ -14,13 +14,13 @@ id,name,lang,new stars
 284134871,flipperdevices/flipperzero-firmware,C,14
 6331631,axboe/fio,C,2
 6687936,Mbed-TLS/mbedtls,C,1
-151870364,xiaorouji/openwrt-passwall,C,2
+151870364,xiaorouji/openwrt-passwall,C,4
 34807561,nanopb/nanopb,C,2
 15991457,openssh/openssh-portable,C,4
 283149635,arthenica/ffmpeg-kit,C,1
-151064439,ExpressLRS/ExpressLRS,C,5
-1031235,strongswan/strongswan,C,2
-270692521,zmkfirmware/zmk,C,2
+151064439,ExpressLRS/ExpressLRS,C,4
+1031235,strongswan/strongswan,C,0
+270692521,zmkfirmware/zmk,C,0
 53432472,sonic-net/sonic-buildimage,C,0
 148534714,bdbaraban/holbertonschool-low_level_programming,C,2
 573377157,eunomia-bpf/bpf-developer-tutorial,C,2

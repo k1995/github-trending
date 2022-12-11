@@ -1,8 +1,8 @@
 id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,616
-5108051,opencv/opencv,C++,616
+5108051,opencv/opencv,C++,617
 23357588,protocolbuffers/protobuf,C++,434
-11171548,nlohmann/json,C++,449
+11171548,nlohmann/json,C++,446
 4524181,facebook/folly,C++,297
 116167731,yuzu-emu/yuzu,C++,606
 19953044,google/flatbuffers,C++,478
@@ -11,16 +11,16 @@ id,name,lang,new stars
 76990209,Aircoookie/WLED,C++,364
 31102092,google/or-tools,C++,106
 138754790,duckdb/duckdb,C++,427
-184657328,NVIDIA/TensorRT,C++,176
+184657328,NVIDIA/TensorRT,C++,175
 309512982,redpanda-data/redpanda,C++,374
 14268809,FastLED/FastLED,C++,86
 128479644,esphome/esphome,C++,129
 115883761,tdlib/td,C++,103
 52882701,prusa3d/PrusaSlicer,C++,96
-224908244,WasmEdge/WasmEdge,C++,685
+224908244,WasmEdge/WasmEdge,C++,686
 470730648,hyprwm/Hyprland,C++,733
 433303514,yuesong-feng/30dayMakeCppServer,C++,548
 170738310,trustwallet/wallet-core,C++,188
 208325027,justcallmekoko/ESP32Marauder,C++,153
 125687069,axstin/rbxfpsunlocker,C++,162
-507861208,PaddlePaddle/FastDeploy,C++,429
+507861208,PaddlePaddle/FastDeploy,C++,425
