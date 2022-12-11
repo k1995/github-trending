@@ -1,5 +1,4 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,4483
 71220757,swisskyrepo/PayloadsAllTheThings,Python,1023
 188660663,CorentinJ/Real-Time-Voice-Cloning,Python,813
 74627617,commaai/openpilot,Python,1000
@@ -9,10 +8,10 @@ id,name,lang,new stars
 45723377,charlax/professional-programming,Python,1198
 178626720,Lightning-AI/lightning,Python,360
 65083316,luong-komorebi/Awesome-Linux-Software,Python,412
+323048702,OpenBB-finance/OpenBBTerminal,Python,856
 498011141,huggingface/diffusers,Python,1054
-422274596,hpcaitech/ColossalAI,Python,1173
 282443202,google/latexify_py,Python,1919
-217436984,facebookresearch/demucs,Python,197
+217436984,facebookresearch/demucs,Python,196
 344554014,TomSchimansky/CustomTkinter,Python,1488
 559033997,mli/autocut,Python,2187
 390536799,mlfoundations/open_clip,Python,424
@@ -24,3 +23,4 @@ id,name,lang,new stars
 307213173,openai/openai-python,Python,332
 537827151,THUDM/CodeGeeX,Python,567
 468576060,openai/openai-cookbook,Python,541
+552661142,hwchase17/langchain,Python,500
