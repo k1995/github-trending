@@ -1,19 +1,19 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,103
-7548986,laravel/framework,PHP,72
+7548986,laravel/framework,PHP,73
 458058,symfony/symfony,PHP,44
-60243197,nextcloud/server,PHP,54
+60243197,nextcloud/server,PHP,55
 2253830,PHPMailer/PHPMailer,PHP,48
 448045,sebastianbergmann/phpunit,PHP,18
-82238168,monicahq/monica,PHP,474
+82238168,monicahq/monica,PHP,476
 7769432,vlucas/phpdotenv,PHP,20
 61490598,PHPOffice/PhpSpreadsheet,PHP,33
 10157178,egulias/EmailValidator,PHP,25
 42480275,spatie/laravel-permission,PHP,20
 12166778,googleapis/google-api-php-client,PHP,13
 116389886,Anankke/SSPanel-Uim,PHP,39
-14346979,snipe/snipe-it,PHP,25
-6763587,PrestaShop/PrestaShop,PHP,16
+14346979,snipe/snipe-it,PHP,24
+6763587,PrestaShop/PrestaShop,PHP,17
 76064827,mailcow/mailcow-dockerized,PHP,37
 74386167,vimeo/psalm,PHP,15
 60010673,elementor/elementor,PHP,48
@@ -21,6 +21,6 @@ id,name,lang,new stars
 96284790,prasathmani/tinyfilemanager,PHP,30
 13044600,salesagility/SuiteCRM,PHP,16
 151089715,symfony/polyfill-intl-idn,PHP,17
-307018731,DenverCoder1/github-readme-streak-stats,PHP,38
+307018731,DenverCoder1/github-readme-streak-stats,PHP,39
 443605948,pablouser1/ProxiTok,PHP,13
 259296942,InsiderPhD/Generic-University,PHP,18

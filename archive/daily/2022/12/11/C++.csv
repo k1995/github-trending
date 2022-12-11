@@ -1,12 +1,12 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,16
 22067521,ocornut/imgui,C++,18
-27729880,grpc/grpc,C++,9
+27729880,grpc/grpc,C++,4
 39840932,google/googletest,C++,11
 108110,mongodb/mongo,C++,7
-26038648,gabime/spdlog,C++,9
+26038648,gabime/spdlog,C++,13
 95879426,Tencent/ncnn,C++,5
-1062572,catchorg/Catch2,C++,5
+1062572,catchorg/Catch2,C++,6
 267649918,hoffstadt/DearPyGui,C++,3
 146459443,vesoft-inc/nebula,C++,1
 86897963,ZLMediaKit/ZLMediaKit,C++,12
@@ -14,13 +14,13 @@ id,name,lang,new stars
 15773229,google/skia,C++,5
 8096326,openMVG/openMVG,C++,4
 243394576,pixie-io/pixie,C++,4
-153097643,openvinotoolkit/openvino,C++,2
+153097643,openvinotoolkit/openvino,C++,1
 47440536,cocos/cocos-engine,C++,5
 104358587,google/orbit,C++,4
 7454197,YosysHQ/yosys,C++,0
-80064252,CLIUtils/CLI11,C++,6
-12383220,pichenettes/eurorack,C++,19
+80064252,CLIUtils/CLI11,C++,3
+12383220,pichenettes/eurorack,C++,14
 388946490,facebookincubator/velox,C++,3
-410989014,exaloop/codon,C++,462
-564651074,bytedance/sonic-cpp,C++,28
+410989014,exaloop/codon,C++,495
+564651074,bytedance/sonic-cpp,C++,24
 568163642,34736384/RSAPatch,C++,8
