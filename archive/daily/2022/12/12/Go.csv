@@ -3,7 +3,7 @@ id,name,lang,new stars
 41912791,v2ray/v2ray-core,Go,14
 136815833,Dreamacro/clash,Go,46
 156084530,ehang-io/nps,Go,25
-59239347,portainer/portainer,Go,15
+59239347,portainer/portainer,Go,12
 54400687,grafana/k6,Go,4
 13624859,gorilla/websocket,Go,7
 233130089,charmbracelet/bubbletea,Go,17
@@ -21,6 +21,6 @@ id,name,lang,new stars
 574879283,869413421/wechatbot,Go,130
 507841912,cloudentity/oauth2c,Go,29
 575555632,awslabs/eks-node-viewer,Go,67
-574390547,icepie/jojo-live,Go,12
+574390547,icepie/jojo-live,Go,11
 574975994,gtoxlili/wechat-chatGPT,Go,22
 576072728,eryajf/chatgpt-dingtalk,Go,12

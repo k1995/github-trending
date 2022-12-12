@@ -1,6 +1,6 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,238
-52281283,mastodon/mastodon,Ruby,3682
+52281283,mastodon/mastodon,Ruby,3590
 8681349,huginn/huginn,Ruby,248
 7569578,discourse/discourse,Ruby,198
 53238813,Homebrew/brew,Ruby,374
@@ -12,15 +12,15 @@ id,name,lang,new stars
 52855516,Homebrew/homebrew-core,Ruby,134
 1918677,fluent/fluentd,Ruby,77
 1725199,github/linguist,Ruby,109
-16549503,github/scientist,Ruby,50
+16549503,github/scientist,Ruby,51
 6899875,opf/openproject,Ruby,125
-355893,github/markup,Ruby,32
-103766152,github/explore,Ruby,67
+355893,github/markup,Ruby,30
+103766152,github/explore,Ruby,68
 79352,mikel/mail,Ruby,16
 93163073,dependabot/dependabot-core,Ruby,66
 1175581,citation-style-language/styles,Ruby,36
 55288882,d12frosted/homebrew-emacs-plus,Ruby,45
 229187949,shivammathur/homebrew-php,Ruby,69
-99692620,renatolond/mastodon-twitter-poster,Ruby,101
+99692620,renatolond/mastodon-twitter-poster,Ruby,100
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,6
 365723058,learn-co-curriculum/phase-4-creating-a-rails-api,Ruby,4

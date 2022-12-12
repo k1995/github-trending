@@ -1,14 +1,14 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,109
-3482588,danielmiessler/SecLists,PHP,163
+3482588,danielmiessler/SecLists,PHP,162
 7548986,laravel/framework,PHP,78
 458058,symfony/symfony,PHP,44
 1864363,composer/composer,PHP,29
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,33
 60243197,nextcloud/server,PHP,57
-2253830,PHPMailer/PHPMailer,PHP,47
+2253830,PHPMailer/PHPMailer,PHP,48
 448045,sebastianbergmann/phpunit,PHP,19
-82238168,monicahq/monica,PHP,327
+82238168,monicahq/monica,PHP,326
 3431193,yiisoft/yii2,PHP,10
 7769432,vlucas/phpdotenv,PHP,16
 61490598,PHPOffice/PhpSpreadsheet,PHP,31
@@ -16,11 +16,11 @@ id,name,lang,new stars
 2884111,magento/magento2,PHP,16
 597887,doctrine/orm,PHP,14
 116389886,Anankke/SSPanel-Uim,PHP,42
-14346979,snipe/snipe-it,PHP,25
+14346979,snipe/snipe-it,PHP,27
 6763587,PrestaShop/PrestaShop,PHP,21
 74386167,vimeo/psalm,PHP,13
-60010673,elementor/elementor,PHP,69
+60010673,elementor/elementor,PHP,67
 96284790,prasathmani/tinyfilemanager,PHP,26
 151089715,symfony/polyfill-intl-idn,PHP,16
 463354076,laravel-workflow/laravel-workflow,PHP,42
-560298668,muhammadthm/SantaGiftShop,PHP,42
+560298668,muhammadthm/SantaGiftShop,PHP,43

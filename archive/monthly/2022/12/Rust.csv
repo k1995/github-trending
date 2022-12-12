@@ -6,7 +6,7 @@ id,name,lang,new stars
 234798675,bevyengine/bevy,Rust,1272
 152572186,wasmerio/wasmer,Rust,632
 135201145,RustPython/RustPython,Rust,404
-7270538,ankitects/anki,Rust,249
+7270538,ankitects/anki,Rust,251
 165522651,emilk/egui,Rust,573
 372172254,tokio-rs/axum,Rust,639
 414585797,0x192/universal-android-debloater,Rust,455
@@ -22,5 +22,5 @@ id,name,lang,new stars
 299354666,rustdesk/rustdesk-server,Rust,314
 240971104,AleoHQ/snarkOS,Rust,479
 500391407,buckyos/CYFS,Rust,512
-294858647,signalapp/libsignal,Rust,163
+294858647,signalapp/libsignal,Rust,170
 523436104,a16z/helios,Rust,347
