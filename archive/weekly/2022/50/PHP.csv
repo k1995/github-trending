@@ -6,7 +6,7 @@ id,name,lang,new stars
 1864363,composer/composer,PHP,29
 2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,33
 60243197,nextcloud/server,PHP,57
-2253830,PHPMailer/PHPMailer,PHP,48
+2253830,PHPMailer/PHPMailer,PHP,47
 448045,sebastianbergmann/phpunit,PHP,19
 82238168,monicahq/monica,PHP,327
 3431193,yiisoft/yii2,PHP,10
@@ -23,4 +23,4 @@ id,name,lang,new stars
 96284790,prasathmani/tinyfilemanager,PHP,26
 151089715,symfony/polyfill-intl-idn,PHP,16
 463354076,laravel-workflow/laravel-workflow,PHP,42
-560298668,muhammadthm/SantaGiftShop,PHP,43
+560298668,muhammadthm/SantaGiftShop,PHP,42
