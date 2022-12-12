@@ -1,10 +1,10 @@
 id,name,lang,new stars
 14712850,syncthing/syncthing,Go,21
-31288958,hashicorp/vault,Go,7
+31288958,hashicorp/vault,Go,6
 59239347,portainer/portainer,Go,13
 119160553,photoprism/photoprism,Go,24
 153099672,inancgumus/learngo,Go,23
-233130089,charmbracelet/bubbletea,Go,23
+233130089,charmbracelet/bubbletea,Go,22
 62712899,AdguardTeam/AdGuardHome,Go,14
 75785240,authelia/authelia,Go,17
 62091339,kubernetes/kops,Go,5
@@ -23,4 +23,4 @@ id,name,lang,new stars
 574879283,869413421/wechatbot,Go,119
 575555632,awslabs/eks-node-viewer,Go,67
 574975994,gtoxlili/wechat-chatGPT,Go,26
-575980164,m1guelpf/chatgpt-discord,Go,4
+575980164,m1guelpf/chatgpt-discord,Go,5
