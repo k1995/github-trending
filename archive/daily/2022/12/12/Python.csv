@@ -1,7 +1,7 @@
 id,name,lang,new stars
 21289110,vinta/awesome-python,Python,126
 12888993,home-assistant/core,Python,26
-529502,scrapy/scrapy,Python,13
+529502,scrapy/scrapy,Python,18
 212639071,bregman-arie/devops-exercises,Python,43
 349321229,TencentARC/GFPGAN,Python,23
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,241
@@ -10,7 +10,7 @@ id,name,lang,new stars
 288108533,karpathy/minGPT,Python,80
 498011141,huggingface/diffusers,Python,44
 569927055,Stability-AI/stablediffusion,Python,456
-333483116,dgtlmoon/changedetection.io,Python,32
+333483116,dgtlmoon/changedetection.io,Python,47
 573819845,acheong08/ChatGPT,Python,580
 488004650,facebookresearch/metaseq,Python,8
 539389184,TheLastBen/fast-stable-diffusion,Python,72
@@ -21,6 +21,6 @@ id,name,lang,new stars
 574506496,lss233/chatgpt-mirai-qq-bot,Python,26
 321228487,jonathanpaulson/AdventOfCode,Python,2
 574849909,terry3041/pyChatGPT,Python,32
-574354205,A-kirami/nonebot-plugin-chatgpt,Python,15
 576082057,fr0gger/IATelligence,Python,32
+574354205,A-kirami/nonebot-plugin-chatgpt,Python,16
 576232909,davidbombal/ssh_bruteforcing,Python,14

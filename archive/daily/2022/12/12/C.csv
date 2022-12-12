@@ -4,7 +4,7 @@ id,name,lang,new stars
 13233158,obsproject/obs-studio,C,23
 246335987,ventoy/Ventoy,C,32
 80286288,arendst/Tasmota,C,13
-15337142,micropython/micropython,C,7
+15337142,micropython/micropython,C,9
 27737393,qmk/qmk_firmware,C,11
 45821540,openwrt/openwrt,C,14
 13836499,raysan5/raylib,C,10
@@ -12,12 +12,12 @@ id,name,lang,new stars
 3319040,id-Software/DOOM,C,11
 50824485,winsiderss/systeminformer,C,8
 91493088,ValdikSS/GoodbyeDPI,C,15
-5805256,lua/lua,C,3
+5805256,lua/lua,C,5
 37060852,betaflight/betaflight,C,4
 59676171,Klipper3d/klipper,C,5
 86245815,pygame/pygame,C,6
 157590294,TelegramMessenger/Telegram-iOS,C,1
-541269386,ggerganov/whisper.cpp,C,328
+541269386,ggerganov/whisper.cpp,C,160
 151870364,xiaorouji/openwrt-passwall,C,9
 40306512,LuaJIT/LuaJIT,C,1
 92203868,fairyglade/ly,C,3
