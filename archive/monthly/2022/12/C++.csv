@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,621
+1181927,bitcoin/bitcoin,C++,620
 5108051,opencv/opencv,C++,616
 23357588,protocolbuffers/protobuf,C++,425
 11171548,nlohmann/json,C++,441
@@ -17,7 +17,7 @@ id,name,lang,new stars
 184657328,NVIDIA/TensorRT,C++,176
 309512982,redpanda-data/redpanda,C++,370
 14268809,FastLED/FastLED,C++,89
-52882701,prusa3d/PrusaSlicer,C++,99
+52882701,prusa3d/PrusaSlicer,C++,100
 224908244,WasmEdge/WasmEdge,C++,681
 470730648,hyprwm/Hyprland,C++,727
 170738310,trustwallet/wallet-core,C++,188
