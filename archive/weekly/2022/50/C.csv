@@ -5,8 +5,8 @@ id,name,lang,new stars
 80286288,arendst/Tasmota,C,102
 34921116,iovisor/bcc,C,69
 70127218,espressif/arduino-esp32,C,47
-65899476,espressif/esp-idf,C,47
-192805335,microsoft/mimalloc,C,70
+65899476,espressif/esp-idf,C,48
+192805335,microsoft/mimalloc,C,69
 2328181,freebsd/freebsd-src,C,17
 6376337,pocoproject/poco,C,56
 37060852,betaflight/betaflight,C,25
@@ -19,8 +19,8 @@ id,name,lang,new stars
 211756905,MarlinFirmware/Configurations,C,10
 276293034,apache/age,C,86
 558589102,cnlohr/mini-rv32ima,C,176
-505613691,OnionUI/Onion,C,34
-12756230,vermaseren/form,C,49
+505613691,OnionUI/Onion,C,33
+12756230,vermaseren/form,C,51
 564757991,infraredCoding/cerveur,C,137
 573760166,Wh04m1001/SysmonEoP,C,42
 565014499,hepingood/tea5767,C,13
