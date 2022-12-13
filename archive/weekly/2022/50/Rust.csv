@@ -1,13 +1,16 @@
 id,name,lang,new stars
+724712,rust-lang/rust,Rust,282
 196701619,tauri-apps/tauri,Rust,508
 42489829,rust-lang/rustlings,Rust,339
+115110181,swc-project/swc,Rust,132
+120425779,lapce/lapce,Rust,194
 121898717,dani-garcia/vaultwarden,Rust,168
 268424739,helix-editor/helix,Rust,435
 436658287,surrealdb/surrealdb,Rust,387
 135201145,RustPython/RustPython,Rust,167
 165522651,emilk/egui,Rust,146
+263727855,pola-rs/polars,Rust,279
 121470383,solana-labs/solana,Rust,38
-27029984,Geal/nom,Rust,82
 414585797,0x192/universal-android-debloater,Rust,206
 219035799,huggingface/tokenizers,Rust,42
 329782568,DioxusLabs/dioxus,Rust,98
@@ -16,11 +19,8 @@ id,name,lang,new stars
 57160728,mozilla/sccache,Rust,67
 268163609,qdrant/qdrant,Rust,87
 240971104,AleoHQ/snarkOS,Rust,80
-279089942,tauri-apps/wry,Rust,16
 500391407,buckyos/CYFS,Rust,123
 358917250,apache/arrow-rs,Rust,25
-424598738,apollographql/router,Rust,13
 450625045,facebookincubator/buck2,Rust,101
 567004198,linebender/xilem,Rust,139
 247216177,AleoHQ/snarkVM,Rust,20
-449305594,HarukaMa/aleo-prover,Rust,14

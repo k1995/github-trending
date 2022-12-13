@@ -1,17 +1,16 @@
 id,name,lang,new stars
 133442384,denoland/deno,Rust,725
 299354207,rustdesk/rustdesk,Rust,2002
-42489829,rust-lang/rustlings,Rust,1122
 241805592,rome/tools,Rust,1363
 234798675,bevyengine/bevy,Rust,1278
-67836789,tokio-rs/tokio,Rust,395
 152572186,wasmerio/wasmer,Rust,637
 135201145,RustPython/RustPython,Rust,398
 7270538,ankitects/anki,Rust,254
+263727855,pola-rs/polars,Rust,744
 372172254,tokio-rs/axum,Rust,624
 414585797,0x192/universal-android-debloater,Rust,474
 397618589,messense/aliyundrive-webdav,Rust,410
-261124045,slint-ui/slint,Rust,267
+329782568,DioxusLabs/dioxus,Rust,338
 551376520,tw93/Pake,Rust,2184
 523043277,charliermarsh/ruff,Rust,960
 57160728,mozilla/sccache,Rust,174
@@ -22,5 +21,6 @@ id,name,lang,new stars
 299354666,rustdesk/rustdesk-server,Rust,316
 240971104,AleoHQ/snarkOS,Rust,470
 500391407,buckyos/CYFS,Rust,510
-294858647,signalapp/libsignal,Rust,172
+295245253,geph-official/geph4-client,Rust,210
 523436104,a16z/helios,Rust,320
+531874744,aurae-runtime/aurae,Rust,364
