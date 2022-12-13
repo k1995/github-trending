@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,240
-65252,jekyll/jekyll,Ruby,217
-52281283,mastodon/mastodon,Ruby,3452
+8514,rails/rails,Ruby,239
+65252,jekyll/jekyll,Ruby,215
+52281283,mastodon/mastodon,Ruby,3481
 8681349,huginn/huginn,Ruby,249
-7569578,discourse/discourse,Ruby,197
-53238813,Homebrew/brew,Ruby,371
-13840241,freeCodeCamp/devdocs,Ruby,307
+7569578,discourse/discourse,Ruby,199
+53238813,Homebrew/brew,Ruby,374
+13840241,freeCodeCamp/devdocs,Ruby,308
 2293158,rapid7/metasploit-framework,Ruby,251
 308770,heartcombo/devise,Ruby,79
-3623050,Homebrew/homebrew-cask,Ruby,98
-3195124,mperham/sidekiq,Ruby,72
+3623050,Homebrew/homebrew-cask,Ruby,99
+3195124,mperham/sidekiq,Ruby,71
 4095287,rubocop/rubocop,Ruby,51
-52855516,Homebrew/homebrew-core,Ruby,134
+52855516,Homebrew/homebrew-core,Ruby,135
 1918677,fluent/fluentd,Ruby,79
 1725199,github/linguist,Ruby,106
 6899875,opf/openproject,Ruby,124
@@ -21,6 +21,6 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,65
 270054,ffi/ffi,Ruby,10
 55288882,d12frosted/homebrew-emacs-plus,Ruby,46
-229187949,shivammathur/homebrew-php,Ruby,71
+229187949,shivammathur/homebrew-php,Ruby,74
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,7
 365723058,learn-co-curriculum/phase-4-creating-a-rails-api,Ruby,4
