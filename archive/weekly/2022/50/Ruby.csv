@@ -1,7 +1,7 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,54
-2293158,rapid7/metasploit-framework,Ruby,57
-481872,hashicorp/vagrant,Ruby,38
+8514,rails/rails,Ruby,51
+2293158,rapid7/metasploit-framework,Ruby,55
+481872,hashicorp/vagrant,Ruby,36
 308770,heartcombo/devise,Ruby,14
 538746,ruby/ruby,Ruby,33
 202291859,chatwoot/chatwoot,Ruby,44
@@ -11,7 +11,7 @@ id,name,lang,new stars
 106995,sinatra/sinatra,Ruby,10
 96395,faker-ruby/faker,Ruby,18
 47087,carrierwaveuploader/carrierwave,Ruby,5
-21829,thoughtbot/factory_bot,Ruby,10
+21829,thoughtbot/factory_bot,Ruby,9
 211588,paper-trail-gem/paper_trail,Ruby,8
 6899875,opf/openproject,Ruby,22
 33739333,thoughtbot/administrate,Ruby,3
@@ -19,7 +19,7 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,14
 79352,mikel/mail,Ruby,6
 138776049,sorbet/sorbet,Ruby,11
-194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,18
+194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,17
 9831101,elastic/elasticsearch-ruby,Ruby,1
 229187949,shivammathur/homebrew-php,Ruby,30
 49878403,zendesk/ruby-kafka,Ruby,1

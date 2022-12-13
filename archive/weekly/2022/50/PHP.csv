@@ -1,13 +1,13 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,117
-7548986,laravel/framework,PHP,79
+1863329,laravel/laravel,PHP,115
+7548986,laravel/framework,PHP,76
 458058,symfony/symfony,PHP,42
-1864363,composer/composer,PHP,27
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,26
+1864363,composer/composer,PHP,30
+2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,28
 60243197,nextcloud/server,PHP,61
-2253830,PHPMailer/PHPMailer,PHP,45
+2253830,PHPMailer/PHPMailer,PHP,43
 82238168,monicahq/monica,PHP,223
-2889328,WordPress/WordPress,PHP,24
+2889328,WordPress/WordPress,PHP,27
 3431193,yiisoft/yii2,PHP,11
 61490598,PHPOffice/PhpSpreadsheet,PHP,31
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,20
@@ -16,11 +16,11 @@ id,name,lang,new stars
 2179920,woocommerce/woocommerce,PHP,19
 116389886,Anankke/SSPanel-Uim,PHP,39
 14346979,snipe/snipe-it,PHP,25
-6763587,PrestaShop/PrestaShop,PHP,23
+6763587,PrestaShop/PrestaShop,PHP,22
 76064827,mailcow/mailcow-dockerized,PHP,38
 60010673,elementor/elementor,PHP,79
 29126334,EasyCorp/EasyAdminBundle,PHP,12
 14724954,opensourcepos/opensourcepos,PHP,15
 278929867,antonkomarev/github-profile-views-counter,PHP,28
-188791042,symfony/service-contracts,PHP,15
+188791042,symfony/service-contracts,PHP,14
 560298668,muhammadthm/SantaGiftShop,PHP,12

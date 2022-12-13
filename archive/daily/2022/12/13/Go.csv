@@ -1,5 +1,5 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,32
+20904437,gin-gonic/gin,Go,33
 42408804,traefik/traefik,Go,13
 15045751,docker/compose,Go,13
 27729907,grpc/grpc-go,Go,5
@@ -18,7 +18,7 @@ id,name,lang,new stars
 103084166,tenable/terrascan,Go,3
 93446042,hashicorp/terraform-provider-azurerm,Go,3
 278480393,aws/karpenter,Go,14
-187086161,open-telemetry/opentelemetry-go,Go,5
+187086161,open-telemetry/opentelemetry-go,Go,4
 329229346,eatmoreapple/openwechat,Go,89
 575555632,awslabs/eks-node-viewer,Go,51
 574975994,gtoxlili/wechat-chatGPT,Go,63
