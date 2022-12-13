@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,58
+2325298,torvalds/linux,C,59
 36502,git/git,C,17
 5101141,stedolan/jq,C,17
-80286288,arendst/Tasmota,C,54
+80286288,arendst/Tasmota,C,13
 29759715,facebook/zstd,C,10
 34921116,iovisor/bcc,C,15
 45821540,openwrt/openwrt,C,11
@@ -11,7 +11,7 @@ id,name,lang,new stars
 192805335,microsoft/mimalloc,C,11
 6376337,pocoproject/poco,C,9
 5870069,edenhill/librdkafka,C,2
-2755696,mattn/go-sqlite3,C,8
+2755696,mattn/go-sqlite3,C,7
 400501136,deepmind/mujoco,C,6
 12416862,Provenance-Emu/Provenance,C,4
 6687936,Mbed-TLS/mbedtls,C,6
@@ -19,7 +19,7 @@ id,name,lang,new stars
 283280154,jomjol/AI-on-the-edge-device,C,5
 3276860,ThrowTheSwitch/Unity,C,1
 321154,libffi/libffi,C,4
-343191804,nalgeon/sqlean,C,163
+343191804,nalgeon/sqlean,C,206
 16648618,bitcoin-core/secp256k1,C,5
 4002222,SRombauts/SQLiteCpp,C,1
 270692521,zmkfirmware/zmk,C,3
