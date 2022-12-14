@@ -1,22 +1,26 @@
 id,name,lang,new stars
 35955666,jlevy/the-art-of-command-line,,5822
 34526884,ant-design/ant-design,TypeScript,881
-214587193,supabase/supabase,TypeScript,1687
-52281283,mastodon/mastodon,Ruby,3404
+214587193,supabase/supabase,TypeScript,1690
+52281283,mastodon/mastodon,Ruby,3280
 90563585,chubin/cheat.sh,Python,2872
-116392709,digitalocean/nginxconfig.io,JavaScript,1319
-240215314,docker/awesome-compose,HTML,789
-495836457,t3-oss/create-t3-app,TypeScript,2936
-525592995,invoke-ai/InvokeAI,Jupyter Notebook,2827
-541269386,ggerganov/whisper.cpp,C,3277
-519882617,gbj/leptos,Rust,2398
-470579591,DarkFlippers/unleashed-firmware,C,914
+163883279,nektos/act,Go,3488
+116392709,digitalocean/nginxconfig.io,JavaScript,1318
+240215314,docker/awesome-compose,HTML,793
+120231691,Ryujinx/Ryujinx,C#,2204
+495836457,t3-oss/create-t3-app,TypeScript,2940
+525592995,invoke-ai/InvokeAI,Jupyter Notebook,2832
+541269386,ggerganov/whisper.cpp,C,3220
+540917299,jaywcjlove/reference,Dockerfile,2741
+519882617,gbj/leptos,Rust,2400
+490465859,UberGuidoZ/Flipper,Batchfile,794
+470579591,DarkFlippers/unleashed-firmware,C,915
 559033997,mli/autocut,Python,1944
-390536799,mlfoundations/open_clip,Python,452
-240971104,AleoHQ/snarkOS,Rust,453
-564058707,timhutton/twitter-archive-parser,Python,1456
-342854098,superseriousbusiness/gotosocial,Go,702
-537803484,palera1n/palera1n,Shell,842
+390536799,mlfoundations/open_clip,Python,438
+240971104,AleoHQ/snarkOS,Rust,451
+564058707,timhutton/twitter-archive-parser,Python,1446
+342854098,superseriousbusiness/gotosocial,Go,701
+537803484,palera1n/palera1n,Shell,837
 509850056,Visualize-ML/Book4_Power-of-Matrix,Python,970
-364304792,davidfowl/TodoApi,C#,907
-562338288,d8ahazard/sd_dreambooth_extension,Python,195
+364304792,davidfowl/TodoApi,C#,905
+562338288,d8ahazard/sd_dreambooth_extension,Python,199

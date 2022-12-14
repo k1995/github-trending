@@ -1,7 +1,7 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,1977
 111583593,Genymobile/scrcpy,C,1329
-10744183,netdata/netdata,C,373
+10744183,netdata/netdata,C,374
 246335987,ventoy/Ventoy,C,1497
 569041,curl/curl,C,351
 102578345,coolsnowwolf/lede,C,543
@@ -9,18 +9,18 @@ id,name,lang,new stars
 20159867,nothings/stb,C,303
 196353673,taosdata/TDengine,C,678
 80286288,arendst/Tasmota,C,256
-60667730,lvgl/lvgl,C,201
-394318710,valinet/ExplorerPatcher,C,760
-3299208,videolan/vlc,C,195
+60667730,lvgl/lvgl,C,200
+394318710,valinet/ExplorerPatcher,C,761
+3299208,videolan/vlc,C,197
 70127218,espressif/arduino-esp32,C,209
 65899476,espressif/esp-idf,C,187
 437011,openzfs/zfs,C,246
 50824485,winsiderss/systeminformer,C,200
 14049216,cockpit-project/cockpit,C,313
 19112091,vanhauser-thc/thc-hydra,C,198
-59676171,Klipper3d/klipper,C,214
-400501136,deepmind/mujoco,C,130
+59676171,Klipper3d/klipper,C,212
+400501136,deepmind/mujoco,C,129
 284134871,flipperdevices/flipperzero-firmware,C,508
-541269386,ggerganov/whisper.cpp,C,3220
+541269386,ggerganov/whisper.cpp,C,3281
 63369078,yshui/picom,C,88
-470579591,DarkFlippers/unleashed-firmware,C,915
+470579591,DarkFlippers/unleashed-firmware,C,914

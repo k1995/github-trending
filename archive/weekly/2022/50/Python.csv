@@ -1,15 +1,15 @@
 id,name,lang,new stars
 12888993,home-assistant/core,Python,207
-57222302,openai/gym,Python,163
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1090
+57222302,openai/gym,Python,158
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1092
 101782647,facebookresearch/fairseq,Python,132
 170067246,openai/gpt-2,Python,102
-92238803,openai/baselines,Python,107
+92238803,openai/baselines,Python,104
 341714203,openai/DALL-E,Python,101
 288108533,karpathy/minGPT,Python,183
 573819845,acheong08/ChatGPT,Python,4654
-333483116,dgtlmoon/changedetection.io,Python,212
-347502287,kingoflolz/mesh-transformer-jax,Python,90
+333483116,dgtlmoon/changedetection.io,Python,216
+347502287,kingoflolz/mesh-transformer-jax,Python,87
 539389184,TheLastBen/fast-stable-diffusion,Python,373
 473670467,flet-dev/flet,Python,170
 323651234,EleutherAI/gpt-neox,Python,99
@@ -19,7 +19,7 @@ id,name,lang,new stars
 574156195,JusticeRage/Gepetto,Python,390
 307213173,openai/openai-python,Python,228
 468576060,openai/openai-cookbook,Python,267
-552661142,hwchase17/langchain,Python,338
+552661142,hwchase17/langchain,Python,342
 573616913,altryne/chatGPT-telegram-bot,Python,323
 574385890,bupticybee/ChineseAiDungeonChatGPT,Python,452
 573547054,taranjeet/chatgpt-api,Python,124
