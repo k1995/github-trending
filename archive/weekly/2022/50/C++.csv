@@ -1,7 +1,7 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,183
 5108051,opencv/opencv,C++,163
-23357588,protocolbuffers/protobuf,C++,77
+23357588,protocolbuffers/protobuf,C++,76
 39840932,google/googletest,C++,74
 3351871,qbittorrent/qBittorrent,C++,112
 7056202,fmtlib/fmt,C++,63
@@ -16,11 +16,11 @@ id,name,lang,new stars
 8096326,openMVG/openMVG,C++,47
 119178893,klzgrad/naiveproxy,C++,113
 467157951,filecxx/FileCentipede,C++,120
-510313729,focus-creative-games/hybridclr,C++,41
-206946371,ton-blockchain/ton,C++,28
+510313729,focus-creative-games/hybridclr,C++,43
+206946371,ton-blockchain/ton,C++,23
 354138793,NVIDIA/FasterTransformer,C++,35
 438803890,LizardByte/Sunshine,C++,59
 75149209,okcashpro/okcash,C++,154
 488177011,MatsuriDayo/nekoray,C++,77
-552676144,alibaba/havenask,C++,198
+552676144,alibaba/havenask,C++,199
 564651074,bytedance/sonic-cpp,C++,176

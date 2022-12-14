@@ -1,5 +1,5 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,46
+111583593,Genymobile/scrcpy,C,36
 10744183,netdata/netdata,C,15
 156018,redis/redis,C,18
 36502,git/git,C,18
@@ -10,15 +10,15 @@ id,name,lang,new stars
 689344,libretro/RetroArch,C,11
 59771425,zephyrproject-rtos/zephyr,C,5
 59676171,Klipper3d/klipper,C,6
-6667084,ponylang/ponyc,C,72
-127023441,NVIDIA/cuda-samples,C,3
+6667084,ponylang/ponyc,C,74
+127023441,NVIDIA/cuda-samples,C,2
 26537135,u-boot/u-boot,C,2
 39042157,spdk/spdk,C,2
 343191804,nalgeon/sqlean,C,155
 67372977,citusdata/pg_cron,C,8
 84732118,rxi/log.c,C,1
 16648618,bitcoin-core/secp256k1,C,6
-152338895,libbpf/libbpf,C,7
+152338895,libbpf/libbpf,C,6
 53432472,sonic-net/sonic-buildimage,C,0
 522085221,pietroborrello/CustomProcessingUnit,C,9
 507678095,BrightDaniel/alx-low_level_programming,C,1

@@ -1,5 +1,5 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,137
+36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,136
 29028775,facebook/react-native,JavaScript,23
 23088740,axios/axios,JavaScript,20
 27193779,nodejs/node,JavaScript,29
@@ -7,12 +7,12 @@ id,name,lang,new stars
 157616880,iptv-org/iptv,JavaScript,142
 36040894,gatsbyjs/gatsby,JavaScript,7
 23736449,VincentGarreau/particles.js,JavaScript,7
-382496361,louislam/uptime-kuma,JavaScript,347
+382496361,louislam/uptime-kuma,JavaScript,195
 3620194,select2/select2,JavaScript,5
 17372733,OAI/OpenAPI-Specification,JavaScript,10
-97086543,TheAlgorithms/JavaScript,JavaScript,75
+97086543,TheAlgorithms/JavaScript,JavaScript,78
 7530570,appium/appium,JavaScript,4
-234739976,medusajs/medusa,JavaScript,32
+234739976,medusajs/medusa,TypeScript,32
 72343657,mifi/lossless-cut,JavaScript,507
 61204547,wix/Detox,JavaScript,6
 3606738,CesiumGS/cesium,JavaScript,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 105473537,BetterDiscord/BetterDiscord,JavaScript,14
 235468657,PipedreamHQ/pipedream,JavaScript,10
 20387062,horsicq/Detect-It-Easy,JavaScript,47
-161980047,pt-plugins/PT-Plugin-Plus,JavaScript,24
-438514144,wangrongding/wechat-bot,JavaScript,218
+161980047,pt-plugins/PT-Plugin-Plus,JavaScript,25
+438514144,wangrongding/wechat-bot,JavaScript,135
 576238936,memochou1993/gpt-ai-assistant,JavaScript,69

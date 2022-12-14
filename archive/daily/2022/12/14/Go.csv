@@ -1,5 +1,5 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,67
+21540759,avelino/awesome-go,Go,78
 26337322,rancher/rancher,Go,5
 8966356,hashicorp/packer,Go,5
 198683574,dolthub/dolt,Go,26
@@ -14,12 +14,12 @@ id,name,lang,new stars
 52193726,volatiletech/sqlboiler,Go,10
 267054247,anchore/grype,Go,4
 230660669,aler9/rtsp-simple-server,Go,9
-278480393,aws/karpenter,Go,14
+278480393,aws/karpenter,Go,13
 262126497,anchore/syft,Go,10
 236736020,actions/actions-runner-controller,Go,8
 474521466,helmfile/helmfile,Go,15
 139544571,gookit/goutil,Go,14
-329229346,eatmoreapple/openwechat,Go,65
+329229346,eatmoreapple/openwechat,Go,71
 241148033,mongodb/mongodb-kubernetes-operator,Go,1
 410897288,OffchainLabs/nitro,Go,3
 574975994,gtoxlili/wechat-chatGPT,Go,54

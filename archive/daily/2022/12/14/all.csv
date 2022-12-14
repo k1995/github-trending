@@ -2,25 +2,25 @@ id,name,lang,new stars
 36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,136
 23083156,mui/material-ui,JavaScript,33
 137078487,vuejs/core,TypeScript,35
-11171548,nlohmann/json,C++,16
+11171548,nlohmann/json,C++,12
 419347358,PKUFlyingPig/cs-self-learning,HTML,230
 101782647,facebookresearch/fairseq,Python,81
-83516498,norvig/pytudes,Jupyter Notebook,23
+83516498,norvig/pytudes,Jupyter Notebook,34
 7122594,directus/directus,TypeScript,17
 198683574,dolthub/dolt,Go,26
 34407651,Azure/azure-quickstart-templates,Bicep,6
-263727855,pola-rs/polars,Rust,134
-72685026,MicrosoftDocs/azure-docs,PowerShell,31
-574523116,f/awesome-chatgpt-prompts,,1292
+263727855,pola-rs/polars,Rust,137
+72685026,MicrosoftDocs/azure-docs,PowerShell,14
+574523116,f/awesome-chatgpt-prompts,,1202
 230660669,aler9/rtsp-simple-server,Go,9
+574097989,humanloop/awesome-chatgpt,,633
 38982731,home-assistant/frontend,TypeScript,6
-574097989,humanloop/awesome-chatgpt,,855
-576568368,calistus-igwilo/nitda-blockchain-scholarship,,237
-343191804,nalgeon/sqlean,C,155
-537803484,palera1n/palera1n,Shell,57
+576568368,calistus-igwilo/nitda-blockchain-scholarship,,386
+343191804,nalgeon/sqlean,C,53
+537803484,palera1n/palera1n,Shell,59
 552676144,alibaba/havenask,C++,46
-514304222,zas023/JdBuyer,Python,12
-575576871,mohammadpz/pytorch_forward_forward,Python,61
-575628616,cloneofsimo/lora,Jupyter Notebook,109
-575340621,lencx/ChatGPT,Rust,53
-575949681,wesbos/pommade,TypeScript,16
+514304222,zas023/JdBuyer,Python,33
+575576871,mohammadpz/pytorch_forward_forward,Python,60
+575628616,cloneofsimo/lora,Jupyter Notebook,101
+575340621,lencx/ChatGPT,Rust,52
+575949681,wesbos/pommade,TypeScript,15
