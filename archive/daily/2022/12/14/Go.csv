@@ -1,13 +1,13 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,32
-42408804,traefik/traefik,Go,13
+42408804,traefik/traefik,Go,14
 15045751,docker/compose,Go,9
 27729907,grpc/grpc-go,Go,6
 153099672,inancgumus/learngo,Go,17
-5179099,go-redis/redis,Go,9
-7083242,go-sql-driver/mysql,Go,7
-23247808,rqlite/rqlite,Go,25
-33258973,influxdata/telegraf,Go,3
+5179099,go-redis/redis,Go,7
+7083242,go-sql-driver/mysql,Go,8
+23247808,rqlite/rqlite,Go,27
+33258973,influxdata/telegraf,Go,5
 30711774,go-playground/validator,Go,1
 120896210,argoproj/argo-cd,Go,15
 10721619,hajimehoshi/ebiten,Go,9
@@ -16,10 +16,10 @@ id,name,lang,new stars
 125275487,kubernetes-sigs/kubebuilder,Go,3
 170411418,kedacore/keda,Go,6
 103084166,tenable/terrascan,Go,1
-93446042,hashicorp/terraform-provider-azurerm,Go,2
-278480393,aws/karpenter,Go,13
+93446042,hashicorp/terraform-provider-azurerm,Go,3
+278480393,aws/karpenter,Go,14
 187086161,open-telemetry/opentelemetry-go,Go,4
-329229346,eatmoreapple/openwechat,Go,71
-575555632,awslabs/eks-node-viewer,Go,45
+329229346,eatmoreapple/openwechat,Go,65
+575555632,awslabs/eks-node-viewer,Go,47
 574975994,gtoxlili/wechat-chatGPT,Go,54
 576156235,mtgnorton/cp-v2,Go,13
