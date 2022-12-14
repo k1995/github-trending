@@ -1,26 +1,26 @@
 id,name,lang,new stars
 35955666,jlevy/the-art-of-command-line,,5822
 34526884,ant-design/ant-design,TypeScript,881
-214587193,supabase/supabase,TypeScript,1687
-58836534,algorithm-visualizer/algorithm-visualizer,JavaScript,1438
-52281283,mastodon/mastodon,Ruby,3404
+214587193,supabase/supabase,TypeScript,1686
+52281283,mastodon/mastodon,Ruby,3309
 90563585,chubin/cheat.sh,Python,2872
-163883279,nektos/act,Go,3505
+163883279,nektos/act,Go,3490
 116392709,digitalocean/nginxconfig.io,JavaScript,1319
 240215314,docker/awesome-compose,HTML,789
-120231691,Ryujinx/Ryujinx,C#,2205
+120231691,Ryujinx/Ryujinx,C#,2206
 495836457,t3-oss/create-t3-app,TypeScript,2936
-525592995,invoke-ai/InvokeAI,Jupyter Notebook,2827
-541269386,ggerganov/whisper.cpp,C,3254
-165670309,TanStack/router,TypeScript,761
-540917299,jaywcjlove/reference,Dockerfile,2749
+525592995,invoke-ai/InvokeAI,Jupyter Notebook,2825
+541269386,ggerganov/whisper.cpp,C,3217
+540917299,jaywcjlove/reference,Dockerfile,2751
 519882617,gbj/leptos,Rust,2398
-490465859,UberGuidoZ/Flipper,Batchfile,793
+490465859,UberGuidoZ/Flipper,Batchfile,794
 470579591,DarkFlippers/unleashed-firmware,C,914
 559033997,mli/autocut,Python,1944
-390536799,mlfoundations/open_clip,Python,448
-240971104,AleoHQ/snarkOS,Rust,453
-564058707,timhutton/twitter-archive-parser,Python,1456
+390536799,mlfoundations/open_clip,Python,438
+240971104,AleoHQ/snarkOS,Rust,454
+564058707,timhutton/twitter-archive-parser,Python,1457
+342854098,superseriousbusiness/gotosocial,Go,705
 537803484,palera1n/palera1n,Shell,842
 509850056,Visualize-ML/Book4_Power-of-Matrix,Python,970
-364304792,davidfowl/TodoApi,C#,907
+364304792,davidfowl/TodoApi,C#,908
+562338288,d8ahazard/sd_dreambooth_extension,Python,195

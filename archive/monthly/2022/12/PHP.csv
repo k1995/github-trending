@@ -4,7 +4,7 @@ id,name,lang,new stars
 7548986,laravel/framework,PHP,279
 458058,symfony/symfony,PHP,168
 60243197,nextcloud/server,PHP,317
-2253830,PHPMailer/PHPMailer,PHP,162
+2253830,PHPMailer/PHPMailer,PHP,163
 82238168,monicahq/monica,PHP,937
 2889328,WordPress/WordPress,PHP,134
 2884111,magento/magento2,PHP,66
@@ -13,6 +13,7 @@ id,name,lang,new stars
 9791525,digininja/DVWA,PHP,149
 6763587,PrestaShop/PrestaShop,PHP,76
 97311017,rectorphp/rector,PHP,207
+76064827,mailcow/mailcow-dockerized,PHP,133
 119047018,linuxserver/Heimdall,PHP,199
 6322699,FreshRSS/FreshRSS,PHP,231
 60010673,elementor/elementor,PHP,133
@@ -21,6 +22,5 @@ id,name,lang,new stars
 96284790,prasathmani/tinyfilemanager,PHP,98
 129852395,assimon/dujiaoka,PHP,148
 286645686,yuantuo666/baiduwp-php,PHP,208
-400984450,kuaifan/dootask,PHP,136
 311448648,laravel/breeze,PHP,48
 216849756,v2board/v2board,PHP,140

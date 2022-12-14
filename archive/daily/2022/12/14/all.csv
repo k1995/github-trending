@@ -1,25 +1,26 @@
 id,name,lang,new stars
-382496361,louislam/uptime-kuma,JavaScript,326
-163591278,GitHubDaily/GitHubDaily,,33
-245704608,colinhacks/zod,TypeScript,170
-471728341,lensterxyz/lenster,TypeScript,163
-72685026,MicrosoftDocs/azure-docs,PowerShell,27
-569927055,Stability-AI/stablediffusion,Python,339
-439491516,ange-yaghi/engine-sim,C++,20
+36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,136
+23083156,mui/material-ui,JavaScript,33
+137078487,vuejs/core,TypeScript,35
+11171548,nlohmann/json,C++,16
+419347358,PKUFlyingPig/cs-self-learning,HTML,230
+101782647,facebookresearch/fairseq,Python,81
+83516498,norvig/pytudes,Jupyter Notebook,23
+7122594,directus/directus,TypeScript,17
+198683574,dolthub/dolt,Go,26
+34407651,Azure/azure-quickstart-templates,Bicep,6
+263727855,pola-rs/polars,Rust,134
+72685026,MicrosoftDocs/azure-docs,PowerShell,31
 574523116,f/awesome-chatgpt-prompts,,1292
-551376520,tw93/Pake,Rust,354
-347502287,kingoflolz/mesh-transformer-jax,Python,18
-574965758,fuergaosi233/wechat-chatgpt,TypeScript,290
-410989014,exaloop/codon,C++,544
+230660669,aler9/rtsp-simple-server,Go,9
+38982731,home-assistant/frontend,TypeScript,6
 574097989,humanloop/awesome-chatgpt,,855
-576568368,calistus-igwilo/nitda-blockchain-scholarship,,254
-574600955,AutumnWhj/ChatGPT-wechat-bot,TypeScript,107
-552661142,hwchase17/langchain,Python,48
-574612724,shinework/photoshot,TypeScript,203
-329229346,eatmoreapple/openwechat,Go,65
-438514144,wangrongding/wechat-bot,JavaScript,135
+576568368,calistus-igwilo/nitda-blockchain-scholarship,,237
+343191804,nalgeon/sqlean,C,155
+537803484,palera1n/palera1n,Shell,57
+552676144,alibaba/havenask,C++,46
+514304222,zas023/JdBuyer,Python,12
 575576871,mohammadpz/pytorch_forward_forward,Python,61
-575527930,deepmind/dramatron,Jupyter Notebook,137
-576254831,skydoves/chatgpt-android,Kotlin,125
-575555632,awslabs/eks-node-viewer,Go,47
-575253452,PlexPt/chatgpt-java,Java,40
+575628616,cloneofsimo/lora,Jupyter Notebook,109
+575340621,lencx/ChatGPT,Rust,53
+575949681,wesbos/pommade,TypeScript,16
