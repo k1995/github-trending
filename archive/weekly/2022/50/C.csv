@@ -5,10 +5,10 @@ id,name,lang,new stars
 80286288,arendst/Tasmota,C,115
 34921116,iovisor/bcc,C,71
 70127218,espressif/arduino-esp32,C,41
-65899476,espressif/esp-idf,C,48
-192805335,microsoft/mimalloc,C,71
+65899476,espressif/esp-idf,C,47
+192805335,microsoft/mimalloc,C,72
 2328181,freebsd/freebsd-src,C,13
-6376337,pocoproject/poco,C,57
+6376337,pocoproject/poco,C,59
 37060852,betaflight/betaflight,C,24
 400501136,deepmind/mujoco,C,29
 94530674,Syllo/nvtop,C,140
@@ -20,7 +20,7 @@ id,name,lang,new stars
 276293034,apache/age,C,75
 558589102,cnlohr/mini-rv32ima,C,138
 505613691,OnionUI/Onion,C,37
-12756230,vermaseren/form,C,49
+12756230,vermaseren/form,C,48
 564757991,infraredCoding/cerveur,C,120
 573760166,Wh04m1001/SysmonEoP,C,28
 565014499,hepingood/tea5767,C,12

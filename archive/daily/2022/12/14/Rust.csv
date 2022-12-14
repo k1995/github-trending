@@ -1,5 +1,5 @@
 id,name,lang,new stars
-53631945,BurntSushi/ripgrep,Rust,24
+53631945,BurntSushi/ripgrep,Rust,22
 115110181,swc-project/swc,Rust,32
 241805592,rome/tools,Rust,21
 120425779,lapce/lapce,Rust,24
@@ -10,11 +10,11 @@ id,name,lang,new stars
 263727855,pola-rs/polars,Rust,134
 41609775,diesel-rs/diesel,Rust,6
 17420913,rust-lang/cargo,Rust,8
-226408450,neovide/neovide,Rust,13
+226408450,neovide/neovide,Rust,12
 551376520,tw93/Pake,Rust,354
 131135585,svenstaro/miniserve,Rust,24
 35894511,serde-rs/json,Rust,6
-57160728,mozilla/sccache,Rust,7
+57160728,mozilla/sccache,Rust,5
 228908078,tcdi/pgx,Rust,35
 440810736,EAimTY/tuic,Rust,6
 480592723,move-language/move,Rust,2
