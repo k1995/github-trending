@@ -1,5 +1,5 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,36
+111583593,Genymobile/scrcpy,C,35
 10744183,netdata/netdata,C,15
 156018,redis/redis,C,18
 36502,git/git,C,18
@@ -10,7 +10,7 @@ id,name,lang,new stars
 689344,libretro/RetroArch,C,11
 59771425,zephyrproject-rtos/zephyr,C,5
 59676171,Klipper3d/klipper,C,6
-6667084,ponylang/ponyc,C,74
+6667084,ponylang/ponyc,C,55
 127023441,NVIDIA/cuda-samples,C,2
 26537135,u-boot/u-boot,C,2
 39042157,spdk/spdk,C,2
