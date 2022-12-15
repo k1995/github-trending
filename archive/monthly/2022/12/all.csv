@@ -1,26 +1,26 @@
 id,name,lang,new stars
-35955666,jlevy/the-art-of-command-line,,5857
+35955666,jlevy/the-art-of-command-line,,5867
 34526884,ant-design/ant-design,TypeScript,893
-214587193,supabase/supabase,TypeScript,1715
-52281283,mastodon/mastodon,Ruby,3213
-90563585,chubin/cheat.sh,Python,2887
+214587193,supabase/supabase,TypeScript,1714
+52281283,mastodon/mastodon,Ruby,3087
+90563585,chubin/cheat.sh,Python,2888
 163883279,nektos/act,Go,3510
-116392709,digitalocean/nginxconfig.io,JavaScript,1322
-240215314,docker/awesome-compose,HTML,799
-120231691,Ryujinx/Ryujinx,C#,2040
-495836457,t3-oss/create-t3-app,TypeScript,2960
-525592995,invoke-ai/InvokeAI,Jupyter Notebook,2900
-541269386,ggerganov/whisper.cpp,C,3269
+240215314,docker/awesome-compose,HTML,800
+120231691,Ryujinx/Ryujinx,C#,2038
+525592995,invoke-ai/InvokeAI,Jupyter Notebook,2902
+436297812,usememos/memos,TypeScript,2971
+58146669,facebook/sapling,Rust,2737
+541269386,ggerganov/whisper.cpp,C,3271
 540917299,jaywcjlove/reference,Dockerfile,2446
-519882617,gbj/leptos,Rust,2429
-490465859,UberGuidoZ/Flipper,Batchfile,795
+519882617,gbj/leptos,Rust,2426
+490465859,UberGuidoZ/Flipper,Batchfile,792
 470579591,DarkFlippers/unleashed-firmware,C,931
-559033997,mli/autocut,Python,1749
 390536799,mlfoundations/open_clip,Python,452
 240971104,AleoHQ/snarkOS,Rust,398
-564058707,timhutton/twitter-archive-parser,Python,1247
+564058707,timhutton/twitter-archive-parser,Python,1244
 342854098,superseriousbusiness/gotosocial,Go,687
-537803484,palera1n/palera1n,Shell,821
+537803484,palera1n/palera1n,Shell,820
 509850056,Visualize-ML/Book4_Power-of-Matrix,Python,1002
-364304792,davidfowl/TodoApi,C#,846
-562338288,d8ahazard/sd_dreambooth_extension,Python,200
+364304792,davidfowl/TodoApi,C#,845
+552661142,hwchase17/langchain,Python,717
+562338288,d8ahazard/sd_dreambooth_extension,Python,198

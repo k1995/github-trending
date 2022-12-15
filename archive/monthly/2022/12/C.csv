@@ -1,8 +1,8 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,1986
 111583593,Genymobile/scrcpy,C,1332
-10744183,netdata/netdata,C,370
 246335987,ventoy/Ventoy,C,1464
+1903522,php/php-src,C,211
 569041,curl/curl,C,352
 102578345,coolsnowwolf/lede,C,549
 2810292,pbatard/rufus,C,401
@@ -11,7 +11,7 @@ id,name,lang,new stars
 80286288,arendst/Tasmota,C,256
 60667730,lvgl/lvgl,C,199
 394318710,valinet/ExplorerPatcher,C,764
-3299208,videolan/vlc,C,193
+3299208,videolan/vlc,C,190
 70127218,espressif/arduino-esp32,C,208
 65899476,espressif/esp-idf,C,186
 437011,openzfs/zfs,C,247
@@ -19,7 +19,7 @@ id,name,lang,new stars
 14049216,cockpit-project/cockpit,C,315
 19112091,vanhauser-thc/thc-hydra,C,194
 59676171,Klipper3d/klipper,C,211
-400501136,deepmind/mujoco,C,133
+330008801,libsdl-org/SDL,C,253
 284134871,flipperdevices/flipperzero-firmware,C,521
 541269386,ggerganov/whisper.cpp,C,3269
 470579591,DarkFlippers/unleashed-firmware,C,931
