@@ -1,5 +1,5 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,25
+45717250,tensorflow/tensorflow,C++,29
 27729880,grpc/grpc,C++,7
 11171548,nlohmann/json,C++,22
 39840932,google/googletest,C++,2
@@ -16,7 +16,7 @@ id,name,lang,new stars
 287706896,Tencent/puerts,C++,1
 5050525,harfbuzz/harfbuzz,C++,2
 61980658,azerothcore/azerothcore-wotlk,C++,5
-388946490,facebookincubator/velox,C++,2
+388946490,facebookincubator/velox,C++,5
 507861208,PaddlePaddle/FastDeploy,C++,16
 75149209,okcashpro/okcash,C++,9
 552676144,alibaba/havenask,C++,48

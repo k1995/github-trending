@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,13
-7569578,discourse/discourse,Ruby,5
+8514,rails/rails,Ruby,11
+7569578,discourse/discourse,Ruby,7
 27442967,fastlane/fastlane,Ruby,5
-481872,hashicorp/vagrant,Ruby,7
-308770,heartcombo/devise,Ruby,2
-538746,ruby/ruby,Ruby,2
+481872,hashicorp/vagrant,Ruby,6
+308770,heartcombo/devise,Ruby,3
+538746,ruby/ruby,Ruby,4
 2203645,CocoaPods/CocoaPods,Ruby,1
 3195124,mperham/sidekiq,Ruby,0
-1918677,fluent/fluentd,Ruby,3
+1918677,fluent/fluentd,Ruby,5
 1725199,github/linguist,Ruby,4
-96395,faker-ruby/faker,Ruby,1
-361310,teamcapybara/capybara,Ruby,2
-611921,activeadmin/activeadmin,Ruby,1
+96395,faker-ruby/faker,Ruby,3
+361310,teamcapybara/capybara,Ruby,1
+611921,activeadmin/activeadmin,Ruby,2
 47087,carrierwaveuploader/carrierwave,Ruby,0
 2441517,puma/puma,Ruby,2
 535266,vcr/vcr,Ruby,1
