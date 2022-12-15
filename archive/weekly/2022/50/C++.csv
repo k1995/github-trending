@@ -1,17 +1,17 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,166
+9384267,electron/electron,C++,164
 5108051,opencv/opencv,C++,158
-22887094,tesseract-ocr/tesseract,C++,110
-11171548,nlohmann/json,C++,148
-39840932,google/googletest,C++,64
+22887094,tesseract-ocr/tesseract,C++,113
+11171548,nlohmann/json,C++,149
+39840932,google/googletest,C++,62
 3351871,qbittorrent/qBittorrent,C++,107
-7056202,fmtlib/fmt,C++,58
-2200856,MarlinFirmware/Marlin,C++,52
+7056202,fmtlib/fmt,C++,57
+2200856,MarlinFirmware/Marlin,C++,51
 365005377,aristocratos/btop,C++,98
 153866232,TheCherno/Hazel,C++,37
-86897963,ZLMediaKit/ZLMediaKit,C++,73
+86897963,ZLMediaKit/ZLMediaKit,C++,84
 5973855,CleverRaven/Cataclysm-DDA,C++,53
-4454793,musescore/MuseScore,C++,37
+4454793,musescore/MuseScore,C++,48
 20976138,official-stockfish/Stockfish,C++,61
 221822577,Tencent/Hippy,C++,300
 439491516,ange-yaghi/engine-sim,C++,215
@@ -19,8 +19,8 @@ id,name,lang,new stars
 553135896,PrismLauncher/PrismLauncher,C++,70
 354138793,NVIDIA/FasterTransformer,C++,37
 438803890,LizardByte/Sunshine,C++,60
-208325027,justcallmekoko/ESP32Marauder,C++,45
+208325027,justcallmekoko/ESP32Marauder,C++,43
 75149209,okcashpro/okcash,C++,155
 488177011,MatsuriDayo/nekoray,C++,83
-552676144,alibaba/havenask,C++,243
+552676144,alibaba/havenask,C++,242
 564651074,bytedance/sonic-cpp,C++,173
