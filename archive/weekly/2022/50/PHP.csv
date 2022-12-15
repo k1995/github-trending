@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,54
+7548986,laravel/framework,PHP,56
 458058,symfony/symfony,PHP,42
 1864363,composer/composer,PHP,25
 60243197,nextcloud/server,PHP,53
@@ -9,7 +9,7 @@ id,name,lang,new stars
 3431193,yiisoft/yii2,PHP,9
 8678290,barryvdh/laravel-ide-helper,PHP,24
 61490598,PHPOffice/PhpSpreadsheet,PHP,34
-4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,24
+4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,23
 597887,doctrine/orm,PHP,14
 116389886,Anankke/SSPanel-Uim,PHP,33
 6763587,PrestaShop/PrestaShop,PHP,22
@@ -20,7 +20,7 @@ id,name,lang,new stars
 9077725,giggsey/libphonenumber-for-php,PHP,9
 29126334,EasyCorp/EasyAdminBundle,PHP,10
 6495081,wikimedia/mediawiki,PHP,15
-39182755,glpi-project/glpi,PHP,9
+39182755,glpi-project/glpi,PHP,8
 14724954,opensourcepos/opensourcepos,PHP,17
 433383766,nextcloud/all-in-one,PHP,32
 516948304,eraporsmk/erapor6,PHP,8
