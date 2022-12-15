@@ -1,26 +1,26 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,137
+36633370,awesome-selfhosted/awesome-selfhosted,JavaScript,136
 23083156,mui/material-ui,JavaScript,33
 137078487,vuejs/core,TypeScript,35
 11171548,nlohmann/json,C++,16
 419347358,PKUFlyingPig/cs-self-learning,HTML,230
 101782647,facebookresearch/fairseq,Python,81
-83516498,norvig/pytudes,Jupyter Notebook,34
+83516498,norvig/pytudes,Jupyter Notebook,45
 7122594,directus/directus,TypeScript,17
 198683574,dolthub/dolt,Go,26
-34407651,Azure/azure-quickstart-templates,Bicep,7
+34407651,Azure/azure-quickstart-templates,Bicep,6
 263727855,pola-rs/polars,Rust,134
-72685026,MicrosoftDocs/azure-docs,PowerShell,9
-574523116,f/awesome-chatgpt-prompts,,1301
+72685026,MicrosoftDocs/azure-docs,PowerShell,24
+574523116,f/awesome-chatgpt-prompts,,1292
 230660669,aler9/rtsp-simple-server,Go,9
-574097989,humanloop/awesome-chatgpt,,575
-38982731,home-assistant/frontend,TypeScript,19
-576568368,calistus-igwilo/nitda-blockchain-scholarship,,444
-343191804,nalgeon/sqlean,C,160
-537803484,palera1n/palera1n,Shell,68
-552676144,alibaba/havenask,C++,45
+574097989,humanloop/awesome-chatgpt,,855
+38982731,home-assistant/frontend,TypeScript,6
+576568368,calistus-igwilo/nitda-blockchain-scholarship,,156
+343191804,nalgeon/sqlean,C,155
+537803484,palera1n/palera1n,Shell,61
+552676144,alibaba/havenask,C++,46
 514304222,zas023/JdBuyer,Python,12
 575576871,mohammadpz/pytorch_forward_forward,Python,61
-575628616,cloneofsimo/lora,Jupyter Notebook,100
-575340621,lencx/ChatGPT,Rust,52
+575628616,cloneofsimo/lora,Jupyter Notebook,109
+575340621,lencx/ChatGPT,Rust,53
 575949681,wesbos/pommade,TypeScript,16
