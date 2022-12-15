@@ -1,26 +1,26 @@
 id,name,lang,new stars
-269336148,sickcodes/Docker-OSX,Shell,444
+269336148,sickcodes/Docker-OSX,Shell,443
 382496361,louislam/uptime-kuma,JavaScript,1830
-537603333,openai/whisper,Jupyter Notebook,1005
-75882172,Netflix/conductor,Java,372
-573819845,acheong08/ChatGPT,Python,3823
+537603333,openai/whisper,Jupyter Notebook,1007
+75882172,Netflix/conductor,Java,427
+573819845,acheong08/ChatGPT,Python,3850
 574116196,wong2/chat-gpt-google-extension,JavaScript,2178
-272492043,shuding/nextra,TypeScript,298
-551376520,tw93/Pake,Rust,1830
-60010673,elementor/elementor,PHP,104
-541269386,ggerganov/whisper.cpp,C,1524
-573631261,transitive-bullshit/chatgpt-api,TypeScript,1884
-539389184,TheLastBen/fast-stable-diffusion,Python,403
+272492043,shuding/nextra,TypeScript,299
+551376520,tw93/Pake,Rust,1831
+60010673,elementor/elementor,PHP,103
+541269386,ggerganov/whisper.cpp,C,1543
+573631261,transitive-bullshit/chatgpt-api,TypeScript,1767
+539389184,TheLastBen/fast-stable-diffusion,Python,400
 206300925,PathOfBuildingCommunity/PathOfBuilding,Lua,63
-572971616,vincelwt/chatgpt-mac,JavaScript,1301
+572971616,vincelwt/chatgpt-mac,JavaScript,1358
 472090226,revanced/revanced-patches,Kotlin,154
-574428530,rawandahmad698/PyChatGPT,Python,1220
-573941980,mpociot/chatgpt-vscode,TypeScript,724
-573982889,m1guelpf/chatgpt-telegram,Go,700
-533428706,android/architecture-templates,,296
-468576060,openai/openai-cookbook,Python,255
-561730219,krahets/hello-algo,Java,529
-573538566,danielgross/whatsapp-gpt,Go,399
-573616913,altryne/chatGPT-telegram-bot,Python,244
+574428530,rawandahmad698/PyChatGPT,Python,1234
+573941980,mpociot/chatgpt-vscode,TypeScript,729
+573982889,m1guelpf/chatgpt-telegram,Go,703
+533428706,android/architecture-templates,,275
+468576060,openai/openai-cookbook,Python,254
+561730219,krahets/hello-algo,Java,527
+573538566,danielgross/whatsapp-gpt,Go,401
+573616913,altryne/chatGPT-telegram-bot,Python,248
 459944886,silverbulletmd/silverbullet,TypeScript,142
-450291588,openai/openai-quickstart-node,JavaScript,98
+450291588,openai/openai-quickstart-node,JavaScript,80

@@ -7,7 +7,7 @@ id,name,lang,new stars
 6051812,gorilla/mux,Go,148
 153099672,inancgumus/learngo,Go,89
 75785240,authelia/authelia,Go,115
-7083242,go-sql-driver/mysql,Go,40
+7083242,go-sql-driver/mysql,Go,39
 44344606,go-chi/chi,Go,84
 120896210,argoproj/argo-cd,Go,79
 219616873,charmbracelet/glow,Go,496
@@ -15,10 +15,10 @@ id,name,lang,new stars
 410430370,IceWhaleTech/CasaOS,Go,143
 359419233,kubeshark/kubeshark,Go,1005
 281694167,Mrs4s/go-cqhttp,Go,87
-87990209,kubernetes/autoscaler,Go,23
-81497153,kubernetes-sigs/external-dns,Go,23
+87990209,kubernetes/autoscaler,Go,24
+81497153,kubernetes-sigs/external-dns,Go,25
 93446042,hashicorp/terraform-provider-azurerm,Go,12
-278480393,aws/karpenter,Go,83
+278480393,aws/karpenter,Go,87
 27096595,googleapis/google-api-go-client,Go,10
 265775217,bnb-chain/bsc,Go,16
 573982889,m1guelpf/chatgpt-telegram,Go,703

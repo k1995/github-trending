@@ -7,8 +7,8 @@ id,name,lang,new stars
 7053637,python/mypy,Python,7
 143328315,mindsdb/mindsdb,Python,20
 91594105,ansible/awx,Python,7
-52796596,netbox-community/netbox,Python,12
-394541647,OpenEthan/SMSBoom,Python,27
+52796596,netbox-community/netbox,Python,10
+394541647,OpenEthan/SMSBoom,Python,29
 495587598,lucidrains/imagen-pytorch,Python,11
 77276660,SigmaHQ/sigma,Python,5
 12550138,PyCQA/isort,Python,5
@@ -18,7 +18,7 @@ id,name,lang,new stars
 552661142,hwchase17/langchain,Python,59
 514304222,zas023/JdBuyer,Python,51
 575576871,mohammadpz/pytorch_forward_forward,Python,175
-526069335,allenai/RL4LMs,Python,18
+526069335,allenai/RL4LMs,Python,24
 244748840,ActiveState/OpenKomodoIDE,Python,61
 576841340,Methexis-Inc/terminal-copilot,Python,29
 575321313,RockChinQ/QChatGPT,Python,40
