@@ -1,7 +1,7 @@
 id,name,lang,new stars
-71220757,swisskyrepo/PayloadsAllTheThings,Python,34
+71220757,swisskyrepo/PayloadsAllTheThings,Python,32
 71932349,ray-project/ray,Python,20
-101782647,facebookresearch/fairseq,Python,97
+101782647,facebookresearch/fairseq,Python,92
 136202695,mlflow/mlflow,Python,7
 300592907,mxrch/GHunt,Python,52
 192640529,heartexlabs/label-studio,Python,13
@@ -10,17 +10,17 @@ id,name,lang,new stars
 179163124,hummingbot/hummingbot,Python,10
 136332816,tychxn/jd-assistant,Python,8
 315490189,dortania/OpenCore-Legacy-Patcher,Python,15
-520969009,mouredev/Hello-Python,Python,52
+520969009,mouredev/Hello-Python,Python,44
 161133770,feast-dev/feast,Python,2
-334412452,obss/sahi,Python,5
+334412452,obss/sahi,Python,3
 19918845,jamesmawm/High-Frequency-Trading-Model-with-IB,Python,4
 395140743,skypilot-org/skypilot,Python,93
 60525392,demisto/content,Python,1
-514304222,zas023/JdBuyer,Python,45
-575576871,mohammadpz/pytorch_forward_forward,Python,171
-565658766,VoltaML/voltaML-fast-stable-diffusion,Python,85
+514304222,zas023/JdBuyer,Python,136
+575576871,mohammadpz/pytorch_forward_forward,Python,175
+565658766,VoltaML/voltaML-fast-stable-diffusion,Python,84
 565013029,AlexFlipnote/GiveMeBadge,Python,18
-244748840,ActiveState/OpenKomodoIDE,Python,64
-576434460,aws-samples/hardeneks,Python,49
+244748840,ActiveState/OpenKomodoIDE,Python,61
+576434460,aws-samples/hardeneks,Python,48
+576841340,Methexis-Inc/terminal-copilot,Python,29
 434097227,hyper-neutrino/advent-of-code,Python,8
-576841340,Methexis-Inc/terminal-copilot,Python,26
