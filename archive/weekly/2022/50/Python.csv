@@ -1,7 +1,7 @@
 id,name,lang,new stars
 12888993,home-assistant/core,Python,199
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1066
-101782647,facebookresearch/fairseq,Python,205
+101782647,facebookresearch/fairseq,Python,207
 170067246,openai/gpt-2,Python,92
 92238803,openai/baselines,Python,97
 52796596,netbox-community/netbox,Python,84
@@ -15,7 +15,7 @@ id,name,lang,new stars
 323651234,EleutherAI/gpt-neox,Python,109
 574428530,rawandahmad698/PyChatGPT,Python,938
 509850056,Visualize-ML/Book4_Power-of-Matrix,Python,289
-307213173,openai/openai-python,Python,183
+307213173,openai/openai-python,Python,178
 468576060,openai/openai-cookbook,Python,248
 178120741,ashemery/exploitation-course,Python,106
 552661142,hwchase17/langchain,Python,349
