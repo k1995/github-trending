@@ -4,7 +4,7 @@ id,name,lang,new stars
 7548986,laravel/framework,PHP,281
 458058,symfony/symfony,PHP,164
 60243197,nextcloud/server,PHP,309
-2253830,PHPMailer/PHPMailer,PHP,156
+2253830,PHPMailer/PHPMailer,PHP,157
 82238168,monicahq/monica,PHP,898
 2884111,magento/magento2,PHP,65
 2179920,woocommerce/woocommerce,PHP,83
@@ -15,7 +15,7 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,202
 76064827,mailcow/mailcow-dockerized,PHP,135
 119047018,linuxserver/Heimdall,PHP,208
-6322699,FreshRSS/FreshRSS,PHP,228
+6322699,FreshRSS/FreshRSS,PHP,226
 60010673,elementor/elementor,PHP,151
 47508644,pterodactyl/panel,PHP,124
 129829848,pixelfed/pixelfed,PHP,223

@@ -1,10 +1,10 @@
 id,name,lang,new stars
 3482588,danielmiessler/SecLists,PHP,182
 458058,symfony/symfony,PHP,42
-1864363,composer/composer,PHP,27
+1864363,composer/composer,PHP,26
 5724990,briannesbitt/Carbon,PHP,15
 12615154,barryvdh/laravel-debugbar,PHP,25
-4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,24
+4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,23
 42480275,spatie/laravel-permission,PHP,23
 2699935,squizlabs/PHP_CodeSniffer,PHP,15
 212659,sebastianbergmann/php-code-coverage,PHP,10
@@ -19,7 +19,7 @@ id,name,lang,new stars
 139191005,nunomaduro/larastan,PHP,25
 9077725,giggsey/libphonenumber-for-php,PHP,10
 6495081,wikimedia/mediawiki,PHP,15
-39182755,glpi-project/glpi,PHP,7
+39182755,glpi-project/glpi,PHP,6
 14724954,opensourcepos/opensourcepos,PHP,17
 216849756,v2board/v2board,PHP,142
 29745084,Leantime/leantime,PHP,16

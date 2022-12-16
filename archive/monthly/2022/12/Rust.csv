@@ -4,7 +4,7 @@ id,name,lang,new stars
 121898717,dani-garcia/vaultwarden,Rust,720
 152572186,wasmerio/wasmer,Rust,644
 135201145,RustPython/RustPython,Rust,393
-7270538,ankitects/anki,Rust,251
+7270538,ankitects/anki,Rust,252
 165522651,emilk/egui,Rust,606
 263727855,pola-rs/polars,Rust,1081
 372172254,tokio-rs/axum,Rust,544
@@ -15,8 +15,8 @@ id,name,lang,new stars
 58146669,facebook/sapling,Rust,2743
 523043277,charliermarsh/ruff,Rust,871
 519882617,gbj/leptos,Rust,2457
-86106381,libp2p/rust-libp2p,Rust,97
 299354666,rustdesk/rustdesk-server,Rust,293
+86106381,libp2p/rust-libp2p,Rust,97
 240971104,AleoHQ/snarkOS,Rust,399
 480217156,GreptimeTeam/greptimedb,Rust,1851
 500391407,buckyos/CYFS,Rust,515

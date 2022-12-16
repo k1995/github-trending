@@ -2,7 +2,7 @@ id,name,lang,new stars
 133442384,denoland/deno,Rust,20
 724712,rust-lang/rust,Rust,53
 299354207,rustdesk/rustdesk,Rust,74
-120425779,lapce/lapce,Rust,32
+120425779,lapce/lapce,Rust,41
 101767772,bytecodealliance/wasmtime,Rust,16
 263727855,pola-rs/polars,Rust,210
 17420913,rust-lang/cargo,Rust,9
@@ -18,7 +18,7 @@ id,name,lang,new stars
 150246564,google/evcxr,Rust,11
 453068084,risingwavelabs/risingwave,Rust,1
 325283778,dudykr/stc,Rust,266
-61306303,RedisJSON/RedisJSON,Rust,6
+61306303,RedisJSON/RedisJSON,Rust,5
 426075845,MystenLabs/sui,Rust,29
 480592723,move-language/move,Rust,2
 575340621,lencx/ChatGPT,Rust,139
