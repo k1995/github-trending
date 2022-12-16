@@ -1,7 +1,7 @@
 id,name,lang,new stars
 23096959,golang/go,Go,231
 14712850,syncthing/syncthing,Go,131
-42408804,traefik/traefik,Go,135
+42408804,traefik/traefik,Go,130
 285864199,zeromicro/go-zero,Go,117
 6051812,gorilla/mux,Go,90
 153099672,inancgumus/learngo,Go,93
@@ -10,14 +10,14 @@ id,name,lang,new stars
 44344606,go-chi/chi,Go,84
 120896210,argoproj/argo-cd,Go,80
 219616873,charmbracelet/glow,Go,505
-252813491,projectdiscovery/nuclei,Go,90
-237523442,tailscale/tailscale,Go,92
+252813491,projectdiscovery/nuclei,Go,87
+237523442,tailscale/tailscale,Go,93
 93444615,hashicorp/terraform-provider-aws,Go,32
 410430370,IceWhaleTech/CasaOS,Go,190
 10721619,hajimehoshi/ebiten,Go,97
 359419233,kubeshark/kubeshark,Go,1009
 281694167,Mrs4s/go-cqhttp,Go,84
-87990209,kubernetes/autoscaler,Go,31
+87990209,kubernetes/autoscaler,Go,30
 221849341,hibiken/asynq,Go,84
 230660669,aler9/rtsp-simple-server,Go,164
 93446042,hashicorp/terraform-provider-azurerm,Go,12
