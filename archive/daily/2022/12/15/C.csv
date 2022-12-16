@@ -1,6 +1,6 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,66
-36502,git/git,C,23
+36502,git/git,C,19
 18666758,pjreddie/darknet,C,10
 196353673,taosdata/TDengine,C,12
 84240850,timescale/timescaledb,C,5
@@ -10,17 +10,17 @@ id,name,lang,new stars
 54280778,DaveGamble/cJSON,C,5
 16734696,meetecho/janus-gateway,C,2
 40556106,wazuh/wazuh,C,4
-6667084,ponylang/ponyc,C,74
+6667084,ponylang/ponyc,C,5
 68063511,tsl0922/ttyd,C,15
-146397768,ithewei/libhv,C,6
-128791889,haproxy/haproxy,C,2
+146397768,ithewei/libhv,C,4
+128791889,haproxy/haproxy,C,4
 283280154,jomjol/AI-on-the-edge-device,C,6
 15333809,open62541/open62541,C,1
-561183031,jart/blink,C,257
+561183031,jart/blink,C,265
 142917961,flutter/codelabs,C,1
 209527239,HansKristian-Work/vkd3d-proton,C,4
 51990771,ARM-software/CMSIS_5,C,0
 413590840,apple-oss-distributions/xnu,C,1
 570104770,deepinstinct/Dirty-Vanity,C,20
-507678095,BrightDaniel/alx-low_level_programming,C,3
-70957737,holbertonschool/_putchar.c,C,1
+507678095,BrightDaniel/alx-low_level_programming,C,4
+70957737,holbertonschool/_putchar.c,C,2
