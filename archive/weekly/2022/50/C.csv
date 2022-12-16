@@ -2,7 +2,7 @@ id,name,lang,new stars
 36502,git/git,C,89
 13233158,obsproject/obs-studio,C,194
 80286288,arendst/Tasmota,C,105
-27737393,qmk/qmk_firmware,C,54
+27737393,qmk/qmk_firmware,C,55
 45821540,openwrt/openwrt,C,73
 65899476,espressif/esp-idf,C,43
 35780977,ImageMagick/ImageMagick,C,47
@@ -18,9 +18,9 @@ id,name,lang,new stars
 117704656,remzi-arpacidusseau/ostep-projects,C,13
 1335680,blackmagic-debug/blackmagic,C,18
 151064439,ExpressLRS/ExpressLRS,C,22
-561183031,jart/blink,C,945
+561183031,jart/blink,C,987
 276293034,apache/age,C,52
-537042935,cpq/bare-metal-programming-guide,C,182
+537042935,cpq/bare-metal-programming-guide,C,174
 505613691,OnionUI/Onion,C,36
 53432472,sonic-net/sonic-buildimage,C,3
 564757991,infraredCoding/cerveur,C,64
