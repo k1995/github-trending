@@ -2,8 +2,8 @@ id,name,lang,new stars
 14712850,syncthing/syncthing,Go,130
 42408804,traefik/traefik,Go,132
 17728164,hashicorp/terraform,Go,96
-19994257,go-delve/delve,Go,71
-6051812,gorilla/mux,Go,66
+19994257,go-delve/delve,Go,62
+6051812,gorilla/mux,Go,58
 153099672,inancgumus/learngo,Go,92
 75785240,authelia/authelia,Go,122
 7083242,go-sql-driver/mysql,Go,39
@@ -18,7 +18,7 @@ id,name,lang,new stars
 230660669,aler9/rtsp-simple-server,Go,163
 93446042,hashicorp/terraform-provider-azurerm,Go,12
 278480393,aws/karpenter,Go,90
-281765424,microsoft/CBL-Mariner,Go,14
+281765424,microsoft/CBL-Mariner,Go,13
 440752086,coder/coder,Go,58
 509091576,SagerNet/sing-box,Go,58
 573982889,m1guelpf/chatgpt-telegram,Go,552
