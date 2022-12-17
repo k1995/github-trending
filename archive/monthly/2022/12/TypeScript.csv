@@ -1,8 +1,8 @@
 id,name,lang,new stars
 20929025,microsoft/TypeScript,TypeScript,1043
-24195339,angular/angular,TypeScript,797
-34526884,ant-design/ant-design,TypeScript,890
-39464018,apache/superset,TypeScript,713
+24195339,angular/angular,TypeScript,784
+34526884,ant-design/ant-design,TypeScript,887
+39464018,apache/superset,TypeScript,704
 214587193,supabase/supabase,TypeScript,1771
 231283452,excalidraw/excalidraw,TypeScript,1834
 35866694,RocketChat/Rocket.Chat,TypeScript,667
@@ -14,7 +14,7 @@ id,name,lang,new stars
 245704608,colinhacks/zod,TypeScript,2017
 350360184,calcom/cal.com,TypeScript,534
 400215964,novuhq/novu,TypeScript,2103
-57602001,wechaty/wechaty,TypeScript,612
+57602001,wechaty/wechaty,TypeScript,613
 119162419,nextauthjs/next-auth,TypeScript,557
 495836457,t3-oss/create-t3-app,TypeScript,2928
 285092252,serverless-stack/sst,TypeScript,588

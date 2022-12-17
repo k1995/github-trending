@@ -1,13 +1,13 @@
 id,name,lang,new stars
 382496361,louislam/uptime-kuma,JavaScript,1587
-304344049,sveltejs/kit,JavaScript,308
+304344049,sveltejs/kit,JavaScript,355
 72685026,MicrosoftDocs/azure-docs,PowerShell,102
 573819845,acheong08/ChatGPT,Python,2495
-439491516,ange-yaghi/engine-sim,C++,224
+439491516,ange-yaghi/engine-sim,C++,219
 551376520,tw93/Pake,Rust,1872
-574965758,fuergaosi233/wechat-chatgpt,TypeScript,2816
+574965758,fuergaosi233/wechat-chatgpt,TypeScript,2666
 247659028,PowerJob/PowerJob,Java,180
-541269386,ggerganov/whisper.cpp,C,917
+541269386,ggerganov/whisper.cpp,C,878
 325283778,dudykr/stc,Rust,403
 573631261,transitive-bullshit/chatgpt-api,TypeScript,1402
 539389184,TheLastBen/fast-stable-diffusion,Python,421
@@ -16,11 +16,11 @@ id,name,lang,new stars
 472090226,revanced/revanced-patches,Kotlin,173
 574428530,rawandahmad698/PyChatGPT,Python,652
 561183031,jart/blink,C,974
-561730219,krahets/hello-algo,Java,890
+561730219,krahets/hello-algo,Java,935
 307213173,openai/openai-python,Python,174
-468576060,openai/openai-cookbook,Python,273
-552661142,hwchase17/langchain,Python,374
-574600955,AutumnWhj/ChatGPT-wechat-bot,TypeScript,738
+468576060,openai/openai-cookbook,Python,325
+552661142,hwchase17/langchain,Python,367
+574600955,AutumnWhj/ChatGPT-wechat-bot,TypeScript,700
 514304222,zas023/JdBuyer,Python,327
-552676144,alibaba/havenask,C++,326
+552676144,alibaba/havenask,C++,337
 573822937,mmabrouk/chatgpt-wrapper,Python,108

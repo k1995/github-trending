@@ -1,13 +1,13 @@
 id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,610
-5108051,opencv/opencv,C++,618
+5108051,opencv/opencv,C++,620
 11171548,nlohmann/json,C++,486
 4524181,facebook/folly,C++,306
 116167731,yuzu-emu/yuzu,C++,549
 22394357,osquery/osquery,C++,285
 19953044,google/flatbuffers,C++,471
 125098880,ValveSoftware/Proton,C++,290
-3351871,qbittorrent/qBittorrent,C++,460
+3351871,qbittorrent/qBittorrent,C++,457
 2200856,MarlinFirmware/Marlin,C++,152
 194269070,skyline-emu/skyline,C++,450
 76990209,Aircoookie/WLED,C++,392
@@ -22,5 +22,5 @@ id,name,lang,new stars
 61980658,azerothcore/azerothcore-wotlk,C++,129
 433303514,yuesong-feng/30dayMakeCppServer,C++,491
 208325027,justcallmekoko/ESP32Marauder,C++,177
-507861208,PaddlePaddle/FastDeploy,C++,378
-552676144,alibaba/havenask,C++,414
+507861208,PaddlePaddle/FastDeploy,C++,377
+552676144,alibaba/havenask,C++,419

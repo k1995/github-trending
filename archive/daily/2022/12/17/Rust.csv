@@ -1,15 +1,15 @@
 id,name,lang,new stars
-133442384,denoland/deno,Rust,17
+133442384,denoland/deno,Rust,14
 724712,rust-lang/rust,Rust,50
-299354207,rustdesk/rustdesk,Rust,59
+299354207,rustdesk/rustdesk,Rust,58
 120425779,lapce/lapce,Rust,41
-101767772,bytecodealliance/wasmtime,Rust,19
+101767772,bytecodealliance/wasmtime,Rust,9
 263727855,pola-rs/polars,Rust,115
-17420913,rust-lang/cargo,Rust,16
+17420913,rust-lang/cargo,Rust,12
 292065578,qarmin/czkawka,Rust,12
 26850443,rust-lang/rust-clippy,Rust,5
 155783257,linebender/druid,Rust,10
-372172254,tokio-rs/axum,Rust,20
+372172254,tokio-rs/axum,Rust,18
 27839676,Spotifyd/spotifyd,Rust,147
 329782568,DioxusLabs/dioxus,Rust,23
 462597790,aptos-labs/aptos-core,Rust,5
@@ -18,9 +18,9 @@ id,name,lang,new stars
 150246564,google/evcxr,Rust,11
 453068084,risingwavelabs/risingwave,Rust,6
 325283778,dudykr/stc,Rust,73
-61306303,RedisJSON/RedisJSON,Rust,6
+61306303,RedisJSON/RedisJSON,Rust,1
 426075845,MystenLabs/sui,Rust,52
-480592723,move-language/move,Rust,3
-575340621,lencx/ChatGPT,Rust,49
+480592723,move-language/move,Rust,2
+575340621,lencx/ChatGPT,Rust,37
 577992419,m1guelpf/plz-cli,Rust,170
 577860020,blu-dev/arena-latency-slider,Rust,3
