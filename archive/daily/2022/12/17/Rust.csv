@@ -5,7 +5,7 @@ id,name,lang,new stars
 410749029,spacedriveapp/spacedrive,Rust,12
 7270538,ankitects/anki,Rust,7
 121470383,solana-labs/solana,Rust,5
-17420913,rust-lang/cargo,Rust,9
+17420913,rust-lang/cargo,Rust,11
 26850443,rust-lang/rust-clippy,Rust,3
 24725038,rayon-rs/rayon,Rust,17
 372172254,tokio-rs/axum,Rust,18
@@ -13,7 +13,7 @@ id,name,lang,new stars
 27839676,Spotifyd/spotifyd,Rust,41
 404320053,foundry-rs/foundry,Rust,7
 58146669,facebook/sapling,Rust,25
-352051262,containers/youki,Rust,6
+352051262,containers/youki,Rust,8
 150246564,google/evcxr,Rust,12
 453068084,risingwavelabs/risingwave,Rust,4
 325283778,dudykr/stc,Rust,101

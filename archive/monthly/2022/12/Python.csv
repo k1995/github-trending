@@ -1,17 +1,17 @@
 id,name,lang,new stars
 54346799,public-apis/public-apis,Python,4375
-74627617,commaai/openpilot,Python,994
+74627617,commaai/openpilot,Python,983
 90563585,chubin/cheat.sh,Python,2922
-264818686,ultralytics/yolov5,Python,1020
+264818686,ultralytics/yolov5,Python,1019
 57222302,openai/gym,Python,436
 254832799,Z4nzu/hackingtool,Python,2219
-45723377,charlax/professional-programming,Python,1093
+45723377,charlax/professional-programming,Python,1092
 178626720,Lightning-AI/lightning,Python,387
-65083316,luong-komorebi/Awesome-Linux-Software,Python,428
+65083316,luong-komorebi/Awesome-Linux-Software,Python,427
 170067246,openai/gpt-2,Python,223
 263556058,521xueweihan/GitHub520,Python,573
 288108533,karpathy/minGPT,Python,335
-498011141,huggingface/diffusers,Python,1140
+498011141,huggingface/diffusers,Python,1129
 5274894,spesmilo/electrum,Python,74
 259991778,openai/jukebox,Python,171
 217436984,facebookresearch/demucs,Python,217
@@ -20,7 +20,7 @@ id,name,lang,new stars
 505667511,sczhou/CodeFormer,Python,441
 509850056,Visualize-ML/Book4_Power-of-Matrix,Python,1045
 540842713,chidiwilliams/buzz,Python,1040
-307213173,openai/openai-python,Python,473
 468576060,openai/openai-cookbook,Python,801
+307213173,openai/openai-python,Python,473
 552661142,hwchase17/langchain,Python,754
-562338288,d8ahazard/sd_dreambooth_extension,Python,202
+562338288,d8ahazard/sd_dreambooth_extension,Python,201
