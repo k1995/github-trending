@@ -4,7 +4,7 @@ id,name,lang,new stars
 1148753,spring-projects/spring-framework,Java,16
 11267509,bumptech/glide,Java,5
 110211147,xkcoding/spring-boot-demo,Java,18
-137451403,alibaba/nacos,Java,16
+137451403,alibaba/nacos,Java,12
 13404515,brettwooldridge/HikariCP,Java,2
 133134007,OpenAPITools/openapi-generator,Java,20
 501687,antlr/antlr4,Java,4
@@ -19,8 +19,8 @@ id,name,lang,new stars
 73963835,spring-cloud/spring-cloud-gateway,Java,3
 158256479,apache/iceberg,Java,4
 58194180,strimzi/strimzi-kafka-operator,Java,1
-27911088,apache/nifi,Java,2
+27911088,apache/nifi,Java,0
 188779637,apache/incubator-streampark,Java,6
-1089149,spring-projects/spring-batch,Java,5
-561730219,krahets/hello-algo,Java,253
+1089149,spring-projects/spring-batch,Java,4
+561730219,krahets/hello-algo,Java,216
 235013588,in28minutes/devops-master-class,Java,3

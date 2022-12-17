@@ -1,6 +1,6 @@
 id,name,lang,new stars
-90796663,puppeteer/puppeteer,TypeScript,120
-257485422,vitejs/vite,TypeScript,309
+90796663,puppeteer/puppeteer,TypeScript,123
+257485422,vitejs/vite,TypeScript,305
 39464018,apache/superset,TypeScript,113
 214587193,supabase/supabase,TypeScript,438
 67962648,vuetifyjs/vuetify,TypeScript,63
@@ -8,19 +8,19 @@ id,name,lang,new stars
 218115303,vercel/swr,TypeScript,187
 299482335,withfig/autocomplete,TypeScript,101
 7122594,directus/directus,TypeScript,231
-234739976,medusajs/medusa,TypeScript,286
+234739976,medusajs/medusa,TypeScript,285
 245704608,colinhacks/zod,TypeScript,662
 57602001,wechaty/wechaty,TypeScript,334
-119162419,nextauthjs/next-auth,TypeScript,229
+119162419,nextauthjs/next-auth,TypeScript,227
 129283183,facebook/flipper,TypeScript,30
-471728341,lensterxyz/lenster,TypeScript,798
+471728341,lensterxyz/lenster,TypeScript,799
 28407613,ag-grid/ag-grid,TypeScript,26
-360522116,nextui-org/nextui,TypeScript,81
-158882433,SoftwareBrothers/adminjs,TypeScript,198
+360522116,nextui-org/nextui,TypeScript,79
+158882433,SoftwareBrothers/adminjs,TypeScript,217
 490677825,LyraSearch/lyra,TypeScript,484
 177033748,changesets/changesets,TypeScript,62
 574965758,fuergaosi233/wechat-chatgpt,TypeScript,2896
 573631261,transitive-bullshit/chatgpt-api,TypeScript,1380
-38982731,home-assistant/frontend,TypeScript,136
+38982731,home-assistant/frontend,TypeScript,137
 573941980,mpociot/chatgpt-vscode,TypeScript,530
 574600955,AutumnWhj/ChatGPT-wechat-bot,TypeScript,757

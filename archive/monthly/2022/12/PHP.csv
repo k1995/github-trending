@@ -1,19 +1,19 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,394
-3482588,danielmiessler/SecLists,PHP,671
-7548986,laravel/framework,PHP,282
+3482588,danielmiessler/SecLists,PHP,672
+7548986,laravel/framework,PHP,281
 458058,symfony/symfony,PHP,163
-60243197,nextcloud/server,PHP,300
+60243197,nextcloud/server,PHP,299
 2253830,PHPMailer/PHPMailer,PHP,156
 82238168,monicahq/monica,PHP,815
 2884111,magento/magento2,PHP,63
-2179920,woocommerce/woocommerce,PHP,82
+2179920,woocommerce/woocommerce,PHP,81
 116389886,Anankke/SSPanel-Uim,PHP,165
 14346979,snipe/snipe-it,PHP,102
 9791525,digininja/DVWA,PHP,151
-6763587,PrestaShop/PrestaShop,PHP,74
+6763587,PrestaShop/PrestaShop,PHP,75
 97311017,rectorphp/rector,PHP,204
-76064827,mailcow/mailcow-dockerized,PHP,134
+76064827,mailcow/mailcow-dockerized,PHP,133
 119047018,linuxserver/Heimdall,PHP,215
 6322699,FreshRSS/FreshRSS,PHP,224
 60010673,elementor/elementor,PHP,147
@@ -23,4 +23,4 @@ id,name,lang,new stars
 96284790,prasathmani/tinyfilemanager,PHP,97
 286645686,yuantuo666/baiduwp-php,PHP,209
 14724954,opensourcepos/opensourcepos,PHP,46
-216849756,v2board/v2board,PHP,265
+216849756,v2board/v2board,PHP,264
