@@ -1,11 +1,11 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,168
+3482588,danielmiessler/SecLists,PHP,171
 458058,symfony/symfony,PHP,39
-1864363,composer/composer,PHP,28
+1864363,composer/composer,PHP,27
 5724990,briannesbitt/Carbon,PHP,18
-12615154,barryvdh/laravel-debugbar,PHP,28
-4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,23
-42480275,spatie/laravel-permission,PHP,20
+12615154,barryvdh/laravel-debugbar,PHP,26
+4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,24
+42480275,spatie/laravel-permission,PHP,21
 2699935,squizlabs/PHP_CodeSniffer,PHP,14
 212659,sebastianbergmann/php-code-coverage,PHP,12
 2179920,woocommerce/woocommerce,PHP,21
@@ -13,14 +13,14 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,23
 222873550,crater-invoice/crater,PHP,26
 76064827,mailcow/mailcow-dockerized,PHP,27
-248372441,filamentphp/filament,PHP,49
-60010673,elementor/elementor,PHP,80
+248372441,filamentphp/filament,PHP,50
+60010673,elementor/elementor,PHP,82
 47508644,pterodactyl/panel,PHP,30
 139191005,nunomaduro/larastan,PHP,26
-9077725,giggsey/libphonenumber-for-php,PHP,9
+9077725,giggsey/libphonenumber-for-php,PHP,10
 6495081,wikimedia/mediawiki,PHP,10
 39182755,glpi-project/glpi,PHP,6
 14724954,opensourcepos/opensourcepos,PHP,18
-216849756,v2board/v2board,PHP,149
+216849756,v2board/v2board,PHP,148
 29745084,Leantime/leantime,PHP,17
 516948304,eraporsmk/erapor6,PHP,6
