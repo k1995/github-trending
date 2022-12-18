@@ -4,15 +4,15 @@ id,name,lang,new stars
 36502,git/git,C,396
 246335987,ventoy/Ventoy,C,1430
 1903522,php/php-src,C,210
-569041,curl/curl,C,363
+569041,curl/curl,C,362
 102578345,coolsnowwolf/lede,C,530
 2810292,pbatard/rufus,C,403
 20159867,nothings/stb,C,278
 196353673,taosdata/TDengine,C,679
 80286288,arendst/Tasmota,C,269
-13836499,raysan5/raylib,C,230
-60667730,lvgl/lvgl,C,205
-3299208,videolan/vlc,C,193
+13836499,raysan5/raylib,C,228
+60667730,lvgl/lvgl,C,204
+3299208,videolan/vlc,C,192
 70127218,espressif/arduino-esp32,C,203
 65899476,espressif/esp-idf,C,184
 437011,openzfs/zfs,C,250
@@ -21,6 +21,6 @@ id,name,lang,new stars
 59676171,Klipper3d/klipper,C,204
 330008801,libsdl-org/SDL,C,239
 284134871,flipperdevices/flipperzero-firmware,C,525
-541269386,ggerganov/whisper.cpp,C,3321
+541269386,ggerganov/whisper.cpp,C,3324
 470579591,DarkFlippers/unleashed-firmware,C,971
 331380723,raspberrypi/pico-sdk,C,77

@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
-52281283,mastodon/mastodon,Ruby,112
-27442967,fastlane/fastlane,Ruby,1
-13840241,freeCodeCamp/devdocs,Ruby,5
+8514,rails/rails,Ruby,9
+52281283,mastodon/mastodon,Ruby,101
+27442967,fastlane/fastlane,Ruby,3
+13840241,freeCodeCamp/devdocs,Ruby,7
 308770,heartcombo/devise,Ruby,2
-538746,ruby/ruby,Ruby,3
+538746,ruby/ruby,Ruby,2
 202291859,chatwoot/chatwoot,Ruby,5
-3195124,mperham/sidekiq,Ruby,2
-3314,spree/spree,Ruby,2
+3195124,mperham/sidekiq,Ruby,1
+3314,spree/spree,Ruby,1
 1725199,github/linguist,Ruby,4
 361310,teamcapybara/capybara,Ruby,0
 2441517,puma/puma,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 9831101,elastic/elasticsearch-ruby,Ruby,0
 1953385,stripe/stripe-ruby,Ruby,0
 55288882,d12frosted/homebrew-emacs-plus,Ruby,0
-209731662,ruby/debug,Ruby,1
+209731662,ruby/debug,Ruby,2
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,0
