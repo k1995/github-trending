@@ -3,7 +3,7 @@ id,name,lang,new stars
 724712,rust-lang/rust,Rust,27
 51980455,alacritty/alacritty,Rust,18
 114466145,yewstack/yew,Rust,21
-120425779,lapce/lapce,Rust,33
+120425779,lapce/lapce,Rust,32
 67836789,tokio-rs/tokio,Rust,8
 7270538,ankitects/anki,Rust,12
 183483988,ruffle-rs/ruffle,Rust,11
@@ -16,8 +16,8 @@ id,name,lang,new stars
 25250913,shadowsocks/shadowsocks-rust,Rust,9
 404320053,foundry-rs/foundry,Rust,8
 302827809,datafuselabs/databend,Rust,4
-352051262,containers/youki,Rust,16
-129324660,actix/examples,Rust,3
+352051262,containers/youki,Rust,19
+129324660,actix/examples,Rust,4
 202485012,webrtc-rs/webrtc,Rust,25
 423679664,fermyon/spin,Rust,28
 266602341,gakonst/ethers-rs,Rust,3

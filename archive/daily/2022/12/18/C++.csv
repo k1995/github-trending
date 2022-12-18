@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,12
+1181927,bitcoin/bitcoin,C++,11
 15634981,godotengine/godot,C++,25
-39840932,google/googletest,C++,8
+39840932,google/googletest,C++,1
 1116542,aria2/aria2,C++,13
 160083795,SerenityOS/serenity,C++,20
 116167731,yuzu-emu/yuzu,C++,5
 3351871,qbittorrent/qBittorrent,C++,19
-2200856,MarlinFirmware/Marlin,C++,10
-5736080,FreeCAD/FreeCAD,C++,4
-106558568,doitsujin/dxvk,C++,13
-4454793,musescore/MuseScore,C++,136
+2200856,MarlinFirmware/Marlin,C++,9
+5736080,FreeCAD/FreeCAD,C++,5
+106558568,doitsujin/dxvk,C++,14
+4454793,musescore/MuseScore,C++,131
 1204412,TrinityCore/TrinityCore,C++,1
 3386088,NixOS/nix,C++,6
 7550637,xenia-project/xenia,C++,3
@@ -17,10 +17,10 @@ id,name,lang,new stars
 32222044,erincatto/box2d,C++,4
 4930716,zeek/zeek,C++,6
 470730648,hyprwm/Hyprland,C++,19
-207245092,stenzek/duckstation,C++,6
+207245092,stenzek/duckstation,C++,5
 436366606,loveBabbar/CodeHelp-DSA-Busted-Series,C++,5
-438803890,LizardByte/Sunshine,C++,135
+438803890,LizardByte/Sunshine,C++,138
 510116998,SerenityOS/ladybird,C++,9
-410126695,R3nzTheCodeGOD/R3nzSkin,C++,3
-324569839,YimMenu/YimMenu,C++,4
+410126695,R3nzTheCodeGOD/R3nzSkin,C++,1
+324569839,YimMenu/YimMenu,C++,1
 511797274,bambulab/BambuStudio,C++,3

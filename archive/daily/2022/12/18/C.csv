@@ -1,13 +1,13 @@
 id,name,lang,new stars
-111583593,Genymobile/scrcpy,C,24
+111583593,Genymobile/scrcpy,C,26
 13233158,obsproject/obs-studio,C,20
-246335987,ventoy/Ventoy,C,22
-102578345,coolsnowwolf/lede,C,17
-66150122,jarun/nnn,C,8
+246335987,ventoy/Ventoy,C,20
+102578345,coolsnowwolf/lede,C,18
+66150122,jarun/nnn,C,7
 27737393,qmk/qmk_firmware,C,4
 184909163,koekeishiya/yabai,C,4
-78281075,SpacehuhnTech/esp8266_deauther,C,6
-60667730,lvgl/lvgl,C,6
+78281075,SpacehuhnTech/esp8266_deauther,C,5
+60667730,lvgl/lvgl,C,7
 179354282,acidanthera/OpenCorePkg,C,5
 9524997,glfw/glfw,C,8
 30291090,i3/i3,C,5
@@ -18,9 +18,9 @@ id,name,lang,new stars
 284134871,flipperdevices/flipperzero-firmware,C,17
 205810121,CloverHackyColor/CloverBootloader,C,3
 176278485,sqlite/sqlite,C,7
-470579591,DarkFlippers/unleashed-firmware,C,32
+470579591,DarkFlippers/unleashed-firmware,C,36
 117704656,remzi-arpacidusseau/ostep-projects,C,4
-561183031,jart/blink,C,155
-2276287,riscv-software-src/riscv-isa-sim,C,4
-570104770,deepinstinct/Dirty-Vanity,C,72
-507678095,BrightDaniel/alx-low_level_programming,C,3
+561183031,jart/blink,C,242
+2276287,riscv-software-src/riscv-isa-sim,C,2
+570104770,deepinstinct/Dirty-Vanity,C,51
+507678095,BrightDaniel/alx-low_level_programming,C,2
