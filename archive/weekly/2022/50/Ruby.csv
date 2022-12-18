@@ -1,6 +1,6 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,66
-65252,jekyll/jekyll,Ruby,46
+65252,jekyll/jekyll,Ruby,45
 27442967,fastlane/fastlane,Ruby,35
 2293158,rapid7/metasploit-framework,Ruby,57
 481872,hashicorp/vagrant,Ruby,34
@@ -9,10 +9,10 @@ id,name,lang,new stars
 538746,ruby/ruby,Ruby,30
 138312,capistrano/capistrano,Ruby,3
 4095287,rubocop/rubocop,Ruby,13
-15435,Shopify/liquid,Ruby,15
+15435,Shopify/liquid,Ruby,13
 611921,activeadmin/activeadmin,Ruby,6
 47087,carrierwaveuploader/carrierwave,Ruby,2
-108278,chef/chef,Ruby,8
+108278,chef/chef,Ruby,7
 1314319,instructure/canvas-lms,Ruby,7
 115859973,ddnexus/pagy,Ruby,10
 103766152,github/explore,Ruby,16
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1172597,thoughtbot/shoulda-matchers,Ruby,3
 614070,rubygems/rubygems,Ruby,5
 3277842,googleapis/google-api-ruby-client,Ruby,6
-229187949,shivammathur/homebrew-php,Ruby,24
+229187949,shivammathur/homebrew-php,Ruby,23
 238972,rspec/rspec-core,Ruby,5
 238983,rspec/rspec-mocks,Ruby,1
 450941276,aljazceru/awesome-nostr,Ruby,107

@@ -1,13 +1,13 @@
 id,name,lang,new stars
 23096959,golang/go,Go,233
 14712850,syncthing/syncthing,Go,147
-41986369,pingcap/tidb,Go,54
+41986369,pingcap/tidb,Go,56
 153099672,inancgumus/learngo,Go,97
 8966356,hashicorp/packer,Go,19
 44344606,go-chi/chi,Go,71
 120896210,argoproj/argo-cd,Go,83
 119419195,GoogleContainerTools/kaniko,Go,41
-93444615,hashicorp/terraform-provider-aws,Go,36
+93444615,hashicorp/terraform-provider-aws,Go,37
 10721619,hajimehoshi/ebiten,Go,78
 150954997,VictoriaMetrics/VictoriaMetrics,Go,38
 359419233,kubeshark/kubeshark,Go,895
@@ -23,4 +23,4 @@ id,name,lang,new stars
 80669528,drud/ddev,Go,19
 329229346,eatmoreapple/openwechat,Go,320
 575555632,awslabs/eks-node-viewer,Go,192
-574975994,gtoxlili/wechat-chatGPT,Go,174
+574975994,gtoxlili/wechat-chatGPT,Go,159
