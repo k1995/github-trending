@@ -1,9 +1,9 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,38
+458058,symfony/symfony,PHP,37
 1864363,composer/composer,PHP,27
 1420053,guzzle/guzzle,PHP,19
 5724990,briannesbitt/Carbon,PHP,16
-12615154,barryvdh/laravel-debugbar,PHP,27
+12615154,barryvdh/laravel-debugbar,PHP,28
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,18
 42480275,spatie/laravel-permission,PHP,20
 597887,doctrine/orm,PHP,7
@@ -11,16 +11,16 @@ id,name,lang,new stars
 10238429,tennc/webshell,PHP,56
 212659,sebastianbergmann/php-code-coverage,PHP,12
 2179920,woocommerce/woocommerce,PHP,19
-116389886,Anankke/SSPanel-Uim,PHP,57
+116389886,Anankke/SSPanel-Uim,PHP,56
 6763587,PrestaShop/PrestaShop,PHP,22
-222873550,crater-invoice/crater,PHP,26
+222873550,crater-invoice/crater,PHP,28
 76064827,mailcow/mailcow-dockerized,PHP,23
 248372441,filamentphp/filament,PHP,51
-60010673,elementor/elementor,PHP,65
-47508644,pterodactyl/panel,PHP,33
+60010673,elementor/elementor,PHP,59
+47508644,pterodactyl/panel,PHP,34
 139191005,nunomaduro/larastan,PHP,26
-14724954,opensourcepos/opensourcepos,PHP,19
-216849756,v2board/v2board,PHP,178
+14724954,opensourcepos/opensourcepos,PHP,18
+216849756,v2board/v2board,PHP,188
 131995661,shopware/platform,PHP,8
 29745084,Leantime/leantime,PHP,18
 516948304,eraporsmk/erapor6,PHP,5
