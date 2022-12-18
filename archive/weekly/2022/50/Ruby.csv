@@ -1,8 +1,8 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,64
+8514,rails/rails,Ruby,66
 65252,jekyll/jekyll,Ruby,47
 27442967,fastlane/fastlane,Ruby,35
-2293158,rapid7/metasploit-framework,Ruby,58
+2293158,rapid7/metasploit-framework,Ruby,57
 481872,hashicorp/vagrant,Ruby,36
 308770,heartcombo/devise,Ruby,18
 73648678,forem/forem,Ruby,37
@@ -13,12 +13,12 @@ id,name,lang,new stars
 47087,carrierwaveuploader/carrierwave,Ruby,2
 108278,chef/chef,Ruby,9
 447184,rspec/rspec-rails,Ruby,2
-1314319,instructure/canvas-lms,Ruby,6
-1952825,Homebrew/homebrew-bundle,Ruby,9
+1314319,instructure/canvas-lms,Ruby,7
+1952825,Homebrew/homebrew-bundle,Ruby,8
 115859973,ddnexus/pagy,Ruby,10
 79352,mikel/mail,Ruby,5
 1172597,thoughtbot/shoulda-matchers,Ruby,3
-614070,rubygems/rubygems,Ruby,6
+614070,rubygems/rubygems,Ruby,5
 5144181,jnunemaker/flipper,Ruby,7
 3277842,googleapis/google-api-ruby-client,Ruby,6
 229187949,shivammathur/homebrew-php,Ruby,24

@@ -10,10 +10,10 @@ id,name,lang,new stars
 8966356,hashicorp/packer,Go,5
 100982449,argoproj/argo-workflows,Go,1
 13021798,git-lfs/git-lfs,Go,5
-54230994,coredns/coredns,Go,5
+54230994,coredns/coredns,Go,8
 410430370,IceWhaleTech/CasaOS,Go,30
 93928882,swaggo/swag,Go,6
-28366058,distribution/distribution,Go,4
+28366058,distribution/distribution,Go,5
 110027931,metallb/metallb,Go,5
 86367047,elastic/go-elasticsearch,Go,4
 149515625,fluxcd/flagger,Go,6
