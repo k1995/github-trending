@@ -1,0 +1,25 @@
+id,name,lang,new stars
+20580498,kubernetes/kubernetes,Go,20
+14712850,syncthing/syncthing,Go,16
+163883279,nektos/act,Go,40
+43723161,helm/helm,Go,4
+167596393,derailed/k9s,Go,14
+129717717,grafana/loki,Go,13
+510607652,pocketbase/pocketbase,Go,33
+62712899,AdguardTeam/AdGuardHome,Go,15
+8966356,hashicorp/packer,Go,5
+100982449,argoproj/argo-workflows,Go,1
+13021798,git-lfs/git-lfs,Go,4
+54230994,coredns/coredns,Go,5
+410430370,IceWhaleTech/CasaOS,Go,28
+93928882,swaggo/swag,Go,6
+28366058,distribution/distribution,Go,2
+110027931,metallb/metallb,Go,6
+86367047,elastic/go-elasticsearch,Go,4
+149515625,fluxcd/flagger,Go,5
+382379200,cue-lang/cue,Go,6
+185861173,open-telemetry/opentelemetry-collector,Go,1
+209313689,aquasecurity/tracee,Go,8
+565629124,google/osv-scanner,Go,384
+196414933,open-telemetry/opentelemetry-collector-contrib,Go,1
+576072728,eryajf/chatgpt-dingtalk,Go,13
