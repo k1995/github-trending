@@ -1,13 +1,13 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,14
+3482588,danielmiessler/SecLists,PHP,16
 1864363,composer/composer,PHP,5
-60243197,nextcloud/server,PHP,9
+60243197,nextcloud/server,PHP,10
 82238168,monicahq/monica,PHP,9
 2889328,WordPress/WordPress,PHP,1
 47495360,koel/koel,PHP,6
 10157178,egulias/EmailValidator,PHP,3
 222873550,crater-invoice/crater,PHP,4
-95011974,akaunting/akaunting,PHP,4
+95011974,akaunting/akaunting,PHP,3
 10883164,barryvdh/laravel-dompdf,PHP,0
 74386167,vimeo/psalm,PHP,2
 47508644,pterodactyl/panel,PHP,4
@@ -19,7 +19,7 @@ id,name,lang,new stars
 131995661,shopware/platform,PHP,0
 75645659,WordPress/wordpress-develop,PHP,1
 36526302,pentestmonkey/php-reverse-shell,PHP,1
-433383766,nextcloud/all-in-one,PHP,6
+433383766,nextcloud/all-in-one,PHP,4
 568333922,youshandefeiyang/IPTV,PHP,14
 440577490,lunarphp/lunar,PHP,3
 485064852,bradtraversy/laragigs,PHP,1
