@@ -3,7 +3,7 @@ id,name,lang,new stars
 448045,sebastianbergmann/phpunit,PHP,17
 5724990,briannesbitt/Carbon,PHP,16
 12615154,barryvdh/laravel-debugbar,PHP,27
-4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,20
+4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,21
 49014795,phpstan/phpstan,PHP,28
 48796179,z-song/laravel-admin,PHP,13
 10238429,tennc/webshell,PHP,58
@@ -14,13 +14,13 @@ id,name,lang,new stars
 6763587,PrestaShop/PrestaShop,PHP,18
 222873550,crater-invoice/crater,PHP,28
 76064827,mailcow/mailcow-dockerized,PHP,23
-248372441,filamentphp/filament,PHP,50
-60010673,elementor/elementor,PHP,48
-439861,moodle/moodle,PHP,14
+248372441,filamentphp/filament,PHP,51
+60010673,elementor/elementor,PHP,46
+439861,moodle/moodle,PHP,13
 139191005,nunomaduro/larastan,PHP,24
 9077725,giggsey/libphonenumber-for-php,PHP,8
 216849756,v2board/v2board,PHP,202
 131995661,shopware/platform,PHP,8
 29745084,Leantime/leantime,PHP,19
 440520058,orhanerday/open-ai,PHP,45
-516948304,eraporsmk/erapor6,PHP,6
+516948304,eraporsmk/erapor6,PHP,7

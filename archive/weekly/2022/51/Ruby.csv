@@ -2,7 +2,7 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,63
 27442967,fastlane/fastlane,Ruby,33
 481872,hashicorp/vagrant,Ruby,31
-308770,heartcombo/devise,Ruby,20
+308770,heartcombo/devise,Ruby,18
 73648678,forem/forem,Ruby,36
 538746,ruby/ruby,Ruby,25
 138312,capistrano/capistrano,Ruby,3
@@ -11,7 +11,7 @@ id,name,lang,new stars
 8393,thoughtbot/paperclip,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,3
 810796,railsadminteam/rails_admin,Ruby,3
-6899875,opf/openproject,Ruby,24
+6899875,opf/openproject,Ruby,25
 1314319,instructure/canvas-lms,Ruby,4
 115859973,ddnexus/pagy,Ruby,9
 103766152,github/explore,Ruby,17
@@ -22,5 +22,5 @@ id,name,lang,new stars
 3277842,googleapis/google-api-ruby-client,Ruby,7
 229187949,shivammathur/homebrew-php,Ruby,21
 238972,rspec/rspec-core,Ruby,4
-450941276,aljazceru/awesome-nostr,Ruby,155
+450941276,aljazceru/awesome-nostr,Ruby,161
 463648726,Shopify/ruby-lsp,Ruby,14
