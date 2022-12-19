@@ -9,7 +9,7 @@ id,name,lang,new stars
 6051812,gorilla/mux,Go,314
 46089560,containerd/containerd,Go,256
 252813491,projectdiscovery/nuclei,Go,376
-134012064,pion/webrtc,Go,198
+134012064,pion/webrtc,Go,197
 367284699,lima-vm/lima,Go,378
 121086193,99designs/gqlgen,Go,134
 93444615,hashicorp/terraform-provider-aws,Go,153
@@ -18,9 +18,9 @@ id,name,lang,new stars
 318476701,containerd/nerdctl,Go,345
 230660669,aler9/rtsp-simple-server,Go,369
 257434373,apernet/hysteria,Go,524
-278480393,aws/karpenter,Go,194
+278480393,aws/karpenter,Go,196
 22700054,hashicorp/golang-lru,Go,195
 178079595,opencost/opencost,Go,131
-193681111,filecoin-project/lotus,Go,39
+193681111,filecoin-project/lotus,Go,40
 342854098,superseriousbusiness/gotosocial,Go,666
-299054922,alpkeskin/mosint,Go,601
+299054922,alpkeskin/mosint,Go,598
