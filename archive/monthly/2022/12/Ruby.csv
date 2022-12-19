@@ -2,14 +2,14 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,240
 65252,jekyll/jekyll,Ruby,205
 52281283,mastodon/mastodon,Ruby,2792
-13840241,freeCodeCamp/devdocs,Ruby,319
-2293158,rapid7/metasploit-framework,Ruby,259
+13840241,freeCodeCamp/devdocs,Ruby,321
+2293158,rapid7/metasploit-framework,Ruby,260
 308770,heartcombo/devise,Ruby,79
 538746,ruby/ruby,Ruby,112
 3195124,mperham/sidekiq,Ruby,70
 4095287,rubocop/rubocop,Ruby,53
 3314,spree/spree,Ruby,50
-52855516,Homebrew/homebrew-core,Ruby,126
+52855516,Homebrew/homebrew-core,Ruby,124
 1918677,fluent/fluentd,Ruby,82
 1725199,github/linguist,Ruby,103
 611921,activeadmin/activeadmin,Ruby,25
@@ -21,6 +21,6 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,70
 270054,ffi/ffi,Ruby,11
 55288882,d12frosted/homebrew-emacs-plus,Ruby,55
-229187949,shivammathur/homebrew-php,Ruby,82
+229187949,shivammathur/homebrew-php,Ruby,83
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,6
 365723058,learn-co-curriculum/phase-4-creating-a-rails-api,Ruby,5
