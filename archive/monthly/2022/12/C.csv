@@ -1,17 +1,17 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,1918
-111583593,Genymobile/scrcpy,C,1306
+111583593,Genymobile/scrcpy,C,1309
 36502,git/git,C,385
-246335987,ventoy/Ventoy,C,1336
+246335987,ventoy/Ventoy,C,1329
 1903522,php/php-src,C,198
-102578345,coolsnowwolf/lede,C,523
-20159867,nothings/stb,C,284
+102578345,coolsnowwolf/lede,C,522
+20159867,nothings/stb,C,282
 196353673,taosdata/TDengine,C,675
-80286288,arendst/Tasmota,C,271
+80286288,arendst/Tasmota,C,272
 40217904,swaywm/sway,C,282
 3299208,videolan/vlc,C,193
 70127218,espressif/arduino-esp32,C,206
-65899476,espressif/esp-idf,C,183
+65899476,espressif/esp-idf,C,184
 437011,openzfs/zfs,C,244
 14049216,cockpit-project/cockpit,C,329
 1979797,FreeRDP/FreeRDP,C,126
@@ -19,8 +19,8 @@ id,name,lang,new stars
 59676171,Klipper3d/klipper,C,197
 330008801,libsdl-org/SDL,C,281
 284134871,flipperdevices/flipperzero-firmware,C,521
-541269386,ggerganov/whisper.cpp,C,3260
+541269386,ggerganov/whisper.cpp,C,3235
 6687936,Mbed-TLS/mbedtls,C,62
-470579591,DarkFlippers/unleashed-firmware,C,1071
+470579591,DarkFlippers/unleashed-firmware,C,1078
 561183031,jart/blink,C,2185
 511278970,sultim-t/vkquake-rt,C,142
