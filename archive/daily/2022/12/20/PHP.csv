@@ -1,6 +1,6 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,12
-3482588,danielmiessler/SecLists,PHP,19
+3482588,danielmiessler/SecLists,PHP,18
 60243197,nextcloud/server,PHP,10
 448045,sebastianbergmann/phpunit,PHP,1
 82238168,monicahq/monica,PHP,13
@@ -10,14 +10,14 @@ id,name,lang,new stars
 7704544,Intervention/image,PHP,2
 14259390,SpartnerNL/Laravel-Excel,PHP,0
 10157178,egulias/EmailValidator,PHP,2
-5508585,YOURLS/YOURLS,PHP,3
+5508585,YOURLS/YOURLS,PHP,4
 116389886,Anankke/SSPanel-Uim,PHP,6
 32015820,webmozarts/assert,PHP,1
 248372441,filamentphp/filament,PHP,12
 119047018,linuxserver/Heimdall,PHP,9
 1398629,symfony/config,PHP,2
 96284790,prasathmani/tinyfilemanager,PHP,3
-216849756,v2board/v2board,PHP,7
+216849756,v2board/v2board,PHP,8
 307018731,DenverCoder1/github-readme-streak-stats,PHP,2
 36526302,pentestmonkey/php-reverse-shell,PHP,3
 433383766,nextcloud/all-in-one,PHP,8

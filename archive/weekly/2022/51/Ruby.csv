@@ -4,9 +4,9 @@ id,name,lang,new stars
 481872,hashicorp/vagrant,Ruby,30
 308770,heartcombo/devise,Ruby,20
 73648678,forem/forem,Ruby,37
-538746,ruby/ruby,Ruby,26
+538746,ruby/ruby,Ruby,24
 138312,capistrano/capistrano,Ruby,4
-4095287,rubocop/rubocop,Ruby,12
+4095287,rubocop/rubocop,Ruby,13
 611921,activeadmin/activeadmin,Ruby,8
 8393,thoughtbot/paperclip,Ruby,1
 47087,carrierwaveuploader/carrierwave,Ruby,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,12
 614070,rubygems/rubygems,Ruby,6
 3277842,googleapis/google-api-ruby-client,Ruby,10
-229187949,shivammathur/homebrew-php,Ruby,20
+229187949,shivammathur/homebrew-php,Ruby,19
 238972,rspec/rspec-core,Ruby,5
 450941276,aljazceru/awesome-nostr,Ruby,171
 463648726,Shopify/ruby-lsp,Ruby,12
