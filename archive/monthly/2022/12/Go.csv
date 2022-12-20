@@ -1,21 +1,21 @@
 id,name,lang,new stars
 136815833,Dreamacro/clash,Go,1422
 163883279,nektos/act,Go,3608
-15045751,docker/compose,Go,327
-187335810,jesseduffield/lazydocker,Go,703
+15045751,docker/compose,Go,329
+187335810,jesseduffield/lazydocker,Go,702
 24268127,coreybutler/nvm-windows,Go,610
-156084530,ehang-io/nps,Go,647
-6051812,gorilla/mux,Go,321
-21233191,ipfs/kubo,Go,194
+156084530,ehang-io/nps,Go,646
+6051812,gorilla/mux,Go,320
+21233191,ipfs/kubo,Go,193
 116576783,bettercap/bettercap,Go,1256
-252813491,projectdiscovery/nuclei,Go,369
+252813491,projectdiscovery/nuclei,Go,372
 367284699,lima-vm/lima,Go,384
-237523442,tailscale/tailscale,Go,363
+237523442,tailscale/tailscale,Go,364
 273871859,juanfont/headscale,Go,642
-121086193,99designs/gqlgen,Go,137
+121086193,99designs/gqlgen,Go,136
 154643390,sundowndev/phoneinfoga,Go,257
 93444615,hashicorp/terraform-provider-aws,Go,153
-10721619,hajimehoshi/ebiten,Go,237
+10721619,hajimehoshi/ebiten,Go,236
 281694167,Mrs4s/go-cqhttp,Go,267
 54435102,benthosdev/benthos,Go,516
 318476701,containerd/nerdctl,Go,346
@@ -23,4 +23,4 @@ id,name,lang,new stars
 230660669,aler9/rtsp-simple-server,Go,382
 278480393,aws/karpenter,Go,200
 342854098,superseriousbusiness/gotosocial,Go,652
-299054922,alpkeskin/mosint,Go,597
+299054922,alpkeskin/mosint,Go,591
