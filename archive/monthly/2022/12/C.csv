@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,1918
+2325298,torvalds/linux,C,1917
 111583593,Genymobile/scrcpy,C,1304
 10744183,netdata/netdata,C,356
 36502,git/git,C,386
@@ -7,20 +7,20 @@ id,name,lang,new stars
 1903522,php/php-src,C,198
 102578345,coolsnowwolf/lede,C,529
 18666758,pjreddie/darknet,C,150
-2810292,pbatard/rufus,C,396
-20159867,nothings/stb,C,284
-196353673,taosdata/TDengine,C,678
+2810292,pbatard/rufus,C,391
+20159867,nothings/stb,C,285
+196353673,taosdata/TDengine,C,680
 80286288,arendst/Tasmota,C,267
-13836499,raysan5/raylib,C,225
+13836499,raysan5/raylib,C,227
 3299208,videolan/vlc,C,190
-70127218,espressif/arduino-esp32,C,210
+70127218,espressif/arduino-esp32,C,213
 437011,openzfs/zfs,C,244
 14049216,cockpit-project/cockpit,C,327
 19112091,vanhauser-thc/thc-hydra,C,197
-59676171,Klipper3d/klipper,C,199
+59676171,Klipper3d/klipper,C,197
 330008801,libsdl-org/SDL,C,260
-284134871,flipperdevices/flipperzero-firmware,C,528
+284134871,flipperdevices/flipperzero-firmware,C,531
 541269386,ggerganov/whisper.cpp,C,3262
-6687936,Mbed-TLS/mbedtls,C,62
-470579591,DarkFlippers/unleashed-firmware,C,1052
+6687936,Mbed-TLS/mbedtls,C,64
+470579591,DarkFlippers/unleashed-firmware,C,1064
 561183031,jart/blink,C,2185
