@@ -4,16 +4,16 @@ id,name,lang,new stars
 15045751,docker/compose,Go,326
 187335810,jesseduffield/lazydocker,Go,706
 24268127,coreybutler/nvm-windows,Go,610
-156084530,ehang-io/nps,Go,653
+156084530,ehang-io/nps,Go,651
 48003886,tmrts/go-patterns,Go,448
 6051812,gorilla/mux,Go,316
 46089560,containerd/containerd,Go,256
-252813491,projectdiscovery/nuclei,Go,370
+252813491,projectdiscovery/nuclei,Go,372
 134012064,pion/webrtc,Go,198
 367284699,lima-vm/lima,Go,384
 121086193,99designs/gqlgen,Go,133
 93444615,hashicorp/terraform-provider-aws,Go,153
-10721619,hajimehoshi/ebiten,Go,233
+10721619,hajimehoshi/ebiten,Go,234
 281694167,Mrs4s/go-cqhttp,Go,267
 318476701,containerd/nerdctl,Go,346
 230660669,aler9/rtsp-simple-server,Go,382
@@ -23,4 +23,4 @@ id,name,lang,new stars
 178079595,opencost/opencost,Go,130
 193681111,filecoin-project/lotus,Go,40
 342854098,superseriousbusiness/gotosocial,Go,652
-299054922,alpkeskin/mosint,Go,593
+299054922,alpkeskin/mosint,Go,595

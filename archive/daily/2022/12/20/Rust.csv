@@ -1,12 +1,12 @@
 id,name,lang,new stars
-133442384,denoland/deno,Rust,14
+133442384,denoland/deno,Rust,15
 724712,rust-lang/rust,Rust,38
 178991158,starship/starship,Rust,56
 90793418,sharkdp/fd,Rust,14
 186024298,nushell/nushell,Rust,14
-120425779,lapce/lapce,Rust,42
+120425779,lapce/lapce,Rust,46
 234798675,bevyengine/bevy,Rust,20
-410749029,spacedriveapp/spacedrive,Rust,9
+410749029,spacedriveapp/spacedrive,Rust,10
 7270538,ankitects/anki,Rust,15
 183483988,ruffle-rs/ruffle,Rust,11
 47854924,rust-lang/book,Rust,9
@@ -21,6 +21,6 @@ id,name,lang,new stars
 202485012,webrtc-rs/webrtc,Rust,14
 500391407,buckyos/CYFS,Rust,17
 567311307,google/forma,Rust,343
-577992419,m1guelpf/plz-cli,Rust,101
+577992419,m1guelpf/plz-cli,Rust,91
 575340621,lencx/ChatGPT,Rust,97
 577728324,andrewbaxter/genemichaels,Rust,9

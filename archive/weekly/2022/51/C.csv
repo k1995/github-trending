@@ -1,7 +1,7 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,359
 36502,git/git,C,92
-13233158,obsproject/obs-studio,C,207
+13233158,obsproject/obs-studio,C,206
 80286288,arendst/Tasmota,C,67
 45821540,openwrt/openwrt,C,70
 93205465,apple/darwin-xnu,C,18
@@ -13,10 +13,10 @@ id,name,lang,new stars
 284134871,flipperdevices/flipperzero-firmware,C,136
 97212490,floooh/sokol,C,18
 6687936,Mbed-TLS/mbedtls,C,20
-470579591,DarkFlippers/unleashed-firmware,C,312
+470579591,DarkFlippers/unleashed-firmware,C,322
 283280154,jomjol/AI-on-the-edge-device,C,35
 117704656,remzi-arpacidusseau/ostep-projects,C,17
-561183031,jart/blink,C,1486
+561183031,jart/blink,C,1480
 151064439,ExpressLRS/ExpressLRS,C,11
 45734719,enjoy-digital/litex,C,16
 276293034,apache/age,C,33
