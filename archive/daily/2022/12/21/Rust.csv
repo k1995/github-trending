@@ -1,7 +1,7 @@
 id,name,lang,new stars
 186024298,nushell/nushell,Rust,17
-234798675,bevyengine/bevy,Rust,26
-121898717,dani-garcia/vaultwarden,Rust,34
+234798675,bevyengine/bevy,Rust,23
+121898717,dani-garcia/vaultwarden,Rust,30
 202787876,Rigellute/spotify-tui,Rust,29
 23560214,BurntSushi/xsv,Rust,85
 245166720,ajeetdsouza/zoxide,Rust,8
@@ -15,12 +15,12 @@ id,name,lang,new stars
 361079646,PaulJuliusMartinez/jless,Rust,152
 290243101,Orange-OpenSource/hurl,Rust,45
 426075845,MystenLabs/sui,Rust,6
-358917318,apache/arrow-datafusion,Rust,6
+358917318,apache/arrow-datafusion,Rust,4
 480592723,move-language/move,Rust,3
 185491097,trickster0/OffensiveRust,Rust,64
 220185454,salvo-rs/salvo,Rust,20
 575340621,lencx/ChatGPT,Rust,146
-414124987,wormtql/yas,Rust,5
+414124987,wormtql/yas,Rust,4
 510559980,anoma/namada,Rust,1
-560894668,esp-rs/rfc2217-rs,Rust,24
-579802061,lucasmerlin/egui_dnd,Rust,7
+560894668,esp-rs/rfc2217-rs,Rust,14
+579802061,lucasmerlin/egui_dnd,Rust,8

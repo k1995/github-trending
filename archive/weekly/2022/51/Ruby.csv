@@ -1,19 +1,19 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,68
-65252,jekyll/jekyll,Ruby,38
-52281283,mastodon/mastodon,Ruby,960
+8514,rails/rails,Ruby,66
+65252,jekyll/jekyll,Ruby,42
+52281283,mastodon/mastodon,Ruby,980
 27442967,fastlane/fastlane,Ruby,35
-2293158,rapid7/metasploit-framework,Ruby,63
-308770,heartcombo/devise,Ruby,16
-73648678,forem/forem,Ruby,39
-538746,ruby/ruby,Ruby,30
-3623050,Homebrew/homebrew-cask,Ruby,21
+2293158,rapid7/metasploit-framework,Ruby,65
+308770,heartcombo/devise,Ruby,18
+73648678,forem/forem,Ruby,38
+538746,ruby/ruby,Ruby,31
+3623050,Homebrew/homebrew-cask,Ruby,22
 138312,capistrano/capistrano,Ruby,4
-4095287,rubocop/rubocop,Ruby,14
+4095287,rubocop/rubocop,Ruby,13
 611921,activeadmin/activeadmin,Ruby,9
 47087,carrierwaveuploader/carrierwave,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,6
-2441517,puma/puma,Ruby,7
+2441517,puma/puma,Ruby,6
 6899875,opf/openproject,Ruby,27
 1548802,activerecord-hackery/ransack,Ruby,5
 103766152,github/explore,Ruby,21
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1172597,thoughtbot/shoulda-matchers,Ruby,3
 3277842,googleapis/google-api-ruby-client,Ruby,7
 229187949,shivammathur/homebrew-php,Ruby,17
-450941276,aljazceru/awesome-nostr,Ruby,203
+450941276,aljazceru/awesome-nostr,Ruby,198
 374113809,learn-co-curriculum/phase-4-mock-challenge-camping-fun,Ruby,0
