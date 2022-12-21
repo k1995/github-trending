@@ -3,8 +3,8 @@ id,name,lang,new stars
 11225014,etcd-io/etcd,Go,11
 163883279,nektos/act,Go,123
 14125254,hashicorp/consul,Go,2
-50613991,goharbor/harbor,Go,8
-118945118,antonmedv/fx,Go,55
+50613991,goharbor/harbor,Go,7
+118945118,antonmedv/fx,Go,43
 180687624,aquasecurity/trivy,Go,13
 46089560,containerd/containerd,Go,7
 33258973,influxdata/telegraf,Go,3
@@ -15,7 +15,7 @@ id,name,lang,new stars
 106704041,cosmtrek/air,Go,17
 14508450,gophish/gophish,Go,7
 154643390,sundowndev/phoneinfoga,Go,51
-48714685,open-policy-agent/opa,Go,5
+48714685,open-policy-agent/opa,Go,4
 58821882,grpc-ecosystem/go-grpc-middleware,Go,7
 542931741,answerdev/answer,Go,91
 117156031,prysmaticlabs/prysm,Go,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 527578222,komodorio/helm-dashboard,Go,431
 565629124,google/osv-scanner,Go,496
 342854098,superseriousbusiness/gotosocial,Go,16
-299054922,alpkeskin/mosint,Go,27
+299054922,alpkeskin/mosint,Go,28
