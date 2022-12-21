@@ -1,16 +1,16 @@
 id,name,lang,new stars
-246335987,ventoy/Ventoy,C,37
-7634677,openssl/openssl,C,9
-29759715,facebook/zstd,C,182
-66150122,jarun/nnn,C,14
-214011414,kingToolbox/WindTerm,C,14
+246335987,ventoy/Ventoy,C,38
+7634677,openssl/openssl,C,11
+29759715,facebook/zstd,C,87
+66150122,jarun/nnn,C,13
+214011414,kingToolbox/WindTerm,C,15
 613829,openresty/lua-nginx-module,C,1
 65899476,espressif/esp-idf,C,3
 7408108,RT-Thread/rt-thread,C,2
 59771425,zephyrproject-rtos/zephyr,C,2
 59676171,Klipper3d/klipper,C,10
-130578889,pymumu/smartdns,C,2
-470579591,DarkFlippers/unleashed-firmware,C,83
+130578889,pymumu/smartdns,C,3
+470579591,DarkFlippers/unleashed-firmware,C,80
 1613176,tianocore/edk2,C,4
 6860771,hathach/tinyusb,C,2
 283280154,jomjol/AI-on-the-edge-device,C,5
@@ -20,7 +20,7 @@ id,name,lang,new stars
 576303915,tiann/KernelSU,C,23
 454138964,openshwprojects/OpenBK7231T_App,C,2
 485321986,aixed/WeChat-Hook,C,1
-579424048,zhuowei/MacDirtyCowDemo,C,25
+579424048,zhuowei/MacDirtyCowDemo,C,21
 507678095,BrightDaniel/alx-low_level_programming,C,6
 526448037,streetpea/chiaki4deck,C,1
 534275397,Kr328/clash-multiplatform-compat,C,1

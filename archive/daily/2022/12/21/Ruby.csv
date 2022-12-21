@@ -3,11 +3,11 @@ id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,2
 52281283,mastodon/mastodon,Ruby,200
 8681349,huginn/huginn,Ruby,8
-53238813,Homebrew/brew,Ruby,11
+53238813,Homebrew/brew,Ruby,13
 308770,heartcombo/devise,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,4
+202291859,chatwoot/chatwoot,Ruby,5
 3195124,mperham/sidekiq,Ruby,3
-4095287,rubocop/rubocop,Ruby,7
+4095287,rubocop/rubocop,Ruby,6
 106995,sinatra/sinatra,Ruby,4
 812393,ruby-grape/grape,Ruby,0
 611921,activeadmin/activeadmin,Ruby,2
@@ -16,10 +16,10 @@ id,name,lang,new stars
 839336,simplecov-ruby/simplecov,Ruby,0
 52316423,luggit/react-native-config,Ruby,2
 1952825,Homebrew/homebrew-bundle,Ruby,1
-103766152,github/explore,Ruby,4
+103766152,github/explore,Ruby,3
 229006,mileszs/wicked_pdf,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,2
-253024215,hahwul/WebHackersWeapons,Ruby,12
+253024215,hahwul/WebHackersWeapons,Ruby,10
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,0
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,0
 450941276,aljazceru/awesome-nostr,Ruby,33
