@@ -1,11 +1,11 @@
 id,name,lang,new stars
-6296790,spring-projects/spring-boot,Java,19
-9754983,eugenp/tutorials,Java,5
+6296790,spring-projects/spring-boot,Java,17
+9754983,eugenp/tutorials,Java,17
 44662669,dbeaver/dbeaver,Java,21
 2211243,apache/kafka,Java,9
 1103607,jenkinsci/jenkins,Java,7
 20773773,bazelbuild/bazel,Java,10
-5349565,prestodb/presto,Java,8
+5349565,prestodb/presto,Java,7
 23418517,apache/hadoop,Java,2
 221862,projectlombok/lombok,Java,2
 99919302,apache/doris,Java,7
@@ -13,14 +13,14 @@ id,name,lang,new stars
 4238977,springfox/springfox,Java,0
 247659028,PowerJob/PowerJob,Java,21
 43243303,react-native-webrtc/react-native-webrtc,Java,1
-402945349,StarRocks/starrocks,Java,9
+402945349,StarRocks/starrocks,Java,15
 21193524,apache/calcite,Java,2
 252474685,NekoX-Dev/NekoX,Java,12
 158975124,apache/iotdb,Java,4
-561730219,krahets/hello-algo,Java,404
-90675730,kubernetes-client/java,Java,3
+561730219,krahets/hello-algo,Java,390
+90675730,kubernetes-client/java,Java,5
 210029529,apache/maven-mvnd,Java,31
-172750723,open-telemetry/opentelemetry-java,Java,2
+172750723,open-telemetry/opentelemetry-java,Java,6
 298323699,devopshydclub/vprofile-project,Java,3
-389408591,open-pdf-sign/open-pdf-sign,Java,88
-457636580,apache/flink-kubernetes-operator,Java,1
+389408591,open-pdf-sign/open-pdf-sign,Java,94
+457636580,apache/flink-kubernetes-operator,Java,2
