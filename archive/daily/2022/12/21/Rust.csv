@@ -4,7 +4,7 @@ id,name,lang,new stars
 202787876,Rigellute/spotify-tui,Rust,28
 162276894,Wilfred/difftastic,Rust,18
 7270538,ankitects/anki,Rust,18
-101767772,bytecodealliance/wasmtime,Rust,12
+101767772,bytecodealliance/wasmtime,Rust,8
 27839676,Spotifyd/spotifyd,Rust,872
 150891532,cloudflare/quiche,Rust,9
 414585797,0x192/universal-android-debloater,Rust,37
@@ -16,11 +16,11 @@ id,name,lang,new stars
 213836768,dtolnay/thiserror,Rust,6
 159866229,build-trust/ockam,Rust,12
 202485012,webrtc-rs/webrtc,Rust,15
-567311307,google/forma,Rust,169
+567311307,google/forma,Rust,120
 266602341,gakonst/ethers-rs,Rust,3
 297701481,embassy-rs/embassy,Rust,15
 425736647,massalabs/massa,Rust,0
 220185454,salvo-rs/salvo,Rust,20
 575340621,lencx/ChatGPT,Rust,130
-577992419,m1guelpf/plz-cli,Rust,48
+577992419,m1guelpf/plz-cli,Rust,42
 431715396,scsibug/nostr-rs-relay,Rust,12
