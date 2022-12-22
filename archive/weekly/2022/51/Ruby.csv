@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,68
+8514,rails/rails,Ruby,67
 65252,jekyll/jekyll,Ruby,40
 52281283,mastodon/mastodon,Ruby,985
-27442967,fastlane/fastlane,Ruby,37
+27442967,fastlane/fastlane,Ruby,36
 2293158,rapid7/metasploit-framework,Ruby,66
 308770,heartcombo/devise,Ruby,18
 73648678,forem/forem,Ruby,38
-538746,ruby/ruby,Ruby,28
+538746,ruby/ruby,Ruby,30
 3623050,Homebrew/homebrew-cask,Ruby,22
 138312,capistrano/capistrano,Ruby,4
-4095287,rubocop/rubocop,Ruby,14
+4095287,rubocop/rubocop,Ruby,15
 611921,activeadmin/activeadmin,Ruby,9
 47087,carrierwaveuploader/carrierwave,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1172597,thoughtbot/shoulda-matchers,Ruby,3
 3277842,googleapis/google-api-ruby-client,Ruby,7
 229187949,shivammathur/homebrew-php,Ruby,20
-450941276,aljazceru/awesome-nostr,Ruby,204
+450941276,aljazceru/awesome-nostr,Ruby,206
 374113809,learn-co-curriculum/phase-4-mock-challenge-camping-fun,Ruby,0

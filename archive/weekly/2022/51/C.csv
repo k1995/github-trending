@@ -1,15 +1,15 @@
 id,name,lang,new stars
 36502,git/git,C,81
-13233158,obsproject/obs-studio,C,189
-29759715,facebook/zstd,C,308
+13233158,obsproject/obs-studio,C,188
+29759715,facebook/zstd,C,316
 80286288,arendst/Tasmota,C,47
-66150122,jarun/nnn,C,64
+66150122,jarun/nnn,C,66
 84240850,timescale/timescaledb,C,45
-184909163,koekeishiya/yabai,C,71
-93205465,apple/darwin-xnu,C,16
-272457606,jart/cosmopolitan,C,86
+184909163,koekeishiya/yabai,C,70
+93205465,apple/darwin-xnu,C,14
+272457606,jart/cosmopolitan,C,87
 70127218,espressif/arduino-esp32,C,52
-3199002,raspberrypi/linux,C,24
+3199002,raspberrypi/linux,C,23
 254327261,sandboxie-plus/Sandboxie,C,56
 6376337,pocoproject/poco,C,30
 330008801,libsdl-org/SDL,C,88
@@ -22,5 +22,5 @@ id,name,lang,new stars
 343191804,nalgeon/sqlean,C,146
 45734719,enjoy-digital/litex,C,13
 356381754,nvim-telescope/telescope-fzf-native.nvim,C,16
-576303915,tiann/KernelSU,C,109
-575344135,starfive-tech/VisionFive2,C,24
+576303915,tiann/KernelSU,C,106
+575344135,starfive-tech/VisionFive2,C,26
