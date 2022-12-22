@@ -1,7 +1,7 @@
 id,name,lang,new stars
 23096959,golang/go,Go,32
 29261473,minio/minio,Go,16
-133251103,wagoodman/dive,Go,36
+133251103,wagoodman/dive,Go,35
 135516270,k3s-io/k3s,Go,8
 510607652,pocketbase/pocketbase,Go,174
 86733463,ahmetb/kubectx,Go,12
@@ -10,17 +10,17 @@ id,name,lang,new stars
 119190187,zricethezav/gitleaks,Go,5
 533087958,terrastruct/d2,Go,450
 154643390,sundowndev/phoneinfoga,Go,95
-403020531,abiosoft/colima,Go,32
+403020531,abiosoft/colima,Go,30
 37334619,golang/mock,Go,6
 27576132,aws/aws-sdk-go,Go,5
 542931741,answerdev/answer,Go,233
 230660669,aler9/rtsp-simple-server,Go,15
 41964498,prometheus/blackbox_exporter,Go,5
-169108858,kyverno/kyverno,Go,7
+169108858,kyverno/kyverno,Go,6
 84610043,kubernetes-sigs/aws-load-balancer-controller,Go,3
-396856161,authzed/spicedb,Go,27
-538130130,thangchung/go-coffeeshop,Go,67
-185861173,open-telemetry/opentelemetry-collector,Go,5
-247714750,zitadel/zitadel,Go,9
+396856161,authzed/spicedb,Go,25
+538130130,thangchung/go-coffeeshop,Go,60
+185861173,open-telemetry/opentelemetry-collector,Go,4
 299054922,alpkeskin/mosint,Go,20
-306538237,ipinfo/cli,Go,9
+247714750,zitadel/zitadel,Go,9
+306538237,ipinfo/cli,Go,8

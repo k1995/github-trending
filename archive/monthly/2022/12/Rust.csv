@@ -1,8 +1,8 @@
 id,name,lang,new stars
 133442384,denoland/deno,Rust,617
 196701619,tauri-apps/tauri,Rust,1622
-121898717,dani-garcia/vaultwarden,Rust,758
-152572186,wasmerio/wasmer,Rust,632
+121898717,dani-garcia/vaultwarden,Rust,753
+152572186,wasmerio/wasmer,Rust,628
 202787876,Rigellute/spotify-tui,Rust,325
 135201145,RustPython/RustPython,Rust,397
 7270538,ankitects/anki,Rust,297
@@ -10,17 +10,17 @@ id,name,lang,new stars
 263727855,pola-rs/polars,Rust,1305
 226408450,neovide/neovide,Rust,273
 27839676,Spotifyd/spotifyd,Rust,1714
-372172254,tokio-rs/axum,Rust,537
+372172254,tokio-rs/axum,Rust,538
 414585797,0x192/universal-android-debloater,Rust,641
 144140342,paritytech/polkadot,Rust,87
-329782568,DioxusLabs/dioxus,Rust,486
-551376520,tw93/Pake,Rust,3075
-523043277,charliermarsh/ruff,Rust,1130
+329782568,DioxusLabs/dioxus,Rust,483
+551376520,tw93/Pake,Rust,3080
+523043277,charliermarsh/ruff,Rust,1131
 519882617,gbj/leptos,Rust,2536
-57160728,mozilla/sccache,Rust,165
+57160728,mozilla/sccache,Rust,163
 268163609,qdrant/qdrant,Rust,382
 86106381,libp2p/rust-libp2p,Rust,99
 240971104,AleoHQ/snarkOS,Rust,421
-500391407,buckyos/CYFS,Rust,517
+500391407,buckyos/CYFS,Rust,516
 294858647,signalapp/libsignal,Rust,178
 295245253,geph-official/geph4-client,Rust,198
