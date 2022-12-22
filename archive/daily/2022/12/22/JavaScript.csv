@@ -1,20 +1,20 @@
 id,name,lang,new stars
-943149,d3/d3,JavaScript,18
-63537249,facebook/create-react-app,JavaScript,18
-70107786,vercel/next.js,JavaScript,64
-34302698,serverless/serverless,JavaScript,8
+943149,d3/d3,JavaScript,16
+63537249,facebook/create-react-app,JavaScript,16
+70107786,vercel/next.js,JavaScript,65
+34302698,serverless/serverless,JavaScript,7
 135786093,typescript-cheatsheets/react,JavaScript,26
 43695474,quasarframework/quasar,JavaScript,7
-1198539,lutzroeder/netron,JavaScript,11
-34230966,commitizen/cz-cli,JavaScript,9
+1198539,lutzroeder/netron,JavaScript,10
+34230966,commitizen/cz-cli,JavaScript,11
 142177378,apexcharts/apexcharts.js,JavaScript,5
-137389229,jonasschmedtmann/complete-javascript-course,JavaScript,9
+137389229,jonasschmedtmann/complete-javascript-course,JavaScript,12
 8629417,mapbox/mapbox-gl-js,JavaScript,6
-42009758,MetaMask/metamask-extension,JavaScript,8
-5694513,aws/aws-sdk-js,JavaScript,2
+42009758,MetaMask/metamask-extension,JavaScript,12
+5694513,aws/aws-sdk-js,JavaScript,4
 139910229,npm/cli,JavaScript,9
 15921313,release-it/release-it,JavaScript,7
-1597789,melonjs/melonJS,JavaScript,246
+1597789,melonjs/melonJS,JavaScript,132
 133092972,nodejs/undici,JavaScript,3
 247288642,adiwajshing/Baileys,JavaScript,4
 262342594,obsidianmd/obsidian-releases,JavaScript,13
@@ -23,4 +23,4 @@ id,name,lang,new stars
 497972824,judygab/web-dev-projects,JavaScript,4
 573721523,cryptoseeker54/Pancakeprediction-AIevolved,JavaScript,38
 575837141,yaroslav-n/tweetGPT,JavaScript,46
-560490291,ed-roh/mern-social-media,JavaScript,4
+560490291,ed-roh/mern-social-media,JavaScript,5
