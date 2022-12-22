@@ -1,7 +1,7 @@
 id,name,lang,new stars
 196701619,tauri-apps/tauri,Rust,45
 130688011,meilisearch/meilisearch,Rust,12
-186024298,nushell/nushell,Rust,18
+186024298,nushell/nushell,Rust,14
 67836789,tokio-rs/tokio,Rust,9
 413918947,vercel/turbo,Rust,17
 121470383,solana-labs/solana,Rust,2
@@ -12,10 +12,10 @@ id,name,lang,new stars
 443977141,Kindelia/HVM,Rust,20
 282179811,EmbarkStudios/rust-gpu,Rust,24
 462597790,aptos-labs/aptos-core,Rust,8
-523043277,charliermarsh/ruff,Rust,147
-289516116,epi052/feroxbuster,Rust,14
+523043277,charliermarsh/ruff,Rust,103
+289516116,epi052/feroxbuster,Rust,18
 268163609,qdrant/qdrant,Rust,12
-361079646,PaulJuliusMartinez/jless,Rust,63
+361079646,PaulJuliusMartinez/jless,Rust,35
 519895363,GyulyVGC/sniffnet,Rust,205
 496605552,sigoden/dufs,Rust,67
 185491097,trickster0/OffensiveRust,Rust,63

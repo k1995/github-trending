@@ -9,8 +9,8 @@ id,name,lang,new stars
 48109239,cilium/cilium,Go,9
 119190187,zricethezav/gitleaks,Go,5
 533087958,terrastruct/d2,Go,450
-154643390,sundowndev/phoneinfoga,Go,95
 403020531,abiosoft/colima,Go,30
+154643390,sundowndev/phoneinfoga,Go,95
 37334619,golang/mock,Go,6
 27576132,aws/aws-sdk-go,Go,5
 542931741,answerdev/answer,Go,233
@@ -18,9 +18,9 @@ id,name,lang,new stars
 41964498,prometheus/blackbox_exporter,Go,5
 169108858,kyverno/kyverno,Go,6
 84610043,kubernetes-sigs/aws-load-balancer-controller,Go,3
-396856161,authzed/spicedb,Go,25
+396856161,authzed/spicedb,Go,23
 538130130,thangchung/go-coffeeshop,Go,60
-185861173,open-telemetry/opentelemetry-collector,Go,4
+185861173,open-telemetry/opentelemetry-collector,Go,5
 299054922,alpkeskin/mosint,Go,20
 247714750,zitadel/zitadel,Go,9
 306538237,ipinfo/cli,Go,8

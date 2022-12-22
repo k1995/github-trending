@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,240
-65252,jekyll/jekyll,Ruby,203
+65252,jekyll/jekyll,Ruby,204
 8681349,huginn/huginn,Ruby,226
-2293158,rapid7/metasploit-framework,Ruby,267
+2293158,rapid7/metasploit-framework,Ruby,266
 308770,heartcombo/devise,Ruby,76
 538746,ruby/ruby,Ruby,122
 4095287,rubocop/rubocop,Ruby,59
-3314,spree/spree,Ruby,50
-52855516,Homebrew/homebrew-core,Ruby,125
-1725199,github/linguist,Ruby,104
+3314,spree/spree,Ruby,51
+52855516,Homebrew/homebrew-core,Ruby,127
+1725199,github/linguist,Ruby,105
 15435,Shopify/liquid,Ruby,61
 47087,carrierwaveuploader/carrierwave,Ruby,12
 211588,paper-trail-gem/paper_trail,Ruby,24
@@ -19,7 +19,7 @@ id,name,lang,new stars
 2050163,aws/aws-sdk-ruby,Ruby,10
 270054,ffi/ffi,Ruby,11
 55288882,d12frosted/homebrew-emacs-plus,Ruby,53
-229187949,shivammathur/homebrew-php,Ruby,84
+229187949,shivammathur/homebrew-php,Ruby,83
 467296689,bullet-train-co/bullet_train,Ruby,53
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,6
 365723058,learn-co-curriculum/phase-4-creating-a-rails-api,Ruby,5
