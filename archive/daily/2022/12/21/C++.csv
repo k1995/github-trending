@@ -1,14 +1,14 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,43
 5108051,opencv/opencv,C++,19
-65600975,pytorch/pytorch,C++,26
+65600975,pytorch/pytorch,C++,23
 23357588,protocolbuffers/protobuf,C++,13
 15634981,godotengine/godot,C++,42
-22887094,tesseract-ocr/tesseract,C++,14
+22887094,tesseract-ocr/tesseract,C++,11
 259463685,carbon-language/carbon-lang,C++,14
 39840932,google/googletest,C++,9
 251383553,electronicarts/CnC_Remastered_Collection,C++,2
-1062572,catchorg/Catch2,C++,6
+1062572,catchorg/Catch2,C++,5
 54360307,uNetworking/uWebSockets,C++,8
 194269070,skyline-emu/skyline,C++,15
 4454793,musescore/MuseScore,C++,153
@@ -22,5 +22,5 @@ id,name,lang,new stars
 438803890,LizardByte/Sunshine,C++,148
 488177011,MatsuriDayo/nekoray,C++,14
 366986186,tildearrow/furnace,C++,1
-167080449,electronicarts/EAStdC,C++,10
+167080449,electronicarts/EAStdC,C++,8
 580023215,facebookexperimental/object-introspection,C++,7
