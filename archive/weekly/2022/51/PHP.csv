@@ -1,14 +1,14 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,50
+7548986,laravel/framework,PHP,48
 1864363,composer/composer,PHP,33
 1420053,guzzle/guzzle,PHP,18
 448045,sebastianbergmann/phpunit,PHP,20
 12615154,barryvdh/laravel-debugbar,PHP,29
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,24
-49014795,phpstan/phpstan,PHP,13
+49014795,phpstan/phpstan,PHP,12
 48796179,z-song/laravel-admin,PHP,13
 2884111,magento/magento2,PHP,13
-21298446,firefly-iii/firefly-iii,PHP,47
+21298446,firefly-iii/firefly-iii,PHP,45
 6660366,dompdf/dompdf,PHP,22
 10238429,tennc/webshell,PHP,57
 212659,sebastianbergmann/php-code-coverage,PHP,11
@@ -16,7 +16,7 @@ id,name,lang,new stars
 116389886,Anankke/SSPanel-Uim,PHP,51
 6763587,PrestaShop/PrestaShop,PHP,17
 222873550,crater-invoice/crater,PHP,24
-248372441,filamentphp/filament,PHP,57
+248372441,filamentphp/filament,PHP,58
 61802818,spatie/laravel-activitylog,PHP,13
 139191005,nunomaduro/larastan,PHP,22
 70239358,cytopia/devilbox,PHP,8

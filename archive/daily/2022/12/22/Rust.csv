@@ -1,5 +1,5 @@
 id,name,lang,new stars
-186024298,nushell/nushell,Rust,21
+186024298,nushell/nushell,Rust,20
 234798675,bevyengine/bevy,Rust,19
 121898717,dani-garcia/vaultwarden,Rust,22
 202787876,Rigellute/spotify-tui,Rust,13
@@ -10,12 +10,12 @@ id,name,lang,new stars
 144140342,paritytech/polkadot,Rust,2
 148686316,gfx-rs/wgpu,Rust,6
 462597790,aptos-labs/aptos-core,Rust,5
-523043277,charliermarsh/ruff,Rust,152
+523043277,charliermarsh/ruff,Rust,148
 110759796,librespot-org/librespot,Rust,2
 361079646,PaulJuliusMartinez/jless,Rust,184
 290243101,Orange-OpenSource/hurl,Rust,49
 426075845,MystenLabs/sui,Rust,7
-358917318,apache/arrow-datafusion,Rust,3
+358917318,apache/arrow-datafusion,Rust,5
 480592723,move-language/move,Rust,3
 185491097,trickster0/OffensiveRust,Rust,67
 220185454,salvo-rs/salvo,Rust,13

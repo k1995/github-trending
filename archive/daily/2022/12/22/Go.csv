@@ -10,14 +10,14 @@ id,name,lang,new stars
 510607652,pocketbase/pocketbase,Go,174
 72477752,pulumi/pulumi,Go,5
 86733463,ahmetb/kubectx,Go,16
-100982449,argoproj/argo-workflows,Go,12
-30711774,go-playground/validator,Go,11
+100982449,argoproj/argo-workflows,Go,15
+30711774,go-playground/validator,Go,13
 36960321,opencontainers/runc,Go,8
 533087958,terrastruct/d2,Go,243
 154643390,sundowndev/phoneinfoga,Go,183
 93928882,swaggo/swag,Go,5
 193160679,kyleconroy/sqlc,Go,16
-87990209,kubernetes/autoscaler,Go,7
+87990209,kubernetes/autoscaler,Go,11
 58821882,grpc-ecosystem/go-grpc-middleware,Go,8
 542931741,answerdev/answer,Go,143
 396856161,authzed/spicedb,Go,1
