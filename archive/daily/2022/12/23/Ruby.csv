@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,6
-8681349,huginn/huginn,Ruby,6
-27442967,fastlane/fastlane,Ruby,5
+8514,rails/rails,Ruby,7
+8681349,huginn/huginn,Ruby,9
+27442967,fastlane/fastlane,Ruby,3
 2500088,gitlabhq/gitlabhq,Ruby,2
-308770,heartcombo/devise,Ruby,0
+308770,heartcombo/devise,Ruby,2
 73648678,forem/forem,Ruby,2
-538746,ruby/ruby,Ruby,7
-202291859,chatwoot/chatwoot,Ruby,6
-585285,gollum/gollum,Ruby,1
+538746,ruby/ruby,Ruby,8
+202291859,chatwoot/chatwoot,Ruby,7
+585285,gollum/gollum,Ruby,2
 3195124,mperham/sidekiq,Ruby,7
-4095287,rubocop/rubocop,Ruby,1
+4095287,rubocop/rubocop,Ruby,2
 52855516,Homebrew/homebrew-core,Ruby,2
 96395,faker-ruby/faker,Ruby,2
 15435,Shopify/liquid,Ruby,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,3
 156555906,testdouble/standard,Ruby,2
 9831101,elastic/elasticsearch-ruby,Ruby,0
-1953385,stripe/stripe-ruby,Ruby,2
-225463,Shopify/shopify-api-ruby,Ruby,1
-463648726,Shopify/ruby-lsp,Ruby,4
+1953385,stripe/stripe-ruby,Ruby,1
+225463,Shopify/shopify-api-ruby,Ruby,2
+463648726,Shopify/ruby-lsp,Ruby,3
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0
