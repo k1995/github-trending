@@ -1,17 +1,17 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,184
+45717250,tensorflow/tensorflow,C++,189
 44838949,apple/swift,C++,87
-65600975,pytorch/pytorch,C++,168
+65600975,pytorch/pytorch,C++,165
 15634981,godotengine/godot,C++,238
-160083795,SerenityOS/serenity,C++,95
-125098880,ValveSoftware/Proton,C++,83
+160083795,SerenityOS/serenity,C++,94
+125098880,ValveSoftware/Proton,C++,80
 2200856,MarlinFirmware/Marlin,C++,45
-76990209,Aircoookie/WLED,C++,152
+76990209,Aircoookie/WLED,C++,168
 4454793,musescore/MuseScore,C++,712
 32944298,Z3Prover/z3,C++,26
 6486826,hrydgard/ppsspp,C++,35
-5973855,CleverRaven/Cataclysm-DDA,C++,36
-7512484,ArduPilot/ardupilot,C++,19
+5973855,CleverRaven/Cataclysm-DDA,C++,35
+7512484,ArduPilot/ardupilot,C++,20
 48068902,electronicarts/EASTL,C++,15
 384520418,MaaAssistantArknights/MaaAssistantArknights,C++,77
 244694174,project-chip/connectedhomeip,C++,101
@@ -19,8 +19,8 @@ id,name,lang,new stars
 438803890,LizardByte/Sunshine,C++,709
 38279227,google/omaha,C++,15
 206946371,ton-blockchain/ton,C++,22
-436366606,loveBabbar/CodeHelp-DSA-Busted-Series,C++,36
-208325027,justcallmekoko/ESP32Marauder,C++,67
-488177011,MatsuriDayo/nekoray,C++,81
+436366606,loveBabbar/CodeHelp-DSA-Busted-Series,C++,34
+208325027,justcallmekoko/ESP32Marauder,C++,66
+488177011,MatsuriDayo/nekoray,C++,83
 450854006,mriscoc/Ender3V2S1,C++,29
-324569839,YimMenu/YimMenu,C++,21
+324569839,YimMenu/YimMenu,C++,22

@@ -1,11 +1,11 @@
 id,name,lang,new stars
 136815833,Dreamacro/clash,Go,1359
 163883279,nektos/act,Go,3803
-15045751,docker/compose,Go,322
+15045751,docker/compose,Go,321
 31288958,hashicorp/vault,Go,490
 24268127,coreybutler/nvm-windows,Go,610
-156084530,ehang-io/nps,Go,638
-510607652,pocketbase/pocketbase,Go,1713
+156084530,ehang-io/nps,Go,637
+510607652,pocketbase/pocketbase,Go,1748
 6051812,gorilla/mux,Go,316
 48109239,cilium/cilium,Go,275
 116576783,bettercap/bettercap,Go,1253
@@ -14,13 +14,13 @@ id,name,lang,new stars
 533087958,terrastruct/d2,Go,7942
 154643390,sundowndev/phoneinfoga,Go,545
 93444615,hashicorp/terraform-provider-aws,Go,154
-10721619,hajimehoshi/ebiten,Go,243
-359419233,kubeshark/kubeshark,Go,2277
+10721619,hajimehoshi/ebiten,Go,242
+359419233,kubeshark/kubeshark,Go,2264
 281694167,Mrs4s/go-cqhttp,Go,267
 54435102,benthosdev/benthos,Go,508
 230660669,aler9/rtsp-simple-server,Go,394
-257434373,apernet/hysteria,Go,511
+257434373,apernet/hysteria,Go,510
 106867604,cloudflare/cloudflared,Go,203
 261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,279
 562778457,runfinch/finch,Go,1820
-299054922,alpkeskin/mosint,Go,708
+299054922,alpkeskin/mosint,Go,711
