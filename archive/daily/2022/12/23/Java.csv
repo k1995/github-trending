@@ -1,9 +1,9 @@
 id,name,lang,new stars
-507775,elastic/elasticsearch,Java,7
+507775,elastic/elasticsearch,Java,6
 19148949,PhilJay/MPAndroidChart,Java,4
 9754983,eugenp/tutorials,Java,14
 7613257,SeleniumHQ/selenium,Java,12
-20773773,bazelbuild/bazel,Java,14
+20773773,bazelbuild/bazel,Java,13
 133134007,OpenAPITools/openapi-generator,Java,18
 11125589,keycloak/keycloak,Java,8
 5349565,prestodb/presto,Java,5
@@ -11,7 +11,7 @@ id,name,lang,new stars
 50205233,debezium/debezium,Java,7
 140543886,apache/shenyu,Java,2
 60294682,barteksc/AndroidPdfViewer,Java,1
-33166041,react-native-video/react-native-video,Java,3
+33166041,react-native-video/react-native-video,Java,2
 334274271,opensearch-project/OpenSearch,Java,6
 561730219,krahets/hello-algo,Java,135
 212488700,pytorch/serve,Java,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 98801926,thombergs/code-examples,Java,4
 317887,liferay/liferay-portal,Java,0
 2928948,Azure/azure-sdk-for-java,Java,2
-95247959,aws/aws-sdk-java-v2,Java,2
+95247959,aws/aws-sdk-java-v2,Java,1
 78640217,keycloak/keycloak-quickstarts,Java,0
 484555616,SaiUpadhyayula/spring-boot-microservices-new,Java,1
 328167380,zhao458114067/Jd-Pruchase-Kill,Java,9
