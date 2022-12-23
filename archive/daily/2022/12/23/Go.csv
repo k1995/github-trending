@@ -1,0 +1,26 @@
+id,name,lang,new stars
+23096959,golang/go,Go,53
+29261473,minio/minio,Go,16
+133251103,wagoodman/dive,Go,35
+135516270,k3s-io/k3s,Go,10
+510607652,pocketbase/pocketbase,Go,319
+86733463,ahmetb/kubectx,Go,19
+72891330,kubernetes/ingress-nginx,Go,4
+48109239,cilium/cilium,Go,17
+119190187,zricethezav/gitleaks,Go,8
+533087958,terrastruct/d2,Go,286
+403020531,abiosoft/colima,Go,44
+154643390,sundowndev/phoneinfoga,Go,85
+37334619,golang/mock,Go,5
+27576132,aws/aws-sdk-go,Go,7
+542931741,answerdev/answer,Go,164
+230660669,aler9/rtsp-simple-server,Go,16
+41964498,prometheus/blackbox_exporter,Go,3
+169108858,kyverno/kyverno,Go,6
+84610043,kubernetes-sigs/aws-load-balancer-controller,Go,4
+396856161,authzed/spicedb,Go,20
+538130130,thangchung/go-coffeeshop,Go,56
+185861173,open-telemetry/opentelemetry-collector,Go,5
+299054922,alpkeskin/mosint,Go,25
+247714750,zitadel/zitadel,Go,14
+306538237,ipinfo/cli,Go,8
