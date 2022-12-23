@@ -1,9 +1,9 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,181
-100060912,microsoft/terminal,C++,357
-44838949,apple/swift,C++,87
-15634981,godotengine/godot,C++,238
-11171548,nlohmann/json,C++,87
+45717250,tensorflow/tensorflow,C++,182
+100060912,microsoft/terminal,C++,333
+44838949,apple/swift,C++,88
+15634981,godotengine/godot,C++,232
+11171548,nlohmann/json,C++,88
 160083795,SerenityOS/serenity,C++,94
 2200856,MarlinFirmware/Marlin,C++,43
 51905353,apache/arrow,C++,31
@@ -12,9 +12,9 @@ id,name,lang,new stars
 32944298,Z3Prover/z3,C++,25
 6486826,hrydgard/ppsspp,C++,35
 5973855,CleverRaven/Cataclysm-DDA,C++,42
-48068902,electronicarts/EASTL,C++,15
-128479644,esphome/esphome,C++,25
-244694174,project-chip/connectedhomeip,C++,100
+48068902,electronicarts/EASTL,C++,14
+128479644,esphome/esphome,C++,24
+244694174,project-chip/connectedhomeip,C++,101
 384520418,MaaAssistantArknights/MaaAssistantArknights,C++,80
 438803890,LizardByte/Sunshine,C++,686
 206946371,ton-blockchain/ton,C++,22
@@ -23,4 +23,4 @@ id,name,lang,new stars
 488177011,MatsuriDayo/nekoray,C++,78
 450854006,mriscoc/Ender3V2S1,C++,28
 552676144,alibaba/havenask,C++,72
-324569839,YimMenu/YimMenu,C++,23
+324569839,YimMenu/YimMenu,C++,22

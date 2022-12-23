@@ -1,16 +1,16 @@
 id,name,lang,new stars
-90563585,chubin/cheat.sh,Python,1901
+90563585,chubin/cheat.sh,Python,1894
 57222302,openai/gym,Python,473
 254832799,Z4nzu/hackingtool,Python,2287
 45723377,charlax/professional-programming,Python,1098
 178626720,Lightning-AI/lightning,Python,369
 170067246,openai/gpt-2,Python,294
-70908208,RasaHQ/rasa,Python,169
+70908208,RasaHQ/rasa,Python,170
 92238803,openai/baselines,Python,304
-300592907,mxrch/GHunt,Python,879
+300592907,mxrch/GHunt,Python,881
 288108533,karpathy/minGPT,Python,398
 498011141,huggingface/diffusers,Python,1156
-91948540,ranaroussi/yfinance,Python,351
+91948540,ranaroussi/yfinance,Python,350
 534330590,carson-katri/dream-textures,Python,1520
 344554014,TomSchimansky/CustomTkinter,Python,1638
 323651234,EleutherAI/gpt-neox,Python,289
@@ -22,5 +22,5 @@ id,name,lang,new stars
 307213173,openai/openai-python,Python,705
 537827151,THUDM/CodeGeeX,Python,544
 320523643,andyzys/jd_seckill,Python,138
-552661142,hwchase17/langchain,Python,747
-562338288,d8ahazard/sd_dreambooth_extension,Python,180
+552661142,hwchase17/langchain,Python,749
+562338288,d8ahazard/sd_dreambooth_extension,Python,179

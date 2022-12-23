@@ -2,7 +2,7 @@ id,name,lang,new stars
 74293321,sveltejs/svelte,TypeScript,309
 206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,2063
 125266328,psf/black,Python,141
-510607652,pocketbase/pocketbase,Go,912
+510607652,pocketbase/pocketbase,Go,928
 72343657,mifi/lossless-cut,JavaScript,325
 300592907,mxrch/GHunt,Python,320
 304344049,sveltejs/kit,JavaScript,431
@@ -13,9 +13,9 @@ id,name,lang,new stars
 542931741,answerdev/answer,Go,621
 325283778,dudykr/stc,Rust,233
 561730219,krahets/hello-algo,Java,2043
-468576060,openai/openai-cookbook,Python,1696
+468576060,openai/openai-cookbook,Python,1714
 565629124,google/osv-scanner,Go,1802
-561183031,jart/blink,C,788
+561183031,jart/blink,C,745
 521655652,Infisical/infisical,TypeScript,873
 514304222,zas023/JdBuyer,Python,1215
 506861932,nvim-lua/kickstart.nvim,Lua,1168
