@@ -1,6 +1,6 @@
 id,name,lang,new stars
 23096959,golang/go,Go,65
-21540759,avelino/awesome-go,Go,62
+21540759,avelino/awesome-go,Go,67
 11180687,gohugoio/hugo,Go,16
 13855476,go-gorm/gorm,Go,8
 212613049,cli/cli,Go,11
@@ -19,7 +19,7 @@ id,name,lang,new stars
 318476701,containerd/nerdctl,Go,4
 526363266,jetpack-io/devbox,Go,35
 206649463,cilium/ebpf,Go,2
-535304995,HavocFramework/Havoc,Go,7
+535304995,HavocFramework/Havoc,Go,8
 538130130,thangchung/go-coffeeshop,Go,39
 247714750,zitadel/zitadel,Go,7
 141451032,testcontainers/testcontainers-go,Go,6

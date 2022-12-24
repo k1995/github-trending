@@ -1,26 +1,26 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,61
-23096959,golang/go,Go,55
+23096959,golang/go,Go,65
 111583593,Genymobile/scrcpy,C,57
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,88
-441903012,MichaelCade/90DaysOfDevOps,Shell,89
-262395224,dotnet/maui,C#,6
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,94
+441903012,MichaelCade/90DaysOfDevOps,Shell,66
+262395224,dotnet/maui,C#,13
 71056775,kovidgoyal/kitty,Python,54
-66474729,prowler-cloud/prowler,Python,85
-520969009,mouredev/Hello-Python,Python,211
+66474729,prowler-cloud/prowler,Python,51
+520969009,mouredev/Hello-Python,Python,162
 189649243,kentcdodds/react-fundamentals,JavaScript,5
-488004650,facebookresearch/metaseq,Python,93
-482719022,illacloud/illa-builder,TypeScript,308
-575048321,openai/point-e,Python,303
-521189491,recloudstream/cloudstream,Kotlin,13
-550752161,huggingface/diffusion-models-class,Jupyter Notebook,19
-580836813,google/comprehensive-rust,Rust,313
-568549346,folke/lazy.nvim,Lua,107
+488004650,facebookresearch/metaseq,Python,80
+482719022,illacloud/illa-builder,TypeScript,303
+575048321,openai/point-e,Python,517
+521189491,recloudstream/cloudstream,Kotlin,20
+550752161,huggingface/diffusion-models-class,Jupyter Notebook,20
+580836813,google/comprehensive-rust,Rust,309
+568549346,folke/lazy.nvim,Lua,87
 577813091,rails/docked,Dockerfile,68
-575997792,adobe-research/custom-diffusion,Python,100
-372792511,0xmaximus/Galaxy-Bugbounty-Checklist,,55
-527819251,CVCUDA/CV-CUDA,C++,128
+575997792,adobe-research/custom-diffusion,Python,103
+372792511,0xmaximus/Galaxy-Bugbounty-Checklist,,54
+527819251,CVCUDA/CV-CUDA,C++,129
 572601379,certsocietegenerale/IRM,,34
-231865705,TapXWorld/Math,,142
-576380523,lucidrains/PaLM-rlhf-pytorch,Python,55
+231865705,TapXWorld/Math,,73
+576380523,lucidrains/PaLM-rlhf-pytorch,Python,57
 571382750,microsoft/X-Decoder,Python,25
