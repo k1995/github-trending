@@ -1,14 +1,14 @@
 id,name,lang,new stars
-90563585,chubin/cheat.sh,Python,1804
+90563585,chubin/cheat.sh,Python,1790
 57222302,openai/gym,Python,478
-254832799,Z4nzu/hackingtool,Python,2296
+254832799,Z4nzu/hackingtool,Python,2297
 45723377,charlax/professional-programming,Python,1096
 170067246,openai/gpt-2,Python,303
 92238803,openai/baselines,Python,299
 288108533,karpathy/minGPT,Python,401
 498011141,huggingface/diffusers,Python,1163
 569927055,Stability-AI/stablediffusion,Python,8376
-91948540,ranaroussi/yfinance,Python,364
+91948540,ranaroussi/yfinance,Python,367
 259991778,openai/jukebox,Python,195
 534330590,carson-katri/dream-textures,Python,1538
 344554014,TomSchimansky/CustomTkinter,Python,1638
@@ -22,5 +22,5 @@ id,name,lang,new stars
 320523643,andyzys/jd_seckill,Python,140
 552661142,hwchase17/langchain,Python,739
 561083108,facebookresearch/diplomacy_cicero,Python,585
-562269750,jointakahe/takahe,Python,374
-562338288,d8ahazard/sd_dreambooth_extension,Python,178
+562269750,jointakahe/takahe,Python,373
+562338288,d8ahazard/sd_dreambooth_extension,Python,177

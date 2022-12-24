@@ -1,5 +1,5 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,237
+8514,rails/rails,Ruby,236
 65252,jekyll/jekyll,Ruby,202
 8681349,huginn/huginn,Ruby,223
 2293158,rapid7/metasploit-framework,Ruby,272
@@ -7,17 +7,17 @@ id,name,lang,new stars
 538746,ruby/ruby,Ruby,125
 3195124,mperham/sidekiq,Ruby,69
 4095287,rubocop/rubocop,Ruby,64
-3314,spree/spree,Ruby,48
-52855516,Homebrew/homebrew-core,Ruby,124
-1725199,github/linguist,Ruby,101
+3314,spree/spree,Ruby,49
+52855516,Homebrew/homebrew-core,Ruby,126
+1725199,github/linguist,Ruby,99
 211588,paper-trail-gem/paper_trail,Ruby,24
 6899875,opf/openproject,Ruby,112
 355893,github/markup,Ruby,25
 1548802,activerecord-hackery/ransack,Ruby,27
 103766152,github/explore,Ruby,70
 79352,mikel/mail,Ruby,21
-2050163,aws/aws-sdk-ruby,Ruby,10
-614070,rubygems/rubygems,Ruby,31
+2050163,aws/aws-sdk-ruby,Ruby,9
+614070,rubygems/rubygems,Ruby,32
 55288882,d12frosted/homebrew-emacs-plus,Ruby,53
 229187949,shivammathur/homebrew-php,Ruby,83
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,9

@@ -1,19 +1,19 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,88
 7548986,laravel/framework,PHP,51
-1864363,composer/composer,PHP,38
+1864363,composer/composer,PHP,37
 1420053,guzzle/guzzle,PHP,15
-12615154,barryvdh/laravel-debugbar,PHP,25
+12615154,barryvdh/laravel-debugbar,PHP,24
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,20
 72069409,the-control-group/voyager,PHP,13
 48796179,z-song/laravel-admin,PHP,12
-2884111,magento/magento2,PHP,10
-10238429,tennc/webshell,PHP,29
+2884111,magento/magento2,PHP,11
+10238429,tennc/webshell,PHP,28
 12166778,googleapis/google-api-php-client,PHP,12
 2179920,woocommerce/woocommerce,PHP,11
 14716368,invoiceninja/invoiceninja,PHP,13
 222873550,crater-invoice/crater,PHP,23
-248372441,filamentphp/filament,PHP,65
+248372441,filamentphp/filament,PHP,67
 74386167,vimeo/psalm,PHP,16
 47508644,pterodactyl/panel,PHP,24
 41463886,codeigniter4/CodeIgniter4,PHP,22
@@ -21,6 +21,6 @@ id,name,lang,new stars
 57463067,AzuraCast/AzuraCast,PHP,11
 216849756,v2board/v2board,PHP,105
 131995661,shopware/platform,PHP,19
-541322916,openai-php/client,PHP,34
-516667071,protonemedia/laravel-splade,PHP,48
+541322916,openai-php/client,PHP,35
+516667071,protonemedia/laravel-splade,PHP,47
 516948304,eraporsmk/erapor6,PHP,5
