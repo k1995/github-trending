@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,12
-7548986,laravel/framework,PHP,4
-458058,symfony/symfony,PHP,4
+1863329,laravel/laravel,PHP,10
+7548986,laravel/framework,PHP,3
+458058,symfony/symfony,PHP,2
 1420053,guzzle/guzzle,PHP,0
-2889328,WordPress/WordPress,PHP,1
+2889328,WordPress/WordPress,PHP,2
 61490598,PHPOffice/PhpSpreadsheet,PHP,3
 42480275,spatie/laravel-permission,PHP,4
-137515,mockery/mockery,PHP,0
+137515,mockery/mockery,PHP,1
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
 6660366,dompdf/dompdf,PHP,1
 1398660,symfony/routing,PHP,1
@@ -14,13 +14,13 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,6
 1398671,symfony/translation,PHP,0
 3217621,phpmyadmin/phpmyadmin,PHP,1
-248372441,filamentphp/filament,PHP,11
+248372441,filamentphp/filament,PHP,10
 2272514,php-webdriver/php-webdriver,PHP,0
 47508644,pterodactyl/panel,PHP,2
-439861,moodle/moodle,PHP,2
-141720301,dr5hn/countries-states-cities-database,PHP,4
+439861,moodle/moodle,PHP,3
+141720301,dr5hn/countries-states-cities-database,PHP,5
 29126334,EasyCorp/EasyAdminBundle,PHP,0
 32792088,symfony/demo,PHP,3
 34407154,cweagans/composer-patches,PHP,0
-541322916,openai-php/client,PHP,10
+541322916,openai-php/client,PHP,9
 580634792,yogs22/laravel9-crud-cache,PHP,3
