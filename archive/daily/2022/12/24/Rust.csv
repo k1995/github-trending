@@ -4,13 +4,13 @@ id,name,lang,new stars
 42489829,rust-lang/rustlings,Rust,29
 21938243,rust-unofficial/awesome-rust,Rust,74
 121898717,dani-garcia/vaultwarden,Rust,76
-40508605,facebook/relay,Rust,6
+40508605,facebook/relay,Rust,3
 149026292,cube-js/cube.js,Rust,9
 143822069,sunface/rust-course,Rust,16
 165522651,emilk/egui,Rust,19
 23500865,hyperium/hyper,Rust,10
 121470383,solana-labs/solana,Rust,6
-35566048,crossbeam-rs/crossbeam,Rust,4
+35566048,crossbeam-rs/crossbeam,Rust,13
 282179811,EmbarkStudios/rust-gpu,Rust,43
 136510559,Byron/gitoxide,Rust,20
 523043277,charliermarsh/ruff,Rust,79
@@ -22,5 +22,5 @@ id,name,lang,new stars
 496605552,sigoden/dufs,Rust,43
 580836813,google/comprehensive-rust,Rust,313
 575340621,lencx/ChatGPT,Rust,63
-553910680,tfpk/macrokata,Rust,53
+553910680,tfpk/macrokata,Rust,41
 579877750,Gankra/cargo-mommy,Rust,31

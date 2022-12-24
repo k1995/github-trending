@@ -1,10 +1,10 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,4
-53238813,Homebrew/brew,Ruby,8
-2293158,rapid7/metasploit-framework,Ruby,4
+7569578,discourse/discourse,Ruby,2
+53238813,Homebrew/brew,Ruby,9
+2293158,rapid7/metasploit-framework,Ruby,2
 37382858,kilimchoi/engineering-blogs,Ruby,5
 3623050,Homebrew/homebrew-cask,Ruby,2
-202291859,chatwoot/chatwoot,Ruby,7
+202291859,chatwoot/chatwoot,Ruby,6
 2203645,CocoaPods/CocoaPods,Ruby,0
 3195124,mperham/sidekiq,Ruby,1
 4095287,rubocop/rubocop,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 365772,cucumber/cucumber-rails,Ruby,0
 209731662,ruby/debug,Ruby,0
 136781582,rubocop/rubocop-rails,Ruby,0
-463648726,Shopify/ruby-lsp,Ruby,14
+463648726,Shopify/ruby-lsp,Ruby,13
 284824224,alexrudall/ruby-openai,Ruby,17
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0
