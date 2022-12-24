@@ -1,26 +1,26 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,299
-31792824,flutter/flutter,Dart,100
-19148949,PhilJay/MPAndroidChart,Java,15
+83222441,donnemartin/system-design-primer,Python,61
+23096959,golang/go,Go,55
+111583593,Genymobile/scrcpy,C,57
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,88
 441903012,MichaelCade/90DaysOfDevOps,Shell,89
-510607652,pocketbase/pocketbase,Go,168
-30711774,go-playground/validator,Go,49
+262395224,dotnet/maui,C#,6
+71056775,kovidgoyal/kitty,Python,54
 66474729,prowler-cloud/prowler,Python,85
-215599579,Tikam02/DevOps-Guide,HTML,175
 520969009,mouredev/Hello-Python,Python,211
+189649243,kentcdodds/react-fundamentals,JavaScript,5
 488004650,facebookresearch/metaseq,Python,93
-98925529,spantaleev/matrix-docker-ansible-deploy,Jinja,6
-327719215,DataDog/go-profiler-notes,Jupyter Notebook,63
+482719022,illacloud/illa-builder,TypeScript,308
 575048321,openai/point-e,Python,303
-39093389,Azure/azure-rest-api-specs,,19
-537827151,THUDM/CodeGeeX,Python,100
-536750959,mprimi/portable-secret,HTML,243
-545165037,YanG-1989/m3u,,61
+521189491,recloudstream/cloudstream,Kotlin,13
+550752161,huggingface/diffusion-models-class,Jupyter Notebook,19
+580836813,google/comprehensive-rust,Rust,313
 568549346,folke/lazy.nvim,Lua,107
-281528773,intel/neural-compressor,Python,27
+577813091,rails/docked,Dockerfile,68
 575997792,adobe-research/custom-diffusion,Python,100
-539168222,JhumanJ/OpnForm,Vue,145
-576103395,m-bain/whisperX,Python,73
+372792511,0xmaximus/Galaxy-Bugbounty-Checklist,,55
 527819251,CVCUDA/CV-CUDA,C++,128
-580537336,AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin,JavaScript,72
-578253422,BlackWatch0/JDspyder,Python,54
+572601379,certsocietegenerale/IRM,,34
+231865705,TapXWorld/Math,,142
+576380523,lucidrains/PaLM-rlhf-pytorch,Python,55
+571382750,microsoft/X-Decoder,Python,25
