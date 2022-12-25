@@ -1,7 +1,7 @@
 id,name,lang,new stars
-22067521,ocornut/imgui,C++,27
-259463685,carbon-language/carbon-lang,C++,20
-63477612,TheAlgorithms/C-Plus-Plus,C++,8
+22067521,ocornut/imgui,C++,21
+259463685,carbon-language/carbon-lang,C++,13
+63477612,TheAlgorithms/C-Plus-Plus,C++,7
 96246170,ApolloAuto/apollo,C++,2
 191820100,google/mediapipe,C++,12
 19953044,google/flatbuffers,C++,9
@@ -9,18 +9,18 @@ id,name,lang,new stars
 149111813,Tencent/MMKV,C++,2
 3925242,bkaradzic/bgfx,C++,8
 76990209,Aircoookie/WLED,C++,30
-146459443,vesoft-inc/nebula,C++,2
+146459443,vesoft-inc/nebula,C++,3
 46374199,IntelRealSense/librealsense,C++,3
 39211337,flutter/engine,C++,2
-142631191,uNetworking/uWebSockets.js,C++,4
+142631191,uNetworking/uWebSockets.js,C++,0
 17381605,google/snappy,C++,3
-83542585,wisdompeak/LeetCode,C++,2
+83542585,wisdompeak/LeetCode,C++,3
 153097643,openvinotoolkit/openvino,C++,2
 197211881,alvr-org/ALVR,C++,3
 9693534,PowerDNS/pdns,C++,1
-119111364,Vita3K/Vita3K,C++,1
-205404938,ihhub/fheroes2,C++,18
+119111364,Vita3K/Vita3K,C++,2
+205404938,ihhub/fheroes2,C++,17
 269668754,kiwibrowser/src.next,C++,4
-527819251,CVCUDA/CV-CUDA,C++,128
+527819251,CVCUDA/CV-CUDA,C++,127
 341370987,google/magritte,C++,70
-572568692,cinit/WSAPatch,C++,17
+572568692,cinit/WSAPatch,C++,16
