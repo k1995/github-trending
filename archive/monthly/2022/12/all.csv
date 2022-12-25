@@ -1,26 +1,26 @@
 id,name,lang,new stars
 214587193,supabase/supabase,TypeScript,1958
 35866694,RocketChat/Rocket.Chat,TypeScript,676
-382496361,louislam/uptime-kuma,JavaScript,3127
-419347358,PKUFlyingPig/cs-self-learning,HTML,8774
-149001365,doocs/leetcode,Java,1493
-120231691,Ryujinx/Ryujinx,C#,1627
-304344049,sveltejs/kit,JavaScript,962
-525592995,invoke-ai/InvokeAI,Jupyter Notebook,3376
-4454793,musescore/MuseScore,C++,905
+382496361,louislam/uptime-kuma,JavaScript,3143
+419347358,PKUFlyingPig/cs-self-learning,HTML,8777
+149001365,doocs/leetcode,Java,1496
+120231691,Ryujinx/Ryujinx,C#,1626
+300592907,mxrch/GHunt,Python,886
+304344049,sveltejs/kit,JavaScript,961
+525592995,invoke-ai/InvokeAI,Jupyter Notebook,3377
+4454793,musescore/MuseScore,C++,909
 154643390,sundowndev/phoneinfoga,Go,608
-569927055,Stability-AI/stablediffusion,Python,4976
-534330590,carson-katri/dream-textures,Python,1569
-344554014,TomSchimansky/CustomTkinter,Python,1618
-541269386,ggerganov/whisper.cpp,C,3118
-482719022,illacloud/illa-builder,TypeScript,2028
-519882617,gbj/leptos,Rust,2280
-470579591,DarkFlippers/unleashed-firmware,C,1216
-390536799,mlfoundations/open_clip,Python,454
-562778457,runfinch/finch,Go,1649
+569927055,Stability-AI/stablediffusion,Python,4860
+414585797,0x192/universal-android-debloater,Rust,702
+534330590,carson-katri/dream-textures,Python,1571
+344554014,TomSchimansky/CustomTkinter,Python,1619
+541269386,ggerganov/whisper.cpp,C,3122
+482719022,illacloud/illa-builder,TypeScript,2026
+519882617,gbj/leptos,Rust,2274
 299054922,alpkeskin/mosint,Go,733
-537803484,palera1n/palera1n,Shell,753
-509850056,Visualize-ML/Book4_Power-of-Matrix,Python,1037
-307213173,openai/openai-python,Python,753
-364304792,davidfowl/TodoApi,C#,834
-552661142,hwchase17/langchain,Python,754
+537803484,palera1n/palera1n,Shell,751
+509850056,Visualize-ML/Book4_Power-of-Matrix,Python,1033
+537827151,THUDM/CodeGeeX,Python,681
+307213173,openai/openai-python,Python,754
+364304792,davidfowl/TodoApi,C#,825
+552661142,hwchase17/langchain,Python,756
