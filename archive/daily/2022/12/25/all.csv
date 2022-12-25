@@ -1,8 +1,8 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,68
-23096959,golang/go,Go,71
-111583593,Genymobile/scrcpy,C,93
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,144
+83222441,donnemartin/system-design-primer,Python,69
+23096959,golang/go,Go,78
+111583593,Genymobile/scrcpy,C,112
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,165
 441903012,MichaelCade/90DaysOfDevOps,Shell,59
 262395224,dotnet/maui,C#,27
 71056775,kovidgoyal/kitty,Python,60
@@ -20,7 +20,7 @@ id,name,lang,new stars
 575997792,adobe-research/custom-diffusion,Python,80
 372792511,0xmaximus/Galaxy-Bugbounty-Checklist,,67
 527819251,CVCUDA/CV-CUDA,C++,102
-231865705,TapXWorld/Math,,74
+231865705,TapXWorld/Math,,80
 572601379,certsocietegenerale/IRM,,35
 576380523,lucidrains/PaLM-rlhf-pytorch,Python,58
 571382750,microsoft/X-Decoder,Python,35
