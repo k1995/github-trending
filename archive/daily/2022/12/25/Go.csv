@@ -1,6 +1,6 @@
 id,name,lang,new stars
 119160553,photoprism/photoprism,Go,12
-510607652,pocketbase/pocketbase,Go,117
+510607652,pocketbase/pocketbase,Go,164
 153099672,inancgumus/learngo,Go,11
 10379607,buger/goreplay,Go,26
 127227141,wtfutil/wtf,Go,17
@@ -8,18 +8,18 @@ id,name,lang,new stars
 161951219,wailsapp/wails,Go,11
 311315731,XTLS/Xray-core,Go,16
 154643390,sundowndev/phoneinfoga,Go,20
-318476701,containerd/nerdctl,Go,34
+318476701,containerd/nerdctl,Go,30
 392596825,ddosify/ddosify,Go,15
-267054247,anchore/grype,Go,5
+267054247,anchore/grype,Go,3
 51193526,cosmos/cosmos-sdk,Go,6
 94702367,pdfcpu/pdfcpu,Go,241
 201546443,trustwallet/assets,Go,1
-535304995,HavocFramework/Havoc,Go,15
-538130130,thangchung/go-coffeeshop,Go,13
-562778457,runfinch/finch,Go,219
-247714750,zitadel/zitadel,Go,17
+535304995,HavocFramework/Havoc,Go,19
+538130130,thangchung/go-coffeeshop,Go,19
+562778457,runfinch/finch,Go,84
+247714750,zitadel/zitadel,Go,16
 157554479,meshery/meshery,Go,1
 573538566,danielgross/whatsapp-gpt,Go,10
-575980164,m1guelpf/chatgpt-discord,Go,7
+575980164,m1guelpf/chatgpt-discord,Go,6
 579988167,bitindi/blockchain-core,Go,12
 579927738,ChatGPT-Hackers/ChatGPT-API-server,Go,14
