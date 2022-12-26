@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,85
+1863329,laravel/laravel,PHP,84
 3482588,danielmiessler/SecLists,PHP,148
 7548986,laravel/framework,PHP,45
 1864363,composer/composer,PHP,35
@@ -15,12 +15,12 @@ id,name,lang,new stars
 248372441,filamentphp/filament,PHP,65
 74386167,vimeo/psalm,PHP,22
 62937181,PrivateBin/PrivateBin,PHP,26
-47508644,pterodactyl/panel,PHP,26
+47508644,pterodactyl/panel,PHP,27
 41463886,codeigniter4/CodeIgniter4,PHP,16
 2464908,joomla/joomla-cms,PHP,4
 129829848,pixelfed/pixelfed,PHP,42
 70239358,cytopia/devilbox,PHP,29
-216849756,v2board/v2board,PHP,61
+216849756,v2board/v2board,PHP,63
 131995661,shopware/platform,PHP,21
-433383766,nextcloud/all-in-one,PHP,28
-541322916,openai-php/client,PHP,47
+433383766,nextcloud/all-in-one,PHP,29
+541322916,openai-php/client,PHP,46
