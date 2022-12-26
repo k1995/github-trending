@@ -1,15 +1,15 @@
 id,name,lang,new stars
 51980455,alacritty/alacritty,Rust,15
 42489829,rust-lang/rustlings,Rust,23
-121898717,dani-garcia/vaultwarden,Rust,79
+121898717,dani-garcia/vaultwarden,Rust,81
 268424739,helix-editor/helix,Rust,24
 197081291,iced-rs/iced,Rust,11
 436658287,surrealdb/surrealdb,Rust,29
-135201145,RustPython/RustPython,Rust,21
-47854924,rust-lang/book,Rust,32
+135201145,RustPython/RustPython,Rust,22
+47854924,rust-lang/book,Rust,60
 23500865,hyperium/hyper,Rust,5
-121470383,solana-labs/solana,Rust,5
-230595891,launchbadge/sqlx,Rust,12
+121470383,solana-labs/solana,Rust,4
+230595891,launchbadge/sqlx,Rust,9
 397618589,messense/aliyundrive-webdav,Rust,3
 282179811,EmbarkStudios/rust-gpu,Rust,32
 136510559,Byron/gitoxide,Rust,14
@@ -17,10 +17,10 @@ id,name,lang,new stars
 139952333,sigp/lighthouse,Rust,2
 413292017,fzyzcjy/flutter_rust_bridge,Rust,12
 496605552,sigoden/dufs,Rust,22
-580836813,google/comprehensive-rust,Rust,318
-575340621,lencx/ChatGPT,Rust,131
+580836813,google/comprehensive-rust,Rust,305
+575340621,lencx/ChatGPT,Rust,120
 296518768,Yamato-Security/hayabusa,Rust,5
-342259394,svix/svix-webhooks,Rust,18
-403282138,PhilipK/BoilR,Rust,15
-553910680,tfpk/macrokata,Rust,36
+342259394,svix/svix-webhooks,Rust,19
+403282138,PhilipK/BoilR,Rust,14
+553910680,tfpk/macrokata,Rust,39
 581515691,mitsuhiko/teetty,Rust,43

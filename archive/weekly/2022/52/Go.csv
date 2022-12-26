@@ -1,5 +1,5 @@
 id,name,lang,new stars
-23096959,golang/go,Go,367
+23096959,golang/go,Go,366
 11180687,gohugoio/hugo,Go,134
 133251103,wagoodman/dive,Go,131
 15045751,docker/compose,Go,63
@@ -15,12 +15,12 @@ id,name,lang,new stars
 542931741,answerdev/answer,Go,730
 230660669,aler9/rtsp-simple-server,Go,92
 106867604,cloudflare/cloudflared,Go,96
-94702367,pdfcpu/pdfcpu,Go,461
-52555254,pressly/goose,Go,40
+94702367,pdfcpu/pdfcpu,Go,462
+52555254,pressly/goose,Go,41
 440752086,coder/coder,Go,69
-535304995,HavocFramework/Havoc,Go,68
-565629124,google/osv-scanner,Go,896
+535304995,HavocFramework/Havoc,Go,69
+565629124,google/osv-scanner,Go,894
 527578222,komodorio/helm-dashboard,Go,956
 236736020,actions/actions-runner-controller,Go,34
-575295397,gofireflyio/aiac,Go,138
+575295397,gofireflyio/aiac,Go,139
 576072728,eryajf/chatgpt-dingtalk,Go,50
