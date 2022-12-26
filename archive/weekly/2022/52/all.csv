@@ -3,8 +3,8 @@ id,name,lang,new stars
 357728969,oven-sh/bun,Zig,196
 125266328,psf/black,Python,181
 121898717,dani-garcia/vaultwarden,Rust,329
-510607652,pocketbase/pocketbase,Go,1250
-71056775,kovidgoyal/kitty,Python,270
+510607652,pocketbase/pocketbase,Go,1215
+71056775,kovidgoyal/kitty,Python,274
 4454793,musescore/MuseScore,C++,505
 154643390,sundowndev/phoneinfoga,Go,451
 224151065,Immediate-Mode-UI/Nuklear,C,426
@@ -15,7 +15,7 @@ id,name,lang,new stars
 482719022,illacloud/illa-builder,TypeScript,1345
 470579591,DarkFlippers/unleashed-firmware,C,411
 561730219,krahets/hello-algo,C#,1668
-468576060,openai/openai-cookbook,Python,1513
+468576060,openai/openai-cookbook,Python,1510
 565629124,google/osv-scanner,Go,846
 521655652,Infisical/infisical,TypeScript,1012
 506861932,nvim-lua/kickstart.nvim,Lua,915
