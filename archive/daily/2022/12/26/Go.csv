@@ -1,17 +1,17 @@
 id,name,lang,new stars
 14712850,syncthing/syncthing,Go,23
 41912791,v2ray/v2ray-core,Go,8
-17803236,rclone/rclone,Go,12
+17803236,rclone/rclone,Go,14
 136815833,Dreamacro/clash,Go,28
 181461073,v2fly/v2ray-core,Go,19
 19205896,restic/restic,Go,11
-10379607,buger/goreplay,Go,31
+10379607,buger/goreplay,Go,23
 62712899,AdguardTeam/AdGuardHome,Go,13
 127227141,wtfutil/wtf,Go,11
-66156850,TheAlgorithms/Go,Go,22
+66156850,TheAlgorithms/Go,Go,23
 311315731,XTLS/Xray-core,Go,18
 116739828,DNSCrypt/dnscrypt-proxy,Go,2
-113106184,linkerd/linkerd2,Go,5
+113106184,linkerd/linkerd2,Go,4
 318476701,containerd/nerdctl,Go,12
 94702367,pdfcpu/pdfcpu,Go,65
 201546443,trustwallet/assets,Go,0
@@ -19,7 +19,7 @@ id,name,lang,new stars
 290437899,jeessy2/ddns-go,Go,9
 535304995,HavocFramework/Havoc,Go,21
 562778457,runfinch/finch,Go,76
-573538566,danielgross/whatsapp-gpt,Go,7
+573538566,danielgross/whatsapp-gpt,Go,14
 575980164,m1guelpf/chatgpt-discord,Go,8
-579988167,bitindi/blockchain-core,Go,26
+579988167,bitindi/blockchain-core,Go,31
 579927738,ChatGPT-Hackers/ChatGPT-API-server,Go,18
