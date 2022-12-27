@@ -1,16 +1,16 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,223
-8681349,huginn/huginn,Ruby,274
-2293158,rapid7/metasploit-framework,Ruby,268
+8681349,huginn/huginn,Ruby,280
+2293158,rapid7/metasploit-framework,Ruby,269
 308770,heartcombo/devise,Ruby,74
-538746,ruby/ruby,Ruby,132
+538746,ruby/ruby,Ruby,133
 3195124,mperham/sidekiq,Ruby,64
 4095287,rubocop/rubocop,Ruby,67
 3314,spree/spree,Ruby,48
-52855516,Homebrew/homebrew-core,Ruby,123
-1725199,github/linguist,Ruby,101
+52855516,Homebrew/homebrew-core,Ruby,124
+1725199,github/linguist,Ruby,103
 15435,Shopify/liquid,Ruby,58
-611921,activeadmin/activeadmin,Ruby,27
+611921,activeadmin/activeadmin,Ruby,26
 6899875,opf/openproject,Ruby,109
 355893,github/markup,Ruby,24
 6768710,redmine/redmine,Ruby,35
@@ -19,7 +19,7 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,39
 270054,ffi/ffi,Ruby,9
 55288882,d12frosted/homebrew-emacs-plus,Ruby,55
-229187949,shivammathur/homebrew-php,Ruby,80
+229187949,shivammathur/homebrew-php,Ruby,81
 225463,Shopify/shopify-api-ruby,Ruby,6
 467296689,bullet-train-co/bullet_train,Ruby,46
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,6
