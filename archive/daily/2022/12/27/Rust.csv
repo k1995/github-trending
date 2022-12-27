@@ -5,12 +5,12 @@ id,name,lang,new stars
 436658287,surrealdb/surrealdb,Rust,26
 148641954,TheAlgorithms/Rust,Rust,19
 135201145,RustPython/RustPython,Rust,25
-143822069,sunface/rust-course,Rust,31
+143822069,sunface/rust-course,Rust,32
 47854924,rust-lang/book,Rust,75
 109872620,paritytech/substrate,Rust,3
 120568143,wez/wezterm,Rust,9
 329782568,DioxusLabs/dioxus,Rust,317
-219035799,huggingface/tokenizers,Rust,9
+219035799,huggingface/tokenizers,Rust,13
 404320053,foundry-rs/foundry,Rust,23
 372193147,orhun/git-cliff,Rust,45
 462597790,aptos-labs/aptos-core,Rust,1
@@ -18,9 +18,9 @@ id,name,lang,new stars
 426075845,MystenLabs/sui,Rust,17
 580836813,google/comprehensive-rust,Rust,518
 202485012,webrtc-rs/webrtc,Rust,10
-178009373,dtolnay/proc-macro-workshop,Rust,14
+178009373,dtolnay/proc-macro-workshop,Rust,18
 575340621,lencx/ChatGPT,Rust,150
-480592723,move-language/move,Rust,4
+480592723,move-language/move,Rust,6
 342259394,svix/svix-webhooks,Rust,33
 581630327,skyzh/mini-lsm,Rust,149
 450755818,rajarshimaitra/rust-nostr,Rust,3
