@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,121
+21737465,sindresorhus/awesome,,201
+85077558,kamranahmedse/developer-roadmap,TypeScript,162
+83222441,donnemartin/system-design-primer,Python,103
 132750724,codecrafters-io/build-your-own-x,,260
-13233158,obsproject/obs-studio,C,63
-118861276,gto76/python-cheatsheet,Python,98
-382496361,louislam/uptime-kuma,JavaScript,157
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,245
-135201145,RustPython/RustPython,Rust,42
-574523116,f/awesome-chatgpt-prompts,HTML,234
-573819845,acheong08/ChatGPT,Python,119
-7408108,RT-Thread/rt-thread,C,30
-65513748,iamtrask/Grokking-Deep-Learning,Jupyter Notebook,88
-520969009,mouredev/Hello-Python,Python,89
-580836813,google/comprehensive-rust,Rust,652
-448085396,louisfb01/best_AI_papers_2022,,402
-276852180,below/HelloSilicon,Assembly,139
-501990676,SunWeb3Sec/DeFiHackLabs,Solidity,104
-574156195,JusticeRage/Gepetto,Python,39
-492897058,pkivolowitz/asm_book,Assembly,232
-525683737,apitable/apitable,TypeScript,205
-496055858,I-Am-Jakoby/Flipper-Zero-BadUSB,PowerShell,64
-576380523,lucidrains/PaLM-rlhf-pytorch,Python,117
-545104023,CarperAI/trlx,Python,52
-577603990,LAION-AI/Open-Assistant,Python,192
-581630327,skyzh/mini-lsm,Rust,251
-580478625,adrianhajdin/project_openai_codex,JavaScript,63
+126577260,trekhleb/javascript-algorithms,JavaScript,135
+35955666,jlevy/the-art-of-command-line,,75
+20904437,gin-gonic/gin,Go,42
+162998479,sherlock-project/sherlock,Python,25
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,248
+400215964,novuhq/novu,TypeScript,282
+135201145,RustPython/RustPython,Rust,41
+573819845,acheong08/ChatGPT,Python,118
+410989014,exaloop/codon,C++,110
+7705639,merbanan/rtl_433,C,48
+580836813,google/comprehensive-rust,Rust,655
+535304995,HavocFramework/Havoc,Go,38
+508131663,hehonghui/awesome-english-ebooks,CSS,292
+575340621,lencx/ChatGPT,Rust,284
+501990676,SunWeb3Sec/DeFiHackLabs,Solidity,103
+576380523,lucidrains/PaLM-rlhf-pytorch,Python,118
+577603990,LAION-AI/Open-Assistant,Python,193
+581630327,skyzh/mini-lsm,Rust,253
+537322223,dreamncn/ParallelsDesktopCrack,Shell,21
+581049695,mouredev/retos-programacion-2023,,84
+579927738,ChatGPT-Hackers/ChatGPT-API-server,Go,23
