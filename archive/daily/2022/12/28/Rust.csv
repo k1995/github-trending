@@ -1,13 +1,13 @@
 id,name,lang,new stars
 178991158,starship/starship,Rust,19
-121898717,dani-garcia/vaultwarden,Rust,64
+121898717,dani-garcia/vaultwarden,Rust,67
 268424739,helix-editor/helix,Rust,21
 436658287,surrealdb/surrealdb,Rust,22
 148641954,TheAlgorithms/Rust,Rust,67
 135201145,RustPython/RustPython,Rust,41
 143822069,sunface/rust-course,Rust,30
 47854924,rust-lang/book,Rust,16
-109872620,paritytech/substrate,Rust,4
+109872620,paritytech/substrate,Rust,3
 120568143,wez/wezterm,Rust,7
 329782568,DioxusLabs/dioxus,Rust,285
 219035799,huggingface/tokenizers,Rust,13
@@ -21,6 +21,6 @@ id,name,lang,new stars
 178009373,dtolnay/proc-macro-workshop,Rust,16
 575340621,lencx/ChatGPT,Rust,284
 480592723,move-language/move,Rust,7
-342259394,svix/svix-webhooks,Rust,22
+342259394,svix/svix-webhooks,Rust,19
 581630327,skyzh/mini-lsm,Rust,253
 450755818,rajarshimaitra/rust-nostr,Rust,5
