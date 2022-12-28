@@ -1,19 +1,19 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,9
-8681349,huginn/huginn,Ruby,21
-53238813,Homebrew/brew,Ruby,10
+65252,jekyll/jekyll,Ruby,11
+8681349,huginn/huginn,Ruby,20
+53238813,Homebrew/brew,Ruby,11
 481872,hashicorp/vagrant,Ruby,4
-2500088,gitlabhq/gitlabhq,Ruby,1
-21696302,matteocrippa/awesome-swift,Ruby,3
+2500088,gitlabhq/gitlabhq,Ruby,2
+21696302,matteocrippa/awesome-swift,Ruby,6
 538746,ruby/ruby,Ruby,2
 202291859,chatwoot/chatwoot,Ruby,4
-585285,gollum/gollum,Ruby,2
+585285,gollum/gollum,Ruby,1
 3195124,mperham/sidekiq,Ruby,2
 4095287,rubocop/rubocop,Ruby,0
 106995,sinatra/sinatra,Ruby,0
 611921,activeadmin/activeadmin,Ruby,0
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,4
-6899875,opf/openproject,Ruby,3
+6899875,opf/openproject,Ruby,1
 1314319,instructure/canvas-lms,Ruby,0
 96071,rack/rack,Ruby,0
 115859973,ddnexus/pagy,Ruby,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 10088951,TheOdinProject/theodinproject,Ruby,0
 588600,brianmario/mysql2,Ruby,0
 117646,rubygems/rubygems.org,Ruby,0
-136781582,rubocop/rubocop-rails,Ruby,2
+136781582,rubocop/rubocop-rails,Ruby,1
 77154536,mercadolibre/mobile-dependencies_whitelist,Ruby,0
 469263164,aquaflamingo/price-my-spotify-library,Ruby,0

@@ -1,26 +1,26 @@
 id,name,lang,new stars
-83222441,donnemartin/system-design-primer,Python,103
-132750724,codecrafters-io/build-your-own-x,,271
-13233158,obsproject/obs-studio,C,78
-118861276,gto76/python-cheatsheet,Python,118
-382496361,louislam/uptime-kuma,JavaScript,159
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,241
-135201145,RustPython/RustPython,Rust,54
-574523116,f/awesome-chatgpt-prompts,HTML,240
-573819845,acheong08/ChatGPT,Python,115
+83222441,donnemartin/system-design-primer,Python,121
+132750724,codecrafters-io/build-your-own-x,,260
+13233158,obsproject/obs-studio,C,63
+118861276,gto76/python-cheatsheet,Python,98
+382496361,louislam/uptime-kuma,JavaScript,157
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,245
+135201145,RustPython/RustPython,Rust,42
+574523116,f/awesome-chatgpt-prompts,HTML,234
+573819845,acheong08/ChatGPT,Python,119
 7408108,RT-Thread/rt-thread,C,30
-65513748,iamtrask/Grokking-Deep-Learning,Jupyter Notebook,79
-520969009,mouredev/Hello-Python,Python,80
-580836813,google/comprehensive-rust,Rust,671
-448085396,louisfb01/best_AI_papers_2022,,386
-276852180,below/HelloSilicon,Assembly,174
-501990676,SunWeb3Sec/DeFiHackLabs,Solidity,86
-574156195,JusticeRage/Gepetto,Python,38
-492897058,pkivolowitz/asm_book,Assembly,191
-525683737,apitable/apitable,TypeScript,208
-496055858,I-Am-Jakoby/Flipper-Zero-BadUSB,PowerShell,50
-576380523,lucidrains/PaLM-rlhf-pytorch,Python,125
-545104023,CarperAI/trlx,Python,51
-581630327,skyzh/mini-lsm,Rust,236
+65513748,iamtrask/Grokking-Deep-Learning,Jupyter Notebook,88
+520969009,mouredev/Hello-Python,Python,89
+580836813,google/comprehensive-rust,Rust,652
+448085396,louisfb01/best_AI_papers_2022,,402
+276852180,below/HelloSilicon,Assembly,139
+501990676,SunWeb3Sec/DeFiHackLabs,Solidity,104
+574156195,JusticeRage/Gepetto,Python,39
+492897058,pkivolowitz/asm_book,Assembly,232
+525683737,apitable/apitable,TypeScript,205
+496055858,I-Am-Jakoby/Flipper-Zero-BadUSB,PowerShell,64
+576380523,lucidrains/PaLM-rlhf-pytorch,Python,117
+545104023,CarperAI/trlx,Python,52
 577603990,LAION-AI/Open-Assistant,Python,192
-580478625,adrianhajdin/project_openai_codex,JavaScript,62
+581630327,skyzh/mini-lsm,Rust,251
+580478625,adrianhajdin/project_openai_codex,JavaScript,63
