@@ -1,8 +1,8 @@
 id,name,lang,new stars
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,812
 121898717,dani-garcia/vaultwarden,Rust,442
-510607652,pocketbase/pocketbase,Go,878
-71056775,kovidgoyal/kitty,Python,266
+510607652,pocketbase/pocketbase,Go,835
+71056775,kovidgoyal/kitty,Python,264
 1864233,frappe/erpnext,Python,58
 46755185,bitwarden/server,C#,300
 47854924,rust-lang/book,Rust,221
@@ -15,12 +15,12 @@ id,name,lang,new stars
 247288642,adiwajshing/Baileys,JavaScript,54
 482719022,illacloud/illa-builder,TypeScript,1199
 561730219,krahets/hello-algo,C#,1079
-490465859,UberGuidoZ/Flipper,Batchfile,291
+490465859,UberGuidoZ/Flipper,C,291
 575048321,openai/point-e,Python,1621
 514304222,zas023/JdBuyer,Python,436
 438803890,LizardByte/Sunshine,C++,372
 506861932,nvim-lua/kickstart.nvim,Lua,440
 575340621,lencx/ChatGPT,Rust,1076
 537827151,THUDM/CodeGeeX,Python,431
-577135082,ThePrimeagen/init.lua,Lua,133
 537322223,dreamncn/ParallelsDesktopCrack,Shell,223
+577135082,ThePrimeagen/init.lua,Lua,133
