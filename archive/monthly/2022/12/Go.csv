@@ -1,18 +1,18 @@
 id,name,lang,new stars
-17803236,rclone/rclone,Go,526
-15045751,docker/compose,Go,297
-31288958,hashicorp/vault,Go,490
+17803236,rclone/rclone,Go,525
+15045751,docker/compose,Go,300
+31288958,hashicorp/vault,Go,491
 156084530,ehang-io/nps,Go,581
 510607652,pocketbase/pocketbase,Go,2091
-6051812,gorilla/mux,Go,298
-75785240,authelia/authelia,Go,311
-116576783,bettercap/bettercap,Go,1263
-44344606,go-chi/chi,Go,295
+6051812,gorilla/mux,Go,299
+75785240,authelia/authelia,Go,308
+116576783,bettercap/bettercap,Go,1265
+44344606,go-chi/chi,Go,297
 46089560,containerd/containerd,Go,232
 311315731,XTLS/Xray-core,Go,485
 252813491,projectdiscovery/nuclei,Go,334
-154643390,sundowndev/phoneinfoga,Go,707
-93444615,hashicorp/terraform-provider-aws,Go,149
+154643390,sundowndev/phoneinfoga,Go,710
+93444615,hashicorp/terraform-provider-aws,Go,148
 410430370,IceWhaleTech/CasaOS,Go,593
 359419233,kubeshark/kubeshark,Go,1973
 92969352,moby/buildkit,Go,194
@@ -21,6 +21,6 @@ id,name,lang,new stars
 230660669,aler9/rtsp-simple-server,Go,390
 258469100,fluxcd/flux2,Go,140
 106867604,cloudflare/cloudflared,Go,206
-278480393,aws/karpenter,Go,185
+278480393,aws/karpenter,Go,186
 261871717,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,312
 299054922,alpkeskin/mosint,Go,738
