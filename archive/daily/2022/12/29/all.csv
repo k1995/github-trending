@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,215
+21737465,sindresorhus/awesome,,204
 85077558,kamranahmedse/developer-roadmap,TypeScript,176
 83222441,donnemartin/system-design-primer,Python,165
 132750724,codecrafters-io/build-your-own-x,,309
 126577260,trekhleb/javascript-algorithms,JavaScript,118
 35955666,jlevy/the-art-of-command-line,,116
-20904437,gin-gonic/gin,Go,49
-162998479,sherlock-project/sherlock,Python,101
-290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,126
-400215964,novuhq/novu,TypeScript,473
-135201145,RustPython/RustPython,Rust,99
+20904437,gin-gonic/gin,Go,50
+162998479,sherlock-project/sherlock,Python,47
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,128
+400215964,novuhq/novu,TypeScript,655
+135201145,RustPython/RustPython,Rust,101
 573819845,acheong08/ChatGPT,Python,162
-410989014,exaloop/codon,C++,114
-7705639,merbanan/rtl_433,C,49
-580836813,google/comprehensive-rust,Rust,722
-535304995,HavocFramework/Havoc,Go,41
-508131663,hehonghui/awesome-english-ebooks,CSS,319
+410989014,exaloop/codon,C++,113
+7705639,merbanan/rtl_433,C,46
+580836813,google/comprehensive-rust,Rust,721
+535304995,HavocFramework/Havoc,Go,39
+508131663,hehonghui/awesome-english-ebooks,CSS,311
 575340621,lencx/ChatGPT,Rust,296
 501990676,SunWeb3Sec/DeFiHackLabs,Solidity,98
-576380523,lucidrains/PaLM-rlhf-pytorch,Python,86
-577603990,LAION-AI/Open-Assistant,Python,307
-581630327,skyzh/mini-lsm,Rust,136
-537322223,dreamncn/ParallelsDesktopCrack,Shell,32
+576380523,lucidrains/PaLM-rlhf-pytorch,Python,88
+577603990,LAION-AI/Open-Assistant,Python,306
+581630327,skyzh/mini-lsm,Rust,139
+537322223,dreamncn/ParallelsDesktopCrack,Shell,31
 581049695,mouredev/retos-programacion-2023,,71
-579927738,ChatGPT-Hackers/ChatGPT-API-server,Go,50
+579927738,ChatGPT-Hackers/ChatGPT-API-server,Go,47

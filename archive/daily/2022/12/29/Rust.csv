@@ -5,14 +5,14 @@ id,name,lang,new stars
 148641954,TheAlgorithms/Rust,Rust,87
 135201145,RustPython/RustPython,Rust,101
 143822069,sunface/rust-course,Rust,22
-165522651,emilk/egui,Rust,16
+165522651,emilk/egui,Rust,14
 48833910,tikv/tikv,Rust,20
-101767772,bytecodealliance/wasmtime,Rust,10
+101767772,bytecodealliance/wasmtime,Rust,13
 155783257,linebender/druid,Rust,13
 91151442,PyO3/pyo3,Rust,14
 219035799,huggingface/tokenizers,Rust,15
 35566048,crossbeam-rs/crossbeam,Rust,9
-23138984,tokio-rs/mio,Rust,4
+23138984,tokio-rs/mio,Rust,5
 523043277,charliermarsh/ruff,Rust,146
 580836813,google/comprehensive-rust,Rust,721
 453068084,risingwavelabs/risingwave,Rust,8
@@ -20,7 +20,7 @@ id,name,lang,new stars
 225789323,tokio-rs/mini-redis,Rust,10
 575340621,lencx/ChatGPT,Rust,296
 480592723,move-language/move,Rust,3
-342259394,svix/svix-webhooks,Rust,9
+342259394,svix/svix-webhooks,Rust,11
 581630327,skyzh/mini-lsm,Rust,139
 442854190,DioxusLabs/example-projects,Rust,8
 550821397,nate-sys/muc,Rust,20
