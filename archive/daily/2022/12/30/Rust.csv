@@ -2,16 +2,16 @@ id,name,lang,new stars
 133442384,denoland/deno,Rust,20
 299354207,rustdesk/rustdesk,Rust,68
 120425779,lapce/lapce,Rust,137
-121898717,dani-garcia/vaultwarden,Rust,58
+121898717,dani-garcia/vaultwarden,Rust,50
 234798675,bevyengine/bevy,Rust,22
 268424739,helix-editor/helix,Rust,23
 410749029,spacedriveapp/spacedrive,Rust,41
 162276894,Wilfred/difftastic,Rust,7
 135201145,RustPython/RustPython,Rust,52
-48833910,tikv/tikv,Rust,12
+48833910,tikv/tikv,Rust,10
 14164618,tree-sitter/tree-sitter,Rust,10
 31315121,clap-rs/clap,Rust,13
-127553476,rust-embedded/rust-raspberrypi-OS-tutorials,Rust,65
+127553476,rust-embedded/rust-raspberrypi-OS-tutorials,Rust,77
 41609775,diesel-rs/diesel,Rust,7
 155783257,linebender/druid,Rust,8
 372172254,tokio-rs/axum,Rust,25
@@ -22,5 +22,5 @@ id,name,lang,new stars
 575340621,lencx/ChatGPT,Rust,401
 537233603,paradigmxyz/reth,Rust,5
 540033828,huggingface/safetensors,Rust,5
-233512722,ThePrimeagen/vim-royale,Rust,4
+233512722,ThePrimeagen/vim-royale,Rust,5
 545849339,second-state/microservice-rust-mysql,Rust,21

@@ -1,20 +1,20 @@
 id,name,lang,new stars
-85077558,kamranahmedse/developer-roadmap,TypeScript,145
+85077558,kamranahmedse/developer-roadmap,TypeScript,140
 24195339,angular/angular,TypeScript,20
-80945428,nestjs/nest,TypeScript,23
-214587193,supabase/supabase,TypeScript,68
+80945428,nestjs/nest,TypeScript,22
+214587193,supabase/supabase,TypeScript,72
 15062869,facebook/jest,TypeScript,5
 231283452,excalidraw/excalidraw,TypeScript,143
-36891867,angular/angular-cli,TypeScript,2
-7833168,elastic/kibana,TypeScript,1
+36891867,angular/angular-cli,TypeScript,1
+7833168,elastic/kibana,TypeScript,0
 400215964,novuhq/novu,TypeScript,456
-151843254,rrweb-io/rrweb,TypeScript,2
-348822769,nuxt/framework,TypeScript,7
+151843254,rrweb-io/rrweb,TypeScript,3
+348822769,nuxt/framework,TypeScript,9
 285092252,serverless-stack/sst,TypeScript,58
 75657790,dotansimha/graphql-code-generator,TypeScript,2
 249995750,AmruthPillai/Reactive-Resume,TypeScript,345
-121380371,thedevs-network/kutt,TypeScript,6
-147979549,react-native-webview/react-native-webview,TypeScript,4
+121380371,thedevs-network/kutt,TypeScript,7
+147979549,react-native-webview/react-native-webview,TypeScript,3
 573631261,transitive-bullshit/chatgpt-api,TypeScript,72
 304740870,tamagui/tamagui,TypeScript,175
 183895098,ant-design/pro-components,TypeScript,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 527600676,maotoumao/MusicFree,TypeScript,18
 104770273,ipfs/public-gateway-checker,TypeScript,1
 482383845,Cameri/nostream,TypeScript,5
-517288850,starkoora/wanted-pre-onboarding-challenge-fe-1-api,TypeScript,4
-518698474,taikoxyz/taiko-mono,TypeScript,15
+517288850,starkoora/wanted-pre-onboarding-challenge-fe-1-api,TypeScript,3
+518698474,taikoxyz/taiko-mono,TypeScript,9
