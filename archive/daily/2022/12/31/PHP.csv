@@ -1,7 +1,7 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,25
-458058,symfony/symfony,PHP,15
-60243197,nextcloud/server,PHP,19
+3482588,danielmiessler/SecLists,PHP,26
+458058,symfony/symfony,PHP,35
+60243197,nextcloud/server,PHP,20
 79111500,jupeter/clean-code-php,PHP,3
 42480275,spatie/laravel-permission,PHP,0
 2884111,magento/magento2,PHP,1
@@ -9,18 +9,18 @@ id,name,lang,new stars
 6660366,dompdf/dompdf,PHP,3
 10238429,tennc/webshell,PHP,3
 14346979,snipe/snipe-it,PHP,9
-9791525,digininja/DVWA,PHP,4
-4242230,PHPOffice/PHPWord,PHP,2
+9791525,digininja/DVWA,PHP,2
+4242230,PHPOffice/PHPWord,PHP,0
 10883164,barryvdh/laravel-dompdf,PHP,1
 159606650,hyperf/hyperf,PHP,2
 148129143,bagisto/bagisto,PHP,1
 2797951,doctrine/DoctrineBundle,PHP,0
 129829848,pixelfed/pixelfed,PHP,12
-77574863,causefx/Organizr,PHP,1
-1957456,Dolibarr/dolibarr,PHP,3
+77574863,causefx/Organizr,PHP,0
+1957456,Dolibarr/dolibarr,PHP,4
 38200433,jeroennoten/Laravel-AdminLTE,PHP,0
 13044600,salesagility/SuiteCRM,PHP,2
 111562942,statamic/cms,PHP,2
-75645659,WordPress/wordpress-develop,PHP,0
-582445575,openai-php/laravel,PHP,59
+75645659,WordPress/wordpress-develop,PHP,1
+582445575,openai-php/laravel,PHP,31
 274940489,Blair2004/NexoPOS,PHP,4
