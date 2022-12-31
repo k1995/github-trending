@@ -1,15 +1,16 @@
 id,name,lang,new stars
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,696
-121898717,dani-garcia/vaultwarden,Rust,444
+231283452,excalidraw/excalidraw,TypeScript,862
+121898717,dani-garcia/vaultwarden,Rust,437
 510607652,pocketbase/pocketbase,Go,665
-71056775,kovidgoyal/kitty,Python,236
+290091948,labmlai/annotated_deep_learning_paper_implementations,Jupyter Notebook,897
+400215964,novuhq/novu,TypeScript,1294
 135201145,RustPython/RustPython,Rust,282
-46755185,bitwarden/server,C#,319
 574523116,f/awesome-chatgpt-prompts,HTML,2112
 154643390,sundowndev/phoneinfoga,Go,221
 224151065,Immediate-Mode-UI/Nuklear,C,216
 313197356,xiaoxian521/vue-pure-admin,Vue,472
-523043277,charliermarsh/ruff,Rust,623
+476957520,AmazingAng/WTF-Solidity,Solidity,411
 580836813,google/comprehensive-rust,Rust,3410
 561730219,krahets/hello-algo,C#,981
 490465859,UberGuidoZ/Flipper,C,446
@@ -19,8 +20,7 @@ id,name,lang,new stars
 506861932,nvim-lua/kickstart.nvim,Lua,355
 501990676,SunWeb3Sec/DeFiHackLabs,Solidity,334
 568549346,folke/lazy.nvim,Lua,581
-536750959,mprimi/portable-secret,HTML,356
 496055858,I-Am-Jakoby/Flipper-Zero-BadUSB,PowerShell,267
-577813091,rails/docked,Dockerfile,181
-575997792,adobe-research/custom-diffusion,Python,186
+539168222,JhumanJ/OpnForm,Vue,145
 537322223,dreamncn/ParallelsDesktopCrack,Shell,272
+477198595,damus-io/damus,Swift,55
