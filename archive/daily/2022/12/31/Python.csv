@@ -1,17 +1,17 @@
 id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,78
-21289110,vinta/awesome-python,Python,144
+21289110,vinta/awesome-python,Python,140
 58028038,521xueweihan/HelloGitHub,Python,128
-83844720,ageitgey/face_recognition,Python,17
-71220757,swisskyrepo/PayloadsAllTheThings,Python,33
+83844720,ageitgey/face_recognition,Python,16
+71220757,swisskyrepo/PayloadsAllTheThings,Python,31
 262296122,PaddlePaddle/PaddleOCR,Python,16
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,111
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,102
 192640529,heartexlabs/label-studio,Python,11
-394541647,OpenEthan/SMSBoom,Python,13
+394541647,OpenEthan/SMSBoom,Python,10
 573819845,acheong08/ChatGPT,Python,62
 458648791,paperless-ngx/paperless-ngx,Python,19
 566576114,apple/ml-stable-diffusion,Python,127
-444995502,facebookresearch/ConvNeXt,Python,7
+444995502,facebookresearch/ConvNeXt,Python,8
 474839179,hiroi-sora/Umi-OCR,Python,67
 200492112,tony9402/baekjoon,Python,4
 576380523,lucidrains/PaLM-rlhf-pytorch,Python,595
@@ -21,6 +21,6 @@ id,name,lang,new stars
 425387994,Evil0ctal/Douyin_TikTok_Download_API,Python,36
 545104023,CarperAI/trlx,Python,24
 576247474,vastsa/FileCodeBox,Python,54
-537972211,open-mmlab/mmyolo,Python,4
+537972211,open-mmlab/mmyolo,Python,3
 122543870,mrh0wl/Cloudmare,Python,24
 384488125,HMS-CardiacMR/MyoMapNet,Python,13
