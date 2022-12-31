@@ -1,6 +1,6 @@
 id,name,lang,new stars
 133442384,denoland/deno,Rust,20
-299354207,rustdesk/rustdesk,Rust,66
+299354207,rustdesk/rustdesk,Rust,60
 120425779,lapce/lapce,Rust,50
 121898717,dani-garcia/vaultwarden,Rust,40
 234798675,bevyengine/bevy,Rust,17
@@ -19,8 +19,8 @@ id,name,lang,new stars
 131135585,svenstaro/miniserve,Rust,26
 165289175,tokio-rs/tracing,Rust,8
 86106381,libp2p/rust-libp2p,Rust,4
-575340621,lencx/ChatGPT,Rust,335
+575340621,lencx/ChatGPT,Rust,260
 537233603,paradigmxyz/reth,Rust,6
 540033828,huggingface/safetensors,Rust,4
 233512722,ThePrimeagen/vim-royale,Rust,5
-545849339,second-state/microservice-rust-mysql,Rust,13
+545849339,second-state/microservice-rust-mysql,Rust,12
