@@ -1,9 +1,9 @@
 id,name,lang,new stars
-724712,rust-lang/rust,Rust,242
-178991158,starship/starship,Rust,201
-21938243,rust-unofficial/awesome-rust,Rust,237
-120425779,lapce/lapce,Rust,458
-121898717,dani-garcia/vaultwarden,Rust,427
+724712,rust-lang/rust,Rust,245
+178991158,starship/starship,Rust,202
+21938243,rust-unofficial/awesome-rust,Rust,235
+120425779,lapce/lapce,Rust,460
+121898717,dani-garcia/vaultwarden,Rust,417
 410749029,spacedriveapp/spacedrive,Rust,153
 148641954,TheAlgorithms/Rust,Rust,247
 135201145,RustPython/RustPython,Rust,282
@@ -13,14 +13,14 @@ id,name,lang,new stars
 230595891,launchbadge/sqlx,Rust,63
 91151442,PyO3/pyo3,Rust,70
 129990396,sunface/rust-by-practice,Rust,53
-120568143,wez/wezterm,Rust,55
-329782568,DioxusLabs/dioxus,Rust,609
+120568143,wez/wezterm,Rust,56
+329782568,DioxusLabs/dioxus,Rust,608
 148686316,gfx-rs/wgpu,Rust,72
-282179811,EmbarkStudios/rust-gpu,Rust,161
-523043277,charliermarsh/ruff,Rust,642
+282179811,EmbarkStudios/rust-gpu,Rust,162
+523043277,charliermarsh/ruff,Rust,640
 302827809,datafuselabs/databend,Rust,48
-580836813,google/comprehensive-rust,Rust,3224
+580836813,google/comprehensive-rust,Rust,3201
 453068084,risingwavelabs/risingwave,Rust,32
 575340621,lencx/ChatGPT,Rust,1596
 225789323,tokio-rs/mini-redis,Rust,28
-331227477,aya-rs/aya,Rust,50
+331227477,aya-rs/aya,Rust,51

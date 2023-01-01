@@ -1,18 +1,18 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,19
+5108051,opencv/opencv,C++,18
 22887094,tesseract-ocr/tesseract,C++,23
-39840932,google/googletest,C++,10
+39840932,google/googletest,C++,7
 4524181,facebook/folly,C++,2
-74660642,taichi-dev/taichi,C++,13
+74660642,taichi-dev/taichi,C++,14
 34777562,ossrs/srs,C++,9
-125098880,ValveSoftware/Proton,C++,9
+125098880,ValveSoftware/Proton,C++,7
 32736639,JoeyDeVries/LearnOpenGL,C++,5
 263379,zeromq/libzmq,C++,6
 181436799,alibaba/MNN,C++,0
 128479644,esphome/esphome,C++,3
 244694174,project-chip/connectedhomeip,C++,7
 372536760,oceanbase/oceanbase,C++,3
-83542585,wisdompeak/LeetCode,C++,3
+83542585,wisdompeak/LeetCode,C++,1
 22197389,cp-algorithms/cp-algorithms,C++,4
 48185587,lballabio/QuantLib,C++,2
 49177547,ThePhD/sol2,C++,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 267350664,BrunoLevy/learn-fpga,C++,39
 507861208,PaddlePaddle/FastDeploy,C++,8
 72500738,screetsec/Brutal,C++,3
-131286494,flyinghead/flycast,C++,2
-519401968,wuspy/portal_calendar,C++,37
+131286494,flyinghead/flycast,C++,4
+519401968,wuspy/portal_calendar,C++,52
 150027004,SalahAssana/5G-SCG,C++,2
