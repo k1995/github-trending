@@ -1,20 +1,20 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,4
-458058,symfony/symfony,PHP,14
+458058,symfony/symfony,PHP,8
 1864363,composer/composer,PHP,4
-60243197,nextcloud/server,PHP,71
+60243197,nextcloud/server,PHP,86
 448045,sebastianbergmann/phpunit,PHP,0
 82238168,monicahq/monica,PHP,3
 2889328,WordPress/WordPress,PHP,0
 7704544,Intervention/image,PHP,1
-10157178,egulias/EmailValidator,PHP,2
+10157178,egulias/EmailValidator,PHP,1
 2699935,squizlabs/PHP_CodeSniffer,PHP,0
 11340559,deployphp/deployer,PHP,4
-21298446,firefly-iii/firefly-iii,PHP,6
+21298446,firefly-iii/firefly-iii,PHP,7
 330275,twigphp/Twig,PHP,0
-14346979,snipe/snipe-it,PHP,5
+14346979,snipe/snipe-it,PHP,4
 2717549,Sylius/Sylius,PHP,2
-248372441,filamentphp/filament,PHP,5
+248372441,filamentphp/filament,PHP,4
 159606650,hyperf/hyperf,PHP,0
 129829848,pixelfed/pixelfed,PHP,4
 153069455,collabnix/dockerlabs,PHP,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 143975804,LycheeOrg/Lychee,PHP,4
 1691187,WordPress/WordPress-Coding-Standards,PHP,1
 29745084,Leantime/leantime,PHP,1
-440520058,orhanerday/open-ai,PHP,2
-274940489,Blair2004/NexoPOS,PHP,2
+440520058,orhanerday/open-ai,PHP,3
+274940489,Blair2004/NexoPOS,PHP,0
