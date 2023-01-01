@@ -1,19 +1,19 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,372
-3482588,danielmiessler/SecLists,PHP,662
+3482588,danielmiessler/SecLists,PHP,664
 7548986,laravel/framework,PHP,228
-458058,symfony/symfony,PHP,183
+458058,symfony/symfony,PHP,184
 1864363,composer/composer,PHP,129
-60243197,nextcloud/server,PHP,355
+60243197,nextcloud/server,PHP,356
 2253830,PHPMailer/PHPMailer,PHP,147
-82238168,monicahq/monica,PHP,771
-21298446,firefly-iii/firefly-iii,PHP,201
+82238168,monicahq/monica,PHP,770
+21298446,firefly-iii/firefly-iii,PHP,200
 622166,FriendsOfPHP/Goutte,PHP,46
 12166778,googleapis/google-api-php-client,PHP,50
 116389886,Anankke/SSPanel-Uim,PHP,153
 14346979,snipe/snipe-it,PHP,156
 6763587,PrestaShop/PrestaShop,PHP,71
-248372441,filamentphp/filament,PHP,221
+248372441,filamentphp/filament,PHP,223
 74386167,vimeo/psalm,PHP,58
 60010673,elementor/elementor,PHP,141
 47508644,pterodactyl/panel,PHP,109
@@ -23,4 +23,4 @@ id,name,lang,new stars
 96284790,prasathmani/tinyfilemanager,PHP,97
 14724954,opensourcepos/opensourcepos,PHP,49
 216849756,v2board/v2board,PHP,330
-541322916,openai-php/client,PHP,310
+541322916,openai-php/client,PHP,313
