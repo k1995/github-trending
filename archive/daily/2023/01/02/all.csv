@@ -1,26 +1,26 @@
 id,name,lang,new stars
-28457823,freeCodeCamp/freeCodeCamp,TypeScript,82
+28457823,freeCodeCamp/freeCodeCamp,TypeScript,93
 60493101,jwasham/coding-interview-university,,118
-1039520,ytdl-org/youtube-dl,Python,87
+1039520,ytdl-org/youtube-dl,Python,117
 71583602,Developer-Y/cs-video-courses,,90
-22067521,ocornut/imgui,C++,48
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,Python,76
-82359910,imDazui/Tvlist-awesome-m3u-m3u8,,58
-323965659,alist-org/alist,Go,122
-263727855,pola-rs/polars,Rust,145
-249995750,AmruthPillai/Reactive-Resume,TypeScript,179
-449091292,PRQL/prql,Rust,258
-470579591,DarkFlippers/unleashed-firmware,C,83
-565629124,google/osv-scanner,Go,143
-336920522,Atlas-OS/Atlas,Batchfile,283
+22067521,ocornut/imgui,C++,57
+196760810,Ebazhanov/linkedin-skill-assessments-quizzes,Python,88
+82359910,imDazui/Tvlist-awesome-m3u-m3u8,,74
+323965659,alist-org/alist,Go,121
+263727855,pola-rs/polars,Rust,150
+249995750,AmruthPillai/Reactive-Resume,TypeScript,174
+449091292,PRQL/prql,Rust,297
+470579591,DarkFlippers/unleashed-firmware,C,107
+565629124,google/osv-scanner,Go,141
+336920522,Atlas-OS/Atlas,Batchfile,291
 570011726,zlib-searcher/zlib-searcher,TypeScript,186
-577603990,LAION-AI/Open-Assistant,Jupyter Notebook,394
-452939314,neonbjb/tortoise-tts,Python,157
-505667511,sczhou/CodeFormer,Python,62
-342480596,SheerSt/pokewilds,Assembly,58
-267350664,BrunoLevy/learn-fpga,C++,51
-531874744,aurae-runtime/aurae,Rust,44
-582822129,karpathy/nanoGPT,Python,273
-579082810,dair-ai/Prompt-Engineering-Guide,,70
+577603990,LAION-AI/Open-Assistant,Jupyter Notebook,396
+452939314,neonbjb/tortoise-tts,Python,215
+505667511,sczhou/CodeFormer,Python,69
+342480596,SheerSt/pokewilds,Assembly,68
+267350664,BrunoLevy/learn-fpga,C++,63
+531874744,aurae-runtime/aurae,Rust,57
+582822129,karpathy/nanoGPT,Python,302
+579082810,dair-ai/Prompt-Engineering-Guide,,89
+538444958,A-poc/RedTeam-Tools,,296
 560704231,jerryjliu/gpt_index,Python,51
-538444958,A-poc/RedTeam-Tools,,252
