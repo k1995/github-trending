@@ -1,26 +1,26 @@
 id,name,lang,new stars
-28457823,freeCodeCamp/freeCodeCamp,TypeScript,94
-60493101,jwasham/coding-interview-university,,164
-1039520,ytdl-org/youtube-dl,Python,118
-71583602,Developer-Y/cs-video-courses,,90
+21289110,vinta/awesome-python,Python,132
+71583602,Developer-Y/cs-video-courses,,126
 22067521,ocornut/imgui,C++,57
-196760810,Ebazhanov/linkedin-skill-assessments-quizzes,Python,95
-82359910,imDazui/Tvlist-awesome-m3u-m3u8,,58
+62367558,vercel/hyper,TypeScript,12
+79162682,laurent22/joplin,TypeScript,18
+180328715,pmndrs/zustand,TypeScript,18
+254832799,Z4nzu/hackingtool,Python,364
+323048702,OpenBB-finance/OpenBBTerminal,Python,20
+186733095,2dust/v2rayNG,Kotlin,30
+350360184,calcom/cal.com,TypeScript,52
 323965659,alist-org/alist,Go,122
-263727855,pola-rs/polars,Rust,149
-249995750,AmruthPillai/Reactive-Resume,TypeScript,175
-449091292,PRQL/prql,Rust,258
-470579591,DarkFlippers/unleashed-firmware,C,83
-565629124,google/osv-scanner,Go,143
-336920522,Atlas-OS/Atlas,Batchfile,297
+189621607,github/docs,JavaScript,19
+263727855,pola-rs/polars,Rust,170
+37346186,termux/termux-packages,Shell,10
+19897878,itzg/docker-minecraft-server,Shell,23
+166658783,mxssl/sre-interview-prep-guide,,36
+325456028,priyankavergadia/GCPSketchnote,,14
+565629124,google/osv-scanner,Go,153
 570011726,zlib-searcher/zlib-searcher,TypeScript,174
-577603990,LAION-AI/Open-Assistant,Jupyter Notebook,397
-452939314,neonbjb/tortoise-tts,Python,215
-505667511,sczhou/CodeFormer,Python,76
-342480596,SheerSt/pokewilds,Assembly,77
-267350664,BrunoLevy/learn-fpga,C++,63
-531874744,aurae-runtime/aurae,Rust,57
+577603990,LAION-AI/Open-Assistant,Jupyter Notebook,370
+178120741,ashemery/exploitation-course,Python,77
 582822129,karpathy/nanoGPT,Python,304
-579082810,dair-ai/Prompt-Engineering-Guide,,90
-538444958,A-poc/RedTeam-Tools,,252
-560704231,jerryjliu/gpt_index,Python,51
+367480581,jellyfin/Swiftfin,Swift,8
+560704231,jerryjliu/gpt_index,Python,50
+583450891,zakird/crux-top-lists,Python,59
