@@ -1,16 +1,16 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,365
 7548986,laravel/framework,PHP,224
-458058,symfony/symfony,PHP,183
+458058,symfony/symfony,PHP,182
 1864363,composer/composer,PHP,132
-60243197,nextcloud/server,PHP,351
+60243197,nextcloud/server,PHP,353
 2253830,PHPMailer/PHPMailer,PHP,145
-82238168,monicahq/monica,PHP,721
-4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,79
-21298446,firefly-iii/firefly-iii,PHP,207
-622166,FriendsOfPHP/Goutte,PHP,44
-12166778,googleapis/google-api-php-client,PHP,44
-116389886,Anankke/SSPanel-Uim,PHP,150
+82238168,monicahq/monica,PHP,712
+4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,80
+21298446,firefly-iii/firefly-iii,PHP,209
+622166,FriendsOfPHP/Goutte,PHP,45
+12166778,googleapis/google-api-php-client,PHP,45
+116389886,Anankke/SSPanel-Uim,PHP,151
 14346979,snipe/snipe-it,PHP,158
 6763587,PrestaShop/PrestaShop,PHP,71
 248372441,filamentphp/filament,PHP,229
@@ -18,9 +18,9 @@ id,name,lang,new stars
 60010673,elementor/elementor,PHP,145
 47508644,pterodactyl/panel,PHP,110
 129829848,pixelfed/pixelfed,PHP,196
-2464908,joomla/joomla-cms,PHP,21
+2464908,joomla/joomla-cms,PHP,20
 70239358,cytopia/devilbox,PHP,79
 96284790,prasathmani/tinyfilemanager,PHP,96
 14724954,opensourcepos/opensourcepos,PHP,47
-216849756,v2board/v2board,PHP,333
-541322916,openai-php/client,PHP,352
+216849756,v2board/v2board,PHP,332
+541322916,openai-php/client,PHP,359
