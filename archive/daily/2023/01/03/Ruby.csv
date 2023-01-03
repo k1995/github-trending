@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,12
+8514,rails/rails,Ruby,10
 65252,jekyll/jekyll,Ruby,10
-2293158,rapid7/metasploit-framework,Ruby,8
-481872,hashicorp/vagrant,Ruby,3
-2500088,gitlabhq/gitlabhq,Ruby,3
-308770,heartcombo/devise,Ruby,3
+2293158,rapid7/metasploit-framework,Ruby,7
+481872,hashicorp/vagrant,Ruby,1
+2500088,gitlabhq/gitlabhq,Ruby,2
+308770,heartcombo/devise,Ruby,2
 202291859,chatwoot/chatwoot,Ruby,6
 3314,spree/spree,Ruby,1
 1725199,github/linguist,Ruby,3
@@ -13,10 +13,10 @@ id,name,lang,new stars
 611921,activeadmin/activeadmin,Ruby,0
 810796,railsadminteam/rails_admin,Ruby,0
 2441517,puma/puma,Ruby,2
-277089,flyerhzm/bullet,Ruby,6
+277089,flyerhzm/bullet,Ruby,4
 211588,paper-trail-gem/paper_trail,Ruby,1
-6899875,opf/openproject,Ruby,2
-4523235,asciidoctor/asciidoctor,Ruby,1
+6899875,opf/openproject,Ruby,4
+4523235,asciidoctor/asciidoctor,Ruby,0
 21333814,lynndylanhurley/devise_token_auth,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,4
 10088951,TheOdinProject/theodinproject,Ruby,1
