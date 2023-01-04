@@ -1,11 +1,11 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,365
+1863329,laravel/laravel,PHP,368
 7548986,laravel/framework,PHP,228
-458058,symfony/symfony,PHP,180
-1864363,composer/composer,PHP,131
-60243197,nextcloud/server,PHP,355
-2253830,PHPMailer/PHPMailer,PHP,142
-4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,80
+458058,symfony/symfony,PHP,178
+1864363,composer/composer,PHP,132
+60243197,nextcloud/server,PHP,356
+2253830,PHPMailer/PHPMailer,PHP,139
+4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,81
 21298446,firefly-iii/firefly-iii,PHP,214
 622166,FriendsOfPHP/Goutte,PHP,45
 12166778,googleapis/google-api-php-client,PHP,47
@@ -13,14 +13,14 @@ id,name,lang,new stars
 14346979,snipe/snipe-it,PHP,159
 6763587,PrestaShop/PrestaShop,PHP,69
 248372441,filamentphp/filament,PHP,234
-119047018,linuxserver/Heimdall,PHP,188
-60010673,elementor/elementor,PHP,146
+119047018,linuxserver/Heimdall,PHP,187
+60010673,elementor/elementor,PHP,148
 47508644,pterodactyl/panel,PHP,109
-129829848,pixelfed/pixelfed,PHP,197
+129829848,pixelfed/pixelfed,PHP,198
 2464908,joomla/joomla-cms,PHP,21
-141720301,dr5hn/countries-states-cities-database,PHP,150
+141720301,dr5hn/countries-states-cities-database,PHP,152
 70239358,cytopia/devilbox,PHP,80
-14724954,opensourcepos/opensourcepos,PHP,46
+14724954,opensourcepos/opensourcepos,PHP,45
 216849756,v2board/v2board,PHP,334
 307018731,DenverCoder1/github-readme-streak-stats,PHP,155
 541322916,openai-php/client,PHP,367
