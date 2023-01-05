@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,245
+8514,rails/rails,Ruby,246
 65252,jekyll/jekyll,Ruby,220
-8681349,huginn/huginn,Ruby,312
-27442967,fastlane/fastlane,Ruby,124
+8681349,huginn/huginn,Ruby,309
+27442967,fastlane/fastlane,Ruby,125
 2293158,rapid7/metasploit-framework,Ruby,272
 308770,heartcombo/devise,Ruby,61
 37382858,kilimchoi/engineering-blogs,Ruby,174
 73648678,forem/forem,Ruby,143
-538746,ruby/ruby,Ruby,135
-3623050,Homebrew/homebrew-cask,Ruby,84
-202291859,chatwoot/chatwoot,Ruby,174
-4095287,rubocop/rubocop,Ruby,63
+538746,ruby/ruby,Ruby,136
+3623050,Homebrew/homebrew-cask,Ruby,86
+202291859,chatwoot/chatwoot,Ruby,173
+4095287,rubocop/rubocop,Ruby,64
 52855516,Homebrew/homebrew-core,Ruby,118
-1725199,github/linguist,Ruby,99
+1725199,github/linguist,Ruby,98
 611921,activeadmin/activeadmin,Ruby,24
 115859973,ddnexus/pagy,Ruby,44
 103766152,github/explore,Ruby,75
@@ -20,7 +20,7 @@ id,name,lang,new stars
 614070,rubygems/rubygems,Ruby,48
 229187949,shivammathur/homebrew-php,Ruby,83
 121513081,tradingview/charting-library-examples,Ruby,17
-467296689,bullet-train-co/bullet_train,Ruby,45
-323724010,nickjj/docker-rails-example,Ruby,49
+467296689,bullet-train-co/bullet_train,Ruby,43
+323724010,nickjj/docker-rails-example,Ruby,48
 419827947,joemasilotti/railsdevs.com,Ruby,19
-463648726,Shopify/ruby-lsp,Ruby,74
+463648726,Shopify/ruby-lsp,Ruby,81
