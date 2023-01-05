@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,12
+8514,rails/rails,Ruby,17
 7569578,discourse/discourse,Ruby,7
 27442967,fastlane/fastlane,Ruby,6
-53238813,Homebrew/brew,Ruby,23
-481872,hashicorp/vagrant,Ruby,3
+53238813,Homebrew/brew,Ruby,19
+481872,hashicorp/vagrant,Ruby,4
 202291859,chatwoot/chatwoot,Ruby,4
-2203645,CocoaPods/CocoaPods,Ruby,0
+2203645,CocoaPods/CocoaPods,Ruby,1
 3195124,mperham/sidekiq,Ruby,3
 4095287,rubocop/rubocop,Ruby,2
 812393,ruby-grape/grape,Ruby,1
 47087,carrierwaveuploader/carrierwave,Ruby,2
-451035,heartcombo/simple_form,Ruby,0
+451035,heartcombo/simple_form,Ruby,1
 2441517,puma/puma,Ruby,2
 108278,chef/chef,Ruby,1
 75785147,rails/webpacker,Ruby,0
@@ -18,9 +18,9 @@ id,name,lang,new stars
 1172597,thoughtbot/shoulda-matchers,Ruby,1
 46698467,ankane/strong_migrations,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,2
-10088951,TheOdinProject/theodinproject,Ruby,5
+10088951,TheOdinProject/theodinproject,Ruby,2
 3662248,git/git-scm.com,Ruby,0
 9831101,elastic/elasticsearch-ruby,Ruby,0
-1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,3
+1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,2
 209731662,ruby/debug,Ruby,3
 136781582,rubocop/rubocop-rails,Ruby,0
