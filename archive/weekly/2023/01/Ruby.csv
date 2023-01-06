@@ -1,15 +1,15 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,61
-8681349,huginn/huginn,Ruby,79
+8681349,huginn/huginn,Ruby,78
 27442967,fastlane/fastlane,Ruby,26
-53238813,Homebrew/brew,Ruby,101
-2293158,rapid7/metasploit-framework,Ruby,71
+53238813,Homebrew/brew,Ruby,104
+2293158,rapid7/metasploit-framework,Ruby,68
 2500088,gitlabhq/gitlabhq,Ruby,13
-308770,heartcombo/devise,Ruby,15
-37382858,kilimchoi/engineering-blogs,Ruby,42
+308770,heartcombo/devise,Ruby,16
+37382858,kilimchoi/engineering-blogs,Ruby,40
 538746,ruby/ruby,Ruby,25
 202291859,chatwoot/chatwoot,Ruby,37
-88740103,postalserver/postal,Ruby,21
+88740103,postalserver/postal,Ruby,22
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,26
 108278,chef/chef,Ruby,13
 277089,flyerhzm/bullet,Ruby,20
@@ -22,5 +22,5 @@ id,name,lang,new stars
 641512,openstreetmap/openstreetmap-website,Ruby,10
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,2
 8154497,rubysec/ruby-advisory-db,Ruby,1
-419827947,joemasilotti/railsdevs.com,Ruby,8
+419827947,joemasilotti/railsdevs.com,Ruby,9
 387924838,learn-co-curriculum/phase-3-sinatra-react-project,Ruby,1
