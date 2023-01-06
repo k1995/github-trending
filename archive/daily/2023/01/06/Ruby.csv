@@ -2,7 +2,7 @@ id,name,lang,new stars
 8514,rails/rails,Ruby,15
 7569578,discourse/discourse,Ruby,6
 27442967,fastlane/fastlane,Ruby,7
-53238813,Homebrew/brew,Ruby,20
+53238813,Homebrew/brew,Ruby,22
 481872,hashicorp/vagrant,Ruby,3
 202291859,chatwoot/chatwoot,Ruby,6
 2203645,CocoaPods/CocoaPods,Ruby,1
@@ -14,7 +14,7 @@ id,name,lang,new stars
 2441517,puma/puma,Ruby,1
 108278,chef/chef,Ruby,3
 75785147,rails/webpacker,Ruby,0
-30337170,rmosolgo/graphql-ruby,Ruby,1
+30337170,rmosolgo/graphql-ruby,Ruby,2
 1172597,thoughtbot/shoulda-matchers,Ruby,1
 46698467,ankane/strong_migrations,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,1

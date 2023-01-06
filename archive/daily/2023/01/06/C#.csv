@@ -1,15 +1,15 @@
 id,name,lang,new stars
-17620347,dotnet/aspnetcore,C#,21
+17620347,dotnet/aspnetcore,C#,23
 64713769,NickeManarin/ScreenToGif,C#,11
-262395224,dotnet/maui,C#,12
+262395224,dotnet/maui,C#,13
 29078997,dotnet/roslyn,C#,3
 30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,C#,8
 16157746,dotnet/efcore,C#,4
 69673033,ardalis/CleanArchitecture,C#,7
 28239455,dotnet/AspNetCore.Docs,C#,3
-210716005,dotnet/runtime,C#,8
+210716005,dotnet/runtime,C#,9
 460848,mRemoteNG/mRemoteNG,C#,1
-366663429,jynew/jynew,C#,8
+366663429,jynew/jynew,C#,9
 153711945,dotnet/wpf,C#,4
 778828,MassTransit/MassTransit,C#,3
 187499284,Cysharp/UniTask,C#,9
@@ -17,9 +17,9 @@ id,name,lang,new stars
 153711830,dotnet/winforms,C#,1
 184286875,actions/runner,C#,2
 129934884,dotnet/command-line-api,C#,9
-378147339,bflattened/bflat,C#,96
+378147339,bflattened/bflat,C#,94
 121281189,Unity-Technologies/BoatAttack,C#,4
-88544417,microsoft/Recognizers-Text,C#,12
+88544417,microsoft/Recognizers-Text,C#,11
 354291352,waf/CSharpRepl,C#,12
 17496194,AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet,C#,1
 525643677,blizzless/blizzless-diiis,C#,10
