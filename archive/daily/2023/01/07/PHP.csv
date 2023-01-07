@@ -1,20 +1,20 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,23
+7548986,laravel/framework,PHP,26
 1864363,composer/composer,PHP,7
 1420053,guzzle/guzzle,PHP,2
 448045,sebastianbergmann/phpunit,PHP,2
 1631570,nikic/PHP-Parser,PHP,3
 12615154,barryvdh/laravel-debugbar,PHP,5
-61490598,PHPOffice/PhpSpreadsheet,PHP,4
+61490598,PHPOffice/PhpSpreadsheet,PHP,3
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,4
 49014795,phpstan/phpstan,PHP,6
 41589337,BookStackApp/BookStack,PHP,8
 2884111,magento/magento2,PHP,4
-2699935,squizlabs/PHP_CodeSniffer,PHP,19
+2699935,squizlabs/PHP_CodeSniffer,PHP,22
 1398630,symfony/console,PHP,2
 212659,sebastianbergmann/php-code-coverage,PHP,1
 14346979,snipe/snipe-it,PHP,2
-97311017,rectorphp/rector,PHP,8
+97311017,rectorphp/rector,PHP,7
 74386167,vimeo/psalm,PHP,4
 39182755,glpi-project/glpi,PHP,2
 2686502,pimcore/pimcore,PHP,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 503236212,laravel/pint,PHP,3
 75645659,WordPress/wordpress-develop,PHP,3
 279739423,Licoy/wordpress-theme-puock,PHP,16
-583824425,easychen/stack-roadmap,PHP,53
+583824425,easychen/stack-roadmap,PHP,57
 184538454,yankovalenko94/Webdev2019,PHP,0

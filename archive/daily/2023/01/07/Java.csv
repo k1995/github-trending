@@ -6,7 +6,7 @@ id,name,lang,new stars
 137451403,alibaba/nacos,Java,7
 7587038,alibaba/canal,Java,4
 112785414,alibaba/spring-cloud-alibaba,Java,12
-2211243,apache/kafka,Java,10
+2211243,apache/kafka,Java,9
 55886798,CymChad/BaseRecyclerViewAdapterHelper,Java,3
 163387337,seata/seata,Java,7
 45721011,apache/skywalking,Java,4
@@ -14,13 +14,13 @@ id,name,lang,new stars
 133134007,OpenAPITools/openapi-generator,Java,8
 75277003,thingsboard/thingsboard,Java,10
 335164964,dataease/dataease,Java,10
-46398090,datahub-project/datahub,Java,13
+46398090,datahub-project/datahub,Java,15
 166515022,trinodb/trino,Java,13
-33816473,testcontainers/testcontainers-java,Java,17
-156627365,itwanger/toBeBetterJavaer,Java,189
+33816473,testcontainers/testcontainers-java,Java,16
+156627365,itwanger/toBeBetterJavaer,Java,188
 99412308,apache/incubator-seatunnel,Java,18
 21193524,apache/calcite,Java,2
 142456757,Docile-Alligator/Infinity-For-Reddit,Java,2
 2928948,Azure/azure-sdk-for-java,Java,0
 71030230,wesleyegberto/java-new-features,Java,17
-583335116,ali-bouali/spring-boot-3-jwt-security,Java,14
+583335116,ali-bouali/spring-boot-3-jwt-security,Java,16

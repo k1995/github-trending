@@ -1,13 +1,13 @@
 id,name,lang,new stars
 9384267,electron/electron,C++,19
-100060912,microsoft/terminal,C++,81
-5108051,opencv/opencv,C++,28
-23357588,protocolbuffers/protobuf,C++,55
-27729880,grpc/grpc,C++,13
-11171548,nlohmann/json,C++,21
+100060912,microsoft/terminal,C++,83
+5108051,opencv/opencv,C++,27
+23357588,protocolbuffers/protobuf,C++,57
+27729880,grpc/grpc,C++,14
+11171548,nlohmann/json,C++,20
 12791642,BVLC/caffe,C++,2
-74660642,taichi-dev/taichi,C++,9
-65214191,envoyproxy/envoy,C++,9
+74660642,taichi-dev/taichi,C++,10
+65214191,envoyproxy/envoy,C++,10
 19953044,google/flatbuffers,C++,7
 81227005,facebookresearch/faiss,C++,16
 18503721,facebook/yoga,C++,3
@@ -16,11 +16,11 @@ id,name,lang,new stars
 184657328,NVIDIA/TensorRT,C++,6
 39211337,flutter/engine,C++,6
 244694174,project-chip/connectedhomeip,C++,10
-153097643,openvinotoolkit/openvino,C++,4
+153097643,openvinotoolkit/openvino,C++,3
 6148317,OSGeo/gdal,C++,1
 156228018,cyberbotics/webots,C++,3
 388946490,facebookincubator/velox,C++,5
 153316914,BehaviorTree/BehaviorTree.CPP,C++,0
-388966721,ambrosiogabe/MathAnimation,C++,101
+388966721,ambrosiogabe/MathAnimation,C++,99
 436149041,fmrico/book_ros2,C++,7
 564665408,EmberGL-org/EmberGL,C++,9
