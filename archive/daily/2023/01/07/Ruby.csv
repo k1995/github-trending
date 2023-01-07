@@ -1,15 +1,15 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,6
-7569578,discourse/discourse,Ruby,9
-27442967,fastlane/fastlane,Ruby,1
-53238813,Homebrew/brew,Ruby,19
+8514,rails/rails,Ruby,7
+7569578,discourse/discourse,Ruby,10
+27442967,fastlane/fastlane,Ruby,2
+53238813,Homebrew/brew,Ruby,17
 2500088,gitlabhq/gitlabhq,Ruby,3
 308770,heartcombo/devise,Ruby,1
 73648678,forem/forem,Ruby,4
 538746,ruby/ruby,Ruby,4
-88740103,postalserver/postal,Ruby,7
-3195124,mperham/sidekiq,Ruby,2
-1918677,fluent/fluentd,Ruby,2
+88740103,postalserver/postal,Ruby,10
+3195124,mperham/sidekiq,Ruby,1
+1918677,fluent/fluentd,Ruby,1
 611921,activeadmin/activeadmin,Ruby,3
 8393,thoughtbot/paperclip,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,0
@@ -18,7 +18,7 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,0
 447184,rspec/rspec-rails,Ruby,0
 1314319,instructure/canvas-lms,Ruby,2
-30985840,solidusio/solidus,Ruby,3
+30985840,solidusio/solidus,Ruby,2
 93163073,dependabot/dependabot-core,Ruby,3
 9500075,ytti/oxidized,Ruby,0
 61203,Shopify/shopify_app,Ruby,0
