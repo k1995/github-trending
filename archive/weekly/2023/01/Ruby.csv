@@ -1,11 +1,11 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,61
-53238813,Homebrew/brew,Ruby,113
+65252,jekyll/jekyll,Ruby,60
+53238813,Homebrew/brew,Ruby,115
 2293158,rapid7/metasploit-framework,Ruby,66
 2500088,gitlabhq/gitlabhq,Ruby,12
 308770,heartcombo/devise,Ruby,13
-538746,ruby/ruby,Ruby,23
-88740103,postalserver/postal,Ruby,27
+538746,ruby/ruby,Ruby,25
+88740103,postalserver/postal,Ruby,29
 3314,spree/spree,Ruby,11
 96395,faker-ruby/faker,Ruby,11
 361310,teamcapybara/capybara,Ruby,6
@@ -18,8 +18,8 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,19
 614070,rubygems/rubygems,Ruby,11
 17724730,2factorauth/twofactorauth,Ruby,9
-10088951,TheOdinProject/theodinproject,Ruby,13
-641512,openstreetmap/openstreetmap-website,Ruby,9
+10088951,TheOdinProject/theodinproject,Ruby,14
+641512,openstreetmap/openstreetmap-website,Ruby,8
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,2
 238983,rspec/rspec-mocks,Ruby,1
 136781582,rubocop/rubocop-rails,Ruby,4
