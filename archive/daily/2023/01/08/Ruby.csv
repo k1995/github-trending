@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
-27442967,fastlane/fastlane,Ruby,3
-2293158,rapid7/metasploit-framework,Ruby,4
+8514,rails/rails,Ruby,9
+27442967,fastlane/fastlane,Ruby,4
+2293158,rapid7/metasploit-framework,Ruby,5
 481872,hashicorp/vagrant,Ruby,3
-202291859,chatwoot/chatwoot,Ruby,2
-2203645,CocoaPods/CocoaPods,Ruby,2
+202291859,chatwoot/chatwoot,Ruby,1
+2203645,CocoaPods/CocoaPods,Ruby,3
 88740103,postalserver/postal,Ruby,4
 3195124,mperham/sidekiq,Ruby,0
 96395,faker-ruby/faker,Ruby,2
@@ -12,7 +12,7 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,0
 108278,chef/chef,Ruby,0
 6899875,opf/openproject,Ruby,2
-43347873,danger/danger,Ruby,1
+43347873,danger/danger,Ruby,2
 1314319,instructure/canvas-lms,Ruby,0
 6768710,redmine/redmine,Ruby,0
 103766152,github/explore,Ruby,3
@@ -21,6 +21,6 @@ id,name,lang,new stars
 1953385,stripe/stripe-ruby,Ruby,0
 238972,rspec/rspec-core,Ruby,0
 238983,rspec/rspec-mocks,Ruby,0
-136781582,rubocop/rubocop-rails,Ruby,1
+136781582,rubocop/rubocop-rails,Ruby,0
 1784628,rails/sprockets-rails,Ruby,0
-463648726,Shopify/ruby-lsp,Ruby,3
+463648726,Shopify/ruby-lsp,Ruby,2
