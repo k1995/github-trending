@@ -1,10 +1,10 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,102
-7548986,laravel/framework,PHP,76
+7548986,laravel/framework,PHP,74
 60243197,nextcloud/server,PHP,79
 2889328,WordPress/WordPress,PHP,30
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,22
-49014795,phpstan/phpstan,PHP,19
+49014795,phpstan/phpstan,PHP,20
 41589337,BookStackApp/BookStack,PHP,52
 2884111,magento/magento2,PHP,18
 2699935,squizlabs/PHP_CodeSniffer,PHP,46
@@ -13,14 +13,14 @@ id,name,lang,new stars
 10371103,Laravel-Lang/lang,PHP,22
 14716368,invoiceninja/invoiceninja,PHP,17
 248372441,filamentphp/filament,PHP,73
-119047018,linuxserver/Heimdall,PHP,43
+119047018,linuxserver/Heimdall,PHP,44
 159606650,hyperf/hyperf,PHP,32
-400984450,kuaifan/dootask,PHP,101
-69691727,pmmp/PocketMine-MP,PHP,16
+400984450,kuaifan/dootask,PHP,100
+69691727,pmmp/PocketMine-MP,PHP,17
 39182755,glpi-project/glpi,PHP,12
 2686502,pimcore/pimcore,PHP,8
 307018731,DenverCoder1/github-readme-streak-stats,PHP,43
 29745084,Leantime/leantime,PHP,29
-279739423,Licoy/wordpress-theme-puock,PHP,179
+279739423,Licoy/wordpress-theme-puock,PHP,180
 433383766,nextcloud/all-in-one,PHP,49
-541322916,openai-php/client,PHP,149
+541322916,openai-php/client,PHP,146
