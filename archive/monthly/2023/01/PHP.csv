@@ -1,15 +1,15 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,370
-3482588,danielmiessler/SecLists,PHP,685
-7548986,laravel/framework,PHP,237
+1863329,laravel/laravel,PHP,369
+3482588,danielmiessler/SecLists,PHP,682
+7548986,laravel/framework,PHP,236
 458058,symfony/symfony,PHP,170
 1864363,composer/composer,PHP,136
-4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,85
+4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,86
 2699935,squizlabs/PHP_CodeSniffer,PHP,84
-21298446,firefly-iii/firefly-iii,PHP,209
 6660366,dompdf/dompdf,PHP,89
-12166778,googleapis/google-api-php-client,PHP,47
+10238429,tennc/webshell,PHP,116
 14346979,snipe/snipe-it,PHP,167
+6763587,PrestaShop/PrestaShop,PHP,74
 222873550,crater-invoice/crater,PHP,94
 248372441,filamentphp/filament,PHP,254
 47508644,pterodactyl/panel,PHP,113
@@ -19,8 +19,8 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,55
 400984450,kuaifan/dootask,PHP,167
 14724954,opensourcepos/opensourcepos,PHP,43
-216849756,v2board/v2board,PHP,341
+216849756,v2board/v2board,PHP,342
 307018731,DenverCoder1/github-readme-streak-stats,PHP,147
 279739423,Licoy/wordpress-theme-puock,PHP,206
-433383766,nextcloud/all-in-one,PHP,161
-541322916,openai-php/client,PHP,400
+433383766,nextcloud/all-in-one,PHP,160
+541322916,openai-php/client,PHP,401
