@@ -1,14 +1,14 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,22
+3482588,danielmiessler/SecLists,PHP,27
 2253830,PHPMailer/PHPMailer,PHP,7
-82238168,monicahq/monica,PHP,16
+82238168,monicahq/monica,PHP,17
 1548202,matomo-org/matomo,PHP,6
 49014795,phpstan/phpstan,PHP,3
-2699935,squizlabs/PHP_CodeSniffer,PHP,2
-2141186,opencart/opencart,PHP,5
-248372441,filamentphp/filament,PHP,9
+2699935,squizlabs/PHP_CodeSniffer,PHP,1
+2141186,opencart/opencart,PHP,3
+248372441,filamentphp/filament,PHP,10
 6322699,FreshRSS/FreshRSS,PHP,5
-47508644,pterodactyl/panel,PHP,2
+47508644,pterodactyl/panel,PHP,1
 2464908,joomla/joomla-cms,PHP,5
 57961433,openmediavault/openmediavault,PHP,2
 69691727,pmmp/PocketMine-MP,PHP,2
@@ -16,11 +16,11 @@ id,name,lang,new stars
 216849756,v2board/v2board,PHP,7
 131995661,shopware/platform,PHP,1
 679584,openemr/openemr,PHP,2
-281640234,5ime/video_spider,PHP,1
-143703053,rajkumardusad/IP-Tracer,PHP,5
+281640234,5ime/video_spider,PHP,2
+143703053,rajkumardusad/IP-Tracer,PHP,3
 433383766,nextcloud/all-in-one,PHP,4
 443605948,pablouser1/ProxiTok,PHP,3
-535309783,alexjustesen/speedtest-tracker,PHP,4
+535309783,alexjustesen/speedtest-tracker,PHP,6
 184538454,yankovalenko94/Webdev2019,PHP,1
-565302877,MohmmedAshraf/laravel-translations,PHP,40
-383973614,zhuchunshu/super-forum,PHP,3
+565302877,MohmmedAshraf/laravel-translations,PHP,35
+383973614,zhuchunshu/super-forum,PHP,4
