@@ -1,15 +1,15 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,63
-7569578,discourse/discourse,Ruby,61
-27442967,fastlane/fastlane,Ruby,37
+65252,jekyll/jekyll,Ruby,62
+7569578,discourse/discourse,Ruby,60
+27442967,fastlane/fastlane,Ruby,38
 53238813,Homebrew/brew,Ruby,119
 2293158,rapid7/metasploit-framework,Ruby,73
-2500088,gitlabhq/gitlabhq,Ruby,10
-538746,ruby/ruby,Ruby,30
+2500088,gitlabhq/gitlabhq,Ruby,9
+538746,ruby/ruby,Ruby,33
 2203645,CocoaPods/CocoaPods,Ruby,13
 585285,gollum/gollum,Ruby,16
-88740103,postalserver/postal,Ruby,34
-3314,spree/spree,Ruby,16
+88740103,postalserver/postal,Ruby,36
+3314,spree/spree,Ruby,15
 52855516,Homebrew/homebrew-core,Ruby,34
 96395,faker-ruby/faker,Ruby,12
 361310,teamcapybara/capybara,Ruby,6
@@ -17,7 +17,7 @@ id,name,lang,new stars
 277089,flyerhzm/bullet,Ruby,13
 30985840,solidusio/solidus,Ruby,9
 7050,prawnpdf/prawn,Ruby,0
-103766152,github/explore,Ruby,23
+103766152,github/explore,Ruby,24
 189010173,Hackplayers/evil-winrm,Ruby,21
 10088951,TheOdinProject/theodinproject,Ruby,14
 1953385,stripe/stripe-ruby,Ruby,3
