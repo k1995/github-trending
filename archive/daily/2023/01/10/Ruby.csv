@@ -1,14 +1,14 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,7
-481872,hashicorp/vagrant,Ruby,4
+481872,hashicorp/vagrant,Ruby,5
 18486300,lewagon/setup,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,8
-2203645,CocoaPods/CocoaPods,Ruby,2
+202291859,chatwoot/chatwoot,Ruby,7
+2203645,CocoaPods/CocoaPods,Ruby,1
 138312,capistrano/capistrano,Ruby,2
-3195124,mperham/sidekiq,Ruby,2
+3195124,mperham/sidekiq,Ruby,3
 4095287,rubocop/rubocop,Ruby,1
 1918677,fluent/fluentd,Ruby,2
-15435,Shopify/liquid,Ruby,5
+15435,Shopify/liquid,Ruby,7
 812393,ruby-grape/grape,Ruby,1
 611921,activeadmin/activeadmin,Ruby,0
 810796,railsadminteam/rails_admin,Ruby,1
@@ -17,10 +17,10 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,3
 1314319,instructure/canvas-lms,Ruby,3
 137805,redis/redis-rb,Ruby,1
-93163073,dependabot/dependabot-core,Ruby,7
+93163073,dependabot/dependabot-core,Ruby,6
 7362671,rails/spring,Ruby,0
 70830890,bigbluebutton/greenlight,Ruby,0
-586265895,rails/mrsk,Ruby,136
+586265895,rails/mrsk,Ruby,130
 66497320,DataDog/dd-trace-rb,Ruby,1
-585707405,the-teacher/rails7-startkit,Ruby,36
+585707405,the-teacher/rails7-startkit,Ruby,34
 375363780,learn-co-curriculum/project-template-react-rails-api,Ruby,0
