@@ -1,6 +1,6 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,305
-54346799,public-apis/public-apis,Python,174
+60493101,jwasham/coding-interview-university,,282
+54346799,public-apis/public-apis,Python,135
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,245
 180328715,pmndrs/zustand,TypeScript,64
 145670234,open-mmlab/mmdetection,Python,15
@@ -10,16 +10,16 @@ id,name,lang,new stars
 504215082,sismo-core/sismo-protocol,TypeScript,3182
 198350484,microsoft/unilm,Python,136
 468576060,openai/openai-cookbook,Python,1003
-168712350,Snapchat/KeyDB,C++,141
+168712350,Snapchat/KeyDB,C++,140
 89033556,firebase/firebase-ios-sdk,Objective-C,3
-73989054,JuanCrg90/Clean-Code-Notes,,601
-405139301,EddieHubCommunity/LinkFree,JavaScript,115
-573538566,danielgross/whatsapp-gpt,Go,134
+73989054,JuanCrg90/Clean-Code-Notes,,578
+405139301,EddieHubCommunity/LinkFree,JavaScript,116
+573538566,danielgross/whatsapp-gpt,Go,138
 355360954,aws-ia/terraform-aws-eks-blueprints,HCL,8
 574162425,gragland/chatgpt-chrome-extension,JavaScript,117
 586427117,amitshekhariitbhu/go-backend-clean-architecture,Go,67
 586449743,Nutlope/restorePhotos,TypeScript,173
-586265895,rails/mrsk,Ruby,67
+586265895,rails/mrsk,Ruby,59
 543149227,pointfreeco/swift-dependencies,Swift,71
 586456569,matteozappia/DynamicCow,Objective-C,21
 576304071,HydroniumLabs/h3o,Rust,15
