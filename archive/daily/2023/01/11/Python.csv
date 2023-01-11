@@ -2,7 +2,7 @@ id,name,lang,new stars
 54346799,public-apis/public-apis,Python,241
 83222441,donnemartin/system-design-primer,Python,202
 155220641,huggingface/transformers,Python,86
-4164482,django/django,Python,29
+4164482,django/django,Python,30
 160919119,tiangolo/fastapi,Python,41
 264818686,ultralytics/yolov5,Python,64
 33884891,apache/airflow,Python,26
@@ -13,7 +13,7 @@ id,name,lang,new stars
 363150,redis/redis-py,Python,12
 24043280,sshuttle/sshuttle,Python,9
 321659062,iperov/DeepFaceLive,Python,14
-1885237,statsmodels/statsmodels,Python,4
+1885237,statsmodels/statsmodels,Python,7
 198350484,microsoft/unilm,Python,136
 167694194,blakeblackshear/frigate,Python,24
 468576060,openai/openai-cookbook,Python,1003
