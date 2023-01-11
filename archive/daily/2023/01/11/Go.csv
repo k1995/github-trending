@@ -1,0 +1,26 @@
+id,name,lang,new stars
+17728164,hashicorp/terraform,Go,13
+14125254,hashicorp/consul,Go,9
+135516270,k3s-io/k3s,Go,18
+165041732,go-kratos/kratos,Go,13
+27729907,grpc/grpc-go,Go,8
+180687624,aquasecurity/trivy,Go,26
+66841911,qax-os/excelize,Go,85
+16554739,elastic/beats,Go,1
+311315731,XTLS/Xray-core,Go,34
+77726177,trufflesecurity/trufflehog,Go,14
+19537979,TykTechnologies/tyk,Go,19
+359419233,kubeshark/kubeshark,Go,23
+146641150,tektoncd/pipeline,Go,2
+170411418,kedacore/keda,Go,7
+92132038,kubernetes-sigs/metrics-server,Go,3
+299832860,livekit/livekit,Go,7
+187086161,open-telemetry/opentelemetry-go,Go,5
+584556174,sourcegraph/conc,Go,199
+491539130,cloudwego/hertz,Go,21
+573982889,m1guelpf/chatgpt-telegram,Go,20
+102390943,google/cel-spec,Go,5
+573538566,danielgross/whatsapp-gpt,Go,140
+228925870,open-telemetry/opentelemetry-operator,Go,3
+149336667,kubernetes-csi/csi-driver-nfs,Go,3
+479703538,utkusen/socialhunter,Go,5
