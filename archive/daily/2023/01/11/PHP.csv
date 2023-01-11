@@ -1,14 +1,14 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,8
 2253830,PHPMailer/PHPMailer,PHP,2
-82238168,monicahq/monica,PHP,7
+82238168,monicahq/monica,PHP,8
 1548202,matomo-org/matomo,PHP,5
-12615154,barryvdh/laravel-debugbar,PHP,4
+12615154,barryvdh/laravel-debugbar,PHP,3
 14259390,SpartnerNL/Laravel-Excel,PHP,2
 11340559,deployphp/deployer,PHP,4
 597887,doctrine/orm,PHP,4
-5550552,owncloud/core,PHP,0
-14346979,snipe/snipe-it,PHP,7
+5550552,owncloud/core,PHP,2
+14346979,snipe/snipe-it,PHP,9
 2717549,Sylius/Sylius,PHP,3
 9791525,digininja/DVWA,PHP,3
 10883164,barryvdh/laravel-dompdf,PHP,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 34407154,cweagans/composer-patches,PHP,2
 17167136,simplesamlphp/simplesamlphp,PHP,0
 5367323,akeneo/pim-community-dev,PHP,0
-565302877,MohmmedAshraf/laravel-translations,PHP,19
+565302877,MohmmedAshraf/laravel-translations,PHP,18
