@@ -3,15 +3,15 @@ id,name,lang,new stars
 413918947,vercel/turbo,Rust,43
 268424739,helix-editor/helix,Rust,47
 146327667,vectordotdev/vector,Rust,16
-247725846,extrawurst/gitui,Rust,37
-61349723,casey/just,Rust,224
+247725846,extrawurst/gitui,Rust,36
+61349723,casey/just,Rust,223
 73169350,fdehau/tui-rs,Rust,21
 109872620,paritytech/substrate,Rust,1
-523043277,charliermarsh/ruff,Rust,122
+523043277,charliermarsh/ruff,Rust,121
 205042455,ClementTsang/bottom,Rust,8
 178597005,FyroxEngine/Fyrox,Rust,44
 43192623,rust-lang/rustup,Rust,6
-575340621,lencx/ChatGPT,Rust,102
+575340621,lencx/ChatGPT,Rust,103
 268163609,qdrant/qdrant,Rust,14
 299354666,rustdesk/rustdesk-server,Rust,6
 113404957,kata-containers/kata-containers,Rust,9
@@ -22,5 +22,5 @@ id,name,lang,new stars
 537233603,paradigmxyz/reth,Rust,9
 255966443,linebender/vello,Rust,17
 424598738,apollographql/router,Rust,4
-576304071,HydroniumLabs/h3o,Rust,26
+576304071,HydroniumLabs/h3o,Rust,37
 586709996,0xlane/ppspoofing,Rust,4

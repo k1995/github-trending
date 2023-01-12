@@ -1,12 +1,12 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,381
 3482588,danielmiessler/SecLists,PHP,681
-7548986,laravel/framework,PHP,243
+7548986,laravel/framework,PHP,242
 458058,symfony/symfony,PHP,172
 1864363,composer/composer,PHP,134
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,92
-2884111,magento/magento2,PHP,60
-2699935,squizlabs/PHP_CodeSniffer,PHP,82
+2884111,magento/magento2,PHP,61
+2699935,squizlabs/PHP_CodeSniffer,PHP,84
 12166778,googleapis/google-api-php-client,PHP,47
 14346979,snipe/snipe-it,PHP,172
 222873550,crater-invoice/crater,PHP,99
@@ -15,7 +15,7 @@ id,name,lang,new stars
 129829848,pixelfed/pixelfed,PHP,199
 2464908,joomla/joomla-cms,PHP,38
 70239358,cytopia/devilbox,PHP,81
-1957456,Dolibarr/dolibarr,PHP,63
+1957456,Dolibarr/dolibarr,PHP,65
 400984450,kuaifan/dootask,PHP,182
 69691727,pmmp/PocketMine-MP,PHP,38
 216849756,v2board/v2board,PHP,347
