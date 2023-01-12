@@ -1,19 +1,19 @@
 id,name,lang,new stars
 20580498,kubernetes/kubernetes,Go,40
-20904437,gin-gonic/gin,Go,20
+20904437,gin-gonic/gin,Go,23
 14125254,hashicorp/consul,Go,4
 13628513,sirupsen/logrus,Go,11
 26337322,rancher/rancher,Go,9
 54400687,grafana/k6,Go,23
-27729907,grpc/grpc-go,Go,4
+27729907,grpc/grpc-go,Go,3
 5179099,go-redis/redis,Go,9
 33352201,grpc-ecosystem/grpc-gateway,Go,5
 66841911,qax-os/excelize,Go,81
 36960321,opencontainers/runc,Go,4
 184490584,GoogleCloudPlatform/terraformer,Go,12
 21306961,fsnotify/fsnotify,Go,4
-50629145,google/pprof,Go,6
-215654064,temporalio/temporal,Go,14
+50629145,google/pprof,Go,7
+215654064,temporalio/temporal,Go,16
 71133469,reviewdog/reviewdog,Go,10
 318476701,containerd/nerdctl,Go,12
 31333618,shopspring/decimal,Go,7
