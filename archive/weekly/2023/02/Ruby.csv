@@ -1,13 +1,13 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,52
-27442967,fastlane/fastlane,Ruby,132
-53238813,Homebrew/brew,Ruby,98
-308770,heartcombo/devise,Ruby,17
-538746,ruby/ruby,Ruby,29
+65252,jekyll/jekyll,Ruby,53
+27442967,fastlane/fastlane,Ruby,133
+53238813,Homebrew/brew,Ruby,99
+308770,heartcombo/devise,Ruby,18
+538746,ruby/ruby,Ruby,28
 585285,gollum/gollum,Ruby,19
-138312,capistrano/capistrano,Ruby,7
-88740103,postalserver/postal,Ruby,36
-3195124,mperham/sidekiq,Ruby,13
+138312,capistrano/capistrano,Ruby,8
+88740103,postalserver/postal,Ruby,37
+3195124,mperham/sidekiq,Ruby,15
 15435,Shopify/liquid,Ruby,18
 361310,teamcapybara/capybara,Ruby,2
 2441517,puma/puma,Ruby,7
@@ -21,6 +21,6 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,20
 7362671,rails/spring,Ruby,3
 238983,rspec/rspec-mocks,Ruby,2
-463648726,Shopify/ruby-lsp,Ruby,31
+463648726,Shopify/ruby-lsp,Ruby,25
 66497320,DataDog/dd-trace-rb,Ruby,1
 279271772,DataDog/datadog-api-client-ruby,Ruby,0
