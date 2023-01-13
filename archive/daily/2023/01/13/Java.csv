@@ -1,8 +1,8 @@
 id,name,lang,new stars
-6296790,spring-projects/spring-boot,Java,17
+6296790,spring-projects/spring-boot,Java,19
 206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,248
 7508411,ReactiveX/RxJava,Java,7
-173228436,NationalSecurityAgency/ghidra,Java,15
+173228436,NationalSecurityAgency/ghidra,Java,18
 20587599,apache/flink,Java,9
 20818126,google/ExoPlayer,Java,1
 20773773,bazelbuild/bazel,Java,11
@@ -12,8 +12,8 @@ id,name,lang,new stars
 65885,aosp-mirror/platform_frameworks_base,Java,1
 283046497,airbytehq/airbyte,Java,16
 12499251,checkstyle/checkstyle,Java,5
-1051476,plantuml/plantuml,Java,14
-334274271,opensearch-project/OpenSearch,Java,5
+1051476,plantuml/plantuml,Java,16
+334274271,opensearch-project/OpenSearch,Java,4
 961036,hibernate/hibernate-orm,Java,4
 8686380,j-easy/easy-rules,Java,4
 2019791,liquibase/liquibase,Java,5

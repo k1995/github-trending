@@ -2,10 +2,10 @@ id,name,lang,new stars
 42408804,traefik/traefik,Go,23
 72495579,go-gitea/gitea,Go,21
 163883279,nektos/act,Go,46
-59239347,portainer/portainer,Go,9
+59239347,portainer/portainer,Go,7
 66841911,qax-os/excelize,Go,22
 6443435,nats-io/nats-server,Go,8
-120896210,argoproj/argo-cd,Go,12
+120896210,argoproj/argo-cd,Go,11
 134012064,pion/webrtc,Go,13
 146641150,tektoncd/pipeline,Go,0
 9120526,jackc/pgx,Go,2
@@ -15,12 +15,12 @@ id,name,lang,new stars
 440752086,coder/coder,Go,8
 538130130,thangchung/go-coffeeshop,Go,9
 311639195,karmada-io/karmada,Go,7
-57912964,kubernetes/enhancements,Go,26
+57912964,kubernetes/enhancements,Go,27
 177210627,docker/buildx,Go,4
 247714750,zitadel/zitadel,Go,47
 313628863,external-secrets/external-secrets,Go,8
 96004375,aws/aws-sdk-go-v2,Go,10
 102390943,google/cel-spec,Go,2
-573538566,danielgross/whatsapp-gpt,Go,121
+573538566,danielgross/whatsapp-gpt,Go,85
 586427117,amitshekhariitbhu/go-backend-clean-architecture,Go,403
 480573177,envoyproxy/gateway,Go,2
