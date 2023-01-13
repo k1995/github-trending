@@ -1,18 +1,18 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,17
-27442967,fastlane/fastlane,Ruby,6
+7569578,discourse/discourse,Ruby,16
+27442967,fastlane/fastlane,Ruby,4
 13840241,freeCodeCamp/devdocs,Ruby,16
-481872,hashicorp/vagrant,Ruby,6
+481872,hashicorp/vagrant,Ruby,4
 308770,heartcombo/devise,Ruby,3
 3623050,Homebrew/homebrew-cask,Ruby,7
-202291859,chatwoot/chatwoot,Ruby,7
-138312,capistrano/capistrano,Ruby,4
-3195124,mperham/sidekiq,Ruby,4
-4095287,rubocop/rubocop,Ruby,1
+202291859,chatwoot/chatwoot,Ruby,8
+138312,capistrano/capistrano,Ruby,3
+3195124,mperham/sidekiq,Ruby,2
+4095287,rubocop/rubocop,Ruby,0
 812393,ruby-grape/grape,Ruby,0
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,3
-22059578,ankane/pghero,Ruby,4
-211588,paper-trail-gem/paper_trail,Ruby,1
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,5
+22059578,ankane/pghero,Ruby,2
+211588,paper-trail-gem/paper_trail,Ruby,0
 1548802,activerecord-hackery/ransack,Ruby,0
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
 30985840,solidusio/solidus,Ruby,2
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,1
 29151578,rswag/rswag,Ruby,0
 3064003,pglombardo/PasswordPusher,Ruby,0
-585707405,the-teacher/rails7-startkit,Ruby,12
+585707405,the-teacher/rails7-startkit,Ruby,9
