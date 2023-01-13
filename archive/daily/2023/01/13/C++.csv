@@ -7,12 +7,12 @@ id,name,lang,new stars
 1062572,catchorg/Catch2,C++,6
 7056202,fmtlib/fmt,C++,12
 48009214,microsoft/react-native-windows,C++,3
-86897963,ZLMediaKit/ZLMediaKit,C++,9
-146459443,vesoft-inc/nebula,C++,3
+86897963,ZLMediaKit/ZLMediaKit,C++,10
+146459443,vesoft-inc/nebula,C++,2
 5909706,yhirose/cpp-httplib,C++,13
 156939672,microsoft/onnxruntime,C++,8
 50255244,raulmur/ORB_SLAM2,C++,2
-168712350,Snapchat/KeyDB,C++,48
+168712350,Snapchat/KeyDB,C++,44
 184657328,NVIDIA/TensorRT,C++,6
 223904726,wang-xinyu/tensorrtx,C++,2
 14983921,srsran/srsRAN,C++,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 354138793,NVIDIA/FasterTransformer,C++,7
 135363400,ros-planning/navigation2,C++,0
 356055024,tensorflow/tflite-micro,C++,2
-410126695,R3nzTheCodeGOD/R3nzSkin,C++,19
+410126695,R3nzTheCodeGOD/R3nzSkin,C++,20
 584967393,CN-Belief/MIUI-,C++,14
