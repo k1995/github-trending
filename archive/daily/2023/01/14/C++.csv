@@ -3,12 +3,12 @@ id,name,lang,new stars
 65600975,pytorch/pytorch,C++,29
 22067521,ocornut/imgui,C++,34
 27729880,grpc/grpc,C++,14
-11171548,nlohmann/json,C++,16
+11171548,nlohmann/json,C++,19
 311683390,WerWolv/ImHex,C++,262
 1062572,catchorg/Catch2,C++,7
 7056202,fmtlib/fmt,C++,9
 149111813,Tencent/MMKV,C++,5
-51905353,apache/arrow,C++,9
+51905353,apache/arrow,C++,8
 108102826,carla-simulator/carla,C++,5
 138754790,duckdb/duckdb,C++,10
 153097643,openvinotoolkit/openvino,C++,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 356055024,tensorflow/tflite-micro,C++,0
 337131215,Soreepeong/XivAlexander,C++,2
 324569839,YimMenu/YimMenu,C++,1
-587377595,Wh04m1001/CVE-2023-21752,C++,14
+587377595,Wh04m1001/CVE-2023-21752,C++,11
 587499842,rhasspy/larynx2,C++,4
