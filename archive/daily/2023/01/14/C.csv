@@ -1,17 +1,17 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,181
+2325298,torvalds/linux,C,179
 37912398,nginx/nginx,C,9
 184981,memcached/memcached,C,3
 394318710,valinet/ExplorerPatcher,C,26
 65899476,espressif/esp-idf,C,7
 1856976,libevent/libevent,C,5
 35930805,EZLippi/Tinyhttpd,C,7
-39242894,coturn/coturn,C,6
+39242894,coturn/coturn,C,5
 75811015,Tencent/xLua,C,3
 50874442,citusdata/citus,C,6
 59771425,zephyrproject-rtos/zephyr,C,4
 16734696,meetecho/janus-gateway,C,1
-6376337,pocoproject/poco,C,3
+6376337,pocoproject/poco,C,2
 186749,nodejs/http-parser,C,4
 673267,redis/hiredis,C,4
 1660127,neutrinolabs/xrdp,C,4
