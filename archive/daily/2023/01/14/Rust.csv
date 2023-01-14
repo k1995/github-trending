@@ -7,12 +7,12 @@ id,name,lang,new stars
 107505869,firecracker-microvm/firecracker,Rust,12
 268424739,helix-editor/helix,Rust,56
 149026292,cube-js/cube.js,Rust,5
-146327667,vectordotdev/vector,Rust,80
+146327667,vectordotdev/vector,Rust,38
 166045424,Schniz/fnm,Rust,18
 17420913,rust-lang/cargo,Rust,9
 523043277,charliermarsh/ruff,Rust,104
-404320053,foundry-rs/foundry,Rust,11
-575340621,lencx/ChatGPT,Rust,90
+404320053,foundry-rs/foundry,Rust,8
+575340621,lencx/ChatGPT,Rust,98
 268163609,qdrant/qdrant,Rust,21
 165289175,tokio-rs/tracing,Rust,7
 299354666,rustdesk/rustdesk-server,Rust,26
@@ -21,6 +21,6 @@ id,name,lang,new stars
 496605552,sigoden/dufs,Rust,14
 480592723,move-language/move,Rust,5
 358917250,apache/arrow-rs,Rust,1
-490055087,Barre/privaxy,Rust,27
-547270634,tweedegolf/101-rs,Rust,401
+490055087,Barre/privaxy,Rust,26
+547270634,tweedegolf/101-rs,Rust,256
 424598738,apollographql/router,Rust,2

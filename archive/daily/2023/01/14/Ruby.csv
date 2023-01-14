@@ -1,13 +1,13 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,15
+7569578,discourse/discourse,Ruby,9
 27442967,fastlane/fastlane,Ruby,3
 13840241,freeCodeCamp/devdocs,Ruby,18
 481872,hashicorp/vagrant,Ruby,2
 308770,heartcombo/devise,Ruby,3
-3623050,Homebrew/homebrew-cask,Ruby,4
+3623050,Homebrew/homebrew-cask,Ruby,3
 202291859,chatwoot/chatwoot,Ruby,9
 138312,capistrano/capistrano,Ruby,0
-3195124,mperham/sidekiq,Ruby,2
+3195124,mperham/sidekiq,Ruby,1
 4095287,rubocop/rubocop,Ruby,2
 812393,ruby-grape/grape,Ruby,0
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,4
@@ -15,12 +15,12 @@ id,name,lang,new stars
 211588,paper-trail-gem/paper_trail,Ruby,0
 1548802,activerecord-hackery/ransack,Ruby,0
 2802565,doorkeeper-gem/doorkeeper,Ruby,0
-30985840,solidusio/solidus,Ruby,2
-93163073,dependabot/dependabot-core,Ruby,3
+30985840,solidusio/solidus,Ruby,1
+93163073,dependabot/dependabot-core,Ruby,2
 14238949,elastic/elasticsearch-rails,Ruby,0
 1175581,citation-style-language/styles,Ruby,1
-200302808,ViewComponent/view_component,Ruby,1
+200302808,ViewComponent/view_component,Ruby,2
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,2
 29151578,rswag/rswag,Ruby,0
 3064003,pglombardo/PasswordPusher,Ruby,0
-585707405,the-teacher/rails7-startkit,Ruby,4
+585707405,the-teacher/rails7-startkit,Ruby,3
