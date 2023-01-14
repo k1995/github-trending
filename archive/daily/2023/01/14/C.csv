@@ -4,12 +4,12 @@ id,name,lang,new stars
 184981,memcached/memcached,C,3
 394318710,valinet/ExplorerPatcher,C,26
 65899476,espressif/esp-idf,C,7
-1856976,libevent/libevent,C,5
-35930805,EZLippi/Tinyhttpd,C,7
+1856976,libevent/libevent,C,4
+35930805,EZLippi/Tinyhttpd,C,5
 39242894,coturn/coturn,C,5
 75811015,Tencent/xLua,C,3
-50874442,citusdata/citus,C,6
-59771425,zephyrproject-rtos/zephyr,C,4
+50874442,citusdata/citus,C,5
+59771425,zephyrproject-rtos/zephyr,C,3
 16734696,meetecho/janus-gateway,C,1
 6376337,pocoproject/poco,C,2
 186749,nodejs/http-parser,C,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 7966650,Gnucash/gnucash,C,2
 82754556,Bodmer/TFT_eSPI,C,2
 118424053,greenbone/openvas-scanner,C,1
-142917961,flutter/codelabs,C,5
+142917961,flutter/codelabs,C,6
 294412004,kiddin9/openwrt-packages,C,2
 507678095,BrightDaniel/alx-low_level_programming,C,0
 148534714,bdbaraban/holbertonschool-low_level_programming,C,1
