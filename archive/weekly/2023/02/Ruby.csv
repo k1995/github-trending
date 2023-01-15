@@ -1,5 +1,5 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,57
+65252,jekyll/jekyll,Ruby,56
 7569578,discourse/discourse,Ruby,77
 27442967,fastlane/fastlane,Ruby,138
 308770,heartcombo/devise,Ruby,19
@@ -7,11 +7,11 @@ id,name,lang,new stars
 202291859,chatwoot/chatwoot,Ruby,53
 585285,gollum/gollum,Ruby,21
 138312,capistrano/capistrano,Ruby,11
-15435,Shopify/liquid,Ruby,21
-361310,teamcapybara/capybara,Ruby,4
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,39
+15435,Shopify/liquid,Ruby,22
+361310,teamcapybara/capybara,Ruby,6
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,41
 22059578,ankane/pghero,Ruby,15
-535266,vcr/vcr,Ruby,6
+535266,vcr/vcr,Ruby,7
 2889230,rails-api/active_model_serializers,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,4
 1314319,instructure/canvas-lms,Ruby,13

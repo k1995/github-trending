@@ -1,0 +1,26 @@
+id,name,lang,new stars
+11225014,etcd-io/etcd,Go,12
+13124802,influxdata/influxdb,Go,10
+12080551,tsenart/vegeta,Go,6
+26337322,rancher/rancher,Go,4
+44498957,valyala/fasthttp,Go,4
+205679232,flipped-aurora/gin-vue-admin,Go,8
+100982449,argoproj/argo-workflows,Go,4
+30711774,go-playground/validator,Go,7
+148545807,kubernetes-sigs/kind,Go,4
+106704041,cosmtrek/air,Go,9
+403020531,abiosoft/colima,Go,29
+12332444,onsi/ginkgo,Go,5
+81497153,kubernetes-sigs/external-dns,Go,3
+111455867,smartcontractkit/chainlink,Go,8
+262126497,anchore/syft,Go,4
+187086161,open-telemetry/opentelemetry-go,Go,2
+57912964,kubernetes/enhancements,Go,4
+185861173,open-telemetry/opentelemetry-collector,Go,2
+562778457,runfinch/finch,Go,10
+188836864,ledgerwatch/erigon,Go,2
+573538566,danielgross/whatsapp-gpt,Go,95
+96004375,aws/aws-sdk-go-v2,Go,3
+224021526,grafana/agent,Go,6
+488805603,RaymondCode/simple-demo,Go,6
+573886375,Apipost-Team/runnerGo,Go,4
