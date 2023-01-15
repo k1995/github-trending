@@ -1,5 +1,5 @@
 id,name,lang,new stars
-11225014,etcd-io/etcd,Go,13
+11225014,etcd-io/etcd,Go,12
 13124802,influxdata/influxdb,Go,10
 12080551,tsenart/vegeta,Go,6
 26337322,rancher/rancher,Go,4
@@ -17,7 +17,7 @@ id,name,lang,new stars
 187086161,open-telemetry/opentelemetry-go,Go,2
 57912964,kubernetes/enhancements,Go,4
 185861173,open-telemetry/opentelemetry-collector,Go,2
-562778457,runfinch/finch,Go,11
+562778457,runfinch/finch,Go,10
 188836864,ledgerwatch/erigon,Go,2
 573538566,danielgross/whatsapp-gpt,Go,99
 96004375,aws/aws-sdk-go-v2,Go,3
