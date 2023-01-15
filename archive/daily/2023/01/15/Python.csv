@@ -6,8 +6,8 @@ id,name,lang,new stars
 1460385,scipy/scipy,Python,9
 91948540,ranaroussi/yfinance,Python,15
 66474729,prowler-cloud/prowler,Python,6
-428292281,Sanster/lama-cleaner,Python,170
-72523920,cupy/cupy,Python,6
+428292281,Sanster/lama-cleaner,Python,163
+72523920,cupy/cupy,Python,7
 209120637,Netflix/metaflow,Python,5
 344554014,TomSchimansky/CustomTkinter,Python,27
 272133018,open-mmlab/mmsegmentation,Python,5
@@ -15,11 +15,11 @@ id,name,lang,new stars
 147583941,crytic/slither,Python,6
 278003645,open-mmlab/mmpose,Python,18
 505667511,sczhou/CodeFormer,Python,297
-535360445,ultralytics/ultralytics,Python,246
+535360445,ultralytics/ultralytics,Python,244
 560704231,jerryjliu/gpt_index,Python,162
 137219689,githubharald/SimpleHTR,Python,5
 441467833,open-mmlab/mmdeploy,Python,3
-218478064,oegedijk/explainerdashboard,Python,5
+218478064,oegedijk/explainerdashboard,Python,7
 554807775,facebookresearch/encodec,Python,32
 508972059,huggingface/setfit,Python,3
 528938203,vpei/Free-TVUrl-Merge,Python,5
