@@ -5,13 +5,13 @@ id,name,lang,new stars
 122734569,iawia002/lux,Go,9
 510607652,pocketbase/pocketbase,Go,49
 165041732,go-kratos/kratos,Go,4
-19205896,restic/restic,Go,15
+19205896,restic/restic,Go,16
 62712899,AdguardTeam/AdGuardHome,Go,42
 21233191,ipfs/kubo,Go,3
 33258973,influxdata/telegraf,Go,4
 311315731,XTLS/Xray-core,Go,29
 533087958,terrastruct/d2,Go,29
-140457254,OWASP/Amass,Go,4
+140457254,OWASP/Amass,Go,6
 135321861,ory/kratos,Go,2
 52481933,navidrome/navidrome,Go,13
 392596825,ddosify/ddosify,Go,26
@@ -19,7 +19,7 @@ id,name,lang,new stars
 79585104,matrix-org/dendrite,Go,6
 188836864,ledgerwatch/erigon,Go,2
 280658081,v2fly/domain-list-community,Go,4
-573538566,danielgross/whatsapp-gpt,Go,66
+573538566,danielgross/whatsapp-gpt,Go,62
 226368338,evcc-io/evcc,Go,5
 470423624,wangkechun/go-by-example,Go,45
 410897288,OffchainLabs/nitro,Go,2

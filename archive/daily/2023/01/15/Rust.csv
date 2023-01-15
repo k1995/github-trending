@@ -1,9 +1,9 @@
 id,name,lang,new stars
-133442384,denoland/deno,Rust,15
+133442384,denoland/deno,Rust,21
 724712,rust-lang/rust,Rust,42
-299354207,rustdesk/rustdesk,Rust,37
+299354207,rustdesk/rustdesk,Rust,35
 178991158,starship/starship,Rust,43
-121898717,dani-garcia/vaultwarden,Rust,51
+121898717,dani-garcia/vaultwarden,Rust,33
 234798675,bevyengine/bevy,Rust,30
 54168759,SergioBenitez/Rocket,Rust,12
 268424739,helix-editor/helix,Rust,43
@@ -12,15 +12,15 @@ id,name,lang,new stars
 14164618,tree-sitter/tree-sitter,Rust,15
 31315121,clap-rs/clap,Rust,12
 41609775,diesel-rs/diesel,Rust,9
-372172254,tokio-rs/axum,Rust,14
-25250913,shadowsocks/shadowsocks-rust,Rust,3
+372172254,tokio-rs/axum,Rust,15
+25250913,shadowsocks/shadowsocks-rust,Rust,4
 121253762,rustwasm/wasm-pack,Rust,4
-462597790,aptos-labs/aptos-core,Rust,5
+462597790,aptos-labs/aptos-core,Rust,6
 575340621,lencx/ChatGPT,Rust,87
-519882617,leptos-rs/leptos,Rust,77
+519882617,leptos-rs/leptos,Rust,83
 57920736,rustls/rustls,Rust,7
 150246564,google/evcxr,Rust,71
-73012103,serenity-rs/serenity,Rust,1
-547270634,tweedegolf/101-rs,Rust,147
+73012103,serenity-rs/serenity,Rust,3
+547270634,tweedegolf/101-rs,Rust,164
 552877440,juspay/hyperswitch,Rust,252
-318309289,WerWolv/ImHex-Patterns,Rust,6
+318309289,WerWolv/ImHex-Patterns,Rust,9
