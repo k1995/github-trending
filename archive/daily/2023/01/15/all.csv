@@ -1,11 +1,11 @@
 id,name,lang,new stars
 35955666,jlevy/the-art-of-command-line,,176
 74791366,ryanmcdermott/clean-code-javascript,JavaScript,80
-32484381,ripienaar/free-for-dev,HTML,112
-246335987,ventoy/Ventoy,C,62
+32484381,ripienaar/free-for-dev,HTML,115
+246335987,ventoy/Ventoy,C,70
 20619036,pi-hole/pi-hole,Shell,134
-108761645,nocodb/nocodb,TypeScript,51
-67702184,topjohnwu/Magisk,C++,39
+108761645,nocodb/nocodb,TypeScript,63
+67702184,topjohnwu/Magisk,C++,40
 269336148,sickcodes/Docker-OSX,Shell,404
 233472199,massgravel/Microsoft-Activation-Scripts,Batchfile,356
 268424739,helix-editor/helix,Rust,58
@@ -17,10 +17,10 @@ id,name,lang,new stars
 473309164,open-duelyst/duelyst,JavaScript,260
 568268698,Slackadays/Clipboard,C++,213
 573538566,danielgross/whatsapp-gpt,Go,62
-565661866,elk-zone/elk,Vue,217
-547270634,tweedegolf/101-rs,Rust,205
+565661866,elk-zone/elk,Vue,204
+547270634,tweedegolf/101-rs,Rust,215
 580880797,cloudflare/wildebeest,TypeScript,115
-552877440,juspay/hyperswitch,Rust,267
+552877440,juspay/hyperswitch,Rust,248
 584639396,ai-collection/ai-collection,,91
 575658300,ehulinsky/AnalogChess,Python,59
 585443901,jucasoliveira/terminalGPT,JavaScript,41
