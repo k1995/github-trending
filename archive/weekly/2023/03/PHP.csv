@@ -1,19 +1,19 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,101
-7548986,laravel/framework,PHP,81
+7548986,laravel/framework,PHP,80
 2253830,PHPMailer/PHPMailer,PHP,28
 1548202,matomo-org/matomo,PHP,44
 41589337,BookStackApp/BookStack,PHP,67
 11340559,deployphp/deployer,PHP,27
-677464,doctrine/dbal,PHP,18
+677464,doctrine/dbal,PHP,19
 2179920,woocommerce/woocommerce,PHP,17
-2717549,Sylius/Sylius,PHP,14
+2717549,Sylius/Sylius,PHP,13
 97311017,rectorphp/rector,PHP,42
-248372441,filamentphp/filament,PHP,66
-174200859,inertiajs/inertia,PHP,62
+248372441,filamentphp/filament,PHP,67
+174200859,inertiajs/inertia,PHP,63
 41463886,codeigniter4/CodeIgniter4,PHP,23
-2464908,joomla/joomla-cms,PHP,16
-141720301,dr5hn/countries-states-cities-database,PHP,49
+2464908,joomla/joomla-cms,PHP,15
+141720301,dr5hn/countries-states-cities-database,PHP,50
 885517,doctrine-extensions/DoctrineExtensions,PHP,6
 29126334,EasyCorp/EasyAdminBundle,PHP,14
 111562942,statamic/cms,PHP,19
@@ -21,6 +21,6 @@ id,name,lang,new stars
 29501260,api-platform/core,PHP,7
 138328462,freescout-helpdesk/freescout,PHP,20
 281640234,5ime/video_spider,PHP,24
-582059828,youshandefeiyang/IPTV,PHP,151
+582059828,youshandefeiyang/IPTV,PHP,157
 516667071,protonemedia/laravel-splade,PHP,26
 440520058,orhanerday/open-ai,PHP,52
