@@ -1,9 +1,9 @@
 id,name,lang,new stars
-12888993,home-assistant/core,Python,16
+12888993,home-assistant/core,Python,18
 307260205,yt-dlp/yt-dlp,Python,54
 136026789,iperov/DeepFaceLab,Python,25
-4086616,shadowsocks/shadowsocks,Python,1
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,156
+4086616,shadowsocks/shadowsocks,Python,2
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,164
 349321229,TencentARC/GFPGAN,Python,23
 196760810,Ebazhanov/linkedin-skill-assessments-quizzes,Python,41
 10332822,kovidgoyal/calibre,Python,13
@@ -11,16 +11,16 @@ id,name,lang,new stars
 112070198,KurtBestor/Hitomi-Downloader,Python,8
 640534,sympy/sympy,Python,2
 216525919,biancangming/wtv,Python,10
-69709572,pytorch/tutorials,Python,4
+69709572,pytorch/tutorials,Python,3
 344554014,TomSchimansky/CustomTkinter,Python,14
-505667511,sczhou/CodeFormer,Python,235
+505667511,sczhou/CodeFormer,Python,237
 278003645,open-mmlab/mmpose,Python,5
 111136393,net4people/bbs,Python,10
-557075997,pynecone-io/pynecone,Python,127
+557075997,pynecone-io/pynecone,Python,129
 560704231,jerryjliu/gpt_index,Python,76
 562338288,d8ahazard/sd_dreambooth_extension,Python,7
-587701234,enhuiz/vall-e,Python,47
-572915994,deepmind/tracr,Python,28
+587701234,enhuiz/vall-e,Python,37
+572915994,deepmind/tracr,Python,25
 537340460,weebzone/WZML,Python,1
 495658394,howard-hou/BagFormer,Python,24
 505216695,jakeyk11/football-data-analytics,Python,7
