@@ -1,8 +1,8 @@
 id,name,lang,new stars
-14712850,syncthing/syncthing,Go,14
+14712850,syncthing/syncthing,Go,15
 41912791,v2ray/v2ray-core,Go,15
 136815833,Dreamacro/clash,Go,46
-61137153,evanw/esbuild,Go,23
+61137153,evanw/esbuild,Go,22
 234231371,gofiber/fiber,Go,28
 135516270,k3s-io/k3s,Go,15
 510607652,pocketbase/pocketbase,Go,66
@@ -12,7 +12,7 @@ id,name,lang,new stars
 116739828,DNSCrypt/dnscrypt-proxy,Go,4
 67382094,Jguer/yay,Go,3
 31311037,jpillora/chisel,Go,11
-222824662,dagger/dagger,Go,14
+222824662,dagger/dagger,Go,13
 38029983,go-telegram-bot-api/telegram-bot-api,Go,4
 357897199,netbirdio/netbird,Go,15
 26192117,lxc/lxd,Go,5
@@ -22,5 +22,5 @@ id,name,lang,new stars
 188836864,ledgerwatch/erigon,Go,4
 265775217,bnb-chain/bsc,Go,1
 226368338,evcc-io/evcc,Go,17
-470423624,wangkechun/go-by-example,Go,15
+470423624,wangkechun/go-by-example,Go,17
 488805603,RaymondCode/simple-demo,Go,4

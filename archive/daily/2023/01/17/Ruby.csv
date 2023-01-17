@@ -1,8 +1,8 @@
 id,name,lang,new stars
-52281283,mastodon/mastodon,Ruby,34
-8681349,huginn/huginn,Ruby,6
-2293158,rapid7/metasploit-framework,Ruby,3
-538746,ruby/ruby,Ruby,6
+52281283,mastodon/mastodon,Ruby,33
+8681349,huginn/huginn,Ruby,4
+2293158,rapid7/metasploit-framework,Ruby,4
+538746,ruby/ruby,Ruby,5
 1918677,fluent/fluentd,Ruby,4
 103766152,github/explore,Ruby,2
 194554883,noraj/OSCP-Exam-Report-Template-Markdown,Ruby,2
@@ -11,7 +11,7 @@ id,name,lang,new stars
 8154497,rubysec/ruby-advisory-db,Ruby,1
 284824224,alexrudall/ruby-openai,Ruby,9
 294306071,TheOdinProject/ruby-exercises,Ruby,2
-588466721,denistreshchev/128iid,Ruby,31
+588466721,denistreshchev/128iid,Ruby,32
 197956863,LoopKit/LoopWorkspace,Ruby,1
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,1
 588439098,silva96/ai_stories,Ruby,2
