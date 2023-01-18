@@ -2,19 +2,19 @@ id,name,lang,new stars
 35955666,jlevy/the-art-of-command-line,,1592
 943149,d3/d3,JavaScript,258
 278335273,anuraghazra/github-readme-stats,JavaScript,724
-269336148,sickcodes/Docker-OSX,Shell,1986
+269336148,sickcodes/Docker-OSX,Shell,1984
 311683390,WerWolv/ImHex,C++,1450
-233472199,massgravel/Microsoft-Activation-Scripts,Batchfile,1126
+233472199,massgravel/Microsoft-Activation-Scripts,Batchfile,1125
 26784827,dotnet/core,PowerShell,71
 352933140,ToolJet/ToolJet,JavaScript,1092
 237940592,dromara/Sa-Token,Java,133
 419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,1879
-582822129,karpathy/nanoGPT,Jupyter Notebook,3617
+582822129,karpathy/nanoGPT,Jupyter Notebook,3117
 428292281,Sanster/lama-cleaner,Python,1055
 168712350,Snapchat/KeyDB,C++,132
 519882617,leptos-rs/leptos,Rust,612
 584556174,sourcegraph/conc,Go,1566
-77326607,misskey-dev/misskey,TypeScript,237
+77326607,misskey-dev/misskey,TypeScript,236
 505667511,sczhou/CodeFormer,Python,1184
 57912964,kubernetes/enhancements,Go,68
 535360445,ultralytics/ultralytics,Python,1772
@@ -23,4 +23,4 @@ id,name,lang,new stars
 586427117,amitshekhariitbhu/go-backend-clean-architecture,Go,1020
 574162425,gragland/chatgpt-chrome-extension,JavaScript,292
 543149227,pointfreeco/swift-dependencies,Swift,311
-583706111,LazyVim/LazyVim,Lua,122
+583706111,LazyVim/LazyVim,Lua,123

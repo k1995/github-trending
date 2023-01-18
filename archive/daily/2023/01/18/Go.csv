@@ -1,10 +1,10 @@
 id,name,lang,new stars
 11180687,gohugoio/hugo,Go,32
-31288958,hashicorp/vault,Go,8
+31288958,hashicorp/vault,Go,7
 14125254,hashicorp/consul,Go,9
 43723161,helm/helm,Go,12
 510607652,pocketbase/pocketbase,Go,114
-129717717,grafana/loki,Go,19
+129717717,grafana/loki,Go,17
 56342508,jaegertracing/jaeger,Go,7
 180687624,aquasecurity/trivy,Go,21
 109162639,thanos-io/thanos,Go,5
