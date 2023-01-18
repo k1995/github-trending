@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,672
-36502,git/git,C,113
-246335987,ventoy/Ventoy,C,417
+2325298,torvalds/linux,C,677
+36502,git/git,C,114
+246335987,ventoy/Ventoy,C,411
 27737393,qmk/qmk_firmware,C,74
-13836499,raysan5/raylib,C,70
+13836499,raysan5/raylib,C,71
 394318710,valinet/ExplorerPatcher,C,179
-1856976,libevent/libevent,C,23
+1856976,libevent/libevent,C,22
 105944401,yugabyte/yugabyte-db,C,18
 59771425,zephyrproject-rtos/zephyr,C,37
 16734696,meetecho/janus-gateway,C,13
 37060852,betaflight/betaflight,C,18
-40556106,wazuh/wazuh,C,42
-400501136,deepmind/mujoco,C,26
+40556106,wazuh/wazuh,C,44
+400501136,deepmind/mujoco,C,28
 8270972,ARMmbed/mbed-os,C,7
-29933948,fluent/fluent-bit,C,28
+29933948,fluent/fluent-bit,C,27
 2359378,madler/zlib,C,28
 6687936,Mbed-TLS/mbedtls,C,16
 83160811,littlefs-project/littlefs,C,13
@@ -22,5 +22,5 @@ id,name,lang,new stars
 2339555,util-linux/util-linux,C,15
 142917961,flutter/codelabs,C,35
 247759247,NVIDIA/MAXINE-AR-SDK,C,44
-204522898,wiidev/usbloadergx,C,20
+204522898,wiidev/usbloadergx,C,17
 557949972,mightymos/ReedTripRadio,C,28
