@@ -1,14 +1,14 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,71
-27442967,fastlane/fastlane,Ruby,70
+7569578,discourse/discourse,Ruby,72
+27442967,fastlane/fastlane,Ruby,63
 481872,hashicorp/vagrant,Ruby,32
-308770,heartcombo/devise,Ruby,19
+308770,heartcombo/devise,Ruby,16
 18486300,lewagon/setup,Ruby,568
 202291859,chatwoot/chatwoot,Ruby,48
 585285,gollum/gollum,Ruby,31
-138312,capistrano/capistrano,Ruby,9
-1725199,github/linguist,Ruby,24
-15435,Shopify/liquid,Ruby,21
+138312,capistrano/capistrano,Ruby,10
+1725199,github/linguist,Ruby,25
+15435,Shopify/liquid,Ruby,22
 108278,chef/chef,Ruby,7
 22059578,ankane/pghero,Ruby,18
 30337170,rmosolgo/graphql-ruby,Ruby,4
@@ -17,10 +17,10 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,13
 103766152,github/explore,Ruby,21
 79352,mikel/mail,Ruby,4
-93163073,dependabot/dependabot-core,Ruby,23
-7362671,rails/spring,Ruby,2
-10088951,TheOdinProject/theodinproject,Ruby,15
+93163073,dependabot/dependabot-core,Ruby,24
+7362671,rails/spring,Ruby,3
+10088951,TheOdinProject/theodinproject,Ruby,16
 29151578,rswag/rswag,Ruby,9
-586265895,rails/mrsk,Ruby,208
+586265895,rails/mrsk,Ruby,201
 66497320,DataDog/dd-trace-rb,Ruby,0
-585707405,the-teacher/rails7-startkit,Ruby,130
+585707405,the-teacher/rails7-startkit,Ruby,131

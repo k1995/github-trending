@@ -8,9 +8,9 @@ id,name,lang,new stars
 21827146,seaweedfs/seaweedfs,Go,10
 62712899,AdguardTeam/AdGuardHome,Go,20
 14956897,julienschmidt/httprouter,Go,8
-21233191,ipfs/kubo,Go,5
+21233191,ipfs/kubo,Go,6
 44344606,go-chi/chi,Go,16
-30711774,go-playground/validator,Go,7
+30711774,go-playground/validator,Go,8
 252813491,projectdiscovery/nuclei,Go,8
 154643390,sundowndev/phoneinfoga,Go,24
 37334619,golang/mock,Go,10
@@ -18,7 +18,7 @@ id,name,lang,new stars
 9120526,jackc/pgx,Go,3
 150713223,kubeedge/kubeedge,Go,6
 192178626,marcel-dempers/docker-development-youtube-series,Go,26
-206649463,cilium/ebpf,Go,14
+206649463,cilium/ebpf,Go,16
 48299818,kopia/kopia,Go,18
 226368338,evcc-io/evcc,Go,43
 470423624,wangkechun/go-by-example,Go,35

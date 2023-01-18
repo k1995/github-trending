@@ -1,8 +1,8 @@
 id,name,lang,new stars
-156018,redis/redis,C,13
+156018,redis/redis,C,15
 10446890,bilibili/ijkplayer,C,4
-6201092,mpv-player/mpv,C,16
-84240850,timescale/timescaledb,C,11
+6201092,mpv-player/mpv,C,15
+84240850,timescale/timescaledb,C,10
 162276894,Wilfred/difftastic,C,8
 45821540,openwrt/openwrt,C,21
 3319040,id-Software/DOOM,C,9
@@ -23,4 +23,4 @@ id,name,lang,new stars
 342120988,earlephilhower/arduino-pico,C,5
 198868981,darthcloud/BlueRetro,C,6
 53432472,sonic-net/sonic-buildimage,C,1
-568919373,groundcover-com/caretta,C,214
+568919373,groundcover-com/caretta,C,212

@@ -1,7 +1,7 @@
 id,name,lang,new stars
 133442384,denoland/deno,Rust,31
 107505869,firecracker-microvm/firecracker,Rust,18
-268424739,helix-editor/helix,Rust,40
+268424739,helix-editor/helix,Rust,39
 197081291,iced-rs/iced,Rust,16
 48833910,tikv/tikv,Rust,6
 41609775,diesel-rs/diesel,Rust,3
@@ -10,17 +10,17 @@ id,name,lang,new stars
 27029984,rust-bakery/nom,Rust,11
 329782568,DioxusLabs/dioxus,Rust,22
 205042455,ClementTsang/bottom,Rust,21
-443977141,Kindelia/HVM,Rust,16
+443977141,Kindelia/HVM,Rust,15
 261124045,slint-ui/slint,Rust,9
-25250913,shadowsocks/shadowsocks-rust,Rust,4
+25250913,shadowsocks/shadowsocks-rust,Rust,3
 575340621,lencx/ChatGPT,Rust,169
-519882617,leptos-rs/leptos,Rust,85
+519882617,leptos-rs/leptos,Rust,84
 462597790,aptos-labs/aptos-core,Rust,6
 57920736,rustls/rustls,Rust,6
 426075845,MystenLabs/sui,Rust,23
 184341774,cloud-hypervisor/cloud-hypervisor,Rust,7
 240971104,AleoHQ/snarkOS,Rust,2
 480592723,move-language/move,Rust,3
-552877440,juspay/hyperswitch,Rust,352
-488807679,ReagentX/imessage-exporter,Rust,110
+552877440,juspay/hyperswitch,Rust,370
+488807679,ReagentX/imessage-exporter,Rust,127
 548042698,sparshg/asteroids-genetic,Rust,20

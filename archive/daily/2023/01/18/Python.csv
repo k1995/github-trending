@@ -1,7 +1,7 @@
 id,name,lang,new stars
 32689863,3b1b/manim,Python,22
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,131
-154739597,google/jax,Python,16
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,119
+154739597,google/jax,Python,18
 42625970,heartexlabs/labelImg,Python,7
 266417772,pittcsc/Summer2023-Internships,Python,17
 91594105,ansible/awx,Python,5
@@ -13,14 +13,14 @@ id,name,lang,new stars
 155376283,nccgroup/ScoutSuite,Python,4
 2750721,ckan/ckan,Python,4
 275118967,mikel-brostrom/yolov8_tracking,Python,24
-505667511,sczhou/CodeFormer,Python,177
+505667511,sczhou/CodeFormer,Python,175
 247295191,open-mmlab/OpenPCDet,Python,3
-498449014,nerfstudio-project/nerfstudio,Python,19
+498449014,nerfstudio-project/nerfstudio,Python,18
 292289919,Orange-Cyberdefense/arsenal,Python,4
-557075997,pynecone-io/pynecone,Python,104
+557075997,pynecone-io/pynecone,Python,107
 581049695,mouredev/retos-programacion-2023,Python,27
-537972211,open-mmlab/mmyolo,Python,20
+537972211,open-mmlab/mmyolo,Python,29
+587701234,enhuiz/vall-e,Python,66
 127463173,G4lile0/Heimdall-WiFi-Radar,Python,56
-587701234,enhuiz/vall-e,Python,123
 584935389,namuan/dr-doc-search,Python,25
 495658394,howard-hou/BagFormer,Python,19
