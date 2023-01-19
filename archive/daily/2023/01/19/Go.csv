@@ -4,7 +4,7 @@ id,name,lang,new stars
 14125254,hashicorp/consul,Go,7
 43723161,helm/helm,Go,9
 510607652,pocketbase/pocketbase,Go,127
-129717717,grafana/loki,Go,17
+129717717,grafana/loki,Go,16
 56342508,jaegertracing/jaeger,Go,7
 180687624,aquasecurity/trivy,Go,22
 109162639,thanos-io/thanos,Go,7
@@ -12,7 +12,7 @@ id,name,lang,new stars
 367284699,lima-vm/lima,Go,10
 10270722,google/go-github,Go,15
 154643390,sundowndev/phoneinfoga,Go,19
-150954997,VictoriaMetrics/VictoriaMetrics,Go,12
+150954997,VictoriaMetrics/VictoriaMetrics,Go,13
 93928882,swaggo/swag,Go,3
 53174289,gruntwork-io/terratest,Go,6
 392596825,ddosify/ddosify,Go,11
