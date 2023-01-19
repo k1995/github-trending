@@ -1,11 +1,11 @@
 id,name,lang,new stars
 458058,symfony/symfony,PHP,7
-2579314,fzaninotto/Faker,PHP,3
+2579314,fzaninotto/Faker,PHP,2
 1420053,guzzle/guzzle,PHP,5
-60243197,nextcloud/server,PHP,23
+60243197,nextcloud/server,PHP,24
 448045,sebastianbergmann/phpunit,PHP,5
 1631570,nikic/PHP-Parser,PHP,4
-2884111,magento/magento2,PHP,2
+2884111,magento/magento2,PHP,1
 6660366,dompdf/dompdf,PHP,5
 12166778,googleapis/google-api-php-client,PHP,2
 364315,predis/predis,PHP,0
@@ -13,14 +13,14 @@ id,name,lang,new stars
 97311017,rectorphp/rector,PHP,10
 10883164,barryvdh/laravel-dompdf,PHP,2
 11935508,RSS-Bridge/rss-bridge,PHP,2
-6322699,FreshRSS/FreshRSS,PHP,12
+6322699,FreshRSS/FreshRSS,PHP,11
 148129143,bagisto/bagisto,PHP,0
-174200859,inertiajs/inertia,PHP,11
+174200859,inertiajs/inertia,PHP,9
 141720301,dr5hn/countries-states-cities-database,PHP,5
 1957456,Dolibarr/dolibarr,PHP,3
 2686502,pimcore/pimcore,PHP,0
 404921727,luolongfei/freenom,PHP,12
-29745084,Leantime/leantime,PHP,40
+29745084,Leantime/leantime,PHP,42
 75645659,WordPress/wordpress-develop,PHP,5
-174395905,inertiajs/inertia-laravel,PHP,6
-588046834,spatie/laravel-deleted-models,PHP,13
+174395905,inertiajs/inertia-laravel,PHP,5
+588046834,spatie/laravel-deleted-models,PHP,14
