@@ -1,19 +1,19 @@
 id,name,lang,new stars
-35955666,jlevy/the-art-of-command-line,,1733
+35955666,jlevy/the-art-of-command-line,,1753
 943149,d3/d3,JavaScript,265
 278335273,anuraghazra/github-readme-stats,JavaScript,1013
-63477660,TheAlgorithms/Java,Java,241
-269336148,sickcodes/Docker-OSX,Shell,1986
+63477660,TheAlgorithms/Java,Java,243
+269336148,sickcodes/Docker-OSX,Shell,1985
 311683390,WerWolv/ImHex,C++,1323
 352933140,ToolJet/ToolJet,JavaScript,826
 237940592,dromara/Sa-Token,Java,113
-419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,2415
-582822129,karpathy/nanoGPT,Jupyter Notebook,1874
+419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,2460
+582822129,karpathy/nanoGPT,Jupyter Notebook,1831
 428292281,Sanster/lama-cleaner,Python,937
-344554014,TomSchimansky/CustomTkinter,Python,224
+344554014,TomSchimansky/CustomTkinter,Python,232
 519882617,leptos-rs/leptos,Rust,666
 584556174,sourcegraph/conc,Go,743
-344190478,microsoft/AI-For-Beginners,Jupyter Notebook,993
+344190478,microsoft/AI-For-Beginners,Jupyter Notebook,1016
 505667511,sczhou/CodeFormer,Python,1311
 552661142,hwchase17/langchain,Python,1373
 535360445,ultralytics/ultralytics,Python,1646
@@ -22,5 +22,5 @@ id,name,lang,new stars
 573538566,danielgross/whatsapp-gpt,Go,468
 560704231,jerryjliu/gpt_index,Python,812
 586427117,amitshekhariitbhu/go-backend-clean-architecture,Go,687
-575267939,shobrook/adrenaline,JavaScript,777
-543149227,pointfreeco/swift-dependencies,Swift,215
+575267939,shobrook/adrenaline,JavaScript,770
+543149227,pointfreeco/swift-dependencies,Swift,205
