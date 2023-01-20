@@ -1,19 +1,19 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,10
-65252,jekyll/jekyll,Ruby,9
-27442967,fastlane/fastlane,Ruby,2
+65252,jekyll/jekyll,Ruby,10
+27442967,fastlane/fastlane,Ruby,1
 308770,heartcombo/devise,Ruby,4
 73648678,forem/forem,Ruby,6
-202291859,chatwoot/chatwoot,Ruby,7
-2203645,CocoaPods/CocoaPods,Ruby,1
-3195124,mperham/sidekiq,Ruby,5
-4095287,rubocop/rubocop,Ruby,7
+202291859,chatwoot/chatwoot,Ruby,11
+2203645,CocoaPods/CocoaPods,Ruby,2
+3195124,mperham/sidekiq,Ruby,4
+4095287,rubocop/rubocop,Ruby,8
 52855516,Homebrew/homebrew-core,Ruby,3
 1918677,fluent/fluentd,Ruby,2
-96395,faker-ruby/faker,Ruby,2
+96395,faker-ruby/faker,Ruby,1
 611921,activeadmin/activeadmin,Ruby,1
-6529205,varvet/pundit,Ruby,1
-108278,chef/chef,Ruby,1
+6529205,varvet/pundit,Ruby,3
+108278,chef/chef,Ruby,2
 211588,paper-trail-gem/paper_trail,Ruby,0
 1548802,activerecord-hackery/ransack,Ruby,0
 447184,rspec/rspec-rails,Ruby,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1172597,thoughtbot/shoulda-matchers,Ruby,1
 238983,rspec/rspec-mocks,Ruby,0
 3947396,getsentry/sentry-ruby,Ruby,1
-569122226,ankane/polars-ruby,Ruby,80
+569122226,ankane/polars-ruby,Ruby,59
 66497320,DataDog/dd-trace-rb,Ruby,0

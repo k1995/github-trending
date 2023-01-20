@@ -1,13 +1,13 @@
 id,name,lang,new stars
-27442967,fastlane/fastlane,Ruby,32
+27442967,fastlane/fastlane,Ruby,31
 481872,hashicorp/vagrant,Ruby,30
 308770,heartcombo/devise,Ruby,20
 18486300,lewagon/setup,Ruby,569
-202291859,chatwoot/chatwoot,Ruby,46
+202291859,chatwoot/chatwoot,Ruby,47
 3195124,mperham/sidekiq,Ruby,19
 1918677,fluent/fluentd,Ruby,19
 1725199,github/linguist,Ruby,26
-96395,faker-ruby/faker,Ruby,16
+96395,faker-ruby/faker,Ruby,18
 15435,Shopify/liquid,Ruby,18
 812393,ruby-grape/grape,Ruby,5
 43347873,danger/danger,Ruby,12
@@ -16,11 +16,11 @@ id,name,lang,new stars
 52316423,luggit/react-native-config,Ruby,9
 103766152,github/explore,Ruby,21
 79352,mikel/mail,Ruby,4
-3898922,zammad/zammad,Ruby,15
+3898922,zammad/zammad,Ruby,14
 93163073,dependabot/dependabot-core,Ruby,19
 200302808,ViewComponent/view_component,Ruby,3
 229187949,shivammathur/homebrew-php,Ruby,27
-586265895,rails/mrsk,Ruby,102
-585707405,the-teacher/rails7-startkit,Ruby,96
+586265895,rails/mrsk,Ruby,87
+585707405,the-teacher/rails7-startkit,Ruby,98
 77154536,mercadolibre/mobile-dependencies_whitelist,Ruby,0
 388209199,learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker,Ruby,0
