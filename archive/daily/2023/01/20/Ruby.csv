@@ -1,13 +1,13 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,11
+65252,jekyll/jekyll,Ruby,10
 27442967,fastlane/fastlane,Ruby,5
-481872,hashicorp/vagrant,Ruby,5
+481872,hashicorp/vagrant,Ruby,7
 2500088,gitlabhq/gitlabhq,Ruby,0
-308770,heartcombo/devise,Ruby,6
-3195124,mperham/sidekiq,Ruby,3
-4095287,rubocop/rubocop,Ruby,2
+308770,heartcombo/devise,Ruby,5
+3195124,mperham/sidekiq,Ruby,2
+4095287,rubocop/rubocop,Ruby,4
 1918677,fluent/fluentd,Ruby,3
-96395,faker-ruby/faker,Ruby,3
+96395,faker-ruby/faker,Ruby,2
 108278,chef/chef,Ruby,3
 33739333,thoughtbot/administrate,Ruby,1
 535266,vcr/vcr,Ruby,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 32104924,rails/sprockets,Ruby,1
 209731662,ruby/debug,Ruby,0
 1795802,Shopify/money,Ruby,2
-585707405,the-teacher/rails7-startkit,Ruby,13
+585707405,the-teacher/rails7-startkit,Ruby,10
 66497320,DataDog/dd-trace-rb,Ruby,0
