@@ -3,7 +3,7 @@ id,name,lang,new stars
 17728164,hashicorp/terraform,Go,4
 72495579,go-gitea/gitea,Go,15
 14125254,hashicorp/consul,Go,6
-48003886,tmrts/go-patterns,Go,16
+48003886,tmrts/go-patterns,Go,15
 109145553,containers/podman,Go,15
 72477752,pulumi/pulumi,Go,15
 8966356,hashicorp/packer,Go,3
@@ -12,9 +12,9 @@ id,name,lang,new stars
 13021798,git-lfs/git-lfs,Go,1
 9524057,prometheus/node_exporter,Go,5
 93444615,hashicorp/terraform-provider-aws,Go,4
-150954997,VictoriaMetrics/VictoriaMetrics,Go,54
+150954997,VictoriaMetrics/VictoriaMetrics,Go,37
 68964263,prometheus-operator/prometheus-operator,Go,4
-87990209,kubernetes/autoscaler,Go,3
+87990209,kubernetes/autoscaler,Go,2
 92132038,kubernetes-sigs/metrics-server,Go,5
 278480393,aws/karpenter,Go,5
 491539130,cloudwego/hertz,Go,12
