@@ -1,16 +1,16 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,11
 458058,symfony/symfony,PHP,7
-1420053,guzzle/guzzle,PHP,5
+1420053,guzzle/guzzle,PHP,6
 60243197,nextcloud/server,PHP,10
 2253830,PHPMailer/PHPMailer,PHP,4
 448045,sebastianbergmann/phpunit,PHP,7
 1631570,nikic/PHP-Parser,PHP,5
-3431193,yiisoft/yii2,PHP,1
-61490598,PHPOffice/PhpSpreadsheet,PHP,6
+3431193,yiisoft/yii2,PHP,0
+61490598,PHPOffice/PhpSpreadsheet,PHP,5
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,1
 49014795,phpstan/phpstan,PHP,3
-2699935,squizlabs/PHP_CodeSniffer,PHP,3
+2699935,squizlabs/PHP_CodeSniffer,PHP,4
 597887,doctrine/orm,PHP,3
 14346979,snipe/snipe-it,PHP,9
 4224042,roundcube/roundcubemail,PHP,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 2686502,pimcore/pimcore,PHP,0
 3193843,drush-ops/drush,PHP,0
 131995661,shopware/platform,PHP,1
-29745084,Leantime/leantime,PHP,7
+29745084,Leantime/leantime,PHP,8
 75645659,WordPress/wordpress-develop,PHP,4
 34407154,cweagans/composer-patches,PHP,0
 324390273,Sparkm4n/PhP-Validator,PHP,0

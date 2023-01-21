@@ -1,6 +1,6 @@
 id,name,lang,new stars
 13124802,influxdata/influxdb,Go,44
-43723161,helm/helm,Go,39
+43723161,helm/helm,Go,37
 135516270,k3s-io/k3s,Go,85
 323965659,alist-org/alist,Go,693
 180687624,aquasecurity/trivy,Go,192
@@ -11,7 +11,7 @@ id,name,lang,new stars
 222824662,dagger/dagger,Go,68
 49765480,lightningnetwork/lnd,Go,23
 147886080,crossplane/crossplane,Go,48
-392596825,ddosify/ddosify,Go,223
+392596825,ddosify/ddosify,Go,222
 139727567,stakater/Reloader,Go,42
 22485114,hashicorp/hcl,Go,27
 206649463,cilium/ebpf,Go,181
@@ -21,6 +21,6 @@ id,name,lang,new stars
 238797860,ethereum-optimism/optimism,Go,127
 299054922,alpkeskin/mosint,Go,251
 188836864,ledgerwatch/erigon,Go,26
-573538566,danielgross/whatsapp-gpt,Go,317
-586427117,amitshekhariitbhu/go-backend-clean-architecture,Go,463
+573538566,danielgross/whatsapp-gpt,Go,316
+586427117,amitshekhariitbhu/go-backend-clean-architecture,Go,465
 226368338,evcc-io/evcc,Go,116

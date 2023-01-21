@@ -1,14 +1,14 @@
 id,name,lang,new stars
 24195339,angular/angular,TypeScript,24
-54173593,storybookjs/storybook,TypeScript,61
+54173593,storybookjs/storybook,TypeScript,51
 80945428,nestjs/nest,TypeScript,17
 6093316,DefinitelyTyped/DefinitelyTyped,TypeScript,10
-71995937,nuxt/nuxt,TypeScript,50
-94911145,facebook/docusaurus,TypeScript,102
+71995937,nuxt/nuxt,TypeScript,47
+94911145,facebook/docusaurus,TypeScript,100
 137724480,hasura/graphql-engine,TypeScript,7
 192925833,prisma/prisma,TypeScript,33
 36891867,angular/angular-cli,TypeScript,6
-236095576,backstage/backstage,TypeScript,21
+236095576,backstage/backstage,TypeScript,19
 56760633,apollographql/apollo-server,TypeScript,2
 331293626,refinedev/refine,TypeScript,39
 147979549,react-native-webview/react-native-webview,TypeScript,3
@@ -17,10 +17,10 @@ id,name,lang,new stars
 197814629,actions/checkout,TypeScript,5
 215566462,actions/cache,TypeScript,3
 205262760,actions/github-script,TypeScript,4
-538663825,resendlabs/react-email,TypeScript,98
-317639685,johnlindquist/kit,TypeScript,143
+538663825,resendlabs/react-email,TypeScript,95
+317639685,johnlindquist/kit,TypeScript,159
 260240241,mui/mui-x,TypeScript,5
-87228090,aws/aws-sdk-js-v3,TypeScript,4
+87228090,aws/aws-sdk-js-v3,TypeScript,5
 353494486,iron-fish/ironfish,TypeScript,11
 584951393,chen-rn/CUA,TypeScript,6
-589305348,rocketseat-education/nlw-setup-ignite,TypeScript,99
+589305348,rocketseat-education/nlw-setup-ignite,TypeScript,97
