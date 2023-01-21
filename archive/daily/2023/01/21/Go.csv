@@ -7,7 +7,7 @@ id,name,lang,new stars
 109145553,containers/podman,Go,15
 72477752,pulumi/pulumi,Go,15
 8966356,hashicorp/packer,Go,3
-44350607,kubernetes/dashboard,Go,8
+44350607,kubernetes/dashboard,Go,7
 502193049,charmbracelet/gum,Go,12
 13021798,git-lfs/git-lfs,Go,1
 9524057,prometheus/node_exporter,Go,5
@@ -16,7 +16,7 @@ id,name,lang,new stars
 68964263,prometheus-operator/prometheus-operator,Go,4
 87990209,kubernetes/autoscaler,Go,3
 92132038,kubernetes-sigs/metrics-server,Go,5
-278480393,aws/karpenter,Go,3
+278480393,aws/karpenter,Go,5
 491539130,cloudwego/hertz,Go,12
 385634291,grafana/mimir,Go,2
 120530079,qdm12/gluetun,Go,28
