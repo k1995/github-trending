@@ -1,14 +1,14 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,10
-458058,symfony/symfony,PHP,8
-1420053,guzzle/guzzle,PHP,4
-60243197,nextcloud/server,PHP,11
+7548986,laravel/framework,PHP,11
+458058,symfony/symfony,PHP,7
+1420053,guzzle/guzzle,PHP,5
+60243197,nextcloud/server,PHP,10
 2253830,PHPMailer/PHPMailer,PHP,4
 448045,sebastianbergmann/phpunit,PHP,7
 1631570,nikic/PHP-Parser,PHP,5
 3431193,yiisoft/yii2,PHP,1
 61490598,PHPOffice/PhpSpreadsheet,PHP,6
-4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,3
+4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,1
 49014795,phpstan/phpstan,PHP,3
 2699935,squizlabs/PHP_CodeSniffer,PHP,3
 597887,doctrine/orm,PHP,3
@@ -17,7 +17,7 @@ id,name,lang,new stars
 14735403,yajra/laravel-datatables,PHP,0
 129829848,pixelfed/pixelfed,PHP,6
 9077725,giggsey/libphonenumber-for-php,PHP,1
-2686502,pimcore/pimcore,PHP,1
+2686502,pimcore/pimcore,PHP,0
 3193843,drush-ops/drush,PHP,0
 131995661,shopware/platform,PHP,1
 29745084,Leantime/leantime,PHP,7
