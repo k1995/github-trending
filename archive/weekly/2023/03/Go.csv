@@ -1,12 +1,12 @@
 id,name,lang,new stars
-13124802,influxdata/influxdb,Go,44
+13124802,influxdata/influxdb,Go,43
 43723161,helm/helm,Go,37
 135516270,k3s-io/k3s,Go,85
-323965659,alist-org/alist,Go,693
+323965659,alist-org/alist,Go,697
 180687624,aquasecurity/trivy,Go,192
-62712899,AdguardTeam/AdGuardHome,Go,206
+62712899,AdguardTeam/AdGuardHome,Go,208
 10270722,google/go-github,Go,54
-31311037,jpillora/chisel,Go,83
+31311037,jpillora/chisel,Go,84
 150954997,VictoriaMetrics/VictoriaMetrics,Go,172
 222824662,dagger/dagger,Go,68
 49765480,lightningnetwork/lnd,Go,23
@@ -16,11 +16,11 @@ id,name,lang,new stars
 22485114,hashicorp/hcl,Go,27
 206649463,cilium/ebpf,Go,181
 93446042,hashicorp/terraform-provider-azurerm,Go,13
-169108858,kyverno/kyverno,Go,32
+169108858,kyverno/kyverno,Go,31
 57912964,kubernetes/enhancements,Go,21
 238797860,ethereum-optimism/optimism,Go,127
-299054922,alpkeskin/mosint,Go,251
+299054922,alpkeskin/mosint,Go,253
 188836864,ledgerwatch/erigon,Go,26
-573538566,danielgross/whatsapp-gpt,Go,316
-586427117,amitshekhariitbhu/go-backend-clean-architecture,Go,465
+573538566,danielgross/whatsapp-gpt,Go,317
+586427117,amitshekhariitbhu/go-backend-clean-architecture,Go,463
 226368338,evcc-io/evcc,Go,116
