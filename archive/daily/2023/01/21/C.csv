@@ -1,11 +1,11 @@
 id,name,lang,new stars
 36502,git/git,C,20
 36836475,tmux/tmux,C,13
-5101141,stedolan/jq,C,9
+5101141,stedolan/jq,C,7
 7634677,openssl/openssl,C,11
 80286288,arendst/Tasmota,C,5
 15337142,micropython/micropython,C,2
-105627846,reactos/reactos,C,11
+105627846,reactos/reactos,C,13
 65899476,espressif/esp-idf,C,6
 1979797,FreeRDP/FreeRDP,C,3
 5870069,confluentinc/librdkafka,C,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 1924458,SchedMD/slurm,C,3
 14313288,pgbackrest/pgbackrest,C,0
 276293034,apache/age,C,4
-266877886,WayneD/rsync,C,3
+266877886,WayneD/rsync,C,2
 568919373,groundcover-com/caretta,C,25
 121516035,nrfconnect/sdk-nrf,C,0
 588963633,hesterdx2/Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main,C,1

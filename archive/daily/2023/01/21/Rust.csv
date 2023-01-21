@@ -5,14 +5,14 @@ id,name,lang,new stars
 42489829,rust-lang/rustlings,Rust,43
 67836789,tokio-rs/tokio,Rust,10
 117356231,sharkdp/hyperfine,Rust,36
-121470383,solana-labs/solana,Rust,5
-24725038,rayon-rs/rayon,Rust,13
-109872620,paritytech/substrate,Rust,23
+121470383,solana-labs/solana,Rust,6
+24725038,rayon-rs/rayon,Rust,16
+109872620,paritytech/substrate,Rust,31
 49412556,quickwit-oss/tantivy,Rust,5
 91151442,PyO3/pyo3,Rust,18
 414585797,0x192/universal-android-debloater,Rust,22
 179385712,bottlerocket-os/bottlerocket,Rust,6
-120568143,wez/wezterm,Rust,17
+120568143,wez/wezterm,Rust,15
 523043277,charliermarsh/ruff,Rust,83
 114685405,rustwasm/wasm-bindgen,Rust,7
 404320053,foundry-rs/foundry,Rust,13
@@ -21,6 +21,6 @@ id,name,lang,new stars
 156752158,awslabs/aws-lambda-rust-runtime,Rust,11
 425736647,massalabs/massa,Rust,201
 29197565,rust-lang/libc,Rust,1
-331227477,aya-rs/aya,Rust,12
-520784735,parseablehq/parseable,Rust,19
+331227477,aya-rs/aya,Rust,13
+520784735,parseablehq/parseable,Rust,18
 200152386,electric-capital/crypto-ecosystems,Rust,7
