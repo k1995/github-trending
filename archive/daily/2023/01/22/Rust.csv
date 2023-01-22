@@ -2,7 +2,7 @@ id,name,lang,new stars
 42489829,rust-lang/rustlings,Rust,33
 241805592,rome/tools,Rust,16
 410749029,spacedriveapp/spacedrive,Rust,22
-165522651,emilk/egui,Rust,10
+165522651,emilk/egui,Rust,11
 209799228,denisidoro/navi,Rust,14
 47854924,rust-lang/book,Rust,12
 183483988,ruffle-rs/ruffle,Rust,8
@@ -12,8 +12,8 @@ id,name,lang,new stars
 109872620,paritytech/substrate,Rust,5
 91151442,PyO3/pyo3,Rust,18
 120568143,wez/wezterm,Rust,13
-62350380,seanmonstar/reqwest,Rust,12
 580836813,google/comprehensive-rust,Rust,40
+62350380,seanmonstar/reqwest,Rust,12
 523043277,charliermarsh/ruff,Rust,51
 148686316,gfx-rs/wgpu,Rust,6
 462597790,aptos-labs/aptos-core,Rust,0
