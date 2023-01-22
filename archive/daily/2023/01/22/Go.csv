@@ -9,7 +9,7 @@ id,name,lang,new stars
 8966356,hashicorp/packer,Go,5
 44350607,kubernetes/dashboard,Go,6
 502193049,charmbracelet/gum,Go,20
-13021798,git-lfs/git-lfs,Go,1
+13021798,git-lfs/git-lfs,Go,0
 9524057,prometheus/node_exporter,Go,2
 93444615,hashicorp/terraform-provider-aws,Go,2
 150954997,VictoriaMetrics/VictoriaMetrics,Go,6
@@ -19,8 +19,8 @@ id,name,lang,new stars
 278480393,aws/karpenter,Go,4
 491539130,cloudwego/hertz,Go,6
 385634291,grafana/mimir,Go,2
-120530079,qdm12/gluetun,Go,24
+120530079,qdm12/gluetun,Go,22
 49970739,DataDog/datadog-agent,Go,1
-501095512,keyval-dev/odigos,Go,50
+501095512,keyval-dev/odigos,Go,49
 386155002,cloudwego/kitex-examples,Go,2
-478855574,projectdiscovery/pdtm,Go,48
+478855574,projectdiscovery/pdtm,Go,51

@@ -1,20 +1,20 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,485
-36502,git/git,C,127
-5101141,stedolan/jq,C,62
+2325298,torvalds/linux,C,481
+36502,git/git,C,129
+5101141,stedolan/jq,C,60
 7634677,openssl/openssl,C,59
 84240850,timescale/timescaledb,C,53
 45821540,openwrt/openwrt,C,62
-13836499,raysan5/raylib,C,64
-394318710,valinet/ExplorerPatcher,C,192
+13836499,raysan5/raylib,C,66
+394318710,valinet/ExplorerPatcher,C,194
 65899476,espressif/esp-idf,C,50
-1979797,FreeRDP/FreeRDP,C,31
+1979797,FreeRDP/FreeRDP,C,30
 105944401,yugabyte/yugabyte-db,C,18
-59771425,zephyrproject-rtos/zephyr,C,35
-37060852,betaflight/betaflight,C,30
-40556106,wazuh/wazuh,C,25
-537699,Kitware/CMake,C,45
-541269386,ggerganov/whisper.cpp,C,247
+59771425,zephyrproject-rtos/zephyr,C,36
+37060852,betaflight/betaflight,C,31
+40556106,wazuh/wazuh,C,26
+537699,Kitware/CMake,C,46
+541269386,ggerganov/whisper.cpp,C,254
 400501136,deepmind/mujoco,C,31
 6687936,Mbed-TLS/mbedtls,C,11
 5720995,lxc/lxc,C,17
@@ -23,4 +23,4 @@ id,name,lang,new stars
 331380723,raspberrypi/pico-sdk,C,29
 226167620,InfiniTimeOrg/InfiniTime,C,19
 646423,pgbouncer/pgbouncer,C,10
-568919373,groundcover-com/caretta,C,532
+568919373,groundcover-com/caretta,C,533

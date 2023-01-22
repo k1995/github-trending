@@ -1,6 +1,6 @@
 id,name,lang,new stars
 13233158,obsproject/obs-studio,C,24
-36502,git/git,C,8
+36502,git/git,C,10
 5101141,stedolan/jq,C,10
 14812739,libuv/libuv,C,10
 7634677,openssl/openssl,C,0
@@ -14,7 +14,7 @@ id,name,lang,new stars
 38617,sqlcipher/sqlcipher,C,3
 15257213,ldcsaa/HP-Socket,C,0
 470579591,DarkFlippers/unleashed-firmware,C,33
-97212490,floooh/sokol,C,4
+97212490,floooh/sokol,C,5
 34807561,nanopb/nanopb,C,2
 206121828,FreeRTOS/FreeRTOS,C,8
 2928164,NixOS/patchelf,C,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 276293034,apache/age,C,1
 583665827,antirez/protoview,C,3
 117596757,Seneca-144100/IPC-Workshops,C,0
-588910277,lem0nSec/CreateRemoteThreadPlus,C,8
+588910277,lem0nSec/CreateRemoteThreadPlus,C,7
