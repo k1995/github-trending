@@ -1,8 +1,8 @@
 id,name,lang,new stars
 72495579,go-gitea/gitea,Go,20
 75785240,authelia/authelia,Go,7
-8966356,hashicorp/packer,Go,5
-297165998,muesli/duf,Go,18
+8966356,hashicorp/packer,Go,6
+297165998,muesli/duf,Go,28
 533087958,terrastruct/d2,Go,25
 175405157,JanDeDobbeleer/oh-my-posh,Go,30
 10721619,hajimehoshi/ebiten,Go,7
@@ -22,5 +22,5 @@ id,name,lang,new stars
 575295397,gofireflyio/aiac,Go,33
 281075863,ntt360/pmon2,Go,11
 553120474,Pradumnasaraf/DevOps,Go,29
-478855574,projectdiscovery/pdtm,Go,48
+478855574,projectdiscovery/pdtm,Go,79
 511801052,cloudwego/biz-demo,Go,2
