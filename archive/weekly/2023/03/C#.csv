@@ -1,13 +1,13 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,80
-17620347,dotnet/aspnetcore,C#,71
-13428264,ShareX/ShareX,C#,103
+49609581,PowerShell/PowerShell,C#,78
+17620347,dotnet/aspnetcore,C#,70
+13428264,ShareX/ShareX,C#,101
 70104825,dotnet-architecture/eShopOnContainers,C#,53
 262395224,dotnet/maui,C#,54
-14964475,AvaloniaUI/Avalonia,C#,91
-210716005,dotnet/runtime,C#,60
-75990888,dotnet/csharplang,C#,23
-505380,AutoMapper/AutoMapper,C#,23
+14964475,AvaloniaUI/Avalonia,C#,92
+210716005,dotnet/runtime,C#,58
+75990888,dotnet/csharplang,C#,21
+505380,AutoMapper/AutoMapper,C#,24
 50605426,microsoft/MixedRealityToolkit-Unity,C#,16
 326826023,QuestPDF/QuestPDF,C#,947
 32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,16
@@ -18,9 +18,9 @@ id,name,lang,new stars
 264454828,VeriorPies/ParrelSync,C#,35
 119571446,dotnet/samples,C#,9
 199628708,microsoft/RulesEngine,C#,22
-63984307,dotnet/sdk,C#,13
-555636576,Sergio0694/PolySharp,C#,130
-482734649,DGP-Studio/Snap.Hutao,C#,66
+63984307,dotnet/sdk,C#,12
+555636576,Sergio0694/PolySharp,C#,126
+482734649,DGP-Studio/Snap.Hutao,C#,65
 101895131,DataDog/dd-trace-dotnet,C#,3
 588319972,vullabs/Crassus,C#,85
-432730711,betalgo/openai,C#,37
+432730711,betalgo/openai,C#,39
