@@ -5,12 +5,12 @@ id,name,lang,new stars
 155636246,jantic/DeOldify,Python,13
 7053637,python/mypy,Python,28
 321659062,iperov/DeepFaceLive,Python,121
-202693400,rougier/scientific-visualization-book,Python,11
+202693400,rougier/scientific-visualization-book,Python,10
 103071520,great-expectations/great_expectations,Python,3
 114054873,espnet/espnet,Python,4
 344554014,TomSchimansky/CustomTkinter,Python,55
 40687563,oppia/oppia,Python,7
-552661142,hwchase17/langchain,Python,122
+552661142,hwchase17/langchain,Python,118
 17714713,pre-commit/pre-commit-hooks,Python,57
 151541,biopython/biopython,Python,2
 261117191,devanshbatham/Awesome-Bugbounty-Writeups,Python,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 589860087,karpathy/ng-video-lecture,Python,245
 588477692,BlinkDL/ChatRWKV,Python,95
 534014001,databricks-academy/data-engineer-learning-path,Python,16
-590196501,horizon3ai/CVE-2022-47966,Python,7
+590196501,horizon3ai/CVE-2022-47966,Python,5

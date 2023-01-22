@@ -1,18 +1,18 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,480
-36502,git/git,C,130
-5101141,stedolan/jq,C,61
+2325298,torvalds/linux,C,471
+36502,git/git,C,126
+5101141,stedolan/jq,C,58
 7634677,openssl/openssl,C,59
-84240850,timescale/timescaledb,C,53
-45821540,openwrt/openwrt,C,62
+84240850,timescale/timescaledb,C,51
+45821540,openwrt/openwrt,C,61
 13836499,raysan5/raylib,C,70
-394318710,valinet/ExplorerPatcher,C,194
-65899476,espressif/esp-idf,C,50
+394318710,valinet/ExplorerPatcher,C,195
+65899476,espressif/esp-idf,C,51
 1979797,FreeRDP/FreeRDP,C,30
 105944401,yugabyte/yugabyte-db,C,18
-59771425,zephyrproject-rtos/zephyr,C,34
+59771425,zephyrproject-rtos/zephyr,C,35
 37060852,betaflight/betaflight,C,31
-40556106,wazuh/wazuh,C,25
+40556106,wazuh/wazuh,C,27
 537699,Kitware/CMake,C,45
 541269386,ggerganov/whisper.cpp,C,254
 400501136,deepmind/mujoco,C,31

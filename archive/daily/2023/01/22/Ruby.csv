@@ -1,13 +1,13 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,8
-65252,jekyll/jekyll,Ruby,5
+8514,rails/rails,Ruby,9
+65252,jekyll/jekyll,Ruby,4
 52281283,mastodon/mastodon,Ruby,23
 8681349,huginn/huginn,Ruby,7
 27442967,fastlane/fastlane,Ruby,3
 2293158,rapid7/metasploit-framework,Ruby,6
 481872,hashicorp/vagrant,Ruby,4
 308770,heartcombo/devise,Ruby,1
-202291859,chatwoot/chatwoot,Ruby,10
+202291859,chatwoot/chatwoot,Ruby,11
 3195124,mperham/sidekiq,Ruby,1
 4095287,rubocop/rubocop,Ruby,2
 96395,faker-ruby/faker,Ruby,3
@@ -23,4 +23,4 @@ id,name,lang,new stars
 128265535,GoogleCloudPlatform/click-to-deploy,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 66497320,DataDog/dd-trace-rb,Ruby,0
-502505224,marvinscham/disenchanter,Ruby,6
+502505224,marvinscham/disenchanter,Ruby,4

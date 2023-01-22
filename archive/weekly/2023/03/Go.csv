@@ -1,21 +1,21 @@
 id,name,lang,new stars
-72495579,go-gitea/gitea,Go,132
+72495579,go-gitea/gitea,Go,136
 43723161,helm/helm,Go,33
 135516270,k3s-io/k3s,Go,85
-27729907,grpc/grpc-go,Go,44
-180687624,aquasecurity/trivy,Go,192
+27729907,grpc/grpc-go,Go,45
+180687624,aquasecurity/trivy,Go,191
 62712899,AdguardTeam/AdGuardHome,Go,147
 120896210,argoproj/argo-cd,Go,59
 31311037,jpillora/chisel,Go,85
-150954997,VictoriaMetrics/VictoriaMetrics,Go,172
+150954997,VictoriaMetrics/VictoriaMetrics,Go,174
 222824662,dagger/dagger,Go,63
 172292744,panjf2000/gnet,Go,52
-49765480,lightningnetwork/lnd,Go,25
+49765480,lightningnetwork/lnd,Go,26
 147886080,crossplane/crossplane,Go,44
 392596825,ddosify/ddosify,Go,197
 206649463,cilium/ebpf,Go,178
 491539130,cloudwego/hertz,Go,81
-57912964,kubernetes/enhancements,Go,17
+57912964,kubernetes/enhancements,Go,13
 299054922,alpkeskin/mosint,Go,264
 238797860,ethereum-optimism/optimism,Go,127
 188836864,ledgerwatch/erigon,Go,25
@@ -23,4 +23,4 @@ id,name,lang,new stars
 586427117,amitshekhariitbhu/go-backend-clean-architecture,Go,407
 226368338,evcc-io/evcc,Go,111
 575295397,gofireflyio/aiac,Go,221
-488805603,RaymondCode/simple-demo,Go,23
+488805603,RaymondCode/simple-demo,Go,19
