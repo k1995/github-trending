@@ -11,7 +11,7 @@ id,name,lang,new stars
 89315980,SecWiki/windows-kernel-exploits,C,3
 284134871,flipperdevices/flipperzero-firmware,C,17
 541269386,ggerganov/whisper.cpp,C,27
-490465859,UberGuidoZ/Flipper,C,31
+490465859,UberGuidoZ/Flipper,C,30
 330008801,libsdl-org/SDL,C,7
 7705639,merbanan/rtl_433,C,6
 97212490,floooh/sokol,C,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 65514205,open-quantum-safe/liboqs,C,3
 342120988,earlephilhower/arduino-pico,C,3
 576303915,tiann/KernelSU,C,16
-586265748,jhhoward/WolfensteinCGA,C,77
+586265748,jhhoward/WolfensteinCGA,C,74
 511677094,mildsunrise/cursed_gpu_linux,C,1

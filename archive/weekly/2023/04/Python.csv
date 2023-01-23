@@ -1,13 +1,13 @@
 id,name,lang,new stars
-71948498,localstack/localstack,Python,118
-204086862,streamlit/streamlit,Python,135
-222751131,Asabeneh/30-Days-Of-Python,Python,426
-106024057,pyg-team/pytorch_geometric,Python,47
-14579099,plotly/plotly.py,Python,40
+71948498,localstack/localstack,Python,117
+204086862,streamlit/streamlit,Python,136
+222751131,Asabeneh/30-Days-Of-Python,Python,434
+106024057,pyg-team/pytorch_geometric,Python,46
+14579099,plotly/plotly.py,Python,38
 143328315,mindsdb/mindsdb,Python,89
 52796596,netbox-community/netbox,Python,86
 83878269,iterative/dvc,Python,51
-428292281,Sanster/lama-cleaner,Python,366
+428292281,Sanster/lama-cleaner,Python,361
 458648791,paperless-ngx/paperless-ngx,Python,200
 344554014,TomSchimansky/CustomTkinter,Python,361
 40687563,oppia/oppia,Python,36
@@ -15,7 +15,7 @@ id,name,lang,new stars
 275118967,mikel-brostrom/yolov8_tracking,Python,177
 505667511,sczhou/CodeFormer,Python,924
 17714713,pre-commit/pre-commit-hooks,Python,156
-51040886,Azure/azure-cli,Python,53
+51040886,Azure/azure-cli,Python,54
 557075997,pynecone-io/pynecone,Python,1417
 535360445,ultralytics/ultralytics,Python,492
 560704231,jerryjliu/gpt_index,Python,718
@@ -23,4 +23,4 @@ id,name,lang,new stars
 494232964,HazyResearch/flash-attention,Python,97
 554807775,facebookresearch/encodec,Python,60
 537972211,open-mmlab/mmyolo,Python,114
-538273655,innnky/so-vits-svc,Python,107
+538273655,innnky/so-vits-svc,Python,109

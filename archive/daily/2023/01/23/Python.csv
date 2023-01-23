@@ -5,7 +5,7 @@ id,name,lang,new stars
 1039520,ytdl-org/youtube-dl,Python,33
 12888993,home-assistant/core,Python,18
 307260205,yt-dlp/yt-dlp,Python,42
-91629816,freqtrade/freqtrade,Python,12
+91629816,freqtrade/freqtrade,Python,10
 222751131,Asabeneh/30-Days-Of-Python,Python,65
 7053637,python/mypy,Python,37
 146619556,trekhleb/learn-python,Python,16
@@ -22,5 +22,5 @@ id,name,lang,new stars
 462976341,bellingcat/octosuite,Python,68
 466309974,nod-ai/SHARK,Python,15
 534014001,databricks-academy/data-engineer-learning-path,Python,70
-579557127,kohya-ss/sd-scripts,Python,6
+579557127,kohya-ss/sd-scripts,Python,7
 582577011,kohya-ss/sd-webui-additional-networks,Python,5
