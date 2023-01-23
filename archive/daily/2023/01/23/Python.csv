@@ -1,14 +1,14 @@
 id,name,lang,new stars
-54346799,public-apis/public-apis,Python,112
+54346799,public-apis/public-apis,Python,108
 1039520,ytdl-org/youtube-dl,Python,34
-307260205,yt-dlp/yt-dlp,Python,46
+307260205,yt-dlp/yt-dlp,Python,49
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,90
 91629816,freqtrade/freqtrade,Python,9
 222751131,Asabeneh/30-Days-Of-Python,Python,32
 468576060,openai/openai-cookbook,Python,302
-321659062,iperov/DeepFaceLive,Python,93
+321659062,iperov/DeepFaceLive,Python,82
 333483116,dgtlmoon/changedetection.io,Python,26
-520708737,fauxpilot/fauxpilot,Python,20
+520708737,fauxpilot/fauxpilot,Python,17
 344554014,TomSchimansky/CustomTkinter,Python,136
 40687563,oppia/oppia,Python,7
 557075997,pynecone-io/pynecone,Python,605
@@ -16,11 +16,11 @@ id,name,lang,new stars
 493014338,mage-ai/mage-ai,Python,29
 560704231,jerryjliu/gpt_index,Python,104
 586711486,timothybrooks/instruct-pix2pix,Python,590
-521021013,THUDM/GLM-130B,Python,49
-439211693,MoonInTheRiver/DiffSinger,Python,72
+521021013,THUDM/GLM-130B,Python,35
+439211693,MoonInTheRiver/DiffSinger,Python,68
 589860087,karpathy/ng-video-lecture,Python,183
 462976341,bellingcat/octosuite,Python,68
-501783987,karpathy/makemore,Python,5
+501783987,karpathy/makemore,Python,4
 466309974,nod-ai/SHARK,Python,16
 534014001,databricks-academy/data-engineer-learning-path,Python,78
 508638014,daveshap/LongtermChatExternalSources,Python,18
