@@ -1,18 +1,18 @@
 id,name,lang,new stars
 52281283,mastodon/mastodon,Ruby,20
-8681349,huginn/huginn,Ruby,11
+8681349,huginn/huginn,Ruby,10
 53238813,Homebrew/brew,Ruby,8
-13840241,freeCodeCamp/devdocs,Ruby,12
+13840241,freeCodeCamp/devdocs,Ruby,10
 2293158,rapid7/metasploit-framework,Ruby,7
-481872,hashicorp/vagrant,Ruby,3
-73648678,forem/forem,Ruby,3
-202291859,chatwoot/chatwoot,Ruby,5
+481872,hashicorp/vagrant,Ruby,4
+73648678,forem/forem,Ruby,2
+202291859,chatwoot/chatwoot,Ruby,4
 2203645,CocoaPods/CocoaPods,Ruby,1
 4095287,rubocop/rubocop,Ruby,0
-52855516,Homebrew/homebrew-core,Ruby,1
+52855516,Homebrew/homebrew-core,Ruby,0
 106995,sinatra/sinatra,Ruby,1
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,5
-1145832,pry/pry,Ruby,1
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,3
+1145832,pry/pry,Ruby,0
 6899875,opf/openproject,Ruby,0
 10431787,felixonmars/dnsmasq-china-list,Ruby,1
 96071,rack/rack,Ruby,3
@@ -20,7 +20,7 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,1
 614070,rubygems/rubygems,Ruby,1
 3064003,pglombardo/PasswordPusher,Ruby,0
-586265895,rails/mrsk,Ruby,1
-463648726,Shopify/ruby-lsp,Ruby,1
+586265895,rails/mrsk,Ruby,2
+463648726,Shopify/ruby-lsp,Ruby,3
 502505224,marvinscham/disenchanter,Ruby,3
 7124629,natethegreat226/homework,Ruby,0
