@@ -1,9 +1,9 @@
 id,name,lang,new stars
 72495579,go-gitea/gitea,Go,18
-75785240,authelia/authelia,Go,16
+75785240,authelia/authelia,Go,15
 8966356,hashicorp/packer,Go,1
-297165998,muesli/duf,Go,31
-533087958,terrastruct/d2,Go,48
+297165998,muesli/duf,Go,28
+533087958,terrastruct/d2,Go,49
 175405157,JanDeDobbeleer/oh-my-posh,Go,37
 10721619,hajimehoshi/ebiten,Go,6
 127519518,projectdiscovery/subfinder,Go,5
@@ -13,7 +13,7 @@ id,name,lang,new stars
 123394155,boyter/scc,Go,43
 93446042,hashicorp/terraform-provider-azurerm,Go,1
 201546443,trustwallet/assets,Go,2
-74436942,prest/prest,Go,12
+74436942,prest/prest,Go,8
 117156031,prysmaticlabs/prysm,Go,0
 120530079,qdm12/gluetun,Go,20
 226696536,burrowers/garble,Go,14
