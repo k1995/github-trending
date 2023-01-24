@@ -1,21 +1,21 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,6
+8514,rails/rails,Ruby,7
 8681349,huginn/huginn,Ruby,11
 27442967,fastlane/fastlane,Ruby,4
-2293158,rapid7/metasploit-framework,Ruby,14
-481872,hashicorp/vagrant,Ruby,5
-2500088,gitlabhq/gitlabhq,Ruby,0
-37382858,kilimchoi/engineering-blogs,Ruby,16
-73648678,forem/forem,Ruby,3
+2293158,rapid7/metasploit-framework,Ruby,15
+481872,hashicorp/vagrant,Ruby,4
+2500088,gitlabhq/gitlabhq,Ruby,1
+37382858,kilimchoi/engineering-blogs,Ruby,30
+73648678,forem/forem,Ruby,5
 4095287,rubocop/rubocop,Ruby,0
 361310,teamcapybara/capybara,Ruby,3
 275604,resque/resque,Ruby,0
 211588,paper-trail-gem/paper_trail,Ruby,2
-6899875,opf/openproject,Ruby,8
+6899875,opf/openproject,Ruby,7
 906150,slim-template/slim,Ruby,2
 614070,rubygems/rubygems,Ruby,1
 3277842,googleapis/google-api-ruby-client,Ruby,1
-108451413,boltops-tools/jets,Ruby,68
+108451413,boltops-tools/jets,Ruby,36
 588600,brianmario/mysql2,Ruby,0
 9500075,ytti/oxidized,Ruby,0
 9831101,elastic/elasticsearch-ruby,Ruby,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 1254797,Casecommons/pg_search,Ruby,2
 70830890,bigbluebutton/greenlight,Ruby,0
 287024,flori/json,Ruby,1
-3276877,ThrowTheSwitch/Ceedling,Ruby,1
+3276877,ThrowTheSwitch/Ceedling,Ruby,0
