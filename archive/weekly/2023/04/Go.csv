@@ -1,14 +1,14 @@
 id,name,lang,new stars
-72495579,go-gitea/gitea,Go,136
-31504491,labstack/echo,Go,67
+72495579,go-gitea/gitea,Go,137
+31504491,labstack/echo,Go,68
 43723161,helm/helm,Go,39
-48003886,tmrts/go-patterns,Go,119
+48003886,tmrts/go-patterns,Go,118
 129717717,grafana/loki,Go,63
-180687624,aquasecurity/trivy,Go,190
-72477752,pulumi/pulumi,Go,99
+180687624,aquasecurity/trivy,Go,189
+72477752,pulumi/pulumi,Go,100
 120896210,argoproj/argo-cd,Go,64
 175405157,JanDeDobbeleer/oh-my-posh,Go,143
-150954997,VictoriaMetrics/VictoriaMetrics,Go,175
+150954997,VictoriaMetrics/VictoriaMetrics,Go,174
 49765480,lightningnetwork/lnd,Go,23
 392596825,ddosify/ddosify,Go,224
 206649463,cilium/ebpf,Go,178
@@ -20,7 +20,7 @@ id,name,lang,new stars
 57912964,kubernetes/enhancements,Go,12
 299054922,alpkeskin/mosint,Go,286
 188836864,ledgerwatch/erigon,Go,22
-49970739,DataDog/datadog-agent,Go,10
+49970739,DataDog/datadog-agent,Go,11
 226368338,evcc-io/evcc,Go,89
 575295397,gofireflyio/aiac,Go,285
 218343552,maticnetwork/bor,Go,7
