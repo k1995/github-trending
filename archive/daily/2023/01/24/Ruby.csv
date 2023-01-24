@@ -1,12 +1,12 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,5
-52281283,mastodon/mastodon,Ruby,20
-8681349,huginn/huginn,Ruby,8
+52281283,mastodon/mastodon,Ruby,21
+8681349,huginn/huginn,Ruby,9
 2293158,rapid7/metasploit-framework,Ruby,4
-481872,hashicorp/vagrant,Ruby,4
+481872,hashicorp/vagrant,Ruby,5
 202291859,chatwoot/chatwoot,Ruby,5
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,3
-96071,rack/rack,Ruby,1
+96071,rack/rack,Ruby,0
 103766152,github/explore,Ruby,2
 10088951,TheOdinProject/theodinproject,Ruby,7
 1338040,otwcode/otwarchive,Ruby,0
@@ -14,7 +14,7 @@ id,name,lang,new stars
 34399150,Homebrew/homebrew-autoupdate,Ruby,0
 26467939,leandromoreira/redlock-rb,Ruby,0
 616448,mustache/spec,Ruby,0
-585707405,the-teacher/rails7-startkit,Ruby,10
+585707405,the-teacher/rails7-startkit,Ruby,8
 502505224,marvinscham/disenchanter,Ruby,1
 517823425,SwiftGen/SwiftGenPlugin,Ruby,0
 36821001,cloudfoundry/routing-release,Ruby,0
