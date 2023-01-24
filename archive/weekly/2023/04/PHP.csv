@@ -1,17 +1,17 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,131
+3482588,danielmiessler/SecLists,PHP,132
 1420053,guzzle/guzzle,PHP,25
 60243197,nextcloud/server,PHP,97
-82238168,monicahq/monica,PHP,70
+82238168,monicahq/monica,PHP,68
 1548202,matomo-org/matomo,PHP,20
 49014795,phpstan/phpstan,PHP,21
-14259390,SpartnerNL/Laravel-Excel,PHP,18
+14259390,SpartnerNL/Laravel-Excel,PHP,19
 597887,doctrine/orm,PHP,9
 6660366,dompdf/dompdf,PHP,23
-14346979,snipe/snipe-it,PHP,40
-6763587,PrestaShop/PrestaShop,PHP,12
+14346979,snipe/snipe-it,PHP,41
+6763587,PrestaShop/PrestaShop,PHP,11
 14075080,roots/bedrock,PHP,8
-248372441,filamentphp/filament,PHP,62
+248372441,filamentphp/filament,PHP,60
 148129143,bagisto/bagisto,PHP,37
 60010673,elementor/elementor,PHP,8
 1957456,Dolibarr/dolibarr,PHP,27
@@ -21,6 +21,6 @@ id,name,lang,new stars
 75645659,WordPress/wordpress-develop,PHP,12
 174395905,inertiajs/inertia-laravel,PHP,16
 433383766,nextcloud/all-in-one,PHP,40
-582059828,youshandefeiyang/IPTV,PHP,329
+582059828,youshandefeiyang/IPTV,PHP,323
 440520058,orhanerday/open-ai,PHP,52
-493550477,FOSSBilling/FOSSBilling,PHP,17
+493550477,FOSSBilling/FOSSBilling,PHP,18
