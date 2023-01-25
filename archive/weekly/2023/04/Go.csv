@@ -1,17 +1,17 @@
 id,name,lang,new stars
 17728164,hashicorp/terraform,Go,77
 14125254,hashicorp/consul,Go,34
-43723161,helm/helm,Go,36
-48003886,tmrts/go-patterns,Go,121
+43723161,helm/helm,Go,34
+48003886,tmrts/go-patterns,Go,120
 54400687,grafana/k6,Go,67
-180687624,aquasecurity/trivy,Go,182
+180687624,aquasecurity/trivy,Go,179
 72477752,pulumi/pulumi,Go,89
 8966356,hashicorp/packer,Go,22
-120896210,argoproj/argo-cd,Go,72
+120896210,argoproj/argo-cd,Go,71
 175405157,JanDeDobbeleer/oh-my-posh,Go,160
-93444615,hashicorp/terraform-provider-aws,Go,22
-150954997,VictoriaMetrics/VictoriaMetrics,Go,171
-392596825,ddosify/ddosify,Go,276
+93444615,hashicorp/terraform-provider-aws,Go,21
+150954997,VictoriaMetrics/VictoriaMetrics,Go,170
+392596825,ddosify/ddosify,Go,281
 139727567,stakater/Reloader,Go,32
 206649463,cilium/ebpf,Go,183
 93446042,hashicorp/terraform-provider-azurerm,Go,15
@@ -19,8 +19,8 @@ id,name,lang,new stars
 57912964,kubernetes/enhancements,Go,14
 54503347,opencontainers/image-spec,Go,13
 299054922,alpkeskin/mosint,Go,261
-238797860,ethereum-optimism/optimism,Go,91
+238797860,ethereum-optimism/optimism,Go,88
 188836864,ledgerwatch/erigon,Go,22
-49970739,DataDog/datadog-agent,Go,10
+49970739,DataDog/datadog-agent,Go,11
 22855240,Azure/azure-sdk-for-go,Go,8
 575295397,gofireflyio/aiac,Go,297
