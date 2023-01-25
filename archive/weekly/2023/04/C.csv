@@ -1,14 +1,14 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,384
-36502,git/git,C,113
+2325298,torvalds/linux,C,385
+36502,git/git,C,112
 5101141,stedolan/jq,C,71
 7634677,openssl/openssl,C,50
-13836499,raysan5/raylib,C,69
+13836499,raysan5/raylib,C,67
 65899476,espressif/esp-idf,C,49
 32921736,audacity/audacity,C,45
 59771425,zephyrproject-rtos/zephyr,C,38
-37060852,betaflight/betaflight,C,41
-59676171,Klipper3d/klipper,C,73
+37060852,betaflight/betaflight,C,39
+59676171,Klipper3d/klipper,C,74
 541269386,ggerganov/whisper.cpp,C,413
 40556106,wazuh/wazuh,C,25
 400501136,deepmind/mujoco,C,28
@@ -17,10 +17,10 @@ id,name,lang,new stars
 5720995,lxc/lxc,C,20
 34807561,nanopb/nanopb,C,16
 331380723,raspberrypi/pico-sdk,C,31
-226167620,InfiniTimeOrg/InfiniTime,C,23
+226167620,InfiniTimeOrg/InfiniTime,C,24
 646423,pgbouncer/pgbouncer,C,8
 207354223,FreeRTOS/FreeRTOS-Kernel,C,21
 191266671,algorand/go-algorand,C,6
-576303915,tiann/KernelSU,C,97
-529594820,jakkra/ZSWatch,C,299
-568919373,groundcover-com/caretta,C,284
+576303915,tiann/KernelSU,C,98
+529594820,jakkra/ZSWatch,C,295
+568919373,groundcover-com/caretta,C,277

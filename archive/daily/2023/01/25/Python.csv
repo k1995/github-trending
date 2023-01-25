@@ -2,7 +2,7 @@ id,name,lang,new stars
 155220641,huggingface/transformers,Python,74
 3638964,ansible/ansible,Python,7
 21467110,explosion/spaCy,Python,24
-91629816,freqtrade/freqtrade,Python,83
+91629816,freqtrade/freqtrade,Python,68
 1864233,frappe/erpnext,Python,13
 50936918,vishnubob/wait-for-it,Python,7
 155790228,sqlfluff/sqlfluff,Python,15
@@ -21,6 +21,6 @@ id,name,lang,new stars
 572620767,Xpitfire/symbolicai,Python,22
 576483053,home-assistant/intents,Python,3
 564045884,facebookresearch/dadaptation,Python,18
-488739607,JalaliLabUCLA/phycv,Python,25
 591789620,PanolasVal/Valorant-cheat-aimbot-and-esp-undetected-by-Panolas,Python,49
+488739607,JalaliLabUCLA/phycv,Python,25
 508638014,daveshap/LongtermChatExternalSources,Python,16
