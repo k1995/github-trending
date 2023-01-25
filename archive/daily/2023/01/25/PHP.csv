@@ -1,17 +1,17 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,6
+7548986,laravel/framework,PHP,9
 458058,symfony/symfony,PHP,8
 2253830,PHPMailer/PHPMailer,PHP,8
-1548202,matomo-org/matomo,PHP,2
+1548202,matomo-org/matomo,PHP,4
 3431193,yiisoft/yii2,PHP,0
 61490598,PHPOffice/PhpSpreadsheet,PHP,4
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,2
-41589337,BookStackApp/BookStack,PHP,10
+41589337,BookStackApp/BookStack,PHP,11
 2884111,magento/magento2,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,2
-597887,doctrine/orm,PHP,1
-6660366,dompdf/dompdf,PHP,3
-2179920,woocommerce/woocommerce,PHP,1
+597887,doctrine/orm,PHP,3
+6660366,dompdf/dompdf,PHP,4
+2179920,woocommerce/woocommerce,PHP,0
 14346979,snipe/snipe-it,PHP,7
 9131292,jenssegers/laravel-mongodb,PHP,1
 4551765,thephpleague/oauth2-server,PHP,1
@@ -21,6 +21,6 @@ id,name,lang,new stars
 13914116,librenms/librenms,PHP,2
 32792088,symfony/demo,PHP,0
 679584,openemr/openemr,PHP,6
-433383766,nextcloud/all-in-one,PHP,17
-582059828,youshandefeiyang/IPTV,PHP,34
-589465434,beetlehr/beetlehr,PHP,60
+433383766,nextcloud/all-in-one,PHP,13
+582059828,youshandefeiyang/IPTV,PHP,31
+589465434,beetlehr/beetlehr,PHP,59
