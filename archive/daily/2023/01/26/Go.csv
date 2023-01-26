@@ -5,14 +5,14 @@ id,name,lang,new stars
 21233191,ipfs/kubo,Go,5
 8966356,hashicorp/packer,Go,6
 36653430,hashicorp/nomad,Go,4
-7083242,go-sql-driver/mysql,Go,4
+7083242,go-sql-driver/mysql,Go,2
 33258973,influxdata/telegraf,Go,3
 120896210,argoproj/argo-cd,Go,14
 16554739,elastic/beats,Go,2
 367284699,lima-vm/lima,Go,10
 92313258,cert-manager/cert-manager,Go,6
 193833307,knadh/listmonk,Go,10
-40539602,99designs/aws-vault,Go,7
+40539602,99designs/aws-vault,Go,6
 9120526,jackc/pgx,Go,8
 105262714,oauth2-proxy/oauth2-proxy,Go,5
 166304026,BishopFox/sliver,Go,13
@@ -21,6 +21,6 @@ id,name,lang,new stars
 440752086,coder/coder,Go,14
 19608522,googleapis/google-cloud-go,Go,3
 173009358,deepmap/oapi-codegen,Go,28
-158012967,argoproj/argo-rollouts,Go,6
+158012967,argoproj/argo-rollouts,Go,4
 94029207,getkin/kin-openapi,Go,3
 589864627,lyc8503/EasierConnect,Go,43
