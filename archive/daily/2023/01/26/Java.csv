@@ -1,12 +1,12 @@
 id,name,lang,new stars
 44662669,dbeaver/dbeaver,Java,15
-7613257,SeleniumHQ/selenium,Java,10
+7613257,SeleniumHQ/selenium,Java,9
 20773773,bazelbuild/bazel,Java,5
 49876476,apache/shardingsphere,Java,2
 11125589,keycloak/keycloak,Java,10
-6650539,neo4j/neo4j,Java,40
+6650539,neo4j/neo4j,Java,36
 283046497,airbytehq/airbyte,Java,16
-283211901,yuliskov/SmartTubeNext,Java,34
+283211901,yuliskov/SmartTubeNext,Java,35
 50205233,debezium/debezium,Java,5
 206424,apache/cassandra,Java,3
 12499251,checkstyle/checkstyle,Java,2
@@ -19,7 +19,7 @@ id,name,lang,new stars
 2928948,Azure/azure-sdk-for-java,Java,1
 136858657,airsquared/blobsaver,Java,3
 235013588,in28minutes/devops-master-class,Java,1
-298640027,microsoft/playwright-java,Java,5
+298640027,microsoft/playwright-java,Java,6
 335756350,OWASP/crAPI,Java,4
 89221572,DataDog/dd-trace-java,Java,3
 74387321,confluentinc/kafka-connect-storage-cloud,Java,2
