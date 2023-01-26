@@ -1,17 +1,17 @@
 id,name,lang,new stars
-52281283,mastodon/mastodon,Ruby,32
+52281283,mastodon/mastodon,Ruby,28
 27442967,fastlane/fastlane,Ruby,4
-2293158,rapid7/metasploit-framework,Ruby,11
-481872,hashicorp/vagrant,Ruby,3
+2293158,rapid7/metasploit-framework,Ruby,12
+481872,hashicorp/vagrant,Ruby,2
 308770,heartcombo/devise,Ruby,4
-37382858,kilimchoi/engineering-blogs,Ruby,25
+37382858,kilimchoi/engineering-blogs,Ruby,22
 88740103,postalserver/postal,Ruby,6
-1918677,fluent/fluentd,Ruby,5
+1918677,fluent/fluentd,Ruby,6
 1725199,github/linguist,Ruby,2
 15435,Shopify/liquid,Ruby,1
 812393,ruby-grape/grape,Ruby,0
 275604,resque/resque,Ruby,1
-1145832,pry/pry,Ruby,1
+1145832,pry/pry,Ruby,2
 11607598,ruby-concurrency/concurrent-ruby,Ruby,1
 75785147,rails/webpacker,Ruby,0
 16994115,CanCanCommunity/cancancan,Ruby,0

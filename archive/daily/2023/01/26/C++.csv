@@ -1,12 +1,12 @@
 id,name,lang,new stars
-100060912,microsoft/terminal,C++,32
-65600975,pytorch/pytorch,C++,37
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,8
-6934395,facebook/rocksdb,C++,4
+100060912,microsoft/terminal,C++,30
+65600975,pytorch/pytorch,C++,39
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,7
+6934395,facebook/rocksdb,C++,5
 65214191,envoyproxy/envoy,C++,8
-125098880,ValveSoftware/Proton,C++,10
+125098880,ValveSoftware/Proton,C++,9
 81227005,facebookresearch/faiss,C++,15
-197275130,microsoft/winget-cli,C++,13
+197275130,microsoft/winget-cli,C++,12
 1062572,catchorg/Catch2,C++,7
 64991887,microsoft/LightGBM,C++,3
 344192338,microsoft/IoT-For-Beginners,C++,37
@@ -15,9 +15,9 @@ id,name,lang,new stars
 204593825,microsoft/STL,C++,16
 1690480,qgis/QGIS,C++,5
 14303048,mamedev/mame,C++,5
-470730648,hyprwm/Hyprland,C++,97
-23496542,openai/triton,C++,44
-170960160,seanbaxter/circle,C++,21
+470730648,hyprwm/Hyprland,C++,96
+23496542,openai/triton,C++,41
+170960160,seanbaxter/circle,C++,17
 330355479,xfangfang/wiliwili,C++,51
 75572324,OpenEnroth/OpenEnroth,C++,9
 294961602,Rosalie241/RMG,C++,3
