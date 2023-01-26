@@ -1,13 +1,13 @@
 id,name,lang,new stars
-724712,rust-lang/rust,Rust,38
+724712,rust-lang/rust,Rust,39
 53631945,BurntSushi/ripgrep,Rust,29
 121898717,dani-garcia/vaultwarden,Rust,134
-413918947,vercel/turbo,Rust,24
+413918947,vercel/turbo,Rust,27
 67836789,tokio-rs/tokio,Rust,19
-436658287,surrealdb/surrealdb,Rust,22
-127553476,rust-embedded/rust-raspberrypi-OS-tutorials,Rust,36
-292014229,zellij-org/zellij,Rust,24
-245166720,ajeetdsouza/zoxide,Rust,45
+436658287,surrealdb/surrealdb,Rust,24
+127553476,rust-embedded/rust-raspberrypi-OS-tutorials,Rust,32
+292014229,zellij-org/zellij,Rust,25
+245166720,ajeetdsouza/zoxide,Rust,42
 278933035,RustScan/RustScan,Rust,18
 580836813,google/comprehensive-rust,Rust,171
 230595891,launchbadge/sqlx,Rust,15
@@ -16,11 +16,11 @@ id,name,lang,new stars
 462597790,aptos-labs/aptos-core,Rust,12
 352051262,containers/youki,Rust,7
 268163609,qdrant/qdrant,Rust,25
-166616185,roc-lang/roc,Rust,15
-172165671,pdeljanov/Symphonia,Rust,53
+166616185,roc-lang/roc,Rust,14
+172165671,pdeljanov/Symphonia,Rust,52
 510034344,matanolabs/matano,Rust,6
 586220513,libsql/sqld,Rust,68
 588732058,zurawiki/gptcommit,Rust,20
-75988888,conundrumer/audioscope,Rust,7
+75988888,conundrumer/audioscope,Rust,8
 376533981,njsmith/posy,Rust,9
 590172097,kenbyte/rbloom,Rust,13
