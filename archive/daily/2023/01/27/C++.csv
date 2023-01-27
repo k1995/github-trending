@@ -1,9 +1,9 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,48
 65600975,pytorch/pytorch,C++,103
-39840932,google/googletest,C++,2
+39840932,google/googletest,C++,1
 191820100,google/mediapipe,C++,7
-19953044,google/flatbuffers,C++,6
+19953044,google/flatbuffers,C++,5
 197275130,microsoft/winget-cli,C++,11
 79317191,typesense/typesense,C++,14
 51905353,apache/arrow,C++,9
@@ -15,12 +15,12 @@ id,name,lang,new stars
 39211337,flutter/engine,C++,5
 244694174,project-chip/connectedhomeip,C++,10
 470730648,hyprwm/Hyprland,C++,63
-23496542,openai/triton,C++,29
+23496542,openai/triton,C++,28
 324829379,organicmaps/organicmaps,C++,9
 22660515,doctest/doctest,C++,2
 112542515,NVIDIA/cutlass,C++,7
 241597051,encrypted-def/basic-algo-lecture,C++,10
-170893393,ros-planning/moveit2,C++,5
+170893393,ros-planning/moveit2,C++,7
 585702047,Liuhaixv/Goose_Goose_Duck_Hack,C++,20
 587745729,iampawan/ChatGPT-Flutter-AIChatBot,C++,0
 591852564,hjenryin/BCJH-Metropolis,C++,6
