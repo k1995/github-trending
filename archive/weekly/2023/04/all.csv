@@ -1,26 +1,26 @@
 id,name,lang,new stars
 126577260,trekhleb/javascript-algorithms,JavaScript,2305
-71995937,nuxt/nuxt,TypeScript,1065
-136062240,DovAmir/awesome-design-patterns,,2135
-348060227,withastro/astro,TypeScript,576
+71995937,nuxt/nuxt,TypeScript,1063
+348060227,withastro/astro,TypeScript,574
 4524181,facebook/folly,C++,553
 307489284,remix-run/remix,TypeScript,171
-70908208,RasaHQ/rasa,Python,47
-419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,703
-109872620,paritytech/substrate,Rust,82
-331293626,refinedev/refine,TypeScript,363
+70908208,RasaHQ/rasa,Python,49
+590669331,google-research/tuning_playbook,,8962
+321659062,iperov/DeepFaceLive,Python,492
+333483116,dgtlmoon/changedetection.io,Python,218
 541269386,ggerganov/whisper.cpp,C,442
-534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1012
-552661142,hwchase17/langchain,Python,1094
-557075997,pynecone-io/pynecone,Python,1701
-538663825,resendlabs/react-email,TypeScript,984
-506449138,CatVodTVOfficial/TVBoxOSC,Java,179
-560704231,jerryjliu/gpt_index,Python,734
+50605426,microsoft/MixedRealityToolkit-Unity,C#,26
+534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1009
+552661142,hwchase17/langchain,Python,1100
+538663825,resendlabs/react-email,TypeScript,983
+426075845,MystenLabs/sui,Rust,88
+560704231,jerryjliu/gpt_index,Python,736
+385634291,grafana/mimir,Go,21
 583706111,LazyVim/LazyVim,Lua,2088
+586711486,timothybrooks/instruct-pix2pix,Python,2296
+425736647,massalabs/massa,Rust,656
 568430347,Dimillian/IceCubesApp,Swift,807
 586449743,Nutlope/restorePhotos,TypeScript,413
-575295397,gofireflyio/aiac,Go,291
-516735733,annfelix/DEVOPS-WORLD,,394
 589860087,karpathy/ng-video-lecture,Python,733
+584889017,Exafunction/codeium.vim,Vim Script,153
 589305348,rocketseat-education/nlw-setup-ignite,TypeScript,287
-588580023,HorrorPills/ChatGPT-Gnome-Desktop-Extension,JavaScript,209
