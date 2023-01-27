@@ -1,16 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,53
-2293158,rapid7/metasploit-framework,Ruby,62
-481872,hashicorp/vagrant,Ruby,29
-308770,heartcombo/devise,Ruby,16
-37382858,kilimchoi/engineering-blogs,Ruby,133
-73648678,forem/forem,Ruby,35
-202291859,chatwoot/chatwoot,Ruby,56
+8514,rails/rails,Ruby,55
+2293158,rapid7/metasploit-framework,Ruby,60
+481872,hashicorp/vagrant,Ruby,28
+308770,heartcombo/devise,Ruby,17
+37382858,kilimchoi/engineering-blogs,Ruby,134
+73648678,forem/forem,Ruby,31
+202291859,chatwoot/chatwoot,Ruby,55
 2203645,CocoaPods/CocoaPods,Ruby,12
-4095287,rubocop/rubocop,Ruby,16
+4095287,rubocop/rubocop,Ruby,15
 52855516,Homebrew/homebrew-core,Ruby,20
-1918677,fluent/fluentd,Ruby,17
-96395,faker-ruby/faker,Ruby,26
+1918677,fluent/fluentd,Ruby,16
+96395,faker-ruby/faker,Ruby,25
 15435,Shopify/liquid,Ruby,7
 587311,omniauth/omniauth,Ruby,4
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,37
@@ -22,5 +22,5 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,15
 200302808,ViewComponent/view_component,Ruby,9
 588600,brianmario/mysql2,Ruby,2
-569122226,ankane/polars-ruby,Ruby,104
-585707405,the-teacher/rails7-startkit,Ruby,41
+569122226,ankane/polars-ruby,Ruby,92
+585707405,the-teacher/rails7-startkit,Ruby,38
