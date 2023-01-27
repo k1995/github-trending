@@ -1,19 +1,19 @@
 id,name,lang,new stars
 126577260,trekhleb/javascript-algorithms,JavaScript,2305
-71995937,nuxt/nuxt,TypeScript,1064
+71995937,nuxt/nuxt,TypeScript,1065
 136062240,DovAmir/awesome-design-patterns,,2135
 348060227,withastro/astro,TypeScript,576
 4524181,facebook/folly,C++,553
 307489284,remix-run/remix,TypeScript,171
-70908208,RasaHQ/rasa,Python,49
+70908208,RasaHQ/rasa,Python,47
 419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,703
-109872620,paritytech/substrate,Rust,84
-331293626,refinedev/refine,TypeScript,360
-541269386,ggerganov/whisper.cpp,C,443
+109872620,paritytech/substrate,Rust,82
+331293626,refinedev/refine,TypeScript,363
+541269386,ggerganov/whisper.cpp,C,442
 534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1012
-552661142,hwchase17/langchain,Python,1095
+552661142,hwchase17/langchain,Python,1094
 557075997,pynecone-io/pynecone,Python,1701
-538663825,resendlabs/react-email,TypeScript,983
+538663825,resendlabs/react-email,TypeScript,984
 506449138,CatVodTVOfficial/TVBoxOSC,Java,179
 560704231,jerryjliu/gpt_index,Python,734
 583706111,LazyVim/LazyVim,Lua,2088
@@ -23,4 +23,4 @@ id,name,lang,new stars
 516735733,annfelix/DEVOPS-WORLD,,394
 589860087,karpathy/ng-video-lecture,Python,733
 589305348,rocketseat-education/nlw-setup-ignite,TypeScript,287
-588580023,HorrorPills/ChatGPT-Gnome-Desktop-Extension,JavaScript,216
+588580023,HorrorPills/ChatGPT-Gnome-Desktop-Extension,JavaScript,209
