@@ -5,10 +5,10 @@ id,name,lang,new stars
 4524181,facebook/folly,C++,553
 307489284,remix-run/remix,TypeScript,171
 70908208,RasaHQ/rasa,Python,49
-590669331,google-research/tuning_playbook,,8962
+590669331,google-research/tuning_playbook,,8354
 321659062,iperov/DeepFaceLive,Python,492
 333483116,dgtlmoon/changedetection.io,Python,218
-541269386,ggerganov/whisper.cpp,C,442
+541269386,ggerganov/whisper.cpp,C,446
 50605426,microsoft/MixedRealityToolkit-Unity,C#,26
 534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1009
 552661142,hwchase17/langchain,Python,1100
@@ -21,6 +21,6 @@ id,name,lang,new stars
 425736647,massalabs/massa,Rust,656
 568430347,Dimillian/IceCubesApp,Swift,807
 586449743,Nutlope/restorePhotos,TypeScript,413
-589860087,karpathy/ng-video-lecture,Python,733
+589860087,karpathy/ng-video-lecture,Python,691
 584889017,Exafunction/codeium.vim,Vim Script,153
 589305348,rocketseat-education/nlw-setup-ignite,TypeScript,287
