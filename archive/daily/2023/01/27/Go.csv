@@ -1,7 +1,7 @@
 id,name,lang,new stars
 12574344,spf13/cobra,Go,15
 13124802,influxdata/influxdb,Go,7
-13628513,sirupsen/logrus,Go,8
+13628513,sirupsen/logrus,Go,9
 21233191,ipfs/kubo,Go,4
 8966356,hashicorp/packer,Go,1
 36653430,hashicorp/nomad,Go,6
@@ -14,13 +14,13 @@ id,name,lang,new stars
 193833307,knadh/listmonk,Go,12
 40539602,99designs/aws-vault,Go,6
 9120526,jackc/pgx,Go,7
-105262714,oauth2-proxy/oauth2-proxy,Go,11
+105262714,oauth2-proxy/oauth2-proxy,Go,12
 166304026,BishopFox/sliver,Go,8
 63882194,projectcalico/calico,Go,4
 52555254,pressly/goose,Go,7
-440752086,coder/coder,Go,13
-19608522,googleapis/google-cloud-go,Go,1
-173009358,deepmap/oapi-codegen,Go,60
+440752086,coder/coder,Go,12
+19608522,googleapis/google-cloud-go,Go,2
+173009358,deepmap/oapi-codegen,Go,65
 158012967,argoproj/argo-rollouts,Go,2
 94029207,getkin/kin-openapi,Go,8
 589864627,lyc8503/EasierConnect,Go,28
