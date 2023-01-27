@@ -1,10 +1,10 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,24
+3482588,danielmiessler/SecLists,PHP,25
 2253830,PHPMailer/PHPMailer,PHP,2
-1548202,matomo-org/matomo,PHP,3
+1548202,matomo-org/matomo,PHP,2
 2889328,WordPress/WordPress,PHP,3
-47495360,koel/koel,PHP,13
-14259390,SpartnerNL/Laravel-Excel,PHP,5
+47495360,koel/koel,PHP,12
+14259390,SpartnerNL/Laravel-Excel,PHP,4
 41589337,BookStackApp/BookStack,PHP,9
 14346979,snipe/snipe-it,PHP,3
 6763587,PrestaShop/PrestaShop,PHP,5
@@ -12,15 +12,15 @@ id,name,lang,new stars
 439861,moodle/moodle,PHP,1
 351298555,thedevdojo/wave,PHP,4
 29126334,EasyCorp/EasyAdminBundle,PHP,0
-117567334,spatie/laravel-query-builder,PHP,9
+117567334,spatie/laravel-query-builder,PHP,8
 73781385,orchidsoftware/platform,PHP,2
-286645686,yuantuo666/baiduwp-php,PHP,4
-216849756,v2board/v2board,PHP,5
-58001483,laravel/valet,PHP,3
+286645686,yuantuo666/baiduwp-php,PHP,6
+216849756,v2board/v2board,PHP,3
+58001483,laravel/valet,PHP,2
 29501260,api-platform/core,PHP,1
 131995661,shopware/platform,PHP,3
 138328462,freescout-helpdesk/freescout,PHP,6
 75645659,WordPress/wordpress-develop,PHP,1
 14976752,vyuldashev/laravel-queue-rabbitmq,PHP,2
-440520058,orhanerday/open-ai,PHP,6
-589070510,aschmelyun/fleet,PHP,8
+440520058,orhanerday/open-ai,PHP,3
+589070510,aschmelyun/fleet,PHP,6
