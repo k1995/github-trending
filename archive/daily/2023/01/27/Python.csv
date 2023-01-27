@@ -6,7 +6,7 @@ id,name,lang,new stars
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,114
 206660580,facebookresearch/detectron2,Python,12
 168799526,rwightman/pytorch-image-models,Python,13
-266417772,pittcsc/Summer2023-Internships,Python,23
+266417772,pittcsc/Summer2023-Internships,Python,18
 55626935,microsoft/WSL,Python,5
 498011141,huggingface/diffusers,Python,27
 91948540,ranaroussi/yfinance,Python,16
@@ -16,11 +16,11 @@ id,name,lang,new stars
 261117191,devanshbatham/Awesome-Bugbounty-Writeups,Python,42
 149554797,ethereum/consensus-specs,Python,2
 553679010,initialcommit-com/git-sim,Python,348
-545104023,CarperAI/trlx,Python,39
-369428935,microsoft/torchgeo,Python,16
-250510075,lvwerra/trl,Python,94
-215905001,Azure/Azure-Network-Security,Python,4
+545104023,CarperAI/trlx,Python,30
+369428935,microsoft/torchgeo,Python,10
+250510075,lvwerra/trl,Python,63
+215905001,Azure/Azure-Network-Security,Python,5
 581884183,AzeemIdrisi/PhoneSploit-Pro,Python,50
 508638014,daveshap/LongtermChatExternalSources,Python,64
-592533552,Sentdex/ChatGPT-at-Home,Python,33
+592533552,Sentdex/ChatGPT-at-Home,Python,26
 593268660,Klace/stable-diffusion-webui-instruct-pix2pix,Python,21

@@ -5,14 +5,14 @@ id,name,lang,new stars
 308770,heartcombo/devise,Ruby,18
 37382858,kilimchoi/engineering-blogs,Ruby,138
 202291859,chatwoot/chatwoot,Ruby,56
-2203645,CocoaPods/CocoaPods,Ruby,11
-4095287,rubocop/rubocop,Ruby,8
+2203645,CocoaPods/CocoaPods,Ruby,10
+4095287,rubocop/rubocop,Ruby,6
 52855516,Homebrew/homebrew-core,Ruby,19
-96395,faker-ruby/faker,Ruby,21
+96395,faker-ruby/faker,Ruby,15
 15435,Shopify/liquid,Ruby,8
 451035,heartcombo/simple_form,Ruby,6
 587311,omniauth/omniauth,Ruby,6
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,37
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,36
 6899875,opf/openproject,Ruby,22
 355893,github/markup,Ruby,8
 535266,vcr/vcr,Ruby,7
@@ -21,6 +21,6 @@ id,name,lang,new stars
 93163073,dependabot/dependabot-core,Ruby,14
 200302808,ViewComponent/view_component,Ruby,12
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,8
-11980558,github/pages-gem,Ruby,6
+11980558,github/pages-gem,Ruby,7
 229187949,shivammathur/homebrew-php,Ruby,23
-3064003,pglombardo/PasswordPusher,Ruby,14
+3064003,pglombardo/PasswordPusher,Ruby,15
