@@ -8,7 +8,7 @@ id,name,lang,new stars
 1090311,elastic/logstash,Java,3
 23418517,apache/hadoop,Java,2
 139914932,quarkusio/quarkus,Java,9
-190964861,gyoogle/tech-interview-for-developer,Java,19
+190964861,gyoogle/tech-interview-for-developer,Java,14
 283046497,airbytehq/airbyte,Java,18
 16446099,cryptomator/cryptomator,Java,25
 75882172,Netflix/conductor,Java,14
@@ -17,7 +17,7 @@ id,name,lang,new stars
 671825,Graylog2/graylog2-server,Java,1
 50904245,apache/beam,Java,10
 29102367,junit-team/junit5,Java,4
-2544305,wiremock/wiremock,Java,4
+2544305,wiremock/wiremock,Java,1
 337054443,xManager-App/xManager,Java,17
 1258570,osmandapp/OsmAnd,Java,18
 283556607,spring-projects/spring-security-samples,Java,2
