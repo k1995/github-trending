@@ -1,18 +1,18 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,52
-2293158,rapid7/metasploit-framework,Ruby,72
+8514,rails/rails,Ruby,53
+2293158,rapid7/metasploit-framework,Ruby,75
 481872,hashicorp/vagrant,Ruby,27
-308770,heartcombo/devise,Ruby,18
-37382858,kilimchoi/engineering-blogs,Ruby,138
-202291859,chatwoot/chatwoot,Ruby,56
+308770,heartcombo/devise,Ruby,17
+37382858,kilimchoi/engineering-blogs,Ruby,140
+202291859,chatwoot/chatwoot,Ruby,54
 2203645,CocoaPods/CocoaPods,Ruby,10
-4095287,rubocop/rubocop,Ruby,6
+4095287,rubocop/rubocop,Ruby,5
 52855516,Homebrew/homebrew-core,Ruby,19
-96395,faker-ruby/faker,Ruby,15
+96395,faker-ruby/faker,Ruby,14
 15435,Shopify/liquid,Ruby,8
 451035,heartcombo/simple_form,Ruby,6
 587311,omniauth/omniauth,Ruby,6
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,36
+69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,34
 6899875,opf/openproject,Ruby,22
 355893,github/markup,Ruby,8
 535266,vcr/vcr,Ruby,7
@@ -20,7 +20,7 @@ id,name,lang,new stars
 96071,rack/rack,Ruby,7
 93163073,dependabot/dependabot-core,Ruby,14
 200302808,ViewComponent/view_component,Ruby,12
-1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,8
+1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,9
 11980558,github/pages-gem,Ruby,7
-229187949,shivammathur/homebrew-php,Ruby,23
+229187949,shivammathur/homebrew-php,Ruby,24
 3064003,pglombardo/PasswordPusher,Ruby,15

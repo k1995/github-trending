@@ -1,26 +1,26 @@
 id,name,lang,new stars
-126577260,trekhleb/javascript-algorithms,JavaScript,2434
-71995937,nuxt/nuxt,TypeScript,1065
-348060227,withastro/astro,TypeScript,576
-4524181,facebook/folly,C++,553
+126577260,trekhleb/javascript-algorithms,JavaScript,2472
+71995937,nuxt/nuxt,TypeScript,1084
+348060227,withastro/astro,TypeScript,668
+4524181,facebook/folly,C++,285
 307489284,remix-run/remix,TypeScript,177
-70908208,RasaHQ/rasa,Python,44
-590669331,google-research/tuning_playbook,,8940
-321659062,iperov/DeepFaceLive,Python,492
-333483116,dgtlmoon/changedetection.io,Python,219
-541269386,ggerganov/whisper.cpp,C,449
+70908208,RasaHQ/rasa,Python,49
+590669331,google-research/tuning_playbook,,6618
+321659062,iperov/DeepFaceLive,Python,437
+333483116,dgtlmoon/changedetection.io,Python,237
+541269386,ggerganov/whisper.cpp,C,446
 50605426,microsoft/MixedRealityToolkit-Unity,C#,27
-534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1012
-552661142,hwchase17/langchain,Python,1094
-538663825,resendlabs/react-email,TypeScript,984
-426075845,MystenLabs/sui,Rust,92
-560704231,jerryjliu/gpt_index,Python,734
-385634291,grafana/mimir,Go,21
-583706111,LazyVim/LazyVim,Lua,2088
-586711486,timothybrooks/instruct-pix2pix,Python,2297
-425736647,massalabs/massa,Rust,656
-568430347,Dimillian/IceCubesApp,Swift,807
+534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1250
+552661142,hwchase17/langchain,Python,912
+538663825,resendlabs/react-email,TypeScript,968
+426075845,MystenLabs/sui,Rust,95
+560704231,jerryjliu/gpt_index,Python,710
+385634291,grafana/mimir,Go,24
+583706111,LazyVim/LazyVim,Lua,2150
+586711486,timothybrooks/instruct-pix2pix,Python,2270
+425736647,massalabs/massa,Rust,536
+568430347,Dimillian/IceCubesApp,Swift,648
 586449743,Nutlope/restorePhotos,TypeScript,414
-589860087,karpathy/ng-video-lecture,Python,655
-584889017,Exafunction/codeium.vim,Vim Script,141
-589305348,rocketseat-education/nlw-setup-ignite,TypeScript,287
+589860087,karpathy/ng-video-lecture,Python,539
+584889017,Exafunction/codeium.vim,Vim Script,137
+589305348,rocketseat-education/nlw-setup-ignite,TypeScript,204
