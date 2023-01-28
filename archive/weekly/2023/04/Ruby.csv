@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,54
-2293158,rapid7/metasploit-framework,Ruby,84
+8514,rails/rails,Ruby,56
+2293158,rapid7/metasploit-framework,Ruby,83
 481872,hashicorp/vagrant,Ruby,27
-308770,heartcombo/devise,Ruby,18
+308770,heartcombo/devise,Ruby,19
 37382858,kilimchoi/engineering-blogs,Ruby,142
-202291859,chatwoot/chatwoot,Ruby,53
-3314,spree/spree,Ruby,12
+202291859,chatwoot/chatwoot,Ruby,52
+3314,spree/spree,Ruby,11
 52855516,Homebrew/homebrew-core,Ruby,20
 1918677,fluent/fluentd,Ruby,18
-1725199,github/linguist,Ruby,13
+1725199,github/linguist,Ruby,14
 15435,Shopify/liquid,Ruby,8
 361310,teamcapybara/capybara,Ruby,11
 587311,omniauth/omniauth,Ruby,4
@@ -16,8 +16,8 @@ id,name,lang,new stars
 355893,github/markup,Ruby,9
 535266,vcr/vcr,Ruby,6
 30985840,solidusio/solidus,Ruby,5
-2981455,github/gemoji,Ruby,7
-103766152,github/explore,Ruby,21
+2981455,github/gemoji,Ruby,8
+103766152,github/explore,Ruby,20
 93163073,dependabot/dependabot-core,Ruby,12
 200302808,ViewComponent/view_component,Ruby,12
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,10

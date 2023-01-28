@@ -13,7 +13,7 @@ id,name,lang,new stars
 523043277,charliermarsh/ruff,Rust,109
 397618589,messense/aliyundrive-webdav,Rust,10
 575340621,lencx/ChatGPT,Rust,121
-35566048,crossbeam-rs/crossbeam,Rust,11
+35566048,crossbeam-rs/crossbeam,Rust,16
 519882617,leptos-rs/leptos,Rust,46
 462597790,aptos-labs/aptos-core,Rust,29
 58146669,facebook/sapling,Rust,1
@@ -23,4 +23,4 @@ id,name,lang,new stars
 189174934,matter-labs/zksync,Rust,24
 240971104,AleoHQ/snarkOS,Rust,4
 480592723,move-language/move,Rust,4
-295245253,geph-official/geph4-client,Rust,6
+295245253,geph-official/geph4-client,Rust,5
