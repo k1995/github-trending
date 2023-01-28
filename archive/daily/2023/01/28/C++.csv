@@ -1,5 +1,5 @@
 id,name,lang,new stars
-9384267,electron/electron,C++,20
+9384267,electron/electron,C++,19
 5108051,opencv/opencv,C++,19
 22887094,tesseract-ocr/tesseract,C++,43
 39840932,google/googletest,C++,3
@@ -14,10 +14,10 @@ id,name,lang,new stars
 189205663,qinguoyi/TinyWebServer,C++,11
 204593825,microsoft/STL,C++,17
 1204412,TrinityCore/TrinityCore,C++,9
-39211337,flutter/engine,C++,7
+39211337,flutter/engine,C++,6
 244694174,project-chip/connectedhomeip,C++,2
-470730648,hyprwm/Hyprland,C++,23
-52882701,prusa3d/PrusaSlicer,C++,12
+470730648,hyprwm/Hyprland,C++,21
+52882701,prusa3d/PrusaSlicer,C++,13
 4930716,zeek/zeek,C++,3
 10160141,doxygen/doxygen,C++,4
 354138793,NVIDIA/FasterTransformer,C++,8
