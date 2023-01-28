@@ -1,13 +1,13 @@
 id,name,lang,new stars
 155220641,huggingface/transformers,Python,603
-4578002,faif/python-patterns,Python,78
+4578002,faif/python-patterns,Python,80
 33884891,apache/airflow,Python,108
 91629816,freqtrade/freqtrade,Python,230
 222751131,Asabeneh/30-Days-Of-Python,Python,319
-170067246,openai/gpt-2,Python,85
-70908208,RasaHQ/rasa,Python,49
+170067246,openai/gpt-2,Python,88
+70908208,RasaHQ/rasa,Python,51
 321659062,iperov/DeepFaceLive,Python,437
-24774658,boto/boto3,Python,25
+24774658,boto/boto3,Python,26
 333483116,dgtlmoon/changedetection.io,Python,237
 344554014,TomSchimansky/CustomTkinter,Python,364
 315490189,dortania/OpenCore-Legacy-Patcher,Python,300
@@ -19,7 +19,7 @@ id,name,lang,new stars
 586711486,timothybrooks/instruct-pix2pix,Python,2270
 573203730,openai/tiktoken,Python,94
 589860087,karpathy/ng-video-lecture,Python,539
-365250183,zauberzeug/nicegui,Python,201
+365250183,zauberzeug/nicegui,Python,199
 587701234,enhuiz/vall-e,Python,128
 501783987,karpathy/makemore,Python,48
 534014001,databricks-academy/data-engineer-learning-path,Python,265

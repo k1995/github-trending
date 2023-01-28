@@ -1,12 +1,12 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,23
+3482588,danielmiessler/SecLists,PHP,22
 2253830,PHPMailer/PHPMailer,PHP,3
 1548202,matomo-org/matomo,PHP,1
 2889328,WordPress/WordPress,PHP,4
 47495360,koel/koel,PHP,14
-14259390,SpartnerNL/Laravel-Excel,PHP,2
-41589337,BookStackApp/BookStack,PHP,11
-14346979,snipe/snipe-it,PHP,3
+14259390,SpartnerNL/Laravel-Excel,PHP,3
+41589337,BookStackApp/BookStack,PHP,10
+14346979,snipe/snipe-it,PHP,1
 6763587,PrestaShop/PrestaShop,PHP,5
 4242230,PHPOffice/PHPWord,PHP,2
 439861,moodle/moodle,PHP,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 138328462,freescout-helpdesk/freescout,PHP,6
 75645659,WordPress/wordpress-develop,PHP,0
 14976752,vyuldashev/laravel-queue-rabbitmq,PHP,3
-440520058,orhanerday/open-ai,PHP,4
-589070510,aschmelyun/fleet,PHP,9
+440520058,orhanerday/open-ai,PHP,5
+589070510,aschmelyun/fleet,PHP,10
