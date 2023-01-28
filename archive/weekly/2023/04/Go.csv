@@ -1,6 +1,6 @@
 id,name,lang,new stars
 17728164,hashicorp/terraform,Go,76
-212613049,cli/cli,Go,105
+212613049,cli/cli,Go,102
 31288958,hashicorp/vault,Go,29
 72477752,pulumi/pulumi,Go,72
 120896210,argoproj/argo-cd,Go,64
@@ -9,12 +9,12 @@ id,name,lang,new stars
 14508450,gophish/gophish,Go,30
 27576132,aws/aws-sdk-go,Go,10
 16907502,fatih/color,Go,40
-392596825,ddosify/ddosify,Go,363
+392596825,ddosify/ddosify,Go,360
 120519269,runatlantis/atlantis,Go,42
 267054247,anchore/grype,Go,45
-166304026,BishopFox/sliver,Go,82
-330616364,evrone/go-clean-template,Go,235
-278480393,aws/karpenter,Go,37
+166304026,BishopFox/sliver,Go,83
+330616364,evrone/go-clean-template,Go,239
+278480393,aws/karpenter,Go,34
 173009358,deepmap/oapi-codegen,Go,155
 313853293,cloudquery/cloudquery,Go,99
 385634291,grafana/mimir,Go,24
