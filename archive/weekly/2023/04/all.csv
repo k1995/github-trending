@@ -1,26 +1,26 @@
 id,name,lang,new stars
 126577260,trekhleb/javascript-algorithms,JavaScript,2592
 100060912,microsoft/terminal,C++,221
-71583602,Developer-Y/cs-video-courses,,1200
+71583602,Developer-Y/cs-video-courses,,1000
 71995937,nuxt/nuxt,TypeScript,1038
 212639071,bregman-arie/devops-exercises,Python,899
 2293158,rapid7/metasploit-framework,Ruby,85
 313330998,bradtraversy/50projects50days,CSS,622
-70908208,RasaHQ/rasa,Python,61
-590669331,google-research/tuning_playbook,,5621
+70908208,RasaHQ/rasa,Python,74
+590669331,google-research/tuning_playbook,,4757
 326404870,SigNoz/signoz,TypeScript,216
 321659062,iperov/DeepFaceLive,Python,353
-91948540,ranaroussi/yfinance,Python,182
-523043277,charliermarsh/ruff,Rust,565
-534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1437
+91948540,ranaroussi/yfinance,Python,172
+523043277,charliermarsh/ruff,Rust,563
+534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1439
 552661142,hwchase17/langchain,Python,909
-557075997,pynecone-io/pynecone,Python,1365
-538663825,resendlabs/react-email,TypeScript,891
+557075997,pynecone-io/pynecone,Python,1367
+538663825,resendlabs/react-email,TypeScript,892
 426075845,MystenLabs/sui,Rust,111
-586711486,timothybrooks/instruct-pix2pix,Python,1958
-583706111,LazyVim/LazyVim,Lua,2121
-568430347,Dimillian/IceCubesApp,Swift,561
+586711486,timothybrooks/instruct-pix2pix,Python,1502
+583706111,LazyVim/LazyVim,Lua,2120
+568430347,Dimillian/IceCubesApp,Swift,547
 517990,DFHack/dfhack,C++,131
-586449743,Nutlope/restorePhotos,TypeScript,396
-575295397,gofireflyio/aiac,Go,268
+586449743,Nutlope/restorePhotos,TypeScript,397
+575295397,gofireflyio/aiac,Go,270
 589860087,karpathy/ng-video-lecture,Python,345
