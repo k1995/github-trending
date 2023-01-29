@@ -7,7 +7,7 @@ id,name,lang,new stars
 7549096,doctrine/inflector,PHP,1
 1398648,symfony/http-foundation,PHP,1
 1398641,symfony/finder,PHP,1
-44745130,symfony/polyfill-mbstring,PHP,1
+44745130,symfony/polyfill-mbstring,PHP,3
 1398660,symfony/routing,PHP,1
 1398656,symfony/process,PHP,1
 95011974,akaunting/akaunting,PHP,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 129852395,assimon/dujiaoka,PHP,8
 286645686,yuantuo666/baiduwp-php,PHP,7
 38957562,leokhoa/laragon,PHP,6
-216849756,v2board/v2board,PHP,4
+216849756,v2board/v2board,PHP,5
 582445575,openai-php/laravel,PHP,4
 462074839,pdphilip/laravel-elasticsearch,PHP,4
 580311458,spatie/laravel-help-space,PHP,2
