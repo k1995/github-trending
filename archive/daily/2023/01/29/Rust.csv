@@ -3,7 +3,7 @@ id,name,lang,new stars
 196701619,tauri-apps/tauri,Rust,64
 299354207,rustdesk/rustdesk,Rust,44
 130688011,meilisearch/meilisearch,Rust,33
-234798675,bevyengine/bevy,Rust,29
+234798675,bevyengine/bevy,Rust,32
 268424739,helix-editor/helix,Rust,34
 152572186,wasmerio/wasmer,Rust,10
 23500865,hyperium/hyper,Rust,9
@@ -11,8 +11,8 @@ id,name,lang,new stars
 26850443,rust-lang/rust-clippy,Rust,5
 155783257,linebender/druid,Rust,61
 523043277,charliermarsh/ruff,Rust,85
-397618589,messense/aliyundrive-webdav,Rust,11
 575340621,lencx/ChatGPT,Rust,194
+397618589,messense/aliyundrive-webdav,Rust,11
 35566048,crossbeam-rs/crossbeam,Rust,13
 519882617,leptos-rs/leptos,Rust,55
 462597790,aptos-labs/aptos-core,Rust,8

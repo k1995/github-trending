@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7548986,laravel/framework,PHP,4
+7548986,laravel/framework,PHP,2
 448045,sebastianbergmann/phpunit,PHP,3
 5724990,briannesbitt/Carbon,PHP,1
 61490598,PHPOffice/PhpSpreadsheet,PHP,2
@@ -9,7 +9,7 @@ id,name,lang,new stars
 116389886,Anankke/SSPanel-Uim,PHP,1
 6763587,PrestaShop/PrestaShop,PHP,2
 117567334,spatie/laravel-query-builder,PHP,2
-286645686,yuantuo666/baiduwp-php,PHP,6
+286645686,yuantuo666/baiduwp-php,PHP,8
 38957562,leokhoa/laragon,PHP,8
 39182755,glpi-project/glpi,PHP,3
 12063996,osTicket/osTicket,PHP,1
@@ -18,7 +18,7 @@ id,name,lang,new stars
 138328462,freescout-helpdesk/freescout,PHP,1
 36888692,spatie/package-skeleton-laravel,PHP,2
 34407154,cweagans/composer-patches,PHP,0
-541322916,openai-php/client,PHP,8
+541322916,openai-php/client,PHP,3
 187452214,sebastianbergmann/type,PHP,1
 513468803,ine-labs/AWSGoat,PHP,5
 582445575,openai-php/laravel,PHP,15
