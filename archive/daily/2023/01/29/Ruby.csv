@@ -1,10 +1,10 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,3
+7569578,discourse/discourse,Ruby,4
 27442967,fastlane/fastlane,Ruby,2
 2293158,rapid7/metasploit-framework,Ruby,14
-481872,hashicorp/vagrant,Ruby,4
-308770,heartcombo/devise,Ruby,3
-538746,ruby/ruby,Ruby,3
+481872,hashicorp/vagrant,Ruby,3
+308770,heartcombo/devise,Ruby,4
+538746,ruby/ruby,Ruby,4
 3195124,mperham/sidekiq,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
 3314,spree/spree,Ruby,0
@@ -18,9 +18,9 @@ id,name,lang,new stars
 1980539,drapergem/draper,Ruby,1
 1734,aasm/aasm,Ruby,1
 38867,svenfuchs/rails-i18n,Ruby,1
-103766152,github/explore,Ruby,5
+103766152,github/explore,Ruby,6
 1404127,jwt/ruby-jwt,Ruby,1
 200302808,ViewComponent/view_component,Ruby,1
 904810,rubysherpas/paranoia,Ruby,0
-242765280,bensheldon/good_job,Ruby,1
+242765280,bensheldon/good_job,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
