@@ -1,16 +1,16 @@
 id,name,lang,new stars
-17728164,hashicorp/terraform,Go,75
-212613049,cli/cli,Go,104
+17728164,hashicorp/terraform,Go,76
+212613049,cli/cli,Go,107
 72477752,pulumi/pulumi,Go,67
-120896210,argoproj/argo-cd,Go,69
-119419195,GoogleContainerTools/kaniko,Go,38
-533087958,terrastruct/d2,Go,371
-175405157,JanDeDobbeleer/oh-my-posh,Go,160
+120896210,argoproj/argo-cd,Go,70
+119419195,GoogleContainerTools/kaniko,Go,37
+533087958,terrastruct/d2,Go,372
+175405157,JanDeDobbeleer/oh-my-posh,Go,163
 105262714,oauth2-proxy/oauth2-proxy,Go,56
 16907502,fatih/color,Go,50
-392596825,ddosify/ddosify,Go,363
+392596825,ddosify/ddosify,Go,364
 120519269,runatlantis/atlantis,Go,41
-267054247,anchore/grype,Go,51
+267054247,anchore/grype,Go,52
 166304026,BishopFox/sliver,Go,87
 330616364,evrone/go-clean-template,Go,251
 278480393,aws/karpenter,Go,36
@@ -19,8 +19,8 @@ id,name,lang,new stars
 313853293,cloudquery/cloudquery,Go,114
 385634291,grafana/mimir,Go,26
 238797860,ethereum-optimism/optimism,Go,100
-188836864,ledgerwatch/erigon,Go,20
+188836864,ledgerwatch/erigon,Go,19
 155368246,elastic/cloud-on-k8s,Go,8
-94029207,getkin/kin-openapi,Go,40
-575295397,gofireflyio/aiac,Go,268
-478855574,projectdiscovery/pdtm,Go,74
+94029207,getkin/kin-openapi,Go,35
+575295397,gofireflyio/aiac,Go,270
+478855574,projectdiscovery/pdtm,Go,73
