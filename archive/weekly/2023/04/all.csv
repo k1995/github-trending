@@ -3,24 +3,24 @@ id,name,lang,new stars
 100060912,microsoft/terminal,C++,221
 71995937,nuxt/nuxt,TypeScript,1038
 49609581,PowerShell/PowerShell,C#,168
-4524181,facebook/folly,C++,120
-70908208,RasaHQ/rasa,Python,61
-590669331,google-research/tuning_playbook,,5621
+4524181,facebook/folly,C++,121
+70908208,RasaHQ/rasa,Python,68
+590669331,google-research/tuning_playbook,,5620
 321659062,iperov/DeepFaceLive,Python,353
+333483116,dgtlmoon/changedetection.io,Python,262
 24774658,boto/boto3,Python,31
-333483116,dgtlmoon/changedetection.io,Python,263
-534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1437
-552661142,hwchase17/langchain,Python,911
-538663825,resendlabs/react-email,TypeScript,891
+534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1439
+552661142,hwchase17/langchain,Python,909
+538663825,resendlabs/react-email,TypeScript,892
 426075845,MystenLabs/sui,Rust,111
-560704231,jerryjliu/gpt_index,Python,611
+560704231,jerryjliu/gpt_index,Python,599
 583706111,LazyVim/LazyVim,Lua,2120
-586711486,timothybrooks/instruct-pix2pix,Python,1957
+586711486,timothybrooks/instruct-pix2pix,Python,1958
 425736647,massalabs/massa,Rust,426
-568430347,Dimillian/IceCubesApp,Swift,555
+568430347,Dimillian/IceCubesApp,Swift,547
 517990,DFHack/dfhack,C++,131
-586449743,Nutlope/restorePhotos,TypeScript,398
+586449743,Nutlope/restorePhotos,TypeScript,397
 575295397,gofireflyio/aiac,Go,270
 589860087,karpathy/ng-video-lecture,Python,345
 589305348,rocketseat-education/nlw-setup-ignite,TypeScript,163
-588580023,HorrorPills/ChatGPT-Gnome-Desktop-Extension,JavaScript,130
+588580023,HorrorPills/ChatGPT-Gnome-Desktop-Extension,JavaScript,111
