@@ -1,17 +1,19 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,146
+3482588,danielmiessler/SecLists,PHP,147
 7548986,laravel/framework,PHP,42
 458058,symfony/symfony,PHP,42
-41589337,BookStackApp/BookStack,PHP,71
+4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,23
+41589337,BookStackApp/BookStack,PHP,69
 2884111,magento/magento2,PHP,12
-11340559,deployphp/deployer,PHP,14
 597887,doctrine/orm,PHP,16
-6660366,dompdf/dompdf,PHP,19
 2179920,woocommerce/woocommerce,PHP,11
 9791525,digininja/DVWA,PHP,35
 2141186,opencart/opencart,PHP,18
-248372441,filamentphp/filament,PHP,71
-60010673,elementor/elementor,PHP,21
+248372441,filamentphp/filament,PHP,67
+60010673,elementor/elementor,PHP,22
+47508644,pterodactyl/panel,PHP,52
+439861,moodle/moodle,PHP,12
+2464908,joomla/joomla-cms,PHP,13
 1957456,Dolibarr/dolibarr,PHP,21
 117567334,spatie/laravel-query-builder,PHP,18
 73781385,orchidsoftware/platform,PHP,26
@@ -19,8 +21,6 @@ id,name,lang,new stars
 39182755,glpi-project/glpi,PHP,13
 74026995,CodelyTV/php-ddd-example,PHP,10
 679584,openemr/openemr,PHP,19
-25987947,smarty-php/smarty,PHP,3
-138328462,freescout-helpdesk/freescout,PHP,22
-433383766,nextcloud/all-in-one,PHP,53
-582059828,youshandefeiyang/IPTV,PHP,265
+138328462,freescout-helpdesk/freescout,PHP,23
+433383766,nextcloud/all-in-one,PHP,52
 79653761,WhiteWinterWolf/wwwolf-php-webshell,PHP,44
