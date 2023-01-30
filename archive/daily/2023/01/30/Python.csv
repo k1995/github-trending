@@ -2,15 +2,15 @@ id,name,lang,new stars
 83222441,donnemartin/system-design-primer,Python,158
 123458551,jackfrued/Python-100-Days,Python,76
 58028038,521xueweihan/HelloGitHub,Python,46
-136026789,iperov/DeepFaceLab,Python,26
 212639071,bregman-arie/devops-exercises,Python,478
+136026789,iperov/DeepFaceLab,Python,26
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,190
 254832799,Z4nzu/hackingtool,Python,130
 31522041,vnpy/vnpy,Python,13
 143328315,mindsdb/mindsdb,Python,60
 305144746,geohot/tinygrad,Python,52
 20206590,rougier/numpy-100,Python,35
-14434734,ReFirmLabs/binwalk,Python,9
+14434734,ReFirmLabs/binwalk,Python,7
 390896426,microsoft/fluentui-emoji,Python,36
 577603990,LAION-AI/Open-Assistant,Python,263
 142351241,HackSoftware/Django-Styleguide,Python,39
@@ -21,6 +21,6 @@ id,name,lang,new stars
 581884183,AzeemIdrisi/PhoneSploit-Pro,Python,475
 513726207,approximatelabs/sketch,Python,30
 244018792,botallen/repository.botallen,Python,1
-524871042,microsoft/BioGPT,Python,31
-589837413,facebookresearch/CutLER,Python,42
+524871042,microsoft/BioGPT,Python,42
 589743600,hwchase17/chat-langchain,Python,24
+589837413,facebookresearch/CutLER,Python,42
