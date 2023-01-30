@@ -6,13 +6,13 @@ id,name,lang,new stars
 6201092,mpv-player/mpv,C,18
 80286288,arendst/Tasmota,C,7
 37912398,nginx/nginx,C,2
-34921116,iovisor/bcc,C,12
+34921116,iovisor/bcc,C,10
 27737393,qmk/qmk_firmware,C,9
-45821540,openwrt/openwrt,C,10
+45821540,openwrt/openwrt,C,12
 105627846,reactos/reactos,C,5
 214011414,kingToolbox/WindTerm,C,21
 60667730,lvgl/lvgl,C,16
-70127218,espressif/arduino-esp32,C,4
+70127218,espressif/arduino-esp32,C,5
 88327406,xmrig/xmrig,C,3
 1613176,tianocore/edk2,C,1
 331380723,raspberrypi/pico-sdk,C,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 529594820,jakkra/ZSWatch,C,26
 97018750,0xdea/exploits,C,46
 459693353,akamai/akamai-security-research,C,7
-382113009,tsoding/ded,C,5
+382113009,tsoding/ded,C,3
 340184008,chettrick/discobsd,C,8

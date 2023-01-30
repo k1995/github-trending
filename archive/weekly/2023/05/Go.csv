@@ -1,0 +1,26 @@
+id,name,lang,new stars
+17728164,hashicorp/terraform,Go,75
+212613049,cli/cli,Go,110
+72477752,pulumi/pulumi,Go,67
+120896210,argoproj/argo-cd,Go,69
+119419195,GoogleContainerTools/kaniko,Go,37
+533087958,terrastruct/d2,Go,343
+175405157,JanDeDobbeleer/oh-my-posh,Go,148
+105262714,oauth2-proxy/oauth2-proxy,Go,52
+16907502,fatih/color,Go,52
+392596825,ddosify/ddosify,Go,367
+120519269,runatlantis/atlantis,Go,39
+267054247,anchore/grype,Go,57
+166304026,BishopFox/sliver,Go,86
+330616364,evrone/go-clean-template,Go,248
+278480393,aws/karpenter,Go,36
+63196359,confluentinc/confluent-kafka-go,Go,17
+173009358,deepmap/oapi-codegen,Go,162
+313853293,cloudquery/cloudquery,Go,116
+385634291,grafana/mimir,Go,24
+238797860,ethereum-optimism/optimism,Go,94
+188836864,ledgerwatch/erigon,Go,21
+155368246,elastic/cloud-on-k8s,Go,10
+94029207,getkin/kin-openapi,Go,41
+575295397,gofireflyio/aiac,Go,273
+478855574,projectdiscovery/pdtm,Go,59

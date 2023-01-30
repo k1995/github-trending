@@ -1,18 +1,16 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,286
-65252,jekyll/jekyll,Ruby,245
+8514,rails/rails,Ruby,287
+65252,jekyll/jekyll,Ruby,246
 27442967,fastlane/fastlane,Ruby,232
-53238813,Homebrew/brew,Ruby,373
-2293158,rapid7/metasploit-framework,Ruby,306
-481872,hashicorp/vagrant,Ruby,125
+53238813,Homebrew/brew,Ruby,372
+2293158,rapid7/metasploit-framework,Ruby,309
+481872,hashicorp/vagrant,Ruby,123
 308770,heartcombo/devise,Ruby,78
-37382858,kilimchoi/engineering-blogs,Ruby,260
-538746,ruby/ruby,Ruby,120
+37382858,kilimchoi/engineering-blogs,Ruby,258
+538746,ruby/ruby,Ruby,118
 18486300,lewagon/setup,Ruby,699
-202291859,chatwoot/chatwoot,Ruby,200
-2203645,CocoaPods/CocoaPods,Ruby,47
 88740103,postalserver/postal,Ruby,108
-15435,Shopify/liquid,Ruby,62
+15435,Shopify/liquid,Ruby,60
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,144
 447184,rspec/rspec-rails,Ruby,29
 96071,rack/rack,Ruby,27
@@ -23,4 +21,3 @@ id,name,lang,new stars
 238983,rspec/rspec-mocks,Ruby,7
 463648726,Shopify/ruby-lsp,Ruby,76
 66497320,DataDog/dd-trace-rb,Ruby,4
-279271772,DataDog/datadog-api-client-ruby,Ruby,1
