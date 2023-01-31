@@ -1,17 +1,17 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,295
+8514,rails/rails,Ruby,296
 65252,jekyll/jekyll,Ruby,241
-27442967,fastlane/fastlane,Ruby,242
-53238813,Homebrew/brew,Ruby,386
-2293158,rapid7/metasploit-framework,Ruby,310
-308770,heartcombo/devise,Ruby,80
-37382858,kilimchoi/engineering-blogs,Ruby,256
-538746,ruby/ruby,Ruby,112
+27442967,fastlane/fastlane,Ruby,245
+53238813,Homebrew/brew,Ruby,385
+2293158,rapid7/metasploit-framework,Ruby,313
+308770,heartcombo/devise,Ruby,79
+37382858,kilimchoi/engineering-blogs,Ruby,255
+538746,ruby/ruby,Ruby,111
 18486300,lewagon/setup,Ruby,776
 202291859,chatwoot/chatwoot,Ruby,210
-2203645,CocoaPods/CocoaPods,Ruby,49
+2203645,CocoaPods/CocoaPods,Ruby,50
 96395,faker-ruby/faker,Ruby,64
-15435,Shopify/liquid,Ruby,63
+15435,Shopify/liquid,Ruby,64
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,147
 447184,rspec/rspec-rails,Ruby,30
 96071,rack/rack,Ruby,28
@@ -19,8 +19,8 @@ id,name,lang,new stars
 79352,mikel/mail,Ruby,17
 93163073,dependabot/dependabot-core,Ruby,74
 11426474,github/choosealicense.com,Ruby,44
-10088951,TheOdinProject/theodinproject,Ruby,73
-11980558,github/pages-gem,Ruby,13
+10088951,TheOdinProject/theodinproject,Ruby,75
+11980558,github/pages-gem,Ruby,14
 238983,rspec/rspec-mocks,Ruby,7
 66497320,DataDog/dd-trace-rb,Ruby,5
 279271772,DataDog/datadog-api-client-ruby,Ruby,1
