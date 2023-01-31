@@ -1,14 +1,14 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,145
-7548986,laravel/framework,PHP,48
+3482588,danielmiessler/SecLists,PHP,141
+7548986,laravel/framework,PHP,50
 5724990,briannesbitt/Carbon,PHP,11
-14259390,SpartnerNL/Laravel-Excel,PHP,26
-41589337,BookStackApp/BookStack,PHP,68
+14259390,SpartnerNL/Laravel-Excel,PHP,25
+41589337,BookStackApp/BookStack,PHP,66
 2884111,magento/magento2,PHP,17
 597887,doctrine/orm,PHP,22
-2179920,woocommerce/woocommerce,PHP,19
+2179920,woocommerce/woocommerce,PHP,20
 14346979,snipe/snipe-it,PHP,33
-9791525,digininja/DVWA,PHP,31
+9791525,digininja/DVWA,PHP,29
 6763587,PrestaShop/PrestaShop,PHP,20
 2141186,opencart/opencart,PHP,20
 60010673,elementor/elementor,PHP,28
@@ -17,9 +17,9 @@ id,name,lang,new stars
 2464908,joomla/joomla-cms,PHP,15
 117567334,spatie/laravel-query-builder,PHP,20
 286645686,yuantuo666/baiduwp-php,PHP,50
-38957562,leokhoa/laragon,PHP,28
-39182755,glpi-project/glpi,PHP,14
-17253775,zabbix/zabbix,PHP,14
-138328462,freescout-helpdesk/freescout,PHP,23
+38957562,leokhoa/laragon,PHP,29
+39182755,glpi-project/glpi,PHP,12
+17253775,zabbix/zabbix,PHP,16
+138328462,freescout-helpdesk/freescout,PHP,22
 36888692,spatie/package-skeleton-laravel,PHP,36
-589465434,beetlehr/beetlehr,PHP,82
+589465434,beetlehr/beetlehr,PHP,76
