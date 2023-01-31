@@ -1,26 +1,26 @@
 id,name,lang,new stars
-126577260,trekhleb/javascript-algorithms,JavaScript,2662
+126577260,trekhleb/javascript-algorithms,JavaScript,2678
+31792824,flutter/flutter,Dart,1118
 35955666,jlevy/the-art-of-command-line,,1354
 100060912,microsoft/terminal,C++,257
 71995937,nuxt/nuxt,TypeScript,729
 212639071,bregman-arie/devops-exercises,Python,1831
 2293158,rapid7/metasploit-framework,Ruby,101
-348060227,withastro/astro,TypeScript,978
-33014811,notepad-plus-plus/notepad-plus-plus,C++,221
-70908208,RasaHQ/rasa,Python,95
+313330998,bradtraversy/50projects50days,CSS,556
+33014811,notepad-plus-plus/notepad-plus-plus,C++,237
 136667574,flutter/samples,Dart,143
-590669331,google-research/tuning_playbook,,3202
-326404870,SigNoz/signoz,TypeScript,256
-91948540,ranaroussi/yfinance,Python,221
+590669331,google-research/tuning_playbook,,3362
+91948540,ranaroussi/yfinance,Python,224
+5909706,yhirose/cpp-httplib,C++,221
 80862584,WordPress/gutenberg,JavaScript,33
-523043277,charliermarsh/ruff,Rust,739
 535509546,brycedrennan/imaginAIry,Python,2210
-534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1493
-470730648,hyprwm/Hyprland,C++,374
+534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1492
 552661142,hwchase17/langchain,Python,925
 538663825,resendlabs/react-email,TypeScript,800
+255231293,karpathy/micrograd,Jupyter Notebook,122
 426075845,MystenLabs/sui,Rust,189
 586711486,timothybrooks/instruct-pix2pix,Python,871
-583706111,LazyVim/LazyVim,Lua,1652
-517990,DFHack/dfhack,C++,88
-575295397,gofireflyio/aiac,Go,290
+583706111,LazyVim/LazyVim,Lua,1651
+576303915,tiann/KernelSU,C,247
+462976341,bellingcat/octosuite,Python,219
+555779476,prophesier/diff-svc,Jupyter Notebook,112
