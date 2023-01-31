@@ -1,9 +1,9 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,7
+65252,jekyll/jekyll,Ruby,6
 52281283,mastodon/mastodon,Ruby,33
 7569578,discourse/discourse,Ruby,7
 53238813,Homebrew/brew,Ruby,15
-2293158,rapid7/metasploit-framework,Ruby,11
+2293158,rapid7/metasploit-framework,Ruby,10
 2500088,gitlabhq/gitlabhq,Ruby,2
 73648678,forem/forem,Ruby,1
 538746,ruby/ruby,Ruby,1
@@ -12,10 +12,10 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,0
 189010173,Hackplayers/evil-winrm,Ruby,3
 1175581,citation-style-language/styles,Ruby,3
-641512,openstreetmap/openstreetmap-website,Ruby,3
+641512,openstreetmap/openstreetmap-website,Ruby,2
 34840276,elastic/ansible-elasticsearch,Ruby,0
 8154497,rubysec/ruby-advisory-db,Ruby,0
-585707405,the-teacher/rails7-startkit,Ruby,22
+585707405,the-teacher/rails7-startkit,Ruby,23
 36821001,cloudfoundry/routing-release,Ruby,0
 36527291,cloudfoundry/haproxy-boshrelease,Ruby,0
 201550906,ChargePoint/homebrew-xcparse,Ruby,0
