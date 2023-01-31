@@ -1,12 +1,12 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,1
-8681349,huginn/huginn,Ruby,9
-27442967,fastlane/fastlane,Ruby,10
-53238813,Homebrew/brew,Ruby,16
-308770,heartcombo/devise,Ruby,4
-18486300,lewagon/setup,Ruby,27
-202291859,chatwoot/chatwoot,Ruby,8
-2203645,CocoaPods/CocoaPods,Ruby,6
+8681349,huginn/huginn,Ruby,10
+27442967,fastlane/fastlane,Ruby,9
+53238813,Homebrew/brew,Ruby,17
+308770,heartcombo/devise,Ruby,5
+18486300,lewagon/setup,Ruby,16
+202291859,chatwoot/chatwoot,Ruby,6
+2203645,CocoaPods/CocoaPods,Ruby,5
 3195124,mperham/sidekiq,Ruby,4
 1918677,fluent/fluentd,Ruby,2
 15435,Shopify/liquid,Ruby,8
@@ -16,11 +16,11 @@ id,name,lang,new stars
 1314319,instructure/canvas-lms,Ruby,1
 363163,bblimke/webmock,Ruby,1
 229006,mileszs/wicked_pdf,Ruby,0
-614070,rubygems/rubygems,Ruby,1
-200302808,ViewComponent/view_component,Ruby,1
+614070,rubygems/rubygems,Ruby,0
+200302808,ViewComponent/view_component,Ruby,2
 9500075,ytti/oxidized,Ruby,2
 212813096,lewagon/data-setup,Ruby,0
-229187949,shivammathur/homebrew-php,Ruby,3
+229187949,shivammathur/homebrew-php,Ruby,2
 5188602,mhenrixon/sidekiq-unique-jobs,Ruby,0
 585707405,the-teacher/rails7-startkit,Ruby,8
-66497320,DataDog/dd-trace-rb,Ruby,2
+66497320,DataDog/dd-trace-rb,Ruby,1
