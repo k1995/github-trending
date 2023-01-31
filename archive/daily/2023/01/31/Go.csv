@@ -1,17 +1,17 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,24
 48378947,fatedier/frp,Go,40
-14712850,syncthing/syncthing,Go,21
+14712850,syncthing/syncthing,Go,22
 136815833,Dreamacro/clash,Go,49
 41986369,pingcap/tidb,Go,9
 8989842,unknwon/the-way-to-go_ZH_CN,Go,8
 156084530,ehang-io/nps,Go,13
 285864199,zeromicro/go-zero,Go,25
 181461073,v2fly/v2ray-core,Go,18
-165041732,go-kratos/kratos,Go,27
-323965659,alist-org/alist,Go,181
-205679232,flipped-aurora/gin-vue-admin,Go,62
-21233191,ipfs/kubo,Go,6
+165041732,go-kratos/kratos,Go,23
+323965659,alist-org/alist,Go,179
+205679232,flipped-aurora/gin-vue-admin,Go,59
+21233191,ipfs/kubo,Go,7
 87617508,casbin/casbin,Go,7
 311315731,XTLS/Xray-core,Go,19
 291485614,XIU2/CloudflareSpeedTest,Go,13
@@ -19,7 +19,7 @@ id,name,lang,new stars
 403559729,YaoApp/yao,Go,41
 306366900,casdoor/casdoor,Go,11
 86956808,writefreely/writefreely,Go,19
-272663924,techschool/simplebank,Go,19
+272663924,techschool/simplebank,Go,18
 104307778,ergo-services/ergo,Go,44
 539536923,optiv/Freeze,Go,13
 486038209,XrayR-project/XrayR,Go,1
