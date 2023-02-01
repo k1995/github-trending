@@ -1,19 +1,19 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,4
-8681349,huginn/huginn,Ruby,10
-27442967,fastlane/fastlane,Ruby,13
+8681349,huginn/huginn,Ruby,8
+27442967,fastlane/fastlane,Ruby,15
 53238813,Homebrew/brew,Ruby,19
 308770,heartcombo/devise,Ruby,6
-18486300,lewagon/setup,Ruby,9
+18486300,lewagon/setup,Ruby,7
 202291859,chatwoot/chatwoot,Ruby,5
-2203645,CocoaPods/CocoaPods,Ruby,6
+2203645,CocoaPods/CocoaPods,Ruby,5
 3195124,mperham/sidekiq,Ruby,3
 1918677,fluent/fluentd,Ruby,2
 15435,Shopify/liquid,Ruby,9
 451035,heartcombo/simple_form,Ruby,0
 108278,chef/chef,Ruby,2
 865250,presidentbeef/brakeman,Ruby,1
-1314319,instructure/canvas-lms,Ruby,1
+1314319,instructure/canvas-lms,Ruby,2
 363163,bblimke/webmock,Ruby,2
 229006,mileszs/wicked_pdf,Ruby,1
 614070,rubygems/rubygems,Ruby,0
@@ -22,5 +22,5 @@ id,name,lang,new stars
 212813096,lewagon/data-setup,Ruby,1
 229187949,shivammathur/homebrew-php,Ruby,2
 5188602,mhenrixon/sidekiq-unique-jobs,Ruby,3
-585707405,the-teacher/rails7-startkit,Ruby,8
+585707405,the-teacher/rails7-startkit,Ruby,9
 66497320,DataDog/dd-trace-rb,Ruby,1
