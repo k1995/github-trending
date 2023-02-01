@@ -1,12 +1,12 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,20
+1863329,laravel/laravel,PHP,19
 7548986,laravel/framework,PHP,7
 448045,sebastianbergmann/phpunit,PHP,4
 4702560,PHPOffice/PHPExcel,PHP,1
-14259390,SpartnerNL/Laravel-Excel,PHP,7
-6660366,dompdf/dompdf,PHP,7
+14259390,SpartnerNL/Laravel-Excel,PHP,6
+6660366,dompdf/dompdf,PHP,9
 656494,cakephp/cakephp,PHP,0
-116389886,Anankke/SSPanel-Uim,PHP,5
+116389886,Anankke/SSPanel-Uim,PHP,4
 14346979,snipe/snipe-it,PHP,3
 248372441,filamentphp/filament,PHP,17
 12204147,mautic/mautic,PHP,4
@@ -14,13 +14,13 @@ id,name,lang,new stars
 2464908,joomla/joomla-cms,PHP,0
 400984450,kuaifan/dootask,PHP,6
 38957562,leokhoa/laragon,PHP,2
-14724954,opensourcepos/opensourcepos,PHP,2
+14724954,opensourcepos/opensourcepos,PHP,1
 12063996,osTicket/osTicket,PHP,0
-74026995,CodelyTV/php-ddd-example,PHP,5
-111562942,statamic/cms,PHP,4
+74026995,CodelyTV/php-ddd-example,PHP,4
+111562942,statamic/cms,PHP,3
 3193843,drush-ops/drush,PHP,0
 55801807,shlinkio/shlink,PHP,3
 410524724,nunomaduro/termwind,PHP,2
 174021137,inertiajs/pingcrm,PHP,1
 3348788,sendgrid/sendgrid-php,PHP,0
-394276725,timacdonald/json-api,PHP,12
+394276725,timacdonald/json-api,PHP,13
