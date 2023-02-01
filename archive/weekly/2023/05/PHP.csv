@@ -1,19 +1,19 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,145
-7548986,laravel/framework,PHP,49
+3482588,danielmiessler/SecLists,PHP,142
+7548986,laravel/framework,PHP,48
 5724990,briannesbitt/Carbon,PHP,11
-14259390,SpartnerNL/Laravel-Excel,PHP,26
-41589337,BookStackApp/BookStack,PHP,65
-2884111,magento/magento2,PHP,16
+14259390,SpartnerNL/Laravel-Excel,PHP,27
+41589337,BookStackApp/BookStack,PHP,62
+2884111,magento/magento2,PHP,17
 597887,doctrine/orm,PHP,21
 2179920,woocommerce/woocommerce,PHP,20
 14346979,snipe/snipe-it,PHP,32
 9791525,digininja/DVWA,PHP,26
-6763587,PrestaShop/PrestaShop,PHP,20
+6763587,PrestaShop/PrestaShop,PHP,21
 2141186,opencart/opencart,PHP,18
 60010673,elementor/elementor,PHP,27
 47508644,pterodactyl/panel,PHP,52
-439861,moodle/moodle,PHP,16
+439861,moodle/moodle,PHP,17
 2464908,joomla/joomla-cms,PHP,15
 117567334,spatie/laravel-query-builder,PHP,20
 286645686,yuantuo666/baiduwp-php,PHP,50
@@ -21,5 +21,5 @@ id,name,lang,new stars
 39182755,glpi-project/glpi,PHP,12
 17253775,zabbix/zabbix,PHP,16
 138328462,freescout-helpdesk/freescout,PHP,21
-36888692,spatie/package-skeleton-laravel,PHP,32
+36888692,spatie/package-skeleton-laravel,PHP,29
 589465434,beetlehr/beetlehr,PHP,70
