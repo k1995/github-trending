@@ -1,19 +1,19 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,63
-65252,jekyll/jekyll,Ruby,42
-52281283,mastodon/mastodon,Ruby,208
-27442967,fastlane/fastlane,Ruby,46
-53238813,Homebrew/brew,Ruby,101
+65252,jekyll/jekyll,Ruby,44
+52281283,mastodon/mastodon,Ruby,206
+27442967,fastlane/fastlane,Ruby,47
+53238813,Homebrew/brew,Ruby,102
 2293158,rapid7/metasploit-framework,Ruby,112
 2500088,gitlabhq/gitlabhq,Ruby,9
 308770,heartcombo/devise,Ruby,25
-2203645,CocoaPods/CocoaPods,Ruby,16
+2203645,CocoaPods/CocoaPods,Ruby,15
 88740103,postalserver/postal,Ruby,20
 3195124,mperham/sidekiq,Ruby,20
 1918677,fluent/fluentd,Ruby,19
-15435,Shopify/liquid,Ruby,21
+15435,Shopify/liquid,Ruby,23
 451035,heartcombo/simple_form,Ruby,6
-6899875,opf/openproject,Ruby,33
+6899875,opf/openproject,Ruby,32
 30337170,rmosolgo/graphql-ruby,Ruby,6
 1314319,instructure/canvas-lms,Ruby,12
 30985840,solidusio/solidus,Ruby,13
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1175581,citation-style-language/styles,Ruby,14
 200302808,ViewComponent/view_component,Ruby,9
 81134943,Shopify/bootsnap,Ruby,0
-229187949,shivammathur/homebrew-php,Ruby,29
+229187949,shivammathur/homebrew-php,Ruby,27
 315978274,Shopify/theme-check,Ruby,4
