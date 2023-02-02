@@ -1,15 +1,15 @@
 id,name,lang,new stars
 88011908,practical-tutorials/project-based-learning,,296
-103633984,goldbergyoni/nodebestpractices,JavaScript,131
-34526884,ant-design/ant-design,TypeScript,66
+103633984,goldbergyoni/nodebestpractices,JavaScript,134
+34526884,ant-design/ant-design,TypeScript,79
 22790488,iluwatar/java-design-patterns,Java,64
-101296881,mtdvio/every-programmer-should-know,,237
-6296790,spring-projects/spring-boot,Java,86
+101296881,mtdvio/every-programmer-should-know,,301
+6296790,spring-projects/spring-boot,Java,77
 243950408,Anduin2017/HowToCook,HTML,73
 343965132,microsoft/ML-For-Beginners,Jupyter Notebook,219
-212639071,bregman-arie/devops-exercises,Python,504
+212639071,bregman-arie/devops-exercises,Python,433
 43723161,helm/helm,Go,59
-4279682,fish-shell/fish-shell,C++,107
+4279682,fish-shell/fish-shell,C++,125
 197275130,microsoft/winget-cli,C++,202
 163591278,GitHubDaily/GitHubDaily,,102
 344191198,microsoft/Data-Science-For-Beginners,Jupyter Notebook,186
@@ -19,7 +19,7 @@ id,name,lang,new stars
 348258736,ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide,,348
 525683737,apitable/apitable,TypeScript,593
 503592660,cxasm/notepad--,C++,291
-566639549,techiescamp/kubernetes-learning-path,,157
+566639549,techiescamp/kubernetes-learning-path,,178
 594096901,lucidrains/musiclm-pytorch,Python,126
 594679568,archinetai/audio-ai-timeline,,205
 437485701,casey/ord,Rust,124
