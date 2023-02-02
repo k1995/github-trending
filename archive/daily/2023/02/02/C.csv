@@ -1,12 +1,12 @@
 id,name,lang,new stars
-156018,redis/redis,C,12
+156018,redis/redis,C,11
 569041,curl/curl,C,12
 102578345,coolsnowwolf/lede,C,17
 1357796,emscripten-core/emscripten,C,7
-14812739,libuv/libuv,C,9
-7634677,openssl/openssl,C,20
+14812739,libuv/libuv,C,8
+7634677,openssl/openssl,C,19
 196353673,taosdata/TDengine,C,4
-6041301,sumatrapdfreader/sumatrapdf,C,13
+6041301,sumatrapdfreader/sumatrapdf,C,12
 3199002,raspberrypi/linux,C,2
 7408108,RT-Thread/rt-thread,C,2
 53614190,eclipse/mosquitto,C,3
@@ -17,10 +17,10 @@ id,name,lang,new stars
 21329550,wireshark/wireshark,C,3
 128791889,haproxy/haproxy,C,0
 206121828,FreeRTOS/FreeRTOS,C,4
-144465372,RfidResearchGroup/proxmark3,C,5
+144465372,RfidResearchGroup/proxmark3,C,3
 23780138,riscv-collab/riscv-gnu-toolchain,C,2
-523544748,snesrev/zelda3,C,223
-207354223,FreeRTOS/FreeRTOS-Kernel,C,4
+523544748,snesrev/zelda3,C,237
+207354223,FreeRTOS/FreeRTOS-Kernel,C,3
 330186707,alt-romes/programmer-calculator,C,19
-593164783,OmriBaso/RToolZ,C,35
-112073610,infoskirmish/hive,C,6
+593164783,OmriBaso/RToolZ,C,31
+112073610,infoskirmish/hive,C,5
