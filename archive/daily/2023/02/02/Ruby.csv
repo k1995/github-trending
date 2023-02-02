@@ -1,9 +1,9 @@
 id,name,lang,new stars
-65252,jekyll/jekyll,Ruby,10
-52281283,mastodon/mastodon,Ruby,40
-8681349,huginn/huginn,Ruby,8
-27442967,fastlane/fastlane,Ruby,4
-53238813,Homebrew/brew,Ruby,10
+65252,jekyll/jekyll,Ruby,9
+52281283,mastodon/mastodon,Ruby,38
+8681349,huginn/huginn,Ruby,12
+27442967,fastlane/fastlane,Ruby,3
+53238813,Homebrew/brew,Ruby,11
 538746,ruby/ruby,Ruby,7
 585285,gollum/gollum,Ruby,1
 96395,faker-ruby/faker,Ruby,0
@@ -12,7 +12,7 @@ id,name,lang,new stars
 275604,resque/resque,Ruby,0
 47087,carrierwaveuploader/carrierwave,Ruby,0
 1145832,pry/pry,Ruby,0
-6899875,opf/openproject,Ruby,6
+6899875,opf/openproject,Ruby,8
 5160706,bkeepers/dotenv,Ruby,1
 1548802,activerecord-hackery/ransack,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,0
