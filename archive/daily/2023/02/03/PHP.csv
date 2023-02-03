@@ -1,16 +1,16 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,10
-3482588,danielmiessler/SecLists,PHP,24
+3482588,danielmiessler/SecLists,PHP,23
 7548986,laravel/framework,PHP,15
 458058,symfony/symfony,PHP,12
-2253830,PHPMailer/PHPMailer,PHP,9
+2253830,PHPMailer/PHPMailer,PHP,11
 3431193,yiisoft/yii2,PHP,3
 8678290,barryvdh/laravel-ide-helper,PHP,3
 42480275,spatie/laravel-permission,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,1
 21298446,firefly-iii/firefly-iii,PHP,7
-6660366,dompdf/dompdf,PHP,6
-14346979,snipe/snipe-it,PHP,7
+6660366,dompdf/dompdf,PHP,7
+14346979,snipe/snipe-it,PHP,6
 9791525,digininja/DVWA,PHP,2
 97311017,rectorphp/rector,PHP,6
 10883164,barryvdh/laravel-dompdf,PHP,3
@@ -22,5 +22,5 @@ id,name,lang,new stars
 1095228,sonata-project/SonataAdminBundle,PHP,0
 174021137,inertiajs/pingcrm,PHP,0
 281640234,5ime/video_spider,PHP,3
-513468803,ine-labs/AWSGoat,PHP,11
-394276725,timacdonald/json-api,PHP,6
+513468803,ine-labs/AWSGoat,PHP,12
+394276725,timacdonald/json-api,PHP,7

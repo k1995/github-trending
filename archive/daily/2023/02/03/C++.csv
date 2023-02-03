@@ -1,13 +1,13 @@
 id,name,lang,new stars
 23357588,protocolbuffers/protobuf,C++,17
 11171548,nlohmann/json,C++,17
-39840932,google/googletest,C++,9
+39840932,google/googletest,C++,10
 196813750,Light-City/CPlusPlusThings,C++,26
-60246359,ClickHouse/ClickHouse,C++,19
-108110,mongodb/mongo,C++,14
+60246359,ClickHouse/ClickHouse,C++,18
+108110,mongodb/mongo,C++,13
 96246170,ApolloAuto/apollo,C++,4
-4279682,fish-shell/fish-shell,C++,153
-191820100,google/mediapipe,C++,51
+4279682,fish-shell/fish-shell,C++,150
+191820100,google/mediapipe,C++,50
 40892817,ethereum/solidity,C++,15
 197275130,microsoft/winget-cli,C++,260
 26038648,gabime/spdlog,C++,11
@@ -20,7 +20,7 @@ id,name,lang,new stars
 47440536,cocos/cocos-engine,C++,0
 510313729,focus-creative-games/hybridclr,C++,15
 208145128,iree-org/iree,C++,1
-503592660,cxasm/notepad--,C++,218
-251735890,marcoslucianops/DeepStream-Yolo,C++,3
+503592660,cxasm/notepad--,C++,216
+251735890,marcoslucianops/DeepStream-Yolo,C++,1
 324569839,YimMenu/YimMenu,C++,3
 595321330,TheD1rkMtr/D1rkLrd,C++,11

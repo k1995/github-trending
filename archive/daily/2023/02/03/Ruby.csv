@@ -1,7 +1,7 @@
 id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,8
-52281283,mastodon/mastodon,Ruby,36
-8681349,huginn/huginn,Ruby,10
+52281283,mastodon/mastodon,Ruby,37
+8681349,huginn/huginn,Ruby,9
 27442967,fastlane/fastlane,Ruby,4
 53238813,Homebrew/brew,Ruby,14
 538746,ruby/ruby,Ruby,10
@@ -9,10 +9,10 @@ id,name,lang,new stars
 96395,faker-ruby/faker,Ruby,0
 15435,Shopify/liquid,Ruby,4
 361310,teamcapybara/capybara,Ruby,0
-275604,resque/resque,Ruby,1
+275604,resque/resque,Ruby,2
 47087,carrierwaveuploader/carrierwave,Ruby,0
 1145832,pry/pry,Ruby,0
-6899875,opf/openproject,Ruby,8
+6899875,opf/openproject,Ruby,7
 5160706,bkeepers/dotenv,Ruby,1
 1548802,activerecord-hackery/ransack,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,0
@@ -20,7 +20,7 @@ id,name,lang,new stars
 7050,prawnpdf/prawn,Ruby,0
 229006,mileszs/wicked_pdf,Ruby,0
 3898922,zammad/zammad,Ruby,1
-3277842,googleapis/google-api-ruby-client,Ruby,2
+3277842,googleapis/google-api-ruby-client,Ruby,3
 11980558,github/pages-gem,Ruby,0
 49878403,zendesk/ruby-kafka,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
