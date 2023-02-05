@@ -1,14 +1,14 @@
 id,name,lang,new stars
-5108051,opencv/opencv,C++,17
-22067521,ocornut/imgui,C++,26
+5108051,opencv/opencv,C++,16
+22067521,ocornut/imgui,C++,25
 23405758,google/leveldb,C++,10
-39840932,google/googletest,C++,7
+39840932,google/googletest,C++,5
 196813750,Light-City/CPlusPlusThings,C++,16
 108110,mongodb/mongo,C++,2
-191820100,google/mediapipe,C++,20
+191820100,google/mediapipe,C++,18
 19953044,google/flatbuffers,C++,4
+437245741,dragonflydb/dragonfly,C++,26
 26038648,gabime/spdlog,C++,3
-437245741,dragonflydb/dragonfly,C++,27
 95879426,Tencent/ncnn,C++,6
 18503721,facebook/yoga,C++,2
 102343794,apache/brpc,C++,11
@@ -18,9 +18,9 @@ id,name,lang,new stars
 115883761,tdlib/td,C++,4
 280608729,UZ-SLAMLab/ORB_SLAM3,C++,2
 124166804,flutter-webrtc/flutter-webrtc,C++,1
-477407390,MicroCBer/BetterNCM,C++,38
+477407390,MicroCBer/BetterNCM,C++,39
 156787357,microsoft/SEAL,C++,2
 208145128,iree-org/iree,C++,1
 241597051,encrypted-def/basic-algo-lecture,C++,0
-324569839,YimMenu/YimMenu,C++,4
+324569839,YimMenu/YimMenu,C++,6
 594330628,Dr-TSNG/ZygiskOnKernelSU,C++,15
