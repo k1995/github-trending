@@ -4,17 +4,17 @@ id,name,lang,new stars
 448045,sebastianbergmann/phpunit,PHP,94
 1548202,matomo-org/matomo,PHP,140
 12615154,barryvdh/laravel-debugbar,PHP,124
-41589337,BookStackApp/BookStack,PHP,262
+41589337,BookStackApp/BookStack,PHP,259
 2699935,squizlabs/PHP_CodeSniffer,PHP,110
 11340559,deployphp/deployer,PHP,70
 597887,doctrine/orm,PHP,66
 6660366,dompdf/dompdf,PHP,97
 677464,doctrine/dbal,PHP,62
 14346979,snipe/snipe-it,PHP,158
-6763587,PrestaShop/PrestaShop,PHP,81
-248372441,filamentphp/filament,PHP,285
+6763587,PrestaShop/PrestaShop,PHP,80
+248372441,filamentphp/filament,PHP,286
 2464908,joomla/joomla-cms,PHP,56
-141720301,dr5hn/countries-states-cities-database,PHP,174
+141720301,dr5hn/countries-states-cities-database,PHP,173
 1957456,Dolibarr/dolibarr,PHP,93
 73781385,orchidsoftware/platform,PHP,66
 400984450,kuaifan/dootask,PHP,216
@@ -23,4 +23,4 @@ id,name,lang,new stars
 503236212,laravel/pint,PHP,84
 29745084,Leantime/leantime,PHP,186
 138328462,freescout-helpdesk/freescout,PHP,76
-440520058,orhanerday/open-ai,PHP,210
+440520058,orhanerday/open-ai,PHP,209
