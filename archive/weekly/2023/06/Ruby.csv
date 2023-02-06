@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,64
 52281283,mastodon/mastodon,Ruby,229
-8681349,huginn/huginn,Ruby,54
-27442967,fastlane/fastlane,Ruby,47
-53238813,Homebrew/brew,Ruby,104
-2293158,rapid7/metasploit-framework,Ruby,87
+8681349,huginn/huginn,Ruby,55
+27442967,fastlane/fastlane,Ruby,48
+53238813,Homebrew/brew,Ruby,102
+2293158,rapid7/metasploit-framework,Ruby,85
 308770,heartcombo/devise,Ruby,24
-538746,ruby/ruby,Ruby,37
+538746,ruby/ruby,Ruby,38
 3195124,mperham/sidekiq,Ruby,21
-15435,Shopify/liquid,Ruby,20
+15435,Shopify/liquid,Ruby,19
 451035,heartcombo/simple_form,Ruby,9
 21829,thoughtbot/factory_bot,Ruby,7
 6899875,opf/openproject,Ruby,36
@@ -21,6 +21,6 @@ id,name,lang,new stars
 641512,openstreetmap/openstreetmap-website,Ruby,8
 61203,Shopify/shopify_app,Ruby,2
 17228890,Shopify/shipit-engine,Ruby,1
-463648726,Shopify/ruby-lsp,Ruby,11
+463648726,Shopify/ruby-lsp,Ruby,12
 3276877,ThrowTheSwitch/Ceedling,Ruby,2
 315978274,Shopify/theme-check,Ruby,4

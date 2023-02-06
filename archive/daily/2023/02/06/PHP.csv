@@ -1,5 +1,5 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,19
+3482588,danielmiessler/SecLists,PHP,22
 1420053,guzzle/guzzle,PHP,3
 60243197,nextcloud/server,PHP,13
 2253830,PHPMailer/PHPMailer,PHP,4
@@ -9,18 +9,18 @@ id,name,lang,new stars
 12615154,barryvdh/laravel-debugbar,PHP,6
 1398648,symfony/http-foundation,PHP,0
 330275,twigphp/Twig,PHP,0
-14716368,invoiceninja/invoiceninja,PHP,3
+14716368,invoiceninja/invoiceninja,PHP,4
 3217621,phpmyadmin/phpmyadmin,PHP,3
 95011974,akaunting/akaunting,PHP,0
-248372441,filamentphp/filament,PHP,10
-6322699,FreshRSS/FreshRSS,PHP,5
-174200859,inertiajs/inertia,PHP,4
+248372441,filamentphp/filament,PHP,11
+6322699,FreshRSS/FreshRSS,PHP,6
+174200859,inertiajs/inertia,PHP,5
 2464908,joomla/joomla-cms,PHP,1
 1398629,symfony/config,PHP,0
 1957456,Dolibarr/dolibarr,PHP,2
 129852395,assimon/dujiaoka,PHP,3
 13044600,salesagility/SuiteCRM,PHP,1
-13914116,librenms/librenms,PHP,2
-404921727,luolongfei/freenom,PHP,10
+13914116,librenms/librenms,PHP,1
+404921727,luolongfei/freenom,PHP,6
 216849756,v2board/v2board,PHP,6
 260729799,knuckleswtf/scribe,PHP,2

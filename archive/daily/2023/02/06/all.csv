@@ -1,12 +1,12 @@
 id,name,lang,new stars
 184456251,microsoft/PowerToys,C#,193
-307260205,yt-dlp/yt-dlp,Python,135
+307260205,yt-dlp/yt-dlp,Python,138
 102578345,coolsnowwolf/lede,C,30
 3390243,servo/servo,,90
 352933140,ToolJet/ToolJet,JavaScript,135
 573819845,acheong08/ChatGPT,Python,482
-577603990,LAION-AI/Open-Assistant,Python,1637
-573631261,transitive-bullshit/chatgpt-api,TypeScript,131
+577603990,LAION-AI/Open-Assistant,Python,1612
+573631261,transitive-bullshit/chatgpt-api,TypeScript,134
 190823163,Datalux/Osintgram,Python,53
 311211647,nostr-protocol/nostr,,263
 552661142,hwchase17/langchain,Python,141
@@ -21,6 +21,6 @@ id,name,lang,new stars
 574046356,Zero6992/chatGPT-discord-bot,Python,44
 573107980,hikari-no-yume/touchHLE,Rust,105
 482383845,Cameri/nostream,TypeScript,70
-596254191,daveshap/raven,Python,94
+596254191,daveshap/raven,Python,97
 586141825,waylaidwanderer/node-chatgpt-api,JavaScript,55
 550227552,LeagueOfPoro/CapsuleFarmerEvolved,Python,35
