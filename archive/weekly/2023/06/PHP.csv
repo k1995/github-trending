@@ -1,18 +1,18 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,60
-458058,symfony/symfony,PHP,53
+458058,symfony/symfony,PHP,52
 2253830,PHPMailer/PHPMailer,PHP,44
 448045,sebastianbergmann/phpunit,PHP,34
 12615154,barryvdh/laravel-debugbar,PHP,27
 3431193,yiisoft/yii2,PHP,10
-41589337,BookStackApp/BookStack,PHP,66
+41589337,BookStackApp/BookStack,PHP,65
 2884111,magento/magento2,PHP,13
 6660366,dompdf/dompdf,PHP,27
-14346979,snipe/snipe-it,PHP,34
+14346979,snipe/snipe-it,PHP,33
 6763587,PrestaShop/PrestaShop,PHP,20
 2141186,opencart/opencart,PHP,16
 3217621,phpmyadmin/phpmyadmin,PHP,17
-62937181,PrivateBin/PrivateBin,PHP,28
+62937181,PrivateBin/PrivateBin,PHP,29
 47508644,pterodactyl/panel,PHP,32
 286645686,yuantuo666/baiduwp-php,PHP,43
 13044600,salesagility/SuiteCRM,PHP,28
@@ -21,6 +21,6 @@ id,name,lang,new stars
 39182755,glpi-project/glpi,PHP,18
 17253775,zabbix/zabbix,PHP,16
 74026995,CodelyTV/php-ddd-example,PHP,15
-111562942,statamic/cms,PHP,24
+111562942,statamic/cms,PHP,25
 174021137,inertiajs/pingcrm,PHP,6
-433383766,nextcloud/all-in-one,PHP,29
+433383766,nextcloud/all-in-one,PHP,30
