@@ -1,6 +1,6 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,52
-10744183,netdata/netdata,C,37
+2325298,torvalds/linux,C,49
+10744183,netdata/netdata,C,38
 1903522,php/php-src,C,5
 102578345,coolsnowwolf/lede,C,15
 196353673,taosdata/TDengine,C,63
@@ -13,13 +13,13 @@ id,name,lang,new stars
 31791482,microsoft/Windows-driver-samples,C,0
 470579591,DarkFlippers/unleashed-firmware,C,25
 146397768,ithewei/libhv,C,10
-330008801,libsdl-org/SDL,C,8
+330008801,libsdl-org/SDL,C,9
 189044704,AFLplusplus/AFLplusplus,C,3
 34807561,nanopb/nanopb,C,1
-26537135,u-boot/u-boot,C,1
+26537135,u-boot/u-boot,C,2
 3649922,linux-test-project/ltp,C,1
 50272879,pjsip/pjproject,C,2
 529594820,jakkra/ZSWatch,C,36
-25379390,openucx/ucx,C,1
-388601237,scandum/fluxsort,C,19
-527896392,Jaysmito101/cgl,C,11
+25379390,openucx/ucx,C,2
+388601237,scandum/fluxsort,C,18
+527896392,Jaysmito101/cgl,C,10

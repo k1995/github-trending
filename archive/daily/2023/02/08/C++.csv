@@ -1,18 +1,18 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,39
-65600975,pytorch/pytorch,C++,37
-22067521,ocornut/imgui,C++,32
+1181927,bitcoin/bitcoin,C++,37
+65600975,pytorch/pytorch,C++,34
+22067521,ocornut/imgui,C++,33
 65214191,envoyproxy/envoy,C++,8
 19953044,google/flatbuffers,C++,8
 65711522,PaddlePaddle/Paddle,C++,8
 1062572,catchorg/Catch2,C++,5
-29397594,ssloy/tinyrenderer,C++,12
+29397594,ssloy/tinyrenderer,C++,13
 143455116,google/filament,C++,3
 102343794,apache/brpc,C++,40
 17391973,Tencent/rapidjson,C++,5
 51905353,apache/arrow,C++,0
-299510783,rui314/mold,C++,10
-184657328,NVIDIA/TensorRT,C++,4
+299510783,rui314/mold,C++,9
+184657328,NVIDIA/TensorRT,C++,3
 354743391,o3de/o3de,C++,5
 75662387,google/draco,C++,2
 256049233,microsoft/WindowsAppSDK,C++,0
@@ -20,7 +20,7 @@ id,name,lang,new stars
 49978193,valhalla/valhalla,C++,4
 527819251,CVCUDA/CV-CUDA,C++,5
 410126695,R3nzTheCodeGOD/R3nzSkin,C++,14
-572568692,cinit/WSAPatch,C++,57
+572568692,cinit/WSAPatch,C++,58
 324569839,YimMenu/YimMenu,C++,3
 366862885,KellanM/OpenAI-Api-Unreal,C++,6
 597120123,TheD1rkMtr/NTDLLReflection,C++,23

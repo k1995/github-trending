@@ -1,10 +1,10 @@
 id,name,lang,new stars
-6296790,spring-projects/spring-boot,Java,27
+6296790,spring-projects/spring-boot,Java,28
 7508411,ReactiveX/RxJava,Java,6
 19148949,PhilJay/MPAndroidChart,Java,7
 44662669,dbeaver/dbeaver,Java,33
 137451403,alibaba/nacos,Java,16
-45721011,apache/skywalking,Java,5
+45721011,apache/skywalking,Java,4
 144705602,didi/DoKit,Java,6
 81057842,JeffLi1993/springboot-learning-example,Java,2
 45363955,lionsoul2014/ip2region,Java,11
@@ -13,7 +13,7 @@ id,name,lang,new stars
 221862,projectlombok/lombok,Java,0
 391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,12
 237867883,metersphere/metersphere,Java,6
-75882172,Netflix/conductor,Java,29
+75882172,Netflix/conductor,Java,28
 46398090,datahub-project/datahub,Java,12
 166515022,trinodb/trino,Java,7
 33816473,testcontainers/testcontainers-java,Java,6
