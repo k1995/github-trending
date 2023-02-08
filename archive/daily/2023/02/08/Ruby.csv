@@ -1,6 +1,6 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,12
-65252,jekyll/jekyll,Ruby,14
+8514,rails/rails,Ruby,10
+65252,jekyll/jekyll,Ruby,15
 27442967,fastlane/fastlane,Ruby,5
 481872,hashicorp/vagrant,Ruby,0
 2500088,gitlabhq/gitlabhq,Ruby,2
@@ -16,11 +16,11 @@ id,name,lang,new stars
 16994115,CanCanCommunity/cancancan,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,0
 46698467,ankane/strong_migrations,Ruby,2
-93163073,dependabot/dependabot-core,Ruby,2
+93163073,dependabot/dependabot-core,Ruby,3
 12335495,feedbin/feedbin,Ruby,0
-242765280,bensheldon/good_job,Ruby,3
+242765280,bensheldon/good_job,Ruby,4
 209731662,ruby/debug,Ruby,3
 70830890,bigbluebutton/greenlight,Ruby,0
-586265895,mrsked/mrsk,Ruby,17
-3276877,ThrowTheSwitch/Ceedling,Ruby,0
+586265895,mrsked/mrsk,Ruby,14
+3276877,ThrowTheSwitch/Ceedling,Ruby,1
 585707405,the-teacher/rails7-startkit,Ruby,7
