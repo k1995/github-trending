@@ -1,18 +1,18 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,6
+458058,symfony/symfony,PHP,7
 1420053,guzzle/guzzle,PHP,8
-60243197,nextcloud/server,PHP,5
-1376664,Seldaek/monolog,PHP,5
+60243197,nextcloud/server,PHP,4
+1376664,Seldaek/monolog,PHP,4
 448045,sebastianbergmann/phpunit,PHP,1
-8678290,barryvdh/laravel-ide-helper,PHP,6
+8678290,barryvdh/laravel-ide-helper,PHP,7
 1305114,roots/sage,PHP,7
-61490598,PHPOffice/PhpSpreadsheet,PHP,8
+61490598,PHPOffice/PhpSpreadsheet,PHP,6
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,8
-42480275,spatie/laravel-permission,PHP,7
-41589337,BookStackApp/BookStack,PHP,11
+42480275,spatie/laravel-permission,PHP,6
+41589337,BookStackApp/BookStack,PHP,10
 11340559,deployphp/deployer,PHP,7
 248372441,filamentphp/filament,PHP,9
-139191005,nunomaduro/larastan,PHP,4
+139191005,nunomaduro/larastan,PHP,5
 1957456,Dolibarr/dolibarr,PHP,3
 29126334,EasyCorp/EasyAdminBundle,PHP,1
 13044600,salesagility/SuiteCRM,PHP,4
@@ -21,6 +21,6 @@ id,name,lang,new stars
 71485542,kimai/kimai,PHP,3
 75645659,WordPress/wordpress-develop,PHP,3
 81589681,404labfr/laravel-impersonate,PHP,7
-433383766,nextcloud/all-in-one,PHP,10
+433383766,nextcloud/all-in-one,PHP,11
 34407154,cweagans/composer-patches,PHP,4
-415122668,Sammyjo20/Saloon,PHP,22
+415122668,Sammyjo20/Saloon,PHP,27
