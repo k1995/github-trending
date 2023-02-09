@@ -1,15 +1,15 @@
 id,name,lang,new stars
-136815833,Dreamacro/clash,Go,52
+136815833,Dreamacro/clash,Go,53
 17728164,hashicorp/terraform,Go,11
-192632000,dapr/dapr,Go,21
+192632000,dapr/dapr,Go,22
 165041732,go-kratos/kratos,Go,15
-27729907,grpc/grpc-go,Go,10
+27729907,grpc/grpc-go,Go,9
 44350607,kubernetes/dashboard,Go,9
 40684033,mozilla/sops,Go,15
 113106184,linkerd/linkerd2,Go,5
 146641150,tektoncd/pipeline,Go,3
-41561105,go-resty/resty,Go,10
-9120526,jackc/pgx,Go,8
+41561105,go-resty/resty,Go,9
+9120526,jackc/pgx,Go,6
 542931741,answerdev/answer,Go,22
 150713223,kubeedge/kubeedge,Go,4
 82933315,telepresenceio/telepresence,Go,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 329229346,eatmoreapple/openwechat,Go,110
 414333257,tulir/whatsmeow,Go,2
 576072728,eryajf/chatgpt-dingtalk,Go,17
-575234714,houko/wechatgpt,Go,43
+575234714,houko/wechatgpt,Go,44
 410897288,OffchainLabs/nitro,Go,4
 575237853,djun/wechatbot,Go,48
 588072625,bytemate/larkgpt,Go,4
