@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,7
+8514,rails/rails,Ruby,6
 27442967,fastlane/fastlane,Ruby,9
-481872,hashicorp/vagrant,Ruby,3
-3623050,Homebrew/homebrew-cask,Ruby,4
-202291859,chatwoot/chatwoot,Ruby,6
-1918677,fluent/fluentd,Ruby,3
-1725199,github/linguist,Ruby,7
+481872,hashicorp/vagrant,Ruby,4
+3623050,Homebrew/homebrew-cask,Ruby,3
+202291859,chatwoot/chatwoot,Ruby,5
+1918677,fluent/fluentd,Ruby,4
+1725199,github/linguist,Ruby,6
 96395,faker-ruby/faker,Ruby,1
 812393,ruby-grape/grape,Ruby,0
-611921,activeadmin/activeadmin,Ruby,0
+611921,activeadmin/activeadmin,Ruby,1
 211588,paper-trail-gem/paper_trail,Ruby,1
 75785147,rails/webpacker,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,1
