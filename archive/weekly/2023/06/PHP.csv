@@ -1,20 +1,20 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,128
-7548986,laravel/framework,PHP,72
-458058,symfony/symfony,PHP,45
-448045,sebastianbergmann/phpunit,PHP,29
+1863329,laravel/laravel,PHP,130
+7548986,laravel/framework,PHP,73
+458058,symfony/symfony,PHP,46
+448045,sebastianbergmann/phpunit,PHP,27
 8678290,barryvdh/laravel-ide-helper,PHP,28
 61490598,PHPOffice/PhpSpreadsheet,PHP,27
 41589337,BookStackApp/BookStack,PHP,84
-15020102,walkor/workerman,PHP,19
+15020102,walkor/workerman,PHP,20
 6763587,PrestaShop/PrestaShop,PHP,19
 4242230,PHPOffice/PHPWord,PHP,14
 3217621,phpmyadmin/phpmyadmin,PHP,24
 12204147,mautic/mautic,PHP,15
 159606650,hyperf/hyperf,PHP,19
 265782973,hlmd/Postman-cn,PHP,23
-8077402,MISP/MISP,PHP,14
-129852395,assimon/dujiaoka,PHP,43
+8077402,MISP/MISP,PHP,15
+129852395,assimon/dujiaoka,PHP,42
 13044600,salesagility/SuiteCRM,PHP,25
 6495081,wikimedia/mediawiki,PHP,13
 400984450,kuaifan/dootask,PHP,73
@@ -22,5 +22,5 @@ id,name,lang,new stars
 39182755,glpi-project/glpi,PHP,14
 111562942,statamic/cms,PHP,27
 216849756,v2board/v2board,PHP,36
-433383766,nextcloud/all-in-one,PHP,37
+433383766,nextcloud/all-in-one,PHP,39
 513468803,ine-labs/AWSGoat,PHP,65
