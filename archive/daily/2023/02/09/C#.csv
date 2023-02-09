@@ -1,12 +1,12 @@
 id,name,lang,new stars
 7600409,shadowsocks/shadowsocks-windows,C#,8
-199570071,2dust/v2rayN,C#,82
+199570071,2dust/v2rayN,C#,79
 17620347,dotnet/aspnetcore,C#,16
 70104825,dotnet-architecture/eShopOnContainers,C#,8
 262395224,dotnet/maui,C#,11
-16157746,dotnet/efcore,C#,5
-210716005,dotnet/runtime,C#,6
-213460285,jasontaylordev/CleanArchitecture,C#,16
+16157746,dotnet/efcore,C#,4
+210716005,dotnet/runtime,C#,5
+213460285,jasontaylordev/CleanArchitecture,C#,17
 791611,mono/mono,C#,2
 75505125,abpframework/abp,C#,6
 83380995,dotnet-architecture/eShopOnWeb,C#,4
@@ -15,12 +15,12 @@ id,name,lang,new stars
 187499284,Cysharp/UniTask,C#,10
 10601208,umbraco/Umbraco-CMS,C#,1
 23891194,Azure/azure-powershell,C#,3
-33010673,microsoft/perfview,C#,0
-2883574,npgsql/npgsql,C#,2
+33010673,microsoft/perfview,C#,3
+2883574,npgsql/npgsql,C#,6
 119571446,dotnet/samples,C#,2
-170988906,testcontainers/testcontainers-dotnet,C#,10
+170988906,testcontainers/testcontainers-dotnet,C#,9
 199628708,microsoft/RulesEngine,C#,3
 185478059,open-telemetry/opentelemetry-dotnet,C#,3
 63984307,dotnet/sdk,C#,1
 156260788,Azure/azure-cosmos-dotnet-v3,C#,1
-527708773,RetroDriven/Pocket_Updater,C#,0
+527708773,RetroDriven/Pocket_Updater,C#,1
