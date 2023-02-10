@@ -1,11 +1,11 @@
 id,name,lang,new stars
-132464395,Snailclimb/JavaGuide,Java,39
-507775,elastic/elasticsearch,Java,21
-1148753,spring-projects/spring-framework,Java,24
-44662669,dbeaver/dbeaver,Java,14
-120395176,alibaba/easyexcel,Java,17
+132464395,Snailclimb/JavaGuide,Java,36
+507775,elastic/elasticsearch,Java,13
+1148753,spring-projects/spring-framework,Java,20
+44662669,dbeaver/dbeaver,Java,15
+120395176,alibaba/easyexcel,Java,18
 2700159,alibaba/druid,Java,7
-18723836,dromara/hutool,Java,25
+18723836,dromara/hutool,Java,22
 45721011,apache/skywalking,Java,13
 133134007,OpenAPITools/openapi-generator,Java,15
 1090311,elastic/logstash,Java,3
@@ -16,11 +16,11 @@ id,name,lang,new stars
 7276954,Alluxio/alluxio,Java,3
 224230574,provectus/kafka-ui,Java,14
 73963835,spring-cloud/spring-cloud-gateway,Java,3
-158256479,apache/iceberg,Java,5
+158256479,apache/iceberg,Java,4
 445585860,dromara/dynamic-tp,Java,20
 295598569,TheoKanning/openai-java,Java,42
 575253452,PlexPt/chatgpt-java,Java,25
-575895729,obiscr/ChatGPT,Java,7
-332220568,YunaBraska/nats-server-embedded,Java,26
+575895729,obiscr/ChatGPT,Java,10
+332220568,YunaBraska/nats-server-embedded,Java,21
 328687728,tinystruct/smalltalk,Java,14
-590706604,fuzhengwei/chatbot-api,Java,12
+590706604,fuzhengwei/chatbot-api,Java,13
