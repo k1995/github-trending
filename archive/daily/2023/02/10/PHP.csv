@@ -1,7 +1,7 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,19
-7548986,laravel/framework,PHP,14
-458058,symfony/symfony,PHP,7
+1863329,laravel/laravel,PHP,22
+7548986,laravel/framework,PHP,13
+458058,symfony/symfony,PHP,8
 2253830,PHPMailer/PHPMailer,PHP,5
 61490598,PHPOffice/PhpSpreadsheet,PHP,3
 49014795,phpstan/phpstan,PHP,1
@@ -10,17 +10,17 @@ id,name,lang,new stars
 2699935,squizlabs/PHP_CodeSniffer,PHP,1
 2179920,woocommerce/woocommerce,PHP,2
 330275,twigphp/Twig,PHP,0
-4242230,PHPOffice/PHPWord,PHP,3
+4242230,PHPOffice/PHPWord,PHP,2
 8077402,MISP/MISP,PHP,5
-1957456,Dolibarr/dolibarr,PHP,6
-286645686,yuantuo666/baiduwp-php,PHP,7
+1957456,Dolibarr/dolibarr,PHP,5
+286645686,yuantuo666/baiduwp-php,PHP,6
 39182755,glpi-project/glpi,PHP,3
 69691727,pmmp/PocketMine-MP,PHP,1
-111562942,statamic/cms,PHP,4
-433383766,nextcloud/all-in-one,PHP,8
+111562942,statamic/cms,PHP,5
+433383766,nextcloud/all-in-one,PHP,6
 34407154,cweagans/composer-patches,PHP,1
 541322916,openai-php/client,PHP,8
-415122668,Sammyjo20/Saloon,PHP,14
-582445575,openai-php/laravel,PHP,19
+415122668,Sammyjo20/Saloon,PHP,18
+582445575,openai-php/laravel,PHP,17
 440520058,orhanerday/open-ai,PHP,12
-598479321,acikkaynak/deprem-yardimi,PHP,16
+598479321,acikkaynak/deprem-yardimi,PHP,14
