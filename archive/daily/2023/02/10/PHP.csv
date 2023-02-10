@@ -1,9 +1,9 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,19
 7548986,laravel/framework,PHP,14
-458058,symfony/symfony,PHP,5
-2253830,PHPMailer/PHPMailer,PHP,6
-61490598,PHPOffice/PhpSpreadsheet,PHP,4
+458058,symfony/symfony,PHP,7
+2253830,PHPMailer/PHPMailer,PHP,5
+61490598,PHPOffice/PhpSpreadsheet,PHP,3
 49014795,phpstan/phpstan,PHP,1
 14259390,SpartnerNL/Laravel-Excel,PHP,3
 2884111,magento/magento2,PHP,2
@@ -16,11 +16,11 @@ id,name,lang,new stars
 286645686,yuantuo666/baiduwp-php,PHP,7
 39182755,glpi-project/glpi,PHP,3
 69691727,pmmp/PocketMine-MP,PHP,1
-111562942,statamic/cms,PHP,5
-433383766,nextcloud/all-in-one,PHP,7
+111562942,statamic/cms,PHP,4
+433383766,nextcloud/all-in-one,PHP,8
 34407154,cweagans/composer-patches,PHP,1
-541322916,openai-php/client,PHP,9
-415122668,Sammyjo20/Saloon,PHP,17
-582445575,openai-php/laravel,PHP,22
-440520058,orhanerday/open-ai,PHP,10
-598479321,acikkaynak/deprem-yardimi,PHP,15
+541322916,openai-php/client,PHP,8
+415122668,Sammyjo20/Saloon,PHP,14
+582445575,openai-php/laravel,PHP,19
+440520058,orhanerday/open-ai,PHP,12
+598479321,acikkaynak/deprem-yardimi,PHP,16

@@ -1,11 +1,11 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,2035
-10744183,netdata/netdata,C,386
-36502,git/git,C,466
+2325298,torvalds/linux,C,2038
+10744183,netdata/netdata,C,387
+36502,git/git,C,468
 5101141,stedolan/jq,C,273
-6201092,mpv-player/mpv,C,350
-7634677,openssl/openssl,C,339
-105627846,reactos/reactos,C,180
+6201092,mpv-player/mpv,C,351
+7634677,openssl/openssl,C,340
+105627846,reactos/reactos,C,181
 927442,postgres/postgres,C,190
 13836499,raysan5/raylib,C,296
 65899476,espressif/esp-idf,C,230
@@ -18,9 +18,9 @@ id,name,lang,new stars
 40556106,wazuh/wazuh,C,150
 68082730,Ralim/IronOS,C,138
 34807561,nanopb/nanopb,C,57
-331380723,raspberrypi/pico-sdk,C,131
+331380723,raspberrypi/pico-sdk,C,130
 47219545,GStreamer/gstreamer,C,47
-207354223,FreeRTOS/FreeRTOS-Kernel,C,64
-576303915,tiann/KernelSU,C,767
-142917961,flutter/codelabs,C,103
+207354223,FreeRTOS/FreeRTOS-Kernel,C,63
+576303915,tiann/KernelSU,C,766
+142917961,flutter/codelabs,C,100
 468245058,pasqualerossi/42-School-Exam-Rank-02,C,47
