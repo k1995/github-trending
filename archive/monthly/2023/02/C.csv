@@ -1,11 +1,11 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,2035
 10744183,netdata/netdata,C,390
-36502,git/git,C,478
-5101141,stedolan/jq,C,271
+36502,git/git,C,481
+5101141,stedolan/jq,C,272
 6201092,mpv-player/mpv,C,354
 7634677,openssl/openssl,C,338
-13836499,raysan5/raylib,C,294
+13836499,raysan5/raylib,C,292
 65899476,espressif/esp-idf,C,230
 6041301,sumatrapdfreader/sumatrapdf,C,309
 254327261,sandboxie-plus/Sandboxie,C,227
@@ -21,6 +21,6 @@ id,name,lang,new stars
 331380723,raspberrypi/pico-sdk,C,130
 47219545,GStreamer/gstreamer,C,45
 576303915,tiann/KernelSU,C,767
-142917961,flutter/codelabs,C,97
+142917961,flutter/codelabs,C,95
 204363144,termux/termux-x11,C,40
 468245058,pasqualerossi/42-School-Exam-Rank-02,C,47

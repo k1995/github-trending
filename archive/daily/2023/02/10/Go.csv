@@ -1,12 +1,12 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,36
-14712850,syncthing/syncthing,Go,65
+20580498,kubernetes/kubernetes,Go,33
+14712850,syncthing/syncthing,Go,67
 11225014,etcd-io/etcd,Go,7
-41986369,pingcap/tidb,Go,8
-14125254,hashicorp/consul,Go,9
+41986369,pingcap/tidb,Go,7
+14125254,hashicorp/consul,Go,7
 5179099,redis/go-redis,Go,13
 6443435,nats-io/nats-server,Go,20
-120896210,argoproj/argo-cd,Go,19
+120896210,argoproj/argo-cd,Go,20
 40684033,mozilla/sops,Go,15
 113106184,linkerd/linkerd2,Go,10
 93444615,hashicorp/terraform-provider-aws,Go,1
@@ -18,9 +18,9 @@ id,name,lang,new stars
 329229346,eatmoreapple/openwechat,Go,99
 228925870,open-telemetry/opentelemetry-operator,Go,2
 288482469,sashabaranov/go-gpt3,Go,28
-515311500,openziti/zrok,Go,52
-576072728,eryajf/chatgpt-dingtalk,Go,35
-575234714,houko/wechatgpt,Go,55
+515311500,openziti/zrok,Go,35
+576072728,eryajf/chatgpt-dingtalk,Go,36
+575234714,houko/wechatgpt,Go,53
 575237853,djun/wechatbot,Go,58
-574975994,gtoxlili/wechat-chatGPT,Go,15
+574975994,gtoxlili/wechat-chatGPT,Go,12
 598829578,acikkaynak/deprem-yardim-backend-go,Go,33
