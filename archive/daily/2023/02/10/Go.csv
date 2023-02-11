@@ -1,20 +1,20 @@
 id,name,lang,new stars
-20580498,kubernetes/kubernetes,Go,33
+20580498,kubernetes/kubernetes,Go,35
 14712850,syncthing/syncthing,Go,67
 11225014,etcd-io/etcd,Go,7
 41986369,pingcap/tidb,Go,7
-14125254,hashicorp/consul,Go,7
+14125254,hashicorp/consul,Go,6
 5179099,redis/go-redis,Go,13
 6443435,nats-io/nats-server,Go,20
 120896210,argoproj/argo-cd,Go,20
-40684033,mozilla/sops,Go,15
-113106184,linkerd/linkerd2,Go,10
+40684033,mozilla/sops,Go,19
+113106184,linkerd/linkerd2,Go,7
 93444615,hashicorp/terraform-provider-aws,Go,1
-41288708,sourcegraph/sourcegraph,Go,7
+41288708,sourcegraph/sourcegraph,Go,2
 127519518,projectdiscovery/subfinder,Go,6
 121746465,eddycjy/go-gin-example,Go,5
 330616364,evrone/go-clean-template,Go,30
-573982889,m1guelpf/chatgpt-telegram,Go,40
+573982889,m1guelpf/chatgpt-telegram,Go,38
 329229346,eatmoreapple/openwechat,Go,99
 228925870,open-telemetry/opentelemetry-operator,Go,2
 288482469,sashabaranov/go-gpt3,Go,28
