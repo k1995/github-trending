@@ -4,10 +4,10 @@ id,name,lang,new stars
 130688011,meilisearch/meilisearch,Rust,131
 120425779,lapce/lapce,Rust,54
 11847500,uutils/coreutils,Rust,127
-575340621,lencx/ChatGPT,Rust,648
+575340621,lencx/ChatGPT,Rust,533
 48833910,tikv/tikv,Rust,6
 38655056,rust-lang/mdBook,Rust,21
-31315121,clap-rs/clap,Rust,16
+31315121,clap-rs/clap,Rust,10
 523043277,charliermarsh/ruff,Rust,54
 201517171,hyperium/tonic,Rust,12
 351806852,neondatabase/neon,Rust,45
@@ -18,9 +18,9 @@ id,name,lang,new stars
 426075845,MystenLabs/sui,Rust,8
 480592723,move-language/move,Rust,4
 531874744,aurae-runtime/aurae,Rust,22
-446669912,obi1kenobi/trustfall,Rust,100
+446669912,obi1kenobi/trustfall,Rust,99
 574034091,sonnylazuardi/chatgpt-desktop,Rust,13
 437485701,casey/ord,Rust,53
-588732058,zurawiki/gptcommit,Rust,33
+588732058,zurawiki/gptcommit,Rust,24
 581225647,flox/flox,Rust,19
-524541454,hwittenborn/celeste,Rust,21
+524541454,hwittenborn/celeste,Rust,31

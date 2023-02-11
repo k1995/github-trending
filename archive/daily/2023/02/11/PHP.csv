@@ -1,17 +1,17 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,18
-1864363,composer/composer,PHP,5
+1864363,composer/composer,PHP,3
 2889328,WordPress/WordPress,PHP,5
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,2
 926544,slimphp/Slim,PHP,1
-41589337,BookStackApp/BookStack,PHP,10
+41589337,BookStackApp/BookStack,PHP,12
 6660366,dompdf/dompdf,PHP,3
-10238429,tennc/webshell,PHP,3
+10238429,tennc/webshell,PHP,1
 116389886,Anankke/SSPanel-Uim,PHP,6
 14346979,snipe/snipe-it,PHP,4
 4242230,PHPOffice/PHPWord,PHP,4
-248372441,filamentphp/filament,PHP,12
-11935508,RSS-Bridge/rss-bridge,PHP,7
+248372441,filamentphp/filament,PHP,10
+11935508,RSS-Bridge/rss-bridge,PHP,8
 61802818,spatie/laravel-activitylog,PHP,2
 2784293,php-amqplib/php-amqplib,PHP,0
 286645686,yuantuo666/baiduwp-php,PHP,10
@@ -20,7 +20,7 @@ id,name,lang,new stars
 541322916,openai-php/client,PHP,12
 374132359,krayin/laravel-crm,PHP,0
 582445575,openai-php/laravel,PHP,4
-440520058,orhanerday/open-ai,PHP,11
+440520058,orhanerday/open-ai,PHP,13
 184538454,yankovalenko94/Webdev2019,PHP,0
 598479321,acikkaynak/deprem-yardimi,PHP,1
 581997910,mertskaplan/multitv,PHP,2
