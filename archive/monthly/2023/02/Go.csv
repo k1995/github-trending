@@ -15,11 +15,11 @@ id,name,lang,new stars
 52481933,navidrome/navidrome,Go,341
 173785481,aquasecurity/tfsec,Go,115
 206649463,cilium/ebpf,Go,317
-93446042,hashicorp/terraform-provider-azurerm,Go,69
+93446042,hashicorp/terraform-provider-azurerm,Go,71
 173009358,deepmap/oapi-codegen,Go,295
 238797860,ethereum-optimism/optimism,Go,389
 188836864,ledgerwatch/erigon,Go,103
-49970739,DataDog/datadog-agent,Go,46
+49970739,DataDog/datadog-agent,Go,47
 582059828,youshandefeiyang/IPTV,Go,1238
 329229346,eatmoreapple/openwechat,Go,576
 575295397,gofireflyio/aiac,Go,837
