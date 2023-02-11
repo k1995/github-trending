@@ -2,19 +2,19 @@ id,name,lang,new stars
 126577260,trekhleb/javascript-algorithms,JavaScript,4547
 71995937,nuxt/nuxt,TypeScript,1756
 212639071,bregman-arie/devops-exercises,Python,4599
-348060227,withastro/astro,TypeScript,2611
-574523116,f/awesome-chatgpt-prompts,HTML,9327
-573819845,acheong08/ChatGPT,Python,6054
-577603990,LAION-AI/Open-Assistant,Python,10458
-575340621,lencx/ChatGPT,Rust,8760
+348060227,withastro/astro,TypeScript,2564
+574523116,f/awesome-chatgpt-prompts,HTML,9497
+573819845,acheong08/ChatGPT,Python,6085
+577603990,LAION-AI/Open-Assistant,Python,10597
+575340621,lencx/ChatGPT,Rust,8818
 582822129,karpathy/nanoGPT,Python,9122
 468576060,openai/openai-cookbook,Jupyter Notebook,5560
-419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,4210
-525683737,apitable/apitable,TypeScript,4689
+419661684,DataTalksClub/data-engineering-zoomcamp,Jupyter Notebook,4202
+525683737,apitable/apitable,TypeScript,4695
 534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,2822
-552661142,hwchase17/langchain,Python,4433
+552661142,hwchase17/langchain,Python,4423
 505667511,sczhou/CodeFormer,Python,2441
-255231293,karpathy/micrograd,Jupyter Notebook,472
+255231293,karpathy/micrograd,Jupyter Notebook,471
 535360445,ultralytics/ultralytics,Python,2958
 560704231,jerryjliu/gpt_index,Python,2655
 583706111,LazyVim/LazyVim,Lua,2906
@@ -22,5 +22,5 @@ id,name,lang,new stars
 438514144,wangrongding/wechat-bot,JavaScript,925
 568430347,Dimillian/IceCubesApp,Swift,1463
 477198595,damus-io/damus,Swift,1232
-575295397,gofireflyio/aiac,Go,837
-487510752,nostr-protocol/nips,,575
+575295397,gofireflyio/aiac,Go,838
+487510752,nostr-protocol/nips,,577
