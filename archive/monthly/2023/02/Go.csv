@@ -10,7 +10,7 @@ id,name,lang,new stars
 72477752,pulumi/pulumi,Go,360
 120896210,argoproj/argo-cd,Go,330
 291485614,XIU2/CloudflareSpeedTest,Go,600
-150954997,VictoriaMetrics/VictoriaMetrics,Go,322
+150954997,VictoriaMetrics/VictoriaMetrics,Go,320
 147886080,crossplane/crossplane,Go,177
 52481933,navidrome/navidrome,Go,344
 173785481,aquasecurity/tfsec,Go,114
@@ -19,7 +19,7 @@ id,name,lang,new stars
 173009358,deepmap/oapi-codegen,Go,291
 238797860,ethereum-optimism/optimism,Go,386
 188836864,ledgerwatch/erigon,Go,100
-49970739,DataDog/datadog-agent,Go,47
+49970739,DataDog/datadog-agent,Go,45
 582059828,youshandefeiyang/IPTV,Go,1254
 329229346,eatmoreapple/openwechat,Go,596
 575295397,gofireflyio/aiac,Go,840
