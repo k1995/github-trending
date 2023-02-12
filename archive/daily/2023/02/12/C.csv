@@ -5,17 +5,17 @@ id,name,lang,new stars
 102578345,coolsnowwolf/lede,C,23
 2810292,pbatard/rufus,C,14
 6201092,mpv-player/mpv,C,16
-27737393,qmk/qmk_firmware,C,14
+27737393,qmk/qmk_firmware,C,15
 45821540,openwrt/openwrt,C,12
 7715820,davatorium/rofi,C,8
 272457606,jart/cosmopolitan,C,19
 70127218,espressif/arduino-esp32,C,4
 54280778,DaveGamble/cJSON,C,5
-37060852,betaflight/betaflight,C,7
 541269386,ggerganov/whisper.cpp,C,105
+37060852,betaflight/betaflight,C,7
 59676171,Klipper3d/klipper,C,5
 469303019,gojue/ecapture,C,6
-284134871,flipperdevices/flipperzero-firmware,C,17
+284134871,flipperdevices/flipperzero-firmware,C,16
 470579591,DarkFlippers/unleashed-firmware,C,24
 330008801,libsdl-org/SDL,C,7
 561183031,jart/blink,C,38
@@ -23,4 +23,4 @@ id,name,lang,new stars
 331380723,raspberrypi/pico-sdk,C,29
 74630515,TASEmulators/desmume,C,4
 331381105,raspberrypi/pico-examples,C,9
-270692521,zmkfirmware/zmk,C,1
+270692521,zmkfirmware/zmk,C,2

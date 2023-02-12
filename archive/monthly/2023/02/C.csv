@@ -1,6 +1,6 @@
 id,name,lang,new stars
 10744183,netdata/netdata,C,392
-36502,git/git,C,475
+36502,git/git,C,476
 36836475,tmux/tmux,C,364
 6201092,mpv-player/mpv,C,358
 7634677,openssl/openssl,C,347
@@ -16,10 +16,10 @@ id,name,lang,new stars
 37060852,betaflight/betaflight,C,144
 5870069,confluentinc/librdkafka,C,53
 59676171,Klipper3d/klipper,C,236
-40556106,wazuh/wazuh,C,156
+40556106,wazuh/wazuh,C,155
 68082730,Ralim/IronOS,C,128
 34807561,nanopb/nanopb,C,60
-331380723,raspberrypi/pico-sdk,C,161
+331380723,raspberrypi/pico-sdk,C,159
 61964127,86Box/86Box,C,139
 47219545,GStreamer/gstreamer,C,44
 576303915,tiann/KernelSU,C,734
