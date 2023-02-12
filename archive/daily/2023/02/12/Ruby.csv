@@ -1,18 +1,18 @@
 id,name,lang,new stars
-52281283,mastodon/mastodon,Ruby,48
+52281283,mastodon/mastodon,Ruby,43
 53238813,Homebrew/brew,Ruby,11
-13840241,freeCodeCamp/devdocs,Ruby,16
-2293158,rapid7/metasploit-framework,Ruby,15
-481872,hashicorp/vagrant,Ruby,5
-538746,ruby/ruby,Ruby,5
-18486300,lewagon/setup,Ruby,14
-88740103,postalserver/postal,Ruby,4
+13840241,freeCodeCamp/devdocs,Ruby,13
+2293158,rapid7/metasploit-framework,Ruby,9
+481872,hashicorp/vagrant,Ruby,8
+538746,ruby/ruby,Ruby,3
+18486300,lewagon/setup,Ruby,3
+88740103,postalserver/postal,Ruby,2
 4095287,rubocop/rubocop,Ruby,1
 6688319,DeathKing/Learning-SICP,Ruby,3
 6768710,redmine/redmine,Ruby,1
 103766152,github/explore,Ruby,1
 17724730,2factorauth/twofactorauth,Ruby,0
-283230219,red-data-tools/YouPlot,Ruby,38
+283230219,red-data-tools/YouPlot,Ruby,34
 11426474,github/choosealicense.com,Ruby,1
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,0
 8154497,rubysec/ruby-advisory-db,Ruby,0
