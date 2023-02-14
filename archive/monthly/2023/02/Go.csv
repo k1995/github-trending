@@ -1,7 +1,7 @@
 id,name,lang,new stars
-212613049,cli/cli,Go,437
+212613049,cli/cli,Go,438
 14125254,hashicorp/consul,Go,192
-234231371,gofiber/fiber,Go,698
+234231371,gofiber/fiber,Go,700
 43723161,helm/helm,Go,321
 323965659,alist-org/alist,Go,3422
 129717717,grafana/loki,Go,287
@@ -20,7 +20,7 @@ id,name,lang,new stars
 49970739,DataDog/datadog-agent,Go,44
 582059828,youshandefeiyang/IPTV,Go,1290
 329229346,eatmoreapple/openwechat,Go,670
-575295397,gofireflyio/aiac,Go,910
+575295397,gofireflyio/aiac,Go,915
 22855240,Azure/azure-sdk-for-go,Go,25
-288482469,sashabaranov/go-gpt3,Go,357
+288482469,sashabaranov/go-gpt3,Go,359
 576072728,eryajf/chatgpt-dingtalk,Go,210

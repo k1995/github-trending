@@ -1,11 +1,11 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,2
 481872,hashicorp/vagrant,Ruby,2
-308770,heartcombo/devise,Ruby,2
+308770,heartcombo/devise,Ruby,3
 202291859,chatwoot/chatwoot,Ruby,11
 2203645,CocoaPods/CocoaPods,Ruby,3
 3195124,sidekiq/sidekiq,Ruby,8
-4095287,rubocop/rubocop,Ruby,1
+4095287,rubocop/rubocop,Ruby,4
 1918677,fluent/fluentd,Ruby,2
 361310,teamcapybara/capybara,Ruby,1
 812393,ruby-grape/grape,Ruby,0
@@ -16,11 +16,11 @@ id,name,lang,new stars
 6899875,opf/openproject,Ruby,3
 7050,prawnpdf/prawn,Ruby,1
 95798441,athityakumar/colorls,Ruby,3
-103766152,github/explore,Ruby,4
+103766152,github/explore,Ruby,5
 1172597,thoughtbot/shoulda-matchers,Ruby,0
-93163073,dependabot/dependabot-core,Ruby,3
-3654364,roo-rb/roo,Ruby,9
+93163073,dependabot/dependabot-core,Ruby,4
+3654364,roo-rb/roo,Ruby,7
 3277842,googleapis/google-api-ruby-client,Ruby,1
-9831101,elastic/elasticsearch-ruby,Ruby,0
+9831101,elastic/elasticsearch-ruby,Ruby,1
 34840276,elastic/ansible-elasticsearch,Ruby,0
 32104924,rails/sprockets,Ruby,0
