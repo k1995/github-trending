@@ -3,7 +3,7 @@ id,name,lang,new stars
 151834062,doocs/advanced-java,Java,29
 8859474,skylot/jadx,Java,22
 1064563,netty/netty,Java,3
-7613257,SeleniumHQ/selenium,Java,12
+7613257,SeleniumHQ/selenium,Java,11
 163387337,seata/seata,Java,5
 75164823,apache/rocketmq,Java,7
 8205602,mybatis/mybatis-3,Java,10
@@ -11,10 +11,10 @@ id,name,lang,new stars
 11125589,keycloak/keycloak,Java,19
 2993595,medcl/elasticsearch-analysis-ik,Java,4
 6358188,apache/druid,Java,4
-283046497,airbytehq/airbyte,Java,17
+283046497,airbytehq/airbyte,Java,16
 10981994,OpenFeign/feign,Java,2
 81226206,karatelabs/karate,Java,2
-70780002,flowable/flowable-engine,Java,4
+70780002,flowable/flowable-engine,Java,3
 32848140,apache/zeppelin,Java,3
 3786237,hazelcast/hazelcast,Java,4
 5663857,jeremylong/DependencyCheck,Java,5
