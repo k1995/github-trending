@@ -3,14 +3,14 @@ id,name,lang,new stars
 7548986,laravel/framework,PHP,281
 1420053,guzzle/guzzle,PHP,98
 448045,sebastianbergmann/phpunit,PHP,100
-1548202,matomo-org/matomo,PHP,133
+1548202,matomo-org/matomo,PHP,135
 12615154,barryvdh/laravel-debugbar,PHP,144
 1305114,roots/sage,PHP,65
 41589337,BookStackApp/BookStack,PHP,274
 597887,doctrine/orm,PHP,59
 6660366,dompdf/dompdf,PHP,95
 14346979,snipe/snipe-it,PHP,157
-6763587,PrestaShop/PrestaShop,PHP,76
+6763587,PrestaShop/PrestaShop,PHP,75
 14716368,invoiceninja/invoiceninja,PHP,87
 95011974,akaunting/akaunting,PHP,108
 60010673,elementor/elementor,JavaScript,55
@@ -23,4 +23,4 @@ id,name,lang,new stars
 29745084,Leantime/leantime,PHP,185
 138328462,freescout-helpdesk/freescout,PHP,79
 75645659,WordPress/wordpress-develop,PHP,47
-440520058,orhanerday/open-ai,PHP,237
+440520058,orhanerday/open-ai,PHP,240
