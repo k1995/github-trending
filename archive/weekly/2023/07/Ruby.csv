@@ -1,7 +1,7 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,58
+8514,rails/rails,Ruby,51
 52281283,mastodon/mastodon,Ruby,284
-8681349,huginn/huginn,Ruby,74
+8681349,huginn/huginn,Ruby,75
 7569578,discourse/discourse,Ruby,46
 53238813,Homebrew/brew,Ruby,99
 2500088,gitlabhq/gitlabhq,Ruby,12
@@ -11,14 +11,14 @@ id,name,lang,new stars
 202291859,chatwoot/chatwoot,Ruby,49
 3314,spree/spree,Ruby,8
 1918677,fluent/fluentd,Ruby,18
-1725199,github/linguist,Ruby,37
+1725199,github/linguist,Ruby,39
 96395,faker-ruby/faker,Ruby,11
 6768710,redmine/redmine,Ruby,9
-10431787,felixonmars/dnsmasq-china-list,Ruby,18
+10431787,felixonmars/dnsmasq-china-list,Ruby,17
 30985840,solidusio/solidus,Ruby,13
 11426474,github/choosealicense.com,Ruby,11
 200302808,ViewComponent/view_component,Ruby,9
-641512,openstreetmap/openstreetmap-website,Ruby,10
+641512,openstreetmap/openstreetmap-website,Ruby,11
 3947396,getsentry/sentry-ruby,Ruby,3
 284824224,alexrudall/ruby-openai,Ruby,95
 77154536,mercadolibre/mobile-dependencies_whitelist,Ruby,0
