@@ -1,6 +1,6 @@
 id,name,lang,new stars
 212613049,cli/cli,Go,437
-14125254,hashicorp/consul,Go,194
+14125254,hashicorp/consul,Go,197
 43723161,helm/helm,Go,321
 135516270,k3s-io/k3s,Go,356
 323965659,alist-org/alist,Go,3461
@@ -11,16 +11,16 @@ id,name,lang,new stars
 175405157,JanDeDobbeleer/oh-my-posh,Go,515
 291485614,XIU2/CloudflareSpeedTest,Go,658
 150954997,VictoriaMetrics/VictoriaMetrics,Go,327
-147886080,crossplane/crossplane,Go,170
+147886080,crossplane/crossplane,Go,168
 52481933,navidrome/navidrome,Go,346
-173785481,aquasecurity/tfsec,Go,115
+173785481,aquasecurity/tfsec,Go,117
 206649463,cilium/ebpf,Go,314
 173009358,deepmap/oapi-codegen,Go,300
 238797860,ethereum-optimism/optimism,Go,364
 188836864,ledgerwatch/erigon,Go,105
-49970739,DataDog/datadog-agent,Go,44
+49970739,DataDog/datadog-agent,Go,47
 582059828,youshandefeiyang/IPTV,Go,1290
 329229346,eatmoreapple/openwechat,Go,671
 575295397,gofireflyio/aiac,Go,894
-288482469,sashabaranov/go-gpt3,Go,338
-576072728,eryajf/chatgpt-dingtalk,Go,212
+288482469,sashabaranov/go-gpt3,Go,342
+576072728,eryajf/chatgpt-dingtalk,Go,222
