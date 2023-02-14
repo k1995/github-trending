@@ -1,13 +1,13 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,125
+10744183,netdata/netdata,C,111
 156018,redis/redis,C,126
 569041,curl/curl,C,89
 102578345,coolsnowwolf/lede,C,111
 7634677,openssl/openssl,C,91
-196353673,taosdata/TDengine,C,55
+196353673,taosdata/TDengine,C,99
 29759715,facebook/zstd,C,105
 272457606,jart/cosmopolitan,C,100
-70127218,espressif/arduino-esp32,C,49
+70127218,espressif/arduino-esp32,C,50
 65899476,espressif/esp-idf,C,64
 5414488,cesanta/mongoose,C,30
 414577657,peng-zhihui/Dummy-Robot,C,38
@@ -15,12 +15,12 @@ id,name,lang,new stars
 541269386,ggerganov/whisper.cpp,C,575
 59676171,Klipper3d/klipper,C,39
 27359183,guanzhi/GmSSL,C,15
-523544748,snesrev/zelda3,C,379
+523544748,snesrev/zelda3,C,371
 37350472,ElementsProject/lightning,C,12
 154525111,signalwire/freeswitch,C,16
-331380723,raspberrypi/pico-sdk,C,65
+331380723,raspberrypi/pico-sdk,C,71
 1924458,SchedMD/slurm,C,11
 270692521,zmkfirmware/zmk,C,20
 470373719,istoreos/istoreos,C,60
 403314395,48d31kh413k/1337-Piscine-42,C,16
-382113009,tsoding/ded,C,41
+382113009,tsoding/ded,C,40

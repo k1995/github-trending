@@ -1,15 +1,15 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,29
+20904437,gin-gonic/gin,Go,31
 29261473,minio/minio,Go,24
 13628513,sirupsen/logrus,Go,9
-323965659,alist-org/alist,Go,164
-205679232,flipped-aurora/gin-vue-admin,Go,7
+323965659,alist-org/alist,Go,177
+205679232,flipped-aurora/gin-vue-admin,Go,10
 87617508,casbin/casbin,Go,7
 32575637,ginuerzh/gost,Go,184
 92313258,cert-manager/cert-manager,Go,4
 403020531,abiosoft/colima,Go,28
-154643390,sundowndev/phoneinfoga,Go,19
-10721619,hajimehoshi/ebiten,Go,20
+154643390,sundowndev/phoneinfoga,Go,17
+10721619,hajimehoshi/ebiten,Go,21
 146641150,tektoncd/pipeline,Go,2
 9120526,jackc/pgx,Go,4
 230660669,aler9/rtsp-simple-server,Go,14
@@ -19,8 +19,8 @@ id,name,lang,new stars
 105711679,bufbuild/protoc-gen-validate,Go,5
 57912964,kubernetes/enhancements,Go,3
 288482469,sashabaranov/go-gpt3,Go,29
-576072728,eryajf/chatgpt-dingtalk,Go,33
-588072625,bytemate/larkgpt,Go,42
-587311303,Cyber-Buddy/APKHunt,Go,54
-598539671,Leizhenpeng/feishu-chatGpt,Go,14
+576072728,eryajf/chatgpt-dingtalk,Go,36
+588072625,bytemate/larkgpt,Go,31
+587311303,Cyber-Buddy/APKHunt,Go,49
+598539671,Leizhenpeng/feishu-chatGpt,Go,11
 599976443,869413421/chatgpt-web,Go,14
