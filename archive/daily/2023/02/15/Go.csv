@@ -1,5 +1,5 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,32
+20904437,gin-gonic/gin,Go,36
 29261473,minio/minio,Go,20
 13628513,sirupsen/logrus,Go,11
 323965659,alist-org/alist,Go,185
@@ -7,20 +7,20 @@ id,name,lang,new stars
 87617508,casbin/casbin,Go,7
 32575637,ginuerzh/gost,Go,112
 92313258,cert-manager/cert-manager,Go,7
-403020531,abiosoft/colima,Go,36
+403020531,abiosoft/colima,Go,30
 154643390,sundowndev/phoneinfoga,Go,18
 10721619,hajimehoshi/ebiten,Go,19
-146641150,tektoncd/pipeline,Go,47
+146641150,tektoncd/pipeline,Go,55
 9120526,jackc/pgx,Go,3
 230660669,aler9/rtsp-simple-server,Go,16
 76686583,kubevirt/kubevirt,Go,3
-169108858,kyverno/kyverno,Go,12
-311639195,karmada-io/karmada,Go,11
+169108858,kyverno/kyverno,Go,15
+311639195,karmada-io/karmada,Go,12
 105711679,bufbuild/protoc-gen-validate,Go,5
 57912964,kubernetes/enhancements,Go,1
 288482469,sashabaranov/go-gpt3,Go,29
 576072728,eryajf/chatgpt-dingtalk,Go,24
-588072625,bytemate/larkgpt,Go,15
+588072625,bytemate/larkgpt,Go,8
 587311303,Cyber-Buddy/APKHunt,Go,41
 598539671,Leizhenpeng/feishu-chatGpt,Go,9
 599976443,869413421/chatgpt-web,Go,13

@@ -2,10 +2,10 @@ id,name,lang,new stars
 132464395,Snailclimb/JavaGuide,Java,46
 151834062,doocs/advanced-java,Java,26
 8859474,skylot/jadx,Java,16
-1064563,netty/netty,Java,8
+1064563,netty/netty,Java,10
 7613257,SeleniumHQ/selenium,Java,13
 163387337,seata/seata,Java,7
-75164823,apache/rocketmq,Java,7
+75164823,apache/rocketmq,Java,8
 8205602,mybatis/mybatis-3,Java,9
 5901900,LMAX-Exchange/disruptor,Java,5
 11125589,keycloak/keycloak,Java,19
@@ -19,7 +19,7 @@ id,name,lang,new stars
 3786237,hazelcast/hazelcast,Java,5
 5663857,jeremylong/DependencyCheck,Java,6
 19961085,apache/pinot,Java,6
-455584258,dromara/hertzbeat,Java,18
+455584258,dromara/hertzbeat,Java,15
 281414496,kkevsekk1/AutoX,Java,29
 295598569,TheoKanning/openai-java,Java,31
 332220568,YunaBraska/nats-server-embedded,Java,0
