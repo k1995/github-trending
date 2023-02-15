@@ -1,9 +1,9 @@
 id,name,lang,new stars
-2293158,rapid7/metasploit-framework,Ruby,13
-481872,hashicorp/vagrant,Ruby,6
+2293158,rapid7/metasploit-framework,Ruby,14
+481872,hashicorp/vagrant,Ruby,5
 308770,heartcombo/devise,Ruby,3
-21696302,matteocrippa/awesome-swift,Ruby,17
-202291859,chatwoot/chatwoot,Ruby,14
+21696302,matteocrippa/awesome-swift,Ruby,10
+202291859,chatwoot/chatwoot,Ruby,13
 2203645,CocoaPods/CocoaPods,Ruby,3
 3195124,sidekiq/sidekiq,Ruby,6
 52855516,Homebrew/homebrew-core,Ruby,10
@@ -12,7 +12,7 @@ id,name,lang,new stars
 47087,carrierwaveuploader/carrierwave,Ruby,0
 6529205,varvet/pundit,Ruby,2
 21829,thoughtbot/factory_bot,Ruby,1
-2441517,puma/puma,Ruby,3
+2441517,puma/puma,Ruby,4
 11412473,ankane/searchkick,Ruby,1
 906150,slim-template/slim,Ruby,1
 2802565,doorkeeper-gem/doorkeeper,Ruby,1
