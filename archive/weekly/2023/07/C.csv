@@ -6,16 +6,16 @@ id,name,lang,new stars
 196353673,taosdata/TDengine,C,44
 29759715,facebook/zstd,C,105
 45821540,openwrt/openwrt,C,170
-214011414,kingToolbox/WindTerm,C,495
+214011414,kingToolbox/WindTerm,C,494
 60667730,lvgl/lvgl,C,70
 272457606,jart/cosmopolitan,C,99
-70127218,espressif/arduino-esp32,C,49
-65899476,espressif/esp-idf,C,64
-5414488,cesanta/mongoose,C,33
+70127218,espressif/arduino-esp32,C,42
+65899476,espressif/esp-idf,C,63
+5414488,cesanta/mongoose,C,37
 414577657,peng-zhihui/Dummy-Robot,C,37
 541269386,ggerganov/whisper.cpp,C,626
 59676171,Klipper3d/klipper,C,39
-470579591,DarkFlippers/unleashed-firmware,C,191
+470579591,DarkFlippers/unleashed-firmware,C,185
 27359183,guanzhi/GmSSL,C,17
 256105296,fw876/helloworld,C,27
 154525111,signalwire/freeswitch,C,19
@@ -23,4 +23,4 @@ id,name,lang,new stars
 61964127,86Box/86Box,C,91
 470373719,istoreos/istoreos,C,65
 403314395,48d31kh413k/1337-Piscine-42,C,17
-382113009,tsoding/ded,C,42
+382113009,tsoding/ded,C,43

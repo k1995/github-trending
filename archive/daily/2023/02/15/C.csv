@@ -10,7 +10,7 @@ id,name,lang,new stars
 39242894,coturn/coturn,C,3
 19330466,Cyan4973/xxHash,C,11
 16734696,meetecho/janus-gateway,C,3
-541269386,ggerganov/whisper.cpp,C,39
+541269386,ggerganov/whisper.cpp,C,33
 6376337,pocoproject/poco,C,3
 5870069,confluentinc/librdkafka,C,2
 537699,Kitware/CMake,C,5
@@ -20,6 +20,6 @@ id,name,lang,new stars
 28928522,wolfSSL/wolfssl,C,0
 172523426,xdp-project/xdp-tutorial,C,1
 15768646,vedderb/bldc,C,10
-295432590,blackarrowsec/redteam-research,C,45
+295432590,blackarrowsec/redteam-research,C,37
 589481157,palera1n/palera1n-c,C,37
 600811733,emoose/DLSSTweaks,C,53
