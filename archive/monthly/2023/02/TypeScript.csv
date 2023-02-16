@@ -1,13 +1,13 @@
 id,name,lang,new stars
 54173593,storybookjs/storybook,TypeScript,926
-71995937,nuxt/nuxt,TypeScript,1896
-6093316,DefinitelyTyped/DefinitelyTyped,TypeScript,501
-180328715,pmndrs/zustand,TypeScript,1486
+71995937,nuxt/nuxt,TypeScript,1913
 348060227,withastro/astro,TypeScript,2569
 361044034,slidevjs/slidev,TypeScript,988
 299482335,withfig/autocomplete,TypeScript,485
-372240402,alan2207/bulletproof-react,TypeScript,746
+7122594,directus/directus,TypeScript,912
+145464445,ueberdosis/tiptap,TypeScript,471
 350360184,calcom/cal.com,TypeScript,1417
+381979,fullcalendar/fullcalendar,TypeScript,181
 326404870,SigNoz/signoz,TypeScript,590
 440079558,alibaba/lowcode-engine,TypeScript,849
 105963253,reactjs/reactjs.org,TypeScript,272
@@ -22,5 +22,5 @@ id,name,lang,new stars
 586449743,Nutlope/restorePhotos,TypeScript,1164
 588602746,steven-tey/precedent,TypeScript,862
 573759422,qunash/chatgpt-advanced,TypeScript,745
+580880797,cloudflare/wildebeest,TypeScript,970
 438419937,openai/openai-node,TypeScript,329
-377377122,withastro/docs,TypeScript,91

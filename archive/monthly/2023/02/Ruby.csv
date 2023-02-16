@@ -3,13 +3,12 @@ id,name,lang,new stars
 65252,jekyll/jekyll,Ruby,237
 27442967,fastlane/fastlane,Ruby,159
 53238813,Homebrew/brew,Ruby,398
-2293158,rapid7/metasploit-framework,Ruby,336
-481872,hashicorp/vagrant,Ruby,128
+2293158,rapid7/metasploit-framework,Ruby,339
 308770,heartcombo/devise,Ruby,97
 37382858,kilimchoi/engineering-blogs,Ruby,268
-538746,ruby/ruby,Ruby,136
 202291859,chatwoot/chatwoot,Ruby,222
 52855516,Homebrew/homebrew-core,Ruby,135
+1725199,github/linguist,Ruby,101
 96395,faker-ruby/faker,Ruby,68
 15435,Shopify/liquid,Ruby,71
 6899875,opf/openproject,Ruby,104
@@ -22,5 +21,6 @@ id,name,lang,new stars
 641512,openstreetmap/openstreetmap-website,Ruby,70
 229187949,shivammathur/homebrew-php,Ruby,124
 29151578,rswag/rswag,Ruby,27
+79618507,fluent/fluentd-kubernetes-daemonset,Ruby,8
 585707405,the-teacher/rails7-startkit,Ruby,250
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0
