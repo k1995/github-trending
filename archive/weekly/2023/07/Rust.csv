@@ -3,8 +3,8 @@ id,name,lang,new stars
 299354207,rustdesk/rustdesk,Rust,1262
 53631945,BurntSushi/ripgrep,Rust,210
 130688011,meilisearch/meilisearch,Rust,853
-178991158,starship/starship,Rust,213
-120425779,lapce/lapce,Rust,332
+178991158,starship/starship,Rust,214
+120425779,lapce/lapce,Rust,334
 436658287,surrealdb/surrealdb,Rust,321
 575340621,lencx/ChatGPT,Rust,3696
 11847500,uutils/coreutils,Rust,750
@@ -16,7 +16,7 @@ id,name,lang,new stars
 397618589,messense/aliyundrive-webdav,Rust,241
 351806852,neondatabase/neon,Rust,303
 325283778,dudykr/stc,Rust,104
-453068084,risingwavelabs/risingwave,Rust,135
+453068084,risingwavelabs/risingwave,Rust,133
 337322967,SeaQL/sea-orm,Rust,52
 129324660,actix/examples,Rust,24
 279089942,tauri-apps/wry,Rust,41
