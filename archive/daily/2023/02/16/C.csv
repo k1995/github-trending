@@ -13,7 +13,7 @@ id,name,lang,new stars
 50874442,citusdata/citus,C,12
 89315980,SecWiki/windows-kernel-exploits,C,8
 673267,redis/hiredis,C,2
-2359378,madler/zlib,C,5
+2359378,madler/zlib,C,4
 27359183,guanzhi/GmSSL,C,3
 128791889,haproxy/haproxy,C,7
 189044704,AFLplusplus/AFLplusplus,C,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 370338875,wechat-miniprogram/minigame-unity-webgl-transform,C,4
 295432590,blackarrowsec/redteam-research,C,36
 589481157,palera1n/palera1n-c,C,61
-600811733,emoose/DLSSTweaks,C,24
+600811733,emoose/DLSSTweaks,C,19
 196955656,BohemiaInteractive/DayZ-Central-Economy,C,0
