@@ -1,10 +1,10 @@
 id,name,lang,new stars
 123458551,jackfrued/Python-100-Days,Python,174
 155220641,huggingface/transformers,Python,155
-160919119,tiangolo/fastapi,Python,49
+160919119,tiangolo/fastapi,Python,46
 74627617,commaai/openpilot,Python,82
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,351
-33884891,apache/airflow,Python,11
+33884891,apache/airflow,Python,13
 217475193,PaddlePaddle/PaddleDetection,Python,14
 552661142,hwchase17/langchain,Python,110
 315490189,dortania/OpenCore-Legacy-Patcher,Python,20
@@ -17,10 +17,10 @@ id,name,lang,new stars
 599662622,acheong08/EdgeGPT,Python,223
 590604203,TheR1D/shell_gpt,Python,261
 574506496,lss233/chatgpt-mirai-qq-bot,Python,68
-594880130,haoheliu/AudioLDM,Python,91
+594880130,haoheliu/AudioLDM,Python,84
 600798098,Mikubill/sd-webui-controlnet,Python,218
 596424141,amazon-science/mm-cot,Python,32
 598370828,pix2pixzero/pix2pix-zero,Python,56
 600229707,lucidrains/toolformer-pytorch,Python,61
 599343740,acheong08/ChatGPT-Proxy,Python,23
-575309848,acheong08/OpenAIAuth,Python,12
+575309848,acheong08/OpenAIAuth,Python,13
