@@ -7,11 +7,11 @@ id,name,lang,new stars
 40508605,facebook/relay,Rust,3
 152572186,wasmerio/wasmer,Rust,12
 165522651,emilk/egui,Rust,48
-523043277,charliermarsh/ruff,Rust,105
+523043277,charliermarsh/ruff,Rust,148
 109872620,paritytech/substrate,Rust,4
 179385712,bottlerocket-os/bottlerocket,Rust,4
 397618589,messense/aliyundrive-webdav,Rust,103
-114685405,rustwasm/wasm-bindgen,Rust,7
+114685405,rustwasm/wasm-bindgen,Rust,11
 43192623,rust-lang/rustup,Rust,8
 113404957,kata-containers/kata-containers,Rust,5
 130174051,graphprotocol/graph-node,Rust,6
@@ -22,5 +22,5 @@ id,name,lang,new stars
 165911534,paritytech/cumulus,Rust,0
 424598738,apollographql/router,Rust,1
 587537959,tandasat/Hypervisor-101-in-Rust,Rust,178
-567995175,mikedilger/gossip,Rust,10
+567995175,mikedilger/gossip,Rust,8
 601181580,Privoce/vocechat-server-rust,Rust,11

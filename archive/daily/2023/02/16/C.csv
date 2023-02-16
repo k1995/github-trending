@@ -1,10 +1,10 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,71
+2325298,torvalds/linux,C,68
 1614410,FFmpeg/FFmpeg,C,23
 569041,curl/curl,C,19
 3714900,arut/nginx-rtmp-module,C,6
-28515839,skywind3000/kcp,C,20
-214011414,kingToolbox/WindTerm,C,220
+28515839,skywind3000/kcp,C,21
+214011414,kingToolbox/WindTerm,C,102
 5254557,cloudwu/skynet,C,4
 394318710,valinet/ExplorerPatcher,C,25
 179354282,acidanthera/OpenCorePkg,C,11
@@ -13,14 +13,14 @@ id,name,lang,new stars
 50874442,citusdata/citus,C,12
 89315980,SecWiki/windows-kernel-exploits,C,8
 673267,redis/hiredis,C,2
-2359378,madler/zlib,C,4
+2359378,madler/zlib,C,5
 27359183,guanzhi/GmSSL,C,3
 128791889,haproxy/haproxy,C,7
 189044704,AFLplusplus/AFLplusplus,C,4
 76599439,FRRouting/frr,C,0
 200663555,axboe/liburing,C,26
 370338875,wechat-miniprogram/minigame-unity-webgl-transform,C,4
-295432590,blackarrowsec/redteam-research,C,17
-589481157,palera1n/palera1n-c,C,64
-600811733,emoose/DLSSTweaks,C,43
+295432590,blackarrowsec/redteam-research,C,36
+589481157,palera1n/palera1n-c,C,61
+600811733,emoose/DLSSTweaks,C,24
 196955656,BohemiaInteractive/DayZ-Central-Economy,C,0

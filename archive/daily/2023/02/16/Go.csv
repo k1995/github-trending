@@ -1,12 +1,12 @@
 id,name,lang,new stars
-11225014,etcd-io/etcd,Go,21
+11225014,etcd-io/etcd,Go,16
 42408804,traefik/traefik,Go,25
 15452919,ethereum/go-ethereum,Go,27
 13855476,go-gorm/gorm,Go,16
 31288958,hashicorp/vault,Go,7
 323965659,alist-org/alist,Go,197
 6247705,stretchr/testify,Go,16
-27729907,grpc/grpc-go,Go,15
+27729907,grpc/grpc-go,Go,13
 87617508,casbin/casbin,Go,22
 46089560,containerd/containerd,Go,10
 119190187,zricethezav/gitleaks,Go,14
@@ -19,8 +19,8 @@ id,name,lang,new stars
 230660669,aler9/rtsp-simple-server,Go,32
 535304995,HavocFramework/Havoc,Go,32
 169108858,kyverno/kyverno,Go,2
-105711679,bufbuild/protoc-gen-validate,Go,4
+105711679,bufbuild/protoc-gen-validate,Go,3
 193681111,filecoin-project/lotus,Go,0
 49970739,DataDog/datadog-agent,Go,1
 107597148,aws/amazon-vpc-cni-k8s,Go,3
-162647455,kubernetes-sigs/aws-efs-csi-driver,Go,4
+162647455,kubernetes-sigs/aws-efs-csi-driver,Go,2
