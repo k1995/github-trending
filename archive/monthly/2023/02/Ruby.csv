@@ -1,14 +1,14 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,269
-65252,jekyll/jekyll,Ruby,240
+8514,rails/rails,Ruby,268
 27442967,fastlane/fastlane,Ruby,156
 53238813,Homebrew/brew,Ruby,417
-2293158,rapid7/metasploit-framework,Ruby,350
+2293158,rapid7/metasploit-framework,Ruby,348
+2500088,gitlabhq/gitlabhq,Ruby,41
 308770,heartcombo/devise,Ruby,102
 37382858,kilimchoi/engineering-blogs,Ruby,275
 202291859,chatwoot/chatwoot,Ruby,227
-52855516,Homebrew/homebrew-core,Ruby,134
-1725199,github/linguist,Ruby,103
+3195124,sidekiq/sidekiq,Ruby,81
+52855516,Homebrew/homebrew-core,Ruby,135
 96395,faker-ruby/faker,Ruby,67
 15435,Shopify/liquid,Ruby,71
 6899875,opf/openproject,Ruby,106
@@ -18,9 +18,9 @@ id,name,lang,new stars
 103766152,github/explore,Ruby,77
 93163073,dependabot/dependabot-core,Ruby,85
 200302808,ViewComponent/view_component,Ruby,35
+1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,31
 641512,openstreetmap/openstreetmap-website,Ruby,70
 229187949,shivammathur/homebrew-php,Ruby,126
-29151578,rswag/rswag,Ruby,27
-79618507,fluent/fluentd-kubernetes-daemonset,Ruby,8
 585707405,the-teacher/rails7-startkit,Ruby,223
+327788587,Shopify/rbi,Ruby,1
 384535535,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0

@@ -1,18 +1,17 @@
 id,name,lang,new stars
 54173593,storybookjs/storybook,TypeScript,933
-71995937,nuxt/nuxt,TypeScript,1930
+71995937,nuxt/nuxt,TypeScript,1938
 348060227,withastro/astro,TypeScript,2578
 361044034,slidevjs/slidev,TypeScript,985
 299482335,withfig/autocomplete,TypeScript,489
 7122594,directus/directus,TypeScript,909
+7833168,elastic/kibana,TypeScript,116
 145464445,ueberdosis/tiptap,TypeScript,479
 350360184,calcom/cal.com,TypeScript,1411
 381979,fullcalendar/fullcalendar,TypeScript,182
-326404870,SigNoz/signoz,TypeScript,588
 440079558,alibaba/lowcode-engine,TypeScript,1058
 573631261,transitive-bullshit/chatgpt-api,TypeScript,3306
 105963253,reactjs/reactjs.org,TypeScript,277
-273499522,radix-ui/primitives,TypeScript,879
 331293626,refinedev/refine,TypeScript,1072
 525683737,apitable/apitable,TypeScript,4911
 162028712,leerob/leerob.io,TypeScript,539
@@ -24,3 +23,4 @@ id,name,lang,new stars
 573759422,qunash/chatgpt-advanced,TypeScript,772
 580880797,cloudflare/wildebeest,TypeScript,962
 438419937,openai/openai-node,TypeScript,343
+589305348,rocketseat-education/nlw-setup-ignite,TypeScript,473
