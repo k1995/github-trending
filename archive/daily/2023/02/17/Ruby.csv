@@ -1,11 +1,11 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,2
-53238813,Homebrew/brew,Ruby,32
-308770,heartcombo/devise,Ruby,6
+53238813,Homebrew/brew,Ruby,35
+308770,heartcombo/devise,Ruby,7
 3195124,sidekiq/sidekiq,Ruby,2
 1725199,github/linguist,Ruby,3
 812393,ruby-grape/grape,Ruby,3
-8393,thoughtbot/paperclip,Ruby,0
+8393,thoughtbot/paperclip,Ruby,1
 451035,heartcombo/simple_form,Ruby,0
 6529205,varvet/pundit,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,4
@@ -20,7 +20,7 @@ id,name,lang,new stars
 39947871,karafka/karafka,Ruby,7
 29151578,rswag/rswag,Ruby,1
 32104924,rails/sprockets,Ruby,0
-586265895,mrsked/mrsk,Ruby,10
+586265895,mrsked/mrsk,Ruby,12
 66497320,DataDog/dd-trace-rb,Ruby,1
 464630029,getlago/lago-api,Ruby,3
 595333709,ckesurf/SENG-112122-NYC,Ruby,0

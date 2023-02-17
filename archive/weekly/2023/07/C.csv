@@ -1,7 +1,7 @@
 id,name,lang,new stars
 156018,redis/redis,C,113
 13233158,obsproject/obs-studio,C,289
-246335987,ventoy/Ventoy,C,462
+246335987,ventoy/Ventoy,C,458
 569041,curl/curl,C,103
 102578345,coolsnowwolf/lede,C,116
 7634677,openssl/openssl,C,103
@@ -9,12 +9,11 @@ id,name,lang,new stars
 45821540,openwrt/openwrt,C,163
 214011414,kingToolbox/WindTerm,C,639
 272457606,jart/cosmopolitan,C,87
-70127218,espressif/arduino-esp32,C,46
-65899476,espressif/esp-idf,C,71
-5414488,cesanta/mongoose,C,39
+70127218,espressif/arduino-esp32,C,45
+5414488,cesanta/mongoose,C,38
 414577657,peng-zhihui/Dummy-Robot,C,34
 200321698,rui314/chibicc,C,46
-541269386,ggerganov/whisper.cpp,C,630
+541269386,ggerganov/whisper.cpp,C,628
 59676171,Klipper3d/klipper,C,39
 27359183,guanzhi/GmSSL,C,18
 34807561,nanopb/nanopb,C,20
