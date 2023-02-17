@@ -1,11 +1,11 @@
 id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,2
-53238813,Homebrew/brew,Ruby,32
-308770,heartcombo/devise,Ruby,6
-3195124,sidekiq/sidekiq,Ruby,2
+53238813,Homebrew/brew,Ruby,41
+308770,heartcombo/devise,Ruby,5
+3195124,sidekiq/sidekiq,Ruby,1
 1725199,github/linguist,Ruby,3
 812393,ruby-grape/grape,Ruby,4
-8393,thoughtbot/paperclip,Ruby,0
+8393,thoughtbot/paperclip,Ruby,1
 451035,heartcombo/simple_form,Ruby,0
 6529205,varvet/pundit,Ruby,1
 21829,thoughtbot/factory_bot,Ruby,4
@@ -16,7 +16,7 @@ id,name,lang,new stars
 115859973,ddnexus/pagy,Ruby,4
 1172597,thoughtbot/shoulda-matchers,Ruby,2
 904810,rubysherpas/paranoia,Ruby,1
-9500075,ytti/oxidized,Ruby,3
+9500075,ytti/oxidized,Ruby,2
 39947871,karafka/karafka,Ruby,7
 29151578,rswag/rswag,Ruby,1
 32104924,rails/sprockets,Ruby,0

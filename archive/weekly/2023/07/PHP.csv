@@ -2,7 +2,7 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,179
 7548986,laravel/framework,PHP,94
 448045,sebastianbergmann/phpunit,PHP,26
-12615154,barryvdh/laravel-debugbar,PHP,35
+12615154,barryvdh/laravel-debugbar,PHP,36
 14259390,SpartnerNL/Laravel-Excel,PHP,25
 2884111,magento/magento2,PHP,30
 5627682,serbanghita/Mobile-Detect,PHP,11
@@ -21,6 +21,6 @@ id,name,lang,new stars
 42912130,ampproject/amp-wp,PHP,0
 541322916,openai-php/client,PHP,65
 432476753,lizhipay/acg-faka,PHP,25
-582445575,openai-php/laravel,PHP,30
+582445575,openai-php/laravel,PHP,29
 440520058,orhanerday/open-ai,PHP,81
 367364180,spatie/laravel-data,PHP,14
