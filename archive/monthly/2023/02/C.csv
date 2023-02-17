@@ -1,6 +1,6 @@
 id,name,lang,new stars
 10744183,netdata/netdata,C,423
-36502,git/git,C,486
+36502,git/git,C,484
 6201092,mpv-player/mpv,C,346
 7634677,openssl/openssl,C,375
 28515839,skywind3000/kcp,C,383
@@ -15,7 +15,7 @@ id,name,lang,new stars
 5870069,confluentinc/librdkafka,C,57
 59676171,Klipper3d/klipper,C,233
 68082730,Ralim/IronOS,C,132
-189044704,AFLplusplus/AFLplusplus,C,90
+189044704,AFLplusplus/AFLplusplus,C,89
 34807561,nanopb/nanopb,C,69
 154525111,signalwire/freeswitch,C,61
 331380723,raspberrypi/pico-sdk,C,180

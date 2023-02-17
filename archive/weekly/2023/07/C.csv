@@ -1,21 +1,21 @@
 id,name,lang,new stars
 156018,redis/redis,C,113
 13233158,obsproject/obs-studio,C,289
-246335987,ventoy/Ventoy,C,458
+246335987,ventoy/Ventoy,C,462
 10446890,bilibili/ijkplayer,C,36
 569041,curl/curl,C,103
 102578345,coolsnowwolf/lede,C,116
 29759715,facebook/zstd,C,111
 45821540,openwrt/openwrt,C,163
-28515839,skywind3000/kcp,C,252
+28515839,skywind3000/kcp,C,230
 214011414,kingToolbox/WindTerm,C,639
 179354282,acidanthera/OpenCorePkg,C,50
-70127218,espressif/arduino-esp32,C,45
+70127218,espressif/arduino-esp32,C,46
 65899476,espressif/esp-idf,C,71
-5414488,cesanta/mongoose,C,36
+5414488,cesanta/mongoose,C,39
 414577657,peng-zhihui/Dummy-Robot,C,34
 50874442,citusdata/citus,C,56
-541269386,ggerganov/whisper.cpp,C,636
+541269386,ggerganov/whisper.cpp,C,630
 6376337,pocoproject/poco,C,23
 34807561,nanopb/nanopb,C,20
 331380723,raspberrypi/pico-sdk,C,76
@@ -23,4 +23,4 @@ id,name,lang,new stars
 470373719,istoreos/istoreos,C,58
 273738561,sarah-walker-pcem/pcem,C,93
 590532876,ploopyco/headphones,C,95
-403314395,48d31kh413k/1337-Piscine-42,C,20
+403314395,48d31kh413k/1337-Piscine-42,C,16

@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,62
+2325298,torvalds/linux,C,67
 1614410,FFmpeg/FFmpeg,C,29
-569041,curl/curl,C,24
+569041,curl/curl,C,20
 1357796,emscripten-core/emscripten,C,5
 7634677,openssl/openssl,C,7
 28515839,skywind3000/kcp,C,195
-214011414,kingToolbox/WindTerm,C,106
+214011414,kingToolbox/WindTerm,C,93
 927442,postgres/postgres,C,9
-394318710,valinet/ExplorerPatcher,C,29
+394318710,valinet/ExplorerPatcher,C,30
 60667730,lvgl/lvgl,C,15
-65899476,espressif/esp-idf,C,8
+65899476,espressif/esp-idf,C,11
 1856976,libevent/libevent,C,2
 13310527,jemalloc/jemalloc,C,4
 40556106,wazuh/wazuh,C,4
@@ -18,9 +18,9 @@ id,name,lang,new stars
 34807561,nanopb/nanopb,C,3
 5128084,Cisco-Talos/clamav,C,10
 82754556,Bodmer/TFT_eSPI,C,3
-200663555,axboe/liburing,C,16
+200663555,axboe/liburing,C,14
 370338875,wechat-miniprogram/minigame-unity-webgl-transform,C,8
 228103273,apache/nuttx,C,4
-589481157,palera1n/palera1n-c,C,21
+589481157,palera1n/palera1n-c,C,27
 600859480,LloydLabs/shellcode-plain-sight,C,15
 600089941,wagiminator/CH552-USB-Knob,C,16
