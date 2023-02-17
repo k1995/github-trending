@@ -6,7 +6,7 @@ id,name,lang,new stars
 120425779,lapce/lapce,Rust,309
 436658287,surrealdb/surrealdb,Rust,263
 105379569,actix/actix-web,Rust,94
-575340621,lencx/ChatGPT,Rust,3207
+575340621,lencx/ChatGPT,Rust,3024
 11847500,uutils/coreutils,Rust,718
 135201145,RustPython/RustPython,Rust,64
 165522651,emilk/egui,Rust,147
@@ -23,4 +23,4 @@ id,name,lang,new stars
 531874744,aurae-runtime/aurae,Rust,120
 574034091,sonnylazuardi/chatgpt-desktop,Rust,223
 437485701,casey/ord,Rust,263
-588732058,zurawiki/gptcommit,Rust,142
+588732058,zurawiki/gptcommit,Rust,130

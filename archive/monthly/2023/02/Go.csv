@@ -1,5 +1,5 @@
 id,name,lang,new stars
-7691631,moby/moby,Go,328
+7691631,moby/moby,Go,327
 212613049,cli/cli,Go,450
 14125254,hashicorp/consul,Go,198
 234231371,gofiber/fiber,Go,706
@@ -20,7 +20,7 @@ id,name,lang,new stars
 188836864,ledgerwatch/erigon,Go,100
 582059828,youshandefeiyang/IPTV,Go,1284
 329229346,eatmoreapple/openwechat,Go,766
-49970739,DataDog/datadog-agent,Go,54
+49970739,DataDog/datadog-agent,Go,55
 575295397,gofireflyio/aiac,Go,952
 288482469,sashabaranov/go-gpt3,Go,390
 576072728,eryajf/chatgpt-dingtalk,Go,274
