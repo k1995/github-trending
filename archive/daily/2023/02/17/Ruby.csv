@@ -1,18 +1,18 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,12
 65252,jekyll/jekyll,Ruby,11
-53238813,Homebrew/brew,Ruby,43
+53238813,Homebrew/brew,Ruby,41
 2500088,gitlabhq/gitlabhq,Ruby,4
 308770,heartcombo/devise,Ruby,7
 3623050,Homebrew/homebrew-cask,Ruby,4
 18486300,lewagon/setup,Ruby,0
 202291859,chatwoot/chatwoot,Ruby,8
-2203645,CocoaPods/CocoaPods,Ruby,2
+2203645,CocoaPods/CocoaPods,Ruby,0
 88740103,postalserver/postal,Ruby,5
 52855516,Homebrew/homebrew-core,Ruby,8
 96395,faker-ruby/faker,Ruby,3
 361310,teamcapybara/capybara,Ruby,2
-812393,ruby-grape/grape,Ruby,3
+812393,ruby-grape/grape,Ruby,4
 275604,resque/resque,Ruby,0
 1333863,kaminari/kaminari,Ruby,0
 6529205,varvet/pundit,Ruby,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 30337170,rmosolgo/graphql-ruby,Ruby,0
 1314319,instructure/canvas-lms,Ruby,4
 115859973,ddnexus/pagy,Ruby,4
-9500075,ytti/oxidized,Ruby,3
+9500075,ytti/oxidized,Ruby,2
 29151578,rswag/rswag,Ruby,1
 3947396,getsentry/sentry-ruby,Ruby,0
 27940263,WikiEducationFoundation/WikiEduDashboard,Ruby,0
