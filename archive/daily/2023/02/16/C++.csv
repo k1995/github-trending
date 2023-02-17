@@ -1,20 +1,20 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,22
 23357588,protocolbuffers/protobuf,C++,20
-120887835,huihut/interview,C++,17
+120887835,huihut/interview,C++,19
 196813750,Light-City/CPlusPlusThings,C++,45
-6934395,facebook/rocksdb,C++,12
+6934395,facebook/rocksdb,C++,9
 108110,mongodb/mongo,C++,8
-81227005,facebookresearch/faiss,C++,21
+81227005,facebookresearch/faiss,C++,16
 7056202,fmtlib/fmt,C++,7
 38581626,pybind/pybind11,C++,9
-114187903,apple/foundationdb,C++,3
-31102092,google/or-tools,C++,7
-108102826,carla-simulator/carla,C++,9
+114187903,apple/foundationdb,C++,2
+31102092,google/or-tools,C++,8
+108102826,carla-simulator/carla,C++,12
 84183882,google/sentencepiece,C++,11
-146842101,iovisor/bpftrace,C++,7
+146842101,iovisor/bpftrace,C++,3
 49986046,falcosecurity/falco,C++,9
-143131,danmar/cppcheck,C++,2
+143131,danmar/cppcheck,C++,4
 81634683,Oneflow-Inc/oneflow,C++,13
 10726510,boostorg/beast,C++,1
 364705340,google/fully-homomorphic-encryption,C++,39
@@ -23,4 +23,4 @@ id,name,lang,new stars
 172640711,lightvector/KataGo,C++,11
 208145128,iree-org/iree,C++,3
 507861208,PaddlePaddle/FastDeploy,C++,7
-493957253,alexbatalov/fallout2-ce,C++,46
+493957253,alexbatalov/fallout2-ce,C++,58
