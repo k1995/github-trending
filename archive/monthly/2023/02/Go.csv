@@ -3,7 +3,7 @@ id,name,lang,new stars
 212613049,cli/cli,Go,449
 14125254,hashicorp/consul,Go,199
 234231371,gofiber/fiber,Go,706
-43723161,helm/helm,Go,335
+43723161,helm/helm,Go,334
 323965659,alist-org/alist,Go,3719
 129717717,grafana/loki,Go,294
 5179099,redis/go-redis,Go,266
@@ -16,7 +16,7 @@ id,name,lang,new stars
 146641150,tektoncd/pipeline,Go,139
 147886080,crossplane/crossplane,Go,172
 52481933,navidrome/navidrome,Go,346
-93446042,hashicorp/terraform-provider-azurerm,Go,70
+93446042,hashicorp/terraform-provider-azurerm,Go,71
 173009358,deepmap/oapi-codegen,Go,310
 582059828,youshandefeiyang/IPTV,Go,1284
 329229346,eatmoreapple/openwechat,Go,766

@@ -5,8 +5,8 @@ id,name,lang,new stars
 1631570,nikic/PHP-Parser,PHP,1
 61490598,PHPOffice/PhpSpreadsheet,PHP,3
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,4
-10157178,egulias/EmailValidator,PHP,5
-2884111,magento/magento2,PHP,4
+10157178,egulias/EmailValidator,PHP,2
+2884111,magento/magento2,PHP,2
 2179920,woocommerce/woocommerce,PHP,1
 14346979,snipe/snipe-it,PHP,6
 6763587,PrestaShop/PrestaShop,PHP,2
@@ -19,8 +19,8 @@ id,name,lang,new stars
 7895524,thephpleague/oauth2-client,PHP,0
 13044600,salesagility/SuiteCRM,PHP,0
 12367224,mcamara/laravel-localization,PHP,0
-39182755,glpi-project/glpi,PHP,4
-2686502,pimcore/pimcore,PHP,1
+39182755,glpi-project/glpi,PHP,2
+2686502,pimcore/pimcore,PHP,0
 12063996,osTicket/osTicket,PHP,0
 3193843,drush-ops/drush,PHP,0
 250246992,rappasoft/laravel-livewire-tables,PHP,4
