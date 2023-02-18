@@ -1,19 +1,19 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,30
-458058,symfony/symfony,PHP,5
-1420053,guzzle/guzzle,PHP,1
-1631570,nikic/PHP-Parser,PHP,2
-61490598,PHPOffice/PhpSpreadsheet,PHP,4
-4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,5
-10157178,egulias/EmailValidator,PHP,3
+1863329,laravel/laravel,PHP,40
+458058,symfony/symfony,PHP,4
+1420053,guzzle/guzzle,PHP,2
+1631570,nikic/PHP-Parser,PHP,1
+61490598,PHPOffice/PhpSpreadsheet,PHP,1
+4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,7
+10157178,egulias/EmailValidator,PHP,4
 2884111,magento/magento2,PHP,2
 2179920,woocommerce/woocommerce,PHP,4
-14346979,snipe/snipe-it,PHP,8
-6763587,PrestaShop/PrestaShop,PHP,3
-248372441,filamentphp/filament,PHP,8
-12204147,mautic/mautic,PHP,1
+14346979,snipe/snipe-it,PHP,7
+6763587,PrestaShop/PrestaShop,PHP,2
+248372441,filamentphp/filament,PHP,9
+12204147,mautic/mautic,PHP,2
 148129143,bagisto/bagisto,PHP,5
-62087941,nWidart/laravel-modules,PHP,3
+62087941,nWidart/laravel-modules,PHP,4
 439861,moodle/moodle,PHP,2
 129852395,assimon/dujiaoka,PHP,5
 7895524,thephpleague/oauth2-client,PHP,0
@@ -23,4 +23,4 @@ id,name,lang,new stars
 2686502,pimcore/pimcore,PHP,2
 12063996,osTicket/osTicket,PHP,0
 3193843,drush-ops/drush,PHP,0
-250246992,rappasoft/laravel-livewire-tables,PHP,3
+250246992,rappasoft/laravel-livewire-tables,PHP,2

@@ -1,15 +1,15 @@
 id,name,lang,new stars
-6296790,spring-projects/spring-boot,Java,20
+6296790,spring-projects/spring-boot,Java,23
 507775,elastic/elasticsearch,Java,17
 206462776,GrowingGit/GitHub-Chinese-Top-Charts,Java,40
 63477660,TheAlgorithms/Java,Java,22
 159152904,jeecgboot/jeecg-boot,Java,29
 137451403,alibaba/nacos,Java,22
-112785414,alibaba/spring-cloud-alibaba,Java,20
-47023603,xuxueli/xxl-job,Java,12
+112785414,alibaba/spring-cloud-alibaba,Java,11
+47023603,xuxueli/xxl-job,Java,9
 148496687,yudaocode/SpringBoot-Labs,Java,10
 133134007,OpenAPITools/openapi-generator,Java,22
-65987043,baomidou/mybatis-plus,Java,5
+65987043,baomidou/mybatis-plus,Java,4
 501687,antlr/antlr4,Java,9
 117965972,alibaba/DataX,Java,21
 237940592,dromara/Sa-Token,Java,15
@@ -20,7 +20,7 @@ id,name,lang,new stars
 222578036,WeiYe-Jing/datax-web,Java,9
 282994686,ververica/flink-cdc-connectors,Java,9
 180028389,rnmapbox/maps,Java,3
-265684535,kurogai/100-redteam-projects,Java,13
+265684535,kurogai/100-redteam-projects,Java,14
 361597154,quickmsg/smqtt,Java,22
 328687728,tinystruct/smalltalk,Java,11
 600362783,Grt1228/chatgpt-java,Java,5

@@ -3,7 +3,7 @@ id,name,lang,new stars
 155220641,huggingface/transformers,Python,982
 307260205,yt-dlp/yt-dlp,Python,490
 74627617,commaai/openpilot,Python,455
-101138315,d2l-ai/d2l-zh,Python,704
+101138315,d2l-ai/d2l-zh,Python,718
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,2308
 393571599,babysor/MockingBird,Python,272
 573819845,acheong08/ChatGPT,Python,2227
@@ -13,14 +13,14 @@ id,name,lang,new stars
 392603437,NAStool/nas-tools,,318
 110688239,PaddlePaddle/PaddleSpeech,Python,98
 488004650,facebookresearch/metaseq,Python,141
-323651234,EleutherAI/gpt-neox,Python,162
+323651234,EleutherAI/gpt-neox,Python,158
 274782881,acantril/learn-cantrill-io-labs,Python,149
 522158088,zhayujie/chatgpt-on-wechat,Python,983
 537827151,THUDM/CodeGeeX,Python,167
-528238131,salesforce/LAVIS,Python,237
+528238131,salesforce/LAVIS,Python,234
 524871042,microsoft/BioGPT,Python,311
 393874035,BlinkDL/RWKV-LM,Python,281
-597873678,samim23/polymath,Python,293
+597873678,samim23/polymath,Python,281
 574506496,lss233/chatgpt-mirai-qq-bot,Python,388
 594880130,haoheliu/AudioLDM,Python,409
-596424141,amazon-science/mm-cot,Python,357
+596424141,amazon-science/mm-cot,Python,385

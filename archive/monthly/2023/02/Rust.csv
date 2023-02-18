@@ -2,7 +2,7 @@ id,name,lang,new stars
 133442384,denoland/deno,Rust,894
 51980455,alacritty/alacritty,Rust,932
 299354207,rustdesk/rustdesk,Rust,2308
-53631945,BurntSushi/ripgrep,Rust,795
+53631945,BurntSushi/ripgrep,Rust,800
 130688011,meilisearch/meilisearch,Rust,1766
 121898717,dani-garcia/vaultwarden,Rust,1249
 413918947,vercel/turbo,Rust,778
@@ -21,6 +21,6 @@ id,name,lang,new stars
 426075845,MystenLabs/sui,Rust,474
 425736647,massalabs/massa,Rust,1632
 552877440,juspay/hyperswitch,Rust,1337
-480592723,move-language/move,Rust,134
+480592723,move-language/move,Rust,133
 531874744,aurae-runtime/aurae,Rust,286
 431715396,scsibug/nostr-rs-relay,Rust,167
