@@ -1,15 +1,15 @@
 id,name,lang,new stars
-52281283,mastodon/mastodon,Ruby,241
+52281283,mastodon/mastodon,Ruby,261
 7569578,discourse/discourse,Ruby,46
 27442967,fastlane/fastlane,Ruby,35
-53238813,Homebrew/brew,Ruby,139
+53238813,Homebrew/brew,Ruby,141
 13840241,freeCodeCamp/devdocs,Ruby,77
-2293158,rapid7/metasploit-framework,Ruby,79
+2293158,rapid7/metasploit-framework,Ruby,86
 481872,hashicorp/vagrant,Ruby,29
 308770,heartcombo/devise,Ruby,26
 21696302,matteocrippa/awesome-swift,Ruby,51
 538746,ruby/ruby,Ruby,32
-202291859,chatwoot/chatwoot,Ruby,72
+202291859,chatwoot/chatwoot,Ruby,71
 3195124,sidekiq/sidekiq,Ruby,22
 52855516,Homebrew/homebrew-core,Ruby,43
 4095287,rubocop/rubocop,Ruby,12
@@ -20,7 +20,7 @@ id,name,lang,new stars
 156555906,testdouble/standard,Ruby,18
 39947871,karafka/karafka,Ruby,20
 3947396,getsentry/sentry-ruby,Ruby,2
-586265895,mrsked/mrsk,Ruby,92
-284824224,alexrudall/ruby-openai,Ruby,45
+586265895,mrsked/mrsk,Ruby,93
+284824224,alexrudall/ruby-openai,Ruby,44
 66497320,DataDog/dd-trace-rb,Ruby,2
 387924838,learn-co-curriculum/phase-3-sinatra-react-project,Ruby,1

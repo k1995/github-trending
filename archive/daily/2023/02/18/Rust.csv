@@ -1,17 +1,17 @@
 id,name,lang,new stars
 42489829,rust-lang/rustlings,Rust,31
 21938243,rust-unofficial/awesome-rust,Rust,40
-115110181,swc-project/swc,Rust,17
+115110181,swc-project/swc,Rust,24
 197081291,iced-rs/iced,Rust,21
 263727855,pola-rs/polars,Rust,71
 47854924,rust-lang/book,Rust,13
 101767772,bytecodealliance/wasmtime,Rust,10
 17420913,rust-lang/cargo,Rust,9
-278933035,RustScan/RustScan,Rust,18
 580836813,google/comprehensive-rust,Rust,66
+278933035,RustScan/RustScan,Rust,18
 397618589,messense/aliyundrive-webdav,Rust,46
 179385712,bottlerocket-os/bottlerocket,Rust,19
-519882617,leptos-rs/leptos,Rust,92
+519882617,leptos-rs/leptos,Rust,125
 302827809,datafuselabs/databend,Rust,7
 462597790,aptos-labs/aptos-core,Rust,10
 337322967,SeaQL/sea-orm,Rust,10

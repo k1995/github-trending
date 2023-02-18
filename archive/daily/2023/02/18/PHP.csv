@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,24
+1863329,laravel/laravel,PHP,30
 458058,symfony/symfony,PHP,4
 2253830,PHPMailer/PHPMailer,PHP,6
 49014795,phpstan/phpstan,PHP,2
@@ -10,7 +10,7 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,3
 159606650,hyperf/hyperf,PHP,0
 148129143,bagisto/bagisto,PHP,5
-178703607,nunomaduro/phpinsights,PHP,5
+178703607,nunomaduro/phpinsights,PHP,7
 2464908,joomla/joomla-cms,PHP,0
 286645686,yuantuo666/baiduwp-php,PHP,9
 38200433,jeroennoten/Laravel-AdminLTE,PHP,2
@@ -18,9 +18,9 @@ id,name,lang,new stars
 142127816,zhuifengshaonianhanlu/pikachu,PHP,2
 12063996,osTicket/osTicket,PHP,0
 74026995,CodelyTV/php-ddd-example,PHP,0
-111562942,statamic/cms,PHP,5
+111562942,statamic/cms,PHP,2
 1691187,WordPress/WordPress-Coding-Standards,PHP,0
 75645659,WordPress/wordpress-develop,PHP,2
 513468803,ine-labs/AWSGoat,PHP,6
-471359149,bradtraversy/php-crash,PHP,2
+471359149,bradtraversy/php-crash,PHP,1
 119990860,DataDog/dd-trace-php,PHP,0

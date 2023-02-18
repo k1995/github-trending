@@ -10,7 +10,7 @@ id,name,lang,new stars
 311315731,XTLS/Xray-core,Go,124
 32575637,ginuerzh/gost,Go,552
 237523442,tailscale/tailscale,Go,95
-370977430,OpenIMSDK/Open-IM-Server,Go,72
+370977430,OpenIMSDK/Open-IM-Server,Go,73
 291485614,XIU2/CloudflareSpeedTest,Go,231
 10721619,hajimehoshi/ebiten,Go,67
 146641150,tektoncd/pipeline,Go,83
@@ -23,4 +23,4 @@ id,name,lang,new stars
 576072728,eryajf/chatgpt-dingtalk,Go,177
 575234714,houko/wechatgpt,Go,150
 575237853,djun/wechatbot,Go,138
-598829578,acikkaynak/deprem-yardim-backend-go,Go,162
+598829578,acikkaynak/deprem-yardim-backend-go,Go,151
