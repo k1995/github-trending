@@ -5,14 +5,14 @@ id,name,lang,new stars
 16157746,dotnet/efcore,C#,4
 46755185,bitwarden/server,C#,8
 17369361,jbogard/MediatR,C#,12
-41589439,MathewSachin/Captura,C#,9
+41589439,MathewSachin/Captura,C#,6
 7560589,JeffreySu/WeiXinMPSDK,C#,3
-27251463,QuantConnect/Lean,C#,9
+27251463,QuantConnect/Lean,C#,10
 743436,egametang/ET,C#,3
 31335300,PrismLibrary/Prism,C#,6
 142480903,microsoft/microsoft-ui-xaml,C#,3
 243854166,dotnet/tye,C#,1
-288428676,MudBlazor/MudBlazor,C#,12
+288428676,MudBlazor/MudBlazor,C#,10
 117102183,ChilliCream/graphql-platform,C#,1
 34023916,microsoft/WPF-Samples,C#,0
 64677873,Klocman/Bulk-Crap-Uninstaller,C#,51
@@ -20,7 +20,7 @@ id,name,lang,new stars
 184286875,actions/runner,C#,8
 54308403,microsoft/WinAppDriver,C#,2
 30456575,mgth/LittleBigMouse,C#,22
-60761246,LorenzCK/OnTopReplica,C#,6
+60761246,LorenzCK/OnTopReplica,C#,5
 158311266,mob-sakai/SoftMaskForUGUI,C#,0
 482734649,DGP-Studio/Snap.Hutao,C#,14
 519415381,nicknsy/jellyscrub,C#,4

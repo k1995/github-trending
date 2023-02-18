@@ -1,5 +1,5 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,40
+1863329,laravel/laravel,PHP,24
 458058,symfony/symfony,PHP,4
 1420053,guzzle/guzzle,PHP,2
 1631570,nikic/PHP-Parser,PHP,1
@@ -20,7 +20,7 @@ id,name,lang,new stars
 13044600,salesagility/SuiteCRM,PHP,1
 12367224,mcamara/laravel-localization,PHP,1
 39182755,glpi-project/glpi,PHP,2
-2686502,pimcore/pimcore,PHP,2
+2686502,pimcore/pimcore,PHP,3
 12063996,osTicket/osTicket,PHP,0
 3193843,drush-ops/drush,PHP,0
 250246992,rappasoft/laravel-livewire-tables,PHP,2
