@@ -1,11 +1,11 @@
 id,name,lang,new stars
-65600975,pytorch/pytorch,C++,41
+65600975,pytorch/pytorch,C++,40
 44838949,apple/swift,C++,9
-23357588,protocolbuffers/protobuf,C++,22
+23357588,protocolbuffers/protobuf,C++,21
 15634981,godotengine/godot,C++,35
 23405758,google/leveldb,C++,8
 39840932,google/googletest,C++,12
-196813750,Light-City/CPlusPlusThings,C++,39
+196813750,Light-City/CPlusPlusThings,C++,33
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,13
 4524181,facebook/folly,C++,5
 160083795,SerenityOS/serenity,C++,16
@@ -16,11 +16,11 @@ id,name,lang,new stars
 51905353,apache/arrow,C++,6
 189205663,qinguoyi/TinyWebServer,C++,16
 25135037,symless/synergy-core,C++,2
-64987779,Alinshans/MyTinySTL,C++,11
+64987779,Alinshans/MyTinySTL,C++,9
 372536760,oceanbase/oceanbase,C++,1
-61980658,azerothcore/azerothcore-wotlk,C++,1
+61980658,azerothcore/azerothcore-wotlk,C++,3
 507861208,PaddlePaddle/FastDeploy,C++,8
-5269602,cpputest/cpputest,C++,3
-131286494,flyinghead/flycast,C++,6
-554411496,intel/x86-simd-sort,C++,21
+5269602,cpputest/cpputest,C++,2
+131286494,flyinghead/flycast,C++,13
+554411496,intel/x86-simd-sort,C++,20
 602076165,SleepTheGod/SSH-Remote-Code-Execution,C++,12
