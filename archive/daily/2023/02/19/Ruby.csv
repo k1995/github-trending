@@ -1,13 +1,13 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,8
-8681349,huginn/huginn,Ruby,12
+8681349,huginn/huginn,Ruby,10
 27442967,fastlane/fastlane,Ruby,3
-53238813,Homebrew/brew,Ruby,15
+53238813,Homebrew/brew,Ruby,16
 308770,heartcombo/devise,Ruby,2
-73648678,forem/forem,Ruby,2
+73648678,forem/forem,Ruby,4
 138312,capistrano/capistrano,Ruby,2
 3314,spree/spree,Ruby,4
-96395,faker-ruby/faker,Ruby,1
+96395,faker-ruby/faker,Ruby,0
 1333863,kaminari/kaminari,Ruby,0
 451035,heartcombo/simple_form,Ruby,1
 108278,chef/chef,Ruby,0
@@ -21,6 +21,6 @@ id,name,lang,new stars
 39947871,karafka/karafka,Ruby,4
 29151578,rswag/rswag,Ruby,2
 79618507,fluent/fluentd-kubernetes-daemonset,Ruby,1
-589013057,mattnigh/ChatGPT3-Free-Prompt-List,Ruby,12
+589013057,mattnigh/ChatGPT3-Free-Prompt-List,Ruby,11
 3276877,ThrowTheSwitch/Ceedling,Ruby,0
 593344381,cmsc330-umd/spring23,Ruby,1

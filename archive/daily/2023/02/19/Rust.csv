@@ -2,7 +2,7 @@ id,name,lang,new stars
 42489829,rust-lang/rustlings,Rust,33
 21938243,rust-unofficial/awesome-rust,Rust,35
 115110181,swc-project/swc,Rust,22
-197081291,iced-rs/iced,Rust,22
+197081291,iced-rs/iced,Rust,24
 263727855,pola-rs/polars,Rust,84
 47854924,rust-lang/book,Rust,10
 101767772,bytecodealliance/wasmtime,Rust,12
@@ -15,7 +15,7 @@ id,name,lang,new stars
 302827809,datafuselabs/databend,Rust,5
 462597790,aptos-labs/aptos-core,Rust,2
 337322967,SeaQL/sea-orm,Rust,10
-165289175,tokio-rs/tracing,Rust,6
+165289175,tokio-rs/tracing,Rust,9
 358917318,apache/arrow-datafusion,Rust,6
 358917250,apache/arrow-rs,Rust,2
 577992419,m1guelpf/plz-cli,Rust,24
