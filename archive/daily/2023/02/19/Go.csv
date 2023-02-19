@@ -3,10 +3,10 @@ id,name,lang,new stars
 17728164,hashicorp/terraform,Go,11
 323965659,alist-org/alist,Go,126
 165041732,go-kratos/kratos,Go,9
-41349039,dgraph-io/dgraph,Go,8
+41349039,dgraph-io/dgraph,Go,13
 52034309,uber-go/zap,Go,12
 27729907,grpc/grpc-go,Go,8
-5179099,redis/go-redis,Go,19
+5179099,redis/go-redis,Go,15
 66573241,hyperledger/fabric,Go,2
 46089560,containerd/containerd,Go,12
 33258973,influxdata/telegraf,Go,3
@@ -19,8 +19,8 @@ id,name,lang,new stars
 40539602,99designs/aws-vault,Go,3
 99143276,vmware-tanzu/velero,Go,7
 542931741,answerdev/answer,Go,12
-125275487,kubernetes-sigs/kubebuilder,Go,1
+125275487,kubernetes-sigs/kubebuilder,Go,3
 166304026,BishopFox/sliver,Go,9
 535304995,HavocFramework/Havoc,Go,18
-98185104,avast/retry-go,Go,4
+98185104,avast/retry-go,Go,13
 601029888,fanchunke/chatgpt-wecom,Go,4

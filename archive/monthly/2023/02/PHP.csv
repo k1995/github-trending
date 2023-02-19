@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,575
+1863329,laravel/laravel,PHP,576
 7548986,laravel/framework,PHP,294
 458058,symfony/symfony,PHP,179
 448045,sebastianbergmann/phpunit,PHP,105
 12615154,barryvdh/laravel-debugbar,PHP,141
 1305114,roots/sage,PHP,65
 41589337,BookStackApp/BookStack,PHP,284
-2884111,magento/magento2,PHP,84
+2884111,magento/magento2,PHP,83
 597887,doctrine/orm,PHP,57
-14346979,snipe/snipe-it,PHP,145
+14346979,snipe/snipe-it,PHP,144
 95011974,akaunting/akaunting,PHP,121
 47508644,pterodactyl/panel,PHP,140
 439861,moodle/moodle,PHP,66
@@ -21,6 +21,6 @@ id,name,lang,new stars
 74026995,CodelyTV/php-ddd-example,PHP,48
 27965134,opnsense/core,PHP,57
 311448648,laravel/breeze,PHP,42
-75645659,WordPress/wordpress-develop,PHP,45
+75645659,WordPress/wordpress-develop,PHP,46
 433383766,nextcloud/all-in-one,PHP,183
-440520058,orhanerday/open-ai,PHP,249
+440520058,orhanerday/open-ai,PHP,246
