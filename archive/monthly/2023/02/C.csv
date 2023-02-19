@@ -1,18 +1,18 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,439
+10744183,netdata/netdata,C,443
 36502,git/git,C,478
 102578345,coolsnowwolf/lede,C,461
 7634677,openssl/openssl,C,376
 28515839,skywind3000/kcp,C,428
 214011414,kingToolbox/WindTerm,C,1153
 65899476,espressif/esp-idf,C,248
-15583310,SoftEtherVPN/SoftEtherVPN,C,146
+15583310,SoftEtherVPN/SoftEtherVPN,C,147
 6041301,sumatrapdfreader/sumatrapdf,C,321
-35780977,ImageMagick/ImageMagick,C,204
+35780977,ImageMagick/ImageMagick,C,205
 50874442,citusdata/citus,C,193
 88327406,xmrig/xmrig,C,87
-37060852,betaflight/betaflight,C,151
-5870069,confluentinc/librdkafka,C,53
+37060852,betaflight/betaflight,C,152
+5870069,confluentinc/librdkafka,C,51
 59676171,Klipper3d/klipper,C,238
 34807561,nanopb/nanopb,C,65
 331380723,raspberrypi/pico-sdk,C,182
@@ -23,4 +23,4 @@ id,name,lang,new stars
 529594820,jakkra/ZSWatch,C,584
 204363144,termux/termux-x11,C,60
 382113009,tsoding/ded,C,121
-468245058,pasqualerossi/42-School-Exam-Rank-02,C,50
+468245058,pasqualerossi/42-School-Exam-Rank-02,C,49
