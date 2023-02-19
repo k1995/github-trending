@@ -1,21 +1,22 @@
 id,name,lang,new stars
 100060912,microsoft/terminal,C++,717
 65600975,pytorch/pytorch,C++,1128
-23357588,protocolbuffers/protobuf,C++,447
-120887835,huihut/interview,C++,426
-19374812,telegramdesktop/tdesktop,C++,336
-4279682,fish-shell/fish-shell,C++,720
+23357588,protocolbuffers/protobuf,C++,445
+120887835,huihut/interview,C++,427
+4279682,fish-shell/fish-shell,C++,721
 197275130,microsoft/winget-cli,C++,903
+81227005,facebookresearch/faiss,C++,428
 33014811,notepad-plus-plus/notepad-plus-plus,C++,528
-1062572,catchorg/Catch2,C++,200
 344192338,microsoft/IoT-For-Beginners,C++,351
 35129809,transmission/transmission,C++,806
-204593825,microsoft/STL,C++,190
+204593825,microsoft/STL,C++,191
 138754790,duckdb/duckdb,C++,551
+84183882,google/sentencepiece,C++,195
 384520418,MaaAssistantArknights/MaaAssistantArknights,C++,799
 470730648,hyprwm/Hyprland,C++,1100
 52882701,prusa3d/PrusaSlicer,C++,402
 23496542,openai/triton,C++,618
+248058818,wolfpld/tracy,C++,235
 61980658,azerothcore/azerothcore-wotlk,C++,158
 388946490,facebookincubator/velox,C++,118
 354138793,NVIDIA/FasterTransformer,C++,227
@@ -23,4 +24,3 @@ id,name,lang,new stars
 572568692,cinit/WSAPatch,C++,455
 506984830,tbnobody/OpenDTU,C++,118
 471439077,lumapu/ahoy,C++,82
-559748217,AcademySoftwareFoundation/OpenRV,C++,274

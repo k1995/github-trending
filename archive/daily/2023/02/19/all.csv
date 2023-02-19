@@ -1,26 +1,26 @@
 id,name,lang,new stars
-1039520,ytdl-org/youtube-dl,Python,42
-88011908,practical-tutorials/project-based-learning,,135
-1863329,laravel/laravel,PHP,20
-307260205,yt-dlp/yt-dlp,Python,195
-101138315,d2l-ai/d2l-zh,Python,100
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,425
-13862381,DrKLO/Telegram,Java,16
-35732214,realm/SwiftLint,Swift,11
-93354260,lllyasviel/style2paints,JavaScript,49
-345368765,NvChad/NvChad,Lua,240
-422274596,hpcaitech/ColossalAI,Python,430
-162405963,gradio-app/gradio,HTML,31
-28515839,skywind3000/kcp,C,33
-5958314,antlr/grammars-v4,ANTLR,7
-392603437,NAStool/nas-tools,,58
-595893961,lllyasviel/ControlNet,Python,560
-506861932,nvim-lua/kickstart.nvim,Lua,55
-537803484,palera1n/palera1n,Shell,27
-600798098,Mikubill/sd-webui-controlnet,Python,281
-479289739,rerun-io/rerun,Rust,254
-357492304,Free-TV/IPTV,Python,13
-593021678,cfortuner/promptable,TypeScript,127
-584833604,slawlor/ractor,Rust,127
-576005588,askrella/whatsapp-chatgpt,TypeScript,88
-599394820,Chanzhaoyu/chatgpt-web,Vue,60
+1039520,ytdl-org/youtube-dl,Python,73
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,34
+16408992,neovim/neovim,Vim Script,59
+523379232,CompVis/stable-diffusion,Jupyter Notebook,141
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,434
+233472199,massgravel/Microsoft-Activation-Scripts,Batchfile,67
+13862381,DrKLO/Telegram,Java,18
+162405963,gradio-app/gradio,HTML,44
+525592995,invoke-ai/InvokeAI,Jupyter Notebook,37
+519882617,leptos-rs/leptos,Rust,103
+505667511,sczhou/CodeFormer,Python,89
+289665400,brave-people/Dev-Event,,40
+595893961,lllyasviel/ControlNet,Python,494
+506861932,nvim-lua/kickstart.nvim,Lua,45
+600798098,Mikubill/sd-webui-controlnet,Python,261
+585365899,kettle11/tangle,TypeScript,105
+576005588,askrella/whatsapp-chatgpt,TypeScript,92
+601479334,shyamsn97/mario-gpt,Python,125
+602115048,TencentARC/T2I-Adapter,Python,49
+579557127,kohya-ss/sd-scripts,Python,24
+594749373,XTLS/REALITY,Go,21
+451306223,hpcaitech/EnergonAI,Python,31
+601157008,chvancooten/NimPlant,HTML,84
+598342280,hwchase17/langchainjs,TypeScript,47
+599742035,omenking/aws-bootcamp-cruddur-2023,JavaScript,31
