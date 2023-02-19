@@ -1,14 +1,14 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,23
+1863329,laravel/laravel,PHP,46
 3482588,danielmiessler/SecLists,PHP,19
 60243197,nextcloud/server,PHP,7
 2889328,WordPress/WordPress,PHP,3
 2699935,squizlabs/PHP_CodeSniffer,PHP,5
-97311017,rectorphp/rector,PHP,6
+97311017,rectorphp/rector,PHP,8
 3217621,phpmyadmin/phpmyadmin,PHP,4
 119047018,linuxserver/Heimdall,PHP,5
 34877308,paragonie/awesome-appsec,PHP,2
-178703607,nunomaduro/phpinsights,PHP,9
+178703607,nunomaduro/phpinsights,PHP,11
 47508644,pterodactyl/panel,PHP,3
 41463886,codeigniter4/CodeIgniter4,PHP,1
 2464908,joomla/joomla-cms,PHP,0
@@ -19,7 +19,7 @@ id,name,lang,new stars
 307018731,DenverCoder1/github-readme-streak-stats,PHP,8
 679584,openemr/openemr,PHP,0
 195836215,magicblack/maccms10,PHP,3
-36526302,pentestmonkey/php-reverse-shell,PHP,0
+36526302,pentestmonkey/php-reverse-shell,PHP,1
 433383766,nextcloud/all-in-one,PHP,2
 432476753,lizhipay/acg-faka,PHP,4
 345315720,swagkarna/Rafel-Rat,PHP,4

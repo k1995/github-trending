@@ -1,18 +1,18 @@
 id,name,lang,new stars
 132464395,Snailclimb/JavaGuide,Java,286
-151834062,doocs/advanced-java,Java,164
-6296790,spring-projects/spring-boot,Java,157
+151834062,doocs/advanced-java,Java,163
+6296790,spring-projects/spring-boot,Java,159
 127988011,macrozheng/mall,Java,173
 63477660,TheAlgorithms/Java,Java,163
 159152904,jeecgboot/jeecg-boot,Java,125
 44662669,dbeaver/dbeaver,Java,130
 72907253,ityouknow/spring-boot-examples,Java,55
 120395176,alibaba/easyexcel,Java,133
-2700159,alibaba/druid,Java,43
-137451403,alibaba/nacos,Java,79
-112785414,alibaba/spring-cloud-alibaba,Java,100
+2700159,alibaba/druid,Java,44
+137451403,alibaba/nacos,Java,80
+112785414,alibaba/spring-cloud-alibaba,Java,101
 2211243,apache/kafka,Java,70
-163387337,seata/seata,Java,43
+163387337,seata/seata,Java,45
 13862381,DrKLO/Telegram,Java,98
 45721011,apache/skywalking,Java,47
 117965972,alibaba/DataX,Java,91
@@ -22,5 +22,5 @@ id,name,lang,new stars
 237867883,metersphere/metersphere,Java,41
 402945349,StarRocks/starrocks,Java,37
 295598569,TheoKanning/openai-java,Java,190
-575253452,PlexPt/chatgpt-java,Java,169
+575253452,PlexPt/chatgpt-java,Java,168
 328687728,tinystruct/smalltalk,Java,69
