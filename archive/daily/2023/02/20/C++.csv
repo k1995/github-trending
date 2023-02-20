@@ -1,6 +1,6 @@
 id,name,lang,new stars
 65600975,pytorch/pytorch,C++,36
-1116542,aria2/aria2,C++,16
+1116542,aria2/aria2,C++,19
 39840932,google/googletest,C++,14
 116167731,yuzu-emu/yuzu,C++,11
 160083795,SerenityOS/serenity,C++,14
@@ -16,9 +16,9 @@ id,name,lang,new stars
 1204412,TrinityCore/TrinityCore,C++,1
 15379620,PCSX2/pcsx2,C++,14
 20976138,official-stockfish/Stockfish,C++,10
-470730648,hyprwm/Hyprland,C++,39
+470730648,hyprwm/Hyprland,C++,40
 21179164,qTox/qTox,C++,16
-36781769,arvidn/libtorrent,C++,1
+36781769,arvidn/libtorrent,C++,3
 13212165,panda3d/panda3d,C++,9
 293583556,tomlooman/ActionRoguelike,C++,9
 77624593,Chatterino/chatterino2,C++,8
