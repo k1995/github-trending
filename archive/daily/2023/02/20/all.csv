@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,154
-85077558,kamranahmedse/developer-roadmap,Astro,148
+21737465,sindresorhus/awesome,,171
+85077558,kamranahmedse/developer-roadmap,Astro,202
 1039520,ytdl-org/youtube-dl,Python,172
-88011908,practical-tutorials/project-based-learning,,165
-523379232,CompVis/stable-diffusion,Jupyter Notebook,145
-307260205,yt-dlp/yt-dlp,Python,235
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,801
-349321229,TencentARC/GFPGAN,Python,30
-280557054,trpc/trpc,TypeScript,53
-498011141,huggingface/diffusers,Python,51
-519882617,leptos-rs/leptos,Rust,75
-505667511,sczhou/CodeFormer,Python,90
-595893961,lllyasviel/ControlNet,Python,456
-506861932,nvim-lua/kickstart.nvim,Lua,58
-583706111,LazyVim/LazyVim,Lua,38
-600798098,Mikubill/sd-webui-controlnet,Python,261
-357492304,Free-TV/IPTV,Python,86
+88011908,practical-tutorials/project-based-learning,,140
+523379232,CompVis/stable-diffusion,Jupyter Notebook,298
+307260205,yt-dlp/yt-dlp,Python,157
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1020
+349321229,TencentARC/GFPGAN,Python,49
+280557054,trpc/trpc,TypeScript,73
+498011141,huggingface/diffusers,Python,66
+519882617,leptos-rs/leptos,Rust,172
+505667511,sczhou/CodeFormer,Python,181
+595893961,lllyasviel/ControlNet,Python,870
+506861932,nvim-lua/kickstart.nvim,Lua,64
+583706111,LazyVim/LazyVim,Lua,68
+600798098,Mikubill/sd-webui-controlnet,Python,270
+357492304,Free-TV/IPTV,Python,37
 591782276,jaymody/picoGPT,Python,156
-576005588,askrella/whatsapp-chatgpt,TypeScript,211
-594749373,XTLS/REALITY,Go,18
+576005588,askrella/whatsapp-chatgpt,TypeScript,291
+594749373,XTLS/REALITY,Go,156
 601313570,replicate/scribble-diffusion,JavaScript,69
-598342280,hwchase17/langchainjs,TypeScript,49
-574802380,civitai/sd_civitai_extension,Python,16
+598342280,hwchase17/langchainjs,TypeScript,64
+574802380,civitai/sd_civitai_extension,Python,21
 482976795,Learn-with-Sumit/think-in-a-redux-way,,6
-596484420,microsoft/hack-together,C#,12
+596484420,microsoft/hack-together,C#,26

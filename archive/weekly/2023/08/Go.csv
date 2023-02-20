@@ -4,17 +4,17 @@ id,name,lang,new stars
 15452919,ethereum/go-ethereum,Go,132
 136815833,Dreamacro/clash,Go,418
 13855476,go-gorm/gorm,Go,104
-285864199,zeromicro/go-zero,Go,148
-323965659,alist-org/alist,Go,1146
+285864199,zeromicro/go-zero,Go,145
+323965659,alist-org/alist,Go,1129
 72891330,kubernetes/ingress-nginx,Go,61
 311315731,XTLS/Xray-core,Go,131
 32575637,ginuerzh/gost,Go,532
-465303307,samber/lo,Go,115
+465303307,samber/lo,Go,119
 291485614,XIU2/CloudflareSpeedTest,Go,201
 10721619,hajimehoshi/ebiten,Go,58
 146641150,tektoncd/pipeline,Go,85
 63882194,projectcalico/calico,Go,38
-201546443,trustwallet/assets,Go,21
+201546443,trustwallet/assets,Go,22
 313853293,cloudquery/cloudquery,Go,180
 329229346,eatmoreapple/openwechat,Go,242
 288482469,sashabaranov/go-gpt3,Go,142
@@ -23,4 +23,4 @@ id,name,lang,new stars
 594749373,XTLS/REALITY,Go,357
 575237853,djun/wechatbot,Go,107
 588072625,bytemate/larkgpt,Go,99
-598829578,acikkaynak/deprem-yardim-backend-go,Go,80
+598829578,acikkaynak/deprem-yardim-backend-go,Go,48
