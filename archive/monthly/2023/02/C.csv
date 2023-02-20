@@ -3,15 +3,14 @@ id,name,lang,new stars
 36502,git/git,C,467
 102578345,coolsnowwolf/lede,C,467
 7634677,openssl/openssl,C,374
-28515839,skywind3000/kcp,C,469
 214011414,kingToolbox/WindTerm,C,1199
-65899476,espressif/esp-idf,C,238
+28515839,skywind3000/kcp,C,469
+65899476,espressif/esp-idf,C,240
 15583310,SoftEtherVPN/SoftEtherVPN,C,147
 6041301,sumatrapdfreader/sumatrapdf,C,322
 35780977,ImageMagick/ImageMagick,C,208
 50874442,citusdata/citus,C,199
-88327406,xmrig/xmrig,C,88
-37060852,betaflight/betaflight,C,152
+37060852,betaflight/betaflight,C,151
 5870069,confluentinc/librdkafka,C,51
 59676171,Klipper3d/klipper,C,233
 34807561,nanopb/nanopb,C,63
@@ -22,5 +21,4 @@ id,name,lang,new stars
 47219545,GStreamer/gstreamer,C,52
 529594820,jakkra/ZSWatch,C,552
 204363144,termux/termux-x11,C,59
-382113009,tsoding/ded,C,122
-468245058,pasqualerossi/42-School-Exam-Rank-02,C,51
+468245058,pasqualerossi/42-School-Exam-Rank-02,C,50
