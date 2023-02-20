@@ -1,14 +1,14 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,232
 7548986,laravel/framework,PHP,78
-1864363,composer/composer,PHP,30
+1864363,composer/composer,PHP,31
 8678290,barryvdh/laravel-ide-helper,PHP,33
 42480275,spatie/laravel-permission,PHP,13
 2884111,magento/magento2,PHP,27
-11467667,typecho/typecho,PHP,24
+11467667,typecho/typecho,PHP,23
 10238429,tennc/webshell,PHP,30
 116389886,Anankke/SSPanel-Uim,PHP,29
-248372441,filamentphp/filament,PHP,72
+248372441,filamentphp/filament,PHP,73
 265782973,hlmd/Postman-cn,PHP,20
 439861,moodle/moodle,PHP,18
 145865941,laravel/telescope,PHP,9
@@ -20,7 +20,7 @@ id,name,lang,new stars
 166299071,archtechx/tenancy,PHP,18
 48530411,top-think/framework,PHP,4
 311448648,laravel/breeze,PHP,10
-541322916,openai-php/client,PHP,48
+541322916,openai-php/client,PHP,46
 36755218,php-http/discovery,PHP,2
-440520058,orhanerday/open-ai,PHP,78
-599322812,beerandcodeteam/olw-2,PHP,10
+440520058,orhanerday/open-ai,PHP,80
+599322812,beerandcodeteam/olw-2,PHP,9

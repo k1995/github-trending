@@ -2,7 +2,7 @@ id,name,lang,new stars
 23096959,golang/go,Go,1184
 11225014,etcd-io/etcd,Go,334
 136815833,Dreamacro/clash,Go,1316
-212613049,cli/cli,Go,462
+212613049,cli/cli,Go,463
 234231371,gofiber/fiber,Go,701
 43723161,helm/helm,Go,332
 323965659,alist-org/alist,Go,3853
@@ -11,7 +11,7 @@ id,name,lang,new stars
 120896210,argoproj/argo-cd,Go,349
 32575637,ginuerzh/gost,Go,694
 175405157,JanDeDobbeleer/oh-my-posh,Go,523
-14508450,gophish/gophish,Go,133
+14508450,gophish/gophish,Go,134
 291485614,XIU2/CloudflareSpeedTest,Go,704
 146641150,tektoncd/pipeline,Go,138
 147886080,crossplane/crossplane,Go,167
