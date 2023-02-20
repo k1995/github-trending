@@ -1,6 +1,6 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,230
-42408804,traefik/traefik,Go,157
+42408804,traefik/traefik,Go,153
 15452919,ethereum/go-ethereum,Go,132
 136815833,Dreamacro/clash,Go,418
 13855476,go-gorm/gorm,Go,104
@@ -17,7 +17,7 @@ id,name,lang,new stars
 201546443,trustwallet/assets,Go,22
 313853293,cloudquery/cloudquery,Go,180
 329229346,eatmoreapple/openwechat,Go,242
-288482469,sashabaranov/go-gpt3,Go,142
+288482469,sashabaranov/go-gpt3,Go,116
 576072728,eryajf/chatgpt-dingtalk,Go,150
 575234714,houko/wechatgpt,Go,116
 594749373,XTLS/REALITY,Go,357
