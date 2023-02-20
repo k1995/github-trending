@@ -3,9 +3,9 @@ id,name,lang,new stars
 27442967,fastlane/fastlane,Ruby,37
 53238813,Homebrew/brew,Ruby,149
 13840241,freeCodeCamp/devdocs,Ruby,70
-2293158,rapid7/metasploit-framework,Ruby,89
+2293158,rapid7/metasploit-framework,Ruby,88
 308770,heartcombo/devise,Ruby,23
-21696302,matteocrippa/awesome-swift,Ruby,47
+21696302,matteocrippa/awesome-swift,Ruby,48
 538746,ruby/ruby,Ruby,31
 202291859,chatwoot/chatwoot,Ruby,73
 3195124,sidekiq/sidekiq,Ruby,24
@@ -14,7 +14,7 @@ id,name,lang,new stars
 1918677,fluent/fluentd,Ruby,16
 361310,teamcapybara/capybara,Ruby,12
 6529205,varvet/pundit,Ruby,10
-2441517,puma/puma,Ruby,14
+2441517,puma/puma,Ruby,15
 16549503,github/scientist,Ruby,15
 6768710,redmine/redmine,Ruby,13
 18294,activemerchant/active_merchant,Ruby,4
@@ -22,5 +22,5 @@ id,name,lang,new stars
 156555906,testdouble/standard,Ruby,18
 39947871,karafka/karafka,Ruby,24
 3947396,getsentry/sentry-ruby,Ruby,3
-586265895,mrsked/mrsk,Ruby,154
+586265895,mrsked/mrsk,Ruby,153
 66497320,DataDog/dd-trace-rb,Ruby,2
