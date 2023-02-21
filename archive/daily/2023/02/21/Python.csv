@@ -7,12 +7,12 @@ id,name,lang,new stars
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1054
 349321229,TencentARC/GFPGAN,Python,48
 387326890,xinntao/Real-ESRGAN,Python,35
-41179827,Rapptz/discord.py,Python,12
+41179827,Rapptz/discord.py,Python,13
 569927055,Stability-AI/stablediffusion,Python,96
 62743585,spotDL/spotify-downloader,Python,19
 498011141,huggingface/diffusers,Python,59
 305144746,geohot/tinygrad,Python,20
-595893961,lllyasviel/ControlNet,Python,834
+595893961,lllyasviel/ControlNet,Python,892
 315490189,dortania/OpenCore-Legacy-Patcher,Python,11
 505667511,sczhou/CodeFormer,Python,186
 452939314,neonbjb/tortoise-tts,Python,18
@@ -22,5 +22,5 @@ id,name,lang,new stars
 589860087,karpathy/ng-video-lecture,Python,10
 357492304,Free-TV/IPTV,Python,28
 562338288,d8ahazard/sd_dreambooth_extension,Python,4
-579557127,kohya-ss/sd-scripts,Python,36
+579557127,kohya-ss/sd-scripts,Python,28
 574802380,civitai/sd_civitai_extension,Python,16
