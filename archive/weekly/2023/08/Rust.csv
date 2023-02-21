@@ -4,11 +4,11 @@ id,name,lang,new stars
 130688011,meilisearch/meilisearch,Rust,389
 21938243,rust-unofficial/awesome-rust,Rust,268
 67836789,tokio-rs/tokio,Rust,124
-268424739,helix-editor/helix,Rust,261
+268424739,helix-editor/helix,Rust,263
 575340621,lencx/ChatGPT,Rust,2276
 11847500,uutils/coreutils,Rust,318
 143822069,sunface/rust-course,Rust,141
-135201145,RustPython/RustPython,Rust,90
+135201145,RustPython/RustPython,Rust,92
 165522651,emilk/egui,Rust,211
 14164618,tree-sitter/tree-sitter,Rust,93
 75688610,getzola/zola,Rust,41
@@ -22,5 +22,5 @@ id,name,lang,new stars
 130174051,graphprotocol/graph-node,Rust,21
 241277775,CleanCut/ultimate_rust_crash_course,Rust,20
 574034091,sonnylazuardi/chatgpt-desktop,Rust,117
-437485701,casey/ord,Rust,136
+437485701,casey/ord,Rust,137
 511691380,eto-ai/lance,Rust,144
