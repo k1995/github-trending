@@ -3,7 +3,7 @@ id,name,lang,new stars
 724712,rust-lang/rust,Rust,46
 196701619,tauri-apps/tauri,Rust,75
 51980455,alacritty/alacritty,Rust,24
-42489829,rust-lang/rustlings,Rust,48
+42489829,rust-lang/rustlings,Rust,43
 21938243,rust-unofficial/awesome-rust,Rust,57
 67836789,tokio-rs/tokio,Rust,21
 197081291,iced-rs/iced,Rust,19
@@ -11,7 +11,7 @@ id,name,lang,new stars
 165522651,emilk/egui,Rust,36
 7270538,ankitects/anki,Rust,12
 183483988,ruffle-rs/ruffle,Rust,7
-115039706,rust-lang/rust-analyzer,Rust,9
+115039706,rust-lang/rust-analyzer,Rust,10
 14164618,tree-sitter/tree-sitter,Rust,15
 121470383,solana-labs/solana,Rust,6
 580836813,google/comprehensive-rust,Rust,44
