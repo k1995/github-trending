@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,168
-85077558,kamranahmedse/developer-roadmap,Astro,170
+60493101,jwasham/coding-interview-university,,779
+21289110,vinta/awesome-python,Python,205
+35955666,jlevy/the-art-of-command-line,,217
 1039520,ytdl-org/youtube-dl,Python,171
-88011908,practical-tutorials/project-based-learning,,132
-523379232,CompVis/stable-diffusion,Jupyter Notebook,299
-307260205,yt-dlp/yt-dlp,Python,143
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1054
-349321229,TencentARC/GFPGAN,Python,48
-280557054,trpc/trpc,TypeScript,88
+52631841,gothinkster/realworld,TypeScript,130
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,298
+523379232,CompVis/stable-diffusion,Jupyter Notebook,297
+307260205,yt-dlp/yt-dlp,Python,213
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,1027
+270171567,freefq/free,,74
+264870386,openai/gpt-3,,109
+434218673,zinclabs/zincsearch,Go,72
 498011141,huggingface/diffusers,Python,59
-519882617,leptos-rs/leptos,Rust,179
-595893961,lllyasviel/ControlNet,Python,892
-505667511,sczhou/CodeFormer,Python,186
-506861932,nvim-lua/kickstart.nvim,Lua,63
-583706111,LazyVim/LazyVim,Lua,122
-600798098,Mikubill/sd-webui-controlnet,Python,276
-591782276,jaymody/picoGPT,Python,237
-357492304,Free-TV/IPTV,Python,28
-576005588,askrella/whatsapp-chatgpt,TypeScript,321
-594749373,XTLS/REALITY,Go,176
-601313570,replicate/scribble-diffusion,JavaScript,127
-598342280,hwchase17/langchainjs,TypeScript,65
-574802380,civitai/sd_civitai_extension,Python,16
-482976795,Learn-with-Sumit/think-in-a-redux-way,,12
-596484420,microsoft/hack-together,C#,44
+360366759,liupan1890/aliyunpan,TypeScript,394
+332880689,coollabsio/coolify,Svelte,171
+595893961,lllyasviel/ControlNet,Python,838
+64677873,Klocman/Bulk-Crap-Uninstaller,C#,451
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,113
+575401013,immersive-translate/immersive-translate,Makefile,152
+529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,17
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,950
+576005588,askrella/whatsapp-chatgpt,TypeScript,290
+598277623,dunbar12138/pix2pix3D,Python,121
+603623687,fkunn1326/openpose-editor,Python,58
+588898844,danijar/dreamerv3,Python,37
