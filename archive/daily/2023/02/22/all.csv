@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,506
-21289110,vinta/awesome-python,Python,201
-35955666,jlevy/the-art-of-command-line,,236
+60493101,jwasham/coding-interview-university,,526
+21289110,vinta/awesome-python,Python,190
+35955666,jlevy/the-art-of-command-line,,262
 1039520,ytdl-org/youtube-dl,Python,168
-52631841,gothinkster/realworld,TypeScript,130
-311525798,microsoft/Web-Dev-For-Beginners,JavaScript,237
-523379232,CompVis/stable-diffusion,Jupyter Notebook,256
-307260205,yt-dlp/yt-dlp,Python,260
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,997
+52631841,gothinkster/realworld,TypeScript,134
+311525798,microsoft/Web-Dev-For-Beginners,JavaScript,179
+523379232,CompVis/stable-diffusion,Jupyter Notebook,244
+307260205,yt-dlp/yt-dlp,Python,248
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,986
 270171567,freefq/free,,75
-264870386,openai/gpt-3,,171
-434218673,zinclabs/zincsearch,Go,122
-498011141,huggingface/diffusers,Python,130
-360366759,liupan1890/aliyunpan,TypeScript,374
+264870386,openai/gpt-3,,119
+434218673,zinclabs/zincsearch,Go,73
+498011141,huggingface/diffusers,Python,126
+360366759,liupan1890/aliyunpan,TypeScript,405
 595893961,lllyasviel/ControlNet,Python,794
-332880689,coollabsio/coolify,Svelte,97
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,905
-64677873,Klocman/Bulk-Crap-Uninstaller,C#,353
-575401013,immersive-translate/immersive-translate,Makefile,115
-601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1008
-529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,50
-576005588,askrella/whatsapp-chatgpt,TypeScript,349
-598277623,dunbar12138/pix2pix3D,Python,120
+332880689,coollabsio/coolify,Svelte,94
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,112
+64677873,Klocman/Bulk-Crap-Uninstaller,C#,423
+575401013,immersive-translate/immersive-translate,Makefile,79
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1038
+529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,17
+576005588,askrella/whatsapp-chatgpt,TypeScript,352
+598277623,dunbar12138/pix2pix3D,Python,210
 603623687,fkunn1326/openpose-editor,Python,64
-588898844,danijar/dreamerv3,Python,37
+588898844,danijar/dreamerv3,Python,69

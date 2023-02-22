@@ -13,7 +13,7 @@ id,name,lang,new stars
 144140342,paritytech/polkadot,Rust,3
 519882617,leptos-rs/leptos,Rust,173
 114685405,rustwasm/wasm-bindgen,Rust,8
-136510559,Byron/gitoxide,Rust,31
+136510559,Byron/gitoxide,Rust,33
 404320053,foundry-rs/foundry,Rust,7
 114742422,mullvad/mullvadvpn-app,Rust,12
 601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1038
@@ -23,4 +23,4 @@ id,name,lang,new stars
 459025965,datafuselabs/opendal,Rust,10
 452780719,containerd/runwasi,Rust,19
 591022890,emanuele-em/man-in-the-middle-proxy,Rust,9
-603742129,Kudaes/Split,Rust,20
+603742129,Kudaes/Split,Rust,15
