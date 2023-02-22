@@ -1,10 +1,10 @@
 id,name,lang,new stars
 20904437,gin-gonic/gin,Go,227
 48378947,fatedier/frp,Go,242
-6838921,prometheus/prometheus,Go,125
-42408804,traefik/traefik,Go,142
+6838921,prometheus/prometheus,Go,126
+42408804,traefik/traefik,Go,141
 15452919,ethereum/go-ethereum,Go,133
-136815833,Dreamacro/clash,Go,394
+136815833,Dreamacro/clash,Go,389
 13855476,go-gorm/gorm,Go,102
 156084530,ehang-io/nps,Go,81
 285864199,zeromicro/go-zero,Go,149
@@ -13,9 +13,9 @@ id,name,lang,new stars
 72891330,kubernetes/ingress-nginx,Go,65
 434218673,zinclabs/zincsearch,Go,229
 311315731,XTLS/Xray-core,Go,154
-465303307,samber/lo,Go,138
+465303307,samber/lo,Go,137
 420503947,binwiederhier/ntfy,Go,187
-247032621,go-admin-team/go-admin,Go,63
+247032621,go-admin-team/go-admin,Go,64
 230660669,aler9/rtsp-simple-server,Go,109
 535304995,HavocFramework/Havoc,Go,179
 201546443,trustwallet/assets,Go,23
@@ -23,4 +23,4 @@ id,name,lang,new stars
 329229346,eatmoreapple/openwechat,Go,193
 594749373,XTLS/REALITY,Go,501
 575237853,djun/wechatbot,Go,98
-598539671,Leizhenpeng/feishu-chatGpt,Go,54
+598539671,Leizhenpeng/feishu-chatGpt,Go,55
