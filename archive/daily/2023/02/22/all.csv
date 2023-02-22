@@ -3,7 +3,7 @@ id,name,lang,new stars
 21289110,vinta/awesome-python,Python,190
 35955666,jlevy/the-art-of-command-line,,262
 1039520,ytdl-org/youtube-dl,Python,168
-52631841,gothinkster/realworld,TypeScript,122
+52631841,gothinkster/realworld,TypeScript,130
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,179
 523379232,CompVis/stable-diffusion,Jupyter Notebook,244
 307260205,yt-dlp/yt-dlp,Python,248
@@ -21,6 +21,6 @@ id,name,lang,new stars
 529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,17
 601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1038
 576005588,askrella/whatsapp-chatgpt,TypeScript,352
-598277623,dunbar12138/pix2pix3D,Python,159
+598277623,dunbar12138/pix2pix3D,Python,175
 603623687,fkunn1326/openpose-editor,Python,64
-588898844,danijar/dreamerv3,Python,52
+588898844,danijar/dreamerv3,Python,55
