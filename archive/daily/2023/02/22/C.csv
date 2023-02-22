@@ -10,12 +10,12 @@ id,name,lang,new stars
 29933948,fluent/fluent-bit,C,0
 58132544,RediSearch/RediSearch,C,4
 1613176,tianocore/edk2,C,1
-189044704,AFLplusplus/AFLplusplus,C,3
+189044704,AFLplusplus/AFLplusplus,C,4
 154525111,signalwire/freeswitch,C,1
 15333809,open62541/open62541,C,2
 48130039,eclipse/paho.mqtt.c,C,0
 207354223,FreeRTOS/FreeRTOS-Kernel,C,5
-254994387,djpohly/dwl,C,5
+254994387,djpohly/dwl,C,6
 50272879,pjsip/pjproject,C,4
 370679811,aleksey-hoffman/sigma-file-manager,C,14
 568919373,groundcover-com/caretta,Go,8

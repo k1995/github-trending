@@ -1,14 +1,14 @@
 id,name,lang,new stars
 52281283,mastodon/mastodon,Ruby,179
 27442967,fastlane/fastlane,Ruby,53
-53238813,Homebrew/brew,Ruby,168
-13840241,freeCodeCamp/devdocs,Ruby,67
+53238813,Homebrew/brew,Ruby,170
+13840241,freeCodeCamp/devdocs,Ruby,68
 2293158,rapid7/metasploit-framework,Ruby,92
 308770,heartcombo/devise,Ruby,29
-21696302,matteocrippa/awesome-swift,Ruby,31
-538746,ruby/ruby,Ruby,40
+21696302,matteocrippa/awesome-swift,Ruby,33
+538746,ruby/ruby,Ruby,41
 202291859,chatwoot/chatwoot,Ruby,61
-3195124,sidekiq/sidekiq,Ruby,19
+3195124,sidekiq/sidekiq,Ruby,18
 52855516,Homebrew/homebrew-core,Ruby,34
 1725199,github/linguist,Ruby,33
 15435,Shopify/liquid,Ruby,18
@@ -18,9 +18,9 @@ id,name,lang,new stars
 6768710,redmine/redmine,Ruby,11
 904810,rubysherpas/paranoia,Ruby,1
 9500075,ytti/oxidized,Ruby,13
-156555906,testdouble/standard,Ruby,21
+156555906,testdouble/standard,Ruby,22
 39947871,karafka/karafka,Ruby,26
-586265895,mrsked/mrsk,Ruby,159
+586265895,mrsked/mrsk,Ruby,160
 297674098,Shopify/maintenance_tasks,Ruby,12
 188880371,Shopify/tapioca,Ruby,6
 66497320,DataDog/dd-trace-rb,Ruby,4
