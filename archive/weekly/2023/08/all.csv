@@ -10,8 +10,8 @@ id,name,lang,new stars
 11481338,zloirock/core-js,JavaScript,2460
 170067246,openai/gpt-2,Python,273
 422274596,hpcaitech/ColossalAI,Python,6405
-345368765,NvChad/NvChad,Lua,814
-519859998,toeverything/AFFiNE,TypeScript,251
+345368765,NvChad/NvChad,Lua,744
+519859998,toeverything/AFFiNE,TypeScript,254
 574116196,wong2/chatgpt-google-extension,TypeScript,779
 440079558,alibaba/lowcode-engine,TypeScript,839
 235860204,microsoft/DeepSpeed,Python,153
@@ -22,5 +22,5 @@ id,name,lang,new stars
 599662622,acheong08/EdgeGPT,Python,814
 591782276,jaymody/picoGPT,Python,822
 596424141,amazon-science/mm-cot,Python,545
-574506496,lss233/chatgpt-mirai-qq-bot,Python,574
+574506496,lss233/chatgpt-mirai-qq-bot,Python,575
 550775432,schibsted/WAAS,JavaScript,591

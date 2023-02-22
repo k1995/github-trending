@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,101
+2325298,torvalds/linux,C,98
 1903522,php/php-src,C,9
 36836475,tmux/tmux,C,18
 18666758,pjreddie/darknet,C,5
-34921116,iovisor/bcc,C,11
+34921116,iovisor/bcc,C,10
 63477515,TheAlgorithms/C,C,8
 70127218,espressif/arduino-esp32,C,7
 15583310,SoftEtherVPN/SoftEtherVPN,C,3
 1856976,libevent/libevent,C,3
 7408108,RT-Thread/rt-thread,C,12
-541269386,ggerganov/whisper.cpp,C,89
+541269386,ggerganov/whisper.cpp,C,65
 53614190,eclipse/mosquitto,C,2
 40504480,mit-pdos/xv6-public,C,12
 146397768,ithewei/libhv,C,8
@@ -21,6 +21,6 @@ id,name,lang,new stars
 273738561,sarah-walker-pcem/pcem,C,18
 121516035,nrfconnect/sdk-nrf,C,1
 315362480,raspberrypi/picoprobe,C,4
-507678095,BrightDaniel/alx-low_level_programming,C,5
+507678095,BrightDaniel/alx-low_level_programming,C,2
 377784145,betascribbles/alx-low_level_programming,C,3
-148520835,kai-dg/holbertonschool-low_level_programming,C,2
+148520835,kai-dg/holbertonschool-low_level_programming,C,1
