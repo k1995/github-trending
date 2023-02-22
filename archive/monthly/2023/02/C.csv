@@ -1,19 +1,18 @@
 id,name,lang,new stars
 10744183,netdata/netdata,C,465
-36502,git/git,C,465
-102578345,coolsnowwolf/lede,C,485
+156018,redis/redis,C,433
+102578345,coolsnowwolf/lede,C,486
+6201092,mpv-player/mpv,C,350
 7634677,openssl/openssl,C,383
-214011414,kingToolbox/WindTerm,C,1319
+214011414,kingToolbox/WindTerm,C,1327
 28515839,skywind3000/kcp,C,551
-65899476,espressif/esp-idf,C,242
 15583310,SoftEtherVPN/SoftEtherVPN,C,156
 6041301,sumatrapdfreader/sumatrapdf,C,331
 35780977,ImageMagick/ImageMagick,C,211
+50874442,citusdata/citus,C,207
 88327406,xmrig/xmrig,C,92
 68291988,miloyip/json-tutorial,C,112
-37060852,betaflight/betaflight,C,147
 5870069,confluentinc/librdkafka,C,61
-41752673,stanfordnlp/GloVe,C,48
 40504480,mit-pdos/xv6-public,C,90
 29933948,fluent/fluent-bit,C,79
 34807561,nanopb/nanopb,C,61
@@ -23,4 +22,5 @@ id,name,lang,new stars
 576303915,tiann/KernelSU,C,729
 47219545,GStreamer/gstreamer,C,51
 204363144,termux/termux-x11,C,58
+382113009,tsoding/ded,C,120
 468245058,pasqualerossi/42-School-Exam-Rank-02,C,52
