@@ -2,10 +2,10 @@ id,name,lang,new stars
 7569578,discourse/discourse,Ruby,14
 53238813,Homebrew/brew,Ruby,17
 481872,hashicorp/vagrant,Ruby,4
-37382858,kilimchoi/engineering-blogs,Ruby,6
+37382858,kilimchoi/engineering-blogs,Ruby,8
 2203645,CocoaPods/CocoaPods,Ruby,0
-138312,capistrano/capistrano,Ruby,4
-3314,spree/spree,Ruby,5
+138312,capistrano/capistrano,Ruby,2
+3314,spree/spree,Ruby,4
 1918677,fluent/fluentd,Ruby,10
 96395,faker-ruby/faker,Ruby,2
 611921,activeadmin/activeadmin,Ruby,2
@@ -14,10 +14,10 @@ id,name,lang,new stars
 69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,9
 910744,puppetlabs/puppet,Ruby,3
 75785147,rails/webpacker,Ruby,0
-2889230,rails-api/active_model_serializers,Ruby,0
+2889230,rails-api/active_model_serializers,Ruby,1
 839336,simplecov-ruby/simplecov,Ruby,1
 294972,fnando/i18n-js,Ruby,0
-103766152,github/explore,Ruby,1
+103766152,github/explore,Ruby,2
 138776049,sorbet/sorbet,Ruby,0
 93163073,dependabot/dependabot-core,Ruby,5
 3654364,roo-rb/roo,Ruby,1
