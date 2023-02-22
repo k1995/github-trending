@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,58
-70127218,espressif/arduino-esp32,C,5
+2325298,torvalds/linux,C,53
+70127218,espressif/arduino-esp32,C,6
 1856976,libevent/libevent,C,7
 7408108,RT-Thread/rt-thread,C,10
-14049216,cockpit-project/cockpit,C,6
+14049216,cockpit-project/cockpit,C,4
 59771425,zephyrproject-rtos/zephyr,C,5
 40556106,wazuh/wazuh,C,6
 21329550,wireshark/wireshark,C,5
-29933948,fluent/fluent-bit,C,2
+29933948,fluent/fluent-bit,C,3
 58132544,RediSearch/RediSearch,C,2
 1613176,tianocore/edk2,C,1
 189044704,AFLplusplus/AFLplusplus,C,3
@@ -15,9 +15,9 @@ id,name,lang,new stars
 15333809,open62541/open62541,C,1
 48130039,eclipse/paho.mqtt.c,C,0
 207354223,FreeRTOS/FreeRTOS-Kernel,C,6
-254994387,djpohly/dwl,C,6
+254994387,djpohly/dwl,C,12
 50272879,pjsip/pjproject,C,2
-370679811,aleksey-hoffman/sigma-file-manager,C,18
+370679811,aleksey-hoffman/sigma-file-manager,C,17
 568919373,groundcover-com/caretta,Go,10
 342120988,earlephilhower/arduino-pico,C,3
 329933755,pimoroni/pimoroni-pico,C,0

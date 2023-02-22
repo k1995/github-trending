@@ -1,20 +1,20 @@
 id,name,lang,new stars
-458058,symfony/symfony,PHP,7
-1420053,guzzle/guzzle,PHP,3
-60243197,nextcloud/server,PHP,11
-2253830,PHPMailer/PHPMailer,PHP,5
+458058,symfony/symfony,PHP,3
+1420053,guzzle/guzzle,PHP,1
+60243197,nextcloud/server,PHP,9
+2253830,PHPMailer/PHPMailer,PHP,3
 448045,sebastianbergmann/phpunit,PHP,1
 2889328,WordPress/WordPress,PHP,2
-1631570,nikic/PHP-Parser,PHP,3
-22553797,getgrav/grav,PHP,5
+1631570,nikic/PHP-Parser,PHP,0
+22553797,getgrav/grav,PHP,6
 42480275,spatie/laravel-permission,PHP,3
 2884111,magento/magento2,PHP,10
-6660366,dompdf/dompdf,PHP,6
+6660366,dompdf/dompdf,PHP,2
 2717549,Sylius/Sylius,PHP,1
 6763587,PrestaShop/PrestaShop,PHP,3
-248372441,filamentphp/filament,PHP,9
+248372441,filamentphp/filament,PHP,10
 10883164,barryvdh/laravel-dompdf,PHP,4
-178703607,nunomaduro/phpinsights,PHP,6
+178703607,nunomaduro/phpinsights,PHP,5
 145865941,laravel/telescope,PHP,2
 105197315,nunomaduro/collision,PHP,3
 9395939,ZoneMinder/zoneminder,PHP,2
@@ -22,5 +22,5 @@ id,name,lang,new stars
 400984450,kuaifan/dootask,PHP,5
 74026995,CodelyTV/php-ddd-example,PHP,1
 247004921,hexters/ladmin,PHP,5
-596875840,chris-koch-penn/gpt3_security_vulnerability_scanner,PHP,27
-343541352,Stillat/blade-parser,PHP,4
+596875840,chris-koch-penn/gpt3_security_vulnerability_scanner,PHP,26
+343541352,Stillat/blade-parser,PHP,5
