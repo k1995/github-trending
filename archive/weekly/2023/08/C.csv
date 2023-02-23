@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,456
+2325298,torvalds/linux,C,473
 156018,redis/redis,C,121
 1614410,FFmpeg/FFmpeg,C,148
 569041,curl/curl,C,106
-102578345,coolsnowwolf/lede,C,110
+102578345,coolsnowwolf/lede,C,109
 18666758,pjreddie/darknet,C,31
-196353673,taosdata/TDengine,C,27
-45821540,openwrt/openwrt,C,88
-214011414,kingToolbox/WindTerm,C,530
-28515839,skywind3000/kcp,C,474
+196353673,taosdata/TDengine,C,28
+45821540,openwrt/openwrt,C,84
+214011414,kingToolbox/WindTerm,C,537
+28515839,skywind3000/kcp,C,471
 394318710,valinet/ExplorerPatcher,C,193
-179354282,acidanthera/OpenCorePkg,C,39
+179354282,acidanthera/OpenCorePkg,C,41
 70127218,espressif/arduino-esp32,C,51
 1856976,libevent/libevent,C,35
 32921736,audacity/audacity,C,70
@@ -19,8 +19,8 @@ id,name,lang,new stars
 59771425,zephyrproject-rtos/zephyr,C,62
 157590294,TelegramMessenger/Telegram-iOS,C,47
 5128084,Cisco-Talos/clamav,C,41
-254994387,djpohly/dwl,C,76
+254994387,djpohly/dwl,C,78
 273738561,sarah-walker-pcem/pcem,C,93
-295432590,blackarrowsec/redteam-research,C,48
+295432590,blackarrowsec/redteam-research,C,44
 589481157,palera1n/palera1n-c,C,92
 599520499,pygame-community/pygame-ce,C,33

@@ -5,8 +5,8 @@ id,name,lang,new stars
 18666758,pjreddie/darknet,C,5
 34921116,iovisor/bcc,C,10
 63477515,TheAlgorithms/C,C,12
-70127218,espressif/arduino-esp32,C,7
-15583310,SoftEtherVPN/SoftEtherVPN,C,6
+70127218,espressif/arduino-esp32,C,9
+15583310,SoftEtherVPN/SoftEtherVPN,C,7
 1856976,libevent/libevent,C,3
 7408108,RT-Thread/rt-thread,C,5
 541269386,ggerganov/whisper.cpp,C,66
@@ -20,7 +20,7 @@ id,name,lang,new stars
 50272879,pjsip/pjproject,C,3
 273738561,sarah-walker-pcem/pcem,C,14
 121516035,nrfconnect/sdk-nrf,C,0
-315362480,raspberrypi/picoprobe,C,5
+315362480,raspberrypi/picoprobe,C,6
 507678095,BrightDaniel/alx-low_level_programming,C,1
 377784145,betascribbles/alx-low_level_programming,C,3
 148520835,kai-dg/holbertonschool-low_level_programming,C,1
