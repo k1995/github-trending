@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,82
+2325298,torvalds/linux,C,78
 111583593,Genymobile/scrcpy,C,47
 156018,redis/redis,C,16
 246335987,ventoy/Ventoy,C,56
@@ -9,7 +9,7 @@ id,name,lang,new stars
 927442,postgres/postgres,C,13
 70127218,espressif/arduino-esp32,C,9
 59771425,zephyrproject-rtos/zephyr,C,5
-541269386,ggerganov/whisper.cpp,C,62
+541269386,ggerganov/whisper.cpp,C,61
 7037996,VirusTotal/yara,C,6
 2755696,mattn/go-sqlite3,C,3
 469303019,gojue/ecapture,C,30
@@ -18,7 +18,7 @@ id,name,lang,new stars
 184654298,bytecodealliance/wasm-micro-runtime,C,5
 4434428,kokke/tiny-AES-c,C,4
 283149635,arthenica/ffmpeg-kit,C,5
-80611216,open5gs/open5gs,C,2
+80611216,open5gs/open5gs,C,1
 273738561,sarah-walker-pcem/pcem,C,14
 604399140,o-oconnell/minixfromscratch,C,31
 148534714,bdbaraban/holbertonschool-low_level_programming,C,4

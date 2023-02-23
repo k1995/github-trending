@@ -1,6 +1,6 @@
 id,name,lang,new stars
 160919119,tiangolo/fastapi,Python,40
-529502,scrapy/scrapy,Python,12
+529502,scrapy/scrapy,Python,9
 212639071,bregman-arie/devops-exercises,Python,55
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,796
 262296122,PaddlePaddle/PaddleOCR,Python,27
@@ -14,9 +14,9 @@ id,name,lang,new stars
 524871042,microsoft/BioGPT,Python,428
 596424141,amazon-science/mm-cot,Python,421
 441467833,open-mmlab/mmdeploy,Python,5
-522750006,pharmapsychotic/clip-interrogator,Python,21
 570384908,huggingface/peft,Python,47
-598277623,dunbar12138/pix2pix3D,Python,123
+522750006,pharmapsychotic/clip-interrogator,Python,21
+598277623,dunbar12138/pix2pix3D,Python,113
 577753426,microsoft/LMOps,Python,77
 550227552,LeagueOfPoro/CapsuleFarmerEvolved,Python,27
 603623687,fkunn1326/openpose-editor,Python,94

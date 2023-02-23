@@ -1,13 +1,13 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,267
-5108051,opencv/opencv,C++,181
+5108051,opencv/opencv,C++,184
 65600975,pytorch/pytorch,C++,313
 44838949,apple/swift,C++,106
 15634981,godotengine/godot,C++,291
 39840932,google/googletest,C++,73
 196813750,Light-City/CPlusPlusThings,C++,271
 60246359,ClickHouse/ClickHouse,C++,131
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,122
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,120
 34777562,ossrs/srs,C++,84
 65711522,PaddlePaddle/Paddle,C++,74
 81227005,facebookresearch/faiss,C++,104
@@ -21,6 +21,6 @@ id,name,lang,new stars
 47440536,cocos/cocos-engine,C++,29
 313501668,wenet-e2e/wenet,C++,23
 568268698,Slackadays/Clipboard,C++,213
-119111364,Vita3K/Vita3K,C++,52
+119111364,Vita3K/Vita3K,C++,51
 251034106,momo5502/boiii,C++,28
 585263795,decoder-it/LocalPotato,C++,67
