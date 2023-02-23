@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,97
+2325298,torvalds/linux,C,93
 1903522,php/php-src,C,9
 36836475,tmux/tmux,C,14
 18666758,pjreddie/darknet,C,3
-34921116,iovisor/bcc,C,11
+34921116,iovisor/bcc,C,10
 63477515,TheAlgorithms/C,C,12
 70127218,espressif/arduino-esp32,C,9
-15583310,SoftEtherVPN/SoftEtherVPN,C,4
-1856976,libevent/libevent,C,3
+15583310,SoftEtherVPN/SoftEtherVPN,C,5
+1856976,libevent/libevent,C,5
 7408108,RT-Thread/rt-thread,C,5
 541269386,ggerganov/whisper.cpp,C,67
 53614190,eclipse/mosquitto,C,8
