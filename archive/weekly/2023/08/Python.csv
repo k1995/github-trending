@@ -4,8 +4,8 @@ id,name,lang,new stars
 307260205,yt-dlp/yt-dlp,Python,1215
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,5049
 101138315,d2l-ai/d2l-zh,Python,765
-349321229,TencentARC/GFPGAN,Python,317
-170067246,openai/gpt-2,Python,288
+349321229,TencentARC/GFPGAN,Python,314
+170067246,openai/gpt-2,Python,290
 422274596,hpcaitech/ColossalAI,Python,4092
 569927055,Stability-AI/stablediffusion,Python,643
 235860204,microsoft/DeepSpeed,Python,173
@@ -15,12 +15,12 @@ id,name,lang,new stars
 600798098,Mikubill/sd-webui-controlnet,Python,1852
 596424141,amazon-science/mm-cot,Python,1461
 591782276,jaymody/picoGPT,Python,1002
-574506496,lss233/chatgpt-mirai-qq-bot,HTML,569
+574506496,lss233/chatgpt-mirai-qq-bot,Python,567
 357492304,Free-TV/IPTV,Python,308
 601479334,shyamsn97/mario-gpt,Python,465
 559584476,bmaltais/kohya_ss,Python,202
-550227552,LeagueOfPoro/CapsuleFarmerEvolved,Python,169
+550227552,LeagueOfPoro/CapsuleFarmerEvolved,Python,171
 579557127,kohya-ss/sd-scripts,Python,177
 589831718,comfyanonymous/ComfyUI,Python,147
 574802380,civitai/sd_civitai_extension,Python,155
-575309848,acheong08/OpenAIAuth,Python,58
+575309848,acheong08/OpenAIAuth,Python,59

@@ -1,6 +1,6 @@
 id,name,lang,new stars
 132464395,Snailclimb/JavaGuide,Java,50
-20300177,google/guava,Java,4
+20300177,google/guava,Java,5
 53127403,apolloconfig/apollo,Java,9
 32538871,google/gson,Java,4
 20587599,apache/flink,Java,10
@@ -10,11 +10,11 @@ id,name,lang,new stars
 335164964,dataease/dataease,Java,18
 75882172,Netflix/conductor,Java,4
 166515022,trinodb/trino,Java,10
-99919302,apache/doris,Java,18
+99919302,apache/doris,Java,17
 156627365,itwanger/toBeBetterJavaer,Java,35
 70780002,flowable/flowable-engine,Java,7
 13536393,alibaba/transmittable-thread-local,Java,3
-7276954,Alluxio/alluxio,Java,5
+7276954,Alluxio/alluxio,Java,4
 224230574,provectus/kafka-ui,Java,10
 402945349,StarRocks/starrocks,Java,12
 158256479,apache/iceberg,Java,11
