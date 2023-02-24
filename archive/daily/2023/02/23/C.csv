@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,78
+2325298,torvalds/linux,C,76
 111583593,Genymobile/scrcpy,C,47
 156018,redis/redis,C,16
 246335987,ventoy/Ventoy,C,56
 36502,git/git,C,15
 7634677,openssl/openssl,C,10
-34921116,iovisor/bcc,C,13
+34921116,iovisor/bcc,C,12
 927442,postgres/postgres,C,13
 70127218,espressif/arduino-esp32,C,9
 59771425,zephyrproject-rtos/zephyr,C,5
-541269386,ggerganov/whisper.cpp,C,61
+541269386,ggerganov/whisper.cpp,C,63
 7037996,VirusTotal/yara,C,6
 2755696,mattn/go-sqlite3,C,3
 469303019,gojue/ecapture,C,30
