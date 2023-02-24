@@ -1,18 +1,18 @@
 id,name,lang,new stars
-45717250,tensorflow/tensorflow,C++,252
+45717250,tensorflow/tensorflow,C++,251
 5108051,opencv/opencv,C++,185
-65600975,pytorch/pytorch,C++,309
+65600975,pytorch/pytorch,C++,307
 44838949,apple/swift,C++,103
-15634981,godotengine/godot,C++,288
-39840932,google/googletest,C++,77
-196813750,Light-City/CPlusPlusThings,C++,277
+15634981,godotengine/godot,C++,290
+39840932,google/googletest,C++,76
+196813750,Light-City/CPlusPlusThings,C++,276
 60246359,ClickHouse/ClickHouse,C++,117
 89247811,CMU-Perceptual-Computing-Lab/openpose,C++,120
 34777562,ossrs/srs,C++,80
 65711522,PaddlePaddle/Paddle,C++,77
 81227005,facebookresearch/faiss,C++,98
-117948953,Atmosphere-NX/Atmosphere,C++,146
-9647856,zerotier/ZeroTierOne,C++,68
+117948953,Atmosphere-NX/Atmosphere,C++,164
+9647856,zerotier/ZeroTierOne,C++,67
 130068982,taskflow/taskflow,C++,51
 128479644,esphome/esphome,C++,46
 372536760,oceanbase/oceanbase,C++,36
@@ -20,7 +20,7 @@ id,name,lang,new stars
 13212165,panda3d/panda3d,C++,35
 47440536,cocos/cocos-engine,C++,28
 313501668,wenet-e2e/wenet,C++,21
-568268698,Slackadays/Clipboard,C++,94
+568268698,Slackadays/Clipboard,C++,85
 119111364,Vita3K/Vita3K,C++,49
-251034106,momo5502/boiii,C++,29
-585263795,decoder-it/LocalPotato,C++,67
+251034106,momo5502/boiii,C++,30
+585263795,decoder-it/LocalPotato,C++,61

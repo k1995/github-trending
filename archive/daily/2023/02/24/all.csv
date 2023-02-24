@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,376
-35955666,jlevy/the-art-of-command-line,,358
+60493101,jwasham/coding-interview-university,,368
+35955666,jlevy/the-art-of-command-line,,364
 311525798,microsoft/Web-Dev-For-Beginners,JavaScript,267
-360366759,liupan1890/aliyunpan,TypeScript,132
-117948953,Atmosphere-NX/Atmosphere,C++,49
-305144746,geohot/tinygrad,Python,16
-455229168,immich-app/immich,Dart,74
-578822531,localsend/localsend,Dart,178
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,983
-156627365,itwanger/toBeBetterJavaer,Java,40
-332880689,coollabsio/coolify,Svelte,34
-601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,2163
-602270517,FMInference/FlexGen,Python,705
-603761805,total-typescript/ts-reset,TypeScript,558
-602389947,Kanaries/pygwalker,Jupyter Notebook,420
-200370313,epicmaxco/vuestic-ui,Vue,127
-596424141,amazon-science/mm-cot,Python,633
-559577091,CryoByte33/steam-deck-utilities,Go,64
-549830413,civitai/civitai,TypeScript,61
-591904676,Ignitetechnologies/Mindmap,,24
-550227552,LeagueOfPoro/CapsuleFarmerEvolved,Python,26
-603623687,fkunn1326/openpose-editor,Python,46
-593301229,MysticFoxDE/WINDOWS-OPTIMIZATIONS,PowerShell,61
-603593003,phodal/ai-research,Jupyter Notebook,47
-604210945,horizon3ai/CVE-2022-39952,Python,39
+360366759,liupan1890/aliyunpan,TypeScript,142
+117948953,Atmosphere-NX/Atmosphere,C++,43
+305144746,geohot/tinygrad,Python,18
+455229168,immich-app/immich,Dart,68
+578822531,localsend/localsend,Dart,168
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,1015
+156627365,itwanger/toBeBetterJavaer,Java,35
+332880689,coollabsio/coolify,Svelte,84
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,2128
+602270517,FMInference/FlexGen,Python,723
+603761805,total-typescript/ts-reset,TypeScript,600
+602389947,Kanaries/pygwalker,Jupyter Notebook,464
+200370313,epicmaxco/vuestic-ui,Vue,28
+596424141,amazon-science/mm-cot,Python,681
+559577091,CryoByte33/steam-deck-utilities,Go,61
+549830413,civitai/civitai,TypeScript,52
+591904676,Ignitetechnologies/Mindmap,,17
+550227552,LeagueOfPoro/CapsuleFarmerEvolved,Python,27
+603623687,fkunn1326/openpose-editor,Python,48
+603593003,phodal/ai-research,Jupyter Notebook,40
+593301229,MysticFoxDE/WINDOWS-OPTIMIZATIONS,PowerShell,63
+604210945,horizon3ai/CVE-2022-39952,Python,37
