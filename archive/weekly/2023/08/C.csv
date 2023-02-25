@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,524
+2325298,torvalds/linux,C,523
 246335987,ventoy/Ventoy,C,297
 36502,git/git,C,108
-102578345,coolsnowwolf/lede,C,115
+102578345,coolsnowwolf/lede,C,114
 1357796,emscripten-core/emscripten,C,40
 196353673,taosdata/TDengine,C,31
 34921116,iovisor/bcc,C,73
@@ -11,13 +11,13 @@ id,name,lang,new stars
 927442,postgres/postgres,C,61
 1856976,libevent/libevent,C,42
 7408108,RT-Thread/rt-thread,C,46
-14049216,cockpit-project/cockpit,C,40
+14049216,cockpit-project/cockpit,C,39
 5383731,qemu/qemu,C,36
 59771425,zephyrproject-rtos/zephyr,C,57
 108110706,tporadowski/redis,C,55
 469303019,gojue/ecapture,C,98
 21329550,wireshark/wireshark,C,38
-157590294,TelegramMessenger/Telegram-iOS,C,27
+157590294,TelegramMessenger/Telegram-iOS,C,25
 204459250,mit-pdos/xv6-riscv,C,54
 5128084,Cisco-Talos/clamav,C,36
 200663555,axboe/liburing,C,36

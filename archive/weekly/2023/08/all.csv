@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,2503
-1039520,ytdl-org/youtube-dl,Python,686
-138393139,trimstray/the-book-of-secret-knowledge,,757
+60493101,jwasham/coding-interview-university,,2494
+1039520,ytdl-org/youtube-dl,Python,685
+138393139,trimstray/the-book-of-secret-knowledge,,772
 26066727,mermaid-js/mermaid,JavaScript,568
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1447
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1460
 307260205,yt-dlp/yt-dlp,Python,1243
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,5154
-349321229,TencentARC/GFPGAN,Python,315
-422274596,hpcaitech/ColossalAI,Python,3515
-321960447,openai/CLIP,Jupyter Notebook,157
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,5147
+349321229,TencentARC/GFPGAN,Python,314
+422274596,hpcaitech/ColossalAI,Python,3436
+321960447,openai/CLIP,Jupyter Notebook,155
 569927055,Stability-AI/stablediffusion,Python,684
 595893961,lllyasviel/ControlNet,Python,4633
-505667511,sczhou/CodeFormer,Python,614
+505667511,sczhou/CodeFormer,Python,615
 506861932,nvim-lua/kickstart.nvim,Lua,329
-600798098,Mikubill/sd-webui-controlnet,Python,1612
-601399291,Nutlope/aicommits,TypeScript,753
-596424141,amazon-science/mm-cot,Python,1773
+600798098,Mikubill/sd-webui-controlnet,Python,1654
+601399291,Nutlope/aicommits,TypeScript,917
+596424141,amazon-science/mm-cot,Python,1706
 529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,226
-591782276,jaymody/picoGPT,Python,1001
-576005588,askrella/whatsapp-chatgpt,TypeScript,1379
-549830413,civitai/civitai,TypeScript,532
-599394820,Chanzhaoyu/chatgpt-web,Vue,564
-601479334,shyamsn97/mario-gpt,Python,451
+591782276,jaymody/picoGPT,Python,980
+576005588,askrella/whatsapp-chatgpt,TypeScript,1325
+549830413,civitai/civitai,TypeScript,535
+599394820,Chanzhaoyu/chatgpt-web,Vue,567
+601479334,shyamsn97/mario-gpt,Python,362
 589831718,comfyanonymous/ComfyUI,Python,161
-574802380,civitai/sd_civitai_extension,Python,161
+574802380,civitai/sd_civitai_extension,Python,164

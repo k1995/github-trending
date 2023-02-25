@@ -1,14 +1,14 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,93
 10744183,netdata/netdata,C,16
-102578345,coolsnowwolf/lede,C,16
+102578345,coolsnowwolf/lede,C,17
 1357796,emscripten-core/emscripten,C,10
-34921116,iovisor/bcc,C,6
+34921116,iovisor/bcc,C,5
 193885464,woltapp/blurhash,C,95
 130578889,pymumu/smartdns,C,9
 490465859,UberGuidoZ/Flipper,C,6
-561183031,jart/blink,C,13
-131710328,CTCaer/hekate,C,63
+561183031,jart/blink,C,8
+131710328,CTCaer/hekate,C,50
 2359378,madler/zlib,C,1
 6687936,Mbed-TLS/mbedtls,C,3
 27359183,guanzhi/GmSSL,C,1
@@ -22,5 +22,5 @@ id,name,lang,new stars
 80611216,open5gs/open5gs,C,1
 604399140,o-oconnell/minixfromscratch,C,151
 538084173,jszczerbinsky/lwp,C,88
-467381275,lmarzen/esp32-weather-epd,C,38
 560182945,sultim-t/xash-rt,C,66
+467381275,lmarzen/esp32-weather-epd,C,38
