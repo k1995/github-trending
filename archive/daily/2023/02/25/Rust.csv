@@ -1,5 +1,5 @@
 id,name,lang,new stars
-114466145,yewstack/yew,Rust,14
+114466145,yewstack/yew,Rust,18
 186024298,nushell/nushell,Rust,21
 234798675,bevyengine/bevy,Rust,23
 413918947,vercel/turbo,Rust,29
@@ -8,18 +8,18 @@ id,name,lang,new stars
 101767772,bytecodealliance/wasmtime,Rust,7
 23500865,hyperium/hyper,Rust,9
 36323226,XAMPPRocky/tokei,Rust,28
-329782568,DioxusLabs/dioxus,Rust,42
+329782568,DioxusLabs/dioxus,Rust,73
 601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1433
 302827809,datafuselabs/databend,Rust,14
-426075845,MystenLabs/sui,Rust,11
+426075845,MystenLabs/sui,Rust,13
 113404957,kata-containers/kata-containers,Rust,7
 27890669,rust-lang/regex,Rust,8
-420489845,moonrepo/moon,Rust,28
+420489845,moonrepo/moon,Rust,40
 266602341,gakonst/ethers-rs,Rust,4
-579990612,AmbientRun/Ambient,Rust,460
+579990612,AmbientRun/Ambient,Rust,356
 33914894,twistedfall/opencv-rust,Rust,19
 258933250,delta-io/delta-rs,Rust,5
-586920414,jdxcode/rtx,Rust,48
+586920414,jdxcode/rtx,Rust,52
 507674219,hydro-project/rust-sitter,Rust,19
 576642715,BloopAI/bloop,Rust,28
 232596294,RibirX/Ribir,Rust,22
