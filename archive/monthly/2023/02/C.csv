@@ -2,9 +2,9 @@ id,name,lang,new stars
 10744183,netdata/netdata,C,472
 156018,redis/redis,C,454
 36836475,tmux/tmux,C,378
-102578345,coolsnowwolf/lede,C,506
+102578345,coolsnowwolf/lede,C,508
 7634677,openssl/openssl,C,397
-214011414,kingToolbox/WindTerm,C,1419
+214011414,kingToolbox/WindTerm,C,1423
 28515839,skywind3000/kcp,C,610
 927442,postgres/postgres,C,199
 65899476,espressif/esp-idf,C,248
@@ -22,5 +22,5 @@ id,name,lang,new stars
 331380723,raspberrypi/pico-sdk,C,181
 200663555,axboe/liburing,C,103
 61964127,86Box/86Box,C,215
-576303915,tiann/KernelSU,C,713
+576303915,tiann/KernelSU,C,710
 47219545,GStreamer/gstreamer,C,53
