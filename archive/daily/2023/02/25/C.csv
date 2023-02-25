@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,93
-10744183,netdata/netdata,C,16
+2325298,torvalds/linux,C,83
+10744183,netdata/netdata,C,15
 102578345,coolsnowwolf/lede,C,16
-1357796,emscripten-core/emscripten,C,11
+1357796,emscripten-core/emscripten,C,10
 34921116,iovisor/bcc,C,6
 193885464,woltapp/blurhash,C,28
 130578889,pymumu/smartdns,C,10
@@ -17,8 +17,8 @@ id,name,lang,new stars
 1335680,blackmagic-debug/blackmagic,C,2
 154525111,signalwire/freeswitch,C,1
 15999638,checkpoint-restore/criu,C,2
-173133912,lakinduakash/linux-wifi-hotspot,C,18
-359952601,pgvector/pgvector,C,38
+173133912,lakinduakash/linux-wifi-hotspot,C,12
+359952601,pgvector/pgvector,C,34
 80611216,open5gs/open5gs,C,1
 604399140,o-oconnell/minixfromscratch,C,119
 538084173,jszczerbinsky/lwp,C,89
