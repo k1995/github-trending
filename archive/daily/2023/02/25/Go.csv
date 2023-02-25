@@ -3,10 +3,10 @@ id,name,lang,new stars
 24268127,coreybutler/nvm-windows,Go,27
 167596393,derailed/k9s,Go,25
 72477752,pulumi/pulumi,Go,14
-208728772,milvus-io/milvus,Go,13
-161951219,wailsapp/wails,Go,18
+208728772,milvus-io/milvus,Go,12
+161951219,wailsapp/wails,Go,14
 131212638,google/gvisor,Go,7
-120896210,argoproj/argo-cd,Go,18
+120896210,argoproj/argo-cd,Go,16
 246903803,earthly/earthly,Go,13
 93444615,hashicorp/terraform-provider-aws,Go,9
 27576132,aws/aws-sdk-go,Go,3

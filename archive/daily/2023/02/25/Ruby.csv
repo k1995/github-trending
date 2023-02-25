@@ -2,7 +2,7 @@ id,name,lang,new stars
 7569578,discourse/discourse,Ruby,8
 27442967,fastlane/fastlane,Ruby,12
 53238813,Homebrew/brew,Ruby,13
-308770,heartcombo/devise,Ruby,4
+308770,heartcombo/devise,Ruby,2
 538746,ruby/ruby,Ruby,4
 202291859,chatwoot/chatwoot,Ruby,7
 3195124,sidekiq/sidekiq,Ruby,0
@@ -12,14 +12,14 @@ id,name,lang,new stars
 108278,chef/chef,Ruby,0
 6899875,opf/openproject,Ruby,7
 211588,paper-trail-gem/paper_trail,Ruby,1
-2185269,busyloop/lolcat,Ruby,2
+2185269,busyloop/lolcat,Ruby,3
 16994115,CanCanCommunity/cancancan,Ruby,0
 30337170,rmosolgo/graphql-ruby,Ruby,1
-30985840,solidusio/solidus,Ruby,3
+30985840,solidusio/solidus,Ruby,2
 103766152,github/explore,Ruby,3
 229006,mileszs/wicked_pdf,Ruby,0
 11426474,github/choosealicense.com,Ruby,1
-156555906,testdouble/standard,Ruby,7
+156555906,testdouble/standard,Ruby,6
 34840276,elastic/ansible-elasticsearch,Ruby,0
 284824224,alexrudall/ruby-openai,Ruby,10
 1784628,rails/sprockets-rails,Ruby,0

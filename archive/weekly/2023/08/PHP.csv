@@ -1,19 +1,19 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,164
 3482588,danielmiessler/SecLists,PHP,144
-7548986,laravel/framework,PHP,56
+7548986,laravel/framework,PHP,55
 458058,symfony/symfony,PHP,38
-1864363,composer/composer,PHP,26
-60243197,nextcloud/server,PHP,78
-1631570,nikic/PHP-Parser,PHP,24
+1864363,composer/composer,PHP,25
+60243197,nextcloud/server,PHP,80
+1631570,nikic/PHP-Parser,PHP,25
 2884111,magento/magento2,PHP,22
 12166778,googleapis/google-api-php-client,PHP,12
 2717549,Sylius/Sylius,PHP,15
-10371103,Laravel-Lang/lang,PHP,14
-248372441,filamentphp/filament,PHP,73
+10371103,Laravel-Lang/lang,PHP,15
+248372441,filamentphp/filament,PHP,74
 10883164,barryvdh/laravel-dompdf,PHP,21
-74386167,vimeo/psalm,PHP,12
 148129143,bagisto/bagisto,PHP,25
+74386167,vimeo/psalm,PHP,12
 159606650,hyperf/hyperf,PHP,18
 2464908,joomla/joomla-cms,PHP,14
 286645686,yuantuo666/baiduwp-php,PHP,90

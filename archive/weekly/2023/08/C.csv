@@ -1,8 +1,8 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,501
-36502,git/git,C,111
+2325298,torvalds/linux,C,505
+36502,git/git,C,110
 102578345,coolsnowwolf/lede,C,115
-196353673,taosdata/TDengine,C,28
+196353673,taosdata/TDengine,C,30
 34921116,iovisor/bcc,C,73
 45821540,openwrt/openwrt,C,86
 214011414,kingToolbox/WindTerm,C,378
@@ -15,12 +15,12 @@ id,name,lang,new stars
 59771425,zephyrproject-rtos/zephyr,C,57
 5870069,confluentinc/librdkafka,C,21
 21329550,wireshark/wireshark,C,37
-157590294,TelegramMessenger/Telegram-iOS,C,33
+157590294,TelegramMessenger/Telegram-iOS,C,32
 27359183,guanzhi/GmSSL,C,17
 45703884,olikraus/u8g2,C,19
-204459250,mit-pdos/xv6-riscv,C,53
+204459250,mit-pdos/xv6-riscv,C,54
 5128084,Cisco-Talos/clamav,C,36
 207354223,FreeRTOS/FreeRTOS-Kernel,C,21
 254994387,djpohly/dwl,C,77
 273738561,sarah-walker-pcem/pcem,C,94
-589481157,palera1n/palera1n-c,C,48
+589481157,palera1n/palera1n-c,C,47

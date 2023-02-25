@@ -1,7 +1,7 @@
 id,name,lang,new stars
 114466145,yewstack/yew,Rust,18
-186024298,nushell/nushell,Rust,21
-234798675,bevyengine/bevy,Rust,23
+186024298,nushell/nushell,Rust,57
+234798675,bevyengine/bevy,Rust,20
 413918947,vercel/turbo,Rust,29
 148641954,TheAlgorithms/Rust,Rust,21
 146327667,vectordotdev/vector,Rust,12
@@ -9,14 +9,14 @@ id,name,lang,new stars
 23500865,hyperium/hyper,Rust,9
 36323226,XAMPPRocky/tokei,Rust,28
 329782568,DioxusLabs/dioxus,Rust,73
-601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1433
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1023
 302827809,datafuselabs/databend,Rust,14
 426075845,MystenLabs/sui,Rust,13
 113404957,kata-containers/kata-containers,Rust,7
 27890669,rust-lang/regex,Rust,8
 420489845,moonrepo/moon,Rust,40
 266602341,gakonst/ethers-rs,Rust,4
-579990612,AmbientRun/Ambient,Rust,356
+579990612,AmbientRun/Ambient,Rust,340
 33914894,twistedfall/opencv-rust,Rust,19
 258933250,delta-io/delta-rs,Rust,5
 586920414,jdxcode/rtx,Rust,52
