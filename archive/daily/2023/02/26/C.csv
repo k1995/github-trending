@@ -1,13 +1,13 @@
 id,name,lang,new stars
 13233158,obsproject/obs-studio,C,30
-246335987,ventoy/Ventoy,C,37
-1903522,php/php-src,C,8
+246335987,ventoy/Ventoy,C,40
+1903522,php/php-src,C,6
 3774328,wg/wrk,C,8
-102578345,coolsnowwolf/lede,C,17
-1357796,emscripten-core/emscripten,C,9
+102578345,coolsnowwolf/lede,C,15
+1357796,emscripten-core/emscripten,C,3
 27737393,qmk/qmk_firmware,C,8
 40217904,swaywm/sway,C,7
-394318710,valinet/ExplorerPatcher,C,15
+394318710,valinet/ExplorerPatcher,C,14
 13836499,raysan5/raylib,C,8
 179354282,acidanthera/OpenCorePkg,C,11
 211381291,ExistentialAudio/BlackHole,C,8
@@ -17,10 +17,10 @@ id,name,lang,new stars
 88327406,xmrig/xmrig,C,2
 37060852,betaflight/betaflight,C,1
 59676171,Klipper3d/klipper,C,5
-130578889,pymumu/smartdns,C,11
-490465859,UberGuidoZ/Flipper,C,16
-131710328,CTCaer/hekate,C,10
+130578889,pymumu/smartdns,C,12
+490465859,UberGuidoZ/Flipper,C,17
+131710328,CTCaer/hekate,C,17
 151870364,xiaorouji/openwrt-passwall,C,5
-270692521,zmkfirmware/zmk,C,3
-538084173,jszczerbinsky/lwp,C,46
-467381275,lmarzen/esp32-weather-epd,C,11
+270692521,zmkfirmware/zmk,C,4
+538084173,jszczerbinsky/lwp,C,40
+467381275,lmarzen/esp32-weather-epd,C,12

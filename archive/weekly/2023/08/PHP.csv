@@ -1,16 +1,16 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,129
+1863329,laravel/laravel,PHP,128
 3482588,danielmiessler/SecLists,PHP,148
 7548986,laravel/framework,PHP,58
 1864363,composer/composer,PHP,37
 60243197,nextcloud/server,PHP,79
 1631570,nikic/PHP-Parser,PHP,26
-22553797,getgrav/grav,PHP,20
+22553797,getgrav/grav,PHP,19
 14259390,SpartnerNL/Laravel-Excel,PHP,10
 2884111,magento/magento2,PHP,17
 42261096,fuzzdb-project/fuzzdb,PHP,17
 10371103,Laravel-Lang/lang,PHP,18
-3217621,phpmyadmin/phpmyadmin,PHP,20
+3217621,phpmyadmin/phpmyadmin,PHP,17
 13612575,fruitcake/laravel-cors,PHP,5
 248372441,filamentphp/filament,PHP,72
 10883164,barryvdh/laravel-dompdf,PHP,24
@@ -18,9 +18,9 @@ id,name,lang,new stars
 148129143,bagisto/bagisto,PHP,309
 74386167,vimeo/psalm,PHP,13
 159606650,hyperf/hyperf,PHP,17
-286645686,yuantuo666/baiduwp-php,PHP,109
-22751672,tecnickcom/TCPDF,PHP,8
+286645686,yuantuo666/baiduwp-php,PHP,133
+22751672,tecnickcom/TCPDF,PHP,7
 291805291,laravel/jetstream,PHP,13
 38200433,jeroennoten/Laravel-AdminLTE,PHP,19
 71485542,kimai/kimai,PHP,13
-415122668,Sammyjo20/Saloon,PHP,153
+415122668,Sammyjo20/Saloon,PHP,157
