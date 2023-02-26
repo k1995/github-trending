@@ -1,14 +1,14 @@
 id,name,lang,new stars
-10744183,netdata/netdata,C,476
+10744183,netdata/netdata,C,475
 156018,redis/redis,C,460
 36836475,tmux/tmux,C,386
 102578345,coolsnowwolf/lede,C,517
 7634677,openssl/openssl,C,398
 196353673,taosdata/TDengine,C,423
-214011414,kingToolbox/WindTerm,C,1454
+214011414,kingToolbox/WindTerm,C,1456
 28515839,skywind3000/kcp,C,622
-65899476,espressif/esp-idf,C,253
-6041301,sumatrapdfreader/sumatrapdf,C,342
+65899476,espressif/esp-idf,C,252
+6041301,sumatrapdfreader/sumatrapdf,C,343
 35780977,ImageMagick/ImageMagick,C,214
 108110706,tporadowski/redis,C,197
 5870069,confluentinc/librdkafka,C,68
@@ -16,11 +16,11 @@ id,name,lang,new stars
 1286805,xianyi/OpenBLAS,C,56
 131710328,CTCaer/hekate,C,210
 157590294,TelegramMessenger/Telegram-iOS,C,125
-34807561,nanopb/nanopb,C,58
+34807561,nanopb/nanopb,C,59
 154525111,signalwire/freeswitch,C,68
 331380723,raspberrypi/pico-sdk,C,180
-200663555,axboe/liburing,C,108
-61964127,86Box/86Box,C,215
-576303915,tiann/KernelSU,C,697
+200663555,axboe/liburing,C,109
+61964127,86Box/86Box,C,214
+576303915,tiann/KernelSU,C,685
 370338875,wechat-miniprogram/minigame-unity-webgl-transform,C,129
 382113009,tsoding/ded,C,117
