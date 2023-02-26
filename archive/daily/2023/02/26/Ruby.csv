@@ -1,6 +1,6 @@
 id,name,lang,new stars
 7569578,discourse/discourse,Ruby,9
-27442967,fastlane/fastlane,Ruby,19
+27442967,fastlane/fastlane,Ruby,40
 37382858,kilimchoi/engineering-blogs,Ruby,8
 202291859,chatwoot/chatwoot,Ruby,5
 3195124,sidekiq/sidekiq,Ruby,0
@@ -12,7 +12,7 @@ id,name,lang,new stars
 21829,thoughtbot/factory_bot,Ruby,0
 587311,omniauth/omniauth,Ruby,0
 6899875,opf/openproject,Ruby,5
-5160706,bkeepers/dotenv,Ruby,0
+5160706,bkeepers/dotenv,Ruby,1
 75785147,rails/webpacker,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,2

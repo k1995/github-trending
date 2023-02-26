@@ -6,8 +6,8 @@ id,name,lang,new stars
 20060596,ogham/exa,Rust,27
 11847500,uutils/coreutils,Rust,30
 23500865,hyperium/hyper,Rust,7
-75688610,getzola/zola,Rust,18
-292014229,zellij-org/zellij,Rust,38
+75688610,getzola/zola,Rust,21
+292014229,zellij-org/zellij,Rust,37
 329782568,DioxusLabs/dioxus,Rust,71
 601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,836
 148829497,o2sh/onefetch,Rust,127
@@ -15,12 +15,12 @@ id,name,lang,new stars
 302827809,datafuselabs/databend,Rust,7
 462597790,aptos-labs/aptos-core,Rust,4
 268163609,qdrant/qdrant,Rust,37
-57160728,mozilla/sccache,Rust,31
+57160728,mozilla/sccache,Rust,29
 426075845,MystenLabs/sui,Rust,9
-86106381,libp2p/rust-libp2p,Rust,8
+86106381,libp2p/rust-libp2p,Rust,23
 113404957,kata-containers/kata-containers,Rust,9
 27890669,rust-lang/regex,Rust,7
 324025361,soywod/himalaya,Rust,13
 579990612,AmbientRun/Ambient,Rust,401
-266602341,gakonst/ethers-rs,Rust,2
+266602341,gakonst/ethers-rs,Rust,3
 586920414,jdxcode/rtx,Rust,118

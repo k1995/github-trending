@@ -1,13 +1,13 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,526
+2325298,torvalds/linux,C,530
 246335987,ventoy/Ventoy,C,298
-36502,git/git,C,107
+36502,git/git,C,108
 102578345,coolsnowwolf/lede,C,114
 1357796,emscripten-core/emscripten,C,41
 196353673,taosdata/TDengine,C,32
 34921116,iovisor/bcc,C,72
 214011414,kingToolbox/WindTerm,C,354
-28515839,skywind3000/kcp,C,197
+28515839,skywind3000/kcp,C,201
 927442,postgres/postgres,C,59
 1856976,libevent/libevent,C,41
 7408108,RT-Thread/rt-thread,C,43
@@ -20,7 +20,7 @@ id,name,lang,new stars
 157590294,TelegramMessenger/Telegram-iOS,C,23
 204459250,mit-pdos/xv6-riscv,C,56
 5128084,Cisco-Talos/clamav,C,29
-200663555,axboe/liburing,C,32
+200663555,axboe/liburing,C,31
 207354223,FreeRTOS/FreeRTOS-Kernel,C,25
-254994387,djpohly/dwl,C,80
+254994387,djpohly/dwl,C,78
 273738561,sarah-walker-pcem/pcem,C,90
