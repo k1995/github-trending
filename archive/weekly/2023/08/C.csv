@@ -1,19 +1,19 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,552
-156018,redis/redis,C,115
+2325298,torvalds/linux,C,556
+156018,redis/redis,C,113
 102578345,coolsnowwolf/lede,C,109
 34921116,iovisor/bcc,C,71
-214011414,kingToolbox/WindTerm,C,354
+214011414,kingToolbox/WindTerm,C,329
 28515839,skywind3000/kcp,C,169
 927442,postgres/postgres,C,62
 1856976,libevent/libevent,C,37
 7408108,RT-Thread/rt-thread,C,45
 14049216,cockpit-project/cockpit,C,34
-5383731,qemu/qemu,C,42
-59771425,zephyrproject-rtos/zephyr,C,53
-108110706,tporadowski/redis,C,55
+5383731,qemu/qemu,C,40
+59771425,zephyrproject-rtos/zephyr,C,47
+108110706,tporadowski/redis,C,53
 2755696,mattn/go-sqlite3,C,20
-130578889,pymumu/smartdns,C,48
+130578889,pymumu/smartdns,C,54
 469303019,gojue/ecapture,C,103
 58132544,RediSearch/RediSearch,C,33
 204459250,mit-pdos/xv6-riscv,C,56

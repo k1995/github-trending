@@ -1,18 +1,18 @@
 id,name,lang,new stars
-21540759,avelino/awesome-go,Go,49
+21540759,avelino/awesome-go,Go,50
 16752620,gogs/gogs,Go,8
-15452919,ethereum/go-ethereum,Go,14
-134017286,jesseduffield/lazygit,Go,21
+15452919,ethereum/go-ethereum,Go,12
+134017286,jesseduffield/lazygit,Go,28
 510607652,pocketbase/pocketbase,Go,24
-323965659,alist-org/alist,Go,77
-233130089,charmbracelet/bubbletea,Go,20
-62712899,AdguardTeam/AdGuardHome,Go,18
+323965659,alist-org/alist,Go,75
+233130089,charmbracelet/bubbletea,Go,15
+62712899,AdguardTeam/AdGuardHome,Go,14
 39038086,containrrr/watchtower,Go,12
 311315731,XTLS/Xray-core,Go,15
-175405157,JanDeDobbeleer/oh-my-posh,Go,12
-291485614,XIU2/CloudflareSpeedTest,Go,25
+175405157,JanDeDobbeleer/oh-my-posh,Go,11
+291485614,XIU2/CloudflareSpeedTest,Go,28
 137854081,GoAdminGroup/go-admin,Go,4
-542931741,answerdev/answer,Go,23
+542931741,answerdev/answer,Go,24
 201546443,trustwallet/assets,Go,2
 313853293,cloudquery/cloudquery,Go,75
 238797860,ethereum-optimism/optimism,Go,7
@@ -23,4 +23,4 @@ id,name,lang,new stars
 192480120,knadh/koanf,Go,15
 334110599,iDvel/rime-ice,Go,12
 552635490,OwO-Network/DeepLX,Go,131
-410897288,OffchainLabs/nitro,Go,1
+410897288,OffchainLabs/nitro,Go,2
