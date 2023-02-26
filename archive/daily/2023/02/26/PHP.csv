@@ -9,7 +9,7 @@ id,name,lang,new stars
 14259390,SpartnerNL/Laravel-Excel,PHP,0
 41589337,BookStackApp/BookStack,PHP,2
 2699935,squizlabs/PHP_CodeSniffer,PHP,4
-6660366,dompdf/dompdf,PHP,4
+6660366,dompdf/dompdf,PHP,5
 677464,doctrine/dbal,PHP,1
 2179920,woocommerce/woocommerce,PHP,1
 14346979,snipe/snipe-it,PHP,3
@@ -17,8 +17,8 @@ id,name,lang,new stars
 12204147,mautic/mautic,PHP,2
 62937181,PrivateBin/PrivateBin,PHP,5
 439861,moodle/moodle,PHP,2
-8077402,MISP/MISP,PHP,2
-139179084,area17/twill,PHP,0
+8077402,MISP/MISP,PHP,0
+139179084,area17/twill,PHP,1
 69691727,pmmp/PocketMine-MP,PHP,2
 3193843,drush-ops/drush,PHP,0
 433383766,nextcloud/all-in-one,PHP,3

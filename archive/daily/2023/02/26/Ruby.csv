@@ -1,6 +1,6 @@
 id,name,lang,new stars
-7569578,discourse/discourse,Ruby,9
-27442967,fastlane/fastlane,Ruby,40
+7569578,discourse/discourse,Ruby,7
+27442967,fastlane/fastlane,Ruby,39
 37382858,kilimchoi/engineering-blogs,Ruby,8
 202291859,chatwoot/chatwoot,Ruby,5
 3195124,sidekiq/sidekiq,Ruby,0
@@ -16,7 +16,7 @@ id,name,lang,new stars
 75785147,rails/webpacker,Ruby,0
 2889230,rails-api/active_model_serializers,Ruby,1
 93163073,dependabot/dependabot-core,Ruby,2
-156555906,testdouble/standard,Ruby,4
+156555906,testdouble/standard,Ruby,2
 39947871,karafka/karafka,Ruby,1
 29151578,rswag/rswag,Ruby,0
 209731662,ruby/debug,Ruby,0
