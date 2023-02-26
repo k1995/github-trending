@@ -1,10 +1,10 @@
 id,name,lang,new stars
-133442384,denoland/deno,Rust,23
+133442384,denoland/deno,Rust,27
 299354207,rustdesk/rustdesk,Rust,58
 178991158,starship/starship,Rust,29
 186024298,nushell/nushell,Rust,58
 20060596,ogham/exa,Rust,23
-11847500,uutils/coreutils,Rust,24
+11847500,uutils/coreutils,Rust,28
 23500865,hyperium/hyper,Rust,5
 75688610,getzola/zola,Rust,8
 292014229,zellij-org/zellij,Rust,44
@@ -13,7 +13,7 @@ id,name,lang,new stars
 148829497,o2sh/onefetch,Rust,257
 404320053,foundry-rs/foundry,Rust,6
 302827809,datafuselabs/databend,Rust,8
-462597790,aptos-labs/aptos-core,Rust,5
+462597790,aptos-labs/aptos-core,Rust,2
 268163609,qdrant/qdrant,Rust,40
 57160728,mozilla/sccache,Rust,32
 426075845,MystenLabs/sui,Rust,11

@@ -1,14 +1,14 @@
 id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,10
+49609581,PowerShell/PowerShell,C#,13
 17620347,dotnet/aspnetcore,C#,9
 70104825,dotnet-architecture/eShopOnContainers,C#,8
-262395224,dotnet/maui,C#,3
+262395224,dotnet/maui,C#,4
 29078997,dotnet/roslyn,C#,4
-375939072,dotnetcore/FastGithub,C#,15
+375939072,dotnetcore/FastGithub,C#,16
 165548191,carlospolop/PEASS-ng,C#,6
-28239455,dotnet/AspNetCore.Docs,C#,4
+28239455,dotnet/AspNetCore.Docs,C#,3
 201188122,rocksdanister/lively,C#,13
-75505125,abpframework/abp,C#,3
+75505125,abpframework/abp,C#,2
 203892454,kgrzybek/modular-monolith-with-ddd,C#,5
 85953,gitextensions/gitextensions,C#,3
 295200728,srwi/EverythingToolbar,C#,11
@@ -16,11 +16,11 @@ id,name,lang,new stars
 187499284,Cysharp/UniTask,C#,3
 337897094,beto-rodriguez/LiveCharts2,C#,6
 185478059,open-telemetry/opentelemetry-dotnet,C#,2
-49533213,mcintyre321/OneOf,C#,17
+49533213,mcintyre321/OneOf,C#,20
 146924413,vletoux/pingcastle,C#,7
-483682564,tylearymf/UniHacker,C#,3
-110156007,UglyToad/PdfPig,C#,9
-209615030,dapr/quickstarts,C#,2
-420055307,LAB02-Research/HASS.Agent,C#,2
-591430510,MortezaBashsiz/CFScanner,C#,32
+483682564,tylearymf/UniHacker,C#,1
+110156007,UglyToad/PdfPig,C#,8
+209615030,dapr/quickstarts,C#,1
+420055307,LAB02-Research/HASS.Agent,C#,3
+591430510,MortezaBashsiz/CFScanner,C#,30
 597102316,Syslifters/offsec-tools,C#,10

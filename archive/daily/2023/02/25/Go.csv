@@ -12,10 +12,10 @@ id,name,lang,new stars
 325724738,pyroscope-io/pyroscope,Go,6
 81497153,kubernetes-sigs/external-dns,Go,5
 94779471,aquasecurity/kube-bench,Go,6
-230660669,aler9/rtsp-simple-server,Go,13
+230660669,aler9/rtsp-simple-server,Go,12
 276822250,kubevela/kubevela,Go,7
 278480393,aws/karpenter,Go,4
-313853293,cloudquery/cloudquery,Go,35
+313853293,cloudquery/cloudquery,Go,46
 573538566,danielgross/whatsapp-gpt,Go,20
 595136650,mjl-/mox,Go,610
 196414933,open-telemetry/opentelemetry-collector-contrib,Go,2
