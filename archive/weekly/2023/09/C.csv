@@ -1,5 +1,5 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,561
+2325298,torvalds/linux,C,564
 156018,redis/redis,C,112
 102578345,coolsnowwolf/lede,C,110
 34921116,iovisor/bcc,C,71
@@ -8,16 +8,16 @@ id,name,lang,new stars
 927442,postgres/postgres,C,61
 1856976,libevent/libevent,C,37
 7408108,RT-Thread/rt-thread,C,43
-14049216,cockpit-project/cockpit,C,33
+14049216,cockpit-project/cockpit,C,32
 5383731,qemu/qemu,C,40
 59771425,zephyrproject-rtos/zephyr,C,46
 108110706,tporadowski/redis,C,52
 2755696,mattn/go-sqlite3,C,20
 130578889,pymumu/smartdns,C,54
 469303019,gojue/ecapture,C,158
-58132544,RediSearch/RediSearch,C,33
+58132544,RediSearch/RediSearch,C,29
 204459250,mit-pdos/xv6-riscv,C,55
-184654298,bytecodealliance/wasm-micro-runtime,C,28
+184654298,bytecodealliance/wasm-micro-runtime,C,29
 82754556,Bodmer/TFT_eSPI,C,29
 200663555,axboe/liburing,C,31
 207354223,FreeRTOS/FreeRTOS-Kernel,C,24
