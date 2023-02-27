@@ -1,15 +1,15 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,335
 5108051,opencv/opencv,C++,196
-65600975,pytorch/pytorch,C++,302
-15634981,godotengine/godot,C++,304
+65600975,pytorch/pytorch,C++,300
+15634981,godotengine/godot,C++,301
 259463685,carbon-language/carbon-lang,C++,117
-39840932,google/googletest,C++,74
-196813750,Light-City/CPlusPlusThings,C++,278
-89247811,CMU-Perceptual-Computing-Lab/openpose,C++,124
+39840932,google/googletest,C++,73
+196813750,Light-City/CPlusPlusThings,C++,279
+89247811,CMU-Perceptual-Computing-Lab/openpose,C++,128
 65711522,PaddlePaddle/Paddle,C++,72
-3351871,qbittorrent/qBittorrent,C++,123
-117948953,Atmosphere-NX/Atmosphere,C++,272
+3351871,qbittorrent/qBittorrent,C++,121
+117948953,Atmosphere-NX/Atmosphere,C++,280
 189205663,qinguoyi/TinyWebServer,C++,162
 153866232,TheCherno/Hazel,C++,46
 19866730,citra-emu/citra,C++,35
@@ -17,7 +17,7 @@ id,name,lang,new stars
 84183882,google/sentencepiece,C++,60
 128479644,esphome/esphome,C++,50
 280608729,UZ-SLAMLab/ORB_SLAM3,C++,28
-81634683,Oneflow-Inc/oneflow,C++,74
+81634683,Oneflow-Inc/oneflow,C++,73
 21179164,qTox/qTox,C++,22
 153097643,openvinotoolkit/openvino,C++,38
 507861208,PaddlePaddle/FastDeploy,C++,46

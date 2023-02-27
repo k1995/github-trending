@@ -4,12 +4,12 @@ id,name,lang,new stars
 1903522,php/php-src,C,2
 3774328,wg/wrk,C,9
 102578345,coolsnowwolf/lede,C,16
-1357796,emscripten-core/emscripten,C,1
+1357796,emscripten-core/emscripten,C,2
 27737393,qmk/qmk_firmware,C,11
 40217904,swaywm/sway,C,10
-394318710,valinet/ExplorerPatcher,C,17
+394318710,valinet/ExplorerPatcher,C,19
 13836499,raysan5/raylib,C,9
-179354282,acidanthera/OpenCorePkg,C,15
+179354282,acidanthera/OpenCorePkg,C,14
 211381291,ExistentialAudio/BlackHole,C,11
 65899476,espressif/esp-idf,C,7
 254327261,sandboxie-plus/Sandboxie,C,8
@@ -17,7 +17,7 @@ id,name,lang,new stars
 88327406,xmrig/xmrig,C,3
 37060852,betaflight/betaflight,C,4
 59676171,Klipper3d/klipper,C,8
-130578889,pymumu/smartdns,C,15
+130578889,pymumu/smartdns,C,11
 490465859,UberGuidoZ/Flipper,C,16
 131710328,CTCaer/hekate,C,8
 151870364,xiaorouji/openwrt-passwall,C,6
