@@ -1,17 +1,17 @@
 id,name,lang,new stars
 60493101,jwasham/coding-interview-university,,2248
-1039520,ytdl-org/youtube-dl,Python,520
-26066727,mermaid-js/mermaid,JavaScript,523
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1418
-307260205,yt-dlp/yt-dlp,Python,1076
+1039520,ytdl-org/youtube-dl,Python,515
+26066727,mermaid-js/mermaid,JavaScript,515
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1369
+307260205,yt-dlp/yt-dlp,Python,1073
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,5089
 196813750,Light-City/CPlusPlusThings,C++,277
-349321229,TencentARC/GFPGAN,Python,306
-422274596,hpcaitech/ColossalAI,Python,2690
+349321229,TencentARC/GFPGAN,Python,305
+422274596,hpcaitech/ColossalAI,Python,2634
 569927055,Stability-AI/stablediffusion,Python,739
-321960447,openai/CLIP,Jupyter Notebook,174
+321960447,openai/CLIP,Jupyter Notebook,172
 440079558,alibaba/lowcode-engine,TypeScript,381
-595893961,lllyasviel/ControlNet,Python,4195
+595893961,lllyasviel/ControlNet,Python,4397
 506861932,nvim-lua/kickstart.nvim,Lua,266
 600798098,Mikubill/sd-webui-controlnet,Python,1401
 601399291,Nutlope/aicommits,TypeScript,691
@@ -19,8 +19,8 @@ id,name,lang,new stars
 529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,225
 591782276,jaymody/picoGPT,Python,738
 576005588,askrella/whatsapp-chatgpt,TypeScript,989
-599394820,Chanzhaoyu/chatgpt-web,Vue,713
+599394820,Chanzhaoyu/chatgpt-web,Vue,632
 549830413,civitai/civitai,TypeScript,512
 601479334,shyamsn97/mario-gpt,Python,254
-589831718,comfyanonymous/ComfyUI,Python,155
-574802380,civitai/sd_civitai_extension,Python,168
+589831718,comfyanonymous/ComfyUI,Python,149
+574802380,civitai/sd_civitai_extension,Python,167

@@ -1,10 +1,10 @@
 id,name,lang,new stars
-1181927,bitcoin/bitcoin,C++,16
+1181927,bitcoin/bitcoin,C++,18
 15634981,godotengine/godot,C++,37
-22067521,ocornut/imgui,C++,30
+22067521,ocornut/imgui,C++,34
 259463685,carbon-language/carbon-lang,C++,16
-63477612,TheAlgorithms/C-Plus-Plus,C++,16
-40892817,ethereum/solidity,C++,6
+63477612,TheAlgorithms/C-Plus-Plus,C++,15
+40892817,ethereum/solidity,C++,5
 197275130,microsoft/winget-cli,C++,11
 2200856,MarlinFirmware/Marlin,C++,7
 17391973,Tencent/rapidjson,C++,3
@@ -17,9 +17,9 @@ id,name,lang,new stars
 19866730,citra-emu/citra,C++,5
 1204412,TrinityCore/TrinityCore,C++,1
 143324737,diasurgical/devilutionX,C++,5
-280608729,UZ-SLAMLab/ORB_SLAM3,C++,5
+280608729,UZ-SLAMLab/ORB_SLAM3,C++,6
 477407390,MicroCBer/BetterNCM,C++,19
-438803890,LizardByte/Sunshine,C++,27
+438803890,LizardByte/Sunshine,C++,25
 517990,DFHack/dfhack,C++,1
 450854006,mriscoc/Ender3V2S1,C++,3
 415927371,NootInc/WhateverRed,C++,17
