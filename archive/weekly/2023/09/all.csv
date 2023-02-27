@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,2074
-1039520,ytdl-org/youtube-dl,Python,502
-26066727,mermaid-js/mermaid,JavaScript,525
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1421
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4796
-27442967,fastlane/fastlane,Ruby,153
-349321229,TencentARC/GFPGAN,Python,301
-422274596,hpcaitech/ColossalAI,Python,2589
-569927055,Stability-AI/stablediffusion,Python,771
-321960447,openai/CLIP,Jupyter Notebook,174
-440079558,alibaba/lowcode-engine,TypeScript,347
-595893961,lllyasviel/ControlNet,Python,4196
-156627365,itwanger/toBeBetterJavaer,Java,436
-332880689,coollabsio/coolify,Svelte,757
-506861932,nvim-lua/kickstart.nvim,Lua,259
-600798098,Mikubill/sd-webui-controlnet,Python,1388
-596424141,amazon-science/mm-cot,Python,1827
-529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,228
-591782276,jaymody/picoGPT,Python,803
-576005588,askrella/whatsapp-chatgpt,TypeScript,942
-599394820,Chanzhaoyu/chatgpt-web,Vue,801
-549830413,civitai/civitai,TypeScript,507
-601479334,shyamsn97/mario-gpt,Python,272
-589831718,comfyanonymous/ComfyUI,Python,156
-574802380,civitai/sd_civitai_extension,Python,165
+60493101,jwasham/coding-interview-university,,2079
+1039520,ytdl-org/youtube-dl,Python,514
+26066727,mermaid-js/mermaid,JavaScript,524
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1346
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4751
+27442967,fastlane/fastlane,Ruby,147
+349321229,TencentARC/GFPGAN,Python,312
+422274596,hpcaitech/ColossalAI,Python,2690
+569927055,Stability-AI/stablediffusion,Python,756
+321960447,openai/CLIP,Jupyter Notebook,170
+440079558,alibaba/lowcode-engine,TypeScript,345
+595893961,lllyasviel/ControlNet,Python,3998
+156627365,itwanger/toBeBetterJavaer,Java,428
+332880689,coollabsio/coolify,Svelte,629
+506861932,nvim-lua/kickstart.nvim,Lua,236
+600798098,Mikubill/sd-webui-controlnet,Python,1405
+596424141,amazon-science/mm-cot,Python,1852
+529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,230
+591782276,jaymody/picoGPT,Python,744
+576005588,askrella/whatsapp-chatgpt,TypeScript,834
+599394820,Chanzhaoyu/chatgpt-web,Vue,746
+549830413,civitai/civitai,TypeScript,491
+601479334,shyamsn97/mario-gpt,Python,216
+589831718,comfyanonymous/ComfyUI,Python,152
+574802380,civitai/sd_civitai_extension,Python,157
