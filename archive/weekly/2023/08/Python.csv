@@ -6,7 +6,7 @@ id,name,lang,new stars
 349321229,TencentARC/GFPGAN,Python,310
 422274596,hpcaitech/ColossalAI,Python,3149
 569927055,Stability-AI/stablediffusion,Python,706
-498011141,huggingface/diffusers,Python,504
+498011141,huggingface/diffusers,Python,507
 235860204,microsoft/DeepSpeed,Python,177
 595893961,lllyasviel/ControlNet,Python,4503
 524871042,microsoft/BioGPT,Python,856
@@ -14,7 +14,7 @@ id,name,lang,new stars
 596424141,amazon-science/mm-cot,Python,1809
 591782276,jaymody/picoGPT,Python,888
 574506496,lss233/chatgpt-mirai-qq-bot,Python,441
-357492304,Free-TV/IPTV,Python,201
+357492304,Free-TV/IPTV,Python,198
 577753426,microsoft/LMOps,Python,378
 601479334,shyamsn97/mario-gpt,Python,294
 559584476,bmaltais/kohya_ss,Python,235

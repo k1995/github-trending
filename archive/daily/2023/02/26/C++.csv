@@ -1,16 +1,16 @@
 id,name,lang,new stars
 1181927,bitcoin/bitcoin,C++,21
 15634981,godotengine/godot,C++,41
-22067521,ocornut/imgui,C++,19
+22067521,ocornut/imgui,C++,23
 259463685,carbon-language/carbon-lang,C++,16
-63477612,TheAlgorithms/C-Plus-Plus,C++,17
-40892817,ethereum/solidity,C++,13
+63477612,TheAlgorithms/C-Plus-Plus,C++,16
+40892817,ethereum/solidity,C++,7
 197275130,microsoft/winget-cli,C++,9
-2200856,MarlinFirmware/Marlin,C++,3
+2200856,MarlinFirmware/Marlin,C++,5
 17391973,Tencent/rapidjson,C++,5
 194269070,skyline-emu/skyline,C++,11
-18348651,OpenRCT2/OpenRCT2,C++,6
-76990209,Aircoookie/WLED,C++,7
+18348651,OpenRCT2/OpenRCT2,C++,4
+76990209,Aircoookie/WLED,C++,5
 117948953,Atmosphere-NX/Atmosphere,C++,17
 299510783,rui314/mold,C++,5
 4454793,musescore/MuseScore,C++,11
@@ -19,7 +19,7 @@ id,name,lang,new stars
 143324737,diasurgical/devilutionX,C++,5
 280608729,UZ-SLAMLab/ORB_SLAM3,C++,4
 477407390,MicroCBer/BetterNCM,C++,33
-438803890,LizardByte/Sunshine,C++,21
+438803890,LizardByte/Sunshine,C++,23
 517990,DFHack/dfhack,C++,2
 450854006,mriscoc/Ender3V2S1,C++,4
 415927371,NootInc/WhateverRed,C++,15

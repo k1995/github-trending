@@ -1,13 +1,13 @@
 id,name,lang,new stars
 51980455,alacritty/alacritty,Rust,28
 53631945,BurntSushi/ripgrep,Rust,28
-178991158,starship/starship,Rust,41
+178991158,starship/starship,Rust,39
 120425779,lapce/lapce,Rust,24
 186024298,nushell/nushell,Rust,78
 20060596,ogham/exa,Rust,27
-268424739,helix-editor/helix,Rust,39
+268424739,helix-editor/helix,Rust,35
 152572186,wasmerio/wasmer,Rust,7
-11847500,uutils/coreutils,Rust,24
+11847500,uutils/coreutils,Rust,27
 7270538,ankitects/anki,Rust,12
 183483988,ruffle-rs/ruffle,Rust,3
 292014229,zellij-org/zellij,Rust,42
@@ -23,4 +23,4 @@ id,name,lang,new stars
 426075845,MystenLabs/sui,Rust,10
 579990612,AmbientRun/Ambient,Rust,364
 567995175,mikedilger/gossip,Rust,1
-563266322,rust-nostr/nostr,Rust,1
+563266322,rust-nostr/nostr,Rust,4

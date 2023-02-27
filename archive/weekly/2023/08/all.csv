@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,2547
-1039520,ytdl-org/youtube-dl,Python,657
-26066727,mermaid-js/mermaid,JavaScript,498
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1415
-307260205,yt-dlp/yt-dlp,Python,1170
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,5183
-196813750,Light-City/CPlusPlusThings,C++,269
+60493101,jwasham/coding-interview-university,,2529
+1039520,ytdl-org/youtube-dl,Python,595
+26066727,mermaid-js/mermaid,JavaScript,515
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1420
+307260205,yt-dlp/yt-dlp,Python,1137
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,5124
+196813750,Light-City/CPlusPlusThings,C++,272
 349321229,TencentARC/GFPGAN,Python,310
-422274596,hpcaitech/ColossalAI,Python,3149
-569927055,Stability-AI/stablediffusion,Python,706
-321960447,openai/CLIP,Jupyter Notebook,160
-440079558,alibaba/lowcode-engine,TypeScript,386
-595893961,lllyasviel/ControlNet,Python,4503
-506861932,nvim-lua/kickstart.nvim,Lua,309
-600798098,Mikubill/sd-webui-controlnet,Python,1507
-601399291,Nutlope/aicommits,TypeScript,736
-596424141,amazon-science/mm-cot,Python,1809
-529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,224
-591782276,jaymody/picoGPT,Python,888
-576005588,askrella/whatsapp-chatgpt,TypeScript,1204
-549830413,civitai/civitai,TypeScript,529
-599394820,Chanzhaoyu/chatgpt-web,Vue,570
-601479334,shyamsn97/mario-gpt,Python,294
-589831718,comfyanonymous/ComfyUI,Python,154
-574802380,civitai/sd_civitai_extension,Python,170
+422274596,hpcaitech/ColossalAI,Python,3082
+569927055,Stability-AI/stablediffusion,Python,734
+321960447,openai/CLIP,Jupyter Notebook,169
+440079558,alibaba/lowcode-engine,TypeScript,381
+595893961,lllyasviel/ControlNet,Python,4338
+506861932,nvim-lua/kickstart.nvim,Lua,265
+600798098,Mikubill/sd-webui-controlnet,Python,1454
+601399291,Nutlope/aicommits,TypeScript,692
+596424141,amazon-science/mm-cot,Python,1823
+529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,227
+591782276,jaymody/picoGPT,Python,799
+576005588,askrella/whatsapp-chatgpt,TypeScript,1073
+549830413,civitai/civitai,TypeScript,508
+599394820,Chanzhaoyu/chatgpt-web,Vue,649
+601479334,shyamsn97/mario-gpt,Python,288
+589831718,comfyanonymous/ComfyUI,Python,152
+574802380,civitai/sd_civitai_extension,Python,165

@@ -2,8 +2,8 @@ id,name,lang,new stars
 1863329,laravel/laravel,PHP,129
 3482588,danielmiessler/SecLists,PHP,148
 7548986,laravel/framework,PHP,58
-1864363,composer/composer,PHP,39
-60243197,nextcloud/server,PHP,72
+1864363,composer/composer,PHP,38
+60243197,nextcloud/server,PHP,70
 1631570,nikic/PHP-Parser,PHP,26
 22553797,getgrav/grav,PHP,19
 14259390,SpartnerNL/Laravel-Excel,PHP,12
@@ -19,7 +19,7 @@ id,name,lang,new stars
 74386167,vimeo/psalm,PHP,13
 159606650,hyperf/hyperf,PHP,16
 286645686,yuantuo666/baiduwp-php,PHP,134
-22751672,tecnickcom/TCPDF,PHP,8
+22751672,tecnickcom/TCPDF,PHP,9
 291805291,laravel/jetstream,PHP,13
 38200433,jeroennoten/Laravel-AdminLTE,PHP,18
 71485542,kimai/kimai,PHP,14
