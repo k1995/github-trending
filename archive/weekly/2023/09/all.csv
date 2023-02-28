@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,1975
-1039520,ytdl-org/youtube-dl,Python,466
+60493101,jwasham/coding-interview-university,,1793
+1039520,ytdl-org/youtube-dl,Python,415
 26066727,mermaid-js/mermaid,JavaScript,527
 523379232,CompVis/stable-diffusion,Jupyter Notebook,1339
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4652
 27442967,fastlane/fastlane,Ruby,151
-349321229,TencentARC/GFPGAN,Python,259
-422274596,hpcaitech/ColossalAI,Python,2527
+349321229,TencentARC/GFPGAN,Python,226
+422274596,hpcaitech/ColossalAI,Python,2376
 569927055,Stability-AI/stablediffusion,Python,774
-321960447,openai/CLIP,Jupyter Notebook,181
+321960447,openai/CLIP,Jupyter Notebook,185
 440079558,alibaba/lowcode-engine,TypeScript,348
 595893961,lllyasviel/ControlNet,Python,4035
 156627365,itwanger/toBeBetterJavaer,Java,442
 332880689,coollabsio/coolify,Svelte,634
 506861932,nvim-lua/kickstart.nvim,Lua,238
-600798098,Mikubill/sd-webui-controlnet,Python,1386
+600798098,Mikubill/sd-webui-controlnet,Python,1335
 596424141,amazon-science/mm-cot,Python,1850
 529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,239
-591782276,jaymody/picoGPT,Python,588
+591782276,jaymody/picoGPT,Python,444
 576005588,askrella/whatsapp-chatgpt,TypeScript,749
 599394820,Chanzhaoyu/chatgpt-web,Vue,804
 549830413,civitai/civitai,TypeScript,493
 601479334,shyamsn97/mario-gpt,Python,205
 589831718,comfyanonymous/ComfyUI,Python,152
-574802380,civitai/sd_civitai_extension,Python,161
+574802380,civitai/sd_civitai_extension,Python,146

@@ -1,20 +1,20 @@
 id,name,lang,new stars
-724712,rust-lang/rust,Rust,50
-178991158,starship/starship,Rust,46
-120425779,lapce/lapce,Rust,55
+724712,rust-lang/rust,Rust,54
+178991158,starship/starship,Rust,37
+120425779,lapce/lapce,Rust,53
 186024298,nushell/nushell,Rust,85
 121898717,dani-garcia/vaultwarden,Rust,27
 234798675,bevyengine/bevy,Rust,29
 268424739,helix-editor/helix,Rust,44
-11847500,uutils/coreutils,Rust,23
+11847500,uutils/coreutils,Rust,22
 165522651,emilk/egui,Rust,17
 183483988,ruffle-rs/ruffle,Rust,7
 75688610,getzola/zola,Rust,24
-73169350,fdehau/tui-rs,Rust,10
-580836813,google/comprehensive-rust,Rust,92
-278933035,RustScan/RustScan,Rust,32
-372172254,tokio-rs/axum,Rust,26
-120568143,wez/wezterm,Rust,20
+73169350,fdehau/tui-rs,Rust,8
+580836813,google/comprehensive-rust,Rust,94
+278933035,RustScan/RustScan,Rust,27
+372172254,tokio-rs/axum,Rust,23
+120568143,wez/wezterm,Rust,19
 296943592,elkowar/eww,Rust,19
 268163609,qdrant/qdrant,Rust,55
 519895363,GyulyVGC/sniffnet,Rust,27
@@ -22,5 +22,5 @@ id,name,lang,new stars
 579990612,AmbientRun/Ambient,Rust,323
 586920414,jdxcode/rtx,Rust,102
 502388309,maximecb/uvm,Rust,37
-481294615,janhohenheim/foxtrot,Rust,9
+481294615,janhohenheim/foxtrot,Rust,10
 592876361,tsoding/seroost,Rust,14
