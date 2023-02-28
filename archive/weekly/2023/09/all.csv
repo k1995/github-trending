@@ -1,26 +1,26 @@
 id,name,lang,new stars
-60493101,jwasham/coding-interview-university,,2065
+60493101,jwasham/coding-interview-university,,1975
 1039520,ytdl-org/youtube-dl,Python,493
-26066727,mermaid-js/mermaid,JavaScript,533
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1332
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4706
-27442967,fastlane/fastlane,Ruby,149
-349321229,TencentARC/GFPGAN,Python,260
+26066727,mermaid-js/mermaid,JavaScript,534
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1343
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4708
+27442967,fastlane/fastlane,Ruby,147
+349321229,TencentARC/GFPGAN,Python,285
 422274596,hpcaitech/ColossalAI,Python,2536
 569927055,Stability-AI/stablediffusion,Python,756
-321960447,openai/CLIP,Jupyter Notebook,181
+321960447,openai/CLIP,Jupyter Notebook,180
 440079558,alibaba/lowcode-engine,TypeScript,340
-595893961,lllyasviel/ControlNet,Python,3974
+595893961,lllyasviel/ControlNet,Python,3973
 156627365,itwanger/toBeBetterJavaer,Java,442
 332880689,coollabsio/coolify,Svelte,613
 506861932,nvim-lua/kickstart.nvim,Lua,231
-600798098,Mikubill/sd-webui-controlnet,Python,1392
-596424141,amazon-science/mm-cot,Python,1850
-529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,241
-591782276,jaymody/picoGPT,Python,621
-576005588,askrella/whatsapp-chatgpt,TypeScript,748
-599394820,Chanzhaoyu/chatgpt-web,Vue,823
-549830413,civitai/civitai,TypeScript,509
+600798098,Mikubill/sd-webui-controlnet,Python,1386
+596424141,amazon-science/mm-cot,Python,1861
+529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,240
+591782276,jaymody/picoGPT,Python,664
+576005588,askrella/whatsapp-chatgpt,TypeScript,836
+599394820,Chanzhaoyu/chatgpt-web,Vue,826
+549830413,civitai/civitai,TypeScript,491
 601479334,shyamsn97/mario-gpt,Python,205
-589831718,comfyanonymous/ComfyUI,Python,155
-574802380,civitai/sd_civitai_extension,Python,161
+589831718,comfyanonymous/ComfyUI,Python,153
+574802380,civitai/sd_civitai_extension,Python,160
