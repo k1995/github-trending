@@ -1,26 +1,26 @@
 id,name,lang,new stars
 60493101,jwasham/coding-interview-university,,1975
-1039520,ytdl-org/youtube-dl,Python,493
-26066727,mermaid-js/mermaid,JavaScript,534
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1343
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4708
-27442967,fastlane/fastlane,Ruby,147
-349321229,TencentARC/GFPGAN,Python,285
-422274596,hpcaitech/ColossalAI,Python,2536
-569927055,Stability-AI/stablediffusion,Python,756
-321960447,openai/CLIP,Jupyter Notebook,180
-440079558,alibaba/lowcode-engine,TypeScript,340
-595893961,lllyasviel/ControlNet,Python,3973
+1039520,ytdl-org/youtube-dl,Python,466
+26066727,mermaid-js/mermaid,JavaScript,527
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1339
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4652
+27442967,fastlane/fastlane,Ruby,151
+349321229,TencentARC/GFPGAN,Python,259
+422274596,hpcaitech/ColossalAI,Python,2527
+569927055,Stability-AI/stablediffusion,Python,774
+321960447,openai/CLIP,Jupyter Notebook,181
+440079558,alibaba/lowcode-engine,TypeScript,348
+595893961,lllyasviel/ControlNet,Python,4035
 156627365,itwanger/toBeBetterJavaer,Java,442
-332880689,coollabsio/coolify,Svelte,613
-506861932,nvim-lua/kickstart.nvim,Lua,231
+332880689,coollabsio/coolify,Svelte,634
+506861932,nvim-lua/kickstart.nvim,Lua,238
 600798098,Mikubill/sd-webui-controlnet,Python,1386
-596424141,amazon-science/mm-cot,Python,1861
-529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,240
-591782276,jaymody/picoGPT,Python,664
-576005588,askrella/whatsapp-chatgpt,TypeScript,836
-599394820,Chanzhaoyu/chatgpt-web,Vue,826
-549830413,civitai/civitai,TypeScript,491
+596424141,amazon-science/mm-cot,Python,1850
+529560594,AbdBarho/stable-diffusion-webui-docker,Dockerfile,239
+591782276,jaymody/picoGPT,Python,588
+576005588,askrella/whatsapp-chatgpt,TypeScript,749
+599394820,Chanzhaoyu/chatgpt-web,Vue,804
+549830413,civitai/civitai,TypeScript,493
 601479334,shyamsn97/mario-gpt,Python,205
-589831718,comfyanonymous/ComfyUI,Python,153
-574802380,civitai/sd_civitai_extension,Python,160
+589831718,comfyanonymous/ComfyUI,Python,152
+574802380,civitai/sd_civitai_extension,Python,161
