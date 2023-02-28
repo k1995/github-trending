@@ -1,5 +1,5 @@
 id,name,lang,new stars
-20904437,gin-gonic/gin,Go,44
+20904437,gin-gonic/gin,Go,45
 14125254,hashicorp/consul,Go,9
 12080551,tsenart/vegeta,Go,24
 6247705,stretchr/testify,Go,9
@@ -16,11 +16,11 @@ id,name,lang,new stars
 313853293,cloudquery/cloudquery,Go,60
 39468142,klauspost/compress,Go,3
 527578222,komodorio/helm-dashboard,Go,42
-238797860,ethereum-optimism/optimism,Go,387
+238797860,ethereum-optimism/optimism,Go,515
 57912964,kubernetes/enhancements,Go,3
-586427117,amitshekhariitbhu/go-backend-clean-architecture,Go,39
+586427117,amitshekhariitbhu/go-backend-clean-architecture,Go,40
 133725375,WireGuard/wireguard-go,Go,4
 210268863,EndlessCheng/codeforces-go,Go,22
 552635490,OwO-Network/DeepLX,Go,129
-600956816,4ra1n/CVE-2023-21839,Go,62
+600956816,4ra1n/CVE-2023-21839,Go,58
 594557278,ssleert/zfxtop,Go,27
