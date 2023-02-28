@@ -1,8 +1,8 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,23
+3482588,danielmiessler/SecLists,PHP,24
 60243197,nextcloud/server,PHP,8
-1548202,matomo-org/matomo,PHP,4
-2889328,WordPress/WordPress,PHP,5
+1548202,matomo-org/matomo,PHP,5
+2889328,WordPress/WordPress,PHP,6
 47495360,koel/koel,PHP,8
 41589337,BookStackApp/BookStack,PHP,6
 2699935,squizlabs/PHP_CodeSniffer,PHP,1
@@ -10,17 +10,17 @@ id,name,lang,new stars
 622166,FriendsOfPHP/Goutte,PHP,1
 6763587,PrestaShop/PrestaShop,PHP,1
 95011974,akaunting/akaunting,PHP,10
-6322699,FreshRSS/FreshRSS,PHP,6
+6322699,FreshRSS/FreshRSS,PHP,8
 119047018,linuxserver/Heimdall,PHP,11
 148129143,bagisto/bagisto,PHP,26
 47508644,pterodactyl/panel,PHP,8
 77574863,causefx/Organizr,PHP,2
 129852395,assimon/dujiaoka,PHP,13
-286645686,yuantuo666/baiduwp-php,PHP,33
+286645686,yuantuo666/baiduwp-php,PHP,35
 69691727,pmmp/PocketMine-MP,PHP,3
 415122668,Sammyjo20/Saloon,PHP,19
 24459441,espocrm/espocrm,PHP,2
 345315720,swagkarna/Rafel-Rat,PHP,1
 184538454,yankovalenko94/Webdev2019,PHP,0
 600413975,mchev/banhammer,PHP,23
-605458101,spatie/laravel-notification-log,PHP,8
+605458101,spatie/laravel-notification-log,PHP,7

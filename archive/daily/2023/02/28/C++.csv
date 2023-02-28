@@ -1,12 +1,12 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,49
 100060912,microsoft/terminal,C++,24
-1181927,bitcoin/bitcoin,C++,23
-15634981,godotengine/godot,C++,53
-22067521,ocornut/imgui,C++,35
+1181927,bitcoin/bitcoin,C++,25
+15634981,godotengine/godot,C++,52
+22067521,ocornut/imgui,C++,34
 116167731,yuzu-emu/yuzu,C++,15
-160083795,SerenityOS/serenity,C++,15
-3351871,qbittorrent/qBittorrent,C++,22
+160083795,SerenityOS/serenity,C++,16
+3351871,qbittorrent/qBittorrent,C++,19
 437245741,dragonflydb/dragonfly,C++,12
 1217614,xbmc/xbmc,C++,5
 2200856,MarlinFirmware/Marlin,C++,9
@@ -16,11 +16,11 @@ id,name,lang,new stars
 4454793,musescore/MuseScore,C++,10
 1524684,SFML/SFML,C++,9
 6486826,hrydgard/ppsspp,C++,18
-20976138,official-stockfish/Stockfish,C++,7
+20976138,official-stockfish/Stockfish,C++,6
 52882701,prusa3d/PrusaSlicer,C++,10
 477407390,MicroCBer/BetterNCM,C++,19
-438803890,LizardByte/Sunshine,C++,28
-95712614,Xaymar/obs-StreamFX,C++,15
+438803890,LizardByte/Sunshine,C++,29
+95712614,Xaymar/obs-StreamFX,C++,17
 488874661,SerenityOS/jakt,C++,4
-537996647,hasherezade/pe-bear,C++,5
+537996647,hasherezade/pe-bear,C++,6
 415927371,NootInc/WhateverRed,C++,14

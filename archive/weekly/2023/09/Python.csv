@@ -1,7 +1,7 @@
 id,name,lang,new stars
 21289110,vinta/awesome-python,Python,1060
 1039520,ytdl-org/youtube-dl,Python,466
-307260205,yt-dlp/yt-dlp,Python,1012
+307260205,yt-dlp/yt-dlp,Python,994
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4652
 349321229,TencentARC/GFPGAN,Python,259
 422274596,hpcaitech/ColossalAI,Python,2527
@@ -12,8 +12,8 @@ id,name,lang,new stars
 524871042,microsoft/BioGPT,Python,926
 596424141,amazon-science/mm-cot,Python,1850
 591782276,jaymody/picoGPT,Python,588
-357492304,Free-TV/IPTV,Python,94
-598277623,dunbar12138/pix2pix3D,Python,568
+357492304,Free-TV/IPTV,Python,72
+598277623,dunbar12138/pix2pix3D,Python,554
 570384908,huggingface/peft,Python,196
 559584476,bmaltais/kohya_ss,Python,254
 601479334,shyamsn97/mario-gpt,Python,205
