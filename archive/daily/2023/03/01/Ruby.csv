@@ -1,10 +1,10 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,10
-8681349,huginn/huginn,Ruby,16
-27442967,fastlane/fastlane,Ruby,20
-481872,hashicorp/vagrant,Ruby,2
+8514,rails/rails,Ruby,9
+8681349,huginn/huginn,Ruby,15
+27442967,fastlane/fastlane,Ruby,21
+481872,hashicorp/vagrant,Ruby,3
 2500088,gitlabhq/gitlabhq,Ruby,1
-308770,heartcombo/devise,Ruby,4
+308770,heartcombo/devise,Ruby,3
 2203645,CocoaPods/CocoaPods,Ruby,4
 3195124,sidekiq/sidekiq,Ruby,5
 4095287,rubocop/rubocop,Ruby,2
@@ -12,15 +12,15 @@ id,name,lang,new stars
 15435,Shopify/liquid,Ruby,4
 611921,activeadmin/activeadmin,Ruby,1
 4994614,wpscanteam/wpscan,Ruby,1
-2441517,puma/puma,Ruby,3
+2441517,puma/puma,Ruby,4
 30337170,rmosolgo/graphql-ruby,Ruby,1
 1734,aasm/aasm,Ruby,0
-103766152,github/explore,Ruby,2
+103766152,github/explore,Ruby,5
 93163073,dependabot/dependabot-core,Ruby,2
 1643676,lukes/ISO-3166-Countries-with-Regional-Codes,Ruby,0
 12357002,sidekiq-cron/sidekiq-cron,Ruby,1
 238986,rspec/rspec-expectations,Ruby,1
 238983,rspec/rspec-mocks,Ruby,1
 323724010,nickjj/docker-rails-example,Ruby,1
-494590698,seeu-inspace/easyg,Ruby,28
-604354578,oldmoe/litestack,Ruby,14
+494590698,seeu-inspace/easyg,Ruby,27
+604354578,oldmoe/litestack,Ruby,16
