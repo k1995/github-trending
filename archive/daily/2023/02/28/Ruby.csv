@@ -1,12 +1,12 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,7
 8681349,huginn/huginn,Ruby,60
-27442967,fastlane/fastlane,Ruby,16
-481872,hashicorp/vagrant,Ruby,2
+27442967,fastlane/fastlane,Ruby,15
+481872,hashicorp/vagrant,Ruby,3
 2500088,gitlabhq/gitlabhq,Ruby,1
 308770,heartcombo/devise,Ruby,5
 2203645,CocoaPods/CocoaPods,Ruby,0
-3195124,sidekiq/sidekiq,Ruby,7
+3195124,sidekiq/sidekiq,Ruby,5
 4095287,rubocop/rubocop,Ruby,2
 3314,spree/spree,Ruby,1
 15435,Shopify/liquid,Ruby,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 238983,rspec/rspec-mocks,Ruby,1
 323724010,nickjj/docker-rails-example,Ruby,2
 494590698,seeu-inspace/easyg,Ruby,7
-604354578,oldmoe/litestack,Ruby,19
+604354578,oldmoe/litestack,Ruby,15

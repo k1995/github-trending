@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,78
+2325298,torvalds/linux,C,82
 569041,curl/curl,C,13
 18666758,pjreddie/darknet,C,7
 7634677,openssl/openssl,C,13
 196353673,taosdata/TDengine,C,3
-63477515,TheAlgorithms/C,C,14
+63477515,TheAlgorithms/C,C,12
 5254557,cloudwu/skynet,C,4
 613829,openresty/lua-nginx-module,C,3
-3319040,id-Software/DOOM,C,5
+3319040,id-Software/DOOM,C,7
 105944401,yugabyte/yugabyte-db,C,1
 5383731,qemu/qemu,C,3
-59676171,Klipper3d/klipper,C,5
+59676171,Klipper3d/klipper,C,6
 469303019,gojue/ecapture,C,54
 130578889,pymumu/smartdns,C,14
 284134871,flipperdevices/flipperzero-firmware,C,8
@@ -21,6 +21,6 @@ id,name,lang,new stars
 15768646,vedderb/bldc,C,0
 295432590,blackarrowsec/redteam-research,C,8
 398251321,PCRE2Project/pcre2,C,2
-606837082,NUL0x4C/AtomLdr,C,68
+606837082,NUL0x4C/AtomLdr,C,59
 606608550,realoriginal/bootlicker,C,37
 507678095,BrightDaniel/alx-low_level_programming,C,2

@@ -1,26 +1,26 @@
 id,name,lang,new stars
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,11754
-307260205,yt-dlp/yt-dlp,Python,3038
-130688011,meilisearch/meilisearch,Rust,1957
-574523116,f/awesome-chatgpt-prompts,HTML,15145
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,11770
+307260205,yt-dlp/yt-dlp,Python,3044
+130688011,meilisearch/meilisearch,Rust,1958
+574523116,f/awesome-chatgpt-prompts,HTML,15147
 11481338,zloirock/core-js,JavaScript,3674
 323965659,alist-org/alist,Go,4009
-573819845,acheong08/ChatGPT,Python,9154
-575340621,lencx/ChatGPT,Rust,11909
-577603990,LAION-AI/Open-Assistant,Python,12074
-170067246,openai/gpt-2,Python,1035
-422274596,hpcaitech/ColossalAI,Python,9026
-591273534,fathyb/carbonyl,Rust,10092
-440079558,alibaba/lowcode-engine,TypeScript,1668
-573631261,transitive-bullshit/chatgpt-api,TypeScript,3873
-436297812,usememos/memos,TypeScript,3584
-552661142,hwchase17/langchain,Python,3616
-578822531,localsend/localsend,Dart,6878
-525683737,apitable/apitable,TypeScript,5201
-534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1886
-77326607,misskey-dev/misskey,TypeScript,902
-523544748,snesrev/zelda3,C,2211
+573819845,acheong08/ChatGPT,Python,9156
+575340621,lencx/ChatGPT,Rust,11910
+577603990,LAION-AI/Open-Assistant,Python,12069
+170067246,openai/gpt-2,Python,1034
+422274596,hpcaitech/ColossalAI,Python,9028
+591273534,fathyb/carbonyl,Rust,10011
+440079558,alibaba/lowcode-engine,TypeScript,1669
+573631261,transitive-bullshit/chatgpt-api,TypeScript,3872
+436297812,usememos/memos,TypeScript,3612
+552661142,hwchase17/langchain,Python,3618
+578822531,localsend/localsend,Dart,6860
+525683737,apitable/apitable,TypeScript,5203
+534397970,karpathy/nn-zero-to-hero,Jupyter Notebook,1870
+77326607,misskey-dev/misskey,TypeScript,904
+523544748,snesrev/zelda3,C,2213
 574600955,AutumnWhj/ChatGPT-wechat-bot,TypeScript,1695
 438514144,wangrongding/wechat-bot,JavaScript,1363
 477198595,damus-io/damus,Swift,1343
-487510752,nostr-protocol/nips,,681
+487510752,nostr-protocol/nips,,682
