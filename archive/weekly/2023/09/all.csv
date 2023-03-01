@@ -1,26 +1,26 @@
 id,name,lang,new stars
 36633370,awesome-selfhosted/awesome-selfhosted,Makefile,1660
-1039520,ytdl-org/youtube-dl,Python,362
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1213
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4157
+1039520,ytdl-org/youtube-dl,Python,361
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1212
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4153
 27442967,fastlane/fastlane,Ruby,174
-169677297,vlang/v,V,847
-43160685,zulip/zulip,Python,127
-422274596,hpcaitech/ColossalAI,Python,2007
-569927055,Stability-AI/stablediffusion,Python,725
-595893961,lllyasviel/ControlNet,Python,3199
+169677297,vlang/v,V,868
+43160685,zulip/zulip,Python,128
+422274596,hpcaitech/ColossalAI,Python,1976
+569927055,Stability-AI/stablediffusion,Python,727
+595893961,lllyasviel/ControlNet,Python,3242
 455229168,immich-app/immich,Dart,1353
-601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,4797
-99919302,apache/doris,Java,139
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,4548
+99919302,apache/doris,Java,146
 156627365,itwanger/toBeBetterJavaer,Java,506
-602270517,FMInference/FlexGen,Python,2093
-600798098,Mikubill/sd-webui-controlnet,Python,1186
-596424141,amazon-science/mm-cot,Python,1314
-599394820,Chanzhaoyu/chatgpt-web,Vue,1255
-549830413,civitai/civitai,TypeScript,512
-578685027,godly-devotion/MochiDiffusion,Swift,390
-601313570,replicate/scribble-diffusion,JavaScript,461
-559584476,bmaltais/kohya_ss,Python,288
+602270517,FMInference/FlexGen,Python,2050
+600798098,Mikubill/sd-webui-controlnet,Python,1182
+596424141,amazon-science/mm-cot,Python,1279
+599394820,Chanzhaoyu/chatgpt-web,Vue,1260
+549830413,civitai/civitai,TypeScript,510
+578685027,godly-devotion/MochiDiffusion,Swift,386
+601313570,replicate/scribble-diffusion,JavaScript,445
+559584476,bmaltais/kohya_ss,Python,289
 598342280,hwchase17/langchainjs,TypeScript,200
 580642043,oobabooga/text-generation-webui,Python,192
-574802380,civitai/sd_civitai_extension,Python,149
+574802380,civitai/sd_civitai_extension,Python,154
