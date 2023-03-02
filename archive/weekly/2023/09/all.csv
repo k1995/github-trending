@@ -1,26 +1,26 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2197
-1039520,ytdl-org/youtube-dl,Python,359
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1218
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4101
+36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2241
+1039520,ytdl-org/youtube-dl,Python,360
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1201
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4167
 27442967,fastlane/fastlane,Ruby,183
-169677297,vlang/v,V,928
-43160685,zulip/zulip,Python,137
-422274596,hpcaitech/ColossalAI,Python,1753
-569927055,Stability-AI/stablediffusion,Python,722
-595893961,lllyasviel/ControlNet,Python,3128
-455229168,immich-app/immich,Dart,1383
-601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,3277
-99919302,apache/doris,Java,199
-156627365,itwanger/toBeBetterJavaer,Java,504
-602270517,FMInference/FlexGen,Python,1663
-600798098,Mikubill/sd-webui-controlnet,Python,1137
-596424141,amazon-science/mm-cot,Python,830
-599394820,Chanzhaoyu/chatgpt-web,Vue,1499
-549830413,civitai/civitai,TypeScript,524
-578685027,godly-devotion/MochiDiffusion,Swift,344
-601313570,replicate/scribble-diffusion,JavaScript,379
-559584476,bmaltais/kohya_ss,Python,300
-598342280,hwchase17/langchainjs,TypeScript,192
-580642043,oobabooga/text-generation-webui,Python,193
-574802380,civitai/sd_civitai_extension,Python,174
+169677297,vlang/v,V,952
+43160685,zulip/zulip,Python,127
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,4187
+595893961,lllyasviel/ControlNet,Python,3114
+455229168,immich-app/immich,Dart,1354
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,2992
+99919302,apache/doris,Java,207
+156627365,itwanger/toBeBetterJavaer,Java,497
+602270517,FMInference/FlexGen,Python,1605
+313853293,cloudquery/cloudquery,Go,519
+600798098,Mikubill/sd-webui-controlnet,Python,1128
+596424141,amazon-science/mm-cot,Python,781
+599394820,Chanzhaoyu/chatgpt-web,Vue,1583
+586265895,mrsked/mrsk,Ruby,1202
+549830413,civitai/civitai,TypeScript,506
+578685027,godly-devotion/MochiDiffusion,Swift,339
+601313570,replicate/scribble-diffusion,JavaScript,373
+559584476,bmaltais/kohya_ss,Python,297
+598342280,hwchase17/langchainjs,TypeScript,194
+574802380,civitai/sd_civitai_extension,Python,170
