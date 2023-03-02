@@ -1,6 +1,6 @@
 id,name,lang,new stars
 10744183,netdata/netdata,C,15
-1614410,FFmpeg/FFmpeg,C,35
+1614410,FFmpeg/FFmpeg,C,34
 10446890,bilibili/ijkplayer,C,6
 65899476,espressif/esp-idf,C,7
 15583310,SoftEtherVPN/SoftEtherVPN,C,4
@@ -9,18 +9,18 @@ id,name,lang,new stars
 4151993,OpenVPN/openvpn,C,4
 18106269,lz4/lz4,C,2
 16734696,meetecho/janus-gateway,C,5
-5870069,confluentinc/librdkafka,C,5
-469303019,gojue/ecapture,C,71
-470579591,DarkFlippers/unleashed-firmware,C,15
-40556106,wazuh/wazuh,C,5
+5870069,confluentinc/librdkafka,C,4
+469303019,gojue/ecapture,C,65
+470579591,DarkFlippers/unleashed-firmware,C,12
+40556106,wazuh/wazuh,C,4
 68063511,tsl0922/ttyd,C,93
-561183031,jart/blink,C,14
+561183031,jart/blink,C,13
 29933948,fluent/fluent-bit,C,2
 39760454,libjpeg-turbo/libjpeg-turbo,C,0
 283149635,arthenica/ffmpeg-kit,C,3
 1924458,SchedMD/slurm,C,1
-370679811,aleksey-hoffman/sigma-file-manager,C,86
-329933755,pimoroni/pimoroni-pico,C,5
+370679811,aleksey-hoffman/sigma-file-manager,C,85
+329933755,pimoroni/pimoroni-pico,C,4
 135502094,Xilinx/XRT,C,2
-606837082,NUL0x4C/AtomLdr,C,38
+606837082,NUL0x4C/AtomLdr,C,35
 606608550,realoriginal/bootlicker,C,16

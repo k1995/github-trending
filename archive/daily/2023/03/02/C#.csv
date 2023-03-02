@@ -1,15 +1,15 @@
 id,name,lang,new stars
 70104825,dotnet-architecture/eShopOnContainers,C#,9
-262395224,dotnet/maui,C#,55
+262395224,dotnet/maui,C#,58
 14964475,AvaloniaUI/Avalonia,C#,17
-16157746,dotnet/efcore,C#,10
-46755185,bitwarden/server,C#,14
-9864166,App-vNext/Polly,C#,6
+16157746,dotnet/efcore,C#,9
+46755185,bitwarden/server,C#,13
+9864166,App-vNext/Polly,C#,5
 28239455,dotnet/AspNetCore.Docs,C#,5
-210716005,dotnet/runtime,C#,10
+210716005,dotnet/runtime,C#,9
 213460285,jasontaylordev/CleanArchitecture,C#,7
 3476845,JamesNK/Newtonsoft.Json,C#,3
-95366680,lucasg/Dependencies,C#,9
+95366680,lucasg/Dependencies,C#,8
 1208824,quartznet/quartznet,C#,1
 117102183,ChilliCream/graphql-platform,C#,3
 162222002,dotnetcore/FreeSql,C#,7
@@ -18,9 +18,9 @@ id,name,lang,new stars
 21311240,kwsch/PKHeX,C#,1
 436286849,RayWangQvQ/BiliBiliToolPro,C#,7
 131145697,Azure-Samples/cognitive-services-speech-sdk,C#,6
-309191418,jenius-apps/ambie,C#,23
+309191418,jenius-apps/ambie,C#,24
 133644276,architdate/PKHeX-Plugins,C#,4
 576204079,SkyWorkAIGC/SkyChat-Chinese-Chatbot-GPT3,C#,34
 101895131,DataDog/dd-trace-dotnet,C#,2
-596484420,microsoft/hack-together,C#,34
+596484420,microsoft/hack-together,C#,35
 606098404,SpaceWarpDev/SpaceWarp,C#,3
