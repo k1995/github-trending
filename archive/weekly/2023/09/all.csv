@@ -1,26 +1,26 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2241
-1039520,ytdl-org/youtube-dl,Python,360
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1201
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4167
-27442967,fastlane/fastlane,Ruby,183
-169677297,vlang/v,V,952
-43160685,zulip/zulip,Python,127
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,4187
-595893961,lllyasviel/ControlNet,Python,3114
-455229168,immich-app/immich,Dart,1354
-601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,2992
-99919302,apache/doris,Java,207
-156627365,itwanger/toBeBetterJavaer,Java,497
-602270517,FMInference/FlexGen,Python,1605
-313853293,cloudquery/cloudquery,Go,519
-600798098,Mikubill/sd-webui-controlnet,Python,1128
-596424141,amazon-science/mm-cot,Python,781
-599394820,Chanzhaoyu/chatgpt-web,Vue,1583
-586265895,mrsked/mrsk,Ruby,1202
-549830413,civitai/civitai,TypeScript,506
-578685027,godly-devotion/MochiDiffusion,Swift,339
-601313570,replicate/scribble-diffusion,JavaScript,373
-559584476,bmaltais/kohya_ss,Python,297
-598342280,hwchase17/langchainjs,TypeScript,194
+36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2279
+1039520,ytdl-org/youtube-dl,Python,364
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1205
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4056
+27442967,fastlane/fastlane,Ruby,181
+169677297,vlang/v,V,988
+43160685,zulip/zulip,Python,140
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,4072
+595893961,lllyasviel/ControlNet,Python,3092
+455229168,immich-app/immich,Dart,1325
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,2727
+99919302,apache/doris,Java,209
+156627365,itwanger/toBeBetterJavaer,Java,494
+602270517,FMInference/FlexGen,Python,1555
+313853293,cloudquery/cloudquery,Go,513
+600798098,Mikubill/sd-webui-controlnet,Python,1110
+596424141,amazon-science/mm-cot,Python,731
+599394820,Chanzhaoyu/chatgpt-web,Vue,1660
+586265895,mrsked/mrsk,Ruby,1305
+549830413,civitai/civitai,TypeScript,493
+578685027,godly-devotion/MochiDiffusion,Swift,344
+601313570,replicate/scribble-diffusion,JavaScript,376
+559584476,bmaltais/kohya_ss,Python,300
+598342280,hwchase17/langchainjs,TypeScript,195
 574802380,civitai/sd_civitai_extension,Python,170
