@@ -1,26 +1,26 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2404
-1039520,ytdl-org/youtube-dl,Python,358
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1131
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3932
-27442967,fastlane/fastlane,Ruby,181
-169677297,vlang/v,V,1224
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,3351
-595893961,lllyasviel/ControlNet,Python,2956
-455229168,immich-app/immich,Dart,1123
+36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2401
+1039520,ytdl-org/youtube-dl,Python,362
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1129
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3927
+27442967,fastlane/fastlane,Ruby,180
+169677297,vlang/v,V,1230
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,3294
+595893961,lllyasviel/ControlNet,Python,2948
+455229168,immich-app/immich,Dart,1118
 414585797,0x192/universal-android-debloater,Rust,446
-601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1619
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1511
 99919302,apache/doris,Java,219
-156627365,itwanger/toBeBetterJavaer,Java,391
-268163609,qdrant/qdrant,Rust,252
-307213173,openai/openai-python,Python,1388
+156627365,itwanger/toBeBetterJavaer,Java,497
+268163609,qdrant/qdrant,Rust,254
+307213173,openai/openai-python,Python,1445
 313853293,cloudquery/cloudquery,Go,505
-600798098,Mikubill/sd-webui-controlnet,Python,1030
-599394820,Chanzhaoyu/chatgpt-web,Vue,2223
-579990612,AmbientRun/Ambient,Rust,1319
-99045602,flutter/packages,Dart,89
-595136650,mjl-/mox,Go,784
-578685027,godly-devotion/MochiDiffusion,Swift,331
-602366280,yihong0618/xiaogpt,Python,704
-598342280,hwchase17/langchainjs,TypeScript,190
-574802380,civitai/sd_civitai_extension,Python,169
+600798098,Mikubill/sd-webui-controlnet,Python,1123
+599394820,Chanzhaoyu/chatgpt-web,Vue,2239
+579990612,AmbientRun/Ambient,Rust,1283
+99045602,flutter/packages,Dart,83
+595136650,mjl-/mox,Go,742
+578685027,godly-devotion/MochiDiffusion,Swift,326
+602366280,yihong0618/xiaogpt,Python,512
+598342280,hwchase17/langchainjs,TypeScript,194
+574802380,civitai/sd_civitai_extension,Python,167
