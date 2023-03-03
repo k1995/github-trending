@@ -1,26 +1,26 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2400
-1039520,ytdl-org/youtube-dl,Python,367
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1160
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3976
+36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2401
+1039520,ytdl-org/youtube-dl,Python,365
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1144
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3942
 27442967,fastlane/fastlane,Ruby,182
-169677297,vlang/v,V,1215
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,3538
-595893961,lllyasviel/ControlNet,Python,3015
-455229168,immich-app/immich,Dart,1154
-414585797,0x192/universal-android-debloater,Rust,440
-601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1941
-99919302,apache/doris,Java,215
+169677297,vlang/v,V,1220
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,3425
+595893961,lllyasviel/ControlNet,Python,2972
+455229168,immich-app/immich,Dart,1130
+414585797,0x192/universal-android-debloater,Rust,445
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1786
+99919302,apache/doris,Java,217
 156627365,itwanger/toBeBetterJavaer,Java,497
-268163609,qdrant/qdrant,Rust,254
-307213173,openai/openai-python,Python,1158
-313853293,cloudquery/cloudquery,Go,508
+268163609,qdrant/qdrant,Rust,252
+307213173,openai/openai-python,Python,1277
+313853293,cloudquery/cloudquery,Go,505
 600798098,Mikubill/sd-webui-controlnet,Python,1123
-599394820,Chanzhaoyu/chatgpt-web,Vue,2113
-579990612,AmbientRun/Ambient,Rust,1411
-99045602,flutter/packages,Dart,96
-595136650,mjl-/mox,Go,874
-578685027,godly-devotion/MochiDiffusion,Swift,345
+599394820,Chanzhaoyu/chatgpt-web,Vue,2184
+579990612,AmbientRun/Ambient,Rust,1373
+99045602,flutter/packages,Dart,95
+595136650,mjl-/mox,Go,842
+578685027,godly-devotion/MochiDiffusion,Swift,340
 602366280,yihong0618/xiaogpt,Python,512
-598342280,hwchase17/langchainjs,TypeScript,187
+598342280,hwchase17/langchainjs,TypeScript,188
 574802380,civitai/sd_civitai_extension,Python,170
