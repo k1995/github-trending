@@ -1,26 +1,26 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2314
-1039520,ytdl-org/youtube-dl,Python,364
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1203
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4061
-27442967,fastlane/fastlane,Ruby,182
-169677297,vlang/v,V,1051
-43160685,zulip/zulip,Python,143
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,3939
-595893961,lllyasviel/ControlNet,Python,3084
-455229168,immich-app/immich,Dart,1287
-601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,2418
-99919302,apache/doris,Java,210
+36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2337
+1039520,ytdl-org/youtube-dl,Python,367
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1198
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4064
+27442967,fastlane/fastlane,Ruby,183
+169677297,vlang/v,V,1100
+43160685,zulip/zulip,Python,144
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,3831
+595893961,lllyasviel/ControlNet,Python,3080
+455229168,immich-app/immich,Dart,1252
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,2310
+99919302,apache/doris,Java,214
 156627365,itwanger/toBeBetterJavaer,Java,497
-602270517,FMInference/FlexGen,Python,1472
-313853293,cloudquery/cloudquery,Go,511
+602270517,FMInference/FlexGen,Python,1391
+313853293,cloudquery/cloudquery,Go,512
 600798098,Mikubill/sd-webui-controlnet,Python,1123
-596424141,amazon-science/mm-cot,Python,684
-599394820,Chanzhaoyu/chatgpt-web,Vue,1683
-586265895,mrsked/mrsk,Ruby,1436
-549830413,civitai/civitai,TypeScript,466
-601313570,replicate/scribble-diffusion,JavaScript,380
-578685027,godly-devotion/MochiDiffusion,Swift,344
-559584476,bmaltais/kohya_ss,Python,301
-598342280,hwchase17/langchainjs,TypeScript,199
-574802380,civitai/sd_civitai_extension,Python,170
+596424141,amazon-science/mm-cot,Python,636
+599394820,Chanzhaoyu/chatgpt-web,Vue,1805
+586265895,mrsked/mrsk,Ruby,1500
+549830413,civitai/civitai,TypeScript,444
+601313570,replicate/scribble-diffusion,JavaScript,377
+578685027,godly-devotion/MochiDiffusion,Swift,338
+559584476,bmaltais/kohya_ss,Python,304
+598342280,hwchase17/langchainjs,TypeScript,191
+574802380,civitai/sd_civitai_extension,Python,171
