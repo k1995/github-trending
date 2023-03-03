@@ -1,26 +1,26 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2337
-1039520,ytdl-org/youtube-dl,Python,367
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1198
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4064
-27442967,fastlane/fastlane,Ruby,183
-169677297,vlang/v,V,1100
+36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2352
+1039520,ytdl-org/youtube-dl,Python,372
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1180
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4038
+27442967,fastlane/fastlane,Ruby,184
+169677297,vlang/v,V,1125
 43160685,zulip/zulip,Python,144
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,3831
-595893961,lllyasviel/ControlNet,Python,3080
-455229168,immich-app/immich,Dart,1252
-601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,2310
-99919302,apache/doris,Java,214
-156627365,itwanger/toBeBetterJavaer,Java,497
-602270517,FMInference/FlexGen,Python,1391
-313853293,cloudquery/cloudquery,Go,512
-600798098,Mikubill/sd-webui-controlnet,Python,1123
-596424141,amazon-science/mm-cot,Python,636
-599394820,Chanzhaoyu/chatgpt-web,Vue,1805
-586265895,mrsked/mrsk,Ruby,1500
-549830413,civitai/civitai,TypeScript,444
-601313570,replicate/scribble-diffusion,JavaScript,377
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,3729
+595893961,lllyasviel/ControlNet,Python,3073
+455229168,immich-app/immich,Dart,1219
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,2216
+99919302,apache/doris,Java,213
+156627365,itwanger/toBeBetterJavaer,Java,451
+602270517,FMInference/FlexGen,Python,1331
+313853293,cloudquery/cloudquery,Go,509
+600798098,Mikubill/sd-webui-controlnet,Python,1086
+596424141,amazon-science/mm-cot,Python,596
+599394820,Chanzhaoyu/chatgpt-web,Vue,1903
+586265895,mrsked/mrsk,Ruby,1555
+549830413,civitai/civitai,TypeScript,430
+601313570,replicate/scribble-diffusion,JavaScript,372
 578685027,godly-devotion/MochiDiffusion,Swift,338
 559584476,bmaltais/kohya_ss,Python,304
-598342280,hwchase17/langchainjs,TypeScript,191
-574802380,civitai/sd_civitai_extension,Python,171
+598342280,hwchase17/langchainjs,TypeScript,189
+574802380,civitai/sd_civitai_extension,Python,172
