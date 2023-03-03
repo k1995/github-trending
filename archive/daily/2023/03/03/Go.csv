@@ -1,0 +1,26 @@
+id,name,lang,new stars
+17728164,hashicorp/terraform,Go,27
+74175805,istio/istio,Go,8
+12574344,spf13/cobra,Go,4
+15045751,docker/compose,Go,15
+54400687,grafana/k6,Go,12
+6247705,stretchr/testify,Go,50
+129717717,grafana/loki,Go,7
+27729907,grpc/grpc-go,Go,6
+5179099,redis/go-redis,Go,15
+46089560,containerd/containerd,Go,9
+6443435,nats-io/nats-server,Go,3
+80087836,dgraph-io/badger,Go,12
+28366058,distribution/distribution,Go,7
+215654064,temporalio/temporal,Go,18
+318476701,containerd/nerdctl,Go,10
+76686583,kubevirt/kubevirt,Go,3
+187086161,open-telemetry/opentelemetry-go,Go,31
+39468142,klauspost/compress,Go,8
+238797860,ethereum-optimism/optimism,Go,45
+396856161,authzed/spicedb,Go,7
+154894457,open-policy-agent/gatekeeper,Go,6
+385634291,grafana/mimir,Go,39
+54503347,opencontainers/image-spec,Go,1
+16345015,prometheus/pushgateway,Go,5
+210268863,EndlessCheng/codeforces-go,Go,21

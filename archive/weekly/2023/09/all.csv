@@ -1,26 +1,26 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2294
-1039520,ytdl-org/youtube-dl,Python,365
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1201
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4055
-27442967,fastlane/fastlane,Ruby,179
-169677297,vlang/v,V,1019
-43160685,zulip/zulip,Python,141
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,4006
-595893961,lllyasviel/ControlNet,Python,3088
-455229168,immich-app/immich,Dart,1307
-601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,2557
+36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2314
+1039520,ytdl-org/youtube-dl,Python,364
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1203
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,4061
+27442967,fastlane/fastlane,Ruby,182
+169677297,vlang/v,V,1051
+43160685,zulip/zulip,Python,143
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,3939
+595893961,lllyasviel/ControlNet,Python,3084
+455229168,immich-app/immich,Dart,1287
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,2418
 99919302,apache/doris,Java,210
-156627365,itwanger/toBeBetterJavaer,Java,492
-602270517,FMInference/FlexGen,Python,1517
-313853293,cloudquery/cloudquery,Go,514
-600798098,Mikubill/sd-webui-controlnet,Python,1095
-596424141,amazon-science/mm-cot,Python,713
-599394820,Chanzhaoyu/chatgpt-web,Vue,1672
-586265895,mrsked/mrsk,Ruby,1377
-549830413,civitai/civitai,TypeScript,475
-601313570,replicate/scribble-diffusion,JavaScript,379
+156627365,itwanger/toBeBetterJavaer,Java,497
+602270517,FMInference/FlexGen,Python,1472
+313853293,cloudquery/cloudquery,Go,511
+600798098,Mikubill/sd-webui-controlnet,Python,1123
+596424141,amazon-science/mm-cot,Python,684
+599394820,Chanzhaoyu/chatgpt-web,Vue,1683
+586265895,mrsked/mrsk,Ruby,1436
+549830413,civitai/civitai,TypeScript,466
+601313570,replicate/scribble-diffusion,JavaScript,380
 578685027,godly-devotion/MochiDiffusion,Swift,344
-559584476,bmaltais/kohya_ss,Python,298
-598342280,hwchase17/langchainjs,TypeScript,197
-574802380,civitai/sd_civitai_extension,Python,171
+559584476,bmaltais/kohya_ss,Python,301
+598342280,hwchase17/langchainjs,TypeScript,199
+574802380,civitai/sd_civitai_extension,Python,170
