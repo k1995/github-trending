@@ -1,26 +1,26 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2415
-1039520,ytdl-org/youtube-dl,Python,364
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1133
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3915
-27442967,fastlane/fastlane,Ruby,182
-169677297,vlang/v,V,1236
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,3177
-595893961,lllyasviel/ControlNet,Python,2919
-455229168,immich-app/immich,Dart,1115
-414585797,0x192/universal-android-debloater,Rust,451
-601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1350
-99919302,apache/doris,Java,216
-156627365,itwanger/toBeBetterJavaer,Java,382
-307213173,openai/openai-python,Python,1568
-268163609,qdrant/qdrant,Rust,259
-313853293,cloudquery/cloudquery,Go,497
-600798098,Mikubill/sd-webui-controlnet,Python,1022
-599394820,Chanzhaoyu/chatgpt-web,Vue,2292
-579990612,AmbientRun/Ambient,Rust,1220
-99045602,flutter/packages,Dart,75
-595136650,mjl-/mox,Go,666
-578685027,godly-devotion/MochiDiffusion,Swift,324
-602366280,yihong0618/xiaogpt,Python,716
-598342280,hwchase17/langchainjs,TypeScript,197
-574802380,civitai/sd_civitai_extension,Python,165
+36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2428
+1039520,ytdl-org/youtube-dl,Python,369
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1122
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3914
+27442967,fastlane/fastlane,Ruby,183
+169677297,vlang/v,V,1241
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,3119
+595893961,lllyasviel/ControlNet,Python,2898
+455229168,immich-app/immich,Dart,1113
+414585797,0x192/universal-android-debloater,Rust,452
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1283
+99919302,apache/doris,Java,217
+156627365,itwanger/toBeBetterJavaer,Java,378
+307213173,openai/openai-python,Python,1642
+268163609,qdrant/qdrant,Rust,261
+313853293,cloudquery/cloudquery,Go,498
+600798098,Mikubill/sd-webui-controlnet,Python,1016
+599394820,Chanzhaoyu/chatgpt-web,Vue,2338
+579990612,AmbientRun/Ambient,Rust,1188
+99045602,flutter/packages,Dart,67
+595136650,mjl-/mox,Go,620
+578685027,godly-devotion/MochiDiffusion,Swift,327
+602366280,yihong0618/xiaogpt,Python,721
+598342280,hwchase17/langchainjs,TypeScript,198
+574802380,civitai/sd_civitai_extension,Python,166
