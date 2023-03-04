@@ -1,7 +1,7 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,6
+8514,rails/rails,Ruby,7
 52281283,mastodon/mastodon,Ruby,19
-2293158,rapid7/metasploit-framework,Ruby,9
+2293158,rapid7/metasploit-framework,Ruby,10
 308770,heartcombo/devise,Ruby,3
 202291859,chatwoot/chatwoot,Ruby,4
 3195124,sidekiq/sidekiq,Ruby,1
@@ -9,18 +9,18 @@ id,name,lang,new stars
 611921,activeadmin/activeadmin,Ruby,1
 1333863,kaminari/kaminari,Ruby,1
 6529205,varvet/pundit,Ruby,1
-108278,chef/chef,Ruby,2
+108278,chef/chef,Ruby,3
 535266,vcr/vcr,Ruby,1
-96071,rack/rack,Ruby,1
+96071,rack/rack,Ruby,2
 2050163,aws/aws-sdk-ruby,Ruby,0
-586265895,mrsked/mrsk,Ruby,172
+586265895,mrsked/mrsk,Ruby,158
 12357002,sidekiq-cron/sidekiq-cron,Ruby,0
 61203,Shopify/shopify_app,Ruby,1
 3698608,sidekiq-scheduler/sidekiq-scheduler,Ruby,0
 298001192,Shopify/packwerk,Ruby,1
 644899,SAML-Toolkits/ruby-saml,Ruby,1
-284824224,alexrudall/ruby-openai,Ruby,19
-463648726,Shopify/ruby-lsp,Ruby,4
+284824224,alexrudall/ruby-openai,Ruby,20
+463648726,Shopify/ruby-lsp,Ruby,5
 123913800,evait-security/envizon,Ruby,1
 3276877,ThrowTheSwitch/Ceedling,Ruby,1
 66497320,DataDog/dd-trace-rb,Ruby,0
