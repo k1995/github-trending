@@ -1,26 +1,26 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2428
-1039520,ytdl-org/youtube-dl,Python,369
-523379232,CompVis/stable-diffusion,Jupyter Notebook,1122
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3914
-27442967,fastlane/fastlane,Ruby,183
+36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2437
+1039520,ytdl-org/youtube-dl,Python,370
+523379232,CompVis/stable-diffusion,Jupyter Notebook,1117
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3905
+27442967,fastlane/fastlane,Ruby,186
 169677297,vlang/v,V,1241
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,3119
-595893961,lllyasviel/ControlNet,Python,2898
-455229168,immich-app/immich,Dart,1113
-414585797,0x192/universal-android-debloater,Rust,452
-601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1283
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,3061
+595893961,lllyasviel/ControlNet,Python,2877
+455229168,immich-app/immich,Dart,1099
+414585797,0x192/universal-android-debloater,Rust,476
+601454140,DvorakDwarf/Infinite-Storage-Glitch,Rust,1222
 99919302,apache/doris,Java,217
-156627365,itwanger/toBeBetterJavaer,Java,378
-307213173,openai/openai-python,Python,1642
-268163609,qdrant/qdrant,Rust,261
-313853293,cloudquery/cloudquery,Go,498
-600798098,Mikubill/sd-webui-controlnet,Python,1016
-599394820,Chanzhaoyu/chatgpt-web,Vue,2338
-579990612,AmbientRun/Ambient,Rust,1188
-99045602,flutter/packages,Dart,67
-595136650,mjl-/mox,Go,620
-578685027,godly-devotion/MochiDiffusion,Swift,327
-602366280,yihong0618/xiaogpt,Python,721
+156627365,itwanger/toBeBetterJavaer,Java,369
+307213173,openai/openai-python,Python,1710
+268163609,qdrant/qdrant,Rust,259
+313853293,cloudquery/cloudquery,Go,496
+600798098,Mikubill/sd-webui-controlnet,Python,1005
+599394820,Chanzhaoyu/chatgpt-web,Vue,2406
+579990612,AmbientRun/Ambient,Rust,1146
+99045602,flutter/packages,Dart,61
+595136650,mjl-/mox,Go,572
+578685027,godly-devotion/MochiDiffusion,Swift,328
+602366280,yihong0618/xiaogpt,Python,720
 598342280,hwchase17/langchainjs,TypeScript,198
-574802380,civitai/sd_civitai_extension,Python,166
+574802380,civitai/sd_civitai_extension,Python,163
