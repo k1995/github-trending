@@ -1,6 +1,6 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,75
-1614410,FFmpeg/FFmpeg,C,90
+2325298,torvalds/linux,C,79
+1614410,FFmpeg/FFmpeg,C,86
 10446890,bilibili/ijkplayer,C,7
 569041,curl/curl,C,15
 394318710,valinet/ExplorerPatcher,C,44
@@ -8,16 +8,16 @@ id,name,lang,new stars
 75811015,Tencent/xLua,C,2
 18106269,lz4/lz4,C,2
 13310527,jemalloc/jemalloc,C,6
+541269386,ggerganov/whisper.cpp,C,42
 105944401,yugabyte/yugabyte-db,C,4
-541269386,ggerganov/whisper.cpp,C,39
-59771425,zephyrproject-rtos/zephyr,C,8
+59771425,zephyrproject-rtos/zephyr,C,7
 14735429,capstone-engine/capstone,C,3
 41107037,unicorn-engine/unicorn,C,9
 40556106,wazuh/wazuh,C,4
 68063511,tsl0922/ttyd,C,14
 673267,redis/hiredis,C,2
 1286805,xianyi/OpenBLAS,C,2
-33031885,hfiref0x/UACME,C,6
+33031885,hfiref0x/UACME,C,5
 189044704,AFLplusplus/AFLplusplus,C,2
 15598496,ireader/media-server,C,4
 96348842,DPDK/dpdk,C,4
