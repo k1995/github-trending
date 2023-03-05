@@ -3,8 +3,8 @@ id,name,lang,new stars
 2253830,PHPMailer/PHPMailer,PHP,2
 4344257,PHP-CS-Fixer/PHP-CS-Fixer,PHP,0
 2884111,magento/magento2,PHP,2
-2699935,squizlabs/PHP_CodeSniffer,PHP,1
-21298446,firefly-iii/firefly-iii,PHP,7
+2699935,squizlabs/PHP_CodeSniffer,PHP,2
+21298446,firefly-iii/firefly-iii,PHP,6
 116389886,Anankke/SSPanel-Uim,PHP,2
 14346979,snipe/snipe-it,PHP,5
 222873550,crater-invoice/crater,PHP,1
@@ -16,11 +16,11 @@ id,name,lang,new stars
 230926110,qkqpttgf/OneManager-php,PHP,2
 13914116,librenms/librenms,PHP,0
 278929867,antonkomarev/github-profile-views-counter,PHP,3
-17388759,laravel/cashier-stripe,PHP,2
-541322916,openai-php/client,PHP,107
+17388759,laravel/cashier-stripe,PHP,1
+541322916,openai-php/client,PHP,106
 34407154,cweagans/composer-patches,PHP,1
 440520058,orhanerday/open-ai,PHP,24
-582445575,openai-php/laravel,PHP,16
+582445575,openai-php/laravel,PHP,14
 27249479,EC-CUBE/ec-cube,PHP,0
 607129026,HaoZi-Team/ChatGPT-PHP,PHP,4
 325154578,selwynpolit/d9book,PHP,2

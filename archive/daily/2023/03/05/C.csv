@@ -1,15 +1,15 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,68
+2325298,torvalds/linux,C,63
 36502,git/git,C,14
 1614410,FFmpeg/FFmpeg,C,16
 196353673,taosdata/TDengine,C,4
-184909163,koekeishiya/yabai,C,44
-84240850,timescale/timescaledb,C,13
-214011414,kingToolbox/WindTerm,C,40
+184909163,koekeishiya/yabai,C,42
+84240850,timescale/timescaledb,C,14
+214011414,kingToolbox/WindTerm,C,39
 394318710,valinet/ExplorerPatcher,C,37
 5254557,cloudwu/skynet,C,5
-32873313,systemd/systemd,C,6
-70127218,espressif/arduino-esp32,C,5
+32873313,systemd/systemd,C,5
+70127218,espressif/arduino-esp32,C,6
 65899476,espressif/esp-idf,C,11
 3319040,id-Software/DOOM,C,5
 1856976,libevent/libevent,C,2
@@ -20,7 +20,7 @@ id,name,lang,new stars
 32148604,iNavFlight/inav,C,0
 23780138,riscv-collab/riscv-gnu-toolchain,C,3
 529363465,tsoding/olive.c,C,12
-523015625,Wack0/CVE-2022-21894,C,19
+523015625,Wack0/CVE-2022-21894,C,18
 554140954,FCL-Team/FoldCraftLauncher,C,1
 603354617,cnlohr/ch32v003fun,C,4
 608011889,Vartika511/CCC_Phase3,C++,0
