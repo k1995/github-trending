@@ -1,26 +1,26 @@
 id,name,lang,new stars
 527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3886
 169677297,vlang/v,V,1222
-537603333,openai/whisper,Jupyter Notebook,1547
-222751131,Asabeneh/30-Days-Of-Python,Python,1753
-595893961,lllyasviel/ControlNet,Python,2814
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2802
-198350484,microsoft/unilm,Python,1196
-436297812,usememos/memos,TypeScript,3146
-552661142,hwchase17/langchain,Python,1206
-414585797,0x192/universal-android-debloater,Rust,518
-99919302,apache/doris,Java,225
-332880689,coollabsio/coolify,Svelte,517
-307213173,openai/openai-python,Python,1991
-600798098,Mikubill/sd-webui-controlnet,Python,977
+537603333,openai/whisper,Jupyter Notebook,1549
+222751131,Asabeneh/30-Days-Of-Python,Python,1795
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2788
+595893961,lllyasviel/ControlNet,Python,2785
+198350484,microsoft/unilm,Python,1200
+436297812,usememos/memos,TypeScript,3135
+552661142,hwchase17/langchain,Python,1217
+414585797,0x192/universal-android-debloater,Rust,506
+99919302,apache/doris,Java,222
+332880689,coollabsio/coolify,Svelte,522
+307213173,openai/openai-python,Python,2024
+600798098,Mikubill/sd-webui-controlnet,Python,980
 313853293,cloudquery/cloudquery,Go,462
 599394820,Chanzhaoyu/chatgpt-web,Vue,2488
-579990612,AmbientRun/Ambient,Rust,806
-438419937,openai/openai-node,TypeScript,454
+579990612,AmbientRun/Ambient,Rust,770
+438419937,openai/openai-node,TypeScript,463
 601313570,replicate/scribble-diffusion,JavaScript,362
-578685027,godly-devotion/MochiDiffusion,Swift,316
-602366280,yihong0618/xiaogpt,Python,772
-559584476,bmaltais/kohya_ss,Python,281
-599976443,869413421/chatgpt-web,Go,611
-598342280,hwchase17/langchainjs,TypeScript,192
-574802380,civitai/sd_civitai_extension,Python,163
+578685027,godly-devotion/MochiDiffusion,Swift,306
+602366280,yihong0618/xiaogpt,Python,778
+559584476,bmaltais/kohya_ss,Python,279
+599976443,869413421/chatgpt-web,Go,635
+598342280,hwchase17/langchainjs,TypeScript,188
+574802380,civitai/sd_civitai_extension,Python,165
