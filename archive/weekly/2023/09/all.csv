@@ -1,26 +1,26 @@
 id,name,lang,new stars
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3886
-169677297,vlang/v,V,1222
-537603333,openai/whisper,Jupyter Notebook,1549
-222751131,Asabeneh/30-Days-Of-Python,Python,1795
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2788
-595893961,lllyasviel/ControlNet,Python,2785
-198350484,microsoft/unilm,Python,1200
-436297812,usememos/memos,TypeScript,3135
-552661142,hwchase17/langchain,Python,1217
-414585797,0x192/universal-android-debloater,Rust,506
-99919302,apache/doris,Java,222
-332880689,coollabsio/coolify,Svelte,522
-307213173,openai/openai-python,Python,2024
-600798098,Mikubill/sd-webui-controlnet,Python,980
-313853293,cloudquery/cloudquery,Go,462
-599394820,Chanzhaoyu/chatgpt-web,Vue,2488
-579990612,AmbientRun/Ambient,Rust,770
-438419937,openai/openai-node,TypeScript,463
-601313570,replicate/scribble-diffusion,JavaScript,362
-578685027,godly-devotion/MochiDiffusion,Swift,306
+36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2495
+15634981,godotengine/godot,C++,698
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3785
+169677297,vlang/v,V,1221
+222751131,Asabeneh/30-Days-Of-Python,Python,1828
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2709
+595893961,lllyasviel/ControlNet,Python,2770
+198350484,microsoft/unilm,Python,1201
+436297812,usememos/memos,TypeScript,3117
+552661142,hwchase17/langchain,Python,1218
+601538369,facebookresearch/llama,Python,3751
+307213173,openai/openai-python,Python,2044
+600798098,Mikubill/sd-webui-controlnet,Python,964
+313853293,cloudquery/cloudquery,Go,454
+599394820,Chanzhaoyu/chatgpt-web,Vue,2693
+538273655,innnky/so-vits-svc,Python,583
+586265895,mrsked/mrsk,Ruby,2013
+579990612,AmbientRun/Ambient,Rust,723
+545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,757
+438419937,openai/openai-node,TypeScript,471
+601313570,replicate/scribble-diffusion,JavaScript,376
 602366280,yihong0618/xiaogpt,Python,778
-559584476,bmaltais/kohya_ss,Python,279
-599976443,869413421/chatgpt-web,Go,635
-598342280,hwchase17/langchainjs,TypeScript,188
-574802380,civitai/sd_civitai_extension,Python,165
+559584476,bmaltais/kohya_ss,Python,280
+599976443,869413421/chatgpt-web,Go,646
+574802380,civitai/sd_civitai_extension,Python,164
