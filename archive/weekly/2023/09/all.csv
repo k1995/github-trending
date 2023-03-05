@@ -1,26 +1,26 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2431
-15634981,godotengine/godot,C++,700
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3728
-169677297,vlang/v,V,1187
-222751131,Asabeneh/30-Days-Of-Python,Python,1915
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2644
-595893961,lllyasviel/ControlNet,Python,2750
-198350484,microsoft/unilm,Python,1210
-436297812,usememos/memos,TypeScript,2941
+36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2402
+15634981,godotengine/godot,C++,705
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3886
+169677297,vlang/v,V,1176
+222751131,Asabeneh/30-Days-Of-Python,Python,1941
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2633
+595893961,lllyasviel/ControlNet,Python,2730
+198350484,microsoft/unilm,Python,1213
+436297812,usememos/memos,TypeScript,2859
 552661142,hwchase17/langchain,Python,1240
-601538369,facebookresearch/llama,Python,3594
-307213173,openai/openai-python,Python,2063
-600798098,Mikubill/sd-webui-controlnet,Python,928
-313853293,cloudquery/cloudquery,Go,426
-599394820,Chanzhaoyu/chatgpt-web,Vue,2741
-538273655,innnky/so-vits-svc,Python,609
-586265895,mrsked/mrsk,Ruby,2030
-579990612,AmbientRun/Ambient,Rust,624
-545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,723
-438419937,openai/openai-node,TypeScript,483
-601313570,replicate/scribble-diffusion,JavaScript,374
-602366280,yihong0618/xiaogpt,Python,788
-559584476,bmaltais/kohya_ss,Python,285
-599976443,869413421/chatgpt-web,Go,672
+601538369,facebookresearch/llama,Python,3539
+307213173,openai/openai-python,Python,2068
+600798098,Mikubill/sd-webui-controlnet,Python,922
+313853293,cloudquery/cloudquery,Go,406
+599394820,Chanzhaoyu/chatgpt-web,Vue,2488
+538273655,innnky/so-vits-svc,Python,610
+586265895,mrsked/mrsk,Ruby,2034
+579990612,AmbientRun/Ambient,Rust,588
+545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,764
+438419937,openai/openai-node,TypeScript,486
+601313570,replicate/scribble-diffusion,JavaScript,362
+602366280,yihong0618/xiaogpt,Python,790
+559584476,bmaltais/kohya_ss,Python,284
+599976443,869413421/chatgpt-web,Go,675
 574802380,civitai/sd_civitai_extension,Python,170
