@@ -1,26 +1,26 @@
 id,name,lang,new stars
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3886
-169677297,vlang/v,V,1223
-537603333,openai/whisper,Jupyter Notebook,1538
-222751131,Asabeneh/30-Days-Of-Python,Python,1681
-595893961,lllyasviel/ControlNet,Python,2843
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2844
-198350484,microsoft/unilm,Python,1179
-436297812,usememos/memos,TypeScript,3155
-552661142,hwchase17/langchain,Python,1206
-414585797,0x192/universal-android-debloater,Rust,514
-99919302,apache/doris,Java,222
-332880689,coollabsio/coolify,Svelte,512
-307213173,openai/openai-python,Python,1924
-600798098,Mikubill/sd-webui-controlnet,Python,981
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3841
+169677297,vlang/v,V,1222
+537603333,openai/whisper,Jupyter Notebook,1546
+222751131,Asabeneh/30-Days-Of-Python,Python,1718
+595893961,lllyasviel/ControlNet,Python,2836
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2822
+198350484,microsoft/unilm,Python,1187
+436297812,usememos/memos,TypeScript,3159
+552661142,hwchase17/langchain,Python,1204
+414585797,0x192/universal-android-debloater,Rust,515
+99919302,apache/doris,Java,223
+332880689,coollabsio/coolify,Svelte,515
+307213173,openai/openai-python,Python,1956
+600798098,Mikubill/sd-webui-controlnet,Python,983
 313853293,cloudquery/cloudquery,Go,462
-599394820,Chanzhaoyu/chatgpt-web,Vue,2488
-579990612,AmbientRun/Ambient,Rust,892
-438419937,openai/openai-node,TypeScript,441
-601313570,replicate/scribble-diffusion,JavaScript,362
-578685027,godly-devotion/MochiDiffusion,Swift,321
-602366280,yihong0618/xiaogpt,Python,757
-559584476,bmaltais/kohya_ss,Python,282
-599976443,869413421/chatgpt-web,Go,594
-598342280,hwchase17/langchainjs,TypeScript,203
-574802380,civitai/sd_civitai_extension,Python,166
+599394820,Chanzhaoyu/chatgpt-web,Vue,2600
+579990612,AmbientRun/Ambient,Rust,852
+438419937,openai/openai-node,TypeScript,448
+601313570,replicate/scribble-diffusion,JavaScript,376
+578685027,godly-devotion/MochiDiffusion,Swift,324
+602366280,yihong0618/xiaogpt,Python,763
+559584476,bmaltais/kohya_ss,Python,284
+599976443,869413421/chatgpt-web,Go,604
+598342280,hwchase17/langchainjs,TypeScript,195
+574802380,civitai/sd_civitai_extension,Python,165
