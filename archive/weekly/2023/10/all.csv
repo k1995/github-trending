@@ -1,26 +1,26 @@
 id,name,lang,new stars
-15634981,godotengine/godot,C++,750
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3604
-169677297,vlang/v,V,1134
-222751131,Asabeneh/30-Days-Of-Python,Python,2155
-468576060,openai/openai-cookbook,Jupyter Notebook,2424
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2452
-595893961,lllyasviel/ControlNet,Python,2575
-580836813,google/comprehensive-rust,Rust,977
-436297812,usememos/memos,TypeScript,2263
-198350484,microsoft/unilm,Python,1282
-552661142,hwchase17/langchain,Python,1246
-601538369,facebookresearch/llama,Python,3297
-307213173,openai/openai-python,Python,2169
-553759919,shadcn/taxonomy,TypeScript,286
-599394820,Chanzhaoyu/chatgpt-web,Vue,2924
-601328285,Haxxnet/Compose-Examples,,739
-545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,673
-575628616,cloneofsimo/lora,Jupyter Notebook,378
-438419937,openai/openai-node,TypeScript,518
-288482469,sashabaranov/go-openai,Go,563
-602366280,yihong0618/xiaogpt,Python,903
-597583114,whitead/paper-qa,Python,807
-559584476,bmaltais/kohya_ss,Python,285
-599976443,869413421/chatgpt-web,Go,802
-574802380,civitai/sd_civitai_extension,Python,167
+15634981,godotengine/godot,C++,749
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3610
+169677297,vlang/v,V,1133
+222751131,Asabeneh/30-Days-Of-Python,Python,2186
+468576060,openai/openai-cookbook,Jupyter Notebook,2449
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2427
+595893961,lllyasviel/ControlNet,Python,2562
+580836813,google/comprehensive-rust,Rust,973
+436297812,usememos/memos,TypeScript,2162
+198350484,microsoft/unilm,Python,1286
+552661142,hwchase17/langchain,Python,1237
+601538369,facebookresearch/llama,Python,3195
+307213173,openai/openai-python,Python,2191
+553759919,shadcn/taxonomy,TypeScript,295
+599394820,Chanzhaoyu/chatgpt-web,Vue,2946
+601328285,Haxxnet/Compose-Examples,,696
+545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,732
+575628616,cloneofsimo/lora,Jupyter Notebook,370
+438419937,openai/openai-node,TypeScript,523
+288482469,sashabaranov/go-openai,Go,575
+602366280,yihong0618/xiaogpt,Python,909
+597583114,whitead/paper-qa,Python,798
+559584476,bmaltais/kohya_ss,Python,281
+599976443,869413421/chatgpt-web,Go,810
+574802380,civitai/sd_civitai_extension,Python,163
