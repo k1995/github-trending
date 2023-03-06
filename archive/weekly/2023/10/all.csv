@@ -1,26 +1,26 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2272
+36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2242
 15634981,godotengine/godot,C++,737
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3654
-169677297,vlang/v,V,1134
-222751131,Asabeneh/30-Days-Of-Python,Python,2087
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2526
-595893961,lllyasviel/ControlNet,Python,2640
-436297812,usememos/memos,TypeScript,2492
-198350484,microsoft/unilm,Python,1268
-552661142,hwchase17/langchain,Python,1241
-601538369,facebookresearch/llama,Python,3409
-307213173,openai/openai-python,Python,2134
-600798098,Mikubill/sd-webui-controlnet,Python,868
-599394820,Chanzhaoyu/chatgpt-web,Vue,2834
-313853293,cloudquery/cloudquery,Go,333
-538273655,innnky/so-vits-svc,Python,675
-586265895,mrsked/mrsk,Ruby,2097
-579990612,AmbientRun/Ambient,Rust,375
-545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,690
-438419937,openai/openai-node,TypeScript,512
-601313570,replicate/scribble-diffusion,JavaScript,380
-602366280,yihong0618/xiaogpt,Python,883
-559584476,bmaltais/kohya_ss,Python,289
-599976443,869413421/chatgpt-web,Go,762
-574802380,civitai/sd_civitai_extension,Python,171
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3633
+169677297,vlang/v,V,1135
+222751131,Asabeneh/30-Days-Of-Python,Python,2134
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2475
+595893961,lllyasviel/ControlNet,Python,2608
+436297812,usememos/memos,TypeScript,2381
+198350484,microsoft/unilm,Python,1275
+552661142,hwchase17/langchain,Python,1247
+601538369,facebookresearch/llama,Python,3383
+307213173,openai/openai-python,Python,2146
+599394820,Chanzhaoyu/chatgpt-web,Vue,2895
+600798098,Mikubill/sd-webui-controlnet,Python,850
+313853293,cloudquery/cloudquery,Go,317
+538273655,innnky/so-vits-svc,Python,681
+586265895,mrsked/mrsk,Ruby,2115
+579990612,AmbientRun/Ambient,Rust,658
+545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,732
+438419937,openai/openai-node,TypeScript,513
+601313570,replicate/scribble-diffusion,JavaScript,386
+602366280,yihong0618/xiaogpt,Python,891
+559584476,bmaltais/kohya_ss,Python,283
+599976443,869413421/chatgpt-web,Go,787
+574802380,civitai/sd_civitai_extension,Python,169
