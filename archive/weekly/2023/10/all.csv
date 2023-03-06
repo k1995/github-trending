@@ -1,26 +1,26 @@
 id,name,lang,new stars
-36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2324
-15634981,godotengine/godot,C++,731
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3696
-169677297,vlang/v,V,1153
-222751131,Asabeneh/30-Days-Of-Python,Python,2027
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2554
-595893961,lllyasviel/ControlNet,Python,2670
-436297812,usememos/memos,TypeScript,2610
-198350484,microsoft/unilm,Python,1251
-552661142,hwchase17/langchain,Python,1232
-601538369,facebookresearch/llama,Python,3262
-307213173,openai/openai-python,Python,2116
-600798098,Mikubill/sd-webui-controlnet,Python,884
-599394820,Chanzhaoyu/chatgpt-web,Vue,2785
-313853293,cloudquery/cloudquery,Go,349
-538273655,innnky/so-vits-svc,Python,644
-586265895,mrsked/mrsk,Ruby,2081
-579990612,AmbientRun/Ambient,Rust,431
-545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,681
-438419937,openai/openai-node,TypeScript,502
-601313570,replicate/scribble-diffusion,JavaScript,375
-602366280,yihong0618/xiaogpt,Python,861
-559584476,bmaltais/kohya_ss,Python,284
-599976443,869413421/chatgpt-web,Go,739
-574802380,civitai/sd_civitai_extension,Python,173
+36633370,awesome-selfhosted/awesome-selfhosted,Makefile,2272
+15634981,godotengine/godot,C++,737
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3654
+169677297,vlang/v,V,1134
+222751131,Asabeneh/30-Days-Of-Python,Python,2087
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2526
+595893961,lllyasviel/ControlNet,Python,2640
+436297812,usememos/memos,TypeScript,2492
+198350484,microsoft/unilm,Python,1268
+552661142,hwchase17/langchain,Python,1241
+601538369,facebookresearch/llama,Python,3409
+307213173,openai/openai-python,Python,2134
+600798098,Mikubill/sd-webui-controlnet,Python,868
+599394820,Chanzhaoyu/chatgpt-web,Vue,2834
+313853293,cloudquery/cloudquery,Go,333
+538273655,innnky/so-vits-svc,Python,675
+586265895,mrsked/mrsk,Ruby,2097
+579990612,AmbientRun/Ambient,Rust,375
+545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,690
+438419937,openai/openai-node,TypeScript,512
+601313570,replicate/scribble-diffusion,JavaScript,380
+602366280,yihong0618/xiaogpt,Python,883
+559584476,bmaltais/kohya_ss,Python,289
+599976443,869413421/chatgpt-web,Go,762
+574802380,civitai/sd_civitai_extension,Python,171
