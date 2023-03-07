@@ -1,26 +1,26 @@
 id,name,lang,new stars
-15634981,godotengine/godot,C++,758
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3510
-169677297,vlang/v,V,1143
-222751131,Asabeneh/30-Days-Of-Python,Python,2318
+15634981,godotengine/godot,C++,762
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3470
+169677297,vlang/v,V,1144
+222751131,Asabeneh/30-Days-Of-Python,Python,2340
 468576060,openai/openai-cookbook,Jupyter Notebook,2440
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2366
-595893961,lllyasviel/ControlNet,Python,2464
 580836813,google/comprehensive-rust,Rust,938
-436297812,usememos/memos,TypeScript,1676
+436297812,usememos/memos,TypeScript,1547
 198350484,microsoft/unilm,Python,1286
-552661142,hwchase17/langchain,Python,1320
-601538369,facebookresearch/llama,Python,3139
+552661142,hwchase17/langchain,Python,1329
+601538369,facebookresearch/llama,Python,3147
+332880689,coollabsio/coolify,Svelte,551
+458588993,nebuly-ai/nebullvm,Python,2135
 307213173,openai/openai-python,Python,2183
 553759919,shadcn/taxonomy,TypeScript,289
-599394820,Chanzhaoyu/chatgpt-web,Vue,3007
-601328285,Haxxnet/Compose-Examples,,721
-545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,685
-575628616,cloneofsimo/lora,Jupyter Notebook,374
-438419937,openai/openai-node,TypeScript,540
-288482469,sashabaranov/go-openai,Go,632
-602366280,yihong0618/xiaogpt,Python,944
-597583114,whitead/paper-qa,Python,774
-559584476,bmaltais/kohya_ss,Python,281
-599976443,869413421/chatgpt-web,Go,848
-574802380,civitai/sd_civitai_extension,Python,157
+599394820,Chanzhaoyu/chatgpt-web,Vue,3022
+575628616,cloneofsimo/lora,Jupyter Notebook,370
+595940434,mukulpatnaik/researchgpt,Python,1214
+438419937,openai/openai-node,TypeScript,543
+288482469,sashabaranov/go-openai,Go,637
+574278577,karfly/chatgpt_telegram_bot,Python,767
+295598569,TheoKanning/openai-java,Java,332
+602366280,yihong0618/xiaogpt,Python,956
+597583114,whitead/paper-qa,Python,764
+559584476,bmaltais/kohya_ss,Python,284
+433605398,openai/openai-quickstart-python,CSS,277
