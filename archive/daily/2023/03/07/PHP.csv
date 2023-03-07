@@ -1,9 +1,9 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,24
+3482588,danielmiessler/SecLists,PHP,23
 448045,sebastianbergmann/phpunit,PHP,7
-1631570,nikic/PHP-Parser,PHP,4
+1631570,nikic/PHP-Parser,PHP,5
 12615154,barryvdh/laravel-debugbar,PHP,5
-14259390,SpartnerNL/Laravel-Excel,PHP,3
+14259390,SpartnerNL/Laravel-Excel,PHP,2
 21298446,firefly-iii/firefly-iii,PHP,19
 5508585,YOURLS/YOURLS,PHP,1
 9791525,digininja/DVWA,PHP,4
@@ -12,15 +12,15 @@ id,name,lang,new stars
 62937181,PrivateBin/PrivateBin,PHP,7
 1740040,pfsense/pfsense,PHP,2
 129852395,assimon/dujiaoka,PHP,12
-1957456,Dolibarr/dolibarr,PHP,5
+1957456,Dolibarr/dolibarr,PHP,4
 230926110,qkqpttgf/OneManager-php,PHP,3
-404921727,luolongfei/freenom,PHP,3
-541322916,openai-php/client,PHP,37
-195836215,magicblack/maccms10,PHP,1
-433383766,nextcloud/all-in-one,PHP,4
+404921727,luolongfei/freenom,PHP,4
+541322916,openai-php/client,PHP,36
+195836215,magicblack/maccms10,PHP,0
+433383766,nextcloud/all-in-one,PHP,3
 24459441,espocrm/espocrm,PHP,0
-582445575,openai-php/laravel,PHP,5
+582445575,openai-php/laravel,PHP,4
 460592324,hnhx/librex,PHP,3
-609308946,hammerstonedev/flaky,PHP,53
+609308946,hammerstonedev/flaky,PHP,54
 184538454,yankovalenko94/Webdev2019,PHP,1
-589509464,lacodix/laravel-model-filter,PHP,15
+589509464,lacodix/laravel-model-filter,PHP,16
