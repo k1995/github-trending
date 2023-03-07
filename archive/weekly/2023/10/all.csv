@@ -1,26 +1,26 @@
 id,name,lang,new stars
-15634981,godotengine/godot,C++,748
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3616
+15634981,godotengine/godot,C++,751
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3592
 169677297,vlang/v,V,1136
-222751131,Asabeneh/30-Days-Of-Python,Python,2225
-468576060,openai/openai-cookbook,Jupyter Notebook,2467
-579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2420
-595893961,lllyasviel/ControlNet,Python,2524
-580836813,google/comprehensive-rust,Rust,963
-436297812,usememos/memos,TypeScript,2012
+222751131,Asabeneh/30-Days-Of-Python,Python,2256
+468576060,openai/openai-cookbook,Jupyter Notebook,2501
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,2404
+595893961,lllyasviel/ControlNet,Python,2527
+580836813,google/comprehensive-rust,Rust,946
+436297812,usememos/memos,TypeScript,1906
 198350484,microsoft/unilm,Python,1299
-552661142,hwchase17/langchain,Python,1249
-601538369,facebookresearch/llama,Python,3078
-307213173,openai/openai-python,Python,2212
-553759919,shadcn/taxonomy,TypeScript,311
-599394820,Chanzhaoyu/chatgpt-web,Vue,2956
-601328285,Haxxnet/Compose-Examples,,620
-545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,680
+552661142,hwchase17/langchain,Python,1273
+601538369,facebookresearch/llama,Python,3060
+307213173,openai/openai-python,Python,2229
+553759919,shadcn/taxonomy,TypeScript,319
+599394820,Chanzhaoyu/chatgpt-web,Vue,2961
+601328285,Haxxnet/Compose-Examples,,591
+545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,683
 575628616,cloneofsimo/lora,Jupyter Notebook,373
-438419937,openai/openai-node,TypeScript,527
-288482469,sashabaranov/go-openai,Go,585
-597583114,whitead/paper-qa,Python,793
-602366280,yihong0618/xiaogpt,Python,913
-559584476,bmaltais/kohya_ss,Python,281
-599976443,869413421/chatgpt-web,Go,814
-574802380,civitai/sd_civitai_extension,Python,159
+438419937,openai/openai-node,TypeScript,534
+288482469,sashabaranov/go-openai,Go,607
+597583114,whitead/paper-qa,Python,792
+602366280,yihong0618/xiaogpt,Python,925
+559584476,bmaltais/kohya_ss,Python,278
+599976443,869413421/chatgpt-web,Go,824
+574802380,civitai/sd_civitai_extension,Python,157
