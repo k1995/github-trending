@@ -1,8 +1,8 @@
 id,name,lang,new stars
-8514,rails/rails,Ruby,85
+8514,rails/rails,Ruby,96
 27442967,fastlane/fastlane,Ruby,59
-2293158,rapid7/metasploit-framework,Ruby,56
-37382858,kilimchoi/engineering-blogs,Ruby,483
+2293158,rapid7/metasploit-framework,Ruby,57
+37382858,kilimchoi/engineering-blogs,Ruby,469
 138312,capistrano/capistrano,Ruby,14
 4095287,rubocop/rubocop,Ruby,13
 1725199,github/linguist,Ruby,36
@@ -10,17 +10,17 @@ id,name,lang,new stars
 361310,teamcapybara/capybara,Ruby,10
 6529205,varvet/pundit,Ruby,8
 4994614,wpscanteam/wpscan,Ruby,27
-535266,vcr/vcr,Ruby,2
+535266,vcr/vcr,Ruby,3
 16994115,CanCanCommunity/cancancan,Ruby,7
-447184,rspec/rspec-rails,Ruby,9
-586265895,mrsked/mrsk,Ruby,1537
+447184,rspec/rspec-rails,Ruby,7
+586265895,mrsked/mrsk,Ruby,1497
 11426474,github/choosealicense.com,Ruby,30
 188828946,endoflife-date/endoflife.date,Ruby,23
 238986,rspec/rspec-expectations,Ruby,0
 238972,rspec/rspec-core,Ruby,2
 238983,rspec/rspec-mocks,Ruby,0
-258990911,avo-hq/avo,Ruby,24
-284824224,alexrudall/ruby-openai,Ruby,198
-463648726,Shopify/ruby-lsp,Ruby,43
+258990911,avo-hq/avo,Ruby,23
+284824224,alexrudall/ruby-openai,Ruby,188
+463648726,Shopify/ruby-lsp,Ruby,42
 66497320,DataDog/dd-trace-rb,Ruby,1
 279271772,DataDog/datadog-api-client-ruby,Ruby,0
