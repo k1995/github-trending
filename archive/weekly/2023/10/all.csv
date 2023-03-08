@@ -1,26 +1,26 @@
 id,name,lang,new stars
-15634981,godotengine/godot,C++,789
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,3364
-169677297,vlang/v,V,667
-222751131,Asabeneh/30-Days-Of-Python,Python,2320
-468576060,openai/openai-cookbook,Jupyter Notebook,2747
-580836813,google/comprehensive-rust,Rust,644
-436297812,usememos/memos,TypeScript,1068
-198350484,microsoft/unilm,Python,933
-552661142,hwchase17/langchain,Python,1313
-601538369,facebookresearch/llama,Python,3270
-332880689,coollabsio/coolify,Svelte,451
-458588993,nebuly-ai/nebullvm,Python,1748
-307213173,openai/openai-python,Python,2363
-599394820,Chanzhaoyu/chatgpt-web,Vue,3187
-553759919,shadcn/taxonomy,TypeScript,361
-575628616,cloneofsimo/lora,Jupyter Notebook,356
-595940434,mukulpatnaik/researchgpt,Python,1188
-438419937,openai/openai-node,TypeScript,570
-288482469,sashabaranov/go-openai,Go,695
-574278577,karfly/chatgpt_telegram_bot,Python,832
-602366280,yihong0618/xiaogpt,Python,1005
-295598569,TheoKanning/openai-java,Java,357
-597583114,whitead/paper-qa,Python,537
-559584476,bmaltais/kohya_ss,Python,274
-433605398,openai/openai-quickstart-python,CSS,293
+15634981,godotengine/godot,C++,782
+169677297,vlang/v,V,655
+222751131,Asabeneh/30-Days-Of-Python,Python,2301
+468576060,openai/openai-cookbook,Jupyter Notebook,2779
+436297812,usememos/memos,TypeScript,1415
+198350484,microsoft/unilm,Python,840
+552661142,hwchase17/langchain,Python,1328
+601538369,facebookresearch/llama,Python,3306
+332880689,coollabsio/coolify,Svelte,439
+458588993,nebuly-ai/nebullvm,Python,1692
+560704231,jerryjliu/gpt_index,Python,1325
+307213173,openai/openai-python,Python,2371
+599394820,Chanzhaoyu/chatgpt-web,Vue,3221
+553759919,shadcn/taxonomy,TypeScript,366
+586265895,mrsked/mrsk,Ruby,1602
+545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,659
+606908544,ErickWendel/semana-javascript-expert07,JavaScript,794
+595940434,mukulpatnaik/researchgpt,Python,1161
+438419937,openai/openai-node,TypeScript,571
+288482469,sashabaranov/go-openai,Go,703
+602366280,yihong0618/xiaogpt,Python,1014
+295598569,TheoKanning/openai-java,Java,361
+597583114,whitead/paper-qa,Python,703
+580642043,oobabooga/text-generation-webui,Python,674
+433605398,openai/openai-quickstart-python,CSS,297
