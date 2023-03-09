@@ -9,12 +9,12 @@ id,name,lang,new stars
 173335706,apache/dolphinscheduler,Java,14
 6220644,OpenRefine/OpenRefine,Java,2
 335164964,dataease/dataease,Java,11
-561730219,krahets/hello-algo,Java,81
+561730219,krahets/hello-algo,Java,83
 206424,apache/cassandra,Java,1
 184611677,YunaiV/yudao-cloud,Java,65
 140543886,apache/shenyu,Java,1
-3148979,spring-projects/spring-security,Java,2
-46398090,datahub-project/datahub,Java,7
+3148979,spring-projects/spring-security,Java,3
+46398090,datahub-project/datahub,Java,8
 334274271,opensearch-project/OpenSearch,Java,8
 13421878,pentaho/pentaho-kettle,Java,2
 4470435,mapstruct/mapstruct,Java,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 206414745,hyperledger/besu,Java,4
 575895729,dromara/ChatGPT,Java,13
 609888798,lcomplete/huntly,Java,125
-600362783,Grt1228/chatgpt-java,Java,56
+600362783,Grt1228/chatgpt-java,Java,53
