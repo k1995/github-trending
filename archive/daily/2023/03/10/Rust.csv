@@ -1,7 +1,7 @@
 id,name,lang,new stars
 724712,rust-lang/rust,Rust,45
 196701619,tauri-apps/tauri,Rust,56
-241805592,rome/tools,Rust,46
+241805592,rome/tools,Rust,52
 234798675,bevyengine/bevy,Rust,68
 575340621,lencx/ChatGPT,Rust,244
 413918947,vercel/turbo,Rust,40
@@ -9,18 +9,18 @@ id,name,lang,new stars
 40508605,facebook/relay,Rust,3
 135201145,RustPython/RustPython,Rust,153
 292014229,zellij-org/zellij,Rust,64
-230595891,launchbadge/sqlx,Rust,10
+230595891,launchbadge/sqlx,Rust,13
 109872620,paritytech/substrate,Rust,39
 148829497,o2sh/onefetch,Rust,22
 351806852,neondatabase/neon,Rust,32
-14367737,serde-rs/serde,Rust,11
+14367737,serde-rs/serde,Rust,12
 144140342,paritytech/polkadot,Rust,26
-219035799,huggingface/tokenizers,Rust,13
-426075845,MystenLabs/sui,Rust,4
-480217156,GreptimeTeam/greptimedb,Rust,25
+219035799,huggingface/tokenizers,Rust,19
+426075845,MystenLabs/sui,Rust,3
+480217156,GreptimeTeam/greptimedb,Rust,21
 139952333,sigp/lighthouse,Rust,3
-166616185,roc-lang/roc,Rust,9
+166616185,roc-lang/roc,Rust,10
 573107980,hikari-no-yume/touchHLE,Rust,30
-424598738,apollographql/router,Rust,1
+424598738,apollographql/router,Rust,2
 604899926,lencx/nofwl,Rust,22
-609607639,letsgetrusty/rsty-stack-example,Rust,7
+609607639,letsgetrusty/rsty-stack-example,Rust,5

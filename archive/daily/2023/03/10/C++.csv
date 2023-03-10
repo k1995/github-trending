@@ -1,8 +1,8 @@
 id,name,lang,new stars
 45717250,tensorflow/tensorflow,C++,61
 9384267,electron/electron,C++,23
-65600975,pytorch/pytorch,C++,39
-23357588,protocolbuffers/protobuf,C++,19
+65600975,pytorch/pytorch,C++,42
+23357588,protocolbuffers/protobuf,C++,20
 39840932,google/googletest,C++,16
 4524181,facebook/folly,C++,5
 16587283,dmlc/xgboost,C++,5
@@ -11,7 +11,7 @@ id,name,lang,new stars
 65711522,PaddlePaddle/Paddle,C++,9
 104231541,abseil/abseil-cpp,C++,3
 51905353,apache/arrow,C++,17
-9647856,zerotier/ZeroTierOne,C++,12
+9647856,zerotier/ZeroTierOne,C++,13
 189205663,qinguoyi/TinyWebServer,C++,27
 28449431,scylladb/scylladb,C++,22
 108102826,carla-simulator/carla,C++,4
@@ -23,4 +23,4 @@ id,name,lang,new stars
 354138793,NVIDIA/FasterTransformer,C++,25
 144329209,CrowCpp/Crow,C++,14
 40473201,IfcOpenShell/IfcOpenShell,C++,1
-554411496,intel/x86-simd-sort,C++,8
+554411496,intel/x86-simd-sort,C++,9
