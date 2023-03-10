@@ -1,17 +1,17 @@
 id,name,lang,new stars
-1863329,laravel/laravel,PHP,575
+1863329,laravel/laravel,PHP,572
 7548986,laravel/framework,PHP,281
-458058,symfony/symfony,PHP,139
+458058,symfony/symfony,PHP,137
 1548202,matomo-org/matomo,PHP,136
-61490598,PHPOffice/PhpSpreadsheet,PHP,96
+61490598,PHPOffice/PhpSpreadsheet,PHP,95
 2884111,magento/magento2,PHP,96
 12166778,googleapis/google-api-php-client,PHP,53
-42261096,fuzzdb-project/fuzzdb,PHP,67
+42261096,fuzzdb-project/fuzzdb,PHP,66
 3217621,phpmyadmin/phpmyadmin,PHP,65
-248372441,filamentphp/filament,PHP,270
+248372441,filamentphp/filament,PHP,268
 148129143,bagisto/bagisto,PHP,544
 265782973,hlmd/Postman-cn,PHP,99
-439861,moodle/moodle,PHP,59
+439861,moodle/moodle,PHP,60
 8077402,MISP/MISP,PHP,45
 129852395,assimon/dujiaoka,PHP,274
 286645686,yuantuo666/baiduwp-php,PHP,438
@@ -21,6 +21,6 @@ id,name,lang,new stars
 166299071,archtechx/tenancy,PHP,56
 2686502,pimcore/pimcore,PHP,27
 311448648,laravel/breeze,PHP,38
-541322916,openai-php/client,PHP,546
+541322916,openai-php/client,PHP,544
 440520058,orhanerday/open-ai,PHP,356
 596448436,kaindev8/starMQ,PHP,83

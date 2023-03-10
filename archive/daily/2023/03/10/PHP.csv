@@ -1,18 +1,18 @@
 id,name,lang,new stars
 7548986,laravel/framework,PHP,10
-2253830,PHPMailer/PHPMailer,PHP,4
+2253830,PHPMailer/PHPMailer,PHP,3
 11340559,deployphp/deployer,PHP,1
 597887,doctrine/orm,PHP,1
 14346979,snipe/snipe-it,PHP,8
 97311017,rectorphp/rector,PHP,4
 248372441,filamentphp/filament,PHP,3
 11935508,RSS-Bridge/rss-bridge,PHP,2
-74386167,vimeo/psalm,PHP,0
+74386167,vimeo/psalm,PHP,1
 159606650,hyperf/hyperf,PHP,3
 174200859,inertiajs/inertia,PHP,5
-439861,moodle/moodle,PHP,2
+439861,moodle/moodle,PHP,1
 8077402,MISP/MISP,PHP,0
-1957456,Dolibarr/dolibarr,PHP,5
+1957456,Dolibarr/dolibarr,PHP,4
 13914116,librenms/librenms,PHP,1
 69691727,pmmp/PocketMine-MP,PHP,0
 216849756,v2board/v2board,PHP,5
@@ -20,7 +20,7 @@ id,name,lang,new stars
 311448648,laravel/breeze,PHP,3
 3614664,PHPCompatibility/PHPCompatibility,PHP,3
 34407154,cweagans/composer-patches,PHP,0
-443605948,pablouser1/ProxiTok,PHP,5
-367364180,spatie/laravel-data,PHP,2
+443605948,pablouser1/ProxiTok,PHP,4
+367364180,spatie/laravel-data,PHP,3
 274940489,Blair2004/NexoPOS,PHP,3
 129810061,googleads/google-ads-php,PHP,0
