@@ -1,13 +1,13 @@
 id,name,lang,new stars
-6296790,spring-projects/spring-boot,Java,20
+6296790,spring-projects/spring-boot,Java,19
 20300177,google/guava,Java,26
 4710920,apache/dubbo,Java,7
 1064563,netty/netty,Java,10
 120395176,alibaba/easyexcel,Java,7
 128018428,alibaba/Sentinel,Java,3
-5901900,LMAX-Exchange/disruptor,Java,1
+5901900,LMAX-Exchange/disruptor,Java,2
 501687,antlr/antlr4,Java,6
-75277003,thingsboard/thingsboard,Java,4
+75277003,thingsboard/thingsboard,Java,3
 173335706,apache/dolphinscheduler,Java,18
 62722814,asLody/VirtualApp,Java,2
 237867883,metersphere/metersphere,Java,3
@@ -15,12 +15,12 @@ id,name,lang,new stars
 50904245,apache/beam,Java,6
 16621659,real-logic/aeron,Java,3
 20089857,apache/hbase,Java,2
-206444,apache/hive,Java,2
+206444,apache/hive,Java,3
 402945349,StarRocks/starrocks,Java,3
 87859908,micrometer-metrics/micrometer,Java,2
 7420937,camunda/camunda-bpm-platform,Java,0
 482425877,alibaba/fastjson2,Java,0
-426287111,SPLWare/esProc,Java,16
+426287111,SPLWare/esProc,Java,15
 252650176,sqlancer/sqlancer,Java,3
 558274787,in28minutes/master-spring-and-spring-boot,Java,3
 467859867,honghuangdc/soybean-admin-java,Java,0
