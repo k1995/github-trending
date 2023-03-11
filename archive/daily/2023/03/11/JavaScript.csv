@@ -1,18 +1,18 @@
 id,name,lang,new stars
 126577260,trekhleb/javascript-algorithms,JavaScript,79
-2126244,twbs/bootstrap,JavaScript,36
+2126244,twbs/bootstrap,JavaScript,34
 112507086,30-seconds/30-seconds-of-code,JavaScript,46
-29028775,facebook/react-native,JavaScript,33
+29028775,facebook/react-native,JavaScript,30
 943149,d3/d3,JavaScript,11
 70107786,vercel/next.js,JavaScript,63
 23083156,mui/material-ui,JavaScript,27
-3678731,webpack/webpack,JavaScript,50
 157616880,iptv-org/iptv,JavaScript,74
+3678731,webpack/webpack,JavaScript,34
 147350463,leonardomso/33-js-concepts,JavaScript,22
 34302698,serverless/serverless,JavaScript,8
 39176269,vuejs/vuex,JavaScript,6
 10114077,SBoudrias/Inquirer.js,JavaScript,5
-28964450,ckeditor/ckeditor5,JavaScript,5
+28964450,ckeditor/ckeditor5,JavaScript,2
 391105716,6dylan6/jdpro,JavaScript,13
 405139301,EddieHubCommunity/LinkFree,JavaScript,8
 37717474,nodejs/nodejs.org,JavaScript,139
@@ -22,5 +22,5 @@ id,name,lang,new stars
 581868970,chetannada/Namaste-React,JavaScript,18
 611216418,neemspees/tragic-methods,JavaScript,117
 599735720,MHSanaei/3x-ui,JavaScript,15
-533092014,ehmorris/lunar-lander,JavaScript,5
+533092014,ehmorris/lunar-lander,JavaScript,4
 607988768,ed-roh/chat-app,JavaScript,9

@@ -1,26 +1,26 @@
 id,name,lang,new stars
 1039520,ytdl-org/youtube-dl,Python,1610
-155220641,huggingface/transformers,Python,4286
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,14637
-523379232,CompVis/stable-diffusion,Jupyter Notebook,4283
-307260205,yt-dlp/yt-dlp,Python,3436
-574523116,f/awesome-chatgpt-prompts,HTML,17208
-169677297,vlang/v,V,1752
-222751131,Asabeneh/30-Days-Of-Python,Python,3212
+155220641,huggingface/transformers,Python,4291
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,14655
+523379232,CompVis/stable-diffusion,Jupyter Notebook,4293
+307260205,yt-dlp/yt-dlp,Python,3442
+574523116,f/awesome-chatgpt-prompts,HTML,17197
+169677297,vlang/v,V,1751
+222751131,Asabeneh/30-Days-Of-Python,Python,3214
 11481338,zloirock/core-js,JavaScript,3895
-573819845,acheong08/ChatGPT,Python,5589
-422274596,hpcaitech/ColossalAI,Python,10138
-170067246,openai/gpt-2,Python,952
-577116112,PlexPt/awesome-chatgpt-prompts-zh,,8315
+573819845,acheong08/ChatGPT,Python,5579
+422274596,hpcaitech/ColossalAI,Python,10142
+170067246,openai/gpt-2,Python,949
+577116112,PlexPt/awesome-chatgpt-prompts-zh,,8313
 440079558,alibaba/lowcode-engine,TypeScript,1643
-436297812,usememos/memos,TypeScript,4625
-552661142,hwchase17/langchain,Python,4142
-541269386,ggerganov/whisper.cpp,C,3111
+436297812,usememos/memos,TypeScript,4628
+552661142,hwchase17/langchain,Python,4153
+541269386,ggerganov/whisper.cpp,C,3133
 392603437,NAStool/nas-tools,Python,1188
-307213173,openai/openai-python,Python,2990
-522158088,zhayujie/chatgpt-on-wechat,Python,3238
-524871042,microsoft/BioGPT,Python,1439
-586265895,mrsked/mrsk,Ruby,2815
-573759422,qunash/chatgpt-advanced,TypeScript,1254
-586141825,waylaidwanderer/node-chatgpt-api,JavaScript,1194
-295598569,TheoKanning/openai-java,Java,825
+307213173,openai/openai-python,Python,2993
+522158088,zhayujie/chatgpt-on-wechat,Python,3233
+524871042,microsoft/BioGPT,Python,1438
+586265895,mrsked/mrsk,Ruby,2814
+573759422,qunash/chatgpt-advanced,TypeScript,1247
+586141825,waylaidwanderer/node-chatgpt-api,JavaScript,1191
+295598569,TheoKanning/openai-java,Java,827
