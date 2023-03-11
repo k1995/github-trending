@@ -1,17 +1,17 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,504
 1614410,FFmpeg/FFmpeg,C,204
-14812739,libuv/libuv,C,50
-80286288,arendst/Tasmota,C,45
+14812739,libuv/libuv,C,48
+80286288,arendst/Tasmota,C,40
 27737393,qmk/qmk_firmware,C,62
-394318710,valinet/ExplorerPatcher,C,208
-179354282,acidanthera/OpenCorePkg,C,56
+394318710,valinet/ExplorerPatcher,C,205
+179354282,acidanthera/OpenCorePkg,C,57
 32873313,systemd/systemd,C,45
-70127218,espressif/arduino-esp32,C,50
-3319040,id-Software/DOOM,C,53
+70127218,espressif/arduino-esp32,C,51
+3319040,id-Software/DOOM,C,55
 1856976,libevent/libevent,C,35
-541269386,ggerganov/whisper.cpp,C,1799
-54280778,DaveGamble/cJSON,C,32
+541269386,ggerganov/whisper.cpp,C,1936
+54280778,DaveGamble/cJSON,C,31
 108110706,tporadowski/redis,C,68
 59676171,Klipper3d/klipper,C,55
 40504480,mit-pdos/xv6-public,C,21
@@ -22,5 +22,5 @@ id,name,lang,new stars
 283149635,arthenica/ffmpeg-kit,C,40
 16648618,bitcoin-core/secp256k1,C,15
 20193261,OP-TEE/optee_os,C,8
-329933755,pimoroni/pimoroni-pico,C,15
-523015625,Wack0/CVE-2022-21894,C,43
+329933755,pimoroni/pimoroni-pico,C,14
+523015625,Wack0/CVE-2022-21894,C,40
