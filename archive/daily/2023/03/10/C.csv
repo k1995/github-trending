@@ -1,6 +1,6 @@
 id,name,lang,new stars
 2325298,torvalds/linux,C,86
-1614410,FFmpeg/FFmpeg,C,39
+1614410,FFmpeg/FFmpeg,C,36
 5101141,stedolan/jq,C,6
 1357796,emscripten-core/emscripten,C,11
 29759715,facebook/zstd,C,9
@@ -10,17 +10,17 @@ id,name,lang,new stars
 5805256,lua/lua,C,6
 5870069,confluentinc/librdkafka,C,4
 59676171,Klipper3d/klipper,C,9
-14735429,capstone-engine/capstone,C,6
-293316071,bellard/quickjs,C,20
+14735429,capstone-engine/capstone,C,5
+293316071,bellard/quickjs,C,16
 6687936,Mbed-TLS/mbedtls,C,4
 127023441,NVIDIA/cuda-samples,C,5
-283149635,arthenica/ffmpeg-kit,C,2
+283149635,arthenica/ffmpeg-kit,C,3
 154525111,signalwire/freeswitch,C,2
 473137633,cilium/tetragon,C,8
-472575717,HarbourMasters/Shipwright,C,14
+472575717,HarbourMasters/Shipwright,C,12
 16648618,bitcoin-core/secp256k1,C,2
 20193261,OP-TEE/optee_os,C,2
-329933755,pimoroni/pimoroni-pico,C,4
-542197924,Bearer/bearer,C,120
-589514195,libAudioFlux/audioFlux,C,69
-611004357,chompie1337/Windows_LPE_AFD_CVE-2023-21768,C,75
+329933755,pimoroni/pimoroni-pico,C,2
+542197924,Bearer/bearer,C,106
+589514195,libAudioFlux/audioFlux,C,61
+611004357,chompie1337/Windows_LPE_AFD_CVE-2023-21768,C,70
