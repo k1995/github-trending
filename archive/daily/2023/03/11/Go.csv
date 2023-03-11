@@ -1,15 +1,15 @@
 id,name,lang,new stars
 13624859,gorilla/websocket,Go,12
 21827146,seaweedfs/seaweedfs,Go,14
-5179099,redis/go-redis,Go,14
+5179099,redis/go-redis,Go,16
 72477752,pulumi/pulumi,Go,21
 208728772,milvus-io/milvus,Go,17
 434218673,zinclabs/zincsearch,Go,77
-44350607,kubernetes/dashboard,Go,4
+44350607,kubernetes/dashboard,Go,6
 75135036,json-iterator/go,Go,16
 118105436,golang-migrate/migrate,Go,13
-11206255,Shopify/sarama,Go,4
-184490584,GoogleCloudPlatform/terraformer,Go,9
+11206255,Shopify/sarama,Go,3
+184490584,GoogleCloudPlatform/terraformer,Go,5
 18906266,shirou/gopsutil,Go,5
 9524057,prometheus/node_exporter,Go,10
 43225113,mikefarah/yq,Go,19
