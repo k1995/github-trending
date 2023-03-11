@@ -6,9 +6,9 @@ id,name,lang,new stars
 208728772,milvus-io/milvus,Go,17
 434218673,zinclabs/zincsearch,Go,77
 44350607,kubernetes/dashboard,Go,4
-75135036,json-iterator/go,Go,20
+75135036,json-iterator/go,Go,16
 118105436,golang-migrate/migrate,Go,13
-11206255,Shopify/sarama,Go,5
+11206255,Shopify/sarama,Go,4
 184490584,GoogleCloudPlatform/terraformer,Go,9
 18906266,shirou/gopsutil,Go,5
 9524057,prometheus/node_exporter,Go,10
