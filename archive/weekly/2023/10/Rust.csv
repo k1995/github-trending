@@ -1,19 +1,19 @@
 id,name,lang,new stars
 724712,rust-lang/rust,Rust,354
-196701619,tauri-apps/tauri,Rust,530
+196701619,tauri-apps/tauri,Rust,537
 42489829,rust-lang/rustlings,Rust,257
-114466145,yewstack/yew,Rust,127
-241805592,rome/tools,Rust,189
-234798675,bevyengine/bevy,Rust,319
-413918947,vercel/turbo,Rust,232
+114466145,yewstack/yew,Rust,129
+241805592,rome/tools,Rust,191
+234798675,bevyengine/bevy,Rust,317
+413918947,vercel/turbo,Rust,234
 436658287,surrealdb/surrealdb,Rust,264
-263727855,pola-rs/polars,Rust,343
+263727855,pola-rs/polars,Rust,342
 135201145,RustPython/RustPython,Rust,630
-143822069,sunface/rust-course,Rust,237
-551376520,tw93/Pake,Rust,629
-166045424,Schniz/fnm,Rust,240
-292014229,zellij-org/zellij,Rust,384
-523043277,charliermarsh/ruff,Rust,826
+143822069,sunface/rust-course,Rust,241
+551376520,tw93/Pake,Rust,618
+166045424,Schniz/fnm,Rust,233
+292014229,zellij-org/zellij,Rust,381
+523043277,charliermarsh/ruff,Rust,820
 372172254,tokio-rs/axum,Rust,147
 414585797,0x192/universal-android-debloater,Rust,184
 109872620,paritytech/substrate,Rust,92
@@ -22,5 +22,5 @@ id,name,lang,new stars
 404320053,foundry-rs/foundry,Rust,56
 302827809,datafuselabs/databend,Rust,94
 488850453,solidiquis/erdtree,Rust,363
-604899926,lencx/nofwl,Rust,135
+604899926,lencx/nofwl,Rust,134
 608273463,fasterthanlime/axact,Rust,24

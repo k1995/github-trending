@@ -1,12 +1,12 @@
 id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,146
-7548986,laravel/framework,PHP,65
-1548202,matomo-org/matomo,PHP,34
-2889328,WordPress/WordPress,PHP,40
-1631570,nikic/PHP-Parser,PHP,28
-49014795,phpstan/phpstan,PHP,33
-21298446,firefly-iii/firefly-iii,PHP,71
-5508585,YOURLS/YOURLS,PHP,22
+3482588,danielmiessler/SecLists,PHP,148
+7548986,laravel/framework,PHP,66
+1548202,matomo-org/matomo,PHP,35
+2889328,WordPress/WordPress,PHP,39
+1631570,nikic/PHP-Parser,PHP,27
+49014795,phpstan/phpstan,PHP,34
+21298446,firefly-iii/firefly-iii,PHP,70
+5508585,YOURLS/YOURLS,PHP,23
 6763587,PrestaShop/PrestaShop,PHP,21
 222873550,crater-invoice/crater,PHP,23
 248372441,filamentphp/filament,PHP,56
@@ -18,8 +18,8 @@ id,name,lang,new stars
 1957456,Dolibarr/dolibarr,PHP,24
 111562942,statamic/cms,PHP,21
 131995661,shopware/platform,PHP,9
-541322916,openai-php/client,PHP,200
+541322916,openai-php/client,PHP,187
 36526302,pentestmonkey/php-reverse-shell,PHP,13
-440520058,orhanerday/open-ai,PHP,97
-582445575,openai-php/laravel,PHP,57
-602478874,dirk1983/chatgpt,PHP,262
+440520058,orhanerday/open-ai,PHP,95
+582445575,openai-php/laravel,PHP,56
+602478874,dirk1983/chatgpt,PHP,263

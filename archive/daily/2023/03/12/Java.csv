@@ -1,7 +1,7 @@
 id,name,lang,new stars
-6296790,spring-projects/spring-boot,Java,15
-20300177,google/guava,Java,6
-4710920,apache/dubbo,Java,4
+6296790,spring-projects/spring-boot,Java,18
+20300177,google/guava,Java,8
+4710920,apache/dubbo,Java,5
 1064563,netty/netty,Java,9
 120395176,alibaba/easyexcel,Java,10
 128018428,alibaba/Sentinel,Java,3
@@ -13,12 +13,12 @@ id,name,lang,new stars
 237867883,metersphere/metersphere,Java,3
 46398090,datahub-project/datahub,Java,5
 50904245,apache/beam,Java,3
-16621659,real-logic/aeron,Java,2
+16621659,real-logic/aeron,Java,1
 20089857,apache/hbase,Java,1
 206444,apache/hive,Java,3
 402945349,StarRocks/starrocks,Java,9
-87859908,micrometer-metrics/micrometer,Java,1
-7420937,camunda/camunda-bpm-platform,Java,0
+87859908,micrometer-metrics/micrometer,Java,0
+7420937,camunda/camunda-bpm-platform,Java,1
 482425877,alibaba/fastjson2,Java,1
 426287111,SPLWare/esProc,Java,14
 252650176,sqlancer/sqlancer,Java,5
