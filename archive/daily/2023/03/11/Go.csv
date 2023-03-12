@@ -11,11 +11,11 @@ id,name,lang,new stars
 434218673,zinclabs/zincsearch,Go,77
 7877397,jmoiron/sqlx,Go,4
 100982449,argoproj/argo-workflows,Go,6
-75135036,json-iterator/go,Go,12
-154643390,sundowndev/phoneinfoga,Go,5
+75135036,json-iterator/go,Go,14
+154643390,sundowndev/phoneinfoga,Go,8
 9524057,prometheus/node_exporter,Go,10
 93444615,hashicorp/terraform-provider-aws,Go,5
-150954997,VictoriaMetrics/VictoriaMetrics,Go,6
+150954997,VictoriaMetrics/VictoriaMetrics,Go,5
 66509131,kubernetes/client-go,Go,7
 81497153,kubernetes-sigs/external-dns,Go,1
 170411418,kedacore/keda,Go,4

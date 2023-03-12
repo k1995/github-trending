@@ -1,0 +1,26 @@
+id,name,lang,new stars
+20904437,gin-gonic/gin,Go,26
+11225014,etcd-io/etcd,Go,9
+8989842,unknwon/the-way-to-go_ZH_CN,Go,7
+14125254,hashicorp/consul,Go,1
+156084530,ehang-io/nps,Go,8
+44498957,valyala/fasthttp,Go,3
+129717717,grafana/loki,Go,10
+5179099,redis/go-redis,Go,8
+14956897,julienschmidt/httprouter,Go,4
+434218673,zinclabs/zincsearch,Go,13
+7877397,jmoiron/sqlx,Go,4
+100982449,argoproj/argo-workflows,Go,4
+75135036,json-iterator/go,Go,16
+154643390,sundowndev/phoneinfoga,Go,6
+9524057,prometheus/node_exporter,Go,11
+93444615,hashicorp/terraform-provider-aws,Go,8
+150954997,VictoriaMetrics/VictoriaMetrics,Go,9
+66509131,kubernetes/client-go,Go,5
+81497153,kubernetes-sigs/external-dns,Go,2
+170411418,kedacore/keda,Go,2
+244694886,ccfos/nightingale,Go,5
+16607984,DATA-DOG/go-sqlmock,Go,5
+276822250,kubevela/kubevela,Go,2
+106928408,ilanyu/ReverseProxy,Go,6
+136494223,kubernetes-sigs/controller-runtime,Go,1
