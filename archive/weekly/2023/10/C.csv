@@ -1,16 +1,16 @@
 id,name,lang,new stars
-2325298,torvalds/linux,C,513
-1614410,FFmpeg/FFmpeg,C,213
+2325298,torvalds/linux,C,508
+1614410,FFmpeg/FFmpeg,C,215
 18666758,pjreddie/darknet,C,31
-80286288,arendst/Tasmota,C,45
-27737393,qmk/qmk_firmware,C,69
-394318710,valinet/ExplorerPatcher,C,188
+80286288,arendst/Tasmota,C,41
+27737393,qmk/qmk_firmware,C,67
+394318710,valinet/ExplorerPatcher,C,186
 179354282,acidanthera/OpenCorePkg,C,57
-32873313,systemd/systemd,C,45
-70127218,espressif/arduino-esp32,C,52
-3319040,id-Software/DOOM,C,54
-541269386,ggerganov/whisper.cpp,C,2348
-1856976,libevent/libevent,C,38
+32873313,systemd/systemd,C,43
+70127218,espressif/arduino-esp32,C,51
+541269386,ggerganov/whisper.cpp,C,2436
+3319040,id-Software/DOOM,C,56
+1856976,libevent/libevent,C,37
 108110706,tporadowski/redis,C,62
 59676171,Klipper3d/klipper,C,56
 241659610,OpenIntelWireless/itlwm,C,29
@@ -23,4 +23,4 @@ id,name,lang,new stars
 470373719,istoreos/istoreos,C,83
 20193261,OP-TEE/optee_os,C,10
 329933755,pimoroni/pimoroni-pico,C,17
-454138964,openshwprojects/OpenBK7231T_App,C,19
+454138964,openshwprojects/OpenBK7231T_App,C,17

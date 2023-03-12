@@ -1,26 +1,26 @@
 id,name,lang,new stars
 13491895,EbookFoundation/free-programming-books,,120
 21737465,sindresorhus/awesome,,305
-85077558,kamranahmedse/developer-roadmap,Astro,122
+85077558,kamranahmedse/developer-roadmap,Astro,165
 54346799,public-apis/public-apis,Python,102
 16408992,neovim/neovim,Vim Script,40
-608555244,microsoft/visual-chatgpt,Python,4762
-574116196,wong2/chatgpt-google-extension,TypeScript,78
-305144746,geohot/tinygrad,Python,80
-541269386,ggerganov/whisper.cpp,C,391
-609416865,yetone/openai-translator,TypeScript,860
-545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,249
+608555244,microsoft/visual-chatgpt,Python,4715
+574116196,wong2/chatgpt-google-extension,TypeScript,60
+305144746,geohot/tinygrad,Python,86
+541269386,ggerganov/whisper.cpp,C,352
+609416865,yetone/openai-translator,TypeScript,897
+545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,246
 612354784,ggerganov/llama.cpp,C,1452
 476642602,web-infra-dev/rspack,Rust,255
 580642043,oobabooga/text-generation-webui,Python,177
 516735733,ann-afame/DEVOPS-WORLD,,25
-612015006,GanymedeNil/document.ai,Python,426
-467097209,getaurora/download,,14
+612015006,GanymedeNil/document.ai,Python,278
+467097209,getaurora/download,,34
 607438804,caesarHQ/textSQL,JavaScript,41
-600368121,guillaumekln/faster-whisper,Python,21
+600368121,guillaumekln/faster-whisper,Python,22
 612251817,davinci1012/pinduoduo_backdoor_unpacker,Java,94
 610649000,butaixianran/Stable-Diffusion-Webui-Civitai-Helper,Python,32
 607202370,pkuliyi2015/multidiffusion-upscaler-for-automatic1111,Python,19
-599293758,Azure-Samples/azure-search-openai-demo,Python,64
-611618914,randaller/llama-chat,Python,24
-533473538,IHP-GmbH/IHP-Open-PDK,HTML,36
+599293758,Azure-Samples/azure-search-openai-demo,Python,33
+611618914,randaller/llama-chat,Python,29
+533473538,IHP-GmbH/IHP-Open-PDK,HTML,25
