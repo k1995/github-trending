@@ -1,11 +1,11 @@
 id,name,lang,new stars
-48378947,fatedier/frp,Go,29
+48378947,fatedier/frp,Go,30
 14712850,syncthing/syncthing,Go,19
-15452919,ethereum/go-ethereum,Go,14
-136815833,Dreamacro/clash,Go,65
-72495579,go-gitea/gitea,Go,16
-119160553,photoprism/photoprism,Go,18
-510607652,pocketbase/pocketbase,Go,21
+15452919,ethereum/go-ethereum,Go,15
+136815833,Dreamacro/clash,Go,61
+72495579,go-gitea/gitea,Go,15
+119160553,photoprism/photoprism,Go,21
+510607652,pocketbase/pocketbase,Go,20
 181461073,v2fly/v2ray-core,Go,18
 120227732,fyne-io/fyne,Go,21
 19205896,restic/restic,Go,9
@@ -14,13 +14,13 @@ id,name,lang,new stars
 311315731,XTLS/Xray-core,Go,19
 154643390,sundowndev/phoneinfoga,Go,5
 291485614,XIU2/CloudflareSpeedTest,Go,21
-336895436,wader/fq,Go,34
-106867604,cloudflare/cloudflared,Go,70
+336895436,wader/fq,Go,37
+106867604,cloudflare/cloudflared,Go,186
 111455867,smartcontractkit/chainlink,Go,6
-52555254,pressly/goose,Go,20
-48299818,kopia/kopia,Go,62
+52555254,pressly/goose,Go,23
+48299818,kopia/kopia,Go,61
 509091576,SagerNet/sing-box,Go,22
-280658081,v2fly/domain-list-community,Go,9
+280658081,v2fly/domain-list-community,Go,10
 157554479,meshery/meshery,Go,5
 286530881,FloatTech/ZeroBot-Plugin,Go,6
-594749373,XTLS/REALITY,Go,10
+594749373,XTLS/REALITY,Go,12
