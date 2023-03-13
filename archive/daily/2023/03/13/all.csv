@@ -4,7 +4,7 @@ id,name,lang,new stars
 111583593,Genymobile/scrcpy,C,267
 16408992,neovim/neovim,Vim Script,58
 157616880,iptv-org/iptv,JavaScript,48
-162998479,sherlock-project/sherlock,Python,81
+162998479,sherlock-project/sherlock,Python,106
 608555244,microsoft/visual-chatgpt,Python,3827
 94801380,The-Art-of-Hacking/h4cker,Jupyter Notebook,64
 541269386,ggerganov/whisper.cpp,C,493
@@ -15,10 +15,10 @@ id,name,lang,new stars
 580642043,oobabooga/text-generation-webui,Python,193
 608892940,togethercomputer/OpenChatKit,Python,1448
 365250183,zauberzeug/nicegui,Python,95
+609090479,futantan/OpenGpt,TypeScript,304
 410480975,tangly1024/NotionNext,JavaScript,19
-609090479,futantan/OpenGpt,TypeScript,280
 559584476,bmaltais/kohya_ss,Python,45
-612015006,GanymedeNil/document.ai,Python,265
+612015006,GanymedeNil/document.ai,Python,261
 609369375,yuvalsuede/ai-component-generator,TypeScript,58
 611305072,kaixindelele/ChatPaper,Python,329
 612251817,davinci1012/pinduoduo_backdoor_unpacker,Java,73
