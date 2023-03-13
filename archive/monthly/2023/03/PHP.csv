@@ -1,17 +1,17 @@
 id,name,lang,new stars
 1863329,laravel/laravel,PHP,550
-3482588,danielmiessler/SecLists,PHP,610
+3482588,danielmiessler/SecLists,PHP,611
 7548986,laravel/framework,PHP,265
 458058,symfony/symfony,PHP,135
 1548202,matomo-org/matomo,PHP,143
 61490598,PHPOffice/PhpSpreadsheet,PHP,98
 4702560,PHPOffice/PHPExcel,PHP,13
 48796179,z-song/laravel-admin,PHP,48
-2884111,magento/magento2,PHP,91
+2884111,magento/magento2,PHP,89
 15020102,walkor/workerman,PHP,75
 2179920,woocommerce/woocommerce,PHP,64
 42261096,fuzzdb-project/fuzzdb,PHP,63
-248372441,filamentphp/filament,PHP,258
+248372441,filamentphp/filament,PHP,259
 148129143,bagisto/bagisto,PHP,551
 265782973,hlmd/Postman-cn,PHP,91
 439861,moodle/moodle,PHP,60
@@ -22,5 +22,5 @@ id,name,lang,new stars
 13044600,salesagility/SuiteCRM,PHP,62
 38957562,leokhoa/laragon,PHP,96
 311448648,laravel/breeze,PHP,37
-541322916,openai-php/client,PHP,575
+541322916,openai-php/client,PHP,576
 440520058,orhanerday/open-ai,PHP,352
