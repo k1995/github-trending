@@ -1,26 +1,26 @@
 id,name,lang,new stars
-21737465,sindresorhus/awesome,,433
-83222441,donnemartin/system-design-primer,Python,145
-111583593,Genymobile/scrcpy,C,299
-16408992,neovim/neovim,Vim Script,115
-157616880,iptv-org/iptv,JavaScript,106
-162998479,sherlock-project/sherlock,Python,127
-608555244,microsoft/visual-chatgpt,Python,3598
-94801380,The-Art-of-Hacking/h4cker,Jupyter Notebook,143
-541269386,ggerganov/whisper.cpp,C,514
-37346186,termux/termux-packages,Shell,33
-582970339,hiifeng/V2ray-for-Doprax,Dockerfile,90
+13491895,EbookFoundation/free-programming-books,,175
+63476337,TheAlgorithms/Python,Python,70
+111583593,Genymobile/scrcpy,C,300
+608555244,microsoft/visual-chatgpt,Python,3689
+596115135,base-org/node,Shell,5436
+541269386,ggerganov/whisper.cpp,C,508
+454957552,AstroNvim/AstroNvim,Lua,429
+410989014,exaloop/codon,C++,337
+244694886,ccfos/nightingale,Go,14
 612354784,ggerganov/llama.cpp,C,1433
-545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,230
-608892940,togethercomputer/OpenChatKit,Python,1581
-580642043,oobabooga/text-generation-webui,Python,352
-365250183,zauberzeug/nicegui,Python,243
-609090479,futantan/OpenGpt,TypeScript,306
-410480975,tangly1024/NotionNext,JavaScript,60
-559584476,bmaltais/kohya_ss,Python,46
-612015006,GanymedeNil/document.ai,Python,272
-611305072,kaixindelele/ChatPaper,Python,453
-609369375,yuvalsuede/ai-component-generator,TypeScript,92
-612251817,davinci1012/pinduoduo_backdoor_unpacker,Java,173
-597375353,CS-BAOYAN/CSSummerCamp2023,,34
-612498276,mckaywrigley/chatbot-ui,TypeScript,61
+608892940,togethercomputer/OpenChatKit,Python,1806
+580642043,oobabooga/text-generation-webui,Python,351
+431334391,Postcatlab/postcat,JavaScript,165
+410480975,tangly1024/NotionNext,JavaScript,26
+612015006,GanymedeNil/document.ai,Python,278
+611305072,kaixindelele/ChatPaper,Python,454
+611249232,pgrok/pgrok,Go,629
+609517170,chathub-dev/chathub,TypeScript,139
+612251817,davinci1012/pinduoduo_backdoor_unpacker,Java,171
+612750561,whoiskatrin/sql-translator,TypeScript,194
+610260322,Bin-Huang/chatbox,TypeScript,65
+538180525,ggerganov/ggml,C,50
+612139233,svc-develop-team/so-vits-svc,Python,182
+599293758,Azure-Samples/azure-search-openai-demo,Python,24
+612696221,midudev/openui.com,JavaScript,41
