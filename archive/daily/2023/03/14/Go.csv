@@ -1,21 +1,21 @@
 id,name,lang,new stars
 136815833,Dreamacro/clash,Go,79
-37448451,mattermost/mattermost-server,Go,10
-510607652,pocketbase/pocketbase,Go,55
-120227732,fyne-io/fyne,Go,25
+37448451,mattermost/mattermost-server,Go,11
+510607652,pocketbase/pocketbase,Go,59
+120227732,fyne-io/fyne,Go,27
 19205896,restic/restic,Go,12
-62712899,AdguardTeam/AdGuardHome,Go,17
+62712899,AdguardTeam/AdGuardHome,Go,16
 187403699,FiloSottile/age,Go,13
 40684033,mozilla/sops,Go,37
 281694167,Mrs4s/go-cqhttp,Go,33
-52481933,navidrome/navidrome,Go,26
+52481933,navidrome/navidrome,Go,24
 65616765,gokcehan/lf,Go,11
-106867604,cloudflare/cloudflared,Go,371
-201546443,trustwallet/assets,Go,2
+106867604,cloudflare/cloudflared,Go,380
+201546443,trustwallet/assets,Go,1
 238797860,ethereum-optimism/optimism,Go,15
-48299818,kopia/kopia,Go,35
+48299818,kopia/kopia,Go,41
 509091576,SagerNet/sing-box,Go,18
-255437195,ViRb3/wgcf,Go,4
+255437195,ViRb3/wgcf,Go,5
 272663924,techschool/simplebank,Go,15
 334169919,projectdiscovery/interactsh,Go,5
 280658081,v2fly/domain-list-community,Go,7
@@ -23,4 +23,4 @@ id,name,lang,new stars
 423466379,V4NSH4J/discord-mass-DM-GO,Go,4
 157554479,meshery/meshery,Go,5
 286530881,FloatTech/ZeroBot-Plugin,Go,7
-611249232,pgrok/pgrok,Go,642
+611249232,pgrok/pgrok,Go,466
