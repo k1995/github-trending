@@ -1,14 +1,14 @@
 id,name,lang,new stars
 8514,rails/rails,Ruby,4
-27442967,fastlane/fastlane,Ruby,5
-481872,hashicorp/vagrant,Ruby,8
-73648678,forem/forem,Ruby,4
-538746,ruby/ruby,Ruby,5
+27442967,fastlane/fastlane,Ruby,4
+481872,hashicorp/vagrant,Ruby,7
+73648678,forem/forem,Ruby,3
+538746,ruby/ruby,Ruby,4
 2203645,CocoaPods/CocoaPods,Ruby,1
-3195124,sidekiq/sidekiq,Ruby,2
+3195124,sidekiq/sidekiq,Ruby,1
 106995,sinatra/sinatra,Ruby,1
-2441517,puma/puma,Ruby,0
-910744,puppetlabs/puppet,Ruby,1
+2441517,puma/puma,Ruby,1
+910744,puppetlabs/puppet,Ruby,2
 6899875,opf/openproject,Ruby,6
 211588,paper-trail-gem/paper_trail,Ruby,1
 30337170,rmosolgo/graphql-ruby,Ruby,0
@@ -18,7 +18,7 @@ id,name,lang,new stars
 3898922,zammad/zammad,Ruby,2
 93163073,dependabot/dependabot-core,Ruby,2
 10088951,TheOdinProject/theodinproject,Ruby,1
-29151578,rswag/rswag,Ruby,1
+29151578,rswag/rswag,Ruby,2
 61203,Shopify/shopify_app,Ruby,0
 238986,rspec/rspec-expectations,Ruby,0
 3276877,ThrowTheSwitch/Ceedling,Ruby,1
