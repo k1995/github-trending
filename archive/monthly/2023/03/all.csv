@@ -1,26 +1,26 @@
 id,name,lang,new stars
-1039520,ytdl-org/youtube-dl,Python,1720
-155220641,huggingface/transformers,Python,4514
-26066727,mermaid-js/mermaid,JavaScript,1694
-527591471,AUTOMATIC1111/stable-diffusion-webui,Python,15191
-523379232,CompVis/stable-diffusion,Jupyter Notebook,4571
-574523116,f/awesome-chatgpt-prompts,HTML,16297
-307260205,yt-dlp/yt-dlp,Python,3601
-169677297,vlang/v,V,1815
-222751131,Asabeneh/30-Days-Of-Python,Python,3395
-422274596,hpcaitech/ColossalAI,Python,7416
-595893961,lllyasviel/ControlNet,Python,11583
-552661142,hwchase17/langchain,Python,4694
-541269386,ggerganov/whisper.cpp,C,4524
-436297812,usememos/memos,TypeScript,4783
-440079558,alibaba/lowcode-engine,TypeScript,1027
-392603437,NAStool/nas-tools,Python,1119
-307213173,openai/openai-python,Python,3220
-522158088,zhayujie/chatgpt-on-wechat,Python,3156
-600798098,Mikubill/sd-webui-controlnet,Python,4121
-586265895,mrsked/mrsk,Ruby,2906
-596424141,amazon-science/mm-cot,Python,2409
-591782276,jaymody/picoGPT,Python,1348
-549830413,civitai/civitai,TypeScript,1394
-295598569,TheoKanning/openai-java,Java,813
-559584476,bmaltais/kohya_ss,Python,1039
+155220641,huggingface/transformers,Python,5675
+574523116,f/awesome-chatgpt-prompts,HTML,21989
+527591471,AUTOMATIC1111/stable-diffusion-webui,Python,14146
+577116112,PlexPt/awesome-chatgpt-prompts-zh,,14134
+222751131,Asabeneh/30-Days-Of-Python,Python,3741
+468576060,openai/openai-cookbook,Jupyter Notebook,9177
+579082810,dair-ai/Prompt-Engineering-Guide,Jupyter Notebook,8974
+552661142,hwchase17/langchain,Python,8911
+601538369,facebookresearch/llama,Python,9831
+541269386,ggerganov/whisper.cpp,C,6358
+599394820,Chanzhaoyu/chatgpt-web,Vue,10117
+520708737,fauxpilot/fauxpilot,Python,2444
+560704231,jerryjliu/llama_index,Python,4958
+522158088,zhayujie/chatgpt-on-wechat,Python,4107
+458588993,nebuly-ai/nebullvm,Python,3898
+307213173,openai/openai-python,Python,3965
+545814405,camenduru/stable-diffusion-webui-colab,Jupyter Notebook,3972
+586265895,mrsked/mrsk,Ruby,3758
+580642043,oobabooga/text-generation-webui,Python,4190
+393874035,BlinkDL/RWKV-LM,Python,2412
+589831718,comfyanonymous/ComfyUI,Python,3365
+288482469,sashabaranov/go-openai,Go,2380
+575042276,gencay/vscode-chatgpt,TypeScript,2237
+602366280,yihong0618/xiaogpt,Python,1921
+559584476,bmaltais/kohya_ss,Python,1131

@@ -1,25 +1,25 @@
 id,name,lang,new stars
 453717720,AykutSarac/jsoncrack.com,TypeScript,261
 163591278,GitHubDaily/GitHubDaily,,102
-468576060,openai/openai-cookbook,Jupyter Notebook,425
+468576060,openai/openai-cookbook,Jupyter Notebook,423
 585146387,shadcn/ui,TypeScript,104
-612354784,ggerganov/llama.cpp,C,1211
-410989014,exaloop/codon,C++,569
-612427246,tatsu-lab/stanford_alpaca,Python,1630
-608892940,togethercomputer/OpenChatKit,Python,972
+612354784,ggerganov/llama.cpp,C,1217
+410989014,exaloop/codon,C++,705
+612427246,tatsu-lab/stanford_alpaca,Python,1628
+608892940,togethercomputer/OpenChatKit,Python,873
 592489166,openai/evals,Python,1020
 613349035,THUDM/ChatGLM-6B,Python,1211
-599662622,acheong08/EdgeGPT,Python,256
+599662622,acheong08/EdgeGPT,Python,254
 573822937,mmabrouk/chatgpt-wrapper,Python,57
-609721722,xx025/carrot,,363
-589831718,comfyanonymous/ComfyUI,Python,353
-527735423,awslabs/mountpoint-s3,Rust,441
+609721722,xx025/carrot,,361
+589831718,comfyanonymous/ComfyUI,Python,252
+527735423,awslabs/mountpoint-s3,Rust,452
 612750561,whoiskatrin/sql-translator,TypeScript,420
-609517170,chathub-dev/chathub,TypeScript,318
+609517170,chathub-dev/chathub,TypeScript,169
 586310592,Const-me/Whisper,C++,142
 594060646,WassimTenachi/PhySO,Python,182
 613486352,setzer22/llama-rs,Rust,459
-538180525,ggerganov/ggml,C,67
+538180525,ggerganov/ggml,C,66
 613591358,tloen/alpaca-lora,Jupyter Notebook,172
 607924273,github/github-ospo,,106
 612009220,202252197/ChatGPT_JCM,Vue,67
